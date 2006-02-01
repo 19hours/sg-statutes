@@ -1184,12 +1184,6 @@ PRELIMINARY
 
 2\. This Act is divided into Parts, Divisions and Subdivisions as follows:
 
-Part I
-
-...
-
-Preliminary sections 1-7.
-
 Part II
 
 ...
@@ -1697,7 +1691,9 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 (4) For the purposes of this Act, a statement shall be deemed to be included in a statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
 
-### Invitation to lend money deemed invitation to purchase debentures
+Invitation to lend money deemed invitation to purchase debentures
+
+(5) [ ]
 
 (5) For the purposes of this Act, any invitation to the public to deposit money with or lend money to a corporation (other than a prescribed corporation referred to in section 239(4) of the Securities and Futures Act 2001) shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation.
 
@@ -1709,7 +1705,9 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 As to what constitutes an offer to the public
 
-(6) [Deleted by Act 42/2001 wef 01/07/2002]
+(6) [ ]
+
+(6) [Act 42/2001 wef 01/07/2002]
 
 (7) Unless the contrary intention appears any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -1751,9 +1749,7 @@ and, without limiting the generality of the foregoing, any conduct of such a rec
 
 (9) For the purposes of this Act wherever a reference to the affairs of a company or a foreign company appears it shall be construed as including a reference to the affairs of a corporation as defined in subsection (8).
 
-[U.K.ss.154,455.Aust.s.5.]
-
-[ ,10/74,15/84,13/87]
+[62/70,10/74,15/84,13/87]
 
 (10) A reference in this Act to the directors of a company shall, in the case of a company which has only one director, be construed as a reference to that director.
 
@@ -2046,6 +2042,8 @@ for the proper administration of this Act.
 [13/87]
 
 [Aust.s.7.]
+
+[13/87]
 
 ### Inspection of books of corporation
 
@@ -2573,11 +2571,11 @@ Incorporation
 
 (a) restricts the right to transfer its shares; and
 
-(b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company);
+(b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company) .
 
-(c) [Deleted by Act 5/2004 wef 01/04/2004]
+(c) [Act 5/2004 wef 01/04/2004]
 
-(d) [Deleted by Act 5/2004 wef 01/04/2004]
+(d) [Act 5/2004 wef 01/04/2004]
 
 (2) Where, on 29th December 1967, neither the memorandum nor articles of a company that is a private company by virtue of paragraph (a) ofthe definition of “private company” in section 4(1) contain the restrictions and limitations required by subsection (1) to be included in the memorandum or articles of a company that may be incorporated as a private company, the articles of the company shall be deemed to include each such restriction or limitation that is not so included and a restriction on the right to transfer its shares that is so deemed to be included in its articles shall be deemed to be a restriction that prohibits the transfer of shares except to a person approved by the directors of the company.
 
@@ -2705,7 +2703,9 @@ as the case may be, and where applicable, that it is a private company.
 
 (a) the name of the company;
 
-(b) [Deleted by Act 5/2004 wef 01/04/2004]
+(b) [Act 5/2004 wef 01/04/2004]
+
+(c) [Act 21/2005 wef 30/01/2006]
 
 (d) if the company is a company limited by shares, that the liability of the members is limited;
 
@@ -2831,7 +2831,7 @@ Powers
 
 (3) The Registrar shall register every resolution, order or other document lodged with him under this Act that affects the memorandum of a company and, where an order is so registered shall issue to the company a notice of the registration of that order.
 
-(4) [Deleted by Act 12/2002 wef 13/01/2003]
+(4) [Act 12/2002 wef 13/01/2003]
 
 (5) Notice of the registration shall be published in such manner, if any, as the Court or the Registrar directs.
 
@@ -2879,7 +2879,7 @@ Powers
 
 [5/2005 wef 11/04/2005]
 
-(c) [Deleted by Act 12/2002 wef 13/01/2003]
+(c) [Act 12/2002 wef 13/01/2003]
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
@@ -3149,7 +3149,7 @@ any legal proceedings that could have been continued or commenced by or against 
 
 (b) a statement in lieu of prospectus; and
 
-(c) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with,
+(c) a declaration in the prescribed form verifying that section 61(2) (b) has been complied with,
 
 and thereupon the restrictions and limitations referred to in section 18(1) as included in or deemed to be included in the memorandum or articles of such company shall cease to form part of the memorandum or articles.
 
@@ -3169,13 +3169,13 @@ and thereupon the restrictions and limitations referred to in section 18(1) as i
 
 ### Default in complying with requirements as to private companies
 
-32\.—(1) [Deleted by Act 5/2004 wef 01/04/2004]
+32\.—(1) [Act 5/2004 wef 01/04/2004]
 
 (2) Where —
 
 (a) default has been made in relation to a private company in complying with a limitation of a kind specified in section 18(1)(b) that is included, or is deemed to be included in the memorandum or articles of the company;
 
-(b) [Deleted by Act 5/2004 wef 01/04/2004]
+(b) [Act 5/2004 wef 01/04/2004]
 
 (c) the memorandum or articles of a private company have been so altered that they no longer include restrictions or limitations of the kinds specified in section 18(1); or
 
@@ -3195,6 +3195,8 @@ the Registrar may by notice served on the company determine that, on such date a
 
 (ii) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with.
 
+(iii) [Act 21/2005 wef 30/01/2005]
+
 (4) Where the Court is satisfied that a default or alteration referred to in subsection (2) has occurred but that it was accidental or due to inadvertence or to some other sufficient cause or that on other grounds it is just and equitable to grant relief, the Court may, on such terms and conditions as to the Court seem just and expedient, determine that the company has not ceased to be a private company.
 
 (5) A company that, by virtue of a determination made under this section, has become a public company shall not convert to a private company without the leave of the Court.
@@ -3203,7 +3205,7 @@ the Registrar may by notice served on the company determine that, on such date a
 
 [15/84]
 
-(7) [Deleted by Act 5/2004 wef 01/04/2004]
+(7) [Act 5/2004 wef 01/04/2004]
 
 (8) Where default is made in relation to a private company in complying with any restriction or limitation of a kind specified in section 18(1) that is included, or deemed to be included, in the memorandum or articles of the company, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
 
@@ -3278,6 +3280,8 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 (2) Articles shall comply with such requirements as may be prescribed.
 
 [12/2002 wef 13/01/2003]
+
+(3) [Act 21/2005 wef 30/01/2005]
 
 (4) In the case of an unlimited company or a company limited by guarantee the articles shall state the number of members with which the company proposes to be registered.
 
@@ -3425,7 +3429,7 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 
 [13/87]
 
-42\. [Deleted by Act 5/2004 wef 01/04/2004]
+42\. [Act 5/2004 wef 01/04/2004]
 
 ### Company or foreign company with a charitable purpose which contravenes the Charities Act or regulations made thereunder may be wound up or struck off the register
 
@@ -3454,9 +3458,9 @@ Restrictions on allotment and
 
 commencement of business
 
-57\. [Repealed by S 236/2002 wef 01/07/2002]
+57\. [S 236/2002 wef 01/07/2002]
 
-58\. [Repealed by S 236/2002 wef 01/07/2002]
+58\. [S 236/2002 wef 01/07/2002]
 
 ### Restriction on allotment in certain cases
 
@@ -3774,7 +3778,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 69B\. [Act 21/2005 wef 30/01/2006]
 
-69C\. [Act 21/2005 wef 30/01/2006]
+69C\. [Deleted by Act 21/2005]
 
 69D\. [Act 21/2005 wef 30/01/2006]
 
@@ -3800,6 +3804,12 @@ the company shall lodge with the return a statement containing such particulars 
 
 [21/2005 wef 30/01/2006]
 
+(5) [Act 21/2005 wef 30/01/2005]
+
+(6) [Act 21/2005 wef 30/01/2005]
+
+(7) [Act 21/2005 wef 30/01/2005]
+
 (8) If a company redeems any redeemable preference shares it shall within 14 days after so doing give notice thereof to the Registrar specifying the shares redeemed.
 
 [U.K.s.58.Aust.s.61.]
@@ -3807,6 +3817,8 @@ the company shall lodge with the return a statement containing such particulars 
 ### Power of company to alter its share capital
 
 71\.—(1) A company, if so authorised by its articles, may in general meeting alter its share capital in any one or more of the following ways:
+
+(a) [Act 21/2005 wef 30/01/2005]
 
 (b) consolidate and divide all or any of its share capital;
 
@@ -3831,6 +3843,12 @@ the company shall lodge with the return a statement containing such particulars 
 (a) increase the amount of its share capital by increasing the issue price of each of its shares, but subject to the condition that no part of the increased capital shall be capable of being called up except in the event and for the purposes of the company being wound up; and
 
 (b) in addition or alternatively, provide that a specified portion of its uncalled share capital shall not be capable of being called up except in the event and for the purposes of the company being wound up.
+
+Notice of increase of share capital
+
+(4) [Act 21/2005 wef 30/01/2006]
+
+(5) [Act 21/2005 wef 30/01/2006]
 
 ### Validation of shares improperly issued
 
@@ -5116,6 +5134,8 @@ Substantial shareholdings
 
 [21/2005 wef 30/01/2006]
 
+(5) [Act 21/2005 wef 30/01/2006]
+
 ### Substantial shareholder to notify company of his interests
 
 82\.—(1) A person who is a substantial shareholder in a company shall give notice in writing to the company stating his name and address and full particulars (including unless the interest or interests cannot be related to a particular share or shares the name of the person who is registered as the holder) of the voting shares in the company in which he has an interest or interests and full particulars of each such interest and of the circumstances by reason of which he has that interest.
@@ -5668,7 +5688,7 @@ for the transfer of securities
 
 “depositor” means an account holder or a depository agent but does not include a sub-account holder;
 
-“depository agent” means a member company of the Securities Exchange, a trust company (registered under the Trust Companies Act [Cap. 336]), a banking corporation or merchant bank (approved by the Monetary Authority of Singapore under the Monetary of Singapore Act) or any other person or body approved by the Depository who or which —
+“depository agent” means a member company of the Securities Exchange, a trust company (licensed under the Trust Companies Act 2005), a banking corporation or merchant bank (approved by the Monetary Authority of Singapore under the Monetary of Singapore Act) or any other person or body approved by the Depository who or which —
 
 (a) performs services as a depository agent for sub-account holders in accordance with the terms of a depository agent agreement entered into between the Depository and the depository agent;
 
@@ -6555,6 +6575,8 @@ On a hearing of an application under this section —
 (5) In this section —
 
 “foreign company” means a foreign company to which Division 2 of Part XI applies;
+
+[36/2000 wef 22/01/2001]
 
 ### Appointment of directors to be voted on individually
 
@@ -15142,8 +15164,6 @@ Package information
 
 [S 75/2004 wef 01/03/2004]
 
-[S 262/2004 wef 01/04/2004]
-
 [S 19/2003 wef 13/01/2003]
 
 THIRD SCHEDULE
@@ -15264,21 +15284,15 @@ Conversion of shares into stock
 
 Alteration of capital
 
-40\. The company may from time to time by ordinary resolution do one or more of the following:
+40. The company may from time to time by ordinary resolution do one or more of the following:
 
-40.—(a) increase the share capital by such sum as the resolution shall prescribe;
+(a) increase the share capital by such sum as the resolution shall prescribe;
 
-(b)
+(b) consolidate and divide all or any of its share capital;
 
-consolidate and divide all or any of its share capital;
+(c) subdivide its shares or any of them, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
 
-(c)
-
-subdivide its shares or any of them, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
-
-(d)
-
-cancel the number of shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the number of the shares so cancelled.
+(d) cancel the number of shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the number of the shares so cancelled.
 
 [42/2005 wef 30/01/2006]
 
@@ -15342,11 +15356,11 @@ Signed this day of 19 .
 
 This form is to be used
 
-4
+3
 
 in favour of
 
-4Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+3Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 the resolution.
 
@@ -15802,6 +15816,8 @@ Contents of Annual Return
 
 [S 56/2006 wef 30/01/2006]
 
+(v) [S 56/2006 wef 30/01/2006]
+
 (vi) the total number of shares forfeited since the date of the last summary of return or, if none had been filed previously, since the date of incorporation;
 
 (vii) the total number of shares held as treasury shares;
@@ -15815,6 +15831,8 @@ Contents of Annual Return
 (ix) the total amount of the sums, if any, paid by way of commission in respect of any debentures since the date of the last summary of return or, if none had been filed previously, since the date of incorporation;
 
 [S 56/2006 wef 30/01/2006]
+
+(x) [S 55/2006 wef 30/01/2006]
 
 (f) particulars of the directors, managers, secretaries and auditors of the company as at the date of the confirmation of the summary of return by an officer of the company;
 
@@ -16242,3 +16260,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|30 January 2006|
 |84.|**G. N. No. S 56/2006—Companies Act (Amendment of Eighth Schedule) Notification 2006**|
 ||Date of commencement|30 January 2006|
+|85.|**Act 11 of 2005—Trust Companies Act 2005**|
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
