@@ -186,11 +186,15 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 5\.—(1) Subject to the provisions of this Act, a tribunal shall have jurisdiction to hear and determine —
 
-(a) any claim relating to a dispute arising from any contract for the sale of goods or the provision of services; and
+(a) any claim relating to a dispute arising from any contract for the sale of goods or the provision of services;
 
-(b) any claim in tort in respect of damage caused to any property.
+(b) any claim in tort in respect of damage caused to any property; and
 
 [17/95]
+
+(c) any claim relating to a dispute arising from any contract for the lease of residential premises that does not exceed 2 years.
+
+[43/2005 wef 15/02/2006]
 
 (2) The jurisdiction of a tribunal shall not extend to a claim —
 
@@ -724,6 +728,14 @@ APPEAL
 
 (b) on the ground that the claim was outside the jurisdiction of the tribunal.
 
+(1A) An appeal shall lie to the High Court under this section only if leave to appeal is given by the District Court.
+
+[43/2005 wef 15/02/2006]
+
+(1B) For the avoidance of doubt, leave of the District Court is necessary even if one of the grounds stated in subsection (1) is shown to exist.
+
+[43/2005 wef 15/02/0200]
+
 (2) Rules may be made under section 47 to regulate and prescribe the procedure to be followed on appeals from a tribunal to the High Court.
 
 [35
@@ -920,3 +932,8 @@ This Legislative History is provided for the convenience of users of the Small C
 |||(Bill No. 40/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 April 2002|
+|11.|**Act 43 of 2005—Small Claims Tribunals (Amendment) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 29/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|15 February 2006|
