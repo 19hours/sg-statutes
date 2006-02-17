@@ -726,8 +726,6 @@ the taxable person shall account of an amount equal to such input tax —
 
 and the taxable person shall repay such amount to the Comptroller at the same time as any tax in respect of the prescribed accounting period would be payable by him.
 
-[38/2005 wef 01/01/2006]
-
 (12A) Where a taxable person —
 
 (a) has complied with subsection (12); and
@@ -735,8 +733,6 @@ and the taxable person shall repay such amount to the Comptroller at the same ti
 (b) during the subsequent specified period, pays his supplier the whole or part of the consideration for the supply of goods or services referred to in subsection (12)(a),
 
 the taxable person shall be entitled to treat an amount equal to the input tax relating to the payment referred to in paragraph (b) as if it were input tax for the prescribed accounting period during which the payment was made.
-
-[38/2005 wef 01/01/2006]
 
 (13) The Minister may by regulations provide —
 
@@ -759,8 +755,6 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 “initial specified period” means a period of 12 months from the due date for payment of the consideration or the part thereof, as the case may be, by the taxable person to his supplier;
 
 “subsequent specified period” means a period commencing on the day immediately following the end of the initial specified period, and ending on a day 6 years from the end of the prescribed accounting period during which the relevant input tax was first credited under subsection (2).
-
-[38/2005 wef 01/01/2006]
 
 [UK VAT Act 1983, s. 14]
 
@@ -899,8 +893,6 @@ not being services which are supplied directly in connection with —
 (o) the supply (including the letting on hire) of any ship or aircraft;
 
 (p) prescribed services comprising the repair, maintenance, broking or management of any ship or aircraft;
-
-[38/2005 wef 01/01/2006]
 
 (q) prescribed services comprising the provision of any means of telecommunication transmitted —
 
@@ -1648,8 +1640,6 @@ ACCOUNTING AND ASSESSMENTS
 
 (b) for the keeping of accounts in electronic form in a computer;
 
-[38/2005 wef 01/01/2006]
-
 (ba) for the making and submission of returns through the electronic service, and for —
 
 (i) requiring any prescribed class of persons to make and submit prescribed types of returns through the electronic service, except —
@@ -1660,11 +1650,7 @@ ACCOUNTING AND ASSESSMENTS
 
 (ii) any procedure relating to the making and submission of returns through the electronic service;
 
-[38/2005 wef 01/01/2006]
-
 (bb) for the making of declarations to verify returns through the electronic service;
-
-[38/2005 wef 01/01/2006]
 
 (c) for treating tax chargeable in one prescribed accounting period as chargeable in another such period;
 
@@ -3694,7 +3680,13 @@ Finance
 
 [S 676/2008 wef 01/01/2009]
 
-(q) the arrangement, provision, or transfer of ownership, of any contract of re-insurance.
+(q) the arrangement, provision, or transfer of ownership, of any contract of re-insurance ;
+
+(r) the provision of financing by a financial institution in connection with a qualifying Islamic financial arrangement in relation to non-residential property, for which the financial institution derives an effective return.
+
+[28/2007 wef 17/02/2006]
+
+[S 107/94; S204/2000]
 
 Land
 
@@ -3722,9 +3714,47 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 “debt security” means any interest in or right to be paid money that is, or is to be, owing by any person or any option to acquire any such interest or right but excludes a contract of insurance and an estate or interest in land, other than an estate or interest as mortgagee or chargeholder;
 
+“effective return” means —
+
+(a) in the case of a qualifying Islamic financial arrangement described in paragraphs (a), (b) and (c) (i) of the definition of that arrangement, the difference between the price of the non-residential property sold by the financial institution to the purchaser over the cost of the non-residential property bought by the financial institution; and
+
+(b) in the case of a qualifying Islamic financial arrangement described in paragraphs (a), (b) and (c) (ii) of the definition of that arrangement, the difference between the payments made by the purchaser over the cost of the non-residential property bought by the financial institution;
+
+[28/2007 wef 17/02/2006]
+
 “equity security” means any interest in or right to a share in the capital of a body corporate or any option to acquire any such interest or right but excludes a contract of insurance and an estate or interest in land, other than an estate or interest as mortgagee or chargeholder;
 
+“financial institution” means —
+
+(a) an institution licensed or approved by the Monetary Authority of Singapore, or exempted from such licensing or approval under any written law administered by the Monetary Authority of Singapore; and
+
+(b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, by its financial supervisory authority for the carrying on of financial activities;
+
+[28/2007 wef 17/02/2006]
+
 “life insurance contract” means a contract for the provision of a life policy within the meaning of the Insurance Act (Cap. 142);
+
+“Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
+
+[28/2007 wef 17/02/2006]
+
+“non-residential property” means any land, building, flat or tenement other than any land, building, flat or tenement described in paragraph 2(a), (b) and (c);
+
+[28/2007 wef 17/02/2006]
+
+“qualifying Islamic financial arrangement”, in relation to non-residential property, means an arrangement that is entered into between a financial institution and a purchaser —
+
+(a) which is endorsed by anyShari’ahcouncil or body, or by any committee formed for the purpose of providing guidance on compliance withShari’ah law;
+
+(b) which is provided by a financial institution that is permitted by the Monetary Authority of Singapore or any financial supervisory authority outside Singapore, as the case may be, to engage in the financial arrangement in question; and
+
+(c) whereby the financial institution purchases the non-residential property from the seller with a view to selling the same to the purchaser and —
+
+(i) the financial institution immediately sells the non-residential property to the purchaser (whether in consideration of a lump sum payment or instalment payments); or
+
+(ii) the financial institution immediately leases the non-residential property to the purchaser with an option for the purchaser to purchase the same;
+
+[28/2007 wef 17/02/2006]
 
 “unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust .
 
@@ -3941,6 +3971,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 37/2005 published on 9 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|24.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 15/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|17 February 2006|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
