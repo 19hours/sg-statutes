@@ -102,6 +102,10 @@
 
 - [13P Exemption of income derived from asset securitisation transaction](#Exemption-of-income-derived-from-asset-securitisation-transaction)
 
+- [13Q Exemption of relevant income of prescribed locally administered trust](#Exemption-of-relevant-income-of-prescribed-locally-administered-trust)
+
+- [13R Exemption of income of company incorporated and resident in Singapore arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-company-incorporated-and-resident-in-Singapore-arising-from-funds-managed-by-fund-manager-in-Singapore)
+
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
 - [14 Deductions allowed](#Deductions-allowed)
@@ -191,6 +195,8 @@
 - [34 Discretion no bar to appeal](#Discretion-no-bar-to-appeal)
 
 - [34A Adjustment on change of basis of computing profits of financial instruments](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments)
+
+- [34B Islamic financing arrangements](#Islamic-financing-arrangements)
 
 [**Part VIII ASCERTAINMENT OF STATUTORY INCOME**](#Part-VIII)
 
@@ -287,6 +293,8 @@
 - [43T Concessionary rate of tax for income derived from securities lending or repurchase arrangement](#Concessionary-rate-of-tax-for-income-derived-from-securities-lending-or-repurchase-arrangement)
 
 - [43U Concessionary rate of tax for income derived from organising or staging tourism event](#Concessionary-rate-of-tax-for-income-derived-from-organising-or-staging-tourism-event)
+
+- [43V Concessionary rate of tax for clearing member of Singapore clearing house](#Concessionary-rate-of-tax-for-clearing-member-of-Singapore-clearing-house)
 
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
@@ -996,7 +1004,7 @@ is the amount of balancing charge.
 
 [49/2004 wef 30/11/2004]
 
-[Act 7/2007, wef 01/03/006]
+[Act 7/2006, wef 01/03/2006]
 
 (6) Any gains or profits, directly or indirectly, derived by any person from a right or benefit granted on or after 1st January 2003, whether granted in his name or in the name of his nominee or agent, to acquire shares in any company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income chargeable to tax under subsection (1)(b), accruing at such time and of such amount as determined under the following provisions:
 
@@ -1226,7 +1234,13 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (e) discount derived from outside Singapore and received in Singapore on or after 27th February 2004;
 
-(f) discount from qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008; and
+(f) discount from —
+
+(i) qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+
+[7/2007 wef 17/02/2006]
 
 (g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies,
 
@@ -2094,13 +2108,21 @@ EXEMPTION FROM INCOME TAX
 
 (ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities, which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008, by —
+(aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities —
 
-(i) any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+(i) issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+(ii) issued during the period from 17th February 2006 to 31st December 2008,
+
+by —
+
+(A) any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; or
+
+(B) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [49/2004 wef 27/02/2004]
+
+[7/2007 wef 17/02/2006]
 
 (ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008, to any person —
 
@@ -2250,9 +2272,23 @@ except where such income is derived through a partnership in Singapore or is der
 
 [7/2007 wef 13/02/2007]
 
-(zg) any distribution made by any registered business trust.
+(zg) any distribution made by any trustee‑manager of a registered business trust;
 
-[34/2005 wef 21/09/2004]
+[7/2007 wef 17/02/2006]
+
+(zh) any distribution made by any trustee of a real estate investment trust of any income of the kinds referred to in section 43(2A)(a) (i), (ii) and (iii) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+[7/2007 wef 17/02/2006]
+
+(zi) the following income derived from Singapore on or after 17th February 2006 by any individual:
+
+(i) any discount from debt securities;
+
+(ii) any distribution made by any restricted authorised scheme out of income derived from Singapore or received in Singapore on or after 17th February 2006, that is income or deemed to be income of the individual, except distribution made out of Singapore dividends from which tax is deducted or deductible under section 44,
+
+except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession; and
+
+[7/2007 wef 17/02/2006]
 
 (zj) any income from any structured product offered by a financial institution derived from Singapore —
 
@@ -2434,6 +2470,10 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
+“restricted authorised scheme” means a collective investment scheme constituted as a unit trust authorised under regulations made under the Securities and Futures Act (Cap. 289) for the purpose of section 305 of that Act;
+
+[7/2007 wef 17/02/2006]
+
 “securities lending or repurchase arrangement” has the same meaning as in section 10N(12);
 
 [49/2004 wef 01/01/2004]
@@ -2562,13 +2602,17 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 ### Exemption of certain dividends
 
-13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T or 43U, the following provisions of this section shall have effect.
+13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, the following provisions of this section shall have effect.
 
 [1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
 
-(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T or 43U, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+[7/2007 wef 17/02/2006]
+
+(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
 
 [15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
+
+[7/2007 wef 17/02/2006]
 
 (3) Where the account is in credit at the date on which any dividends are paid by the company out of the net amount of the income credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
 
@@ -2596,7 +2640,9 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T or 43U; or
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X; or
+
+[7/2007 wef 17/02/2006]
 
 (b) any dividend which has been exempted from tax in the hands of any shareholder,
 
@@ -2718,7 +2764,9 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R, 43S, 43T or 43U or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
+
+[7/2007 wef 17/02/2006]
 
 (c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
 
@@ -2786,21 +2834,41 @@ as the case may be.
 
 (2) Where any income of a foreign trust is exempt from tax under regulations made under subsection (1) in any year of assessment, the share of such income to which any beneficiary under the trust is entitled to receive for that year of assessment shall also be exempt from tax if the beneficiary —
 
-(a) being an individual, is neither a citizen of Singapore nor resident in Singapore; or
+(a) being an individual, is neither a citizen of Singapore nor resident in Singapore;
+
+[7/2007 wef 17/02/2006]
 
 (b) being a company, is neither incorporated nor resident in Singapore and where such a company —
 
 (i) has not more than 50 shareholders, all of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore; or
 
-(ii) has more than 50 shareholders, not less than 95% of the total number of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore.
+(ii) has more than 50 shareholders, not less than 95% of the total number of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore;
+
+(c) being any other person, is neither resident in Singapore nor constituted or registered under any written law in Singapore; or
+
+[7/2007 wef 17/02/2006]
+
+(d) is a trustee of another foreign trust specified under subsection (1).
+
+[7/2007 wef 17/02/2006]
+
+(2A) Where any income of a foreign trust is exempt from tax under regulations made under subsection (1) in any year of assessment, the share of such income that a foreign account of a philanthropic purpose trust is entitled to receive for that year of assessment shall also be exempt from tax.
 
 [37/2002]
+
+[7/2007 wef 17/02/2006]
 
 (3) Notwithstanding subsections (1) and (2), where it appears to the Comptroller that any income of a foreign trust or eligible holding company ought not to have been exempted under regulations made under subsection (1), the Comptroller may, subject to section 74, make such assessment or additional assessment upon the foreign trust or eligible holding company, as the case may be, as may appear to be necessary.
 
 [37/2002]
 
-(4) In this section, “trustee company” has the same meaning as in section 43J(2).
+(4) In this section —
+
+“foreign account” and “philanthropic purpose trust” have the same meanings as in section 13O;
+
+“trustee company” has the same meaning as in section 43J(2).
+
+[7/2007 wef 17/02/2006]
 
 ### Exemption of income of venture company
 
@@ -3424,6 +3492,86 @@ as the Minister may by regulations prescribe.
 
 [34/2005 wef 27/02/2004]
 
+### Exemption of relevant income of prescribed locally administered trust
+
+13Q\.—(1) There shall be exempt from tax all relevant income of —
+
+(a) such locally administered trust as the Minister may by regulations prescribe; and
+
+(b) a holding company established for the purposes of such trust, as the Minister may by regulations prescribe.
+
+(2) Where any relevant income of a prescribed locally administered trust is exempt from tax under subsection (1) in any year of assessment, the share of such income to which any beneficiary of the locally administered trust is entitled to receive for that year of assessment shall also be exempt from tax.
+
+(3) In this section —
+
+“locally administered trust” means a trust administered by a trustee company in Singapore —
+
+(a) every settlor of which is an individual;
+
+(b) every beneficiary of which is an individual or a charitable institution, trust or body of persons established for charitable purposes only; and
+
+(c) at least one of the beneficiaries of which is not a settlor of the trust;
+
+“relevant income” means —
+
+(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi) or (zj) accrued in or derived from Singapore on or after 17th February 2006; or
+
+(b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 17th February 2006 excluding, in respect of a prescribed locally administered trust, any dividend received by the trust from a prescribed holding company not resident in Singapore, if the dividend is paid out of income that is not the relevant income of the holding company;
+
+“trustee company” has the same meaning as in section 43J(2).
+
+[7/2007 wef 17/02/2006]
+
+### Exemption of income of company incorporated and resident in Singapore arising from funds managed by fund manager in Singapore
+
+13R\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of a company incorporated and resident in Singapore and approved by the Minister or such person as he may appoint (referred to in this section as an approved company), arising from funds managed —
+
+(a) in Singapore by such fund manager as may be prescribed; or
+
+(b) by such person as may be approved by the Minister or by a person appointed by him, subject to such conditions as the Minister may impose.
+
+(2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved company to be exempted and for the deduction of losses otherwise than in accordance with section 37.
+
+(3) No approval shall be granted under subsection (1) after 16th February 2011.
+
+(4) The Comptroller shall, for each year of assessment for which the income of an approved company is exempt from tax under subsection (1), issue to the company a statement showing the amount of income exempt from tax, and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+
+(5) Subject to subsection (6), where any statement issued to an approved company under subsection (4) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
+
+(6) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved company as exempt from tax pending such statement becoming final and conclusive.
+
+(7) As soon as any amount of the income of an approved company has been exempted under subsection (1), the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
+
+(8) Where the account of an approved company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+
+(9) So much of the amount of any dividends debited to the account under subsection (8) as is received by a shareholder of an approved company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+
+(10) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the approved company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+(11) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
+
+(12) Where an amount of dividends exempt from tax under this section has been received from an approved company by a shareholder, then, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
+
+(13) Notwithstanding subsections (9) and (12), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+(14) An approved company shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+
+(15) Notwithstanding anything in this section, where it appears to the Comptroller that —
+
+(a) any income of an approved company which has been exempted from tax under subsection (1); or
+
+(b) any dividend which has been exempted from tax in the hands of any shareholder,
+
+ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment —
+
+(i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
+
+(ii) direct the company to debit the account with such amount as the circumstances require.
+
+(16) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (15) were a notice of assessment.
+
+[7/2007 wef 17/02/2006]
+
 ## PART V
 
 DEDUCTIONS AGAINST INCOME
@@ -3838,7 +3986,9 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) the regulations made undersection 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R, 43S, 43T or 43U, as the case may be; or
+(b) the regulations made undersection 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be; or
+
+[7/2007 wef 17/02/2006]
 
 (c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -5108,6 +5258,10 @@ which has been certified by the Standards, Productivity and Innovation Board or 
 
 [21/2003]
 
+(2B) The Minister or such person as he may appoint may in any particular case waive the requirement under subsection (2A) in respect of any intellectual property rights acquired on or after 17th February 2006, subject to such conditions as he may impose.
+
+[7/2007 wef 17/02/2006]
+
 (3) Any capital expenditure incurred on the acquisition of any intellectual property rights by a company before the commencement of its trade or business shall be treated for the purpose of this section as if it had been incurred by it on the first day it commences that trade or business.
 
 [24/2001; 21/2003]
@@ -5172,17 +5326,17 @@ is the total amount of any charges made under this section in any previous years
 
 ### Writing-down allowances for approved cost-sharing agreement for research and development activities
 
-19C\.—(1) Subject to this section, where a person carrying on a trade or business has incurred expenditure under any approved cost-sharing agreement in respect of research and development activities for the purposes of that trade or business (referred to in this section as the relevant trade or business), writing-down allowances in respect of that expenditure shall be made to him during a writing-down period of 5 years, or such shorter period as may be approved, beginning with the year of assessment relating to the basis period in which that expenditure is incurred, subject to such conditions as may be imposed by the Minister or such person as he may appoint.
+19C\.—(1) Subject to this section, where a person carrying on a trade or business has incurred expenditure under any cost-sharing agreement entered into and approved on or after 17th February 2006, in respect of research and development activities for the purposes of that trade or business (referred to in this section as the relevant trade or business), he shall, subject to such conditions as may be imposed by the Minister or such person as he may appoint, be entitled to a writing-down allowance of 100% of that expenditure in the year of assessment relating to the basis period in which that expenditure was incurred.
 
-[26/93]
+[7/2007 wef 17/02/2006]
 
-(2) The Ministermay specify the maximum amount of expenditure in respect of which writing-down allowances are to be made under subsection (1).
+(2) The Minister may specify the maximum amount of expenditure in respect of which writing-down allowances are to be made under subsection (1).
 
 [26/93]
 
 (3) No writing-down allowance shall be made under subsection (1) to any person in respect of any payment or contribution paid by him for the right to become a party to any existing approved cost-sharing agreement.
 
-(4) The writing-down allowance to be made to a person under this section for any year of assessment in respect of any expenditure incurred by him shall be the amount of that expenditure allowable under this section divided by 5 or the number of years approved under subsection (1), as the case may be.
+(4) [Deleted by Act 7 of 2007 wef 17/02/2006][7/2007 wef 17/02/2006]
 
 (5) Any expenditure incurred by a person under any approved cost-sharing agreement before the commencement of his trade or business shall be treated for the purpose of this section as if it had been incurred by him on the first day he commences that trade or business.
 
@@ -5198,13 +5352,17 @@ is the total amount of any charges made under this section in any previous years
 
 (d) receives any consideration from the disposal of any machinery, plant or building acquired under any approved cost-sharing agreement to which he is a party,
 
-the amount or value of any consideration therefor shall, so far as it is not chargeable to tax as a revenue or income receipt, be treated for all purposes as a trading receipt of the relevant trade or business for the year of assessment which relates to the basis period in which the event in paragraph (a), (b), (c) or (d) occurs.
+the amount or value of any consideration shall be treated as a trading receipt of the relevant trade or business for the year of assessment which relates to the basis period in which the event in paragraph (a), (b), (c) or (d) occurs.
 
-(7) For the purpose of subsection (6), in relation to any consideration referred to in subsection (6)(d), the amount or value of the consideration to be treated as a trading receipt shall not exceed the amount of expenditure allowable under this section in respect of the machinery, plant or building.
+[7/2007 wef 17/02/2006]
+
+(7) For the purpose of subsection (6), the amount or value of the consideration to be treated as a trading receipt shall not exceed the amount of writing-down allowance made under this section.
+
+[7/2007 wef 17/02/2006]
 
 (8) Where no writing-down allowances have been made to any person in respect of expenditure incurred by him by virtue of subsection (2) or in respect of any payment or contribution made by him by virtue of subsection (3), the Minister may for the purposes of subsection (6) exempt such part of the amount or value of the consideration as he thinks fit.
 
-(9) Where a person to whom writing-down allowances have been made under this section in respect of any approved cost-sharing agreement ceases to carry on the relevant trade or business, an allowance equal to the amount of the expenditure incurred under that agreement remaining unallowed shall be made to him in computing his income for the year of assessment which relates to the basis period in which the cessation occurs.
+(9) [Deleted by Act 7 of 2007 wef 17/02/2006][7/2007 wef 17/02/2006]
 
 (10) Any event referred to in subsection (6) which occurs after the date on which the relevant trade or business permanently ceases shall be deemed to have occurred immediately before the cessation.
 
@@ -5214,9 +5372,13 @@ the amount or value of any consideration therefor shall, so far as it is not cha
 
 [49/2004 wef 30/11/2004]
 
-(11B) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the relevant trade or business, produces income that is exempt from tax as well as income chargeable with tax, and the event referred to in subsection (6)(d) occurs, such proportion of any amount or value of any consideration treated as a trading receipt under that subsection shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+(11B) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the relevant trade or business, produces income that is exempt from tax as well as income chargeable with tax, and an event referred to in subsection (6)(a), (b), (c) or (d) occurs, such proportion of any amount or value of any consideration treated as a trading receipt under that subsection shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
 
 [49/2004 wef 30/11/2004]
+
+[7/2007 wef 17/02/2006]
+
+(11C) Notwithstanding the provisions of this section, section 19C in force immediately before 17th February 2006 shall continue to apply and have effect in relation to any approved cost-sharing agreement entered into before that date in respect of research and development activities.
 
 [7/2007 wef 17/02/2006]
 
@@ -5936,6 +6098,42 @@ the Comptroller may, without prejudice to such validity as it may have in any ot
 
 [7/2007 wef 01/01/2005]
 
+### Islamic financing arrangements
+
+34B\.—(1) This section shall apply to any prescribed Islamic financing arrangement entered into on or after 17th February 2006 between any person and a financial institution.
+
+(2) Subject to such exceptions, adaptations and modifications as may be prescribed, sections 10, 12, 13, 14, 15 and 45 and regulations made under section 43Q shall apply in relation to any prescribed Islamic financing arrangement as if a reference in any of those provisions to interest accrued, derived, received or incurred in relation to any loan, deposit or mortgage were a reference to the effective return of the arrangement.
+
+(3) Where under a prescribed Islamic financing arrangement, an asset is sold by one party to the arrangement to the other party, the effective return of the arrangement shall be excluded in determining for the purposes of this Act the consideration for the sale and purchase of the asset.
+
+(4) Subsection (3) does not affect the operation of any provision of this Act which provides that the consideration for a sale or purchase is to be taken for any purpose to be an amount other than the actual consideration.
+
+(5) For the purposes of this section, the Minister may make regulations —
+
+(a) to prescribe anything that is required or authorised to be prescribed under this section;
+
+(b) to provide for such transitional, supplementary and consequential matters as he may consider necessary or expedient; and
+
+(c) generally to give effect to or for carrying out the purposes of this section.
+
+(6) In this section —
+
+“effective return”, in relation to a prescribed Islamic financing arrangement, means the prescribed return in lieu of interest that has or is accrued, derived, received or incurred under the arrangement;
+
+“financial institution” means —
+
+(a) any institution in Singapore that is licensed or approved by the Monetary Authority of Singapore, or exempted from such licensing or approval, under any written law administered by the Monetary Authority of Singapore; or
+
+(b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, under any written law administered by its financial supervisory authority for the carrying on of financial activities;
+
+“Islamic financing arrangement” means a financing arrangement which is ––
+
+(a) endorsed by any Shari’ah council or body, or by any committee formed for the purpose of providing guidance on compliance with Shari’ah law; and
+
+(b) permitted under any written law in Singapore or elsewhere
+
+[7/2007 wef 17/02/2006]
+
 ## PART VIII
 
 ASCERTAINMENT OF STATUTORY INCOME
@@ -6464,7 +6662,9 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T or 43U, as the case may be;
+(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L , 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be;
+
+[7/2007 wef 17/02/2006]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -6856,7 +7056,9 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43S, 43Tor 43U, , as the case may be.
+(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be.
+
+[7/2007 wef 17/02/2006]
 
 (18) This section shall not apply to any company to which section 10E applies.
 
@@ -7482,7 +7684,13 @@ is the chargeable income of the person for the year of assessment.
 
 (a) interest from qualifying debt securities;
 
-(b) discount from qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008 ; and
+(b) discount from —
+
+(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+
+[7/2007 wef 17/02/2006]
 
 (c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008.
 
@@ -7496,7 +7704,13 @@ is the chargeable income of the person for the year of assessment.
 
 (a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
 
-(b) any discount derived from any qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008; and
+(b) any discount derived from —
+
+(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+
+[7/2007 wef 17/02/2006]
 
 (c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008,
 
@@ -7770,7 +7984,7 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (a) tax at the rate of 10% or such other concessionary rate to be levied and paid for each year of assessment upon the income derived by an insurer approved by the Minister or such person as he may appoint from carrying on offshore life business within the meaning of section 26 or the business (other than the business of life assurance) of insuring and reinsuring offshore risks;
 
-(b) exemption from tax of any income derived by an insurer approved by the Minister or such person as he may appoint from insurance and reinsurance businesswhere an SRS member derives income from a trade, business, profession or vocation or the exercise of an employment outside Singapore, no deduction shall exceed the amount of income remitted to, transmitted or brought into Singapore from outside Singapore;; and
+(b) exemption from tax of any income derived by an insurer approved by the Minister or such person as he may appoint from insurance and reinsurance business; and
 
 (c) deduction of losses otherwise than in accordance with section 37(3).
 
@@ -8032,15 +8246,9 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [2/92]
 
-(2) In this section, “trustee company” means —
+(2) In this section, “trustee company” means a company that is a licensed trustee company within the meaning of the Trust Companies Act (Cap. 336), or that is exempted under that Act from holding a trust business licence within the meaning of that Act.
 
-(a) a company licensed as a trust company under the Trust Companies Act 2005; or
-
-[11/2005 wef 01/02/2006]
-
-(b) a non-resident company incorporated outside Singapore having a branch in Singapore which provides services as a trustee or custodian.
-
-[2/92]
+[7/2007 wef 17/02/2006]
 
 ### Concessionary rate of tax for members of commodity futures exchange
 
@@ -8080,9 +8288,13 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (a) interest derived by any company from any qualifying debt securities;
 
-(aa) discount derived by any company from any qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008;
+(aa) discount derived by any company from —
 
-[49/2004 wef 27/02/2004]
+(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+
+[7/2007 wef 17/02/2006]
 
 (ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
 
@@ -8098,11 +8310,17 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [31/98; 24/2000; 21/2003]
 
-(2) Subsection (1)(a), (aa) or (ab), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
+(2) Subsection (1)(a) , (aa)or (ab), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
 (a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
 
-(b) any discount from any qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008; and
+(b) any discount from —
+
+(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+
+[7/2007 wef 17/02/2006]
 
 (c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008,
 
@@ -8241,6 +8459,26 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 (3) In this section, “approved” means approved by the Minister or such person as he may appoint.
 
 [34/2005 wef 01/04/2005]
+
+### Concessionary rate of tax for clearing member of Singapore clearing house
+
+43V\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved clearing member of a Singapore clearing house derived by it on or after 17th February 2006 from the provision of over‑the‑counter derivatives clearing services using the Singapore clearing house.
+
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
+
+(3) The concessionary rate of tax referred to in subsection (1) shall apply to an approved clearing member of a Singapore clearing house subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(4) No approval shall be granted under this section after 16th February 2011.
+
+(5) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“clearing member of a Singapore clearing house ” means a company which holds any membership of a Singapore clearing house;
+
+“Singapore clearing house” means a person operating a clearing facility who is designated as a designated clearing house for the purposes of the Securities and Futures Act (Cap. 289).
+
+[7/2007 wef 17/02/2006]
 
 ## PART XII
 
@@ -8534,9 +8772,13 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [5/77; 1/88]
 
-(2) Subsection (1) shall not apply to any discount from any qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008, subject to such conditions as the Minister may impose.
+(2) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to any discount from —
 
-[49/2004 wef 27/02/2004]
+(a) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008.
+
+[7/2007 wef 17/02/2006]
 
 (2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008, subject to such conditions as the Minister may impose.
 
@@ -12061,6 +12303,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
+|203.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|17 February 2006 (Sections 3(e) and 5)|
+|204.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 19/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|17 February 2006 (Sections 2(k), 6(a), (e), (h), 8, 10, 16(a), 17, 21, 28, 31, 32, 34, 35, 36, 44(f))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
