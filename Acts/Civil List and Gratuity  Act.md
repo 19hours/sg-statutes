@@ -174,13 +174,11 @@ Class II
 
 Salaries of personal staff
 
-$2,588,200
+$2,733,200
 
 Class III
 
 Expenses of household
-
-$1,055,800
 
 $1,108,500
 
@@ -188,7 +186,7 @@ Class IV
 
 Special services
 
-$8,000
+$92,800
 
 ## LEGISLATIVE HISTORY
 
@@ -295,3 +293,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|18 February 2005|
 |40.|**G. N. No. S 36/2006—Parliamentary Resolution**|
 ||Date of commencement|17 January 2006|
+|41.|**G. N. No. S 183/2006—Parliamentary Resolution**|
+||Date of commencement|17 February 2006|
