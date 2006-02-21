@@ -1562,9 +1562,9 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (b) a fine not exceeding —
 
-(i) in the case of soldiers above the rank of third sergeant , a sum of $300; and
+(i) in the case of soldiers above the rank of third sergeant , a sum of $1,000; and
 
-(ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $100;
+(ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $300;
 
 (c) reprimand; or
 
@@ -1584,9 +1584,9 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (d) a fine not exceeding —
 
-(i) in the case of soldiers above the rank of third sergeant , a sum of $500; and
+(i) in the case of soldiers above the rank of third sergeant , a sum of $1,500; and
 
-(ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $150;
+(ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $500;
 
 (e) reprimand; or
 
@@ -1604,9 +1604,9 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (b) a fine not exceeding —
 
-(i) in the case of officers who are of the rank of captain or major, a sum of $1,000 ; and
+(i) in the case of officers who are of the rank of captain or major, a sum of $3,000; and
 
-(ii) in the case of officers below the rank of captainand of warrant officers, a sum of $500 ; or
+(ii) in the case of officers below the rank of captainand of warrant officers, a sum of $2,000; or
 
 (c) reprimand.
 
@@ -1620,7 +1620,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (a) forfeiture of seniority of rank and forfeiture of all or any part of service for the purposes of promotion;
 
-(b) a fine not exceeding a sum of $1,500 ; or
+(b) a fine not exceeding a sum of $6,000; or
 
 (c) reprimand.
 
@@ -1636,7 +1636,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (a) forfeiture of seniority of rank and forfeiture of all or any part of service for the purposes of promotion;
 
-(b) a fine not exceeding a sum of $1,500 ; or
+(b) a fine not exceeding a sum of $6,000; or
 
 (c) reprimand.
 
@@ -1654,15 +1654,17 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (2) The period of detention which a disciplinary officer may direct under subsection (1) shall be as follows:
 
-(a) if the fine does not exceed $100, detention for a period not exceeding 10 days;
+(a) if the fine does not exceed $300, detention for a period not exceeding 10 days;
 
-(b) if the fine exceeds $100 but does not exceed $300, detention for a period not exceeding 20 days; and
+(b) if the fine exceeds $300 but does not exceed $1,000, detention for a period not exceeding 20 days; and
 
 (c) in any other case, detention for a period not exceeding 40 days,
 
 and such detention shall take effect from such date as the disciplinary officer may direct and shall terminate whenever the fine is paid.
 
 [1/91]
+
+[6/2006 wef 21/02/2006]
 
 ### Power of Senior Disciplinary Committee
 
@@ -1692,7 +1694,7 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (i) forfeiture of seniority of rank and forfeiture of all or any part of service for purposes of promotion;
 
-(ii) a fine not exceeding a sum of $1,500 ; or
+(ii) a fine not exceeding a sum of $10,000; or
 
 (iii) reprimand.
 
@@ -2592,9 +2594,9 @@ and references in this Act to any punishment provided by this Act are, subject t
 
 (6) Subject to section 112(1), the amount of a fine that may be awarded shall not exceed —
 
-(a) in the case of officers , a sum of $2,000; and
+(a) in the case of officers , a sum of $10,000; and
 
-(b) in the case of soldiers , a sum of $1,000,
+(b) in the case of soldiers , a sum of $5,000,
 
 and any such fine may, if the court orders, be paid by instalment to be deducted from the offender’s pay.
 
@@ -4233,6 +4235,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|18.|**Act 6 of 2006—Singapore Armed Forces (Amendment) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 44/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|21 February 2006|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
