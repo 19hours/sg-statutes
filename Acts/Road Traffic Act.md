@@ -84,9 +84,13 @@
 
 - [31 Limitation on bringing of proceedings for recovery of over-payment of tax](#Limitation-on-bringing-of-proceedings-for-recovery-of-over-payment-of-tax)
 
-- [32 Composition of offences under this Part](#Composition-of-offences-under-this-Part)
+- [32 (Repealed)](#Repealed)
 
 - [33 Exemptions and application to vehicles belonging to Government](#Exemptions-and-application-to-vehicles-belonging-to-Government)
+
+- [33A Electronic service agents](#Electronic-service-agents)
+
+- [33B Electronic service](#Electronic-service)
 
 - [34 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -230,9 +234,9 @@
 
 - [78 Restriction on number of trailers drawn](#Restriction-on-number-of-trailers-drawn)
 
-- [79 Penalties for driving heavy motor vehicle without permit or in breach of conditions of permit](#Penalties-for-driving-heavy-motor-vehicle-without-permit-or-in-breach-of-conditions-of-permit)
+- [79 Offence for driving heavy motor vehicle without police escort](#Offence-for-driving-heavy-motor-vehicle-without-police-escort)
 
-- [80 Furnishing false information in relation to overall height of heavy motor vehicle, etc.](#Furnishing-false-information-in-relation-to-overall-height-of-heavy-motor-vehicle-etc)
+- [80 (Repealed)](#Repealed)
 
 - [81 Duty to give information](#Duty-to-give-information)
 
@@ -424,7 +428,9 @@ REVISED EDITION 2004
 
 (31st December 2004)
 
-An Act for the regulation of road traffic and the use of vehicles and the user of roads and for other purposes connected therewith.
+An Act for the regulation of road traffic and the use of vehicles and the user of roads and the operation of bus interchanges and for other purposes connected therewith.
+
+[4/2006 wef 27/02/2006]
 
 [1st January 1963]
 
@@ -744,7 +750,7 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 [33/93]
 
-(2) In this section and sections 19(3)(f) and 34(r), “heavy vehicle” has the same meaning as in the Parking Places Act.
+(2) In this section and sections 19(3)(f) and 34 (1) (r), “heavy vehicle” has the same meaning as in the Parking Places Act.
 
 [33/93]
 
@@ -958,7 +964,9 @@ and ending with the last day of the month during which the offence was committed
 
 [45/99; 28/2001]
 
-(5) Rules made under this Act may provide for the issue of a new licence in the place of a licence which may be lost or destroyed, and for the fee to be paid on the issue of a new licence.
+(5) Rules made under this Act may provide for the issue of a new licence in the place of a licence which has been damaged, rendered illegible, lost or destroyed, and for the information to be furnished and the fee to be paid for the issue of a new licence.
+
+[4/2006 wef 27/02/2006]
 
 (6) Any vehicle licence may be transferred in the prescribed manner.
 
@@ -972,15 +980,19 @@ and ending with the last day of the month during which the offence was committed
 
 ### Number of persons carried on vehicle
 
-20\.—(1) The Registrar, when issuing a licence for any heavy motor car, motor car or motor cycle, may determine and enter in the registration book for that vehicle the maximum number of persons that may be carried on any part thereof.
+20\.—(1) The Registrar may determine and enter in the records maintained under rules made under section 34(1)(g) the maximum number of persons that may be carried on a heavy motor car, motor car or motor cycle, and shall inform the registered owner of the vehicle of that number.
 
-(2) The person who drives a motor vehicle carrying persons in excess of the maximum number of persons permitted to be carried on the vehicle shall be guilty of an offence.
+(2) Any person who drives a motor vehicle carrying persons in excess of the maximum number of persons determined under subsection (1) for the motor vehicle shall be guilty of an offence.
+
+[4/2006 wef 27/02/2006]
 
 ### Late application for licence
 
-21\. If a licence is applied for a vehicle after the date of expiry of the last licence issued for the vehicle, a late payment fee as may be prescribed shall be payable for the issue of the licence.
+21\. If a licence is applied for a vehicle after the date of expiry of the last licence issued for the vehicle, a late application fee as may be prescribed shall be payable for the issue of the licence.
 
 [28/2001]
+
+[4/2006 wef 27/02/2006]
 
 ### Surrender of licences
 
@@ -1148,29 +1160,37 @@ shall be guilty of an offence and shall be liable on conviction —
 
 ### Cancellation of registration
 
-27\.—(1) The Registrar may cancel the registration of a motor vehicle —
+27\.—(1) The Registrar may cancel the registration of a vehicle —
 
 (a) if the permit issued under section 10A authorising the registration of the vehicle under this Act has been cancelled or has expired and has not been restored or renewed within the time prescribed therefor by this Act or any rules;
 
-(b) if no licence has been taken out for the vehicle for a period exceeding 3 years by the registered owner who has notified the Registrar that he will not use the vehicle during that period;
+(b) if no licence under section 19 has been taken out for the vehicle for a period exceeding 3 years by the registered owner who has notified the Registrar that he will not use the vehicle during that period;
 
 (c) if the tax chargeable under section 11(1)(b) has not been paid by the registered owner of the vehicle for a period of 12 months or any longer period;
 
-(d) if he is satisfied that the vehicle has been destroyed or become wholly unfit for further use or has been permanently removed from Singapore; or
+(d) if he is satisfied that the vehicle —
 
-(e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs.
+(i) has ceased to be kept or used on any road in Singapore;
+
+(ii) has been or will, within the prescribed period, be destroyed or permanently removed from Singapore; or
+
+(iii) has become wholly unfit for further use;
+
+[4/2006 wef 27/02/2006]
+
+(e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs; or
 
 [7/90; 33/93]
 
-(2) Where the registration of a motor vehicle is cancelled under subsection (1) —
+(f) if the vehicle has been forfeited pursuant to any written law.
 
-(a) the registered owner of the vehicle or any person who is in possession of the registration book or card issued in respect of the vehicle shall surrender that book or card to the Registrar within 14 days of the cancellation; and
+[4/2006 wef 27/02/2006]
 
-(b) the registered owner or the person in possession of the vehicle shall produce proof to the satisfaction of the Registrar that the vehicle has been exported or scrapped within one month of the date of the cancellation.
+(2) Where the registration of a vehicle is cancelled under subsection (1), the registered owner or the person in possession of the vehicle shall produce proof to the satisfaction of the Registrar that the vehicle has been permanently removed from all roads in Singapore, or has been destroyed or permanently removed from Singapore, within one month of the date of the cancellation or such other period as the Registrar may approve.
 
-[33/93]
+[4/2006 wef 27/02/2006]
 
-(3) Any person who fails to comply with subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+(3) Any person who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
 
 [45/99]
 
@@ -1328,11 +1348,7 @@ or any one or more of these facts was or were such as would be necessary to esta
 
 31\. No proceedings shall be brought for enforcing any repayment of tax to which a person may be entitled in respect of any over-payment of tax made on a vehicle licence taken out by him, unless the proceedings are brought before the expiration of the 12 months beginning with the end of the period in respect of which the licence was taken out.
 
-### Composition of offences under this Part
-
-32\. The Registrar may, in his discretion, compound any offence under this Part or any rules made thereunder by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $50 and, in the case of an offence under section 11A(3) or (4) or 15, a sum not exceeding $200.
-
-[16/91]
+32\. [Repealed by Act 4/2006 wef 27/02/2006]
 
 ### Exemptions and application to vehicles belonging to Government
 
@@ -1342,19 +1358,125 @@ or any one or more of these facts was or were such as would be necessary to esta
 
 [16/91]
 
+### Electronic service agents
+
+33A\.—(1) For the purposes of the electronic service referred to in section 33B, the Authority may, on application by any person made in such manner as it may specify, and subject to such conditions as it may determine, register him as an electronic service agent.
+
+(2) Without prejudice to the generality of subsection (1), the conditions referred to in that subsection may include —
+
+(a) a condition for the giving of security in such form and of such amount as the Authority may determine to secure compliance with the conditions; and
+
+(b) a condition for the keeping of records and accounts relating to the use of the electronic service.
+
+(3) The Authority shall keep and maintain a register of electronic service agents in which shall be entered such particulars of every electronic service agent as it considers appropriate.
+
+[42/2006 wef 27/02/2006]
+
+### Electronic service
+
+33B\.—(1) The Authority may provide an electronic service for —
+
+(a) the filing with or submission to the Registrar of such application or other document under this Part or the rules made thereunder as may be prescribed; and
+
+(b) the service by the Registrar of such notice or other document under this Part or the rules made thereunder as may be prescribed.
+
+(2) For the purposes of the electronic service, the Authority may, on application by any person made in such manner as it may specify, and subject to such conditions as it may determine, assign to him —
+
+(a) an authentication code; or
+
+(b) an account with the electronic service.
+
+(3) Subject to the rules made under section 34(2), a person may file or submit a document referred to in subsection (1)(a) through the electronic service.
+
+(4) An electronic service agent who has been authorised by a person in the prescribed manner to be that person’s agent for any matter under this Part may file or submit on behalf of that person through the electronic service a document referred to in subsection (1)(a) in respect of that matter.
+
+(5) Where a document is filed or submitted by an electronic service agent on behalf of any person under subsection (4) —
+
+(a) it shall be deemed to have been filed or submitted with the authority of that person; and
+
+(b) that person shall be deemed to be cognizant of all matters therein,
+
+unless that person has, before such filing or submission, informed the Registrar in the prescribed manner that he has revoked the authority of the electronic service agent for the matter in question.
+
+(6) Where a document referred to in subsection (1)(a) is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code, then —
+
+(a) the document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
+
+(b) where that person alleges that he did not file or submit the document, the burden shall be on him to adduce evidence of that fact.
+
+(7) Where any person has given his consent for any document referred to in subsection (1)(b) to be served on him through the electronic service, the Registrar may, notwithstanding section 131A, serve that document on that person by transmitting an electronic record of that document to that person’s account with the electronic service; and the document shall be deemed to be served at the time when the electronic record of the document enters his account with the electronic service.
+
+(8) Notwithstanding any other written law, in any proceedings under this Act —
+
+(a) an electronic record of a document referred to in subsection (1)(a) that was filed or submitted, or a document referred to in subsection (1)(b) that was served, through the electronic service; or
+
+(b) any copy or print-out of that electronic record,
+
+shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
+
+(i) is certified by the Registrar to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
+
+(ii) is duly authenticated in the manner specified in subsection (11) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
+
+(9) For the avoidance of doubt, section 139A does not apply to an electronic record of a document referred to in subsection (1)(a) or (b) or a copy or print-out thereof.
+
+(10) For the avoidance of doubt —
+
+(a) an electronic record of a document referred to in subsection (1)(a) that was filed or submitted, or a document referred to in subsection (1)(b) that was served, through the electronic service; or
+
+(b) any copy or print-out of that electronic record,
+
+shall not be inadmissible in evidence merely because the document was filed, submitted or served without the delivery of any equivalent document or counterpart in paper form.
+
+(11) For the purposes of this section, a certificate —
+
+(a) giving the particulars of —
+
+(i) any person whose authentication code was used to file, submit or serve the document; and
+
+(ii) any person or device involved in the production or transmission of the electronic record of the document, or the copy or print-out thereof;
+
+(b) identifying the nature of the electronic record or copy or print-out thereof; and
+
+(c) purporting to be signed by the Registrar or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time,
+
+shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+
+(12) Where the electronic record of any document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
+
+(13) In this section and section 34 —
+
+“account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Authority to that person for the storage, retrieval, filing and submission of electronic records;
+
+“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned by the Authority to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person, and includes one assigned for such purposes in order to file, submit or retrieve a particular document only;
+
+“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+
+“electronic service” means the electronic service provided under subsection (1);
+
+“electronic service agent” means an electronic service agent registered under section 33A.
+
+[4/2006 wef 27/02/2006]
+
 ### Rules for purposes of this Part
 
 34\. The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
 
-(a) to regulate the registration and licensing of vehicles, to prescribe the forms of application for and the contents of vehicle licences, and to provide special facilities for the licensing of motor vehicles brought into Singapore from places outside Singapore;
+(1) The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
 
-(b) to provide for the issue of registration books in respect of the registration of any vehicle and for the surrender, transfer and production and the inspection by the prescribed persons of any book so issued; and for the issue of new registration books and new vehicle licences in the place of any such books or licences which may be lost or destroyed and for a fee to be paid on the issue of a new registration book or vehicle licence;
+(a) to regulate the registration and licensing of vehicles, to prescribe the forms of application for and the contents of vehicle licences, and to provide special facilities for the licensing of motor vehicles brought into Singapore from places outside Singapore;
 
 (c) to prescribe the size, shape and character of the identification marks or the signs to be fixed on any vehicle and the manner in which those marks or signs are to be secured, sealed, displayed and rendered easily distinguishable whether by night or by day and to prohibit those marks, signs and seals from being tampered with;
 
-(d) to require any person to whom any vehicle is sold or disposed of to furnish the prescribed particulars in the prescribed manner;
+(d) to provide for the marking of prescribed particulars on any vehicle;
 
-(e) to prescribe the form of, and the particulars to be included in, the register with respect to vehicles for which a general licence has been taken out by a manufacturer or dealer and the identification marks to be carried by any such vehicle and to define the purposes for which the holder of a general licence may use a vehicle under such general licence;
+[4/2006 wef 27/02/2006]
+
+(da) to require any person to whom any vehicle is sold or disposed of or any person who sold or disposed of any vehicle to furnish such particulars of the sale or disposal as the Registrar may require;
+
+[4/2006 wef 27/02/2006]
+
+(e) to prescribe the form of, and the particulars to be included in, the register with respect to vehicles for which a general licence has been taken out by a manufacturer, repairer or dealer and the identification marks to be carried by any such vehicle and to define the purposes for which the holder of a general licence may use a vehicle under such general licence;
 
 (f) to extend any provisions as to registration and provisions incidental to any such provisions to any vehicle in respect of which taxes chargeable under this Part are not payable and to provide for the identification of any such vehicle;
 
@@ -1383,6 +1505,30 @@ or any one or more of these facts was or were such as would be necessary to esta
 (r) to regulate the registration, licensing, keeping and use of heavy vehicles.
 
 [7/90; 16/91; 33/93; 28/2001; 1/2003]
+
+[4/2006 wef 27/02/2006]
+
+(2) The Minister may make rules for carrying out or giving effect to sections 33A and 33B and, in particular, the rules may —
+
+(a) prescribe the qualifications of persons who may be registered as electronic service agents;
+
+(b) provide for the inspection by the Authority or any person authorised in writing by the Authority of records and accounts kept by electronic service agents in compliance with a condition imposed under section 33A(1);
+
+(c) provide for the cancellation or suspension by the Authority of registrations of electronic service agents;
+
+(d) provide for the cancellation or suspension by the Authority of authentication codes and accounts with the electronic service;
+
+(e) provide that only specified persons may file with or submit to the Registrar a particular document through the electronic service;
+
+(f) prescribe the manner in which any fee, tax, levy, deposit and other charges payable under this Part or rules made thereunder are to be paid when any document is filed or submitted through the electronic service;
+
+(g) provide for the correction of errors in, or the amendment of, any document that is filed or submitted through the electronic service;
+
+(h) prescribe the fees for the assignment of authentication codes and accounts with the electronic service, the cancellation or suspension of any authentication code or account with the electronic service at the request of the holder thereof, the registration of electronic service agents, the use of the electronic service and the correction or amendment referred to in paragraph (g); and
+
+(i) prescribe anything which is permitted or required to be prescribed under section 33B.
+
+[4/2006 wef 27/02/2006]
 
 ## PART IA
 
@@ -2100,7 +2246,7 @@ LICENSING OF DRIVING INSTRUCTORS AND DRIVING SCHOOLS
 
 (3) Where the Deputy Commissioner of Police has revoked or suspended an instructor’s licence under subsection (1), he shall immediately inform the driving instructor concerned by notice in writing of the revocation or suspension.
 
-(4) A driving instructor may, within 14 days of the receipt of the notice referred to in subsection (2), appeal in writing against the revocation or suspension to the Minister whose decision shall be final.
+(4) A driving instructor may, within 14 days of the receipt of the notice referred to in subsection (3), appeal in writing against the revocation or suspension to the Minister whose decision shall be final.
 
 (5) An order of revocation or suspension shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the driving instructor concerned of the order.
 
@@ -2244,7 +2390,7 @@ Provisions as to driving and offences in connection therewith
 
 (2) On a second or subsequent conviction under this section, the convicting court shall exercise the power conferred by section 42 of ordering that the offender shall be disqualified from holding or obtaining a driving licence unless the court, having regard to the lapse of time since the date of the previous or last previous conviction or for any other special reason, thinks fit to order otherwise.
 
-(3) Subsection (2) shall not be construed as affecting the right of the court to exercise the power under subsection (1) on a first conviction.
+(3) Subsection (2) shall not be construed as affecting the right of the court to exercise the power under section 42 on a first conviction.
 
 (4) Where a person is convicted of abetting the commission of an offence under this section and it is proved that he was present in the motor vehicle at the time of the commission of the offence, the offence of which he is convicted shall, for the purpose of the provisions of Part II relating to disqualification from holding or obtaining driving licences, be deemed to be an offence in connection with the driving of a motor vehicle.
 
@@ -2275,6 +2421,10 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 causes the heavy motor vehicle or public service vehicle to collide with any building or structure shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 [11/96; 28/2001]
+
+(1A) The Minister may, by notification in theGazette, prescribe particulars of any structure including its location and maximum headroom measurement.
+
+[4/2006 wef 27/02/2006]
 
 (2) In this section, “structure” includes any bus shelter, gantry post, overhead bridge and pillar.
 
@@ -2646,31 +2796,21 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 (3) If any person causes or permits a trailer to be drawn in contravention of this section, he shall be guilty of an offence.
 
-### Penalties for driving heavy motor vehicle without permit or in breach of conditions of permit
+### Offence for driving heavy motor vehicle without police escort
 
-79\.—(1) Where the overall height of a heavy motor vehicle exceeds 4 metres, any person who, without a permit from the Deputy Commissioner of Police, is in charge of or drives or causes to be driven the vehicle on a road shall be guilty of an offence and shall be liable on conviction —
+79\.—(1) Any person who drives or causes to be driven on any road a heavy motor vehicle the overall height of which exceeds 4.5 metres without being escorted by a police officer, or an auxiliary police officer appointed in accordance with any written law, shall be guilty of an offence.
+
+[4/2006 wef 27/02/2006]
+
+(2) A person guilty of an offence under subsection (1) shall be liable on conviction —
 
 (a) for a first offence, to imprisonment for a term of not less than one year and not more than 3 years and, in addition, to a fine not exceeding $2,000; and
 
 (b) for a second or subsequent offence, to imprisonment for a term of not less than 2 years and not more than 5 years and, in addition, to a fine not exceeding $5,000.
 
-[9/85]
+[4/2006 wef 27/02/2006]
 
-(2) The Deputy Commissioner of Police may, in granting a permit for the purpose of subsection (1), impose such conditions as he thinks fit including conditions relating to —
-
-(a) the overall height of the heavy motor vehicle;
-
-(b) the lateral projection of any load carried by the vehicle;
-
-(c) the routes the vehicle is permitted to travel;
-
-(d) the maximum speed of the vehicle; and
-
-(e) the requirement for police or other escort.
-
-(3) Any person who contravenes or fails to comply with any of the conditions imposed in any such permit relating to any of the matters specified in subsection (2) shall be guilty of an offence and shall be liable on conviction to the same penalties as are prescribed for an offence under subsection (1).
-
-(4) The driver or person in charge of a heavy motor vehicle convicted of an offence under subsection (1) or (3) shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification —
+(4) A person convicted of an offence under subsection (1) shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification —
 
 (a) in the case of a first offence, be disqualified from holding or obtaining a driving licence for a period of not less than one year; and
 
@@ -2678,7 +2818,7 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 (5) Any disqualification imposed against any person under subsection (4) shall take effect from the date he is released from prison.
 
-(6) In this section and section 80 —
+(6) In this section —
 
 “heavy motor vehicle” means —
 
@@ -2694,11 +2834,7 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 [9/85]
 
-### Furnishing false information in relation to overall height of heavy motor vehicle, etc.
-
-80\. Any person who, in relation to any application for a permit to use a heavy motor vehicle on a road under section 79, furnishes any information as to the overall height of the vehicle which he knows or has reason to believe to be false shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months and, in addition, to a fine not exceeding $1,000.
-
-[10/84]
+80\. [Repealed by Act 4/2006 wef 27/02/2006]
 
 ### Duty to give information
 
@@ -2904,7 +3040,9 @@ Miscellaneous
 
 88\.—(1) A fee may be levied for the inspection of a vehicle under section 87.
 
-(2) An additional fee may be levied for any further inspection of the vehicle where the vehicle is found, after a previous inspection, not to comply with any prescribed requirement relating to its construction or condition.
+(2) An additional fee may be levied for any further inspection of the vehicle where the vehicle is found, after a previous inspection, not to comply with any prescribed requirement relating to its construction or condition, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it.
+
+[4/2006 wef 27/02/2006]
 
 (3) Any fee payable under subsection (1) or (2) shall be paid by the owner of the vehicle in respect of which it is levied.
 
@@ -2918,7 +3056,7 @@ Miscellaneous
 
 ### Test of satisfactory condition of vehicle
 
-90\.—(1) The Authority may make rules for the examination of any motor vehicle and for the issue, where the vehicle is found on such examination to comply with the prescribed requirements relating to its construction and condition, of a certificate (referred to in this Act as a test certificate) that at the date of the examination those requirements were complied with.
+90\.—(1) The Authority may make rules for the examination of any motor vehicle and for the issue, where the vehicle is found on such examination to comply with the prescribed requirements relating to its construction and condition, to the identification marks and signs carried by or fixed on it and the seals of such marks and signs, and to the markings on it, of a certificate (referred to in this Act as a test certificate) that at the date of the examination those requirements were complied with.
 
 [28/95]
 
@@ -2936,7 +3074,7 @@ Miscellaneous
 
 (d) the fee to be paid for the examination of a motor vehicle;
 
-(e) the additional fee to be paid for any further examination of a motor vehicle where the vehicle is found, after a previous examination, not to comply with any prescribed requirement relating to its construction or condition;
+(e) the additional fee to be paid for any further examination of a motor vehicle where the vehicle is found, after a previous examination, not to comply with any prescribed requirement referred to in subsection (1);
 
 (f) the manner in which an application may be made for the examination of a motor vehicle;
 
@@ -2948,11 +3086,15 @@ Miscellaneous
 
 (j) the issue of a copy of a test certificate that is lost or defaced and the fee payable therefor;
 
-(k) the keeping by an authorised examiner of a register of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such register by such person and in such circumstances as may be prescribed; and
+(k) the keeping by an authorised examiner of a register of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such register by such person and in such circumstances as may be prescribed;
 
-(l) the keeping of records by an authorised examiner and the furnishing of returns and information to the Registrar by the authorised examiner .
+(l) the keeping of records by an authorised examiner and the furnishing of returns and information to the Registrar by the authorised examiner ; and
 
 [28/95]
+
+(m) the submission to the Authority of documents specified by the Authority in support of any matter examined.
+
+[4/2006 wef 27/02/2006]
 
 (5) Rules made under this section may make different provisions in respect of different vehicles or classes of vehicles.
 
@@ -3920,6 +4062,10 @@ shall be guilty of an offence.
 
 [28/2001]
 
+(1A) Any person who refuses to allow the employee or agent to exercise his power under subsection (1) or who obstructs the exercise of such power by the employee or agent shall be guilty of an offence.
+
+[4/2006 wef 27/02/2006]
+
 (2) An employee or authorised agent of the Authority who has removed any vehicle from an expressway under subsection (1) shall take the vehicle to a parking place that is near to that part of the expressway from which the vehicle was removed.
 
 [28/2001]
@@ -3944,7 +4090,7 @@ shall be guilty of an offence.
 
 [28/2001]
 
-(8) If a vehicle is not claimed by its owner within one month of the date on which it was taken to a parking place under subsection (2), the Authority, after giving one month’s notice in the Gazette of its intention to do so, may sell the vehicle by public auction or otherwise dispose of the vehicle.
+(8) If a vehicle is not claimed by its owner within one month of the date on which it was taken to a parking place under subsection (2), the Authority, after giving one month’s notice in theGazetteof its intention to do so, may sell the vehicle by public auction or otherwise dispose of the vehicle.
 
 [28/2001]
 
@@ -3962,13 +4108,13 @@ and the surplus, if any, shall be paid to the owner of the vehicle or, if not cl
 
 [28/2001]
 
-(11) Except as provided in subsection (1), any person who, without the prior authorisation of the Authority, towsanystationary vehicle from a tunnel forming part of an expressway shall be guilty of an offence.
+(11) Except as provided in subsection (1), any person who, without the prior authorisation of the Authority, tows any stationary vehicle from a tunnel forming part of an expressway shall be guilty of an offence.
 
 [28/2001]
 
 (12) In this section —
 
-“expressway” means any road which is prescribed by the Minister by order published in the Gazette to be an expressway for the purposes of this section;
+“expressway” means any road which is prescribed by the Minister by order published in theGazetteto be an expressway for the purposes of this section;
 
 “parking charges” means the charges which are prescribed under section 9 of the Parking Places Act (Cap. 214) as being payable by the owner of a vehicle for the use of any parking place.
 
@@ -3988,17 +4134,11 @@ and the surplus, if any, shall be paid to the owner of the vehicle or, if not cl
 
 126\.—(1) Any person driving or using any goods vehicle who shall carry any person therein or thereon or cause or permit any person to ride therein or thereon shall be guilty of an offence unless he proves that —
 
-(a) the person so carried is in the employment of the owner or hirer of the vehicle and is proceeding on his master’s business and is carried in accordance with rules prescribed under section 77(6);
+(a) the person so carried is in the employment of the owner or hirer of the vehicle and is proceeding on his master’s business and is carried in accordance with rules prescribed under section 77(6); or
 
-(b) the person so carried is a sick or injured person carried in a case of emergency; or
-
-(c) the carriage of such person is authorised by a permit issued under subsection (3).
+(b) the person so carried is a sick or injured person carried in a case of emergency.
 
 (2) The owner of the goods vehicle shall in all cases also be liable for such act equally with and independently of the person actually driving or using the goods vehicle unless he proves that he had taken every reasonable precaution to prevent the commission of any offence under this section.
-
-(3) The Registrar or any officer in charge of any police station may, on payment of the prescribed fee, issue a permit in the prescribed form authorising for a particular occasion the carriage of persons in or on a goods vehicle in any case in which he is satisfied that the carriage of such persons is consistent with safety.
-
-(4) Such permit shall be subject to such conditions as may be specified therein.
 
 (5) Any person who while being carried on or being permitted to ride on a goods vehicle —
 
@@ -4090,19 +4230,21 @@ MISCELLANEOUS PROVISIONS
 
 129\.—(1) If any person —
 
-(a) in relation to an application made under this Act for registration or the cancellation of the registration of a vehicle, the grant of any approval, permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any approval, permit or licence or of procuring the imposition of any condition or limitation in relation to any approval, permit or licence, makes any statement or declaration which is false or in any material respect misleading;
+(a) in relation to an application made under this Act for registration or the cancellation of the registration of a vehicle, the grant of any approval, permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any approval, permit or licence or of procuring the imposition of any condition or limitation in relation to any approval, permit or licence, makes or causes to be made any statement or declaration which is false or in any material respect misleading;
 
-(b) furnishes any particulars in connection with a change of the registration of any vehicle which to his knowledge are false or in any material respect misleading; or
+(b) furnishes or causes to be furnished any particulars in connection with a change of the registration of any vehicle which to his knowledge are false or in any material respect misleading; or
 
-(c) makes any entry in a record, register or other document required to be kept under this Act which to his knowledge is false or in any material respect misleading,
+(c) makes or causes to be made any entry in a record, register or other document required to be kept under this Act which to his knowledge is false or in any material respect misleading,
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [45/99; 1/2003]
 
+[4/2006 wef 27/02/2006]
+
 (2) If any person —
 
-(a) forges or alters or defaces or mutilates or uses or lends to, or allows to be used by, any other person, any mark, plate or document which is required under this Act to be carried on a vehicle or trailer, any registration book or any licence issued under this Act;
+(a) forges or alters or defaces or mutilates or uses or lends to, or allows to be used by, any other person, any mark, plate or document which is required under this Act to be carried on a vehicle or trailer, or any licence issued under this Act;
 
 (b) makes or has in his possession any mark, plate or document so closely resembling a licence or any mark, plate or document as aforesaid as to be calculated to deceive;
 
@@ -4123,6 +4265,8 @@ he shall, unless he establishes to the satisfaction of the court that he acted w
 (iii) in any other case, with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both.
 
 [45/99; 1/2003]
+
+[4/2006 wef 27/02/2006]
 
 (3) Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have the jurisdiction to try any offence under this section and to impose the maximum penalty prescribed therefor.
 
@@ -4298,7 +4442,9 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 ### Provisions as to evidence
 
-139\.—(1) Any registration document or licence issued by the Registrar in respect of any vehicle shall be prima facie evidence of the registration of the vehicle or of the fact that the vehicle was licensed for the period specified in the licence, as the case may be.
+139\.—(1) An extract of the records maintained under rules made under section 34(1)(g) certified under the hand of the Registrar, or a licence issued by the Registrar in respect of any vehicle shall be prima facie evidence of the registration of the vehicle or of the fact that the vehicle was licensed for the period specified in the licence, as the case may be.
+
+[4/2006 wef 27/02/2006]
 
 (2) When in any proceedings for an offence under this Act it is necessary to prove —
 
@@ -4310,7 +4456,9 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 a certificate purporting to be signed by the Registrar or the Deputy Commissioner of Police, as the case may be, and certifying the matters aforesaid shall be admissible as evidence, and shall constitute prima facie proof of the facts certified in the certificate, without proof of the signature of the Registrar or the Deputy Commissioner of Police, as the case may be, to the certificate.
 
-(3) When in any proceedings for an offence under this Act any question arises as to whether a vehicle does, or does not, comply with any of the provisions of this Act relating to the construction, equipment or conditions of use of the vehicle, a certificate from an officer of the Registrar’s office that he has examined the vehicle and the result of the examination shall be admissible in evidence, and shall be sufficient prima facie evidence of any fact or opinion stated therein relating to the construction, equipment or conditions of use of the vehicle.
+(3) When in any proceedings for an offence under this Act any question arises as to whether a vehicle does, or does not, comply with any of the provisions of this Act relating to the construction, equipment or conditions of use of the vehicle, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it, a certificate from an officer of the Registrar’s office that he has examined the vehicle and the result of the examination shall be admissible in evidence, and shall be sufficient prima facie evidence of any fact or opinion stated therein relating to the construction, equipment or conditions of use of the vehicle, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it.
+
+[4/2006 wef 27/02/2006]
 
 (4) The officer may not be called for cross-examination on the certificate unless contrary evidence is given which appears to the court to be credible, or unless for any reason the court considers cross-examination to be necessary or desirable in the interests of justice.
 
@@ -4747,6 +4895,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of operation|31 December 2004|
 |48.|**G. N. No. S 304/2005—Revised Edition of the Laws (Road Traffic Act) (Rectification) Order 2005**|
 ||Date of commencement|31 December 2004|
+|49.|**Act 4 of 2006—Road Traffic (Amendment) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 42/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|27 February 2006|
+|||(except sections 17, 22 and 23)|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
