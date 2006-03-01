@@ -142,7 +142,7 @@
 
 [**Part IX (Repealed)**](#Part-IX)
 
-[**THE SCHEDULE Exempt Classes of Persons**](#THE-SCHEDULE)
+[**THE SCHEDULE Exempt classes of persons**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -802,9 +802,9 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply such professional engineering services;
 
-(b) the authorised capital of the corporation that is paid up is not less than the amount prescribed by the Minister by notification in theGazette;
+(b) the paid-up capital of the corporation is not less than the amount prescribed by the Minister by notification in theGazette;
 
-[27/2005 wef 01/12/2005]
+[42/2005 wef 30/01/2006]
 
 (c) the articles of association of the corporation provide that at least a prescribed number or proportion of its directors shall be registered professional engineers or allied professionals who each has in force a practising certificate;
 
@@ -1454,15 +1454,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Section 14(2).
 
-Exempt Classes of Persons
+Exempt classes of persons
 
 1\. Certificated officers under the Merchant Shipping Act [Cap. 179].
 
-2\. Holders of any certificate of competency issued under regulations made under the Factories Act [Cap. 104] for the purpose of taking charge of or operating steam boilers or internal combustion engines.
+2\. Holders of any certificate of competency issued under regulations made under the Workplace Safety and Health Act 2006 for the purpose of taking charge of or operating steam boilers or internal combustion engines.
 
-3\. Electrical workers licensed under the Electricity Act (Cap. 89A).
-
-3.
+3. Electrical workers licensed under the Electricity Act (Cap. 89A).
 
 [27/2005 wef 01/12/2005]
 
@@ -1543,3 +1541,9 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
 |||(item (15) in the Fifth Schedule)|
+|12.|**Act 7 of 2006—Workplace Safety and Health Act 2006**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 36/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 March 2006|
