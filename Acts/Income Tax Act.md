@@ -1004,7 +1004,7 @@ is the amount of balancing charge.
 
 [49/2004 wef 30/11/2004]
 
-[Act 7/2006, wef 01/03/2006]
+[Act 7/2007, wef 01/03/006]
 
 (6) Any gains or profits, directly or indirectly, derived by any person from a right or benefit granted on or after 1st January 2003, whether granted in his name or in the name of his nominee or agent, to acquire shares in any company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income chargeable to tax under subsection (1)(b), accruing at such time and of such amount as determined under the following provisions:
 
@@ -2274,11 +2274,11 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zg) any distribution made by any trustee‑manager of a registered business trust;
 
+[34/2005 wef 21/09/2004]
+
 [7/2007 wef 17/02/2006]
 
 (zh) any distribution made by any trustee of a real estate investment trust of any income of the kinds referred to in section 43(2A)(a) (i), (ii) and (iii) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
-
-[7/2007 wef 17/02/2006]
 
 (zi) the following income derived from Singapore on or after 17th February 2006 by any individual:
 
@@ -2846,11 +2846,7 @@ as the case may be.
 
 (c) being any other person, is neither resident in Singapore nor constituted or registered under any written law in Singapore; or
 
-[7/2007 wef 17/02/2006]
-
 (d) is a trustee of another foreign trust specified under subsection (1).
-
-[7/2007 wef 17/02/2006]
 
 (2A) Where any income of a foreign trust is exempt from tax under regulations made under subsection (1) in any year of assessment, the share of such income that a foreign account of a philanthropic purpose trust is entitled to receive for that year of assessment shall also be exempt from tax.
 
@@ -3794,8 +3790,6 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 “registered patent agent” has the same meaning as in the Patents Act (Cap. 221).
 
-[14P
-
 [21/2003]
 
 ### Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office
@@ -3986,7 +3980,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) the regulations made undersection 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be; or
+(b) the regulations made under section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be; or
 
 [7/2007 wef 17/02/2006]
 
@@ -5090,7 +5084,9 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 (15) In this section —
 
-“automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory within the meaning of section 6 of the Factories Act (Cap.104);
+“automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory within the meaning of section 5 of the Workplace Safety and Health Act 2006;
+
+[Act 7/2006 wef 01/03/2006]
 
 “certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
 
@@ -12313,6 +12309,17 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 19/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|17 February 2006 (Sections 2(k), 6(a), (e), (h), 8, 10, 16(a), 17, 21, 28, 31, 32, 34, 35, 36, 44(f))|
+|205.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 19/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2006 (Sections 2(a) to (f), 10, 35, 44(f))|
+|206.|**Act 7 of 2006—Workplace Safety and Health Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 36/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 March 2006|
 ## COMPARATIVE TABLE
 
 Income Tax Act
