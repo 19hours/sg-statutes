@@ -48,7 +48,7 @@
 
 - [15 Certificate of corresponding law](#Certificate-of-corresponding-law)
 
-- [16 Analyst’s certificate](#Analyst’s-certificate)
+- [16 Certificate of analyst, etc.](#Certificate-of-analyst-etc)
 
 - [17 Presumption concerning trafficking](#Presumption-concerning-trafficking)
 
@@ -82,6 +82,8 @@
 
 - [32 Power of investigation of officers of Bureau](#Power-of-investigation-of-officers-of-Bureau)
 
+- [32A Officer of Bureau to be armed](#Officer-of-Bureau-to-be-armed)
+
 - [33 Punishment for offences](#Punishment-for-offences)
 
 - [33A Punishment for repeat consumption of specified drugs](#Punishment-for-repeat-consumption-of-specified-drugs)
@@ -101,6 +103,16 @@
 - [39 Power of Magistrate to inquire into complaint of misconduct or breach of duty](#Power-of-Magistrate-to-inquire-into-complaint-of-misconduct-or-breach-of-duty)
 
 - [40 Inmates deemed to be in legal custody](#Inmates-deemed-to-be-in-legal-custody)
+
+[**Part IVA TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES**](#Part-IVA)
+
+- [40A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [40B Taking of photographs, finger impressions, particulars and body samples from person subject to supervision or in approved institutions](#Taking-of-photographs-finger-impressions-particulars-and-body-samples-from-person-subject-to-supervision-or-in-approved-institutions)
+
+- [40C Further provisions for taking of body samples](#Further-provisions-for-taking-of-body-samples)
+
+- [40D Retention of photographs, finger impressions, particulars and body samples taken](#Retention-of-photographs-finger-impressions-particulars-and-body-samples-taken)
 
 [**Part V COMMITTEE OF INQUIRY**](#Part-V)
 
@@ -230,7 +242,9 @@ PRELIMINARY
 
 “officer of customs” has the same meaning as in the Customs Act (Cap. 70);
 
-“officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau;
+“officer of the Bureau” means the Director or any person appointed under section 3 as a Deputy Director, an Assistant Director or an officer of the Central Narcotics Bureau;
+
+[2/2006 wef 01/03/2006]
 
 “opium” means any substance containing in any quantity morphine and one or more of the following, namely, codeine, narcotine, papaverine and thebaine but does not include poppy-straw which is not mixed in any such substance;
 
@@ -264,15 +278,15 @@ otherwise than under the authority of this Act, and “trafficking” has a corr
 
 ### Appointment of Director and other officers of Central Narcotics Bureau
 
-3\.—(1) The Minister may appoint a Director and a Deputy Director of the Central Narcotics Bureau and such number of Assistant Directors and other officers as the Minister may think fit.
+3\.—(1) The Minister may appoint a Director of the Central Narcotics Bureau and such numbers of Deputy Directors, Assistant Directors and other officers as the Minister may think fit.
 
-[49/75]
+[2/2006 wef 01/03/2006]
 
 (2) All officers of the Bureau appointed by the Minister before 12th December 1975 shall be deemed to have been appointed under subsection (1).
 
 [49/75]
 
-(3) The powers and functions conferred upon the Director under this Act, and the duties required to be discharged by him may, subject to such limitations as the Director may impose, be exercised and discharged by the Deputy Director or an Assistant Director of the Central Narcotics Bureau duly authorised by the Director to act on his behalf.
+(3) The powers and functions conferred upon the Director under this Act, and the duties required to be discharged by him may, subject to such limitations as the Director may impose, be exercised and discharged by any Deputy Director or Assistant Director of the Central Narcotics Bureau duly authorised by the Director to act on his behalf.
 
 [2/2006 wef 01/03/2006]
 
@@ -334,7 +348,7 @@ OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES
 
 ### Consumption of drug outside Singapore by citizen or permanent resident
 
-8A\.—(1) Section 8(b) shall have effect in relation to a person who is a citizen or a permanent resident of Singapore outside as well as within Singapore where he is found as a result of urine tests conducted under section 31 to have smoked, administered to himself or otherwise consumed a controlled drug or a specified drug.
+8A\.—(1) Section 8(b) shall have effect in relation to a person who is a citizen or a permanent resident of Singapore outside as well as within Singapore where he is found as a result of urine tests conducted under section 31(4)(b) to have smoked, administered to himself or otherwise consumed a controlled drug or a specified drug.
 
 [2/2006 wef 01/03/2006]
 
@@ -454,11 +468,21 @@ EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (c) any fact stated in the document as constituting an offence under that law does constitute such offence.
 
-### Analyst’s certificate
+### Certificate of analyst, etc.
 
-16\. A certificate purporting to be signed by an analyst employed by the Health Sciences Authority and purporting to relate to a controlled drug or controlled substance shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein.
+16\. A certificate purporting —
 
-[20/98; 4/2001]
+(a) to be signed by —
+
+(i) an analyst employed by the Health Sciences Authority; or
+
+(ii) such other person as the Minister may, by notification in theGazette, appoint; and
+
+(b) to relate to a controlled drug or controlled substance,
+
+shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
+
+[2/2006 wef 01/03/2006]
 
 ### Presumption concerning trafficking
 
@@ -478,7 +502,13 @@ EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (g) 3 grammes of cocaine;
 
-(h) 25 grammes of methamphetamine; or
+(h) 25 grammes of methamphetamine;
+
+[2/2006 wef 01/03/2006]
+
+(ha) 113 grammes of ketamine; or
+
+[2/2006 wef 01/03/2006]
 
 (i) 10 grammes of any or any combination of the following:
 
@@ -522,7 +552,7 @@ shall, until the contrary is proved, be presumed to have had that drug in his po
 
 ### Presumption relating to urine test
 
-22\. If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31, he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8 (b).
+22\. If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b), he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8 (b).
 
 [2/2006 wef 01/03/2006]
 
@@ -670,7 +700,7 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 (a) fails to comply with the requirement of an immigration officer under this section; or
 
-(b) is found as a result of urine tests conducted under this section to have consumed a controlled drug,
+(b) is found as a result of urine tests conducted under subsection (4) (a) or (b) to have consumed a controlled drug,
 
 [2/2006 wef 01/03/2006]
 
@@ -678,13 +708,13 @@ may be prohibited from entering or remaining in Singapore.
 
 [38/89]
 
-(4) A specimen of urine provided under this section shall be divided into 2 parts and each part shall be marked and sealed in such manner and in accordance with such procedure as may be prescribed.
+(4) A specimen of urine provided under this section shall be divided into 3 parts and dealt with, in such manner and in accordance with such procedure as may be prescribed, as follows:
 
-[38/89]
+(a) a preliminary urine test shall be conducted on one part of the urine specimen; and
 
-(5) A urine test shall be conducted by an analyst employed by the Health Sciences Authority on one part of a specimen of urine provided under this section and, at the same time or soon thereafter, a second urine test shall be conducted on the other part of the specimen of urine by another analyst employed by the Health Sciences Authority.
+(b) each of the remaining 2 parts of the urine specimen shall be marked and sealed and a urine test shall be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may, by notification in theGazette, appoint for such purpose.
 
-[38/89; 20/98; 4/2001]
+[2/2006 wef 01/03/2006]
 
 ### Power of investigation of officers of Bureau
 
@@ -699,6 +729,12 @@ may be prohibited from entering or remaining in Singapore.
 (b) where the offence is non-seizable, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code in relation to an investigation into a non-seizable offence.
 
 [20/98]
+
+### Officer of Bureau to be armed
+
+32A\. Every officer of the Bureau shall be provided with such staves, arms, ammunition and other accoutrements as may be necessary for the effective discharge of his duties.
+
+[2/2006 wef 01/03/2006]
 
 ### Punishment for offences
 
@@ -774,21 +810,27 @@ is convicted of an offence under section 8(b) for consumption of a specified dru
 
 (a) a conviction under section 8(b) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at —
 
-(i) any time before 20th July 1998 but not before 1st October 1992 for the consumption of a controlled drug which is specified in the Fourth Schedule; or
+(i) any time on or after 1st October 1992 but before the relevant date for the consumption of a controlled drug which, on the date of any subsequent conviction, is specified in the Fourth Schedule; or
 
-(ii) any time on or after 20th July 1998 for the consumption of a specified drug,
+(ii) any time on or after the relevant date for the consumption of a specified drug,
 
 shall be deemed to be a previous conviction for consumption of a specified drug under section 8(b);
 
-(b) a conviction under section 31(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time before 20th July 1998 but not before 1st October 1992 shall be deemed to be a previous conviction for an offence of failure to provide a urine specimen under section 31(2);
+(b) a conviction under section 31(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time on or after 1st October 1992 shall be deemed to be a previous conviction for an offence of failure to provide a urine specimen under section 31(2);
 
 (c) “admission” means an admission under section 34(2) to an approved institution at —
 
-(i) any time before 20th July 1998 but not before 1st October 1992 for the consumption of a controlled drug which is specified in the Fourth Schedule; or
+(i) any time on or after 1st October 1992 but before the relevant date for the consumption of a controlled drug which, on the date of any subsequent conviction, is specified in the Fourth Schedule; or
 
-(ii) any time on or after 20th July 1998 for the consumption of a specified drug.
+(ii) any time on or after the relevant date for the consumption of a specified drug;
 
-[20/98]
+(d) “relevant date” —
+
+(i) in relation to a conviction or admission for consumption of diamorphine, morphine or opium, means 20th July 1998; and
+
+(ii) in relation to a conviction or admission for consumption of any drug added to the Fourth Schedule after 20th July 1998, means the date on which the amendment to that Schedule for the inclusion of such drug commences.
+
+[2/2006 wef 01/03/2006]
 
 ## PART IV
 
@@ -800,7 +842,7 @@ TREATMENT AND REHABILITATION
 
 [38/89]
 
-(2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31, it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests —
+(2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31(4)(b), it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests —
 
 (a) to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau for a period not exceeding 2 years; or
 
@@ -818,7 +860,11 @@ TREATMENT AND REHABILITATION
 
 [12/77]
 
-(5) No person in respect of whom an order has been made under subsection (2) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+(4A) The Director may, under such circumstances as may be prescribed, extend the period for which a person is subject to supervision under subsection (2)(a) for a period not exceeding 2 years.
+
+[2/2006 wef 01/03/2006]
+
+(5) No person in respect of whom an order has been made under subsection (2) (b) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
 
 [2/2006 wef 01/03/2006]
 
@@ -971,6 +1017,164 @@ TREATMENT AND REHABILITATION
 [43
 
 [28/79]
+
+## PART IVA
+
+TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES
+
+[2/2006 wef 01/03/2006]
+
+### Interpretation of this Part
+
+40A\.—(1) In this Part, unless the context otherwise requires —
+
+“appropriate consent” means —
+
+(a) for a person aged 16 years and above, the written consent of that person;
+
+(b) for a person aged 14 years and above but below the age of 16 years, the written consent of both that person and of his parent or guardian; and
+
+(c) for a person below the age of 14 years, the written consent of his parent or guardian,
+
+given to —
+
+(i) a police officer or an officer of the Bureau in charge of the case; or
+
+(ii) a prison officer,
+
+after that officer has informed the person concerned, his parent or guardian or both, as the case may be, of the purpose for which a body sample is required from such person and the manner by which such body sample is to be taken from him;
+
+“authorised analyst” means a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part;
+
+“body sample” means —
+
+(a) a sample of blood;
+
+(b) a sample of head hair, including the roots thereof;
+
+(c) a swab taken from a person’s mouth; or
+
+(d) such other sample as may be prescribed under subsection (2);
+
+“DNA” means deoxyribonucleic acid;
+
+“DNA information” means genetic information derived from the forensic DNA analysis of a body sample;
+
+“finger impression” includes thumb impression and palmar impression;
+
+“intimate sample” means any body sample that is obtained by means of any invasive procedure, but does not include any sample described in subsection (3);
+
+“particulars”, in relation to a person, means any particulars, information or description of that person that may be relevant or useful in the identification of that person;
+
+“photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
+
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76).
+
+[22/2007 wef 01/01/2008]
+
+(2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 40B.
+
+(3) The additional types of body samples that may be prescribed under subsection (2) shall not include samples to be obtained from —
+
+(a) the genital or anal area of a person’s body;
+
+(b) a person’s body orifice other than the mouth; or
+
+(c) the breast of a woman.
+
+### Taking of photographs, finger impressions, particulars and body samples from person subject to supervision or in approved institutions
+
+40B\.—(1) Any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may exercise all or any of the following powers in respect of any person referred to in subsection (2):
+
+(a) take or cause to be taken photographs and finger impressions of such person;
+
+(b) make or cause to be made a record of the particulars of such person;
+
+(c) cause body samples of such person to be taken by a person authorised under section 40C(1);
+
+(d) send any photograph, finger impression, record of particulars or body sample so taken or made to the Commissioner of Police for identification and report.
+
+(2) The powers referred to in subsection (1) may be exercised in respect of a person who on or after the date of commencement of the Misuse of Drugs (Amendment) Act 2006 —
+
+(a) is subject to supervision pursuant to a supervision order made at any time (whether before, on or after that date) under section 34(2)(a);
+
+(b) is in an approved institution pursuant to an order made at any time (whether before, on or after that date) under section 34(2)(b); or
+
+(c) is subject to a supervision order made at any time (whether before, on or after that date) under any regulations providing for the supervision and aftercare of persons.
+
+(3) Every person mentioned in subsection (2) shall —
+
+(a) submit to the taking of his photographs and finger impressions under subsection (1);
+
+(b) provide such particulars as may be required under subsection (1); and
+
+(c) subject to subsection (5), submit to the taking of his body samples by a person authorised under section 40C(1).
+
+(4) Where any person mentioned in subsection (2) fails, without reasonable excuse, to comply with subsection (3) —
+
+(a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
+
+(b) any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may use such force as is reasonably necessary to take or cause to be taken the photographs, finger impressions and body samples of that person.
+
+(5) No —
+
+(a) sample of blood; or
+
+(b) intimate sample prescribed under section 40A(2),
+
+shall be taken from any person unless the appropriate consent is given for the taking of the sample.
+
+### Further provisions for taking of body samples
+
+40C\.—(1) For the purposes of section 40B(1)(c), a body sample may only be taken by —
+
+(a) a registered medical practitioner;
+
+(b) a police officer, a prison officer or an officer of the Bureau who has received training for the purpose; or
+
+(c) any other suitably qualified or trained person who is duly appointed in writing by the Commissioner of Police as an authorised person for the purpose.
+
+(2) Before taking any body sample, the person authorised under subsection (1) to take the sample must satisfy himself that the taking of the sample does not endanger the person from whom the sample is to be taken.
+
+(3) The fact that a body sample has been taken shall be recorded by the person who took the sample in such form or manner as may be required by the Commissioner of Police.
+
+(4) Every body sample taken shall be sent to an authorised analyst for forensic DNA analysis.
+
+### Retention of photographs, finger impressions, particulars and body samples taken
+
+40D\.—(1) The Commissioner of Police shall cause to be maintained —
+
+(a) a register (whether in a computerised form or otherwise) in which shall be stored all photographs, finger impressions and particulars of a person taken under section 40B; and
+
+(b) a DNA database (whether in a computerised form or otherwise) in which shall be stored all DNA information derived from a body sample taken from a person under section 40B.
+
+(2) Any information stored in the register and the DNA database under subsection (1) may be used for all or any of the following purposes:
+
+(a) for comparison with any other information or any other DNA information, as the case may be, obtained in the course of an investigation of an offence conducted by a police officer or an officer of the Bureau;
+
+(b) for comparison with information in the register established under section 4 of the Registration of Criminals Act (Cap. 268) or with DNA information in the DNA database established under section 13F of that Act, as the case may be;
+
+(c) for comparison with information or DNA information, as the case may be, in the register or DNA database, respectively, established under —
+
+(i) section 27C of the Criminal Law (Temporary Provisions) Act (Cap. 67); or
+
+(ii) section 26D of the Intoxicating Substances Act (Cap. 146A);
+
+(d) for any proceedings for any offence;
+
+(e) for administering the register and DNA database for the purposes of this Act;
+
+(f) for such other purposes as may be prescribed.
+
+(3) For the purposes of subsection (2)(d) —
+
+(a) any photograph, finger impression or particulars stored in the register under subsection (1)(a);
+
+(b) any DNA information stored in the DNA database under subsection (1)(b); and
+
+(c) any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1),
+
+shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, be admissible in evidence in any proceedings without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
 
 ## PART V
 
@@ -1270,6 +1474,10 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 (q) providing for the supervision and aftercare of persons referred to in section 34(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b);
 
+(qa) prescribing the circumstances under which the Director may extend the period for which a person is subject to supervision under this Act;
+
+[2/2006 wef 01/03/2006]
+
 (r) prescribing anything that may be prescribed;
 
 (s) prescribing the functions and procedure of advisory committees;
@@ -1386,6 +1594,14 @@ Dimenoxadole.
 
 Dimepheptanol.
 
+N, α-dimethyl-3, 4-(methylenedioxy) phenethylamine.
+
+3-(1, 2-dimethylheptyl)-1-hydroxy-7, 8, 9, 10 tetrahydro-6, 6, 9-trimethyl-6
+
+H
+
+-dibenzo [b, d] pyran.
+
 Dimethylthiambutene.
 
 Dioxaphetyl butyrate.
@@ -1424,6 +1640,8 @@ Hydroxypethidine.
 
 Isomethadone.
 
+Ketamine.
+
 Ketobemidone.
 
 Levomethorphan.
@@ -1445,6 +1663,8 @@ Metazocine.
 Methadone.
 
 Methadyl acetate. Methcathinone.
+
+5-Methoxy-N, N-diisopropyltryptamine.
 
 4-methylaminorex.
 
@@ -1471,6 +1691,8 @@ Myrophine.
 Nicomorphine (3, 6-dinicotinoyl-morphine).
 
 Noracymethadol.
+
+Norketamine and its dehydro derivatives.
 
 Norlevorphanol.
 
@@ -1604,7 +1826,7 @@ Ethylmorphine (3-ethylmorphine).
 
 Fenetylline.
 
-Ketamine.
+Ketamine. —Deleted by Act 2/2006, wef 01/03/2006.
 
 Methylphenidate.
 
@@ -1614,7 +1836,7 @@ Nicodicodine.
 
 Norcodeine.
 
-Norketamine and its dehydro derivatives.
+Norketamine and its dehydro derivatives. —Deleted by Act 2/2006, wef 01/03/2006.
 
 Phencyclidine.
 
@@ -1824,7 +2046,7 @@ Death
 
 —
 
-(5) Unauthorised traffic in cocaine where the quantity is —
+(5) Unauthorised traffic in controlled drug containing such quantity of cocaine being —
 
 (a) not less than 20 grammes and not more than 30 grammes
 
@@ -1944,7 +2166,7 @@ Death
 
 —
 
-(9) Unauthorised traffic in methamphetamine where the quantity is —
+(9) Unauthorised traffic in controlled drug containing such quantity of methamphetamine being —
 
 (a) not less than 167 grammes and not more than 250 grammes
 
@@ -2034,7 +2256,7 @@ Death
 
 —
 
-(5) Unauthorised manufacture of methamphetamine
+(5) Unauthorised manufacture of methamphetamine or any salt of methamphetamine
 
 —
 
@@ -2274,7 +2496,7 @@ Death
 
 —
 
-(9) Unauthorised import or export of methamphetamine where the quantity is —
+(9) Unauthorised import or export of controlled drug containing such quantity of methamphetamine being —
 
 (a) not less than 167 grammes and not more than 250 grammes
 
@@ -2572,15 +2794,31 @@ Sections 2 and 33A
 
 Specified Drugs
 
-1\. Diamorphine
+1\. Amphetamine
 
-1A\. Monoacetylmorphine
+2\. N,α-dimethyl-3,4-(methylenedioxy)phenethylamine
 
-2\. Morphine
+3\. Diamorphine
 
-3. Opium.
+4\. N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine
 
-[20/98]
+5\. Ketamine
+
+6\. Methamphetamine (also known as Methylamphetamine)
+
+7\. α-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine)
+
+8\. Monoacetylmorphine
+
+9\. Morphine
+
+10\. Nimetazepam
+
+11\. Norketamine and its dehydro derivatives
+
+12. Opium.
+
+[2/2006 wef 01/03/2006]
 
 ## LEGISLATIVE HISTORY
 
@@ -2695,6 +2933,11 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|10 June 2005|
 |35.|**G. N. No. S 507/2005—Misuse of Drugs Act (Amendment of First Schedule) Order 2005**|
 ||Date of commencement|1 August 2005|
+|36.|**Act 2 of 2006—Misuse of Drugs (Amendment) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 40/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|1 March 2006|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
