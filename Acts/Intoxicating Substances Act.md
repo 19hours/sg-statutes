@@ -40,7 +40,7 @@
 
 - [14 Presumption of misuse of intoxicating substance](#Presumption-of-misuse-of-intoxicating-substance)
 
-- [15](#)
+- [15 Certificate of analyst, etc.](#Certificate-of-analyst-etc)
 
 [**Part IV TREATMENT AND REHABILITATION**](#Part-IV)
 
@@ -65,6 +65,16 @@
 - [25 Employment of auxiliary police officers as escorts and guards](#Employment-of-auxiliary-police-officers-as-escorts-and-guards)
 
 - [26 Escape from legal custody of approved centre](#Escape-from-legal-custody-of-approved-centre)
+
+[**Part IVA TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES**](#Part-IVA)
+
+- [26A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [26B Taking of photographs, finger impressions, particulars and body samples from person convicted, subject to supervision or in approved centres](#Taking-of-photographs-finger-impressions-particulars-and-body-samples-from-person-convicted-subject-to-supervision-or-in-approved-centres)
+
+- [26C Further provisions for taking of body samples](#Further-provisions-for-taking-of-body-samples)
+
+- [26D Retention of photographs, finger impressions, particulars and body samples taken](#Retention-of-photographs-finger-impressions-particulars-and-body-samples-taken)
 
 [**Part V COMMITTEE OF INQUIRY**](#Part-V)
 
@@ -140,7 +150,7 @@ PRELIMINARY
 
 “article liable to seizure” means anything by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
 
-“Director” means the Director of the Central Narcotics Bureau appointed under section 3(1) of the Misuse of Drugs Act (Cap. 185) and includes the Deputy Director of the Bureau;
+“Director” means the Director of the Central Narcotics Bureau appointed under section 3(1) of the Misuse of Drugs Act (Cap. 185) and includes any Deputy Director of the Bureau;
 
 “Director of Prisons” means the Director of Prisons appointed under section 20 of the Prisons Act (Cap. 247);
 
@@ -150,7 +160,9 @@ PRELIMINARY
 
 “intoxicating substance” means any substance having the property of releasing toxic vapours or fumes which contain any chemical compound specified in the Schedule and which when inhaled induces or causes a state of intoxication;
 
-“officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau;
+“officer of the Bureau” means the Director or any person appointed under section 3 of the Misuse of Drugs Act as a Deputy Director, an Assistant Director or an officer of the Central Narcotics Bureau;
+
+[3/2006 wef 01/03/2006]
 
 “police officer” has the same meaning as in the Police Force Act (Cap. 235) and, in relation to a person who is subject to military law under the Singapore Armed Forces Act (Cap. 295), includes a military policeman as defined in section 2 of that Act;
 
@@ -302,11 +314,31 @@ shall be guilty of an offence.
 
 ### Presumption of misuse of intoxicating substance
 
-14\. A person shall be presumed, until the contrary is proved, to have used or inhaled any intoxicating substance for the purpose of inducing or causing in himself a state of intoxication if the specimen of blood provided by him under section 13 is certified by an analyst employed by the Health Sciences Authority to contain an amount of any chemical compound specified in the first column of the Schedule in excess of the amount specified in the second column thereof in relation to that chemical compound.
+14\. A person shall be presumed, until the contrary is proved, to have used or inhaled any intoxicating substance for the purpose of inducing or causing in himself a state of intoxication if the specimen of blood provided by him under section 13 is certified by —
 
-[4/2001]
+(a) an analyst employed by the Health Sciences Authority; or
 
-15\.—(1) A certificate purporting to be signed by an analyst employed by the Health Sciences Authority and purporting to relate to any chemical compound specified in the Schedule shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, that certificate shall be prima facie evidence of all matters contained therein.
+(b) such other person as the Minister may, by notification in theGazette, appoint,
+
+to contain an amount of any chemical compound specified in the first column of the Schedule in excess of the amount specified in the second column thereof in relation to that chemical compound.
+
+[3/2006 wef 01/03/2006]
+
+### Certificate of analyst, etc.
+
+15\.—(1) A certificate purporting —
+
+(a) to be signed by —
+
+(i) an analyst employed by the Health Sciences Authority; or
+
+(ii) such other person as the Minister may, by notification in theGazette, appoint; and
+
+(b) to relate to any chemical compound specified in the Schedule,
+
+shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
+
+[3/2006 wef 01/03/2006]
 
 (2) The certificate under subsection (1) shall not be accepted as evidence for the prosecution unless a copy thereof had been served on the accused not less than 7 days before the hearing.
 
@@ -320,7 +352,19 @@ TREATMENT AND REHABILITATION
 
 16\.—(1) If as a result of a blood test under section 13, it appears to the Director that the person who supplied the specimen of blood for the blood test has used or inhaled any intoxicating substance in contravention of section 3 and that it is necessary for that person to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau or a person appointed by the Director for that purpose for a supervision period not exceeding 12 months.
 
-(2) The Director may make a supervision order requiring a person who has been discharged from an approved centre under section 21 to be subject to the supervision of an officer of the Bureau or a person appointed by the Director for that purpose for a supervision period not exceeding 12 months.
+(2) The Director may make a supervision order requiring —
+
+(a) a person who has been convicted of an offence under section 3(2); or
+
+(b) a person who has been discharged from an approved centre under section 21,
+
+to be subject to supervision by an officer of the Bureau or a person appointed by the Director for that purpose for a supervision period not exceeding 12 months.
+
+[3/2006 wef 01/03/2006]
+
+(2A) Where the person referred to in subsection (2)(a) is sentenced to a term of imprisonment, the supervision order shall commence upon the expiration of that sentence.
+
+[3/2006 wef 01/03/2006]
 
 (3) A supervision order made under subsection (1) or (2) may require the person subject to the supervision order to comply during the whole or any part of the supervision period with such requirements as to residence and any other requirements as the Director, having regard to the circumstances of the case, considers necessary for securing the good conduct of such person.
 
@@ -555,6 +599,162 @@ shall be guilty of an offence.
 shall be guilty of an offence.
 
 [23
+
+## PART IVA
+
+TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES
+
+[3/2006 wef 01/03/2006]
+
+### Interpretation of this Part
+
+26A\.—(1) In this Part, unless the context otherwise requires —
+
+“appropriate consent” means —
+
+(a) for a person aged 16 years and above, the written consent of that person;
+
+(b) for a person aged 14 years and above but below the age of 16 years, the written consent of both that person and of his parent or guardian; and
+
+(c) for a person below the age of 14 years, the written consent of his parent or guardian,
+
+given to —
+
+(i) a police officer or an officer of the Bureau in charge of the case; or
+
+(ii) a prison officer,
+
+after that officer has informed the person concerned, his parent or guardian or both, as the case may be, of the purpose for which a body sample is required from such person and the manner by which such body sample is to be taken from him;
+
+“authorised analyst” means a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part;
+
+“body sample” means —
+
+(a) a sample of blood;
+
+(b) a sample of head hair, including the roots thereof;
+
+(c) a swab taken from a person’s mouth; or
+
+(d) such other sample as may be prescribed under subsection (2);
+
+“DNA” means deoxyribonucleic acid;
+
+“DNA information” means genetic information derived from the forensic DNA analysis of a body sample;
+
+“finger impression” includes thumb impression and palmar impression;
+
+“intimate sample” means any body sample that is obtained by means of any invasive procedure, but does not include any sample described in subsection (3);
+
+“particulars”, in relation to a person, means any particulars, information or description of that person that may be relevant or useful in the identification of that person;
+
+“photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
+
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76).
+
+(2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 26B.
+
+(3) The additional types of body samples that may be prescribed under subsection (2) shall not include samples to be obtained from —
+
+(a) the genital or anal area of a person’s body;
+
+(b) a person’s body orifice other than the mouth; or
+
+(c) the breast of a woman.
+
+### Taking of photographs, finger impressions, particulars and body samples from person convicted, subject to supervision or in approved centres
+
+26B\.—(1) Any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may exercise all or any of the following powers in respect of any person referred to in subsection (2):
+
+(a) take or cause to be taken photographs and finger impressions of such person;
+
+(b) make or cause to be made a record of the particulars of such person;
+
+(c) cause body samples of such person to be taken by a person authorised under section 26C(1);
+
+(d) send any photograph, finger impression, record of particulars or body sample so taken or made to the Commissioner of Police for identification and report.
+
+(2) The powers referred to in subsection (1) may be exercised in respect of a person who on or after the date of commencement of the Intoxicating Substances (Amendment) Act 2006 —
+
+(a) is convicted of or is serving a sentence of imprisonment for an offence under section 3(2), 4(2) or 13(3);
+
+(b) is subject to supervision pursuant to a supervision order made at any time (whether before, on or after that date) under section 16(1) or (2); or
+
+(c) is in an approved centre pursuant to an order made at any time (whether before, on or after that date) under section 17(1).
+
+(3) Every person mentioned in subsection (2) shall —
+
+(a) submit to the taking of his photographs and finger impressions under subsection (1);
+
+(b) provide such particulars as may be required under subsection (1); and
+
+(c) subject to subsection (5), submit to the taking of his body samples by a person authorised under section 26C(1).
+
+(4) Where any person mentioned in subsection (2) fails, without reasonable excuse, to comply with subsection (3) —
+
+(a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
+
+(b) any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may use such force as is reasonably necessary to take or cause to be taken the photographs, finger impressions and body samples of that person.
+
+(5) No —
+
+(a) sample of blood; or
+
+(b) intimate sample prescribed under section 26A(2),
+
+shall be taken from any person unless the appropriate consent is given for the taking of the sample.
+
+### Further provisions for taking of body samples
+
+26C\.—(1) For the purposes of section 26B(1)(c), a body sample may only be taken by —
+
+(a) a registered medical practitioner;
+
+(b) a police officer, a prison officer or an officer of the Bureau who has received training for the purpose; or
+
+(c) any other suitably qualified or trained person who is duly appointed in writing by the Commissioner of Police as an authorised person for the purpose.
+
+(2) Before taking any body sample, the person authorised under subsection (1) to take the sample must satisfy himself that the taking of the sample does not endanger the person from whom the sample is to be taken.
+
+(3) The fact that a body sample has been taken shall be recorded by the person who took the sample in such form or manner as may be required by the Commissioner of Police.
+
+(4) Every body sample taken shall be sent to an authorised analyst for forensic DNA analysis.
+
+### Retention of photographs, finger impressions, particulars and body samples taken
+
+26D\.—(1) The Commissioner of Police shall cause to be maintained —
+
+(a) a register (whether in a computerised form or otherwise) in which shall be stored all photographs, finger impressions and particulars of a person taken under section 26B; and
+
+(b) a DNA database (whether in a computerised form or otherwise) in which shall be stored all DNA information derived from a body sample taken from a person under section 26B.
+
+(2) Any information stored in the register and the DNA database under subsection (1) may be used for all or any of the following purposes:
+
+(a) for comparison with any other information or any other DNA information, as the case may be, obtained in the course of an investigation of an offence conducted by a police officer or an officer of the Bureau;
+
+(b) for comparison with information in the register established under section 4 of the Registration of Criminals Act (Cap. 268) or with DNA information in the DNA database established under section 13F of that Act, as the case may be;
+
+(c) for comparison with information or DNA information, as the case may be, in the register or DNA database, respectively, established under —
+
+(i) section 27C of the Criminal Law (Temporary Provisions) Act (Cap. 67); or
+
+(ii) section 40D of the Misuse of Drugs Act (Cap. 185);
+
+(d) for any proceedings for any offence;
+
+(e) for administering the register and DNA database for the purposes of this Act;
+
+(f) for such other purposes as may be prescribed.
+
+(3) For the purposes of subsection (2)(d) —
+
+(a) any photograph, finger impression or particulars stored in the register under subsection (1)(a);
+
+(b) any DNA information stored in the DNA database under subsection (1)(b); and
+
+(c) any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1),
+
+shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, be admissible in evidence in any proceedings without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
 
 ## PART V
 
@@ -817,6 +1017,11 @@ This Legislative History is provided for the convenience of users of the Intoxic
 |||(Bill No. 52/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Dates of commencement|10th June 2005 (Part IV)|
+|8.|**Act 3 of 2006—Intoxicating Substances (Amendment) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 41/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|1 March 2006|
 ## COMPARATIVE TABLE
 
 Intoxicating Substances Act
