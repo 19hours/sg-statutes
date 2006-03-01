@@ -702,6 +702,16 @@ may voluntarily consent to a body sample being taken from him for forensic DNA a
 
 (a) for forensic comparison with any other DNA information in the course of an investigation of an offence conducted by a police officer;
 
+(aa) for comparison with DNA information in the DNA database established under —
+
+(i) section 27C of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+
+(ii) section 26D of the Intoxicating Substances Act (Cap. 146A); or
+
+(iii) section 40D of the Misuse of Drugs Act (Cap. 185);
+
+[2/2006 wef 01/03/2006]
+
 (b) for any proceedings for any offence;
 
 (c) for administering the DNA database for the purposes of this Part; and
@@ -1582,3 +1592,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 10/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|17 October 2005|
+|27.|**Act 2 of 2006—Misuse of Drugs (Amendment) Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 November 2005|
+|||(Bill No. 40/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|1 March 2006|
