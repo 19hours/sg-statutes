@@ -476,7 +476,7 @@ given to a police officer or officer of the Central Narcotics Bureau in charge o
 
 “photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
 
-“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76);
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
 “registrable particulars” means the particulars of any detention or supervision order made under section 30, 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
 
@@ -570,6 +570,14 @@ shall be taken from any person unless the appropriate consent is given for the t
 
 (b) for comparison with information in the register established under section 4 of the Registration of Criminals Act (Cap. 268) or with DNA information in the DNA Database established under section 13F of that Act, as the case may be;
 
+(ba) for comparison with information or DNA information, as the case may be, in the register or DNA database, respectively, established under —
+
+(i) section 26D of the Intoxicating Substances Act (Cap. 146A); or
+
+(ii) section 40D of the Misuse of Drugs Act (Cap. 185);
+
+[2/2006 wef 01/03/2006]
+
 (c) for any proceedings for any offence;
 
 (d) for administering the register and DNA database for the purposes of this Act;
@@ -592,7 +600,7 @@ the Commissioner of Police shall cause all such photographs, finger impressions,
 
 (c) any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1),
 
-shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police , be admissible in evidence in any proceedings, without proof of signature; and, until the contrary is proved, shall be proof of all matters contained therein or appearing thereon.
+shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, be admissible in evidence in any proceedings, without proof of signature; and, until the contrary is proved, shall be proof of all matters contained therein or appearing thereon.
 
 [32/2004 wef 21/10/2004]
 
@@ -762,11 +770,11 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 [17/99]
 
-(2) The powers conferred upon a police officer of or above the rank of assistant superintendent under sections 44(2) and 46 may be exercised by the Director, the Deputy Director or an Assistant Director of the Central Narcotics Bureau.
+(2) The powers conferred upon a police officer of or above the rank of assistant superintendent under sections 44(2) and 46 may be exercised by the Director, a Deputy Director or an Assistant Director of the Central Narcotics Bureau.
 
 [17/99]
 
-(3) The power conferred upon an officer of or above the rank of superintendent of police under section 44(3) may be exercised by the Director or the Deputy Director of the Central Narcotics Bureau.
+(3) The power conferred upon an officer of or above the rank of superintendent of police under section 44(3) may be exercised by the Director or a Deputy Director of the Central Narcotics Bureau.
 
 [17/99]
 
@@ -780,9 +788,9 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 (6) For the purposes of this section —
 
-“Director of the Central Narcotics Bureau”, “Deputy Director of the Central Narcotics Bureau” and “Assistant Director of the Central Narcotics Bureau” mean, respectively, the Director, the Deputy Director and an Assistant Director of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
+“Director of the Central Narcotics Bureau”, “Deputy Director of the Central Narcotics Bureau” and “Assistant Director of the Central Narcotics Bureau” mean, respectively, the Director, a Deputy Director and an Assistant Director of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
 
-“officer of the Central Narcotics Bureau” means the Director, the Deputy Director, the Assistant Directors and any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185).
+“officer of the Central Narcotics Bureau” means the Director, the Deputy Directors, the Assistant Directors and any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185).
 
 [46A
 
@@ -898,15 +906,161 @@ Essential Services
 
 (f) the Monetary Authority of Singapore under the Currency Act (Cap. 69).
 
+[S 31/2000]
+
 Part II
 
 FORM 1
 
 Section 6(5)
 
+Criminal Law (Temporary Provisions) Act
+
+
+
+
+(Chapter 67)
+
+To
+
+………………………...
+(Name of Employers)
+
+We
+
+(1)
+
+…………………………………………………………………….
+
+(2)
+
+…………………………………………………………………….
+
+(3)
+
+…………………………………………………………………….
+
+(4)
+
+…………………………………………………………………….
+
+(5)
+
+…………………………………………………………………….
+
+(6)
+
+…………………………………………………………………….
+
+(7)
+
+…………………………………………………………………….
+
+being
+
+………………………………………………………
+(Name of trade unions)
+
+acting on behalf of employees of
+
+………………………………………………
+(Name of company, firm, etc.)
+
+hereby give notice that the classes of employees as set out below intend to go
+
+on a strike on
+
+……………………………………..
+(date)
+
+unless negotiations for
+
+a settlement have been commenced beforehand or unless the demands presented to you on …………………………………….. 20….. have been satisfied by ………………………. 20…….
+
+(1)
+
+…………………………………………………………..
+
+(2)
+
+…………………………………………………………..
+
+(3)
+
+…………………………………………………………..
+
+Signatures
+
+(4)
+
+…………………………………………………………..
+
+(5)
+
+…………………………………………………………..
+
+(6)
+
+…………………………………………………………..
+
+(7)
+
+…………………………………………………………..
+
+Classes of employees (giving usual designation)
+
+…………………………………………………………………..
+
+…………………………………………………………………..
+
+…………………………………………………………………..
+
+…………………………………………………………………..
+
 FORM 2
 
 Section 6(6)
+
+Criminal Law (Temporary Provisions) Act
+
+
+
+
+(Chapter 67)
+
+I
+
+……………………………
+(name)
+
+being
+
+……………………………….
+
+
+
+
+(manager, proprietor, partner, etc.)
+
+of
+
+……………………………………………………………………………….
+(Name of company, firm, etc.)
+
+hereby give notice to the classes of my employees set out below that as from ………………………….. 20………. they will not be permitted to work on my premises of the above
+
+unless a satisfactory agreement as to conditions of employment has been reached between myself and them or their representatives, or negotiations opened to that end by ……………………………………… 20……..
+
+Class of employees (giving usual designation):
+
+…………………………………………………….
+
+…………………………………………………….
+
+…………………………………………………….
+
+……………………………
+(Signature)
 
 SECOND SCHEDULE
 
@@ -1134,6 +1288,13 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|21 October 2004|
 |47.|**G. N. No. S 13/2005—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2005**|
 ||Date of commencement|7 January 2005|
+|48.|**Act 2 of 2006—Misuse of Drugs (Amendment) Act 2006**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 November 2005|
+|||(Bill No. 40/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|1 March 2006|
+|||(item (1) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
