@@ -2912,8 +2912,6 @@ An amount equal to the sum of —
 
 (b) 5% of the amount of the additional wages payable to the employee in the month.";
 
-[S 830/2005 wef 01/01/2006]
-
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
 (a) where the employee is not more than 55 years of age:
@@ -4352,8 +4350,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (10) Competition Commission of Singapore.
 
-[S 830/2005 wef 01/01/2006]
-
 (11) Contact Lens Practitioners Board.
 
 (12) Defence Science and Technology Agency.
@@ -4573,7 +4569,9 @@ Self-employed Persons
 
 13\. Environmental Public Health Act (Cap. 95).
 
-14\. Factories Act (Cap. 104).
+14. Workplace Safety and Health Act 2006.
+
+[7/2006 wef 01/03/2006]
 
 15\. Films Act (Cap. 107).
 
@@ -5166,6 +5164,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Dates of commencement|17 September 2005 (sections 3 to 13 and 17)|
 |145.|**G.N. No. S 830/2005—Central Provident Fund Act (Amendment of First Schedule) Notification 2005**|
 ||Date of commencement|1 January 2006|
+|146.|**Act 7 of 2006—Workplace Safety and Health Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 36/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 March 2006|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
