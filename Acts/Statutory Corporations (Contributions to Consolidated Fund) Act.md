@@ -146,14 +146,14 @@ Civil Service College Act
 
 (Chapter 45)
 
-9. Commercial and Industrial Security Corporation
+9. Competition Commission of Singapore
 
-Commercial and Industrial Security Corporation Act
-
-
+Competition Act
 
 
-(Chapter 47)
+
+
+(Chapter 50B)
 
 10. Defence Science and Technology Agency
 
@@ -255,6 +255,10 @@ Jurong Town Corporation Act
 
 
 (Chapter 150)
+
+21A. Land Surveyors Board
+
+Land Surveyors Act (Chapter 156)
 
 22. Land Transport Authority of Singapore
 
@@ -364,6 +368,15 @@ Singapore Examinations and Assessment Board Act
 
 (Chapter 299A)
 
+32B. Singapore Academy of Law
+
+Singapore Academy of Law Act
+
+
+
+
+(Chapter 294A)
+
 33. Singapore Labour Foundation
 
 Singapore Labour Foundation Act
@@ -463,7 +476,7 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
-[S 148/2005 wef 25/03/2005]
+[S 195/2006 wef 31/03/2006]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
@@ -545,3 +558,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of operation|31 July 2004|
 |23.|**G. N. No. S 148/2005—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2005**|
 ||Date of commencement|25 March 2005|
+|24.|**G. N. No. S 195/2006—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2006**|
+||Date of commencement|31 March 2006|
