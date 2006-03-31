@@ -900,7 +900,9 @@ Specified Legislation
 
 (4) Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81, 82, 111, 113 and 120 of the Land Titles (Strata) Act (Cap. 158).
 
-(5) Sections 4, 10, 11, 12, 15, 17, 25, 26, 35 and 36 of the Residential Property Act (Cap. 274).
+(5) Sections 4, 9, 10, 11, 16, 23, 25, 35 and 36 of the Residential Property Act (Cap. 274).
+
+[9/2006 wef 31/03/2006]
 
 (6) Sections 7, 13 and 14 of the State Lands Encroachments Act (Cap. 315).
 
@@ -933,3 +935,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 9 of 2006—Residential Property (Amendment) Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 January 2006|
+|||(Bill No. 1/2006 published on 17 January 2006)|
+||Date of Second and Third Readings|14 February 2006|
+||Date of commencement|31 March 2006|
