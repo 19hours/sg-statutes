@@ -10496,9 +10496,7 @@ Cap. 20.
 
 2.
 
-Board of Legal Education
-
-Cap. 161.
+Deleted by S 194/2006, wef 31/03/2006
 
 2A.
 
@@ -10566,9 +10564,7 @@ Cap. 156.
 
 13.
 
-Law Society of Singapore
-
-Cap. 161
+Deleted by S 194/2006, wef 31/03/2006
 
 14.
 
@@ -10639,6 +10635,8 @@ Cap. 298.
 Any specified statutory corporation within the meaning of section 3 of the Statutory Corporations (Contributions to Consolidated Fund) Act (Cap. 319A), as from the date of establishment of that statutory corporation.
 
 [S 715/2005 wef 09/11/2005]
+
+[S 194/2006 wef 31/03/2006]
 
 B. Clubs, corporations and institutions in Singapore:
 
@@ -12320,6 +12318,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 36/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|17 January 2006|
 ||Date of commencement|1 March 2006|
+|207.|**G. N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
+||Date of commencement|31 March 2006 (paragraph 2(a))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
