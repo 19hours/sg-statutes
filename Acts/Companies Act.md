@@ -116,7 +116,7 @@
 
 - [33 Alterations of objects in memorandum](#Alterations-of-objects-in-memorandum)
 
-- [34 Alteration of memorandum by company to which section 14 of Residential Property Act applies](#Alteration-of-memorandum-by-company-to-which-section-14-of-Residential-Property-Act-applies)
+- [34 Alteration of memorandum by company pursuant to repeal and re-enactment of sections 10 and 14 of Residential Property Act](#Alteration-of-memorandum-by-company-pursuant-to-repeal-and-re-enactment-of-sections-10-and-14-of-Residential-Property-Act)
 
 - [35 Articles of association](#Articles-of-association)
 
@@ -1184,11 +1184,21 @@ PRELIMINARY
 
 2\. This Act is divided into Parts, Divisions and Subdivisions as follows:
 
-Part II
+Part I
+sections 1-7A
 
 ...
 
-Administration of this Act sections 8-16.
+Preliminary
+sections 1-7A.
+
+Part II
+sections 8-16
+
+...
+
+Administration of this Act
+sections 8-16.
 
 Part III
 Constitution of Companies
@@ -1196,88 +1206,150 @@ sections 17-42A
 
 ...
 
-Division 1 — Incorporation sections 17-22.
-
-...
-
-Division 2 — Powers sections 23-42A.
+Division 1 — Incorporation
+sections 17-22.
+Division 2 — Powers
+sections 23-42A.
 
 Part IV
-Shares, Debentures and Charges
+Shares,
+Debentures and Charges
 sections 43-141
 
 ...
 
-Division 1 —Prospectuses sections 43-56.
+Division 1 — Prospectuses sections 43-56.
+
+...
 
 Division 2 — Restrictions on allotment and commencement of business sections 57-62.
 
+...
+
 Division 3 — Shares sections 62A-78.
 
-Division 3A—Reduction of Share Capital sections 78A-78K.
+...
+
+Division 3A — Reduction of Share Capital sections 78A-78K.
+
+...
 
 Division 4 — Substantial shareholdings sections 79-92.
 
-Division 5 — Debentures sections 93-106.
+...
 
-Division 6 — Interests other than shares, debentures, etc., sections 107-120.
+Division 5 — Debentures
+sections 93-106.
 
-Division 7 — Title and transfers sections 121-130.
+...
 
-Division 7A — Central Depository System — a book entry or scripless system for the transfer of securities sections 130A-130P.
+Division 5A — Exemptions from Divisions 1 and 5 in relation to Prospectus Requirements
+sections 106A to 106L.
 
-Division 8 — Registration of charges sections 131-141.
+...
+
+Division 6 — Interests other than shares, debentures, etc.
+sections 107-120.
+
+...
+
+Division 7 — Title and transfers
+sections 121-130.
+
+...
+
+Division 7A — The Central Depository System — a book-entry or scripless system for the transfer of securities
+sections 130A-130P.
+
+...
+
+Division 8 — Registration of charges
+sections 131-141.
 
 Part V
-Management and
-Administration
+Management and Administration
 sections 142-198
 
 ...
 
-Division 1 — Office and name sections 142-144.
+Division 1 — Office and name
+sections 142-144.
 
-Division 2 — Directors and Officers sections 145-173.
+...
 
-Division 3 —Meetings and proceedings sections 174-189.
+Division 2 — Directors and officers
+sections 145-173.
 
-Division 4 —Register of members sections 190-196.
+...
 
-Division 5 — Annual return sections 197-198.
+Division 3 — Meetings and proceedings
+sections 173A-189.
+
+...
+
+Division 4 — Register of members
+sections 190-196.
+
+...
+
+Division 5 — Annual return
+sections 197-198.
 
 Part VI
 Accounts and Audit
+
+...
+
+Division 1 — Accounts
+sections 199-204.
+
 sections 199-209B
 
 ...
 
-Division 1 — Accounts sections 199-204.
-
-Division 2 — Audit sections 205-209B.
+Division 2 — Audit
+sections 205-209B.
 
 Part VII
+sections 210-216B
 
 ...
 
-Arrangements, Reconstructions and Amalgamations sections 210-216B.
+Arrangements, Reconstructions and Amalgamations
+sections 210-216B.
 
 Part VIII
 
 ...
 
-Receivers and Managers sections 217-227.
+Receivers and Managers
+
+sections 217-227
+
+...
+
+sections 217-227.
 
 Part VIIIA
 
 ...
 
-Judicial Management sections 227A-227X.
+Judicial Management
+
+sections 227A-227X
+
+...
+
+sections 227A-227X.
 
 Part IX
 
 ...
 
-Investigations sections 228-246.
+Investigations
+sections 228-246.
+
+sections 228-246
 
 Part X
 Winding Up
@@ -1287,49 +1359,102 @@ sections 247-354
 
 Division 1 — Preliminary sections 247-252.
 
-Division 2 — Winding up by Court sections 253-289.
+...
 
-Subdivision (1) General sections 253-262.
-
-Subdivision (2) Liquidators sections 263-276.
-
-Subdivision (3) Committees of inspection sections 277-278.
-
-Subdivision (4) General powers of Court sections 279-289.
-
-Division 3 — Voluntary winding up sections 290-312.
-
-Subdivision (1) Introductory sections 290-293.
-
-Subdivision (2) Provisions applicable only to members’ voluntary winding up sections 294-295.
-
-Subdivision (3) Provisions applicable only to creditors’ voluntary winding up sections 296-299.
-
-Subdivision (4) Provisions applicable to every voluntary winding up sections 300-312.
-
-Division 4 — Provisions applicable to every mode of winding up sections 313-349.
-
-Subdivision (1) General sections 313-326.
-
-Subdivision (2) Proof and ranking of claims sections 327-328.
-
-Subdivision (3) Effect on other transactions sections 329-335.
-
-Subdivision (4) Offences sections 336-342.
-
-Subdivision (5) Dissolution sections 343-349.
-
-Division 5—Winding up of unregistered companies sections 350-354.
-
-Part XI
-Various Types of Companies, etc.,
-sections 355-386
+Division 2 — Winding up by Court
+sections 253-289.
 
 ...
 
-Division 1 — Investment companies sections 355-364.
+Subdivision (1) General
+sections 253-262.
 
-Division 2 — Foreign companies sections 365-386.
+...
+
+Subdivision (2) Liquidators
+sections 263-276.
+
+...
+
+Subdivision (3) Committees of inspection
+sections 277-278.
+
+...
+
+Subdivision (4) General powers of Court
+sections 279-289.
+
+...
+
+Division 3 — Voluntary winding up
+sections 290-312.
+
+...
+
+Subdivision (1) Introductory
+sections 290-293.
+
+...
+
+Subdivision (2) Provisions applicable only to members’ voluntary winding up
+sections 294-295.
+
+...
+
+Subdivision (3) Provisions applicable only to creditors’ voluntary winding up
+sections 296-299.
+
+...
+
+Subdivision (4) Provisions applicable to every voluntary winding up
+sections 300-312.
+
+...
+
+Division 4 — Provisions applicable to every mode of winding up
+sections 313-349.
+
+...
+
+Subdivision (1) General sections 313-326.
+
+...
+
+Subdivision (2) Proof and ranking of claims
+sections 327-328.
+
+...
+
+Subdivision (3) Effect on other transactions
+sections 329-335.
+
+...
+
+Subdivision (4) Offences sections 336-342.
+
+...
+
+Subdivision (5) Dissolution
+sections 343-349.
+
+...
+
+Division 5 — Winding Up of Unregistered Companies
+sections 350-354.
+
+Part XI
+Various Types of Companies, etc.
+sections 2-386
+
+...
+
+Division 1 — Investment Companies
+sections 2-364.
+
+...
+
+Division 2 — Foreign Companies
+sections 365-386.
 
 Part XII
 General
@@ -1337,11 +1462,18 @@ sections 387-411
 
 ...
 
-Division 1 — Enforcement of this Act sections 387-399.
+Division 1 — Enforcement of this Act
+sections 387-399.
 
-Division 2 — Offences sections 400-409A.
+...
 
-Division 3 — Miscellaneous sections 410-411.
+Division 2 — Offences
+sections 400-409A.
+
+...
+
+Division 3 — Miscellaneous
+sections 410-411.
 
 [21/2005 wef 30/01/2006]
 
@@ -3267,11 +3399,17 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 [5/2004 wef 01/04/2004]
 
-### Alteration of memorandum by company to which section 14 of Residential Property Act applies
+### Alteration of memorandum by company pursuant to repeal and re-enactment of sections 10 and 14 of Residential Property Act
 
-34\. Notwithstanding anything in the memorandum of a company, a company to which section 14 of the Residential Property Act [Cap. 274] applies may, by virtue of the operation of section 14(3) of that Act, amend its memorandum by special resolution to remove any of the provisions referred to in section 10(1) of that Act except that any amendment so made shall be valid and take effect only to the extent that it conforms with the provisions of that Act.
+34\.—(1) Where the memorandum of a company contains any of the provisions referred to in section 10(1) of the Residential Property Act (Cap. 274) in force immediately before the date of commencement of section 9 of the Residential Property (Amendment) Act 2006, the company may, by special resolution, amend its memorandum to remove that provision.
 
-[15/84]
+(2) Where the memorandum of a company contains a provision to the effect that its memorandum or articles of association shall not be altered to remove any of the provisions referred to in section 10(1) of the Residential Property Act in force immediately before the date of commencement of section 9 of the Residential Property (Amendment) Act 2006 except in accordance with the requirements of that Act —
+
+(a) that provision shall cease to have effect as from that date; and
+
+(b) the company may, by special resolution, amend its memorandum to remove that provision.
+
+[9/2006 wef 31/03/2006]
 
 ### Articles of association
 
@@ -3778,7 +3916,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 69B\. [Act 21/2005 wef 30/01/2006]
 
-69C\. [Deleted by Act 21/2005]
+69C\. [Act 21/2005 wef 30/01/2006]
 
 69D\. [Act 21/2005 wef 30/01/2006]
 
@@ -6575,8 +6713,6 @@ On a hearing of an application under this section —
 (5) In this section —
 
 “foreign company” means a foreign company to which Division 2 of Part XI applies;
-
-[36/2000 wef 22/01/2001]
 
 ### Appointment of directors to be voted on individually
 
@@ -15356,11 +15492,11 @@ Signed this day of 19 .
 
 This form is to be used
 
-3
+4
 
 in favour of
 
-3Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+4Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 the resolution.
 
@@ -16265,3 +16401,9 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
+|86.|**Act 9 of 2006—Residential Property (Amendment) Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 January 2006|
+|||(Bill No. 1/2006 published on 17 January 2006)|
+||Date of Second and Third Readings|14 February 2006|
+||Date of commencement|31 March 2006|
