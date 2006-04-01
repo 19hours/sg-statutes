@@ -4396,7 +4396,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (33) Nanyang Polytechnic.
 
-(34) Nanyang Technological University.
+(34) [Deleted by S 193/2006 wef 01/04/2006]
 
 (35) National Arts Council.
 
@@ -4412,7 +4412,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (41) National Parks Board.
 
-(42) National University of Singapore.
+(42) [Deleted by S 193/2006 wef 01/04/2006]
 
 (43) Ngee Ann Polytechnic.
 
@@ -4569,9 +4569,7 @@ Self-employed Persons
 
 13\. Environmental Public Health Act (Cap. 95).
 
-14. Workplace Safety and Health Act 2006.
-
-[7/2006 wef 01/03/2006]
+14\. Workplace Safety and Health Act 2006.
 
 15\. Films Act (Cap. 107).
 
@@ -5170,6 +5168,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 36/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|17 January 2006|
 ||Date of commencement|1 March 2006|
+|147.|**G.N. No. S 193/2006—Central Provident Fund Act (Amendment of First Schedule) Notification 2006**|
+||Date of commencement|1 April 2006|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
