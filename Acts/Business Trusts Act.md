@@ -716,7 +716,7 @@ whichever last occurs; and
 
 (10) The trustee-manager of a registered business trust shall, within 7 days after it receives a notice given under subsection (8), send a copy of the notice to each of the other directors of the trustee-manager.
 
-(11) It is a defence to a prosecution for failing to comply with subsection (8) (a) or (b) or with subsection (9) if the defendant proves that his failure was due to his not being aware of a fact or occurrence the existence of which was necessary to constitute the offence and that —
+(11) It is a defence to a prosecution for failing to comply with subsection (8)(a) or (b) or with subsection (9) if the defendant proves that his failure was due to his not being aware of a fact or occurrence the existence of which was necessary to constitute the offence and that —
 
 (a) he was not so aware on the date of the information or summons; or
 
@@ -732,7 +732,7 @@ whichever last occurs; and
 
 (14) For the purposes of this section, a director of the trustee-manager of a registered business trust is deemed to have an interest in units or derivatives of units in the registered business trust or debentures of the registered business trust, as the case may be, if that director is deemed to have an interest in the units, derivatives of units or debentures, as the case may be, under section 4 of the Securities and Futures Act (Cap. 289).
 
-(15) For the purposes of this section, an interest of a family member of a director of the trustee-manager of a registered business trust shall be treated as an interest of that director and the words "member of a director’s family" shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
+(15) For the purposes of this section, an interest of a family member of a director of the trustee-manager of a registered business trust shall be treated as an interest of that director and the words “member of a director’s family” shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
 
 (16) Any director of the trustee-manager of a registered business trust who contravenes subsection (8) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -1326,7 +1326,7 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 ### Winding up ordered by court
 
-46\.—(1) A registered business trust may be wound up under an order of the court on the petition of —
+46\.—(1) A registered business trust may be wound up under an order of the court on the application of —
 
 (a) the trustee-manager of the registered business trust;
 
@@ -1334,7 +1334,9 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 (c) a unitholder of the registered business trust; or
 
-(d) a creditor of the registered business trust on the basis of subsection (2) (b).
+(d) a creditor of the registered business trust on the basis of subsection (2)(b).
+
+[42/2005 wef 01/04/2006]
 
 (2) The court may, on an application referred to in subsection (1), order the trustee-manager of a registered business trust to wind up the registered business trust if —
 
@@ -1344,7 +1346,7 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 and upon such order, the trustee-manager shall wind up the registered business trust.
 
-(3) The court may order the trustee-manager of a registered business trust to wind up the registered business trust on the petition of the Authority on any of the following grounds:
+(3) The court may order the trustee-manager of a registered business trust to wind up the registered business trust on the application of the Authority on any of the following grounds:
 
 (a) the registered business trust has carried on, promoted or participated in a pyramid selling scheme or arrangement within the meaning of section 2(1) of the Multi-Level Marketing and Pyramid Selling (Prohibition) Act (Cap. 190) in contravention of that Act;
 
@@ -1352,13 +1354,17 @@ and upon such order, the trustee-manager shall wind up the registered business t
 
 (c) a report has been made in respect of the registered business trust by an inspector appointed by the Minister under section 103,
 
+[42/2005 wef 01/04/2006]
+
 and upon such order, the trustee-manager shall wind up the registered business trust.
 
-(4) On the making of a winding up order by the court under subsection (2), the petitioner shall within 7 days —
+(4) On the making of a winding up order by the court under subsection (2), the applicant shall within 7 days —
 
 (a) lodge a copy of that order with the Authority; and
 
 (b) cause a copy of that order to be served upon the secretary of the trustee-manager of the registered business trust or upon such other person and in such manner as the court may direct.
+
+[42/2005 wef 01/04/2006]
 
 (5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
@@ -1490,7 +1496,7 @@ DEREGISTRATION
 
 (b) are held by no more than 2 persons,
 
-the Authority may deregister the registered business trust and, upon such deregistration, the Authority shall give notice of the deregistration of the registered business trust in the Gazette.
+the Authority may deregister the registered business trust and, upon such deregistration, the Authority shall give notice of the deregistration of the registered business trust in theGazette.
 
 (3) The Authority shall notify the trustee-manager of a registered business trust of the deregistration of the registered business trust.
 
@@ -2325,7 +2331,8 @@ Disclosure
 
 (a) cause the written statements required by subsections (2) and (3) to be made out in accordance with those subsections; and
 
-(b) ensure that the written statements referred to in paragraph (a) are annexed to the profit and loss account of the registered business trust required under section 76(1).
+(b) ensure that the written statements referred to in
+paragraph (a) are annexed to the profit and loss account of the registered business trust required under section 76(1).
 
 (2) Subject to subsection (4), the board of directors of the trustee-manager of a registered business trust shall make a written statement, in accordance with a resolution of the board of directors of the trustee-manager and signed by not less than 2 directors on behalf of the board of directors, certifying that —
 
@@ -2369,7 +2376,7 @@ the trustee-manager need not annex the written statement required by subsection 
 
 (b) in relation to a corporation which is a controlling shareholder of the trustee-manager of a registered business trust or a controlling unitholder of a registered business trust, means any corporation which is its related corporation or associated company;
 
-“associated company”, in relation to a corporation, means
+“associated company”, in relation to a corporation, means —
 
 (a) any corporation in which the corporation or its subsidiary has, or the corporation and its subsidiary together have, an interest in shares entitling the beneficial owners thereof the right to cast, whether by proxy or in person, not less than 20% but not more than 50% of the total votes able to be cast at a general meeting of the corporation; or
 
@@ -2389,7 +2396,7 @@ the trustee-manager need not annex the written statement required by subsection 
 
 but excludes any capacity to influence decisions on the financial and operating policies of a corporation where such influence is required to be exercised for the benefit of other persons pursuant to an obligation imposed under any written law, rule of law, contract or order of court;
 
-“controlling shareholder”, in relation to a corporation, means
+“controlling shareholder”, in relation to a corporation, means —
 
 (a) a person who has an interest in the voting shares of a corporation and who exercises control over the corporation; or
 
@@ -3016,3 +3023,10 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of commencement|12 October 2004|
 |2.|**2005 Revised Edition—Business Trusts Act**|
 ||Date of operation|31 July 2005|
+|3.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1st April 2006|
+|||(Item (5) in the First Schedule — Amendment of Business Trusts Act)|
