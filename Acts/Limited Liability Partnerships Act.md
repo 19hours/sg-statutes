@@ -734,7 +734,7 @@ as the Minister may reasonably require for the purpose of exercising or determin
 
 (a) the date of liquidation of a limited liability partnership shall be —
 
-(i) if the limited liability partnership is wound up by the High Court, the date of the presentation of the winding up petition;
+(i) if the limited liability partnership is wound up by the High Court, the date of the filing of the winding up application;
 
 (ii) where a provisional liquidator was appointed under paragraph 37 of the Fifth Schedule, the date the declaration made under that paragraph was lodged with the Registrar; and
 
@@ -1552,7 +1552,7 @@ DIVISION 1 — General
 
 Application for winding up by Court
 
-2.—(1) A limited liability partnership, whether or not it is being wound up voluntarily, may be wound up under an order of the Court on the petition —
+2.—(1) A limited liability partnership, whether or not it is being wound up voluntarily, may be wound up under an order of the Court on the application —
 
 (a) of the limited liability partnership;
 
@@ -1568,7 +1568,7 @@ or of any 2 or more of those parties.
 
 (2) Notwithstanding anything in sub-paragraph (1) —
 
-(a) the Court shall not hear the petition if presented by a contingent or prospective creditor until such security for costs has been given as the Court thinks reasonable and a prima facie case for winding up has been established to the satisfaction of the Court; and
+(a) the Court shall not hear the application if made by a contingent or prospective creditor until such security for costs has been given as the Court thinks reasonable and a prima facie case for winding up has been established to the satisfaction of the Court; and
 
 (b) the Court shall not, where a limited liability partnership is being wound up voluntarily, make a winding up order unless it is satisfied that the voluntary winding up cannot be continued with due regard to the interests of the creditors or partners.
 
@@ -1602,7 +1602,7 @@ Circumstances in which limited liability partnership may be wound up by Court
 
 (3) For the purpose of sub-paragraph (1)(f), a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that the limited liability partnership referred to in the certificate is being used for purposes against national security or interest shall be conclusive evidence that the limited liability partnership is being used for such purposes.
 
-(4) Upon the presentation of a petition by the Minister under paragraph 2(1)(e) for the winding up of a limited liability partnership under sub-paragraph (1)(f) on the ground that it is being used for purposes against national security or interest, the Court, upon the application of the Minister, may, pending the hearing of the petition or the making of a winding up order, make —
+(4) Upon the making of an application by the Minister under paragraph 2(1)(e) for the winding up of a limited liability partnership under sub-paragraph (1)(f) on the ground that it is being used for purposes against national security or interest, the Court, upon the application of the Minister, may, pending the hearing of the winding up application or the making of a winding up order, make —
 
 (a) an order restraining the limited liability partnership or its partners, managers, officers or employees from doing any act or from carrying out any activity as may be specified in the order; and
 
@@ -1612,59 +1612,59 @@ Circumstances in which limited liability partnership may be wound up by Court
 
 Commencement of winding up
 
-4.—(1) Where before the presentation of the petition a resolution has been passed by the partners for the voluntary winding up of the limited liability partnership, the winding up of the limited liability partnership shall be deemed to have commenced at the time of the passing of the resolution, and, unless the Court on proof of fraud or mistake thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
+4.—(1) Where before the filing of the application a resolution has been passed by the partners for the voluntary winding up of the limited liability partnership, the winding up of the limited liability partnership shall be deemed to have commenced at the time of the passing of the resolution, and, unless the Court on proof of fraud or mistake thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
 
-(2) In any other case the winding up shall be deemed to have commenced at the time of the presentation of the petition for the winding up.
+(2) In any other case the winding up shall be deemed to have commenced at the time of the filing of the application for the winding up.
 
 Payment of preliminary costs, etc.
 
-5.—(1) The persons, other than the limited liability partnership itself or the liquidator thereof, on whose petition any winding up order is made, shall at their own cost prosecute all proceedings in the winding up until a liquidator has been appointed under this Schedule.
+5.—(1) The persons, other than the limited liability partnership itself or the liquidator thereof, on whose application any winding up order is made, shall at their own cost prosecute all proceedings in the winding up until a liquidator has been appointed under this Schedule.
 
-(2) The liquidator shall, unless the Court orders otherwise, reimburse the petitioner out of the assets of the limited liability partnership the taxed costs incurred by the petitioner in any such proceedings.
+(2) The liquidator shall, unless the Court orders otherwise, reimburse the applicant out of the assets of the limited liability partnership the taxed costs incurred by the applicant in any such proceedings.
 
-(3) Where the limited liability partnership has no assets or has insufficient assets, and in the opinion of the Minister any fraud has been committed by any person in the formation of the limited liability partnership or by any officer of the limited liability partnership in relation to the limited liability partnership since the registration thereof, the taxed costs or so much of them as is not so reimbursed may, with the approval in writing of the Minister, to an extent specified by the Minister but not in any case exceeding $3,000, be reimbursed to the petitioner out of moneys provided by Parliament for the purpose.
+(3) Where the limited liability partnership has no assets or has insufficient assets, and in the opinion of the Minister any fraud has been committed by any person in the formation of the limited liability partnership or by any officer of the limited liability partnership in relation to the limited liability partnership since the registration thereof, the taxed costs or so much of them as is not so reimbursed may, with the approval in writing of the Minister, to an extent specified by the Minister but not in any case exceeding $3,000, be reimbursed to the applicant out of moneys provided by Parliament for the purpose.
 
-(4) Where any winding up order is made upon the petition of the limited liability partnership or the liquidator thereof, the costs incurred shall, subject to any order of the Court, be paid out of assets of the limited liability partnership in like manner as if they were the costs of any other petitioner.
+(4) Where any winding up order is made upon the application of the limited liability partnership or the liquidator thereof, the costs incurred shall, subject to any order of the Court, be paid out of assets of the limited liability partnership in like manner as if they were the costs of any other applicant.
 
-Powers of Court on hearing petition
+Powers of Court on hearing winding up application
 
-6.—(1) On hearing a winding up petition, the Court may dismiss it with or without costs or adjourn the hearing conditionally or unconditionally or make any interim or other order that it thinks fit, but the Court shall not refuse to make a winding up order on the ground only that the assets of the limited liability partnership have been mortgaged to an amount equal to or in excess of those assets or that the limited liability partnership has no assets or in the case of a petition by a partner that there will be no assets available for distribution amongst the partners.
+6.—(1) On hearing a winding up application, the Court may dismiss it with or without costs or adjourn the hearing conditionally or unconditionally or make any interim or other order that it thinks fit, but the Court shall not refuse to make a winding up order on the ground only that the assets of the limited liability partnership have been mortgaged to an amount equal to or in excess of those assets or that the limited liability partnership has no assets or in the case of a winding up application by a partner that there will be no assets available for distribution amongst the partners.
 
-(2) The Court may on the petition coming on for hearing or at any time on the application of the petitioner, the limited liability partnership, or any person who has given notice that he intends to appear on the hearing of the petition —
+(2) The Court may on the winding up application coming on for hearing or at any time on the application of the person making the winding up application, the limited liability partnership, or any person who has given notice that he intends to appear on the hearing of the winding up application —
 
-(a) direct that any notices be given or any steps taken before or after the hearing of the petition;
+(a) direct that any notices be given or any steps taken before or after the hearing of the winding up application;
 
 (b) dispense with any notices being given or steps being taken which are required by this Act, or by the rules made thereunder, or by any prior order of the Court;
 
-(c) direct that oral evidence be taken on the petition or any matter relating thereto;
+(c) direct that oral evidence be taken on the winding up application or any matter relating thereto;
 
-(d) direct a speedy hearing or trial of the petition or any issue or matter;
+(d) direct a speedy hearing or trial of the winding up application or any issue or matter;
 
-(e) allow the petition to be amended or withdrawn; and
+(e) allow the winding up application to be amended or withdrawn; and
 
 (f) give such directions as to the proceedings as the Court thinks fit.
 
 Power to stay or restrain proceedings against limited liability partnership
 
-7\. At any time after the presentation of a winding up petition and before a winding up order has been made, the limited liability partnership or any creditor or partner may, where any action or proceeding against the limited liability partnership is pending, apply to the Court to stay or restrain further proceedings in the action or proceeding, and the Court may stay or restrain the proceedings accordingly on such terms as it thinks fit.
+7\. At any time after the filing of a winding up application and before a winding up order has been made, the limited liability partnership or any creditor or partner may, where any action or proceeding against the limited liability partnership is pending, apply to the Court to stay or restrain further proceedings in the action or proceeding, and the Court may stay or restrain the proceedings accordingly on such terms as it thinks fit.
 
-Avoidance of dispositions of property and certain attachments, etc., and petition to be lis pendens etc.
+Avoidance of dispositions of property and certain attachments, etc., and winding up application to be lis pendens etc.
 
 8.—(1) Any disposition of the property of the limited liability partnership, and any assignment of a partner’s interest or right to distributions from the limited liability partnership, or alteration in the status of the partners of the limited liability partnership made after the commencement of the winding up by the Court shall (unless the Court otherwise orders) be void.
 
 (2) Any attachment, sequestration, distress or execution put in force against the estate or effects of the limited liability partnership after the commencement of the winding up by the Court shall be void.
 
-(3) Any petition for winding up a limited liability partnership shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
+(3) Any application for winding up a limited liability partnership shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
 
 Winding up order
 
-9.—(1) Within 7 days after the making of a winding up order, the petitioner shall lodge with the Registrar notice of —
+9.—(1) Within 7 days after the making of a winding up order, the applicant shall lodge with the Registrar notice of —
 
 (a) the order and its date; and
 
 (b) the name and address of the liquidator.
 
-(2) On the passing and entering of the winding up order, the petitioner shall within 7 days —
+(2) On the passing and entering of the winding up order, the applicant shall within 7 days —
 
 (a) lodge an office copy of the order with the Official Receiver and a copy of the order with the Registrar;
 
@@ -1678,9 +1678,9 @@ Winding up order
 
 (b) in accordance with such terms as the Court imposes.
 
-(4) Subject to paragraph 70, an order for winding up a limited liability partnership shall operate in favour of all the creditors and partners of the limited liability partnership as if made on the joint petition of a creditor and of a partner.
+(4) Subject to paragraph 70, an order for winding up a limited liability partnership shall operate in favour of all the creditors and partners of the limited liability partnership as if made on the joint application of a creditor and of a partner.
 
-(5) Any petitioner which contravenes sub-paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+(5) Any applicant which contravenes sub-paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
 Division 2
 
@@ -1762,7 +1762,7 @@ Control of Official Receiver by Minister
 
 Provisional liquidator
 
-15\. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the presentation of a winding up petition and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
+15\. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the filing of a winding up application and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
 
 General provisions as to liquidators
 
@@ -2372,7 +2372,7 @@ Costs
 
 Limitation on right to wind up voluntarily
 
-59\. Where a petition has been presented to the Court to wind up a limited liability partnership on the ground that it is unable to pay its debts the limited liability partnership shall not, without the leave of the Court, resolve that it be wound up voluntarily.
+59\. Where an application has been made to the Court to wind up a limited liability partnership on the ground that it is unable to pay its debts the limited liability partnership shall not, without the leave of the Court, resolve that it be wound up voluntarily.
 
 Part IV
 
@@ -2546,7 +2546,7 @@ Priorities
 
 76.—(1) Subject to the provisions of this Act, in a winding up there shall be paid in priority to all other unsecured debts —
 
-(a) firstly, the costs and expenses of the winding up including the taxed costs of a petitioner payable under paragraph 5, the remuneration of the liquidator and the costs of any audit carried out pursuant to paragraph 64;
+(a) firstly, the costs and expenses of the winding up including the taxed costs of the applicant for the winding up order payable under paragraph 5, the remuneration of the liquidator and the costs of any audit carried out pursuant to paragraph 64;
 
 (b) secondly, subject to sub-paragraph (2), all wages or salary (whether or not earned wholly or in part by way of commission) including any amount payable by way of allowance or reimbursement under any contract of employment or award or agreement regulating conditions of employment of any employee;
 
@@ -2908,7 +2908,7 @@ Duties of bailiff as to goods taken in execution
 
 89.—(1) Subject to sub-paragraph (3), where any goods of a limited liability partnership are taken in execution and, before the sale thereof or the completion of the execution by the receipt or recovery of the full amount of the levy, notice is served on the bailiff that a provisional liquidator has been appointed or that a winding up order has been made or that a resolution for voluntary winding up has been passed, the bailiff shall, on being so required, deliver the goods and any money seized or received in part satisfaction of the execution to the liquidator, but the costs of the execution shall be a first charge on the goods or moneys so delivered, and the liquidator may sell the goods, or a sufficient part thereof, for the purpose of satisfying that charge.
 
-(2) Subject to sub-paragraph (3), where under an execution in respect of a judgment for a sum exceeding $100 the goods of a limited liability partnership are sold or money is paid in order to avoid sale, the bailiff shall deduct the costs of the execution from the proceeds of the sale or the money paid and retain the balance of 14 days; and if within that time notice is served on him of a petition for the winding up of the limited liability partnership having been presented or of a meeting having been called at which there is to be proposed a resolution for the voluntary winding up and an order is made or a resolution is passed for the winding up, the bailiff shall pay the balance to the liquidator who shall be entitled to retain it as against the execution creditor.
+(2) Subject to sub-paragraph (3), where under an execution in respect of a judgment for a sum exceeding $100 the goods of a limited liability partnership are sold or money is paid in order to avoid sale, the bailiff shall deduct the costs of the execution from the proceeds of the sale or the money paid and retain the balance of 14 days; and if within that time notice is served on him of an application for the winding up of the limited liability partnership having been made or of a meeting having been called at which there is to be proposed a resolution for the voluntary winding up and an order is made or a resolution is passed for the winding up, the bailiff shall pay the balance to the liquidator who shall be entitled to retain it as against the execution creditor.
 
 (3) The rights conferred by this paragraph on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the Court thinks fit.
 
