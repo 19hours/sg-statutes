@@ -490,9 +490,9 @@ the licensed trust company shall, not later than 14 days after the occurrence of
 
 ### General provisions as to winding up
 
-12\.—(1) The persons who may petition under the Companies Act (Cap. 50) for the winding up of the affairs of a licensed trust company, or for the continuance of the winding up of the affairs of a licensed trust company subject to the supervision of the court, shall include the Authority.
+12\.—(1) The persons who may apply under the Companies Act (Cap. 50) for the winding up of the affairs of a licensed trust company, or for the continuance of the winding up of the affairs of a licensed trust company subject to the supervision of the court, shall include the Authority.
 
-(2) The Authority may, in accordance with the provisions of the Companies Act, present a petition for the winding up of a licensed trust company if the licensed trust company has contravened any provision of this Act.
+(2) The Authority may, in accordance with the provisions of the Companies Act, apply for the winding up of a licensed trust company if the licensed trust company has contravened any provision of this Act.
 
 (3) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a licensed trust company.
 
