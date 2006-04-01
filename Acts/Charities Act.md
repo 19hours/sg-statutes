@@ -1014,7 +1014,7 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 ### Charitable companies
 
-32\.—(1) Where a charity may be wound up by the High Court under the Companies Act [Cap. 50], a petition for it to be wound up under that Act by the High Court may be presented by the Attorney-General, as well as by any person authorised by that Act.
+32\.—(1) Where a charity may be wound up by the High Court under the Companies Act [Cap. 50], an application for it to be wound up under that Act by the High Court may be made by the Attorney-General, as well as by any person authorised by that Act.
 
 (2) Where a charity is a company or other body corporate, and has power to alter the instruments establishing or regulating it as a body corporate, no exercise of that power which has the effect of the body corporate ceasing to be a charity shall be valid so as to affect the application of any property acquired under any disposition or agreement previously made otherwise than for full consideration in money or money’s worth, or of any property representing property so acquired, or of any property representing income which has accrued before the alteration is made, or of the income from any such property as aforesaid.
 
@@ -1522,3 +1522,8 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (sections 5 and 6 — Amendment of Charities Act)|
+|7.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
