@@ -202,7 +202,7 @@
 
 - [70B Company wound-up](#Company-wound-up)
 
-- [70C Power to call for any instruments, books, accounts or other records](#Power-to-call-for-any-instruments-books-accounts-or-other-records)
+- [70C Power to call for any instrument, book, document, account or other record](#Power-to-call-for-any-instrument-book-document-account-or-other-record)
 
 - [71 Commissioner may require declaration, etc.](#Commissioner-may-require-declaration-etc)
 
@@ -240,9 +240,9 @@
 
 (Original Enactment: Ordinance 16 of 1929)
 
-REVISED EDITION 2000
+REVISED EDITION 2006
 
-(30th December 2000)
+(1st April 2006)
 
 An Act relating to stamp duties.
 
@@ -260,11 +260,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“1adhesive stamp” means any stamp authorised by the Commissioner for the purposes of this Act;2
+“1adhesive stamp” means any stamp authorised by the Commissioner for the purposes of this Act2
 
-1Definition of “adhesive stamp” to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 is brought into operation.
-
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+1Definition of “adhesive stamp” to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
 2Revenue stamps were so authorised by G.N. No. S 252/70.
 
@@ -272,11 +270,11 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
 
-“3die” includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
+“3die”includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
 
-3Definition of “die” to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+3Definition of “die” to be deleted when section 2(a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+(Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 99) were not in operation at the time of this Revised Edition.
 
 “duly stamped”, as applied to an instrument chargeable with duty, means —
 
@@ -288,15 +286,15 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 
 “E-Stamping system” means the computer service established under section 6B;
 
-“equitable mortgage” means an agreement or memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
+“equitable mortgage” means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
 “executed” and “execution”, used with reference to instruments not under seal, mean “signed” and “signature” ;
 
 “4impressed stamp”means either an adhesive stamp affixed by the proper officer over which an impression denoting the date of such impression has been made by the proper officer by means of a die, or an impression made by the proper officer by any mechanical means indicating the payment of duty and the date of such impression;
 
-4Definition of “impressed stamp” to be deleted when section 2(a) of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+4Definition of “impressed stamp” to be deleted when section 2(a,) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+Sections 2(a)36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.
 
 “instrument” includes every written document;
 
@@ -310,9 +308,7 @@ Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33
 
 (c) any writing on an application for a lease intended to signify that the application is granted;
 
-“limited liability partnership” has the same meaning as in the Limited Liability Partnerships Act 2005;
-
-[6/2005 wef 11/04/2005]
+“limited liability partnership” has the same meaning as in the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
 “marketable security” means a security of such a description as to be capable of being sold or negotiated in any stock market;
 
@@ -332,7 +328,7 @@ Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33
 
 “paper” includes every material upon which words or figures can be expressed;
 
-“proper officer” means the Commissioner of Stamp Duties and such other officer as may be authorised by him to impress stamps or to issue stamp certificates;
+“proper officer” means the Commissioner and such other officer as may be authorised by him to impress stamps or to issue stamp certificates;
 
 “registered person” means a person approved under section 6B to be a registered user of the E-Stamping system;
 
@@ -350,19 +346,19 @@ and shall include any estate or interest therein;
 
 “stock” includes any share in the capital stock or funded debt of a company, corporation or society in Singapore or elsewhere and stocks or funds of the Government or of any other government or country.
 
-[38/75; 14/83; 26/96; 33/99]
+[38/75; 14/83; 26/96; 33/99; 6/2005]
 
 ### Commissioner and Deputy Commissioners of Stamp Duties
 
-3\.—(1) The Minister may, by notification in theGazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Stamp Duties, and such number of Deputy Commissioners of Stamp Duties as he thinks fit.
+3\.—(1) The Minister may, by notification in the Gazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Stamp Duties, and such number of Deputy Commissioners of Stamp Duties as he thinks fit.
 
 [38/75]
 
-(2) Every Deputy Commissioner of Stamp Duties shall have and may exercise all the powers of the Commissioner under the provisions of this Act except subsection (3) and sections 40(2) and 68(1)
+(2) Every Deputy Commissioner of Stamp Duties shall have and may exercise all the powers of the Commissioner under the provisions of this Act except subsection (3) and sections 40(2) and 68(1).
 
 [33/99]
 
-(3) The Commissioner may, subject to such conditions or restrictions as he thinks fit, delegate to any person having official duty or employed in the administration of this Act, all or any of the powers, functions and duties by this Act vested in him
+(3) The Commissioner may, subject to such conditions or restrictions as he thinks fit, delegate to any person having official duty or employed in the administration of this Act, all or any of the powers, functions and duties by this Act vested in him.
 
 ## PART II
 
@@ -376,7 +372,7 @@ Liability of instruments to duty
 
 (a) which, not having been previously executed by any person, is executed in Singapore; or
 
-(b) which is executed outside Singapore, and relates to any property situate, or to any matter or thing done or to be done, in Singapore, and is received in Singapore,
+(b) which is executed outside Singapore, and relates to any property situated, or to any matter or thing done or to be done, in Singapore, and is received in Singapore,
 
 shall be chargeable with duty of the amount specified in that Schedule as the proper duty for that instrument.
 
@@ -400,7 +396,7 @@ Payment of duty
 
 (a) an instrument containing or relating to several distinct matters shall be separately and distinctly charged, as if it were a separate instrument, with duty in respect of each of the matters;
 
-(b) an instrument made for any consideration in respect of which it is chargeable with ad valorem duty, and also for any further or other valuable consideration or considerations, shall be separately and distinctly charged, as if it were a separate instrument with duty in respect of each of the considerations.
+(b) an instrument made for any consideration in respect of which it is chargeable with ad valorem duty, and also for any further or other valuable consideration or considerations, shall be separately and distinctly charged, as if it were a separate instrument, with duty in respect of each of the considerations.
 
 ### How duties are denoted
 
@@ -458,7 +454,7 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [33/99]
 
-(2) A registered person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, forthwith attach the stamp certificate to the instrument.
+(2) A registered person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, immediately attach the stamp certificate to the instrument.
 
 [33/99]
 
@@ -468,11 +464,11 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [33/99]
 
-(2) The Commissioner shall, on issuing to a registered person a stamp certificate in respect of any instrument that is chargeable with duty, forthwith deduct through electronic funds transfer the full amount of duty chargeable from the designated account of the registered person.
+(2) The Commissioner shall, on issuing to a registered person a stamp certificate in respect of any instrument that is chargeable with duty, immediately deduct through electronic funds transfer the full amount of duty chargeable from the designated account of the registered person.
 
 [33/99]
 
-(3) Nothing in subsection (2) shall require the Commissioner to deduct any moneys from the designated account of the registered person if the funds in that designated account are less than the full amount of duty chargeable on the instrument.
+(3) Nothing in subsection (2) shall require the Commissioner to deduct any money from the designated account of the registered person if the funds in that designated account are less than the full amount of duty chargeable on the instrument.
 
 [33/99]
 
@@ -488,7 +484,7 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [14/83]
 
-(4) An instrument, the duty upon which is required or permitted by law to be denoted by an adhesive stamp, is not to be deemed duly stamped with an adhesive stamp unless —
+(4)An instrument, the duty upon which is required or permitted by law to be denoted by an adhesive stamp, is not to be deemed duly stamped with an adhesive stamp unless—
 
 (a) the person required by law to cancel the adhesive stamp cancels it by writing on or across the stamp his name or initials, or the name or initials of his firm, together with the true date of his so writing, or otherwise effectually cancels the stamp and renders it incapable of being used for any other instrument; or
 
@@ -502,9 +498,9 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [33/99]
 
-5Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+5Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.
 
 ### Franking of certain instruments
 
@@ -520,9 +516,9 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 
 (5) The franking of any of the above-mentioned instruments by any duly authorised person as provided for in this section if done in accordance with the terms of this section and of the licence shall have the same effect as cancelling an adhesive stamp on the date and to the value indicated by the franking.
 
-6Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+6Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Composition of duty
 
@@ -560,9 +556,9 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 
 (2) If more than one instrument is written upon the same piece of paper, every one of the instruments shall be separately and distinctly stamped with the duty with which it is chargeable.
 
-7Section 10 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+7Section 10 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Where duty chargeable depends on duty paid on another instrument
 
@@ -618,11 +614,9 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 (iii) companies and registered business trusts which are associated in such manner as may be prescribed; or
 
-[39/2005 wef 01/01/2006]
+(c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
-(c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005.
-
-[6/2005 wef 11/04/2005]
+[32/2000; 6/2005; 39/2005]
 
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
@@ -640,7 +634,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 the claim shall be deemed to have been disallowed and an amount equal to the duty remitted shall —
 
-(i) become payable forthwith; and
+(i) become payable immediately; and
 
 (ii) be recoverable from the transferee company as a debt due to the Government, together with interest thereon at the rate of 6% per annum, from the date on which the duty would have become chargeable if this section had not been enacted.
 
@@ -652,7 +646,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 “registered business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A).
 
-[39/2005 wef 01/01/2006]
+[6/2005; 39/2005]
 
 ### Voluntary conveyance inter vivos
 
@@ -682,7 +676,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (ii) ad valorem duty was not charged on any property or interest in the property conveyed or transferred to the parties on the occasion of the previous marriage because marriage was the consideration.
 
-[38/2002 wef 01/01/2003]
+[38/2002]
 
 (3B) In subsection (3A) —
 
@@ -702,7 +696,7 @@ and “grandparent” shall be construed accordingly;
 
 (b) such other time period as may be prescribed in lieu of the time period specified in paragraph (a).
 
-[38/2002 wef 01/01/2003]
+[38/2002]
 
 (4) A conveyance or transfer made —
 
@@ -722,17 +716,17 @@ shall not be charged with duty under this section.
 
 17\.—(1) When any property is conveyed to any person in consideration, wholly or in part, of any debt due to him or subject either certainly or contingently to the payment or transfer of any money or stock or other property whether being or constituting a charge or incumbrance upon the property or not, such debt, money, stock or other property shall be deemed to be the whole or part, as the case may be, of the consideration in respect of which the conveyance is chargeable with ad valorem duty.
 
-[Explanation.—In the case of a sale of property subject to a mortgage or other incumbrance, any unpaid mortgage money or money charged, together with the interest, if any, due on it shall be deemed to be part of the consideration for the sale.]
+[Explanation.— In the case of a sale of property subject to a mortgage or other incumbrance, any unpaid mortgage money or money charged, together with the interest, if any, due on it shall be deemed to be part of the consideration for the sale.]
 
 (2) A conveyance on sale made for any consideration in respect of which it is chargeable with ad valorem duty, and in further consideration of a covenant by the purchaser to make or of his having previously made, any substantial improvement of or addition to the property conveyed to him, or of any covenant relating to the subject-matter of the conveyance, is not chargeable, and shall be deemed not to have been chargeable with any duty in respect of such further consideration.
 
 [Illustrations]
 
-(1) A owes B $1,000. A sells a property to B, the consideration being $500 and the release of the previous debt of $1,000. Stamp duty is payable on $1,500.
+(1)AowesB$1,000.Asells a property toB, the consideration being $500 and the release of the previous debt of $1,000. Stamp duty is payable on $1,500.
 
-(2) A sells a property to B for $500 which is subject to a mortgage to C for $1,000 and unpaid interest $200. Stamp duty is payable on $1,700.
+(2)Asells a property toBfor $500 which is subject to a mortgage toCfor $1,000 and unpaid interest $200. Stamp duty is payable on $1,700.
 
-(3) A mortgages a house to B for $5,000. B afterwards buys the house from A for $5,000 and a release of the mortgage debt. Stamp duty is payable on $10,000.
+(3) A mortgages a house toBfor $5,000.Bafterwards buys the house fromAfor $5,000 and a release of the mortgage debt. Stamp duty is payable on $10,000.
 
 ### Duties on foreclosure orders
 
@@ -760,7 +754,7 @@ the conveyance is to be charged in respect of that consideration with ad valorem
 
 Direction as to duty in cases of certain conveyances
 
-20\. 
+20\. [Repealed by Act 26 of 1996]
 
 ### Conveyances and transfers in contemplation of sale
 
@@ -792,7 +786,7 @@ the Commissioner shall repay the duty paid by virtue of this section —
 
 (b) any annuity reserved out of the property or any part of it, or any life or other interest so reserved, being an interest which is subject to forfeiture.
 
-(7) If on a claim made to the Commissioner not later than one year after the making or execution of the instrument, it is shown to his satisfaction that any such power as is mentioned in subsection (6)(a) has been exercised in relation to the property and the property or any property representing it has been reconveyed or retransferred in the whole or in part in consequence of that exercise, the Commissioner shall repay the duty paid by virtue of subsection (6) —
+(7) If, on a claim made to the Commissioner not later than one year after the making or execution of the instrument, it is shown to his satisfaction that any such power as is mentioned in subsection (6)(a) has been exercised in relation to the property and the property or any property representing it has been reconveyed or retransferred in the whole or in part in consequence of that exercise, the Commissioner shall repay the duty paid by virtue of subsection (6) —
 
 (a) in a case where the whole of such property has been so reconveyed or retransferred, so far as it exceeds the duty which would have been payable apart from subsection (6); and
 
@@ -804,7 +798,7 @@ the Commissioner shall repay the duty paid by virtue of this section —
 
 (a) any equitable estate or interest in any property; or
 
-(b) any estate or interest in any property except property situate outside Singapore or goods, wares or merchandise, or stock or marketable securities, or any ship or vessel, or part interest, share or property of or in any ship or vessel,
+(b) any estate or interest in any property except property situated outside Singapore or goods, wares or merchandise, or stock or marketable securities, or any ship or vessel, or part interest, share or property of or in any ship or vessel,
 
 shall be charged with the same ad valorem duty, payable by the purchaser, as if it were an actual conveyance on sale of the estate, interest or property contracted or agreed to be sold.
 
@@ -858,7 +852,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (ii) if the instrument is not dated, 6 months after the execution thereof;
 
-(iii) in the case of a contract or agreement that is rescinded or annulled on the ground referred to in subsection (6)(g), 2 months after the refusal of a Strata Titles Board; or
+(iii) in the case of a contract or an agreement that is rescinded or annulled on the ground referred to in subsection (6)(g), 2 months after the refusal of a Strata Titles Board; or
 
 (iv) such further time as the Commissioner may deem reasonable when, in unavoidable circumstances, the instrument cannot be produced within that period; and
 
@@ -882,13 +876,17 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 [33/99]
 
-22A\. 
+Contracts and instruments chargeable as conveyances on sale of residential property
 
-22B\. 
+22A\. [Repealed by Act 39 of 2005]
+
+Exempted instruments made on or after 15th May 1996
+
+22B\. [Repealed by Act 39 of 2005]
 
 Sale of annuity or right not before in existence
 
-23\. 
+23\. [Repealed by Act 39 of 1999]
 
 ### What is to be deemed a conveyance, not being a sale or mortgage
 
@@ -940,7 +938,7 @@ Sale of annuity or right not before in existence
 
 Settlement of policy of life insurance
 
-28\. 
+28\. [Repealed by Act 33 of 1999]
 
 ### Security for future advances, how to be charged
 
@@ -962,15 +960,19 @@ Settlement of policy of life insurance
 
 ### Conversion of firm and private company to limited liability partnership
 
-31\.—(1) Every notice of registration issued by the Registrar upon the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 shall be treated for the purposes of this Act as a conveyance on sale from the firm to the limited liability partnership of the chargeable property vested in the limited liability partnership upon such conversion, for a consideration equal to the value of the chargeable property so vested.
+31\.—(1) Every notice of registration issued by the Registrar upon the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005) shall be treated for the purposes of this Act as a conveyance on sale from the firm to the limited liability partnership of the chargeable property vested in the limited liability partnership upon such conversion, for a consideration equal to the value of the chargeable property so vested.
+
+[6/2005]
 
 (2) Every notice of registration issued by the Registrar upon the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act 2005 shall be treated for the purposes of this Act as a conveyance on sale from the private company to the limited liability partnership of the chargeable property vested in the limited liability partnership upon such conversion, for a consideration equal to the value of the chargeable property so vested.
+
+[6/2005]
 
 (3) In this section —
 
 “chargeable property” means —
 
-(a) immovable property situate in Singapore, or any beneficial interest thereof; and
+(a) immovable property situated in Singapore, or any beneficial interest thereof; and
 
 (b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act (Cap. 50) or its nominee;
 
@@ -978,9 +980,9 @@ Settlement of policy of life insurance
 
 “private company” has the same meaning as in section 4(1) of the Companies Act;
 
-“Registrar” has the same meaning as in the Limited Liability Partnerships Act 2005.
+“Registrar” has the same meaning as in the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
-[6/2005 wef 11/04/2005]
+[6/2005]
 
 ### Significant change of partners of limited liability partnership
 
@@ -992,6 +994,8 @@ Settlement of policy of life insurance
 
 (referred to in this section and sections 32A and 32B as a change of partners) amounts to a significant change of partners of the limited liability partnership (referred to in this section and sections 32A and 32B as a significant change of partners).
 
+[6/2005]
+
 (2) A change of partners shall amount to a significant change of partners in the following cases:
 
 (a) where the composition of the partners of the limited liability partnership upon the change of partners in question is such that, when compared to the composition of the partners of the limited liability partnership on one or more specified dates (as defined in subsection (3)) —
@@ -1001,6 +1005,8 @@ Settlement of policy of life insurance
 (ii) half or more of the partners upon the change of partners in question were not partners of the limited liability partnership on any of those specified dates; or
 
 (b) where the asset share of the partners of the limited liability partnership upon the change of partners in question is such that, when compared to the asset share of the partners of the limited liability partnership on one or more specified dates, the sum total of all relevant increases in asset share of the partners of the limited liability partnership upon the change of partners in question amounts to 50% or more of the interest in the limited liability partnership.
+
+[6/2005]
 
 (3) In subsection (2), “specified date” means —
 
@@ -1024,11 +1030,15 @@ Settlement of policy of life insurance
 
 (B) the date of the formation of the limited liability partnership.
 
+[6/2005]
+
 (4) For the purpose of subsection (2)(b), the relevant increase in asset share of a partner of a limited liability partnership shall be —
 
 (a) where the partner upon the change of partners in question was also a partner of a limited liability partnership on the specified date, the difference between the asset share of the partner upon the change of partners in question and the asset share of the partner on the specified date; and
 
 (b) where the partner upon the change of partners in question was not a partner of the limited liability partnership on the specified date, the asset share of the partner upon the change of partners in question.
+
+[6/2005]
 
 (5) In this section, “asset share”, in relation to a partner of a limited liability partnership, means any of the following:
 
@@ -1054,11 +1064,13 @@ Settlement of policy of life insurance
 
 (ii) if any instrument effecting or evidencing the change of partners or the formation of the limited liability partnership (as the case may be) does not specify the proportion referred to in sub-paragraph (i) or if there is no such instrument, the proportion of the profits of the limited liability partnership that the partner is entitled to on that date.
 
-[6/2005 wef 11/04/2005]
+[6/2005]
 
 ### Transfer of interest in limited liability partnership
 
 32A\.—(1) This section shall apply to any limited liability partnership holding any chargeable property.
+
+[6/2005]
 
 (2) Where a change of partners amounts to a significant change of partners, every one of the following partners (referred to in this section as a designated partner) shall notify the Commissioner of the change of partners in question in such form as the Commissioner may require within 14 days of the change of partners in question:
 
@@ -1074,15 +1086,23 @@ Settlement of policy of life insurance
 
 (ii) where there is no such earlier change of partners —
 
-(A) in the case of a limited liability partnership formed 2 or more years before the change of partners in question, as at 2 years before the change of partners in question;
+(A) in the case of a limited liability partnership formed 2 or more years before the change of partners in question, as at 2 years before the change of partners in question; and
 
 (B) in the case of a limited liability partnership formed less than 2 years before the change of partners in question, upon the formation of the limited liability partnership.
 
+[6/2005]
+
 (3) Any person who fails or neglects without reasonable excuse to comply with subsection (2) shall be guilty of an offence.
+
+[6/2005]
 
 (4) Any instrument effecting or evidencing a significant change of partners of a limited liability partnership shall be treated for the purposes of this Act as a conveyance on sale from the limited liability partnership to each designated partner of an interest in the chargeable property held by the limited liability partnership for a consideration equal to the value of the interest as determined under subsection (6) or (7).
 
+[6/2005]
+
 (5) Where any significant change of partners of a limited liability partnership is not effected or evidenced by any instrument, the notification to the Commissioner made under subsection (2) shall be treated for the purposes of this Act as such an instrument.
+
+[6/2005]
 
 (6) Subject to subsection (7), for the purpose of subsection (4), the value of the interest shall, in relation to any designated partner, be an amount ascertained in accordance with the formula —
 
@@ -1102,7 +1122,7 @@ is the value of the chargeable property held by the limited liability partnershi
 
 (b) in the case of a person who is a designated partner referred to in subsection (2)(b)
 
-(C — D) x E,
+(C - D) x E,
 
 where
 
@@ -1110,9 +1130,7 @@ C
 
 is the asset share of the designated partner upon the significant change of partners in question;
 
-D
-
-is —
+D is —
 
 (a) the asset share of the designated partner upon a significant change of partners closest in time to the significant change of partners in question; and
 
@@ -1122,7 +1140,11 @@ E
 
 is the value of the chargeable property held by the limited liability partnership upon the significant change of partners in question.
 
+[6/2005]
+
 (7) Notwithstanding subsection (6), where there is any instrument referred to in subsection (4) which states the amount of the consideration specifically for the transfer of the interest in the chargeable property of the limited liability partnership to the designated partner, the value of the interest for the purpose of subsection (4) shall be the amount stated in the instrument or the amount ascertained under subsection (6), whichever is the higher.
+
+[6/2005]
 
 (8) In this section —
 
@@ -1130,7 +1152,7 @@ is the value of the chargeable property held by the limited liability partnershi
 
 “chargeable property” has the same meaning as in section 31.
 
-[6/2005 wef 11/04/2005]
+[6/2005]
 
 ### Conveyance between limited liability partnership and partner
 
@@ -1144,6 +1166,8 @@ is the value of the chargeable property held by the limited liability partnershi
 
 shall be reduced by the proportion determined in accordance with subsection (2).
 
+[6/2005]
+
 (2) The proportion by which the ad valorem stamp duty shall be reduced under subsection (1) shall be the same proportion as the following:
 
 (a) in the case of a transfer, a conveyance or an assignment of any beneficial interest in any asset between a limited liability partnership and a partner thereof —
@@ -1154,15 +1178,21 @@ shall be reduced by the proportion determined in accordance with subsection (2).
 
 (b) in the case of a transfer, a conveyance or an assignment of any beneficial interest in any asset between a limited liability partnership and a person becoming a partner thereof, the asset share of that person upon his becoming a partner thereof.
 
+[6/2005]
+
 (3) Notwithstanding subsection (1), the minimum ad valorem stamp duty chargeable on any instrument made for the purposes of or in connection with the transfer, conveyance or assignment of any beneficial interest in any asset referred to in that subsection shall be $10.
+
+[6/2005]
 
 (4) In this section, “asset share” has the same meaning as in section 32.
 
-[6/2005 wef 11/04/2005]
+[6/2005]
 
 ### Amalgamation of companies under sections 215A to 215H of Companies Act
 
 32C\.—(1) This section shall apply to an amalgamation of companies in accordance with sections 215A to 215H of the Companies Act (Cap. 50), where applicable.
+
+[39/2005]
 
 (2) Every notice of amalgamation issued by the Registrar of Companies under section 215F of the Companies Act upon an amalgamation referred to in subsection (1) shall be treated for the purposes of this Act as a conveyance on sale —
 
@@ -1176,13 +1206,15 @@ shall be reduced by the proportion determined in accordance with subsection (2).
 
 whichever is the higher.
 
+[39/2005]
+
 (3) In this section, “chargeable property” means —
 
-(a) immovable property situate in Singapore, or any beneficial interest thereof; and
+(a) immovable property situated in Singapore, or any beneficial interest thereof; and
 
-(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act or its nominee.
+(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act (Cap. 50) or its nominee.
 
-[39/2005 wef 01/01/2006]
+[39/2005]
 
 ### Directions as to disposal of shares in certain circumstances
 
@@ -1194,7 +1226,7 @@ whichever is the higher.
 
 such disposal of shares shall be treated as a transfer of shares from the transferor directly to the transferee and ad valorem duty shall be charged on any instrument that, in the opinion of the Commissioner, effects, whether directly or indirectly and whether wholly or partially, any arrangement for the disposal of the shares.
 
-[38/2002 wef 01/01/2003]
+[38/2002]
 
 ### Commissioner may disregard certain transactions and dispositions
 
@@ -1236,7 +1268,7 @@ LIABILITY FOR PAYMENT OF DUTY
 
 Obligation to give receipts
 
-35\. 
+35\. [Repealed by Act 26 of 1996]
 
 ### Exemptions
 
@@ -1244,7 +1276,7 @@ Obligation to give receipts
 
 (a) any instrument executed by or on behalf of or in favour of the Government in cases where, but for this exemption, the Government would be liable under section 34 to pay the duty chargeable in respect of that instrument;
 
-(b) any instrument for the sale, transfer, lease or other disposition, either absolutely or by way of mortgage or otherwise, of land situate outside Singapore or any share, estate or interest in land situate outside Singapore;
+(b) any instrument for the sale, transfer, lease or other disposition, either absolutely or by way of mortgage or otherwise, of land situated outside Singapore or any share, estate or interest in land situated outside Singapore;
 
 (c) any instrument which relates exclusively to things to be done outside Singapore;
 
@@ -1252,23 +1284,15 @@ Obligation to give receipts
 
 (e) any instrument executed by or on behalf of or in favour of a co-operative society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such co-operative society and relating solely to the business of the co-operative society where, but for this exemption, the co-operative society would be liable under section 34 to pay the duty chargeable on that instrument;
 
-[38/2002 wef 01/01/2003]
-
 (f) any instrument whereby any security is assigned, transferred or negotiated to the Monetary Authority of Singapore (whether on sale or otherwise) under the Exchange Control Act (Cap. 99);
-
-[38/2002 wef 01/01/2003]
 
 (g) any instrument made by the Collector of Land Revenue under the Land Acquisition Act (Cap. 152);
 
-[38/2002 wef 01/01/2003]
-
 (h) any deed, conveyance, assignment or other assurance which relates solely to immovable property or to any mortgage, charge or other encumbrances on, or any estate, right or interest in, any immovable property or stock or shares which are part of the estate of any bankrupt (including any debtor proceeded against under the Bankruptcy Act (Cap. 20)), and which, after the execution of the instrument, either at law or in equity, is or remains the estate of the bankrupt (including any debtor proceeded against under that Act) or of the Official Assignee, and any bond or other instrument relating solely to the property of any bankrupt; and
-
-[38/2002 wef 01/01/2003]
 
 (i) any instrument of transfer lodged under section 125 or 126 of the Land Titles (Strata) Act (Cap. 158) except where the transfer relates to any designated land as defined in section 126A of that Act.
 
-[38/2002 wef 01/01/2003]
+[38/75; 4/81; 18/86; 33/99; 38/2002; 39/2005]
 
 ## PART V
 
@@ -1278,7 +1302,7 @@ ADJUDICATION AS TO STAMPS
 
 37\.—(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
 
-[33/99]
+[33/99; 38/2002]
 
 (1A) Where the person seeks the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable, he shall in making the application for adjudication set forth the value upon which in his opinion duty is chargeable.
 
@@ -1286,7 +1310,7 @@ ADJUDICATION AS TO STAMPS
 
 (1B) The person seeking the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable shall pay the relevant adjudication fee prescribed in the Fourth Schedule at such time as the Commissioner may determine, and such fee shall remain payable notwithstanding that he subsequently withdraws his application for adjudication.
 
-[38/2002 wef 01/01/2003]
+[38/2002]
 
 (2) For the purpose of the adjudication under subsection (1), the Commissioner may require any of the following:
 
@@ -1320,7 +1344,7 @@ the Commissioner shall certify by issuing and attaching to the instrument a cert
 
 [33/99]
 
-(2) When the instrument is in the opinion of the Commissioner not chargeable with duty, the Commissioner shall certify in the manner mentioned in subsection (1) that the instrument is not so chargeable.
+(2) When the instrument is in the opinion of the Commissioner not chargeable with duty , the Commissioner shall certify in the manner mentioned in subsection (1) that the instrument is not so chargeable.
 
 (3) Any instrument in respect of and to which a certificate of adjudication has been issued and attached under this section shall be deemed to be duly stamped or not chargeable with duty, as the case may be; and, if chargeable with duty, shall be receivable in evidence or otherwise and may be acted upon and registered as if it had been originally duly stamped.
 
@@ -1340,7 +1364,7 @@ the Commissioner shall certify by issuing and attaching to the instrument a cert
 
 39A\.—(1) Any person who is dissatisfied with an assessment of the Commissioner under any provision of this Act may, by written notice (referred to in this Act as a notice of objection), object to the assessment and apply to the Commissioner to review the assessment.
 
-[33/99]
+[33/99; 38/2002]
 
 (2) Every notice of objection must state the grounds of objection to the Commissioner’s assessment and must be made within 30 days after the date of the assessment or such further period as the Commissioner may allow in any particular case.
 
@@ -1418,7 +1442,7 @@ TIME OF STAMPING INSTRUMENTS
 
 Promissory notes drawn outside Singapore
 
-44\. 
+44\. [Repealed by Act 26 of 1996]
 
 ### Transfers of shares
 
@@ -1526,7 +1550,7 @@ INSTRUMENTS NOT DULY STAMPED
 
 [26/96]
 
-(2) In every other case in which an instrument is impounded under section 51, the person impounding the instrument shall send it forthwith to the Commissioner.
+(2) In every other case in which an instrument is impounded under section 51, the person impounding the instrument shall send it immediately to the Commissioner.
 
 (3) The Commissioner, on payment of the duty and penalty, if any, chargeable in respect thereof under section 46, shall stamp the instrument and shall return it to the person who sent it to him, but if such duty and penalty, if any, is not paid, he shall retain the instrument.
 
@@ -1534,7 +1558,7 @@ INSTRUMENTS NOT DULY STAMPED
 
 Special provision as to unstamped receipts
 
-54\. 
+54\. [Repealed by Act 26 of 1996]
 
 ### Recovery of duty and penalty
 
@@ -1594,9 +1618,9 @@ ALLOWANCE FOR SPOILED STAMPS
 
 859\. In any case in which allowance is made for spoiled or misused stamps, the Commissioner may give in lieu thereof other stamps of the same denomination and value, or if required, and he thinks proper, stamps of any other denomination to the same amount in value or, in his discretion, the same value in money, deducting therefrom the discount, if any, allowed on the purchase of stamps of a like description.
 
-8Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+8Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Stamp may be repurchased
 
@@ -1604,9 +1628,9 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 
 (2) In the case of impressed stamps, if the Commissioner is satisfied that the stamp was bought at his office, he may repay the value of the stamp in money without making any deduction therefrom.
 
-9Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+9Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ## PART IX
 
@@ -1616,15 +1640,15 @@ OFFENCES AND PENALTIES
 
 1061\. Any person who being required by law to cancel an adhesive stamp neglects or refuses duly and effectually to do so in the manner prescribed by section 7(4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
-10Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+10Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Penalty for evasion of duty
 
 62\. Any person who with intent to evade the payment of duty —
 
-(a) executes any instrument in which all the facts and circumstances are not truly and fully set forth as required by section 5;
+(a) executes any instrument in which all the facts and circumstances are not fully and truly set forth as required by section 5;
 
 (b) being employed or concerned in or about the preparation of any instrument, neglects or omits to set forth fully or truly in the instrument all those facts and circumstances;
 
@@ -1632,11 +1656,9 @@ Sections 2 (a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 3
 
 (d) fails to comply with section 32A(2),
 
-[6/2005 wef 11/04/2005]
-
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[33/99]
+[33/99; 6/2005]
 
 ### Penalty for executing instruments not duly stamped, etc.
 
@@ -1684,17 +1706,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 65\.—(1) No person shall —
 
-(a) resist or obstruct the Commissioner or any officer in the performance of any duty or the exercise of any power under this Act or any rules made thereunder; or
+(a) resist or obstruct the Commissioner or any officer in the performance of any duty or the exercise of any power under this Act; or
 
 (b) wilfully mislead the Commissioner or any officer in any particular likely to affect the discharge of his duty.
 
 [33/99]
 
-(2) Subject to subsection (3), no person shall, being lawfully asked any question by the Commissioner or any officer under this Act or any rules made thereunder, give an answer (whether orally or in writing) to the question or, in furnishing information, make any statement or representation that is false or misleading in any material particular.
+(2) Subject to subsection (3), no person shall, being lawfully asked any question by the Commissioner or any officer under this Act, give an answer (whether orally or in writing) to the question or, in furnishing information, make any statement or representation that is false or misleading in any material particular.
 
 [33/99]
 
-(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence.
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
 [33/99]
 
@@ -1730,7 +1752,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [33/99]
 
-(2) The Commissioner may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+(2) The Commissioner may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
 [33/99]
 
@@ -1740,7 +1762,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Service of summons
 
-68A\.—(1) Every summons issued by a court against any person in connection with any offence under this Act or any rules made thereunder may be served on the person —
+68A\.—(1) Every summons issued by a court against any person in connection with any offence under this Act may be served on the person —
 
 (a) by delivering the summons to the person or to some adult member or employee of his family at his usual or last known place of residence;
 
@@ -1824,7 +1846,7 @@ MISCELLANEOUS
 
 [26/96]
 
-(8) For the purpose of this section —
+(8) In this section —
 
 “duty” includes any penalty or any other money which a person is liable to pay to the Commissioner under this Act;
 
@@ -1852,13 +1874,13 @@ MISCELLANEOUS
 
 [33/99]
 
-### Power to call for any instruments, books, accounts or other records
+### Power to call for any instrument, book, document, account or other record
 
-70C\.—(1) For the purposes of this Act, the Commissioner may give notice in writing to any person requiring him to furnish within the time limited by such notice, not being less than 30 days from the date of service of such notice, to attend personally before him or to produce to him for examination any instruments, books, documents, accounts and other records which the Commissioner may consider necessary.
+70C\.—(1) For the purposes of this Act, the Commissioner may give notice in writing to any person requiring him to furnish within the time limited by such notice, not being less than 30 days from the date of service of such notice, to attend personally before him or to produce to him for examination any instrument, book, document, account and other record which the Commissioner may consider necessary.
 
 [33/99]
 
-(2) Where records are maintained by computer the person required to make them available for examination shall provide all facilities necessary for obtaining the computer records.
+(2) Where records are maintained by computer, the person required to make them available for examination shall provide all facilities necessary for obtaining the computer records.
 
 [33/99]
 
@@ -1866,13 +1888,13 @@ MISCELLANEOUS
 
 [33/99]
 
-(4) The Commissioner may take possession of any such instruments, books, documents, accounts or records where in his opinion —
+(4) The Commissioner may take possession of any such instrument, book, document, account or record where in his opinion —
 
 (a) the inspection, copying thereof or extraction wherefrom cannot reasonably be performed without taking possession;
 
-(b) the instruments, books, documents, accounts or records may be interfered with or destroyed unless possession is taken; or
+(b) the instrument, book, document, account or record may be interfered with or destroyed unless possession is taken; or
 
-(c) the instruments, books, documents, accounts or records may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of duty or penalty, or in proceedings by way of an appeal against the assessment.
+(c) the instrument, book, document, account or record may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of duty or penalty, or in proceedings by way of an appeal against the assessment.
 
 [33/99]
 
@@ -1884,7 +1906,7 @@ MISCELLANEOUS
 
 [33/99]
 
-(7) Any person who, for the purpose of evading any duty under this Act, falsifies or destroys any document, book or accounts, records or other instrument shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(7) Any person who, for the purpose of evading any duty under this Act, falsifies or destroys any document, book, account, record or other instrument shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [33/99]
 
@@ -1912,13 +1934,17 @@ MISCELLANEOUS
 
 ### Power to reduce or remit duties
 
-74\. The Minister may reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instruments when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
+74\. The Minister may reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instrument when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
+
+(1) The Minister may reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instrument when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
+
+[33/99]
 
 [33/99]
 
 ### Refund and repayment of duty
 
-75\.—(1) The Commissioner may, if he is satisfied that any money has been overpaid as duty under this Act, certify the amount to be refunded and shall cause the refund to be made forthwith.
+75\.—(1) The Commissioner may, if he is satisfied that any money has been overpaid as duty under this Act, certify the amount to be refunded and shall cause the refund to be made immediately.
 
 (2) No refund under subsection (1) shall be made unless a claim in respect thereof is lodged with the Commissioner within 6 months from the date of the overpayment or within such period as the Commissioner may, in his discretion, allow.
 
@@ -1936,7 +1962,7 @@ MISCELLANEOUS
 
 ### Power to amend Schedules
 
-78\. The Minister may by notification in theGazetteadd to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
+78\. The Minister may by notification in the Gazette add to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
 
 FIRST SCHEDULE
 
@@ -1958,13 +1984,13 @@ The same duty as a LEASE
 
 2
 
-CONTRACT NOTE: [Deleted by S 288/2000 w.e.f. 30th June 2000]
+CONTRACT NOTE:[Deleted by S 288/2000]
 
 3
 
 CONVEYANCE, ASSIGNMENT or TRANSFER:
 
-(a) On sale of any immovable property or any interest thereof
+(a) on sale of any immovable property or any interest thereof
 
 Amount or value of consideration
 
@@ -1980,7 +2006,7 @@ $2
 
 $3
 
-(b)Deleted by S 192/2003, wef 08/04/2003. [For instruments executed on or after 1st March 2003.]
+(b) (Deleted by S 192/2003)
 
 (c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
 
@@ -2012,13 +2038,9 @@ $10 or the same duty as in paragraph (a) or (c), as the case may be, whichever i
 
 (h) of any property or any interest thereof which is distributed in specie to a shareholder of a company in connection with a liquidation of the company
 
-The same duty as in paragraph (a) or (c), as the case may be.
+The same duty as in paragraph (a) or (c), as the case may be
 
-(i)Deleted by S 525/2004, wef 31/08/2004.
-
-(ii)Deleted by S 525/2004, wef 31/08/2004.
-
-( i) of any property or any interest thereof not otherwise specially charged with duty
+(i) of any property or any interest thereof not otherwise specially charged with duty
 
 $10
 
@@ -2042,7 +2064,7 @@ The duplicate or counterpart of any instrument which has been exempted from duty
 
 6
 
-EXCHANGE:
+EXCHANGE
 
 Any instrument whereby immovable properties are exchanged or agreed to be exchanged
 
@@ -2090,7 +2112,9 @@ $2
 
 $10
 
-Exemption:Any lease or agreement for a lease referred to in paragraph (a) or (c) executed on or after 1st April 2003 where the average rent and other consideration calculated for a whole year does not exceed $1,000.
+Exemption:
+
+Any lease or agreement for a lease referred to in paragraph (a) or (c) executed on or after 1st April 2003 where the average rent and other consideration calculated for a whole year does not exceed $1,000.
 
 9
 
@@ -2123,7 +2147,8 @@ $2
 $10
 
 Exemption:
-Any mortgage of stock or shares under hand only
+
+Any mortgage of stock or shares under hand only.
 
 10
 
@@ -2132,7 +2157,8 @@ PARTITION of immovable property — for each instrument
 $10
 
 Exemption:
-Where duty has been paid under any order of court or award directing a partition, no further duty shall be payable in respect of any instrument carrying such partition into effect
+
+Where duty has been paid under any order of court or award directing a partition, no further duty shall be payable in respect of any instrument carrying such partition into effect.
 
 11
 
@@ -2158,13 +2184,7 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 $10
 
-[S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
-
-[S 525/2004 wef 31/08/2004]
-
-[38/2002 wef 01/01/2003]
-
-[S 192/2003 wef 08/04/2003]
+[38/2002; S 284/98; S 288/2000; S192/2003; S525/2004]
 
 11SECOND SCHEDULE
 
@@ -2180,13 +2200,13 @@ Person required to cancel the adhesive stamp
 
 1
 
-CONTRACT NOTE—Article No. 2
+CONTRACT NOTE — Article No. 2
 
 The person by whom the note is executed
 
-11Second Schedule to be deleted when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
+11Second Schedule to be deleted when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
+(Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 THIRD SCHEDULE
 
@@ -2200,7 +2220,7 @@ Nature of the instrument and the reference number thereto in the First Schedule
 
 Person liable to pay stamp duty
 
-1
+1.
 
 BOND, COVENANT or INSTRUMENT — Article No. 1
 
@@ -2212,23 +2232,19 @@ The lessee
 
 The lessor
 
-2. CONVEYANCE
+2.
 
-—
-
-Article No. 3 (a), (c) to (i)
+CONVEYANCE — Article No. 3 (a), (c) to (i)
 
 The grantee, transferee or lessee
 
-3 EXCHANGE
+3.
 
-—
-
-Article No. 6
+EXCHANGE — Article No. 6
 
 Same as a conveyance
 
-4
+4.
 
 LEASE or AGREEMENT for a lease — Article No. 8
 
@@ -2240,21 +2256,19 @@ The lessee
 
 The lessor
 
-5
+5.
 
 MORTGAGE — Article No. 9
 
 The mortgagor or obligor
 
-6
+6.
 
 PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
 
-[S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
-
-[38/2002 wef 01/01/2003]
+[S 284/98]
 
 FOURTH SCHEDULE
 
@@ -2280,7 +2294,9 @@ $90
 
 4. All other transactions
 
-$90
+$90.
+
+[S 284/98; S 192/2003]
 
 FIFTH SCHEDULE
 
@@ -2316,8 +2332,6 @@ $105 for each certificate of valuation
 
 0.25%, or $105 for each certificate of valuation, whichever is the higher.
 
-[S 448/2005 wef 08/07/2005]
-
 [33/99; 32/2000]
 
 ## LEGISLATIVE HISTORY
@@ -2331,293 +2345,353 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||||
 |:-|:-|:-|
 |1.|**Ordinance 16 of 1929—Stamp Ordinance 1929**|
-||Date of First Reading|25.3.29|
-|||(Bill published on 28.3.29. No Bill number given)|
-||Date of Second Reading|13.5.29|
-||Date of Third Reading|2.9.29|
-||Date of commencement|1.11.29|
+||Date of First Reading|25 March 1929|
+|||(Bill published on|
+|||
+|
+|||28 March 1929.|
+|||
+|
+|||No Bill number given)|
+||Date of Second Reading|13 May 1929|
+||Date of Third Reading|2 September 1929|
+||Date of commencement|1 November 1929|
 |2.|**Ordinance 17 of 1931—Stamp (Amendment) Ordinance 1931**|
 ||Date of First, Second and Third Readings|Dates not available|
-||Date of commencement|1.1.32|
+||Date of commencement|1 January 1932|
 |3.|**Ordinance 56 of 1935—Stamp (Amendment) Ordinance 1935**|
-||Date of First Reading|28.10.35|
-|||(Bill published on 8.11.35. No Bill number given)|
-||Date of Second Reading|28.10.35|
-||Date of Third Reading|20.11.35|
-||Date of commencement|13.12.35|
-|4.|**Ordinance 39 of 1936—Stamp (Amendment) Ordinance 1936**|
+||Date of First Reading|28 October 1935|
+|||(Bill published on|
+|||
+|
+|||8 November 1935.|
+|||
+|
+|||No Bill number given)|
+||Date of Second Reading|28 October 1935|
+||Date of Third Reading|20 November 1935|
+||Date of commencement|13 December 1935|
+|4.|**1936 Revised Edition (Cap. 228)—Stamp Ordinance (Chapter 228)**|
+||Date of operation|1 September 1936|
+|5.|**Ordinance 39 of 1936—Stamp (Amendment) Ordinance 1936**|
 ||Date of First Reading|Date not available|
-||Date of Second and Third Readings|7.12.36|
-||Date of commencement|8.1.37|
-|5.|**Ordinance 6 of 1939—Stamp (Amendment) Ordinance 1939**|
+||Date of Second and Third Readings|7 December 1936|
+||Date of commencement|8 January 1937|
+|6.|**Ordinance 6 of 1939—Stamp (Amendment) Ordinance 1939**|
 ||Date of First Reading|Date not available|
-||Date of Second and Third Readings|24.4.39|
-||Date of commencement|19.5.39|
-|6.|**Ordinance 16 of 1940—Stamp (Amendment) Ordinance 1940**|
-||Date of First, Second and Third Readings|22.4.40|
-||Date of commencement|3.5.40|
-|7.|**Ordinance 31 of 1949—Stamp (Amendment) Ordinance 1949**|
-||Date of First Reading|28.7.49|
-|||(Bill published on 5.8.49. No Bill number given)|
-||Date of Second and Third Readings|23.8.49|
-||Date of commencement|1.1.50|
-|8.|**Ordinance 40 of 1950—Betting and Sweepstakes Duties Ordinance 1950**|
-||(Consequential amendments made by)||
-||Date of First Reading|18.7.50|
-|||(Bill published on 21.7.50. No Bill number given)|
-||Date Committed to Select Committee|Council Paper No. 87 of 1950 presented to Legislative Council on 21.11.50|
-||Date of Second and Third Readings|21.11.50|
-||Date of commencement|22.11.50|
-|9.|**Ordinance 20 of 1952—Stamp (Amendment) Ordinance 1952**|
-||Date of First Reading|20.5.52|
-|||(Bill No. 20/52 published on 23.5.52)|
-||Date of Second and Third Readings|17.6.52|
-||Date of commencement|27.6.52|
-|10.|**Ordinance 37 of 1952—Law Revision (Penalties Amendment) Ordinance 1952**|
-||Date of First Reading|16.9.52|
-|||(Bill No. 32/52 published on 19.9.52)|
-||Date of Second and Third Readings|14.10.52|
-||Date of commencement|30.4.55|
-|11.|**Ordinance 14 of 1954—Stamp (Amendment) Ordinance 1954**|
-||Date of First Reading|18.5.54|
-|||(Bill No. 17/54 published on 21.5.54)|
-||Date of Second Reading|15.6.54|
-||Date of Third Reading|20.7.54|
-||Date of commencement|1.4.46|
-|12.|**Ordinance 32 of 1956—Stamp (Amendment) Ordinance 1956**|
-||Date of First, Second and Third Readings|7.11.56|
-||Date of commencement|12.11.56|
-|13.|**Ordinance 46 of 1957—Stamp (Amendment) Ordinance 1957**|
-||Date of First, Second and Third Readings|4.12.57|
-||Date of commencement|7.12.57|
-|14.|**Ordinance 71 of 1959—Transfer of Powers Ordinance 1959**|
-||Date of First Reading|22.9.59|
-|||(Bill No. 30/59 published on 30.9.59)|
-||Date of Second and Third Readings|11.11.59|
-||Date of commencement|20.11.59|
-|15.|**Ordinance 72 of 1959—Transfer of Powers (No. 2) Ordinance 1959**|
-||Date of First Reading|22.9.59|
-|||(Bill No. 31/59 published on 30.9.59)|
-||Date of Second and Third Readings|11.11.59|
-||Date of commencement|20.11.59|
-|16.|**Ordinance 60 of 1960—Transfer of Powers Ordinance 1960**|
-||Date of First Reading|20.10.60|
-|||(Bill No. 99/60 published on 28.10.60)|
-||Date of Second and Third Readings|16.11.60|
-||Date of commencement|9.12.60|
-|17.|**Ordinance 24 of 1961—Stamp (Amendment) Ordinance 1961**|
-||Date of First Reading|24.5.61|
-|||(Bill No. 145/61 published on 2.6.61)|
-||Date of Second and Third Readings|14.6.61|
-||Date of commencement|7.7.61 (except section 15)|
-|18.|**Ordinance 6 of 1962—Stamp (Amendment) Ordinance 1962**|
-||Date of First Reading|20.12.61|
-|||(Bill No. 162/61 published on 2.1.62)|
-||Date of Second and Third Readings|15.1.62|
-||Date of commencement|1.1.61|
-|19.|**Act 20 of 1965—Stamp (Amendment) Act 1965**|
-||Date of First Reading|13.12.65|
-|||(Bill No. 52/65 published on 17.12.65)|
-||Date of Second and Third Readings|29.12.65|
-||Date of commencement|1.1.66|
-|20.|**Act 27 of 1967—Stamp (Amendment) Act 1967**|
-||Date of First Reading|7.9.67|
-|||(Bill No. 24/67 published on 12.9.67)|
-||Date of Second and Third Readings|2.11.67|
-||Date of commencement|17.11.67|
-|21.|**Act 38 of 1968—Stamp (Amendment) Act 1968**|
-||Date of First Reading|9.12.68|
-|||(Bill No. 50/68 published on 12.12.68)|
-||Date of Second and Third Readings|23.12.68|
-||Date of commencement|2.1.69|
-|22.|**Act 9 of 1969—Stamp (Amendment) Act 1969**|
-||Date of First Reading|11.6.69|
-|||(Bill No. 10/69 published on 14.6.69)|
-||Date of Second and Third Readings|15.10.69|
-||Date of commencement|24.10.69|
-|23.|**1970 Revised Edition (Cap. 147)—Stamp Duties Act 1970**|
-||Date of operation|1 January 1970|
-|24.|**Act 8 of 1970—Stamp (Amendment) Act 1970**|
-||Date of First Reading|30.3.70|
-|||(Bill No. 11/70 published on 2.4.70)|
-||Date of Second and Third Readings|7.5.70|
-||Date of commencement|1.9.70|
-|25.|**G. N. No. S 68/1972**|
-||Date of commencement|Date not available|
-|26.|**G. N. No. S 74/1973**|
-||Date of commencement|Date not available|
-|27.|**G. N. No. S 421/1973**|
-||Date of commencement|Date not available|
-|28.|**Act 38 of 1975—Stamp (Amendment) Act 1975**|
-||Date of First Reading|11.11.75|
-|||(Bill No. 53/75 published on 11.11.75)|
-||Date of Second and Third Readings|20.11.75|
-||Date of commencement|2.12.75|
-|29.|**G. N. No. S 224/1976**|
-||Date of commencement|Date not available|
-|30.|**G. N. No. S 125/1980**|
-||Date of commencement|Date not available|
-|31.|**Act 4 of 1981—Stamp Duties (Amendment) Act 1981**|
-||Date of First Reading|16.3.81|
-|||(Bill No. 9/81 published on 17.3.81)|
-||Date of Second and Third Readings|26.3.81|
-||Date of commencement|6.4.81|
-|32.|**G. N. No. S 254/1982**|
-||Date of commencement|Date not available|
-|33.|**G. N. No. S 74/1983**|
-||Date of commencement|Date not available|
-|34.|**Act 14 of 1983—Stamp Duties (Amendment) Act 1983**|
-||Date of First Reading|30.8.83|
-|||(Bill No. 9/83 published on 7.9.83)|
-||Date of Second and Third Readings|20.12.83|
-||Date of commencement|6.1.84|
-|35.|**1985 Revised Edition—Stamp Duties Act**|
-||Date of operation|1 January 1985|
-|36.|**Act 18 of 1986—Stamp Duties (Amendment) Act 1986**|
-||Date of First Reading|5.5.86|
-|||(Bill No. 15/86 published on 6.5.86)|
-||Date of Second and Third Readings|29.7.86|
-||Date of commencement|8.3.85|
-|37.|**G. N. No. S 56/1986**|
-||Date of commencement|Date not available|
-|38.|**G. N. No. S 239/1986**|
-||Date of commencement|Date not available|
-|39.|**G. N. No. S 260/1986**|
-||Date of commencement|Date not available|
-|40.|**1985 Revised Edition—Stamp Duties Act**|
+||Date of Second and Third Readings|24 April 1939|
+||Date of commencement|19 May 1939|
+|7.|**Ordinance 16 of 1940—Stamp (Amendment) Ordinance 1940**|
+||Date of First, Second and Third Readings|22 April 1940|
+||Date of commencement|3 May 1940|
+|8.|**Ordinance 31 of 1949—Stamp (Amendment) Ordinance 1949**|
+||Date of First Reading|28 July 1949|
+|||(Bill published on|
+|||
+|
+|||5 August 1949.|
+|||
+|
+|||No Bill number given)|
+||Date of Second and Third Readings|23 August 1949|
+||Date of commencement|1 January 1950|
+|9.|**Ordinance 40 of 1950—Betting and Sweepstakes Duties Ordinance 1950**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 July 1950|
+|||(Bill published on|
+|||
+|
+|||21 July 1950.|
+|||
+|
+|||No Bill number given)|
+||Date Committed to Select Committee|18 July 1950|
+||Date of Presentation of Select Committee Report|21 November 1950 (Council Paper No. 87 of 1950)|
+||Date of Second and Third Readings|21 November 1950|
+||Date of commencement|22 November 1950|
+|10.|**Ordinance 20 of 1952—Stamp (Amendment) Ordinance 1952**|
+||Date of First Reading|20 May 1952|
+|||(Bill No. 20/52 published on|
+|||
+|
+|||23 May 1952)|
+||Date of Second and Third Readings|17 June 1952|
+||Date of commencement|27 June 1952|
+|11.|**Ordinance 37 of 1952—Law Revision (Penalties Amendment) Ordinance 1952**|
+||Date of First Reading|16 September 1952|
+|||(Bill No. 32/52 published on|
+|||
+|
+|||19 September 1952)|
+||Date of Second and Third Readings|14 October 1952|
+||Date of commencement|30 April 1955|
+|12.|**Ordinance 14 of 1954—Stamp (Amendment) Ordinance 1954**|
+||Date of First Reading|18 May 1954|
+|||(Bill No. 17/54 published on|
+|||
+|
+|||21 May 1954)|
+||Date of Second Reading|15 June 1954|
+||Date of Third Reading|20 July 1954|
+||Date of commencement|1 April 1946|
+|13.|**1956 Revised Edition (Cap. 170)—Stamp Ordinance (Chapter 170)**|
+||Date of operation|1 July 1956|
+|14.|**Ordinance 32 of 1956—Stamp (Amendment) Ordinance 1956**|
+||Date of First, Second and Third Readings|7 November 1956|
+||Date of commencement|12 November 1956|
+|15.|**Ordinance 46 of 1957—Stamp (Amendment) Ordinance 1957**|
+||Date of First, Second and Third Readings|4 December 1957|
+||Date of commencement|7 December 1957|
+|16.|**Ordinance 71 of 1959—Transfer of Powers Ordinance 1959**|
+||Date of First Reading|22 September 1959|
+|||(Bill No. 30/59 published on|
+|||
+|
+|||30 September 1959)|
+||Date of Second and Third Readings|11 November 1959|
+||Date of commencement|20 November 1959|
+|17.|**Ordinance 72 of 1959—Transfer of Powers (No. 2) Ordinance 1959**|
+||Date of First Reading|22 September 1959|
+|||(Bill No. 31/59 published on|
+|||
+|
+|||30 September 1959)|
+||Date of Second and Third Readings|11 November 1959|
+||Date of commencement|20 November 1959|
+|18.|**Ordinance 60 of 1960—Transfer of Powers Ordinance 1960**|
+||Date of First Reading|20 October 1960|
+|||(Bill No. 99/60 published on|
+|||
+|
+|||28 October 1960)|
+||Date of Second and Third Readings|16 November 1960|
+||Date of commencement|9 December 1960|
+|19.|**Ordinance 24 of 1961—Stamp (Amendment) Ordinance 1961**|
+||Date of First Reading|24 May 1961|
+|||(Bill No. 145/61 published on|
+|||
+|
+|||2 June 1961)|
+||Date of Second and Third Readings|14 June 1961|
+||Date of commencement|1 January 1961 (section 15)|
+
+|
+7 July 1961 (except section 15)|
+|20.|**Ordinance 6 of 1962—Stamp (Amendment) Ordinance 1962**|
+||Date of First Reading|20 December 1961|
+|||(Bill No. 162/61 published on|
+|||
+|
+|||2 January 1962)|
+||Date of Second and Third Readings|15 January 1962|
+||Date of commencement|1 January 1961|
+|21.|**Act 20 of 1965—Stamp (Amendment) Act 1965**|
+||Date of First Reading|13 December 1965|
+|||(Bill No. 52/65 published on|
+|||
+|
+|||17 December 1965)|
+||Date of Second and Third Readings|29 December 1965|
+||Date of commencement|1 January 1966|
+|22.|**Act 27 of 1967—Stamp (Amendment) Act 1967**|
+||Date of First Reading|7 September 1967|
+|||(Bill No. 24/67 published on|
+|||
+|
+|||12 September 1967)|
+||Date of Second and Third Readings|2 November 1967|
+||Date of commencement|17 November 1967|
+|23.|**Act 38 of 1968—Stamp (Amendment) Act 1968**|
+||Date of First Reading|9 December 1968|
+|||(Bill No. 50/68 published on|
+|||
+|
+|||12 December 1968)|
+||Date of Second and Third Readings|23 December 1968|
+||Date of commencement|2 January 1969|
+|24.|**Act 9 of 1969—Stamp (Amendment) Act 1969**|
+||Date of First Reading|11 June 1969|
+|||(Bill No. 10/69 published on|
+|||
+|
+|||14 June 1969)|
+||Date of Second and Third Readings|15 October 1969|
+||Date of commencement|24 October 1969|
+|25.|**Act 8 of 1970—Stamp (Amendment) Act 1970**|
+||Date of First Reading|30 March 1970|
+|||(Bill No. 11/70 published on|
+|||
+|
+|||2 April 1970)|
+||Date of Second and Third Readings|7 May 1970|
+||Date of commencement|1 September 1970|
+|26.|**1970 Revised Edition (Cap. 147)—Stamp Duties Act (Chapter 147)**|
+||Date of operation|30 April 1971|
+|27.|**Act 38 of 1975—Stamp (Amendment) Act 1975**|
+||Date of First Reading|11 November 1975|
+|||(Bill No. 53/75 published on|
+|||
+|
+|||11 November 1975)|
+||Date of Second and Third Readings|20 November 1975|
+||Date of commencement|2 December 1975|
+|28.|**Act 4 of 1981—Stamp Duties (Amendment) Act 1981**|
+||Date of First Reading|16 March 1981|
+|||(Bill No. 9/81 published on|
+|||
+|
+|||17 March 1981)|
+||Date of Second and Third Readings|26 March 1981|
+||Date of commencement|6 April 1981|
+|29.|**Act 14 of 1983—Stamp Duties (Amendment) Act 1983**|
+||Date of First Reading|30 August 1983|
+|||(Bill No. 9/83 published on|
+|||
+|
+|||7 September 1983)|
+||Date of Second and Third Readings|20 December 1983|
+||Date of commencement|6 January 1984|
+|30.|**1985 Revised Edition—Stamp Duties Act (Chapter 312)**|
 ||Date of operation|30 March 1987|
-|41.|**G. N. No. S 411/1988**|
-||Date of commencement|Date not available|
-|42.|**G. N. No. S 110/1989**|
-||Date of commencement|Date not available|
-|43.|**G. N. No. S 285/1990**|
-||Date of commencement|Date not available|
-|44.|**G. N. No. S 468/1990**|
-||Date of commencement|Date not available|
-|45.|**G. N. No. S 337/1987**|
-||Date of commencement|25 March 1992|
-|46.|**G. N. No. S 252/1993**|
-||Date of commencement|Date not available|
-|47.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
-||(Consequential amendments made by)||
-||Date of First Reading|26.2.93|
-|||(Bill No. 14/93 published on 27.2.93)|
-||Date of Second Reading|19.3.93|
-||Date Committed to Select Committee|Parl 4 of 1993 presented to Parliament on 7.9.93|
-||Date of Third Reading|12.10.93|
-||Date of commencement|26.11.93 (except para (3) of Fifth Schedule) 1.4.94 (para (3) of Fifth Schedule)|
-|48.|**G. N. No. S 66/1994**|
-||Date of commencement|Date not available|
-|49.|**G. N. No. S 34/1996—Stamp Duties (Amendment of First Schedule) Notification 1996**|
-||Date of commencement|2 March 1995|
-|50.|**G. N. No. S 164/1996—Stamp Duties Act (Substitution of Schedules) Notification 1996**|
-||Date of commencement|29 February 1996|
-|51.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
-||Date of First Reading|21.5.96|
-|||(Bill No. 16/96 published on 22.5.96)|
-||Date of Second and Third Readings|12.7.96|
-||Date of commencement|23.8.96|
-|52.|**1997 Revised Edition—Stamp Duties Act**|
+|31.|**Act 18 of 1986—Stamp Duties (Amendment) Act 1986**|
+||Date of First Reading|5 May 1986|
+|||(Bill No. 15/86 published on|
+|||
+|
+|||6 May 1986)|
+||Date of Second and Third Readings|29 July 1986|
+||Date of commencement|8 March 1985|
+|32.|**1985 Revised Edition—Stamp Duties Act**|
+||Date of operation|30 March 1987|
+|33.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on|
+|||
+|
+|||27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Date Committed to Select Committee|19 March 1993|
+||Date of Presentation of Select Committee Report|7 September 1993 (Parl 4 of 1993)|
+||Date of Third Reading|12 October 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule) 1 April 1994 (para (3) of Fifth Schedule)|
+|34.|**Act 26 of 1996—Stamp Duties (Amendment) Act 1996**|
+||Date of First Reading|21 May 1996|
+|||(Bill No. 16/96 published on|
+|||
+|
+|||22 May 1996)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|23 August 1996|
+|35.|**1997 Revised Edition—Stamp Duties Act (Chapter 312)**|
 ||Date of operation|30 May 1997|
-|53.|**G. N. No. S 26/1998—Stamp Duties Act (Amendment of First Schedule) Notification 1998**|
-||Date of commencement|27 August 1997|
-|54.|**G. N. No. S 284/1998—Stamp Duties Act (Substitution of Schedules) Notification 1998**|
-||Date of commencement|28 February 1998|
-|55.|**G. N. No. S 288/2000—Stamp Duties Act (Amendment of First Schedule) Notification 2000**|
-||Date of commencement|30 June 2000|
-|56.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
-||Date of First Reading|13.11.2000|
-|||(Bill No. 31/2000 published on 13.11.2000)|
-||Date of Second and Third Readings|22.11.2000|
-||Date of commencement|1.7.2000|
-|57.|**2000 Revised Edition—Stamp Duties Act**|
+|36.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
+||Date of First Reading|3 August 1999|
+|||(Bill No. 28/99 published on|
+|||
+|
+|||4 August 1999)|
+||Date of Second and Third Readings|18 August 1999|
+||Date of commencement|1 September 1999 (except sections 2 (a), 36, 37 and 39 (2))|
+|37.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 31/2000 published on|
+|||
+|
+|||13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 July 2000|
+|38.|**2000 Revised Edition—Stamp Duties Act (Chapter 312)**|
 ||Date of operation|30 December 2000|
-|58.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+|39.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
 ||Date of First Reading|31 October 2002|
-|||(Bill No. 40/2002 published on 13 December 2002)|
+|||(Bill No. 40/2002 published on|
+|||
+|
+|||1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
-|59.|**G. N. No. S 192/2003—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2003**|
-||Date of commencement|8 April 2003|
-|60.|**G. N. No. S 525/2004—Stamp Duties Act (Amendment of First Schedule) Notification 2004**|
-||Date of commencement|31 August 2004|
-|61.|**Act 6 of 2005—Stamp Duties (Amendment) Act 2005**|
+|40.|**Act 6 of 2005—Stamp Duties (Amendment) Act 2005**|
 ||Date of First Reading|19 October 2004|
-|||(Bill No. 60/2004 published on 4 March 2005)|
+|||(Bill No. 60/2004 published on|
+|||
+|
+|||20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|62.|**G. N. No. S 448/2005—Stamp Duties Act (Amendment of Fifth Schedule) Notification 2005**|
-||Date of commencement|8 July 2005|
-|63.|**Act 39 of 2005—Stamp Duties (Amendment No. 2) Act 2005**|
+|41.|**Act 39 of 2005—Stamp Duties (Amendment No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 38/2005 published on 9 December 2005)|
+|||(Bill No. 38/2005 published on|
+|||
+|
+|||18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|42.|**2006 Revised Edition—Stamp Duties Act**|
+||Date of operation|1 April 2006|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
 
 (CHAPTER 312)
 
-COMPARATIVE TABLE
+The following provisions in the 1997 Revised Edition of the Stamp Duties Act were renumbered by the Law Revision Commissioners in the 2000 Revised Edition.
 
-The following provisions in the 1997 Revised Edition of the Stamp Duties Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
-
-This Comparative Table is provided for the convenience of users. It is not part of the Stamp Duties Act.
+The Comparative Table was provided for the convenience of users. It was not part of the Stamp Duties Act.
 
 2000 Ed\. 
 
 1997 Ed\. 
 
-3 —(2)
+3— (2)
 
-3 —(1A)
+3— (1A)
 
 (3)
 
 (2)
 
-5 — (1) and (2)
+5—( 1) and (2)
 
 5 
 
-16 — (4) and (5)
+16— (4) and (5)
 
-16 — (4)
+16— (4)
 
-22A — (3) and (3A)
+22A— (3) and (3A)
 
-22A — (3)
+22A— (3)
 
 (5) and (5A)
 
 (5)
 
-27 — (1) and (1A)
+27— (1) and (1A)
 
-27 —(1)
+27— (1)
 
-39A — (6) and (9)
+39A— (6) and (9)
 
-39A —(6)
+39A— (6)
 
-53 — (1) and (1A)
+53— (1) and (1A)
 
-53 — (1)
+53— (1)
 
 (2) and (3)
 
 (2)
 
-70A — (1) and (2)
+70A —(1) and (2)
 
-70A — (1)
+70A —(1)
 
 (3)
 
 (2)
 
-73 — (1) and (2)
+73— (1) and (2)
 
 73 
 
