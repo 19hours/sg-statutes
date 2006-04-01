@@ -1004,7 +1004,7 @@ is the amount of balancing charge.
 
 [49/2004 wef 30/11/2004]
 
-[Act 7/2007, wef 01/03/006]
+[Act 7/2006, wef 01/03/2006]
 
 (6) Any gains or profits, directly or indirectly, derived by any person from a right or benefit granted on or after 1st January 2003, whether granted in his name or in the name of his nominee or agent, to acquire shares in any company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income chargeable to tax under subsection (1)(b), accruing at such time and of such amount as determined under the following provisions:
 
@@ -1120,7 +1120,7 @@ shall not be deemed to be income for the purposes of subsection (1).
 
 [28/96]
 
-(14) For the purposes of subsection (1)(a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued shares, from any royalties or other payments received from a person carrying on in Singapore the business of publishing, of recording music or of producing cinematograph films, choreographic works or plays as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
+(14) For the purposes of subsection (1)(a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued shares, from any royalties or other payments received as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
 
 (a) the amount of the royalties or other payments remaining after the deductions allowable under Parts V and VI have been made; or
 
@@ -1129,20 +1129,22 @@ shall not be deemed to be income for the purposes of subsection (1).
 whichever is the less.
 
 [24/2000]
+
+[Act 7/2007 wef 01/04/2006]
 
 (15) Subsection (14) shall not apply to royalties or payments received in respect of any work published in any newspaper or periodical.
 
 [1/88]
 
-(16) For the purposes of subsection (1)(a) and (f), the income derived by an individual who is an inventor, author or proprietor of an approved invention or approved innovation, from any royalties or other payments received as consideration for the assignment of or for the rights in the approved invention or approved innovation shall be deemed to be —
+(16) For the purposes of subsection (1)(a) and (f), the income derived by an individual who is the inventor, author, proprietor, designer or creator (as the case may be) of an approved intellectual property or approved innovation, or by any company in which he beneficially owns all the issued shares, from any royalties or other payments received as consideration for the assignment of or the rights in the approved intellectual property or approved innovation shall be deemed to be —
 
 (a) the amount of the royalties or other payments remaining after the deductions allowable under Parts V and VI have been made; or
 
-(b) an amount equal to 10% of the gross amount of the royalties or other payments,
+(b) an amount equal to 10% of the gross amount of royalties or other payments,
 
 whichever is the less.
 
-[24/2000]
+[Act 7/2007 wef 01/04/2006]
 
 (17) Notwithstanding subsection (16), where it appears to the Comptroller that any amount of income which has been determined under that subsection for the purposes of subsection (1)(a) or (f) ought not to have been so determined for any year of assessment, the Comptroller may, within 6 years after the end of that year of assessment, make such assessment or additional assessment upon the individual as may be necessary in order to make good any loss of tax.
 
@@ -1160,9 +1162,9 @@ whichever is the less.
 
 which involves novelty or originality;
 
-“rights in the approved invention or approved innovation” means the rights relating to any patent, copyright, industrial design, trade mark or know-how of an approved invention or approved innovation where a substantial part of the work in developing the invention or innovation is undertaken in Singapore.
+“rights in the approved intellectual property or approved innovation” means the rights relating to any patent, copyright, trade mark, industrial design, layout‑design of integrated circuit, or know‑how of an approved intellectual property or approved innovation, where a substantial part of the work in producing the approved intellectual property or innovation is undertaken in Singapore.
 
-[24/2000]
+[Act 7/2007 wef 01/04/2006]
 
 (19) Any distribution made by a unit trust approved under section 10B out of gains or profits derived on or after 1st July 1989 from the disposal of securities and which have not been subject to tax shall be deemed to be income if received by a unit holder except where the unit holder is —
 
@@ -5086,7 +5088,7 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 “automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory within the meaning of section 5 of the Workplace Safety and Health Act 2006;
 
-[Act 7/2006 wef 01/03/2006]
+[Act 7/2007 wef 01/04/2006]
 
 “certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
 
@@ -6450,9 +6452,17 @@ ASCERTAINMENT OF ASSESSABLE INCOME
 
 (b) an amount equivalent to twice the value, the value to be determined by the Minister or such person as he may appoint, of an approved donation of —
 
-(i) any artefact made by him in the year preceding the year of assessment to an approved museum; or
+(i) any artefact or work of art made by him in the year preceding the year of assessment to an approved museum;
 
-(ii) any sculpture for public display outdoors made by him in the year preceding the year of assessment to an approved recipient not being an approved museum
+[Act 7/2007 wef 01/04/2006]
+
+(ii) any sculpture or work of art for display made by him in the year preceding the year of assessment to an approved recipient not being an approved museum; or
+
+[Act 7/2007 wef 01/04/2006]
+
+(iii) money or services for installing or maintaining any sculpture or work of art for public display made by him in the year preceding the year of assessment,
+
+[Act 7/2007 wef 01/04/2006]
 
 and for this purpose, “approved” means approved by the Minister or such person as he may appoint;
 
@@ -6561,6 +6571,10 @@ is the total amount payable in respect of the share.
 (b) any balance of the donation referred to in subsection (8) shall be allowed against the statutory income of the person of the year of assessment in which such donation would otherwise be deductible under that subsection.
 
 [37/2002]
+
+(16A) For the purposes of subsection (3)(b), “museum” includes any institution established for the purpose of acquiring any collection of artefacts and making them accessible to the public.
+
+[Act 7/2007 wef 01/04/2006]
 
 (17) For the purposes of subsection (3)(e) —
 
@@ -12320,6 +12334,11 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 March 2006|
 |207.|**G. N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
 ||Date of commencement|31 March 2006 (paragraph 2(a))|
+|208.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 19/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 April 2006 (Sections 2(h), (i), (j), 23)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
