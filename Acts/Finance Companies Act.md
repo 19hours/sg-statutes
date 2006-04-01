@@ -560,8 +560,6 @@ and the finance company shall comply with that direction within such time as is 
 
 (vi) is contravening or has contravened any provision of the Deposit Insurance Act 2005 or any rules issued by the deposit insurance agency under the Deposit Insurance Act 2005; and
 
-[31/2005 wef 18/10/2005]
-
 (c) may, also in its discretion, by order, revoke the licence of a finance company —
 
 (i) if the finance company or any of its directors or officers holding a managerial or executive position in that finance company has been convicted of any offence under this Act; or
@@ -1108,7 +1106,7 @@ the Authority may exercise one or more of the powers specified in subsection (2)
 
 (b) make such order as it may think fit in relation to the affairs of the finance company and exercise any power which it may exercise under section 35(2);
 
-(c) present a petition to the High Court for the winding up of the finance company by the High Court.
+(c) apply to the High Court for the winding up of the finance company by the High Court.
 
 [42/2005 wef 01/04/2006]
 
@@ -1234,8 +1232,6 @@ MISCELLANEOUS
 
 (2) The liabilities in Singapore specified in section 44A shall have priority over all unsecured liabilities of the finance company other than the preferential debts specified in section 328(1) of the Companies Act (Cap. 50).
 
-[31/2005 wef 18/10/2005]
-
 ### Priority of specified liabilities inter se
 
 44A\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a finance company, the following liabilities in Singapore of the finance company shall, amongst themselves, rank in the following order of priority:
@@ -1249,8 +1245,6 @@ MISCELLANEOUS
 (a) rank in the order specified but as between liabilities of the same class, such liabilities shall rank equally between themselves; and
 
 (b) be paid in full unless the assets of the finance company are insufficient to meet them in which case they shall abate in equal proportions between themselves.
-
-[31/2005 wef 18/10/2005]
 
 ### Moratorium
 
@@ -1370,7 +1364,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 54\.—(1) Without prejudice to the provisions of the Companies Act (Cap. 50) —
 
-(a) a company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the petition of the Authority; and
+(a) a company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Authority; and
 
 [42/2005 wef 01/04/2006]
 
@@ -1497,6 +1491,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 21/2005 published on 16 August 2005)|
 ||Date of Second and Third Readings|19 September 2005|
 ||Date of commencement|18 October 2005|
+|17.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
