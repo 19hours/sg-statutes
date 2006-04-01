@@ -2048,9 +2048,9 @@ that the order would otherwise prohibit him from doing.
 
 ### General provisions as to winding up
 
-66\.—(1) The persons who may petition under the Companies Act (Cap. 50) for the winding up of the affairs of a licensed financial adviser, or for the continuance of the winding up of the affairs of a licensed financial adviser subject to the supervision of the court, shall include the Authority.
+66\.—(1) The persons who may apply under the Companies Act (Cap. 50) for the winding up of the affairs of a licensed financial adviser, or for the continuance of the winding up of the affairs of a licensed financial adviser subject to the supervision of the court, shall include the Authority.
 
-(2) The Authority may, in accordance with the provisions of the Companies Act, present a petition for the winding up of a licensed financial adviser if the licensed financial adviser has contravened any of the provisions of this Act.
+(2) The Authority may, in accordance with the provisions of the Companies Act, apply for the winding up of a licensed financial adviser if the licensed financial adviser has contravened any of the provisions of this Act.
 
 (3) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a licensed financial adviser.
 
@@ -2842,9 +2842,7 @@ Section 2(1)
 
 types of financial advisory service
 
-1\. Advising others, either directly or through publications or writings, and whether in electronic, print or other form, concerning any investment product, other than —
-
-1.
+1. Advising others, either directly or through publications or writings, and whether in electronic, print or other form, concerning any investment product, other than —
 
 (a) in the manner set out in paragraph 2; or
 
@@ -2852,9 +2850,7 @@ types of financial advisory service
 
 [2/2005 wef 01/07/2005]
 
-2\. Advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product.
-
-2.
+2. Advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product.
 
 [2/2005 wef 01/07/2005]
 
@@ -2923,6 +2919,11 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
+|8.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006 (item (13) of the First Schedule)|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
