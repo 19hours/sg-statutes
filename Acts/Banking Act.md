@@ -2192,7 +2192,7 @@ the Authority may exercise any one or more of the powers specified in subsection
 
 (b) make such order as it may think fit in relation to the affairs of the bank and exercise any power which it may exercise under section 49(2);
 
-(c) present a petition to the High Court for the winding up of the bank by the High Court.
+(c) apply to the High Court for the winding up of the bank by the High Court.
 
 ### Duration of control
 
@@ -3263,6 +3263,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
+|24.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
+|||(Item (2) of First Schedule — Amendment of Banking Act)|
 ## COMPARATIVE TABLE
 
 Banking Act
