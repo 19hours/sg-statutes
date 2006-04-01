@@ -644,12 +644,7 @@ Provided that in every case where the tenders of two or more subscribers are of 
 
 ## PART V
 
-RESERVE FUND, DIVIDENDS, BALANCE-SHEET,
-
-
-
-
-INFORMATION AND REGULATION OF BUSINESS
+RESERVE FUND, DIVIDENDS, BALANCE-SHEET, INFORMATION AND REGULATION OF BUSINESS
 
 ### Maintenance of reserve funds
 
@@ -725,7 +720,9 @@ MISCELLANEOUS PROVISIONS
 
 53\.—(1) Without prejudice to the provisions of the Companies Act —
 
-(a) a chit fund company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the petition of the Minister; and
+(a) a chit fund company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Minister; and
+
+[Act 42 of 2005 wef 01/04/2006]
 
 (b) the court may order the winding up of a chit fund company if that company —
 
@@ -773,7 +770,7 @@ MISCELLANEOUS PROVISIONS
 
 shall be guilty of an offence and shall in respect of each offence be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) In proceedings against a person under subsection (1), it shall be a defence to prove that he had reasonable grounds to believe and did in fact believe that a competent and reliable person was charged with the duty of securing compliance with the provisions of those laws or with the duty of ensuring that those statements were accurate and that that person was in a position to discharge that duty.
+(2) In proceedings against a person under subsection (1), it shall be a defence to prove that he had reasonable grounds to believe and did in fact believe that a competent and reliable persons was charged with the duty of securing compliance with the provisions of those laws or with the duty of ensuring that those statements were accurate and that that person was in a position to discharge that duty.
 
 (3) A person shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court, he committed the offence wilfully.
 
@@ -827,4 +824,9 @@ This Legislative History is provided for the convenience of users of the Chit Fu
 ||Date of Second and Third Readings|2 December 1971|
 ||Date of commencement|14 January 1972|
 |2.|**1985 Revised Edition—Chit Funds Act (Chapter 39)**|
-||Date of operation|30 March 1987|
+||Date of operation|30 March 1987]|
+|3.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
