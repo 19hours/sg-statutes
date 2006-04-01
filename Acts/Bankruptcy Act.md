@@ -138,39 +138,39 @@
 
 [**Part VI PROCEEDINGS IN BANKRUPTCY**](#Part-VI)
 
-[**Bankruptcy petitions and bankruptcy orders**](#Bankruptcy-petitions-and-bankruptcy-orders)
+[**Bankruptcy applications and bankruptcy orders**](#Bankruptcy-applications-and-bankruptcy-orders)
 
-- [57 Persons who may present creditor’s petition](#Persons-who-may-present-creditor’s-petition)
+- [57 Persons who may make creditor’s bankruptcy application](#Persons-who-may-make-creditor’s-bankruptcy-application)
 
-- [58 Persons who may present debtor’s petition](#Persons-who-may-present-debtor’s-petition)
+- [58 Persons who may make debtor’s bankruptcy application](#Persons-who-may-make-debtor’s-bankruptcy-application)
 
 - [59 Bankruptcy order](#Bankruptcy-order)
 
 - [60 Conditions to be satisfied in respect of debtor](#Conditions-to-be-satisfied-in-respect-of-debtor)
 
-- [61 Grounds of bankruptcy petition](#Grounds-of-bankruptcy-petition)
+- [61 Grounds of bankruptcy application](#Grounds-of-bankruptcy-application)
 
 - [62 Presumption of inability to pay debts](#Presumption-of-inability-to-pay-debts)
 
-- [63 Where petitioner is secured creditor](#Where-petitioner-is-secured-creditor)
+- [63 Where applicant for bankruptcy order is secured creditor](#Where-applicant-for-bankruptcy-order-is-secured-creditor)
 
-- [64 Power of court to stay or dismiss proceedings on bankruptcy petition](#Power-of-court-to-stay-or-dismiss-proceedings-on-bankruptcy-petition)
+- [64 Power of court to stay or dismiss proceedings on bankruptcy application](#Power-of-court-to-stay-or-dismiss-proceedings-on-bankruptcy-application)
 
-- [65 Proceedings on creditor’s petition](#Proceedings-on-creditor’s-petition)
+- [65 Proceedings on creditor’s bankruptcy application](#Proceedings-on-creditor’s-bankruptcy-application)
 
-- [66 Proceedings on bankruptcy petition by nominee or creditor bound by voluntary arrangement](#Proceedings-on-bankruptcy-petition-by-nominee-or-creditor-bound-by-voluntary-arrangement)
+- [66 Proceedings on bankruptcy application by nominee or creditor bound by voluntary arrangement](#Proceedings-on-bankruptcy-application-by-nominee-or-creditor-bound-by-voluntary-arrangement)
 
-- [67 Proceedings on debtor’s petition](#Proceedings-on-debtor’s-petition)
+- [67 Proceedings on debtor’s bankruptcy application](#Proceedings-on-debtor’s-bankruptcy-application)
 
-- [68 Consolidation of bankruptcy petitions](#Consolidation-of-bankruptcy-petitions)
+- [68 Consolidation of bankruptcy applications](#Consolidation-of-bankruptcy-applications)
 
-- [69 Power to dismiss petition against some respondents only](#Power-to-dismiss-petition-against-some-respondents-only)
+- [69 Power to dismiss application against some respondents only](#Power-to-dismiss-application-against-some-respondents-only)
 
 - [70 Power to change conduct of proceedings](#Power-to-change-conduct-of-proceedings)
 
 - [71 Continuance of proceedings on death of debtor](#Continuance-of-proceedings-on-death-of-debtor)
 
-- [72 Withdrawal of bankruptcy petition](#Withdrawal-of-bankruptcy-petition)
+- [72 Withdrawal of bankruptcy application](#Withdrawal-of-bankruptcy-application)
 
 [**Protection of debtor’s property**](#Protection-of-debtor’s-property)
 
@@ -434,17 +434,21 @@ PRELIMINARY
 
 (b) where a bankruptcy order has been made against a firm, each of the partners in the firm;
 
-“bankruptcy order” means an order adjudging a debtor bankrupt;
+“bankruptcy application” means an application to the court for a bankruptcy order;
 
-“bankruptcy petition” means a petition to the court for a bankruptcy order;
+[42/2005 wef 01/04/2006]
+
+“bankruptcy order” means an order adjudging a debtor bankrupt;
 
 “court” means the court having jurisdiction in bankruptcy under this Act;
 
 “creditor”, in relation to a debtor proposing a voluntary arrangement under Part V, means a creditor to whom the debtor owes a debt provable in bankruptcy;
 
-“creditors’ committee” means a committee appointed under section 80;
+“creditor’s bankruptcy application” means a bankruptcy application made under section 57 by a creditor or by 2 or more creditors jointly;
 
-“creditor’s petition” means a bankruptcy petition presented under section 57 by a creditor or by 2 or more creditors jointly;
+[42/2005 wef 01/04/2006]
+
+“creditors’ committee” means a committee appointed under section 80;
 
 “debt provable in bankruptcy” or “provable debt” means any debt or liability that is made provable in bankruptcy under this Act;
 
@@ -452,9 +456,13 @@ PRELIMINARY
 
 (a) in relation to a proposal for a voluntary arrangement under Part V, means the individual or the firm making or intending to make that proposal and includes each of the partners in such firm; and
 
-(b) in relation to a bankruptcy petition, means the individual debtor to whom, or a firm, or each of the partners in the firm, to which, the petition relates;
+(b) in relation to a bankruptcy application, means the individual debtor to whom, or a firm, or each of the partners in the firm, to which, the application relates;
 
-“debtor’s petition” means a bankruptcy petition presented under section 58 by a debtor against himself or by all or a majority of the members of a firm against the firm;
+[42/2005 wef 01/04/2006]
+
+“debtor’s bankruptcy application” means a bankruptcy application made under section 58 by a debtor against himself or by all or a majority of the members of a firm against the firm;
+
+[42/2005 wef 01/04/2006]
 
 “estate”, in relation to a bankrupt, is to be construed in accordance with section 78;
 
@@ -558,9 +566,9 @@ Jurisdiction
 
 (b) that there are reasonable grounds for believing,
 
-that any person against whom a bankruptcy petition has been presented or a bankruptcy order made —
+that any person against whom a bankruptcy application has been made or a bankruptcy order made —
 
-(i) has absconded, or is about to abscond, with a view to avoiding or delaying the payment of any of his debts or his appearance to a bankruptcy petition or to avoiding, delaying or disrupting any proceedings in bankruptcy against him or any examination of his affairs;
+(i) has absconded, or is about to abscond, with a view to avoiding or delaying the payment of any of his debts or his appearance to a bankruptcy application or to avoiding, delaying or disrupting any proceedings in bankruptcy against him or any examination of his affairs;
 
 (ii) is about to remove his goods with a view to preventing or delaying possession being taken of them by the Official Assignee;
 
@@ -776,7 +784,15 @@ TRUSTEE IN BANKRUPTCY
 
 ### Appointment of person other than Official Assignee as trustee in bankruptcy
 
-33\.—(1) The court may, on making a bankruptcy order and on the application of a petitioning creditor, appoint a person other than the Official Assignee to be the trustee of the bankrupt’s estate.
+33\.—(1) The court may —
+
+(a) on making a bankruptcy order; and
+
+(b) on the application of the creditor who applied for the bankruptcy order,
+
+appoint a person other than the Official Assignee to be the trustee of the bankrupt’s estate.
+
+[42/2005 wef 01/04/2006]
 
 (2) The official name of the trustee shall be —
 
@@ -936,13 +952,13 @@ Moratorium for insolvent debtor
 
 (a) where the interim order is in respect of an individual debtor —
 
-(i) no bankruptcy petition may be presented or proceeded with against the debtor; and
+(i) no bankruptcy application may be made or proceeded with against the debtor; and
 
 (ii) no other proceedings, execution or other legal process may be commenced or continued against the person or property of the debtor without the leave of the court; and
 
 (b) where the interim order is in respect of a firm —
 
-(i) no bankruptcy petition may be presented or proceeded with against the firm or, except with the leave of the court, any partner therein; and
+(i) no bankruptcy application may be made or proceeded with against the firm or, except with the leave of the court, any partner therein; and
 
 (ii) no other proceedings, execution or other legal process may be commenced or continued against the firm or its property or against the person or property of any partner in the firm, without the leave of the court.
 
@@ -1072,7 +1088,7 @@ Consideration and implementation of debtor’s proposal
 
 (2) Subject to section 54, the interim order in force in relation to the debtor shall cease to have effect at the end of 28 days from the date the report was made to the court under section 52.
 
-(3) Where proceedings on a bankruptcy petition have been stayed by an interim order which ceases to have effect under subsection (2), that petition shall, unless the court otherwise orders, be deemed to have been dismissed.
+(3) Where proceedings on a bankruptcy application have been stayed by an interim order which ceases to have effect under subsection (2), that application shall, unless the court otherwise orders, be deemed to have been dismissed.
 
 ### Review of meeting’s decision
 
@@ -1126,17 +1142,17 @@ make an order appointing a person who is qualified to act as a nominee, either i
 
 ### Consequence of failure by debtor to comply with voluntary arrangement
 
-56\. Where a debtor fails to comply with any of his obligations under a voluntary arrangement, the nominee or any creditor bound by the voluntary arrangement may present a bankruptcy petition against the debtor in accordance with Part VI.
+56\. Where a debtor fails to comply with any of his obligations under a voluntary arrangement, the nominee or any creditor bound by the voluntary arrangement may make a bankruptcy application against the debtor in accordance with Part VI.
 
 ## PART VI
 
 PROCEEDINGS IN BANKRUPTCY
 
-Bankruptcy petitions and bankruptcy orders
+Bankruptcy applications and bankruptcy orders
 
-### Persons who may present creditor’s petition
+### Persons who may make creditor’s bankruptcy application
 
-57\.—(1) Subject to this Part, a creditor’s petition may be presented —
+57\.—(1) Subject to this Part, a creditor’s bankruptcy application may be made —
 
 (a) against an individual by —
 
@@ -1146,55 +1162,57 @@ Bankruptcy petitions and bankruptcy orders
 
 (b) against a firm by —
 
-(i) one of the firm’s creditors or jointly by more than one of them, if such creditor or creditors are entitled under paragraph (a)(i) to present a creditor’s petition against any one of the partners in the firm in respect of a partnership debt; or
+(i) one of the firm’s creditors or jointly by more than one of them, if such creditor or creditors are entitled under paragraph (a)(i) to make a creditor’s petition against any one of the partners in the firm in respect of a partnership debt; or
 
 (ii) the nominee supervising the implementation of, or any person (other than the partners in the firm) who is for the time being bound by, a voluntary arrangement proposed by the firm and approved under Part V.
 
-(2) A creditor who is entitled to present a bankruptcy petition against a firm under subsection (1)(b) may present a bankruptcy petition against any of the partners in the firm without including the others.
+(2) A creditor who is entitled to make a bankruptcy application against a firm under subsection (1)(b) may make a bankruptcy application against any of the partners in the firm without including the others.
 
-(3) Every creditor’s petition shall be in the prescribed form and shall be verified by affidavit of the creditor or of some person on his behalf having knowledge of the facts.
+(3) Every creditor’s bankruptcy application shall be in the prescribed form and shall be supported by an affidavit of the creditor or of some person on his behalf having knowledge of the facts.
 
-(4) Every creditor’s petition shall be served in the manner prescribed.
+(4) Every creditor’s bankruptcy application shall be served in the manner prescribed.
 
-### Persons who may present debtor’s petition
+### Persons who may make debtor’s bankruptcy application
 
-58\.—(1) Subject to this Part, a debtor’s petition may be presented —
+58\.—(1) Subject to this Part, a debtor’s bankruptcy application may be made —
 
 (a) against an individual debtor by the debtor himself; or
 
-(b) against a firm by all the partners in the firm or by a majority of such partners who are residing in Singapore at the time of the presentation of the petition.
+(b) against a firm by all the partners in the firm or by a majority of such partners who are residing in Singapore at the time of the making of the application.
 
-(2) A debtor’s petition shall be in the prescribed form and shall be accompanied —
+(2) A debtor’s bankruptcy application shall be in the prescribed form and shall be supported by an affidavit to which is exhibited —
 
-(a) where the debtor is an individual, by a statement of his affairs containing such particulars of his assets, creditors, debts and other liabilities as may be prescribed;
+(a) where the debtor is an individual, a statement of his affairs containing such particulars of his assets, creditors, debts and other liabilities as may be prescribed;
 
-(b) where the debtor is a firm, by a statement of —
+(b) where the debtor is a firm, a statement of —
 
 (i) the firm’s affairs containing such particulars of its assets, creditors, debts and other liabilities as may be prescribed; and
 
-(ii) the affairs of each of the partners in the firm by whom the petition is presented containing such particulars of his assets, creditors, debts and other liabilities as may be prescribed; and
+(ii) the affairs of each of the partners in the firm by whom the application is made containing such particulars of his assets, creditors, debts and other liabilities as may be prescribed; and
 
-(c) by such other information as may be prescribed.
+(c) a statement containing such other information as may be prescribed.
+
+[42/2005 wef 01/04/2006]
 
 ### Bankruptcy order
 
-59\. Subject to this Part, the court may make a bankruptcy order on a bankruptcy petition presented to it under section 57 or 58.
+59\. Subject to this Part, the court may make a bankruptcy order on a bankruptcy application made under section 57 or 58.
 
 ### Conditions to be satisfied in respect of debtor
 
-60\.—(1) No bankruptcy petition shall be presented to the court under section 57(1)(a) or 58(1)(a) against an individual debtor unless the debtor —
+60\.—(1) No bankruptcy application shall be made to the court under section 57(1)(a) or 58(1)(a) against an individual debtor unless the debtor —
 
 (a) is domiciled in Singapore;
 
 (b) has property in Singapore; or
 
-(c) has, at any time within the period of one year immediately preceding the date of the presentation of the petition —
+(c) has, at any time within the period of one year immediately preceding the date of the making of the application —
 
 (i) been ordinarily resident or has had a place of residence in Singapore; or
 
 (ii) carried on business in Singapore.
 
-(2) No bankruptcy petition shall be presented to the court under section 57(1)(b) or 58(1)(b) against a firm unless —
+(2) No bankruptcy application shall be made to the court under section 57(1)(b) or 58(1)(b) against a firm unless —
 
 (a) at least one of the partners in the firm —
 
@@ -1202,9 +1220,9 @@ Bankruptcy petitions and bankruptcy orders
 
 (ii) has property in Singapore; or
 
-(iii) has, at any time within the period of one year immediately preceding the date of the presentation of the petition, been ordinarily resident or has had a place of residence in Singapore; or
+(iii) has, at any time within the period of one year immediately preceding the date of the making of the application, been ordinarily resident or has had a place of residence in Singapore; or
 
-(b) the firm has, at any time within the period of one year immediately preceding the date of the presentation of the petition , carried on business in Singapore.
+(b) the firm has, at any time within the period of one year immediately preceding the date of the making of the application, carried on business in Singapore.
 
 (3) The reference in subsection (1)(c)(ii) to an individual carrying on business in Singapore shall include —
 
@@ -1212,47 +1230,47 @@ Bankruptcy petitions and bankruptcy orders
 
 (b) the carrying on of business in Singapore by an agent or manager for the individual or for such a firm.
 
-### Grounds of bankruptcy petition
+### Grounds of bankruptcy application
 
-61\.—(1) No bankruptcy petition shall be presented to the court in respect of any debt or debts unless at the time the petition is presented —
+61\.—(1) No bankruptcy application shall be made to the court in respect of any debt or debts unless at the time the application is made —
 
 (a) the amount of the debt, or the aggregate amount of the debts, is not less than $10,0001;
 
 1see— Bankruptcy (Variation of Minimum Amount of Debt for Petition for Bankruptcy) Order 1999 (S 301/99).
 
-(b) the debt or each of the debts is for a liquidated sum payable to the petitioning creditor immediately;
+(b) the debt or each of the debts is for a liquidated sum payable to the applicant creditor immediately;
 
 (c) the debtor is unable to pay the debt or each of the debts; and
 
-(d) where the debt or each of the debts is incurred outside Singapore, such debt is payable by the debtor to the petitioning creditor by virtue of a judgment or award which is enforceable by execution in Singapore.
+(d) where the debt or each of the debts is incurred outside Singapore, such debt is payable by the debtor to the applicant creditor by virtue of a judgment or award which is enforceable by execution in Singapore.
 
 (2) The Minister may, by order published in theGazette, amend subsection (1)(a) by substituting a different sum for the sum for the time being specified therein.
 
 ### Presumption of inability to pay debts
 
-62\. For the purposes of a creditor’s petition , a debtor shall, until he proves to the contrary, be presumed to be unable to pay any debt within the meaning of section 61(1)(c) if the debt is immediately payable and —
+62\. For the purposes of a creditor’s bankruptcy application, a debtor shall, until he proves to the contrary, be presumed to be unable to pay any debt within the meaning of section 61(1)(c) if the debt is immediately payable and —
 
 (a) 
 
-(i) the petitioning creditor to whom the debt is owed has served on him in the prescribed manner, a statutory demand;
+(i) the applicant creditor to whom the debt is owed has served on him in the prescribed manner, a statutory demand;
 
 (ii) at least 21 days have elapsed since the statutory demand was served; and
 
 (iii) the debtor has neither complied with it nor applied to the court to set it aside;
 
-(b) execution issued against him in respect of a judgment debt owed to the petitioning creditor has been returned unsatisfied in whole or in part; or
+(b) execution issued against him in respect of a judgment debt owed to the applicant creditor has been returned unsatisfied in whole or in part; or
 
 (c) he has departed from or remained outside Singapore with the intention of defeating, delaying or obstructing a creditor in the recovery of the debt.
 
-### Where petitioner is secured creditor
+### Where applicant for bankruptcy order is secured creditor
 
-63\.—(1) Where the petitioner is a secured creditor of the debtor, he shall in his petition —
+63\.—(1) Where the applicant for a bankruptcy order is a secured creditor of the debtor, he shall in his application —
 
 (a) state that he is willing, in the event of a bankruptcy order being made, to give up his security for the benefit of the other creditors of the bankrupt; or
 
-(b) give an estimate of the value of his security, in which case he may to the extent of the balance of the debt due to him, after deducting the value so estimated, be admitted as a petitioningcreditor in the same manner as if he were an unsecured creditor.
+(b) give an estimate of the value of his security, in which case he may to the extent of the balance of the debt due to him, after deducting the value so estimated, be admitted as a creditor in the same manner as if he were an unsecured creditor.
 
-(2) Where a petitioner who is a secured creditor of the debtor fails to disclose his security in the petition , he shall be deemed to have given up his security for the benefit of the other creditors of the debtor and upon the making of a bankruptcy order —
+(2) Where an applicant for a bankruptcy order who is a secured creditor of the debtor fails to disclose his security in the application, he shall be deemed to have given up his security for the benefit of the other creditors of the debtor and upon the making of a bankruptcy order —
 
 (a) he shall not be entitled to enforce his security against the estate of the bankrupt or to retain any proceeds from the realisation of such security; and
 
@@ -1264,61 +1282,61 @@ Bankruptcy petitions and bankruptcy orders
 
 (5) Any fine imposed under subsection (4) shall be deemed part of the property of the bankrupt and shall vest in the Official Assignee for the purposes of this Act.
 
-### Power of court to stay or dismiss proceedings on bankruptcy petition
+### Power of court to stay or dismiss proceedings on bankruptcy application
 
-64\.—(1) The court may at any time, for sufficient reason, make an order staying the proceedings on a bankruptcy petition, either altogether or for a limited time, on such terms and conditions as the court may think just.
+64\.—(1) The court may at any time, for sufficient reason, make an order staying the proceedings on a bankruptcy application, either altogether or for a limited time, on such terms and conditions as the court may think just.
 
-(2) Without prejudice to subsection (1), where it appears to the court that the person presented a bankruptcy petition has contravened any of the provisions of this Act or any rules in relation to proceedings on a bankruptcy petition, the court may, in its discretion, dismiss the petition in lieu of staying any proceedings thereon under that subsection.
+(2) Without prejudice to subsection (1), where it appears to the court that the person making a bankruptcy application has contravened any of the provisions of this Act or any rules in relation to proceedings on a bankruptcy application, the court may, in its discretion, dismiss the application in lieu of staying any proceedings thereon under that subsection.
 
-### Proceedings on creditor’s petition
+### Proceedings on creditor’s bankruptcy application
 
-65\.—(1) The court hearing a creditor’s petition shall not make a bankruptcy order thereon unless it is satisfied that —
+65\.—(1) The court hearing a creditor’s bankruptcy application shall not make a bankruptcy order thereon unless it is satisfied that —
 
-(a) the debt or any one of the debts in respect of which the petition is presented is a debt which, having been payable at the date of the petition, has neither been paid nor secured or compounded for; and
+(a) the debt or any one of the debts in respect of which the application is made is a debt which, having been payable at the date of the application, has neither been paid nor secured or compounded for; and
 
-(b) where the debtor does not appear at the hearing, the petition has been duly served on him.
+(b) where the debtor does not appear at the hearing, the application has been duly served on him.
 
-(2) The court may dismiss the petition if —
+(2) The court may dismiss the application if —
 
-(a) it is not satisfied with the proof of the petition creditor’s debt or debts;
+(a) it is not satisfied with the proof of the applicant creditor’s debt or debts;
 
-(b) it is not satisfied with the proof of the service of the petition on the debtor;
+(b) it is not satisfied with the proof of the service of the application on the debtor;
 
 (c) it is satisfied that the debtor is able to pay all his debts;
 
-(d) it is satisfied that the debtor has made an offer to secure or compound for the petitioning creditor’s debt the acceptance of which offer would have required the dismissal of the petition and the offer has been unreasonably refused by the petitioning creditor; or
+(d) it is satisfied that the debtor has made an offer to secure or compound for the applicant creditor’s debt the acceptance of which offer would have required the dismissal of the application and the offer has been unreasonably refused by the applicant creditor; or
 
 (e) it is satisfied that for other sufficient cause no order ought to be made thereon.
 
 (3) In determining for the purposes of subsection (2)(c) whether the debtor is able to pay all his debts, the court shall take into account his contingent and prospective liabilities.
 
-(4) When a bankruptcy petition has been presented against a debtor on the ground that the debtor —
+(4) When a bankruptcy application has been made against a debtor on the ground that the debtor —
 
 (a) has failed to pay a judgment debt, and there is pending an appeal from or an application to set aside, the judgment or order by virtue of which the judgment debt is payable; or
 
 (b) has failed to comply with a statutory demand, and there is pending an application to set aside the statutory demand,
 
-the court may, if it thinks fit, stay or dismiss the petition .
+the court may, if it thinks fit, stay or dismiss the application.
 
-(5) Where the debtor appears at the hearing of the petition and denies that he is —
+(5) Where the debtor appears at the hearing of the application and denies that he is —
 
-(a) indebted to the petitioner; or
+(a) indebted to the applicant; or
 
-(b) indebted to such an amount as would justify the petitioner presenting a bankruptcy petition against him,
+(b) indebted to such an amount as would justify the applicant making a bankruptcy application against him,
 
-the court may, on condition that the debtor furnishes such security as the court may order for payment to the petitioner of —
+the court may, on condition that the debtor furnishes such security as the court may order for payment to the applicant of —
 
 (i) any debt which may be established against the debtor in due course of law; and
 
 (ii) the costs of establishing the debt,
 
-stay all proceedings on the petition for such time as may be required for trial of the question relating to the debt.
+stay all proceedings on the application for such time as may be required for trial of the question relating to the debt.
 
-(6) Where proceedings are stayed, the court may, if by reason of the delay caused by the stay of proceedings or for any other cause it thinks just, make a bankruptcy order on the petition of some other creditor, and shall thereupon dismiss, on such terms as it may think just, the petition in which proceedings have been stayed.
+(6) Where proceedings are stayed, the court may, if by reason of the delay caused by the stay of proceedings or for any other cause it thinks just, make a bankruptcy order on the application of some other creditor, and shall thereupon dismiss, on such terms as it may think just, the application in which proceedings have been stayed.
 
-### Proceedings on bankruptcy petition by nominee or creditor bound by voluntary arrangement
+### Proceedings on bankruptcy application by nominee or creditor bound by voluntary arrangement
 
-66\. The court shall not make a bankruptcy order on a bankruptcy petition presented under section 57(1)(a)(ii) or (b)(ii) by the nominee or any creditor bound by a voluntary arrangement unless it is satisfied —
+66\. The court shall not make a bankruptcy order on a bankruptcy application made under section 57(1)(a)(ii) or (b)(ii) by the nominee or any creditor bound by a voluntary arrangement unless it is satisfied —
 
 (a) that the debtor has failed to comply with his obligations under the voluntary arrangement;
 
@@ -1330,25 +1348,25 @@ stay all proceedings on the petition for such time as may be required for trial 
 
 (c) that the debtor has failed to do all such things as may for the purposes of the voluntary arrangement have been reasonably required of him by the nominee of the arrangement.
 
-### Proceedings on debtor’s petition
+### Proceedings on debtor’s bankruptcy application
 
-67\.—(1) The court hearing a debtor’s petition shall not make a bankruptcy order thereon unless it is satisfied that the debtor is unable to pay his debts.
+67\.—(1) The court hearing a debtor’s bankruptcy application shall not make a bankruptcy order thereon unless it is satisfied that the debtor is unable to pay his debts.
 
-(2) Where a debtor’s petition has been petition against a firm by some, but not all, of the partners in the firm, the court shall not make a bankruptcy order thereon unless it is satisfied that notice of the petition in the prescribed form has been served in the prescribed manner on each of the partners who did not join in the petition .
+(2) Where a debtor’s bankruptcy application has been made against a firm by some, but not all, of the partners in the firm, the court shall not make a bankruptcy order thereon unless it is satisfied that notice of the application in the prescribed form has been served in the prescribed manner on each of the partners who did not join in the application.
 
-### Consolidation of bankruptcy petitions
+### Consolidation of bankruptcy applications
 
-68\. Where 2 or more bankruptcy petitions are presented against the same debtor, the court may consolidate the proceedings or any of them on such terms as the court thinks fit.
+68\. Where 2 or more bankruptcy applications are made against the same debtor, the court may consolidate the proceedings or any of them on such terms as the court thinks fit.
 
-### Power to dismiss petition against some respondents only
+### Power to dismiss application against some respondents only
 
-69\. Where there are 2 or more respondents to a petition , the court may dismiss the petition as to one or more of them, without prejudice to the effect of the petition as against the other or others of them.
+69\. Where there are 2 or more respondents to an application, the court may dismiss the application as to one or more of them, without prejudice to the effect of the application as against the other or others of them.
 
 ### Power to change conduct of proceedings
 
-70\. Where any petitioner does not proceed with due diligence on his petition, the court may substitute as petitioner —
+70\. Where any applicant for a bankruptcy order does not proceed with due diligence on his application, the court may substitute as applicant —
 
-(a) in the case of a presented, any other creditor to whom the debtor is indebted in the amount required under section 61(1)(a); or
+(a) in the case of a creditor’s bankruptcy application, any other creditor to whom the debtor is indebted in the amount required under section 61(1)(a); or
 
 (b) in any other case, the Official Assignee,
 
@@ -1356,17 +1374,17 @@ and thereafter the proceedings shall, unless the court otherwise directs, be con
 
 ### Continuance of proceedings on death of debtor
 
-71\. If a debtor by or against whom a bankruptcy petition has been presented dies, the proceedings in the matter shall, unless the court otherwise directs, be continued as if he were alive, and the court may dispense with service of the petition upon him.
+71\. If a debtor by or against whom a bankruptcy application has been made dies, the proceedings in the matter shall, unless the court otherwise directs, be continued as if he were alive, and the court may dispense with service of the application upon him.
 
-### Withdrawal of bankruptcy petition
+### Withdrawal of bankruptcy application
 
-72\. A bankruptcy petition shall not be withdrawn without the leave of the court.
+72\. A bankruptcy application shall not be withdrawn without the leave of the court.
 
 Protection of debtor’s property
 
 ### Appointment of interim receiver
 
-73\.—(1) The court may, if it thinks it necessary or expedient for the protection of the debtor’s property, at any time after the presentation of a bankruptcy petition and before making a bankruptcy order, appoint the Official Assignee to be interim receiver of the debtor’s property or any part thereof and direct him to take immediate possession of the same, including any books of accounts and other documents relating to the debtor’s business.
+73\.—(1) The court may, if it thinks it necessary or expedient for the protection of the debtor’s property, at any time after the making of a bankruptcy application and before making a bankruptcy order, appoint the Official Assignee to be interim receiver of the debtor’s property or any part thereof and direct him to take immediate possession of the same, including any books of accounts and other documents relating to the debtor’s business.
 
 (2) Where the court has appointed an interim receiver under subsection (1), no person who is a creditor of the debtor in respect of a debt provable in bankruptcy shall —
 
@@ -1394,15 +1412,15 @@ as the interim receiver may for the purpose of carrying out his functions under 
 
 (5) The Official Assignee shall cease to be the interim receiver of a debtor’s property if —
 
-(a) the bankruptcy petition presented against the debtor is dismissed or withdrawn;
+(a) the bankruptcy application made against the debtor is dismissed or withdrawn;
 
-(b) a bankruptcy order is made on the petition; or
+(b) a bankruptcy order is made on the application; or
 
 (c) the court by order terminates the appointment.
 
 ### Power to stay proceedings against person or property of debtor
 
-74\.—(1) Any court may by order, at any time after the presentation of a bankruptcy petition , stay any action, execution or other legal process against the person or property of the debtor.
+74\.—(1) Any court may by order, at any time after the making of a bankruptcy application, stay any action, execution or other legal process against the person or property of the debtor.
 
 (2) Where an order is made under subsection (1) staying any action or proceedings or staying proceedings generally, the order may be served by sending a copy thereof, under the seal of the court, by prepaid registered post to the address for service of the plaintiff or other party prosecuting such proceedings.
 
@@ -1448,13 +1466,13 @@ except by leave of the court and in accordance with such terms as the court may 
 
 ### Restrictions on dispositions of property by bankrupt
 
-77\.—(1) Where a person is adjudged bankrupt, any disposition of property made by him during the period beginning with the day of the creditor’s petition of the bankruptcy petition and ending with the making of the bankruptcy order shall be void except to the extent that such disposition has been made with the consent of, or been subsequently ratified by, the court.
+77\.—(1) Where a person is adjudged bankrupt, any disposition of property made by him during the period beginning with the day of the making of the bankruptcy application and ending with the making of the bankruptcy order shall be void except to the extent that such disposition has been made with the consent of, or been subsequently ratified by, the court.
 
 (2) For the purpose of this section, a disposition of property shall include any payment (whether in cash or otherwise) made to any person by the bankrupt and accordingly, where any payment is void by virtue of this section, the person to whom the payment was made shall hold the sum paid for the bankrupt as part of his estate.
 
 (3) Nothing in this section shall give a remedy against any person in respect of —
 
-(a) any property or payment which he received from the bankrupt before the commencement of the bankruptcy in good faith, for value and without notice that the bankruptcy petition had been presented; or
+(a) any property or payment which he received from the bankrupt before the commencement of the bankruptcy in good faith, for value and without notice that the bankruptcy application had been made; or
 
 (b) any interest in property which derives from an interest in respect of which there is, by virtue of this subsection, no remedy.
 
@@ -1510,13 +1528,13 @@ Inquiry into bankrupt’s affairs, dealings and property
 
 ### Bankrupt’s statement of affairs
 
-81\.—(1) Where a bankruptcy order has been made against an individual otherwise than on a debtor’s petition, the bankrupt shall submit a statement of his affairs to the Official Assignee within 21 days from the date of the bankruptcy order.
+81\.—(1) Where a bankruptcy order has been made against an individual otherwise than on a debtor’s bankruptcy application, the bankrupt shall submit a statement of his affairs to the Official Assignee within 21 days from the date of the bankruptcy order.
 
 (2) Where a bankruptcy order has been made against a firm —
 
-(a) on a creditors’ petition, the bankrupts, being the partners in the firm at the time of the order, shall submit a joint statement of their partnership affairs, and each partner in the firm shall submit a statement of his separate affairs; or
+(a) on a creditor’s bankruptcy application, the bankrupts, being the partners in the firm at the time of the order, shall submit a joint statement of their partnership affairs, and each partner in the firm shall submit a statement of his separate affairs; or
 
-(b) on a debtor’s petition, every person who at the time of the order is a partner in the firm but who did not join in the petition shall submit a statement of his separate affairs,
+(b) on a debtor’s bankruptcy application, every person who at the time of the order is a partner in the firm but who did not join in the application shall submit a statement of his separate affairs,
 
 to the Official Assignee within 21 days from the date of the bankruptcy order.
 
@@ -1654,7 +1672,7 @@ Proof of debts
 
 87\.—(1) Demands in the nature of unliquidated damages arising otherwise than by reason of a contract, promise or breach of trust shall not be provable in bankruptcy.
 
-(2) A person having notice of the presentation of a bankruptcy petition shall not prove under the bankruptcy order made thereon for any debt or liability contracted by the bankrupt subsequently to the date of his so having notice.
+(2) A person having notice of the making of a bankruptcy application shall not prove under the bankruptcy order made thereon for any debt or liability contracted by the bankrupt subsequently to the date of his so having notice.
 
 (3) Subject to this section and section 90, any debt or liability to which the bankrupt —
 
@@ -1682,7 +1700,7 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (a) is not a debt provable in bankruptcy; or
 
-(b) arises by reason of an obligation incurred at a time when the creditor had notice that a bankruptcy petition relating to the bankrupt was pending.
+(b) arises by reason of an obligation incurred at a time when the creditor had notice that a bankruptcy application relating to the bankrupt was pending.
 
 ### Rules as to proof of debts
 
@@ -1692,7 +1710,7 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 90\.—(1) Subject to this Act, in the distribution of the property of a bankrupt, there shall be paid in priority to all other debts —
 
-(a) firstly, the costs and expenses of administration or otherwise incurred by the Official Assignee and the costs of the petitioner (whether taxed or agreed) and the costs and expenses properly incurred by a nominee in respect of the administration of any voluntary arrangement under Part V;
+(a) firstly, the costs and expenses of administration or otherwise incurred by the Official Assignee and the costs of the applicant for the bankruptcy order (whether taxed or agreed) and the costs and expenses properly incurred by a nominee in respect of the administration of any voluntary arrangement under Part V;
 
 (b) secondly, subject to subsection (2), all wages or salary (whether or not earned wholly or in part by way of commission) including any amount payable by way of allowance or reimbursement under any contract of employment or award or agreement regulating the conditions of employment of any employee;
 
@@ -1748,7 +1766,7 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 92\.—(1) The right of any landlord or other person to whom rent is payable to distrain upon the goods and effects of a bankrupt for rent due to him from the bankrupt shall, subject to subsection (5), be available against goods and effects comprised in the bankrupt’s estate in respect only of 3 months’ rent accrued due before the commencement of the bankruptcy.
 
-(2) Where a landlord or other person to whom rent is payable has distrained for rent upon the goods and effects of an individual to whom a bankruptcy petition relates and a bankruptcy order is subsequently made on that petition, any amount recovered by way of that distress which —
+(2) Where a landlord or other person to whom rent is payable has distrained for rent upon the goods and effects of an individual to whom a bankruptcy application relates and a bankruptcy order is subsequently made on that application, any amount recovered by way of that distress which —
 
 (a) is in excess of the amount which by virtue of subsection (1) would have been recoverable after the commencement of the bankruptcy; or
 
@@ -1876,11 +1894,11 @@ Effect of bankruptcy on antecedent transactions
 
 97\.—(1) Where a second or subsequent bankruptcy order is made against a bankrupt, or where an order is made for the administration in bankruptcy of the estate of a deceased bankrupt, then for the purposes of any proceedings consequent upon any such order, the Official Assignee shall be deemed to be a creditor in respect of any unsatisfied balance of the debts provable in the last preceding bankruptcy against the property of the bankrupt in the subsequent bankruptcy.
 
-(2) Where a second or subsequent bankruptcy order is made against a bankrupt, or where an order is made for the administration in bankruptcy of the estate of a deceased bankrupt, any property acquired by him since he was last adjudged bankrupt, which at the date when the subsequent petition was presented had not been distributed amongst the creditors in the last preceding bankruptcy, shall (subject to any disposition thereof made by the Official Assignee in that bankruptcy without knowledge of the presentation of the subsequent petition ) vest in the Official Assignee on account of the subsequent bankruptcy or administration in bankruptcy, as the case may be.
+(2) Where a second or subsequent bankruptcy order is made against a bankrupt, or where an order is made for the administration in bankruptcy of the estate of a deceased bankrupt, any property acquired by him since he was last adjudged bankrupt, which at the date when the subsequent application was made had not been distributed amongst the creditors in the last preceding bankruptcy, shall (subject to any disposition thereof made by the Official Assignee in that bankruptcy without knowledge of the making of the subsequent application) vest in the Official Assignee on account of the subsequent bankruptcy or administration in bankruptcy, as the case may be.
 
-(3) Where the Official Assignee in any bankruptcy receives notice of a subsequent petition in bankruptcy against the bankrupt or after his death of a petition for the administration of his estate in bankruptcy, the Official Assignee shall hold any property then in his possession which has been acquired by the bankrupt since he was adjudged bankrupt until the subsequent petition has been disposed of.
+(3) Where the Official Assignee in any bankruptcy receives notice of a subsequent application in bankruptcy against the bankrupt or after his death of an application for the administration of his estate in bankruptcy, the Official Assignee shall hold any property then in his possession which has been acquired by the bankrupt since he was adjudged bankrupt until the subsequent application has been disposed of.
 
-(4) If on a subsequent petition a bankruptcy order or an order for the administration of the estate in bankruptcy is made, the Official Assignee shall hold all the property or the proceeds thereof (after deducting his costs and expenses) to the account of the subsequent bankruptcy, or administration in bankruptcy, as the case may be.
+(4) If on a subsequent application a bankruptcy order or an order for the administration of the estate in bankruptcy is made, the Official Assignee shall hold all the property or the proceeds thereof (after deducting his costs and expenses) to the account of the subsequent bankruptcy, or administration in bankruptcy, as the case may be.
 
 ### Transactions at an undervalue
 
@@ -1918,7 +1936,7 @@ Effect of bankruptcy on antecedent transactions
 
 100\.—(1) Subject to this section, the time at which an individual enters into a transaction at an undervalue or gives an unfair preference shall be a relevant time if the transaction is entered into or the preference given —
 
-(a) in the case of a transaction at an undervalue, within the period of 5 years ending with the day of the presentation of the bankruptcy petition on which the individual is adjudged bankrupt;
+(a) in the case of a transaction at an undervalue, within the period of 5 years ending with the day of the making of the bankruptcy application on which the individual is adjudged bankrupt;
 
 (b) in the case of an unfair preference which is not a transaction at an undervalue and is given to a person who is an associate of the individual (otherwise than by reason only of being his employee), within the period of 2 years ending with that day; and
 
@@ -2036,7 +2054,7 @@ and it shall be presumed, unless the contrary is proved, that the transaction wa
 
 104\.—(1) This section shall apply where a person engaged in any business makes a general assignment to another person of his existing or future book debts, or any class of them, and is subsequently adjudged bankrupt.
 
-(2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the presentation of the bankruptcy petition , unless the assignment has been registered under the Bills of Sale Act (Cap. 24).
+(2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the making of the bankruptcy application, unless the assignment has been registered under the Bills of Sale Act (Cap. 24).
 
 (3) For the purposes of this section —
 
@@ -2078,9 +2096,9 @@ and it shall be presumed, unless the contrary is proved, that the transaction wa
 
 (4) If within the time referred to in subsection (3) —
 
-(a) notice is served on the Sheriff of a bankruptcy petition having been presented against or by the debtor; and
+(a) notice is served on the Sheriff of a bankruptcy application having been made against or by the debtor; and
 
-(b) a bankruptcy order is made against the debtor thereon or on any other petition of which the Sheriff has notice,
+(b) a bankruptcy order is made against the debtor thereon or on any other application of which the Sheriff has notice,
 
 the Sheriff shall deduct the costs of and incidental to the execution and pay the balance to the Official Assignee, who shall be entitled to retain the same as against the execution creditor.
 
@@ -2194,7 +2212,7 @@ make an order for the vesting of the property in or delivery thereof to —
 
 (10) On the vesting order being made under subsection (9), the property comprised therein shall vest accordingly in the person therein named in that behalf, without any conveyance or assignment for the purpose.
 
-(11) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy petition was presented.
+(11) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy application was made.
 
 (12) Any mortgagee or under-lessee declining to accept a vesting order upon those terms shall be excluded from all interest in and security upon the property.
 
@@ -2338,7 +2356,7 @@ Distribution of property
 
 ### Right of bankrupt to surplus
 
-122\.—(1) The bankrupt shall be entitled to any surplus remaining after payment in full of his creditors, with interest as by this Act provided, and of the costs, charges and expenses of the proceedings under the bankruptcy petition.
+122\.—(1) The bankrupt shall be entitled to any surplus remaining after payment in full of his creditors, with interest as by this Act provided, and of the costs, charges and expenses of the proceedings under the bankruptcy application.
 
 (2) Notwithstanding subsection (1), the court may make an order directing the Official Assignee not to pay the surplus or part thereof to the bankrupt if —
 
@@ -2636,9 +2654,9 @@ BANKRUPTCY OFFENCES
 
 (a) references to property comprised in the bankrupt’s estate or to property possession of which is required to be delivered up to the Official Assignee shall include any property mentioned in section 78(1);
 
-(b) “initial period” means the period between the presentation of the bankruptcy petition by or against a debtor and the commencement of his bankruptcy;
+(b) “initial period” means the period between the making of the bankruptcy application by or against a debtor and the commencement of his bankruptcy;
 
-(c) a reference to a number of months or years before the presentation of a bankruptcy a petition shall be read as a reference to that period ending with the presentation of the bankruptcy petition; and
+(c) a reference to a number of months or years before the making of a bankruptcy application shall be read as a reference to that period ending with the making of the bankruptcy application; and
 
 (d) “Official Assignee” includes a trustee in bankruptcy appointed under section 33.
 
@@ -2664,13 +2682,13 @@ BANKRUPTCY OFFENCES
 
 (b) he conceals any debt due to or from him or conceals any property the value of which is not less than $500 and possession of which he is required to deliver up to the Official Assignee;
 
-(c) in the 12 months before the presentation of the bankruptcy petition by or against him, or in the initial period, he did anything which would have been an offence under paragraph (b) if the bankruptcy order against him had been made immediately before he did it;
+(c) in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he did anything which would have been an offence under paragraph (b) if the bankruptcy order against him had been made immediately before he did it;
 
 (d) he removes, or in the initial period removed, any property the value of which is or was not less than $500 and possession of which he is or would have been required to deliver up to the Official Assignee; or
 
 (e) he without reasonable excuse fails, on being required to do so by the Official Assignee or the court —
 
-(i) to account for the loss of any substantial part of his property incurred in the 12 months before the presentation of the bankruptcy petition by or against him or in the initial period; or
+(i) to account for the loss of any substantial part of his property incurred in the 12 months before the making of the bankruptcy application by or against him or in the initial period; or
 
 (ii) to give a satisfactory explanation of the manner in which such a loss was incurred.
 
@@ -2688,7 +2706,7 @@ BANKRUPTCY OFFENCES
 
 (e) he disposes of, or alters or makes any omission in, or causes or permits the disposal, altering or making of any omission in, any book, document or record relating to his estate or affairs; or
 
-(f) in the 12 months before the presentation of the bankruptcy petition by or against him, or in the initial period, he did anything which would have been an offence under paragraph (c), (d) or (e) if the bankruptcy order against him had been made before he did it.
+(f) in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he did anything which would have been an offence under paragraph (c), (d) or (e) if the bankruptcy order against him had been made before he did it.
 
 ### False statements
 
@@ -2700,7 +2718,7 @@ BANKRUPTCY OFFENCES
 
 (c) he attempts to account for any part of his property by fictitious losses or expenses;
 
-(d) at any meeting of his creditors in the 12 months before the presentation of the bankruptcy petition by or against him or (whether or not at such a meeting) at any time in the initial period, he did anything which would have been an offence under paragraph (c) if the bankruptcy order against him had been made before he did it; or
+(d) at any meeting of his creditors in the 12 months before the making of the bankruptcy application by or against him or (whether or not at such a meeting) at any time in the initial period, he did anything which would have been an offence under paragraph (c) if the bankruptcy order against him had been made before he did it; or
 
 (e) he is, or at any time has been, guilty of any false representation or other fraud for the purpose of obtaining the consent of his creditors, or any of them, to an agreement with reference to his affairs or to his bankruptcy.
 
@@ -2720,13 +2738,13 @@ BANKRUPTCY OFFENCES
 
 (a) he leaves, or attempts or makes preparations to leave, Singapore with any property the value of which is $500 or more and possession of which he is required to deliver up to the Official Assignee; or
 
-(b) in the 12 months before the presentation of the bankruptcy petition by or against him, or in the initial period, he did anything which would have been an offence under paragraph (a) if the bankruptcy order against him had been made immediately before he did it.
+(b) in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he did anything which would have been an offence under paragraph (a) if the bankruptcy order against him had been made immediately before he did it.
 
 ### Fraudulent dealing with property obtained on credit
 
-140\.—(1) A bankrupt shall be guilty of an offence if, in the 12 months before the presentation of the bankruptcy petition by or against him, or in the initial period, he disposed of any property which he had obtained on credit and, at the time he disposed of it, had not paid for.
+140\.—(1) A bankrupt shall be guilty of an offence if, in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he disposed of any property which he had obtained on credit and, at the time he disposed of it, had not paid for.
 
-(2) A person shall be guilty of an offence if, in the 12 months before the presentation of the bankruptcy petition by or against a bankrupt or in the initial period, he acquired or received property from the bankrupt knowing or believing —
+(2) A person shall be guilty of an offence if, in the 12 months before the making of the bankruptcy application by or against a bankrupt or in the initial period, he acquired or received property from the bankrupt knowing or believing —
 
 (a) that the bankrupt owed money in respect of the property; and
 
@@ -2754,7 +2772,7 @@ BANKRUPTCY OFFENCES
 
 ### Failure to keep proper accounts of business
 
-142\.—(1) A bankrupt shall be guilty of an offence if, having been engaged in any business within 2 years before the presentation of the bankruptcy petition by or against him, he has not —
+142\.—(1) A bankrupt shall be guilty of an offence if, having been engaged in any business within 2 years before the making of the bankruptcy application by or against him, he has not —
 
 (a) kept proper accounting records throughout that period and throughout any part of the initial period in which he was so engaged; or
 
@@ -2778,7 +2796,7 @@ BANKRUPTCY OFFENCES
 
 143\.—(1) A bankrupt shall be guilty of an offence if he has —
 
-(a) in the 2 years before the presentation of the bankruptcy petition by or against him, materially contributed to, or increased the extent of, his insolvency by gambling or by rash and hazardous speculations; or
+(a) in the 2 years before the making of the bankruptcy application by or against him, materially contributed to, or increased the extent of, his insolvency by gambling or by rash and hazardous speculations; or
 
 (b) in the initial period, lost any part of his property by gambling or by rash and hazardous speculations.
 
@@ -2788,9 +2806,9 @@ BANKRUPTCY OFFENCES
 
 144\. A bankrupt shall be guilty of an offence if —
 
-(a) within 12 months before the presentation of a bankruptcy petition by or against him or during the initial period, he incurs any debt provable in bankruptcy; or
+(a) within 12 months before the making of a bankruptcy application by or against him or during the initial period, he incurs any debt provable in bankruptcy; or
 
-(b) having been engaged in carrying on any trade or business, he continues to trade or carry on business by incurring any debt provable in bankruptcy within 12 months before the date of the presentation of a bankruptcy petition by or against him or during the initial period, he being insolvent on the date of incurring the debt,
+(b) having been engaged in carrying on any trade or business, he continues to trade or carry on business by incurring any debt provable in bankruptcy within 12 months before the date of the making of a bankruptcy application by or against him or during the initial period, he being insolvent on the date of incurring the debt,
 
 without any reasonable ground of expectation of being able to pay it.
 
@@ -2812,7 +2830,7 @@ without any reasonable ground of expectation of being able to pay it.
 
 147\.—(1) It shall not be a defence in proceedings for an offence under this Act that anything relied on, in whole or in part, as constituting that offence was done outside Singapore.
 
-(2) In a charge for an offence under this Act, it shall be sufficient to set forth the substance of the offence charged in the words of this Act, specifying the offence or as near thereto as circumstances admit, without alleging or setting forth any debt, demand, petition or any proceedings in, or order, warrant or document of any court acting under this Act.
+(2) In a charge for an offence under this Act, it shall be sufficient to set forth the substance of the offence charged in the words of this Act, specifying the offence or as near thereto as circumstances admit, without alleging or setting forth any debt, demand, application or any proceedings in, or order, warrant or document of any court acting under this Act.
 
 (3) Where a bankrupt has been guilty of any offence under this Act, he shall not be exempt from being proceeded against therefor by reason that he has obtained his discharge or that the bankruptcy order made against him has been annulled or rescinded.
 
@@ -2822,17 +2840,17 @@ MISCELLANEOUS PROVISIONS
 
 ### Administration in bankruptcy of estate of person dying insolvent
 
-148\.—(1) In this section, unless the context otherwise requires, “creditor” means one or more creditors qualified to present a bankruptcy petition under this Act.
+148\.—(1) In this section, unless the context otherwise requires, “creditor” means one or more creditors qualified to make a bankruptcy application under this Act.
 
-(2) The Official Assignee or any creditor of a deceased debtor whose debt would have been sufficient to support a bankruptcy petition against the debtor had he been alive, may present to the court a petition for an order for the administration of the estate of the deceased debtor according to this Act.
+(2) The Official Assignee or any creditor of a deceased debtor whose debt would have been sufficient to support a bankruptcy application against the debtor had he been alive, may make to the court an application for an order for the administration of the estate of the deceased debtor according to this Act.
 
-(3) Every petition under this section shall be in the same form as a creditor’s petition under section 57, with such variations as the case may require, except that in the case of a petition by the Official Assignee, it shall not be necessary to allege or prove that any debt is owing to the petitioner.
+(3) Every application under this section shall be in the same form as a creditor’s bankruptcy application under section 57, with such variations as the case may require, except that in the case of an application by the Official Assignee, it shall not be necessary to allege or prove that any debt is owing to the applicant.
 
-(4) Upon the prescribed notice being given to the legal representative, if any, of the deceased debtor, the court may, in the prescribed manner, upon proof of the petitioner’s debt , unless the court is satisfied that there is a reasonable probability that the estate will be sufficient for the payment of the debts owing by the deceased debtor, make an order for the administration in bankruptcy of the deceased debtor’s estate, or may, upon cause being shown, dismiss the petition with or without costs.
+(4) Upon the prescribed notice being given to the legal representative, if any, of the deceased debtor, the court may, in the prescribed manner, upon proof of the applicant’s debt, unless the court is satisfied that there is a reasonable probability that the estate will be sufficient for the payment of the debts owing by the deceased debtor, make an order for the administration in bankruptcy of the deceased debtor’s estate, or may, upon cause being shown, dismiss the application with or without costs.
 
 (5) An administration order under this section shall not be made until the expiration of 2 months from the date of the grant of probate or letters of administration, unless with the concurrence of the legal representative of the deceased debtor.
 
-(6) A petition for administration under this section shall not be presented to the court after proceedings have been commenced for the administration of the deceased debtor’s estate except that the court may, in that case, on the application of any creditor and on proof that the estate is insufficient to pay its debts in the prescribed manner, make an order for the administration of the estate of the deceased debtor in bankruptcy, and the like consequences shall ensue as under an administration order made on the petition of a creditor.
+(6) An application for administration under this section shall not be made to the court after proceedings have been commenced for the administration of the deceased debtor’s estate except that the court may, in that case, on the application of any creditor and on proof that the estate is insufficient to pay its debts in the prescribed manner, make an order for the administration of the estate of the deceased debtor in bankruptcy, and the like consequences shall ensue as under an administration order made on the application of a creditor.
 
 (7) Upon an administration order being made under this section, the property of the debtor shall vest in the Official Assignee as trustee thereof without any further conveyance, transfer or assignment, and he shall forthwith proceed to realise and distribute the same in accordance with this Act.
 
@@ -2844,7 +2862,7 @@ MISCELLANEOUS PROVISIONS
 
 (11) If on the administration of a deceased debtor’s estate any surplus remains in the hands of the Official Assignee after payment in full of all the debts due from the debtor, together with the costs of the administration and interest as provided by this Act in the case of a bankruptcy, the surplus shall, subject to section 122(2), be paid over to the legal representative of the deceased debtor’s estate or dealt with in such other manner as is prescribed.
 
-(12) Upon notice being given to the legal representative of a deceased debtor of the presentation by a creditor of under this section, and in the event of an administration order being made thereon, no payment or transfer of property made thereafter by the legal representative shall operate as a discharge to him as between himself and the Official Assignee.
+(12) Upon notice being given to the legal representative of a deceased debtor of the making by a creditor of an application under this section, and in the event of an administration order being made thereon, no payment or transfer of property made thereafter by the legal representative shall operate as a discharge to him as between himself and the Official Assignee.
 
 (13) Subject to this section, nothing in this section shall invalidate any payment made or act or thing done in good faith by the legal representative before the date of the administration order.
 
@@ -2896,7 +2914,7 @@ may apply to the court which may, if it thinks fit in all the circumstances of t
 
 (2) From the date of that notification where any person has been adjudged a bankrupt by a court in Malaysia, such property of the bankrupt situate in Singapore as would, if he had been adjudged bankrupt in Singapore, vest in the Official Assignee of Singapore, shall vest in the Official Assignee appointed by the government of Malaysia, and all courts in Singapore shall recognise the title of such Official Assignee to such property.
 
-(3) Subsection (2) shall not apply where a bankruptcy petition has been presented against the bankrupt in Singapore until the petition has been dismissed or withdrawn or the bankruptcy order has been rescinded or annulled.
+(3) Subsection (2) shall not apply where a bankruptcy application has been made against the bankrupt in Singapore until the application has been dismissed or withdrawn or the bankruptcy order has been rescinded or annulled.
 
 (4) The production of an order of adjudication purporting to be certified, under the seal of the court in Malaysia making the order, by the registrar of that court, or of a copy of the officialGazetteof Malaysia containing a notice of an order adjudging that person a bankrupt shall be conclusive proof in all courts in Singapore of the order having been duly made and of its date.
 
@@ -2912,7 +2930,9 @@ may apply to the court which may, if it thinks fit in all the circumstances of t
 
 154\. Any —
 
-(a) petition or copy of a petition in bankruptcy;
+(a) application or copy of an application in bankruptcy;
+
+[42/2005 wef 01/04/2006]
 
 (b) order or certificate or copy of an order or certificate made by the court in bankruptcy;
 
@@ -3018,7 +3038,7 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (iii) the bankrupt has been discharged from bankruptcy by a certificate issued by the Official Assignee;
 
-(iv) the bankruptcy petition presented against the debtor has been withdrawn by the petitioner or dismissed by the court; or
+(iv) the bankruptcy application made against the debtor has been withdrawn by the applicant or dismissed by the court; or
 
 (v) the moneys were paid into the Account under subsection (1).
 
@@ -3232,6 +3252,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
 |||(item (6) of Fifth Schedule — Amendment of Bankruptcy Act)|
+|15.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
+|||(item (3) of First Schedule — Amendment of Bankruptcy Act)|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
