@@ -100,7 +100,9 @@ PRELIMINARY
 
 ### Interpretation
 
-2\.—(1) In this Act, unless the context otherwise requires —
+2\. 
+
+(1) In this Act, unless the context otherwise requires —
 
 “company” means any company incorporated, formed or registered under the provisions of the Companies Act [Cap. 50] or any corresponding previous written law;
 
@@ -460,7 +462,9 @@ the Minister may, in his discretion, take such action as he may consider necessa
 
 (c) direct a company or statutory board to assume control and carry on the business of the licensed housing developer or housing developer, as the case may be, upon such terms and conditions as the Minister may determine; or
 
-(d) direct the licensed housing developer to present a petition to the High Court for the winding up of the business of the licensed housing developer or housing developer, as the case may be.
+(d) direct the licensed housing developer to apply to the High Court for the winding up of the business of the licensed housing developer or housing developer, as the case may be.
+
+[42/2005 wef 01/04/2006]
 
 [17
 
@@ -480,9 +484,11 @@ the Minister may, in his discretion, take such action as he may consider necessa
 
 (b) act in accordance with the advice given by a person appointed by the Minister under section 18(2)(b);
 
-(c) present a petition to the High Court for the winding up of its business in accordance with a direction made by the Minister under section 18(2)(d),
+(c) apply to the High Court for the winding up of its business in accordance with a direction made by the Minister under section 18(2)(d),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+
+[42/2005 wef 01/04/2006]
 
 [19
 
@@ -656,3 +662,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
+|8.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1st April 2006 (Item (15) in the First Schedule)|
