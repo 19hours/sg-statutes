@@ -244,13 +244,13 @@ PRELIMINARY
 
 “financial institution” has the same meaning as in the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act;
 
-“foreign confiscation order” means an order made by a court in a prescribed foreign country for the recovery, forfeiture or confiscation of —
+“foreign confiscation order” means an order made by a court in a foreign country for the recovery, forfeiture or confiscation of —
 
 (a) payments or other rewards received in connection with an offence against the law of that country that is a foreign offence, or the value of such payments or rewards; or
 
 (b) property derived or realised, directly or indirectly, from payments or other rewards received in connection with such an offence, or the value of such property,
 
-that is made on or after the date the order under section 17(1) declaring that country as a prescribed foreign country comes into force, and includes an instrumentality forfeiture order;
+that is made on or after the appointed date for that country and includes an instrumentality forfeiture order;
 
 “foreign country” means any country, or territory, other than Singapore;
 
@@ -270,13 +270,13 @@ that is made on or after the date the order under section 17(1) declaring that c
 
 (b) that consists of or includes conduct which, if it had occurred in Singapore, would have constituted a serious offence;
 
-“instrumentality forfeiture order” means an order made by a court of a prescribed foreign country for the forfeiture and destruction of, or the forfeiture and other disposal of —
+“instrumentality forfeiture order” means an order made by a court of a foreign country for the forfeiture and destruction of, or the forfeiture and other disposal of —
 
 (a) any drug or other substance in respect of which an offence against the corresponding drug law of that country has been committed; or
 
 (b) property which was used in connection with the commission of such an offence,
 
-that is made on or after the date the order under section 17(1) declaring that country as a prescribed foreign country comes into force;
+that is made on or after the appointed date for that country;
 
 “items subject to legal privilege” means —
 
@@ -343,6 +343,14 @@ as the case may be;
 (b) a reference to the law of a foreign country includes a reference to the law in force in any part of that country.
 
 (3) In the definitions of “Singapore confiscation order” and “foreign confiscation order”, a reference to an order includes an order, decree, direction or judgment, or any part thereof, howsoever described.
+
+(4) In the definitions of “foreign confiscation order” and “instrumentality forfeiture order”, a reference to the appointed date for a foreign country is a reference to —
+
+(a) in the case of a prescribed foreign country that was declared as such before the date of commencement of the Mutual Assistance in Criminal Matters (Amendment) Act 2006, the date the order under section 17(1) making such declaration came into force; or
+
+(b) in any other case, the date of commencement of the Mutual Assistance in Criminal Matters (Amendment) Act 2006.
+
+[8/2006 wef 01/04/2006]
 
 ### Object of Act
 
@@ -557,7 +565,17 @@ Preliminary Provisions
 
 ### Application of this Part
 
-16\. Unless otherwise stated in this Part, assistance under this Part may be provided to any foreign country.
+16\.—(1) Subject to the provisions of this Part —
+
+(a) assistance under sections 21 and 27(1) and Divisions 7 and 8 may be provided to any foreign country; and
+
+(b) assistance under section 27(2) and Divisions 2 (other than section 21), 3, 5 and 6 may only be provided to any prescribed foreign country.
+
+(2) Notwithstanding subsection (1)(b) but subject to the provisions of this Part, any assistance referred to in that provision may be provided to a foreign country that is not a prescribed foreign country if the appropriate authority of that country has given an undertaking to the Attorney-General that that country will comply with a future request by Singapore to that country for similar assistance in a criminal matter involving an offence that corresponds to the foreign offence for which assistance is sought.
+
+(3) The foreign country referred to in subsection (2) shall be deemed a prescribed foreign country for the purposes of the relevant provisions of this Part and (if applicable) the Schedule.
+
+[8/2006 wef 01/04/2006]
 
 ### Prescribed foreign countries
 
@@ -653,7 +671,9 @@ in respect of that offence or of another offence constituted by the same act or 
 
 (c) if, in the opinion of the Attorney-General, the provision of the assistance would impose an excessive burden on the resources of Singapore; or
 
-(d) if that country is not a prescribed foreign country and the appropriate authority of that country fails to give an undertaking to the Attorney-General that that country will, subject to its laws, comply with a future requirement by Singapore to that country for assistance in a criminal matter.
+(d) if, in the case of any assistance under sections 21 and 27(1) and Divisions 7 and 8, that country is not declared as a prescribed foreign country under section 17 and the appropriate authority of that country fails to give an undertaking to the Attorney-General that that country will comply with a future request by Singapore to that country for similar assistance in a criminal matter involving an offence that corresponds to the foreign offence for which assistance is sought.
+
+[8/2006 wef 01/04/2006]
 
 Division 2 —
 
@@ -983,7 +1003,7 @@ the Attorney-General, or an authorised officer directed by him, may apply to the
 
 (i) is likely to be of substantial value (whether by itself or together with another thing) to the criminal matter in respect of which the application is made; and
 
-(ii) does not consist of or include items subject to legal privilege; or
+(ii) does not consist of or include items subject to legal privilege; and
 
 (c) the court is satisfied that it is not contrary to the public interest for the warrant to be issued.
 
@@ -1191,8 +1211,6 @@ Enforcement of Foreign Confiscation Orders
 
 Part I
 
-Part I
-
 Preliminary
 
 Interpretation
@@ -1247,7 +1265,12 @@ Application
 
 Part II
 
-Enforcement of Foreign Confiscation Ordersother than Instrumentality Forfeiture Orders
+Enforcement of Foreign Confiscation Orders Other Than
+
+
+
+
+Instrumentality Forfeiture Orders
 
 Interpretation of this Part
 
@@ -1309,7 +1332,7 @@ Gifts caught by Schedule
 
 Interest on amounts to be recovered under foreign confiscation orders
 
-5.—(1) Where a fixed amount is payable under a foreign confiscation order which has been registered under section 30 of this Act, that amount shall be treated as a judgment debt and the provisions of any written law relating to the payment of interest on judgment debts shall apply to it.
+5.—(1) Where a fixed amount is payable under a foreign confiscation order which has been registered under section 30, that amount shall be treated as a judgment debt and the provisions of any written law relating to the payment of interest on judgment debts shall apply to it.
 
 (2) For the purposes of sub-paragraph (1), the date of registration of the order shall be treated as the date of the judgment debt.
 
@@ -1549,11 +1572,9 @@ but there shall be payable out of such property any expenses (including the remu
 
 (b) where such an order has been made and, before the making of the application for the winding up of the company by the High Court, such a resolution has been passed by the company, the time of the passing of the resolution; and
 
-[42/2005 wef 01/01/2006]
-
 (c) in any other case where such an order has been made, the time of the making of the order.
 
-Receivers: supplementary provisions
+Receivers: supplementary provisions 
 
 15\. Where the Public Trustee or a receiver appointed under paragraph 7 or 10 or in pursuance of a charging order takes any action in relation to property which is not realisable property, being action which he would be entitled to take if it were such property, believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property, he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
 
@@ -1700,6 +1721,11 @@ This Legislative History is provided for the convenience of users of the Mutual 
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st January 2006|
+|6.|**Act 8 of 2006—Mutual Assistance in Criminal Matters (Amendment) Act 2006**|
+||Date of First Reading|16 January 2006|
+|||(Bill No. 2/2006 published on 17 January 2006)|
+||Date of Second and Third Readings|13 February 2006|
+||Date of commencement|1 April 2006|
 ## COMPARATIVE TABLE
 
 Mutual Assistance in Criminal Matters Act
