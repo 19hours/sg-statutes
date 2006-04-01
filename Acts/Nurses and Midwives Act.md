@@ -74,17 +74,17 @@
 
 - [30 Fraudulent registration, etc.](#Fraudulent-registration-etc)
 
-[**Part V NURSE SPECIALISTS**](#Part-V)
+[**Part V ADVANCED PRACTICE NURSES**](#Part-V)
 
 - [31 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [32 Registration of nurse specialists, etc.](#Registration-of-nurse-specialists-etc)
+- [32 Certification of Advanced Practice Nurses, etc.](#Certification-of-Advanced-Practice-Nurses-etc)
 
-- [33 Publication of list of nurse specialists](#Publication-of-list-of-nurse-specialists)
+- [33 Publication of list of nurse Advanced Practice Nurses](#Publication-of-list-of-nurse-Advanced-Practice-Nurses)
 
 - [34 Certificate of Registrar](#Certificate-of-Registrar)
 
-- [35 False assumption of title of nurse specialist, etc.](#False-assumption-of-title-of-nurse-specialist-etc)
+- [35 False assumption of title of Advanced Practice Nurse, etc.](#False-assumption-of-title-of-Advanced-Practice-Nurse-etc)
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
@@ -103,6 +103,8 @@
 - [42 Funds of Board](#Funds-of-Board)
 
 - [43 No action against Board in absence of bad faith](#No-action-against-Board-in-absence-of-bad-faith)
+
+- [43A Composition of offences](#Composition-of-offences)
 
 - [44 Power of Board to make regulations](#Power-of-Board-to-make-regulations)
 
@@ -132,7 +134,7 @@ REVISED EDITION 2000
 
 (30th December 2000)
 
-An Act to establish the Singapore Nursing Board, to provide for the registration and enrolment of nurses and the registration of midwives and for matters connected therewith.
+An Act to establish the Singapore Nursing Board, to provide for the registration and enrolment of nurses, the registration of midwives and the certification of Advanced Practice Nurses and for matters connected therewith.
 
 [1st May 2000]
 
@@ -149,6 +151,10 @@ PRELIMINARY
 2\. In this Act, unless the context otherwise requires —
 
 “accredited” means accredited by the Board;
+
+“Advanced Practice Nurse” means a registered nurse who is certified as an Advanced Practice Nurse under section 32;
+
+[15/2005 wef 01/04/2006]
 
 “appointed member” means a member appointed under section 3(2)(d);
 
@@ -192,7 +198,7 @@ SINGAPORE NURSING BOARD
 
 (2) The Board shall consist of the following members:
 
-(a) the Director of Medical Services;
+(a) the Director of Medical Services or his representative;
 
 (b) the Director-General of Education or his representative;
 
@@ -262,21 +268,25 @@ SINGAPORE NURSING BOARD
 
 (a) to approve or reject applications for registration and enrolment of nurses and for registration of midwives;
 
+(aa) to approve or reject applications for certification of Advanced Practice Nurses;
+
+[15/2005 wef 01/04/2006]
+
 (b) to issue practising certificates;
 
 (c) to accredit —
 
-(i) courses in Singapore for the purposes of registration and enrolment;
+(i) courses in Singapore for the purposes of registration and enrolment of nurses, registration of midwives and certification of Advanced Practice Nurses;
 
 (ii) courses in Singapore which provide qualifications in nursing or midwifery in addition to those required for registration and enrolment; and
 
 (iii) the institutions in Singapore offering any of these courses;
 
-(d) to regulate standards for the training and education of registered nurses, enrolled nurses and registered midwives ;
+(d) to regulate standards for the training and education of registered nurses, enrolled nurses, registered midwives and Advanced Practice Nurses;
 
-(e) to regulate the standards and scope of practice of registered nurses, enrolled nurses and registered midwives;
+(e) to regulate the standards and scope of practice of registered nurses, enrolled nurses, registered midwives and Advanced Practice Nurses;
 
-(f) to regulate the professional conduct and ethics of registered nurses, enrolled nurses and registered midwives; and
+(f) to regulate the professional conduct and ethics of registered nurses, enrolled nurses, registered midwives and Advanced Practice Nurses; and
 
 (g) generally to do all such acts, matters and things as are necessary or authorised to be carried out under this Act.
 
@@ -332,9 +342,13 @@ REGISTRATION AND ENROLMENT
 
 (3) Every registered nurse, enrolled nurse and registered midwife shall inform the Registrar in writing of any change in his name, working address, residential address, or such of his other particulars as may be prescribed, within 28 days of the change.
 
-(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(4) [Deleted by Act 15/2005 wef 01/04/2006]
 
 (5) A person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (3) on the date on which he makes the report.
+
+(6) The Registrar may disclose, in accordance with any prescribed conditions, any information in the Register or Roll to any prescribed person.
+
+[15/2005 wef 01/04/2006]
 
 ### Registration and enrolment
 
@@ -452,7 +466,7 @@ may be registered as a registered midwife.
 
 ### Practising certificate
 
-18\.—(1) A registered nurse, an enrolled nurse or a registered midwife who desires to obtain a practising certificate shall apply to the Board in such form and manner as the Board may prescribe.
+18\.—(1) A registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse who desires to obtain a practising certificate shall apply to the Board in such form and manner as the Board may prescribe.
 
 (2) The application referred to in subsection (1) shall be accompanied by the prescribed fee.
 
@@ -460,45 +474,109 @@ may be registered as a registered midwife.
 
 (4) An application for the renewal of a practising certificate shall be made no later than one month before the expiration of the practising certificate and shall be made in such form and manner as the Board may prescribe.
 
-(5) A registered nurse, an enrolled nurse or a registered midwife who applies for a practising certificate later than one month before the expiration of the practising certificate shall be liable to pay to the Board such late application fee as the Board may prescribe.
+(5) A registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse who applies for a practising certificate later than one month before the expiration of the practising certificate shall be liable to pay to the Board such late application fee as the Board may prescribe.
 
-(6) Where a registered nurse, an enrolled nurse or a registered midwife has had his registration or enrolment cancelled or suspended under section 19, any practising certificate issued to him shall be deemed to be cancelled and he shall surrender the certificate to the Board within 14 days of such cancellation or suspension.
+(5A) The Board may ––
+
+(a) refuse to grant a practising certificate to a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse; or
+
+(b) refuse to renew the practising certificate of a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse,
+
+if the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, as the case may be, fails to comply with any prescribed condition.
+
+[15/2005 wef 01/04/2006]
+
+(6) Where —
+
+(a) a registered nurse (including an Advanced Practice Nurse), an enrolled nurse or a registered midwife has had his registration or enrolment cancelled or suspended on any of the grounds specified in section 19(1)(a) to (f); or
+
+(b) an Advanced Practice Nurse has had his certification cancelled or suspended under section 19(2A),
+
+he shall surrender his practising certificate to the Board within 14 days of such cancellation or suspension and, in the case of such cancellation, his practising certificate shall be cancelled.
+
+[15/2005 wef 01/04/2006]
+
+(6A) Where the practising certificate of an Advanced Practice Nurse has been cancelled in accordance with subsection (6)(b), the Board may issue him a practising certificate as a registered nurse in lieu thereof.
+
+[15/2005 wef 01/04/2006]
 
 (7) Any person who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Cancellation, etc., of registration or enrolment
 
-19\.—(1) The Board may cancel the registration of a registered nurse or registered midwife, or the enrolment of an enrolled nurse, if the Board is satisfied that he —
+19\.—(1) The Board may exercise any one or more of the powers in subsection (2) and, where applicable, subsection (2A), if the Board is satisfied that a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse —
 
-(a) has obtained his registration or enrolment fraudulently or by an incorrect statement;
+(a) has obtained his registration as a registered nurse or registered midwife, enrolment as an enrolled nurse or certification as an Advanced Practice Nurse fraudulently or by a materially incorrect statement;
 
-(b) has contravened or failed to comply with any condition imposed on him under section 17(2) or subsection (2)(b) or (7), or to which he is subject by virtue of section 46(4);
+(b) has contravened section 13(3) or any condition imposed on him under subsection (2)(c) or (7) or section 17(2), or to which he is subject by virtue of section 46(4);
 
-(c) has had his registration or enrolment as a nurse, or his registration as a midwife, as the case may be, in a country outside Singapore suspended or cancelled;
+(c) has had his registration or enrolment as a nurse, registration as a midwife or certification as an Advanced Practice Nurse, in a territory outside Singapore suspended or cancelled;
 
-(d) has been convicted of an offence in or outside Singapore which in the opinion of the Board renders him unfit to remain on the Register or the Roll;
+(d) has been convicted of an offence in Singapore or elsewhere which in the opinion of the Board renders him unfit to remain on the Register or the Roll or to practise as an Advanced Practice Nurse;
 
-(e) has been guilty of any misconduct, or negligence, which in the opinion of the Board renders him unfit to remain on the Register or the Roll;
+(e) has been guilty of any misconduct, or negligence, which in the opinion of the Board renders him unfit to remain on the Register or the Roll or to practise as an Advanced Practice Nurse;
 
-(f) is unable to perform satisfactorily the functions of a registered nurse, an enrolled nurse or a registered midwife, as the case may be, because of a mental or physical disability;
+(f) is unable to perform satisfactorily the functions of a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse because of a mental or physical disability;
 
-(g) has not renewed his practising certificate for a continuous period of not less than the period prescribed for the purposes of this paragraph; or
+(g) has not renewed his practising certificate for a continuous period of not less than the prescribed period; or
 
 (h) is deceased.
 
-(2) Instead of cancelling the registration or enrolment of a person on any of the grounds referred to in subsection (1)(b) to (f), the Board may, if it considers fit —
+[15/2005 wef 01/04/2006]
 
-(a) suspend his registration or enrolment for a period of not more than 2 years;
+(2) The powers referred to in subsection (1) are as follows:
 
-(b) order that his registration or enrolment be conditional on his compliance with such conditions as may be imposed by the Board;
+(a) cancel the registration of a registered nurse (including an Advanced Practice Nurse) or registered midwife or the enrolment of an enrolled nurse;
 
-(c) censure him; or
+(b) suspend the registration of a registered nurse (including an Advanced Practice Nurse) or registered midwife or the enrolment of an enrolled nurse for a period of not more than 2 years;
 
-(d) issue to him a letter of advice.
+(c) order that the registration of a registered nurse (including an Advanced Practice Nurse) or registered midwife or the enrolment of an enrolled nurse be conditional on his compliance with such conditions as may be imposed by the Board;
 
-(3) A person whose registration or enrolment is cancelled under subsection (1) or suspended under subsection (2) shall surrender his certificate of registration or certificate of enrolment, as the case may be, to the Board within 14 days of such cancellation or suspension.
+(d) impose on the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, as the case may be, a financial penalty not exceeding $2,000;
 
-(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(e) censure the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, as the case may be; or
+
+(f) issue to the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, as the case may be, a written warning.
+
+[15/2005 wef 01/04/2006]
+
+(2A) Where the Board is satisfied that there are grounds under subsection (1) to exercise its powers against an Advanced Practice Nurse, the Board may, in addition to or in lieu of any power under subsection (2) ––
+
+(a) cancel the certification of the Advanced Practice Nurse or suspend his certification for a period of not more than 2 years, without cancelling or suspending his registration as a registered nurse; or
+
+(b) order that the certification of the Advanced Practice Nurse be conditional on his compliance with such conditions as may be imposed by the Board.
+
+[15/2005 wef 01/04/2006]
+
+(2B) Notwithstanding subsection (2A), where an Advanced Practice Nurse has had his registration as a registered nurse cancelled or suspended under subsection (2), his certification as an Advanced Practice Nurse shall be correspondingly cancelled or suspended for the same period.
+
+[15/2005 wef 01/04/2006]
+
+(2C) The Board shall, before exercising any of its powers under subsection (2) or (2A) —
+
+(a) notify the person of its intention to exercise the power and give him an opportunity to be heard either personally or by counsel; and
+
+(b) if the complaint or matter against the person has been referred by the Board to a Complaints Committee under section 37(1), consider the findings of the Committee as reported to the Board.
+
+[15/2005 wef 01/04/2006]
+
+(3) A person whose registration or enrolment is cancelled or suspended under subsection (2) on any of the grounds specified in subsection (1) (a) to (f) shall surrender his certificate of registration or certificate of enrolment, as the case may be, to the Board within 14 days of such cancellation or suspension.
+
+(3A) An Advanced Practice Nurse ––
+
+(a) who is required under subsection (3) to surrender his certificate of registration as a registered nurse; or
+
+(b) whose certification as an Advanced Practice Nurse is cancelled or suspended under subsection (2A),
+
+shall surrender his Advanced Practice Nurse certificate to the Board within 14 days of the cancellation or suspension of his registration as a registered nurse or certification as an Advanced Practice Nurse, as the case may be.
+
+[15/2005 wef 01/04/2006]
+
+(3B) Where an Advanced Practice Nurse has had his certification cancelled or suspended under subsection (2A) or (2B), he shall not be regarded as being certified as an Advanced Practice Nurse, but immediately upon the expiration of the period of suspension, if any, his rights and privileges as an Advanced Practice Nurse shall be revived, and the Board shall return his Advanced Practice Nurse certificate to him.
+
+[15/2005 wef 01/04/2006]
+
+(4) Any person who fails to comply with subsection (3) or (3A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 (5) Where the registration or enrolment of a person has been suspended under subsection (2), the person shall not be regarded as being registered or enrolled, as the case may be, for the purposes of this Act.
 
@@ -516,19 +594,9 @@ the Board may take any action under this section in relation to both his registr
 
 ### Costs
 
-20\.—(1) Where the Board is satisfied that a registered nurse, an enrolled nurse or a registered midwife —
+20\.—(1) Where the Board is satisfied that there are grounds under section 19(1) (a), (b), (d), (e) or (f) to exercise its powers against a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse, the Board may, in addition to any power which the Board may exercise under section 19, order the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, as the case may be, to pay to the Board such sums as the Board thinks fit in respect of the costs and expenses of the inquiry by the Board.
 
-(a) has obtained his registration or enrolment fraudulently or by an incorrect statement;
-
-(b) has contravened or failed to comply with any condition imposed on him under section 17(2) or 19(2) or (7), or to which he is subject by virtue of section 46(4);
-
-(c) has been convicted of an offence in or outside Singapore which in the opinion of the Board renders him unfit to remain on the Register or the Roll;
-
-(d) has been guilty of any misconduct, or negligence, which in the opinion of the Board renders him unfit to remain on the Register or the Roll; or
-
-(e) is unable to perform satisfactorily the functions of a registered nurse, an enrolled nurse or a registered midwife, as the case may be, because of a mental or physical disability,
-
-the Board may, in addition to any power which the Board may exercise under section 19, order him to pay to the Board such sums as the Board thinks fit in respect of the costs and expenses of the inquiry by the Board.
+[15/2005 wef 01/04/2006]
 
 (2) The High Court shall have jurisdiction to tax the sums ordered to be paid under subsection (1).
 
@@ -536,7 +604,7 @@ the Board may, in addition to any power which the Board may exercise under secti
 
 ### Appeal
 
-21\.—(1) Any person who is aggrieved by a decision of the Board under section 19(1) or (2) may, within 3 months of the date of the decision or within such further period as the High Court may allow, appeal to the Court against the decision.
+21\.—(1) Any person who is aggrieved by a decision of the Board under section 19(2) or (2A) may, within 3 months of the date of the decision or within such further period as the High Court may allow, appeal to the Court against the decision.
 
 (2) There shall be no appeal from a decision of the High Court.
 
@@ -546,11 +614,19 @@ the Board may, in addition to any power which the Board may exercise under secti
 
 ### Application for re-registration or re-enrolment
 
-23\.—(1) A person whose registration or enrolment has been cancelled under section 19(1) may apply to the Board to be re-registered or re-enrolled.
+23\.—(1) A person whose ––
 
-(2) The Board may, after considering all relevant circumstances, and upon the compliance by the applicant with all conditions imposed by the Board, if any, and the payment of the prescribed fee, re-register or re-enrol him.
+(a) registration or enrolment has been cancelled under section 19(2); or
 
-(3) Where the registration or enrolment of a person has been cancelled on any of the grounds referred to in section 19(1)(b) to (e), no application for the re-registration or re-enrolment of that person shall be made to the Board —
+(b) certification as an Advanced Practice Nurse has been cancelled under section 19(2A) or (2B),
+
+may apply to the Board to be re-registered as a registered nurse or registered midwife, re-enrolled as an enrolled nurse or re-certified as an Advanced Practice Nurse.
+
+[15/2005 wef 01/04/2006]
+
+(2) The Board may, after considering all relevant circumstances, and upon the compliance by the applicant with all conditions imposed by the Board, if any, and the payment of the prescribed fee, re-register or re-enrol him or re-certify him as an Advanced Practice Nurse.
+
+(3) Where the registration or enrolment of a person or certification of an Advanced Practice Nurse has been cancelled on any of the grounds referred to in section 19(1)(b) to (e), no application for the re-registration, re-enrolment or re-certification of that person shall be made to the Board —
 
 (a) before the expiration of 3 years from the date of the cancellation; or
 
@@ -576,7 +652,7 @@ OFFENCES
 
 (b) not being a qualified midwife, takes or uses the name or title of midwife or its equivalent in any language, either alone or in combination with any other words or letters, or any name, title, addition, description, uniform or badge, implying that he is a qualified midwife or that he is qualified to practise midwifery;
 
-(c) being a person whose name is included in any part of the Register of Nurses or Roll, takes or uses any name, title, addition or description or otherwise does any act which falsely implies that his name is included in some other part of the Register of Nurses or Roll, as the case may be;
+(c) being a person whose name is included in any part of the Register or Roll, takes or uses any name, title, addition or description or otherwise does any act which falsely implies that his name is included in some other part of the Register or Roll, as the case may be;
 
 (d) knowing that some other person is not a qualified nurse and with intent to deceive, makes any statement or does any act calculated to suggest that such other person is a nurse or qualified nurse; or
 
@@ -700,21 +776,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART V
 
-NURSE SPECIALISTS
+ADVANCED PRACTICE NURSES
 
 ### Interpretation of this Part
 
 31\. In this Part —
 
-“nurse specialist” means a person who is registered under section 32 as a nurse specialist;
+“Advanced Practice Nurse certificate” means an Advanced Practice Nurse certificate issued under section 32;
 
-“nurse specialist certificate” means a nurse specialist certificate issued under section 32;
+“Advanced Practice Nurse Register” means the Advanced Practice Nurse Register kept under section 32.
 
-“Nurse Specialist Register” means the Nurse Specialist Register kept under section 32.
+[15/2005 wef 01/04/2006]
 
-### Registration of nurse specialists, etc.
+### Certification of Advanced Practice Nurses, etc.
 
-32\.—(1) The Registrar shall keep and maintain a register to be called the Nurse Specialist Register which shall consist of such parts as the Board may determine.
+32\.—(1) The Registrar shall keep and maintain a register to be called the Advanced Practice Nurse Register which shall consist of such parts as the Board may determine.
 
 (2) A registered nurse who —
 
@@ -724,53 +800,75 @@ NURSE SPECIALISTS
 
 (c) has fulfilled such further conditions as may be specified by the Board,
 
-may apply to the Board to be registered as a nurse specialist.
+shall be eligible to apply to the Board to be certified as an Advanced Practice Nurse.
 
 (3) Upon the approval of an application referred to in subsection (2), the Board shall —
 
-(a) register the applicant as a nurse specialist in such part of the Nurse Specialist Register as the Board considers appropriate to his case; and
+(a) register the applicant as an Advanced Practice Nurse in such part of the Advanced Practice Nurse Register as the Board considers appropriate to his case; and
 
-(b) issue to him a nurse specialist certificate.
+(b) upon payment of the prescribed fee, issue to him an Advanced Practice Nurse certificate.
 
-(4) The Board may, with the approval of the Minister, make regulations —
+(4) Notwithstanding subsection (2), the Board may refuse to certify any person as an Advanced Practice Nurse who, in the opinion of the Board —
 
-(a) to provide for the form of the Nurse Specialist Register and the manner in which it shall be kept;
+(a) is not of good reputation and character;
 
-(b) to regulate the alteration or correction of the Nurse Specialist Register;
+(b) has had his certification as an Advanced Practice Nurse or its equivalent in any territory outside Singapore withdrawn, suspended or cancelled; or
 
-(c) to provide for matters relating to the registration of persons as nurse specialists;
+(c) because of a mental or physical disability, is unable to perform satisfactorily the functions of an Advanced Practice Nurse.
 
-(d) to prescribe circumstances by which such registration may be cancelled, and to regulate the cancellation and restoration of such registration;
+(5) Where the Board refuses to certify any person as an Advanced Practice Nurse, the Board shall, by notice in writing, inform him of such refusal.
 
-(e) to provide for appeals by persons against a refusal of the Board to register them as nurse specialists or the cancellation of their registrations;
+(6) Any person who is aggrieved by a refusal of the Board to certify him as an Advanced Practice Nurse may, within one month of the notice given under subsection (5), appeal to the Minister whose decision shall be final.
 
-(f) to regulate the issue of nurse specialist certificates and to prescribe the circumstances for their cancellation;
+(7) The Registrar may disclose, in accordance with any prescribed conditions, any information in the Advanced Practice Nurse Register to any prescribed person.
+
+(8) The Board may, with the approval of the Minister, make regulations —
+
+(a) to provide for the form of the Advanced Practice Nurse Register and the manner in which it shall be kept;
+
+(b) to regulate the alteration or correction of the Advanced Practice Nurse Register;
+
+(c) to provide for matters relating to the certification of persons as Advanced Practice Nurses;
+
+(d) to regulate the re-certification of an Advanced Practice Nurse whose certification has been cancelled;
+
+(e) to regulate the procedure for appeals by any person against a refusal of the Board to certify him as an Advanced Practice Nurse or the cancellation of his certification;
+
+(f) to provide for the form of the Advanced Practice Nurse certificate;
 
 (g) to prescribe the fees payable in respect of —
 
-(i) an application for registration as a nurse specialist; and
+(i) an application for certification as an Advanced Practice Nurse; and
 
-(ii) a restoration of such registration; and
+(ii) a restoration of such certification; and
 
-(h) to regulate the practice and conduct of nurse specialists, including the use of titles and qualifications.
+(h) to regulate the practice and conduct of Advanced Practice Nurses, including the use of titles and qualifications.
 
-### Publication of list of nurse specialists
+[15/2005 wef 01/04/2006]
 
-33\. The Registrar shall, from time to time, prepare and publish in theGazettea list of the names, addresses and qualifications of all nurse specialists.
+### Publication of list of nurse Advanced Practice Nurses
+
+33\. The Registrar shall, from time to time, prepare and publish in theGazettea list of the names, addresses and qualifications of all Advanced Practice Nurses.
 
 ### Certificate of Registrar
 
-34\. A certificate purporting to be under the hand of the Registrar to the effect that, at any time or during any period specified in the certificate, any person was or was not a nurse specialist, or had or did not have in force a nurse specialist certificate, or as to any entry in the Nurse Specialist Register, or the removal from the Nurse Specialist Register of any entry shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
+34\. A certificate purporting to be under the hand of the Registrar to the effect that, at any time or during any period specified in the certificate, any person was or was not an Advanced Practice Nurse, or had or did not have in force an Advanced Practice Nurse certificate, or as to any entry in the Advanced Practice Nurse Register, or the removal from the Advanced Practice Nurse Register of any entry shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
 
-### False assumption of title of nurse specialist, etc.
+### False assumption of title of Advanced Practice Nurse, etc.
 
 35\. Any person who —
 
-(a) not being a nurse specialist, takes or uses the name or title of nurse specialist in any language, either alone or in combination with any other words or letters, or any name, title, addition, description, uniform or badge, implying that he is a nurse specialist;
+(a) not being an Advanced Practice Nurse, takes or uses —
 
-(b) knowing that some other person is not a nurse specialist and with intent to deceive, makes any statement or does any act calculated to suggest that such other person is a nurse specialist,
+(i) the name or title of Advanced Practice Nurse in any language, either alone or in combination with any other words or letters; or
+
+(ii) any name, title, addition, description, uniform or badge, implying that he is an Advanced Practice Nurse or is qualified to practise a specialised branch of nursing; or
+
+(b) knowing that some other person is not an Advanced Practice Nurse and with intent to deceive, makes any statement or does any act calculated to suggest that such other person is an Advanced Practice Nurse or is qualified to practise a specialised branch of nursing,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[15/2005 wef 01/04/2006]
 
 ## PART VI
 
@@ -804,11 +902,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 37\.—(1) The Board may appoint one or more committees, to be known as Complaints Committees, to investigate any complaint or information in respect of any of the following matters:
 
-(a) the conviction of a registered nurse, enrolled nurse or registered midwife of an offence which renders him unfit to remain on the Register or Roll;
+(a) the conviction of a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse of an offence which renders him unfit to remain on the Register or Roll or to practise as an Advanced Practice Nurse;
 
-(b) any misconduct, or negligence, of a registered nurse, enrolled nurse or registered midwife which renders him unfit to remain on the Register or Roll; or
+(b) any misconduct, or negligence, of a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse which renders him unfit to remain on the Register or Roll or to practise as an Advanced Practice Nurse; or
 
-(c) the physical or mental fitness of a registered nurse, enrolled nurse or registered midwife to perform his functions.
+(c) the physical or mental fitness of a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse to perform his functions.
 
 (2) A Complaints Committee shall comprise such number of members as the Board may determine, and the members may include members of the Board.
 
@@ -820,7 +918,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (6) A Complaints Committee shall, within 3 months from the date a complaint or matter is referred to it or such further period as the Board may grant, complete its investigation on the complaint or matter and report its findings and recommendation to the Board.
 
-(7) A member of the Board who is a member of a Complaints Committee investigating any complaint or matter against a registered nurse, enrolled nurse or registered midwife shall not take part in any deliberation of the Board under section 19.
+(7) A member of the Board who is a member of a Complaints Committee investigating any complaint or matter against a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse shall not take part in any deliberation of the Board under section 19.
 
 ### Powers of Complaints Committees to require attendance of witnesses, etc.
 
@@ -872,9 +970,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
 
+(6) The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[15/2005 wef 01/04/2006]
+
 ### No action against Board in absence of bad faith
 
 43\. No action or proceeding shall lie against the Board, any committee appointed by the Board, a Complaints Committee, or any member or employee of the Board, committee or Complaints Committee for any act or thing done under this Act unless it is proved that the act or thing was done in bad faith or with malice.
+
+### Composition of offences
+
+43A\.—(1) The Board may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) $1,000,
+
+whichever is the lower.
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(3) The Board may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+[15/2005 wef 01/04/2006]
 
 ### Power of Board to make regulations
 
@@ -890,7 +1008,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) regulate the renewal of temporary registration or enrolment under section 16(3);
 
-(e) regulate the issue of practising certificates;
+(e) regulate the grant and renewal of practising certificates, including prescribing conditions for such grant and renewal;
+
+[15/2005 wef 01/04/2006]
 
 (f) regulate the procedure by which the Board takes action under section 19;
 
@@ -1007,6 +1127,11 @@ The Nurses and Midwives Act 1999 repealed the Nurses and Midwives Act (Chapter 2
 
 |2.|**2000 Revised Edition—Nurses and Midwives Act (Chapter 209)**|
 ||Date of operation|30 December 2000|
+|3.|**Act 15 of 2005—Nurses and Midwives (Amendment) Act 2005**|
+||Date of First Reading|10 March 2005|
+|||(Bill No. 6/2005 published on 11 March 2005)|
+||Date of Second and Third Readings|21 April 2005|
+||Date of commencement|1 April 2006|
 ## COMPARATIVE TABLE
 
 Nurses and Midwives Act
