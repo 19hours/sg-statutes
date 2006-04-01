@@ -1098,7 +1098,7 @@ but there shall be payable out of such property any expenses (including the remu
 
 (a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
 
-(b) where such an order has been made and, before the presentation of the petition for the winding up of the company by the High Court, such a resolution had been passed by the company, the time of the passing of the resolution; and
+(b) where such an order has been made and, before the making of the application for the winding up of the company by the High Court, such a resolution had been passed by the company, the time of the passing of the resolution; and
 
 [42/2005 wef 01/04/2006]
 
@@ -3088,7 +3088,7 @@ Offences
 
 Description*
 
-Moneylenders Act(Cap\. 188) 
+Moneylenders Act (Cap\. 188) 
 
 183. Section 8
 
@@ -3177,6 +3177,11 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|12 October 2004|
 |13.|**G. N. No. S 579/2005—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2005**|
 ||Date of commencement|9 September 2005|
+|14.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 April 2006 (item (11) of the First Schedule)|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
