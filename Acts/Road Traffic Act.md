@@ -330,6 +330,30 @@
 
 - [111J Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
+[**Part VB LICENSING OF BUS INTERCHANGE OPERATORS**](#Part-VB)
+
+- [111K Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [111L Operating bus interchange without licence](#Operating-bus-interchange-without-licence)
+
+- [111M Licence to operate bus interchange](#Licence-to-operate-bus-interchange)
+
+- [111N Matters to be considered by Authority in granting licence](#Matters-to-be-considered-by-Authority-in-granting-licence)
+
+- [111O Conditions of licence](#Conditions-of-licence)
+
+- [111P Modification of licence conditions](#Modification-of-licence-conditions)
+
+- [111Q Directions affecting licensees](#Directions-affecting-licensees)
+
+- [111R Suspension or cancellation of licence, etc.](#Suspension-or-cancellation-of-licence-etc)
+
+- [111S Renewal of licence](#Renewal-of-licence)
+
+- [111T Appeal to Minister](#Appeal-to-Minister)
+
+- [111U Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
+
 [**Part VI PROVISIONS AS TO USE OF HIGHWAYS**](#Part-VI)
 
 - [112 Issue by Minister of highway code for guidance of users of roads](#Issue-by-Minister-of-highway-code-for-guidance-of-users-of-roads)
@@ -750,9 +774,11 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 [33/93]
 
-(2) In this section and sections 19(3)(f) and 34 (1) (r), “heavy vehicle” has the same meaning as in the Parking Places Act.
+(2) In this section and sections 19(3)(f) and 34(1)(r), “heavy vehicle” has the same meaning as in the Parking Places Act.
 
 [33/93]
+
+[4/2006 wef 27/02/2006]
 
 ### Charge of tax on vehicles
 
@@ -1176,8 +1202,6 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (iii) has become wholly unfit for further use;
 
-[4/2006 wef 27/02/2006]
-
 (e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs; or
 
 [7/90; 33/93]
@@ -1193,6 +1217,8 @@ shall be guilty of an offence and shall be liable on conviction —
 (3) Any person who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
 
 [45/99]
+
+[4/2006 wef 27/02/2006]
 
 ### General licences
 
@@ -1460,11 +1486,11 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 ### Rules for purposes of this Part
 
-34\. The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
-
-(1) The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
+34\.—(1) The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
 
 (a) to regulate the registration and licensing of vehicles, to prescribe the forms of application for and the contents of vehicle licences, and to provide special facilities for the licensing of motor vehicles brought into Singapore from places outside Singapore;
+
+(b) [Deleted by Act 4/2006 wef 27/02/2006]
 
 (c) to prescribe the size, shape and character of the identification marks or the signs to be fixed on any vehicle and the manner in which those marks or signs are to be secured, sealed, displayed and rendered easily distinguishable whether by night or by day and to prohibit those marks, signs and seals from being tampered with;
 
@@ -1512,7 +1538,7 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (a) prescribe the qualifications of persons who may be registered as electronic service agents;
 
-(b) provide for the inspection by the Authority or any person authorised in writing by the Authority of records and accounts kept by electronic service agents in compliance with a condition imposed under section 33A(1);
+(b) provide for the inspection by the Authority or any person authorised in writing by the Authority of records and accounts kept by electronic service agents in compliance with a condition imposed under section 33A(1) ;
 
 (c) provide for the cancellation or suspension by the Authority of registrations of electronic service agents;
 
@@ -1526,7 +1552,7 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (h) prescribe the fees for the assignment of authentication codes and accounts with the electronic service, the cancellation or suspension of any authentication code or account with the electronic service at the request of the holder thereof, the registration of electronic service agents, the use of the electronic service and the correction or amendment referred to in paragraph (g); and
 
-(i) prescribe anything which is permitted or required to be prescribed under section 33B.
+(i) prescribe anything which is permitted or required to be prescribed under section 33B .
 
 [4/2006 wef 27/02/2006]
 
@@ -2248,6 +2274,8 @@ LICENSING OF DRIVING INSTRUCTORS AND DRIVING SCHOOLS
 
 (4) A driving instructor may, within 14 days of the receipt of the notice referred to in subsection (3), appeal in writing against the revocation or suspension to the Minister whose decision shall be final.
 
+[4/2006 wef 27/02/2006]
+
 (5) An order of revocation or suspension shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the driving instructor concerned of the order.
 
 (6) If within that period the driving instructor concerned appeals to the Minister, the order shall not take effect until it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
@@ -2810,6 +2838,8 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 [4/2006 wef 27/02/2006]
 
+(3) [Deleted by Act 4/2006 wef 27/02/2006]
+
 (4) A person convicted of an offence under subsection (1) shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification —
 
 (a) in the case of a first offence, be disqualified from holding or obtaining a driving licence for a period of not less than one year; and
@@ -2833,6 +2863,8 @@ any medical practitioner treating such person for his injury shall, if so direct
 “overall height”, in relation to a heavy motor vehicle, means the distance between the surface on which the vehicle rests and the highest point of the vehicle, and where it is carrying a load the highest point of its load.
 
 [9/85]
+
+[4/2006 wef 27/02/2006]
 
 80\. [Repealed by Act 4/2006 wef 27/02/2006]
 
@@ -3060,6 +3092,8 @@ Miscellaneous
 
 [28/95]
 
+[4/2006 wef 27/02/2006]
+
 (2) An examination for the purposes of this section shall be carried out by a person authorised by the Registrar (referred to in this section as an authorised examiner).
 
 (3) Where a test certificate is refused, the authorised examiner shall specify the grounds of the refusal, and a person aggrieved by the refusal may appeal to the Registrar, and on such appeal the Registrar shall cause a further examination to be made and may issue or refuse to issue a test certificate.
@@ -3090,9 +3124,9 @@ Miscellaneous
 
 (l) the keeping of records by an authorised examiner and the furnishing of returns and information to the Registrar by the authorised examiner ; and
 
-[28/95]
-
 (m) the submission to the Authority of documents specified by the Authority in support of any matter examined.
+
+[28/95]
 
 [4/2006 wef 27/02/2006]
 
@@ -3780,6 +3814,248 @@ the Authority shall give notice in writing to the licensee of the date by which 
 
 [1/2003]
 
+## PART VB
+
+LICENSING OF BUS INTERCHANGE OPERATORS
+
+### Interpretation of this Part
+
+111K\. In this Part, unless the context otherwise requires ––
+
+“bus interchange” means a terminal or station with purpose-built facilities for the commencement or termination of one or more bus services and for the boarding or alighting of bus passengers;
+
+“bus service” means a service that is provided to any person upon the payment of a fare using one or more buses operating on predetermined timetables and routes;
+
+“bus service licensee” means the holder of a bus service licence within the meaning of the Public Transport Council Act (Cap. 259B);
+
+“licence” means a licence granted under section 111M;
+
+“licensee” means the holder of a licence.
+
+[4/2006 wef 01/04/2006]
+
+### Operating bus interchange without licence
+
+111L\.—(1) No person except the Authority or a licensee shall operate any bus interchange.
+
+[4/2006 wef 01/04/2006]
+
+(2) Any person who operates any bus interchange in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+[4/2006 wef 01/04/2006]
+
+(3) Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Part and shall have the power to impose the full penalty or punishment in respect of any such offence.
+
+[4/2006 wef 01/04/2006]
+
+### Licence to operate bus interchange
+
+111M\.—(1) Subject to the provisions of this Part, the Authority may, on the application of any person, grant a licence to that person to operate any bus interchange for such period as may be specified in the licence.
+
+[4/2006 wef 01/04/2006]
+
+(2) An application under subsection (1) shall be made to the Authority in such form and manner as the Authority may require.
+
+[4/2006 wef 01/04/2006]
+
+(3) A licensee shall be authorised under this Act to operate the bus interchange specified in the licence for the period specified in the licence unless the licence is earlier revoked, cancelled or suspended under the provisions of this Act.
+
+[4/2006 wef 01/04/2006]
+
+(4) The fee for a licence to operate any bus interchange shall be such amount as may be prescribed.
+
+[4/2006 wef 01/04/2006]
+
+### Matters to be considered by Authority in granting licence
+
+111N\. In exercising its discretion to grant a licence, the Authority shall have regard to the financial standing of the applicant and his ability to maintain and operate an adequate, satisfactory, safe and efficient bus interchange.
+
+[4/2006 wef 01/04/2006]
+
+### Conditions of licence
+
+111O\. In granting a licence, the Authority may impose such conditions as it thinks fit, including conditions relating to —
+
+(a) the extent, hours and general level of service;
+
+(b) the maintenance and operation of the bus interchange and any equipment therein;
+
+(c) the safety and security of persons using or engaged in any work at the bus interchange;
+
+(d) the maximum fees payable to the licensee by bus service licensees;
+
+(e) the conditions and use of the bus interchange by employees, agents, tenants and contractors of the licensee, by bus service licensees and by members of the public; and
+
+(f) the standards of performance to be complied with by the licensee in the maintenance and operation of the bus interchange.
+
+[4/2006 wef 01/04/2006]
+
+### Modification of licence conditions
+
+111P\.—(1) Subject to this section, the Authority may modify the conditions of a licence.
+
+[4/2006 wef 01/04/2006]
+
+(2) Before making any modification to the conditions of a licence under subsection (1), the Authority shall give notice to the licensee —
+
+(a) stating that it proposes to make the modification in the manner specified in the notice; and
+
+(b) specifying the time (not being less than 28 days from the date of service of the notice on such licensee) within which the licensee may make written representations to the Authority with respect to the proposed modification.
+
+[4/2006 wef 01/04/2006]
+
+(3) Upon receipt of any written representation referred to in subsection (2)(b), the Authority shall consider such representation and may —
+
+(a) reject the representation; or
+
+(b) amend the proposed modification in such manner as it thinks fit having regard to the representation.
+
+[4/2006 wef 01/04/2006]
+
+(4) Subject to subsection (6), if the Authority rejects any written representation under subsection (3)(a) or amends any proposed modification to the conditions of a licence under subsection (3)(b), the modification as specified in the notice or as amended by the Authority, as the case may be, shall take effect on a date specified in writing by the Authority.
+
+[4/2006 wef 01/04/2006]
+
+(5) Subject to subsection (6), if no written representation is received by the Authority within the time specified under subsection (2)(b) or if any written representation made under subsection (2)(b) is subsequently withdrawn, the modification as specified in the notice shall take effect on a date specified in writing by the Authority.
+
+[4/2006 wef 01/04/2006]
+
+(6) Any modification to the conditions of a licence under subsection (4) or (5) shall not take effect —
+
+(a) during the period referred to in section 111T(1); and
+
+(b) where the licensee has appealed against the modification, until the determination of the appeal.
+
+[4/2006 wef 01/04/2006]
+
+### Directions affecting licensees
+
+111Q\.—(1) The Authority may give directions to any licensee on or in respect of the following matters:
+
+(a) the extent, hours and general level of service;
+
+(b) the maintenance and operation of the bus interchange and any equipment therein;
+
+(c) the safety and security of persons using or engaged in any work at the bus interchange;
+
+(d) the conditions and use of the bus interchange by employees, agents, tenants and contractors of the licensee, by bus service licensees and by members of the public; and
+
+(e) any other matter affecting the interests of the public in connection with the service provided by the licensee.
+
+[4/2006 wef 01/04/2006]
+
+(2) Any direction given under subsection (1) —
+
+(a) may require the licensee concerned (according to the circumstances of the case) to do, or not to do, such things as are specified or described in the direction;
+
+(b) shall take effect at such time as specified in the direction; and
+
+(c) may be revoked or modified at any time by the Authority.
+
+[4/2006 wef 01/04/2006]
+
+(3) Before giving any direction to any licensee under subsection (1), the Authority —
+
+(a) shall give notice to the licensee —
+
+(i) informing him of the proposed direction and setting out its effect; and
+
+(ii) specifying the time within which he may make written representations to the Authority with respect to the proposed direction,
+
+unless the Authority, in respect of any particular direction, considers that it is not practicable or desirable that such notice be given; and
+
+(b) shall consider any representation made by the licensee.
+
+[4/2006 wef 01/04/2006]
+
+(4) Every licensee shall, at his own expense, comply with every direction given to him by the Authority under this section.
+
+[4/2006 wef 01/04/2006]
+
+### Suspension or cancellation of licence, etc.
+
+111R\.—(1) Subject to subsection (2), if any licensee —
+
+(a) contravenes, or fails to secure the compliance by his employees, agents or contractors with, any of the conditions of his licence or any direction given by the Authority under section 111Q;
+
+(b) goes into compulsory or voluntary liquidation other than for the purpose of reconstruction or amalgamation; or
+
+(c) makes any assignment to or enters into a composition with his creditors,
+
+the Authority may, by notice in writing and without any compensation to the licensee or any other person, do all or any of the following:
+
+(i) rectify the non-compliance and recover the costs of such rectification from the licensee;
+
+(ii) suspend or cancel the licence of the licensee;
+
+(iii) require the licensee to pay, within a specified period, a financial penalty of such amount not exceeding $100,000 as the Authority thinks fit.
+
+[4/2006 wef 01/04/2006]
+
+(2) The Authority shall, before taking any action under subsection (1), give the licensee notice in writing of its intention to do so and shall call upon the licensee to show cause within such time as may be specified by the Authority as to why such action ought not to be taken.
+
+[4/2006 wef 01/04/2006]
+
+(3) Any cost recoverable from any licensee under subsection (1)(i) and any financial penalty payable by any licensee under subsection (1)(iii) shall be recoverable as a debt due to the Authority from the licensee, and the licensee’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
+
+[4/2006 wef 01/04/2006]
+
+### Renewal of licence
+
+111S\.—(1) The Authority may, on the application of a licensee, renew the licence on such conditions as it thinks fit.
+
+[4/2006 wef 01/04/2006]
+
+(2) The fee for any renewal of licence shall be such amount as may be prescribed.
+
+[4/2006 wef 01/04/2006]
+
+### Appeal to Minister
+
+111T\.—(1) Any licensee aggrieved by —
+
+(a) any licence condition imposed by the Authority under section 111O;
+
+(b) any modification to the conditions of his licence under section 111P;
+
+(c) any direction given by the Authority under section 111Q;
+
+(d) any decision made by the Authority under section 111R(1); or
+
+(e) any refusal of the Authority to renew his licence under section 111S,
+
+may, within 14 days of the receipt of the notice relating to the relevant matter from the Authority, appeal to the Minister.
+
+[4/2006 wef 01/04/2006]
+
+(2) Subject to section 111P(6) and subsection (3) and unless the Minister otherwise directs, where an appeal is lodged by a licensee under subsection (1) —
+
+(a) the licensee shall comply or continue to comply with any licence condition, direction or decision being appealed against; and
+
+(b) the licence condition, direction or decision shall be effective and enforceable against the licensee,
+
+until the determination of the appeal.
+
+[4/2006 wef 01/04/2006]
+
+(3) Where the licensee appeals under subsection (1) against any refusal to renew his licence and his licence expires at any time from the date of receipt of the Authority’s notice of refusal to the date of determination of his appeal, the licensee shall be deemed to have a licence to operate the bus interchange, in respect of which his licence was first granted, from the date of expiry of his licence to the date of determination of the appeal.
+
+[4/2006 wef 01/04/2006]
+
+(4) The Minister may determine an appeal under this section by confirming, varying or reversing any decision of the Authority or by amending any licence condition or direction affecting the licensee.
+
+[4/2006 wef 01/04/2006]
+
+(5) The decision of the Minister in any appeal shall be final.
+
+[4/2006 wef 01/04/2006]
+
+### Rules for purposes of this Part
+
+111U\. The Authority may, with the approval of the Minister, make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect.
+
+[4/2006 wef 01/04/2006]
+
 ## PART VI
 
 PROVISIONS AS TO USE OF HIGHWAYS
@@ -4138,7 +4414,15 @@ and the surplus, if any, shall be paid to the owner of the vehicle or, if not cl
 
 (b) the person so carried is a sick or injured person carried in a case of emergency.
 
+(c) [Deleted by Act 4/2006 wef 27/02/2006]
+
+[4/2006 wef 27/02/2006]
+
 (2) The owner of the goods vehicle shall in all cases also be liable for such act equally with and independently of the person actually driving or using the goods vehicle unless he proves that he had taken every reasonable precaution to prevent the commission of any offence under this section.
+
+(3) [Deleted by Act 4/2006 wef 27/02/2006]
+
+(4) [Deleted by Act 4/2006 wef 27/02/2006]
 
 (5) Any person who while being carried on or being permitted to ride on a goods vehicle —
 
@@ -4552,13 +4836,19 @@ shall be guilty of an offence.
 
 ### Property left in public service vehicles
 
-144\.—(1) Every driver or conductor of a public service vehicle shall immediately deposit at a police station or at the office of the Registrar all money or other property left in any public service vehicle of which he is in charge and not claimed by the owner thereof.
+144\.—(1) Every driver or conductor of a public service vehicle shall immediately deposit at a place prescribed by the Authority all money or other property left in any public service vehicle of which he is in charge and not claimed by the owner thereof.
+
+[4/2006 wef 01/04/2006]
 
 (2) Any driver or conductor who neglects or omits to so deposit all money or other property shall be guilty of an offence.
 
-(3) The Authority may make rules for the disposal of money or other property deposited at a police station or the office of the Registrar under subsection (1).
+(3) The Authority may make rules —
 
-[28/95]
+(a) to prescribe one or more places for the purposes of subsection (1); and
+
+(b) for the disposal of money or other property deposited under subsection (1).
+
+[4/2006 wef 01/04/2006]
 
 ### Savings
 
@@ -4901,6 +5191,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|17 January 2006|
 ||Date of commencement|27 February 2006|
 |||(except sections 17, 22 and 23)|
+|50.|**Act 4 of 2006—Road Traffic (Amendment) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 42/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 April 2006|
+|||(sections 17, 22 and 23)|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
