@@ -2868,11 +2868,11 @@ Winding up
 
 ### General provisions as to winding up
 
-42\.—(1) The persons who may petition under the Companies Act (Cap. 50) for the winding up of the affairs of an insurer or insurance broker registered under this Act, or for the continuance of the winding up of the affairs of such an insurer or insurance broker subject to the supervision of the court, shall include the Authority.
+42\.—(1) The persons who may apply under the Companies Act (Cap. 50) for the winding up of the affairs of an insurer or insurance broker registered under this Act, or for the continuance of the winding up of the affairs of such an insurer or insurance broker subject to the supervision of the court, shall include the Authority.
 
 [11/86; 41/2001]
 
-(2) The Authority may, in accordance with the provisions of the Companies Act, present a petition for the winding up of an insurer or insurance broker registered under this Act if the insurer or insurance broker has contravened or failed to comply with any of the provisions of this Act.
+(2) The Authority may, in accordance with the provisions of the Companies Act, apply for the winding up of an insurer or insurance broker registered under this Act if the insurer or insurance broker has contravened or failed to comply with any of the provisions of this Act.
 
 [11/86; 41/2001]
 
@@ -2910,7 +2910,7 @@ Winding up
 
 [22/73; 11/86]
 
-(2) Where the Authority gives an insurer a direction under section 41(1)(e) but, on a petition for the affairs of the insurer to be wound up by the court, the court is satisfied that the insurer will be able to pay its debts in full within 12 months or such longer period as the court thinks reasonable, the court may (if it thinks fit) order the affairs of the insurer to be wound up only as regards the insurance fund maintained for the class of insurance business to which the direction relates.
+(2) Where the Authority gives an insurer a direction under section 41(1)(e) but, on an application for the affairs of the insurer to be wound up by the court, the court is satisfied that the insurer will be able to pay its debts in full within 12 months or such longer period as the court thinks reasonable, the court may (if it thinks fit) order the affairs of the insurer to be wound up only as regards the insurance fund maintained for the class of insurance business to which the direction relates.
 
 [11/86]
 
@@ -2930,7 +2930,7 @@ Winding up
 
 (c) sections 259, 260, 319, 329, 330 and 332 to 335 of that Act shall not apply.
 
-(7) Where such an order is made, the court may, at any time, on the application of the liquidator or of any person who might petition for the affairs of the insurer to be wound up —
+(7) Where such an order is made, the court may, at any time, on the application of the liquidator or of any person who might apply for the affairs of the insurer to be wound up —
 
 (a) substitute an order for the affairs of the insurer to be wound up generally; and
 
@@ -3042,7 +3042,7 @@ is paid to the person or policy owner as soon as reasonably practicable after th
 
 (i) a resolution has been passed after 1st January 1987 in accordance with the provisions of the Companies Act (Cap. 50) for the voluntary winding up of the insurer, otherwise than merely for the purpose of reconstruction of the insurer or of amalgamation with another insurer;
 
-(ii) without any such resolution having being passed beforehand, an order has been made after that date for the winding up of the insurer by the High Court under the Companies Act on a petition presented after that date; or
+(ii) without any such resolution having being passed beforehand, an order has been made after that date for the winding up of the insurer by the High Court under the Companies Act on an application made after that date; or
 
 (iii) an order has been made after that date for the winding up of the insurer by the Registrar of Co-operative Societies under section 83 of the Co-operative Societies Act (Cap. 62);
 
@@ -3052,11 +3052,11 @@ is paid to the person or policy owner as soon as reasonably practicable after th
 
 (i) a provisional liquidator has been appointed in respect of the insurer under section 267 of the Companies Act;
 
-(ii) it has been proved, in any proceedings on a petition for the winding up of the insurer under the Companies Act (Cap. 50), to be unable to pay its debts; or
+(ii) it has been proved, in any proceedings on an application for the winding up of the insurer under the Companies Act (Cap. 50), to be unable to pay its debts; or
 
 (iii) an application has been made to the High Court under section 210 of the Companies Act for the sanction of a compromise or arrangement proposed between the insurer and its creditors or any class of them (whether or not any of its members are also parties thereto) and the terms of the compromise or arrangement provide for reducing the liabilities or the benefits provided for under the insurer’s life policies,
 
-and the petition is presented or the application is made after that date.
+and the application referred to in sub-paragraph (ii) or (iii) is made after that date.
 
 [11/86]
 
@@ -4017,6 +4017,11 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 11/2005 published on 10 June 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
+|23.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 16 December 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1st April 2006 (Items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and (36) in the First Schedule; and the Third Schedule)|
 ## COMPARATIVE TABLE
 
 Insurance Act
