@@ -48,9 +48,9 @@
 
 - [21 Rules](#Rules)
 
-[**FIRST SCHEDULE Form of bill of sale**](#FIRST-SCHEDULE-Form-of-bill-of-sale)
+[**FIRST SCHEDULE Form of Bill of Sale**](#FIRST-SCHEDULE-Form-of-Bill-of-Sale)
 
-[**SECOND SCHEDULE Forms of statutory declaration**](#SECOND-SCHEDULE-Forms-of-statutory-declaration)
+[**SECOND SCHEDULE Forms of Statutory Declaration**](#SECOND-SCHEDULE-Forms-of-Statutory-Declaration)
 
 [**THIRD SCHEDULE Form of register**](#THIRD-SCHEDULE-Form-of-register)
 
@@ -294,13 +294,13 @@ FIRST SCHEDULE
 
 Section 6.
 
-Form of bill of sale
+Form of Bill of Sale
 
 SECOND SCHEDULE
 
 Sections 12 and 13
 
-Forms of statutory declaration
+Forms of Statutory Declaration
 
 THIRD SCHEDULE
 
@@ -349,3 +349,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 12/1993 published on 11 June 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|12.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 16 December 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006 (Item (4) of First Schedule — Amendment of Bills of Sale Act)|
