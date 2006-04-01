@@ -1,16 +1,14 @@
-**Diplomatic and Consular Relations Act 2005**
+**Diplomatic and Consular Relations Act**
 
-**(No. 8 of 2005)**
+**(CHAPTER 82A)**
 
 **Table of Contents**
 
 [**Long Title**](#Diplomatic-and-Consular-Relations-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,57 +30,33 @@
 
 - [8 Regulations](#Regulations)
 
-- [9 Repeal](#Repeal)
-
-- [10 Related amendment to Income Tax Act](#Related-amendment-to-Income-Tax-Act)
-
-- [11 Related amendment to Merchant Shipping Act](#Related-amendment-to-Merchant-Shipping-Act)
-
 [**FIRST SCHEDULE Vienna Convention on Diplomatic Relations**](#FIRST-SCHEDULE-Vienna-Convention-on-Diplomatic-Relations)
 
 [**SECOND SCHEDULE Vienna Convention on Consular Relations**](#SECOND-SCHEDULE-Vienna-Convention-on-Consular-Relations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Diplomatic and Consular Relations Act
 
-ACTS SUPPLEMENT
+(CHAPTER 82A)
 
-Published by Authority
+(Original Enactment: Act 8 of 2005)
 
-NO. 14]
+REVISED EDITION 2006
 
-Friday, April 29
+(1st April 2006)
 
-[2005
+An Act relating to diplomatic and consular privileges and immunities, and for other purposes.
 
-The following Act was passed by Parliament on 25th January 2005 and assented to by the President on 3rd February 2005:—
-
-Diplomatic and Consular Relations Act 2005
-
-(No. 8 of 2005)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-3rd February 2005.
-
-Date of Commencement: 1st May 2005
-
-An Act relating to diplomatic and consular privileges and immunities, and for other purposes, and to repeal the Consular Conventions Act (Chapter 52 of the 1985 Revised Edition) and the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Chapter 83 of the 1985 Revised Edition), and to make related amendments to the Income Tax Act (Chapter 134 of the 2004 Revised Edition) and the Merchant Shipping Act (Chapter 179 of the 1996 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st May 2005]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Diplomatic and Consular Relations Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Diplomatic and Consular Relations Act.
 
 ### Interpretation
 
@@ -107,6 +81,8 @@ DIPLOMATIC RELATIONS
 (b) a reference to a national of the receiving State shall be construed as a reference to a citizen of Singapore.
 
 (3) For the purposes of Article 32 of the Vienna Convention on Diplomatic Relations, a waiver by the head of the diplomatic mission of any State or any person for the time being performing his functions shall be deemed to be a waiver by that State.
+
+[UK Diplomatic Privileges 1964, s. 2 (2) and (3)]
 
 ## PART III
 
@@ -133,6 +109,8 @@ CONSULAR RELATIONS
 (6) The reference in Article 57 of the Vienna Convention on Consular Relations to the privileges and immunities provided in Chapter II of that Convention shall be construed as referring to the privileges and immunities provided in Section II of that Chapter.
 
 (7) The reference in Article 70 of the Vienna Convention on Consular Relations to the rules of international law concerning diplomatic relations shall be construed as a reference to Part II of this Act.
+
+[UK Consular Relations 1968, s. 1 (4), (5) and (9)]
 
 ### Powers of consular officers in relation to property in Singapore of deceased persons
 
@@ -202,6 +180,8 @@ if the first-mentioned person is not resident in Singapore —
 
 (12) In this section, “consular officer” means a consul-general, consul, vice-consul or consular agent representing a State to whom an exequatur or provisional or other authorisation to perform consular functions has been granted.
 
+[Consular Conventions 1985 Ed., ss. 2, 5, 6 and 8]
+
 ## PART IV
 
 GENERAL
@@ -216,33 +196,19 @@ GENERAL
 
 (4) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
+[UK Consular Relations 1968, s. 2; UK Diplomatic Privileges 1964, s. 3 (1)]
+
 ### Evidence
 
 7\. A certificate issued by or on behalf of the Minister shall be conclusive evidence on any question whether any person is entitled to any privilege or immunity under this Act.
+
+[UK Consular Relations 1968, s. 11; UK Diplomatic Privileges 1964, s. 4]
 
 ### Regulations
 
 8\.—(1) The Minister may make such regulations as are necessary or expedient for carrying out the purposes of this Act.
 
 (2) Any regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
-
-### Repeal
-
-9\. The Consular Conventions Act (Cap. 52) and the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83) are repealed.
-
-### Related amendment to Income Tax Act
-
-10\. Section 13(1) of the Income Tax Act (Cap. 134) is amended by deleting paragraph (b).
-
-### Related amendment to Merchant Shipping Act
-
-11\. Section 156 of the Merchant Shipping Act (Cap. 179) is amended by inserting, immediately after subsection (2), the following subsection:
-
-“
-
-(3) Where any foreign ship is wrecked on or near the coasts of Singapore, the consular officer of the country to which the ship may have belonged shall, in the absence of the owner and the master or other agent of the owner, be deemed to be the agent of the owner, so far as relates to the custody and disposal of the wrecked ship.
-
-”.
 
 FIRST SCHEDULE
 
@@ -268,41 +234,23 @@ Article 1
 
 For the purpose of the present Convention, the following expressions shall have the meanings hereunder assigned to them:
 
-(a)
+(a) the “head of the mission” is the person charged by the sending State with the duty of acting in that capacity;
 
-the “head of the mission” is the person charged by the sending State with the duty of acting in that capacity;
+(b) the “members of the mission” are the head of the mission and the members of the staff of the mission;
 
-(b)
+(c) the “members of the staff of the mission” are the members of the diplomatic staff, of the administrative and technical staff and of the service staff of the mission;
 
-the “members of the mission” are the head of the mission and the members of the staff of the mission;
+(d) the “members of the diplomatic staff” are the members of the staff of the mission having diplomatic rank;
 
-(c)
+(e) a “diplomatic agent” is the head of the mission or a member of the diplomatic staff of the mission;
 
-the “members of the staff of the mission” are the members of the diplomatic staff, of the administrative and technical staff and of the service staff of the mission;
+(f) the “members of the administrative and technical staff” are the members of the staff of the mission employed in the administrative and technical service of the mission;
 
-(d)
+(g) the “members of the service staff” are the members of the staff of the mission in the domestic service of the mission;
 
-the “members of the diplomatic staff” are the members of the staff of the mission having diplomatic rank;
+(h) a “private servant” is a person who is in the domestic service of a member of the mission and who is not an employee of the sending State;
 
-(e)
-
-a “diplomatic agent” is the head of the mission or a member of the diplomatic staff of the mission;
-
-(f)
-
-the “members of the administrative and technical staff” are the members of the staff of the mission employed in the administrative and technical service of the mission;
-
-(g)
-
-the “members of the service staff” are the members of the staff of the mission in the domestic service of the mission;
-
-(h)
-
-a “private servant” is a person who is in the domestic service of a member of the mission and who is not an employee of the sending State;
-
-(i)
-
-the “premises of the mission” are the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used for the purposes of the mission including the residence of the head of the mission.
+(i) the “premises of the mission” are the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used for the purposes of the mission including the residence of the head of the mission.
 
 Article 2
 
@@ -408,7 +356,7 @@ The class to which the heads of their missions are to be assigned shall be agree
 
 Article 16
 
-1\. Heads of mission shall take precedence in their respective classes in the order of the date and time of taking up their functions in accordance with Article l3.
+1\. Heads of mission shall take precedence in their respective classes in the order of the date and time of taking up their functions in accordance with Article 13.
 
 2\. Alterations in the credentials of a head of mission not involving any change of class shall not affect his precedence.
 
@@ -540,29 +488,17 @@ Article 34
 
 A diplomatic agent shall be exempt from all dues and taxes, personal or real, national, regional or municipal except:
 
-(a)
+(a) indirect taxes of a kind which are normally incorporated in the price of goods or services;
 
-indirect taxes of a kind which are normally incorporated in the price of goods or services;
+(b) dues and taxes on private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;
 
-(b)
+(c) estate, succession or inheritance duties levied by the receiving State, subject to the provisions of paragraph 4 of Article 39;
 
-dues and taxes on private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;
+(d) dues and taxes on private income having its source in the receiving State and capital taxes on investments made in commercial undertakings in the receiving State;
 
-(c)
+(e) charges levied for specific services rendered;
 
-estate, succession or inheritance duties levied by the receiving State, subject to the provisions of paragraph 4 of Article 39;
-
-(d)
-
-dues and taxes on private income having its source in the receiving State and capital taxes on investments made in commercial undertakings in the receiving State;
-
-(e)
-
-charges levied for specific services rendered;
-
-(f)
-
-registration, court or record fees, mortgage dues and stamp duty, with respect to immovable property, subject to the provisions of Article 23.
+(f) registration, court or record fees, mortgage dues and stamp duty, with respect to immovable property, subject to the provisions of Article 23.
 
 Article 35
 
@@ -630,13 +566,9 @@ Article 43
 
 The function of a diplomatic agent comes to an end,inter alia:
 
-(a)
+(a) on notification by the sending State to the receiving State that the function of the diplomatic agent has come to an end;
 
-on notification by the sending State to the receiving State that the function of the diplomatic agent has come to an end;
-
-(b)
-
-on notification by the receiving State to the sending State that, in accordance with paragraph 2 of Article 9, it refuses to recognize the diplomatic agent as a member of the mission.
+(b) on notification by the receiving State to the sending State that, in accordance with paragraph 2 of Article 9, it refuses to recognize the diplomatic agent as a member of the mission.
 
 Article 44
 
@@ -646,17 +578,11 @@ Article 45
 
 If diplomatic relations are broken off between two States, or if a mission is permanently or temporarily recalled:
 
-(a)
+(a) the receiving State must, even in case of armed conflict, respect and protect the premises of the mission, together with its property and archives;
 
-the receiving State must, even in case of armed conflict, respect and protect the premises of the mission, together with its property and archives;
+(b) the sending State may entrust the custody of the premises of the mission, together with its property and archives, to a third State acceptable to the receiving State;
 
-(b)
-
-the sending State may entrust the custody of the premises of the mission, together with its property and archives, to a third State acceptable to the receiving State;
-
-(c)
-
-the sending State may entrust the protection of its interests and those of its nationals to a third State acceptable to the receiving State.
+(c) the sending State may entrust the protection of its interests and those of its nationals to a third State acceptable to the receiving State.
 
 Article 46
 
@@ -694,13 +620,9 @@ Article 52
 
 The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 48:
 
-(a)
+(a) of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 48, 49 and 50;
 
-of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 48, 49 and 50;
-
-(b)
-
-of the date on which the present Convention will enter into force, in accordance with Article 51.
+(b) of the date on which the present Convention will enter into force, in accordance with Article 51.
 
 Article 53
 
@@ -766,11 +688,16 @@ Definitions
 
 Chapter I
 
-Consular Relations in General
+CONSULAR RELATIONS IN GENERAL
 
 Section I
 
-Establishment and Conduct of Consular Relations
+Establishment and Conduct of
+
+
+
+
+Consular Relations
 
 Article 2
 
@@ -804,61 +731,35 @@ Establishment of a consular post
 
 Article 5
 
-Consular Functions
+Consular functions
 
 Consular functions consist in:
 
-(a)
+(a) protecting in the receiving State the interests of the sending State and of its nationals, both individuals and bodies corporate, within the limits permitted by international law;
 
-protecting in the receiving State the interests of the sending State and of its nationals, both individuals and bodies corporate, within the limits permitted by international law;
+(b) furthering the development of commercial, economic, cultural and scientific relations between the sending State and the receiving State and otherwise promoting friendly relations between them in accordance with the provisions of the present Convention;
 
-(b)
+(c) ascertaining by all lawful means conditions and developments in the commercial, economic, cultural and scientific life of the receiving State, reporting thereon to the Government of the sending State and giving information to persons interested;
 
-furthering the development of commercial, economic, cultural and scientific relations between the sending State and the receiving State and otherwise promoting friendly relations between them in accordance with the provisions of the present Convention;
+(d) issuing passports and travel documents to nationals of the sending State, and visas or appropriate documents to persons wishing to travel to the sending State;
 
-(c)
+(e) helping and assisting nationals, both individuals and bodies corporate, of the sending State;
 
-ascertaining by all lawful means conditions and developments in the commercial, economic, cultural and scientific life of the receiving State, reporting thereon to the Government of the sending State and giving information to persons interested;
+(f) acting as notary and civil registrar and in capacities of a similar kind, and performing certain functions of an administrative nature, provided that there is nothing contrary thereto in the laws and regulations of the receiving State;
 
-(d)
+(g) safeguarding the interests of nationals, both individuals and bodies corporate, of the sending State in cases of successionmortis causain the territory of the receiving State, in accordance with the laws and regulations of the receiving State;
 
-issuing passports and travel documents to nationals of the sending State, and visas or appropriate documents to persons wishing to travel to the sending State;
+(h) safeguarding, within the limits imposed by the laws and regulations of the receiving State, the interests of minors and other persons lacking full capacity who are nationals of the sending State, particularly where any guardianship or trusteeship is required with respect to such persons;
 
-(e)
+(i) subject to the practices and procedures obtaining in the receiving State, representing or arranging appropriate representation for nationals of the sending State before the tribunals and other authorities of the receiving State, for the purpose of obtaining, in accordance with the laws and regulations of the receiving State, provisional measures for the preservation of the rights and interests of these nationals, where, because of absence or any other reason, such nationals are unable at the proper time to assume the defence of their rights and interests;
 
-helping and assisting nationals, both individuals and bodies corporate, of the sending State;
+(j) transmitting judicial and extra-judicial documents or executing letters rogatory or commissions to take evidence for the courts of the sending State in accordance with international agreements in force or, in the absence of such international agreements, in any other manner compatible with the laws and regulations of the receiving State;
 
-(f)
+(k) exercising rights of supervision and inspection provided for in the laws and regulations of the sending State in respect of vessels having the nationality of the sending State, and of aircraft registered in that State, and in respect of their crews;
 
-acting as notary and civil registrar and in capacities of a similar kind, and performing certain functions of an administrative nature, provided that there is nothing contrary thereto in the laws and regulations of the receiving State;
+(l) extending assistance to vessels and aircraft mentioned in sub-paragraph (k) of this Article and to their crews, taking statements regarding the voyage of a vessel, examining and stamping the ship’s papers, and, without prejudice to the powers of the authorities of the receiving State, conducting investigations into any incidents which occurred during the voyage, and settling disputes of any kind between the master, the officers and the seamen in so far as this may be authorized by the laws and regulations of the sending State;
 
-(g)
-
-safeguarding the interests of nationals, both individuals and bodies corporate, of the sending State in cases of successionmortis causain the territory of the receiving State, in accordance with the laws and regulations of the receiving State;
-
-(h)
-
-safeguarding, within the limits imposed by the laws and regulations of the receiving State, the interests of minors and other persons lacking full capacity who are nationals of the sending State, particularly where any guardianship or trusteeship is required with respect to such persons;
-
-(i)
-
-subject to the practices and procedures obtaining in the receiving State, representing or arranging appropriate representation for nationals of the sending State before the tribunals and other authorities of the receiving State, for the purpose of obtaining, in accordance with the laws and regulations of the receiving State, provisional measures for the preservation of the rights and interests of these nationals, where, because of absence or any other reason, such nationals are unable at the proper time to assume the defence of their rights and interests;
-
-(j)
-
-transmitting judicial and extra-judicial documents or executing letters rogatory or commissions to take evidence for the courts of the sending State in accordance with international agreements in force or, in the absence of such international agreements, in any other manner compatible with the laws and regulations of the receiving State;
-
-(k)
-
-exercising rights of supervision and inspection provided for in the laws and regulations of the sending State in respect of vessels having the nationality of the sending State, and of aircraft registered in that State, and in respect of their crews;
-
-(l)
-
-extending assistance to vessels and aircraft mentioned in sub-paragraph (k) of this Article and to their crews, taking statements regarding the voyage of a vessel, examining and stamping the ship’s papers, and, without prejudice to the powers of the authorities of the receiving State, conducting investigations into any incidents which occurred during the voyage, and settling disputes of any kind between the master, the officers and the seamen in so far as this may be authorized by the laws and regulations of the sending State;
-
-(m)
-
-performing any other functions entrusted to a consular post by the sending State which are not prohibited by the laws and regulations of the receiving State or to which no objection is taken by the receiving State or which are referred to in the international agreements in force between the sending State and the receiving State.
+(m) performing any other functions entrusted to a consular post by the sending State which are not prohibited by the laws and regulations of the receiving State or to which no objection is taken by the receiving State or which are referred to in the international agreements in force between the sending State and the receiving State.
 
 Article 6
 
@@ -972,7 +873,12 @@ Performance of diplomatic acts by consular officers
 
 Article 18
 
-Appointment of the same person by two or more States as a consular officer
+Appointment of the same person by two
+
+
+
+
+or more States as a consular officer
 
 Two or more States may, with the consent of the receiving State, appoint the same person as a consular officer in that State.
 
@@ -1024,7 +930,12 @@ Persons declared “non grata”
 
 Article 24
 
-Notification to the receiving State of appointments, arrivals and departures
+Notification to the receiving State of
+
+
+
+
+appointments, arrivals and departures
 
 1. The Ministry for Foreign Affairs of the receiving State or the authority designated by that Ministry shall be notified of:
 
@@ -1048,17 +959,11 @@ Termination of the functions of a member of a consular post
 
 The functions of a member of a consular post shall come to an endinter alia:
 
-(a)
+(a) on notification by the sending State to the receiving State that his functions have come to an end;
 
-on notification by the sending State to the receiving State that his functions have come to an end;
+(b) on withdrawal of theexequatur;
 
-(b)
-
-on withdrawal of theexequatur;
-
-(c)
-
-on notification by the receiving State to the sending State that the receiving State has ceased to consider him as a member of the consular staff.
+(c) on notification by the receiving State to the sending State that the receiving State has ceased to consider him as a member of the consular staff.
 
 Article 26
 
@@ -1068,7 +973,17 @@ The receiving State shall, even in case of armed conflict, grant to members of t
 
 Article 27
 
-Protection of consular premises and archives and of the interests of the sending State in exceptional circumstances
+Protection of consular premises and
+
+
+
+
+archives and of the interests of the sending State
+
+
+
+
+in exceptional circumstances
 
 1. In the event of the severance of consular relations between two States:
 
@@ -1086,11 +1001,31 @@ Protection of consular premises and archives and of the interests of the sending
 
 Chapter II
 
-Facilities, Privileges and Immunities Relating to Consular Posts, Career Consular Officers and Other Members of A Consular Post
+FACILITIES, PRIVILEGES AND IMMUNITIES
+
+
+
+
+RELATING TO CONSULAR POSTS, CAREER
+
+
+
+
+CONSULAR OFFICERS AND OTHER MEMBERS OF
+
+
+
+
+A CONSULAR POST
 
 Section I
 
-Facilities, Privileges and Immunities Relating to A Consular Post
+FACILITIES, PRIVILEGES AND IMMUNITIES RELATING TO A
+
+
+
+
+CONSULAR POST
 
 Article 28
 
@@ -1182,21 +1117,20 @@ Communication and contact with nationals of the sending State
 
 Article 37
 
-Information in cases of deaths, guardianship or trusteeship, wrecks and air accidents
+Information in cases of deaths, guardianship
+
+
+
+
+or trusteeship, wrecks and air accidents
 
 If the relevant information is available to the competent authorities of the receiving State, such authorities shall have the duty:
 
-(a)
+(a) in the case of the death of a national of the sending State, to inform without delay the consular post in whose district the death occurred;
 
-in the case of the death of a national of the sending State, to inform without delay the consular post in whose district the death occurred;
+(b) to inform the competent consular post without delay of any case where the appointment of a guardian or trustee appears to be in the interests of a minor or other person lacking full capacity who is a national of the sending State. The giving of this information shall, however, be without prejudice to the operation of the laws and regulations of the receiving State concerning such appointments;
 
-(b)
-
-to inform the competent consular post without delay of any case where the appointment of a guardian or trustee appears to be in the interests of a minor or other person lacking full capacity who is a national of the sending State. The giving of this information shall, however, be without prejudice to the operation of the laws and regulations of the receiving State concerning such appointments;
-
-(c)
-
-if a vessel, having the nationality of the sending State, is wrecked or runs aground in the territorial sea or internal waters of the receiving State, or if an aircraft registered in the sending State suffers an accident on the territory of the receiving State, to inform without delay the consular post nearest to the scene of the occurrence.
+(c) if a vessel, having the nationality of the sending State, is wrecked or runs aground in the territorial sea or internal waters of the receiving State, or if an aircraft registered in the sending State suffers an accident on the territory of the receiving State, to inform without delay the consular post nearest to the scene of the occurrence.
 
 Article 38
 
@@ -1204,13 +1138,9 @@ Communication with the authorities of the receiving State
 
 In the exercise of their functions, consular officers may address:
 
-(a)
+(a) the competent local authorities of their consular district;
 
-the competent local authorities of their consular district;
-
-(b)
-
-the competent central authorities of the receiving State if and to the extent that this is allowed by the laws, regulations and usages of the receiving State or by the relevant international agreements.
+(b) the competent central authorities of the receiving State if and to the extent that this is allowed by the laws, regulations and usages of the receiving State or by the relevant international agreements.
 
 Article 39
 
@@ -1222,7 +1152,17 @@ Consular fees and charges
 
 Section II
 
-Facilities, Privileges and Immunities Relating to Career Consular Officers and Other Members of A Consular Post
+FACILITIES, PRIVILEGES AND IMMUNITIES
+
+
+
+
+RELATING TO CAREER CONSULAR OFFICERS AND
+
+
+
+
+OTHER MEMBERS OF A CONSULAR POST
 
 Article 40
 
@@ -1282,7 +1222,12 @@ Waiver of privileges and immunities
 
 Article 46
 
-Exemption from registration of aliens and residence permits
+Exemption from registration of
+
+
+
+
+aliens and residence permits
 
 1\. Consular officers and consular employees and members of their families forming part of their households shall be exempt from all obligations under the laws and regulations of the receiving State in regard to the registration of aliens and residence permits.
 
@@ -1350,17 +1295,18 @@ Exemption from customs duties and inspection
 
 Article 51
 
-Estate of a member of the consular post or of a member of his family
+Estate of a member of the consular post
+
+
+
+
+or of a member of his family
 
 In the event of the death of a member of the consular post or of a member of his family forming part of his household, the receiving State:
 
-(a)
+(a) shall permit the export of the movable property of the deceased, with the exception of any such property acquired in the receiving State the export of which was prohibited at the time of his death;
 
-shall permit the export of the movable property of the deceased, with the exception of any such property acquired in the receiving State the export of which was prohibited at the time of his death;
-
-(b)
-
-shall not levy national, regional or municipal estate, succession or inheritance duties, and duties on transfers, on movable property the presence of which in the receiving State was due solely to the presence in that State of the deceased as a member of the consular post or as a member of the family of a member of the consular post.
+(b) shall not levy national, regional or municipal estate, succession or inheritance duties, and duties on transfers, on movable property the presence of which in the receiving State was due solely to the presence in that State of the deceased as a member of the consular post or as a member of the family of a member of the consular post.
 
 Article 52
 
@@ -1412,7 +1358,12 @@ Members of the consular post shall comply with any requirement imposed by the la
 
 Article 57
 
-Special provisions concerning private gainful occupation
+Special provisions concerning
+
+
+
+
+private gainful occupation
 
 1\. Career consular officers shall not carry on for personal profit any professional or commercial activity in the receiving State.
 
@@ -1426,7 +1377,17 @@ Special provisions concerning private gainful occupation
 
 Chapter III
 
-Regime Relating to Honorary Consular Officers and Consular Posts Headed by Such Officers
+REGIME RELATING TO HONORARY
+
+
+
+
+CONSULAR OFFICERS AND CONSULAR POSTS
+
+
+
+
+HEADED BY SUCH OFFICERS
 
 Article 58
 
@@ -1480,7 +1441,12 @@ The receiving State is under a duty to accord to an honorary consular officer su
 
 Article 65
 
-Exemption from registration of aliens and residence permits
+Exemption from registration of
+
+
+
+
+aliens and residence permits
 
 Honorary consular officers, with the exception of those who carry on for personal profit any professional or commercial activity in the receiving State, shall be exempt from all obligations under the laws and regulations of the receiving State in regard to the registration of aliens and residence permits.
 
@@ -1498,13 +1464,18 @@ The receiving State shall exempt honorary consular officers from all personal se
 
 Article 68
 
-Optional character of the institution of honorary consular officers
+Optional character of the institution of
+
+
+
+
+honorary consular officers
 
 Each State is free to decide whether it will appoint or receive honorary consular officers.
 
 Chapter IV
 
-General Provisions
+GENERAL PROVISIONS
 
 Article 69
 
@@ -1518,7 +1489,7 @@ Article 70
 
 Exercise of consular functions by diplomatic missions
 
-l. The provisions of the present Convention apply also, so far as the context permits, to the exercise of consular functions by a diplomatic mission.
+1\. The provisions of the present Convention apply also, so far as the context permits, to the exercise of consular functions by a diplomatic mission.
 
 2\. The names of members of a diplomatic mission assigned to the consular section or otherwise charged with the exercise of the consular functions of the mission shall be notified to the Ministry for Foreign Affairs of the receiving State or to the authority designated by that Ministry.
 
@@ -1552,7 +1523,12 @@ Non-discrimination
 
 Article 73
 
-Relationship between the present Convention and other international agreements
+Relationship between the present Convention
+
+
+
+
+and other international agreements
 
 1\. The provisions of the present Convention shall not affect other international agreements in force as between States parties to them.
 
@@ -1560,7 +1536,7 @@ Relationship between the present Convention and other international agreements
 
 Chapter V
 
-Final Provisions
+FINAL PROVISIONS
 
 Article 74
 
@@ -1594,13 +1570,9 @@ Notifications by the Secretary-General
 
 The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 74:
 
-(a)
+(a) of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 74, 75 and 76;
 
-of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 74, 75 and 76;
-
-(b)
-
-of the date on which the present Convention will enter into force, in accordance with Article 77.
+(b) of the date on which the present Convention will enter into force, in accordance with Article 77.
 
 Article 79
 
@@ -1612,3 +1584,56 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized ther
 
 DONE at Vienna, this twenty-fourth day of April, one thousand nine hundred and sixty-three.
 
+LEGISLATIVE SOURCE KEY
+
+DIPLOMATIC AND CONSULAR RELATIONS ACT
+
+
+
+
+(CHAPTER 82A)
+
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Consular Conventions 1985 Ed.
+
+:
+
+Singapore Consular Conventions Act (Chapter 52, 1985 Revised Edition —repealed)
+
+UK Consular Relations 1968
+
+:
+
+UK Consular Relations Act 1968 (Chapter 18)
+
+UK Diplomatic Privileges 1964
+
+:
+
+UK Diplomatic Privileges Act 1964 (Chapter 81)
+
+## LEGISLATIVE HISTORY
+
+Diplomatic and Consular Relations Act
+
+(CHAPTER 82A)
+
+This Legislative History is provided for the convenience of users of the Diplomatic and Consular Relations Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 8 of 2005—Diplomatic and Consular Relations Act 2005**|
+||Date of First Reading|16 November 2004|
+|||(Bill No. 65/2004 published on|
+|||
+|
+|||17 November 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 May 2005|
+Note:
+
+The Diplomatic and Consular Relations Act 2005 repealed the Consular Conventions Act (Chapter 52, 1985 Revised Edition) and Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Chapter 83, 1985 Revised Edition).
+
+|2.|**2006 Revised Edition—Diplomatic and Consular Relations Act**|
+||Date of operation|1 April 2006|
