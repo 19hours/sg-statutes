@@ -1282,7 +1282,11 @@ Specified Acts
 
 6\. All provisions of the Street Works Act [Cap. 320A] and any subsidiary legislation made thereunder.
 
-7. Section 20 of the Public Transport Council Act [Cap. 259B].
+7\. Section 23 of the Public Transport Council Act (Cap. 259B).
+
+7.
+
+[37/2005 wef 03/04/2006]
 
 [S 382/95]
 
@@ -1330,3 +1334,9 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|15 December 2004|
 |9.|**G. N. No. S 63/2006—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2006**|
 ||Date of commencement|1 February 2006|
+|10.|**Act 37 of 2005—Public Transport Council (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 September 2005|
+|||(Bill No. 25/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|17 October 2005|
+||Dates of commencement|3 April 2006 (except section 14)|
