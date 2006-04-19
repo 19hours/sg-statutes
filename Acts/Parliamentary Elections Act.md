@@ -3086,8 +3086,6 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (3) On a scrutiny, any tendered vote that is proved to be a valid vote shall be added to the poll if any party to the application under section 90 applies for that vote to be so added.
 
-[42/2005 wef 01/01/2006]
-
 ### Procedure and practice on applications under section 90
 
 100\.—(1) The procedure and practice on applications under section 90 shall be regulated by rules which may be made by the Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322).
@@ -3095,8 +3093,6 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 [42/2005 wef 01/01/2006]
 
 (2) The Rules contained in the Fourth Schedule shall be deemed to have been made under the powers conferred by subsection (1) and shall be amendable by rules made under that subsection.
-
-[42/2005 wef 01/01/2006]
 
 [21/91]
 
@@ -3272,7 +3268,11 @@ Parliamentary Elections
 
 Citation
 
-1\. These Rules may be cited as the Parliamentary Elections (Application for Avoidance of Election) Rules.
+1. These Rules may be cited as the Parliamentary Elections (Application for Avoidance of Election) Rules.
+
+[10/88]
+
+[21/91; 42/96]
 
 Interpretation
 
@@ -3582,9 +3582,7 @@ Notice of appointment of solicitor
 
 Service of notices on solicitors
 
-36. Service of notices and proceedings upon the solicitors shall be sufficient for all purposes.
-
-[42/2005 wef 01/01/2006]
+36\. Service of notices and proceedings upon the solicitors shall be sufficient for all purposes.
 
 ## LEGISLATIVE HISTORY
 
@@ -3817,6 +3815,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|58.|**G. N. No. S 232/2006—Parliamentary Elections Act (Amendment of First Schedule) Regulations 2006**|
+||Date of commencement|19 April 2006|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
