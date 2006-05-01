@@ -40,7 +40,7 @@
 
 - [14 Enforcement](#Enforcement)
 
-- [15 Appeal against revocation, suspension or enforcement](#Appeal-against-revocation-suspension-or-enforcement)
+- [15 (Repealed)](#Repealed)
 
 - [16 Codes of practice](#Codes-of-practice)
 
@@ -66,13 +66,29 @@
 
 - [27 Fuel stocks](#Fuel-stocks)
 
-[**Part IV CONTROL OF ELECTRICITY LICENSEES**](#Part-IV)
+[**Part IV SPECIAL ADMINISTRATION ORDER**](#Part-IV)
 
 - [28 Special administration order](#Special-administration-order)
 
 - [29 Power to make special administration order, etc.](#Power-to-make-special-administration-order-etc)
 
 - [30 Remuneration and expenses of Authority and others](#Remuneration-and-expenses-of-Authority-and-others)
+
+[**Part IVA CONTROL OF ELECTRICITY LICENSEES AND ENTITIES WITH INTERESTS IN TRANSMISSION SYSTEMS**](#Part-IVA)
+
+- [30A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [30B Control of acquisition of equity interest in designated electricity licensee, etc.](#Control-of-acquisition-of-equity-interest-in-designated-electricity-licensee-etc)
+
+- [30C Regulations for carrying out section 30B](#Regulations-for-carrying-out-section-30B)
+
+- [30D Power to issue directions](#Power-to-issue-directions)
+
+- [30E Effect of directions](#Effect-of-directions)
+
+- [30F Offences, penalties and defences](#Offences-penalties-and-defences)
+
+- [30G Appointment of chief executive officer, director, etc., of designated electricity licensee](#Appointment-of-chief-executive-officer-director-etc-of-designated-electricity-licensee)
 
 [**Part V MATTERS RELATING TO ELECTRICITY LICENSEES**](#Part-V)
 
@@ -258,7 +274,7 @@ An Act to create a competitive market framework for the electricity industry, to
 
 1st December 2002: Sections 82, 89 to 93, 103 and 104 ;
 
-1st January 2003: Parts III (with the exception of section 21(2) and (3)); Parts IV to VIII; Sections 67 to 81; Sections 83 to 88; Sections 94 to 102; and Sections 105(1) and (2) ]
+1st January 2003: Parts III (with the exception of section 21(2) and (3)), Parts IV to VIII, Sections 67 to 81, 83 to 88, 94 to 102 and 105(1) and (2) ]
 
 ## PART I
 
@@ -278,7 +294,9 @@ PRELIMINARY
 
 “apparatus” means any electrical apparatus, equipment or accessory and includes all apparatuses, machines, consuming devices and fittings in which one or more conductors are used or of which they form a part;
 
-“Appeal Panel” means a panel established by the Minister under section 64;
+“Appeal Panel” means a panel established by the Minister under section 64(3) or 98(2);
+
+[18/2006 wef 01/05/2006]
 
 “appointed day” means, in relation to a particular provision or Part of this Act, the date of commencement of that provision or Part;
 
@@ -464,17 +482,25 @@ to trade in any wholesale electricity market and includes a transmission license
 
 (b) to purchase electricity, ancillary services or any other electricity-related product or service, where such purchase is made by a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or market support services licensee;
 
+“transmission agent licensee” means a person authorised by an electricity licence to transmit electricity for or on behalf of a transmission licensee;
+
+[18/2006 wef 01/05/2006]
+
 “transmission licensee” means a person authorised by an electricity licence to transmit electricity;
 
-“transmission system” means the system of interconnected electric lines owned by a transmission licensee for the purpose of conveying electricity;
+“transmission system” means a system of interconnected electric lines, electrical plants and substations used by a transmission licensee to transmit electricity;
 
-“transmit” means to convey electricity by means of a system which consists wholly or mainly of electric lines and electrical plants and is used for conveying electricity —
+[18/2006 wef 01/05/2006]
+
+“transmit” means to convey electricity by means of a transmission system —
 
 (a) from an electrical plant to a substation;
 
 (b) from one electrical plant to another or from one substation to another; or
 
 (c) from a substation or an electrical plant to the electrical installation serving the premises of a consumer or, where such premises are not served by an electrical installation, from a substation or an electrical plant directly to such premises;
+
+[18/2006 wef 01/05/2006]
 
 “wholesale electricity market” means an electricity market established by the market rules for the trading of electricity, ancillary services or any other electricity-related product or service.
 
@@ -536,6 +562,16 @@ ADMINISTRATION
 
 4\.—(1) The Authority or any authorised officer may by notice require any person to furnish, within a reasonable period specified in the notice, all documents and information relating to any matter as reasonably required by the Authority to carry out the functions or duties assigned to the Authority by or under this Act, which are within the knowledge of that person or in his custody or under his control.
 
+(1A) The power to require a person to furnish any document or information under subsection (1) includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of his, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require that person to state, to the best of his knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Authority in legible form.
+
+[18/2006 wef 01/05/2006]
+
 (2) Any person who, without reasonable excuse, fails to do anything required of him by notice under subsection (1) shall be guilty of an offence.
 
 (3) Any person who —
@@ -549,6 +585,10 @@ shall be guilty of an offence.
 (4) If any person fails to comply with a notice under subsection (1), the court may, on the application of the Authority, make such order as the court thinks fit to secure compliance with such notice and any such order may provide that all the costs or expenses of and incidental to the application shall be borne by such person or by any officer of a company or other association who is responsible for the failure.
 
 (5) The Authority through an authorised officer may, at any time after the expiry of the period specified in the notice referred to in subsection (1), enter any building or place where the Authority has reason to believe that any document or information, in respect of which it has given the notice, may be found, and seize or take extracts or copies of any such document or information.
+
+(5A) The Authority shall be entitled without payment to keep any document or information, or any copy or extract thereof, furnished to it under subsection (1) or obtained under subsection (5).
+
+[18/2006 wef 01/05/2006]
 
 (6) Except in the performance of his functions or duties or when required to do so by any court or under any written law, no person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his functions or duties.
 
@@ -580,19 +620,23 @@ stating that the Authority wishes to disclose the information or contents of the
 
 (c) no appeal is made to the Minister under subsection (3) within 7 days of the date of the giving of the notice.
 
-(3) If a person wishes to appeal to the Minister in respect of a notice given by the Authority under subsection (2)(b), such appeal shall be lodged with the Minister within 7 days of the date of the giving of the notice and the decision of the Minister shall be final.
+(3) A person aggrieved by a notice under subsection (2)(b) may appeal to the Minister under section 98(1) within 7 days of the date of giving of the notice.
 
-(4) Subsection (2) shall not prevent the Authority —
+[18/2006 wef 01/05/2006]
 
-(a) from disclosing any information or the contents of a document —
+(4) Subsection (2) shall not prevent the Authority from disclosing any information or the contents of any document —
 
-(i) to any member, officer, employee, agent or consultant of the Authority or a member of a committee or panel acting under a delegation by the Authority;
+(a) to any member, officer or employee of the Authority or any agent, consultant, committee or panel acting for or under the direction of the Authority;
 
-(ii) when required to do so by any court or under any written law; or
+(b) to the Minister or any agent, consultant, committee or panel acting for or under the direction of the Minister;
 
-(iii) for the purposes of any criminal proceedings; or
+(c) to an Appeal Panel;
 
-(b) from supplying the information or document to the Minister on a confidential basis or to an Appeal Panel.
+(d) when required to do so by any court or under any written law; or
+
+(e) for the purposes of any criminal proceedings.
+
+[18/2006 wef 01/05/2006]
 
 (5) For the purposes of this section, the disclosure of any information or the contents of a document already in the public domain at the time the Authority wishes to disclose it cannot cause detriment to any person referred to in subsection (2)(a).
 
@@ -608,6 +652,10 @@ LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (b) engage in the transmission of electricity;
 
+(ba) transmit electricity for or on behalf of a transmission licensee (other than as an employee of the transmission licensee);
+
+[18/2006 wef 01/05/2006]
+
 (c) engage in the retail of electricity;
 
 (d) import or export electricity;
@@ -620,7 +668,9 @@ LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 unless he is authorised to do so by an electricity licence granted under section 9 or is exempted under section 8.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000 .
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000 and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
+
+[18/2006 wef 01/05/2006]
 
 ### Application for licence, extension or exemption
 
@@ -664,7 +714,9 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (5) If any condition of an exemption granted to a class of persons is not complied with by any person of that class, the Authority may give to that person a direction declaring that the exemption, so far as the exemption relates to that person, is revoked to such extent and with effect from such date as may be specified in the direction.
 
-(6) A transmission licensee and a market support services licensee shall not be granted an exemption under this section.
+(6) A transmission licensee, a transmission agent licensee and a market support services licensee shall not be granted an exemption under this section.
+
+[18/2006 wef 01/05/2006]
 
 (7) An electricity licensee who is authorised by his licence to operate any wholesale electricity market shall not be granted an exemption under this section.
 
@@ -676,6 +728,10 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (b) transmit electricity;
 
+(ba) transmit electricity for or on behalf of a transmission licensee;
+
+[18/2006 wef 01/05/2006]
+
 (c) retail electricity;
 
 (d) import or export electricity;
@@ -686,7 +742,9 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (g) operate any wholesale electricity market.
 
-(2) No transmission licensee or market support services licensee shall be granted an electricity licence to carry out any activity other than the transmission of electricity or the provision of market support services, respectively.
+(2) No transmission licensee, transmission agent licensee or market support services licensee shall be granted an electricity licence to carry out any activity other than the transmission of electricity, the transmitting of electricity for or on behalf of a transmission licensee or the provision of market support services, respectively.
+
+[18/2006 wef 01/05/2006]
 
 (3) A gas transporter under the Gas Act (Cap. 116A) shall not be granted an electricity licence under subsection (1)(a), (c), (d) or (f).
 
@@ -710,9 +768,13 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (v) to appoint, at such intervals and on such terms as the Authority may direct, an independent technical auditor for the purposes specified in the condition;
 
-(vi) to prepare for approval by the Authority guidelines regarding the procedures the licensee must follow in the event of any public emergency; and
+(vi) to prepare for approval by the Authority guidelines regarding the procedures the licensee must follow in the event of any public emergency;
 
-(vii) to do or not to do such things as are specified in the electricity licence or are of a description so specified;
+(vii) to do or not to do such things as are specified in the electricity licence or are of a description so specified; and
+
+(viii) where the electricity licensee is a transmission licensee, to carry out any work related to the development of a transmission system or the supply of electricity to any premises;
+
+[18/2006 wef 01/05/2006]
 
 (b) controlling or fixing prices to be charged for the services provided by a transmission licensee, a market support services licensee or an electricity licensee authorised to operate any wholesale electricity market including —
 
@@ -738,7 +800,7 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (8) The Authority shall in writing notify an applicant for the grant or extension of an electricity licence of its decision to grant or refuse to grant or extend the licence and, in the case of a decision to refuse to grant or extend the licence, the reasons for its decision.
 
-(9) Any person who is aggrieved by a refusal of the Authority to grant or extend an electricity licence may, within 14 days of the refusal, appeal to the Minister whose decision shall be final.
+(9) [Deleted by Act 18/2006 wef 01/05/2006]
 
 ### Special condition in market support services licence
 
@@ -808,7 +870,7 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 
 ### Enforcement
 
-14\. If the Authority is satisfied that an electricity licensee is contravening, or is likely to contravene or has contravened any condition of its electricity licence, any code of practice or other standard of performance applicable to the licensee, any provision of this Act or any direction issued by the Authority to or applicable to the electricity licensee, the Authority may by notice in writing to the electricity licensee —
+14\. If the Authority is satisfied that an electricity licensee is contravening, or is likely to contravene or has contravened any condition of its electricity licence, any code of practice or other standard of performance applicable to the licensee, any provision of this Act or any direction (including a direction under paragraph (a)) issued by the Authority to or applicable to the electricity licensee, the Authority may by notice in writing to the electricity licensee do one or more of the following:
 
 (a) direct the electricity licensee to do or not do such things as are specified in such direction;
 
@@ -816,9 +878,9 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 
 (c) require the electricity licensee to pay a financial penalty of an amount not exceeding 10% of the annual turnover of that part of the licensee’s business in respect of which the licensee holds a licence, ascertained from the licensee’s latest audited accounts, or an amount not exceeding $1 million, whichever is higher.
 
-### Appeal against revocation, suspension or enforcement
+[18/2006 wef 01/05/2006]
 
-15\. Any person who is aggrieved by any decision of the Authority under section 13 or 14 may, within 14 days after the person has been given the notice in writing referred to in those sections, appeal to the Minister whose decision shall be final.
+15\. [Deleted by Act 18/2006 wef 01/05/2006]
 
 ### Codes of practice
 
@@ -833,6 +895,10 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 (b) having regard to such regulations, shall not have effect.
 
 (4) Any code of practice issued or approved by the Authority under this section shall be deemed not to be subsidiary legislation.
+
+(5) In this section, a reference to code of practice shall include a standard of performance.
+
+[18/2006 wef 01/05/2006]
 
 ### Direction by Authority
 
@@ -890,13 +956,9 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 
 21\.—(1) A market support services licensee shall provide market support services to a non-contestable consumer in accordance with this Act and its licence, and on terms and conditions approved by the Authority.
 
-1(2) Any existing agreement under which any person supplies and sells electricity to a non-contestable consumer shall cease to have effect from the appointed day.
+(2) [Deleted by Act 18/2006 wef 01/05/2006]
 
-1No date has yet been appointed for the coming into operation of section 21(2) as at 30th June 2002.
-
-2(3) Nothing in subsection (2) shall have the effect of extinguishing any right or liability of any party under the existing agreement referred to in that subsection where such right or liability had accrued on the appointed day.
-
-2No date has yet been appointed for the coming into operation of section 21(3) as at 30th June 2002.
+(3) [Deleted by Act 18/2006 wef 01/05/2006]
 
 (4) A market support services licensee shall not discontinue the provision of market support services to any non-contestable consumer except in accordance with its licence.
 
@@ -1024,7 +1086,9 @@ and the amount of any stocks may be specified by reference to the period for whi
 
 ## PART IV
 
-CONTROL OF ELECTRICITY LICENSEES
+SPECIAL ADMINISTRATION ORDER
+
+[18/2006 wef 01/05/2006]
 
 ### Special administration order
 
@@ -1096,21 +1160,287 @@ CONTROL OF ELECTRICITY LICENSEES
 
 (2) The Authority may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by an electricity licensee to any person appointed by the Minister under section 29(1)(c) to advise the electricity licensee in the proper conduct of the business or undertaking to which its electricity licence relates.
 
+## PART IVA
+
+CONTROL OF ELECTRICITY LICENSEES AND ENTITIES WITH INTERESTS IN TRANSMISSION SYSTEMS
+
+[18/2006 wef 01/05/2006]
+
+### Interpretation of this Part
+
+30A\. In this Part, unless the context otherwise requires ––
+
+“associate” has the meaning given to that expression in regulations made under section 30C;
+
+“business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+
+“corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“designated business trust” means a business trust that is established wholly or partly in respect of a transmission system (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated business trust for the purposes of section 30B;
+
+“designated electricity licensee” means a person who has been granted a licence under section 9(1)(b) or (ba);
+
+“designated entity” means an entity, not being a designated electricity licensee, which owns a transmission system (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated entity for the purposes of section 30B;
+
+“entity” includes a corporation and a limited liability partnership;
+
+“equity interest” has the meaning given to that expression in regulations made under section 30C;
+
+“limited liability partnership” means a limited liability partnership formed under section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+
+“trustee-manager” has the same meaning as in section 2 of the Business Trusts Act.
+
+[18/2006 wef 01/05/2006]
+
+### Control of acquisition of equity interest in designated electricity licensee, etc.
+
+30B\.—(1) A designated electricity licensee, a designated entity or the trustee-manager of a designated business trust shall give notice in writing to the Authority if any person acquires equity interest in the licensee, the entity or the business trust, respectively, whether through a series of transactions over a period of time or otherwise, that would result in that person holding 5% or more but less than 12% of the total equity interest in the licensee, the entity or the business trust, respectively.
+
+[18/2006 wef 01/05/2006]
+
+(2) No person shall, whether through a series of transactions over a period of time or otherwise, become a 12% controller, a 30% controller or an indirect controller of a designated electricity licensee, a designated entity or a designated business trust without obtaining the prior written approval of the Authority.
+
+[18/2006 wef 01/05/2006]
+
+(3) No person shall acquire as a going concern —
+
+(a) the business of a designated electricity licensee conducted pursuant to its licence; or
+
+(b) the business of a designated entity which relates to its transmission system or any part thereof,
+
+unless the person, and the licensee or entity, as the case may be, obtain the prior written approval of the Authority.
+
+[18/2006 wef 01/05/2006]
+
+(4) The Authority may approve an application of a person under subsection (2) if the Authority is satisfied that —
+
+(a) the person is a fit and proper person;
+
+(b) having regard to the person’s likely influence, the designated electricity licensee, the designated entity or the trustee-manager of the designated business trust, as the case may be, will continue to conduct its business prudently and comply with the provisions of this Act; and
+
+(c) it is in the public interest to do so.
+
+[18/2006 wef 01/05/2006]
+
+(5) The Authority may approve an application under subsection (3) if the Authority is satisfied that —
+
+(a) the person acquiring the business is a fit and proper person;
+
+(b) the acquisition will not affect the security and reliability of the supply of electricity to the public; and
+
+(c) it is in the public interest to do so.
+
+[18/2006 wef 01/05/2006]
+
+(6) Any approval by the Authority under this section may be granted subject to such conditions as the Authority considers appropriate.
+
+[18/2006 wef 01/05/2006]
+
+(7) Any condition imposed by the Authority under this section shall have effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the licensee, the entity or the business trust.
+
+[18/2006 wef 01/05/2006]
+
+(8) Any approval granted by the Authority under this section shall be without prejudice to the operation of Part VII.
+
+[18/2006 wef 01/05/2006]
+
+(9) In this section —
+
+“12% controller” means a person who, alone or together with his associates —
+
+(a) holds 12% or more of the total equity interest in; or
+
+(b) is in a position to control 12% or more of the voting power in,
+
+the licensee, the entity or the business trust;
+
+“30% controller” means a person who, alone or together with his associates —
+
+(a) holds 30% or more of the total equity interest in; or
+
+(b) is in a position to control 30% or more of the voting power in,
+
+the licensee, the entity or the business trust;
+
+“indirect controller” means any person, whether acting alone or together with any other person, and with or without holding equity interest or controlling voting power in the licensee, the entity or the business trust, as the case may be —
+
+(a) in accordance with whose directions, instructions or wishes the directors of the licensee, the directors or other officers of the entity, or the trustee-manager of the business trust are accustomed or under an obligation, whether formal or informal, to act; or
+
+(b) who is in a position to determine the policy of the licensee, the entity or the business trust,
+
+but does not include —
+
+(i) in the case of the licensee, a person who is the chief executive officer, a director or the chairman of the board of directors of the licensee whose appointment as such has been approved by the Authority under section 30G; or
+
+(ii) a person in accordance with whose directions, instructions or wishes the directors of the licensee, the directors or other officers of the entity or the trustee-manager of the business trust are accustomed to act by reason only that they act on advice given by him in his professional capacity.
+
+[18/2006 wef 01/05/2006]
+
+### Regulations for carrying out section 30B
+
+30C\.—(1) The Authority may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the purposes of section 30B.
+
+[18/2006 wef 01/05/2006]
+
+(2) Without prejudice to the generality of subsection (1), the regulations may prescribe —
+
+(a) the meaning of equity interest and the circumstances under which a person would be considered to hold a percentage of the total equity interest in a designated electricity licensee, a designated entity or a designated business trust;
+
+(b) the circumstances under which a person would be considered to be in a position to control a percentage of the voting power in a designated electricity licensee, a designated entity or a designated business trust;
+
+(c) the circumstances under which a person would be considered to have acquired as a going concern a business referred to in section 30B(3);
+
+(d) the circumstances under which a person would be considered to be an associate for the purposes of sections 30B, 30D and 30F;
+
+(e) the conditions which the Authority may impose in granting any approval under section 30B; and
+
+(f) the period within which a notice under section 30B(1) must be given to the Authority.
+
+[18/2006 wef 01/05/2006]
+
+### Power to issue directions
+
+30D\.—(1) The Authority may issue any direction to a person under subsection (2) or (3) if the Authority is satisfied that —
+
+(a) the person has contravened section 30B(2) or (3);
+
+(b) any condition of approval imposed on the person under section 30B has not been complied with;
+
+(c) the person has furnished false or misleading information or documents in connection with an application under section 30B; or
+
+(d) the Authority would not have granted its approval under section 30B had it been aware, at that time, of circumstances relevant to the person’s application for such approval.
+
+[18/2006 wef 01/05/2006]
+
+(2) Where a person has acquired an equity interest in a designated electricity licensee, a designated entity or a designated business trust, the Authority may —
+
+(a) direct the transfer or disposal of all or any of the equity interest held by the person or any of his associates (referred to in this section and section 30E as the specified equity interest) within such time and subject to such conditions as the Authority considers appropriate;
+
+(b) restrict the transfer or disposal of the specified equity interest; or
+
+(c) make such other direction as the Authority considers appropriate.
+
+[18/2006 wef 01/05/2006]
+
+(3) Where a person has acquired as a going concern a business referred to in section 30B(3), the Authority may —
+
+(a) direct the person to transfer or dispose of all or any part of the business within such time and subject to such conditions as the Authority considers appropriate; or
+
+(b) make such other direction as the Authority considers appropriate.
+
+[18/2006 wef 01/05/2006]
+
+(4) Before issuing any direction to a person under subsection (2) or (3), the Authority shall, unless the Authority decides that it is not practicable or desirable to do so, give to the person written notice of the Authority’s intention to issue the direction and specify a date by which the person may make written representations with regard to the proposed direction.
+
+[18/2006 wef 01/05/2006]
+
+(5) Upon receipt of any written representation referred to in subsection (4), the Authority shall consider it for the purpose of determining whether to issue the direction.
+
+[18/2006 wef 01/05/2006]
+
+(6) Any person to whom a direction is issued under this section shall comply with the direction.
+
+[18/2006 wef 01/05/2006]
+
+(7) The Authority may vary or revoke any direction issued under this section.
+
+[18/2006 wef 01/05/2006]
+
+### Effect of directions
+
+30E\.—(1) Any direction issued to a person under section 30D shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the designated electricity licensee, the designated entity or the designated business trust, as the case may be.
+
+[18/2006 wef 01/05/2006]
+
+(2) Where any direction is issued under section 30D(2)(a) or (b), notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution, of the licensee, the entity or the business trust, as the case may be —
+
+(a) no voting rights shall be exercisable in respect of the specified equity interest unless the Authority expressly permits such rights to be exercised;
+
+(b) no equity interest of the licensee, the entity or the business trust shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified equity interest unless the Authority expressly permits such issue or offer; and
+
+(c) except in a winding up of the licensee, the entity or the business trust, no payment shall be made by the licensee, the entity or the trustee-manager of the business trust of any amount (whether by way of dividends or otherwise) in respect of the specified equity interest unless the Authority expressly authorises such payment,
+
+until the transfer or disposal is effected in accordance with the direction or until the direction is revoked, as the case may be.
+
+[18/2006 wef 01/05/2006]
+
+### Offences, penalties and defences
+
+30F\.—(1) Any person who contravenes section 30B or 30D(6) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $50,000 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part thereof during which the offence continues after conviction.
+
+[18/2006 wef 01/05/2006]
+
+(2) Where a person is charged with an offence in respect of a contravention of section 30B(2), it shall be a defence for the person to prove that —
+
+(a) he was not aware that he had contravened section 30B(2); and
+
+(b) he has, within 14 days of becoming aware that he had contravened section 30B(2), notified the Authority of the contravention and, within such time as may be determined by the Authority, taken such actions in relation to his holding of equity interest or control of voting power in the licensee, the entity or the business trust as the Authority may direct.
+
+[18/2006 wef 01/05/2006]
+
+(3) Where a person is charged with an offence in respect of a contravention of section 30B(2), it shall also be a defence for the person to prove that, even though he was aware of the contravention —
+
+(a) the contravention occurred as a result of an increase in the holding of equity interest or in the voting power controlled by any of his associates;
+
+(b) he has no agreement or arrangement, whether oral or in writing and whether express or implied, with that associate with respect to the acquisition, holding or disposal of equity interest in, or under which they act together in exercising their voting power in relation to, the licensee, the entity or the business trust; and
+
+(c) he has, within 14 days of the date of the contravention, notified the Authority of the contravention and, within such time as may be determined by the Authority, taken such actions in relation to his holding of equity interest or control of voting power in the licensee, the entity or the business trust as the Authority may direct.
+
+[18/2006 wef 01/05/2006]
+
+(4) Except as provided in subsections (2) and (3), it shall not be a defence for a person charged with an offence in respect of a contravention of section 30B(2) to prove that he did not intend to or did not knowingly contravene section 30B(2).
+
+[18/2006 wef 01/05/2006]
+
+### Appointment of chief executive officer, director, etc., of designated electricity licensee
+
+30G\.—(1) No designated electricity licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors unless it has obtained the prior written approval of the Authority.
+
+[18/2006 wef 01/05/2006]
+
+(2) Where a person has been appointed by a designated electricity licensee as its chief executive officer, its director or the chairman of its board of directors in contravention of subsection (1), the Authority may issue a direction to the licensee to remove the person as its chief executive officer, its director or the chairman of its board of directors, as the case may be.
+
+[18/2006 wef 01/05/2006]
+
+(3) This section shall have effect notwithstanding the provisions of any other written law or of the memorandum or articles of association, or other constitution, of the designated electricity licensee.
+
+[18/2006 wef 01/05/2006]
+
+(4) In this section —
+
+“chief executive officer”, in relation to a designated electricity licensee, means any person, by whatever name described, who is —
+
+(a) in the direct employment of, or acting for or by arrangement with, the designated electricity licensee; and
+
+(b) principally responsible for the management and conduct of any type of business of the designated electricity licensee,
+
+and includes any person for the time being performing all or any of the functions or duties of a chief executive officer;
+
+“director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+
+[18/2006 wef 01/05/2006]
+
 ## PART V
 
 MATTERS RELATING TO ELECTRICITY LICENSEES
 
 ### Works by electricity licensee
 
-31\.—(1) Subject to the provisions of this Act, a generation licensee, market support services licensee or transmission licensee may, for any purpose connected with the carrying on of the activities authorised byits electricity licence —
+31\.—(1) Subject to the provisions of this Act, a generation licensee, market support services licensee or transmission licensee may, for any purpose connected with the carrying on of the activities authorised by or required under its electricity licence —
 
-(a) install under, over, in, on, along or across any premises, street or bridge and from time to time inspect, maintain, adjust, repair, alter, replace or remove —
+(a) install under, over, in, on, along or across any land, premises, street or bridge and from time to time inspect, maintain, adjust, repair, alter, replace or remove —
 
 (i) any electric line or electrical plant;
 
 (ii) any structure for housing or covering any such line or plant; and
 
 (iii) any meter, switch and any other suitable and proper apparatus, for the purpose of leading off service lines and other distributing conductors or of examining, testing, measuring, directing or controlling the supply of electricity or of testing the conditions of the mains and other portions of the works; and
+
+[18/2006 wef 01/05/2006]
 
 (b) execute any work requisite for or incidental to the purposes of any work falling within paragraph (a), including for those purposes —
 
@@ -1124,37 +1454,81 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 (v) erecting, placing or installing poles on any land or street.
 
-(2) All such works, including the upper surface or covering thereof, shall be constructed of such materials and maintained by the generation licensee, market support services licensee or transmission licensee in such manner as not to be a source of danger, whether by reason of inequality of surface or otherwise; and when such licensee lays any electric line that is liable to touch any main, pipe, line or other service, the conducting portion of the electric line shall be effectually insulated.
+[18/2006 wef 01/05/2006]
 
-(3) The generation licensee, market support services licensee or transmission licensee shall pay compensation to any person who suffers any damage or loss of value to his property as a result of any work performed by the licensee under subsection (1) of such amount as may be agreed between the licensee and the person, and such compensation may include an annual payment for the use of any land or immovable property for the licensee’s purpose.
+(1A) A licensee referred to in subsection (1) shall obtain the written approval of the Authority —
 
-(4) The generation licensee, market support services licensee or transmission licensee shall not acquire any right other than that of user only in respect of any land or property under, over, in, on, along or across which the licensee installs any electric line or electrical plant or executes any work under this section.
+(a) before issuing a notice under subsection (5); or
 
-(5) Except in cases of emergency arising from any fault in any electric line or electrical plant, no work falling within subsection (1) shall be executed without the giving of 14 days notice stating as fully and accurately as possible the nature and extent of the works intended to be done.
+(b) in the case of an emergency specified in subsection (5), before carrying out any work,
+
+if the work to be carried out under this section is in relation to any matter specified in subsection (1)(a)(i), (ii) or (iii) which is owned or operated by another electricity licensee.
+
+[18/2006 wef 01/05/2006]
+
+(1B) The right of a licensee to carry out any work in accordance with this section shall have effect notwithstanding any agreement which prohibits the carrying out of the work.
+
+[18/2006 wef 01/05/2006]
+
+(2) All such works, including the upper surface or covering thereof, shall be constructed of such materials and maintained by the licensee referred to in subsection (1) in such manner as not to be a source of danger, whether by reason of inequality of surface or otherwise; and when such licensee lays any electric line that is liable to touch any main, pipe, line or other service, the conducting portion of the electric line shall be effectually insulated.
+
+[18/2006 wef 01/05/2006]
+
+(3) The licensee referred to in subsection (1) shall pay compensation to any person who suffers any damage or loss of value to his property as a result of any work performed by the licensee under subsection (1) of such amount as may be agreed between the licensee and the person, and such compensation may include an annual payment for the use of any land or immovable property for the licensee’s purpose.
+
+[18/2006 wef 01/05/2006]
+
+(4) The licensee referred to in subsection (1) shall not acquire any right other than that of user only in respect of any land or property under, over, in, on, along or across which the licensee installs any electric line or electrical plant or executes any work under this section.
+
+[18/2006 wef 01/05/2006]
+
+(5) Except in the case of an emergency arising from any fault in any electric line or electrical plant, the licensee referred to in subsection (1) shall, before entering any land for the purpose specified in subsection (1), give 14 days’ written notice to the owner or occupier of the land, stating as fully and accurately as possible the nature and extent of the work to be carried out.
+
+[18/2006 wef 01/05/2006]
+
+(5A) Subject to subsection (6), the owner or occupier of the land who is given a notice under subsection (5) shall comply with the notice and do all things necessary to facilitate the carrying out of the work specified in the notice.
+
+[18/2006 wef 01/05/2006]
 
 (6) The owner or occupier of the land may, within 14 days of the receipt of the notice referred to in subsection (5), lodge a written objection with the Authority and the Authority shall specify the date by which an inquiry into such objection shall be made.
 
-(7) If no objection is lodged within the period specified in subsection (6), the licensee may on expiry of the period specified in the notice, enter on the land and do all or any of the works specified in the notice.
+(7) If no objection is lodged within the period specified in subsection (6), the licensee may enter on the land and do all or any of the works specified in the notice.
+
+[18/2006 wef 01/05/2006]
 
 (8) Where an objection lodged under subsection (6) is not withdrawn before the date fixed for an inquiry into the matter under that subsection, the Authority shall hold an inquiry, giving each party an opportunity to be heard.
 
-(9) Subject to subsection (10), upon the conclusion of the inquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, the carrying out of any of the works specified in the notice given under subsection (5).
+(9) Upon the conclusion of the inquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, the carrying out of any of the works specified in the notice given under subsection (5).
 
-(10) Any person aggrieved by any decision of the Authority under subsection (9) may, within 14 days of the conclusion of the inquiry, appeal to the Minister whose decision shall be final.
+[18/2006 wef 01/05/2006]
 
-(11) The generation licensee, market support services licensee or transmission licensee shall do as little damage as possible in the exercise of the powers conferred by subsection (1) and shall, as soon as practicable, make good any damage done in the exercise of those powers.
+(10) The decision of the Authority under subsections (1A) and (9) shall be final.
 
-(12) Where any dispute arises as to whether a generation licensee, market support services licensee or transmission licensee has sufficiently made good any damage done in the exercise of the powers conferred by subsection (1), the dispute —
+[18/2006 wef 01/05/2006]
+
+(11) The licensee referred to in subsection (1) shall do as little damage as possible in the exercise of the powers conferred by subsection (1) and shall, as soon as practicable, make good any damage done in the exercise of those powers.
+
+[18/2006 wef 01/05/2006]
+
+(12) Where any dispute arises as to whether a licensee referred to in subsection (1) has sufficiently made good any damage done in the exercise of the powers conferred by subsection (1), the dispute —
 
 (a) may be referred to the Authority by either party; and
 
 (b) on such a reference, shall be determined by the Authority whose decision shall be final and conclusive between the parties.
 
-(13) A generation licensee, market support services licensee or transmission licensee shall exercise the powers conferred by subsection (1) in such manner as will secure that nothing which it installs or keeps installed under, over, in, on, along or across any premises, street or bridge becomes a source of danger to the public.
+[18/2006 wef 01/05/2006]
 
-(14) A generation licensee, market support services licensee or transmission licensee shall not, when exercising the powers conferred by subsection (1), be liable for or required to pay any person any fee, charge or expense for the right to enter or use any land or premises.
+(13) A licensee referred to in subsection (1) shall exercise the powers conferred by subsection (1) in such manner as will secure that nothing which it installs or keeps installed under, over, in, on, along or across any premises, street or bridge becomes a source of danger to the public.
 
-(15) A generation licensee, market support services licensee or transmission licensee shall not, without the approval in writing of a Government authority or of statutory authority, enter or use any land or premises belonging to the Government authority or statutory authority for the purpose of exercising the powers conferred by subsection (1).
+[18/2006 wef 01/05/2006]
+
+(14) A licensee referred to in subsection (1) shall not, when exercising the powers conferred by subsection (1), be liable for or required to pay any person any fee, charge or expense for the right to enter or use any land or premises.
+
+[18/2006 wef 01/05/2006]
+
+(15) A licensee referred to in subsection (1) shall not, without the approval in writing of a Government authority or statutory authority, enter or use any land or premises belonging to the Government authority or statutory authority for the purpose of exercising the powers conferred by subsection (1).
+
+[18/2006 wef 01/05/2006]
 
 ### Power to fell trees, etc.
 
@@ -1218,7 +1592,7 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 any person authorised in writing by the transmission licensee or market support services licensee may at all reasonable hours, on production of some duly authenticated document showing his authority, enter the premises for the purposes of disconnecting the supply or removing any electrical plant, electric line or electricity meter, as the case may be.
 
-(2) Subject to section 39, the person so authorised by a transmission licensee or market support services licensee shall not enter any dwelling-house in actual occupation, without 6 hours previous notice to the occupier, unless the occupier has given his consent to the entry.
+(2) Subject to section 39, the person so authorised by a transmission licensee or market support services licensee shall not enter any dwelling-house in actual occupation without 6 hours previous notice to the occupier, unless the occupier has given his consent to the entry.
 
 ### Entry for replacing, repairing or altering electric line or electrical plant
 
@@ -1386,21 +1760,39 @@ WHOLESALE ELECTRICITY MARKET
 
 (c) governing the operation of the electricity system.
 
-(2) Any subsequent modification to the initial market rules shall be made in accordance with subsection (3).
+(1A) For the avoidance of doubt, rules made for the purpose of subsection (1)(a) may make provision governing the activities of market support services licensees in and in relation to any wholesale electricity market.
 
-(3) The market rules made under this section, including rules modified in accordance with this subsection, may be modified by the Market Company in accordance with the market rules, by notice published in such manner as will secure adequate publicity.
+[18/2006 wef 01/05/2006]
 
-(4) A modification to the market rules made by the Market Company under subsection (3) is subject to approval by the Authority, which approval shall be granted unless the Authority determines that the modification —
+(2) The Market Company —
 
-(a) unjustly discriminates in favour of or against a market participant or a class of market participants; or
+(a) may modify the market rules in accordance with the market rules; and
+
+(b) shall modify the market rules when directed to do so by the Authority.
+
+[18/2006 wef 01/05/2006]
+
+(3) The market rules made or modified in accordance with this section shall be published by the Market Company in such manner as will secure adequate publicity.
+
+[18/2006 wef 01/05/2006]
+
+(4) A modification to the market rules made by the Market Company under subsection (2) is subject to approval by the Authority, which approval shall be granted unless the Authority determines that the modification —
+
+(a) being a modification made under subsection (2)(a), unjustly discriminates in favour of or against a market participant, a market support services licensee, or a class of market participants or market support services licensees; or
+
+[18/2006 wef 01/05/2006]
 
 (b) is inconsistent with the functions and duties of the Authority under section 3(3).
+
+[18/2006 wef 01/05/2006]
 
 (5) The market rules shall be deemed not to be subsidiary legislation.
 
 ### Penalties under market rules
 
-47\. Without limiting the generality of section 46(1), the market rules may include provisions authorising and governing the imposition of financial penalties on market participants.
+47\. Without limiting the generality of section 46(1), the market rules may include provisions authorising and governing the imposition of financial penalties on market participants, the Market Company and market support services licensees.
+
+[18/2006 wef 01/05/2006]
 
 ### Limitation of actions under market rules
 
@@ -1646,6 +2038,10 @@ which in proceedings in a court would be protected from disclosure on grounds of
 
 (5) Any person who is aggrieved by any decision or direction of the Authority under this Part may, within 14 days after receipt of the notice referred to in section 60, appeal to the Appeal Panel under Part VIII.
 
+(5A) An appeal under subsection (5) shall not suspend the effect of a decision or direction to which the appeal relates unless the appeal is against the imposition or the amount of a financial penalty.
+
+[18/2006 wef 01/05/2006]
+
 (6) In this section —
 
 “associated person” has the same meaning as in section 76D(14) of the Companies Act (Cap. 50);
@@ -1718,15 +2114,19 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 ### Composition and procedure of Appeal Panel
 
-65\.—(1) An Appeal Panel shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
+65\.—(1) An Appeal Panel established by direction under section 64(3) or 98(2) shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
 
-(2) The Minister may, in the direction establishing the Appeal Panel under section 64(3), provide for —
+[18/2006 wef 01/05/2006]
+
+(2) The Minister may, in the direction establishing an Appeal Panel, provide for —
 
 (a) the terms and conditions of the membership of the Appeal Panel as the Minister considers appropriate;
 
 (b) the procedure to be adopted by the Appeal Panel in considering any matter referred to it; and
 
 (c) any other matters which the Minister considers incidental or expedient for the proper and efficient conduct of an appeal by the Appeal Panel.
+
+[18/2006 wef 01/05/2006]
 
 (3) The remuneration and allowances, if any, of a member of an Appeal Panel shall be determined by the Minister and shall form part of the expenses of the Authority.
 
@@ -1740,9 +2140,13 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 (3) An Appeal Panel shall have the powers, rights and privileges vested in a District Court on the hearing of an action, including —
 
-(a) the enforcement of the attendance of witnesses and their examination on oath or otherwise; and
+(a) the enforcement of the attendance of witnesses and their examination on oath or otherwise;
 
-(b) the compelling of the production of documents.
+(b) the compelling of the production of documents; and
+
+(c) the award of costs and expenses of and incidental to any proceedings before the Appeal Panel.
+
+[18/2006 wef 01/05/2006]
 
 (4) A summons signed by any member of the Appeal Panel as may be authorised by the Appeal Panel shall be equivalent to any formal procedure capable of being issued in an action for enforcing the attendance of witnesses and compelling the production of documents.
 
@@ -1755,6 +2159,10 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 (8) In the case of a modification of any condition of a licence, the Appeal Panel may either confirm the modification or direct the Authority not to make the modification, and the decision of the Appeal Panel shall be final.
 
 (9) In the case of a direction or decision of the Authority under Part VII, the Appeal Panel may either confirm, vary or reverse the direction or decision of the Authority or direct the Authority to reconsider the direction or decision, and the decision of the Appeal Panel shall be final.
+
+(9A) An Appeal Panel established by the Minister to consider and determine an appeal under section 98(2) may determine the appeal by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or standard of performance issued or approved by the Authority, and the decision of the Appeal Panel shall be final.
+
+[18/2006 wef 01/05/2006]
 
 (10) The Appeal Panel shall notify the appellant of its decision in respect of his appeal and the reasons for its decision.
 
@@ -1910,7 +2318,9 @@ require the defect to be made good or removed within such period as may be speci
 
 (b) has obtained from the electricity licensee the necessary information on the location of such high voltage electricity cable and has consulted the electricity licensee on the steps to be taken to prevent the high voltage electricity cable from damage while the earthworks are being carried out; and
 
-(c) has caused cable detection work to be carried out by a licensed cable detection work in order to confirm the location of the high voltage electricity cable.
+(c) has caused cable detection work to be carried out by a licensed cable detection worker in order to confirm the location of the high voltage electricity cable.
+
+[18/2006 wef 01/05/2006]
 
 (2) No person other than a licensed cable detection worker shall commence or carry out any cable detection work within the vicinity of any high voltage electricity cable which belongs to or which is under the management or control of an electricity licensee.
 
@@ -1970,7 +2380,7 @@ require the defect to be made good or removed within such period as may be speci
 
 ### Licensing of electrical worker
 
-382\.—(1) Subject to subsection (2), no person shall —
+82\.—(1) Subject to subsection (2), no person shall —
 
 (a) carry out or caused to be carried out any electrical work, unless he holds a valid electrical worker licence;
 
@@ -2014,15 +2424,13 @@ require the defect to be made good or removed within such period as may be speci
 
 (6) Any electrical worker licence issued under the Electrical Workers and Contractors Licensing Act (Cap. 89, 1985 Ed.), in force immediately before the appointed day shall, so far as it is not inconsistent with this Act, continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
 
-3Section 82 shall come into operation on 1st December 2002.
-
 ## PART X
 
 OFFENCES
 
 ### Offences relating to electrical or supply installations
 
-83\.—(1) Any person who supplies electricity to any premises without an electrical or a supply installation licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+83\.\*—(1) Any person who supplies electricity to any premises without an electrical or a supply installation licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (2) Any person who wilfully tampers with or adjusts any electrical or supply installation or any part thereof so as to cause or to be likely to cause danger to human life or damage to any property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 
@@ -2036,13 +2444,17 @@ OFFENCES
 
 (7) Any licensee of an electrical or a supply installation who, without lawful excuse, fails to comply with any condition in his licence shall be guilty of an offence.
 
+\*Section 83 came into operation on 1st January 2003 (S 654/2002).
+
 ### Restoration of supply without consent
 
-84\. Any person who, without the consent of an electricity licensee, restores a supply of electricity to any premises where such supply has been discontinued by the electricity licensee in the exercise of its powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+84\. \*Any person who, without the consent of an electricity licensee, restores a supply of electricity to any premises where such supply has been discontinued by the electricity licensee in the exercise of its powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+
+\*Section 84 came into operation on 1st January 2003 (S 654/2002).
 
 ### Damage to property of electricity licensee
 
-85\.—(1) Any person who wilfully removes, destroys or damages any electrical plant or electricity cable in the transmission network belonging to or under the management or control of an electricity licensee or hinders or prevents the electrical plant or electricity cable from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+85\.\*—(1) Any person who wilfully removes, destroys or damages any electrical plant or electricity cable in the transmission network belonging to or under the management or control of an electricity licensee or hinders or prevents the electrical plant or electricity cable from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (2) Notwithstanding subsection (1), any person who, in the course of carrying out any earthworks, damages or suffers to be damaged any high voltage electricity cable in the transmission network belonging to or under the management or control of an electricity licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
 
@@ -2054,13 +2466,17 @@ OFFENCES
 
 (6) If in any proceedings for an offence under subsection (2), the defence involves acting on information supplied by a licensed cable detection worker, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the licensed cable detection worker.
 
+\*Section 85 came into operation on 1st January 2003 (S 654/2002).
+
 ### Falsely pretending to be employee of Authority or electricity licensee
 
-86\. Any person who seeks to obtain entry to any premises by falsely pretending to be an employee of the Authority or an electricity licensee shall be guilty of an offence.
+86\. \*Any person who seeks to obtain entry to any premises by falsely pretending to be an employee of the Authority or an electricity licensee shall be guilty of an offence.
+
+\*Section 86 came into operation on 1st January 2003 (S 654/2002).
 
 ### Unauthorised use of electricity
 
-87\.—(1) Any person who —
+87\.\*—(1) Any person who —
 
 (a) dishonestly or fraudulently abstracts, uses or consumes, or dishonestly or fraudulently diverts or causes to be diverted, any electricity supplied by an electricity licensee; or
 
@@ -2080,13 +2496,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 when the meter is in the custody or under the control of the person, shall be prima facie evidence that the person has altered or tampered with the meter.
 
+\*Section 87 came into operation on 1st January 2003 (S 654/2002).
+
 ### Obstructing licensee in performance of duties
 
-88\. Any person who at any time molests, or without cause, hinders or obstructs, any employee, agent or contractor of an electricity licensee in the performance of his duties or anything which he is respectively authorised, empowered or required to do under this Act shall be guilty of an offence.
+88\. \*Any person who at any time molests, or without cause, hinders or obstructs, any employee, agent or contractor of an electricity licensee in the performance of his duties or anything which he is respectively authorised, empowered or required to do under this Act shall be guilty of an offence.
+
+\*Section 88 came into operation on 1st January 2003 (S 654/2002).
 
 ### Making of false statements
 
-489\.—(1) Any person who, when giving information to the Authority or making any application under or for the purposes of any provision of this Act, makes any statement which he knows to be false in a material particular, or who recklessly makes any statement which is false in a material particular, shall be guilty of an offence.
+89\.\*—(1) Any person who, when giving information to the Authority or making any application under or for the purposes of any provision of this Act, makes any statement which he knows to be false in a material particular, or who recklessly makes any statement which is false in a material particular, shall be guilty of an offence.
 
 (2) Any person who —
 
@@ -2096,39 +2516,39 @@ when the meter is in the custody or under the control of the person, shall be pr
 
 shall be guilty of an offence.
 
-4Section 89 shall come into operation on 1st December 2002.
+\*Section 89 came into operation on 1st December 2002 (S 600/2002).
 
 ### Jurisdiction of court
 
-590\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+\*90\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
-5Section 90 shall come into operation on 1st December 2002.
+\*Section 90 came into operation on 1st December 2002 (S 600/2002).
 
 ### Offences by body corporate
 
-691\. Where an offence under this Act has been committed by a company, firm, society or other body of persons, any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+\*91\. Where an offence under this Act has been committed by a company, firm, society or other body of persons, any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
 (a) the offence was committed without his consent or connivance; and
 
 (b) he had exercised all such due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
-6Section 91 shall come into operation on 1st December 2002.
+\*Section 91 came into operation on 1st December 2002 (S 600/2002).
 
 ### General penalties
 
-792\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+\*92\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
-7Section 92 shall come into operation on 1st December 2002.
+\*Section 92 came into operation on 1st December 2002 (S 600/2002).
 
 ### Composition of offences
 
-893\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
+\*93\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
 
 (2) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
 (3) All sums collected under this section shall be paid to the Authority.
 
-8Section 93 shall come into operation on 1st December 2002.
+\*Section 93 came into operation on 1st December 2002 (S 600/2002).
 
 ## PART XI
 
@@ -2136,7 +2556,7 @@ MISCELLANEOUS
 
 ### Serious accidents to be reported and investigated
 
-94\.—(1) When any accident causing or resulting in loss of life or hurt to any person or serious damage to property has occurred in connection with any electrical or supply installation, or any other installation, the owner of the premises concerned and the person granted a licence under Part IX for the installation shall —
+\*94\.—(1) When any accident causing or resulting in loss of life or hurt to any person or serious damage to property has occurred in connection with any electrical or supply installation, or any other installation, the owner of the premises concerned and the person granted a licence under Part IX for the installation shall —
 
 (a) report the accident to the Authority by the quickest means available; and
 
@@ -2170,13 +2590,17 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (7) Any person who, without lawful excuse, contravenes subsection (1) or (3) shall be guilty of an offence.
 
+\*Section 94 came into operation on 1st January 2003 (S 654/2002).
+
 ### Power to administer oaths, etc.
 
-95\. For the purpose of holding any inquiry under this Act, any authorised officer shall have power to administer oaths and affirmations and shall be vested with the powers of a Magistrate for compelling the attendance of witnesses, maintaining order and otherwise conducting the inquiry, and any person summoned to attend any such inquiry shall be legally bound so to attend.
+\*95\. For the purpose of holding any inquiry under this Act, any authorised officer shall have power to administer oaths and affirmations and shall be vested with the powers of a Magistrate for compelling the attendance of witnesses, maintaining order and otherwise conducting the inquiry, and any person summoned to attend any such inquiry shall be legally bound so to attend.
+
+\*Section 95 came into operation on 1st January 2003 (S 654/2002).
 
 ### Powers of arrest
 
-96\.—(1) Any police officer or any person authorised in writing by the Chief Executive of the Authority generally or in any particular case may arrest any person committing within his view or who he has reason to believe has committed any offence punishable under this Act if —
+\*96\.—(1) Any police officer or any person authorised in writing by the Chief Executive of the Authority generally or in any particular case may arrest any person committing within his view or who he has reason to believe has committed any offence punishable under this Act if —
 
 (a) the name and address of the person are unknown to him;
 
@@ -2188,23 +2612,63 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (3) A person arrested under this section shall not be detained longer than is necessary for bringing him before a court unless the order of a court for his continued detention is obtained.
 
+\*Section 96 came into operation on 1st January 2003 (S 654/2002).
+
 ### General exemption
 
-97\. The Authority may, with the approval of the Minister, either permanently or for such period as it thinks fit, exempt any person or persons or any class of persons or premises from all or any provision of this Act other than Parts III and VI.
+\*97\. The Authority may, with the approval of the Minister, either permanently or for such period as it thinks fit, exempt any person or persons or any class of persons or premises from all or any provision of this Act other than Parts III and VI.
+
+\*Section 97 came into operation on 1st January 2003 (S 654/2002).
 
 ### Appeal to Minister
 
-98\.—(1) An electricity licensee or other person aggrieved by any decision of the Authority in the exercise of any discretion vested in it by or under this Act may, except for section 26(1) or 31(12) or where provision is made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister.
+\*98\.—(1) A person aggrieved by —
 
-(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until such time as the Minister determines the appeal.
+(a) any decision of the Authority in the exercise of any discretion vested in it by or under this Act, except for section 26(1) or 31(1A), (9) or (12);
 
-(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice approved by the Authority.
+(b) anything contained in any code of practice or standard of performance issued or approved by the Authority under section 16;
+
+(c) any direction issued by the Authority under this Act; or
+
+(d) any notice issued by the Authority under section 5(2)(b),
+
+may, except where provision has been made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister, together with adequate details of the grounds for the appeal.
+
+[18/2006 wef 01/05/2006]
+
+(1A) Unless otherwise provided in this Act, an appeal under subsection (1) shall be lodged within 14 days of the receipt of the decision or direction of, or the issue or approval of the code of practice or standard of performance by, the Authority.
+
+[18/2006 wef 01/05/2006]
+
+(1B) Any person who has lodged an appeal under subsection (1) shall provide such information as may be required by the Minister in such manner and within such period as may be specified by the Minister.
+
+[18/2006 wef 01/05/2006]
+
+(1C) Unless —
+
+(a) otherwise provided in this Act; or
+
+(b) the appeal is against the imposition or the amount of a financial penalty,
+
+an appeal under subsection (1) shall not suspend the effect of the decision, direction, code of practice or standard of performance to which the appeal relates.
+
+[18/2006 wef 01/05/2006]
+
+(2) Where the Minister considers that an appeal lodged under subsection (1) involves issues of such nature or complexity that it ought to be considered and determined by persons with particular technical or other specialised knowledge, he may, subject to section 65(1), establish by direction an Appeal Panel comprising one or more of such persons to consider and determine the appeal.
+
+[18/2006 wef 01/05/2006]
+
+(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or standard of performance issued or approved by the Authority.
+
+[18/2006 wef 01/05/2006]
 
 (4) The decision of the Minister shall be final.
 
+\*Section 98 came into operation on 1st January 2003 (S 654/2002).
+
 ### Service of documents
 
-99\.—(1) Any notice, order or document required or authorised by this Act to be given or served on any person, and any summons issued by a court in connection with any offence under this Act may be served on the person —
+\*99\.—(1) Any notice, order or document required or authorised by this Act to be given or served on any person, and any summons issued by a court in connection with any offence under this Act may be served on the person —
 
 (a) by delivering it to him or to some adult member or employee of his family at his last known place of residence;
 
@@ -2222,13 +2686,17 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order, document or summons would, in the ordinary course of post, be delivered and in proving service of the notice, order, document or summons, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
 
+\*Section 99 came into operation on 1st January 2003 (S 654/2002).
+
 ### Recovery of fees and penalties
 
-100\. Any fee or financial penalty to be paid to the Authority under this Act may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.
+\*100\. Any fee or financial penalty to be paid to the Authority under this Act may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.
+
+\*Section 100 came into operation on 1st January 2003 (S 654/2002).
 
 ### Keeping of register
 
-101\.—(1) The Authority shall, at such location and in such form as it may determine, maintain a register for the purposes of this Act.
+\*101\.—(1) The Authority shall, at such location and in such form as it may determine, maintain a register for the purposes of this Act.
 
 (2) Subject to any direction under subsection (3), the Authority shall cause to be entered in the register —
 
@@ -2242,9 +2710,11 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (4) The register shall be available for inspection by the public during such hours and subject to the payment of such fee as may be specified by the Authority.
 
+\*Section 101 came into operation on 1st January 2003 (S 654/2002).
+
 ### Effect of direction
 
-102\.—(1) The obligation to comply with any direction made by the Authority is a duty owed to any person who may be affected by a contravention of it.
+\*102\.—(1) The obligation to comply with any direction made by the Authority is a duty owed to any person who may be affected by a contravention of it.
 
 (2) Where a duty is owed by virtue of subsection (1) to any person, any breach of the duty which causes that person to sustain loss or damage shall be actionable at the suit or instance of that person.
 
@@ -2252,9 +2722,11 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (4) Without prejudice to any right which any person may have under subsection (2) to bring civil proceedings in respect of any contravention of any relevant direction, compliance with any such direction shall be enforceable by civil proceedings by the Authority for an injunction or for any other appropriate relief.
 
+\*Section 102 came into operation on 1st January 2003 (S 654/2002).
+
 ### Regulations
 
-9103\.—(1) The Authority may, with the approval of the Minister, make regulations for or in respect of every purpose which is considered by the Authority necessary or convenient to be prescribed for carrying out the provisions of this Act.
+103\.\*—(1) The Authority may, with the approval of the Minister, make regulations for or in respect of every purpose which is considered by the Authority necessary or convenient to be prescribed for carrying out the provisions of this Act.
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations for or in respect of all or any of the following matters:
 
@@ -2324,21 +2796,21 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (4) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
-9Section 103 shall come into operation on 1st December 2002.
+\*Section 103 came into operation on 1st December 2002 (S 600/2002).
 
 ### Repeal
 
-10104\.—(1) The Electrical Workers and Contractors Licensing Act (Cap. 89) is repealed.
+104\.\*—(1) The Electrical Workers and Contractors Licensing Act (Cap. 89) is repealed.
 
 (2) All acts done by the Public Utilities Board under the repealed Act before the appointed day shall continue to remain valid and applicable as though done by the Authority under this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Authority.
 
 (3) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-10Section 104 shall come into operation on 1st December 2002.
+\*Section 104 came into operation on 1st December 2002 (S 600/2002).
 
 ### Consequential amendments to other written law
 
-105\.—(1) Paragraph 7 of Part I of the First Schedule to the Criminal Law (Temporary Provisions) Act (Cap. 67) is deleted and the following paragraph substituted therefor:
+105\.—(1)\*Paragraph 7 of Part I of the First Schedule to the Criminal Law (Temporary Provisions) Act (Cap. 67) is deleted and the following paragraph substituted therefor:
 
 “
 
@@ -2346,7 +2818,11 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 ”.
 
-(2) In any written law, a reference to “public electricity licensee” shall be construed as a reference to an “electricity licensee” under this Act.
+\*Section 105(1) and (2) came into operation on 1st January 2003 (S 654/2002).
+
+(2)\*In any written law, a reference to “public electricity licensee” shall be construed as a reference to an “electricity licensee” under this Act.
+
+\*Section 105(1) and (2) came into operation on 1st January 2003 (S 654/2002).
 
 (3) The Electrical Workers and Contractors Licensing Act (Cap. 89, 1985 Ed.) and any subsidiary legislation made thereunder shall be administered by the Energy Market Authority of Singapore, and any references to the Board in that Act and its subsidiary legislation shall be read as references to that Authority.
 
@@ -2356,7 +2832,7 @@ Electricity Act
 
 (CHAPTER 89A)
 
-This Legislative History is provided for the convenience of users of the Electricity Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Electricity Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2377,6 +2853,11 @@ This Legislative History is provided for the convenience of users of the Electri
 |||(Bill No. 9/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|1 January 2003 (Part III (with the exception of section 21(2) and (3)), Parts IV to VIII, sections 67 to 81, 83 to 88, 94 to 102 and 105(1) and (2))|
+|5.|**Act 18 of 2006—Electricity (Amendment) Act 2006**|
+||Date of First Reading|27 February 2006|
+|||(Bill No. 11/2006 published on 28 February 2006)|
+||Date of Second and Third Readings|3 April 2006|
+||Date of commencement|1 May 2006|
 ## COMPARATIVE TABLE
 
 Electricity Act
