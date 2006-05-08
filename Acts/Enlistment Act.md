@@ -198,7 +198,7 @@ REGISTRATION
 
 (d) submit to the taking of his photograph and finger impressions.
 
-(2) Any person affected by a notice given under section 3(1) who, without lawful excuse, fails to present himself for registration in accordance with the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+(2) Any person affected by a notice given under section 3(1) who, without lawful excuse, fails to present himself for registration in accordance with the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (3) The court before which a person is convicted of an offence under subsection (2) may also order that person to present himself for registration for national service on or before a specified date and any person who, without lawful excuse, fails to present himself for registration in accordance with such an order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 for every day during which he fails to register himself after the specified date.
 
@@ -428,7 +428,7 @@ shall reinstate that person in his employment at the termination of such service
 
 unless that person —
 
-(i) has assumed duty or liability in connection with additional operationally ready national service under a punishment imposed by a court undersection 118(16) of the Singapore Armed Forces Act; or
+(i) has assumed duty or liability in connection with additional operationally ready national service under a punishment imposed by a court under section 118(16) of the Singapore Armed Forces Act; or
 
 (ii) is called up for full-time service and is employed only for an agreed definite or certain period of time.
 
@@ -756,7 +756,7 @@ Facsimile transmission, telex and other means of telecommunication
 
 (f) aids, abets or counsels any other person to act in the manner laid down in paragraph (a), (b), (c), (d) or (e),
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [32
 
@@ -943,6 +943,11 @@ This Legislative History is provided for the convenience of users of the Enlistm
 |||(Bill No. 22/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|12 October 2004|
+|19.|**Act 14 of 2006—Enlistment (Amendment) Act 2006**|
+||Date of First Reading|13 February 2006|
+|||(Bill No. 5/2006 published on 14 February 2006)|
+||Date of Second and Third Readings|3 April 2006|
+||Date of commencement|8 May 2006 (except sections 3 and 4(a))|
 ## COMPARATIVE TABLE
 
 Enlistment Act
