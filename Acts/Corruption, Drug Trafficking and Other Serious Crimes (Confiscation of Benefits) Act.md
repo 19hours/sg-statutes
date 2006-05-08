@@ -3102,6 +3102,638 @@ Harassing debtor, besetting his residence, etc.
 
 [25/99]
 
+Part III — Offences included as serious offences with effect from 8th May 2006
+
+[S 254/2006 wef 08/05/2006]
+
+Offences
+
+Description*
+
+Animals and Birds Act (Cap\. 7) 
+
+185. Section 7
+
+Contravention of order with regard to importation, etc.
+
+186. Section 8
+
+Importation or transhipment of any animal, bird or veterinary biologics without licence
+
+187. Section 9
+
+Importation or possession of noxious insects, pests or genetically modified organisms, etc.
+
+188. Section 11
+
+Failure to report arrival of animal or bird, etc.
+
+189. Section 13
+
+Failure to confine animal or bird on board ship, etc.
+
+190. Section 16
+
+Exportation of any animal or bird without licence
+
+Arms and Explosives Act (Cap\. 13) 
+
+191. Section 6
+
+Possession or transfer of possession of unmarked plastic explosives
+
+192. Section 7
+
+Importation or exportation of unmarked plastic explosives
+
+193. Section 9
+
+Exportation or removal of article in contravention of notification by Minister
+
+194. Section 10(2)
+
+Manufacture, possession or import of explosive in contravention of notification by Minister
+
+195. Section 11
+
+Contravention of notification relating to poisonous or noxious gas or noxious substance
+
+196. Section 12
+
+Offence by master of ship, etc., used for certain offences
+
+197. Section 22
+
+Knowingly concealing arms, etc., imported without licence
+
+198. Section 23
+
+Knowingly purchasing guns or arms from person not licensed
+
+Arms Offences Act (Cap\. 14) 
+
+199. Section 6
+
+Trafficking in arms
+
+Betting Act (Cap\. 21) 
+
+200. Section 3
+
+Offences relating to common betting-houses and betting information centres
+
+201. Section 4
+
+Advancing money for conducting business of common betting-house
+
+202. Section 5
+
+Betting in common betting-house
+
+Chemical Weapons (Prohibition) Act(Cap\. 37B) 
+
+203. Section 8
+
+Use, etc., of chemical weapons
+
+Children and Young Persons Act (Cap\. 38) 
+
+204. Section 7
+
+Sexual exploitation of child or young person
+
+205. Section 12
+
+Unlawful transfer of possession, custody or control of children
+
+206. Section 13
+
+Importation of children by false pretences
+
+Commodity Trading Act (Cap\. 48A) 
+
+207. Section 49 for contravention of any of the following:
+
+(a) section 45
+
+Dissemination of information about false trading
+
+(b) section 46
+
+Manipulation of price and cornering
+
+(c) section 47
+
+Employment of fraudulent or deceptive devices, etc.
+
+(d) section 48
+
+Fraudulently inducing trading
+
+Common Gaming Houses Act (Cap\. 49) 
+
+208. Section 5
+
+Assisting in carrying on a public lottery, etc.
+
+209. Section 8
+
+Gaming in public
+
+Computer Misuse Act(Cap\. 50A) 
+
+210. Section 3
+
+Unauthorised access to computer material
+
+211. Section 4
+
+Access with intent to commit or facilitate commission of offence
+
+212. Section 5
+
+Unauthorised modification of computer material
+
+213. Section 6
+
+Unauthorised use or interception of computer service
+
+214. Section 7
+
+Unauthorised obstruction of use of computer
+
+215. Section 8
+
+Unauthorised disclosure of access code
+
+216. Section 10
+
+Abetments and attempts punishable as offences
+
+Control of Plants Act (Cap\. 57A) 
+
+217. Section 7
+
+Importation or transhipment of fresh fruits or vegetables without licence
+
+218. Section 8
+
+Importation or transhipment of fresh fruits or vegetables without permit
+
+219. Any order made under section 28
+
+Export of plants contrary to order by Minister
+
+220. Section 34 for contravention of section 41
+
+Failure to give access to documents, etc.
+
+Control of Plants Act(Cap\. 57A) 
+
+Control of Plants (Plant Importation) Rules (R 4) 
+
+221. Rule 17 for contravention of rule 5 (1)
+
+Importation of regulated plant, etc., without a permit.
+
+Copyright Act (Cap\. 63) 
+
+222. Section 136(1), (2), (3), (4) and (6)
+
+Offences relating to copyright
+
+223. Section 260(6)
+
+Removal or alteration of rights management information
+
+224. Section 261C(4) and (5)
+
+Relating to circumvention of technological protection measures
+
+Criminal Law (Temporary Provisions) Act (Cap\. 67) 
+
+225. Section 3
+
+Supplies
+
+Endangered Species (Import and Export) Act 2006 (Act 5 of 2006) 
+
+226. Section 4
+
+Importation, exportation, etc., of scheduled species without permit
+
+227. Section 5
+
+Scheduled species in transit unaccompanied by CITES permit, etc.
+
+228. Section 19 in relation to section 4 or 5
+
+Abetment of an offence under section 4 or 5
+
+Environmental Pollution Control Act (Cap\. 94A) 
+
+229. Section 22
+
+Importation or sale of hazardous substances without licence, etc.
+
+230. Section 23
+
+Importation or sale of hazardous substances not in accordance with licence, etc.
+
+231. Section 24
+
+Storage, use or dealing with hazardous substances in a manner that threatens health, etc.
+
+Explosive Substances Act (Cap\. 100) 
+
+232. Section 3
+
+Causing explosion likely to endanger life or property
+
+233. Section 4
+
+Attempt to cause explosion, or for making or keeping explosives with intent to endanger life or property
+
+234. Section 5
+
+Making or possessing explosives under suspicious circumstances
+
+Feeding Stuffs Act(Cap\. 105) 
+
+235. Section 4(5)
+
+Importation, manufacture, etc., of animal feeds without licence
+
+Hazardous Waste (Control of Export, Import and Transit) Act (Cap\. 122A) 
+
+236. Section 25
+
+Importation of hazardous waste without permit, etc.
+
+237. Section 26
+
+Exportation of hazardous waste without permit, etc.
+
+238. Section 27
+
+Bringing waste into Singapore in course of carrying out transit proposal without permit, etc.
+
+239. Section 37
+
+Making false statements
+
+Human Organ Transplant Act (Cap\. 131A) 
+
+240. Section 14
+
+Contracting for sale or supply of organ or blood, etc.
+
+Immigration Act(Cap\. 133) 
+
+241. Section 5(5)
+
+Entering or leaving Singapore other than at authorised entry or departure points
+
+242. Section 57(1)(aa), (b) and (c)
+
+Abetting unlawful entry or departure, or engaging in business of conveying prohibited immigrant
+
+Internal Security Act(Cap\. 143) 
+
+243. Section 4
+
+Wearing of prohibited uniform, etc.
+
+244. Section 5
+
+Membership of quasi-military organisations
+
+245. Section 6
+
+Illegal drilling
+
+Medicines Act (Cap\. 176) 
+
+246. Section 20(1) for contravention of either of the following:
+
+(a) section 5
+
+Dealing, etc., with medicinal product without licence
+
+(b) section 6
+
+Manufacture or wholesale dealing with medicinal product without licence
+
+247. Section 20(2)
+
+Possession of medicinal product imported in contravention of section 5
+
+Monetary Authority of Singapore Act (Cap\. 186) 
+
+248. Section 27A(5) for contravention of any of the following regulations of the Monetary Authority of Singapore (Anti-Terrorism Measures) Regulations 2002 (G.N. No. S 515/2002):
+
+(a) regulation 5
+
+Provision or collection of funds for terrorists
+
+(b) regulation 6
+
+Dealing with property of terrorists
+
+(c) regulation 7
+
+Provision of resources and services for the benefit of terrorists
+
+(d) regulation 8
+
+Doing anything that causes, assists or promotes an act contrary to regulation 5, 6 or 7
+
+Penal Code (Cap\. 224) 
+
+249. Section 143
+
+Membership of unlawful assembly
+
+250. Section 144
+
+Joining an unlawful assembly armed with any deadly weapon
+
+251. Section 145
+
+Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse
+
+252. Section 146
+
+Force used by one member in prosecution of common object
+
+253. Section 147
+
+Rioting
+
+254. Section 148
+
+Rioting, armed with a deadly weapon
+
+255. Section 149
+
+Every member of an unlawful assembly to be deemed guilty of any offence committed in prosecution of common object
+
+256. Section 150
+
+Hiring, or conniving at hiring, of persons to join an unlawful assembly
+
+257. Section 151
+
+Knowingly joining or continuing in an assembly of 5 or more persons after it has been commanded to disperse
+
+258. Section 151A
+
+Posting placards, etc.
+
+259. Section 152
+
+Assaulting or obstructing public servant when suppressing riot, etc.
+
+260. Section 397
+
+Robbery when armed or with attempt to cause death or grievous hurt
+
+261. Section 401
+
+Belonging to wandering gang of thieves
+
+262. Section 417
+
+Cheating
+
+263. Section 477
+
+Fraudulent cancellation, destruction, etc., of a will
+
+264. Section 477A
+
+Falsification of accounts
+
+Poisons Act (Cap\. 234) 
+
+265. Section 16 for contravention of section 5
+
+Importation or sale, etc., of poisons without licence
+
+Sale of Food Act(Cap\. 283) 
+
+Food Regulations (Rg 1) 
+
+266. Regulation 14
+
+Imported food to be registered
+
+Securities and Futures Act (Cap\. 289) 
+
+267. Section 204 for contravention of any of the following:
+
+(a) section 197
+
+False trading and market rigging transactions
+
+(b) section 198
+
+Securities market manipulation
+
+(c) section 199
+
+False or misleading statements
+
+(d) section 200
+
+Fraudulently inducing persons to deal in securities
+
+(e) section 201
+
+Employment of manipulative and deceptive devices
+
+(f) section 202
+
+Dissemination of information about illegal transactions
+
+(g) section 203
+
+Failure to make disclosure to securities exchange
+
+268. Section 212 for contravention of any of the following:
+
+(a) section 206
+
+False trading
+
+(b) section 207
+
+Bucketing
+
+(c) section 208
+
+Manipulation of price of futures contract and cornering
+
+(d) section 209
+
+Fraudulently inducing persons to trade in futures contracts
+
+(e) section 210
+
+Employment of fraudulent or deceptive devices, etc.
+
+(f) section 211
+
+Dissemination of information about illegal transactions
+
+269. Section 221 for contravention of section 218 or 219
+
+Insider trading
+
+Strategic Goods (Control) Act (Cap\. 300) 
+
+270. Section 5
+
+Transfer of strategic goods, etc.
+
+271. Section 6
+
+Brokering of strategic goods, etc.
+
+Societies Act (Cap\. 311) 
+
+272. Section 14(2) and (3)
+
+Management or membership of unlawful society, etc.
+
+273. Section 15
+
+Allowing unlawful assembly in premises
+
+274. Section 16
+
+Inciting, etc., a person to become a member of unlawful society
+
+275. Section 17
+
+Procuring subscription or aid for unlawful society
+
+276. Section 18
+
+Publishing, etc., propaganda of unlawful society
+
+277. Section 23(2)
+
+Possession of books, etc., of triad society
+
+Terrorism (Suppression of Financing) Act(Cap\. 325) 
+
+278. Section 3
+
+Providing or collecting property for terrorist acts
+
+279. Section 4
+
+Provision of property and services for terrorist purposes
+
+280. Section 5
+
+Use or possession of property for terrorist purposes
+
+281. Section 6
+
+Dealing with property of terrorists
+
+Trade Marks Act(Cap\. 332) 
+
+282. Section 46
+
+Counterfeiting a trade mark
+
+283. Section 47
+
+Falsely applying a registered trade mark to goods and services
+
+284. Section 48
+
+Making or possessing of article for committing offence
+
+285. Section 49
+
+Importing or selling, etc., goods with falsely applied trade mark
+
+United Nations Act(Cap\. 339) 
+
+United Nations (Anti-Terrorism Measures) Regulations (Rg 1) 
+
+286. Regulation 11 for contravention of any of the following:
+
+(a) regulation 5
+
+Provision or collection of funds for terrorists
+
+(b) regulation 6
+
+Dealing with property of terrorists
+
+(c) regulation 7
+
+Provision of resources and services for the benefit of terrorists
+
+(d) regulation 7A
+
+Sale, supply, etc., of arms and related materials to terrorists
+
+(e) regulation 7B
+
+Carriage of arms and related materials by Singapore ships and aircraft for terrorists
+
+(f) regulation 7C
+
+Provision of technical advice, assistance, etc., related to military activities of terrorists
+
+(g) regulation 8
+
+False threat of terrorist act
+
+(h) regulation 9
+
+Causing, assisting or promoting an act prohibited by regulation 5, 6, 7, 7A, 7B, 7C or 8
+
+Wholesome Meat and Fish Act (Cap\. 349A) 
+
+287. Section 5
+
+Importation, exportation or transhipment of meat products or fish products without licence, etc.
+
+288. Section 6
+
+Importation, exportation or transhipment of meat products or fish products without permit, etc.
+
+Wild Animals and Birds Act (Cap\. 351) 
+
+289. Section 10
+
+Importation of wild animals and birds without authorisation, etc.
+
+Women’s Charter(Cap\. 353) 
+
+290. Section 146
+
+Persons living on or trading in prostitution
+
+291. Section 147
+
+Keeping or management of places of assignation
+
+292. Section 148
+
+Keeping or management of brothels
+
+*Note: The short description of offences in this Schedule is for ease of reference only.
+
+[26/2007 wef 01/01/2008]
+
 ## LEGISLATIVE HISTORY
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -3182,6 +3814,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1 April 2006 (item (11) of the First Schedule)|
+|15.|**G. N. No. S 254/2006—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2006**|
+||Date of commencement|8 May 2006|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
