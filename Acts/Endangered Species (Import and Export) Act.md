@@ -3134,6 +3134,12 @@ Paradisaeidae spp\.
 
 CLASS REPTILIA (REPTILES) 
 
+Chelydridae Snapping turtles
+
+Macroclemys temminckii
+
+(United States of America)
+
 TESTUDINES
 
 Dermatemydidae Central American river turtle
@@ -3177,6 +3183,8 @@ Geoclemys hamiltonii
 Geoemyda spengleri
 
 (China)
+
+"Graptemys spp. (United States of America)
 
 Heosemys depressa
 
@@ -4781,4 +4789,6 @@ ZYGOPHYLLACEAE Lignum-vitae
 Guaiacum
 
 spp\. #2
+
+[S 290/2006 wef 14/06/2006]
 
