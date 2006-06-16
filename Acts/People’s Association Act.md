@@ -371,13 +371,13 @@ MEMBER ORGANISATIONS
 
 7. Chinese Theatre Circle
 
-8. Consumers’ Association of Singapore
+8. Consumers Association of Singapore
 
 9. Er Woo Amateur Musical and Dramatic Association
 
 10. Football Association of Singapore
 
-11. Girls’ Brigade, Singapore
+11.Deleted by S 343/2006, wef 16/06/2006.
 
 11A. Girl Guides, Singapore
 
@@ -416,7 +416,7 @@ MEMBER ORGANISATIONS
 
 25. Radio Modellers Singapore
 
-26. St. John Ambulance
+26. St John Ambulance Singapore
 
 27. Singapore Action Group of Elders
 
@@ -432,7 +432,7 @@ MEMBER ORGANISATIONS
 
 33.Deleted by S 14/2005, wef 07/01/2005.
 
-34. Singapore Bodybuilders Federation
+34. Singapore Bodybuilding and Fitness Federation
 
 35. Singapore Canoe Federation
 
@@ -550,6 +550,8 @@ MEMBER ORGANISATIONS
 
 76. The Eurasian Association, Singapore
 
+76A. The Girls’ Brigade Singapore
+
 77. The Photographic Society of Singapore
 
 78. Volleyball Association of Singapore
@@ -567,7 +569,13 @@ MEMBER ORGANISATIONS
 
 82.Deleted by S 680/2002, wef 30/12/2002.
 
+[S 343/2006 wef 16/06/2006]
+
 [S 616/2005 wef 22/09/2005]
+
+[S 14/2005 wef 07/01/2005]
+
+[S 343/2006 wef 16/06/2006]
 
 [S 14/2005 wef 07/01/2005]
 
@@ -578,6 +586,8 @@ MEMBER ORGANISATIONS
 [S 680/2002 wef 30/12/2002]
 
 [S 14/2005 wef 07/01/2005]
+
+[S 343/2006 wef 16/06/2006]
 
 SECOND SCHEDULE
 
@@ -730,6 +740,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|22 September 2005|
 |54.|**G.N. No. S 815/2005—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 2005**|
 ||Date of commencement|16 December 2005|
+|55.|**G.N. No. S 343/2006—People’s Association Act (Amendment of First Schedule) Notification 2006**|
+||Date of commencement|16 June 2006|
 ## COMPARATIVE TABLE
 
 People’s Association Act
