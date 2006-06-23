@@ -1130,7 +1130,9 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (b) prescribe the manner of application for such permit;
 
-(c) provide for the levy of a fee for the issue of such permit in accordance with such rates as may be prescribed by the Minister;
+(c) prescribe the fees and charges payable for the issue of such permit in accordance with such rates as may be approved by the Minister;
+
+[1/2006 wef 23/06/2006]
 
 (d) prescribe the conditions for the issue of such permit;
 
@@ -1138,11 +1140,13 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (f) provide for the cancellation of such permit;
 
-(g) provide for such permit to be stored in an electronic form on such stored value card, device or appurtenance as may be issued by the Authority or its agent;
+(g) provide for such permit to be stored in such electronic form as the Authority may determine;
 
-(h) regulate the issue and use of such stored value card, device or appurtenance;
+[1/2006 wef 23/06/2006]
 
-(i) provide for the levy of a fee for the issue of such stored value card, device or appurtenance;
+(h) regulate the use of such permit;
+
+[1/2006 wef 23/06/2006]
 
 (j) provide for the levy of a tax for the keeping or use of a foreign vehicle in Singapore in accordance with such rates as may be prescribed by the Minister;
 
@@ -1159,10 +1163,6 @@ shall be guilty of an offence and shall be liable on conviction —
 [45/99]
 
 (4) Where a person is convicted of an offence under any of the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of such fees or taxes as may be certified by an officer appointed by the Authority to be due and payable by him at the date of his conviction, and such amount may be recovered according to the law for the time being in force for the recovery of fines.
-
-[45/99]
-
-(5) Section 77A of the Banking Act (Cap. 19) and section 14 of the Currency Act (Cap. 69) shall not apply to any stored value card, device or appurtenance issued by the Authority or its agent in accordance with the rules.
 
 [45/99]
 
@@ -1570,11 +1570,7 @@ ROAD-USER CHARGES
 
 “road-user charge” means the charge payable for riding, driving or moving a motor vehicle on a specified road during the prescribed hours;
 
-“specified road” means any road or part thereof as may be specified in rules made under this Part;
-
-“stored value card” has the same meaning as in the Banking Act (Cap. 19).
-
-[5/98; 1/2003]
+“specified road” means any road or part thereof as may be specified in rules made under this Part.
 
 ### Levying of road-user charge
 
@@ -1610,8 +1606,6 @@ ROAD-USER CHARGES
 
 (i) require all vehicles (whether registered in Singapore or elsewhere) to be installed with such devices and appurtenances and in such manner as may be prescribed before they may be ridden, driven or moved on a specified road during the prescribed hours;
 
-(ii) provide for the issue by the Authority or its agents of stored value cards to be used with any device prescribed under sub-paragraph (i), regulate the use of such stored value cards and prohibit the issue of such stored value cards by any person not authorised by the Authority to do so;
-
 (iii) prohibit the sale, supply, installation, repair or maintenance of any device or appurtenance prescribed under sub-paragraph (i) by any person not authorised by the Registrar to do so;
 
 (iv) specify the conditions under which any device or appurtenance prescribed under sub-paragraph (i) may be removed from one vehicle and installed in another or transferred from one person to another; and
@@ -1621,10 +1615,6 @@ ROAD-USER CHARGES
 [5/98]
 
 (2) Where a person is convicted of an offence under the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of road-user charge as may be certified by an officer appointed by the Authority in that behalf to be due from such person at the date of such conviction and such amount may be recovered according to the law for the time being in force for the recovery of fines.
-
-[5/98]
-
-(3) Section 77A of the Banking Act (Cap. 19) and section 14 of the Currency Act (Cap. 69) shall not apply to a stored value card issued by the Authority or its agent in accordance with rules made under this section.
 
 [5/98]
 
@@ -5197,6 +5187,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|17 January 2006|
 ||Date of commencement|1 April 2006|
 |||(sections 17, 22 and 23)|
+|51.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 November 2005|
+|||(Bill No. 39/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|23 June 2006|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
