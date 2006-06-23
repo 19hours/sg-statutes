@@ -442,7 +442,7 @@
 
 - [157C Use of information and advice](#Use-of-information-and-advice)
 
-- [158 Disclosure of company information by certain directors](#Disclosure-of-company-information-by-certain-directors)
+- [158 docId=1986-ACT-15;validated=valid;docVerId=;transactionDate=;urn=;validDate=Disclosure of company information by certain directors](#docId=1986-ACT-15;validated=valid;docVerId=;transactionDate=;urn=;validDate=Disclosure-of-company-information-by-certain-directors)
 
 - [159 Power of directors to have regard to interest of its employees, members and rulings of Securities Industry Council](#Power-of-directors-to-have-regard-to-interest-of-its-employees-members-and-rulings-of-Securities-Industry-Council)
 
@@ -790,7 +790,7 @@
 
 - [256 Payment of preliminary costs, etc.](#Payment-of-preliminary-costs-etc)
 
-- [257 Powers of Court on hearing petition](#Powers-of-Court-on-hearing-petition)
+- [257 Powers of Court on hearing winding up application](#Powers-of-Court-on-hearing-winding-up-application)
 
 - [258 Power to stay or restrain proceedings against company](#Power-to-stay-or-restrain-proceedings-against-company)
 
@@ -798,7 +798,7 @@
 
 - [260 Avoidance of certain attachments, etc.](#Avoidance-of-certain-attachments-etc)
 
-- [261 Petition to be lis pendens](#Petition-to-be-lis-pendens)
+- [261 Winding up application to be lis pendens](#Winding-up-application-to-be-lis-pendens)
 
 - [262 Copy of order to be lodged, etc.](#Copy-of-order-to-be-lodged-etc)
 
@@ -1184,21 +1184,11 @@ PRELIMINARY
 
 2\. This Act is divided into Parts, Divisions and Subdivisions as follows:
 
-Part I
-sections 1-7A
-
-...
-
-Preliminary
-sections 1-7A.
-
 Part II
-sections 8-16
 
 ...
 
-Administration of this Act
-sections 8-16.
+Administration of this Act sections 8-16.
 
 Part III
 Constitution of Companies
@@ -1206,150 +1196,88 @@ sections 17-42A
 
 ...
 
-Division 1 — Incorporation
-sections 17-22.
-Division 2 — Powers
-sections 23-42A.
+Division 1 — Incorporation sections 17-22.
+
+...
+
+Division 2 — Powers sections 23-42A.
 
 Part IV
-Shares,
-Debentures and Charges
+Shares, Debentures and Charges
 sections 43-141
 
 ...
 
-Division 1 — Prospectuses sections 43-56.
-
-...
+Division 1 —Prospectuses sections 43-56.
 
 Division 2 — Restrictions on allotment and commencement of business sections 57-62.
 
-...
-
 Division 3 — Shares sections 62A-78.
 
-...
-
-Division 3A — Reduction of Share Capital sections 78A-78K.
-
-...
+Division 3A—Reduction of Share Capital sections 78A-78K.
 
 Division 4 — Substantial shareholdings sections 79-92.
 
-...
+Division 5 — Debentures sections 93-106.
 
-Division 5 — Debentures
-sections 93-106.
+Division 6 — Interests other than shares, debentures, etc., sections 107-120.
 
-...
+Division 7 — Title and transfers sections 121-130.
 
-Division 5A — Exemptions from Divisions 1 and 5 in relation to Prospectus Requirements
-sections 106A to 106L.
+Division 7A — Central Depository System — a book entry or scripless system for the transfer of securities sections 130A-130P.
 
-...
-
-Division 6 — Interests other than shares, debentures, etc.
-sections 107-120.
-
-...
-
-Division 7 — Title and transfers
-sections 121-130.
-
-...
-
-Division 7A — The Central Depository System — a book-entry or scripless system for the transfer of securities
-sections 130A-130P.
-
-...
-
-Division 8 — Registration of charges
-sections 131-141.
+Division 8 — Registration of charges sections 131-141.
 
 Part V
-Management and Administration
+Management and
+Administration
 sections 142-198
 
 ...
 
-Division 1 — Office and name
-sections 142-144.
+Division 1 — Office and name sections 142-144.
 
-...
+Division 2 — Directors and Officers sections 145-173.
 
-Division 2 — Directors and officers
-sections 145-173.
+Division 3 —Meetings and proceedings sections 174-189.
 
-...
+Division 4 —Register of members sections 190-196.
 
-Division 3 — Meetings and proceedings
-sections 173A-189.
-
-...
-
-Division 4 — Register of members
-sections 190-196.
-
-...
-
-Division 5 — Annual return
-sections 197-198.
+Division 5 — Annual return sections 197-198.
 
 Part VI
 Accounts and Audit
-
-...
-
-Division 1 — Accounts
-sections 199-204.
-
 sections 199-209B
 
 ...
 
-Division 2 — Audit
-sections 205-209B.
+Division 1 — Accounts sections 199-204.
+
+Division 2 — Audit sections 205-209B.
 
 Part VII
-sections 210-216B
 
 ...
 
-Arrangements, Reconstructions and Amalgamations
-sections 210-216B.
+Arrangements, Reconstructions and Amalgamations sections 210-216B.
 
 Part VIII
 
 ...
 
-Receivers and Managers
-
-sections 217-227
-
-...
-
-sections 217-227.
+Receivers and Managers sections 217-227.
 
 Part VIIIA
 
 ...
 
-Judicial Management
-
-sections 227A-227X
-
-...
-
-sections 227A-227X.
+Judicial Management sections 227A-227X.
 
 Part IX
 
 ...
 
-Investigations
-sections 228-246.
-
-sections 228-246
+Investigations sections 228-246.
 
 Part X
 Winding Up
@@ -1359,102 +1287,49 @@ sections 247-354
 
 Division 1 — Preliminary sections 247-252.
 
-...
+Division 2 — Winding up by Court sections 253-289.
 
-Division 2 — Winding up by Court
-sections 253-289.
+Subdivision (1) General sections 253-262.
 
-...
+Subdivision (2) Liquidators sections 263-276.
 
-Subdivision (1) General
-sections 253-262.
+Subdivision (3) Committees of inspection sections 277-278.
 
-...
+Subdivision (4) General powers of Court sections 279-289.
 
-Subdivision (2) Liquidators
-sections 263-276.
+Division 3 — Voluntary winding up sections 290-312.
 
-...
+Subdivision (1) Introductory sections 290-293.
 
-Subdivision (3) Committees of inspection
-sections 277-278.
+Subdivision (2) Provisions applicable only to members’ voluntary winding up sections 294-295.
 
-...
+Subdivision (3) Provisions applicable only to creditors’ voluntary winding up sections 296-299.
 
-Subdivision (4) General powers of Court
-sections 279-289.
+Subdivision (4) Provisions applicable to every voluntary winding up sections 300-312.
 
-...
-
-Division 3 — Voluntary winding up
-sections 290-312.
-
-...
-
-Subdivision (1) Introductory
-sections 290-293.
-
-...
-
-Subdivision (2) Provisions applicable only to members’ voluntary winding up
-sections 294-295.
-
-...
-
-Subdivision (3) Provisions applicable only to creditors’ voluntary winding up
-sections 296-299.
-
-...
-
-Subdivision (4) Provisions applicable to every voluntary winding up
-sections 300-312.
-
-...
-
-Division 4 — Provisions applicable to every mode of winding up
-sections 313-349.
-
-...
+Division 4 — Provisions applicable to every mode of winding up sections 313-349.
 
 Subdivision (1) General sections 313-326.
 
-...
+Subdivision (2) Proof and ranking of claims sections 327-328.
 
-Subdivision (2) Proof and ranking of claims
-sections 327-328.
-
-...
-
-Subdivision (3) Effect on other transactions
-sections 329-335.
-
-...
+Subdivision (3) Effect on other transactions sections 329-335.
 
 Subdivision (4) Offences sections 336-342.
 
-...
+Subdivision (5) Dissolution sections 343-349.
 
-Subdivision (5) Dissolution
-sections 343-349.
-
-...
-
-Division 5 — Winding Up of Unregistered Companies
-sections 350-354.
+Division 5—Winding up of unregistered companies sections 350-354.
 
 Part XI
-Various Types of Companies, etc.
-sections 2-386
+Various Types of Companies, etc.,
+sections 355-386
 
 ...
 
-Division 1 — Investment Companies
-sections 2-364.
+Division 1 — Investment companies sections 355-364.
 
-...
-
-Division 2 — Foreign Companies
-sections 365-386.
+Division 2 — Foreign companies sections 365-386.
 
 Part XII
 General
@@ -1462,18 +1337,11 @@ sections 387-411
 
 ...
 
-Division 1 — Enforcement of this Act
-sections 387-399.
+Division 1 — Enforcement of this Act sections 387-399.
 
-...
+Division 2 — Offences sections 400-409A.
 
-Division 2 — Offences
-sections 400-409A.
-
-...
-
-Division 3 — Miscellaneous
-sections 410-411.
+Division 3 — Miscellaneous sections 410-411.
 
 [21/2005 wef 30/01/2006]
 
@@ -1837,9 +1705,7 @@ Invitation to lend money deemed invitation to purchase debentures
 
 As to what constitutes an offer to the public
 
-(6) [ ]
-
-(6) [Act 42/2001 wef 01/07/2002]
+(6) [Deleted by Act 42/2001 wef 01/07/2002]
 
 (7) Unless the contrary intention appears any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -2929,7 +2795,7 @@ Powers
 
 (b) any proceedings by the company or by any member of the company against the present or former officers of the company; or
 
-(c) any petition by the Minister to wind up the company.
+(c) any application by the Minister to wind up the company.
 
 (3) If the unauthorised act, conveyance or transfer sought to be restrained in any proceedings under subsection (2)(a) is being or is to be performed or made pursuant to any contract to which the company is a party, the Court may, if all the parties to the contract are parties to the proceedings and if the Court considers it to be just and equitable, set aside and restrain the performance of the contract and may allow to the company or to the other parties to the contract, as the case requires, compensation for the loss or damage sustained by either of them which may result from the action of the Court in setting aside and restraining the performance of the contract but anticipated profits to be derived from the performance of the contract shall not be awarded by the Court as a loss or damage sustained.
 
@@ -3281,7 +3147,7 @@ any legal proceedings that could have been continued or commenced by or against 
 
 (b) a statement in lieu of prospectus; and
 
-(c) a declaration in the prescribed form verifying that section 61(2) (b) has been complied with,
+(c) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with,
 
 and thereupon the restrictions and limitations referred to in section 18(1) as included in or deemed to be included in the memorandum or articles of such company shall cease to form part of the memorandum or articles.
 
@@ -6012,9 +5878,9 @@ it may award damages to the first-mentioned depositor or to any person who would
 
 (a) any disposition of the property of a company after commencement of a winding up shall be void, unless the Court orders otherwise; or
 
-(b) any disposition of the property of a person who is adjudged bankrupt after presentation of the petition for a bankruptcy order and before vesting of the bankrupt’s estate in a trustee shall be void unless done with the consent or ratification of the Court,
+(b) any disposition of the property of a person who is adjudged bankrupt after the making of an application for a bankruptcy order and before vesting of the bankrupt’s estate in a trustee shall be void unless done with the consent or ratification of the Court,
 
-those provisions shall not apply to any disposition of book-entry securities; but where a Court is satisfied that a party to the disposition, being a party other than the Depository, had notice that a petition had been presented for the winding up or bankruptcy of the other party to the disposition, it may award damages against that party on such terms as it thinks equitable or make such other order as the Court thinks fit, including an order for the transfer of book-entry securities by that party but not an order for the rectification of the Depository Register.
+those provisions shall not apply to any disposition of book-entry securities; but where a Court is satisfied that a party to the disposition, being a party other than the Depository, had notice that an application had been made for the winding up or bankruptcy of the other party to the disposition, it may award damages against that party on such terms as it thinks equitable or make such other order as the Court thinks fit, including an order for the transfer of book-entry securities by that party but not an order for the rectification of the Depository Register.
 
 [22/93]
 
@@ -6450,7 +6316,7 @@ Directors and officers
 
 [5/2004 wef 01/04/2004]
 
-(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act or section 43(1)(b) of the Insurance Act [Cap. 142], or sections 58, 59 and 60 of the Banking Act [Cap. 19] or sections 35 and 37 of the Finance Companies Act [Cap. 108], section 57 of the Financial Advisers Act 2001, section 31, 35ZJ or 41(1)(b) of the Insurance Act (Cap.142) or section 22, 33, 44, 64 or 97 of the Securities and Futures Act 2001.
+(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act or section 43(1)(b) of the Insurance Act [Cap. 142], or sections 58, 59 and 60 of the Banking Act [Cap. 19] or sections 35 and 37 of the Finance Companies Act [Cap. 108], section 57 of the Financial Advisers Act 2001, section 31, 35ZJ or 41(1)(b) of the Insurance Act (Cap.142), section 22 of the Payment Systems (Oversight) Act 2006 or section 22, 33, 44, 64 or 97 of the Securities and Futures Act 2001.
 
 [15/84]
 
@@ -6628,7 +6494,7 @@ as the Minister may reasonably require for the purpose of determining whether to
 
 (a) a company has gone into liquidation —
 
-(i) if it is wound up by the Court, on the date of the presentation of the winding up petition;
+(i) if it is wound up by the Court, on the date of the filing of the winding up application;
 
 (ii) where a provisional liquidator was appointed under section 291(1), at the time when the declaration made under that subsection was lodged with the Registrar; and
 
@@ -6713,6 +6579,8 @@ On a hearing of an application under this section —
 (5) In this section —
 
 “foreign company” means a foreign company to which Division 2 of Part XI applies;
+
+[36/2000 wef 22/01/2001]
 
 ### Appointment of directors to be voted on individually
 
@@ -6980,7 +6848,7 @@ as the case requires.
 
 [5/2004 wef 01/04/2004]
 
-### Disclosure of company information by certain directors
+### docId=1986-ACT-15;validated=valid;docVerId=;transactionDate=;urn=;validDate=Disclosure of company information by certain directors
 
 158\.—(1) A director of a company may disclose information which he has in his capacity as a director or an employee of a company, being information that would not otherwise be available to him, to the persons specified in subsection (2) if the conditions specified in subsection (3) are met.
 
@@ -9808,7 +9676,7 @@ being a statement which complies with subsection (2).
 
 [15/84]
 
-(3) Where an order that the company be wound up is made pursuant to subsection (2)(f), the provisions of this Act relating to winding up of a company shall, with such adaptations as are necessary, apply as if the order had been made upon a petition duly presented to the Court by the company.
+(3) Where an order that the company be wound up is made pursuant to subsection (2)(f), the provisions of this Act relating to winding up of a company shall, with such adaptations as are necessary, apply as if the order had been made upon an application duly made to the Court by the company.
 
 (4) Where an order under this section makes any alteration in or addition to any company’s memorandum or articles, then, notwithstanding anything in any other provision of this Act, but subject to the provisions of the order, the company concerned shall not have power, without the leave of the Court, to make any further alteration in or addition to the memorandum or articles inconsistent with the provisions of the order; but subject to the foregoing provisions of this subsection the alterations or additions made by the order shall be of the same effect as if duly made by resolution of the company.
 
@@ -10106,7 +9974,7 @@ an application may be made to the Court under section 227B for an order that the
 
 ### Power of Court to make a judicial management order and appoint a judicial manager
 
-227B\.—(1) Where a company or its directors (pursuant to a resolution of its members or the board of directors) or a creditor or creditors (including any contingent or prospective creditor or creditors or all or any of those parties, together or separately), pursuant to section 227A, makes an application, by way of petition, for an order that the company should be placed under the judicial management of a judicial manager, the Court may make a judicial management order in relation to the company if, and only if, —
+227B\.—(1) Where a company or its directors (pursuant to a resolution of its members or the board of directors) or a creditor or creditors (including any contingent or prospective creditor or creditors or all or any of those parties, together or separately), pursuant to section 227A, makes an application (referred to in this section as an application for a judicial management order) for an order that the company should be placed under the judicial management of a judicial manager, the Court may make a judicial management order in relation to the company if, and only if, —
 
 (a) it is satisfied that the company is or will be unable to pay its debts; and
 
@@ -10138,25 +10006,27 @@ Nothing in this subsection shall prevent the Minister from himself nominating a 
 
 Notwithstanding paragraph (a), where a person is appointed by the Court or nominated by the Minister to act as a judicial manager that person need not be a public accountant.
 
-(4) When a petition is presented to the Court, notice of the petition —
+(4) When an application for a judicial management order is made to the Court, notice of the application —
 
 (a) shall be published in theGazetteand in an English and Chinese local daily newspaper and a copy thereof sent to the Registrar; and
 
 (b) shall be given —
 
-(i) to the company, in a case where a creditor is the petitioner ; and
+(i) to the company, in a case where a creditor is the applicant; and
 
-(ii) to any person who has appointed or is or may be entitled to appoint a receiver and manager of the whole (or substantially the whole) of a company’s property under the terms of any debentures of a company secured by a floating charge or by a floating charge and one or more fixed charges. In the case of any such floating charge created by an instrument before 15th May 1987, it shall be deemed to contain a power to appoint a receiver and manager in the event that an application under this section is made for the appointment of a judicial manager with the result that the holder of that floating charge shall, in accordance with this paragraph, be given notice of the petition.
+(ii) to any person who has appointed or is or may be entitled to appoint a receiver and manager of the whole (or substantially the whole) of a company’s property under the terms of any debentures of a company secured by a floating charge or by a floating charge and one or more fixed charges. In the case of any such floating charge created by an instrument before 15th May 1987, it shall be deemed to contain a power to appoint a receiver and manager in the event that an application under this section is made for the appointment of a judicial manager with the result that the holder of that floating charge shall, in accordance with this paragraph, be given notice of the application.
 
 [S 137/87]
 
-(5) Subject to subsection (10), the Court shall dismiss a petition if it is satisfied that —
+(5) Subject to subsection (10), the Court shall dismiss an application for a judicial management order if it is satisfied that —
 
 (a) a receiver and manager referred to in subsection (4) has been or will be appointed; or
 
 (b) the making of the order is opposed by a person who has appointed or is entitled to appoint such a receiver and manager.
 
-(6) On hearing the petition, the Court may dismiss the petition or adjourn the hearing conditionally or unconditionally or make an interim order or any other order that it thinks fit.
+(6) On hearing the application for a judicial management order, the Court may dismiss the application or adjourn the hearing conditionally or unconditionally or make an interim order or any other order that it thinks fit.
+
+[42/2005 wef 01/04/2006]
 
 (7) A judicial management order shall not be made in relation to a company —
 
@@ -10168,13 +10038,17 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 (8) A judicial management order shall, unless it is otherwise discharged, remain in force for a period of 180 days from the date of the making of the order but the Court may, on application of a judicial manager, increase this period subject to such terms as the Court may impose.
 
-(9) The costs and expenses of any unsuccessful petition made under this section shall, unless the Court otherwise orders, be borne by the petitioner and, if the Court considers that the petition is frivolous or vexatious, it may make such orders, as it thinks just and equitable, to redress any injustice that may have resulted. (10)
+(9) The costs and expenses of any unsuccessful application for a judicial management order made under this section shall, unless the Court otherwise orders, be borne by the applicant and, if the Court considers that the application is frivolous or vexatious, it may make such orders, as it thinks just and equitable, to redress any injustice that may have resulted.
+
+[42/2005 wef 01/04/2006]
 
 (10) Nothing in this section shall preclude a Court —
 
 (a) from making a judicial management order and appointing a judicial manager if it considers the public interest so requires; or
 
-(b) from appointing, after presentation of a petition and on the application of the petitioner, an interim judicial manager, pending the making of a judicial management order, and such interim judicial manager may, if the Court sees fit, be the person nominated in the petition. The interim judicial manager so appointed may exercise such functions, powers and duties as the Court may specify in the order.
+(b) from appointing, after the making of an application for a judicial management order and on the application of the person applying for the judicial management order, an interim judicial manager, pending the making of a judicial management order, and such interim judicial manager may, if the Court sees fit, be the person nominated in the application for a judicial management order. The interim judicial manager so appointed may exercise such functions, powers and duties as the Court may specify in the order.
+
+[42/2005 wef 01/04/2006]
 
 (11) For the purposes of this Part, “property” in relation to a company includes money, goods, things in action and every description of property, whether real or personal, and whether in Singapore or elsewhere, and also obligations and every description of interest whether present or future or vested or contingent arising out of, or incidental to, property.
 
@@ -10184,7 +10058,7 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 ### Effect of application for a judicial management order
 
-227C\. During the period beginning with the presentation of a petition for a judicial management order and ending with the making of such an order or the dismissal of the petition —
+227C\. During the period beginning with the making of an application for a judicial management order and ending with the making of such an order or the dismissal of the application —
 
 (a) no resolution shall be passed or order made for the winding up of the company;
 
@@ -10200,7 +10074,7 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 (a) any receiver or receiver and manager shall vacate office; and
 
-(b) any petition for the winding up of the company shall be dismissed.
+(b) any application for the winding up of the company shall be dismissed.
 
 (2) Where any receiver and manager has vacated office under subsection (1)(a) —
 
@@ -10490,19 +10364,19 @@ and shall not make the proposed revisions unless they are approved by the majori
 
 ### Protection of interests of creditors and members
 
-227R\.—(1) At any time when a judicial management order is in force, a creditor or member of the company may apply to the Court by petition for an order under this section on the ground —
+227R\.—(1) At any time when a judicial management order is in force, a creditor or member of the company may apply to the Court for an order under this section on the ground —
 
 (a) that the company’s affairs, business and property are being or have been managed by the judicial manager in a manner which is or was unfairly prejudicial to the interests of its creditors or members generally or of some part of its creditors or members (including at least himself) or of a single creditor that represents one quarter in value of the claims against the company; or
 
 (b) that any actual or proposed act or omission of the judicial manager is or would be so prejudicial.
 
-(2) On a petition for an order under this section, the Court may make such order as it thinks fit for giving relief in respect of the matters complained of, or adjourn the hearing conditionally or unconditionally, or make an interim order or any other order that it thinks fit.
+(2) On an application for an order under this section, the Court may make such order as it thinks fit for giving relief in respect of the matters complained of, or adjourn the hearing conditionally or unconditionally, or make an interim order or any other order that it thinks fit.
 
 (3) Subject to subsection (4), an order under this section may —
 
 (a) regulate the future management by the judicial manager of the company’s affairs, business and property;
 
-(b) require the judicial manager to refrain from doing or continuing an act complained of by the petitioner or to do an act which the petitioner has complained he has omitted to do;
+(b) require the judicial manager to refrain from doing or continuing an act complained of by the applicant or to do an act which the applicant has complained he has omitted to do;
 
 (c) require the summoning of a meeting of creditors or members for the purpose of considering such matters as the Court may direct;
 
@@ -10520,7 +10394,7 @@ and shall not make the proposed revisions unless they are approved by the majori
 
 227S\.—(1) Where employees of a company are creditors, by reason that wages or salary are payable to them whether by way of allowance or reimbursement under contracts of employment or any award or agreement regulating conditions of employment or otherwise, and where the employees are members of a trade union that is recognised by the company under the Industrial Relations Act, it shall be sufficient compliance by the judicial manager with sections 227K, 227M and 227N if the notice, statement of proposals or revised proposals referred to therein are sent to the trade union representing the employees.
 
-(2) A trade union to which subsection (1) applies shall be entitled to represent any such employees at a meeting of creditors summoned under section 227M or, with leave of the Court, to petition the Court under section 227R on their behalf or may make representations to the judicial manager on behalf of those employees in respect of —
+(2) A trade union to which subsection (1) applies shall be entitled to represent any such employees at a meeting of creditors summoned under section 227M or, with leave of the Court, to apply to the Court under section 227R on their behalf or may make representations to the judicial manager on behalf of those employees in respect of —
 
 (a) any matter connected with or arising from the continuation or termination of their contracts of employment under section 227I; or
 
@@ -10534,7 +10408,7 @@ and shall not make the proposed revisions unless they are approved by the majori
 
 [15/95]
 
-(2) For the purposes of subsection (1), the date that corresponds with the date of the petition in bankruptcy in the case of a natural person and the date on which a person is adjudged bankrupt is the date on which a petition for a judicial management order is made.
+(2) For the purposes of subsection (1), the date that corresponds with the date of the application for a bankruptcy order in the case of a natural person and the date on which a person is adjudged bankrupt is the date on which an application for a judicial management order is made.
 
 [13/87]
 
@@ -10870,13 +10744,13 @@ shall be liable to be dealt with in the same manner as is provided in section 23
 
 (b) in the case of a foreign company, for the winding up so far as the assets of the company in Singapore are concerned of the affairs of the company,
 
-may be made on petition of the Minister at any time after a report has been made in respect of a declared company by an inspector whereupon the provisions of this Act shall with such adaptations as are necessary, apply as if —
+may be made by the Minister at any time after a report has been made in respect of a declared company by an inspector whereupon the provisions of this Act shall with such adaptations as are necessary, apply as if —
 
-(c) in the case of a company, a winding up petition had been duly presented to the Court by the company; and
+(c) in the case of a company, a winding up application had been duly made to the Court by the company; and
 
-(d) in the case of a foreign company, a petition for an order for the affairs of the company so far as assets in Singapore are concerned to be wound up in Singapore had been duly presented to the Court by a creditor or contributory of the company upon the liquidation of the company in the place in which it is incorporated.
+(d) in the case of a foreign company, an application for an order for the affairs of the company so far as assets in Singapore are concerned to be wound up in Singapore had been duly made to the Court by a creditor or contributory of the company upon the liquidation of the company in the place in which it is incorporated.
 
-(2) Where, in the case of a foreign company, on any petition under subsection (1) an order is made for the affairs of the company so far as assets in Singapore are concerned to be wound up in Singapore the company shall not carry on business or establish or keep a place of business in Singapore.
+(2) Where, in the case of a foreign company, on any application under subsection (1) an order is made for the affairs of the company so far as assets in Singapore are concerned to be wound up in Singapore the company shall not carry on business or establish or keep a place of business in Singapore.
 
 [Aust.s.175.]
 
@@ -11110,7 +10984,7 @@ Subdivision (1) — General
 
 ### Application for winding up
 
-253\.—(1) A company, whether or not it is being wound up voluntarily, may be wound up under an order of the Court on the petition —
+253\.—(1) A company, whether or not it is being wound up voluntarily, may be wound up under an order of the Court on the application —
 
 (a) of the company;
 
@@ -11132,17 +11006,21 @@ or of any two or more of those parties.
 
 (2) Notwithstanding anything in subsection (1) —
 
-(a) a person referred to in subsection (1)(c) may not present a petition on any of the grounds specified in section 254(1)(a), (b), (c), (e) or (i), unless —
+(a) a person referred to in subsection (1)(c) may not make a winding up application on any of the grounds specified in section 254(1)(a), (b), (c), (e) or (i), unless —
 
 (i) the company has no member; or
 
 [28/2004 wef 01/04/2004]
 
-(ii) the shares in respect of which the contributory was a contributory or some of them were originally allotted to the contributory, or have been held by him and registered in his name for at least 6 months during the 18 months before the presentation of the petition or have devolved on him through the death or bankruptcy of a former holder;
+(ii) the shares in respect of which the contributory was a contributory or some of them were originally allotted to the contributory, or have been held by him and registered in his name for at least 6 months during the 18 months before the making of the winding up application or have devolved on him through the death or bankruptcy of a former holder;
 
-(b) a petition shall not, if the ground of the petition is default in lodging the statutory report or in holding the statutory meeting, be presented by any person except a contributory or the Minister nor before the expiration of 14 days after the last day on which the meeting ought to have been held;
+(b) a winding up application shall not, if the ground of the application is default in lodging the statutory report or in holding the statutory meeting, be made by any person except a contributory or the Minister nor before the expiration of 14 days after the last day on which the meeting ought to have been held;
 
-(c) the Court shall not hear the petition if presented by a contingent or prospective creditor until such security for costs has been given as the Court thinks reasonable and a prima facie case for winding up has been established to the satisfaction of the Court; and
+[42/2005 wef 01/04/2006]
+
+(c) the Court shall not hear the winding up application if made by a contingent or prospective creditor until such security for costs has been given as the Court thinks reasonable and a prima facie case for winding up has been established to the satisfaction of the Court; and
+
+[42/2005 wef 01/04/2006]
 
 (d) the Court shall not, where a company is being wound up voluntarily, make a winding up order unless it is satisfied that the voluntary winding up cannot be continued with due regard to the interests of the creditors or contributories.
 
@@ -11206,7 +11084,7 @@ or of any two or more of those parties.
 
 [36/2000 wef 22/01/2001]
 
-(4) Upon the presentation of a petition by the Minister under section 253(1)(h) for the winding up of a company under subsection (1)(m) on the ground that it is being used for purposes against national security or interest, the Court, upon the application of the Minister, may, pending the hearing of the petitionor the making of a winding up order, make —
+(4) Upon the making of an application by the Minister under section 253(1)(h) for the winding up of a company under subsection (1)(m) on the ground that it is being used for purposes against national security or interest, the Court, upon the application of the Minister, may, pending the hearing of the winding up application or the making of a winding up order, make —
 
 (a) an order restraining the company or its directors, manager, officers or employees from doing any act or from carrying out any activity as may be specified in the order; and
 
@@ -11228,9 +11106,9 @@ or of any two or more of those parties.
 
 ### Commencement of winding up
 
-255\.—(1) Where before the presentation of the petition a resolution has been passed by the company for voluntary winding up, the winding up of the company shall be deemed to have commenced at the time of the passing of the resolution, and, unless the Court on proof of fraud or mistake thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
+255\.—(1) Where before the making of a winding up application a resolution has been passed by the company for voluntary winding up, the winding up of the company shall be deemed to have commenced at the time of the passing of the resolution, and, unless the Court on proof of fraud or mistake thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
 
-(2) In any other case the winding up shall be deemed to have commenced at the time of the presentation of the petition for the winding up.
+(2) In any other case the winding up shall be deemed to have commenced at the time of the making of the application for the winding up.
 
 [U.K.s.229.]
 
@@ -11238,39 +11116,39 @@ or of any two or more of those parties.
 
 ### Payment of preliminary costs, etc.
 
-256\.—(1) The persons, other than the company itself or the liquidator thereof, on whose petition any winding up order is made, shall at their own cost prosecute all proceedings in the winding up until a liquidator has been appointed under this Part.
+256\.—(1) The persons, other than the company itself or the liquidator thereof, on whose application any winding up order is made, shall at their own cost prosecute all proceedings in the winding up until a liquidator has been appointed under this Part.
 
-(2) The liquidator shall, unless the Court orders otherwise, reimburse the petitioner out of the assets of the company the taxed costs incurred by the petitioner in any such proceedings.
+(2) The liquidator shall, unless the Court orders otherwise, reimburse the applicant out of the assets of the company the taxed costs incurred by the applicant in any such proceedings.
 
-(3) Where the company has no assets or has insufficient assets, and in the opinion of the Minister any fraud has been committed by any person in the promotion or formation of the company or by any officer of the company in relation to the company since the formation thereof, the taxed costs or so much of them as is not so reimbursed may, with the approval in writing of the Minister, to an extent specified by the Minister but not in any case exceeding $3,000, be reimbursed to the petitioner out of moneys provided by Parliament for the purpose.
+(3) Where the company has no assets or has insufficient assets, and in the opinion of the Minister any fraud has been committed by any person in the promotion or formation of the company or by any officer of the company in relation to the company since the formation thereof, the taxed costs or so much of them as is not so reimbursed may, with the approval in writing of the Minister, to an extent specified by the Minister but not in any case exceeding $3,000, be reimbursed to the applicant out of moneys provided by Parliament for the purpose.
 
-### As to costs when order made on petition of company or liquidator
+### As to costs when order made on application of company or liquidator
 
-(4) Where any winding up order is made upon the petition of the company or the liquidator thereof, the costs incurred shall, subject to any order of the Court, be paid out of assets of the company in like manner as if they were the costs of any other petitioner.
+(4) Where any winding up order is made upon the application of the company or the liquidator thereof, the costs incurred shall, subject to any order of the Court, be paid out of assets of the company in like manner as if they were the costs of any other applicant.
 
 [Aust.s.224.]
 
 [13/87]
 
-### Powers of Court on hearing petition
+### Powers of Court on hearing winding up application
 
-257\.—(1) On hearing a winding up petition, the Court may dismiss it with or without costs or adjourn the hearing conditionally or unconditionally or make any interim or other order that it thinks fit, but the Court shall not refuse to make a winding up order on the ground only that the assets of the company have been mortgaged to an amount equal to or in excess of those assets or that the company has no assets or in the case of a petition by a contributory that there will be no assets available for distribution amongst the contributories.
+257\.—(1) On hearing a winding up application, the Court may dismiss it with or without costs or adjourn the hearing conditionally or unconditionally or make any interim or other order that it thinks fit, but the Court shall not refuse to make a winding up order on the ground only that the assets of the company have been mortgaged to an amount equal to or in excess of those assets or that the company has no assets or in the case of an application by a contributory that there will be no assets available for distribution amongst the contributories.
 
-(2) The Court may on the petition coming on for hearing or at any time on the application of the petitioner, the company, or any person who has given notice that he intends to appear on the hearing of the petition —
+(2) The Court may on the winding up application coming on for hearing or at any time on the application of the person making the winding up application, the company, or any person who has given notice that he intends to appear on the hearing of the winding up application —
 
-(a) direct that any notices be given or any steps taken before or after the hearing of the petition;
+(a) direct that any notices be given or any steps taken before or after the hearing of the winding up application;
 
 (b) dispense with any notices being given or steps being taken which are required by this Act, or by the rules made thereunder, or by any prior order of the Court;
 
-(c) direct that oral evidence be taken on the petition or any matter relating thereto;
+(c) direct that oral evidence be taken on the winding up application or any matter relating thereto;
 
-(d) direct a speedy hearing or trial of the petition or any issue or matter;
+(d) direct a speedy hearing or trial of the winding up application or any issue or matter;
 
-(e) allow the petition to be amended or withdrawn; and
+(e) allow the winding up application to be amended or withdrawn; and
 
 (f) give such directions as to the proceedings as the Court thinks fit.
 
-(3) Where the petition is presented on the ground of default in lodging the statutory report or in holding the statutory meeting, the Court may, instead of making a winding up order, direct that the statutory report shall be lodged or that a meeting shall be held and may order the costs to be paid by any persons who, in the opinion of the Court, are responsible for the default.
+(3) Where the winding up application is made on the ground of default in lodging the statutory report or in holding the statutory meeting, the Court may, instead of making a winding up order, direct that the statutory report shall be lodged or that a meeting shall be held and may order the costs to be paid by any persons who, in the opinion of the Court, are responsible for the default.
 
 [U.K.s.225.]
 
@@ -11278,7 +11156,7 @@ or of any two or more of those parties.
 
 ### Power to stay or restrain proceedings against company
 
-258\. At any time after the presentation of a winding up petition and before a winding up order has been made, the company or any creditor or contributory may, where any action or proceeding against the company is pending, apply to the Court to stay or restrain further proceedings in the action or proceeding, and the Court may stay or restrain the proceedings accordingly on such terms as it thinks fit.
+258\. At any time after the making of a winding up application and before a winding up order has been made, the company or any creditor or contributory may, where any action or proceeding against the company is pending, apply to the Court to stay or restrain further proceedings in the action or proceeding, and the Court may stay or restrain the proceedings accordingly on such terms as it thinks fit.
 
 [U.K.s.226.]
 
@@ -11300,21 +11178,21 @@ or of any two or more of those parties.
 
 [Aust. s. 228.]
 
-### Petition to be lis pendens
+### Winding up application to be lis pendens
 
-261\. Any petition for winding up a company shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
+261\. Any application for winding up a company shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
 
 [Aust.s.229.]
 
 ### Copy of order to be lodged, etc.
 
-262\.—(1) Within 7 days after the making of a winding up order, the petitioner shall lodge with the Registrar notice of —
+262\.—(1) Within 7 days after the making of a winding up order, the applicant for the winding up order shall lodge with the Registrar notice of —
 
 (a) the order and its date; and
 
 (b) the name and address of the liquidator.
 
-(2) On the passing and entering of the winding up order, the petitioner shall within 7 days —
+(2) On the passing and entering of the winding up order, the applicant for the winding up order shall within 7 days —
 
 (a) lodge an office copy of the order with the Official Receiver and a copy of the order with the Registrar;
 
@@ -11334,9 +11212,9 @@ or of any two or more of those parties.
 
 ### Effect of order
 
-(4) Subject to section 322A, an order for winding up a company shall operate in favour of all the creditors and contributories of the company as if made on the joint petition of a creditor and of a contributory.
+(4) Subject to section 322A, an order for winding up a company shall operate in favour of all the creditors and contributories of the company as if made on the joint application of a creditor and of a contributory.
 
-(5) If default is made in complying with subsection (1) or (2), the petitioner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+(5) If default is made in complying with subsection (1) or (2), the applicant for the winding up order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
 [15/84]
 
@@ -11390,7 +11268,7 @@ Subdivision (2) — Liquidators
 
 ### Provisional liquidator
 
-267\. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the presentation of a winding up petition and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
+267\. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the making of a winding up application and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
 
 [Aust.s.231(2).]
 
@@ -12234,7 +12112,7 @@ Subdivision (4) — Provisions applicable to every voluntary winding up
 
 ### Limitation on right to wind up voluntarily
 
-312\. Where a petition has been presented to the Court to wind up a company on the ground that it is unable to pay its debts the company shall not, without the leave of the Court, resolve that it be wound up voluntarily.
+312\. Where an application has been made to the Court to wind up a company on the ground that it is unable to pay its debts the company shall not, without the leave of the Court, resolve that it be wound up voluntarily.
 
 [Aust.s.276.]
 
@@ -12478,7 +12356,7 @@ Subdivision (2) — Proof and ranking of claims
 
 328\.—(1) Subject to the provisions of this Act, in a winding up there shall be paid in priority to all other unsecured debts —
 
-(a) firstly, the costs and expenses of the winding up including the taxed costs of a petitioner payable under section 256, the remuneration of the liquidator and the costs of any audit carried out pursuant to section 317;
+(a) firstly, the costs and expenses of the winding up including the taxed costs of the applicant for the winding up order payable under section 256, the remuneration of the liquidator and the costs of any audit carried out pursuant to section 317;
 
 (b) secondly, subject to subsection (2), all wages or salary (whether or not earned wholly or in part by way of commission) including any amount payable by way of allowance or reimbursement under any contract of employment or award or agreement regulating conditions of employment of any employee;
 
@@ -12566,13 +12444,13 @@ Subdivision (3) — Effect on other transactions
 
 329\.—(1) Subject to this Act and such modifications as may be prescribed, any transfer, mortgage, delivery of goods, payment, execution or other act relating to property made or done by or against a company which, had it been made or done by or against an individual, would in his bankruptcy be void or voidable under section 98, 99 or 103 of the Bankruptcy Act 1995 (read with sections 100, 101 and 102 thereof) shall in the event of the company being wound up be void or voidable in like manner.
 
-(2) For the purposes of this section, the date which corresponds with the date of presentation of the bankruptcy petition in the case of an individual shall be —
+(2) For the purposes of this section, the date which corresponds with the date of making of the application for a bankruptcy order in the case of an individual shall be —
 
 (a) in the case of a winding up by the Court —
 
-(i) the date of the presentation of the petition; or
+(i) the date of the making of the winding up application; or
 
-(ii) where before the presentation of the petition a resolution has been passed by the company for voluntary winding up, the date upon which the resolution to wind up the company voluntarily is passed,
+(ii) where before the making of the winding up application a resolution has been passed by the company for voluntary winding up, the date upon which the resolution to wind up the company voluntarily is passed,
 
 whichever is the earlier; and
 
@@ -12692,7 +12570,7 @@ and in either event, if the case so requires, as if the lease had comprised only
 
 335\.—(1) Subject to subsection (3), where any goods of a company are taken in execution and, before the sale thereof or the completion of the execution by the receipt or recovery of the full amount of the levy, notice is served on the bailiff that a provisional liquidator has been appointed or that a winding up order has been made or that a resolution for voluntary winding up has been passed, the bailiff shall, on being so required, deliver the goods and any money seized or received in part satisfaction of the execution to the liquidator, but the costs of the execution shall be a first charge on the goods or moneys so delivered, and the liquidator may sell the goods, or a sufficient part thereof, for the purpose of satisfying that charge.
 
-(2) Subject to subsection (3), where under an execution in respect of a judgment for a sum exceeding $100 the goods of a company are sold or money is paid in order to avoid sale, the bailiff shall deduct the costs of the execution from the proceeds of the sale or the money paid and retain the balance of 14 days; and if within that time notice is served on him of a petition for the winding up of the company having been presented or of a meeting having been called at which there is to be proposed a resolution for the voluntary winding up and an order is made or a resolution is passed for the winding up, the bailiff shall pay the balance to the liquidator who shall be entitled to retain it as against the execution creditor.
+(2) Subject to subsection (3), where under an execution in respect of a judgment for a sum exceeding $100 the goods of a company are sold or money is paid in order to avoid sale, the bailiff shall deduct the costs of the execution from the proceeds of the sale or the money paid and retain the balance of 14 days; and if within that time notice is served on him of an application for the winding up of the company having been made or of a meeting having been called at which there is to be proposed a resolution for the voluntary winding up and an order is made or a resolution is passed for the winding up, the bailiff shall pay the balance to the liquidator who shall be entitled to retain it as against the execution creditor.
 
 (3) The rights conferred by this section on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the Court thinks fit.
 
@@ -13030,7 +12908,7 @@ and every contributory shall be liable to contribute to the assets of the compan
 
 ### Power of Court to stay or restrain proceedings
 
-353\.—(1) The provisions of this Act with respect to staying and restraining actions and proceedings against a company at any time after the presentation of a petition for winding up and before the making of a winding up order shall, in the case of an unregistered company where the application to stay or restrain is by a creditor, extend to actions and proceedings against any contributory of the company.
+353\.—(1) The provisions of this Act with respect to staying and restraining actions and proceedings against a company at any time after the making of an application for winding up and before the making of a winding up order shall, in the case of an unregistered company where the application to stay or restrain is by a creditor, extend to actions and proceedings against any contributory of the company.
 
 (2) Where an order has been made for winding up an unregistered company, no action or proceeding shall be proceeded with or commenced against any contributory of the company in respect of any debt of the company except by leave of the Court and subject to such terms as the Court imposes.
 
@@ -14634,7 +14512,7 @@ $10
 
 227B and regulation 28 Companies (Filing of Documents) Regulations 2003 (G.N. No. S 17/2003)
 
-Lodgment of notice of the petition for judicial management order and copy of petition for judicial management order
+Lodgment of notice of the application for judicial management order and copy of application for judicial management order
 
 $10
 
@@ -15200,7 +15078,7 @@ $2 per exhibit
 
 227B
 
-Lodgment of petition with the Court
+Lodgment of application with the Court
 
 As prescribed by Rules of Court (Cap. 322, R 5)*
 
@@ -15492,11 +15370,11 @@ Signed this day of 19 .
 
 This form is to be used
 
-4
+3
 
 in favour of
 
-4Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+3Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 the resolution.
 
@@ -16066,7 +15944,9 @@ The judicial manager may exercise all or any of the following powers, namely:
 
 (t) power to rank and claim in the bankruptcy, insolvency, sequestration or liquidation of any person indebted to the company and to receive dividends, and to accede to trust deeds for the creditors of any such person;
 
-(u) power to present or defend a petition for the winding up of the company;
+(u) power to make or defend an application for the winding up of a company;
+
+[42/2005 wef 01/04/2006]
 
 (v) power to do all other things incidental to the exercise of the foregoing powers.
 
@@ -16412,3 +16292,8 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1 April 2006 (items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34)(a) and (36) in First Schedule; and Third Schedule)|
+|88.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 39/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|23 June 2006|
