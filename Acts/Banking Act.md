@@ -214,7 +214,7 @@
 
 - [77 Authority to approve operation of an Asian Currency Unit](#Authority-to-approve-operation-of-an-Asian-Currency-Unit)
 
-- [77A Authority to approve issue of stored value cards](#Authority-to-approve-issue-of-stored-value-cards)
+- [77A (Repealed)](#Repealed)
 
 - [78 Regulations](#Regulations)
 
@@ -2378,28 +2378,6 @@ he shall immediately report the matter to the Authority.
 
 [28/93; 37/98]
 
-(2) The Authority may, from time to time, inspect under conditions of secrecy the operations, books, accounts and transactions of a Clearing House.
-
-[28/93]
-
-(3) Where the Authority is of the opinion that a Clearing House is carrying on its operations in a manner likely to be detrimental to the interest of banks or other participating financial institutions, the Authority may —
-
-(a) require the Clearing House forthwith to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
-
-(b) appoint a person to advise the Clearing House on the proper conduct of its business; or
-
-(c) assume control of and carry on the business of the Clearing House or direct some other person to assume control of and carry on the business of the Clearing House.
-
-[28/93; 37/98]
-
-(4) The Authority may at any time fix the remuneration and expenses to be paid by the operator of the Clearing House to any person appointed by the Authority under subsection (3)(b) or (c), whether or not the appointment of such person has terminated.
-
-[28/93]
-
-(5) Where the Authority has taken action under subsection (3), the Authority may, at any time, vary or reverse any requirement, appointment or direction made by it.
-
-[28/93]
-
 ### Declaration of holidays
 
 60\.—(1) The Authority may, at any time by notice in the Gazette, declare any day or days to be a bank holiday or holidays.
@@ -2672,47 +2650,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/84]
 
-### Authority to approve issue of stored value cards
-
-77A\.—(1) No person shall issue any stored value card except —
-
-(a) a bank which has obtained the approval of the Authority; or
-
-(b) a person for payment only of goods or services or both goods and services provided by that person.
-
-[28/93]
-
-(2) The proceeds arising from every issue by a bank of a stored value card may be subject to such reserve and liquidity requirements as the Authority may by notice in writing determine.
-
-[28/93]
-
-(3) The Authority may, for any failure to comply with the reserve and liquidity requirements, impose a penalty interest charge of $100 per day or such larger amount as the Authority may determine.
-
-[28/93]
-
-(4) The Authority may determine the terms and conditions under which a stored value card may be issued by a bank and that bank shall comply with such terms and conditions.
-
-[28/93]
-
-(5) The use of a stored value card to operate a machine provided by the issuer or by some other person under an agreement with the issuer shall be regarded as the production of the stored value card to the issuer.
-
-[28/93]
-
-(6) The Authority may exempt from subsection (1) for such period and subject to such terms and conditions as the Authority thinks fit any person who has, before 8th October 1993, issued stored value cards.
-
-[28/93]
-
-(7) Section 14 of the Currency Act (Cap. 69) shall not apply to a stored value card issued by a bank in accordance with this section.
-
-[28/93]
-
-(8) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000.
-
-[28/93; 23/2001]
-
-(9) In this section, “stored value card” means a card for which a person pays in advance a sum of money to the issuer in exchange for an undertaking by the issuer that on the production of the card to the issuer or a third party (whether or not some other action is also required), the issuer or the third party, as the case may be, will supply goods or services or both goods and services; and, for the purposes of this definition, “card” includes any token, coupon, stamp, form, booklet or other document or thing.
-
-[28/93; 37/98]
+77A\. [Deleted by Act 1/2006 wef 23/06/2006]
 
 ### Regulations
 
@@ -3269,6 +3207,12 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006|
 |||(Item (2) of First Schedule — Amendment of Banking Act)|
+|25.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 November 2005|
+|||(Bill No. 39/2005 published on 22 November 2005)|
+||Date of Second and Third Readings|16 January 2006|
+||Date of commencement|23 June 2006|
 ## COMPARATIVE TABLE
 
 Banking Act
