@@ -384,13 +384,19 @@ Sections 4, 6, 7 and 13
 
 Research and Statistics Units
 
-1\. Economics and Resources Department of the Building and Construction Authority.
+1. Economics Research Section of the Building and Construction Authority.
+
+[S 393/2006 wef 30/06/2006]
 
 2\. Research and Statistics Unit of the Economic Development Board.
 
-3\. Management Information Section of the Ministry of Education.
+3. Management Information and Research Branch of the Ministry of Education.
 
-4\. Statistics Unit of the Ministry of the Environment.
+[S 393/2006 wef 30/06/2006]
+
+4. Planning Division of the Ministry of the Environment and Water Resources.
+
+[S 393/2006 wef 30/06/2006]
 
 5. Health Information Management of the Ministry of Health.
 
@@ -404,9 +410,9 @@ Research and Statistics Units
 
 [S 40/2011 wef 03/08/2010]
 
-8. Research and Statistics Unit of the Info-communications Development Authority of Singapore.
+8. Strategic Planning Division of the Info-communications Development Authority of Singapore.
 
-[S 502/2000 wef 01/11/2000]
+[S 393/2006 wef 30/06/2006]
 
 THIRD SCHEDULE
 
@@ -518,6 +524,8 @@ This Legislative History is provided for the convenience of users of the Statist
 |||(Bill No. 15/2004 published on 20 April 2004)|
 ||Date of Second and Third Readings|19 May 2004|
 ||Date of commencement|1 July 2004|
+|16.|**G.N. No. S 393/2006—Statistics Act (Amendment of Second Schedule) Notification 2006**|
+||Date of commencement|30 June 2006|
 ## COMPARATIVE TABLE
 
 Statistics Act
