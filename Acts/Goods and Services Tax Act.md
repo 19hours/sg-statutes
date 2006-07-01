@@ -3498,11 +3498,11 @@ Meaning of control
 
 4.—(1) For the purposes of paragraph 3, a person shall be taken to have control of a company if he exercises, or is able to exercise or is entitled to acquire, direct or indirect control over the company’s affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses or is entitled to acquire —
 
-(a) the greater part of the share capital or issued share capital of the company or of the voting power in the company;
+(a) the greater part of the total number of issued shares of the company or of the voting power in the company;
 
 [S 395/2006 wef 01/07/2006]
 
-(b) such part of the issued share capital of the company as would, if the whole of the income of the company were in fact distributed among the participators (without regard to any rights which he or any other person has as a loan creditor), entitle him to receive the greater part of the amount so distributed; or
+(b) such part of the total number of issued shares of the company as would, if the whole of the income of the company were in fact distributed among the participators (without regard to any rights which he or any other person has as a loan creditor), entitle him to receive the greater part of the amount so distributed; or
 
 [S 395/2006 wef 01/07/2006]
 
@@ -3684,8 +3684,6 @@ Finance
 
 (r) the provision of financing by a financial institution in connection with a qualifying Islamic financial arrangement in relation to non-residential property, for which the financial institution derives an effective return.
 
-[28/2007 wef 17/02/2006]
-
 [S 107/94; S204/2000]
 
 Land
@@ -3720,8 +3718,6 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 (b) in the case of a qualifying Islamic financial arrangement described in paragraphs (a), (b) and (c) (ii) of the definition of that arrangement, the difference between the payments made by the purchaser over the cost of the non-residential property bought by the financial institution;
 
-[28/2007 wef 17/02/2006]
-
 “equity security” means any interest in or right to a share in the capital of a body corporate or any option to acquire any such interest or right but excludes a contract of insurance and an estate or interest in land, other than an estate or interest as mortgagee or chargeholder;
 
 “financial institution” means —
@@ -3730,17 +3726,11 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 (b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, by its financial supervisory authority for the carrying on of financial activities;
 
-[28/2007 wef 17/02/2006]
-
 “life insurance contract” means a contract for the provision of a life policy within the meaning of the Insurance Act (Cap. 142);
 
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
-[28/2007 wef 17/02/2006]
-
 “non-residential property” means any land, building, flat or tenement other than any land, building, flat or tenement described in paragraph 2(a), (b) and (c);
-
-[28/2007 wef 17/02/2006]
 
 “qualifying Islamic financial arrangement”, in relation to non-residential property, means an arrangement that is entered into between a financial institution and a purchaser —
 
@@ -3753,8 +3743,6 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 (i) the financial institution immediately sells the non-residential property to the purchaser (whether in consideration of a lump sum payment or instalment payments); or
 
 (ii) the financial institution immediately leases the non-residential property to the purchaser with an option for the purchaser to purchase the same;
-
-[28/2007 wef 17/02/2006]
 
 “unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust .
 
@@ -3971,11 +3959,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 37/2005 published on 9 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
-|24.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
-||Date of First Reading|9 April 2007|
-|||(Bill No. 15/2007 published on 10 April 2007)|
-||Date of Second and Third Readings|22 May 2007|
-||Date of commencement|17 February 2006|
+|24.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
+||Date of commencement|1 July 2006|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
