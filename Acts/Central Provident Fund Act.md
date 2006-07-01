@@ -60,9 +60,11 @@
 
 - [16 Restrictions on withdrawal from medisave account](#Restrictions-on-withdrawal-from-medisave-account)
 
+- [16A Withdrawal from medisave account of deceased member for payment of his medical expenses](#Withdrawal-from-medisave-account-of-deceased-member-for-payment-of-his-medical-expenses)
+
 - [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
 
-- [18 Provisions relating to maintenance of minimum sum and transfer or payment of moneys into retirement account](#Provisions-relating-to-maintenance-of-minimum-sum-and-transfer-or-payment-of-moneys-into-retirement-account)
+- [18 Provisions relating to maintenance of minimum sum and amounts specified under section 15 (2A) (a), (7B) (a) and (8A) (a), and transfer or payment of moneys into retirement account](#Provisions-relating-to-maintenance-of-minimum-sum-and-amounts-specified-under-section-15-2A-a-7B-a-and-8A-a-and-transfer-or-payment-of-moneys-into-retirement-account)
 
 - [18A Transfer of member’s moneys in ordinary account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-to-retirement-account)
 
@@ -316,7 +318,9 @@ PRELIMINARY
 
 “ordinary account” means an ordinary account maintained under section 13;
 
-“retirement account” means the account referred to in section 15(6C);
+“retirement account” means a retirement account maintained for the purposes of section 15(2A)(a), (6C), (7B)(a) and (8A)(a);
+
+[15/2006 wef 01/07/2006]
 
 “special account” means a special account maintained under section 13;
 
@@ -376,11 +380,15 @@ PRELIMINARY
 
 (c) 2 persons representing employees; and
 
-(d) such other persons, not being more than 4, as the Minister may from time to time determine.
+(d) such other persons, not being more than 7, as the Minister may from time to time determine.
 
 [15/2006 wef 01/07/2006]
 
 [11/91]
+
+(4A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint the chief executive officer to be a member of the Board.
+
+[15/2006 wef 01/07/2006]
 
 (5) The quorum of the Board shall be 5.
 
@@ -426,7 +434,7 @@ PRELIMINARY
 
 ### Appointment of inspectors
 
-5\.—(1) The Board may, with the approval of the Minister, appoint such number of inspectors as it may consider necessary for carrying this Act into effect.
+5\.—(1) The Board may appoint such number of inspectors as it may consider necessary for carrying this Act into effect.
 
 (2) The Commissioner for Labour and any Deputy Commissioner for Labour, Assistant Commissioner for Labour or inspecting officer appointed under the Employment Act (Cap. 91) may exercise all or any of the powers of an inspector.
 
@@ -614,7 +622,7 @@ CONTRIBUTIONS TO FUND
 
 13\.—(1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
-(a) an ordinary account from which, apart from section 15(2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (n) or (r);
+(a) an ordinary account from which, apart from subsection (7) and sections 15(2), (3), (4) and (5), 18, 18A, 18B, 22 and 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (n) or (r);
 
 [31/2003 wef 01/07/2004]
 
@@ -622,7 +630,7 @@ CONTRIBUTIONS TO FUND
 
 [15/2006 wef 01/07/2006]
 
-(b) a medisave account from which, apart from sections 15(2) to (5) and 54 , withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
+(b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A and 54, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
 
 [24/2005 wef 22/08/2005]
 
@@ -630,7 +638,7 @@ CONTRIBUTIONS TO FUND
 
 [40/2007 wef 01/10/2007]
 
-(c) a special account from which no withdrawal may be made except under section 15(2) to (5), section 17, section 45(2) or in accordance with any regulations made under section 77(1)(n) .
+(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17 or 45 or in accordance with any regulations made under section 77(1)(n) .
 
 [15/2006 wef 01/07/2006]
 
@@ -660,19 +668,23 @@ CONTRIBUTIONS TO FUND
 
 [27/92]
 
-(6) The Board shall transfer to a member’s ordinary account any amount standing to his credit in his medisave account which is in excess of such amount as the Minister may from time to time direct.
+(6) The Board shall transfer to one or more designated accounts of a member, in accordance with any regulations made under section 77(1)(ka), any amount standing to his credit in his medisave account which is in excess of such amount as the Minister may from time to time direct.
 
 [15/2006 wef 01/07/2006]
 
 [16/86]
 
-(7) Where there is no balance in the medisave account of a member, the Board may, upon application by the member and with the approval of the Minister, transfer to the medisave account of the member any amount standing to his credit in the ordinary account which had been transferred from the medisave account, including any interest which would have accrued thereon if the transfer had not been made.
+(7) Where there is no balance in the medisave account of a member, the Board may, upon application by the member and with the approval of the Minister, transfer to the medisave account of the member any amount standing to his credit in any designated account which had been transferred from the medisave account, including any interest which would have accrued thereon if the transfer had not been made.
 
 [15/2006 wef 01/07/2006]
 
 [57/2007 wef 01/01/2008]
 
 [27/92]
+
+(8) In this section, “designated account”, in relation to a member, means such ordinary account, special account or retirement account (if any) of the member as may be prescribed by any regulations made under section 77(1)(ka).
+
+[15/2006 wef 01/07/2006]
 
 ### Power to impose conditions relating to contributions by self-employed persons
 
@@ -804,15 +816,41 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (c) being a citizen of Malaysia has left or is about to leave Singapore permanently for the States of Malaya in such circumstances as the Minister may approve;
 
-(d) is physically or mentally incapacitated from ever continuing in any employment at any time before he attains the age of 55 years; or
+(d) is physically or mentally incapacitated —
 
-(e) is found to be of unsound mind at any time before he attains the age of 55 years.
+(i) from ever continuing in any employment; or
 
-[5/87]
+(ii) in such other manner as the Minister may approve;
+
+[15/2006 wef 01/07/2006]
+
+(e) is of unsound mind;
+
+[15/2006 wef 01/07/2006]
+
+(f) is suffering from a medical condition leading to a severely impaired life expectancy; or
+
+[15/2006 wef 01/07/2006]
+
+(g) is suffering from a terminal illness or disease.
+
+[15/2006 wef 01/07/2006]
 
 [25/2008 wef 01/11/2008]
 
 [18/2009 wef 01/03/2010]
+
+(2A) A member of the Fund who is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
+
+(a) set aside or top-up in his retirement account such amount as the Minister may specify; and
+
+(b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
+
+[15/2006 wef 01/07/2006]
+
+(2B) The amount referred to in subsection (2A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+
+[15/2006 wef 01/07/2006]
 
 (3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
 
@@ -824,11 +862,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw such portion of the sum standing to the credit of that member in the Fund as is set out in the memorandum executed in accordance with that section.
+(5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw such portion of the balance standing to the credit of that member in the Fund, after deducting any sum withdrawn, or to be withdrawn, under section 16A, as is set out in the memorandum executed in accordance with that section.
 
 [15/2006 wef 01/07/2006]
 
-(6) Subject to subsections (6A) and (8), a member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund shall, at the time of withdrawal and in accordance with any regulations made under this Act —
+(6) Subject to subsections (6A), (8) and (8A), a member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund shall, at the time of withdrawal and in accordance with any regulations made under this Act —
 
 (a) set aside or top-up a prescribed sum (referred to in this Act as the minimum sum); and
 
@@ -838,15 +876,31 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [15/2006 wef 01/07/2006]
 
-(6A) Where a member and his spouse desire to set aside jointly an amount equal to one and a half times the minimum sum, the Board may permit them to set aside that amount if they have each executed a memorandum under section 25(1) nominating each other to receive the amount of the minimum sum belonging to either party on the death of the other party.
+(6A) Where 2 members of the Fund are parties to a marriage, the Board may, on their joint application, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
 
-[10/94]
+[15/2006 wef 01/07/2006]
 
-(6B) Any memorandum executed under subsection (6A) shall be irrevocable during the subsistence of the marriage between the members.
+[18/2009 wef 01/09/2009]
 
-[10/94]
+(6B) No memorandum executed under subsection (6A) shall be revocable during the subsistence of the marriage between the members unless the Board is satisfied that either or both of the members are —
 
-(6C) The minimum sum may be deposited with an approved bank or in a retirement account with the Board or used to purchase an approved annuity from an insurer.
+(a) physically or mentally incapacitated —
+
+(i) from ever continuing in any employment; or
+
+(ii) in such other manner as the Minister may approve;
+
+(b) of unsound mind;
+
+(c) suffering from a medical condition leading to a severely impaired life expectancy; or
+
+(d) suffering from a terminal illness or disease.
+
+[15/2006 wef 01/07/2006]
+
+(6C) The minimum sum may be deposited with an approved bank or in a retirement account or used to purchase an approved annuity from an insurer.
+
+[15/2006 wef 01/07/2006]
 
 [10/94]
 
@@ -864,9 +918,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (7A) A member who has attained the age of 55 years but has not attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw the minimum sum or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
 
-(a) physically or mentally incapacitated from ever continuing in any employment;
+(a) physically or mentally incapacitated —
 
-(b) found to be of unsound mind;
+(i) from ever continuing in any employment; or
+
+(ii) in such other manner as the Minister may approve;
+
+[15/2006 wef 01/07/2006]
+
+(b) of unsound mind;
+
+[15/2006 wef 01/07/2006]
+
+(ba) suffering from a medical condition leading to a severely impaired life expectancy;
+
+[15/2006 wef 01/07/2006]
 
 (c) suffering from a terminal illness or disease; or
 
@@ -878,19 +944,61 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [18/2009 wef 01/09/2009]
 
-(8) A member need not deposit the minimum sum with an approved bank or in a retirement account or use the minimum sum to purchase an approved annuity from an insurer if the Board is satisfied that the member —
+(7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (ba) to withdraw the minimum sum or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
 
-(a) is suffering from a terminal illness or disease;
+(a) set aside or top-up in his retirement account such amount as the Minister may specify; and
 
-(b) on his retirement will receive a pension, annuity or other benefit as may be approved which will provide him with a monthly income of not less in value than the amount prescribed by the Minister; or
+(b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
 
-(c) has attained the age of 55 years before 1st January 1987.
+[15/2006 wef 01/07/2006]
 
-[5/87]
+[18/2009 wef 01/09/2009]
+
+[22/2010 wef 01/10/2010]
+
+(7C) The amount referred to in subsection (7B)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+
+[15/2006 wef 01/07/2006]
+
+(8) A member need not deposit the minimum sum with an approved bank or in his retirement account, or use the minimum sum to purchase an approved annuity from an insurer, if the Board is satisfied that the member —
+
+(a) is physically or mentally incapacitated —
+
+(i) from ever continuing in any employment; or
+
+(ii) in such other manner as the Minister may approve;
+
+(b) is of unsound mind;
+
+(c) is suffering from a medical condition leading to a severely impaired life expectancy;
+
+(d) is suffering from a terminal illness or disease;
+
+(e) on his retirement will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of not less in value than the amount prescribed by the Minister; or
+
+(f) has attained the age of 55 years before 1st January 1987.
+
+[15/2006 wef 01/07/2006]
+
+[18/2009 wef 01/09/2009]
+
+(8A) A member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and who, under subsection (8)(a), (b) or (c), need not deposit the minimum sum with an approved bank or in his retirement account or use the minimum sum to purchase an approved annuity from an insurer shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
+
+(a) set aside or top-up in his retirement account such amount as the Minister may specify; and
+
+(b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
+
+[15/2006 wef 01/07/2006]
+
+[18/2009 wef 01/09/2009]
+
+(8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+
+[15/2006 wef 01/07/2006]
 
 (9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
-(a) to withdraw the minimum sumfrom his account with an approved bank or his retirement account; or
+(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
 
 [15/2006 wef 01/07/2006]
 
@@ -950,6 +1058,10 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [39/2000]
 
+(10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
+
+[15/2006 wef 01/07/2006]
+
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
 [40/2007 wef 01/10/2007]
@@ -982,13 +1094,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (i) the death of the member;
 
-(ii) if the member is suffering from a terminal illness or disease;
-
-(iii) if the member has complied with the requirements of subsection (6);
+(ii) the member is suffering from a terminal illness or disease;
 
 [15/2006 wef 01/07/2006]
 
-(iv) if the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7); or
+(iii) the member has complied with the requirements of subsection (2A), (6), (7B) or (8A);
+
+[15/2006 wef 01/07/2006]
+
+(iv) the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7); or
 
 [15/2006 wef 01/07/2006]
 
@@ -996,7 +1110,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [22/2010 wef 01/01/2011]
 
-(v) if the member satisfies any of the grounds for withdrawals under subsection (2)(b) or (c).
+(v) the member satisfies any of the grounds for withdrawals under subsection (2)(b) or (c).
+
+[15/2006 wef 01/07/2006]
 
 [5/87; 39/2000]
 
@@ -1028,7 +1144,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Restrictions on withdrawals to ensure repayment of approved loan
 
-15A\. Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw from the Fund any sum standing to his credit under section 15(2)(b), (c), (d) or (e) unless the Board is satisfied that all moneys lent to the member pursuant to any approved loan scheme within the meaning of section 14A and which have been paid into the Fund under section 14A(2) for the benefit of the member, together with any interest and other charges which the member is liable to pay to the Government under the terms and conditions of the loan, have been repaid to the Government.
+15A\. Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw from the Fund any sum standing to his credit under section 15(2)(b), (c), (d), (e), (f) or (g) unless the Board is satisfied that all moneys lent to the member pursuant to any approved loan scheme within the meaning of section 14A and which have been paid into the Fund under section 14A(2) for the benefit of the member, together with any interest and other charges which the member is liable to pay to the Government under the terms and conditions of the loan, have been repaid to the Government.
 
 [15/2006 wef 01/07/2006]
 
@@ -1050,7 +1166,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Restrictions on withdrawal from medisave account
 
-16\.—(1) Notwithstanding anything in section 15, a member of the Fund, or a committee of his person or of his estate appointed under the Mental Disorders and Treatment Act (Cap. 178), shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d) or (e) or (3) if the amount in his medisave account does not exceed the prescribed amount.
+16\.—(1) Notwithstanding anything in section 15, a member of the Fund, or a committee of his person or of his estate appointed under the Mental Disorders and Treatment Act (Cap. 178), shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d), (e), (f) or (g), (3) or (4) if the amount in his medisave account does not exceed the prescribed amount.
 
 [15/2006 wef 01/07/2006]
 
@@ -1058,13 +1174,35 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [32/84]
 
-(2) Where the amount in a member’s medisave account exceeds the prescribed amount, such amount as is in excess of the prescribed amount may be withdrawn under section 15(2)(a), (d) or (e) or (3).
+(2) Where the amount in a member’s medisave account exceeds the prescribed amount —
 
-[32/84]
+(a) if the member is required to top-up the minimum sum under section 15(6)(a), the amount in excess of the prescribed amount (referred to in this subsection as the excess amount) shall be applied to meet any shortfall in the minimum sum, and any balance of the excess amount may be withdrawn under section 15(3) or (4);
+
+(b) if the member is required to set aside or top-up in his retirement account the amount referred to in section 15(2A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(d), (e) or (f);
+
+(c) if the member is required to set aside or top-up in his retirement account the amount referred to in section 15(7B)(a) or (8A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(a), (3) or (4); or
+
+(d) in any other case, the excess amount may be withdrawn under section 15(2)(a) or (g), (3) or (4).
+
+[15/2006 wef 01/07/2006]
 
 (3) In this section, “prescribed amount” means such amount as may be prescribed by the Minister from time to time by regulations made under section 77.
 
 [32/84]
+
+### Withdrawal from medisave account of deceased member for payment of his medical expenses
+
+16A\.—(1) Notwithstanding section 24(3A), on or after the death of a member of the Fund, the Board may, subject to such conditions as the Minister may from time to time impose, permit the withdrawal of the whole or any part of the sum standing to his credit in his medisave account, in accordance with any regulations made under section 77(1), for the payment of expenses for medical treatment received by him, if that withdrawal had been authorised —
+
+(a) before his death, by him or, if he was unable to give the authorisation, by a prescribed person; or
+
+(b) on or after his death, by a prescribed person.
+
+[22/2010 wef 01/10/2010]
+
+(2) Where the Board has permitted the withdrawal of any money under subsection (1), section 24(3A) shall not apply to that money.
+
+(3) In subsection (1), “prescribed person” means such person or committee as may be prescribed by any regulations made under section 77(1).
 
 ### Withdrawal from special account for loan, etc.
 
@@ -1076,9 +1214,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [12/99]
 
-### Provisions relating to maintenance of minimum sum and transfer or payment of moneys into retirement account
+### Provisions relating to maintenance of minimum sum and amounts specified under section 15 (2A) (a), (7B) (a) and (8A) (a), and transfer or payment of moneys into retirement account
 
-18\. The Board may, for any of the purposes mentioned in section 15(6C) and subject to such terms and conditions as it may impose, permit —
+18\.—(1) The Board may, for any of the purposes mentioned in section 15(6C) and subject to such terms and conditions as it may impose, permit —
 
 (a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of his parent or spouse to be applied by the parent or spouse;
 
@@ -1086,7 +1224,17 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (c) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
 
+[15/2006 wef 01/07/2006]
+
 [10/94; 39/2000]
+
+(2) The Board may, for any of the purposes mentioned in section 15(2A)(a), (7B)(a) and (8A)(a) and subject to such terms and conditions as it may impose, permit —
+
+(a) a member to transfer such portion of the sum standing to his credit in the Fund as the Board may determine to the retirement account of his parent or spouse to be applied by the parent or spouse; or
+
+(b) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
+
+[15/2006 wef 01/07/2006]
 
 ### Transfer of member’s moneys in ordinary account to retirement account
 
@@ -1512,19 +1660,39 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 ### Protection of benefits
 
-24\.—(1) Except as may be provided for in any regulations made under section 77, no withdrawals made by the authority of the Board from the Fund under section 15 nor the rights of any member of the Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
+24\.—(1) Notwithstanding any written or other law but subject to any regulations made under section 77(1) —
 
-(2) The following investments made by a member under any scheme in accordance with any regulations made under section 77(1)(n) shall not be attached, sequestered, levied upon for or in respect of any debt or claim, or be subject to any right of set-off by any bank for any debt owing by the member to the bank:
+(a) no withdrawals made from the Fund under this Act and no rights of any member of the Fund acquired thereunder; and
 
-(a) precious metals, insurance policies and securities purchased by the member;
+(b) no moneys repayable to the Fund by any member of the Fund which are secured by —
 
-(b) the proceeds from the sale of such precious metals and securities and the benefits of such insurance policies; and
+(i) a charge on his estate or interest in an immovable property under section 21(1) or 21A(1); or
 
-(c) any moneys in any fixed deposit account maintained by the member with a bank.
+(ii) a charge constituted on an HDB flat under section 21B(1),
 
-(3) Such precious metals, insurance policies, securities, proceeds, benefits or moneys shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, insurance policies, securities, proceeds, benefits or moneys shall be deemed not to form part of the property of the member.
+shall be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
-(3A) All moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
+[15/2006 wef 01/07/2006]
+
+[40/2007 wef 01/10/2007]
+
+[57/2007 wef 28/12/2007]
+
+(2) Notwithstanding any written or other law , every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n), and the proceeds and benefits of the investment, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+
+[15/2006 wef 01/07/2006]
+
+[40/2007 wef 01/10/2007]
+
+(3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) and the proceeds and benefits of the investment —
+
+(a) shall not pass to the Official Assignee on the bankruptcy of the member; and
+
+(b) shall be deemed not to form part of the property of the member.
+
+[15/2006 wef 01/07/2006]
+
+(3A) Subject to section 16A , all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
 
@@ -1554,7 +1722,9 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
-(7) In this section, “insurance policies” includes investment-linked insurance policies.
+(7) In this section, “HDB flat” has the same meaning as in section 21B(14).
+
+[15/2006 wef 01/07/2006]
 
 ### Moneys payable on death of member
 
@@ -1564,7 +1734,15 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [31/95]
 
-(2) If, at the time of the death of a member of the Fund, there is no person nominated under subsection (1), the total amount payable out of the Fund shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
+(2) Where, at the time of the death of a member of the Fund, no person has been nominated by him under subsection (1), the total amount payable on his death out of the Fund shall be paid to the Public Trustee for disposal in accordance with —
+
+(a) the Intestate Succession Act (Cap. 146), if the member is not a Muslim at the time of his death; or
+
+(b) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member is a Muslim at the time of his death.
+
+[15/2006 wef 01/07/2006]
+
+[22/2010 wef 01/10/2010]
 
 (3) If any person nominated (other than a widow) is below the age of 18 years at the time of payment of the amount payable out of the Fund, his portion of the amount payable shall similarly be paid to the Public Trustee for the benefit of the nominated person.
 
@@ -1622,7 +1800,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (2) The Board may, in its discretion but only after the Board is satisfied that all repayments of any loan given to the member by the Government under an approved loan scheme within the meaning of section 14A, together with all interest and other charges which the member is liable to pay to the Government under the terms and conditions of that loan, have been paid, allow a member who is an undischarged bankrupt to withdraw from the amount standing to his credit in the Fund if —
 
-(a) he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d) or (e); and
+(a) he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d), (e), (f) or (g); and
 
 [15/2006 wef 01/07/2006]
 
@@ -2612,11 +2790,15 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance scheme or other insurance scheme approved by the Minister charged with the responsibility for health;
 
+(ka) to provide for the transfer of money from the medisave account of a member to his ordinary account, special account and retirement account (if any);
+
+[15/2006 wef 01/07/2006]
+
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
 
 (m) [Deleted by Act 31/2003 wef 01/07/2004]
 
-(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals, insurance policies (including investment-linked insurance policies) and securities, and depositing in such fixed deposit accounts, as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
+(n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of making such investments as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
 [36/2002 wef 01/01/2003]
 
@@ -2654,7 +2836,7 @@ including the payment of costs, fees or other incidental expenses arising from s
 
 (b) to provide for the keeping of books, accounts or records by employers;
 
-(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund is physically or mentally incapacitated(6B) ;
+(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B) , (7A) (a), (b), (ba) or (c), (8) (a), (b), (c) or (d) or (15) (e) (ii), 36 (2) or 49(2);
 
 [15/2006 wef 01/07/2006]
 
@@ -5170,6 +5352,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 March 2006|
 |147.|**G.N. No. S 193/2006—Central Provident Fund Act (Amendment of First Schedule) Notification 2006**|
 ||Date of commencement|1 April 2006|
+|148.|**Act 15 of 2006—Central Provident Fund (Amendment) Act 2006**|
+||Date of First Reading|13 February 2006|
+|||(Bill No. 6/2006 published on 14 February 2006)|
+||Date of Second and Third Readings|3 April 2006|
+||Date of commencement|1 July 2006|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
