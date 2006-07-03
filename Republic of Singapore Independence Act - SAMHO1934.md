@@ -16,7 +16,7 @@
 
 - [5 Transfer of legislative powers](#Transfer-of-legislative-powers)
 
-- [6 Continuance in force of provisions of the Constitution of Malaysia and exercise of powers thereunder](#Continuance-in-force-of-provisions-of-the-Constitution-of-Malaysia-and-exercise-of-powers-thereunder)
+- [6 Continuance in force of providffsdsfsions of the Constitution of Malaysia and exercise of powers thereunder](#Continuance-in-force-of-provisions-of-the-Constitution-of-Malaysia-and-exercise-of-powers-thereunder)
 
 - [7 Official languages and national language](#Official-languages-and-national-language)
 
@@ -242,12 +242,12 @@ Republic of Singapore Independence Act
 
 This Legislative History is provided for the convenience of users of the Republic of Singapore Independence Act. It is not part of the Act.
 
-||||
-|:-|:-|:-|
-|1.|**Act 9 of 1965—Republic of Singapore Independence Act 1965**|
-||Date of First Reading|13 December 1965|
-|||(Bill No. 43/1965)|
-||Date of Second and Third Readings|22 December 1965|
-||Date of commencement|9 August 1965|
-|2.|**1985 Revised Edition—Republic of Singapore Independence Act**|
-||Date of operation|30 March 1987|
+|     |                                                                 |                    |
+| :-- | :-------------------------------------------------------------- | :----------------- |
+| 1.  | **Act 9 of 1965—Republic of Singapore Independence Act 1965**   |
+|     | Date of First Reading                                           | 13 December 1965   |
+|     |                                                                 | (Bill No. 43/1965) |
+|     | Date of Second and Third Readings                               | 22 December 1965   |
+|     | Date of commencement                                            | 9 August 1965      |
+| 2.  | **1985 Revised Edition—Republic of Singapore Independence Act** |
+|     | Date of operation                                               | 30 March 1987      |
