@@ -1,20 +1,18 @@
-**Community Care Endowment Fund Act 2005**
+**Community Care Endowment Fund Act**
 
-**(No. 33 of 2005)**
+**(CHAPTER 49B)**
 
 **Table of Contents**
 
 [**Long Title**](#Community-Care-Endowment-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II COMMUNITY CARE ENDOWMENT fund**](#Part-II)
+[**Part II COMMUNITY CARE ENDOWMENT FUND**](#Part-II)
 
 - [3 Establishment of Community Care Endowment Fund](#Establishment-of-Community-Care-Endowment-Fund)
 
@@ -56,53 +54,35 @@
 
 [**THE SCHEDULE Supervisory Council**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Community Care Endowment Fund Act
 
-Published by Authority
+(CHAPTER 49B)
 
-NO. 33]
+(Original Enactment: Act 33 of 2005)
 
-Friday, October 28
+REVISED EDITION 2006
 
-[2005
-
-The following Act was passed by Parliament on 19th September 2005 and assented to by the President on 6th October 2005:—
-
-Community Care Endowment Fund Act 2005
-
-(No. 33 of 2005)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-6th October 2005.
-
-Date of Commencement: 24th October 2005
+(31st July 2006)
 
 An Act to establish the Community Care Endowment Fund for the purposes of providing assistance to citizens and permanent residents of Singapore and their family members living in Singapore, who are in financial and other difficulties, and for matters connected therewith; and to terminate the charitable trust known as the Community Assistance Fund.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[24th October 2005]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Community Care Endowment Fund Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Community Care Endowment Fund Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “authorised officer” means any officer authorised by the Minister in writing to exercise such power or perform such function or duty under this Act as the Minister may specify therein;
 
@@ -112,7 +92,7 @@ PRELIMINARY
 
 ## PART II
 
-COMMUNITY CARE ENDOWMENT fund
+COMMUNITY CARE ENDOWMENT FUND
 
 ### Establishment of Community Care Endowment Fund
 
@@ -128,21 +108,27 @@ COMMUNITY CARE ENDOWMENT fund
 
 (3) For the purposes of subsection (1)(c), the net income from investments of capital moneys shall be the amount ascertained by adding to, or deducting from, the income received from the investments of capital moneys any profit derived or loss sustained, as the case may be, from the realisation of such investments.
 
+[LLEFA 2000 Ed., s. 3]
+
 ### Administration of ComCare Fund
 
 4\. The Minister shall be responsible for the administration of the ComCare Fund and all moneys belonging to the Fund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act (Cap. 109).
 
+[LLEFA 2000 Ed., s. 3]
+
 ### Capital moneys of ComCare Fund
 
-5\.—(1) As from the appointed day, such sum as the Minister for Finance may determine out of moneys to be provided by Parliament shall be paid into the ComCare Fund as capital moneys.
+5\.—(1) As from 24th October 2005, such sum as the Minister for Finance may determine out of moneys to be provided by Parliament shall be paid into the ComCare Fund as capital moneys.
 
-(2) The Minister for Finance may, from time to time, after the appointed day pay into the ComCare Fund such sums of capital moneys as he may determine out of moneys to be provided by Parliament.
+(2) The Minister for Finance may, from time to time, after 24th October 2005 pay into the ComCare Fund such sums of capital moneys as he may determine out of moneys to be provided by Parliament.
 
 (3) Notwithstanding the terms of any gift or bequest, all gifts and bequests given or made for the purposes of the ComCare Fund shall be paid into the Fund as capital moneys.
 
 (4) The capital moneys of the ComCare Fund shall not be used for any purpose other than for investment.
 
 (5) Where at any time there is a permanent diminution of the capital moneys of the ComCare Fund, the Minister shall, before paying out any income of the Fund, make good such diminution from the income of the Fund.
+
+[LLEFA 2000 Ed., s. 4]
 
 ### Objects and application of income of ComCare Fund
 
@@ -164,6 +150,8 @@ COMMUNITY CARE ENDOWMENT fund
 
 (c) such other purposes consistent with the objects of the Fund, as may be prescribed.
 
+[LLEFA 2000 Ed., s. 5]
+
 ### Supervisory Council
 
 7\.—(1) A Supervisory Council comprising such members as the Minister may appoint shall be established to oversee the administration and use of the moneys of the ComCare Fund.
@@ -171,6 +159,8 @@ COMMUNITY CARE ENDOWMENT fund
 (2) The Minister shall appoint one of the members as chairman.
 
 (3) The Schedule shall have effect with respect to the Council.
+
+[LLEFA 2000 Ed., s. 6]
 
 ## PART III
 
@@ -180,19 +170,27 @@ FINANCIAL PROVISIONS
 
 8\. All expenses incurred in connection with the administration of the ComCare Fund, including the cost of auditing the accounts of the Fund, shall be defrayed out of the income of the Fund.
 
+[LLEFA 2000 Ed., s. 7]
+
 ### Financial year of ComCare Fund
 
 9\. The financial year of the ComCare Fund shall begin on 1st April of each year and end on 31st March of the succeeding year except that the first financial year of the Fund shall begin on the date of its establishment and end on 31st March of the succeeding year.
 
+[LLEFA 2000 Ed., s. 8]
+
 ### Accounts
 
-10\.—(1) The Minister shall cause to be kept proper accounts and records of all transactions and affairs relating to the ComCare Fund and shall do all things necessary to ensure that all payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the assets and receipts of the Fund.
+10\.—(1) The Minister shall cause to be kept proper accounts and records of all transactions and affairs relating to the ComCare Fund and shall do all things necessary to ensure that all payments out of the Fund are properly authorised and correctly made and that adequate control is maintained over the assets and receipts of the Fund.
 
 (2) The Minister shall, as soon as practicable after the close of each financial year, cause to be prepared and submitted financial statements in respect of that year to the auditor of the ComCare Fund.
+
+[LLEFA 2000 Ed., s. 9]
 
 ### No payment unless approved by Minister
 
 11\. No payment shall be made out of the ComCare Fund unless such payment is approved by the Minister or any authorised officer.
+
+[LLEFA 2000 Ed., s. 10]
 
 ### Appointment, powers and duties of auditor
 
@@ -220,15 +218,21 @@ FINANCIAL PROVISIONS
 
 (6) Where the Auditor-General is not the auditor of the ComCare Fund, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General.
 
+[LLEFA 2000 Ed., s. 11]
+
 ### Failure to furnish information to auditor
 
 13\.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 
 (2) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under subsection (1) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
+[LLEFA 2000 Ed., s. 12]
+
 ### Presentation of annual report, financial statements and auditor’s report to Parliament
 
 14\. The Minister shall, as soon as practicable, cause an annual report in respect of the administration of the ComCare Fund during the preceding financial year to be prepared and shall present a copy of such report and of the audited financial statements and the auditor’s report to Parliament.
+
+[LLEFA 2000 Ed., s. 13]
 
 ## PART IV
 
@@ -243,6 +247,8 @@ MISCELLANEOUS
 (b) produces or furnishes or causes or knowingly allows to be produced or furnished to the Minister or an authorised officer or to the auditor or a person authorised by him, any document which he knows to be false in a material particular,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[LLEFA 2000 Ed., s. 14]
 
 ### Offences by bodies corporate, etc.
 
@@ -292,6 +298,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (3) The Minister may make regulations to prescribe the offences which may be compounded.
 
+[LLEFA 2000 Ed., s. 16]
+
 ### Regulations
 
 18\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Act, and in particular, the regulations may —
@@ -303,6 +311,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 (c) prescribe the procedure of the Council; and
 
 (d) prescribe anything which may be prescribed under this Act.
+
+[LLEFA 2000 Ed., s. 17]
 
 ### Termination of trust known as Community Assistance Fund and transfer of undertaking to Government
 
@@ -316,7 +326,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (3) In this section —
 
-“transfer date” means such date as the Minister may, by notification in the Gazette, appoint;
+“transfer date” means such date as the Minister may, by notification in theGazette\*, appoint;
+
+\*The transfer date is 2nd February 2006 —videS 674/2005.
 
 “undertaking” means all the lands, buildings and other property (whether movable or immovable and whether tangible or intangible) vested in the trust known as the Community Assistance Fund immediately before the transfer date and all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected therewith.
 
@@ -350,5 +362,32 @@ the Minister may remove him from office.
 
 4\. The chairman shall preside at all meetings of the Council at which he is present and, in his absence, the members present shall elect one of their number to act as chairman of that meeting.
 
-5\. Subject to the provisions of this Act, the Council may regulate its own procedure in such manner as it thinks fit.
+5. Subject to the provisions of this Act, the Council may regulate its own procedure in such manner as it thinks fit.
 
+[LLEFA 2000 Ed., The Schedule]
+
+## LEGISLATIVE SOURCE KEY
+
+Community Care Endowment Fund Act
+
+(CHAPTER 49B)
+
+Notes:—Unless otherwise stated, the abbreviations used in the cross-references are references to the Lifelong Learning Endowment Fund Act (Chapter 162A, 2000 Revised Edition). The references are provided for convenience and are not part of the Act.
+
+## LEGISLATIVE HISTORY
+
+Community Care Endowment Fund Act
+
+(CHAPTER 49B)
+
+This Legislative History is provided for the convenience of users of the Community Care Endowment Fund Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 33 of 2005—Community Care Endowment Fund Act 2005**|
+||Date of First Reading|15 August 2005|
+|||(Bill No. 24/2005 published on 16 August 2005)|
+||Date of Second and Third Readings|19 September 2005|
+||Date of commencement|24 October 2005|
+|2.|**2006 Revised Edition—Community Care Endowment Fund Act**|
+||Date of operation|31 July 2006|
