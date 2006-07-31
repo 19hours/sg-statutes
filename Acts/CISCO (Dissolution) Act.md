@@ -1,16 +1,14 @@
-**CISCO (Dissolution) Act 2005**
+**CISCO (Dissolution) Act**
 
-**(No. 3 of 2005)**
+**(CHAPTER 47A)**
 
 **Table of Contents**
 
 [**Long Title**](#CISCO-Dissolution-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
+[**Part I PRELIMINARY**](#Part-I)
 
-[**Part I Preliminary**](#Part-I)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,55 +42,33 @@
 
 - [14 Dissolution of Corporation](#Dissolution-of-Corporation)
 
-- [15 Repeal and saving and transitionals](#Repeal-and-saving-and-transitionals)
+- [15 Saving and transitionals](#Saving-and-transitionals)
 
-- [16 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential Amendments to Other Written Laws**](#THE-SCHEDULE)
+# CISCO (Dissolution) Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 47A)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 3 of 2005)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2006
 
-Published by Authority
+(31st July 2006)
 
-NO. 6]
+An Act to corporatise the Commercial and Industrial Security Corporation by providing for the transfer of the assets, rights, liabilities, employees and undertaking of the Commercial and Industrial Security Corporation to its successor company, and for the consequent dissolution of the Commercial and Industrial Security Corporation and for all matters connected therewith.
 
-Friday, February 25
+[25th May 2005: Except Part IV ;
 
-[2005
-
-The following Act was passed by Parliament on 25th January 2005 and assented to by the President on 3rd February 2005:—
-
-CISCO (Dissolution) Act 2005
-
-(No. 3 of 2005)
-
-I assent.
-
-S R NATHAN
-
-President
-
-3rd February 2005.
-
-Date of Commencement: 25th May 2005
-
-Date of Commencement: 10th June 2005 (Part IV)
-
-An Act to corporatise the Commercial and Industrial Security Corporation by providing for the transfer of the assets, rights, liabilities, employees and undertaking of the Commercial and Industrial Security Corporation to its successor company, and for the consequent dissolution of the Commercial and Industrial Security Corporation and for all matters connected therewith; and to repeal the Commercial and Industrial Security Corporation Act (Chapter 47 of the 1998 Revised Edition) and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+10th June 2005: Part IV ]
 
 ## PART I
 
-Preliminary
+PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the CISCO (Dissolution) Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the CISCO (Dissolution) Act.
 
 ### Interpretation
 
@@ -104,7 +80,7 @@ Preliminary
 
 “property” means property and assets of every description (whether present or future, actual or contingent) wheresoever situate, and includes property held on trust and securities, rights, benefits and powers of every description but does not include any document (other than accounting records) required to be kept by the Corporation;
 
-“repealed Act” means the Commercial and Industrial Security Corporation Act (Cap. 47) repealed by this Act;
+“repealed Act” means the Commercial and Industrial Security Corporation Act (Cap. 47, 1998 Ed.) repealed by this Act;
 
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
@@ -120,7 +96,9 @@ Preliminary
 
 ### Transfer date
 
-3\. The transfer date shall be such date as the Minister may, by notification in theGazette, appoint to be the date on which the undertaking and employees of the Corporation shall be transferred to the successor company.
+3\. The transfer date shall be such date as the Minister may, by notification in theGazette\*, appoint to be the date on which the undertaking and employees of the Corporation shall be transferred to the successor company.
+
+\*The transfer date is 1st June 2005 —videS 312/2005.
 
 ## PART II
 
@@ -143,6 +121,8 @@ SUCCESSOR COMPANY
 (a) be of such value as the Minister for Finance may direct; and
 
 (b) be issued as fully paid and treated for the purposes of the Companies Act (Cap. 50) as if they had been paid up by virtue of the payment to the successor company of their value.
+
+[21/2005]
 
 ## PART III
 
@@ -216,7 +196,7 @@ then, on and after the transfer date, the Children Development Co-Savings Act sh
 
 (c) the woman would have been entitled to remain on that leave, after the transfer date, if the Corporation had continued to exist and the woman had continued to be employed by the Corporation,
 
-then on and after the transfer date, the Children Development Co-Savings Act shall continue to apply to the woman in relation to the confinement in respect of which the leave was granted as if the Corporation continued to be her employer.
+then, on and after the transfer date, the Children Development Co-Savings Act shall continue to apply to the woman in relation to the confinement in respect of which the leave was granted as if the Corporation continued to be her employer.
 
 (5) For the avoidance of doubt, section 18A of the Employment Act (Cap. 91) shall not apply to the transfer under this Part of any employee of the Corporation to the successor company.
 
@@ -230,25 +210,25 @@ then on and after the transfer date, the Children Development Co-Savings Act sha
 
 ### Misconduct or neglect of transferred employee before transfer and continuation and completion of disciplinary proceedings
 
-10\.—(1) Section 8 shall not transfer or otherwise affect the liability of any person to be prosecuted for, convicted of and sentenced for any offence under the Police Force Act 2004 (Act 24 of 2004).
+10\.—(1) Section 8 shall not transfer or otherwise affect the liability of any person to be prosecuted for, convicted of and sentenced for any offence under the Police Force Act (Cap. 235).
 
 (2) Where on the transfer date any disciplinary proceedings were pending against any employee of the Corporation transferred to the service of the successor company under section 8, the proceedings shall be carried on and completed by the successor company —
 
-(a) in accordance with the Police Force Act 2004 where the employee is an auxiliary police; or
+(a) in accordance with the Police Force Act where the employee is an auxiliary police officer; or
 
 (b) in any other case, in accordance with this section.
 
 (3) Where on the transfer date, any disciplinary matter was in the course of being heard or investigated or had been heard and investigated —
 
-(a) by an investigating officer or disciplinary officer under the Police Force Act 2004; or
+(a) by an investigating officer or disciplinary officer under the Police Force Act; or
 
 (b) by a committee or person acting under due authority,
 
 but no order or decision had been rendered thereon, the investigating officer, disciplinary officer, committee or person, as the case may be, shall complete the hearing or investigation and make such finding, order or ruling as he or they could have made or given before the transfer date.
 
-(4) The successor company may, subject to the Police Force Act 2004, reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, while he was in the employment of the Corporation, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Corporation and if this Act had not been enacted.
+(4) The successor company may, subject to the Police Force Act, reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, while he was in the employment of the Corporation, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Corporation and if this Act had not been enacted.
 
-(5) In this section, any reference to the Police Force Act 2004 includes a reference to the Auxiliary Police Force Regulations made under that Act.
+(5) In this section, any reference to the Police Force Act includes a reference to the Auxiliary Police Forces Regulations made under that Act.
 
 ### Penalty to be served by transferred employee
 
@@ -300,119 +280,35 @@ MISCELLANEOUS
 
 14\. The Corporation is dissolved.
 
-### Repeal and saving and transitionals
-
-15\.—(1) The Commercial and Industrial Security Corporation Act (Cap. 47) is repealed.
-
-(2) This Act shall not affect any right of appeal accrued before the transfer date in respect of any finding or order following a disciplinary proceeding or prosecution against an auxiliary police officer transferred under section 8, where the appeal has been made under any written law but has not been dealt with or disposed of immediately before that date.
-
-### Consequential amendments to other written laws
-
-16\. The provisions of the Acts specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
-
-## THE SCHEDULE
-
-Section 16
-
-Consequential Amendments to Other Written Laws
-
-First column
-
-Second column
-
-(1) Arms and Explosives Act (Chapter 13, 2003 Ed.)
-
-Section 2 (1)
-
-(i) Delete paragraph (a) of the definition of “authorised person”.
-
-(ii) Delete the definition of “Commercial and Industrial Security Corporation”.
-
-(2) Central Provident Fund Act
-
-
-
-
-(Chapter 36, 2001 Ed.)
-
-First Schedule, Paragraph 6
-
-Delete item (9).
-
-(3) Evidence Act
-
-
-
-
-(Chapter 97, 1997 Ed.)
-
-The Schedule
-
-Delete item 4.
-
-(4) Intoxicating Substances Act
-
-
-
-
-(Chapter 146A, 2001 Ed.)
-
-Section 25 (5)
-
-Delete the words “a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or”.
-
-(5) Miscellaneous Offences (Public Order and Nuisance) Act
-
-
-
-
-(Chapter 184, 1997 Ed.)
-
-Section 22 (3)
-
-Delete the words “the Commercial and Industrial Security Corporation” in paragraph (a) and substitute the words “any auxiliary police force created under any written law”.
-
-(6) Misuse of Drugs Act
-
-
-
-
-(Chapter 185, 2001 Ed.)
-
-Section 57 (5)
-
-Delete the words “a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or”.
-
-(7) Official Secrets Act
-
-
-
-
-(Chapter 213, 1985 Ed.)
-
-The Schedule
-
-Delete item 4.
-
-(8) Prisons Act
-
-
-
-
-(Chapter 247, 2000 Ed.)
-
-Section 34 (5)
-
-Delete the words “a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or”.
-
-(9) Statutory Bodies and Government Companies (Protection of Secrecy) Act
-
-
-
-
-(Chapter 319, 2004 Ed.)
-
-The Schedule
-
-Delete item 4.
-
+### Saving and transitionals
+
+15\. This Act shall not affect any right of appeal accrued before the transfer date in respect of any finding or order following a disciplinary proceeding or prosecution against an auxiliary police officer transferred under section 8, where the appeal has been made under any written law but has not been dealt with or disposed of immediately before that date.
+
+## LEGISLATIVE HISTORY
+
+CISCO (Dissolution) Act
+
+(CHAPTER 47A)
+
+This Legislative History is provided for the convenience of users of the CISCO (Dissolution) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Dates of commencement|25th May 2005 (Except Part IV)|
+|2.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Dates of commencement|10th June 2005 (Part IV)|
+|3.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
+|4.|**2006 Revised Edition—CISCO (Dissolution) Act**|
+||Date of operation|31 July 2006|
