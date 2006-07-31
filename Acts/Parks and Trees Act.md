@@ -1,16 +1,14 @@
-**Parks and Trees Act 2005**
+**Parks and Trees Act**
 
-**(No. 4 of 2005)**
+**(CHAPTER 216)**
 
 **Table of Contents**
 
 [**Long Title**](#Parks-and-Trees-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,9 +26,9 @@
 
 - [7 Establishment of national parks and nature reserves](#Establishment-of-national-parks-and-nature-reserves)
 
-- [8 Restricted activities in respect of trees, plants, etc., in national park and nature reserve](#Restricted-activities-in-respect-of-trees-plants-etc-in-national-park-and-nature-reserve)
+- [8 Restricted activities in respect of trees, plants, etc., in national parks and nature reserves](#Restricted-activities-in-respect-of-trees-plants-etc-in-national-parks-and-nature-reserves)
 
-- [9 Restricted activities in respect of animals, etc., in national park and nature reserve](#Restricted-activities-in-respect-of-animals-etc-in-national-park-and-nature-reserve)
+- [9 Restricted activities in respect of animals, etc., in national parks and nature reserves](#Restricted-activities-in-respect-of-animals-etc-in-national-parks-and-nature-reserves)
 
 - [10 Destruction, damage, etc., of notices, boundary marks, etc.](#Destruction-damage-etc-of-notices-boundary-marks-etc)
 
@@ -166,63 +164,45 @@
 
 - [63 Regulations](#Regulations)
 
-- [64 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [64 Transitional provisions](#Transitional-provisions)
 
-- [65 Related amendments to National Parks Act](#Related-amendments-to-National-Parks-Act)
+- [65 References in other written laws](#References-in-other-written-laws)
 
-- [66 References in other written laws](#References-in-other-written-laws)
+[**THE SCHEDULE Areas Designated As National Parks and Nature Reserves**](#THE-SCHEDULE)
 
-[**THE SCHEDULE Part I National Parks**](#THE-SCHEDULE)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Parks and Trees Act
 
-Published by Authority
+(CHAPTER 216)
 
-NO. 15]
+(Original Enactment: Act 4 of 2005)
 
-Friday, May 6
+REVISED EDITION 2006
 
-[2005
+(31st July 2006)
 
-The following Act was passed by Parliament on 25th January 2005 and assented to by the President on 3rd February 2005:—
+An Act to provide for the planting, maintenance and conservation of trees and plants within national parks, nature reserves, tree conservation areas, heritage road green buffers and other specified areas, and for matters connected therewith.
 
-Parks and Trees Act 2005
-
-(No. 4 of 2005)
-
-I assent.
-
-S R NATHAN
-
-President
-
-3rd February 2005.
-
-Date of Commencement: 1st August 2005
-
-An Act to provide for the planting, maintenance and conservation of trees and plants within national parks, nature reserves, tree conservation areas, heritage road green buffers and other specified areas, and for matters connected therewith; to repeal the Parks and Trees Act (Chapter 216 of the 1996 Revised Edition) and to make related amendments to the National Parks Act (Chapter 198A of the 1997 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st August 2005]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Parks and Trees Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Parks and Trees Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
 “animal” means any mammal (other than man), bird, reptile, amphibian, fish (including shellfish), insect or any other living creature, vertebrate or invertebrate, and includes any egg or young thereof;
-
-“appointed day” means the date of commencement of this Act;
 
 “authorised officer” means any person appointed under section 4(3);
 
@@ -260,9 +240,9 @@ PRELIMINARY
 
 (ii) spilling (including washing off or directing water contaminated by) any oil, petroleum, paint, cement, mortar or the like onto the root zone of the tree or plant;
 
-(b) ringbarking the tree or plant or scarring its bark when operating any machinery, or by affixing any object (such as a sign) to it using nails, staples, wire or other means;
+(b) ringbarking the tree or plant or scarring its bark when operating any machinery, or by affixing any object (such as a sign) to it using nails, staples, wires or other means;
 
-(c) using tree climbing spikes on a healthy tree (except for the purpose of gaining access to an injured person on it) or fastening materials that significantly restrict the normal vascular function of the trunk or branches of the tree or plant; or
+(c) using tree climbing spikes on a healthy tree (except for the purpose of gaining access to an injured person on it) or fastening materials that significantly restrict the normal vascular function of the trunk or branches of the tree or plant; and
 
 (d) causing damage to the tree’s or plant’s root zone by compaction, excavation or asphyxiation (including filling or stockpiling it with materials);
 
@@ -352,9 +332,11 @@ and includes any land upon which exists any building or other structure which is
 
 “vehicle” means a vehicle whether mechanically propelled or otherwise.
 
+[Parks and Trees 1996 Ed., s. 2; National Parks 1997 Ed., s. 2]
+
 ### Application of Act to Government
 
-3\.—(1) This Act shall bind the Government except that nothing in this Act shall render the Government to prosecution for an offence.
+3\.—(1) This Act shall bind the Government except that nothing in this Act shall render the Government liable to prosecution for an offence.
 
 (2) For the avoidance of doubt, no person shall be immune from prosecution for any offence under this Act by reason that the person is a contractor engaged to provide services to the Government, or is acting in any other similar capacity for, or on behalf of, the Government.
 
@@ -370,9 +352,9 @@ ADMINISTRATION OF ACT
 
 (3) The Commissioner may appoint, by name or office, from among —
 
-(a) any public officers; or
+(a) public officers; or
 
-(b) any officers of the Board,
+(b) officers of the Board,
 
 such number of authorised officers as he considers necessary for the purpose of assisting him in administering and carrying out the provisions of this Act or any other written law.
 
@@ -382,15 +364,21 @@ such number of authorised officers as he considers necessary for the purpose of 
 
 (6) Every authorised officer and park ranger shall be subject to the general supervision of the Commissioner.
 
+[Parks and Trees 1996 Ed., s. 3]
+
 ### Officers deemed to be public servants
 
 5\. The Commissioner, every authorised officer and park ranger shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
+[Parks and Trees 1996 Ed., s. 3 (4)]
+
 ### Identification card to be produced
 
-6\.—(1) The Commissioner and every authorised officer and park ranger, when exercising any of the powers conferred upon him by this Act shall, if not in uniform, declare his office and, on demand, produce such identification card as may be issued to him for the purposes of this Act or any other written law.
+6\.—(1) The Commissioner or any authorised officer or park ranger, when exercising any of the powers conferred upon him by this Act shall, if not in uniform, declare his office and, on demand, produce such identification card as may be issued to him for the purposes of this Act or any other written law.
 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand or order made by the Commissioner or any authorised officer or park ranger not in uniform, who fails to declare his office and refuses to produce his identification card on demand being made by that person.
+
+[Parks and Trees 1996 Ed., s. 21]
 
 ## PART III
 
@@ -412,7 +400,9 @@ NATIONAL PARKS AND NATURE RESERVES
 
 (d) recreational and educational use by the public.
 
-### Restricted activities in respect of trees, plants, etc., in national park and nature reserve
+[National Parks 1997 Ed., s. 23]
+
+### Restricted activities in respect of trees, plants, etc., in national parks and nature reserves
 
 8\.—(1) No person shall, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval, carry out any of the following activities within any national park or nature reserve:
 
@@ -438,7 +428,9 @@ NATIONAL PARKS AND NATURE RESERVES
 
 (c) any police officer or workman assisting a person referred to in paragraph (a) or (b) to carry out his duty.
 
-### Restricted activities in respect of animals, etc., in national park and nature reserve
+[National Parks 1997 Ed., s. 24]
+
+### Restricted activities in respect of animals, etc., in national parks and nature reserves
 
 9\.—(1) No person shall, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval, carry out any of the following activities within any national park or nature reserve:
 
@@ -454,7 +446,7 @@ NATIONAL PARKS AND NATURE RESERVES
 
 (2) No person shall carry out any activity within any national park or nature reserve which he knows or ought reasonably to know causes or may cause injury to, or the death of, any animal or any other organism within the national park or nature reserve.
 
-(3) No person shall, except with the approval of the Commissioner granted under section 12, and in accordance with the terms and conditions of such approval —
+(3) No person shall, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval —
 
 (a) bring or release or cause any animal to be brought or released into a nature reserve; or
 
@@ -469,6 +461,8 @@ NATIONAL PARKS AND NATURE RESERVES
 (b) any other officer or employee of the Board acting in the performance of his duty under this Act or any other written law; and
 
 (c) any police officer or workman assisting a person referred to in paragraph (a) or (b) to carry out his duty.
+
+[National Parks 1997 Ed., s. 24]
 
 ### Destruction, damage, etc., of notices, boundary marks, etc.
 
@@ -490,6 +484,8 @@ NATIONAL PARKS AND NATURE RESERVES
 
 (c) any police officer or workman assisting a person referred to in paragraph (a) or (b) to carry out his duty.
 
+[National Parks 1997 Ed., s. 25]
+
 ### Reinstatement notices as regards national parks and nature reserves
 
 11\.—(1) Where it appears to the Commissioner that there has been a contravention of any provision of section 8, 9 or 10, he may serve a reinstatement notice on any person who is carrying out or has carried out any activity in contravention of that provision requiring the person on whom it is served to carry out such repairs, work or alteration to any part of the national park or nature reserve as the Commissioner thinks fit to be carried out in order to remedy (wholly or in part) the contravention or to remedy any injury or damage to the national park or nature reserve caused by that contravention.
@@ -502,7 +498,7 @@ NATIONAL PARKS AND NATURE RESERVES
 
 (c) the cessation, either wholly or to the extent specified in the notice, of any activity;
 
-(d) the removal from the national park or nature reserve of all property, material or animals used in connection with that contravention of section 8, 9 or 10, as the case may be; or
+(d) the removal from the national park or nature reserve of all property, material or animals used in connection with the contravention of section 8, 9 or 10, as the case may be; or
 
 (e) the restoration of any part of the national park or nature reserve to its former state or, if such restoration is not reasonably practicable or is undesirable, the execution of such works as the Commissioner may specify in the notice to alleviate the effect of the contravention of section 8, 9 or 10, as the case may be.
 
@@ -540,6 +536,8 @@ Tree conservation areas
 
 (2) A copy of any map of a tree conservation area published in theGazette, being a copy purporting to be certified by the Commissioner as being a true copy of the map so published, shall be admissible in any legal proceedings and shall be evidence of the matters contained in the map.
 
+[Parks and Trees 1996 Ed., s. 5 (1)]
+
 ### No cutting or damaging of tree having girth of more than one metre
 
 14\.—(1) Subject to subsection (6), no person shall, except with the approval of the Commissioner under section 20 and in accordance with the terms and conditions of such approval, cut any tree with a girth exceeding one metre growing on —
@@ -550,13 +548,15 @@ Tree conservation areas
 
 (2) Any person who contravenes subsection (1) or damages any tree referred to in that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-(3) In determining the amount of fine to be imposed on a person convicted of an offence under subsection (1), the court shall, in particular, have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+(3) In determining the amount of fine to be imposed on a person convicted of an offence under subsection (2), the court shall, in particular, have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
 
 (4) For the purposes of this section, the girth of a tree shall be measured half a metre from the ground.
 
-(5) Where in any proceedings for an offence under this section a question arises as to whether the girth of a tree measured half a metre from the ground exceeds or does not exceed one metre, a certificate purporting to be signed by the Commissioner or an authorised officer certifying the girth of the tree shall be admissible as prima facie evidence of the matters stated therein and of the signature of the Commissioner or authorised officer, as the case may be.
+(5) Where in any proceedings for an offence under this section, a question arises as to whether the girth of a tree measured half a metre from the ground exceeds or does not exceed one metre, a certificate purporting to be signed by the Commissioner or an authorised officer certifying the girth of the tree shall be admissible as prima facie evidence of the matters stated therein and of the signature of the Commissioner or authorised officer, as the case may be.
 
 (6) No approval referred to in subsection (1) shall be required where the condition of the tree constitutes an immediate threat to life or property.
+
+[Parks and Trees 1996 Ed., s. 5 (2) to (4)]
 
 ### Tree conservation notice
 
@@ -589,6 +589,8 @@ or a group of such trees, the Commissioner may serve a tree conservation notice 
 (c) the period (which shall run from the date the tree conservation notice takes effect) within which any step required by the notice shall be taken.
 
 (4) The Commissioner may, at any time, revoke any tree conservation notice made under this section.
+
+[Parks and Trees 1996 Ed., s. 6]
 
 Division 2 —
 
@@ -626,7 +628,7 @@ as a heritage road green buffer.
 
 18\.—(1) Subject to subsection (4), no person shall, except with the approval of the Commissioner granted under section 20 and in accordance with the terms and conditions of such approval, cut any tree or plant within a heritage road green buffer.
 
-(2) Any person who contravenes subsection (1) or who damages any tree or plant within a heritage road green buffer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(2) Any person who contravenes subsection (1) or damages any tree or plant within a heritage road green buffer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 (3) In determining the amount of fine to be imposed on a person convicted of an offence under subsection (2), the court shall, in particular, have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
 
@@ -688,13 +690,15 @@ Approvals, reinstatement notices and evidence
 
 (f) soil conservation and erosion issues.
 
+[Parks and Trees 1996 Ed., s. 7 (1)]
+
 ### Reinstatement notices as regards heritage road green buffers
 
-21\.—(1) Where it appears to the Commissioner that there has been a contravention of section 18(1) or 19(1), he may serve a reinstatement notice on all or any of the following persons:
+21\.—(1) Where it appears to the Commissioner that there has been a contravention of section 18(1) or (2) or 19(1), he may serve a reinstatement notice on all or any of the following persons:
 
-(a) any person who appears to the Commissioner to have been responsible for or participated in anything done in contravention of section 18(1) or 19(1); or
+(a) any person who appears to the Commissioner to have been responsible for or have participated in anything done in contravention of section 18(1) or (2) or 19(1); or
 
-(b) any occupier of the premises on which anything is done in contravention of section 18(1) or 19(1).
+(b) any occupier of the premises on which anything is done in contravention of section 18(1) or (2) or 19(1).
 
 (2) A reinstatement notice under subsection (1) shall require the person upon whom it is served to remedy (wholly or in part) the contravention or to remedy any injury or damage to the heritage road green buffer caused by that contravention and may, in particular, require that person —
 
@@ -702,7 +706,7 @@ Approvals, reinstatement notices and evidence
 
 (b) to alter, demolish or remove any property or material from the premises concerned, or any structure, object, fence, retaining wall, foundation, manhole, pipe, cable, mains or any obstruction or structure (whether temporary or permanent) he has erected or caused to be erected thereon in contravention of section 19(1);
 
-(c) to restore any part of the heritage road green buffer to its former state or, if such restoration is not reasonably practicable or is undesirable, to execute such works as the Commissioner may specify in the notice to alleviate the effect of the contravention of section 18(1) or 19(1), as the case may be, including planting such trees or plants and taking measures for their maintenance; or
+(c) to restore any part of the heritage road green buffer to its former state or, if such restoration is not reasonably practicable or is undesirable, to execute such works as the Commissioner may specify in the notice to alleviate the effect of the contravention of section 18(1) or (2) or 19(1), as the case may be, including planting such trees or plants and taking measures for their maintenance; or
 
 (d) to take such other measures which the Commissioner reasonably considers necessary for the purposes of paragraph (a), (b) or (c).
 
@@ -722,7 +726,7 @@ Planting areas and streetscapes
 
 (a) the building plans of which require the approval of the Commissioner of Building Control under the Building Control Act (Cap. 29); and
 
-(b) in respect of which planning permission is granted on or after the appointed day.
+(b) in respect of which planning permission is granted on or after 1st August 2005.
 
 ### Planting areas
 
@@ -732,7 +736,7 @@ Planting areas and streetscapes
 
 (b) not more than 5 metres wide from the front boundary of the premises adjoining or abutting a public street.
 
-(2) Without prejudice to subsection (1), all premises referred to in section 22, and such other premises as may be prescribed under subsection (3), shall be provided with such other planting areas within the premises as the Minister may, by notification in theGazette,prescribe under subsection (3).
+(2) Without prejudice to subsection (1), all premises referred to in section 22, and such other premises as may be prescribed under subsection (3), shall be provided with such other planting areas within the premises as the Minister may, by notification in theGazette, prescribe under subsection (3).
 
 (3) The Minister may, for the purpose of enhancing greenery and promoting the use of trees and plants as important elements of streetscapes and landscapes, by notification in theGazette, prescribe different dimensions (including the location and site specifications) of planting areas for different classes or descriptions of premises, whether or not the premises are those referred to in section 22.
 
@@ -764,7 +768,9 @@ an enforcement notice in writing requiring him to make up such planting areas wi
 
 (3) A maintenance notice under this section shall specify the date on which it is to take effect and the period (which shall run from the date the maintenance notice takes effect) within which any step required by the notice shall be taken.
 
-(4) In this section and section 26, “planting area” includes any area that has, before the appointed day, been set aside as a green buffer or peripheral planting strip pursuant to any requirement imposed by the competent authority under the Planning Act (Cap. 232).
+(4) In this section and section 26, “planting area” includes any area that has, before 1st August 2005, been set aside as a green buffer or peripheral planting strip pursuant to any requirement imposed by the competent authority under the Planning Act (Cap. 232).
+
+[Parks and Trees 1996 Ed., s. 6]
 
 ### Planting areas not to be interfered with
 
@@ -782,7 +788,7 @@ an enforcement notice in writing requiring him to make up such planting areas wi
 
 (3) Where it appears to the Commissioner that there has been a contravention of subsection (1), he may serve a reinstatement notice on all or any of the following persons:
 
-(a) any person who appears to the Commissioner to have been responsible for or participated in anything done in contravention of subsection (1); or
+(a) any person who appears to the Commissioner to have been responsible for or have participated in anything done in contravention of subsection (1); or
 
 (b) any occupier of the premises on which anything is done in contravention of subsection (1),
 
@@ -802,7 +808,7 @@ requiring the person to remedy (wholly or in part) the contravention.
 
 ### Notice to plant or replant trees and plants, etc.
 
-27\.—(1) For the purpose of enhancing greenery and promoting the use of trees and plants as important elements of streetscapes and landscapes or otherwise enhancing the amenity of any area located along or on premises fronting , adjoining or abutting any public street, the Commissioner may at any time serve on the occupier of any premises fronting, adjoining or abutting that public street a notice requiring the occupier, within such period as may be specified in the notice, to do all or any of the following within the green margin of those premises:
+27\.—(1) For the purpose of enhancing greenery and promoting the use of trees and plants as important elements of streetscapes and landscapes or otherwise enhancing the amenity of any area located along or on premises fronting, adjoining or abutting any public street, the Commissioner may at any time serve on the occupier of any premises fronting, adjoining or abutting that public street a notice requiring the occupier, within such period as may be specified in the notice, to do all or any of the following within the green margin of those premises:
 
 (a) to plant or replant any tree or plant of such size and species and at such places and provide for their maintenance and protection in such manner as may be specified;
 
@@ -825,6 +831,8 @@ requiring the person to remedy (wholly or in part) the contravention.
 (b) the boundary of the road reserve line (if any) encroaching upon those premises,
 
 whichever is the narrower.
+
+[Parks and Trees 1996 Ed., s. 8]
 
 Division 2 —
 
@@ -874,7 +882,7 @@ Green verges
 
 (3) Where it appears to the Commissioner that any construction works are carried out in contravention of subsection (1), or no green verges are made up in respect of those construction works, he may serve upon —
 
-(a) any person who appears to the Commissioner to have been responsible for or participated in anything done in contravention of subsection (1); or
+(a) any person who appears to the Commissioner to have been responsible for or have participated in anything done in contravention of subsection (1); or
 
 (b) any occupier of the premises on which anything is done in contravention thereof,
 
@@ -882,7 +890,7 @@ an enforcement notice in writing requiring him to make up such green verges in s
 
 (4) The road authority shall, before commencing or carrying out, or permitting or authorising the commencement or carrying out of any construction works referred to in subsection (1) in the performance of any function or discharge of any duty conferred on the road authority by or under any written law, consult the Commissioner in respect thereof.
 
-(5) Nothing in this section shall require an application for approval under section 32 in respect of any construction works referred to in subsection (1) for which the relevant approval has been obtained from the Board before the appointed day.
+(5) Nothing in this section shall require an application for approval under section 32 in respect of any construction works referred to in subsection (1) for which the relevant approval has been obtained from the Board before 1st August 2005.
 
 (6) For the purposes of this section, the construction of a new public street shall be deemed to include —
 
@@ -894,7 +902,7 @@ an enforcement notice in writing requiring him to make up such green verges in s
 
 ### Street works affecting green verges
 
-31\.—(1) No person other than the road authority shall, except with the approval of the Commissioner granted under section 32 in respect of street works carried out under this subsection, and in accordance with the terms and conditions of such approval, commence or carry out, or permit or authorise the commencement or carrying out of any street works on or within the vicinity of —
+31\.—(1) No person other than the road authority shall, except with the approval of the Commissioner granted under section 32 in respect of street works carried out under this subsection and in accordance with the terms and conditions of such approval, commence or carry out, or permit or authorise the commencement or carrying out of any street works on or within the vicinity of —
 
 (a) any public street; or
 
@@ -904,7 +912,7 @@ which may affect any green verge along that street.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 and, in the case of a continuing offence, to a further fine of $500 for every day or part thereof during which the offence continues after conviction.
 
-(3) Where it appears to the Commissioner that there has been a contravention of subsection (1), he may serve a reinstatement notice on any person who appears to the Commissioner to have been responsible for or participated in anything done in contravention of that subsection requiring the person to remedy (wholly or in part) the contravention.
+(3) Where it appears to the Commissioner that there has been a contravention of subsection (1), he may serve a reinstatement notice on any person who appears to the Commissioner to have been responsible for or have participated in anything done in contravention of that subsection requiring the person to remedy (wholly or in part) the contravention.
 
 (4) The reinstatement notice under subsection (3) may, in particular, require the person on whom it is served —
 
@@ -920,7 +928,7 @@ which may affect any green verge along that street.
 
 (6) The road authority shall, before commencing or carrying out, or permitting or authorising the commencement or carrying out of any street works referred to in subsection (1) in the performance of any function or discharge of any duty conferred on the road authority by or under any written law, consult the Commissioner in respect thereof.
 
-(7) Nothing in this section shall require an application for approval under section 32 in respect of any street works referred to in subsection (1) for which the relevant approval has been obtained from the Board before the appointed day.
+(7) Nothing in this section shall require an application for approval under section 32 in respect of any street works referred to in subsection (1) for which the relevant approval has been obtained from the Board before 1st August 2005.
 
 Division 4 —
 
@@ -982,7 +990,7 @@ Specifications and approvals
 
 34\.—(1) The Commissioner may issue or approve and from time to time review and revise specifications for planting areas, green verges and open spaces to be used as public parks.
 
-(2) If any provision in any specifications issued or approved by the Commissioner under subsection (1) is inconsistent with any regulations made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulations or, where appropriate, having regard to such regulation, shall not have effect.
+(2) If any provision in any specifications issued or approved by the Commissioner under subsection (1) is inconsistent with any regulations made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulations or, where appropriate, having regard to such regulations, shall not have effect.
 
 ### Duties of qualified person
 
@@ -1036,6 +1044,8 @@ PREVENTION OF DANGERS
 
 the Commissioner may serve an enforcement notice requiring the occupier of the premises to take such measures (including cutting the tree or plant or any part of it) as the Commissioner thinks fit within the time specified in the notice.
 
+[Parks and Trees 1996 Ed., s. 11 (1)]
+
 ### Imminently dangerous trees or plants
 
 38\.—(1) Where the Commissioner is satisfied that —
@@ -1047,6 +1057,8 @@ the Commissioner may serve an enforcement notice requiring the occupier of the p
 he may take such measures and do such works on those premises or other premises adjacent thereto as may be necessary to cut or damage the tree or plant or any part of it.
 
 (2) All costs and expenses incurred by the Commissioner under subsection (1) shall constitute a debt due from the occupier of the premises referred to in that subsection to the Board, and may be recoverable in the manner provided for in this Act.
+
+[Parks and Trees 1996 Ed., s. 12]
 
 ## PART VII
 
@@ -1069,6 +1081,8 @@ POWERS OF ENFORCEMENT
 (b) recklessly makes such a statement which is false or misleading in a material particular,
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[National Parks 1997 Ed., s. 30]
 
 ### Power of entry and to demand particulars of identity
 
@@ -1100,7 +1114,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Powers of arrest in certain circumstances
 
-41\.—(1) The Commissioner, an authorised officer or a police officer may arrest without warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act if —
+41\.—(1) The Commissioner, an authorised officer or a police officer may arrest, without warrant, any person who has committed or whom he reasonably suspects to have committed an offence under this Act if —
 
 (a) the person declines to give his name and address; or
 
@@ -1108,9 +1122,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained except that no person so arrested shall be detained longer than is permitted by written law and is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
+[Parks and Trees 1996 Ed., s. 22]
+
 ### Enforcement powers in national parks, nature reserves and public parks
 
-42\.—(1) The Commissioner, an authorised officer, a park ranger or a police officer may, without warrant, arrest a person within any national park, nature reserve or public park if that person, in contravention of this Act, fails or refuses to leave the national park, nature reserve or public park, as the case may be, or any part thereof, after being requested by the Commissioner, authorised officer, park ranger or police officer to do so.
+42\.—(1) The Commissioner, an authorised officer, a park ranger or a police officer may, without warrant, arrest any person within any national park, nature reserve or public park if that person, in contravention of this Act, fails or refuses to leave the national park, nature reserve or public park, as the case may be, or any part thereof, after being requested by the Commissioner, authorised officer, park ranger or police officer to do so.
 
 (2) A park ranger may, without warrant, arrest any person who has committed or whom he reasonably suspects to have committed an offence under this Act within a national park, nature reserve or public park if —
 
@@ -1121,6 +1137,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (3) If the Commissioner, an authorised officer, a park ranger or a police officer has reason to believe that any offence has been committed under this Act within any national park, nature reserve or public park, he may inspect and search any baggage, equipment, package, container, tent, vehicle, boat, craft or place and seize any thing therein which he requires as evidence that any such offence has been committed.
 
 (4) The Commissioner, an authorised officer, a park ranger or a police officer may remove from any national park, nature reserve or public park any vehicle, boat or thing brought into or left in the national park, nature reserve or public park or any part thereof in contravention of this Act or which is likely to cause danger or obstruction.
+
+[National Parks 1997 Ed., ss. 34, 35 and 37]
 
 ## PART VIII
 
@@ -1136,17 +1154,21 @@ OFFENCES, PENALTIES AND PROCEEDINGS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Parks and Trees 1996 Ed., s. 18; National Parks 1997 Ed., s. 32]
+
 ### Parking of vehicles on green verges and turfed open spaces prohibited
 
 44\.—(1) Any person who, without reasonable excuse, parks a vehicle on any green verge or any turfed open space which is managed or maintained by the Board shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 (2) In this section, “park” means to bring a vehicle to a stationary position or to cause it to wait for any purpose.
 
+[Parks and Trees 1996 Ed., s. 13]
+
 ### Liability of owner, etc., of vehicle for offence committed
 
 45\.—(1) When an offence under this Act is committed in relation to a vehicle, the person who at the time of the commission of the offence is the owner of the vehicle or, in the case of a deregistered vehicle, is the person who immediately prior to the deregistration was registered as the owner of the vehicle in respect of which the offence is committed shall be guilty of the offence in all respects as if he were the actual offender guilty of the offence unless the court is satisfied that the vehicle was at the relevant time a stolen vehicle or a vehicle illegally taken or used.
 
-(2) Nothing in this section shall affect the liability of the actual offender but, where a penalty has been imposed on or recovered from a person in relation to an offence, no further penalty shall be imposed or recovered from any other person in relation thereto.
+(2) Nothing in this section shall affect the liability of the actual offender but, where a penalty has been imposed on or recovered from a person in relation to an offence, no further penalty shall be imposed on or recovered from any other person in relation thereto.
 
 (3) Notwithstanding subsection (1), no owner of a vehicle shall, by virtue of this section, be guilty of an offence if he —
 
@@ -1155,6 +1177,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) satisfies the court that he did not know and would not with reasonable diligence have ascertained such name and address.
 
 (4) A statement made under subsection (3) if produced in any proceedings against the person named therein in respect of the offence concerned shall be sufficient evidence that such person was in charge of the vehicle at all relevant times relating to such offence unless evidence to the contrary is adduced.
+
+[Parks and Trees 1996 Ed., s. 17]
 
 ### Default in compliance with notice or condition
 
@@ -1262,6 +1286,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (6) The Minister may, by regulations made under this section, provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
+[Parks and Trees 1996 Ed., s. 25; National Parks 1997 Ed., s. 33]
+
 ### Jurisdiction of court
 
 50\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
@@ -1280,9 +1306,13 @@ whichever is the lower.
 
 (3) On payment of the composition amount under subsection (1), no further proceedings shall be taken against that person in respect of the offence.
 
+[Parks and Trees 1996 Ed., s. 20 (1); National Parks 1997 Ed., s. 38]
+
 ### Prosecutions
 
 52\. Proceedings in respect of any offence under this Act may be conducted by any police officer or authorised officer authorised in writing in that behalf by the Commissioner.
+
+[National Parks 1997 Ed., s. 39]
 
 ### Evidence
 
@@ -1294,7 +1324,7 @@ whichever is the lower.
 
 ### Presumptions and defences
 
-54\.—(1) Where it is proved that a tree or plant was cut or damaged in contravention of section 14(1), 18(1) or 27(2), it shall be presumed, until the contrary is proved —
+54\.—(1) Where it is proved that a tree or plant was cut or damaged in contravention of section 14(1) or (2), 18(1) or (2) or 27(2), it shall be presumed, until the contrary is proved —
 
 (a) that the occupier of the premises on which the tree or plant was growing; or
 
@@ -1308,7 +1338,7 @@ whichever is the lower.
 
 had cut or damaged the tree or plant.
 
-(2) In any proceedings for an offence under section 14(1), 18(1) or 27(2) against any person referred to in subsection (1)(b)(ii) or (iii), it shall be a defence for that person charged to prove to the satisfaction of the court —
+(2) In any proceedings for an offence under section 14(2), 18(2) or 27(3) against any person referred to in subsection (1)(b)(ii) or (iii), it shall be a defence for that person charged to prove to the satisfaction of the court —
 
 (a) that the offence was committed without his consent or connivance; and
 
@@ -1321,6 +1351,8 @@ GENERAL
 ### Act not to affect liability in tort of occupier
 
 55\. Nothing in this Act shall affect the liability in tort of an occupier for any injury or damage caused to any person or property arising from any tree or plant growing on his land.
+
+[Parks and Trees 1996 Ed., s. 24]
 
 ### Appeal to Minister
 
@@ -1352,11 +1384,15 @@ may, within 14 days from the date of service of the notice, or the date he is no
 
 57\. All fees, charges, composition amounts and any other moneys collected under this Act shall be paid to the Board.
 
+[Parks and Trees 1996 Ed., s. 26]
+
 ### Exemption
 
 58\.—(1) The Minister may, by order published in theGazette, with or without conditions, exempt any class or description of person, thing, premises or works from any of the provisions of this Act.
 
 (2) If an exemption is granted under this section with conditions, the exemption operates only if the conditions are complied with.
+
+[Parks and Trees 1996 Ed., s. 27]
 
 ### Service of documents
 
@@ -1380,7 +1416,9 @@ may, within 14 days from the date of service of the notice, or the date he is no
 
 (4) Any notice or document required or authorised by this Act to be served on the owner or occupier of any premises or any summons issued by a court against any such owner or occupier in connection with any offence under this Act shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
 
-(5) Notwithstanding subsection (1), a notice required or authorised by this Act to be served on the owner of any vehicle may be served by addressing the notice to the owner of any vehicle without stating his name or address and may also be served personally or by affixing the notice to the vehicle.
+(5) Notwithstanding subsection (1), a notice required or authorised by this Act to be served on the owner of any vehicle may be served by addressing the notice to the owner of that vehicle without stating his name or address and may also be served personally or by affixing the notice to the vehicle.
+
+[Parks and Trees 1996 Ed., s. 14; National Parks 1997 Ed., s. 31]
 
 ### Inaccuracies in document
 
@@ -1403,6 +1441,8 @@ may, within 14 days from the date of service of the notice, or the date he is no
 (b) to issue any notice under this Act; or
 
 (c) to take any action or carry out any works authorised under this Act.
+
+[Parks and Trees 1996 Ed., s. 23; National Parks 1997 Ed., s. 28]
 
 ### Amendment of Schedule
 
@@ -1448,199 +1488,49 @@ may, within 14 days from the date of service of the notice, or the date he is no
 
 (h) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
-### Repeal and transitional provisions
+[Parks and Trees 1996 Ed., s. 28]
 
-64\.—(1) The Parks and Trees Act (Cap. 216) is repealed.
+### Transitional provisions
 
-(2) A person who, immediately before the appointed day, is —
+64\.—(1) A person who, immediately before 1st August 2005, is —
 
 (a) the Commissioner of Parks and Recreation;
 
-(b) an officer appointed by the Minister under section 3(3) of the repealed Act; or
+(b) an officer appointed by the Minister under section 3(2) of the repealed Act; or
 
 (c) an officer authorised by the Minister under section 3(5) of the repealed Act,
 
 shall continue to hold such office as if he were appointed under section 4(1) as the Commissioner, as an authorised officer under section 4(3) and as a park ranger under section 4(5) of this Act, respectively.
 
-(3) Any permission, approval, decision, notice, summons, warrant, order or other document prepared, made, granted, issued by the Commissioner of Parks and Recreation under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or issued under the corresponding provisions of this Act and except as otherwise expressly provided in this Act, shall continue to have effect accordingly.
+(2) Any permission, approval, decision, notice, summons, warrant, order or other document prepared, made, granted, issued by the Commissioner of Parks and Recreation under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or issued under the corresponding provisions of this Act and except as otherwise expressly provided in this Act, shall continue to have effect accordingly.
 
-(4) All acts done by or on behalf of the Commissioner of Parks and Recreation before the appointed day under the repealed Act shall continue to remain valid and applicable as though done by the Commissioner under this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Commissioner.
+(3) All acts done by or on behalf of the Commissioner of Parks and Recreation before 1st August 2005 under the repealed Act shall continue to remain valid and applicable as though done by the Commissioner under this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Commissioner.
 
-(5) Where anything has been commenced by or on behalf of the Commissioner of Parks and Recreation before the appointed day, such thing may be carried on and completed by or under the authority of the Commissioner under the corresponding provisions of this Act.
+(4) Where anything has been commenced by or on behalf of the Commissioner of Parks and Recreation before 1st August 2005, such thing may be carried on and completed by or under the authority of the Commissioner under the corresponding provisions of this Act.
 
-(6) Any application or other document lodged for approval under the provisions of the repealed Act before the appointed day and whose application was not approved before that day shall, where applicable, be deemed to be an application or a document lodged for approval under the corresponding provisions of this Act.
+(5) Any application or other document lodged for approval under the provisions of the repealed Act before 1st August 2005 and whose application was not approved before that date shall, where applicable, be deemed to be an application or a document lodged for approval under the corresponding provisions of this Act.
 
-(7) Any investigation, legal proceeding or remedy in respect of any right, privilege, obligation, liability, penalty, forfeiture or punishment acquired, accrued or incurred under the repealed Act may be instituted, continued or enforced by the Commissioner as if a reference in the repealed Act to the Commissioner of Parks and Recreation is a reference to the Commissioner under this Act.
+(6) Any investigation, legal proceeding or remedy in respect of any right, privilege, obligation, liability, penalty, forfeiture or punishment acquired, accrued or incurred under the repealed Act may be instituted, continued or enforced by the Commissioner as if a reference in the repealed Act to the Commissioner of Parks and Recreation is a reference to the Commissioner under this Act.
 
-(8) In any written law or document, a reference to the repealed Act shall, in so far as it is necessary for preserving its effect, be construed as a reference to this Act and a reference to the Commissioner of Parks and Recreation shall be construed as a reference to the Commissioner under this Act.
+(7) In any written law or document, a reference to the repealed Act shall, in so far as it is necessary for preserving its effect, be construed as a reference to this Act and a reference to the Commissioner of Parks and Recreation shall be construed as a reference to the Commissioner under this Act.
 
-(9) Where an appeal has been made to the Minister under section 7 or 8 of the repealed Act and the appeal has not been dealt with or disposed of immediately before the appointed day, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
+(8) Where an appeal has been made to the Minister under section 7 or 8 of the repealed Act and the appeal has not been dealt with or disposed of immediately before 1st August 2005, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
 
-(10) Where a period of time specified in any provision of the repealed Act is current on the appointed day, this Act shall have effect as if the corresponding provision in this Act had been in force when that period began to run.
+(9) Where a period of time specified in any provision of the repealed Act is current on 1st August 2005, this Act shall have effect as if the corresponding provision in this Act had been in force when that period began to run.
 
-(11) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
-
-### Related amendments to National Parks Act
-
-65\. The National Parks Act (Cap. 198A) is amended —
-
-(a) by deleting the words “National Parks Act” in section 1 and substituting the words “National Parks Board Act”;
-
-(b) by deleting the definition of “animal” in section 2 and substituting the following definition:
-
-“
-
-“animal” has the same meaning as in the Parks and Trees Act 2005;
-
-”;
-
-(c) by deleting the definition of “green area” in section 2;
-
-(d) by deleting the definitions of “national park”, “nature reserve” and “parkland” in section 2 and substituting the following definitions:
-
-“
-
-“national park” has the same meaning as in the Parks and Trees Act 2005;
-
-“nature reserve” has the same meaning as in the Parks and Trees Act 2005;
-
-“organism” has the same meaning as in the Parks and Trees Act 2005;
-
-”;
-
-(e) by deleting the definitions of “plant” and “verge” in section 2 and substituting the following definitions:
-
-“
-
-“plant” has the same meaning as in the Parks and Trees Act 2005;
-
-“public park” has the same meaning as in the Parks and Trees Act 2005.
-
-”;
-
-(f) by deleting paragraphs (a) and (b) of section 6(1) and substituting the following paragraphs:
-
-“
-
-(a) to control, administer and manage the national parks and nature reserves;
-
-(b) to plan, design, develop, manage and maintain public parks;
-
-(ba) to provide, manage and maintain park and recreational infrastructure and facilities in the national parks, nature reserves and public parks;
-
-”;
-
-(g) by deleting the word “parklands” in section 6(1)(c) and (g) and in paragraphs 1 and 5 of the Second Schedule and substituting in each case the words “public parks”;
-
-(h) by deleting the words “plants and animals” in section 6(1)(c) and substituting the words “animals, plants and other organisms”;
-
-(i) by deleting the words “animals and plants” in section 6(1)(d) and substituting the words “animals, plants and other organisms”;
-
-(j) by deleting the words “the green areas” in section 6(1)(h) and substituting the words “public parks”;
-
-(k) by repealing Part VII;
-
-(l) by repealing sections 30 to 39;
-
-(m) by repealing section 40 and substituting the following section:
-
-“
-
-Power to make regulations
-
-40\.—(1) The Board may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.
-
-(2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
-
-(a) regulating the proceedings of the Board or of the committees of the Board;
-
-(b) the manner of appointment, conduct and discipline and the terms and conditions of service of the employees of the Board;
-
-(c) the establishment of funds for the payment of gratuities and other benefits to employees of the Board;
-
-(d) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
-
-”;
-
-(n) by inserting, immediately after paragraph 3 of the First Schedule, the following paragraph:
-
-“
-
-3A. The Minister may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the incapacity from illness or otherwise of the Chairman or the Deputy Chairman, as the case may be.
-
-”;
-
-(o) by inserting, immediately after paragraph 5 of the First Schedule, the following paragraph:
-
-“
-
-5A. The Minister may appoint a person to be a temporary member of the Board during the incapacity from illness or otherwise of any member.
-
-”;
-
-(p) by inserting, immediately after the word “Board” in paragraph 7(b) of the First Schedule, the words “under paragraph 9”;
-
-(q) by deleting the word “or” at the end of paragraph 9(a) of the First Schedule;
-
-(r) by deleting the full-stop at the end of sub-paragraph (b) of paragraph 9 of the First Schedule and substituting the word “; or”, and by inserting immediately thereafter the following sub-paragraph:
-
-“
-
-(c) is of unsound mind.
-
-”;
-
-(s) by deleting the words “green areas” in paragraph 2 of the Second Schedule and substituting the words “public parks”;
-
-(t) by inserting, immediately after paragraph 2 of the Second Schedule, the following paragraphs:
-
-“
-
-2A. To lay out, construct, plant, improve, equip, maintain, supervise and control the national parks, nature reserves and public parks and carry out the following activities:
-
-(a) erect any pavilion, recreation room, outhouse or other building;
-
-(b) provide entertainment or any amenity;
-
-(c) set apart any part thereof for the purpose of any game or recreation and exclude the public from such part while it is in actual use for that purpose;
-
-(d) provide any apparatus for games and recreation and facilities for boating and charge for the use thereof;
-
-(e) place or authorise any person to place chairs or seats and charge or authorise any person to charge for the use thereof;
-
-(f) provide and maintain refreshment stalls, food-stalls and restaurants and manage them or let them to any person on such conditions as the Board may determine;
-
-(g) authorise any person to erect, maintain and operate any facility and charge or authorise any person to charge for the use thereof.
-
-2B. To plant trees, plants and vegetation in public parks.
-
-”;
-
-(u) by inserting, immediately after paragraph 12 of the Second Schedule, the following paragraphs:
-
-“
-
-12A. To collect, analyse, compile, publish or disseminate information relating to such subject-matter as may be necessary for the discharge of the functions, objects or duties of the Board.
-
-12B\. To provide technical, consultancy or advisory services to any Government agency or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Board.
-
-12C\. To charge fees or commissions for services rendered by the Board or for any use of any of its facilities.
-
-12D\. To carry out promotional activities or publicity in any form.
-
-12E. To organise such courses and other programmes as the Board thinks necessary or desirable for the discharge of its functions, objects or duties.
-
-”; and
-
-(v) by deleting the Fifth Schedule.
+(10) Any subsidiary legislation made under the repealed Act and in force immediately before 1st August 2005 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
 ### References in other written laws
 
-66\. Any reference in any written law to the National Parks Act (Cap. 198A) shall be read as a reference to the National Parks Board Act.
+65\. Any reference in any written law to the National Parks Act (Cap. 198A) shall be read as a reference to the National Parks Board Act.
+
+[66
 
 ## THE SCHEDULE
 
 Sections 2, 7 and 62
+
+Areas Designated As National Parks and Nature Reserves
 
 Part I
 
@@ -1708,7 +1598,7 @@ The boundaries of these areas are more particularly delineated on Plan No. NP 5.
 
 Part II
 
-NATURE RESERVEs
+Nature Reserves
 
 All those pieces of land situated in the Mukims of Sembawang, Mandai, Ulu Kalang, Bukit Timah and Toa Payoh, forming parts of the Public Utilities Board Catchment Area, known as the Central Catchment Nature Reserve, described as follows:
 
@@ -2049,4 +1939,123 @@ Total
 1,313,705
 
 The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Sungei Buloh Wetland Reserve) filed in the Registry of the National Parks Board.
+
+## LEGISLATIVE SOURCE KEY
+
+Parks and Trees Act
+
+(CHAPTER 216)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Parks and Trees 1996 Ed.
+
+:
+
+Parks and Trees Act (Chapter 216, 1996 Edition)
+
+National Parks 1997 Ed.
+
+:
+
+National Parks Act (Chapter 198A, 1997 Edition)
+
+## LEGISLATIVE HISTORY
+
+Parks and Trees Act
+
+(CHAPTER 216)
+
+This Legislative History is provided for the convenience of users of the Parks and Trees Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1975—Parks and Trees Act 1975**|
+||Date of First Reading|17 March 1975|
+|||(Bill No. 18/75 published on 18 March 1975)|
+||Date of Second and Third Readings|27 March 1975|
+||Date of commencement|15 May 1975|
+Note:
+
+The Parks and Trees Act 1975 repealed the Botanic Gardens Act (Chapter 300, 1970 Revised Edition), the Trees and Plants (Preservation and Improvement of Amenities) Act 1970 (No. 59 of 1970) and section 79 and Part V of the Local Government Integration Act (Chapter 210, 1970 Revised Edition).
+
+|2.|**Act 27 of 1982—Parks and Trees (Amendment) Act 1982**|
+||Date of First Reading|27 July 1982|
+|||(Bill No. 18/82 published on 4 August 1982)|
+||Date of Second and Third Readings|31 August 1982|
+||Date of commencement|5 November 1982|
+|3.|**1985 Revised Edition—Parks and Trees Act (Chapter 216)**|
+||Date of operation|30 March 1987|
+|4.|**Act 12 of 1987—Parks and Trees (Amendment) Act 1987**|
+||Date of First Reading|4 March 1987|
+|||(Bill No. 3/87 published on 6 March 1987)|
+||Date of Second and Third Readings|26 March 1987|
+||Date of commencement|1 May 1987|
+|5.|**Act 10 of 1990—National Parks Act 1990**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|13 March 1990|
+|||(Bill No. 12/90 published on 14 March 1990)|
+||Date of Second and Third Readings|29 March 1990|
+||Date of commencement|6 June 1990|
+|6.|**1991 Revised Edition—Parks and Trees Act**|
+||Date of operation|1 March 1991|
+|7.|**Act 25 of 1994—Parks and Trees (Amendment) Act 1994**|
+||Date of First Reading|31 October 1994|
+|||(Bill No. 32/94 published on 1 November 1994)|
+||Date of Second and Third Readings|5 December 1994|
+||Date of commencement|29 January 1995|
+|8.|**Act 22 of 1996—National Parks Act 1996**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|2 May 1996|
+|||(Bill No. 13/96 published on 3 May 1996)|
+||Date of Second and Third Readings|21 May 1996|
+||Date of commencement|1 July 1996|
+|9.|**1996 Revised Edition—Parks and Trees Act (Chapter 216)**|
+||Date of operation|27 December 1996|
+|10.|**Act 4 of 2005—Parks and Trees Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 55/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 August 2005|
+Note:
+
+The Parks and Trees Act 2005 repealed the Parks and Trees Act (Chapter 216, 1996 Revised Edition).
+
+|11.|**2006 Revised Edition—Parks and Trees Act**|
+||Date of operation|31 July 2006|
+|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+## COMPARATIVE TABLE
+
+Parks and Trees Act
+
+(CHAPTER 216)
+
+The following provisions in the Parks and Trees Act (Act 4 of 2005) have been renumbered by the Law Revision Commissioners in this 2006 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Parks and Trees Act.
+
+2006 Ed\. 
+
+Act 4 of 2005 
+
+Omitted
+
+64 —(1)
+
+64 —(1) to (10)
+
+(2) to (11)
+
+Omitted
+
+65 
+
+65 
+
+66 
 
