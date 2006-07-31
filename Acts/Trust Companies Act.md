@@ -1,20 +1,18 @@
-**Trust Companies Act 2005**
+**Trust Companies Act**
 
-**(No. 11 of 2005)**
+**(CHAPTER 336)**
 
 **Table of Contents**
 
 [**Long Title**](#Trust-Companies-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II Licensing of trust companies**](#Part-II)
+[**Part II LICENSING OF TRUST COMPANIES**](#Part-II)
 
 - [3 Restriction on carrying on trust business](#Restriction-on-carrying-on-trust-business)
 
@@ -42,7 +40,7 @@
 
 - [15 Exempt persons](#Exempt-persons)
 
-[**Part III CONTROL OF vOTING POWERS AND SHAREHOLDINGS**](#Part-III)
+[**Part III CONTROL OF SHAREHOLDINGS AND VOTING POWERS**](#Part-III)
 
 - [16 Control of shareholdings and voting power in licensed trust company](#Control-of-shareholdings-and-voting-power-in-licensed-trust-company)
 
@@ -202,11 +200,7 @@
 
 - [82 Regulations](#Regulations)
 
-- [83 Repeal](#Repeal)
-
-- [84 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
-
-- [85 Transitional and savings provisions](#Transitional-and-savings-provisions)
+- [83 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
 [**FIRST SCHEDULE Trust Business**](#FIRST-SCHEDULE-Trust-Business)
 
@@ -216,49 +210,33 @@
 
 [**FOURTH SCHEDULE Specified Provisions**](#FOURTH-SCHEDULE-Specified-Provisions)
 
-[**FIFTH SCHEDULE Consequential Amendments to Other Written Laws**](#FIFTH-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Trust Companies Act
 
-Published by Authority
+(CHAPTER 336)
 
-NO. 31]
+(Original Enactment: Act 11 of 2005)
 
-Friday, October 7
+REVISED EDITION 2006
 
-[2005
+(31st July 2006)
 
-The following Act was passed by Parliament on 18th February 2005 and assented to by the President on 28th February 2005:—
+An Act to provide for the licensing and regulation of trust companies and for matters connected therewith.
 
-Trust Companies Act 2005
-
-(No. 11 of 2005)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th February 2005.
-
-Date of Commencement: 1st February 2006
-
-An Act to repeal and re-enact with amendments the Trust Companies Act (Chapter 336 of the 1985 Revised Edition) so as to provide for the licensing and regulation of trust companies and for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st February 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Trust Companies Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Trust Companies Act.
 
 ### Interpretation
 
@@ -306,7 +284,7 @@ PRELIMINARY
 
 ## PART II
 
-Licensing of trust companies
+LICENSING OF TRUST COMPANIES
 
 ### Restriction on carrying on trust business
 
@@ -318,6 +296,8 @@ Licensing of trust companies
 
 (4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $7,500 for every day or part thereof during which the offence continues after conviction.
 
+[Bermuda, Trusts, s. 9]
+
 ### Application for trust business licence
 
 4\.—(1) An application for a trust business licence shall —
@@ -327,6 +307,8 @@ Licensing of trust companies
 (b) be accompanied by the prescribed application fee, which shall be non-refundable and which shall be paid in the manner specified by the Authority.
 
 (2) The Authority may require an applicant to furnish it with such information or documents as it considers necessary in relation to the application.
+
+[FAA, s. 8 (1) and (2)]
 
 ### Grant of trust business licence
 
@@ -390,6 +372,8 @@ Licensing of trust companies
 
 (c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
+[SFA, s. 86 (3), (4), (5) and (6)]
+
 ### Licence fee
 
 6\.—(1) Every licensed trust company shall pay to the Authority such licence fee as may be prescribed.
@@ -402,6 +386,8 @@ Licensing of trust companies
 
 (3) Notwithstanding subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any licence fee paid to it.
 
+[FAA, s. 14 (1); SFA, s. 85 (2) and (3)]
+
 ### Power of Authority to impose conditions or restrictions
 
 7\.—(1) The Authority may grant a trust business licence subject to such conditions or restrictions as it thinks fit.
@@ -409,6 +395,8 @@ Licensing of trust companies
 (2) The Authority may, at any time, by notice in writing to a licensed trust company, vary or revoke any condition or restriction or attach such further condition or restriction as it thinks fit.
 
 (3) Any licensed trust company which contravenes any condition or restriction attached to its trust business licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[SFA, s. 88]
 
 ### False statements in relation to application for grant of licence
 
@@ -419,6 +407,8 @@ Licensing of trust companies
 (b) omits to state any matter or thing without which the application is misleading in a material respect,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[SFA, s. 92]
 
 ### Notification of change of particulars
 
@@ -438,9 +428,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 the licensed trust company shall, not later than 14 days after the occurrence of the event, furnish particulars of the event to the Authority in the prescribed form and manner.
 
-(2) Where a licensed trust company ceases to carry on any trust business, it shall surrender to the Authority within 14 days of the date of the cessation of its trust business the trust business licence that has been granted to it.
+(2) Where a licensed trust company ceases to carry on any trust business, it shall, within 14 days of the date of the cessation of its trust business, surrender to the Authority the trust business licence that has been granted to it.
 
 (3) Any licensed trust company which contravenes subsection (1) or (2) shall be guilty of an offence.
+
+[SFA, s. 93 (1) (a), s. 94 (a) (i) and (ii)]
 
 ### Lapsing, revocation and suspension of licence
 
@@ -478,6 +470,8 @@ the licensed trust company shall, not later than 14 days after the occurrence of
 
 (c) the licensed trust company has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
+[SFA, s. 95; Bermuda, Trusts, s. 16]
+
 ### Restriction on cessation of business or surrender of licence
 
 11\.—(1) No licensed trust company shall, without the sanction of the court and for so long as any trust in respect of which the licensed trust company is a trustee remains in whole or in part unadministered —
@@ -487,6 +481,8 @@ the licensed trust company shall, not later than 14 days after the occurrence of
 (b) surrender its trust business licence to the Authority.
 
 (2) Any licensed trust company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Trust Companies (repealed), s. 33]
 
 ### General provisions as to winding up
 
@@ -499,6 +495,8 @@ the licensed trust company shall, not later than 14 days after the occurrence of
 (4) The liquidator in any winding up referred to in subsection (3) shall give to the Authority such information as it may, from time to time, require about the affairs of the licensed trust company.
 
 (5) Any liquidator who contravenes subsection (4) shall be guilty of an offence.
+
+[FAA, s. 66]
 
 ### Approval of resident manager and director of licensed trust company
 
@@ -531,6 +529,8 @@ unless it has obtained the approval of the Authority.
 (5) Where the Authority refuses an application for approval under subsection (1), the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
 
 (6) Any licensed trust company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[SFA, s. 96]
 
 ### Removal of officer of licensed trust company
 
@@ -575,6 +575,8 @@ the Authority may, if it thinks it necessary in the interest of the public or of
 in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
 
 (6) Any licensed trust company which fails to comply with a notice issued by the Authority under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[SFA, s. 97]
 
 ### Exempt persons
 
@@ -656,7 +658,7 @@ shall be guilty of an offence and shall be liable on conviction —
 
 ## PART III
 
-CONTROL OF vOTING POWERS AND SHAREHOLDINGS
+CONTROL OF SHAREHOLDINGS AND VOTING POWERS
 
 ### Control of shareholdings and voting power in licensed trust company
 
@@ -708,25 +710,27 @@ but does not include any person —
 
 (b) a reference to the control of a percentage of the voting power in a licensed trust company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the licensed trust company; and
 
-(c) a person,A, is an associate of another person,B, if —
+(c) a person, A, is an associate of another person, B, if —
 
-(i) Ais the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, ofB;
+(i) A is the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, of B;
 
-(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
+(ii) A is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B, or where B is a corporation, of the directors of B;
 
-(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+(iii) B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A, or where A is a corporation, of the directors of A;
 
-(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
+(iv) A is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;
 
-(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+(v) B is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A;
 
-(vi) Ais a related corporation ofB;
+(vi) A is a related corporation of B;
 
-(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
+(vii) A is a corporation in which B, alone or together with other associates of B as described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in A;
 
-(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
+(viii) B is a corporation in which A, alone or together with other associates of A as described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in B; or
 
-(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the licensed trust company.
+(ix) A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the licensed trust company.
+
+[Banking, s. 15B; Broadcasting, s. 36]
 
 ### Application for approval of Authority to become controller of licensed trust company
 
@@ -743,6 +747,8 @@ but does not include any person —
 (b) restricting the person’s exercise of voting power in the licensed trust company.
 
 (3) Any condition imposed under subsection (2) shall have effect notwithstanding any provision of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the licensed trust company.
+
+[Banking, s. 15C; Broadcasting, s. 37]
 
 ### Objection to existing control
 
@@ -768,6 +774,8 @@ but does not include any person —
 
 (3) Any person served with a notice of objection under this section shall comply with the requirements of the notice.
 
+[Banking, s. 15E; Broadcasting, s. 39]
+
 ### Licensed trust company to furnish to Authority information relating to controllers, etc.
 
 19\. A licensed trust company shall furnish to the Authority, in such form and manner as the Authority may prescribe, information relating to its controllers and the quantity of their control in the licensed trust company.
@@ -792,6 +800,8 @@ but does not include any person —
 
 (4) Except as provided in subsections (2) and (3), it shall not be a defence for a person charged with an offence in respect of a contravention of section 16(1) to prove that he did not intend to or did not knowingly contravene that provision.
 
+[Banking, s. 17]
+
 ### Shareholding or control in other corporations
 
 21\.—(1) No licensed trust company shall, without obtaining the prior approval of the Authority, acquire or hold more than —
@@ -812,6 +822,8 @@ PROBATE AND ADMINISTRATION
 
 22\. Where a licensed trust company is appointed executor of the will of any testator, the licensed trust company may apply to the court for probate of the will and, if probate is granted, to exercise and discharge all the powers and duties of an executor.
 
+[Trust Companies (Repealed), s. 9]
+
 ### Licensed trust company may be authorised to apply for probate or administration
 
 23\.—(1) Subject to subsection (3), where any person is entitled to apply for probate of the will of any testator without leave being reserved to any other person to apply for probate, it shall be lawful for the person, whether absent from Singapore or not, and notwithstanding the provisions of any other written law, instead of himself applying for probate, to authorise a licensed trust company to apply to the court for a grant of administration with the will of the testator annexed, and such a grant may be made to the licensed trust company upon its own application, when so authorised.
@@ -826,13 +838,21 @@ PROBATE AND ADMINISTRATION
 
 (6) No grant of probate or of letters of administration shall be made to an agent or a nominee on behalf of a licensed trust company.
 
+[Trust Companies (repealed), s. 10]
+
 ### Procedure as to probate applications
 
 24\.—(1) In all cases in which a licensed trust company is empowered under this Act to apply for probate or for letters of administration, any application, declaration, account or affidavit or other necessary document may be made or sworn by any officer of the company duly authorised by the licensed trust company in that behalf.
 
+[42/2005]
+
 (2) Subject to subsection (3), any officer of a licensed trust company appointed by the licensed trust company for that purpose may, on behalf of the licensed trust company, sign any application, account or statement, take any oath, swear any affidavit, make any declaration, verify any act, give personal attendance at any court or place, and do any act or thing whatsoever, which may be required to be signed, taken, sworn, made, verified, given or done on behalf of the licensed trust company.
 
+[42/2005]
+
 (3) Nothing in this Act shall confer upon any person, not otherwise entitled thereto, any right to appear or be heard before or in any court on behalf of a licensed trust company or to do any act whatsoever on behalf of a licensed trust company which could otherwise be lawfully done only by an advocate and solicitor.
+
+[Trust Companies (repealed), s. 11]
 
 ### Licensed trust company not to furnish security
 
@@ -840,11 +860,15 @@ PROBATE AND ADMINISTRATION
 
 (2) Notwithstanding the provisions of the Probate and Administration Act or any other written law, no licensed trust company appointed by the court to perform the duties of receiver, guardian, committee or any other office or trust shall be required to furnish security for the due performance of such duties.
 
+[Trust Companies (repealed), s. 15]
+
 ### Guardianship of person prohibited
 
 26\.—(1) No licensed trust company shall be appointed to be guardian of the person of an infant or committee of the person of a mentally disordered person.
 
 (2) Any licensed trust company which accepts any appointment in contravention of subsection (1) shall be guilty of an offence.
+
+[Trust Companies (repealed), s. 31]
 
 ## PART V
 
@@ -855,6 +879,8 @@ CONDUCT OF BUSINESS
 27\.—(1) A licensed trust company or any of its employees involved in the management of the assets of an express trust shall not enter into any transaction for the purchase or sale of securities or futures contracts for its or his own account unless all instructions to purchase or sell securities or futures contracts of the same class for the account of the trust have been fulfilled.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[SFA, s. 122]
 
 ## PART VI
 
@@ -868,7 +894,7 @@ Books and accounts
 
 28\.—(1) Where a licensed trust company acts as a trustee of any express trust, the licensed trust company shall keep, or cause to be kept, such books as will sufficiently explain the transactions entered into by the licensed trust company on behalf of the trust and the financial position of such trust.
 
-(2) A licensed trust company shall keep, or cause to be kept, the books relating to the company as will ––
+(2) A licensed trust company shall keep, or cause to be kept, the books relating to the company as will —
 
 (a) sufficiently explain the transactions and financial position of its business; and
 
@@ -892,6 +918,8 @@ and its books shall be kept in such a manner as will enable them to be convenien
 
 (8) Any licensed trust company which, without reasonable excuse, contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
+[SFA, s. 102]
+
 Division 2 —
 
 Audit
@@ -910,13 +938,15 @@ and the licensed trust company shall comply with such direction.
 
 (3) Any licensed trust company which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
+[SFA, s. 106]
+
 ### Lodgment of annual accounts, etc.
 
 30\.—(1) A licensed trust company shall, in respect of each financial year —
 
 (a) prepare a true and fair profit and loss account and a balance-sheet in relation to its business made up to the last day of the financial year; and
 
-(b) lodge that profit and loss account and balance-sheet with the Authority within 5 months, or such extension thereof permitted by the Authority under subsection (2), after the end of the financial year, together with an auditor’s report on the profit and loss account and balance-sheet.
+(b) lodge the profit and loss account and balance-sheet with the Authority within 5 months, or such extension thereof permitted by the Authority under subsection (2), after the end of the financial year, together with an auditor’s report on that profit and loss account and balance-sheet.
 
 (2) Where an application for an extension of the period of 5 months specified in subsection (1) has been made by a licensed trust company to the Authority and the Authority is satisfied that there is a special reason for requiring the extension, the Authority may extend that period by not more than 4 months, subject to such conditions or restrictions as the Authority may think fit to impose.
 
@@ -925,6 +955,8 @@ and the licensed trust company shall comply with such direction.
 (4) Any licensed trust company which contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day or part thereof that the lodgment is late, subject to a maximum fine of $50,000.
 
 (5) Any licensed trust company which contravenes any condition or restriction imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[SFA, s. 107]
 
 ### Reports by auditor to Authority in certain cases
 
@@ -939,6 +971,8 @@ and the licensed trust company shall comply with such direction.
 the auditor shall immediately thereafter send a report in writing of the matter or irregularity to the Authority.
 
 (2) Any auditor who contravenes subsection (1) shall be guilty of an offence.
+
+[SFA, s. 108]
 
 ### Power of Authority to appoint auditor
 
@@ -958,6 +992,8 @@ the Authority may, without prejudice to its powers under section 36, if it is sa
 
 (5) Any auditor who contravenes subsection (4) shall be guilty of an offence.
 
+[SFA, s. 109]
+
 ### Offence to destroy, conceal, alter, etc., books
 
 33\.—(1) Any person who, with intent to prevent, delay or obstruct the carrying out of any audit under this Part —
@@ -976,6 +1012,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 the onus of proving that, in so doing, he did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Part shall lie on him.
 
+[SFA, s. 111]
+
 ### Safeguarding of books
 
 34\.—(1) A licensed trust company shall take reasonable precautions —
@@ -985,6 +1023,8 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 (b) to facilitate the discovery of any falsification of any such book.
 
 (2) Any licensed trust company which contravenes subsection (1) shall be guilty of an offence.
+
+[SFA, s. 112]
 
 ### Restriction on auditor’s and employee’s right to communicate certain matters
 
@@ -997,6 +1037,8 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 (2) Any auditor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 (3) Any employee of an auditor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
+
+[SFA, s. 113]
 
 ### Additional powers of Authority in respect of auditors
 
@@ -1018,6 +1060,8 @@ and the auditor shall carry out such additional duty or duties.
 
 (4) Any licensed trust company which contravenes subsection (2) shall be guilty of an offence.
 
+[SFA, s. 115]
+
 ### Defamation
 
 37\.—(1) No auditor of a licensed trust company or employee of such auditor shall, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of —
@@ -1027,6 +1071,8 @@ and the auditor shall carry out such additional duty or duties.
 (b) the submission of any report to the Authority under section 31(1), 32(4) or 36(1)(d).
 
 (2) Subsection (1) shall not restrict or otherwise affect any right, privilege or immunity that, apart from this section, the auditor or his employee has as a defendant in an action for defamation.
+
+[SFA, s. 116]
 
 ## PART VII
 
@@ -1042,6 +1088,8 @@ General
 
 (2) Where a person claims, before making a statement disclosing any information that he is required to disclose by a requirement made of him under this Part, that the statement might tend to incriminate him, that statement shall not be admissible in evidence against him in criminal proceedings other than proceedings under this Act.
 
+[FAA, s. 68]
+
 ### Savings for advocates and solicitors
 
 39\.—(1) Nothing in this Part shall —
@@ -1053,6 +1101,8 @@ General
 (2) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
 (3) Any advocate and solicitor who contravenes subsection (2) shall be guilty of an offence.
+
+[FAA, s. 69]
 
 Division 2 —
 
@@ -1094,6 +1144,8 @@ Inspection powers of Authority
 
 (6) Any person who, without reasonable excuse, contravenes subsection (2) or any requirement of the Authority under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
+[FAA, s. 70]
+
 Division 3 —
 
 Investigative powers of Authority
@@ -1120,9 +1172,13 @@ Investigative powers of Authority
 
 (b) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this Division.
 
+[FAA, s. 71]
+
 ### Power to order production of books
 
 42\. For the purpose of an investigation under this Division, the Authority may by notice in writing require any person to provide information or produce any book relating to any matter under investigation at a specified time and place, and such person shall immediately comply with that requirement.
+
+[FAA, s. 72]
 
 ### Application for warrant to seize books not produced
 
@@ -1149,6 +1205,8 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 (3) The powers conferred under subsections (1) and (2) are in addition to, and are not in derogation of, any other power conferred by any other written law or rule of law.
 
 (4) In this section, “premises” includes any structure, building, aircraft, vehicle, vessel or place.
+
+[FAA, s. 73]
 
 ### Powers where books are produced or seized
 
@@ -1188,7 +1246,7 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 (b) may permit any other person to inspect any of the books.
 
-(6) Unless subsection (1 (b) (ii) applies, a person referred to in subsection (1)(b) may deliver any of the books into the possession of the Authority or of a person authorised by the Authority to receive them.
+(6) Unless subsection (1)(b)(ii) applies, a person referred to in subsection (1)(b) may deliver any of the books into the possession of the Authority or of a person authorised by the Authority to receive them.
 
 (7) If subsection (1)(a) or (b) applies, the Authority, a person referred to in subsection (1)(b) or a person into whose possession the books are delivered under subsection (6) may require —
 
@@ -1198,6 +1256,8 @@ the Magistrate may issue a warrant authorising the Authority or any person named
 
 to explain, to the best of his knowledge and belief, any matter about the compilation of any of the books or to which any of the books relate.
 
+[FAA, s. 74]
+
 ### Powers where books not produced
 
 45\. Where a person fails to comply with a requirement imposed by the Authority under section 42 to produce any book, the Authority may require the person to state, to the best of his knowledge and belief —
@@ -1205,6 +1265,8 @@ to explain, to the best of his knowledge and belief, any matter about the compil
 (a) the place where such book may be found; or
 
 (b) the person who last had possession, custody or control of such book and the place where that person may be found.
+
+[FAA, s. 75]
 
 ### Offences under this Division
 
@@ -1219,6 +1281,8 @@ to explain, to the best of his knowledge and belief, any matter about the compil
 (5) Any person who, without reasonable excuse, obstructs or hinders the Authority in the exercise of any power under section 42, 44 or 45, or obstructs or hinders a person who is executing a warrant issued under section 43, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (6) Any occupier, or person in charge, of the premises that a person enters under a warrant issued under section 43 who fails to provide to that person all reasonable facilities and assistance for the effective exercise of his powers under the warrant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[FAA, s. 76]
 
 ## PART VIII
 
@@ -1354,6 +1418,8 @@ APPEALS
 
 may, within 30 days after it is notified of the decision of the Authority, appeal to the Minister whose decision shall be final.
 
+[SFA, s. 98]
+
 ### Appeals to Minister
 
 51\.—(1) Where an appeal is made to the Minister under this Act, the Minister may confirm, vary or reverse the decision of the Authority on appeal, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
@@ -1363,6 +1429,8 @@ may, within 30 days after it is notified of the decision of the Authority, appea
 (3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2), and may make such recommendations as it thinks fit.
 
 (4) The Minister shall consider the report submitted under subsection (3) in making his decision under this section but he shall not be bound by the recommendations in the report.
+
+[SFA, s. 310]
 
 ### Appeal Advisory Committees
 
@@ -1388,9 +1456,13 @@ may, within 30 days after it is notified of the decision of the Authority, appea
 
 (6) Subject to the provisions of this Part, an Appeal Advisory Committee may regulate its own procedure and shall not be bound by the rules of evidence.
 
+[SFA, s. 311]
+
 ### Disclosure of information
 
 53\. Nothing in this Act shall require the Minister or any public servant to disclose any information which he considers to be against the interest of the public to disclose.
+
+[FAA, s. 93]
 
 ### Regulations for purposes of this Part
 
@@ -1408,6 +1480,8 @@ may, within 30 days after it is notified of the decision of the Authority, appea
 
 (e) all matters and things which by this Part are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to any provision of this Part.
 
+[FAA, s. 94]
+
 ## PART X
 
 MISCELLANEOUS
@@ -1420,21 +1494,29 @@ MISCELLANEOUS
 
 (3) In dealings with property, the fact that the person or one of the persons dealt with is a licensed trust company shall not of itself constitute a notice of trust.
 
+[Trust Companies (repealed), s. 35]
+
 ### Trusteeship
 
 56\.—(1) Subject to subsection (2), in all cases in which the court or any person or persons has or have power to appoint a trustee, whether as an original or a new or an additional trustee, to perform any legal trust or duty, a licensed trust company may be appointed in the same manner as if the licensed trust company were a private individual.
 
 (2) No licensed trust company shall be appointed in any case in which the instrument creating the trust, or the power authorising the appointment, forbids the appointment of a company.
 
+[Trust Companies (repealed), s. 12]
+
 ### Joint tenancy
 
 57\. A licensed trust company, acting in a fiduciary capacity, shall be capable of acquiring and holding any property in joint tenancy in the same manner as if it were a private individual.
 
+[Trust Companies (repealed), s. 13]
+
 ### Licensed trust company may act as agent
 
-58\. .—(1)Subject to subsection (2), a licensed trust company may act under any deed or instrument by which the licensed trust company is appointed agent or attorney for any person, and all the powers conferred upon the licensed trust company by any such deed or instrument may be exercised by such officer of the licensed trust company as the licensed trust company may appoint for that purpose.
+58\.—(1) Subject to subsection (2), a licensed trust company may act under any deed or instrument by which the licensed trust company is appointed agent or attorney for any person, and all the powers conferred upon the licensed trust company by any such deed or instrument may be exercised by such officer of the licensed trust company as the licensed trust company may appoint for that purpose.
 
 (2) Nothing in this section shall be deemed to authorise any person to confer upon a licensed trust company any power which may not lawfully be delegated by him.
+
+[Trust Companies (repealed), s. 14]
 
 ### Trust funds to be kept separate
 
@@ -1443,6 +1525,8 @@ MISCELLANEOUS
 (2) Every licensed trust company shall ensure that all investments made by it as trustee shall be designated so that the trusts to which the investments belong may be readily identified at any time.
 
 (3) Any licensed trust company which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Trust Companies (repealed), s. 16]
 
 ### Unclaimed money to be paid into court
 
@@ -1453,6 +1537,8 @@ MISCELLANEOUS
 (b) within such time or at such intervals as may be prescribed.
 
 (2) It shall not be necessary for a licensed trust company to obtain the concurrence or consent of any person to make payment into court in accordance with subsection (1).
+
+[Trust Companies (repealed), s. 36]
 
 ### Falsification of records by officer, auditor, employee or agent of licensed trust company
 
@@ -1466,6 +1552,8 @@ MISCELLANEOUS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[SFA, s. 328]
+
 ### Duty not to furnish false information to Authority
 
 62\.—(1) Any person who furnishes the Authority with any information under this Act shall use due care to ensure that the information is not false or misleading in any material particular.
@@ -1476,9 +1564,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[SFA, s. 329]
+
 ### Jurisdiction of court
 
 63\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[SFA, s. 327]
 
 ### Offences by bodies corporate
 
@@ -1496,6 +1588,8 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 (4) Regulations may provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate formed or recognised under the law of a territory outside Singapore.
 
+[SFA, s. 331]
+
 ### Offences by officers
 
 65\.—(1) Any person, being an officer of a licensed trust company, who fails to take all reasonable steps to secure —
@@ -1510,9 +1604,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) An officer shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court, he committed the offence wilfully.
 
+[SFA, s. 332]
+
 ### General penalty
 
 66\. Any person who is guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $12,500.
+
+[Banking, s. 81; FAA, s. 87; SFA, s. 335]
 
 ### Penalty for corporations
 
@@ -1526,9 +1624,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Where an individual is convicted of an offence under this Act by virtue of section 64, he shall be liable to the fine or imprisonment or both as prescribed for that offence and subsection (1) shall not apply.
 
+[FAA, s. 88]
+
 ### Proceedings with consent of Attorney-General
 
 68\. Proceedings for an offence under this Act may be taken only with the consent of the Attorney-General.
+
+[SFA, s. 336]
 
 ### Composition of offences
 
@@ -1539,6 +1641,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (3) The Authority may make regulations to prescribe the offences which may be compounded.
 
 (4) All sums collected under this section shall be paid to the Authority.
+
+[SFA, s. 336]
 
 ### Power to make regulations giving effect to treaty, etc., relating to trust business
 
@@ -1562,9 +1666,13 @@ under this Act;
 
 (e) the variation of any condition or restriction imposed in connection with the granting of any exemption under this Act.
 
+[FAA, s. 103; SFA, s. 338]
+
 ### Opportunity to be heard
 
 71\. Where this Act provides for a person to be given an opportunity to be heard by the Authority, the Authority may prescribe the manner in which the person shall be given an opportunity to be heard.
+
+[SFA, s. 316]
 
 ### Power to reprimand for misconduct
 
@@ -1596,6 +1704,8 @@ under this Act;
 
 “relevant person” means any licensed trust company or exempt person, or any employee, officer or partner of such licensed trust company or exempt person.
 
+[FAA, s. 97]
+
 ### Appointment of assistants
 
 73\.—(1) Subject to subsection (2), the Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
@@ -1603,6 +1713,8 @@ under this Act;
 (2) The Authority may, by notification published in theGazette, appoint one or more of its officers to exercise the power to grant an exemption to any person (not being an exemption granted to a class of persons) under any of the provisions of this Act as specified in the Fourth Schedule, or to revoke any such exemption.
 
 (3) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[SFA, s. 320]
 
 ### Codes, guidelines, etc., by Authority
 
@@ -1638,6 +1750,8 @@ under this Act;
 
 (9) In this section, “no-action letter” means a letter written by the Authority to an applicant for such a letter to the effect that, if the facts are as represented by the applicant, the Authority will not institute proceedings against the applicant in respect of a particular state of affairs or particular conduct.
 
+[SFA, s. 321]
+
 ### Power of Authority to publish information
 
 75\.—(1) The Authority may, where it thinks it necessary or expedient in the interest of the public, a section of the public or the protected parties of licensed trust companies, publish in such form and manner as it thinks fit —
@@ -1670,9 +1784,11 @@ under this Act;
 
 (ii) under any other law, whether of Singapore or any territory or country outside Singapore, against any person referred to in subsection (1) and the outcome of such proceedings, including any settlement, whether in or out of court;
 
-(e) any disciplinary proceedings brought against any person referred to in subsection (1) by the Authority and the outcome of such proceedings; and
+(e) any disciplinary proceedings brought by the Authority against any person referred to in subsection (1) and the outcome of such proceedings; and
 
 (f) any other action as may have been taken by the Minister or the Authority against any person referred to in subsection (1).
+
+[SFA, s. 322]
 
 ### Power of Authority to issue written directions
 
@@ -1704,6 +1820,8 @@ and the person to whom such direction is issued shall comply with the direction.
 
 (5) The Authority may at any time vary, rescind or revoke any written direction under subsection (1).
 
+[FAA, s. 58]
+
 ### Power of court to make certain orders
 
 77\.—(1) Where on the application of the Authority, it appears to the court that a person —
@@ -1729,6 +1847,8 @@ the court may, without prejudice to any order it would be entitled to make other
 (4) Subsection (3) shall not affect the powers of the court in relation to the punishment for contempt of court.
 
 (5) The court may, on the application of an affected person or of its own motion, rescind, vary or discharge an order made by the court under this section or suspend the operation of such an order.
+
+[Business Trusts Act, s. 101; SFA, s. 325]
 
 ### Injunctions
 
@@ -1760,6 +1880,8 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (10) Subsection (6) shall not affect the powers of the court in relation to the punishment for contempt of court.
 
+[SFA, s. 326]
+
 ### Service of documents
 
 79\.—(1) Any notice or direction to be given or served by the Authority on a person shall for all purposes be regarded as duly given or served if it has been delivered or sent by post or facsimile transmission to such person at his last known address.
@@ -1772,7 +1894,7 @@ the court may, without prejudice to any order it would be entitled to make other
 
 ### Exemption
 
-80\.—(1) The Authority may, by regulations, exempt any person or any class thereof, from all or any of the provisions of this Act , subject to such conditions or restrictions as may be prescribed.
+80\.—(1) The Authority may, by regulations, exempt any person or any class thereof, from all or any of the provisions of this Act, subject to such conditions or restrictions as may be prescribed.
 
 (2) The Authority may, on the application of any person, by notice in writing exempt the person from all or any of the provisions of this Act or the requirements specified in any written direction made by the Authority under this Act if the Authority considers it appropriate to do so in the circumstances of the case.
 
@@ -1786,6 +1908,8 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (4) Any person who contravenes any condition or restriction imposed under subsection (1) or (3)(a) shall be guilty of an offence.
 
+[SFA, s. 337; FAA, s. 100]
+
 ### Amendment of Schedules
 
 81\.—(1) The Minister may, by order published in theGazette, amend, add to or vary any of Schedules.
@@ -1793,6 +1917,8 @@ the court may, without prejudice to any order it would be entitled to make other
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions to the Act as may be necessary or expedient.
 
 (3) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[SFA, s. 340]
 
 ### Regulations
 
@@ -1818,17 +1944,13 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (c) may provide for penalties not exceeding a fine of $25,000 or imprisonment for a term not exceeding 12 months or both for each offence.
 
-### Repeal
-
-83\. The Trust Companies Act (Cap. 336) is repealed.
-
-### Consequential amendments to other written laws
-
-84\. The provisions of the Acts specified in the first column of the Fifth Schedule are amended in the manner set out in the second column thereof.
+[SFA, s. 341]
 
 ### Transitional and savings provisions
 
-85\. The Minister may, within 2 years of the date of commencement of this Act, prescribe such transitional and savings provisions as he may consider necessary or expedient.
+83\. The Minister may, within 2 years of the date of commencement of this Act, prescribe such transitional and savings provisions as he may consider necessary or expedient.
+
+[85
 
 FIRST SCHEDULE
 
@@ -1868,9 +1990,9 @@ Specified Persons
 
 “bare trustee” means a trustee who has a nominal interest in the subject matter of a trust;
 
-“business trust” has the same meaning as in section 2 of the Business Trusts Act 2004 (Act 30 of 2004);
+“business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
-“trustee-manager” has the same meaning as in section 2 of the Business Trusts Act 2004.
+“trustee-manager” has the same meaning as in section 2 of the Business Trusts Act.
 
 THIRD SCHEDULE
 
@@ -1914,7 +2036,7 @@ Any person whom the licensed trust company in good faith believes is entitled to
 
 All persons to whom the disclosure is necessary for the purpose specified in the first column.
 
-Note: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
+Not e: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
 
 (b) where the protected party is a body corporate, the winding up of the protected party.
 
@@ -1922,14 +2044,9 @@ Note: Court may order the proceedings to be held in camera [see section 49(3) an
 
 All persons to whom the disclosure is necessary for the purpose specified in the first column.
 
-Note: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
+Not e: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
 
-5. Disclosure is necessary
-
-
-
-
-for —
+5. Disclosure is necessary for —
 
 (a) compliance with an order or request made under any specified written law to furnish information, for the purposes of an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
 
@@ -1975,12 +2092,7 @@ Any —
 
 In the case of —
 
-(a) a licensed trust company incorporated outside
-
-
-
-
-Singapore —
+(a) a licensed trust company incorporated outside Singapore —
 
 (i) the head office or parent company of the licensed trust company;
 
@@ -2002,9 +2114,9 @@ If any out-sourced function is to be performed outside Singapore, the disclosure
 
 4. Disclosure is solely in connection with —
 
-(a) the merger or proposed merger of a licensed trust company or its holding company with another company; or
-
 Any person participating or otherwise involved in the merger, acquisition or issue, or proposed merger, acquisition or issue, including any of his lawyers or other professional advisers (whether or not the merger or acquisition is subsequently entered into or completed).
+
+(a) the merger or proposed merger of a licensed trust company or its holding company with another company; or
 
 (b) any acquisition or issue, or proposed acquisition or issue, of any part of the share capital of a licensed trust company or its holding company,
 
@@ -2030,130 +2142,137 @@ Section 73(2)
 
 Specified Provisions
 
-1\. Section 15(1)(e)
+1\. Section 15(1)(e).
 
 2\. Section 80(2).
 
-FIFTH SCHEDULE
+## LEGISLATIVE SOURCE KEY
 
-Section 84
+Trust Companies Act
 
-Consequential Amendments to Other Written Laws
+(CHAPTER 336)
 
-First column
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
 
-Second column
+Bermuda, Trusts
 
-(1) Accounting and Corporate Regulatory Authority Act 2004
+:
 
+Bermuda, Trust (Regulation of Trust Business) Act 2001
 
+Banking 2003 Ed.
 
+:
 
-(Act 3 of 2004)
+Singapore, Banking Act (Chapter 19, 2003 Revised Edition)
 
-Second Schedule
+Broadcasting 2003 Ed.
 
-Delete item 4.
+:
 
-(2) Companies Act
+Singapore, Broadcasting Act (Chapter 28, 2003 Revised Edition)
 
+FAA 2002 Ed.
 
+:
 
+Singapore, Financial Advisers Act (Chapter 110, 2002 Revised Edition)
 
-(Chapter 50, 1994 Ed.)
+SFA 2002 Ed.
 
-Section 130A
+:
 
-(i) Delete the words “(registered under the Trust Companies Act)” in the 2nd and 3rd lines of the definition of “depository agent” and substitute the words “(licensed under the Trust Companies Act 2005)”.
+Singapore, Securities and Futures Act (Chapter 289, 2002 Revised Edition)
 
-(ii) Delete the marginal reference “Cap. 336.” in the definition of “depository agent”.
+Trust Companies (repealed)
 
-(3) Financial Advisers Act
+:
 
+Singapore, Trust Companies Act (Chapter 336, 1985 Revised Edition— repealed)
 
+## LEGISLATIVE HISTORY
 
+Trust Companies Act
 
-(Chapter 110, 2002 Ed.)
+(CHAPTER 336)
 
-First Schedule, paragraph 2
+This Legislative History is provided for the convenience of users of the Trust Companies Act. It is not part of this Act.
 
-Delete the words “registered under the Trust Companies Act (Cap. 336)” and substitute the words “licensed under the Trust Companies Act 2005”.
+||||
+|:-|:-|:-|
+|1.|**Ordinance 31 of 1926—Trusts Companies Ordinance 1926**|
+||Date of First Reading|6 September 1926|
+|||(Published on 10 September 1926)|
+||Date of Second and Third Readings|1 November 1926|
+||Date of commencement|26 November 1926|
+|2.|**Ordinance 4 of 1941—Trusts Companies Ordinance 1941**|
+||Date of First Reading|20 January 1941|
+|||(Published on 3 January 1941)|
+||Date of Second and Third Readings|3 February 1941|
+||Date of commencement|21 February 1941|
+|3.|**Ordinance 40 of 1949—Trusts Companies (Amendment) Ordinance 1949**|
+||Date of First Reading|23 August 1949|
+|||(Published on 26 August 1949)|
+||Date of Second and Third Readings|20 September 1949|
+||Date of commencement|30 September 1949|
+|4.|**Ordinance 37 of 1952—Law Revision (Penalties Amendment) Ordinance 1952**|
+||Date of First Reading|16 September 1952|
+|||(Bill No. 32/52 published on 19 September 1952)|
+||Date of Second and Third Readings|14 October 1952|
+||Date of commencement|30 April 1955|
+|5.|**1970 Revised Edition—Trusts Companies Act (Chapter 207)**|
+||Date of operation|1 July 1971|
+|6.|**1985 Revised Edition—Trust Companies Act 2005**|
+||Date of operation|30 March 1987|
+|7.|**Act 11 of 2005—Trust Companies Act 2005**|
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
+Note:
 
-(4) Income Tax Act
+The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust Companies Act (Chapter 336, 1985 Revised Edition).
 
+|8.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
+|||(items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34)(a) and (36) in the First Schedule; and the Third Schedule)|
+|9.|**2006 Revised Edition—Trust Companies Act**|
+||Date of operation|31 July 2006|
+## COMPARATIVE TABLE
 
+Trust Companies Act
 
+(CHAPTER 336)
 
-(Chapter 134, 2004 Ed.)
+The following provisions in the Trust Companies Act (Act 11 of 2005) have been renumbered by the Law Revision Commissioners in this 2006 Revised Edition.
 
-(a) Section 10 (20A)
+This Comparative Table is provided for the convenience of users. It is not part of the Trust Companies Act.
 
-Delete sub-paragraph (x) of paragraph (c) and substitute the following sub-paragraph:
+2006 Ed\. 
 
-“
+Act 11 of 2005 
 
-(x) a trust company licensed under the Trust Companies Act 2005;
+Omitted
 
-”.
+83 
 
-(b) Section 43J(2)
+Omitted
 
-Delete paragraph (a) and substitute the following paragraph:
+84 
 
-“
+83 
 
-(a) a company licensed as a trust company under the Trust Companies Act 2005; or
+85 
 
-”.
+Omitted
 
-(5) Probate and Administration Act (Chapter 251, 2000 Ed.)
+FIFTH SCHEDULE —
 
-Section 6(6)
 
-Delete the words “registered as a trust company under the Trust Companies Act (Cap. 336)” and substitute the words “licensed as a trust company under the Trust Companies Act 2005”.
 
-(6) Residential Property Act
 
-
-
-
-(Chapter 274, 1985 Ed.)
-
-(a) Section 2(1)
-
-(i) Delete the words “registered under the Trust Companies Act” wherever they appear in the definitions of “converted society” and “Singapore society” and substitute in each case the words “licensed under the Trust Companies Act 2005”.
-
-(ii) Delete the marginal reference “Cap. 336.” in the definitions of “converted society” and “Singapore society”.
-
-(b) Section 16(1)
-
-(i) Delete the words “registered under the Trust Companies Act” in paragraph (b) and substitute the words “licensed under the Trust Companies Act 2005”.
-
-(ii) Delete the marginal reference “Cap. 336.”.
-
-(c) Section 18
-
-(i) Delete the words “registered under the Trust Companies Act” in paragraph (c) and substitute the words “licensed under the Trust Companies Act 2005”.
-
-(ii) Delete the marginal reference “Cap. 336.”.
-
-(7) Securities and Futures Act
-
-
-
-
-(Chapter 289, 2002 Ed.)
-
-Delete the words “registered under the Trust Companies Act (Cap. 336)” wherever they appear and substitute in each case the words “licensed under the Trust Companies Act 2005”.
-
-(8) Trustees Act
-
-
-
-
-(Chapter 337, 1999 Ed.)
-
-Section 3
-
-Delete the words “registered as a trust company under the Trust Companies Act (Cap. 336)” in the definition of “trust corporation” and substitute the words “licensed as a trust company under the Trust Companies Act 2005”.
+CONSEQUENTIAL AMENDMENTS TO OTHER WRITTEN LAWS
 
