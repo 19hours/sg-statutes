@@ -1760,19 +1760,19 @@ Australia
 
 1. Faculty of Health Sciences, University of Adelaide
 
-MBBS
+MB BS
 
 2. School of Medicine, Faculty of Health Sciences, The Flinders University of South Australia
 
-MBBS
+MB BS
 
 3. Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne
 
-MBBS
+MB BS
 
 4. Faculty of Medicine, Nursing and Health Sciences, Monash University
 
-MBBS
+MB BS
 
 5. School of Medicine and Public Health, University of Newcastle
 
@@ -1780,23 +1780,23 @@ BMed
 
 6. Faculty of Medicine, University of New South Wales
 
-MBBS
+MB BS
 
 7. Faculty of Health Sciences, The University of Queensland Medical School
 
-MBBS
+MB BS
 
 8. Faculty of Medicine, University of Sydney
 
-MBBS
+MB BS
 
 9. Faculty of Health Science, University of Tasmania
 
-MBBS
+MB BS
 
 10. Faculty of Medicine and Dentistry, University of Western Australia
 
-MBBS
+MB BS
 
 Austria
 
@@ -1846,6 +1846,18 @@ MD
 MD
 
 7. Schulich School of Medicine & Dentistry, University of Western Ontario
+
+MD
+
+8. Faculty of Medicine and Dentistry, University of Alberta
+
+MD
+
+9. Faculté de Médecine, Université de Montréal
+
+MD
+
+10.College of Medicine, University of Saskatchewan
 
 MD
 
@@ -1927,7 +1939,27 @@ MB ChB
 
 2. Li Ka Shing Faculty of Medicine, University of Hong Kong
 
-MBBS
+MB BS
+
+India
+
+1. All-India Institute of Medical
+
+
+
+
+Sciences
+
+MB BS
+
+2. Christian Medical College,
+
+
+
+
+Vellore
+
+MB BS
 
 Ireland
 
@@ -1951,6 +1983,16 @@ MB BCh BAO
 
 MB BCh BAO
 
+Israel
+
+1. Faculty of Medicine, The Hebrew University of Jerusalem
+
+MD
+
+2. Sackler Faculty of Medicine, Tel Aviv University
+
+MD
+
 Italy
 
 1. Universita Degli Studi di Roma La Sapienza (Facolta I and II)
@@ -1965,11 +2007,19 @@ Japan
 
 1. University of Tokyo
 
-Igakushi or MB
+Igakushi (Bachelor of Medicine)
 
 2. Kyoto University
 
-Igakushi or MB
+Igakushi (Bachelor of Medicine)
+
+3. School of Medicine, Hokkaido University
+
+Igaku (Bachelor of Medicine)
+
+4. School of Medicine, Osaka University
+
+Igaku (Bachelor of Medicine)
 
 Netherlands
 
@@ -2000,6 +2050,22 @@ Norway
 1. Universitetet I Oslo
 
 Candidatus Medicinae
+
+South Korea
+
+1. College of Medicine, Seoul National University
+
+Hak Sa
+
+Spain
+
+1. Facultad de Medicina, Universidad de Barcelona
+
+Licenciado en Medicina y Cirugia
+
+2. Facultad de Medicina, Universidad Complutense de Madrid
+
+Licenciado en Medicina y Cirugia
 
 Sweden
 
@@ -2088,23 +2154,23 @@ MB ChB
 
 (a) King’s College London School of Medicine
 
-MBBS
+MB BS
 
 (b) Imperial College London
 
-MBBS
+MB BS
 
 (c) Barts and The London Queen Mary’s School of Medicine and Dentistry
 
-MBBS
+MB BS
 
 (d) Royal Free and University College Medical School
 
-MBBS
+MB BS
 
 (e) St. George’s University of London
 
-MBBS
+MB BS
 
 13. Faculty of Medicine, University of Manchester
 
@@ -2112,7 +2178,7 @@ MB ChB
 
 14. Faculty of Medical Sciences, University of Newcastle upon Tyne
 
-MBBS
+MB BS
 
 15. Faculty of Medicine and Health Sciences, The University of Nottingham
 
@@ -2120,7 +2186,7 @@ BMBS
 
 16. Oxford University Medical School
 
-MB ChB
+BM BCh
 
 17. Faculty of Medicine and Biomedical Sciences, University of Sheffield
 
@@ -2128,7 +2194,7 @@ MB ChB
 
 18. Faculty of Medicine, University of Southampton
 
-MB
+BM
 
 19. Medical School, University of St. Andrews
 
@@ -2241,6 +2307,40 @@ MD
 
 MD.
 
+25. Feinberg School of Medicine, Northwestern University
+
+MD
+
+26. School of Medicine, University of Alabama
+
+MD
+
+27. School of Medicine, Boston University
+
+MD
+
+28. School of Medicine, University of North Carolina, Chapel Hill
+
+MD
+
+29. School of Medicine, University of Virginia
+
+MD
+
+30. School of Medicine, University of Colorado
+
+MD
+
+31. School of Medicine and Dentistry, University of Rochester
+
+MD
+
+32. Mount Sinai School of Medicine, New York University
+
+MD
+
+[S 440/2006 wef 01/08/2006]
+
 [S 178/2006 wef 01/04/2006]
 
 ## LEGISLATIVE HISTORY
@@ -2283,6 +2383,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|1 January 2006 (Item (14) of the Fifth Schedule)|
 |9.|**G. N. No. S 178/2006—Medical Registration Act (Amendment of Schedule) Order 2006**|
 ||Date of commencement|1 April 2006|
+|10.|**G. N. No. S 440/2006—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2006**|
+||Date of commencement|1 August 2006|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
