@@ -244,8 +244,6 @@ PRELIMINARY
 
 “officer of the Bureau” means the Director or any person appointed under section 3 as a Deputy Director, an Assistant Director or an officer of the Central Narcotics Bureau;
 
-[2/2006 wef 01/03/2006]
-
 “opium” means any substance containing in any quantity morphine and one or more of the following, namely, codeine, narcotine, papaverine and thebaine but does not include poppy-straw which is not mixed in any such substance;
 
 “permanent resident of Singapore” includes the holder of a Singapore blue identity card and a person who holds an entry permit or a re-entry permit issued by the Controller of Immigration;
@@ -279,8 +277,6 @@ otherwise than under the authority of this Act, and “trafficking” has a corr
 ### Appointment of Director and other officers of Central Narcotics Bureau
 
 3\.—(1) The Minister may appoint a Director of the Central Narcotics Bureau and such numbers of Deputy Directors, Assistant Directors and other officers as the Minister may think fit.
-
-[2/2006 wef 01/03/2006]
 
 (2) All officers of the Bureau appointed by the Minister before 12th December 1975 shall be deemed to have been appointed under subsection (1).
 
@@ -482,8 +478,6 @@ EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
 
-[2/2006 wef 01/03/2006]
-
 ### Presumption concerning trafficking
 
 17\. Any person who is proved to have had in his possession more than —
@@ -507,8 +501,6 @@ shall be admitted in evidence, in any proceedings for an offence under this Act,
 [2/2006 wef 01/03/2006]
 
 (ha) 113 grammes of ketamine; or
-
-[2/2006 wef 01/03/2006]
 
 (i) 10 grammes of any or any combination of the following:
 
@@ -700,7 +692,7 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 (a) fails to comply with the requirement of an immigration officer under this section; or
 
-(b) is found as a result of urine tests conducted under subsection (4) (a) or (b) to have consumed a controlled drug,
+(b) is found as a result of urine tests conducted under subsection (4)(a) or (b) to have consumed a controlled drug,
 
 [2/2006 wef 01/03/2006]
 
@@ -714,7 +706,7 @@ may be prohibited from entering or remaining in Singapore.
 
 (b) each of the remaining 2 parts of the urine specimen shall be marked and sealed and a urine test shall be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may, by notification in theGazette, appoint for such purpose.
 
-[2/2006 wef 01/03/2006]
+(5) [Deleted by Act 2/2006 wef 01/03/2006]
 
 ### Power of investigation of officers of Bureau
 
@@ -733,8 +725,6 @@ may be prohibited from entering or remaining in Singapore.
 ### Officer of Bureau to be armed
 
 32A\. Every officer of the Bureau shall be provided with such staves, arms, ammunition and other accoutrements as may be necessary for the effective discharge of his duties.
-
-[2/2006 wef 01/03/2006]
 
 ### Punishment for offences
 
@@ -830,8 +820,6 @@ shall be deemed to be a previous conviction for consumption of a specified drug 
 
 (ii) in relation to a conviction or admission for consumption of any drug added to the Fourth Schedule after 20th July 1998, means the date on which the amendment to that Schedule for the inclusion of such drug commences.
 
-[2/2006 wef 01/03/2006]
-
 ## PART IV
 
 TREATMENT AND REHABILITATION
@@ -862,9 +850,7 @@ TREATMENT AND REHABILITATION
 
 (4A) The Director may, under such circumstances as may be prescribed, extend the period for which a person is subject to supervision under subsection (2)(a) for a period not exceeding 2 years.
 
-[2/2006 wef 01/03/2006]
-
-(5) No person in respect of whom an order has been made under subsection (2) (b) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+(5) No person in respect of whom an order has been made under subsection (2)(b) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
 
 [2/2006 wef 01/03/2006]
 
@@ -1476,8 +1462,6 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 (qa) prescribing the circumstances under which the Director may extend the period for which a person is subject to supervision under this Act;
 
-[2/2006 wef 01/03/2006]
-
 (r) prescribing anything that may be prescribed;
 
 (s) prescribing the functions and procedure of advisory committees;
@@ -1557,6 +1541,8 @@ Bezitramide.
 4-Bromo-2,5-dimethoxyphenethylamine.
 
 Bufotenine.
+
+Buprenorphine.
 
 Cannabinol.
 
@@ -1691,6 +1677,8 @@ Myrophine.
 Nicomorphine (3, 6-dinicotinoyl-morphine).
 
 Noracymethadol.
+
+Norbuprenorphine.
 
 Norketamine and its dehydro derivatives.
 
@@ -2816,9 +2804,7 @@ Specified Drugs
 
 11\. Norketamine and its dehydro derivatives
 
-12. Opium.
-
-[2/2006 wef 01/03/2006]
+12\. Opium.
 
 ## LEGISLATIVE HISTORY
 
@@ -2938,6 +2924,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 40/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
 ||Date of commencement|1 March 2006|
+|37.|**G. N. No. S 491/2006—Misuse of Drugs Act (Amendment of First Schedule) Order 2006**|
+||Date of commencement|14 August 2006|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
