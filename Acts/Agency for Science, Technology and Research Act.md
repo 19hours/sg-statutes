@@ -194,7 +194,11 @@ and shall be signed by these persons.
 
 (2) In carrying out its functions, the Agency shall —
 
-(a) have regard to the needs of Singapore and its resources; and
+(a) have regard to the needs of Singapore and its resources;
+
+(aa) have regard to the policies and directions of the Research, Innovation and Enterprise Council established under the National Research Fund Act 2006; and
+
+[17/2006 wef 22/08/2006]
 
 (b) promote developments, commercial applications and innovation in areas of science (including biomedicine ), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
 
@@ -643,6 +647,12 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|8.|**Act 17 of 2006—National Research Fund Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2006|
+|||(Bill No. 10/2006 published on 28 February 2006)|
+||Date of Second and Third Readings|3 April 2006|
+||Date of commencement|22 August 2006|
 ## COMPARATIVE TABLE
 
 Agency for Science, Technology and Research Act
