@@ -2134,7 +2134,11 @@ by —
 
 [34/2005 wef 01/01/2005]
 
-(b) [Deleted by Act 8 of 2005 wef 01/05/2005]
+(b) subject to subsections (2C) and (2D) and such conditions as may be prescribed by regulations —
+
+(i) the interest derived by any person from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+
+[53/2007 wef 01/11/2006]
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
@@ -2318,6 +2322,34 @@ except where such income is derived through a partnership in Singapore or is der
 
 [34/2005 wef 01/01/2005]
 
+(2C) Subsection (1)(c) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
+
+(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+
+if 50% or more of the issue of the securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities.
+
+[53/2007 wef 01/11/2006]
+
+(2D) Subsection (1)(b) shall not apply to —
+
+(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+
+if the securities are held by less than 4 persons at any time during the life of the issue, unless —
+
+(i) approval has been granted by the Minister or such person as he may appoint to such application;
+
+(ii) all the persons holding the securities are companies resident in Singapore;
+
+(iii) such companies are listed on the Singapore Exchange either on the date of issue of the securities or within 6 months from that date; and
+
+(iv) the income from the securities received by such companies is declared to be distributable to their shareholders within 6 months from the end of the basis period in which it is received.
+
+[53/2007 wef 01/11/2006]
+
+(2E) Regulations made under subsection (1)(b) may provide for the determination of the amount of income of the person to be exempted and for the deduction of expenses, allowances, losses and donations of the person otherwise than in accordance with this Act.
+
+[53/2007 wef 01/11/2006]
+
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
 [26/73]
@@ -2436,6 +2468,10 @@ the income received by a person resident in Singapore from such source in any co
 
 “financial sector incentive (bond market) company” means a company approved as such by the Minister or such person as he may appoint;
 
+“financial sector incentive (project finance) company” means a company approved as such by the Minister or such person as he may appoint;
+
+[53/2007 wef 01/11/2006]
+
 “Islamic debt securities” has the same meaning as in section 43N(4);
 
 [34/2005 wef 01/01/2005]
@@ -2469,6 +2505,26 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 (BB) 50% or more of the issue of debt securities or Islamic debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those debt securities or Islamic debt securities;
 
 [34/2005 wef 01/01/2005]
+
+“qualifying project debt securities” means debt securities —
+
+(a) which are issued during the period from 1st November 2006 to 31st December 2008 and arranged in accordance with regulations made for this purpose —
+
+(i) by any financial institution in Singapore; or
+
+(ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company;
+
+(b) the interest and other income directly attributable to which are funded primarily by cash flows from an infrastructure asset or project prescribed by regulations (referred to in this definition as a prescribed asset or project); and
+
+(c) the proceeds from the issue of which are only used to acquire, develop or invest in a prescribed asset or project, or to refinance a previous borrowing which was only used for that purpose; where the gearing ratio of such prescribed asset or project is approved by the Minister or such person as he may appoint in a case where the debt securities are issued by a person in Singapore or the prescribed asset or project is in Singapore,
+
+but does not include, except with the approval of the Minister or such person as he may appoint (which approval may be subject to such conditions as the Minister may impose), any debt securities —
+
+(A) which are issued to less than 4 persons; or
+
+(B) 50% or more of the issue of which is beneficially held or funded, directly or indirectly, by related parties of the issuer of those debt securities;
+
+[53/2007 wef 01/11/2006]
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
@@ -8766,13 +8822,17 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (b) interest shall be deemed to have been paid by a person to another person although it is not actually paid over to the other person but is reinvested, accumulated, capitalised, carried to any reserve or credited to any account however designated, or otherwise dealt with on behalf of the other person.
 
-(9) This section shall not apply to any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008, subject to such conditions as the Minister may impose.
+(9) This section shall not apply to —
 
-[32/99; 21/2003]
+(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008, subject to such conditions as the Minister may impose;
 
-(10) In this section, “qualifying debt securities” has the same meaning as in section 13(16).
+(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008, subject to such conditions as the Minister may impose.
 
-[32/99]
+[Act 7/2007 wef 01/04/2006]
+
+(10) In this section, “qualifying debt securities” and “qualifying project debt securities” have the same meanings as in section 13(16).
+
+[Act 7/2007 wef 01/04/2006]
 
 ### Application of section 45 to royalties, management fees, etc.
 
@@ -9489,12 +9549,6 @@ the rate of exchange applicable shall be the rate of exchange prevailing as at t
 (4) In this section, “computer” and “computer output” have the same meanings as in the Computer Misuse Act (Cap. 50A).
 
 [37/2002]
-
-### Failure to comply with notices issued by Comptroller
-
-65C\. Any person who fails or neglects without reasonable excuse to comply with any notice issued by the Comptroller under section 64, 65, 65A or 65B shall be guilty of an offence.
-
-[4/75]
 
 ### Returns to be deemed to be furnished by due authority
 
@@ -12339,6 +12393,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 19/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 April 2006 (Sections 2(h), (i), (j), 23)|
+|209.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 19/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 November 2006 (Sections 33, 44(a), (e))|
+|210.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 November 2006 (Sections 6(a), (h), (k), (m), 31(d))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
