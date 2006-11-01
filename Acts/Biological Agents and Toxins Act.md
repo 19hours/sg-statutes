@@ -434,6 +434,10 @@ any biological agent for any non-peaceful purpose.
 
 (b) may be arrested without warrant by a police officer or an enforcement officer.
 
+Division 2 —
+
+First Schedule biological agents
+
 Subdivision (1) —
 
 Possession and use
@@ -537,6 +541,124 @@ and whose possession of the First Schedule biological agent is merely incidental
 (B) be quarantined at such place and for such period as the Director may specify in the order.
 
 (4) Any person who contravenes any order made by the Director under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+Subdivision (2) —
+
+Import and transhipment
+
+### Prohibition against import or transhipment of First Schedule biological agents without permit
+
+8\.—(1) No person shall import or procure the import of any First Schedule biological agent unless the import of the First Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director.
+
+(2) No person shall tranship any First Schedule biological agent unless the transhipment of the First Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director.
+
+(3) For the purposes of subsection (1), no permit to import a First Schedule biological agent shall be granted to any person unless he has already been granted an approval to possess the First Schedule biological agent as referred to in section 6.
+
+(4) Every permit to import or tranship a First Schedule biological agent shall be valid only in respect of one consignment of the First Schedule biological agent for which an application for the permit has been made.
+
+(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+(a) in the case of a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(b) in the case of a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
+
+### Notification of failure of receipt of import
+
+9\.—(1) Every holder of a permit to import any First Schedule (Part II) biological agent shall immediately notify the Director, in such form and manner as the Director may require, in the event he fails to receive the consignment of the First Schedule (Part II) biological agent to which the permit to import relates.
+
+(2) For the purposes of subsection (1), the holder of the permit to import shall be deemed to have failed to receive the consignment of the First Schedule (Part II) biological agent to which the permit to import relates if he does not receive the consignment within 24 hours of such time as may be reasonably estimated by him for the receipt.
+
+(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+### Storage of First Schedule biological agents upon import or pending transhipment
+
+10\.—(1) Where any First Schedule biological agent that has been imported into Singapore is required to be stored temporarily at any place before it is delivered to the facility for which it is destined, the person to whom the permit to import the First Schedule biological agent has been granted shall ensure that the First Schedule biological agent is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.
+
+(2) Where any First Schedule biological agent that is being transhipped through Singapore is required to be landed and stored temporarily at any place before it is delivered to the conveyance on which it will be taken out of Singapore, the person to whom the permit to tranship the First Schedule biological agent has been granted shall ensure that the First Schedule biological agent is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.
+
+(3) Where a holder of a permit to import or tranship any First Schedule biological agent stores the biological agent in contravention of subsection (1) or (2), as the case may be —
+
+(a) he shall be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+(i) in the case of a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(ii) in the case of a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both; and
+
+(b) the Director may order the holder of the permit, at his own expense, to do any one or more of the following:
+
+(i) take such measures as the Director may specify to ensure that the First Schedule biological agent is properly stored;
+
+(ii) destroy the First Schedule biological agent;
+
+(iii) decontaminate the place at which the First Schedule biological agent was stored in contravention of subsection (1) or (2).
+
+(4) Any holder of a permit to import any First Schedule biological agent and any holder of a permit to tranship any First Schedule biological agent who contravenes any order made by the Director under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+(a) where the order has been made in relation to or in connection with a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(b) where the order has been made in relation to or in connection with a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
+
+Subdivision (3) —
+
+Transfer
+
+### Prohibition against transfers of First Schedule biological agents except by certain persons
+
+11\.—(1) Subject to subsection (2), no person shall transfer any First Schedule biological agent unless —
+
+(a) he has an approval to possess the First Schedule biological agent as referred to in section 6; and
+
+(b) the transferee —
+
+(i) has also been granted an approval to possess the First Schedule biological agent as referred to in section 6; or
+
+(ii) is outside Singapore.
+
+(2) No person to whom any First Schedule biological agent has been provided for any excluded purpose shall transfer the First Schedule biological agent to any other person for any purpose other than an excluded purpose unless the transferee —
+
+(a) has been granted an approval to possess the First Schedule biological agent as referred to in section 6; or
+
+(b) is outside Singapore.
+
+(3) Any transferor who transfers any First Schedule biological agent to any transferee in Singapore, knowing or having reason to believe that such transferee does not have an approval to possess the First Schedule biological agent as referred to in section 6, shall be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+(a) where the biological agent is a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(b) where the biological agent is a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
+
+### Notifications relating to transfers of First Schedule biological agents
+
+12\.—(1) Any transferor who wishes to transfer any First Schedule (Part II) biological agent to a transferee shall notify —
+
+(a) the Director of the proposed transfer within such time and in such form and manner as the Director may require;
+
+(b) the transferee of an estimated time of receipt by the transferee of the biological agent being transferred; and
+
+(c) the carrier of the biological agent (where he is not the transferor or transferee) prior to the despatch of the biological agent of a 24-hour emergency number that is monitored at all times by a person who —
+
+(i) has knowledge of the hazards and characteristics of the biological agent being transported; or
+
+(ii) has immediate access to a person who possesses such knowledge and information.
+
+(2) Where a transferee fails to receive any First Schedule (Part II) biological agent which is being transferred to him, the transferee shall immediately notify the Director, in such form and manner as the Director may require, of the failure of receipt.
+
+(3) For the purposes of subsection (2), a transferee shall be deemed to have failed to receive the First Schedule (Part II) biological agent which is being transferred to him if he does not receive the biological agent within 24 hours of the estimated time of receipt of the biological agent provided by the transferor.
+
+(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+Subdivision (4) —
+
+Transportation
+
+### Prohibition against transportation by certain means
+
+13\.—(1) No person shall transport or procure the transportation of any First Schedule biological agent within Singapore by mail or public transportation.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+(a) where the biological agent is a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(b) where the biological agent is a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
 
 Division 3 —
 
@@ -1936,7 +2058,7 @@ Viruses
 
 Parasitic Agents
 
-1\.Plasmodium falciparum
+Deleted by S 589/2006, wef 01/11/2006.
 
 Part II
 
@@ -2078,7 +2200,15 @@ Fifth Schedule Toxins
 
 4\. Shigatoxins
 
-5\. Verotoxins .
+5\. Verotoxins
+
+6. T-2 toxin
+
+[S 589/2006 wef 01/11/2006]
+
+7. Tetanus toxin.
+
+[S 589/2006 wef 01/11/2006]
 
 SIXTH SCHEDULE
 
