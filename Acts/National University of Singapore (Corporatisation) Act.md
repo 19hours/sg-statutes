@@ -1,6 +1,6 @@
-**National University of Singapore (Corporatisation) Act 2005**
+**National University of Singapore (Corporatisation) Act**
 
-**(No. 45 of 2005)**
+**(CHAPTER 204A)**
 
 **Table of Contents**
 
@@ -8,11 +8,9 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,7 +34,7 @@
 
 - [11 Act to prevail over constituent documents, etc.](#Act-to-prevail-over-constituent-documents-etc)
 
-[**Part III TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY**](#Part-III)
+[**Part III TRANSFER OF PROPERTY, RIGHTS, LIABILITIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY**](#Part-III)
 
 - [12 Transfer to university company of property, rights and liabilities](#Transfer-to-university-company-of-property-rights-and-liabilities)
 
@@ -58,45 +56,25 @@
 
 - [20 Register of Guild of Graduates](#Register-of-Guild-of-Graduates)
 
-- [21 Repeal](#Repeal)
-
 [**FIRST SCHEDULE Dissolution of Aspf Scheme**](#FIRST-SCHEDULE-Dissolution-of-Aspf-Scheme)
 
 [**SECOND SCHEDULE Provisions Applicable to Register of Guild of Graduates**](#SECOND-SCHEDULE-Provisions-Applicable-to-Register-of-Guild-of-Graduates)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# National University of Singapore (Corporatisation) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 204A)
 
-Published by Authority
+(Original Enactment: ACT 45 OF 2005)
 
-NO. 15]
+REVISED EDITION 2006
 
-Friday, March 31
+(31st December 2006)
 
-[2006
+An Act to provide for the corporatisation of the National University of Singapore and for the transfer of its property, rights and liabilities to a successor company, and to provide for certain matters relating to that company.
 
-The following Act was passed by Parliament on 21st November 2005 and assented to by the President on 7th December 2005:—
-
-National University of Singapore (Corporatisation) Act 2005
-
-(No. 45 of 2005)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-7th December 2005.
-
-Date of Commencement: 1st April 2006
-
-An Act to provide for the corporatisation of the National University of Singapore and for the transfer of its property, rights and liabilities to a successor company, to provide for certain matters relating to that company, and to repeal the National University of Singapore Act (Chapter 204 of the 2002 Revised Edition).
-
-And Whereas the National University of Singapore was established under the National University of Singapore Act:
+And Whereas the National University of Singapore was established under the National University of Singapore Act (Cap. 204, 2002 Ed.):
 
 And Whereas it is desirable to corporatise the National University of Singapore:
 
@@ -104,27 +82,25 @@ And Whereas a company limited by guarantee will be incorporated under the Compan
 
 And Whereas it is desirable that statutory provision be made in relation to the transfer of the property, assets, liabilities and employees of the National University of Singapore to the company, the operation of the company and certain of the powers of the company.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National University of Singapore (Corporatisation) Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National University of Singapore (Corporatisation) Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “Board” means the Board of Trustees of the university company referred to in its constituent documents;
 
 “constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company;
 
-“predecessor university” means the National University of Singapore established under the National University of Singapore Act (Cap. 204);
+“predecessor university” means the National University of Singapore established under the repealed National University of Singapore Act (Cap. 204, 2002 Ed.);
 
 “university company” means the company limited by guarantee incorporated under the Companies Act (Cap. 50) under the name “National University of Singapore”.
 
@@ -214,11 +190,11 @@ PROVISIONS RELATING TO UNIVERSITY COMPANY
 
 ## PART III
 
-TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY
+TRANSFER OF PROPERTY, RIGHTS, LIABILITIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY
 
 ### Transfer to university company of property, rights and liabilities
 
-12\.—(1) As from the appointed day, such property, rights and liabilities comprised in the undertaking of the predecessor university as may be determined by the Minister and agreed to by the Minister for Finance shall, by virtue of this section and without further assurance, act or deed, be transferred to and vest in the university company.
+12\.—(1) As from 1st April 2006, such property, rights and liabilities comprised in the undertaking of the predecessor university as may be determined by the Minister and agreed to by the Minister for Finance shall, by virtue of this section and without further assurance, act or deed, be transferred to and vest in the university company.
 
 (2) Any property which by any scheme, will or other instrument or otherwise was held upon trust for any specific foundation or object of the predecessor university and which has been transferred to or vests in the university company by virtue of subsection (1) shall, after such transfer or vesting, be held upon trust for and applied as far as possible to the like foundation or object of the university company.
 
@@ -232,21 +208,21 @@ TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, ETC., TO UNIVERSITY COMPAN
 
 (7) Section 56(1) of the Land Titles Act shall not apply to any instrument executed by the university company purporting to dispose of, or to create an interest in, mortgages or charges of registered land comprised in the undertakings transferred to and vested in the university company under this Act and shall not prevent the registration of any such instrument executed by the university company, notwithstanding that the university company may not be named as the proprietor or proprietors of the registered land in the land-register at the time of the registration of such instrument.
 
-(8) Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the university company to register the vesting in favour of the university company of all mortgages or charges of unregistered land comprised in the undertakings transferred to and vested in the university company under this Act, and the production of a Government Printer’s copy of this Act and such evidence of publication of the appointed day in theGazetteunder section 1 shall be admissible in any court as evidence of the university company’s interest in such land.
+(8) Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the university company to register the vesting in favour of the university company of all mortgages or charges of unregistered land comprised in the undertakings transferred to and vested in the university company under this Act, and the production of a Government Printer’s copy of this Act and such evidence of publication of the date of commencement of this Act in theGazetteunder section 1 shall be admissible in any court as evidence of the university company’s interest in such land.
 
-(9) For the purposes of the Land Titles Act and the Registration of Deeds Act, all caveats or memoranda of charge claiming an interest in land as mortgagee or chargee lodged by the predecessor university and subsisting as at the appointed day shall be construed and have effect on and after that day as if every reference therein to the predecessor university were substituted with a reference to the university company.
+(9) For the purposes of the Land Titles Act and the Registration of Deeds Act, all caveats or memoranda of charge claiming an interest in land as mortgagee or chargee lodged by the predecessor university and subsisting as at 1st April 2006 shall be construed and have effect on and after that date as if every reference therein to the predecessor university were substituted with a reference to the university company.
 
-(10) All proceedings by or against the predecessor university which are commenced before the appointed day and which are pending on that day may be continued, completed and enforced by or against the university company on and after that day.
+(10) All proceedings by or against the predecessor university which were commenced before 1st April 2006 and which are pending on that date may be continued, completed and enforced by or against the university company on and after that date.
 
-(11) Every agreement relating to any of the transferred properties to which the predecessor university was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder can be assigned, shall have effect on and after that day as if —
+(11) Every agreement relating to any of the transferred properties to which the predecessor university was a party immediately before 1st April 2006, whether or not of such nature that the rights and liabilities thereunder can be assigned, shall have effect on and after that date as if —
 
 (a) the university company had been a party to such an agreement; and
 
-(b) every reference therein to the predecessor university were substituted in respect of anything to be done on or after that day, with a reference to the university company.
+(b) every reference therein to the predecessor university were substituted in respect of anything to be done on or after that date, with a reference to the university company.
 
 ### Transfer of employees
 
-13\.—(1) As from the appointed day, all persons employed immediately before that day by the predecessor university shall be transferred to the service of the university company on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+13\.—(1) As from 1st April 2006, all persons employed immediately before that date by the predecessor university shall be transferred to the service of the university company on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the university company, the scheme and terms and conditions of service in the predecessor university shall continue to apply to every person transferred to the service of the university company under subsection (1) as if he were still in the service of the predecessor university.
 
@@ -258,19 +234,19 @@ TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, ETC., TO UNIVERSITY COMPAN
 
 ### Existing contracts
 
-15\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the predecessor university is a party shall continue in force on and after that day and shall be enforceable by or against the university company as if the university company had been named therein or had been a party thereto instead of the predecessor university.
+15\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2006 to which the predecessor university is a party shall continue in force on and after that date and shall be enforceable by or against the university company as if the university company had been named therein or had been a party thereto instead of the predecessor university.
 
 ### Continuation and completion of disciplinary proceedings
 
-16\.—(1) Where any disciplinary proceedings commenced before the appointed day against —
+16\.—(1) Where any disciplinary proceedings commenced before 1st April 2006 against —
 
 (a) any employee of the predecessor university transferred to the service of the university company under section 13; or
 
 (b) any student of the predecessor university,
 
-are pending on that day, the proceedings shall on and after that day be carried on and completed by the university company.
+are pending on that date, the proceedings shall on and after that date be carried on and completed by the university company.
 
-(2) Where any hearing or investigation by a duly authorised committee of the predecessor university has commenced before the appointed day, but no order, ruling or direction has been made thereon immediately before that day, the committee shall on or after that day complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where any hearing or investigation by a duly authorised committee of the predecessor university has commenced before 1st April 2006, but no order, ruling or direction has been made thereon immediately before that date, the committee shall on or after that date complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under subsection (2) shall be treated as an order, a ruling or a direction of the university company and have the same force and effect as if it had been made by a duly authorised committee of the university company.
 
@@ -284,19 +260,19 @@ MISCELLANEOUS
 
 ### Predecessor university’s ASPF Scheme
 
-18\.—(1) On the appointed day, all property, rights and liabilities of the predecessor university relating to the ASPF Scheme shall be transferred to and vest in the university company.
+18\.—(1) On 1st April 2006, all property, rights and liabilities of the predecessor university relating to the ASPF Scheme shall be transferred to and vest in the university company.
 
-(2) Any person who, immediately before the appointed day, was a member or former member of the ASPF Scheme shall, on and after that day, continue to be a member or former member, as the case may be, of the ASPF Scheme.
+(2) Any person who, immediately before 1st April 2006, was a member or former member of the ASPF Scheme shall, on and after that date, continue to be a member or former member, as the case may be, of the ASPF Scheme.
 
 (3) The Minister shall, by notification in theGazette, specify the date on which the ASPF Scheme shall be dissolved.
 
 (4) The university company shall, on the dissolution date, dissolve the ASPF Scheme in accordance with the First Schedule.
 
-(5) Notwithstanding section 21, until such time as the ASPF Scheme is dissolved —
+(5) Notwithstanding the repeal of the National University of Singapore Act (Cap. 204, 2002 Ed.), until such time as the ASPF Scheme is dissolved —
 
-(a) section 15 of and the Second Schedule to the National University of Singapore Act (Cap. 204) in force immediately before the appointed day and Statute 18 shall remain in force and shall continue to apply to the ASPF Scheme; and
+(a) section 15 of and the Second Schedule to the National University of Singapore Act (Cap. 204, 2002 Ed.) in force immediately before 1st April 2006 and Statute 18 shall remain in force and shall continue to apply to the ASPF Scheme; and
 
-(b) the Board of Trustees of the university company may amend Statute 18 for the purposes of alignment with the prevailing policy in respect of the treatment of moneys or investments under the Central Provident Fund Act.
+(b) the Board of Trustees of the university company may amend Statute 18 for the purposes of alignment with the prevailing policy in respect of the treatment of moneys or investments under the Central Provident Fund Act (Cap. 36).
 
 (6) On the dissolution date, the property and rights of the university company relating to the ASPF Scheme shall be transferred to and vest in the CPF Board in accordance with the First Schedule.
 
@@ -306,23 +282,19 @@ MISCELLANEOUS
 
 “ASPF Scheme” means the Academic Staff Provident Fund Scheme established by the predecessor university under Statute 18;
 
-“CPF Board” means the Central Provident Fund Board established and constituted under the Central Provident Fund Act (Cap. 36);
+“CPF Board” means the Central Provident Fund Board established and constituted under the Central Provident Fund Act;
 
 “dissolution date” means the date specified by the Minister under subsection (3);
 
-“Statute 18” means Statute 18 (Academic Staff Provident Fund Scheme) made pursuant to the National University of Singapore Act (Cap. 204), as may be amended from time to time by the Board of Trustees of the university company under subsection (5)(b).
+“Statute 18” means Statute 18 (Academic Staff Provident Fund Scheme) made pursuant to the National University of Singapore Act (Cap. 204, 2002 Ed.), as may be amended from time to time by the Board of Trustees of the university company under subsection (5)(b).
 
 ### Students’ Union
 
-19\. On the appointed day, the students’ association known as the National University of Singapore Students’ Union and its constituent bodies shall be deemed to be constituted pursuant to the provisions of the constituent documents of the university company.
+19\. On 1st April 2006, the students’ association known as the National University of Singapore Students’ Union and its constituent bodies shall be deemed to be constituted pursuant to the provisions of the constituent documents of the university company.
 
 ### Register of Guild of Graduates
 
 20\. The provisions of the Second Schedule shall have effect in relation to all persons whose names are on the register of the Guild of Graduates of the predecessor university.
-
-### Repeal
-
-21\. The National University of Singapore Act (Cap. 204) is repealed.
 
 FIRST SCHEDULE
 
@@ -358,7 +330,7 @@ Interpretation
 
 after the deduction of the liabilities of the ASPF Scheme and the expenses of winding up the ASPF Scheme;
 
-“Board of Management” means the board of management of the ASPF Scheme constituted under Clause 8(a) of Statute 18;
+“Board of Management” means the board of management of the ASPF Scheme constituted under Clause 8 (a) of Statute 18;
 
 “CPF” means the Central Provident Fund established under the Central Provident Fund Act (Cap. 36);
 
@@ -388,7 +360,7 @@ after the deduction of the liabilities of the ASPF Scheme and the expenses of wi
 
 “notice period” means the period from the date of the dissolution notice to the dissolution date;
 
-“Part V Assurance” means a life or endowment assurance effected under Part V of Statute 18;
+“Part V Assurance” means a life or an endowment assurance effected under Part V of Statute 18;
 
 “relevant person” means any person who, before the dissolution date, had ASPF moneys, ASPFAIS Investments or Part V Assurances standing to his credit under the ASPF Scheme or a mortgaged property under the ASPF Scheme;
 
@@ -494,7 +466,7 @@ and thereupon close the accounts of the ASPF.
 
 (a) the ASPF Scheme shall be dissolved;
 
-(b) the ASPF moneys, including (where applicable) interest under clause 11 (i) of Statute 18, to be credited under paragraph 18 to the CPF accounts of each living relevant person who is not uncontactable (other than a relevant person who has opted for those moneys to be transferred or assigned to him under paragraph 5(b)) shall, be transferred to the CPF Board; and
+(b) the ASPF moneys, including (where applicable) interest under clause 11 (i) of Statute 18, to be credited under paragraph 18 to the CPF accounts of each living relevant person who is not uncontactable (other than a relevant person who has opted for those moneys to be transferred or assigned to him under paragraph 5(b)), shall be transferred to the CPF Board; and
 
 (c) the balance of the assets of the ASPF, if any, shall be retained by the university company to be held on trust for the relevant persons who have ASPF moneys immediately before the dissolution date.
 
@@ -520,9 +492,9 @@ Part V Assurances and ASPFAIS Investments deemed investments under CPFIS
 
 22\. On the dissolution date, every Part V Assurance and ASPFAIS Investment of a living relevant person who is not uncontactable held by him immediately before the dissolution date (other than any Part V Assurance or ASPFAIS Investment which that person has opted to be transferred or assigned to him under paragraph 5(b)) shall be deemed to be an investment made by him under the CPFIS, and all premiums paid or deemed to have been paid with ASPF moneys in respect of ASPFAIS Investments and Part V Assurances shall, on and after the dissolution date, be deemed to have been paid with CPF moneys from his CPF account.
 
-23\. Every living relevant person who, immediately before the date of the dissolution notice and continuously up to the date immediately before the dissolution date, used ASPF moneys for the purpose of paying the premium on his Part V Assurance shall, on and after the dissolution date, be entitled to use moneys credited to his ordinary account with the CPF for the same purpose.
+23\. Every living relevant person who, immediately before the date of the dissolution notice and continuously up to the date immediately before the dissolution date, used ASPF moneys for the purpose of paying the premium on his Part V Assurance shall, on and after the dissolution date, be entitled to use moneys credited to his ordinary account with the CPF Board for the same purpose.
 
-24\. For the avoidance of doubt, a living relevant person who, immediately before the dissolution date, did not use his ASPF moneys for the purpose of paying the premium on his Part V Assurance shall not be entitled to use moneys credited to his ordinary account with the CPF for such purpose.
+24\. For the avoidance of doubt, a living relevant person who, immediately before the dissolution date, did not use his ASPF moneys for the purpose of paying the premium on his Part V Assurance shall not be entitled to use moneys credited to his ordinary account with the CPF Board for such purpose.
 
 Preservation of rights in relation to immovable property
 
@@ -532,9 +504,9 @@ Preservation of rights in relation to immovable property
 
 26\. Notwithstanding section 145 of the Land Titles Act (Cap. 157), it shall not be necessary for the CPF Board to make any application to the Registrar of Titles to enter in the land-register a memorial of the vesting in favour of the CPF Board of all mortgages or charges of registered land transferred to and vested in the CPF Board under paragraph 25(1).
 
-27\. Section 56(1) of the Land Titles Act (Cap. 157) shall not apply to any instrument executed by the CPF Board purporting to dispose of, or to create an interest in, mortgages or charges of registered land transferred to or vested in the CPF Board under paragraph 25(1) and shall not prevent the registration of any such instrument executed by the CPF Board, notwithstanding that the CPF Board may not be named as the proprietor of the registered land in the land-register at the time of the registration of such instrument.
+27\. Section 56(1) of the Land Titles Act shall not apply to any instrument executed by the CPF Board purporting to dispose of, or to create an interest in, mortgages or charges of registered land transferred to or vested in the CPF Board under paragraph 25(1) and shall not prevent the registration of any such instrument executed by the CPF Board, notwithstanding that the CPF Board may not be named as the proprietor of the registered land in the land-register at the time of the registration of such instrument.
 
-28\. Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the CPF Board to register the transfer to or vesting in favour of the CPF Board of all mortgages or charges of unregistered land under paragraph 25(1), and the production of a Government Printer’s copy of this Act and such evidence of publication of the dissolution date in theGazetteshall be admissible in any court as evidence of the CPF Board’s interest in such land.
+28\. Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the CPF Board to register the transfer to or vesting in favour of the CPF Board of all mortgages or charges of unregistered land under paragraph 25(1), and the production of a Government Printer’s copy of this Act and such evidence of publication of the dissolution date in the Gazette shall be admissible in any court as evidence of the CPF Board’s interest in such land.
 
 29\. For the purposes of the Land Titles Act and the Registration of Deeds Act, all caveats or memoranda of charge claiming an interest in land as mortgagee or chargee in respect of any mortgaged property under the ASPF Scheme lodged by the university company and subsisting as at the dissolution date shall be construed and have effect on and after that date as if for any reference therein to the university company were substituted with a reference to the CPF Board.
 
@@ -580,7 +552,7 @@ Claims against ASPF Scheme
 
 (2) Notwithstanding sub-paragraph (1) but subject to the first and paramount lien or charge vested in the university company pursuant to Clause 7 of Statute 18, the dissolution of the ASPF shall not prejudice or affect the rights of any relevant person to any payment out of the assets of the ASPF that had accrued immediately before the dissolution of the ASPF.
 
-ASPF moneys, ASPFAIS Investments Part V Assurances and mortgaged property of deceased relevant persons
+ASPF moneys, ASPFAIS Investments, Part V Assurances and mortgaged property of deceased relevant persons
 
 33\. All ASPF moneys, ASPFAIS Investments and Part V Assurances of a deceased relevant person shall not be transferred to the CPF Board on the dissolution date.
 
@@ -598,7 +570,7 @@ ASPF moneys, ASPFAIS Investments Part V Assurances and mortgaged property of dec
 
 (2) The university company shall arrange for the discharge of the mortgaged property referred to in paragraph 37.
 
-ASPF moneys, ASPFAIS Investments Part V Assurances and mortgaged property of uncontactable relevant persons
+ASPF moneys, ASPFAIS Investments, Part V Assurances and mortgaged property of uncontactable relevant persons
 
 40\. All ASPF moneys, ASPFAIS Investments and Part V Assurances of a relevant person who is uncontactable shall not be transferred to the CPF Board on the dissolution date.
 
@@ -610,25 +582,25 @@ ASPF moneys, ASPFAIS Investments Part V Assurances and mortgaged property of unc
 
 44\. The university company shall, in respect of any mortgage (whether legal or equitable) in favour of the university company in relation to any mortgaged property under the ASPF Scheme of an uncontactable relevant person and the liabilities thereby secured, continue to be entitled to the same rights and priorities and subject to the same obligations and incidents on and after the dissolution date as it had been immediately before that date.
 
-45\. The university company shall have the right to deduct from the moneys transferred to the account under paragraph 41 or 42 or to apply such amount of the property referred to in paragraph 43 as is necessary to reimburse any reasonable expenses incurred by it in administering the moneys, investments or assurances of a relevant person who is uncontactable.
+45\. The university company shall have the right to deduct from the moneys transferred to the account or accounts under paragraph 41 or 42 or to apply such amount of the property referred to in paragraph 43 as is necessary to reimburse any reasonable expenses incurred by it in administering the moneys, investments or assurances of a relevant person who is uncontactable.
 
-46\. Any person entitled to the whole or any part of any amount or property which is held on trust in the account referred to in paragraph 41 or under paragraph 43 may apply to the university company to claim that amount or property, or part thereof.
+46\. Any person entitled to the whole or any part of any amount or property which is held on trust in the account or accounts referred to in paragraph 41 or under paragraph 43 may apply to the university company to claim that amount or property, or part thereof.
 
 47\. Where an application has been made under paragraph 46 by a living relevant person, the CPF Board shall, at the request of the university company, open a CPF account for the relevant person.
 
 48. Upon the opening of the CPF account referred to in paragraph 47, the university company shall —
 
-(a) where the relevant person is below 55 years of age transfer his ASPF moneys, ASPFAIS Investments or Part V Assurances to that CPF account; or
+(a) where the relevant person is below 55 years of age, transfer his ASPF moneys, ASPFAIS Investments or Part V Assurances to that CPF account; or
 
 (b) where the relevant person is 55 years of age or above, give the relevant person an option —
 
-(i) to have his ASPF moneys, ASPFAIS Investments or Part V Assurances transferred to the CPF account; or
+(i) to have his ASPF moneys, ASPFAIS Investments or Part V Assurances transferred to that CPF account; or
 
 (ii) to have his ASPF moneys, ASPFAIS Investments or Part V Assurances transferred to him subject to the condition that he sets aside such amount of ASPF moneys in his CPF account for the purposes of section 15(6) of the Central Provident Fund Act (Cap. 36).
 
 Evidence of transfer of property, assets, rights and interests
 
-49\. The production of a Government Printer’s copy of this Act and of such evidence of publication of the dissolution date in theGazetteshall, for all purposes, be conclusive evidence of the transfer of the balance of the assets of the ASPF to the CPF Board and the vesting of the balance of the assets of the ASPF in the CPF Board in accordance with the provisions of this Schedule.
+49\. The production of a Government Printer’s copy of this Act and of such evidence of publication of the dissolution date in the Gazette shall, for all purposes, be conclusive evidence of the transfer of the balance of the assets of the ASPF to the CPF Board and the vesting of the balance of the assets of the ASPF in the CPF Board in accordance with the provisions of this Schedule.
 
 SECOND SCHEDULE
 
@@ -640,7 +612,7 @@ Provisions Applicable to Register of Guild of Graduates
 
 (a) the names of all persons who immediately before 8th August 1980 were members of the Guild of Graduates of the University of Singapore and of all persons on whom degrees of the University of Singapore had been conferred;
 
-(b) the names of all persons who immediately before the appointed day were members of the Guild of Graduates of the predecessor university and of all persons on whom degrees of the predecessor university had been conferred; and
+(b) the names of all persons who immediately before 1st April 2006 were members of the Guild of Graduates of the predecessor university and of all persons on whom degrees of the predecessor university had been conferred; and
 
 (c) the names of all graduates of the University.
 
@@ -656,3 +628,24 @@ Provisions Applicable to Register of Guild of Graduates
 
 4\. In this Schedule, “University” means the university known as the National University of Singapore operated, maintained and promoted by the university company.
 
+## LEGISLATIVE HISTORY
+
+National University of Singapore (Corporatisation) Act
+
+(CHAPTER 204A)
+
+This Legislative History is provided for the convenience of users of the National University of Singapore (Corporatisation) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 45 of 2005—National University of Singapore (Corporatisation) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 35/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
+Note:
+
+The National University of Singapore (Corporatisation) Act 2005 repealed the National University of Singapore Act (Chapter 204, 2002 Revised Edition).
+
+|2.|**2006 Revised Edition—National University of Singapore (Corporatisation) Act**|
+||Date of operation|31 December 2006|
