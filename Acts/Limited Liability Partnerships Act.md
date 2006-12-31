@@ -1,16 +1,14 @@
-**Limited Liability Partnerships Act 2005**
+**Limited Liability Partnerships Act**
 
-**(No. 5 of 2005)**
+**(CHAPTER 163A)**
 
 **Table of Contents**
 
 [**Long Title**](#Limited-Liability-Partnerships-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
+[**Part I PRELIMINARY**](#Part-I)
 
-[**Part I PrELIMINARY**](#Part-I)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -110,7 +108,7 @@
 
 - [44 Power of Registrar to obtain further information](#Power-of-Registrar-to-obtain-further-information)
 
-- [45 Penalty for providing false information to the Registrar](#Penalty-for-providing-false-information-to-the-Registrar)
+- [45 Penalty for providing false information to Registrar](#Penalty-for-providing-false-information-to-Registrar)
 
 - [46 Composition of offences](#Composition-of-offences)
 
@@ -154,55 +152,39 @@
 
 [**FIFTH SCHEDULE Winding Up**](#FIFTH-SCHEDULE-Winding-Up)
 
-[**SIXTH SCHEDULE Consequential Amendments to Other Written Laws**](#SIXTH-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Limited Liability Partnerships Act
 
-Published by Authority
+(CHAPTER 163A)
 
-NO. 2]
+(Original Enactment: 42 of 2005)
 
-Friday, February 11
+REVISED EDITION 2006
 
-[2005
+(31st December 2006)
 
-The following Act was passed by Parliament on 25th January 2005 and assented to by the President on 3rd February 2005:—
+An Act to provide for limited liability partnerships.
 
-Limited Liability Partnerships Act 2005
-
-(No. 5 of 2005)
-
-I assent.
-
-S R NATHAN
-
-President
-
-3rd February 2005.
-
-Date of Commencement: 11th April 2005
-
-An Act to provide for limited liability partnerships and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[11th April 2005]
 
 ## PART I
 
-PrELIMINARY
+PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Limited Liability Partnerships Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Limited Liability Partnerships Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004 (Act 3 of 2004);
+“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act (Cap. 2A);
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -222,7 +204,7 @@ but does not include —
 
 “firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
 
-“foreign company” has the same meaning as in section 4(1) of the Companies Act;
+“foreign company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “limited liability partnership” has the meaning given to it by section 4(1);
 
@@ -270,6 +252,8 @@ but does not include —
 
 (4) A reference in this Act to the doing of any act by 2 or more managers of a limited liability partnership shall, in the case of a limited liability partnership which has only one manager, be construed as the doing of that act by that manager.
 
+[Jersey LLP Law 1997, Art. 1 (4)]
+
 ### Administration of Act and appointment of Registrar of Limited Liability Partnerships, etc.
 
 3\.—(1) The Authority shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
@@ -288,6 +272,8 @@ for the proper administration of this Act.
 
 (5) The Registrar may, subject to such conditions or restrictions as he thinks fit, for the purposes of the administration of this Act, delegate to any person all or any of the powers, functions and duties vested in him by this Act except the power of delegation conferred by this subsection.
 
+[BR Act 2004 Ed., s. 3]
+
 ## PART II
 
 NATURE OF LIMITED LIABILITY PARTNERSHIP
@@ -299,6 +285,8 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 (2) A limited liability partnership shall have perpetual succession.
 
 (3) Any change in the partners of a limited liability partnership shall not affect the existence, rights or liabilities of the limited liability partnership.
+
+[Jersey LLP Law 1997, Art. 2 (4); UK LLP 2000, s. 1 (2)]
 
 ### Capacity and execution of documents
 
@@ -314,9 +302,13 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 
 (2) Sections 41 (except subsection (9)) and 144(1)(a) of the Companies Act (Cap. 50) shall apply to a limited liability partnership as they apply to a corporation within the meaning of that Act.
 
+[Companies 1994 Ed., s. 19 (5)]
+
 ### Non-applicability of partnership law
 
 6\. Except as otherwise provided by this Act, the law relating to partnerships shall not apply to a limited liability partnership.
+
+[UK LLP 2000, s. 1 (5)]
 
 ### Partners
 
@@ -336,6 +328,8 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 
 (5) The liabilities of the limited liability partnership shall be met out of the property of the limited liability partnership.
 
+[California Corp Code, UPA 1994, s. 16306 (e); Delaware RUPA, s. 15-305; Jersey LLP Law 1997, Art. 4 (2); UK LLP 2000, s. 6 (4)]
+
 ### Power of partner to bind the limited liability partnership
 
 9\.—(1) Every partner of a limited liability partnership is the agent of the limited liability partnership.
@@ -352,6 +346,8 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 
 (b) notice that the former partner has ceased to be a partner of the limited liability partnership has been delivered to the Registrar.
 
+[UK LLP 2000, s. 6]
+
 ### Relationship of partners, etc.
 
 10\.—(1) Except as otherwise provided by this Act, the mutual rights and duties of the partners of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its partners, shall be governed —
@@ -362,9 +358,11 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 
 (2) Any reference to a resolution of partners for a particular matter, is a reference to a resolution passed by all or such number of partners as may be required by the limited liability partnership agreement for that matter.
 
+[UK LLP 2000, s. 5]
+
 ### Cessation of partnership interest
 
-11\.—(1) A partner of a limited liability partnership may cease to be a partner in accordance with the limited liability partnership agreement, or in the absence of such agreement, by that partner giving 30 days notice to the other partners of his intention to resign as partner.
+11\.—(1) A partner of a limited liability partnership may cease to be a partner in accordance with the limited liability partnership agreement, or in the absence of such agreement, by that partner giving 30 days’ notice to the other partners of his intention to resign as partner.
 
 (2) Without affecting the generality of subsection (1), a partner of a limited liability partnership shall cease to be a partner upon the death or dissolution of the partner.
 
@@ -375,6 +373,8 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 (b) determined as at the date the former partner ceased to be a partner.
 
 (4) For the avoidance of doubt, a former partner, his personal representative or its liquidator (as the case may be) shall not interfere in the management of the limited liability partnership.
+
+[Delaware RUPA, s. 15-701 (a) and (b); UK LLP 2000, s. 4 (3)]
 
 ### Bankruptcy of partner
 
@@ -394,6 +394,8 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 
 (b) entitle the assignee to interfere in the management of the limited liability partnership.
 
+[Delaware RUPA, s. 15-503]
+
 ## PART III
 
 REGISTRATION
@@ -401,6 +403,8 @@ REGISTRATION
 ### Registration of limited liability partnership
 
 14\. Subject to the provisions of this Act, any 2 or more persons associated for carrying on a lawful business with a view to profit may, by complying with the requirements as to registration, register a limited liability partnership under this Act.
+
+[Companies 1994 Ed., s. 17 (1); UK LLP 2000, s.2 (1) (a)]
 
 ### Manner and particulars of registration
 
@@ -424,6 +428,8 @@ REGISTRATION
 
 (4) In this section, “identification” means, in the case of any person issued with an identity card, the number of the identity card, and in the case of a person not issued with an identity card, particulars of the passport or such other similar evidence of identification as is available, if any.
 
+[BR Act 2004 Ed., s. 6; UK LLP 2000, s. 2]
+
 ### Registration
 
 16\.—(1) On receiving the statement referred to in section 15, the Registrar shall, subject to the provisions of this Act, register the statement and issue a notice of registration in such form as the Registrar may determine.
@@ -440,6 +446,8 @@ REGISTRATION
 
 (7) The registration of any limited liability partnership shall not be deemed to imply that the requirements of any law in relation to any business carried on by that limited liability partnership have been complied with.
 
+[BR Act 2004 Ed., s. 8; Companies 1994 Ed., s. 19]
+
 ### Power to refuse registration
 
 17\.—(1) Notwithstanding any provision in this Act or any other written law, the Registrar shall refuse to register a limited liability partnership under this Act where he is satisfied that —
@@ -452,15 +460,19 @@ REGISTRATION
 
 (3) For the purposes of this section, a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that it would be contrary to the national security or interest for the limited liability partnership to be registered under this Act shall be conclusive evidence of the matters so stated.
 
+[BR Act 2004 Ed., ss. 9, 11]
+
 ### Names of limited liability partnerships
 
-18\.—(1) Every limited liability partnership shall have either the words “limited liability partnership” or the acronym “LLP” as part of its name.
+18\.—(1) Every limited liability partnership shall have either the words limited liability partnership or the acronym “LLP” as part of its name.
 
 (2) No limited liability partnership that is registered under this Act shall carry on business under a name that is not registered under section 16 or 28.
 
 (3) The registration of a name under which a limited liability partnership carries on business shall not be construed as authorising the use of that name if, apart from such registration, the use of that name could be prohibited.
 
 (4) Any limited liability partnership which contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[BR Act 2004 Ed., s. 12; LPA 2001 Ed., s. 81C]
 
 ### Restrictions on registration of business names
 
@@ -486,9 +498,7 @@ REGISTRATION
 
 (a) is a name referred to in subsection (1); or
 
-(b) so nearly resembles the name of any other limited liability partnership or corporation or a business name as to be likely to be mistaken for it,
-
-the Registrar may direct the limited liability partnership to change its name, and the limited liability partnership shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+(b) so nearly resembles the name of any other limited liability partnership or corporation or a business name as to be likely to be mistaken for it, the Registrar may direct the limited liability partnership to change its name, and the limited liability partnership shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
 (5) Any person may apply, in writing, to the Registrar to give a direction to any limited liability partnership, on a ground referred to in subsection (4)(a) or (b), to change its name.
 
@@ -503,6 +513,8 @@ the Registrar may direct the limited liability partnership to change its name, a
 (10) The Registrar may, by publication in theGazette, make such rules as he considers appropriate for the purposes of determining the matters referred to in subsections (1) to (4).
 
 (11) In this section, “business name” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32).
+
+[BR Act 2004 Ed., s. 13; Companies 1994 Ed., s. 27]
 
 ## PART IV
 
@@ -546,6 +558,8 @@ MANAGEMENT AND ADMINISTRATION
 
 (b) knew that the limited liability partnership was carrying on business with fewer than 2 partners for a period of more than 2 years.
 
+[Companies 1994 Ed., s. 145 (10)]
+
 ### Manager
 
 23\.—(1) Every limited liability partnership shall ensure that it has at least one manager who is a natural person of full age and capacity and who is ordinarily resident in Singapore.
@@ -561,6 +575,8 @@ MANAGEMENT AND ADMINISTRATION
 (4) If a limited liability partnership contravenes subsection (1), the limited liability partnership and every partner of the limited liability partnership shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
 (5) Any limited liability partnership which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., ss. 145 (1), 370 (2) (b) and (c)]
 
 ### Annual declaration of solvency or insolvency
 
@@ -598,6 +614,8 @@ MANAGEMENT AND ADMINISTRATION
 
 (b) in any other case, to a fine not exceeding $15,000.
 
+[Companies 1994 Ed., ss. 293 (4), 204 (3)]
+
 ### Accounts
 
 25\.—(1) Every limited liability partnership shall keep such accounting and other records as will sufficiently explain the transactions and financial position of the limited liability partnership and enable profit and loss accounts and balance-sheets to be prepared from time to time which give a true and fair view of the state of affairs of the limited liability partnership.
@@ -620,6 +638,8 @@ MANAGEMENT AND ADMINISTRATION
 
 (b) in any other case, to a fine not exceeding $10,000.
 
+[Companies 1994 Ed., s. 199 (1) to (3)]
+
 ### Registered office
 
 26\.—(1) Every limited liability partnership shall have a registered office within Singapore to which all communications and notices may be addressed.
@@ -627,6 +647,8 @@ MANAGEMENT AND ADMINISTRATION
 (2) A document may be served on a limited liability partnership by leaving it at or sending it by registered post to the registered office of the limited liability partnership.
 
 (3) A limited liability partnership may change the address of its registered office by lodging with the Registrar notice of such change in such medium and form as the Registrar may determine, and any such change shall take effect only upon such lodgment.
+
+[Companies 1994 Ed., ss. 142, 387]
 
 ### Publication of name and limited liability
 
@@ -637,6 +659,8 @@ MANAGEMENT AND ADMINISTRATION
 (b) a statement that it is registered with limited liability.
 
 (2) Any limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., s. 144; LPA 2001 Ed., s. 81C]
 
 ### Registration of changes in particulars
 
@@ -652,6 +676,8 @@ MANAGEMENT AND ADMINISTRATION
 
 (6) Any limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
+[BR Act 2004 Ed., s. 14; Companies 1994 Ed., s. 173 (6A)]
+
 ## PART VI
 
 RECEIVERSHIP AND WINDING UP
@@ -665,6 +691,8 @@ RECEIVERSHIP AND WINDING UP
 30\.—(1) The winding up of a limited liability partnership may be either voluntary or by the High Court and, unless inconsistent with the context, the provisions of the Fifth Schedule shall apply to the winding up of a limited liability partnership in either of these modes.
 
 (2) The provisions of the Fifth Schedule relating to the remedies against the property of a limited liability partnership and the priorities of debts shall bind the Government.
+
+[Companies 1994 Ed., ss. 247-249]
 
 ### Amendment of Fourth and Fifth Schedules
 
@@ -682,6 +710,8 @@ RECEIVERSHIP AND WINDING UP
 
 (2) Subsection (1) shall not apply to any sum due to a partner as repayment of a loan made in good faith by him to the limited liability partnership.
 
+[Companies 1994 Ed., s. 250 (1) (g)]
+
 ## PART VII
 
 MISCELLANEOUS
@@ -693,6 +723,8 @@ MISCELLANEOUS
 (2) On an application by an undischarged bankrupt under subsection (1) to the High Court or the Official Assignee, the High Court or the Official Assignee, as the case may be, may refuse the application or approve the application subject to such conditions as the High Court or the Official Assignee may impose.
 
 (3) The leave of the High Court for the purpose of this section shall not be given unless notice of intention to apply for leave has been served on the Official Assignee and the Official Assignee is heard on the application.
+
+[BR Act 2004 Ed., s. 26; Companies 1994 Ed., s. 148]
 
 ### Disqualification of unfit managers of insolvent limited liability partnerships
 
@@ -706,7 +738,7 @@ make an order disqualifying a person specified in the order from being a manager
 
 (2) The High Court shall make a disqualification order under subsection (1) if it is satisfied that —
 
-(a) the person against whom the order is sought has been given not less than 14 days notice of the application for the order;
+(a) the person against whom the order is sought has been given not less than 14 days’ notice of the application for the order;
 
 (b) the person is or has been a manager of a limited liability partnership which has gone into liquidation (whether while he was a manager or within 3 years of his ceasing to be a manager of the limited liability partnership) and was insolvent at the date of its liquidation; and
 
@@ -743,6 +775,8 @@ as the Minister may reasonably require for the purpose of exercising or determin
 (b) a limited liability partnership shall be taken to be insolvent if it was unable to pay its debts, within the meaning of that expression in paragraph 3(2) of the Fifth Schedule; and
 
 (c) references to a person’s conduct as a manager of any limited liability partnership or director of any corporation include, where any of those entities have become insolvent, references to that person’s conduct in relation to any matter connected with or arising out of the insolvency of that entity.
+
+[42/2005]
 
 (7) In deciding whether a person’s conduct as a manager of any particular limited liability partnership makes him unfit to be a manager of a limited liability partnership as is mentioned in subsection (2)(c), the High Court shall in relation to his conduct as a manager of that limited liability partnership have regard —
 
@@ -788,11 +822,13 @@ notwithstanding that the manager has not been convicted or may not be criminally
 
 (16) Any person who contravenes a disqualification order made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[Companies 1994 Ed., s. 149]
+
 ### Disqualification of managers of limited liability partnerships wound up on grounds of national security or interest
 
 35\.—(1) Subject to subsections (2) and (3), where a limited liability partnership is ordered to be wound up by the High Court under paragraph 3(1)(f) of the Fifth Schedule on the ground that it is being used for purposes against national security or interest, the High Court may, on the application of the Minister, make an order (referred to in this section as a disqualification order) disqualifying any person who is a manager of that limited liability partnership from being a manager of any limited liability partnership for a period of 3 years from the date of the making of the winding up order.
 
-(2) The High Court shall not make a disqualification order against any person under subsection (1) unless the High Court is satisfied that the person against whom the order is sought has been given not less than 14 days notice of the Minister’s application for the order.
+(2) The High Court shall not make a disqualification order against any person under subsection (1) unless the High Court is satisfied that the person against whom the order is sought has been given not less than 14 days’ notice of the Minister’s application for the order.
 
 (3) The High Court shall not make a disqualification order against any person under subsection (1) if such person proves to the satisfaction of the High Court that —
 
@@ -822,13 +858,15 @@ the court may make a disqualification order in addition to any other sentence im
 
 (b) has been sentenced to imprisonment, the disqualifications in subsection (3) shall take effect upon conviction and shall continue for a period of 5 years after his release from prison.
 
-(5) An application for leave to act as a manager of a limited liability partnership may be made by a person against whom a disqualification order has been made upon that person giving the Minister not less than 14 days notice of his intention to apply for such leave.
+(5) An application for leave to act as a manager of a limited liability partnership may be made by a person against whom a disqualification order has been made upon that person giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
 
 (6) On the hearing of any application under this section, the Minister may be represented at the hearing and may oppose the granting of the application.
 
 (7) A person who contravenes a disqualification order under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (8) Without prejudice to section 53, a District Court may make a disqualification order under this section.
+
+[Companies 1994 Ed., s. 154]
 
 ### Disqualification under Companies Act
 
@@ -876,9 +914,13 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 (b) the remedies against the property of a limited liability partnership and the priorities of debts shall bind the Government.
 
+[Companies 1994 Ed., s. 344]
+
 ### False representation as to registration as limited liability partnership
 
 39\. If any person knowingly holds out that a business is registered as a limited liability partnership under this Act, the person shall, where he knows or ought to have known that at the material time the business was not registered as a limited liability partnership under this Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Companies 1994 Ed., s. 405]
 
 ### Rectification of register
 
@@ -890,6 +932,8 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 (4) The Registrar may, upon receipt of any notification referred to in subsection (3), rectify the register accordingly.
 
+[Companies 1994 Ed., s. 12B]
+
 ### Information service — exclusion of liability of errors or omissions
 
 41\. Where the Registry of Limited Liability Partnerships furnishes, in any form, information relating to a limited liability partnership registered under this Act to any person, the Authority, any of its members, officers or employees and any authorised agent of the Registry who is involved in the supply of such information shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or however caused, if the error or omission —
@@ -897,6 +941,8 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 (a) is made in good faith and in the ordinary course of the discharge of the duties of such member, officer, employee or authorised agent; or
 
 (b) has occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+
+[BR Act 2004 Ed., s. 19]
 
 ### Electronic filing service
 
@@ -916,6 +962,8 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 (6) Subsections (4) and (5) shall have effect notwithstanding the provisions of any other written law.
 
+[BR Act 2004 Ed., s. 20]
+
 ### Inspection
 
 43\.—(1) The Registrar may authorise in writing any officer or employee of the Authority or any public officer to be an inspector for the purposes of this Act.
@@ -927,6 +975,8 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 (4) Any person who fails to comply with a request made by the Registrar or an inspector or resists or obstructs the Registrar or an inspector in the performance of his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (5) It shall not be an offence for any person to refuse to comply with any request made by the Registrar or an inspector, or to resist or obstruct the Registrar or an inspector in the performance of any of his duties under this Act, if the Registrar or inspector fails to declare his office and to produce his authority in writing.
+
+[BR Act 2004 Ed., s. 23]
 
 ### Power of Registrar to obtain further information
 
@@ -940,9 +990,13 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 (3) Any person who, without lawful excuse, fails to comply with any summons or requisition of the Registrar under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Penalty for providing false information to the Registrar
+[BR Act 2004 Ed., ss. 24, 27 (c)]
+
+### Penalty for providing false information to Registrar
 
 45\. Any person who makes any statement or furnishes any information to the Registrar under the provisions of this Act which is false in any material particular or by reason of the omission of any material particular and which he either knows or has reason to believe is false, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[BR Act 2004 Ed., s. 27 (d)]
 
 ### Composition of offences
 
@@ -956,9 +1010,13 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 
 47\. All officers and inspectors appointed under this Act shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
+[BR Act 2004 Ed., s. 30]
+
 ### Destruction of old records
 
 48\. The Registrar may destroy or give to the National Archives of Singapore any document lodged, filed or registered with the Registrar and which has been microfilmed or converted to electronic form if in his opinion it is no longer necessary or desirable to retain the document.
+
+[BR Act 2004 Ed., s. 31]
 
 ### Enforcement of duty to make returns
 
@@ -973,6 +1031,8 @@ and fails to make good the default within 14 days after the service on the perso
 (2) Any such order may provide that all the costs of and incidental to the application shall be borne by that person or by any officer of the corporation who is responsible for the default if that person is a corporation.
 
 (3) Nothing in this section shall limit the operation of any other provision of this Act or any written law imposing penalties (in respect of any default referred to in this section) on that person or an officer of a corporation if that person is a corporation.
+
+[BR Act 2004 Ed., s. 32]
 
 ### Offences by limited liability partnerships
 
@@ -1029,6 +1089,8 @@ the officer or member (as the case may be), as well as the unincorporated associ
 52\.—(1) The Registrar, any public officer or any member, officer or employee of the Authority shall not be under any liability in respect of any error or inaccuracy in a register or in respect of any error or inaccuracy (whether in the copying or otherwise) in any certificate, certified extract, copy or other document made or issued under this Act and no court shall entertain any suit or other proceedings or damages in respect of any such matter.
 
 (2) Notwithstanding anything to the contrary in any written law, the Authority shall not be under any liability or be liable to be sued in respect of any of the matters referred to in subsection (1).
+
+[BR Act 2004 Ed., s. 34]
 
 ### Jurisdiction of District Court
 
@@ -1094,6 +1156,8 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (d) generally with respect to the winding up of limited liability partnerships.
 
+[Companies 1994 Ed., s. 410]
+
 ### Criminal liability of partners and managers of limited liability partnerships under other written laws
 
 58\.—(1) A culpable officer provision shall apply, with the necessary modifications, to a limited liability partnership as if the reference in that provision to a director (or a person purporting to act as a director) were a reference to a partner or manager (or a person purporting to act as a partner or manager, as the case may be) of the limited liability partnership.
@@ -1116,13 +1180,11 @@ not less than 10 clear days before the commencement of the proceedings.
 
 ### Consequential and related amendments to other written laws
 
-60\.—(1) The provisions of the Acts specified in the first column of the Sixth Schedule are amended in the manner set out in the second column thereof.
+60\.—(1) The Minister may, by order published in theGazette, repeal or amend any written law in force on 11th April 2005 which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
-(2) The Minister may, by order published in theGazette, repeal or amend any written law in force at the date of commencement of this Act which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+(2) An order under subsection (1) —
 
-(3) An order under subsection (2) —
-
-(a) may be made at any time within the period of 2 years after the commencement of this section; and
+(a) may be made at any time within the period of 2 years after 11th April 2005; and
 
 (b) shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1134,7 +1196,12 @@ FIRST SCHEDULE
 
 Section 10
 
-Default Provisions for Limited Liability Partnerships
+Default Provisions for
+
+
+
+
+Limited Liability Partnerships
 
 1\. The mutual rights and duties of the partners and the mutual rights and duties of the limited liability partnership and the partners shall be determined, subject to the terms of any limited liability partnership agreement, by the provisions in this Schedule.
 
@@ -1160,13 +1227,20 @@ Default Provisions for Limited Liability Partnerships
 
 10\. Every partner must account to the limited liability partnership for any benefit derived by him without the consent of the limited liability partnership from any transaction concerning the limited liability partnership, or from any use by him of the property, name or any business connection of the limited liability partnership.
 
-11\. No majority of the partners can expel any partner unless a power to do so has been conferred by express agreement between the partners.
+11. No majority of the partners can expel any partner unless a power to do so has been conferred by express agreement between the partners.
+
+[UK LLP Reg. 2001, regs. 7, 8]
 
 SECOND SCHEDULE
 
 Section 20
 
-Conversion from Firm to Limited Liability Partnership
+Conversion from Firm to
+
+
+
+
+Limited Liability Partnership
 
 Interpretation
 
@@ -1266,7 +1340,12 @@ THIRD SCHEDULE
 
 Section 21
 
-Conversion from Private Company to Limited Liability Partnership
+Conversion from Private Company to
+
+
+
+
+Limited Liability Partnership
 
 Interpretation
 
@@ -1288,11 +1367,11 @@ Statements to be lodged
 
 3. A company may apply to convert to a limited liability partnership by lodging with the Registrar —
 
-(a) a statement by all its shareholders in such medium and form as the Registrar may determine containing the following particulars:
+(a) a statement by all of its shareholders in such medium and form as the Registrar may determine containing the following particulars:
 
 (i) the name and registration number of the company; and
 
-(ii) the date on which the company was incorporated under the Companies Act (Cap. 50); and
+(ii) the date on which the company was incorporated under the Companies Act; and
 
 (b) a statement referred to in section 15(1).
 
@@ -1304,7 +1383,7 @@ Registrar may refuse to register
 
 5.—(1) Nothing in this Schedule shall be construed to require the Registrar to register any limited liability partnership if he is not satisfied with the particulars or other information furnished under the provisions of this Act.
 
-(2) The Registrar may, in any particular case, require the statement referred to in paragraph 3 to be verified in such manner as the Registrar considers fit.
+(2) The Registrar may, in any particular case, require the statements referred to in paragraph 3 to be verified in such manner as the Registrar considers fit.
 
 Effect of registration
 
@@ -1314,7 +1393,7 @@ Effect of registration
 
 (b) all movable and immovable property vested in the company, all assets, interests, rights, privileges, liabilities, obligations relating to the company and the whole of the undertaking of the company shall be transferred to and shall vest in the limited liability partnership without further assurance, act or deed; and
 
-(c) the company shall be deemed to be dissolved and removed from the register of companies under the Companies Act (Cap.50).
+(c) the company shall be deemed to be dissolved and removed from the register of companies under the Companies Act (Cap. 50).
 
 Registration in relation to property
 
@@ -1338,7 +1417,7 @@ Existing agreements
 
 Existing contracts, etc.
 
-11\. All deeds, contracts, schemes, bonds, agreements, applications, instruments and arrangements subsisting immediately before the date of registration relating to the company or to which the company is a party shall continue in force on and after that date as if they relate to the limited liability partnership and shall be enforceable by or against the limited liability partnership as if the limited liability partnership were named therein or were a party thereto instead of the company.
+11\. All deeds, contracts, schemes, bonds, agreements, applications, instruments and arrangements subsisting immediately before the date of registration relating to the company or to which the company is a party, shall continue in force on and after that date as if they relate to the limited liability partnership and shall be enforceable by or against the limited liability partnership as if the limited liability partnership were named therein or were a party thereto instead of the company.
 
 Continuance of employment
 
@@ -1376,7 +1455,7 @@ Interpretation
 
 “Court” means the High Court;
 
-“public accountant” has the same meaning as in section 2 of the Accountants Act 2004 (Act 4 of 2004).
+“public accountant” has the same meaning as in section 2 of the Accountants Act (Cap. 2).
 
 Disqualification for appointment as receiver
 
@@ -1402,7 +1481,7 @@ Liability of receiver
 
 (4) Where a receiver or manager has been appointed to enforce any charge for the benefit of holders of debentures of the limited liability partnership, any such debenture holder may apply to the Court for directions in relation to any matter arising in connection with the performance of the functions of the receiver or manager.
 
-Power of Court to fix remuneration of receivers or managers
+Power of Court to fix remuneration of receiver or manager
 
 4.—(1) The Court may, on application by the liquidator of a limited liability partnership, by order fix the amount to be paid by way of remuneration to any person who, under the powers contained in any instrument, has been appointed as receiver or manager of the property of the limited liability partnership.
 
@@ -1422,7 +1501,7 @@ Appointment of liquidator as receiver
 
 5\. Where an application is made to the Court to appoint a receiver on behalf of the debenture holders or other creditors of a limited liability partnership which is being wound up by the Court, the liquidator may be so appointed.
 
-Notification of appointment of receiver
+Notification of appointment of receiver or manager
 
 6.—(1) If any person obtains an order for the appointment of a receiver or manager of the property of a limited liability partnership or appoints such a receiver or manager under any powers contained in any instrument, he shall within 7 days after he has obtained the order or made the appointment lodge notice of the fact with the Registrar.
 
@@ -1430,7 +1509,7 @@ Notification of appointment of receiver
 
 (3) Every person who fails to comply with the requirements of this paragraph shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
-Statement that receiver appointed
+Statement that receiver or manager appointed
 
 7.—(1) Where a receiver or manager of the property of a limited liability partnership has been appointed, every invoice, order for goods or business letter issued by or on behalf of the limited liability partnership or the receiver or manager or the liquidator of the limited liability partnership, being a document on or in which the name of the limited liability partnership appears, shall contain a statement immediately following the name of the limited liability partnership that a receiver or manager has been appointed.
 
@@ -1510,7 +1589,7 @@ Payments of certain debts out of assets subject to floating charge in priority t
 
 (2) In sub-paragraph (1), “floating charge” means a charge which, as created, was a floating charge.
 
-(3) For the purposes of sub-paragraph (1), the references in paragraph 76(1)(b), (c), (d) and (e) of the Fifth Schedule to the commencement of the winding up shall be read as a reference to the date of the appointment of the receiver or of possession being taken as aforesaid, as the case requires.
+(3) For the purposes of sub-paragraph (1), the references in paragraph 76(1)(c), (d), (e), (f) and (g) of the Fifth Schedule to the commencement of the winding up shall be read as a reference to the date of the appointment of the receiver or of possession being taken as aforesaid, as the case requires.
 
 (4) Any payments made under this paragraph shall be recouped as far as may be out of the assets of the limited liability partnership available for payment of general creditors.
 
@@ -1521,6 +1600,8 @@ Enforcement of duty of receiver, etc., to make returns
 (2) If it appears that any receiver or manager of the property of a limited liability partnership has misapplied or retained or become liable or accountable for any money or property of the limited liability partnership or been guilty of any misfeasance or breach of trust or duty in relation to the limited liability partnership, the Court may on the application of any creditor or partner or of the liquidator examine into the conduct of such receiver or manager and compel him to repay or restore the money or property or any part thereof with interest at such rate as the Court thinks just or to contribute such sum to the assets of the limited liability partnership by way of compensation in respect of the misapplication, retainer, misfeasance or breach of trust or duty as the Court thinks just.
 
 (3) This paragraph shall have effect notwithstanding that the offence is one for which the offender is criminally liable.
+
+[Companies 1994 Ed., ss. 217-227]
 
 FIFTH SCHEDULE
 
@@ -1542,13 +1623,17 @@ Interpretation
 
 “Court” means the High Court;
 
-“public accountant” has the same meaning as in section 2 of the Accountants Act 2004 (Act 4 of 2004).
+“public accountant” has the same meaning as in section 2 of the Accountants Act (Cap. 2).
 
 Part II
 
 Winding Up by Court
 
-DIVISION 1 — General
+Division 1
+
+—
+
+General
 
 Application for winding up by Court
 
@@ -1562,15 +1647,17 @@ Application for winding up by Court
 
 (d) of the liquidator; or
 
-(e) of the Minister on the ground specified in paragraph 3(1)(b), (f) or (g),
+(e) of the Minister on the ground specified in paragraph 3(1)(b), (f) or (g), or of any 2 or more of those parties.
 
-or of any 2 or more of those parties.
+[42/2005]
 
 (2) Notwithstanding anything in sub-paragraph (1) —
 
 (a) the Court shall not hear the application if made by a contingent or prospective creditor until such security for costs has been given as the Court thinks reasonable and a prima facie case for winding up has been established to the satisfaction of the Court; and
 
 (b) the Court shall not, where a limited liability partnership is being wound up voluntarily, make a winding up order unless it is satisfied that the voluntary winding up cannot be continued with due regard to the interests of the creditors or partners.
+
+[42/2005]
 
 Circumstances in which limited liability partnership may be wound up by Court
 
@@ -1608,27 +1695,43 @@ Circumstances in which limited liability partnership may be wound up by Court
 
 (b) such other interim orders as the Court thinks fit.
 
+[42/2005]
+
 (5) Any person who fails to comply with an order made by the Court under sub-paragraph (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 Commencement of winding up
 
 4.—(1) Where before the filing of the application a resolution has been passed by the partners for the voluntary winding up of the limited liability partnership, the winding up of the limited liability partnership shall be deemed to have commenced at the time of the passing of the resolution, and, unless the Court on proof of fraud or mistake thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
 
+[42/2005]
+
 (2) In any other case the winding up shall be deemed to have commenced at the time of the filing of the application for the winding up.
+
+[42/2005]
 
 Payment of preliminary costs, etc.
 
 5.—(1) The persons, other than the limited liability partnership itself or the liquidator thereof, on whose application any winding up order is made, shall at their own cost prosecute all proceedings in the winding up until a liquidator has been appointed under this Schedule.
 
+[42/2005]
+
 (2) The liquidator shall, unless the Court orders otherwise, reimburse the applicant out of the assets of the limited liability partnership the taxed costs incurred by the applicant in any such proceedings.
+
+[42/2005]
 
 (3) Where the limited liability partnership has no assets or has insufficient assets, and in the opinion of the Minister any fraud has been committed by any person in the formation of the limited liability partnership or by any officer of the limited liability partnership in relation to the limited liability partnership since the registration thereof, the taxed costs or so much of them as is not so reimbursed may, with the approval in writing of the Minister, to an extent specified by the Minister but not in any case exceeding $3,000, be reimbursed to the applicant out of moneys provided by Parliament for the purpose.
 
+[42/2005]
+
 (4) Where any winding up order is made upon the application of the limited liability partnership or the liquidator thereof, the costs incurred shall, subject to any order of the Court, be paid out of assets of the limited liability partnership in like manner as if they were the costs of any other applicant.
+
+[42/2005]
 
 Powers of Court on hearing winding up application
 
 6.—(1) On hearing a winding up application, the Court may dismiss it with or without costs or adjourn the hearing conditionally or unconditionally or make any interim or other order that it thinks fit, but the Court shall not refuse to make a winding up order on the ground only that the assets of the limited liability partnership have been mortgaged to an amount equal to or in excess of those assets or that the limited liability partnership has no assets or in the case of a winding up application by a partner that there will be no assets available for distribution amongst the partners.
+
+[42/2005]
 
 (2) The Court may on the winding up application coming on for hearing or at any time on the application of the person making the winding up application, the limited liability partnership, or any person who has given notice that he intends to appear on the hearing of the winding up application —
 
@@ -1644,9 +1747,13 @@ Powers of Court on hearing winding up application
 
 (f) give such directions as to the proceedings as the Court thinks fit.
 
+[42/2005]
+
 Power to stay or restrain proceedings against limited liability partnership
 
-7\. At any time after the filing of a winding up application and before a winding up order has been made, the limited liability partnership or any creditor or partner may, where any action or proceeding against the limited liability partnership is pending, apply to the Court to stay or restrain further proceedings in the action or proceeding, and the Court may stay or restrain the proceedings accordingly on such terms as it thinks fit.
+7. At any time after the filing of a winding up application and before a winding up order has been made, the limited liability partnership or any creditor or partner may, where any action or proceeding against the limited liability partnership is pending, apply to the Court to stay or restrain further proceedings in the action or proceeding, and the Court may stay or restrain the proceedings accordingly on such terms as it thinks fit.
+
+[42/2005]
 
 Avoidance of dispositions of property and certain attachments, etc., and winding up application to be lis pendens etc.
 
@@ -1654,7 +1761,9 @@ Avoidance of dispositions of property and certain attachments, etc., and winding
 
 (2) Any attachment, sequestration, distress or execution put in force against the estate or effects of the limited liability partnership after the commencement of the winding up by the Court shall be void.
 
-(3) Any application for winding up a limited liability partnership shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
+(3) Any application for winding up a limited liability partnership shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens pon purchasers or mortgagees.
+
+[42/2005]
 
 Winding up order
 
@@ -1664,6 +1773,8 @@ Winding up order
 
 (b) the name and address of the liquidator.
 
+[42/2005]
+
 (2) On the passing and entering of the winding up order, the applicant shall within 7 days —
 
 (a) lodge an office copy of the order with the Official Receiver and a copy of the order with the Registrar;
@@ -1671,6 +1782,8 @@ Winding up order
 (b) cause a copy to be served upon any manager of the limited liability partnership or upon such other person or in such manner as the Court directs; and
 
 (c) deliver a copy to the liquidator with a statement that the requirements of this sub-paragraph have been complied with.
+
+[42/2005]
 
 (3) When a winding up order has been made or a provisional liquidator has been appointed, no action or proceeding shall be proceeded with or commenced against the limited liability partnership except —
 
@@ -1680,7 +1793,11 @@ Winding up order
 
 (4) Subject to paragraph 70, an order for winding up a limited liability partnership shall operate in favour of all the creditors and partners of the limited liability partnership as if made on the joint application of a creditor and of a partner.
 
+[42/2005]
+
 (5) Any applicant which contravenes sub-paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[42/2005]
 
 Division 2
 
@@ -1714,7 +1831,7 @@ Disqualification of liquidators
 
 (a) to a partners’ voluntary winding up; or
 
-(b) to a creditors’ voluntary winding up, if by a resolution carried by a majority of the creditors in number and value present in person or by proxy and voting at a meeting of which 7 days notice has been given to every creditor stating the object of the meeting, it is determined that that sub-paragraph shall not so apply.
+(b) to a creditors’ voluntary winding up, if by a resolution carried by a majority of the creditors in number and value present in person or by proxy and voting at a meeting of which 7 days’ notice has been given to every creditor stating the object of the meeting, it is determined that the sub-paragraph shall not so apply.
 
 (3) A person shall not be appointed as liquidator of a limited liability partnership unless he has prior to such appointment consented in writing to act as such liquidator.
 
@@ -1762,7 +1879,9 @@ Control of Official Receiver by Minister
 
 Provisional liquidator
 
-15\. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the filing of a winding up application and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
+15. The Court may appoint the Official Receiver or an approved liquidator provisionally at any time after the filing of a winding up application and before the making of a winding up order and the provisional liquidator shall have and may exercise all the functions and powers of a liquidator, subject to such limitations and restrictions as may be prescribed by the Rules or as the Court may specify in the order appointing him.
+
+[42/2005]
 
 General provisions as to liquidators
 
@@ -1844,7 +1963,7 @@ Report by liquidator
 
 (c) whether, in his opinion, further inquiry is desirable as to any matter relating to the formation or failure of the limited liability partnership or the conduct of the business thereof.
 
-(2) The liquidator may also, if he thinks fit, make further reports to the Court or if the liquidator is not the Official Receiver, to the Official Receiver stating the manner in which the limited liability partnership was formed and whether in his opinion any fraud has been committed or any material fact has been concealed by any person in its formation or by any officer in relation to the limited liability partnership since its formation, and whether any officer of the limited liability partnership has contravened any of the provisions of this Act, and specifying any other matter which in his opinion it is desirable to bring to the notice of the Court.
+(2) The liquidator may also, if he thinks fit, make further reports to the Court or if the liquidator is not the Official Receiver, to the Official Receiver stating the manner in which the limited liability partnership was formed and whether in his opinion any fraud has been committed or any material fact has been concealed by any person in its formation or by any officer in relation to the limited liability partnership since its formation, and whether any officer of the limited liability partnership has contravened any of the provisions of this Act, and specifying any ther matter which in his opinion it is desirable to bring to the notice of the Court.
 
 Powers of liquidator
 
@@ -1852,7 +1971,7 @@ Powers of liquidator
 
 (a) carry on the business of the limited liability partnership so far as is necessary for the beneficial winding up thereof, but the authority shall not be necessary to so carry on the business during the 4 weeks next after the date of the winding up order;
 
-(b) subject to paragraph 76 pay any class of creditors in full;
+(b) subject to paragraph 76, pay any class of creditors in full;
 
 (c) make any compromise or arrangement with creditors or persons claiming to be creditors or having or alleging themselves to have any claim present or future, certain or contingent, ascertained or sounding only in damages against the limited liability partnership, or whereby the limited liability partnership may be rendered liable;
 
@@ -1914,7 +2033,9 @@ Release of liquidators and dissolution of limited liability partnership
 
 (a) has realised all the property of the limited liability partnership or so much thereof as can in his opinion be realised, without needlessly protracting the liquidation, and has distributed a final dividend, if any, to the creditors and adjusted the rights of the partners among themselves and made a final return, if any, to the partners; or
 
-(b) has resigned or has been removed from his office, he may apply to the Court —
+(b) has resigned or has been removed from his office,
+
+he may apply to the Court —
 
 (i) for an order that he be released; or
 
@@ -1936,7 +2057,7 @@ As to orders for release or dissolution
 
 (4) An order of the Court releasing the liquidator shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the limited liability partnership or otherwise in relation to his conduct as liquidator, but any such order may be revoked on proof that it was obtained by fraud or by suppression or concealment of any material fact.
 
-(5) Where the liquidator has not previously resigned or been removed his release shall operate as a removal from office.
+(5) Where the liquidator has not previously resigned or been removed, his release shall operate as a removal from office.
 
 (6) Where the Court has made —
 
@@ -1944,7 +2065,7 @@ As to orders for release or dissolution
 
 (b) an order that the liquidator be released and that the limited liability partnership be dissolved,
 
-a copy of the order and an office copy of the order shall, within 14 days after the making thereof, be lodged by the liquidator with the Registrar and with the Official Receiver, respectively and a liquidator who contravenes this sub-paragraph shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence , to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+a copy of the order and an office copy of the order shall, within 14 days after the making thereof, be lodged by the liquidator with the Registrar and with the Official Receiver, respectively and a liquidator who contravenes this sub-paragraph shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
 Division 3
 
@@ -1974,7 +2095,7 @@ appointed by the meetings of creditors and partners in such proportions as are a
 
 (7) If a member of the committee becomes bankrupt or assigns his estate for the benefit of his creditors or makes an arrangement with his creditors pursuant to any written law relating to bankruptcy or is absent from 5 consecutive meetings of the committee without the leave of those members who together with himself represent the creditors or partners, as the case may be, his office shall thereupon become vacant.
 
-(8) A member of the committee may be removed by an ordinary resolution at a meeting of creditors, if he represents creditors, or of partners, if he represents partners, of which meeting 7 days notice has been given stating the object of the meeting.
+(8) A member of the committee may be removed by an ordinary resolution at a meeting of creditors, if he represents creditors, or of partners, if he represents partners, of which meeting 7 days’ notice has been given stating the object of the meeting.
 
 (9) A vacancy in the committee may be filled by the appointment by the committee of the same or another creditor or partner or person holding a general power of attorney or special authority as specified in sub-paragraph (3).
 
@@ -2162,7 +2283,7 @@ made up to the latest practicable date before the making of the declaration.
 
 (3) A declaration so made shall have no effect for the purposes of this Act unless it is —
 
-(a) made within 5 weeks immediately preceding the passing of the resolution for voluntary winding up ; and
+(a) made within 5 weeks immediately preceding the passing of the resolution for voluntary winding up; and
 
 (b) lodged with the Registrar at the same time when the resolution for winding up is lodged.
 
@@ -2174,7 +2295,12 @@ Division 2
 
 —
 
-Provisions applicable only to partners’ voluntary winding up
+Provisions applicable only
+
+
+
+
+to partners’ voluntary winding up
 
 Liquidator
 
@@ -2202,7 +2328,12 @@ Division 3
 
 —
 
-Provisions applicable only to creditors’ voluntary winding up
+Provisions applicable only
+
+
+
+
+to creditors’ voluntary winding up
 
 Meeting of creditors
 
@@ -2210,7 +2341,7 @@ Meeting of creditors
 
 (2) The limited liability partnership shall convene the meeting at a time and place convenient to the majority in value of the creditors and shall —
 
-(a) give to the creditors at least 7 clear days notice by post of the meeting; and
+(a) give to the creditors at least 7 clear days’ notice by post of the meeting; and
 
 (b) send to each creditor with the notice, a statement showing the names of all creditors and the amounts of their claims.
 
@@ -2236,7 +2367,7 @@ Meeting of creditors
 
 Liquidators
 
-44.—(1) The limited liability partnership shall, and the creditors may at their respective meetings, nominate a person to be liquidator for the purpose of winding up the affairs and distributing the assets of the limited liability partnership, and if the creditors and the limited liability partnership nominate different persons the person nominated by the creditors shall be liquidator, and if no person is nominated by the creditors the person nominated by the limited liability partnership shall be liquidator.
+44.—(1) The limited liability partnership shall, and the creditors may at their respective meetings, nominate a person to be liquidator for the purpose of winding up the affairs and distributing the assets of the limited liability partnership, and ifthe creditors and the limited liability partnership nominate different persons the person nominated by the creditors shall be liquidator, and if no person is nominated by the creditors the person nominated by the limited liability partnership shall be liquidator.
 
 (2) Notwithstanding sub-paragraph (1), where different persons are nominated, any manager, partner or creditor may, within 7 days after the date on which the nomination was made by the creditors, apply to the Court for an order directing that the person nominated as liquidator by the limited liability partnership shall be liquidator instead of or jointly with the person nominated by the creditors.
 
@@ -2264,7 +2395,12 @@ Division 4
 
 —
 
-Provisions applicable to every voluntary winding up
+Provisions applicable to
+
+
+
+
+every voluntary winding up
 
 Distribution of property of limited liability partnership
 
@@ -2304,11 +2440,11 @@ Powers and duties of liquidator
 
 (2) The liquidator shall pay the debts of the limited liability partnership and adjust the rights of the partners among themselves.
 
-(3) When several liquidators are appointed, any power given by this Act may be exercised by such one or more of them as is determined at the time of their appointment, or in default of such determination by any number not less than two.
+(3) When several liquidators are appointed, any power given by this Act may be exercised by such one or more of them as is determined at the time of their appointment, or in default of such determination by any number not less than 2.
 
 Power of liquidator to accept shares, etc., as consideration for sale of property of limited liability partnership
 
-53.—(1) Where it is proposed that the whole or part of the business or property of a limited liability partnership (referred to in this paragraph as the limited liability partnership) be transferred or sold to another corporation (referred to in this paragraph as the corporation), the liquidator of the limited liability partnership may, with the sanction of a resolution of the partners conferring either a general authority on the liquidator or an authority in respect of any particular arrangement, receive in compensation or part compensation for the transfer or sale shares, debentures, policies or other like interests in the corporation for distribution among the partners of the limited liability partnership, or may enter into any other arrangement whereby the partners of the limited liability partnership may, in lieu of receiving cash, shares, debentures, policies or other like interests or in addition thereto, participate in the profits of or receive any other benefit from the corporation and any such transfer, sale or arrangement shall be binding on the partners of the limited liability partnership.
+53.—(1) Where it is proposed that the whole or part of the business or property of a limited liability partnership (referred to in this paragraph as the limited liability partnership) be transferred or sold to another corporation (referred to in this paragraph as the corporation), the liquidator of the limited liability partnership may, with the sanction of a resolution of the partners conferring either a general authority on the liquidator or an authority in respect of any particular arrangement, receive in compensation or part compensation for the transfer or sale, shares, debentures, policies or other like interests in the corporation for distribution among the partners of the limited liability partnership, or may enter into any other arrangement whereby the partners of the limited liability partnership may, in lieu of receiving cash, shares, debentures, policies or other like interests or in addition thereto, participate in the profits of or receive any other benefit from the corporation and any such transfer, sale or arrangement shall be binding on the partners of the limited liability partnership.
 
 (2) If any partner of the limited liability partnership expresses his dissent therefrom in writing addressed to the liquidator and left at the registered office of the liquidator within 7 days after the passing of the resolution, he may require the liquidator either to abstain from carrying the resolution into effect or to purchase his interest at a price to be determined by agreement or by arbitration in the manner provided by this paragraph.
 
@@ -2348,7 +2484,7 @@ Final meeting and dissolution
 
 Arrangement when binding on creditors
 
-56.—(1) Any arrangement entered into between a limited liability partnership about to be or in the course of being wound up and its creditors shall, subject to the right of appeal under this paragraph, be binding on the limited liability partnership if sanctioned by a resolution passed by the partners, and on the creditors if acceded to by 75% in value and 50% in number of the creditors, every creditor for under $50 being reckoned in value only.
+56.—(1) Any arrangement entered into between a limited liability partnership about to be or in the course of being wound up and its creditors shall, subject to the right of appeal under this paragraph, be binding on the limited liability partnership f sanctioned by a resolution passed by the partners, and on the creditors if acceded to by 75% in value and 50% in number of the creditors, every creditor for under $50 being reckoned in value only.
 
 (2) A creditor shall be accounted a creditor for value for such sum as upon an account fairly stated, after allowing the value of security or liens held by him and the amount of any debt or set-off owing by him to the debtor, appears to be the balance due to him.
 
@@ -2376,7 +2512,12 @@ Limitation on right to wind up voluntarily
 
 Part IV
 
-Provisions applicable to every mode of winding up
+Provisions Applicable to
+
+
+
+
+Every Mode of Winding Up
 
 Division 1
 
@@ -2454,7 +2595,7 @@ Books of limited liability partnership
 
 (2) When a limited liability partnership has been wound up the liquidator shall retain the books and papers referred to in sub-paragraph (1) for a period of 2 years from the date of dissolution of the limited liability partnership and at the expiration of that period may destroy them.
 
-(3) Notwithstanding sub-paragraph (2), when a limited liability partnership has been wound up the books and papers referred to in sub-paragraph (1) may be destroyed within a period of 2 years after the dissolution of the limited liability partnership —
+(3) Notwithstanding sub-paragraph (2), when a limited liability partnership has been wound up, the books and papers referred to in sub-paragraph (1) may be destroyed within a period of 2 years after the dissolution of the limited liability partnership —
 
 (a) in the case of a winding up by the Court, in accordance with the directions of the Court;
 
@@ -2524,7 +2665,7 @@ Special commission for receiving evidence
 
 74.—(1) District Judges shall be commissioners for the purpose of taking evidence under this Schedule, and the Court may refer the whole or any part of the examination of any witnesses under this Schedule to any person hereby appointed commissioner.
 
-(2) Every commissioner shall, in addition to any powers which he might lawfully exercise as a District Judge, have in the matter so referred to him the same powers as the Court of summoning and examining witnesses of requiring the production or delivery of documents, of punishing defaults by witnesses and of allowing costs and expenses to witnesses.
+(2) Every commissioner shall, in addition to any powers which he might lawfully exercise as a District Judge, have in the matter so referred to him the same powers as the Court of summoning and examining witnesses, of requiring the production or delivery of documents, of punishing defaults by witnesses and of allowing costs and expenses to witnesses.
 
 (3) Unless otherwise ordered by the Court, the taking of evidence by commissioners shall be in open court and shall be open to the public.
 
@@ -2560,6 +2701,8 @@ Priorities
 
 (g) seventhly, the amount of all tax assessed and all goods and services tax due under any written law before the date of the commencement of the winding up or assessed at any time before the time fixed for the proving of debts has expired.
 
+[42/2005]
+
 (2) The amount payable under sub-paragraph (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by him to the limited liability partnership or $7,500, whichever is the lesser.
 
 (3) The Minister may, by order published in theGazette, amend sub-paragraph (2) by varying the amount specified in that sub-paragraph as the maximum amount payable under sub-paragraph (1)(b) and (c).
@@ -2568,9 +2711,11 @@ Priorities
 
 “employee” means a person who has entered into or works under a contract of service with an employer and includes a subcontractor of labour;
 
-“ex gratia payment” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
+“ex gratia payment” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and
 
-“retrenchment benefit” means the amount payable to an employee on the winding up of a limited liability partnership, on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
+“the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
+
+“retrenchment benefit” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
 
 “wages or salary” shall be deemed to include —
 
@@ -2586,13 +2731,13 @@ Priorities
 
 (7) So far as the assets of the limited liability partnership available for payment of general creditors are insufficient to meet any preferential debts specified in sub-paragraph (1)(a), (b), (c), (e) and (f) and any amount payable in priority by virtue of sub-paragraph (6), those debts shall have priority over the claims of the holders of debentures under any floating charge created by the limited liability partnership (which charge, as created, was a floating charge), and shall be paid accordingly out of any property comprised in or subject to that charge.
 
-(8) Where the limited liability partnership is under a contract of insurance (entered into before the commencement of the winding up) insured against liability to third parties, then if any such liability is incurred by the limited liability partnership (either before or after the commencement of the winding up) and an amount in respect of that liability is or has been received by the limited liability partnership or the liquidator from the insurer the amount shall, after deducting any expenses of or incidental to getting in such amount, be paid by the liquidator to the third party in respect of whom the liability was incurred to the extent necessary to discharge that liability or any part of that liability remaining undischarged in priority to all payments in respect of the debts referred to in sub-paragraph (1).
+(8) Where the limited liability partnership is under a contract of insurance (entered into before the commencement of the winding up) insured against liability to third parties, then if any such liability is incurred by the limited liability partnership (either before or after the commencement of the winding up) and an amount in respect of that liability is or has been received by the limited liability partnership or the liquidator from the insurer, the amount shall, after deducting any expenses of or incidental to getting in such amount, be paid by the liquidator to the third party in respect of whom the liability was incurred to the extent necessary to discharge that liability or any part of that liability remaining undischarged in priority to all payments in respect of the debts referred to in sub-paragraph (1).
 
 (9) If the liability of the insurer to the limited liability partnership is less than the liability of the limited liability partnership to the third party, nothing in sub-paragraph (8) shall limit the rights of the third party in respect of the balance.
 
 (10) Notwithstanding anything in sub-paragraph (1) —
 
-(a) sub-paragraph (1)(d) shall not apply in relation to the winding up of a limited liability partnership in any case where the limited liability partnership is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another limited liability partnership and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the limited liability partnership has entered into a contract with an insurer in respect of any liability under any law relating to workmen’s compensation; and
+(a) sub-paragraph (1)(d) shall not apply in relation to the winding up of a limited liability partnership in any case where the limited liability partnership is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another limited liability partnership and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the limited liability partnership has entered into a contract with an insurer in respect of any liability under any law relating to workmen’s compensation ; and
 
 (b) where a limited liability partnership has given security for the payment or repayment of any amount to which sub-paragraph (1)(g) relates, sub-paragraph (1)(g) shall apply only in relation to the balance of any such amount remaining due after deducting therefrom the net amount realised from such security.
 
@@ -2704,15 +2849,13 @@ Meaning of “connected with”
 
 (a) the partners of the limited liability partnership or directors of the company or the partners or directors of another entity which has control of the partnership or company, as the case may be (or any of them), are accustomed to act in accordance with his directions or instructions; or
 
-(b) he is entitled to exercise, or control the exercise of, one-third or more of the voting power at any meeting of the limited liability partnership or general meeting of the company or of another entity which has control of the partnership or company, as the case may be,
-
-and where 2 or more persons together satisfy sub-paragraph (a) or (b), they shall be taken to have control of the limited liability partnership or company.
+(b) he is entitled to exercise, or control the exercise of, one-third or more of the voting power at any meeting of the limited liability partnership or general meeting of the company or of another entity which has control of the partnership or company, as the case may be, and where 2 or more persons together satisfy sub-paragraph (a) or (b), they shall be taken to have control of the limited liability partnership or company.
 
 (12) In this paragraph, “company” includes any body corporate (whether incorporated in Singapore or elsewhere); and references to directors and other officers of a company and to voting power at any general meeting of a company shall have effect with any necessary modifications.
 
 Orders under paragraphs 77 and 78
 
-81.\. —(1) Without prejudice to the generality of paragraphs 77(2) and 78(2), an order under either of those paragraphs with respect to a transaction or preference entered into or given by a limited liability partnership which is subsequently wound up may, subject to this paragraph —
+81.—(1) Without prejudice to the generality of paragraphs 77(2) and 78(2), an order under either of those paragraphs with respect to a transaction or preference entered into or given by a limited liability partnership which is subsequently wound up may, subject to this paragraph —
 
 (a) require any property transferred as part of the transaction, or in connection with the giving of the preference, to be vested in the limited liability partnership;
 
@@ -2752,9 +2895,7 @@ Extortionate credit transactions
 
 (a) the terms of it are or were such as to require grossly exorbitant payments to be made (whether unconditionally or in certain contingencies) in respect of the provision of the credit; or
 
-(b) it is harsh and unconscionable or substantially unfair,
-
-and it shall be presumed, unless the contrary is proved, that the transaction was extortionate.
+(b) it is harsh and unconscionable or substantially unfair, and it shall be presumed, unless the contrary is proved, that the transaction was extortionate.
 
 (4) An order under this paragraph may contain one or more of the following:
 
@@ -2786,7 +2927,7 @@ Avoidance of general assignment of book debts
 
 (b) an assignment of book debts included either in a transfer of a business made in good faith and for value or in an assignment of assets for the benefit of creditors generally.
 
-(4) For the purposes of registration under the Bills of Sale Act, an assignment of book debts shall be treated as if it were a bill of sale given otherwise than by way of security for the payment of a sum of money.
+(4) For the purposes of registration under the Bills of Sale Act (Cap. 24), an assignment of book debts shall be treated as if it were a bill of sale given otherwise than by way of security for the payment of a sum of money.
 
 (5) The provisions of the Bills of Sale Act with respect to the registration of bills of sale shall apply accordingly with such necessary modifications as may be made by rules under that Act.
 
@@ -2796,9 +2937,7 @@ Right of recovery of distributions
 
 (a) when the limited liability partnership is insolvent and knew or ought to have known at the time of the distribution that the limited liability partnership was insolvent; or
 
-(b) which results in the limited liability partnership becoming insolvent and knew or ought to have known at the time of distribution that the limited liability partnership would become insolvent as a result of the distribution,
-
-shall be personally liable to the limited liability partnership for the amount or value of the distribution if it was received within a period of 3 years before the commencement of the winding up of the limited liability partnership.
+(b) which results in the limited liability partnership becoming insolvent and knew or ought to have known at the time of distribution that the limited liability partnership would become insolvent as a result of the distribution, shall be personally liable to the limited liability partnership for the amount or value of the distribution if it was received within a period of 3 years before the commencement of the winding up of the limited liability partnership.
 
 (2) For the purposes of this paragraph —
 
@@ -2824,9 +2963,7 @@ Liquidator’s right to recover in respect of certain sales to or by limited lia
 
 (c) from a corporation (other than a limited liability partnership) of which, at the time of the acquisition, a director was also a manager of the limited liability partnership; or
 
-(d) from a firm of which, at the time of the acquisition, a partner was also a manager of the limited liability partnership,
-
-the liquidator may recover from the person, limited liability partnership, corporation or firm from which the property, business or undertaking was acquired any amount by which the cash consideration for the acquisition exceeded the value of the property, business or undertaking at the time of its acquisition.
+(d) from a firm of which, at the time of the acquisition, a partner was also a manager of the limited liability partnership, the liquidator may recover from the person, limited liability partnership, corporation or firm from which the property, business or undertaking was acquired any amount by which the cash consideration for the acquisition exceeded the value of the property, business or undertaking at the time of its acquisition.
 
 (2) Where any property, business or undertaking has been sold by a limited liability partnership for a cash consideration within a period of 2 years before the commencement of the winding up of the limited liability partnership —
 
@@ -2862,7 +2999,7 @@ the liquidator of the limited liability partnership, notwithstanding that he has
 
 (3) The Court or the committee before or on granting leave to disclaim may require such notices to be given to persons interested, and impose such terms as a condition of granting leave, and make such other order in the matter as the Court or committee thinks just.
 
-(4) The liquidator shall not be entitled to disclaim if an application in writing has been made to him by any person interested in the property requiring him to decide whether he will or will not disclaim, and the liquidator has not, within a period of 28 days after the receipt of the application or such further period as is allowed by the Court or the committee, given notice to the applicant that he intends to apply to the Court or the committee for leave to disclaim, and, in the case of a contract, if the liquidator after such an application in writing does not within that period or further period disclaim the contract the liquidator shall be deemed to have adopted it.
+(4) The liquidator shall not be entitled to disclaim if an application in writing has been made to him by any person interested in the property requiring him to decide whether he will or will not disclaim, and the liquidator has not, within a period of 28 days after the receipt of the application or such further period as is allowed by the Court or the committee, given notice to the applicant that he intends to apply to the Court or the committee for leave to disclaim, and, in the case of a contract, if the liquidator after such an application in writing does not within that period or further period disclaim the contract, the liquidator shall be deemed to have adopted it.
 
 (5) The Court may, on the application of a person who is, as against the liquidator, entitled to the benefit or subject to the burden of a contract made with the limited liability partnership, make an order rescinding the contract on such terms as to payment by or to either party of damages for the non-performance of the contract, or otherwise as the Court thinks just, and any damages payable under the order to that person may be proved by him as a debt in the winding up.
 
@@ -2910,6 +3047,8 @@ Duties of bailiff as to goods taken in execution
 
 (2) Subject to sub-paragraph (3), where under an execution in respect of a judgment for a sum exceeding $100 the goods of a limited liability partnership are sold or money is paid in order to avoid sale, the bailiff shall deduct the costs of the execution from the proceeds of the sale or the money paid and retain the balance of 14 days; and if within that time notice is served on him of an application for the winding up of the limited liability partnership having been made or of a meeting having been called at which there is to be proposed a resolution for the voluntary winding up and an order is made or a resolution is passed for the winding up, the bailiff shall pay the balance to the liquidator who shall be entitled to retain it as against the execution creditor.
 
+[42/2005]
+
 (3) The rights conferred by this paragraph on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the Court thinks fit.
 
 Division 4
@@ -2950,7 +3089,7 @@ Offences by officers of limited liability partnerships in liquidation
 
 (d) makes any material omission in any statement relating to the affairs of the limited liability partnership;
 
-(e) knowing or believing that a false debt has been proved by any person fails for a period of one month to inform the liquidator thereof;
+(e) knowing or believing that a false debt has been proved by any person, fails for a period of one month to inform the liquidator thereof;
 
 (f) prevents the production of any book or paper affecting or relating to the property or affairs of the limited liability partnership;
 
@@ -2960,7 +3099,7 @@ Offences by officers of limited liability partnerships in liquidation
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
 
-(2) It shall be a good defence to a charge under sub-paragraph (1)(a), (b), (d) or sub-paragraph (1)(c)(i), (vii) or (viii) if the accused proves that he had no intent to defraud, and to a charge under sub-paragraph (1)(f) or sub-paragraph (1)(c)(iii) or (iv) if he proves that he had no intent to conceal the state of affairs of the limited liability partnership or to defeat the law.
+(2) It shall be a good defence to a charge under sub-paragraph (1)(a), (b), (d) or sub-paragraph (1)(c) (i), (vii) or (viii) if the accused proves that he had no intent to defraud, and to a charge under sub-paragraph (1)(f) or sub-paragraph (1)(c)(iii) or (iv) if he proves that he had no intent to conceal the state of affairs of the limited liability partnership or to defeat the law.
 
 (3) Where any person pawns, pledges or disposes of any property in circumstances which amount to an offence under sub-paragraph (1)(c)(viii), every person who takes in pawn or pledge or otherwise receives the property knowing it to be pawned, pledged or disposed of in those circumstances shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
 
@@ -2974,7 +3113,7 @@ Penalty for falsification of books
 
 Liability where proper accounts not kept
 
-93.—(1) If, on an investigation under this Act or where a limited liability partnership is wound up, it is shown that proper books of account were not kept by the limited liability partnership throughout the period of 2 years immediately preceding the commencement of the investigation or winding up or the period between the registration of the limited liability partnership and the commencement of the investigation or winding up (whichever is the lesser) every officer who is in default shall, unless he acted honestly and shows that, in the circumstances in which the business of the limited liability partnership was carried on, the default was excusable, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
+93.—(1) If, on an investigation under this Act or where a limited liability partnership is wound up, it is shown that proper books of account were not kept by the limited liability partnership throughout the period of 2 years immediately preceding the commencement of the investigation or winding up or the period between the registration of the limited liability partnership and the commencement of the investigation or winding up (whichever is the lesser), every officer who is in default shall, unless he acted honestly and shows that, in the circumstances in which the business of the limited liability partnership was carried on, the default was excusable, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
 
 (2) For the purposes of this paragraph, proper books of account shall be deemed not to have been kept in the case of any limited liability partnership if there have not been kept such books or accounts as are necessary to exhibit and explain the transactions and financial position of the trade or business of the limited liability partnership, including books containing entries from day to day in sufficient detail of all cash received and cash paid, and, where the trade or business has involved dealings in goods, statements of the annual stocktakings and (except in the case of goods sold by way of ordinary retail trade) of all goods sold and purchased, showing the goods and the buyers and sellers thereof in sufficient detail to enable those goods and those buyers and sellers to be identified or if such books or accounts have not been kept in such manner as to enable them to be conveniently and properly audited, whether or not the limited liability partnership has appointed an auditor.
 
@@ -3008,15 +3147,15 @@ Power of Court to assess damages against delinquent officers, etc.
 
 Prosecution of delinquent officers and partners of limited liability partnership
 
-96.—(1) If it appears to the Court, in the course of a winding up by the Court, that any past or present officer, or any partner of the limited liability partnership has been guilty of an offence in relation to the limited liability partnership for which he is criminally liable, the Court may, either on the application of any person interested in the winding up or of its own motion, direct the liquidator to prosecute the offender or to refer the matter to the Minister.
+96.—(1) If it appears to the Court, in the course of a winding up by the Court, that any past or present officer, or any partner, of the limited liability partnership has been guilty of an offence in relation to the limited liability partnership for which he is criminally liable, the Court may, either on the application of any person interested in the winding up or of its own motion, direct the liquidator to prosecute the offender or to refer the matter to the Minister.
 
-(2) If it appears to the liquidator, in the course of a voluntary winding up, that any past or present officer, or any partner, of the limited liability partnership has been guilty of any offence in relation to the limited liability partnership for which he is criminally liable, he shall immediately report the matter to the Minister and shall, in respect of information or documents in his possession or under his control which relate to the matter in question, furnish the Minister with such information and give to him such access to and facilities for inspecting and taking copies of any documents as he may require.
+(2) If it appears to the liquidator, in the course of a voluntary winding up, that any past or present officer, or any partner, of the limited liability partnership has been guilty of any offence in relation to the limited liability partnership for which he is criminally liable, he shall immediately report the matter to the Minister and shall, in respect of information or documents in his possession or under his control which relate to the matter in question, furnish the Minister with such information and give to him such access to and facilities for inspecting and taking copies of any document as he may require.
 
 (3) If it appears to the liquidator, in the course of any winding up, that the limited liability partnership which is being wound up will be unable to pay its unsecured creditors more than 50 cents in the dollar, the liquidator shall immediately report the matter in writing to the Official Receiver and shall furnish the Official Receiver with such information and give to him such access to and facilities for inspecting and taking copies of any document as the Official Receiver may require.
 
 (4) Where any report is made under sub-paragraph (2) or (3), the Minister may, if he thinks fit, investigate the matter and for the purposes of such an investigation shall have all such powers of investigating the affairs of the limited liability partnership as are provided by this Act in the case of a winding up by the Court, but if it appears to him that the case is not one in which proceedings ought to be taken by him he shall inform the liquidator accordingly, and thereupon, subject to the previous approval of the Court the liquidator may himself take proceedings against the offender.
 
-(5) If it appears to the Court in the course of a voluntary winding up that any past or present officer, or any partner, of the limited liability partnership has been guilty as aforesaid and that no report with respect to the matter has been made by the liquidator to the Minister, the Court may, on the application of any person interested in the winding up or of its own motion, direct the liquidator to make such a report, and on a report being made accordingly this paragraph shall have effect as though the report has been made in pursuance of sub-paragraph (2).
+(5) If it appears to the Court, in the course of a voluntary winding up, that any past or present officer, or any partner, of the limited liability partnership has been guilty as aforesaid and that no report with respect to the matter has been made by the liquidator to the Minister, the Court may, on the application of any person interested in the winding up or of its own motion, direct the liquidator to make such a report, and on a report being made accordingly this paragraph shall have effect as though the report has been made in pursuance of sub-paragraph (2).
 
 (6) If, where any matter is reported or referred to the Minister or the Official Receiver under this paragraph, he considers that the case is one in which a prosecution ought to be instituted, he may institute proceedings accordingly, and the liquidator and every officer and agent of the limited liability partnership past and present, other than the defendant in the proceedings, shall give the Minister or the Official Receiver all assistance in connection with the prosecution which he is reasonably able to give.
 
@@ -3046,7 +3185,7 @@ Official Receiver to act as representative of defunct limited liability partners
 
 (a) that the limited liability partnership, if still existing, would be legally or equitably bound to carry out, complete or give effect to some dealing, transaction or matter; and
 
-(b) that in order to carry out, complete or give effect thereto some purely administrative act, not discretionary, should have been done by or on behalf of the limited liability partnership, or should be done by or on behalf of the limited liability partnership, if still existing,
+(b) that in order to carry out, complete or give effect thereto, some purely administrative act, not discretionary, should have been done by or on behalf of the limited liability partnership, or should be done by or on behalf of the limited liability partnership, if still existing,
 
 the Official Receiver may, as representing the limited liability partnership or its liquidator under this paragraph, do or cause to be done any such act.
 
@@ -3058,7 +3197,7 @@ Outstanding assets of defunct limited liability partnership to vest in Official 
 
 (2) Where any claim, right or remedy of the liquidator may under this Act be made, exercised or availed of only with the approval or concurrence of the Court or some other person, the Official Receiver may for the purposes of this paragraph make, exercise or avail himself of that claim, right or remedy without such approval or concurrence.
 
-Outstanding interests in property how disposed of
+Disposal of outstanding interests in property
 
 100.—(1) Upon proof to the satisfaction of the Official Receiver that there is vested in him by operation of paragraph 99 or by operation of any corresponding previous written law any estate or interest in property, whether solely or together with any other person, of a beneficial nature and not merely held in trust, the Official Receiver may sell or otherwise dispose of or deal with such estate or interest or any part thereof as he sees fit.
 
@@ -3084,619 +3223,123 @@ Accounts and audit
 
 (2) The Auditor-General shall have all the powers in respect of such accounts as are conferred upon him by any Act relating to audit of public accounts.
 
-SIXTH SCHEDULE
+[Bankruptcy2000Ed.,ss.98-104;Companies1994Ed.,ss. 11, 253-328, 331-343,345-349;Companie(ABAP)Reg.,regs2,4, 5,6-8; Delaware RUPA,s. 15-309;UK Insolvency1986,ss.239,241,249, 435]
 
-Section 60
+## LEGISLATIVE SOURCE KEY
 
-Consequential Amendments to Other Written Laws
+Limited Liability Partnerships Act
 
-First column
+(CHAPTER 163A)
 
-Second column
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
 
-(1) Accounting and Corporate Regulatory Authority Act 2004
+California Corp Code,
 
+:
 
+California Corporation Code, Uniform Partnership Act of 1994
 
+Delaware RUPA
 
-(Act 3 of 2004)
+:
 
-(a) Section 33 (3)
+Delaware Revised Uniform Partnership Act (Delaware Code, Title 6 Chapter 15)
 
-Insert, immediately after paragraph (c), the following paragraph:
+Jersey LLP Law 1997
 
-“
+:
 
-(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005.
+Jeysey Limited Liability Partnerships (Jersey) Law 1997
 
-”.
+UK Insolvency 1986
 
-(b) Second Schedule
+:
 
-Insert, immediately after item 4, the following item:
+UK Insolvency Act 1986 (Chapter 45)
 
-“
+UK LLP 2000
 
-5. Limited Liability Partnerships Act 2005.
+:
 
-”.
+UK Limited Liability Partnerships Act 2000 (Chapter 12)
 
-(2) Banking Act (Chapter 19, 2003 Ed.)
+UK LLP Reg. 2001
 
-(a) Section 2 (1)
+:
 
-Insert, immediately after the definition of “licence”, the following definition:
+UK Limited Liability Partnerships Regulations 2001 (SI 1090/2001)
 
-“
+Bankruptcy 2000 Ed.
 
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+:
 
-”.
+Singapore Bankruptcy Act (Chapter 20, 2000 Revised Edition)
 
-Insert, immediately after the definition of “officer”, the following definition:
+BR Act 2004 Ed.
 
-“
+:
 
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
+Singapore Business Registration Act (Chapter 32, 2004 Revised Edition)
 
-”.
+Companies 1994 Ed.
 
-(b) Section 27 (1)
+:
 
-(i) Delete paragraph (b) and substitute the following paragraphs:
+Singapore Companies Act (Chapter 50, 1994 Revised Edition)
 
-“
+Companies (ABAP) Reg.
 
-(b) any firm or limited liability partnership in which the bank or any of its directors is a partner, manager or agent; or
+:
 
-(ba) any individual of whom, or firm or limited liability partnership of which, any of the directors of the bank is a guarantor;
+Singapore Companies (Application of Bankruptcy Act Provisions) Regulations (Chapter 50, Rg 3, 1994 Revised Edition)
 
-”.
+LPA 2001 Ed.
 
-(ii) Insert, immediately after the word “firm” in paragraph (f), the words “, limited liability partnership”.
+:
 
-(c) Section 28 (3)
+Singapore Legal Profession Act (Chapter 161, 2001 Revised Edition)
 
-(i) Insert, immediately after the word “firm” in the 4th line, the words “or partner or manager of a specified limited liability partnership”.
+## LEGISLATIVE HISTORY
 
-(ii) Insert, immediately after the word “firm” in the 6th line, and in paragraph (a), the words “or limited liability partnership”.
+Limited Liability Partnerships Act
 
-(d) Section 29 (1) (d)
+(CHAPTER 163A)
 
-Insert, immediately after the word “firm” wherever it appears in sub-paragraph (ii), the words “or limited liability partnership”.
+This Legislative History is provided for the convenience of users of the Limited Liability Partnerships Act. It is not part of this Act.
 
-(3) Business Registration Act
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
+|2.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006 (item (22) in the First Schedule)|
+|3.|**2006 Revised Edition—Limited Liability Partnerships Act**|
+||Date of operation|31 December 2006|
+## COMPARATIVE TABLE
 
+Limited Liability Partnerships Act
 
+(CHAPTER 163A)
 
+The following provisions in the Limited Liability Partnerships Act (Act 5 of 2005) have been renumbered by the Law Revision Commissioners in this 2006 Revised Edition.
 
-(Chapter 32, 2004 Ed.)
+This Comparative Table is provided for the convenience of users. It is not part of the Limited Liability Partnerships Act.
 
-(a) Section 2 (1)
+2006 Ed\. 
 
-Insert, immediately after the word “legislation” in the definition of “corporation”, the words “, or a limited liability partnership registered under the Limited Liability Partnerships Act 2005,”.
+Act 5 of 2005 
 
-(b) Section 4
+Omitted
 
-Insert, immediately after subsection (2), the following subsection:
+60 —(1)
 
-“
+60 —(1) and (2)
 
-(3) This Act shall not apply to any limited liability partnership registered under the Limited Liability Partnerships Act 2005 carrying on business under its registered name.
-
-”.
-
-(c) Section 6 (4)
-
-(i) Insert, immediately after the words “Companies Act (Cap. 50)” in paragraph (b), the words “or a manager of the corporation within the meaning of section 2 of the Limited Liability Partnerships Act 2005”.
-
-(ii) Insert, immediately after the word “secretary” in paragraph (d), the words “or manager”.
-
-(d) Section 13 (1)
-
-Delete the words “any other” in paragraph (b) and substitute the word “a”.
-
-(e) Section 25
-
-(i) Insert, immediately after the words “the directors” in subsection (1), the words “, the managers”.
-
-(ii) Insert, immediately after the word “director” in subsection (2), the word “, manager”.
-
-(4) Companies Act (Chapter 50, 1994 Ed.)
-
-(a) Section 4 (1)
-
-(i) Delete the word “or” at the end of paragraph (c) of the definition of “corporation”.
-
-(ii) Insert the word “or” at the end of paragraph (d) of the definition of “corporation” and insert immediately thereafter the following paragraph:
-
-“
-
-(e) any limited liability partnership;
-
-”.
-
-(iii) Insert, immediately after the definition of “limited company”, the following definition:
-
-“
-
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(b) Section 27
-
-(i) Delete paragraph (b) of subsection (1) and substitute the following paragraph:
-
-“
-
-(b) is identical to that of any other company, limited liability partnership or corporation, or to a business name; or
-
-”.
-
-(ii) Delete paragraph (b) of subsection (2) and substitute the following paragraph:
-
-“
-
-(b) so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
-
-”.
-
-(c) Section 28 (3)
-
-Delete paragraph (b) and substitute the following paragraph:
-
-“
-
-(b) a name that so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
-
-”.
-
-(d) New section 155A
-
-Insert, immediately after section 155, the following section:
-
-“
-
-Disqualification under Limited Liability Partnerships Act 2004
-
-155A. A person who is subject to a disqualification or disqualification order under section 34, 35 or 36 of the Limited Liability Partnerships Act 2005 shall not act as director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, a corporation during the period of the disqualification or disqualification order.
-
-”.
-
-(e) Section 156
-
-Delete subsection (4) and substitute the following subsection:
-
-“
-
-(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm or a partner or officer of a specified limited liability partnership and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation, firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if —
-
-(a) it specifies the nature and extent of his interest in the specified corporation, firm or limited liability partnership;
-
-(b) his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made; and
-
-(c) it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
-
-”.
-
-(f) Section 405(1)
-
-Insert, immediately before the words “Business Registration Act” in the 9th line, the words “Limited Liability Partnerships Act 2004 or the”.
-
-(g) Fourth Schedule
-
-(i) Paragraphs 47 and 59
-
-Insert, immediately after the word “corporation”, the words “or a limited liability partnership”.
-
-(ii) Paragraph 76
-
-Insert, immediately after the word “firm,” in the 2nd line, the words “limited liability partnership”.
-
-(h) Sixth Schedule
-
-(i) Part I (page 548)
-
-Insert, immediately after the word “firm” wherever it appears, the words “or limited liability partnership”.
-
-(ii) Part II, paragraph 1
-
-Insert, immediately after the word “business” wherever it appears, the words “or limited liability partnership”.
-
-(iii) Part III, paragraph 4
-
-Insert, immediately after the word “corporation” in the 2nd and 3rd lines, the words “or limited liability partnership”.
-
-(5) Contracts (Rights of Third Parties) Act
-
-
-
-
-(Chapter 53B, 2002 Ed.)
-
-Section 7
-
-Insert, immediately after subsection (2), the following subsection:
-
-“
-
-(2A) Section 2 shall not confer any right on a third party in the case of any registration document of a limited liability partnership registered under the Limited Liability Partnerships Act 2005 or any limited liability partnership agreement as defined in that Act.
-
-”.
-
-(6) Corporate Bodies’ Contract Act
-
-
-
-
-(Chapter 385, 1994 Ed.)
-
-Section 2
-
-Repeal and substitute the following section:
-
-“
-
-Exclusion of companies under Companies Act and limited liability partnerships under Limited Liability Partnerships Act
-
-2. This Act shall not apply to any company as defined in the Companies Act (Cap. 50) or to any limited liability partnership as defined in the Limited Liability Partnerships Act 2005.
-
-”.
-
-(7) Finance Companies Act
-
-
-
-
-(Chapter 108, 2000 Ed.)
-
-(a) Section 2
-
-(i) Insert, immediately after the definition of “Government securities”, the following definition:
-
-“
-
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(ii) Insert, immediately after the definition of “officer”, the following definition:
-
-“
-
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(b) Section 21A (1)
-
-Insert, immediately after the word “firm” in paragraphs (b), (c) and (g), the words “or limited liability partnership”.
-
-(c) Section 21B (3)
-
-(i) Insert, immediately after the word “firm” in the 4th line, the words “or partner or manager of a specified limited liability partnership”.
-
-(ii) Delete the words “or firm” after the word “company” in the 6th line, and in paragraph (a), and substitute the words “, firm or limited liability partnership”.
-
-(d) Section 23 (5)
-
-Delete paragraph (b) and substitute the following paragraphs:
-
-“
-
-(b) a firm or limited liability partnership in which that finance company or any of its directors has an interest as a partner, manager or agent;
-
-(ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
-
-”.
-
-(e) Section 51
-
-(i) Insert, immediately after the word “firm” in the 1st, 3rd and 6th lines, the words “or limited liability partnership”.
-
-(ii) Insert, immediately after the word “firm” in the 5th line, the words “and every partner or manager of the limited liability partnership”.
-
-(8) Financial Advisers Act
-
-
-
-
-(Chapter 110, 2002 Ed.)
-
-(a) Section 2 (1)
-
-(i) Delete sub-paragraph (ii) of paragraph (a) of the definition of “connected person” and substitute the following sub-paragraph:
-
-“
-
-(ii) a firm, a limited liability partnership or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm, limited liability partnership or corporation, whether such control is exercised individually or jointly;
-
-”.
-
-(ii) Delete paragraph (b) of the definition of “connected person” and substitute the following paragraph:
-
-“
-
-(b) a firm, a limited liability partnership or a corporation, means another firm, limited liability partnership or corporation in which the first-mentioned firm, limited liability partnership or corporation has control of not less than 20% of the voting power in that other firm, limited liability partnership or corporation,
-
-”.
-
-(iii) Insert, immediately after the definition of “life policy”, the following definition:
-
-“
-
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(iv) Insert, immediately after the definition of “officer”, the following definition:
-
-“
-
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(b) Section 83
-
-(i) Insert, immediately after subsection (3), the following subsection:
-
-“
-
-(3A) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
-
-”.
-
-(ii) Delete the definition of “partner” in subsection (5) and substitute the following definition:
-
-“
-
-“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(iii) Insert, immediately after the definition of “officer” in subsection (5), the following definition:
-
-“
-
-“partner”, in relation to a partnership, includes a person purporting to act as a partner.
-
-”.
-
-(c) New section 88 (4)
-
-Insert, immediately after subsection (3), the following subsection:
-
-“
-
-(4) In this section, “body corporate” excludes a limited liability partnership within the meaning of the Limited Liability Partnerships Act 2005.
-
-”.
-
-(9) Insurance Act (Chapter 142, 2002 Ed.)
-
-(a) Section 1A
-
-Insert, immediately after the definition of “life reinsurance broker”, the following definitions:
-
-“
-
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(b) Section 4 (1)
-
-Delete paragraph (b) and substitute the following paragraph:
-
-“
-
-(b) where that person is a corporation, limited liability partnership or firm, every director, manager or officer of the corporation and every partner or officer of the firm and every partner or manager of the limited liability partnership (as the case may be) shall, unless he proves that the offence was committed without his knowledge or consent, be guilty of an offence.
-
-”.
-
-(10) Mental Disorders and Treatment Act (Chapter 178, 1985 Ed.)
-
-Section 18
-
-Renumber the section as subsection (1) of that section, and insert immediately thereafter the following subsection:
-
-“
-
-(2) Subsection (1) does not apply to a limited liability partnership registered under the Limited Liability Partnerships Act 2005.
-
-”.
-
-(11) Money-changing and Remittance Businesses Act (Cap. 187, 1996 Ed.)
-
-(a) Section 2 (1)
-
-(i) Insert, immediately after the definition of “licence”, the following definition:
-
-“
-
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(ii) Insert, immediately after the definition of “money-changing business”, the following definition:
-
-“
-
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(b) Section 21
-
-(i) Insert, immediately after subsection (1), the following subsection:
-
-“
-
-(1A) Where an offence under this Act has been committed by a limited liability partnership, any person who at the time of the commission of the offence was a partner or manager of the limited liability partnership shall be liable to be proceeded against and punished accordingly unless he proves that —
-
-(a) the offence was committed without his consent or connivance; and
-
-(b) he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
-
-”.
-
-(ii) Insert, immediately after subsection (3), the following subsection:
-
-“
-
-(4) In this section, “body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act 2005.
-
-”.
-
-(12) Securities and Futures Act
-
-
-
-
-(Chapter 289, 2002 Ed.)
-
-(a) Section 2 (1)
-
-(i) Delete sub-paragraph (ii) of paragraph (a) of the definition of “connected person” and substitute the following sub-paragraph:
-
-“
-
-(ii) a firm, a limited liability partnership or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm, limited liability partnership or corporation, whether such control is exercised individually or jointly; or
-
-”.
-
-(ii) Delete paragraph (b) of the definition of “connected person” and substitute the following paragraph:
-
-“
-
-(b) a firm, a limited liability partnership or a corporation, means another firm, limited liability partnership or corporation in which the first-mentioned firm, limited liability partnership or corporation has control of not less than 20% of the voting power in that other firm, limited liability partnership or corporation,
-
-”.
-
-(iii) Insert, immediately after the definition of “licensed person”, the following definition:
-
-“
-
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(iv) Insert, immediately after the definition of “participant”, the following definition:
-
-“
-
-“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(b) Section 227
-
-Repeal section 227 and substitute the following section:
-
-“
-
-Attribution of knowledge within partnerships and limited liability partnerships
-
-227.—(1) For the purposes of this Division —
-
-(a) a partner of a partnership or a limited liability partnership (as the case may be) is taken to possess any information —
-
-(i) which another partner of the partnership or limited liability partnership (as the case may be) possesses and which came into such other partner’s possession in his capacity as a partner of the partnership or limited liability partnership (as the case may be); or
-
-(ii) which an employee of the partnership or a manager of a limited liability partnership (as the case may be) possesses and which came into the possession of such an employee or manager in the course of the performance of his duties as such an employee or manager; and
-
-(b) if a partner or employee of a partnership or a partner, manager or employee of a limited liability partnership (as the case may be) knows or ought reasonably to know any matter or thing in his capacity as such a partner, manager or employee, it is to be presumed that every partner of the partnership or limited liability partnership (as the case may be) knows or ought reasonably to know that matter or thing.
-
-(2) The partners of a partnership or limited liability partnership (as the case may be) do not contravene section 218(2) or 219 (2) by entering into a transaction or agreement at any time merely because one or more (but not all) of the partners, or a manager or managers, or an employee or employees, of the partnership or limited liability partnership (as the case may be) are in actual possession of information if —
-
-(a) the decision to enter into the transaction or agreement was taken on behalf of the partnership or limited liability partnership by any one or more of the following persons:
-
-(i) a partner who is taken to have possessed the information merely because another partner, or a manager or employee, of the partnership or limited liability partnership, was in possession of the information;
-
-(ii) an employee of the partnership or limited liability partnership or a manager of the limited liability partnership who was not in possession of the information;
-
-(b) the partnership or limited liability partnership had in operation at that time arrangements that could reasonably be expected to ensure that the information was not communicated to the person or persons who made the decision and that no advice with respect to the transaction or agreement was given to that person or any of those persons by a person in possession of the information; and
-
-(c) the information was not so communicated and no such advice was so given.
-
-(3) A partner of a partnership or limited liability partnership (as the case may be) does not contravene section 218(2) or 219 (2) by entering into a transaction or agreement otherwise than on behalf of the partnership or limited liability partnership merely because he is taken to possess information that is in the possession of another partner, a manager or an employee of the partnership.
-
-”.
-
-(c) Section 331
-
-(i) Insert, immediately after subsection (3), the following subsection:
-
-“
-
-(3A) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
-
-”.
-
-(ii) Delete the definition of “partner” in subsection (5) and substitute the following definition:
-
-“
-
-“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act 2005;
-
-”.
-
-(iii) Insert, immediately after the definition of “officer” in subsection (5), the following definition:
-
-“
-
-“partner”, in relation to a partnership, includes a person purporting to act as a partner.
-
-”.
-
-(13) Societies Act
-
-
-
-
-(Chapter 311, 1985 Ed.)
-
-Section 2
-
-Insert, immediately after paragraph (b) of the definition of “society”, the following paragraph:
-
-“
-
-(ba) any limited liability partnership registered under the Limited Liability Partnerships Act 2005;
-
-”.
-
-(14) Subordinate Courts Act
-
-
-
-
-(Chapter 321, 1999 Ed.)
-
-Section 26
-
-Insert, immediately after the word “partnership” where it first appears in paragraph (f), the words “(other than a limited liability partnership registered under the Limited Liability Partnerships Act 2005)”.
-
-(15) Third Parties (Rights Against Insurers) Act (Chapter 395,
-
-
-
-
-1994 Ed.)
-
-New section 3A
-
-Insert, immediately after section 3, the following section:
-
-“
-
-Application to limited liability partnerships
-
-3A. This Act applies to limited liability partnerships registered under the Limited Liability Partnerships Act 2005 as it applies to companies.
-
-”.
+(2) and (3)
 
