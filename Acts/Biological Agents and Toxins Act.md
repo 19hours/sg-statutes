@@ -1,16 +1,14 @@
-**Biological Agents and Toxins Act 2005**
+**Biological Agents and Toxins Act**
 
-**(No. 36 of 2005)**
+**(CHAPTER 24A)**
 
 **Table of Contents**
 
 [**Long Title**](#Biological-Agents-and-Toxins-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -192,10 +190,6 @@
 
 - [63 Regulations](#Regulations)
 
-- [64 Related amendment to Infectious Diseases Act](#Related-amendment-to-Infectious-Diseases-Act)
-
-- [65 Transitional provision](#Transitional-provision)
-
 [**FIRST SCHEDULE First Schedule Biological Agents**](#FIRST-SCHEDULE-First-Schedule-Biological-Agents)
 
 [**SECOND SCHEDULE Second Schedule Biological Agents**](#SECOND-SCHEDULE-Second-Schedule-Biological-Agents)
@@ -212,47 +206,29 @@
 
 [**EIGHTH SCHEDULE Non-compoundable Offences**](#EIGHTH-SCHEDULE-Non-compoundable-Offences)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Biological Agents and Toxins Act
 
-ACTS SUPPLEMENT
+(CHAPTER 24A)
 
-Published by Authority
+(Original Enactment: Act 36 of 2005)
 
-NO. 37]
+REVISED EDITION 2006
 
-Friday, December 9
+(31st December 2006)
 
-[2005
+An Act to prohibit or otherwise regulate the possession, use, import, transhipment, transfer and transportation of biological agents, inactivated biological agents and toxins, to provide for safe practices in the handling of such biological agents and toxins.
 
-The following Act was passed by Parliament on 18th October 2005 and assented to by the President on 10th November 2005:—
-
-Biological Agents and Toxins Act 2005
-
-(No. 36 of 2005)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-10th November 2005.
-
-Date of Commencement: 3rd January 2006
-
-An Act to prohibit or otherwise regulate the possession, use, import, transhipment, transfer and transportation of biological agents, inactivated biological agents and toxins, to provide for safe practices in the handling of such biological agents and toxins, and to make a related amendment to the Infectious Diseases Act (Chapter 137 of the 2003 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[3rd January 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Biological Agents and Toxins Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Biological Agents and Toxins Act.
 
 ### Interpretation
 
@@ -408,7 +384,12 @@ ADMINISTRATION AND APPLICATION
 
 ## PART III
 
-BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS
+BIOLOGICAL AGENTS AND
+
+
+
+
+INACTIVATED BIOLOGICAL AGENTS
 
 Division 1 —
 
@@ -1162,11 +1143,31 @@ Transportation
 
 ## PART V
 
-DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS
+DUTIES AND OBLIGATIONS
+
+
+
+
+IN RELATION TO BIOLOGICAL AGENTS
+
+
+
+
+AND TOXINS
 
 Division 1 —
 
-Duties and obligations of operators, biosafety committees, biosafety co-ordinators and staff of facilities
+Duties and obligations of operators,
+
+
+
+
+biosafety committees, biosafety co-ordinators
+
+
+
+
+and staff of facilities
 
 ### Application
 
@@ -1384,7 +1385,12 @@ in relation to or in connection with the possession or production allowed by suc
 
 Division 2 —
 
-Duties and obligations of carriers of biological agents and toxins
+Duties and obligations of carriers
+
+
+
+
+of biological agents and toxins
 
 ### Application
 
@@ -1448,7 +1454,12 @@ the carrier shall take all necessary steps to ensure the security of the biologi
 
 ## PART VI
 
-APPROVALS, PERMITS AND CERTIFICATION OF FACILITIES
+APPROVALS, PERMITS AND
+
+
+
+
+CERTIFICATION OF FACILITIES
 
 ### Approvals and permits
 
@@ -1830,7 +1841,7 @@ may appeal to the Minister in writing within such time as may be prescribed.
 
 (2) The decision of the Minister shall be final.
 
-(3) Notwithstanding any appeal, an order made by the Director for the cessation of any activity, or the closure or cordoning off of any facility, shall take effect from the date specified in the order, unless Minister otherwise directs.
+(3) Notwithstanding any appeal, an order made by the Director for the cessation of any activity, or the closure or cordoning off of any facility, shall take effect from the date specified in the order, unless the Minister otherwise directs.
 
 ### General exemption
 
@@ -1898,18 +1909,6 @@ may appeal to the Minister in writing within such time as may be prescribed.
 
 “scheduled biological agent” means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent.
 
-### Related amendment to Infectious Diseases Act
-
-64\. Section 41 of the Infectious Diseases Act (Cap. 137) is repealed.
-
-### Transitional provision
-
-65\. Where the operator of any facility was immediately before the date of commencement of the Biological Agents and Toxins Act 2005 carrying out any activity involving any First Schedule biological agent at that facility, he may continue carrying out such activity at such facility as if this Act had not been enacted —
-
-(a) for a period of 6 months from that date; or
-
-(b) if before the expiry of that period he applies under this Act for certification of his facility and for an approval to possess the biological agent in question, until the date on which his applications are approved, refused or withdrawn.
-
 FIRST SCHEDULE
 
 Section 2
@@ -1922,13 +1921,13 @@ Bacteria
 
 1\.Brucella canis
 
-2\.Chlamydia psittaci(avian strains)
+2\.Chlamydia psittaci (avian strains)
 
 3\.Mycobacterium canettii
 
 4\.Mycobacterium africanum
 
-5\.Mycobacterium bovis(non-BCG strains)
+5\.Mycobacterium bovis (non-BCG strains)
 
 6\.Mycobacterium microti
 
@@ -1938,9 +1937,9 @@ Fungi
 
 1\.Blastomyces dermatitidis
 
-2\.Histoplasma capsulatumvar. capsulatum
+2\.Histoplasma capsulatum var. capsulatum
 
-3\.Histoplasma capsulatumvar. duboisii
+3\.Histoplasma capsulatum var. duboisii
 
 4\.Paracoccidioides brasiliensis
 
@@ -2056,10 +2055,6 @@ Viruses
 
 (f) Fatal familial insomnia prion
 
-Parasitic Agents
-
-Deleted by S 589/2006, wef 01/11/2006.
-
 Part II
 
 Bacteria
@@ -2086,7 +2081,7 @@ Rickettsiae
 
 1\.Coxiella burnetii
 
-2\.Rickettsia- all species
+2\.Rickettsia — all species
 
 Fungi
 
@@ -2202,13 +2197,11 @@ Fifth Schedule Toxins
 
 5\. Verotoxins
 
-6. T-2 toxin
-
-[S 589/2006 wef 01/11/2006]
+6\. T-2 toxin
 
 7. Tetanus toxin.
 
-[S 589/2006 wef 01/11/2006]
+[S 589/2006]
 
 SIXTH SCHEDULE
 
@@ -2248,3 +2241,22 @@ The following offences are not compoundable under section 59:
 
 (c) any offence under any of the provisions of Part IV.
 
+## LEGISLATIVE HISTORY
+
+Biological Agents and Toxins Act
+
+(CHAPTER 24A)
+
+This Legislative History is provided for the convenience of users of the Biological Agents and Toxins Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 36 of 2005—Biological Agents and Toxins Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 26/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|3 January 2006|
+|2.|**G. N. No. S 589/2006—Biological Agents and Toxins Act (Amendment of First and Fifth Schedules) Order 2006**|
+||Date of commencement|1 November 2006|
+|3.|**2006 Revised Edition—Biological Agents and Toxins Act**|
+||Date of operation|31 December 2006|
