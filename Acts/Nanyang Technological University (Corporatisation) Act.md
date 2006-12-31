@@ -1,6 +1,6 @@
-**Nanyang Technological University (Corporatisation) Act 2005**
+**Nanyang Technological University (Corporatisation) Act**
 
-**(No. 46 of 2005)**
+**(CHAPTER 192A)**
 
 **Table of Contents**
 
@@ -8,11 +8,9 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,7 +34,7 @@
 
 - [11 Act to prevail over constituent documents, etc.](#Act-to-prevail-over-constituent-documents-etc)
 
-[**Part III TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, etc., TO UNIVERSITY COMPANY**](#Part-III)
+[**Part III TRANSFER OF PROPERTY, RIGHTS, LIABILITIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY**](#Part-III)
 
 - [12 Transfer to university company of property, rights and liabilities](#Transfer-to-university-company-of-property-rights-and-liabilities)
 
@@ -56,43 +54,23 @@
 
 - [19 Register of Guild of Graduates](#Register-of-Guild-of-Graduates)
 
-- [20 Repeal](#Repeal)
-
 [**THE SCHEDULE Provisions applicable to Register of Guild of Graduates**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Nanyang Technological University (Corporatisation) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 192A)
 
-Published by Authority
+(Original Enactment: Act 46 of 2005)
 
-NO. 16]
+REVISED EDITION 2006
 
-Friday, March 31
+(31st December 2006)
 
-[2006
+An Act to provide for the corporatisation of the Nanyang Technological University and for the transfer of its property, rights and liabilities to a successor company, and to provide for certain matters relating to that company.
 
-The following Act was passed by Parliament on 21st November 2005 and assented to by the President on 7th December 2005:—
-
-Nanyang Technological University (Corporatisation) Act 2005
-
-(No. 46 of 2005)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-7th December 2005.
-
-Date of Commencement: 1st April 2006
-
-An Act to provide for the corporatisation of the Nanyang Technological University and for the transfer of its property, rights and liabilities to a successor company, to provide for certain matters relating to that company and to repeal the Nanyang Technological University Act (Chapter 192 of the 1992 Revised Edition).
-
-Whereas the Nanyang Technological University was established under the Nanyang Technological University Act:
+Whereas the Nanyang Technological University was established under the Nanyang Technological University Act (Cap. 192, 1992 Ed.):
 
 And Whereas it is desirable to corporatise the Nanyang Technological University:
 
@@ -100,27 +78,25 @@ And Whereas a company limited by guarantee will be incorporated under the Compan
 
 And Whereas it is desirable that statutory provision be made in relation to the transfer of the property, assets, liabilities and employees of the Nanyang Technological University to the company, the operation of the company and certain of the powers of the company.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Nanyang Technological University (Corporatisation) Act 2005 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Nanyang Technological University (Corporatisation) Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “Board” means the Board of Trustees of the university company referred to in its constituent documents;
 
 “constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company;
 
-“predecessor university” means the Nanyang Technological University established under the Nanyang Technological University Act (Cap. 192);
+“predecessor university” means the Nanyang Technological University established under the repealed Nanyang Technological University Act (Cap. 192, 1992 Ed.);
 
 “university company” means the company limited by guarantee incorporated under the Companies Act (Cap. 50) under the name “Nanyang Technological University”.
 
@@ -210,11 +186,11 @@ PROVISIONS RELATING TO UNIVERSITY COMPANY
 
 ## PART III
 
-TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, etc., TO UNIVERSITY COMPANY
+TRANSFER OF PROPERTY, RIGHTS, LIABILITIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY
 
 ### Transfer to university company of property, rights and liabilities
 
-12\.—(1) On the appointed day, such property, rights and liabilities comprised in the undertaking of the predecessor university as may be determined by the Minister and agreed to by the Minister for Finance shall, by virtue of this section and without further assurance, act or deed, be transferred to and vest in the university company.
+12\.—(1) On 1st April 2006, such property, rights and liabilities comprised in the undertaking of the predecessor university as may be determined by the Minister and agreed to by the Minister for Finance shall, by virtue of this section and without further assurance, act or deed, be transferred to and vest in the university company.
 
 (2) Any property which by any scheme, will or other instrument or otherwise was held upon trust for any specific foundation or object of the predecessor university and which has been transferred to or vests in the university company by virtue of subsection (1) shall, after such transfer or vesting, be held upon trust for and applied as far as possible to the like foundation or object of the university company.
 
@@ -224,17 +200,17 @@ TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, etc., TO UNIVERSITY COMPAN
 
 (5) Any immovable property to be transferred to and vested in the university company under subsection (1) shall be held by the university company upon such tenure and subject to such terms and conditions as the President may determine.
 
-(6) All proceedings by or against the predecessor university which are commenced before the appointed day and which are pending on that day may be continued, completed and enforced by or against the university company on and after that day.
+(6) All proceedings by or against the predecessor university which were commenced before 1st April 2006 and which are pending on that date may be continued, completed and enforced by or against the university company on and after that date.
 
-(7) Every agreement relating to any of the transferred properties to which the predecessor university was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder can be assigned, shall have effect on and after that day as if —
+(7) Every agreement relating to any of the transferred properties to which the predecessor university was a party immediately before 1st April 2006, whether or not of such nature that the rights and liabilities thereunder can be assigned, shall have effect on and after that date as if —
 
 (a) the university company had been a party to such an agreement; and
 
-(b) every reference therein to the predecessor university were substituted in respect of anything to be done on or after that day with a reference to the university company.
+(b) every reference therein to the predecessor university were substituted in respect of anything to be done on or after that date with a reference to the university company.
 
 ### Transfer of employees
 
-13\.—(1) On and after the appointed day, all persons employed immediately before that day by the predecessor university shall be transferred to the service of the university company on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+13\.—(1) On and after 1st April 2006, all persons employed immediately before that date by the predecessor university shall be transferred to the service of the university company on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the university company, the scheme and terms and conditions of service in the predecessor university shall continue to apply to every person transferred to the service of the university company under subsection (1) as if he were still in the service of the predecessor university.
 
@@ -246,19 +222,19 @@ TRANSFER OF PROPERTY, rights, LIABIliTIES, EMPLOYEES, etc., TO UNIVERSITY COMPAN
 
 ### Existing contracts
 
-15\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the predecessor university is a party shall continue in force on and after that day and shall be enforceable by or against the university company as if the university company had been named therein or had been a party thereto instead of the predecessor university.
+15\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2006 to which the predecessor university is a party shall continue in force on and after that date and shall be enforceable by or against the university company as if the university company had been named therein or had been a party thereto instead of the predecessor university.
 
 ### Continuation and completion of disciplinary proceedings
 
-16\.—(1) Where any disciplinary proceedings commenced before the appointed day against —
+16\.—(1) Where any disciplinary proceedings commenced before 1st April 2006 against —
 
 (a) any employee of the predecessor university transferred to the service of the university company under section 13; or
 
 (b) any student of the predecessor university,
 
-are pending on that day, the proceedings shall on and after that day be carried on and completed by the university company.
+are pending on that date, the proceedings shall on and after that date be carried on and completed by the university company.
 
-(2) Where any hearing or investigation by a duly authorised committee of the predecessor university has commenced before the appointed day, but no order, ruling or direction has been made thereon immediately before that day, the committee shall on or after that day complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where any hearing or investigation by a duly authorised committee of the predecessor university has commenced before 1st April 2006, but no order, ruling or direction has been made thereon immediately before that date, the committee shall on or after that date complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under subsection (2) shall be treated as an order, a ruling or a direction of the university company and have the same force and effect as if it had been made by a duly authorised committee of the university company.
 
@@ -272,15 +248,11 @@ MISCELLANEOUS
 
 ### Students’ Union
 
-18\. On the appointed day, the students’ association known as the Nanyang Technological University Students’ Union and its constituent bodies shall be deemed to be constituted pursuant to the provisions of the constituent documents of the university company.
+18\. On 1st April 2006, the students’ association known as the Nanyang Technological University Students’ Union and its constituent bodies shall be deemed to be constituted pursuant to the provisions of the constituent documents of the university company.
 
 ### Register of Guild of Graduates
 
 19\. The provisions of the Schedule shall have effect in relation to all persons whose names are on the register of the Guild of Graduates of the predecessor university.
-
-### Repeal
-
-20\. The Nanyang Technological University Act (Cap. 192) is repealed.
 
 ## THE SCHEDULE
 
@@ -292,7 +264,7 @@ Provisions applicable to Register of Guild of Graduates
 
 (a) the names of all persons who on 7th August 1980 were members of the Guild of Graduates of the former Nanyang University and of all persons on whom degrees of that University had been conferred by virtue of section 18(2) of the National University of Singapore Act (Cap. 204, 1985 Ed.);
 
-(b) the names of all persons who immediately before the appointed day were members of the Guild of Graduates of the predecessor university, of all graduates of the National University of Singapore who were matriculated students of the Nanyang Technological Institute before 1st July 1991 and of all persons on whom degrees of the predecessor university had been conferred; and
+(b) the names of all persons who immediately before 1st April 2006 were members of the Guild of Graduates of the predecessor university, of all graduates of the National University of Singapore who were matriculated students of the Nanyang Technological Institute before 1st July 1991 and of all persons on whom degrees of the predecessor university had been conferred; and
 
 (c) the names of all graduates of the University.
 
@@ -308,3 +280,24 @@ Provisions applicable to Register of Guild of Graduates
 
 4\. In this Schedule, “University” means the university known as the Nanyang Technological University operated, maintained and promoted by the university company.
 
+## LEGISLATIVE HISTORY
+
+Nanyang Technological University (Corporatisation) Act
+
+(CHAPTER 192A)
+
+This Legislative History is provided for the convenience of users of the Nanyang Technological University (Corporatisation) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 46 of 2005—Nanyang Technological University (Corporatisation) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 33/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 April 2006|
+Note:
+
+The Nanyang Technological University (Corporatisation) Act 2005 repealed the Nanyang Technological University Act (Chapter 192, 1992 Revised Edition).
+
+|2.|**2006 Revised Edition—Nanyang Technological University (Corporatisation) Act**|
+||Date of operation|31 December 2006|
