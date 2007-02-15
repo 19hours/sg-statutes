@@ -1294,7 +1294,13 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 68\.—(1) The investment allowance granted under section 67 shall be a specified percentage, not exceeding 100% of the amount (which may be subject to a specified maximum) of the fixed capital expenditure incurred on each item specified by the Minister under subsection (2) on an approved project if the fixed capital expenditure is incurred —
 
-(a) within such period (referred to in this Act as the qualifying period), not exceeding 5 years, commencing from the investment day as the Minister may determine; and
+(a) within such period as the Minister may determine (referred to in this Act as the qualifying period), being a period commencing from the investment day and —
+
+(i) not exceeding 5 years; or
+
+(ii) not exceeding 8 years where the specified item is acquired under a hire-purchase agreement made on or after 15th February 2007; and
+
+[33/2010 wef 15/02/2007]
 
 (b) in the case of a project under section 67(1)(g), within such period (hereinafter referred to as the qualifying period), not exceeding 10 years, commencing from the investment day as the Minister may determine.
 
@@ -2280,7 +2286,9 @@ OVERSEAS INVESTMENT INCENTIVE
 
 “chargeable income”, in relation to an eligible holding company, means the income of the company chargeable to tax after deducting —
 
-(a) expenses, allowances, losses, donations and any qualifying deductions available for transfer under section 37C of the Income Tax Act (Cap. 134); and
+(a) expenses, allowances, losses, donations, any qualifying deductions available for transfer under section 37C of the Income Tax Act (Cap. 134) and any qualifying deduction claimed under section 37E of that Act; and
+
+[Act 34/2005, wef Y/A 2006 & Sub Ys/A:2005-ACT-34]
 
 (b) allowances and losses allowable under this Act;
 
@@ -2662,6 +2670,11 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of commencement|25 November 2004|
 |35.|**2005 Revised Edition—Economic Expansion Incentives (Relief from Income Tax) Act**|
 ||Date of operation|31 March 2005|
+|36.|**Act 33 of 2010—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2010**|
+||Date of First Reading|18 October 2010|
+|||(Bill No. 28/2010) published on 18 October 2010|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|15 February 2007 (section 4)|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
