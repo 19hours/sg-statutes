@@ -110,6 +110,8 @@
 
 - [13T Exemption of trust income to which beneficiary is entitled](#Exemption-of-trust-income-to-which-beneficiary-is-entitled)
 
+- [13U Exemption of income of not-for-profit organisation](#Exemption-of-income-of-not-for-profit-organisation)
+
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
 - [14 Deductions allowed](#Deductions-allowed)
@@ -1226,7 +1228,7 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (ii) the Monetary Authority of Singapore;
 
-(iii) a bank licensed under the Banking Act (Cap.19);
+(iii) a bank licensed under the Banking Act (Cap. 19);
 
 (iv) a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
 
@@ -1264,7 +1266,15 @@ which do not form part of the statutory income of the designated unit trust or a
 
 [7/2007 wef 17/02/2006]
 
-(g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies,
+(g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies;
+
+(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+[53/2007 wef 15/02/2007]
+
+(i) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
+
+[53/2007 wef 15/02/2007]
 
 which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(12A) shall be deemed to be income of the unit holder if he is not a foreign investor.
 
@@ -1281,6 +1291,10 @@ which do not form part of the statutory income of the designated unit trust or a
 (23) In subsections (20), (20A), (21) and (22) —
 
 “approved CPF unit trust” has the same meaning as in section 35(14);
+
+“break cost”, “prepayment fee” and “redemption premium” have the same meanings as in section 13(16);
+
+[53/2007 wef 15/02/2007]
 
 “compensatory payment” has the same meaning as in section 10N(12);
 
@@ -2221,7 +2235,31 @@ by —
 
 [53/2007 wef 01/11/2006]
 
+(ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+[53/2007 wef 15/02/2007]
+
+(iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
+
+[53/2007 wef 15/02/2007]
+
 [53/2007 wef 01/11/2006]
+
+(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008 that is derived by any person —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+[53/2007 wef 15/02/2007]
+
+(bb) subject to subsection (2G) and such conditions as may be prescribed by regulations, such other income directly attributable to qualifying debt securities issued on or after a prescribed date as may be prescribed by regulations, that is derived by any person —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+[53/2007 wef 15/02/2007]
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
@@ -2401,6 +2439,14 @@ except where such income is derived through a partnership in Singapore or is der
 
 [53/2007 wef 01/01/2007]
 
+(zk) any prepayment fee, redemption premium or break cost from debt securities derived from Singapore on or after 15th February 2007 by any individual, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+[53/2007 wef 15/02/2007]
+
+(zl) such other income directly attributable to debt securities as may be prescribed by regulations derived from Singapore on or after a prescribed date by any individual, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession; and
+
+[53/2007 wef 15/02/2007]
+
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
@@ -2431,6 +2477,14 @@ except where such income is derived through a partnership in Singapore or is der
 
 [53/2007 wef 01/11/2006]
 
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+
+[53/2007 wef 15/02/2007]
+
+(c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations,
+
+[53/2007 wef 15/02/2007]
+
 if 50% or more of the issue of the securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities.
 
 [53/2007 wef 01/11/2006]
@@ -2441,11 +2495,63 @@ if 50% or more of the issue of the securities is beneficially held or funded, di
 
 [53/2007 wef 01/11/2006]
 
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+
+[53/2007 wef 15/02/2007]
+
+(c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations,
+
+[53/2007 wef 15/02/2007]
+
+if the securities are held by less than 4 persons at any time during the life of the issue, unless —
+
+(i) approval has been granted by the Minister or such person as he may appoint to such application;
+
+[53/2007 wef 15/02/2007]
+
+(ii) all the persons holding the securities are companies resident in Singapore;
+
+[53/2007 wef 15/02/2007]
+
+(iii) such companies are listed on the Singapore Exchange either on the date of issue of the securities or within 6 months from that date; and
+
+[53/2007 wef 15/02/2007]
+
+(iv) the income from the securities received by such companies is declared to be distributable to their shareholders within 6 months from the end of the basis period in which it is received.
+
+[53/2007 wef 15/02/2007]
+
 [53/2007 wef 01/11/2006]
+
+[53/2007 wef 15/02/2007]
 
 (2E) Regulations made under subsection (1)(b) may provide for the determination of the amount of income of the person to be exempted and for the deduction of expenses, allowances, losses and donations of the person otherwise than in accordance with this Act.
 
 [53/2007 wef 01/11/2006]
+
+(2F) Subsection (1)(ba) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any prepayment fee, redemption premium or break cost derived from any qualifying debt securities where —
+
+(a) 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities; and
+
+(b) such fee, premium or cost is derived by —
+
+(i) any related party of the issuer of those securities; or
+
+(ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[53/2007 wef 15/02/2007]
+
+(2G) Subsection (1)(bb) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to such other income directly attributable to qualifying debt securities as may be prescribed by regulations under that provision where —
+
+(a) 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities; and
+
+(b) such income is derived by —
+
+(i) any related party of the issuer of those securities; or
+
+(ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[53/2007 wef 15/02/2007]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -2551,6 +2657,10 @@ the income received by a person resident in Singapore from such source in any co
 
 “approved bond intermediary” means a financial institution approved as such by the Minister or such person as he may appoint;
 
+“break cost”, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any fee payable by the issuer of the securities on the early redemption of the securities, the amount of which is determined by any loss or liability incurred by the holder of the securities in connection with such redemption;
+
+[53/2007 wef 15/02/2007]
+
 “debt securities” has the same meaning as in section 43N;
 
 “child”, in relation to an employee, means any legitimate child, illegitimate child, step-child, child adopted in accordance with any written law relating to the adoption of children and any child whom the employee is the legal guardian;
@@ -2578,6 +2688,10 @@ the income received by a person resident in Singapore from such source in any co
 “Islamic debt securities” has the same meaning as in section 43N(4);
 
 [34/2005 wef 01/01/2005]
+
+“prepayment fee”, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any fee payable by the issuer of the securities on the early redemption of the securities, the amount of which is determined by the terms of the issuance of the securities;
+
+[53/2007 wef 15/02/2007]
 
 “qualifying debt securities” means —
 
@@ -2633,6 +2747,10 @@ but does not include, except with the approval of the Minister or such person as
 
 [7/2007 wef 13/02/2007]
 
+“redemption premium”, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any premium payable by the issuer of the securities on the redemption of the securities upon their maturity;
+
+[53/2007 wef 15/02/2007]
+
 “registered business trust” and “trustee-manager” have the same meanings as in the Business Trusts Act (Cap. 31A);
 
 [7/2007 wef 13/02/2007]
@@ -2647,7 +2765,7 @@ but does not include, except with the approval of the Minister or such person as
 
 [49/2004 wef 01/01/2004]
 
-“Singapore Government securities” has the same meaning as in section 43N
+“Singapore Government securities” has the same meaning as in section 43N;
 
 “structured product” means a sum of money paid on terms under which —
 
@@ -3685,7 +3803,7 @@ as the Minister may by regulations prescribe.
 
 “relevant income” means —
 
-(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi)or (zj) accrued in or derived from Singapore on or after 17th February 2006; or
+(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi) , (zj), (zk) or (zl) accrued in or derived from Singapore on or after 17th February 2006; or
 
 (b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 17th February 2006 excluding, in respect of a prescribed locally administered trust, any dividend received by the trust from a prescribed holding company not resident in Singapore, if the dividend is paid out of income that is not the relevant income of the holding company;
 
@@ -3856,6 +3974,34 @@ ought not to have been so exempted for any year of assessment, the Comptroller m
 (f) any income of a locally administered trust prescribed under section 13Q.
 
 [Act 7/2007, wef Y/A 2008 & Sub Ys/A:2007-ACT-7]
+
+### Exemption of income of not-for-profit organisation
+
+13U\.—(1) There shall be exempt from tax any income of an approved not-for-profit organisation.
+
+(2) The Minister or such person as he may appoint may, during the period from 15th February 2007 to 14th February 2017, approve any not-for-profit organisation for the purposes of subsection (1).
+
+(3) The approval under subsection (2) shall be subject to such conditions as the Minister or such person as he may appoint may impose and shall be for such period not exceeding 10 years as he may specify.
+
+(4) Notwithstanding subsection (2), the period specified under subsection (3) may be extended on expiry by the Minister or such person as he may appoint for such further period or periods, not exceeding 10 years at any one time, as he thinks fit.
+
+(5) The Minister may make regulations to provide for the deduction of expenses, allowances, losses and donations of an approved not-for-profit organisation otherwise than in accordance with this Act.
+
+(6) Notwithstanding subsection (1), where it appears to the Comptroller that any income of an approved not-for-profit organisation which has been exempted from tax under subsection (1) ought not to have been so exempted for any year of assessment, the Comptroller may at any time, subject to section 74, make such assessment or additional assessment on the approved not-for-profit organisation as may appear to be necessary in order to make good any loss of tax.
+
+(7) In this section, “not-for-profit organisation” means any person, not being a person registered or exempt from registration under the Charities Act (Cap. 37) —
+
+(a) who is not established or operated for the object of deriving a profit;
+
+(b) whose income and property —
+
+(i) may only be applied for the furtherance of its objects; and
+
+(ii) are not distributable to any shareholder, member, trustee or officer of the person except as reasonable compensation for services rendered; and
+
+(c) whose property may only be distributed to persons established for a similar object as that person’s upon that person’s dissolution.
+
+[53/2007 wef 15/02/2007]
 
 ## PART V
 
@@ -5411,9 +5557,13 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 [31/98]
 
-(9) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 27th February 1999, registered any new vehicle as a replacement for an existing vehicle, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
+(9) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered any new vehicle as a replacement for an existing vehicle which used diesel oil as fuel and which was registered before 1st January 1991 and deregistered on or after 27th February 1999, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
 
-[32/99]
+[53/2007 wef 15/02/2007]
+
+(9A) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered during the period from 15th February 2007 to 14th February 2012 any new vehicle which uses diesel oil as fuel, as a replacement for an existing vehicle which used diesel oil as fuel and which was registered on or after 1st January 1991 but before 1st October 2006, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
+
+[53/2007 wef 15/02/2007]
 
 (10) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
 
@@ -5573,11 +5723,11 @@ which has been certified by the Standards, Productivity and Innovation Board or 
 
 “efficient pollution control equipment or device” means any equipment or device for the purposes of preventing, controlling or reducing air pollution or water pollution which satisfies the prescribed criteria;
 
-“existing vehicle” means any goods vehicle or bus using diesel oil as fuel, and registered before 1st January 1991, which —
+“existing vehicle” means any goods vehicle or bus using diesel oil as fuel, which —
 
 (a) is not a vehicle registered under the RU index marks;
 
-(b) is deregistered on or after 27th February 1999 but not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act (Cap. 276) in respect of the vehicle; and
+(b) is deregistered not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act (Cap. 276) in respect of the vehicle; and
 
 (c) has, unless the vehicle has been exempted from obtaining a certificate of entitlement, at the date of deregistration of the vehicle —
 
@@ -8219,13 +8369,21 @@ is the chargeable income of the person for the year of assessment.
 
 (i) qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
 
 [7/2007 wef 17/02/2006]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008.
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
 
 [34/2005 wef 01/01/2005]
+
+[53/2007 wef 15/02/2007]
+
+(d) prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+[53/2007 wef 15/02/2007]
+
+(e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations.
 
 [53/2007 wef 15/02/2007]
 
@@ -8235,13 +8393,21 @@ is the chargeable income of the person for the year of assessment.
 
 (a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008,
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
 
 [34/2005 wef 01/01/2005]
 
 [53/2007 wef 15/02/2007]
 
-where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest, discount or amount payable, as the case may be, is derived by any body of persons —
+(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+[53/2007 wef 15/02/2007]
+
+(e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
+
+[53/2007 wef 15/02/2007]
+
+where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such income is derived by any body of persons —
 
 (i) which is a related party of the issuer of those securities; or
 
@@ -8253,7 +8419,9 @@ where 50% or more of the issue of those securities is beneficially held or funde
 
 “Islamic debt securities” has the same meaning as in section 43N(4);
 
-“qualifying debt securities” and “related party” have the same meanings as in section 13(16).
+“break cost”, “prepayment fee”, “qualifying debt securities”, “redemption premium” and “related party” have the same meanings as in section 13(16).
+
+[53/2007 wef 15/02/2007]
 
 [34/2005 wef 01/01/2005]
 
@@ -8403,7 +8571,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [49/2004 wef 30/11/2004]
 
-(3B) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any distribution made out of any income referred to in subsection (2A) (a) (i), (ii) and (iii) during the period from 18th February 2005 to 17th February 2010 by a trustee of any real estate investment trust to a person (other than an individual) not resident in Singapore —
+(3B) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any distribution made out of any income referred to in subsection (2A)(a)(i), (ii)and (iii) during the period from 18th February 2005 to 17th February 2010 by a trustee of any real estate investment trust to a person (other than an individual) not resident in Singapore —
 
 (a) who does not have any permanent establishment in Singapore; or
 
@@ -8477,7 +8645,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [34/2005 wef 18/02/2005]
 
-“real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and , and that invests or proposes to invest in immovable property and immovable property-related assets;
+“real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and listed on the Singapore Exchange, and that invests or proposes to invest in immovable property and immovable property-related assets;
 
 [34/2005 wef 18/02/2005]
 
@@ -8841,6 +9009,14 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [34/2005 wef 01/01/2005]
 
+(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008;
+
+[53/2007 wef 15/02/2007]
+
+(ad) such other income derived by any company that is directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations;
+
+[53/2007 wef 15/02/2007]
+
 (b) income derived by any financial institution from trading in any debt securities during the period from 28th February 1998 to 31st December 2003; and
 
 (c) income derived by any financial institution during the period commencing from the first day of its basis period for the year of assessment 2001 to 31st December 2003 from —
@@ -8851,7 +9027,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [31/98; 24/2000; 21/2003]
 
-(2) Subsection (1)(a) , (aa) or (ab), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
+(2) Subsection (1)(a) , (aa), (ab), (ac) or (ad), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
 (a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
 
@@ -8859,17 +9035,25 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
 
 [7/2007 wef 17/02/2006]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008,
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
 
 [34/2005 wef 01/01/2005]
 
 [53/2007 wef 15/02/2007]
 
-where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest, discount or amount payable, as the case may be, is derived by —
+(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+[53/2007 wef 15/02/2007]
+
+(e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
+
+[53/2007 wef 15/02/2007]
+
+where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such income is derived by —
 
 (i) any company which is a related party of the issuer of those securities; or
 
@@ -8893,7 +9077,9 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 
 “debt securities” means bonds, notes, commercial papers, treasury bills and certificates of deposits;
 
-“financial institution”, “qualifying debt securities” and “related party” have the same meanings as in section 13(16);
+“break cost”, “financial institution”, “prepayment fee”, “qualifying debt securities”, “redemption premium” and “related party” have the same meanings as in section 13(16);
+
+[53/2007 wef 15/02/2007]
 
 “Islamic debt securities” means debt securities and trust certificates —
 
@@ -9373,11 +9559,29 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [34/2005 wef 01/01/2005]
 
+(2B) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to ––
+
+(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+
+(b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008.
+
+[53/2007 wef 15/02/2007]
+
+(2C) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to —
+
+(a) such other income directly attributable to any qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations; or
+
+(b) such other income directly attributable to any qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations.
+
+[53/2007 wef 15/02/2007]
+
 (3) In this section —
 
 “Islamic debt securities” has the same meaning as in section 43N(4);
 
-“qualifying debt securities” has the same meaning as in section 13(16).
+“break cost”, “prepayment fee”, “qualifying debt securities”, “qualifying project debt securities” and “redemption premium” have the same meanings as in section 13(16).
+
+[53/2007 wef 15/02/2007]
 
 [34/2005 wef 01/01/2005]
 
@@ -10825,7 +11029,7 @@ OFFENCES AND PENALTIES
 
 (2) Any person guilty of an offence under this section for which no other penalty is provided shall be liable on conviction to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months.
 
-(3) Except in the case of a notice published in theGazetteunder section 68 (2), no person shall be liable to prosecution for an offence under this section in respect of failure to comply with the terms of any notice issued under the provisions of this Act unless the notice has been served on him personally or by registered post.
+(3) Except in the case of a notice published in theGazetteunder section 68(2), no person shall be liable to prosecution for an offence under this section in respect of failure to comply with the terms of any notice issued under the provisions of this Act unless the notice has been served on him personally or by registered post.
 
 [2/92]
 
@@ -10845,19 +11049,19 @@ in respect of the same year of assessment, he shall be liable to a further penal
 
 ### Penalty for failure to make return
 
-94A\.—(1) Any person who fails or neglects without reasonable excuse to comply with any provision of section 62 or 71 (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months.
+94A\.—(1) Any person who fails or neglects without reasonable excuse to comply with any provision of section 62 or 71 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months.
 
 (2) Where any person has been convicted of an offence —
 
 (a) for failing to comply with section 62(3) and such conviction is subsequent to a conviction for an offence for failing to comply with section 62(1);
 
-(b) for failing to comply with any provision of section 62 or 71 (1) and such conviction is a second or subsequent conviction; or
+(b) for failing to comply with any provision of section 62 or 71 and such conviction is a second or subsequent conviction; or
 
-(c) for failing to comply with any provision of section 71 (1) and such conviction is subsequent to a conviction for an offence for failing to comply with any provision of section 62,
+(c) for failing to comply with any provision of section 71 and such conviction is subsequent to a conviction for an offence for failing to comply with any provision of section 62,
 
 in respect of the same year of assessment, he shall be liable to a further penalty of $50 for every day during which the offence is continued after such conviction.
 
-(3) Any person who fails or neglects without reasonable excuse to comply with section 62 or 71 (1) in respect of any year of assessment for 3 years or more shall be guilty of an offence and shall be liable on conviction to —
+(3) Any person who fails or neglects without reasonable excuse to comply with section 62 or 71 in respect of any year of assessment for 3 years or more shall be guilty of an offence and shall be liable on conviction to —
 
 (a) a penalty equal to double the amount of tax which the Comptroller assesses him to be liable for that year of assessment after determining, to the best of the Comptroller’s judgment, the amount of his chargeable income; and
 
@@ -11319,6 +11523,8 @@ For every dollar exceeding
 $320,000
 
 20.0%.
+
+[29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; S148/76; S38/77; S217/80; S158/82; S183/83; S137/84; S138/84; S217/84; S26/85; S79/88; S379/89; S380/89; S381/90; S382/90; S383/90; S317/91; S562/91; S 210/92; S412/92; S259/95; S33/96; S67/96; S302/96; S372/97; S372/98; S267/99; S485/99; S220/2003]
 
 Part B
 
@@ -12840,6 +13046,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|13 February 2007 (Section 21)|
+|215.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|15 February 2007 (Sections 3(c), (d), 6(a), (g), (h), (i), (l), (n), 9, 11, 16(b), (c), (d), 23, 27 and 32)|
+|216.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|15 February 2007 (Sections 31(a), (b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
