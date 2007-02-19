@@ -32,7 +32,7 @@
 
 - [11 Wreck and salvage](#Wreck-and-salvage)
 
-- [12 Power to provide for investigation of accidents](#Power-to-provide-for-investigation-of-accidents)
+- [12 (Repealed)](#Repealed)
 
 - [13 Detention of aircraft](#Detention-of-aircraft)
 
@@ -65,6 +65,8 @@
 - [26 Compensation for loss of value of land](#Compensation-for-loss-of-value-of-land)
 
 - [27 Procedure for settling claims for compensation under section 24, 25 or 26](#Procedure-for-settling-claims-for-compensation-under-section-24-25-or-26)
+
+- [27A Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
 - [28 Certain offences and penalty](#Certain-offences-and-penalty)
 
@@ -112,7 +114,7 @@ PRELIMINARY
 
 “Authority” means the Civil Aviation Authority of Singapore established under section 3 of the Civil Aviation Authority of Singapore Act [Cap. 41];
 
-“Chicago Convention” means the Convention on International Civil Aviation at Chicago on 7th December 1944;
+“Chicago Convention” means the Convention on International Civil Aviation concluded at Chicago on 7th December 1944;
 
 “controlled area” means any area declared to be a controlled area under section 20;
 
@@ -144,9 +146,9 @@ CONTROL AND REGULATION OF AVIATION
 
 (b) for the purpose of discharging an obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement; or
 
-[28/2000 wef 01/11/2000]
+[28/2000 wef 01/11/2000 wef 01/11/2000]
 
-(c) generally for regulating air navigation.
+(c) generally for regulating air navigation, including the investigation of any accident or incident arising out of or in the course of air navigation.
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1) and without prejudice to any of the provisions of this Act, the Minister may, by order, make provision —
 
@@ -163,6 +165,14 @@ CONTROL AND REGULATION OF AVIATION
 (f) as to the conditions under which passengers and goods may be carried by air and under which aircraft may be used for other commercial, industrial or gainful purposes and for prohibiting the carriage by air of goods of such classes as may be specified in the order;
 
 (g) for minimising or preventing interference with the use or effectiveness of apparatus used in connection with air navigation, and for prohibiting or regulating the use of such apparatus as aforesaid and the display of signs and lights liable to endanger aircraft;
+
+(ga) for authorising any person, so far as may be necessary for the purposes of an investigation, to enter, inspect and examine any place, structure or aircraft;
+
+[12/2007 wef 19/02/2007]
+
+(gb) for prohibiting, pending an investigation, access to or interference with aircraft to which an accident or incident has occurred, and for authorising any person, so far as may be necessary for the purposes of an investigation, to have access to, examine, remove, take measures for the preservation of, or otherwise deal with any aircraft;
+
+[12/2007 wef 19/02/2007]
 
 (h) generally for securing the safety, efficiency and regularity of air navigation and the safety of aircraft and of persons and property carried therein, for preventing aircraft endangering other persons and property and, in particular, for the detention of aircraft for any of the purposes specified in this paragraph;
 
@@ -190,7 +200,11 @@ CONTROL AND REGULATION OF AVIATION
 
 (3) An order made under this section may make different provisions with respect to different classes of aircraft, aerodromes, persons or property and with respect to different circumstances but shall, so far as practicable, be so framed as not to discriminate in like circumstances between aircraft registered in Singapore operated on charter terms by one air transport undertaking and such aircraft so operated by another such undertaking.
 
-(4) An order made under this section may, for the purpose of securing compliance with the provisions thereof, provide for the imposition of penalties not exceeding a fine of $5,000 and imprisonment for a term of one year, and, in the case of any provision having effect by virtue of subsection (2)(l), may also for that purpose provide for the taking of such steps (including firing on aircraft) as may be specified in the order.
+(3A) Nothing in this section shall limit the powers of any authority to investigate accidents under any written law for the time being in force relating to merchant shipping.
+
+[12/2007 wef 19/02/2007]
+
+(4) An order made under this section may, for the purpose of securing compliance with the provisions thereof, provide for the imposition of penalties not exceeding a fine of $100,000 or imprisonment for a term of 5 years or both for any offence thereunder, and, in the case of any provision having effect by virtue of subsection (2)(l), may also for that purpose provide for the taking of such steps (including firing on aircraft) as may be specified in the order.
 
 (5) An order made under this section may contain such incidental and supplementary provisions as appear to the Minister to be necessary or expedient for the purposes of the order and may authorise the Authority to make regulations for carrying out the purposes of the order in respect of such matters as may be specified in the order.
 
@@ -226,7 +240,7 @@ Provided that no compensation shall be payable by reason of the operation of a g
 
 (2) An aircraft flying over any protected area shall not carry —
 
-(a) arms or explosives (other than such arms and ammunition therefor as may be permitted by rules made under the Arms and Explosives Act [Cap. 13], and in respect of which all conditions prescribed in such rules are observed), or munitions of war (including gas in any form suitable for warlike purposes), save for the purposes of the provisions of any order made under section 3 relating to signals; or
+(a) arms or explosives (other than such arms and ammunition therefor as may be permitted by rules made under the Arms and Explosives Act (Cap. 13), and in respect of which all conditions prescribed in such rules are observed), or munitions of war (including gas in any form suitable for warlike purposes), save for the purposes of the provisions of any order made under section 3 relating to signals; or
 
 (b) photographic apparatus, unless packed in such a manner that it cannot be used in the aircraft, and sealed by the person in charge of the aircraft before the aircraft flies over that protected area:
 
@@ -234,13 +248,9 @@ Provided that this paragraph shall not apply to photographic apparatus allowed t
 
 (3)(a) No person shall take from an aircraft any photograph of a protected area except in accordance with the terms and conditions in such permit as the Authority may see fit to issue to him.
 
-(b)
+(b) It may be a term or condition of such permit that any photograph taken under the permit must immediately be submitted for examination to such authority as is specified in the permit.
 
-It may be a term or condition of such permit that any photograph taken under the permit must immediately be submitted for examination to such authority as is specified in the permit.
-
-(c)
-
-A person who observes all the terms and conditions of a permit shall not be guilty of an offence under section 3 of the Official Secrets Act [Cap. 213] in respect of a photograph taken in accordance with the terms and conditions of the permit.
+(c) A person who observes all the terms and conditions of a permit shall not be guilty of an offence under section 3 of the Official Secrets Act [Cap. 213] in respect of a photograph taken in accordance with the terms and conditions of the permit.
 
 (4) It shall be the duty of the person in charge of the aircraft to ensure that any photographic apparatus carried in the aircraft is not used while the aircraft is flying over any protected area, and that the seals with which the apparatus is sealed are not broken within any protected area without the sanction of the Director-General of Customs or his agent.
 
@@ -284,23 +294,7 @@ For the purposes of this section, “owner” in relation to an aircraft include
 
 (4) For the purposes of this section, any provisions of any written law which relate to vessels laid by or neglected as unfit for sea service shall be deemed to be provisions relating to wreck.
 
-### Power to provide for investigation of accidents
-
-12\.—(1) The Minister may make regulations providing for the investigation of any accident arising out of or in the course of air navigation and occurring in or over Singapore or to Singapore aircraft occurring elsewhere and likely in the absence of such provision to remain uninvestigated.
-
-(2) Without prejudice to the generality of subsection (1), regulations made under this section may contain provisions —
-
-(a) requiring notice to be given of any such accident as aforesaid in such manner and by such persons as may be specified;
-
-(b) applying, with or without modification, for the purpose of investigations held with respect to any such accident any of the provisions of any written law in force in Singapore relating to the investigation of deaths or accidents;
-
-(c) prohibiting, pending investigation, access to or interference with aircraft to which an accident has occurred, and authorising any person, so far as may be necessary for the purposes of an investigation, to have access to, examine, remove, take measures for the preservation of, or otherwise deal with any such aircraft;
-
-(d) authorising or requiring the cancellation, suspension, endorsement, or surrender of any licence or certificate granted under this Part or any subsidiary legislation made under this Part, where it appears on an investigation that the licence ought to be cancelled, suspended, endorsed, or surrendered, and for the production of any such licence for the purpose of being so dealt with.
-
-(3) Nothing in this section shall limit the powers of any authority to investigate accidents under any written law for the time being in force relating to merchant shipping.
-
-(4) If any person contravenes or fails to comply with any regulations made under this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months or to both.
+12\. [Deleted by Act 12/2007 wef 19/02/2007]
 
 ### Detention of aircraft
 
@@ -500,6 +494,50 @@ Provided that no such officer or person shall enter into any building or enclose
 
 [28
 
+### Offences by bodies corporate, etc.
+
+27A\.—(1) Where an offence under this Act committed by a body corporate is proved —
+
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) In this section —
+
+“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+(6) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[12/2007 wef 19/02/2007]
+
 ### Certain offences and penalty
 
 28\.—(1) Any person who does any act in contravention of, or fails without reasonable excuse to comply with the terms of, any order or notice made or issued under section 21 or 22 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
@@ -510,9 +548,25 @@ Provided that no such officer or person shall enter into any building or enclose
 
 ### Compounding of offences
 
-28A\.—(1) The Minister or any officer authorised in that behalf by the Minister may, in his discretion, compound any offence under this Act or any subsidiary legislation made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200.
+28A\.—(1) The Minister or any officer authorised in that behalf by the Minister may, in his discretion, compound any offence under this Act or any subsidiary legislation made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+[12/2007 wef 19/02/2007]
+
+(b) $5,000,
+
+[12/2007 wef 19/02/2007]
+
+whichever is the lower.
 
 [32/86]
+
+[12/2007 wef 19/02/2007]
+
+(1A) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+[12/2007 wef 19/02/2007]
 
 (2) The Minister may make rules to prescribe the offences which may be compounded.
 
@@ -601,3 +655,8 @@ This Legislative History is provided for the convenience of users of the Air Nav
 |||(Bill No. 6/2003 published on 4 April 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|10.|**Act 12 of 2007—Air Navigation (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 24/2006 published on 16 February 2007)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|19 February 2007|
