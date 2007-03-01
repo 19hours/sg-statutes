@@ -1456,7 +1456,7 @@ as the case may be.
 
 (4) [Deleted by Act 15/2003 wef 22/12/2003]
 
-(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communication for 6 years.
+(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communication for 5 years.
 
 (6) For the purposes of this section, a circular or other communication sent to a person shall, if it is signed by an officer of a licensed financial adviser, be deemed to have been sent by the financial adviser.
 
@@ -1492,13 +1492,13 @@ Register of Interests in Securities
 
 (b) enter in the register, within 7 days after the date that he acquires any interest in securities, particulars of the securities in which he has an interest and particulars of his interest in those securities; and
 
-(c) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which such entry was first made.
+(c) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which such entry was first made.
 
 (2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
 
 (a) enter in the register, within 7 days after the date of the change, particulars of the change, including the date of the change and the circumstances by reason of which that change has occurred; and
 
-(b) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which that entry was first made.
+(b) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which that entry was first made.
 
 (3) Any relevant person who contravenes this section shall be guilty of an offence.
 
@@ -2924,6 +2924,11 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006 (item (13) of the First Schedule)|
+|9.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (except sections 6, 8 and 11)|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
