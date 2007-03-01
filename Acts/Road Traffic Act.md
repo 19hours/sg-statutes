@@ -1148,6 +1148,8 @@ shall be guilty of an offence and shall be liable on conviction —
 
 [1/2006 wef 23/06/2006]
 
+(i) [Deleted by Act 1/2006 wef 23/06/2006]
+
 (j) provide for the levy of a tax for the keeping or use of a foreign vehicle in Singapore in accordance with such rates as may be prescribed by the Minister;
 
 (k) prescribe the manner in which any fee or tax payable under the rules is to be levied and collected, including the use of electronic or computerised or other facilities, and the use by the foreign vehicle concerned of specified points of exit from Singapore, for that purpose;
@@ -1165,6 +1167,8 @@ shall be guilty of an offence and shall be liable on conviction —
 (4) Where a person is convicted of an offence under any of the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of such fees or taxes as may be certified by an officer appointed by the Authority to be due and payable by him at the date of his conviction, and such amount may be recovered according to the law for the time being in force for the recovery of fines.
 
 [45/99]
+
+(5) [Deleted by Act 1/2006 wef 23/06/2006]
 
 ### Registration and identification marks
 
@@ -1606,6 +1610,8 @@ ROAD-USER CHARGES
 
 (i) require all vehicles (whether registered in Singapore or elsewhere) to be installed with such devices and appurtenances and in such manner as may be prescribed before they may be ridden, driven or moved on a specified road during the prescribed hours;
 
+(ii) [Deleted by Act 1/2006 wef 23/06/2006]
+
 (iii) prohibit the sale, supply, installation, repair or maintenance of any device or appurtenance prescribed under sub-paragraph (i) by any person not authorised by the Registrar to do so;
 
 (iv) specify the conditions under which any device or appurtenance prescribed under sub-paragraph (i) may be removed from one vehicle and installed in another or transferred from one person to another; and
@@ -1617,6 +1623,8 @@ ROAD-USER CHARGES
 (2) Where a person is convicted of an offence under the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of road-user charge as may be certified by an officer appointed by the Authority in that behalf to be due from such person at the date of such conviction and such amount may be recovered according to the law for the time being in force for the recovery of fines.
 
 [5/98]
+
+(3) [Deleted by Act 1/2006 wef 23/06/2006]
 
 ### Registrar’s power of inspection and seizure, etc.
 
@@ -2010,7 +2018,9 @@ whichever period is the longer.
 
 ### Recording of particulars of convictions or disqualifications by Deputy Commissioner of Police
 
-44\.—(1) Where a person is convicted of an offence in connection with the driving of a motor vehicle or is disqualified by any court from holding or obtaining a driving licence, the court shall send notice of the conviction or order of disqualification to the Deputy Commissioner of Police who shall thereupon cause particulars of the conviction or disqualification to be recorded and maintained for a period not exceeding 3 years from the date of the conviction or expiry of disqualification, as the case may be.
+44\.—(1) Where a person is convicted of an offence in connection with the driving of a motor vehicle or is disqualified by any court from holding or obtaining a driving licence, the court shall send notice of the conviction or order of disqualification to the Deputy Commissioner of Police who shall thereupon cause particulars of the conviction or disqualification to be recorded.
+
+[2/2007 wef 01/03/2007]
 
 (2) In any proceedings in any court, a certificate, purporting to be signed by the Deputy Commissioner of Police or any officer authorised by him, relating to the particulars of any conviction or disqualification recorded and maintained under subsection (1) shall be prima facie evidence of the conviction or disqualification.
 
@@ -5193,6 +5203,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 39/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
 ||Date of commencement|23 June 2006|
+|52.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
