@@ -310,6 +310,10 @@
 
 - [43X Concessionary rate of tax for trust income to which beneficiary is entitled](#Concessionary-rate-of-tax-for-trust-income-to-which-beneficiary-is-entitled)
 
+- [43Y Concessionary rate of tax for leasing of aircraft and aircraft engines](#Concessionary-rate-of-tax-for-leasing-of-aircraft-and-aircraft-engines)
+
+- [43Z Concessionary rate of tax for aircraft investment manager](#Concessionary-rate-of-tax-for-aircraft-investment-manager)
+
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
 - [44 Deduction of tax from dividends of companies](#Deduction-of-tax-from-dividends-of-companies)
@@ -500,7 +504,7 @@
 
 - [106 Powers to amend Schedules](#Powers-to-amend-Schedules)
 
-- [107 Central Fund Administrator and institution of a public character approved under section 37](#Central-Fund-Administrator-and-institution-of-a-public-character-approved-under-section-37)
+- [107 (Repealed)](#Repealed)
 
 - [108 Advance rulings](#Advance-rulings)
 
@@ -568,8 +572,6 @@ PRELIMINARY
 
 “body of persons” means any body politic, corporate or collegiate, any corporation sole and any fraternity, fellowship or society of persons whether corporate or unincorporate but does not include a company or a partnership;
 
-“Central Fund Administration” means any institution of a public character appointed to be a Central Fund Administrator under section 107(1);
-
 “Commonwealth”, in relation to a country, means any country recognised by the President to be a Commonwealth country and “part of the Commonwealth” means any Commonwealth country, colony, protectorate or protected state or any other territory administered by the government of any Commonwealth country;
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
@@ -616,25 +618,9 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 “incapacitated person” means any infant, lunatic, idiot or insane person;
 
-“institution of a public character” means an institution or fund in Singapore which is —
+“institution of a public character” has the same meaning as in the Charities Act (Cap. 37);
 
-(a) a hospital not operated or conducted for profit;
-
-(b) a public or benevolent institution not operated or conducted for profit;
-
-(c) a public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings, where the donation is for such activities;
-
-(d) a university or a public fund for the establishment, maintenance, enlargement or improvement of a university;
-
-(e) an educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution;
-
-(f) a public or private fund for the provision, establishment or endowment of a scholarship, exhibition or prize in a university, or an educational institution not operated or conducted for profit;
-
-(g) a public fund established and maintained for the relief of distress among members of the public;
-
-(h) a charitable institution or a body of persons or a trust established for charitable purposes only; or
-
-(i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports;
+[10/2007 wef 01/03/2007]
 
 “issued shares” excludes treasury shares;
 
@@ -2905,11 +2891,11 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 ### Exemption of certain dividends
 
-13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R , 43S, 43T, 43U, 43V, 43Wor 43X, the following provisions of this section shall have effect.
+13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R , 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, the following provisions of this section shall have effect.
 
 [1/82; 15/83; 31/86; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
 
-(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance withregulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W , 43X, 43Y or 43Z, or the regulations made thereunder, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
 
 [15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 1/98; 31/98; 37/2002; 21/2003]
 
@@ -2939,7 +2925,7 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X; or
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder; or
 
 (b) any dividend which has been exempted from tax in the hands of any shareholder,
 
@@ -3061,7 +3047,7 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
 (c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
 
@@ -4417,7 +4403,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) the regulations made under section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be; or
 
 (c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -4777,7 +4763,7 @@ is the amount of qualifying expenditure incurred.
 
 (8) Subject to subsection (9), as soon as a deduction is allowed under this section to a company resident in Singapore, an amount (referred to in this section as further deduction) computed in accordance with the formula
 
-shall be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5).
+all be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5).
 
 [21/2003]
 
@@ -5443,7 +5429,7 @@ and increased by any balancing charges made; or
 
 (ii) in the case of an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over the total amount of initial allowance allowable in respect of the asset under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
 
-(b) for the purposes of paragraph (a), in the case of any aircraft which is acquired on or after 1st March 1995 by a leasing company carrying on the business of offshore leasing within the meaning of section 43I , the number of years of working life of the aircraft specified in the Sixth Schedule may, on the application of the leasing company, be extended irrevocably for such period not exceeding 20 years as approved by the Minister or such person as he may appoint;
+(b) for the purposes of paragraph (a), in the case of any aircraft which is acquired on or after 1st March 1995 by a leasing company carrying on the business of offshore leasing within the meaning of section 43I or is acquired by an approved aircraft leasing company within the meaning of section 43Y, the number of years of working life of the aircraft specified in the Sixth Schedule may, on the application of the leasing company, be extended irrevocably for such period not exceeding 20 years as approved by the Minister or such person as he may appoint;
 
 (c) notwithstanding paragraphs (a) and (b), the annual allowance in respect of any asset for any year of assessment may, at the election of a person to whom a certificate has been issued before 1st January 1981 (or after 1st January 1981 where application for the certificate has been approved before that date) under Part II, IV, VI, VII, XI or XII of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), be ascertained during his tax relief period as determined in accordance with that certificate at the rates applicable immediately before 4th December 1980 and shall be computed on the reducing value of the asset, which shall be the original cost of the asset reduced by any initial allowance and annual allowances granted under this section;
 
@@ -7097,11 +7083,11 @@ ASCERTAINMENT OF ASSESSABLE INCOME
 
 and for this purpose, “approved” means approved by the Minister or such person as he may appoint;
 
-(c) an amount equivalent to twice the amount of any donation of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character approved by the Minister, Comptroller or any Central Fund Administrator on application by that institution;
+(c) an amount equivalent to twice the amount of any donation of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character ;
 
 (d) an amount equivalent to twice the value of any donation of a computer (including computer software and peripherals) approved by the Minister or such person as he may appoint and made by any company in the year preceding the year of assessment to —
 
-(i) any institution of a public character approved by the Minister, Comptroller or any Central Fund Administrator on application by that institution; or
+(i) any institution of a public character; or
 
 (ii) a prescribed educational, research or other institution in Singapore;
 
@@ -7113,9 +7099,9 @@ and for this purpose, “approved” means approved by the Minister or such pers
 
 (ii) twice the value of any donation of units in unit trusts traded in Singapore or listed on the Singapore Exchange,
 
-made by an individual in the year preceding the year of assessment to any institution of a public characterapproved by the Minister, Comptroller or any Central Fund Administrator on the application by that institution; and
+made by an individual in the year preceding the year of assessment to any institution of a public character ; and
 
-(f) an amount equivalent to twice the value, the value to be determined by an appraiser licensed under the Appraisers and House Agents Act (Cap. 16) and approved by the Chief Valuer appointed under the State Lands Act (Cap. 314), of any donation of any immovable property made by him in the year preceding the year of assessment to any institution of a public characterapproved by the Minister, Comptroller or any Central Fund Administrator on the application by that institution.
+(f) an amount equivalent to twice the value, the value to be determined by an appraiser licensed under the Appraisers and House Agents Act (Cap. 16) and approved by the Chief Valuer appointed under the State Lands Act (Cap. 314), of any donation of any immovable property made by him in the year preceding the year of assessment to any institution of a public character .
 
 [31/86; 1/90; 26/93; 31/98; 24/2001; 37/2002; 21/2003]
 
@@ -7300,8 +7286,6 @@ is the lower rate of tax for that year of assessment;
 “higher rate of tax” or “lower rate of tax” means the rate of tax under section 43(1)(a) or the concessionary rate of tax in accordance with —
 
 (a) any order made under section 13(12); or
-
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, as the case may be;
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -7699,7 +7683,7 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W or 43X, , as the case may be.
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be.
 
 (18) This section shall not apply to —
 
@@ -8392,6 +8376,14 @@ is the chargeable income of the person for the year of assessment.
 (7) Subsection (6) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
 (a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
+
+(b) any discount derived from —
+
+(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+
+[7/2007 wef 17/02/2006]
 
 (c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
 
@@ -9251,6 +9243,70 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 
 [Act 7/2007, wef Y/A 2008 & Sub Ys/A:2007-ACT-7]
 
+### Concessionary rate of tax for leasing of aircraft and aircraft engines
+
+43Y\.—(1) Notwithstanding section 43, tax at the rate of 10% or 5% as the Minister (or such person as the Minister may appoint) may specify, shall be levied and paid for each year of assessment upon the income of an approved aircraft leasing company accruing in or derived from Singapore in respect of leasing of any aircraft or aircraft engine or such other activity as may be prescribed by regulations.
+
+(2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved aircraft leasing company subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(3) Tax at the concessionary rate of the income of an approved aircraft leasing company under subsection (1) shall be for a period not exceeding 5 years, except that the Minister or such person as he may appoint may extend that period for a further period or periods, each of which shall not exceed 5 years.
+
+(4) Approval may be granted under this section between 1st March 2007 and 29th February 2012.
+
+(5) In determining the income of an approved aircraft leasing company from the leasing of any aircraft or aircraft engine —
+
+(a) the allowances under section 19, 19A, 20, 21, 22 or 23 shall be taken into account notwithstanding that no claim for such allowances has been made;
+
+(b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of finance leasing in any year of assessment shall be deducted against the income from such leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
+
+(c) where the approved aircraft leasing company ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction against the income from such leasing shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
+
+(d) the Comptroller shall determine the manner and extent to which —
+
+(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
+
+(ii) any loss may be deducted under section 37.
+
+(6) Subsection (5) shall apply, with the necessary modifications, in determining the income of an approved aircraft leasing company from any activity prescribed by regulations made under subsection (1) as if such income were income from operating leasing.
+
+(7) In this section —
+
+“aircraft leasing company” means a company incorporated and resident in Singapore or a registered business trust, carrying on a business of leasing aircraft or aircraft engines;
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“finance leasing”, in relation to any aircraft or aircraft engine, means a lease of the aircraft or aircraft engine (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such aircraft or aircraft engine to the lessee;
+
+“leasing of any aircraft or aircraft engine” means the leasing of any aircraft or aircraft engine, other than one which has been treated as though it had been sold pursuant to regulations made under section 10D(1);
+
+“operating leasing”, in relation to any aircraft or aircraft engine, means the leasing of the aircraft or aircraft engine, other than finance leasing.
+
+[53/2007 wef 01/03/2007]
+
+### Concessionary rate of tax for aircraft investment manager
+
+43Z\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved aircraft investment manager derived by it on or after 1st March 2007 from —
+
+(a) managing an approved aircraft leasing company; or
+
+(b) such other services or activities carried out for an approved aircraft leasing company as may be prescribed by regulations.
+
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
+
+(3) The concessionary rate of tax referred to in subsection (1) shall apply to an approved aircraft investment manager subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(4) Approval may be granted under this section between 1st March 2007 and 29th February 2012.
+
+(5) In this section —
+
+“aircraft investment manager” means any company incorporated in Singapore;
+
+“aircraft leasing company” has the same meaning as in section 43Y;
+
+“approved” means approved by the Minister or such person as he may appoint.
+
+[53/2007 wef 01/03/2007]
+
 ## PART XII
 
 DEDUCTION OF TAX AT SOURCE
@@ -9737,7 +9793,7 @@ ALLOWANCES FOR TAX CHARGED
 
 46\.—(1) Any tax —
 
-(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D or 45E (1) (a) or has deducted from any remuneration under section 45B;
+(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D or 45E(1)(a) or has deducted from any remuneration under section 45B;
 
 (b) applicable to the share to which any person is entitled in the income of —
 
@@ -10311,7 +10367,7 @@ the rate of exchange applicable shall be the rate of exchange prevailing as at t
 
 67\.—(1) Subject to subsection (3), every person carrying on or exercising any trade, business, profession or vocation —
 
-(a) shall keep and retain in safe custody sufficient records for a period of 7 years from the year of assessment to which any income relates to enable his income and allowable deductions under this Act to be readily ascertained by the Comptroller or any officer authorised in that behalf by the Comptroller; and
+(a) shall keep and retain in safe custody sufficient records for a period of 5 years from the year of assessment to which any income relates to enable his income and allowable deductions under this Act to be readily ascertained by the Comptroller or any officer authorised in that behalf by the Comptroller; and
 
 (b) shall, if the gross receipts from such trade, business, profession or vocation in the preceding calendar year exceeded $18,000 from the sale of goods, or $12,000 from the performance of services, issue a printed receipt serially numbered for every sum received in respect of goods sold or services performed in the course of or in connection with such trade, business, profession or vocation, and shall retain a duplicate of every such receipt.
 
@@ -11189,7 +11245,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/92; 24/2000]
 
-(2) Any penalty imposed under section 44(19), 45(4), 87(1), 91(4) or 107(3) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+(2) Any penalty imposed under section 44(19), 45(4), 87(1) or 91(4) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
 
 [2/92; 37/2002; 21/2003]
 
@@ -11263,45 +11319,7 @@ MISCELLANEOUS
 
 [4/75; 28/80]
 
-### Central Fund Administrator and institution of a public character approved under section 37
-
-107\.—(1) The Minister may appoint any institution of a public character to be a Central Fund Administrator for the purposes of approving institutions of a public character and regulating the administration of donations made to an institution of a public character approved under section 37.
-
-[21/2003]
-
-(2) For the purposes of this section, the Minister may make regulations to provide for —
-
-(a) the manner and criteria to be adopted by Central Fund Administrators —
-
-(i) for the approval of institutions of a public character; and
-
-(ii) for the extension and revocation of the approval granted to institutions of a public character;
-
-[49/2004 wef 01/01/2004]
-
-(aa) the regulation of any amendment of the constitution or any other governing instrument of any institution of a public character approved under section 37;
-
-[49/2004 wef 01/01/2004]
-
-(b) the use of donations, issue of tax deduction receipts and maintenance of donation records and accounts by institutions of a public character approved under section 37; and
-
-(c) generally giving effect to or for carrying out the purposes of this section.
-
-[21/2003]
-
-(3) Where any Central Fund Administrator appointed by the Minister or any institution of a public character approved by the Minister, Comptroller or any Central Fund Administrator under section 37 contravenes any regulations made under subsection (2) —
-
-(a) the Central Fund Administrator or the institution of a public character, as the case may be, shall be liable to pay to the Comptroller a financial penalty of the higher of $100 or the amount ascertained by the formula
-
-(b) the Minister may revoke the appointment of the Central Fund Administrator; and
-
-(c) the Minister, Comptroller or the appropriate Central Fund Administrator may revoke the approval granted to the institution of a public character.
-
-[21/2003]
-
-(4) The Comptroller may remit or refund the whole or any part of the financial penalty payable by any Central Fund Administrator or approved institution of a public character under subsection (3)(a).
-
-[21/2003]
+107\. [Repealed by Act 10/2007 wef 01/03/2007]
 
 ### Advance rulings
 
@@ -11724,7 +11742,7 @@ Name of Bond, Securities, Stock or Fund
 
 13. Singapore Government Tax Free 61/4% Registered Stocks 1983 (Maturing 15th May 2003) Loan No. 1.
 
-[S 169/71; S84/72; S85/72; S168/72; S239/72; S22/73; S176/73; S340/73; S238/74; S171/75; S238/75; S4/76; S101/76; S159/76; S226/76; S87/77; S 257/77; S258/77; S113/78; S185/78; S275/78; S63/79; S148/79; S234/79; S103/80; S251/80; S336/80; S129/82; S168/83]
+[S 169/71; S 84/72; S 85/72; S 168/72; S 239/72; S 22/73; S 176/73; S 340/73; S 238/74; S 171/75; S 238/75; S 4/76; S 101/76; S 159/76; S 226/76; S 87/77; S 257/77; S 258/77; S 113/78; S 185/78; S 275/78; S 63/79; S 148/79; S 234/79; S 103/80; S 251/80; S 336/80; S 129/82; S 168/83]
 
 FIFTH SCHEDULE
 
@@ -13056,6 +13074,21 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 30/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|15 February 2007 (Sections 31(a), (b))|
+|217.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (section 3 — amendment of Income Tax Act)|
+|218.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
+|219.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 March 2007 (Sections 15(a), 28, 42(c), (d), (g), (i), 43(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
