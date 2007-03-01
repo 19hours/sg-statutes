@@ -1424,6 +1424,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|8.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Dates of commencement|1st March 2007 (Except sections 6, 8 and 11)|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
