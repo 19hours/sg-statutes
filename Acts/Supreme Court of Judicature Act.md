@@ -400,13 +400,13 @@ General
 
 ### When High Court is open
 
-10B\.—(1) Subject to subsection (2), the High Court shall sit on every day of the year except on Sundays and public holidays.
+10B\.—(1) Subject to subsection (2), the High Court shall sit on every day of the year except on Saturdays, Sundays and public holidays.
 
 [2/2007 wef 01/03/2007]
 
 [8/98]
 
-(2) Notwithstanding subsection (1), a Judge may lawfully sit on a Sunday or public holiday or during a vacation prescribed under section 12 if —
+(2) Notwithstanding subsection (1), a Judge may lawfully sit on a Saturday, Sunday or public holiday or during a vacation prescribed under section 12 if —
 
 (a) the Chief Justice has directed the Judge to sit on that day or during that vacation; or
 
@@ -758,7 +758,7 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 ### Sittings of Court of Appeal
 
-32\.—(1) The Court of Appeal shall sit on such dates (whether or not a Sunday or public holiday or during a vacation prescribed under section 12) and at such places as the Chief Justice may from time to time appoint.
+32\.—(1) The Court of Appeal shall sit on such dates (whether or not a Saturday, Sunday or public holiday or during a vacation prescribed under section 12) and at such places as the Chief Justice may from time to time appoint.
 
 [2/2007 wef 01/03/2007]
 
@@ -1278,13 +1278,13 @@ Offices
 
 ### Registry to be open throughout the year
 
-72\.—(1) The Registry of the Supreme Court shall be open on every day of the year except on Sundays and public holidays.
+72\.—(1) The Registry of the Supreme Court shall be open on every day of the year except on Saturdays, Sundays and public holidays.
 
 [2/2007 wef 01/03/2007]
 
 [8/98]
 
-(2) Notwithstanding subsection (1), the Registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
+(2) Notwithstanding subsection (1), the Registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —
 
 (a) the Chief Justice has directed the Registrar to do so on that day; or
 
@@ -1476,8 +1476,6 @@ Council of Judges
 
 Supplemental
 
-[42/2005 wef 01/01/2006]
-
 ### Conversion of pending petitions and motions to writs of summons, originating summonses and summonses
 
 82\.—(1) Where —
@@ -1504,11 +1502,7 @@ Additional Powers of the High Court
 
 Prerogative orders
 
-1\. Power to issue to any person or authority any direction, order or writ for the enforcement of any right conferred by any written law or for any other purpose, including the following prerogative orders:
-
-Prerogative writs
-
-1.
+1. Power to issue to any person or authority any direction, order or writ for the enforcement of any right conferred by any written law or for any other purpose, including the following prerogative orders:
 
 (a) a Mandatory Order (formerly known asmandamus);
 
@@ -1517,8 +1511,6 @@ Prerogative writs
 (c) a Quashing Order (formerly known ascertiorari); and
 
 (d) an Order for Review of Detention (formerly known as a writ ofhabeas corpus).
-
-[42/2005 wef 01/01/2006]
 
 Partition and sale in lieu of partition
 
@@ -1722,6 +1714,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 30/2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (section 4 — amendment of Supreme Court of Judicature Act)|
+|21.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (section 17 — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
