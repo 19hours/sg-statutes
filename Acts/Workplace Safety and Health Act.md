@@ -8,7 +8,7 @@
 
 [**Enacting Formula**](#Enacting-Formula)
 
-[**Part I Preliminary**](#Part-I)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title and commencement](#Short-title-and-commencement)
 
@@ -16,7 +16,7 @@
 
 - [3 Application of Act to Government](#Application-of-Act-to-Government)
 
-[**Part II Interpretation**](#Part-II)
+[**Part II INTERPRETATION**](#Part-II)
 
 - [4 General interpretation](#General-interpretation)
 
@@ -24,7 +24,7 @@
 
 - [6 Meanings of "employee" and "employer"](#Meanings-of-"employee"-and-"employer")
 
-[**Part III Administration of Act**](#Part-III)
+[**Part III ADMINISTRATION OF ACT**](#Part-III)
 
 - [7 Appointment of Commissioner for Workplace Safety and Health and other officers](#Appointment-of-Commissioner-for-Workplace-Safety-and-Health-and-other-officers)
 
@@ -32,7 +32,7 @@
 
 - [9 Identification of inspectors and authorised officers](#Identification-of-inspectors-and-authorised-officers)
 
-[**Part IV General duties of persons at workplaces**](#Part-IV)
+[**Part IV GENERAL DUTIES OF PERSONS AT WORKPLACES**](#Part-IV)
 
 - [10 Duties according to different capacities](#Duties-according-to-different-capacities)
 
@@ -56,7 +56,7 @@
 
 - [20 Offence of breaching duty under this Part](#Offence-of-breaching-duty-under-this-Part)
 
-[**Part V Powers of Commissioner**](#Part-V)
+[**Part V POWERS OF COMMISSIONER**](#Part-V)
 
 - [21 Power to issue remedial order or stop-work order](#Power-to-issue-remedial-order-or-stop-work-order)
 
@@ -64,7 +64,7 @@
 
 - [23 Power to suspend certificate](#Power-to-suspend-certificate)
 
-[**Part VI Investigations, inquiries and reporting of accidents, dangerous occurrences and occupational diseases**](#Part-VI)
+[**Part VI INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and occupational diseases**](#Part-VI)
 
 - [24 Investigation into accidents, dangerous occurrences, etc.](#Investigation-into-accidents-dangerous-occurrences-etc)
 
@@ -74,7 +74,7 @@
 
 - [27 Notification and reporting of accidents, dangerous occurrences, etc.](#Notification-and-reporting-of-accidents-dangerous-occurrences-etc)
 
-[**Part VII Safety and health management arrangements**](#Part-VII)
+[**Part VII SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS**](#Part-VII)
 
 - [28 Workplace safety and health officers and co-ordinators](#Workplace-safety-and-health-officers-and-co-ordinators)
 
@@ -98,13 +98,13 @@
 
 - [38 Offence under this Part](#Offence-under-this-Part)
 
-[**Part VIII Codes of practice**](#Part-VIII)
+[**Part VIII CODES OF PRACTICE**](#Part-VIII)
 
 - [39 Codes of practice](#Codes-of-practice)
 
 - [40 Use of approved codes of practice in criminal proceedings](#Use-of-approved-codes-of-practice-in-criminal-proceedings)
 
-[**Part IX Inspections and other powers of enforcement**](#Part-IX)
+[**Part IX INSPECTIONS AND OTHER POWERS OF Enforcement**](#Part-IX)
 
 - [41 Powers of inspectors](#Powers-of-inspectors)
 
@@ -116,7 +116,7 @@
 
 - [45 Persons not to reveal protected information](#Persons-not-to-reveal-protected-information)
 
-[**Part X Offences, penalties and proceedings**](#Part-X)
+[**Part X OFFENCES, PENALTIES AND PROCEEDINGS**](#Part-X)
 
 - [46 Unregistered factories](#Unregistered-factories)
 
@@ -144,7 +144,7 @@
 
 - [58 Power to apportion expenses](#Power-to-apportion-expenses)
 
-[**Part XI General**](#Part-XI)
+[**Part XI GENERAL**](#Part-XI)
 
 - [59 Relation to other laws](#Relation-to-other-laws)
 
@@ -216,7 +216,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ## PART I
 
-Preliminary
+PRELIMINARY
 
 ### Short title and commencement
 
@@ -244,7 +244,7 @@ Preliminary
 
 ## PART II
 
-Interpretation
+INTERPRETATION
 
 ### General interpretation
 
@@ -592,7 +592,7 @@ unless the occupier of the factory proves that he is not the employer of the per
 
 ## PART III
 
-Administration of Act
+ADMINISTRATION OF ACT
 
 ### Appointment of Commissioner for Workplace Safety and Health and other officers
 
@@ -620,7 +620,7 @@ Administration of Act
 
 ## PART IV
 
-General duties of persons at workplaces
+GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 ### Duties according to different capacities
 
@@ -876,7 +876,7 @@ in respect of anything to be done or provided by him in accordance with this Act
 
 ## PART V
 
-Powers of Commissioner
+POWERS OF COMMISSIONER
 
 ### Power to issue remedial order or stop-work order
 
@@ -956,7 +956,7 @@ Powers of Commissioner
 
 ## PART VI
 
-Investigations, inquiries and reporting of accidents, dangerous occurrences and occupational diseases
+INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and occupational diseases
 
 ### Investigation into accidents, dangerous occurrences, etc.
 
@@ -1046,7 +1046,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VII
 
-Safety and health management arrangements
+SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
 
 ### Workplace safety and health officers and co-ordinators
 
@@ -1224,7 +1224,7 @@ the Commissioner shall give notice in writing to that person of the date from wh
 
 ## PART VIII
 
-Codes of practice
+CODES OF PRACTICE
 
 ### Codes of practice
 
@@ -1284,7 +1284,7 @@ Codes of practice
 
 ## PART IX
 
-Inspections and other powers of enforcement
+INSPECTIONS AND OTHER POWERS OF Enforcement
 
 ### Powers of inspectors
 
@@ -1410,7 +1410,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART X
 
-Offences, penalties and proceedings
+OFFENCES, PENALTIES AND PROCEEDINGS
 
 ### Unregistered factories
 
@@ -1580,7 +1580,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 ## PART XI
 
-General
+GENERAL
 
 ### Relation to other laws
 
@@ -1900,7 +1900,15 @@ Workplaces subject to Act
 
 1\. Any premises which is a factory.
 
-2\. Any premises within an airport where any checking, inspecting, cleaning, loading, unloading or refueling of an aircraft is carried out by persons other than by the crew of the aircraft.
+2. Any premises within an airport where —
+
+(a) any checking or inspection of an aircraft or its contents; or
+
+(b) any cleaning, loading, unloading or refueling of an aircraft,
+
+is carried out by any person other than by the crew of the aircraft.
+
+[S 72/2007 wef 01/03/2007]
 
 3. Any ship in a harbour where —
 
@@ -1919,6 +1927,14 @@ is carried out.
 6\. Any premises (other than domestic premises) in which a steam boiler, steam receiver or air receiver is used.
 
 7\. Any laboratory or other premises where the testing, examination or analysis of any article is carried out.
+
+8. Any ship where any survey or inspection of the ship or its contents is carried out by any person other than by the crew of the ship.
+
+[S 72/2007 wef 01/03/2007]
+
+9. Any tunnel, bridge or viaduct where any survey or inspection of the tunnel, bridge or viaduct is carried out.
+
+[S 72/2007 wef 01/03/2007]
 
 SECOND SCHEDULE
 
