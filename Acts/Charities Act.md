@@ -16,7 +16,13 @@
 
 - [3 Appointment of Commissioner of Charities and other officers](#Appointment-of-Commissioner-of-Charities-and-other-officers)
 
-- [4 Functions of Commissioner](#Functions-of-Commissioner)
+- [4 Objectives and general functions of Commissioner](#Objectives-and-general-functions-of-Commissioner)
+
+[**Part IIA CHARITY COUNCIL**](#Part-IIA)
+
+- [4A Charity Council](#Charity-Council)
+
+- [4B Functions of Council](#Functions-of-Council)
 
 [**Part III REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES**](#Part-III)
 
@@ -68,7 +74,13 @@
 
 - [25 Power to act for protection of charities](#Power-to-act-for-protection-of-charities)
 
+- [25A Power to suspend or remove trustees, etc., from membership of charity](#Power-to-suspend-or-remove-trustees-etc-from-membership-of-charity)
+
 - [26 Supplementary provisions relating to receiver and manager appointed for a charity](#Supplementary-provisions-relating-to-receiver-and-manager-appointed-for-a-charity)
+
+- [26A Power to direct application of charity property](#Power-to-direct-application-of-charity-property)
+
+- [26B Power to direct application of charity property after charity ceases to exist](#Power-to-direct-application-of-charity-property-after-charity-ceases-to-exist)
 
 - [27 Persons disqualified for being trustees of a charity](#Persons-disqualified-for-being-trustees-of-a-charity)
 
@@ -98,9 +110,21 @@
 
 [**Part VIII FUND-RAISING APPEALS**](#Part-VIII)
 
-- [39 Prohibition on conducting fund-raising appeal without permit](#Prohibition-on-conducting-fund-raising-appeal-without-permit)
+- [39 Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [39A Prohibition on conducting fund-raising appeal without permit](#Prohibition-on-conducting-fund-raising-appeal-without-permit)
+
+- [39B Power of Commissioner to prohibit or restrict fund-raising appeal](#Power-of-Commissioner-to-prohibit-or-restrict-fund-raising-appeal)
 
 - [40 Exclusion of judicial review](#Exclusion-of-judicial-review)
+
+[**Part VIIIA INSTITUTIONS OF A PUBLIC CHARACTER AND SECTOR ADMINISTRATORS**](#Part-VIIIA)
+
+- [40A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [40B Appointment of Sector Administrators](#Appointment-of-Sector-Administrators)
+
+- [40C Regulations relating to institutions of a public character and Sector Administrators](#Regulations-relating-to-institutions-of-a-public-character-and-Sector-Administrators)
 
 [**Part IX MISCELLANEOUS**](#Part-IX)
 
@@ -116,7 +140,11 @@
 
 - [46 Appeals from Commissioner](#Appeals-from-Commissioner)
 
+- [46A Protection from liability](#Protection-from-liability)
+
 - [47 Power to compound](#Power-to-compound)
+
+- [47A Prosecution of offences](#Prosecution-of-offences)
 
 - [48 Regulations](#Regulations)
 
@@ -136,7 +164,7 @@ REVISED EDITION 1995
 
 (15th March 1995)
 
-An Act to make provision for the registration of charities, the administration of charities and their affairs, the regulation of fund-raising activities carried on in connection with charities and other institutions and the conduct of public charitable collections and for purposes connected therewith.
+An Act to make provision for the registration of charities, the administration of charities and their affairs, the regulation of charities and institutions of a public character, the regulation of fund-raising activities carried on in connection with charities and other institutions and the conduct of fund-raising appeals, and for purposes connected therewith.
 
 [1st January 1995]
 
@@ -165,6 +193,10 @@ PRELIMINARY
 “Commissioner” means the Commissioner of Charities appointed under section 3;
 
 “company” means a company incorporated or registered under any law in force in Singapore or elsewhere;
+
+“Council” means the Charity Council established under section 4A;
+
+[10/2007 wef 01/03/2007]
 
 “document” includes information recorded in any form, and, in relation to information recorded otherwise than in legible form —
 
@@ -208,15 +240,69 @@ COMMISSIONER OF CHARITIES
 
 (b) a Deputy Commissioner and such Assistant Commissioners of Charities or such other officers as he may think necessary to assist the Commissioner in the proper discharge of his functions.
 
-(2) The Deputy Commissioner of Charities shall have and may exercise all the powers, duties and functions of the Commissioner except those which are exercisable under sections 24, 25 and 30.
+(2) The Deputy Commissioner of Charities shall have and may exercise all the powers, duties and functions of the Commissioner except those which are exercisable under sections 24, 25, 25A, 26A, 26B and 30.
 
-### Functions of Commissioner
+(3) An Assistant Commissioner of Charities shall have and may exercise all the powers, duties and functions of the Commissioner as may be delegated to him by the Commissioner in writing, except those which are exercisable under sections 24, 25, 25A, 26A, 26B and 30.
 
-4\.—(1) The Commissioner shall have the general function of promoting the effective use of charitable resources by encouraging the development of better methods of administration, by giving charity trustees information on any matter affecting the charity and by investigating and checking abuses.
+[10/2007 wef 01/03/2007]
 
-(2) It shall be the general object of the Commissioner so to act in the case of any charity (unless it is a matter of altering its purposes) as best to promote and make effective the work of the charity in meeting the needs designated by its trusts; but the Commissioner shall not have power to act in the administration of a charity.
+### Objectives and general functions of Commissioner
 
-(3) The Commissioner shall, as soon as possible after the end of every year, make to the Minister a report on his operations during that year, and the Minister shall present a copy of the report to Parliament.
+4\.—(1) The objectives of the Commissioner shall be —
+
+(a) to maintain public trust and confidence in charities;
+
+(b) to promote compliance by charity trustees with their legal obligations in exercising control and management of the administration of their charities;
+
+(c) to promote the effective use of charitable resources; and
+
+(d) to enhance the accountability of charities to donors, beneficiaries and the general public.
+
+(2) The general functions of the Commissioner shall be —
+
+(a) to determine whether institutions are or are not charities;
+
+(b) to encourage and facilitate the better administration of charities;
+
+(c) to identify and investigate apparent misconduct or mismanagement in the administration of charities;
+
+(d) to take remedial or protective action in connection with misconduct or mismanagement in the administration of charities;
+
+(e) to obtain, evaluate and disseminate information in connection with the performance of any of the Commissioner’s functions or meeting any of the Commissioner’s objectives;
+
+(f) to give information or advice, or make proposals, to the Minister on matters relating to any of the Commissioner’s functions or meeting any of the Commissioner’s objectives; and
+
+(g) to perform such other functions as the Minister may determine.
+
+(3) The Commissioner shall, as soon as possible after the end of every year, submit to the Minister a report on his operations during that year, and the Minister shall present a copy of the report to Parliament.
+
+[10/2007 wef 01/03/2007]
+
+## PART IIA
+
+CHARITY COUNCIL
+
+[10/2007 wef 01/03/2007]
+
+### Charity Council
+
+4A\.—(1) There shall be established a Charity Council consisting of a Chairman and such other members as the Minister may appoint.
+
+(2) The Chairman and other members of the Council shall be appointed for such duration and on such terms and conditions as the Minister may determine.
+
+### Functions of Council
+
+4B\.—(1) The functions of the Council shall be —
+
+(a) to advise the Commissioner on any question which he may refer to it in connection with the administration of this Act, and the objectives and functions of the Commissioner under this Act;
+
+(b) to make such recommendations to the Commissioner as it may think fit in relation to the regulation of charities; and
+
+(c) to promote self-regulation and good governance standards in the charity sector.
+
+(2) The Council may perform such other functions as the Minister may determine.
+
+(3) The Council may regulate its own procedure.
 
 ## PART III
 
@@ -229,6 +315,22 @@ REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 (2) There shall be entered in the register every charity not excepted by subsection (4); and a charity so excepted may be entered in the register at the request of the charity, but (whether or not it was excepted at the time of registration) may at any time, and shall at the request of the charity, be removed from the register.
 
 (3) Any institution which no longer appears to the Commissioner to be a charity shall be removed from the register with effect, where the removal is due to any change in its purposes or trusts, from the date of that change; and there shall also be removed from the register any charity which ceases to exist or does not operate.
+
+(3A) The Commissioner shall refuse to register an institution as a charity —
+
+(a) if it appears to the Commissioner that the registration of the institution will be contrary to the public interest; or
+
+(b) on such other ground as the Minister may prescribe.
+
+[10/2007 wef 01/03/2007]
+
+(3B) The Commissioner shall remove an institution from the register of charities —
+
+(a) if it appears to the Commissioner that the continued registration of the institution as a charity is contrary to the public interest; or
+
+(b) on such other ground as the Minister may prescribe.
+
+[10/2007 wef 01/03/2007]
 
 (4) The following charities are not required to be registered:
 
@@ -428,9 +530,9 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 (b) a record of the assets and liabilities of the charity.
 
-(3) The charity trustees of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 7 years from the end of the financial year of the charity in which they are made.
+(3) The charity trustees of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years from the end of the financial year of the charity in which they are made.
 
-(4) Where a charity ceases to exist within the period of 7 years mentioned in subsection (3) as it applies to any accounting records, the obligation to preserve those records in accordance with that subsection shall continue to be discharged by the last charity trustees of the charity, unless the Commissioner consents in writing to the records being destroyed or otherwise disposed of.
+(4) Where a charity ceases to exist within the period of 5 years mentioned in subsection (3) as it applies to any accounting records, the obligation to preserve those records in accordance with that subsection shall continue to be discharged by the last charity trustees of the charity, unless the Commissioner consents in writing to the records being destroyed or otherwise disposed of.
 
 (5) Nothing in this section shall apply to an exempt charity or a charity which is a company.
 
@@ -454,7 +556,7 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 (b) any account and statement prepared by them under subsection (3),
 
-for at least 7 years from the end of the financial year to which any such statement relates or to which any such account and statement relate, as the case may be.
+for at least 5 years from the end of the financial year to which any such statement relates or to which any such account and statement relate, as the case may be.
 
 (5) Section 12(4) shall apply, mutatis mutandis, in relation to the preservation of any such statement or account and statement as it applies in relation to the preservation of any accounting records.
 
@@ -512,7 +614,7 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (e) enabling the Commissioner, in circumstances specified in any regulations made under this Act, to dispense with the requirements of section 14(2) or (3) in the case of a particular charity or in the case of any particular financial year of a charity.
 
-(2) If any person fails to afford an approved company auditor or independent examiner any facility to which he is entitled by virtue of subsection (1)(c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and the Commissioner may by order give to that person or to the charity trustees for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+(2) If any person fails to afford an approved company auditor or independent examiner any facility to which he is entitled by virtue of subsection (1)(c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order give to that person or to the charity trustees for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
 
 (3) Section 391 of the Companies Act [Cap. 50] shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of section 14 as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
 
@@ -566,7 +668,7 @@ those trustees shall comply with the request within the period of 2 months begin
 
 ### Offences
 
-18\. Any person who, without reasonable excuse, is persistently in default in relation to any requirement imposed by section 16(2) or 17(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 .
+18\. Any person who, without reasonable excuse, is persistently in default in relation to any requirement imposed by section 16(2) or 17(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
 ## PART V
 
@@ -904,6 +1006,24 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (14) This section shall not apply to an exempt charity.
 
+### Power to suspend or remove trustees, etc., from membership of charity
+
+25A\.—(1) This section shall apply where the Commissioner makes an order under section 25 removing or suspending any trustee, charity trustee, officer, agent or employee of a charity from his office or employment, as the case may be, and the person in question is a member of the charity.
+
+(2) If the order suspends the person in question from his office or employment, the Commissioner may also make an order suspending his membership of the charity for the period for which he is suspended from his office or employment.
+
+(3) If the order removes the person in question from his office or employment, the Commissioner may also make an order —
+
+(a) terminating his membership of the charity; and
+
+(b) prohibiting him from resuming his membership of the charity for not less than 2 years or such time as the Commissioner may specify.
+
+(4) Any person who continues in his membership of a charity in contravention of an order under subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+(5) This section shall not apply to an exempt charity.
+
+[10/2007 wef 01/03/2007]
+
 ### Supplementary provisions relating to receiver and manager appointed for a charity
 
 26\.—(1) The Commissioner may under section 25(2)(vii) appoint to be receiver and manager in respect of the property and affairs of a charity such person (other than an officer or employee of the charity) as he thinks fit.
@@ -930,6 +1050,58 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (7) Regulations made under subsection (6) may, in particular, authorise the Commissioner to require a receiver and manager so appointed to give security for the due discharge of his functions, to determine the amount of his remuneration, and to disallow any amount of remuneration in such circumstances as are prescribed by the regulations.
 
+### Power to direct application of charity property
+
+26A\.—(1) This section shall apply where the Commissioner is satisfied —
+
+(a) that a person or persons in possession or control of any property held by or on trust for a charity is or are unwilling to apply it properly for the purposes of the charity; and
+
+(b) that it is necessary or desirable to make an order under this section for the purpose of securing a proper application of that property for the purposes of the charity.
+
+(2) The Commissioner may by order direct the person or persons concerned to apply the property in such manner as is specified in the order.
+
+(3) An order under this section —
+
+(a) may require action to be taken whether or not it would otherwise be within the powers exercisable by the person or persons concerned in relation to the property; but
+
+(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the trusts of the charity.
+
+(4) Anything done by a person under the authority of an order under this section shall be deemed to be properly done in the exercise of the powers mentioned in subsection (3)(a).
+
+(5) Subsection (4) shall not affect any contractual or other rights arising in connection with anything which has been done under the authority of such an order.
+
+(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+[10/2007 wef 01/03/2007]
+
+### Power to direct application of charity property after charity ceases to exist
+
+26B\.—(1) This section shall apply in respect of any institution that was a charity (whether or not registered under section 5) —
+
+(a) from the time the institution ceases to be a charity, or ceases to exist or operate, whichever occurs earlier; and
+
+(b) where the Commissioner is satisfied —
+
+(i) that a person or persons in possession or control of any property held by or on trust for the institution is or are unwilling to apply it properly for the purposes of the trust; and
+
+(ii) that it is necessary or desirable to make an order under this section for the purpose of securing a proper application of that property for the purposes of the trust.
+
+(2) The Commissioner may by order direct the person or persons concerned to apply the property in such manner as is specified in the order.
+
+(3) An order under this section —
+
+(a) may require action to be taken whether or not it would otherwise be within the powers exercisable by the person or persons concerned in relation to the property; but
+
+(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the trusts of the institution.
+
+(4) Anything done by a person under the authority of an order under this section shall be deemed to be properly done in the exercise of the powers mentioned in subsection (3)(a).
+
+(5) Subsection (4) shall not affect any contractual or other rights arising in connection with anything which has been done under the authority of such an order.
+
+(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+[10/2007 wef 01/03/2007]
+
 ### Persons disqualified for being trustees of a charity
 
 27\.—(1) Subject to the provisions of this section, a person shall be disqualified for being a charity trustee or trustee for a charity if —
@@ -948,7 +1120,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 ### Persons acting as charity trustee while disqualified
 
-28\.—(1) Any person who acts as a charity trustee or trustee for a charity while he is disqualified for being such a trustee by virtue of section 27 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+28\.—(1) Any person who acts as a charity trustee or trustee for a charity while he is disqualified for being such a trustee by virtue of section 27 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
 (2) Any act done as charity trustee or trustee for a charity by a person disqualified for being such a trustee by virtue of section 27 shall not be invalid by reason only of that disqualification.
 
@@ -1223,7 +1395,7 @@ the professional fund-raiser or commercial participator concerned shall, within 
 
 (c) where the person making any such payment makes it by giving, by telephone or by means of any other telecommunication system, authority for an account to be debited with the payment, it shall be regarded as made at the time when any such authority is given.
 
-(6) Where any requirement of subsections (1) to (4) is not complied with in relation to any solicitation or representation, the professional fund-raiser or commercial participator concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(6) Where any requirement of subsections (1) to (4) is not complied with in relation to any solicitation or representation, the professional fund-raiser or commercial participator concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 (7) It shall be a defence for a person charged with any offence under subsection (6) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -1317,35 +1489,69 @@ the institution shall not, in connection with an application made by it under th
 
 ### False statements relating to institutions which are not registered charities
 
-38\. Where a person solicits money or other property for the benefit of an institution in association with a representation that the institution is a registered charity, and the institution is not such a charity, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both .
+38\. Where a person solicits money or other property for the benefit of an institution in association with a representation that the institution is a registered charity, and the institution is not such a charity, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 ## PART VIII
 
 FUND-RAISING APPEALS
 
+### Interpretation of this Part
+
+39\.—(1) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires —
+
+“fund-raising appeal” means —
+
+(a) an appeal, whether made expressly or impliedly, to any member of the public to give money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes; or
+
+(b) a receipt from any member of the public of any money or other property (whether for consideration or otherwise) which is given in whole or in part for any charitable, benevolent or philanthropic purposes;
+
+“proceeds”, in relation to a fund-raising appeal, means all money or other property given (whether for consideration or otherwise) in response to the fund-raising appeal in question.
+
+(2) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires, any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, is a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law.
+
+[10/2007 wef 01/03/2007]
+
 ### Prohibition on conducting fund-raising appeal without permit
 
-39\.—(1) No person shall conduct or participate in any fund-raising appeal unless he is —
+39A\.—(1) No person shall conduct or participate in any fund-raising appeal unless he is —
 
 (a) exempt from the provision of this section; or
 
 (b) a person to whom a permit has been granted by the Commissioner in accordance with regulations made for the purpose of this section.
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 (3) The Minister, or such person as he may appoint, may exempt any person or class of persons from the provision of this section.
 
-(4) In this section and any regulations made for the purpose of this section —
+[10/2007 wef 01/03/2007]
 
-“fund-raising appeal” means the soliciting or receiving from the public or any class of the public of any money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes;
+### Power of Commissioner to prohibit or restrict fund-raising appeal
 
-“proceeds”, in relation to a fund-raising appeal, means all money or other property given (whether for consideration or otherwise) in response to the fund-raising appeal in question.
+39B\.—(1) Notwithstanding any exemption or permit granted under section 39A, the Commissioner may, at any time, by order published in theGazette—
 
-(5) In this section and any regulations made for the purpose of this section, any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, is a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law.
+(a) prohibit or stop the conduct of any fund-raising appeal by any charity or person; or
+
+(b) restrict the conduct of any fund-raising appeal by any charity or person by imposing conditions,
+
+if he is satisfied —
+
+(i) that any fund-raising appeal conducted by the charity or person has not been conducted in good faith for charitable, benevolent or philanthropic purposes;
+
+(ii) that any of the persons who have conducted a fund-raising appeal, or any persons associated with any such appeal, are not fit and proper persons to administer, or to be associated with, a fund-raising appeal for charitable, benevolent or philanthropic purposes;
+
+(iii) that any fund-raising appeal has been improperly administered;
+
+(iv) that, in connection with any fund-raising appeal conducted, the provisions of this Act or the regulations or the conditions imposed by the Commissioner were not complied with by any person conducting or participating in the appeal; or
+
+(v) that, in the public interest, the fund-raising appeal should not be conducted.
+
+(2) Any person who conducts any fund-raising appeal in contravention of any order made by the Commissioner under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+[10/2007 wef 01/03/2007]
 
 ### Exclusion of judicial review
 
-40\.—(1) There shall be no judicial review in any court of any act done or decision made by the Minister or Commissioner under any regulations made for the purpose of section 39 except in regard to any question relating to compliance with any procedural requirement of the regulations governing that act or decision.
+40\.—(1) There shall be no judicial review in any court of any act done or decision made by the Minister or Commissioner under any regulations made for the purpose of section 39A except in regard to any question relating to compliance with any procedural requirement of the regulations governing that act or decision.
 
 (2) In this section, “judicial review” includes proceedings instituted by way of —
 
@@ -1355,7 +1561,100 @@ FUND-RAISING APPEALS
 
 (b) an application for a declaration or an injunction; or
 
-(c) any other suit or action relating to or arising out of any act done or decision made in pursuance of any power conferred upon the Minister or Commissioner by any regulations made for the purpose of section 39.
+(c) any other suit or action relating to or arising out of any act done or decision made in pursuance of any power conferred upon the Minister or Commissioner by any regulations made for the purpose of section 39A.
+
+## PART VIIIA
+
+INSTITUTIONS OF A PUBLIC CHARACTER
+
+
+
+
+AND SECTOR ADMINISTRATORS
+
+[10/2007 wef 01/03/2007]
+
+### Interpretation of this Part
+
+40A\. In this Part, unless the context otherwise requires —
+
+“institution of a public character” means an institution or fund in Singapore which is —
+
+(a) a hospital not operated or conducted for profit;
+
+(b) a public or benevolent institution not operated or conducted for profit;
+
+(c) a public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings;
+
+(d) a university or a public fund for the establishment, maintenance, enlargement or improvement of a university;
+
+(e) an educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution;
+
+(f) a public or private fund for the provision, establishment or endowment of a scholarship, exhibition or prize in a university, or an educational institution not operated or conducted for profit;
+
+(g) a public fund established and maintained for the relief of distress among members of the public;
+
+(h) an institution which is established for charitable, benevolent or philanthropic purposes only; or
+
+(i) an organisation not operated or conducted for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports,
+
+which is approved as an institution of a public character by the Minister, Commissioner or any Sector Administrator on the application of the institution, or which is deemed as an institution of a public character under any written law;
+
+“sector”, in relation to a Sector Administrator, means the class or classes of charities or institutions of a public character that the Minister has by notice published in theGazettedesignated as under the supervision of that Sector Administrator;
+
+“Sector Administrator” means any person or organisation appointed to be a Sector Administrator under section 40B.
+
+### Appointment of Sector Administrators
+
+40B\. The Minister may appoint any person or organisation to be a Sector Administrator for one or more of the following purposes:
+
+(a) regulating the administration of charities within the sector;
+
+(b) approving institutions as institutions of a public character from among such class or classes of institutions as the Minister or Commissioner may determine;
+
+(c) regulating the administration of donations made to institutions of a public character within the sector;
+
+(d) exercising such other functions and powers as the Minister may determine.
+
+### Regulations relating to institutions of a public character and Sector Administrators
+
+40C\.—(1) The Minister may make regulations to provide for —
+
+(a) the manner and criteria to be adopted —
+
+(i) for the approval of institutions of a public character; and
+
+(ii) for the extension and revocation of the approval granted to institutions of a public character;
+
+(b) the regulation of any amendment of the constitution or any other governing instrument of any institution of a public character;
+
+(c) the use of donations, issue of tax deduction receipts and maintenance of donation records and accounts by institutions of a public character;
+
+(d) the regulation of institutions of a public character, including the application of provisions in the Act to institutions of a public character, whether or not such institutions are charities;
+
+(e) the delegation by the Commissioner to any Sector Administrator of any of his functions or powers, except those which are exercisable under sections 24, 25, 25A, 26A, 26B and 30;
+
+(f) the procedures for appeal against decisions made by Sector Administrators; and
+
+(g) generally giving effect to or for carrying out the purposes of this Part.
+
+(2) Where any institution of a public character contravenes any regulations made under subsection (1) —
+
+(a) the institution of a public character shall be liable to pay to the Commissioner a financial penalty of the higher of $100 or the amount ascertained by the formula
+
+0.4 x the total value of the donations (as determined under section 37(3) of the Income Tax Act (Cap. 134)) which ought not to be allowed a deduction under section 37(3) of the Income Tax Act by reason of the contravention; and
+
+(b) the Minister, Commissioner or the appropriate Sector Administrator may revoke the approval granted to the institution of a public character.
+
+(3) Any financial penalty payable by any institution of a public character under subsection (2)(a) shall be recoverable as a debt due to the Government.
+
+(4) The Commissioner may remit or refund the whole or any part of the financial penalty payable by any institution of a public character under subsection (2)(a).
+
+(5) Any financial penalty paid under subsection (2)(a) shall, after deducting any remission or refund under subsection (4), be paid into the Consolidated Fund.
+
+(6) Any financial penalty imposed under subsection (2)(a) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+
+(7) Where any Sector Administrator contravenes any regulations made under subsection (1), the Minister may revoke the appointment of the Sector Administrator.
 
 ## PART IX
 
@@ -1429,11 +1728,29 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (b) such other persons as the rules allow or as the High Court may direct may appear and be heard.
 
+### Protection from liability
+
+46A\. No action, suit or other legal proceedings shall lie against the Commissioner, the Deputy Commissioner, any Assistant Commissioner, any officer appointed or authorised by the Commissioner or any Sector Administrator appointed under section 40B, for anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act or any other written law;
+
+(b) the performance or purported performance of any function or the discharge or purported discharge of any duty under this Act or any other written law; or
+
+(c) the compliance or purported compliance with this Act or any other written law.
+
+[10/2007 wef 01/03/2007]
+
 ### Power to compound
 
-47\.—(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+47\.—(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence.
 
 (2) The Minister may prescribe the offences which may be compounded.
+
+### Prosecution of offences
+
+47A\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by any public officer who is authorised to conduct such proceedings by the Commissioner with the consent of the Attorney-General.
+
+[10/2007 wef 01/03/2007]
 
 ### Regulations
 
@@ -1441,7 +1758,11 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (2) Without prejudice to the generality of subsection (1), any such regulations may —
 
-(a) prescribe the form and content of —
+(a) prescribe the procedures and conditions for the registration of charities or any class of charities;
+
+[10/2007 wef 01/03/2007]
+
+(aa) prescribe the form and content of —
 
 (i) agreements made for the purposes of section 34; and
 
@@ -1453,11 +1774,15 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (d) provide for any provisions of section 35 or 36 having effect in relation to solicitations or representations made in the course of radio or television programmes to have effect, subject to any modifications specified in the regulations, in relation to solicitations or representations made in the course of such programmes by charitable institutions, or by companies connected with such institutions, and, in that connection, provide for any other provisions of Part VII to have effect for the purposes of the regulations subject to any modifications so specified;
 
-(e) make provisions regulating the raising of funds for charitable, benevolent or philanthropic purposes (whether by professional fund-raisers or commercial participators or otherwise) or the conduct of public charitable collections, including provision prohibiting persons under a prescribed age from acting as collectors and prohibiting others from causing them so to act and determining the remuneration of the collectors;
+(e) make provisions regulating the raising of funds for charitable, benevolent or philanthropic purposes (whether by professional fund-raisers or commercial participators or otherwise) or the conduct of fund-raising appeals, including provision prohibiting persons under a prescribed age from acting as collectors and prohibiting others from causing them so to act and determining the remuneration of the collectors;
 
-(f) prescribe the fees for the inspection of the register of charities or of other material kept by the Commissioner and for other services provided by the Commissioner; and
+(f) prescribe the fees for the inspection of the register of charities or of other material kept by the Commissioner and for other services provided by the Commissioner;
 
-(g) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(g) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction; and
+
+(h) prescribe any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.
+
+[10/2007 wef 01/03/2007]
 
 (3) In subsection (2)(c), the reference to such money or other property includes a reference to money or other property which, in the case of a professional fund-raiser or commercial participator, has been acquired by him otherwise than in accordance with an agreement with a charitable institution, but by reason of any solicitation or representation in consequence of which it has been acquired, is held by him on trust for such an institution.
 
@@ -1527,3 +1852,13 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006|
+|8.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (section 2 — Amendment of Charities Act)|
+|9.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
