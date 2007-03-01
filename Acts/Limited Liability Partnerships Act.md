@@ -202,6 +202,10 @@ but does not include —
 
 (iii) any registered trade union;
 
+“financial year”, in relation to a limited liability partnership, means the period in respect of which any profit and loss account of the limited liability partnership is made up, whether that period is a year or not;
+
+[2/2007 wef 01/03/2007]
+
 “firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
 
 “foreign company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
@@ -620,7 +624,9 @@ MANAGEMENT AND ADMINISTRATION
 
 25\.—(1) Every limited liability partnership shall keep such accounting and other records as will sufficiently explain the transactions and financial position of the limited liability partnership and enable profit and loss accounts and balance-sheets to be prepared from time to time which give a true and fair view of the state of affairs of the limited liability partnership.
 
-(2) The limited liability partnership shall retain the records referred to in subsection (1) for 7 years after the completion of the transactions or operations to which they respectively relate.
+(2) The limited liability partnership shall retain the records referred to in subsection (1) for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those records relate are completed.
+
+[2/2007 wef 01/03/2007]
 
 (3) The records referred to in subsection (1) shall be kept at such place as the partners think fit and shall at all times be open to inspection by the partners.
 
@@ -3321,6 +3327,11 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of commencement|1 April 2006 (item (22) in the First Schedule)|
 |3.|**2006 Revised Edition—Limited Liability Partnerships Act**|
 ||Date of operation|31 December 2006|
+|4.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|2 January 2007|
+||Date of commencement|1 March 2007 (item (7) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
