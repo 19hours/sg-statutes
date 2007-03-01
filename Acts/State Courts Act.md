@@ -296,11 +296,11 @@ CONSTITUTION
 
 ### Sittings of subordinate courts
 
-6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Sundays and public holidays .
+6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Saturdays, Sundays and public holidays.
 
 [8/98]
 
-(2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Sunday or public holiday or during a vacation authorised under section 61 if —
+(2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Saturday, Sunday or public holiday or during a vacation authorised under section 61 if —
 
 (a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
 
@@ -940,11 +940,11 @@ ADMINISTRATION
 
 ### Registry of subordinate courts
 
-57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Sundays and public holidays .
+57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Saturdays, Sundays and public holidays.
 
 [8/98]
 
-(2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
+(2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —
 
 (a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
 
@@ -1231,6 +1231,11 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (section 3 — Amendment of Subordinate Courts Act)|
+|18.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2006**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (section 16 — Amendment of Subordinate Courts Act)|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
