@@ -294,6 +294,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (w) to perform such other functions as are conferred on the Authority by any other written law.
 
+(1A) Subject to the provisions of this Act, it shall be a function of the Authority to develop and manage, or participate in the development and management of, land transport systems, whether in Singapore or elsewhere.
+
+[11/2007 wef 01/03/2007]
+
 (2) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
 (3) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
@@ -310,15 +314,33 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (d) to lease or let, with or without taking a premium, any property vested in or acquired by it or to grant easements, rights of way, temporary licences or other rights or privileges over, under, through or in respect of any land or buildings belonging to or vested in the Authority upon such terms and conditions as the Authority may think fit;
 
-(e) to subscribe for or acquire any securities, stocks and shares of an incorporated company or other body corporate, to procure its admission to membership of an incorporated company limited by guarantee and not having a share capital, to promote the formation of an incorporated company or participate in the promotion of such company or to acquire an undertaking or part thereof;
+(e) to subscribe for or acquire any securities, stocks and shares of an incorporated company or other body corporate, to procure its admission to membership of an incorporated company limited by guarantee and not having a share capital or to acquire an undertaking or part thereof;
 
-(f) to form or participate in any joint venture as a partner or a shareholder or in any other capacity, with any firm, body corporate, society or institution for the purposes of this Act;
+(f) to form or participate in the formation of any company or corporation, or enter into any joint venture or partnership, whether in Singapore or elsewhere;
+
+[11/2007 wef 01/03/2007]
+
+(fa) to participate in any overseas venture or development which the Authority has the expertise to engage in or undertake;
+
+[11/2007 wef 01/03/2007]
+
+(fb) to establish and maintain offices, whether in Singapore or elsewhere;
+
+[11/2007 wef 01/03/2007]
+
+(fc) to grant loans, and to guarantee the repayment of any loan granted, to any company or corporation —
+
+(i) of which the Authority, or any subsidiary of the Authority, is a member; or
+
+(ii) any shares of which are held or beneficially owned, directly or indirectly, by the Authority or any subsidiary of the Authority;
+
+[11/2007 wef 01/03/2007]
 
 (g) to enter into all such contracts for the supply of goods, services or materials or for the execution of works or any other contract as may be necessary for the discharge of its duties and functions under this Act;
 
 (h) to engage alone or in conjunction with other corporations in the production, manufacture or sale of equipment, whether in Singapore or elsewhere;
 
-(i) to provide technical advice or assistance, including training facilities , to land transport authorities of other countries;
+(i) to provide technical advice or assistance, including training facilities and consultancy services, to any person as respects any matter in which the Authority has skill or experience;
 
 (j) to impose fees or charges for services rendered by the Authority;
 
@@ -335,6 +357,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 (2) This section shall not be construed as limiting any power of the Authority conferred by or under any other written law.
 
 (3) The Authority shall furnish the Minister information with respect to its property and activities in such manner and at such times as the Minister may require.
+
+(4) In subsection (1)(fc), “subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50).
+
+[11/2007 wef 01/03/2007]
 
 ### Appointment of committees and delegation of powers
 
@@ -1340,3 +1366,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 25/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|17 October 2005|
 ||Dates of commencement|3 April 2006 (except section 14)|
+|11.|**Act 11 of 2007—Land Transport Authority of Singapore (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 23/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
