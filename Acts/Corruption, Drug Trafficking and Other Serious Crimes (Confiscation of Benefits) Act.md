@@ -1494,15 +1494,15 @@ Obligations of financial institutions
 
 “minimum retention period”, in relation to a financial transaction document of a financial institution, means —
 
-(a) if the document relates to the opening of an account with the institution, the period of 6 yearsafter the day on which the account is closed;
+(a) if the document relates to the opening of an account with the institution, the period of 5 years after the day on which the account is closed;
 
 [2/2007 wef 01/03/2007]
 
-(b) if the document relates to the opening by a person of a deposit box held by the institution, the period of 6 years after the day on which the deposit box ceases to be used by the person; or
+(b) if the document relates to the opening by a person of a deposit box held by the institution, the period of 5 years after the day on which the deposit box ceases to be used by the person; or
 
 [2/2007 wef 01/03/2007]
 
-(c) in any other case, the period of 6 years after the day on which the transaction takes place.
+(c) in any other case, the period of 5 years after the day on which the transaction takes place.
 
 [2/2007 wef 01/03/2007]
 
@@ -3190,7 +3190,7 @@ Advancing money for conducting business of common betting-house
 
 Betting in common betting-house
 
-Chemical Weapons (Prohibition) Act(Cap\. 37B) 
+Chemical Weapons (Prohibition) Act (Cap\. 37B) 
 
 203. Section 8
 
@@ -3240,7 +3240,7 @@ Assisting in carrying on a public lottery, etc.
 
 Gaming in public
 
-Computer Misuse Act(Cap\. 50A) 
+Computer Misuse Act (Cap\. 50A) 
 
 210. Section 3
 
@@ -3288,7 +3288,7 @@ Export of plants contrary to order by Minister
 
 Failure to give access to documents, etc.
 
-Control of Plants Act(Cap\. 57A) 
+Control of Plants Act (Cap\. 57A) 
 
 Control of Plants (Plant Importation) Rules (R 4) 
 
@@ -3358,7 +3358,7 @@ Attempt to cause explosion, or for making or keeping explosives with intent to e
 
 Making or possessing explosives under suspicious circumstances
 
-Feeding Stuffs Act(Cap\. 105) 
+Feeding Stuffs Act (Cap\. 105) 
 
 235. Section 4(5)
 
@@ -3388,7 +3388,7 @@ Human Organ Transplant Act (Cap\. 131A)
 
 Contracting for sale or supply of organ or blood, etc.
 
-Immigration Act(Cap\. 133) 
+Immigration Act (Cap\. 133) 
 
 241. Section 5(5)
 
@@ -3398,7 +3398,7 @@ Entering or leaving Singapore other than at authorised entry or departure points
 
 Abetting unlawful entry or departure, or engaging in business of conveying prohibited immigrant
 
-Internal Security Act(Cap\. 143) 
+Internal Security Act (Cap\. 143) 
 
 243. Section 4
 
@@ -3520,7 +3520,7 @@ Poisons Act (Cap\. 234)
 
 Importation or sale, etc., of poisons without licence
 
-Sale of Food Act(Cap\. 283) 
+Sale of Food Act (Cap\. 283) 
 
 Food Regulations (Rg 1) 
 
@@ -3626,7 +3626,7 @@ Publishing, etc., propaganda of unlawful society
 
 Possession of books, etc., of triad society
 
-Terrorism (Suppression of Financing) Act(Cap\. 325) 
+Terrorism (Suppression of Financing) Act (Cap\. 325) 
 
 278. Section 3
 
@@ -3644,7 +3644,7 @@ Use or possession of property for terrorist purposes
 
 Dealing with property of terrorists
 
-Trade Marks Act(Cap\. 332) 
+Trade Marks Act (Cap\. 332) 
 
 282. Section 46
 
@@ -3662,7 +3662,7 @@ Making or possessing of article for committing offence
 
 Importing or selling, etc., goods with falsely applied trade mark
 
-United Nations Act(Cap\. 339) 
+United Nations Act (Cap\. 339) 
 
 United Nations (Anti-Terrorism Measures) Regulations (Rg 1) 
 
@@ -3716,7 +3716,7 @@ Wild Animals and Birds Act (Cap\. 351)
 
 Importation of wild animals and birds without authorisation, etc.
 
-Women’s Charter(Cap\. 353) 
+Women’s Charter (Cap\. 353) 
 
 290. Section 146
 
@@ -3816,6 +3816,11 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Dates of commencement|1 April 2006 (item (11) of the First Schedule)|
 |15.|**G. N. No. S 254/2006—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2006**|
 ||Date of commencement|8 May 2006|
+|16.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Dates of commencement|1 March 2007 (except sections 6, 8 and 11)|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
