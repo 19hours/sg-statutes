@@ -1771,7 +1771,7 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 [42/2001]
 
-(6) [Act 42 of 2001]
+(6) [Deleted by Act 42 of 2001]
 
 (7) Unless the contrary intention appears, any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -2833,9 +2833,9 @@ as the case may be, and where applicable, that it is a private company.
 
 (a) the name of the company;
 
-(b) [Act 5 of 2004]
+(b) [Deleted by Act 5 of 2004]
 
-(c) [Act 21 of 2005]
+(c) [Deleted by Act 21 of 2005]
 
 (d) if the company is a company limited by shares, that the liability of the members is limited;
 
@@ -2977,7 +2977,7 @@ Powers
 
 [12/2002]
 
-(4) [Act 12 of 2002]
+(4) [Deleted by Act 12 of 2002]
 
 (5) Notice of the registration shall be published in such manner, if any, as the Court or the Registrar directs.
 
@@ -3031,7 +3031,7 @@ Powers
 
 (b) is identical to that of any other company, limited liability partnership or corporation, or to a business name; or
 
-(c) [Act 12 of 2002]
+(c) [Deleted by Act 12 of 2002]
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
@@ -3351,13 +3351,13 @@ and thereupon the restrictions and limitations referred to in section 18(1) as i
 
 32\. 
 
-—(1) [Act 5 of 2004]
+—(1) [Deleted by Act 5 of 2004]
 
 (2) Where —
 
 (a) default has been made in relation to a private company in complying with a limitation of a kind specified in section 18(1)(b) that is included, or is deemed to be included in the memorandum or articles of the company;
 
-(b) [Act 5 of 2004]
+(b) [Deleted by Act 5 of 2004]
 
 (c) the memorandum or articles of a private company have been so altered that they no longer include restrictions or limitations of the kinds specified in section 18(1); or
 
@@ -3391,7 +3391,7 @@ the Registrar may by notice served on the company determine that, on such date a
 
 [15/84]
 
-(7) [Act 5 of 2004]
+(7) [Deleted by Act 5 of 2004]
 
 (8) Where default is made in relation to a private company in complying with any restriction or limitation of a kind specified in section 18(1) that is included, or deemed to be included, in the memorandum or articles of the company, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
 
@@ -3475,7 +3475,7 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 [12/2002]
 
-(3) [Act 21 of 2005]
+(3) [Deleted by Act 21 of 2005]
 
 (4) In the case of an unlimited company or a company limited by guarantee the articles shall state the number of members with which the company proposes to be registered.
 
@@ -3547,7 +3547,7 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 (b) a printed copy of the order or resolution making the alteration is annexed to the copy of the memorandum or articles and the particular clauses or articles affected are indicated in ink.
 
-(3) [1
+(3) [Omitted1
 
 1Subsection (3) of section 40 is omitted from the 2006 Ed., being obsolete by virtue of the amendment to section 186 of the 1994 Ed. by the Companies (Amendment) Act 2003 (Act 8 of 2003).
 
@@ -3615,7 +3615,7 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 
 Prohibition of carrying on business with fewer than statutory minimum of members
 
-42\. [Act 5 of 2004]
+42\. [Repealed by Act 5 of 2004]
 
 ### Company or foreign company with a charitable purpose which contravenes the Charities Act or regulations made thereunder may be wound up or struck off the register
 
@@ -3643,33 +3643,33 @@ Division 1 —
 
 Prospectuses
 
-43\. [S 236/2002]
+43\. [Repealed by S 236/2002]
 
-44\. [S 236/2002]
+44\. [Repealed by S 236/2002]
 
-45\. [S 236/2002]
+45\. [Repealed by S 236/2002]
 
-46\. [S 236/2002]
+46\. [Repealed by S 236/2002]
 
-47\. [S 236/2002]
+47\. [Repealed by S 236/2002]
 
-48\. [S 236/2002]
+48\. [Repealed by S 236/2002]
 
-49\. [S 236/2002]
+49\. [Repealed by S 236/2002]
 
-50\. [S 236/2002]
+50\. [Repealed by S 236/2002]
 
-51\. [S 236/2002]
+51\. [Repealed by S 236/2002]
 
-52\. [S 236/2002]
+52\. [Repealed by S 236/2002]
 
-53\. [S 236/2002]
+53\. [Repealed by S 236/2002]
 
-54\. [S 236/2002]
+54\. [Repealed by S 236/2002]
 
-55\. [S 236/2002]
+55\. [Repealed by S 236/2002]
 
-56\. [S 236/2002]
+56\. [Repealed by S 236/2002]
 
 Division 2 —
 
@@ -3677,11 +3677,11 @@ Restrictions on allotment and commencement of business
 
 Prohibition of allotment unless minimum subscription received
 
-57\. [S 236/2002]
+57\. [Repealed by S 236/2002]
 
 Application and moneys to be held by the company in trust in a separate bank account until allotment
 
-58\. [S 236/2002]
+58\. [Repealed by S 236/2002]
 
 ### Restriction on allotment in certain cases
 
@@ -3913,7 +3913,7 @@ file with the Registrar a notice in the prescribed form of its share capital.
 
 [15/84]
 
-(3) [Act 12 of 2002]
+(3) [Deleted by Act 12 of 2002]
 
 (4) Where shares are allotted as fully or partly paid up otherwise than in cash and the allotment is made pursuant to a contract in writing, the company shall lodge with the return the contract evidencing the entitlement of the allottee or a copy of any such contract certified as prescribed.
 
@@ -3997,9 +3997,9 @@ the company shall lodge with the return a statement containing such particulars 
 
 [Aust., 1961, s. 57]
 
-67\. [Act 21 of 2005]
+67\. [Repealed by Act 21 of 2005]
 
-69F\. [Act 21 of 2005]
+69F\. [Repealed by Act 21 of 2005]
 
 ### Redeemable preference shares
 
@@ -4021,11 +4021,11 @@ the company shall lodge with the return a statement containing such particulars 
 
 [21/2005]
 
-(5) [Act 21 of 2005]
+(5) [Deleted by Act 21 of 2005]
 
-(6) [Act 21 of 2005]
+(6) [Deleted by Act 21 of 2005]
 
-(7) [Act 21 of 2005]
+(7) [Deleted by Act 21 of 2005]
 
 (8) If a company redeems any redeemable preference shares it shall within 14 days after so doing give notice thereof to the Registrar specifying the shares redeemed.
 
@@ -4035,7 +4035,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 71\.—(1) A company, if so authorised by its articles, may in general meeting alter its share capital in any one or more of the following ways:
 
-(a) [Act 21 of 2005]
+(a) [Deleted by Act 21 of 2005]
 
 (b) consolidate and divide all or any of its share capital;
 
@@ -4083,7 +4083,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 Special resolution for reduction of share capital
 
-73\. [Act 21 of 2005]
+73\. [Repealed by Act 21 of 2005]
 
 ### Rights of holders of classes of shares
 
@@ -5941,15 +5941,15 @@ the company shall have and shall be deemed always to have had power to reissue t
 
 Qualifications of trustee for debenture holders
 
-97\. [S 236/2002]
+97\. [Repealed by S 236/2002]
 
 Retirement of trustees
 
-98\. [S 236/2002]
+98\. [Repealed by S 236/2002]
 
 Contents of trust deed
 
-99\. [S 236/2002]
+99\. [Repealed by S 236/2002]
 
 ### Power of Court in relation to certain irredeemable debentures
 
@@ -5969,9 +5969,9 @@ Contents of trust deed
 
 [Aust., 1961, s. 74c]
 
-101\. [S 236/2002]
+101\. [Repealed by S 236/2002]
 
-106\. [S 236/2002]
+106\. [Repealed by S 236/2002]
 
 Division 5A —
 
@@ -5987,9 +5987,9 @@ Divisions 1 and 5 in relation to
 
 Prospectus Requirements
 
-106A\. [S 236/2002]
+106A\. [Repealed by S 236/2002]
 
-106L\. [S 236/2002]
+106L\. [Repealed by S 236/2002]
 
 Division 6 —
 
@@ -6000,9 +6000,9 @@ Interests other than
 
 shares, debentures, etc.
 
-107\. [S 236/2002]
+107\. [Repealed by S 236/2002]
 
-120\. [S 236/2002]
+120\. [Repealed by S 236/2002]
 
 Division 7 —
 
@@ -6872,7 +6872,7 @@ Directors and officers
 
 (2) No person other than a natural person of full age and capacity shall be a director of a company.
 
-(3) [Act 12 of 2002]
+(3) [Deleted by Act 12 of 2002]
 
 (4) Any provision in the memorandum or articles of a company which was in force immediately before 29th December 1967 and which operated to constitute a corporation as a director of the company shall be read and construed as if it authorised that corporation to appoint a natural person to be a director of that company.
 
@@ -7488,19 +7488,19 @@ as the case requires.
 
 Substantial property transactions
 
-160A\. [Act 38 of 1998]
+160A\. [Repealed by Act 38 of 1998]
 
 Exceptions from section 160A
 
-160B\. [Act 38 of 1998]
+160B\. [Repealed by Act 38 of 1998]
 
 Liability arising from contravention of section 160A
 
-160C\. [Act 38 of 1998]
+160C\. [Repealed by Act 38 of 1998]
 
 Interpretation
 
-160D\. [Act 38 of 1998]
+160D\. [Repealed by Act 38 of 1998]
 
 ### Approval of company required for issue of shares by directors
 
@@ -7820,7 +7820,7 @@ whichever last occurs;
 
 Prohibition of tax-free payments to directors
 
-167\. [Act 13 of 1987]
+167\. [Repealed by Act 13 of 1987]
 
 ### Payments to director for loss of office, etc.
 
@@ -7988,13 +7988,13 @@ Provided that the office of secretary shall not be left vacant for more than 6 m
 
 a return in the prescribed form notifying the Registrar of that fact and containing, with respect to that person, the particulars required to be specified in the register;
 
-(b) [Act 12 of 2002]
+(b) [Deleted by Act 12 of 2002]
 
 (c) within one month after a person becomes a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact and specifying the full name and address of that person;
 
 (d) within one month after a person ceases to be a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact;
 
-(e) [Act 28 of 1994]
+(e) [Deleted by Act 28 of 1994]
 
 (f) within one month of any change in the name, identification or nationality of any director, manager or secretary, a notice in the prescribed form notifying the Registrar of the new name, identification or nationality of that person.
 
@@ -8046,7 +8046,7 @@ Meetings and proceedings
 
 Interpretation of this Division
 
-173A\. [Act 5 of 2004]
+173A\. [Repealed by Act 5 of 2004]
 
 ### Statutory meeting and statutory report
 
@@ -8910,7 +8910,7 @@ Annual return
 
 [12/2002]
 
-(6) [Act 12 of 2002]
+(6) [Deleted by Act 12 of 2002]
 
 (7) If a company fails to comply with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
@@ -8920,7 +8920,7 @@ Annual return
 
 Exemption from filing list of members with annual return for certain public companies
 
-198\. [Act 12 of 2002]
+198\. [Repealed by Act 12 of 2002]
 
 ## PART VI
 
@@ -8936,7 +8936,9 @@ Accounts
 
 [40/89]
 
-(2) The company shall retain the records referred to in subsection (1) for 7 years after the completion of the transactions or operations to which they respectively relate.
+(2) The company shall retain the records referred to in subsection (1) for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those records relate are completed.
+
+[2/2007 wef 01/03/2007]
 
 (2A) Every public company and every subsidiary of a public company shall devise and maintain a system of internal accounting controls sufficient to provide a reasonable assurance that —
 
@@ -9168,7 +9170,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (11) Where any option has been granted by a company, other than a holding company for which consolidated accounts are required during the period covered by the profit and loss account to take up unissued shares of a company, the report required by subsection (5) shall state —
 
-(a) [Act 22 of 1993]
+(a) [Deleted by Act 22 of 1993]
 
 (b) the number and class of shares in respect of which the option has been granted;
 
@@ -9196,7 +9198,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [49/73]
 
-(13) [Act 22 of 1993]
+(13) [Deleted by Act 22 of 1993]
 
 (14) The accounts or consolidated accounts of a company need not comply with any requirement of the Accounting Standards for the purposes of subsection (1), (3) or (3A), if the company has obtained the approval of the Registrar to such non-compliance.
 
@@ -9230,7 +9232,7 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 [12/2002]
 
-(16) [Act 13 of 1987]
+(16) [Deleted by Act 13 of 1987]
 
 (17) Any document (other than a balance-sheet prepared in accordance with this Act) or advertisement published, issued or circulated by or on behalf of a company (other than a banking corporation) shall not contain any direct or indirect representation that the company has any reserve unless the representation is accompanied —
 
@@ -9252,7 +9254,7 @@ are prepared in accordance with that Act.
 
 Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries
 
-201A\. [Act 5 of 2004]
+201A\. [Repealed by Act 5 of 2004]
 
 ### Audit committees
 
@@ -9694,7 +9696,7 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
 
-(c) [Act 5 of 2004]
+(c) [Deleted by Act 5 of 2004]
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
@@ -9816,7 +9818,7 @@ he shall immediately report the matter in writing to the Registrar.
 
 Application of amendments made to sections 201 to 204 and 207 and new sections 201A and 209A
 
-209B\. 4[Act 5 of 2004]
+209B\. 4[Repealed by Act 5 of 2004]
 
 4This section was section 42 of the Companies (Amendment) Act 1987 (Act 13 of 1987).
 
@@ -9939,11 +9941,11 @@ and every company which makes default in complying with this section and every o
 
 Take-over offers
 
-213\. [S 675/2001]
+213\. [Repealed by S 675/2001]
 
 Variation of take-over offers
 
-214\. [S 675/2001]
+214\. [Repealed by S 675/2001]
 
 ### Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority
 
@@ -11485,7 +11487,7 @@ INVESTIGATIONS
 
 Investigation by resolution of company
 
-234\. [Act 13 of 1987]
+234\. [Repealed by Act 13 of 1987]
 
 ### Investigation of affairs of related corporation
 
@@ -13654,9 +13656,9 @@ Division 1 —
 
 Investment companies
 
-355\. [Act 8 of 2003]
+355\. [Repealed by Act 8 of 2003]
 
-364\. [Act 8 of 2003]
+364\. [Repealed by Act 8 of 2003]
 
 Division 2 —
 
@@ -13726,7 +13728,7 @@ Foreign companies
 
 (f) notice of the situation of its registered office in Singapore and, unless the office is open and accessible to the public during ordinary business hours on each business day, the days and hours during which it is open and accessible to the public,
 
-(g) [Act 12 of 2002]
+(g) [Deleted by Act 12 of 2002]
 
 and on payment of the appropriate fees and subject to this Act the Registrar shall register the company under this Division by registration of the documents.
 
@@ -13890,7 +13892,7 @@ Provided that —
 
 As to fee payable on registration of foreign company because of establishment of a share register in Singapore
 
-374\. [Act 12 of 2002]
+374\. [Repealed by Act 12 of 2002]
 
 ### Obligation to state name of foreign company, whether limited, and country where incorporated
 
@@ -14348,7 +14350,7 @@ Offences
 
 Restriction on offering shares, debentures, etc., for subscription or purchase
 
-400\. [S 236/2002]
+400\. [Repealed by S 236/2002]
 
 ### False and misleading statement
 
@@ -14432,7 +14434,7 @@ relating to the affairs of the corporation, shall be guilty of an offence and sh
 
 404\. 
 
-—(1) [Act 42 of 2001]
+—(1) [Deleted by Act 42 of 2001]
 
 (2) (Deleted by Act 42 of 2001)
 
@@ -14526,7 +14528,7 @@ shall be guilty of an offence.
 
 [15/2010 wef 02/01/2011]
 
-(2) [Act 36 of 2000]
+(2) [Deleted by Act 36 of 2000]
 
 (3) Proceedings for any offence under this Act, other than an offence punishable with imprisonment for a term exceeding 6 months, may be prosecuted in a Magistrate’s Court and in the case of an offence punishable with imprisonment for a term of 6 months or more may be prosecuted in a District Court.
 
@@ -14596,7 +14598,7 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
 Investigations by Commercial Affairs Department
 
-409B\. [Act 39 of 1999]
+409B\. [Repealed by Act 39 of 1999]
 
 Division 3 —
 
@@ -14624,7 +14626,7 @@ Miscellaneous
 
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
 
-(ba) [Act 42 of 2001);]
+(ba) [Deleted by Act 42 of 2001);]
 
 (c) the lodging or registration of documents and the time and manner of submission of documents for lodging or registration;
 
@@ -15891,7 +15893,7 @@ to
 
 THIRD SCHEDULE
 
-[Act 5 of 2004]
+[Repealed by Act 5 of 2004]
 
 FOURTH SCHEDULE
 
@@ -16517,7 +16519,7 @@ Contents of Annual Return
 
 (C) the total amount, if any, agreed to be considered as unpaid on those shares;
 
-(v) [S 56/2005]
+(v) [Deleted by S 56/2005]
 
 (vi) the total number of shares forfeited since the date of the last summary of return or, if none had been filed previously, since the date of incorporation;
 
@@ -17018,6 +17020,14 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|23 June 2006|
 |89.|**2006 Revised Edition—Companies Act**|
 ||Date of operation|31 October 2006|
+|90.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Dates of commencement|1st March 2007|
+
+|
+(with the exception of Sections 6, 8 and 11)|
 ## COMPARATIVE TABLE
 
 Companies Act
