@@ -436,7 +436,7 @@
 
 (CHAPTER 161)
 
-(Original Enactment: 5 of 1981)
+(Original Enactment: Act 5 of 1981)
 
 REVISED EDITION 2001
 
@@ -462,8 +462,6 @@ PRELIMINARY
 
 “active practice” does not include practice as a locum solicitor;
 
-[41/2005 wef 04/12/2006]
-
 “advocate and solicitor”, “advocate” and “solicitor” mean an advocate and solicitor of the Supreme Court;
 
 “Board” means the Board of Legal Education established under section 3;
@@ -479,8 +477,6 @@ PRELIMINARY
 (i) any person who, as a principal or on behalf of another, or as a trustee, an executor or an administrator, or in any other capacity, has power, express or implied, to retain or employ, and retains or employs or is about to retain or employ, a solicitor, a law corporation or a limited liability law partnership; and
 
 (ii) any person for the time being liable to pay a solicitor, a law corporation or a limited liability law partnership for his or its services any costs;
-
-[41/2005 wef 04/12/2006]
 
 “contentious business” means business done, whether as an advocate or a solicitor, in or for the purposes of proceedings begun before a court of justice or before an arbitrator;
 
@@ -506,13 +502,7 @@ PRELIMINARY
 
 “limited liability law partnership” means a limited liability partnership approved as a limited liability law partnership under section 81Q;
 
-[41/2005 wef 04/12/2006]
-
 “locum solicitor” means an advocate and solicitor engaged (whether concurrently or otherwise) on a temporary or freelance basis by one or more law firms, law corporations, limited liability law partnerships or solicitors practising on their own account;
-
-[23/2004 wef 01/04/2005]
-
-[41/2005 wef 04/12/2006]
 
 “Malayan practitioner” means any person entitled to practise before a High Court in any part of West Malaysia;
 
@@ -580,8 +570,6 @@ PRELIMINARY
 
 (d) the Second Schedule.
 
-[41/2005 wef 04/12/2006]
-
 (5) In the definition of “specified person” in section 79(2), reference to a member of a law firm shall be construed to include a locum solicitor engaged by the law firm.
 
 (6) Unless it is expressly provided to the contrary —
@@ -591,8 +579,6 @@ PRELIMINARY
 (b) references to a law firm or firm in this Act, except in Part IXA,
 
 shall not include a reference to a limited liability partnership.
-
-[41/2005 wef 04/12/2006]
 
 ## PART II
 
@@ -1050,8 +1036,6 @@ PRACTISING CERTIFICATES
 
 (ii) the name under which he practises if different from his own name, or the name of the solicitor or firm of solicitors or law corporation or limited liability law partnership employing him; and
 
-[41/2005 wef 04/12/2006]
-
 (iii) the principal and any other address or addresses at which he practises in Singapore;
 
 (b) a certificate from the Council or such other evidence as the Registrar may require that —
@@ -1210,8 +1194,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (ba) unless he is or is about to be a partner or an employee of a limited liability law partnership;
 
-[41/2005 wef 04/12/2006]
-
 (c) unless he is or is about to be a director or an employee of a law corporation;
 
 (ca) unless he is practising or intends to practise as a locum solicitor;
@@ -1239,8 +1221,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 (b) has completed such training within such time as the Council may by rules under section 25 prescribe; or
 
 (c) has practised as a locum solicitor at any time within the period of 3 years immediately preceding the application.
-
-[41/2005 wef 04/12/2006]
 
 (2) Notwithstanding anything in subsection (1), any solicitor who has held office as a Judge of the Supreme Court for a period of 3 years or more shall on application be issued a practising certificate enabling him to practise as a solicitor, but without the right of audience in any court of justice in Singapore.
 
@@ -1492,8 +1472,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [4/2000; 35/2001]
 
-[41/2005 wef 04/12/2006]
-
 ### Unauthorised person acting as advocate or solicitor
 
 33\.—(1) Any unauthorised person who —
@@ -1541,8 +1519,6 @@ shall, unless he proves that the act was not done for or in expectation of any f
 (7) Where the act mentioned in subsection (6) is done by a director, an officer or employee of the body corporate, the director, officer or employee shall, without prejudice to the liability of the body corporate, be liable to the punishments provided in subsection (5).
 
 (7A) Where an act mentioned in subsection (6) is done by a partner, an officer or employee of a limited liability partnership, that partner, officer or employee shall (without prejudice to the liability of the limited liability partnership) be liable to the punishments provided in subsection (5).
-
-[41/2005 wef 04/12/2006]
 
 (8) Where any firm does an act which in the case of a person would be an offence under subsection (1), (2) or (3), every member of the firm shall be deemed to have committed that offence unless he proves that he was unaware of the commission of the act.
 
@@ -2202,10 +2178,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (2) Such rules may provide for the manner in which the matters referred to in subsection (1) shall apply to law corporations or to limited liability law partnershipsor to Joint Law Ventures or Formal Law Alliances registered under Part IXA.
 
-[41/2005 wef 04/12/2006]
-
-[19/2008 wef 19/09/2008]
-
 [4/2000]
 
 (3) Such rules shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
@@ -2265,8 +2237,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 (a) what qualification shall be held by an accountant by whom an accountant’s report may be given; and
 
 (b) the nature and extent of the examination to be made by the accountant of the books and accounts of a solicitor or his firm or the law corporation or the limited liability law partnership and of any other relevant documents with a view to the signing of a report to be delivered by the solicitor under this section.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -2352,8 +2322,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (12) A grant may be made under this section whether or not the solicitor had in force a practising certificate when the act of dishonesty was committed and notwithstanding that subsequent to the commission of that act the solicitor has died or had his name removed from or struck off the roll or has ceased to practise or been suspended from practice or the law corporation or limited liability law partnership had wound up, as the case may be.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (13) On the making by the Society of any grant under this section to any person in respect of any loss —
@@ -2384,8 +2352,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (c) by a law corporation or a limited liability law partnership in connection with legal services performed by it or with any trust of which it is a trustee.
 
-[41/2005 wef 04/12/2006]
-
 [10/91; 4/2000]
 
 (2) For the purposes of providing such indemnity, such rules may —
@@ -2396,8 +2362,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (c) require all advocates and solicitors making application for a practising certificate and all law corporations and limited liability law partnerships to take out and maintain insurance with authorised insurers.
 
-[41/2005 wef 04/12/2006]
-
 [10/91; 4/2000]
 
 (3) Without prejudice to the generality of subsections (1) and (2), such rules may —
@@ -2406,11 +2370,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (b) provide for the management, administration and protection of any fund maintained by virtue of subsection (2)(a) and require all advocates and solicitors who have in force practising certificates and all law corporations and limited liability law partnerships to make payment to any such fund;
 
-[41/2005 wef 04/12/2006]
-
 (c) require all advocates and solicitors who have in force practising certificates and all law corporations and limited liability law partnerships to make payments by way of premium on any insurance policy maintained by the Society by virtue of subsection (2)(b);
-
-[41/2005 wef 04/12/2006]
 
 (d) prescribe the conditions which an insurance policy must satisfy for the purposes of subsection (2)(c);
 
@@ -2423,8 +2383,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 [20/2007 wef 01/06/2007]
 
 (g) specify the circumstances in which advocates and solicitors or law corporations or limited liability law partnerships are exempt from such rules; and
-
-[41/2005 wef 04/12/2006]
 
 (h) empower the Council to take such steps as it considers necessary or expedient to ascertain whether or not the rules are being complied with.
 
@@ -2439,8 +2397,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 [10/91]
 
 (6) Nothing in this section shall affect the right of any advocate and solicitor or law corporation or limited liability law partnership, in addition to the indemnity provided in rules made under this section, to insure himself or the law corporation or the limited liability law partnership further against loss arising from such claims as may be instituted against him or the law corporation or the limited liability law partnership.
-
-[41/2005 wef 04/12/2006]
 
 ### Redress for inadequate professional services
 
@@ -2485,8 +2441,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 [4/2000]
 
 (4A) Subsection (1) shall not apply to a solicitor who is a partner of a limited liability law partnership if at least one of the partners of that limited liability law partnership is a solicitor who has been in active practice in Singapore for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
-
-[41/2005 wef 04/12/2006]
 
 (5) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -2626,8 +2580,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (d) any partner or employee of the limited liability law partnership of which the solicitor is a partner or an employee.
 
-[41/2005 wef 04/12/2006]
-
 (3) Subsection (1) is without prejudice to any law affecting solicitors who act for parties where there is a conflict of interest or where a conflict of interest may arise.
 
 (4) Disciplinary proceedings may be taken against a solicitor who acts in contravention of subsection (1).
@@ -2650,8 +2602,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 81\.—(1) If, during the taxation of any bill of costs or the taking of any account between solicitor and client, it appears to the Registrar that there must in any event be moneys due from the solicitor or law corporation or limited liability law partnership to the client, the Registrar may make an interim certificate as to the amount so payable by the solicitor or law corporation or limited liability law partnership.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (2) Upon the filing of such certificate, the court or a Judge may order the moneys so certified to be immediately paid to the client or brought into court.
@@ -2667,8 +2617,6 @@ LAW CORPORATIONS
 “company” has the same meaning as in the Companies Act (Cap. 50);
 
 “law firm” means a solicitor practising on his own account or a partnership whose members are solicitors but does not include a limited liability law partnership;
-
-[41/2005 wef 04/12/2006]
 
 “legal services” means the legal services which a solicitor can lawfully perform under this Act;
 
@@ -2709,8 +2657,6 @@ LAW CORPORATIONS
 (a) is misleading or detracts from the dignity of an honourable profession;
 
 (b) is so similar to that of an existing law corporation, limited liability law partnership, law firm or group practice as to be likely to be confused with it; or
-
-[41/2005 wef 04/12/2006]
 
 (c) is inconsistent with any of the provisions of any rules on publicity made under section 71(1).
 
@@ -2825,8 +2771,6 @@ LAW CORPORATIONS
 (b) be a director or consultant or an employee of any other law corporation;
 
 (c) be a partner or consultant or an employee of any law firm or limited liability law partnership; or
-
-[41/2005 wef 04/12/2006]
 
 (d) practise as a solicitor on his own account.
 
@@ -2948,11 +2892,7 @@ and may make such order as to the payment of costs by the Council or by the appl
 
 81M\.—(1) Nothing in this Part shall affect the operation of the Companies Act (Cap. 50), and the provisions of this Part shall apply with the provisions of the Companies Act.
 
-[41/2005 wef 04/12/2006]
-
 (1A) In the case of a conflict between any provision of the Companies Act and any provision in this Part, the provision in this Part shall prevail unless otherwise expressly provided in this Part.
-
-[41/2005 wef 04/12/2006]
 
 (2) A law corporation shall, notwithstanding that the shares in the law corporation are held by more than 20 members, be deemed to be an exempt private company for the purposes of the Companies Act.
 
@@ -2964,11 +2904,7 @@ and may make such order as to the payment of costs by the Council or by the appl
 
 (4) Such provisions of any other written law having effect in relation to solicitors or law firms or limited liability law partnerships as may be prescribed, shall have effect in relation to law corporations with such prescribed modifications as may be necessary or expedient; and such provisions shall be construed accordingly.
 
-[41/2005 wef 04/12/2006]
-
 (5) In this section, references to this Part include references to rules made under section 81N.
-
-[41/2005 wef 04/12/2006]
 
 ### Rules on law corporations
 
@@ -3001,8 +2937,6 @@ and may make such order as to the payment of costs by the Council or by the appl
 ## PART VIB
 
 LIMITED LIABILITY LAW PARTNERSHIPS
-
-[41/2005 wef 04/12/2006]
 
 ### Interpretation of this Part
 
@@ -4034,15 +3968,11 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 (b) a liquidator or receiver under the law relating to the winding up of companies or limited liability partnerships; or
 
-[41/2005 wef 04/12/2006]
-
 (c) a creditor in any composition.
 
 (3) A solicitor shall, notwithstanding any provision of this Act, be subject to the law of maintenance and champerty like any other person.
 
 (4) This section shall apply, with the necessary modifications, to a law corporation or a limited liability law partnership.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4060,15 +3990,11 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 (2) The committee or any 4 of the members thereof (the Chief Justice being one) may make general orders prescribing and regulating in such manner as they think fit the remuneration of solicitors or law corporations or limited liability law partnerships in respect of non-contentious business and any order made under this section may revoke or alter any previous order so made.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (3) An order made under this section may, as regards the mode of remuneration, prescribe that it shall be according to a scale of rates of commission or percentage, varying or not in different classes of business, or by a gross sum, or by a fixed sum for each document prepared or perused, without regard to length, or in any other mode, or partly in one mode and partly in another, and may regulate the amount of remuneration with reference to all or any of the following, amongst other, considerations:
 
 (a) the position of the party for whom the solicitor or law corporation or limited liability law partnership is concerned in the business, that is, whether as vendor or purchaser, lessor or lessee, mortgagor or mortgagee, and the like;
-
-[41/2005 wef 04/12/2006]
 
 (b) the place where, and the circumstances in which, the business or any part thereof is transacted;
 
@@ -4076,23 +4002,17 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 (d) the skill, labour and responsibility involved therein on the part of the solicitor or law corporation or limited liability law partnership; and
 
-[41/2005 wef 04/12/2006]
-
 (e) the number and importance of the documents prepared or perused, without regard to length.
 
 (4) An order made under this section may authorise and regulate —
 
 (a) the taking by a solicitor or a law corporation or a limited liability law partnership from a client of security for payment of any remuneration, to be ascertained by taxation or otherwise, which may become due to him or the law corporation or the limited liability law partnership under any such order; and
 
-[41/2005 wef 04/12/2006]
-
 (b) the allowance of interest.
 
 [4/2000]
 
 (5) So long as an order made under this section is in operation, taxation of bills of costs of solicitors or law corporations or limited liability law partnerships in respect of non-contentious business shall, subject to section 109, be regulated by that order.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4102,15 +4022,11 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 109\.—(1) Whether or not any order is in force under section 108, a solicitor and his client may, either before or after or in the course of the transaction of any non-contentious business by the solicitor, make an agreement as to the remuneration of the solicitor or law corporation or limited liability law partnership in respect thereof.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (2) An agreement under subsection (1) shall not provide for costs at a scale lower than that provided by any order made under section 108.
 
 (3) The agreement may provide for the remuneration of the solicitor or law corporation or limited liability law partnership by a gross sum, or by commission or percentage, or by salary, or otherwise, and it may be made on the terms that the amount of the remuneration therein stipulated for either shall or shall not include all or any disbursements made by the solicitor or law corporation or limited liability law partnership in respect of searches, plans, travelling, stamps, fees or other matters.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4118,13 +4034,9 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 (5) The agreement may be sued and recovered on or set aside in the like manner and on the like grounds as an agreement not relating to the remuneration of a solicitor or law corporation or limited liability law partnership .
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (6) If on any taxation of costs the agreement is relied on by the solicitor or law corporation or limited liability law partnership and objected to by the client as unfair or unreasonable, the taxing officer may enquire into the facts and certify them to the court, and if on that certificate it appears just to the court that the agreement should be cancelled, or the amount payable thereunder reduced, the court may order the agreement to be cancelled, or the amount payable thereunder to be reduced, and may give such consequential directions as the court thinks fit.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4132,13 +4044,9 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 110\.—(1) If a mortgage is made to a solicitor, either alone or jointly with any other person, the solicitor or the firm of which he is a member, or the law corporation of which he is a member, director or an employee, or the limited liability law partnership of which he is a partner or an employee, shall be entitled to recover from the mortgagor in respect of all business transacted and acts done by him or them in negotiating the loan, deducing and investigating the title to the property, and preparing and completing the mortgage, such usual costs as he or they would have been entitled to receive if the mortgage had been made to a person who was not a solicitor and that person had retained and employed him or them to transact that business and do those acts.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (2) If a mortgage has been made to, or has become vested by transfer or transmission in, a solicitor, either alone or jointly with any other person, and any business is transacted or acts are done by that solicitor, or by the firm of which he is a member, or by the law corporation of which he is a member, director or an employee, or by the limited liability law partnership of which he is a partner or an employee, in relation to that mortgage or the security thereby created or the property comprised thereunder, then he or they shall be entitled to recover from the person on whose behalf the business was transacted or the acts were done, and to charge against the security, such usual costs as he or they would have been entitled to receive if the mortgage had been made to and had remained vested in a person who was not a solicitor and that person had retained and employed him or them to transact that business and do those acts.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4147,8 +4055,6 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 ### Agreement as to costs for contentious business
 
 111\.—(1) Subject to the provisions of any other written law, a solicitor or a law corporation or a limited liability law partnership may make an agreement in writing with any client respecting the amount and manner of payment for the whole or any part of its costs in respect of contentious business done or to be done by the solicitor or the law corporation or the limited liability law partnership , either by a gross sum or otherwise, and at either the same rate as or a greater or a lesser rate than that at which he or the law corporation or the limited liability law partnership would otherwise be entitled to be remunerated.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4160,19 +4066,13 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 
 (2) Notwithstanding subsection (1), the client shall not be entitled to recover from any other person, under any order for the payment of any costs which are the subject of the agreement, more than the amount payable by the client to his own solicitor or law corporation or limited liability law partnership under the agreement.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (3) Such an agreement shall be deemed to exclude any further claim of the solicitor or law corporation or limited liability law partnership beyond the terms of agreement in respect of any services, fees, charges or disbursements in relation to the conduct and completion of the business in reference to which the agreement is made, except such services, fees, charges or disbursements (if any) as are expressly excepted by the agreement.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (4) Subject to the provisions of this Part, the costs of a solicitor or law corporation or limited liability law partnership, in any case where there is such an agreement as is referred to in section 111, shall not be subject to taxation nor to the provisions of section 118.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4183,8 +4083,6 @@ REMUNERATION OF SOLICITORS, LAW CORPORATIONS AND LIMITED LIABILITY LAW PARTNERSH
 (b) shall be relieved from any responsibility to which the solicitor or the law corporation or the limited liability law partnership would otherwise be subject as a solicitor or a law corporation or a limited liability law partnership,
 
 shall be wholly void.
-
-[41/2005 wef 04/12/2006]
 
 ### Enforcement of agreements
 
@@ -4208,8 +4106,6 @@ shall be wholly void.
 
 (7) When the amount agreed for under any such agreement has been paid by or on behalf of the client or by any person chargeable with or entitled to pay it, any court or Judge having jurisdiction to examine and enforce the agreement may, on application by the person who has paid the amount within 12 months after payment, if it appears to the court or Judge that the special circumstances of the case require the agreement to be reopened, reopen it, and order the costs, fees, charges and disbursements to be taxed, and the whole or any portion of the amount received by the solicitor or law corporation or limited liability law partnership to be repaid by him, on such terms and conditions as to the court or Judge seems just.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (8) Where any such agreement is made by the client in the capacity of guardian or of trustee under a deed or will, or of committee of any person or persons whose estate or property will be chargeable with the amount payable under the agreement or with any part of that amount, the agreement shall before payment be laid before the Registrar, who shall examine it and disallow any part thereof, or may require the direction of the court or a Judge to be taken thereon.
@@ -4219,8 +4115,6 @@ shall be wholly void.
 (9) If in any such case the client pays the whole or any part of the amount payable under the agreement without the previous allowance of the Registrar or court or Judge as aforesaid, he shall be liable at any time to account to the person whose estate or property is charged with the amount paid, or with any part thereof, for the amount so charged.
 
 (10) The solicitor or law corporation or limited liability law partnership who accepts the payment may be ordered by any court which would have had jurisdiction to enforce the agreement, if it thinks fit, to refund the amount received by him or the law corporation or the limited liability law partnership.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4233,8 +4127,6 @@ shall be wholly void.
 [4/2000]
 
 (2A) Where a limited liability law partnership has made an agreement with its client under section 111 and anything has been done by the limited liability law partnership or any of its partners or employees under the agreement, and, before the agreement has been completely performed by the limited liability law partnership or any of its partners or employees, the limited liability law partnership is wound up, an application may be made to the court by any party thereto or by the representatives of that party.
-
-[41/2005 wef 04/12/2006]
 
 (3) The court shall thereupon have the same power to enforce or set aside the agreement, so far as it may have been acted upon, as if the death or incapacity had not happened.
 
@@ -4272,8 +4164,6 @@ RECOVERY AND TAXATION OF COSTS
 
 “solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation or a limited liability law partnership.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000; 35/2001]
 
 ### Charging orders
@@ -4305,8 +4195,6 @@ RECOVERY AND TAXATION OF COSTS
 (iii) in the case of a law corporation, by a director of, or by a solicitor employed by, that law corporation; or
 
 (iv) in the case of a limited liability law partnership, by one of the partners of, or by a solicitor employed by, that limited liability law partnership; or
-
-[41/2005 wef 04/12/2006]
 
 (b) be enclosed in or accompanied by a letter, signed in the like manner, referring to the bill.
 
@@ -4439,8 +4327,6 @@ FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
 “Practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of a Singapore lawyer under Part IV;
 
 “Singapore law firm” means a firm of advocates and solicitors and includes a law corporation registered under Part VIA or a limited liability law partnership registered under Part VIB;
-
-[41/2005 wef 04/12/2006]
 
 “Singapore lawyer” means an advocate and solicitor as defined in section 2.
 
@@ -4754,15 +4640,11 @@ MISCELLANEOUS
 
 136\.—(1) Subject to this section, no bank shall, in connection with any transaction on account of any solicitor or law corporation or limited liability law partnership kept with it or with any other bank (other than an account kept by a solicitor as trustee for a specified beneficiary), incur any liability or be under any obligation to make any inquiry, or be deemed to have any knowledge of any right of any person to any money paid or credited to any such account, which it would not incur or be under or be deemed to have in the case of an account kept by a person entitled absolutely to all the money paid or credited to it.
 
-[41/2005 wef 04/12/2006]
-
 [4/2000]
 
 (2) Nothing in subsection (1) shall relieve a bank from any liability or obligation under which it would be apart from section 73 or this section.
 
 (3) Notwithstanding subsection (1), a bank at which a solicitor or law corporation or limited liability law partnership keeps an account for clients’ moneys shall not, in respect of any liability of the solicitor or law corporation or limited liability law partnership to the bank, not being a liability in connection with that account, have or obtain any recourse or right, whether by way of set-off, counterclaim, charge or otherwise, against moneys standing to the credit of that account.
-
-[41/2005 wef 04/12/2006]
 
 [4/2000]
 
@@ -4772,7 +4654,7 @@ MISCELLANEOUS
 
 (a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134); and
 
-(b) an institution of a public character approved by the Minister for the purposes of section 37(2)(c) of the Income Tax Act.
+(b) an institution of a public character approved under the Charities Act (Cap. 37).
 
 [10/2007 wef 01/03/2007]
 
@@ -4888,8 +4770,6 @@ the powers conferred by Part II shall be exercisable in relation to the limited 
 
 (2) Those powers shall only be exercisable by virtue of sub-paragraph (1)(a) if the Society has given the limited liability law partnership notice in writing that the Council is satisfied that the limited liability law partnership has contravened the rules specified in the notice and also (at the same or any later time) notice that those powers are accordingly exercisable in its case by virtue of sub-paragraph (1)(a).
 
-[41/2005 wef 04/12/2006]
-
 8B. The powers conferred by Part II shall also be exercisable as mentioned in paragraph 8A(1) where —
 
 (a) a complaint is made to the Society that there has been undue delay on the part of a limited liability law partnership in connection with any matter in which it was instructed on behalf of a client or with any controlled trust;
@@ -4900,13 +4780,9 @@ the powers conferred by Part II shall be exercisable in relation to the limited 
 
 (d) the Society gives notice of the failure to the limited liability law partnership and (at the same or any later time) notice that the powers conferred by Part II are accordingly exercisable.
 
-[41/2005 wef 04/12/2006]
-
 8C.—(1) Where the registration of a limited liability law partnership has been cancelled under section 81Y, the powers conferred by Part II shall be exercisable in relation to the limited liability law partnership and its former business as a limited liability law partnership as they are exercisable in relation to a solicitor and his practice.
 
 (2) Where the powers conferred by Part II are exercisable in relation to a limited liability law partnership in accordance with paragraph 8A or 8B, they shall continue to be so exercisable after that limited liability law partnership’s registration has been cancelled or has otherwise ceased to be in force.
-
-[41/2005 wef 04/12/2006]
 
 8D. In connection with the application of Part II to a limited liability law partnership in that Part —
 
@@ -4915,8 +4791,6 @@ the powers conferred by Part II shall be exercisable in relation to the limited 
 (b) any reference to paragraph 1 shall be construed as including a reference to paragraph 8A or 8C(1); and
 
 (c) any reference to paragraph 3 shall be construed as including a reference to paragraph 8B.
-
-[41/2005 wef 04/12/2006]
 
 Part II
 
@@ -5020,9 +4894,7 @@ Inadequate Professional Services
 
 Circumstances in which Council’s powers may be exercised
 
-1.—(1) The Council may take any of the directions mentioned in paragraph 2 (referred to in this Schedule as the directions) with respect to a solicitor where it appears to the Council that the professional services provided by him in connection with any matter in which he or his firm or the law corporation of which he is a director or an employee has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor.
-
-(1) Where it appears to the Council that the professional services provided by a solicitor in connection with any matter in which —
+1.—(1) Where it appears to the Council that the professional services provided by a solicitor in connection with any matter in which —
 
 (a) he or his firm;
 
@@ -5031,8 +4903,6 @@ Circumstances in which Council’s powers may be exercised
 (c) the limited liability law partnership of which he is a partner or an employee,
 
 has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor, the Council may take any of the directions mentioned in paragraph 2 (referred to in this Schedule as the directions) with respect to the solicitor.
-
-[41/2005 wef 04/12/2006]
 
 (2) The Council shall not take any of the directions unless it is satisfied that, in all the circumstances of the case, it is appropriate to do so.
 
@@ -5046,8 +4916,6 @@ Directions which may be given
 
 2.—(1) The directions are —
 
-(1) The directions are —
-
 (a) determining that the costs to which the solicitor, or the law corporation of which he is a director or an employee, or the limited liability law partnership of which he is a partner or an employee, is entitled in respect of his services (referred to in this Schedule as the costs) are to be limited to such amount as may be specified in the determination and directing him to comply, or to secure compliance, with one or more of the permitted requirements as appear to the Council to be necessary in order for effect to be given to the Council’s determination;
 
 (b) directing the solicitor to secure the rectification, at his expense or at that of his firm, or the law corporation of which he is a director or an employee, or the limited liability law partnership of which he is a partner or an employee, of such error, omission or other deficiency arising in connection with the matter in question as the Council may specify;
@@ -5055,8 +4923,6 @@ Directions which may be given
 (c) directing the solicitor to pay such compensation to the client as the Council sees fit to specify in the direction; and
 
 (d) directing the solicitor to take, at his expense or at that of his firm, or the law corporation of which he is a director or an employee, or the limited liability law partnership of which he is a partner or an employee, such other action in the interests of the client as the Council may specify.
-
-[41/2005 wef 04/12/2006]
 
 (2) The permitted requirements referred to in sub-paragraph (1)(a) are —
 
@@ -5090,8 +4956,6 @@ Failure to comply with direction
 
 5.—(1) If a solicitor or law corporation or limited liability law partnership fails to comply with a direction given under this Schedule, any person may make a complaint in respect of that failure to a Judge; but no other proceedings shall be brought in respect of it except pursuant to an order made under sub-paragraph (2).
 
-[41/2005 wef 04/12/2006]
-
 (2) On the hearing of such a complaint, the Judge may, if he thinks fit, direct that the direction be treated, for the purpose of enforcement, as if it were contained in an order made by the High Court.
 
 Fees
@@ -5122,9 +4986,7 @@ he shall inform the Council.
 
 Powers of Society to examine documents in connection with complaints
 
-9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to the solicitor or his firm or the law corporation of which he is a director or an employee requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the solicitor or his firm or the law corporation of which he is a director or an employee in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
-
-(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to —
+9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to —
 
 (a) the solicitor or his firm;
 
@@ -5133,8 +4995,6 @@ Powers of Society to examine documents in connection with complaints
 (c) the limited liability law partnership of which the solicitor is a partner or an employee,
 
 requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the persons or entities referred to in sub-paragraph (a), (b) or (c) (as the case may be) in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
-
-[41/2005 wef 04/12/2006]
 
 (2) Sub-paragraphs (2) to (12) of paragraph 13 and paragraphs 15 to 19 of the First Schedule shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 13(1) of that Schedule and accordingly in those provisions —
 
@@ -5329,6 +5189,12 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 31/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|4 December 2006|
+|38.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
