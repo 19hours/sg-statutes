@@ -2382,7 +2382,17 @@ GENERAL PROVISIONS
 
 ### Power to make rules
 
-139\.—(1) The Judges of the Supreme Court, or any 3 of them, of whom the Chief Justice shall be one, may make rules to fix and regulate the fees and costs payable upon all proceedings under this Part, and also rules concerning the practice and procedure under this Part as they consider expedient.
+139\.—(1) A committee constituted by the following persons may make rules to fix and regulate the fees and costs payable upon all proceedings under this Part, and also such rules concerning the practice and procedure under this Part as they consider expedient:
+
+(a) the Chief Justice;
+
+(b) a Judge of the Supreme Court to be appointed by the Chief Justice for such period as he may specify in writing;
+
+(c) a District Judge to be appointed by the Chief Justice for such period as he may specify in writing; and
+
+(d) 2 practising advocates and solicitors to be appointed by the Chief Justice for such period as he may specify in writing.
+
+[2/2007 wef 01/03/2007]
 
 (2) Rules made under subsection (1) may prescribe the forms to be used in proceedings under this Part.
 
@@ -3276,3 +3286,8 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006 (item (36) in the First Schedule — Amendment of Women’s Charter)|
+|17.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (section 18 — Amendment of Women’s Charter)|
