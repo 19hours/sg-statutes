@@ -1118,13 +1118,9 @@ MISCELLANEOUS
 
 (a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
 
-[42/2005 wef 01/01/2006]
-
 (b) an application for a declaration or an injunction;
 
 (c) an Order for Review of Detention; and
-
-[42/2005 wef 01/01/2006]
 
 (d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the Minister or the Controller by any provision of this Act.
 
@@ -1174,7 +1170,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The Controller shall not direct the forfeiture of any security under subsection (2) if he is satisfied that the master, owner, charterer, agent or consignee took every reasonable precaution to prevent any person from so disembarking in or entering Singapore.
 
-(4) Where an immigration officer in lieu of requiring a deposit under subsection (1) or (1A)requires security by a bond with or without sureties, then the bond shall be in the prescribed form.
+(4) The security under subsection (1) or (1A) shall be given in such manner and form as the Controller may determine and may be by bond, guarantee, cash deposit or any other method, or by 2 or more different methods.
+
+[2/2007 wef 01/03/2007]
 
 ### Reports as to persons failing to continue their journey
 
@@ -1832,3 +1830,8 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (Fourth Schedule — Amendment of Immigration Act)|
+|24.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (Section 10 — Amendment of Immigration Act)|
