@@ -192,6 +192,10 @@ PRELIMINARY
 
 “harvested material” means any harvested material to which the rights of a grantee under section 28(1) are extended by virtue of section 28(7);
 
+“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
+
+[2/2007 wef 01/03/2007]
+
 “plant” includes all fungi and algae but does not include bacteria, bacteroids, mycoplasmas, viruses, viroids and bacteriophages;
 
 “plant variety” means a plant grouping within a single botanical taxon of the lowest rank which, irrespective of whether the conditions for a grant of protection are fully met, can be —
@@ -1032,9 +1036,13 @@ may be prescribed for different classes of business.
 
 52\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
-(2) The Registry may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+(2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Registry.
+(2A) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+[2/2007 wef 01/03/2007]
+
+(3) All sums collected under this section shall be paid into the funds of the Office.
 
 [HK Plant Ord. 1997, s. 42]
 
@@ -1219,3 +1227,9 @@ This Legislative History is provided for the convenience of users of the Plant V
 ||Date of commencement|1 July 2004|
 |2.|**2006 Revised Edition—Plant Varieties Protection Act**|
 ||Date of operation|31 January 2006|
+|3.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 16 February 2007)|
+||Date of Second and Third Readings|22 January 2007|
+||Dates of commencement|Date of coming into operation: 1st March 2007 with the exception of Sections 6, 8 and 11 Section 6 shall come into operation on 1st April 2007|
+|||Sections 8 and 11 shall come into operation on 2nd May 2007.|
