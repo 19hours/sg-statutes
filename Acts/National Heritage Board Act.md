@@ -561,9 +561,9 @@ FUNDS AND PROPERTY OF BOARD
 
 34\. The Board shall be deemed to be —
 
-(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act [Cap. 134]; and
+(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act; and
 
-(b) an institution of a public character approved by the Minister for Finance for the purposes of section 37(2)(c) of the Income Tax Act.
+(b) an institution of a public character approved under the Charities Act (Cap. 37).
 
 ### Establishment of National Heritage Endowment Fund
 
@@ -900,3 +900,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 43/2004 published on 22 September 2004|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
