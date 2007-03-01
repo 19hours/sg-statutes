@@ -1888,7 +1888,9 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 shall, within 7 days after service on him of notice of a resolution of the council requiring him to do so, deliver those records, books of account and keys and that strata roll and other property to a member of the council specified in the notice.
 
-(2) Every management corporation shall retain all its records, books of account and such other documents relating to any of its transactions for a period of at least 7 years after the completion of that transaction.
+(2) Every management corporation shall retain all its records, books of account and such other documents relating to any of its transactions or operations for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those documents relate are completed.
+
+[2/2007 wef 01/03/2007]
 
 (3) Any management corporation which, without reasonable excuse, fails to comply with subsection (2) shall be guilty of an offence.
 
