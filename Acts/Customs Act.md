@@ -1848,9 +1848,13 @@ except where it is necessary for the purposes of —
 
 [33/2000]
 
-(2) The documents and records referred to in subsection (1) shall be retained for a period of not less than 7 years.
+(2) The documents and records referred to in subsection (1) shall be retained —
 
-[33/2000]
+(a) in relation to goods in a Government warehouse, licensed factory warehouse or licensed warehouse, for a period of not less than 5 years from the date those goods are removed from the Government warehouse, licensed factory warehouse or licensed warehouse, as the case may be; or
+
+(b) in any other case, for a period of not less than 5 years from the date on which the goods are released by the proper officer of customs.
+
+[2/2007 wef 01/03/2007]
 
 (3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2574,9 +2578,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Motor vehicle leaving Singapore without prescribed amount of motor spirit
 
-136\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe1shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+136\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor spirit in its fuel supply tank as the Minister may by order prescribe\*shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
-1The minimum amount of motor spirit in the fuel supply tank of a motor vehicle referred to in section 136(1) shall be three-quarters of the total capacity of the fuel supply tank.SeeO 6, Cap. 70 with effect from 4th February 1991.
+\*The minimum amount of motor spirit in the fuel supply tank of a motor vehicle referred to in section 136(1) shall be three-quarters of the total capacity of the fuel supply tank.SeeO 6, Cap. 70 with effect from 4th February 1991.
 
 [19/89; 12/91; 23/93]
 
@@ -2891,6 +2895,12 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of commencement|1 April 2003|
 |29.|**2004 Revised Edition—Customs Act**|
 ||Date of operation|31 July 2004|
+|30.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Dates of commencement|1st March 2007|
+|||(item (5) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Customs Act
