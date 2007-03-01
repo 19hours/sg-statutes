@@ -214,7 +214,7 @@ PRELIMINARY
 
 [37/2005 wef 03/04/2006]
 
-“taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276);
+“taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276) ;
 
 [28/2001 wef 10/09/2001]
 
@@ -228,7 +228,9 @@ PRELIMINARY
 
 (i) the clearing of any ticket transaction; or
 
-(ii) the sale, topping-up, replacement of, or refund or management of the use of a mode of payment for, tickets; or
+(ii) the sale, topping-up, replacement or refund, or the management of the use, of a mode of payment for tickets; or
+
+[2/2007 wef 01/03/2007]
 
 (b) such other services as the Council may, by order in theGazette, prescribe;
 
@@ -257,6 +259,8 @@ PUBLIC TRANSPORT COUNCIL
 (b) such other members as the Minister may determine.
 
 [37/2005 wef 03/04/2006]
+
+(2) [Deleted by Act 37/2005 wef 03/04/2006]
 
 (3) The First Schedule shall have effect with respect to the Council, its members and proceedings.
 
@@ -409,6 +413,8 @@ LICENSING OF BUS SERVICES
 (h) the provision of route information.
 
 [37/2005 wef 03/04/2006]
+
+(2) [Deleted by Act 37/2005 wef 03/04/2006]
 
 ## PART IVA
 
@@ -954,6 +960,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 [29/99]
 
+(2) [Deleted by Act 37/2005 wef 03/04/2006]
+
 ### Recovery of sums payable
 
 26A\.—(1) Where any fee, contribution, financial penalty or other sum payable under this Act remains due and unpaid by a licensee, the Council may require the licensee to pay interest thereon at the prescribed rate, and any such fee, contribution, financial penalty or other sum, and any interest thereon, may be recovered by the Council in any court of competent jurisdiction as if they were simple contract debts.
@@ -1090,6 +1098,8 @@ Meetings of Council
 
 (5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
 
+(6) [Deleted by Act 37/2005 wef 03/04/2006 wef 03/04/2006]
+
 (7) Subject to the provisions of this Act, the Council may make rules to regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
 Council may act notwithstanding vacancy
@@ -1223,6 +1233,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 25/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|17 October 2005|
 ||Dates of commencement|3 April 2006 (except section 14)|
+|11.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (Section 13 – Amendment of Public Transport Council Act)|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
