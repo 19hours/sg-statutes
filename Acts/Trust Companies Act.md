@@ -256,6 +256,10 @@ PRELIMINARY
 
 “exempt person” means a person who is exempt under section 15 from holding a licence for the carrying on of any trust business;
 
+“financial year” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+[2/2007 wef 01/03/2007]
+
 “futures contract” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
 “licensed trust company” means a corporation holding a trust business licence;
@@ -710,25 +714,25 @@ but does not include any person —
 
 (b) a reference to the control of a percentage of the voting power in a licensed trust company is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the licensed trust company; and
 
-(c) a person, A, is an associate of another person, B, if —
+(c) a person,A, is an associate of another person,B, if —
 
-(i) A is the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, of B;
+(i) Ais the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, ofB;
 
-(ii) A is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B, or where B is a corporation, of the directors of B;
+(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB,or whereBis a corporation, of the directors ofB;
 
-(iii) B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A, or where A is a corporation, of the directors of A;
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
 
-(iv) A is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) B is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A;
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
 
-(vi) A is a related corporation of B;
+(vi) Ais a related corporation ofB;
 
-(vii) A is a corporation in which B, alone or together with other associates of B as described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in A;
+(vii) Ais a corporation in whichB,alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
 
-(viii) B is a corporation in which A, alone or together with other associates of A as described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in B; or
+(viii) Bis a corporation in whichA,alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
 
-(ix) A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the licensed trust company.
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the licensed trust company.
 
 [Banking, s. 15B; Broadcasting, s. 36]
 
@@ -904,7 +908,9 @@ and its books shall be kept in such a manner as will enable them to be convenien
 
 (3) An entry in the books of a licensed trust company required to be kept in accordance with this section shall be deemed to have been made by, or with the authority of, the licensed trust company.
 
-(4) A licensed trust company shall retain such books as may be required to be kept under this Act for a period of not less than 6 years.
+(4) A licensed trust company shall retain such books as may be required to be kept under this Act for a period of not less than 5 years.
+
+[2/2007 wef 01/03/2007]
 
 (5) A licensed trust company shall —
 
@@ -2241,6 +2247,12 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 |||(items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34)(a) and (36) in the First Schedule; and the Third Schedule)|
 |9.|**2006 Revised Edition—Trust Companies Act**|
 ||Date of operation|31 July 2006|
+|10.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007|
+|||(item (12) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
