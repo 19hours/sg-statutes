@@ -1882,7 +1882,9 @@ Accounts
 
 75\.—(1) The trustee-manager of a registered business trust shall cause to be kept such accounting records and other records as will sufficiently explain the transactions by the trustee-manager entered into on behalf of the registered business trust and financial position of the registered business trust and enable true and fair accounts and any documents required to be attached thereto to be prepared from time to time, and shall cause those records to be kept in such manner as to enable them to be conveniently and properly audited.
 
-(2) The trustee-manager of a registered business trust shall retain the records referred to in subsection (1) for 7 years after the completion of the transactions or operations to which they respectively relate.
+(2) Every management corporation shall retain all its records, books of account and such other documents relating to any of its transactions or operations for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those documents relate are completed.
+
+[2/2007 wef 01/03/2007]
 
 (3) The trustee-manager of a registered business trust shall devise and maintain a system of internal accounting controls sufficient to provide a reasonable assurance that —
 
@@ -3030,3 +3032,9 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1st April 2006|
 |||(Item (5) in the First Schedule — Amendment of Business Trusts Act)|
+|4.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2007)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007|
+|||(Item (2) of the Schedule — Amendment of Business Trusts Act)|
