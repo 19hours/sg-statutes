@@ -306,7 +306,7 @@ C is the amount of the estate duty to be remitted.
 
 (i) in the case of any gift inter vivos made for public or charitable purposes, the words “5 years” in this paragraph shall be read as “12 months”;
 
-(ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are made to the Government or any institution of a public character within the meaning of section 2(1) of the Income Tax Act (Cap. 134), or which are proved to the satisfaction of the Commissioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
+(ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are made to the Government or any institution of a public character within the meaning of the Charities Act (Cap. 37), or which are proved to the satisfaction of the Commissioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
 
 (d) property which the deceased, having been absolutely entitled thereto, has caused to be transferred to or vested in himself and any other person jointly, whether by disposition or otherwise, including also any purchase or investment effected by the deceased alone or in concert or by arrangement with any other person, so that the beneficial interest therein or in some part thereof passes or accrues by survivorship on his death to such other person;
 
@@ -402,7 +402,7 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 ### Bequests to Government or institutions of public character
 
-12\.—(1) No estate duty shall be payable in respect of the amount of a bequest to the Government or any institution of a public character within the meaning of section 2(1) of the Income Tax Act and the value of the property passing on the death of the donor of the bequest shall be deemed not to include the amount thereof for the purpose of assessing the rate of estate duty.
+12\.—(1) No estate duty shall be payable in respect of the amount of a bequest to the Government or any institution of a public character within the meaning of the Charities Act (Cap. 37) and the value of the property passing on the death of the donor of the bequest shall be deemed not to include the amount thereof for the purpose of assessing the rate of estate duty.
 
 [12/78; 42/98]
 
@@ -410,7 +410,7 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 ### Gifts to Government or institutions of public character
 
-12A\.—(1) No estate duty shall be payable in respect of any gift of any property passing on the death of a person to the Government or any institution of a public character within the meaning of section 2(1) of the Income Tax Act (Cap. 134) where the gift —
+12A\.—(1) No estate duty shall be payable in respect of any gift of any property passing on the death of a person to the Government or any institution of a public character within the meaning of the Charities Act (Cap. 37) where the gift —
 
 (a) is made on or after 1st January 2002 but before the issue of a notice of assessment by the Commissioner under section 37;
 
@@ -2008,6 +2008,12 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Date of commencement|9 December 2004|
 |36.|**2005 Revised Edition—Estate Duty Act**|
 ||Date of operation|31 July 2005|
+|37.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
 ## COMPARATIVE TABLE
 
 Estate Duty Act
