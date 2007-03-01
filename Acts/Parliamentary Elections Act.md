@@ -418,7 +418,7 @@ and such material shall be election advertising even though it can reasonably be
 
 (ii) in relation to candidates or groups of candidates, to their return at any such election;
 
-(b) the reference to the doing of anything mentioned in paragraph (a) or (b) of that definition shall include doing so by prejudicing the electoral prospects at the election of other political parties, candidates or groups of candidates or (as the case may be) by prejudicing the standing with the electorate of other political parties, candidates or groups of candidates; and
+(b) the reference to the doing of anything mentioned in paragraph (a) or (b) of the definition of “election advertising” shall include doing so by prejudicing the electoral prospects at the election of other political parties, candidates or groups of candidates or (as the case may be) by prejudicing the standing with the electorate of other political parties, candidates or groups of candidates; and
 
 [2/2007 wef 01/03/2007]
 
@@ -3817,6 +3817,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|1 January 2006|
 |58.|**G. N. No. S 232/2006—Parliamentary Elections Act (Amendment of First Schedule) Regulations 2006**|
 ||Date of commencement|19 April 2006|
+|59.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
