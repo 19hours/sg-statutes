@@ -460,8 +460,6 @@ shall be circulated to all members other than those falling within classes of me
 
 (c) to prescribe the information which the summary financial statement must contain.
 
-[26/2001 wef 22/08/2001]
-
 ### Appointment and powers of Academy’s auditor
 
 22\.—(1) The accounts of the Academy shall be audited by an auditor appointed annually by the Senate.
@@ -494,7 +492,7 @@ shall be circulated to all members other than those falling within classes of me
 
 (a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134); and
 
-(b) an institution of a public character approved by the Minister for the purposes of section 37(2) (c) of the Income Tax Act.
+(b) an institution of a public character approved under the Charities Act (Cap. 37).
 
 [10/2007 wef 01/03/2007]
 
@@ -571,3 +569,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|22 August 2001|
+|7.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
