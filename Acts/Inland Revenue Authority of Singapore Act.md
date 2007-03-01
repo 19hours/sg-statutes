@@ -174,8 +174,6 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (c) to represent Singapore internationally in respect of matters relating to taxation;
 
-(d) to provide service to the Commissioner of Charities in the performance of his functions under the Charities Act [Cap. 37];
-
 (e) to provide service in respect of the granting of licences or permits by the Comptroller of Property Tax or the Commissioner of Estate Duties under any written law;
 
 (f) to provide service and advice to the Government and statutory bodies in respect of matters relating to the valuation of immovable properties; and
@@ -287,8 +285,6 @@ FINANCIAL PROVISIONS
 (c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
 (2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services.
-
-[16/2005 wef 09/05/2005]
 
 ### Issue of shares, etc.
 
@@ -656,3 +652,9 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 5/2005 published on 5 March 2005)|
 ||Date of Second and Third Readings|21 April 2005|
 ||Date of commencement|9 May 2005|
+|10.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2007)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
