@@ -992,10 +992,6 @@ Sciuridae Ground squirrels, tree squirrels
 
 Cynomys mexicanus
 
-Epixerus ebii
-
-(Ghana)
-
 Marmota caudata
 
 (India)
@@ -1014,26 +1010,6 @@ Sciurus deppei
 
 (Costa Rica)
 
-Anomaluridae African flying squirrels
-
-Anomalurus
-
-beecrofti
-
-(Ghana)
-
-Anomalurus derbianus
-
-(Ghana)
-
-Anomalurus pelii
-
-(Ghana)
-
-Idiurus macrotis
-
-(Ghana)
-
 Muridae Mice, rats
 
 Leporillus conditor
@@ -1043,12 +1019,6 @@ Pseudomys praeconis
 Xeromys myoides
 
 Zyzomys pedunculatus
-
-Hystricidae Crested porcupine
-
-Hystrix cristata
-
-(Ghana)
 
 Erethizontidae New World porcupines
 
@@ -1274,7 +1244,7 @@ Mellivorinae Honey badger
 
 Mellivora capensis
 
-(Botswana, Ghana)
+(Botswana,)
 
 Mephitinae Hog-nosed skunk
 
@@ -1615,12 +1585,6 @@ Ceratotherium simum simum
 
 ARTIODACTYLA
 
-Tragulidae Mouse-deer
-
-Hyemoschus aquaticus
-
-(Ghana)
-
 Suidae Babirusa, pygmy hog
 
 Babyrousa babyrussa
@@ -1799,10 +1763,6 @@ Cephalophus silvicultor
 
 Cephalophus zebra
 
-Damaliscus lunatus
-
-(Ghana)
-
 Damaliscus pygargus pygargus
 
 Gazella cuvieri
@@ -1866,14 +1826,6 @@ Saiga tatarica
 Tetracerus quadricornis
 
 (Nepal)
-
-Tragelaphus eurycerus
-
-(Ghana)
-
-Tragelaphus spekii
-
-(Ghana)
 
 CLASS AVES (BIRDS) 
 
@@ -1939,24 +1891,6 @@ Fregata andrewsi
 
 CICONIIFORMES
 
-Ardeidae Egrets, herons
-
-Ardea goliath
-
-(Ghana)
-
-Bubulcus ibis
-
-(Ghana)
-
-Casmerodius albus
-
-(Ghana)
-
-Egretta garzetta
-
-(Ghana)
-
 Balaenicipitidae Shoebill, whale-headed stork
 
 Balaeniceps rex
@@ -1967,29 +1901,11 @@ Ciconia boyciana
 
 Ciconia nigra
 
-Ephippiorhynchus
-
-senegalensis
-
-(Ghana)
-
 Jabiru mycteria
-
-Leptoptilos crumeniferus
-
-(Ghana)
 
 Mycteria cinerea
 
 Threskiornithidae Ibises, spoonbills
-
-Bostrychia hagedash
-
-(Ghana)
-
-Bostrychia rara
-
-(Ghana)
 
 Eudocimus ruber
 
@@ -2001,10 +1917,6 @@ Nipponia Nippon
 
 Platalea leucorodia
 
-Threskiornis aethiopicus
-
-(Ghana)
-
 Phoenicopteridae Flamingos
 
 Phoenicopteridae spp\. 
@@ -2013,47 +1925,15 @@ ANSERIFORMES
 
 Anatidae Ducks, geese, swans, etc.
 
-Alopochen aegyptiacus
-
-(Ghana)
-
-Anas acuta
-
-(Ghana)
-
 Anas aucklandica
 
 Anas bernieri
-
-Anas capensis
-
-(Ghana)
-
-Anas clypeata
-
-(Ghana)
-
-Anas crecca
-
-(Ghana)
 
 Anas formosa
 
 Anas laysanensis
 
 Anas oustaleti
-
-Anas Penelope
-
-(Ghana)
-
-Anas querquedula
-
-(Ghana)
-
-Aythya nyroca
-
-(Ghana)
 
 Branta canadensis leucopareia
 
@@ -2079,25 +1959,9 @@ Dendrocygna autumnalis
 
 Dendrocygna bicolor
 
-(Ghana, Honduras)
-
-Dendrocygna viduata
-
-(Ghana)
-
-Nettapus auritus
-
-(Ghana)
+(, Honduras)
 
 Oxyura leucocephala
-
-Plectropterus gambensis
-
-(Ghana)
-
-Pteronetta hartlaubii
-
-(Ghana)
 
 Rhodonessa caryophyllacea
 
@@ -2205,10 +2069,6 @@ Pipile jacutinga
 Pipile pipile
 
 Phasianidae Grouse, guineafowl, partridges, pheasants, tragopans
-
-Agelastes
-
-Meleagrides (Ghana)
 
 Agriocharis ocellata
 
@@ -2384,25 +2244,9 @@ Columbidae Doves, pigeons
 
 Caloenas nicobarica
 
-Columba guinea
-
-(Ghana)
-
-Columba iriditorques
-
-(Ghana)
-
-Columba livia
-
-(Ghana)
-
 Columba mayeri
 
 (Mauritius)
-
-Columba unicincta
-
-(Ghana)
 
 Ducula mindorensis
 
@@ -2411,58 +2255,6 @@ Gallicolumba luzonica
 Goura
 
 spp\. 
-
-Oena capensis
-
-(Ghana)
-
-Streptopelia decipiens
-
-(Ghana)
-
-Streptopelia roseogrisea
-
-(Ghana)
-
-Streptopelia semitorquata
-
-(Ghana)
-
-Streptopelia senegalensis
-
-(Ghana)
-
-Streptopelia turtur
-
-(Ghana)
-
-Streptopelia vinacea
-
-(Ghana)
-
-Treron calva
-
-(Ghana)
-
-Treron waalia
-
-(Ghana)
-
-Turtur abyssinicus
-
-(Ghana)
-
-Turtur afer
-
-(Ghana)
-
-Turtur brehmeri
-
-(Ghana)
-
-Turtur tympanistria
-
-(Ghana)
 
 PSITTACIFORMES Amazons, cockatoos, lories, lorikeets, macaws, parakeets, parrots
 
@@ -2582,10 +2374,6 @@ Psephotus pulcherrimus
 
 Psittacula echo
 
-Psittacula krameri
-
-(Ghana)
-
 Pyrrhura cruentata
 
 Rhynchopsitta spp.
@@ -2596,19 +2384,7 @@ CUCULIFORMES
 
 Musophagidae Turacos
 
-Corythaeola cristata
-
-(Ghana)
-
-Crinifer piscator
-
-(Ghana)
-
 Musophaga porphyreolopha
-
-Musophaga violacea
-
-(Ghana)
 
 Tauraco
 
@@ -2822,305 +2598,15 @@ Carduelis cucullata
 
 Carduelis yarrellii
 
-Serinus canicapillus
-
-(Ghana)
-
-Serinus leucopygius
-
-(Ghana)
-
-Serinus mozambicus
-
-(Ghana)
-
 Estrildidae Mannikins, waxbills
-
-Amadina fasciata
-
-(Ghana)
 
 Amandava formosa
 
-Amandava subflava
-
-(Ghana)
-
-Estrilda astrild
-
-(Ghana)
-
-Estrilda caerulescens
-
-(Ghana)
-
-Estrilda melpoda
-
-(Ghana)
-
-Estrilda troglodytes
-
-(Ghana)
-
-Lagonosticta rara
-
-(Ghana)
-
-Lagonosticta rubricata
-
-(Ghana)
-
-Lagonosticta rufopicta
-
-(Ghana)
-
-Lagonosticta senegala
-
-(Ghana)
-
-Lagonosticta vinacea
-
-(Ghana)
-
-Lonchura bicolor
-
-(Ghana)
-
-Lonchura cantans
-
-(Ghana)
-
-Lonchura cucullata
-
-(Ghana)
-
-Lonchura fringilloides
-
-(Ghana)
-
-Mandingoa nitidula
-
-(Ghana)
-
-Nesocharis capistrata
-
-(Ghana)
-
-Nigrita bicolor
-
-(Ghana)
-
-Nigrita canicapilla
-
-(Ghana)
-
-Nigrita fusconota
-
-(Ghana)
-
-Nigrita luteifrons
-
-(Ghana)
-
-Ortygospiza atricollis
-
-(Ghana)
-
 Padda oryzivora
-
-Parmoptila rubrifrons
-
-(Ghana)
-
-Pholidornis rushiae
-
-(Ghana)
 
 Poephila cincta cincta
 
-Pyrenestes ostrinus
-
-(Ghana)
-
-Pytilia hypogrammica
-
-(Ghana)
-
-Pytilia phoenicoptera
-
-(Ghana)
-
-Spermophaga haematina
-
-(Ghana)
-
-Uraeginthus bengalus
-
-(Ghana)
-
 Ploceidae Weavers, whydahs
-
-Amblyospiza albifrons
-
-(Ghana)
-
-Anaplectes rubriceps
-
-(Ghana)
-
-Anomalospiza imberbis
-
-(Ghana)
-
-Bubalornis albirostris
-
-(Ghana)
-
-Euplectes afer
-
-(Ghana)
-
-Euplectes ardens
-
-(Ghana)
-
-Euplectes franciscanus
-
-(Ghana)
-
-Euplectes hordeaceus
-
-(Ghana)
-
-Euplectes macrourus
-
-(Ghana)
-
-Malimbus cassini
-
-(Ghana)
-
-Malimbus
-
-malimbicus
-
-(Ghana)
-
-Malimbus nitens
-
-(Ghana)
-
-Malimbus rubricollis
-
-(Ghana)
-
-Malimbus scutatus
-
-(Ghana)
-
-Pachyphantes superciliosus
-
-(Ghana)
-
-Passer griseus
-
-(Ghana)
-
-Petronia dentata
-
-(Ghana)
-
-Plocepasser superciliosus
-
-(Ghana)
-
-Ploceus albinucha
-
-(Ghana)
-
-Ploceus aurantius
-
-(Ghana)
-
-Ploceus cucullatus
-
-(Ghana)
-
-Ploceus heuglini
-
-(Ghana)
-
-Ploceus luteolus
-
-(Ghana)
-
-Ploceus melanocephalus
-
-(Ghana)
-
-Ploceus nigerrimus
-
-(Ghana)
-
-Ploceus nigricollis
-
-(Ghana)
-
-Ploceus pelzelni
-
-(Ghana)
-
-Ploceus preussi
-
-(Ghana)
-
-Ploceus tricolor
-
-(Ghana)
-
-Ploceus vitellinus
-
-(Ghana)
-
-Quelea erythrops
-
-(Ghana)
-
-Sporopipes frontalis
-
-(Ghana)
-
-Vidua chalybeata
-
-(Ghana)
-
-Vidua interjecta
-
-(Ghana)
-
-Vidua larvaticola
-
-(Ghana)
-
-Vidua macroura
-
-(Ghana)
-
-Vidua orientalis
-
-(Ghana)
-
-Vidua raricola
-
-(Ghana)
-
-Vidua togoensis
-
-(Ghana)
-
-Vidua wilsoni
-
-(Ghana)
 
 Sturnidae Mynahs (Starlings)
 
@@ -3332,35 +2818,11 @@ Rafetus swinhoei
 
 (China)
 
-Trionyx triunguis
-
-(Ghana)
-
 Pelomedusidae Afro-American side-necked turtles
 
 Erymnochelys madagascariensis
 
-Pelomedusa subrufa
-
-(Ghana)
-
 Peltocephalus dumeriliana
-
-Pelusios adansonii
-
-(Ghana)
-
-Pelusios castaneus
-
-(Ghana)
-
-Pelusios gabonensis
-
-(Ghana)
-
-Pelusios niger
-
-(Ghana)
 
 Podocnemis
 
@@ -4789,6 +4251,8 @@ ZYGOPHYLLACEAE Lignum-vitae
 Guaiacum
 
 spp\. #2
+
+[S 103/2007 wef 03/04/2007]
 
 [S 290/2006 wef 14/06/2006]
 
