@@ -296,11 +296,11 @@
 
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Parliamentary Elections Act (Chapter 218) Directions for Guidance of Voters in Voting**](#SECOND-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Directions-for-Guidance-of-Voters-in-Voting)
+[**SECOND SCHEDULE Parliamentary Elections Act (Chapter 218)**](#SECOND-SCHEDULE-Parliamentary-Elections-Act-Chapter-218)
 
-[**THIRD SCHEDULE Parliamentary Elections Act (Chapter 218) Election Expenses**](#THIRD-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Election-Expenses)
+[**THIRD SCHEDULE Parliamentary Elections Act (Chapter 218)**](#THIRD-SCHEDULE-Parliamentary-Elections-Act-Chapter-218)
 
-[**FOURTH SCHEDULE Parliamentary Elections Act (Chapter 218) Parliamentary Elections (Application for Avoidance of Election) Rules**](#FOURTH-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Parliamentary-Elections-Application-for-Avoidance-of-Election-Rules)
+[**FOURTH SCHEDULE Parliamentary Elections Act (Chapter 218)**](#FOURTH-SCHEDULE-Parliamentary-Elections-Act-Chapter-218)
 
 [**Legislative History**](#Legislative-History)
 
@@ -312,9 +312,9 @@
 
 (Original Enactment: Ordinance 26 of 1954)
 
-REVISED EDITION 2001
+REVISED EDITION 2007
 
-(31st July 2001)
+(31st March 2007)
 
 An Act to make provision for Parliamentary elections.
 
@@ -340,13 +340,13 @@ PRELIMINARY
 
 “Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
 
-“direct recording electronic”, “voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
+“direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
 
 (a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
 
 (b) process the vote by means of a computer program;
 
-(c) instantaneously record and store that vote within a memory device within the machine; and
+(c) instantaneously record and store that vote in a memory device within the machine; and
 
 (d) sort and count votes marked or recorded on all ballot displays on that machine,
 
@@ -408,7 +408,7 @@ and such material shall be election advertising even though it can reasonably be
 
 “voter” means a person who, whether his name does or does not appear in a register of electors, applies to vote or votes at an election.
 
-[10/88; 9/91; 42/96; 18/99; 19/2001]
+[10/88; 9/91; 42/96; 18/99; 19/2001; 31/2001]
 
 (2) For the purposes of this Act —
 
@@ -420,13 +420,9 @@ and such material shall be election advertising even though it can reasonably be
 
 (b) the reference to the doing of anything mentioned in paragraph (a) or (b) of the definition of “election advertising” shall include doing so by prejudicing the electoral prospects at the election of other political parties, candidates or groups of candidates or (as the case may be) by prejudicing the standing with the electorate of other political parties, candidates or groups of candidates; and
 
-[2/2007 wef 01/03/2007]
+(c) the reference to candidates or groups of candidates shall include a reference to any person or group of persons (whether or not a member of any political party) who, on or after the date of the issue of a writ for the election is declared, by himself or others, as seeking nomination as a candidate at that election.
 
-(c) the reference to candidates or groups of candidates shall include any person or group of persons (whether or not a member of any political party) who, on or after the date of the issue of a writ for the election is declared, by himself or others, as seeking nomination as a candidate at that election.
-
-[31/2001 wef 14/09/2001]
-
-[18/2005 wef 06/06/2005]
+[31/2001; 18/2005; 2/2007]
 
 ### Appointment of officers
 
@@ -466,11 +462,11 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
 
-(ii) a public officer or an employee of any public authority employed in full-time service outside Singapore;
+(ii) a public officer or an employee of a public authority employed in full-time service outside Singapore;
 
 (iii) a public officer or an employee of a public authority on full-time training outside Singapore;
 
-(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or any public authority;
+(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or a public authority;
 
 (v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135(1)(c)(ii) of the Constitution of the Republic of Singapore; or
 
@@ -492,9 +488,9 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [19/2001]
 
-(4) For the purposes of subsections (1), (1A) and (2), the prescribed date shall be 1st July or such other date as the Minister may, by order published in theGazette, specify1.
+(4) For the purposes of subsections (1), (1A) and (2), the prescribed date shall be 1st July or such other date as the Minister may, by order published in theGazette which specified 1st January in any year to be the prescribed date w.e.f, specify1.
 
-1Parliamentary Elections (Prescribed Date) Order (O 4) which specified 31st May in any year to be the prescribed date w.e.f 21st May 1999.
+1Parliamentary Elections (Prescribed Date) Order 2006 (S 1/2006)3rd January 2006.
 
 [42/96; 19/2001]
 
@@ -502,7 +498,7 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [42/96]
 
-(6) For the purposes of this section, the contact address of the holder of an identity card referred to in section 8(2) of the National Registration Act (Cap. 201) shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
+(6) For the purposes of this section, the contact address of the holder of an identity cardreferred to in section 8(2) of the National Registration Act (Cap. 201) shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
 
 [19/2001]
 
@@ -520,7 +516,7 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (e) is a serving member on full pay of any naval, military or air force not maintained out of moneys provided by Parliament unless he possesses a domicile in Singapore;
 
-(f) is a person whose name is entered on a register of electors in any other country or territory;
+(f) is a person whose name is entered in a register of electors in any other country or territory;
 
 (g) is a person whose name has been expunged from the register under sections 13(3) and 43(5) and whose name has not been restored to the register under section 43(8) or (8A), as the case may be; or
 
@@ -548,7 +544,7 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (2) Any person who votes as an elector —
 
-(a) in or in respect of an electoral division other than the electoral division in which he is registered;
+(a) in or in respect of an electoral division other than the electoral division in which he is registered as an elector;
 
 (b) more than once at any election in or in respect of the same electoral division in which he is registered as an elector; or
 
@@ -604,7 +600,7 @@ shall be guilty of an illegal practice.
 
 (b) assign to each such polling district a distinguishing letter or letters; and
 
-(c) publish in theGazettea notice in Form 2 in First Schedule specifying —
+(c) publish in theGazettea notice in Form 2 in the First Schedule specifying —
 
 (i) the polling districts into which that electoral division has been subdivided; and
 
@@ -626,11 +622,13 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (2) For the purpose of satisfying himself as to the qualification of any elector, the Registration Officer may make such enquiry as he may consider necessary.
 
-(3) On the completion of the register for any electoral division, the Registration Officer shall give notice in theGazettethat the register is completed and that the register or a copy thereof is open for inspection at all reasonable hours in the office of the Registration Officer and at such other place or places in or near the electoral division and at such overseas registration centres as may be specified in the notice.
+(3) On the completion of the register for any electoral division, the Registration Officer shall give notice in theGazettethat the register is completed and that the register, or a copy thereof, is open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in or near the electoral division and at such overseas registration centres as may be specified in the notice.
 
 [19/2001]
 
-(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore.
+(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic missionor consulate of Singapore situated in any territory outside Singapore.
+
+[14/2008 wef 03/03/2009]
 
 [19/2001]
 
@@ -652,11 +650,11 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (4) In this section and section 12, every person objecting to the inclusion or insertion of any name in the register is referred to as the objector.
 
-(5) Every objection to the inclusion of any name in the register shall be made in writing in duplicate and shall be in Form 4 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in theGazetteof the notice of completion of the register.
+(5) Every objection to the inclusion of any name in the register shall be made in writingin duplicate and shall be in Form 4 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in theGazetteof the notice of completion of the register.
 
-(6) Every objection to the insertion of the name of any claimant in the register shall be made in writing in duplicate and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
+(6) Every objection to the insertion of the name of any claimant in the register shall be made in writingin duplicate and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
 
-(7) [Deleted by Act 18 of 2005 wef 06/06/2005]
+(7) [Deleted by Act 18 of 2005]
 
 (8) The Registration Officer shall, as soon as practicable after receiving an objection to the inclusion or insertion of any name in any register, send a notice of the objection to the person in regard to whom objection has been made.
 
@@ -666,7 +664,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (9A) At any such public inquiry, any person appearing to the Registration Officer to be interested in or affected by the subject-matter of the inquiry may appear and be heard either by himself or by any other person duly authorised by him in writing in that behalf.
 
-(9B) Notwithstanding subsection (9), the Registration Officer may, without any public inquiry, allow any claim in respect of which no objection has been made if he is otherwise satisfied that the claim should be allowed and shall insert the claimant’s name in the register and, where applicable, register the person as an overseas elector.
+(9B) Notwithstanding subsection (9), the Registration Officer may, without any public inquiry, allow any claim in respect of which no objection has been made if he is satisfied that the claim should be allowed and shall insert the claimant’s name in the register and, where applicable, register the person as an overseas elector.
 
 [19/2001]
 
@@ -674,9 +672,9 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (11) If such prima facie proof is given, the Registration Officer shall require proof of the entitlement of the person in regard to whom objection has been made, and —
 
-(a) if the person’s entitlement is not proved to the Registration Officer’s satisfaction, he shall expunge that person’s name from or, as the case may be, refuse to insert that person’s name in the register;
+(a) if the person’s entitlement is not proved to the Registration Officer’s satisfaction, he shall expunge that person’s name from or, as the case may be, refuse to insert that person’s name in the register; or
 
-(b) if the person’s entitlement is so proved, he shall retain that person’s name or, as the case may be, insert that person’s name in the register and, where applicable, register the person as an overseas elector.
+(b) if the person’s entitlement is so proved, he shall retain that person’s name or, as the case may be, insert that person’s name in the register and, where applicable, register that person as an overseas elector.
 
 [19/2001]
 
@@ -692,15 +690,15 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [19/2001]
 
-(13) If an objection is made and is overruled by the Registration Officer and, in his opinion, the objection was made without reasonable cause, the Registration Officer may if he thinks fit order in writing the objector to pay to the person in regard to whom objection has been made such sum not exceeding $50 as the Registration Officer considers reasonable compensation for any loss of time incurred by the person in consequence of the objection.
+(13) If an objection is made and is overruled by the Registration Officer and, in his opinion, the objection was made without reasonable cause, the Registration Officer may, if he thinks fit, order in writing the objector to pay to the person in regard to whom objection has been made such sum not exceeding $50 as the Registration Officer considers reasonable compensation for any loss of time incurred by the person in consequence of the objection.
 
-(14) If, upon an objection being overruled, the objector appeals under section 12 to the Revising Officer and the appeal is dismissed, and in the opinion of the Revising Officer the appeal was made without reasonable cause, the Revising Officer may if he thinks fit order in writing the objector to pay to the person in regard to whom objection has been made such sum not exceeding $50 as the Revising Officer considers reasonable compensation for any loss of time incurred by the person in consequence of the appeal.
+(14) If, upon an objection being overruled, the objector appeals under section 12 to the Revising Officer and the appeal is dismissed, and in the opinion of the Revising Officer the appeal was made without reasonable cause, the Revising Officer may, if he thinks fit, order in writing the objector to pay to the person in regard to whom objection has been made such sum not exceeding $50 as the Revising Officer considers reasonable compensation for any loss of time incurred by the person in consequence of the appeal.
 
 (14A) If any appeal is allowed by the Revising Officer, he shall have power to revise or cancel any order made by the Registration Officer for the payment of compensation by the objector.
 
 (15) Any sum awarded as compensation under this section shall be recoverable as though the order of the Registration Officer or Revising Officer were an order of a District Court for the recovery of money by that Officer.
 
-(16) [Deleted by Act 18 of 2005 wef 06/06/2005]
+(16) [Deleted by Act 18 of 2005]
 
 ### Appeals to Revising Officer
 
@@ -710,7 +708,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (3) Every appeal under this section shall be in writing and shall state shortly the ground of appeal.
 
-[18/2005 wef 06/06/2005]
+[18/2005]
 
 (4) The Revising Officer shall hear such appeals in public giving notice of the dates of the hearing of the appeal to the parties concerned.
 
@@ -720,7 +718,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (5) When the Revising Officer has determined the appeals which have been lodged with respect to any register, he shall forward to the Registration Officer a statement under his hand containing the names which he has decided shall be included or inserted in the register and those which he has decided shall be expunged from the register, and the Registration Officer shall amend the register accordingly.
 
-(6) [Deleted by Act 18 of 2005 wef 06/06/2005]
+(6) [Deleted by Act 18 of 2005]
 
 ### Certification of registers
 
@@ -734,13 +732,19 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (3) Notwithstanding subsections (1), (1A) and (2), the Registration Officer shall, from time to time, on being informed by the Registrar of Citizens that any person has ceased to be a citizen of Singapore under the provisions of the Constitution, expunge the name of the person from any register of electors.
 
-(4) Notwithstanding anything to the contrary in this Act, the Registration Officer may at any time after certifying any register of electors for any electoral division, except between the issue of a writ of election under section 24 and polling day appointed for election in that division, remove from the register the name of any person where the Registration Officer has reason to believe that the address of that person as shown in the register has ceased to exist or to be used as a place of residence.
+[10/2010 wef 01/07/2010]
+
+(4) Notwithstanding anything to the contrary in this Act, the Registration Officer may, at any time after certifying any register of electors for any electoral division, except between the issue of a writ of election under section 24 and polling day appointed for election in that division, remove from the register the name of any person where the Registration Officer has reason to believe that the address of that person as shown in the register has ceased to exist or to be used as a place of residence.
+
+[14/2008 wef 03/03/2009]
 
 (4A) Where the person whose name has been removed under subsection (4) has notified the Commissioner of National Registration in writing of his change of address at the time of the removal of his name, the Registration Officer shall transfer the name of that person to the appropriate register.
 
+[14/2008 wef 03/03/2009]
+
 [18/99]
 
-(5) The Registration Officer shall not remove or transfer any name under subsection (4) or (4A) unless at least 2 weeks before making the removal or transfer a notice has been given in theGazettethat he proposes to make the removal or transfer and that a list of the names of persons affected is available for inspection at such time and place or places as may be specified in the notice.
+(5) The Registration Officer shall not remove or transfer any name under subsection (4) or (4A) unless at least 2 weeks before making the removal or transfer, a notice has been given in theGazettethat he proposes to make the removal or transfer and that a list of the names of persons affected is available for inspection at such time and place or places as may be specified in the notice.
 
 (5A) A notice for the purpose of subsection (5) may contain such particulars as the Registration Officer thinks sufficient and appropriate without specifying the names of persons who will be affected by the proposed removal or transfer.
 
@@ -762,11 +766,11 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
 
-(ii) a public officer or an employee of any public authority employed in full-time service outside Singapore;
+(ii) a public officer or an employee of a public authority employed in full-time service outside Singapore;
 
 (iii) a public officer or an employee of a public authority on full-time training outside Singapore;
 
-(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or any public authority;
+(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or a public authority;
 
 (v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135(1)(c)(ii) of the Constitution of the Republic of Singapore; or
 
@@ -802,6 +806,8 @@ may, not later than 21 days after the date of publication in theGazetteof the no
 
 [19/2001]
 
+[14/2008 wef 03/03/2009]
+
 (4) The registration of any person under this section as an overseas elector in any register of electors shall continue in operation until superseded by the coming into operation of the next certified register relating to any area within that electoral division following any preparation of registers under section 10 or any revision of registers under section 14.
 
 [19/2001]
@@ -812,21 +818,25 @@ may, not later than 21 days after the date of publication in theGazetteof the no
 
 (2) For the purpose of revising a register and of satisfying himself as to the entitlement of any person to registration or determining whether the name of any person should be inserted or retained in the register or expunged therefrom, the Registration Officer may make such inquiry as he may consider necessary either by himself or through a person appointed by him.
 
-(2A) Any notice requiring information for the purposes of subsection (2) may be sent by ordinary letter post to the person from whom the information is required or may be delivered to him or to an adult member of his household.
+(2A) Any notice requiring information for the purposes of subsection (2) may be sent by ordinary post to the person from whom the information is required or may be delivered to him or to an adult member of his household.
 
 (3) All officers in the service of the Government (other than officers of any Government department who are prohibited by law from furnishing information) and all local authorities are hereby authorised and required to furnish to the Registration Officer, or any person appointed by the Registration Officer for the purpose, all such information as he may require to enable him to revise the register.
 
 (4) Every person who, being in possession of any information required under subsection (2A), fails to give such information to the Registration Officer or to any person appointed by the Registration Officer for the purpose, or wilfully gives any false information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
 
-(5) Without prejudice to subsection (4), if any person being a registered elector fails to give such information with regard to his entitlement to registration to the Registration Officer or to any person appointed by the Registration Officer for the purpose within 14 days after the service upon him by the Registration Officer of a notice under subsection (2A), his name shall forthwith be expunged from the register by the Registration Officer and he shall not be entitled to have his name retained or inserted in the register for the ensuing year.
+[10/2010 wef 01/07/2010]
+
+(5) Without prejudice to subsection (4), if any person being a registered elector fails to give such information with regard to his entitlement to registration to the Registration Officer or to any person appointed by the Registration Officer for the purpose within 14 days after the service upon him by the Registration Officer of a notice under subsection (2A), his name shall immediately be expunged from the register by the Registration Officer and he shall not be entitled to have his name retained or inserted in the register for the ensuing year.
 
 (6) Every person who is appointed by the Registration Officer and who wilfully suppresses any information relating to the entitlement of any person for registration or relevant for determining whether the name of any person should or should not be retained or inserted in a register, after such information has been furnished to or collected by him, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+
+[10/2010 wef 01/07/2010]
 
 ### Method of revising register
 
 15\.—(1) In revising a register of electors, the Registration Officer shall enter the names of all persons who are qualified as electors under section 5 and are not disqualified by any of the provisions of section 6.
 
-(2) Upon the completion of the revised register of electors referred to in subsection (1), the Registration Officer shall give notice in theGazettethat the register of electors has been completed and that the register, or copy thereof, is open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such place or places as may be specified in the notice.
+(2) Upon the completion of the revised register of electors referred to in subsection (1), the Registration Officer shall give notice in theGazettethat the register of electors has been completed and that the register, or a copy thereof, is open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places as may be specified in the notice.
 
 ### Claims and objections at revision of register
 
@@ -854,7 +864,7 @@ may, not later than 21 days after the date of publication in theGazetteof the no
 
 ### Notice of certification of register and commencement and period of operation
 
-20\.—(1) On the certification of a register under this Act, the Registration Officer shall give notice in theGazettethat the register has been certified and that the register or a copy thereof, is open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such place or places in the division to which the register relates as may be specified in the notice.
+20\.—(1) On the certification of a register under this Act, the Registration Officer shall give notice in theGazettethat the register has been certified and that the register, or a copy thereof, is open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in the division to which the register relates as may be specified in the notice.
 
 (2) The certified register shall —
 
@@ -864,7 +874,7 @@ may, not later than 21 days after the date of publication in theGazetteof the no
 
 [42/96]
 
-(2A) Subject to such alterations as may subsequently be made therein in accordance with section 13, 17 or 43 or with section 26 of the Presidential Elections Act (Cap. 240A), the register shall continue in operation until superseded by the coming into operation of the next certified register.
+(2A) Subject to such alterations as may subsequently be made therein in accordance with section 13, 17 or 43, or with section 26 of the Presidential Elections Act (Cap. 240A), the register shall continue in operation until superseded by the coming into operation of the next certified register.
 
 [42/96]
 
@@ -890,11 +900,11 @@ and each electoral division shall be deemed to have been subdivided under sectio
 
 [42/96]
 
-(2) Unless the Minister otherwise directs, whenever any new electoral division is created or any electoral division is altered in the manner referred to in subsection (1)(a) or (b), section 10 shall not apply to that new or altered electoral division and the Registration Officer shall, before the next general election, prepare in accordance with subsection (3) a composite register for each new or altered division and certify it in the Form 7 in the First Schedule.
+(2) Unless the Minister otherwise directs, whenever any new electoral division is created or any electoral division is altered in the manner referred to in subsection (1)(a) or (b), section 10 shall not apply to that new or altered electoral division and the Registration Officer shall, before the next general election, prepare in accordance with subsection (3) a composite register for each new or altered division and certify it in Form 7 in the First Schedule.
 
 [42/96]
 
-(3) A composite register for any new or altered electoral division shall be prepared by using the certified registers in operation and combining the sections of these certified registers relating to the polling districts which have been redistributed or transferred to form the polling districts of the new or altered electoral division.
+(3) A composite register for any new or altered electoral division shall be prepared by using the certified registers in operation and combining the sections of those certified registers relating to the polling districts which have been redistributed or transferred to form the polling districts of the new or altered electoral division.
 
 [42/96]
 
@@ -908,7 +918,9 @@ and each electoral division shall be deemed to have been subdivided under sectio
 
 ### Penalty for false statements and wrongful claims
 
-21\.—(1) Every person who wilfully makes a false statement or declaration in any claim or objection or at any inquiry held in connection therewith or in any appeal shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+21\.—(1) Every person who wilfully makes a false statement or declaration in any claim or objection or at any inquiry held in connection therewith or in any appeal shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 .
+
+[10/2010 wef 01/07/2010]
 
 (2) The Registration Officer or a Revising Officer may, on the consideration or hearing of any claim, objection or appeal, require that the evidence tendered by any person shall be given on oath and may administer the oath for that purpose.
 
@@ -939,6 +951,8 @@ and each electoral division shall be deemed to have been subdivided under sectio
 [19/2001]
 
 (4) Any person who knowingly contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[10/2010 wef 01/07/2010]
 
 [19/2001]
 
@@ -1006,27 +1020,23 @@ ELECTIONS
 
 (d) contain a statutory declaration by the person seeking nomination stating that he is qualified to be elected.
 
-(2A) [Deleted by Act 18 of 2005 wef 06/06/2005]
-
-(2B) [Deleted by Act 18 of 2005 wef 06/06/2005]
+[18/2005]
 
 (3) Every candidate shall, at the time of his nomination, deliver to the Returning Officer —
 
-(a) [Deleted by Act 18 of 2005 wef 06/06/2005]
+(a) [Deleted by Act 18 of 2005]
 
-(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000 (Act 20/2000).
+(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236).
 
-[20/2000]
+[20/2000; 18/2005]
 
 (3A) If the statutory declaration which is required by subsection (2)(d) to be made is not so made, or the political donation certificate which is required by subsection (3)(b) to be delivered is not so delivered, the nomination of the candidate shall be deemed to be void.
 
-[18/2005 wef 06/06/2005]
+[20/2000; 18/2005]
 
-[20/2000]
+(4) The Returning Officer may, at any time between the date of the notice of the writ referred to in section 25 and 12 noon of the day of nomination, supply a form of nomination paper to any registered elector requiring it.
 
-(4) The Returning Officer may, at any time between the date of the notice of the writ referred to in section 25 and 12 noon of the day of nomination, supply a form of nomination paper to any registered elector requiring them.
-
-[18/2005 wef 06/06/2005]
+[18/2005]
 
 ### Election of Members on a group basis in group representation constituencies
 
@@ -1104,15 +1114,13 @@ shall apply in the prescribed manner to the appropriate Committee for a certific
 
 (d) contain a statutory declaration by each of the persons seeking nomination stating that he is qualified to be elected, and the political party for which the group stands (if any).
 
-(2A) [Deleted by Act 18 of 2005 wef 06/06/2005]
-
-(2B) [Deleted by Act 18 of 2005 wef 06/06/2005]
+[18/2005]
 
 (3) Every candidate in a group shall, at the time of the nomination of the group, deliver to the Returning Officer —
 
-(a) [Deleted by Act 18 of 2005 wef 06/06/2005]
+(a) [Deleted by Act 18 of 2005]
 
-(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000 (Act 20/2000); and
+(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236); and
 
 (c) if he is a person belonging to —
 
@@ -1122,23 +1130,19 @@ shall apply in the prescribed manner to the appropriate Committee for a certific
 
 a certificate issued to him under section 27A(6) certifying that he is a person belonging to the Malay community or a person belonging to the Indian or other minority communities, as the case may be.
 
-[20/2000]
+[20/2000; 18/2005]
 
 (3A) If any statutory declaration which is required by subsection (2)(d) to be made is not so made, or any certificate which is required by subsection (3) to be delivered by any candidate in a group is not so delivered, the nomination of that group shall be deemed to be void.
 
-[18/2005 wef 06/06/2005]
-
-[10/88]
+[10/88; 18/2005]
 
 (4) The Returning Officer may, at any time between the date of the notice of the writ referred to in section 25 and 12 noon of the day of nomination, supply a form of nomination paper to any registered elector requiring the same.
 
-[18/2005 wef 06/06/2005]
-
-[10/88]
+[10/88; 18/2005]
 
 (5) Where the nomination paper of any group does not comply with this section or section 27A, or where any candidate in a group withdraws or is deemed to have withdrawn his candidature under section 32, the nomination of that group shall be deemed to be void.
 
-[10/88]
+[10/88; 31/2001]
 
 (6) Section 27 shall not apply to any election in any group representation constituency.
 
@@ -1196,13 +1200,15 @@ a certificate issued to him under section 27A(6) certifying that he is a person 
 
 (1A) In default of the sum being so deposited under subsection (1), the candidate shall be deemed to have withdrawn his candidature under section 32.
 
-(1B) The Returning Officer shall forthwith give a receipt for that sum and pay that sum into the Consolidated Fund, and that sum shall be dealt with in accordance with the provisions of this Act.
+(1B) The Returning Officer shall immediately give a receipt for that sum and pay that sum into the Consolidated Fund, and that sum shall be dealt with in accordance with the provisions of this Act.
 
 [11/88]
 
 (2) Any sum required to be deposited under subsection (1) shall be paid in legal tender or by a bank draft or a certified cheque.
 
 (3) If a candidate is not nominated as a candidate for election or if, after the deposit is made, the candidate withdraws his candidature under section 32, the deposit shall be returned to the person by whom the deposit was made.
+
+[10/2010 wef 01/07/2010]
 
 (3A) If the candidate dies after the deposit is made and before the poll is commenced, the deposit, if made by him, shall be returned to his legal personal representative or, if not made by him, shall be returned to the person by whom the deposit was made.
 
@@ -1220,9 +1226,9 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 [10/88]
 
-(5) [Deleted by Act 31/2001 wef 14/09/2001]
+(5) [Deleted by Act 31 of 2001]
 
-(5A) [Deleted by Act 31/2001 wef 14/09/2001]
+(5A) [Deleted by Act 31 of 2001]
 
 (6) For the purposes of this section —
 
@@ -1238,17 +1244,17 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 29\.—(1) The Returning Officer shall, on the day of nomination, attend at the place of nomination from 11 a.m. until 12 noon to receive nomination papers and political donation certificates issued by the Registrar of Political Donations and certificates (if any) issued under section 27A(6) (referred to in this Act as nomination papers).
 
-[18/2005 wef 06/06/2005]
-
-[10/88; 20/2000]
+[10/88; 20/2000; 18/2005]
 
 (2) Every such nomination paper and certificate shall be delivered to the Returning Officer, in duplicate and in person, by the person seeking nomination accompanied by his proposer, seconder and at least 4 assentors, at the place of nomination between 11 a.m. and 12 noon (both times inclusive) on the day of nomination, and if not so delivered, shall be rejected.
 
-(3) The Returning Officer shall forthwith cause a copy of the nomination paper to be posted in a conspicuous position outside the place of nomination.
+[18/2005]
+
+(3) The Returning Officer shall immediately cause a copy of the nomination paper to be posted in a conspicuous position outside the place of nomination.
 
 (4) The Returning Officer shall permit the candidates and their proposers, seconders and assentors and one other person (if any) appointed by each candidate in writing to be present on the day and at the place of nomination between 11 a.m. and 12.30 p.m. and there and then to examine the nomination papers of candidates which have been received for that electoral division.
 
-[18/2005 wef 06/06/2005]
+[18/2005]
 
 ### Amendment of nomination papers
 
@@ -1260,7 +1266,11 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 the Returning Officer may, before making his decision under section 29 or 30, give the candidate or person seeking nomination, as the case may be, a reasonable opportunity to correct the error or omission before 12 noon on the day of nomination.
 
+[18/2005]
+
 (2) Subject to subsection (3), where any error or omission in a person’s nomination paper is brought to the attention of the candidate or person seeking nomination (whether by the Returning Officer under subsection (1) or following an objection made under section 30), the candidate or person seeking nomination, as the case may be, may, at any time before 12 noon on the day of nomination but no later, take such action as may be necessary to correct any such error or omission in his nomination paper.
+
+[18/2005]
 
 (3) Nothing in subsection (1) or (2) shall authorise any candidate or person seeking nomination to substitute a different person —
 
@@ -1268,7 +1278,11 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 (b) as proposer, seconder or assentor.
 
+[18/2005]
+
 (4) In this section, “error” has the same meaning as in section 103.
+
+[18/2005]
 
 ### Objections to nomination papers
 
@@ -1284,13 +1298,15 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 [10/88]
 
-(1A) Without prejudice to subsection (4), an objection to the nomination paper of a candidate or a group of candidates for election for an electoral division may only be made by
+(1A) Without prejudice to subsection (4), an objection to the nomination paper of a candidate or a group of candidates for election for an electoral division may only be made by —
 
 (a) another candidate for election for that same electoral division;
 
 (b) that other candidate’s proposer, seconder or any of his assentors; or
 
 (c) the one other person (if any) appointed in writing by that other candidate to be present on the day and at the place of nomination.
+
+[18/2005]
 
 (2) No objection to a nomination paper shall be allowed —
 
@@ -1308,7 +1324,7 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 (6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an application under section 90.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 ### Persons entitled to be present during nomination proceedings
 
@@ -1324,11 +1340,15 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 (e) any other person with the written permission of the Returning Officer to be present at those proceedings.
 
+[18/2005]
+
 ### Withdrawal of candidature
 
 32\.—(1) A candidate may before 12 noon on the day of nomination, but not afterwards, withdraw his candidature by giving, in person, a notice to that effect signed by him to the Returning Officer.
 
-(2) The Returning Officer shall forthwith cause notice of the withdrawal to be posted in a conspicuous position outside the place of nomination.
+[18/2005]
+
+(2) The Returning Officer shall immediately cause notice of the withdrawal to be posted in a conspicuous position outside the place of nomination.
 
 ### Multiple nominations
 
@@ -1340,29 +1360,35 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 each such nomination shall be deemed to be void.
 
+[18/2005]
+
 (2) Subsection (1) shall also apply where 2 or more by-elections are held at the same time.
+
+[31/2001]
 
 UNCONTESTED ELECTIONS
 
 ### Uncontested elections
 
-33\.—(1) If, on the day of nomination, in any electoral division, after the decision by the Returning Officer on any objection which may have been lodged, only one candidate or a group of candidates stands nominated for that division, the Returning Officer shall forthwith —
+33\.—(1) If, on the day of nomination in any electoral division, after the decision by the Returning Officer on any objection which may have been lodged, only one candidate or a group of candidates stands nominated for that division, the Returning Officer shall immediately —
 
 (a) declare the nominated candidate or the group of candidates to be elected; and
 
 (b) cause the name or names of the Member or Members so elected to be published in theGazette.
 
-[10/88]
+[10/88; 18/2005]
 
 (2) Nothing in sections 29 and 30 shall prevent the Returning Officer from exercising any of his powers under subsection (1) before 12.30 p.m. if, at 12 noon on the day of nomination for an election in any electoral division, only one candidate or one group of candidates stands nominated for that electoral division.
+
+[18/2005]
 
 CONTESTED ELECTIONS
 
 ### Contested elections
 
-34\.—(1) If, on the day of nomination in any electoral division, after the decision by the Returning Officer of any objections which may have been lodged, more candidates than one stand nominated for that division, the Returning Officer shall —
+34\.—(1) If, on the day of nomination in any electoral division, after the decision by the Returning Officer on any objections which may have been lodged, more candidates than one stand nominated for that division, the Returning Officer shall —
 
-(a) forthwith adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
+(a) immediately adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
 
 (b) allot to each candidate an approved symbol which shall be printed on the ballot paper opposite that candidate’s name.
 
@@ -1398,15 +1424,17 @@ CONTESTED ELECTIONS
 
 (a) countermand the notice for the poll; and
 
-(b) appoint, by notice published in theGazette, a fresh date for the election.
+(b) appoint, by notice published in theGazette, a fresh datefor the election.
 
-(9) Where the Returning Officer has countermanded the poll under subsection (8), all proceedings with reference to the election shall be commenced afresh except that no fresh nomination shall be necessary in the case of a candidate who stood nominated at the time of the countermand of the poll.
+[10/2010 wef 01/07/2010]
+
+(9) Where the Returning Officer has countermanded the poll under subsection (8), all proceedings with reference to the election shall be commenced afresh, except that no fresh nomination shall be necessary in the case of a candidate who stood nominated at the time of the countermand of the poll.
 
 ### Contested elections in group representation constituencies
 
 34A\.—(1) If, on the day of nomination, in any group representation constituency, after the decision by the Returning Officer on any objection which may have been lodged, more groups than one stand nominated for that constituency, the Returning Officer shall —
 
-(a) forthwith adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
+(a) immediately adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
 
 (b) allot to each group of candidates an approved symbol which shall be printed on the ballot paper opposite the names of each group.
 
@@ -1452,7 +1480,9 @@ CONTESTED ELECTIONS
 
 (a) countermand the notice for the poll; and
 
-(b) appoint, by notice published in theGazette, a fresh date for the election in that constituency.
+(b) appoint, by notice published in theGazette, a fresh datefor the election in that constituency.
+
+[10/2010 wef 01/07/2010]
 
 (8A) Where the Returning Officer has countermanded the poll under subsection (8), all proceedings with reference to the election shall be commenced afresh, except that no fresh nomination shall be necessary in the case of any group which stood nominated at the time of the countermand of the poll.
 
@@ -1536,6 +1566,8 @@ CONTESTED ELECTIONS
 
 (5) If the person mentioned in subsection (4) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
 
+[10/2010 wef 01/07/2010]
+
 (6) Nothing in this section shall affect the liability of any person to any penalty for an infringement of section 7 relating to plural voting.
 
 ### Admittance to polling station
@@ -1550,9 +1582,13 @@ CONTESTED ELECTIONS
 
 (2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A(3).
 
+[14/2008 wef 03/03/2009]
+
 [19/2001]
 
 (3) Unless the Returning Officer, by notification in theGazetteor under section 50C(3)(b), appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
+
+[10/2010 wef 01/07/2010]
 
 [19/2001]
 
@@ -1592,13 +1628,15 @@ CONTESTED ELECTIONS
 
 (a) the overseas polling station allotted to him under section 13A(3) by the Registration Officer; or
 
+[14/2008 wef 03/03/2009]
+
 (b) the polling station in the electoral division allotted to him under section 36A(1),
 
 but not at both in respect of the same election.
 
 [19/2001]
 
-(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours but not more than 12 hours and may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours but not more than 12 hoursand may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
 
 [19/2001]
 
@@ -1628,7 +1666,7 @@ but not at both in respect of the same election.
 
 (3) In respect of any group representation constituency, every ballot paper shall contain —
 
-(a) a list of the candidates in each group in English, described, subject to section 105, in their respective nomination papers and arranged alphabetically in English in the order specified in section 37(5) and (6); and
+(a) a list of the candidates in each group in English, described, subject to section 105, as in their respective nomination papers, and arranged alphabetically in English in the order specified in section 37(5) and (6); and
 
 (b) the symbol allotted to each group.
 
@@ -1688,7 +1726,7 @@ but not at both in respect of the same election.
 
 [18/99]
 
-(3) The voter, on receiving the ballot paper, shall forthwith proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act.
+(3) The voter, on receiving the ballot paper, shall immediately proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act.
 
 (3A) The voter shall then fold the paper so as to conceal his vote, and shall put the paper so folded up into the ballot box.
 
@@ -1724,9 +1762,13 @@ but not at both in respect of the same election.
 
 (8) If any applicant under subsection (7) satisfies the Registration Officer that he has a good and sufficient reason for not having recorded his vote, his name shall be restored to the register without penalty.
 
-(8A) Where the applicant does not so satisfy the Registration Officer, his name shall be restored to the register on payment of the sum of $5 to the Registration Officer.
+(8A) Where the applicant does not satisfy the Registration Officer under subsection (8), his name shall be restored to the register on payment of the sum of $5 to the Registration Officer.
+
+[10/2010 wef 01/07/2010]
 
 (9) Any name to be restored to the register under subsection (8) or (8A) shall, except as otherwise provided in subsection (11), be restored the day after the Registration Officer has satisfied himself that the applicant has a good and sufficient reason for not recording his vote or the day after the payment of the sum of $5 to the Registration Officer, as the case may be.
+
+[10/2010 wef 01/07/2010]
 
 (10) Where any person whose name is to be restored to the register under subsection (8) or (8A) has notified the Commissioner of National Registration of any change in his address and it appears from such change of address that he is no longer residing in the same electoral division, his name shall be restored to the appropriate register of the electoral division in which he is residing.
 
@@ -1734,13 +1776,15 @@ but not at both in respect of the same election.
 
 ### Declarations by voters
 
-44\.—(1) The presiding officer at any polling station may, in his discretion, require any voter, before he is given a ballot paper, to furnish such evidence of his identity as the presiding officer may consider necessary and to make and subscribe all or any of the declarations set out in the Forms 13, 14 and 15 in the First Schedule.
+44\.—(1) The presiding officer at any polling station may, in his discretion, require any voter, before he is given a ballot paper, to furnish such evidence of his identity as the presiding officer may consider necessary and to make and subscribe to all or any of the declarations set out in Forms 13, 14 and 15 in the First Schedule.
 
 (2) Every such declaration shall be exempt from stamp duty.
 
 (3) If any person fails to furnish such evidence of his identity or refuses to make any such declaration, the presiding officer may refuse to give him a ballot paper.
 
 (4) If any person wilfully makes a false statement in any such declaration, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+
+[10/2010 wef 01/07/2010]
 
 ### Spoilt ballot papers
 
@@ -1750,9 +1794,9 @@ but not at both in respect of the same election.
 
 ### Tendered votes
 
-46\.—(1) If a person representing himself to be a particular elector named in the register applies for a ballot paper after another person has voted as such elector, the applicant shall on taking an oath of identity, which may be administered by the presiding officer and which shall be in the Form 16 in the First Schedule, be entitled to receive a ballot paper and to vote in the same manner as any other voter.
+46\.—(1) If a person representing himself to be a particular elector named in the register applies for a ballot paper after another person has voted as such elector, the applicant shall, on taking an oath of identity, which may be administered by the presiding officer and which shall be in Form 16 in the First Schedule, be entitled to receive a ballot paper and to vote in the same manner as any other voter.
 
-(2) The ballot paper (referred to in this Act as a tendered ballot paper) shall be of a colour different from the other ballot papers, and, before being placed in a ballot box, shall be endorsed by the presiding officer with the name of the voter and his number in the register, and that number shall be entered on a list (referred to in this Act as the tendered votes list).
+(2) The ballot paper (referred to in this Act as a tendered ballot paper) shall be of a colour different from the other ballot papers, and, before being placed in a ballot box, shall be endorsed by the presiding officer with the name of the voter and his number in the register, and that number shall be entered in a list (referred to in this Act as the tendered votes list).
 
 (3) Tendered ballot papers shall be dealt with in the manner hereinafter provided.
 
@@ -1778,7 +1822,7 @@ but not at both in respect of the same election.
 
 (3) Every presiding officer of a polling station shall despatch each such packet and the ballot box or boxes in safe custody to the Returning Officer or an Assistant Returning Officer at the counting place where the votes cast at the polling station are to be counted in accordance with the provisions of this Act.
 
-(4) Where the Returning Officer has, in any direction made under section 48A(1), specified a polling station to be a counting place, the presiding officer of the polling station shall keep at that station every such packet and ballot box in safe custody pending counting of the votes at that polling station.
+(4) Where the Returning Officer has, in any direction made under section 48A(1), specified a polling station to be a counting place, the presiding officer of the polling station shall keep at that station every such packet and the ballot box or boxes in safe custody pending counting of the votes at that polling station.
 
 [42/96]
 
@@ -1836,11 +1880,9 @@ but not at both in respect of the same election.
 
 (6) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate or group of candidates whom they support and shall mark each packet with the name of the candidate or group of candidates and shall seal the packet and retain it unless it is required for the purposes of an application under section 90.
 
-[42/2005 wef 01/01/2006]
+[10/88; 42/2005]
 
-[10/88]
-
-(7) Where only one counting place is specified for an electoral division under section 48A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at that sole counting place or, if a recount thereof is allowed under section 49B, after that recount is completed, forthwith act as follows:
+(7) Where only one counting place is specified for an electoral division under section 48A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at that sole counting place or, if a recount thereof is allowed under section 49B, after that recount is completed, immediately act as follows:
 
 (a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
@@ -1876,7 +1918,7 @@ but not at both in respect of the same election.
 
 [42/96]
 
-(7E) When the total number of votes cast at polling stations in Singapore for each candidate or (as the case may be) group of candidates at an election in an electoral division is ascertained under subsection (7D), or if a recount thereof is allowed under section 49B, after that recount is completed, the Returning Officer shall forthwith act as follows:
+(7E) When the total number of votes cast at polling stations in Singapore for each candidate or (as the case may be) group of candidates at an election in an electoral division is ascertained under subsection (7D), or if a recount thereof is allowed under section 49B, after that recount is completed, the Returning Officer shall immediately act as follows:
 
 (a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
@@ -1906,7 +1948,7 @@ but not at both in respect of the same election.
 
 (11) A Judge of the High Court shall not make an order under subsection (10) unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an application under section 90 in connection with the election.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (12) Except as provided in this section, no person shall be allowed to inspect any such ballot paper or document after it has been sealed up in pursuance of subsection (9).
 
@@ -1930,7 +1972,7 @@ but not at both in respect of the same election.
 
 [19/2001]
 
-(5) Where the Returning Officer has made a declaration under section 49(7)(b) or (7E)(b), the number of votes given by overseas electors to each candidate or group of candidates shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer shall forthwith declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes cast to be elected.
+(5) Where the Returning Officer has made a declaration under section 49(7)(b) or (7E)(b), the number of votes given by overseas electors to each candidate or group of candidates shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer shall immediately declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes is given to be elected.
 
 [19/2001]
 
@@ -2008,7 +2050,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an application under section 90.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 ### Approval of DRE voting systems
 
@@ -2070,7 +2112,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (d) make a record containing the identification numbers of every such approved DRE voting machine and the respective polling stations to which each has been allocated; and
 
-(e) furnish a copy of the record to such candidate or his election agent who requests for such a copy before polling day.
+(e) furnish a copy of the record to such candidate or his election agent who requests such a copy before polling day.
 
 [19/2001]
 
@@ -2096,7 +2138,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 [19/2001]
 
-(2) The presiding officer at a polling station using DRE voting machines and direct recording electronic voting equipment at the poll shall periodically inspect or cause to be inspected the machines and equipment for tampering and damage or any malfunction while voting is in progress.
+(2) The presiding officer at a polling station using DRE voting machines and direct recording electronic voting equipment at the poll shall periodically inspect or cause to be inspected the machines and equipment for any tampering and damage or any malfunction while voting is in progress.
 
 [19/2001]
 
@@ -2128,7 +2170,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 ### Publication of result and statement of poll inGazette
 
-51\. The Returning Officer shall forthwith after the result has been declared by him under section 49(7)(a) or (7E)(a) and all the votes cast by overseas electors have been counted or after the result has been declared by him under section 49A(5), as the case may be, compile a statement of the poll in the Form 17 in the First Schedule and shall cause the name or names of the members so elected and also the statement to be published in theGazette.
+51\. The Returning Officer shall immediately after the result has been declared by him under section 49(7)(a) or (7E)(a) and all the votes cast by overseas electors have been counted or after the result has been declared by him under section 49A(5), as the case may be, compile a statement of the poll in Form 17 in the First Schedule and shall cause the name or names of the members so elected and also the statement to be published in theGazette.
 
 [19/2001]
 
@@ -2144,6 +2186,8 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (2) The non-constituency Member or Members to be declared elected under subsection (1) shall be determined from among the candidates of those political parties (other than the party or parties that will form the Government) contesting the general election on the basis of the percentage of the votes polled at the same general election by such candidates in the following order of priority — the candidate receiving the highest percentage of votes being placed first and the other candidates being placed in descending order in accordance with the percentages of votes polled by them.
 
+[10/2010 wef 01/07/2010]
+
 (3) Subject to subsection (3A), where any non-constituency Member is to be declared elected under this section, the Returning Officer shall, as soon as he determines the candidate who stands first in accordance with the order of priority under subsection (2), declare that candidate to be so elected; and if more than one non-constituency Member are to be declared elected, the Returning Officer shall declare as so elected the next succeeding candidate or candidates, as the case may be, in the order of priority under subsection (2).
 
 (3A) No such candidate shall be declared as so elected under subsection (3) unless he has polled not less than 15% of the total number of votes (other than rejected votes) polled at the election in the electoral division contested by him.
@@ -2152,7 +2196,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (3B) Where there is an equality of the percentage of the votes between any candidates and the number of such candidates who are eligible to be declared elected under this section exceeds the number of non-constituency Members to be declared elected, the determination of the candidate or candidates to be declared elected shall be as follows:
 
-(a) if all such candidates are from the same group, the Returning Officer shall inform that group of the number of candidate or candidates in that group to be declared elected and the group shall within 7 days determine among themselves who shall be declared elected and shall forthwith notify the Returning Officer of such determination; or
+(a) if all such candidates are from the same group, the Returning Officer shall inform that group of the number of candidate or candidates in that group to be declared elected and the group shall within 7 days determine among themselves who shall be declared elected and shall immediately notify the Returning Officer of such determination; or
 
 (b) in any other case, or where the group referred to in paragraph (a) fails to notify the Returning Officer, the determination shall be made by lot in the presence of the Returning Officer in such manner and at such time as he may determine.
 
@@ -2210,7 +2254,9 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (j) manufactures, constructs, imports into Singapore, has in his possession, supplies or uses for the purpose of an election, or causes to be manufactured, constructed, imported into Singapore, supplied or used for the purpose of any election, any appliance, device or mechanism by which a ballot paper may be extracted, affected or manipulated after having been deposited in a ballot box during the polling at any election,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years and shall, on conviction, become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election or appointment shall be vacated from the date of the conviction.
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years and shall, on conviction, become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
+
+[10/2010 wef 01/07/2010]
 
 [21/91; 19/2001]
 
@@ -2223,6 +2269,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 [19/2001]
 
 (5) A prosecution for an offence under this section shall not be instituted without the sanction of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Maintenance of secrecy at elections
 
@@ -2255,6 +2303,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 [19/2001]
 
 (7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+
+[10/2010 wef 01/07/2010]
 
 CORRUPT PRACTICES
 
@@ -2340,6 +2390,8 @@ shall be guilty of the offence of undue influence.
 
 (ii) in the case of any other election advertising, does not bear in the form and manner prescribed under section 78A the names and addresses of its publisher and the person for whom or at whose direction the election advertising is published;
 
+[10/2010 wef 01/07/2010]
+
 (d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 
 (e) makes or publishes, before or during any election, for the purpose of promoting or procuring the election of any candidate, any false statement of the withdrawal of any other candidate at the election; or
@@ -2350,7 +2402,11 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (i) in the case referred to in paragraph (a), to a fine of not less than $250 and not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
+[10/2010 wef 01/07/2010]
+
 (ii) in any other case, to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+
+[31/2001]
 
 (2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
@@ -2358,9 +2414,13 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1)(d) and (e) shall not be instituted without the sanction of the Public Prosecutor.
 
+[15/2010 wef 02/01/2011]
+
 (4) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any corrupt practice.
 
 (5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
+
+[31/2001]
 
 (6) Subsection (1)(c) shall not apply in respect of —
 
@@ -2374,6 +2434,8 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (e) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
 
+[31/2001]
+
 ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 ### Nomination of election agent
@@ -2384,11 +2446,11 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (3) On or before the day of nomination, the name and address of the election agent of each candidate shall be declared in writing by the candidate or some other person on his behalf to the Returning Officer.
 
-(3A) The Returning Officer shall then forthwith, by affixing a notice in a conspicuous place outside his office, give public notification of the name and address of every election agent so declared.
+(3A) The Returning Officer shall then immediately, by affixing a notice in a conspicuous place outside his office, give public notification of the name and address of every election agent so declared.
 
 (4) One election agent only shall be appointed for each candidate, but the appointment, whether the election agent appointed be the candidate himself or not, may be revoked.
 
-(4A) In the event of such revocation or of the death of an election agent, whether the event is before, during or after the election, another election agent shall forthwith be appointed, and his name and address declared in writing to the Returning Officer, who shall forthwith give public notice of the name and address in the manner specified in subsection (3A).
+(4A) In the event of such revocation or of the death of an election agent, whether the event is before, during or after the election, another election agent shall immediately be appointed, and his name and address declared in writing to the Returning Officer, who shall immediately give public notice of the name and address in the manner specified in subsection (3A).
 
 (5) A principal election agent for a group of candidates shall be appointed by the candidates from amongst their election agents and the provisions of this section relating to the appointment and revocation of appointment of an election agent and public notification thereof shall apply, with the necessary modifications, in respect of a principal election agent.
 
@@ -2396,7 +2458,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 ### Person convicted of corrupt practice not to be appointed election agent
 
-63\. No person shall be appointed election agent who has within 7 years prior to such appointment been convicted of any corrupt practice under this Act or the Presidential Elections Act (Cap. 240A).
+63\. No person shall be appointed an election agent who has within 7 years prior to such appointment been convicted of any corrupt practice under this Act or the Presidential Elections Act (Cap. 240A).
 
 [27/91]
 
@@ -2408,11 +2470,11 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (b) hire every committee-room hired on behalf of the candidate; and
 
-(c) inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that station before the person is admitted to the station.
+(c) inform the presiding officer at each polling station in writing of the name of every polling agent appointed to act at that station before the person is admitted to the station.
 
 [42/96]
 
-(1A) In the case of a group of candidates, either the principal election agent for the group or the election agent of any candidate in that group shall appoint every polling agent on behalf of the group of candidates at an election and shall inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that station before the person is admitted to the station.
+(1A) In the case of a group of candidates, either the principal election agent for the group or the election agent of any candidate in that group shall appoint every polling agent on behalf of the group of candidates at an election and shall inform the presiding officer at each polling station in writing of the name of every polling agent appointed to act at that station before the person is admitted to the station.
 
 [42/96; 18/99]
 
@@ -2432,7 +2494,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 ### Period for sending in claims and making payments for election expenses
 
-66\.—(1) Every payment made by an election agent in respect of any expenses incurred on account of or in respect of the conduct and management of an election shall, except where less than $10 or where, from the nature of the case, such as travel by rail or postage, a receipt is not obtainable, be vouched for by a bill stating the particulars and by a receipt.
+66\.—(1) Every payment made by an election agent in respect of any expenses incurred on account of or in respect of the conduct or management of an election shall, except where less than $10 or where, from the nature of the case, such as travel by rail or postage, a receipt is not obtainable, be vouched for by a bill stating the particulars and by a receipt.
 
 (2) Every claim against a candidate at an election or his election agent in respect of any expenses incurred on account of or in respect of the conduct or management of the election, which is not sent in to the election agent within the time limited by this Act, shall be barred and shall not be paid.
 
@@ -2524,6 +2586,8 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
 
+[10/2010 wef 01/07/2010]
+
 (6) A police officer in uniform may, subject to subsection (7), arrest without warrant any person in charge of or driving a motor vehicle, who has committed or is suspected of having committed an offence under this section.
 
 (7) The power of arrest under subsection (6) shall not be exercised if either —
@@ -2546,6 +2610,8 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 [42/96]
 
+[10/2010 wef 01/07/2010]
+
 (2) Subject to such exception as may be allowed in pursuance of this Act, if any person is engaged or employed in contravention of this section, either before, during or after an election, the person engaging or employing him shall be guilty of an illegal practice.
 
 ### Saving for creditors
@@ -2558,17 +2624,21 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (a) all payments made by the election agent together with all the bills and receipts referred to in section 66(1), which bills and receipts are in this Act included in the expression “return respecting election expenses” and the dates of payment of all sums for which no receipt is attached;
 
+[10/2010 wef 01/07/2010]
+
 (b) the amount of personal expenses, if any, paid by the candidate;
 
 (c) the disputed claims so far as the election agent is aware;
 
-(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or Judge of the High Court;
+(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or a Judge of the High Court;
 
 (e) every donation accepted by the election agent or by the candidate for the purpose of expenses incurred or to be incurred on account of or in respect of the management of the election, naming every person from whom the donation may have been received.
 
+[16/93; 18/2005]
+
 (2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent which shall be respectively in Forms 19 and 20 in the First Schedule.
 
-[18/2005 wef 06/06/2005]
+[18/2005]
 
 (3) If the return and statements are not transmitted before the expiration of the time limited for the purpose, the candidate shall not after the expiration of the time sit or vote in Parliament as a Member until either the return and statements have been transmitted or until the date of the allowance of such authorised excuse for failure to transmit them as in this Act mentioned.
 
@@ -2580,7 +2650,11 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (4) If any candidate or election agent fails to comply with the requirements of subsection (1) or (2), he shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
 
+[10/2010 wef 01/07/2010]
+
 (5) In this section, “donation” has the same meaning as in section 3(1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
+
+[18/2005]
 
 ### Publication of receipt of return, etc.
 
@@ -2590,7 +2664,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (a) preserve all such returns and statements with the bills and vouchers relating thereto;
 
-(b) at all reasonable times during 6 months next after the publication in theGazetteof the notice mentioned in this section shall permit any person to inspect them and to make extracts therefrom on payment of a fee of $2; and
+(b) at all reasonable times during 6 months after the publication in theGazetteof the notice mentioned in this section, permit any person to inspect them and to make extracts therefrom on payment of a fee of $2; and
 
 (c) on payment of 30 cents for each page, supply a copy or copies of any part thereof.
 
@@ -2600,7 +2674,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 ### Employers to allow employees reasonable period for voting
 
-76\.—(1) Every employer shall, on polling day, allow to every elector in his employ a reasonable period for voting.
+76\.—(1) Every employer shall, on polling day, allow every elector in his employ a reasonable period for voting.
 
 (1A) No employer shall make any deduction from the pay or other remuneration of any such elector or impose upon or exact from him any penalty by reason of his absence during that period.
 
@@ -2608,9 +2682,13 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (3) Any employer who, directly or indirectly, refuses, or by intimidation, undue influence, or in any other manner, interferes with the granting to any elector in his employ of a reasonable period for voting shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
 
+[10/2010 wef 01/07/2010]
+
 ### Badges, symbols, etc., prohibited on polling day
 
-77\.—(1) No badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motorcar, truck or other vehicle as political propaganda on polling day.
+77\.—(1) No badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motorcar, truck or other vehicle as political propaganda on polling day .
+
+[10/2010 wef 01/07/2010]
 
 (2) The prohibition under subsection (1) shall not preclude the wearing on his person by a candidate of a badge indicating his affiliation with a political party or a replica of the symbol allotted to him or to the group of candidates to which he belongs under section 34 or 34A, as the case may be.
 
@@ -2642,13 +2720,21 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (b) regulating election advertising and the publication thereof during an election period on what is commonly known as the Internet by political parties, candidates or their election agents and relevant persons, including prescribing the features that must or must not appear or be used in any such election advertising.
 
+[10/2010 wef 01/07/2010]
+
+[31/2001]
+
 (2) Any person who contravenes any regulations made under subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[31/2001]
 
 (3) For the purposes of this section and any regulations made thereunder —
 
 “election period” means the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election;
 
-“Media Development Authority of Singapore” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002;
+[10/2010 wef 01/07/2010]
+
+“Media Development Authority of Singapore” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act (Cap. 172);
 
 “relevant person” means any person or group of persons in Singapore (other than a political party, a candidate or his election agent) which —
 
@@ -2656,15 +2742,15 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (b) is required under the conditions of the class licence to register with the Media Development Authority of Singapore on account of that person or group of persons engaging in or providing any programme for the propagation, promotion or discussion of political issues relating to Singapore,
 
-[34/2002 wef 01/01/2003]
+and a person or a group of persons shall be regarded as required to register with the Media Development Authority of Singapore even though the time permitted for such registration has not expired.
 
-and a person or a group of persons shall be regarded as required to register with the Media Development Authority of Singapore even though the time permitted for such registration has not expired;
-
-[31/2001 wef 14/09/2001]
+[31/2001; 34/2002]
 
 ### Election advertising ban on polling day
 
 78B\.—(1) Subject to subsection (2), no person shall on polling day display or publish, or cause or permit to be displayed or published, any election advertising in or among any electors in any electoral division before the close of all the polling stations in the electoral division.
+
+[31/2001]
 
 (2) Subsection (1) shall not apply in respect of —
 
@@ -2680,15 +2766,27 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (f) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
 
+[31/2001]
+
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[31/2001]
 
 ### Blackout period for election survey results
 
 78C\.—(1) No person shall publish or permit or cause to be published the results of any election survey during the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election.
 
+[31/2001]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[10/2010 wef 01/07/2010]
+
+[31/2001]
+
 (3) In this section, “election survey” means an opinion survey of how electors will vote at an election or of the preferences of electors respecting any candidate or group of candidates or any political party or issue with which an identifiable candidate or group of candidates is associated at an election.
+
+[31/2001]
 
 ### Exit polls ban on polling day
 
@@ -2698,13 +2796,21 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (b) any forecast as to the result of the election which is (or might reasonably be taken to be) based on information so given.
 
+[31/2001]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[10/2010 wef 01/07/2010]
+
+[31/2001]
 
 (3) In this section —
 
 (a) “forecast” includes estimates; and
 
 (b) any reference to the result of an election is a reference to the result of an election either as a whole or so far as any particular candidate or group of candidates at the election are concerned.
+
+[31/2001]
 
 ### Defence for election advertising offences
 
@@ -2714,15 +2820,23 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (b) that he took all reasonable steps, and exercised all due diligence, to ensure that that contravention would not arise.
 
+[31/2001]
+
 (2) Nothing in subsection (1) shall limit the operation of section 10 of the Electronic Transactions Act (Cap. 88) in relation to network service providers.
+
+[31/2001]
 
 ### Punishment for conviction for illegal practice
 
 79\.—(1) Every person who commits an illegal practice shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $300 and become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
-[12/91]
+[10/2010 wef 01/07/2010]
+
+[21/91]
 
 (2) A prosecution for an illegal practice shall not be instituted without the sanction of the Public Prosecutor except that nothing herein shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any illegal practice.
+
+[15/2010 wef 02/01/2011]
 
 ### Prohibition of canvassing on polling day
 
@@ -2730,15 +2844,23 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (a) by word, message, writing or in any other manner endeavour to persuade any person to give or dissuade any person from giving his vote at an election; or
 
+[10/2010 wef 01/07/2010]
+
 (b) visit an elector at his home or place of work for any purpose in connection with an election.
+
+[10/2010 wef 01/07/2010]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
-(3) Notwithstanding the provisions of the Criminal Procedure Code relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
+[10/2010 wef 01/07/2010]
+
+(3) Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
 (4) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
 
-(5) For the purposes of this section, any person who, on polling day, enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place of work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1)(a) and (b).
+(5) For the purposes of this section, any person who, on polling day , enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place of work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1)(a) and (b).
+
+[10/2010 wef 01/07/2010]
 
 ### Prohibition of dissuasion from voting
 
@@ -2746,7 +2868,9 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
-(3) Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
+[10/2010 wef 01/07/2010]
+
+(3) Notwithstanding the provisions of the Criminal Procedure Code relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
 (4) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
 
@@ -2770,7 +2894,9 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
-(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him before a Magistrate’s Court to be dealt with according to law.
+[10/2010 wef 01/07/2010]
+
+(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
 
 ### Persons prohibited from conducting election activity
 
@@ -2786,13 +2912,15 @@ and a person or a group of persons shall be regarded as required to register wit
 
 shall take part in any election activity.
 
-(2) No person shall conduct any election activity unless he is in possession of a written authority signed by a candidate or his election agent in Form 22 or Form 23, as the case may be, in the First Schedule. Such authority shall be issued only on or after the day of nomination.
+(2) No person shall conduct any election activity unless he is in possession of a written authority signed by a candidate or his election agent in Form 22 or Form 23, as the case may be, in the First Schedule; and such authority shall be issued only on or after the day of nomination.
 
 (3) Every candidate and election agent shall supply particulars in duplicate of all written authorities issued by him under subsection (2) to the Returning Officer, who shall on receipt thereof forward a copy of those particulars to the Commissioner of Police.
 
-(4) A candidate or election agent shall, if so required by the Commissioner of Police, forthwith withdraw and deliver to the Returning Officer the written authority given by the candidate or election agent to any person who is stated by the Commissioner of Police to be a person in respect of whom an order has been made under section 30(b) of the Criminal Law (Temporary Provisions) Act (Cap. 67).
+(4) A candidate or election agent shall, if so required by the Commissioner of Police, immediately withdraw and deliver to the Returning Officer the written authority given by the candidate or election agent to any person who is stated by the Commissioner of Police to be a person in respect of whom an order has been made under section 30(b) of the Criminal Law (Temporary Provisions) Act.
 
 (5) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+
+[10/2010 wef 01/07/2010]
 
 (6) No candidate or election agent shall authorise any person to conduct an election activity, knowing or having reason to believe that the person is attending a primary or secondary school as a student or that an order has been made in respect of the person under section 30(b) of the Criminal Law (Temporary Provisions) Act.
 
@@ -2816,6 +2944,8 @@ the assembly shall be deemed to be an unlawful assembly as defined in section 14
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
+[10/2010 wef 01/07/2010]
+
 (3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
 
 EXCUSE FOR CORRUPT AND ILLEGAL PRACTICE
@@ -2834,7 +2964,7 @@ EXCUSE FOR CORRUPT AND ILLEGAL PRACTICE
 
 then the election of the candidate shall not, by reason of the offences mentioned in the report, be void, nor shall the candidate be subject to any incapacity under this Act.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 ### Power of election court to except innocent act from being illegal practice, etc.
 
@@ -2856,23 +2986,31 @@ and in the circumstances it seems to the Judge, after giving the candidates, the
 
 (a) if the candidate applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
 
+[10/2010 wef 01/07/2010]
+
 (b) if the election agent of the candidate applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
+
+[10/2010 wef 01/07/2010]
 
 the Judge may, after such notice of the application, and on production of such evidence of the grounds stated in the application, and of the good faith of the application, and otherwise, as to the Judge seems fit, and after giving the other candidates, the Returning Officer and any elector within the electoral division an opportunity of being heard, make such order for allowing an authorised excuse for the failure to transmit such return and statements, or for an error or false statement in such return and statements as to the Judge seems just.
 
 [16/93]
 
-(2) Where it appears to the Judge that any person being or having been an election agent has refused or failed to make such return or supply such particulars as will enable the candidate and his election agent, respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall —
+(2) Where it appears to the Judge that any person being or having been an election agent has refused or failed to make such return or supply such particulars as will enable the candidate and his election agent respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall —
 
 (a) before making an order allowing the excuse as in this section mentioned shall order the person to attend before the Judge; and
 
 (b) unless the person attends and shows cause to the contrary, order him to make the return and statements, or to deliver a statement of the particulars required to be contained in the return, as to the Judge appears just, and to make or deliver them within such time and to such person and in such manner as the Judge may direct, or may order him to be examined with respect to those particulars, and, in default of compliance with that order, the person shall be guilty of an illegal practice.
 
+[10/2010 wef 01/07/2010]
+
 (3) The order may make the allowance conditional upon the making of the return and statements in a modified form or within an extended time, and upon the compliance with such other terms as to the Judge seems best calculated for carrying into effect the objects of this Act.
 
 (4) An order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order.
 
-(5) Where it is proved by the candidate to the Judge that any act or omission of the election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his election agent.
+(5) Where it is proved by the candidate to the Judge that any act or omission of the election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his election agent .
+
+[10/2010 wef 01/07/2010]
 
 (6) The date of the order or, if conditions and terms are to be complied with, the date at which the applicant fully complies with them is referred to in this Act as the date of the allowance of the excuse.
 
@@ -2896,9 +3034,7 @@ GROUNDS FOR AVOIDING ELECTIONS
 
 (e) that the candidate was at the time of his election a person disqualified for election as a Member.
 
-[10/88]
-
-[42/2005 wef 01/01/2006]
+[10/88; 42/2005]
 
 ### Proceedings in respect of qualification
 
@@ -2932,7 +3068,7 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 92\.—(1) Every application under section 90 shall be heard by the Chief Justice or by a Judge of the Supreme Court nominated by the Chief Justice for the purpose.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (2) The Chief Justice or the Judge so nominated is referred to in this Act as the Election Judge.
 
@@ -2940,29 +3076,25 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (4) On the hearing of an application under section 90, the Election Judge may, by order under his hand, compel the attendance of any person as a witness who appears to him to have been concerned in the election to which the application refers.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (5) Any person refusing to obey the order of the Election Judge under subsection (4) shall be guilty of contempt of court.
 
 (6) The Election Judge may examine any witness so compelled to attend or any person in court, although the witness is not called and examined by any party to the application.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (7) After the examination of a witness by the Election Judge, the witness may be cross-examined by or on behalf of the applicant and the respondent, or either of them.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (8) The Election Judge shall be attended on the hearing of an application under section 90 in the same manner as if he were a Judge of the High Court.
 
-[42/2005 wef 01/01/2006]
-
-[16/93]
+[16/93; 42/2005]
 
 (9) Unless otherwise ordered by the Chief Justice, all interlocutory matters in connection with an application under section 90 may be dealt with and decided by any Judge of the High Court.
 
-[42/2005 wef 01/01/2006]
-
-[16/93]
+[16/93; 42/2005]
 
 ### Who may make application under section 90
 
@@ -2970,17 +3102,15 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (a) some person who voted or had a right to vote at the election to which the application relates;
 
-[42/2005 wef 01/01/2006]
-
 (b) some person claiming to have had a right to be returned or elected at the election;
 
 (c) some person alleging himself to have been a candidate at the election.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 ### Relief which may be claimed
 
-94\. All or any of the following relief to which the applicant may be entitled may be claimed in an application under section 90:
+94\. All or any of the following reliefs to which the applicant may be entitled may be claimed in an application under section 90:
 
 (a) a declaration that the election is void;
 
@@ -2988,17 +3118,15 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (c) a declaration that any candidate was duly elected and ought to have been returned;
 
-(d) where the seat is claimed for an unsuccessful candidate on the ground that he or the group of candidates to which he belongs had a majority of lawful votes, a scrutiny
+(d) where the seat is claimed for an unsuccessful candidate on the ground that he or the group of candidates to which he belongs had a majority of lawful votes, a scrutiny.
 
-[10/88]
-
-[42/2005 wef 01/01/2006]
+[10/88; 42/2005]
 
 ### Certificate of Election Judge as to validity of election
 
 95\.—(1) At the conclusion of the hearing of an application under section 90, the Election Judge shall determine whether the Member whose return or election is complained of, or any other and what person, was duly returned or elected, or whether the election was void, and shall certify such determination to the President.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (2) Upon the certificate being given under subsection (1), the determination shall be final; and the return shall be confirmed or altered, or the President shall within one month of the determination, by notice in theGazette, order the holding of an election in the electoral division concerned, as the case may require, in accordance with the certificate.
 
@@ -3016,29 +3144,25 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (b) the names and descriptions of all persons (if any) who have been proved at the hearing to have been guilty of any corrupt or illegal practice.
 
-[42/2005 wef 01/01/2006]
-
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (2) Before any person, not being a party to an application under section 90 nor a candidate on behalf of whom the seat is claimed by such an application, is reported by an Election Judge under this section, the Election Judge shall give the person an opportunity of being heard and of giving and calling evidence to show why he should not be so reported.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (3) When the Election Judge reports that a corrupt or illegal practice has been committed by any person, that person shall be subject to the same incapacities as if at the date of the report he had been convicted of that practice.
 
 (4) A person shall be subject to the same incapacities if he was a candidate at the election and the Election Judge reports that the corrupt or illegal practice was committed with his knowledge and consent or by his agent.
 
-(5) The President shall cause a copy of such report to be published in theGazette, and it shall be the duty of the Registration Officer forthwith to peruse the report and forthwith to delete from the registers of electors the name of every person appearing from the report to be incapable of voting at an election.
+(5) The President shall cause a copy of such report to be published in theGazette, and it shall be the duty of the Registration Officer immediately to peruse the report and immediately to delete from the registers of electors the name of every person appearing from the report to be incapable of voting at an election.
 
 ### Time for making application
 
 97\.—(1) Subject to this section, every application under section 90 shall be made within 21 days of the date of publication of the result of the election in theGazette.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
-(2) An application under section 90 questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or his election agent in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be presented at any time within 28 days after the date of the payment or act.
-
-[42/2005 wef 01/01/2006]
+(2) An application under section 90 questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or his election agent in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be made at any time within 28 days after the date of the payment or act.
 
 (3) An application under section 90 questioning the return or the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be made within the following time:
 
@@ -3046,15 +3170,11 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (b) if the application specifically alleges a payment of money or other act to have been made or done since that date by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or of his election agent in pursuance or in furtherance of the illegal practice alleged in the application, the application may be made at any time within 28 days after the date of the payment or other act.
 
-[42/2005 wef 01/01/2006]
-
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (4) An application under section 90 made in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of a Judge of the High Court within the time within which an application questioning the return or the election upon that ground may be made.
 
-[42/2005 wef 01/01/2006]
-
-[16/93]
+[16/93; 42/2005]
 
 (5) For the purposes of this section, where there is an authorised excuse for failing to make and transmit the return and statements respecting election expenses, the date of the allowance of the excuse or, if there was a failure in 2 or more particulars and the excuse was allowed at different times, the date of the allowance of the last excuse, shall be substituted for the date of the publication in theGazetteof the notice mentioned in subsection (3).
 
@@ -3078,29 +3198,29 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 (f) votes given for a disqualified candidate or group of candidates by a voter knowing that the candidate, or any candidate in that group, as the case may be, was disqualified or the facts causing the disqualification, or after sufficient public notice of the disqualification, or when the disqualification or the facts causing it were notorious.
 
-[10/88]
-
-[42/2005 wef 01/01/2006]
+[10/88; 42/2005]
 
 (2) The vote of a registered elector shall not, except in the case specified in subsection (1)(e), be struck off at a scrutiny by reason only of the voter not having been or not being qualified to have his name entered in the register of electors.
 
 (3) On a scrutiny, any tendered vote that is proved to be a valid vote shall be added to the poll if any party to the application under section 90 applies for that vote to be so added.
 
+[42/2005]
+
 ### Procedure and practice on applications under section 90
 
 100\.—(1) The procedure and practice on applications under section 90 shall be regulated by rules which may be made by the Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322).
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (2) The Rules contained in the Fourth Schedule shall be deemed to have been made under the powers conferred by subsection (1) and shall be amendable by rules made under that subsection.
 
-[21/91]
+[21/91; 42/2005]
 
 ### Rejection of ballot paper by Returning Officer not to be questioned
 
-101\. On the making of an application under section 90, the decision of a Returning Officer whether or not a ballot paper shall be rejected under section 50 shall not be questioned.
+101\. On the making of an application under section 90, the decision of a Returning Officer as to whether or not a ballot paper shall be rejected under section 50 shall not be questioned.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 ## PART V
 
@@ -3114,6 +3234,8 @@ GENERAL
 
 103\.—(1) No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
 
+[18/2005]
+
 (2) Without prejudice to the generality of subsection (1), no nomination paper shall be rejected, and no objection shall be allowed, on account of —
 
 (a) any error or omission in a nomination paper in relation to the description of, or any particulars in respect of, the candidate or person seeking nomination, or his proposer or seconder or any of his assentors, if the particulars contained in the nomination paper are sufficient to identify the candidate or person seeking nomination, or his proposer, seconder or assentor, as the case may be;
@@ -3122,17 +3244,23 @@ GENERAL
 
 (c) any error or omission that is corrected before 12 noon on the day of nomination in accordance with section 29A.
 
+[18/2005]
+
 (3) In this section —
 
 (a) “error” includes any misnomer, misspelling, misprint, misplacement, mistake, inaccuracy, omission, and any clerical, technical or printing error, and any error of any other description or nature; and
 
 (b) “particulars” and “description” each includes anything stated or required to be stated in respect of any person or place in the nomination paper.
 
+[18/2005]
+
 ### Publication of notices, etc.
 
 104\.—(1) Where any notice is required by this Act to be published and, in the opinion of the authority who is required to publish the notice, the prescribed mode of publication does not give sufficient publicity to the notice, he may, in addition to publishing the notice as required by this Act, exhibit copies of the notice in conspicuous places within the electoral division to which the notice relates or take such other steps as he may consider necessary for giving publicity thereto.
 
-(2) Every person who, without lawful authority, destroys, mutilates, defaces or removes any notice which is exhibited by any authority under subsection (1) or any document which is made available for inspection in accordance with this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50.
+(2) Every person who, without lawful authority, destroys, mutilates, defaces or removes any notice which is exhibited by any authority under subsection (1) or any document which is made available for inspection in accordance with this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 .
+
+[10/2010 wef 01/07/2010]
 
 ### Names of candidates
 
@@ -3160,11 +3288,19 @@ GENERAL
 
 he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+[31/2001]
+
 (2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[31/2001]
 
 (3) Proceedings for an offence alleged to have been committed under this Act by an unincorporated association shall be brought against the association in its own name (and not in that of any of its members) and, for the purposes of any such proceedings, any rules of court relating to service of documents shall have effect as if the association were a corporation.
 
+[31/2001]
+
 (4) Where a partnership is guilty of an offence under this Act, every partner (other than a partner who is proved to have been ignorant of, or to have attempted to prevent the commission of, the offence) shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[31/2001]
 
 (5) Where any other unincorporated association is guilty of an offence under this Act —
 
@@ -3174,9 +3310,11 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 shall also be guilty of an offence and shall be liable to be proceeded against and punished accordingly.
 
+[31/2001]
+
 ### Composition of offences
 
-109\.—(1) The Returning Officer, or any officer of the Elections Department who is authorised by the Returning Officer, may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
+109\.—(1) The Returning Officer, or any officer of the Elections Department who is authorised by the Returning Officer, may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
@@ -3184,19 +3322,115 @@ shall also be guilty of an offence and shall be liable to be proceeded against a
 
 whichever is the lower.
 
+[18/2005]
+
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
+
+[18/2005]
 
 (3) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
+[18/2005]
+
 (4) All sums collected under this section shall be paid to the Consolidated Fund.
+
+[18/2005]
 
 FIRST SCHEDULE
 
 FORM 1
 
-FORM 10 -Deleted by Act 18 of 2005, wef 06/06/2005\.
+Section 24(2)
 
-FORM 21 -Deleted by Act 18 of 2005, wef 06/06/2005\.
+FORM 2
+
+Section 9(1)
+
+FORM 3
+
+Section 11(2)
+
+FORM 4
+
+Section 11(5)
+
+FORM 5
+
+Section 11(6)
+
+FORM 6
+
+Section 11(8A)
+
+FORM 7
+
+Sections 13(1) and 20A(2)
+
+FORM 8
+
+Section 25
+
+FORM 9
+
+Section 27(2)
+
+FORM 9A
+
+Section 27B(2)
+
+FORM 10
+
+(Deleted by Act 18 of 2005)
+
+FORM 11
+
+Sections 34(6) and 34A(6)
+
+FORM 13
+
+Section 44(1)
+
+FORM 14
+
+Section 44(1)
+
+FORM 15
+
+Section 44(1)
+
+FORM 16
+
+Section 46(1)
+
+FORM 17
+
+Section 51
+
+FORM 18
+
+Section 56(1)
+
+FORM 19
+
+Section 74(1) and (2)
+
+FORM 20
+
+Section 74(2)
+
+FORM 21
+
+(Deleted by Act 18 of 2005)
+
+FORM 22
+
+Section 83(2)
+
+FORM 23
+
+Section 83(2)
+
+[18/2005; S 528/96; S 522/2001; S389/2005; S 232/2006]
 
 SECOND SCHEDULE
 
@@ -3211,23 +3445,25 @@ Parliamentary Elections Act
 
 Directions for Guidance of Voters in Voting
 
-The voter may vote for one candidate or, if the electoral division is a group representation constituency, one group of candidates.
+1\. The voter may vote for one candidate or, if the electoral division is a group representation constituency, one group of candidates.
 
-The voter has one vote.
+2\. The voter has one vote.
 
-The voter will go into the place reserved for the marking of ballot papers and mark a cross in the space provided for the purpose on the right hand side of the ballot paper opposite the name of the candidate or, if the electoral division is a group representation constituency, the names of the group of candidates, for which he votes, thus, X.
+3\. The voter will go into the place reserved for the marking of ballot papers and mark a cross in the space provided for the purpose on the right hand side of the ballot paper opposite the name of the candidate or, if the electoral division is a group representation constituency, the names of the group of candidates, for which he votes, thus, X.
 
-The voter will then fold up the ballot paper so as to show the official mark on the back, and without showing the front of the paper to any person, show the official mark on the back to the presiding officer, put the paper into the ballot box and forthwith leave the polling station.
+4\. The voter will then fold up the ballot paper so as to show the official mark on the back, and without showing the front of the paper to any person, show the official mark on the back to the presiding officer, put the paper into the ballot box and immediately leave the polling station.
 
-If the voter inadvertently spoils a ballot paper, he can return it to the presiding officer who will, if satisfied of such inadvertence, give him another paper.
+5\. If the voter inadvertently spoils a ballot paper, he can return it to the presiding officer who will, if satisfied of such inadvertence, give him another paper.
 
-If the voter votes for more than one candidate or, if the electoral division is a group representation constituency, more than one group of candidates, on any ballot paper, his ballot paper will be void and will not be counted.
+6\. If the voter votes for more than one candidate or, if the electoral division is a group representation constituency, more than one group of candidates, on any ballot paper, his ballot paper will be void and will not be counted.
 
-If the voter places any mark on the ballot paper by which he may afterwards be identified, his ballot paper will be void and will not be counted.
+7. If the voter places any mark on the ballot paper by which he may afterwards be identified, his ballot paper will be void and will not be counted.
+
+[10/88]
 
 THIRD SCHEDULE
 
-Section 69(1)
+Section 69(1) and (3)
 
 Parliamentary Elections Act
 
@@ -3240,13 +3476,15 @@ Election Expenses
 
 The maximum amount which a candidate at an election or his election agent can pay or incur on account of or in respect of the conduct or management of the election shall be —
 
-(a) in relation to a candidate at an election in any group representation constituency — an amount equal to $3 for each elector on the register for that constituency divided by the number of candidates in each group nominated for that election; or
+(a)
 
-[S 523/2001 wef 17/10/2001]
+in relation to a candidate at an election in any group representation constituency — an amount equal to $3 for each elector on the register for that constituency divided by the number of candidates in each group nominated for that election; or
 
-(b) in relation to any other candidate — an amount equal to $3 for each elector on the register.
+(b)
 
-[S 523/2001 wef 17/10/2001]
+in relation to any other candidate — an amount equal to $3 for each elector on the register.
+
+[21/91; 42/96; S523/2001]
 
 FOURTH SCHEDULE
 
@@ -3259,20 +3497,11 @@ Parliamentary Elections Act
 
 (Chapter 218)
 
-Parliamentary Elections
-
-
-
-
 (Application for Avoidance of Election) Rules
 
 Citation
 
-1. These Rules may be cited as the Parliamentary Elections (Application for Avoidance of Election) Rules.
-
-[10/88]
-
-[21/91; 42/96]
+1\. These Rules may be cited as the Parliamentary Elections (Application for Avoidance of Election) Rules.
 
 Interpretation
 
@@ -3306,13 +3535,16 @@ Manner of making application under section 90
 
 (3) The application shall be made by filing it at the office of the Registrar, and the Registrar or the officer of his department with whom the application is filed shall, if required, give a receipt in the following form:
 
-Received on the .............. day of ................................................................. at the Registry of the Supreme Court, an application touching the election of ............................................., Member for ....................................................................................................... purporting to be made by ...................................................................(insert the name of plaintiff).
+“
 
-............................................................,
+Received on the ............ day of .................................... at the Registry of the Supreme Court, an application touching the election of , Member for .................................... purporting to be made by (insert the name of plaintiff).
+
+..........................................
 
 Registrar
-
 (or as the case may be).
+
+”.
 
 Contents and form of supporting affidavit for application under section 90
 
@@ -3328,27 +3560,31 @@ Contents and form of supporting affidavit for application under section 90
 
 (4) The following form, or one to the like effect, shall be sufficient:
 
-"AFFIDAVIT
+“
 
-I .............................. of ................................................................................, Singapore (make oath) (affirm) and say as follows:
+AFFIDAVIT
 
-1. I am a person who (voted) (had a right to vote) (claims to have had a right to be returned) (was a candidate) at the election held on the ....................... day of ............................., 20 ........., when ........................................... was a candidate.
+I ................................ of ......................................., Singapore (make oath) (affirm) and say as follows:
 
-2. On the ................... day of ......................................., 20.........., the Returning Officer returned .................................. as being duly elected.
+1. I am a person who (voted) (had a right to vote) (claims to have had a right to be returned) (was a candidate) at the election held on the ............ day of ......................., 20 ......, when ........................................... was a candidate.
+
+2. On the ............ day of ........................, 20......, the Returning Officer returned ........................ as being duly elected.
 
 3.(Here state the facts and grounds relied on in support of the application).
 
-4. I am therefore seeking a declaration (that the said .............................. was not duly elected or returned, and that the election was void) (that the said .................................... was duly elected and ought to have been returned, as the case may be).
+4. I am therefore seeking a declaration (that the said was not duly elected or returned, and that the election was void) (that the said ................................ was duly elected and ought to have been returned, as the case may be).
 
-*Sworn / *Affirmed at Singapore
+*Sworn/*Affirmed at Singapore
 
-this ........ day of ................ 20 ...........
+this ............ day of ........................ 20......
 
 Before me,
 
-........................................
+.......................................
 
-A Commissioner for Oaths.".
+A Commissioner for Oaths.
+
+”.
 
 Evidence not to be stated in originating summons
 
@@ -3410,7 +3646,7 @@ Security by deposit of money
 
 14.—(1) The deposit of money by way of security for payment of costs, charges and expenses payable by the plaintiff in an application under section 90 shall be made by payment to the Returning Officer which shall be vested in and drawn upon from time to time by the Chief Justice for the purposes for which security is required by these Rules.
 
-(2) A receipt shall be given by the Returning Officer for the deposit, which shall forthwith be filed at the office of the Registrar by the plaintiff.
+(2) A receipt shall be given by the Returning Officer for the deposit, which shall immediately be filed at the office of the Registrar by the plaintiff.
 
 (3) The Registrar shall file the receipt and keep a book open to the inspection of all parties concerned, in which shall be entered from time to time the amount and the application under section 90 to which it is applicable.
 
@@ -3456,7 +3692,7 @@ Time and place of hearing of application under section 90
 
 Postponement of hearing
 
-20\. The Judge may from time to time, by order made on the application of a party to the application under section 90, postpone the beginning of the hearing to such day as he may name; and the order, when made, shall forthwith be published by the Registrar in theGazette.
+20\. The Judge may from time to time, by order made on the application of a party to the application under section 90, postpone the beginning of the hearing to such day as he may name; and the order, when made, shall immediately be published by the Registrar in theGazette.
 
 Adjournment and continuation of hearing
 
@@ -3484,21 +3720,25 @@ Affidavits supporting application for withdrawal
 
 Copy of application for withdrawal to be given to defendant
 
-24. A copy of an application for withdrawal and its supporting affidavits shall be served by the plaintiff on the defendant, and a notice in the following terms signed by the plaintiff shall be published forthwith in theGazetteby the plaintiff at his own expense:
+24. A copy of an application for withdrawal and its supporting affidavits shall be served by the plaintiff on the defendant, and a notice in the following terms signed by the plaintiff shall be published immediately in theGazetteby the plaintiff at his own expense:
 
-"The Parliamentary Elections Act (Chapter 218).
+“
 
-In the application under section 90 for ........................................................... in which .......................... is plaintiff and ................................................. defendant.
+"The Parliamentary Elections Act (Chapter 218)
 
-Notice is hereby given that the above plaintiff did on the ........................ day of ................................................................................................................. file at the office of the Registrar of the Supreme Court an application for leave to withdraw the application under section 90, and set out below is a copy of the application for leave to withdraw:
+In the application under section 90 for in which .................................. is plaintiff and .................................. defendant.
 
-(Set out the application here).
+Notice is hereby given that the above plaintiff did on the ............ day of ................................ file at the office of the Registrar of the Supreme Court an application for leave to withdraw the application under section 90, and set out below is a copy of the application for leave to withdraw:
+
+(Set out the application here)
 
 And Take Notice that under the Parliamentary Elections (Application for Avoidance of Election) Rules, any person who might have been a plaintiff in respect of the said election may, within 5 days after the date of publication of this notice, give notice, in writing to the Registrar of the Supreme Court of his intention on the hearing of the application to be substituted as a plaintiff in the application under section 90.
 
 (Signed)
 
-.......................................".
+...........................................
+
+”.
 
 Application to be substituted as plaintiff on withdrawal
 
@@ -3556,7 +3796,7 @@ Defendant not opposing application under section 90 not to appear as party
 
 Countermanding notice of hearing where application under section 90 abated, etc.
 
-32.—(1) Upon receiving the plaintiff’s application for withdrawal, or notice of the defendant’s intention not to oppose, or of the abatement of the application under section 90 by death, or of the happening of any of the events mentioned in rule 30, if the application for withdrawal or the notice is received after notice of the hearing has been given, and before the hearing has commenced, the Registrar shall forthwith countermand the notice of the hearing.
+32.—(1) Upon receiving the plaintiff’s application for withdrawal, or notice of the defendant’s intention not to oppose, or of the abatement of the application under section 90 by death, or of the happening of any of the events mentioned in rule 30, if the application for withdrawal or the notice is received after notice of the hearing has been given, and before the hearing has commenced, the Registrar shall immediately countermand the notice of the hearing.
 
 (2) The countermand shall be given in the same manner, as near as may be, as the notice of the hearing.
 
@@ -3582,7 +3822,9 @@ Notice of appointment of solicitor
 
 Service of notices on solicitors
 
-36\. Service of notices and proceedings upon the solicitors shall be sufficient for all purposes.
+36. Service of notices and proceedings upon the solicitors shall be sufficient for all purposes.
+
+[42/2005]
 
 ## LEGISLATIVE HISTORY
 
@@ -3822,13 +4064,15 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
+|60.|**2007 Revised Edition—Parliamentary Elections Act**|
+||Date of operation|31 March 2007|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
 
 (CHAPTER 218)
 
-The following provisions in the 1999 Revised Edition of the Parliamentary Elections Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+The following provisions in the 1999 Revised Edition of the Parliamentary Elections Act were renumbered by the Law Revision Commissioners in the 2001 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Parliamentary Elections Act.
 
@@ -3858,7 +4102,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 34 —(6) (a)
 
-34— (6) (a)
+34 —(6) (a)
 
 (b)
 
