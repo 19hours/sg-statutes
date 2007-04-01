@@ -1861,6 +1861,22 @@ MD
 
 MD
 
+11. Faculte de Medecine, Universite Laval
+
+Docteur en medicine
+
+12. Faculte de Medecine, Universite de Sherbrooke
+
+Doctorat en medecine/ Medicinae Doctor
+
+13. Faculty of Medicine, Dalhousie University
+
+Doctor of Medicine
+
+14. Faculty of Medicine, University of Calgary
+
+Doctor of Medicine
+
 Denmark
 
 1. Aarhus Universitet
@@ -1961,6 +1977,18 @@ Vellore
 
 MB BS
 
+3. Armed Forces Medical College (AFMC), Maharashtra University of Health Sciences
+
+MB BS
+
+4. Maulana Azad Medical College, Delhi University
+
+MB BS
+
+5. Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Pondicherry University
+
+MB BS
+
 Ireland
 
 1. Faculty of Health Sciences, University of Dublin (Trinity College)
@@ -2021,6 +2049,21 @@ Igaku (Bachelor of Medicine)
 
 Igaku (Bachelor of Medicine)
 
+Malaysia
+
+1. Faculty of Medicine, Universiti Malaya
+
+
+
+
+(Kuala Lumpur)
+
+MB BS
+
+2. Faculty of Medicine, Universiti Kebangsaan Malaysia (Kuala Lumpur)
+
+Doktor Perubatan
+
 Netherlands
 
 1. Erasmus Universiteit
@@ -2051,11 +2094,36 @@ Norway
 
 Candidatus Medicinae
 
+Pakistan
+
+1. The Aga Khan University Medical College
+
+MB BS
+
+People’s Republic of China
+
+1. Peking University Health Science Centre (PUHSC) – formerly known as Beijing Medical University
+
+Bachelor of Medicine
+
+2. Fudan University
+
+
+
+
+(Medical Center)
+
+Bachelor of Medicine
+
 South Korea
 
 1. College of Medicine, Seoul National University
 
 Hak Sa
+
+2. Yonsei University College of Medicine (Seoul)
+
+Eui-haksa
 
 Spain
 
@@ -2066,6 +2134,12 @@ Licenciado en Medicina y Cirugia
 2. Facultad de Medicina, Universidad Complutense de Madrid
 
 Licenciado en Medicina y Cirugia
+
+Sri Lanka
+
+1. Faculty of Medicine, University of Colombo
+
+MB BS
 
 Sweden
 
@@ -2339,7 +2413,53 @@ MD
 
 MD
 
+33. Dartmouth Medical School
+
+Doctor of Medicine
+
+34. New York University School of Medicine
+
+Doctor of Medicine
+
+35. Oregon Health and Science University School of Medicine
+
+Doctor of Medicine
+
+36. The Ohio State University College of Medicine
+
+Doctor of Medicine
+
+37. Keck School of Medicine of the University of Southern California
+
+Doctor of Medicine
+
+38. Warren Alpert Medical School of Brown University – formerly known as Brown Medical School
+
+Doctor of Medicine
+
 [S 440/2006 wef 01/08/2006]
+
+[S 138/2007 wef 01/04/2007]
+
+[S 440/2006 wef 01/08/2006]
+
+[S 138/2007 wef 01/04/2007]
+
+[S 440/2006 wef 01/08/2006]
+
+[S 138/2007 wef 01/04/2007]
+
+[S 440/2006 wef 01/08/2006]
+
+[S 138/2007 wef 01/04/2007]
+
+[S 440/2006 wef 01/08/2006]
+
+[S 138/2007 wef 01/04/2007]
+
+[S 440/2006 wef 01/08/2006]
+
+[S 138/2007 wef 01/04/2007]
 
 [S 178/2006 wef 01/04/2006]
 
@@ -2385,6 +2505,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|1 April 2006|
 |10.|**G. N. No. S 440/2006—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2006**|
 ||Date of commencement|1 August 2006|
+|11.|**G. N. No. S 138/2007—Medical Registration Act (Amendment of Schedule) Order 2007**|
+||Date of commencement|1 April 2007|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
