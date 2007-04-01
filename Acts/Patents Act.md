@@ -72,7 +72,7 @@
 
 [**Part VI PROCEDURE FOR GRANT OF PATENT**](#Part-VI)
 
-- [28 Examination as to form](#Examination-as-to-form)
+- [28 Preliminary examination](#Preliminary-examination)
 
 - [29 Search and examination](#Search-and-examination)
 
@@ -376,7 +376,9 @@ PRELIMINARY
 
 “filing fee” means the fee prescribed for the purposes of section 25;
 
-“formal requirements” means those requirements designated as such by rules made for the purposes of section 28;
+“formal requirements” means those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act;
+
+[2/2007 wef 01/04/2007]
 
 “international application for a patent” means an application made under the Patent Co-operation Treaty;
 
@@ -403,6 +405,16 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 “marketing approval”, in relation to a pharmaceutical product, means a product licence under section 5 of the Medicines Act (Cap. 176);
 
 “medicinal product” has the same meaning as in the Medicines Act (Cap. 176);
+
+“missing part”, in relation to an application for a patent, means —
+
+(a) any drawing; or
+
+(b) any part of the description of the invention for which the patent is sought,
+
+which was missing from the application at the date of filing of the application;
+
+[2/2007 wef 01/04/2007]
 
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
@@ -636,11 +648,45 @@ PATENTABILITY
 
 17\.—(1) For the purposes of this Act, the priority date of an invention to which an application for a patent relates and also of any matter (whether or not the same as the invention) contained in the application is, except as provided by the provisions of this Act, the date of filing the application.
 
-(2) If in or in connection with an application for a patent (the application in suit) a declaration is made, whether by the applicant or any predecessor in title of his, complying with the relevant requirements of the rules and specifying one or more earlier relevant applications for the purposes of this section made by the applicant or a predecessor in title of his and each having a date of filing during the period of 12 months immediately preceding the date of filing the application in suit, then —
+(2) Where in or in connection with an application for a patent (referred to in this section as the application in suit) a declaration is made, whether by the applicant or any predecessor in title of his, complying with the relevant requirements of the rules and specifying one or more earlier relevant applications for the purposes of this section made by the applicant or a predecessor in title of his, and the application in suit has a date of filing, within the period referred to in subsection (2A)(a) or (b), then —
 
-(a) if an invention to which the application in suit relates is supported by matter disclosed in the earlier relevant application or applications, the priority date of that invention shall instead of being the date of filing the application in suit be the date of filing the relevant application in which that matter was disclosed or, if it was disclosed in more than one relevant application, the earliest of them; and
+(a) if an invention to which the application in suit relates is supported by matter disclosed in the earlier relevant application or applications, the priority date of that invention shall, instead of being the date of filing the application in suit, be the date of filing the relevant application in which that matter was disclosed or, if it was disclosed in more than one relevant application, the earliest of them; and
 
 (b) the priority date of any matter contained in the application in suit which was also disclosed in the earlier relevant application or applications shall be the date of filing the relevant application in which that matter was disclosed or, if it was disclosed in more than one relevant application, the earliest of them.
+
+[2/2007 wef 01/04/2007]
+
+(2A) For the purposes of subsection (2), the period is —
+
+(a) the period of 12 months immediately following the date of filing of the specified earlier relevant application or, if there is more than one relevant application, the earliest of them; or
+
+(b) where the Registrar has granted a request under subsection (2B), the period commencing immediately after the period referred to in paragraph (a) and ending at the end of such period as may be prescribed.
+
+[2/2007 wef 01/04/2007]
+
+(2B) The applicant may make a request to the Registrar for the declaration referred to in subsection (2) to be made after the period referred to in subsection (2A)(a).
+
+[2/2007 wef 01/04/2007]
+
+(2C) Where the applicant makes a request under subsection (2B), he shall, if he has failed to file the application in suit within the period referred to in subsection (2A)(a), indicate in the request whether his failure to file the application in suit within the period referred to in subsection (2A)(a) —
+
+(a) occurred in spite of due care required by the circumstances having been taken; or
+
+(b) was unintentional.
+
+[2/2007 wef 01/04/2007]
+
+(2D) The Registrar shall grant a request under subsection (2B) if and only if —
+
+(a) the request is made within such period and in such manner, and complies with such requirements, as may be prescribed; and
+
+(b) where the applicant has failed to file the application in suit within the period referred to in subsection (2A)(a), the Registrar is satisfied that the applicant’s failure to file the application in suit within the period referred to in subsection (2A)(a) —
+
+(i) occurred in spite of due care required by the circumstances having been taken; or
+
+(ii) was unintentional.
+
+[2/2007 wef 01/04/2007]
 
 (3) Where an invention or other matter contained in the application in suit was also disclosed in 2 earlier relevant applications filed by the same applicant as in the case of the application in suit or a predecessor in title of his and the second of those relevant applications was specified in or in connection with the application in suit, the second of those relevant applications shall, so far as it concerns that invention or matter, be disregarded unless —
 
@@ -842,43 +888,99 @@ but this subsection shall not prevent an application being initiated by document
 
 ### Date of filing application
 
-26\.—(1) The date of filing an application for a patent shall, subject to the provisions of this Act, be taken to be the earliest date on which the following considerations are satisfied in relation to the application:
+26\.—(1) Subject to the provisions of this Act, the date of filing an application for a patent shall be taken to be the earliest date on which the documents filed at the Registry to initiate the application satisfy the following conditions:
 
-(a) the documents filed at the Registry contain an indication that a patent is sought in pursuance of the application;
+(a) the documents indicate that a patent is sought;
 
-(b) those documents identify the applicant or applicants for the patent; and
+(b) the documents identify the applicant for the patent; and
 
-(c) those documents contain a description of the invention whether or not the description complies with the other provisions of this Act and with any relevant rules.
+(c) the documents contain —
 
-[30/2001]
+(i) something which is or appears to be a description of the invention for which the patent is sought; or
 
-(2) Every application for a patent shall be examined on filing to determine whether —
+(ii) where a declaration under section 17(2) is made in or in connection with the application —
 
-(a) the filing fee has been paid; and
+(A) a reference to an earlier relevant application specified in the declaration;
 
-(b) the application satisfies the requirements for the accordance of a filing date.
+(B) such information on the earlier relevant application as may be prescribed; and
 
-(3) If a date of filing cannot be accorded, the Registrar shall give the applicant an opportunity to correct the deficiencies, and if the deficiencies are not corrected within the prescribed period, the application shall be treated as having been abandoned.
+(C) a statement that the description of the invention for which the patent is sought is incorporated in the application by reference to, and is completely contained in, the earlier relevant application, as filed.
 
-(4) If the filing fee has not been paid within the period prescribed under section 25(2), the application shall be treated as having been abandoned.
+(2) For the purposes of subsection (1)(c)(i), it is immaterial whether —
 
-(5) If before the grant of a patent under section 30 it is found that any drawing referred to in any such application is filed later than the date which by virtue of subsection (1) is to be treated as the date of filing the application, the Registrar shall give the applicant an opportunity of requesting within the prescribed period that the date on which the drawing is filed shall be treated for the purposes of this Act as the date of filing the application, and —
+(a) the thing is in, or is accompanied by a translation into, a language accepted by the Registry in accordance with the rules; or
 
-(a) if the applicant makes any such request, the date of filing the drawing shall be so treated; but
+(b) the thing otherwise complies with the other provisions of this Act and with any relevant rules.
 
-(b) otherwise any reference to the drawing in the application shall be treated as omitted.
+(3) Where the Registrar determines that the documents filed at the Registry to initiate an application for a patent do not satisfy all of the conditions in subsection (1)(a), (b) and (c)(i) or (ii) —
 
-(6) Where, after an application for a patent has been filed and before the conditions in section 30(2) and (3) are satisfied, a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application and the considerations mentioned in subsection (1) are satisfied in relation to the new application (without the new application contravening section 84) the new application shall be treated as having, as its date of filing, the date of filing the earlier application.
+(a) the Registrar shall, as soon as practicable after the filing of those documents, notify the applicant of what else must be filed in order for the application to have a date of filing; and
 
-[19/2004]
+(b) the applicant shall, within such period as may be prescribed, do either or both of the following:
 
-(7) Nothing in subsection (5) shall be construed as affecting the power of the Registrar under section 107(1) to correct errors or mistakes with respect to the filing of drawings.
+(i) make observations on the Registrar’s determination;
 
-(8) An application for a patent shall be treated as having been abandoned at the end of the prescribed period unless before that period ends the applicant files one or more claims for the purposes of the application.
+(ii) file every document which must be filed in order for the application to have a date of filing.
 
-[UK Patents 1977, s. 15]
+(4) Where subsection (3) applies, if the applicant fails to file every document which must be filed in order for the application to have a date of filing before the end of the period prescribed under subsection (3)(b), the application shall be treated as having been abandoned.
 
-[30/2001]
+(5) Subsection (4) does not apply if —
+
+(a) the applicant makes observations as mentioned in subsection (3)(b)(i) before the end of the period prescribed under subsection (3)(b); and
+
+(b) as a result of the observations, the Registrar is satisfied that the documents filed at the Registry to initiate the application satisfy all of the conditions in subsection (1)(a), (b) and (c)(i) or (ii).
+
+(6) Where the documents filed at the Registry to initiate an application for a patent satisfy all of the conditions in subsection (1)(a), (b) and (c)(i) or (ii), the Registrar shall, as soon as practicable after the filing of the last of those documents, notify the applicant of the date of filing of the application.
+
+(7) Where an application for a patent has a date of filing under subsection (1) by reason only that the documents filed at the Registry to initiate the application satisfy the conditions in subsection (1)(a), (b) and (c)(ii), the applicant shall, within such period as may be prescribed, file at the Registry —
+
+(a) a written notice confirming that the description of the invention for which the patent is sought is incorporated in the application by reference to the earlier relevant application referred to in subsection (1)(c)(ii)(C);
+
+(b) the description of the invention for which the patent is sought; and
+
+(c) such other documents as may be prescribed.
+
+(8) If an application for a patent has a date of filing by virtue of subsection (1), the applicant files at the Registry any missing part of the application within such period and in such manner as may be prescribed, and the applicant does not withdraw that missing part before the end of that period, then —
+
+(a) that missing part shall be treated as included in the application; and
+
+(b) the date of filing of the application shall be the date on which that missing part is filed at the Registry.
+
+(9) Subsection (8)(b) does not apply if —
+
+(a) on or before the date which is the date of filing of the application for a patent by virtue of subsection (1), a declaration is made under section 17(2), in or in connection with the application, specifying an earlier relevant application; and
+
+(b) within such period as may be prescribed, the applicant —
+
+(i) makes a request to the Registrar for subsection (8)(b) not to apply to the application;
+
+(ii) files a statement that the missing part referred to in subsection (8) is incorporated in the application by reference to, and is completely contained in, the earlier relevant application, as filed;
+
+(iii) furnishes such information on the earlier relevant application as may be prescribed; and
+
+(iv) files such other documents as may be prescribed.
+
+(10) Subsections (8) and (9) do not affect the power of the Registrar under section 107(1) to correct an error or a mistake.
+
+(11) Where, after an application for a patent has been filed and before the conditions in section 30(2) and (3) are satisfied —
+
+(a) a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application; and
+
+(b) the conditions in subsection (1)(a), (b) and (c)(i) or (ii) are satisfied in relation to the new application (without the new application contravening section 84),
+
+the new application shall be treated as having, as its date of filing, the date of filing of the earlier application.
+
+(12) Where an application has a date of filing by virtue of this section, the application shall be treated as having been abandoned unless —
+
+(a) the applicant files at the Registry, before the end of such period as may be prescribed, one or more claims for the purposes of the application;
+
+(b) the applicant pays the filing fee under section 25(1)(b) before the end of the period prescribed under section 25(2); and
+
+(c) where the application has a date of filing under subsection (1) by reason only that the documents filed at the Registry to initiate the application satisfy the conditions in subsection (1)(a), (b) and (c)(ii), the applicant files at the Registry the documents referred to in subsection (7)(a), (b) and (c) before the end of the period prescribed under subsection (7).
+
+(13) In this section, “relevant application” has the same meaning as in section 17(5).
+
+[2/2007 wef 01/04/2007]
 
 ### Publication of application
 
@@ -900,31 +1002,83 @@ but this subsection shall not prevent an application being initiated by document
 
 PROCEDURE FOR GRANT OF PATENT
 
-### Examination as to form
+### Preliminary examination
 
-28\.—(1) Where —
+28\.—(1) The Registrar shall conduct a preliminary examination of an application for a patent if —
 
-(a) an application for a patent has a date of filing;
+(a) the application has a date of filing;
 
-(b) the application is not withdrawn or treated as having been abandoned; and
+(b) the application has not been withdrawn or treated as abandoned;
 
-(c) one or more claims for the purposes of the application have been filed in accordance with section 26(8),
+(c) the filing fee under section 25(1)(b) has been paid;
 
-the Registrar shall, as soon as practicable after the end of the prescribed period, examine the application so as to determine whether the application complies with those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act.
+(d) one or more claims for the purposes of the application have been filed under section 26(12)(a); and
 
-[30/2001]
+(e) where the application has a date of filing under section 26(1) by reason only that the documents filed at the Registry to initiate the application satisfy the conditions in section 26(1)(a), (b) and (c)(ii), the documents referred to in section 26(7)(a), (b) and (c) have been filed at the Registry.
 
-(2) Where, after an examination under subsection (1), it is determined that not all the formal requirements are complied with, the Registrar shall give the applicant an opportunity to make observations and to amend the application within such period as the Registrar may specify so as to comply with those requirements (subject, however, to section 84).
+(2) If, after the Registrar has conducted a preliminary examination of an application for a patent under subsection (1), the applicant files at the Registry, and does not withdraw, any missing part of the application in accordance with section 26(8), then the Registrar shall conduct another preliminary examination of the application, with the missing part treated as included in the application.
 
-(3) If the applicant fails to do so, the Registrar may refuse the application.
+(3) On a preliminary examination of an application, the Registrar shall determine —
+
+(a) whether the application complies with all the formal requirements; and
+
+(b) whether —
+
+(i) any drawing referred to in the application; or
+
+(ii) any part of the description of the invention for which the patent is sought,
+
+is missing from the application.
+
+(4) If the Registrar determines under subsection (3)(a) that not all the formal requirements have been complied with, then the Registrar shall notify the applicant accordingly and shall specify in the notification a period during which the applicant shall have the opportunity —
+
+(a) to make observations on the Registrar’s determination; and
+
+(b) subject to section 84, to amend the application so as to comply with all the formal requirements.
+
+(5) Where subsection (4) applies, the Registrar may refuse the application if the applicant fails to amend the application as mentioned in paragraph (b) of that subsection before the end of the period specified by the Registrar under that subsection.
+
+(6) Subsection (5) does not apply if —
+
+(a) the applicant makes observations as mentioned in subsection (4)(a) before the end of the period specified by the Registrar under subsection (4); and
+
+(b) as a result of the observations, the Registrar is satisfied that all the formal requirements have been complied with.
+
+(7) If the Registrar determines under subsection (3)(b) that a drawing or part of the description of the invention is missing from the application, then the Registrar shall notify the applicant accordingly.
+
+(8) Where subsection (7) applies, if the applicant files the drawing or part of the description of the invention that is missing from the application within such period and in such manner as may be prescribed, and the applicant does not withdraw that drawing or part of the description of the invention before the end of that period, then —
+
+(a) that drawing or part of the description of the invention shall be treated as included in the application; and
+
+(b) the date of filing of the application shall be the date on which that drawing or part of the description of the invention is filed at the Registry.
+
+(9) Subsection (8)(b) does not apply if —
+
+(a) on or before the date which is the date of filing of the application by virtue of section 26(1), a declaration is made under section 17(2), in or in connection with the application, specifying an earlier relevant application; and
+
+(b) within such period as may be prescribed, the applicant —
+
+(i) makes a request to the Registrar for subsection (8)(b) not to apply to the application;
+
+(ii) files a statement that the drawing or part of the description of the invention referred to in subsection (8) is incorporated in the application by reference to, and is completely contained in, the earlier relevant application, as filed;
+
+(iii) furnishes such information on the earlier relevant application as may be prescribed; and
+
+(iv) files such other documents as may be prescribed.
+
+(10) In subsection (9), “relevant application” has the same meaning as in section 17(5).
+
+[2/2007 wef 01/04/2007]
 
 ### Search and examination
 
-29\.—(1) Where an application for a patent complies with all the formal requirements referred to in section 28(1), the Registrar shall send a notification to the applicant.
+29\.—(1) Where an application for a patent complies with all the formal requirements, the Registrar shall send a notification to the applicant.
+
+[2/2007 wef 01/04/2007]
 
 [19/2004]
 
-(2) Upon receiving the Registrar’s notification under subsection (1), the applicant shall comply with any of the following paragraphs which is applicable within the period prescribed for that paragraph:
+(2) The applicant shall comply with any of the following paragraphs which is applicable within the period prescribed for that paragraph:
 
 (a) where the application is not an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3), file a request in the prescribed form and pay the prescribed fee for a search report;
 
@@ -988,6 +1142,8 @@ and pay the prescribed fee for an examination report; or
 
 [19/2004]
 
+[2/2007 wef 01/04/2007]
+
 (3) Where the applicant has filed a request and paid the prescribed fee for a search report under subsection (2)(a), the Registrar shall —
 
 (a) cause the application to be subjected to a search by an Examiner to discover the relevant prior art contained in —
@@ -1046,7 +1202,7 @@ taking into consideration all the relevant prior art, if any, that the Examiner 
 
 (7) If, within the prescribed period under —
 
-(a) paragraph (b), (c)(i) or (ii), (d) (i) or (ii) or (e) (i) or (ii) of subsection (2); or
+(a) paragraph (b), (c)(i) or (ii), (d)(i) or (ii) or (e)(i) or (ii) of subsection (2); or
 
 (b) subsection (4),
 
@@ -1418,11 +1574,33 @@ and the Registrar may reject any application that fails to comply with any requi
 
 (a) the period taken by the applicant to pay the filing fee under section 25(1)(b), calculated from the date of filing of the application for the patent to the date on which the filing fee is paid;
 
-(b) the period taken by the applicant to correct deficiencies in his application under section 26(3), calculated from the date of the Registrar’s notification to the applicant of the deficiencies to the date on which the applicant corrects the deficiencies;
+(b) the period taken by the applicant to make observations under section 26(3)(b)(i) which satisfy the Registrar that the documents filed at the Registry to initiate the application satisfy all of the conditions in section 26(1)(a), (b) and (c) (i) or (ii), calculated from the date of the Registrar’s notification to the applicant under section 26(3)(a) to the date on which the applicant makes the observations;
 
-(c) the period taken by the applicant to file one or more claims for the purposes of the application under section 26(8), calculated from the date of filing of the application for the patent to the date on which the applicant files the claim or claims;
+[2/2007 wef 01/04/2007]
 
-(d) the period taken by the applicant to amend his application under section 28(2) to comply with the formal requirements, calculated from the date of the Registrar’s notification to the applicant that not all formal requirements have been complied with to the earliest date on which the application, as amended by the applicant, complies with the formal requirements;
+(ba) the period taken by the applicant to file the documents referred to in section 26(7)(a), (b) and (c), calculated from the date of filing of the application for a patent to the date on which the applicant files the documents;
+
+[2/2007 wef 01/04/2007]
+
+(bb) the period taken by the applicant to comply with section 26(9)(b), if the applicant, after filing at the Registry any missing part of the application, makes a request to the Registrar for section 26(8)(b) not to apply to the application, calculated from the date on which the applicant filed at the Registry the missing part of the application to the date on which the applicant complies with section 26(9)(b);
+
+[2/2007 wef 01/04/2007]
+
+(c) the period taken by the applicant to file one or more claims for the purposes of the application under section 26(12)(a), calculated from the date of filing of the application for the patent to the date on which the applicant files the claim or claims;
+
+(d) the period taken by the applicant to —
+
+(i) make observations under section 28(4)(a) which satisfy the Registrar that all the formal requirements have been complied with; or
+
+(ii) amend his application under section 28(4)(b) to comply with all the formal requirements,
+
+calculated from the date of the Registrar’s notification under section 28(4) to the date on which the applicant makes the observations or the earliest date on which the application, as amended by the applicant, complies with all the formal requirements;
+
+[2/2007 wef 01/04/2007]
+
+(da) the period taken by the applicant to comply with section 28(9)(b), if the applicant, after filing any drawing or part of the description of the invention which is missing from the application, makes a request to the Registrar for section 28(8)(b) not to apply to the application, calculated from the date of the Registrar’s notification under section 28(7) to the date on which the applicant complies with section 28(9)(b);
+
+[2/2007 wef 01/04/2007]
 
 (e) the period taken by the applicant to —
 
@@ -2518,7 +2696,7 @@ REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 
 (i) in the application for the patent, as filed; or
 
-(ii) where the patent was granted on a new application filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or in accordance with section 26(6), in —
+(ii) where the patent was granted on a new application filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or in accordance with section 26(11), in —
 
 (A) the earlier application made under this Act;
 
@@ -2547,6 +2725,8 @@ which should not have been allowed;
 (g) the patent is one of 2 or more patents for the same invention having the same priority date and filed by the same party or his successor in title.
 
 [19/2004]
+
+[2/2007 wef 01/04/2007]
 
 (2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1)(a), (c), (d) and (e), the Registrar may, subject to subsection (3), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
 
@@ -2644,7 +2824,21 @@ AMENDMENTS OF PATENTS AND APPLICATIONS
 
 (b) discloses additional matter, that is, matter extending beyond that disclosed in the earlier application made under this Act or in the application made under the United Kingdom Patents Act 1977 or the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office from which the filing date and right of priority is sought to be derived, as filed, or the application for the patent, as filed,
 
-may be filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or as mentioned in section 26(6), but shall not be allowed to proceed unless it is amended so as to exclude the additional matter.
+may be filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or as mentioned in section 26(11), but shall not be allowed to proceed unless it is amended so as to exclude the additional matter.
+
+(1A) Where, in relation to an application for a patent —
+
+(a) the documents filed at the Registry to initiate the application contain —
+
+(i) a reference to an earlier relevant application specified in a declaration under section 17(2) made in or in connection with the application; and
+
+(ii) a statement referred to in section 26(1)(c)(ii)(C); and
+
+(b) the description filed under section 26(7)(b) discloses additional matter, that is, matter extending beyond that disclosed in the earlier relevant application,
+
+the application shall not be allowed to proceed unless it is amended to exclude the additional matter.
+
+[2/2007 wef 01/04/2007]
 
 (2) No amendment of an application for a patent shall be allowed under section 31 if it results in the application disclosing any matter extending beyond that disclosed in the application as filed.
 
@@ -2655,6 +2849,10 @@ may be filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (
 (b) extends the protection conferred by the patent.
 
 [UK Patents 1977, s. 76]
+
+(4) In subsection (1A), “relevant application” has the same meaning as in section 17(5).
+
+[2/2007 wef 01/04/2007]
 
 ## PART XVI
 
@@ -2690,29 +2888,49 @@ INTERNATIONAL APPLICATIONS FOR PATENTS
 
 (3) The national phase of the application begins —
 
-(a) when the prescribed period expires, provided any necessary translation of the application into English has been filed at the Registry and the prescribed fee has been paid by the applicant; or
+(a) when the prescribed period expires, provided —
 
-(b) on the applicant expressly requesting the Registrar to proceed earlier with the national phase of the application, paying the prescribed fee and filing at the Registry —
+(i) where the application has been published in accordance with the Patent Co-operation Treaty in a language other than English, and the application is not in English, an English translation of the application has been filed at the Registry; and
 
-(i) a copy of the application, if none has yet been sent to the Registry in accordance with the Patent Co-operation Treaty; and
+(ii) the prescribed fee has been paid,
 
-(ii) any necessary translation of the application into English.
+by the applicant; or
 
-(4) In subsection (3), “copy of the application” includes a copy published in accordance with the Patent Co-operation Treaty in a language other than that in which it was originally filed.
+(b) when the applicant expressly requests the Registrar to proceed earlier with the national phase of the application, pays the prescribed fee and complies with any of the following sub-paragraphs which is applicable:
+
+(i) where, at the time of the request, the application has not been published in accordance with the Patent Co-operation Treaty, file at the Registry —
+
+(A) a copy of the application; and
+
+(B) if the copy is not in English, an English translation of the application;
+
+(ii) where, at the time of the request, the application has been published in accordance with the Patent Co-operation Treaty in a language other than English, and the application is not in English, file at the Registry an English translation of the application.
+
+[2/2007 wef 01/04/2007]
 
 (5) If the prescribed period expires without the conditions mentioned in subsection (3)(a) being satisfied, the application shall be taken to be withdrawn.
 
-(6) Where during the international phase the application is amended in accordance with the Patent Co-operation Treaty, the amendment shall be treated as made under this Act if —
+(6) Where, during the international phase, the application is amended in accordance with the Patent Co-operation Treaty, the amendment shall be treated as made under this Act if, and shall be disregarded unless —
 
-(a) when the prescribed period expires, any necessary translation of the amendment into English has been filed at the Registry; or
+(a) when the prescribed period expires, where —
+
+(i) the amendment is not in English; and
+
+(ii) if any copy of the amendment has been communicated to the Registry in accordance with the Treaty, that copy is in a language other than English,
+
+an English translation of the amendment has been filed at the Registry; or
 
 (b) where the applicant expressly requests the Registrar to proceed earlier with the national phase of the application, there is then filed at the Registry —
 
-(i) a copy of the amendment, if none has yet been sent to the Registry in accordance with the Treaty; and
+(i) a copy of the amendment, if none has been communicated to the Registry in accordance with the Treaty; and
 
-(ii) any necessary translation of the amendment into English,
+(ii) an English translation of the amendment, if —
 
-otherwise the amendment shall be disregarded.
+(A) the amendment is not in English; and
+
+(B) where any copy of the amendment has been communicated to the Registry in accordance with the Treaty, that copy is in a language other than English.
+
+[2/2007 wef 01/04/2007]
 
 (7) The Registrar shall on payment of the prescribed fee publish any translation filed at the Registry under subsection (3) or (6).
 
@@ -2724,11 +2942,15 @@ otherwise the amendment shall be disregarded.
 
 (a) that date or, if the application is re-dated under the Treaty to a later date, that later date shall be treated as the date of filing the application under this Act;
 
-(b) any declaration of priority made under the Treaty shall be treated as made under section 17(2), and where in accordance with the Treaty any extra days are allowed, the period of 12 months specified in section 17(2) shall be treated as altered accordingly; and
+(b) any declaration of priority made under the Treaty shall be treated as made under section 17(2), and where in accordance with the Treaty any extra days are allowed, the period of 12 months referred to in section 17(2A)(a) shall be treated as altered accordingly; and
 
 (c) any statement of the name of the inventor under the Treaty shall be treated as a statement filed under section 24(2).
 
-(2) If the application, not having been published under this Act, is published in accordance with the Patent Co-operation Treaty, it shall be treated, for purposes other than those mentioned in subsection (3), as published under section 27 when the conditions mentioned in section 86(3)(a) are complied with.
+[2/2007 wef 01/04/2007]
+
+(2) If the application, not having been published under this Act, is published in accordance with the Patent Co-operation Treaty, it shall be treated, for purposes other than those mentioned in subsection (3), as published under section 27 when the national phase of the application begins or, if later, when published in accordance with the Treaty.
+
+[2/2007 wef 01/04/2007]
 
 (3) For the purposes of sections 56 and 76, the application, not having been published under this Act, shall be treated as published under section 27 —
 
@@ -2736,13 +2958,15 @@ otherwise the amendment shall be disregarded.
 
 (b) if it is so published in a language other than English —
 
-(i) on the publication of a translation of the application in accordance with section 86(7); or
+(i) on the publication of an English translation of the application in accordance with section 86(7); or
 
-(ii) on the service by the applicant of a translation into English of the specification of the application on the Government department concerned or, as the case may be, on the person committing the infringing act.
+(ii) on the service by the applicant of an English translation of the specification of the application on the Government department concerned or, as the case may be, on the person committing the infringing act.
+
+[2/2007 wef 01/04/2007]
 
 [19/2004]
 
-(4) The reference in subsection (3)(b)(ii) to the service of a translation on a Government department or other person is to its being sent by post or delivered to that department or person.
+(4) The reference in subsection (3)(b)(ii) to the service of an English translation on a Government department or other person is to its being sent by post or delivered to that department or person.
 
 (5) During the international phase of the application, section 20 does not apply (determination of questions of entitlement in relation to application under this Act); but after the end of the international phase section 20 shall apply.
 
@@ -3070,13 +3294,21 @@ unless at least one director is a registered patent agent who has in force a pra
 
 [30/2001]
 
-(10) An individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by that individual in the capacity of employee for —
+(10) Where an individual’s employer does not carry on a business, practise or act as a patent agent, the individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by the individual for his employer in his capacity as employee of his employer.
 
-(a) in any case, the individual’s employer; or
+[2/2007 wef 01/04/2007]
 
-(b) if the individual’s employer is a member of a related company group, another member of the group.
+(10A) Where —
 
-[30/2001]
+(a) an individual’s employer is a member of a related company group;
+
+(b) the individual’s employer does not carry on a business, practise or act as a patent agent; and
+
+(c) any other member of the related company group does not carry on a business, practise or act as a patent agent,
+
+the individual does not contravene subsection (1) in respect of anything done, or undertaken to be done, by the individual for that other member of the related company group in his capacity as employee of his employer.
+
+[2/2007 wef 01/04/2007]
 
 (11) A legal officer does not commit an offence against subsection (1) in respect of anything done, or undertaken to be done, by him on behalf of the Government.
 
@@ -3504,6 +3736,11 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of commencement|1 July 2004|
 |11.|**2005 Revised Edition—Patents Act**|
 ||Date of operation|31 July 2005|
+|12.|**Act 2 of 2007—Statutes (Miscellaneous Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 8 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 April 2007|
 ## COMPARATIVE TABLE
 
 Patents Act
