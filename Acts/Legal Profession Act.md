@@ -422,7 +422,7 @@
 
 - [136 Relief to banks](#Relief-to-banks)
 
-- [137 Income tax exemption](#Income-tax-exemption)
+- [137 (Repealed)](#Repealed)
 
 [**FIRST SCHEDULE Intervention in Solicitor’s Practice**](#FIRST-SCHEDULE-Intervention-in-Solicitor’s-Practice)
 
@@ -4648,15 +4648,7 @@ MISCELLANEOUS
 
 [4/2000]
 
-### Income tax exemption
-
-137\. The Board and the Society shall each be deemed to be —
-
-(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134); and
-
-(b) an institution of a public character approved under the Charities Act (Cap. 37).
-
-[10/2007 wef 01/03/2007]
+137\. [Repealed by Act 20/2007 wef 01/04/2007]
 
 FIRST SCHEDULE
 
@@ -5195,6 +5187,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 22/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|1 March 2007|
+|39.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
+||Date of First Reading|9 March 2007|
+|||(Bill No. 10/2007 published on 10 March 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 April 2007 (section 24(1))|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
