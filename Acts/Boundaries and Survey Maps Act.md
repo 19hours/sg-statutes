@@ -122,7 +122,17 @@ PRELIMINARY
 
 “licence” means a licence to supply survey services in Singapore granted under section 17 of the Land Surveyors Act;
 
-“manager”, in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof;
+“limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+
+[2/2007 wef 02/05/2007]
+
+“manager” —
+
+(a) in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof; and
+
+(b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[2/2007 wef 02/05/2007]
 
 “owner”, in relation to any parcel of land, means the person for the time being receiving the rent of the land, whether on his own account or as agent or trustee or who would receive the rent if the land were let to a tenant;
 
@@ -330,13 +340,15 @@ CONDUCT OF CADASTRAL SURVEYS
 
 ### Inspection of Authority’s survey maps, plans or survey records
 
-11B\.—(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may, upon payment to the Authority of the prescribed fee, at all reasonable times be permitted —
+11B\.—(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation , partnership or limited liability partnership may, upon payment to the Authority of the prescribed fee, at all reasonable times be permitted —
 
 (a) to inspect the relevant maps, plans or survey records lodged with the Authority; and
 
 (b) to take copies of such information therefrom as he may require.
 
 [37/2004]
+
+[2/2007 wef 02/05/2007]
 
 (2) Any person referred to in subsection (1) shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
 
@@ -418,21 +430,27 @@ CONDUCT OF CADASTRAL SURVEYS
 
 ### Correction of errors
 
-11E\.—(1) The Chief Surveyor or any authorised surveyor designated by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
+11E\.—(1) The Chief Surveyor or any authorised surveyor designated by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation, partnership or limited liability partnership.
 
 [37/2004]
 
-(2) The Chief Surveyor may, at any time after the survey plan has been deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or by a registered surveyor who is a director, a partner, a manager or an employee of that corporation or partnership , as the case may be.
+[2/2007 wef 02/05/2007]
+
+(2) The Chief Surveyor may, at any time after the survey plan has been deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation, partnership or limited liability partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or by a registered surveyor who is a director, a partner, a manager or an employee of that corporation , partnership or limited liability partnership, as the case may be.
 
 [37/2004]
+
+[2/2007 wef 02/05/2007]
 
 (3) If any person fails to comply with the notice given under subsection (2), the Chief Surveyor may undertake the correction of the cadastral survey and recover the cost of the correction from the person.
 
 [37/2004]
 
-(4) Where the Chief Surveyor is entitled to recover the cost of any correction of a cadastral survey under subsection (3), the Chief Surveyor shall serve on the registered surveyor, corporation or partnership, as the case may be, a statement of the cost of the correction by registered post addressed to the last known place of practice or residence of the registered surveyor, corporation or partnership.
+(4) Where the Chief Surveyor is entitled to recover the cost of any correction of a cadastral survey under subsection (3), the Chief Surveyor shall serve on the registered surveyor, corporation, partnership or limited liability partnership, as the case may be, a statement of the cost of the correction by registered post addressed to the last known place of practice or residence of the registered surveyor, corporation, partnership or limited liability partnership.
 
 [37/2004]
+
+[2/2007 wef 02/05/2007]
 
 (5) Subsections (2) and (3) shall not apply to an assurance plan.
 
@@ -630,3 +648,8 @@ This Legislative History is provided for the convenience of users of the Boundar
 ||Date of commencement|31 March 2005|
 |7.|**2006 Revised Edition—Boundaries and Survey Maps Act**|
 ||Date of operation|1 April 2006|
+|8.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 19 November 2007)|
+||Date of Second and Third Readings|22 January 2007|
+||Dates of commencement|2 May 2007 (Sections 8 and 11)|
