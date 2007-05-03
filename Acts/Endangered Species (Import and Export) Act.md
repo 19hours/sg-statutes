@@ -3490,6 +3490,14 @@ Lithophaga lithophaga
 
 CLASS GASTROPODA (SNAILS AND CONCHES) 
 
+ARCHAEOGASTROPODA
+
+Haliotidae Abalones
+
+Haliotis midae
+
+(South Africa)
+
 STYLOMMATOPHORA
 
 Achatinellidae Agate snails, oahu tree snails
@@ -4255,4 +4263,6 @@ spp\. #2
 [S 103/2007 wef 03/04/2007]
 
 [S 290/2006 wef 14/06/2006]
+
+[S 152/2007 wef 03/05/2007]
 
