@@ -26,7 +26,7 @@
 
 - [6 Collector to proceed to acquire after notification](#Collector-to-proceed-to-acquire-after-notification)
 
-- [7 Land to be marked out and measured](#Land-to-be-marked-out-and-measured)
+- [7 Plan of land to be acquired](#Plan-of-land-to-be-acquired)
 
 - [8 Notice to persons interested](#Notice-to-persons-interested)
 
@@ -116,9 +116,9 @@
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
-- [45 Service of notice](#Service-of-notice)
+- [45 Service of documents](#Service-of-documents)
 
-- [46 Obstructing survey, etc., filling trenches, destroying landmarks](#Obstructing-survey-etc-filling-trenches-destroying-landmarks)
+- [46 Penalty for obstructing survey, etc., or destroying landmarks](#Penalty-for-obstructing-survey-etc-or-destroying-landmarks)
 
 - [47 Police to enforce surrender](#Police-to-enforce-surrender)
 
@@ -176,17 +176,21 @@ PRELIMINARY
 
 “land” includes benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
 
-“person interested” includes every person claiming an interest in compensation to be made on account of the acquisition of land under this Act, but does not include a tenant by the month or at willor a statutory tenant under the Control of Rent Act.
+“person interested” includes every person claiming an interest in compensation to be made on account of the acquisition of land under this Act, but does not include a tenant by the month or at will.
 
-[66/73. Cap. 58]
+[66/73. ]
+
+[17/2001 wef 01/06/2001]
+
+[19/2007 wef 07/05/2007]
 
 (2) For the purposes of this Act, the following persons shall be deemed persons “entitled to act” as and to the extent hereinafter provided:
 
-(a) trustees for other persons beneficially interested shall be deemed the persons entitled to act with reference to any such case, and that to the same extent as the persons beneficially interested could have acted if free from disability;
+(a) trustees for other persons beneficially interested shall be deemed the persons entitled to act with reference to any such case, and that to the same extent as the persons beneficially interested could have acted if free from disability; and
 
-(b) a married woman shall be deemed the person so entitled to act and, whether of full age or not, to the same extent as if she were unmarried and of full age; and
+(b) [Deleted by Act 19/2007 wef 07/05/2007]
 
-(c) the guardians of minors and the committees of mentally disordered persons shall be deemed respectively the persons so entitled to act, to the same extent as the minors or mentally disordered persons themselves could have acted if free from disability:
+(c) the guardians of minors and deputies appointed or deemed to be appointed by the High Court for persons who lack capacity (incapacitated persons) under the Mental Capacity Act 2008 with power in relation to the incapacitated persons for the purposes of this Act, shall be deemed respectively the persons so entitled to act, to the same extent as the minors or incapacitated persons themselves could have acted if free from disability:
 
 Provided that —
 
@@ -206,7 +210,7 @@ Preliminary investigation
 
 ### Power to enter and survey
 
-3\.—(1) Whenever it appears to the President that land in any locality is likely to be needed for any purpose specified in section 5(1), a notification to that effect shall be published in theGazetteand the Collector shall cause public notice of the substance of the notification to be given at convenient places in that locality, and thereupon any officer either generally or specially authorised by the Minister in that behalf and his servants and workmen may —
+3\.—(1) Whenever it appears to the President that land in any locality is likely to be needed for any purpose specified in section 5(1), a notification to that effect shall be published in theGazetteand the Collector shall cause public notice of the substance of the notification to be given at convenient places in that locality, and thereupon any officer either generally or specially authorised by the Minister in that behalf and any person authorised in writing by that officer may —
 
 (a) enter upon and survey and take levels of any land in that locality;
 
@@ -228,7 +232,9 @@ Preliminary investigation
 
 ### Payment for damage
 
-4\.—(1) Where any damage is done in an entry made under section 3 by any act of the officer authorised under that section, compensation shall be paid as soon as conveniently may be after such entry and in case of dispute as to the amount of such compensation, the amount shall be determined by the Collector.
+4\.—(1) Where any damage is done in an entry made under section 3 by any act of the officer authorised under that section or person authorised in writing by that officer, compensation shall be paid as soon as conveniently may be after such entry and in case of dispute as to the amount of such compensation, the amount shall be determined by the Collector.
+
+[19/2007 wef 07/05/2007]
 
 (2) An appeal shall lie from the determination of the Collector under this section to the Minister whose decision shall be final.
 
@@ -260,9 +266,13 @@ the President may, by notification published in theGazette, declare the land to 
 
 6\. Upon the publication of a notification under section 5(1) declaring that any land is needed for the purpose specified in the notification, the Minister or an officer authorised by the Minister in that behalf shall direct the Collector to take proceedings for the acquisition of the land.
 
-### Land to be marked out and measured
+### Plan of land to be acquired
 
-7\. The Collector shall thereupon cause the land, unless it has been already marked out under section 3, to be marked out and measured, and a plan to be made thereof, if no plan exists.
+7\.—(1) Where less than the whole of any land in which a person is interested is to be acquired, and there is no plan sufficient to identify the part of the land to be acquired from the records of the Registry of Deeds or the Land Titles Registry of the Singapore Land Authority, the Collector shall, so far as is practicable, prepare a plan that is sufficient to identify the part of the land to be acquired from the records of the Registry of Deeds or the Land Titles Registry, as the case may be.
+
+(2) Subsection (1) shall not apply if the part of the land to be acquired has already been marked out under section 3.
+
+[19/2007 wef 07/05/2007]
 
 ### Notice to persons interested
 
@@ -272,9 +282,21 @@ the President may, by notification published in theGazette, declare the land to 
 
 (b) that claims to compensation for all interests in the land may be made to him.
 
-(2) The Collector shall also serve notice to the same effect on all persons known or believed to be interested in the land, or to be entitled to act for persons so interested, and residing or having agents authorised to receive service on their behalf within Singapore:
+(2) The Collector shall also serve notice to the same effect on —
 
-Provided that, if any such person resides elsewhere and has no such agent, the notice may be sent to him by registered post if his address can be ascertained after reasonable inquiry.
+(a) every person known or believed to be interested in the land and who —
+
+(i) is resident within Singapore; or
+
+(ii) is resident outside Singapore at an address that is ascertainable after reasonable inquiry; or
+
+(b) any person known or believed to be entitled to act for a person so interested and who —
+
+(i) resides, or is authorised to receive service on behalf of the person so interested, within Singapore; or
+
+(ii) resides, or is authorised to receive service on behalf of the person so interested, outside Singapore at an address that is ascertainable after reasonable inquiry.
+
+[19/2007 wef 07/05/2007]
 
 (3) Every such notice under subsections (1) and (2) —
 
@@ -284,7 +306,7 @@ Provided that, if any such person resides elsewhere and has no such agent, the n
 
 (i) to appear personally or by any person authorised in writing in that behalf before the Collector at the time and place mentioned in the notice, such time being not earlier than 21 days after the date of the notice; and
 
-(ii) to state the nature of their respective interests in the land, the amount and particulars of their claims to compensation for those interests, the basis or mode of valuation by which the amount claimed is arrived at, and their objections, if any, to the measurements made under section 7.
+(ii) to state the nature of their respective interests in the land, the amount and particulars of their claims to compensation for those interests, the basis or mode of valuation by which the amount claimed is arrived at, and their objections, if any, to the measurements in any plan prepared under section 7.
 
 (4) The Collector may, in any case, require any statement under subsection (3) to be made in writing and signed by the party or his agent.
 
@@ -298,7 +320,7 @@ Inquiry into measurements, value and claims, and award by Collector
 
 ### Inquiry and award by Collector
 
-10\.—(1) On the day so fixed, or on any other day to which the inquiry has been adjourned, the Collector shall proceed to inquire into the objections, if any, which any person interested has stated, pursuant to a notice given under section 8, to the measurements made under section 7 and into the value of the land and into the respective interests of the persons claiming the compensation, and shall, as soon as possible after the conclusion of the inquiry, make an award under his hand of —
+10\.—(1) On the day so fixed, or on any other day to which the inquiry has been adjourned, the Collector shall proceed to inquire into the objections, if any, which any person interested has stated, pursuant to a notice given under section 8, to any plan prepared under section 7 (if any) and into the value of the land and into the respective interests of the persons claiming the compensation, and shall, as soon as possible after the conclusion of the inquiry, make an award under his hand of —
 
 (a) the area of the land;
 
@@ -378,7 +400,7 @@ Taking possession
 
 (a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269], give notice to the Registrar of Deeds who shall make an entry in the books of the registry that the land has vested in the State, and upon that entry being made, the land shall vest in the State free from encumbrances; or
 
-(b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], lodge in accordance with section 126(2) of that Act, an instrument of acquisition in the prescribed form with the Registrar of Titles who shall, upon a request by the Collector, endorse on the relevant folio of the land register a notification to the effect that the land has become vested in the State as State land free from encumbrances and has ceased to be subject to the provisions of the Land Titles Act, and upon that endorsement being made, the land shall vest in the State free from encumbrances.
+(b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], lodge in accordance with section 143(2) of that Act, an instrument of acquisition with the Registrar of Titles who shall, upon a request by the Collector, endorse on the relevant folio of the land register a notification to the effect that the land has become vested in the State as State land free from encumbrances and has ceased to be subject to the provisions of the Land Titles Act, and upon that endorsement being made, the land shall vest in the State free from encumbrances.
 
 ## PART III
 
@@ -432,17 +454,19 @@ REFERENCE TO AN APPEALS BOARD AND PROCEDURE THEREON
 
 23\.—(1) Any person interested, who is aggrieved by an award made under section 10, may appeal to the Board by —
 
-(a) lodging with the Registrar, within 14 days of the date of the receipt of the award of the Collector, a written notice of appeal in quintuplicate;
+(a) lodging with the Registrar, within 14 days of the date of the receipt of the award of the Collector, a written notice of appeal in duplicate;
 
-(b) depositing or authorising the deposit with the Accountant-General within 14 days of the date of the receipt of the award a sum equivalent to one-third the amount of the award or $5,000, whichever is the less, unless a written waiver from the Collector has been obtained; and
+(b) depositing or authorising the Collector to deposit with the Accountant-General within 14 days of the date of the receipt of the award a sum equivalent to one-third the amount of the award or $5,000, whichever is the less, unless a written waiver from the Collector has been obtained; and
 
-(c) lodging with the Registrar, within 14 days of the date on which the grounds of award of the Collector have been served upon the appellant, a petition of appeal in quintuplicate containing a statement of the grounds of appeal.
+(c) lodging with the Registrar, within 14 days of the date on which the grounds of award of the Collector have been served upon the appellant, a petition of appeal in duplicate containing a statement of the grounds of appeal.
 
 (2) On receipt of a notice of appeal, the Registrar shall forthwith forward one copy thereof to the Collector. The Collector shall thereupon lodge with the Registrar his grounds of award and a copy of those grounds shall be served by the Registrar upon the appellant by delivering or tendering the copy to him or sending it to him by registered post.
 
-(3) The Board may, in its discretion and on such terms as it may see fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal or petition of appeal was not lodged, or the deposit with the Accountant-General was not made or authorised, within the time limited therefor by this section, if it is shown to the satisfaction of the Board that the person was prevented from lodging the notice or petition, or from making or authorising such deposit, in due time owing to absence from Singapore, sickness or other reasonable cause and that there has been no unreasonable delay on the part of that person.
+(3) The Board may, in its discretion and on such terms as it may see fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal or petition of appeal was not lodged, or the deposit with the Accountant-General, if not waived by the Collector, was not made or authorised, within the time limited therefor by this section, if it is shown to the satisfaction of the Board that the person was prevented from lodging the notice or petition, or from making or authorising such deposit, in due time owing to absence from Singapore, sickness or other reasonable cause and that there has been no unreasonable delay on the part of that person.
 
 [66/73]
+
+[19/2007 wef 07/05/2007]
 
 (4) Save with the consent of the Board and on such terms as the Board may determine, an appellant may not at the hearing of his appeal rely on any grounds of appeal other than the grounds stated in his petition of appeal.
 
@@ -584,25 +608,15 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 ### Matters to be considered in determining compensation
 
-33\.—(1) In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall, subject to subsections (2), (3) and (4), take into consideration the following matters and no others:
+33\.—(1) In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others:
 
-(a) the market value —
+(a) where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land —
 
-(i) 
+(i) as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration made under section 5 in respect of the same land or part thereof; or
 
-(A) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993;
+(ii) as at the date of the publication of the declaration made under section 5, in any other case;
 
-(B) as at 1st January 1992 in respect of land acquired on or after 18th January 1993 but before 27th September 1995; and
-
-(C) as at 1st January 1995 in respect of land acquired on or after 27th September 1995;
-
-[Subst. by Act 38/95 wef 01/12/1995]
-
-(ii) as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration under section 5 in respect of the same land or part thereof; or
-
-(iii) as at the date of the publication of the declaration made under section 5,
-
-whichever is the lowest;
+[19/2007 wef 07/05/2007]
 
 (b) any increase in the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put;
 
@@ -616,45 +630,29 @@ whichever is the lowest;
 
 [66/73]
 
-(2) In the case of an acquisition for any purpose specified in section 5(1) of any land devastated or affected directly or indirectly by fire, explosion, thunderbolt, earthquake, storm, tempest, flood or any act of God, or of any land immediately adjoining such devastated or affected land as is required for any such purpose, the Board shall not, in the case of any such acquisition within a period of 6 months of the land being devastated or affected as aforesaid, take into consideration the matters set out in subsection (1)(a) and (e) but shall instead consider the market value of the land immediately before it was devastated or affected as aforesaid having due regard to the fact that at the material time the land could not have been conveyed with vacant possession as it was subject to encumbrances, tenancies or occupation by squatters, but without taking into account the value of any buildings or structures, permanent or otherwise, on the land at the material time.
+(2) [Deleted by Act 19/2007 wef 07/05/2007]
 
-(3) The amount of compensation to be awarded for any land referred to in subsection (2) shall not exceed —
+(3) [Deleted by Act 19/2007 wef 07/05/2007]
 
-(a) one-third of the value of such land had it been vacant land not subject to encumbrances, tenancies or occupation by squatters unless the Minister in his discretion, by notification in theGazette, specifies otherwise; or
-
-(b) the market value of the land —
-
-(i) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993;
-
-(ii) as at 1st January 1992 in respect of land acquired on or after 18th January 1993 but before 27th September 1995; and
-
-(iii) as at 1st January 1995 in respect of land acquired on or after 27th September 1995,
-
-[Subst. by Act 38/95 wef 01/12/1995 vide S 524/95]
-
-whichever is the lower.
-
-(4) Any acquisition of any land referred to in subsection (2) shall not affect the rights or liabilities of any owner, lessee, tenant or occupier of such buildings or structures in respect of any contract of insurance entered into by such owner, lessee, tenant or occupier.
+(4) [Deleted by Act 19/2007 wef 07/05/2007]
 
 (5) For the purposes of subsection (1)(a) —
 
-(a) if the market value has been increased as a result of any improvement within two years before the notification under section 5 was published, that increase shall be disregarded unless it is proved that the improvement was made by the owner of the land or his predecessors in interest and was made bona fide and not in contemplation of proceedings for the acquisition of the land being taken under this Act;
+(a) [Deleted by Act 19/2007 wef 07/05/2007]
 
 (b) if the value of the land is increased by reason of the use thereof or of any premises thereon in a manner which could be restrained by any court or is contrary to law or is detrimental to the health of the occupiers of the premises or to public health, the amount of that increase shall not be taken into account;
 
-(c) if the value of the land has been increased by reason of development in the neighbourhood by the provision of roads, drains, electricity, water, gas or sewerage or social, educational or recreational facilities within 7 years preceding the date —
-
-(i) in a case where the notice, under section 3(1), is followed within 6 months by a notification under section 5(1) — of the notice; and
-
-(ii) in any other case — of the notification under section 5(1),
-
-the amount of that increase shall not be taken into account;
+(c) [Deleted by Act 19/2007 wef 07/05/2007]
 
 (d) if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under section 5(1) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;
 
-(e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonablybe expected to pay for the land on the basis of its existing use or in anticipation of the continued use of the land for the purpose designated in the Development Baseline referred to in section 36 of the Planning Act 1998, whichever is the lower, after taking into account the zoning and density requirements and any other restrictions imposed under the Planning Act 1998 and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other more intensive use; and
+(e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonably be willing to pay, after taking into account the zoning and density requirements and any other restrictions imposed by or under the Planning Act (Cap. 232) as at the date of acquisition and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other use more intensive than that permitted by or under the Planning Act as at the date of acquisition.
 
-(f) where the acquired land is used as a burial ground, the market value of the land shall be computed on the basis that the land is a burial ground and any consideration, in cash or kind, already received by the owner of the acquired land for the allocation of grave plots shall be taken into account, and no account shall be taken of any potential value of the land for any other more intensive use.
+(f) [Deleted by Act 19/2007 wef 07/05/2007]
+
+[3/1998 wef 01/04/1998]
+
+[19/2007 wef 07/05/2007]
 
 (6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under section 5(1) declaring that that land is needed for the purpose specified in the declaration.
 
@@ -764,23 +762,73 @@ TEMPORARY OCCUPATION OF LAND
 
 MISCELLANEOUS
 
-### Service of notice
+### Service of documents
 
-45\.—(1) Service of any notice under this Act shall be made by delivering or tendering a copy thereof signed, in the case of a notice under section 3, by the officer therein-mentioned, and, in the case of any other notice, by or by order of the Collector, the Board, the High Court or the Court of Appeal as the case may be.
+45\.—(1) A notice or other document required or authorised by this Act to be served on any person may be served —
 
-(2) Whenever practicable, the service of the notice shall be made on the person therein named or on any agent authorised to receive service on that person’s behalf.
+(a) in the case of an individual —
 
-[66/73]
+(i) by delivering it to the individual personally;
 
-(3) When that person cannot be found and no agent is authorised to receive on that person’s behalf, the service may be made on any adult male member of his family residing with him; and, if no such adult male member can be found, the notice may be served by fixing the copy on the outer door of the house in which the person therein named ordinarily dwells or carries on business, or by fixing a copy thereof in some conspicuous place in the office of the Collector and also on some conspicuous part of the land to be acquired:
+(ii) by leaving it with an adult person apparently resident at, or by sending it by pre-paid registered post to, the usual or last known address of the place of residence of the individual;
 
-Provided that, if the Collector, the Board or the court so directs, a notice may be sent by registered letter addressed to the person named therein at his last known residence, address or place of business, and service of it may be proved by the production of the registration receipt.
+(iii) by leaving it with an adult person apparently employed at, or by sending it by pre-paid registered post to, the usual or last known address of the place of business of the individual;
 
-[66/73]
+(iv) by sending it by facsimile transmission to the usual or last known address of the place of residence or business of the individual; or
 
-### Obstructing survey, etc., filling trenches, destroying landmarks
+(v) by affixing a copy of the notice in a conspicuous place at the usual or last known address of residence or business of the individual;
 
-46\. Whoever wilfully obstructs any person in doing any of the acts authorised by section 3 or 7, or wilfully fills up, destroys, damages or displaces any trench or mark made under section 3, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month or to both.
+(b) in the case of a partnership other than a limited liability partnership —
+
+(i) by delivering it to any one of the partners or the secretary or other like officer of the partnership; or
+
+(ii) by leaving it at, or by sending it by pre-paid registered post or facsimile transmission to, the principal or last known place of business of the partnership in Singapore;
+
+(c) in the case of a body corporate that is a management corporation or subsidiary management corporation for a strata title plan —
+
+(i) by delivering it to the chairman, secretary or other member of the council of the management corporation or the executive committee of the subsidiary management corporation, as the case may be; or
+
+(ii) by leaving it at, or by sending it by pre-paid registered post or facsimile transmission to, the address of the management corporation or subsidiary management corporation, as recorded on the folio of the land-register comprising the strata title plan; or
+
+(d) in the case of any limited liability partnership or any other body corporate —
+
+(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager thereof; or
+
+(ii) by leaving it at, or by sending it by pre-paid registered post or facsimile transmission to, the registered office or principal office of the limited liability partnership or body corporate in Singapore.
+
+(2) If the Collector is unable after due inquiry to ascertain the whereabouts of any person on whom a notice or other document is required by this Act to serve, the notice or document may be given or served —
+
+(a) by placing it on a board or other structure in a conspicuous place on the land to which the notice relates and by fixing a copy of the same notice or document in a conspicuous place in the office of the Collector; or
+
+(b) by publishing a copy of it in one or more daily local newspapers circulating in Singapore.
+
+(3) Where any notice or other document is —
+
+(a) sent by a facsimile transmission in accordance with subsection (1), it shall be deemed to have been duly served on the person to whom it is addressed when there is an acknowledgment by electronic or other means to the effect that the notice or document has been received at the place of residence or business or registered office or principal office, as the case may be;
+
+(b) sent by pre-paid registered post, it shall be deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, unless it is returned undelivered; or
+
+(c) served by publishing a copy of it in one or more daily local newspapers circulating in Singapore, it shall be deemed to have been duly served on the person to whom it is addressed on the day of the last publication.
+
+(4) This section shall not apply to notices and documents required to be served in proceedings in court.
+
+[19/2007 wef 07/05/2007]
+
+### Penalty for obstructing survey, etc., or destroying landmarks
+
+46\.—(1) Any person who —
+
+(a) obstructs any officer, or any duly authorised person, in the performance of any thing which the officer or person is by section 3 or 7 required or empowered to do; or
+
+(b) wilfully, without reasonable excuse, fills up, removes, damages, destroys, displaces, obliterates or defaces any trench or mark made under section 3,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both.
+
+(2) A court that finds a person guilty of an offence under subsection (1)(b) may, in addition to any penalty it imposes, order the person to pay compensation, totalling not more than 3 times the cost of replacing and repairing the trench or mark and of making any survey rendered necessary by the act for which the person was convicted.
+
+(3) The amount mentioned in subsection (1) shall be levied in the manner provided by the Criminal Procedure Code (Cap. 68) for the collection of fines.
+
+[19/2007 wef 07/05/2007]
 
 ### Police to enforce surrender
 
@@ -909,3 +957,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1 January 2006 (item (18) of the First Schedule)|
+|16.|**Act 19 of 2007—Land Acquisition (Amendment) Act 2007**|
+||Date of First Reading|12 February 2007|
+|||(Bill No. 5/2007 published on 13 February 2007)|
+||Date of Second and Third Readings|11 April 2007|
+||Date of commencement|7 May 2007|
