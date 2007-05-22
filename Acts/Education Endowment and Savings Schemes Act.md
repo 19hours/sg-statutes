@@ -162,7 +162,9 @@ EDUCATION ENDOWMENT SCHEME
 
 (d) for such other purposes as are authorised under this Act or as may be prescribed.
 
-(2) For the purpose of providing income to the Endowment Fund for the year 1993, the Minister for Finance shall pay to that Fund such sum of money as is adequate for that purpose out of moneys to be provided by Parliament and such sum of money shall not be regarded as forming any part of the capital money of the Endowment Fund.
+(2) For the purpose of providing additional income to the Endowment Fund, the Minister for Finance may, from time to time, pay to that Fund such sum of money as may be provided by Parliament, and such sum of money shall not be regarded as forming any part of the capital money of that Fund.
+
+[Act 6/2007 wef 22/05/2007]
 
 ### Establishment of Edusave Pupils Fund
 
@@ -418,3 +420,8 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 23/2005 published on 16 August 2005)|
 ||Date of Second and Third Readings|19 September 2005|
 ||Date of commencement|17 August 2005|
+|5.|**Act 6 of 2007—Education Endowment Scheme (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 18/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|22 May 2007|
