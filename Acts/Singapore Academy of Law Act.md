@@ -106,8 +106,6 @@ PRELIMINARY
 
 “Constitution” means the Constitution of the Republic of Singapore;
 
-“Faculty” means the Faculty of Law of the National University of Singapore;
-
 “Judge of the Supreme Court” includes —
 
 (a) a person designated to sit as a Judge of the High Court or as a Judge of Appeal under Article 94(3) of the Constitution; and
@@ -224,11 +222,17 @@ CONSTITUTION AND POWERS OF SENATE
 
 (e) the President of the Law Society;
 
-(f) the Dean of the Faculty;
+(f) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the Faculty of Law of the Singapore Management University, in each case, being a qualified person;
+
+[20/2007 wef 01/06/2007]
+
+[20/2009 wef 09/10/2009]
+
+[8/2011 wef 03/05/2011]
 
 (g) the Chairman of the Board; and
 
-(h) 9 other members who are appointed by the Chief Justice after consultation with the Attorney-General, the President of the Law Society and the Dean of the Faculty.
+(h) 9 other members who are appointed by the Chief Justice after consultation with the Attorney-General, the President of the Law Society and the Deans appointed under paragraph (f).
 
 [20/2007 wef 01/06/2007]
 
@@ -380,7 +384,7 @@ shall become, by virtue of this section and without election, admission or appoi
 
 [20/2009 wef 09/10/2009]
 
-(c) being a member of the Faculty, he has been dismissed from the Faculty for misconduct in the discharge of his duties;
+(c) being a member of the Faculty of Law of the National University of Singapore or the Faculty of Law of the Singapore Management University, he has been dismissed from the Faculty for misconduct in the discharge of his duties;
 
 [20/2007 wef 01/06/2007]
 
@@ -575,3 +579,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 22/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|1 March 2007|
+|8.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 March 2007|
+|||(Bill No. 10/2007 published on 10 March 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Dates of commencement|1 June 2007|
