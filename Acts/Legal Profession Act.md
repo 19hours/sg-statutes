@@ -96,6 +96,8 @@
 
 - [35 Sections 32 and 33 not to extend to arbitration proceedings](#Sections-32-and-33-not-to-extend-to-arbitration-proceedings)
 
+- [35A Order to repay upon conviction under section 33](#Order-to-repay-upon-conviction-under-section-33)
+
 - [36 No costs recoverable by unauthorised person](#No-costs-recoverable-by-unauthorised-person)
 
 [**Part V THE LAW SOCIETY OF SINGAPORE**](#Part-V)
@@ -111,6 +113,8 @@
 - [39 Membership](#Membership)
 
 - [40 Practising solicitors to be members](#Practising-solicitors-to-be-members)
+
+- [40A Foreign practitioner members](#Foreign-practitioner-members)
 
 - [41 Non-practitioner members](#Non-practitioner-members)
 
@@ -308,7 +312,7 @@
 
 - [94 Society to apply to court if cause of sufficient gravity exists](#Society-to-apply-to-court-if-cause-of-sufficient-gravity-exists)
 
-- [94A Society to apply to court for cases involving fraud or dishonesty](#Society-to-apply-to-court-for-cases-involving-fraud-or-dishonesty)
+- [94A Society to apply to court for cases involving fraud or dishonesty, or under section 33](#Society-to-apply-to-court-for-cases-involving-fraud-or-dishonesty-or-under-section-33)
 
 - [95 Provisions as to penalties](#Provisions-as-to-penalties)
 
@@ -386,27 +390,47 @@
 
 - [130 Costs of Government](#Costs-of-Government)
 
-[**Part IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES**](#Part-IXA)
+[**Part IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, REPRESENTATIVE OFFICES, FOREIGN LAW FIRMS, FOREIGN LAWYERS AND SINGAPORE LAWYERS IN FOREIGN PRACTICE**](#Part-IXA)
 
 - [130A Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [130B Joint Law Venture](#Joint-Law-Venture)
 
-- [130C Registration to practise Singapore law](#Registration-to-practise-Singapore-law)
+- [130C Formal Law Alliance](#Formal-Law-Alliance)
 
-- [130D Formal Law Alliance](#Formal-Law-Alliance)
+- [130D Accounts of Joint Law Venture](#Accounts-of-Joint-Law-Venture)
 
-- [130E Professional conduct, ethics and accounts](#Professional-conduct-ethics-and-accounts)
+- [130E Solicitor-client privilege in Joint Law Venture and Formal Law Alliance](#Solicitor-client-privilege-in-Joint-Law-Venture-and-Formal-Law-Alliance)
 
-- [130F Disciplinary proceedings](#Disciplinary-proceedings)
+- [130F Cancellation of registration of Joint Law Venture and Formal Law Alliance](#Cancellation-of-registration-of-Joint-Law-Venture-and-Formal-Law-Alliance)
 
-- [130G Cancellation of registration](#Cancellation-of-registration)
+- [130G Rules on Joint Law Ventures and Formal Law Alliances](#Rules-on-Joint-Law-Ventures-and-Formal-Law-Alliances)
 
-- [130H Attorney-General’s decision final](#Attorney-General’s-decision-final)
+- [130H Registration of foreign law firms, representative offices, foreign lawyers and Singapore lawyers in foreign practice](#Registration-of-foreign-law-firms-representative-offices-foreign-lawyers-and-Singapore-lawyers-in-foreign-practice)
 
-- [130I Registration of foreign law firms and foreign lawyers](#Registration-of-foreign-law-firms-and-foreign-lawyers)
+- [130I Registration of foreign lawyer to practise Singapore law in Joint Law Venture](#Registration-of-foreign-lawyer-to-practise-Singapore-law-in-Joint-Law-Venture)
 
-- [130J Rules on Joint Law Ventures and Formal Law Alliances](#Rules-on-Joint-Law-Ventures-and-Formal-Law-Alliances)
+- [130J Registration of foreign lawyer to practise Singapore law in Singapore law firm](#Registration-of-foreign-lawyer-to-practise-Singapore-law-in-Singapore-law-firm)
+
+- [130K Rules relating to sections 130I and 130J](#Rules-relating-to-sections-130I-and-130J)
+
+- [130L Foreign interests in Singapore law firms](#Foreign-interests-in-Singapore-law-firms)
+
+- [130M Measures to ensure compliance with section 130L](#Measures-to-ensure-compliance-with-section-130L)
+
+- [130N Compliance with guidelines, directions, undertakings and conditions](#Compliance-with-guidelines-directions-undertakings-and-conditions)
+
+- [130O Disciplinary control over foreign lawyers](#Disciplinary-control-over-foreign-lawyers)
+
+- [130P Attorney-General’s decision final](#Attorney-General’s-decision-final)
+
+- [130Q Failure to register or furnish information](#Failure-to-register-or-furnish-information)
+
+- [130R Civil penalty](#Civil-penalty)
+
+- [130S Liability of partners, directors and shareholders](#Liability-of-partners-directors-and-shareholders)
+
+- [130T Rules](#Rules)
 
 [**Part X MISCELLANEOUS**](#Part-X)
 
@@ -422,7 +446,7 @@
 
 - [136 Relief to banks](#Relief-to-banks)
 
-- [137 (Repealed)](#Repealed)
+- [137 Jurisdiction of court](#Jurisdiction-of-court)
 
 [**FIRST SCHEDULE Intervention in Solicitor’s Practice**](#FIRST-SCHEDULE-Intervention-in-Solicitor’s-Practice)
 
@@ -488,8 +512,6 @@ PRELIMINARY
 
 “Disciplinary Committee” means a committee appointed by the Chief Justice under section 90;
 
-“Faculty” means the Faculty of Law of the National University of Singapore;
-
 “Inquiry Committee” means an Inquiry Committee constituted under section 85(10);
 
 “Judge” means a Judge of the High Court sitting in chambers;
@@ -546,13 +568,15 @@ PRELIMINARY
 
 (3) Without prejudice to the generality of subsection (2), rules made thereunder may —
 
-(a) prescribe the institutions of higher learning and the qualifications conferred thereby which may be recognised for the purposes of this Act;
+(a) prescribe the institutions of higher learning, and the courses provided and qualifications conferred thereby, which may be recognised for the purposes of this Act, and may include provisions for the review by the Board of the syllabus and contents of such courses and examinations leading to such qualifications;
+
+[20/2007 wef 01/06/2007]
 
 (b) specify the minimum standard of attainment, including the class of honours, to be achieved by persons who possess any of the prescribed qualifications;
 
 (c) prescribe such courses, tests or examinations to be undergone by persons who possess any of the prescribed qualifications;
 
-(d) provide for the exemption of any person or classes of persons from any of the provisions thereof ; and
+(d) provide for the exemption of any person or classes of persons from any of the provisions thereof by the Minister or by the Board; and
 
 [20/2007 wef 01/06/2007]
 
@@ -688,7 +712,9 @@ Board of Legal Education
 
 (b) the President of the Society;
 
-(c) the Dean of the Faculty;
+(c) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the Faculty of Law of the Singapore Management University, in each case, being a qualified person;
+
+[20/2007 wef 01/06/2007]
 
 (d) 4 advocates and solicitors nominated by the Senate of the Academy after consultation with the Council; and
 
@@ -696,13 +722,13 @@ Board of Legal Education
 
 [15/89; 35/2001]
 
-(2) The members of the Board, other than the Attorney-General, the President of the Society and the Dean of the Faculty, shall be nominated to hold office for a term of 3 years.
+(2) The members of the Board, other than the Attorney-General, the President of the Society and the Deans appointed under subsection (1)(c), shall be nominated to hold office for a term of 3 years.
 
 [20/2007 wef 01/06/2007]
 
 [35/2001]
 
-(3) If for any reason the Attorney-General, the President of the Society or the Dean of the Faculty is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Council or the Faculty, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
+(3) If for any reason the Attorney-General, the President of the Society or any of the Deans appointed under subsection (1)(c) is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Council or the Faculty of Law of the National University of Singapore or the Faculty of Law of the Singapore Management University, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
 
 [20/2007 wef 01/06/2007]
 
@@ -748,7 +774,9 @@ Qualified persons
 
 [17/84]
 
-(2) No person who is a qualified person by reason of his having passed the final examination for the degree of Bachelor of Laws in the National University of Singapore shall be admitted as an advocate and solicitor before the degree of Bachelor of Laws is conferred upon him.
+(2) No person who is a qualified person by reason of his having passed the final examination for a law degree in any university in Singapore pursuant to rules made under section 2(2) shall be admitted as an advocate and solicitor before the law degree is conferred upon him.
+
+[20/2007 wef 01/06/2007]
 
 (3) A person shall not be disqualified by sex from being admitted and enrolled as an advocate and solicitor.
 
@@ -788,9 +816,13 @@ Qualified persons
 
 (5) Subsection (4) shall not —
 
-(a) apply to a legal officer; or
+(a) apply to service as a legal officer;
 
-(b) preclude a pupil receiving remuneration from his master.
+(b) apply to service as an Assistant Public Prosecutor in the Attorney-General’s Chambers; or
+
+(c) preclude a pupil receiving remuneration from his master.
+
+[20/2007 wef 01/06/2007]
 
 (6) Where a pupil attends the course of instruction referred to in subsection (3) concurrently with his period of pupillage, the period spent in attendance at such course of instruction shall not be counted for the purpose of subsection (2).
 
@@ -814,7 +846,7 @@ Qualified persons
 
 [10/91; 41/93; 40/96]
 
-(3) For the purposes of this section and section 13(5), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory board or authority as the Minister may prescribe.
+(3) For the purposes of this section and section 13(5), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory body or law office in the public service as the Minister may prescribe.
 
 [20/2007 wef 01/06/2007]
 
@@ -1426,7 +1458,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (b) being a legal officer, is dismissed from the Singapore Legal Service;
 
-(c) being a member of the Faculty, is dismissed from the Faculty;
+(c) being a member of the Faculty of Law of the National University of Singapore or the Faculty of Law of the Singapore Management University, is dismissed from the Faculty;
 
 [20/2007 wef 01/06/2007]
 
@@ -1447,6 +1479,10 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (7) On 21st April 1989, those persons who, on the date immediately preceding that date, are holding office as the Attorney-General and the Solicitor-General shall be deemed to have been appointed as Senior Counsel under this section.
 
 [15/89]
+
+(8) Any person who, on or after the date of commencement of this subsection, holds office as the Attorney-General or the Solicitor-General shall, if he is not a Senior Counsel, be deemed to have been appointed as Senior Counsel under this section on that date or the date on which he is appointed Attorney-General or Solicitor-General, whichever is the later.
+
+[20/2007 wef 01/06/2007]
 
 ### Order of precedence of Senior Counsel in court
 
@@ -1480,7 +1516,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (b) wilfully or falsely pretends to be, or takes or uses any name, title, addition or description implying that he is duly qualified or authorised to act as an advocate or a solicitor, or that he is recognised by law as so qualified or authorised,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both .
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [20/2007 wef 01/06/2007]
 
@@ -1504,11 +1540,11 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (4) Subsection (3) shall not apply to any person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor pursuant to a lawful contract of indemnity or insurance.
 
-(5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $500 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $10,000 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [20/2007 wef 01/06/2007]
 
-(6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor, or has the capacity or powers of a law corporation or a limited liability law partnership when in fact the body corporate does not, shall be an offence and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $1,000 and for a second or subsequent offence to a fine not exceeding $3,000.
+(6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor, or has the capacity or powers of a law corporation or a limited liability law partnership when in fact the body corporate does not, shall be an offence and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $25,000 and for a second or subsequent offence to a fine not exceeding $50,000.
 
 [41/2005 wef 04/12/2006]
 
@@ -1578,6 +1614,26 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (b) would have been governed by either the Arbitration Act or the International Arbitration Act had the place of arbitration been Singapore.
 
+### Order to repay upon conviction under section 33
+
+35A\.—(1) A court may, on the application of the Public Prosecutor, order any unauthorised person convicted of an offence under section 33(1), (2) or (3) or against whom a court has taken into consideration such an offence in sentencing him —
+
+(a) to repay any fee, gain or reward received in respect of any such offence to the person who made the payment; or
+
+(b) to pay any fee, gain or reward referred to in paragraph (a) to the Law Society for the benefit of the person who made the payment.
+
+(2) The Society shall hold and pay out any moneys received pursuant to an order made under subsection (1)(b) in the manner prescribed under subsection (5).
+
+(3) In any proceedings under subsection (1), a certificate purporting to be issued by the Public Prosecutor certifying the amount of any fee, gain or reward referred to in subsection (1)(a) paid by a person to an unauthorised person shall be prima facie evidence of the amount that the unauthorised person is liable to repay under subsection (1)(a) as at the date of the certificate.
+
+(4) An amount ordered to be paid under subsection (1) shall carry interest as from the date of the order and at the same rate as a judgment debt.
+
+(5) The Council may, with the approval of the Chief Justice, make rules for the purposes of subsection (2).
+
+(6) In this section, “fee, gain or reward” does not include disbursements.
+
+[20/2007 wef 01/06/2007]
+
 ### No costs recoverable by unauthorised person
 
 36\.—(1) No costs in respect of anything done by an unauthorised person as an advocate or a solicitor or in respect of any act which is an offence under section 33 shall be recoverable in any action, suit or matter by any person whomsoever.
@@ -1585,6 +1641,10 @@ shall, unless he proves that the act was not done for or in expectation of any f
 (2) Any payment to an unauthorised person for anything done by that unauthorised person which is an offence under section 33 may be recovered by the person who paid the money in a court of competent jurisdiction.
 
 [35
+
+(3) Subsection (2) shall not entitle any person (referred to in this subsection as “the claimant”) to recover from an unauthorised person any payment that has been repaid to the claimant or paid to the Law Society for the benefit of the claimant under section 35A(1).
+
+[20/2007 wef 01/06/2007]
 
 ## PART V
 
@@ -1666,9 +1726,15 @@ Members of Society and subscriptions
 
 (a) all advocates and solicitors who are members of the Society by reason of section 40;
 
-(b) all persons admitted to membership of the Society under section 41; and
+(b) all persons admitted to membership of the Society under section 41;
 
-(c) all persons elected as honorary members under section 42.
+[20/2007 wef 01/06/2007]
+
+(c) all persons elected as honorary members under section 42; and
+
+[20/2007 wef 01/06/2007]
+
+(d) all persons who are members of the Society by reason of section 40A.
 
 [20/2007 wef 01/06/2007]
 
@@ -1680,13 +1746,29 @@ Members of Society and subscriptions
 
 (3) Every advocate and solicitor who is a member of the Society under subsection (1) shall be referred to in this Act as a practitioner member.
 
+### Foreign practitioner members
+
+40A\.—(1) Every foreign lawyer who is —
+
+(a) registered under section 130I to practise Singapore law in a Joint Law Venture;
+
+(b) registered under section 130J to practise Singapore law in a Singapore law firm; or
+
+(c) granted an approval referred to in section 130L,
+
+shall, without election, admission or appointment, become a member of the Society and remain a member under this section so long and only so long as his registration referred to in paragraph (a) or (b) or his approval referred to in paragraph (c) continues in force.
+
+(2) Every foreign lawyer who is a member of the Society under subsection (1) shall be referred to in this Act as a foreign practitioner member.
+
+[20/2007 wef 01/06/2007]
+
 ### Non-practitioner members
 
 41\.—(1) Any of the following persons who applies for membership of the Society in the prescribed manner shall be admitted as a member of the Society:
 
 (a) any advocate and solicitor who does not have in force a practising certificate;
 
-(b) any foreign lawyer registered under rules made under section 130I; and
+(b) any foreign lawyer registered by the Attorney-General under Part IXA who is not a foreign practitioner member; and
 
 [19/2008 wef 01/06/2007]
 
@@ -1724,25 +1806,61 @@ Members of Society and subscriptions
 
 (2) A practitioner member shall not be expelled from membership so long as he has in force a practising certificate.
 
+(3) A foreign practitioner member shall not be expelled from membership so long as his registration referred to in section 40A(1)(a) or (b) or his approval referred to in section 40A(1)(c) continues in force.
+
+[20/2007 wef 01/06/2007]
+
 ### Termination of membership
 
 45\. Any member of the Society, other than an honorary member, who ceases to be qualified for membership shall thereupon cease to be a member.
 
 ### Annual subscription to Society
 
-46\.—(1) The amount of the annual subscription payable by members of the Society shall, subject to subsection (4), be fixed from time to time by the Counciland shall be payable to the Society by every solicitor in each year prior to his application for a practising certificate.
+46\.—(1) The amount of the annual subscription payable by members of the Society shall, subject to subsection (4), be fixed from time to time by the Council.
 
-(2) In fixing the amount of the subscription, the Council shall be at liberty to divide members into classes, and to provide that different amounts shall be paid by different classes and for different periods and generally to regulate, and to vary from time to time, the subscriptions payable by members or by different classes of members, as the Council may think fit.
+[20/2007 wef 01/06/2007]
+
+(1A) The subscription shall be payable to the Society by every solicitor in each year prior to his application for a practising certificate.
+
+[20/2007 wef 01/06/2007]
+
+(1B) The subscription shall be payable to the Society by a foreign practitioner member —
+
+(a) if he is registered under section 130I or 130J, not later than 14 days after the date of issue of every certificate of registration by the Attorney-General in respect of his registration under that section; or
+
+(b) if he has been granted an approval referred to in section 130L, but is not registered under section 130I or 130J, not later than 14 days after the date of issue of a certificate of approval by the Attorney-General in respect of that approval and not later than the anniversary of that date of issue in every subsequent year.
+
+[20/2007 wef 01/06/2007]
+
+(1C) The amount payable in the case of subsection (1B)(a) shall be —
+
+(a) if the certificate of registration issued by the Attorney-General is valid for 12 months, the amount of the annual subscription fixed under subsection (1) for foreign practitioner members;
+
+(b) if the certificate of registration issued by the Attorney-General is valid for 24 months, double the amount of the annual subscription fixed under subsection (1) for foreign practitioner members; or
+
+(c) if the certificate of registration issued by the Attorney-General is valid for 36 months, treble the amount of the annual subscription fixed under subsection (1) for foreign practitioner members.
+
+[20/2007 wef 01/06/2007]
+
+(1D) The amount payable in the case of subsection (1B)(b) shall be the amount of the annual subscription fixed under subsection (1) for foreign practitioner members.
+
+[20/2007 wef 01/06/2007]
+
+(2) Subject to this section, in fixing the amount of the subscription, the Council shall be at liberty to divide members into classes, and to provide that different amounts shall be paid by different classes and for different periods and generally to regulate, and to vary from time to time, the subscriptions payable by members or by different classes of members, as the Council may think fit.
 
 [20/2007 wef 01/06/2007]
 
 (3) The subscriptions payable by members admitted to membership under section 41 shall at no time exceed the lowest subscription payable by practitioner members for the corresponding period.
 
-(4) The Council may from time to time fix levies payable by practitioner members for any of the purposes of the Society.
+(3A) The subscriptions payable by foreign practitioner members who are members of the Society by reason of section 40A shall at no time exceed the highest subscription payable by practitioner members for the corresponding period.
 
 [20/2007 wef 01/06/2007]
 
-(5) The total of the subscriptions payable under subsection (1), the levies payable under subsection (4) and the annual contribution payable under section 75 shall not in any calendar year exceed $500 per practitioner member without the approval of a general meeting of the Society.
+(4) The Council may from time to time fix levies payable by practitioner members and foreign practitioner members for any of the purposes of the Society.
+
+[20/2007 wef 01/06/2007]
+
+(5) The total of the annual subscription payable under subsection (1), the levies payable under subsection (4) and the annual contribution payable under section 75 shall not in any calendar year exceed $500 per practitioner member without the approval of a general meeting of the Society.
 
 [20/2007 wef 01/06/2007]
 
@@ -1750,13 +1868,27 @@ Members of Society and subscriptions
 
 (6) Within one week of the end of each month, the Society shall, out of each annual subscription received by the Society during that month, pay to the Board —
 
-(a) in the case of a subscription paid by a practitioner member of not less than 5 years’ standing, a sum of $120; and
+(a) in the case of a subscription paid by a practitioner member of not less than 5 years’ standing, a sum of $120;
 
-(b) in the case of a subscription paid by a practitioner member of less than 5 years’ standing, a sum of $60.
+[20/2007 wef 01/06/2007]
+
+(b) in the case of a subscription paid by a practitioner member of less than 5 years’ standing, a sum of $60; and
 
 [20/2007 wef 01/06/2007]
 
 [17/84]
+
+(c) in the case of a subscription paid by a foreign practitioner member, a sum of $50.
+
+[20/2007 wef 01/06/2007]
+
+(7) For the avoidance of doubt, the sum payable to the Board under subsection (6)(c) —
+
+(a) where a foreign practitioner member has paid to the Society double the amount of the annual subscription pursuant to subsection (1C)(b), shall be $100; and
+
+(b) where a foreign practitioner member has paid to the Society treble the amount of the annual subscription pursuant to subsection (1C)(c), shall be $150.
+
+[20/2007 wef 01/06/2007]
 
 Division 3 —
 
@@ -2152,7 +2284,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 ### Rules as to professional practice, etiquette, conduct and discipline
 
-71\.—(1) Without prejudice to any other power to make rules, the Council may make rules for regulating the professional practice, etiquette, conduct and discipline of advocates and solicitors.
+71\.—(1) Without prejudice to any other power to make rules, the Council may make rules for regulating the professional practice, etiquette, conduct and discipline of advocates and solicitors, including rules empowering the Council to take such action as may be necessary to enable the Council to ascertain whether or not the rules are being complied with.
 
 [20/2007 wef 01/06/2007]
 
@@ -2264,7 +2396,39 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (2) Every solicitor shall, in each year prior to his application for a practising certificate, pay to the Society a contribution of such sum not exceeding $200 as the Council may, from time to time, determine and the Society shall pay that contribution to the Fund.
 
-(3) A solicitor who applies for a practising certificate between 1st October in any year and 31st March in the next year shall be required to pay only half the contribution so determined if the practising certificate for which he proposes to make an application will remain in force for less than 6 months.
+(3) A solicitor who applies for a practising certificate between 1st October in any year and 31st March in the next year shall be required to pay only half the contribution determined under subsection (2) if the practising certificate for which he proposes to make an application will remain in force for less than 6 months.
+
+[20/2007 wef 01/06/2007]
+
+(3A) Every foreign lawyer who is —
+
+(a) registered under section 130J to practise Singapore law in a Singapore law firm; or
+
+(b) granted an approval referred to in section 130L,
+
+shall, while his registration referred to in paragraph (a) or his approval referred to in paragraph (b) continues in force, pay to the Society an annual contribution of such sum (not exceeding the amount applicable to solicitors under subsection (2)) as the Council may from time to time determine and the Society shall pay that contribution to the Fund.
+
+[20/2007 wef 01/06/2007]
+
+(3B) A foreign lawyer shall pay the contribution required under subsection (3A) —
+
+(a) if he is registered under section 130J, not later than 14 days after the date of issue of every certificate of registration by the Attorney-General in respect of his registration under that section; or
+
+(b) if he has been granted an approval referred to in section 130L, but is not registered under section 130J, not later than 14 days after the date of issue of a certificate of approval by the Attorney-General in respect of that approval and not later than the anniversary of that date of issue in every subsequent year.
+
+[20/2007 wef 01/06/2007]
+
+(3C) The amount payable in the case of subsection (3B)(a) shall be —
+
+(a) if the certificate of registration issued by the Attorney-General is valid for 12 months, the amount of the annual contribution determined under subsection (3A);
+
+(b) if the certificate of registration issued by the Attorney-General is valid for 24 months, double the amount of the annual contribution determined under subsection (3A); or
+
+(c) if the certificate of registration issued by the Attorney-General is valid for 36 months, treble the amount of the annual contribution determined under subsection (3A).
+
+[20/2007 wef 01/06/2007]
+
+(3D) The amount payable in the case of subsection (3B)(b) shall be the amount of the annual contribution determined under subsection (3A).
 
 [20/2007 wef 01/06/2007]
 
@@ -2310,11 +2474,19 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (a) any solicitor or employee of a solicitor in connection with that solicitor’s practice in Singapore as a solicitor or in connection with any trust in Singapore of which that solicitor is a trustee;
 
-(b) any officer or employee of a law corporation in connection with legal services performed in Singapore by the law corporation; or
-
-(c) any partner, officer or employee of a limited liability law partnership in connection with legal services performed in Singapore by the limited liability law partnership,
+(b) any officer or employee of a law corporation in connection with legal services performed in Singapore by the law corporation;
 
 [20/2007 wef 01/06/2007]
+
+(c) any partner, officer or employee of a limited liability law partnership in connection with legal services performed in Singapore by the limited liability law partnership; or
+
+[20/2007 wef 01/06/2007]
+
+(d) any foreign lawyer referred to in subsection (3A) or employee of such a foreign lawyer in connection with that foreign lawyer’s practice in a Singapore law firm,
+
+[20/2007 wef 01/06/2007]
+
+[19/2008 wef 19/09/2008]
 
 then subject to this section, the Society may, if the Council thinks fit, make a grant to that person out of the Fund for the purpose of relieving or mitigating that loss.
 
@@ -2324,17 +2496,21 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [4/2000]
 
+(12A) A grant may be made under this section notwithstanding that subsequent to the commission of that act of dishonesty the foreign lawyer has died or his registration or approval referred to in subsection (3A) has been cancelled or suspended or has expired.
+
+[20/2007 wef 01/06/2007]
+
 (13) On the making by the Society of any grant under this section to any person in respect of any loss —
 
-(a) the Society shall, to the amount of the grant, be subrogated to any rights and remedies in respect of the loss of the person to whom the grant is made or of the solicitor, clerk or servant; and
+(a) the Society shall, to the amount of the grant, be subrogated to any rights and remedies in respect of the loss of the person to whom the grant is made or of the solicitor, foreign lawyer, clerk or servant; and
 
 [20/2007 wef 01/06/2007]
 
-(b) the person to whom the grant is made shall have no right under bankruptcy or other legal proceedings or otherwise to receive any sum out of the assets of the solicitor, clerk or servant in respect of the loss until the Society has been reimbursed the full amount of its grant.
+(b) the person to whom the grant is made shall have no right under bankruptcy or other legal proceedings or otherwise to receive any sum out of the assets of the solicitor, foreign lawyer, clerk or servant in respect of the loss until the Society has been reimbursed the full amount of its grant.
 
 [20/2007 wef 01/06/2007]
 
-(14) References in subsection (13)(a) and (b) to the person to whom the grant is made or to the solicitor, clerk or servant shall include, in the event of his death, insolvency or other disability, references to his personal representative or any other person having authority to administer the estate.
+(14) References in subsection (13)(a) and (b) to the person to whom the grant is made or to the solicitor, foreign lawyer, clerk or servant shall include, in the event of his death, insolvency or other disability, references to his personal representative or any other person having authority to administer the estate.
 
 [20/2007 wef 01/06/2007]
 
@@ -2376,7 +2552,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (e) authorise the Council to determine the amount of any premiums or payments required by such rules, subject to such limits, or in accordance with such provisions, as may be prescribed by those rules;
 
-(f) specify circumstances in which, where an advocate and solicitor or a law corporation or a limited liability law partnership for whom indemnity is provided has contravened such rules or to make payment for such indemnity, the Society or the insurers may take proceedings against the advocate and solicitor or the law corporation or the limited liability law partnership in respect of sums paid by way of indemnity in connection with a matter in relation to which the advocate and solicitor or the law corporation or the limited liability law partnership has contravened;
+(f) specify circumstances in which, where an advocate and solicitor or a law corporation or a limited liability law partnership for whom indemnity is provided has failed to comply with such rules or to make payment for such indemnity, the Society or the insurers may take proceedings against the advocate and solicitor or the law corporation or the limited liability law partnership in respect of sums paid by way of indemnity in connection with a matter in relation to which the advocate and solicitor or the law corporation or the limited liability law partnership has failed to comply;
 
 [41/2005 wef 04/12/2006]
 
@@ -2398,6 +2574,10 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (6) Nothing in this section shall affect the right of any advocate and solicitor or law corporation or limited liability law partnership, in addition to the indemnity provided in rules made under this section, to insure himself or the law corporation or the limited liability law partnership further against loss arising from such claims as may be instituted against him or the law corporation or the limited liability law partnership.
 
+(7) Disciplinary proceedings may be taken against any advocate and solicitor who contravenes any rules made under this section.
+
+[20/2007 wef 01/06/2007]
+
 ### Redress for inadequate professional services
 
 75B\. The Second Schedule shall have effect with respect to the provision by solicitors of services on or after 1st September 1998 which are not of the quality which it is reasonable to expect of them.
@@ -2408,7 +2588,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 ### Qualification to practise as sole proprietor or in partnership or as director of law corporation
 
-75C\.—(1) No solicitor, who is admitted as a solicitor on or after 1st March 1997, may practise as a solicitor on his own account or in partnership (whether in a law firm or a limited liability law partnership) or as a director of a law corporation unless he —
+75C\.—(1) No solicitor may practise as a solicitor on his own account or in partnership (whether in a law firm or a limited liability law partnership) or as a director of a law corporation unless he —
 
 (a) has successfully completed such legal practice management course within such time as the Council may by rules made under section 71 prescribe; and
 
@@ -2432,23 +2612,23 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [40/96]
 
-(3) Subsection (1) shall not apply to a solicitor who practises in partnership with any solicitor who has been in active practice in Singapore for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
+(3) Paragraphs (b) and (c) of subsection (1) shall not apply to a solicitor who was admitted as a solicitor before 1st March 1997.
 
-[40/96]
+[20/2007 wef 01/06/2007]
 
-(4) Subsection (1) shall not apply to a solicitor who is a director of a law corporation if at least one of the directors of that law corporation is a solicitor who has been in active practice in Singapore for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
+(4) This section shall not apply to a solicitor who has before 9th March 2007 been in practice as a solicitor on his own account or in partnership (whether in a law firm or a limited liability law partnership) or as a director of a law corporation.
 
-[4/2000]
+[20/2007 wef 01/06/2007]
 
-(4A) Subsection (1) shall not apply to a solicitor who is a partner of a limited liability law partnership if at least one of the partners of that limited liability law partnership is a solicitor who has been in active practice in Singapore for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
+[19/2008 wef 19/09/2008]
 
-(5) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(5) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [20/2007 wef 01/06/2007]
 
 [40/96]
 
-(6) For the purposes of this section and section 75D, “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory corporation as the Minister may prescribe.
+(6) For the purposes of this section and section 75D, “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory body or law office in the public service as the Minister may prescribe.
 
 [20/2007 wef 01/06/2007]
 
@@ -2462,7 +2642,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (b) a legal officer;
 
-(c) a full-time member of the academic staff of the Faculty ; or
+(c) a full-time member of the academic staff of the Faculty of Law of the National University of Singapore or the Faculty of Law of the Singapore Management University; or
 
 [20/2007 wef 01/06/2007]
 
@@ -2470,7 +2650,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [40/96]
 
-(2) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(2) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [20/2007 wef 01/06/2007]
 
@@ -2500,7 +2680,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (3) Disciplinary proceedings may be taken against any solicitor who has acted in contravention of subsection (1) or (2).
 
-(4) Any unauthorised person who was enabled by a solicitor to act or practise or purport to practise as a solicitor shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months.
+(4) Any unauthorised person who was enabled by a solicitor to act or practise or purport to practise as a solicitor shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months.
 
 [20/2007 wef 01/06/2007]
 
@@ -3108,7 +3288,7 @@ DISCIPLINARY PROCEEDINGS
 
 ### Disciplinary proceedings against legal officers and non-practising solicitors
 
-82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
+82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 94A, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
 
 [20/2007 wef 01/06/2007]
 
@@ -3714,17 +3894,25 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [19/2008 wef 01/12/2008]
 
-### Society to apply to court for cases involving fraud or dishonesty
+### Society to apply to court for cases involving fraud or dishonesty, or under section 33
 
 94A\.—(1) Where an advocate and solicitor has been convicted of an offence involving fraud or dishonesty, whether the offence was disclosed as a result of an investigation under section 87(3)(b) or otherwise, the Society shall, without further direction or directions, proceed to make an application in accordance with section 98.
 
 [41/93]
 
-(2) Where there is an appeal against conviction, the Society shall not make an application under subsection (1) until the appeal has been withdrawn or deemed to have been withdrawn or disposed of by the appellate court.
+(1A) Where an advocate and solicitor has been convicted of an offence under section 33, the Society may, and shall upon a request by the Attorney-General, without further direction or directions, proceed to make an application in accordance with section 98.
+
+[20/2007 wef 01/06/2007]
+
+(2) Where there is an appeal against conviction, the Society shall not make an application under subsection (1) or (1A) until the appeal has been withdrawn or deemed to have been withdrawn or disposed of by the appellate court.
 
 [20/2007 wef 01/06/2007]
 
 [41/93]
+
+(3) This section shall not apply to a legal officer.
+
+[20/2007 wef 01/06/2007]
 
 ### Provisions as to penalties
 
@@ -4308,219 +4496,123 @@ RECOVERY AND TAXATION OF COSTS
 
 ## PART IXA
 
-FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+JOINT LAW VENTURES, FORMAL LAW ALLIANCES, REPRESENTATIVE OFFICES, FOREIGN LAW FIRMS, FOREIGN LAWYERS AND SINGAPORE LAWYERS IN FOREIGN PRACTICE
+
+[20/2007 wef 01/06/2007]
 
 ### Interpretation of this Part
 
-130A\. In this Part —
+130A\.—(1) In this Part, unless the context otherwise requires —
 
-“foreign law” means the law of any state or territory other than Singapore;
+“foreign law” means the law of any state or territory other than Singapore and includes international law;
 
-“foreign law firm” means a foreign law firm with an office or a place of business in Singapore which provides legal services in any foreign law in Singapore or elsewhere and includes a corporation duly constituted for the purpose of practising law;
+“foreign law firm” means a law firm (including a sole proprietorship or a partnership or a body corporate, whether with or without limited liability) providing legal services in any foreign law in Singapore or elsewhere, but does not include a Singapore law firm;
 
-“foreign lawyer” means a person who is duly authorised or registered to practise law in a state or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that state or territory;
+“foreign lawyer” means an individual who is duly authorised or registered to practise law in a state or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that state or territory;
 
-“Formal Law Alliance” means a Formal Law Alliance registered under section 130D;
+“Formal Law Alliance” means a Formal Law Alliance registered under section 130C;
 
 “Joint Law Venture” means a Joint Law Venture registered under section 130B;
 
-“Practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of a Singapore lawyer under Part IV;
+“practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of a Singapore lawyer under Part IV;
+
+“representative office” means an office set up in Singapore by a foreign law firm to carry out only liaison or promotional work for the foreign law firm, without providing legal services in Singapore or conducting any other business activities;
 
 “Singapore law firm” means a firm of advocates and solicitors and includes a law corporation registered under Part VIA or a limited liability law partnership registered under Part VIB;
 
-“Singapore lawyer” means an advocate and solicitor as defined in section 2.
+“Singapore lawyer” means an advocate and solicitor as defined in section 2;
 
-[4/2000]
+“Singapore lawyer in foreign practice” means a Singapore lawyer practising foreign law in Singapore and who does not hold a practising certificate.
+
+(2) A reference to this Part shall be construed so as to include a reference to any rules made under this Part.
 
 ### Joint Law Venture
 
-130B\.—(1) The Attorney-General may, after consulting such authorities as may be prescribed, approve an application by a foreign law firm jointly made with a Singapore law firm to be registered as a Joint Law Venture on such terms and conditions and for such period as the Attorney-General may think fit.
-
-[4/2000]
+130B\.—(1) The Attorney-General may, after consulting such authorities as he thinks fit, approve an application by a foreign law firm made jointly with a Singapore law firm to be registered as a Joint Law Venture on such terms and conditions and for such period as the Attorney-General may think fit.
 
 (2) A Joint Law Venture may be constituted —
 
 (a) by a partnership between a foreign law firm and a Singapore law firm;
 
-(b) by the incorporation of a company under Singapore law with shares in the company held by a foreign law firm and a Singapore law firm or by their respective nominees; or
+(b) by the incorporation of a company under Singapore law, with the shares in the company being held by a foreign law firm and a Singapore law firm or by their respective nominees; or
 
 (c) by any other arrangement or means as may be prescribed.
 
-[4/2000]
-
 (3) A foreign law firm and a Singapore law firm are eligible to make an application jointly under subsection (1) if they satisfy the prescribed conditions.
-
-[4/2000]
 
 (4) The Attorney-General may refuse to approve an application under subsection (1) without assigning any reason.
 
-[4/2000]
+(5) The Attorney-General may, if he is satisfied that it is in the public interest to do so, vary or revoke any term or condition imposed on the approval given under subsection (1).
 
-(5) The Attorney-General may, if he is satisfied that it is in the public interest to do so, by notice in writing, vary or revoke any term or condition imposed on the approval given under subsection (1).
-
-[4/2000]
-
-(6) A Joint Law Venture shall be entitled to the following privileges:
+(6) Subject to the provisions of this Part and any term or condition imposed thereunder, a Joint Law Venture shall be entitled to the following privileges:
 
 (a) to practise in areas of legal practice mutually agreed between the law firms constituting the Joint Law Venture;
 
-(b) foreign lawyers who are employed by, or who are partners or directors of, the registered Joint Law Venture may practise Singapore law in accordance with section 130C;
+(b) foreign lawyers who are employed by, or who are partners or directors of, the Joint Law Venture may practise Singapore law in accordance with section 130I;
 
-(c) the registered Joint Law Venture may market or publicise itself as a single service provider competent to provide legal services in all areas in which the constituent law firms are qualified to provide;
+(c) the Joint Law Venture may market or publicise itself as a single service provider competent to provide legal services in all areas in which the constituent law firms are qualified to provide;
 
-(d) the registered Joint Law Venture may bill its clients as if it were a single law firm; and
+(d) the Joint Law Venture may bill its clients as if it were a single law firm; and
 
 (e) such other privileges as may, from time to time, be prescribed or otherwise conferred by law.
 
-[4/2000]
-
 (7) Nothing in this Act shall prevent the constituent law firms in the Joint Law Venture from sharing office premises, profits or client information with respect to the legal practice of the Joint Law Venture.
-
-[4/2000]
 
 (8) A foreign law firm which constitutes part of a Joint Law Venture shall not practise as a foreign law firm in Singapore except through the Joint Law Venture.
 
-[4/2000]
-
 (9) For the avoidance of doubt, a Joint Law Venture shall not be treated as a law corporation for the purposes of Part VIA.
-
-[4/2000]
 
 (10) A Joint Law Venture which is a company shall, notwithstanding that the shares in the Joint Law Venture are held by more than 20 members or by a corporation, be deemed to be an exempt private company for the purposes of the Companies Act (Cap. 50).
 
-[4/2000]
-
 (11) Notwithstanding section 27 of the Companies Act, a Joint Law Venture which is a limited company need not have the word “Limited” or “Berhad” as part of its name and a Joint Law Venture which is a private company need not have the word “Private” or “Sendirian” as part of its name.
 
-[28/2000]
-
-(12) The directors of a Joint Law Venture which is a limited company shall ensure that every invoice or official correspondent of the Joint Law Venture bears the statement that it is incorporated with limited liability.
-
-[28/2000]
-
-### Registration to practise Singapore law
-
-130C\.—(1) A foreign lawyer who is employed by or who is a partner or director of a Joint Law Venture may, notwithstanding anything to the contrary in Part IV, practise Singapore law as a partner, director or an employee of the Joint Law Venture and recover costs and retain payments in respect of such practice if he is registered to practise Singapore law by the Attorney-General under subsection (3).
-
-[4/2000]
-
-(2) Notwithstanding subsection (1), a foreign lawyer who is registered to practise Singapore law under subsection (3) shall not represent any party before any judicial, arbitral or regulatory tribunal or body in Singapore unless the foreign lawyer is, apart from this section, permitted to do so under Part IV.
-
-[4/2000]
-
-(3) The Attorney-General may, in his discretion, approve an application to register a foreign lawyer to practise Singapore law for such period as the Attorney-General may think fit except that the Attorney-General may, if he thinks it necessary in the circumstances of the case, require that a foreign lawyer successfully complete such modules in such courses of instruction as the Attorney-General may require.
-
-[4/2000]
-
-(4) The registration of a foreign lawyer to practise Singapore law shall —
-
-(a) lapse if the foreign law firm is dissolved or in liquidation or if the registration of the Joint Law Venture is cancelled under section 130G; and
-
-(b) be suspended for such period as the Attorney-General may think fit if the foreign lawyer ceases to be a partner, director or an employee, as the case may be, of the Joint Law Venture or of the foreign law firm which constitutes part of the Joint Law Venture.
-
-[4/2000]
-
-(5) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
-
-[4/2000]
+(12) The directors of a Joint Law Venture which is a limited company shall ensure that every invoice or official correspondence of the Joint Law Venture bears the statement that it is incorporated with limited liability.
 
 ### Formal Law Alliance
 
-130D\.—(1) The Attorney-General may, after consulting such authorities as may be prescribed, approve an application by a foreign law firm jointly made with a Singapore law firm to be registered as a Formal Law Alliance on such terms and conditions and for such period as the Attorney-General may think fit.
+130C\.—(1) The Attorney-General may, after consulting such authorities as he thinks fit, approve an application by a foreign law firm made jointly with a Singapore law firm to be registered as a Formal Law Alliance on such terms and conditions and for such period as the Attorney-General may think fit.
 
-[4/2000]
-
-(2) A foreign law firm or a Singapore law firm may, as the case may be, apply for registration of more than one formal alliance and a registered Formal Law Alliance may comprise of more than 2 constituent law firms.
-
-[4/2000]
+(2) A foreign law firm or a Singapore law firm may, as the case may be, apply for registration of more than one Formal Law Alliance and a registered Formal Law Alliance may comprise more than 2 constituent law firms.
 
 (3) A foreign law firm and a Singapore law firm are eligible to make an application jointly under subsection (1) if they satisfy the prescribed conditions.
 
-[4/2000]
+(4) The Attorney-General may refuse to approve an application under subsection (1) without assigning any reason.
 
-(4) The Attorney-General may refuse an application under subsection (1) without assigning any reason.
+(5) The Attorney-General may, if he is satisfied that it is in the public interest to do so, vary or revoke any term or condition imposed on the approval given under subsection (1).
 
-[4/2000]
-
-(5) The Attorney-General may, if he is satisfied that it is in the public interest to do so, by notice in writing, vary or revoke any term or condition imposed on the approval given in subsection (1).
-
-[4/2000]
-
-(6) A Formal Law Alliance shall be entitled to the following privileges:
+(6) Subject to the provisions of this Part and any term or condition imposed thereunder, a Formal Law Alliance shall be entitled to the following privileges:
 
 (a) the Formal Law Alliance may market or publicise itself as a single service provider competent to provide legal services in all areas in which the constituent law firms are qualified to provide;
 
-(b) the Formal Law Alliance may bill its clients as if it were a single law firm;
+(b) the Formal Law Alliance may bill its clients as if it were a single law firm; and
 
-(c) a foreign lawyer who is a partner, director or an employee of the foreign law firm which constitutes part of the Formal Law Alliance may prepare all the documents in a transaction involving the law or regulatory regime of more than one country or jurisdiction, except that any legal opinion relating to Singapore law must be given by a Singapore lawyer who has in force a practising certificate.
+(c) a foreign lawyer who is a partner, a director or an employee of a foreign law firm which constitutes part of the Formal Law Alliance may prepare all the documents in a transaction involving the law or regulatory regime of more than one country or jurisdiction, except that any legal opinion relating to Singapore law must be given by a Singapore lawyer who has in force a practising certificate.
 
-[4/2000]
+(7) Nothing in this Act shall prevent the constituent law firms in the Formal Law Alliance from sharing office premises, profits or client information with respect to the legal practice of the Formal Law Alliance.
 
-(7) Nothing in this Act or any rules made thereunder shall prevent the constituent law firms in the Formal Law Alliance from sharing office premises, profits or client information with respect to the practice of the Formal Law Alliance.
+### Accounts of Joint Law Venture
 
-[4/2000]
+130D\.—(1) Sections 72 and 73 and any rules made thereunder shall apply, with such modifications as may be prescribed, to a Joint Law Venture in respect of the practice of Singapore law.
 
-### Professional conduct, ethics and accounts
+(2) Where a Joint Law Venture has submitted an accountant’s report in compliance with section 73 as applied to it by subsection (1), the Singapore law firm which constitutes part of the Joint Law Venture shall not be required to submit another accountant’s report under that section.
 
-130E\.—(1) A foreign lawyer practising Singapore law in a Joint Law Venture shall comply with such rules relating to professional conduct or ethics as may be prescribed in rules made under section 130J unless the Attorney-General, in his discretion, exempts the foreign lawyer from such compliance.
+### Solicitor-client privilege in Joint Law Venture and Formal Law Alliance
 
-[4/2000]
+130E\.—(1) Solicitor-client privilege exists between a Joint Law Venture or a Formal Law Alliance and its client in the same way as it exists between a solicitor and his client.
 
-(2) Sections 72 and 73 and any rules made thereunder shall apply, with such modifications as may be prescribed, to a Joint Law Venture in respect of the practice of Singapore law.
+(2) Nothing in this section shall affect the solicitor-client privilege that exists between the Singapore law firm or the foreign law firm and a client, as the case may be, which constitutes part of a Joint Law Venture or a Formal Law Alliance.
 
-[4/2000]
+### Cancellation of registration of Joint Law Venture and Formal Law Alliance
 
-(3) Where a Joint Law Venture has submitted an accountant’s report in compliance with section 73 as applied to it by subsection (2), the Singapore law firm which constitutes part of the Joint Law Venture shall not be required to submit another accountant’s report under that section.
-
-[4/2000]
-
-(4) Solicitor-client privilege exists between a Joint Law Venture or a Formal Law Alliance and its client in the same way as it exists between a solicitor and his client.
-
-[4/2000]
-
-(5) Nothing in this section shall affect the solicitor-client privilege that exists between the Singapore law firm or the foreign law firm and a client, as the case may be, which constitutes part of a Joint Law Venture or a Formal Law Alliance.
-
-[4/2000]
-
-### Disciplinary proceedings
-
-130F\.—(1) Any complaint in respect of the conduct of a foreign lawyer registered to practise Singapore law under section 130C shall be made to the Attorney-General.
-
-[4/2000]
-
-(2) Every complaint shall be in writing and be supported by a statutory declaration if required by the Attorney-General.
-
-[4/2000]
-
-(3) Where the Attorney-General has received any complaint under this section or where facts are brought to the knowledge of the Attorney-General which satisfy the Attorney-General that there may be grounds for such a complaint, the Attorney-General shall give the foreign lawyer a reasonable opportunity to make representations in writing, and if he is of the opinion that there is sufficient reason for doing so, the Attorney-General may —
-
-(a) cancel or suspend for such period as he may think fit the registration of the foreign lawyer to practise Singapore law;
-
-(b) censure the foreign lawyer;
-
-(c) order the foreign lawyer to pay a penalty not exceeding $5,000 or such other higher sum as may be prescribed; or
-
-(d) make such other order as he thinks fit.
-
-[4/2000]
-
-(4) If the foreign lawyer fails to pay the penalty referred to in subsection (3)(c) or comply with the order referred to in subsection (3)(d) within such time as the Attorney-General may specify, the Attorney-General may cancel or suspend for such period as he may think fit the registration of that foreign lawyer.
-
-[4/2000]
-
-### Cancellation of registration
-
-130G\.—(1) The Attorney-General may, by notice in writing to a Joint Law Venture or a Formal Law Alliance, cancel its registration under this Part if the Attorney-General is satisfied that there is sufficient reason for doing so.
-
-[4/2000]
+130F\.—(1) The Attorney-General may, by notice in writing to a Joint Law Venture or a Formal Law Alliance, cancel its registration under this Part if the Attorney-General is satisfied that there is sufficient reason for doing so.
 
 (2) Without limiting the grounds for cancellation, the registration may be cancelled if —
 
-(a) the foreign law firm’s home registration authority cancels its registration as a result of criminal, civil or disciplinary proceedings;
+(a) the foreign law firm’s registration or authorisation to practise law in a state or territory outside Singapore has been cancelled by the relevant authority as a result of criminal, civil or disciplinary proceedings;
 
-(b) the Joint Law Venture or the Formal Law Alliance fails to comply with any requirement of or imposed under this Part or any rules made thereunder;
+(b) the Joint Law Venture or the Formal Law Alliance fails to comply with any requirement of or imposed under this Part;
 
-(c) the registration or authorisation of the foreign law firm by its home registration authority has lapsed;
+(c) the registration or authorisation of the foreign law firm to practise law in a state or territory outside Singapore by the relevant authority has lapsed;
 
 (d) the foreign law firm has been dissolved or is in liquidation;
 
@@ -4530,73 +4622,375 @@ FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
 
 (g) the Attorney-General is satisfied that it is in the public interest to do so.
 
-[4/2000]
-
-(3) Registration may not be cancelled on any of the grounds specified in subsection (1) or (2) unless the Joint Law Venture or the Formal Law Alliance or the law firms constituting the Venture or Alliance, as the case may be, are given a reasonable opportunity to make written representations to the Attorney-General.
-
-[4/2000]
-
-### Attorney-General’s decision final
-
-130H\. Any decision made by the Attorney-General under this Part or any rules made thereunder shall be final and conclusive.
-
-[4/2000]
-
-### Registration of foreign law firms and foreign lawyers
-
-130I\.—(1) The Minister may, after consulting the Attorney-General, make rules to provide for —
-
-(a) the registration with the Attorney-General of all foreign law firms;
-
-(b) the registration with the Attorney-General of all foreign lawyers practising in or employed by a foreign law firm, a Singapore law firm or a Joint Law Venture;
-
-(c) the manner and means of application for registration of a foreign law firm or a foreign lawyer;
-
-(d) the submission of information and particulars relating to the foreign law firms and the foreign lawyers and other persons practising in or employed by the foreign law firm;
-
-(e) the payment of fees on applications for registration and renewal of registration and other related matters; and
-
-(f) the form and manner in which the register is to be kept.
-
-[4/2000; 28/2000]
-
-(2) Where a foreign law firm or a foreign lawyer —
-
-(a) fails to apply for registration under the rules made under subsection (1); or
-
-(b) fails to furnish any particulars or information required under such rules,
-
-then the rights of the foreign law firm or the foreign lawyer in default under or arising out of any contract in relation to the legal services provided through the office in Singapore of the foreign law firm shall not be enforceable in legal proceedings in the name of the foreign law firm or the foreign lawyer, as the case may be.
-
-[4/2000]
+(3) Registration may not be cancelled under subsection (1) or (2) unless the Joint Law Venture or the Formal Law Alliance or the law firms constituting the Venture or Alliance, as the case may be, are given a reasonable opportunity to make written representations to the Attorney-General.
 
 ### Rules on Joint Law Ventures and Formal Law Alliances
 
-130J\. The Minister may, after consulting the Attorney-General, make rules for the following purposes:
+130G\. The Minister may, after consulting the Attorney-General, make rules for the following purposes:
+
+(a) to prescribe the experience and expertise required for eligibility to apply for the registration of a Joint Law Venture or a Formal Law Alliance;
+
+(b) to prescribe the manner or means by which a Joint Law Venture or a Formal Law Alliance may conduct its business or publicise itself; and
+
+(c) to modify the application of any provision of this Act, other than this Part, to a Singapore law firm or a solicitor practising in that law firm where that Singapore law firm constitutes part of a Joint Law Venture or a Formal Law Alliance.
+
+### Registration of foreign law firms, representative offices, foreign lawyers and Singapore lawyers in foreign practice
+
+130H\. The Minister may, after consulting the Attorney-General, make rules to provide for the registration with the Attorney-General of —
+
+(a) foreign law firms and representative offices;
+
+(b) foreign lawyers practising in or employed by a Joint Law Venture, a foreign law firm or a Singapore law firm; and
+
+(c) Singapore lawyers in foreign practice.
+
+### Registration of foreign lawyer to practise Singapore law in Joint Law Venture
+
+130I\.—(1) A foreign lawyer who is employed by or who is a partner or director of a Joint Law Venture may, notwithstanding anything to the contrary in Part IV, practise Singapore law as a partner, a director or an employee of that Joint Law Venture and recover costs and retain payments in respect of such practice if he is registered by the Attorney-General under subsection (3).
+
+(2) Notwithstanding subsection (1), a foreign lawyer who is registered under subsection (3) shall not represent any party before any judicial or regulatory tribunal or body in Singapore.
+
+(3) The Attorney-General may, in his discretion, approve an application to register a foreign lawyer to practise Singapore law as a partner, a director or an employee of a Joint Law Venture subject to any term or condition and for such period as the Attorney-General thinks fit, if the foreign lawyer possesses such qualifications and satisfies such requirements as the Minister may prescribe under section 130K.
+
+(4) The registration of a foreign lawyer under this section shall —
+
+(a) lapse if the Joint Law Venture is dissolved or in liquidation or if the registration of the Joint Law Venture is cancelled under section 130F; and
+
+(b) be suspended for such period as the Attorney-General may think fit if the foreign lawyer ceases to be a partner, a director or an employee, as the case may be, of the Joint Law Venture.
+
+(5) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
+
+### Registration of foreign lawyer to practise Singapore law in Singapore law firm
+
+130J\.—(1) A foreign lawyer may, notwithstanding anything to the contrary in Part IV, practise Singapore law in a Singapore law firm if he is registered to practise Singapore law in that Singapore law firm by the Attorney-General under subsection (3).
+
+(2) Notwithstanding subsection (1), a foreign lawyer who is registered to practise Singapore law under subsection (3) shall not represent any party before any judicial or regulatory tribunal or body in Singapore.
+
+(3) The Attorney-General may, in his discretion, approve an application to register a foreign lawyer to practise Singapore law in a Singapore law firm subject to any term or condition and for such period as the Attorney-General thinks fit, if the foreign lawyer possesses such qualifications and satisfies such requirements as the Minister may prescribe under section 130K.
+
+(4) The registration of a foreign lawyer under this section shall lapse if the foreign lawyer ceases to be a partner, a director or an employee in the Singapore law firm.
+
+(5) Subsection (4) shall not apply to a foreign lawyer if the foreign lawyer —
+
+(a) upon ceasing to be a partner or a director in the Singapore law firm, remains or becomes an employee in that Singapore law firm; or
+
+(b) upon ceasing to be an employee in the Singapore law firm, remains or becomes a partner or a director in that Singapore law firm.
+
+(6) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
+
+### Rules relating to sections 130I and 130J
+
+130K\.—(1) The Minister may, after consulting the Attorney-General, make rules —
+
+(a) to prescribe the qualifications, experience and expertise required of a foreign lawyer for eligibility to apply for registration under section 130I or 130J;
+
+(b) to prescribe conditions that a foreign lawyer registered under section 130I or 130J must comply with, including any restriction as to the areas of Singapore law that the foreign lawyer may practise; and
+
+(c) to specify the type of Singapore law firm at which a foreign lawyer registered under section 130J may practise, including the areas of practice of the Singapore law firm.
+
+(2) Without prejudice to the generality of subsection (1)(a), the rules may —
+
+(a) prescribe the institutions of higher learning and the qualifications conferred thereby which may be recognised for the purposes of this section;
+
+(b) provide that the foreign lawyer must take and pass such qualifying examinations as the Attorney-General may require and provide for such examinations to be administered and conducted by a panel of examiners as provided in the rules;
+
+(c) provide that a foreign lawyer must successfully complete such modules in such courses of instruction as the Attorney-General may require;
+
+(d) specify the minimum standard of attainment to be achieved by the foreign lawyer in relation to the prescribed qualifications, examinations or courses; and
+
+(e) require a foreign lawyer to have practised as a partner, a director or an employee in a Singapore law firm for a minimum period and specify any requirements as to the type of Singapore law firm at which the foreign lawyer must have practised, including any area of practice of the Singapore law firm.
+
+### Foreign interests in Singapore law firms
+
+130L\.—(1) Subject to the provisions of this Part, nothing in this Act shall prevent a foreign lawyer, with the approval of the Attorney-General, from doing any or all of the following:
+
+(a) being a director, a partner or a shareholder in the Singapore law firm in which he is registered to practise foreign law under section 130H;
+
+(b) being a director, a partner or a shareholder in the Singapore law firm in which he is registered to practise Singapore law under section 130J;
+
+(c) sharing in the profits of any such Singapore law firm.
+
+(2) The Attorney-General may, in granting his approval referred to in subsection (1), impose any conditions as he thinks fit on the foreign lawyer or on the Singapore law firm in which the foreign lawyer is registered to practise foreign law under section 130H or is registered to practise Singapore law under section 130J.
+
+(3) For the avoidance of doubt, the approval of the Attorney-General referred to in subsection (1) shall lapse if the registration of the foreign lawyer to practise foreign law under section 130H or to practise Singapore law under section 130J is cancelled, suspended or otherwise lapses.
+
+(4) A foreign lawyer to whom an approval referred to in subsection (1) has been granted shall not —
+
+(a) be a managing partner, a managing director or a manager of any Singapore law firm; and
+
+(b) while such an approval remains in force, be —
+
+(i) a partner, a director, a shareholder, an employee or a consultant in any foreign law firm; or
+
+(ii) a nominee of any foreign law firm or any other foreign lawyer in respect of the management of, or the control of any voting power or equity interest in, the Singapore law firm in which he is practising.
+
+(5) The total value of equity interests in a Singapore law firm held by foreign lawyers (whether individually or collectively) as shareholders or partners of the Singapore law firm shall not exceed 25% of the total value of equity interests in the Singapore law firm.
+
+(6) Foreign lawyers (whether individually or collectively) shall not, directly or indirectly, have a controlling interest in a Singapore law firm.
+
+(7) For the purposes of subsection (6), foreign lawyers shall be deemed to have a controlling interest in a Singapore law firm if —
+
+(a) foreign lawyers (whether individually or collectively) are entitled to exercise or control the exercise of more than 25% of the total voting rights exercisable by the shareholders or partners (as the case may be) in the Singapore law firm; or
+
+(b) the majority of the partners, directors or managers (as the case may be) of the Singapore law firm are, in any matter relating to the management of the Singapore law firm, nominees of foreign lawyers (whether individually or collectively).
+
+(8) The total amount of payments made by a Singapore law firm, during the financial year of that firm, to foreign lawyers —
+
+(a) as remuneration to its directors;
+
+(b) as dividends to its shareholders or partners; and
+
+(c) under any other profit-sharing arrangement,
+
+shall not exceed 25% of the total amount of remuneration to its directors, dividends to its shareholders or partners and payments under any other profit-sharing arrangement paid by that Singapore law firm during the financial year of that firm.
+
+(9) The Minister may, by order, vary the percentage of equity interests specified for the purposes of subsection (5), the percentage of total voting rights specified for the purposes of subsection (7)(a) or the percentage of the total payments specified for the purposes of subsection (8).
+
+(10) For the purposes of subsections (4)(b)(ii) and (7)(b), a person is deemed to be a nominee of a foreign law firm or foreign lawyer if that person is accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that foreign law firm or foreign lawyer.
+
+(11) In this section, “manager” —
+
+(a) in relation to a body corporate or partnership, means the principal executive officer of the body corporate or partnership for the time being by whatever name called and whether or not he is a director or partner thereof; and
+
+(b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A).
+
+(12) For the avoidance of doubt, in this section and in section 130M —
+
+“foreign lawyer” means a foreign lawyer, whether practising in Singapore or elsewhere;
+
+“foreign law firm” means a foreign law firm, whether with an office or a place of business in Singapore or elsewhere.
+
+### Measures to ensure compliance with section 130L
+
+130M\.—(1) Where a Singapore law firm applies for an approval referred to in section 130L(1) in respect of a foreign lawyer, the Attorney-General may require the Singapore law firm making the application, the foreign lawyer and any partner or director of the Singapore law firm to provide such undertakings as he thinks fit to prevent any direct or indirect circumvention of section 130L.
+
+(2) Where a foreign lawyer, a Singapore law firm or a partner or director of a Singapore law firm has contravened section 130L or any undertaking provided by that person or law firm, as the case may be, under subsection (1) —
+
+(a) the foreign lawyer, Singapore law firm or partner or director concerned (as the case may be) shall notify the Attorney-General in writing of the contravention;
+
+(b) the foreign lawyer or partner or director concerned (as the case may be) shall cease to exercise his voting rights as a shareholder or partner in the Singapore law firm concerned;
+
+(c) the foreign lawyer concerned shall repay to the Singapore law firm concerned any payment he has received in excess of the amount permitted under section 130L(8);
+
+(d) the foreign lawyer, Singapore law firm or partner or director concerned (as the case may be) shall take all reasonable steps to remove the circumstances giving rise to the contravention; and
+
+(e) the foreign lawyer, Singapore law firm or partner or director concerned (as the case may be) shall comply with any directions made by the Attorney-General under subsections (3) and (4).
+
+(3) Where a foreign lawyer, Singapore law firm or partner or director of a Singapore law firm has contravened section 130L or any undertaking required under subsection (1), the Attorney-General may —
+
+(a) cancel the approval referred to in section 130L(1) in respect of the foreign lawyer concerned; and
+
+(b) make directions to the foreign lawyer, Singapore law firm or partner or director concerned (as the case may be) to ensure compliance with section 130L.
+
+(4) Without prejudice to the generality of subsection (3)(b), the Attorney-General may direct —
+
+(a) the foreign lawyer concerned to divest himself of any shares he may have in the Singapore law firm within such time as the Attorney-General may specify;
+
+(b) the foreign lawyer concerned to repay to the Singapore law firm concerned any payment he has received in excess of the amount permitted under section 130L(8) within such time as the Attorney-General may specify; and
+
+(c) the foreign lawyer concerned to cease doing any act in his capacity as a managing partner, a managing director or a manager of the Singapore law firm concerned.
+
+(5) A direction under this section shall be —
+
+(a) made in writing and shall specify the provision under section 130L or the undertaking provided under this section that has been contravened; and
+
+(b) sent to the person or law firm to which it relates at the last known address of that person or law firm.
+
+(6) In this section, a reference to a foreign lawyer concerned shall —
+
+(a) in relation to a contravention of section 130L(4), refer to the foreign lawyer who so contravened that section;
+
+(b) in relation to a contravention of section 130L(5) or (6), refer to every foreign lawyer who was a partner or shareholder (as the case may be) of the Singapore law firm concerned when the contravention occurred;
+
+(c) in relation to a contravention of subsection (8) of section 130L, refer to every foreign lawyer who received any payment referred to in paragraph (a), (b) or (c) of that subsection from the Singapore law firm concerned during the financial year of the firm when the contravention occurred; and
+
+(d) in relation to the breach of an undertaking provided by a foreign lawyer under subsection (1), refer to the foreign lawyer who provided the undertaking.
+
+(7) In this section, a reference to a partner or a director concerned shall, in relation to the breach of an undertaking provided by a partner or a director of a Singapore law firm under subsection (1), refer to the partner or director who provided the undertaking.
+
+(8) In this section, a reference to a Singapore law firm concerned shall —
+
+(a) in relation to a contravention of section 130L(4) by a foreign lawyer who has been granted an approval under section 130L(1), refer to the Singapore law firm in respect of which the approval was granted;
+
+(b) in relation to a contravention of section 130L(5), (6) or (8), refer to the Singapore law firm in respect of which the contravention occurred; and
+
+(c) in relation to the breach of an undertaking provided under subsection (1), refer to the Singapore law firm in respect of which the undertaking was provided.
+
+### Compliance with guidelines, directions, undertakings and conditions
+
+130N\.—(1) The Attorney-General may require any person making an application for any registration or approval under this Part to provide such undertakings as he thinks fit to prevent any direct or indirect circumvention of the provisions of this Part.
+
+(2) The Attorney-General may, from time to time, issue guidelines relating to any registration or approval under this Part.
+
+(3) Where any requirement of any guidelines issued under this section conflicts with any requirement specified in this Part, the latter shall prevail.
+
+(4) The Attorney-General shall cause all guidelines issued under this section to be published in such manner as will give persons or entities to whom the guidelines relate adequate notice of the requirements specified therein.
+
+(5) It shall be a condition of every registration or approval under this Part that the person or entity registered or granted approval shall comply with the requirements of this Part, including any guidelines issued under this section and any undertakings provided under this section or section 130M.
+
+(6) The Attorney-General may, if he is satisfied that any person or entity registered or approved under this Part has contravened any provision of this Part, any guideline issued under this section or any undertaking provided under this section or section 130M, issue directions to that person or entity to ensure compliance by that person or entity.
+
+(7) A direction under subsection (6) shall be —
+
+(a) made in writing and shall specify the provision of this Part or the guideline issued under this section or the undertaking provided under this section or section 130M that has been contravened; and
+
+(b) sent to the person or entity to which it relates at the last known address of that person or entity.
+
+(8) The Attorney-General may cancel the registration or approval in respect of any person or entity under this Part if that person or entity fails to comply with any condition of registration or approval of that person or entity under this Part or any direction of the Attorney-General issued under subsection (6).
+
+(9) Where the registration or certification of any person, foreign law firm, Joint Law Venture, Formal Law Alliance or representative office under any provision of the repealed Part IXA (referred to in this subsection as the “former registration or certification”) is deemed to be registered under any provision of this Part by rules made under this Part —
+
+(a) the deemed registration shall, unless the Attorney-General otherwise determines, be subject to the same conditions (if any) that applied to the former registration or certification; and
+
+(b) subsections (5), (6) and (8) shall apply to any guidelines or directions issued by the Attorney-General and any undertakings given by any person, before the date of commencement of this section in respect of the former registration or certification, as if those guidelines, directions or undertakings were guidelines issued under this section or directions issued under subsection (6) or undertakings provided under this section, respectively.
+
+### Disciplinary control over foreign lawyers
+
+130O\.—(1) Any complaint in respect of the conduct of a foreign lawyer registered under this Part shall be made to the Attorney-General.
+
+(2) Every complaint shall be in writing and be supported by a statutory declaration stating —
+
+(a) the name, address and occupation of the complainant;
+
+(b) the name and address of the foreign lawyer complained against;
+
+(c) the grounds of the complaint; and
+
+(d) the evidence of the alleged misconduct.
+
+(3) The Attorney-General may, in his discretion, waive any requirement in subsection (2) if the complaint is made by a public officer in the course of his duties.
+
+(4) Where the Attorney-General has received any complaint under this section or where facts are brought to the knowledge of the Attorney-General which satisfy the Attorney-General that there may be grounds for such a complaint, the Attorney-General shall give the foreign lawyer concerned a reasonable opportunity to make representations in writing, and if he is of the opinion that there is sufficient reason for doing so, the Attorney-General may —
+
+(a) cancel or suspend for such period as he may think fit the registration of the foreign lawyer under this Part;
+
+(b) censure the foreign lawyer;
+
+(c) order the foreign lawyer to pay a penalty not exceeding $10,000 or such other higher sum as may be prescribed; or
+
+(d) make such other order as he thinks fit.
+
+(5) If the foreign lawyer fails to pay a penalty imposed under subsection (4)(c) or to comply with an order made under subsection (4)(d) within such time as the Attorney-General may specify, the Attorney-General may cancel or suspend for such period as he may think fit the registration of that foreign lawyer.
+
+(6) In respect of any action or order under this section, any determination or application by the Attorney-General, on the facts and in the circumstances of the case before him, of any rules of an applicable jurisdiction relating to the professional conduct or etiquette of the foreign lawyer concerned shall be final and binding on that foreign lawyer.
+
+(7) Any action, order or determination taken or made by the Attorney-General under this Part shall not in any way affect the power or authority of any relevant professional disciplinary body (whether in Singapore or in any state or territory outside Singapore) to take such action as it deems appropriate against the foreign lawyer concerned in respect of the same conduct giving rise to the action or order by the Attorney-General under subsection (4).
+
+(8) Where a complaint received by the Attorney-General under this section relates to a foreign lawyer who is —
+
+(a) registered under section 130I to practise Singapore law in a Joint Law Venture;
+
+(b) registered under section 130J to practise Singapore law in a Singapore law firm; or
+
+(c) granted the approval of the Attorney-General referred to in section 130L,
+
+the Attorney-General may, if he considers it appropriate, consult the Council of the Law Society in relation to any action, order or determination to be taken or made by him in respect of the complaint.
+
+### Attorney-General’s decision final
+
+130P\. Any decision made by the Attorney-General under this Part shall be final and conclusive.
+
+### Failure to register or furnish information
+
+130Q\.—(1) Where a Joint Law Venture or foreign law firm —
+
+(a) fails to apply for registration where such registration is required under this Part; or
+
+(b) fails to furnish any particulars or information required under this Part,
+
+then the rights of the Joint Law Venture or foreign law firm under or arising out of any contract in relation to the legal services provided through the office or place of business in Singapore of the Joint Law Venture or foreign law firm (as the case may be) shall not be enforceable in legal proceedings in the name of the Joint Law Venture or foreign law firm.
+
+(2) Where a foreign lawyer or a Singapore lawyer in foreign practice —
+
+(a) fails to apply for registration where such registration is required under this Part; or
+
+(b) fails to furnish any particulars or information required under this Part,
+
+then the rights of the foreign lawyer or Singapore lawyer in foreign practice under or arising out of any contract in relation to the legal services provided through the office or place of business in Singapore of the Joint Law Venture, foreign law firm or Singapore law firm (as the case may be) in which he is employed or is practising foreign law shall not be enforceable in legal proceedings in the name of the lawyer or the Joint Law Venture, foreign law firm or Singapore law firm.
+
+### Civil penalty
+
+130R\.—(1) Any person (including a Joint Law Venture, Formal Law Alliance, foreign law firm or Singapore law firm) that contravenes any provision in this Part shall be liable to pay a civil penalty in accordance with this section.
+
+(2) Whenever it appears to the Attorney-General that any such person has contravened any provision in this Part, the Attorney-General may bring an action in a court to seek an order for a civil penalty in respect of that contravention against —
+
+(a) that person;
+
+(b) the foreign law firm or Singapore law firm in which that person is a partner, a director, a consultant or an employee; or
+
+(c) the Joint Law Venture or Formal Law Alliance or its constituent law firms, in which that person is practising.
+
+(3) If the court is satisfied on a balance of probabilities that the person has contravened a provision in this Part, the court may make an order for the payment of a civil penalty against —
+
+(a) the person, being an individual, of a sum not exceeding $50,000; or
+
+(b) the Singapore law firm, foreign law firm, Joint Law Venture, Formal Law Alliance or a constituent firm against which the action is brought under subsection (2), of a sum not exceeding $100,000.
+
+(4) Notwithstanding subsection (3), where an action has been brought against a person or a Singapore law firm, foreign law firm, Joint Law Venture, Formal Law Alliance or a constituent firm (referred to in this section as “the defendant”), the court may make an order against the defendant if the Attorney-General has agreed to allow the defendant to consent to the order with or without admission of a contravention of a provision in this Part and the order may be made on such terms as may be agreed between the Attorney-General and the defendant.
+
+(5) Nothing in this section shall be construed to prevent the Attorney-General from entering into an agreement with the defendant to pay, with or without admission of liability, a civil penalty within the limits referred to in subsection (3) for a contravention of any provision in this Part.
+
+(6) A civil penalty imposed under this section shall be payable to the Consolidated Fund.
+
+(7) If the defendant fails to pay the civil penalty imposed on him within the time specified in the court order referred to in subsection (3) or (4) or specified under the agreement referred to in subsection (5), the Attorney-General may recover the civil penalty as though the civil penalty were a judgment debt due to the Government.
+
+(8) Rules of Court may be made to —
+
+(a) regulate and prescribe the procedure and practice to be followed in respect of proceedings under this section; and
+
+(b) provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
+
+(9) This section shall apply notwithstanding that any disciplinary action has been taken against the foreign lawyer concerned under any other provision of this Act or by any professional disciplinary body (whether in Singapore or in any state or territory outside Singapore).
+
+### Liability of partners, directors and shareholders
+
+130S\. Where a Joint Law Venture, Formal Law Alliance, foreign law firm or Singapore law firm is proved to have contravened any provision in this Part, every partner, director and shareholder of the Joint Law Venture, Formal Law Alliance, foreign law firm or Singapore law firm (as the case may be) at the time of the contravention shall be deemed to have contravened the provision unless he proves that —
+
+(a) the contravention occurred without his consent or connivance; and
+
+(b) he exercised such diligence to prevent the contravention as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
+
+### Rules
+
+130T\.—(1) The Minister may, after consulting the Attorney-General, make such rules as may be necessary or expedient for the purposes of this Part.
+
+(2) Without prejudice to the generality of subsection (1), the Minister may, after consulting the Attorney-General, make rules —
 
 (a) to prescribe anything which may be prescribed under this Part;
 
-(b) to prescribe the qualifying legal skills, experience and expertise required under this Part;
+(b) to prescribe any condition for eligibility to apply for any registration under this Part or for the approval of the Attorney-General referred to in section 130L;
 
-(c) to provide for the manner and means of application and the information and documents to be furnished for the registration and de-registration of Joint Law Ventures and Formal Law Alliances;
+(c) to provide for the manner and means of application and the information and documents to be furnished for any registration under this Part, for the approval of the Attorney-General referred to in section 130L, for renewal of such registration and for other related matters;
 
-(d) to provide for the manner and means of application and the information and documents to be furnished for foreign lawyers to be registered to practise Singapore law;
+(d) to provide for the payment of fees on applications for any registration under this Part, for the approval of the Attorney-General referred to in section 130L, for renewal of such registration and for other related matters;
 
-(e) to provide for a register of Joint Law Ventures and Formal Law Alliances to be kept in such form and manner as may be prescribed;
+(e) to provide for the cancellation of any registration under this Part or of the approval of the Attorney-General referred to in section 130L;
 
-(f) to provide for disciplinary control over foreign lawyers in a Joint Law Venture who are registered to practise Singapore law under section 130C and to modify the application of any provision of this Act, other than this Part, in respect of legal services performed by such lawyers;
+(f) to require the submission of information and particulars relating to Joint Law Ventures, foreign law firms, representative offices, foreign lawyers, Singapore lawyers in foreign practice and persons practising in or employed by any Joint Law Venture, foreign law firm or representative office;
 
-(g) to provide for the manner or means by which a Joint Law Venture or a Formal Law Alliance may conduct its business or publicise itself;
+(g) to provide the form and manner in which registers of Joint Law Ventures, Formal Law Alliances, representative offices, foreign lawyers and Singapore lawyers in foreign practice are to be kept;
 
-(h) to modify the application of any provision of this Act, other than this Part, or any rules made thereunder to a Singapore law firm or a solicitor practising in that law firm where that Singapore law firm constitutes part of a Joint Law Venture or a Formal Law Alliance;
+(h) to provide the form and manner in which registers of approvals of the Attorney-General referred to in section 130L are to be kept;
 
-(i) to exempt any person or class of persons from any provision of this Part;
+(i) to provide for the issuance and amendment of certificates of registration or certificates of good standing and certified true copies thereof and for the payment of fees in relation thereto;
 
-(j) to provide for the payment of fees on applications for registration, renewal of registration and other related matters; and
+(j) to provide for the professional conduct, ethics and disciplinary control of Joint Law Ventures, foreign law firms, foreign lawyers and Singapore lawyers in foreign practice registered under this Part or foreign lawyers granted the approval of the Attorney-General referred to in section 130L, including the imposition of compulsory insurance cover and financial controls;
 
-(k) to make such incidental, consequential or supplementary provisions as may be necessary or expedient.
+(k) to extend to —
 
-[4/2000]
+(i) foreign lawyers or Singapore lawyers in foreign practice registered under this Part; or
+
+(ii) foreign lawyers granted the approval of the Attorney-General referred to in section 130L,
+
+any provisions in the Act that are applicable to advocates and solicitors with such modifications as the Minister thinks fit;
+
+(l) to provide measures to ensure compliance with the requirements of section 130L, including measures requiring foreign lawyers who are shareholders or partners in the Singapore law firm to divest themselves of their shares or interests in the Singapore law firm;
+
+(m) to exempt any person or class of persons from any provision of this Part; and
+
+(n) to make such transitional, savings or other consequential provisions as the Minister considers necessary or expedient.
+
+(3) Where any powers under Part VII of this Act apply to a foreign lawyer pursuant to rules made under this section (in particular, subsection (2)(j)), those powers shall not be exercised in respect of the foreign lawyer except with the written consent of the Attorney-General.
 
 ## PART X
 
@@ -4648,7 +5042,11 @@ MISCELLANEOUS
 
 [4/2000]
 
-137\. [Repealed by Act 20/2007 wef 01/04/2007]
+### Jurisdiction of court
+
+137\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[20/2007 wef 01/06/2007]
 
 FIRST SCHEDULE
 
@@ -5192,6 +5590,16 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 10/2007 published on 10 March 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 April 2007 (section 24(1))|
+|40.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
+||Date of First Reading|9 March 2007|
+|||(Bill No. 10/2007 published on 10 March 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 June 2007|
+|41.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 16/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|26 August 2008|
+||Date of commencement|1 June 2007 (section 15(b))|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
