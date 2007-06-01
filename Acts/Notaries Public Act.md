@@ -118,7 +118,9 @@ the Senate shall by order revoke the appointment of the person and shall cause t
 
 ### Penalty for exercise of functions of notary public by unauthorised persons
 
-7\. Any person who exercises within Singapore any of the functions of a notary public otherwise than in accordance with the provisions of this Act shall be guilty of an offence and shall be liable on conviction before a District Judge to a fine not exceeding $500 .
+7\. Any person who exercises within Singapore any of the functions of a notary public otherwise than in accordance with the provisions of this Act shall be guilty of an offence and shall be liable on conviction before a District Judge to a fine not exceeding $10,000.
+
+[20/2007 wef 01/06/2007]
 
 ### Rules
 
@@ -142,7 +144,7 @@ Notaries Public Act
 
 (CHAPTER 208)
 
-This Legislative History is provided for the convenience of users of the Notaries Public Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Notaries Public Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -176,3 +178,9 @@ This Legislative History is provided for the convenience of users of the Notarie
 ||Date of commencement|1 January 1996 (section 11 — Consequential amendments to Notaries Public Act)|
 |8.|**1997 Revised Edition—Notaries Public Act**|
 ||Date of operation|20 December 1997|
+|9.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|9 March 2007|
+|||(Bill No. 10/2007 published on 10 March 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 June 2007 (Item (1) of the Schedule — Amendment of Notaries Public Act)|
