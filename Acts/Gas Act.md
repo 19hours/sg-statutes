@@ -22,17 +22,11 @@
 
 [**Part III LICENSING OF ACTIVITIES RELATING TO GAS**](#Part-III)
 
-- [6 Prohibition on unauthorised activities relating to gas](#Prohibition-on-unauthorised-activities-relating-to-gas)
-
-- [7 Application for grant of gas licence, etc.](#Application-for-grant-of-gas-licence-etc)
-
 - [8 Exemption](#Exemption)
 
 - [9 Conditions of gas licences](#Conditions-of-gas-licences)
 
 - [10 Prohibition on transfer of gas licence without consent of Authority](#Prohibition-on-transfer-of-gas-licence-without-consent-of-Authority)
-
-- [11 Licensing of gas service worker](#Licensing-of-gas-service-worker)
 
 - [12 Application for gas service worker licence](#Application-for-gas-service-worker-licence)
 
@@ -50,41 +44,21 @@
 
 - [18 Power to revoke or suspend gas licence](#Power-to-revoke-or-suspend-gas-licence)
 
-- [19 Enforcement](#Enforcement)
-
-- [20 Appeal against revocation, suspension or enforcement](#Appeal-against-revocation-suspension-or-enforcement)
+- [20 (Repealed)](#Repealed)
 
 [**Part V GAS TRANSPORTERS**](#Part-V)
 
 - [21 General duties of gas transporter](#General-duties-of-gas-transporter)
 
-- [22 Duty to connect](#Duty-to-connect)
-
-- [23 Power to require security](#Power-to-require-security)
-
 - [24 Power to recover expenditure](#Power-to-recover-expenditure)
-
-- [25 Prices](#Prices)
-
-- [26 Power to fell trees, etc.](#Power-to-fell-trees-etc)
 
 - [27 Works](#Works)
 
 - [28 Provision of convenient ways, etc.](#Provision-of-convenient-ways-etc)
 
-- [29 Maintenance, etc., of gas service pipes and gas installations](#Maintenance-etc-of-gas-service-pipes-and-gas-installations)
-
 - [30 Relocation of gas main or gas service pipe](#Relocation-of-gas-main-or-gas-service-pipe)
 
 - [31 Removal of obstruction over existing gas main, etc.](#Removal-of-obstruction-over-existing-gas-main-etc)
-
-- [32 Duty to enquire before excavation, etc.](#Duty-to-enquire-before-excavation-etc)
-
-- [33 Special administration order](#Special-administration-order)
-
-- [34 Power to make special administration order, etc.](#Power-to-make-special-administration-order-etc)
-
-- [35 Remuneration and expenses of Authority and others](#Remuneration-and-expenses-of-Authority-and-others)
 
 - [36 Savings of wayleaves or easements](#Savings-of-wayleaves-or-easements)
 
@@ -93,8 +67,6 @@
 - [37 General duties of gas retailer](#General-duties-of-gas-retailer)
 
 - [38 Rights of access to relevant facility](#Rights-of-access-to-relevant-facility)
-
-- [39 Notice of obstruction of gas main or other apparatus](#Notice-of-obstruction-of-gas-main-or-other-apparatus)
 
 - [40 Obstructing gas licensee in performance of duties](#Obstructing-gas-licensee-in-performance-of-duties)
 
@@ -114,23 +86,11 @@
 
 - [48 Supply of gas illegally taken](#Supply-of-gas-illegally-taken)
 
-- [49 Restoration of supply without consent](#Restoration-of-supply-without-consent)
-
-- [50 Failure to notify connection or disconnection of gas service pipe](#Failure-to-notify-connection-or-disconnection-of-gas-service-pipe)
-
-- [51 Proper use of gas](#Proper-use-of-gas)
-
-- [52 No obligation to restore supply where consumer in default](#No-obligation-to-restore-supply-where-consumer-in-default)
-
 - [53 Entry for preventing escapes of gas, etc.](#Entry-for-preventing-escapes-of-gas-etc)
 
 - [54 Entry during supply](#Entry-during-supply)
 
-- [55 Entry on discontinuance of supply](#Entry-on-discontinuance-of-supply)
-
-- [56 Entry following discontinuance of supply](#Entry-following-discontinuance-of-supply)
-
-- [57 Entry for removing fittings and meters](#Entry-for-removing-fittings-and-meters)
+- [57 (Repealed)](#Repealed)
 
 - [58 Entry for replacing, repairing or altering pipes](#Entry-for-replacing-repairing-or-altering-pipes)
 
@@ -139,12 +99,6 @@
 - [60 Procedure for rights of entry on land](#Procedure-for-rights-of-entry-on-land)
 
 - [61 Provisions as to powers of entry](#Provisions-as-to-powers-of-entry)
-
-[**Part VII CODES OF PRACTICE**](#Part-VII)
-
-- [62 Codes of practice](#Codes-of-practice)
-
-- [63 Approval of codes of practice](#Approval-of-codes-of-practice)
 
 [**Part VIII SAFETY**](#Part-VIII)
 
@@ -211,10 +165,6 @@
 - [91 General penalties](#General-penalties)
 
 - [92 Composition of offences](#Composition-of-offences)
-
-- [93 Appeal to Minister](#Appeal-to-Minister)
-
-- [94 General exemption](#General-exemption)
 
 - [95 Service of documents](#Service-of-documents)
 
@@ -500,88 +450,6 @@ stating that the Authority wishes to disclose the information or contents of the
 
 LICENSING OF ACTIVITIES RELATING TO GAS
 
-### Prohibition on unauthorised activities relating to gas
-
-6\.—(1) Subject to subsection (2), no person shall —
-
-(a) convey gas —
-
-(i) through a gas pipeline or gas pipeline network to any premises; or
-
-(ii) to a gas pipeline or gas pipeline network of a gas transporter;
-
-(b) retail gas which has been so conveyed for use in any premises; or
-
-(c) carry on such other activity relating to gas as the Minister may, by order published in theGazette, specify,
-
-unless he is authorised to do so by a gas transporter’s licence or gas retailer’s licence or a licence granted under section 7(3)(c) or he is exempted under section 8.
-
-(2) A person may, without a licence —
-
-(a) convey, in any premises or part thereof in which that person has an interest, gas supplied for use in the premises; or
-
-(b) sell, for use in any premises or part thereof in which that person has an interest, gas retailed for use in the premises by a gas retailer.
-
-(3) An order under subsection (1)(c) may provide for —
-
-(a) the making of regulations by the Authority, with the approval of the Minister, in respect of the activity specified in the order;
-
-(b) the application of the provisions of this Act and the regulations to the activity specified in the order subject to such exceptions or modifications as may be specified in the order;
-
-(c) the conditions which may be included in a licence authorising the carrying on of the activity specified in the order; and
-
-(d) generally for giving full effect to or for carrying out the purposes of the order.
-
-(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000.
-
-### Application for grant of gas licence, etc.
-
-7\.—(1) An application for a licence, an extension to a licence or an exemption under this Part shall —
-
-(a) be made in writing to the Authority and shall be in such form as may be determined by the Authority; and
-
-(b) be accompanied by such information, document and fee as may be determined by the Authority.
-
-(2) In determining whether to grant or extend a licence to or for a particular person, the Authority shall consider the following:
-
-(a) the ability of that person to finance the carrying on of the particular activity;
-
-(b) the experience of that person in carrying on the activity, and his ability to perform the duties which would be imposed on him under this Act and the licence, if granted;
-
-(c) in the case of a gas retailer’s licence, in relation to that person —
-
-(i) the quantities of gas available, or which are anticipated to be available, to that person for retail purposes; and
-
-(ii) the sufficiency of rights held, or which are anticipated to be held, by that person to ship gas to premises for retail purposes;
-
-(d) whether or not that person is related to any gas licensee or any person granted an exemption under section 8; and
-
-(e) the functions and duties of the Authority under section 3.
-
-(3) The Authority may, with the approval of the Minister, grant or extend —
-
-(a) for all or any of the purposes referred to in section 6(1)(a), a gas transporter’s licence;
-
-(b) for the purpose referred to in section 6(1)(b), a gas retailer’s licence; and
-
-(c) for the purpose referred to in paragraph (c) of section 6(1), such licence as specified in any order made or extended under that paragraph.
-
-(4) A gas transporter’s licence granted or extended for the purpose referred to in section 6(1)(a)(i) shall specify the area to which the licence relates, which area may include any part of an area specified in an existing licence granted to another person under this section.
-
-(5) A gas transporter’s licence shall not be granted to —
-
-(a) a person who is the holder of a gas retailer’s licence; or
-
-(b) any other person, if the grant of such licence may, in the opinion of the Authority, give rise to a conflict of interest in the discharge of any duty imposed on such person under this Act, the Electricity Act (Cap. 89A) or any licence issued to him under this section.
-
-(6) A gas retailer’s licence shall not be granted to —
-
-(a) a person who is the holder of a gas transporter’s licence; or
-
-(b) any other person, if the grant of such licence may, in the opinion of the Authority, give rise to a conflict of interest in the discharge of any duty imposed on such person under this Act, the Electricity Act or any licence issued to him under this section.
-
-(7) Every licence granted or extended under this Part shall continue in force, unless it is revoked or suspended, for such period as may be specified in the licence.
-
 ### Exemption
 
 8\.—(1) The Authority may, with the approval of the Minister, by order published in theGazette, exempt any person or class of persons from complying with section 6(1) for any specified period —
@@ -636,19 +504,7 @@ unless he is authorised to do so by a gas transporter’s licence or gas retaile
 
 (j) imposing requirements by reference to designation, acceptance or approval by the Authority;
 
-(k) providing for references in the conditions to any document specified or described in the gas licence to operate as references to that document as revised or re-issued from time to time; and
-
-(l) providing that the conditions of the gas licence shall have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions.
-
 (3) Without prejudice to the generality of subsection (1), a gas transporter’s licence may include conditions —
-
-(a) requiring the gas transporter to enter into an arrangement with any person for —
-
-(i) the conveyance of gas through a gas pipeline or gas pipeline network of the gas transporter; and
-
-(ii) such other purposes as may be specified in the gas transporter’s licence,
-
-on such terms as may be approved by the Authority;
 
 (b) identifying specified agreements or classes of agreements which the gas transporter may only enter into on such terms as may be approved by the Authority;
 
@@ -660,13 +516,9 @@ on such terms as may be approved by the Authority;
 
 (f) requiring the gas transporter to interconnect one or more gas pipelines or gas pipeline networks or to convert a gas pipeline network to allow for the conveyance of natural gas through that gas pipeline network;
 
-(g) pertaining to the prices to be charged by the gas transporter for use of the gas transporter’s gas pipeline or gas pipeline network and the methods by which such charges are determined; and
-
 (h) requiring the gas transporter to establish and maintain arrangements with respect to the provision of special services for meeting the needs of consumers who are chronically sick, disabled or elderly or as appear to the Authority to be requisite or expedient having regard to those duties.
 
 (4) Without prejudice to the generality of subsection (1), a gas retailer’s licence may include conditions —
-
-(a) requiring the gas retailer to secure such rights for the conveyance of gas through a gas transporter’s gas pipeline or gas pipeline network as are necessary for the purposes of complying with those obligations owed by it to consumers connected to such gas pipeline or gas pipeline network;
 
 (b) requiring the gas retailer to establish and maintain arrangements with respect to the provision of special services for meeting the needs of consumers who are chronically sick, disabled or elderly or as appear to the Authority to be requisite or expedient having regard to those duties;
 
@@ -681,20 +533,6 @@ on such terms as may be approved by the Authority;
 10\.—(1) No gas licence shall be transferred without the prior consent in writing of the Authority.
 
 (2) Any purported transfer of a gas licence shall be void.
-
-### Licensing of gas service worker
-
-11\.—(1) No person shall —
-
-(a) carry out or offer or undertake to carry out any gas service work; or
-
-(b) advertise or otherwise hold himself out or conduct himself in any way or by any means as a gas service worker or as a person who carries out or who is qualified by any written law to carry out gas service work,
-
-unless he holds a valid gas service worker licence in respect of the specific class of work being carried out or to be carried out.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence.
-
-(3) This section shall not apply to a gas transporter or its employees.
 
 ### Application for gas service worker licence
 
@@ -774,19 +612,7 @@ the Authority may, by notice in writing and without payment of any compensation,
 
 (2) In the case of subsection (1)(c) or (d), the Authority may further require the payment by the gas licensee of a financial penalty, in addition to any sanction imposed under section 19, of an amount not exceeding 10% of the annual turnover of the gas licensee’s licensed gas business ascertained from its latest audited accounts, or an amount not exceeding $1 million, whichever is higher.
 
-### Enforcement
-
-19\. If the Authority is satisfied that a gas licensee is contravening, is likely to contravene or has contravened any condition of its gas licence or code of practice or other standard of performance applicable to the licensee, any provision of this Act, or any direction issued by the Minister or the Authority to, or applicable to, the gas licensee, the Authority may by notice in writing to the gas licensee —
-
-(a) direct the gas licensee to do or not to do such things as are specified in such direction;
-
-(b) require the gas licensee to provide a performance bond, guarantee or other form of security on such terms and conditions as the Authority may determine; and
-
-(c) where the gas licensee is contravening or has so contravened such condition, provision or direction, require the payment of a financial penalty of an amount not exceeding 10% of the annual turnover of the gas licensee’s licensed gas business ascertained from its latest audited accounts, or an amount not exceeding $1 million, whichever is higher.
-
-### Appeal against revocation, suspension or enforcement
-
-20\. Any person who is aggrieved by any decision of the Authority under section 18 or 19 may, within 14 days after the person has been given the notice in writing referred to in those sections, appeal to the Minister whose decision shall be final.
+20\. [Deleted by Act 24/2007 wef 08/06/2007]
 
 ## PART V
 
@@ -802,93 +628,9 @@ GAS TRANSPORTERS
 
 (c) to carry on its licensed gas business at all times in such a manner so as not to prevent, restrict or otherwise hinder the development of competition in any gas market in Singapore.
 
-(2) It shall also be the duty of a gas transporter to avoid undue preference or undue discrimination —
-
-(a) in the terms on which it undertakes the conveyance of gas by any gas pipeline or gas pipeline network owned and operated by him; or
-
-(b) in the connection of premises to such a gas pipeline or gas pipeline network.
-
-### Duty to connect
-
-22\.—(1) Subject to the provisions of this Act, a gas transporter shall, on the request of the occupier of any premises in respect of which subsection (2) applies —
-
-(a) in the case of premises referred to in subsection (2)(a), provide and install a gas service isolation valve, provide and lay a gas service pipe from the relevant gas main to the gas service isolation valve and connect such premises to the relevant gas main; and
-
-(b) in the case of premises referred to in subsection (2)(b), connect a gas service pipe provided and laid by the occupier or any other party to the relevant gas main.
-
-(2) The premises to which subsection (1) applies are the premises situated in the area specified in the gas transporter’s licence and are —
-
-(a) premises situated within 20 meters of a relevant gas main belonging to the gas transporter; or
-
-(b) premises which can be connected to a relevant gas main by a gas service pipe to be provided and laid by the occupier of such premises or any other party requiring the connection, being a gas service pipe which has at its other end a gas service isolation valve to be provided and installed by the occupier or party.
-
-(3) The occupier shall grant the gas transporter rights of access for laying, installing, maintaining, repairing, altering or removing the gas service pipe or gas service isolation valve, and in the case of a connection to premises under subsection (2)(b), the gas service isolation valve and the gas service pipe from the relevant gas main to the gas service isolation valve shall vest in and become the property of the gas transporter at no cost to the gas transporter.
-
-(4) Where any premises are connected under the provisions of this Act, the gas transporter shall maintain the connection until it is no longer required by the occupier of the premises.
-
-(5) Where any connection is made —
-
-(a) under subsection (1)(a), the costs of providing and laying the pipe, providing and installing the gas service isolation valve and making the connection; and
-
-(b) under subsection (1)(b), the costs of making the connection,
-
-shall, subject to the conditions of the gas transporter’s licence, only be recovered from the occupier or other party by the gas transporter to the extent they have not been previously recovered from any other person.
-
-(6) Nothing in subsection (1) shall require the gas transporter to connect, or maintain a connection of, a relevant gas main to any premises, if —
-
-(a) the gas transporter is unable to do so by circumstances beyond its control;
-
-(b) there exist circumstances which by reason of the gas transporter doing so would involve a danger to the public; or
-
-(c) in the case of subsection (1)(b), the gas service pipe or gas service isolation valve provided, and laid or installed, as the case may be, by the occupier or other party is, in the gas transporter’s reasonable opinion, not fit for its purpose.
-
-(7) Where any person requires a connection to be made or maintained under subsection (1) which —
-
-(a) will result in a new or an increased supply of gas to the premises; and
-
-(b) the new or increased supply of gas cannot be made without the laying of a new, or the enlargement of an existing, gas main or the undertaking of other works related to the conveyance of gas,
-
-the gas transporter may refuse to make or maintain the connection until such time as the person enters into an agreement with the gas transporter to make payment of a reasonable amount having regard to —
-
-(i) the costs to be incurred by the gas transporter in laying or enlarging the relevant gas main or undertaking other works related to the conveyance of gas; and
-
-(ii) the extent to which such costs can be recovered from other persons.
-
-### Power to require security
-
-23\.—(1) Where any person requires a connection to be made under section 22(1)(a), a gas transporter may require the person to give it reasonable security for the payment to it of all costs which may become due to it in respect of the provision and laying of the gas service pipe and the making of the connection.
-
-(2) If the person fails to give such security, or the security given has become invalid or insufficient, the gas transporter may refuse to provide and lay the pipe or make the connection for so long as the failure or insufficiency continues.
-
 ### Power to recover expenditure
 
 24\. Except as otherwise provided in section 22, where any gas main or gas plant is procured or provided by a gas transporter, the gas transporter may require any expenses reasonably incurred in procuring or providing such gas main or gas plant to be defrayed by any person requiring the connection to be made to such extent as is reasonable in all the circumstances.
-
-### Prices
-
-25\.—(1) Without prejudice to section 38, the prices to be charged by a gas transporter and to be paid by shippers for the conveyance of gas through the gas transporter’s gas pipeline or gas pipeline network shall be in accordance with such rates as may be established from time to time by the gas transporter in accordance with the conditions of its gas transporter’s licence.
-
-(2) The prices established by a gas transporter under subsection (1) shall be published in such manner as will secure adequate publicity.
-
-(3) In establishing prices under subsection (1), a gas transporter shall not show undue preference or exercise undue discrimination as between shippers similarly situated and having gas conveyed, or wishing to have gas conveyed, through the gas transporter’s gas pipeline or gas pipeline network.
-
-### Power to fell trees, etc.
-
-26\.—(1) Where, in the opinion of a gas transporter, any tree or vegetation near any part of the gas transporter’s gas pipeline, gas pipeline network, or gas plant or any internal pipe causes or is likely to cause damage to such gas pipeline, network, plant or pipe, the gas transporter may cause the tree or vegetation to be felled, lopped, cleared or dealt with in such other manner as will, in its opinion, prevent the damage.
-
-(2) A gas transporter shall, in the exercise of its powers under subsection (1), be subject to the provisions of the National Parks Act (Cap. 198A) and the Parks and Trees Act (Cap. 216).
-
-(3) Where any tree or vegetation which has been felled, lopped, cleared or otherwise dealt with under subsection (1) was in existence before the gas transporter’s gas pipeline or gas pipeline network, or gas plant was placed, erected or installed, the gas transporter shall, subject to subsections (4) and (5), pay to any person adversely affected such sum as may be agreed between the gas transporter and the person by way of compensation.
-
-(4) No further compensation shall be paid for the felling, lopping, or clearing of any tree or vegetation where the action is necessary for the maintenance of a gas transporter’s gas pipeline or gas pipeline network, or gas plant or any internal pipe and the tree or vegetation has grown or has been allowed to grow since the payment of compensation under subsection (3).
-
-(5) No compensation shall be payable by a gas transporter under subsection (3) in respect of any tree or vegetation within 20 metres of the centre line of any road constructed or maintained by the Government or by any public authority unless it is proved that the tree or vegetation was in existence prior to the construction of the road.
-
-(6) Where the owner or occupier of any land fells, lops or clears any tree or vegetation adjacent to a gas transporter’s gas pipeline or gas pipeline network or gas plant, the owner or occupier shall give the gas transporter 14 days notice in writing of his intention to do so and shall take such reasonable precautions as the gas transporter may require for the protection of such pipeline, pipeline network or plant.
-
-(7) If any such owner or occupier fails to give notice under subsection (6), or having given notice fails to take any such reasonable precautions as the gas transporter may have required, he shall be liable to pay the gas transporter the reasonable cost and expense incurred by the gas transporter for any damage caused to any such gas pipeline or gas pipeline network, pipe or plant, subject to the Authority’s approval in the case of any dispute.
-
-(8) If any tree or vegetation is felled, lopped or cleared upon any land adjacent to a gas transporter’s gas pipeline network or gas plant, it shall be presumed until the contrary is proved that the tree or vegetation was felled, lopped or cleared by the owner or occupier of the land or by his employees or agents acting as such.
 
 ### Works
 
@@ -948,24 +690,6 @@ and shall pay to any person who has suffered damage or loss of value to his prop
 
 (2) A gas transporter shall pay to any person who suffers damage or loss of value to his property as a result of the gas transporter’s actions under subsection (1), such sum as may be agreed by between the gas transporter and the person by way of compensation.
 
-### Maintenance, etc., of gas service pipes and gas installations
-
-29\.—(1) A gas transporter shall carry out any necessary work of maintenance, repair or renewal of any gas service pipe by which gas is conveyed by it to a consumer’s premises, whether or not the gas service pipe was supplied and laid at the gas transporter’s expense.
-
-(2) The cost of any work carried out under subsection (1) shall be paid as follows:
-
-(a) in the case of work made necessary by any intentional or negligent act of the consumer and the gas transporter so requires, by the consumer; and
-
-(b) in any other case, by the gas transporter.
-
-(3) The gas transporter shall —
-
-(a) establish and implement a programme for the carrying out of a regular and periodic inspection of gas installations at each consumer’s premises; and
-
-(b) notify the consumer and such other person as may be prescribed to be responsible for the maintenance, repair or renewal of the gas installation if any such work of maintenance, repair or renewal is necessary following any such inspection, and such work shall be carried out at the expense of the consumer or such other person responsible for such maintenance, repair or renewal, as the case may be.
-
-(4) A gas transporter shall, in circumstances where it knows or ought reasonably to know that gas is escaping from an internal pipe or that a gas appliance is faulty, make safe the internal pipe or gas appliance whether or not the internal pipe or gas appliance was supplied, laid or fitted at the gas transporter’s expense, and such work shall be carried out at the consumer’s expense.
-
 ### Relocation of gas main or gas service pipe
 
 30\.—(1) Where a gas main or gas service pipe has been laid in, on, over, under, upon, along or across any land by a gas transporter and the owner or occupier of the land desires to use the land in a manner which renders it necessary or convenient that such gas main or gas service pipe should be moved, he may request the gas transporter to move the pipe accordingly.
@@ -978,9 +702,7 @@ and shall pay to any person who has suffered damage or loss of value to his prop
 
 ### Removal of obstruction over existing gas main, etc.
 
-31\.—(1) No person shall build, erect or construct anything over any existing gas transmission pipeline, gas main or gas service pipe belonging to a gas transporter without the approval of the gas transporter.
-
-(2) Any owner or occupier whose premises are found to have any building or structure built, erected or constructed over an existing gas main or gas service pipe shall have the gas main or gas service pipe relocated or diverted away by the gas transporter from under the building or structure.
+31\.—(2) Any owner or occupier whose premises are found to have any building or structure built, erected or constructed over an existing gas main or gas service pipe shall have the gas main or gas service pipe relocated or diverted away by the gas transporter from under the building or structure.
 
 (3) The costs arising from such relocation or diversion shall be borne —
 
@@ -989,78 +711,6 @@ and shall pay to any person who has suffered damage or loss of value to his prop
 (b) by the gas transporter in all other circumstances.
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence.
-
-### Duty to enquire before excavation, etc.
-
-32\.—(1) Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive or allows his employee or agent to do so, without first ascertaining the location of any gas pipeline or gas main or gas service pipe of a gas transporter which may be interfered with, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
-
-(2) Any person who wilfully removes, destroys or damages any gas plant or gas pipe in the gas network belonging to or under the management or control of a gas licensee or hinders or prevents the gas plant or gas pipe from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-(3) Any person may apprehend any other person if the other person within his view commits an offence under subsection (2) and, on such apprehension, he shall, without unreasonable delay, hand over the person so apprehended to a police officer.
-
-### Special administration order
-
-33\.—(1) A special administration order is an order of the Minister made in accordance with section 34 in relation to a gas transporter directing that, during the period for which the order is in force, the affairs, business and property of that gas transporter shall be managed directly or indirectly by the Authority —
-
-(a) for securing one or more of the purposes of such an order set out in subsection (2); and
-
-(b) in a manner which protects the respective interests of the shareholders and creditors of the gas transporter and relevant shippers.
-
-(2) The purposes referred to in subsection (1)(a) are —
-
-(a) the security and reliability of the conveyance of gas by the gas transporter to consumers’ premises;
-
-(b) the survival of the gas transporter or the whole or part of its licensed gas business, as a going concern;
-
-(c) the transfer to another company, or (with respect to different parts of the area to which the gas transporter’s licence relates, or different parts of its licensed gas business) to 2 or more different companies, as a going concern, of so much of the gas transporter’s licensed gas business as is necessary to transfer in order to ensure that the functions and duties which have been vested in the gas transporter by virtue of its licence may be properly carried out; or
-
-(d) the carrying out of the functions and duties which have been vested in the gas transporter pending the making of the transfer and the vesting of those functions and duties in the other company or companies.
-
-(3) The Minister may make regulations for giving effect to this section and section 34, including regulations governing the transfer of the licensed gas business referred to in subsection (2)(c), and making provision for applying, omitting or modifying provisions of Part VIIIA of the Companies Act (Cap. 50) where a special administration order is made.
-
-### Power to make special administration order, etc.
-
-34\.—(1) If, on an application made to the Minister by the Authority, the Minister is satisfied that any one or more of the grounds specified in subsection (2) are satisfied in relation to a gas transporter, the Minister may make any one or more of the following orders:
-
-(a) a special administration order in relation to the gas transporter;
-
-(b) an order requiring the gas transporter immediately to take any action or to do or not to do any act or thing in relation to its licensed gas business as the Minister may consider necessary;
-
-(c) an order appointing a person to advise the gas transporter on the proper conduct of its licensed gas business.
-
-(2) The grounds referred to in subsection (1) are —
-
-(a) the gas transporter is or is likely to be unable to pay its debts;
-
-(b) the occurrence of a public emergency;
-
-(c) the Minister considers it in the interest of the security and reliability of the conveyance of gas to consumers’ premises; or
-
-(d) the Minister otherwise considers it in the public interest.
-
-(3) Notice of any application under subsection (1) shall be given immediately by the Authority to such persons and in such manner as may be determined by the Authority.
-
-(4) Any decision of the Minister under subsection (1) shall be final.
-
-(5) For the purposes of this section, a gas transporter, being a company, is unable to pay its debts if it is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
-
-(6) Notwithstanding any written law —
-
-(a) a gas transporter shall not be wound up voluntarily without the consent of the Authority;
-
-(b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to a gas transporter;
-
-(c) no step shall be taken by any person to enforce any security over a gas transporter’s property except where that person has served 14 days notice of his intention to take that step on the Authority; and
-
-(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against a gas transporter, except where that person has served 14 days notice of his intention to take that step on the Authority.
-
-(7) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a gas transporter.
-
-### Remuneration and expenses of Authority and others
-
-35\.—(1) Where a special administration order has been made under section 34(1)(a), the Authority may, at any time, whether or not the order is still in force, fix the remuneration and expenses to be paid by the gas transporter to the Authority.
-
-(2) The Authority may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a gas transporter to any person appointed by the Minister under section 34(1)(c) to advise the gas transporter on the proper conduct of its licensed gas business.
 
 ### Savings of wayleaves or easements
 
@@ -1100,22 +750,6 @@ GAS RETAILERS AND GENERAL PROVISIONS
 
 (d) to inform such persons of its decision.
 
-(4) Where, after considering an application under subsection (2), the Authority is satisfied that the efficient operation of the relevant facility or compliance by the owner of the relevant facility with this Act, the conditions of a gas licence or the performance of its contractual obligations would not be prejudiced by the giving of directions, the Authority may give directions —
-
-(a) specifying the terms on which the Authority considers the owner of the relevant facility should enter into an access agreement with the applicant in order to —
-
-(i) secure to the applicant an appropriate access right for the quantities and quality of gas specified in the directions for the duration specified in the directions;
-
-(ii) secure that the exercise of that right is not prevented or impeded;
-
-(iii) regulate the charges which may be imposed by the owner of the relevant facility for that access right; and
-
-(iv) secure to the applicant any ancillary or incidental rights that the Authority considers necessary or expedient, including connection rights;
-
-(b) specifying the sums or the method of determining the sums which the Authority considers should be paid by the applicant to the owner of the relevant facility in consideration of that right; and
-
-(c) requiring the owner of the relevant facility, if the applicant pays or agrees to pay those sums within a period specified in the directions, to enter into an agreement with him on the terms so specified.
-
 (5) In giving any directions under this section, the Authority shall apply the principle that the owner of the relevant facility providing access to the facility should be entitled to receive —
 
 (a) the appropriate proportion of its capital value and operating costs incurred in respect of the facility; and
@@ -1125,40 +759,6 @@ GAS RETAILERS AND GENERAL PROVISIONS
 (6) The Authority may require any person who requires access to a gas pipeline or gas pipeline network or who is undertaking the trading of gas at any point (whether actual or notional) in a gas pipeline or gas pipeline network to enter into any agreement designated by the Authority for the purposes of this section.
 
 (7) The Authority may exempt a relevant facility from the requirements set out in this section unconditionally or subject to such conditions as may be specified.
-
-(8) Any person who fails to comply with a direction of the Authority under this section shall be guilty of an offence.
-
-(9) In this section —
-
-“appropriate proportion” means a proportion which properly —
-
-(a) reflects the use made of the relevant facility by virtue of the access right as compared with the use made of that facility for other purposes; and
-
-(b) takes into account sums paid previously in consideration for the access right;
-
-“LNG facility” means a liquefied natural gas importation or re-gasification facility;
-
-“owner”, in relation to a relevant facility, means any person legally occupying or having control of the relevant facility;
-
-“relevant facility” means any one or all of the following:
-
-(a) a gas pipeline or a gas pipeline network;
-
-(b) a gas processing or production facility which carries out any of the following operations:
-
-(i) synthesising, manufacturing, purifying, blending, odorising or compressing gas for the purpose of enabling it to be introduced into or conveyed through a gas pipeline network of a gas transporter or an exempt gas transporter;
-
-(ii) removing from gas for that purpose any of its constituent gas, or separating from gas for that purpose any liquids; and
-
-(iii) determining the quantity or quality of gas which is or is to be so introduced, or so conveyed; or
-
-(c) such LNG facility, gas storage or landing facility (other than a gas pipeline), as may be designated by the Authority to be a relevant facility for the purposes of this section for such time as the Authority considers appropriate.
-
-### Notice of obstruction of gas main or other apparatus
-
-39\.—(1) Where any gas main, gas service pipe, internal pipe or other apparatus placed in, on, over, under, upon, along or across any premises for the use by, or supply or conveyance of gas to, the occupier of the premises becomes obstructed or in any way damaged, the occupier shall, immediately on the obstruction or damage coming to his knowledge, give notice thereof to the gas transporter or gas retailer.
-
-(2) Any occupier who neglects to give notice under subsection (1) after acquiring such knowledge shall be guilty of an offence and his premises may be disconnected by the gas transporter or the supply of gas to his premises may be discontinued by the gas retailer until the necessary repairs are effected or the obstruction removed.
 
 ### Obstructing gas licensee in performance of duties
 
@@ -1197,20 +797,6 @@ shall be guilty of an offence.
 ### Meters
 
 44\.—(1) Every consumer shall take his supply of gas through a meter the use of which does not contravene the regulations.
-
-(2) In default of the consumer doing so —
-
-(a) the gas transporter may disconnect or refuse to connect his premises; and
-
-(b) the relevant gas retailer may authorise the supply of gas to his premises to be discontinued and any gas retailer may refuse to supply gas to his premises.
-
-(3) Any meter —
-
-(a) owned by a gas transporter, a relevant gas retailer or any other person; and
-
-(b) lent or hired to a consumer by any of them,
-
-shall, at all times and without charge to that consumer, be kept by the gas transporter, relevant gas retailer or such other person, as the case may be, in proper order for correctly registering the quantity of gas supplied to that consumer.
 
 (4) A consumer shall at all times keep a meter which belongs to him in proper order for correctly registering the quantity of gas supplied to him.
 
@@ -1282,8 +868,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 when the meter is in the custody or under the control of the person, shall be prima facie evidence that the person has altered or tampered with the meter.
 
-(3) In the case of any offence under subsection (1), the gas transporter may disconnect the premises of, or the gas retailer may discontinue the supply of gas to the premises of, the person referred to in that subsection.
-
 ### Supply of gas illegally taken
 
 48\.—(1) Where any person is guilty of an offence under section 47 or otherwise takes a supply of gas which is in the course of being conveyed by a gas transporter, the gas transporter shall be entitled to recover from that person the value of gas so taken.
@@ -1309,58 +893,6 @@ the gas transporter shall be entitled to recover from that person the value of t
 (c) if so requested by any other person, send such a copy to that person without charge to him.
 
 (6) For the purposes of subsections (1) and (2), “value”, in relation to any gas taken in the circumstances referred to in those subsections, means the amount which could reasonably be expected to have been payable by a consumer in respect of the gas.
-
-### Restoration of supply without consent
-
-49\.—(1) Any person who, without the consent of a gas transporter, re-connects a supply of gas to any premises where the premises were disconnected by the gas transporter, or the supply of gas to such premises was discontinued by a gas retailer, in the exercise of powers under this Act or pursuant to a valid and enforceable contractual right, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-(2) In the circumstances set out in subsection (1), the gas transporter may again disconnect the premises.
-
-### Failure to notify connection or disconnection of gas service pipe
-
-50\.—(1) No person shall connect any meter or internal pipe with a gas service pipe through which gas is conveyed to any premises by a gas transporter, or disconnect any meter or internal pipe from any such gas service pipe, unless he has given 48 hours’ notice in the prescribed form of his intention to do so —
-
-(a) in a case where gas is supplied to the premises by a relevant gas retailer whose name and address are known to him, to the gas retailer; and
-
-(b) in any other case, to the gas transporter.
-
-(2) Subject to subsection (3), a notice under subsection (1) shall contain —
-
-(a) details of the time and place of the proposed connection or disconnection; and
-
-(b) such other information as may be prescribed.
-
-(3) In so far as it is not reasonably practicable for a notice under subsection (1) to contain any information required by subsection (2)(b), it shall be a sufficient compliance with that requirement if the information is given to the relevant gas retailer or the gas transporter, as the case may be, within 48 hours after the connection or disconnection is effected.
-
-(4) Where under this section any meter and internal pipe through which gas has been supplied to any premises is completely disconnected, that is to say, is disconnected both from the gas service pipe and from all other pipes within the premises, the person making the disconnection shall, except in so far as it is not reasonably practicable for him to do so —
-
-(a) ascertain the name and address of the owner of the meter; and
-
-(b) inform that owner of the disconnection and of the address at which the meter will be available for collection.
-
-(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-### Proper use of gas
-
-51\. If any consumer supplied with gas improperly uses or deals with the gas so as to interfere with the efficient conveyance or supply of gas (whether to that person or to any other person), his premises may be disconnected by the gas transporter or the supply of gas to his premises may be discontinued by the gas retailer.
-
-### No obligation to restore supply where consumer in default
-
-52\.—(1) This section applies where —
-
-(a) a consumer’s premises have been disconnected by a gas transporter under this Act; or
-
-(b) the supply of gas to a consumer’s premises has been discontinued by a gas retailer under this Act.
-
-(2) The gas transporter or gas retailer shall not be under any obligation to re-connect the consumer’s premises or restore the supply of gas to the consumer’s premises, as the case may be, until the consumer —
-
-(a) is no longer the owner or occupier of the premises; or
-
-(b) has —
-
-(i) made good the default, or remedied the matter, in consequence of which the premises were disconnected or the supply of gas to such premises was discontinued; and
-
-(ii) paid the reasonable expenses of disconnecting and re-connecting the premises or of discontinuing and restoring the supply of gas to the premises, as the case may be.
 
 ### Entry for preventing escapes of gas, etc.
 
@@ -1390,43 +922,7 @@ any person authorised by the gas transporter may immediately and without notice 
 
 (c) exercising such other powers as may be specified in the Act.
 
-(2) Subject to section 60, any person authorised by a relevant gas retailer may enter a consumer’s premises for the purpose of —
-
-(a) inspecting gas fittings; or
-
-(b) ascertaining the quantity of gas supplied or conveyed to the premises.
-
-### Entry on discontinuance of supply
-
-55\.—(1) This section applies where —
-
-(a) a gas transporter or gas retailer is authorised by this Act to disconnect any premises or discontinue the supply of gas to any premises;
-
-(b) a person occupying premises supplied with gas by a gas retailer ceases to require a supply of gas; or
-
-(c) a person entering into occupation of any premises previously supplied with gas by a gas retailer does not take a supply of gas.
-
-(2) Subject to section 60, any person authorised by a gas transporter or gas retailer may, after 7 days’ notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter the premises for the purpose of —
-
-(a) disconnecting the premises, or discontinuing the supply of gas to the premises; or
-
-(b) removing any meter or other gas fitting owned by the gas transporter or gas retailer.
-
-### Entry following discontinuance of supply
-
-56\.—(1) This section applies where a consumer’s premises have been disconnected by a gas transporter, or a supply of gas to a consumer’s premises has been discontinued by a gas retailer, otherwise than in the exercise of a power conferred by section 53 or 65 or the regulations.
-
-(2) Subject to section 60, any person authorised by the gas transporter or gas retailer may enter the premises for the purpose of ascertaining whether the premises have been re-connected or the supply has been restored without the consent of the gas transporter or the gas retailer, as the case may be.
-
-### Entry for removing fittings and meters
-
-57\.—(1) This section applies where —
-
-(a) a person occupying premises supplied with gas through a meter or other gas fitting owned by a gas transporter or gas retailer ceases to take a supply through that meter or gas fitting; or
-
-(b) a person entering into occupation of any premises previously supplied with gas through a meter or other gas fitting so owned does not take a supply of gas through that meter or gas fitting.
-
-(2) Subject to section 60, any person authorised by the gas transporter or gas retailer may, after 7 days notice to the occupier of any premises, or to the owner of the premises if they are unoccupied, enter the premises for the purpose of removing the meter or other gas fitting.
+57\. [Deleted by Act 24/2007 wef 08/06/2007]
 
 ### Entry for replacing, repairing or altering pipes
 
@@ -1444,15 +940,7 @@ any person authorised by the gas transporter may immediately and without notice 
 
 ### Procedure for rights of entry on land
 
-60\.—(1) Except as otherwise provided in this Act and subject to the provisions of this section, a gas transporter or gas retailer authorised to enter upon any land or premises under this Act shall not do so unless —
-
-(a) it has given the required notice in accordance with this Act, or where no particular requirement is made, 14 days notice of the intended entry, such notice be in accordance with subsection (3) and stating as fully and accurately as possible the acts intended to be done; and
-
-(b) it, or any person authorised by it, has produced a duly authenticated document as evidence of its authority.
-
-(2) Where a gas transporter or gas retailer is authorised to enter upon any land or premises under this Act, it shall do so at a reasonable time.
-
-(3) Any notice referred to in subsection (1)(a) shall —
+60\.—(3) Any notice referred to in subsection (1)(a) shall —
 
 (a) where the land is occupied, be given to the occupier;
 
@@ -1470,53 +958,13 @@ any person authorised by the gas transporter may immediately and without notice 
 
 ### Provisions as to powers of entry
 
-61\.—(1) No person authorised by a gas transporter or gas retailer shall exercise any powers of entry conferred by this Part or the regulations and no licensed gas service worker shall exercise any powers of entry under the regulations unless —
-
-(a) he is a fit and proper person to exercise those powers; or
-
-(b) in cases of emergency, those powers are powers conferred by section 53.
-
-(2) Where, in pursuance of any powers of entry conferred by this Part or the regulations, entry is made on any premises by a person authorised by a gas transporter or gas retailer, or a licensed gas service worker —
-
-(a) the person so authorised or the licensed gas service worker shall ensure that the premises are left no less secure by reason of the entry; and
-
-(b) the gas transporter, gas retailer or licensed gas service worker, as the case may be, shall make good, or pay compensation in accordance with section 60(5), for any damage caused by such person, or by any person accompanying him in entering the premises, in taking any action therein authorised by this Part or the regulations, or in making the premises secure.
-
-(3) Any person authorised by a gas transporter or a gas retailer or any licensed gas service worker exercising the powers of entry conferred by this Part or the regulations may be accompanied by such persons as may be necessary or expedient for the purpose for which the entry is made, or for the purposes of subsection (2).
-
-(4) If any person intentionally obstructs any other person exercising powers of entry conferred by this Part or the regulations, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both, or in a case where the obstruction endangers life or property, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+61\.—(4) If any person intentionally obstructs any other person exercising powers of entry conferred by this Part or the regulations, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both, or in a case where the obstruction endangers life or property, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 (5) The Authority may by regulations made under section 96 make provision for empowering a person authorised by a gas transporter —
 
 (a) to enter any premises in which there is a gas service pipe connected with a gas main for the purpose of inspecting any gas fitting or gas appliance on the premises, any flue or means of ventilation used in connection with any such gas fitting or gas appliance or any part of the gas pipeline network on the premises, that is to say, any gas service pipe or other apparatus (not being a gas fitting) which is on the premises and is used for the conveyance or supply of gas or is connected with a gas main; and
 
 (b) where he so enters such premises, to examine or apply any test to any such object as is mentioned in paragraph (a) and, where the object is a gas fitting, to verify what supply of air is available for it.
-
-## PART VII
-
-CODES OF PRACTICE
-
-### Codes of practice
-
-62\.—(1) Each gas licensee shall produce and comply with all codes of practice which are required to be made and complied with under its gas licence.
-
-(2) Any person who undertakes any gas service work or other work on a gas pipeline or gas pipeline network belonging to a gas transporter, and any other person designated by the Authority for the purposes of this section, shall, prior to carrying out such work, produce and comply with a code of practice approved by the Authority, setting out its methodology for complying with the regulations which relate to safety.
-
-### Approval of codes of practice
-
-63\.—(1) The Authority shall approve and from time to time review the codes of practice made under section 62.
-
-(2) If any provision in any code of practice approved by the Authority is inconsistent with the regulations, the provision in the code of practice shall, to the extent of the inconsistency —
-
-(a) have effect subject to such regulations; or
-
-(b) where appropriate, having regard to such regulations, not have effect.
-
-(3) The Authority may, in any gas licence, exempt any gas licensee from any provision in any code of practice approved by the Authority generally or for such time as the Authority may specify.
-
-(4) Subject to subsections (2) and (3), the Authority shall monitor and enforce compliance with the codes of practice.
-
-(5) Any code of practice approved by the Authority under this section shall be deemed not to be subsidiary legislation.
 
 ## PART VIII
 
@@ -1542,39 +990,13 @@ SAFETY
 
 ### Notified escapes of gas
 
-65\.—(1) Where any gas escapes from any gas service pipe or gas main of a gas transporter, or from any internal pipe, gas fitting or gas appliance used by a consumer to whose premises gas is conveyed by the gas transporter, the gas transporter shall —
-
-(a) immediately after being informed of the escape, take necessary steps to prevent the gas from escaping (whether by disconnecting any premises or otherwise); and
-
-(b) take any other steps necessary to avert danger to life or property.
-
-(2) If a gas transporter —
-
-(a) fails, within a reasonable time after being so informed, to effectively prevent the gas from escaping; or
-
-(b) fails to comply with subsection (1)(b),
-
-he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
-
-(3) In any proceedings for an offence under subsection (2)(a), it shall be a defence for the gas transporter to prove that —
+65\.—(3) In any proceedings for an offence under subsection (2)(a), it shall be a defence for the gas transporter to prove that —
 
 (a) it was not reasonably practicable for it to effectively prevent the gas from escaping; and
 
 (b) it did effectively prevent the escape as soon as it was reasonably practicable for him to do so.
 
 (4) In any proceedings for an offence under subsection (2)(b), it shall be a defence for the gas transporter to prove that it took all such steps to avert danger to life or property as were reasonably practicable.
-
-(5) It shall be the duty of any gas transporter or gas retailer to take all steps necessary to ensure that, if it is informed by any person (the informant) of an escape of gas (other than one, in the case of a gas transporter, that it is required by subsection (1) to prevent), it passes the information on, without avoidable delay —
-
-(a) to a responsible person, that is to say, a person appearing to it —
-
-(i) to be responsible (whether under this section or otherwise) for preventing the escape; or
-
-(ii) to be the gas transporter from whose gas pipeline network, the gas is escaping; or
-
-(b) to a person nominated by a responsible person to receive information about escapes of gas on his behalf.
-
-(6) For the purposes of subsection (5)(b), there shall be sufficient compliance if the gas transporter or gas retailer is reasonably satisfied that the informant has passed on the information, without avoidable delay, to the nominated person.
 
 (7) For the purposes of subsections (5) and (6), references to the passing on of information to a nominated person are references to the passing on of information to that person in such manner, if any, as may be specified by the responsible person by whom that person was nominated.
 
@@ -1591,8 +1013,6 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 67\.—(1) Where, on the occurrence of a fire or on the reasonable expectation or occurrence of an operational emergency, a gas transporter, a licensed gas service worker or an authorised officer is of the opinion that immediate action is necessary —
 
 (a) in the interests of public safety;
-
-(b) in order to repair damaged gas pipelines or gas service pipes;
 
 (c) in order to avoid undue interference with the efficient conveyance of gas and shipping of gas to consumers;
 
@@ -2014,26 +1434,6 @@ MISCELLANEOUS
 
 (3) All sums collected under this section shall be paid to the Authority.
 
-### Appeal to Minister
-
-93\.—(1) A gas licensee or other person aggrieved by —
-
-(a) any decision of the Authority in the exercise of any discretion vested in it by or under this Act; or
-
-(b) anything contained in any code of practice approved by the Authority,
-
-may, except in relation to a decision made under section 27(12) or where provision is made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister.
-
-(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until such time as the Minister determines the appeal.
-
-(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice approved by the Authority.
-
-(4) The decision of the Minister shall be final.
-
-### General exemption
-
-94\. The Authority may, with the approval of the Minister, either permanently or for such period as it thinks fit, exempt any person or premises or any class of persons or premises from all or any of the provisions of this Act other than sections 6 to 10.
-
 ### Service of documents
 
 95\.—(1) Any notice, order or document required or authorised by this Act to be given or served on any person, and any summons issued by a court in connection with any offence under this Act may be served on the person —
@@ -2062,8 +1462,6 @@ may, except in relation to a decision made under section 27(12) or where provisi
 
 (a) the prevention and suppression of pollution, contamination or waste of gas;
 
-(b) the prevention of misuse of, or damage to, apparatus and works belonging to a gas licensee used for the purposes of conveying or supplying gas;
-
 (c) the prescribing of materials of which conduits, pipes, and other apparatus and fittings for use in connection with the supply of gas shall be made, and in respect of their size, shape, fitting, arrangement, connection, quality and workmanship, testing and inspection and cleaning;
 
 (d) the protection of the public from dangers arising from the conveyance, supply and use of gas or from any gas plant or gas appliance and the elimination, reduction or prevention of risks of personal injury, damage to property or the interference with the use thereof;
@@ -2088,13 +1486,7 @@ may, except in relation to a decision made under section 27(12) or where provisi
 
 (n) the prescribing of methods for determining the charges payable by a consumer in the event a meter is found to be defective or otherwise registering erroneously;
 
-(o) the regulation of the conversion of a gas pipeline network and gas appliances so as to allow for the conveyance of natural gas in the gas pipeline network and for the interconnection of gas pipeline networks and the conferring on any person authorised by a gas licensee of the power to enter the premises of a consumer to carry out any inspection or perform any work relating thereto;
-
 (p) the regulation of the introduction of competition in the natural gas industry and the timing of such introduction;
-
-(q) the regulation of the installation, use, maintenance and repair of any gas plant by a consumer in prescribed circumstances where required for the purposes of avoiding pressure fluctuation in a gas transporter’s gas pipeline or gas pipeline network, preventing the admission of gas into a gas main or gas service pipe and for the removal, testing and replacing of any such gas plant by a gas transporter;
-
-(r) the regulation of the inspection, maintenance, repair and renewal of gas installations;
 
 (s) the prescribing of technical and standards of performance in connection with the provision of gas supply services by a gas retailer to consumers and the conveyance of gas by a gas transporter and for the publication of the levels of performance achieved;
 
@@ -2112,15 +1504,11 @@ may, except in relation to a decision made under section 27(12) or where provisi
 
 (iii) enabling the Authority to give such directions in consequence of any such appeal; and
 
-(iv) prohibiting any person, subject to such conditions as the Authority may prescribe, from re-connecting any gas fitting or any part of any gas pipeline network or any premises which have been disconnected or causing gas from a gas main to be conveyed to any premises; and
-
 (x) the regulation of gas service work and the licensing of gas service workers, including —
 
 (i) the approval and control of the standards and safety requirements for gas installations, gas fittings, gas appliances and any other associated equipment;
 
 (ii) the regulation of the installation, removal and modification of gas appliances; and
-
-(iii) the prohibition of use, sale or hire of all gas appliances, equipment and materials.
 
 (3) The Authority may, in making any regulations, provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
@@ -2223,3 +1611,8 @@ This Legislative History is provided for the convenience of users of the Gas Act
 |||(Bill No. 10/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|19 December 2003|
+|5.|**Act 24 of 2007—Gas (Amendment) Act 2007**|
+||Date of First Reading|10 April 2007|
+|||(Bill No. 18/2007 published on 11 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|8 June 2007 (Section 36)|
