@@ -46,13 +46,9 @@ An Act for the imposition of a tax on certain services rendered by statutory boa
 
 “services” includes the letting of any apparatus or appliance;
 
-“statutory board” includes a public telecommunication licensee referred to in the Telecommunications Act 1999 and a public electricity supplier or a public gas licensee referred to in the Public Utilities Act 1995.
+“statutory board” includes a public telecommunication licensee referred to in the Telecommunication Act (Cap. 323), a gas licensee under the Gas Act 2001 and a market support services licensee under the Electricity Act 2001;
 
-[12/1992 wef 01/04/1992]
-
-[26/1995 wef 01/10/1995]
-
-[43/1999 wef 01/12/1999]
+[11/2001 wef 11/06/2007]
 
 “tax” means the tax imposed under this Act;
 
@@ -80,8 +76,6 @@ An Act for the imposition of a tax on certain services rendered by statutory boa
 
 (2) For the purpose of recovering any tax, the appropriate statutory board may, subject to any rules made under this Act, exercise all or any of the powers conferred on it under any written law relating to the recovery of any fees or other charges payable in respect of any services rendered by it; and the provisions of such written law shall apply in relation to the recovery of that tax as they would apply in relation to the recovery of those fees or other charges.
 
-[18/81]
-
 ### Tax to be paid into Consolidated Fund
 
 5\. All tax collected by a statutory board under this Act shall be paid into the Consolidated Fund.
@@ -100,7 +94,7 @@ Statutory Boards (Taxable Services) Act
 
 (CHAPTER 318)
 
-This Legislative History is provided for the convenience of users of the Statutory Boards (Taxable Services) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Statutory Boards (Taxable Services) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -141,3 +135,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 33/99)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999 (section 76(5) –– amendment of Statutory Boards (Taxable Services) Act)|
+|9.|**Act 11 of 2001—Gas Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 10/2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|11 June 2007 (section 97(2) –– amendment of Statutory Boards (Taxable Services) Act)|
