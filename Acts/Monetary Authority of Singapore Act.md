@@ -16,7 +16,7 @@
 
 - [3 Establishment of Authority](#Establishment-of-Authority)
 
-- [4 Principal objects of Authority](#Principal-objects-of-Authority)
+- [4 Principal objects and functions of Authority](#Principal-objects-and-functions-of-Authority)
 
 - [5 Paid-up capital](#Paid-up-capital)
 
@@ -46,7 +46,7 @@
 
 - [16 Public servants](#Public-servants)
 
-[**Part III PROVISIONS RELATING TO STAFF,TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC**](#Part-III)
+[**Part III PROVISIONS RELATING TO STAFF, ETC**](#Part-III)
 
 - [17 Appointment of employees](#Appointment-of-employees)
 
@@ -56,7 +56,7 @@
 
 - [20 No entitlement in respect of abolition or reorganisation of office](#No-entitlement-in-respect-of-abolition-or-reorganisation-of-office)
 
-- [21 Transfer of functions, powers, duties, assets and liabilities, etc., to Authority](#Transfer-of-functions-powers-duties-assets-and-liabilities-etc-to-Authority)
+- [21 (Repealed)](#Repealed)
 
 - [22 Immunity of Authority, directors and employees, etc.](#Immunity-of-Authority-directors-and-employees-etc)
 
@@ -74,7 +74,11 @@
 
 - [27A Directions or regulations to discharge Government’s international obligations](#Directions-or-regulations-to-discharge-Government’s-international-obligations)
 
+- [27B Directions or regulations to prevent money laundering and terrorism financing](#Directions-or-regulations-to-prevent-money-laundering-and-terrorism-financing)
+
 - [28 Power to approve financial institutions and control their operations](#Power-to-approve-financial-institutions-and-control-their-operations)
+
+- [28A Power of Authority in relation to dispute resolution schemes](#Power-of-Authority-in-relation-to-dispute-resolution-schemes)
 
 - [29 Fees](#Fees)
 
@@ -120,9 +124,13 @@
 
 - [41 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
+- [41A Composition of offences](#Composition-of-offences)
+
 - [42 Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
 
 - [43 Operation of Act not to affect Currency Act](#Operation-of-Act-not-to-affect-Currency-Act)
+
+[**THE SCHEDULE Written Laws**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -138,7 +146,9 @@ REVISED EDITION 1999
 
 (30th December 1999)
 
-An Act to establish a corporation to be known as the Monetary Authority of Singapore and to provide for the transfer to the corporation of certain functions and assets of the Governmentand for matters incidental thereto and connected therewith.
+An Act to establish a corporation to be known as the Monetary Authority of Singapore and for matters incidental thereto and connected therewith.
+
+[13/2007 wef 30/06/2007]
 
 [26th December 1970: Parts I, II and VI ;
 
@@ -166,6 +176,10 @@ PRELIMINARY
 
 “director” means a director appointed under section 8(1) and the chairman and the deputy chairman of the board;
 
+“financial instrument” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[13/2007 wef 30/06/2007]
+
 “managing director” means a director appointed under section 9(1);
 
 [24/2003 wef 01/01/2004]
@@ -192,41 +206,43 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (5) The Authority may, by resolution or otherwise, appoint an officer of the Authority or any other agent either generally or in a particular case to execute or sign on behalf of the Authority any agreement or other instrument not under seal in relation to any matter coming within the powers of the Authority.
 
-### Principal objects of Authority
+### Principal objects and functions of Authority
 
-4\. The principal objects of the Authority shall be —
+4\.—(1) The principal objects of the Authority shall be —
 
-(a) to act as banker to, and financial agent of, the Government;
+(a) to maintain price stability conducive to sustainable growth of the economy;
 
-(b) to promote, within the context of the general economic policy of the Government, monetary stability and credit and exchange conditions conducive to the growth of the economy;
+(b) to foster a sound and reputable financial centre;
 
-(c) to foster a sound and progressive financial services sector;
+(c) to ensure prudent and effective management of the official foreign reserves of Singapore; and
 
-[25/2002 wef 01/10/2002]
+(d) to grow Singapore as an internationally competitive financial centre.
 
-(ca) to issue currency notes and coins in Singapore in accordance with the Currency Act (Cap. 69) and to provide such other services as it considers necessary under that Act;
+(2) The functions of the Authority shall be —
 
-[25/2002 wef 01/10/2002]
+(a) to act as the central bank of Singapore, including the conduct of monetary policy, the issuance of currency, the oversight of payment systems and serving as banker to and financial agent of the Government;
 
-[30/2004 wef 12/10/2004]
+(b) to conduct integrated supervision of financial services and financial stability surveillance;
 
-(d) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21 ; and
+(c) to manage the official foreign reserves of Singapore; and
 
-[30/2004 wef 12/10/2004]
+(d) to develop Singapore as an international financial centre.
 
-[28/98]
-
-(e) to exercise the powers and to perform the duties and functions conferred on the Authority under the Business Trusts Act 2004 and by any other written law.
+[13/2007 wef 30/06/2007]
 
 ### Paid-up capital
 
 5\.—(1) The paid-up capital of the Authority shall be $100 million.
 
+[13/2007 wef 30/06/2007]
+
 (2) The paid-up capital may be increased from time to time by such amount as the Government may approve.
+
+[13/2007 wef 30/06/2007]
 
 (3) The payment of such increase in the paid-up capital may be made by way of transfers from the General Reserve Fund or by such other means as the Government, in consultation with the board, may from time to time approve.
 
-[21/2005 wef 30/01/2006]
+[13/2007 wef 30/06/2007]
 
 ### General Reserve Fund
 
@@ -254,7 +270,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 7\.—(1) There shall be a board of directors of the Authority which shall be responsible for the policy and general administration of the affairs and business of the Authority.
 
-(2) The board shall, from time to time, inform the Government of the banking and credit policy of the Authority.
+(2) The board shall, from time to time, inform the Government of the regulatory, supervisory and monetary policies of the Authority.
 
 [13/2007 wef 30/06/2007]
 
@@ -265,6 +281,10 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 (b) not less than 4 and not more than 9 other directors, one of whom shall be the deputy chairman, appointed in accordance with sections 8 and 9.
 
 [26/84; 11/91; 28/98]
+
+(4) The board shall furnish the Minister with such information as the Minister may require in respect of the duties and functions of the Authority.
+
+[13/2007 wef 30/06/2007]
 
 ### Appointment of directors
 
@@ -294,7 +314,15 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (4) The managing director shall be answerable to the board for his acts and decisions.
 
-(5) In the event of the absence or inability to act of the managing director, the Minister may appoint a director to discharge his duties during the period of his absence or inability.
+(5) In the event of the absence or inability to act of the managing director, the Minister may appoint —
+
+(a) a director; or
+
+(b) with the President’s concurrence, an officer of the Authority who holds the appointment of assistant managing director or its equivalent or above,
+
+to discharge the duties of the managing director during the period of his absence or inability to act.
+
+[13/2007 wef 30/06/2007]
 
 (6) The managing director may, subject to such terms and conditions as he thinks fit, appoint any officer or employee of the Authority, or form any committee comprising officers or employees of the Authority or both, to exercise any of his powers or perform any of his functions or duties conferred or imposed upon him by virtue of subsection (3), and that officer, employee or committee shall exercise those powers or perform those functions or duties under the direction and control of the managing director.
 
@@ -332,7 +360,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ### Presidential concurrence
 
-11A\. The President, acting in his discretion, may refuse to appoint any person as chairman, deputy chairman, director or managing director or to revoke any such appointment if the President does not concur with the advice or recommendation of the Minister, the Cabinet, a Minister acting under the general authority of the Cabinet or the Public Service Commission, as the case may be.
+11A\. The President, acting in his discretion, may refuse to appoint any person as chairman, deputy chairman, director or managing director or to revoke any such appointment if the President does not concur with the advice or recommendation of the Minister, the Cabinet, a Minister acting under the general authority of the Cabinet or the Public Service Commission, as the case may be, and may refuse to concur with an appointment by the Minister under section 9(5)(b).
 
 [13/2007 wef 30/06/2007]
 
@@ -402,7 +430,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ## PART III
 
-PROVISIONS RELATING TO STAFF,TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC
+PROVISIONS RELATING TO STAFF, ETC
 
 ### Appointment of employees
 
@@ -440,39 +468,7 @@ PROVISIONS RELATING TO STAFF,TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC
 
 20\. Notwithstanding the Pensions Act, no person who is transferred to the service of the Authority under section 18 shall be entitled to claim any benefits under this Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office.
 
-### Transfer of functions, powers, duties, assets and liabilities, etc., to Authority
-
-21\.—(1) As from 1st January 1971, there shall be transferred to the Authority —
-
-(a) all the functions, duties and powers of the Minister for Finance, the Commissioner of Banking and the Accountant-General under the Banking Act (Cap. 19);
-
-(b) all the functions, duties and powers of the Minister for Finance, the Commissioner for Finance Companies and the Accountant-General under the Finance Companies Act (Cap. 108); and
-
-(c) the functions, duties and powers of the Minister for Finance and the Controller of Foreign Exchange under the Exchange Control Act (Cap. 99).
-
-(2) On 21st September 1984, there shall be transferred to the Authority —
-
-(a) all the functions, duties and powers of the Commissioner of Insurance under the Insurance Act (Cap. 142); and
-
-(b) all the functions, duties and powers of the Registrar of Companies and the Accountant-General under the Securities Industry Act (Cap. 289).
-
-[31/72; 26/84]
-
-(3) As from 1st January 1971, such movable property, assets, rights, interests and privileges as well as such debts, liabilities and obligations connected therewith or appertaining thereto which are related to finance and are vested in or conferred upon the Minister pursuant to any written law, as the President may by notification in theGazettespecify, shall be deemed to have been transferred to and vested in the Authority without further assurance.
-
-(4) Where in any written law or any document whatsoever there is a reference to the Minister for Finance, the Commissioner of Banking, the Commissioner for Finance Companies, the Commissioner of Chit Funds, the Accountant-General, the Controller of Foreign Exchange, the Commissioner of Insurance or the Registrar of Companies in connection with or related to the performance of any of the functions, duties and powers that are transferred to the Authority under subsection (1) or (2), the written law or document shall have effect as if the Authority has originally been referred to in the written law or document instead of the Minister for Finance, the Commissioner of Banking, the Commissioner for Finance Companies, the Commissioner of Chit Funds, the Accountant-General, the Controller of Foreign Exchange, the Commissioner of Insurance or the Registrar of Companies, as the case may be.
-
-[31/72; 26/84]
-
-(5) The Minister shall have power to do all acts or things that he considers necessary or expedient to give effect to subsections (1), (2) and (3).
-
-(6) If any question arises as to whether —
-
-(a) any of the functions, duties and powers; or
-
-(b) any movable property, assets, rights, interests, privileges, debts, liabilities and obligations,
-
-have been transferred to or vested in the Authority under subsections (1), (2) and (3), a certificate under the hand of the President shall be conclusive evidence of such transfer or vesting.
+21\. [Deleted by Act 13/2007 wef 30/06/2006]
 
 ### Immunity of Authority, directors and employees, etc.
 
@@ -504,7 +500,7 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 ### Powers, duties and functions of Authority
 
-23\.—(1) The Authority may, in addition to the powers, duties and functions transferred to it by virtue of section 21, exercise and discharge the following powers, duties and functions:
+23\.—(1) The Authority may, in addition to the functions referred to in section 4(2), exercise and discharge the following powers, duties and functions:
 
 (a) accept deposits of money and pay interest on such deposits;
 
@@ -515,6 +511,10 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 (d) purchase, sell, discount and re-discount Treasury bills of the Government;
 
 (e) purchase and sell securities of the Government or of any public authority which have been publicly offered for sale or form part of an issue which is being made to the public at the time of acquisition;
+
+(ea) grant any loan, advance, overdraft or other credit facility to the Government on such terms and conditions as the Authority thinks fit;
+
+[13/2007 wef 30/06/2007]
 
 (f) purchase, sell, discount and re-discount bills of exchange and promissory notes arising out of bona fide commercial transactions bearing 2 or more good signatures and maturing within 3 months (exclusive of days of grace) from the date of acquisition;
 
@@ -530,7 +530,7 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (l) maintain accounts with central banks outside Singapore and with other banks inside and outside Singapore;
 
-(m) purchase and sell securities of, or guaranteed by, such guarantor, governments or international financial institutions as may be approved by the board, or purchase and sellsecurities and investments authorised by the President on the recommendation of the board;
+(m) purchase and sell securities of, or guaranteed by, such guarantor, governments or international financial institutions as may be approved by the board, or purchase and sellsuch other securities, financial instruments and investments as may be approved by the board;
 
 [13/2007 wef 30/06/2007]
 
@@ -554,7 +554,43 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (2) For the purposes of subsection (1)(o) and section 30(d), the Government or a public authority shall have a substantial interest in a company if it, either by itself or together with any other public authority, has an interest or interests in one or more voting shares in the company and the vote or votes attached to that share, or the total votes attached to those shares either held by itself or together with any other public authority, is not less than 20% of the total votes attached to all the voting shares in the company.
 
-[21/2005 wef 30/01/2006]
+(3) In subsection (1), a reference to the purchase of any securities or Treasury bills includes subscribing for such securities or Treasury bills.
+
+[13/2007 wef 30/06/2007]
+
+(4) Notwithstanding subsection (1), the Authority shall not grant any loan, advance, overdraft or other credit facility to the Government, or underwrite any loan to the Government, unless the Authority is satisfied that such loan, advance, overdraft or credit facility is required by the Government to meet unexpected and temporary shortfall in the Government’s revenue relative to its expenditure.
+
+[13/2007 wef 30/06/2007]
+
+(5) Notwithstanding subsection (1), the Authority shall not directly subscribe for any securities issued by the Government or any public authority.
+
+[13/2007 wef 30/06/2007]
+
+(6) Subsection (5) shall not apply to any subscription for debt securities issued by the Government or any public authority that is made in connection with —
+
+(a) in the case of debt securities (including Treasury bills) issued by the Government, the conduct of monetary policy or the development of the bond market in Singapore; or
+
+(b) in the case of debt securities issued by any public authority, the development of the bond market in Singapore,
+
+but only insofar as the subscription does not compromise the object of the Authority referred to in section 4(1)(a).
+
+[13/2007 wef 30/06/2007]
+
+(7) Nothing in this section shall be construed as authorising the Authority to —
+
+(a) grant any loan, advance, overdraft or other credit facility to any public authority; or
+
+(b) underwrite any loan to any public authority.
+
+[13/2007 wef 30/06/2007]
+
+(8) The Authority may, in addition to the powers, duties and functions set out in this Part, exercise all powers and perform all functions and duties conferred or imposed on the Authority under this Act, the written laws set out in the Schedule, and any other written law.
+
+[13/2007 wef 30/06/2007]
+
+(9) The Minister may, from time to time, by order published in theGazette, amend the Schedule.
+
+[13/2007 wef 30/06/2007]
 
 ### Investment of funds
 
@@ -568,7 +604,9 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (d) securities of, or guaranteed by, such government or governments or international financial institutions as may be approved by the board;
 
-(e) such securities and investments as may be authorised by the President on the recommendation of the board.
+(e) such other securities, financial instruments and investments as may be approved by the board.
+
+[13/2007 wef 30/06/2007]
 
 [26/84]
 
@@ -646,7 +684,7 @@ as the Authority considers necessary in order to discharge or facilitate the dis
 
 (c) discloses a direction issued to it in contravention of subsection (4),
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
 
 [13/2007 wef 30/06/2007]
 
@@ -658,7 +696,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) any finance company licensed under the Finance Companies Act (Cap. 108);
 
-(c) any merchant bank that is approved as a financial institution under section 28;
+(c) any person that is approved as a financial institution under section 28;
 
 [13/2007 wef 30/06/2007]
 
@@ -666,19 +704,57 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) any insurer registered or regulated under the Insurance Act (Cap. 142);
 
-(f) any insurance intermediary licensed under the Insurance Intermediaries Act (Cap. 142A);
+(f) any insurance intermediary registered or regulated under the Insurance Act;
 
-(g) any dealer or investment adviser licensed under the Securities Industry Act (Cap. 289);
+[13/2007 wef 30/06/2007]
 
-(h) any futures broker, futures trading adviser or futures pool operator licensed under the Futures Trading Act (Cap. 116); and
+(g) any licensed financial adviser under the Financial Advisers Act (Cap. 110);
 
-(i) any other person licensed, approved or regulated by the Authority under any written law.
+[13/2007 wef 30/06/2007]
 
-(7) For the purpose of subsection (6), a reference to a person being licensed, approved, registered or regulated under any of the laws referred to in that subsection includes a person who is exempted under the relevant law from being licensed, approved, registered or regulated.
+(h) any approved holding company, securities exchange, futures exchange, recognised market operator, designated clearing house or holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
+
+[13/2007 wef 30/06/2007]
+
+(i) any trustee for a collective investment scheme authorised under section 286 of the Securities and Futures Act, that is approved under that Act;
+
+[13/2007 wef 30/06/2007]
+
+(j) any trustee-manager of a business trust that is registered under the Business Trusts Act (Cap. 31A);
+
+[13/2007 wef 30/06/2007]
+
+(k) any licensed trust company under the Trust Companies Act (Cap. 336); and
+
+[13/2007 wef 30/06/2007]
+
+[42/2007 wef 01/11/2007]
+
+(l) any other person licensed, approved, registered or regulated by the Authority under any written law,
+
+[13/2007 wef 30/06/2007]
+
+but does not include such person or class of persons as the Authority may, by regulations made under this section, prescribe.
+
+[13/2007 wef 30/06/2007]
+
+(7) For the purpose of subsection (6), a reference to a person being licensed, approved, registered or regulated under any of the laws referred to in that subsection includes a person who is exempted under the relevant law from being licensed, approved, registered or regulated, but does not include such person or class of persons as the Authority may, by regulations made under this section, prescribe.
 
 [13/2007 wef 30/06/2007]
 
 [16/2002 wef 30/09/2002]
+
+### Directions or regulations to prevent money laundering and terrorism financing
+
+27B\.—(1) The Authority may, from time to time, issue such directions or make such regulations concerning any financial institution or class of financial institutions as the Authority considers necessary for the prevention of money laundering or for the prevention of the financing of terrorism.
+
+(2) A financial institution which fails or refuses to comply with any direction issued under subsection (1), or contravenes any regulations made under that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
+
+[42/2007 wef 01/11/2007]
+
+(3) In this section, “financial institution” has the same meaning as in section 27A(6) read with section 27A(7).
+
+[13/2007 wef 30/06/2007]
 
 ### Power to approve financial institutions and control their operations
 
@@ -743,6 +819,40 @@ and the financial institutions concerned shall comply with such directions.
 (8) An approved financial institution that fails to comply with any direction given under subsection (3) or any condition subject to which an approval is granted under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
 
 [26/84]
+
+### Power of Authority in relation to dispute resolution schemes
+
+28A\.—(1) The Authority may approve any dispute resolution scheme for the resolution of disputes arising from or relating to the provision of financial services by financial institutions.
+
+(2) The Authority may by regulations require a financial institution registered, licensed, approved or regulated by the Authority under any written law to be a member of such approved dispute resolution scheme and to comply with such terms of membership of the scheme as may be prescribed.
+
+(3) Any financial institution which, without reasonable excuse, contravenes any regulations made under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(4) Where the Authority is satisfied that a financial institution has contravened any regulations made under subsection (2), the Authority may do one or both of the following:
+
+(a) if it thinks it necessary in the public interest or for the protection of consumers, reprimand the financial institution;
+
+(b) impose on the financial institution under the written law under which the financial institution was registered, licensed or approved, such conditions or restrictions of registration, licence or approval as the Authority thinks fit, including restricting the scope of the activities which the financial institution is allowed to conduct under the written law; and the financial institution shall comply with such conditions or restrictions.
+
+(5) Any power of the Authority under the written law referred to in subsection (4)(b) to impose conditions or restrictions of registration, licence or approval shall, notwithstanding anything to the contrary in that written law, be deemed to include the power to impose the conditions or restrictions referred to in subsection (4)(b).
+
+(6) The Authority may make regulations —
+
+(a) to provide for the matters that the Authority may have regard to in determining whether to approve a dispute resolution scheme under subsection (1);
+
+(b) to prescribe a list of dispute resolution schemes approved under subsection (1);
+
+(c) to provide for suspension or cancellation of approvals under subsection (1);
+
+(d) to provide for matters relating to the operations of an operator of an approved dispute resolution scheme, including the standards or requirements of its operations, the fees that may be charged for its dispute resolution services, the records that must be kept, the period of retention of the records, the reports that are to be submitted to the Authority, the time for such submission, the terms of membership with the scheme, the procedure for dispute resolution and other matters relating to the administration of the scheme; and
+
+(e) generally to give effect to or for carrying out the purposes of this section.
+
+(7) Regulations made under this section may provide that any contravention thereof shall be an offence punishable with a fine not exceeding $50,000.
+
+(8) The Authority may issue, and in its discretion publish by notification in theGazetteor in such other manner as it considers appropriate, such guidelines as it considers appropriate for providing guidance in relation to the operation of this section or any regulations made under this section.
+
+[13/2007 wef 30/06/2007]
 
 ### Fees
 
@@ -940,11 +1050,15 @@ MISCELLANEOUS
 
 (a) a copy of the financial statements certified by the Auditor-General and those statements shall then be published in theGazette; and
 
-(b) a report by the board on the working of the Authority throughout the financial year and that report shall be published by the Authority.
+(b) a report by the board on the performance of the functions and duties of the Authority throughout the financial year and that report shall be published by the Authority.
+
+[24/2003 wef 01/01/2004]
 
 [13/2007 wef 30/06/2007]
 
 (2) The Authority shall, within 6 months from the close of its financial year, cause the financial statements and the annual report to be presented to Parliament.
+
+[24/2003 wef 01/01/2004]
 
 (3) In preparing the financial statements for the purpose of this section, the Authority may comply with accounting standards to the extent that it is, in the opinion of the Authority, appropriate to do so, having regard to the objects and functions of the Authority.
 
@@ -990,6 +1104,18 @@ MISCELLANEOUS
 
 41\. Notwithstanding the provisions of any other written law, a District Court shall have jurisdiction to try all offences under this Act and to impose the full penalty prescribed therefor.
 
+### Composition of offences
+
+41A\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the maximum fine prescribed for that offence.
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(3) The Authority may make regulations to prescribe the offences which may be compounded.
+
+(4) All sums collected under this section shall be paid to the Authority.
+
+[13/2007 wef 30/06/2007]
+
 ### Power of Authority to make regulations
 
 42\. The Authority may, with the approval of the President, make regulations for the better carrying out of the objects and purposes of this Act.
@@ -999,6 +1125,54 @@ MISCELLANEOUS
 43\. Nothing in this Act shall affect the operation of the Currency Act (Cap. 69).
 
 [44
+
+## THE SCHEDULE
+
+Section 23(8) and (9)
+
+Written Laws
+
+1\. Banking Act (Cap. 19)
+
+2\. Bretton Woods Agreements Act (Cap. 27)
+
+3\. Business Trusts Act (Cap. 31A)
+
+4\. Chit Funds Act (Cap. 39)
+
+5\. Currency Act (Cap. 69)
+
+6\. Deposit Insurance Act (Cap. 77A)
+
+7\. Development Loan Act (Cap. 81)
+
+8\. Development Loan (1987) Act (Cap. 81A)
+
+9\. Exchange Control Act (Cap. 99)
+
+10\. Exchanges (Demutualisation and Merger) Act (Cap. 99B)
+
+11\. Finance Companies Act (Cap. 108)
+
+12\. Financial Advisers Act (Cap. 110)
+
+13\. Government Securities Act (Cap. 121A)
+
+14\. Insurance Act (Cap. 142)
+
+15\. Local Treasury Bills Act (Cap. 167)
+
+16\. Money-changing and Remittance Businesses Act (Cap. 187)
+
+17\. Payment and Settlement Systems (Finality and Netting) Act (Cap. 231)
+
+18\. Payment Systems (Oversight) Act 2006 (Act 1 of 2006)
+
+19\. Securities and Futures Act (Cap. 289)
+
+20\. Trust Companies Act (Cap. 336).
+
+[13/2007 wef 30/06/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -1111,6 +1285,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 11/2005 published on 10 June 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
+|23.|**Act 13 of 2007—Monetary Authority of Singapore (Amendment) Act 2007**|
+||Date of First Reading|22 January 2007|
+|||(Bill No. 1/2007 published on 9 March 2007)|
+||Date of Second and Third Readings|12 February 2007|
+||Date of commencement|30 June 2007|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
