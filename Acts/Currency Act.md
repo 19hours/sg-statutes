@@ -484,7 +484,9 @@ CURRENCY
 
 (f) currency and financial futures;
 
-(g) any other asset which the Authority, with the approval of the President, considers suitable for inclusion.
+(g) such other assets, financial instruments and investments as may be approved by the board of directors of the Authority.
+
+[13/2007 wef 30/06/2007]
 
 [11/82; 3/91; 47/98; 25/2002]
 
@@ -669,6 +671,12 @@ This Legislative History is provided for the convenience of users of the Currenc
 |||(Bill No. 21/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|19.|**Act 13 of 2007—Monetary Authority of Singapore (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|22 January 2007|
+|||(Bill No. 1/2007 published on 23 January 2007)|
+||Date of Second and Third Readings|12 February 2007|
+||Date of commencement|30 June 2007|
 ## COMPARATIVE TABLE
 
 Currency Act
