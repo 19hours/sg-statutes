@@ -138,19 +138,19 @@
 
 [**Division 4  Mergers**](#Division-4--Mergers)
 
-- [54 Mergers](#Mergers)
+- [54 (Repealed)](#Repealed)
 
-- [55 Excluded mergers](#Excluded-mergers)
+- [55 (Repealed)](#Repealed)
 
-- [56 Requests for Commission to consider merger](#Requests-for-Commission-to-consider-merger)
+- [56 (Repealed)](#Repealed)
 
-- [57 Notification for guidance](#Notification-for-guidance)
+- [57 (Repealed)](#Repealed)
 
-- [58 Notification for decision](#Notification-for-decision)
+- [58 (Repealed)](#Repealed)
 
-- [59 Effect of guidance](#Effect-of-guidance)
+- [59 (Repealed)](#Repealed)
 
-- [60 Effect of decision that section 54 prohibition has not been infringed](#Effect-of-decision-that-section-54-prohibition-has-not-been-infringed)
+- [60 (Repealed)](#Repealed)
 
 [**Division 5  Enforcement**](#Division-5--Enforcement)
 
@@ -240,7 +240,7 @@
 
 [**THIRD SCHEDULE Exclusions from Section 34 Prohibition and Section 47 Prohibition**](#THIRD-SCHEDULE-Exclusions-from-Section-34-Prohibition-and-Section-47-Prohibition)
 
-[**FOURTH SCHEDULE Exclusions from Section 54 Prohibition**](#FOURTH-SCHEDULE-Exclusions-from-Section-54-Prohibition)
+[**FOURTH SCHEDULE**](#FOURTH-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -260,9 +260,13 @@ An Act to make provision about competition and the abuse of a dominant position 
 
 [1st January 2005: Parts I and II and First and Second Schedules ;
 
-1st September 2005: Part IV;
+1st September 2005: Part IV ;
 
-1st January 2006: Parts III (except Division 4), V and VI and Third Schedule ]
+1st January 2006: Parts III (except Division 4)1, V and VI and Third Schedule
+
+1Division 4 of Part III and the Fourth Schedule were repealed by Act 23 of 2007 on 30th June 2007. New Divisions 4 and 4A of Part III and the new Fourth Schedule were inserted by Act 23 of 2007 and were brought into operation on 1st July 2007
+
+]
 
 ## PART I
 
@@ -1120,189 +1124,23 @@ was incomplete, false or misleading in a material particular, the date specified
 
 Division 4 —
 
-Mergers1
+Mergers3
 
-1Division 4 of Part III of this Act (sections 54 to 60) was not in operation at the time of this Revised Edition
+3Division 4 of Part III of this Act (sections 54 to 60) was not in operation at the time of this Revised Edition
 
-### Mergers
+54\. [Repealed by Act 23/2007 wef 30/06/2007]
 
-54\.—(1) Subject to section 55, mergers that have resulted, or may be expected to result, in a substantial lessening of competition within any market in Singapore for goods or services are prohibited.
+55\. [Repealed by Act 23/2007 wef 30/06/2007]
 
-(2) For the purposes of this Part, a merger occurs if —
+56\. [Repealed by Act 23/2007 wef 30/06/2007]
 
-(a) 2 or more undertakings, previously independent of one another, merge;
+57\. [Repealed by Act 23/2007 wef 30/06/2007]
 
-(b) one or more persons or other undertakings who or which control one or more undertakings acquire direct or indirect control of the whole or part of one or more other undertakings;
+58\. [Repealed by Act 23/2007 wef 30/06/2007]
 
-(c) one or more persons or other undertakings acquire direct or indirect control of the whole or part of one or more other undertakings; or
+59\. [Repealed by Act 23/2007 wef 30/06/2007]
 
-(d) the result of an acquisition by one undertaking (the first undertaking) of the assets (including goodwill), or a substantial part of the assets, of another undertaking (the second undertaking) is to place the first undertaking in a position to replace or substantially replace the second undertaking in the business or, as appropriate, the part concerned of the business in which that undertaking was engaged immediately before the acquisition.
-
-(3) For the purposes of this Part, control, in relation to an undertaking, shall be regarded as existing if, by reason of securities, contracts or any other means, or any combination of securities, contracts or other means, decisive influence is capable of being exercised with regard to the activities of the undertaking and, in particular, by —
-
-(a) ownership of, or the right to use all or part of, the assets of an undertaking; or
-
-(b) rights or contracts which enable decisive influence to be exercised with regard to the composition, voting or decisions of the organs of an undertaking.
-
-(4) For the purposes of this Part, control is acquired by any person or other undertaking if he or it —
-
-(a) becomes a holder of the rights or contracts, or entitled to use the other means, referred to in subsection (3); or
-
-(b) although not becoming such a holder or entitled to use those other means, acquires the power to exercise the rights derived therefrom.
-
-(5) The creation of a joint venture to perform, on an indefinite basis, all the functions of an autonomous economic entity shall constitute a merger falling within subsection (2)(b).
-
-(6) In determining whether influence of the kind referred to in subsection (3) is capable of being exercised, regard shall be had to all the circumstances of the matter and not solely to the legal effect of any instrument, deed, transfer, assignment or other act done or made.
-
-(7) For the purposes of this Part, a merger shall not be deemed to occur if —
-
-(a) the person acquiring control is a receiver or liquidator acting as such or is an underwriter acting as such;
-
-(b) all of the undertakings involved in the merger are, directly or indirectly, under the control of the same undertaking;
-
-(c) control is acquired solely as a result of a testamentary disposition, intestacy or the right of survivorship under a joint tenancy; or
-
-(d) control is acquired by an undertaking referred to in subsection (8) in the circumstances specified in subsection (9).
-
-(8) The undertaking referred to in subsection (7)(d) is an undertaking the normal activities of which include the carrying out of transactions and dealings in securities for its own account or for the account of others.
-
-(9) The circumstances referred to in subsection (7)(d) are that —
-
-(a) the control concerned is constituted by the undertaking’s holding, on a temporary basis, securities acquired in another undertaking; and
-
-(b) any exercise by the undertaking of voting rights in respect of those securities, whilst that control subsists —
-
-(i) is for the purpose of arranging for the disposal, within the specified period, of all or part of the other undertaking or its assets or securities; and
-
-(ii) is not for the purpose of determining the manner in which any activity of the other undertaking, being an activity that could affect competition in markets for goods or services in Singapore, are carried on.
-
-(10) In subsection (9), “specified period” means —
-
-(a) the period of 12 months from the date on which control of the other undertaking was acquired; or
-
-(b) if in a particular case the undertaking shows that it is not reasonably possible to effect the disposal concerned within the period referred to in paragraph (a), within such longer period as the Commission determines and specifies with respect to that case.
-
-[UK Enterprise 2002, s. 22 (1) (b); Ireland Competition 2002, s. 16]
-
-### Excluded mergers
-
-55\. The section 54 prohibition shall not apply to any merger specified in the Fourth Schedule.
-
-[UK Competition 1998, s. 19 (1)]
-
-### Requests for Commission to consider merger
-
-56\.—(1) Sections 57 and 58 provide for a merger to be considered by the Commission on the application of a party to that merger who thinks the merger may infringe the section 54 prohibition.
-
-(2) The Minister may by regulations provide for the procedure to be followed —
-
-(a) by any party making an application; and
-
-(b) by the Commission, in considering such an application.
-
-[UK Competition 1998, s. 20]
-
-### Notification for guidance
-
-57\.—(1) A party to a merger which applies for the merger to be considered under this section shall —
-
-(a) notify the Commission of the merger; and
-
-(b) apply to it for guidance.
-
-(2) On an application under this section, the Commission may give the applicant guidance as to whether or not, in its view, the merger is likely to infringe the section 54 prohibition.
-
-[UK Competition 1998, s. 21]
-
-### Notification for decision
-
-58\.—(1) A party to a merger which applies for the merger to be considered under this section shall —
-
-(a) notify the Commission of the merger; and
-
-(b) apply to it for a decision.
-
-(2) Subject to subsections (3) and (5), on an application under this section, the Commission may make a decision as to —
-
-(a) whether the section 54 prohibition has been infringed; and
-
-(b) if it has not been infringed, whether that is —
-
-(i) because of the effect of an exclusion; or
-
-(ii) because the merger is exempted from the prohibition under subsection (3).
-
-(3) Where the Commission proposes to make a decision that the section 54 prohibition has been infringed, the Commission shall give written notice to the party who applied for the merger to be considered and the party may, within 14 days of the date of the notice, apply to the Minister for the merger to be exempted from the section 54 prohibition on the ground of any public interest consideration.
-
-(4) The decision of the Minister made under subsection (3) shall be final.
-
-(5) Where the Minister exempts a merger under subsection (3), the Commission may make a decision under subsection (2)(b)(ii).
-
-(6) The Minister may revoke the exemption of a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
-
-[UK Competition 1998, s. 22]
-
-### Effect of guidance
-
-59\.—(1) This section shall apply to a merger if the Commission has determined an application under section 57 by giving guidance that the merger is unlikely to infringe the section 54 prohibition.
-
-(2) The Commission shall take no further action under this Part with respect to the merger to which this section applies, unless —
-
-(a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its guidance;
-
-(b) it has reasonable grounds for suspecting that the information on which it based its guidance was incomplete, false or misleading in a material particular; or
-
-(c) a complaint about the merger has been made to it.
-
-(3) No penalty may be imposed under this Part in respect of any infringement of the section 54 prohibition by a merger to which this section applies.
-
-(4) The Commission may remove the immunity given by subsection (3) if —
-
-(a) it takes action under this Part with respect to the merger in one of the circumstances mentioned in subsection (2);
-
-(b) it considers that it is likely that the merger will infringe the section 54 prohibition; and
-
-(c) it gives notice in writing to the party on whose application the guidance was given that it is removing the immunity as from the date specified in its notice.
-
-(5) If the Commission has reasonable grounds for suspecting that information —
-
-(a) on which it based its guidance; and
-
-(b) which was provided to it by a party involved in the merger,
-
-was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
-
-[UK Competition 1998, s. 23]
-
-### Effect of decision that section 54 prohibition has not been infringed
-
-60\.—(1) This section shall apply to a merger if the Commission has determined an application under section 58 by making a decision that the merger has not infringed the section 54 prohibition.
-
-(2) The Commission shall take no further action under this Part with respect to the conduct unless —
-
-(a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its decision; or
-
-(b) it has reasonable grounds for suspecting that the information on which it based its decision was incomplete, false or misleading in a material particular.
-
-(3) No penalty may be imposed under this Part in respect of any infringement of the section 54 prohibition by a merger to which this section applies.
-
-(4) The Commission may remove the immunity given by subsection (3) if —
-
-(a) it takes action under this Part with respect to the merger in one of the circumstances mentioned in subsection (2);
-
-(b) it considers that it is likely that the merger will infringe the section 54 prohibition; and
-
-(c) it gives notice in writing to the party on whose application the decision was made that it is removing the immunity as from the date specified in its notice.
-
-(5) If the Commission has reasonable grounds for suspecting that information —
-
-(a) on which it based its decision; and
-
-(b) which was provided to it by a party involved in the merger,
-
-was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
-
-[UK Competition 1998, s. 24]
+60\. [Repealed by Act 23/2007 wef 30/06/2007]
 
 Division 5 —
 
@@ -2486,21 +2324,7 @@ Mergers
 
 FOURTH SCHEDULE
 
-Sections 55 and 92
-
-Exclusions from Section 54 Prohibition
-
-1. The section 54 prohibition shall not apply to any merger approved under —
-
-(a) any written law; or
-
-(b) any code of practice issued under any written law relating to competition.
-
-[S870/2005]
-
-2. The section 54 prohibition shall not apply to any merger involving any undertaking relating to any specified activity as defined in paragraph 6(2) of the Third Schedule.
-
-*This Schedule was not in operation at the time of this Revised Edition.
+Repealed by Act 23/2007, wef 30/06/2007.
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -2508,7 +2332,7 @@ Competition Act
 
 (CHAPTER 50B)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes: — Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 ACRA 2005 Ed.
 
@@ -2621,7 +2445,13 @@ This Legislative History is provided for the convenience of users of the Competi
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 11/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
-||Dates of commencement|1st January 2006|
+||Date of commencement|1st January 2006|
 |||(Section 23)|
 |7.|**2006 Revised Edition—Competition Act**|
 ||Date of operation|31 January 2006|
+|8.|**Act 23 of 2007—Competition (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 11/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|30th June 2007|
+|||(Sections 8 (1) and 24 (1))|
