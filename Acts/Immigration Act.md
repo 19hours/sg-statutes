@@ -204,7 +204,9 @@ PRELIMINARY
 
 “Controller” means the Controller of Immigration appointed under section 3;
 
-“Controller of Work Permits” means the Controller of Work Permits appointed under section 3 of the Employment of Foreign Workers Act (Cap. 91A);
+“Controller of Work Passes” means the Controller of Work Passes appointed under section 3 of the Employment of Foreign Manpower Act (Cap. 91A);
+
+[30/2007 wef 01/07/2007]
 
 “crew” includes every seaman on a vessel, and every person employed in the operation of an aircraft or a train or in any service rendered to the crew or passengers of an aircraft in flight or a train in motion;
 
@@ -1172,8 +1174,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) The security under subsection (1) or (1A) shall be given in such manner and form as the Controller may determine and may be by bond, guarantee, cash deposit or any other method, or by 2 or more different methods.
 
-[2/2007 wef 01/03/2007]
-
 ### Reports as to persons failing to continue their journey
 
 44\.—(1) Where any through passenger on or member of the crew of any vessel, aircraft or train fails to continue his journey in the vessel, aircraft or train in circumstances from which it may reasonably be inferred that the passenger or member of the crew has remained in Singapore, the master of the vessel, aircraft or train, as the case may be, shall notify an immigration officer or a police officer of the failure of the passenger or member of the crew to continue his journey.
@@ -1552,7 +1552,7 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 (c) checking with —
 
-(i) the Controller of Immigration or the Controller of Work Permits, as the case may be, that the permit or pass was valid at the material time; or
+(i) the Controller of Immigration or the Controller of Work Passes, as the case may be, that the permit or pass was valid at the material time; or
 
 [30/2007 wef 01/07/2007]
 
@@ -1576,7 +1576,7 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 (b) has checked the permit or pass to ascertain that the particulars on the passport of the person employed by him materially correspond with the particulars set out in the permit or pass; and
 
-(c) where the person employed by him is a holder of a visit pass, has reasonable grounds for believing that the person had, at the material time, in force a work permit issued under the Employment of Foreign Workers Act (Cap. 91A) or had obtained the written consent of the Controller.
+(c) where the person employed by him is a holder of a visit pass, has reasonable grounds for believing that the person had, at the material time, in force a work pass issued under the Employment of Foreign Manpower Act (Cap. 91A) or had obtained the written consent of the Controller.
 
 [30/2007 wef 01/07/2007]
 
@@ -1674,7 +1674,7 @@ and includes any works which form an integral part of, or are preparatory to, th
 
 (c) has checked with —
 
-(i) the Controller or the Controller of Work Permits , as the case may be, that the permit or pass was valid at the material time; or
+(i) the Controller or the Controller of Work Passes, as the case may be, that the permit or pass was valid at the material time; or
 
 [30/2007 wef 01/07/2007]
 
@@ -1835,3 +1835,9 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007 (Section 10 — Amendment of Immigration Act)|
+|25.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
