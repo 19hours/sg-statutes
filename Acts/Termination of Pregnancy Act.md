@@ -66,21 +66,25 @@ An Act relating to termination of pregnancy by authorised medical practitioners 
 
 3\.—(1) Subject to the provisions of this Act, no person shall be guilty of an offence under the law relating to abortion when a pregnancy is terminated by an authorised medical practitioner acting on the request of a pregnant woman and with her written consent.
 
+[32/80]
+
 (2) Except as provided by section 10, every treatment to terminate pregnancy shall be carried out by an authorised medical practitioner in an approved institution.
+
+[26/2001 wef 01/09/2001]
 
 (3) No treatment to terminate pregnancy shall be carried out by an authorised medical practitioner unless the pregnant woman —
 
 (a) is a citizen of Singapore or is the wife of a citizen of Singapore;
 
-(b) is the holder, or is the wife of a holder, of an employment pass or a work permit pass issued under the Immigration Act [Cap. 133]; or
+(b) is the holder, or is the wife of a holder, of a work pass issued under the Employment of Foreign Manpower Act (Cap. 91A); or
+
+[30/2007 wef 01/07/2007]
 
 (c) has been resident in Singapore for a period of at least 4 months immediately preceding the date on which such treatment is to be carried out,
 
 but this subsection shall not apply to any treatment to terminate pregnancy which is immediately necessary to save the life of the pregnant woman.
 
 (4) Any person who contravenes or fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[32/80]
 
 ### Treatment to terminate pregnancy not to be carried out if pregnancy is of more than a certain duration unless in special circumstances
 
@@ -94,9 +98,11 @@ but this subsection shall not apply to any treatment to terminate pregnancy whic
 
 (ii) has acquired special skill in such treatment either in practice or by virtue of holding an appointment in an approved institution over such period as may be prescribed.
 
-(2) For the purposes of subsection (1), the duration of the pregnancy shall be calculated from the first day of the last normal menstruation of the pregnant woman to the end of the 24th week or to the end of any week between the 16th and the 24th week, as the case may be, or the duration of the pregnancy may be ascertained by clinical examination.
-
 [32/80]
+
+[26/2001 wef 01/09/2001]
+
+(2) For the purposes of subsection (1), the duration of the pregnancy shall be calculated from the first day of the last normal menstruation of the pregnant woman to the end of the 24th week or to the end of any week between the 16th and the 24th week, as the case may be, or the duration of the pregnancy may be ascertained by clinical examination.
 
 ### Coercion or intimidation
 
@@ -140,9 +146,13 @@ shall, unless the pregnant woman expressly gives her consent thereto, disclose a
 
 [32/80]
 
+[26/2001 wef 01/09/2001]
+
 ### Regulations
 
 11\.—(1) The Minister may make regulations for, or in respect of, every purpose which is considered by him necessary for carrying out the provisions of this Act and for prescribing any matter which is authorised or required under this Act to be so prescribed.
+
+[32/80]
 
 (2) Without prejudice to the generality of subsection (1) the Minister may make regulations —
 
@@ -158,15 +168,13 @@ shall, unless the pregnant woman expressly gives her consent thereto, disclose a
 
 [12
 
-[32/80]
-
 ## LEGISLATIVE HISTORY
 
 Termination of Pregnancy Act
 
 (CHAPTER 324)
 
-This Legislative History is provided for the convenience of users of the Termination of Pregnancy Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Termination of Pregnancy Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -188,3 +196,9 @@ This Legislative History is provided for the convenience of users of the Termina
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001|
 |||(section 18)|
+|5.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
