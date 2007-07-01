@@ -330,25 +330,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FIRST SCHEDULE
 
-Section 5(1)
-
-RATE OF CESS LEVIABLE
-
-1. The rate of cess leviable under this Act shall be as follows:
-
-(a) For every room or suite occupied each day in every tourist hotel
-
-1% of the charge for the room or suite subject to a minimum of $1 per day.
-
-(b) For every tourist food establishment
-
-1% of the total of all sales and charges in respect of which cess is payable.
-
-(c) For every tourist public house
-
-1% of the total of all sales and charges in respect of which cess is payable.
-
-2. In computing the amount of cess payable under each receipt, any fraction of a cent shall be rounded off to the nearest cent.
+[Deleted by S 197/2007 wef 01/07/2007]
 
 SECOND SCHEDULE
 
@@ -421,3 +403,5 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|20 November 1997|
 |11.|**1997 Revised Edition—Singapore Tourism (Cess Collection) Act**|
 ||Date of operation|20 December 1997|
+|12.|**G. N. No. S 197/2007—Singapore Tourism (Cess Collection) Act (Revocation of First Schedule) Order 2007**|
+||Date of commencement|1 July 2007|
