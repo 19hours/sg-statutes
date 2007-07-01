@@ -1468,8 +1468,6 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 “young person” means a person who has completed his 15th year of age but who has not completed his 16th year of age.
 
-[41/2004 wef 01/10/2004]
-
 ### Restriction on employment of children
 
 68\.—(1) No person shall employ a child in an industrial or a non-industrial undertaking except as provided for in subsections (2) and (3).
@@ -1582,8 +1580,6 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (c) where subsection (1)(c) applies, the period of 8 weeks referred to in subsection (1)(c)(i).
 
-[41/2004 wef 01/10/2004]
-
 (2) A female employee who has served an employer for less than 180 days immediately preceding the day of confinement shall not be entitled to any pay during the benefit period.
 
 (3) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled to receive in addition to her gross rate of pay for that day an amount that is equivalent to a day’s pay at the gross rate of pay or to absent herself from work on another day at the end of the benefit period.
@@ -1603,8 +1599,6 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 (5) Subsection (4) shall not apply to such class or classes of employees as the Minister may, from time to time by notification in theGazette, specify.
 
 (6) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1)(c)(ii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
-
-[41/2004 wef 01/10/2004]
 
 [21/84]
 
@@ -1856,7 +1850,7 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 ### Commissioner may call for further returns
 
-98\.—(1) The Commissioner may give notice in writing to any employer when and as often as he thinks necessary requiring the employer to furnish within a reasonable time stated in the notice fuller or further returns respecting any matter as to which a return is required under this Act or the Employment of Foreign Workers Act.
+98\.—(1) The Commissioner may give notice in writing to any employer when and as often as he thinks necessary requiring the employer to furnish within a reasonable time stated in the notice fuller or further returns respecting any matter as to which a return is required under this Act or the Employment of Foreign Manpower Act.
 
 [30/2007 wef 01/07/2007]
 
@@ -2573,3 +2567,9 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 40/2004 published on 2 September 2004)|
 ||Date of Second and Third Readings|21 September 2004|
 ||Date of commencement|1 October 2004|
+|19.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
