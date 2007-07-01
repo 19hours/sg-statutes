@@ -10,33 +10,37 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Appointment of Controller of Work Permits and employment inspectors](#Appointment-of-Controller-of-Work-Permits-and-employment-inspectors)
+- [2A Meaning of "personal identifier"](#Meaning-of-"personal-identifier")
+
+- [3 Appointment of Controller of Work Passes and employment inspectors](#Appointment-of-Controller-of-Work-Passes-and-employment-inspectors)
+
+- [3A Controller and employment inspectors to be public servants](#Controller-and-employment-inspectors-to-be-public-servants)
 
 - [4 Exemption](#Exemption)
 
-- [5 Prohibition of employment of foreign worker without work permit](#Prohibition-of-employment-of-foreign-worker-without-work-permit)
+- [5 Prohibition of employment of foreign employee without work pass](#Prohibition-of-employment-of-foreign-employee-without-work-pass)
 
 - [6 Presumption of employment](#Presumption-of-employment)
 
-- [6A Prohibition of foreigner without work permit entering or remaining at work place](#Prohibition-of-foreigner-without-work-permit-entering-or-remaining-at-work-place)
+- [6A Prohibition of foreigner without work pass entering or remaining at work place](#Prohibition-of-foreigner-without-work-pass-entering-or-remaining-at-work-place)
 
-- [7 Application for work permit](#Application-for-work-permit)
+- [7 Application for work pass](#Application-for-work-pass)
 
-- [8 Register of foreign workers to be kept by employer](#Register-of-foreign-workers-to-be-kept-by-employer)
+- [8 Register of foreign employees to be kept by employer](#Register-of-foreign-employees-to-be-kept-by-employer)
 
-- [9 Termination of employment of foreign workers](#Termination-of-employment-of-foreign-workers)
+- [9 Termination of employment of foreign employees](#Termination-of-employment-of-foreign-employees)
 
-- [10 Self-employed persons carrying on certain occupations to apply for work permits](#Self-employed-persons-carrying-on-certain-occupations-to-apply-for-work-permits)
+- [10 Self-employed foreigners to apply for work passes](#Self-employed-foreigners-to-apply-for-work-passes)
 
-- [11 Levy in respect of employment of certain classes of foreign workers or other persons](#Levy-in-respect-of-employment-of-certain-classes-of-foreign-workers-or-other-persons)
+- [11 Levy in respect of foreign employee or self-employed foreigner](#Levy-in-respect-of-foreign-employee-or-self-employed-foreigner)
 
-- [12 Extent of validity of work permit](#Extent-of-validity-of-work-permit)
+- [12 Extent of validity of work pass](#Extent-of-validity-of-work-pass)
 
-- [13 Custody of work permit, etc.](#Custody-of-work-permit-etc)
+- [13 Custody of work pass, etc.](#Custody-of-work-pass-etc)
 
-- [14 Loss, etc., of work permit](#Loss-etc-of-work-permit)
+- [14 Loss, etc., of work pass](#Loss-etc-of-work-pass)
 
-- [15 Onus of proof](#Onus-of-proof)
+- [15 Burden of proof](#Burden-of-proof)
 
 - [16 Powers of employment inspector](#Powers-of-employment-inspector)
 
@@ -50,13 +54,27 @@
 
 - [21 Power to arrest without warrant](#Power-to-arrest-without-warrant)
 
+- [21A Arrest how made](#Arrest-how-made)
+
+- [21B No unnecessary restraint](#No-unnecessary-restraint)
+
+- [21C Search of persons arrested](#Search-of-persons-arrested)
+
+- [21D Employment inspector to be armed](#Employment-inspector-to-be-armed)
+
+- [21E Power to seize offensive weapons](#Power-to-seize-offensive-weapons)
+
+- [21F Power on escape to pursue and arrest](#Power-on-escape-to-pursue-and-arrest)
+
+- [21G Disposal of documents or articles](#Disposal-of-documents-or-articles)
+
 - [22 Offences](#Offences)
 
 - [23 Abetment](#Abetment)
 
 - [24 Complaint by employment inspector](#Complaint-by-employment-inspector)
 
-- [25 Person primarily liable may exempt himself from liability](#Person-primarily-liable-may-exempt-himself-from-liability)
+- [25 (Repealed)](#Repealed)
 
 - [26 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
@@ -68,9 +86,11 @@
 
 - [30 Transitional provisions](#Transitional-provisions)
 
+[**THE SCHEDULE Personal Identifiers**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
-# Employment of Foreign Workers Act
+# Employment of Foreign Manpower Act
 
 (CHAPTER 91A)
 
@@ -80,19 +100,19 @@ REVISED EDITION 1997
 
 (20th December 1997)
 
-An Act relating to the employment of foreign workers.
+An Act relating to the employment of foreign manpower.
 
 [1st January 1991]
 
 ### Short title
 
-1\. This Act may be cited as the Employment of Foreign Workers Act.
+1\. This Act may be cited as the Employment of Foreign Manpower Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“Controller” means the Controller of Work Permits appointed under section 3;
+“Controller” means the Controller of Work Passes appointed under section 3;
 
 “construction works” means the construction, extension, installation, carrying out, repair, maintenance, renewal, removal, alteration, dismantling or demolition of —
 
@@ -110,17 +130,31 @@ and includes any works which form an integral part of, or are preparatory to the
 
 [26/2001 wef 01/09/2001]
 
-“employer” means any person employing a foreign worker and, for the purposes of an application for work permit, any person who intends to employ a foreign worker;
+“employ” means to engage or use the service of any person for the purpose —
+
+(a) of any work; or
+
+(b) of providing any training for that person,
+
+whether under a contract of service or otherwise, and with or without salary;
+
+[30/2007 wef 01/07/2007]
+
+“employer” means any person employing a foreign employee and, for the purposes of an application for a work pass, any person who intends to employ a foreign employee;
+
+[30/2007 wef 01/07/2007]
 
 “employment inspector” means the Controller and any person appointed as an employment inspector under section 3;
 
+“foreign employee” means —
+
+(a) any foreigner, other than a self-employed foreigner, who seeks or is offered employment in Singapore; or
+
+(b) such other person or class of persons as the Minister may, by notification in theGazette, specify;
+
+[30/2007 wef 01/07/2007]
+
 “foreigner” means any person who is not a citizen or permanent resident of Singapore;
-
-“foreign worker” means —
-
-(a) any person who is not a citizen of Singapore who seeks employment with, or is offered employment by, an employer at a salary of not more than $1,500 a month or such other sum as may, from time to time, be fixed by the Minister by notification in theGazette; or
-
-(b) such other person or class of persons as the Minister may, by notification in theGazette, specify.
 
 “levy” means the levy imposed under section 11;
 
@@ -130,31 +164,51 @@ and includes any works which form an integral part of, or are preparatory to the
 
 (b) any person who is carrying out construction or other works at the premises on behalf of some other person;
 
-“premises” includes any land, whether built on or not, building, structure and any vessel and vehicle;
+“premises” includes —
 
-“salary” means all monetary remuneration payable to a foreign worker but does not include the following:
+(a) any building or structure, whether permanent or temporary;
 
-(a) additional payment by way of overtime, bonus or commission;
+(b) any land, whether or not built on;
 
-(b) travelling, food or housing allowances;
+(c) any place, whether or not enclosed, including any place situated underground or underwater;
 
-(c) any sum paid to a foreign worker to defray special expenses incurred by him owing to the special, unusual or hazardous nature of his employment;
+(d) any vehicle, vessel or aircraft; and
 
-(d) any shift allowance, attendance allowance and any other allowance which is variable in nature;
+(e) any part of any premises;
 
-(e) any contribution paid by the employer to any pension fund or provident fund; or
+[30/2007 wef 01/07/2007]
 
-(f) any gratuity payable on discharge or retirement;
+“self-employed foreigner” means any foreigner who, not being employed under a contract of service, engages in any trade, vocation, profession or other activity in Singapore for the purpose of gain;
 
-“work permit” means a work permit issued under section 7.
+[30/2007 wef 01/07/2007]
+
+“train”, in relation to a foreign employee, means to teach, instruct or educate the foreign employee in relation to the work in which the foreign employee is employed or to be employed;
+
+[30/2007 wef 01/07/2007]
+
+“work pass” means a work pass belonging to any prescribed category of work passes which is issued by the Controller under section 7.
+
+[30/2007 wef 01/07/2007]
 
 [37/95]
 
-### Appointment of Controller of Work Permits and employment inspectors
+### Meaning of “personal identifier”
 
-3\.—(1) The Minister may appoint a Controller of Work Permits who shall have such functions and powers as are conferred on him by this Act and such number of Deputy Controllers of Work Permits and Assistant Controllers of Work Permits as the Minister may think necessary to assist the Controller in the proper discharge of his functions.
+2A\.—(1) In this Act, “personal identifier” means any of the identifiers specified in the Schedule (including any in digital form).
 
-(1A) The Deputy Controllers of Work Permits and the Assistant Controllers of Work Permits shall have and may exercise and perform all the powers, duties and functions of the Controller conferred by this Act, subject to such limitations as the Controller may think fit to impose.
+(2) The Minister may, by order published in theGazette, amend the Schedule, except that any other personal identifier so prescribed in the order must —
+
+(a) be an image of, or a measurement or recording of, an external part of the human body; and
+
+(b) not be an identifier the obtaining of which would involve the taking of an intimate sample within the meaning of section 13A of the Registration of Criminals Act (Cap. 268).
+
+[30/2007 wef 01/07/2007]
+
+### Appointment of Controller of Work Passes and employment inspectors
+
+3\.—(1) The Minister may appoint a Controller of Work Passes who shall have such functions and powers as are conferred on him by this Act and such number of Deputy Controllers of Work Passes and Assistant Controllers of Work Passes as the Minister may think necessary to assist the Controller in the proper discharge of his functions.
+
+(1A) The Deputy Controllers of Work Passes and the Assistant Controllers of Work Passes shall have and may exercise and perform all the powers, duties and functions of the Controller conferred by this Act, subject to such limitations as the Controller may think fit to impose.
 
 [39/98 wef 15/02/1999]
 
@@ -162,51 +216,65 @@ and includes any works which form an integral part of, or are preparatory to the
 
 (2) The Minister may appoint such number of employment inspectors as he may think fit for carrying out the purposes of this Act.
 
+### Controller and employment inspectors to be public servants
+
+3A\. The Controller and every Deputy Controller of Work Passes, Assistant Controller of Work Passes and employment inspector appointed under section 3 shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+
+[30/2007 wef 01/07/2007]
+
 ### Exemption
 
 4\. The Minister may, by notification in theGazette, exempt any person or class of persons from all or any of the provisions of this Act.
 
-### Prohibition of employment of foreign worker without work permit
+### Prohibition of employment of foreign employee without work pass
 
-5\.—(1) No person shall employ a foreign worker unless he has obtained in respect of the foreign worker a valid work permit which allows the foreign worker to work for him.
+5\.—(1) No person shall employ a foreign employee unless the foreign employee has a valid work pass.
 
-(2) No foreign worker shall be in the employment of an employer without a valid work permit.
+[30/2007 wef 01/07/2007]
 
-(3) No person shall employ a foreign worker otherwise than in accordance with the conditions of the work permit.
+(2) No foreign employee shall be in the employment of an employer without a valid work pass.
 
-(4) In any proceedings for an offence under subsection (1), it shall not be a defence for a defendant to prove that he did not know that the worker was a foreigner unless the defendant further proves that he had exercised due diligence to ascertain the nationality of the worker .
+(3) No person shall employ a foreign employee otherwise than in accordance with the conditions of the foreign employee’s work pass.
 
-[37/95]
-
-(5) For the purpose of subsection (4), a defendant shall not be deemed to have exercised due diligence unless he had checked the passport, document of identity or other travel document of the worker.
+(4) In any proceedings for an offence under subsection (1), it shall not be a defence for a defendant to prove that he did not know that the employee was a foreigner unless the defendant further proves that he had exercised due diligence to ascertain the nationality of the employee.
 
 [37/95]
 
-(6) Any person who fails to comply with or contravenes subsection (1) shall be guilty of an offence and shall —
-
-(a) be liable on conviction to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy or to imprisonment for a term not exceeding 12 months or to both; and
-
-(b) on a second or subsequent conviction, be punished —
-
-(i) in the case of an individual, with imprisonment for a term of not less than one month and not more than 12 months and shall also be liable to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy; and
-
-(ii) in the case of a body corporate, with a fine of an amount of not less than 48 months’ levy and not more than 96 months’ levy.
+(5) For the purpose of subsection (4), a defendant shall not be deemed to have exercised due diligence unless he had checked the passport, document of identity or other travel document of the employee.
 
 [37/95]
+
+(6) Any person who contravenes subsection (1) shall be guilty of an offence and shall —
+
+(a) be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) on a second or subsequent conviction —
+
+(i) in the case of an individual, be punished with imprisonment for a term of not less than one month and not more than 12 months and also be liable to a fine not exceeding $15,000; and
+
+(ii) in the case of a body corporate, be punished with a fine not exceeding $30,000.
+
+[30/2007 wef 01/07/2007]
+
+(6A) Where a court has convicted a person for the contravention of subsection (1), the court shall, in addition to imposing on that person any other punishment, order the payment by him of a sum which is equal to the levy which would have been payable if any work pass had been issued for the period during which any foreign employee was employed by the person in contravention of subsection (1), and any such payment ordered shall be recoverable as a fine.
+
+[30/2007 wef 01/07/2007]
 
 (7) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(8) For the purpose of this section —
+(7A) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(a) “employ” means to engage or use the service of any person, whether under a contract of service or otherwise, with or without salary;
+[30/2007 wef 01/07/2007]
 
-(b) “levy” means the monthly rate of levy applicable to the foreign worker at the date when he was first employed by the defendant without a valid work permit, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
+(8) For the purposes of this section —
 
-(c) a conviction of an employer for an offence under section 8(1) of the repealed Regulation of Employment Act (Cap. 272) shall not be considered a previous conviction; and
+(a) the levy payable shall be determined using the lowest applicable monthly rate of levy as specified in an order made by the Minister under section 11 in respect of the trade or type of occupation of the foreign employee at the date when he was first employed by the defendant without a valid work pass, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
 
-(d) all convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
+(b) for the avoidance of doubt, where a person has been convicted of an offence under subsection (6), and he has on a previous occasion been convicted for contravening section 5(1) of the Employment of Foreign Workers Act in force immediately before the date of commencement of the Employment of Foreign Workers (Amendment) Act 2007, the first-mentioned conviction shall be considered a second or subsequent conviction under subsection (6); and
 
-[37/95]
+(c) all convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
+
+[30/2007 wef 01/07/2007]
 
 ### Presumption of employment
 
@@ -214,19 +282,19 @@ and includes any works which form an integral part of, or are preparatory to the
 
 [37/95]
 
-### Prohibition of foreigner without work permit entering or remaining at work place
+### Prohibition of foreigner without work pass entering or remaining at work place
 
-6A\.—(1) No occupier of a work place who has control of access to the work place shall permit any foreigner without a valid work permit to enter or remain at the work place.
+6A\.—(1) No occupier of a work place who has control of access to the work place shall permit any foreigner without a valid work pass to enter or remain at the work place.
 
 [37/95]
 
-(2) Where a foreigner without a valid work permit is found at any work place, it shall be presumed, until the contrary is proved, that the occupier of the work place —
+(2) Where a foreigner without a valid work pass is found at any work place, it shall be presumed, until the contrary is proved, that the occupier of the work place —
 
 (a) had control of access to the work place;
 
 (b) had permitted the foreigner to enter or remain at the work place; and
 
-(c) had knowledge that the foreigner did not possess a valid work permit.
+(c) had knowledge that the foreigner did not possess a valid work pass.
 
 [37/95]
 
@@ -236,11 +304,11 @@ and includes any works which form an integral part of, or are preparatory to the
 
 (b) to ascertain that the person was a citizen or permanent resident of Singapore by checking his passport, document of identity or other travel documents; or
 
-(c) to ascertain that the foreigner had at the material time in his possession a valid work permit by checking his original work permit .
+(c) to ascertain that the foreigner had at the material time in his possession a valid work pass by checking his original work pass.
 
 [37/95]
 
-(4) For the purposes of subsection (3)(a), a defendant shall not be deemed to have exercised due diligence unless he had taken all reasonable measures to prevent any foreigner without a valid work permit from entering or remaining at the work place, including all the measures prescribed under subsection (5) in respect of the work place.
+(4) For the purposes of subsection (3)(a), a defendant shall not be deemed to have exercised due diligence unless he had taken all reasonable measures to prevent any foreigner without a valid work pass from entering or remaining at the work place, including all the measures prescribed under subsection (5) in respect of the work place.
 
 [37/95]
 
@@ -250,13 +318,15 @@ and includes any works which form an integral part of, or are preparatory to the
 
 (6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable —
 
-(a) on conviction to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy or to imprisonment for a term not exceeding 12 months or to both; and
+(a) on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) on a second or subsequent conviction, to a fine of an amount of not less than 48 months’ levy and not more than 96 months’ levy or to imprisonment for a term not exceeding 2 years or to both.
+(b) on a second or subsequent conviction, to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[30/2007 wef 01/07/2007]
+
+[37/95]
 
 (7) For the purpose of this section —
-
-“levy” means the monthly rate of levy applicable to unskilled foreign workers working at the work place at the date when the foreigner without a valid work permit was found at the work place, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
 
 “occupier”, in relation to a work place, means the principal contractor who undertakes any construction works at the work place and includes such other person as the Minister may, by notification in theGazette, specify to be the occupier of the work place;
 
@@ -266,43 +336,99 @@ and includes any works which form an integral part of, or are preparatory to the
 
 [37/95]
 
+(7A) For the avoidance of doubt, where a person has been convicted of an offence under subsection (6), and he has on a previous occasion been convicted for contravening section 6A(1) of the Employment of Foreign Workers Act in force immediately before the date of commencement of the Employment of Foreign Workers (Amendment) Act 2007, the first-mentioned conviction shall be considered a second or subsequent conviction under subsection (6).
+
+[30/2007 wef 01/07/2007]
+
+(7B) All convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
+
+[30/2007 wef 01/07/2007]
+
 (8) Nothing in this section shall prevent any person from being prosecuted under any other provision of this Act for any act or omission which constitutes an offence under that other provision, but no person shall be punished twice for the same offence.
 
 [37/95]
 
-### Application for work permit
+### Application for work pass
 
-7\.—(1) Any person who wishes to employ a foreign worker shall apply to the Controller for a work permit for the foreign worker.
+7\.—(1) Every application for a work pass shall —
 
-(2) Upon receiving an application under subsection (1), the Controller shall consider the application and may issue a work permit in the name of the foreign worker with or without conditions or refuse to issue a work permit.
+(a) where the work pass belongs to any category of work passes prescribed by the Minister, be made by a person prescribed for that category of work passes;
 
-(3) The Controller may at any time —
+(b) be in such form as the Controller may determine;
 
-(a) vary or revoke any of the existing conditions of a work permit or impose new conditions; or
+(c) be accompanied by the prescribed fee, if any; and
 
-(b) vary, suspend or cancel a work permit.
+(d) be accompanied by such information, statements and documents as the Controller may require.
 
-(4) Any person who is aggrieved by a decision of the Controller under subsection (2) or (3) may appeal to the Minister whose decision shall be final and shall not be called in question in any court.
+(2) On receipt of an application under subsection (1), the Controller may —
 
-### Register of foreign workers to be kept by employer
+(a) issue a work pass, with or without conditions —
 
-8\.—(1) An employer shall keep a register of foreign workers to whom work permits have been issued under section 7.
+(i) if the prescribed fee has been paid; and
+
+(ii) if the Controller is satisfied that the foreign employee or self-employed foreigner to whom the work pass is to be issued is not a prohibited immigrant under section 8 of the Immigration Act (Cap. 133); or
+
+(b) refuse to issue any work pass.
+
+(3) A work pass may, on payment of the prescribed renewal fee, be renewed by the Controller for such period as the Controller may determine, starting from the day immediately following the day on which the work pass would have expired but for that renewal.
+
+(4) The Controller may at any time —
+
+(a) vary or revoke any of the existing conditions of a work pass or impose new conditions;
+
+(b) vary, suspend or revoke a work pass;
+
+(c) reinstate a work pass which has been suspended or revoked, if the prescribed fee has been paid; or
+
+(d) debar any person from applying for or being issued with a work pass for such fixed period of time as may be determined by the Controller.
+
+(5) Any person who is aggrieved by a decision of the Controller under subsection (2), (3) or (4) may appeal to the Minister, whose decision shall be final.
+
+(6) There shall be no judicial review in any court of any decision or act of the Minister or the Controller under this section, except in regard to any question relating to compliance with any procedural requirement of this Act governing such decision.
+
+(7) In subsection (6), “judicial review” includes proceedings instituted by way of —
+
+(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
+
+(b) an application for a declaration or an injunction;
+
+(c) an Order for Review of Detention; and
+
+(d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the Minister or the Controller by this section.
+
+[30/2007 wef 01/07/2007]
+
+### Register of foreign employees to be kept by employer
+
+8\.—(1) An employer shall keep, in accordance with section 95 of the Employment Act (Cap. 91), a register of foreign employees to whom work passes have been issued under section 7.
+
+[30/2007 wef 01/07/2007]
 
 (2) The register shall be in such form and shall contain such particulars as the Controller may determine.
 
 (3) The register shall, at all reasonable times, be open to inspection by an employment inspector.
 
-### Termination of employment of foreign workers
+### Termination of employment of foreign employees
 
-9\.—(1) Where the Controller has decided to suspend or cancel the work permit of a foreign worker pursuant to section 7(3), the Controller shall notify the employer of the foreign worker of his decision and the employer of the foreign worker shall, within 7 days of receiving the notification, terminate the services of the foreign worker.
+9\.—(1) Where the Controller has decided to suspend or revoke the work pass of a foreign employee under section 7(4), the Controller shall notify the employer of the foreign employee of his decision and the employer of the foreign employee shall, within 7 days of receiving the notification, terminate the employment of the foreign employee.
 
-(2) Every employer who terminates the services of a foreign worker under subsection (1) shall return the work permit to the Controller within 7 days of such termination.
+[30/2007 wef 01/07/2007]
 
-(3) An employer who fails to comply with subsection (1) or (2) shall be guilty of an offence.
+(2) Every employer of a foreign employee who intends to have the work pass of the foreign employee cancelled shall —
 
-(4) The termination of the services of a foreign worker under subsection (1) shall not be —
+(a) apply to the Controller to cancel the work pass; and
 
-(a) capable of negotiation with a trade union representing the foreign worker;
+(b) if so required, return the work pass to the Controller within 7 days of such cancellation.
+
+[30/2007 wef 01/07/2007]
+
+(3) An employer who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[30/2007 wef 01/07/2007]
+
+(4) The termination of the employment of a foreign employee under subsection (1) shall not be —
+
+(a) capable of negotiation with a trade union representing the foreign employee;
 
 (b) a matter in respect of which any form of industrial action may be taken by any such trade union;
 
@@ -312,75 +438,97 @@ and includes any works which form an integral part of, or are preparatory to the
 
 (5) Where in respect of the employment of any person there has been any contravention of subsection (1), that person shall not, by reason only of such contravention, be deemed to be employed under an illegal contract of employment.
 
-### Self-employed persons carrying on certain occupations to apply for work permits
+### Self-employed foreigners to apply for work passes
 
-10\.—(1) The Minister may, from time to time by notification in theGazette, prohibit any person, not being a citizen of Singapore and not being employed under a contract of service, from engaging in any trade, calling, occupation or other activity for the purposes of gain that is specified in the notification unless he has obtained a work permit for that purpose.
+10\.—(1) No self-employed foreigner shall engage in any trade, vocation, profession or other activity for the purpose of gain in Singapore unless he has obtained a valid work pass which allows him to work in Singapore.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall —
+(2) Any self-employed foreigner who contravenes subsection (1) shall be guilty of an offence and shall —
 
-(a) be liable on conviction to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy or to imprisonment for a term not exceeding 12 months or to both; and
+(a) be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than one month and not more than 12 months and shall also be liable to a fine of an amount of not less than 24 months’ levy and not more than 48 months’ levy.
+(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than one month and not more than 12 months and also be liable to a fine not exceeding $15,000.
 
-(3) For the purpose of subsection (2) —
+(3) Where a court has convicted a person for the contravention of subsection (1), the court shall, in addition to imposing on that person any other punishment, order the payment by him of a sum which is equal to the levy which would have been payable if a valid work pass had been issued for the period during which the person was engaged in a trade, vocation, profession or other activity for the purpose of gain in Singapore, and any such payment ordered shall be recoverable as a fine.
 
-(a) “levy” means the monthly rate of levy applicable to the person engaged in the trade, calling, occupation or other activity in contravention of subsection (1) at the date when he was found to be so engaged, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate; and
+(4) For the purposes of this section —
 
-(b) all convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
+(a) the levy payable shall be determined using the lowest applicable monthly rate of levy as specified in an order made by the Minister under section 11 in respect of the trade, vocation, profession or other activity engaged in by the self-employed foreigner at the date when he was first so engaged, and a certificate issued by the Controller and tendered in court shall be prima facie evidence of such rate;
 
-[37/95]
+(b) for the avoidance of doubt, where a person has been convicted of an offence under subsection (2), and he has on a previous occasion been convicted for contravening section 10(1) of the Employment of Foreign Workers Act in force immediately before the date of commencement of the Employment of Foreign Workers (Amendment) Act 2007, the first-mentioned conviction shall be considered a second or subsequent conviction under subsection (2); and
 
-### Levy in respect of employment of certain classes of foreign workers or other persons
+(c) all convictions against the same person for the contravention of subsection (1) at one and the same trial shall be deemed to be one conviction.
 
-11\.—(1) The Minister may, by order published in theGazette, provide for the imposition of a levy of such amount as may be specified in the order on employers in respect of any foreign worker or class of foreign workers or on persons who have, pursuant to section 10(1), obtained a work permit to engage in any trade, calling, occupation or other activity for the purposes of gain.
+[30/2007 wef 01/07/2007]
 
-(2) The levy shall continue to be payable unless the work permit has been suspended or cancelled.
+### Levy in respect of foreign employee or self-employed foreigner
+
+11\.—(1) The Minister may, by order published in theGazette, provide for the imposition of a levy of such amount as may be specified in the order on employers in respect of any foreign employee or class of foreign employees or on self-employed foreigners who have, pursuant to section 10(1), obtained a work pass to engage in any trade, vocation, profession or other activity in Singapore for the purpose of gain.
+
+(2) The levy shall continue to be payable unless the work pass ––
+
+(a) has expired;
+
+(b) has been suspended or revoked by the Controller; or
+
+(c) has been cancelled by the Controller on application by the employer.
+
+[30/2007 wef 01/07/2007]
 
 (3) Any order made under subsection (1) may provide for the recovery of the levy in such manner and through such channels as may be specified in the order.
 
-(4) Where the amount of the levy payable by any employer or person in respect of any month is not paid within such period as may be specified in the order, the employer or person shall be liable to pay a penalty on the amount for every day the amount remains unpaid commencing from the first day of the month succeeding the month in respect of which the amount is payable.
+(4) Where the amount of the levy payable by any employer or self-employed foreigner in respect of any month is not paid within such period as may be specified in the order, the employer or self-employed foreigner shall be liable to pay a penalty on the amount for every day the amount remains unpaid commencing from the first day of the month succeeding the month in respect of which the amount is payable.
 
-(5) The penalty under subsection (4) shall be calculated at the rate of 2% per month or the sum of $5 whichever is the greater, but, subject to that, the total penalty shall not exceed 30% of the amount of levy outstanding.
+(5) The penalty under subsection (4) shall be calculated at the rate specified by the Minister, by notification published in theGazette, or the sum of $5, whichever is the greater, but, subject to that, the total penalty shall not exceed 30% of the amount of levy outstanding.
 
-(6) The Controller may, in any case in which he thinks fit, remit or refund in whole or in part any penalty due under subsection (4).
+(6) The Controller may, in any case in which he thinks fit, waive, remit or refund in whole or in part any penalty due under subsection (4).
 
 [37/95]
 
-(7) Any levy and penalty due from and payable by any employer or person shall be recoverable by the Controller, or any person duly authorised by the Controller to act on his behalf, as a debt due to the Government.
+(7) Any levy and penalty due from and payable by any employer or self-employed foreigner shall be recoverable by the Controller, or any self-employed foreigner duly authorised by the Controller to act on his behalf, as a debt due to the Government.
 
 (8) For the purposes of reimbursing any person authorised by the Controller to act on his behalf for the expenses incurred by him in the collection and recovery of the levy, the Minister may authorise the person to be paid such amount as the Minister may determine.
 
-(9) In any proceedings for the recovery of any levy and penalty due thereon which any employer or person is liable to pay, a certificate purporting to be under the hand of the Controller certifying the amount of the levy and penalty due thereon payable by the employer or person shall be prima facie evidence of the facts stated therein.
+(9) In any proceedings for the recovery of any levy and penalty due thereon which any employer or self-employed foreigner is liable to pay, a certificate purporting to be under the hand of the Controller certifying the amount of the levy and penalty due thereon payable by the employer or self-employed foreigner shall be prima facie evidence of the facts stated therein.
 
-### Extent of validity of work permit
+### Extent of validity of work pass
 
-12\.—(1) A work permit shall be valid only in respect of the trade or occupation and the employer and foreign worker specified therein.
+12\.—(1) A work pass for a foreign employee shall be valid only in respect of the trade or occupation, the type of employment, the employer and the foreign employee that may be specified therein.
 
-(2) A work permit shall be valid for the period specified in the work permit unless it is suspended or cancelled by the Controller.
+(2) A work pass for a self-employed foreigner shall be valid only in respect of the trade, vocation, profession or activity and the self-employed foreigner that may be specified therein.
 
-### Custody of work permit, etc.
+(3) A work pass shall be valid for the period specified in the work pass unless it is earlier suspended or revoked by the Controller, or earlier cancelled by the Controller on the application by the employer or self-employed foreigner, as the case may be.
 
-13\.—(1) A work permit shall not be transferable.
+[30/2007 wef 01/07/2007]
 
-(2) A foreign worker who is in possession of his work permit shall hand over the work permit to his employer on the last day of his employment with that employer who shall return the work permit to the Controller within 7 days of the date thereof.
+### Custody of work pass, etc.
 
-(3) Upon demand by an employment inspector, the work permit of a foreign worker shall be produced for inspection.
+13\.—(1) A work pass holder shall not allow any other person to have possession of his work pass.
 
-### Loss, etc., of work permit
+(2) If required by the Controller, a foreign employee shall hand over the work pass to his employer on the last day of his employment with that employer.
 
-14\.—(1) When a work permit has been lost, destroyed or defaced, the foreign worker or the employer or the self-employed person, as the case may be, shall report to the Controller within 7 days of such loss, destruction or defacement, and the Controller shall issue a duplicate work permit. on payment of the prescribed fee.
+(3) An employer who is handed a work pass under subsection (2) shall return the work pass to the Controller within 7 days of the date he receives the work pass.
 
-(2) Where the foreign worker or the employer or the self-employed person recovers possession of the work permit after notifying the loss of the work permit, the foreign worker or the employer or the self-employed person, as the case may be —
+(4) Upon demand by an employment inspector, a work pass holder shall produce his work pass for inspection.
 
-(a) may retain the work permit if no duplicate work permit has been issued by the Controller under subsection (1); or
+[30/2007 wef 01/07/2007]
 
-(b) shall forthwith return the work permit so recovered for cancellation if a duplicate work permit has been issued by the Controller under subsection (1).
+### Loss, etc., of work pass
 
-(3) A person who finds or comes into possession of a work permit other than his own shall forthwith deliver it to the Controller.
+14\.—(1) When a work pass has been lost, destroyed or defaced, the foreign employee or the employer or the self-employed foreigner, as the case may be, shall report to the Controller within 7 days of such loss, destruction or defacement, and the Controller may issue a duplicate work pass. on payment of the prescribed fee.
 
-### Onus of proof
+(2) Where the foreign employee or the employer or the self-employed foreigner recovers possession of the work pass after notifying the loss of the work pass, the foreign employee or the employer or the self-employed foreigner, as the case may be —
 
-15\. The onus of proving the truth of the contents of a written application for a work permit under sections 7 and 10 shall be on the person who makes the application.
+(a) may retain the work pass if no duplicate work pass has been issued by the Controller under subsection (1); or
+
+(b) shall forthwith return the work pass so recovered to the Controller for revocation if a duplicate work pass has been issued by the Controller under subsection (1).
+
+(3) A person who finds or comes into possession of a work pass other than his own shall forthwith deliver it to the Controller.
+
+### Burden of proof
+
+15\. The burden of proving the truth of the contents of a written application for a work pass under section 7 shall be on the person who makes the application.
+
+[30/2007 wef 01/07/2007]
 
 ### Powers of employment inspector
 
@@ -398,7 +546,9 @@ and includes any works which form an integral part of, or are preparatory to the
 
 (f) to take such photographs as he thinks necessary of the premises and persons reasonably believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act; and
 
-(g) to take in custody any article which is required for the purpose of an investigation under this Act.
+(g) to require any person to produce any article which is relevant to any investigation under this Act and, if necessary, to take into custody any such article.
+
+[30/2007 wef 01/07/2007]
 
 [37/95]
 
@@ -428,23 +578,21 @@ that person shall be deemed to obstruct an employment inspector in the execution
 
 ### Change of address
 
-17\.—(1) Every employer shall inform the Controller in writing of any change in his address within 14 days of such change.
+17\.—(1) If required by the Controller, any employer shall inform the Controller of any change in his address within 14 days of such change —
 
-[37/95]
+(a) where the employer is an individual registered under the National Registration Act (Cap. 201), by reporting the change of his place of residence under section 8 of that Act;
 
-(2) Where the employer is an individual, he shall be deemed to have complied with subsection (1) if he had reported the change of his place of residence under section 8 of the National Registration Act (Cap. 201).
+(b) where the employer is a body corporate incorporated under the Companies Act (Cap. 50), a sole proprietorship or a firm registered under the Business Registration Act (Cap. 32) or a limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A), by reporting the change of the address of the registered office or place of business under section 143 of the Companies Act, section 14 of the Business Registration Act or section 26 of the Limited Liability Partnerships Act, as the case may be; or
 
-[37/95]
+(c) where paragraphs (a) and (b) are not applicable, in writing.
 
-(3) Where the employer is a body corporate incorporated under the Companies Act (Cap. 50) or a sole proprietorship or a firm registered under the Business Registration Act (Cap. 32), the employer shall be deemed to have complied with subsection (1) if he had reported the change of the address of the registered office or place of business under section 143 of the Companies Act (Cap. 50) or section 12 of the Business Registration Act (Cap. 32), as the case may be.
+(2) The address as reported in subsection (1) shall be deemed to be the last known address of the employer for the purposes of section 18.
 
-[37/95]
+(3) If required by the Controller, any foreign employee or self-employed foreigner shall inform the Controller in writing of any change in his address within 14 days of such change.
 
-(4) The addresses as reported in subsection (2) or (3) shall, unless the employer informs the Controller in writing to the contrary, be deemed to be the last known address of the employer for the purpose of section 18.
+(4) The address as reported in subsection (3) shall be deemed to be the last known address of the foreign employee or self-employed foreigner for the purposes of section 18.
 
-[16A
-
-[37/95]
+[30/2007 wef 01/07/2007]
 
 ### Service of notices
 
@@ -464,7 +612,7 @@ that person shall be deemed to obstruct an employment inspector in the execution
 
 (b) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated;
 
-(c) in the case of an individual, a partnership or a body of persons, to the last known business or private address of such individual, partnership or body of persons.
+(c) in the case of an individual, a partnership (including a limited liability partnership as defined in section 4(1) of the Limited Liability Partnerships Act (Cap. 163A)) or a body of persons, to the last known business or private address of such individual, partnership or body of persons.
 
 [37/95]
 
@@ -500,29 +648,143 @@ that person shall be deemed to obstruct an employment inspector in the execution
 
 ### Power to arrest without warrant
 
-21\.—(1) Any police officer or employment inspector may arrest without warrant any person who he reasonably believes is employed in Singapore whilst not in possession of a valid work permit.
+21\.—(1) Any police officer or employment inspector may arrest without warrant any person whom he reasonably believes —
 
-(2) Where any person is arrested by an employment inspector under this section, the employment inspector shall comply with sections 35 and 36 of the Criminal Procedure Code (Cap. 68) as if he were a police officer.
+(a) is employing a foreigner —
 
-[17
+(i) without a valid work pass; or
+
+(ii) otherwise than in accordance with the conditions of a work pass;
+
+(b) is a foreign employee or self-employed foreigner who is working without a valid work pass;
+
+(c) has obstructed an employment inspector who is discharging his duties under this Act;
+
+(d) has made any statement or furnished any information to the Controller or an employment inspector under this Act which is false in any material particular or is misleading by reason of the omission of any material particular;
+
+(e) has given, sold, forged or unlawfully altered a work pass;
+
+(f) has used or, without lawful authority, has possession of a forged or an unlawfully altered work pass, or a work pass which is issued to another person; or
+
+(g) has abetted any other person in any act referred to in paragraphs (a) to (f).
+
+(2) An employment inspector making an arrest without warrant shall, without unnecessary delay and subject to subsection (4), take or send the person arrested before a Magistrate’s Court.
+
+(3) No employment inspector shall detain in custody a person arrested without warrant for longer than is reasonable in the circumstances, and such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+
+(4) Any person who has been arrested by an employment inspector may be released on bail, or on his own bond, by an employment inspector.
+
+[30/2007 wef 01/07/2007]
+
+### Arrest how made
+
+21A\.—(1) In making an arrest, an employment inspector making the arrest shall touch or confine the body of the person to be arrested unless the person submits to arrest by word or action.
+
+(2) If the person forcibly resists or tries to evade arrest, the employment inspector may use all means necessary to effect the arrest.
+
+[30/2007 wef 01/07/2007]
+
+### No unnecessary restraint
+
+21B\.—(1) The person arrested shall not be subjected to more restraint than is necessary to prevent his escape.
+
+(2) An employment inspector may use handcuffs or any similar means of restraint on a person arrested to prevent him from —
+
+(a) inflicting any bodily injury to himself or others;
+
+(b) damaging any property;
+
+(c) creating any disturbance; or
+
+(d) escaping from custody.
+
+(3) The handcuffs or means of restraint shall not be used for the purpose of punishment.
+
+[30/2007 wef 01/07/2007]
+
+### Search of persons arrested
+
+21C\.—(1) When a person is arrested, the employment inspector making the arrest may search the person and take possession of all articles (other than necessary wearing apparel) found upon the person that the employment inspector has reason to believe were connected with the offence for which the person was being arrested.
+
+(2) Whenever it is necessary to cause a person to be searched, the search shall be made by an employment inspector of the same sex as the person, with strict regard to decency.
+
+[30/2007 wef 01/07/2007]
+
+### Employment inspector to be armed
+
+21D\. Every employment inspector shall be provided with such batons and accoutrements as may be necessary for the effective discharge of his duties.
+
+[30/2007 wef 01/07/2007]
+
+### Power to seize offensive weapons
+
+21E\. An employment inspector making any arrest may take from the person arrested any offensive weapons which he has about his person.
+
+[30/2007 wef 01/07/2007]
+
+### Power on escape to pursue and arrest
+
+21F\. If a person in lawful custody escapes or is rescued, the employment inspector from whose custody he escaped or was rescued may immediately pursue and arrest him in any place within Singapore and deal with that person as he might have done on the original arrest.
+
+[30/2007 wef 01/07/2007]
+
+### Disposal of documents or articles
+
+21G\.—(1) Any document or article produced, retained or requisitioned under section 16(1)(b), (c) or (g) or 21E shall —
+
+(a) where the document or article is produced in any criminal trial, be dealt with in accordance with section 386(1) of the Criminal Procedure Code (Cap. 68); or
+
+(b) in any other case —
+
+(i) be returned to the owner; or
+
+(ii) if the owner is not known, be reported to a Magistrate’s Court.
+
+(2) Where the report of any document or article produced, retained or requisitioned under section 16(1)(b), (c) or (g) or 21E is made to a Magistrate’s Court under subsection (1)(b)(ii), the Magistrate’s Court may order the document or article —
+
+(a) to be forfeited; or
+
+(b) to be disposed of in such manner as the Magistrate’s Court thinks fit.
+
+(3) Nothing in this section shall be taken to prejudice any right to retain or dispose of property which may exist in law apart from this section.
+
+[30/2007 wef 01/07/2007]
 
 ### Offences
 
 22\.—(1) Any person who —
 
-(a) fails to comply with any of the conditions of the work permit;
+(a) being an employer, a foreign employee or a self-employed foreigner to whom a work pass applies, contravenes any of the conditions of the work pass;
 
-(b) fails to comply with section 13(3);
+(b) contravenes section 13(4);
 
-(c) wilfully obstructs an employment inspector in the exercise of his powers under section 16; or
+(c) wilfully obstructs an employment inspector in the exercise of his powers under section 16, 21, 21A, 21B, 21C, 21E or 21F;
 
-(d) makes any statement or furnishes any information to the Controller or an employment inspector under this Act which is false in any material particular or is misleading by reason of the omission of any material particular,
+(d) makes any statement or furnishes any information to the Controller or an employment inspector under this Act which he knows or ought reasonably to know is false in any material particular or is misleading by reason of the omission of any material particular;
+
+(e) gives, sells, forges or unlawfully alters a work pass;
+
+(f) uses or, without lawful authority, has in his possession any forged or unlawfully altered work pass, or a work pass which is issued to another person; or
+
+(g) contravenes section 13(1), (2) or (3), 14 or 17(1) or (3),
+
+shall be guilty of an offence and shall be liable —
+
+(i) in the case of an offence under paragraph (a), (b) or (c), on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both;
+
+(ii) in the case of an offence under paragraph (d), (e) or (f), on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(iii) in the case of an offence under paragraph (g), on conviction to a fine not exceeding $5,000.
+
+(2) Any employer, foreign employee or self-employed foreigner who —
+
+(a) knows, or has reason to believe, that an offence has been committed under subsection (1)(d); and
+
+(b) intentionally omits to furnish any information to the Controller in respect of that offence,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(2) Any person who is guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $5,000.
-
-[18
+[30/2007 wef 01/07/2007]
 
 ### Abetment
 
@@ -530,7 +792,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [37/95]
 
-(2) Where an occupier is charged for abetting another person who has employed a foreign worker in contravention of section 5(1), it shall not be sufficient for the occupier to prove in his defence that he had instructed the other person not to, or obtained from the other person an undertaking that he would not, so employ a foreign worker.
+(2) Where an occupier is charged for abetting another person who has employed a foreign employee in contravention of section 5(1), it shall not be sufficient for the occupier to prove in his defence that he had instructed the other person not to, or obtained from the other person an undertaking that he would not, so employ a foreign employee.
 
 [19
 
@@ -542,33 +804,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [21
 
-### Person primarily liable may exempt himself from liability
-
-25\.—(1) Where a person is charged with an offence under this Act, he shall be entitled, upon a charge duly made by him and on giving to the prosecution not less than 3 days’ notice in writing of his intention, to have any other person whom he charges as the actual offender (whether or not that person is his agent or employee) brought before the court at the time appointed for hearing the charge.
-
-(1A) If, after the commission of the offence has been proved, the first-mentioned person proves to the satisfaction of the court —
-
-(a) that he has used all due diligence to enforce the execution of this Act and any relevant regulation or order made thereunder; and
-
-(b) that the second-mentioned person had committed the offence in question without his consent, connivance or wilful default,
-
-the first-mentioned person shall not be guilty of the offence and the second-mentioned person shall be convicted of the offence and shall, in the discretion of the court, be also liable to pay any costs incidental to the proceedings.
-
-(2) The prosecution shall have the right in any such case to cross-examine the first-mentioned person if he gives evidence and any witness called by him in support of his charge, and to call rebutting evidence.
-
-(3) Where the second-mentioned person brought before the court under subsection (1) by the first-mentioned person is found by the court to have committed the offence with the consent, connivance or wilful default of the first-mentioned person, the court may, after convicting the second-mentioned person, convict the first-mentioned person on a substituted charge of abetment of the offence.
-
-(4) When it is made to appear to the satisfaction of an employment inspector at the time of discovering an offence —
-
-(a) that the person who would be proceeded against apart from this subsection has used all due diligence to enforce the execution of this Act and any relevant regulation or order made thereunder;
-
-(b) by which person the offence has been committed; and
-
-(c) that it has been committed without the consent, connivance or wilful default of the first-mentioned person and in contravention of his orders,
-
-the employment inspector shall proceed against the person whom he believes to be the actual offender without first proceeding against the first-mentioned person.
-
-[22
+25\. [Repealed by Act 30/2007 wef 01/07/2007]
 
 ### Jurisdiction of Courts
 
@@ -576,7 +812,7 @@ the employment inspector shall proceed against the person whom he believes to be
 
 ### Composition of offences
 
-27\. The Controller may compound any offence under this Act or any regulations made thereunder by accepting from the person reasonably suspected of committing the offence a sum not exceeding $1,000 .
+27\. The Controller may compound any offence under this Act or any regulations made thereunder by accepting from the person reasonably suspected of committing the offence a sum not exceeding $2,000.
 
 [23
 
@@ -596,9 +832,33 @@ the employment inspector shall proceed against the person whom he believes to be
 
 (b) prescribe such fees or charges as may be necessary for the purposes of this Act ;
 
-(c) provide for the taking and recording of finger impressions of any person who applies for or has been issued with a work permit and for the dissemination of such records to the police.
+(c) prescribe the categories of work passes, the period for which any work pass may be issued, renewed or reinstated, the criteria for the issuance, renewal or reinstatement of any work pass and any condition subject to which a work pass may be issued, renewed or reinstated;
 
-[39/98 wef 15/02/1999]
+[30/2007 wef 01/07/2007]
+
+(d) provide for the taking and recording of any personal identifier of any person —
+
+(i) who applies for or has been issued with a work pass; or
+
+(ii) who is suspected of committing an offence under this Act;
+
+[30/2007 wef 01/07/2007]
+
+(e) provide for the use of any mechanical, electrical or other form of device or system for the taking or recording of all or any of the personal identifiers;
+
+[30/2007 wef 01/07/2007]
+
+(f) provide for the collation of any personal identifier taken or recorded pursuant to regulations made under paragraph (d) and the dissemination thereof to the police and to any other law enforcement agency authorised by the Controller to receive it;
+
+[30/2007 wef 01/07/2007]
+
+(g) provide for any matter relating to the release of any arrested person on any bail or bond under section 21(4);
+
+[30/2007 wef 01/07/2007]
+
+(h) provide for any matter relating to the security to be given by or in respect of any foreigner issued with a work pass, including any condition subject to which the security may be forfeited.
+
+[30/2007 wef 01/07/2007]
 
 (3) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -611,6 +871,20 @@ the employment inspector shall proceed against the person whom he believes to be
 (2) Any form used for the purposes of the repealed Regulation of Employment Act which was in force or had effect immediately before 1st January 1991 shall continue in force and have effect as though prescribed under this Act until new forms are prescribed.
 
 [27
+
+## THE SCHEDULE
+
+Section 2A
+
+Personal Identifiers
+
+1\. Fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies).
+
+2\. A photograph or other image of a person’s face and shoulders.
+
+3. A person’s signature.
+
+[30/2007 wef 01/07/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -649,3 +923,8 @@ This Legislative History is provided for the convenience of users of the Employm
 
 |
 (section 7 — Amendment of Employment of Foreign Workers Act)|
+|7.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
