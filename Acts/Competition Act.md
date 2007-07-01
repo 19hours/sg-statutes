@@ -138,23 +138,33 @@
 
 [**Division 4  Mergers**](#Division-4--Mergers)
 
-- [54 (Repealed)](#Repealed)
+- [54 Mergers](#Mergers)
 
-- [55 (Repealed)](#Repealed)
+- [55 Excluded mergers](#Excluded-mergers)
 
-- [56 (Repealed)](#Repealed)
+- [56 Requests for Commission to consider anticipated mergers and mergers](#Requests-for-Commission-to-consider-anticipated-mergers-and-mergers)
 
-- [57 (Repealed)](#Repealed)
+- [57 Notification of anticipated merger](#Notification-of-anticipated-merger)
 
-- [58 (Repealed)](#Repealed)
+- [58 Notification of merger](#Notification-of-merger)
 
-- [59 (Repealed)](#Repealed)
+- [58A Interim measures in relation to notifications of anticipated mergers and mergers](#Interim-measures-in-relation-to-notifications-of-anticipated-mergers-and-mergers)
 
-- [60 (Repealed)](#Repealed)
+- [59 Effect of decision that anticipated merger, if carried into effect, will not infringe section 54 prohibition](#Effect-of-decision-that-anticipated-merger-if-carried-into-effect-will-not-infringe-section-54-prohibition)
+
+- [60 Effect of decision that merger has not infringed section 54 prohibition](#Effect-of-decision-that-merger-has-not-infringed-section-54-prohibition)
+
+[**Division 4A  Commitments**](#Division-4A--Commitments)
+
+- [60A Commitments](#Commitments)
+
+- [60B Effect of commitments](#Effect-of-commitments)
 
 [**Division 5  Enforcement**](#Division-5--Enforcement)
 
 - [61 Guidelines on enforcement of Part](#Guidelines-on-enforcement-of-Part)
+
+- [61A Power to require documents or information](#Power-to-require-documents-or-information)
 
 - [62 Power to investigate](#Power-to-investigate)
 
@@ -212,7 +222,7 @@
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [85 Enforcement of directions of Commission in District Court](#Enforcement-of-directions-of-Commission-in-District-Court)
+- [85 Enforcement of directions of Commission and commitments in District Court](#Enforcement-of-directions-of-Commission-and-commitments-in-District-Court)
 
 - [86 Rights of private action](#Rights-of-private-action)
 
@@ -240,7 +250,7 @@
 
 [**THIRD SCHEDULE Exclusions from Section 34 Prohibition and Section 47 Prohibition**](#THIRD-SCHEDULE-Exclusions-from-Section-34-Prohibition-and-Section-47-Prohibition)
 
-[**FOURTH SCHEDULE**](#FOURTH-SCHEDULE)
+[**FOURTH SCHEDULE Exclusions from Section 54 Prohibition**](#FOURTH-SCHEDULE-Exclusions-from-Section-54-Prohibition)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -280,6 +290,10 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“anticipated merger” means an arrangement that is in progress or contemplation and that, if carried into effect, will result in the occurrence of a merger referred to in section 54(2);
+
+[23/2007 wef 01/07/2007]
+
 “block exemption” has the meaning assigned to it in section 36(5);
 
 “block exemption order” has the meaning assigned to it in section 36(3);
@@ -314,9 +328,13 @@ PRELIMINARY
 
 “member” means a member of the Commission;
 
-“merger” means the acquisition or establishment, direct or indirect, by one or more persons or undertakings, whether by purchase or lease of shares or assets, by amalgamation or by combination or otherwise, of control over the whole or a part of a business of a competitor, supplier, customer or other undertaking;
+“party involved in a merger” means a person or an undertaking specified in section 54(2) and includes the merged entity;
 
-“party involved in a merger” includes the merged entity;
+[23/2007 wef 01/07/2007]
+
+“party to an anticipated merger” means a person or an undertaking which would be a person or an undertaking specified in section 54(2) if the anticipated merger were carried into effect;
+
+[23/2007 wef 01/07/2007]
 
 “person” includes any undertaking;
 
@@ -328,7 +346,7 @@ PRELIMINARY
 
 but includes any vehicle;
 
-“public interest consideration” means national or public security, defence and such other considerations as the Minister may, by order published in the Gazette, prescribe;
+“public interest consideration” means national or public security, defence and such other considerations as the Minister may, by order published in theGazette, prescribe;
 
 “section 34 prohibition” means the prohibition referred to in section 34(1);
 
@@ -684,13 +702,27 @@ General
 
 (c) any undertaking abusing the dominant position referred to in section 47 is outside Singapore;
 
-(d) a merger referred to in section 54 has taken place outside Singapore;
+(d) an anticipated merger will be carried into effect outside Singapore;
 
-(e) any party to such merger is outside Singapore; or
+(e) a merger referred to in section 54 has taken place outside Singapore;
 
-(f) any other matter, practice or action arising out of such agreement, dominant position or merger is outside Singapore,
+(f) any party to an anticipated merger or any party involved in a merger is outside Singapore; or
 
-this Part shall apply to such party, agreement, abuse of dominant position or merger if such agreement, abuse or merger infringes or has infringed any prohibition in this Part.
+(g) any other matter, practice or action arising out of such agreement, such dominant position, an anticipated merger or a merger is outside Singapore,
+
+this Part shall apply to such party, agreement, abuse of dominant position, anticipated merger or merger if —
+
+(i) such agreement infringes or has infringed the section 34 prohibition;
+
+(ii) such abuse infringes or has infringed the section 47 prohibition;
+
+(iii) such anticipated merger, if carried into effect, will infringe the section 54 prohibition; or
+
+(iv) such merger infringes or has infringed the section 54 prohibition,
+
+as the case may be.
+
+[23/2007 wef 01/07/2007]
 
 (2) In so far as this Part applies to an industry or a sector of industry that is subject to the regulation and control of another regulatory authority —
 
@@ -932,7 +964,7 @@ but which does not —
 
 (b) the agreement is likely to be exempt under a block exemption.
 
-(2) The Commission shall take no further action under this Part with respect to an agreement to which this section applies, unless —
+(2) The Commission shall take no further action in relation to the section 34 prohibition with respect to an agreement to which this section applies, unless —
 
 (a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its guidance;
 
@@ -966,7 +998,7 @@ was incomplete, false or misleading in a material particular, the date specified
 
 46\.—(1) This section shall apply to an agreement if the Commission has determined an application under section 44 by making a decision that the agreement has not infringed the section 34 prohibition.
 
-(2) The Commission shall take no further action under this Part with respect to the agreement unless —
+(2) The Commission shall take no further action in relation to the section 34 prohibition with respect to the agreement unless —
 
 (a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its decision; or
 
@@ -1064,7 +1096,7 @@ Abuse of dominant position
 
 52\.—(1) This section shall apply to conduct if the Commission has determined an application under section 50 by giving guidance that the conduct is unlikely to infringe the section 47 prohibition.
 
-(2) The Commission shall take no further action under this Part with respect to the conduct to which this section applies, unless —
+(2) The Commission shall take no further action in relation to the section 47 prohibition with respect to the conduct to which this section applies, unless —
 
 (a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its guidance;
 
@@ -1096,7 +1128,7 @@ was incomplete, false or misleading in a material particular, the date specified
 
 53\.—(1) This section shall apply to conduct if the Commission has determined an application under section 51 by making a decision that the conduct has not infringed the section 47 prohibition.
 
-(2) The Commission shall take no further action under this Part with respect to the conduct unless —
+(2) The Commission shall take no further action in relation to the section 47 prohibition with respect to the conduct unless —
 
 (a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its decision; or
 
@@ -1124,23 +1156,345 @@ was incomplete, false or misleading in a material particular, the date specified
 
 Division 4 —
 
-Mergers3
+Mergers
 
-3Division 4 of Part III of this Act (sections 54 to 60) was not in operation at the time of this Revised Edition
+### Mergers
 
-54\. [Repealed by Act 23/2007 wef 30/06/2007]
+54\.—(1) Subject to section 55, mergers that have resulted, or may be expected to result, in a substantial lessening of competition within any market in Singapore for goods or services are prohibited.
 
-55\. [Repealed by Act 23/2007 wef 30/06/2007]
+(2) For the purposes of this Part, a merger occurs if —
 
-56\. [Repealed by Act 23/2007 wef 30/06/2007]
+(a) 2 or more undertakings, previously independent of one another, merge;
 
-57\. [Repealed by Act 23/2007 wef 30/06/2007]
+(b) one or more persons or other undertakings acquire direct or indirect control of the whole or part of one or more other undertakings; or
 
-58\. [Repealed by Act 23/2007 wef 30/06/2007]
+(c) the result of an acquisition by one undertaking (the first undertaking) of the assets (including goodwill), or a substantial part of the assets, of another undertaking (the second undertaking) is to place the first undertaking in a position to replace or substantially replace the second undertaking in the business or, as appropriate, the part concerned of the business in which that undertaking was engaged immediately before the acquisition.
 
-59\. [Repealed by Act 23/2007 wef 30/06/2007]
+(3) For the purposes of this Part, control, in relation to an undertaking, shall be regarded as existing if, by reason of rights, contracts or any other means, or any combination of rights, contracts or other means, decisive influence is capable of being exercised with regard to the activities of the undertaking and, in particular, by —
 
-60\. [Repealed by Act 23/2007 wef 30/06/2007]
+(a) ownership of, or the right to use all or part of, the assets of an undertaking; or
+
+(b) rights or contracts which enable decisive influence to be exercised with regard to the composition, voting or decisions of the organs of an undertaking.
+
+(4) For the purposes of this Part, control is acquired by any person or other undertaking if he or it —
+
+(a) becomes a holder of the rights or contracts, or entitled to use the other means, referred to in subsection (3); or
+
+(b) although not becoming such a holder or entitled to use those other means, acquires the power to exercise the rights derived therefrom.
+
+(5) The creation of a joint venture to perform, on a lasting basis, all the functions of an autonomous economic entity shall constitute a merger falling within subsection (2)(b).
+
+(6) In determining whether influence of the kind referred to in subsection (3) is capable of being exercised, regard shall be had to all the circumstances of the matter and not solely to the legal effect of any instrument, deed, transfer, assignment or other act done or made.
+
+(7) For the purposes of this Part, a merger shall not be deemed to occur if —
+
+(a) the person acquiring control is a receiver or liquidator acting as such or is an underwriter acting as such;
+
+(b) all of the undertakings involved in the merger are, directly or indirectly, under the control of the same undertaking;
+
+(c) control is acquired solely as a result of a testamentary disposition, intestacy or the right of survivorship under a joint tenancy; or
+
+(d) control is acquired by an undertaking referred to in subsection (8) in the circumstances specified in subsection (9).
+
+(8) The undertaking referred to in subsection (7)(d) is an undertaking the normal activities of which include the carrying out of transactions and dealings in securities for its own account or for the account of others.
+
+(9) The circumstances referred to in subsection (7)(d) are that —
+
+(a) the control concerned is constituted by the undertaking’s holding, on a temporary basis, securities acquired in another undertaking; and
+
+(b) any exercise by the undertaking of voting rights in respect of those securities, whilst that control subsists —
+
+(i) is for the purpose of arranging for the disposal, within the specified period, of all or part of the other undertaking or its assets or securities; and
+
+(ii) is not for the purpose of determining the manner in which any activity of the other undertaking, being an activity that could affect competition in markets for goods or services in Singapore, is carried on.
+
+(10) In subsection (9), “specified period” means —
+
+(a) the period of 12 months from the date on which control of the other undertaking was acquired; or
+
+(b) if in a particular case the undertaking shows that it is not reasonably possible to effect the disposal concerned within the period referred to in paragraph (a), within such longer period as the Commission determines and specifies with respect to that case.
+
+[23/2007 wef 01/07/2007]
+
+### Excluded mergers
+
+55\. The section 54 prohibition shall not apply to any merger specified in the Fourth Schedule.
+
+[23/2007 wef 01/07/2007]
+
+### Requests for Commission to consider anticipated mergers and mergers
+
+56\.—(1) Section 57 provides for an anticipated merger to be considered by the Commission on the application of a party to that anticipated merger who thinks the anticipated merger, if carried into effect, may infringe the section 54 prohibition.
+
+(2) Section 58 provides for a merger to be considered by the Commission on the application of a party involved in that merger who thinks the merger may infringe the section 54 prohibition.
+
+(3) The Minister may by regulations provide —
+
+(a) that only such anticipated mergers as are prescribed may be notified to the Commission under section 57; and
+
+(b) for the procedure to be followed —
+
+(i) by any party making an application under section 57 or 58; and
+
+(ii) by the Commission, in considering such an application.
+
+[23/2007 wef 01/07/2007]
+
+### Notification of anticipated merger
+
+57\.—(1) A party to an anticipated merger of the relevant type which applies for the anticipated merger to be considered under this section shall —
+
+(a) notify the Commission of the anticipated merger; and
+
+(b) apply to it for a decision.
+
+(2) Subject to subsections (3) and (5) and sections 60A and 60B, on an application under this section, the Commission may make a decision as to —
+
+(a) whether the section 54 prohibition will be infringed by the anticipated merger, if carried into effect; and
+
+(b) if it will not be infringed, whether it is —
+
+(i) because of the effect of an exclusion which will apply if the anticipated merger is carried into effect;
+
+(ii) because the anticipated merger, if carried into effect, is exempted from the application of the prohibition under subsection (3); or
+
+(iii) because a commitment has been accepted pursuant to section 60A.
+
+(3) Where the Commission proposes to make a decision that the section 54 prohibition will be infringed by an anticipated merger, if carried into effect, the Commission shall give written notice to the party who applied for a decision on the anticipated merger and the party may, within 14 days of the date of the notice, apply to the Minister for the anticipated merger, if carried into effect, to be exempted from the section 54 prohibition on the ground of any public interest consideration.
+
+(4) The decision of the Minister made under subsection (3) shall be final.
+
+(5) Where the Minister exempts an anticipated merger under subsection (3), the Commission may make a decision under subsection (2)(b)(ii).
+
+(6) The Minister may revoke the exemption of an anticipated merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
+
+(7) Subject to subsection (8), where the Commission makes a decision that an anticipated merger, if carried into effect, will not infringe the section 54 prohibition, the Commission may, if it thinks fit, state that the decision shall be valid only for the period it specifies therein.
+
+(8) Before the expiry of the period referred to in subsection (7), if any, an application may be made by all parties to the anticipated merger who applied to the Commission for a decision on the anticipated merger under this section for that period to be extended.
+
+(9) Where an application for an anticipated merger to be considered has been made to the Commission in accordance with subsection (1) and the anticipated merger is carried into effect before the Commission makes a decision under subsection (2) in respect thereof, the application relating to the anticipated merger —
+
+(a) may be treated by the Commission as if it were an application for the resulting merger to be considered made in accordance with section 58; and
+
+(b) the Commission may make a decision under section 58 in respect of the resulting merger.
+
+(10) For the purpose of subsection (9), the Commission may make a decision under section 58(2)(b)(ii) (read with section 58(5)) in respect of the merger referred to in subsection (9), notwithstanding the exemption was granted by the Minister under subsection (3) in respect of the anticipated merger.
+
+(11) Notwithstanding subsection (9), the Commission may refuse to make any decision in respect of a merger referred to therein and require any party involved in the merger to apply to the Commission for the merger to be considered under section 58(1).
+
+(12) In this section, “an anticipated merger of the relevant type” means an anticipated merger of the type prescribed by regulations made under section 56(3)(a).
+
+[23/2007 wef 01/07/2007]
+
+### Notification of merger
+
+58\.—(1) A party involved in a merger which applies for the merger to be considered under this section shall —
+
+(a) notify the Commission of the merger; and
+
+(b) apply to it for a decision.
+
+(2) Subject to subsections (3) and (5) and sections 60A and 60B, on an application under this section, the Commission may make a decision as to —
+
+(a) whether the section 54 prohibition has been infringed; and
+
+(b) if it has not been infringed, whether that is —
+
+(i) because of the effect of an exclusion;
+
+(ii) because the merger is exempted from the prohibition under subsection (3); or
+
+(iii) because a commitment has been accepted pursuant to section 60A.
+
+(3) Where the Commission proposes to make a decision that the section 54 prohibition has been infringed, the Commission shall give written notice to —
+
+(a) the party who applied for a decision on the merger; or
+
+(b) in a case where section 57(9) applies, the party who applied for a decision on the anticipated merger (which was carried into effect) or, where that party no longer exists, the merged entity,
+
+and the party or merged entity so notified by the Commission may, within 14 days of the date of the notice, apply to the Minister for the merger to be exempted from the section 54 prohibition on the ground of any public interest consideration.
+
+(4) The decision of the Minister made under subsection (3) shall be final.
+
+(5) Where the Minister exempts a merger under subsection (3), the Commission may make a decision under subsection (2)(b)(ii).
+
+(6) The Minister may revoke the exemption of a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
+
+(7) A reference in any provision of this Act to an application or a notification under section 58 shall include a reference to an application or a notification under section 57 that the Commission treats as an application or a notification under section 58 pursuant to section 57(9).
+
+[23/2007 wef 01/07/2007]
+
+### Interim measures in relation to notifications of anticipated mergers and mergers
+
+58A\.—(1) If, in respect of an application under section 57 or 58, the Commission has reasonable grounds for suspecting that —
+
+(a) the section 54 prohibition will be infringed by an anticipated merger, if carried into effect; or
+
+(b) the section 54 prohibition has been infringed by a merger,
+
+but has not completed its consideration of the matter, and the Commission considers that it is necessary for it to act under this section —
+
+(i) for the purpose of preventing any action that may prejudice —
+
+(A) the consideration of the anticipated merger or merger; or
+
+(B) the giving of any direction under section 69; or
+
+(ii) as a matter of urgency for the purpose —
+
+(A) of preventing serious, irreparable damage to a particular person or category of persons; or
+
+(B) of protecting the public interest,
+
+the Commission may give such directions as it considers appropriate for that purpose.
+
+(2) Before giving a direction under this section, the Commission shall —
+
+(a) give written notice to the person to whom it proposes to give the direction; and
+
+(b) give that person an opportunity to make representations.
+
+(3) A notice under subsection (2) shall indicate the nature of the direction which the Commission is proposing to give and its reasons for wishing to give it.
+
+(4) A direction given under this section shall have effect while subsection (1) applies, but may be replaced if the circumstances permit by a direction under section 69.
+
+(5) Sections 69(2)(ba)(i) and (c)(i) and 85 shall also apply to directions given under this section.
+
+[23/2007 wef 01/07/2007]
+
+### Effect of decision that anticipated merger, if carried into effect, will not infringe section 54 prohibition
+
+59\.—(1) This section shall apply to an anticipated merger in respect of which the Commission has determined an application under section 57 by making a decision that the anticipated merger, if carried into effect, will not infringe the section 54 prohibition.
+
+(2) The Commission shall take no further action in relation to the section 54 prohibition with respect to the anticipated merger (including where the anticipated merger is carried into effect, or if the Commission’s decision is valid for a specified period, where the anticipated merger is carried into effect within that period) unless —
+
+(a) it has reasonable grounds for suspecting that any information on which it based its decision (which may include information on the basis of which it accepted a commitment) was incomplete, false or misleading in a material particular; or
+
+(b) it has reasonable grounds for suspecting that a party who provided a commitment has failed to adhere to one or more of the terms of the commitment.
+
+(3) Action that may be taken in respect of the circumstances referred to in subsection (2) may include the revocation of the decision that the anticipated merger, if carried into effect, will not infringe the section 54 prohibition.
+
+(4) No penalty may be imposed under this Part in respect of any infringement of the section 54 prohibition by the anticipated merger to which this section applies, if carried into effect or, where the Commission’s decision is valid for a specified period, if carried into effect within that period.
+
+(5) The Commission may remove the immunity given by subsection (4) if —
+
+(a) it takes action under this Part with respect to one of the circumstances referred to in subsection (2);
+
+(b) it considers that it is likely that the anticipated merger, if carried into effect, or the resulting merger will infringe the section 54 prohibition; and
+
+(c) it gives notice in writing to the party on whose application the decision was made that it is removing the immunity as from the date specified in its notice.
+
+(6) If the Commission has reasonable grounds for suspecting that —
+
+(a) any information on which it based its decision (which may include information on the basis of which it accepted a commitment), and which was provided to it by a party to the anticipated merger, was incomplete, false or misleading in a material particular; or
+
+(b) a party who provided a commitment has failed to adhere to one or more of the terms of the commitment,
+
+the date specified in a notice under subsection (5)(c) may be earlier than the date on which the notice is given.
+
+(7) Where —
+
+(a) the Commission has made a decision that an anticipated merger, if carried into effect, will not infringe the section 54 prohibition; and
+
+(b) the merger resulting from a purported carrying into effect of the anticipated merger is materially different from the anticipated merger,
+
+nothing in this section shall prevent the Commission from taking any action in relation to the section 54 prohibition in respect of the merger.
+
+[23/2007 wef 01/07/2007]
+
+### Effect of decision that merger has not infringed section 54 prohibition
+
+60\.—(1) This section shall apply to a merger if the Commission has determined an application under section 58 by making a decision that the merger has not infringed the section 54 prohibition.
+
+(2) The Commission shall take no further action in relation to the section 54 prohibition with respect to the merger unless —
+
+(a) it has reasonable grounds for suspecting that any information on which it based its decision (which may include information on the basis of which it accepted a commitment) was incomplete, false or misleading in a material particular; or
+
+(b) it has reasonable grounds for suspecting that a party who provided a commitment has failed to adhere to one or more of the terms of the commitment.
+
+(3) Action that may be taken in respect of the circumstances referred to in subsection (2) may include the revocation of the decision that the merger has not infringed the section 54 prohibition.
+
+(4) No penalty may be imposed under this Part in respect of any infringement of the section 54 prohibition by a merger to which this section applies.
+
+(5) The Commission may remove the immunity given by subsection (4) if —
+
+(a) it takes action under this Part with respect to the merger in one of the circumstances mentioned in subsection (2);
+
+(b) it considers that it is likely that the merger will infringe the section 54 prohibition; and
+
+(c) it gives notice in writing to —
+
+(i) the party on whose application the decision was made; or
+
+(ii) in a case where section 57(9) applies, the party who applied for a decision on the anticipated merger (which was carried into effect) or, where that party no longer exists, the merged entity,
+
+that it is removing the immunity as from the date specified in its notice.
+
+(6) If the Commission has reasonable grounds for suspecting that —
+
+(a) any information on which it based its decision (which may include information on the basis of which it accepted a commitment), and which was provided to it by a party involved in the merger, was incomplete, false or misleading in a material particular; or
+
+(b) a party who provided a commitment has failed to adhere to one or more of the terms of the commitment,
+
+the date specified in a notice under subsection (5)(c) may be earlier than the date on which the notice is given.
+
+[23/2007 wef 01/07/2007]
+
+Division 4A —
+
+Commitments
+
+### Commitments
+
+60A\.—(1) The Commission may, at any time before making a decision pursuant to an application under section 57 or 58 or an investigation under section 62(1)(c) or (d) as to whether —
+
+(a) the section 54 prohibition will be infringed by an anticipated merger, if carried into effect; or
+
+(b) the section 54 prohibition has been infringed by a merger,
+
+accept from such person as it thinks appropriate, a commitment to take or refrain from taking such action as it considers appropriate for the purpose of remedying, mitigating or preventing the substantial lessening of competition or any adverse effect which —
+
+(i) may be expected to result from the anticipated merger, if carried into effect; or
+
+(ii) has resulted or may be expected to result from the merger.
+
+(2) A commitment shall come into force on the date specified by the Commission when it is accepted.
+
+(3) The Commission may, at any time when a commitment is in force, accept —
+
+(a) a variation of the commitment; or
+
+(b) another commitment in substitution,
+
+for the purpose referred to in subsection (1).
+
+(4) A commitment may be released by the Commission where it has reasonable grounds for believing that the commitment is no longer necessary or appropriate for the purpose referred to in subsection (1).
+
+(5) Before accepting, varying, substituting or releasing a commitment, the Commission shall, except in exceptional circumstances, consult with such person as it thinks appropriate.
+
+[23/2007 wef 01/07/2007]
+
+### Effect of commitments
+
+60B\.—(1) Where the Commission has accepted a commitment under section 60A, and subject to subsection (2), the Commission shall make a decision that —
+
+(a) the section 54 prohibition will not be infringed by an anticipated merger, if carried into effect; or
+
+(b) the section 54 prohibition has not been infringed by a merger,
+
+as the case may be.
+
+(2) Nothing in subsection (1) shall prevent the Commission from revoking the decision already made, commencing or continuing any investigation, or making a decision or giving a direction, where —
+
+(a) it has reasonable grounds for suspecting that any information on the basis of which it accepted a commitment was incomplete, false or misleading in a material particular; or
+
+(b) it has reasonable grounds for suspecting that a party who provided a commitment has failed to adhere to one or more of the terms of the commitment.
+
+(3) If the Commission revokes a decision referred to in subsection (1), the commitment shall be treated, unless otherwise stated, as released from the date of that revocation.
+
+(4) The Commission may review the effectiveness of commitments it has accepted under section 60A in such circumstances as it considers appropriate.
+
+[23/2007 wef 01/07/2007]
 
 Division 5 —
 
@@ -1158,9 +1512,77 @@ Enforcement
 
 [UK Competition 1998, s. 52 (6)]
 
+### Power to require documents or information
+
+61A\.—(1) Where the Commission —
+
+(a) has reasonable grounds for suspecting that any feature, or combination of features, of a market in Singapore for goods or services prevents, restricts or distorts competition in connection with the supply or acquisition of any goods or services in Singapore; or
+
+(b) in considering an application for decision filed pursuant to section 44, 51, 57 or 58, has reasonable grounds for suspecting that —
+
+(i) the section 34 prohibition has been infringed by any agreement;
+
+(ii) the section 47 prohibition has been infringed by any conduct;
+
+(iii) the section 54 prohibition will be infringed by any anticipated merger, if carried into effect; or
+
+(iv) the section 54 prohibition has been infringed by any merger,
+
+the Commission may, by notice in writing to any person, require the person to produce to the Commission a specified document, or to provide the Commission with specified information, which the Commission considers relates to any matter relevant to such purposes.
+
+(2) A notice under subsection (1) shall indicate —
+
+(a) the purpose for which the specified document or specified information is required by the Commission; and
+
+(b) the nature of the offences created by sections 75 to 78.
+
+(3) The Commission may specify in the notice —
+
+(a) the time and place at which any document is to be produced or any information is to be provided; and
+
+(b) the manner and form in which it is to be produced or provided.
+
+(4) The power under this section to require a person to produce a document includes the power —
+
+(a) if the document is produced —
+
+(i) to take copies of it or extracts from it; and
+
+(ii) to require such person, or any person who is a present or past officer of his, or is or was at any time employed by him, to provide an explanation of the document; or
+
+(b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
+
+(5) For the purposes of subsection (1)(a), any reference to a feature of a market in Singapore for goods or services shall be construed as a reference to —
+
+(a) the structure of the market concerned or any aspect of that structure;
+
+(b) any conduct (whether or not in the market concerned) of one or more than one person who supplies or acquires goods or services in the market concerned; or
+
+(c) any conduct relating to the market concerned of customers of any person who supplies or acquires goods or services,
+
+and, in this subsection, “conduct” includes any failure to act (whether or not intentional) and any other unintentional conduct.
+
+(6) In subsections (1) and (2), “specified” means —
+
+(a) specified or described in the notice; or
+
+(b) falling within a category which is specified or described in the notice.
+
+[23/2007 wef 01/07/2007]
+
 ### Power to investigate
 
-62\.—(1) The Commission may conduct an investigation if there are reasonable grounds for suspecting that the section 34 prohibition, the section 47 prohibition or the section 54 prohibition has been infringed.
+62\.—(1) The Commission may conduct an investigation if there are reasonable grounds for suspecting that —
+
+(a) the section 34 prohibition has been infringed by any agreement;
+
+(b) the section 47 prohibition has been infringed by any conduct;
+
+(c) the section 54 prohibition will be infringed by any anticipated merger, if carried into effect; or
+
+(d) the section 54 prohibition has been infringed by any merger.
+
+[23/2007 wef 01/07/2007]
 
 (2) For the purpose of subsection (1), the Commission may appoint an inspector to conduct the investigation.
 
@@ -1202,9 +1624,17 @@ Enforcement
 
 ### Power to enter premises without warrant
 
-64\.—(1) Any officer of the Commission who is authorised by the Commission to do so (an investigating officer) and any inspector may enter any premises in connection with an investigation under section 62.
+64\.—(1) In connection with an investigation under section 62 —
 
-(2) No investigating officer or inspector shall enter any premises in the exercise of his powers under this section unless he has given the occupier of the premises a written notice which —
+(a) any officer of the Commission who is authorised by the Commission to do so (an investigating officer) and such other officers or persons as the Commission has authorised in writing to accompany the investigating officer (authorised person); and
+
+(b) any inspector and such other person as the inspector may require,
+
+may enter any premises.
+
+[23/2007 wef 01/07/2007]
+
+(2) No investigating officer or inspector, and no authorised person or person required by the inspector respectively, shall enter any premises in the exercise of the powers under this section unless the investigating officer or the inspector, as the case may be, has given the occupier of the premises a written notice which —
 
 (a) gives at least 2 working days’ notice of the intended entry;
 
@@ -1220,25 +1650,29 @@ Enforcement
 
 (ii) conduct referred to in section 47; or
 
-(iii) a merger referred to in section 54; or
+(iii) an anticipated merger, or a merger referred to in section 54; or
 
 (b) if the investigating officer or inspector has taken all such steps as are reasonably practicable to give notice but has not been able to do so.
 
 (4) Where subsection (3) applies, the power of entry conferred by subsection (1) shall be exercised —
 
-(a) in the case of an investigating officer , upon production of —
+(a) in the case of an investigating officer and any authorised person, upon production of —
 
-(i) evidence of his authorisation; and
+(i) evidence of the investigating officer’s authorisation and the authorisation of every authorised person accompanying him; and
+
+[23/2007 wef 01/07/2007]
 
 (ii) a document containing the information referred to in subsection (2)(b) and (c); and
 
-(b) in the case of an inspector , upon production of —
+(b) in the case of an inspector and any person required by him, upon production of —
 
-(i) evidence of his appointment as an inspector; and
+(i) evidence of the inspector’s appointment; and
+
+[23/2007 wef 01/07/2007]
 
 (ii) a document containing the information referred to in subsection (2)(b) and (c).
 
-(5) An investigating officer or inspector entering any premises under this section may —
+(5) An investigating officer, an authorised person, an inspector or a person required by the inspector entering any premises under this section may —
 
 (a) take with him such equipment as appears to him to be necessary;
 
@@ -1252,7 +1686,7 @@ Enforcement
 
 (d) take copies of, or extracts from, any document which is produced;
 
-(e) require any information which is stored in any electronic form and is accessible from the premises and which the investigating officer or inspector considers relates to any matter relevant to the investigation, to be produced in a form —
+(e) require any information which is stored in any electronic form and is accessible from the premises and which he considers relates to any matter relevant to the investigation, to be produced in a form —
 
 (i) in which it can be taken away; and
 
@@ -1280,7 +1714,7 @@ Enforcement
 
 (ii) if the documents were required to be produced, they would not be produced but would be concealed, removed, tampered with or destroyed; or
 
-(c) an investigating officer or inspector has attempted to enter the premises in the exercise of his powers under section 64 but has been unable to do so and that there are reasonable grounds for suspecting that there are on the premises documents the production of which could have been required under that section.
+(c) an investigating officer, an authorised person, an inspector or a person required by the inspector has attempted to enter the premises in the exercise of his powers under section 64 but has been unable to do so and that there are reasonable grounds for suspecting that there are on the premises documents the production of which could have been required under that section.
 
 (2) A warrant under this section shall authorise a named officer, and —
 
@@ -1306,7 +1740,7 @@ to do all or any of the following:
 
 (vi) to require any person to provide an explanation of any document appearing to be of the relevant kind or to state, to the best of his knowledge and belief, where it may be found;
 
-(vii) to require any information which is stored in any electronic form and is accessible from the premises and which the named officer considers relates to any matter relevant to the investigation, to be produced in a form —
+(vii) to require any information which is stored in any electronic form and is accessible from the premises and which he considers relates to any matter relevant to the investigation, to be produced in a form —
 
 (A) in which it can be taken away; and
 
@@ -1318,7 +1752,9 @@ to do all or any of the following:
 
 (4) Where possession of any document is taken under subsection (2)(iv) or (3), the named officer may, at the request of the person from whom possession of the document was taken, provide such person with a copy of the document.
 
-(5) A named officer may, instead of removing from any premises for examination any equipment or article which has a bearing on the investigation under subsection (2)(viii), allow the equipment or article to be retained on those premises subject to such conditions as the named officer may impose.
+(5) A named officer may allow any equipment or article which has a bearing on an investigation and which may be removed from any premises for examination under subsection (2)(viii) to be retained on those premises subject to such conditions as the named officer may require.
+
+[23/2007 wef 01/07/2007]
 
 (6) Any person who fails to comply with any condition imposed under subsection (5) shall be guilty of an offence.
 
@@ -1362,9 +1798,9 @@ as the case may be;
 
 ### Self-incrimination and savings for professional legal advisers
 
-66\.—(1) A person is not excused from disclosing any information or document to the Commission or, as the case may be, to an inspector or investigating officer, under a requirement made of him under any provision of this Act on the ground that the disclosure of the information or document might tend to incriminate him.
+66\.—(1) A person is not excused from disclosing any information or document to the Commission or, as the case may be, to an investigating officer, such officer or person as the Commission has authorised in writing to accompany the investigating officer, an inspector or a person required by the inspector, under a requirement made of him under any provision of this Act on the ground that the disclosure of the information or document might tend to incriminate him.
 
-(2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Act to the Commission or, as the case may be, to an inspector or investigating officer, that the statement might tend to incriminate him, that statement —
+(2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Act to the Commission or, as the case may be, to an investigating officer, such officer or person as the Commission has authorised in writing to accompany the investigating officer, an inspector or a person required by the inspector, that the statement might tend to incriminate him, that statement —
 
 (a) shall not be admissible in evidence against him in criminal proceedings other than proceedings under Part V; but
 
@@ -1386,7 +1822,9 @@ as the case may be;
 
 67\.—(1) If the Commission —
 
-(a) has reasonable grounds for suspecting that the section 34 prohibition, the section 47 prohibition or the section 54 prohibition has been infringed but has not completed its investigations into the matter; and
+(a) has reasonable grounds for suspecting that the section 34 prohibition or the section 47 prohibition has been infringed but has not completed its investigations into the matter; and
+
+[23/2007 wef 01/07/2007]
 
 (b) considers that it is necessary for it to act under this section as a matter of urgency for the purpose —
 
@@ -1396,6 +1834,30 @@ as the case may be;
 
 the Commission may give such directions as it considers appropriate for that purpose.
 
+(1A) If the Commission has reasonable grounds for suspecting that the section 54 prohibition —
+
+(a) will be infringed by an anticipated merger, if carried into effect; or
+
+(b) has been infringed by a merger,
+
+but has not completed its investigations into the matter, and considers that it is necessary for it to act under this section —
+
+(i) for the purpose of preventing any action that may prejudice —
+
+(A) the investigations; or
+
+(B) the giving of any direction under section 69; or
+
+(ii) as a matter of urgency for the purpose —
+
+(A) of preventing serious, irreparable damage to a particular person or category of persons; or
+
+(B) of protecting the public interest,
+
+the Commission may give such directions as it considers appropriate for that purpose.
+
+[23/2007 wef 01/07/2007]
+
 (2) Before giving a direction under this section, the Commission shall —
 
 (a) give written notice to the person to whom it proposes to give the direction; and
@@ -1404,13 +1866,17 @@ the Commission may give such directions as it considers appropriate for that pur
 
 (3) A notice under subsection (2) shall indicate the nature of the direction which the Commission is proposing to give and its reasons for wishing to give it.
 
-(4) A direction given under this section shall have effect while subsection (1) applies, but may be replaced if the circumstances permit by a direction under section 69.
+(4) A direction given under this section shall have effect while subsection (1) or (1A), as the case may be, applies, but may be replaced if the circumstances permit by a direction under section 69.
 
 (5) In the case of a suspected infringement of the section 34 prohibition, sections 69(2)(a) and 85 shall also apply to directions given under this section.
 
 (6) In the case of a suspected infringement of the section 47 prohibition, sections 69(2)(b) and 85 shall also apply to directions given under this section.
 
-(7) In the case of a suspected infringement of the section 54 prohibition, sections 69(2)(c) and 85 shall also apply to directions given under this section.
+(7) In the case of a suspected infringement of the section 54 prohibition by an anticipated merger, if carried into effect, or a merger, sections 69(2)(ba)(i) and (c)(i) and 85 shall also apply to directions given under this section.
+
+[23/2007 wef 01/07/2007]
+
+[UK Competition 1998, s. 35]
 
 ### Decision of Commission upon completion of investigation
 
@@ -1420,47 +1886,105 @@ the Commission may give such directions as it considers appropriate for that pur
 
 (b) in the case of an investigation conducted by an inspector, after considering the report of the inspector,
 
-the Commission proposes to make a decision that the section 34 prohibition, the section 47 prohibition or the section 54 prohibition has been infringed, the Commission shall —
+the Commission proposes to make a decision that the section 34 prohibition has been infringed by any agreement, the section 47 prohibition has been infringed by any conduct, the section 54 prohibition will be infringed by any anticipated merger, if carried into effect, or the section 54 prohibition has been infringed by any merger, the Commission shall —
 
 (i) give written notice to the person likely to be affected by such decision; and
 
 (ii) give such person an opportunity to make representations to the Commission.
 
-(2) Subject to subsections (3) and (5), upon considering any representation made to the Commission under subsection (1)(ii), the Commission may, as it thinks fit, make a decision that the section 34 prohibition, the section 47 prohibition or the section 54 prohibition has been infringed.
+(2) Subject to subsections (3) and (5), upon considering any representation made to the Commission under subsection (1) (ii), the Commission may, as it thinks fit, make a decision that —
 
-(3) Where, in relation to a merger, the Commission proposes to make a decision that the section 54 prohibition has been infringed and the Commission has given written notice to the parties involved in the merger under subsection (1)(i), any party involved in the merger may, within 14 days of the date of the notice, apply to the Minister for the merger to be exempted from the section 54 prohibition on the ground of any public interest consideration.
+(a) the section 34 prohibition has been infringed by any agreement;
+
+(b) the section 47 prohibition has been infringed by any conduct;
+
+(c) the section 54 prohibition will be infringed by any anticipated merger, if carried into effect; or
+
+(d) the section 54 prohibition has been infringed by any merger.
+
+[23/2007 wef 01/07/2007]
+
+(3) Where —
+
+(a) in relation to an anticipated merger, the Commission proposes to make a decision that the section 54 prohibition will be infringed by the anticipated merger, if carried into effect; or
+
+(b) in relation to a merger, the Commission proposes to make a decision that the section 54 prohibition has been infringed by the merger,
+
+and the Commission has given written notice under subsection (1) (i) to the parties to the anticipated merger or the parties involved in the merger, as the case may be, any such party may, within 14 days of the date of the notice, apply to the Minister for the anticipated merger, if carried into effect, or the merger to be exempted from the section 54 prohibition on the ground of any public interest consideration.
+
+[23/2007 wef 01/07/2007]
 
 (4) The decision of the Minister under subsection (3) shall be final.
 
-(5) Where the Minister exempts a merger under subsection (3), the Commission may make a decision that the section 54 prohibition has not been infringed because the merger is exempt from the prohibition.
+(5) Where the Minister exempts an anticipated merger or a merger under subsection (3), the Commission may make a decision that —
 
-(6) The Minister may revoke the exemption of a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
+(a) the section 54 prohibition will not be infringed by the anticipated merger, if carried into effect; or
+
+(b) the section 54 prohibition has not been infringed by the merger.
+
+[23/2007 wef 01/07/2007]
+
+(6) The Minister may revoke the exemption of an anticipated merger or a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
 
 [UK Competition 1998, s. 31]
 
 ### Enforcement of decision of Commission
 
-69\.—(1) Where the Commission has made a decision that any agreement infringes the section 34 prohibition, any conduct infringes the section 47 prohibition or any merger infringes the section 54 prohibition, the Commission may give to such person as it thinks appropriate such directions as it considers appropriate to bring the infringement to an end, and where necessary, requiring that person to take such action as is specified in the direction to eliminate the harmful effect of such infringement and to prevent the recurrence of such infringement.
+69\.—(1) Where the Commission has made a decision that —
+
+(a) any agreement has infringed the section 34 prohibition;
+
+(b) any conduct has infringed the section 47 prohibition;
+
+(c) any anticipated merger, if carried into effect, will infringe the section 54 prohibition; or
+
+(d) any merger has infringed the section 54 prohibition,
+
+the Commission may give to such person as it thinks appropriate such directions as it considers appropriate to bring the infringement or the circumstances referred to in paragraph (c) to an end and, where necessary, requiring that person to take such action as is specified in the direction to remedy, mitigate or eliminate any adverse effects of such infringement or circumstances and to prevent the recurrence of such infringement or circumstances.
+
+[23/2007 wef 01/07/2007]
 
 (2) A direction referred to in subsection (1) may, in particular, include provisions —
 
-(a) where the decision is that any agreement infringes the section 34 prohibition, requiring parties to the agreement to modify or terminate the agreement;
+(a) where the decision is that any agreement has infringed the section 34 prohibition, requiring parties to the agreement to modify or terminate the agreement;
 
-(b) where the decision is that any conduct infringes the section 47 prohibition, requiring the person concerned to modify or cease the conduct;
+(b) where the decision is that any conduct has infringed the section 47 prohibition, requiring the person concerned to modify or cease the conduct;
 
-(c) where the decision is that any merger infringes the section 54 prohibition, requiring the merger to be dissolved or modified in such manner as the Commission may direct; and
+(ba) where the decision is that any anticipated merger, if carried into effect, will infringe the section 54 prohibition —
 
-(d) in any case, requiring any party to an agreement that infringes the section 34 prohibition, any person whose conduct infringes the section 47 prohibition or any party involved in a merger that infringes the section 54 prohibition —
+(i) prohibiting the anticipated merger from being carried into effect;
+
+(ii) requiring any parties to any agreement that is directly related and necessary to the implementation of the merger (which would result from the anticipated merger being carried into effect) to modify or terminate the agreement, notwithstanding the agreement is excluded under paragraph 10 of the Third Schedule or the Commission has given guidance or a decision under section 45 or 46, as the case may be, that the agreement is unlikely to infringe, or has not infringed, the section 34 prohibition; and
+
+(iii) requiring any person concerned with any conduct that is directly related and necessary to the implementation of the merger (which would result from the anticipated merger being carried into effect) to modify or cease that conduct, notwithstanding the conduct is excluded under paragraph 10 of the Third Schedule or the Commission has given guidance or a decision under section 52 or 53, as the case may be, that the conduct is unlikely to infringe, or has not infringed, the section 47 prohibition;
+
+[23/2007 wef 01/07/2007]
+
+(c) where the decision is that any merger has infringed the section 54 prohibition —
+
+(i) requiring the merger to be dissolved or modified in such manner as the Commission may direct;
+
+(ii) requiring any parties to any agreement that is directly related and necessary to the implementation of the merger to modify or terminate the agreement, notwithstanding that the agreement is excluded under paragraph 10 of the Third Schedule or the Commission has given guidance or a decision under section 45 or 46, as the case may be, that the agreement is unlikely to infringe, or has not infringed, the section 34 prohibition; and
+
+(iii) requiring any person concerned with any conduct that is directly related and necessary to the implementation of the merger to modify or cease that conduct, notwithstanding that the conduct is excluded under paragraph 10 of the Third Schedule or the Commission has given guidance or a decision under section 52 or 53, as the case may be, that the conduct is unlikely to infringe, or has not infringed, the section 47 prohibition;
+
+[23/2007 wef 01/07/2007]
+
+(d) where the decision is that any agreement has infringed the section 34 prohibition, any conduct has infringed the section 47 prohibition or any merger has infringed the section 54 prohibition, to pay to the Commission such financial penalty in respect of the infringement as the Commission may determine; and
+
+[23/2007 wef 01/07/2007]
+
+(e) in any case, requiring any party to an agreement that has infringed the section 34 prohibition, any person whose conduct has infringed the section 47 prohibition, any party to an anticipated merger which, if carried into effect, will infringe the section 54 prohibition or any party involved in a merger that has infringed the section 54 prohibition —
 
 (i) to enter such legally enforceable agreements as may be specified by the Commission and designed to prevent or lessen the anti-competitive effects which have arisen;
 
-(ii) to dispose of such operations, assets or shares of such undertaking in such manner as may be specified by the Commission;
+(ii) to dispose of such operations, assets or shares of such undertaking in such manner as may be specified by the Commission; and
 
-(iii) to pay to the Commission such financial penalty in respect of the infringement as the Commission may determine; and
+(iii) to provide a performance bond, guarantee or other form of security on such terms and conditions as the Commission may determine.
 
-(iv) to provide a performance bond, guarantee or other form of security on such terms and conditions as the Commission may determine.
+[23/2007 wef 01/07/2007]
 
-(3) For the purpose of subsection (2)(d)(iii), the Commission may impose a financial penalty only if it is satisfied that the infringement has been committed intentionally or negligently.
+(3) For the purpose of subsection (2) (d), the Commission may impose a financial penalty only if it is satisfied that the infringement has been committed intentionally or negligently.
 
 (4) No financial penalty fixed by the Commission under this section may exceed 10% or such other percentage of such turnover of the business of the undertaking in Singapore for each year of infringement for such period, up to a maximum of 3 years, as the Minister may, by order published in theGazette, prescribe.
 
@@ -1482,15 +2006,29 @@ General
 
 ### Appealable decisions
 
-71\.—(1) Any party to an agreement in respect of which the Commission has made a decision, any person in respect of whose conduct the Commission has made a decision, or any party involved in a merger in respect of which the Commission has made a decision, may appeal within the prescribed period to the Board against, or with respect to, that decision.
+71\.—(1) Any party to an agreement in respect of which the Commission has made a decision, any person in respect of whose conduct the Commission has made a decision, any party to an anticipated merger in respect of which the Commission has made a decision or any party involved in a merger in respect of which the Commission has made a decision, may appeal within the prescribed period to the Board against, or with respect to, that decision.
 
-(1A) Any person, other than a person referred to in subsection (1), to whom the Commission has given a direction under section 67 or 69 may appeal within the prescribed period to the Board against, or with respect to, that direction.
+(1A) Any person, other than a person referred to in subsection (1), to whom the Commission has given a direction under section 58A, 67 or 69 may appeal within the prescribed period to the Board against, or with respect to, that direction.
 
 [40/2005]
 
 (2) Except in the case of an appeal against the imposition, or the amount, of a financial penalty, the making of an appeal under this section shall not suspend the effect of the decision to which the appeal relates.
 
-(3) In subsection (1), “decision” means a decision of the Commission as to whether the section 34 prohibition, the section 47 prohibition or the section 54 prohibition has been infringed, and includes a direction given under section 67 or 69 (including the imposition of any financial penalty under section 69 or as to the amount of any such financial penalty) and such other decision as may be prescribed.
+(3) In subsection (1), “decision” means a decision of the Commission as to —
+
+(a) whether the section 34 prohibition has been infringed by any agreement;
+
+(b) whether the section 47 prohibition has been infringed by any conduct;
+
+(c) whether the section 54 prohibition will be infringed by any anticipated merger, if carried into effect; or
+
+(d) whether the section 54 prohibition has been infringed by any merger,
+
+and includes a direction given under section 58A, 67 or 69 (including the imposition of any financial penalty under section 69 or as to the amount of any such financial penalty) and such other decision as the Minister may by regulations prescribe.
+
+[23/2007 wef 01/07/2007]
+
+[UK Competition 1998, s. 46]
 
 Division 2 —
 
@@ -1610,7 +2148,7 @@ OFFENCES
 
 ### Refusal to provide information, etc.
 
-75\.—(1) Any person who fails to comply with a requirement imposed on him under section 63, 64 or 65 shall be guilty of an offence.
+75\.—(1) Any person who fails to comply with a requirement imposed on him under section 61A, 63, 64 or 65 shall be guilty of an offence.
 
 (2) If a person is charged with an offence under subsection (1) in respect of a requirement to produce a document, it shall be a defence for him to prove that —
 
@@ -1628,13 +2166,13 @@ OFFENCES
 
 it shall be a defence for him to prove that he had a reasonable excuse for failing to comply with the requirement.
 
-(4) Failure to comply with a requirement imposed under section 63 or 64 shall not be an offence if the person imposing the requirement has failed to act in accordance with that section.
+(4) Failure to comply with a requirement imposed under section 61A, 63 or 64 shall not be an offence if the person imposing the requirement has failed to act in accordance with that section.
 
 [UK Competition 1998, s. 42 (1) to (4)]
 
 ### Destroying or falsifying documents
 
-76\. Any person who, having been required to produce a document under section 63, 64 or 65 —
+76\. Any person who, having been required to produce a document under section 61A, 63, 64 or 65 —
 
 (a) intentionally or recklessly destroys or otherwise disposes of it, falsifies it or conceals it; or
 
@@ -1766,15 +2304,27 @@ whichever is the lower.
 
 MISCELLANEOUS
 
-### Enforcement of directions of Commission in District Court
+### Enforcement of directions of Commission and commitments in District Court
 
-85\.—(1) For the purposes of enforcement of any direction made by the Commission under section 67 or 69, the Commission may apply for the direction to be registered in a District Court in accordance with the Rules of Court and the District Court shall register the direction in accordance with the Rules of Court.
+85\.—(1) For the purposes of enforcement of any direction made by the Commission under section 58A, 67 or 69, or any commitment accepted by the Commission under section 60A and which it has not released, the Commission may apply for the direction or commitment to be registered in a District Court in accordance with the Rules of Court and the District Court shall register the direction or commitment in accordance with the Rules of Court.
 
-(2) From the date of registration of a direction under subsection (1), the direction shall be of the same force and effect, and all proceedings may be taken on the direction, for the purposes of enforcement as if it had been an order originally obtained in the District Court which shall have power to enforce it accordingly.
+(2) From the date of registration of any direction or commitment under subsection (1), the direction or commitment shall be of the same force and effect, and all proceedings may be taken on the direction or commitment, for the purposes of enforcement as if it had been an order originally obtained in the District Court which shall have power to enforce it accordingly.
 
-(3) A District Court shall have jurisdiction to enforce any direction in accordance with subsection (2) regardless of the monetary amount involved.
+(3) A District Court shall have jurisdiction to enforce any direction or commitment in accordance with subsection (2) regardless of the monetary amount involved and may, for the purpose of enforcing such direction or commitment, make any order —
 
-[AML 1999 Ed., s. 53 (2) to (4)]
+(a) to secure compliance with the direction or commitment; or
+
+(b) to require any person to do any thing to remedy, mitigate or eliminate any effects arising from —
+
+(i) any thing done which ought not, under the direction or commitment, to have been done; or
+
+(ii) any thing not done which ought, under the direction or commitment, to have been done,
+
+which would not have occurred had the direction or commitment been complied with.
+
+(4) Nothing in this section shall be interpreted as conferring upon the District Court any power to order the winding up of a company.
+
+[23/2007 wef 01/07/2007]
 
 ### Rights of private action
 
@@ -1996,7 +2546,13 @@ for anything done (including any statement made) or omitted to be done in good f
 
 (c) the form and manner in which a notification under section 38(1) is to be made;
 
-(d) the form and manner in which complaints of infringements of the section 34 prohibition, the section 47 prohibition and the section 54 prohibition are to be submitted to the Commission;
+(d) the form and manner in which complaints that the section 34 prohibition has been infringed by any agreement, the section 47 prohibition has been infringed by any conduct, the section 54 prohibition will be infringed by any anticipated merger, if carried into effect, or the section 54 prohibition has been infringed by any merger, are to be submitted to the Commission;
+
+[23/2007 wef 01/07/2007]
+
+(da) the acceptance of commitments, and the variation, substitution or release of commitments, including the parties that may apply for the variation, substitution or release of commitments and the form and manner in which applications for the variation, substitution or release of any commitment are to be submitted to the Commission;
+
+[23/2007 wef 01/07/2007]
 
 (e) the form and manner in which notices of decisions and directions of the Commission are to be given, and the persons to whom such notices are to be given;
 
@@ -2004,7 +2560,11 @@ for anything done (including any statement made) or omitted to be done in good f
 
 (i) the turnover of all or any party to an agreement (determined in such manner as may be prescribed);
 
-(ii) the turnover of any person whose conduct the Commission is to consider (determined in such manner as may be prescribed); and
+(ii) the turnover of any person whose conduct the Commission is to consider (determined in such manner as may be prescribed);
+
+(iia) the turnover of all or any party to an anticipated merger (determined in such manner as may be prescribed); and
+
+[23/2007 wef 01/07/2007]
 
 (iii) the turnover of all or any party involved in a merger (determined in such manner as may be prescribed); and
 
@@ -2174,7 +2734,7 @@ Powers of Commission
 
 4\. To publish educational materials or carry out other educational activities relating to competition; or to support (financially or otherwise) the carrying out by others of such activities or the provision by others of information or advice.
 
-5\. To carry out research and conduct seminars, workshops and symposia relating to competition, or to support (financially or otherwise) the carrying out by others of such activities.
+5\. To carry out research and studies and to conduct seminars, workshops and symposia relating to competition, or to support (financially or otherwise) the carrying out by others of such activities.
 
 6\. With the approval of the Minister, to form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any capacity.
 
@@ -2324,7 +2884,23 @@ Mergers
 
 FOURTH SCHEDULE
 
-Repealed by Act 23/2007, wef 30/06/2007.
+Sections 55 and 92
+
+Exclusions from Section 54 Prohibition
+
+1. The section 54 prohibition shall not apply to any merger —
+
+(a) approved by any Minister or regulatory authority (other than the Commission) pursuant to any requirement for such approval imposed by any written law;
+
+(b) approved by the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186) pursuant to any requirement for such approval imposed under any written law; or
+
+(c) under the jurisdiction of any regulatory authority (other than the Commission) under any written law relating to competition, or code of practice relating to competition issued under any written law.
+
+2\. The section 54 prohibition shall not apply to any merger involving any undertaking relating to any specified activity as defined in paragraph 6(2) of the Third Schedule.
+
+3. The section 54 prohibition shall not apply to any merger if the economic efficiencies arising or that may arise from the merger outweigh the adverse effects due to the substantial lessening of competition in the relevant market in Singapore.
+
+[23/2007 wef 01/07/2007]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -2455,3 +3031,8 @@ This Legislative History is provided for the convenience of users of the Competi
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|30th June 2007|
 |||(Sections 8 (1) and 24 (1))|
+|9.|**Act 23 of 2007—Competition (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 11/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Date of commencement|1st July 2007|
