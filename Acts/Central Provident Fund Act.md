@@ -320,8 +320,6 @@ PRELIMINARY
 
 “retirement account” means a retirement account maintained for the purposes of section 15(2A)(a), (6C), (7B)(a) and (8A)(a);
 
-[15/2006 wef 01/07/2006]
-
 “special account” means a special account maintained under section 13;
 
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
@@ -387,8 +385,6 @@ PRELIMINARY
 [11/91]
 
 (4A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint the chief executive officer to be a member of the Board.
-
-[15/2006 wef 01/07/2006]
 
 (5) The quorum of the Board shall be 5.
 
@@ -684,8 +680,6 @@ CONTRIBUTIONS TO FUND
 
 (8) In this section, “designated account”, in relation to a member, means such ordinary account, special account or retirement account (if any) of the member as may be prescribed by any regulations made under section 77(1)(ka).
 
-[15/2006 wef 01/07/2006]
-
 ### Power to impose conditions relating to contributions by self-employed persons
 
 13A\.—(1) Any power to grant or renew a licence, certificate or permit under any of the Acts specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), to be credited into the medisave account of the applicant or licensee or as otherwise provided under section 13(5).
@@ -822,19 +816,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) in such other manner as the Minister may approve;
 
-[15/2006 wef 01/07/2006]
-
 (e) is of unsound mind;
-
-[15/2006 wef 01/07/2006]
 
 (f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
-[15/2006 wef 01/07/2006]
-
 (g) is suffering from a terminal illness or disease.
-
-[15/2006 wef 01/07/2006]
 
 [25/2008 wef 01/11/2008]
 
@@ -846,11 +832,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (b) set aside or top-up in his medisave account the prescribed amount referred to in section 16.
 
-[15/2006 wef 01/07/2006]
-
 (2B) The amount referred to in subsection (2A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
-
-[15/2006 wef 01/07/2006]
 
 (3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
 
@@ -896,8 +878,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (d) suffering from a terminal illness or disease.
 
-[15/2006 wef 01/07/2006]
-
 (6C) The minimum sum may be deposited with an approved bank or in a retirement account or used to purchase an approved annuity from an insurer.
 
 [15/2006 wef 01/07/2006]
@@ -924,15 +904,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) in such other manner as the Minister may approve;
 
-[15/2006 wef 01/07/2006]
-
 (b) of unsound mind;
 
-[15/2006 wef 01/07/2006]
-
 (ba) suffering from a medical condition leading to a severely impaired life expectancy;
-
-[15/2006 wef 01/07/2006]
 
 (c) suffering from a terminal illness or disease; or
 
@@ -957,8 +931,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 [22/2010 wef 01/10/2010]
 
 (7C) The amount referred to in subsection (7B)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
-
-[15/2006 wef 01/07/2006]
 
 (8) A member need not deposit the minimum sum with an approved bank or in his retirement account, or use the minimum sum to purchase an approved annuity from an insurer, if the Board is satisfied that the member —
 
@@ -993,8 +965,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 [18/2009 wef 01/09/2009]
 
 (8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
-
-[15/2006 wef 01/07/2006]
 
 (9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
@@ -1059,8 +1029,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 [39/2000]
 
 (10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
-
-[15/2006 wef 01/07/2006]
 
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
@@ -1184,8 +1152,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (d) in any other case, the excess amount may be withdrawn under section 15(2)(a) or (g), (3) or (4).
 
-[15/2006 wef 01/07/2006]
-
 (3) In this section, “prescribed amount” means such amount as may be prescribed by the Minister from time to time by regulations made under section 77.
 
 [32/84]
@@ -1223,8 +1189,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 (b) any person to voluntarily maintain a minimum sum with the Board; or
 
 (c) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
-
-[15/2006 wef 01/07/2006]
 
 [10/94; 39/2000]
 
@@ -1690,8 +1654,6 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (b) shall be deemed not to form part of the property of the member.
 
-[15/2006 wef 01/07/2006]
-
 (3A) Subject to section 16A , all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
@@ -1723,8 +1685,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
 (7) In this section, “HDB flat” has the same meaning as in section 21B(14).
-
-[15/2006 wef 01/07/2006]
 
 ### Moneys payable on death of member
 
@@ -2792,8 +2752,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (ka) to provide for the transfer of money from the medisave account of a member to his ordinary account, special account and retirement account (if any);
 
-[15/2006 wef 01/07/2006]
-
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
 
 (m) [Deleted by Act 31/2003 wef 01/07/2004]
@@ -2902,9 +2860,11 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st January 2006, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 2 to 7, with effect from 1st July 2007, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-50 Years of Age and below
+35 Years of Age and below
+
+Above 35 but not more than 50 Years of Age
 
 Above 50 but not more than 55 Years of Age
 
@@ -2912,29 +2872,33 @@ Above 55 but not more than 60 Years of Age
 
 Above 60 but not more than 65 Years of Age
 
-Above 65Years of Age
+Above 65 Years of Age
 
-Total amount of the employee’s wages for the calender month.
+Total amount of the employee’s wages for the calendar month.
 
-Contributions payable by the employer for the calender month.
+Contributions payable by the employer for the calendar month.
 
-Amount recoverable from the employee’s wages for the calender month.
+Amount recoverable from the employee’s wages for the calendar month.
 
-Contributions payable by the employer for the calender month.
+Contributions payable by the employer for the calendar month.
 
-Amount recoverable from the employee’s wages for the calender month.
+Amount recoverable from the employee’s wages for the calendar month.
 
-Contributions payable by the employer for the calender month.
+Contributions payable by the employer for the calendar month.
 
-Amount recoverable from the employee’s wages for the calender month.
+Amount recoverable from the employee’s wages for the calendar month.
 
-Contributions payable by the employer for the calender month.
+Contributions payable by the employer for the calendar month.
 
-Amount recoverable from the employee’s wages for the calender month.
+Amount recoverable from the employee’s wages for the calendar month.
 
-Contributions payable by the employer for the calender month.
+Contributions payable by the employer for the calendar month.
 
-Amount recoverable from the employee’s wages for the calender month.
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
 
 (1)
 
@@ -2958,25 +2922,33 @@ Amount recoverable from the employee’s wages for the calender month.
 
 (11)
 
+(12)
+
+(13)
+
 Exceeding $50 but not exceeding $500
 
-An amount equal to 13% of the total amount of the employee’s wages for the month.
+An amount equal to 14.5% of the total amount of the employee’s wages for the month.
 
 NIL
 
-An amount equal to 9% of the total amount of the employee’s wages for the month.
+An amount equal to 0.0964 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 6% of the total amount of the employee’s wages for the month.
+An amount equal to 0.0697 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 3.5% of the total amount of the employee’s wages for the month.
+An amount equal to 0.0498 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 3.5% of the total amount of the employee’s wages for the month.
+An amount equal to 0.0332 of the difference between the total amount of the employee’s wages for the month and $50.
+
+NIL
+
+An amount equal to 0.0332 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
@@ -2984,6 +2956,157 @@ Exceeding $500 but not exceeding $750
 
 An amount equal to the sum of —
 
+
+
+
+An amount equal to 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.432 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+An amount equal to the sum of —
+
+An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 14.5% of the total amount of the employee’s wages for the month; and
+
+(a) 0.0964 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0697 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0498 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0332 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(a) 0.0332 of the difference between the total amount of the employee’s wages for the month and $50; and
+
+(b) 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.432 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.18 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750 but not exceeding $1,200
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 14.5% of the total amount of the employee’s wages for the month; and
+
+(a) $67.50 and 0.1966 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $48.825 and 0.1315 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $34.875 and 0.0825 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $23.25 and 0.0416 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(a) $23.25 and 0.0416 of the difference between the total amount of the employee’s wages for the month and $750; and
+
+(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,200 but not exceeding $1,500
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+An amount equal to the sum of —
+
+An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(a) 14.5% of the total amount of the employee’s wages for the month; and
+
+(a) $156 and 0.205 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $108 and 0.165 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $72 and 0.135 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $42 and 0.11 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(a) $42 and 0.11 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+
+(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $45 and 0.09 of the difference between the total amount of the employee’s wages for the month and $750.
+
+(b) $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
+
+Exceeding $1,500
+
 An amount equal to the sum of —
 
 An amount equal to the sum of —
@@ -3002,97 +3125,61 @@ An amount equal to the sum of —
 
 An amount equal to the sum of —
 
-(a) 13% of the total amount of the employee’s wages for the month; and
-
-(a) 0.6 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 9% of the total amount of the employee’s wages for the month; and
-
-(a) 0.54 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 6% of the total amount of the employee’s wages for the month; and
-
-(a) 0.37 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 3.5% of the total amount of the employee’s wages for the month; and
-
-(a) 0.22 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(a) 3.5% of the total amount of the employee’s wages for the month; and
-
-(a) 0.15 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.6 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.54 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.37 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.22 of the difference between the total amount of the employee’s wages for the month and $500.
-
-(b) 0.15 of the difference between the total amount of the employee’s wages for the month and $500.
-
-Exceeding $750
-
 An amount equal to the sum of —
 
 An amount equal to the sum of —
 
 An amount equal to the sum of —
 
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 33% of the employee’s ordinary wages for the month subject to a maximum of $1,485; and
+(a) 34.5% of the employee’s ordinary wages for the month subject to a maximum of $1,552.50; and
 
 (a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
 
-(a) 27% of the employee’s ordinary wages for the month subject to a maximum of $1,215; and
+(a) 34.5% of the employee’s ordinary wages for the month subject to a maximum of $1,552.50; and
+
+(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
+
+(a)28.5% of the employee’s ordinary wages for the month subject to a maximum of $1,282.50; and
 
 (a) 18% of the employee’s ordinary wages for the month subject to a maximum of $810; and
 
-(a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $832.50; and
+(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
 
 (a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
 
-(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
 
 (a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
 
-(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+(a)10% of the employee’s ordinary wages for the month subject to a maximum of $450; and
 
 (a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
 
-(b) 33% of the amount of the additional wages payable to the employee in the month.
+(b) 34.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 20% of the amount of the additional wages payable to the employee in the month.
 
-(b) 27% of the amount of the additional wages payable to the employee in the month.
+(b) 34.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 20% of the amount of the additional wages payable to the employee in the month.
+
+(b) 28.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 18% of the amount of the additional wages payable to the employee in the month.
 
-(b) 18.5% of the amount of the additional wages payable to the employee in the month.
+(b) 20% of the amount of the additional wages payable to the employee in the month.
 
 (b) 12.5% of the amount of the additional wages payable to the employee in the month.
 
-(b) 11% of the amount of the additional wages payable to the employee in the month.
+(b) 12.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 7.5% of the amount of the additional wages payable to the employee in the month.
 
-(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+(b) 10% of the amount of the additional wages payable to the employee in the month.
 
-(b) 5% of the amount of the additional wages payable to the employee in the month.";
+(b) 5% of the amount of the additional wages payable to the employee in the month.
+
+[S 324/2007 wef 01/07/2007]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4488,7 +4575,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 5. For the purpose of this Schedule —
 
-(a) a person shall be deemed to have attained 50, 55, 60 or 65 years of age on the fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 50, 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
+(a) a person shall be deemed to have attained 35, 50, 55, 60 or 65 years of age on the thirty-fifth, fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 35, 50, 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
 
 [S 801/2004 wef 01/01/2005]
 
@@ -5357,6 +5444,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 6/2006 published on 14 February 2006)|
 ||Date of Second and Third Readings|3 April 2006|
 ||Date of commencement|1 July 2006|
+|149.|**G.N. No. S 324/2007—Central Provident Fund Act (Amendment of First Schedule) Notification 2007**|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
