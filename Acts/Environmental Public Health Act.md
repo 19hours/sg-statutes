@@ -254,7 +254,7 @@
 
 - [99 Licences](#Licences)
 
-- [100 Receipts, notices, etc. may be given by authorised officer](#Receipts-notices-etc-may-be-given-by-authorised-officer)
+- [100 Receipts, notices, etc., may be given by authorised officer](#Receipts-notices-etc-may-be-given-by-authorised-officer)
 
 - [101 Furnishing of information required by Director-General](#Furnishing-of-information-required-by-Director-General)
 
@@ -340,7 +340,7 @@ PRELIMINARY
 
 (b) any explosive within the meaning of the Arms and Explosives Act (Cap. 13);
 
-(c) any radioactive material within the meaning of the Radiation Protection Act (Cap. 262);
+(c) any radioactive material within the meaning of the Radiation Protection Act 2007;
 
 (d) any substance which owing to its nature, composition or quantity constitutes a danger to property or human life or health; and
 
@@ -400,11 +400,11 @@ PRELIMINARY
 
 (c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
 
-[Act 47 of 2004 wef 01/04/2005]
+[47/2004 wef 01/04/2005]
 
 (d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
 
-[Act 47 of 2004 wef 01/04/2005]
+[47/2004 wef 01/04/2005]
 
 “place of public resort” means a building or a defined or an enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
 
@@ -2134,7 +2134,7 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 [4/2002]
 
-### Receipts, notices, etc. may be given by authorised officer
+### Receipts, notices, etc., may be given by authorised officer
 
 100\.—(1) All notices, orders, receipts, warrants and other documents which the Director-General is empowered to give by this Act may be given by any authorised officer.
 
@@ -2248,9 +2248,9 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 ### Transitional provision
 
-112\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 20021shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+112\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 2002\** shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-1Date of commencment of the National Environment Agency Act 2002 (Act 4 of 2002).
+\*Date of commencment of the National Environment Agency Act 2002 (Act 4 of 2002).
 
 [114
 
@@ -2362,7 +2362,9 @@ Private persons who may be authorised to exercise powers under the Act and regul
 
 Powers under the Act and regulations which the person may be authorised to exercise
 
-(1) Any member or employee of a Town Council established under the Town Councils Act (Cap. 329A)
+(1)
+
+Any member or employee of a Town Council established under the Town Councils Act (Cap. 329A)
 
 )
 
@@ -2378,85 +2380,102 @@ Powers under the Act and regulations which the person may be authorised to exerc
 
 
 
+
+)
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
+
+
+
+
+)
 
 )
 
 Powers of an authorised officer under —
 
-(2) Any member of any committee of a Town Council
+(a)
 
-)
+section 21 of the Act; and
 
+(b)
 
+sections 86 and 88 of the Act in relation to any offence under section 17 of the Act and regulation 15(1) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3)
 
+(2)
 
-)
+Any member of any committee of a Town Council
 
+(3)
 
+Any employee of an agent of a Town Council
 
+(4)
 
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-
-
-
-)
-
-(a) section 21 of the Act; and
-
-(b) sections 86 and 88 of the Act in relation to any offence under section 17 of the Act and regulation 15(1) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3)
-
-(3) Any employee of an agent of a Town Council
-
-)
-
-
-
-
-)
-
-(4) Any operator of a public service vehicle
+Any operator of a public service vehicle
 
 Powers of an authorised officer under —
 
-(a) section 21 of the Act; and
+(a)
 
-(b) sections 86 and 88 of the Act in relation to any offence under section 17 of the Act.
+section 21 of the Act; and
 
-(5) Any employee of PSA Corporation Limited
+(b)
+
+sections 86 and 88 of the Act in relation to any offence under section 17 of the Act.
+
+(5)
+
+Any employee of PSA Corporation Limited
 
 Powers of an authorised officer under —
 
-(a) sections 21 and 42 of the Act;
+(a)
 
-(b) section 86 of the Act in relation to any offence under section 17, 18 or 19 of the Act, Part IV of the Act or to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3); and
+sections 21 and 42 of the Act;
 
-(c) section 88 of the Act in relation to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations.
+(b)
+
+section 86 of the Act in relation to any offence under section 17, 18 or 19 of the Act, Part IV of the Act or to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3); and
+
+(c)
+
+section 88 of the Act in relation to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations.
 
 ## LEGISLATIVE HISTORY
 
@@ -2464,41 +2483,70 @@ Environmental Public Health Act
 
 (CHAPTER 95)
 
-This Legislative History is provided for the convenience of users of the Betting Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Environmental Public Health Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
-|1.|**Ordinance 30 of 1960—Betting Ordinance 1960**|
-||Date of First Reading|6 April 1960|
-|||(Bill No. 74/60)|
-||Date of Second and Third Readings|12 May 1960|
-||Date of commencement|20 May 1960|
-|2.|**1970 Revised Edition —Betting Act (Chapter 95)**|
-||Date of operation|1 January 1970|
-|3.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
-||Date of First Reading|7 March 1973|
-|||(Bill No. 16/73 published on 9 March 1973)|
-||Date of Second and Third Readings|20 March 1973|
-||Date of commencement|6 April 1973|
-|4.|**Act 8 of 1986—Betting (Amendment) Act 1986**|
-||Date of First Reading|31 October 1985|
-|||(Bill No. 15/85 published on 8 November 1985)|
-||Date of Second and Third Readings|10 January 1986|
-||Date of commencement|25 February 1986|
-|5.|**1985 Revised Edition—Betting Act (Chapter 21)**|
-||Date of operation|30 March 1987|
-|6.|**Act 43 of 1999—Telecommunications Act 1999**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|11 October 1999|
-|||(Bill No. 33/99 published on 12 October 1999)|
-||Date of Second and Third Readings|23 November 1999|
-||Date of commencement|1 December 1999|
-|7.|**Act 13 of 2004—Singapore Totalisator Board (Amendment) Act 2004**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|27 February 2004|
-|||(Bill No. 8/2004 published on 28 February 2004)|
-||Date of Second and Third Readings|20 April 2004|
-||Date of commencement|1 May 2004|
+|1.|**Act 14 of 1987—Environmental Public Health Act 1987**|
+||Date of First Reading|26 January 1987|
+|||(Bill No. 2/87 published on 2 February 1987)|
+||Date of Second and Third Readings|20 May 1987|
+||Date of commencement|1 July 1987|
+|2.|**1988 Revised Edition—Environmental Public Health Act**|
+||Date of operation|30 April 1988|
+|3.|**Act 37 of 1989—Environmental Public Health (Amendment) Act 1989**|
+||Date of First Reading|6 October 1989|
+|||(Bill No. 38/89 published on 7 October 1989)|
+||Date of Second and Third Readings|30 November 1989|
+||Date of commencement|15 January 1990|
+|4.|**Act 32 of 1992—Environmental Public Health (Amendment) Act 1992**|
+||Date of First Reading|31 July 1992|
+|||(Bill No. 31/92 published on 1 August 1992)|
+||Date of Second and Third Readings|14 September 1992|
+||Date of commencement|1 November 1992|
+|5.|**Act 2 of 1996—Environmental Public Health (Amendment) Act 1996**|
+||Date of First Reading|1 November 1995|
+|||(Bill No. 41/95 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|2 February 1996|
+|6.|**G. N. No. S 77/1998—Environmental Public Health Act (Amendment of Fourth Schedule) Notification 1998**|
+||Date of commencement|1 March 1998|
+|7.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 January 1999|
+|||(Bill No. 2/99 published on 21 January 1999)|
+||Date of Second and Third Readings|11 February 1999|
+||Date of commencement|1 April 1999|
+|8.|**Act 22 of 1999—Environmental Public Health (Amendment) Act 1999**|
+||Date of First Reading|8 March 1999|
+|||(Bill No. 11/99 published on 9 March 1999)|
+||Date of Second and Third Readings|4 May 1999|
+||Date of commencement|1 June 1999|
+|9.|**1999 Revised Edition—Environmental Public Health Act**|
+||Date of operation|1 August 1999|
+|10.|**Act 4 of 2002—National Environment Agency Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 13/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|1 July 2002|
+|11.|**Act 7 of 2002—Sale of Food (Amendment) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 April 2002|
+|||(Bill No. 10/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|1 July 2002|
+|12.|**2002 Revised Edition—Environmental Public Health Act**|
+||Date of operation|31 December 2002|
+|13.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||Date of First Reading|6 February 2004|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
+|14.|**Act 27 of 2007—Radiation Protection Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 14/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
