@@ -38,9 +38,9 @@
 
 - [13 Licences required in respect of guns, arms, explosives, etc.](#Licences-required-in-respect-of-guns-arms-explosives-etc)
 
-- [14 Conditions of licences](#Conditions-of-licences)
+- [14 (Repealed)](#Repealed)
 
-- [15 Appeal](#Appeal)
+- [15 (Repealed)](#Repealed)
 
 - [16 No purchase of guns or arms from licensed dealer without licence](#No-purchase-of-guns-or-arms-from-licensed-dealer-without-licence)
 
@@ -53,6 +53,26 @@
 - [20 Forfeiture of arms or explosives deposited with authorised person or Licensing Officer](#Forfeiture-of-arms-or-explosives-deposited-with-authorised-person-or-Licensing-Officer)
 
 - [21 Minister may authorise erection of magazines or establishment of hulks](#Minister-may-authorise-erection-of-magazines-or-establishment-of-hulks)
+
+[**Part IIIA LICENSING OF EXPLOSIVE PRECURSORS**](#Part-IIIA)
+
+- [21A Licences required in respect of explosive precursors](#Licences-required-in-respect-of-explosive-precursors)
+
+- [21B Explosive precursors of which possession has become unlawful to be deposited with authorised person](#Explosive-precursors-of-which-possession-has-become-unlawful-to-be-deposited-with-authorised-person)
+
+- [21C Forfeiture of explosive precursors deposited with authorised person or Licensing Officer](#Forfeiture-of-explosive-precursors-deposited-with-authorised-person-or-Licensing-Officer)
+
+- [21D Licensed premises for storage of explosive precursors](#Licensed-premises-for-storage-of-explosive-precursors)
+
+- [21E Minister may authorise establishment of warehouses or stores](#Minister-may-authorise-establishment-of-warehouses-or-stores)
+
+[**Part IIIB GENERAL PROVISIONS ON LICENCES**](#Part-IIIB)
+
+- [21F Restrictions on issuing of licences](#Restrictions-on-issuing-of-licences)
+
+- [21G Conditions of licences](#Conditions-of-licences)
+
+- [21H Appeal](#Appeal)
 
 [**Part IV OFFENCES**](#Part-IV)
 
@@ -82,7 +102,7 @@
 
 - [33 Persons arrested to be taken to police station](#Persons-arrested-to-be-taken-to-police-station)
 
-- [34 Power to stop and search for armsor explosives in street](#Power-to-stop-and-search-for-armsor-explosives-in-street)
+- [34 Power to stop and search for arms, explosives or explosive precursors in street](#Power-to-stop-and-search-for-arms-explosives-or-explosive-precursors-in-street)
 
 - [35 Presumption](#Presumption)
 
@@ -106,11 +126,17 @@
 
 - [44 General penalty](#General-penalty)
 
-- [45 Power to amend Schedule](#Power-to-amend-Schedule)
+- [44A Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+
+- [44B General exemption power](#General-exemption-power)
+
+- [45 Power to amend Schedules](#Power-to-amend-Schedules)
 
 - [46 Power to make rules](#Power-to-make-rules)
 
-[**THE SCHEDULE Detection Agents**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Detection Agents**](#FIRST-SCHEDULE-Detection-Agents)
+
+[**SECOND SCHEDULE Explosive Precursors**](#SECOND-SCHEDULE-Explosive-Precursors)
 
 [**Legislative History**](#Legislative-History)
 
@@ -126,7 +152,9 @@ REVISED EDITION 2003
 
 (31st July 2003)
 
-An Act to regulate the manufacture, use, sale, storage, transport, importation, exportation and possession of arms and explosives, to give effect to the Convention on the Marking of Plastic Explosives for the Purpose of Detection concluded in Montreal on 1st March 1991 and for purposes connected therewith.
+An Act to regulate the manufacture, use, sale, storage, transport, importation, exportation and possession of arms, explosives and explosive precursors, to give effect to the Convention on the Marking of Plastic Explosives for the Purpose of Detection concluded in Montreal on 1st March 1991 and for purposes connected therewith.
+
+[5/2007 wef 01/07/2007]
 
 [12th December 1913]
 
@@ -142,7 +170,15 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“arms” includes firearms, air-guns, air-pistols, automatic guns, automatic pistols, and guns or any other kind of gun from which any shot, bullet or other missile can be discharged or noxious fumes or noxious substance can be emitted and any component part of any such arms, and bayonets, swords, daggers, spears and spearheads;
+“arms” means —
+
+(a) firearms, air-guns, air-pistols, stun guns, electronic dart guns, automatic guns, automatic pistols, guns or any other kind of gun from which any shot, bullet or other missile can be discharged or noxious fumes or noxious substance can be emitted, and any component part of any such arms;
+
+(b) bayonets, swords, daggers, spears and spearheads; and
+
+(c) such weapon, accessory, or other article or thing, as the Minister may, by notification in theGazette, specify to be arms for the purposes of this Act or any part thereof;
+
+[5/2007 wef 01/07/2007]
 
 “authorised military device” means any explosive manufactured solely for lawful military or police purposes, including but not limited to a shell, bomb, projectile, mine, missile, rocket, shaped charge, grenade or perforater;
 
@@ -154,21 +190,37 @@ PRELIMINARY
 
 (c) any person who performs military functions for the Ministry of Defence or the Singapore Armed Forces;
 
-“authorised person” means —
+“authorised person” means any auxiliary police force established under the Police Force Act (Cap. 235) and which is authorised by the Licensing Officer to accept the deposit of guns, arms or explosives under section 19(1) or the deposit of explosive precursors under section 21B(1);
 
-(b) any other auxiliary police force established under the Police Force Act 2004 and which is authorised by the Licensing Officer to accept the deposit of guns, arms or explosives under section 19(1);
+[5/2007 wef 01/07/2007]
+
+“body corporate” includes a limited liability partnership;
+
+[5/2007 wef 01/07/2007]
+
+“book” includes any record, register, document or other record of information, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any other electronic form or otherwise;
+
+[5/2007 wef 01/07/2007]
 
 “carriage” includes any carriage, wagon, cart, truck or other vehicle used for the conveyance of goods or passengers by land, in whatever manner the same is propelled or moved;
 
 “deal in” includes repair, sell, keep or expose for sale;
 
-“detection agent” means any of the substances set out in the Schedule and which —
+“detection agent” means any of the substances set out in the First Schedule and which —
 
 (a) is intended to be used to enhance the detectability of explosives by vapour detection means;
 
 (b) is introduced into a plastic explosive during its manufacture in such a manner as to achieve homogeneous distribution in the finished product; and
 
-(c) is present in the plastic explosive in such concentration no less than that specified in the fourth column of the Schedule;
+(c) is present in the plastic explosive in such concentration no less than that specified in the fourth column of that Schedule;
+
+“electronic dart gun” means a portable device which —
+
+(a) is powered by electricity and, when switched on, is capable of expelling or projecting a projectile; and
+
+(b) upon coming in contact with a person or an animal, is capable of inflicting injury or an electric shock by a high voltage, low amperage charge to such person or animal;
+
+[5/2007 wef 01/07/2007]
 
 “explosive” —
 
@@ -178,6 +230,10 @@ PRELIMINARY
 
 (c) includes sand crackers, and any substance declared to be deemed an explosive by notification under section 10(1)(a);
 
+“explosive precursor” means any substance specified in the Second Schedule;
+
+[5/2007 wef 01/07/2007]
+
 “gun” includes howitzers, mortars, quick-firing and machine-guns, and other guns of a similar nature;
 
 “high explosives” includes, but is not limited to, cyclotetramethylenetetranitramine (HMX), pentaerythritol tetranitrate (PETN) and cyclotrimethylenetrinitramine (RDX);
@@ -186,7 +242,17 @@ PRELIMINARY
 
 “Licensing Officer” means the person appointed by the Minister under section 4 and includes an Assistant Licensing Officer;
 
-“manufacture” includes the preparation of any component parts of an explosive, the admixture or other treatment of the same, the breaking up or unmaking of any explosive, and the process of remaking or making fit for use any damaged explosive, and the process of remaking, altering or repairing any explosive;
+“limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+
+[5/2007 wef 01/07/2007]
+
+“manufacture” —
+
+(a) in relation to an explosive, includes the preparation of any component part of the explosive, the admixture or other treatment of the same, and the breaking up or unmaking of any explosive, the process of remaking or making fit for use any damaged explosive, and the process of remaking, altering or repairing any explosive; and
+
+(b) in relation to an explosive precursor, means any process of producing the explosive precursor, and includes the refining or remaking of any substance to become an explosive precursor;
+
+[5/2007 wef 01/07/2007]
 
 “master” includes every person having command or charge of a vessel other than a pilot of a vessel;
 
@@ -202,7 +268,15 @@ PRELIMINARY
 
 “Port Master” has the same meaning as in the Maritime and Port Authority of Singapore Act (Cap. 170A);
 
+“premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or closed, whether built or not, whether public or private, and whether maintained under statutory authority or not;
+
+[5/2007 wef 01/07/2007]
+
 “railway administration” means any person or body of persons responsible for the regulation of traffic on any railway;
+
+“stun gun” means a portable device which is powered by electricity and from which any electric current, discharge, impulse, wave or beam can be emitted and if directed at a person or an animal, can incapacitate temporarily, injure or kill the person or animal;
+
+[5/2007 wef 01/07/2007]
 
 “unmarked plastic explosive” means any plastic explosive that does not contain a detection agent;
 
@@ -218,7 +292,7 @@ PRELIMINARY
 
 3\.—(1) Subject to subsection (3), nothing in this Act shall apply to —
 
-(a) the manufacture, possession, use, storage, sale, transport, importation or exportation, in accordance with the provisions of any rules made under this Act, of any explosive by order of the Government;
+(a) the manufacture, possession, use, storage, sale, transport, importation or exportation, in accordance with the provisions of any rules made under this Act, of any explosive or explosive precursor by order of the Government;
 
 (b) the manufacture, dealing in, possession, importation or exportation, in accordance with the provisions of any rules made under this Act, of any article by order of the Government;
 
@@ -238,13 +312,13 @@ PRELIMINARY
 
 (d) any vessel belonging to or in the service of the Government or of any foreign government;
 
-(e) any hulk or magazine for the storage or deposit of explosives of the Government or the government of any Commonwealth country;
+(e) any hulk or magazine for the storage or deposit of explosives, or explosive precursors, of the Government or the government of any Commonwealth country;
 
 (f) such articles as form part of the ordinary armament of any vessel or as are required for the service of any vessel or the personal use of the crew or the passengers thereof;
 
 (g) the importation, exportation and possession, in accordance with such conditions as may be prescribed in rules made under this Act, of such arms and ammunition, forming part of the equipment of aircraft or carried therein for the personal use of passengers or crew, as may be permitted by such rules; or
 
-(h) the possession in the course of his duty of armsand explosives by any person employed by the Government, such possession being specially authorised by the head of his department.
+(h) the possession in the course of his duty of arms, explosives or explosive precursors by any person employed by the Government, such possession being specially authorised by the head of his department.
 
 [30/2002]
 
@@ -486,27 +560,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [30/2002]
 
-### Conditions of licences
+14\. [Repealed by Act 5 of 2007 wef 01/07/2007]
 
-14\. Every licence issued under this Act shall be deemed to be issued and held subject, in addition to any others which are prescribed, to the following conditions:
-
-(a) the licence shall expire after such period as is prescribed;
-
-(b) the licence shall be liable to suspension or cancellation, without any reason being given therefor, at any time by the Licensing Officer; and
-
-(c) the licence shall not be transferable except as provided in this Act.
-
-[10
-
-[30/2002]
-
-### Appeal
-
-15\. Any person dissatisfied with any refusal, suspension or cancellation of a licence may within 14 days appeal in writing to the Minister whose decision shall be final and conclusive.
-
-[11
-
-[30/2002]
+15\. [Repealed by Act 5 of 2007 wef 01/07/2007]
 
 ### No purchase of guns or arms from licensed dealer without licence
 
@@ -570,6 +626,102 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) the use of Government magazines or any portion thereof for the storage or safe custody of explosives belonging to other persons.
 
+## PART IIIA
+
+LICENSING OF EXPLOSIVE PRECURSORS
+
+[5/2007 wef 01/07/2007]
+
+### Licences required in respect of explosive precursors
+
+21A\.—(1) No person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed, have in his possession or under his control, import, export, manufacture or deal in any explosive precursor.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of a body corporate, to a fine not exceeding $100,000; and
+
+(b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[5/2007 wef 01/07/2007]
+
+### Explosive precursors of which possession has become unlawful to be deposited with authorised person
+
+21B\.—(1) Any person whose possession of any explosive precursor has become unlawful in consequence of the expiry, suspension or cancellation of a licence shall, without unnecessary delay, deposit the explosive precursor with such authorised person and at such place as may be specified in the licence or by notice in writing by the Licensing Officer.
+
+(2) If the owner of any explosive precursor so deposited does not, within 6 months from the date of the deposit, produce a licence authorising him to possess the explosive precursor and apply for its delivery, the explosive precursor deposited with an authorised person shall be forfeited to the Government.
+
+[5/2007 wef 01/07/2007]
+
+### Forfeiture of explosive precursors deposited with authorised person or Licensing Officer
+
+21C\. Any explosive precursor deposited with an authorised person or the Licensing Officer in accordance with the provisions of this Act or any other written law for the time being in force shall, if not claimed by its owner or owners within 6 months from the date of the deposit, be forfeited to the Government.
+
+[5/2007 wef 01/07/2007]
+
+### Licensed premises for storage of explosive precursors
+
+21D\.—(1) No person shall store or keep, or cause to be stored or kept, any explosive precursor except —
+
+(a) in or on premises licensed for the storage or keeping of such explosive precursor and in accordance with the conditions of the licence and such other conditions as may be prescribed; or
+
+(b) in any warehouse or store authorised under section 21E.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of a body corporate, to a fine not exceeding $100,000; and
+
+(b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[5/2007 wef 01/07/2007]
+
+### Minister may authorise establishment of warehouses or stores
+
+21E\. The Minister may authorise in writing the establishment or use of such warehouses or stores as he considers necessary for —
+
+(a) the storage of explosive precursors belonging to the Government; or
+
+(b) the storage or safe custody of explosive precursors belonging to other persons.
+
+## PART IIIB
+
+GENERAL PROVISIONS ON LICENCES
+
+[5/2007 wef 01/07/2007]
+
+### Restrictions on issuing of licences
+
+21F\. Notwithstanding any provision in this Act, the Licensing Officer shall refuse to issue a licence under this Act where he is satisfied that —
+
+(a) the applicant is not a fit and proper person to hold such a licence; or
+
+(b) it would be contrary to the public interest for the applicant to be issued with the licence.
+
+[5/2007 wef 01/07/2007]
+
+### Conditions of licences
+
+21G\. Every licence issued under this Act shall be deemed to be issued and held subject, in addition to any other condition prescribed or specified in the licence, to the following conditions:
+
+(a) the licence shall expire after such period as is prescribed;
+
+(b) the licence shall at any time be liable to suspension or cancellation without any reason being given by the Licensing Officer; and
+
+(c) the licence shall not be transferable except as provided in this Act.
+
+[5/2007 wef 01/07/2007]
+
+### Appeal
+
+21H\. Any person who is dissatisfied with —
+
+(a) any refusal by the Licensing Officer to issue him a licence under this Act; or
+
+(b) any suspension or cancellation of his licence issued under this Act,
+
+may within 14 days of the decision appeal in writing to the Minister whose decision shall be final and conclusive.
+
+[5/2007 wef 01/07/2007]
+
 ## PART IV
 
 OFFENCES
@@ -577,6 +729,22 @@ OFFENCES
 ### Knowingly concealing arms, etc., imported without licence
 
 22\. Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas or noxious substance imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $5,000.
+
+(1) Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas or noxious substance imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $5,000.
+
+[5/2007 wef 01/07/2007]
+
+[19
+
+[30/2002]
+
+(2) Any person who knowingly conceals any explosive precursor imported unlawfully or without a licence shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of a body corporate, to a fine not exceeding $100,000; and
+
+(b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[5/2007 wef 01/07/2007]
 
 [19
 
@@ -630,43 +798,51 @@ SEARCH, SEIZURE AND ARREST
 
 27\.—(1) Where any District Court or Magistrate’s Court has reason to believe that any person —
 
-(a) has in his possession any guns, armsor explosives without a licence, or in contravention of the conditions upon which any licence is issued, or for any unlawful purpose; or
+(a) has in his possession any guns, arms, explosives or explosive precursors without a licence, or in contravention of the conditions upon which any licence is issued, or for any unlawful purpose; or
 
-(b) cannot, in the judgment of the court, be left in possession of any guns, armsor explosives without danger to the public peace,
+(b) cannot, in the judgment of the court, be left in possession of any guns, arms, explosives or explosive precursors without danger to the public peace,
+
+[5/2007 wef 01/07/2007]
 
 the court may, by warrant directed to any police officer, authorise the police officer, by day or by night —
 
-(i) to enter and search the house orpremises occupied by the person, or any house or premises where the court has reason to believe the guns, armsor explosives are to be found;
+(i) to enter and search the premises occupied by the person, or any premises where the court has reason to believe the guns, arms, explosives or explosive precursors are to be found;
 
-(ii) to seize and detain the guns, armsor explosives ; and
+(ii) to seize and detain the guns, arms, explosives or explosive precursors; and
 
-(iii) to arrest any person found in the house oron the premises whom the police officer has reason to suspect to have committed any offence under this Act.
+(iii) to arrest any person found on the premises whom the police officer has reason to suspect to have committed any offence under this Act.
 
-(2) Any person who, upon a search being made under this section, having in his possession or under his control any guns, armsor explosives, or knowing where the guns, armsor explosives are concealed —
+[5/2007 wef 01/07/2007]
+
+(2) Any person who, upon a search being made under this section, having in his possession or under his control any guns, arms, explosives or explosive precursors, or knowing where the guns, arms, explosives or explosive precursors are concealed —
 
 (a) refuses to produce or point them out to the person making the search; or
 
-(b) intentionally conceals those guns, armsor explosives,
+(b) intentionally conceals those guns, arms, explosives or explosive precursors,
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 2 years and to a fine not exceeding $1,000.
 
-[31
+[5/2007 wef 01/07/2007]
 
 ### Search for arms, etc.
 
 28\.—(1) The Licensing Officer may authorise, by writing —
 
-(a) any police officer to search any house for any guns, arms, explosives or poisonous or noxious gas or noxious substance; and
+(a) any police officer to search any house for any guns, arms, explosives, explosive precursors or poisonous or noxious gas or noxious substance; and
 
-(b) the police officer to require any person to produce his licence for the possession of guns, arms, explosives or poisonous or noxious gas or noxious substance, and to produce or account for the things covered thereby.
+[5/2007 wef 01/07/2007]
+
+(b) the police officer to require any person to produce his licence for the possession of guns, arms, explosives, explosive precursors or poisonous or noxious gas or noxious substance, and to produce or account for the things covered thereby.
 
 [21/73; 30/2002]
 
-(2) Any person who fails to give a satisfactory account to the police officer for any guns, arms, explosives or poisonous or noxious gas or noxious substance in his possession or under his control during the existence or after the expiry, suspension or cancellation of a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+[5/2007 wef 01/07/2007]
 
-[32
+(2) Any person who fails to give a satisfactory account to the police officer for any guns, arms, explosives, explosive precursors or poisonous or noxious gas or noxious substance in his possession or under his control during the existence or after the expiry, suspension or cancellation of a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [30/2002]
+
+[5/2007 wef 01/07/2007]
 
 ### Search of vessels or aircraft
 
@@ -678,11 +854,13 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (c) is suspected of having on board any article which is intended to be exported or removed contrary to this Act; or
 
-(d) is suspected of having on board any guns, arms, explosives or naval or military stores for the exportation of which no licence has been issued,
+(d) is suspected of having on board any guns, arms, explosives, explosive precursors or naval or military stores for the exportation of which no licence has been issued,
 
 the Port Master, the Licensing Officer, the Commander, Airport Police or the Commander, Police Coast Guard may issue a search warrant directed to any boarding officer or any police officer named or referred to in the warrant.
 
 [30/2002]
+
+[5/2007 wef 01/07/2007]
 
 (2) In the execution of the warrant, any person to whom the warrant is directed may —
 
@@ -714,21 +892,19 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 (5) In this section, “Commander, Airport Police” and “Commander, Police Coast Guard” mean the persons designated by the Commissioner of Police as such.
 
-[33
-
 [30/2002]
 
 ### Persons conveying arms, etc., may be apprehended without warrant in suspicious circumstances
 
-30\.—(1) If any person is found carrying or conveying any guns, arms, naval or military storesor explosives in such a manner or under such circumstances as to afford reasonable grounds for suspicion that they may be used for any unlawful purpose dangerous to the public peace, any person may without warrant apprehend the person so found and detain him in custody.
+30\.—(1) If any person is found carrying or conveying any guns, arms, naval or military stores, explosives or explosive precursors in such a manner or under such circumstances as to afford reasonable grounds for suspicion that they may be used for any unlawful purpose dangerous to the public peace, any person may without warrant apprehend the person so found and detain him in custody.
+
+[5/2007 wef 01/07/2007]
 
 (2) Any person who is apprehended by a person not being a police officer shall be immediately taken to the nearest or other police station or be handed over to a police officer.
 
-[34
-
 ### Power to arrest without warrant persons committing dangerous offences
 
-31\. Any person who is found committing any act, for which he is punishable under this Act, which tends to cause explosion or fire in or about any place where an explosive is manufactured or stored, or any railway, port or airport or any carriage, vessel or aircraft, may be apprehended without a warrant by —
+31\. Any person who is found committing any act, for which he is punishable under this Act, which tends to cause explosion or fire in or about any place where an explosive or explosive precursor is manufactured or stored, or any railway, port or airport or any carriage, vessel or aircraft, may be apprehended without a warrant by —
 
 (a) a police officer;
 
@@ -736,13 +912,13 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 (c) an agent or employee of or other person authorised by the railway administration or the Maritime and Port Authority of Singapore.
 
-[35
-
 [7/96; 30/2002]
+
+[5/2007 wef 01/07/2007]
 
 ### Arrest by police officer without warrant
 
-32\. Any police officer may arrest without warrant any person found committing or attempting to commit or employing, aiding or assisting any person to commit an offence under section 10, 11, 13, 22, 24, 25, 26, 27(2) or 30.
+32\. Any police officer may arrest without warrant any person found committing or attempting to commit or employing, aiding or assisting any person to commit an offence under section 10, 11, 13, 21A, 21D, 22, 24, 25, 26, 27(2) or 30.
 
 [36
 
@@ -750,17 +926,17 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 33\. Any person arrested by virtue of any power given under this Act shall, together with any article as to which any offence may have been committed or attempted to have been committed, be taken to a police station, and conveyed, as soon as possible, before a District Court or a Magistrate’s Court to be dealt with according to law.
 
-### Power to stop and search for armsor explosives in street
+### Power to stop and search for arms, explosives or explosive precursors in street
 
-34\. It shall be lawful for any police officer to stop, and to search for armsor explosives, any person whom he may find in any street or other public place, at any hour of the day or night, who acts in a suspicious manner, or whom he may suspect of having any armsor explosives in his possession.
+34\. It shall be lawful for any police officer to stop, and to search for arms, explosives or explosive precursors, any person whom he may find in any street or other public place, at any hour of the day or night, who acts in a suspicious manner, or whom he may suspect of having any arms, explosives or explosive precursors in his possession.
 
-[38
+[5/2007 wef 01/07/2007]
 
 ### Presumption
 
-35\. Every person who is proved to have had in his possession or under his control anything whatever containing any guns, armsor explosives shall, until the contrary is proved, be deemed to have been in possession of those guns, armsor explosives.
+35\. Every person who is proved to have had in his possession or under his control anything whatever containing any guns, arms, explosives or explosive precursors shall, until the contrary is proved, be deemed to have been in possession of those guns, arms, explosives or explosive precursors.
 
-[39
+[5/2007 wef 01/07/2007]
 
 ## PART VI
 
@@ -770,17 +946,19 @@ MISCELLANEOUS PROVISIONS
 
 36\.—(1) Where there occurs, in or about or in connection with —
 
-(a) any place in which an explosive is manufactured, possessed or used; or
+(a) any place in which an explosive or explosive precursor is manufactured, possessed or used; or
 
-(b) any carriage, vessel or aircraft either conveying an explosive or on or from which an explosive is being loaded or unloaded,
+[5/2007 wef 01/07/2007]
+
+(b) any carriage, vessel or aircraft either conveying an explosive or explosive precursor or on or from which an explosive or explosive precursor is being loaded or unloaded,
+
+[5/2007 wef 01/07/2007]
 
 any accident by explosion or by fire attended with loss of human life, or serious injury to person or property, or of a description usually attended with such loss or injury, the occupier of the place, the master of the vessel, the pilot-in-command of the aircraft or the person in charge of the carriage shall immediately give notice thereof to the officer in charge of the nearest police station.
 
 [30/2002]
 
 (2) Any such occupier, master, pilot-in-command or person who fails to give notice as required by subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
-
-[41
 
 [30/2002]
 
@@ -802,15 +980,9 @@ any accident by explosion or by fire attended with loss of human life, or seriou
 
 ### Jurisdiction of court
 
-39\.—(1) All offences under this Act shall be triable by a District Court or a Magistrate’s Court.
+39\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(2) No Magistrate’s Court shall award a fine exceeding $2,000 or imprisonment exceeding 6 months.
-
-(3) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have power to impose the full penalty or punishment in respect of any offence under this Act.
-
-[26
-
-[30/2002]
+[5/2007 wef 01/07/2007]
 
 ### Sanction
 
@@ -864,13 +1036,71 @@ may be seized by any police officer and, together with the receptacles containin
 
 [30/2002]
 
-### Power to amend Schedule
+### Offences by bodies corporate, etc.
 
-45\. The Minister may, by order published in theGazette, amend the Schedule.
+44A\.—(1) Where an offence under this Act committed by a body corporate is proved —
 
-[40A
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[5/2007 wef 01/07/2007]
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[5/2007 wef 01/07/2007]
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[5/2007 wef 01/07/2007]
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[5/2007 wef 01/07/2007]
+
+(5) In this section —
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+[5/2007 wef 01/07/2007]
+
+(6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[5/2007 wef 01/07/2007]
+
+### General exemption power
+
+44B\. The Minister may, by order published in theGazette, exempt any person or premises, or any class or description of persons or premises, from all or any of the provisions of this Act, subject to such terms or conditions as may be prescribed.
+
+[5/2007 wef 01/07/2007]
+
+### Power to amend Schedules
+
+45\. The Minister may, by order published in theGazette, amend the First or Second Schedule.
 
 [30/2002]
+
+[5/2007 wef 01/07/2007]
 
 ### Power to make rules
 
@@ -889,6 +1119,10 @@ may be seized by any police officer and, together with the receptacles containin
 (f) to provide for the marking of guns or arms for the possession of which a licence is issued;
 
 (g) to regulate or prohibit, except under or in accordance with the conditions of a licence, the manufacture, possession, use, sale, purchase, storage, transport, importation and exportation of explosives or any specified class of explosives;
+
+(ga) to regulate or prohibit, except under or in accordance with the conditions of a licence, the manufacture, dealing in, use, storage, transportation, importation, exportation, possession and purchase of explosive precursors;
+
+[5/2007 wef 01/07/2007]
 
 (h) to regulate or prohibit except under and in accordance with the conditions of a licence, the manufacture, possession, use, sale, purchase, storage, transport, importation and exportation of poisonous or noxious gases or noxious substances or any specified class of poisonous or noxious gases or noxious substances;
 
@@ -912,13 +1146,19 @@ may be seized by any police officer and, together with the receptacles containin
 
 (r) to authorise any officer, either by name or office —
 
-(i) to enter, inspect and examine any place, carriage, vessel or aircraft in which an explosive is being manufactured, possessed, used, sold, transported or imported under a licence issued under this Act, or in which he has reason to believe that an explosive has been or is being manufactured, possessed, used, sold, transported or imported in contravention of this Act;
+(i) to enter, inspect and examine any place, carriage, vessel or aircraft in which an explosive or explosive precursor is being manufactured, possessed, stored or kept, used, dealt in, transported, imported or exported under a licence issued under this Act, or in which he has reason to believe that an explosive or explosive precursor has been or is being manufactured, possessed, stored or kept, used, dealt in, transported, imported or exported in contravention of this Act;
 
-(ii) to search for explosives therein;
+[5/2007 wef 01/07/2007]
 
-(iii) to take samples of any explosive found therein, on payment of their value;
+(ii) to search for explosives or explosive precursors therein;
 
-(iv) to seize, detain, remove and, if necessary, destroy any explosive found therein; and
+[5/2007 wef 01/07/2007]
+
+(iii) to take samples of any explosive or explosive precursor found therein, on payment of their value;
+
+(iv) to seize, detain, remove and, if necessary, destroy any explosive or explosive precursor found therein; and
+
+[5/2007 wef 01/07/2007]
 
 (v) to arrest without warrant and to search any person whom he reasonably believes to have committed an offence under any rules made under this Act;
 
@@ -930,13 +1170,17 @@ may be seized by any police officer and, together with the receptacles containin
 
 [30/2002]
 
-(2) The Minister may in making any rules prescribe the penalty with which the contravention thereof shall be punishable, but so that no such penalty shall exceed imprisonment for a term of 2 years or a fine of $5,000 or both and, in the case of a continuing contravention, a fine of $2,000 for every day during which the offence continues.
+(2) The Minister may, in making any rules —
+
+(a) provide that a contravention of any specified provision thereof shall be an offence; and
+
+(b) provide for penalties not exceeding a fine of $100,000 or imprisonment for a term not exceeding 2 years or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of $10,000 for every day or part thereof during which the offence continues.
+
+[5/2007 wef 01/07/2007]
 
 (3) No such rules shall affect the dealing with explosives within any dockyard, arsenal, fort, military cantonment or other place for keeping ordnance or naval or military or air force stores occupied, used, controlled or managed by the Government or the government of any other country for defence purposes in Singapore.
 
 (4) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
-
-[39
 
 ## THE SCHEDULE
 
@@ -1023,6 +1267,78 @@ NO
 0.5% by mass.
 
 [30/2002]
+
+SECOND SCHEDULE
+
+Sections 2(1) and 45
+
+Explosive Precursors
+
+1. 
+
+Ammonium nitrate, or any mixture of components one of which is ammonium nitrate, but not including —
+
+(a) aqueous solutions containing less than 60%, weight in weight, of ammonium nitrate; or
+
+(b) any material in solid form comprising a mixture of components, one of which is ammonium nitrate, where the nitrogen content derived from ammonium nitrate is less than 28% by weight of the said mixture.
+
+2. 
+
+Ammonium perchlorate.
+
+3. 
+
+Barium nitrate, not including preparations and solutions containing less than 10%, weight in weight, of barium nitrate.
+
+4. 
+
+Guanidine nitrate.
+
+5. 
+
+Hydrogen peroxide, not including preparations and solutions containing not more than 20%, weight in weight, of hydrogen peroxide.
+
+6. 
+
+Potassium chlorate.
+
+7. 
+
+Potassium nitrate, not including preparations and solutions containing less than 5%, weight in weight, of potassium nitrate or a combination of both potassium nitrate and sodium nitrate.
+
+8. 
+
+Potassium nitrite, not including aqueous solutions containing less than 5%, weight in weight, of potassium nitrite.
+
+9. 
+
+Potassium perchlorate.
+
+10. 
+
+Sodium chlorate.
+
+11. 
+
+Sodium nitrate, not including preparations and solutions containing less than 5%, weight in weight, of sodium nitrate or a combination of both sodium nitrate and potassium nitrate.
+
+12. 
+
+Sodium nitrite, not including aqueous solutions containing less than 5%, weight in weight, of sodium nitrite.
+
+13. 
+
+Sodium perchlorate.
+
+14. 
+
+Perchloric acid.
+
+15. 
+
+Tetranitromethane.
+
+[5/2007 wef 01/07/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -1172,6 +1488,12 @@ This Legislative History is provided for the convenience of users of the Arms an
 |||(Bill No. 52/2004 published on 20 October 2005)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Dates of commencement|10 June 2005 (Part IV)|
+|34.|**Act 5 of 2007—Arms and Explosives (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 17/2006 published on 9 November 2007)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 Arms and Explosives Act
