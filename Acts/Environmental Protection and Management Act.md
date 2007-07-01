@@ -1822,11 +1822,9 @@ Smelling bottles.
 
 Ammonium chlorate
 
-Ammonium nitrate
+Ammonium nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
-Aqueous solutions containing less than 60%, weight in weight, of ammonium nitrate.
-
-Ammonium perchlorate
+Ammonium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Anionic surface active agents
 
@@ -1884,9 +1882,7 @@ Asbestos in the form of chrysotile in any vehicle brake or clutch lining not ins
 
 The label to be affixed on the packaging of the vehicle brake and clutch lining is in accordance with Part III of the Second Schedule.
 
-Barium nitrate
-
-Preparations and solutions containing less than 10%, weight in weight, of barium nitrate.
+Barium nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
 Benzene —Deleted by S 78/2005, wef 16/02/2005.
 
@@ -2130,7 +2126,7 @@ Substances containing not more than 5%, weight in weight, of formic acid.
 
 Germane
 
-Guanidine nitrate
+Guanidine nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
 
@@ -2152,9 +2148,7 @@ In reagent kits supplied for medical or veterinary purposes, substances containi
 
 Hydrogen fluoride
 
-Hydrogen peroxide
-
-Preparations and solutions containing not more than 20%, weight in weight, of hydrogen peroxide.
+Hydrogen peroxide —Deleted by S 296/2007, wef 01/07/2007.
 
 Hydrogen selenide
 
@@ -2599,7 +2593,7 @@ Polychlorinated biphenyls
 
 Polychlorinated terphenyls
 
-Potassium chlorate
+Potassium chlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Potassium hydroxide
 
@@ -2609,15 +2603,11 @@ Accumulators;
 
 Batteries.
 
-Potassium nitrate
+Potassium nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
-Preparations and solutions containing less than 5%, weight in weight, of potassium nitrate or a combination of both potassium nitrate and sodium nitrate.
+Potassium nitrite —Deleted by S 296/2007, wef 01/07/2007.
 
-Potassium nitrite
-
-Aqueous solutions containing less than 5%, weight in weight, of potassium nitrite.
-
-Potassium perchlorate
+Potassium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Prochloraz
 
@@ -2627,7 +2617,7 @@ Propylene oxide —Deleted by S 78/2005, wef 16/02/2005.
 
 Silane —Deleted by S 78/2005, wef 16/02/2005.
 
-Sodium chlorate
+Sodium chlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Sodium hydroxide
 
@@ -2635,15 +2625,11 @@ Substances containing not more than 17%, weight in weight, of sodium hydroxide;
 
 Made-up formulated preparations either liquid or solid for biochemical tests.
 
-Sodium nitrate
+Sodium nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
-Preparations and solutions containing less than 5%, weight in weight, of sodium nitrate or a combination of both sodium nitrate and potassium nitrate.
+Sodium nitrite —Deleted by S 296/2007, wef 01/07/2007.
 
-Sodium nitrite
-
-Aqueous solutions containing less than 5%, weight in weight, of sodium nitrite.
-
-Sodium perchlorate
+Sodium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Styrene monomer —Deleted by S 78/2005, wef 16/02/2005.
 
@@ -2906,6 +2892,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 April 2005|
 |9.|**G. N. No. S 571/2005—Environmental Pollution Control Act (Amendment Of Second Schedule) (No. 2) Order 2005**|
 ||Date of commencement|1 December 2005|
+|10.|**G. N. No. S 296/2007—Environmental Pollution Control Act (Amendment Of Second Schedule) Order 2007**|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
