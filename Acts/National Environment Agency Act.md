@@ -94,6 +94,8 @@
 
 - [38 Misconduct or neglect of duty by employee before transfer](#Misconduct-or-neglect-of-duty-by-employee-before-transfer)
 
+- [38A Transfer to Agency of property, employees, existing contracts, etc., from Health Sciences Authority relating to Centre for Radiation Protection](#Transfer-to-Agency-of-property-employees-existing-contracts-etc-from-Health-Sciences-Authority-relating-to-Centre-for-Radiation-Protection)
+
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
 - [39 Annual report](#Annual-report)
@@ -294,11 +296,19 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 (t) to monitor and maintain records of seismological activities affecting Singapore;
 
-(u) to advise and make recommendations to the Government on matters, measures and regulations related to or connected with the environment, meteorology and seismology;
+(u) to advise and make recommendations to the Government on matters, measures and regulations related to or connected with the environment, radiation, meteorology and seismology;
 
-(v) to represent the Government internationally on matters related to or connected with the environment, meteorology and seismology; and
+[27/2007 wef 01/07/2007]
 
-(w) to carry out such other functions as are imposed upon the Agency by or under this Act or any other written law.
+(v) to represent the Government internationally on matters related to or connected with the environment, radiation, meteorology and seismology;
+
+[27/2007 wef 01/07/2007]
+
+(w) to control and regulate the import, export, possession, storage, transportation, sale and use of radioactive materials and irradiating apparatus; and
+
+[27/2007 wef 01/07/2007]
+
+(x) to carry out such other functions as are imposed upon the Agency by or under this Act or any other written law.
 
 [5/2003]
 
@@ -310,17 +320,27 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 12\. The Agency shall have power to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions and, in particular, may —
 
-(a) prescribe and implement regulatory policies, strategies, measures, standards or any other requirements on any matter related to or connected with environmental health, environmental protection, resource conservation, waste minimisation, waste recycling, waste collection and disposal and such other subject matter as may be necessary for the performance of the functions of the Agency;
+(a) prescribe and implement regulatory policies, strategies, measures, standards or any other requirements on any matter related to or connected with environmental health, environmental protection, radiation control, resource conservation, waste minimisation, waste recycling, waste collection and disposal and such other subject matter as may be necessary for the performance of the functions of the Agency;
+
+[27/2007 wef 01/07/2007]
 
 (b) specify, by notification in theGazette, all the accreditation, certification or inspection marks of the Agency for use in relation to any function of the Agency, and control the use of such marks;
 
-(c) regulate, accredit or certify any person to carry out any test, study, activity or service related to or connected with environmental pollution control, resource conservation, waste minimisation, waste recycling and waste collection and disposal;
+(c) regulate, accredit or certify any person to carry out any test, study, activity or service related to or connected with environmental pollution control, radiation control, resource conservation, waste minimisation, waste recycling and waste collection and disposal;
 
-(d) request information from and collaborate or co-operate with any person, whether in Singapore or elsewhere, on matters related to or connected with weather, climate, environmental health, environmental protection, resource conservation, waste minimisation, waste recycling, waste collection and disposal and such other subject matter as may be necessary for the performance of the functions of the Agency;
+[27/2007 wef 01/07/2007]
 
-(e) collect, analyse, compile, publish or disseminate information of a statistical nature related to or connected with weather, climate, environmental health, environmental protection, resource conservation, waste minimisation, waste recycling, waste collection and disposal and such other subject matter as may be necessary for the performance of the functions of the Agency;
+(d) request information from and collaborate or co-operate with any person, whether in Singapore or elsewhere, on matters related to or connected with weather, climate, environmental health, environmental protection, radiation control, resource conservation, waste minimisation, waste recycling, waste collection and disposal and such other subject matter as may be necessary for the performance of the functions of the Agency;
 
-(f) prescribe training requirements for matters related to or connected with environmental health, environmental protection, resource conservation, waste minimisation, waste recycling and waste collection and disposal, and provide training, conduct tests or award certificates of proficiency;
+[27/2007 wef 01/07/2007]
+
+(e) collect, analyse, compile, publish or disseminate information of a statistical nature related to or connected with weather, climate, environmental health, environmental protection, radiation control, resource conservation, waste minimisation, waste recycling, waste collection and disposal and such other subject matter as may be necessary for the performance of the functions of the Agency;
+
+[27/2007 wef 01/07/2007]
+
+(f) prescribe training requirements for matters related to or connected with environmental health, environmental protection, radiation control, resource conservation, waste minimisation, waste recycling and waste collection and disposal, and provide training, conduct tests or award certificates of proficiency;
+
+[27/2007 wef 01/07/2007]
 
 (g) establish meteorological offices and observation stations, arrange with any agency, authority or person to take and record meteorological observations and transmit meteorological reports and information;
 
@@ -568,6 +588,22 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 38\. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner any person who had, whilst he was in the employment of the Government, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
 
+### Transfer to Agency of property, employees, existing contracts, etc., from Health Sciences Authority relating to Centre for Radiation Protection
+
+38A\.—(1) As from the appointed day, such movable and immovable property vested in the Health Sciences Authority as may be determined by the Minister for Finance and used or managed by the Centre for Radiation Protection and all assets, interests, rights, privileges, liabilities and obligations of the Health Sciences Authority relating to the Centre for Radiation Protection shall be transferred to and shall vest in the Agency without further assurance, act or deed.
+
+(2) As from the appointed day, all persons employed immediately before that day by the Health Sciences Authority and posted to the Centre for Radiation Protection shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+
+(3) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Health Sciences Authority is a party and relating to the Centre for Radiation Protection or to any person transferred to the service of the Agency under subsection (2) shall continue in force on and after that day and shall be enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the Health Sciences Authority.
+
+(4) Section 32(2) to (5) shall apply, with the necessary modifications, to the transfer of property, assets, interests, rights, privileges, liabilities and obligations referred to in subsection (1).
+
+(5) Sections 33(2), 34, 35, 37 and 38 shall apply, with the necessary modifications, to the transfer of persons referred to in subsection (2).
+
+(6) In this section, “appointed day” means the date of commencement of the Radiation Protection Act 2007.
+
+[27/2007 wef 01/07/2007]
+
 ## PART VII
 
 MISCELLANEOUS
@@ -761,6 +797,12 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 27 of 2007—Radiation Protection Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 14/2007 published on 9 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
