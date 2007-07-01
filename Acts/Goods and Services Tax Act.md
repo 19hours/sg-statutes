@@ -58,6 +58,8 @@
 
 - [21 Zero-rating for exports and international services](#Zero-rating-for-exports-and-international-services)
 
+- [21A Zero-rating of supply of certain tools, etc.](#Zero-rating-of-supply-of-certain-tools-etc)
+
 - [22 Exempt supply](#Exempt-supply)
 
 - [23 Relief on supply of certain secondhand goods](#Relief-on-supply-of-certain-secondhand-goods)
@@ -74,7 +76,7 @@
 
 - [28 Application to Government](#Application-to-Government)
 
-- [29 Insurance indemnity payments](#Insurance-indemnity-payments)
+- [29 Input tax deemed incurred in relation to insurance cash payments](#Input-tax-deemed-incurred-in-relation-to-insurance-cash-payments)
 
 - [30 Persons treated as a group](#Persons-treated-as-a-group)
 
@@ -224,6 +226,8 @@
 
 - [90 Return of tax or penalty overpaid or erroneously paid](#Return-of-tax-or-penalty-overpaid-or-erroneously-paid)
 
+- [90A Advance rulings](#Advance-rulings)
+
 - [91 Transitional provisions](#Transitional-provisions)
 
 [**FIRST SCHEDULE Registration**](#FIRST-SCHEDULE-Registration)
@@ -233,6 +237,8 @@
 [**THIRD SCHEDULE Valuation — Special Cases**](#THIRD-SCHEDULE-Valuation-—-Special-Cases)
 
 [**FOURTH SCHEDULE Exempt Supplies**](#FOURTH-SCHEDULE-Exempt-Supplies)
+
+[**FIFTH SCHEDULE Advance Rulings**](#FIFTH-SCHEDULE-Advance-Rulings)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -628,15 +634,21 @@ then all the same consequences shall follow under this Act (and particularly so 
 
 ### Rate of tax
 
-16\. Tax shall be charged at the rate of 4% for the year 2003 and 5% for the year 2004 and subsequent years, and shall be charged on —
+16\. Tax shall be charged at the rate of —
 
-(a) the supply of goods or services, by reference to the value of the supply as determined under this Act; and
+(a) 4% for the period from 1st January 2003 to 31st December 2003 (both dates inclusive);
 
-(b) the importation of goods, by reference to the value of the goods as determined under this Act.
+(b) 5% for the period from 1st January 2004 to 30th June 2007 (both dates inclusive); and
 
-[UK VAT Act 1983, s. 9 (1)]
+(c) 7% from and including 1st July 2007,
 
-[43/2002]
+and shall be charged on —
+
+(i) the supply of goods or services, by reference to the value of the supply as determined under this Act; and
+
+(ii) the importation of goods, by reference to the value of the goods as determined under this Act.
+
+[28/2007 wef 01/07/2007]
 
 ### Value of supply of goods or services
 
@@ -754,7 +766,21 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 
 “initial specified period” means a period of 12 months from the due date for payment of the consideration or the part thereof, as the case may be, by the taxable person to his supplier;
 
-“subsequent specified period” means a period commencing on the day immediately following the end of the initial specified period, and ending on a day 6 years from the end of the prescribed accounting period during which the relevant input tax was first credited under subsection (2).
+“subsequent specified period” means —
+
+(a) where the prescribed accounting period during which the relevant input tax was first credited under subsection (2) ends before 1st January 2007, a period —
+
+(i) commencing on the day immediately following the end of the initial specified period; and
+
+(ii) ending on a day 6 years from the end of that prescribed accounting period; or
+
+(b) where the prescribed accounting period during which the relevant input tax was first credited under subsection (2) ends on or after 1st January 2007, a period —
+
+(i) commencing on the day immediately following the end of the initial specified period; and
+
+(ii) ending on a day 5 years from the end of that prescribed accounting period.
+
+[28/2007 wef 01/07/2007]
 
 [UK VAT Act 1983, s. 14]
 
@@ -806,7 +832,7 @@ RELIEFS
 
 ### Zero-rating for exports and international services
 
-21\.—(1) Subject to this section , a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
+21\.—(1) Subject to this section and section 21A, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
 
 [28/2007 wef 01/07/2007]
 
@@ -840,15 +866,15 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (ii) are in such a place at the time of the supply;
 
-(e) services supplied directly in connection with land or any improvement thereto situated outside Singapore;
+(e) subject to subsection (4B), services supplied directly in connection with land or any improvement thereto situated outside Singapore;
 
 [28/2007 wef 01/07/2007]
 
-(f) services supplied directly in connection with goods situated outside Singapore when the services are performed;
+(f) subject to subsection (4B), services supplied directly in connection with goods situated outside Singapore when the services are performed;
 
 [28/2007 wef 01/07/2007]
 
-(g) services supplied directly in connection with goods for export outside Singapore and supplied to a person who belongs in a country other than Singapore, at the time the services are performed;
+(g) subject to subsection (4B), services supplied directly in connection with goods for export outside Singapore and supplied to a person who belongs in a country other than Singapore, at the time the services are performed;
 
 [28/2007 wef 01/07/2007]
 
@@ -862,17 +888,13 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (iii) services ancillary to, including that of organising the performance outside Singapore of the services referred to in sub-paragraphs (i) and (ii);
 
-(j) services supplied —
+(j) subject to subsections (4B) and (4C), services supplied —
 
 (i) under a contract with a person who belongs in a country outside Singapore; and
 
-(ii) which directly benefit a person who belongs in a country other than Singapore and who is outside Singapore at the time the services are performed,
+(ii) which directly benefit a person who belongs in a country other than Singapore and who is outside Singapore at the time the services are performed;
 
-not being services which are supplied directly in connection with —
-
-(A) land or any improvement thereto situated inside Singapore; or
-
-(B) goods situated inside Singapore at the time the services are performed, other than goods referred to in paragraph (g);
+[28/2007 wef 01/07/2007]
 
 (k) prescribed services supplied —
 
@@ -912,15 +934,27 @@ not being services which are supplied directly in connection with —
 
 (ii) which directly benefit a person who belongs in a country other than Singapore,
 
-relating to the co-location in Singapore of computer server equipment belonging to the person referred to in sub-paragraph (i) or (ii);or
+relating to the co-location in Singapore of computer server equipment belonging to the person referred to in sub-paragraph (i) or (ii);
 
 [38/2005 wef 01/01/2006]
 
 [28/2007 wef 01/07/2007]
 
-(t) prescribed services in connection with the provision of an electronic system relating to the import of goods into or the export of goods out of Singapore.
+(t) prescribed services in connection with the provision of an electronic system relating to the import of goods into or the export of goods out of Singapore; or
 
 [38/2005 wef 01/01/2006]
+
+[28/2007 wef 01/07/2007]
+
+[33/2008 wef 01/01/2009]
+
+(u) subject to subsection (4D), services comprising either of or both —
+
+(i) the supply of a right to promulgate an advertisement by means of any medium of communication; and
+
+(ii) the promulgation of an advertisement by means of any medium of communication,
+
+where the Comptroller is satisfied that the advertisement is intended to be substantially promulgated outside Singapore.
 
 [28/2007 wef 01/07/2007]
 
@@ -960,6 +994,26 @@ being services performed substantially in Singapore.
 
 [50/2004]
 
+(4B) The services referred to in subsection (3)(e), (f), (g) and (j) shall not include any services comprising either of or both —
+
+(a) the supply of a right to promulgate an advertisement by means of any medium of communication; and
+
+(b) the promulgation of an advertisement by means of any medium of communication.
+
+[28/2007 wef 01/07/2007]
+
+(4C) The services referred to in subsection (3)(j) shall not include any services which are supplied directly in connection with —
+
+(a) land or any improvement thereto situated inside Singapore; or
+
+(b) goods situated inside Singapore at the time the services are performed, other than goods referred to in subsection (3)(g).
+
+[28/2007 wef 01/07/2007]
+
+(4D) The services referred to in subsection (3)(u) shall not include any services comprising only of the promulgation of an advertisement by means of the transmission, emission or reception of signs, signals, writing, images, sounds or intelligence by any nature of wire, radio, optical or other electro-magnetic systems whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes by any means in the course of their transmission, emission or reception.
+
+[28/2007 wef 01/07/2007]
+
 (5) Where a description referred to in subsection (3) is a transaction which would not otherwise be a supply of services, the transaction shall, for the purposes of this Act, be treated as a supply of services in Singapore.
 
 (6) A supply of goods is zero-rated where the Comptroller is satisfied that the person supplying the goods —
@@ -989,6 +1043,32 @@ and the presence of the goods in Singapore after that date or the failure to com
 [UK VAT Act 1983, s. 16; NZ GST Act 1985, s. 11 (2)]
 
 [25/96]
+
+### Zero-rating of supply of certain tools, etc.
+
+21A\.—(1) Subject to such conditions as the Minister may prescribe, the supply by any taxable person of —
+
+(a) any prescribed tool or prescribed machinery used in the manufacture of goods;
+
+(b) any services directly in connection with such tool ; or
+
+[33/2008 wef 01/01/2009]
+
+(c) any prototype of such tool ,
+
+[33/2008 wef 01/01/2009]
+
+to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
+
+[33/2008 wef 01/01/2009]
+
+(2) Where a supply of goods or services by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
+
+(a) no tax shall be charged on the supply; but
+
+(b) it shall in all other respects be treated as a taxable supply,
+
+and accordingly the rate at which tax is treated as charged on the supply shall be nil.
 
 ### Exempt supply
 
@@ -1170,15 +1250,25 @@ SPECIAL CASES
 
 [UK VAT Act 1983, s. 27]
 
-### Insurance indemnity payments
+### Input tax deemed incurred in relation to insurance cash payments
 
-29\. The Minister may by regulations provide —
+29\.—(1) The Minister may by regulations provide —
 
-(a) that where a taxable person receives any indemnity payment pursuant to a contract of insurance, that payment shall, to the extent that it relates to a loss incurred in the course of making a taxable supply, be treated as consideration received for a supply of services performed on the day of receipt of that indemnity payment by that taxable person in the course or furtherance of that person’s business; and
+(a) that where the premium payable to an insurer under any contract of insurance is subject to tax at a rate specified under section 16, the insurer is deemed to have incurred input tax on any cash payment made by him upon the occurrence of an insured event and which is obligatory under that contract of insurance (referred to in this section as deemed input tax), except in such situation as the Minister may decide otherwise for the protection of revenue;
 
-(b) for the calculation of the deduction of an amount equal to the prescribed fraction of any payment made by a taxable person to indemnify another person pursuant to any contract of insurance from any output tax that is due from the taxable person and the manner in which such deductions is to be allowed.
+(b) that any regulations made under paragraph (a) shall apply only where the contract of insurance is taken out by such person as may be prescribed;
 
-[NZ GST Act 1985, ss. 5 (13) and 20 (3) (d)]
+(c) for the determination of the amount of deemed input tax referred to in paragraph (a) and the period in which the deemed input tax is deemed to have been incurred;
+
+(d) for the adjustment of the amount of deemed input tax referred to in paragraph (a) where, after any cash payment referred to in that paragraph has been made, the insurer recovers such payment or any part thereof from any person (other than his re-insurer under a re-insurance contract);
+
+(e) for the determination of the amount of the adjustment referred to in paragraph (d), and the period in which such adjustment is to be made; and
+
+(f) for such incidental and supplementary matters as appear to the Minister necessary or expedient.
+
+(2) Where input tax is deemed to have been incurred under any regulations made under subsection (1), such deemed input tax shall, for the purposes of this Act, be treated as input tax within the meaning of section 19.
+
+[28/2007 wef 01/07/2007]
 
 ### Persons treated as a group
 
@@ -1882,7 +1972,13 @@ the Comptroller may assess that amount as being tax due from him for the prescri
 
 (4) Where the person failing to make a return, or making a return which appears to the Comptroller to be incomplete or incorrect, was required to make the return as a personal representative, trustee in bankruptcy, receiver, liquidator or person otherwise acting in a representative capacity in relation to another person, subsection (1) shall apply as if the reference to tax due from him included a reference to a tax due from that other person.
 
-(5) An assessment under subsection (1) or (2) of an amount of tax due for any prescribed accounting period shall not be made more than 7 years after the end of the prescribed accounting period.
+(5) An assessment under subsection (1) or (2) of an amount of tax due for any prescribed accounting period shall not be made —
+
+(a) in the case of a prescribed accounting period ending before 1st January 2007, more than 7 years from the end of the prescribed accounting period; and
+
+(b) in the case of a prescribed accounting period ending on or after 1st January 2007, more than 5 years from the end of the prescribed accounting period.
+
+[28/2007 wef 01/07/2007]
 
 (5A) Notwithstanding subsection (5), where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, the Comptroller may for the purpose of making good any loss of tax or payment or refund of tax attributable to fraud or wilful default, make an assessment at any time.
 
@@ -1918,6 +2014,14 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (10) The Comptroller may at any time make all such alterations in or additions to an assessment made under this section as he thinks necessary to ensure the correctness thereof and notify the person accordingly.
 
+(10A) Where the Comptroller raises an assessment under subsection (1) upon the failure of a person to make any returns, and, subsequent to such assessment, the person makes a return, the Comptroller may, in his discretion, take into account the return and revise his assessment as he deems fit.
+
+[28/2007 wef 01/07/2007]
+
+(10B) For the purpose of subsection (10A), where a person makes a return in respect of a prescribed accounting period ending on or after 1st January 2007 more than 5 years from the end of the prescribed accounting period, the return shall be treated as not having been made.
+
+[28/2007 wef 01/07/2007]
+
 (11) For the purposes of this section, notification to a personal representative, trustee in bankruptcy, receiver, liquidator or person otherwise acting as aforesaid shall be treated as notification to the person in relation to whom he so acts.
 
 [UK VAT Act 1983, Sch. 7 Para. 4; UK FA 1985, s. 22 (7)]
@@ -1940,7 +2044,13 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (g) such other records as may be prescribed.
 
-(2) Any records kept in pursuance of this section are to be preserved for a period of not less than 7 years.
+(2) Any records kept in pursuance of this section shall be preserved —
+
+(a) in the case of records relating to a prescribed accounting period ending before 1st January 2007, for a period of not less than 7 years from the end of the prescribed accounting period; and
+
+(b) in the case of records relating to a prescribed accounting period ending on or after 1st January 2007, for a period of not less than 5 years from the end of the prescribed accounting period.
+
+[28/2007 wef 01/07/2007]
 
 (3) The duty under this section to preserve records may be discharged by the preservation of the information contained therein by such means as the Comptroller may approve.
 
@@ -3098,7 +3208,37 @@ GENERAL PROVISIONS
 
 ### Return of tax or penalty overpaid or erroneously paid
 
-90\.—(1) Where a claim is made in writing in such form and manner as the Comptroller may determine and within 6 years that any money has been overpaid or erroneously paid as tax or penalty under this Act, it shall be lawful for the Comptroller to refund such money to the claimant if it is proved to the satisfaction of the Comptroller that the money has been so overpaid or erroneously paid.
+90\.—(1) Except as provided in subsection (1A), where a claim is made in writing in such form and manner as the Comptroller may determine and within 6 years that any money has been overpaid or erroneously paid as tax or penalty under this Act, it shall be lawful for the Comptroller to refund such money to the claimant if it is proved to the satisfaction of the Comptroller that the money has been so overpaid or erroneously paid.
+
+[28/2007 wef 01/07/2007]
+
+(1A) Subject to subsection (1C), where any person makes a claim in accordance with subsection (1B) —
+
+(a) that any money was overpaid or erroneously paid by him as tax or penalty under this Act —
+
+(i) in the case of a claim relating to tax on a supply made or deemed to have been made by a person not registered for tax purposes, on or after 1st January 2007; and
+
+(ii) in any other case, in respect of a prescribed accounting period ending on or after 1st January 2007; or
+
+(b) that any money is due to him under this Act in respect of a prescribed accounting period ending on or after 1st January 2007,
+
+it shall be lawful for the Comptroller to refund or pay such money to the person if it is proved to the satisfaction of the Comptroller that the money was overpaid or erroneously paid as tax or penalty by, or the money is due to, the person.
+
+[28/2007 wef 01/07/2007]
+
+(1B) A claim referred to in subsection (1A) shall be made —
+
+(a) in writing in such form and manner as the Comptroller may determine; and
+
+(b) within 5 years from —
+
+(i) in the case of a claim referred to in subsection (1A)(a)(i), the date on which the tax was paid by the buyer to the supplier; and
+
+(ii) in the case of a claim referred to in subsection (1A)(a)(ii) or (b), the end of the prescribed accounting period to which the claim relates.
+
+[28/2007 wef 01/07/2007]
+
+(1C) The Comptroller may refuse to make any refund or payment under subsection (1A) if the claim relates to any tax or penalty which has not been received by the Comptroller.
 
 [28/2007 wef 01/07/2007]
 
@@ -3107,6 +3247,22 @@ GENERAL PROVISIONS
 (3) Except as provided in this section, the Comptroller shall not be liable to repay any money which has been overpaid or erroneously paid as tax or penalty under this Act.
 
 [UK FA 1989, s. 24]
+
+### Advance rulings
+
+90A\.—(1) The Comptroller may, on an application made by a person in accordance with Part I of the Fifth Schedule, make a ruling on any of the matters specified in that Part in accordance with that Part.
+
+(2) Part I of the Fifth Schedule shall apply to and in connection with an application under subsection (1) and any ruling made by the Comptroller under that subsection.
+
+(3) The fees specified in Part II of the Fifth Schedule shall be payable to and retained by the Authority in respect of any application under subsection (1).
+
+(4) The Authority may, in exceptional circumstances in its discretion, waive in whole or in part any fee payable by an applicant under subsection (3).
+
+(5) The Minister may by order amend the Fifth Schedule.
+
+(6) In this section, “Authority” means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act (Cap. 138A).
+
+[28/2007 wef 01/07/2007]
 
 ### Transitional provisions
 
@@ -3392,13 +3548,15 @@ Transfer or disposal of business assets
 
 (b) sub-paragraph (3) applies to goods used, or made available for use, by himself personally.
 
-6. Where, in the case of a business carried on by a taxable person, goods forming part of the assets of a business are, under any power exercisable by another person —
+6. Where, in the case of a business carried on by a taxable person, goods forming part of the assets of the business are, under any power exercisable by another person —
 
-(a) sold; or
+(a) supplied by way of sale; or
 
 (b) used in the making of any supply (other than a supply by way of sale),
 
-by the other person in or towards satisfaction of a debt owed by the taxable person, the goods shall be deemed to be supplied by the taxable person in the course or furtherance of his business.
+by the other person in or towards satisfaction of a debt owed by the taxable person, the supply by the other person shall be a supply of goods or a supply of services determined in accordance with this Act and be deemed to be made by the taxable person in the course or furtherance of his business.
+
+[S 328/2007 wef 01/07/2007]
 
 7.—(1) Where a person ceases to be a taxable person, any goods then forming part of the assets of a business carried on by him shall be deemed to be supplied by him in the course or furtherance of his business immediately before he ceases to be a taxable person, unless —
 
@@ -3764,6 +3922,198 @@ Application
 
 (c) any building, flat or tenement which is not approved exclusively for residential purposes under the Planning Act (Cap. 232).
 
+FIFTH SCHEDULE
+
+Section 90A
+
+Advance Rulings
+
+Part I
+
+1.—(1) Subject to the provisions of this Part, on an application made in accordance with this Part, the Comptroller shall make a ruling on how any provision of this Act applies, or would apply, to a person and to an arrangement for which the ruling is sought.
+
+(2) The Comptroller may make a ruling on how any provision of this Act applies to the arrangement described in an application, whether or not reference was made to that provision in the application.
+
+(3) The Comptroller shall not make a ruling on a provision of this Act that authorises or requires the Comptroller to —
+
+(a) impose or remit a penalty;
+
+(b) inquire into the correctness of any return or other information supplied by any person;
+
+(c) prosecute any person; or
+
+(d) recover any debt owing by any person.
+
+(4) An application for a ruling shall —
+
+(a) be made in such form as the Comptroller may determine; and
+
+(b) comply with the disclosure requirements of paragraph 9.
+
+(5) An applicant for a ruling may at any time withdraw the application by notice in writing to the Comptroller.
+
+2. The Comptroller may decline to make a ruling if —
+
+(a) the application for the ruling would require the Comptroller to determine any question of fact;
+
+(b) the Comptroller considers that the correctness of the ruling would depend on the making of assumptions, whether in respect of a future event or any other matter;
+
+(c) the matter on which the ruling is sought is subject to an objection or appeal, whether in relation to the applicant or any other person; or
+
+(d) the applicant has outstanding debts relating to earlier ruling applications.
+
+3. The Comptroller shall not make a ruling if —
+
+(a) the matter on which the ruling is sought is the subject of a return which has been or is due to be lodged under this Act;
+
+(b) at the time the application is made or at any time before the ruling is issued, the Comptroller considers that the person to whom the ruling is to apply is not seriously contemplating the arrangement for which the ruling is sought;
+
+(c) the application is frivolous or vexatious;
+
+(d) the matter on which the ruling is sought involves the interpretation of any foreign law;
+
+(e) a ruling already exists on how the relevant provision of this Act applies to the person and the arrangement, and the proposed ruling would apply to a period to which the existing ruling applies;
+
+(f) an assessment (other than an assessment of any estimated tax) relating to the person, the arrangement, and a period to which the proposed ruling would apply, has been made, unless the application is received by the Comptroller before the date the assessment is made;
+
+(g) the Comptroller is undertaking an audit or investigation on how any provision of this Act applies to the applicant, or to an arrangement similar to the arrangement which is the subject of the application, during any period for which the proposed ruling would apply were the ruling to be made;
+
+(h) in the Comptroller’s opinion, the applicant has not provided sufficient information in relation to the application after the Comptroller has requested further information;
+
+(i) in the Comptroller’s opinion, it would be unreasonable to make a ruling in view of the resources available to the Comptroller; or
+
+(j) the application for the ruling would require the Comptroller to form an opinion as to a generally accepted accounting principle or to form an opinion as to a commercially acceptable practice.
+
+4\. The Comptroller shall, where he has declined to make a ruling under paragraph 2 or has not made a ruling by virtue of paragraph 3, notify the applicant in writing of his decision and the reasons therefor.
+
+5. Where the Comptroller has made a ruling on the application of any provision of this Act in relation to an arrangement, and —
+
+(a) the ruling applies in relation to the arrangement during the whole or any part of the period specified in the ruling; and
+
+(b) the person to whom the ruling applies discloses in accordance with paragraph 17 that he has relied on the ruling in preparing and providing a return,
+
+the Comptroller shall apply the provision in relation to the person and the arrangement in respect of the whole or the part of the period, as the case may be, in accordance with the ruling.
+
+6. A ruling shall apply in relation to an arrangement as a ruling on a provision of this Act —
+
+(a) only if the provision is expressly referred to in the ruling; and
+
+(b) for a period of 3 years from the date the ruling is made or such other period as the Comptroller may, taking into account any special circumstances, determine.
+
+7. A ruling shall not apply to a person in relation to an arrangement if —
+
+(a) the arrangement is materially different from the arrangement identified in the ruling;
+
+(b) there was a material omission or misrepresentation in, or in connection with, the application for the ruling;
+
+(c) the Comptroller makes an assumption about a future event or another matter that is material to the ruling, and the assumption subsequently proves to be incorrect; or
+
+(d) the Comptroller stipulates a condition that is not satisfied.
+
+8.—(1) A person, in his own right or on behalf of a person who has yet to come into legal existence, may apply to the Comptroller for a ruling on how a provision of this Act applies, or would apply, to —
+
+(a) the person making the application or the prospective person, as the case may be; and
+
+(b) an arrangement.
+
+(2) Two or more persons may jointly apply, or a person on behalf of 2 or more persons who have yet to come into legal existence may apply, to the Comptroller for a ruling on how a provision of this Act applies, or would apply, to each person and to an arrangement.
+
+9.—(1) An application for a ruling shall —
+
+(a) identify the applicant;
+
+(b) disclose all relevant facts (including the reasons for the arrangement, if applicable) and documents relating to the arrangement in respect of which the ruling is sought;
+
+(c) state the provision of this Act in respect of which the ruling is sought;
+
+(d) state the proposition of law (if any) which is relevant to the issues raised in the application;
+
+(e) state whether a previous application has been made on the same or any similar arrangement by the applicant and the result of any such application; and
+
+(f) provide a draft ruling.
+
+(2) If the Comptroller considers that it would be unreasonable to require the applicant to comply with any of the requirements in sub-paragraph (1)(c) to (f), the Comptroller may waive those requirements.
+
+(3) Any document provided by any person under this Schedule shall be retained by the Comptroller.
+
+10\. The Comptroller may at any time request further relevant information from an applicant for a ruling.
+
+11.—(1) If the Comptroller considers that the correctness of a ruling would depend on assumptions being made about a future event or other matter, the Comptroller may make the assumptions that he considers to be most appropriate.
+
+(2) The Comptroller may not make assumptions about information which the applicant can provide.
+
+12.—(1) A ruling made by the Comptroller shall state —
+
+(a) that it is a ruling made under section 90A;
+
+(b) the identity of the person, the provision of this Act, and the arrangement (which may be identified by reference to the arrangement in the application) to which the ruling applies;
+
+(c) how the provision of this Act applies to the person and to the arrangement;
+
+(d) the period for which the ruling applies pursuant to paragraph 6;
+
+(e) the material assumptions about future events or other matters made by the Comptroller; and
+
+(f) the conditions (if any) stipulated by the Comptroller.
+
+(2) The Comptroller shall notify the making of a ruling by sending a copy of the ruling to the person or persons who applied for it.
+
+13.—(1) The Comptroller may at any time withdraw a ruling by notifying the person to whom the ruling applies in writing of the withdrawal and the reasons therefor.
+
+(2) The ruling shall be withdrawn from the date specified in the notice of withdrawal.
+
+(3) The date referred to in sub-paragraph (2) shall not be earlier than the date on which the person could reasonably be expected to receive the notice of withdrawal.
+
+(4) If the Comptroller withdraws a ruling —
+
+(a) the ruling shall not apply to any arrangement entered into or effected on or after the date of withdrawal; but
+
+(b) the ruling shall continue to apply in relation to any arrangement for the remainder of the period set out in paragraph 6(b) if the arrangement has been entered into or effected before the date of withdrawal.
+
+14.—(1) The Comptroller shall not be required to withdraw and reissue a new ruling to correct a typographical or a minor error if the correction does not change the meaning of the ruling.
+
+(2) A ruling that is not withdrawn and reissued remains valid for the period set out in paragraph 6(b).
+
+15\. A ruling shall not apply from the date a provision of this Act is repealed or amended to the extent that the repeal or amendment changes the way the provision applies in the ruling.
+
+16\. The fact that there has been an application for a ruling shall not affect a person’s obligation to provide any return, make any payment, or do any other act, or the Comptroller’s power to make or amend any assessment.
+
+17. Where —
+
+(a) a ruling has been obtained;
+
+(b) the person to whom the ruling applies is required to provide a return under this Act; and
+
+(c) in preparing the return the person is required to take into account the way in which a provision of this Act applies to the arrangement identified in the ruling,
+
+the person shall disclose the following in such form and manner, and within such time, as the Comptroller may require:
+
+(i) the existence of the ruling;
+
+(ii) whether or not the person has relied on the ruling in preparing and providing the return; and
+
+(iii) any material changes to the arrangement identified in the ruling.
+
+Part II
+
+1. The fees specified in respect of an application for a ruling made in accordance with Part I are —
+
+(a) a non-refundable application fee of $525 (inclusive of tax), which shall accompany the application;
+
+(b) a further fee, calculated at $131.25 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+
+(c) an additional fee (inclusive of tax), of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
+
+(d) reimbursement fees in respect of —
+
+(i) any fees paid by the Comptroller to any person, if the Comptroller requires external advice in relation to the ruling and the applicant agrees to the Comptroller seeking such external advice; and
+
+(ii) any costs and reasonable disbursements incurred by the Comptroller in relation to the ruling.
+
+2\. If an application for a ruling is withdrawn, the applicant shall be liable to pay all fees incurred before the Comptroller received notice of the withdrawal.
+
+3\. The Comptroller shall ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
+
 ## LEGISLATIVE SOURCE KEY
 
 Goods and Services Tax Act
@@ -3961,6 +4311,14 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2006|
 |24.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
 ||Date of commencement|1 July 2006|
+|25.|**G. N. No. S 328/2007—Goods and Services Tax Act (Amendment of Second Schedule) Order 2007**|
+||Date of commencement|1 July 2007|
+|26.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 15/2007 published on 15 June 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Dates of commencement|1 July 2007|
+|||17 February 2006|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
