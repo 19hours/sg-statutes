@@ -934,7 +934,7 @@ Common Gaming Houses Act
 
 Sections 4, 5, 6, 8(3) and 8(4).
 
-Cap. 49
+Cap. 49.
 
 S 9/87 wef 15-1-87.
 
@@ -1422,6 +1422,18 @@ Section 5.
 
 Cap. 72.
 
+Employment of Foreign Manpower Act
+
+...
+
+Sections 5(6) and 22(1)(c), (d), (e) and (f).
+
+Cap. 91A
+
+Section 20 in respect of any officer of a body corporate, or other person in such capacity, guilty of any of the above offences.
+
+Section 23 in respect of any person who abets the commission of any of the above offences.
+
 Immigration Act
 
 ...
@@ -1435,6 +1447,8 @@ Trade Marks Act 1998
 ...
 
 Sections 46, 48 and 52.
+
+[S 374/2007 wef 01/07/2007]
 
 [17/80]
 
@@ -1598,3 +1612,5 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 40/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
 ||Date of commencement|1 March 2006|
+|28.|**G. N. No. S 374/2007—Registration of Criminals Act (Amendment of Second Schedule) Order 2007**|
+||Date of commencement|1 July 2007|
