@@ -112,6 +112,8 @@
 
 - [13U Exemption of income of not-for-profit organisation](#Exemption-of-income-of-not-for-profit-organisation)
 
+- [13V Exemption of income derived by law practice from international arbitration held in Singapore](#Exemption-of-income-derived-by-law-practice-from-international-arbitration-held-in-Singapore)
+
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
 - [14 Deductions allowed](#Deductions-allowed)
@@ -604,8 +606,6 @@ PRELIMINARY
 
 and “employer” and other cognate expressions shall be construed accordingly;
 
-“employment pass” means an employment pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
-
 “executor” means any executor, administrator or other person administering the estate of a deceased person;
 
 “Fund Manager” or “fund manager” means a company holding a capital markets services licence under the Securities and Futures Act (Cap. 289) for fund management or that is exempted under that Act from holding such a licence;
@@ -718,7 +718,9 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 [34/2005 wef 30/01/2006]
 
-“work permit” means a work permit issued by the Controller of Work Permits under the Employment of Foreign Workers Act (Cap. 91A);
+“work pass” means a work pass issued by the Controller of Work Passes under the Employment of Foreign Manpower Act (Cap. 91A);
+
+[30/2007 wef 01/07/2007]
 
 “year of assessment” means the period of 12 months commencing on 1st January 1948, and each subsequent period of 12 months.
 
@@ -1434,7 +1436,7 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [11/94]
 
-(3) Subsection (2) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit in that year.
+(3) Subsection (2) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass in that year.
 
 [1/98]
 
@@ -1446,7 +1448,7 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [21/2003]
 
-(6) Subsection (4) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit in that year.
+(6) Subsection (4) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass in that year.
 
 [1/98]
 
@@ -3989,6 +3991,88 @@ ought not to have been so exempted for any year of assessment, the Comptroller m
 
 [53/2007 wef 15/02/2007]
 
+### Exemption of income derived by law practice from international arbitration held in Singapore
+
+13V\.—(1) Any law practice intending to provide legal services in connection with any international arbitration the hearing of which is to be held in Singapore may, from 1st July 2007 to 30th June 2012, apply to the Minister, or such person as he may appoint, for approval as an approved law practice.
+
+(2) Where the Minister, or such person as he may appoint, considers it expedient in the public interest to do so, he may approve the application and issue a letter to the law practice subject to such conditions as he thinks fit.
+
+(3) Every letter issued under subsection (2) shall specify a date as the commencement day from which the approved law practice shall be entitled to tax relief under this section.
+
+(4) The tax relief period of an approved law practice shall commence on its commencement day and shall continue for such period, not exceeding 5 years, as is specified in the letter issued to it under subsection (2).
+
+(5) The amount of the income of an approved law practice which will qualify for the relief for any year of assessment shall be the excess of the total amount of the qualifying income of the approved law practice for the basis period for that year of assessment over its base income.
+
+(6) Where an approved law practice has satisfied the conditions specified in the letter issued to it under subsection (2), one-half of the amount of the income of the approved law practice for any year of assessment which qualifies for the relief as ascertained under subsection (5) shall not form part of the statutory income of the approved law practice for that year of assessment and shall be exempt from tax.
+
+(7) Where an approved law practice is a law corporation, the exemption under section 43(6) or (6A), as the case may be, shall not apply to the balance of the qualifying income exceeding the base income of the approved law practice that is not exempt under subsection (6).
+
+(8) The base income referred to in subsection (5) is —
+
+(a) where an approved law practice had in the period of 3 years immediately preceding the commencement day provided legal services in connection with any qualifying international arbitration the hearing of which had been held at least once in Singapore within the period ––
+
+(i) the amount ascertained by dividing the total income derived from providing those legal services in the period by the actual number of years in the period in which those legal services were provided; or
+
+(ii) if the amount ascertained under sub-paragraph (i) is less than zero, deemed to be zero; or
+
+(b) such amount as the Minister may specify.
+
+(9) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses, losses and donations allowable under this Act which are attributable to the qualifying income of an approved law practice are to be deducted.
+
+(10) In determining the qualifying income of an approved law practice for the basis period for any year of assessment, there shall be deducted from the income —
+
+(a) expenses and donations allowable under this Act for that year of assessment which are attributable to that income; and
+
+(b) any allowances for that year of assessment under section 19, 19A, 20, 21 or 22 attributable to that income notwithstanding that no claim for those allowances has been made.
+
+(11) The Comptroller may require an auditor to certify the income derived by an approved law practice from legal services in connection with any qualifying international arbitration and any direct costs and expenses incurred therefor.
+
+(12) Where an approved law practice has in any year of assessment during the tax relief period incurred any loss from providing legal services in connection with any qualifying international arbitration or any allowances or donations attributable to the qualifying income remaining unabsorbed, 50% of the loss, allowances or donations, in each case, shall be deducted as provided for in section 23 or 37, as the case may be, and the balance shall be disregarded.
+
+(13) The following provisions shall apply during the period from 1st July 2007 to 31st December 2007 to an approved law practice which is a law corporation resident in Singapore:
+
+(a) as soon as any amount of income of the approved law practice is exempted under subsection (6), such amount shall be credited to an account to be kept by the approved law practice for the purpose of this section;
+
+(b) where such account is in credit at the date on which any dividends are paid by the approved law practice out of income which has been exempted, an amount equal to such dividends or to such credit, whichever is the less, shall be debited to such account;
+
+(c) so much of the amount of any dividends debited to such account as are received by a shareholder in the approved law practice shall, if the Comptroller is satisfied with the entries in such account, be exempt from tax in the hands of such shareholder;
+
+(d) any dividends debited to such account shall be treated as having been distributed to the shareholders of the approved law practice or any particular class of such shareholders in accordance with the proportion of their shareholdings in the approved law practice;
+
+(e) section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section;
+
+(f) notwithstanding paragraph (c), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+(14) An approved law practice which is a law corporation shall deliver to the Comptroller a copy of the accounts referred to in subsection (13) made up to any date specified by him whenever called upon to do so by notice in writing.
+
+(15) In this section —
+
+“arbitral tribunal”, “award”, “international arbitration” and “party” have the same meanings as in the International Arbitration Act (Cap. 143A);
+
+“client”, “foreign law firm”, “Formal Law Alliance”, “Joint Law Venture”, “law corporation”, “law firm” and “limited liability law partnership” have the same meanings as in the Legal Profession Act (Cap. 161);
+
+“hearing” means a hearing by the arbitral tribunal on the substance of the dispute;
+
+“law practice” means a law firm, law corporation, limited liability law partnership, foreign law firm, Formal Law Alliance or Joint Law Venture;
+
+“legal services in connection with any qualifying international arbitration” means any professional work of a legal nature provided by lawyers of the approved law practice for a client who is a party to an international arbitration the hearing of which is held in Singapore during its tax relief period (or the period referred to in subsection (8)(a)) for the purposes of the international arbitration, beginning from —
+
+(a) where the client is the claimant serving the request for arbitration, the date of issue of the request for arbitration; or
+
+(b) where the client is the respondent being served the request for arbitration, the date of receipt of the request for arbitration by the client or approved law practice,
+
+and ending on —
+
+(i) the date on which the final award is made by the arbitral tribunal; or
+
+(ii) the date on which the arbitration proceeding has otherwise finally terminated,
+
+whichever is the earlier;
+
+“qualifying income” means the income derived by an approved law practice from the provision of legal services in connection with any qualifying international arbitration.
+
+[53/2007 wef 01/07/2007]
+
 ## PART V
 
 DEDUCTIONS AGAINST INCOME
@@ -4029,9 +4113,13 @@ Provided that in the case of any contribution to the Central Provident Fund or a
 
 (E) commencing on or after 1st January 2001 shall not exceed 16%,
 
-(F) commencing on or after 1st October 2003 shall not exceed 13%,
+(F) commencing on or after 1st October 2003 shall not exceed 13%;
 
 [49/2004 wef 30/11/2004]
+
+[53/2007 wef 01/07/2007]
+
+(G) commencing on or after 1st July 2007 shall not exceed 14%,
 
 [53/2007 wef 01/07/2007]
 
@@ -4039,11 +4127,11 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 (ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
 
-(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
 
 (f) any sum contributed by an employer in any calendar year to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C(4), subject to a maximum deduction of $1,500 for that year for each employee:
 
-Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
 
 (g) zakat, fitrah or any religious dues, payment of which is made under any written law;
 
@@ -4763,7 +4851,7 @@ is the amount of qualifying expenditure incurred.
 
 (8) Subject to subsection (9), as soon as a deduction is allowed under this section to a company resident in Singapore, an amount (referred to in this section as further deduction) computed in accordance with the formula
 
-all be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5).
+shall be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5).
 
 [21/2003]
 
@@ -4902,6 +4990,8 @@ whichever is the lower; and
 D
 
 is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
+
+[32/99]
 
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
@@ -7287,6 +7377,10 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be;
+
+[53/2007 wef 01/03/2007]
+
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
 “unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax” means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a higher rate of tax;
@@ -7717,8 +7811,6 @@ is the concessionary rate of tax;
 
 (4) The amount of qualifying deduction for any year of assessment to be transferred by a transferor to a claimant spouse shall not exceed an amount equal to
 
-$100,000 – A,
-
 where A
 
 is any amount deducted by the transferor against his or her assessable income for the immediate preceding year of assessment under section 37E.
@@ -7853,7 +7945,7 @@ Provided that —
 
 (vi) in the case of an individual who has made contributions to an approved pension or provident fund, no such deduction shall exceed the contributions which would have been recoverable under section 7(2) of the Central Provident Fund Act (Cap. 36) had contributions been payable in respect of him to the Central Provident Fund;
 
-(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit ;
+(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a professional visit pass or a work pass;
 
 (viii) no such deduction shall be allowed where the premiums for such insurance are paid with funds standing in his SRS account;
 
@@ -8041,7 +8133,7 @@ there shall be allowed —
 
 (c) married but separated from her husband, a divorcee or a widow and who, in the year immediately preceding the year of assessment, has any unmarried child or children living with her in the same household in Singapore in respect of whom she may be allowed a deduction under subsection (2)(e),
 
-there shall be allowed a deduction against her earned income equal to twice the amount of levy imposed under the Employment of Foreign Workers Act (Cap. 91A) (excluding any amount paid by way of penalty) and paid in the year immediately preceding the year of assessment in respect of one domestic servant employed by her or her husband.
+there shall be allowed a deduction against her earned income equal to twice the amount of levy imposed under the Employment of Foreign Manpower Act (Cap. 91A) (excluding any amount paid by way of penalty) and paid in the year immediately preceding the year of assessment in respect of one domestic servant employed by her or her husband.
 
 [20/91]
 
@@ -13080,6 +13172,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007 (section 3 — amendment of Income Tax Act)|
 |218.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 22/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
@@ -13089,6 +13182,17 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 43/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Date of commencement|1 March 2007 (Sections 15(a), 28, 42(c), (d), (g), (i), 43(b))|
+|220.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
+|221.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 July 2007 (Sections 11, 12(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
