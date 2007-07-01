@@ -864,7 +864,9 @@ shall be guilty of an offence and shall on conviction be punished with a fine no
 
 (b) a resident of Singapore; or
 
-(c) the holder of a work permit or an employment pass issued under the Immigration Act (Cap. 133),
+(c) the holder of a work pass issued under the Employment of Foreign Manpower Act (Cap. 91A),
+
+[30/2007 wef 01/07/2007]
 
 the tax chargeable under section 11(1)(a) shall be paid in respect of the vehicle by the person keeping or using it in Singapore as if that vehicle is first registered and used in Singapore.
 
@@ -5208,6 +5210,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
+|53.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
