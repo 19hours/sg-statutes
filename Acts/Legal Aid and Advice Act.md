@@ -482,7 +482,7 @@ Description of Proceedings
 
 5\. Proceedings under the Women’s Charter.
 
-6. [Deleted by Act 6/2004 wef 08/03/2004 wef 08/03/2004]
+6. [Deleted by Act 6/2004 wef 08/03/2004]
 
 7\. Proceedings before the Syariah Court.
 
@@ -502,10 +502,6 @@ Excepted Proceedings
 
 3\. Any application under the Parliamentary Elections Act (Cap. 218) or the Presidential Elections Act (Cap. 240A).
 
-3.
-
-[42/2005 wef 01/01/2006]
-
 4\. In a District Court, proceedings for or consequent on the issue of a judgment summons and, in the case of a defendant, proceedings where the only question to be brought before the Court is as to the time or mode of payment by him of a debt (including liquidated damages) and costs.
 
 5\. Proceedings incidental to any proceedings mentioned in this Part.
@@ -518,7 +514,7 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 1. For the purposes of section 8(2) of the Act —
 
-(a) the amount of disposable capital is $7,000 ; and
+(a) the amount of disposable capital is $10,000; and
 
 [S 310/2007 wef 01/07/2007]
 
@@ -550,7 +546,7 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 (d) household furniture used by the applicant in his house;
 
-(e) a dwelling-house owned and exclusively used by the applicant and his family as their home assessed at an annual value of not more than $7,710 or a Housing and Development Board flat owned and exclusively used by the applicant and his family as their home;
+(e) a dwelling-house owned and exclusively used by the applicant and his family as their home assessed at an annual value of not more than $7,800 or a Housing and Development Board flat owned and exclusively used by the applicant and his family as their home;
 
 [S 310/2007 wef 01/07/2007]
 
@@ -560,13 +556,13 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 “disposable income” means the income of the applicant together with the income (if any) of the spouse of the applicant, during the period of 12 months immediately preceding the date of the application, after deducting therefrom —
 
-(a) an amount equal to $2,000 per annum for each person totally or partially dependent on the applicant or spouse;
+(a) an amount equal to $3,500 per annum for each person totally or partially dependent on the applicant or spouse;
 
 [S 135/2001 wef 01/04/2001]
 
 [S 310/2007 wef 01/07/2007]
 
-(b) an amount equal to $3,000 per annum for the applicant;
+(b) an amount equal to $4,500 per annum for the applicant;
 
 [S 135/2001 wef 01/04/2001]
 
@@ -577,6 +573,46 @@ Requirements Relating to Means of An Applicant for Legal Aid
 (d) an amount equal to the applicant’s contribution to the Central Provident Fund.
 
 5\. For the purposes of paragraphs 1 and 2, the Director may, in any case where an applicant for legal aid is living separate and apart from his spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, disregard the income of the spouse.
+
+6.—(1) For the purposes of paragraphs 1 and 2, and without prejudice to any exclusion or deduction provided under paragraph 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
+
+(a) an applicant for legal aid has suffered from sudden physical or mental disability which permanently and severely restricts his capacity to earn an income; and
+
+(b) it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship.
+
+(2) For the purposes of sub-paragraph (1), the Director may —
+
+(a) in determining the disposable capital of the applicant, exclude savings of the applicant of up to $30,000; and
+
+(b) in determining the disposable income of the applicant, deduct a further amount equal to —
+
+(i) $1,000, in the case of an applicant who has also suffered a sudden loss of income and requires legal aid to defend or take legal proceedings as a matter of urgency; or
+
+(ii) $2,000, in any other case.
+
+[S 310/2007 wef 01/07/2007]
+
+7.—(1) Notwithstanding paragraphs 1 and 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
+
+(a) an applicant for legal aid has suffered a sudden loss of income and requires legal aid to defend or take legal proceedings as a matter of urgency; and
+
+(b) it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship.
+
+(2) For the purposes of sub-paragraph (1), the Director may —
+
+(a) regard the amount of disposable income set out in paragraph 1(b) to be $5,000 during the period of 6 months immediately preceding the date of the application; and
+
+(b) regard “disposable income” to mean the income of an applicant together with the income (if any) of the spouse of the applicant, during the period of 6 months immediately preceding the date of the application, after deducting therefrom —
+
+(i) an amount equal to $1,750 for each person totally or partially dependent on the applicant or the spouse;
+
+(ii) an amount equal to $2,250 for the applicant;
+
+(iii) an amount not exceeding $500 for rent; and
+
+(iv) an amount equal to the applicant’s contribution to the Central Provident Fund.
+
+[S 310/2007 wef 01/07/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -607,3 +643,5 @@ This Legislative History is provided for the convenience of users of the Legal A
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (item (12) of the Fifth Schedule — amendment of Legal Aid and Advice Act)|
+|6.|**G.N. No. S 310/2007—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2007**|
+||Date of commencement|1 July 2007|
