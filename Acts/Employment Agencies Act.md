@@ -278,7 +278,9 @@ An Act to provide for the regulation of employment agencies.
 
 (b) knowingly and voluntarily deceives any person by giving false information;
 
-(c) instigates or induces any person not to admit in his service any worker who has not applied for employment, work or position through his employment agency; or
+(c) instigates or induces any person not to admit in his service any employee who has not applied for employment, work or position through his employment agency; or
+
+[30/2007 wef 01/07/2007]
 
 (d) knowingly sends, directs or takes any girl or woman to any place for immoral purposes or to a place where she is likely to be morally corrupted,
 
@@ -304,7 +306,7 @@ shall be guilty of an offence.
 
 ### Employment agency deemed to be a public place
 
-26\. For the purposes of section 21 of the Minor Offences Act [Cap. 184] every employment agency shall be deemed to be a public place.
+26\. For the purposes of section 21 of the Minor Offences Act every employment agency shall be deemed to be a public place.
 
 [20
 
@@ -328,15 +330,21 @@ shall be guilty of an offence.
 
 (b) the manner, circumstances and conditions under which licences may be granted to persons for the purpose of operating employment agencies ;
 
-(c) the fees payable to licensees by applicants for employment and applicants for workers;
+(c) the fees payable to licensees by applicants for employment and applicants for employees;
+
+[30/2007 wef 01/07/2007]
 
 (d) the fees payable for the grant and renewal of licences;
 
 (e) the forms of licence, applications for the grant or renewal of licences, registers and monthly returns;
 
-(f) the circumstances and conditions under which employment agencies may be granted permission to place or recruit workers outside Singapore;
+(f) the circumstances and conditions under which employment agencies may be granted permission to place or recruit employees outside Singapore;
 
-(g) the circumstances and conditions under which fees may be collected from applicants for employment and applicants for workers, as the case may be;
+[30/2007 wef 01/07/2007]
+
+(g) the circumstances and conditions under which fees may be collected from applicants for employment and applicants for employees, as the case may be;
+
+[30/2007 wef 01/07/2007]
 
 (h) penalties for any contravention or failure to comply with any of the provisions of any rules made under this section except that no such penalty shall exceed $1,000 in the case of a first offence or $2,000 or 6 months’ imprisonment or both in the case of a second or subsequent offence;
 
@@ -372,3 +380,9 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of commencement|4 May 1984|
 |4.|**1985 Revised Edition—Employment Agencies Act (Chapter 92)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
