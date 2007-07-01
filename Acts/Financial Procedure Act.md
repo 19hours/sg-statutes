@@ -180,11 +180,17 @@ CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 (a) on deposit in any bank;
 
+(b) [Deleted by 45/2004, wef 15/12/2004]
+
 (c) in gold and other bullion;
 
-(d) in securities of, or guaranteed by, any government or international financial institution as may be determined by the President;
+(d) in securities of, or guaranteed by, any government or international financial institution;
 
-(e) in any of the stocks, funds, securities or investments authorised by the President; or
+[29/2007 wef 01/07/2007]
+
+(e) in any of the stocks, funds, securities or investments; or
+
+[29/2007 wef 01/07/2007]
 
 (f) as otherwise authorised by law,
 
@@ -202,8 +208,6 @@ as the case may be.
 
 (4) Interest and any other income received from the investment of any moneys in accordance with subsection (3) shall be accounted in the Consolidated Revenue Account, except that where it is so provided in any law or under the terms of any trust, or the Minister so directs, the interest and any other income received from the investment of any moneys standing to the credit of any trust account shall be paid to the credit of such trust account.
 
-[25/91]
-
 (5) All costs, expenses and charges incurred in relation to making any investment under subsection (3) shall be charged on and paid out of the Consolidated Fund without further authority other than this section.
 
 [22/2003 wef 01/04/2004]
@@ -217,6 +221,8 @@ as the case may be.
 [22/2003 wef 01/04/2004]
 
 (8) The Minister may at any time, by order published in theGazette, add to or vary the Schedule.
+
+[25/91]
 
 [22/2003 wef 01/04/2004]
 
@@ -489,7 +495,7 @@ Financial Procedure Act
 
 (CHAPTER 109)
 
-This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -563,3 +569,8 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|16.|**Act 29 of 2007—Financial Procedure (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 16/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
