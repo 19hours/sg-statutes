@@ -238,7 +238,7 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF AUTHORITY
 
 11\.—(1) Subject to the provisions of this Act, the functions, objects and duties of the Authority shall be —
 
-(a) to regulate the import, manufacture, sale, disposal, transport, storage, possession and use of cosmetics, medicines, medical devices and other health-related products, tobacco products, radioactive materials and irradiating apparatuses in accordance with the written laws;
+(a) to regulate the import, manufacture, sale, disposal, transport, storage, possession and use of cosmetics, medicines, medical devices and other health-related products and tobacco products in accordance with the written laws;
 
 (b) to conduct technological assessments of medicines, cosmetics, medical devices and other health-related products for the purpose of determining their efficacy, safety and suitability for consumption and use in Singapore and to advise the Government thereon;
 
@@ -616,6 +616,11 @@ This Legislative History is provided for the convenience of users of the Health 
 |||(Bill No. 43/2004 published on 12 November 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 27 of 2007—Radiation Protection Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 14/2007 published on 22 June 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Date of commencement|1 July 2007|
 ## COMPARATIVE TABLE
 
 Health Sciences Authority Act
