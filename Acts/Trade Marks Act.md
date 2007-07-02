@@ -24,6 +24,8 @@
 
 - [5 Application for registration](#Application-for-registration)
 
+- [5A Division of application for registration](#Division-of-application-for-registration)
+
 - [6 Classification of goods and services](#Classification-of-goods-and-services)
 
 [**Grounds for refusal of registration**](#Grounds-for-refusal-of-registration)
@@ -572,6 +574,30 @@ Application for registration of trade mark
 
 [20/2004]
 
+### Division of application for registration
+
+5A\.—(1) Subject to this section and any rules made under subsection (3), an application for registration of a trade mark may, at the request of the applicant, be divided into 2 or more separate applications for registration of the trade mark.
+
+(2) A request under subsection (1) —
+
+(a) shall be made to the Registrar —
+
+(i) in the prescribed manner; and
+
+(ii) before the trade mark is registered; and
+
+(b) shall be subject to the payment of such fee as may be prescribed.
+
+(3) The Minister may make rules for the purposes of this section and may, in those rules, provide for —
+
+(a) the circumstances in which an application for registration of a trade mark may be divided;
+
+(b) the conditions to be satisfied before a request under subsection (1) may be granted by the Registrar; and
+
+(c) the effect of dividing an application for registration of a trade mark into 2 or more separate applications for registration of the trade mark.
+
+[3/2007 wef 02/07/2007]
+
 ### Classification of goods and services
 
 6\.—(1) Goods and services shall be classified for the purposes of the registration of trade marks according to a prescribed system of classification.
@@ -888,13 +914,15 @@ Series of trade marks
 
 ### Registration of series of trade marks
 
-17\.—(1) A person may make a single application under section 5 for the registration of a series of trade marksin respect of the same goods or services, or of similar goods or services which fall within a single class in accordance with the system of classification referred to in section 6.
+17\.—(1) A person may make a single application under section 5 for the registration of a series of trade marks.
+
+[Act 3 of 2007 wef 02/07/2007]
 
 (2) For the purposes of this Act, “series of trade marks” means a number of trade marks which resemble each other as to their material particulars and which differ only as to matters of a non-distinctive character not substantially affecting the identity of the trade mark.
 
 (3) If the application meets all the requirements under this Act and the Registrar is required under section 15 to register the trade marks, he shall register them as a series in one registration.
 
-[UK Trade Marks Act 1994, s. 41 (2); Aust. Trade Marks Act 1995, s. 51]
+[UK Trade Marks Act 1994, s. 41(2); Aust. Trade Marks Act 1995, s. 51]
 
 Duration, renewal and alteration of registered trade mark
 
@@ -1508,21 +1536,61 @@ the prescribed particulars of the transaction shall be entered in the register.
 
 (2) For the purposes of subsection (1), the reference in section 37(1) to the granting of a registration shall be construed as a reference to the making of an application for the registration of a trade mark.
 
-(3) A person claiming to be entitled to an interest in or under an application for registration of a trade mark by virtue of a registrable transaction, or a person claiming to be affected by such a transaction, shall give to the Registrar notice of the prescribed particulars of the transaction.
+(3) Any person claiming to be —
+
+(a) entitled to an interest in or under an application for registration of a trade mark by virtue of a registrable transaction; or
+
+(b) affected by a registrable transaction,
+
+may give to the Registrar notice of the prescribed particulars of the transaction.
+
+[3/2007 wef 02/07/2007]
 
 (4) The following are registrable transactions under subsection (3):
 
-(a) an assignment of an application for registration of a trade mark or any right in or under it;
+(a) an assignment of an application for registration of a trade mark or any right in it;
 
-(b) the granting of any security interest (whether fixed or floating) over an application for registration of a trade mark or any right in or under it;
+(b) the grant of a licence under an application for registration of a trade mark;
 
-(c) the making by personal representatives of an assent in relation to an application for registration of a trade mark or any right in or under it;
+(c) the granting of any security interest (whether fixed or floating) over an application for registration of a trade mark or any right in or under it;
 
-(d) an order of the Court or other competent authority transferring an application for registration of a trade mark or any right in or under it.
+(d) the making by personal representatives of an assent in relation to an application for registration of a trade mark or any right in or under it;
 
-(5) Until the notice referred to in subsection (3) has been given to the Registrar, the transaction is ineffective as against a person acquiring a conflicting interest in or under the application for registration of the trade mark in ignorance of it.
+(e) an order of the Court or other competent authority transferring an application for registration of a trade mark or any right in or under it.
 
-[UK Trade Marks Act 1994, s. 27]
+[3/2007 wef 02/07/2007]
+
+(5) The Registrar shall maintain a record of each notice given to him under subsection (3).
+
+[3/2007 wef 02/07/2007]
+
+(6) Until the notice referred to in subsection (3) has been given to the Registrar in respect of a transaction referred to in subsection (4)(a), (c), (d) or (e), the transaction is ineffective as against a person acquiring a conflicting interest in or under the application for registration of a trade mark in ignorance of the transaction.
+
+[3/2007 wef 02/07/2007]
+
+(7) For the avoidance of doubt, subsection (6) shall not apply to any registrable transaction relating to —
+
+(a) a licence under an application for registration of a trade mark; or
+
+(b) any right in or under the licence.
+
+[3/2007 wef 02/07/2007]
+
+(8) Provision may be made by rules as to —
+
+(a) the amendment of the record maintained by the Registrar relating to the particulars of a grant of a licence under an application for registration of a trade mark, notice of which has been given to the Registrar under subsection (3), so as to reflect any alteration of the terms of the licence; and
+
+(b) the removal from the records maintained by the Registrar of the particulars of a grant of a licence under an application for registration of a trade mark, notice of which has been given to the Registrar under subsection (3) —
+
+(i) where it appears from the particulars that the licence was granted for a fixed period and that period has expired; or
+
+(ii) where no such period is indicated and, after such period as may be prescribed, the Registrar has notified the parties of his intention to remove the particulars from the records.
+
+[3/2007 wef 02/07/2007]
+
+(9) Provision may also be made by rules as to the amendment of the record maintained by the Registrar relating to, or the removal from the records maintained by the Registrar of, the particulars of the granting of a security interest over an application for registration of a trade mark on the application of, or with the consent of, the person entitled to the benefit of that interest.
+
+[3/2007 wef 02/07/2007]
 
 ## PART V
 
@@ -2985,7 +3053,7 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 ### Power to make rules
 
-108\.—(1) The Minister may, after consulting with the Office, make rules —
+108\.—(1) The Minister may make rules —
 
 (a) for any purpose for which rules are authorised or required to be made under this Act;
 
@@ -3013,13 +3081,21 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 (g) prescribing time limits for anything required to be done in connection with any proceedings under this Act;
 
-(h) providing for the extension of any time limit so prescribed, or specified by the Registrar, whether or not it has already expired;
+(h) for the extension of any time limit which has been prescribed, or which the Registrar has specified, and which has not expired;
 
-(i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration ; and
+[3/2007 wef 02/07/2007]
 
-(j) for the restoration of any application which is treated as withdrawn and the conditions for such restoration.
+(i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration; and
 
-[42/2005 wef 01/01/2006]
+(j) for the reinstatement of —
+
+(i) any application which is treated as withdrawn; or
+
+(ii) any right which has been abrogated, or thing which has ceased to be in force or to exist, by reason of a failure to comply with any time limit which has been prescribed or which the Registrar has specified,
+
+and the conditions for such reinstatement.
+
+[3/2007 wef 02/07/2007]
 
 [UK Trade Marks Act 1994, s. 78]
 
@@ -3574,6 +3650,11 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|13.|**Act 3 of 2007—Trade Marks (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 15/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|2 July 2007|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
