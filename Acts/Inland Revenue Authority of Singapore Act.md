@@ -174,6 +174,8 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (c) to represent Singapore internationally in respect of matters relating to taxation;
 
+(d) [Deleted by Act 10/2007 wef 01/03/2007]
+
 (e) to provide service in respect of the granting of licences or permits by the Comptroller of Property Tax or the Commissioner of Estate Duties under any written law;
 
 (f) to provide service and advice to the Government and statutory bodies in respect of matters relating to the valuation of immovable properties; and
@@ -548,8 +550,6 @@ Specified Acts
 
 2\. Betting and Sweepstake Duties Act [Cap. 22].
 
-3\. Charities Act [Cap. 37].
-
 4\. Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
 5\. Estate Duty Act [Cap. 96].
@@ -591,8 +591,6 @@ Specified offices
 4. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96.Cap. 250]and the Private Lotteries Act.
 
 []
-
-5\. The Commissioner of Charities under the Charities Act [Cap. 37].
 
 6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.
 
@@ -658,3 +656,5 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 22/2006 published on 9 November 2007)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|1 March 2007|
+|11.|**G.N. No. S 398/2007—Inland Revenue Authority of Singapore Act (Amendment of Third and Fourth Schedules) Order 2007**|
+||Date of commencement|25 July 2007|
