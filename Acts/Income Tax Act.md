@@ -980,7 +980,7 @@ IMPOSITION OF INCOME TAX
 
 where A
 
-is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
+is the amount of allowances under section 19 or 19A made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A or 13S;
 
 B
 
@@ -1216,7 +1216,7 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (ii) the Monetary Authority of Singapore;
 
-(iii) a bank licensed under the Banking Act (Cap. 19);
+(iii) a bank licensed under the Banking Act (Cap.19);
 
 (iv) a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
 
@@ -3355,7 +3355,9 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 “minimum holding period” —
 
-(a) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any stock option scheme, means the period prescribed by the Singapore Exchange during which no option may be exercised under a stock option scheme implemented by any company listed on that Exchange, which would have been applicable to the stock option granted by the qualifying company or holding company, as the case may be, if it were a company listed on that Exchange;
+(a) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any stock option scheme,
+
+ means the period prescribed by the Singapore Exchange during which no option may be exercised under a stock option scheme implemented by any company listed on that Exchange, which would have been applicable to the stock option granted by the qualifying company or holding company, as the case may be, if it were a company listed on that Exchange;
 
 (b) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any share acquisition scheme (other than a stock option scheme), means —
 
@@ -3501,7 +3503,7 @@ is the number of employees engaged on contracts not exceeding 2 years (other tha
 
 [21/2003]
 
-(4) For the purposes of the deleted subsection (3)(d), (f) and (g)2in force immediately before 1st April 2003 and subsection (3)(b) and (c), any securities received or acquired on an earlier date shall be deemed to have been disposed of first.
+(4) For the purposes of the deleted subsection (3)(d), (f) and (g)2in force immediately before 1st April 2003 and subsection (3) (b) and (c), any securities received or acquired on an earlier date shall be deemed to have been disposed of first.
 
 2Subsection (3)(d)(e) (f) and (g) was deleted by Act 21 of 2003.
 
@@ -4941,7 +4943,9 @@ is the number of years of assessment for which any deduction has been allowed un
 
 (c) notwithstanding anything in section 20(3), in no case shall the amount on which a balancing charge is made on a person exceed an amount computed in accordance with the formula
 
-where C and D have the same meanings as in paragraph (b).
+where C and D
+
+have the same meanings as in paragraph (b).
 
 [32/99]
 
@@ -4990,8 +4994,6 @@ whichever is the lower; and
 D
 
 is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
-
-[32/99]
 
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
@@ -5669,7 +5671,19 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 (13) Where any allowance has been claimed and allowed under this section for any year of assessment, no allowances shall be made in any subsequent year of assessment under section 19 in respect of such expenditure.
 
-(14) Subject to subsection (10A), where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister or the Comptroller and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
+(13A) Where at the end of the basis period for the year of assessment 1985 a person has in use machinery or plant in respect of which capital allowances have been made under section 19, there shall be made to him, if before the end of that year of assessment he so elects, for a period of 3 years an annual allowance of 33 1/3% in respect of the capital expenditure remaining unallowed under section 19 in respect of the machinery or plant as at the end of that basis period:
+
+Provided that —
+
+(a) in the case of a person to whom a certificate has been issued under Part II of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) whose tax relief period expires in any basis period ending on or after 1st January 1992 and who has, at the end of the basis period immediately following that basis period, in use machinery or plant in respect of which capital allowances have been made under section 19, the election under this subsection shall be made before the end of the year of assessment which relates to the second-mentioned basis period; and
+
+(b) in the case of a person to whom a certificate has been issued under Part IV, VI, VII, XI or XII of that Act and who has, at the end of the basis period immediately following the expiry of his tax relief period, in use machinery or plant in respect of which capital allowances have been made under section 19, the election under this subsection shall be made before the end of the year of assessment which relates to that basis period.
+
+[S 400/2007 wef 27/07/2007]
+
+[13/84; 11/94]
+
+(14) Subject to subsections (10A) and (13A), where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister or the Comptroller and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
 
 [Act 34/2005, wef Y/A 2005 & Sub Ys/A:2005-ACT-34]
 
@@ -5823,7 +5837,7 @@ which has been certified by the Standards, Productivity and Innovation Board or 
 
 [15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99; 24/2000; 18/2002; 37/2002]
 
-(16) For the purpose of subsection (1), machinery or plant shall be deemed not to include the following motor vehicles within the meaning of the Road Traffic Act (Cap. 276):
+(16) For the purpose of subsections (1) and (13A), machinery or plant shall be deemed not to include the following motor vehicles within the meaning of the Road Traffic Act (Cap. 276):
 
 (a) a motor car;
 
@@ -8059,7 +8073,7 @@ Deduction for grandparent caregiver
 
 (i) was living in Singapore;
 
-(ii) was looking after any of her children who is a citizen of Singapore and is 12 years old and below at any time during the year preceding the year of assessment ; and
+(ii) was looking after any of her children who is a citizen of Singapore and is 12 years old and below at any time during the year preceding the year of assessment; and
 
 (iii) was not carrying on any trade, business, profession, vocation or employment in that year,
 
@@ -8081,7 +8095,7 @@ there shall be allowed —
 
 (ii) a deduction of $5,000 if the individual is a NS key command and staff appointment holder at any time during the relevant period.
 
-[Act 7/2007,wef Y/A 2007 & Sub Ys/A]
+[Act 7/2007, wef Y/A 2007 & Sub Ys/A]
 
 (2B) In the case of an individual resident in Singapore in the year of assessment who was an operationally ready national serviceman and who —
 
@@ -8095,7 +8109,7 @@ there shall be allowed —
 
 (ii) a deduction of $3,500 if the individual is a NS key command and staff appointment holder at any time during the relevant period.
 
-[Act 7/2007,wef Y/A 2007 & Sub Ys/A]
+[Act 7/2007, wef Y/A 2007 & Sub Ys/A]
 
 (3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his spouse’s, his parent’s or his grandparent’s retirement account, there shall be allowed a deduction of the amount of such payment, or $7,000, whichever is the less, except that no payment made to his spouse’s retirement account shall be allowed as a deduction if the income of the spouse exceeds $2,000 in the year preceding the year of payment.
 
@@ -9885,7 +9899,7 @@ ALLOWANCES FOR TAX CHARGED
 
 46\.—(1) Any tax —
 
-(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D or 45E(1)(a) or has deducted from any remuneration under section 45B;
+(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45Dor 45E (1) (a) or has deducted from any remuneration under section 45B;
 
 (b) applicable to the share to which any person is entitled in the income of —
 
@@ -10001,7 +10015,7 @@ RELIEF AGAINST DOUBLE TAXATION
 
 where A
 
-is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
+is the tax payable before allowance of credit under any arrangements having effect under this section on B+C computed in accordance with the provisions of this Act;
 
 B
 
@@ -11834,7 +11848,7 @@ Name of Bond, Securities, Stock or Fund
 
 13. Singapore Government Tax Free 61/4% Registered Stocks 1983 (Maturing 15th May 2003) Loan No. 1.
 
-[S 169/71; S 84/72; S 85/72; S 168/72; S 239/72; S 22/73; S 176/73; S 340/73; S 238/74; S 171/75; S 238/75; S 4/76; S 101/76; S 159/76; S 226/76; S 87/77; S 257/77; S 258/77; S 113/78; S 185/78; S 275/78; S 63/79; S 148/79; S 234/79; S 103/80; S 251/80; S 336/80; S 129/82; S 168/83]
+[S 169/71; S84/72; S85/72; S168/72; S239/72; S22/73; S176/73; S340/73; S238/74; S171/75; S238/75; S4/76; S101/76; S159/76; S226/76; S87/77; S 257/77; S258/77; S113/78; S185/78; S275/78; S63/79; S148/79; S234/79; S103/80; S251/80; S336/80; S129/82; S168/83]
 
 FIFTH SCHEDULE
 
@@ -11862,27 +11876,20 @@ Child Relief
 
 5. Where a married woman, divorcee or widow has a child who is a citizen of Singapore as at 31st December of the year immediately preceding the year of assessment, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e), be allowable to her only:
 
-(a)
-
-First eligible child
+(a) First eligible child
 
 5% of her earned income;
 
-(b)
-
-Second eligible child
+(b) Second eligible child
 
 15% of her earned income;
 
-(c)
-
-Third eligible child
+(c) Third eligible child
 
 20% of her earned income;
 
-(d)
-
-Fourth eligible child of the family who is born on or after 1987 (other than a child adopted before 1st January 2004)
+(d) Fourth eligible child of the family who is born on or after 1987 (other than a child adopted before
+1st January 2004)
 
 25% of her earned income.
 
@@ -13193,6 +13200,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 43/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Date of commencement|1 July 2007 (Sections 11, 12(b))|
+|222.|**G.N. No. S 400/2007—Revised Edition of the Laws (Income Tax Act) (Rectification) Order 2007**|
+||Date of commencement|27 July 2007|
 ## COMPARATIVE TABLE
 
 Income Tax Act
