@@ -246,9 +246,9 @@
 
 (Original Enactment: Act 24 of 1969)
 
-REVISED EDITION 1999
+REVISED EDITION 2007
 
-(1st August 1999)
+(31st July 2007)
 
 An Act relating to the constitution and powers of the superior courts of judicature.
 
@@ -292,7 +292,7 @@ THE SUPREME COURT
 
 3\. The Supreme Court shall be a superior court of record and shall consist of —
 
-(a) the High Court, which shall exercise original and appellate criminal and civil jurisdiction; and
+(a) the High Court, which shall exercise original and appellate civil and criminal jurisdiction; and
 
 (b) the Court of Appeal, which shall exercise appellate civil and criminal jurisdiction.
 
@@ -304,7 +304,7 @@ THE SUPREME COURT
 
 (a) the Chief Justice;
 
-(b) the vice-presidents of the Court of Appeal who among themselves shall rank according to the priority of their respective appointments as vice-presidents;
+(b) the vice-presidents of the Court of Appeal, who among themselves shall rank according to the priority of their respective appointments as vice-presidents;
 
 (c) the Judges of Appeal (other than vice-presidents), who among themselves shall rank according to the priority of their respective appointments; and
 
@@ -334,8 +334,6 @@ THE SUPREME COURT
 
 (3) Wilful disobedience by a corporation to any order punishable by attachment may be punished by attachment of the directors or other officers of the corporation who are responsible for, or are knowingly a party to, such wilful disobedience.
 
-[8
-
 ### Sittings in camera
 
 8\.—(1) The place in which any court is held for the purpose of trying any cause or matter, civil or criminal, shall be deemed an open and public court to which the public generally may have access.
@@ -345,8 +343,6 @@ THE SUPREME COURT
 (3) A court may at any time order that no person shall publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness.
 
 (4) Any person who acts in contravention of any order under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[9
 
 ## PART III
 
@@ -361,8 +357,6 @@ General
 (a) the Chief Justice; and
 
 (b) the Judges of the High Court.
-
-[9A
 
 [16/93]
 
@@ -402,9 +396,7 @@ General
 
 10B\.—(1) Subject to subsection (2), the High Court shall sit on every day of the year except on Saturdays, Sundays and public holidays.
 
-[2/2007 wef 01/03/2007]
-
-[8/98]
+[8/98; 2/2007]
 
 (2) Notwithstanding subsection (1), a Judge may lawfully sit on a Saturday, Sunday or public holiday or during a vacation prescribed under section 12 if —
 
@@ -412,9 +404,7 @@ General
 
 (b) in the opinion of the Judge, the business to be despatched is extremely urgent.
 
-[8/98]
-
-[2/2007 wef 01/03/2007]
+[8/98; 2/2007]
 
 ### Sittings of High Court and distribution of business
 
@@ -462,11 +452,11 @@ Original Jurisdiction
 
 (d) by any person on the high seas where the offence is piracy by the law of nations;
 
-(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) or the Maritime Offences Act 2003; and
+(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) or the Maritime Offences Act (Cap. 170B); and
 
 (f) in any place or by any person if it is provided in any written law that the offence is triable in Singapore.
 
-[10/78; 16/93]
+[10/78; 16/93; 26/2003]
 
 (2) The High Court may pass any sentence allowed by law.
 
@@ -512,7 +502,7 @@ Original Jurisdiction
 
 [20/99]
 
-(2) Notwithstanding that such matters come within the jurisdiction of the Syariah Court under section 35(2)(d) or (e), 51 or 52(3)(c) or (d) of the Administration of Muslim Law Act (Cap. 3), the High Court shall have jurisdiction as is vested in it by any written law to hear and try any civil proceedings involving matters relating to —
+(2) Notwithstanding that such matters come within the jurisdiction of the Syariah Court under section 35(2)(d) or (e), 51 or 52(3)(c) or (d) of the Administration of Muslim Law Act, the High Court shall have jurisdiction as is vested in it by any written law to hear and try any civil proceedings involving matters relating to —
 
 (a) maintenance for any wife or child;
 
@@ -524,7 +514,7 @@ Original Jurisdiction
 
 (3) Where civil proceedings involving any matter referred to in subsection (2)(b) or (c) and involving parties who are Muslims or were married under the provisions of the Muslim law are commenced in the High Court, the High Court shall stay the civil proceedings —
 
-(a) involving any matter referred to in subsection (2)(b) or (c), if the civil proceedings are commenced on or after the commencement of proceedings for divorce in the Syariah Court or after the making of a decree or order for divorce by the Syariah Court or on or after the registration of any divorce under section 102 of the Administration of Muslim Law Act between the same parties, unless a Syariah Court commencement certificate in respect of the civil proceedings has been filed with the High Court;
+(a) involving any matter referred to in subsection (2)(b) or (c), if the civil proceedings are commenced on or after the commencement of proceedings for divorce in the Syariah Court or after the making of a decree or order for divorce by the Syariah Court or on or after the registration of any divorce under section 102 of the Administration of Muslim Law Act (Cap. 3) between the same parties, unless a Syariah Court commencement certificate in respect of the civil proceedings has been filed with the High Court;
 
 (b) involving any matter referred to in subsection (2)(b), if proceedings for divorce are commenced in the Syariah Court or a decree or order for divorce is made by the Syariah Court or a divorce is registered under section 102 of the Administration of Muslim Law Act between the same parties after the commencement of the civil proceedings, unless a Syariah Court continuation certificate in respect of the civil proceedings has been filed with the High Court.
 
@@ -534,11 +524,11 @@ Original Jurisdiction
 
 [20/99]
 
-(5) Subsection (3)(a) shall not apply if the civil proceedings referred to therein are commenced in the High Court by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act (Cap. 3) have been filed in accordance with Rules of Court.
+(5) Subsection (3)(a) shall not apply if the civil proceedings referred to therein are commenced in the High Court by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act have been filed in accordance with Rules of Court.
 
 [20/99]
 
-(6) Subsection (3)(b) shall not apply if the civil proceedings referred to therein are continued by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act have been filed in accordance with Rules of Court.
+(6) Subsection (3)(b) shall not apply if the civil proceedings referred to therein are continued by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A(7) of the Administration of Muslim Law Act (Cap. 3) have been filed in accordance with Rules of Court.
 
 [20/99]
 
@@ -602,7 +592,7 @@ Appellate Jurisdiction of the High Court
 
 (2) Such appeals may be heard before one Judge provided that the Judge, if he thinks fit, may reserve any appeal for the decision of a court consisting of 3 Judges, and in such case the appeal shall be decided in accordance with the opinion of the majority of the Judges composing the High Court.
 
-(3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (1).
+(3) The President may, after consulting the Chief Justice, by order published in theGazette, vary the amount mentioned in subsection (1).
 
 [43/98]
 
@@ -640,7 +630,7 @@ Revision
 
 ### Discretion of High Court as to hearing parties
 
-28\.—(1) Subject to the provisions of any written law for the time being in force, no party shall have any right to be heard before the High Court when exercising its powers of revision and supervision.
+28\.—(1) Subject to the provisions of any written law for the time being in force, no party shall have any right to be heard before the High Court when exercising its powers of supervision and revision.
 
 (2) No final order shall be made to the prejudice of any person unless that person has had an opportunity of being so heard.
 
@@ -660,13 +650,11 @@ Allocation of Proceedings
 
 (ii) any proceedings relating to any of the matters referred to in section 17(a) to (e);
 
-[36/2004 wef 01/11/2004]
-
 (b) may make such provision governing appeals relating to proceedings transferred to the District Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
 
 (c) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
-[16/93]
+[16/93; 36/2004]
 
 ## PART IV
 
@@ -734,7 +722,7 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 (3) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of, or shall determine any application in proceedings incidental or preliminary to —
 
-(a) an appeal from a judgment or order made by him;
+(a) an appeal from a judgment or an order made by him;
 
 (b) an appeal against a conviction before him or a sentence passed by him; or
 
@@ -760,9 +748,7 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 32\.—(1) The Court of Appeal shall sit on such dates (whether or not a Saturday, Sunday or public holiday or during a vacation prescribed under section 12) and at such places as the Chief Justice may from time to time appoint.
 
-[2/2007 wef 01/03/2007]
-
-[8/98]
+[8/98; 2/2007]
 
 (2) The Chief Justice may cancel or postpone any sitting of the Court of Appeal which has been appointed under subsection (1).
 
@@ -782,7 +768,7 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(2) In any such case as is referred to in subsection (1), the appeal shall be decided in accordance with the opinion of the majority of the remaining Judges of Appeal of such Court, and, if there is no such majority, the decision appealed against shall stand.
+(2) In any such case as is referred to in subsection (1), the appeal shall be decided in accordance with the opinion of the majority of the remaining Judges of Appeal of such Court, and if there is no such majority, the decision appealed against shall stand.
 
 [16/93]
 
@@ -804,7 +790,7 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(2) Except with the leave of the Court of Appeal or a Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
+(2) Except with the leave of the Court of Appeal ora Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
 
 (a) where the amount or value of the subject-matter at the trial is $250,000 or such other amount as may be specified by an order made under subsection (3) or less;
 
@@ -812,17 +798,15 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
 
-[36/2004 wef 01/11/2004]
-
 (d) an order refusing to strike out an action or a pleading or a part of a pleading; or
-
-[36/2004 wef 01/11/2004]
-
-[16/93; 43/98]
 
 (e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
 
+[16/93; 43/98; 36/2004]
+
 (2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under section 17A of this Act or under section 59 or Part X of the Women’s Charter.
+
+[36/2004]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
@@ -892,7 +876,9 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-43\. [Repealed by Act 16/93]
+Constitution of Court of Criminal Appeal
+
+43\. [Repealed by Act 16 of 1993]
 
 ### Jurisdiction to hear and determine criminal appeals
 
@@ -936,7 +922,7 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 (2) As soon as possible after notice of appeal has been filed, the Registrar shall cause to be served on the appellant or his advocate and solicitor at his address for service specified under section 45(2)(b) a notice that a copy of the record is available and can be had on applying for the same and on payment of the prescribed fee.
 
-[17/2005 wef 15/07/2005]
+[17/2005]
 
 ### Petition of appeal
 
@@ -950,7 +936,7 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(4) If a petition is not filed within the time prescribed by this section the appeal shall be deemed to have been withdrawn.
+(4) If a petition is not filed within the time prescribed by this section, the appeal shall be deemed to have been withdrawn.
 
 (5) Nothing in subsection (4) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
 
@@ -960,7 +946,7 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 48\.—(1) If the appellant is in prison, he shall be deemed to have complied with the requirements of sections 45 and 47 if he gives to the officer-in-charge of the prison, either orally or in writing, notice of appeal and the particulars required to be included in the petition of appeal within the times prescribed by those sections.
 
-(2) Such officer shall forthwith forward such notice and petition or the purport thereof to the Registrar.
+(2) Such officer shall immediately forward such notice and petition or the purport thereof to the Registrar.
 
 ### Transmission of papers to respondent
 
@@ -1086,7 +1072,7 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(3) Upon the withdrawal or discontinuance of any appeal, the Registrar shall notify the trial court accordingly and, if any stay of execution has been granted, the sentence or order of the trial court shall forthwith be enforced.
+(3) Upon the withdrawal or discontinuance of any appeal, the Registrar shall notify the trial court accordingly and, if any stay of execution has been granted, the sentence or order of the trial court shall immediately be enforced.
 
 (4) Nothing in subsection (3) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
 
@@ -1196,7 +1182,7 @@ Sheriff
 
 ### Sheriff not to act when an interested party
 
-65\. Where in any cause or matter the Sheriff is an interested party, the court may appoint for that purpose an officer or person who may act in the place of the Sheriff.
+65\. Where in any cause or matter the Sheriff is an interested party, the court may appoint for that purpose an officer or a person who may act in the place of the Sheriff.
 
 ### Solicitor authorised to act as officer of Sheriff
 
@@ -1280,9 +1266,7 @@ Offices
 
 72\.—(1) The Registry of the Supreme Court shall be open on every day of the year except on Saturdays, Sundays and public holidays.
 
-[2/2007 wef 01/03/2007]
-
-[8/98]
+[8/98; 2/2007]
 
 (2) Notwithstanding subsection (1), the Registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —
 
@@ -1290,9 +1274,7 @@ Offices
 
 (b) in the opinion of the Registrar, the business to be despatched is extremely urgent.
 
-[8/98]
-
-[2/2007 wef 01/03/2007]
+[8/98; 2/2007]
 
 (3) The office hours of the Registry shall be such times as the Chief Justice may from time to time direct.
 
@@ -1322,7 +1304,7 @@ List of Touts
 
 74\.—(1) If, on an application made by the Attorney-General, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground instituted vexatious legal proceedings, whether in the High Court or in any subordinate court, and whether against the same person or against different persons, the High Court may, after hearing that person or giving him an opportunity of being heard, order that —
 
-(a) no legal proceedings shall without the leave of the High Court be instituted by him in any court; and
+(a) no legal proceedings shall without the leave of the High Court be instituted by him in any court ; and
 
 (b) any legal proceedings instituted by him in any court before the making of the order shall not be continued by him without such leave, and such leave shall not be given unless the High Court is satisfied that the proceedings are not an abuse of the process of the court and that there is prima facie ground for the proceedings.
 
@@ -1464,7 +1446,7 @@ Council of Judges
 
 ### Council of Judges to consider operation of this Act, etc.
 
-81\. A council of the Judges of the Supreme Court shall assemble once at least in every year, on such day or days as shall be fixed by the Chief Justice, for the purpose of —
+81\. A council of the Judges of the Supreme Court shall assemble at least once in every year, on such day or days as shall be fixed by the Chief Justice, for the purpose of —
 
 (a) considering the operation of this Act and of any Rules of Court;
 
@@ -1486,13 +1468,19 @@ Supplemental
 
 then, if any such action or application that has been commenced or made before that date by way of a petition, a motion or an originating motion is still pending before the Court on or after that date, the Court may, if it thinks just and expedient, order that the action or application (referred to in this section as a pending action or application) shall be converted to and be continued as an action or application commenced or made by way of a writ of summons, an originating summons or a summons, as is appropriate.
 
+[42/2005]
+
 (2) The Chief Justice may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons, an originating summons or a summons, as is appropriate.
+
+[42/2005]
 
 (3) Where pursuant to subsection (1) or (2) any pending action or application has been converted to an action or application commenced or made by way of a writ of summons, an originating summons or a summons —
 
 (a) the action or application shall be continued in accordance with the provisions of the relevant written law and the practice and procedure as are in force and applicable in relation to that action or application at the time of the conversion; and
 
 (b) the Court may give to the parties to the action or application such directions as to the conduct and costs of the action or application as it thinks just and expedient for the purpose of facilitating the conversion of the action or application to an action or application commenced or made by way of a writ of summons, an originating summons or a summons (as the case may be) and its continuance as such.
+
+[42/2005]
 
 FIRST SCHEDULE
 
@@ -1596,17 +1584,35 @@ Ordering medical examination
 
 19. Power to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.
 
-[16/93]
+[16/93; 42/2005]
 
 SECOND SCHEDULE
 
 Section 69
 
-1. Oath of Office of the Registrar, Deputy Registrar or Assistant Registrar
+1. OATH OF OFFICE OF THE REGISTRAR, DEPUTY REGISTRAR OR ASSISTANT REGISTRAR
 
-2. Oath of Office of An Interpreter
+I,..................................................................................................................., having been appointed to the office of .............................................................................................. do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability and I will be faithful and bear true allegiance to the Republic of Singapore.
 
-3. Oath of Office of Other Officer of the Supreme Court
+Taken and subscribed before me at this day of
+
+Officer Administering the Oath
+
+2. OATH OF OFFICE OF AN INTERPRETER
+
+I, ..........................................................................................................., having been appointed an Interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the ........................................ language into the English language and from the English language into the ........................................ language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
+
+Taken and subscribed before me at ........................ this .................. day of ........................... .
+
+Officer Administering the Oath
+
+3. OATH OF OFFICE OF OTHER OFFICER OF THE SUPREME COURT
+
+I,...................................................................., having been appointed to the office of ......................................... in the Supreme Court do solemnly and sincerely swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, nor will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.
+
+Taken and subscribed before me at ........................ this ............. day of .......................... .
+
+Officer Administering the Oath
 
 ## LEGISLATIVE HISTORY
 
@@ -1719,19 +1725,21 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 14/2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007 (section 17 — amendment of Supreme Court of Judicature Act)|
+|22.|**2007 Revised Edition—Supreme Court of Judicature Act (Chapter 322)**|
+||Date of operation|31 July 2007|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
 
 (CHAPTER 322)
 
-The following provisions in the 1993 Reprint of the Supreme Court of Judicature Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1993 Reprint of the Supreme Court of Judicature Act were renumbered by the Law Revision Commissioners in the 1999 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Supreme Court of Judicature Act.
 
-1999 Ed\. 
+1999 Ed.
 
-1993 Reprint 
+1993 Reprint
 
 Omitted —Repealed by Act 16/93
 
