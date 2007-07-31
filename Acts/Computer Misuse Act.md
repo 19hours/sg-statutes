@@ -48,6 +48,8 @@
 
 - [16 Arrest by police without warrant](#Arrest-by-police-without-warrant)
 
+[**Legislative Source Key**](#Legislative-Source-Key)
+
 [**Legislative History**](#Legislative-History)
 
 # Computer Misuse Act
@@ -56,9 +58,9 @@
 
 (Original Enactment: Act 19 of 1993)
 
-REVISED EDITION 1998
+REVISED EDITION 2007
 
-(15th December 1998)
+(31st July 2007)
 
 An Act to make provision for securing computer material against unauthorised access or modification and for matters related thereto.
 
@@ -80,7 +82,7 @@ PRELIMINARY
 
 (a) an automated typewriter or typesetter;
 
-(b) a portable hand held calculator;
+(b) a portable hand-held calculator;
 
 (c) a similar device which is non-programmable or which does not contain any data storage facility; or
 
@@ -96,7 +98,7 @@ PRELIMINARY
 
 “damage” means, except for the purposes of section 13, any impairment to a computer or the integrity or availability of data, a program or system, or information, that —
 
-(a) causes loss aggregating at least $10,000 in value, or such other amount as the Minister may, by notification in the Gazette, prescribe except that any loss incurred or accrued more than one year after the date of the offence in question shall not be taken into account;
+(a) causes loss aggregating at least $10,000 in value, or such other amount as the Minister may, by notification in theGazette, prescribe except that any loss incurred or accrued more than one year after the date of the offence in question shall not be taken into account;
 
 (b) modifies or impairs, or potentially modifies or impairs, the medical examination, diagnosis, treatment or care of one or more persons;
 
@@ -106,7 +108,7 @@ PRELIMINARY
 
 “data” means representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer;
 
-“electronic, acoustic, mechanical or other device” means any device or apparatus that is used or is capable of being used to intercept any function of a computer;
+“electro-magnetic, acoustic, mechanical or other device” means any device or apparatus that is used or is capable of being used to intercept any function of a computer;
 
 “function” includes logic, control, arithmetic, deletion, storage and retrieval and communication or telecommunication to, from or within a computer;
 
@@ -164,6 +166,8 @@ and any act which contributes towards causing such a modification shall be regar
 
 (9) A reference in this Act to a program includes a reference to part of a program.
 
+[UK CMA 1990, s. 17 (2)-(8) and (10); Canada CLAA 1985, s. 301.2 (2) (part); S Aust. EA 1929, s. 59A]
+
 ## PART II
 
 OFFENCES
@@ -185,6 +189,8 @@ OFFENCES
 (b) a program or data of any kind; or
 
 (c) a program or data held in any particular computer.
+
+[UK CMA 1990, s. 1]
 
 ### Access with intent to commit or facilitate commission of offence
 
@@ -208,6 +214,8 @@ OFFENCES
 
 [21/98]
 
+[UK CMA 1990, s. 2]
+
 ### Unauthorised modification of computer material
 
 5\.—(1) Subject to subsection (2), any person who does any act which he knows will cause an unauthorised modification of the contents of any computer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
@@ -227,6 +235,8 @@ OFFENCES
 (c) a program or data held in any particular computer.
 
 (4) For the purposes of this section, it is immaterial whether an unauthorised modification is, or is intended to be, permanent or merely temporary.
+
+[UK CMA 1990, s. 3]
 
 ### Unauthorised use or interception of computer service
 
@@ -254,6 +264,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) a program or data held in any particular computer.
 
+[Canada CLAA 1985, s. 301.2 (1)]
+
 ### Unauthorised obstruction of use of computer
 
 7\.—(1) Any person who, knowingly and without authority or lawful excuse —
@@ -267,8 +279,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [21/98]
 
 (2) If any damage is caused as a result of an offence under this section, a person convicted of the offence shall be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 7 years or to both.
-
-[6A
 
 [21/98]
 
@@ -286,13 +296,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any person guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-[6B
-
 [21/98]
 
 ### Enhanced punishment for offences involving protected computers
 
-9\.—(1) Where access to any protected computer is obtained in the course of the commission of an offence under section 3, 5, 6 or 7, the person convicted of such an offence shall, in lieu of the punishment prescribed in those sections, be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 20 years or to both.
+9\.—(1) Where access to any protected computer is obtained in the course of the commission of an offence under section 3, 5, 6 or 7, the person convicted of such an offence shall, in lieu of the punishment prescribed in those sections, be liable to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 20 years or to both.
 
 [21/98]
 
@@ -310,8 +318,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) For the purposes of any prosecution under this section, it shall be presumed, until the contrary is proved, that the accused has the requisite knowledge referred to in subsection (2) if there is, in respect of the computer, program or data, an electronic or other warning exhibited to the accused stating that unauthorised access to that computer, program or data attracts an enhanced penalty under this section.
 
-[6C
-
 [21/98]
 
 ### Abetments and attempts punishable as offences
@@ -319,8 +325,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 10\.—(1) Any person who abets the commission of or who attempts to commit or does any act preparatory to or in furtherance of the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for the offence.
 
 (2) For an offence to be committed under this section, it is immaterial where the act in question took place.
-
-[7
 
 ## PART III
 
@@ -338,21 +342,21 @@ MISCELLANEOUS AND GENERAL
 
 (b) the computer, program or data was in Singapore at the material time.
 
-[8
+[UK CMA 1990, ss. 4 and 5]
 
 ### Jurisdiction of Courts
 
 12\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
-[9
-
 ### Composition of offences
 
 12A\.—(1) The Commissioner of Police or any person authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
 
+[25/2003]
+
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
-[25/2003 wef 01/09/2004]
+[25/2003]
 
 ### Order for payment of compensation
 
@@ -362,23 +366,25 @@ MISCELLANEOUS AND GENERAL
 
 (3) An order of compensation under this section shall be recoverable as a civil debt.
 
-[10
-
 ### Saving for investigations by police and law enforcement officers
 
-14\. Nothing in this Act shall prohibit a police officer, an authorised person within the meaning of section 125A of the Criminal Procedure Code (Cap. 68) or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to his powers conferred under any written law.
+14\. Nothing in this Act shall prohibit a police officer, an authorised person within the meaning of section 125A of the Criminal Procedure Code (Cap. 68) or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to the powers conferred on him under any written law.
 
-[11
+[21/98; 42/2005]
 
-[21/98]
+Power of police officer to access computer and data
 
-15\. [Deleted by Act 42/2005 wef 01/01/2006]
+15\. [Repealed byAct 42 of 2005]
 
 ### Preventing or countering threats to national security, etc.
 
 15A\.—(1) Where the Minister is satisfied that it is necessary for the purposes of preventing or countering any threat to the national security, essential services, defence or foreign relations of Singapore, the Minister may, by a certificate under his hand, authorise any person or organisation specified in the certificate to take such measures as may be necessary to prevent or counter any threat to a computer or computer service or any class of computers or computer services.
 
-(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in sections 125A and 125B of the Criminal Procedure Code (Cap. 68).
+[25/2003]
+
+(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in sections 125A and 125B of the Criminal Procedure Code.
+
+[25/2003; 42/2005]
 
 (3) Where an offence is disclosed in the course of or pursuant to the exercise of any power under this section —
 
@@ -390,7 +396,11 @@ MISCELLANEOUS AND GENERAL
 
 (ii) to answer any question if the answer would lead, or would tend to lead, to the discovery of the name, address or other particulars of the informer.
 
-(4) If any book, document, data or computer output which is admitted in evidence or liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+[25/2003]
+
+(4) If any book, document, data or computer output which is admitted in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+
+[25/2003]
 
 (5) In subsection (1), “essential services” means —
 
@@ -398,13 +408,37 @@ MISCELLANEOUS AND GENERAL
 
 (b) emergency services such as police, civil defence or medical services.
 
-[25/2003 wef 14/06/2004]
+[25/2003]
 
 ### Arrest by police without warrant
 
 16\. Any police officer may arrest without warrant any person reasonably suspected of committing an offence under this Act.
 
-[15
+## LEGISLATIVE SOURCE KEY
+
+Computer Misuse Act
+
+(CHAPTER 50A)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
+
+UK CMA 1990
+
+:
+
+United Kingdom, Computer Misuse Act 1990 (c. 18)
+
+Canada CLAA 1985
+
+:
+
+Canada, Criminal Law Amendment Act 1985 (c. 19)
+
+S Aust. EA 1929
+
+:
+
+South Australia, Evidence Act 1929
 
 ## LEGISLATIVE HISTORY
 
@@ -451,3 +485,5 @@ This Legislative History is provided for the convenience of users of the Compute
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (section 14)|
+|9.|**2007 Revised Edition—Computer Misuse Act (Chapter 50A)**|
+||Date of operation|31 July 2007|
