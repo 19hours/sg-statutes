@@ -2786,11 +2786,29 @@ Specified Drugs
 
 2\. N,α-dimethyl-3,4-(methylenedioxy)phenethylamine
 
-2A. Buprenorphine
+2A\. Buprenorphine
 
-[S 560/2006 wef 01/10/2006]
+2B. Cannabinol
+
+[S 402/2007 wef 01/08/2007]
+
+2C. Cannabinol derivatives as defined in Part IV of the First Schedule
+
+[S 402/2007 wef 01/08/2007]
+
+2D. Cannabis
+
+[S 402/2007 wef 01/08/2007]
+
+2E. Cocaine
+
+[S 402/2007 wef 01/08/2007]
 
 3\. Diamorphine
+
+3A. Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine
+
+[S 402/2007 wef 01/08/2007]
 
 4\. N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine
 
@@ -2806,9 +2824,7 @@ Specified Drugs
 
 10\. Nimetazepam
 
-10A. Norbuprenorphine
-
-[S 560/2006 wef 01/10/2006]
+10A\. Norbuprenorphine
 
 11\. Norketamine and its dehydro derivatives
 
@@ -2936,6 +2952,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|14 August 2006|
 |38.|**G. N. No. S 560/2006—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2006**|
 ||Date of commencement|1 October 2006|
+|39.|**G. N. No. S 402/2007—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2007**|
+||Date of commencement|1 August 2007|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
