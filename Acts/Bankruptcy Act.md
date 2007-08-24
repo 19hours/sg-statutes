@@ -2278,7 +2278,7 @@ make an order for the vesting of the property in or delivery thereof to —
 
 ### Re-direction of bankrupt’s letters, etc.
 
-115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct the public postal licensee under the Postal Services Act 1999 (Act 42 of 1999) to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
+115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct a postal licensee under the Postal Services Act (Cap. 237A) to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
 
 [42/99]
 
@@ -3258,6 +3258,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006|
 |||(item (3) of First Schedule — Amendment of Bankruptcy Act)|
+|16.|**Act 34 of 2007—Postal Services (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 22/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|16 July 2007|
+||Date of commencement|24 August 2007|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
