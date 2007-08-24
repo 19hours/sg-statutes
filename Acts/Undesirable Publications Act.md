@@ -74,6 +74,8 @@ An Act to prevent the importation, distribution or reproduction of undesirable p
 
 “authorised officer” means a person appointed under section 18(3) by the Minister to be an authorised officer for the purposes of this Act;
 
+[34/2002 wef 01/01/2003]
+
 “broadcast” has the same meaning as in the Copyright Act (Cap. 63) and “broadcasting” shall have a corresponding meaning;
 
 “Chief Controller” means the Chief Controller appointed under section 18(2);
@@ -81,6 +83,8 @@ An Act to prevent the importation, distribution or reproduction of undesirable p
 “circulation”, in relation to any publication, includes the exhibition or supply thereof;
 
 “controller” means a person appointed under section 18(1) by the Minister to be a controller;
+
+[34/2002 wef 01/01/2003]
 
 “electronic transmission” includes facsimile transmission, electronic mail or other similar means of communication but excludes broadcasting;
 
@@ -180,7 +184,7 @@ and includes a copy of any publication;
 
 ### Power to prohibit importation, sale or circulation of publications
 
-5\.—(1) If the Minister is of opinion that the importation, sale or circulation of any publication or series of publications published or printed outside Singapore or within Singapore by any person would be contrary to the public interest, the Minister may, in his discretion, by order published in the Gazette, prohibit the importation, sale or circulation of that particular publication or series of publications or all publications published or printed by that person.
+5\.—(1) If the Minister is of opinion that the importation, sale or circulation of any publication or series of publications published or printed outside Singapore or within Singapore by any person would be contrary to the public interest, the Minister may, in his discretion, by order published in theGazette, prohibit the importation, sale or circulation of that particular publication or series of publications or all publications published or printed by that person.
 
 (2) If an order made under subsection (1) specifies by name a publication which is a periodical publication, the order shall, unless a contrary intention is expressed therein, have effect with respect to —
 
@@ -228,7 +232,9 @@ shall forthwith, as soon as the nature of its contents has become known to him, 
 
 8\.—(1) Any —
 
-(a) officer of a public postal licensee not below the rank of postal superintendent;
+(a) officer of a postal licensee not below the rank of postal superintendent;
+
+[34/2007 wef 24/08/2007]
 
 (b) senior officer of customs;
 
@@ -392,7 +398,7 @@ the publication or equipment shall be returned to the person from whom they were
 
 ### Corporate offenders and unincorporated associations
 
-17\. —(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+17\.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
@@ -422,6 +428,8 @@ the publication or equipment shall be returned to the person from whom they were
 
 [9/98]
 
+[34/2002 wef 01/01/2003]
+
 (2) The Minister shall, by notification in theGazette, appoint from among the controllers a Chief Controller who shall exercise general supervision over the other controllers and all authorised officers and carry out such other duties as are assigned to him under this Act.
 
 [9/98]
@@ -429,6 +437,8 @@ the publication or equipment shall be returned to the person from whom they were
 (3) The Minister may also appoint any other person to be an authorised officer to assist any controller or the Chief Controller in the discharge of his duties under this Act.
 
 [9/98]
+
+[34/2002 wef 01/01/2003]
 
 (4) In the exercise of their powers and in carrying out their duties under this Act, the Chief Controller and all controllers and authorised officers shall be guided by such general or special directions as may, from time to time, be given to them by the Minister.
 
@@ -494,7 +504,7 @@ Undesirable Publications Act
 
 (CHAPTER 338)
 
-This Legislative History is provided for the convenience of users of the Undesirable Publications Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Undesirable Publications Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -542,3 +552,9 @@ This Legislative History is provided for the convenience of users of the Undesir
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|11.|**Act 34 of 2007—Postal Services (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 22/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|16 July 2007|
+||Date of commencement|24 August 2007|
