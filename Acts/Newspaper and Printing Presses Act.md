@@ -314,6 +314,8 @@ NEWSPAPER COMPANIES
 
 (b) be quoted or dealt in on a stock exchange in Singapore or elsewhere.
 
+[21/2005 wef 30/01/2006]
+
 (15) The Minister may in writing grant his approval for the purchase or acquisition or the holding of management shares by any person who is not a citizen of Singapore and for the appointment of any such person as a director of a newspaper company.
 
 (16) This section shall have effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association of a newspaper company.
@@ -324,9 +326,9 @@ NEWSPAPER COMPANIES
 
 ### Control of substantial shareholdings in newspaper companies
 
-11\.—(1) No person shall, on or after 2nd September 20021, become a substantial shareholder of a newspaper company without first obtaining the approval of the Minister.
+11\.—(1) No person shall, on or after 2nd September 2002\*, become a substantial shareholder of a newspaper company without first obtaining the approval of the Minister.
 
-1Date of commencement of the Newspaper and Printing Presses (Amendment) Act 2002 (Act 20 of 2002).
+\*Date of commencement of the Newspaper and Printing Presses (Amendment) Act 2002 (Act 20 of 2002).
 
 [20/2002]
 
@@ -337,6 +339,8 @@ NEWSPAPER COMPANIES
 (3) No person shall, on or after 2nd September 2002, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the total votes attached to all voting shares in a newspaper company without first obtaining the approval of the Minister.
 
 [20/2002]
+
+[21/2005 wef 30/01/2006]
 
 (4) Subject to section 13(4), no person who, at any time before 2nd September 2002, has entered into any agreement or arrangement referred to in subsection (3) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after that date or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
 
@@ -374,7 +378,7 @@ of a newspaper company shall continue to be such a controller unless he has, wit
 
 [20/2002]
 
-(3) In subsections (1) (a) and (2) (a), “12% controller” means a person who alone or together with his associates —
+(3) In subsections (1)(a) and (2)(a), “12% controller” means a person who alone or together with his associates —
 
 (a) holds not less than 12% of the shares in the newspaper company; or
 
@@ -394,7 +398,7 @@ of a newspaper company shall continue to be such a controller unless he has, wit
 
 (c) a person,A, is an associate of another person,B, if —
 
-(i) Ais the spouse or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step- daughter or remoter issue, or a brother or sister, ofB;
+(i) Ais the spouse or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step-daughter or remoter issue, or a brother or sister, ofB;
 
 (ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
 
@@ -894,7 +898,7 @@ NEWSPAPERS
 
 27\.—(1) Any —
 
-(a) officer of a public postal licensee not below the rank of postal superintendent;
+(a) officer of a postal licensee not below the rank of postal superintendent;
 
 (b) officer of customs;
 
@@ -905,6 +909,8 @@ NEWSPAPERS
 may detain, open and examine any package or article which he suspects to contain any declared foreign newspaper and if such newspaper, which is not marked in accordance with section 24(4), is found in the package or article, the whole package or article may be impounded and retained by the officer who shall deliver it to the Registrar.
 
 [22/86; 12/92]
+
+[34/2007 wef 24/08/2007]
 
 (2) The Registrar may destroy any declared foreign newspaper delivered to him under subsection (1) or may dispose of such newspaper in such manner as may be directed by the Minister.
 
@@ -984,17 +990,19 @@ GENERAL
 
 34\.—(1) Any —
 
-(a) officer of a public postal licensee not below the rank of postal superintendent;
+(a) officer of a postal licensee not below the rank of postal superintendent;
 
 (b) senior officer of customs; or
-
-[4/2003 wef 01/04/2003]
 
 (c) police officer not below the rank of Inspector,
 
 may detain, open and examine any package or article which he suspects to contain any newspaper which is being or has been brought into Singapore for the purpose of publication, sale or distribution in contravention of any of the provisions of this Act or of any condition imposed in respect of any permit.
 
 [12/92; 20/2002]
+
+[4/2003 wef 01/04/2003]
+
+[34/2007 wef 24/08/2007]
 
 (2) Any police officer or any officer of customs may seize and detain any newspaper found in the possession of any person which the police officer or the officer of customs has reasonable cause to believe has been printed, published, sold or distributed or is intended to be printed, published, sold or distributed in contravention of the provisions of this Act or of any conditions imposed in respect of any permit.
 
@@ -1199,6 +1207,12 @@ This Legislative History is provided for the convenience of users of the Newspap
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
+|15.|**Act 34 of 2007—Postal Services (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 22/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|16 July 2007|
+||Date of commencement|24 August 2007|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
