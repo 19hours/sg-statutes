@@ -12,7 +12,13 @@
 
 - [2 Interpretation](#Interpretation)
 
+[**Part IA POSTAL AUTHORITY**](#Part-IA)
+
 - [3 Postal Authority](#Postal-Authority)
+
+- [3A Functions and duties of Postal Authority](#Functions-and-duties-of-Postal-Authority)
+
+- [3B Powers of Postal Authority](#Powers-of-Postal-Authority)
 
 [**Part II EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES**](#Part-II)
 
@@ -30,9 +36,11 @@
 
 - [10 Residual power of Postal Authority to provide postal services](#Residual-power-of-Postal-Authority-to-provide-postal-services)
 
+- [10A Charges and other terms for services provided by Postal Authority](#Charges-and-other-terms-for-services-provided-by-Postal-Authority)
+
 [**Part III POSTAL SERVICES AND SYSTEMS**](#Part-III)
 
-- [11 Power to specify documents and terms and conditions for remittance of money](#Power-to-specify-documents-and-terms-and-conditions-for-remittance-of-money)
+- [11 Power to specify documents for remittance of money](#Power-to-specify-documents-for-remittance-of-money)
 
 - [12 Documents to be deemed valuable securities](#Documents-to-be-deemed-valuable-securities)
 
@@ -42,19 +50,19 @@
 
 - [15 Presumption as to importer](#Presumption-as-to-importer)
 
-- [16 Restrictions in dealing in and import and export control of franking machines](#Restrictions-in-dealing-in-and-import-and-export-control-of-franking-machines)
+- [16 Letter boxes](#Letter-boxes)
 
-- [17 Delivery of postal articles](#Delivery-of-postal-articles)
+- [17 (Repealed)](#Repealed)
 
 - [18 Posting boxes and postal label vending machines](#Posting-boxes-and-postal-label-vending-machines)
 
-- [19 Provision of postage stamps](#Provision-of-postage-stamps)
+- [19 Postage stamps](#Postage-stamps)
 
 - [20 Official marks to be prima facie evidence of certain facts denoted](#Official-marks-to-be-prima-facie-evidence-of-certain-facts-denoted)
 
 - [21 Recovery of postage and other sums due in respect of postal articles](#Recovery-of-postage-and-other-sums-due-in-respect-of-postal-articles)
 
-- [22 Suspension or modification of postal services](#Suspension-or-modification-of-postal-services)
+- [22 (Repealed)](#Repealed)
 
 - [23 Power to deal with postal articles sent in contravention of this Act](#Power-to-deal-with-postal-articles-sent-in-contravention-of-this-Act)
 
@@ -65,6 +73,24 @@
 - [25 Directions affecting postal licensee](#Directions-affecting-postal-licensee)
 
 - [26 Advisory guidelines](#Advisory-guidelines)
+
+[**Part IVA CONTROL OVER DESIGNATED POSTAL LICENSEES**](#Part-IVA)
+
+- [26A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [26B Control of acquisition of designated postal licensee](#Control-of-acquisition-of-designated-postal-licensee)
+
+- [26C Power to issue code of practice relating to control of designated postal licensee](#Power-to-issue-code-of-practice-relating-to-control-of-designated-postal-licensee)
+
+- [26D Power to issue directions](#Power-to-issue-directions)
+
+- [26E Power to obtain information](#Power-to-obtain-information)
+
+- [26F Appointment of chief executive officer, director, etc., of designated postal licensee](#Appointment-of-chief-executive-officer-director-etc-of-designated-postal-licensee)
+
+- [26G Power of Minister to issue written order relating to acquisition of assets, etc., of postal licensees](#Power-of-Minister-to-issue-written-order-relating-to-acquisition-of-assets-etc-of-postal-licensees)
+
+- [26H Regulations for carrying out this Part](#Regulations-for-carrying-out-this-Part)
 
 [**Part V OFFENCES AND PENALTIES**](#Part-V)
 
@@ -82,7 +108,7 @@
 
 - [33 Unlawful operation of postal services](#Unlawful-operation-of-postal-services)
 
-- [34 Offences by officer, employee or agent of public postal licensees](#Offences-by-officer-employee-or-agent-of-public-postal-licensees)
+- [34 Offences by officer, employee or agent of postal licensees](#Offences-by-officer-employee-or-agent-of-postal-licensees)
 
 - [35 Fraudulent sending of postal article](#Fraudulent-sending-of-postal-article)
 
@@ -116,6 +142,8 @@
 
 - [48 Powers of search and arrest in respect of offences under section 33](#Powers-of-search-and-arrest-in-respect-of-offences-under-section-33)
 
+- [48A Disposal of letters relating to offence under section 33](#Disposal-of-letters-relating-to-offence-under-section-33)
+
 - [49 Obstruction of police officer or officer of Postal Authority](#Obstruction-of-police-officer-or-officer-of-Postal-Authority)
 
 - [50 No costs or damages or other relief arising from seizure to be recoverable unless seizure without reasonable or probable cause](#No-costs-or-damages-or-other-relief-arising-from-seizure-to-be-recoverable-unless-seizure-without-reasonable-or-probable-cause)
@@ -145,6 +173,8 @@
 - [61 Regulations](#Regulations)
 
 - [62 Savings and transitional provisions](#Savings-and-transitional-provisions)
+
+[**THE SCHEDULE Powers of Postal Authority**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -176,21 +206,41 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“addressee”, in relation to a postal article, means the person to whom the communication is addressed;
+
+[34/2007 wef 24/08/2007]
+
 “code of practice” and “standard of performance” mean, respectively, a code of practice and a standard of performance issued or approved under section 24;
+
+“correspondent”, in relation to a postal article, means the sender or person to whom it is addressed;
+
+[34/2007 wef 24/08/2007]
+
+“direct mail” means a letter consisting solely of advertising, marketing or publicity material and comprising an identical message (except for the addressee’s name, address and identifying number and other modifications which do not alter the nature of the message) which is sent to more than one addressee, to be conveyed and delivered at the address indicated by the sender on the letter itself or on its wrapping;
+
+[34/2007 wef 24/08/2007]
 
 “equipment” includes any appliance, apparatus or accessory used or intended to be used for postal purposes;
 
 “installation or plant used for posts” includes all buildings, lands, structures, machinery, equipment, boxes and receptacles used or intended for use in connection with the transmission of postal articles by post;
 
-“letter” includes any communication in the nature of current and personal correspondence;
+“letter box” means any box or receptacle which the owner or occupier of any premises has provided or agreed to be used for the receipt of postal articles addressed to those premises;
 
-“mail bag” means any bag, container, envelope or covering in which postal articles are conveyed;
+[34/2007 wef 24/08/2007]
+
+“mail bag” means any form of container or covering in which postal articles in the course of transmission by post are enclosed by a postal licensee in Singapore or a foreign postal administration for the purpose of conveyance by post, whether or not it contains any such articles;
+
+[34/2007 wef 24/08/2007]
 
 “parcel” means a postal article which is posted at a post office in Singapore as a parcel in accordance with the provisions of this Act or is received at a post office in Singapore by parcel post;
 
-“post” means any system for the collection, despatch, conveyance, handling and delivery of postal articles by or through a public postal licensee;
+“post” means any system for the collection, despatch, conveyance, sorting, handling and delivery of postal articles by or through a postal licensee;
 
-“post office” means any building, house, room, vehicle or place where postal articles are received, delivered, sorted, made up or despatched;
+[34/2007 wef 24/08/2007]
+
+“post office” includes any building, house, room, vehicle or place used for the provision of any postal services;
+
+[34/2007 wef 24/08/2007]
 
 “postage” means the fee chargeable for the transmission by post of postal articles;
 
@@ -202,11 +252,13 @@ PRELIMINARY
 
 “postal licensee” means a person to whom a licence has been granted under section 6;
 
-“postal service” means any service by post;
+“postal service” means any service for the conveyance of postal articles from one place to another by post, and includes the incidental services of receiving, collecting, sorting, sending, despatching and delivering such postal articles and any other services which relates to any of those services and is provided in conjunction with any of them;
 
-“postcard” means a card recognised as a postcard in accordance with the terms of the Convention regulating the affairs of the Universal Postal Union;
+[34/2007 wef 24/08/2007]
 
-“posting box” includes any pillar box and wall box and any other box or receptacle provided by or under the authority of a public postal licensee for the purpose of receiving postal articles for transmission by, or under the authority of, a public postal licensee;
+“posting box” includes any pillar box, wall box or other box or receptacle provided by or under the authority of a postal licensee for the purpose of receiving postal articles for transmission by post;
+
+[34/2007 wef 24/08/2007]
 
 “public postal licensee” means a person designated by the Postal Authority under section 7;
 
@@ -214,25 +266,125 @@ PRELIMINARY
 
 “repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323, 1993 Ed.) repealed by the Info-communications Development Authority of Singapore Act (Cap. 137A);
 
+“sender”, in relation to a postal article, means a person whose communication it originates from;
+
+[34/2007 wef 24/08/2007]
+
 “TAS” means the Telecommunication Authority of Singapore reconstituted under the repealed Act;
 
 “vessel” includes any ship, boat, air-cushioned vehicle or floating rig or platform used in any form of operations at sea or any other description of vessel.
 
-(2) For the purposes of this Act —
+(2) In this Act, unless the context otherwise requires, “letter” means any communication in written form on any kind of physical medium to be conveyed and delivered (otherwise than electronically) to a particular addressee or address indicated by the sender on the letter itself or on its wrapping, and includes a postal article containing such communication, but does not include any book, catalogue, newspaper or periodical.
 
-(a) the delivery of a postal article by depositing it —
+[34/2007 wef 24/08/2007]
 
-(i) into the letter box of the addressee or by leaving it at the house or office of the addressee, or with the addressee or with his employee or agent or other person authorised to receive it and, where the addressee is a guest or is a resident at a hotel, hostel or lodging of a similar nature, by leaving it with the proprietor or manager thereof or with his agent shall be a delivery to the addressee; and
+(3) For the purposes of subsection (2), any reference to communication to be conveyed or delivered otherwise than electronically shall be a reference to a communication to be conveyed or delivered otherwise than —
 
-(ii) into any posting box or by handing it over to an employee or agent of a public postal licensee authorised to receive it shall be a delivery to the licensee; and
+(a) by means of a telecommunication system within the meaning of the Telecommunications Act (Cap. 323); or
 
-(b) a postal article shall be in the course of transmission by post from the time of it being delivered to a public postal licensee to the time of it being delivered to the addressee, or it being returned to the sender or otherwise disposed of under this Act.
+(b) by any other means but while in electronic form.
+
+[34/2007 wef 24/08/2007]
+
+(4) For the purposes of this Act —
+
+(a) the deposit of a postal article into any posting box of a postal licensee, or its delivery to any employee of a postal licensee or any agent authorised by the postal licensee to receive postal articles of that description on its behalf, shall be a delivery to the postal licensee;
+
+(b) the delivery of a postal article —
+
+(i) by leaving it at the premises to which it is addressed or redirected, unless the premises are a post office from which the postal article is to be collected;
+
+(ii) by depositing it into the letter box of the premises to which it is addressed or redirected; or
+
+(iii) to the addressee’s agent or to any other person considered to be authorised to receive the postal article,
+
+shall be a delivery to the addressee; and
+
+(c) a postal article shall be regarded to be in the course of transmission by post from the time of its being delivered to a postal licensee to the time of it being delivered to the addressee, or it being returned to the sender or otherwise disposed of under this Act.
+
+[34/2007 wef 24/08/2007]
+
+## PART IA
+
+POSTAL AUTHORITY
+
+[34/2007 wef 24/08/2007]
 
 ### Postal Authority
 
-3\.—(1) The Minister may, by notification in the Gazette, appoint such person to be the Postal Authority responsible for the administration of this Act.
+3\. The Info-communications Development Authority of Singapore shall be the Postal Authority responsible for the administration of this Act.
 
-(2) Subject to the provisions of this Act, the functions conferred on the Postal Authority by this Act may be performed by any officer of or any person who is in the employment of the Postal Authority who has been generally or specially authorised by name or office by the Postal Authority, and subject to its direction and control.
+### Functions and duties of Postal Authority
+
+3A\.—(1) It shall be the function and duty of the Postal Authority —
+
+(a) to promote the efficiency and international competitiveness of the postal industry in Singapore;
+
+(b) to ensure that postal services are reasonably accessible to all people in Singapore, and are supplied as efficiently and economically as practicable and at performance standards that reasonably meet the social, industrial and commercial needs of Singapore;
+
+(c) to promote the development of postal systems and postal services in accordance with, as far as practicable, recognised international standard practice;
+
+(d) to promote and maintain fair and efficient market conduct between persons engaged in commercial activities connected with the operation and provision of postal systems and postal services for the conveyance of letters in Singapore;
+
+(e) to promote the effective participation of all sectors of the Singapore postal industry in markets, whether in Singapore or elsewhere;
+
+(f) to exercise licensing and regulatory functions in respect of postal systems and postal services in Singapore;
+
+(g) to exercise regulatory functions in respect of the determination and approval of prices, tariffs, charges and the provision of postal services and other related services;
+
+(h) to act internationally as the national body representative of Singapore in respect of postal matters;
+
+(i) to advise the Government on national needs and policies in respect of all postal matters and on matters pertaining to the Postal Authority generally; and
+
+(j) to further the advancement of technology relating to postal systems and postal services.
+
+[34/2007 wef 24/08/2007]
+
+(2) In discharging the functions and duties imposed on it by subsection (1), the Postal Authority shall have regard —
+
+(a) to efficiency and economy;
+
+(b) to the social, industrial and commercial needs of Singapore for postal services;
+
+(c) to the state of and trends in the development of postal systems and postal services and the evolution of standards and protocols used in the postal industry, both in Singapore and elsewhere;
+
+(d) to fostering the development and expansion of postal services in the world in collaboration with foreign postal administrations, other countries and international organisations;
+
+(e) to maintaining fair competition between persons engaged in the provision of postal systems and postal services for the conveyance of letters;
+
+(f) to enabling persons providing postal systems and postal services in Singapore to compete fairly in the provision of such systems and services outside Singapore;
+
+(g) to the provision of postal services at rates consistent with efficient service;
+
+(h) to the promotion of research and development in the field of postal systems and postal services; and
+
+(i) to collaboration with educational institutions for the promotion of technical education in the field of postal systems and postal services.
+
+[34/2007 wef 24/08/2007]
+
+(3) The Postal Authority may undertake such other functions as the Minister may from time to time, by notification published in theGazette, assign to the Postal Authority, and in so doing, the Postal Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Postal Authority in respect of such functions.
+
+[34/2007 wef 24/08/2007]
+
+(4) Nothing in this section shall be construed as —
+
+(a) imposing on the Postal Authority, either directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject;
+
+(b) precluding the Postal Authority from interrupting, suspending or restricting any postal services provided by the Postal Authority; and
+
+(c) precluding the Postal Authority from ensuring the provision of any special service for any person or section of the public where the special service is required.
+
+[34/2007 wef 24/08/2007]
+
+### Powers of Postal Authority
+
+3B\.—(1) Subject to the provisions of this Act, the Postal Authority may carry on such activities as appear to it to be advantageous, necessary or expedient for it to carry on for or in connection with the discharge of its functions and duties under this Act, and in particular, the Postal Authority may exercise any of the powers specified in the Schedule.
+
+[34/2007 wef 24/08/2007]
+
+(2) This section shall not be construed as limiting any power of the Postal Authority conferred by or under any other written law.
+
+[34/2007 wef 24/08/2007]
 
 ## PART II
 
@@ -240,23 +392,57 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
 
 ### Exclusive privilege with respect to conveyance, etc., of letters
 
-4\.—(1) As from 1st December 1999 and subject to this Act, the Postal Authority shall have the exclusive privilege of conveying from one place to another lettersand postcards and performing all incidental services of receiving, collecting, sending, despatching and delivering lettersand postcards.
+4\.—(1) As from 1st December 1999 and subject to this Act, the Postal Authority shall have the exclusive privilege of conveying from one place to another letters and performing all incidental services of receiving, collecting, sorting, sending, despatching and delivering letters.
 
-(2) No letter or postcard shall, unless exempt by this Act or any other written law, be conveyed into or out of Singapore, from or to any place between which and Singapore posts or postal communications are established, or from one place to another, or be delivered or distributed in Singapore otherwise than by or through the post.
+(2) Subject to the provisions of this Act, no person shall convey within Singapore any letter from one place to another (whether the place is within or outside Singapore), or perform such incidental services of receiving, collecting, sorting, sending, despatching and delivering letters, unless the person —
+
+(a) is the Postal Authority;
+
+(b) holds a postal licence authorising him to do so; or
+
+(c) is acting as an employee or agent of the Postal Authority, or of a person who is authorised under a postal licence to do so.
+
+[34/2007 wef 24/08/2007]
 
 ### Exceptions to section 4
 
-5\. The privilege conferred by section 4 shall not be infringed by —
+5\.—(1) The privilege conferred by section 4 shall not be infringed by —
 
-(a) letters or postcards or both not exceeding 3 in number sent by a person for delivery by the person to another without hire, reward or other profit for receiving, carrying or delivering the lettersor postcards;
+(a) letters not exceeding 3 in number sent by a person for delivery by the person to another without hire, reward or other profit for receiving, carrying or delivering the letters;
 
-(b) any letter or postcard solely concerning the affairs of the sender or receiver thereof, sent by a messenger employed for that purpose; and
+(b) any letter solely concerning the affairs of either correspondent by an employee of either correspondent;
 
-(c) any letter or postcard solely concerning any goods or other property which is to be delivered with the letteror postcard, without hire, reward or other profit for receiving, carrying or delivering the letteror postcard, if the letteror postcard is open to inspection and has thereon the words “Consignee’s letter” or other words to the same effect.
+[34/2007 wef 24/08/2007]
+
+(c) the conveyance of any letter solely concerning any goods or other property which is to be delivered with the letter, without hire, reward or other profit for receiving, carrying or delivering the letter, if the letter is open to inspection and has thereon the words “Consignee’s letter” or other words to the same effect; and
+
+(d) the conveyance from one place to another of —
+
+(i) any letter which weighs more than 500 grams;
+
+(ii) any letter by direct mail;
+
+(iii) any letter by the sender personally; or
+
+(iv) any document in respect of which a method of service other than post is required or authorised by written law.
+
+[34/2007 wef 24/08/2007]
+
+(2) The Minister may, after consulting the Postal Authority, by order published in theGazette, delete, vary or add to the exceptions in subsection (1).
+
+[34/2007 wef 24/08/2007]
 
 ### Power to license conveyance of letters, etc.
 
-6\.—(1) A licence may, with the consent of or in accordance with the terms of a general authority given by the Minister, be granted by the Postal Authority either unconditionally or subject to such conditions as the Postal Authority may impose and specify in the licence and either irrevocably or subject to revocation as therein specified for the conveyance from one place to another of such letters and postcards and the performance of such incidental services of receiving, collecting, sending, despatching and delivering letters and postcards as are specified in the licence.
+6\.—(1) The Postal Authority may, with the consent of or in accordance with the terms of any general authority given by the Minister, grant a licence (referred to in this Act as a postal licence) to any person or class of persons authorising the person or class of persons to do anything —
+
+(a) which would otherwise contravene section 4; and
+
+(b) which is specified in the licence,
+
+and any such postal licence may be granted without conditions or subject to such conditions as the Postal Authority thinks fit.
+
+[34/2007 wef 24/08/2007]
 
 (2) A licence granted under subsection (1) may be granted either to any person, class of persons or a particular person and may include (without prejudice to the power to impose conditions conferred by that subsection) conditions requiring the licensee —
 
@@ -284,8 +470,6 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 
 (5) The grant of licences under this section shall be at the discretion of the Postal Authority.
 
-(6) Nothing in this section shall prevent the Minister from directing the Postal Authority to grant a licence in any specific case and any person aggrieved by a refusal of the Postal Authority to grant a licence may, within 14 days of the refusal, appeal to the Minister whose decision shall be final.
-
 (7) Anything done under and in accordance with a licence granted under subsection (1) shall not constitute an infringement of the privilege conferred by section 4.
 
 ### Designation of public postal licensees
@@ -296,9 +480,13 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 
 8\.—(1) Subject to this section, the Postal Authority may modify the conditions of a licence granted under section 6.
 
-(2) Before making modifications to the conditions of a licence of a public postal licensee under this section, the Postal Authority shall give notice to the licensee —
+(2) Before making modifications to the conditions of a licence of a postal licensee under this section, the Postal Authority shall give notice to the licensee —
 
-(a) stating that it proposes to make the modifications in the manner as specified in the noticeand the compensation payable for any damage caused thereby; and
+(a) stating that it proposes to make the modifications in the manner as specified in the notice;
+
+(aa) stating the compensation payable for any damage caused by the modifications proposed, where the postal licensee is a public postal licensee; and
+
+[34/2007 wef 24/08/2007]
 
 (b) specifying the time (not being less than 28 days from the date of service of notice on such licensee) within which written representations with respect to the proposed modifications may be made.
 
@@ -310,13 +498,11 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 
 and, in either event, the Postal Authority shall thereupon issue a direction in writing to such licensee requiring that effect be given to the proposed modifications specified in the notice or to such modifications as subsequently amended by the Postal Authority within a reasonable time.
 
-(4) Any public postal licensee aggrieved by the decision of the Postal Authority under subsection (3) may, within 14 days of the receipt by it of the direction of the Postal Authority, appeal to the Minister whose decision shall be final.
-
 (5) The Postal Authority shall not enforce its direction —
 
-(a) during the period referred to in subsection (4); and
+(a) during the period referred to in section 56; and
 
-(b) whilst the appeal of the public postal licensee is under consideration by the Minister.
+(b) whilst the appeal of the postal licensee is under consideration by the Minister.
 
 (6) If no written representation is received by the Postal Authority within the time specified in subsection (2) or if any written representation made under subsection (2) is subsequently withdrawn, the Postal Authority may forthwith carry out the modifications as specified in the notice given under subsection (2).
 
@@ -326,25 +512,41 @@ and, in either event, the Postal Authority shall thereupon issue a direction in 
 
 (a) any of the conditions of the licence;
 
-(b) any provision of any code of practice or standard of performance; or
+(b) any provision of any code of practice or standard of performance;
 
-(c) any direction of the Authority given under section 25,
+(c) any direction of the Postal Authority given under section 25, 26D or 26F(2); or
+
+[34/2007 wef 24/08/2007]
+
+(d) section 26B,
+
+[34/2007 wef 24/08/2007]
 
 the Authority may, by notice in writing, do either or both of the following:
 
 (i) issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;
 
-(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $10,000 as it thinks fit.
+(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.
 
-(2) Where the Authority is satisfied that the person mentioned in subsection (1) is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under subsection (1)(i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
+(2) Where the Postal Authority is satisfied that —
 
-(a) cancel the licence or part thereof;
+(a) the person who is granted a postal licence is again likely to contravene, whether by act or omission, any condition, provision, direction or section referred to in subsection (1);
 
-(b) suspend the licence or part thereof for such period as it thinks fit;
+(b) the person who is granted a postal licence has gone into liquidation other than for the purpose of amalgamation or reconstruction;
 
-(c) reduce the period for which the licence is to be in force.
+(c) the person who is granted a postal licence is no longer in a position to comply with the provisions of this Act or the terms or conditions of his licence; or
 
-(3) Any person who is aggrieved by any decision of the Authority under subsection (1) or (2) may, within 14 days after such person has been given the notice in writing referred to in subsection (1) or (2), appeal to the Minister whose decision shall be final.
+(d) the public interest so requires,
+
+the Postal Authority may, in lieu of an order or a financial penalty under subsection (1)(i) or (ii) or both, by notice in writing and without any compensation, do all or any of the following:
+
+(i) cancel the licence or part thereof;
+
+(ii) suspend the licence or part thereof for such period as it thinks fit;
+
+(iii) reduce the period for which the licence is to be in force.
+
+[34/2007 wef 24/08/2007]
 
 (4) An order under subsection (1)(i) —
 
@@ -352,9 +554,9 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (b) shall take effect at such time, being the earliest practicable time, as is determined by or under that order; and
 
-(c) may be revoked at any time by the Authority.
+(c) may be revoked at any time by the Postal Authority.
 
-(5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence .
+(5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
@@ -368,15 +570,45 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (b) to give effect to any direction of the Minister under section 45.
 
-(2) Where the Postal Authority undertakes the provision of postal services under subsection (1), sections 2, 10, 11, 12, 13, 18 to 23, 27 to 34, 36 to 38, 40 to 44, 57 and 58 shall apply, with the necessary modifications, to the Postal Authority in respect of the provision of such services and the references to public postal licensees in those sections shall be read as references to the Postal Authority.
+(2) Where the Postal Authority undertakes the provision of postal services under subsection (1), sections 2, 10, 10A, 11, 12, 13, 18 to 21, 23, 27 to 34, 36 to 38, 40 to 44, 57 and 58 shall apply, with the necessary modifications, to the Postal Authority in respect of the provision of such services and the references to public postal licensees or postal licensees in those sections shall be read as references to the Postal Authority.
+
+### Charges and other terms for services provided by Postal Authority
+
+10A\.—(1) The Postal Authority may make, in relation to any service provided by the Postal Authority under this Act, a scheme or schemes for determining either or both of the following:
+
+(a) the charges which, except in so far as they are the subject of an agreement between the Postal Authority and a person availing himself of the service, are to be made by the Postal Authority;
+
+(b) the other terms and conditions which, except as provided, are to be applicable to the service.
+
+[34/2007 wef 24/08/2007]
+
+(2) A scheme made under this section may make different provision for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.
+
+[34/2007 wef 24/08/2007]
+
+(3) A charge exigible by virtue of this section may be recovered by the Postal Authority in any court of competent jurisdiction as if it were a simple contract debt.
+
+[34/2007 wef 24/08/2007]
+
+(4) A scheme or any amendment thereof made under this section shall come into operation on such date as may be determined by the Postal Authority.
+
+[34/2007 wef 24/08/2007]
+
+(5) Nothing in this section shall be construed as prohibiting the Postal Authority from levying any charge or collecting any dues for anything done or any service rendered by reason only of not being incorporated in a scheme and the rates, charges and fees payable to the Postal Authority for any service rendered shall be in accordance with such rates, charges and fees as may, from time to time, be determined by the Postal Authority.
+
+[34/2007 wef 24/08/2007]
 
 ## PART III
 
 POSTAL SERVICES AND SYSTEMS
 
-### Power to specify documents and terms and conditions for remittance of money
+### Power to specify documents for remittance of money
 
-11\. A public postal licensee may provide for the remittance of any sum of money and may specify the documents to be used in connection with the remittance of money in accordance with any regulations made under this Act.
+11\.—(1) A public postal licensee may provide for the remittance of any sum of money through the post or any electronic or other system established by or among foreign postal administrations and postal licensees.
+
+(2) A public postal licensee may specify the documents to be used in connection with the remittances under subsection (1).
+
+[34/2007 wef 24/08/2007]
 
 ### Documents to be deemed valuable securities
 
@@ -384,7 +616,9 @@ POSTAL SERVICES AND SYSTEMS
 
 ### Examination of postal articles
 
-13\. All postal articles received from outside Singapore may be examined while in the custody of a public postal licensee by the Director-General of Customs or any senior officer of customs, and may be opened by an employee of the licensee in the presence of the Director-General of Customs or the senior officer of customs for the purpose of the examination.
+13\. All postal articles received from outside Singapore may be examined while in the custody of a postal licensee by the Director-General of Customs or any senior officer of customs, and may be opened by an employee of the licensee in the presence of the Director-General of Customs or the senior officer of customs for the purpose of the examination.
+
+[4/2003 wef 01/04/2003]
 
 ### Forfeiture of postal articles
 
@@ -396,63 +630,89 @@ POSTAL SERVICES AND SYSTEMS
 
 15\. The addressee of any postal article containing any dutiable goods shall be presumed until the contrary is proved to have imported the same.
 
-### Restrictions in dealing in and import and export control of franking machines
+### Letter boxes
 
-16\.—(1) Any person intending to apply to the Controller of Imports and Exports for permit to import, export or tranship any franking machine shall, before the application is made, obtain the written approval of the Postal Authority.
+16\.—(1) The Postal Authority may, from time to time, do all or any of the following:
 
-(2) The Postal Authority may require the person making the application for the import, export or transhipment of any franking machine to produce the machine for testing by the Postal Authority, and all expenses incurred in connection therewith shall be borne by the person.
+(a) issue or approve the specifications relating to the number, place, dimensions and other characteristics of letter boxes;
 
-(3) Where any franking machine has been imported without the written approval of the Postal Authority, it shall be re-exported or disposed of by the person who imported it in such manner as the Postal Authority may direct.
+(b) approve the installation and use of such other mail delivery systems or arrangements;
 
-(4) Any person who —
+(c) amend or revoke any specifications issued or approved under paragraph (a) or any approval under paragraph (b).
 
-(a) imports, exports or tranships any franking machine without the prior written approval of the Postal Authority; and
+(2) Where any specifications are issued or approved, or amended or revoked by the Postal Authority under subsection (1), the Postal Authority shall —
 
-(b) fails to comply with any direction of the Postal Authority made under subsection (3),
+(a) publish a notice of the issue, approval, amendment or revocation, as the case may be, of the specifications in such manner as will secure adequate publicity for such issue, approval, amendment or revocation;
 
-shall be guilty of an offence.
+(b) specify in the notice referred to in paragraph (a) the date of issue, approval, amendment or revocation, as the case may be; and
 
-(5) Except with the written approval or permission of the Postal Authority, no person shall manufacture, deal in, sell, supply, distribute or offer to sell, supply or distribute any franking machine.
+(c) ensure that, so long as the specifications remain in force, the specifications, and all amendments to those specifications, are available for inspection by members of the public.
 
-(6) The Postal Authority may, in granting any written approval or permission under this section, impose such conditions as it thinks fit.
+(3) A developer of any residential, commercial or industrial building shall —
 
-(7) Any person who contravenes subsection (5) shall be guilty of an offence.
-
-### Delivery of postal articles
-
-17\.—(1) The Postal Authority shall publish the specifications relating to the number, place, dimensions and other characteristics of letter boxes and may approve the installation and use of such other mail delivery systems or arrangements as the Postal Authority may consider fit.
-
-(2) A developer of any residential, commercial or industrial building shall —
-
-(a) provide one letter box per unit in the case of any residential building and one letter box per tenant in the case of any commercial or industrial building;
+(a) provide one letter box for each lot within any residential building, and one letter box for the occupier of each lot within any commercial or industrial building;
 
 (b) ensure that the letter boxes provided under paragraph (a) are numbered in numerical sequence; and
 
-(c) comply with all other specifications laid down by the Authority in accordance with subsection (1).
+(c) comply with all specifications issued, approved or amended by the Postal Authority under subsection (1).
 
-(3) Any developer who contravenes or fails to comply with subsection (2) shall be guilty of an offence.
+(4) Any developer who contravenes subsection (3) shall be guilty of an offence.
 
-(4) For the purposes of this section, “commercial or industrial building” includes any shopping complex.
+(5) It shall be the duty of —
+
+(a) the owner of any common property or limited common property, as the case may be, on which a letter box is situated, being a letter box which is provided for persons occupying the building or part thereof; and
+
+(b) the owner of a building where a letter box is provided for the owner or occupier of the building,
+
+to keep at all times the lawful access to the letter box clear from any obstruction by any vehicle, debris, box or object or any other thing which would prevent or impede the delivery of postal articles to that letter box by a postal licensee.
+
+(6) Where, in the opinion of the Postal Authority, the lawful access to any letter box referred to in subsection (5) is not clear from such obstructions mentioned in that subsection, the Postal Authority may, by notice in writing, require the owner of the common property or limited common property, or the owner or occupier of the building referred to in subsection (5)(b), as the case may be, to undertake, within such time as may be specified in that notice, such work or such rectification steps to ensure that subsection (5) is complied with.
+
+(7) If any person on whom a notice under subsection (6) is served fails, without reasonable excuse, to comply with the requirements of that notice, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $25 for every day or part thereof during which the offence continues after conviction.
+
+(8) For the avoidance of doubt, subsections (5), (6) and (7) shall not apply with respect to any sealing or locking of the aperture of a letter box by the person for whom the letter box is provided, or any closure or locking of any normal access to the letter box by or under lawful authority.
+
+(9) In this section —
+
+“commercial or industrial building” includes any shopping complex;
+
+“common property”, “limited common property” and “owner” have the same meanings, respectively, as in the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004).
+
+[34/2007 wef 24/08/2007]
+
+17\. [Deleted by Act 34/2007 wef 24/08/2007]
 
 ### Posting boxes and postal label vending machines
 
-18\. A Authority may, with the approval of the Postal Authority, erect, relocate and remove any posting box and postal label vending machine in any public road, street or highway, or in any other public place.
+18\. A postal licensee may, with the approval of the Postal Authority, erect, relocate and remove any posting box and postal label vending machine in any public road, street or highway, or in any other public place.
 
-### Provision of postage stamps
+[34/2007 wef 24/08/2007]
 
-19\.—(1) A public postal licensee may, subject to such directions as the Minister may give, cause postage stamps to be provided of such kinds and denoting such values as the licensee may determine for the purposes of this Act.
+### Postage stamps
 
-(2) Any postage stamp provided under this section shall be used for the prepayment of any postage or other sum chargeable under this Act in respect of any postal article, except where the public postal licensee determines that prepayment may be made in some other manner.
+19\.—(1) No person other than the Postal Authority or a public postal licensee may cause postage stamps that bear the word “Singapore” in any language to be provided.
 
-(3) All philatelic archival materials produced by a public postal licensee shall belong to the Government and shall be kept in such custody as the Minister directs.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(4) For the purpose of subsection (3), “philatelic archival materials” include —
+(3) Any postage stamp provided under subsection (1) may be of such kind and may denote such values as the Postal Authority or public postal licensee may determine.
+
+(4) Any postage stamp provided under this section shall be used for the prepayment of any postage or other sum chargeable under this Act in respect of any postal article to be conveyed and delivered by or through the Postal Authority or the public postal licensee, except where the Postal Authority or public postal licensee determines that prepayment may be made in some other manner.
+
+(5) The design of every postage stamp provided by a public postal licensee under this section shall be approved by the Postal Authority.
+
+(6) All philatelic archival materials produced by a public postal licensee shall belong to the Government, and all philatelic archival materials shall be kept in such custody as the Government directs.
+
+(7) In subsection (6), “philatelic archival materials” includes —
 
 (a) philatelic stamps;
 
 (b) artworks, proofs, progressive sheets, printed sheets and printing plates of philatelic stamps; and
 
 (c) date-stamps, slogan dies and other artifacts used in connection with the production of philatelic stamps.
+
+(8) The Minister may, after consulting the Postal Authority, by order published in theGazette, delete, vary or add to the items of “philatelic archival materials” specified in subsection (7).
+
+[34/2007 wef 24/08/2007]
 
 ### Official marks to be prima facie evidence of certain facts denoted
 
@@ -468,17 +728,27 @@ shall be guilty of an offence.
 
 (2) The official mark or label on a postal article denoting that any postage or other fee or sum is due in respect thereof to a public postal licensee or to the postal authority of any foreign country shall be prima facie evidence that the postage or other fee or sum denoted is so due.
 
-### Suspension or modification of postal services
-
-22\. Where a public postal licensee is unable to maintain all or any of the postal services it is licensed to provide under section 6, the licensee may, with the approval of the Postal Authority, suspend or modify all or any of those postal services.
+22\. [Deleted by Act 34/2007 wef 24/08/2007]
 
 ### Power to deal with postal articles sent in contravention of this Act
 
-23\.—(1) Any postal article sent by post which is suspected to be sent in contravention of this Act or any regulations made thereunder may be detained and opened by a public postal licensee .
+23\.—(1) Any postal article sent by post which is suspected to be sent in contravention of this Act or any regulations made thereunder may be detained and opened by a public postal licensee or otherwise dealt with in accordance with the directions of the Postal Authority.
+
+[34/2007 wef 24/08/2007]
 
 (2) The detention of a postal article under subsection (1) shall not exempt the sender from any proceedings which might have been taken if the postal article had been delivered in due course of post.
 
-(3) Any postal article sent in contravention of this Act or any regulations made thereunder shall be destroyed, returned to the sender or dealt with in such manner as the public postal licensee may direct.
+[34/2007 wef 24/08/2007]
+
+(3) Any postal article sent in contravention of this Act or any regulations made thereunder shall be destroyed, returned to the sender or dealt with in such other manner as the Postal Authority may direct.
+
+(4) The Postal Authority may, by order in writing, direct a postal licensee to detain and open all or any postal articles sent by any person or persons named in the order who are reasonably suspected of sending postal articles by post in contravention of this Act.
+
+[34/2007 wef 24/08/2007]
+
+(5) Upon receipt of an order under subsection (4), a postal licensee shall detain and open the postal article or articles specified in the order, and any postal article found to have been sent in contravention of this Act shall be dealt with in accordance with subsection (3).
+
+[34/2007 wef 24/08/2007]
 
 ## PART IV
 
@@ -486,19 +756,55 @@ CODES OF PRACTICE AND DIRECTIONS
 
 ### Codes of practice, etc.
 
-24\.—(1) The Postal Authority may issue or approve and, from time to time, review codes of practice and standards of performance in connection with —
+24\.—(1) The Postal Authority may, from time to time —
 
-(a) the operation of postal systems;
+(a) issue one or more codes of practice or standards of performance;
 
-(b) the provision of postal services; and
+(b) approve as a code of practice or standard of performance any document prepared by a person other than the Postal Authority if the Postal Authority considers the document as suitable for this purpose; or
 
-(c) the conduct of postal licensees in the provision of postal services.
+(c) amend or revoke any code of practice or standard of performance issued under paragraph (a) or approved under paragraph (b),
 
-(2) If any provision in any code of practice or standard of performance is inconsistent with any regulations made under this Act, such provision shall, to the extent of the inconsistency, either have effect subject to such regulations or, where appropriate, having regard to such regulations, shall not have effect.
+with respect to all or any of the following:
 
-(3) The Postal Authority may exempt, either generally or for such time as the Postal Authority may specify, any postal licensee from any provision in any code of practice or standard of performance.
+(i) the operation of postal systems;
 
-(4) Every postal licensee shall comply with the relevant codes of practice and standards of performance.
+(ii) the provision of postal services;
+
+(iii) the activities and conduct of postal licensees in the provision of postal services;
+
+(iv) competition, abuse of a dominant position in the market for postal systems or postal services and fair market conduct in the provision of postal services in Singapore;
+
+(v) the acquisitions or consolidations involving a postal licensee and any other person (whether a postal licensee or otherwise);
+
+(vi) the carrying out of the purposes and provisions of this Act and for the due administration thereof.
+
+(2) A code of practice may, in particular, specify the duties and obligations of any person in relation to his business operation in so far as it relates to the provision of postal services.
+
+(3) If any provision in any code of practice or standard of performance is inconsistent with any provision of this Act, such provision, to the extent of the inconsistency —
+
+(a) shall have effect subject to the provisions of this Act; and
+
+(b) having regard to the provisions of this Act, shall not have effect.
+
+(4) Where a code of practice or standard of performance is issued, approved, amended or revoked by the Postal Authority under subsection (1), the Postal Authority shall —
+
+(a) publish a notice of the issue, approval, amendment or revocation, as the case may be, of the code of practice or standard of performance in such manner as will secure adequate publicity for such issue, approval, amendment or revocation;
+
+(b) specify in the notice referred to in paragraph (a) the date of issue, approval, amendment or revocation, as the case may be, and the place at and the time during which the code of practice or standard of performance which is the subject of the notice may be inspected; and
+
+(c) ensure that, so long as the code of practice or standard of performance remains in force, copies of that code or standard, and of all amendments to that code or standard, are available for inspection by members of the public free of charge, and for purchase by members of the public at a reasonable price.
+
+(5) No code of practice or standard of performance, no amendment to an approved code of practice or standard of performance, and no revocation of any such approved code of practice or standard of performance, shall have any force or effect as an approved code of practice or standard of performance until the notice relating thereto is published in accordance with subsection (4).
+
+(6) Any code of practice or standard of performance issued or approved under this section shall not have legislative effect.
+
+(7) Subject to subsection (8), every postal licensee shall comply with the relevant codes of practice and standards of performance issued or approved under this section.
+
+(8) The Postal Authority may, either generally or for such time as the Postal Authority may specify, waive the application of any code of practice or standard of performance, or part thereof, issued or approved under this section to any postal licensee.
+
+(9) In this section, “dominant position” means a dominant position in any market for postal systems or postal services, whether in Singapore or elsewhere.
+
+[34/2007 wef 24/08/2007]
 
 ### Directions affecting postal licensee
 
@@ -506,9 +812,19 @@ CODES OF PRACTICE AND DIRECTIONS
 
 (a) to ensure the reliability of the provision of any postal service to the public;
 
-(b) to ensure fair and efficient market conduct by postal licensees; or
+(b) to ensure fair and efficient market conduct by postal licensees;
 
-(c) in the public interest.
+(c) to ensure the technical compatibility and safety of operation of any postal equipment or postal system;
+
+[34/2007 wef 24/08/2007]
+
+(d) to ensure the co-ordination and co-operation, on such terms as the Postal Authority may specify, with any other person in the use or sharing of any installation, plant or system, or part thereof, owned or used by the postal licensee for the provision of any postal service; or
+
+[34/2007 wef 24/08/2007]
+
+(e) in the public interest.
+
+[34/2007 wef 24/08/2007]
 
 (2) A direction under subsection (1) —
 
@@ -526,19 +842,329 @@ CODES OF PRACTICE AND DIRECTIONS
 
 and shall consider any representations or objections which are duly made.
 
-(4) Any postal licensee who is aggrieved by any direction of the Postal Authority under subsection (1) may, within 14 days after the licensee is served with the direction, appeal to the Minister whose decision shall be final.
-
 (5) Every postal licensee shall comply with every direction of the Postal Authority given to the licensee under this section.
 
 ### Advisory guidelines
 
 26\.—(1) The Postal Authority may make advisory guidelines about any aspect of postal services and postal systems.
 
+(1A) Advisory guidelines, for example, may be made about —
+
+(a) any matter in respect of which codes of practice and standards of performance may be made under section 24; or
+
+(b) the use, construction, design or performance of anything relating to postal systems or postal services.
+
+[Act 34/2007 wef 24/08/2007]
+
 (2) The Postal Authority must —
 
 (a) give a copy of each advisory guideline to the Minister; and
 
 (b) publish each advisory guideline in the way the Postal Authority thinks fit.
+
+## PART IVA
+
+CONTROL OVER DESIGNATED POSTAL LICENSEES
+
+[34/2007 wef 24/08/2007]
+
+### Interpretation of this Part
+
+26A\.—(1) In this Part, unless the context otherwise requires —
+
+“12% controller”, in relation to a designated postal licensee, means a person, not being a 30% controller, who alone or together with his associates —
+
+(a) holds 12% or more of the total number of voting shares in the designated postal licensee; or
+
+(b) is in a position to control 12% or more of the voting power in the designated postal licensee;
+
+“30% controller”, in relation to a designated postal licensee, means a person who alone or together with his associates —
+
+(a) holds 30% or more of the total number of voting shares in the designated postal licensee; or
+
+(b) is in a position to control 30% or more of the voting power in the designated postal licensee;
+
+“associate” has the meaning given to that expression in regulations made under section 26H;
+
+“consolidation” means any transaction —
+
+(a) that results in a person —
+
+(i) becoming a 30% controller of a designated postal licensee;
+
+(ii) acquiring the business of a designated postal licensee (or any part thereof) as a going concern; or
+
+(iii) obtaining effective control over a designated postal licensee; or
+
+(b) that is prescribed by regulations made under section 26H, or that falls within a class of transactions prescribed in such regulations;
+
+“designated postal licensee” means a postal licensee —
+
+(a) which has been declared by the Postal Authority, by notification published in theGazette, to be a designated postal licensee for the purposes of this Part; or
+
+(b) which is within a class of postal licensees which has been declared by the Postal Authority, by notification published in theGazette, to be a designated class of postal licensees for the purposes of this Part;
+
+“effective control” has the meaning given to it in the code of practice referred to in section 26C;
+
+“share” includes stock except where a distinction between stock and shares is expressed or implied;
+
+“treasury share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“voting share” has the same meaning as in section 4(1) of the Companies Act, but does not include a treasury share.
+
+[34/2007 wef 24/08/2007]
+
+(2) In relation to a designated postal licensee the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the designated postal licensee having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
+
+[34/2007 wef 24/08/2007]
+
+(3) The Postal Authority may, by notification published in theGazette, vary or revoke any declaration of a designated postal licensee.
+
+[34/2007 wef 24/08/2007]
+
+### Control of acquisition of designated postal licensee
+
+26B\.—(1) A designated postal licensee shall give notice in writing, in the prescribed manner and within the prescribed period, to the Postal Authority on the occasion when a person, whether by a series of transactions over a period of time or otherwise —
+
+(a) first acquires 5% or more but less than 12% of the voting shares in the designated postal licensee; or
+
+(b) first controls 5% or more but less than 12% of the voting power in the designated postal licensee.
+
+[34/2007 wef 24/08/2007]
+
+(2) Subject to subsection (4), no person shall, whether through a series of transactions over a period of time or otherwise, become a 12% controller or a 30% controller of a designated postal licensee without obtaining the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.
+
+[34/2007 wef 24/08/2007]
+
+(3) No person shall enter into any other transaction that constitutes a consolidation with a designated postal licensee without obtaining the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.
+
+[34/2007 wef 24/08/2007]
+
+(4) To the extent that the holding of any shares or control of any voting power in a designated postal licensee under subsection (2) constitutes a consolidation with that designated postal licensee, the person and the designated postal licensee shall, in addition to the approval required under that subsection, obtain the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.
+
+[34/2007 wef 24/08/2007]
+
+### Power to issue code of practice relating to control of designated postal licensee
+
+26C\.—(1) Without prejudice to the generality of section 24, the Postal Authority may issue a code of practice under that section which specifies such matters as are generally necessary for carrying out the purposes and provisions of this Part and for the due administration thereof.
+
+[34/2007 wef 24/08/2007]
+
+(2) Without prejudice to the generality of subsection (1), the Postal Authority may specify in the code of practice —
+
+(a) the circumstances under which a person would be considered to have entered into a consolidation with a designated postal licensee;
+
+(b) the categories of persons that shall obtain the prior written approval of the Postal Authority for —
+
+(i) any consolidation with a designated postal licensee; or
+
+(ii) an acquisition of the business of a designated postal licensee or part thereof;
+
+(c) the duties and obligations of a designated postal licensee and a person acquiring the business or part thereof as a going concern, holding any voting shares or controlling the voting power of a designated postal licensee;
+
+(d) the rules and procedures that a designated postal licensee and a person acquiring the business or part thereof as a going concern, holding any voting shares or controlling the voting power of a designated postal licensee must comply with; and
+
+(e) the terms and conditions which the Postal Authority may impose in granting any written approval under section 26B.
+
+[34/2007 wef 24/08/2007]
+
+### Power to issue directions
+
+26D\.—(1) Without prejudice to the generality of section 25, if the Postal Authority is satisfied that a person —
+
+(a) holds any voting shares or controls the voting power of a designated postal licensee; or
+
+(b) has entered into a consolidation with a designated postal licensee,
+
+(referred to in this section as the specified person), in contravention of section 26B(2), (3) or (4), or that the holding, control, acquisition or consolidation is likely to substantially lessen competition or is against the public interest, the Postal Authority may issue a direction under subsection (3) or (4), as the case may be.
+
+[34/2007 wef 24/08/2007]
+
+(2) The Postal Authority may issue a direction under subsection (3) or (4) if the Postal Authority is satisfied that —
+
+(a) any condition of written approval imposed on the person under section 26B has not been complied with;
+
+(b) the person has furnished false or misleading information or documents in connection with an application under section 26B to obtain the written approval of the Postal Authority; or
+
+(c) the Postal Authority would not have granted its written approval under section 26B had it been aware, at that time, of circumstances relevant to the person’s application for such approval,
+
+and the existing holding, control, acquisition or consolidation in the designated postal licensee by the person is likely to substantially lessen competition or is against the public interest.
+
+[34/2007 wef 24/08/2007]
+
+(3) The Postal Authority may, under the circumstances specified in subsection (1)(a) or (b) or (2), direct —
+
+(a) the designated postal licensee to do all or any of the following:
+
+(i) to restrict the specified person’s voting power in respect of the shares he holds or controls in the designated postal licensee (referred to in this section as the specified shares), unless the Postal Authority expressly permits such rights to be exercised;
+
+(ii) to restrict the issuance or offer of shares in the designated postal licensee (whether by way of rights, bonus or otherwise) in respect of the specified shares, unless the Postal Authority expressly permits such issue or offer;
+
+(iii) except in a winding up of the designated postal licensee, to restrict the payment of any amount (whether by way of dividends or otherwise) in respect of the specified shares, unless the Postal Authority expressly authorises such payments subject to such conditions as the Authority may specify; and
+
+(b) any specified person or an associate of the specified person to transfer or dispose of all or any part of the specified shares within such time and subject to such conditions as the Postal Authority considers appropriate.
+
+[34/2007 wef 24/08/2007]
+
+(4) The Postal Authority may, under the circumstances specified in subsection (1) or (2), direct any specified person to transfer or dispose of all or any part of the business acquired from the designated postal licensee within such time and subject to such conditions as the Postal Authority considers appropriate.
+
+[34/2007 wef 24/08/2007]
+
+(5) Before issuing a direction to any person under subsection (3) or (4), the Postal Authority shall, unless the Postal Authority decides that it is not practicable or desirable to do so, cause to be given to that person notice in writing of the Postal Authority’s intention to serve the direction, specifying a date by which that person may make written representations with regard to the proposed direction.
+
+[34/2007 wef 24/08/2007]
+
+(6) Upon receipt of any written representation referred to in subsection (5), the Postal Authority shall consider it for the purpose of determining whether to issue the direction.
+
+[34/2007 wef 24/08/2007]
+
+(7) Any person to whom a direction is given under subsection (3) or (4) shall comply with the direction and the direction shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated postal licensee.
+
+[34/2007 wef 24/08/2007]
+
+(8) The Postal Authority may vary or revoke any direction issued under this section.
+
+[34/2007 wef 24/08/2007]
+
+(9) Where a person is alleged to have contravened section 26B(2), (3) or (4), it shall be a defence for the person to prove that —
+
+(a) he was not aware that he had contravened the provision in question; and
+
+(b) he has, within 14 days of becoming aware that he had contravened that provision, notified the Postal Authority of the contravention and, within such time as determined by the Postal Authority, taken such actions in relation to his shareholding or control of the voting power in the designated postal licensee as the Postal Authority may direct,
+
+but it shall not be a defence for the person to prove that he did not intend to or did not knowingly contravene section 26B(2), (3) or (4), as the case may be, except as provided in this subsection.
+
+[34/2007 wef 24/08/2007]
+
+### Power to obtain information
+
+26E\.—(1) Without prejudice to any other provision of this Act, the Postal Authority may, by notice in writing, direct any designated postal licensee to obtain from any of its shareholders and to transmit to the Postal Authority information —
+
+(a) as to whether that shareholder holds any share in the designated postal licensee as a beneficial owner or trustee; and
+
+(b) if the shareholder holds the share as a trustee, to indicate so far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest,
+
+and the designated postal licensee shall comply with that direction within such time as may be specified in the notice.
+
+[34/2007 wef 24/08/2007]
+
+(2) The Postal Authority may, by notice in writing, require any shareholder of a designated postal licensee to inform the Postal Authority whether he holds that interest as a beneficial owner or trustee, and if he holds the interest as a trustee, to indicate so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest.
+
+[34/2007 wef 24/08/2007]
+
+(3) Any person who —
+
+(a) fails to comply with a notice under this section; or
+
+(b) in purported compliance of the notice, knowingly or recklessly, makes a statement which is false in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction —
+
+(i) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(ii) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[34/2007 wef 24/08/2007]
+
+### Appointment of chief executive officer, director, etc., of designated postal licensee
+
+26F\.—(1) No designated postal licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors unless it has obtained the prior written approval of the Postal Authority.
+
+[34/2007 wef 24/08/2007]
+
+(2) Where a person has been appointed by a designated postal licensee as its chief executive officer, its director, or the chairman of its board of directors without the prior written approval of the Postal Authority in contravention of subsection (1), the Postal Authority may issue a direction to the licensee to remove that person as its chief executive officer, its director or the chairman of its board of directors, as the case may be.
+
+[34/2007 wef 24/08/2007]
+
+(3) This section shall have effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated postal licensee.
+
+[34/2007 wef 24/08/2007]
+
+(4) In this section —
+
+“chief executive officer”, in relation to a designated postal licensee, means any person, by whatever name described, who —
+
+(a) is in the direct employment of, or acting for or by arrangement with, the designated postal licensee; and
+
+(b) is principally responsible for the management and conduct of any type of business of the designated postal licensee in Singapore,
+
+and includes any person for the time being performing all or any of the functions or duties of a chief executive officer;
+
+“director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
+
+[34/2007 wef 24/08/2007]
+
+### Power of Minister to issue written order relating to acquisition of assets, etc., of postal licensees
+
+26G\.—(1) Subject to subsection (4), where a person acquires the assets or business of, or shares in, a postal licensee (referred to in this section as the relevant person), and the Minister is satisfied that —
+
+(a) the relevant person is not a fit and proper person; and
+
+(b) it is not in the national interest to allow the relevant person to continue to own the assets or business of, or to hold the shares in, that postal licensee,
+
+the Minister may issue a written order to the relevant person, the postal licensee or both, directing the relevant person or that postal licensee or both to do all or anything specified in subsection (2).
+
+[34/2007 wef 24/08/2007]
+
+(2) A written order under subsection (1) may direct a relevant person, a postal licensee or both to do all or any of the following:
+
+(a) to transfer or dispose of all the assets, business or shares acquired by the relevant person in the postal licensee concerned, within such time and subject to such conditions as the Minister considers appropriate;
+
+(b) to transfer or dispose of any part of the assets, business or shares acquired by the relevant person in the postal licensee concerned only in such circumstances as the Minister considers appropriate.
+
+[34/2007 wef 24/08/2007]
+
+(3) If a written order containing any direction specified in subsection (2)(a) or (b) concerning any shares in a postal licensee is issued, then notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the postal licensee, the following shall apply for so long as those shares are not transferred or disposed of in accordance with the direction:
+
+(a) no voting rights shall be exercisable in respect of those shares without the prior and express permission of the Minister;
+
+(b) no shares in the postal licensee shall be issued or offered (whether by way of rights, bonus or otherwise) without the prior and express permission of the Postal Authority; and
+
+(c) no payment shall be made by the postal licensee of any amount (whether by way of dividends or otherwise) in respect of those shares unless the postal licensee has the prior and express permission of the Minister to do so or the payment is upon the winding up of the postal licensee.
+
+[34/2007 wef 24/08/2007]
+
+(4) Before issuing any written order under subsection (1), the Minister shall, unless he decides that it is not practicable or desirable to do so —
+
+(a) give notice to the relevant person or postal licensee, as the case may be, of the proposed written order; and
+
+(b) consider any written representation made in accordance with the notice in paragraph (a) and not withdrawn.
+
+[34/2007 wef 24/08/2007]
+
+(5) The notice in subsection (4)(a) shall state —
+
+(a) that the Minister intends to issue the written order; and
+
+(b) the period within which written representations may be made in relation to the proposed written order.
+
+[34/2007 wef 24/08/2007]
+
+(6) Any person to whom a written order is issued under subsection (1) shall comply with the written order, and the written order shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the postal licensee.
+
+[34/2007 wef 24/08/2007]
+
+(7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[34/2007 wef 24/08/2007]
+
+### Regulations for carrying out this Part
+
+26H\.—(1) The Postal Authority may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the purposes of this Part.
+
+[34/2007 wef 24/08/2007]
+
+(2) Without prejudice to the generality of subsection (1), the regulations may prescribe —
+
+(a) the circumstances under which a person would be considered to be an associate for the purposes of this Part; and
+
+(b) the circumstances under which a person would be or considered to be in a position to control a percentage of the voting power in a designated postal licensee.
+
+[34/2007 wef 24/08/2007]
 
 ## PART V
 
@@ -562,11 +1188,13 @@ shall be guilty of an offence.
 
 (a) to prevent or obstruct the transmission or delivery of any postal article;
 
-(b) to intercept or to acquaint himself with the contents of anyletter; or
+(b) to intercept or to acquaint himself with the contents of any postal article; or
 
 (c) to commit mischief,
 
-damages, removes, tampers with or touches any installation or plant or any part thereof used for posts belonging to a public postal licensee shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+damages, removes, tampers with or touches any installation or plant or any part thereof used for posts belonging to a public postal licensee shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
 
 ### Protection of installation or plant used for posts
 
@@ -610,51 +1238,61 @@ damages, removes, tampers with or touches any installation or plant or any part 
 
 33\. Subject to section 5, any person who —
 
-(a) conveys any letteror postcard or performs any service incidental to such conveyance without a licence granted under section 6;
+(a) conveys any letter or performs any service incidental to such conveyance without a licence granted under section 6;
 
-(b) collects, sends, tenders or delivers in order to be sent a letteror postcard without a licence granted under section 6; or
+(b) collects, sends, tenders or delivers in order to be sent a letter without a licence granted under section 6; or
 
-(c) makes a collection of lettersor postcards for transmission or distribution to or from any place through a public postal licensee without a licence granted under section 6,
+(c) makes a collection of letters for transmission or distribution to or from any place through a postal licensee without a licence granted under section 6,
 
 shall be guilty of an offence.
 
-### Offences by officer, employee or agent of public postal licensees
+[34/2007 wef 24/08/2007]
 
-34\. Any officer, employee or agent of a public postal licensee who —
+### Offences by officer, employee or agent of postal licensees
 
-(a) destroys or throws away any postal article in the course of transmission by post or anything contained therein;
+34\.—(1) Any officer, employee or agent of a postal licensee who —
 
-(b) commits theft in respect of or dishonestly misappropriates or secretes any postal article in the course of transmission by post or anything contained therein;
+(a) destroys or throws away any postal article or anything contained therein;
 
-(c) except in obedience to an order under the hand of the Minister or the direction of a court, wilfully opens or causes to be opened contrary to his duty any mail bag or postal article in the course of transmission by post or wilfully detains or delays or causes to be detained or delayed the mail bag or postal article;
+(b) commits theft in respect of or dishonestly misappropriates or secretes any postal article or anything contained therein;
 
-(d) issues or causes to be issued a document specified for use in connection with the remittance of money with fraudulent intent;
+(c) except in obedience to an order under the hand of the Minister or the direction of a court , wilfully opens or causes to be opened contrary to his duty any mail bag or postal article, or wilfully detains or delays or causes to be detained or delayed the mail bag or postal article; or
 
-(e) fraudulently puts any wrong official mark on a postal article;
+(d) issues or causes to be issued a document specified for use in connection with the remittance of money with fraudulent intent,
 
-(f) fraudulently alters, removes or causes to disappear any official mark on a postal article; or
+shall be guilty of an offence.
 
-(g) being entrusted with the delivery of any postal article, knowingly demands or receives any sum of money which is not chargeable under this Act,
+(2) Any officer, employee or agent of a postal licensee who —
 
-shall be guilty of an offence and shall be liable on conviction for —
+(a) fraudulently puts any wrong official mark on a postal article;
 
-(i) an offence under paragraph (a), (b), (c) or (d) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and
+(b) fraudulently alters, removes or causes to disappear any official mark on a postal article; or
 
-(ii) an offence under paragraph (e), (f) or (g) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(c) being entrusted with the delivery of any postal article, knowingly demands or receives any sum of money which is not chargeable under this Act,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) Subsection (1) shall apply only to postal articles which an officer, employee or agent of a postal licensee has access to in the course of his employment as an officer, employee or agent of the postal licensee.
+
+[34/2007 wef 24/08/2007]
 
 ### Fraudulent sending of postal article
 
-35\. Any person who sends any postal article bearing any facsimile, imitation or representation of postage stamps or purporting to be prepaid with any postage stamp which has previously been used to prepay any other postal article or which has otherwise been previously used shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+35\. Any person who sends any postal article bearing any facsimile, imitation or representation of postage stamps or purporting to be prepaid with any postage stamp which has previously been used to prepay any other postal article or which has otherwise been previously used shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
 
 ### Fraudulent retention of postal article
 
 36\.—(1) Any person who —
 
-(a) except in accordance with this Act or unless authorised by a public postal licensee, wilfully retains or secretes or makes away with or keeps or detains or, when required by an employee of a public postal licensee, neglects or refuses to deliver up in the course of transmission by post any postal article or any mail bag containing any postal article; or
+(a) except in accordance with this Act or unless authorised by the Postal Authority, wilfully retains or secretes or makes away with or keeps or detains or, when required by an employee of a public postal licensee, neglects or refuses to deliver up in the course of transmission by post any postal article or any mail bag containing any postal article; or
 
-(b) except in accordance with this Act or unless authorised by a public postal licensee, wilfully opens or causes to be opened any letter which ought to have been delivered, or does any act whereby the due delivery of a letter to any person is prevented or impeded,
+(b) except in accordance with this Act or unless authorised by the Postal Authority, wilfully opens or causes to be opened any letter which ought to have been delivered, or does any act whereby the due delivery of a letter to any person is prevented or impeded,
 
-shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
 
 (2) Nothing in subsection (1)(b) shall apply to a person who does any act to which that subsection applies where he is a parent, or in the position of a parent or guardian, of the person to whom the letter is addressed and the addressee is a minor or his ward.
 
@@ -664,11 +1302,13 @@ shall be guilty of an offenceand shall be liable on conviction to a fine not exc
 
 (a) any indecent or obscene article or any postal article having any words, marks or designs of an indecent, obscene, seditious, scurrilous, threatening or grossly offensive character;
 
-(b) anything which is likely to damage any postal article in the course of transmission by post or any postal equipment or injure any employee or agent of apublic postal licensee; or
+(b) anything which is likely to damage any postal article in the course of transmission by post or any postal equipment or injure any employee or agent of a postal licensee; or
 
-(c) except as otherwise provided by any regulations made under this Act, any explosive, inflammable, dangerous, filthy, noxious or deleterious substance, any sharp instrument not properly protected or any living creature which is noxious or likely to damage any postal article in the course of transmission by post or any postal equipment or to injure any employee or agent of a public postal licensee ,
+(c) except as otherwise provided by any regulations made under this Act, any explosive, inflammable, dangerous, filthy, noxious or deleterious substance, any sharp instrument not properly protected or any living creature which is noxious or likely to damage any postal article in the course of transmission by post or any postal equipment or to injure any employee or agent of a postal licensee,
 
-shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
 
 ### Penalty for making any facsimile, imitation or representation of any postage stamp, etc.
 
@@ -684,15 +1324,23 @@ shall be guilty of an offenceand shall be liable on conviction to a fine not exc
 
 any facsimile, imitation or representation of any postage stamp or any document used by a public postal licensee in connection with the remittance or payment of money.
 
-(2) No person shall make, issue or send by post any stamped or embossed envelope, wrapper, card, form or paper in imitation of one issued by a public postal licensee.
+(2) No person shall make, issue or send by post any stamped, franked or embossed envelope, wrapper, card, form or paper in imitation of one issued by a postal licensee.
 
-(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+[34/2007 wef 24/08/2007]
 
-(4) Any stamp, die, plate, instrument or material found in the possession of any person who has contravened or failed to comply with subsection (1) or (2) may be seized by any employee of the public postal licensee and forfeited by a Magistrate’s Court, and shall be dealt with as the Court directs.
+(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
+
+(4) Any stamp, die, plate, instrument or material found in the possession of any person who has contravened or failed to comply with subsection (1) or (2) may be seized by any employee of the Postal Authority and forfeited by a Magistrate’s Court, and shall be dealt with as the Court directs.
+
+[34/2007 wef 24/08/2007]
 
 ### Penalty for erasure of mark denoting used postage stamp
 
-39\. Any person who, with fraudulent intent, erases or removes from a postage stamp any mark put or impressed upon the postage stamp denoting that the same has been used, or sells or uses any such postage stamp for postal purposes shall be guilty of an offenceand shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+39\. Any person who, with fraudulent intent, erases or removes from a postage stamp any mark put or impressed upon the postage stamp denoting that the same has been used, or sells or uses any such postage stamp for postal purposes shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
 
 ## PART VI
 
@@ -730,7 +1378,9 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 ### Directions by Minister
 
-45\.—(1) The Minister may, after consultation with the Postal Authority or a public postal licensee, give to the Postal Authority or that licensee such directions as the Minister thinks fit as to the exercise by the Postal Authority or that licensee of its functions under this Act.
+45\.—(1) The Minister may, after consultation with the Postal Authority or any postal licensee, give to the Postal Authority or that licensee such directions as the Minister thinks fit as to the exercise by the Postal Authority or that licensee of its functions under this Act.
+
+[34/2007 wef 24/08/2007]
 
 (2) Without prejudice to subsection (1), if it appears to the Minister to be requisite or expedient to do so —
 
@@ -744,7 +1394,9 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 (iii) to enable the Government to become a member of an international organisation or a party to an international agreement,
 
-the Minister may, after consultation with the Postal Authority or a public postal licensee, give such directions to the Postal Authority or that licensee as are necessary in the circumstances of the case.
+the Minister may, after consultation with the Postal Authority or any postal licensee, give such directions to the Postal Authority or that licensee as are necessary in the circumstances of the case.
+
+[34/2007 wef 24/08/2007]
 
 (3) Any directions given under subsection (1) or (2) may include —
 
@@ -752,11 +1404,13 @@ the Minister may, after consultation with the Postal Authority or a public posta
 
 (b) provisions for the postal article to be delivered to any officer mentioned in the direction to be dealt with in such manner as the Minister may direct.
 
-(4) The Postal Authority and any public postal licensee shall give effect to any directions given to it under subsection (1) or (2) notwithstanding any other duty imposed on the Postal Authority or that licensee by or under this Act.
+(4) The Postal Authority and any postal licensee shall give effect to any directions given to it under subsection (1) or (2) notwithstanding any other duty imposed on the Postal Authority or that licensee by or under this Act.
 
-(5) The Postal Authority and any public postal licensee shall not disclose any directions given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
+(5) The Postal Authority and any postal licensee shall not disclose any directions given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
 
-(6) The Minister may make grants to public postal licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any provision of this section.
+(6) The Minister may make grants to postal licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any provision of this section.
+
+[34/2007 wef 24/08/2007]
 
 (7) Any sums required by the Minister for making grants under subsection (6) shall be paid out of the Consolidated Fund.
 
@@ -790,6 +1444,14 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 (5) The rights conferred by this section shall, in relation to information recorded otherwise than in legible form, include the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.
 
+(5A) The power under this section to require a person to produce a document includes the power —
+
+(a) if the document is produced, to require such person, or any person who is a present or past officer of his or is or was at any time employed by him, to provide an explanation of the document; or
+
+(b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
+
+[34/2007 wef 24/08/2007]
+
 (6) Any person who —
 
 (a) fails to comply with any requirement specified in any order under subsection (1);
@@ -800,7 +1462,21 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
+(6A) If a person is charged with an offence under subsection (6) in respect of a requirement to produce any document or information under subsection (1), it shall be a defence for him to prove that —
+
+(a) the document was not in his possession or under his control;
+
+(b) it was not reasonably practicable for him to comply with the requirement; or
+
+(c) he had a reasonable excuse for failing to provide the information required.
+
+[34/2007 wef 24/08/2007]
+
 (7) No person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
+
+(8) In this section, “document” includes any electronic record within the meaning of the Electronic Transactions Act (Cap. 88).
+
+[34/2007 wef 24/08/2007]
 
 ### Powers of arrest and search in respect of seizable offences
 
@@ -814,7 +1490,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 (2) Every person so arrested shall, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.
 
-(3) For the purposes of this section, offences punishable under sections 28, 31, 34(a), (b), (c) and (d) and 35 to 39 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
+(3) For the purposes of this section, offences punishable under sections 28, 31, 34(1) and 35 to 39 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[34/2007 wef 24/08/2007]
 
 ### Powers of search and arrest in respect of offences under section 33
 
@@ -826,17 +1504,45 @@ and may search any person so arrested, except that no female shall be searched e
 
 (2) Every person so arrested shall, together with any such article, be taken to a police station.
 
+(3) In this section, “document” has the same meaning as in section 46(8).
+
+[34/2007 wef 24/08/2007]
+
+### Disposal of letters relating to offence under section 33
+
+48A\. Where any letters connected with an offence under section 33 are seized under section 48 or any other written law, the Postal Authority may at any time, whether upon the conclusion of its investigation or otherwise, take such action as it deems appropriate to deliver any such letter to its intended addressee or return it to its sender.
+
+[34/2007 wef 24/08/2007]
+
 ### Obstruction of police officer or officer of Postal Authority
 
 49\. Any person who intentionally obstructs a police officer or any officer of the Postal Authority authorised to act for the Postal Authority in the execution of his duty under section 48 shall be guilty of an offence.
 
 ### No costs or damages or other relief arising from seizure to be recoverable unless seizure without reasonable or probable cause
 
-50\. No person shall, in any proceedings before any court in respect of any equipment, article, book or document seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the equipment, article, book or document or the payment of their value unless the seizure was made without reasonable or probable cause.
+50\.—(1) No person shall, in any proceedings before any court in respect of any equipment, article, book or document seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the equipment, article, book or document or the payment of their value unless the seizure was made without reasonable or probable cause.
+
+[34/2007 wef 24/08/2007]
+
+(2) In this section, “document” has the same meaning as in section 46(8).
+
+[34/2007 wef 24/08/2007]
 
 ### Composition of offences
 
-51\.—(1) Any police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister, or any officer or employee of the Postal Authority specially authorised by name in that behalf by the Postal Authority may, in his discretion, compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+51\.—(1) An officer or employee of the Postal Authority specially authorised by name in that behalf by the Postal Authority may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) $5,000; or
+
+(b) half the maximum fine prescribed for that offence,
+
+whichever is the lower.
+
+[34/2007 wef 24/08/2007]
+
+(1A) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+[34/2007 wef 24/08/2007]
 
 (2) The Postal Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
@@ -844,7 +1550,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### General penalties
 
-52\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both .
+52\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[34/2007 wef 24/08/2007]
 
 ### Saving of prosecutions under other written laws
 
@@ -870,19 +1578,39 @@ GENERAL PROVISIONS
 
 ### Appeal to Minister
 
-56\.—(1) Any postal licensee aggrieved by —
+56\.—(1) Any postal licensee who is aggrieved by —
 
 (a) any decision of the Postal Authority in the exercise of any discretion vested in the Postal Authority by or under this Act; or
 
-(b) anything contained in any code of practice or standard of performance or any direction of the Authority given under section 25,
+(b) anything contained in any code of practice or standard of performance under section 24 or 26C, or any direction of the Postal Authority given under section 25, 26D or 26F(2),
 
-may appeal to the Minister in the prescribed manner.
+may, within 14 days after being notified of the decision or direction or the issue or approval of the code of practice or standard of performance, as the case may be, (or such longer period as the Minister allows in exceptional circumstances, whether before or after the end of the 14 days), appeal to the Minister in the prescribed manner.
 
-(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until the determination of the appeal.
+(2) Any person (other than a postal licensee) who is aggrieved by any decision or direction of the Postal Authority given by or under section 6(1), 9(1), 26B or 26D, may, within 14 days after being notified of the decision or direction (or such longer period as the Minister allows in exceptional circumstances, whether before or after the end of the 14 days), appeal to the Minister in the prescribed manner.
 
-(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Postal Authority or by amending any code of practice or standard of performance.
+(3) Any person who makes an appeal to the Minister under subsection (1) or (2) shall, within the period specified therein —
 
-(4) The decision of the Minister in any appeal shall be final.
+(a) state as concisely as possible the circumstances under which the appeal arises, the issues and grounds for the appeal; and
+
+(b) submit to the Minister all relevant facts, evidence and arguments for or against the appeal, as the case may be.
+
+(4) Where an appeal has been made to the Minister under subsection (1) or (2), the Minister may require —
+
+(a) any party to the appeal; and
+
+(b) any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the matters mentioned in that subsection,
+
+to provide the Minister with all such information as he may require for the purpose of considering the appeal and making a determination for resolving it, and any person so required to provide such information must provide it in such manner and within such period as may be specified by the Minister.
+
+(5) The Minister may reject any appeal of an appellant who fails to comply with subsection (3) or (4).
+
+(6) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until the determination of the appeal.
+
+(7) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Postal Authority or by amending any code of practice or standard of performance.
+
+(8) The decision of the Minister in any appeal shall be final.
+
+[34/2007 wef 24/08/2007]
 
 ### Exclusion of liability of public postal licensees
 
@@ -944,7 +1672,9 @@ which is due to the act or default of another person, or an accident or some oth
 
 (c) the supply, sale and use of postage stamps;
 
-(d) the manufacture, sale or supply of franking machines;
+(d) the import, manufacture, sale, supply and use of franking machines;
+
+[34/2007 wef 24/08/2007]
 
 (e) the limit of amount of money that may be remitted through a public postal licensee and the manner and conditions under which such money may be remitted;
 
@@ -952,15 +1682,57 @@ which is due to the act or default of another person, or an accident or some oth
 
 (g) the types of articles not to be treated as letters;
 
-(h) the manner of receiving, delivering, collecting and distributing mail bags and postal articles;
+(h) the manner of receiving, delivering, collecting and distributing mail bags and postal articles, including facilitating access for postal licensees to letter boxes;
 
 (i) the conditions and restrictions for the payment of indemnity for the loss of or damage to postal articles where indemnity is payable under this Act;
 
-(j) the registration of postal articles and the cases where insurance of postal articles may be required.
+(j) the registration of postal articles and the cases where insurance of postal articles may be required;
+
+(k) the fees and charges to be paid in respect of any matter or anything done, or any services rendered, by the Postal Authority under or by virtue of this Act, including a code of practice or standard of performance;
+
+[34/2007 wef 24/08/2007]
+
+(l) the waiver or refund, in whole or in part, by authorised officers of the Postal Authority of any such fees in the circumstances of any particular case;
+
+[34/2007 wef 24/08/2007]
+
+(m) the interest (such interest, if unpaid, to constitute a debt due to the Postal Authority and be recoverable as such) to be paid for late payment of any fees or charges prescribed under this Act.
+
+[34/2007 wef 24/08/2007]
 
 ### Savings and transitional provisions
 
 62\. Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the TAS under the repealed Act in relation to postal matters shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Postal Authority under the corresponding provisions of this Act.
+
+## THE SCHEDULE
+
+Section 3B
+
+Powers of Postal Authority
+
+1\. To grant licences for postal services and purposes connected therewith under this Act and to supervise and enforce compliance with the provisions of such licences.
+
+2\. To give directions to any person granted a licence under this Act.
+
+3\. To levy such charges and fees for the granting of such licences and other services provided by the Postal Authority as may in its opinion be appropriate.
+
+4\. To regulate rates, charges and fees levied by operators of postal systems and postal services.
+
+5\. To issue or approve standards of performance, codes of practice and advisory guidelines relating to postal systems and postal services, or any other matter related to the functions of the Postal Authority.
+
+6\. To regulate the interconnection of and access to systems of operators of postal systems and postal services.
+
+7\. To regulate the sharing of installation or plant used for postal services between postal licensees.
+
+8\. To control and regulate the management and allocation of numbering plans and schemes for postal systems and postal services.
+
+9\. To issue postage stamps and to control and regulate the provision of stamps by postal licensees.
+
+10\. To levy such rates, charges and fees and to decide such rates or apportionment thereof as between itself and other foreign postal administrations as may in its opinion be appropriate.
+
+11. To engage in conjunction with other statutory bodies or other foreign postal administrations and international agencies or organisations for the purposes of promoting postal systems and postal services.
+
+[34/2007 wef 24/08/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -984,6 +1756,11 @@ This Legislative History is provided for the convenience of users of the Postal 
 |||(Bill No. 6/2003 published on 4 April 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|4.|**Act 34 of 2007—Postal Services (Amendment) Act 2007**|
+||Date of First Reading|21 May 2007|
+|||(Bill No. 22/2007 published on 24 August 2007)|
+||Date of Second and Third Readings|16 July 2007|
+||Date of commencement|24 August 2007|
 ## COMPARATIVE TABLE
 
 Postal Services Act
