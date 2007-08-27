@@ -1036,6 +1036,8 @@
 
 - [341 Regulations](#Regulations)
 
+- [342 Regulations to apply Act to persons and matters previously regulated under Commodity Trading Act](#Regulations-to-apply-Act-to-persons-and-matters-previously-regulated-under-Commodity-Trading-Act)
+
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Regulated Activities**](#SECOND-SCHEDULE-Regulated-Activities)
@@ -16666,6 +16668,14 @@ the act shall be treated as being carried out by that person in Singapore.
 
 [16/2003]
 
+### Regulations to apply Act to persons and matters previously regulated under Commodity Trading Act
+
+342\.—(1) The Authority may by regulations prescribe such provisions as it may consider necessary or expedient for the purpose of applying this Act in relation to commodity futures contracts, trading in futures contracts, commodity futures brokers, commodity futures broker’s representatives, Commodity Futures Exchanges, commodity futures markets, commodity futures pool operators and commodity futures pool operator’s representatives; and for this purpose this Act shall apply with such modifications as may be prescribed.
+
+(2) In subsection (1), “commodity futures contract”, “trading in futures contract”, “commodity futures broker”, “commodity futures broker’s representative”, “Commodity Futures Exchange”, “commodity futures market”, “commodity futures pool operator” and “commodity futures pool operator’s representative” have the meanings given to those expressions in the Commodity Trading Act (Cap. 48A) in force immediately before the commencement of this provision.
+
+[35/2007 wef 27/08/2007]
+
 FIRST SCHEDULE
 
 Section 2
@@ -17172,6 +17182,12 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
+|15.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 23/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|17 July 2007|
+||Date of commencement|27 August 2007|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
