@@ -256,6 +256,8 @@
 
 - [104 Regulations](#Regulations)
 
+- [104A Regulations to apply Act to persons previously regulated under Commodity Trading Act](#Regulations-to-apply-Act-to-persons-previously-regulated-under-Commodity-Trading-Act)
+
 - [105 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
 [**FIRST SCHEDULE Excluded Financial Advisers**](#FIRST-SCHEDULE-Excluded-Financial-Advisers)
@@ -1798,11 +1800,11 @@ Audit
 
 [SF Bill, Clause 106]
 
-### Lodgment of annual accounts, etc., by licensed fiinancial adviser
+### Lodgment of annual accounts, etc., by licensed financial adviser
 
 48\.—(1) A licensed financial adviser shall, in respect of each financial year —
 
-(a) prepare a true and fair profit and loss account and a balance- sheet made up to the last day of the financial year; and
+(a) prepare a true and fair profit and loss account and a balance-sheet made up to the last day of the financial year; and
 
 (b) lodge that account and balance-sheet with the Authority within 5 months, or such extension thereof permitted by the Authority under subsection (2), after the end of the financial year, together with a report in the prescribed form of an auditor appointed under section 47 on the account and balance-sheet and such other statements lodged under section 45(1).
 
@@ -2012,7 +2014,7 @@ unless it has obtained the approval of the Authority.
 
 (b) principally responsible for the management and conduct of any type of business of the financial adviser in Singapore.
 
-[SF Bill, Clause 96]
+[SF Bill,Clause96]
 
 ### Removal of officer of licensed financial adviser
 
@@ -3068,7 +3070,7 @@ Immunity of Authority and its employees, etc.
 
 (b) the activities of, and standards to be maintained by, a licensee, or an exempt financial adviser or any of its representatives, including the manner, method and place of soliciting business and the conduct of such solicitation;
 
-(c) [Deleted byAct 15 of 2003]
+(c) [Deleted by Act 15 of 2003]
 
 (d) the particulars to be recorded in, or in respect of, books kept by any licensed financial adviser;
 
@@ -3090,7 +3092,7 @@ Immunity of Authority and its employees, etc.
 
 (l) the control of any take-over of a licensed financial adviser;
 
-(m) [Deleted byAct 15 of 2003]
+(m) [Deleted by Act 15 of 2003]
 
 (n) all matters and things which are required or permitted to be prescribed by this Act, or which may be necessary or expedient to be prescribed to give effect to this Act.
 
@@ -3107,6 +3109,14 @@ Immunity of Authority and its employees, etc.
 (c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
 [15/2003]
+
+### Regulations to apply Act to persons previously regulated under Commodity Trading Act
+
+104A\.—(1) The Authority may by regulations prescribe such provisions as it may consider necessary or expedient for the purpose of applying this Act in relation to commodity futures trading advisers and commodity futures trading adviser’s representatives; and for this purpose this Act shall apply with such modifications as may be prescribed.
+
+(2) In subsection (1), “commodity futures trading adviser” and “commodity futures trading adviser’s representative” have the meanings given to those expressions in the Commodity Trading Act (Cap. 48A) in force immediately before the commencement of this provision.
+
+[35/2007 wef 27/08/2007]
 
 ### Transitional and savings provisions
 
@@ -3331,6 +3341,12 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of commencement|1 March 2007 (except sections 6, 8 and 11)|
 |10.|**2007 Revised Edition—Financial Advisers Act**|
 ||Date of operation|31 March 2007|
+|11.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 23/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|17 July 2007|
+||Date of commencement|27 August 2007 (sections 26(b) and 28(c))|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
