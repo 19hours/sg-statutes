@@ -384,9 +384,11 @@ Sections 4, 6, 7 and 13
 
 Research and Statistics Units
 
-1. Economics Research Section of the Building and Construction Authority.
+1. Economic Research Department of the Building and Construction Authority.
 
-[S 393/2006 wef 30/06/2006]
+[S 451/2007 wef 28/08/2007]
+
+[S 151/2010 wef 12/03/2010]
 
 2\. Research and Statistics Unit of the Economic Development Board.
 
@@ -398,9 +400,11 @@ Research and Statistics Units
 
 [S 393/2006 wef 30/06/2006]
 
-5. Health Information Management of the Ministry of Health.
+5. Health Information Operations of the Ministry of Health.
 
-[S 536/2002 wef 04/10/2002]
+[S 451/2007 wef 28/08/2007]
+
+[S 151/2010 wef 12/03/2010]
 
 6\. Manpower Research and Statistics Department of the Ministry of Manpower.
 
@@ -526,6 +530,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|1 July 2004|
 |16.|**G.N. No. S 393/2006—Statistics Act (Amendment of Second Schedule) Notification 2006**|
 ||Date of commencement|30 June 2006|
+|17.|**G.N. No. S 451/2007—Statistics Act (Amendment of Second Schedule) Notification 2007**|
+||Date of commencement|28 August 2007|
 ## COMPARATIVE TABLE
 
 Statistics Act
