@@ -74,7 +74,9 @@
 
 - [13B Exemption of certain dividends](#Exemption-of-certain-dividends)
 
-- [13C Exemption of income of non-resident arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-non-resident-arising-from-funds-managed-by-fund-manager-in-Singapore)
+- [13C Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-trustee-of-trust-fund-arising-from-funds-managed-by-fund-manager-in-Singapore)
+
+- [13CA Exemption of income of non-resident arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-non-resident-arising-from-funds-managed-by-fund-manager-in-Singapore)
 
 - [13D Exemption of certain dividends of approved investment company](#Exemption-of-certain-dividends-of-approved-investment-company)
 
@@ -733,12 +735,6 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 ## PART II
 
 ADMINISTRATION
-
-### Appointment of Comptroller and other officers
-
-3\.—(1) For the due administration of this Act, the Minister may, by notification in theGazette, appoint a Comptroller of Income Tax, and such Deputy Comptrollers, Assistant Comptrollers and other officers and persons as may be necessary.
-
-(2) The Minister may, by notification in theGazette, appoint a Senior Investigation Officer, Income Tax, and may by such or a subsequent notification authorise such officer to exercise all or such of the powers of the Comptroller under this Act as may be specified in such notification but without prejudice to the exercise by the Comptroller of such powers.
 
 ### Powers of Comptroller
 
@@ -2943,11 +2939,141 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 
 [28/92]
 
+### Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore
+
+13C\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of the trustee of any prescribed trust fund arising from funds managed in Singapore by any prescribed fund manager.
+
+(2) The Minister may by regulations make such transitional and savings provisions as he may consider necessary or expedient in relation to the repeal of section 13C in force immediately before 1st September 2007.
+
+[53/2007 wef 01/09/2007]
+
 ### Exemption of income of non-resident arising from funds managed by fund manager in Singapore
 
-13C\. There shall be exempt from tax such income as the Minister may by regulations prescribe of a person not resident in Singapore arising from funds managed by such fund manager in Singapore as may be prescribed.
+13CA\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of any prescribed person arising from funds managed in Singapore by any prescribed fund manager.
 
-[37/2002]
+(2) Where —
+
+(a) income of any prescribed person, being a company, has been exempt from tax under subsection (1) in any year of assessment; and
+
+(b) a person (referred to in this section as the relevant owner), either alone or together with his associates, beneficially owns on the relevant day issued securities of the prescribed person the value of which is more than the prescribed percentage of the total value of all issued securities of the prescribed person on the relevant day,
+
+then the relevant owner shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
+
+where A
+
+is the percentage which the value of the issued securities of the prescribed person beneficially owned on the relevant day by the relevant owner bears to the total value of all issued securities of the prescribed person on the relevant day;
+
+B
+
+is the amount of income of the prescribed person as reflected in the audited account of the prescribed person for the basis period relating to that year of assessment; and
+
+C
+
+is the tax rate specified in section 43(1)(a) applicable to that year of assessment.
+
+(3) Subsection (2) shall not apply to a relevant owner if —
+
+(a) the Comptroller permits the relevant owner to take steps to reduce the ownership of the issued securities by him or his associates within such period as the Comptroller may specify, being a period of no more than one month from the relevant day; and
+
+(b) by the end of the specified period, the value of the issued securities beneficially owned by the relevant owner together with his associates is no more than the prescribed percentage of the total value of all issued securities of the prescribed person on the relevant day.
+
+(4) Where —
+
+(a) income of any prescribed person, being the trustee of a trust fund, has been exempt from tax under subsection (1) in any year of assessment; and
+
+(b) a person (referred to in this section as the relevant beneficiary), either alone or together with his associates, beneficially owns on the relevant day any part of the trust fund the value of which is more than the prescribed percentage of the total value of the trust fund on the relevant day,
+
+then the relevant beneficiary shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
+
+where A
+
+is the percentage which the value of the part of the trust fund beneficially owned on the relevant day by the relevant beneficiary bears to the total value of the trust fund on the relevant day;
+
+B
+
+is the amount of income of the prescribed person as reflected in the audited account of the prescribed person for the basis period relating to that year of assessment; and
+
+C
+
+is the tax rate specified in section 43(1)(c) applicable to that year of assessment.
+
+(5) Subsection (4) shall not apply to a relevant beneficiary if —
+
+(a) the Comptroller permits the relevant beneficiary to take steps to reduce the ownership of the trust fund by him or his associates within such period as the Comptroller may specify, being a period of no more than one month from the relevant day; and
+
+(b) by the end of the specified period, the value of the part of the trust fund beneficially owned by the relevant beneficiary together with his associates is no more than the prescribed percentage of the total value of the trust fund on the relevant day.
+
+(6) In a case where subsection (2) or (4) applies but the relevant owner or relevant beneficiary is a non-bona fide entity, then he shall not be liable to pay the penalty referred to in that subsection; but a person who —
+
+(a) beneficially owns on the relevant day equity interests of the relevant owner or relevant beneficiary where the percentage which the value of those equity interests bears to the total value of all equity interests of the relevant owner or relevant beneficiary on the relevant day is at least 25%; and
+
+(b) is not himself a non-bona fide entity,
+
+shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
+
+where A
+
+is the percentage referred to in paragraph (a); and
+
+B
+
+is the amount of penalty which the relevant owner or relevant beneficiary would (but for this subsection) have been liable to pay under subsection (2) or (4).
+
+(7) For the purposes of subsection (6), if —
+
+(a) a person beneficially owns (including by virtue of one or more applications of this subsection) equity interests of a person (referred to in this subsection as a first level entity); and
+
+(b) the first level entity beneficially owns equity interests of another person (referred to in this subsection as a second level entity),
+
+then the first-mentioned person is taken to beneficially own equity interests of the second level entity; and the percentage which the value of those equity interests bears to the total value of all equity interests of the second level entity shall be computed in accordance with the following formula:
+
+[27/2009 wef 29/12/2009]
+
+where A
+
+is the percentage which the value of equity interests of the first level entity beneficially owned by the first-mentioned person bears to the total value of all equity interests of the first level entity; and
+
+B
+
+is the percentage which the value of equity interests of the second level entity beneficially owned by the first level entity bears to the total value of all equity interests of the second level entity.
+
+(8) Regulations made under this section may ––
+
+(a) provide for the determination of the amount of income of any prescribed person to be exempt from tax;
+
+(b) provide for the circumstances under which a person would be considered to be an associate for the purposes of this section;
+
+(c) exempt any person or class of persons from subsection (2), (4) or (6); and
+
+(d) make provision generally for giving full effect to or for carrying out the purposes of this section.
+
+(9) In this section —
+
+“equity interest” means —
+
+(a) in relation to a company, any issued security of that company; or
+
+(b) in relation to a person other than a company, such right or interest as may be prescribed;
+
+“non-bona fide entity” means a person not resident in Singapore (excluding a permanent establishment in Singapore) who —
+
+(a) is set up solely for the purpose of avoiding or reducing payment of tax or penalty under this Act; or
+
+(b) does not carry out any substantial business activity for a genuine commercial reason;
+
+“relevant day” means the last day of the basis period of the prescribed person relating to the year of assessment referred to in subsection (2) or (4);
+
+“securities”, in relation to a company, means —
+
+(a) debentures of, or shares or stocks in, the company;
+
+(b) any right, option or derivative in respect of such debentures, shares or stocks; or
+
+(c) such other securities of the company as may be prescribed;
+
+“value”, in relation to issued securities of a company, means the value of those securities at the time of their issue by the company.
+
+[53/2007 wef 01/09/2007]
 
 ### Exemption of certain dividends of approved investment company
 
@@ -3355,9 +3481,7 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 “minimum holding period” —
 
-(a) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any stock option scheme,
-
- means the period prescribed by the Singapore Exchange during which no option may be exercised under a stock option scheme implemented by any company listed on that Exchange, which would have been applicable to the stock option granted by the qualifying company or holding company, as the case may be, if it were a company listed on that Exchange;
+(a) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any stock option scheme, means the period prescribed by the Singapore Exchange during which no option may be exercised under a stock option scheme implemented by any company listed on that Exchange, which would have been applicable to the stock option granted by the qualifying company or holding company, as the case may be, if it were a company listed on that Exchange;
 
 (b) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any share acquisition scheme (other than a stock option scheme), means —
 
@@ -3503,7 +3627,7 @@ is the number of employees engaged on contracts not exceeding 2 years (other tha
 
 [21/2003]
 
-(4) For the purposes of the deleted subsection (3)(d), (f) and (g)2in force immediately before 1st April 2003 and subsection (3) (b) and (c), any securities received or acquired on an earlier date shall be deemed to have been disposed of first.
+(4) For the purposes of the deleted subsection (3)(d), (f) and (g)2in force immediately before 1st April 2003 and subsection (3)(b) and (c), any securities received or acquired on an earlier date shall be deemed to have been disposed of first.
 
 2Subsection (3)(d)(e) (f) and (g) was deleted by Act 21 of 2003.
 
@@ -3803,53 +3927,113 @@ as the Minister may by regulations prescribe.
 
 ### Exemption of income of company incorporated and resident in Singapore arising from funds managed by fund manager in Singapore
 
-13R\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of a company incorporated and resident in Singapore and approved by the Minister or such person as he may appoint (referred to in this section as an approved company), arising from funds managed —
+13R\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of a company incorporated and resident in Singapore and approved by the Minister or such person as he may appoint (referred to in this section as an approved company) arising from funds managed —
 
 (a) in Singapore by such fund manager as may be prescribed; or
 
 (b) by such person as may be approved by the Minister or by a person appointed by him, subject to such conditions as the Minister may impose.
 
-(2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved company to be exempted and for the deduction of losses otherwise than in accordance with section 37.
+(2) No approval shall be granted under subsection (1) after 16th February 2011.
 
-(3) No approval shall be granted under subsection (1) after 16th February 2011.
+(3) Where —
 
-(4) The Comptroller shall, for each year of assessment for which the income of an approved company is exempt from tax under subsection (1), issue to the company a statement showing the amount of income exempt from tax, and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(a) income of any approved company has been exempt from tax under subsection (1) in any year of assessment; and
 
-(5) Subject to subsection (6), where any statement issued to an approved company under subsection (4) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
+(b) a person (referred to in this section as the relevant owner), either alone or together with his associates, beneficially owns on the relevant day issued securities of the approved company the value of which is more than the prescribed percentage of the total value of all issued securities of the approved company on the relevant day,
 
-(6) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved company as exempt from tax pending such statement becoming final and conclusive.
+then the relevant owner shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
 
-(7) As soon as any amount of the income of an approved company has been exempted under subsection (1), the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
+where A
 
-(8) Where the account of an approved company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
+is the percentage which the value of the issued securities of the approved company beneficially owned on the relevant day by the relevant owner bears to the total value of all issued securities of the approved company on the relevant day;
 
-(9) So much of the amount of any dividends debited to the account under subsection (8) as is received by a shareholder of an approved company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+B
 
-(10) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the approved company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+is the amount of income of the approved company as reflected in the audited account of the approved company for the basis period relating to that year of assessment; and
 
-(11) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
+C
 
-(12) Where an amount of dividends exempt from tax under this section has been received from an approved company by a shareholder, then, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
+is the tax rate specified in section 43(1)(a) applicable to that year of assessment.
 
-(13) Notwithstanding subsections (9) and (12), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+(4) Subsection (3) shall not apply to a relevant owner if —
 
-(14) An approved company shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+(a) the Comptroller permits the relevant owner to take steps to reduce the ownership of the issued securities by him or his associates within such period as the Comptroller may specify, being a period of no more than one month from the relevant day; and
 
-(15) Notwithstanding anything in this section, where it appears to the Comptroller that —
+(b) by the end of the specified period, the value of the issued securities beneficially owned by the relevant owner together with his associates is no more than the prescribed percentage of the total value of all issued securities of the approved company on the relevant day.
 
-(a) any income of an approved company which has been exempted from tax under subsection (1); or
+(5) In a case where subsection (3) applies but the relevant owner is a non-bona fide entity, then he shall not be liable to pay the penalty referred to in that subsection; but a person who —
 
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
+(a) beneficially owns on the relevant day equity interests of the relevant owner where the percentage which the value of those equity interests bears to the total value of all equity interests of the relevant owner on the relevant day is at least 25%; and
 
-ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment —
+(b) is not himself a non-bona fide entity,
 
-(i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
+shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
 
-(ii) direct the company to debit the account with such amount as the circumstances require.
+where A
 
-(16) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (15) were a notice of assessment.
+is the percentage referred to in paragraph (a); and
 
-[7/2007 wef 17/02/2006]
+B
+
+is the amount of penalty which the relevant owner would (but for this subsection) have been liable to pay under subsection (3).
+
+(6) For the purposes of subsection (5), if —
+
+(a) a person beneficially owns (including by virtue of one or more applications of this subsection) equity interests of a person (referred to in this subsection as a first level entity); and
+
+(b) the first level entity beneficially owns equity interests of another person (referred to in this subsection as a second level entity),
+
+then the first-mentioned person is taken to beneficially own equity interests of the second level entity; and the percentage which the value of those equity interests bears to the total value of all equity interests of the second level entity shall be computed in accordance with the following formula:
+
+[27/2009 wef 29/12/2009]
+
+where A
+
+is the percentage which the value of equity interests of the first level entity beneficially owned by the first-mentioned person bears to the total value of all equity interests of the first level entity; and
+
+B
+
+is the percentage which the value of equity interests of the second level entity beneficially owned by the first level entity bears to the total value of all equity interests of the second level entity.
+
+(7) Regulations made under this section may ––
+
+(a) provide for the determination of the amount of income of any approved company to be exempt from tax;
+
+(b) provide for the circumstances under which a person would be considered to be an associate for the purposes of this section;
+
+(c) exempt any person or class of persons from subsection (3) or (5); and
+
+(d) make provision generally for giving full effect to or for carrying out the purposes of this section.
+
+(8) In this section ––
+
+“equity interest” means —
+
+(a) in relation to a company, any issued security of that company; or
+
+(b) in relation to a person other than a company, such right or interest as may be prescribed;
+
+“non-bona fide entity” means a person not resident in Singapore (excluding a permanent establishment in Singapore) who —
+
+(a) is set up solely for the purpose of avoiding or reducing payment of tax or penalty under this Act; or
+
+(b) does not carry out any substantial business activity for a genuine commercial reason;
+
+“relevant day” means the last day of the basis period of the approved company relating to the year of assessment referred to in subsection (3);
+
+“securities”, in relation to a company, means —
+
+(a) debentures of, or shares or stocks in, the company;
+
+(b) any right, option or derivative in respect of such debentures, shares or stocks; or
+
+(c) such other securities of the company as may be prescribed;
+
+“value”, in relation to issued securities of a company, means the value of those securities at the time of their issue by the company.
+
+(9) The Minister may by regulations make such transitional and savings provisions as he may consider necessary or expedient in relation to the repeal of section 13R in force immediately before 1st September 2007.
+
+[53/2007 wef 01/09/2007]
 
 ### Exemption of income of shipping investment enterprise
 
@@ -5417,7 +5601,7 @@ then an allowance or charge, to be known as a “balancing allowance” or a “
 
 (g) by a research and development organisation in carrying out research and development activities for any manufacturing trade or business;
 
-(h) for the purposes of a hotel on the island of Sentosa and approved by the Minister or such person as he may appoint (referred to in this section as a Sentosa hotel);
+(h) for the purposes of a hotel on the island of Sentosa and approved before 1st September 2007 by the Minister or such person as he may appoint (referred to in this section as a Sentosa hotel);
 
 (i) for the purposes of a project for the promotion of the tourist industry (other than a hotel) in Singapore and approved by the Minister or such person as he may appoint subject to such conditions as he may impose; or
 
@@ -11351,7 +11535,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/92; 24/2000]
 
-(2) Any penalty imposed under section 44(19), 45(4), 87(1) or 91(4) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+(2) Any penalty imposed under section 13CA(2), (4) or (6), 13R(3) or (5), 44(19), 45(4), 87(1) or 91(4) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
 
 [2/92; 37/2002; 21/2003]
 
@@ -13202,6 +13386,26 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 July 2007 (Sections 11, 12(b))|
 |222.|**G.N. No. S 400/2007—Revised Edition of the Laws (Income Tax Act) (Rectification) Order 2007**|
 ||Date of commencement|27 July 2007|
+|223.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 September 2007 (Sections 7, 10, 14, 42(o))|
+|224.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 September 2007 (Sections 8, 16)|
+|225.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 September 2007 (Section 5)|
+|226.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 September 2007 (Sections 8, 9, 11, 13(a), (b), (c), 44(a), (b), (c), 53(a), (b), (c))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
