@@ -626,83 +626,37 @@ Scheduled Species
 
 Interpretation of the Appendices
 
-1. Species included in these Appendices are referred to —
+1\. Appendix I includes all species threatened with extinction which are or may be affected by trade. Trade in specimens of these species shall be subject to particularly strict regulation in order not to endanger further their survival and shall only be authorised in exceptional circumstances.
+
+2. Appendix II includes —
+
+(a) all species which may become threatened with extinction unless trade in specimens of such species is subject to strict regulation in order to avoid utilisation incompatible with their survival; and
+
+(b) other species which are subject to regulation in order that trade in specimens of certain species referred to in sub-paragraph (a) may be brought under effective control.
+
+3\. Appendix III includes all species which any contracting State or Party to CITES (also referred to in this Schedule as the Convention) identifies as being subject to regulation within its jurisdiction for the purpose of preventing or restricting exploitation, and as needing the cooperation of other Parties in the control of trade.
+
+4. Species included in these Appendices are referred to —
 
 (a) by the name of the species; or
 
 (b) as being all of the species included in a higher taxon or designated part thereof.
 
-2\. The abbreviation “spp.” is used to denote all species of a higher taxon.
+5\. The abbreviation “spp.” is used to denote all species of a higher taxon.
 
-3\. Other references to taxa higher than species are for the purposes of information or classification only. The common names included after the scientific names of families are for reference only. They are intended to indicate the species within the family concerned that are included in the Appendices. In most cases this is not all of the species within the family.
+6\. Other references to taxa higher than species are for the purposes of information or classification only. The common names included after the scientific names of families are for reference only. They are intended to indicate the species within the family concerned that are included in the Appendices. In most cases this is not all of the species within the family.
 
-4. The following abbreviations are used for plant taxa below the level of species:
+7. The following abbreviations are used for plant taxa below the level of species:
 
 (a) “ssp.” is used to denote subspecies; and
 
 (b) “var(s).” is used to denote variety (varieties).
 
-5\. As none of the species or higher taxa of FLORA included in Appendix I is annotated to the effect that its hybrids shall be treated in accordance with the provisions of Article III of CITES, this means that artificially propagated hybrids produced from one or more of these species or taxa may be traded with a certificate of artificial propagation, and that seeds and pollen (including pollinia), cut flowers, seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers of these hybrids are not subject to the provisions of CITES.
+8\. As none of the species or higher taxa of FLORA included in Appendix I is annotated to the effect that its hybrids shall be treated in accordance with the provisions of Article III of the Convention, this means that artificially propagated hybrids produced from one or more of these species or taxa may be traded with a certificate of artificial propagation, and that seeds and pollen (including pollinia), cut flowers, seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers of these hybrids are not subject to the provisions of the Convention.
 
-6\. The names of the countries in parentheses placed against the names of species in Appendix III are those of the parties to CITES submitting these species for inclusion in this Appendix.
+9\. The names of the countries in parentheses placed against the names of species in Appendix III are those of the Parties submitting these species for inclusion in this Appendix.
 
-7. In accordance with Article I, paragraph (b), sub-paragraph (iii), of CITES, the symbol (#) followed by a number placed against the name of a species or higher taxon included in Appendix II or III designates parts or derivatives which are specified in relation thereto for the purposes of CITES as follows:
-
-1 Designates all parts and derivatives, except:
-
-(a) seeds, spores and pollen (including pollinia);
-
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers; and
-
-(c) cut flowers of artificially propagated plants;
-
-2 Designates all parts and derivatives, except:
-
-(a) seeds and pollen;
-
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
-
-(c) cut flowers of artificially propagated plants; and
-
-(d) chemical derivatives and finished pharmaceutical products;
-
-3 Designates whole and sliced roots and parts of roots, excluding manufactured parts or derivatives such as powders, pills, extracts, tonics, teas and confectionery;
-
-4 Designates all parts and derivatives, except:
-
-(a) seeds, except those from Mexican cacti originating in Mexico, and pollen;
-
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
-
-(c) cut flowers of artificially propagated plants;
-
-(d) fruits and parts and derivatives thereof of naturalised or artificially propagated plants; and
-
-(e) separate stem joints (pads) and parts and derivatives thereof of naturalised or artificially propagated plants of the genusOpuntiasubgenusOpuntia;
-
-5 Designates logs, sawn wood and veneer sheets;
-
-6 Designates logs, sawn wood, veneer sheets and plywood;
-
-7 Designates logs, wood-chips and unprocessed broken material;
-
-8 Designates all parts and derivatives, except:
-
-(a) seeds and pollen (including pollinia);
-
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
-
-(c) cut flowers of artificially propagated plants; and
-
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla;
-
-9 Designates all parts and derivatives except those bearing a label “Produced fromHoodiaspp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx”; and
-
-10 Designates all parts and derivatives except:
-
-(a) seeds and pollen; and
-
-(b) finished pharmaceutical products.
+10. When a species is included in one of the Appendices, all parts and derivatives of the species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol # followed by a number placed against the name of a species or higher taxon included in Appendix II or III refers to a footnote that indicates the parts or derivatives of plants that are designated as “specimens” subject to the provisions of the Convention in accordance with Article I, paragraph (b), sub-paragraph (iii).
 
 Appendices 
 
@@ -712,419 +666,275 @@ II
 
 III 
 
-F A U N A (ANIMALS) P H Y L U M C H O R D A T A CLASS MAMMALIA (MAMMALS) 
+F A U N A (ANIMALS) 
 
-MONOTREMATA
+P H Y L U M C H O R D A T A 
 
-Tachyglossidae Echidnas, spiny anteaters
+CLASS MAMMALIA 
 
-Zaglossus spp.
+(MAMMALS) 
 
-DASYUROMORPHIA
+ARTIODACTYLA
 
-Dasyuridae Dunnarts
+Antilocapridae Pronghorn
 
-Sminthopsis longicaudata
+Antilocapra americana (Only the population of Mexico; no other population is included in the Appendices)
 
-Sminthopsis psammophila
+Bovidae Antelopes, cattle, duikers, gazelles, goats, sheep, etc.
 
-Thylacinidae Tasmanian wolf, thylacine
+Addax nasomaculatus 
 
-Thylacinus cynocephalus
+Ammotragus lervia 
 
-(possibly extinct)
+Antilope cervicapra (Nepal) 
 
-PERAMELEMORPHIA
+Bison bison athabascae
 
-Peramelidae Bandicoots
+Bos gaurus (Excludes the domesticated form, which is referenced as Bos frontalis, and is not subject to the provisions of the Convention)
 
-Chaeropus ecaudatus
+Bos mutus (Excludes the domesticated form, which is referenced as Bos grunniens, and is not subject to the provisions of the Convention)
 
-(possibly extinct)
+Bos sauveli 
 
-Macrotis lagotis
+Bubalus arnee (Nepal) (Excludes the domesticated form, which is referenced as Bubalus bubalis)
 
-Macrotis leucura
+Bubalus depressicornis
 
-Perameles bougainville
+Bubalus mindorensis
 
-DIPROTODONTIA
+Bubalus quarlesi
 
-Phalangeridae Cuscuses
+Budorcas taxicolor
 
-Phalanger orientalis
+Capra falconeri
 
-Spilocuscus maculatus
+Capricornis milneedwardsii
 
-Vombatidae Northern hairy-nosed wombat
+Capricornis rubidus
 
-Lasiorhinus krefftii
+Capricornis sumatraensis
 
-Macropodidae Kangaroos, wallabies
+Capricornis thar
 
-Dendrolagus inustus
+Cephalophus dorsalis
 
-Dendrolagus ursinus
+Cephalophus jentinki
 
-Lagorchestes hirsutus
+Cephalophus brookei
 
-Lagostrophus fasciatus
+Cephalophus ogilbyi
 
-Onychogalea fraenata
+Cephalophus silvicultor
 
-Onychogalea lunata
+Cephalophus zebra
 
-Potoroidae Rat-kangaroos
+Damaliscus pygargus pygargus
 
-Bettongia
+Gazella cuvieri
+
+Gazella dorcas
+
+(Tunisia)
+
+Gazella leptoceros
+
+Hippotragus niger variani
+
+Kobus leche
+
+Naemorhedus baileyi
+
+Naemorhedus caudatus
+
+Naemorhedus goral
+
+Naemorhedus griseus
+
+Nanger dama
+
+Oryx dammah
+
+Oryx leucoryx
+
+Ovis ammon
+
+(Except the subspecies included in Appendix I)
+
+Ovis ammon hodgsonii
+
+Ovis ammon nigrimontana
+
+Ovis canadensis
+
+(Only the population of Mexico; no other population is included in the Appendices)
+
+Ovis orientalis ophion
+
+Ovis vignei
+
+(Except the subspecies included in Appendix I)
+
+Ovis vignei vignei
+
+Pantholops hodgsonii
+
+Philantomba monticola
+
+Pseudoryx nghetinhensis
+
+Rupicapra pyrenaica ornata
+
+Saiga borealis
+
+Saiga tatarica
+
+Tetracerus quadricornis
+
+(Nepal)
+
+CamelidaeGuanaco, vicuna 
+
+Lama glama guanicoe
+
+Vicugna vicugna
+
+(Except the populations of: Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Bolivia [the whole population]; Chile [population of the Primera Región]; and Peru [the whole population]; which are included in Appendix II)
+
+Vicugna vicugna
+
+(Only the populations ofArgentina 1[the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan];Bolivia 2[the whole population];Chile 3[population of the Primera Región];Peru 4[the whole population]; all other populations are included in Appendix I)
+
+Cervidae Deer, guemals, muntjacs, pudus
+
+Axis calamianensis
+
+Axis kuhlii
+
+Axis porcinus annamiticus
+
+Blastocerus dichotomus
+
+Cervus elaphus bactrianus
+
+Cervus elaphus barbarus
+
+(Tunisia)
+
+Cervus elaphus hanglu
+
+Dama dama mesopotamica
+
+Hippocamelus
 
 spp\. 
 
-Caloprymnus campestris
-
-(possibly extinct)
-
-SCANDENTIA
-
-Tupaiidae Tree shrews
-
-Tupaiidae spp\. 
-
-CHIROPTERA
-
-Phyllostomidae Broad-nosed bat
-
-Platyrrhinus lineatus
-
-(Uruguay)
-
-Pteropodidae Fruit bats, flying foxes
-
-Acerodon
-
-spp\. (Except the species included in Appendix I)
-
-Acerodon jubatus
-
-Acerodon lucifer
-
-(possibly extinct)
-
-Pteropus
-
-spp\. (Except the species included in Appendix I)
-
-Pteropus insularis
-
-Pteropus mariannus
-
-Pteropus molossinus
-
-Pteropus phaeocephalus
-
-Pteropus pilosus
-
-Pteropus samoensis
-
-Pteropus tonganus
-
-PRIMATES Apes, monkeys
-
-PRIMATES spp\. (Except the species included in Appendix I)
-
-Lemuridae Large lemurs
-
-Lemuridae spp\. 
-
-Megaladapidae Sportive lemurs
-
-Megaladapidae spp\. (possibly extinct)
-
-Cheirogaleidae Dwarf lemurs
-
-Cheirogaleidae spp\. 
-
-Indridae Avahi, indris, sifakas, woolly lemurs
-
-Indridae spp\. 
-
-Daubentoniidae Aye-aye
-
-Daubentonia madagascariensis
-
-Callitrichidae Marmosets, tamarins
-
-Callimico goeldii
-
-Callithrix aurita
-
-Callithrix flaviceps
-
-Leontopithecus spp.
-
-Saguinus bicolour
-
-Saguinus geoffroyi
-
-Saguinus leucopus
-
-Saguinus oedipus
-
-Cebidae New World monkeys
-
-Alouatta coibensis
-
-Alouatta palliata
-
-Alouatta pigra
-
-Ateles geoffroyi frontatus
-
-Ateles geoffroyi panamensis
-
-Brachyteles arachnoides
-
-Cacajao spp.
-
-Chiropotes albinasus
-
-Lagothrix flavicauda
-
-Saunuru oerstedii
-
-Cercopithecidae Old World monkeys
-
-Cerocebus galeritus galeritus
-
-Ceropithecus diana
-
-Macaca silenus
-
-Mandrillus leucophaeus
-
-Mandrillus sphinx
-
-Nasalis concolor
-
-Nasalis larvatus
-
-Presbytis potenziani
-
-Procolobus pennantii kirkii
-
-Procolobus rufomitratus
-
-Pygathrix spp.
-
-Semnopithecus entellus
-
-Trachypithecus geei
-
-Trachypithecus pileatus
-
-Hylobatidae Gibbons
-
-Hylobatidae spp\. 
-
-Hominidae Chimpanzees, gorilla, orang-utan
-
-Gorilla gorilla
-
-Pan
-
-spp.
-
-Pongo pygmaeus
-
-XENARTHRA
-
-Myrmecophagidae American anteaters
-
-Myrmecophaga tridactyla
-
-Tamandua mexicana
+Mazama temama cerasina
 
 (Guatemala)
 
-Bradypodidae Three-toed sloth
+1
 
-Bradypus variegatus
+Population of Argentina (listed in Appendix II)
 
-Megalonychidae Two-toed sloth
+:
 
-Choloepus hoffmanni
+For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, in cloth, and in derived manufactured products and other handicraft artefacts. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-ARGENTINA”. Other products must bear a label including the logotype and the designation “VICUÑA-ARGENTINAARTESANÍA”.
 
-(Costa Rica)
+All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
 
-Dasypodidae Armadillos
+2
 
-Cabassous centralis
+Population of Bolivia (listed in Appendix II)
 
-(Costa Rica)
+:
 
-Cabassous tatouay
+For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the Convenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-BOLIVIA”. Other products must bear a label including the logotype and the designation “VICUÑA-BOLIVIA-ARTESANÍA”.
 
-(Uruguay)
+All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
 
-Chaetophractus nationi (A zero annual export quota has been established. All specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly)
+3
 
-Priodontes maximus
+Population of Chile (listed in Appendix II)
 
-PHOLIDOTA
+:
 
-Manidae Pangolins
+For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-CHILE”. Other products must bear a label including the logotype and the designation “VICUÑA-CHILEARTESANÍA”.
 
-Manis
+All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
 
-spp\. (A zero annual export quota has been established forManis crassicaudata,M. javanicaandM. pentadactylafor specimens removed from the wild and traded for primarily commercial purposes)
+4
 
-LAGOMORPHA
+Population of Peru (listed in Appendix II)
 
-Leporidae Hispid hare, volcano rabbit
+:
 
-Caproloagus hispidus
+For the exclusive purpose of allowing international trade in wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3249 kg of wool, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-PERÚ”. Other products must bear a label including the logotype and the designation “VICUÑA-PERÚ-ARTESANÍA”.
 
-Romeroagus diazi
+All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
 
-RODENTIA
+Appendices 
 
-Sciuridae Ground squirrels, tree squirrels
+I 
 
-Cynomys mexicanus
+II 
 
-Marmota caudata
+III 
 
-(India)
+Muntiacus crinifrons 
 
-Marmota
+Muntiacus vuquangensis 
 
-himalayana
+Odocoileus virginianus mayensis (Guatemala) 
 
-(India)
+Ozotoceros bezoarticus 
 
-Ratufa
+Pudu mephistophiles 
 
-spp\. 
+Pudu puda 
 
-Sciurus deppei
+Rucervus duvaucelii 
 
-(Costa Rica)
+Rucervus eldii 
 
-Muridae Mice, rats
+HippopotamidaeHippopotamuses 
 
-Leporillus conditor
+Hexaprotodon liberiensis 
 
-Pseudomys praeconis
+Hippopotamus amphibius 
 
-Xeromys myoides
+Moschidae Musk deer
 
-Zyzomys pedunculatus
+Moschus
 
-Erethizontidae New World porcupines
+spp . (Only the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan; all other populations are included in Appendix II)
 
-Sphiggurus mexicanus
+Moschus
 
-(Honduras)
+spp . (Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I)
 
-Sphiggurus spinosus
+Suidae Babirusa, pygmy hog
 
-(Uruguay)
+Babyrousa babyrussa
 
-Agoutidae Paca
+Babyrousa bolabatuensis
 
-Agouti paca
+Babyrousa celebensis
 
-(Honduras)
+Babyrousa togeanensis
 
-Dasyproctidae Agouti
+Sus salvanius
 
-Dasyprocta puntata
+Tayassuidae Peccaries
 
-(Honduras)
+Tayassuidae spp . (Except the species included in Appendix I and the populations ofPecari tajacuof Mexico and the United States of America, which are not included in the Appendices)
 
-Chinchillidae Chinchillas
-
-Chinchilla
-
-spp\. (Specimens of the domesticated form are not subject to the provisions of the Convention)
-
-CETACEA Dolphins, porpoises, whales
-
-CETACEA spp\. (Except the species included in Appendix I. A zero annual export quota has been established for live specimens from the Black Seap population ofTursiops truncatusremoved from the wild and traded for primarily commercial purposes)
-
-Platanistidae River dolphins
-
-Lipotes vexillifer
-
-Platanista spp.
-
-Ziphiidae Beaked whales, bottle-nosed whales
-
-Berardius
-
-spp\. 
-
-Hyperoodon
-
-spp\. 
-
-Physeteridae Sperm whales
-
-Physeter catodon
-
-Delphinidae Dolphins
-
-Orcaella brevirostris
-
-Sotalia
-
-spp\. 
-
-Sousa
-
-spp\. 
-
-Phocoenidae Porpoises
-
-Neophocaena phocaenoides
-
-Phocoena sinus
-
-Eschrichtiidae Grey whale
-
-Eschrichtius robustus
-
-Balaenopteridae Humpback whale, rorquals
-
-Balaenoptera acutorostra
-
-(Except the population of West Greenland, which is included in Appendix II)
-
-Balaenoptera bona bonaerensis
-
-Balaenoptera borealis
-
-Balaenoptera edeni
-
-Balaenoptera musculus
-
-Balaenoptera physalus
-
-Megaptera novaeangeliae
-
-Balaenidae Bowhead whale, right whales
-
-Balaena mysticetus
-
-Eubalaena
-
-spp\. 
-
-Neobalaenidae Pygmy right whales
-
-Caperea marginata
+Catagonus wagneri
 
 CARNIVORA
+
+Ailuridae Red panda
+
+Ailurus fulgens
 
 Canidae Bush dog, foxes, wolves
 
@@ -1146,11 +956,13 @@ Chrysocyon brachyurus
 
 Cuon alpinus
 
-Pseudalopex culpaeus
+Lycalopex culpaeus
 
-Pseudalopex griseus
+Lycalopex fulvipes
 
-Pseudalopex gymnocercus
+Lycalopex griseus
+
+Lycalopex gymnocercus
 
 Speothos venaticus
 
@@ -1174,49 +986,111 @@ Vulpes vulpes pusilla
 
 Vulpes zerda
 
-Ursidae Bears, pandas
+Eupleridae Fossa, falanouc, Malagasy civet
 
-Ursidae spp\. (Except the species included in Appendix I)
+Cryptoprocta ferox
 
-Ailuropoda melanoleuca
+Eupleres goudotii
 
-Ailurus fulgens
+Fossa fossana
 
-Helarctos malayanus
+Felidae Cats
 
-Melursus ursinus
+Felidae spp\. (Except the species included in Appendix I. Specimens of the domesticated form are not subject to the provisions of the Convention)
 
-Tremarctos ornatus
+Acinonyx jubatus
 
-Ursus arctos
+(Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana: 5; Namibia: 150; Zimbabwe: 50. The trade in such specimens is subject to the provisions of Article III of the Convention)
 
-(Only the p opulations of Bhutan, China, Mexico and Mongolia; all other populations are included in Appendix II)
+Caracal caracal
 
-Ursus arctos isabellinus
+(Only the population of Asia; all other populations are included in Appendix II)
 
-Ursus thibetanus
+Catopuma temminckii
 
-Procyonidae Coatis, kinkajou, olingos
+Felis nigripes
 
-Bassaricyon gabbii
+Leopardus geoffroyi
 
-(Costa Rica)
+Leopardus jacobitus
 
-Bassariscus sumichrasti
+Leopardus pardalis
 
-(Costa Rica)
+Leopardus tigrinus
 
-Nasua narica
+Leopardus wiedii
 
-(Honduras)
+Lynx pardinus
 
-Nasua nasua solitaria
+Neofelis nebulosa
 
-(Uruguay)
+Panthera leo persica
 
-Potos flavus
+Panthera onca
 
-(Honduras)
+Panthera pardus
+
+Panthera tigris
+
+Pardofelis marmorata
+
+Prionailurus bengalensis bengalensis
+
+(Only the Populations of Bangladesh, India and Thailand; all other populations are included in Appendix II)
+
+Prionailurus planiceps
+
+Prionailurus rubiginosus
+
+(Only the population of India; all other populations are included in Appendix II)
+
+Puma concolor coryi
+
+Puma concolor costaricensis
+
+Puma concolor couguar
+
+Puma yagouaroundi
+
+Only the populations of Central and North America; all other populations are included in Appendix II)
+
+Uncia uncia
+
+Herpestidae Mongooses
+
+Herpestes edwardsi
+
+(India)
+
+Herpestes fuscus
+
+(India)
+
+Herpestes javanicus
+
+auropunctatus (India)
+
+Herpestes smithii
+
+(India)
+
+Herpestes urva
+
+(India)
+
+Herpestes vitticollis
+
+(India)
+
+Hyaenidae Aardwolf
+
+Proteles cristata
+
+(Botswana)
+
+Mephitidae Hog-nosed skunk
+
+Conepatus humboldtii
 
 Mustelidae Badgers, martens, weasels, etc.
 
@@ -1224,7 +1098,7 @@ Lutrinae Otters
 
 Lutrinae spp\. (Except the species included in Appendix I)
 
-Aonyx congicus
+Aonyx capensis congica
 
 (Only the populations of Cameroon and Nigeria; all other populations are included in Appendix II)
 
@@ -1238,19 +1112,11 @@ Lontra provocax
 
 Lutra lutra
 
+Lutra nippon
+
 Pteronura brasiliensis
 
-Mellivorinae Honey badger
-
-Mellivora capensis
-
-(Botswana,)
-
-Mephitinae Hog-nosed skunk
-
-Conepatus humboldtii
-
-Mustelinae Grisons, martens, tayra, weasels
+Mustelinae Grisons, honey badger, martens, tayra, weasels
 
 Eira barbara
 
@@ -1272,6 +1138,10 @@ Martes gwatkinsii
 
 (India)
 
+Mellivora capensis
+
+(Botswana)
+
 Mustela altaica
 
 (India)
@@ -1290,6 +1160,58 @@ Mustela sibirica
 
 (India)
 
+Odobenidae Walrus
+
+Odobenus rosmarus
+
+(Canada)
+
+Otariidae Fur seals, sealions
+
+Arctocephalus
+
+spp\. (Except the species included in Appendix I)
+
+Arctocephalus townsendi
+
+Phocidae Seals
+
+Mirounga leonina 
+
+Monachus spp\. 
+
+Procyonidae Coatis, kinkajou, olingos
+
+Bassaricyon gabbii (Costa Rica)
+
+Bassariscus sumichrasti (Costa Rica)
+
+Nasua narica (Honduras)
+
+Nasua nasua solitaria (Uruguay)
+
+Potos flavus (Honduras)
+
+Ursidae Bears, giant panda
+
+Ursidae spp\. (Except the species included in Appendix I)
+
+Ailuropoda melanoleuca
+
+Helarctos malayanus
+
+Melursus ursinus
+
+Tremarctos ornatus
+
+Ursus arctos
+
+(Only the populations of Bhutan, China, Mexico and Mongolia; all other populations are included in Appendix II)
+
+Ursus arctos isabellinus
+
+Ursus thibetanus
+
 Viverridae Binturong, civets, falanouc, fossa, linsangs, otter-civet, palm civets
 
 Arctictis binturong
@@ -1300,13 +1222,7 @@ Civettictis civetta
 
 (Botswana)
 
-Cryptoprocta ferox
-
 Cynogale bennettii
-
-Eupleres goudotii
-
-Fossa fossana
 
 Hemigalus derbyanus
 
@@ -1338,123 +1254,435 @@ Viverricula indica
 
 (India)
 
-Herpestidae Mongooses
+CETACEA Dolphins, porpoises, whales
 
-Herpestes brachyurus fuscus
+CETACEA spp\. (Except the species included in Appendix I. A zero annual export quota has been established for live specimens from the Black Sea population ofTursiops truncatusremoved from the wild and traded for primarily commercial purposes)
 
-(India)
+Balaenidae Bowhead whale, right whales
 
-Herpestes edwardsii
+Balaena mysticetus
 
-(India)
+Eubalaena
 
-Herpestes javanicus auropunctatus
+spp\. 
 
-(India)
+Balaenopteridae Humpback whale, rorquals
 
-Herpestes smithii
+Balaenoptera acutorostrata
 
-(India)
+(Except the population of West Greenland, which is included in Appendix II)
 
-Herpestes urva
+Balaenoptera bonaerensis
 
-(India)
+Balaenoptera borealis
 
-Herpestes vitticollis
+Balaenoptera edeni
 
-(India)
+Balaenoptera musculus
 
-Hyaenidae Aardwolf
+Balaenoptera physalus
 
-Proteles cristatus
+Megaptera novaeangliae
 
-(Botswana)
+Delphinidae Dolphins
 
-Felidae Cats
+Orcaella brevirostris
 
-Felidae
+Sotalia
 
-spp\. (Except the species included in Appendix I. Specimens of the domesticated form are not subject to the provisions of the Convention)
+spp\. 
 
-Acinonyx jubatus
+Sousa
 
-(Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana: 5; Namibia: 150; Zimbabwe: 50. The trade in such specimens is subject to the provisions of the Article III of the Convention)
+spp\. 
 
-Caracal caracal
+Eschrichtiidae Grey whale
 
-(Only the population of Asia, all other populations are included in Appendix II)
+Eschrichtius robustus
 
-Catopuma temminckii
+Iniidae River dolphins
 
-Felis nigripes
+Lipotes vexillifer
 
-Herpailurus yaguarondi
+Neobalaenidae Pygmy right whale
 
-(Only the populations of Central and North America; all other populations
+Caperea marginata
 
-Leopardus pardalis
+Phocoenidae Porpoises
 
-Leopardus tigrinus
+Neophocaena phocaenoides
 
-Leopardus wiedii
+Phocoena sinus
 
-Lynx pardinus
+Physeteridae Sperm whales
 
-Neofelis nebulosa
+Physeter catodon
 
-Oncifelis geoffroyi
+Platanistidae River dolphins
 
-Oreailurus jacobita
+Platanista
 
-Panthera leo persica
+spp\. 
 
-Panthera onca
+Ziphiidae Beaked whales, bottle-nosed whales
 
-Panthera pardus
+Berardius
 
-Panthera tigris
+spp\. 
 
-Pardofelis marmorata
+Hyperoodon
 
-Prionailurs bengalensis bengalensis
+spp\. 
 
-(Only the populations of Bangladesh, India and Thailand; all other populations are included in Appendix II)
+CHIROPTERA
 
-Prionailurus planiceps
+Phyllostomidae Broad-nosed bat
 
-Prionailurus rubiginosus
+Platyrrhinus lineatus
 
-(Only the population of India; all other populations are included in Appendix II)
+(Uruguay)
 
-Puma concolor coryi
+Pteropodidae Fruit bats, flying foxes
 
-Puma concolor costaricensis
-
-Puma concolor cougar
-
-Uncia uncia
-
-Otariidae Fur seals, sealions
-
-Arctocephalus
+Acerodon
 
 spp\. (Except the species included in Appendix I)
 
-Arctocephalus townsendi
+Acerodon jubatus
 
-Odobenidae Walrus
+Pteropus spp\. (Except the species included in Appendix I)
 
-Odobenus rosmarus
+Pteropus insularis 
 
-(Canada)
+Pteropus loochoensis 
 
-Phocidae Seals
+Pteropus mariannus 
 
-Mirounga leonina
+Pteropus molossinus 
 
-Monachus
+Pteropus pelewensis 
+
+Pteropus pilosus 
+
+Pteropus samoensis 
+
+Pteropus tonganus 
+
+Pteropus ualanus 
+
+Pteropus yapensis 
+
+CINGULATA
+
+DasypodidaeArmadillos 
+
+Cabassous centralis (Costa Rica)
+
+Cabassous tatouay (Uruguay)
+
+Chaetophractus nationi (A zero annual export quota has been established. All specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly)
+
+Priodontes maximus 
+
+DASYUROMORPHIA
+
+Dasyuridae Dunnarts
+
+Sminthopsis longicaudata 
+
+Sminthopsis psammophila 
+
+Thylacinidae Tasmanian wolf, thylacine
+
+Thylacinus cynocephalus (possibly extinct)
+
+DIPROTODONTIA
+
+Macropodidae Kangaroos, wallabies
+
+Dendrolagus inustus 
+
+Dendrolagus ursinus 
+
+Lagorchestes hirsutus 
+
+Lagostrophus fasciatus 
+
+Onychogalea fraenata 
+
+Onychogalea lunata 
+
+Phalangeridae Cuscuses
+
+Phalanger intercastellanus 
+
+Phalanger mimicus 
+
+Phalanger orientalis 
+
+Spilocuscus kraemeri 
+
+Spilocuscus maculatus 
+
+Spilocuscus papuensis 
+
+Potoroidae Rat-kangaroos
+
+Bettongia spp\. 
+
+Caloprymnus campestris (possibly extinct)
+
+Vombatidae Northern hairy-nosed wombat
+
+Lasiorhinus krefftii 
+
+LAGOMORPHA
+
+Leporidae Hispid hare, volcano rabbit
+
+Caprolagus hispidus
+
+Romerolagus diazi
+
+MONOTREMATA
+
+Tachyglossidae Echidnas, spiny anteaters
+
+Zaglossus
 
 spp\. 
+
+PERAMELEMORPHIA
+
+Peramelidae Bandicoots
+
+Chaeropus ecaudatus
+
+(possibly extinct)
+
+Macrotis lagotis
+
+Macrotis leucura
+
+Perameles bougainville
+
+PERISSODACTYLA
+
+Equidae Horses, wild asses, zebras
+
+Equus africanus
+
+(Excludes the domesticated form, which is referenced asEquus asinus, and is not subject to the provisions of the Convention)
+
+Equus grevyi
+
+Equus hemionus
+
+(Except the subspecies included in Appendix I)
+
+Equus hemionus hemionus
+
+Equus hemionus khur
+
+Equus kiang
+
+Equus przewalskii
+
+Equus zebra hartmannae
+
+Equus zebra zebra
+
+Rhinocerotidae Rhinoceroses
+
+Rhinocerotidae spp\. (Except the subspecies included in Appendix II)
+
+Ceratotherium simum simum
+
+(Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly)
+
+Tapiridae Tapirs
+
+Tapiridae spp\. (Except the species included in Appendix II)
+
+Tapirus terrestris
+
+PHOLIDOTA
+
+Manidae Pangolins
+
+Manis
+
+spp\. (A zero annual export quota has been established forManis crassicaudata,M. culionensis,M. javanicaandM. pentadactylafor specimens removed from the wild and traded for primarily commercial purposes)
+
+PILOSA
+
+Bradypodidae Three-toed sloth
+
+Bradypus variegatus
+
+Megalonychidae Two-toed sloth
+
+Choloepus hoffmanni
+
+(Costa Rica)
+
+Myrmecophagidae American anteaters
+
+Myrmecophaga tridactyla
+
+Tamandua mexicana
+
+(Guatemala)
+
+PRIMATES Apes, monkeys
+
+PRIMATES spp\. (Except the species included in Appendix I)
+
+Atelidae Howler and prehensile-tailed monkeys
+
+Alouatta coibensis
+
+Alouatta palliata
+
+Alouatta pigra
+
+Ateles geoffroyi frontatus
+
+Ateles geoffroyi panamensis
+
+Brachyteles arachnoides
+
+Brachyteles hypoxanthus
+
+Oreonax flavicauda
+
+Cebidae New World monkeys
+
+Callimico goeldii
+
+Callithrix aurita
+
+Callithrix flaviceps
+
+Leontopithecus
+
+spp\. 
+
+Saguinus bicolor
+
+Saguinus geoffroyi
+
+Saguinus leucopus
+
+Saguinus martinsi
+
+Saguinus oedipus
+
+Saimiri oerstedii
+
+Cercopithecidae Old World monkeys
+
+Cercocebus galeritus
+
+Cercopithecus diana
+
+Cercopithecus roloway
+
+Macaca silenus
+
+Mandrillus leucophaeus
+
+Mandrillus sphinx
+
+Nasalis larvatus
+
+Piliocolobus kirkii
+
+Piliocolobus rufomitratus
+
+Presbytis potenziani
+
+Pygathrix
+
+spp\. 
+
+Rhinopithecus
+
+spp\. 
+
+Semnopithecus ajax
+
+Semnopithecus dussumieri
+
+Semnopithecus entellus
+
+Semnopithecus hector
+
+Semnopithecus hypoleucos
+
+Semnopithecus priam
+
+Semnopithecus schistaceus
+
+Simias concolor
+
+Trachypithecus geei
+
+Trachypithecus pileatus
+
+Trachypithecus shortridgei
+
+Cheirogaleidae Dwarf lemurs
+
+Cheirogaleidae spp\. 
+
+Daubentoniidae Aye-aye
+
+Daubentonia madagascariensis
+
+Hominidae Chimpanzees, gorilla, orang-utan
+
+Gorilla beringei
+
+Gorilla gorilla
+
+Pan
+
+spp\. 
+
+Pongo abelii
+
+Pongo pygmaeus
+
+Hylobatidae Gibbons
+
+Hylobatidae spp\. 
+
+Indriidae Avahi, indris, sifakas, woolly lemurs
+
+Indriidae spp\. 
+
+Lemuridae Large lemurs
+
+Lemuridae spp\. 
+
+Lepilemuridae Sportive lemurs
+
+Lepilemuridae spp\. 
+
+Lorisidae Lorises
+
+Nycticebus
+
+spp\. 
+
+Pithecidae Sakis and uakaris
+
+Cacajao
+
+spp\. 
+
+Chiropotes albinasus
 
 PROBOSCIDEA
 
@@ -1468,62 +1696,123 @@ Loxodonta africana
 
 Loxodonta africana
 
-(Only the populations ofBotswana 1,South Africa 1andZimbabwe 2; all other populations are included in Appendix I)
+5(Only the populations ofBotswana ,Namibia ,South Africa andZimbabwe ; all other populations are included in Appendix I)
 
-__________________________________________________ 
+RODENTIA
 
-1
+Cuniculidae Paca
 
-Populations of Botswana, Namibia and South Africa (listed in Appendix II)
+Cuniculus paca
+
+(Honduras)
+
+Chinchillidae Chinchillas
+
+Chinchilla
+
+spp\. (Specimens of the domesticated form are not subject to the provisions of the Convention)
+
+Dasyproctidae Agouti
+
+Dasyprocta punctata
+
+(Honduras)
+
+Erethizontidae New World porcupines
+
+Sphiggurus mexicanus
+
+(Honduras)
+
+Sphiggurus spinosus
+
+(Uruguay)
+
+Muridae Mice, rats
+
+Leporillus conditor
+
+Pseudomys fieldi praeconis
+
+Xeromys myoides
+
+5
+
+Populations of Botswana, Namibia, South Africa and Zimbabwe (listed in Appendix II)
 
 :
 
 For the exclusive purpose of allowing:
 
-1) trade in hunting trophies for non-commercial purposes;
+(a) trade in hunting trophies for non-commercial purposes;
 
-2) trade in live animals for in situ conservation programmes;
+(b) trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and forin situconservation programmes for Namibia and South Africa;
 
-3) trade in hides;
+(c) trade in hides;
 
-4) trade in leather goods: for non-commercial purposes for Botswana; for commercial or non-commercial purposes for Namibia and South Africa;
+(d) trade in hair;
 
-5) trade in hair for commercial or non-commercial purposes for Namibia;
+(e) trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
 
-6) trade in individually marked and certified ekipas incorporated in finished jewellery for noncommercial purposes for Namibia; and
+(f) trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe;
 
-7) trade in registered raw ivory (for Botswana and Namibia, whole tusks and pieces; for South Africa, whole tusks and cut pieces of ivory that are both 20 cm or more in length and 1 kg or more in weight) subject to the following:
+(g) trade in registered raw ivory (for Botswana, Namibia, South Africa and Zimbabwe, whole tusks and pieces) subject to the following:
 
-i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin) and, in the case of South Africa, only ivory originating from the Kruger National Park);
+(i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin);
 
-ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP12) concerning domestic manufacturing and trade;
+(ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;
 
-iii) not before the Secretariat has verified the prospective importing countries, and the MIKE programme has reported to the Secretariat on the baseline information (e.g. elephant population numbers, incidence of illegal killing);
+(iii) not before the Secretariat has verified the prospective importing countries and the registered government-owned stocks;
 
-iv) a maximum of 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa) of ivory may be traded, and despatched in a single shipment under strict supervision of the Secretariat;
+(iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa);
 
-v) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
+(v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in paragraph g) iv) above, in a single sale per destination under strict supervision of the Secretariat;
 
-vi) only after the Standing Committee has agreed that the above conditions have been met.
+(vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
+
+(vii) the additional quantities specified in paragraph g) v) above shall be traded only after the Standing Committee has agreed that the above conditions have been met; and
+
+(h) no further proposals to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs g) i), g) ii), g) iii), g) vi) and g) vii). In addition such further proposals shall be dealt with in accordance with Decisions 14.77 and 14.78.
 
 On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations.
+
 All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
 
-2
+Appendices 
 
-Population of Zimbabwe (listed in Appendix II)
+I 
 
-:
+II 
 
-For the exclusive purpose of allowing:
+III 
 
-1) export of hunting trophies for non-commercial purposes;
+Zyzomys pedunculatus
 
-2) export of live animals to appropriate and acceptable destinations;
+Sciuridae Ground squirrels, tree squirrels
 
-3) export of hides; and
+Cynomys mexicanus
 
-4) export of leather goods and ivory carvings for non-commercial purposes. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. To ensure that where a) destinations for live animals are to be appropriate and acceptable and/or b) the purpose of the import is to be non-commercial, export permits and re-export certificates may be issued only after the issuing Management Authority has received, from the Management Authority of the State of import, a certification to the effect that: in case a), in analogy to Article III, paragraph 3 (b) of the Convention, the holding facility has been reviewed by the competent Scientific Authority, and the proposed recipient has been found to be suitably equipped to house and care for the animals; and/or in case b), in analogy to Article III, paragraph 3 (c), the Management Authority is satisfied that the specimens will not be used for primarily commercial purposes.
+Marmota caudata
+
+(India)
+
+Marmota himalayana
+
+(India)
+
+Ratufa
+
+spp\. 
+
+Sciurus deppei
+
+(Costa Rica)
+
+SCANDENTIA
+
+Tupaiidae Tree shrews
+
+Tupaiidae spp\. 
 
 SIRENIA
 
@@ -1539,387 +1828,7 @@ Trichechus manatus
 
 Trichechus senegalensis
 
-PERISSODACTYLA
-
-Equidae Horses, wild asses, zebras
-
-Equus africanus
-
-(Excludes the domesticated form, which is referenced as Equus asinus, and is not subject to the p rovisions of the Convention)
-
-Equus grevyi
-
-Equus hermionus
-
-(Except the subspecies included in Appendix I)
-
-Equus hemionus hemionus
-
-Equus kiang
-
-Equus onager
-
-(Except the subspecies included in Appendix I)
-
-Equus onager khur
-
-Equus przewalskii
-
-Equus zebra hartmannae
-
-Equus zebra zebra
-
-Tapiridae Tapirs
-
-Tapiridae spp\. (Except the species included in Appendix II)
-
-Tapirus terrestris
-
-Rhinocerotidae Rhinoceroses
-
-Rhinocerotidae spp\. (Except the subspecies included in Appendix II)
-
-Ceratotherium simum simum
-
-(Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly)
-
-ARTIODACTYLA
-
-Suidae Babirusa, pygmy hog
-
-Babyrousa babyrussa
-
-Sus salvanius
-
-Tayassuidae Peccaries
-
-Tayassuidae spp\. (Except the species included in Appendix I and the populations ofPecari tajacuof Mexico and the United States of America, which are not included in the Appendices)
-
-Catagonus wagneri
-
-Hippopotamidae Hippopotamuses
-
-Hexaprotodon liberiensis
-
-Hippopotamus amphibius
-
-Camelidae Guanaco, vicuna
-
-Lama guanicoe
-
-Vicugna vicugna
-
-(Except the populations of: Argentina [the populations of the Provinces of Jujuy and Catamarca and the semi‐captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan]; Bolivia [the whole population]; Chile [population of the Primera Región]; and Peru [the whole population]; which are included in Appendix II)
-
-Vicugna vicugna
-
-(Only the populations ofArgentina 3[the populations of the Provinces of Jujuy and Catamarca and the semi‐captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan];Bolivia 4[the whole population];Chile 5[population of the Primera Región];Peru 6[the whole population]; all other populations are included in Appendix I)
-
-_____________________ 
-
-3
-
-Population of Argentina (listed in Appendix II):
-
-For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, in cloth, and in derived manufactured products and other handicraft artefacts. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-ARGENTINA”. Other products must bear a label including the logotype and the designation “VICUÑA-ARGENTINAARTESANÍA”.
-All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
-
-4
-
-Population of Bolivia (listed in Appendix II):
-
-For the exclusive purpose of allowing international trade in: a) wool and products derived therefrom sheared from live animals of the populations of the Conservation Units of Mauri-Desaguadero, Ulla Ulla and Lípez-Chichas; and b) products made from wool sheared from live animals of the rest of the population of Bolivia. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-BOLIVIA’. Other products must bear a label including the logotype and the designation ’VICUÑA-BOLIVIA-ARTESANÍA”.
-All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
-
-5
-
-Population of Chile (listed in Appendix II):
-
-For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-CHILE”. Other products must bear a label including the logotype and the designation “VICUÑA-CHILE-ARTESANÍA”.
-All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
-
-6
-
-Population of Peru (listed in Appendix II):
-
-For the exclusive purpose of allowing international trade in wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3249 kg of wool, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to theConvenio para la Conservación y Manejo de la Vicuña, and the selvages the words “VICUÑA-PERÚ”. Other products must bear a label including the logotype and the designation “VICUÑA-PERÚ-ARTESANÍA”.
-All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly.
-
-Moschidae Musk deer
-
-Moschus
-
-spp\. (Only the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan; all other populations are included in Appendix II)
-
-Moschus
-
-spp\. (Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I)
-
-Cervidae Deer, guemals, muntjacs, pudus
-
-Axix calamianesis
-
-Axis kuhlii
-
-Axis porcinus annamiticus
-
-Blastocerus dichotomus
-
-Cervus duvaucelii
-
-Cervus elaphus bactrianus
-
-Cervus elaphus
-
-barbarus
-
-(Tunisia)
-
-Cervus elaphus hanglu
-
-Cervus eldii
-
-Dama mesopotamica
-
-Hippocamelus
-
-spp\. 
-
-Mazama americana
-
-cerasina
-
-(Guatemala)
-
-Megamuntiacus
-
-vuquanghensis
-
-Muntiacus crinifrons
-
-Odocoileus
-
-virginianus mayensis
-
-(Guatemala)
-
-Ozotoceros bezoarticus
-
-Pudu mephistophiles
-
-Pudu Pudu
-
-Antilocapridae Pronghorn
-
-Antilocapra americana
-
-(Only the population of Mexico; no other population is included in the Appendices)
-
-Bovidae Antelopes, cattle, duikers, gazelles, goats, sheep, etc.
-
-Addax nasomaculatus
-
-Ammotragus lervia
-
-Antilope cericapra
-
-(Nepal)
-
-Bison bison athabascae
-
-Bos gaurus
-
-(Excludes the domesticated form, which is referenced asBos frontalis, and is not subject to the provisions of the Convention)
-
-Bos mutus
-
-(Excludes the domesticated form, which is referenced asBos grunniens, and is not subject to the provisions of the Convention)
-
-Bos sauveli
-
-Bubalus arnee
-
-(Nepal) (Excludes the domesticated form, which is referenced asBubalus bubalis)
-
-Bubalus depressicornis
-
-Bubalus mindorensis
-
-Bubalus quarlesi
-
-Budorcas taxicolor
-
-Capra falconeri
-
-Cephalophus dorsalis
-
-Cephalophus jentinki
-
-Cephalophus monticola
-
-Cephalophus ogilbyi
-
-Cephalophus silvicultor
-
-Cephalophus zebra
-
-Damaliscus pygargus pygargus
-
-Gazella cuvieri
-
-(Tunisia)
-
-Gazella dama
-
-Gazella dorcas
-
-(Tunisia)
-
-Gazella leptoceros
-
-(Tunisia)
-
-Hippotragus niger variani
-
-Kobus leche
-
-Naemorhedus baileyi
-
-Naemorhedus caudatus
-
-Naemorhedus goral
-
-Naemorhedus sumatraensis
-
-Oryx dammah
-
-Oryx leucoryx
-
-Ovis ammon
-
-((Except the subspecies included in Appendix I)
-
-Ovis ammon hodgsonii
-
-Ovis ammon nigrimontana
-
-Ovis canadensis
-
-(Only the population of Mexico; no other population is included in the Appendices)
-
-Ovis orientalis ophion
-
-Ovis vignei
-
-(Except the subspecies included in Appendix I)
-
-Ovis vignei vignei
-
-Pantholops hodgsonii
-
-Pseudoryx nghetinhensis
-
-Rupicapra pyrenaica ornata
-
-Saiga tatarica
-
-Tetracerus quadricornis
-
-(Nepal)
-
 CLASS AVES (BIRDS) 
-
-STRUTHIONIFORMES
-
-Struthionidae Ostrich
-
-Struthio camelus
-
-(Only the populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)
-
-RHEIFORMES
-
-Rheidae Rheas
-
-Rhea Americana
-
-Rhea pennata
-
-(Except Rhea pennata pennata which is included in Appendix II)
-
-Rhea pennata pennata
-
-TINAMIFORMES
-
-Tinamidae Tinamou
-
-Tinamus solitarius
-
-SPHENISCIFORMES
-
-Spheniscidae Penguins
-
-Spheniscus demersus
-
-Spheniscus humboldti
-
-PODICIPEDIFORMES
-
-Podicipedidae Grebe
-
-Podilymbus gigas
-
-PROCELLARIIFORMES
-
-Diomedeidae Albatross
-
-Diomedea albatrus
-
-PELECANIFORMES
-
-Pelecanidae Pelican
-
-Pelecanus crispus
-
-Sulidae Booby
-
-Papasula abbotti
-
-Fregatidae Frigatebird
-
-Fregata andrewsi
-
-CICONIIFORMES
-
-Balaenicipitidae Shoebill, whale-headed stork
-
-Balaeniceps rex
-
-Ciconiidae Storks
-
-Ciconia boyciana
-
-Ciconia nigra
-
-Jabiru mycteria
-
-Mycteria cinerea
-
-Threskiornithidae Ibises, spoonbills
-
-Eudocimus ruber
-
-Geronticus calvus
-
-Geronticus eremita
-
-Nipponia Nippon
-
-Platalea leucorodia
-
-Phoenicopteridae Flamingos
-
-Phoenicopteridae spp\. 
 
 ANSERIFORMES
 
@@ -1929,9 +1838,13 @@ Anas aucklandica
 
 Anas bernieri
 
+Anas chlorotis
+
 Anas formosa
 
 Anas laysanensis
+
+Anas nesiotis
 
 Anas oustaleti
 
@@ -1949,7 +1862,7 @@ Cairina scutulata
 
 Coscoroba coscoroba
 
-Cygnus melanocorypha
+Cygnus melanocoryphus
 
 Dendrocygna arborea
 
@@ -1959,7 +1872,7 @@ Dendrocygna autumnalis
 
 Dendrocygna bicolor
 
-(, Honduras)
+(Honduras)
 
 Oxyura leucocephala
 
@@ -1969,9 +1882,149 @@ Rhodonessa caryophyllacea
 
 Sarkidiornis melanotos
 
+APODIFORMES
+
+Trochilidae Hummingbirds
+
+Trochilidae spp\. (Except the species included in Appendix I)
+
+Glaucis dohrnii
+
+CHARADRIIFORMES
+
+Burhinidae Thick-knee
+
+Burhinus bistriatus (Guatemala)
+
+Laridae Gull
+
+Larus relictus
+
+Scolopacidae Curlews, greenshanks
+
+Numenius borealis
+
+Numenius tenuirostris
+
+Tringa guttifer
+
+CICONIIFORMES
+
+Balaenicipitidae Shoebill, whale-headed stork
+
+Balaeniceps rex
+
+Ciconiidae Storks
+
+Ciconia boyciana
+
+Ciconia nigra
+
+Jabiru mycteria
+
+Mycteria cinerea
+
+Phoenicopteridae Flamingos
+
+Phoenicopteridae spp\. 
+
+Threskiornithidae Ibises, spoonbills
+
+Eudocimus ruber
+
+Geronticus calvus
+
+Geronticus eremita
+
+Nipponia nippon
+
+Platalea leucorodia
+
+COLUMBIFORMES
+
+Columbidae Doves, pigeons
+
+Caloenas nicobarica
+
+Ducula mindorensis
+
+Gallicolumba luzonica
+
+Goura
+
+spp\. 
+
+Nesoenas mayeri
+
+(Mauritius)
+
+CORACIIFORMES
+
+Bucerotidae Hornbills
+
+Aceros
+
+spp\. (Except the species included in Appendix I)
+
+Aceros nipalensis
+
+Anorrhinus
+
+spp\. 
+
+Anthracoceros
+
+spp\. 
+
+Berenicornis
+
+spp\. 
+
+Buceros
+
+spp\. (Except the species included in Appendix I)
+
+Buceros bicornis
+
+Penelopides
+
+spp\. 
+
+Rhinoplax vigil
+
+Rhyticeros subruficollis
+
+Rhyticeros
+
+spp\. (Except the species included in Appendix I)
+
+CUCULIFORMES
+
+Musophagidae Turacos
+
+Tauraco
+
+spp\. 
+
 FALCONIFORMES Eagles, falcons, hawks, vultures
 
 FALCONIFORMES spp\. (Except the species included in Appendices I and III and the species of the family Cathartidae)
+
+Accipitridae Hawks, eagles
+
+Aquila adalberti
+
+Aquila heliaca
+
+Chondrohierax uncinatus 
+
+wilsonii
+
+Haliaeetus albicilla
+
+Harpia harpyja
+
+Pithecophaga jefferyi
 
 Cathartidae New World vultures
 
@@ -1983,23 +2036,9 @@ Sarcoramphus papa
 
 Vultur gryphus
 
-Accipitridae Hawks, eagles
-
-Aquila adalberti
-
-Aquila heliaca
-
-Chondrohierax uncinatus wilsonii
-
-Haliaeetus albicilla
-
-Harpia harpyja
-
-Pithecophaga jefferyi
-
 Falconidae Falcons
 
-Falco araea
+Falco araeus
 
 Falco jugger
 
@@ -2017,13 +2056,9 @@ Falco rusticolus
 
 GALLIFORMES
 
-Megapodiidae Megapodes, scrubfowl
-
-Macrocephalon maleo
-
 Cracidae Chachalacas, currassows, guans
 
-Crax albert
+Crax alberti
 
 (Colombia)
 
@@ -2039,7 +2074,9 @@ Crax globulosa
 
 Crax rubra
 
-(Colombia, Costa Rica, Guatemala, Honduras)
+(Colombia, Costa
+
+Rica, Guatemala, Honduras)
 
 Mitu mitu
 
@@ -2047,8 +2084,7 @@ Oreophasis derbianus
 
 Ortalis vetula
 
-(Guatemala,
-Honduras)
+(Guatemala, Honduras)
 
 Pauxi pauxi
 
@@ -2056,7 +2092,7 @@ Pauxi pauxi
 
 Penelope albipennis
 
-Penelope Purpurascens
+Penelope purpurascens
 
 (Honduras)
 
@@ -2068,23 +2104,23 @@ Pipile jacutinga
 
 Pipile pipile
 
+Megapodiidae Megapodes, scrubfowl
+
+Macrocephalon maleo
+
 Phasianidae Grouse, guineafowl, partridges, pheasants, tragopans
 
-Agriocharis ocellata
+Arborophila campbelli
 
-(Guatemala)
+(Malaysia)
 
 Arborophila charltonii
 
 (Malaysia)
 
-Arborophila orientalis
-
-(Malaysia)
-
 Argusianus argus
 
-Caloperdix oculea
+Caloperdix oculeus
 
 (Malaysia)
 
@@ -2093,8 +2129,6 @@ Catreus wallichii
 Colinus virginianus ridgwayi
 
 Crossoptilon crossoptilon
-
-Crossoptilon harmani
 
 Crossoptilon mantchuricum
 
@@ -2110,9 +2144,7 @@ Lophophorus sclateri
 
 Lophura edwardsi
 
-Lophura
-
-erythrophthalma
+Lophura erythrophthalma
 
 (Malaysia)
 
@@ -2124,15 +2156,17 @@ Lophura imperialis
 
 Lophura swinhoii
 
-Melanoperdix nigra
+Melanoperdix niger
 
 (Malaysia)
+
+Meleagris ocellata
+
+(Guatemala)
 
 Pavo muticus
 
 Polyplectron bicalcaratum
-
-Polyplectron emphanum
 
 Polyplectron germaini
 
@@ -2142,9 +2176,15 @@ Polyplectron inopinatum
 
 Polyplectron malacense
 
+Polyplectron napoleonis
+
 Polyplectron schleiermacheri
 
 Rheinardia ocellata
+
+Rhizothera dulitensis
+
+(Malaysia)
 
 Rhizothera longirostris
 
@@ -2158,7 +2198,7 @@ Syrmaticus ellioti
 
 Syrmaticus humiae
 
-Syrmaticus Mikado
+Syrmaticus mikado
 
 Tetraogallus caspius
 
@@ -2174,17 +2214,15 @@ Tragopan satyra
 
 (Nepal)
 
-Tympanuchus cupido Attwateri
+Tympanuchus cupido attwateri
 
 GRUIFORMES
 
 Gruidae Cranes
 
-Gruidae
+Gruidae spp\. (Except the species included in Appendix I)
 
-spp\. (Except the species included in Appendix I)
-
-Grus Americana
+Grus americana
 
 Grus canadensis nesiotes
 
@@ -2200,6 +2238,18 @@ Grus nigricollis
 
 Grus vipio
 
+Otididae Bustards
+
+Otididae spp\. (Except the species included in Appendix I)
+
+Ardeotis nigriceps
+
+Chlamydotis macqueenii
+
+Chlamydotis undulata
+
+Houbaropsis bengalensis
+
 Rallidae Rail
 
 Gallirallus sylvestris
@@ -2208,251 +2258,139 @@ Rhynochetidae Kagu
 
 Rhynochetos jubatus
 
-Otididae Bustards
+PASSERIFORMES
 
-Otididae spp\. (Except the species included in Appendix I)
+Atrichornithidae Scrub-bird
 
-Ardeotis nigriceps
+Atrichornis clamosus
 
-Chlamydotis undulata
+Cotingidae Cotingas
 
-Eupodotis bengalensis
+Cephalopterus ornatus
 
-CHARADRIIFORMES
+(Colombia)
 
-Burhinidae Thick-knee
+Cephalopterus penduliger
 
-Burhinus bistriatus
+(Colombia)
 
-(Guatemala)
+Cotinga maculata
 
-Scolopacidae Curlews, greenshanks
+Rupicola
 
-Numenius borealis
+spp\. 
 
-Numenius tenuirostris
+Xipholena atropurpurea
 
-Tringa guttifer
+Emberizidae Cardinals, tanagers
 
-Laridae Gull
+Gubernatrix cristata
 
-Larus relictus
+Paroaria capitata
 
-COLUMBIFORMES
+Paroaria coronata
 
-Columbidae Doves, pigeons
+Tangara fastuosa
 
-Caloenas nicobarica
+Estrildidae Mannikins, waxbills
 
-Columba mayeri
+Amandava formosa
+
+Lonchura oryzivora
+
+Poephila cincta cincta
+
+Fringillidae Finches
+
+Carduelis cucullata
+
+Carduelis yarrellii
+
+Hirundinidae Martin
+
+Pseudochelidon sirintarae
+
+Icteridae Blackbird
+
+Xanthopsar flavus
+
+Meliphagidae Honeyeater
+
+Lichenostomus melanops
+
+cassidix
+
+Muscicapidae Old World flycatchers
+
+Acrocephalus rodericanus
 
 (Mauritius)
 
-Ducula mindorensis
+Cyornis ruckii
 
-Gallicolumba luzonica
-
-Goura
-
-spp\. 
-
-PSITTACIFORMES Amazons, cockatoos, lories, lorikeets, macaws, parakeets, parrots
-
-PSITTACIFORMES spp\. (Except the species included in Appendices I and III, and excluding Agapornis roseicollis, Melopsittacus undulatus and Nymphicus hollandicus, which are not included in the Appendices)
-
-Cacatuidae Cockatoos
-
-Cacatua goffini
-
-Cacatua haematuropygia
-
-Cacatua moluccensis
-
-Cacatua sulphurea
-
-Probosciger aterrimus
-
-Loriidae Lories, lorikeets
-
-Eos histrio
-
-Vini ultramarina
-
-Psittacidae Amazons, macaws, parakeets, parrots
-
-Amazona arausiaca
-
-Amazona barbadensis
-
-Amazona brasiliensis
-
-Amazona finschi
-
-Amazona guildingii
-
-Amazona imperialis
-
-Amazona leucocephala
-
-Amazona ochrocephala auropalliata
-
-Amazona ochrocephala belizensis
-
-Amazona ochrocephala caribaea
-
-Amazona ochrocephala oratrix
-
-Amazona ochrocephala parvipes
-
-Amazona ochrocephala tresmariae
-
-Amazona pretrei
-
-Amazona rhodocorytha
-
-Amazona tucumana
-
-Amazona versicolor
-
-Amazona vinacea
-
-Amazona viridigenalis
-
-Amazona vittata
-
-Anodorhynchus
-
-spp\. 
-
-Ara ambigua
-
-Ara glaucogularis
-
-(Often traded under the incorrect designation Ara caninde)
-
-Ara macao
-
-Ara militaris
-
-Ara rubrogenys
-
-Cyanopsitta spixii
-
-Cyanoramphus forbesi
-
-Cyanoramphus novaezelandiae
-
-Cyclopsitta diophthalma coxeni
-
-Eunymphicus cornutus
-
-Geopsittacus occidentalis
+Dasyornis broadbenti litoralis
 
 (possibly extinct)
 
-Guarouba guarouba
+Dasyornis longirostris
 
-Neophema chrysogaster
+Garrulax canorus
 
-Ognorhynchus icterotis
+Leiothrix argentauris
 
-Pezoporus wallicus
+Leiothrix lutea
 
-Pionopsitta pileata
+Liocichla omeiensis
 
-Propyrrhura couloni
+Picathartes gymnocephalus
 
-Propyrrhura maracana
+Picathartes oreas
 
-Psephotus chrysopterygius
+Terpsiphone bourbonnensis
 
-Psephotus dissimilis
+(Mauritius)
 
-Psephotus pulcherrimus
+Paradisaeidae Birds of paradise
 
-(possibly extinct)
+Paradisaeidae spp\. 
 
-Psittacula echo
+Pittidae Pittas
 
-Pyrrhura cruentata
+Pitta guajana
 
-Rhynchopsitta spp.
+Pitta gurneyi
 
-Strigops habroptilus
+Pitta kochi
 
-CUCULIFORMES
+Pitta nympha
 
-Musophagidae Turacos
+Pycnonotidae Bulbul
 
-Musophaga porphyreolopha
+Pycnonotus zeylanicus
 
-Tauraco
+Sturnidae Mynahs (Starlings)
 
-spp\. 
+Gracula religiosa
 
-STRIGIFORMES Owls
+Leucopsar rothschildi
 
-STRIGIFORMES spp\. (Except the species included in Appendix I)
+Zosteropidae White-eye
 
-Tytonidae Barn owl
+Zosterops albogularis
 
-Tyto soumagnei
+PELECANIFORMES
 
-Strigidae Owls
+Fregatidae Frigatebird
 
-Athene blewitti
+Fregata andrewsi
 
-Mimizuku gurneyi
+Pelecanidae Pelican
 
-Ninox novaeseelandiae undulata
+Pelecanus crispus
 
-Ninox squamipila natalis
+Sulidae Booby
 
-APODIFORMES
-
-Trochilidae Hummingbirds
-
-Trochilidae spp\. (Except the species included in Appendix I)
-
-Glaucis dohrnii
-
-TROGONIFORMES
-
-Trogonidae Quetzal
-
-Pharomachrus mocinno
-
-CORACIIFORMES
-
-Bucerotidae Hornbills
-
-Aceros
-
-spp\. (Except the species included in Appendix I)
-
-Aceros nipalensis
-
-Aceros subruficollis
-
-Anorrhinus
-
-spp\. 
-
-Anthracoceros
-
-spp\. 
-
-Buceros
-
-spp\. (Except the species included in Appendix I)
-
-Buceros bicornis
-
-Buceros vigil
-
-Penelopides
-
-spp\. 
+Papasula abbotti
 
 PICIFORMES
 
@@ -2461,6 +2399,12 @@ Capitonidae Barbet
 Semnornis ramphastinus
 
 (Colombia)
+
+Picidae Woodpeckers
+
+Campephilus imperialis
+
+Dryocopus javensis richardsi
 
 Ramphastidae Toucans
 
@@ -2492,347 +2436,193 @@ Selenidera maculirostris
 
 (Argentina)
 
-Picidae Woodpeckers
+PODICIPEDIFORMES
 
-Campephilus imperialis
+Podicipedidae Grebe
 
-Dryocopus javensis richardsi
+Podilymbus gigas
 
-PASSERIFORMES
+PROCELLARIIFORMES
 
-Cotingidae Cotingas
+Diomedeidae Albatross
 
-Cephalopterus ornatus
+Phoebastria albatrus
 
-(Colombia)
+PSITTACIFORMES
 
-Cephalopterus penduliger
+PSITTACIFORMES spp\. (Except the species included in Appendix I andAgapornis roseicollis, Melopsittacus undulatus, Nymphicus hollandicusandPsittacula krameri, which are not included in the Appendices)
 
-(Colombia)
+Cacatuidae Cockatoos
 
-Cotinga maculata
+Cacatua goffini
 
-Rupicola
+Cacatua haematuropygia
+
+Cacatua moluccensis
+
+Cacatua sulphurea
+
+Probosciger aterrimus
+
+Loriidae Lories, lorikeets
+
+Eos histrio
+
+Vini ultramarina
+
+Psittacidae Amazons, macaws, parakeets, parrots
+
+Amazona arausiaca
+
+Amazona auropalliata
+
+Amazona barbadensis
+
+Amazona brasiliensis
+
+Amazona finschi
+
+Amazona guildingii
+
+Amazona imperialis
+
+Amazona leucocephala
+
+Amazona oratrix
+
+Amazona pretrei
+
+Amazona rhodocorytha
+
+Amazona tucumana
+
+Amazona versicolor
+
+Amazona vinacea
+
+Amazona viridigenalis
+
+Amazona vittata
+
+Anodorhynchus
 
 spp\. 
 
-Xipholena atropurpurea
+Ara ambiguus
 
-Pittidae Pittas
+Ara glaucogularis
 
-Pitta guajana
+(Often traded under the incorrect designationAra caninde)
 
-Pitta gurneyi
+Ara macao
 
-Pitta kochi
+Ara militaris
 
-Pitta nympha
+Ara rubrogenys
 
-Atrichornithidae Scrub-bird
+Cyanopsitta spixii
 
-Atrichornis clamosus
+Cyanoramphus forbesi
 
-Hirundinidae Martin
+Cyanoramphus novaezelandiae
 
-Pseudochelidon sirintarae
+Cyclopsitta diophthalma coxeni
 
-Pycnonotidae Bulbul
+Eunymphicus cornutus
 
-Pycnonotus zeylanicus
-
-Muscicapidae Old World flycatchers
-
-Bebrornis rodericanus
-
-(Mauritius)
-
-Cyornis ruckii
-
-Dasyornis broadbenti litoralis
+Geopsittacus occidentalis
 
 (possibly extinct)
 
-Dasyornis longirostris
+Guarouba guarouba
 
-Garrulax canorus
+Neophema chrysogaster
 
-Leiothrix argentauris
+Ognorhynchus icterotis
 
-Leiothrix lutea
+Pezoporus wallicus
 
-Liocichla omeiensis
+Pionopsitta pileata
 
-Picathartes gymnocephalus
+Primolius couloni
 
-Picathartes oreas
+Primolius maracana
 
-Terpsiphone bourbonnensis
+Psephotus chrysopterygius
 
-(Mauritius)
+Psephotus dissimilis
 
-Zosteropidae White-eye
+Psephotus pulcherrimus
 
-Zosterops albogularis
+(possibly extinct)
 
-Meliphagidae Honeyeater
+Psittacula echo
 
-Lichenostomus melanops cassidix
+Pyrrhura cruentata
 
-Emberizidae Cardinals, tanagers
+Rhynchopsitta
 
-Gubernatrix cristata
+spp\. 
 
-Paroaria capitata
+Strigops habroptilus
 
-Paroaria coronata
+RHEIFORMES
 
-Tangara fastuosa
+Rheidae Rheas
 
-Icteridae Blackbird
+Pterocnemia pennata (Except Pterocnemia pennata pennata which is included in Appendix II)
 
-Agelaius flavus
+Pterocnemia pennata pennata 
 
-Fringillidae Finches
+Rhea americana 
 
-Carduelis cucullata
+SPHENISCIFORMES
 
-Carduelis yarrellii
+Spheniscidae Penguins
 
-Estrildidae Mannikins, waxbills
+Spheniscus demersus 
 
-Amandava formosa
+Spheniscus humboldti 
 
-Padda oryzivora
+STRIGIFORMES Owls
 
-Poephila cincta cincta
+STRIGIFORMES spp\. (Except the species included in Appendix I)
 
-Ploceidae Weavers, whydahs
+Strigidae Owls
 
-Sturnidae Mynahs (Starlings)
+Heteroglaux blewitti 
 
-Gracula religiosa
+Mimizuku gurneyi 
 
-Leucopsar rothschildi
+Ninox natalis 
 
-Paradisaeidae Birds of paradise
+Ninox novaeseelandiae undulata 
 
-Paradisaeidae spp\. 
+Tytonidae Barn owls
+
+Tyto soumagnei
+
+STRUTHIONIFORMES
+
+Struthionidae Ostrich
+
+Struthio camelus
+
+(Only the populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)
+
+TINAMIFORMES
+
+Tinamidae Tinamous
+
+Tinamus solitarius
+
+TROGONIFORMES
+
+Trogonidae Quetzals
+
+Pharomachrus mocinno
 
 CLASS REPTILIA (REPTILES) 
-
-Chelydridae Snapping turtles
-
-Macroclemys temminckii
-
-(United States of America)
-
-TESTUDINES
-
-Dermatemydidae Central American river turtle
-
-Dermatemys mawii
-
-Platysternidae Big-headed turtle
-
-Platysternon megacephalum
-
-Emydidae Box turtles, freshwater turtles
-
-Annamemys annamensis
-
-Batagur baska
-
-Callagur borneoensis
-
-Chinemys megalocephala
-
-(China)
-
-Chinemys nigricans
-
-(China)
-
-Chinemys reevesii
-
-(China)
-
-Clemmys insculpta
-
-Clemmys muhlenbergi
-
-Cuora
-
-spp .
-
-Geoclemys hamiltonii
-
-Geoemyda spengleri
-
-(China)
-
-"Graptemys spp. (United States of America)
-
-Heosemys depressa
-
-Heosemys grandis
-
-Heosemys leytensis
-
-Heosemys spinosa
-
-Hieremys annandalii
-
-Kachuga
-
-spp\. (Except the species included in Appendix I)
-
-Kachuga tecta
-
-Leucocephalon yuwonoi
-
-Malayemys subtrijuga
-
-Mauremys iversoni
-
-(China)
-
-Mauremys mutica
-
-Mauremys pritchardi
-
-(China)
-
-Melanochelys tricarinata
-
-Morenia ocellata
-
-Notochelys platynota
-
-Ocadia glyphistoma
-
-(China)
-
-Ocadia philippeni
-
-(China)
-
-Ocadia sinensis
-
-(China)
-
-Orlitia borneensis
-
-Pyxidea mouhotii
-
-Sacalia bealei
-
-(China)
-
-Sacalia pseudocellata
-
-(China)
-
-Sacalia quadriocellata
-
-(China)
-
-Siebenrockiella crassicollis
-
-Terrapene
-
-spp\. (Except the species included in Appendix I)
-
-Terrapene coahuila
-
-Testudinidae spp\. (Except the species included in Appendix I. A zero annual export quota has been established for Geochelone sulcata for specimens removed from the wild and traded for primarily commercial purposes)
-
-Geochelone nigra
-
-Geochelone radiata
-
-Geochelone yniphora
-
-Gopherus flavomarginatus
-
-Psammobates geometricus
-
-Pyxis arachnoides
-
-Pyxis planicauda
-
-Testudo kleinmanni
-
-Testudo werneri
-
-Cheloniidae Marine turtles
-
-Cheloniidae spp\. 
-
-Dermochelyidae Leatherback turtle
-
-Dermochelys coriacea
-
-Carettochelyidae Pig-nosed turtles
-
-Carettochelys insculpta
-
-Trionychidae Softshell turtles, terrapins
-
-Amyda cartilaginea
-
-Apalone ater
-
-Aspideretes gangeticus
-
-Aspideretes hurum
-
-Aspideretes nigricans
-
-Chitra
-
-spp\. 
-
-Lissemys punctata
-
-Palea steindachneri
-
-China)
-
-Pelochelys
-
-spp\. 
-
-Pelodiscus axenaria
-
-(China)
-
-Pelodiscus maackii
-
-(China)
-
-Pelodiscus parviformis
-
-(China)
-
-Rafetus swinhoei
-
-(China)
-
-Pelomedusidae Afro-American side-necked turtles
-
-Erymnochelys madagascariensis
-
-Peltocephalus dumeriliana
-
-Podocnemis
-
-spp\. 
-
-Chelidae Austro-American side-necked turtles
-
-Chelodina mccordi
-
-Pseudemydura umbrina
 
 CROCODYLIA Alligators, caimans, crocodiles
 
@@ -2850,7 +2640,7 @@ Caiman latirostris
 
 Melanosuchus niger
 
-(Except the population of Ecuador, which is included in Appendix II, and is subject to a zero annual export quota until an annual export quota has been approved by the CITES Secretariat and the IUCN/SSC Crocodile Specialist Group)
+(Except the population of Brazil, which is included in Appendix II, and the population of Ecuador, which is included in Appendix II and is subject to a zero annual export quota until an annual export quota has been approved by the CITES Secretariat and the IUCN/SSC Crocodile Specialist Group)
 
 Crocodylidae Crocodiles
 
@@ -2898,26 +2688,6 @@ spp\.
 
 SAURIA
 
-Gekkonidae Geckos
-
-Cyrtodactylus serpensinsula
-
-Hoplodactylus
-
-spp\. (New Zealand)
-
-Naultinus
-
-spp\. (New Zealand)
-
-Phelsuma
-
-spp\. 
-
-Uroplatus
-
-spp\. 
-
 Agamidae Agamas, mastigures
 
 Uromastyx
@@ -2947,6 +2717,42 @@ spp\.
 Furcifer
 
 spp\. 
+
+Cordylidae Spiny-tailed lizards
+
+Cordylus
+
+spp\. 
+
+Gekkonidae Geckos
+
+Cyrtodactylus serpensinsula
+
+Hoplodactylus
+
+spp\. (New Zealand)
+
+Naultinus
+
+spp\. (New Zealand)
+
+Phelsuma
+
+spp\. 
+
+Uroplatus
+
+spp\. 
+
+Helodermatidae Beaded lizard, gila monster
+
+Heloderma
+
+spp\. (Except the subspecies included in Appendix I)
+
+Heloderma horridum
+
+charlesbogerti
 
 Iguanidae Iguanas
 
@@ -2980,11 +2786,9 @@ Podarcis lilfordi
 
 Podarcis pityusensis
 
-Cordylidae Spiny-tailed lizards
+Scincidae Skinks
 
-Cordylus
-
-spp\. 
+Corucia zebrata
 
 Teiidae Caiman lizards, tegu lizards
 
@@ -2995,20 +2799,6 @@ Dracaena
 spp\. 
 
 Tupinambis
-
-spp\. 
-
-Scincidae Skink
-
-Corucia zebrata
-
-Xenosauridae Chinese crocodile lizard
-
-Shinisaurus crocodilurus
-
-Helodermatidae Beaded lizard, gila monster
-
-Heloderma
 
 spp\. 
 
@@ -3028,17 +2818,11 @@ Varanus komodoensis
 
 Varanus nebulosus
 
+Xenosauridae Chinese crocodile lizard
+
+Shinisaurus crocodilurus
+
 SERPENTES Snakes
-
-Loxocemidae Mexican dwarf boa
-
-Loxocemidae spp\. 
-
-Pythonidae Pythons
-
-Pythonidae spp\. (Except the subspecies included in Appendix I)
-
-Python molurus molurus
 
 Boidae Boas
 
@@ -3060,15 +2844,11 @@ Sanzinia madagascariensis
 
 Bolyeriidae Round Island boas
 
-Bolyeriidae spp. (Except the species included in Appendix I)
+Bolyeriidae spp\. (Except the species included in Appendix I)
 
 Bolyeria multocarinata
 
 Casarea dussumieri
-
-Tropidophiidae Wood boas
-
-Tropidophiidae spp\. 
 
 Colubridae Typical snakes, water snakes, whipsnakes
 
@@ -3076,7 +2856,7 @@ Atretium schistosum
 
 (India)
 
-Cerberus rhynchops
+Cerberus rynchops
 
 (India)
 
@@ -3128,6 +2908,20 @@ Naja sumatrana
 
 Ophiophagus hannah
 
+Loxocemidae Mexican dwarf boa
+
+Loxocemidae spp\. 
+
+Pythonidae Pythons
+
+Pythonidae spp\. (Except the subspecies included in Appendix I)
+
+Python molurus molurus
+
+Tropidophiidae Wood boas
+
+Tropidophiidae spp\. 
+
 Viperidae Vipers
 
 Crotalus durissus
@@ -3143,6 +2937,230 @@ Vipera ursinii
 (Only the population of Europe, except the area which formerly constituted the Union of Soviet Socialist Republics; these latter populations are not included in the Appendices)
 
 Vipera wagneri
+
+TESTUDINES
+
+Carettochelyidae Pig-nosed turtles
+
+Carettochelys insculpta
+
+Chelidae Austro-American side-necked turtles
+
+Chelodina mccordi
+
+Pseudemydura umbrina
+
+Cheloniidae Marine turtles
+
+Cheloniidae spp\. 
+
+Chelydridae Snapping turtles
+
+Macrochelys temminckii
+
+(United States of America)
+
+Dermatemydidae Central American river turtle
+
+Dermatemys mawii
+
+Dermochelyidae Leatherback turtle
+
+Dermochelys coriacea
+
+Emydidae Box turtles, freshwater turtles
+
+Glyptemys insculpta
+
+Glyptemys muhlenbergi
+
+Graptemys
+
+spp\. (United States of America)
+
+Terrapene
+
+spp\. (Except the species included in Appendix I)
+
+Terrapene coahuila
+
+Geoemydidae Box turtles, freshwater turtles
+
+Batagur baska
+
+Callagur borneoensis
+
+Cuora
+
+spp\. 
+
+Geoclemys hamiltonii
+
+Geoemyda spengleri
+
+(China)
+
+Heosemys annandalii
+
+Heosemys depressa
+
+Heosemys grandis
+
+Heosemys spinosa
+
+Kachuga
+
+spp\. 
+
+Leucocephalon yuwonoi
+
+Malayemys macrocephala
+
+Malayemys subtrijuga
+
+Mauremys annamensis
+
+Mauremys iversoni
+
+(China)
+
+Mauremys megalocephala
+
+(China)
+
+Mauremys mutica
+
+Mauremys nigricans
+
+(China)
+
+Mauremys pritchardi
+
+(China)
+
+Mauremys reevesii
+
+(China)
+
+Mauremys sinensis
+
+(China)
+
+Melanochelys tricarinata
+
+Morenia ocellata
+
+Notochelys platynota
+
+Ocadia glyphistoma
+
+(China)
+
+Ocadia philippeni
+
+(China)
+
+Orlitia borneensis
+
+Pangshura
+
+spp\. (Except the species included in Appendix I)
+
+Pangshura tecta
+
+Sacalia bealei
+
+(China)
+
+Sacalia pseudocellata
+
+(China)
+
+Sacalia quadriocellata
+
+(China)
+
+Siebenrockiella crassicollis
+
+Siebenrockiella leytensis
+
+Platysternidae Big-headed turtle
+
+Platysternon megacephalum
+
+Podocnemididae Afro-American side-necked turtles
+
+Erymnochelys madagascariensis
+
+Peltocephalus dumerilianus
+
+Podocnemis
+
+spp\. 
+
+Testudinidae Tortoises
+
+Testudinidae spp\. (Except the species included in Appendix I. A zero annual export quota has been established forGeochelone sulcatafor specimens removed from the wild and traded for primarily commercial purposes)
+
+Astrochelys radiata
+
+Astrochelys yniphora
+
+Chelonoidis nigra
+
+Gopherus flavomarginatus
+
+Psammobates geometricus
+
+Pyxis arachnoides
+
+Pyxis planicauda
+
+Testudo kleinmanni
+
+Trionychidae Softshell turtles, terrapins
+
+Amyda cartilaginea
+
+Apalone spinifera atra
+
+Aspideretes gangeticus
+
+Aspideretes hurum
+
+Aspideretes nigricans
+
+Chitra
+
+spp\. 
+
+Lissemys punctata
+
+Lissemys scutata
+
+Palea steindachneri
+
+(China)
+
+Pelochelys
+
+spp\. 
+
+Pelodiscus axenaria
+
+(China)
+
+Pelodiscus maackii
+
+(China)
+
+Pelodiscus parviformis
+
+(China)
+
+Rafetus swinhoei
+
+(China)
 
 CLASS AMPHIBIA (AMPHIBIANS) 
 
@@ -3174,15 +3192,15 @@ spp\.
 
 Dendrobatidae Poison frogs
 
+Allobates femoralis
+
+Allobates zaparo
+
 Dendrobates
 
 spp\. 
 
 Epipedobates
-
-spp\. 
-
-Minyobates
 
 spp\. 
 
@@ -3230,21 +3248,31 @@ spp\.
 
 CLASS ELASMOBRANCHII (SHARKS) 
 
+LAMNIFORMES
+
+Cetorhinidae Basking shark
+
+Cetorhinus maximus
+
+Lamnidae Great white shark
+
+Carcharodon carcharias
+
 ORECTOLOBIFORMES
 
 Rhincodontidae Whale shark
 
 Rhincodon typus
 
-LAMNIFORMES
+RAJIFORMES
 
-Lamnidae Great white shark
+Pristidae Sawfishes
 
-Carcharodon carcharias
+Pristidae spp\. (Except the species included in Appendix II)
 
-Cetorhinidae Basking shark
+Pristis microdon
 
-Cetorhinus maximus
+(For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable aquaria for primarily Conservation purposes)
 
 CLASS ACTINOPTERYGII (FISH) 
 
@@ -3258,15 +3286,19 @@ Acipenser brevirostrum
 
 Acipenser sturio
 
-OSTEOGLOSSIFORMES
+ANGUILLIFORMES
 
-Osteoglossidae Arapaima, bonytongue
+Anguillidae Freshwater eels
 
-Arapaima gigas
+Anguilla anguilla
 
-Scleropages formosus
+(Entry into force delayed 18 months, i.e. until 13 March 2009)
 
 CYPRINIFORMES
+
+Catostomidae Cui-ui
+
+Chasmistes cujus
 
 Cyprinidae Blind carps, plaeesok
 
@@ -3274,21 +3306,13 @@ Caecobarbus geertsi
 
 Probarbus jullieni
 
-Catostomidae Cui-ui
+OSTEOGLOSSIFORMES
 
-Chasmistes cujus
+Osteoglossidae Arapaima, bonytongue
 
-SILURIFORMES
+Arapaima gigas
 
-Pangasiidae Pangasid catfish
-
-Pangasianodon gigas
-
-SYNGNATHIFORMES
-
-Syngnathidae Pipefishes, seahorses
-
-Hippocampus spp\. 
+Scleropages formosus
 
 PERCIFORMES
 
@@ -3300,7 +3324,27 @@ Sciaenidae Totoaba
 
 Totoaba macdonaldi
 
+SILURIFORMES
+
+Pangasiidae Pangasid catfish
+
+Pangasianodon gigas
+
+SYNGNATHIFORMES
+
+Syngnathidae Pipefishes, seahorses
+
+Hippocampus
+
+spp\. 
+
 CLASS SARCOPTERYGII (LUNGFISHES) 
+
+CERATODONTIFORMES
+
+Ceratodontidae Australian lungfish
+
+Neoceratodus forsteri
 
 COELACANTHIFORMES
 
@@ -3309,12 +3353,6 @@ Latimeriidae Coelacanths
 Latimeria
 
 spp\. 
-
-CERATODONTIFORMES
-
-Ceratodontidae Australian lungfish
-
-Neoceratodus forsteri
 
 P H Y L U M E C H I N O D E R M A T A CLASS HOLOTHUROIDEA (SEA CUCUMBERS) 
 
@@ -3328,16 +3366,6 @@ Isostichopus fuscus
 
 P H Y L U M A R T H R O P O D A CLASS ARACHNIDA (SPIDERS) 
 
-SCORPIONES
-
-Scorpionidae Scorpions
-
-Pandinus dictator
-
-Pandinus gambiensis
-
-Pandinus imperator
-
 ARANEAE
 
 Theraphosidae Red-kneed tarantulas, tarantulas
@@ -3349,6 +3377,16 @@ Aphonopelma pallidum
 Brachypelma
 
 spp\. 
+
+SCORPIONES
+
+Scorpionidae Scorpions
+
+Pandinus dictator
+
+Pandinus gambiensis
+
+Pandinus imperator
 
 CLASS INSECTA (INSECTS) 
 
@@ -3408,13 +3446,13 @@ Hirudo medicinalis
 
 P H Y L U M M O L L U S C A CLASS BIVALVIA (CLAMS, MUSSELS) 
 
-VENERIDA
+MYTILOIDA
 
-Tridacnidae Giant clams
+Mytilidae Marine mussels
 
-Tridacnidae spp .
+Lithophaga lithophaga
 
-UNIONIDA
+UNIONOIDA
 
 Unionidae Freshwater mussels, pearly mussels
 
@@ -3430,13 +3468,11 @@ Epioblasma florentina
 
 Epioblasma sampsoni
 
-Epioblasma sulcata
-
-perobliqua
+Epioblasma sulcata perobliqua
 
 Epioblasma torulosa
 
-gubernaculums
+gubernaculum
 
 Epioblasma torulosa rangiana
 
@@ -3478,15 +3514,15 @@ Unio nickliniana
 
 Unio tampicoensis
 
-Tecomatensis
+tecomatensis
 
 Villosa trabalis
 
-MYTILOIDA
+VENEROIDA
 
-Mytilidae Marine mussels
+Tridacnidae Giant clams
 
-Lithophaga lithophaga
+Tridacnidae spp\. 
 
 CLASS GASTROPODA (SNAILS AND CONCHES) 
 
@@ -3497,6 +3533,12 @@ Haliotidae Abalones
 Haliotis midae
 
 (South Africa)
+
+MESOGASTROPODA
+
+Strombidae Queen conch
+
+Strombus gigas
 
 STYLOMMATOPHORA
 
@@ -3510,31 +3552,27 @@ Camaenidae Green tree snail
 
 Papustyla pulcherrima
 
-MESOGASTROPODA
-
-Strombidae Queen conch
-
-Strombus gigas
-
 P H Y L U M C N I D A R I A CLASS ANTHOZOA (CORALS, SEA ANEMONES) 
 
-HELIOPORACEA Blue corals
+ANTIPATHARIA Black corals
 
-Helioporidae spp\. (Includes only the species Heliopora coerulea. Fossils are not subject to the provisions of the Convention)
+ANTIPATHARIA spp\. 
+
+HELIOPORACEA
+
+Helioporidae Blue corals
+
+Helioporidae spp\. (Includes only the speciesHeliopora coerulea. Fossils are not subject to the provisions of the Convention)
+
+SCLERACTINIA Stony corals
+
+SCLERACTINIA spp\. (Fossils are not subject to the provisions of the Convention)
 
 STOLONIFERA
 
 Tubiporidae Organ-pipe corals
 
 Tubiporidae spp\. (Fossils are not subject to the provisions of the Convention)
-
-ANTIPATHARIA Black corals
-
-ANTIPATHARIA spp\. 
-
-SCLERACTINIA Stony corals
-
-SCLERACTINIA spp\. (Fossils are not subject to the provisions of the Convention)
 
 CLASS HYDROZOA (SEA FERNS, FIRE CORALS, STINGING MEDUSAE) 
 
@@ -3553,8 +3591,6 @@ Stylasteridae spp\. (Fossils are not subject to the provisions of the Convention
 F L O R A (PLANTS) 
 
 AGAVACEAE Agaves
-
-Agave arizonica
 
 Agave parviflora
 
@@ -3582,7 +3618,7 @@ spp\. #9
 
 Pachypodium
 
-spp\. #1 (Except the species included in Appendix I)
+spp\. #1(Except the species included in Appendix I)
 
 Pachypodium ambongense
 
@@ -3598,7 +3634,7 @@ ARALIACEAE Ginseng
 
 Panax ginseng
 
-#3 (Only the population of the Russian Federation; no other population is included in the Appendices)
+#3(Only the population of the Russian Federation; no other population is included in the Appendices)
 
 Panax quinquefolius
 
@@ -3644,27 +3680,43 @@ Tillandsia xerographica
 
 #1
 
+#1All parts and derivatives, except:
+
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+#9All parts and derivatives except those bearing a label
+
+“
+
+Produced fromHoodiaspp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx
+
+”.
+
+#2All parts and derivatives except:
+
+(a) seeds and pollen; and
+
+(b) finished products packaged and ready for retail trade.
+
+#3Whole and sliced roots and parts of roots.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
 CACTACEAE Cacti
 
-CACTACEAE spp\. 7#4 (Except the species included in Appendix I)
-
-7Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Convention:
-
-–Hatiora x graeseri
-
-–Schlumbergera x buckleyi
-
-–Schlumbergera russelliana x Schlumbergera truncata
-
-–Schlumbergera orssichiana x Schlumbergera truncata
-
-–Schlumbergera opuntioides x Schlumbergera truncata
-
-–Schlumbergera truncata(cultivars)
-
-– Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks:Harrisia“Jusbertii”,Hylocereus trigonusorHylocereus undatus
-
-–Opuntia microdasys(cultivars).
+CACTACEAE spp\. 6 #4(Except the species included in Appendix I and exceptPereskiaspp.,Pereskiopsisspp. andQuiabentiaspp.)
 
 Ariocarpus
 
@@ -3680,7 +3732,9 @@ Discocactus
 
 spp\. 
 
-Echinocereus ferreirianus ssp. lindsayi
+Echinocereus ferreirianus
+
+ssp\. lindsayi 
 
 Echinocereus schmollii
 
@@ -3714,17 +3768,17 @@ Pediocactus peeblesianus
 
 Pediocactus sileri
 
-Pelecyphoraspp\. 
+Pelecyphora
+
+spp\. 
 
 Sclerocactus brevihamatus
 
-ssp\. 
+ssp\. tobuschii 
 
-tobuschii
+Sclerocactus erectocentrus 
 
-Sclerocactus erectocentrus
-
-Sclerocactus glaucus
+Sclerocactus glaucus 
 
 Sclerocactus mariposensis
 
@@ -3734,27 +3788,57 @@ Sclerocactus nyensis
 
 Sclerocactus papyracanthus
 
-Sclerocactus pubispinus
+6. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Convention:
 
-Sclerocactus wrightiae
+— Hatiora x graeseri
 
-Strombocactus
+— Schlumbergera x buckleyi
 
-spp\. 
+— Schlumbergera russelliana x Schlumbergera truncata
 
-Turbinicarpus
+— Schlumbergera orssichiana x Schlumbergera truncata
 
-spp\. 
+— Schlumbergera opuntioides x Schlumbergera truncata
 
-Uebelmannia
+— Schlumbergera truncata (cultivars)
 
-spp\. 
+— Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus
+
+— Opuntia microdasys (cultivars).
+
+#4All parts and derivatives, except:
+
+(a) seeds, except those from Mexican cacti originating in Mexico, and pollen;
+
+(b) seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants;
+
+(d) fruits and parts and derivatives thereof of naturalized or artificially propagated plants; and
+
+(e) separate stem joints (pads) and parts and derivatives thereof of naturalized or artificially propagated plants of the genusOpuntiasubgenusOpuntia.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
+Sclerocactus pubispinus 
+
+Sclerocactus wrightiae 
+
+Strombocactus spp\. 
+
+Turbinicarpus spp\. 
+
+Uebelmannia spp\. 
 
 CARYOCARACEAE Ajo
 
-Caryocar costaricense
-
-#1
+Caryocar costaricense #1
 
 COMPOSITAE (Asteraceae) Kuth
 
@@ -3780,15 +3864,9 @@ spp\. #1
 
 CYCADACEAE Cycads
 
-CYCADACEAE spp\. #1
+CYCADACEAE spp\. #1(Except the species included in Appendix I)
 
 Cycas beddomei
-
-DIAPENSIACEAE Oconee-bells
-
-Shortia galacifolia
-
-#1
 
 DICKSONIACEAE Tree-ferns
 
@@ -3798,7 +3876,7 @@ Cibotium barometz
 
 Dicksonia
 
-spp\. #1 (Only the populations of the Americas; no other population is included in the Appendices)
+spp\. #1(Only the populations of the Americas; no other population is included in the Appendices)
 
 DIDIEREACEAE Alluaudias, didiereas
 
@@ -3816,11 +3894,29 @@ Dionaea muscipula
 
 #1
 
+#1All parts and derivatives, except:
+
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
 EUPHORBIACEAE Spurges
 
 Euphorbia
 
-spp\. #1 (Succulent species only except the species included in Appendix I. Artificially Propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia ’Milii’ when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of the Convention)
+spp\. #1(Succulent species only except the species included in Appendix I. Artificially propagated specimens of cultivars ofEuphorbia trigona, artificially propagated specimens of crested, fan-shaped or colour mutants ofEuphorbia lactea, when grafted on artificially propagated root stock ofEuphorbia neriifolia, and artificially propagated specimens of cultivars ofEuphorbia“Milii” when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of the Convention)
 
 Euphorbia ambovombensis
 
@@ -3828,21 +3924,21 @@ Euphorbia capsaintemariensis
 
 Euphorbia cremersii
 
-(Includes the forma viridifolia and the var. rakotozafyi)
+(Includes theforma viridifoliaand the var.rakotozafyi)
 
 Euphorbia cylindrifolia
 
-(Includes the spp. tuberifera)
+(Includes the ssp.tuberifera)
 
 Euphorbia decaryi
 
-(Includes the vars. Ampanihyenis robinsonii and spirosticha)
+(Includes the vars.ampanihyensis, robinsoniiandspirosticha)
 
 Euphorbia francoisii
 
 Euphorbia moratii
 
-(Includes the vars. antsingiensis, bemarahensis and multiflora)
+(Includes the vars.antsingiensis,bemarahensisandmultiflora)
 
 Euphorbia parvicyathophora
 
@@ -3856,7 +3952,7 @@ Fouquieria columnaris
 
 #1
 
-Fouquieria fasciculate
+Fouquieria fasciculata
 
 Fouquieria purpusii
 
@@ -3864,7 +3960,7 @@ GNETACEAE Gnetums
 
 Gnetum montanum
 
-#1 (Nepal)
+#1(Nepal)
 
 JUGLANDACEAE Gavilan
 
@@ -3872,13 +3968,35 @@ Oreomunnea pterocarpa
 
 #1
 
+#1All parts and derivatives, except:
+
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and;
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
 LEGUMINOSAE (Fabaceae) Afrormosia, cristobal, rosewood, sandalwood
+
+Caesalpinia echinata
+
+#10
 
 Dalbergia nigra
 
 Dipteryx panamensis
 
-(Costa Rica)
+(Costa Rica, Nicaragua)
 
 Pericopsis elata
 
@@ -3892,9 +4010,11 @@ Pterocarpus santalinus
 
 #7
 
+LILIACEAE Aloes
+
 Aloe
 
-spp\. #1 (Except the species included in Appendix I. Also excludes Aloe vera, also referenced as Aloe barbadensis which is not included in the Appendices)
+spp\. #1(Except the species included in Appendix I. Also excludesAloe vera, also referenced asAloe barbadensiswhich is not included in the Appendices)
 
 Aloe albida
 
@@ -3910,7 +4030,7 @@ Aloe calcairophila
 
 Aloe compressa
 
-(Includes the vars. rugosquamosa, schistophila and paucituberculata)
+(Includes the vars.paucituberculata, rugosquamosaandschistophila)
 
 Aloe delphinensis
 
@@ -3920,7 +4040,7 @@ Aloe fragilis
 
 Aloe haworthioides
 
-(Includes the var. aurantiaca)
+(Includes the var.aurantiaca)
 
 Aloe helenae
 
@@ -3944,6 +4064,30 @@ Aloe versicolor
 
 Aloe vossii
 
+#10Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
+
+#5Logs, sawn wood and veneer sheets.
+
+#1All parts and derivatives, except:
+
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+#7Logs, wood-chips, powder and extracts.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
 MAGNOLIACEAE Magnolia
 
 Magnolia liliifera
@@ -3952,13 +4096,14 @@ var\.
 
 obovata
 
-#1 (Nepal)
+#1(Nepal)
 
 MELIACEAE Mahoganies, Spanish cedar
 
 Cedrela odorata
 
 #5
+
 [Population of Colombia (Colombia) Population of Peru (Peru)]
 
 Swietenia humilis
@@ -3967,8 +4112,7 @@ Swietenia humilis
 
 Swietenia macrophylla
 
-#6
-(Populations of the Neotropics)
+#6(Populations of the Neotropics)
 
 Swietenia mahagoni
 
@@ -3978,7 +4122,7 @@ NEPENTHACEAE Pitcher-plants (Old World)
 
 Nepenthes
 
-spp\. #1
+spp\. #1(Except the species included in Appendix I)
 
 Nepenthes khasiana
 
@@ -3986,39 +4130,9 @@ Nepenthes rajah
 
 ORCHIDACEAE Orchids
 
-ORCHIDACEAE spp\. 8#8 (Except the species included in Appendix I)
+ORCHIDACEAE spp\. 7#1(Except the species included in Appendix I)
 
-8Artificially propagated specimens of hybrids of the generaCymbidium,Dendrobium,PhalaenopsisandVandaare not subject to the provisions of the Convention when:
-
-1) the specimens are traded in shipments consisting of individual containers (i.e. cartons, boxes or crates) each containing 20 or more plants of the same hybrid;
-
-2) the plants within each container can be readily recognized as artificially propagated specimens by exhibiting a high degree of uniformity and healthiness; and
-
-3) the shipments are accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid.
-
-Artificially propagated specimens of the following hybrids:
-
-– Cymbidium: Interspecific hybrids within the genus and intergeneric hybrids
-
-– Dendrobium: Interspecific hybrids within the genus known in horticulture as “nobile-types” and “phalaenopsis-types”
-
-– Phalaenopsis: Interspecific hybrids within the genus and intergeneric hybrids
-
-– Vanda: Interspecific hybrids within the genus and intergeneric hybrids are not subject to the provisions of the Convention when:
-
-1) they are traded in flowering state, i.e. with at least one open flower per specimen, with reflexed petals;
-
-2) they are professionally processed for commercial retail sale, e.g. labelled with printed labels and packaged with printed packages;
-
-3) they can be readily recognized as artificially propagated specimens by exhibiting a high degree of cleanliness, undamaged inflorescences, intact root systems and a general absence of damage or injury that could be attributable to plants originating in the wild;
-
-4) the plants do not exhibit characteristics of wild origin, such as damage by insects or other animals, fungi or algae adhering to leaves, or mechanical damage to inflorescences, roots, leaves or other parts resulting from collection; and
-
-5) the labels or packages indicate the trade name of the specimen, the country of artificial propagation or, in the case of international trade during the production process, the country where the specimen was labelled and packaged; and the labels or packages show a photograph of the flower, or demonstrate by other means the appropriate use of labels and packages in an easily verifiable way.
-
-Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents.
-
-(For all of the following Appendix - I species, seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Convention)
+(For all of the following Appendix-I species, seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Convention)
 
 Aerangis ellisii
 
@@ -4032,11 +4146,43 @@ Paphiopedilum
 
 spp\. 
 
+#1All parts and derivatives, except:
+
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+#5Logs, sawn wood and veneer sheets.
+
+#6Logs, sawn wood, veneer sheets and plywood.
+
+7. Artificially propagated hybrids of the following genera are not subject to the provisions of the Convention, if conditions, as indicated under a) and b), are met:Cymbidium, Dendrobium, PhalaenopsisandVanda:
+
+(a) Specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
+
+(b) 
+
+(i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or
+
+(ii) when shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification.
+
+Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
 Peristeria elata
 
-Phragmipedium
-
-spp\. 
+Phragmipedium spp.
 
 Renanthera imschootiana
 
@@ -4050,13 +4196,17 @@ PALMAE (Arecaceae) Palms
 
 Beccariophoenix madagascariensis
 
+#1
+
 Chrysalidocarpus decipiens
 
 Lemurophoenix halleuxii
 
 Marojejya darianii
 
-Neodypsis decaryi #1
+Neodypsis decaryi
+
+#1
 
 Ravenea louvelii
 
@@ -4070,8 +4220,7 @@ PAPAVERACEAE Poppy
 
 Meconopsis regia
 
-#1
-(Nepal)
+#1(Nepal)
 
 PINACEAE Guatemala fir
 
@@ -4081,8 +4230,7 @@ PODOCARPACEAE Podocarps
 
 Podocarpus neriifolius
 
-#1
-(Nepal)
+#1(Nepal)
 
 Podocarpus parlatorei
 
@@ -4102,13 +4250,9 @@ Lewisia serrata
 
 PRIMULACEAE Cyclamens
 
-`
-
 Cyclamen
 
-spp\. 9#1
-
-9Artificially propagated specimens of cultivars ofCyclamen persicumare not subject to the provisions of the Convention. However, the exemption does not apply to such specimens traded as dormant tubers.
+spp\. 8#1
 
 PROTEACEAE Proteas
 
@@ -4128,7 +4272,7 @@ Adonis vernalis
 
 Hydrastis canadensis
 
-#3
+#8
 
 ROSACEAE African cherry, stinkwood
 
@@ -4140,19 +4284,45 @@ RUBIACEAE Ayuque
 
 Balmea stormiae
 
+#1All parts and derivatives, except:
+
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+8Artificially propagated specimens of cultivars ofCyclamen persicumare not subject to the provisions of the Convention. However, the exemption does not apply to such specimens traded as dormant tubers.
+
+#2All parts and derivatives except:
+
+(a) seeds and pollen; and
+
+(b) finished products packaged and ready for retail trade.
+
+#8Underground parts (i.e. roots, rhizomes): whole, parts and powdered.
+
+Appendices 
+
+I 
+
+II 
+
+III 
+
 SARRACENIACEAE Pitcher-plants (New World)
 
 Sarracenia
 
-spp\. #1 (Except the species included in Appendix I)
+spp\. #1(Except the species included in Appendix I)
 
 Sarracenia oreophila
 
-Sarracenia rubra
+Sarracenia rubra 
 
-ssp\. 
-
-Alabamensis
+ssp. alabamensis
 
 Sarracenia rubra
 
@@ -4164,7 +4334,7 @@ SCROPHULARIACEAE Kutki
 
 Picrorhiza kurrooa
 
-#3 (Excludes Picrorhiza scrophulariiflora)
+#2(ExcludesPicrorhiza scrophulariiflora)
 
 STANGERIACEAE Stangerias
 
@@ -4176,71 +4346,69 @@ Stangeria eriopus
 
 TAXACEAE Himalayan yew
 
-Taxus chinensis
+Taxus chinensis and infraspecific taxa of this species#2
 
-and infraspecific taxa of this species10#10
+Taxus cuspidata and infraspecific taxa of this species#2
 
-Taxus cuspidata
+Taxus fuana and infraspecific taxa of this species#2
 
-and infraspecific taxa of this species10#10
+Taxus sumatrana and infraspecific taxa of this species#2
 
-Taxus fuana
-
-and infraspecific taxa of this species10#10
-
-Taxus sumatrana
-
-and infraspecific taxa of this species10#10
-
-10Whole artificially propagated plants in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text ’artificially propagated’, are not subject to the provisions of the Convention.
-
-Taxus wallichiana
-
-#10
-
-TROCHODENDRACEAE (Tetracentraceae) Tetracentron
-
-Tetracentron sinense
-
-#1 (Nepal)
+Taxus wallichiana #2
 
 THYMELAEACEAE (Aquilariaceae) Agarwood, ramin
 
-Aquilaria
+Aquilaria spp .#1
 
-spp\. #1
+Gonystylus spp .#1
 
-Gonystylus
+Gyrinops spp .#1
 
-spp\. #1
+TROCHODENDRACEAE (Tetracentraceae) Tetracentron
 
-Gyrinops
-
-spp\. #1
+Tetracentron sinense #1 (Nepal)
 
 VALERIANACEAE Himalayan spikenard
 
-Nardostachys grandiflora
-
-#3
+Nardostachys grandiflora #2
 
 WELWITSCHIACEAE Welwitschia
 
-Welwitschia mirabilis
-
-#1
+Welwitschia mirabilis #1
 
 ZAMIACEAE Cycads
 
-ZAMIACEAE spp\. #1 (Except the species included in Appendix I)
+ZAMIACEAE spp .#1(Except the species included in Appendix I)
 
-Ceratozamia
+Ceratozamia spp\. 
 
-spp\. 
+Chigua spp\. 
 
-Chigua
+#1All parts and derivatives, except:
 
-spp\. 
+(a) seeds, spores and pollen (including pollinia);
+
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+#2All parts and derivatives except:
+
+(a) seeds and pollen; and
+
+(b) finished products packaged and ready for retail trade.
+
+9Artificially propagated hybrids and cultivars ofTaxus cuspidata,live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of the Convention.
+
+Appendices 
+
+I 
+
+II 
+
+III 
 
 Encephalartos
 
@@ -4260,9 +4428,21 @@ Guaiacum
 
 spp\. #2
 
-[S 103/2007 wef 03/04/2007]
+#1All parts and derivatives, except:
 
-[S 290/2006 wef 14/06/2006]
+(a) seeds, spores and pollen (including pollinia);
 
-[S 152/2007 wef 03/05/2007]
+(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+
+(c) cut flowers of artificially propagated plants; and
+
+(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+#2All parts and derivatives except:
+
+(a) seeds and pollen; and
+
+(b) finished products packaged and ready for retail trade.
+
+[S 477/2007 wef 13/09/2007]
 
