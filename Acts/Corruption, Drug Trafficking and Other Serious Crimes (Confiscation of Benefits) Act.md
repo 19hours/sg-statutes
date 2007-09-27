@@ -3734,6 +3734,37 @@ Keeping or management of brothels
 
 [26/2007 wef 01/01/2008]
 
+Part IV — Offences included as serious offences
+
+
+
+
+with effect from 27th September 2007,
+
+
+
+
+being transnational offences involving
+
+
+
+
+organised criminal groups
+
+[S 488/2007 wef 27/09/2007]
+
+293.
+
+Abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group (section 109, 115, 116 or 118 of the Penal Code (Cap. 224))
+
+294.
+
+Criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group (section 120B of the Penal Code (Cap. 224))
+
+Note
+
+The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
+
 ## LEGISLATIVE HISTORY
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -3821,6 +3852,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|1 March 2007 (except sections 6, 8 and 11)|
+|17.|**G. N. No. S 488/2007—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2007**|
+||Date of commencement|27 September 2007|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
