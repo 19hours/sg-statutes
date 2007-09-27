@@ -864,69 +864,145 @@ Sections 2(1), 14 and 18
 
 Part I
 
-1\. Murder of any degree.
+1. 
 
-2\. Manslaughter or culpable homicide.
+Murder of any degree.
 
-3\. An offence against the law relating to abortion.
+2. 
 
-4\. Maliciously or wilfully wounding or inflicting grievous bodily harm.
+Manslaughter or culpable homicide.
 
-5\. Assault occasioning actual bodily harm.
+3. 
 
-6\. Rape.
+An offence against the law relating to abortion.
 
-7\. Unlawful sexual intercourse with a female.
+4. 
 
-8\. Indecent assault.
+Maliciously or wilfully wounding or inflicting grievous bodily harm.
 
-9\. Procuring, or trafficking in, women or young persons for immoral purposes.
+5. 
 
-10\. Bigamy.
+Assault occasioning actual bodily harm.
 
-11\. Kidnapping, abduction or false imprisonment, or dealing in slaves.
+6. 
 
-12\. Stealing, abandoning, exposing or unlawfully detaining a child.
+Rape.
 
-13\. Bribery.
+7. 
 
-14\. Perjury or subornation of perjury or conspiring to defeat the course of justice.
+Unlawful sexual intercourse with a female.
 
-15\. Arson.
+8. 
 
-16\. An offence concerning counterfeit currency.
+Indecent assault.
 
-17\. An offence against the law relating to forgery.
+9. 
 
-18\. Stealing, embezzlement, fraudulent conversion, fraudulent false accounting, obtaining property or credit by false pretences, receiving stolen property or any other offence in respect of property involving fraud.
+Procuring, or trafficking in, women or young persons for immoral purposes.
 
-19\. Burglary, house-breaking or any similar offence.
+10. 
 
-20\. Robbery.
+Bigamy.
 
-21\. Blackmail or extortion by means of threats or by abuse of authority.
+11. 
 
-22\. An offence against bankruptcy law or company law.
+Kidnapping, abduction or false imprisonment, or dealing in slaves.
 
-23\. Malicious or wilful damage to property.
+12. 
 
-24\. Acts done with the intention of endangering vehicles, vessels or aircraft.
+Stealing, abandoning, exposing or unlawfully detaining a child.
 
-25\. An offence against the law relating to psychotropic substances, dangerous drugs or narcotics.
+13. 
 
-26\. An offence against the law relating to benefits derived from corruption, drug trafficking and other serious crimes.
+Bribery.
 
-27\. Piracy.
+14. 
 
-28\. Revolt against the authority of the master of a ship or the commander of an aircraft.
+Perjury or subornation of perjury or conspiring to defeat the course of justice.
 
-29\. Contravention of import or export prohibitions relating to precious stones, gold and other precious metals.
+15. 
 
-30\. Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
+Arson.
+
+16. 
+
+An offence concerning counterfeit currency.
+
+17. 
+
+An offence against the law relating to forgery.
+
+18. 
+
+Stealing, embezzlement, fraudulent conversion, fraudulent false accounting, obtaining property or credit by false pretences, receiving stolen property or any other offence in respect of property involving fraud.
+
+19. 
+
+Burglary, house-breaking or any similar offence.
+
+20. 
+
+Robbery.
+
+21. 
+
+Blackmail or extortion by means of threats or by abuse of authority.
+
+22. 
+
+An offence against bankruptcy law or company law.
+
+23. 
+
+Malicious or wilful damage to property.
+
+24. 
+
+Acts done with the intention of endangering vehicles, vessels or aircraft.
+
+25. 
+
+An offence against the law relating to psychotropic substances, dangerous drugs or narcotics.
+
+26. 
+
+An offence against the law relating to benefits derived from corruption, drug trafficking and other serious crimes.
+
+27. 
+
+Piracy.
+
+28. 
+
+Revolt against the authority of the master of a ship or the commander of an aircraft.
+
+29. 
+
+Contravention of import or export prohibitions relating to precious stones, gold and other precious metals.
+
+30. 
+
+Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
 
 Part II
 
 Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
+
+Part III
+
+1. Abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
+
+[32/96; 20/98; 25/99]
+
+2. Criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
+
+Note:
+
+The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations
+
+Convention
+
+against Transnational Organised Crime, done at New York on 15th November 2000.
 
 SECOND SCHEDULE
 
@@ -1238,6 +1314,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (item (6) of the Fourth Schedule)|
+|13.|**G. N. No. S 476/2007—Extradition Act (Amendment of First Schedule) Notification 2007**|
+||Date of commencement|27 September 2007|
 ## COMPARATIVE TABLE
 
 Extradition Act
