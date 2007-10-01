@@ -24,6 +24,8 @@
 
 - [5B Issue of shares, etc.](#Issue-of-shares-etc)
 
+- [5C Symbol or representation of Board](#Symbol-or-representation-of-Board)
+
 [**Part II CONTRIBUTIONS TO FUND**](#Part-II)
 
 - [6 Establishment of Central Provident Fund](#Establishment-of-Central-Provident-Fund)
@@ -66,13 +68,13 @@
 
 - [18 Provisions relating to maintenance of minimum sum and amounts specified under section 15 (2A) (a), (7B) (a) and (8A) (a), and transfer or payment of moneys into retirement account](#Provisions-relating-to-maintenance-of-minimum-sum-and-amounts-specified-under-section-15-2A-a-7B-a-and-8A-a-and-transfer-or-payment-of-moneys-into-retirement-account)
 
-- [18A Transfer of member’s moneys in ordinary account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-to-retirement-account)
+- [18A Transfer of member’s moneys in ordinary account or special account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-retirement-account)
 
 - [18B Transfer of member’s moneys in ordinary account to special account](#Transfer-of-member’s-moneys-in-ordinary-account-to-special-account)
 
 - [18C Transfer of member’s moneys in ordinary or special account to medisave account](#Transfer-of-member’s-moneys-in-ordinary-or-special-account-to-medisave-account)
 
-- [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-or-spouse’s-retirement-account-on-death)
+- [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-on-death)
 
 - [20 Withdrawals](#Withdrawals)
 
@@ -93,6 +95,26 @@
 - [26 Power of Board to distribute and dispose of certain shares on death of member](#Power-of-Board-to-distribute-and-dispose-of-certain-shares-on-death-of-member)
 
 - [27 Withdrawals by undischarged bankrupts](#Withdrawals-by-undischarged-bankrupts)
+
+[**Part IIIA DIVISION OF FUND-RELATED ASSETS IN MATRIMONIAL PROCEEDINGS**](#Part-IIIA)
+
+- [27A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [27B Order of court for transfer or payment of money standing to credit of member](#Order-of-court-for-transfer-or-payment-of-money-standing-to-credit-of-member)
+
+- [27C Order of court for transfer or sale of immovable property in relation to which charge has been created under section 15 (9) or (9A)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-charge-has-been-created-under-section-15-9-or-9A)
+
+- [27D Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15 (10) or (10A)](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-undertaking-has-been-given-under-section-15-10-or-10A)
+
+- [27E Order of court for transfer or sale of immovable property in relation to which charge under section 21 (1) or 21A (1) exists](#Order-of-court-for-transfer-or-sale-of-immovable-property-in-relation-to-which-charge-under-section-21-1-or-21A-1-exists)
+
+- [27F Order of court for transfer or sale of HDB flat in relation to which charge has been constituted under section 21B (1)](#Order-of-court-for-transfer-or-sale-of-HDB-flat-in-relation-to-which-charge-has-been-constituted-under-section-21B-1)
+
+- [27G Order of court for transfer of investments](#Order-of-court-for-transfer-of-investments)
+
+- [27H Order of court for sale of investments](#Order-of-court-for-sale-of-investments)
+
+- [27I Miscellaneous matters](#Miscellaneous-matters)
 
 [**Part IV HOME PROTECTION INSURANCE SCHEME**](#Part-IV)
 
@@ -176,6 +198,8 @@
 
 - [58 Offences](#Offences)
 
+- [58A Offences relating to investments](#Offences-relating-to-investments)
+
 - [59 Publication of information to unauthorised person](#Publication-of-information-to-unauthorised-person)
 
 - [60 Offences by corporations](#Offences-by-corporations)
@@ -184,7 +208,7 @@
 
 - [61A Jurisdiction of court](#Jurisdiction-of-court)
 
-- [61B Recovery of contributions upon conviction](#Recovery-of-contributions-upon-conviction)
+- [61B Recovery of contributions, etc., upon conviction](#Recovery-of-contributions-etc-upon-conviction)
 
 - [62 Notice to attend court](#Notice-to-attend-court)
 
@@ -198,13 +222,13 @@
 
 - [66 Certificate of authorised officer to be evidence](#Certificate-of-authorised-officer-to-be-evidence)
 
-- [66A Certificate of Board on non-payment of contributions](#Certificate-of-Board-on-non-payment-of-contributions)
+- [66A Certificate of Board](#Certificate-of-Board)
 
 - [67 Conduct of prosecutions](#Conduct-of-prosecutions)
 
 [**Part VIII MISCELLANEOUS**](#Part-VIII)
 
-- [68 Protection of employee’s interest in execution proceedings and sale under mortgage or charge](#Protection-of-employee’s-interest-in-execution-proceedings-and-sale-under-mortgage-or-charge)
+- [68 Protection of employee’s or member’s interest in execution proceedings and sale under mortgage or charge](#Protection-of-employee’s-or-member’s-interest-in-execution-proceedings-and-sale-under-mortgage-or-charge)
 
 - [69 Power to exempt](#Power-to-exempt)
 
@@ -312,13 +336,15 @@ PRELIMINARY
 
 “member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
 
-“minimum sum” means the sum referred to in section 15(6);
+“minimum sum” means the sum referred to in section 15(6)(a);
 
 [40/2007 wef 01/10/2007]
 
 “ordinary account” means an ordinary account maintained under section 13;
 
-“retirement account” means a retirement account maintained for the purposes of section 15(2A)(a), (6C), (7B)(a) and (8A)(a);
+“retirement account” means a retirement account maintained for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c);
+
+[40/2007 wef 01/10/2007]
 
 “special account” means a special account maintained under section 13;
 
@@ -472,6 +498,14 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 
 (6) Any person who obstructs an inspector or any of the officers referred to in subsection (2) shall be guilty of an offence.
 
+(7) In this section —
+
+“document” means a document in any medium and includes a document containing information in digital or electronic form;
+
+“record” means a record in any medium and includes a record containing information in digital or electronic form.
+
+[40/2007 wef 01/10/2007]
+
 ### Budget
 
 5A\.—(1) The Board shall in every financial year prepare a budget containing estimates of income and expenditure of the Board for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
@@ -485,6 +519,14 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 ### Issue of shares, etc.
 
 5B\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+### Symbol or representation of Board
+
+5C\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as the Board may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
+
+(2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+
+[40/2007 wef 01/10/2007]
 
 ## PART II
 
@@ -618,7 +660,7 @@ CONTRIBUTIONS TO FUND
 
 13\.—(1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
-(a) an ordinary account from which, apart from subsection (7) and sections 15(2), (3), (4) and (5), 18, 18A, 18B, 22 and 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (n) or (r);
+(a) an ordinary account from which, apart from subsection (7) and sections 15(2), (3), (4) and (5), 18, 18A, 18B, 18C, 22, 27B, 32 and 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (n) or (r);
 
 [31/2003 wef 01/07/2004]
 
@@ -626,7 +668,7 @@ CONTRIBUTIONS TO FUND
 
 [15/2006 wef 01/07/2006]
 
-(b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A and 54, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
+(b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A, 27B and 54, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
 
 [24/2005 wef 22/08/2005]
 
@@ -634,7 +676,7 @@ CONTRIBUTIONS TO FUND
 
 [40/2007 wef 01/10/2007]
 
-(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17 or 45 or in accordance with any regulations made under section 77(1)(n) .
+(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18A, 18C, 27B or 45 or in accordance with any regulations made under section 77(1)(n) .
 
 [15/2006 wef 01/07/2006]
 
@@ -716,9 +758,15 @@ CONTRIBUTIONS TO FUND
 
 (b) the following amounts shall be excluded:
 
-(i) any contribution made by a person in that year under sections 73 and 79; and
+(i) any contribution made by a person in that year under sections 73 and 79;
 
-(ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500.
+[40/2007 wef 01/10/2007]
+
+(ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500; and
+
+[40/2007 wef 01/10/2007]
+
+(iii) any contribution made in that year by that person or any other person under section 27B, 27C, 27D, 27E or 27F or under any regulations referred to in section 27G or 27H.
 
 [40/2007 wef 01/10/2007]
 
@@ -844,9 +892,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw such portion of the balance standing to the credit of that member in the Fund, after deducting any sum withdrawn, or to be withdrawn, under section 16A, as is set out in the memorandum executed in accordance with that section.
+(5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw, from the balance standing to the credit of that member in the Fund after deducting —
 
-[15/2006 wef 01/07/2006]
+(a) any sum withdrawn, or to be withdrawn, under section 16A;
+
+(b) any sum credited, or to be credited, to the account of another person under section 19(2) ; and
+
+[40/2007 wef 01/01/2008]
+
+(c) any sum transferred or paid, or to be transferred or paid, to another person under section 27B,
+
+such portion of that balance as is set out in the memorandum executed in accordance with section 25(1).
+
+[40/2007 wef 01/10/2007]
+
+[18/2009 wef 20/08/2009]
 
 (6) Subject to subsections (6A), (8) and (8A), a member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund shall, at the time of withdrawal and in accordance with any regulations made under this Act —
 
@@ -864,19 +924,25 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [18/2009 wef 01/09/2009]
 
-(6B) No memorandum executed under subsection (6A) shall be revocable during the subsistence of the marriage between the members unless the Board is satisfied that either or both of the members are —
+(6B) Any memorandum executed under subsection (6A) by 2 members of the Fund who are parties to a marriage —
 
-(a) physically or mentally incapacitated —
+(a) shall not be revocable during the subsistence of the marriage unless the Board is satisfied that either or both of the members are —
 
-(i) from ever continuing in any employment; or
+(i) physically or mentally incapacitated —
 
-(ii) in such other manner as the Minister may approve;
+(A) from ever continuing in any employment; or
 
-(b) of unsound mind;
+(B) in such other manner as the Minister may approve;
 
-(c) suffering from a medical condition leading to a severely impaired life expectancy; or
+(ii) of unsound mind;
 
-(d) suffering from a terminal illness or disease.
+(iii) suffering from a medical condition leading to a severely impaired life expectancy; or
+
+(iv) suffering from a terminal illness or disease; and
+
+(b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
+
+[40/2007 wef 01/10/2007]
 
 (6C) The minimum sum may be deposited with an approved bank or in a retirement account or used to purchase an approved annuity from an insurer.
 
@@ -996,7 +1062,7 @@ if the member and the related person or persons, as the case may be, agree to th
 
 [39/2000]
 
-(10) Where a member or his spouse or both of them jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+(10) Where a member or his spouse or both of them jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
 (a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
 
@@ -1012,7 +1078,7 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 [5/87]
 
-(10A) Where a member and one or more persons jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+(10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
 (a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
 
@@ -1030,7 +1096,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
 
-(11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
+(11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from an approved developer, from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
 [40/2007 wef 01/10/2007]
 
@@ -1087,6 +1153,10 @@ if the member and the person or persons, as the case may be, give an undertaking
 (16) In this section and section 15B —
 
 “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
+
+“approved developer” means an approved developer under Part IVB of the Housing and Development Act (Cap. 129);
+
+[40/2007 wef 01/10/2007]
 
 “Housing Authority” has the same meaning as in section 28;
 
@@ -1182,35 +1252,63 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Provisions relating to maintenance of minimum sum and amounts specified under section 15 (2A) (a), (7B) (a) and (8A) (a), and transfer or payment of moneys into retirement account
 
-18\.—(1) The Board may, for any of the purposes mentioned in section 15(6C) and subject to such terms and conditions as it may impose, permit —
+18\.—(1) The Board may, for any of the purposes mentioned in section 15(6C), and subject to any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose, permit —
 
-(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of his parent or spouse to be applied by the parent or spouse;
+(a) a member whose parent, grandparent, spouse or sibling has attained the age of 55 years to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of the parent, grandparent, spouse or sibling, as the case may be;
 
-(b) any person to voluntarily maintain a minimum sum with the Board; or
+(b) any person whose parent, grandparent, spouse or sibling has attained the age of 55 years to pay money into the retirement account of the parent, grandparent, spouse or sibling, as the case may be; or
 
-(c) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
+(c) any person to voluntarily maintain, in a retirement account with the Board —
 
-[10/94; 39/2000]
+(i) a minimum sum; or
+
+(ii) any other sum that the Board may allow, being a sum not exceeding such sum as may for the time being be specified by the Minister by notification in theGazetteunder section 18B(3)(b).
+
+[40/2007 wef 01/10/2007]
+
+(1A) All moneys transferred to or paid into a retirement account under subsection (1)(a) or (b) shall be applied in accordance with any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose.
+
+[40/2007 wef 01/10/2007]
 
 (2) The Board may, for any of the purposes mentioned in section 15(2A)(a), (7B)(a) and (8A)(a) and subject to such terms and conditions as it may impose, permit —
 
-(a) a member to transfer such portion of the sum standing to his credit in the Fund as the Board may determine to the retirement account of his parent or spouse to be applied by the parent or spouse; or
+(a) a member to transfer such portion of the sum standing to his credit in the Fund as the Board may determine to the retirement account of his parent, grandparent, spouse or sibling; or
 
-(b) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
+[40/2007 wef 01/10/2007]
+
+(b) any person to pay money into the retirement account of his parent, grandparent, spouse or sibling.
+
+[40/2007 wef 01/10/2007]
+
+[25/2008 wef 01/11/2008]
 
 [15/2006 wef 01/07/2006]
 
-### Transfer of member’s moneys in ordinary account to retirement account
+### Transfer of member’s moneys in ordinary account or special account to retirement account
 
-18A\. The Board may, subject to such terms and conditions as it may impose, permit a member to transfer such portion of the sum standing to his credit in the ordinary account as may be prescribed to his retirement account.
+18A\.—(1) The Board may, subject to such terms and conditions as it may impose, permit a member who has less than the prescribed amount standing to his credit in his retirement account to transfer a sum standing to his credit in his ordinary account or special account, or in both accounts, to his retirement account, being a sum not exceeding the difference between —
 
-[31/95]
+(a) the prescribed amount; and
+
+(b) the sum standing to his credit in his retirement account.
+
+(2) In this section, “prescribed amount” means such sum as may for the time being be specified by the Minister by notification in theGazetteunder section 18B(3)(b).
+
+[40/2007 wef 01/10/2007]
 
 ### Transfer of member’s moneys in ordinary account to special account
 
-18B\.—(1) Subject to subsection (2), a member who has less than the prescribed amount standing to his credit in his special account may apply to the Board to transfer a sum standing to his credit in his ordinary account, not exceeding the difference between the prescribed amount and the sum standing to his credit in his special account, to his special account.
+18B\.—(1) Subject to subsection (2), a member who has less than the prescribed amount standing to his credit in his special account may apply to the Board to transfer to his special account a sum standing to his credit in his ordinary account, being a sum not exceeding the difference between —
 
-[30/98]
+(a) the prescribed amount; and
+
+(b) the aggregate of —
+
+(i) the amount standing to his credit in his special account; and
+
+(ii) any amount withdrawn from his special account for the making of investments under any scheme in accordance with any regulations made under section 77(1)(n).
+
+[40/2007 wef 01/10/2007]
 
 (2) An application by a member to transfer the sum standing to his credit in his ordinary account to his special account under subsection (1) shall be irrevocable and the transfer shall be subject to such terms and conditions as the Board may determine.
 
@@ -1234,15 +1332,31 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
-### Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death
+### Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death
 
-19\.—(1) Any moneys transferred by a member to his parent’s or spouse’s retirement account or paid by any person into his parent’s, grandparent’s or spouse’s retirement account under section 18 shall be deemed to be contributions for the purposes of this Act and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent or the spouse, as the case may be.
+19\.—(1) Any moneys —
 
-[39/2000]
+(a) transferred by a member to his parent’s, grandparent’s, spouse’s or sibling’s retirement account under section 18(1)(a) or (2)(a); or
 
-(2) On the death of the parent, grandparent or the spouse, any moneys so transferred or paid or the balance thereof shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
+(b) paid by any person into his parent’s, grandparent’s, spouse’s or sibling’s retirement account under section 18(1)(b) or (2)(b),
 
-[10/94; 39/2000]
+shall be deemed to be contributions for the purposes of this Act, and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent, spouse or sibling, as the case may be.
+
+(2) Subject to subsections (3) and (4), on the death of the parent, grandparent, spouse or sibling, the moneys transferred or paid under section 18(1) or (2), or the balance thereof, shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
+
+(3) Where any moneys transferred or paid by a member to the retirement account of his parent, grandparent, spouse or sibling under section 18(1) or (2) are transferred or paid to any person under section 27B —
+
+(a) subsection (2) shall not apply to those moneys; and
+
+(b) the person to whom those moneys have been transferred or paid under section 27B shall be entitled to retain those moneys on the death of the parent, grandparent, spouse or sibling, as the case may be.
+
+(4) Where the Board has received notice, in accordance with any regulations made under section 77(1), that any moneys transferred or paid by a member to the retirement account of his parent, grandparent, spouse or sibling under section 18(1) or (2) are to be transferred or paid to any person under section 27B, and the Board has not, at the time of receipt of the notice, credited those moneys to the account of the member under subsection (2) —
+
+(a) subsection (2) shall not apply to those moneys; and
+
+(b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
+
+[40/2007 wef 01/10/2007]
 
 ### Withdrawals
 
@@ -1356,9 +1470,19 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 [19/83; 16/86]
 
-(10) A charge under subsection (1) shall continue in force until all the moneys secured by the charge have been repaid or are no longer required by any regulations made under section 77 to be repaid to the Fund or if the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e) in which event the member concerned or any other party having an interest in the immovable property shall be entitled to have the charge cancelled.
+(10) A charge under subsection (1) shall continue in force until —
 
-[19/83; 5/87]
+(a) all moneys secured by the charge —
+
+(i) have been repaid to the Fund; or
+
+(ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+
+(b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+
+in which event the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+
+[40/2007 wef 01/10/2007]
 
 (11) Subsections (4), (9) and (10) shall apply to all charges under subsection (1) securing the repayment of moneys withdrawn from the Fund pursuant to any regulations made under section 77.
 
@@ -1452,9 +1576,19 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [27/95]
 
-(9) A charge under subsection (1) shall continue in force until all the moneys secured by the charge have been repaid or are no longer required by any regulations made under section 77 to be repaid to the Fund or if the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e) in which event the member concerned or any other party having an interest in the immovable property shall be entitled to have the charge cancelled.
+(9) A charge under subsection (1) shall continue in force until —
 
-[27/95]
+(a) all moneys secured by the charge —
+
+(i) have been repaid to the Fund; or
+
+(ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+
+(b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+
+in which event the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+
+[40/2007 wef 01/10/2007]
 
 (10) Where costs, fees or other incidental expenses are incurred for the registration or notification of a charge under subsection (1) or section 21(4) or the discharge thereof, the Board may, subject to such terms and conditions as it may impose, authorise the whole or part of the amount standing to the member’s credit in the Fund to be withdrawn and used to pay such costs, fees and other incidental expenses.
 
@@ -1542,7 +1676,13 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 (11) Any charge constituted under subsection (1) shall continue in force until —
 
-(a) all moneys secured by the charge have been repaid or are no longer required by any regulations made under section 77 to be repaid to the Fund; or
+(a) all moneys secured by the charge —
+
+(i) have been repaid to the Fund; or
+
+(ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+
+[40/2007 wef 01/10/2007]
 
 (b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e).
 
@@ -1624,7 +1764,7 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 ### Protection of benefits
 
-24\.—(1) Notwithstanding any written or other law but subject to any regulations made under section 77(1) —
+24\.—(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27E, 27F, 27Gand 27H and any regulations made under section 77(1) —
 
 (a) no withdrawals made from the Fund under this Act and no rights of any member of the Fund acquired thereunder; and
 
@@ -1642,7 +1782,7 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 [57/2007 wef 28/12/2007]
 
-(2) Notwithstanding any written or other law , every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n), and the proceeds and benefits of the investment, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+(2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n), and the proceeds and benefits of the investment, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
 [15/2006 wef 01/07/2006]
 
@@ -1654,7 +1794,7 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (b) shall be deemed not to form part of the property of the member.
 
-(3A) Subject to section 16A , all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
+(3A) Subject to subsection (3B)and section 16A , all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
 
@@ -1672,6 +1812,10 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [22/2010 wef 01/10/2010]
 
+(3B) Where any money is payable to the spouse or former spouse of a member of the Fund under section 27B(1), (2) or (3) on the death of the member, subsection (3A) shall not apply to that money.
+
+[40/2007 wef 01/10/2007]
+
 (4) No contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
 
 [57/2007 wef 28/12/2007]
@@ -1688,7 +1832,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 ### Moneys payable on death of member
 
-25\.—(1) Any member of the Fund may by a memorandum executed in the prescribed manner nominate a person or persons to receive in his or their own right such portions of the amount payable on his death out of the Fund under section 20(1) or of any shares designated under section 26(1) as the memorandum shall indicate.
+25\.—(1) Any member of the Fund may by a memorandum executed in the manner prescribed by the Board nominate a person or persons to receive in his or their own right such portions of the amount payable on his death out of the Fund under section 20(1) or of any shares designated under section 26(1) as the memorandum shall indicate.
 
 [40/2007 wef 01/10/2007]
 
@@ -1775,6 +1919,508 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (4) [Deleted by Act 31/2003 wef 01/01/2004]
 
 (5) All applications for withdrawals under this section shall be in such form and shall be supported by such evidence as the Board may reasonably require.
+
+## PART IIIA
+
+DIVISION OF FUND-RELATED ASSETS IN MATRIMONIAL PROCEEDINGS
+
+### Interpretation of this Part
+
+27A\. In this Part and section 77(1)(ra) —
+
+“approved annuity” means an annuity approved by the Board for the purposes of section 15;
+
+“approved bank” means a bank approved by the Board for the purposes of section 15;
+
+“designated account” means such account maintained, or to be maintained, by the Board as may be prescribed by any regulations made under section 77(1);
+
+“HDB flat” has the same meaning as in section 21B(14);
+
+“order of court” means —
+
+(a) an order made under section 112 of the Women’s Charter (Cap. 353) in proceedings for divorce, judicial separation or nullity of marriage under Part X of the Women’s Charter; or
+
+(b) an order made under section 52(3)(d), (7) or (9) of the Administration of Muslim Law Act (Cap. 3) in proceedings for divorce or nullity of marriage under Part III of that Act;
+
+[2/2011 wef 01/06/2011]
+
+“public authority” has the same meaning as in section 21(12);
+
+“spouse” includes a former spouse.
+
+### Order of court for transfer or payment of money standing to credit of member
+
+27B\.—(1) Subject to subsections (2), (3) and (5), where, under an order of court, the spouse of a member of the Fund has been awarded any amount to be paid out from the money standing to the credit of the member in the Fund, including any money which is payable or repayable to the Fund to the credit of the member —
+
+(a) if the spouse is a citizen or permanent resident of Singapore, the Board shall, as directed by the order of court —
+
+(i) transfer the amount to one or more designated accounts maintained, or to be maintained, for the spouse in respect of the money standing to the credit of the spouse in the Fund, such transfer —
+
+(A) to take place as soon as practicable after the Board has received a copy of the order of court; and
+
+(B) to be in accordance with any regulations made under section 77(1) and subject to such terms and conditions as the Board may determine; or
+
+(ii) pay the amount to the spouse, such payment to take place —
+
+(A) after the member has died or become entitled to withdraw the sum standing to the credit of the member under section 15(2) or 27, whichever is the earliest in time; and
+
+(B) upon an application by the spouse for the withdrawal of the amount; or
+
+(b) if the spouse is not a citizen or permanent resident of Singapore, the Board shall pay the amount to the spouse, such payment to take place —
+
+(i) after the member has died or become entitled to withdraw the sum standing to the credit of the member under section 15(2) or 27, whichever is the earliest in time; and
+
+(ii) upon an application by the spouse for the withdrawal of the amount.
+
+(2) Subject to subsection (5), where the amount standing to the credit of a member in the Fund at the time of the transfer under subsection (1)(a)(i) or payment under subsection (1)(b), after deducting —
+
+(a) any amount which the Board is entitled to recover on behalf of the Government under section 14(3); and
+
+(b) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6),
+
+is less than the amount awarded under the order of court, the Board shall transfer or pay, as the case may be, the first-mentioned amount instead of the amount awarded under the order of court.
+
+(3) Subject to subsection (5), where the amount standing to the credit of a member in the Fund at the time of the payment under subsection (1)(a)(ii), after deducting —
+
+(a) any amount which the Board is entitled to recover on behalf of the Government under section 14(3);
+
+(b) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6);
+
+(c) the amounts which the member is required to set aside under sections 15 and 16; and
+
+(d) any amount which the member may be required to set aside under any condition referred to in section 27(2)(b) or (3),
+
+is less than the amount awarded under the order of court, the Board shall pay the first-mentioned amount instead of the amount awarded under the order of court.
+
+(4) A transfer or payment of money by the Board under subsection (2) or (3) —
+
+(a) shall be a good and valid discharge of the Board’s obligations under the order of court; but
+
+(b) shall not affect any recourse which the spouse may have against the member for the balance of the amount awarded under the order of court.
+
+(5) Where the order of court requires any amount to be paid or repaid to the Fund to the credit of the member before the Board makes any transfer or payment of money under subsection (1), (2) or (3), the Board shall not make the transfer or payment unless —
+
+(a) that amount has been paid or repaid to the Fund; and
+
+(b) the Board has been notified, in such manner as may be prescribed by any regulations made under section 77(1), of the payment or repayment of that amount.
+
+(6) The Board shall make a transfer or payment of money standing to the credit of a member of the Fund under subsection (1)(a)(i) or (b) or (2) —
+
+(a) notwithstanding sections 24, 25 and 26 and every restriction on withdrawal from the Fund under section 15, 16 or 27 or any regulations made under section 77(1); and
+
+(b) in priority to —
+
+(i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
+
+(ii) every deduction which the Board is entitled to make under section 32, 45 or 54 or any regulations made under section 77(1).
+
+[18/2009 wef 01/09/2009]
+
+(7) The Board shall make a payment of money standing to the credit of a member of the Fund under subsection (1)(a)(ii) or (3) —
+
+(a) notwithstanding sections 24, 25 and 26 and every restriction on withdrawal from the Fund under any regulations made under section 77(1); and
+
+(b) in priority to —
+
+(i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
+
+(ii) every deduction which the Board is entitled to make under section 32, 45 or 54 or any regulations made under section 77(1).
+
+[18/2009 wef 01/09/2009]
+
+(8) The money transferred under subsection (1)(a)(i) or (2) and any interest thereon may be withdrawn in accordance with this Act for such purposes and in such manner as may be prescribed by any regulations made under section 77(1).
+
+### Order of court for transfer or sale of immovable property in relation to which charge has been created under section 15 (9) or (9A)
+
+27C\.—(1) Where —
+
+(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+
+(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the minimum sum which the member is required to set aside;
+
+(c) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
+
+(d) the spouse is a citizen or permanent resident of Singapore,
+
+then, subject to any regulations made under section 77(1), the following provisions shall apply:
+
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the minimum sum which the member is required to set aside, that person shall pay to the Board that amount;
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the minimum sum which the member is required to set aside;
+
+(iii) if —
+
+(A) the immovable property is subsequently sold or otherwise disposed of; and
+
+(B) at the time of the sale or disposal —
+
+(BA) the spouse has not attained the age of 55 years; or
+
+(BB) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+
+the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+
+(iv) notwithstanding section 15(15)(e), upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable —
+
+(A) the charge referred to in paragraph (b) shall cease to secure the payment to the Board of the minimum sum which the member is required to set aside; and
+
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the payment to the Board of the minimum sum which the member is required to set aside;
+
+(v) if, at the time of the transfer of the member’s estate or interest in the immovable property to the spouse —
+
+(A) the spouse has not attained the age of 55 years; or
+
+(B) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+
+there shall be a charge on the spouse’s estate or interest in the immovable property to secure the payment referred to in paragraph (iii), such charge to subsist only until such time as the spouse has set aside the minimum sum which the spouse is required to set aside;
+
+(vi) sections 15(15)(b) to (e) and 21(12) shall apply, with the necessary modifications, to the charge under paragraph (v), and for the purposes of such application —
+
+(A) any reference to the charge under section 15(9) or (9A) shall be read as a reference to the charge under paragraph (v); and
+
+(B) any reference to the member shall be read as a reference to the spouse; and
+
+(vii) the charge under paragraph (v) —
+
+(A) shall be subject to all prior statutory rights and charges of any public authority over the immovable property; and
+
+(B) notwithstanding anything in the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269) —
+
+(BA) shall not be subject to any encumbrance registered or notified on or after the date of the notification of the charge referred to in paragraph (b); and
+
+(BB) shall rank equally with the charge referred to in paragraph (b), had it continued or if it continues to be in force, in the order of priority of interests in the immovable property.
+
+(2) Except in a case to which subsection (1) applies, where —
+
+(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+
+(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the minimum sum which the member is required to set aside; and
+
+(c) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
+
+the charge shall continue in force until —
+
+(i) an amount sufficient to cover the deficiency in the minimum sum which the member is required to set aside —
+
+(A) has been paid to the Board; or
+
+(B) is no longer required by any regulations made under section 77(1) to be paid to the Board; or
+
+(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+
+in which event the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+
+### Order of court for transfer or sale of immovable property in relation to which undertaking has been given under section 15 (10) or (10A)
+
+27D\.—(1) Where —
+
+(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+
+(b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
+
+(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside in the event the immovable property is sold or otherwise disposed of;
+
+(d) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
+
+(e) the spouse is a citizen or permanent resident of Singapore,
+
+then, subject to any regulations made under section 77(1), the following provisions shall apply:
+
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the minimum sum which the member is required to set aside, that person shall pay to the Board that amount;
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the minimum sum which the member is required to set aside;
+
+(iii) if —
+
+(A) the immovable property is subsequently sold or otherwise disposed of; and
+
+(B) at the time of the sale or disposal —
+
+(BA) the spouse has not attained the age of 55 years; or
+
+(BB) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+
+the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+
+(iv) upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable, the Board shall not enforce the undertaking under section 15(10) or (10A) against any person who has given that undertaking, in so far as it secures the refund to the Board of the minimum sum or part thereof which the member is required to set aside;
+
+(v) if, at the time of the transfer of the member’s estate or interest in the immovable property to the spouse —
+
+(A) the spouse has not attained the age of 55 years; or
+
+(B) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
+
+the spouse shall give an undertaking to pay to the Board, in the event the property is sold or otherwise disposed of, the amount referred to in paragraph (iii); and
+
+(vi) the Board shall not enforce any undertaking under paragraph (v) if the Board is satisfied of the occurrence of any of the following events:
+
+(A) the death of the spouse;
+
+(B) the spouse is suffering from a terminal illness or disease;
+
+(C) the spouse has complied with the requirements of section 15(2A), (6), (7B) or (8A);
+
+(D) the minimum sum set aside by the spouse under section 15(6) has been exhausted on account of withdrawals made by the spouse under section 15(7) or
+
+[18/2009 wef 01/09/2009]
+
+[22/2010 wef 01/01/2011]
+
+(E) the spouse satisfies any of the grounds for withdrawals under section 15(2)(b) or (c).
+
+[18/2009 wef 20/08/2009]
+
+(2) Except in a case to which subsection (1) applies, where —
+
+(a) a member of the Fund has withdrawn the minimum sum or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+
+(b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
+
+(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside in the event the immovable property is sold or otherwise disposed of; and
+
+(d) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
+
+the Board shall be entitled to enforce that undertaking against every person who has given that undertaking, in so far as it secures the refund to the Board of the minimum sum or part thereof which the member is required to set aside, until —
+
+(i) the minimum sum or part thereof which the member is required to set aside —
+
+(A) has been refunded to the Board; or
+
+(B) is no longer required by any regulations made under section 77(1) to be refunded to the Board; or
+
+(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+
+in which event the Board shall not enforce that undertaking.
+
+### Order of court for transfer or sale of immovable property in relation to which charge under section 21 (1) or 21A (1) exists
+
+27E\.—(1) Where —
+
+(a) a member of the Fund has withdrawn any money standing to his credit in the Fund for all or any of the purposes referred to in section 21(1) or 21A(1);
+
+(b) the immovable property in relation to which the money was withdrawn is purchased or owned by the member, whether solely or as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more other persons;
+
+(c) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
+
+(d) the spouse is a citizen or permanent resident of Singapore,
+
+then, subject to any regulations made under section 77(1), the following provisions shall apply:
+
+(i) the member or, if the order of court requires any person to do so, that person shall pay to the Fund to the credit of the member —
+
+(A) any amount which the Board is entitled to recover on behalf of the Government under section 14(3);
+
+(B) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6); and
+
+(C) such other amount, if any, as the order of court may require to be paid to the Fund to the credit of the member;
+
+(ii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+
+(iii) notwithstanding sections 21(10) and 21A(9), upon the transfer of the member’s estate or interest in the immovable property to his spouse and upon payment in accordance with paragraph (i), if applicable —
+
+(A) any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall cease to secure the repayment of the money withdrawn from the Fund by the member (including the interest that would have accrued thereto if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account; and
+
+[57/2007 wef 01/01/2008]
+
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the repayment of the money withdrawn from the Fund by the member (including the interest that would have accrued thereto if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account;
+
+[57/2007 wef 01/01/2008]
+
+(iv) there shall be a charge on the spouse’s estate or interest in the immovable property to secure —
+
+(A) the payment referred to in paragraph (ii); and
+
+(B) the payment of the minimum sum into the spouse’s retirement account;
+
+(v) section 21(1A), (2), (4), (5) and (7) to (12) or sections 21(12) and 21A(1A) to (4) and (6) to (9), as the case may be, shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
+
+(A) any reference to the charge under section 21(1) or 21A(1) shall be read as a reference to the charge under paragraph (iv); and
+
+(B) any reference to the member shall be read as a reference to the spouse; and
+
+(vi) the charge under paragraph (iv) —
+
+(A) shall be in addition to any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property to secure the repayment of any money withdrawn from the Fund (for all or any of the purposes referred to in section 21(1) or 21A(1)) by any person other than the member (including the interest that would have accrued thereto if the withdrawal had not been made) and the payment of the minimum sum into that person’s retirement account;
+
+[57/2007 wef 01/01/2008]
+
+(B) shall be subject to all statutory rights and charges of any public authority over the immovable property; and
+
+(C) notwithstanding anything in the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), in the absence of any agreement as to priority —
+
+(CA) shall not be subject to any encumbrance registered or notified on or after the date of acceptance by the Registrar of the instrument to register or notify the charge referred to in paragraph (iii); and
+
+(CB) shall rank equally with the charge referred to in paragraph (iii), had it continued or if it continues to be in force, in the order of priority of interests in the immovable property.
+
+(2) Except in a case to which subsection (1) applies, where —
+
+(a) a member of the Fund has withdrawn any money standing to his credit in the Fund for all or any of the purposes referred to in section 21(1) or 21A(1);
+
+(b) the immovable property in relation to which the money was withdrawn is purchased or owned by the member, whether solely or as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more other persons; and
+
+(c) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
+
+any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall continue in force until —
+
+(i) all moneys secured by the charge —
+
+(A) have been repaid to the Fund; or
+
+(B) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+
+(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
+
+in which event the member, the person referred to in paragraph (c) or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
+
+### Order of court for transfer or sale of HDB flat in relation to which charge has been constituted under section 21B (1)
+
+27F\.—(1) Where —
+
+(a) a member of the Fund has withdrawn any money standing to his credit in the Fund for all or any of the purposes referred to in section 21B(1);
+
+(b) the HDB flat in relation to which the money was withdrawn is owned by the member, whether solely or jointly with one or more other persons;
+
+(c) an order of court is made requiring the transfer (other than by way of sale) of the member’s interest in the HDB flat to his spouse; and
+
+(d) the spouse is a citizen or permanent resident of Singapore,
+
+then, subject to any regulations made under section 77(1), the following provisions shall apply:
+
+(i) the member or, if the order of court requires any person to do so, that person shall pay to the Fund to the credit of the member —
+
+(A) any amount which the Board is entitled to recover on behalf of the Government under section 14(3);
+
+(B) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6); and
+
+(C) such other amount, if any, as the order of court may require to be paid to the Fund to the credit of the member;
+
+(ii) if the HDB flat is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
+
+(iii) notwithstanding section 21B(11), upon the transfer of the member’s interest in the HDB flat to his spouse and upon payment in accordance with paragraph (i), if applicable, any charge constituted on the HDB flat under section 21B(1) shall cease to secure —
+
+(A) the repayment of the money withdrawn from the Fund by the member, including the interest that would have accrued thereto if the withdrawal had not been made; and
+
+[57/2007 wef 01/01/2008]
+
+(B) the payment of the minimum sum into the member’s retirement account,
+
+and, if those are the only moneys secured by that charge, shall cease to be in force;
+
+(iv) there shall be a charge constituted on the HDB flat to secure —
+
+(A) the payment referred to in paragraph (ii); and
+
+(B) the payment of the minimum sum into the spouse’s retirement account;
+
+(v) sections 21(12) and 21B(2), (3)(a), (b) and (d), (4) to (11) and (14) shall apply, with the necessary modifications, to the charge under paragraph (iv), and for the purposes of such application —
+
+(A) any reference to the charge under section 21B(1) shall be read as a reference to the charge under paragraph (iv);
+
+(B) any reference to the member shall be read as a reference to the spouse; and
+
+(C) any reference to an encumbrance specified in section 21B(3)(c) shall be read as a reference to an encumbrance referred to in paragraph (vii);
+
+(vi) the charge under paragraph (iv) shall be in addition to the charge referred to in paragraph (iii), if the charge referred to in paragraph (iii) continues to be in force; and
+
+(vii) notwithstanding anything in the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), in the absence of any agreement as to priority, the charge under paragraph (iv) —
+
+(A) shall not be subject to any encumbrance registered or notified on or after the date of the constitution of the charge referred to in paragraph (iii); and
+
+(B) shall rank equally with the charge referred to in paragraph (iii), had it continued or if it continues to be in force, in the order of priority of interests in the HDB flat.
+
+(2) Except in a case to which subsection (1) applies, where —
+
+(a) a member of the Fund has withdrawn any money standing to his credit in the Fund for all or any of the purposes referred to in section 21B(1);
+
+(b) the HDB flat in relation to which the money was withdrawn is owned by the member, whether solely or jointly with one or more other persons; and
+
+(c) an order of court is made requiring the transfer or sale of the member’s interest in the HDB flat to any person,
+
+any charge constituted on the HDB flat under section 21B(1) shall continue in force until —
+
+(i) all moneys secured by the charge —
+
+(A) have been repaid to the Fund; or
+
+(B) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
+
+(ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e).
+
+### Order of court for transfer of investments
+
+27G\.—(1) Where —
+
+(a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations) which, but for section 24, would have been transferable to another person;
+
+(b) an order of court is made requiring the transfer of the member’s interest in the investment to his spouse; and
+
+(c) the spouse is a citizen or permanent resident of Singapore,
+
+then, subject to subsection (2) and any regulations made under section 77(1), the following provisions shall apply:
+
+(i) the obligation to effect the transfer of the member’s interest in the investment to the spouse shall lie with the member and not the Board;
+
+(ii) upon the transfer of the member’s interest in the investment to the spouse —
+
+(A) the spouse shall be deemed to have made the investment under the scheme and to have assumed the member’s obligations under the relevant regulations in relation to the investment; and
+
+(B) the member shall cease to be liable to perform any obligation under the relevant regulations in relation to the investment; and
+
+(iii) if the investment is subsequently sold or otherwise disposed of, the proceeds from the sale or disposal shall be dealt with in such manner as may be prescribed by any regulations made under section 77(1).
+
+(2) A member’s interest in an investment shall not be transferred to his spouse under subsection (1) unless and until the spouse meets such criteria and has complied with such requirements as may be prescribed in any regulations made under section 77(1).
+
+### Order of court for sale of investments
+
+27H\.—(1) Where —
+
+(a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
+
+(b) an order of court is made requiring the sale of the member’s interest in the investment,
+
+then, subject to any regulations made under section 77(1), the following provisions shall apply:
+
+(i) the obligation to effect the sale of the member’s interest in the investment shall lie with the member and not the Board;
+
+(ii) upon the sale of the member’s interest in the investment, the proceeds from the sale shall be dealt with in accordance with the relevant regulations; and
+
+(iii) if, under any order of court, the member’s spouse is awarded the proceeds from the sale of the member’s interest in the investment or any part thereof, or any other amount to be paid out from the money standing to the credit of the member in the Fund after the proceeds have been repaid to the Fund to the credit of the member —
+
+(A) section 27B shall apply to the proceeds or part thereof or other amount, and the proceeds or part thereof shall be regarded as money repayable to the Fund to the credit of the member for the purposes of section 27B(1) and (5);
+
+(B) where under the relevant regulations the proceeds are not immediately repayable to the Fund to the credit of the member, the obligation to initiate the repayment of the proceeds or part thereof to the Fund to the credit of the member shall lie with the member and not the Board;
+
+(C) when the proceeds or part thereof have been repaid to the Fund, the member shall notify the Board of the repayment for the purposes of section 27B(5); and
+
+(D) the Board shall be under no obligation to ascertain whether, or to ensure that —
+
+(DA) the member has complied with the order of court requiring the sale of the member’s interest in the investment;
+
+(DB) the proceeds or part thereof awarded to the member’s spouse, or required to be repaid to the Fund to the credit of the member, have been repaid to the Fund; or
+
+(DC) the contents of any notification of repayment given by the member for the purposes of section 27B(5) are true and correct.
+
+### Miscellaneous matters
+
+27I\.—(1) Any obligation of a member of the Fund to set aside any amount under section 15 or 16, or under any condition referred to in section 27(2)(b) or (3), shall not be affected by —
+
+(a) any transfer or payment of any money standing to the credit of the member under section 27B(1), (2) or (3);
+
+(b) any transfer (other than by way of sale) of the member’s estate or interest in any immovable property under section 27C(1), 27D(1) or 27E(1);
+
+(c) any transfer (other than by way of sale) of the member’s interest in any HDB flat under section 27F(1);
+
+(d) any transfer of the member’s interest in any investment under section 27G; or
+
+(e) any sale of the member’s interest in any investment under section 27H.
+
+(2) Where an order of court requires the Board to do anything —
+
+(a) the Board shall not be liable to give effect to that requirement unless the order of court has been served on the Board in such manner as may be prescribed by any regulations made under section 77(1); and
+
+(b) the Board shall not be liable for any act or omission of the Board contrary to that requirement which was committed on or before the date of such service.
+
+(3) Where an order of court requires the Board to do anything in contravention of this Act, the Board shall not be liable to give effect to that requirement.
 
 ## PART IV
 
@@ -1892,7 +2538,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act.
+(3) The deduction referred to in subsection (2) shall have priority to the deductions which the Board is authorised to make under all other provisions of this Act except section 27B.
 
 [40/2007 wef 01/10/2007]
 
@@ -2278,7 +2924,7 @@ MEDISHIELD SCHEME
 
 ### Establishment of MediShield Scheme
 
-53\. The Board may establish and maintain a medical insurance scheme to be known as the MediShield Scheme for the purpose of paying the full or part of the costs incurred by an insured person for the treatment received by him in an approved hospital at any time during the period which he is insured under the Scheme.
+53\. The Board may establish and maintain a medical insurance scheme to be known as the MediShield Scheme for the purpose of paying the full or part of the costs incurred by an insured person for the medical treatment or services received by him in an approved hospital at any time during the period which he is insured under the Scheme.
 
 [57/2007 wef 01/10/2007]
 
@@ -2424,6 +3070,18 @@ OFFENCES, PENALTIES AND PROCEEDINGS
 
 he shall be guilty of an offence.
 
+### Offences relating to investments
+
+58A\.—(1) No person shall, directly or indirectly, in connection with the making of any investment under any scheme in accordance with any regulations made under section 77(1)(n) or the sale or disposal of any such investment —
+
+(a) employ any device, scheme or artifice to defraud; or
+
+(b) engage in any act, practice or course of business which operates as a fraud or deception, or is likely to operate as a fraud or deception, upon any person.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[40/2007 wef 01/10/2007]
+
 ### Publication of information to unauthorised person
 
 59\.—(1) Any person employed by the Board who, without lawful authority, publishes or communicates to any person, otherwise than in the ordinary course of his duty or employment, any information acquired by him in the course of his duty or employment shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.
@@ -2462,13 +3120,25 @@ he shall be guilty of an offence.
 
 61A\. Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
 
-### Recovery of contributions upon conviction
+### Recovery of contributions, etc., upon conviction
 
 61B\.—(1) The court before which any conviction under section 7(3) or 61 is had may in addition to the fine prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
 
 [39/2000]
 
-(2) The court may order that the amount ordered to be paid under subsection (1) be recoverable —
+(1A) Where —
+
+(a) a member of the Fund has withdrawn any amount from his ordinary account or special account in connection with any investment made under any scheme in accordance with any regulations made under section 77(1)(n);
+
+(b) the member is convicted of an offence under this Act or any other written law in connection with that investment; and
+
+(c) the Board has required that member to refund or transfer to his ordinary account or special account such amount as may be prescribed by those regulations,
+
+the court before which the conviction is had may, in addition to the fine prescribed under this Act or penalty prescribed under that law, order that member to refund or transfer to his ordinary account or special account, as the case may be, in accordance with such directions as the Board may give, the amount certified by an officer appointed by the Board in that behalf to be due from that member, under paragraph (c), at the date of the refund or transfer.
+
+[40/2007 wef 01/10/2007]
+
+(2) The court may order that the amount ordered to be paid under subsection (1), or refunded or transferred under subsection (1A), be recoverable —
 
 (a) according to the law for the time being in force relating to the recovery of fines; or
 
@@ -2478,7 +3148,7 @@ he shall be guilty of an offence.
 
 [40/2007 wef 01/10/2007]
 
-(3) Where the court orders that the amount ordered to be paid under subsection (1) to be recoverable in the manner mentioned in subsection (2)(b), the court shall certify the amount to be paid and the Board may recover the amount so certified in any civil court of competent jurisdiction as though the amount were a judgment debt due to the Board.
+(3) Where the court orders that the amount ordered to be paid under subsection (1), or refunded or transferred under subsection (1A), to be recoverable in the manner mentioned in subsection (2)(b), the court shall certify the amount to be paid, refunded or transferred and the Board may recover the amount so certified in any civil court of competent jurisdiction as though the amount were a judgment debt due to the Board.
 
 [40/2007 wef 01/10/2007]
 
@@ -2564,7 +3234,7 @@ he shall be guilty of an offence.
 
 ### Recovery of sums due to Fund
 
-65\. Any sum due to the Fund may be sued for and recovered by the Board under the Government Proceedings Act (Cap. 121) as if it were a debt due to the Government.
+65\. Any sum due to the Fund, including any sum required by the Board or ordered by a court to be paid, repaid, refunded or transferred to any account maintained for a member of the Fund in respect of the moneys standing to the credit of the member in the Fund, may be sued for and recovered by the Board under the Government Proceedings Act (Cap. 121) as if it were a debt due to the Government.
 
 [40/2007 wef 01/10/2007]
 
@@ -2576,9 +3246,19 @@ he shall be guilty of an offence.
 
 [24/2005 wef 17/09/2005]
 
-### Certificate of Board on non-payment of contributions
+### Certificate of Board
 
 66A\. In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
+
+(1) In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
+
+[40/2007 wef 01/10/2007]
+
+[30/98]
+
+(2) Where the Board has required a member of the Fund to refund or transfer to his ordinary account or special account such amount as may be prescribed by any regulations made under section 77(1)(n), a certificate purporting to be issued by the Board certifying the amount due from the member at any date shall, in any proceedings relating to the recovery of that amount, be prima facie evidence that the amount so stated is due and payable by the member named in the certificate at that date.
+
+[40/2007 wef 01/10/2007]
 
 [30/98]
 
@@ -2592,11 +3272,11 @@ he shall be guilty of an offence.
 
 MISCELLANEOUS
 
-### Protection of employee’s interest in execution proceedings and sale under mortgage or charge
+### Protection of employee’s or member’s interest in execution proceedings and sale under mortgage or charge
 
 68\.—(1) Where —
 
-(a) a writ of seizure and sale` has been issued in execution of a judgment against an employer and any movable or immovable property or other assets belonging to the employer has been seized or sold or otherwise realised in pursuance of the execution; and
+(a) a writ of seizure and sale` has been issued in execution of a judgment against an employer or a member and any movable or immovable property or other assets belonging to the employer or member has been seized or sold or otherwise realised in pursuance of the execution; and
 
 [40/2007 wef 01/10/2007]
 
@@ -2606,7 +3286,7 @@ no part of the proceeds shall be paid to an execution creditor, unless the court
 
 (2) Where —
 
-(a) a writ of distress has been issued under the Distress Act (Cap. 84) to distrain the property of a tenant who is an employer and any movable property belonging to the employer is seized in execution of the writ; and
+(a) a writ of distress has been issued under the Distress Act (Cap. 84) to distrain the property of a tenant who is an employer or a member and any movable property belonging to the employer or member is seized in execution of the writ; and
 
 [40/2007 wef 01/10/2007]
 
@@ -2618,7 +3298,7 @@ no part of the proceeds shall be paid to the landlord unless the court issuing t
 
 (3) Where —
 
-(a) a garnishee order has been issued in execution of a judgment against an employer ; and
+(a) a garnishee order has been issued in execution of a judgment against an employer or a member; and
 
 [40/2007 wef 01/10/2007]
 
@@ -2635,6 +3315,20 @@ no amount of the debt sought to be attached under the garnishee order shall be p
 (b) the Board gives notice to the Sheriff or other officer charged with the conduct of the sale that a sum of money is due by the debtor to the Fund,
 
 the proceeds of the sale shall not be paid to any creditor other than to the Government or a secured creditor unless the court ordering the sale has ascertained and provided for the amount due to the Fund at the date of the sale or unless the court is satisfied that all sums due to the Fund have been paid up to the date of sale.
+
+(5) In any distribution of —
+
+(a) any proceeds referred to in subsection (1), (2) or (4); or
+
+(b) any amount sought to be attached under a garnishee order referred to in subsection (3),
+
+any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to any sum due to the Fund under section 61B(1A).
+
+[40/2007 wef 01/10/2007]
+
+(6) For the purposes of this section, any reference to an amount or a sum due to the Fund shall be construed as including a reference to an amount or a sum required by the Board or ordered by a court to be paid, repaid, refunded or transferred to any account maintained for a member of the Fund in respect of the moneys standing to the credit of the member in the Fund.
+
+[40/2007 wef 01/10/2007]
 
 ### Power to exempt
 
@@ -2764,7 +3458,17 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 [15/2006 wef 01/07/2006]
 
-(o) to prescribe for the purposes of section 15(6) the minimum sum which is required to be set aside or topped-up by a member at the time of the withdrawal of the sum standing to his credit in the Fund, the method of computing the minimum sum and the amount or manner in which the minimum sum may be withdrawn after a member has attained the age of 60 years or such other age as may be prescribed and different minimum sums may be prescribed for different classes of members, and for the purposes of section 18;
+(o) for the purposes of sections 15(6) and 18(1) and (1A) and, in particular, to prescribe —
+
+(i) the minimum sum referred to in section 15(6)(a), including different minimum sums for different classes of members;
+
+(ii) the method of computing the minimum sum; and
+
+(iii) the amount of the minimum sum which may be withdrawn, and the manner in which the minimum sum may be withdrawn, after a member has attained the age of 60 years or such other age as may be prescribed;
+
+[25/2008 wef 01/11/2008]
+
+[40/2007 wef 01/10/2007]
 
 (p) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
 
@@ -2778,7 +3482,25 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (ii) improvement contributions due to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
-including the payment of costs, fees or other incidental expenses arising from such works; and
+including the payment of costs, fees or other incidental expenses arising from such works;
+
+[23/2005 wef 15/08/2005]
+
+[40/2007 wef 01/10/2007]
+
+(ra) for the purposes of Part IIIA and, in particular, to prescribe —
+
+(i) the procedure and requirements for and manner of effecting, and any other matter relating to, the transfer of money standing to the credit of a member to any designated account of his spouse;
+
+(ii) the procedure and requirements for and manner of effecting, and any other matter relating to, the payment of money standing to the credit of a member to his spouse;
+
+(iii) any matter relating to the transfer (other than by way of sale) of a member’s estate or interest in any immovable property or HDB flat to his spouse pursuant to an order of court;
+
+(iv) any matter relating to the transfer of a member’s interest in any investment to his spouse under section 27G; and
+
+(v) any matter relating to the sale of a member’s interest in any investment under section 27H; and
+
+[40/2007 wef 01/10/2007]
 
 (s) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
 
@@ -2794,7 +3516,7 @@ including the payment of costs, fees or other incidental expenses arising from s
 
 (b) to provide for the keeping of books, accounts or records by employers;
 
-(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B) , (7A) (a), (b), (ba) or (c), (8) (a), (b), (c) or (d) or (15) (e) (ii), 36 (2) or 49(2);
+(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B) (a) , (7A) (a), (b), (ba) or (c), (8) (a), (b), (c) or (d) or (15) (e) (ii), 27D (vi) (B), 36 (2) or 49(2);
 
 [15/2006 wef 01/07/2006]
 
@@ -3178,8 +3900,6 @@ An amount equal to the sum of —
 (b) 10% of the amount of the additional wages payable to the employee in the month.
 
 (b) 5% of the amount of the additional wages payable to the employee in the month.
-
-[S 324/2007 wef 01/07/2007]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4577,10 +5297,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (a) a person shall be deemed to have attained 35, 50, 55, 60 or 65 years of age on the thirty-fifth, fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 35, 50, 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
 
-[S 801/2004 wef 01/01/2005]
-
-[S 324/2007 wef 01/07/2007]
-
 (b) the contribution payable by the employer shall be rounded off to the nearest dollar except where the fraction of a dollar is 50 cents, it shall be regarded as a dollar;
 
 (c) in calculating the amount recoverable by the employer from the employee’s wages, fraction of a dollar shall be ignored;
@@ -5446,6 +6162,16 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 July 2006|
 |149.|**G.N. No. S 324/2007—Central Provident Fund Act (Amendment of First Schedule) Notification 2007**|
 ||Date of commencement|1 July 2007|
+|150.|**Act 40 of 2007—Central Provident Fund (Amendment) Act 2007**|
+||Date of First Reading|16 July 2007|
+|||(Bill No. 28/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Dates of commencement|1 October 2007 (Except Section 5(1), (d) and (2), 6(a), (b), (d))|
+|151.|**Act 57 of 2007—Central Provident Fund (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 44/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Dates of commencement|1 October 2007 (section 16)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
