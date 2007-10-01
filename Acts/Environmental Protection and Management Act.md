@@ -1642,7 +1642,15 @@ MISCELLANEOUS PROVISIONS
 
 ### Composition of offences
 
-72\.—(1) The Director-General may, in his discretion, compound any offence under this Act which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
+72\.—(1) The Director-General may, in his discretion, compound any offence under this Act which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) $15,000,
+
+whichever is the lower.
+
+[4/2002]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence except that any compensation, damages, fees, costs or expenses which are provided to be paid under this Act shall remain payable.
 
@@ -2663,11 +2671,7 @@ Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
 Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
-[S 492/2004 wef 15/09/2004]
-
 [S 78/2005 wef 16/02/2005]
-
-[S 492/2004 wef 15/09/2004]
 
 Part II
 
@@ -2894,6 +2898,11 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 December 2005|
 |10.|**G. N. No. S 296/2007—Environmental Pollution Control Act (Amendment Of Second Schedule) Order 2007**|
 ||Date of commencement|1 July 2007|
+|11.|**Act 26 of 2007—Environmental Pollution Control (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 13/2007 published on 22 June 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|Date of coming into operation: 1st October 2007 (Section 5)|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
