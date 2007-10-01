@@ -174,7 +174,7 @@
 
 - [75 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**THE SCHEDULE List of registrable basic medical qualifications**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1744,6 +1744,8 @@ before he may be registered.
 
 Sections 21 and 71
 
+List of registrable basic medical qualifications
+
 First column
 
 Second column
@@ -1802,12 +1804,7 @@ Austria
 
 1. Medizinische Universitat Wien
 
-Medicinae
-
-
-
-
-Universalis Doctor
+Medicinae Universalis Doctor
 
 2. Medizinische Universitat Innsbruck
 
@@ -1815,7 +1812,7 @@ Medicinae Universalis Doctor
 
 Belgium
 
-1. Katholieke Universiteit Leuven
+1. Faculteit Geneeskunde, Katholieke Universiteit Leuven
 
 Arts (Physician)
 
@@ -1857,7 +1854,7 @@ MD
 
 MD
 
-10.College of Medicine, University of Saskatchewan
+10. College of Medicine, University of Saskatchewan
 
 MD
 
@@ -1879,58 +1876,33 @@ Doctor of Medicine
 
 Denmark
 
-1. Aarhus Universitet
+1. Det Sundhedsvidenskabelige Fakultet, Aarhus Universitet
 
-Candidatus
-
-
-
-
-Medicinae
+Candidatus Medicinae
 
 Finland
 
-1. University of Helsinki
+1. Faculty of Medicine, University of Helsinki
 
-Licenciate in
-
-
-
-
-Medicine
+Licenciate in Medicine
 
 France
 
-1. Universite de Louis Pasteur
+1. Faculté de Medeciné, Université de Louis Pasteur (ULP) Strasbourg
 
-Docteur en
+Docteur en Medecine
 
+2. Faculté de Medeciné, Université Pierre et Marie Curie (UPMC)
 
-
-
-Medecine
-
-2. Univ Pierre et Marie Curie
-
-
-
-
-(Paris VI), Broussais-hotel-dieu
-
-Docteur en
-
-
-
-
-Medecine
+Docteur en Medecine
 
 Germany
 
-1. Ruprecht-Karls-Universitaet Heidelberg
+1. Medizinische Fakultät Heidelberg, Ruprecht-Karls-Universität Heidelberg
 
 Zweiter Abschnitt Certificate
 
-2. Ludwig-Maximilians-Universitaet Munchen
+2. Medizinische Fakultat, Ludwig-Maximilians-Universität Munchen
 
 Zweiter Abschnitt Certificate
 
@@ -1938,16 +1910,11 @@ Zweiter Abschnitt Certificate
 
 Hochschulabschluss
 
-4. Johann-Wolfgang-Goethe-
-
-
-
-
-Universitaet Frankfurt
+4. Fachbereiche Medizin, Johann-Wolfgang-Goethe Universität (Frankfurt Am Main)
 
 Zweiter Abschnitt Certificate
 
-Hong Kong Special Administrative Region, Peoples’ Republic of China
+Hong Kong Special Administrative Region, People’s Republic of China
 
 1. Faculty of Medicine, Chinese University of Hong Kong
 
@@ -1989,6 +1956,22 @@ MB BS
 
 MB BS
 
+6. Lady Hardinge Medical College (New Delhi), University of Delhi
+
+MB BS
+
+7. Grant Medical College (Mumbai), Maharashtra University of Health Sciences
+
+MB BS
+
+8. St. John’s Medical College (Bangalore), Rajiv Gandhi University of Health Sciences
+
+MB BS
+
+9. Madras Medical College (Chennai), Tamil Nadu Dr.M.G.R. Medical University
+
+MB BS
+
 Ireland
 
 1. Faculty of Health Sciences, University of Dublin (Trinity College)
@@ -2023,21 +2006,21 @@ MD
 
 Italy
 
-1. Universita Degli Studi di Roma La Sapienza (Facolta I and II)
+1. Facoltà Medicina e Chirurgia I and II, Sapienza Università di Roma
 
 Laurea in Medicinae Chirurgia
 
-2. Universita Degli Studi di Firenze
+2. Facoltà Medicina e Chirurgia , Università degli Studi di Firenze
 
 Laurea in Medicinae Chirurgia
 
 Japan
 
-1. University of Tokyo
+1. Faculty of Medicine, University of Tokyo
 
 Igakushi (Bachelor of Medicine)
 
-2. Kyoto University
+2. Faculty of Medicine, Kyoto University
 
 Igakushi (Bachelor of Medicine)
 
@@ -2049,14 +2032,25 @@ Igaku (Bachelor of Medicine)
 
 Igaku (Bachelor of Medicine)
 
+5. School of Medicine (Tokyo), Keio University
+
+Igaku (Bachelor of Medicine)
+
+6. Faculty of Medicine, Nagoya University
+
+Igaku (Bachelor of Medicine)
+
+7. Faculty of Medicine (Fukuoka), Kyushu University
+
+Igaku (Bachelor of Medicine)
+
+8. Tokyo Women’s Medical University
+
+Igaku (Bachelor of Medicine)
+
 Malaysia
 
-1. Faculty of Medicine, Universiti Malaya
-
-
-
-
-(Kuala Lumpur)
+1. Faculty of Medicine, Universiti Malaya (Kuala Lumpur)
 
 MB BS
 
@@ -2066,7 +2060,7 @@ Doktor Perubatan
 
 Netherlands
 
-1. Erasmus Universiteit
+1. Erasmus Medisch Centrum, Erasmus Universiteit Rotterdam
 
 Arts
 
@@ -2074,7 +2068,11 @@ Arts
 
 Arts
 
-3. Universiteit Van Amsterdam
+3. Academisch Medisch Centrum, Universiteit Van Amsterdam
+
+Arts
+
+4. Faculty of Medicine/Leiden University Medical Center, Universiteit Leiden
 
 Arts
 
@@ -2090,7 +2088,7 @@ MB ChB
 
 Norway
 
-1. Universitetet I Oslo
+1. Det Medisinske Fakultet, Universitetet I Oslo
 
 Candidatus Medicinae
 
@@ -2102,16 +2100,35 @@ MB BS
 
 People’s Republic of China
 
-1. Peking University Health Science Centre (PUHSC) – formerly known as Beijing Medical University
+1. Peking University Health Science Centre (PUHSC)
 
 Bachelor of Medicine
 
-2. Fudan University
+2. Shanghai Medical College, Fudan University
 
+Bachelor of Medicine
 
+3. Peking Union Medical College (PUMC), Tsinghua University
 
+Bachelor of Medicine
 
-(Medical Center)
+4. Shanghai Jiao Tong University School of Medicine
+
+Bachelor of Medicine
+
+5. Sun Yat-Sen College of Medical Science (Guangdong), Sun Yat-Sen University
+
+Bachelor of Medicine
+
+6. Zhejiang University School of Medicine
+
+Bachelor of Medicine
+
+7. School of Medicine , Wuhan University
+
+Bachelor of Medicine
+
+8. The West China College of Medicine, Sichuan University
 
 Bachelor of Medicine
 
@@ -2122,6 +2139,15 @@ South Korea
 Hak Sa
 
 2. Yonsei University College of Medicine (Seoul)
+
+Eui-haksa
+
+3. College of Medicine
+
+
+
+
+(Seoul), Korea University
 
 Eui-haksa
 
@@ -2147,31 +2173,50 @@ Sweden
 
 Lakarexamen
 
-2. Uppsala Universitet
+2. Medicinska Fakulteten, Uppsala Universitet
 
 Lakarexamen
 
-3. Universitetet I Lund
+3. Medicinska Fakulteten, Lunds Universitet
 
 Lakarexamen
 
 Switzerland
 
-1. Universitat Zurich
+1. Medizinische Fakultät, Universität Zürich
 
 Diplome Federal
 
-2. Universite de Geneve
+2. Faculté de Medecine, Université de Genevè
 
 Diplome Federal
 
-3. Universitat Basel
+3. Medizinische Fakultät, Universität Basel
 
 Diplome Federal
 
-4. Universitat Bern
+4. Medizinische Fakultät, Universität Bern
 
 Diplome Federal
+
+5. Faculté de Medicine,
+
+
+
+
+Université de Lausanne (UNIL)
+
+Diplome Federal
+
+Taiwan
+
+1. College of Medicine (Taipei), National Taiwan University
+
+Doctor of Medicine
+
+2. College of Medicine (Taoyuan), Chang Gung University
+
+Bachelor of Medicine
 
 United
 
@@ -2226,23 +2271,24 @@ MB ChB
 
 12. The University of London Medical Schools, as follows:
 
-(a) King’s College London School of Medicine
+(a) Kings College London
+
+
+
+
+School of Medicine
 
 MB BS
 
-(b) Imperial College London
+(b) Barts and The London Queen Mary’s School of Medicine and Dentistry
 
 MB BS
 
-(c) Barts and The London Queen Mary’s School of Medicine and Dentistry
+(c) Royal Free and University College Medical School
 
 MB BS
 
-(d) Royal Free and University College Medical School
-
-MB BS
-
-(e) St. George’s University of London
+(d) St. George’s University of London
 
 MB BS
 
@@ -2277,6 +2323,10 @@ MB ChB
 20. College of Medicine, University of Wales
 
 MB BCh
+
+21. School of Medicine, Imperial College London
+
+MB BS
 
 United States
 
@@ -2341,7 +2391,7 @@ MD
 
 MD
 
-15. University of Pittsburgh School of Medicine
+15 University of Pittsburgh School of Medicine
 
 MD
 
@@ -2379,7 +2429,7 @@ MD
 
 24. Roy J. & Lucille A. Carver College of Medicine at University of Iowa
 
-MD.
+MD
 
 25. Feinberg School of Medicine, Northwestern University
 
@@ -2437,31 +2487,7 @@ Doctor of Medicine
 
 Doctor of Medicine
 
-[S 440/2006 wef 01/08/2006]
-
-[S 138/2007 wef 01/04/2007]
-
-[S 440/2006 wef 01/08/2006]
-
-[S 138/2007 wef 01/04/2007]
-
-[S 440/2006 wef 01/08/2006]
-
-[S 138/2007 wef 01/04/2007]
-
-[S 440/2006 wef 01/08/2006]
-
-[S 138/2007 wef 01/04/2007]
-
-[S 440/2006 wef 01/08/2006]
-
-[S 138/2007 wef 01/04/2007]
-
-[S 440/2006 wef 01/08/2006]
-
-[S 138/2007 wef 01/04/2007]
-
-[S 178/2006 wef 01/04/2006]
+[S 525/2007 wef 01/10/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -2507,6 +2533,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|1 August 2006|
 |11.|**G. N. No. S 138/2007—Medical Registration Act (Amendment of Schedule) Order 2007**|
 ||Date of commencement|1 April 2007|
+|12.|**G. N. No. S 525/2007—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2007**|
+||Date of commencement|1 October 2007|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
