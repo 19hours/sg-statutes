@@ -1238,17 +1238,17 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 28\.—(1) Every management corporation shall —
 
-(a) ensure that an address for the time being for service of notices on it is recorded in the strata title plan and displayed on a notice board at a conspicuous place within the common property; and
+(a) ensure that an address for the time being for service of notices on it is lodged with the Registrar of Titles and displayed on a notice board at a conspicuous place within the common property; and
 
 (b) cause to be constructed and maintained at or near the street alignment of the parcel a receptacle suitable for the receipt of mail and other documents with the name of the management corporation clearly shown thereon.
 
-(2) A management corporation may decide that the address, as shown on the strata title plan, for the service of notices on the management corporation shall be changed.
+(2) A management corporation may decide that the address, as lodged with the Registrar of Titles, for the service of notices on the management corporation shall be changed.
 
 (3) Where a management corporation has, under subsection (2), decided that the address for the service of notices on it shall be changed, the management corporation shall —
 
 (a) within 7 days after deciding, notify the Registrar of Titles and the Commissioner of the change;
 
-(b) apply to amend the registered strata title plan and other relevant records accordingly; and
+(b) apply to amend the address lodged with the Registrar of Titles and other relevant records accordingly; and
 
 (c) within 7 days after deciding, serve on each of its subsidiary proprietors a written notice of the change.
 
@@ -1621,6 +1621,14 @@ make an order directing the management corporation or management corporations to
 (8) A management corporation shall pay any moneys in its management fund or sinking fund that are not otherwise invested in accordance with subsection (7) into an account established with a financial institution in the name of the management corporation.
 
 (9) A management corporation may borrow moneys and secure the repayment thereof and of any interest in such manner as may be agreed upon by the management corporation and the lender, otherwise than by charging the repayment on the common property.
+
+(9A) No moneys in the management fund or sinking fund shall be used for any purpose of a collective sale of the property under Part VA of the Land Titles (Strata) Act (Cap. 158) other than for the purpose of convening any general meeting under the Second Schedule to that Act.
+
+[46/2007 wef 04/10/2007]
+
+(9B) The moneys remaining in the management fund and sinking fund as at the date of the legal completion of a collective sale of the property in accordance with Part VA of the Land Titles (Strata) Act shall be returned as soon as practicable to the subsidiary proprietors of the lots in shares proportional to the contributions levied by the management corporation on the subsidiary proprietors in accordance with this Act.
+
+[46/2007 wef 04/10/2007]
 
 (10) A management corporation shall —
 
@@ -2856,13 +2864,17 @@ Strata Titles Boards
 
 90\.—(1) The Minister shall appoint a president of the Boards.
 
-(2) The Minister may appoint not more than 3 deputy presidents of the Boards.
+(2) The Minister may appoint such number of deputy presidents of the Boards as he may consider necessary.
+
+[46/2007 wef 04/10/2007]
 
 (3) No person shall be appointed as the president or a deputy president of the Boards unless the person is a qualified person within the meaning of the Legal Profession Act (Cap. 161).
 
-(4) For the purpose of enabling the Boards to be constituted in accordance with this Part, a panel consisting of not more than 30 persons shall be appointed by the Minister and their names shall be notified in theGazette.
+(4) For the purpose of enabling the Boards to be constituted under this Part, the Minister shall appoint a panel consisting of such number of persons as he may consider necessary and shall publish their names in theGazette.
 
-(5) The president, a deputy president and any person appointed as a member of the panel constituted under subsection (4) shall, subject to subsection (6), be appointed for a term of 2 years, and shall be eligible for reappointment.
+[46/2007 wef 04/10/2007]
+
+(5) The president, a deputy president and any person appointed as a member of the panel constituted under subsection (4) shall, subject to subsection (6), be appointed for a term not exceeding 3 years, and shall be eligible for reappointment.
 
 (6) The Minister may at any time terminate the appointment of the president or any deputy president or member of the panel constituted under subsection (4), and fill any vacancy in its membership.
 
@@ -2984,7 +2996,7 @@ and includes any direction about the conduct of that proceeding, but does not in
 
 ### Allowances
 
-100\. A member of a panel who is a member of a Board for the purposes of hearing a dispute or matter may, in respect of each day on which the Board is engaged in mediating or arbitrating the dispute or matter, be paid such allowances as may be prescribed by regulations made under this Act.
+100\. A member of a panel who is a member of a Board for the purposes of hearing a dispute or matter may, in respect of each day on which the Board is engaged in mediating or arbitrating the dispute or matter, be paid such allowances as the Minister may determine.
 
 Division 2 —
 
