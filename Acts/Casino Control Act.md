@@ -1,16 +1,14 @@
-**Casino Control Act 2006**
+**Casino Control Act**
 
-**(No. 10 of 2006)**
+**(CHAPTER 33A)**
 
 **Table of Contents**
 
 [**Long Title**](#Casino-Control-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -72,7 +70,7 @@
 
 - [26 Power of investment](#Power-of-investment)
 
-- [27 Accounts](#Accounts)
+- [27 Accounts and records](#Accounts-and-records)
 
 - [28 Audit of accounts](#Audit-of-accounts)
 
@@ -310,7 +308,7 @@
 
 - [130 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [131 Part only applies during hours of operation of casino](#Part-only-applies-during-hours-of-operation-of-casino)
+- [131 Part applies only during hours of operation of casino](#Part-applies-only-during-hours-of-operation-of-casino)
 
 - [132 Minors not to enter casino premises](#Minors-not-to-enter-casino-premises)
 
@@ -392,7 +390,7 @@
 
 - [168 Notification of making, variation or revocation of family exclusion order or exclusion order](#Notification-of-making-variation-or-revocation-of-family-exclusion-order-or-exclusion-order)
 
-- [169 Secrecy](#Secrecy)
+- [169 Secrecy of proceedings of Committee](#Secrecy-of-proceedings-of-Committee)
 
 - [170 Rules](#Rules)
 
@@ -404,7 +402,7 @@
 
 - [173 Possession of chips outside designated site](#Possession-of-chips-outside-designated-site)
 
-- [174 Forgery](#Forgery)
+- [174 Forgery and counterfeiting](#Forgery-and-counterfeiting)
 
 - [175 Impersonation](#Impersonation)
 
@@ -416,7 +414,7 @@
 
 - [179 Obstructing officer of Authority, etc.](#Obstructing-officer-of-Authority-etc)
 
-[**Part XII Enforcement powers and proceedings**](#Part-XII)
+[**Part XII ENFORCEMENT POWERS AND PROCEEDINGS**](#Part-XII)
 
 - [180 Detention of suspected person](#Detention-of-suspected-person)
 
@@ -468,51 +466,39 @@
 
 [**THE SCHEDULE Constitution and Proceedings of Authority**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Casino Control Act
 
-Published by Authority
+(CHAPTER 33A)
 
-NO. 12]
+(Original Enactment: Act 10 of 2006)
 
-Friday, March 17
+REVISED EDITION 2007
 
-[2006
+(31st October 2007)
 
-The following Act was passed by Parliament on 14th February 2006 and assented to by the President on 1st March 2006:—
+An Act to make provision for the operation and regulation of casinos and gaming in casinos; to establish the Casino Regulatory Authority of Singapore, to provide for its functions and powers and for matters connected therewith.
 
-Casino Control Act 2006
+[1st June 2006: — Section 2 ;
 
-(No. 10 of 2006)
+1st July 2008: — Sections 34, 35, 36, 37 (in relation to any employee transferred to the service of the Authority under section 34), 38 and 39 ;
 
-I assent.
-
-S R NATHAN,
-
-President.
-
-1st March 2006.
-
-Date of Commencement: 1st June 2006
-
-An Act to make provision for the operation and regulation of casinos and gaming in casinos; to establish the Casino Regulatory Authority of Singapore, to provide for its functions and powers and for matters connected therewith; and to make related amendments to the Civil Law Act (Chapter 43 of the 1999 Revised Edition) and the Income Tax Act (Chapter 134 of the 2004 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+2nd April 2008: — Sections 3, 4, 5 to 33 and 37 (in relation any property, assets, interests, rights, privileges, liabilities or obligations transferred to the Authority under section 33), Parts III to XIII and the Schedule ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Casino Control Act 2006 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Casino Control Act .
 
 ### Interpretation
 
-2\.—(1) In this Act, unless the context otherwise requires ––
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “appointed day” means —
 
@@ -540,7 +526,7 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Authority appointed under section 13 and includes any person acting in that capacity;
 
-“chips” means any tokens used instead of money for the purpose of gaming;
+“chips” means any tokens used instead of money for the purpose of gaming ;
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -554,7 +540,7 @@ PRELIMINARY
 
 “employ” includes engage under a contract for services;
 
-“excluded person” means a person barred from entering or remaining on any casino premises by ––
+“excluded person” means a person barred from entering or remaining on any casino premises by —
 
 (a) an exclusion order under section 120, 121 or 122; or
 
@@ -562,7 +548,7 @@ PRELIMINARY
 
 “game” means a game of chance or a game that is partly a game of chance and partly a game requiring skill;
 
-“gaming equipment” means any device or thing (including chips) used, or capable of being used, for or in connection with gaming and includes ––
+“gaming equipment” means any device or thing (including chips) used, or capable of being used, for or in connection with gaming and includes —
 
 (a) a gaming machine;
 
@@ -572,7 +558,7 @@ PRELIMINARY
 
 (d) a part of, or a replacement part for, any such machine, equipment or system;
 
-“gaming machine” means any device, whether wholly or partly mechanically or electronically operated, that is so designed that ––
+“gaming machine” means any device, whether wholly or partly mechanically or electronically operated, that is so designed that —
 
 (a) it may be used for the purpose of playing a game of chance or a game of mixed chance and skill; and
 
@@ -584,13 +570,13 @@ and includes any machine declared by the Authority to be a gaming machine;
 
 “jackpot” means the combination of letters, numbers, symbols or representations required to be displayed on the reels or video screen of a gaming machine so that the winnings in accordance with the prize payout scale displayed on the machine are payable from money which accumulates as contributions are made to a special prize pool;
 
-“junket” means an arrangement whereby a person or a group of people is introduced to a casino operator by a junket promoter who receives a commission or other payment from the casino operator or the person for the time being in charge of the casino;
+“junket” means an arrangement whereby a person or a group of persons is introduced to a casino operator by a junket promoter who receives a commission or other payment from the casino operator or the person for the time being in charge of the casino;
 
 “junket player” means a person who participates in a junket, whether or not the person is also a premium player;
 
 “junket promoter” means a person who organises or promotes a junket;
 
-“linked jackpot arrangement” means an arrangement whereby 2 or more gaming machines are linked to a device that ––
+“linked jackpot arrangement” means an arrangement whereby 2 or more gaming machines are linked to a device that —
 
 (a) records, from time to time, an amount which, in the event of a jackpot or other result being obtained on one of those machines, may be payable, or part of which may be payable, as winnings;
 
@@ -664,6 +650,8 @@ and includes any machine declared by the Authority to be a gaming machine;
 
 (b) a reference to the exercise of a function includes, in relation to a duty, a reference to the performance of the duty.
 
+[Vic. CCA 1991, ss. 3, 37]
+
 ### Meaning of “associate”
 
 3\.—(1) For the purposes of this Act (other than Division 2 of Part IV), a person is an “associate” of a casino operator or an applicant for a casino licence if the person —
@@ -688,9 +676,11 @@ and includes any machine declared by the Authority to be a gaming machine;
 
 (b) to elect or appoint any person to any relevant position.
 
+[Vic. CCA 1991, s. 4]
+
 ### Minister may revoke order for designated site or cancel casino licence in public interest
 
-4\.—(1) Notwithstanding any other provision of this Act, if it appears to the Minister to be necessary in the public interest to do so, the Minister may, after consultation with the Authority ––
+4\.—(1) Notwithstanding any other provision of this Act, if it appears to the Minister to be necessary in the public interest to do so, the Minister may, after consultation with the Authority —
 
 (a) revoke any order made under section 2(2); or
 
@@ -711,6 +701,8 @@ and give such directions to the Authority or the casino operator concerned as ar
 (7) If any doubt arises as to whether any act done under this section was in the public interest, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
 
 (8) Any decision of the Minister under subsection (1) shall be final.
+
+[Telcom. Act, s. 5]
 
 ## PART II
 
@@ -756,13 +748,15 @@ Functions, duties and powers of Authority
 
 ### Objects of Authority
 
-8\. The objects of the Authority are to maintain and administer systems for the licensing, supervision and control of casinos, for the purpose of ––
+8\. The objects of the Authority are to maintain and administer systems for the licensing, supervision and control of casinos, for the purpose of —
 
 (a) ensuring that the management and operation of a casino is and remains free from criminal influence or exploitation;
 
 (b) ensuring that gaming in a casino is conducted honestly; and
 
 (c) containing and controlling the potential of a casino to cause harm to minors, vulnerable persons and society at large.
+
+[Vic. CCA 1991, s. 140]
 
 ### Functions and duties of Authority
 
@@ -800,11 +794,13 @@ Functions, duties and powers of Authority
 
 (3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
 
+[Vic. CCA 1991, s. 141]
+
 ### Powers of Authority
 
 10\.—(1) Subject to the provisions of this Act, the Authority may carry on such activities as appear to the Authority to be advantageous, necessary or expedient for it to carry on for or in connection with the performance of its functions and the discharge of its duties under this Act or any other written law.
 
-(2) Without prejudice to the generality of subsection (1), the Authority may ––
+(2) Without prejudice to the generality of subsection (1), the Authority may —
 
 (a) conduct such investigations as may be necessary for enforcing this Act;
 
@@ -874,7 +870,7 @@ Provisions relating to staff and inspectors
 
 14\. The functions of an inspector are as follows:
 
-(a) for the purpose of ascertaining whether or not a casino operator is complying with the provisions of this Act, the conditions of the casino licence, and any direction issued by the Authority under this Act ––
+(a) for the purpose of ascertaining whether or not a casino operator is complying with the provisions of this Act, the conditions of the casino licence, and any direction issued by the Authority under this Act —
 
 (i) to inspect casino premises;
 
@@ -891,6 +887,8 @@ Provisions relating to staff and inspectors
 (e) to report to the Authority regarding the operations of a casino; and
 
 (f) to perform any other functions as are conferred on inspectors under this Act.
+
+[Vic. CCA 1991, s. 106; Vic. Gam. RA 2003, s. 10.5.7]
 
 ### Powers of inspectors
 
@@ -924,6 +922,8 @@ to attend before the inspector at a specified time and place and to answer quest
 
 (3) Subsection (2) ceases to have effect in relation to things seized if, on the application of a person aggrieved by the seizure, the court in which proceedings referred to in that subsection are instituted so orders.
 
+[Vic. Gam. RA 2003, s. 10.5.9]
+
 ### Power to require names and addresses
 
 16\.—(1) An inspector who exercises a right of entry to casino premises under section 118 or under a search warrant may require a person on the premises to state the person’s full name and residential address.
@@ -936,9 +936,11 @@ to attend before the inspector at a specified time and place and to answer quest
 
 (3) Any person who fails to comply with a requirement made under subsection (1) shall be guilty of an offence.
 
+[Vic. Gam. RA 2003, s. 10.5.10]
+
 ### Seizure and forfeiture of equipment, etc.
 
-17\.—(1) An inspector may seize ––
+17\.—(1) An inspector may seize —
 
 (a) any thing that the inspector reasonably suspects is gaming equipment that is not authorised under this Act to be on the casino premises; or
 
@@ -946,15 +948,17 @@ to attend before the inspector at a specified time and place and to answer quest
 
 (2) A police officer or an inspector may apply to a court upon completion of the investigation in relation to any item seized under subsection (1) for an order that the item seized under that subsection be forfeited to the Authority.
 
-(3) On an application under subsection (2), the court shall order that the item be forfeited to the Authority if the court is satisfied that the item is ––
+(3) On an application under subsection (2), the court shall order that the item be forfeited to the Authority if the court is satisfied that the item is —
 
 (a) gaming equipment that is not authorised under this Act to be on the casino premises; or
 
-(b) an article or thing the use or possession of which is unlawful,
+(b) any article or thing the use or possession of which is unlawful,
 
 as the case may be, regardless of whether a charge has been filed in relation to the item or whether a person has been convicted of an offence in relation to the item.
 
 (4) Any item forfeited under this section shall be disposed of in accordance with any direction of the court.
+
+[Vic. CCA 1991, s. 165; Vic. Gam. RA 2003, s. 10.5.29]
 
 Division 4 —
 
@@ -1024,7 +1028,7 @@ Financial provisions
 
 26\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-### Accounts
+### Accounts and records
 
 27\. The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
 
@@ -1130,7 +1134,7 @@ Transfer of property, assets, liabilities and employees
 
 (2) Any term or condition relating to the length of service with the Authority shall recognise the length of service of the persons so transferred while in the employment of the Government to be service with the Authority.
 
-(3) Nothing in the terms and conditions of service to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+(3) Nothing in the terms and conditions of service to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act.
 
 (4) Where a person has been transferred to the service of the Authority under section 34, the Government shall be liable to pay to the Authority such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
@@ -1176,23 +1180,25 @@ LICENSING OF CASINOS
 
 (2) A casino licence is to apply to one casino only.
 
+[NSW CCA 1992, s. 6]
+
 ### Main shareholder of casino operator not to divest stake or participate in other casino for certain period
 
-42\.—(1) During the period of 10 years commencing from the date on which a second site for a casino is designated by an order made under section 2(2) ––
+42\.—(1) During the period of 10 years commencing from the date on which a second site for a casino is designated by an order made under section 2(2) —
 
-(a) the main shareholder of a casino operator shall not, without the prior written approval of the Authority, transfer or dispose of any part of his stake in the casino operator to the extent that after the transfer or disposal, the percentage of the total votes attached to his stake in the casino operator ––
+(a) the main shareholder of a casino operator shall not, without the prior written approval of the Authority, transfer or dispose of any part of his stake in the casino operator to the extent that after the transfer or disposal, the percentage of the total votes attached to his stake in the casino operator —
 
 (i) is less than 20% of the total votes attached to all voting shares in the casino operator; or
 
 (ii) is equal to or less than the percentage of the total votes attached to the stake of any other stakeholder in the casino operator; and
 
-(b) no person other than the main shareholder of a casino operator shall, without the prior written approval of the Authority, acquire any stake in the casino operator to the extent that after the acquisition, the percentage of the total votes attached to the stake of that person in the casino operator ––
+(b) no person other than the main shareholder of a casino operator shall, without the prior written approval of the Authority, acquire any stake in the casino operator to the extent that after the acquisition, the percentage of the total votes attached to the stake of that person in the casino operator —
 
 (i) is equal to or more than 20% of the total votes attached to all voting shares in the casino operator; and
 
 (ii) is equal to or more than the percentage of the total votes attached to the main shareholder’s stake in the casino operator.
 
-(2) The main shareholder of a casino operator shall not, at any time there are only 2 casinos in Singapore ––
+(2) The main shareholder of a casino operator shall not, at any time where there are only 2 casinos in Singapore —
 
 (a) acquire or hold any stake in the other casino operator;
 
@@ -1200,7 +1206,7 @@ LICENSING OF CASINOS
 
 (c) enter into any agreement for the management or operation of the other casino.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction ––
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $125,000; or
 
@@ -1208,7 +1214,7 @@ LICENSING OF CASINOS
 
 (4) Without prejudice to subsection (3), the Minister may, by notice in writing, do one or more of the following:
 
-(a) where the Minister is satisfied that the main shareholder of a casino operator has contravened subsection (1)(a), direct the main shareholder to acquire a stake in the casino operator, in such manner, within such time and subject to such conditions as may be specified in the notice, to the extent that after the acquisition, the percentage of the total votes attached to his stake in the casino operator ––
+(a) where the Minister is satisfied that the main shareholder of a casino operator has contravened subsection (1)(a), direct the main shareholder to acquire a stake in the casino operator, in such manner, within such time and subject to such conditions as may be specified in the notice, to the extent that after the acquisition, the percentage of the total votes attached to his stake in the casino operator —
 
 (i) is equal to or more than 20% of the total votes attached to all voting shares in the casino operator; and
 
@@ -1222,13 +1228,13 @@ LICENSING OF CASINOS
 
 (e) give such other direction as the Minister considers appropriate.
 
-(5) Any person who fails, without reasonable excuse, to comply with a direction made under subsection (4) shall be guilty of an offence and shall be liable on conviction ––
+(5) Any person who fails, without reasonable excuse, to comply with a direction made under subsection (4) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $12,500 for every day or part thereof that he fails to comply with the direction; or
 
 (b) in any other case, to a fine not exceeding $25,000 for every day or part thereof that he fails to comply with the direction.
 
-(6) Where any direction has been made under subsection (4)(b), then, until a transfer or disposal is effected in accordance with the direction, and notwithstanding anything in the Companies Act (Cap. 50) or in the memorandum or articles of association of the casino operator ––
+(6) Where any direction has been made under subsection (4)(b), then, until a transfer or disposal is effected in accordance with the direction, and notwithstanding anything in the Companies Act (Cap. 50) or in the memorandum or articles of association of the casino operator —
 
 (a) no voting rights shall be exercisable in respect of any voting shares in the casino operator which are comprised in any part of any stake in the casino operator acquired or held in contravention of subsection (1)(b) or (2)(a) (referred to in this subsection as the relevant shares), unless the Minister expressly permits such rights to be exercised;
 
@@ -1264,13 +1270,13 @@ a certain percentage (referred to in this subsection as the first level percenta
 
 then the person shall be deemed to control a percentage of the total votes attached to all equity interests in the second level entity which is equal to the product of the first level percentage and the second level percentage.
 
-(9) In this section ––
+(9) In this section —
 
 “business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
 “entity” includes a corporation, an unincorporated association, a sole proprietorship, a partnership, a limited liability partnership and a business trust;
 
-“equity interest” ––
+“equity interest” —
 
 (a) in relation to a corporation, means a voting share in that corporation; and
 
@@ -1278,7 +1284,7 @@ then the person shall be deemed to control a percentage of the total votes attac
 
 “hold”, in relation to any stake, voting share or unit of equity interest, includes holding that stake, voting share or unit through a nominee, and “holder” and “holding” shall be construed accordingly;
 
-“limited liability partnership” means a limited liability partnership formed under section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005) or any equivalent foreign law;
+“limited liability partnership” means a limited liability partnership formed under section 4(1) of the Limited Liability Partnerships Act (Cap. 163A) or any equivalent foreign law;
 
 “main shareholder”, in relation to a casino operator, means such person as the Minister may, by notification in theGazette, designate as the main shareholder of the casino operator.
 
@@ -1312,6 +1318,8 @@ then the person shall be deemed to control a percentage of the total votes attac
 
 (4) If a requirement under this section is not complied with, the Authority may refuse to consider the application.
 
+[Vic. CCA 1991, s. 8]
+
 ### Matters to be considered in determining applications
 
 45\.—(1) The Authority shall not grant an application for a casino licence unless the Authority is satisfied that the applicant, and each associate of the applicant, is a suitable person to be concerned in or associated with the management and operation of a casino.
@@ -1336,6 +1344,8 @@ then the person shall be deemed to control a percentage of the total votes attac
 
 (i) any other matter that may be prescribed.
 
+[Vic. CCA 1991, s. 9]
+
 ### Investigation of application
 
 46\.—(1) On receiving an application for a casino licence, the Authority shall cause to be carried out all such investigations and inquiries as it considers necessary to enable it to consider the application properly.
@@ -1350,6 +1360,8 @@ then the person shall be deemed to control a percentage of the total votes attac
 
 (4) The Authority may refuse to consider an application for a casino licence if any person from whom it requires a photograph, finger prints or palm prints under this section refuses to allow his photograph, finger prints or palm prints to be taken.
 
+[Vic. CCA 1991, s. 10]
+
 ### Authority may require further information, etc.
 
 47\.—(1) The Authority may, by notice in writing, require a person who is an applicant for a casino licence or a person whose association with the applicant is, in the opinion of the Authority, relevant to the application to do any one or more of the following:
@@ -1363,6 +1375,8 @@ then the person shall be deemed to control a percentage of the total votes attac
 (d) to furnish to the Authority any authorities and consents that the Authority directs for the purpose of enabling the Authority to obtain information (including financial and other confidential information) concerning the person and his associates or relations from other persons.
 
 (2) If a requirement made under this section is not complied with, the Authority may refuse to consider the application concerned.
+
+[Vic. CCA 1991, s. 11]
 
 ### Updating of application
 
@@ -1380,6 +1394,8 @@ that person shall, without delay, give the Authority written particulars of the 
 
 (4) When particulars of the change are given, those particulars shall then be considered to have formed part of the original application, for the purposes of the application of subsection (1) or (2) to any further change in the information provided.
 
+[Vic. CCA 1991, s. 12]
+
 ### Grant or refusal of casino licence
 
 49\.—(1) The Authority shall determine an application for a casino licence by either granting or refusing the application and shall notify the applicant in writing of its decision.
@@ -1391,6 +1407,8 @@ that person shall, without delay, give the Authority written particulars of the 
 (4) If an application is granted, the casino licence is granted for the term, subject to the conditions and for the location specified in the licence.
 
 (5) The casino operator shall pay to the Authority a casino licence fee of such amount, at such times and in such manner as may be prescribed.
+
+[Vic. CCA 1991, s. 13]
 
 ### Amendment of conditions
 
@@ -1408,6 +1426,8 @@ that person shall, without delay, give the Authority written particulars of the 
 
 (5) Any amendment that the Authority decides upon takes effect when notice of the decision is given to the casino operator or on any later date that may be specified in the notice.
 
+[Vic. CCA 1991, s. 16]
+
 ### Authority to define casino premises
 
 51\.—(1) The boundaries of any casino premises, as at the time when a casino licence is granted, shall be defined by the casino licence within the designated site for which the casino licence is granted.
@@ -1418,15 +1438,21 @@ that person shall, without delay, give the Authority written particulars of the 
 
 (4) The defining or redefining of the boundaries of casino premises takes effect when the Authority gives written notice of it to the casino operator concerned or any later date specified in the notice.
 
+[Vic. CCA 1991, s. 17]
+
 ### Duration of casino licence
 
 52\. A casino licence remains in force for the period for which it is granted, as specified in the licence, unless it is sooner cancelled or surrendered under this Act.
+
+[Vic. CCA 1991, s. 18]
 
 ### Transfer, mortgage, etc., of casino licence
 
 53\.—(1) No casino licence shall be transferable except with the prior approval in writing of the Authority.
 
 (2) A casino operator shall not mortgage, charge or otherwise encumber the casino licence except with the prior approval in writing of the Authority.
+
+[Vic. CCA 1991, s. 19]
 
 ### Disciplinary action against casino operator
 
@@ -1464,17 +1490,21 @@ that person shall, without delay, give the Authority written particulars of the 
 
 (6) A letter of censure may censure the casino operator in respect of any matter connected with the operation of the casino and may include a direction to the casino operator to rectify within a specified time any matter giving rise to the letter of censure.
 
-(7) If any direction given under subsection (6) is not complied within the specified time, the Authority may by giving written notice to the casino operator, cancel, suspend or vary the terms of the casino licence or impose a financial penalty not exceeding $1 million without affording the casino operator a further opportunity to be heard.
+(7) If any direction given under subsection (6) is not complied within the specified time, the Authority may, by giving written notice to the casino operator, cancel, suspend or vary the terms of the casino licence or impose a financial penalty not exceeding $1 million without affording the casino operator a further opportunity to be heard.
 
 (8) If a casino operator operates a casino during the suspension of the casino licence, the Authority may, by written notice, impose a financial penalty not exceeding $1 million on the casino operator for every day or part thereof that the casino operations continue while the casino licence is suspended, without affording the casino operator a further opportunity to be heard.
 
 (9) A member of the Authority who has participated in the consideration of disciplinary action against a casino operator is not prevented by that reason alone from considering whether further disciplinary action should be taken against that casino operator.
+
+[Vic. CCA 1991, s. 20]
 
 ### Surrender of casino licence
 
 55\.—(1) A casino operator may surrender the casino licence by giving notice in writing to the Authority.
 
 (2) The surrender takes effect only if the Authority consents to the surrender.
+
+[Vic. CCA 1991, s. 21]
 
 ### Appointment of manager if casino licence cancelled, surrendered or suspended
 
@@ -1510,6 +1540,8 @@ that person shall, without delay, give the Authority written particulars of the 
 
 (c) the Authority may direct that all or any part of net earnings (other than that referred to in paragraph (b)) shall be paid to the Authority, with any balance to be paid to the former casino operator.
 
+[Vic. CCA 1991, s. 22]
+
 ## PART IV
 
 SUPERVISION AND CONTROL OF CASINO OPERATORS
@@ -1532,6 +1564,8 @@ Directions, investigations, etc.
 
 (6) Where a casino operator has been subject to disciplinary action under subsection (5) (referred to in this section as the first disciplinary action) and continues to fail to comply with the direction of the Authority, such failure shall constitute a fresh ground of disciplinary action for every day or part thereof that the failure continues after the first disciplinary action.
 
+[Vic. CCA 1991, s. 23]
+
 ### General investigations
 
 58\.—(1) The Authority may investigate a casino from time to time and at any time that the Authority thinks it desirable to do so and, if it is directed to do so by the Minister, shall investigate the casino.
@@ -1548,6 +1582,8 @@ Directions, investigations, etc.
 
 (3) The Authority may make a report to the Minister on the results of such an investigation if it thinks it desirable to do so and shall make such a report if the investigation was made at the direction of the Minister.
 
+[Vic. CCA 1991, s. 24]
+
 ### Regular investigations of casino operator’s suitability, etc.
 
 59\. The Authority shall, at such intervals as it may determine, investigate whether or not —
@@ -1557,6 +1593,8 @@ Directions, investigations, etc.
 (b) the casino licence should continue in force,
 
 and shall take whatever action the Authority considers appropriate in the light of its findings.
+
+[Vic. CCA 1991, s. 25]
 
 ### Casino operator to provide information
 
@@ -1577,6 +1615,8 @@ and shall take whatever action the Authority considers appropriate in the light 
 (5) Any casino operator who fails to comply with a requirement of a notice under this section shall be liable to disciplinary action.
 
 (6) Any person (other than a casino operator) who fails to comply with a requirement of a notice under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[Vic. CCA 1991, s. 26]
 
 ### Change in situation of casino operator
 
@@ -1602,9 +1642,9 @@ and shall take whatever action the Authority considers appropriate in the light 
 
 (3) Sections 46 and 47 apply to and in respect of an application for approval under this section in the same manner that they apply to and in respect of an application for a casino licence.
 
-(4) If a major change is proposed or has occurred involving a person becoming an associate of a casino operator ––
+(4) If a major change is proposed or has occurred involving a person becoming an associate of a casino operator —
 
-(a) in a case which also requires ––
+(a) in a case which also requires —
 
 (i) an application to be made under section 65 or 66 by a shareholder or prospective shareholder of the casino operator;
 
@@ -1618,11 +1658,15 @@ the casino operator shall be deemed to have complied with subsection (2)(a) if s
 
 (5) Any casino operator who fails to comply with subsection (2) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 28]
+
 ### Change in situation of associate
 
 62\.—(1) Where a change of a kind specified by the Authority in writing given to an associate of a casino operator takes place in the situation existing in relation to the associate of the casino operator, the associate shall notify the Authority in writing of the change within 14 days after it takes place.
 
 (2) Any associate of a casino operator who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Vic. CCA 1991, s. 28AA]
 
 ### On-going monitoring of associates and others
 
@@ -1662,6 +1706,8 @@ the casino operator shall be deemed to have complied with subsection (2)(a) if s
 
 (9) Any casino operator who fails to comply with subsection (2) or (7) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 28A]
+
 Division 2 —
 
 Controlled shareholdings
@@ -1678,7 +1724,7 @@ Controlled shareholdings
 
 “substantial shareholder” has the same meaning as in section 81 of the Companies Act.
 
-(3) In this Division, a person,A, is an associate of another person,B, if —
+(3) In this Division, a person,A, is an associate of another person, B, if —
 
 (a) Ais a spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
@@ -1704,6 +1750,8 @@ Controlled shareholdings
 
 (b) he otherwise has a legal or an equitable interest in that share except for such interest as is to be disregarded under section 7 of the Companies Act.
 
+[Banking Act, s. 15]
+
 ### Control of substantial shareholdings in casino operator
 
 65\.—(1) No person shall, on or after the appointed day —
@@ -1714,11 +1762,13 @@ Controlled shareholdings
 
 without first obtaining the approval of the Minister.
 
-(2) Subject to section 67(4), no person who ––
+(2) Subject to section 67(4), no person who —
 
 (a) immediately before the appointed day, is a substantial shareholder of a casino operator shall continue to be such a shareholder unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder; or
 
 (b) at any time before the appointed day, has entered into any agreement or arrangement referred to in subsection (1)(b) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
+
+[Banking Act, s. 15A]
 
 ### Control of shareholdings and voting power in casino operator
 
@@ -1770,6 +1820,8 @@ but does not include any person —
 
 (4) For the purposes of subsection (3), a reference to the control of a percentage of the voting power in a casino operator is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the casino operator.
 
+[Banking Act, s. 15B]
+
 ### Approval of applications
 
 67\.—(1) The Minister may, in his discretion, approve an application made by any person under section 65 or 66 if the Minister is satisfied that —
@@ -1802,6 +1854,8 @@ but does not include any person —
 
 as the case may be.
 
+[Banking Act, s. 15C]
+
 ### Power to exempt
 
 68\. The Minister may, by order published in theGazette, exempt —
@@ -1811,6 +1865,8 @@ as the case may be.
 (b) any class or description of shares or interests in shares,
 
 from section 65 or 66, subject to such terms and conditions as may be specified in the order.
+
+[Banking Act, s. 15D]
 
 ### Objection to existing control of casino operator
 
@@ -1840,6 +1896,8 @@ from section 65 or 66, subject to such terms and conditions as may be specified 
 
 (5) Any person served with a notice of objection under this section shall comply with the notice.
 
+[Banking Act, s. 15E]
+
 ### Power to make directions
 
 70\.—(1) Without prejudice to section 71, if the Minister is satisfied that any person has contravened section 65, 66, 67(4) or 69(5) or has failed to comply with any condition imposed under section 67(2), or if the Minister has served a written notice of objection under section 69, the Minister may, by notice in writing —
@@ -1859,6 +1917,8 @@ from section 65 or 66, subject to such terms and conditions as may be specified 
 (b) no shares of the casino operator shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares unless the Minister expressly permits such issue or offer; and
 
 (c) except in a liquidation of the casino operator, no payment shall be made by the casino operator of any amount (whether by way of dividends or otherwise) in respect of the specified shares unless the Minister expressly permits such payment.
+
+[Banking Act, s. 16]
 
 ### Offences, penalties and defences
 
@@ -1890,6 +1950,8 @@ from section 65 or 66, subject to such terms and conditions as may be specified 
 
 (5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 65 or 66 to prove that he did not intend to or did not knowingly contravene section 65 or 66, as the case may be.
 
+[Banking Act, s. 17]
+
 Division 3 —
 
 Contracts
@@ -1900,21 +1962,31 @@ Contracts
 
 “contract” includes any kind of agreement or arrangement;
 
-“controlled contract”, in relation to a casino operator, means a contract that relates wholly or partly to the supply of goods or services for the operations of the casino or to any other matter that is prescribed as a controlled matter for the purposes of this definition, a contract above a prescribed value or any class of contract prescribed as a controlled contract for the purposes of this definition, but does not include a contract that relates solely to —
+“controlled contract”, in relation to a casino operator, means —
 
-(a) the construction of the casino premises;
+(a) a contract that relates wholly or partly to the supply of goods or services for the operations of the casino or to any other matter that is prescribed as a controlled matter for the purposes of this definition;
 
-(b) any other class of matter prescribed as not being controlled matter for the purposes of this definition;
+(b) a contract above a prescribed value; or
 
-(c) a class of contract of a kind approved under subsection (2); or
+(c) any class of contract prescribed as a controlled contract for the purposes of this definition,
 
-(d) any other class of contract prescribed as not being a controlled contract for the purposes of this definition.
+but does not include a contract that relates solely to —
+
+(i) the construction of the casino premises;
+
+(ii) any other class of matter prescribed as not being controlled matter for the purposes of this definition;
+
+(iii) a class of contract of a kind approved under subsection (2); or
+
+(iv) any other class of contract prescribed as not being a controlled contract for the purposes of this definition.
 
 (2) The Authority may, by notice in writing given to the casino operator, approve an agreement or arrangement with a specified person for the supply of specified goods or services as an agreement or arrangement that is not a contract to which this Division applies.
 
 (3) The Authority may, by notice in writing given to the casino operator, exempt the casino operator from any of the requirements or provisions of this Division that are specified in the notice in relation to contracts if the Authority is satisfied that the system of internal controls and administrative and accounting procedures approved by the Authority under section 138 in relation to the casino operator adequately provide for compliance with this Division.
 
 (4) The notice under subsection (3) may specify that it applies to contracts generally or to the classes of contracts specified in the notice.
+
+[Vic. CCA 1991, s. 29]
 
 ### Requirements for controlled contracts
 
@@ -1932,6 +2004,8 @@ Contracts
 
 (5) Any casino operator who contravenes subsection (1), (2) or (3) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 30]
+
 ### Notice to be given of certain contracts
 
 74\. If —
@@ -1942,9 +2016,13 @@ Contracts
 
 the casino operator shall, within 14 days of entering into the prescribed contract or the variation, as the case may be, give notice in writing to the Authority of that fact and brief particulars of the contract or variation.
 
+[Vic. CCA 1991, s. 31]
+
 ### Parties to contract to provide information
 
 75\. The Authority may, by notice in writing, require any party to a controlled contract or a prescribed contract under section 74 to provide such information as the Authority may require, and section 60 shall apply to that party in the same manner as section 60 applies to a casino operator.
+
+[Vic. CCA 1991, s. 35]
 
 ### Notice to show cause why controlled contract should not be terminated
 
@@ -1956,6 +2034,8 @@ the casino operator shall, within 14 days of entering into the prescribed contra
 
 (4) If the contract is not terminated as required by the notice under subsection (3), it is deemed to be terminated by this Act upon expiry of the period specified in the notice.
 
+[Vic. CCA 1991, s. 32]
+
 ### Effect of termination of controlled contract
 
 77\. If a controlled contract is terminated or deemed to be terminated in accordance with section 76 —
@@ -1966,6 +2046,8 @@ the casino operator shall, within 14 days of entering into the prescribed contra
 
 (c) the Authority does not incur any liability by reason of that termination.
 
+[Vic. CCA 1991, s. 33]
+
 ### No effect to be given to terminated contract
 
 78\.—(1) A party to a contract terminated or deemed to be terminated in accordance with section 76 shall not give any effect to any part of the contract.
@@ -1974,6 +2056,8 @@ the casino operator shall, within 14 days of entering into the prescribed contra
 
 (3) Any person (other than a casino operator) who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
+[Vic. CCA 1991, s. 34]
+
 ## PART V
 
 LICENSING OF CASINO EMPLOYEES
@@ -1981,6 +2065,8 @@ LICENSING OF CASINO EMPLOYEES
 ### Interpretation of this Part
 
 79\. In this Part, “licensee” means the holder of a special employee licence.
+
+[Vic. CCA 1991, s. 37]
 
 ### Special employees to be licensed
 
@@ -1999,6 +2085,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
 (5) Any casino operator who contravenes subsection (3) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 38]
 
 ### Application for special employee licence
 
@@ -2019,6 +2107,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 (3) An application for a special employee licence may not be made by a person who is below the prescribed age or is a person within a class of persons prescribed as being ineligible to apply for a special employee licence.
 
 (4) If a requirement under this section is not complied with, the Authority may refuse to consider the application concerned.
+
+[Vic. CCA 1991, s. 39]
 
 ### Direction to apply for special employee licence
 
@@ -2048,6 +2138,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 
 (5) The termination of an association or employment in accordance with this section may be effected despite any other Act or any law, award or industrial or other agreement and the Authority does not incur any liability because of such a termination.
 
+[Vic. CCA 1991, s. 40]
+
 ### Updating of application for special employee licence
 
 83\.—(1) If a change occurs in the information provided in or in connection with an application for a special employee licence (including in any documents lodged with the application) before the application is granted or refused, the applicant shall, without delay, give the Authority written particulars of the change in the form approved by the Authority.
@@ -2055,6 +2147,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 (2) When particulars of the change are given, those particulars are then to be considered to have formed part of the original application, for the purposes of the operation of subsection (1) in relation to any further change in the information provided.
 
 (3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Vic. CCA 1991, s. 41]
 
 ### Authority may require further information
 
@@ -2069,6 +2163,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 (d) to furnish to the Authority such authorities and consents as the Authority directs for the purpose of enabling the Authority to obtain information (including financial and other confidential information) concerning the person and his associates or relations from other persons.
 
 (2) If a requirement made under this section is not complied with, the Authority may refuse to consider the application concerned.
+
+[Vic. CCA 1991, s. 42]
 
 ### Investigation and determination of application
 
@@ -2088,17 +2184,23 @@ unless the person is authorised by a special employee licence to exercise the fu
 
 (4) The licensee shall pay to the Authority a special employee licence fee of such amount, at such times and in such manner as may be prescribed.
 
+[Vic. CCA 1991, ss. 43, 44]
+
 ### Conditions of special employee licence
 
 86\.—(1) A special employee licence is subject to any condition imposed by the Authority and notified to the licensee on the issue of the special employee licence or during its currency.
 
 (2) A condition of a special employee licence may be varied or revoked by the Authority whether or not an application is made to the Authority by the licensee.
 
+[Vic. CCA 1991, s. 45]
+
 ### Identification
 
 87\.—(1) Subject to subsection (2), a special employee shall at all times while on duty in the casino wear identification of a kind approved by the Authority in such manner as to be visible to other persons within the casino premises.
 
 (2) The Authority may exempt a person or class of persons from the requirements of subsection (1).
+
+[Vic. CCA 1991, s. 46]
 
 ### Provisional licences
 
@@ -2110,6 +2212,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 
 (4) This Part applies to a provisional licence in the same way as it applies to a licence to the extent that it is consistent with this section.
 
+[Vic. CCA 1991, s. 47]
+
 ### Duration of special employee licence
 
 89\. A special employee licence remains in force until whichever of the following happens first:
@@ -2119,6 +2223,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 (b) the licensee, by notice in writing, surrenders the special employee licence to the Authority; or
 
 (c) the expiration of such period as is specified in the special employee licence.
+
+[Vic. CCA 1991, s. 48]
 
 ### Renewal of special employee licence
 
@@ -2136,6 +2242,8 @@ unless the person is authorised by a special employee licence to exercise the fu
 
 as if the application has been made by a person other than a licensee.
 
+[Vic. CCA 1991, s. 49]
+
 ### Variation of special employee licence
 
 91\.—(1) An application may be made to the Authority by the licensee, accompanied by the prescribed fee, for variation of a special employee licence.
@@ -2144,9 +2252,13 @@ as if the application has been made by a person other than a licensee.
 
 (3) If the application is approved, the Authority may vary the special employee licence to which the application relates (or issue a new special employee licence specifying the varied authority).
 
+[Vic. CCA 1991, s. 50]
+
 ### Loss, etc., of special employee licence
 
 92\. If the Authority is satisfied that a special employee licence has been lost, destroyed or damaged, the Authority may, on payment of the prescribed fee, issue a replacement special employee licence.
+
+[Vic. CCA 1991, s. 51]
 
 ### Cancellation, etc., of special employee licence
 
@@ -2196,17 +2308,23 @@ as if the application has been made by a person other than a licensee.
 
 (6) The disciplinary action takes effect when the notice under subsection (5) is given or on a later date specified in the notice.
 
+[Vic. CCA 1991, s. 52]
+
 ### Effect, etc., of suspension
 
 94\.—(1) During any period of suspension of a special employee licence, the licensee is deemed not to be the holder of a special employee licence.
 
 (2) The Authority may, at any time, terminate or reduce a period of suspension of a special employee licence.
 
+[Vic. CCA 1991, s. 54]
+
 ### Return of special employee licence on suspension or cancellation
 
 95\.—(1) If a special employee licence is suspended or cancelled, the licensee shall return the licence to the Authority immediately after the suspension or cancellation.
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Vic. CCA 1991, s. 54A]
 
 ### Termination of employment on cancellation of special employee licence
 
@@ -2219,6 +2337,8 @@ as if the application has been made by a person other than a licensee.
 (2) A termination of employment in accordance with this section may be effected despite any other Act or any law, award or industrial or other agreement and the Authority does not incur any liability because of such a termination.
 
 (3) Any casino operator who fails to comply with subsection (1) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 55]
 
 ### Casino operator to provide information relating to employees
 
@@ -2242,11 +2362,15 @@ as if the application has been made by a person other than a licensee.
 
 (4) It is a condition of a special employee licence that the licensee shall comply with the requirements of a notice under this section.
 
+[Vic. CCA 1991, s. 56]
+
 ### Change in situation of licensee
 
 98\.—(1) Where a change of a kind specified by the Authority in writing given to a licensee takes place in the situation existing in relation to the licensee, the licensee shall notify the Authority in writing of the change within 14 days after it takes place.
 
 (2) Any licensee who fails to comply with subsection (1) shall be liable to disciplinary action under section 93.
+
+[Vic. CCA 1991, s. 57]
 
 ## PART VI
 
@@ -2258,11 +2382,13 @@ Casino layout, games, gaming machines, etc.
 
 ### Casino layout to comply with requirements of Authority
 
-99\. It is a condition of a casino licence that ––
+99\. It is a condition of a casino licence that —
 
 (a) the casino layout shall comply with such requirements as the Authority may prescribe; and
 
 (b) the casino operator shall notify the Authority before making any changes to the casino layout.
+
+[Vic. CCA 1991, s. 59]
 
 ### Approval of games and rules for games
 
@@ -2286,7 +2412,7 @@ Casino layout, games, gaming machines, etc.
 
 (5) Any casino operator who contravenes subsection (3) shall be liable to disciplinary action.
 
-(6) Any person who contravenes subsection (4) shall be ––
+(6) Any person who contravenes subsection (4) shall be —
 
 (a) liable to disciplinary action, in the case of a licensed special employee; or
 
@@ -2296,6 +2422,8 @@ Casino layout, games, gaming machines, etc.
 
 (8) Subsections (3) and (4) do not apply to a game played on a gaming machine in a casino.
 
+[Vic. CCA 1991, s. 60]
+
 ### Directions as to games not to be played
 
 101\.—(1) The Authority may give a direction in writing to a casino operator concerning the particular games that may not be played in the casino.
@@ -2303,6 +2431,8 @@ Casino layout, games, gaming machines, etc.
 (2) The Authority may amend any such direction by a further direction in writing to the casino operator.
 
 (3) It is a condition of a casino licence that the casino operator is to comply with any direction for the time being in force under this section.
+
+[Vic. CCA 1991, s. 61]
 
 ### Approval of gaming equipment
 
@@ -2320,13 +2450,17 @@ Casino layout, games, gaming machines, etc.
 
 (5) This section does not apply to gaming equipment that is a gaming machine.
 
+[Vic. CCA 1991, s. 62]
+
 ### Gaming machines in casinos
 
-103\. It is a condition of a casino licence that ––
+103\. It is a condition of a casino licence that —
 
 (a) gaming machines intended for use in a casino shall be obtained from manufacturers and suppliers approved by the Authority; and
 
 (b) the number of gaming machines available for gaming in a casino shall not exceed such number as the Authority may determine.
+
+[Vic. CCA 1991, s. 62A]
 
 ### Simulated gaming
 
@@ -2340,6 +2474,8 @@ Casino layout, games, gaming machines, etc.
 
 (3) Any casino operator who contravenes subsection (1) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 58]
+
 Division 2 —
 
 Gaming measures
@@ -2348,19 +2484,23 @@ Gaming measures
 
 105\.—(1) A person shall not, without the approval of the Authority, install or cause to be installed any linked jackpot arrangement.
 
-(2) The Authority shall not approve any linked jackpot arrangement ––
+(2) The Authority shall not approve any linked jackpot arrangement —
 
 (a) between a casino in Singapore and any place outside Singapore;
 
-(b) between a casino in Singapore and any place permitted to operate a fruit machine under the Private Lotteries Act (Cap. 250); or
+(b) between a casino in Singapore and any place permitted to operate a fruit machine under the Private Lotteries Act 2011; or
 
 (c) prohibited by regulations made under this Act.
 
-(3) Any person who contravenes subsection (1) shall be ––
+[7/2011 wef 01/04/2011]
+
+(3) Any person who contravenes subsection (1) shall be —
 
 (a) liable to disciplinary action, in the case of a casino operator or a licensed special employee; or
 
 (b) guilty of an offence and liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 5 years or to both, in any other case.
+
+[Vic. CCA 1991, s. 62B]
 
 ### Assistance to patrons
 
@@ -2376,7 +2516,7 @@ Gaming measures
 
 (c) display prominently at each gaming table or location related to the playing of a game, a sign indicating the permissible minimum and maximum wagers pertaining to the game played there.
 
-(2) A casino operator shall ––
+(2) A casino operator shall —
 
 (a) allow a patron to inspect a copy of the rules for games on request; and
 
@@ -2384,11 +2524,15 @@ Gaming measures
 
 (3) Any casino operator who fails to comply with subsection (1) or (2) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 66]
+
 ### Operation of security equipment, etc.
 
 107\.—(1) A casino operator shall ensure that all casino installations, equipment and procedures for security and safety purposes are used, operated and applied in accordance with the directions of the Authority.
 
 (2) Any casino operator who fails to comply with subsection (1) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 67]
 
 ### Credit, etc.
 
@@ -2440,19 +2584,19 @@ Gaming measures
 
 if the casino operator or licensed junket promoter (as the case may be) and the person satisfy the requirements of any relevant controls and procedures approved by the Authority under section 138.
 
-(8) Any ––
+(8) Any —
 
 (a) casino operator who contravenes subsection (1) or (6); or
 
 (b) licensed junket promoter, agent of a casino operator or casino employee who contravenes subsection (1),
 
-shall be ––
+shall be —
 
 (i) liable to disciplinary action, in the case of a casino operator, licensed special employee or licensed junket promoter; or
 
 (ii) guilty of an offence, in any other case.
 
-(9) Any person who ––
+(9) Any person who —
 
 (a) provides chips on credit to persons other than as permitted in subsection (7)(a) or (b) shall be deemed to be a moneylender for the purposes of the Moneylenders Act (Cap. 188); and
 
@@ -2464,11 +2608,15 @@ shall be ––
 
 (b) is dated but not post-dated.
 
+[Vic. CCA 1991, s. 68]
+
 ### Automatic teller machines prohibited within casino premises
 
 109\.—(1) A casino operator shall not provide or allow another person to provide any automatic teller machine within the boundaries of the casino premises.
 
 (2) Any casino operator who contravenes subsection (1) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 81AA]
 
 ### Junkets
 
@@ -2480,13 +2628,13 @@ shall be ––
 
 (4) The Authority may, by notice in writing, require a casino operator to terminate any agreement with an unlicensed junket promoter within the time specified in the notice, and any casino operator which fails to comply with such notice shall be liable to disciplinary action.
 
-(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction ––
+(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $150,000; or
 
 (b) in any other case, to a fine not exceeding $300,000,
 
-and, in the case of a continuing offence, to a further fine not exceeding ––
+and, in the case of a continuing offence, to a further fine not exceeding —
 
 (i) $15,000, in the case of an individual; or
 
@@ -2494,9 +2642,17 @@ and, in the case of a continuing offence, to a further fine not exceeding ––
 
 for every day or part thereof during which the offence continues after conviction.
 
-(6) The Authority may, with the approval of the Minister, make regulations for or with respect to regulating or prohibiting the promotion and conduct of junkets, the licensing of junket promoters, arrangements for premium players and the obligations of casino operators in relation to junket promoters and premium players.
+(6) The Authority may, with the approval of the Minister, make regulations for or with respect to —
 
-(7) In particular, the regulations may ––
+(a) regulating or prohibiting the promotion and conduct of junkets;
+
+(b) the licensing of junket promoters;
+
+(c) arrangements for premium players; and
+
+(d) the obligations of casino operators in relation to junket promoters and premium players.
+
+(7) In particular, the regulations may —
 
 (a) impose restrictions on who may be approved to organise or promote a junket;
 
@@ -2516,13 +2672,15 @@ for every day or part thereof during which the offence continues after convictio
 
 (i) provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 12 months or with both.
 
+[114/2003)]
+
 Division 3 —
 
 Disputes between casino operator and patron
 
 ### Resolution of dispute as to winnings, losses or manner in which game conducted
 
-111\.—(1) Where a casino operator and a patron of the casino are unable to resolve to the satisfaction of the patron any dispute as to alleged winnings, alleged losses or the manner in which a game is conducted, and the dispute involves ––
+111\.—(1) Where a casino operator and a patron of the casino are unable to resolve to the satisfaction of the patron any dispute as to alleged winnings, alleged losses or the manner in which a game is conducted, and the dispute involves —
 
 (a) at least $1,000, the casino operator shall immediately notify an inspector; or
 
@@ -2531,6 +2689,8 @@ Disputes between casino operator and patron
 (2) An inspector who is notified of a dispute under subsection (1) shall conduct such investigations as he thinks necessary and shall determine whether payment should be made.
 
 (3) Failure of a casino operator to notify an inspector or inform the patron as provided in subsection (1) is grounds for disciplinary action.
+
+[Nevada Revised Statutes, 463.362]
 
 ### Reconsideration of inspector’s decision
 
@@ -2550,9 +2710,11 @@ Disputes between casino operator and patron
 
 (8) The decision by the committee shall be in writing and shall be served on the casino operator and the patron concerned.
 
+[Nevada Revised Statutes, 463.363, 463.364]
+
 ### Payment of claim after decision
 
-113\.—(1) Except as otherwise allowed by the Authority, a casino operator shall pay a patron’s claim within 30 days of ––
+113\.—(1) Except as otherwise allowed by the Authority, a casino operator shall pay a patron’s claim within 30 days of —
 
 (a) the decision of the committee under section 112; or
 
@@ -2560,9 +2722,13 @@ Disputes between casino operator and patron
 
 (2) Failure of a casino operator to pay within the time specified in subsection (1) is grounds for disciplinary action.
 
+[Nevada Revised Statutes, 463.366]
+
 ### Appeal to Authority
 
 114\. A person who is aggrieved by a decision made against him by the committee under section 112 may, within 30 days of being notified of the decision of the committee, appeal to the Authority whose decision shall be final.
+
+[Nevada Revised Statutes, 463.3668]
 
 Division 4 —
 
@@ -2572,9 +2738,11 @@ Entry to casino premises
 
 115\. Except as provided by sections 118 and 119, a person enters and remains on any casino premises only by the licence of the casino operator.
 
+[Vic. CCA 1991, s. 70]
+
 ### Entry levy
 
-116\.—(1) Subject to subsection (3), a casino operator shall not allow any person who is a citizen or permanent resident of Singapore to enter or remain on the casino premises at any time on any day unless the person has paid to the casino operator an entry levy of ––
+116\.—(1) Subject to subsection (3), a casino operator shall not allow any person who is a citizen or permanent resident of Singapore to enter or remain on the casino premises at any time on any day unless the person has paid to the casino operator an entry levy of —
 
 (a) $100 (inclusive of goods and services tax) for every consecutive period of 24 hours; or
 
@@ -2586,7 +2754,7 @@ Entry to casino premises
 
 (4) The Minister may, after the expiration of 10 years commencing from the date on which a second site for a casino is designated by an order made under section 2(2), by order published in theGazette, vary the entry levies specified in subsection (1).
 
-(5) This section shall not apply to ––
+(5) This section shall not apply to —
 
 (a) any employee of the casino;
 
@@ -2600,7 +2768,7 @@ Entry to casino premises
 
 (8) Section 147 shall apply in relation to late payment of the entry levy as it applies to the casino tax, and the reference to casino tax in that section shall be read as a reference to the entry levy.
 
-(9) In this Part, “permanent resident of Singapore” means a person who is granted an entry permit under section 10(1) of the Immigration Act (Cap. 133) or a re-entry permit under section 11 of that Act, which allows him to remain in Singapore indefinitely without restriction.
+(9) In this Part, “permanent resident of Singapore” means a person who is granted an entry permit under section 10 of the Immigration Act (Cap. 133) or a re-entry permit under section 11 of that Act, which allows him to remain in Singapore indefinitely without restriction.
 
 ### Supplementary provisions relating to entry levy
 
@@ -2620,9 +2788,11 @@ Entry to casino premises
 
 (8) Nothing in this section shall affect the liability of the agent or employee of a casino operator.
 
+[EDA, ss. 6, 8, 9, 10, 25]
+
 ### Entry of inspector to casino premises
 
-118\.—(1) An inspector may, at any time, enter and remain on any casino premises for the purposes of exercising his functions as an inspector under this Act, including but not limited to ––
+118\.—(1) An inspector may, at any time, enter and remain on any casino premises for the purposes of exercising his functions as an inspector under this Act, including but not limited to —
 
 (a) observing any of the operations of the casino;
 
@@ -2634,9 +2804,13 @@ Entry to casino premises
 
 (2) An inspector who enters premises under this section is not authorised to remain on the premises if, on the request of the occupier of the premises, the inspector does not show his identification card to the occupier.
 
+[Vic. CCA 1991, s. 105]
+
 ### Entry of police officer, etc., to casino premises
 
 119\. Any police officer, officer of the Central Narcotics Bureau or Corrupt Practices Investigation Bureau or civil defence officer may enter any casino premises, including any part to which the public does not have access, and may remain there for the purpose of discharging his duty as a police officer, officer of the Central Narcotics Bureau or Corrupt Practices Investigation Bureau or civil defence officer, as the case may be.
+
+[Vic. CCA 1991, s. 71]
 
 ### Exclusion orders by casino operator
 
@@ -2646,6 +2820,8 @@ Entry to casino premises
 
 (3) As soon as practicable after a casino operator gives an exclusion order under subsection (1) or revokes the order, the casino operator shall notify the Authority and the Council of that order or the revocation of that order, as the case may be.
 
+[Vic. CCA 1991, s. 72]
+
 ### Exclusion orders by Authority
 
 121\.—(1) The Authority may, by an exclusion order given to a person orally or in writing, prohibit the person from entering or remaining on any casino premises.
@@ -2653,6 +2829,8 @@ Entry to casino premises
 (2) An oral exclusion order lapses after 14 days.
 
 (3) As soon as practicable after the Authority gives an exclusion order under this section, the Authority shall notify each casino operator of that order.
+
+[Vic. CCA 1991, s. 73]
 
 ### Exclusion orders by Commissioner of Police
 
@@ -2662,6 +2840,8 @@ Entry to casino premises
 
 (3) A person who has been given an exclusion order under this section may appeal to the Minister whose decision shall be final.
 
+[Vic. CCA 1991, s. 74]
+
 ### Duration of exclusion orders
 
 123\.—(1) An exclusion order made under section 121 or 122 remains in force in respect of a person unless and until it is revoked by the person who gave the order or by the Minister, on appeal.
@@ -2670,15 +2850,21 @@ Entry to casino premises
 
 (3) When an exclusion order is revoked by the Authority or the Minister, the Authority shall give notice of the revocation to each casino operator as soon as practicable after it occurs.
 
+[Vic. CCA 1991, s. 75]
+
 ### List of persons excluded by casino operator
 
 124\. The Authority may, from time to time, require a casino operator to furnish a list of persons excluded from the casino premises by the casino operator.
+
+[Vic. CCA 1991, s. 76]
 
 ### Excluded person not to enter casino premises
 
 125\.—(1) An excluded person shall not enter or remain, or take part in any gaming, on any casino premises.
 
 (2) Any person, being subject to an exclusion order made under section 121 or 122, who contravenes subsection (1) shall be guilty of an offence.
+
+[Vic. CCA 1991, s. 77]
 
 ### Casino operator to bar excluded persons from casino premises
 
@@ -2706,11 +2892,13 @@ Entry to casino premises
 
 (ii) remove such a person from the casino premises or cause such a person to be removed from the casino premises.
 
-(3) Any person who fails to comply with subsection (2) shall be ––
+(3) Any person who fails to comply with subsection (2) shall be —
 
 (a) liable to disciplinary action, in the case of a casino operator or a licensed special employee; or
 
 (b) guilty of an offence, in any other case.
+
+[Vic. CCA 1991, s. 78]
 
 ### Forfeiture of winnings
 
@@ -2728,6 +2916,8 @@ Entry to casino premises
 
 (5) The amount of winnings to be forfeited under this section shall be investigated and determined by an authorised person whose decision shall be final.
 
+[Vic. CCA 1991, s. 78B]
+
 Division 5 —
 
 Prohibited acts within casino premises
@@ -2743,6 +2933,8 @@ Prohibited acts within casino premises
 (c) drunken, disorderly or riotous behaviour.
 
 (2) Any casino operator who contravenes subsection (1) shall be liable to disciplinary action.
+
+[Part 1 of Schedule]
 
 ## PART VII
 
@@ -2760,15 +2952,21 @@ MINORS
 
 “minor” means a person who is below the age of 21 years.
 
-### Part only applies during hours of operation of casino
+[Vic. CCA 1991, s. 82]
+
+### Part applies only during hours of operation of casino
 
 131\. This Part applies to casino premises only during the hours of operation of the casino.
+
+[Vic. CCA 1991, s. 83]
 
 ### Minors not to enter casino premises
 
 132\.—(1) A minor shall not enter or remain, or take part in any gaming, on any casino premises.
 
 (2) Any minor who contravenes subsection (1) shall be guilty of an offence.
+
+[Vic. CCA 1991, s. 84]
 
 ### Casino operator to bar minors from casino premises
 
@@ -2786,17 +2984,21 @@ MINORS
 
 (b) before the minor entered the casino premises or while the minor was on the casino premises there was produced to the casino operator or to his agent or employee acceptable proof of age for the minor.
 
+[Vic. CCA 1991, s. 85]
+
 ### Entry of minors to be prevented
 
 134\.—(1) If a casino operator or a casino employee is aware that a person who may reasonably be suspected of being a minor is attempting to enter the casino premises, the casino operator or casino employee shall refuse the person entry to the casino premises.
 
 (2) The casino operator or casino employee is not required to refuse the person entry if there is produced to the casino operator or casino employee acceptable proof of age for the person.
 
-(3) Any person who contravenes subsection (1) shall be ––
+(3) Any person who contravenes subsection (1) shall be —
 
 (a) liable to disciplinary action, in the case of a casino operator or a licensed special employee; or
 
 (b) guilty of an offence, in any other case.
+
+[Vic. CCA 1991, s. 86]
 
 ### Proof of age may be required
 
@@ -2816,9 +3018,13 @@ shall be guilty of an offence.
 
 (3) It is not an offence to fail to comply with a requirement under subsection (1) if the person who made the requirement did not inform the person of whom the requirement was made, at the time it was made, that it is an offence to fail to comply with the requirement.
 
+[Vic. CCA 1991, s. 87]
+
 ### Minor using false evidence of age
 
 136\. A minor who uses any evidence purporting to be evidence of his age in order to obtain entry to or remain on any casino premises is guilty of an offence if the evidence is false in a material particular in relation to the minor.
+
+[Vic. CCA 1991, s. 88]
 
 ### Notices to be displayed
 
@@ -2827,6 +3033,8 @@ shall be guilty of an offence.
 (2) The direction may impose requirements as to the form, position and matter to be displayed on any such notice.
 
 (3) A casino operator is liable to disciplinary action if such a direction is not complied with in relation to the casino.
+
+[Vic. CCA 1991, s. 89]
 
 ## PART VIII
 
@@ -2843,6 +3051,8 @@ CASINO INTERNAL CONTROLS
 (4) The casino operator shall ensure that the system approved for the time being under this section for the casino is implemented.
 
 (5) Any casino operator who fails to comply with subsection (1) or (4) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 121]
 
 ### Content of approved system
 
@@ -2912,6 +3122,8 @@ CASINO INTERNAL CONTROLS
 
 (3) The Authority may, from time to time, by notice in writing to a casino operator, require details relating to other aspects of the casino operations to be included in the approved system.
 
+[Vic. CCA 1991, s. 122]
+
 ### Banking
 
 140\.—(1) A casino operator shall —
@@ -2928,6 +3140,8 @@ CASINO INTERNAL CONTROLS
 
 (5) Any casino operator who fails to comply with subsection (1) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 123]
+
 ### Accounts to be kept
 
 141\.—(1) A casino operator shall keep such accounting records as correctly record and explain the transactions and financial position of the operations of the casino.
@@ -2935,6 +3149,8 @@ CASINO INTERNAL CONTROLS
 (2) The accounting records shall be kept in such a manner as will enable true and fair financial statements and accounts to be prepared from time to time and the financial statements and accounts to be conveniently and properly audited.
 
 (3) Any casino operator who fails to comply with subsection (1) or (2) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 124]
 
 ### Statement of accounts
 
@@ -2947,6 +3163,8 @@ CASINO INTERNAL CONTROLS
 (c) a balance-sheet as at the end of the financial year that gives a true and fair view of the financial operations of the casino operator in relation to the casino.
 
 (2) Any casino operator who fails to comply with subsection (1) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 125]
 
 ### Keeping of records
 
@@ -2962,6 +3180,8 @@ CASINO INTERNAL CONTROLS
 
 (3) Any casino operator who fails to comply with subsection (1) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 126]
+
 ### Audit
 
 144\.—(1) A casino operator shall, as soon as practicable after the end of its financial year, cause the books, accounts and financial statements of the casino operator in relation to the casino to be audited by a person approved by the Authority to audit the accounting records of the casino operator.
@@ -2974,6 +3194,8 @@ CASINO INTERNAL CONTROLS
 
 (5) Any casino operator who fails to comply with subsection (1) or (4) shall be liable to disciplinary action.
 
+[Vic. CCA 1991, s. 127]
+
 ### Submission of reports
 
 145\.—(1) A casino operator shall submit to the Authority reports relating to the operations of the casino.
@@ -2981,6 +3203,8 @@ CASINO INTERNAL CONTROLS
 (2) The reports are to be submitted at the times, and are to contain the information, that is specified by notice in writing given to the casino operator by the Authority from time to time.
 
 (3) Any casino operator who fails to comply with subsection (1) or (2) shall be liable to disciplinary action.
+
+[Vic. CCA 1991, s. 128]
 
 ## PART IX
 
@@ -3076,7 +3300,7 @@ shall be guilty of an offence for which, on conviction, he shall pay a penalty o
 
 ### Composition of offences by Comptroller
 
-152\.—(1) The Comptroller may compound any offence under section 150 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding 4 times the amount of casino tax underpaid.
+152\.—(1) The Comptroller may compound any offence under section 150 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding 4 times the amount of casino tax underpaid .
 
 (2) The Comptroller may compound any offence under section 151 and the regulations made under section 146 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
@@ -3114,6 +3338,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 “respondent” means a person against whom a family exclusion order or exclusion order is sought or made.
 
+[SA Problem Gambling 2004, s. 3]
+
 ### Establishment of Council
 
 154\.—(1) There shall be a National Council on Problem Gambling comprising a chairman and not less than 7 and not more than 19 other members to be appointed by the Minister.
@@ -3121,6 +3347,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 (2) The chairman and every member of the Council shall be appointed for a period not exceeding 2 years and shall be eligible for reappointment.
 
 (3) The Minister may, at any time, revoke the appointment of the chairman or any member of the Council and may appoint any person to fill any vacancy which may arise in the Council for any reason whatsoever.
+
+[Religious Harmony Act, s. 3]
 
 ### Functions of Council
 
@@ -3142,11 +3370,15 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (7) Where the office of chairman is vacant or the chairman for any reason is unable to attend a meeting, such other member as the members present shall elect shall preside at the meeting.
 
+[Religious Harmony Act, s. 4]
+
 ### Validity of Council’s actions
 
 156\.—(1) The Council may, subject to section 155(5), transact its business notwithstanding any vacancy among its members.
 
 (2) The proceedings or any decision of the Council shall be valid notwithstanding any defect in the appointment of its members or that some person who was not entitled to do so took part in its proceedings.
+
+[Religious Harmony Act, s. 5]
 
 ### Committee of Assessors for making exclusion orders
 
@@ -3168,6 +3400,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (7) There shall be paid to the members of the panel such salaries, fees and allowances as the Council may determine.
 
+[Land Acquisition Act, s. 26]
+
 ### Committee to hear and determine applications for family exclusion orders
 
 158\.—(1) A Committee shall hear and determine in accordance with this Part all applications for family exclusion orders referred to the Committee under section 159(2).
@@ -3176,7 +3410,7 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (3) No party to any proceedings before a Committee may be represented by an advocate and solicitor except that the person making the application on behalf of an applicant under section 160 or 161 may represent the applicant before a Committee although he may be an advocate and solicitor.
 
-(4) A Committee shall have the power to ––
+(4) A Committee shall have the power to —
 
 (a) summon any person whom it may consider able to give evidence to attend at the hearing of an application; and
 
@@ -3194,6 +3428,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (b) any question arising at the meeting of the Committee shall be determined by a majority of votes of the members present and, in the case of an equality of votes, the chairman of the Committee shall have a casting vote.
 
+[SA Problem Gambling 2004, s. 11]
+
 ### Application for family exclusion order
 
 159\.—(1) An application for a family exclusion order may be made by —
@@ -3203,6 +3439,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 (b) a person referred to in section 160 or 161 on behalf of a family member referred to in paragraph (a).
 
 (2) An application shall be made to the Council in writing in the form approved by the Council, and the Council shall refer the application to a Committee.
+
+[SA Problem Gambling 2004, s. 7]
 
 ### Application by or on behalf of person below 21 years
 
@@ -3216,6 +3454,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (ii) with the permission of the Council, any other family member or other relative of the person.
 
+[SA Problem Gambling 2004, s. 8]
+
 ### Application on behalf of incapacitated applicant
 
 161\. Where a person is unable to make an application (whether by reason of physical or mental infirmity or for any other reason), the application may be made on his behalf —
@@ -3223,6 +3463,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 (a) with the permission of the Council, by any family member or other relative of the person; or
 
 (b) by any person appointed by the Minister.
+
+[Parents Act, s. 11]
 
 ### Grounds for making family exclusion order
 
@@ -3256,6 +3498,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (7) A Committee shall report to the Council its decision on every application referred to the Committee accordingly and briefly state the reasons for its decision.
 
+[SA Problem Gambling 2004, s. 4]
+
 ### Terms of family exclusion order
 
 163\.—(1) A family exclusion order —
@@ -3273,6 +3517,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 (c) require the respondent to close any deposit account in a casino;
 
 (d) require a casino operator to close any deposit account of the respondent with the casino.
+
+[SA Problem Gambling 2004, s. 5]
 
 ### Making family exclusion order in respondent’s absence
 
@@ -3304,9 +3550,11 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (7) If a hearing is adjourned, the Committee at the adjourned hearing need not be constituted of the same members as constituted the Committee when it ordered the adjournment.
 
+[SA Problem Gambling 2004, s. 9]
+
 ### Committee may make exclusion order in certain circumstances
 
-165\.—(1) A Committee may, on its own motion, by written order make an exclusion order against a person if it comes to the attention of the Committee that the person ––
+165\.—(1) A Committee may, on its own motion, by written order make an exclusion order against a person if it comes to the attention of the Committee that the person —
 
 (a) is on any social assistance programme funded by the Government or any statutory body;
 
@@ -3338,19 +3586,23 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (4) The decision of the Council under this section shall be final.
 
+[SA Problem Gambling 2004, s. 10]
+
 ### Service of family exclusion order or exclusion order
 
-167\.—(1) A family exclusion order or exclusion order made by a Committee must be served on the respondent and is not binding on the person named in the order until it has been so served.
+167\.—(1) A family exclusion order or an exclusion order made by a Committee must be served on the respondent and is not binding on the person named in the order until it has been so served.
 
-(2) If a family exclusion order or exclusion order is confirmed in an amended form or is varied at any time, the order in its amended or varied form must be served on the respondent and until so served —
+(2) If a family exclusion order or an exclusion order is confirmed in an amended form or is varied at any time, the order in its amended or varied form must be served on the respondent and until so served —
 
 (a) the variation is not binding on the respondent; and
 
 (b) the order as in force prior to the variation continues to be binding on the respondent.
 
+[SA Problem Gambling 2004, s. 12]
+
 ### Notification of making, variation or revocation of family exclusion order or exclusion order
 
-168\. A copy of every family exclusion order or exclusion order, and a copy of every variation or revocation of such order must be provided by the Council to ––
+168\. A copy of every family exclusion order or exclusion order, and a copy of every variation or revocation of such order must be provided by the Council to —
 
 (a) the applicant, if any;
 
@@ -3360,11 +3612,13 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (d) every casino operator.
 
-### Secrecy
+[SA Problem Gambling 2004, s. 13]
+
+### Secrecy of proceedings of Committee
 
 169\.—(1) Except as provided under section 168 and this section, the proceedings of a Committee shall be secret.
 
-(2) No member of a Committee shall disclose or divulge to any person, other than ––
+(2) No member of a Committee shall disclose or divulge to any person, other than —
 
 (a) the Minister;
 
@@ -3373,6 +3627,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 (c) any officer of the Authority,
 
 any matter which has arisen at any proceedings of the Committee unless he is expressly authorised to do so by the Minister.
+
+[Religious Harmony Act, s. 7]
 
 ### Rules
 
@@ -3406,13 +3662,15 @@ GENERAL OFFENCES
 
 (d) such other thing as may be prescribed.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction ––
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 7 years or to both; or
 
 (b) in the case of a corporation, to a fine not exceeding $300,000.
 
 (4) Subsection (2) does not prohibit the possession in a casino of any thing referred to in that subsection by a person in charge of the casino, an agent of the casino operator, a casino employee, an inspector, or a police officer, if that thing has been seized by any of those persons from another person for use as evidence in proceedings for an offence.
+
+[Vic. CCA 1991, s. 80]
 
 ### Unlawful interference with gaming equipment
 
@@ -3424,7 +3682,7 @@ GENERAL OFFENCES
 
 (c) insert, or cause to be inserted, in a gaming machine any thing other than Singapore currency or a gaming token of the denomination or type displayed on the gaming machine as a gaming token to be used in order to operate or gain credit on the gaming machine.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction ––
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 7 years or to both; or
 
@@ -3432,13 +3690,15 @@ GENERAL OFFENCES
 
 (3) If a police officer or an inspector believes on reasonable grounds that a person has committed an offence under subsection (1), the police officer or inspector may search the person for any device or thing that the police officer or inspector suspects was used in the commission of the offence.
 
+[Vic. Gam. RA 2003, s. 3.5.10]
+
 ### Possession of chips outside designated site
 
 173\.—(1) A person shall not, except in a casino or on premises within any designated site, have in his possession chips the aggregate value of which exceeds $10,000 or such other amount as may be prescribed in substitution thereof.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-### Forgery
+### Forgery and counterfeiting
 
 174\.—(1) No person shall —
 
@@ -3446,11 +3706,13 @@ GENERAL OFFENCES
 
 (b) use as genuine counterfeit chips or a forged or counterfeit chip purchase voucher, licence under this Act or special employee’s form of identification, knowing or having reason to believe the same to be forged or counterfeit.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction ––
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 7 years or to both; or
 
 (b) in the case of a corporation, to a fine not exceeding $300,000.
+
+[Vic. CCA 1991, s. 153B]
 
 ### Impersonation
 
@@ -3462,13 +3724,15 @@ GENERAL OFFENCES
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[Vic. CCA 1991, s. 153B]
+
 ### Refusal to provide information, etc.
 
-176\.—(1) Any person who ––
+176\.—(1) Any person who —
 
-(a) fails, without reasonable excuse, to produce for inspection any machinery, equipment or records in the possession or under the control of the person when required so to do by an inspector or a police officer in the performance of his functions under this Act; or
+(a) fails, without reasonable excuse, to produce for inspection any machinery, equipment or records in the possession or under the control of the person when required to do so by an inspector or a police officer in the performance of his functions under this Act; or
 
-(b) fails, without reasonable excuse, to attend before an inspector or a police officer and answer questions or supply information when required so to do by the inspector or police officer in the performance of his functions under this Act,
+(b) fails, without reasonable excuse, to attend before an inspector or a police officer and answer questions or supply information when required to do so by the inspector or police officer in the performance of his functions under this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -3504,7 +3768,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the information is false or misleading in a material particular; and
 
-(b) he knows that it is false or misleading in a material particular or is reckless as to whether it is.
+(b) he knows that it is false or misleading in a material particular or is reckless as to whether it is so.
 
 (2) A person who —
 
@@ -3518,7 +3782,7 @@ knowing that the information is to be used for the purpose of providing informat
 
 ### Obstructing officer of Authority, etc.
 
-179\. Any person who refuses to give access to, or obstructs, hinders or delays ––
+179\. Any person who refuses to give access to, or obstructs, hinders or delays —
 
 (a) any member, officer, employee or agent of the Authority authorised to act for or assist the Authority;
 
@@ -3530,7 +3794,7 @@ in the discharge of his duties under this Act shall be guilty of an offence and 
 
 ## PART XII
 
-Enforcement powers and proceedings
+ENFORCEMENT POWERS AND PROCEEDINGS
 
 ### Detention of suspected person
 
@@ -3551,6 +3815,8 @@ and who suspects on reasonable grounds that a person within the casino premises 
 (b) the person detained is informed of the reasons for the detention; and
 
 (c) the person effecting the detention immediately notifies a police officer or an inspector of the detention and the reasons for the detention.
+
+[Vic. CCA 1991, s. 81]
 
 ### Powers of enforcement
 
@@ -3580,7 +3846,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Refusal to give name and residence
 
-183\.—(1) Any inspector or authorised person may arrest any person whom he reasonably believes has committed a non-seizable offence under this Act in order that his name or residence may be ascertained, if that person ––
+183\.—(1) Any inspector or authorised person may arrest any person whom he reasonably believes has committed a non-seizable offence under this Act in order that his name or residence may be ascertained, if that person —
 
 (a) refuses on the demand of the inspector or authorised person to give his name and residence;
 
@@ -3608,13 +3874,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 may, within 28 days of receipt of the decision, appeal to the Minister whose decision shall be final.
 
-(3) An appeal shall ––
+(3) An appeal shall —
 
 (a) be in writing; and
 
 (b) specify the grounds on which it is made.
 
-(4) After consideration of an appeal, the Minister may ––
+(4) After consideration of an appeal, the Minister may —
 
 (a) reject the appeal and confirm the decision; or
 
@@ -3626,9 +3892,13 @@ and the appellant shall be notified in writing of the Minister’s decision in r
 
 (6) An appeal against a decision does not affect the operation of the decision or prevent the taking of action to implement the decision.
 
+[Vic. CCA 1991, s. 155]
+
 ### No right to compensation for cancellation, etc.
 
 185\. Subject to section 4, no right to compensation enforceable against the Authority arises in relation to the cancellation, suspension or variation of the terms of any licence, or an amendment of the conditions of any licence, under this Act.
+
+[Vic. CCA 1991, s. 156]
 
 ### Information gathering for law enforcement purposes
 
@@ -3658,6 +3928,8 @@ and the appellant shall be notified in writing of the Minister’s decision in r
 
 (7) The provisions of this section are in addition to, and not in derogation of, any other written law conferring powers on any law enforcement agency to obtain information.
 
+[Vic. CCA 1991, s. 166]
+
 ### Protection of informers
 
 187\.—(1) Except as provided in subsection (3), no witness in any civil or criminal proceedings shall be obliged —
@@ -3675,6 +3947,8 @@ and the appellant shall be notified in writing of the Minister’s decision in r
 (b) in any other proceedings, the court is of the opinion that justice cannot be fully done between the parties thereto without the disclosure of the name of an informer,
 
 the court may permit inquiry and require full disclosure concerning the informer.
+
+[Misuse of Drugs Act, s. 23]
 
 ### Evidence
 
@@ -3699,6 +3973,8 @@ is evidence of the fact or facts asserted.
 (b) a document purporting to be a copy of a licence, permit, approval or other authorisation under this Act is evidence of the licence, permit, approval or authorisation of which it purports to be a copy; and
 
 (c) evidence that a person accepted service of a document is evidence of the authority of the person to accept service of the document.
+
+[Vic. Gam. RA 2003, s. 10.5.32]
 
 ## PART XIII
 
@@ -3734,7 +4010,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (5) In this section —
 
-“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
 “officer” —
 
@@ -3782,6 +4058,8 @@ shall disclose any information relating to the affairs of the Authority or of an
 
 (4) In this section, “foreign casino regulatory body” means a person in whom there are vested functions under the law of another country or territory with respect to the enforcement or the administration of provisions of law of that country or territory concerning casinos.
 
+[Competition Act, s. 88]
+
 ### Protection from liability
 
 192\. No action, suit or other legal proceedings shall lie against the Authority or personally against —
@@ -3822,7 +4100,7 @@ for anything done (including any statement made) or omitted to be done in good f
 
 ### Composition of offences
 
-196\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding ––
+196\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
@@ -3920,7 +4198,7 @@ whichever is the lower.
 
 (3) Regulations made under this Act —
 
-(a) may provide that any contravention of any provision of the regulations shall be an offence punishable with ––
+(a) may provide that any contravention of any provision of the regulations shall be an offence punishable with —
 
 (i) in the case of a casino operator, a fine not exceeding $100,000; or
 
@@ -3931,6 +4209,8 @@ whichever is the lower.
 (c) may differ according to differences in time, place or circumstance; and
 
 (d) may provide for such transitional, savings and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
+
+[Vic. CCA 1991, s. 167]
 
 ### Related amendments to Civil Law Act
 
@@ -3986,7 +4266,7 @@ whichever is the lower.
 
 (b) deductible against any income accruing in or derived from Singapore.
 
-(9) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act 2006.
+(9) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act (Cap. 33A).
 
 ”;
 
@@ -4000,7 +4280,7 @@ Application of section 45 to commission or other payment of junket promoter
 
 (2) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 3%.
 
-(3) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act 2006.
+(3) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act (Cap. 33A).
 
 ”; and
 
@@ -4072,7 +4352,7 @@ Disqualification from membership
 
 Disclosure of interest by members
 
-12.—(1) A member who is in any way, directly or indirectly, interested in ––
+12.—(1) A member who is in any way, directly or indirectly, interested in —
 
 (a) a transaction or project of the Authority; or
 
@@ -4110,3 +4390,113 @@ Validity of acts
 
 15\. The acts of a member shall be valid notwithstanding any defect in his appointment or qualifications.
 
+## LEGISLATIVE SOURCE KEY
+
+Casino Control Act
+
+(CHAPTER 33A)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
+
+Vic. CCA 1991
+
+:
+
+Australian, Victoria, Casino Control Act 1991 (Act No. 47 of 1991)
+
+Vic. Gam. RA 2003
+
+:
+
+Australian, Victoria, Gambling Regulation Act 2003 (Act No. 114 of 2003)
+
+NSW CCA 1992
+
+:
+
+Australia, New South Wales, Casino Control Act 1992 (Act 15 of 1992)
+
+SA Problem Gambling 2004
+
+:
+
+Australia, South Australia, Problem Gambling Family Protection Orders Act 2004 (Act No. 10 of 2004)
+
+Nevada Revised Statutes
+
+:
+
+United States, Nevada, Nevada Gambling Control Act (Chapter 463)
+
+Banking Act
+
+:
+
+Singapore, Banking Act (Chapter 19, 2003 Revised Edition)
+
+Competition Act
+
+:
+
+Singapore, Competition Act 2004 (Act 46 of 2004)
+
+EDA
+
+:
+
+Singapore, Entertainments Duty Act (Chapter 94, 1985 Revised Edition)
+
+Land Acquisition Act
+
+:
+
+Singapore, Land Acquisition Act (Chapter 152, 1985 Revised Edition)
+
+Maint. Parents Act
+
+:
+
+Singapore, Maintenance of Parents Act (Chapter 167B, 1996 Revised Edition)
+
+Maint. Religious Harmony Act
+
+:
+
+Singapore, Maintenance of Religious Harmony Act (Cap. 167A, 2001 Revised Edition)
+
+Misuse of Drugs Act
+
+:
+
+Singapore, Misuse of Drugs Act (Chapter 185, 2001 Revised Edition)
+
+Telcom. Act
+
+:
+
+Singapore, Telecommunications Act (Cap. 323, 2000 Revised Edition)
+
+PEM(DR)R
+
+:
+
+Singapore, Public Entertainments and Meetings (Demerit Points) Rules (Chapter 257, 2002 Revised Edition, R2)
+
+## LEGISLATIVE HISTORY
+
+Casino Control Act
+
+(CHAPTER 33A)
+
+This Legislative History is provided for the convenience of users of the Casino Control Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 10 of 2006—Casino Control Act 2006**|
+||Date of First Reading|16 January 2006|
+|||(Bill No. 3/2006 published on 17 March 2006)|
+||Date of Second and Third Readings|14 February 2006|
+||Date of commencement|1 June 2006|
+|2.|**2007 Revised Edition—Casino Control Act**|
+||(G.N. No. S 120/2008 — Rectification Order)||
+||Date of operation|31 October 2007|
