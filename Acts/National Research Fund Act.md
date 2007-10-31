@@ -1,16 +1,14 @@
-**National Research Fund Act 2006**
+**National Research Fund Act**
 
-**(No. 17 of 2006)**
+**(CHAPTER 201A)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Research-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -52,51 +50,29 @@
 
 - [18 Regulations](#Regulations)
 
-- [19 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE Consequential Amendments to Other Written Laws**](#THE-SCHEDULE)
+# National Research Fund Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 201A)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 17 of 2006)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2007
 
-Published by Authority
+(31st October 2007)
 
-NO. 22]
+An Act to establish a National Research Fund and to provide for its proper administration.
 
-Friday, May 19
-
-[2006
-
-The following Act was passed by Parliament on 3rd April 2006 and assented to by the President on 12th April 2006:—
-
-National Research Fund Act 2006
-
-(No. 17 of 2006)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-12th April 2006.
-
-Date of Commencement: 22nd August 2006
-
-An Act to establish a National Research Fund and to provide for its proper administration, and to make consequential amendments to the Agency for Science, Technology and Research Act (Chapter 5A of the 2002 Revised Edition) and the Standards, Productivity and Innovation Board Act (Chapter 303A of the 2002 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[22nd August 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Research Fund Act 2006 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Research Fund Act.
 
 ### Interpretation
 
@@ -140,7 +116,7 @@ PRELIMINARY
 
 (v) any other work or services (including patenting, licensing and other activities) necessary to support activities of the kind referred to in paragraph (a).
 
-(2) For the purposes of this section, the following activities shall not be taken to be systematic, investigative and experimental activities:
+(2) For the purposes of this section, the following activities shall not be taken to be systematic, investigative or experimental activities:
 
 (a) market research, market testing or market development, and sale promotion (including consumer survey);
 
@@ -246,7 +222,7 @@ ADMINISTRATION OF FUND
 
 ### National Research Foundation Board
 
-9\. (1) There shall be a body to be called the National Research Foundation Board comprising such number of members as the Minister thinks fit.
+9\.—(1) There shall be a body to be called the National Research Foundation Board comprising such number of members as the Minister thinks fit.
 
 (2) The members of the Board shall each be appointed by the Minister and shall hold office for such period (not exceeding 3 years) as the Minister may in any case determine.
 
@@ -266,7 +242,7 @@ ADMINISTRATION OF FUND
 
 (g) to submit to the Minister an annual report respecting the Fund not later than 30 days after the end of each financial year in relation to that Fund; and
 
-(h) to exercise such other powers and perform such other duties and functions with respect to the management, operation and administration of the Fund as may be prescribed.
+(h) to exercise such other powers and perform such other functions and duties with respect to the management, operation and administration of the Fund as may be prescribed.
 
 (4) The Board shall, in the exercise of its powers and the performance of its functions and duties under this Act, comply with such directives as may from time to time be issued by the Council.
 
@@ -284,7 +260,7 @@ ADMINISTRATION OF FUND
 
 (a) cause to be kept proper accounts and records of all transactions and affairs relating to the Fund;
 
-(b) do all things necessary to ensure that payments out of the Fund are correctly made and properly authorised; and
+(b) do all things necessary to ensure that payments out of the Fund are properly authorised and correctly made; and
 
 (c) ensure that adequate control is maintained over the assets and receipts of the Fund.
 
@@ -292,9 +268,9 @@ ADMINISTRATION OF FUND
 
 ### Financial statements and audit reports
 
-12\. (1) The Board shall, as soon as practicable after the close of the financial year of the Fund, cause to be prepared and submitted to the Auditor-General the financial statements and accounts for the Fund relating to that financial year, and the Auditor-General shall then audit or cause an audit of the statements and accounts and report on them.
+12\.—(1) The Board shall, as soon as practicable after the close of each financial year of the Fund, cause to be prepared and submitted to the Auditor-General the financial statements and accounts for the Fund relating to that financial year, and the Auditor-General shall then audit or cause an audit of the statements and accounts and report on them.
 
-(2) The financial year of the Fund shall be a period of 12 months ending on 31st March in any year, except that the first financial year of the Fund shall begin on the date of commencement of this Act and end on 31st March of the succeeding year.
+(2) The financial year of the Fund shall be a period of 12 months ending on 31st March in any year, except that the first financial year of the Fund shall begin on 22nd August 2006 and end on 31st March of the succeeding year.
 
 (3) The remuneration of the auditor shall be paid out of the Fund.
 
@@ -362,7 +338,7 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
 
-(b) to be attributable to any neglect on the part of such an officer or member,
+(b) to be attributable to any neglect on the part of such an officer or a member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -390,43 +366,20 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 18\. The Minister may make regulations for carrying out the purposes and provisions of this Act.
 
-### Consequential amendments to other written laws
+## LEGISLATIVE HISTORY
 
-19\. The provisions of the Acts specified in the first column of the Schedule are amended in the manner set out in the second column thereof.
+National Research Fund Act
 
-## THE SCHEDULE
+(CHAPTER 201A)
 
-Section 19
+This Legislative History is provided for the convenience of users of the National Research Fund Act. It is not part of the Act.
 
-Consequential Amendments to Other Written Laws
-
-First column
-
-Second column
-
-(1)
-
-Agency for Science, Technology and Research Act (Chapter 5A, 2002 Ed.)
-
-Section 6 (2)
-
-Delete the word “and” at the end of paragraph (a) and insert immediately thereafter the following paragraph:
-
-“(aa)
-
-have regard to the policies and directions of the Research, Innovation and Enterprise Council established under the National Research Fund Act 2006; and”.
-
-(2)
-
-Standards, Productivity and Innovation Board Act (Chapter 303A, 2002 Ed.)
-
-Section 6
-
-Insert, immediately after subsection (1), the following subsection:
-
-“
-
-(1A) In carrying out its functions, the Board shall have regard to the policies and directions of the Research, Innovation and Enterprise Council established under the National Research Fund Act 2006.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 17 of 2006—National Research Fund Act 2006**|
+||Date of First Reading|27 February 2006|
+|||(Bill No. 10/2006 published on 27 February 2006)|
+||Date of Second and Third Readings|3 April 2006|
+||Date of commencement|22 August 2006|
+|2.|**2007 Revised Edition—National Research Fund Act**|
+||Date of operation|31 October 2007|
