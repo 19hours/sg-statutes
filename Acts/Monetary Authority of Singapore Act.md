@@ -80,6 +80,8 @@
 
 - [28A Power of Authority in relation to dispute resolution schemes](#Power-of-Authority-in-relation-to-dispute-resolution-schemes)
 
+- [28B Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
+
 - [29 Fees](#Fees)
 
 - [29A Real-time gross settlement system](#Real-time-gross-settlement-system)
@@ -178,8 +180,6 @@ PRELIMINARY
 
 “financial instrument” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
-[13/2007 wef 30/06/2007]
-
 “managing director” means a director appointed under section 9(1);
 
 [24/2003 wef 01/01/2004]
@@ -217,6 +217,8 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 (c) to ensure prudent and effective management of the official foreign reserves of Singapore; and
 
 (d) to grow Singapore as an internationally competitive financial centre.
+
+[13/2007 wef 30/06/2007]
 
 (2) The functions of the Authority shall be —
 
@@ -312,6 +314,8 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (3) The managing director shall be entrusted with the day-to-day administration of the Authority, and may, subject to this Act, make decisions and exercise all powers and do all acts which may be exercised or done by the Authority under this Act or any other written law.
 
+[24/2003 wef 01/01/2004]
+
 (4) The managing director shall be answerable to the board for his acts and decisions.
 
 (5) In the event of the absence or inability to act of the managing director, the Minister may appoint —
@@ -331,6 +335,8 @@ to discharge the duties of the managing director during the period of his absenc
 (a) shall remain responsible for any exercise of his powers or any performance of his functions or duties by any officer or employee appointed or by any committee formed under subsection (6); and
 
 (b) may continue to exercise his powers or perform his functions or duties conferred or imposed upon him by virtue of subsection (3), notwithstanding the delegation of the power, function or duty under subsection (6).
+
+[24/2003 wef 01/01/2004]
 
 ### Disqualification of directors
 
@@ -362,9 +368,9 @@ to discharge the duties of the managing director during the period of his absenc
 
 11A\. The President, acting in his discretion, may refuse to appoint any person as chairman, deputy chairman, director or managing director or to revoke any such appointment if the President does not concur with the advice or recommendation of the Minister, the Cabinet, a Minister acting under the general authority of the Cabinet or the Public Service Commission, as the case may be, and may refuse to concur with an appointment by the Minister under section 9(5)(b).
 
-[13/2007 wef 30/06/2007]
-
 [11/91]
+
+[13/2007 wef 30/06/2007]
 
 ### Meetings and decisions of board
 
@@ -514,8 +520,6 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (ea) grant any loan, advance, overdraft or other credit facility to the Government on such terms and conditions as the Authority thinks fit;
 
-[13/2007 wef 30/06/2007]
-
 (f) purchase, sell, discount and re-discount bills of exchange and promissory notes arising out of bona fide commercial transactions bearing 2 or more good signatures and maturing within 3 months (exclusive of days of grace) from the date of acquisition;
 
 (g) grant loans, advances or other credit facilities for the purposes of money market operations, on such terms and conditions as the Authority thinks fit, to such financial institutions or class of financial institutions as the Authority may from time to time determine;
@@ -530,7 +534,7 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (l) maintain accounts with central banks outside Singapore and with other banks inside and outside Singapore;
 
-(m) purchase and sell securities of, or guaranteed by, such guarantor, governments or international financial institutions as may be approved by the board, or purchase and sellsuch other securities, financial instruments and investments as may be approved by the board;
+(m) purchase and sell securities of, or guaranteed by, such guarantor, governments or international financial institutions as may be approved by the board, or purchase and sell such other securities, financial instruments and investments as may be approved by the board;
 
 [13/2007 wef 30/06/2007]
 
@@ -542,9 +546,9 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (q) undertake the issue and management of securities issued by the Government or by any public authority;
 
-[31/2005 wef 18/10/2005]
-
 (qa) form or participate in the formation of any company or in any joint venture as a shareholder or partner or in any other capacity, for purposes that are necessary or expedient for the purpose of discharging its functions or achieving its objects; and
+
+[31/2005 wef 18/10/2005]
 
 (r) do generally all such things as may be commonly done by bankers and are not inconsistent with the exercise of its powers or the discharge of its duties under this Act.
 
@@ -553,6 +557,8 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 [13/2007 wef 30/06/2007]
 
 (2) For the purposes of subsection (1)(o) and section 30(d), the Government or a public authority shall have a substantial interest in a company if it, either by itself or together with any other public authority, has an interest or interests in one or more voting shares in the company and the vote or votes attached to that share, or the total votes attached to those shares either held by itself or together with any other public authority, is not less than 20% of the total votes attached to all the voting shares in the company.
+
+[21/2005 wef 30/01/2006]
 
 (3) In subsection (1), a reference to the purchase of any securities or Treasury bills includes subscribing for such securities or Treasury bills.
 
@@ -606,9 +612,9 @@ but only insofar as the subscription does not compromise the object of the Autho
 
 (e) such other securities, financial instruments and investments as may be approved by the board.
 
-[13/2007 wef 30/06/2007]
-
 [26/84]
+
+[13/2007 wef 30/06/2007]
 
 ### Authority as a banker to, and financial agent of, Government and manager of its external assets
 
@@ -654,7 +660,7 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 [31/72; 26/84]
 
-(5) For the avoidance of doubt, any direction issued under this section, section 27A or 28 shall be deemed not to be subsidiary legislation.
+(5) For the avoidance of doubt, any direction issued under this section, section 27A, 27B or 28 shall be deemed not to be subsidiary legislation.
 
 [24/2003 wef 01/01/2004]
 
@@ -684,7 +690,7 @@ as the Authority considers necessary in order to discharge or facilitate the dis
 
 (c) discloses a direction issued to it in contravention of subsection (4),
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million.
 
 [13/2007 wef 30/06/2007]
 
@@ -706,41 +712,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) any insurance intermediary registered or regulated under the Insurance Act;
 
-[13/2007 wef 30/06/2007]
-
 (g) any licensed financial adviser under the Financial Advisers Act (Cap. 110);
-
-[13/2007 wef 30/06/2007]
 
 (h) any approved holding company, securities exchange, futures exchange, recognised market operator, designated clearing house or holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
 
-[13/2007 wef 30/06/2007]
-
 (i) any trustee for a collective investment scheme authorised under section 286 of the Securities and Futures Act, that is approved under that Act;
-
-[13/2007 wef 30/06/2007]
 
 (j) any trustee-manager of a business trust that is registered under the Business Trusts Act (Cap. 31A);
 
-[13/2007 wef 30/06/2007]
-
-(k) any licensed trust company under the Trust Companies Act (Cap. 336); and
+(k) any licensed trust company under the Trust Companies Act (Cap. 336);
 
 [13/2007 wef 30/06/2007]
 
 [42/2007 wef 01/11/2007]
 
-(l) any other person licensed, approved, registered or regulated by the Authority under any written law,
+(ka) any holder of a stored value facility under the Payment Systems (Oversight) Act (Cap. 222A); and
 
-[13/2007 wef 30/06/2007]
+[42/2007 wef 01/11/2007]
+
+(l) any other person licensed, approved, registered or regulated by the Authority under any written law,
 
 but does not include such person or class of persons as the Authority may, by regulations made under this section, prescribe.
 
-[13/2007 wef 30/06/2007]
-
 (7) For the purpose of subsection (6), a reference to a person being licensed, approved, registered or regulated under any of the laws referred to in that subsection includes a person who is exempted under the relevant law from being licensed, approved, registered or regulated, but does not include such person or class of persons as the Authority may, by regulations made under this section, prescribe.
-
-[13/2007 wef 30/06/2007]
 
 [16/2002 wef 30/09/2002]
 
@@ -748,7 +742,11 @@ but does not include such person or class of persons as the Authority may, by re
 
 27B\.—(1) The Authority may, from time to time, issue such directions or make such regulations concerning any financial institution or class of financial institutions as the Authority considers necessary for the prevention of money laundering or for the prevention of the financing of terrorism.
 
-(2) A financial institution which fails or refuses to comply with any direction issued under subsection (1), or contravenes any regulations made under that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
+[13/2007 wef 30/06/2007]
+
+(2) A financial institution which fails or refuses to comply with any direction issued under subsection (1), or contravenes any regulations made under that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine of $100,000 for every day during which the offence continues after conviction.
+
+[13/2007 wef 30/06/2007]
 
 [42/2007 wef 01/11/2007]
 
@@ -824,9 +822,15 @@ and the financial institutions concerned shall comply with such directions.
 
 28A\.—(1) The Authority may approve any dispute resolution scheme for the resolution of disputes arising from or relating to the provision of financial services by financial institutions.
 
+[13/2007 wef 30/06/2007]
+
 (2) The Authority may by regulations require a financial institution registered, licensed, approved or regulated by the Authority under any written law to be a member of such approved dispute resolution scheme and to comply with such terms of membership of the scheme as may be prescribed.
 
+[13/2007 wef 30/06/2007]
+
 (3) Any financial institution which, without reasonable excuse, contravenes any regulations made under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[13/2007 wef 30/06/2007]
 
 (4) Where the Authority is satisfied that a financial institution has contravened any regulations made under subsection (2), the Authority may do one or both of the following:
 
@@ -834,7 +838,11 @@ and the financial institutions concerned shall comply with such directions.
 
 (b) impose on the financial institution under the written law under which the financial institution was registered, licensed or approved, such conditions or restrictions of registration, licence or approval as the Authority thinks fit, including restricting the scope of the activities which the financial institution is allowed to conduct under the written law; and the financial institution shall comply with such conditions or restrictions.
 
+[13/2007 wef 30/06/2007]
+
 (5) Any power of the Authority under the written law referred to in subsection (4)(b) to impose conditions or restrictions of registration, licence or approval shall, notwithstanding anything to the contrary in that written law, be deemed to include the power to impose the conditions or restrictions referred to in subsection (4)(b).
+
+[13/2007 wef 30/06/2007]
 
 (6) The Authority may make regulations —
 
@@ -848,11 +856,43 @@ and the financial institutions concerned shall comply with such directions.
 
 (e) generally to give effect to or for carrying out the purposes of this section.
 
+[13/2007 wef 30/06/2007]
+
 (7) Regulations made under this section may provide that any contravention thereof shall be an offence punishable with a fine not exceeding $50,000.
+
+[13/2007 wef 30/06/2007]
 
 (8) The Authority may issue, and in its discretion publish by notification in theGazetteor in such other manner as it considers appropriate, such guidelines as it considers appropriate for providing guidance in relation to the operation of this section or any regulations made under this section.
 
 [13/2007 wef 30/06/2007]
+
+### Corporate offenders and unincorporated associations
+
+28B\.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the unincorporated association or a member of its governing body, the officer or member (as the case may be) as well as the unincorporated association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) In this section —
+
+“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate, and includes a person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary or a member of the committee of the unincorporated association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity;
+
+“partner”, in relation to a partnership, includes a person purporting to act as a partner.
+
+(7) The Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[42/2007 wef 01/11/2007]
 
 ### Fees
 
@@ -1108,9 +1148,15 @@ MISCELLANEOUS
 
 41A\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the maximum fine prescribed for that offence.
 
+[13/2007 wef 30/06/2007]
+
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
+[13/2007 wef 30/06/2007]
+
 (3) The Authority may make regulations to prescribe the offences which may be compounded.
+
+[13/2007 wef 30/06/2007]
 
 (4) All sums collected under this section shall be paid to the Authority.
 
@@ -1171,8 +1217,6 @@ Written Laws
 19\. Securities and Futures Act (Cap. 289)
 
 20\. Trust Companies Act (Cap. 336).
-
-[13/2007 wef 30/06/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -1290,6 +1334,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 1/2007 published on 9 March 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|30 June 2007|
+|24.|**Act 42 of 2007—Monetary Authority of Singapore (Amendment No. 2) Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 30/2007 published on 19 October 2007)|
+||Date of Second and Third Readings|19 September 2007|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
