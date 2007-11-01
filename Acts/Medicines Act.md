@@ -184,6 +184,8 @@
 
 - [76 Repeal and consequential amendments](#Repeal-and-consequential-amendments)
 
+- [77 Act not to apply to products categorised and regulated as health products under Health Products Act 2007](#Act-not-to-apply-to-products-categorised-and-regulated-as-health-products-under-Health-Products-Act-2007)
+
 [**FIRST SCHEDULE Diseases and Conditions**](#FIRST-SCHEDULE-Diseases-and-Conditions)
 
 [**SECOND SCHEDULE Amendments to the Poisons Act (Chapter 234)**](#SECOND-SCHEDULE-Amendments-to-the-Poisons-Act-Chapter-234)
@@ -528,9 +530,13 @@ and the products are manufactured or assembled in accordance with that product l
 
 (a) the safety of medicinal products of each description to which the application relates;
 
-(b) the efficacy of medicinal products of each such description for the purposes for which the products are proposed to be administered; and
+(b) the efficacy of medicinal products of each such description for the purposes for which the products are proposed to be administered;
 
-(c) the quality of medicinal products of each such description, according to the specification and the method or proposed method of manufacture of the products, and the provisions proposed for securing that the products as sold or supplied will be of that quality.
+(c) the quality of medicinal products of each such description, according to the specification and the method or proposed method of manufacture of the products, and the provisions proposed for securing that the products as sold or supplied will be of that quality; and
+
+(d) whether the grant of a product licence for the medicinal products to which the application relates will be in the public interest.
+
+[15/2007 wef 01/11/2007]
 
 (2) Where any such application indicates that the purposes for which the licence is required relate (wholly or partly) to medicinal products which have been or are to be imported, then in dealing with the application, in so far as it relates to such products, the licensing authority shall also take into consideration in particular the methods, standards and conditions of manufacture of those products and may, if he thinks fit, require the production by the applicant of any one or more of the following:
 
@@ -594,13 +600,13 @@ and the products are manufactured or assembled in accordance with that product l
 
 (3) The licensing authority may, if the applicant has declared that in his opinion and to the best of his belief the patent is invalid or will not be infringed by the doing of the act for which the licence is sought, or if the licensing authority considers it appropriate in any particular case, require the applicant to do the following within such time as the licensing authority may determine:
 
-(a) serve on the proprietor of thea patent under the Patents Act that is in force in respect of a medicinal product to which the application relates, a notice in the prescribed form of his application; and
+(a) serve on the proprietor of the patent a notice in the prescribed form of his application; and
 
 (b) furnish to the licensing authority such evidence of the service as the licensing authority may require.
 
 (4) The licensing authority need not determine the application until the applicant has complied with subsection (2) and, where applicable, subsection (3), to the reasonable satisfaction of the licensing authority.
 
-(5) If the licensing authority is satisfied that a notice referred to in subsection (3) (a) has been served on the proprietor of the patent, the licensing authority may grant the licence to the applicant if the proprietor has not, before the expiration of the period prescribed for the purposes of this subsection —
+(5) If the licensing authority is satisfied that a notice referred to in subsection (3)(a) has been served on the proprietor of the patent, the licensing authority may grant the licence to the applicant if the proprietor has not, before the expiration of the period prescribed for the purposes of this subsection —
 
 (a) applied for the order or declaration by a court or the Registrar of Patents or a Deputy Registrar of Patents holding office under the Patents Act (Cap. 221), as specified in that notice; and
 
@@ -610,9 +616,9 @@ and the products are manufactured or assembled in accordance with that product l
 
 (a) application for the order or declaration referred to in subsection (5)(a) has been made; and
 
-(b) at the endxpiration of the period prescribed for the purposes of this subsection, the order or declaration has not been obtained.
+(b) at the expiration of the period prescribed for the purposes of this subsection, the order or declaration has not been obtained.
 
-(7) For the purpose of subsection (1), the licensing authority may rely upon, and shall not be concerned to inquire into the truth of any statement made in athe declaration furnished under subsection (2).
+(7) For the purpose of subsection (1), the licensing authority may rely upon and shall not be concerned to inquire into the truth of any statement made in a declaration furnished under subsection (2).
 
 (8) This section applies only to an application for a product licence made on or after the date of commencement of the Medicines (Amendment) Act 2004.
 
@@ -660,7 +666,7 @@ and the products are manufactured or assembled in accordance with that product l
 
 (a) a court, or the Registrar of Patents or a Deputy Registrar of Patents holding office under the Patents Act (Cap. 221), has determined that the doing of an act authorised by the licence infringes a patent under the Patents Act;
 
-(b) the person who made athe declaration referred to in section 12A(2) in support of the application for the licence has been convicted for an offence under section 20 in respect of the declaration or any document furnished in support of a statement made in the declaration; or
+(b) the person who made a declaration referred to in section 12A(2) in support of the application for the licence has been convicted for an offence under section 20 in respect of the declaration; or
 
 (c) a court has determined that the declaration —
 
@@ -1612,6 +1618,14 @@ where it is proved that the medicinal product in question was found on a vehicle
 
 10This section was not in operation when this Revised Edition was brought into force.
 
+### Act not to apply to products categorised and regulated as health products under Health Products Act 2007
+
+77\.—(1) Where any product to which this Act applies has been categorised as a type of health product under the Health Products Act 2007, the Minister may, by order published in theGazette, declare that the provisions of this Act shall cease to apply to that type of product as from the date specified in the order, and the provisions of this Act shall, as from the date so specified, cease to apply to that type of product.
+
+(2) The Minister may, in making any order under subsection (1), prescribe such transitional, savings and other consequential provisions as he may consider necessary or expedient.
+
+[15/2007 wef 01/11/2007]
+
 FIRST SCHEDULE
 
 Section 51(1)(a).
@@ -1757,3 +1771,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
+|10.|**Act 15 of 2007—Health Products Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 January 2007|
+|||(Bill No. 3/2007 published on 23 January 2007)|
+||Date of Second and Third Readings|12 February 2007|
+||Date of commencement|1 November 2007|
