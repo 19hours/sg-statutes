@@ -238,9 +238,13 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF AUTHORITY
 
 11\.—(1) Subject to the provisions of this Act, the functions, objects and duties of the Authority shall be —
 
-(a) to regulate the import, manufacture, sale, disposal, transport, storage, possession and use of cosmetics, medicines, medical devices and other health-related products and tobacco products in accordance with the written laws;
+(a) to regulate the manufacture, import, export, sale, supply, advertisement and use of health products, tobacco products, radioactive materials and irradiating apparatuses in accordance with the applicable written laws;
 
-(b) to conduct technological assessments of medicines, cosmetics, medical devices and other health-related products for the purpose of determining their efficacy, safety and suitability for consumption and use in Singapore and to advise the Government thereon;
+[15/2007 wef 01/11/2007]
+
+(b) to conduct technological assessments of health products for the purpose of determining their quality, safety, efficacy and suitability for consumption and use in Singapore and to advise the Government thereon;
+
+[15/2007 wef 01/11/2007]
 
 (c) to collect and co-ordinate the collection of blood from donors and to test, process and distribute such blood and the products thereof for the purpose of building and maintaining a safe and adequate national blood supply;
 
@@ -260,31 +264,39 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF AUTHORITY
 
 (5) In this section —
 
-“cosmetic” means any substance, preparation or product that is used or intended to be used for toilet purposes or for cleansing, deodorising, beautifying, preserving, improving, altering or restoring the complexion, skin, hair or teeth, and includes perfumes;
+“health product” means any substance, preparation or device that —
 
-“health-related product” means any substance, preparation or product that is used or intended to be used for the promotion or preservation of human health and well-being;
+(a) is represented for use by humans;
+
+(b) whether because of its presentation or otherwise, is likely to be taken for use by humans; or
+
+(c) is included in a class of substances, preparations or devices which are or are ordinarily intended for use by humans,
+
+solely or principally for a therapeutic, preventive, palliative, diagnostic or cosmetic purpose, or any other purpose for the promotion or preservation of human health and well-being, including the following:
+
+(i) preventing, diagnosing, monitoring, treating, curing or alleviating any disease, disorder, ailment, injury, handicap or abnormal physical or mental state, or the symptoms thereof, in humans;
+
+(ii) compensating for any injury or handicap in humans;
+
+(iii) investigating, modifying or replacing any part of the human anatomy or any physiological process in humans;
+
+(iv) testing the susceptibility of humans to any disease, disorder or ailment;
+
+(v) influencing, controlling or preventing conception in humans;
+
+(vi) testing for pregnancy in humans;
+
+(vii) inducing anaesthesia in humans;
+
+(viii) destroying or inhibiting micro-organisms that may be harmful to humans; and
+
+(ix) cleansing, fragrancing, deodorising, beautifying, preserving, improving, altering or restoring the complexion, skin, hair, nails or teeth of humans;
 
 “health sciences” includes forensic medicine, forensic science, clinical pharmacology, pharmaceutical science, radiation science, transfusion medicine and any other applied science or specialised scientific field that relates to human health;
 
-“medical device” means any apparatus, device, equipment or instrument that is used or intended to be used for or in connection with —
-
-(a) preventing, diagnosing, curing or alleviating any disease, ailment, defect or injury of the human body;
-
-(b) influencing, inhibiting or modifying any physiological process in the human body;
-
-(c) testing the susceptibility of persons to any disease or ailment;
-
-(d) influencing, controlling or preventing conception in persons;
-
-(e) testing for pregnancy in persons; or
-
-(f) replacing or modifying parts of the human anatomy,
-
-where the principal intended purpose of such apparatus, device equipment or instrument is not achieved primarily by any pharmacological, chemical, immunological or metabolic means, although it may be assisted by such means;
-
-“medicine” means any substance or preparation that is used or intended to be used for the prevention or treatment of any ailment, infirmity or injury affecting the human body and includes any medicinal product as defined in section 3 of the Medicines Act (Cap. 176) and any substance or preparation that is used or intended to be used for the purposes aforesaid in any traditional system of therapeutics;
-
 “tobacco product” means any cigarette, cigar or any other form of tobacco which may be consumed through smoking, chewing or otherwise.
+
+[15/2007 wef 01/11/2007]
 
 ### Powers of Authority
 
@@ -621,6 +633,11 @@ This Legislative History is provided for the convenience of users of the Health 
 |||(Bill No. 14/2007 published on 22 June 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Date of commencement|1 July 2007|
+|6.|**Act 15 of 2007—Health Products Act 2007**|
+||Date of First Reading|22 January 2007|
+|||(Bill No. 3/2007 published on 16 March 2007)|
+||Date of Second and Third Readings|12 February 2007|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Health Sciences Authority Act
