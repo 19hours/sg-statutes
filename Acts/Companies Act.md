@@ -586,7 +586,7 @@
 
 - [200 As to accounting periods of companies within the same group](#As-to-accounting-periods-of-companies-within-the-same-group)
 
-- [200A Accounting Standards](#Accounting-Standards)
+- [200A (Repealed)](#Repealed)
 
 - [201 Accounts, consolidated accounts and directors’ report](#Accounts-consolidated-accounts-and-directors’-report)
 
@@ -1483,7 +1483,9 @@ Division 3 — Miscellaneous sections 410-411.
 
 “accounting records”, in relation to a corporation, includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts of the corporation are made up;
 
-“Accounting Standards” means the Accounting Standards prescribed under section 200A(1)(a);
+“Accounting Standards” means the accounting standards made or formulated by the Accounting Standards Council under Part III of the Accounting Standards Act 2007 and applicable to companies and to foreign companies in respect of their operations in Singapore for the purposes of this Act;
+
+[39/2007 wef 01/11/2007]
 
 “accounts” means profit and loss accounts and balance-sheets and includes notes (other than auditors’ reports or directors’ reports) attached or intended to be read with any of those profit and loss accounts or balance-sheets;
 
@@ -9008,31 +9010,7 @@ Accounts
 
 [Aust., 1961, s. 161B]
 
-### Accounting Standards
-
-200A\.—(1) There shall be established a body (referred to in this section as the Accounting Standards Committee) which shall be responsible for —
-
-(a) prescribing by way of regulations and with the Minister’s approval, statements of standard accounting practice applicable to companies to be referred to as the Accounting Standards; and
-
-(b) carrying out such duties as the Minister may prescribe from time to time.
-
-[12/2002]
-
-(2) The Accounting Standards Committee shall consist of such persons as the Minister may appoint and may be known by such other name as the Minister may determine.
-
-[12/2002]
-
-(3) The Accounting Standards Committee may from time to time issue practice directions on the interpretation of the Accounting Standards and on matters relating to them and their use in Singapore.
-
-[12/2002]
-
-(4) Regulations made under this section may contain such transitional and other supplementary and incidental provisions as appear to the Accounting Standards Committee to be appropriate.
-
-[12/2002]
-
-(5) The Minister may, from time to time, give such directions to the Accounting Standards Committee as he considers fit on any matter within the purview of the Committee, and the Committee shall comply with such direction.
-
-[12/2002]
+200A\. [Act 39/2007 wef 01/11/2007]
 
 ### Accounts, consolidated accounts and directors’ report
 
@@ -9249,6 +9227,12 @@ are prepared in accordance with that Act.
 [12/2002]
 
 (19) The provisions of this Act relating to the form and content of the report of the directors and the annual balance-sheet and profit and loss account shall apply to a banking corporation with such modifications and exceptions as are determined either generally or in any particular case by the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186).
+
+(20) The requirements of this section as to the form and content of a company’s accounts or consolidated accounts being in compliance with the Accounting Standards shall not apply to any company that is registered as a charity or approved as an institution of a public character under the Charities Act (Cap. 37) to the extent that that Act requires that company’s accounting records and statements of accounts for any financial year to comply with the accounting standards applicable to charities to the exclusion of the Accounting Standards and other accounting standards.
+
+[39/2007 wef 01/11/2007]
+
+[UK, 1948,ss.148, 149, 156, 157; Aust., 1961, s. 162]
 
 Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries
 
@@ -9849,8 +9833,6 @@ AND AMALGAMATIONS
 
 (4A) The Court shall not approve any compromise or arrangement which has been proposed for the purposes of or in connection with any scheme referred to in section 212(1) under which the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore is to be transferred, unless the Minister charged with the responsibility for banking matters has consented to the compromise or arrangement or has certified that his consent is not required.
 
-[1/2007 wef 31/03/2007]
-
 (5) An order under subsection (3) shall have no effect until a copy of the order is lodged with the Registrar, and upon being so lodged, the order shall take effect on and from the date of lodgment or such earlier date as the Court may determine and as may be specified in the order.
 
 [12/2002]
@@ -9921,11 +9903,7 @@ AND AMALGAMATIONS
 
 (f) such incidental, consequential and supplemental matters as are necessary to secure that the reconstruction or amalgamation shall be fully and effectively carried out.
 
-[1/2007 wef 31/03/2007]
-
 (1A) Without prejudice to section 210(4A), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore unless the Minister charged with the responsibility for banking matters has consented to the transfer or has certified that his consent is not required.
-
-[1/2007 wef 31/03/2007]
 
 (2) Where an order made under this section provides for the transfer of property or liabilities, then by virtue of the order that property shall be transferred to and vest in, and those liabilities shall be transferred to and become the liabilities of, the transferee company, free in the case of any particular property if the order so directs, from any charge which is by virtue of the compromise or arrangement to cease to have effect.
 
@@ -11896,8 +11874,6 @@ or of any 2 or more of those parties.
 (j) the company has held a licence under any written law relating to banking, and that licence has been revoked or has expired and has not been renewed;
 
 (k) the company is carrying on or has carried on banking business in Singapore in contravention of the provisions of any written law relating to banking;
-
-[1/2007 wef 31/03/2007]
 
 (l) the company has carried on multi-level marketing or pyramid selling in contravention of any written law that prohibits multi-level marketing or pyramid selling; or
 
@@ -17045,6 +17021,12 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 13/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|31 March 2007|
+|92.|**Act 39 of 2007—Accounting Standards Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 July 2007|
+|||(Bill No. 27/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Companies Act
