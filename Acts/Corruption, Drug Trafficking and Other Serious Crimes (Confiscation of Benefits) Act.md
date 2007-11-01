@@ -90,7 +90,7 @@
 
 - [35 Supplementary provisions to sections 30, 32 and 34](#Supplementary-provisions-to-sections-30-32-and-34)
 
-[**Division 3  Obligations of financial institutions**](#Division-3--Obligations-of-financial-institutions)
+[**Division 3  Record-keeping and suspicious transaction reports**](#Division-3--Record-keeping-and-suspicious-transaction-reports)
 
 - [36 Interpretation of this Division](#Interpretation-of-this-Division)
 
@@ -101,6 +101,8 @@
 - [39 Duty to disclose knowledge or suspicion](#Duty-to-disclose-knowledge-or-suspicion)
 
 - [40 Protection where information given under section 39](#Protection-where-information-given-under-section-39)
+
+- [40A Information and identity of informers not to be disclosed](#Information-and-identity-of-informers-not-to-be-disclosed)
 
 - [41 Communication of information to foreign authority](#Communication-of-information-to-foreign-authority)
 
@@ -116,11 +118,27 @@
 
 - [45 Restriction on revealing disclosure under sections 43 and 44](#Restriction-on-revealing-disclosure-under-sections-43-and-44)
 
-- [46 Concealing or transferring benefits of drug trafficking](#Concealing-or-transferring-benefits-of-drug-trafficking)
+- [46 Acquiring, possessing, using, concealing or transferring benefits of drug trafficking](#Acquiring-possessing-using-concealing-or-transferring-benefits-of-drug-trafficking)
 
-- [47 Concealing or transferring benefits of criminal conduct](#Concealing-or-transferring-benefits-of-criminal-conduct)
+- [47 Acquiring, possessing, using, concealing or transferring benefits of criminal conduct](#Acquiring-possessing-using-concealing-or-transferring-benefits-of-criminal-conduct)
 
 - [48 Tipping-off](#Tipping-off)
+
+[**Part VIA CROSS BORDER MOVEMENTS OF PHYSICAL CURRENCY AND BEARER NEGOTIABLE INSTRUMENTS**](#Part-VIA)
+
+- [48A Object of this Part](#Object-of-this-Part)
+
+- [48B Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [48C Reports about cross border movements of cash](#Reports-about-cross-border-movements-of-cash)
+
+- [48D Obligation of immigration officers](#Obligation-of-immigration-officers)
+
+- [48E Reports about receipts of cash from outside Singapore](#Reports-about-receipts-of-cash-from-outside-Singapore)
+
+- [48F Questioning and search powers in relation to cash](#Questioning-and-search-powers-in-relation-to-cash)
+
+- [48G Power to exempt](#Power-to-exempt)
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
@@ -140,11 +158,11 @@
 
 - [56 Preservation of secrecy](#Preservation-of-secrecy)
 
-- [57 Obstructing authorised officers](#Obstructing-authorised-officers)
+- [57 Obstructing authorised officers, Suspicious Transaction Reporting Officers and immigration officers](#Obstructing-authorised-officers-Suspicious-Transaction-Reporting-Officers-and-immigration-officers)
 
 - [58 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
 
-- [59 Offences committed by body corporate](#Offences-committed-by-body-corporate)
+- [59 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
 - [60 Composition of offences](#Composition-of-offences)
 
@@ -156,7 +174,7 @@
 
 - [64 Regulations](#Regulations)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Part I — Offences included as drug trafficking offences with effect from 30th November 1993**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Serious Offences**](#SECOND-SCHEDULE-Serious-Offences)
 
@@ -174,7 +192,7 @@ REVISED EDITION 2000
 
 (1st July 2000)
 
-An Act to provide for the confiscation of benefits derived from corruption, drug trafficking and other serious crimes and for purposes connected therewith.
+An Act to provide for the confiscation of benefits derived from, and to combat, corruption, drug trafficking and other serious crimes and for purposes connected therewith.
 
 [44/2007 wef 01/11/2007]
 
@@ -238,7 +256,7 @@ PRELIMINARY
 
 (ii) the benefits from an act referred to in paragraph (a) by another person are used to secure funds that are placed at that other person’s disposal, directly or indirectly, or are used for that other person’s benefit to acquire property by way of investment or otherwise;
 
-(c) the concealing or disguising by a person of any property which is, or in part, directly or indirectly, represents, his benefits from an act referred to in paragraph (a); or
+(c) the acquisition, possession, use, concealing or disguising by a person of any property which is, or in part, directly or indirectly, represents, his benefits from an act referred to in paragraph (a); or
 
 [44/2007 wef 01/11/2007]
 
@@ -262,7 +280,7 @@ PRELIMINARY
 
 (ii) the benefits from an act referred to in paragraph (a) by another person are used to secure funds that are placed at that other person’s disposal, directly or indirectly, or are used for that other person’s benefit to acquire property by way of investment or otherwise;
 
-(c) the concealing or disguising by a person of any property which is, or in part, directly or indirectly, represents, his benefits from an act referred to in paragraph (a); or
+(c) the acquisition, possession, use, concealing or disguising by a person of any property which is, or in part, directly or indirectly, represents, his benefits from an act referred to in paragraph (a); or
 
 [44/2007 wef 01/11/2007]
 
@@ -349,6 +367,14 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 (d) attempting to commit any of those offences; or
 
 (e) aiding, abetting, counselling or procuring the commission of any of those offences;
+
+“Suspicious Transaction Reporting Officer” means an authorised officer —
+
+(a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this Act; and
+
+(b) who has his appointment as a Suspicious Transaction Reporting Officer published in theGazette;
+
+[44/2007 wef 01/11/2007]
 
 “value of gift” is to be construed in accordance with section 12;
 
@@ -996,27 +1022,27 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 ### Variation of confiscation orders
 
-22\.—(1) If, on an application by the defendant in respect of a confiscation order, the High Court is satisfied that the realisable property is inadequate for the payment of any amount remaining to be recovered under the order, the Court shall issue a certificate to that effect, giving its reasons.
+22\.—(1) If, on an application by the defendant in respect of a confiscation order, the court is satisfied that the realisable property is inadequate for the payment of any amount remaining to be recovered under the order, the court shall issue a certificate to that effect, giving its reasons.
 
 [44/2007 wef 01/11/2007]
 
 (2) For the purposes of subsection (1) —
 
-(a) in the case of realisable property held by a person who has been adjudged bankrupt or whose estate has been sequestrated, the High Court shall take into account the extent to which any property held by him may be distributed among creditors; and
+(a) in the case of realisable property held by a person who has been adjudged bankrupt or whose estate has been sequestrated, the court shall take into account the extent to which any property held by him may be distributed among creditors; and
 
 [44/2007 wef 01/11/2007]
 
-(b) the High Court may disregard any inadequacy in the realisable property which appears to the Court to be attributable, wholly or partly, to anything done by the defendant for the purpose of preserving any property held by a person to whom the defendant had, directly or indirectly, made a gift caught by this Act from any risk of realisation under this Act.
+(b) the court may disregard any inadequacy in the realisable property which appears to the court to be attributable, wholly or partly, to anything done by the defendant for the purpose of preserving any property held by a person to whom the defendant had, directly or indirectly, made a gift caught by this Act from any risk of realisation under this Act.
 
 [44/2007 wef 01/11/2007]
 
-(3) Where a certificate has been issued under subsection (1), the defendant may apply to the High Court which made the confiscation order for the amount to be recovered under the order to be reduced.
+(3) Where a certificate has been issued under subsection (1), the defendant may apply to the court which made the confiscation order for the amount to be recovered under the order to be reduced.
 
 [44/2007 wef 01/11/2007]
 
-(4) The High Court which made the confiscation order shall, on an application under subsection (3) —
+(4) The court which made the confiscation order shall, on an application under subsection (3) —
 
-(a) substitute for the amount to be recovered under the order such lesser amount as the High Court thinks just in all the circumstances of the case; and
+(a) substitute for the amount to be recovered under the order such lesser amount as the court thinks just in all the circumstances of the case; and
 
 [44/2007 wef 01/11/2007]
 
@@ -1470,7 +1496,7 @@ when they are in the possession of a person who is entitled to possession of the
 
 Division 3 —
 
-Obligations of financial institutions
+Record-keeping and suspicious transaction reports
 
 ### Interpretation of this Division
 
@@ -1560,13 +1586,13 @@ Obligations of financial institutions
 
 (c) is intended to be used in connection with,
 
-drug trafficking or criminal conduct, as the case may be, and the information or matter on which the knowledge or suspicion is based came to his attention in the course of his trade, profession, business or employment, he shall disclose the knowledge or suspicion or the information or other matter on which that knowledge or suspicion is based to an authorised officer as soon as is reasonably practicable after it comes to his attention.
+any act which may constitute drug trafficking or criminal conduct, as the case may be, and the information or matter on which the knowledge or suspicion is based came to his attention in the course of his trade, profession, business or employment, he shall disclose the knowledge or suspicion or the information or other matter on which that knowledge or suspicion is based to a Suspicious Transaction Reporting Officer as soon as is reasonably practicable after it comes to his attention.
 
 [44/2007 wef 01/11/2007]
 
 [25/99]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
 [44/2007 wef 01/11/2007]
 
@@ -1584,7 +1610,7 @@ drug trafficking or criminal conduct, as the case may be, and the information or
 
 [25/99]
 
-(6) Where a person discloses to an authorised officer —
+(6) Where a person discloses in good faith to a Suspicious Transaction Reporting Officer —
 
 (a) his knowledge or suspicion of the matters referred to in subsection (1)(a), (b) or (c); or
 
@@ -1618,15 +1644,51 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 
 [25/99]
 
+### Information and identity of informers not to be disclosed
+
+40A\.—(1) Except as provided in subsection (3)
+
+(a) no information disclosed by an informer shall be admitted in evidence in any civil or criminal proceedings; and
+
+(b) no witness in any civil or criminal proceedings shall be obliged —
+
+(i) to disclose the name and address of any informer; or
+
+(ii) to answer any question if the answer thereto would lead, or would tend to lead, to the discovery of the name or address of the informer.
+
+(2) If any book, document or paper which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+
+(3) If a court —
+
+(a) in any proceedings before it for an offence under any written law, after full inquiry into the case, is satisfied that an informer wilfully made a material statement which he knew or believed to be false or did not believe to be true; or
+
+(b) in any other proceedings, is of the opinion that justice cannot be fully done between the parties thereto without the disclosure of the name of an informer,
+
+the court may permit inquiry and require full disclosure concerning the informer.
+
+(4) In this section, “informer” means a person who makes a disclosure under section 39(1).
+
+[44/2007 wef 01/11/2007]
+
 ### Communication of information to foreign authority
 
-41\.—(1) Notwithstanding section 56 or any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing disclosed to him or any authorised officer under section 39(1) to a corresponding authority of a foreign country if the conditions specified in subsection (2) are satisfied.
+41\.—(1) Notwithstanding section 56 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing —
 
-[12/2000]
+(a) disclosed to him under section 39(1), 48C or 48E; or
+
+(b) forwarded to him under section 48D,
+
+to a corresponding authority of a foreign country if —
+
+(i) that thing may be relevant to an investigation by that authority into a foreign drug trafficking offence or a foreign serious offence; and
+
+(ii) the conditions in subsection (2) are satisfied.
+
+[44/2007 wef 01/11/2007]
 
 (2) The conditions referred to in subsection (1) are as follows:
 
-(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed to an authorised officer under section 39(1);
+(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed to a Suspicious Transaction Reporting Officer under section 39(1), 48C or 48E or an immigration officer under section 48C;
 
 [44/2007 wef 01/11/2007]
 
@@ -1643,16 +1705,6 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 (3) In this section —
 
 “corresponding authority”, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 39(1);
-
-“Suspicious Transaction Reporting Officer” means an authorised officer —
-
-(a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this section; and
-
-(b) who had his appointment as a Suspicious Transaction Reporting Officer published in theGazette.
-
-[39A
-
-[12/2000]
 
 Division 4 —
 
@@ -1770,7 +1822,15 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 [25/99]
 
-(5) Any person who commits an offence under this section shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 7 years or to both.
+(5) Any person who commits an offence under this section shall be liable on conviction —
+
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+
+[44/2007 wef 01/11/2007]
+
+(b) if the person is not an individual, to a fine not exceeding $1 million.
+
+[44/2007 wef 01/11/2007]
 
 [44/2007 wef 01/11/2007]
 
@@ -1832,7 +1892,13 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 [25/99]
 
-(5) Any person who commits an offence under this section shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 7 years or to both.
+(5) Any person who commits an offence under this section shall be liable on conviction —
+
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+
+(b) if the person is not an individual, to a fine not exceeding $1 million.
+
+[44/2007 wef 01/11/2007]
 
 [44/2007 wef 01/11/2007]
 
@@ -1902,13 +1968,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [42
 
-### Concealing or transferring benefits of drug trafficking
+### Acquiring, possessing, using, concealing or transferring benefits of drug trafficking
 
 46\.—(1) Any person who —
 
-(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking; or
+(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits of drug trafficking;
 
-(b) converts or transfers that property or removes it from the jurisdiction,
+[44/2007 wef 01/11/2007]
+
+(b) converts or transfers that property or removes it from the jurisdiction; or
+
+[44/2007 wef 01/11/2007]
+
+(c) acquires, possesses or uses that property,
 
 [44/2007 wef 01/11/2007]
 
@@ -1926,7 +1998,7 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 [25/99]
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking, acquires that property for no or inadequate considerationshall be guilty of an offence.
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking, acquires that property for no or inadequate consideration, or has possession of or uses such property, shall be guilty of an offence.
 
 [44/2007 wef 01/11/2007]
 
@@ -1938,7 +2010,15 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 (5) For the purposes of subsection (3), consideration given for any property is inadequate if its value is significantly less than the market value of that property, and there shall not be treated as consideration the provision for any person of services or goods which are of assistance to him in drug trafficking.
 
-(6) Any person who commits an offence under this section shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 7 years or to both.
+(6) Any person who commits an offence under this section shall be liable on conviction —
+
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+
+[44/2007 wef 01/11/2007]
+
+(b) if the person is not an individual, to a fine not exceeding $1 million.
+
+[44/2007 wef 01/11/2007]
 
 [44/2007 wef 01/11/2007]
 
@@ -1946,13 +2026,19 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 [25/99]
 
-### Concealing or transferring benefits of criminal conduct
+### Acquiring, possessing, using, concealing or transferring benefits of criminal conduct
 
 47\.—(1) Any person who —
 
-(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct; or
+(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct;
 
-(b) converts or transfers that property or removes it from the jurisdiction,
+[44/2007 wef 01/11/2007]
+
+(b) converts or transfers that property or removes it from the jurisdiction; or
+
+[44/2007 wef 01/11/2007]
+
+(c) acquires, possesses or uses that property,
 
 [44/2007 wef 01/11/2007]
 
@@ -1970,7 +2056,7 @@ for the purpose of assisting any person to avoid prosecution for a serious offen
 
 [25/99]
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, shall be guilty of an offence.
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, or has possession of or uses such property, shall be guilty of an offence.
 
 [44/2007 wef 01/11/2007]
 
@@ -1986,7 +2072,15 @@ for the purpose of assisting any person to avoid prosecution for a serious offen
 
 [25/99]
 
-(6) Any person who commits an offence under this section shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 7 years or to both.
+(6) Any person who commits an offence under this section shall be liable on conviction —
+
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+
+[44/2007 wef 01/11/2007]
+
+(b) if the person is not an individual, to a fine not exceeding $1 million.
+
+[44/2007 wef 01/11/2007]
 
 [44/2007 wef 01/11/2007]
 
@@ -2043,6 +2137,264 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [43B
 
 [25/99]
+
+## PART VIA
+
+CROSS BORDER MOVEMENTS OF PHYSICAL CURRENCY AND BEARER NEGOTIABLE INSTRUMENTS
+
+[44/2007 wef 01/11/2007]
+
+### Object of this Part
+
+48A\. The object of this Part is to impose measures for the disclosure of information regarding movements of physical currency and bearer negotiable instruments into and out of Singapore for the purpose of detecting, investigating and prosecuting drug trafficking offences and serious offences.
+
+[44/2007 wef 01/11/2007]
+
+### Interpretation of this Part
+
+48B\.—(1) In this Part —
+
+“bearer negotiable instrument” means —
+
+(a) a traveller’s cheque; or
+
+(b) any negotiable instrument that is in bearer form, indorsed without any restriction, made out to a fictitious payee or otherwise in such form that title thereto passes upon delivery,
+
+and includes a negotiable instrument that has been signed but with the payee’s name omitted;
+
+“business day” means a day other than a Saturday, Sunday or public holiday;
+
+“cash” means physical currency or a bearer negotiable instrument;
+
+“commercial goods carrier” means a person who, in the normal course of a business, carries goods or mail for reward, and includes his employee;
+
+“commercial passenger carrier” means a person who, in the normal course of a business, carries passengers for reward, and includes his employee;
+
+“eligible place” means any islet, landing place, wharf, dock, railway or quay or premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A) or the Civil Aviation Authority of Singapore Act (Cap. 41);
+
+[17/2009 wef 01/07/2009]
+
+“embarkation location” means an immigration control post, place of embarkation, authorised airport, authorised point of departure, authorised train checkpoint or authorised departing place declared under section 5(3) of the Immigration Act (Cap. 133);
+
+“immigration officer” means the Controller of Immigration or any immigration officer appointed under section 3 of the Immigration Act, and includes an officer of customs;
+
+“physical currency” means the coin and printed money (whether of Singapore or of a foreign country) that —
+
+(a) is designated as legal tender; and
+
+(b) circulates as, and is customarily used and accepted as, a medium of exchange in the country of issue;
+
+“printed money” means money comprising a note printed, written or otherwise made on polymer, paper or any other material;
+
+“railway” has the same meaning as in the Railways Act (Cap. 263) but does not include any rapid transit system set up under the Rapid Transit Systems Act (Cap. 263A);
+
+“send” includes send through the post or by means of another person.
+
+(2) In determining whether an amount of foreign currency (including an amount in which a document is denominated) is equivalent to a Singapore dollar amount under this Part, the amount of foreign currency is to be translated to Singapore currency at the exchange rate applicable at the relevant time.
+
+(3) For the purposes of this Part ––
+
+(a) a person moves cash out of Singapore if the person takes or sends the cash (whether in a receptacle or otherwise) out of Singapore; and
+
+(b) a person moves cash into Singapore if the person brings or sends the cash (whether in a receptacle or otherwise) into Singapore.
+
+### Reports about cross border movements of cash
+
+48C\.—(1) A person shall not move or attempt to move into or out of Singapore cash the total value of which exceeds the prescribed amount, without giving a report in respect of the movement in accordance with this section.
+
+[44/2007 wef 01/11/2007]
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[44/2007 wef 01/11/2007]
+
+(3) It shall be a defence for a person charged with an offence under subsection (2) to prove that he did not know and had no reasonable ground to believe that the receptacle within which the cash was moved or attempted to be moved contained cash.
+
+(4) For the purposes of subsection (1), the prescribed amount is $30,000 (or its equivalent in a foreign currency) or such other amount as the Minister may, by notification in theGazette, specify.
+
+[44/2007 wef 01/11/2007]
+
+(5) A report under this section shall —
+
+(a) be in the prescribed form;
+
+(b) contain full and accurate information relating to the matter being reported as is specified in the form;
+
+(c) be given —
+
+(i) to an immigration officer if the movement of the cash is to be effected by a person bringing or taking the cash into or out of Singapore with the person; or
+
+(ii) in any other case, to a Suspicious Transaction Reporting Officer or, if regulations permit, to an immigration officer; and
+
+(d) be given at the prescribed time.
+
+[44/2007 wef 01/11/2007]
+
+(6) The Minister may make regulations for the matters referred to in subsection (5)(a), (c) and (d); and may, for the purposes of subsection (5)(a) and (d), prescribe different forms and different times —
+
+(a) for different manners of moving cash into and out of Singapore; and
+
+(b) for different classes of persons.
+
+[44/2007 wef 01/11/2007]
+
+(7) Subsection (1) shall not apply if —
+
+(a) the person is a commercial passenger carrier; and
+
+(b) the cash is in the possession of any of the carrier’s passengers.
+
+[44/2007 wef 01/11/2007]
+
+(8) Subsection (1) shall not apply if ––
+
+(a) the person is a commercial goods carrier;
+
+(b) the cash is carried on behalf of another person;
+
+(c) the other person has not disclosed to the carrier that the goods carried on behalf of the other person include cash; and
+
+(d) the carrier does not know and has no reasonable ground to believe that the goods carried on behalf of the other person include cash.
+
+[44/2007 wef 01/11/2007]
+
+(9) The burden of proving the matters referred to in subsection (7) or (8) lies with the person who wishes to rely on that subsection.
+
+[44/2007 wef 01/11/2007]
+
+### Obligation of immigration officers
+
+48D\. If a report under section 48C is given to an immigration officer, he must, on request, within a reasonable time forward it to a Suspicious Transaction Reporting Officer.
+
+[44/2007 wef 01/11/2007]
+
+### Reports about receipts of cash from outside Singapore
+
+48E\.—(1) A person who receives cash the total value of which exceeds the prescribed amount, which is moved to the person from outside Singapore, shall make a report in respect of the receipt in accordance with this section before the end of the period of 5 business days beginning on the day of the receipt.
+
+[44/2007 wef 01/11/2007]
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[44/2007 wef 01/11/2007]
+
+(3) It shall be a defence for a person charged with an offence under subsection (2) to prove that he did not know and had no reasonable ground to believe that the cash was moved from outside Singapore.
+
+[44/2007 wef 01/11/2007]
+
+(4) For the purposes of subsection (1), the prescribed amount is $30,000 (or its equivalent in a foreign currency) or such other amount as the Minister may, by notification in theGazette, specify.
+
+[44/2007 wef 01/11/2007]
+
+(5) A report under this section shall —
+
+(a) be in the prescribed form;
+
+(b) contain full and accurate information relating to the receipt being reported as is specified in the form; and
+
+(c) be given to a Suspicious Transaction Reporting Officer.
+
+[44/2007 wef 01/11/2007]
+
+### Questioning and search powers in relation to cash
+
+48F\.—(1) A person who —
+
+(a) is about to leave Singapore;
+
+(b) is in an embarkation location for the purpose of leaving Singapore; or
+
+(c) arrives in Singapore,
+
+must, if required to do so by an authorised officer or immigration officer —
+
+(i) declare whether or not the person has with him any cash;
+
+(ii) declare the total value of any cash that the person has with him;
+
+(iii) declare whether or not, to the best of the person’s knowledge and belief, a report under section 48C has been given in respect of any cash that the person has with him;
+
+(iv) produce to the officer any cash that the person has with him; and
+
+(v) answer any question the officer may have with respect to the cash.
+
+[44/2007 wef 01/11/2007]
+
+(2) An authorised officer or immigration officer may, with such assistance as is reasonable and necessary, examine any article or baggage which a person has with him if the person —
+
+(a) is about to leave Singapore;
+
+(b) is in an embarkation location for the purpose of leaving Singapore; or
+
+(c) has arrived in Singapore,
+
+for the purpose of finding out whether the person has with him any cash in respect of which a report under section 48C is required.
+
+[44/2007 wef 01/11/2007]
+
+(3) An authorised officer or immigration officer may, with such assistance as is reasonable and necessary, search a person for the purpose of finding out whether the person has with him any cash in respect of which a report under section 48C is required, so long as —
+
+(a) the person —
+
+(i) is about to leave Singapore;
+
+(ii) is in an embarkation location for the purpose of leaving Singapore; or
+
+(iii) has arrived in Singapore; and
+
+(b) the officer has reasonable grounds to suspect that there is on the person or in clothing being worn by the person, cash in respect of which a report under section 48C is required.
+
+[44/2007 wef 01/11/2007]
+
+(4) If an authorised officer or immigration officer has reasonable grounds to suspect that any cash found in the course of an examination or search under subsection (2) or (3) may afford evidence as to the commission of an offence under section 48C, the officer may seize the cash.
+
+[44/2007 wef 01/11/2007]
+
+(5) A person must not be searched under subsection (3) except by a person of the same sex.
+
+[44/2007 wef 01/11/2007]
+
+(6) An authorised officer or immigration officer, and any person assisting the officer, may board any motor vehicle, train, vessel or aircraft or enter any premises for the purpose of exercising the powers conferred by subsection (1), (2), (3) or (4).
+
+[44/2007 wef 01/11/2007]
+
+(7) An authorised officer or immigration officer may, with such assistance as is reasonable and necessary —
+
+(a) board a motor vehicle, train, vessel or aircraft; and
+
+(b) examine or search the motor vehicle, train, vessel or aircraft, and any thing found on the motor vehicle, train, vessel or aircraft,
+
+for the purpose of ascertaining whether there is on board the motor vehicle, train, vessel or aircraft any cash in respect of which a report under section 48C is required.
+
+[44/2007 wef 01/11/2007]
+
+(8) Where an authorised officer or immigration officer has reasonable grounds to suspect that an offence under section 48C may have been committed, the officer may, with such assistance as is reasonable and necessary —
+
+(a) enter any eligible place; and
+
+(b) search the place, and any thing found at or in it,
+
+for the purpose of ascertaining whether there is at or in the place, or in the thing, any cash in respect of which a report under section 48C is required.
+
+[44/2007 wef 01/11/2007]
+
+(9) If an authorised officer or immigration officer has reasonable grounds to suspect that cash found in the course of a search under subsection (7) or (8) may afford evidence as to the commission of an offence under section 48C, the officer may seize the cash.
+
+[44/2007 wef 01/11/2007]
+
+(10) A person who, without reasonable excuse, fails to comply with a requirement under subsection (1), or pursuant to any such requirement knowingly or recklessly makes a declaration or gives an answer that is false in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[44/2007 wef 01/11/2007]
+
+### Power to exempt
+
+48G\.—(1) The Minister may, by order published in theGazette, with or without conditions, exempt any person or class of persons from section 48C or 48E, or both.
+
+[44/2007 wef 01/11/2007]
+
+(2) If any exemption is granted under subsection (1) with conditions, the exemption operates only if the conditions are complied with.
+
+[44/2007 wef 01/11/2007]
 
 ## PART VII
 
@@ -2210,6 +2562,10 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 [4/2003 wef 01/04/2003]
 
+(1A) An immigration officer within the meaning of section 48B may arrest without warrant any person whom he reasonably believes has committed an offence under section 48C.
+
+[44/2007 wef 01/11/2007]
+
 (2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
 
 (3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act.
@@ -2220,7 +2576,7 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 ### Preservation of secrecy
 
-56\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no authorised officer shall disclose any information or matter which has been obtained by him in the performance of his duties or the exercise of his functions under this Act.
+56\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no authorised officer, Suspicious Transaction Reporting Officer or immigration officer within the meaning of section 48B shall disclose any information or matter which has been obtained by him in the performance of his duties or the exercise of his functions under this Act.
 
 [44/2007 wef 01/11/2007]
 
@@ -2228,11 +2584,13 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 [53
 
-### Obstructing authorised officers
+### Obstructing authorised officers, Suspicious Transaction Reporting Officers and immigration officers
 
-57\. Any person who obstructs or hinders any authorised officeracting in the discharge of his duty under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+57\. Any person who obstructs or hinders any authorised officer, Suspicious Transaction Reporting Officer or immigration officer within the meaning of section 48B acting in the discharge of his duty under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [54
+
+[44/2007 wef 01/11/2007]
 
 ### Sanction of Public Prosecutor
 
@@ -2240,15 +2598,53 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 [55
 
-### Offences committed by body corporate
+### Offences by bodies corporate, etc.
 
-59\. Where a body corporate is guilty of an offence under this Act and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+59\.—(1) Where an offence under this Act committed by a body corporate is proved —
 
-[56
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) In this section —
+
+“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+(6) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[44/2007 wef 01/11/2007]
 
 ### Composition of offences
 
-60\.—(1) The Minister or any person authorised by him in writing may compound any offence under this Act or any regulations made thereunder which is prescribed to be a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+60\.—(1) The Minister or any person authorised by him in writing may compound any offence under this Act or any regulations made thereunder which is prescribed to be a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
 [44/2007 wef 01/11/2007]
 
@@ -2290,6 +2686,13 @@ FIRST SCHEDULE
 
 Section 2
 
+Part I — Offences included as drug trafficking offences
+
+
+
+
+with effect from 30th November 1993
+
 DRUG TRAFFICKING OFFENCES
 
 Offences
@@ -2321,6 +2724,22 @@ Money laundering.
 Note
 
 : The short description of offences in this Schedule is for ease of reference only.
+
+Part II — Offence included as drug trafficking offence with effect from 1st November 2007
+
+[S 597/2007 wef 01/11/2007]
+
+Offence
+
+Description
+
+*
+
+6. Section 10A of the Misuse of Drugs Act
+
+Manufacture, supply, possession, import or export of equipment, materials or substances useful for manufacture of controlled drugs.
+
+[25/99]
 
 SECOND SCHEDULE
 
@@ -3751,8 +4170,6 @@ being transnational offences involving
 
 organised criminal groups
 
-[S 488/2007 wef 27/09/2007]
-
 293.
 
 Abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group (section 109, 115, 116 or 118 of the Penal Code (Cap. 224))
@@ -3761,9 +4178,194 @@ Abetment of a serious crime, where the serious crime is transnational in nature 
 
 Criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group (section 120B of the Penal Code (Cap. 224))
 
-Note
+Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
+
+Part V — Offences included as serious offences
+
+
+
+
+with effect from 1st November 2007
+
+[S 597/2007 wef 01/11/2007]
+
+Offences
+
+Description*
+
+Biological Agents and Toxins Act (Cap\. 24A) 
+
+295. Section 5
+
+Use of biological agents for non-peaceful purpose, etc.
+
+296. Section 30
+
+Use of toxins for non-peaceful purpose, etc.
+
+Commodity Trading Act (Cap\. 48A) 
+
+297. Section 49 for contravention of any of the following :
+
+(a) section 43
+
+False trading
+
+(b) Section 44
+
+Bucketing
+
+Common Gaming Houses Act (Cap\. 49) 
+
+298. Section 4
+
+Offences relating to a common gaming house, etc.
+
+299. Section 6
+
+Advancing or furnishing money for establishing or conducting common gaming house
+
+Customs Act (Cap\. 70) 
+
+300. Section 130(1)(a)
+
+Import, export, shipping, unshipping, loading, unloading, landing or delivery of any uncustomed or prohibited goods, etc.
+
+301. Section 130(1)(c)
+
+Storing, keeping or having possession of any dutiable, prohibited or uncustomed goods
+
+302. Section 130(1)(e)
+
+Being found in possession of any dutiable or prohibited goods after having denied the same
+
+303. Section 130(1)(i)
+
+Knowingly harbouring or concealing any dutiable, uncustomed or prohibited goods
+
+304. Section 132
+
+Knowingly advancing or furnishing money for business comprising sale, purchase, etc., of uncustomed goods
+
+Immigration Act (Cap\. 133) 
+
+305. Section 6(3) for contravention of subsection (1)
+
+Entry or attempted entry into Singapore without a valid pass
+
+306. Section 57(1)(k)
+
+Making a false statement to obtain or attempting to obtain an entry permit, re-entry permit, pass or certificate for himself or for other person
+
+307. Section 57(1)(l)
+
+Using or without lawful authority having possession of any forged, unlawfully altered or irregular entry or re-entry permit, pass or certificate, etc.
+
+Maritime Offences Act (Cap\. 170B) 
+
+308. Section 3
+
+Hijacking of ships
+
+309. Section 4
+
+Destroying or damaging ships, etc.
+
+310. Section 5
+
+Other acts endangering or likely to endanger safe navigation
+
+311. Section 6
+
+Offences involving threats
+
+312. Section 7(1)
+
+Act of violence done in connection with an offence under section 3, 4 or 5
+
+313. Section 7(3)
+
+Abetment of certain offences
+
+Multi-Level Marketing and Pyramid Selling (Prohibition) Act(Cap\. 190) 
+
+314. Section 3
+
+Promotion of or participation in a pyramid selling scheme, or arrangement or holding out the same
+
+315. Section 4
+
+Registration of business designed to promote a pyramid selling scheme or arrangement
+
+316. Section 5
+
+Registration of company which proposes to promote a pyramid selling scheme or arrangement
+
+Radiation Protection Act 2007 (Act 27 of 2007) 
+
+317. Section 5
+
+Import, export, etc., of radioactive materials
+
+318. Section 6
+
+Import, export, etc., of irradiating apparatus
+
+319. Section 11
+
+Disposal of radioactive waste
+
+320. Section 12
+
+Accumulation of radioactive waste
+
+321. Section 31
+
+False or misleading statements and documents
+
+Railways Act (Cap\. 263) 
+
+322. Section 87
+
+Wilful act or omission endangering passenger
+
+Rapid Transit Systems Act (Cap\. 263A) 
+
+323. Section 25
+
+Wilfully endangering safety of railway passenger
+
+324. Section 26
+
+Damage to railway or railway premises
+
+Securities and Futures Act(Cap\. 289) 
+
+325. Section 140
+
+Offences relating to take-over offers
+
+Terrorism (Suppression of Financing) Act (Cap\. 325) 
+
+326. Section 8
+
+Failure to disclose information on property belonging to terrorist or transaction relating to such property, etc.
+
+327. Section 9
+
+Failure to comply with order requiring continuing audit on whether in possession of property belonging to terrorist, etc.
+
+328. Section 10
+
+Failure to disclose information about acts of terrorism financing
+
+329. Section 14
+
+Contravention of order for restraint of property
+
+*Note: The short description of offences is for ease of reference only.
 
 ## LEGISLATIVE HISTORY
 
@@ -3854,6 +4456,13 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Dates of commencement|1 March 2007 (except sections 6, 8 and 11)|
 |17.|**G. N. No. S 488/2007—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2007**|
 ||Date of commencement|27 September 2007|
+|18.|**Act 44 of 2007—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Amendment) Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 33/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|19 September 2007|
+||Date of commencement|1 November 2007|
+|19.|**G. N. No. S 597/2007—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of First and Second Schedules) Order 2007**|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
