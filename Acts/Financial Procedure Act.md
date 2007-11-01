@@ -136,9 +136,11 @@ ACCOUNTANT-GENERAL
 
 2B\.—(1) The Accountant-General shall be responsible for the supervision and administration of the Government accounting system, including financial and accounting records and procedures for the receipt, custody, investment, safekeeping and payment of public moneys and the purchase, custody and disposal of public property.
 
-(2) The Accountant-General shall perform such other duties and exercise such other powersin relation to the accounts of the Government as may be prescribed by or under any written law.
+(2) The Accountant-General shall perform such other duties and exercise such other powers as may be prescribed by or under any written law.
 
 [25/91]
+
+[39/2007 wef 01/11/2007]
 
 ## PART II
 
@@ -495,7 +497,7 @@ Financial Procedure Act
 
 (CHAPTER 109)
 
-This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -574,3 +576,9 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 16/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Date of commencement|1 July 2007|
+|17.|**Act 39 of 2007—Accounting Standards Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 July 2007|
+|||(Bill No. 27/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|1 November 2007|
