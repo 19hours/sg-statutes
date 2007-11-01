@@ -94,7 +94,7 @@ PRELIMINARY
 
 “oath” means an oath administered or taken for any purpose, whether in judicial proceedings or otherwise;
 
-“person acting judicially” means a person, tribunal, commission or other body having by law or consent of the parties power to receive evidence.
+“person acting judicially” means a person, tribunal, commission, committee or other body having by law or consent of the parties power to receive evidence.
 
 ## PART II
 
@@ -299,6 +299,12 @@ This Legislative History is provided for the convenience of users of the Oaths a
 ||Date of commencement|1 January 2001|
 |2.|**2001 Revised Edition—Oaths and Declarations Act**|
 ||Date of operation|31 December 2001|
+|3.|**Act 43 of 2007—Inquiries Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 31/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|19 September 2007|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Oaths and Declarations Act
