@@ -1040,7 +1040,7 @@ ADMINISTRATION
 
 64\.—(1) A judicial officer shall not be capable of accepting or taking any other office of emolument, nor of carrying on any business either directly or indirectly, nor shall he accept any fees of office, perquisites, emoluments or advantages, other than and except his salary and allowances.
 
-(2) A judicial officer may, with the approval of the Chief Justice, be appointed to any commission of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
+(2) A judicial officer may, with the approval of the Chief Justice, be appointed to any commission of inquiry, committee of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
 
 ### Judicial officers not to act where interested
 
@@ -1290,6 +1290,11 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of commencement|1 March 2007 (section 16 — Amendment of Subordinate Courts Act)|
 |19.|**2007 Revised Edition—Subordinate Courts Act**|
 ||Date of operation|31 July 2007|
+|20.|**Act 43 of 2007—Inquiries Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 31/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|19 September 2007|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
