@@ -174,7 +174,7 @@ GENERAL
 
 ### Freedom of speech and debate and proceedings
 
-5\. There shall be freedom of speech and debate and proceedings in Parliament, and such freedom of speech and debate and proceedings shall not be liable to be impeached or questioned in any court, commission of inquiry, tribunal or any other place whatsoever out of Parliament.
+5\. There shall be freedom of speech and debate and proceedings in Parliament, and such freedom of speech and debate and proceedings shall not be liable to be impeached or questioned in any court, commission of inquiry, committee of inquiry, tribunal or any other place whatsoever out of Parliament.
 
 [43/2007 wef 01/11/2007]
 
@@ -204,7 +204,7 @@ PRIVILEGES AND IMMUNITIES
 
 (a) to require any Member or officer of Parliament to serve as an assessor on any tribunal; or
 
-(b) while in attendance on Parliament or any committee, to compel such person to attend as a witness in any court or tribunal or at any commission of inquiry or before any like authority empowered to summon witnesses.
+(b) while in attendance on Parliament or any committee, to compel such person to attend as a witness in any court or tribunal or at any commission of inquiry or committee of inquiry or before any like authority empowered to summon witnesses.
 
 [43/2007 wef 01/11/2007]
 
@@ -577,6 +577,12 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|1 December 1998|
 |6.|**2000 Revised Edition—Parliament (Privileges, Immunities and Powers) Act**|
 ||Date of operation|1 July 2000|
+|7.|**Act 43 of 2007—Inquiries Act 2007**|
+||(Related amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 31/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|19 September 2007|
+||Date of commencement|1 November 2007|
 ## COMPARATIVE TABLE
 
 Parliament (Privileges, Immunities and Powers) Act
