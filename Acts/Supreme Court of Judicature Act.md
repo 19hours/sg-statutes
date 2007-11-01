@@ -1322,7 +1322,7 @@ Disabilities of Registrar and other officers
 
 [58/73]
 
-(2) The Registrar, the Deputy Registrar or an Assistant Registrar may, with the approval of the Chief Justice, be appointed to any commission of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
+(2) The Registrar, the Deputy Registrar or an Assistant Registrar may, with the approval of the Chief Justice, be appointed to any commission of inquiry, committee of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
 
 [58/73]
 
@@ -1727,6 +1727,12 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of commencement|1 March 2007 (section 17 — amendment of Supreme Court of Judicature Act)|
 |22.|**2007 Revised Edition—Supreme Court of Judicature Act (Chapter 322)**|
 ||Date of operation|31 July 2007|
+|23.|**Act 43 of 2007—Inquiries Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 31/2007)|
+||Date of Second and Third Readings|19 September 2007|
+||Date of commencement|1 November 2007 (item (4) of the Second Schedule — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
