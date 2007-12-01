@@ -20,7 +20,7 @@
 
 - [7 Presumption](#Presumption)
 
-- [8 Cancellation of secondhand dealer’s licence upon conviction](#Cancellation-of-secondhand-dealer’s-licence-upon-conviction)
+- [8 Revocation of secondhand goods dealer’s licence upon conviction](#Revocation-of-secondhand-goods-dealer’s-licence-upon-conviction)
 
 [**Legislative History**](#Legislative-History)
 
@@ -90,9 +90,11 @@ Provided that the punishment of caning shall not be imposed on a first convictio
 
 7\. For the purposes of any prosecution under section 411 of the Penal Code [Cap. 224], where the stolen property is public property, it shall be presumed, until the contrary is proved, that the person who received or retained that property knew or had reason to believe that the property was stolen public property and also that such person received or retained it dishonestly.
 
-### Cancellation of secondhand dealer’s licence upon conviction
+### Revocation of secondhand goods dealer’s licence upon conviction
 
-8\. Where any licensed dealer within the meaning of the Secondhand Dealers Act or any dealer in secondhand goods to whom a certificate of exemption has been granted under that Act is convicted under section 411 of the Penal Code and the stolen property concerned is public property, the court shall, in addition to any other penalty that it may impose, cancel any licence or certificate of exemption granted under that Act to such licensed dealer or such dealer in secondhand goods, as the case may be.
+8\. Where any secondhand goods dealer within the meaning of the Secondhand Goods Dealers Act 2007 is convicted under section 411 of the Penal Code (Cap. 224) and the stolen property concerned is public property, the court shall, in addition to any other penalty that it may impose, revoke any licence or exemption granted under that Act to the secondhand goods dealer.
+
+[4/2007 wef 01/12/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -113,3 +115,9 @@ This Legislative History is provided for the convenience of users of the Vandali
 ||Date of operation|15 April 1971|
 |3.|**1985 Revised Edition—Vandalism Act (Chapter 341)**|
 ||Date of operation|30 March 1987|
+|4.|**Act 4 of 2007—Secondhand Goods Dealers Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 16/2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 December 2007 (section 24(3) — amendment of Vandalism Act)|
