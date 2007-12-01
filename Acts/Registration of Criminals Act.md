@@ -1098,7 +1098,7 @@ Misuse of Drugs Act
 
 Part II, sections 31(2), 33(3) and 33A.
 
-Cap. 185.
+Cap. 185
 
 Moneylenders Act
 
@@ -1138,7 +1138,7 @@ Official Secrets Act
 
 The whole.
 
-Cap. 213.
+Cap. 213
 
 Preservation of the Peace Act
 
@@ -1146,7 +1146,7 @@ Preservation of the Peace Act
 
 Section 3(2).
 
-Cap. 240.
+Cap. 240
 
 Prevention of Corruption Act
 
@@ -1154,7 +1154,7 @@ Prevention of Corruption Act
 
 The whole.
 
-Cap. 241.
+Cap. 241
 
 Prevention of Crimes Act
 
@@ -1212,11 +1212,11 @@ Sections 66(1) and 96(1).
 
 Cap. 276.
 
-Secondhand Dealers Act
+Secondhand Goods Dealers Act 2007
 
 ...
 
-Section 10(3).
+Section 10(6).
 
 Cap. 288.
 
@@ -1275,6 +1275,8 @@ Women’s Charter
 Sections 35 to 40 and the whole of Part X.
 
 Cap. 353.
+
+[4/2007 wef 01/12/2007]
 
 SECOND SCHEDULE
 
@@ -1614,3 +1616,9 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|1 March 2006|
 |28.|**G. N. No. S 374/2007—Registration of Criminals Act (Amendment of Second Schedule) Order 2007**|
 ||Date of commencement|1 July 2007|
+|29.|**Act 4 of 2007—Secondhand Goods Dealers Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 16/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 December 2007|
