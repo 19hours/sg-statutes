@@ -20,6 +20,8 @@
 
 - [5 Entry into and departure from Singapore](#Entry-into-and-departure-from-Singapore)
 
+- [5A Person entering or leaving Singapore to produce passport, etc.](#Person-entering-or-leaving-Singapore-to-produce-passport-etc)
+
 - [6 Control of entry into and departure from Singapore](#Control-of-entry-into-and-departure-from-Singapore)
 
 - [6A Non-citizens born in Singapore](#Non-citizens-born-in-Singapore)
@@ -29,6 +31,14 @@
 - [8 Prohibited immigrants](#Prohibited-immigrants)
 
 - [9 Power to prohibit or limit entry into Singapore](#Power-to-prohibit-or-limit-entry-into-Singapore)
+
+[**Part IIA SINGAPORE VISAS FOR NON-CITIZENS**](#Part-IIA)
+
+- [9A Singapore visas](#Singapore-visas)
+
+- [9B Visas essential for travel](#Visas-essential-for-travel)
+
+- [9C Effect of Singapore visa](#Effect-of-Singapore-visa)
 
 [**Part III ENTRY AND RE-ENTRY PERMITS**](#Part-III)
 
@@ -102,6 +112,14 @@
 
 - [36 Unlawful return after removal](#Unlawful-return-after-removal)
 
+[**Part VA OBLIGATIONS RELATING TO IDENTIFYING INFORMATION**](#Part-VA)
+
+- [36A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [36B Authorising disclosure of or access to identifying information](#Authorising-disclosure-of-or-access-to-identifying-information)
+
+- [36C Accessing or disclosing identifying information](#Accessing-or-disclosing-identifying-information)
+
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
 - [37 Performance of duties of immigration officers](#Performance-of-duties-of-immigration-officers)
@@ -168,7 +186,7 @@
 
 - [62 Saving](#Saving)
 
-[**THE SCHEDULE PERSONal identifierS**](#THE-SCHEDULE)
+[**THE SCHEDULE Personal Identifiers**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -205,8 +223,6 @@ PRELIMINARY
 “Controller” means the Controller of Immigration appointed under section 3;
 
 “Controller of Work Passes” means the Controller of Work Passes appointed under section 3 of the Employment of Foreign Manpower Act (Cap. 91A);
-
-[30/2007 wef 01/07/2007]
 
 “crew” includes every seaman on a vessel, and every person employed in the operation of an aircraft or a train or in any service rendered to the crew or passengers of an aircraft in flight or a train in motion;
 
@@ -258,6 +274,10 @@ but shall not include in any case an entry made for the purpose of complying wit
 
 (c) in relation to a train, means the driver of the train or any person having for the time being control or charge thereof;
 
+“non-citizen” means any person who is not a citizen of Singapore;
+
+[33/2007 wef 01/12/2007]
+
 “occupier”, in relation to any premises or place, includes —
 
 (a) the person having the charge, management or control of either the whole or part of the premises or place, either on his own account or as an agent; and
@@ -272,7 +292,9 @@ but shall not include in any case an entry made for the purpose of complying wit
 
 “permit” includes an entry permit and a re-entry permit;
 
-“personal identifier” means an image, a measurement or a recording of a person or any part of a person, or any particulars, information or record for the purpose of identifying or authenticating the identity of a person, as specified in the Schedule;
+“personal identifier” means any of the identifiers specified in the Schedule (including any in digital form);
+
+[33/2007 wef 01/12/2007]
 
 “prohibited immigrant” means any person who is a prohibited immigrant as defined in section 8;
 
@@ -281,6 +303,10 @@ but shall not include in any case an entry made for the purpose of complying wit
 “regulations” means regulations made under this Act;
 
 “seaman” includes the master and any person carried in a vessel as a bona fide member of the staff employed in the operation or service of the vessel and, if the vessel has articles, entered on the articles;
+
+“Singapore visa” means a Singapore visa granted under Part IIA;
+
+[33/2007 wef 01/12/2007]
 
 “stowaway” means a person who is secreted in a vessel, aircraft or train without the consent of the master or other person in charge of the vessel, aircraft or train and includes such a person who is arriving in or departing from Singapore on board any vessel, aircraft or train without the consent of the master or other person in charge of the vessel, aircraft or train;
 
@@ -335,6 +361,30 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 (5) Any person who contravenes subsection (2) or (4) shall be guilty of an offence.
 
 [13/77]
+
+### Person entering or leaving Singapore to produce passport, etc.
+
+5A\.—(1) Subject to subsection (3), every person, whether a citizen of Singapore or a non-citizen, who is arriving in Singapore (by air, sea or land) from a place outside Singapore, or is leaving Singapore (by air, sea or land) to a place outside Singapore, shall present to an immigration officer at the authorised airport, authorised landing place, authorised train checkpoint, authorised point of entry, authorised departing place or authorised point of departure, as the case may be —
+
+(a) if the person is a citizen of Singapore (whether or not the person is also the national of a country other than Singapore) — the person’s Singapore passport that is valid, and any other prescribed evidence of the person’s identity and Singapore citizenship; or
+
+(b) if the person is a non-citizen —
+
+(i) the person’s foreign passport or other foreign travel document that is valid, and such other evidence of the person’s identity as the immigration officer may require; and
+
+(ii) where a Singapore visa is required by section 9B, evidence of a Singapore visa that is in effect and is held by the person.
+
+(2) The immigration officer may waive —
+
+(a) the requirements of a passport or travel document if the person is a citizen of Singapore and in prescribed circumstances; or
+
+(b) the requirements of a passport, travel document or Singapore visa in the case of any person entering Singapore from a place outside Singapore and holding a valid entry permit, re-entry permit or certificate of status issued in accordance with this Act.
+
+(3) Any person who enters or leaves Singapore in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) Subsection (1) shall not apply to such categories of persons as the Minister may prescribe.
+
+[33/2007 wef 01/12/2007]
 
 ### Control of entry into and departure from Singapore
 
@@ -501,6 +551,30 @@ shall be deemed to be issued with a special pass authorising him to remain in Si
 (6) Where a person, who has been previously convicted of any offence which is punishable with imprisonment for a term of not less than 3 years, commits an offence under subsection (5) by the use of a passport or other travel document which bears a name different from that stated in the order made against him under subsection (1), he shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be liable to a fine not exceeding $10,000 and to caning.
 
 [35/84; S 22/89]
+
+## PART IIA
+
+SINGAPORE VISAS FOR NON-CITIZENS
+
+[33/2007 wef 01/12/2007]
+
+### Singapore visas
+
+9A\.—(1) Subject to the provisions of this Act, the Controller may grant a non-citizen permission, to be known as a Singapore visa, to travel to and enter Singapore.
+
+(2) Without limiting the generality of subsection (1), a Singapore visa to travel to and enter Singapore may be one to travel to and enter Singapore during a specified period.
+
+### Visas essential for travel
+
+9B\.—(1) Subject to subsection (2), a non-citizen shall not travel to Singapore without a Singapore visa that is in effect.
+
+(2) Subsection (1) shall not apply to a non-citizen in relation to travel to Singapore if the travel is by a non-citizen who holds and produces a valid passport from a territory that is approved by the Minister.
+
+### Effect of Singapore visa
+
+9C\.—(1) A Singapore visa that is in effect is not a pass or other permission for, and does not confer any right on, the holder to enter Singapore.
+
+(2) Subject to section 5(2) and any regulations made under section 55, the holder of a Singapore visa that is in effect shall enter Singapore at an authorised airport, authorised landing place, authorised train checkpoint or authorised point of entry.
 
 ## PART III
 
@@ -1080,6 +1154,74 @@ REMOVAL FROM SINGAPORE
 
 [35/84; S 22/89]
 
+## PART VA
+
+OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
+
+[33/2007 wef 01/12/2007]
+
+### Interpretation of this Part
+
+36A\. In this Part, unless the context otherwise requires —
+
+“disclose”, in relation to identifying information that is a personal identifier, includes providing access to the identifying information;
+
+“identifying information” means —
+
+(a) any personal identifier;
+
+(b) any meaningful identifier derived from any personal identifier;
+
+(c) any record of a result of analysing any personal identifier or meaningful identifier derived from any personal identifier; and
+
+(d) any other information, derived from any personal identifier or meaningful identifier derived from any personal identifier, or from any record of a kind referred to in paragraph (c), that could be used to discover a particular person’s identity or to get information about a particular person.
+
+### Authorising disclosure of or access to identifying information
+
+36B\.—(1) The Minister may, in writing, authorise a specified person, or any person included in a specified class of persons —
+
+(a) to access identifying information of the kind specified in the Minister’s authorisation; or
+
+(b) to disclose, on written request, identifying information of the kind specified in the Minister’s authorisation, to another specified person, or another person included in a specified class of persons, in the Minister’s authorisation,
+
+for the purpose or purposes specified in the Minister’s authorisation.
+
+(2) The Minister shall specify in an authorisation under this section, as the purpose or purposes for which access or disclosure is authorised, one or more of the following purposes, and no other:
+
+(a) combating document and identity fraud in immigration matters;
+
+(b) assisting in the identification of, and authenticating the identity of, any person who may be required by or under this Act to provide a personal identifier;
+
+(c) improving the efficiency and integrity of immigration processing at authorised landing places, airports, train checkpoints or points of entry;
+
+(d) assisting in the identification of, and authenticating the identity of, any applicant for or holder of a Singapore visa, and facilitating his entry into Singapore;
+
+(e) enforcement of the criminal law, including investigating or prosecuting a person for an offence against any written law;
+
+(f) administering or managing the storage of identifying information;
+
+(g) modifying identifying information to enable it to be matched with other identifying information, or in order to correct errors or ensure compliance with appropriate standards;
+
+(h) identifying non-citizens who are prohibited immigrants, who are of national security concern or who are associated with activities of a criminal nature and whose detention or supervision may be necessary in the interests of public safety, peace and good order;
+
+(i) making decisions under this Act, or under the Passports Act 2007 or the regulations made under either Act;
+
+(j) any other purpose the disclosure of which is required or authorised by or under written law.
+
+(3) For the purposes of subsection (1)(b), the specified person or specified class of persons to whom identifying information may be disclosed may include a police force, a law enforcement body or a border control body of a foreign country.
+
+### Accessing or disclosing identifying information
+
+36C\.—(1) If a person accesses identifying information, and the person —
+
+(a) is not authorised under section 36B to access any identifying information; or
+
+(b) is not authorised under section 36B to access the identifying information for the purpose for which the person accessed it,
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) If the person’s conduct causes disclosure of identifying information, and the disclosure is not a disclosure that is for any of the purposes specified in section 36B(2), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
 ## PART VI
 
 MISCELLANEOUS
@@ -1382,6 +1524,14 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (e) prescribing the place where, the person to whom and the manner in which application to enter Singapore shall be made;
 
+(ea) providing for the circumstances for granting Singapore visas and the conditions subject to which a Singapore visa may be granted;
+
+[33/2007 wef 01/12/2007]
+
+(eb) providing for the manner in which personal identifiers (within the meaning of Part VA) are obtained and kept;
+
+[33/2007 wef 01/12/2007]
+
 (f) prescribing the procedure to be followed by persons entering Singapore;
 
 (g) prescribing the procedure to be followed by authorities in the exercise of their functions under this Act;
@@ -1393,10 +1543,6 @@ if he has reason to believe that any evidence of the commission of an offence un
 (ii) any person suspected or have been convicted of an offence under section 5, 6(1), 15 or 36 or the regulations; or
 
 (iii) any prohibited immigrant;
-
-(gb) providing for the use of any mechanical, electrical or other form of device or system for the taking or recording of all or any of the personal identifiers;
-
-(gc) providing for the collation of any personal identifier taken or recorded pursuant to regulations made under paragraph (ga) and the dissemination thereof to the police and to any other law enforcement agency authorised by the Controller to receive it;
 
 (h) governing the procedure to be followed and the fees and costs to be paid on any appeal;
 
@@ -1448,21 +1594,21 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (h) without lawful excuse hinders or obstructs any removal under the provisions of this Act;
 
-(i) gives, sells or parts with possession of any entry or re-entry permit, pass or certificate in order that it may be used in contravention of paragraph (j);
+(i) gives, sells or parts with possession of any entry or re-entry permit, pass, Singapore visa or certificate in order that it may be used in contravention of paragraph (j);
 
 [33/2007 wef 01/12/2007]
 
-(j) uses any entry or re-entry permit, pass or certificate issued to any other person as if it had been lawfully issued to himself;
+(j) uses any entry or re-entry permit, pass, Singapore visa or certificate issued to any other person as if it had been lawfully issued to himself;
 
 [33/2007 wef 01/12/2007]
 
-(k) by making a false statement obtains or attempts to obtain an entry or re-entry permit, pass or certificate for himself or for any other person; or
+(k) by making a false statement obtains or attempts to obtain an entry or re-entry permit, pass, Singapore visa or certificate for himself or for any other person; or
 
 [53/2004 wef 15/01/2005]
 
 [33/2007 wef 01/12/2007]
 
-(l) uses or without lawful authority has in his possession any forged, unlawfully altered or irregular entry or re-entry permit, pass or certificate or other document issued under this Act or the regulations, or any permit, pass or certificate or other document so issued on which any endorsement has been forged or unlawfully altered,
+(l) uses or without lawful authority has in his possession any forged, unlawfully altered or irregular entry or re-entry permit, pass, Singapore visa or certificate or other document issued under this Act or the regulations, or any permit, pass or certificate or other document so issued on which any endorsement has been forged or unlawfully altered,
 
 [53/2004 wef 15/01/2005]
 
@@ -1710,7 +1856,13 @@ and includes any works which form an integral part of, or are preparatory to, th
 
 ### Amendment of Schedule
 
-61A\. The Minister may at any time, by order published in theGazette, amend, add to or vary the Schedule.
+61A\. The Minister may, by order published in theGazette, amend the Schedule, except that any other personal identifier so prescribed in the order must —
+
+(a) be an image of, or a measurement or recording of, an external part of the human body or a person’s voice; and
+
+(b) not be an identifier the obtaining of which would involve the taking of an intimate sample within the meaning of section 13A of the Registration of Criminals Act (Cap. 268).
+
+[33/2007 wef 01/12/2007]
 
 ### Saving
 
@@ -1722,11 +1874,15 @@ and includes any works which form an integral part of, or are preparatory to, th
 
 Sections 2 and 61A
 
-PERSONal identifierS
+Personal Identifiers
 
-1\. Any finger, thumb or palmar impression.
+1\. Fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies).
 
-2\. Any photograph or other image of a person’s face and shoulders.
+2\. A photograph or other image of a person’s face and shoulders.
+
+3. A person’s signature.
+
+[33/2007 wef 01/12/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -1841,3 +1997,9 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 17/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Date of commencement|1 July 2007|
+|26.|**Act 33 of 2007—Passports Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 21/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|16 July 2007|
+||Date of commencement|1 December 2007|
