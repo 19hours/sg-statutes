@@ -344,8 +344,6 @@ PRELIMINARY
 
 “retirement account” means a retirement account maintained for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c);
 
-[40/2007 wef 01/10/2007]
-
 “special account” means a special account maintained under section 13;
 
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
@@ -504,8 +502,6 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 
 “record” means a record in any medium and includes a record containing information in digital or electronic form.
 
-[40/2007 wef 01/10/2007]
-
 ### Budget
 
 5A\.—(1) The Board shall in every financial year prepare a budget containing estimates of income and expenditure of the Board for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
@@ -525,8 +521,6 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 5C\.—(1) The Board shall have the exclusive right to the use of such symbol or representation as the Board may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
-
-[40/2007 wef 01/10/2007]
 
 ## PART II
 
@@ -768,8 +762,6 @@ CONTRIBUTIONS TO FUND
 
 (iii) any contribution made in that year by that person or any other person under section 27B, 27C, 27D, 27E or 27F or under any regulations referred to in section 27G or 27H.
 
-[40/2007 wef 01/10/2007]
-
 [31/2003 wef 01/01/2004]
 
 ### Payment of cash grant by Government into Fund
@@ -942,8 +934,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
-[40/2007 wef 01/10/2007]
-
 (6C) The minimum sum may be deposited with an approved bank or in a retirement account or used to purchase an approved annuity from an insurer.
 
 [15/2006 wef 01/07/2006]
@@ -1072,8 +1062,6 @@ if the member and the related person or persons, as the case may be, agree to th
 
 if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6) in the event the property is sold or otherwise disposed of.
 
-[40/2007 wef 01/10/2007]
-
 [18/2009 wef 01/09/2009]
 
 [5/87]
@@ -1088,8 +1076,6 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
 
-[40/2007 wef 01/10/2007]
-
 [18/2009 wef 01/09/2009]
 
 [39/2000]
@@ -1097,8 +1083,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 (10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
 
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from an approved developer, from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
-
-[40/2007 wef 01/10/2007]
 
 [5/87]
 
@@ -1155,8 +1139,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
 
 “approved developer” means an approved developer under Part IVB of the Housing and Development Act (Cap. 129);
-
-[40/2007 wef 01/10/2007]
 
 “Housing Authority” has the same meaning as in section 28;
 
@@ -1264,17 +1246,11 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (ii) any other sum that the Board may allow, being a sum not exceeding such sum as may for the time being be specified by the Minister by notification in theGazetteunder section 18B(3)(b).
 
-[40/2007 wef 01/10/2007]
-
 (1A) All moneys transferred to or paid into a retirement account under subsection (1)(a) or (b) shall be applied in accordance with any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose.
-
-[40/2007 wef 01/10/2007]
 
 (2) The Board may, for any of the purposes mentioned in section 15(2A)(a), (7B)(a) and (8A)(a) and subject to such terms and conditions as it may impose, permit —
 
 (a) a member to transfer such portion of the sum standing to his credit in the Fund as the Board may determine to the retirement account of his parent, grandparent, spouse or sibling; or
-
-[40/2007 wef 01/10/2007]
 
 (b) any person to pay money into the retirement account of his parent, grandparent, spouse or sibling.
 
@@ -1294,8 +1270,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (2) In this section, “prescribed amount” means such sum as may for the time being be specified by the Minister by notification in theGazetteunder section 18B(3)(b).
 
-[40/2007 wef 01/10/2007]
-
 ### Transfer of member’s moneys in ordinary account to special account
 
 18B\.—(1) Subject to subsection (2), a member who has less than the prescribed amount standing to his credit in his special account may apply to the Board to transfer to his special account a sum standing to his credit in his ordinary account, being a sum not exceeding the difference between —
@@ -1307,8 +1281,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 (i) the amount standing to his credit in his special account; and
 
 (ii) any amount withdrawn from his special account for the making of investments under any scheme in accordance with any regulations made under section 77(1)(n).
-
-[40/2007 wef 01/10/2007]
 
 (2) An application by a member to transfer the sum standing to his credit in his ordinary account to his special account under subsection (1) shall be irrevocable and the transfer shall be subject to such terms and conditions as the Board may determine.
 
@@ -1355,8 +1327,6 @@ shall be deemed to be contributions for the purposes of this Act, and shall not 
 (a) subsection (2) shall not apply to those moneys; and
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
-
-[40/2007 wef 01/10/2007]
 
 ### Withdrawals
 
@@ -1482,8 +1452,6 @@ there shall be a charge on the member’s estate or interest in the immovable pr
 
 in which event the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
 
-[40/2007 wef 01/10/2007]
-
 (11) Subsections (4), (9) and (10) shall apply to all charges under subsection (1) securing the repayment of moneys withdrawn from the Fund pursuant to any regulations made under section 77.
 
 [19/83]
@@ -1588,8 +1556,6 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 in which event the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled.
 
-[40/2007 wef 01/10/2007]
-
 (10) Where costs, fees or other incidental expenses are incurred for the registration or notification of a charge under subsection (1) or section 21(4) or the discharge thereof, the Board may, subject to such terms and conditions as it may impose, authorise the whole or part of the amount standing to the member’s credit in the Fund to be withdrawn and used to pay such costs, fees and other incidental expenses.
 
 [27/95]
@@ -1681,8 +1647,6 @@ the Board may, with the prior written approval of the Housing and Development Bo
 (i) have been repaid to the Fund; or
 
 (ii) are no longer required by any regulations made under section 77(1) to be repaid to the Fund; or
-
-[40/2007 wef 01/10/2007]
 
 (b) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e).
 
@@ -1784,10 +1748,6 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n), and the proceeds and benefits of the investment, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
-[15/2006 wef 01/07/2006]
-
-[40/2007 wef 01/10/2007]
-
 (3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) and the proceeds and benefits of the investment —
 
 (a) shall not pass to the Official Assignee on the bankruptcy of the member; and
@@ -1813,8 +1773,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 [22/2010 wef 01/10/2010]
 
 (3B) Where any money is payable to the spouse or former spouse of a member of the Fund under section 27B(1), (2) or (3) on the death of the member, subsection (3A) shall not apply to that money.
-
-[40/2007 wef 01/10/2007]
 
 (4) No contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
 
@@ -3080,8 +3038,6 @@ he shall be guilty of an offence.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-[40/2007 wef 01/10/2007]
-
 ### Publication of information to unauthorised person
 
 59\.—(1) Any person employed by the Board who, without lawful authority, publishes or communicates to any person, otherwise than in the ordinary course of his duty or employment, any information acquired by him in the course of his duty or employment shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.
@@ -3136,8 +3092,6 @@ he shall be guilty of an offence.
 
 the court before which the conviction is had may, in addition to the fine prescribed under this Act or penalty prescribed under that law, order that member to refund or transfer to his ordinary account or special account, as the case may be, in accordance with such directions as the Board may give, the amount certified by an officer appointed by the Board in that behalf to be due from that member, under paragraph (c), at the date of the refund or transfer.
 
-[40/2007 wef 01/10/2007]
-
 (2) The court may order that the amount ordered to be paid under subsection (1), or refunded or transferred under subsection (1A), be recoverable —
 
 (a) according to the law for the time being in force relating to the recovery of fines; or
@@ -3146,11 +3100,7 @@ the court before which the conviction is had may, in addition to the fine prescr
 
 [39/2000]
 
-[40/2007 wef 01/10/2007]
-
 (3) Where the court orders that the amount ordered to be paid under subsection (1), or refunded or transferred under subsection (1A), to be recoverable in the manner mentioned in subsection (2)(b), the court shall certify the amount to be paid, refunded or transferred and the Board may recover the amount so certified in any civil court of competent jurisdiction as though the amount were a judgment debt due to the Board.
-
-[40/2007 wef 01/10/2007]
 
 [39/2000]
 
@@ -3236,8 +3186,6 @@ the court before which the conviction is had may, in addition to the fine prescr
 
 65\. Any sum due to the Fund, including any sum required by the Board or ordered by a court to be paid, repaid, refunded or transferred to any account maintained for a member of the Fund in respect of the moneys standing to the credit of the member in the Fund, may be sued for and recovered by the Board under the Government Proceedings Act (Cap. 121) as if it were a debt due to the Government.
 
-[40/2007 wef 01/10/2007]
-
 ### Certificate of authorised officer to be evidence
 
 66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Home Protection Fund or the MediShield Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
@@ -3248,19 +3196,11 @@ the court before which the conviction is had may, in addition to the fine prescr
 
 ### Certificate of Board
 
-66A\. In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
-
-(1) In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
-
-[40/2007 wef 01/10/2007]
+66A\.—(1) In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
 
 [30/98]
 
 (2) Where the Board has required a member of the Fund to refund or transfer to his ordinary account or special account such amount as may be prescribed by any regulations made under section 77(1)(n), a certificate purporting to be issued by the Board certifying the amount due from the member at any date shall, in any proceedings relating to the recovery of that amount, be prima facie evidence that the amount so stated is due and payable by the member named in the certificate at that date.
-
-[40/2007 wef 01/10/2007]
-
-[30/98]
 
 ### Conduct of prosecutions
 
@@ -3278,8 +3218,6 @@ MISCELLANEOUS
 
 (a) a writ of seizure and sale` has been issued in execution of a judgment against an employer or a member and any movable or immovable property or other assets belonging to the employer or member has been seized or sold or otherwise realised in pursuance of the execution; and
 
-[40/2007 wef 01/10/2007]
-
 (b) prior to the payment of the proceeds of the sale or other realisation to an execution creditor, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund,
 
 no part of the proceeds shall be paid to an execution creditor, unless the court issuing the writ has ascertained and provided for the sum due to the Fund at the date of the sale or other realisation.
@@ -3287,8 +3225,6 @@ no part of the proceeds shall be paid to an execution creditor, unless the court
 (2) Where —
 
 (a) a writ of distress has been issued under the Distress Act (Cap. 84) to distrain the property of a tenant who is an employer or a member and any movable property belonging to the employer or member is seized in execution of the writ; and
-
-[40/2007 wef 01/10/2007]
 
 (b) prior to the payment of the proceeds of the sale or other realisation to the landlord entitled to the distraint, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund,
 
@@ -3299,8 +3235,6 @@ no part of the proceeds shall be paid to the landlord unless the court issuing t
 (3) Where —
 
 (a) a garnishee order has been issued in execution of a judgment against an employer or a member; and
-
-[40/2007 wef 01/10/2007]
 
 (b) prior to the payment of the amount due or accruing due to the judgment debtor from the garnishee, notice has been given to the garnishee by the Board that any sum is due to the Fund,
 
@@ -3324,11 +3258,7 @@ the proceeds of the sale shall not be paid to any creditor other than to the Gov
 
 any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to any sum due to the Fund under section 61B(1A).
 
-[40/2007 wef 01/10/2007]
-
 (6) For the purposes of this section, any reference to an amount or a sum due to the Fund shall be construed as including a reference to an amount or a sum required by the Board or ordered by a court to be paid, repaid, refunded or transferred to any account maintained for a member of the Fund in respect of the moneys standing to the credit of the member in the Fund.
-
-[40/2007 wef 01/10/2007]
 
 ### Power to exempt
 
@@ -3500,8 +3430,6 @@ including the payment of costs, fees or other incidental expenses arising from s
 
 (v) any matter relating to the sale of a member’s interest in any investment under section 27H; and
 
-[40/2007 wef 01/10/2007]
-
 (s) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
 
 [19/83; 32/84; 16/86; 5/87; 22/90; 27/92; 29/93; 10/94; 39/2000]
@@ -3516,7 +3444,7 @@ including the payment of costs, fees or other incidental expenses arising from s
 
 (b) to provide for the keeping of books, accounts or records by employers;
 
-(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B) (a) , (7A) (a), (b), (ba) or (c), (8) (a), (b), (c) or (d) or (15) (e) (ii), 27D (vi) (B), 36 (2) or 49(2);
+(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B)(a) , (7A) (a), (b), (ba) or (c), (8) (a), (b), (c) or (d) or (15) (e) (ii), 27D (vi) (B), 36(2) or 49(2);
 
 [15/2006 wef 01/07/2006]
 
@@ -5600,7 +5528,9 @@ Self-employed Persons
 
 34\. Sale of Food Act (Cap. 283).
 
-35\. Secondhand Dealers Act (Cap. 288).
+35. Secondhand Goods Dealers Act 2007
+
+[4/2007 wef 01/12/2007]
 
 36\. Securities and Futures Act 2001
 
@@ -6172,6 +6102,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 44/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Dates of commencement|1 October 2007 (section 16)|
+|152.|**Act 4 of 2007—Secondhand Goods Dealers Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 16/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 December 2007|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
