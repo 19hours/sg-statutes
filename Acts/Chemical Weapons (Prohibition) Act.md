@@ -20,9 +20,9 @@
 
 [**Part II ADMINISTRATION**](#Part-II)
 
-- [6 Appointment of Director](#Appointment-of-Director)
+- [6 Administration of Act](#Administration-of-Act)
 
-- [7 Functions of Director](#Functions-of-Director)
+- [7 (Repealed)](#Repealed)
 
 [**Part III OFFENCES**](#Part-III)
 
@@ -38,7 +38,7 @@
 
 - [12 Information and records for purposes of Convention](#Information-and-records-for-purposes-of-Convention)
 
-- [13 Director may seek information for declarations and consultation purposes](#Director-may-seek-information-for-declarations-and-consultation-purposes)
+- [13 Director-General may seek information for declarations and consultation purposes](#Director-General-may-seek-information-for-declarations-and-consultation-purposes)
 
 - [14 False or misleading statements and documents](#False-or-misleading-statements-and-documents)
 
@@ -118,7 +118,11 @@ PRELIMINARY
 
 “authorised officer” means —
 
-(a) the Director;
+(a) the Director-General;
+
+(aa) any officer of customs;
+
+[49/2007 wef 14/12/2007]
 
 (b) any police officer; or
 
@@ -138,7 +142,9 @@ PRELIMINARY
 
 “conveyance” includes any vessel, train, vehicle, aircraft or other mode of transport;
 
-“Director” means the Director for the Prohibition of Chemical Weapons appointed under section 6(1) and includes any person appointed to act in the place of the Director during the temporary absence of the Director;
+“Director-General” means the Director-General of Customs appointed under section 4(1) of the Customs Act (Cap. 70);
+
+[49/2007 wef 14/12/2007]
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, water or air and includes the placing of any thing in a conveyance for the purposes of being taken out of Singapore but does not include the taking out of Singapore of that thing on the same conveyance on which it was brought into Singapore unless that thing after being brought into Singapore has been landed in Singapore;
 
@@ -149,6 +155,16 @@ PRELIMINARY
 “licence” means a licence granted under section 9;
 
 “national inspector” means any person who is a national inspector by virtue of, or appointed under, section 16;
+
+“officer of customs” means —
+
+(a) any Deputy Director-General of Customs or Assistant Director-General of Customs appointed under section 4(2) of the Customs Act (Cap. 70);
+
+(b) any senior officer of customs appointed under section 4(4) of the Customs Act; or
+
+(c) any officer of customs appointed under section 5(2) of the Customs Act;
+
+[49/2007 wef 14/12/2007]
 
 “permitted purpose” means —
 
@@ -165,6 +181,14 @@ PRELIMINARY
 (iv) any law enforcement purpose (including domestic riot control);
 
 “premises” includes any land, building, structure and conveyance;
+
+“produce”, in relation to a scheduled chemical, means forming the chemical through a chemical, biochemical or biologically mediated reaction; and includes forming the chemical by any such reaction as an intermediate, a by-product or a waste product during the manufacture of any product, where such intermediate, by-product or waste product —
+
+(a) is formed and consumed within a defined manufacturing sequence; and
+
+(b) is chemically stable and exists for a sufficient time to make its isolation from the manufacturing stream possible; but where isolation does not occur under normal or specially designed operating conditions;
+
+[49/2007 wef 14/12/2007]
 
 “Schedule 1 chemical” means a chemical listed in Schedule 1 of the Schedules of Chemicals in the Chemicals Annex, and is set out in Part I of the Schedule to this Act;
 
@@ -210,29 +234,21 @@ PRELIMINARY
 
 ADMINISTRATION
 
-### Appointment of Director
+### Administration of Act
 
-6\.—(1) The Minister may appoint a Director for the Prohibition of Chemical Weapons.
+6\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-(2) If the Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, the Minister may appoint a person to act in the place of the Director during any such period of absence from duty.
+[49/2007 wef 14/12/2007]
 
-(3) The Director may in writing appoint any public officer or any officer of any statutory body as an authorised officer for the purposes of this Act.
+(2) The Director-General may, with the approval of the Minister, in writing appoint any person as an authorised officer for the purposes of this Act.
 
-(4) The Director may delegate to any authorised officer all or any of the powers conferred on the Director by this Act except the powers conferred by this subsection.
+[49/2007 wef 14/12/2007]
 
-### Functions of Director
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer, except the power of delegation under this subsection.
 
-7\. The functions of the Director are —
+[49/2007 wef 14/12/2007]
 
-(a) to ensure the effective operation of this Act;
-
-(b) to carry out, on behalf of Singapore, the obligations that Singapore has under the Convention;
-
-(c) to facilitate inspections of premises in Singapore if Singapore’s compliance with the Convention is challenged;
-
-(d) to carry out such duties and exercise such powers as are conferred upon the Director under this Act; and
-
-(e) to do anything incidental or conducive to the performance of any of the functions referred to in paragraphs (a) to (d).
+7\. [Deleted by Act 49/2007 wef 14/12/2007]
 
 ## PART III
 
@@ -274,7 +290,9 @@ shall be guilty of an offence and shall on conviction be punished with —
 
 ### Licence for use, etc., of scheduled chemical or discrete organic chemical
 
-9\.—(1) No person shall use, develop, produce, acquire, stockpile, retain or transfer a Schedule 1 chemical for a permitted purpose except under and in accordance with the conditions of a licence granted by the Director.
+9\.—(1) No person shall use, develop, produce, acquire, stockpile, retain or transfer a Schedule 1 chemical for a permitted purpose except under and in accordance with the conditions of a licence granted by the Director-General.
+
+[49/2007 wef 14/12/2007]
 
 (2) No person shall —
 
@@ -282,7 +300,9 @@ shall be guilty of an offence and shall on conviction be punished with —
 
 (b) produce a Schedule 3 chemical for a permitted purpose,
 
-except under and in accordance with the conditions of a licence granted by the Director.
+except under and in accordance with the conditions of a licence granted by the Director-General.
+
+[49/2007 wef 14/12/2007]
 
 (3) No person shall produce —
 
@@ -290,17 +310,79 @@ except under and in accordance with the conditions of a licence granted by the D
 
 (b) more than 30 tonnes of any one unscheduled discrete organic chemical containing phosphorous, sulfur or fluorine per year,
 
-except under and in accordance with the conditions of a licence granted by the Director.
+except under and in accordance with the conditions of a licence granted by the Director-General.
 
-(4) No person shall import or export a Schedule 2 chemical or Schedule 3 chemical except under and in accordance with the conditions of a licence granted by the Director.
+[49/2007 wef 14/12/2007]
 
-(5) An application for a licence to do any of the acts referred to in subsections (1) to (4) shall be made to the Director in such manner or form as the Director may determine and shall be accompanied by the prescribed fee.
+(4) No person shall import or export a Schedule 2 chemical or Schedule 3 chemical except under and in accordance with the conditions of a licence granted by the Director-General.
+
+[49/2007 wef 14/12/2007]
+
+(4A) Subsection (1) shall not apply to the use, development, production, acquisition, stockpiling, retention or transfer for a permitted purpose of a mixture containing not more than the prescribed concentration of a prescribed Schedule 1 chemical.
+
+[49/2007 wef 14/12/2007]
+
+(4B) Subsection (2) shall not apply to —
+
+(a) the production, processing or consumption for a permitted purpose of a mixture containing not more than the prescribed concentration of a prescribed Schedule 2 chemical; and
+
+(b) the production for a permitted purpose of a mixture containing not more than the prescribed concentration of a prescribed Schedule 3 chemical.
+
+[49/2007 wef 14/12/2007]
+
+(4C) In determining the amount of unscheduled discrete organic chemicals or unscheduled discrete organic chemical containing phosphorous, sulfur or fluorine produced by a person in a year for the purposes of subsection (3), the production of a mixture containing not more than the prescribed concentration of a —
+
+(a) prescribed unscheduled discrete organic chemical; or
+
+(b) prescribed unscheduled discrete organic chemical containing phosphorous, sulfur or fluorine,
+
+shall be disregarded.
+
+[49/2007 wef 14/12/2007]
+
+(4D) Subsection (4) shall not apply to —
+
+(a) the import of a mixture containing not more than the prescribed concentration of a prescribed Schedule 2 chemical or Schedule 3 chemical; or
+
+(b) the export to a country that is a party to the Convention of a mixture containing not more than the prescribed concentration of a prescribed Schedule 2 chemical or Schedule 3 chemical.
+
+[49/2007 wef 14/12/2007]
+
+(4E) The Minister may by regulations prescribe the concentration of a chemical in a mixture for the purposes of subsection (4A), (4B), (4C) or (4D).
+
+[49/2007 wef 14/12/2007]
+
+(4F) The regulations under subsection (4E) may —
+
+(a) prescribe a concentration for all Schedule 1 chemicals, Schedule 2 chemicals, Schedule 3 chemicals, unscheduled discrete organic chemicals or unscheduled discrete organic chemicals containing phosphorous, sulfur or fluorine, as the case may be, or for a specified chemical or description of chemicals;
+
+(b) prescribe different concentrations for different chemicals; and
+
+(c) prescribe the method for working out the concentration of a chemical in a mixture.
+
+[49/2007 wef 14/12/2007]
+
+(5) An application for a licence to do any of the acts referred to in subsections (1) to (4) shall be made to the Director-General in such manner or form as the Director-General may determine and shall be accompanied by the prescribed fee.
+
+[49/2007 wef 14/12/2007]
 
 (6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 (7) Any person who contravenes subsection (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(8) The Minister may make regulations to prescribe the manner of application for a licence, the form and duration of a licence, the terms and conditions upon which and the circumstances in which a licence may be granted, held, suspended, cancelled, extended, renewed or replaced, and the fees payable in respect thereof.
+(8) The Minister may make regulations —
+
+(a) to prescribe the manner of application for a licence;
+
+(b) to prescribe the form and duration of a licence;
+
+(c) to prescribe the terms and conditions upon which and the circumstances in which a licence may be held or granted, suspended, cancelled, extended, renewed or replaced by the Director-General;
+
+(d) to provide for appeals to the Minister by a person against a refusal of the Director-General to grant, extend or renew a licence, or a decision of the Director-General to cancel or suspend a licence; and
+
+(e) to prescribe fees payable for an application for a licence and an application for the extension or renewal of a licence.
+
+[49/2007 wef 14/12/2007]
 
 (9) In subsection (3), “unscheduled discrete organic chemical” means a discrete organic chemical not listed in the Schedule.
 
@@ -308,7 +390,9 @@ except under and in accordance with the conditions of a licence granted by the D
 
 10\.—(1) A court may order that anything shown to the court’s satisfaction to be the subject matter of an offence under this Part or to have been used in the commission of such an offence shall be forfeited to the Government, and either destroyed or otherwise dealt with in such manner as the court may order.
 
-(2) In particular, the court may order the thing to be dealt with as the Director may see fit; and in such a case the Director may direct that it be destroyed or otherwise dealt with.
+(2) In particular, the court may order the thing to be dealt with as the Director-General may see fit; and in such a case the Director-General may direct that it be destroyed or otherwise dealt with.
+
+[49/2007 wef 14/12/2007]
 
 (3) Where —
 
@@ -330,9 +414,11 @@ INFORMATION AND DOCUMENTS
 
 (a) toxic chemicals and their precursors are only used, developed, produced, acquired, stockpiled, retained, or transferred for permitted purposes;
 
-(b) the Director has knowledge of dealings with chemicals that facilitates the making of Singapore’s periodic declarations under the Convention; and
+(b) the Director-General has knowledge of dealings with chemicals that facilitates the making of Singapore’s periodic declarations under the Convention; and
 
 (c) Singapore is otherwise able to fulfil its obligations under the Convention.
+
+[49/2007 wef 14/12/2007]
 
 (2) Any power under this Part may be exercised only for that purpose.
 
@@ -340,7 +426,7 @@ INFORMATION AND DOCUMENTS
 
 12\.—(1) Any person who uses, develops, produces, acquires, stockpiles, retains or transfers toxic chemicals or their precursors to which any provision of Parts VI to IX of the Verification Annex applies shall —
 
-(a) give to the Director, in such form and at such intervals as are prescribed, such written particulars as are prescribed, in relation to —
+(a) give to the Director-General, in such form and at such intervals as are prescribed, such written particulars as are prescribed, in relation to —
 
 (i) the chemicals and, as the case may be, the facility;
 
@@ -350,7 +436,9 @@ INFORMATION AND DOCUMENTS
 
 (b) keep such records in relation to the chemicals and facility referred to in paragraph (a), as are required by regulations made under this Act; and
 
-(c) prepare and give to the Director from such records, such periodic reports and such special reports relating to the chemicals and facility referred to in paragraph (a) as are required by regulations made under this Act.
+(c) prepare and give to the Director-General from such records, such periodic reports and such special reports relating to the chemicals and facility referred to in paragraph (a) as are required by regulations made under this Act.
+
+[49/2007 wef 14/12/2007]
 
 (2) Any person who refuses or fails, without reasonable cause, to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -370,11 +458,13 @@ INFORMATION AND DOCUMENTS
 
 (d) the persons who are to sign such periodic reports and special reports.
 
-### Director may seek information for declarations and consultation purposes
+### Director-General may seek information for declarations and consultation purposes
 
-13\.—(1) This section shall apply if the Director considers that any person is capable of giving information that is relevant to a declaration required to be given by Singapore to the Organisation under the Convention.
+13\.—(1) This section shall apply if the Director-General considers that any person is capable of giving information that is relevant to a declaration required to be given by Singapore to the Organisation under the Convention.
 
-(2) The Director may, by written notice given to the person, require the person to give such information to the Director —
+[49/2007 wef 14/12/2007]
+
+(2) The Director-General may, by written notice given to the person, require the person to give such information to the Director-General —
 
 (a) if the person is a natural person, by writing signed by the person; or
 
@@ -382,11 +472,15 @@ INFORMATION AND DOCUMENTS
 
 within such reasonable period and in such manner as is specified in the notice.
 
-(3) The Director may, by written notice given to a person, require the person to give to the Director particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
+[49/2007 wef 14/12/2007]
+
+(3) The Director-General may, by written notice given to a person, require the person to give to the Director-General particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
 
 (4) Any person who, intentionally or recklessly refuses or fails, without reasonable cause, to comply with a notice under this section to the extent that the person is capable of complying with it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(5) The power of the Director under this section to require a person to give information or documents to the Director is in addition to any obligation to give information or documents that the person may have under section 12.
+(5) The power of the Director-General under this section to require a person to give information or documents to the Director-General is in addition to any obligation to give information or documents that the person may have under section 12.
+
+[49/2007 wef 14/12/2007]
 
 ### False or misleading statements and documents
 
@@ -440,7 +534,9 @@ INSPECTIONS
 
 16\.—(1) All authorised officers shall be national inspectors for the purposes of this Act.
 
-(2) The Director may, from time to time, appoint in writing other persons to be national inspectors.
+(2) The Director-General may, from time to time, appoint in writing other persons to be national inspectors.
+
+[49/2007 wef 14/12/2007]
 
 (3) A national inspector may —
 
@@ -478,17 +574,25 @@ or under a warrant issued under section 22 in respect of the premises —
 
 (2) A national inspector may exercise any inspection power for the purposes of facilitating an inspection referred to in section 17.
 
-(3) For the purposes of subsection (1)(a), “observer” means an observer referred to in paragraph 12 of Article IX of the Convention, and includes any person authorised by the Director to observe the inspection.
+(3) In subsection (1)(a), “observer” means an observer referred to in paragraph 12 of Article IX of the Convention, and includes any person authorised by the Director-General to observe the inspection.
+
+[49/2007 wef 14/12/2007]
 
 ### Written directions
 
-19\.—(1) The Director may, by notice in writing, issue directions to any person for the purpose of facilitating any inspection under this Part.
+19\.—(1) The Director-General may, by notice in writing, issue directions to any person for the purpose of facilitating any inspection under this Part.
 
-(2) Any person who wilfully fails to comply with any direction given by the Director under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+[49/2007 wef 14/12/2007]
+
+(2) Any person who wilfully fails to comply with any direction given by the Director-General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[49/2007 wef 14/12/2007]
 
 ### Identification certificates
 
-20\. The Director shall issue to every international inspector and national inspector a certificate identifying him as such international inspector or national inspector, as the case may be.
+20\. The Director-General shall issue to every international inspector and national inspector a certificate identifying him as such international inspector or national inspector, as the case may be.
+
+[49/2007 wef 14/12/2007]
 
 ### Warrant for national inspection
 
@@ -514,19 +618,21 @@ may, unconditionally or subject to conditions, issue a warrant authorising the e
 
 ### Warrant for international inspection
 
-22\.—(1) The Director may apply for a warrant on behalf of an international inspector or national inspector where the consent of the person who is in control of any premises to enter the premises for the purposes referred to in section 17 (ii) and (iii) cannot be obtained or where the person refuses to give such consent.
+22\.—(1) The Director-General may apply for a warrant on behalf of an international inspector or national inspector where the consent of the person who is in control of any premises to enter the premises for the purposes referred to in section 17(ii) and (iii) cannot be obtained or where the person refuses to give such consent.
+
+[49/2007 wef 14/12/2007]
 
 (2) Subject to subsection (3), a Magistrate who is satisfied that there are reasonable grounds for believing that —
 
 (a) the premises meets the conditions for entry described in section 17;
 
-(b) entry to the premises is necessary for the purposes referred to in section 17 (ii) and (iii); and
+(b) entry to the premises is necessary for the purposes referred to in section 17(ii) and (iii); and
 
 (c) the consent of the person who is in control of the premises cannot be obtained or such consent is refused,
 
 may issue, unconditionally or subject to conditions, a warrant authorising the entry of the premises, at any time within 14 days of the issue of the warrant (or within such further time as may be specified in the warrant) by the international inspector or national inspector for the purposes referred to in paragraph (b).
 
-(3) The Director shall —
+(3) The Director-General shall —
 
 (a) before applying for a warrant, make reasonable inquiries as to whether any other applications for such a warrant have been made in respect of the premises concerned, and (if so) the following matters:
 
@@ -535,6 +641,8 @@ may issue, unconditionally or subject to conditions, a warrant authorising the e
 (ii) the results of each application; and
 
 (b) disclose on the application for the warrant the results of the inquiries.
+
+[49/2007 wef 14/12/2007]
 
 ### Use of force
 
@@ -624,11 +732,13 @@ MISCELLANEOUS PROVISIONS
 
 ### Composition of offences
 
-30\.—(1) The Director may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+30\.—(1) The Director-General may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
 
 (a) $1,000 in respect of any offence where the maximum fine prescribed for that offence is less than $5,000; and
 
 (b) $5,000 in respect of any other offence.
+
+[49/2007 wef 14/12/2007]
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
@@ -648,13 +758,13 @@ MISCELLANEOUS PROVISIONS
 
 (a) to impose on any importer, exporter, agent, forwarding agent, common carrier, consignor or consignee of goods or on any owner, agent, master or person in charge of a conveyance as may be prescribed in the regulations, the duty to furnish —
 
-(i) to the Director; or
+(i) to the Director-General; or
 
 (ii) to the owner, agent, master or person in charge of a conveyance, or to a railway station-master or to such other person as may be prescribed,
 
 such particulars, information or documents as may be prescribed in respect of any scheduled chemical that is imported or exported;
 
-(b) to require the master of any vessel to attend at the office of the Director or Port Master, and to furnish such particulars, information and documents, as may be prescribed;
+(b) to require the master of any vessel to attend at the office of the Director-General or Port Master, and to furnish such particulars, information and documents, as may be prescribed;
 
 (c) to prohibit the issue of a port clearance to the master of any vessel pending compliance with any provision of the regulations;
 
@@ -663,6 +773,8 @@ such particulars, information or documents as may be prescribed in respect of an
 (e) to prescribe offences in respect of the contravention of or non-compliance with any regulations made under this section, and prescribing fines, not exceeding $10,000, that may, on conviction, be imposed in respect of any such offence; and
 
 (f) to prescribe anything which is required or permitted to be prescribed under this Act or is necessary or expedient to be prescribed for carrying out or giving effect to the provisions of this Act.
+
+[49/2007 wef 14/12/2007]
 
 ## THE SCHEDULE
 
@@ -1212,6 +1324,11 @@ This Legislative History is provided for the convenience of users of the Chemica
 |||(except sections 3 and 17)|
 |3.|**2001 Revised Edition—Chemical Weapons (Prohibition) Act**|
 ||Date of operation|31 December 2001|
+|4.|**Act 49 of 2007—Chemical Weapons (Prohibition) (Amendment) Act 2007**|
+||Date of First Reading|17 September 2007|
+|||(Bill No. 39/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|22 October 2007|
+||Date of commencement|14 December 2007|
 ## COMPARATIVE TABLE
 
 Chemical Weapons (Prohibition) Act
