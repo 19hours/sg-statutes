@@ -194,6 +194,20 @@
 
 - [57 Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
 
+[**Part VIA WORKFARE INCOME SUPPLEMENT SCHEME**](#Part-VIA)
+
+- [57A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [57B Establishment of Workfare Income Supplement Scheme](#Establishment-of-Workfare-Income-Supplement-Scheme)
+
+- [57C Cash payments and contributions under Scheme](#Cash-payments-and-contributions-under-Scheme)
+
+- [57D Recovery of cash payment, etc., upon conviction](#Recovery-of-cash-payment-etc-upon-conviction)
+
+- [57E Certificate of Board on amount of cash payment, etc.](#Certificate-of-Board-on-amount-of-cash-payment-etc)
+
+- [57F Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
+
 [**Part VII OFFENCES, PENALTIES AND PROCEEDINGS**](#Part-VII)
 
 - [58 Offences](#Offences)
@@ -1728,7 +1742,7 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 ### Protection of benefits
 
-24\.—(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27E, 27F, 27Gand 27H and any regulations made under section 77(1) —
+24\.—(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27E, 27F, 27G, 27H and 57C and any regulations made under section 57F or 77(1) —
 
 (a) no withdrawals made from the Fund under this Act and no rights of any member of the Fund acquired thereunder; and
 
@@ -1754,7 +1768,7 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (b) shall be deemed not to form part of the property of the member.
 
-(3A) Subject to subsection (3B)and section 16A , all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
+(3A) Subject to subsection (3B), sections 16A and 57C and any regulations made under section 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
 
@@ -1774,7 +1788,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (3B) Where any money is payable to the spouse or former spouse of a member of the Fund under section 27B(1), (2) or (3) on the death of the member, subsection (3A) shall not apply to that money.
 
-(4) No contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
+(4) Subject to section 57C and any regulations made undersection 57F, no contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
 
 [57/2007 wef 28/12/2007]
 
@@ -3003,6 +3017,142 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 (g) provide for all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
 [15/90]
+
+## PART VIA
+
+WORKFARE INCOME SUPPLEMENT SCHEME
+
+[57/2007 wef 28/12/2007]
+
+### Interpretation of this Part
+
+57A\. In this Part —
+
+“cash payment” means any cash payment made by the Government under the Scheme;
+
+“eligible member” means a member of the Fund who is eligible to receive any cash payment or relevant contribution under the Scheme;
+
+“relevant contribution” means any contribution to the Fund made by the Government under the Scheme;
+
+“relevant regulations” means any regulations made under section 57F;
+
+“Scheme” means the Workfare Income Supplement Scheme established under section 57B.
+
+### Establishment of Workfare Income Supplement Scheme
+
+57B\.—(1) There shall be established a scheme to be known as the Workfare Income Supplement Scheme for the purpose of supplementing the income of eligible members.
+
+(2) The Board shall administer the Scheme on behalf of the Government.
+
+### Cash payments and contributions under Scheme
+
+57C\.—(1) Subject to subsection (4) and the relevant regulations, the Board may do either or both of the following:
+
+(a) make a cash payment, to an eligible member, of such amount as those regulations may prescribe;
+
+(b) credit, to such account of an eligible member in the Fund as the Minister may direct, a relevant contribution of such amount as those regulations may prescribe.
+
+(2) The Board may recover on behalf of the Government —
+
+(a) any cash payment made to a member of the Fund; and
+
+(b) any relevant contribution credited to any account in the Fund of a member of the Fund, together with the whole or such part, as the Board may determine, of any interest paid thereon,
+
+if —
+
+(i) the member has obtained the cash payment or relevant contribution by means of any false or misleading statement or any document that is false or misleading in any particular;
+
+(ii) the member has contravened any provision of the relevant regulations; or
+
+(iii) the cash payment was made to the member, or the relevant contribution was credited to the account of the member, in error.
+
+(3) Where the amount of any cash payment or relevant contribution received by an eligible member exceeds that which he is entitled to receive under the relevant regulations, the Board may recover on behalf of the Government the excess amount (together with the whole or such part, as the Board may determine, of any interest paid on any excess amount of relevant contribution).
+
+(4) Subject to the relevant regulations, on the death of an eligible member, the Board may do either or both of the following:
+
+(a) make any cash payment which he would have been entitled to receive to his estate;
+
+(b) credit any relevant contribution which he would have been entitled to receive to such account of his in the Fund as the Minister may direct.
+
+(5) Notwithstanding section 24(3A), on the death of a member of the Fund, the Board may recover on behalf of the Government —
+
+(a) from the member’s estate, any cash payment made to him (prior to his death) or to his estate; and
+
+(b) from the moneys payable out of the Fund on his death or from any person to whom any such moneys have been paid , any relevant contribution credited to any account of his in the Fund, together with the whole or such part, as the Board may determine, of any interest paid thereon,
+
+[22/2010 wef 01/01/2011]
+
+if —
+
+(i) the cash payment was made, or the relevant contribution was credited, in reliance on any false or misleading statement or any document that is false or misleading in any particular;
+
+(ii) he had contravened any provision of the relevant regulations; or
+
+(iii) the cash payment was made to him (prior to his death) or to his estate, or the relevant contribution was credited to his account, in error.
+
+(6) Notwithstanding section 24(3A), on the death of an eligible member —
+
+(a) where the amount of any cash payment received by him (prior to his death) or by his estate exceeds that which he is or would have been entitled to receive under the relevant regulations, the Board may recover on behalf of the Government, from his estate, the excess amount of cash payment; and
+
+(b) where the amount of any relevant contribution credited to any account of his in the Fund exceeds that which he is or would have been entitled to receive under the relevant regulations, the Board may recover on behalf of the Government, from the moneys payable out of the Fund on his death or from any person to whom any such moneys have been paid , the excess amount of relevant contribution, together with the whole or such part, as the Board may determine, of any interest paid thereon.
+
+[22/2010 wef 01/01/2011]
+
+(7) The Board may recover on behalf of the Government, from any cash payment or relevant contribution which an eligible member is entitled to receive, by set-off or otherwise, any amount due to the Government from the member.
+
+(8) Subsections (2), (3), (5), (6) and (7) are without prejudice to any other right of action or remedy which the Board or the Government may have under any written law or rule of law.
+
+(9) Any money recovered by the Board under subsection (2), (3), (5), (6) or (7) shall be refunded to the Government.
+
+(10) Notwithstanding anything in this Part or the relevant regulations, no person shall have an absolute right to any cash payment or relevant contribution under the Scheme.
+
+### Recovery of cash payment, etc., upon conviction
+
+57D\.—(1) Where —
+
+(a) a member of the Fund has received any cash payment, or any relevant contribution or interest thereon; and
+
+(b) the member is convicted of an offence under section 58(a) or (d) or the relevant regulations in connection with the cash payment, relevant contribution or interest,
+
+the court before which the conviction is had may, in addition to the fine prescribed under section 61 or penalty prescribed under the relevant regulations, order that the member pay to the Board the amount certified by an officer appointed by the Board in that behalf to be recoverable from the member, as at the date of the conviction, in respect of the cash payment, relevant contribution or interest.
+
+(2) Section 61B(2) and (3) shall apply to an amount ordered to be paid under subsection (1) as it applies to an amount ordered to be paid under section 61B(1).
+
+### Certificate of Board on amount of cash payment, etc.
+
+57E\. In any proceedings before any court, tribunal, authority or person (including any proceedings for the recovery of any cash payment, or any relevant contribution or interest thereon), a certificate purporting to be issued by the Board certifying —
+
+(a) the amount of any cash payment, or any relevant contribution or interest thereon, received by any member of the Fund or other person as at any date; or
+
+(b) the amount recoverable from any member of the Fund or other person as at any date in respect of any cash payment, or any relevant contribution or interest thereon, received by the member or person,
+
+shall be prima facie evidence that the amount so stated was received by the member or person or is recoverable from the member or person, as the case may be, as at that date.
+
+### Regulations for purposes of this Part
+
+57F\.—(1) The Minister may make such regulations as are necessary or expedient for the purposes of carrying out the provisions of this Part.
+
+(2) Without prejudice to the generality of subsection (1), such regulations may provide for —
+
+(a) the criteria to be satisfied by an eligible member and the waiver of any such criteria by the Board;
+
+(b) the terms and conditions of the Scheme;
+
+(c) the amount of cash payment or relevant contribution which an eligible member is entitled to receive, including different amounts for different classes of eligible members;
+
+(d) the manner in which any cash payment is to be made to an eligible member, or any relevant contribution is to be credited to any account of an eligible member in the Fund, including the making of provisional payments or credits;
+
+(e) the manner in which, and the processes (apart from those referred to in sections 57C and 57D) by which, any cash payment or relevant contribution (including any interest on the relevant contribution) received by a member, or any part thereof, is to be recovered, including recovery from —
+
+(i) any money standing to the credit of the member in the Fund; or
+
+(ii) any cash payment or relevant contribution which the member may be entitled to receive subsequently;
+
+(f) any restriction on the purposes for which any cash payment or relevant contribution may be utilised;
+
+(g) the consequences of contravening any provision of those regulations; and
+
+(h) any act or omission referred to in, or in contravention of, those regulations to be an offence.
 
 ## PART VII
 
@@ -5528,9 +5678,7 @@ Self-employed Persons
 
 34\. Sale of Food Act (Cap. 283).
 
-35. Secondhand Goods Dealers Act 2007
-
-[4/2007 wef 01/12/2007]
+35\. Secondhand Goods Dealers Act 2007
 
 36\. Securities and Futures Act 2001
 
@@ -6108,6 +6256,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 16/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 December 2007|
+|153.|**Act 57 of 2007—Central Provident Fund (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 44/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Dates of commencement|28 December 2007 (sections 11 and 17)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
