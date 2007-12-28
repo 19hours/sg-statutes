@@ -56,9 +56,9 @@
 
 - [20 Register of Guild of Graduates](#Register-of-Guild-of-Graduates)
 
-[**FIRST SCHEDULE Dissolution of Aspf Scheme**](#FIRST-SCHEDULE-Dissolution-of-Aspf-Scheme)
+[**FIRST SCHEDULE Dissolution of ASPF Scheme**](#FIRST-SCHEDULE-Dissolution-of-ASPF-Scheme)
 
-[**SECOND SCHEDULE Provisions Applicable to Register of Guild of Graduates**](#SECOND-SCHEDULE-Provisions-Applicable-to-Register-of-Guild-of-Graduates)
+[**SECOND SCHEDULE Provisions applicable to Register of Guild of Graduates**](#SECOND-SCHEDULE-Provisions-applicable-to-Register-of-Guild-of-Graduates)
 
 [**Legislative History**](#Legislative-History)
 
@@ -66,7 +66,7 @@
 
 (CHAPTER 204A)
 
-(Original Enactment: ACT 45 OF 2005)
+(Original Enactment: Act 45 of 2005)
 
 REVISED EDITION 2006
 
@@ -300,7 +300,7 @@ FIRST SCHEDULE
 
 Section 18
 
-Dissolution of Aspf Scheme
+Dissolution of ASPF Scheme
 
 Interpretation
 
@@ -330,7 +330,7 @@ Interpretation
 
 after the deduction of the liabilities of the ASPF Scheme and the expenses of winding up the ASPF Scheme;
 
-“Board of Management” means the board of management of the ASPF Scheme constituted under Clause 8 (a) of Statute 18;
+“Board of Management” means the board of management of the ASPF Scheme constituted under Clause 8(a) of Statute 18;
 
 “CPF” means the Central Provident Fund established under the Central Provident Fund Act (Cap. 36);
 
@@ -492,9 +492,17 @@ Part V Assurances and ASPFAIS Investments deemed investments under CPFIS
 
 22\. On the dissolution date, every Part V Assurance and ASPFAIS Investment of a living relevant person who is not uncontactable held by him immediately before the dissolution date (other than any Part V Assurance or ASPFAIS Investment which that person has opted to be transferred or assigned to him under paragraph 5(b)) shall be deemed to be an investment made by him under the CPFIS, and all premiums paid or deemed to have been paid with ASPF moneys in respect of ASPFAIS Investments and Part V Assurances shall, on and after the dissolution date, be deemed to have been paid with CPF moneys from his CPF account.
 
-23\. Every living relevant person who, immediately before the date of the dissolution notice and continuously up to the date immediately before the dissolution date, used ASPF moneys for the purpose of paying the premium on his Part V Assurance shall, on and after the dissolution date, be entitled to use moneys credited to his ordinary account with the CPF Board for the same purpose.
+23\. Every living relevant person who, at any time before the dissolution date, used ASPF moneys for paying the premium on his Part V Assurance shall, on and after the dissolution date, be entitled to use moneys credited to his ordinary account with the CPF Board for paying the premium on that Part V Assurance and any rider thereto.
 
-24\. For the avoidance of doubt, a living relevant person who, immediately before the dissolution date, did not use his ASPF moneys for the purpose of paying the premium on his Part V Assurance shall not be entitled to use moneys credited to his ordinary account with the CPF Board for such purpose.
+23.
+
+[S 633/2007 wef 28/12/2007]
+
+24\. For the avoidance of doubt, a living relevant person who did not, at any time before the dissolution date, use his ASPF moneys for paying the premium on his Part V Assurance shall not be entitled to use moneys credited to his ordinary account with the CPF Board for paying the premium on that Part V Assurance or any rider thereto.
+
+24.
+
+[S 633/2007 wef 28/12/2007]
 
 Preservation of rights in relation to immovable property
 
@@ -506,7 +514,7 @@ Preservation of rights in relation to immovable property
 
 27\. Section 56(1) of the Land Titles Act shall not apply to any instrument executed by the CPF Board purporting to dispose of, or to create an interest in, mortgages or charges of registered land transferred to or vested in the CPF Board under paragraph 25(1) and shall not prevent the registration of any such instrument executed by the CPF Board, notwithstanding that the CPF Board may not be named as the proprietor of the registered land in the land-register at the time of the registration of such instrument.
 
-28\. Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the CPF Board to register the transfer to or vesting in favour of the CPF Board of all mortgages or charges of unregistered land under paragraph 25(1), and the production of a Government Printer’s copy of this Act and such evidence of publication of the dissolution date in the Gazette shall be admissible in any court as evidence of the CPF Board’s interest in such land.
+28\. Notwithstanding section 4 of the Registration of Deeds Act (Cap. 269), it shall not be necessary for the CPF Board to register the transfer to or vesting in favour of the CPF Board of all mortgages or charges of unregistered land under paragraph 25(1), and the production of a Government Printer’s copy of this Act and such evidence of publication of the dissolution date in theGazetteshall be admissible in any court as evidence of the CPF Board’s interest in such land.
 
 29\. For the purposes of the Land Titles Act and the Registration of Deeds Act, all caveats or memoranda of charge claiming an interest in land as mortgagee or chargee in respect of any mortgaged property under the ASPF Scheme lodged by the university company and subsisting as at the dissolution date shall be construed and have effect on and after that date as if for any reference therein to the university company were substituted with a reference to the CPF Board.
 
@@ -600,13 +608,13 @@ ASPF moneys, ASPFAIS Investments, Part V Assurances and mortgaged property of un
 
 Evidence of transfer of property, assets, rights and interests
 
-49\. The production of a Government Printer’s copy of this Act and of such evidence of publication of the dissolution date in the Gazette shall, for all purposes, be conclusive evidence of the transfer of the balance of the assets of the ASPF to the CPF Board and the vesting of the balance of the assets of the ASPF in the CPF Board in accordance with the provisions of this Schedule.
+49\. The production of a Government Printer’s copy of this Act and of such evidence of publication of the dissolution date in theGazetteshall, for all purposes, be conclusive evidence of the transfer of the balance of the assets of the ASPF to the CPF Board and the vesting of the balance of the assets of the ASPF in the CPF Board in accordance with the provisions of this Schedule.
 
 SECOND SCHEDULE
 
 Section 20
 
-Provisions Applicable to Register of Guild of Graduates
+Provisions applicable to Register of Guild of Graduates
 
 1. The university company shall maintain a Register of Graduates which shall consist of —
 
@@ -649,3 +657,5 @@ The National University of Singapore (Corporatisation) Act 2005 repealed the Nat
 
 |2.|**2006 Revised Edition—National University of Singapore (Corporatisation) Act**|
 ||Date of operation|31 December 2006|
+|3.|**G. N. No. S 633/2007—National University of Singapore (Corporatisation) Act (Amendment of Fifth Schedule) Order 2007**|
+||Date of commencement|28 December 2007|
