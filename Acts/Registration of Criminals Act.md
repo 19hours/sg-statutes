@@ -614,7 +614,7 @@ given to the authorised officer in charge of the case after the person concerned
 
 “intimate sample” means any body sample that is obtained by means of any invasive procedure;
 
-“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76);
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
 “volunteer” means a person who voluntarily gives his consent under section 13D for the taking of a body sample from him.
 
@@ -1098,7 +1098,7 @@ Misuse of Drugs Act
 
 Part II, sections 31(2), 33(3) and 33A.
 
-Cap. 185
+Cap. 185.
 
 Moneylenders Act
 
@@ -1138,7 +1138,7 @@ Official Secrets Act
 
 The whole.
 
-Cap. 213
+Cap. 213.
 
 Preservation of the Peace Act
 
@@ -1146,7 +1146,7 @@ Preservation of the Peace Act
 
 Section 3(2).
 
-Cap. 240
+Cap. 240.
 
 Prevention of Corruption Act
 
@@ -1154,7 +1154,7 @@ Prevention of Corruption Act
 
 The whole.
 
-Cap. 241
+Cap. 241.
 
 Prevention of Crimes Act
 
@@ -1424,13 +1424,11 @@ Section 5.
 
 Cap. 72.
 
-Employment of Foreign Manpower Act
+Cap. 91A Employment of Foreign Manpower Act
 
 ...
 
 Sections 5(6) and 22(1)(c), (d), (e) and (f).
-
-Cap. 91A
 
 Section 20 in respect of any officer of a body corporate, or other person in such capacity, guilty of any of the above offences.
 
@@ -1622,3 +1620,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 16/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 December 2007|
+|30.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 28 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
