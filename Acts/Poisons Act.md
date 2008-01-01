@@ -98,7 +98,7 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 “Poisons List” means the Poisons List in the Schedule;
 
-“registered dentist” has the same meaning as in the Dentists Act 1999 (Act 24 of 1999);
+“registered dentist” has the same meaning as in the Dental Registration Act (Cap. 76);
 
 “sale by way of wholesale dealing” means sale to a person who buys for the purpose of selling again;
 
@@ -4243,6 +4243,12 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|14 April 2004|
 |62.|**G. N. No. S 300/2005—Poisons Act (Amendment of Schedule) Notification 2005**|
 ||Date of commencement|1 June 2005|
+|63.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 28 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Poisons Act
