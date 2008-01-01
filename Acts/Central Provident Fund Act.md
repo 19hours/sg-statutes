@@ -42,7 +42,7 @@
 
 - [12 Contributions to be paid into Fund](#Contributions-to-be-paid-into-Fund)
 
-- [13 Crediting of contributions into subsidiary accounts](#Crediting-of-contributions-into-subsidiary-accounts)
+- [13 Crediting of contributions and interest into subsidiary accounts, etc.](#Crediting-of-contributions-and-interest-into-subsidiary-accounts-etc)
 
 - [13A Power to impose conditions relating to contributions by self-employed persons](#Power-to-impose-conditions-relating-to-contributions-by-self-employed-persons)
 
@@ -66,7 +66,7 @@
 
 - [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
 
-- [18 Provisions relating to maintenance of minimum sum and amounts specified under section 15 (2A) (a), (7B) (a) and (8A) (a), and transfer or payment of moneys into retirement account](#Provisions-relating-to-maintenance-of-minimum-sum-and-amounts-specified-under-section-15-2A-a-7B-a-and-8A-a-and-transfer-or-payment-of-moneys-into-retirement-account)
+- [18 Transfer or payment of moneys to parent’s, grandparent’s, spouse’s or sibling’s retirement account, or to spouse’s or sibling’s special account, and voluntary maintenance of sum in retirement account](#Transfer-or-payment-of-moneys-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-or-to-spouse’s-or-sibling’s-special-account-and-voluntary-maintenance-of-sum-in-retirement-account)
 
 - [18A Transfer of member’s moneys in ordinary account or special account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-retirement-account)
 
@@ -75,6 +75,8 @@
 - [18C Transfer of member’s moneys in ordinary or special account to medisave account](#Transfer-of-member’s-moneys-in-ordinary-or-special-account-to-medisave-account)
 
 - [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-on-death)
+
+- [19A Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-spouse’s-or-sibling’s-special-account-on-death)
 
 - [20 Withdrawals](#Withdrawals)
 
@@ -302,6 +304,10 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“additional interest” means the interest referred to in section 6(4B);
+
+[57/2007 wef 01/01/2008]
+
 “Board” means the Central Provident Fund Board constituted under section 3;
 
 “contract” means any contract, whether written or oral, and whether express or implied;
@@ -356,7 +362,15 @@ PRELIMINARY
 
 “ordinary account” means an ordinary account maintained under section 13;
 
-“retirement account” means a retirement account maintained for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c);
+“retirement account” means a retirement account maintained —
+
+(a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) ; and
+
+[18/2009 wef 01/09/2009]
+
+(b) for the crediting of such contribution (including any amount which is deemed to be a contribution for the purposes of this Act) and interest as the Minister may direct;
+
+[57/2007 wef 01/01/2008]
 
 “special account” means a special account maintained under section 13;
 
@@ -554,7 +568,31 @@ CONTRIBUTIONS TO FUND
 
 (3) The land situate at 79 Robinson Road, Singapore, acquired by the Board and the building constructed thereon prior to 15th May 1980 shall be deemed to have been purchased and constructed by the Board in pursuance of the powers conferred upon the Board by subsection (2)(c).
 
-(4) Interest shall be payable on contributions to the Fund at such rate per annum, not being less than 2 1/2%, as the Board may from time to time declare except that the Board shall not declare a rate of interest exceeding 2 1/2% per annum except with the approval of the Minister for Finance.
+(4) The Board shall pay to a member of the Fund interest —
+
+(a) at such intervals, and on the amount standing to the credit of the member in the Fund at such time, as the Board may determine; and
+
+(b) at such rate per annum as the Board may from time to time declare by notification published in theGazette, being a rate of interest which —
+
+(i) is not less than 2.5% per annum; and
+
+(ii) may exceed 2.5% per annum if the Minister for Finance so approves.
+
+[57/2007 wef 01/01/2008]
+
+[22/2010 wef 01/01/2011]
+
+(4A) For the purposes of subsection (4), the Board may declare different rates of interest for different parts of the amount standing to the credit of a member in the Fund.
+
+[57/2007 wef 01/01/2008]
+
+(4B) The Board may, in its discretion, pay to a member of the Fund interest in addition to that referred to in subsection (4) —
+
+(a) at such intervals, and on the whole or such part of the amount standing to the credit of the member in the Fund at such time, as the Board may determine; and
+
+(b) at such rate per annum, and subject to such terms and conditions, as the Board may, with the approval of the Minister for Finance, determine.
+
+[57/2007 wef 01/01/2008]
 
 (5) If the Board is at any time unable to pay any sum which the Fund is required to pay under this Act, the sum required to be so paid shall be charged on and advanced to the Board from the Consolidated Fund and the Board shall as soon as practicable repay to the Government the sum so advanced.
 
@@ -660,11 +698,19 @@ CONTRIBUTIONS TO FUND
 
 (2) The Board shall cause to be credited to each member of the Fund —
 
-(a) the amount of every contribution paid to the Fund for him; and
+(a) the amount of every contribution paid to the Fund for him;
 
-(b) interest at the rate declared under section 6(4) at such intervals as the Board may prescribe and on the amount standing to his credit in the Fund at such time as the Board may determine.
+[57/2007 wef 01/01/2008]
 
-### Crediting of contributions into subsidiary accounts
+(b) the interest payable to him under section 6(4); and
+
+[57/2007 wef 01/01/2008]
+
+(c) any additional interest payable to him under section 6(4B).
+
+[57/2007 wef 01/01/2008]
+
+### Crediting of contributions and interest into subsidiary accounts, etc.
 
 13\.—(1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
@@ -684,7 +730,7 @@ CONTRIBUTIONS TO FUND
 
 [40/2007 wef 01/10/2007]
 
-(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18A, 18C, 27B or 45 or in accordance with any regulations made under section 77(1)(n) .
+(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18, 18A, 18C, 27B or 45 or in accordance with any regulations made under section 77(1)(n) or (oa).
 
 [15/2006 wef 01/07/2006]
 
@@ -706,13 +752,31 @@ CONTRIBUTIONS TO FUND
 
 [32/84]
 
-(4) The Board shall credit to each of the accounts specified in subsection (1) every contribution paid into the Fund for a member in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
+(4) The Board shall credit to the accounts of a member specified in subsection (1), in such manner as the Minister may direct, every contribution paid into the Fund for the member under —
 
-[32/84]
+(a) section 7;
 
-(5) Where any contributions are paid into the Fund by any person pursuant to any regulations made under section 77(1)(e), the Board shall credit every such contribution into a medisave account, ordinary account or a special account, for the purposes specified in subsection (1), in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
+(b) any regulations made under section 77(1)(e); or
 
-[27/92]
+(c) such other provision as the Minister may prescribe.
+
+[57/2007 wef 01/01/2008]
+
+(4A) The Minister may give different directions in respect of different classes of members under subsection (4).
+
+[57/2007 wef 01/01/2008]
+
+(5) The Board shall credit to each account of a member the interest referred to in section 6(4) on the amount standing to the credit of the member in that account.
+
+[57/2007 wef 01/01/2008]
+
+(5A) Where any additional interest is payable to a member under section 6(4B) —
+
+(a) the Board shall credit the additional interest into one or more of the member’s ordinary account, medisave account, special account and retirement account (if any) in such manner as the Board may determine; and
+
+(b) the Board may make different determinations under paragraph (a) in respect of different classes of members.
+
+[57/2007 wef 01/01/2008]
 
 (6) The Board shall transfer to one or more designated accounts of a member, in accordance with any regulations made under section 77(1)(ka), any amount standing to his credit in his medisave account which is in excess of such amount as the Minister may from time to time direct.
 
@@ -720,7 +784,7 @@ CONTRIBUTIONS TO FUND
 
 [16/86]
 
-(7) Where there is no balance in the medisave account of a member, the Board may, upon application by the member and with the approval of the Minister, transfer to the medisave account of the member any amount standing to his credit in any designated account which had been transferred from the medisave account, including any interest which would have accrued thereon if the transfer had not been made.
+(7) Where there is no balance in the medisave account of a member, the Board may, upon application by the member and with the approval of the Minister, transfer to the medisave account of the member any amount standing to his credit in any designated account which had been transferred from the medisave account, including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made.
 
 [15/2006 wef 01/07/2006]
 
@@ -756,7 +820,7 @@ CONTRIBUTIONS TO FUND
 
 (a) the following amounts shall be included:
 
-(i) the amount contributed by a person in that year which is obligatory under this Act; and
+(i) the amount contributed by a person in that year which is obligatory under this Act;
 
 [40/2007 wef 01/01/2008]
 
@@ -764,11 +828,19 @@ CONTRIBUTIONS TO FUND
 
 (ii) subject to paragraph (b)(ii), any voluntary contribution paid by the employer of that person under section 7(4)(c) in that year; and
 
+(iii) subject to subsections (4) and (5), any amount paid in that year by that person’s spouse or sibling into that person’s special account under section 18(3)(b); and
+
+[40/2007 wef 01/01/2008]
+
 (b) the following amounts shall be excluded:
 
 (i) any contribution made by a person in that year under sections 73 and 79;
 
 [40/2007 wef 01/10/2007]
+
+(ia) any amount paid in that year by that person into the special account of his spouse or sibling under section 18(3)(b);
+
+[40/2007 wef 01/01/2008]
 
 (ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500; and
 
@@ -777,6 +849,22 @@ CONTRIBUTIONS TO FUND
 (iii) any contribution made in that year by that person or any other person under section 27B, 27C, 27D, 27E or 27F or under any regulations referred to in section 27G or 27H.
 
 [31/2003 wef 01/01/2004]
+
+(4) Where, in any year, the total of the amounts under subsection (3)(a)(i) and (ii) to be included for the purpose of computing the sum referred to in subsection (2) exceeds that sum —
+
+(a) the amount referred to in subsection (3)(a)(iii) shall not be included for that purpose; and
+
+(b) the Board may refund the whole or any part of the amount referred to in subsection (3)(a)(iii) to the person or persons who contributed to that amount, in the proportion in which each such person contributed to that amount.
+
+[40/2007 wef 01/01/2008]
+
+(5) Where, in any year, the total of the amounts under subsection (3)(a)(i) and (ii) to be included for the purpose of computing the sum referred to in subsection (2) does not exceed that sum, but the total of the amounts under subsection (3)(a)(i), (ii) and (iii) exceeds that sum —
+
+(a) there shall be included for that purpose only such part of the amount referred to in subsection (3)(a)(iii) which is equal in quantum to the difference between that sum and the total of the amounts referred to in subsection (3)(a)(i) and (ii); and
+
+(b) the Board may refund the whole or any part of the remainder of the amount referred to in subsection (3)(a)(iii) to the person or persons who contributed to that amount, in the proportion in which each such person contributed to that amount.
+
+[40/2007 wef 01/01/2008]
 
 ### Payment of cash grant by Government into Fund
 
@@ -902,7 +990,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (a) any sum withdrawn, or to be withdrawn, under section 16A;
 
-(b) any sum credited, or to be credited, to the account of another person under section 19(2) ; and
+(b) any sum credited, or to be credited, to the account of another person under section 19(2) or 19A (2); and
 
 [40/2007 wef 01/01/2008]
 
@@ -1246,7 +1334,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [12/99]
 
-### Provisions relating to maintenance of minimum sum and amounts specified under section 15 (2A) (a), (7B) (a) and (8A) (a), and transfer or payment of moneys into retirement account
+### Transfer or payment of moneys to parent’s, grandparent’s, spouse’s or sibling’s retirement account, or to spouse’s or sibling’s special account, and voluntary maintenance of sum in retirement account
 
 18\.—(1) The Board may, for any of the purposes mentioned in section 15(6C), and subject to any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose, permit —
 
@@ -1273,6 +1361,44 @@ if the member and the person or persons, as the case may be, give an undertaking
 [25/2008 wef 01/11/2008]
 
 [15/2006 wef 01/07/2006]
+
+(3) The Board may, subject to any regulations made under section 77(1)(oa) and such terms and conditions as it may impose, permit —
+
+(a) a member whose spouse or sibling has not attained the age of 55 years to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of the spouse or sibling; or
+
+[18/2009 wef 20/08/2009]
+
+(b) any person whose spouse or sibling has not attained the age of 55 years to pay money into the special account of the spouse or sibling.
+
+[40/2007 wef 01/01/2008]
+
+(4) Subject to subsection (6) —
+
+(a) any moneys transferred by a member to his spouse’s or sibling’s special account under subsection (3)(a); and
+
+(b) any interest that would have accrued thereto,
+
+shall be transferred by the Board to the spouse’s or sibling’s retirement account when the spouse or sibling attains the age of 55 years.
+
+[40/2007 wef 01/01/2008]
+
+(5) Subject to subsection (6) and section 13B(4) and (5) —
+
+(a) any moneys paid by any person into his spouse’s or sibling’s special account under subsection (3)(b); and
+
+(b) any interest that would have accrued thereto,
+
+shall be transferred by the Board to the spouse’s or sibling’s retirement account when the spouse or sibling attains the age of 55 years.
+
+[40/2007 wef 01/01/2008]
+
+(6) The total amount to be transferred by the Board under subsections (4) and (5) shall not exceed the minimum sum applicable to the spouse or sibling.
+
+[40/2007 wef 01/01/2008]
+
+(7) All moneys transferred to or paid into a special account under subsection (3) shall be applied in accordance with any regulations made under section 77(1)(oa) and such terms and conditions as the Board may impose.
+
+[40/2007 wef 01/01/2008]
 
 ### Transfer of member’s moneys in ordinary account or special account to retirement account
 
@@ -1342,9 +1468,35 @@ shall be deemed to be contributions for the purposes of this Act, and shall not 
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
 
+### Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death
+
+19A\.—(1) Any moneys —
+
+(a) transferred by a member to his spouse’s or sibling’s special account under section 18(3)(a); or
+
+(b) paid by any person into his spouse’s or sibling’s special account under section 18(3)(b),
+
+shall be deemed to be contributions for the purposes of this Act, and shall not form part of the moneys payable out of the Fund on the death of the spouse or sibling, as the case may be.
+
+(2) Subject to subsections (3) and (4), on the death of the spouse or sibling, the moneys transferred or paid under section 18(3), or the balance thereof, shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
+
+(3) Where any moneys transferred or paid by a member to the special account of his spouse or sibling under section 18(3) are transferred or paid to any person under section 27B —
+
+(a) subsection (2) shall not apply to those moneys; and
+
+(b) the person to whom those moneys have been transferred or paid under section 27B shall be entitled to retain those moneys on the death of the spouse or sibling, as the case may be.
+
+(4) Where the Board has received notice, in accordance with any regulations made under section 77(1), that any moneys transferred or paid by a member to the special account of his spouse or sibling under section 18(3) are to be transferred or paid to any person under section 27B, and the Board has not, at the time of receipt of the notice, credited those moneys to the account of the member under subsection (2) —
+
+(a) subsection (2) shall not apply to those moneys; and
+
+(b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
+
+[40/2007 wef 01/01/2008]
+
 ### Withdrawals
 
-20\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member of the Fund by a person entitled thereto under section 15, the Board may authorise the payment to the applicant of such sum as the member is entitled to withdraw from the Fund and any interest calculated in accordance with section 12(2) up to the date of the authorisation or, if the applicant is a nominee appointed in accordance with section 25(1), such portion of the sum as he is nominated to receive.
+20\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member of the Fund by a person entitled thereto under section 15, the Board may authorise the payment to the applicant of such sum as the member is entitled to withdraw from the Fund and any interest calculated in accordance with section 6(4) and (4B) up to the date of the authorisation or, if the applicant is a nominee appointed in accordance with section 25(1), such portion of the sum as he is nominated to receive.
 
 [57/2007 wef 01/01/2008]
 
@@ -1374,11 +1526,11 @@ shall be deemed to be contributions for the purposes of this Act, and shall not 
 
 21\.—(1) Where in accordance with any regulations made under section 77, a member of the Fund has on or after 1st June 1981 withdrawn any money standing to his credit in the Fund for all or any of the following purposes:
 
-(a) to make payment, either full or partial, towards the purchase of an immovable property;
+(a) to make payment, either full or partial, towards the purchase or acquisition of an immovable property;
 
 [57/2007 wef 01/01/2008]
 
-(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an immovable property;
+(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase or acquisition of an immovable property;
 
 [57/2007 wef 01/01/2008]
 
@@ -1394,21 +1546,21 @@ including costs, fees or other incidental expenses arising from such works;
 
 (d) to pay any costs, fees or other expenses incurred —
 
-(i) for the purchase of an immovable property;
+(i) for the purchase or acquisition of an immovable property;
 
 [57/2007 wef 01/01/2008]
 
-(ii) for obtaining a loan to finance or re-finance such purchase ; and
+(ii) for obtaining a loan to finance or re-finance such purchase or acquisition; and
 
 [57/2007 wef 01/01/2008]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-there shall be a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+there shall be a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
 
 [57/2007 wef 01/01/2008]
 
-(1A) Where the immovable property is purchased or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
+(1A) Where the immovable property is purchased, acquired or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
 
 [57/2007 wef 01/01/2008]
 
@@ -1492,31 +1644,31 @@ in which event the member or any other person having an interest in the immovabl
 
 21A\.—(1) Where in accordance with any regulations made under section 77 a member of the Fund has before 1st June 1981 withdrawn any money standing to his credit in the Fund —
 
-(a) to make payment, either full or partial, towards the purchase of an immovable property;
+(a) to make payment, either full or partial, towards the purchase or acquisition of an immovable property;
 
 [57/2007 wef 01/01/2008]
 
-(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an immovable property; or
+(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase or acquisition of an immovable property; or
 
 [57/2007 wef 01/01/2008]
 
 (c) to pay any costs, fees or other expenses incurred —
 
-(i) for the purchase of an immovable property;
+(i) for the purchase or acquisition of an immovable property;
 
 [57/2007 wef 01/01/2008]
 
-(ii) for obtaining a loan to finance or re-finance such purchase ; and
+(ii) for obtaining a loan to finance or re-finance such purchase or acquisition; and
 
 [57/2007 wef 01/01/2008]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
 
 [57/2007 wef 01/01/2008]
 
-(1A) Where the immovable property is purchased or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
+(1A) Where the immovable property is purchased, acquired or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
 
 [57/2007 wef 01/01/2008]
 
@@ -1582,11 +1734,11 @@ in which event the member or any other person having an interest in the immovabl
 
 21B\.—(1) Where in accordance with any regulations made under section 77, a member of the Fund had or has before, on or after 1st January 2003 withdrawn any money standing to his credit in the Fund —
 
-(a) to make full or partial payment towards the purchase of an HDB flat;
+(a) to make full or partial payment towards the purchase or acquisition of an HDB flat;
 
 [57/2007 wef 01/01/2008]
 
-(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an HDB flat;
+(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase or acquisition of an HDB flat;
 
 [57/2007 wef 01/01/2008]
 
@@ -1594,17 +1746,17 @@ in which event the member or any other person having an interest in the immovabl
 
 (d) to pay any costs, fees or other expenses incurred —
 
-(i) for the purchase of an HDB flat;
+(i) for the purchase or acquisition of an HDB flat;
 
 [57/2007 wef 01/01/2008]
 
-(ii) for obtaining a loan to finance or re-finance such purchase ; and
+(ii) for obtaining a loan to finance or re-finance such purchase or acquisition; and
 
 [57/2007 wef 01/01/2008]
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including tthe whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
 
 [57/2007 wef 01/01/2008]
 
@@ -1614,7 +1766,7 @@ there shall, immediately upon any such withdrawal, be a charge constituted on th
 
 (a) subject to all statutory rights and charges of any public authority over the HDB flat;
 
-(b) subject to any resale levy imposed by the Housing and Development Board in respect of the HDB flat except where the person on whom the resale levy is imposed has obtained a loan, whether redeemed or not, from any person other than the Housing and Development Board to finance the purchase of the HDB flat;
+(b) subject to any resale levy imposed by the Housing and Development Board in respect of the HDB flat except where the person on whom the resale levy is imposed has obtained a loan, whether redeemed or not, from any person other than the Housing and Development Board to finance the purchase or acquisition of the HDB flat;
 
 [57/2007 wef 01/01/2008]
 
@@ -1700,7 +1852,7 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 (b) if required by the Board, furnish a guarantee by any person acceptable to the Board,
 
-for the repayment to the Board to the account of that member in the Fund from whose account such withdrawals were made, all such withdrawals plus interest in such manner and within such time as may be prescribed.
+for the repayment to the Board to the account of that member in the Fund from whose account such withdrawals were made, all sums withdrawn, together with the whole or such part, as the Board may determine, of the interest that would have been payable thereon, in such manner and within such time as may be prescribed.
 
 [57/2007 wef 01/01/2008]
 
@@ -1826,7 +1978,13 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (4) The receipt of a person or persons nominated under subsection (1) or of the Public Trustee shall be a discharge to the Board for such portions of the moneys payable out of the Fund on the death of a member as are payable to the person or persons or the Public Trustee under subsection (2) or (3).
 
-(5) Any nomination made by a member of the Fund under subsection (1) shall be revoked by his marriage, whether the marriage was contracted before or after 15th May 1980.
+(5) Any nomination made by a member of the Fund under subsection (1) shall be revoked —
+
+(a) by his marriage, whether the marriage was contracted before, on or after 15th May 1980; or
+
+(b) in such other circumstances, and in such manner, as the Board may prescribe.
+
+[57/2007 wef 01/01/2008]
 
 ### Power of Board to distribute and dispose of certain shares on death of member
 
@@ -2190,11 +2348,11 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (iii) notwithstanding sections 21(10) and 21A(9), upon the transfer of the member’s estate or interest in the immovable property to his spouse and upon payment in accordance with paragraph (i), if applicable —
 
-(A) any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall cease to secure the repayment of the money withdrawn from the Fund by the member (including the interest that would have accrued thereto if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account; and
+(A) any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property shall cease to secure the repayment of the money withdrawn from the Fund by the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account; and
 
 [57/2007 wef 01/01/2008]
 
-(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the repayment of the money withdrawn from the Fund by the member (including the interest that would have accrued thereto if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account;
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the repayment of the money withdrawn from the Fund by the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made) and the payment of the minimum sum into the member’s retirement account;
 
 [57/2007 wef 01/01/2008]
 
@@ -2212,7 +2370,7 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (vi) the charge under paragraph (iv) —
 
-(A) shall be in addition to any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property to secure the repayment of any money withdrawn from the Fund (for all or any of the purposes referred to in section 21(1) or 21A(1)) by any person other than the member (including the interest that would have accrued thereto if the withdrawal had not been made) and the payment of the minimum sum into that person’s retirement account;
+(A) shall be in addition to any charge under section 21(1) or 21A(1) on any estate or interest in the immovable property to secure the repayment of any money withdrawn from the Fund (for all or any of the purposes referred to in section 21(1) or 21A(1)) by any person other than the member (including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made) and the payment of the minimum sum into that person’s retirement account;
 
 [57/2007 wef 01/01/2008]
 
@@ -2270,7 +2428,7 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (iii) notwithstanding section 21B(11), upon the transfer of the member’s interest in the HDB flat to his spouse and upon payment in accordance with paragraph (i), if applicable, any charge constituted on the HDB flat under section 21B(1) shall cease to secure —
 
-(A) the repayment of the money withdrawn from the Fund by the member, including the interest that would have accrued thereto if the withdrawal had not been made; and
+(A) the repayment of the money withdrawn from the Fund by the member, including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made; and
 
 [57/2007 wef 01/01/2008]
 
@@ -2720,7 +2878,7 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89]
 
-(2) All premiums paid by any person whose cover under the Scheme has been cancelled under subsection (1), together with the interest that would have been payable if the amount of such premiums had been standing to the credit of that person’s account in the Fund, shall be refunded to his account in the Fund.
+(2) All premiums paid by any person whose cover under the Scheme has been cancelled under subsection (1), together with the whole or such part, as the Board may determine, of the interest that would have been payable if the amount of such premiums had been standing to the credit of that person’s account in the Fund, shall be refunded to his account in the Fund.
 
 [57/2007 wef 01/01/2008]
 
@@ -3420,7 +3578,7 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 ### Refund of contributions to Government
 
-72\. The Board may, when a public officer is confirmed in a pensionable office in the service of the Government, refund to the Government, in respect of the period before his confirmation, such contributions paid by the Government as have not been recovered from the public officer’s wages and are standing to the credit of the public officer in the Fund, together with the interest thereon.
+72\. The Board may, when a public officer is confirmed in a pensionable office in the service of the Government, refund to the Government, in respect of the period before his confirmation, such contributions paid by the Government as have not been recovered from the public officer’s wages and are standing to the credit of the public officer in the Fund, together with the whole or such part, as the Board may determine, of the interest paid on those contributions.
 
 [57/2007 wef 01/01/2008]
 
@@ -3448,7 +3606,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 ### Refund of excess contributions on additional wages
 
-75\.—(1) Subject to this section, where the Board is satisfied that the amount of contributions paid for the year on additional wages exceeds the amount of contributions payable on such additional wages after recomputation in accordance with the First Schedule, the Board may refund the excess contributions, together with any interest payable in respect of the excess contributions under section 6(4), in such manner as the Minister may by regulations prescribe.
+75\.—(1) Subject to this section, where the Board is satisfied that the amount of contributions paid for the year on additional wages exceeds the amount of contributions payable on such additional wages after recomputation in accordance with the First Schedule, the Board may refund the excess contributions, together with the whole or such part, as the Board may determine, of any interest paid on the excess contributions, in such manner as the Minister may by regulations prescribe.
 
 [57/2007 wef 01/01/2008]
 
@@ -3464,11 +3622,11 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 ### Board may engage in activities not directly related to Fund and may call for information
 
-76\.—(1) The Board may, if the Minister is satisfied that it is in the public interest to do so, engage in activities not directly related to the administration of the Fund including, in particular, the compilation of information of a statistical nature or otherwise relating to employers and employees.
+76\.—(1) The Board may, if the Minister is satisfied that it is in the public interest to do so, engage in activities not directly related to the administration of the Fund including, in particular, the compilation of information of a statistical nature or otherwise relating to members, employers and employees.
 
 [57/2007 wef 01/01/2008]
 
-(2) For the purpose of subsection (1), the Board may require employers and employees to furnish such particulars as may be necessary.
+(2) For the purpose of subsection (1), the Board may require members, employers and employees to furnish such particulars as may be necessary.
 
 [57/2007 wef 01/01/2008]
 
@@ -3549,6 +3707,14 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 [25/2008 wef 01/11/2008]
 
 [40/2007 wef 01/10/2007]
+
+(oa) for the purposes of section 18(3) and (7) and, in particular, to prescribe —
+
+(i) the method of computing the amount of moneys which may be transferred to or paid into a special account under section 18(3); and
+
+(ii) the purposes for which any moneys transferred to or paid into a special account under section 18(3) which may be applied, the amount which may be applied for each such purpose, and the manner in which any such amount may be withdrawn;
+
+[40/2007 wef 01/01/2008]
 
 (p) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
 
@@ -5626,7 +5792,7 @@ Self-employed Persons
 
 11\. Employment Agencies Act (Cap. 92).
 
-12. Environmental Pollution Control Act (Cap. 94A).
+12. Environmental Protection and Management Act (Cap. 94A).
 
 [26/2007 wef 01/01/2008]
 
@@ -6261,6 +6427,22 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 44/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Dates of commencement|28 December 2007 (sections 11 and 17)|
+|154.|**Act 57 of 2007—Central Provident Fund (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 44/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Dates of commencement|1 January 2008 (sections 2 to 10, 12 to 15, 18, 19 and 20)|
+|155.|**Act 26 of 2007—Environmental Pollution Control (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 13/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Date of commencement|1 January 2008 (sections 2, 3, 4, 6, 7 and 8)|
+|156.|**Act 40 of 2007—Central Provident Fund (Amendment) Act 2007**|
+||Date of First Reading|16 July 2007|
+|||(Bill No. 28/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Dates of commencement|1st January 2008 (sections 5(1)(d) and (2), 6(a), (b), (d) and (f), 7(2), 8(c) and (d), 12 and 25 (b))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
