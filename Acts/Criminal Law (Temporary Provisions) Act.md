@@ -1302,6 +1302,13 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|11 June 2007|
 |||(section 97 — Consequential amendments to other written laws)|
+|50.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
+|||(item (3) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
