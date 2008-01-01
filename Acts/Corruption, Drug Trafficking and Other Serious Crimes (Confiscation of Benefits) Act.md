@@ -194,8 +194,6 @@ REVISED EDITION 2000
 
 An Act to provide for the confiscation of benefits derived from, and to combat, corruption, drug trafficking and other serious crimes and for purposes connected therewith.
 
-[44/2007 wef 01/11/2007]
-
 [25/99]
 
 [30th November 1993]
@@ -373,8 +371,6 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 (a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this Act; and
 
 (b) who has his appointment as a Suspicious Transaction Reporting Officer published in theGazette;
-
-[44/2007 wef 01/11/2007]
 
 “value of gift” is to be construed in accordance with section 12;
 
@@ -1646,9 +1642,11 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 
 ### Information and identity of informers not to be disclosed
 
-40A\.—(1) Except as provided in subsection (3)
+40A\.—(1) Except as provided in subsection (3) —
 
 (a) no information disclosed by an informer shall be admitted in evidence in any civil or criminal proceedings; and
+
+[44/2007 wef 01/11/2007]
 
 (b) no witness in any civil or criminal proceedings shall be obliged —
 
@@ -1656,7 +1654,11 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 
 (ii) to answer any question if the answer thereto would lead, or would tend to lead, to the discovery of the name or address of the informer.
 
+[44/2007 wef 01/11/2007]
+
 (2) If any book, document or paper which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+
+[44/2007 wef 01/11/2007]
 
 (3) If a court —
 
@@ -1666,9 +1668,9 @@ the disclosure shall not be treated as a breach of any restriction upon the disc
 
 the court may permit inquiry and require full disclosure concerning the informer.
 
-(4) In this section, “informer” means a person who makes a disclosure under section 39(1).
-
 [44/2007 wef 01/11/2007]
+
+(4) In this section, “informer” means a person who makes a disclosure under section 39(1).
 
 ### Communication of information to foreign authority
 
@@ -1705,6 +1707,8 @@ to a corresponding authority of a foreign country if —
 (3) In this section —
 
 “corresponding authority”, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 39(1);
+
+[44/2007 wef 01/11/2007]
 
 Division 4 —
 
@@ -1832,8 +1836,6 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 [44/2007 wef 01/11/2007]
 
-[44/2007 wef 01/11/2007]
-
 [41
 
 [25/99]
@@ -1898,11 +1900,9 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
-[44/2007 wef 01/11/2007]
-
-[44/2007 wef 01/11/2007]
-
 [41A
+
+[44/2007 wef 01/11/2007]
 
 [25/99]
 
@@ -1982,8 +1982,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) acquires, possesses or uses that property,
 
-[44/2007 wef 01/11/2007]
-
 shall be guilty of an offence.
 
 [25/99]
@@ -2000,10 +1998,6 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 (3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking, acquires that property for no or inadequate consideration, or has possession of or uses such property, shall be guilty of an offence.
 
-[44/2007 wef 01/11/2007]
-
-[4/2010 wef 17/02/2010]
-
 [25/99]
 
 (4) In subsections (1)(a) and (2)(a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
@@ -2014,11 +2008,7 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 (a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
 
-[44/2007 wef 01/11/2007]
-
 (b) if the person is not an individual, to a fine not exceeding $1 million.
-
-[44/2007 wef 01/11/2007]
 
 [44/2007 wef 01/11/2007]
 
@@ -2040,8 +2030,6 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 (c) acquires, possesses or uses that property,
 
-[44/2007 wef 01/11/2007]
-
 shall be guilty of an offence.
 
 [25/99]
@@ -2058,10 +2046,6 @@ for the purpose of assisting any person to avoid prosecution for a serious offen
 
 (3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, or has possession of or uses such property, shall be guilty of an offence.
 
-[44/2007 wef 01/11/2007]
-
-[4/2010 wef 17/02/2010]
-
 [25/99]
 
 (4) In subsections (1)(a) and (2)(a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
@@ -2076,11 +2060,7 @@ for the purpose of assisting any person to avoid prosecution for a serious offen
 
 (a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
 
-[44/2007 wef 01/11/2007]
-
 (b) if the person is not an individual, to a fine not exceeding $1 million.
-
-[44/2007 wef 01/11/2007]
 
 [44/2007 wef 01/11/2007]
 
@@ -2564,8 +2544,6 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 (1A) An immigration officer within the meaning of section 48B may arrest without warrant any person whom he reasonably believes has committed an offence under section 48C.
 
-[44/2007 wef 01/11/2007]
-
 (2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
 
 (3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act.
@@ -2626,6 +2604,8 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
+[44/2007 wef 01/11/2007]
+
 (5) In this section —
 
 “body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
@@ -2637,6 +2617,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
+
+[44/2007 wef 01/11/2007]
 
 (6) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -2726,8 +2708,6 @@ Note
 : The short description of offences in this Schedule is for ease of reference only.
 
 Part II — Offence included as drug trafficking offence with effect from 1st November 2007
-
-[S 597/2007 wef 01/11/2007]
 
 Offence
 
@@ -3749,7 +3729,7 @@ Scheduled species in transit unaccompanied by CITES permit, etc.
 
 Abetment of an offence under section 4 or 5
 
-Environmental Pollution Control Act (Cap\. 94A) 
+Environmental Protection and Management Act (Cap\. 94A) 
 
 229. Section 22
 
@@ -4189,8 +4169,6 @@ Part V — Offences included as serious offences
 
 with effect from 1st November 2007
 
-[S 597/2007 wef 01/11/2007]
-
 Offences
 
 Description*
@@ -4289,7 +4267,7 @@ Act of violence done in connection with an offence under section 3, 4 or 5
 
 Abetment of certain offences
 
-Multi-Level Marketing and Pyramid Selling (Prohibition) Act(Cap\. 190) 
+Multi-Level Marketing and Pyramid Selling (Prohibition) Act (Cap\. 190) 
 
 314. Section 3
 
@@ -4341,7 +4319,7 @@ Wilfully endangering safety of railway passenger
 
 Damage to railway or railway premises
 
-Securities and Futures Act(Cap\. 289) 
+Securities and Futures Act (Cap\. 289) 
 
 325. Section 140
 
@@ -4463,6 +4441,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|1 November 2007|
 |19.|**G. N. No. S 597/2007—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of First and Second Schedules) Order 2007**|
 ||Date of commencement|1 November 2007|
+|20.|**Act 26 of 2007—Environmental Pollution Control (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 13/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|1 January 2008 (except section 5)|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
