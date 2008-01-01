@@ -318,7 +318,7 @@ that is capable of causing death, disease or other biological malfunction in a h
 
 “public transportation” means transportation by bus, taxi, rail or any other conveyance, whether publicly or privately operated, which provides general or special service to the general public on a regular and continuing basis, and includes such other means of transportation as may be prescribed as a type of public transportation for the purposes of this Act;
 
-“registered medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dentists Act (Cap. 76);
+“registered medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
 “Second Schedule biological agent” means any biological agent specified in the Second Schedule;
 
@@ -1969,7 +1969,7 @@ Viruses
 
 3.Flaviviridae
 
-(a) Japanese encephalitis virus
+(a) Japanese encephalitis virus (except for the vaccine strain 14-14-2 virus)
 
 (b) Murray Valley encephalitis virus
 
@@ -2001,7 +2001,15 @@ Viruses
 
 6.Picornaviridae
 
-(a) Poliovirus
+(a) Poliovirus, except for the following vaccine strains:
+
+(i) sabin Type-1;
+
+(ii) sabin Type-2; and
+
+(iii) sabin Type-3
+
+[S 676/2007 wef 01/01/2008]
 
 7.Reoviridae
 
@@ -2022,8 +2030,6 @@ Viruses
 (b) Vesicular stomatitis virus
 
 10.Togaviridae
-
-(a) Chikungunya virus
 
 (b) Everglades virus
 
@@ -2059,9 +2065,21 @@ Part II
 
 Bacteria
 
-1\.Bacillus anthracis
+1.Bacillus anthracis, except for the attenuated strains devoid of —
 
-2\.Brucella abortus
+(a) plasmid pX02; or
+
+(b) plasmids pX01 and pX02
+
+[S 676/2007 wef 01/01/2008]
+
+2.Brucella abortus, except for the attenuated strains —
+
+(a) 19; or
+
+(b) RB51
+
+[S 676/2007 wef 01/01/2008]
 
 3\.Brucella melitensis
 
@@ -2073,13 +2091,27 @@ Bacteria
 
 7\.Clostridium botulinum
 
-8\.Francisella tularensis
+8.Franciscella tularensis, except for the attenuated strains of —
 
-9\.Yersinia pestis
+(a) the subspecies of novicida (the UTAH 112 [ATCC 15482]);
+
+(b) the subspecies of holartica live vaccine strain [ATCC 29684]; or
+
+(c) the B38 strain [ATTC 6223]
+
+[S 676/2007 wef 01/01/2008]
+
+9.Yersinia pestis, except for the attenuated strains devoid of —
+
+(a) Pgm locus [EV76 strain];
+
+(b) 75 kb low-calcium response virulence plasmid [Tjiwidej S strain]
+
+[S 676/2007 wef 01/01/2008]
 
 Rickettsiae
 
-1\.Coxiella burnetii
+1\.Coxiella burnetii(except for the attenuated Phase II, plaque purified clone 4 of the Nine Mile strain)
 
 2\.Rickettsia — all species
 
@@ -2087,13 +2119,13 @@ Fungi
 
 1\.Coccidioides immitis
 
-2\.Coccidioides posadasii
-
 Viruses
 
 1.Arenaviridae
 
 (a) Flexal virus
+
+[S 676/2007 wef 01/01/2008]
 
 2.Bunyaviridae
 
@@ -2103,7 +2135,7 @@ Viruses
 
 (c) Sin Nombre virus
 
-(d) Rift Valley fever virus
+(d) Rift Valley fever virus (except for the vaccine strain MP-12)
 
 3.Coronaviridae
 
@@ -2111,7 +2143,7 @@ Viruses
 
 4.Flaviviridae
 
-(a) Yellow fever virus
+(a) Yellow fever virus (except for the vaccine strain 17-D)
 
 5.Poxviridae
 
@@ -2260,3 +2292,9 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of commencement|1 November 2006|
 |3.|**2006 Revised Edition—Biological Agents and Toxins Act**|
 ||Date of operation|31 December 2006|
+|4.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
