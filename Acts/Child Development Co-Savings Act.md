@@ -106,11 +106,7 @@ PRELIMINARY
 
 (b) in relation to a female employee to whom subsection (1A), (1C) or (1E) of section 9 applies, such period as she is entitled under the applicable subsection to receive payment from her employer at her gross rate of pay;
 
-[9/2007 wef 01/03/2007]
-
 “confinement” means the delivery of a child;
-
-“Edusave account” has the same meaning as in the Education Endowment Scheme Act (Cap. 87A);
 
 “eligible child” means a child who is eligible for membership of the Scheme under the regulations made under section 3;
 
@@ -145,6 +141,10 @@ PRELIMINARY
 “parent”, in relation to a child, includes a legal guardian of the child;
 
 “personal representative” means the executor, original or by representation, or administrator for the time being of a deceased person;
+
+“PSE account” has the same meaning as in the Education Endowment and Savings Schemes Act (Cap. 87A);
+
+[52/2007 wef 01/01/2008]
 
 “Scheme” means the Children Development Co-Savings Scheme established by the regulations made under section 3;
 
@@ -192,7 +192,7 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (h) the purposes for which the moneys paid under the Scheme can be utilised and the terms and conditions subject to which withdrawals of such moneys can be made;
 
-(i) the transfer of any moneys standing to the credit of a member in his bank account to his Edusave account or such other account in his name as may be prescribed, or the withdrawal of such moneys, at such time, in such manner and in such circumstances as may be prescribed;
+(i) the transfer of any moneys standing to the credit of a member in his bank account to his PSE account or such other account in his name as may be prescribed, or the withdrawal of such moneys, at such time, in such manner and in such circumstances as may be prescribed;
 
 [9/2007 wef 01/03/2007]
 
@@ -228,7 +228,7 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 ### Protection of benefits
 
-5\. For the avoidance of doubt, the ownership of any moneys paid into a member’s bank account by the Government or the parent of the member under the Scheme shall, with effect from the date of such payment, belong to the member absolutely and —
+5\. Subject to the Education Endowment and Savings Schemes Act (Cap. 87A) and any regulations made under section 3 (in so far as they provide for the withdrawal, transfer or utilisation of any moneys paid into a member’s bank account), the ownership of any moneys paid into a member’s bank account by the Government or the parent of the member under the Scheme shall, with effect from the date of such payment, belong to the member absolutely and —
 
 (a) the payment by the parent shall not constitute “matrimonial asset” within the meaning of section 112 of the Women’s Charter (Cap. 353);
 
@@ -362,8 +362,6 @@ shall be entitled to receive payment from her employer at her gross rate of pay 
 
 (B) if the child becomes a citizen of Singapore after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act, for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the child becomes a citizen of Singapore.
 
-[9/2007 wef 01/03/2007]
-
 (1B) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
 (a) delivers a child who is not a citizen of Singapore at the time of his birth;
@@ -433,8 +431,6 @@ shall be entitled to receive payment from her employer at her gross rate of pay 
 (AB) every period referred to in section 76(1)(c)(ii) of that Act; or
 
 (B) if she becomes lawfully married to the child’s natural father after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act, for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day she becomes lawfully married to the child’s natural father.
-
-[9/2007 wef 01/03/2007]
 
 (1D) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
@@ -508,8 +504,6 @@ shall be entitled to receive payment from her employer at her gross rate of pay 
 
 (B) if the relevant event occurs after the period of 8 weeks referred to in section 76(1)(c)(i) of that Act, for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the relevant event occurs.
 
-[9/2007 wef 01/03/2007]
-
 (1F) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
 (a) delivers a child who is not a citizen of Singapore at the time of his birth;
@@ -546,7 +540,7 @@ shall be entitled to absent herself from work during, and to receive payment fro
 
 (b) to absent herself from work on another day at the end of the benefit period.
 
-(3) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1) (c) (ii), (1B) (ii) (B) or (iii), (1D) (ii) (B) or (iii) or (1F) (ii) (B) or (iii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
+(3) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1)(c)(ii), (1B)(ii)(B) or (iii), (1D)(ii)(B) or (iii) or (1F)(ii)(B) or (iii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
 
 [9/2007 wef 01/03/2007]
 
@@ -712,8 +706,6 @@ means the later of the following events:
 
 (ii) she becomes lawfully married to the child’s natural father.
 
-[9/2007 wef 01/03/2007]
-
 [42/2004 wef 01/10/2004]
 
 ### Eligibility criteria and cap in respect of maternity benefits
@@ -756,8 +748,6 @@ means the later of the following events:
 
 (e) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of not less than 180 days immediately preceding the day of her confinement.
 
-[9/2007 wef 01/03/2007]
-
 (1B) Subject to this section, a female employee shall be entitled to absent herself from work under section 9(1D) and to payment under section 9(1C) or (1D), and a self-employed woman shall be entitled to payment by the Government under section 9(4B), if —
 
 (a) the child —
@@ -777,8 +767,6 @@ means the later of the following events:
 (d) in the case of a female employee, she has served the employer for not less than 180 days immediately preceding the day of her confinement; and
 
 (e) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of not less than 180 days immediately preceding the day of her confinement.
-
-[9/2007 wef 01/03/2007]
 
 (1C) Subject to this section, a female employee shall be entitled to absent herself from work under section 9(1F) and to payment under section 9(1E) or (1F), and a self-employed woman shall be entitled to payment by the Government under section 9(4C), if —
 
@@ -802,17 +790,13 @@ means the later of the following events:
 
 (e) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of not less than 180 days immediately preceding the day of her confinement.
 
-[9/2007 wef 01/03/2007]
-
-(2) Subsections (1) (b), (1A) (b), (1B) (b) and (1C) (b) shall not apply to the second confinement of a female employee or self-employed woman who has 4 or more other living children born to her during her first confinement.
+(2) Subsections (1)(b), (1A)(b), (1B)(b) and (1C)(b) shall not apply to the second confinement of a female employee or self-employed woman who has 4 or more other living children born to her during her first confinement.
 
 [9/2007 wef 01/03/2007]
 
 (3) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to absent herself from work or to any payment under section 76 of that Act in respect of any confinement to which she is entitled to absent herself from work or to payment under section 9(1).
 
 (3A) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to receive payment under section 76 of that Act in respect of any period of her absence from work under section 76(1) of that Act for which she is entitled to receive payment under section 9(1A), (1C) or (1E).
-
-[9/2007 wef 01/03/2007]
 
 (4) Where a female employee absents herself from work during the whole or part of the benefit period —
 
@@ -830,8 +814,6 @@ means the later of the following events:
 
 shall not exceed $10,000; and
 
-[9/2007 wef 01/03/2007]
-
 (b) in respect of her third or fourth confinement, the amount of payment she shall be entitled to receive from her employer —
 
 (i) under section 9(1), (1B), (1D) or (1F) for the whole period of her absence from work; or
@@ -840,15 +822,11 @@ shall not exceed $10,000; and
 
 shall not exceed $30,000.
 
-[9/2007 wef 01/03/2007]
-
 (5) Where a self-employed woman ceases to be actively engaged in her trade, business, profession or vocation during the whole or part of any period referred to in section 9(4), (4A), (4B) or (4C) —
 
 (a) in respect of her first or second confinement, the amount of payment she shall be entitled to receive from the Government for the period referred to in section 9(5)(a)(i) or (ii) shall not exceed $10,000; and
 
 (b) in respect of her third or fourth confinement, the amount of payment she shall be entitled to receive from the Government for the period referred to in section 9(5)(b) shall not exceed $30,000.
-
-[9/2007 wef 01/03/2007]
 
 (6) The amounts of payment referred to in subsections (4) and (5) shall be inclusive of any contribution to the Central Provident Fund which an employer, a female employee or a self-employed woman is liable to make under the Central Provident Fund Act (Cap. 36).
 
@@ -872,8 +850,6 @@ shall not exceed $30,000.
 
 (C) under section 9(1B), (1D) or (1F) for the period of her absence from work referred to in section 9A(4)(a)(iii)(A) or (B), as the case may be; and
 
-[9/2007 wef 01/03/2007]
-
 (ii) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages; and
 
 (b) in respect of the third or fourth confinement of the employee, for —
@@ -883,8 +859,6 @@ shall not exceed $30,000.
 (A) under section 9(1), (1B), (1D) or (1F) for the period of her absence from work referred to in section 9A(4)(b)(i); or
 
 (B) under section 9(1A), (1C) or (1E) for the period of her absence from work referred to in section 9A(4)(b)(ii); and
-
-[9/2007 wef 01/03/2007]
 
 (ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
 
@@ -956,8 +930,6 @@ as they apply in relation to any employer, employee, dispute, offence or proceed
 
 (ii) is below 6 months of age at the time he is adopted or becomes a citizen of Singapore, whichever is the later;
 
-[9/2007 wef 01/03/2007]
-
 (b) has fewer than 4 other living children at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
 
 (c) is married, widowed or divorced at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
@@ -1014,27 +986,15 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (B) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages.
 
-[9/2007 wef 01/03/2007]
-
 (1B) Subsection (1) shall not apply in any case where subsection (1A) applies.
 
-[9/2007 wef 01/03/2007]
-
-(2) The leave referred to in subsection (1)(d) or (1A) (d)shall be in addition to —
+(2) The leave referred to in subsection (1)(d) or (1A)(d)shall be in addition to —
 
 (a) the rest days, holidays, annual leave, sick leave and childcare leave to which an employee is entitled under sections 36, 42, 43, 44 and 87A, respectively, of the Employment Act (Cap. 91); and
 
 (b) any type of leave of absence to which the female employee is entitled under her contract of service with her employer that does not relate to the adoption of a child.
 
-[9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
-
 (3) The amount of reimbursement an employer shall be entitled to claim from the Government in respect of a female employee under subsection (1) or (1A)shall not exceed $10,000.
-
-[9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
 
 (3A) Where —
 
@@ -1059,8 +1019,6 @@ the Government may recover that payment from that employee as a civil debt.
 (i) is a citizen of Singapore at the time of the adoption or becomes a citizen of Singapore before he attains 6 months of age; and
 
 (ii) is below 6 months of age at the time he is adopted or becomes a citizen of Singapore, whichever is the later;
-
-[9/2007 wef 01/03/2007]
 
 (b) has fewer than 4 other living children at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
 
@@ -1098,17 +1056,9 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 the self-employed woman shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during the period or periods referred to in paragraph (d).
 
-[9/2007 wef 01/03/2007]
-
 (4B) Subsection (4) shall not apply in any case where subsection (4A) applies.
 
-[9/2007 wef 01/03/2007]
-
 (5) The amount of payment a self-employed woman shall be entitled to receive from the Government under subsection (4) or (4A)shall not exceed $10,000.
-
-[9/2007 wef 01/03/2007]
-
-[28/2008 wef 31/10/2008]
 
 (6) Where —
 
@@ -1129,8 +1079,6 @@ the Government may recover that payment from that self-employed woman as a civil
 [9/2007 wef 01/03/2007]
 
 (7) In this section, “dependant’s pass”, in relation to a child, means a dependant’s pass issued in respect of the child under regulations made under the Immigration Act (Cap. 133) to enable the child to remain, or to enter and remain, in Singapore for the purposes of adoption under the Adoption of Children Act (Cap. 4).
-
-[9/2007 wef 01/03/2007]
 
 [42/2004 wef 01/10/2004]
 
@@ -1389,3 +1337,9 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 21/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
+|5.|**Act 52 of 2007—Education Endowment Scheme (Amendment No. 2) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 40/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|23 October 2007|
+||Date of commencement|1 January 2008|
