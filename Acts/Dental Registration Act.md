@@ -1,4 +1,4 @@
-**Dentists Act**
+**Dental Registration Act**
 
 **(CHAPTER 76)**
 
@@ -12,9 +12,9 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II DENTAL COUNCIL**](#Part-II)
+[**Part II SINGAPORE DENTAL COUNCIL**](#Part-II)
 
-- [3 Establishment of Dental Council](#Establishment-of-Dental-Council)
+- [3 Establishment of Singapore Dental Council](#Establishment-of-Singapore-Dental-Council)
 
 - [4 Functions of Council](#Functions-of-Council)
 
@@ -32,17 +32,23 @@
 
 - [11 Appointment of committees](#Appointment-of-committees)
 
-[**Part III REGISTRATION OF DENTISTS**](#Part-III)
+[**Part III DENTAL REGISTERS**](#Part-III)
 
 [**Division 1  General**](#Division-1--General)
 
 - [12 Registrar](#Registrar)
 
-- [13 Dentists register](#Dentists-register)
-
-- [14 Persons entitled to be registered as dentists](#Persons-entitled-to-be-registered-as-dentists)
+- [13 Registers](#Registers)
 
 [**Division 2  Registration of dentists**](#Division-2--Registration-of-dentists)
+
+- [14 Full registration](#Full-registration)
+
+- [14A Conditional registration](#Conditional-registration)
+
+- [14B Temporary registration](#Temporary-registration)
+
+- [14C Registration of specialists](#Registration-of-specialists)
 
 - [15 Application for registration](#Application-for-registration)
 
@@ -50,25 +56,43 @@
 
 - [17 Practising certificate](#Practising-certificate)
 
-- [18 Publication of list of registered dentists with practising certificates](#Publication-of-list-of-registered-dentists-with-practising-certificates)
+- [18 (Repealed)](#Repealed)
 
 - [19 Certificate of Registrar](#Certificate-of-Registrar)
 
-- [20 Correction of register](#Correction-of-register)
+- [20 Correction of appropriate register](#Correction-of-appropriate-register)
 
-- [21 Removal of name from register](#Removal-of-name-from-register)
+- [21 Removal of name from appropriate register](#Removal-of-name-from-appropriate-register)
+
+[**Division 3  Registration of oral health therapists**](#Division-3--Registration-of-oral-health-therapists)
+
+- [21A Persons entitled to be registered as oral health therapists](#Persons-entitled-to-be-registered-as-oral-health-therapists)
+
+- [21B Application for registration as oral health therapist](#Application-for-registration-as-oral-health-therapist)
+
+- [21C Oral Health Therapists Accreditation Committee](#Oral-Health-Therapists-Accreditation-Committee)
+
+- [21D Certificate of registration of oral health therapist](#Certificate-of-registration-of-oral-health-therapist)
+
+- [21E Practising certificate of oral health therapist](#Practising-certificate-of-oral-health-therapist)
+
+- [21F Certificate of Registrar in relation to oral health therapists](#Certificate-of-Registrar-in-relation-to-oral-health-therapists)
+
+- [21G Correction of Register of Oral Health Therapists](#Correction-of-Register-of-Oral-Health-Therapists)
+
+- [21H Removal of name from Register of Oral Health Therapists](#Removal-of-name-from-Register-of-Oral-Health-Therapists)
 
 [**Part IV PRACTICE OF DENTISTRY**](#Part-IV)
 
-- [22 Prohibition of practice of dentistry except by registered dentist with practising certificate](#Prohibition-of-practice-of-dentistry-except-by-registered-dentist-with-practising-certificate)
+- [22 Prohibition of practice of dentistry](#Prohibition-of-practice-of-dentistry)
 
 - [23 Liability of employer, etc., for practice of dentistry in contravention of section 22](#Liability-of-employer-etc-for-practice-of-dentistry-in-contravention-of-section-22)
 
-- [24 Liability of registered dentist for allowing another to act in contravention of section 22, etc.](#Liability-of-registered-dentist-for-allowing-another-to-act-in-contravention-of-section-22-etc)
+- [24 Liability of registered dentist or registered oral health therapist for allowing another to act in contravention of section 22, etc.](#Liability-of-registered-dentist-or-registered-oral-health-therapist-for-allowing-another-to-act-in-contravention-of-section-22-etc)
 
 - [25 Suspended persons not to practise dentistry during period of suspension](#Suspended-persons-not-to-practise-dentistry-during-period-of-suspension)
 
-- [26 Pretending to be or taking or using the name or title of dentist](#Pretending-to-be-or-taking-or-using-the-name-or-title-of-dentist)
+- [26 Pretending to be or taking or using the name or title of dentist, etc.](#Pretending-to-be-or-taking-or-using-the-name-or-title-of-dentist-etc)
 
 - [27 Fraudulent registration, etc.](#Fraudulent-registration-etc)
 
@@ -76,47 +100,55 @@
 
 - [29 Recovery of fees](#Recovery-of-fees)
 
-- [30 Certificate of registration and practising certificate to be exhibited](#Certificate-of-registration-and-practising-certificate-to-be-exhibited)
+- [30 Evidence of qualification and entry of additional qualifications](#Evidence-of-qualification-and-entry-of-additional-qualifications)
 
 - [31 Use of qualification and title](#Use-of-qualification-and-title)
 
+- [31A False assumption of title of specialist](#False-assumption-of-title-of-specialist)
+
 - [32 Certain registered dentists not to perform prescribed procedures](#Certain-registered-dentists-not-to-perform-prescribed-procedures)
+
+[**Part IVA DENTAL SPECIALISTS ACCREDITATION BOARD**](#Part-IVA)
+
+- [32A Establishment of Dental Specialists Accreditation Board](#Establishment-of-Dental-Specialists-Accreditation-Board)
+
+- [32B Functions of Accreditation Board](#Functions-of-Accreditation-Board)
 
 [**Part V DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES**](#Part-V)
 
 [**Division 1  Complaints Committee**](#Division-1--Complaints-Committee)
 
-- [33 Complaint against registered dentist](#Complaint-against-registered-dentist)
+- [33 Appointment of Complaints Panel](#Appointment-of-Complaints-Panel)
 
-- [34 Appointment of Complaints Panel](#Appointment-of-Complaints-Panel)
+- [34 Complaints against registered dentists and registered oral health therapists](#Complaints-against-registered-dentists-and-registered-oral-health-therapists)
 
-- [35 Appointment of Complaints Committee](#Appointment-of-Complaints-Committee)
+- [35 Inquiry by Complaints Committee](#Inquiry-by-Complaints-Committee)
 
-- [36 Proceedings of Complaints Committee](#Proceedings-of-Complaints-Committee)
+- [36 Findings of Complaints Committee](#Findings-of-Complaints-Committee)
 
-- [37 Powers of Complaints Committee](#Powers-of-Complaints-Committee)
+- [37 Appointment of Disciplinary Committee](#Appointment-of-Disciplinary-Committee)
 
-- [38 Findings of Complaints Committee](#Findings-of-Complaints-Committee)
+- [38 Proceedings of Disciplinary Committee](#Proceedings-of-Disciplinary-Committee)
 
-- [39 Decision of Council](#Decision-of-Council)
+- [39 Reference and transfer of cases to Health Committee](#Reference-and-transfer-of-cases-to-Health-Committee)
 
 [**Division 2  Disciplinary Committee**](#Division-2--Disciplinary-Committee)
 
-- [40 Appointment of Disciplinary Committee](#Appointment-of-Disciplinary-Committee)
+- [40 Findings of Disciplinary Committee](#Findings-of-Disciplinary-Committee)
 
-- [41 Observer](#Observer)
+- [41 Orders of Disciplinary Committee](#Orders-of-Disciplinary-Committee)
 
-- [42 Registered dentist to be notified of inquiry](#Registered-dentist-to-be-notified-of-inquiry)
+- [42 Restoration of names to appropriate register](#Restoration-of-names-to-appropriate-register)
 
-- [43 Procedure of Disciplinary Committee](#Procedure-of-Disciplinary-Committee)
+- [43 Report of breach](#Report-of-breach)
 
-- [44 Findings of Disciplinary Committee](#Findings-of-Disciplinary-Committee)
+- [44 (Repealed)](#Repealed)
 
-- [45 Costs of inquiry](#Costs-of-inquiry)
+- [45 (Repealed)](#Repealed)
 
-- [46 Reference and transfer of cases to Health Committee](#Reference-and-transfer-of-cases-to-Health-Committee)
+- [46 (Repealed)](#Repealed)
 
-- [47 Appeal against order by Disciplinary Committee](#Appeal-against-order-by-Disciplinary-Committee)
+- [47 (Repealed)](#Repealed)
 
 [**Division 3  Health Committee**](#Division-3--Health-Committee)
 
@@ -124,15 +156,39 @@
 
 - [49 Unfitness to practise through illness, etc.](#Unfitness-to-practise-through-illness-etc)
 
+- [49A Restoration of names removed on recommendation of Health Committee](#Restoration-of-names-removed-on-recommendation-of-Health-Committee)
+
+[**Division 3A  Interim Orders Committee**](#Division-3A--Interim-Orders-Committee)
+
+- [49B Interim Orders Committee](#Interim-Orders-Committee)
+
+- [49C Interim orders](#Interim-orders)
+
+- [49D Review of interim orders](#Review-of-interim-orders)
+
+- [49E Interim Orders Committee may revoke, vary or replace interim order](#Interim-Orders-Committee-may-revoke-vary-or-replace-interim-order)
+
+- [49F Right of hearing](#Right-of-hearing)
+
+- [49G Application to High Court](#Application-to-High-Court)
+
+- [49H Duration of interim orders](#Duration-of-interim-orders)
+
+- [49I Person suspended under interim suspension order not regarded as registered](#Person-suspended-under-interim-suspension-order-not-regarded-as-registered)
+
+- [49J Council may appoint legal counsel](#Council-may-appoint-legal-counsel)
+
 [**Division 4  Miscellaneous Provisions**](#Division-4--Miscellaneous-Provisions)
 
-- [50 Where Council member is in public service or is officer of Board](#Where-Council-member-is-in-public-service-or-is-officer-of-Board)
+- [50 (Repealed)](#Repealed)
 
-- [51 Service of documents](#Service-of-documents)
+- [51 (Repealed)](#Repealed)
 
-- [52 Conviction final and conclusive](#Conviction-final-and-conclusive)
+- [52 (Repealed)](#Repealed)
 
-- [53 Restoration of names to register](#Restoration-of-names-to-register)
+- [53 Restoration of names to appropriate register](#Restoration-of-names-to-appropriate-register)
+
+- [53A Recovery of penalties and costs](#Recovery-of-penalties-and-costs)
 
 [**Part VI GENERAL**](#Part-VI)
 
@@ -146,11 +202,19 @@
 
 - [58 No action against Council, etc., in absence of bad faith](#No-action-against-Council-etc-in-absence-of-bad-faith)
 
-- [59 Exemption in respect of persons in public service or employed by Board or prescribed companies or organisations](#Exemption-in-respect-of-persons-in-public-service-or-employed-by-Board-or-prescribed-companies-or-organisations)
+- [59 (Repealed)](#Repealed)
 
 - [60 Exemption in respect of medical practitioners](#Exemption-in-respect-of-medical-practitioners)
 
 - [61 Exemption in respect of dental training](#Exemption-in-respect-of-dental-training)
+
+- [61A Exemption](#Exemption)
+
+- [61B Composition of offences](#Composition-of-offences)
+
+- [61C Jurisdiction of court](#Jurisdiction-of-court)
+
+- [61D Amendment of Schedule](#Amendment-of-Schedule)
 
 - [62 Power of Council to make regulations](#Power-of-Council-to-make-regulations)
 
@@ -168,13 +232,13 @@
 
 - [68 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
-[**THE SCHEDULE Qualifications**](#THE-SCHEDULE)
+[**THE SCHEDULE List of Registrable Basic Dental Qualifications**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
 
-# Dentists Act
+# Dental Registration Act
 
 (CHAPTER 76)
 
@@ -184,7 +248,7 @@ REVISED EDITION 2000
 
 (30th December 2000)
 
-An Act to establish the Dental Council, to provide for the registration of dentists and for matters connected therewith.
+An Act to establish the Singapore Dental Council, to provide for the registration of dentists and oral health therapists and for matters connected therewith.
 
 [15th October 1999]
 
@@ -194,105 +258,137 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Dentists Act.
+1\. This Act may be cited as the Dental Registration Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
+“appropriate register” means any of the registers referred to in section 13(1), as appropriate;
+
+[22/2007 wef 01/01/2008]
+
 “Board” means the Health Promotion Board established under the Health Promotion Board Act 2001;
 
 [5/2001 wef 01/04/2001]
 
-“certificate of registration” means a certificate of registration issued under section 16 ;
+“certificate of registration” means a certificate of registration issued under section 16 or 21D;
 
-“Complaints Committee” means a Complaints Committee appointed under section 35;
+“Chief Dental Officer” means the Chief Dental Officer of the Ministry of Health;
 
-“Council” means the Dental Council established under section 3;
+[22/2007 wef 01/01/2008]
 
-“Disciplinary Committee” means a Disciplinary Committee appointed under section 40;
+“Council” means the Singapore Dental Council established under section 3(1);
+
+[22/2007 wef 01/01/2008]
+
+“Disciplinary Committee” means a Disciplinary Committee appointed under section 37;
+
+“healthcare professional” includes a medical practitioner, a dentist, a nurse, a midwife, a pharmacist, a Traditional Chinese Medicine practitioner and any other person who is licensed to provide any other healthcare services in Singapore;
+
+[22/2007 wef 01/01/2008]
 
 “Health Committee” means the Health Committee appointed under section 48;
 
 “practice of dentistry” includes —
 
-(a) the performance of any operation and the treatment of any diseases, deficiencies, deformities or lesions on or of the human teeth or jaws or associated structures, whether intraorally or extraorally;
+(a) the performance of any procedure and the treatment of any disease, deficiency, deformity, malposition or lesion on or of the human teeth or jaws or associated structures, whether intraorally or extraorally;
 
-(b) the correction of malpositions of the human teeth or jaws or associated structures;
+(b) the performance of radiographic work in connection with the human teeth or jaws or associated structures;
 
-(c) the performance of radiographic work in connection with the human teeth or jaws or associated structures;
+(c) the administration of an anaesthetic agent in connection with any procedure on the human teeth or jaws or associated structures;
 
-(d) the administration of an anaesthetic agent in connection with any operation on the human teeth or jaws or associated structures;
+(d) the performance of any procedure on, or the giving of any treatment, advice or attendance to, any person as preparatory to, or for the purpose of or for or in connection with, the fitting, inserting, fixing, constructing, repairing or renewing of dentures or dental appliances; and
 
-(e) the mechanical construction or the renewal or repair of dentures or restorative dental appliances;
+(e) the performance of any such procedure and the giving of any such treatment, advice or attendance as is usually performed or given by dentists;
 
-(f) the performance of any operation on, or the giving of any treatment, advice or attendance to any person, as preparatory to, or for the purpose of or for or in connection with, the fitting, inserting, fixing, constructing, repairing or renewing of dentures or restorative dental appliances; and
+[22/2007 wef 01/01/2008]
 
-(g) the performance of any such operation and the giving of any such treatment, advice or attendance as is usually performed or given by dentists,
+“practising certificate” means a practising certificate granted under section 17 or 21E;
 
-and the expression “practise dentistry” has a corresponding meaning;
-
-“practising certificate” means a practising certificate granted under section 17 ;
-
-“President” means the President of the Dental Council;
-
-“register” means the dentists register kept under section 13;
+“President” means the President of the Singapore Dental Council;
 
 “registered dentist” means a person who is registered as a dentist under this Act and includes a person deemed to be a registered dentist under section 64(1), and “registered as a dentist” and “registration as a dentist” have corresponding meanings;
 
-“Registrar” means the Registrar appointed under section 12;
+“registered oral health therapist” means a person registered as an oral health therapist under section 21A;
 
-“repealed Act” means the Dentists Act (Cap. 76, 1985 Ed.) repealed by this Act.
+[22/2007 wef 01/01/2008]
+
+“Registrar” means the Registrar of the Council;
+
+“repealed Act” means the Dentists Act (Cap. 76, 1985 Ed.) repealed by this Act;
+
+“Singapore degree” means a degree or diploma in dentistry from the University of Singapore or the National University of Singapore.
+
+[22/2007 wef 01/01/2008]
 
 ## PART II
 
-DENTAL COUNCIL
+SINGAPORE DENTAL COUNCIL
 
-### Establishment of Dental Council
+### Establishment of Singapore Dental Council
 
-3\.—(1) There shall be established a body, to be known as the Dental Council, which shall be a body corporate with perpetual succession and a common seal.
+3\.—(1) There shall be established a body, to be known as the Singapore Dental Council, which shall be a body corporate with perpetual succession and a common seal.
 
 (2) The Council shall consist of —
 
-(a) 6 members to be appointed by the Minister; and
+(a) the Chief Dental Officer;
 
-(b) 5 members to be elected by registered dentists whose names appear in the first division of the register and who are resident in Singapore.
+(b) the Dean of the Faculty of Dentistry of the National University of Singapore;
 
-(3) Of the members referred to in subsection (2)(a), there shall be —
+(c) 3 registered dentists, to be appointed by the Minister, whose names appear in the first division of the Register of Dentists and who are practising in Singapore;
 
-(a) 4 registered dentists whose names appear in the first division of the register and who are practising in Singapore;
+(d) one registered dentist, to be appointed by the Minister, whose name appears in the second division of the Register of Dentists and who is practising in Singapore;
 
-(b) one registered dentist whose name appears in the second division of the register and who is practising in Singapore; and
+(e) at least one but not more than 3 registered oral health therapists, to be appointed by the Minister, whose names appear in the Register of Oral Health Therapists and who are practising in Singapore; and
 
-(c) one member of the academic staff of the Faculty of Dentistry of the National University of Singapore.
+(f) 5 members to be elected by registered dentists whose names appear in the first division of the Register of Dentists and who are practising in Singapore.
 
-(4) Only registered dentists whose names appear in the first division of the register and who have at least 10 years’ experience in the practice of dentistry may be elected as members of the Council.
+[22/2007 wef 01/01/2008]
+
+(4) Only registered dentists whose names appear in the first division of the Register of Dentists and who have at least 10 years’ experience in the practice of dentistry may be elected as members of the Council.
 
 (5) The members shall hold office for a term of 3 years and shall be eligible for reappointment or re-election.
 
-(6) The Minister may, at any time, revoke the appointment of any member appointed under subsection (2)(a) without assigning any reason.
+(6) The Minister may, at any time, revoke the appointment of any member appointed under subsection (2)(c), (d) or (e) without assigning any reason.
 
 ### Functions of Council
 
 4\. The functions of the Council are —
 
-(a) to approve or reject applications for registration as a dentist under this Act or to approve any such application subject to such conditions as it may think fit;
+(a) to approve or reject applications for registration as a dentist or an oral health therapist under this Act or to approve any such application subject to such conditions as it may think fit;
 
-(b) to issue certificates of registration and practising certificates to registered dentists ;
+(b) to issue certificates of registration and practising certificates to registered dentists and registered oral health therapists;
 
 (c) to make recommendations to the appropriate authorities on the courses of instructions and examinations leading to a degree of Bachelor of Dental Surgery in the National University of Singapore;
 
-(d) to make recommendations to the appropriate authorities for the training and education of registered dentists ;
+(d) to make recommendations to the appropriate authorities for the training and education of registered dentists and registered oral health therapists;
 
-(e) to determine and regulate the conduct and ethics of registered dentists ; and
+(e) to determine and regulate the conduct and ethics of registered dentists and registered oral health therapists;
+
+(ea) to provide administrative services to other statutory boards responsible for the regulation of healthcare professionals; and
+
+[22/2007 wef 01/01/2008]
 
 (f) generally to do all such acts, matters and things as are necessary to be carried out, or which the Council is authorised to carry out, under this Act.
 
 ### Compulsory voting
 
-5\.—(1) Every registered dentist whose name appears in the first division of the register and who is resident in Singapore shall vote for the election of members of the Council referred to in section 3(2)(b) at such time and in such manner as may be prescribed.
+5\.—(1) Every fully registered dentist whose name appears in the first division of the Register of Dentists and who —
 
-(2) Notwithstanding the provisions of this Act, a person who is required under subsection (1) to vote and who fails to do so shall not be entitled to apply for a practising certificate under section 17, unless he satisfies the Registrar that he has a good and sufficient reason for not voting or unless he pays to the Council a penalty prescribed by the Council.
+(a) is resident in Singapore; and
+
+(b) has in force a practising certificate on the day of election of candidates as members of the Council referred to in section 3(2)(f),
+
+shall vote for the election of such members at such time and in such manner as may be prescribed.
+
+(2) Where a fully registered dentist whose name appears in the first division of the Register of Dentists is required to vote for the election of the members of the Council under subsection (1) and fails to do so, he shall not be entitled to apply for a practising certificate unless he —
+
+(a) satisfies the Registrar that he had a good and sufficient reason for not voting at the election; or
+
+(b) pays to the Council a penalty as prescribed by the Council.
+
+[22/2007 wef 01/01/2008]
 
 ### President of Council
 
@@ -306,7 +402,7 @@ DENTAL COUNCIL
 
 (a) he is not a citizen or a permanent resident of Singapore;
 
-(b) he is not a registered dentist ;
+(b) he is not a registered dentist or registered oral health therapist;
 
 (c) he is an undischarged bankrupt;
 
@@ -332,7 +428,7 @@ DENTAL COUNCIL
 
 (e) without any good and sufficient reason, refuses to accept an appointment as a member of a Disciplinary Committee or the Health Committee; or
 
-(f) being a member appointed by the Minister under section 3(2)(a), has his appointment revoked before the expiry of his term of office.
+(f) being a member appointed by the Minister under section 3(2)(c), (d) or (e), has his appointment revoked before the expiry of his term of office.
 
 (2) The Council may, with the approval of the Minister, remove from office any member of the Council who is absent without leave of the Council from 3 consecutive meetings of —
 
@@ -346,6 +442,10 @@ DENTAL COUNCIL
 
 (5) If any vacancy arises among the appointed members, the Minister may appoint a person to fill the vacancy in the manner in which the appointment to the vacant office was made.
 
+(5A) Any person elected or appointed to fill the vacancy shall hold office for the remainder of the term for which the vacating member was elected or appointed.
+
+[22/2007 wef 01/01/2008]
+
 (6) The Council may act notwithstanding any vacancy in the membership of the Council.
 
 (7) No act done by or by the authority of the Council shall be invalid in consequence of any defect that is afterwards discovered in the appointment or election or qualification of the members or any of them.
@@ -356,7 +456,7 @@ DENTAL COUNCIL
 
 (2) The Registrar may exercise the power of the President referred to in subsection (1) in the absence of the President and at the direction of at least 2 of the members of the Council.
 
-(3) At any meeting of the Council, 4 members shall form a quorum.
+(3) At any meeting of the Council, 5 members shall form a quorum.
 
 (4) The President shall preside at any meeting of the Council and, in his absence, such member as the members present may elect shall preside at that meeting.
 
@@ -380,7 +480,7 @@ DENTAL COUNCIL
 
 ## PART III
 
-REGISTRATION OF DENTISTS
+DENTAL REGISTERS
 
 Division 1 —
 
@@ -388,67 +488,177 @@ General
 
 ### Registrar
 
-12\.—(1) For the purposes of this Act and the regulations made thereunder, the Minister shall appoint a registered dentist as the Registrar.
+12\.—(1) For the purposes of this Act, there shall be a Registrar of the Council.
+
+[22/2007 wef 01/01/2008]
+
+(1A) The Chief Dental Officer shall be the Registrar of the Council.
+
+[22/2007 wef 01/01/2008]
 
 (2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
 
-### Dentists register
+### Registers
 
-13\.—(1) The Registrar shall keep a dentists register which shall contain —
+13\.—(1) The Registrar shall maintain and keep the following registers:
 
-(a) in the first division of the register —
+(a) a register to be called the “Register of Dentists” containing —
 
-(i) the names and addresses of all persons who are registered as dentists under section 15(4);
+(i) in the first division of the register —
 
-(ii) the dates of their registration;
+(A) under Part I, the names of persons registered as fully registered dentists under section 14(1) and (2);
 
-(iii) the qualifications by virtue of which they are registered;
+(B) under Part II, the names of persons registered as dentists with conditional registration under section 14A(1); and
 
-(iv) such other particulars of those persons as the Council may determine; and
+(C) all the particulars which are transferred to or entered in that division under section 40(6)(a) of the Dentists (Amendment) Act 2007; and
 
-(v) all the particulars which are transferred to that division under section 64(4); and
+(ii) in the second division of the register, all the names, addresses, qualifications and other particulars which are transferred to or entered in that division under section 40(6)(b) of the Dentists (Amendment) Act 2007;
 
-(b) in the second division of the register, all the particulars which are transferred to or entered in that division under section 64(4).
+(b) a register to be called the “Register of Temporarily Registered Dentists” containing —
 
-(2) The Registrar shall be responsible for the maintenance and custody of the register.
+(i) the names of persons registered temporarily as dentists under section 14B(1); and
 
-(3) A registered dentist shall inform the Registrar in writing of —
+(ii) all the names, addresses, qualifications and other particulars which are transferred to or entered in the first division of the register under section 40(6)(c) of the Dentists (Amendment) Act 2007;
 
-(a) any change in his name, practice address, residential address or such of his other particulars as may be prescribed, within 28 days of the change; or
+(c) a register to be called the “Register of Specialists” containing the names of persons registered as specialists under section 14C(1); and
 
-(b) any alteration or addition to his qualifications.
+(d) a register to be called the “Register of Oral Health Therapists” containing —
 
-(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(i) under Part I, the names of persons registered as oral health therapists under section 21A(1); and
 
-(5) A person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (3) on the date on which he makes the report.
+(ii) under Part II, the names of persons registered as oral health therapists under section 21A(2).
 
-### Persons entitled to be registered as dentists
+(2) Each register shall contain ––
 
-14\.—(1) Subject to the provisions of this Act, the following persons shall be entitled to be registered as dentists:
+(a) the names and addresses of the persons registered;
 
-(a) any person who holds a degree of Bachelor of Dental Surgery granted by the University of Singapore or the National University of Singapore;
+(b) the dates of the registration of the persons;
 
-(b) any person who holds a degree in dentistry granted by any university included in the Schedule;
+(c) the qualifications by virtue of which the persons are so registered; and
 
-(c) any person who holds a degree in dentistry granted by any university, corporation, college or other body outside Singapore which is not included in the Schedule but whom the Minister, after consulting the Council, determines to be entitled to be registered as a dentist;
+(d) such other particulars as the Council may determine for that register.
 
-(d) any person who is resident in Singapore temporarily for the exclusive purpose of teaching, research or postgraduate study in an institution accepted for that purpose by the Council and who possesses qualifications in dentistry which in the opinion of the Council are adequate.
+(3) The Registrar shall —
 
-(2) The registration of any person referred to in subsection (1)(b), (c) or (d) may be subject to such conditions as the Council may determine.
+(a) be responsible for the maintenance and custody of the registers; and
 
-(3) Without prejudice to the generality of subsection (2), the conditions referred to in that subsection may, in the case of a person referred to in subsection (1)(b) or (c), include a condition that the person shall work for a specified period in a company, firm or other organisation approved by the Council, and under the supervision of a registered dentist approved by the Council.
+(b) publish on the Council’s Internet website a list of the names, addresses, qualifications and dates of qualification of all dentists and oral health therapists who —
 
-(4) Before advising the Minister under subsection (1)(c), the Council may require the person concerned to undergo and pass an examination conducted or arranged by the Council to satisfy itself that the person holds a degree in dentistry that is not lower in standard than that required of a person who holds —
+(i) are registered under this Act; and
 
-(a) a degree of Bachelor of Dental Surgery of the National University of Singapore; or
+(ii) have in force practising certificates.
 
-(b) a degree in dentistry granted by any university included in the Schedule.
+(4) Every person whose name is entered in any of the registers shall inform the Registrar in writing of any change in his practice address or residential address within 28 days thereof, except that a person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with this subsection on the date on which he makes the report.
 
-(5) The Minister may, after consulting the Council, by notification in theGazette, vary or amend the Schedule.
+(5) The Registrar may disclose any information in the registers to any person prescribed by regulations made under this Act, if such disclosure is in accordance with such conditions as may be specified in those regulations.
+
+(6) Subsection (5) is without prejudice to any other right or duty to disclose the information under general or written law.
+
+(7) Any person who fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[22/2007 wef 01/01/2008]
 
 Division 2 —
 
 Registration of dentists
+
+### Full registration
+
+14\.—(1) Subject to the provisions of this Act, any person who holds a Singapore degree shall be entitled to be registered as a fully registered dentist.
+
+(2) Notwithstanding subsection (1), a person, not being a Singapore degree holder, who holds such qualifications as may be recognised by the Council, and satisfies the Council that he has special knowledge and skill and sufficient experience in any particular branch of dentistry shall, if the Council thinks fit so to direct, be registered as a fully registered dentist.
+
+(3) Notwithstanding subsections (1) and (2), the Council may, if it is of the view that it is not in the public interest for a person referred to in either of those subsections to be registered as a fully registered dentist, direct that he be registered as a dentist with conditional registration in the Register of Dentists, and section 14A(3) to (7) shall apply accordingly.
+
+[22/2007 wef 01/01/2008]
+
+### Conditional registration
+
+14A\.—(1) Subject to the provisions of this Act, any person who —
+
+(a) holds a degree from a university specified in the Schedule or any other degree which is, in the opinion of the Council, not lower in standing than a degree specified in that Schedule;
+
+(b) has been selected for employment in Singapore as a dentist in any hospital or other institution or dental practice approved by the Council; and
+
+(c) satisfies the Council that he has the knowledge and skill and has acquired the experience which is necessary for practice as a dentist,
+
+shall, if the Council thinks fit so to direct, be registered as a dentist with conditional registration in the Register of Dentists.
+
+(2) The Council may require a person with a degree, other than a degree specified in the Schedule, to undergo and pass an examination conducted or arranged by the Council or by such other person as the Council may appoint to satisfy itself that the degree is not lower in standing than a degree specified in the Schedule.
+
+(3) The conditions of a person’s registration under this section shall be specified in the direction by virtue of which he is registered.
+
+(4) Without prejudice to the power of the Council to impose conditions, the direction may specify —
+
+(a) that the person shall work for a specified period under the supervision of a fully registered dentist approved by the Council; and
+
+(b) the particular employment or the descriptions of employment for the purposes of which he is registered under this section.
+
+(5) The Council may cancel the conditional registration of a dentist if —
+
+(a) the dentist has contravened any condition specified in the direction by virtue of which he is registered; or
+
+(b) the Council is of the opinion, having regard to the report of the dentist supervising him, if any, that he is unable to perform the duties of a dentist satisfactorily.
+
+(6) A person who is or has been registered with conditional registration may, after the expiration of the period of supervision specified under subsection (4)(a), apply to the Council to be registered as a fully registered dentist.
+
+(7) If the Council thinks fit so to direct, having regard to the knowledge and skill shown and the experience acquired by the applicant, he shall be registered under section 14(1) as a fully registered dentist.
+
+(8) On a dentist with conditional registration becoming registered otherwise than conditionally or on his registration being cancelled under subsection (5), his name shall be removed from Part II of the Register of Dentists.
+
+[22/2007 wef 01/01/2008]
+
+### Temporary registration
+
+14B\.—(1) Subject to the provisions of this Act, any person who has a degree other than a Singapore degree and —
+
+(a) who is in Singapore for the purpose of teaching, research or postgraduate study in dentistry under such training scheme as may be approved by the Council for that purpose;
+
+(b) who possesses dental knowledge, experience and skill which the Council considers to be of international standing or are such as to have special value to the people of Singapore; or
+
+(c) who is not otherwise entitled to be registered as a dentist under this Act but who, in the opinion of the Council, possesses other qualifications which are adequate for the purposes of registration under this Act,
+
+may be registered temporarily in such dental capacity and for such period as the Council may specify.
+
+(2) Any registration under subsection (1) shall be for a period not exceeding 3 years which may be renewed, at the discretion of the Council, for such further period as the Council thinks fit.
+
+(3) A person may be registered under subsection (1) subject to such conditions and restrictions as the Council may impose.
+
+[22/2007 wef 01/01/2008]
+
+### Registration of specialists
+
+14C\.—(1) Subject to the provisions of this Act, any person who —
+
+(a) holds such postgraduate degrees or qualifications;
+
+(b) has gained such special knowledge of and skill and experience in any particular branch of dentistry; or
+
+(c) has both such postgraduate degrees or qualifications and experience,
+
+as the Council may approve, may apply to the Council to be registered as a specialist in that branch of dentistry.
+
+(2) The Council shall not register any person under subsection (1) as a specialist unless the person has obtained a certificate from the Dental Specialists Accreditation Board under section 32B.
+
+(3) The Council may, with the approval of the Minister, make regulations for any or all of the following purposes:
+
+(a) providing for the registration of specialists in any branch of dentistry;
+
+(b) regulating the recording in, removal from and restoration to the Register of Specialists of the names, particulars and qualifications of persons so registered;
+
+(c) providing for appeals by dentists against any refusal of the Council to register them in the Register of Specialists or to restore their names to that Register or against any decision of the Council to remove their names from that Register;
+
+(d) prescribing the fees payable in respect of —
+
+(i) any application for registration as a specialist;
+
+(ii) any such registration as a specialist;
+
+(iii) any restoration of names to the Register of Specialists; and
+
+(iv) any appeal.
+
+[22/2007 wef 01/01/2008]
 
 ### Application for registration
 
@@ -462,7 +672,7 @@ Registration of dentists
 
 (5) The Council may refuse to register any applicant who, in the opinion of the Council —
 
-(a) is not a person entitled to be registered as a dentist in accordance with section 14;
+(a) is not a person entitled to be registered as a dentist in accordance with section 14, 14A or 14B;
 
 (b) is not of good reputation and character;
 
@@ -492,59 +702,263 @@ Registration of dentists
 
 (5) Any registered dentist who applies for a practising certificate later than one month before the expiration of the practising certificate shall be liable to pay to the Council such late application fee as may be prescribed by the Council.
 
-(6) Whenever it appears to the satisfaction of the Council that a registered dentist is practising dentistry in such premises or under such conditions as are considered by the Council to be unsuitable for such practice, the Council may cancel the practising certificate.
+(6) The Council may —
 
-(7) If any person whose practising certificate has been cancelled under subsection (6) applies to the Council in such form and pays such fee as may be prescribed, the Council may, after due consideration of the circumstances of the case, direct that a practising certificate be issued to him.
+(a) refuse to grant a practising certificate to a registered dentist; or
 
-(8) Where a registered dentist has had his name removed from the register or his registration suspended under any provision of this Act, any practising certificate issued to him shall be deemed to be cancelled and the registered dentist shall forthwith surrender the certificate to the Council.
+(b) refuse to renew the practising certificate of a registered dentist,
+
+if the registered dentist has contravened any condition that is imposed by the Council with the approval of the Minister for the purposes of this section.
+
+[22/2007 wef 01/01/2008]
+
+(8) Where a registered dentist has had his name removed from the appropriate register or his registration suspended under any provision of this Act, any practising certificate issued to him shall be deemed to be cancelled and the registered dentist shall forthwith surrender the certificate to the Council.
 
 (9) Any person who fails to comply with subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 (10) For the purposes of subsection (5), the Council may prescribe different late application fees for applications made before, and applications made after, the expiration of the practising certificates.
 
-### Publication of list of registered dentists with practising certificates
-
-18\.—(1) The Registrar shall, from time to time, prepare and publish in theGazettea list of the names, addresses, qualifications and dates of qualifications of all registered dentists who have in force practising certificates, to be arranged in accordance to the divisions of the register in which their names appear.
-
-(2) The Council may, if it thinks fit, direct the Registrar to prepare and publish for sale, at such intervals as the Council may direct, publications of the names, addresses, qualifications and dates of qualifications of all registered dentists who have in force practising certificates.
+18\. [Repealed by Act 22/2007 wef 01/01/2008]
 
 ### Certificate of Registrar
 
-19\. A certificate purporting to be under the hand of the Registrar to the effect that at any time or during any period specified in the certificate any person was or was not a registered dentist, or had or did not have in force a practising certificate, or as to any entry in the register, or the removal from the register of any entry, shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
+19\. A certificate purporting to be under the hand of the Registrar to the effect that at any time or during any period specified in the certificate any person was or was not a registered dentist, or had or did not have in force a practising certificate, or as to any entry in the appropriate register, or the removal from the appropriate register of any entry, shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
 
-### Correction of register
+### Correction of appropriate register
 
 20\.—(1) The Registrar shall —
 
-(a) insert in the register any alteration which may come to his knowledge in the name or address of any registered dentist;
+(a) insert in the appropriate register any alteration which may come to his knowledge in the name or address of any registered dentist;
 
-(b) correct any error in any entry in the register;
+(b) correct any error in any entry in the appropriate register;
 
-(c) remove from the register the name of any person —
+(c) remove from the appropriate register the name of any person —
 
 (i) whose name is ordered to be removed under any provision of this Act; or
 
-(ii) who is deceased; and
+(ii) who is deceased;
 
-(d) insert in the register any alteration in the qualifications or additional qualifications of a registered dentist.
+(d) insert in the appropriate register any alteration in the qualifications or additional qualifications of a registered dentist; and
 
-(2) The Registrar may remove the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 yearsand who has no address in Singapore at which he can be found.
+(e) remove from the appropriate register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless a complaint has been made, or an inquiry has, or investigations or proceedings have, commenced under Part V against that person.
 
-### Removal of name from register
+[22/2007 wef 01/01/2008]
 
-21\.—(1) Notwithstanding the provisions of Part V, the Council may order the removal from the register of the name of a registered dentist if it comes to the knowledge of the Council that the registered dentist —
+(2) The Registrar may remove the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 years.
 
-(a) has contravened or failed to comply with any condition or restriction to which his registration as a dentist is subject;
+### Removal of name from appropriate register
 
-(b) being a person to whom section 32 applies, has contravened or failed to comply with any regulations made under that section;
+21\.—(1) Notwithstanding the provisions of this Act, the Council may, upon such evidence as it may require, order the removal from the appropriate register of the name of a registered dentist under any of the following circumstances:
 
-(c) has obtained his registration by a fraudulent or incorrect statement;
+(a) if he has contravened any condition or restriction imposed by the Council as regards his conditional registration under section 14A;
 
-(d) has had his registration as a dentist in any other country withdrawn, suspended or cancelled for any disciplinary reason; or
+(b) if he has contravened any condition or restriction imposed by the Council as regards his temporary registration under section 14B;
 
-(e) has failed to serve the Government, or such other body or organisation as may be directed by the Government, for such period as may be specified in any undertaking given by him to the Government.
+(c) if he, being a registered dentist whose name is in the Register of Specialists —
+
+(i) has had his name removed from the first division of the Register of Dentists; or
+
+(ii) has contravened any condition or restriction imposed by the Council under section 14C;
+
+(d) if he, being a person to whom section 32 applies, has contravened any regulation made under that section;
+
+(e) if he has obtained his registration fraudulently or by any incorrect statement;
+
+(f) if his degree for registration under this Act has been withdrawn or cancelled by the authority through which it was acquired or by which it was awarded;
+
+(g) if he has had his registration as a dentist in any other country withdrawn, suspended or cancelled by the authority which registered him;
+
+(h) if he has failed to serve the Government or such other body or organisation as directed by the Government for such period as may be specified in any undertaking given by him to the Government.
+
+[22/2007 wef 01/01/2008]
 
 (2) The Council shall, before exercising its powers under subsection (1), notify the registered dentist concerned of its intention to take such action and shall give the registered dentist an opportunity to submit reasons, within such period as the Council may determine, why his name should not be removed.
+
+(3) Any person aggrieved by an order under subsection (1) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
+
+Division 3 —
+
+Registration of oral health therapists
+
+### Persons entitled to be registered as oral health therapists
+
+21A\.—(1) Subject to the provisions of this Act, the following persons may apply to the Council to be registered as an oral health therapist under Part I of the Register of Oral Health Therapists:
+
+(a) a person who —
+
+(i) holds a diploma in dental hygiene and therapy from the Nanyang Polytechnic or any other certificate or diploma which, in the opinion of the Council, is of an equivalent standard and that has been awarded for successfully completing a course of dental training extending over a period of not less than 3 years; and
+
+(ii) after being registered under Part II of the Register of Oral Health Therapists, has obtained at least 5 years of practical experience in the area of oral health therapy whilst under the supervision of a registered dentist whose name appears in the first division of the Register of Dentists; and
+
+(b) a person who —
+
+(i) holds —
+
+(A) a certificate of dental therapy from the Ministry of Health or the Board or any other certificate or diploma which, in the opinion of the Council, is of an equivalent standard and that has been awarded for successfully completing a course of dental training extending over a period of not less than 3 years; or
+
+(B) a qualification in dental hygiene that is approved by the Council;
+
+(ii) has sat for and passed such examinations as may be prescribed by the Council; and
+
+(iii) after being registered under Part II of the Register of Oral Health Therapists, has obtained at least 5 years of practical experience in the area of oral health therapy whilst under the supervision of a registered dentist whose name appears in the first division of the Register of Dentists.
+
+(2) Subject to the provisions of this Act, the following persons may apply to the Council to be registered as an oral health therapist under Part II of the Register of Oral Health Therapists:
+
+(a) a person who holds a diploma in dental hygiene and therapy from the Nanyang Polytechnic or any other certificate or diploma which, in the opinion of the Council, is of an equivalent standard and that has been awarded for successfully completing a course of dental training extending over a period of not less than 3 years;
+
+(b) a person who holds a certificate of dental therapy from the Ministry of Health or the Board or any other certificate or diploma which, in the opinion of the Council, is of an equivalent standard and that has been awarded for successfully completing a course of dental training extending over a period of not less than 3 years; and
+
+(c) a person who holds a qualification in dental hygiene that is approved by the Council.
+
+(3) The registration of any person referred to in subsection (1) or (2) may be subject to such conditions as the Council may determine.
+
+(4) It is a condition of the registration of any person referred to in subsection (2) that he may only practise dentistry under the supervision of a registered dentist whose name appears in the first division of the Register of Dentists.
+
+(5) The Council may require any person referred to in subsection (2) to undergo and pass such examinations as may be prescribed by the Council to satisfy the Council that he has the knowledge and skill and has acquired the experience which is necessary for practice as a registered oral health therapist.
+
+(6) Subsection (4) shall not apply to —
+
+(a) any person who is in the public service or who is an officer of the Board practising dentistry in the course of his duties in the public service or as an officer of the Board; and
+
+(b) such other person as the Minister may, by order published in theGazette, specify.
+
+### Application for registration as oral health therapist
+
+21B\.—(1) Every application for registration as an oral health therapist shall be made in such form, and shall be accompanied by such document, photograph, particulars and fee, as may be prescribed by the Council.
+
+(2) Before registering an applicant, the Council may require the applicant to submit himself to a medical examination by a medical practitioner approved by the Council to determine whether the applicant is fit to practise dentistry.
+
+(3) The medical examination shall be at the applicant’s own expense.
+
+(4) Subject to subsection (5), where a person has complied with subsection (1) and any requirement of the Council referred to in subsection (2), the Council shall register him as an oral health therapist.
+
+(5) The Council may refuse to register any applicant who —
+
+(a) has had his registration as an oral health therapist in any other country withdrawn, suspended or cancelled; or
+
+(b) in the opinion of the Council —
+
+(i) is not a person entitled to be registered as an oral health therapist under section 21A;
+
+(ii) is not of good reputation and character; or
+
+(iii) is unfit to practise dentistry by reason of his physical or mental condition.
+
+(6) Where the Council refuses to register an applicant, the Council shall by notice in writing inform the applicant of the refusal.
+
+(7) Any person who is aggrieved by any refusal of the Council under subsection (5) may, within one month of the notice given under subsection (6), appeal to the Minister whose decision shall be final.
+
+(8) For the purposes of subsection (1), the Council may prescribe different fees for different classes of applicants.
+
+### Oral Health Therapists Accreditation Committee
+
+21C\.—(1) The Council shall appoint a committee of persons, to be known as the Oral Health Therapists Accreditation Committee —
+
+(a) to determine the qualifications, experience and other conditions for registration as oral health therapists under this Act;
+
+(b) to make recommendations to the appropriate authorities on the courses of instructions and examinations leading to any qualification as oral health therapists under section 21A(1) and (2);
+
+(c) to accredit the training programmes to be recognised for persons who intend to qualify for registration as oral health therapists under this Act; and
+
+(d) to recommend to the Council programmes for the continuing professional education of persons who are registered as oral health therapists under this Act.
+
+(2) The Oral Health Therapists Accreditation Committee shall consist of —
+
+(a) the chairman, who shall be the Chief Dental Officer;
+
+(b) one member of the academic staff of the dental hygiene and therapy course offered by the Nanyang Polytechnic;
+
+(c) not more than 2 dentists whose names appear in the first division of the Register of Dentists; and
+
+(d) not less than 3 and not more than 5 registered oral health therapists, one of whom shall be a member of the Council.
+
+(3) The members of the Oral Health Therapists Accreditation Committee referred to in subsection (2)(c) and (d) shall be appointed for a term not exceeding 3 years each but may from time to time be reappointed and may at any time be removed from office by the Council.
+
+(4) If any appointed member of the Oral Health Therapists Accreditation Committee dies, resigns or is removed from office, the vacancy so created shall as soon as practicable be filled in the manner in which the appointment to the vacant office was made; and every person so appointed shall hold office for the remainder of the term for which his predecessor was appointed.
+
+(5) The powers of the Oral Health Therapists Accreditation Committee shall not be affected by any vacancy in the membership thereof.
+
+(6) At any meeting of the Oral Health Therapists Accreditation Committee, 3 members shall form a quorum.
+
+(7) At any meeting of the Oral Health Therapists Accreditation Committee, the chairman shall preside and, in his absence, the members present shall elect one of themselves to preside at the meeting.
+
+(8) If on any question to be determined by the Oral Health Therapists Accreditation Committee there is an equality of votes, the chairman or the member presiding at the meeting shall have a casting vote.
+
+(9) Subject to the provisions of this Act, the Oral Health Therapists Accreditation Committee may determine its own procedure.
+
+### Certificate of registration of oral health therapist
+
+21D\. Where a person has been registered as an oral health therapist, the Council shall issue to him a certificate of registration, and the Council may require that there be affixed to the certificate a photograph of that person or such other evidence of identity as the Council may direct from time to time.
+
+### Practising certificate of oral health therapist
+
+21E\.—(1) Any registered oral health therapist who desires to obtain a practising certificate shall apply to the Council in such form and manner as the Council may prescribe.
+
+(2) The application shall be accompanied by the prescribed fee.
+
+(3) A practising certificate shall be granted for a period not exceeding 2 years from the date of issue of the practising certificate.
+
+(4) Any application for renewal of a practising certificate shall be made not later than one month before the expiration of the practising certificate and shall be made in such form as the Council may require.
+
+(5) Any registered oral health therapist who applies for a practising certificate later than one month before the expiration of the practising certificate shall be liable to pay to the Council such late application fee as may be prescribed by the Council.
+
+(6) The Council may —
+
+(a) refuse to grant a practising certificate to a registered oral health therapist; or
+
+(b) refuse to renew the practising certificate of a registered oral health therapist,
+
+if the registered oral health therapist contravenes any condition that is imposed by the Council with the approval of the Minister for the purposes of this section.
+
+(7) Where a registered oral health therapist has had his name removed from the Register of Oral Health Therapists or his registration suspended under any provision of this Act, any practising certificate issued to him shall be deemed to be cancelled and the registered oral health therapist shall immediately surrender the certificate to the Council.
+
+(8) Any person who fails to comply with subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+(9) For the purposes of subsection (5), the Council may prescribe different late application fees for applications made before, and applications made after, the expiration of the practising certificates.
+
+### Certificate of Registrar in relation to oral health therapists
+
+21F\. A certificate purporting to be under the hand of the Registrar to the effect that at any time or during any period specified in the certificate —
+
+(a) any person was or was not a registered oral health therapist, or had or did not have in force a practising certificate; or
+
+(b) as to any entry in the Register of Oral Health Therapists, or the removal from that Register of any entry,
+
+shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
+
+### Correction of Register of Oral Health Therapists
+
+21G\.—(1) The Registrar shall —
+
+(a) insert in the Register of Oral Health Therapists any alteration which may come to his knowledge in the name or address of any registered oral health therapist;
+
+(b) correct any error in any entry in the Register of Oral Health Therapists;
+
+(c) remove from the Register of Oral Health Therapists the name of any person —
+
+(i) whose name is ordered to be removed under any provision of this Act; or
+
+(ii) who is deceased;
+
+(d) insert in the Register of Oral Health Therapists any alteration in the qualifications or additional qualifications of a registered oral health therapist; and
+
+(e) remove from the Register of Oral Health Therapists the name of any person who has requested and shown sufficient reason for his name to be removed from that Register, unless a complaint has been made, or an inquiry has, or investigations or proceedings have, commenced under Part V against that person.
+
+(2) The Registrar may remove from the Register of Oral Health Therapists the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 years.
+
+### Removal of name from Register of Oral Health Therapists
+
+21H\.—(1) Notwithstanding the provisions of Part V, the Council may order the removal from the Register of Oral Health Therapists of the name of a registered oral health therapist if it comes to the knowledge of the Council that the registered oral health therapist —
+
+(a) has contravened any condition or restriction to which his registration as an oral health therapist is subject;
+
+(b) has obtained his registration by a fraudulent or an incorrect statement;
+
+(c) has had his qualification for registration under this Act withdrawn or cancelled by the authority through which it was acquired or by which it was awarded; or
+
+(d) has had his registration as an oral health therapist in any other country withdrawn, suspended or cancelled by the authority which registered him.
+
+(2) The Council shall, before exercising its powers under subsection (1), notify the registered oral health therapist concerned of its intention to take such action and shall give the registered oral health therapist an opportunity to submit reasons, within such period as the Council may determine, why his name should not be removed.
 
 (3) Any person aggrieved by an order under subsection (1) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
 
@@ -552,9 +966,13 @@ Registration of dentists
 
 PRACTICE OF DENTISTRY
 
-### Prohibition of practice of dentistry except by registered dentist with practising certificate
+### Prohibition of practice of dentistry
 
-22\.—(1) Subject to sections 59 to 61, no person shall practise dentistry in Singapore unless he is a registered dentist and has a practising certificate in force.
+22\.—(1) Subject to sections 60 and 61, no person shall practise dentistry in Singapore unless he is a registered dentist and has a practising certificate in force.
+
+(1A) Subsection (1) shall not apply to any registered oral health therapist who has in force a practising certificate and who practises dentistry in Singapore in accordance with the scope of practice prescribed under section 62.
+
+[22/2007 wef 01/01/2008]
 
 (2) Any person who acts in contravention of subsection (1) shall be guilty of an offence.
 
@@ -564,11 +982,11 @@ PRACTICE OF DENTISTRY
 
 (2) It shall be a defence to a charge brought under subsection (1) if the defendant proves that the first-mentioned offence was committed without the defendant’s knowledge and that the defendant took reasonable precautions and exercised due diligence to prevent the commission of that offence.
 
-### Liability of registered dentist for allowing another to act in contravention of section 22, etc.
+### Liability of registered dentist or registered oral health therapist for allowing another to act in contravention of section 22, etc.
 
-24\.—(1) A registered dentist who allows a person to practise dentistry in contravention of section 22 on any premises used by or under the control of that registered dentist shall be guilty of an offence.
+24\.—(1) A registered dentist or registered oral health therapist who allows a person to practise dentistry in contravention of section 22 on any premises used by or under the control of that registered dentist or registered oral health therapist shall be guilty of an offence.
 
-(2) A registered dentist who, by his presence, countenance, advice, assistance or co-operation has knowingly enabled a person, whether described as an assistant or otherwise, to practise dentistry in contravention of section 22 shall be guilty of an offence.
+(2) A registered dentist or registered oral health therapist who, by his presence, countenance, advice, assistance or co-operation has knowingly enabled a person, whether described as an assistant or otherwise, to practise dentistry in contravention of section 22 shall be guilty of an offence.
 
 (3) In any proceedings for an offence under subsection (1) or (2), it shall be a defence for the defendant to prove that —
 
@@ -576,27 +994,31 @@ PRACTICE OF DENTISTRY
 
 (b) he took all reasonable precautions and exercised due diligence to prevent the commission of the offence.
 
-(4) A registered dentist who practises dentistry on any premises on which any person practises dentistry in contravention of section 22, knowing or having reason to believe that that person was practising dentistry on those premises in contravention of section 22, shall be guilty of an offence.
+(4) A registered dentist or registered oral health therapist who practises dentistry on any premises on which any person practises dentistry in contravention of section 22, knowing or having reason to believe that that person was practising dentistry on those premises in contravention of section 22, shall be guilty of an offence.
 
 ### Suspended persons not to practise dentistry during period of suspension
 
-25\.—(1) Any person whose registration as a dentist under this Act has been suspended under section 44 or 49 shall not practise dentistry during the period of his suspension.
+25\.—(1) Any person whose registration as a dentist or an oral health therapist under this Act has been suspended under section 40 or 49 shall not practise dentistry during the period of his suspension.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-### Pretending to be or taking or using the name or title of dentist
+### Pretending to be or taking or using the name or title of dentist, etc.
 
 26\.—(1) No person other than a registered dentist who has in force a practising certificate shall take or use the title of dentist, dental surgeon, registered dentist, qualified dentist, doctor of dental surgery, professor of dentistry, surgeon dentist, any prescribed title under section 31(5) or any name, title, addition or description implying, whether in itself or in the circumstances in which it is used, that that person is qualified to heal or treat dental disorders or derangement, whether by dentistry or any other means of any kind or description whatsoever.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+(1A) No person other than a registered oral health therapist who has in force a practising certificate shall take or use the title of oral health therapist or any name, title, addition or description implying, whether in itself or in the circumstances in which it is used, that that person is qualified to heal or treat dental disorders or derangement, whether by dentistry or any other means of any kind or description whatsoever.
+
+[22/2007 wef 01/01/2008]
+
+(2) Any person who contravenes subsection (1) or (1A) shall be guilty of an offence.
 
 ### Fraudulent registration, etc.
 
 27\. Any person who —
 
-(a) procures or attempts to procure registration as a dentist under this Act, a certificate of registration or a practising certificate, by knowingly making or producing or causing to be made or produced any false or fraudulent declaration, certificate, application or representation, whether in writing or otherwise;
+(a) procures or attempts to procure registration as a dentist or an oral health therapist under this Act, a certificate of registration or a practising certificate, by knowingly making or producing or causing to be made or produced any false or fraudulent declaration, certificate, application or representation, whether in writing or otherwise;
 
-(b) wilfully makes or causes to be made any false entry in the register ;
+(b) wilfully makes or causes to be made any false entry in the appropriate register;
 
 (c) forges or alters a certificate of registration or a practising certificate;
 
@@ -612,31 +1034,35 @@ shall be guilty of an offence.
 
 ### Recovery of fees
 
-29\.—(1) Subject to the provisions of this Act, no person shall be entitled to demand, claim, accept, receive, retain or sue for or recover any fee or charge in any court for the carrying out of any act within the practice of dentistry unless, at the time of carrying out the act, he was registered as a dentist under this Act and had a practising certificate in force.
+29\.—(1) Subject to the provisions of this Act, no person shall be entitled to demand, claim, accept, receive, retain or sue for or recover any fee or charge in any court for the carrying out of any act within the practice of dentistry unless, at the time of carrying out the act, he was registered as a dentist or an oral health therapist under this Act and had a practising certificate in force.
 
 (2) This section does not apply to any medical practitioner registered under the Medical Registration Act (Cap. 174).
 
-### Certificate of registration and practising certificate to be exhibited
+### Evidence of qualification and entry of additional qualifications
 
-30\.—(1) Every registered dentist who practises dentistry shall cause his certificate of registration and his practising certificate to be exhibited in a conspicuous part of the premises on which he practises dentistry.
+30\.—(1) No qualification shall be entered in an appropriate register unless the Registrar is satisfied by such evidence as he may consider proper that the person claiming the qualification is entitled thereto.
 
-(2) Any registered dentist who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+(2) Every person registered under this Act, who obtains any qualification in addition to the qualification by virtue of which he has been registered, may apply to the Council to have that additional qualification inserted in the relevant register.
 
-(3) The Council may, by notification in theGazette, exempt any person or group or description of persons from this section.
+(3) The Council shall have power to decide on the additional qualifications which may be entered in an appropriate register.
+
+[22/2007 wef 01/01/2008]
 
 ### Use of qualification and title
 
-31\.—(1) A registered dentist shall not use any qualification other than the qualifications which are entered in the register in respect of him, or which have been approved by the Council for his use.
+31\.—(1) A registered dentist or registered oral health therapist shall not use any qualification other than the qualifications which are entered in the Register of Dentists in respect of him, or which have been approved by the Council for his use.
 
-(2) A registered dentist whose name appears in the first division of the register shall not use any title, addition or designation other than —
+(2) A registered dentist whose name appears in the first division of the Register of Dentists shall not use any title, addition or designation other than —
 
 (a) the title, addition or designation which has been approved by the Council for his use; or
 
 (b) if his name has been entered in a list referred to in subsection (6) in respect of a title prescribed under subsection (5), the prescribed title.
 
-(3) A registered dentist whose name appears in the second division of the register shall not use any title, addition or designation other than that of “registered dentist”, “dentist” or, if his name has been entered in a list referred to in subsection (6) in respect of a title prescribed under subsection (5), the prescribed title.
+(3) A registered dentist whose name appears in the second division of the Register of Dentists shall not use any title, addition or designation other than that of “registered dentist”, “dentist” or, if his name has been entered in a list referred to in subsection (6) in respect of a title prescribed under subsection (5), the prescribed title.
 
-(4) Any registered dentist who contravenes subsection (1), (2) or (3) may be subject to disciplinary proceedings under Part V, and such contravention shall be deemed to be an act which brings disrepute to the profession of a registered dentist for the purposes of that Part.
+(4) Any registered dentist or registered oral health therapist who contravenes subsection (1), (2) or (3) may be subject to disciplinary proceedings under Part V and for the purposes of that Part, such contravention shall be deemed to be an act which brings disrepute to the profession of a registered dentist or registered oral health therapist, as the case may be.
+
+[22/2007 wef 01/01/2008]
 
 (5) If the Council is of the opinion that any branch of dentistry has become so distinctive that it would be for the convenience of the public or of the dental profession that registered dentists qualified to practise, or practising, in that branch of dentistry should use a distinctive title, the Council may, with the approval of the Minister, make regulations to prescribe appropriate titles and conditions under which they may be used.
 
@@ -648,6 +1074,18 @@ shall be guilty of an offence.
 
 (7) For the purposes of this section, “use”, in relation to any qualification, title, addition or designation, includes to exhibit or publish the qualification, title, addition or designation in any card, letter, stationery, nameplate, signboard, placard, circular, handbill or any notice displayed by the registered dentist concerned at any premises used by him for the practice of dentistry.
 
+### False assumption of title of specialist
+
+31A\.—(1) A registered dentist who is not registered under section 14C as a specialist in a branch of dentistry shall not —
+
+(a) practise dentistry or that branch of dentistry under the style or title of a specialist in that branch of dentistry, or under any name, title, addition or description implying that he is such a specialist or has any degree, qualification or experience in that branch of dentistry; or
+
+(b) advertise or hold himself out as a specialist in that branch of dentistry.
+
+(2) A registered dentist who contravenes subsection (1) may be subject to disciplinary proceedings under this Act.
+
+[22/2007 wef 01/01/2008]
+
 ### Certain registered dentists not to perform prescribed procedures
 
 32\.—(1) The Council may, with the approval of the Minister, make regulations prohibiting a person to whom this section applies from performing such procedures within the practice of dentistry as are prescribed by those regulations.
@@ -658,6 +1096,54 @@ shall be guilty of an offence.
 
 (b) he is the holder of a provisional certificate referred to in section 13 of the repealed Act which is in force immediately before 15th October 1999.
 
+## PART IVA
+
+DENTAL SPECIALISTS ACCREDITATION BOARD
+
+[22/2007 wef 01/01/2008]
+
+### Establishment of Dental Specialists Accreditation Board
+
+32A\.—(1) There shall be a board to be known as the Dental Specialists Accreditation Board (referred to in this Part as the Accreditation Board) consisting of not less than 8 registered dentists to be appointed by the Minister.
+
+(2) The chairman of the Accreditation Board shall be appointed by the Minister from among its members.
+
+(3) The chairman and members of the Accreditation Board shall be appointed for a term not exceeding 3 years but may from time to time be reappointed and may at any time be removed from office by the Minister.
+
+(4) If any member of the Accreditation Board dies, resigns or is removed from office, the Minister may fill the vacancy by the appointment of a registered dentist and every person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
+
+(5) The powers of the Accreditation Board shall not be affected by any vacancy in the membership thereof.
+
+(6) At any meeting of the Accreditation Board, 3 members shall form a quorum.
+
+(7) At any meeting of the Accreditation Board, the chairman shall preside and, in his absence, the members present shall elect one of their members to preside at the meeting.
+
+(8) If on any question to be determined by the Accreditation Board there is an equality of votes, the chairman or the member presiding at the meeting shall have a casting vote.
+
+(9) Subject to the provisions of this Act, the Accreditation Board may determine its own procedure.
+
+(10) The Accreditation Board may appoint one or more committees consisting of such members as it thinks fit to assist the Accreditation Board in carrying out its functions under this Act.
+
+### Functions of Accreditation Board
+
+32B\.—(1) The functions of the Accreditation Board shall be —
+
+(a) to determine the qualifications, experience and other conditions for registration as specialists under this Act;
+
+(b) to define specialties in dentistry for the purposes of maintaining and keeping the Register of Specialists;
+
+(c) to accredit the training programmes to be recognised for persons who intend to qualify for registration as specialists under this Act;
+
+(d) to certify persons who have the qualifications and experience and satisfy the other conditions for registration as specialists under this Act;
+
+(e) to recommend to the Council programmes for the continuing professional education of persons who are registered as specialists under this Act; and
+
+(f) to advise the Council on matters affecting or connected with the registration of specialists under this Act.
+
+(2) Any person who desires to be certified as a specialist may apply to the Accreditation Board.
+
+(3) Any person who is aggrieved by the refusal of the Accreditation Board to grant him a certificate as a specialist may, within one month of the notice of the refusal, appeal to the Minister whose decision shall be final.
+
 ## PART V
 
 DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
@@ -666,275 +1152,387 @@ Division 1 —
 
 Complaints Committee
 
-### Complaint against registered dentist
-
-33\.—(1) Any —
-
-(a) complaint made or information given to the Council of the conduct of a registered dentist in his professional capacity or of his improper act or conduct which brings disrepute to his profession;
-
-(b) information given to the Council on the conviction of a registered dentist of any offence involving fraud or dishonesty, or implying a defect in character which makes him unfit for his profession; or
-
-(c) information given to the Council touching upon the physical or mental fitness of a registered dentist to practise dentistry,
-
-shall be in writing and shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint or information is made or given by any public officer or officer of the Board.
-
-(2) The Council shall refer any complaint or information referred to in subsection (1), other than a complaint or information touching upon any matter set out in section 21(1)(a) to (e), to a Complaints Committee.
-
-(3) Where a registered dentist has been convicted in Singapore or elsewhere of an offence involving fraud or dishonesty, the Council shall, notwithstanding subsection (2), forthwith refer the matter to a Disciplinary Committee.
-
 ### Appointment of Complaints Panel
 
-34\.—(1) For the purpose of enabling Complaints Committees to be appointed in accordance with section 35, the Council shall appoint a panel (referred to in this Act as the Complaints Panel) consisting of —
+33\.—(1) For the purpose of enabling Complaints Committees and Disciplinary Committees to be constituted in accordance with this Part, the Council shall appoint a panel (referred to in this Act as the Complaints Panel) consisting of —
 
-(a) not less than 10 and not more than 20 registered dentists of at least 10 years’ standing who are not members of the Council; and
+(a) not less than 5 members of the Council;
 
-(b) not less than 5 and not more than 10 lay persons.
+(b) not less than 10 registered dentists of at least 10 years’ standing who are not members of the Council;
 
-(2) A member of the Complaints Panel shall be appointed for a term of 2 years and shall be eligible for reappointment.
+(c) not less than 5 registered oral health therapists who have at least 10 years of practical experience in the area of oral health therapy and who are not members of the Council; and
+
+(d) not less than 5 lay persons nominated by the Minister.
+
+(2) The term of office of a member of the Complaints Panel referred to in subsection (1)(a) shall expire at the end of his term of office as member of the Council, and a member of the Complaints Panel referred to in subsection (1)(b), (c) or (d) shall be appointed for a term of 2 years; and any member shall be eligible for reappointment.
 
 (3) The Council may at any time remove from office any member of the Complaints Panel or fill any vacancy in its membership.
 
-### Appointment of Complaints Committee
+(4) The Council shall appoint a member of the Complaints Panel who is a member of the Council to be the chairman of the Complaints Panel.
 
-35\.—(1) The President may from time to time appoint one or more committees comprising —
+[22/2007 wef 01/01/2008]
 
-(a) a chairman who is a member of the Council;
+### Complaints against registered dentists and registered oral health therapists
 
-(b) 2 members of the Complaints Panel who are registered dentists; and
+34\.—(1) Any —
+
+(a) complaint of the conduct of a registered dentist or registered oral health therapist in his professional capacity or of his improper act or conduct which brings disrepute to his profession;
+
+(b) information on the conviction of a registered dentist or registered oral health therapist of any offence implying a defect in character which makes him unfit for his profession; or
+
+(c) information touching upon the physical or mental fitness to practise of a registered dentist or registered oral health therapist,
+
+shall be made or given to the Council which shall refer the complaint or information, other than a complaint or information touching on the matters referred to in section 21 or 21H, to the chairman of the Complaints Panel.
+
+(2) The Council may, on its own motion, refer any information on the conviction of a registered dentist or registered oral health therapist of any offence implying a defect in character which makes him unfit for his profession to the chairman of the Complaints Panel.
+
+(3) Where a registered dentist or registered oral health therapist has contravened section 31 or 31A, or has been convicted in Singapore or elsewhere of an offence involving fraud or dishonesty, the Council shall, notwithstanding subsection (1) or (2), immediately refer the matter to a Disciplinary Committee under section 37.
+
+(4) Every complaint made or information given shall be in writing and shall be supported by such statutory declaration as the Council may require except that no statutory declaration shall be required if the complaint or information is made or given by any public officer.
+
+(5) The chairman of the Complaints Panel may from time to time appoint one or more committees (to be known for the purposes of this Act as Complaints Committees) consisting of —
+
+(a) a chairman, being a member of the Complaints Panel who is a member of the Council;
+
+(b) 2 members of the Complaints Panel comprising 2 registered dentists or one registered dentist and one registered oral health therapist; and
 
 (c) a member of the Complaints Panel who is a lay person,
 
-to be known as Complaints Committees, to inquire into any complaint or information referred to the Committees by the Council under section 33.
+which shall inquire into any complaint or information mentioned in subsection (1) or (2).
 
-(2) A Complaints Committee shall be appointed in connection with one or more matters or for a fixed period of time, as the President of the Council may think fit.
+(6) A Complaints Committee shall be appointed in connection with one or more matters or for such fixed period of time as the chairman of the Complaints Panel may think fit.
 
-(3) The President may at any time remove the chairman or any member of a Complaints Committee or fill any vacancy in a Complaints Committee.
+(7) Where any complaint or information mentioned in subsection (1)(a) or (b) or (2) is referred to the chairman of the Complaints Panel, the chairman of the Complaints Panel shall lay the complaint or information before a Complaints Committee.
 
-(4) No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the chairman or members or any of them.
+(8) Where any complaint or information mentioned in subsection (1)(c) is referred to the chairman of the Complaints Panel, the chairman of the Complaints Panel shall —
 
-(5) The chairman of a Complaints Committee shall, notwithstanding that he has ceased to be a member of the Council on the expiry of his term of office, continue to be the chairman of the Complaints Committee until such time as the Complaints Committee has completed its work.
+(a) if he is satisfied, based on any information given in support of the complaint or information, that a formal inquiry is necessary to determine the physical or mental fitness of the registered dentist or registered oral health therapist to practise, refer the complaint or information to the Health Committee; or
 
-(6) A member of a Complaints Committee shall, notwithstanding that he has ceased to be a member of the Complaints Panel on the expiry of his term of office, continue to be a member of the Complaints Committee until such time as the Complaints Committee has completed its work.
+(b) in any other case, lay the complaint or information before a Complaints Committee.
 
-### Proceedings of Complaints Committee
+(9) The chairman of the Complaints Panel may at any time revoke the appointment of any Complaints Committee or may remove any member of a Complaints Committee or fill any vacancy in a Complaints Committee.
 
-36\.—(1) A Complaints Committee may meet from time to time for the purposes of its inquiry and may regulate its own procedure.
+(10) No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
 
-(2) The chairman of a Complaints Committee may at any time summon a meeting of the Complaints Committee.
+(11) All the members of a Complaints Committee shall be present to constitute a quorum for a meeting of the Complaints Committee and any resolution or decision in writing signed by all the members of a Complaints Committee shall be as valid and effectual as if it had been made or reached at a meeting of the Complaints Committee where all its members were present.
 
-(3) The chairman and all the members of a Complaints Committee shall be present to constitute a quorum for a meeting of the Complaints Committee.
+(12) A Complaints Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members may think fit.
 
-(4) Any resolution or decision in writing signed by the chairman and all the members of a Complaints Committee shall be as valid and effectual as if it had been made or reached at a meeting of the Complaints Committee where the chairman and all its members were present.
+(13) The chairman of a Complaints Committee may at any time summon a meeting of the Complaints Committee.
 
-(5) Any question arising at a meeting of the Complaints Committee shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
+(14) All members of a Complaints Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
 
-(6) Where a Complaints Committee is of the opinion that a registered dentist should be called upon to answer any allegation made against him, the Complaints Committee shall serve on the registered dentist —
+(15) A member of a Complaints Committee shall, notwithstanding that he has ceased to be a member of the Complaints Panel on the expiry of his term of office, be deemed to be a member of the Complaints Panel until such time as the Complaints Committee has completed its work.
 
-(a) copies of any complaint or information and any statutory declaration or affidavit that have been made in support of the complaint or information; and
+[22/2007 wef 01/01/2008]
 
-(b) a notice inviting the registered dentist, within such period (not being less than 21 days) as may be specified in the notice, to give to the Complaints Committee any written explanation he may wish to offer.
+### Inquiry by Complaints Committee
 
-(7) The registered dentist concerned shall not have the right to be heard by the Complaints Committee, whether in person or by counsel, unless the Complaints Committee in its absolute discretion otherwise allows.
+35\.—(1) A Complaints Committee shall inquire into any complaint or information, or any information or evidence referred to in subsection (9), and complete its preliminary inquiry not later than 3 months from —
 
-(8) A Complaints Committee shall inquire into the complaint or information and complete its inquiry not later than 3 months from the date the complaint or information is laid before it.
+(a) the date the complaint or information is laid before the Complaints Committee; or
 
-(9) Where a Complaints Committee is of the opinion that it will not be able to complete its inquiry within the period specified in subsection (8) due to the complexity of the matter or serious difficulties encountered by the Committee in conducting its inquiry, the Committee may apply in writing to the President for an extension of time to complete its inquiry and the President may grant such extension of time to the Committee as he thinks fit.
+(b) the date the information or evidence referred to in subsection (9) is received by the Complaints Committee,
 
-(10) All information, including such book, document, paper or other records used by a Complaints Committee in the course of its deliberations, shall be confidential and shall not be disclosed to any person including the registered dentist unless the Complaints Committee in its discretion decides otherwise.
+as the case may be.
 
-### Powers of Complaints Committee
+(2) Where a Complaints Committee is of the opinion that it will not be able to complete its preliminary inquiry within the period specified in subsection (1) due to the complexity of the matter or serious difficulties encountered by the Complaints Committee in conducting its preliminary inquiry, the Complaints Committee may apply in writing to the chairman of the Complaints Panel for an extension of time to complete its inquiry and the chairman of the Complaints Panel may grant such extension of time to the Complaints Committee as he thinks fit.
 
-37\.—(1) For the purposes of any inquiry, a Complaints Committee may —
+(3) For the purposes of any inquiry, a Complaints Committee may —
 
-(a) call upon or appoint any person the Committee considers necessary to assist it in its inquiry;
+(a) call upon or appoint any person it considers necessary to assist it in its investigations and deliberations;
 
-(b) require any person to produce any book, document, paper or other record which may be related to or be connected with the subject-matter of the inquiry for inspection by the Complaints Committee or the person appointed under paragraph (a) and for making copies thereof; and
+(b) require the production of any book, document, paper or other record which may be related to or be connected with the subject-matter of the inquiry for inspection by the Complaints Committee or the person appointed under paragraph (a) and for making copies thereof; and
 
-(c) require any person to attend at a specified time and place and give evidence or produce any such book, document, paper or record.
+(c) require the registered dentist or registered oral health therapist concerned to give all information in relation to any such book, document, paper or other record which may be reasonably required by the Complaints Committee or by the person so appointed.
 
-(2) Any person who, without lawful excuse, refuses or fails to comply with any requirement of the Complaints Committee under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(4) If any registered dentist, registered oral health therapist, or any other person who without lawful excuse —
 
-(3) A Complaints Committee may seek such legal advice as it thinks necessary at any time before it makes its findings.
+(a) refuses or fails to produce to a Complaints Committee or to any person to whom the Complaints Committee may appoint for the purpose of the inquiry any book, document, paper or other record referred to in subsection (3); or
+
+(b) fails to give any such information relating thereto,
+
+he shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+(5) All such information, including such book, document, paper or other record used by the Complaints Committee in the course of its deliberations, shall be confidential and shall not be disclosed to any person including the registered dentist or registered oral health therapist unless the Complaints Committee in its discretion thinks otherwise.
+
+(6) The Complaints Committee may, at any time before it makes its findings, seek such legal advice as it thinks necessary.
+
+(7) Where a Complaints Committee is of the opinion that a registered dentist or registered oral health therapist should be called upon to answer any allegation made against him, the Complaints Committee shall post or deliver to that registered dentist or registered oral health therapist —
+
+(a) copies of any complaint or information and of any statutory declaration or affidavit that have been made in support of the complaint or information; and
+
+(b) a notice inviting that registered dentist or registered oral health therapist to give to the Complaints Committee, within such period (not being less than 21 days) as may be specified in the notice, any written explanation he may wish to offer.
+
+(8) The registered dentist or registered oral health therapist concerned shall not have the right to be heard by the Complaints Committee, whether in person or by counsel, unless the Complaints Committee in its absolute discretion otherwise allows.
+
+(9) Where, in the course of its inquiry, a Complaints Committee receives information touching on or evidence of the conduct or physical or mental fitness of the registered dentist or registered oral health therapist concerned which may give rise to proceedings under this Part, the Complaints Committee may, after giving notice to him, decide on its own motion to inquire into that matter.
+
+(10) Where the complainant withdraws his complaint before —
+
+(a) it is referred to a Complaints Committee or the Health Committee under this Part; or
+
+(b) the conclusion of the inquiry of a Complaints Committee or Disciplinary Committee before which it is laid, or of the Health Committee,
+
+the Council may, notwithstanding such withdrawal, direct that an inquiry be conducted into the complaint or the inquiry into the complaint be continued, and the chairman of the Complaints Panel, the Complaints Committee, the Disciplinary Committee or the Health Committee, as the case may be, shall comply with such direction as if the complaint had been made by the Council.
+
+(11) Any member of the Council who is employed in the Ministry of Health shall not be disqualified from being a member of a Complaints Committee or Disciplinary Committee or the Health Committee by reason only that he or the complainant is so employed.
+
+[22/2007 wef 01/01/2008]
 
 ### Findings of Complaints Committee
 
-38\. Upon due inquiry into the complaint or matter, a Complaints Committee shall report its findings to the Council and recommend to the Council to do any of the following:
+36\.—(1) Upon due inquiry into the complaint or information, or any information or evidence referred to in section 35(9), a Complaints Committee shall —
 
-(a) order that the registered dentist be issued with a letter of advice;
+(a) if it is of the view that no formal inquiry is necessary —
 
-(b) order that the registered dentist be warned;
+(i) order that the registered dentist or registered oral health therapist be issued with a letter of advice;
 
-(c) order that the complaint or matter be dismissed;
+(ii) order that the registered dentist or registered oral health therapist be warned;
 
-(d) order that an inquiry be held by the Health Committee;
+(iii) order that the complaint or matter be dismissed; or
 
-(e) order that an inquiry be held by a Disciplinary Committee;
+(iv) make such other order as it thinks fit; or
 
-(f) make such other order as the Complaints Committee considers appropriate.
+(b) if it is of the view that a formal inquiry is necessary —
 
-### Decision of Council
+(i) order that an inquiry be held by the Health Committee; or
 
-39\.—(1) Upon receipt of the findings and recommendation of a Complaints Committee, the Council may either —
+(ii) order that an inquiry be held by a Disciplinary Committee.
 
-(a) accept the recommendation and make the recommended order;
+(2) Where a Complaints Committee determines that a formal inquiry is necessary, it shall order that the inquiry be held by the Health Committee if the complaint, information or evidence touches upon the physical or mental fitness of the registered dentist or registered oral health therapist to practise.
 
-(b) refer the matter back to the Complaints Committee for further inquiry; or
+(3) Where a Complaints Committee has made an order for a formal inquiry to be held by a Disciplinary Committee, the Council shall immediately appoint a Disciplinary Committee which shall hear and investigate the complaint or matter.
 
-(c) make such other order as the Council thinks fit.
+(4) Where a Complaints Committee has ordered that a letter of advice be issued, the chairman of the Complaints Committee shall issue a letter of advice in such terms as it thinks fit.
 
-(2) The Council shall notify the registered dentist concerned and the person who made the complaint or gave the information, if any, of its decision.
+(5) A Complaints Committee shall notify the registered dentist or registered oral health therapist concerned and the person who made the complaint or gave the information under section 34(1) of its decision under subsection (1) and, if it makes an order under subsection (1)(a), the reason for making the order.
 
-(3) A registered dentist who is aggrieved by any order of the Council, being an order referred to in subsection (1)(c) or section 38(a), (b) or (f), may, within 30 days of being notified of the determination of the Council, appeal to the Minister whose decision shall be final.
+(6) Any registered dentist or registered oral health therapist who is aggrieved by any order of a Complaints Committee under subsection (1)(a) may, within 30 days of being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
 
-(4) Where the person who made the complaint or gave the information to the Council is dissatisfied with any order of the Council, being an order referred to in subsection (1)(c) or section 38(a), (b), (c) or (f), he may, within 30 days of being notified of the determination of the Council, appeal to the Minister whose decision shall be final.
+(7) Where the person who has made the complaint or given the information to the Council is dissatisfied with any order of a Complaints Committee under subsection (1)(a), he may, within 30 days of being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
 
-(5) The Minister may make —
+(8) The Minister may make —
 
-(a) an order affirming the decision of the Council;
+(a) an order affirming the determination of a Complaints Committee;
 
-(b) an order directing an inquiry to be held by a Disciplinary Committee or by the Health Committee; or
+(b) an order directing the Council to immediately appoint a Disciplinary Committee to hear and investigate the complaint or matter;
 
-(c) such other order as he thinks fit.
+(c) an order directing that an inquiry into the matter be held by the Health Committee; or
+
+(d) such other order as he thinks fit.
+
+(9) Every Complaints Committee shall immediately report to the Council its findings and the order or orders made.
+
+[22/2007 wef 01/01/2008]
+
+### Appointment of Disciplinary Committee
+
+37\.—(1) The President may, from time to time, appoint one or more committees consisting of —
+
+(a) a chairman from a panel, to be appointed by the Minister, comprising fully registered dentists whose names appear in the first division of the Register of Dentists and who have had not less than 20 years’ experience in the practice of dentistry;
+
+(b) not less than one member of the Council;
+
+(c) not less than one member of the Complaints Panel, not being a member of the Council; and
+
+(d) an observer who is a lay person,
+
+to be known as Disciplinary Committees, to inquire into —
+
+(i) any complaint or matter in respect of which the Minister or a Complaints Committee has under section 36 ordered that an inquiry be held by a Disciplinary Committee; or
+
+(ii) any matter referred to it under section 34(3).
+
+(2) A member of a Complaints Committee inquiring into any matter concerning a registered dentist or registered oral health therapist shall not be a member of a Disciplinary Committee inquiring into the same matter.
+
+(3) The member of a Disciplinary Committee who is an observer shall not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee.
+
+(4) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time as the Council may think fit.
+
+(5) The Council may at any time revoke the appointment of any Disciplinary Committee or may remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
+
+(6) No act done by or under the authority of a Disciplinary Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
+
+(7) Except as provided by subsection (3) —
+
+(a) all members of a Disciplinary Committee shall be personally present to constitute a quorum for the transaction of any business; and
+
+(b) all members of a Disciplinary Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
+
+[22/2007 wef 01/01/2008]
+
+### Proceedings of Disciplinary Committee
+
+38\.—(1) A Disciplinary Committee shall meet from time to time to inquire into any matter referred to it by the Council and may regulate its own procedure.
+
+(2) A member of a Disciplinary Committee shall, notwithstanding that he has ceased to be a member of the Council or Complaints Panel on the expiry of his term of office, continue to be a member of the Disciplinary Committee until such time the Disciplinary Committee has completed its work.
+
+(3) The registered dentist or registered oral health therapist may appear in person or be represented by counsel.
+
+(4) A Disciplinary Committee shall not be bound to act in any formal manner and shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other written law relating to evidence but may inform itself on any matter in such manner as it thinks fit.
+
+(5) A Disciplinary Committee may, for the purpose of any proceedings before it, administer oaths and any party to the proceedings may sue out subpoenas to testify and to produce documents.
+
+(6) The subpoenas referred to in subsection (5) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
+
+(7) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
+
+(8) Witnesses shall have the same privileges and immunities in relation to hearings before a Disciplinary Committee as if they were proceedings in a court of law.
+
+(9) A Disciplinary Committee shall carry out its work expeditiously and may apply to the Council for an extension of time and for directions to be given to the Disciplinary Committee if the Disciplinary Committee fails to make its finding and order within 6 months from the date of its appointment.
+
+(10) When an application for extension of time has been made under subsection (9), the Council may grant an extension of time for such period as it thinks fit.
+
+(11) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Committee taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include any such investigation.
+
+[22/2007 wef 01/01/2008]
+
+### Reference and transfer of cases to Health Committee
+
+39\.—(1) Where, in the course of inquiring into the case of a registered dentist or registered oral health therapist, it appears to a Disciplinary Committee that his fitness to practise may be impaired by reason of his physical or mental condition, the Disciplinary Committee may refer that question to the Health Committee for determination.
+
+(2) If, on a reference under this section, the Health Committee determines that the fitness of the registered dentist or registered oral health therapist to practise is not impaired by reason of his condition, the Health Committee shall certify its opinion to the Disciplinary Committee.
+
+(3) If, on a reference under this section, the Health Committee determines that the fitness of the registered dentist or registered oral health therapist to practise is impaired by reason of his condition, the Health Committee shall —
+
+(a) certify its opinion to the Disciplinary Committee; and
+
+(b) proceed to dispose of the case,
+
+and the Disciplinary Committee shall cease to exercise its function in relation to the case.
+
+[22/2007 wef 01/01/2008]
 
 Division 2 —
 
 Disciplinary Committee
 
-### Appointment of Disciplinary Committee
-
-40\.—(1) The President may, from time to time, appoint one or more committees comprising not less than 4 members of the Council to be known as Disciplinary Committees to inquire into —
-
-(a) any complaint or matter in respect of which the Minister or the Council has under section 39 ordered that an inquiry be held by a Disciplinary Committee; or
-
-(b) any matter referred to it under section 33(3).
-
-(2) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time, as the President may think fit.
-
-(3) The chairman or a member of a Complaints Committee which inquired into a complaint or matter shall not be a member of a Disciplinary Committee inquiring into the same complaint or matter.
-
-(4) The President shall appoint a member of a Disciplinary Committee to be the chairman of the Disciplinary Committee.
-
-(5) The President may at any time revoke the appointment of any Disciplinary Committee or may remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
-
-(6) No act done by or under the authority of a Disciplinary Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
-
-(7) A member of a Disciplinary Committee shall, notwithstanding that he has ceased to be a member of the Council on the expiry of his term of office, continue to be a member of the Disciplinary Committee until such time the Disciplinary Committee has completed its work.
-
-### Observer
-
-41\.—(1) The Council shall appoint an observer from a panel of lay persons nominated by the Minister to observe the proceedings of a Disciplinary Committee.
-
-(2) The observer shall not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee.
-
-### Registered dentist to be notified of inquiry
-
-42\.—(1) Before a Disciplinary Committee commences an inquiry into any complaint or matter referred to it, the Registrar shall serve on the registered dentist concerned a notice of inquiry in the prescribed form.
-
-(2) An inquiry shall not be fixed on a date earlier than 28 days after the date of the notice of inquiry except with the agreement of the registered dentist.
-
-(3) On application to the Disciplinary Committee, the registered dentist may request postponement of the inquiry, and the Disciplinary Committee may, in its discretion, grant the application and postpone the inquiry to such date as it may determine, or refuse the application.
-
-### Procedure of Disciplinary Committee
-
-43\.—(1) A Disciplinary Committee shall meet at such times and places as its chairman may appoint.
-
-(2) All the members of a Disciplinary Committee shall be personally present to constitute a quorum for a meeting of the Disciplinary Committee.
-
-(3) All members of a Disciplinary Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
-
-(4) A Disciplinary Committee shall not be bound to act in any formal manner and shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other written law relating to evidence, but may inform itself on any matter in such manner as it thinks fit.
-
-(5) A Disciplinary Committee may appoint an advocate and solicitor for the purpose of an inquiry and pay to the advocate and solicitor, as part of the expenses of the Council, such remuneration as the Council may determine.
-
-(6) The registered dentist concerned may appear in an inquiry in person or be represented by counsel.
-
-(7) If the registered dentist does not appear, the Disciplinary Committee may proceed with the inquiry after first satisfying itself that the notice of inquiry referred to in section 42 was duly served on him.
-
-(8) A Disciplinary Committee may, for the purposes of its inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out subpoenas to testify or to produce documents.
-
-(9) The subpoenas referred to in subsection (8) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
-
-(10) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
-
-(11) Persons giving evidence in an inquiry shall have the same privileges and immunities in relation to an inquiry as if it was a proceeding in a court of law.
-
-(12) The hearing of an inquiry shall be in camera.
-
-(13) A Disciplinary Committee shall carry out its work expeditiously and may apply to the Council for an extension of time and for directions to be given to the Disciplinary Committee if the Disciplinary Committee fails to make its finding and order within 6 months from the date of its appointment.
-
-(14) When an application for an extension of time has been made under subsection (13), the Council may grant an extension of time for such period as it thinks fit.
-
-(15) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Committee holding an inquiry, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include such an inquiry.
-
 ### Findings of Disciplinary Committee
 
-44\.—(1) Where, upon due inquiry into a complaint or matter, a Disciplinary Committee is satisfied that the registered dentist concerned —
+40\.—(1) Where a registered dentist or registered oral health therapist is found or judged by a Disciplinary Committee —
 
-(a) has been convicted in Singapore or elsewhere of any offence involving fraud or dishonesty;
+(a) to have been convicted in Singapore or elsewhere of any offence involving fraud or dishonesty;
 
-(b) has been convicted in Singapore or elsewhere of any offence implying a defect in character which makes him unfit for his profession;
+(b) to have been convicted in Singapore or elsewhere of any offence implying a defect in character which makes him unfit for his profession;
 
-(c) has been guilty of such improper act or conduct which, in the opinion of the Disciplinary Committee, brings disrepute to his profession; or
+(c) to have been guilty of such improper act or conduct which, in the opinion of the Disciplinary Committee, brings disrepute to his profession;
 
-(d) has been guilty of professional misconduct,
+(d) to have been guilty of professional misconduct; or
 
-the Disciplinary Committee may —
+(e) to have contravened section 31 or 31A,
 
-(i) direct the Registrar to remove the name of the registered dentist from the register;
+the Disciplinary Committee may exercise one or more of the powers referred to in subsection (2).
 
-(ii) suspend the registration of the registered dentist for a period of not more than 3 years;
+(2) The powers referred to in subsection (1) are as follows:
 
-(iii) impose on the registered dentist a penalty not exceeding $5,000;
+(a) by order direct the Registrar to remove the name of the registered dentist or registered oral health therapist concerned from the appropriate register;
 
-(iv) censure the registered dentist; or
+(b) by order suspend the registration of the registered dentist or registered oral health therapist concerned for a period of not less than 3 months and not more than 3 years;
 
-(v) make such other order as it thinks fit.
+(c) by order impose such conditions as are necessary to restrict the practice of the registered dentist or registered oral health therapist concerned in such manner as the Disciplinary Committee thinks fit for a period not exceeding 3 years;
 
-(2) Where the Disciplinary Committee is satisfied that the registered dentist has not been convicted or guilty of any of the matters referred to in subsection (1)(a) to (d), the Disciplinary Committee shall order that the complaint or matter be dismissed.
+(d) by order impose on the registered dentist or registered oral health therapist concerned a penalty not exceeding $50,000;
 
-(3) The Registrar shall serve on the registered dentist concerned and the person who made the complaint or gave the information, if any, a notice of the order made by the Disciplinary Committee.
+(e) by writing censure the registered dentist or registered oral health therapist concerned;
 
-(4) Subject to subsection (5), an order referred to in subsection (1) shall not take effect until the expiration of 30 days after the order is made.
+(f) by order require the registered dentist or registered oral health therapist concerned to give such undertaking as the Disciplinary Committee thinks fit to abstain in future from the conduct complained of; and
 
-(5) On making an order referred to in subsection (1)(i) or (ii), the Disciplinary Committee, if satisfied that to remove the name of the registered dentist concerned from the register or to suspend his registration, as the case may be, is necessary for the protection of members of the public or would be in the best interests of the registered dentist, may order that the Registrar forthwith remove his name from the register or that his registration be suspended, as the case may be.
+(g) make such other order as the Disciplinary Committee thinks fit.
 
-(6) An order under subsection (5) shall take effect from the time the order is made.
+(3) In any proceedings instituted under this Part against a registered dentist or registered oral health therapist consequent upon his conviction for a criminal offence, a Disciplinary Committee and the High Court on appeal from any order of the Disciplinary Committee shall accept his conviction as final and conclusive.
 
-(7) While an order under subsection (1)(ii) remains in force, the person concerned shall not be regarded as being registered as a dentist for the purposes of this Act notwithstanding that his name still appears in the register.
+(4) A Disciplinary Committee may under subsection (2) order the registered dentist or registered oral health therapist concerned to pay to the Council such sums as it thinks fit in respect of costs and expenses of and incidental to any proceedings before the Disciplinary Committee and, where applicable, an Interim Orders Committee.
 
-### Costs of inquiry
+(5) The High Court shall have jurisdiction to tax such costs referred to in subsection (4) and any such order for costs made shall be enforceable as if it were ordered in connection with a civil action in the High Court.
 
-45\.—(1) Where, upon due inquiry into the complaint or matter, a Disciplinary Committee is satisfied that the registered dentist concerned has been convicted or guilty of any of the matters set out in section 44(1)(a) to (d), the Disciplinary Committee may order the registered dentist to pay to the Council such sums as it thinks fit in respect of costs and expenses of and incidental to the inquiry, and the High Court shall have jurisdiction to tax such sums.
+(6) The Disciplinary Committee in ordering that costs be paid by the registered dentist or registered oral health therapist under this section may certify that costs for more than one solicitor be paid if it is satisfied that the issues involved in the proceedings are of sufficient complexity, and the certification by the Disciplinary Committee shall have the same effect as if it were a certification by a Judge in a civil action in the High Court.
 
-(2) An order referred to in subsection (1) shall be enforceable as if it were ordered in connection with a civil action in the High Court.
+(7) The costs and expenses referred to in subsection (4) shall include —
 
-(3) The Disciplinary Committee in ordering that costs be paid by the registered dentist may certify that costs for more than one solicitor be paid if it is satisfied that the issues involved in the proceedings are of sufficient complexity, and the certification by the Disciplinary Committee shall have the same effect as if it were a certification by a judge in a civil action in the High Court.
-
-(4) The costs and expenses referred to in subsection (1) shall include —
-
-(a) the costs and expenses of any advocate and solicitor appointed under section 43(5), and the costs and expenses of an assessor referred to in section 57, in respect of the inquiry;
+(a) the costs and expenses of any assessor and advocate and solicitor appointed by the Council for proceedings before the Disciplinary Committee and the Interim Orders Committee;
 
 (b) such reasonable expenses as the Council may pay to witnesses; and
 
-(c) such reasonable expenses as are necessary for the conduct of the inquiry.
+(c) such reasonable expenses as are necessary for the conduct of proceedings before the Disciplinary Committee and the Interim Orders Committee.
 
-### Reference and transfer of cases to Health Committee
+[22/2007 wef 01/01/2008]
 
-46\.—(1) Where, in the course of its inquiry, it appears to a Disciplinary Committee that the fitness of the registered dentist concerned to practise dentistry may be impaired by reason of his physical or mental condition, the Disciplinary Committee may refer that question to the Health Committee for determination.
+### Orders of Disciplinary Committee
 
-(2) If, on a reference under this section, the Health Committee determines that the fitness of the registered dentist to practise dentistry is not impaired by reason of his condition, the Health Committee shall certify its opinion to the Disciplinary Committee.
+41\.—(1) Where a registered dentist or registered oral health therapist in respect of whom an order is made under section 40(2)(c), or an order for interim restricted registration is made under section 49C(1)(b) or 49E(1)(d), is judged by a Disciplinary Committee (whether, in the case of an order under section 40(2)(c), it is the Disciplinary Committee that made the order or another Disciplinary Committee appointed in its place) to have failed to comply with any of the requirements imposed on him as conditions of his registration, the Disciplinary Committee may, if it thinks fit, order —
 
-(3) If, on a reference under this section, the Health Committee determines that the fitness of the registered dentist to practise dentistry is impaired by reason of his condition, the Health Committee shall certify its opinion to the Disciplinary Committee and shall proceed to dispose of the case in accordance with Division 3.
+(a) that his name be removed from the appropriate register; or
 
-### Appeal against order by Disciplinary Committee
+(b) that his registration in the appropriate register be suspended for such period not exceeding 12 months as may be specified in the order.
 
-47\.—(1) Any person aggrieved by a decision of the Disciplinary Committee referred to in section 44(1) or (2) may, within 30 days after the service on him of the notice of the order, appeal to the High Court against the order.
+(2) Where a Disciplinary Committee has made an order for suspension under subsection (1)(b) or section 40(2)(b), the Disciplinary Committee may order that the registration of the person whose registration is suspended shall, as from the expiry of the current period of suspension, be restricted in such manner as it thinks fit for a period not exceeding 3 years.
 
-(2) There shall be no appeal from the decision of the High Court.
+(3) Where a Disciplinary Committee has made an order for suspension under subsection (1)(b) or section 40(2)(b) against a person and that person has failed to comply with that order, the Disciplinary Committee or another Disciplinary Committee appointed in its place may, if it thinks fit, order —
 
-(3) In any appeal to the High Court against a decision referred to in section 44(1) or (2), the High Court shall accept as final and conclusive any finding of the Disciplinary Committee relating to any issue of ethics or standards of professional conduct unless such finding is in the opinion of the High Court unsafe, unreasonable or contrary to the evidence.
+(a) that his name be removed from the appropriate register; or
 
-(4) Notwithstanding anything in section 44, where a person has appealed to the High Court against an order referred to in section 44(1), the order shall not take effect unless the order is confirmed by the High Court or the appeal is for any reason dismissed by the High Court or withdrawn.
+(b) that, as from the expiry of the current period of suspension, his registration in the appropriate register be restricted in such manner as it thinks fit for a period not exceeding 3 years.
+
+(4) Where a Disciplinary Committee has made an order under section 40(2)(c), the Disciplinary Committee or another Disciplinary Committee appointed in its place may revoke the order or revoke or vary any of the conditions imposed by the order.
+
+(5) Subsection (1) shall apply to a registered dentist or registered oral health therapist whose registration is subject to conditions imposed by an order made under subsection (2) or (3) as it applies to a registered dentist or registered oral health therapist whose registration is subject to conditions imposed by an order for restricted registration made under section 40(2)(c), and subsection (4) shall apply accordingly.
+
+(6) Where a Disciplinary Committee has made an order or has varied the conditions imposed by an order under this section, the Registrar shall immediately serve on the person to whom the order applies a notice of the order or the variation.
+
+(7) Any person who is aggrieved by any order referred to in subsection (6) may, within 30 days after the service on him of the notice of the order, appeal to the High Court against the order and there shall be no appeal from the decision of that Court.
+
+(8) In any appeal to the High Court against an order referred to in subsection (6), the High Court shall accept as final and conclusive any finding of the Disciplinary Committee relating to any issue of professional ethics or standards of professional conduct unless such finding is in the opinion of the High Court unsafe, unreasonable or contrary to the evidence.
+
+(9) Subject to subsection (10), an order made by a Disciplinary Committee for the removal of any name or for suspension of registration under subsection (1) or (3) or section 40(2) shall not take effect until the expiration of 30 days after the order is made.
+
+(10) On making an order for the removal of any name or for suspension of registration under subsection (1) or (3) or section 40(2), a Disciplinary Committee may, if it is satisfied that to do so is necessary for the protection of members of the public or would be in the best interests of the registered dentist or registered oral health therapist concerned, order that his registration in the appropriate register be suspended or that his name be removed from the appropriate register immediately.
+
+(11) Where an order under subsection (10) is made, the Registrar shall immediately serve a notice of the order on the person to whom it applies and if that person was present or represented at the proceedings of the Disciplinary Committee, the order shall take effect from the time the order is made.
+
+(12) Where the person concerned is neither present nor represented at the proceedings of the Disciplinary Committee, the order made under subsection (10) shall take effect from the time of service of the notice of the order on him.
+
+(13) An order of a Disciplinary Committee, other than an order for the removal of any name or for suspension of registration under subsection (1) or (3) or section 40(2), shall take effect from the time the order is made.
+
+(14) Notwithstanding anything in this section, where a registered dentist or registered oral health therapist has appealed to the High Court against an order of a Disciplinary Committee under subsection (7), the order shall not take effect unless the order is confirmed by the High Court or the appeal is for any reason dismissed by the High Court or is withdrawn.
+
+(15) While any order of suspension of registration remains in force, the person concerned shall not be regarded as being registered under this Act notwithstanding that his name still appears in the appropriate register, but immediately on the expiry of such order his rights and privileges as a registered dentist or registered oral health therapist shall be revived as from the date of such expiry provided that the dentist or oral health therapist, as the case may be, has complied with all the terms of the order.
+
+(16) Where a registered dentist or registered oral health therapist is not found or judged by a Disciplinary Committee to have been convicted or guilty of any matter referred to in section 40(1), the Disciplinary Committee shall dismiss the complaint or matter.
+
+[22/2007 wef 01/01/2008]
+
+### Restoration of names to appropriate register
+
+42\.—(1) Where the name of a dentist or an oral health therapist has been removed from an appropriate register pursuant to an order made by a Disciplinary Committee under section 40 or 41, the Council may, upon application by the dentist or oral health therapist and if it thinks fit, direct —
+
+(a) that his name be restored to the appropriate register; or
+
+(b) where the person is a dentist, that he be registered as a dentist with conditional registration in Part II of the Register of Dentists, and section 14A(3) to (8) shall apply accordingly.
+
+(2) No application for the restoration of a name to an appropriate register under this section shall be made to the Council —
+
+(a) before the expiration of 3 years from the date of the removal of the name; or
+
+(b) more than once in any period of 12 months by or on behalf of the dentist or oral health therapist,
+
+and unless the dentist or oral health therapist has complied with all the terms of the order made against him.
+
+[22/2007 wef 01/01/2008]
+
+### Report of breach
+
+43\. Where any breach of any written law is disclosed to the Disciplinary Committee in the course of an inquiry, the Disciplinary Committee may, in its discretion, report the breach to the appropriate authorities.
+
+[22/2007 wef 01/01/2008]
+
+44\. [Deleted by Act 22/2007 wef 01/01/2008]
+
+45\. [Deleted by Act 22/2007 wef 01/01/2008]
+
+46\. [Deleted by Act 22/2007 wef 01/01/2008]
+
+47\. [Deleted by Act 22/2007 wef 01/01/2008]
 
 Division 3 —
 
@@ -942,85 +1540,221 @@ Health Committee
 
 ### Health Committee
 
-48\.—(1) There shall be a committee to be known as the Health Committee comprising not less than 3 members of the Council, to be appointed by the President, which shall inquire into any case referred to it under section 39(1) or (5) or 46(1).
+48\.—(1) There shall be a committee to be known as the Health Committee comprising not less than 3 members of the Council, to be appointed by the President, which shall inquire into any case referred to it under this Act.
 
 (2) The President shall appoint one of the members of the Health Committee as the chairman of the Committee.
 
 (3) A member of the Health Committee shall be appointed for a term of 2 years and shall be eligible for reappointment.
 
-(4) A member of the Health Committee shall, notwithstanding that he has ceased to be a member of the Council on the expiry of his term of office, continue to be a member of the Committee until such time as the Committee has completed its work.
-
-(5) Sections 35(3), 40(4), (6) and (7), 41, 42 and 43(1) to (4) and (6) to (15) shall apply, with the necessary modifications, to the Health Committee and to any inquiry by the Health Committee.
-
 (6) The Council may, with the approval of the Minister, appoint medical assessors to assist the Health Committee in its inquiry, and pay to the medical assessors, as part of the expenses of the Council, such remuneration as the Council may determine
 
 ### Unfitness to practise through illness, etc.
 
-49\.—(1) Where the fitness of a registered dentist to practise dentistry is judged by the Health Committee to be impaired by reason of his physical or mental condition, the Health Committee may exercise one or more of the following powers:
+49\.—(1) Where the fitness of a registered dentist or registered oral health therapist to practise dentistry is judged by the Health Committee to be impaired by reason of his physical or mental condition, the Health Committee may exercise one or more of the following powers:
 
-(a) order that he pays to the Council costs and expenses of and incidental to any inquiry or hearing by the Health Committee ;
+(a) order that he pays to the Council costs and expenses of and incidental to any inquiry or hearing by the Health Committee and, where applicable, an Interim Orders Committee;
 
-(b) order that his registration as a dentist be suspended for such period not exceeding 12 months as may be specified in the order;
+(b) order that his registration as a dentist or an oral health therapist be suspended for such period not exceeding 12 months as may be specified in the order;
 
-(c) order that his registration as a dentist be conditional on his compliance, during such period not exceeding 3 years as may be specified in the order, with such requirements as may be imposed by the Health Committee for the protection of members of the public or in his interests (referred to in this Division as restricted registration); and
+(c) order that his registration as a dentist or an oral health therapist be conditional on his compliance, during such period not exceeding 3 years as may be specified in the order, with such requirements as may be imposed by the Health Committee for the protection of members of the public or in his interests (referred to in this Division as restricted registration); and
 
-(d) recommend to the Council that his name be removed from the register .
+(d) recommend to the Council that his name be removed from the appropriate register.
 
-(2) Where a registered dentist in respect of whom an order for restricted registration is made under subsection (1)(c) by the Health Committee is judged by the Health Committee to have failed to comply with any of the requirements imposed on him as conditions of his registration, the Health Committee may, if it thinks fit, order that his registration be suspended for such period not exceeding 12 months as may be specified in the order.
+(2) Where a registered dentist or registered oral health therapist in respect of whom an order for restricted registration is made under subsection (1)(c), or an interim restricted registration is made under section 49C(1)(b) or 49E(1)(d), is judged by the Health Committee to have failed to comply with any of the requirements imposed on him as conditions of his registration, the Health Committee may, if it thinks fit, order that his registration be suspended for such period not exceeding 12 months as may be specified in the order.
 
 (3) Where the Health Committee has made an order for suspension under subsection (1) or (2), the Health Committee may order that the registration of the person whose registration is suspended shall, as from the expiry of the current period of suspension, be a restricted registration.
 
+(3A) Where the Health Committee has made an order for suspension under subsection (1) or (2) against a person and that person has failed to comply with that order, the Health Committee may, if it thinks fit —
+
+(a) make a recommendation referred to in subsection (1)(d) to the Council, and subsection (8) shall apply accordingly; or
+
+(b) order that, as from the expiry of the current period of suspension, his registration in the appropriate register be restricted in such manner as it thinks fit for a period not exceeding 3 years.
+
+[22/2007 wef 01/01/2008]
+
 (4) Where the Health Committee has made an order for restricted registration, the Health Committee may revoke the order or revoke or vary any of the conditions imposed by the order.
 
-(5) Subsection (2) shall apply to a registered dentist whose registration is a restricted registration by virtue of an order made under subsection (3) as it applies to a registered dentist whose registration is a restricted registration by virtue of an order referred to in subsection (1)(c), and subsection (4) shall apply accordingly.
+(5) Subsection (2) shall apply to a registered dentist or registered oral health therapist whose registration is a restricted registration by virtue of an order made under subsection (3) or (3A) as it applies to a registered dentist whose registration is a restricted registration by virtue of an order referred to in subsection (1)(c), and subsection (4) shall apply accordingly.
 
 (6) Where the Health Committee has made any order under this section, or has varied the conditions imposed by an order for restricted registration, the Registrar shall forthwith serve on the person to whom the order applies a notice of the order or of the variation.
 
-(7) While a person’s registration is suspended by virtue of this section, he shall not be regarded as being registered as a dentist notwithstanding that his name still appears in the register .
+(7) While a person’s registration is suspended by virtue of this section, he shall not be regarded as being registered as a dentist or an oral health therapist notwithstanding that his name still appears in the appropriate register.
 
-(8) Where the Council accepts the recommendation of the Health Committee under subsection (1)(d), the Council shall —
+(8) Where the Council accepts the recommendation of the Health Committee under subsection (1)(d), the Council shall by order direct that the name of the registered dentist or registered oral health therapist be removed from the appropriate register and that order shall take effect from the date it is made.
 
-(a) order that the name of the registered dentist be removed from the register from the date of the making of the order; and
+[22/2007 wef 01/01/2008]
 
-(b) direct the Registrar to forthwith serve on him a notice of the order.
+(8A) Sections 37(5), (6) and (7) and 38 shall apply, with the necessary modifications, to the Health Committee and references to a Disciplinary Committee shall be read as references to the Health Committee.
+
+[22/2007 wef 01/01/2008]
 
 (9) Any person who is aggrieved by an order, or any variation of the conditions imposed by an order for restricted registration, made under this section may, within 21 days of the service on him of the notification of the order, appeal to the Minister whose decision shall be final.
 
 (10) Any order or any variation of the conditions imposed by an order for restricted registration shall take effect from the time the order or variation is made unless the Minister decides otherwise.
 
+### Restoration of names removed on recommendation of Health Committee
+
+49A\.—(1) Where the name of a person has been removed from an appropriate register on the recommendation of the Health Committee under section 49, the Council may, upon application by the person, if it thinks fit, direct —
+
+(a) that his name be restored to the appropriate register; or
+
+(b) where the person is a dentist, that he be registered as a dentist with conditional registration in Part II of the Register of Dentists, and section 14A(3) to (8) shall apply accordingly.
+
+(2) No application under subsection (1) shall be made to the Council more than once in any period of 12 months by or on behalf of the dentist or oral health therapist.
+
+(3) No application under subsection (1) shall be made to the Council by or on behalf of the dentist or oral health therapist unless the dentist or oral health therapist has complied with all the terms of the order made against him.
+
+[22/2007 wef 01/01/2008]
+
+Division 3A —
+
+Interim Orders Committee
+
+### Interim Orders Committee
+
+49B\.—(1) The Council may, from time to time, appoint one or more committees each comprising 3 of its members, to be known for the purposes of this Act as Interim Orders Committees, to inquire into any matter referred by the Council under subsection (4).
+
+(2) The Council shall appoint one of the members of the Interim Orders Committee as chairman of that Committee.
+
+(3) An Interim Orders Committee may be appointed in connection with one or more matters or for a fixed period of time.
+
+(4) The chairman of the Complaints Panel, a Complaints Committee, a Disciplinary Committee or the Health Committee may refer any complaint or information to the Council for the purpose of determining if an order should be made under section 49C; and the Council shall refer the complaint or information to an Interim Orders Committee for this purpose.
+
+(5) A member of a Complaints Committee or Disciplinary Committee inquiring into any matter shall not be a member of an Interim Orders Committee inquiring into or reviewing that matter.
+
+(6) A member of an Interim Orders Committee inquiring into or reviewing any matter shall not be a member of a Complaints Committee or Disciplinary Committee inquiring into that matter, or take part in any deliberation of the Council under section 49(8) in respect of that matter.
+
+(7) Neither the chairman of the Complaints Panel nor any member of the Health Committee shall be a member of an Interim Orders Committee.
+
+(8) All members of an Interim Orders Committee shall vote on any question arising at a meeting of the Interim Orders Committee and such question shall be determined by a majority of votes.
+
+(9) A member of an Interim Orders Committee which has commenced any inquiry or review of any case shall, notwithstanding that he has ceased to be a member of the Council, continue to be a member of the Interim Orders Committee until completion of that inquiry or review.
+
+(10) Sections 37(5), (6) and (7) and 38(1) and (4) to (11) shall apply, with the necessary modifications, to an Interim Orders Committee and to proceedings before it as they apply to a Disciplinary Committee and to proceedings before a Disciplinary Committee.
+
+### Interim orders
+
+49C\.—(1) Where, upon due inquiry into any complaint or information referred to it, an Interim Orders Committee is satisfied that it is necessary for the protection of members of the public or is otherwise in the public interest, or is in the interests of a registered dentist or registered oral health therapist, for his registration to be suspended or to be made subject to conditions, the Interim Orders Committee may make an order —
+
+(a) that his registration in the appropriate register be suspended for such period not exceeding 18 months as may be specified in the order (referred to in this Division as an interim suspension order); or
+
+(b) that his registration be conditional on his compliance, during such period not exceeding 18 months as may be specified in the order, with such requirements so specified as the Interim Orders Committee thinks fit to impose (referred to in this Division as an order for interim restricted registration).
+
+(2) The Registrar shall immediately serve a notice of the order under subsection (1) on the registered dentist or registered oral health therapist.
+
+### Review of interim orders
+
+49D\.—(1) Subject to subsection (2), where an Interim Orders Committee has made an order under section 49C, the Interim Orders Committee or another Interim Orders Committee appointed in its place —
+
+(a) shall review the order within the period of 6 months beginning on the date on which the order was made, and shall thereafter, for so long as the order continues in force, further review it before the end of the period of 3 months beginning on the date of the decision of the immediately preceding review; and
+
+(b) may review the order where new evidence relevant to the order has become available after the making of the order.
+
+(2) Where the High Court has extended the order under section 49G(2) or an Interim Orders Committee has made a replacement order under section 49E(1)(c) or (d), the first review after such extension or making of the replacement order shall take place —
+
+(a) if the order (or the order which has been replaced) had not been reviewed under subsection (1), within the period of 6 months beginning on the date on which the High Court ordered the extension or on which the replacement order was made, as the case may be; or
+
+(b) if the order had been reviewed under subsection (1), within the period of 3 months beginning on the date on which the High Court ordered the extension or on which the replacement order was made.
+
+### Interim Orders Committee may revoke, vary or replace interim order
+
+49E\.—(1) Where an interim suspension order or an order for interim restricted registration has been made under this section or section 49C in relation to any person, the Interim Orders Committee that made the order or another Interim Orders Committee appointed in its place may, either upon its review referred to in section 49D or upon the recommendation of a Complaints Committee, a Disciplinary Committee or the Health Committee —
+
+(a) revoke the order or revoke any condition imposed by the order;
+
+(b) make an order varying any condition imposed by the order;
+
+(c) if satisfied that to do so is necessary for the protection of members of the public or is otherwise in the public interest, or is in the interests of the registered dentist or registered oral health therapist concerned, or that the registered dentist or registered oral health therapist has not complied with any requirement imposed as a condition of his registration in the order for interim restricted registration, replace that order with an interim suspension order having effect for the remainder of the period of the former; or
+
+(d) if satisfied that the public interest or the interests of the registered dentist or registered oral health therapist concerned would be more adequately served by an order for interim restricted registration, replace the interim suspension order with an order for interim restricted registration having effect for the remainder of the period of the former.
+
+(2) The Registrar shall immediately serve a notice of the decision under subsection (1) on the registered dentist or registered oral health therapist.
+
+### Right of hearing
+
+49F\.—(1) No order under section 49C or 49E(1)(b), (c) or (d) shall be made by an Interim Orders Committee in respect of any registered dentist or registered oral health therapist unless he has been afforded an opportunity of appearing before the Interim Orders Committee and being heard on the question whether such an order should be made in his case.
+
+(2) For the purposes of subsection (1), the registered dentist or registered oral health therapist may be represented before the Interim Orders Committee by counsel.
+
+(3) Regulations made for the purposes of an Interim Orders Committee may include provision securing that the registered dentist or registered oral health therapist in respect of whom an interim suspension order or an order for interim restricted registration has been made shall, if he so requires, be entitled to be heard by the Interim Orders Committee on each occasion on which it reviews the order, and be represented by counsel during such review.
+
+### Application to High Court
+
+49G\.—(1) The Council may apply to the High Court for an order made under section 49C or 49E(1)(c) or (d) to be extended, and may apply again for further extensions.
+
+(2) On such an application, the High Court may extend (or further extend) for up to 12 months the period for which the order has effect.
+
+(3) The High Court may, on application by the registered dentist or registered oral health therapist concerned —
+
+(a) in the case of an interim suspension order, revoke the order;
+
+(b) in the case of an order for interim restricted registration, revoke the order or vary any condition imposed by the order; and
+
+(c) in either case, substitute for the period specified in the order (or in the order extending it) some other period which could have been specified in the order when it was made (or in the order extending it).
+
+### Duration of interim orders
+
+49H\.—(1) An interim suspension order or an order for interim restricted registration shall be in force until —
+
+(a) the end of the period specified in the order or, if extended under section 49G(2), in the order extending it; or
+
+(b) the date on which proceedings are concluded,
+
+whichever is the earlier.
+
+(2) For the purposes of subsection (1)(b), proceedings are concluded if —
+
+(a) the Complaints Committee inquiring into the complaint or information has made an order under section 36(1)(a) and —
+
+(i) no appeal to the Minister under section 36(6) or (7) was made against that decision within the period specified in that section or such an appeal was withdrawn; or
+
+(ii) the Minister made an order under section 36(8)(a) or (c);
+
+(b) the Disciplinary Committee inquiring into the complaint or information has made an order under section 40(2) which has taken effect, or has dismissed the complaint or matter under section 41(16); or
+
+(c) the Health Committee has made an order under section 49(1) which has taken effect, the Council has made an order under section 49(8) which has taken effect, or the Health Committee has dismissed the complaint or matter,
+
+as the case may be.
+
+### Person suspended under interim suspension order not regarded as registered
+
+49I\.—(1) While a person’s registration in an appropriate register is suspended by virtue of an interim suspension order, he shall not be regarded as being registered notwithstanding that his name still appears in the appropriate register.
+
+(2) Immediately upon the expiry or revocation of the order, the person’s rights and privileges as a registered dentist or registered oral health therapist shall be revived as from the date of such expiry or revocation, provided that he has complied with all the terms of the order.
+
+(3) For the avoidance of doubt, sections 33 to 40, 48 and 49 shall continue to apply to a person whose registration in an appropriate register is suspended by virtue of an interim suspension order.
+
+### Council may appoint legal counsel
+
+49J\. For the purposes of an inquiry under this Part by a Disciplinary Committee, the Health Committee or an Interim Orders Committee, the Council may appoint an advocate and solicitor and pay him, as part of the expenses of the Council, such remuneration as the Council may determine.
+
 Division 4 —
 
 Miscellaneous Provisions
 
-### Where Council member is in public service or is officer of Board
+50\. [Repealed by Act 22/2007 wef 01/01/2008]
 
-50\. A member of the Council who is in the public service or who is an officer of the Board shall not be disqualified from being the chairman or a member of a Complaints Committee or a member of a Disciplinary Committee or the Health Committee by reason only that he, or the person who made the complaint or gave the information leading to the proceeding in question, is in the public service or is an officer of the Board.
+51\. [Repealed by Act 22/2007 wef 01/01/2008]
 
-[5/2001 wef 01/04/2001]
+52\. [Repealed by Act 22/2007 wef 01/01/2008]
 
-### Service of documents
+### Restoration of names to appropriate register
 
-51\. Any notice, order or document required or authorised to be served under this Part shall be deemed to be sufficiently served —
+53\.—(1) A person whose name has been removed from an appropriate register under this Part may apply to the Council for his name to be restored to that appropriate register.
 
-(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of abode or business of the person on whom it is to be served; or
+(2) The Council may, after considering all relevant circumstances, and upon the compliance by the applicant of all conditions imposed by the Council, if any, and the payment of the prescribed fee, restore his name to the appropriate register.
 
-(b) by sending it by registered post addressed to the person on whom the notice is to be served at his last known place of abode or business.
-
-### Conviction final and conclusive
-
-52\. In any proceedings under this Part in relation to the conviction of a registered dentist for a criminal offence, the Minister, the Council, a Complaints Committee, a Disciplinary Committee, and the High Court on appeal from any order of a Disciplinary Committee, shall accept his conviction as final and conclusive.
-
-### Restoration of names to register
-
-53\.—(1) A person whose name has been removed from the register under this Part may apply to the Council for his name to be restored to the register.
-
-(2) The Council may, after considering all relevant circumstances, and upon the compliance by the applicant of all conditions imposed by the Council, if any, and the payment of the prescribed fee, restore his name to the register.
-
-(3) Where the name of a person has been removed from the register by a Disciplinary Committee, no application for the restoration of his name to the register shall be made to the Council —
+(3) Where the name of a person has been removed from an appropriate register by a Disciplinary Committee, no application for the restoration of his name to that appropriate register shall be made to the Council —
 
 (a) before the expiration of 3 years from the date of the removal; or
 
 (b) more than once in any period of 12 months.
+
+### Recovery of penalties and costs
+
+53A\. Any penalty imposed by the Council under sections 5 and 40 and any costs payable by any person under this Act shall be recoverable by the Council as a debt due to the Council from that person and the person’s liability to pay shall not be affected by his ceasing to be registered with the Council.
+
+[22/2007 wef 01/01/2008]
 
 ## PART VI
 
@@ -1074,9 +1808,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Assessor to Council
 
-57\.—(1) For the purposes of advising the Council, the Complaints Committees, the Disciplinary Committeesand the Health Committee in any proceedings before any of them under the provisions of this Act, the Council may appoint an assessor to the Council who shall be an advocate and solicitor of not less than 10 years’ standing.
+57\.—(1) For the purposes of advising the Council, the Complaints Committees, the Disciplinary Committees , the Health Committee and the Interim Orders Committee in any proceedings before any of them under the provisions of this Act, the Council may appoint an assessor to the Council who shall be an advocate and solicitor of not less than 10 years’ standing.
 
-(2) The assessor shall not participate or sit in any deliberations of the Council, the Complaints Committees, the Disciplinary Committees or the Health Committee unless invited to do so, and his participation shall be limited only to questions of law arising from the proceedings.
+(2) The assessor shall not participate or sit in any deliberations of the Council, the Complaints Committees, the Disciplinary Committees , the Health Committee or the Interim Orders Committee unless invited to do so, and his participation shall be limited only to questions of law arising from the proceedings.
 
 (3) The Council may pay to the assessor, as part of the expenses of the Council, such remuneration as the Council may determine.
 
@@ -1084,25 +1818,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 58\. No action or legal proceedings shall lie against the Council, a Complaints Committee, a Disciplinary Committee, the Health Committee or any committee appointed by the Council, or any member or employee thereof, for any act or thing done under this Act or any regulations made thereunder unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
-### Exemption in respect of persons in public service or employed by Board or prescribed companies or organisations
-
-59\.—(1) Nothing in this Act shall prevent —
-
-(a) the carrying out of any act which comes within the practice of dentistry by a person who is in the public service or who is an officer of the Board if the act is carried out —
-
-(i) in the course of the person’s duties in the public service or as an officer of the Board; and
-
-(ii) under the supervision of a registered dentist whose name appears in the first division of the register; or
-
-[5/2001 wef 01/04/2001]
-
-(b) the carrying out of any act which comes within the practice of dentistry by a person employed by a company or other organisation prescribed under subsection (2) if the act is carried out —
-
-(i) in the course of the person’s employment in such company or organisation; and
-
-(ii) under the supervision of a registered dentist whose name appears in the first division of the register.
-
-(2) The Minister may, by notification in theGazette, prescribe companies and organisations for the purposes of subsection (1).
+59\. [Repealed by Act 22/2007 wef 01/01/2008]
 
 ### Exemption in respect of medical practitioners
 
@@ -1110,13 +1826,49 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Exemption in respect of dental training
 
-61\. Nothing in this Act shall prevent the doing of any act within the practice of dentistry by any dental or medical student if the act is carried out —
+61\. Nothing in this Act shall prevent the doing of any act within the practice of dentistry by any oral health therapist, dental student or medical student if the act is carried out —
 
 (a) in the course of his training;
 
-(b) under the supervision of a registered dentist whose name appears in the first division of the register; and
+(b) under the supervision of a registered dentist whose name appears in the first division of the Register of Dentists; and
 
 (c) in a hospital or dental school approved for the purposes of this section by the Council.
+
+### Exemption
+
+61A\. The Minister may, by order published in theGazetteand subject to such conditions as he may impose, exempt any person or class of persons from any or all of the provisions of this Act or any regulations made thereunder.
+
+[22/2007 wef 01/01/2008]
+
+### Composition of offences
+
+61B\.—(1) The Council may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) $500,
+
+whichever is the lower.
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(3) The Council may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+(4) All sums collected under this section shall be paid to the Council.
+
+[22/2007 wef 01/01/2008]
+
+### Jurisdiction of court
+
+61C\. Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[22/2007 wef 01/01/2008]
+
+### Amendment of Schedule
+
+61D\. The Minister may, after consultation with the Council, by order amend the Schedule.
+
+[22/2007 wef 01/01/2008]
 
 ### Power of Council to make regulations
 
@@ -1126,17 +1878,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) provide for the duties of the Registrar;
 
-(b) regulate the registration of dentists ;
+(b) regulate the registration of dentists and oral health therapists;
 
-(c) provide for the form of the register and the mode in which it shall be kept;
+(c) provide for the form of the appropriate register and the mode in which it shall be kept;
 
 (d) regulate the grant of practising certificates;
 
 (e) regulate the procedure of any committee appointed by the Council or the President under this Act and the conduct of any proceedings of such committee;
 
-(f) regulate the professional practice, etiquette, conduct and discipline of registered dentists ;
+(f) regulate the professional practice, etiquette, conduct and discipline of registered dentists and registered oral health therapists;
 
-(g) regulate the removal and restoration of names in the register ;
+(fa) define the scope of practice of registered oral health therapists;
+
+[22/2007 wef 01/01/2008]
+
+(g) regulate the removal and restoration of names in the appropriate register;
 
 (h) prescribe the forms necessary for the administration of this Act;
 
@@ -1234,9 +1990,9 @@ TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
 
 ## THE SCHEDULE
 
-Section 14
+Sections 14A and 61D
 
-Qualifications
+List of Registrable Basic Dental Qualifications
 
 First column
 
@@ -1244,205 +2000,391 @@ Second column
 
 Third column
 
-Country or Territory
+Country
 
-University
+Body Granting Qualifications
 
-Degree
+Primary Qualifications
 
-AUSTRALIA
+Australia
 
-New South Wales
+1. University of Sydney
 
-University of Sydney
+B.D.S./BDent
 
-B.D.S.
-
-Queensland
-
-University of Queensland
+2. University of Queensland
 
 B.D.Sc.
 
-South Australia
-
-University of Adelaide
+3. University of Adelaide
 
 B.D.S.
 
-Victoria
-
-University of Melbourne
+4. University of Melbourne
 
 B.D.Sc.
 
-Western Australia
-
-University of Western Australia
+5. University of Western Australia
 
 B.D.Sc.
 
-CANADA
+Canada
 
-British Columbia
+1. University of Alberta
 
-University of British Columbia
+D.D.S
 
-D.M.D.
+2. University of British Columbia
 
-Ontario
+D.M.D
 
-University of Toronto
+3. University of Manitoba
 
-D.D.S.
+D.M.D
 
-Quebec
+4. Dalhousie University
 
-McGill University
+D.D.S
 
-D.D.S.
+5. University of Toronto
 
-HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE’S REPUBLIC OF CHINA
+D.D.S
 
-University of Hong Kong
+6. University of Western Ontario
+
+D.D.S
+
+7. Laval University
+
+D.M.D
+
+8. McGill University
+
+D.D.S
+
+9. University of Montreal
+
+D.M.D
+
+10. University of Saskatchewan
+
+D.M.D
+
+Hong Kong
+
+1. University of Hong Kong
 
 B.D.S.
 
-NEW ZEALAND
+New Zealand
 
-University of Otago
-
-B.D.S.
-
-REPUBLIC OF IRELAND
-
-National University of Ireland
+1. University of Otago
 
 B.D.S.
 
-University of Dublin
+Republic of Ireland
+
+1. National University of Ireland
+
+B.D.S.
+
+2. University of Dublin
 
 B.Dent.Sc.
 
-UNITED KINGDOM
+United Kingdom
 
-England
-
-University of Birmingham
+1. University of Birmingham
 
 B.D.S.
 
-University of Bristol
+2. University of Bristol
 
 B.D.S.
 
-University of Leeds
+3. University of Leeds
 
 B.Ch.D.
 
-University of Liverpool
+4. University of Liverpool
 
 B.D.S.
 
-University of London
+5. University of London
 
 B.D.S.
 
-University of Manchester
+6. University of Manchester
 
 B.D.S.
 
-University of Newcastle Upon Tyne
+7. University of Newcastle upon Tyne
 
 B.D.S.
 
-University of Sheffield
+8. University of Sheffield
 
 B.D.S.
 
-Northern Ireland
-
-Queen’s University of Belfast
+9. Queen’s University of Belfast
 
 B.D.S.
 
-Scotland
-
-University of Dundee
+10. University of Dundee
 
 B.D.S.
 
-University of Edinburgh
+11. University of Edinburgh
 
 B.D.S.
 
-University of Glasgow
+12. University of Glasgow
 
 B.D.S.
 
-Wales
-
-University of Wales
+13. University of Wales
 
 B.D.S.
 
-UNITED STATES OF AMERICA
+United States of America
 
-California
+1. University of Alabama School of Dentistry at UAB
 
-Loma Linda University
+D.M.D
+
+2. A.T. Still University Arizona School of Dentistry and Oral Health
+
+D.M.D
+
+3. Loma Linda University School of Dentistry
+
+D.D.S
+
+4. University of California at Los Angeles School of Dentistry
+
+D.D.S
+
+5. University of California at San Francisco School of Dentistry
+
+D.D.S
+
+6. University of the Pacific Arthur A. Dugoni School of Dentistry
+
+D.D.S
+
+7. University of Southern California School of Dentistry
+
+D.D.S
+
+8. University of Colorado at Denver and Health Sciences Center
+
+D.D.S
+
+9. University of Connecticut School of Dental Medicine
+
+D.M.D
+
+10. Nova Southeastern University College of Dental Medicine
+
+D.M.D
+
+11. University of Florida College of Dentistry
+
+D.M.D
+
+12. Medical College of Georgia School of Dentistry
+
+D.M.D
+
+13. Southern Illinois University School of Dental Medicine
+
+D.M.D
+
+14. University of Illinois at Chicago College of Dentistry
+
+D.D.S
+
+15. Northwestern University
+
+D.D.S
+
+16. Indiana University School of Dentistry
+
+D.D.S
+
+17. University of Iowa College of Dentistry
+
+D.D.S
+
+18. University of Kentucky College of Dentistry
+
+D.M.D
+
+19. University of Louisville School of Dentistry
+
+D.M.D
+
+20. Louisiana State University School of Dentistry
+
+D.D.S
+
+21. Boston University Goldman School of Dental Medicine
+
+D.M.D
+
+22. Harvard University School of Dental Medicine
+
+D.M.D
+
+23. Tufts University School of Dental Medicine
+
+D.M.D
+
+24. University of Maryland Baltimore College of Dental Surgery
+
+D.D.S
+
+25. University of Detroit Mercy School of Dentistry
+
+D.D.S
+
+26. University of Michigan School of Dentistry
+
+D.D.S
+
+27. University of Minnesota School of Dentistry
+
+D.D.S
+
+28. University of Mississippi School of Dentistry
+
+D.D.S
+
+29. University of Missouri-Kansas City School of Dentistry
+
+D.D.S
+
+30. Creighton University School of Dentistry
+
+D.D.S
+
+31. University of Nebraska Medical Center College of Dentistry
+
+D.D.S
+
+32. University of Medicine and Dentistry of New Jersey New Jersey Dental School
+
+D.M.D
+
+33. University of Nevada, Las Vegas School of Dental Medicine
+
+D.M.D
+
+34. Columbia University College of Dental Medicine
+
+D.D.S
+
+35. New York University College of Dentistry
+
+D.D.S
+
+36. State University of New York at Buffalo School of Dental Medicine
+
+D.D.S
+
+37. State University of New York at Stony Brook School of Dental Medicine
+
+D.D.S
+
+38. University of North Carolina School of Dentistry
+
+D.D.S
+
+39. Case Western Reserve University School of Dental Medicine
+
+D.M.D
+
+40. Ohio State University College of Dentistry
+
+D.D.S
+
+41. University of Oklahoma College of Dentistry
+
+D.D.S
+
+42. Oregon Health and Science University School of Dentistry
+
+D.M.D
+
+43. Temple University The Maurice H.Kornberg School of Dentistry
+
+D.M.D
+
+44. University of Pennsylvania School of Dental Medicine
+
+D.M.D
+
+45. University of Pittsburgh School of Dental Medicine
+
+D.M.D
+
+46. University of Puerto Rico School of Dentistry
+
+D.M.D
+
+47. Medical University of South Carolina College of Dental Medicine
+
+D.M.D
+
+48. Meharry Medical College School of Dentistry
+
+D.D.S
+
+49. University of Tennessee College of Dentistry
+
+D.D.S
+
+50. Baylor College of Dentistry Component of Texas A and M Health Science Centre
+
+D.D.S
+
+51. University of Texas Health Science Centre-Houston Dental Branch
+
+D.D.S
+
+52. University of Texas Health Science Centre-San Antonio Dental School
+
+D.D.S
+
+53. Virginia Commonwealth University School of Dentistry
+
+D.D.S
+
+54. Howard University College of Dentistry
+
+D.D.S
+
+55. University of Washington-Health Sciences School of Dentistry
+
+D.D.S
+
+56. West Virginia University School of Dentistry
+
+D.D.S
+
+57. Marquette University School of Dentistry
 
 D.D.S.
 
-University of California, Los Angeles
-
-D.D.S.
-
-University of Southern California
-
-D.D.S.
-
-Illinois
-
-Northwestern University
-
-D.D.S.
-
-Indiana
-
-Indiana University
-
-D.D.S.
-
-Iowa
-
-University of Iowa
-
-D.D.S.
-
-Michigan
-
-University of Michigan
-
-D.D.S.
-
-Ohio
-
-Ohio State University
-
-D.D.S.
-
-Washington
-
-University of Washington
-
-D.D.S.
+[S 682/2007 wef 01/01/2008]
 
 ## LEGISLATIVE HISTORY
 
-Dentists Act
+Dental Registration Act
 
 (CHAPTER 76)
+
+(formerly known as the Dentists Act)
 
 This Legislative History is provided for the convenience of users of the Dental Registration Act. It is not part of this Act.
 
@@ -1512,9 +2454,16 @@ This Legislative History is provided for the convenience of users of the Dental 
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (item (9) of Fifth Schedule — Amendment of Dentists Act)|
+|19.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
+|20.|**G. N. No. S 682/2007—Dental Registration Act (Amendment of Schedule) Order 2007**|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
-Dentists Act
+Dental Registration Act
 
 (CHAPTER 76)
 
