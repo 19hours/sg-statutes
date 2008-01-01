@@ -90,7 +90,7 @@ An Act to provide for the control, licensing and inspection of private hospitals
 
 (c) which are maintained by a medical practitioner or dentist as part of his medical clinic for the exclusive use of his practice;
 
-“dentist” means a person who is duly registered under the Dentists Act 1999 (Act 24 of 1999);
+“dentist” means a person who is duly registered under the Dental Registration Act (Cap. 76);
 
 “Director” means the Director of Medical Services;
 
@@ -340,7 +340,7 @@ may, within 21 days of the date of receipt of the notice informing him of such r
 
 (a) in the case of an appeal by a medical practitioner relating to his medical clinic, 3 members of the Medical Council established under the Medical Registration Act (Cap. 174) as the Council may designate; and
 
-(b) in the case of an appeal by a dentist relating to his medical clinic, 3 members of the Dental Council established under the Dentists Act 1999 (Act 24 of 1999) as the Council may designate,
+(b) in the case of an appeal by a dentist relating to his medical clinic, 3 members of the Singapore Dental Council established under the Dental Registration Act (Cap. 76) as the Council may designate,
 
 and in making his decision, the Minister shall have regard to any report made to him by the advisory committee.
 
@@ -468,7 +468,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) the Termination of Pregnancy Act (Cap. 324);
 
-(b) for the purpose of any disciplinary proceedings under the Dentists Act 1999 (Act 24 of 1999) or the Medical Registration Act (Cap. 174); or
+(b) for the purpose of any disciplinary proceedings under the Dental Registration Act (Cap. 76) or the Medical Registration Act (Cap. 174); or
 
 (c) for any other purpose with the consent of the person to whom the information relates or the representative of such person.
 
@@ -634,6 +634,11 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|8 March 2004|
+|7.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
