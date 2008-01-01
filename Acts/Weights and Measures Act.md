@@ -116,11 +116,11 @@
 
 - [41 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE DEFINITIONS OF UNITS OF MEASUREMENT (metric units)**](#FIRST-SCHEDULE-DEFINITIONS-OF-UNITS-OF-MEASUREMENT-metric-units)
+[**FIRST SCHEDULE Definitions of units of measurement (metric units)**](#FIRST-SCHEDULE-Definitions-of-units-of-measurement-metric-units)
 
-[**SECOND SCHEDULE MEASURES AND WEIGHTS (metric system)**](#SECOND-SCHEDULE-MEASURES-AND-WEIGHTS-metric-system)
+[**SECOND SCHEDULE Measures and weights (metric system)**](#SECOND-SCHEDULE-Measures-and-weights-metric-system)
 
-[**THIRD SCHEDULE Customary Weights**](#THIRD-SCHEDULE-Customary-Weights)
+[**THIRD SCHEDULE Customary weights**](#THIRD-SCHEDULE-Customary-weights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -173,6 +173,8 @@ PRELIMINARY
 [30/2005 wef 01/01/2006]
 
 “check-weighed”, in relation to any vehicle, means weighed with its load by means of the nearest suitable and available weighing instrument, and weighed again after it has been unloaded by means of the same or other suitable weighing instrument;
+
+[30/2005 wef 01/01/2006]
 
 “constructional use”, in relation to any goods, means the use of those goods in constructional work in the course of the carrying on of a business;
 
@@ -256,6 +258,8 @@ PRELIMINARY
 
 (2) Except where the context otherwise requires, any reference in this Act to any person, other than a reference to an Authorised Verifier or inspector, shall be construed as a reference to that person or some other person acting on his behalf in the matter in question.
 
+[30/2005 wef 01/01/2006]
+
 ## PART II
 
 UNITS AND STANDARDS OF MEASUREMENT
@@ -268,9 +272,11 @@ UNITS AND STANDARDS OF MEASUREMENT
 
 (2) The First Schedule shall have effect for defining, for the purposes of measurements falling to be made in Singapore, the units of measurements set out in that Schedule; and for the purposes of any measurement of weight falling to be so made, the weight of anything may be expressed, by reference to the units of measurements set out in Part V of that Schedule, in the same terms as its mass.
 
+(3) [Deleted by Act 30/2005 wef 01/01/2006]
+
 ### Standard weights and measures
 
-4\.—(1) There shall be maintained by the Board the standards of the metre and kilogram (referred to in this Act as the Singapore standards) by reference to which all other standards of —
+4\.—(1) There shall be maintained by the Agency for Science, Technology and Research established under section 3 of the Agency for Science, Technology and Research Act (Cap. 5A) or such other person as the Minister may, by notification in theGazette, specify the standards of the metre and kilogram (referred to in this Act as the Singapore standards) by reference to which all other standards of —
 
 (a) those units; and
 
@@ -280,6 +286,8 @@ are maintained.
 
 [30/2005 wef 01/01/2006]
 
+[54/2007 wef 01/01/2008]
+
 (2) The Minister shall from time to time as may appear to him expedient cause —
 
 (a) the value of each of the Singapore standards to be determined or redetermined; and
@@ -288,15 +296,21 @@ are maintained.
 
 in such manner as the Minister may direct.
 
-(3) The reference standards shall consist of standards of all the measures set out in Parts I and II, and the weights set out in Part III, of the Second Schedule other than capacity measures of more than 10 litres; and any such standard shall be constructed and, while it remains in use, from time to time have its value or values redetermined by reference to one or more of the Singapore standards maintained by the Board.
+(3) The reference standards shall consist of standards of all the measures set out in Parts I and II, and the weights set out in Part III, of the Second Schedule other than capacity measures of more than 10 litres; and any such standard shall be constructed and, while it remains in use, from time to time have its value or values redetermined by reference to one or more of the Singapore standards maintained under subsection (1).
 
 [30/2005 wef 01/01/2006]
 
 [54/2007 wef 01/01/2008]
 
+(4) [Deleted by Act 30/2005 wef 01/01/2006]
+
+(5) [Deleted by Act 30/2005 wef 01/01/2006]
+
 (6) The Minister may from time to time by order amend the Second Schedule by adding to or removing from Part I or II of that Schedule any linear or capacity measure or from Part III of that Schedule any weight.
 
 (7) The Controller shall provide for use by the inspectors and maintain or from time to time replace such standards of the measures and weights set out in the Second Schedule, and such instruments for testing and the affixing of stamps and Accuracy Labels as the Controller may from time to time approve or require as being proper and sufficient for the efficient discharge of their duties.
+
+[30/2005 wef 01/01/2006]
 
 ## PART III
 
@@ -320,9 +334,15 @@ where —
 
 (a) the determination or statement is a determination or statement of the quantity of goods required for despatch to a destination outside Singapore; and
 
+[30/2005 wef 01/01/2006]
+
+(b) [Deleted by Act 30/2005 wef 01/01/2006]
+
 (c) no transfer or rendering of money or money’s worth is involved other than the passing of the title to the goods and the consideration therefor.
 
-(3) Any weighing or measuring instrument which is made available in Singapore for use by the public, whether on payment or otherwise, shall be treated for the purposes of this Part as weighing or measuring equipment in use for trade, whether or not it would apart from this subsection be so treated.
+(3) Any weighing or measuring instrument which is made available in Singapore for use by the public, whether on payment or otherwise, shall be treated for the purposes of this Part as weighing or measuring instrument in use for trade, whether or not it would apart from this subsection be so treated.
+
+[30/2005 wef 01/01/2006]
 
 ### Units of measurements and weights lawful for use for trade
 
@@ -332,7 +352,11 @@ where —
 
 [30/2005 wef 01/01/2006]
 
+(3) [Deleted by Act 30/2005 wef 01/01/2006]
+
 (4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence, and any measure or weight used, or in any person’s possession for use, in contravention of any of those subsections shall be liable to be forfeited.
+
+[30/2005 wef 01/01/2006]
 
 (5) The Minister may by regulations prescribe what may be treated for the purposes of use for trade as the equivalent of, or of any multiple or fraction of, any unit of measurement or weight included in the First Schedule in terms of any other such unit.
 
@@ -392,11 +416,7 @@ shall be guilty of an offence and the instrument shall be liable to be forfeited
 
 7A\.—(1) Any person requiring any weighing or measuring instrument to which section 7 applies to be tested for its fitness for use for trade by an Authorised Verifier shall submit the instrument to the Authorised Verifier in such manner as the Authorised Verifier may require.
 
-[30/2005 wef 01/01/2006]
-
 (2) An Authorised Verifier may charge such fee as he may determine for the testing of any weighing or measuring instrument submitted to him under subsection (1).
-
-[30/2005 wef 01/01/2006]
 
 (3) On payment of such a fee, the Authorised Verifier shall inspect the weighing or measuring instrument and —
 
@@ -404,23 +424,13 @@ shall be guilty of an offence and the instrument shall be liable to be forfeited
 
 (b) subject to the provisions of this Act and any regulations made under section 10, if the instrument being tested falls within the prescribed maximum permissible error, pass the instrument as being fit for use for trade and affix the instrument with a stamp and an Accuracy Label.
 
-[30/2005 wef 01/01/2006]
-
 (4) If any difference arises between an Authorised Verifier and the person who submitted the weighing or measuring instrument being tested with respect to any method of testing, working standard or testing instrument used under subsection (3)(a), that difference may with the consent of that other person, and shall at the request of that other person, be referred to the Controller whose decision shall be final.
-
-[30/2005 wef 01/01/2006]
 
 (5) Unless the Board otherwise allows, no Authorised Verifier shall pass, or affix a stamp or an Accuracy Label on, any weighing or measuring instrument submitted to him under subsection (1) unless a letter of pattern approval in respect of the pattern of that instrument has been issued by the Controller under section 8.
 
-[30/2005 wef 01/01/2006]
-
 (6) Where any weighing or measuring instrument submitted to an Authorised Verifier under subsection (1) is of a pattern in respect of which a letter of pattern approval granted under section 8 is for the time being in force, or of such a pattern modified only in a manner for the time being authorised by the Controller under that section, the Authorised Verifier shall not refuse to pass, or affix a stamp or an Accuracy Label on, the instrument on the ground that it is not suitable for use for trade.
 
-[30/2005 wef 01/01/2006]
-
 (7) For the purposes of subsection (6), if the Authorised Verifier is of the opinion that the weighing or measuring instrument is intended for use for trade for a particular purpose for which it is not suitable, he may refuse to pass it as fit for use for trade, or affix a stamp or an Accuracy Label on it, until the matter has been referred to the Controller whose decision shall be final.
-
-[30/2005 wef 01/01/2006]
 
 (8) Where an Authorised Verifier refuses to pass as fit for use for trade any weighing or measuring instrument, the Authorised Verifier shall —
 
@@ -428,11 +438,7 @@ shall be guilty of an offence and the instrument shall be liable to be forfeited
 
 (b) as soon as practicable, send a copy of the notice to the Controller.
 
-[30/2005 wef 01/01/2006]
-
 (9) Where it is not possible or practicable to give a notice under subsection (8)(a), the Authorised Verifier shall attach the notice to the weighing or measuring instrument to which the notice relates.
-
-[30/2005 wef 01/01/2006]
 
 (10) Every Authorised Verifier shall —
 
@@ -448,8 +454,6 @@ shall be guilty of an offence and the instrument shall be liable to be forfeited
 
 (ii) a report on every instance in which the Authorised Verifier breaks any stamp affixed on any weighing or measuring instrument.
 
-[30/2005 wef 01/01/2006]
-
 (11) Any Authorised Verifier who fails to keep any record referred to in subsection (10)(a) shall be guilty of an offence.
 
 [30/2005 wef 01/01/2006]
@@ -458,35 +462,21 @@ shall be guilty of an offence and the instrument shall be liable to be forfeited
 
 7B\.—(1) Any person requiring any weighing or measuring instrument to which section 7 applies to be tested for its fitness for use for trade by an inspector shall submit the instrument to the inspector in such manner as the Controller may direct.
 
-[30/2005 wef 01/01/2006]
-
 (2) On payment by the person referred to in subsection (1) of the prescribed fee, the inspector shall inspect the weighing or measuring instrument and —
 
 (a) test the instrument by means of such method of testing, working standard and testing instrument as he considers appropriate or, subject to any condition which may be prescribed, by means of any other instrument which has already been tested and which the inspector considers suitable for the purpose; and
 
 (b) subject to the provisions of this Act and any regulations made under section 10, if the instrument submitted falls within the prescribed maximum permissible error, pass the instrument as being fit for use for trade and affix the instrument with a stamp and an Accuracy Label.
 
-[30/2005 wef 01/01/2006]
-
 (3) If any difference arises between an inspector and the person who submitted the weighing or measuring instrument for testing with respect to any method of testing, working standard or testing instrument used under subsection (2)(a), that difference may with the consent of that other person, and shall at the request of that other person, be referred to the Controller whose decision shall be final.
-
-[30/2005 wef 01/01/2006]
 
 (4) Unless the Board otherwise allows, no inspector shall pass, or affix a stamp or an Accuracy Label on, any weighing or measuring instrument submitted to him under subsection (1) unless a letter of pattern approval in respect of the pattern of that instrument has been issued by the Controller under section 8.
 
-[30/2005 wef 01/01/2006]
-
 (5) Where any weighing or measuring instrument submitted to an inspector under subsection (1) is of a pattern in respect of which a letter of pattern approval granted under section 8 is for the time being in force, or of such a pattern modified only in a manner for the time being authorised by the Controller under that section, the inspector shall not refuse to pass, or affix a stamp or an Accuracy Label on, the instrument on the ground that it is not suitable for use for trade.
-
-[30/2005 wef 01/01/2006]
 
 (6) For the purposes of subsection (5), if the inspector is of the opinion that the weighing or measuring instrument is intended for use for trade for a particular purpose for which it is not suitable, he may refuse to pass it as fit for use for trade, or affix a stamp or an Accuracy Label on it, until the matter has been referred to the Controller whose decision shall be final.
 
-[30/2005 wef 01/01/2006]
-
 (7) Every inspector shall keep a record of every inspection and test carried out by him under subsection (2).
-
-[30/2005 wef 01/01/2006]
 
 (8) Nothing in this section or section 7 shall require any inspector to inspect, test or pass any weighing or measuring instrument as fit for use for the purpose of section 7 unless there is no Authorised Verifier able to do so without unreasonable delay.
 
@@ -548,7 +538,13 @@ shall be guilty of an offence and the instrument shall be liable to be forfeited
 
 (3) Where any specification prescribed by regulations made under this section is varied or revoked by further regulations made thereunder, then if any person uses for trade, or has in his possession for such use, or causes or permits any other person so to use, any instrument which conformed with that specification but which to his knowledge no longer conforms to any specification to prescribed, or disposes of any such instrument to any other person in a state in which it could be so used without informing that other person that it no longer so conforms, he shall be guilty of an offence and the instrument shall be liable to be forfeited.
 
+[30/2005 wef 01/01/2006]
+
 (4) Where, in the case of any particular instrument, the Controller is of the opinion that there are special circumstances which make it impracticable or unnecessary for that instrument to comply with any particular requirement of any specification prescribed under this section, the Controller may exempt that instrument from that requirement subject to compliance with such conditions, if any, as he thinks fit; and if any person knowingly contravenes any condition imposed with respect to any instrument by virtue of this subsection, he shall be guilty of an offence and the instrument shall be liable to be forfeited.
+
+[30/2005 wef 01/01/2006]
+
+(5) [Deleted by Act 30/2005 wef 01/01/2006]
 
 ### Regulations relating to weighing or measuring instruments for trade
 
@@ -634,7 +630,7 @@ shall be guilty of an offence.
 
 [30/2005 wef 01/01/2006]
 
-13\. [Deleted by Act 30/2005 wef 01/01/2006]
+13\. [Repealed by Act 30/2005 wef 01/01/2006]
 
 ### Other offences in connection with instruments
 
@@ -736,13 +732,13 @@ and any person who contravenes any regulations made under this subsection otherw
 
 (4) The Minister may by order grant and from time to time vary or revoke, with respect to goods or sales of such descriptions as may be specified in the order or exemption, either generally or in such circumstances as may be so specified, from all or any requirements imposed by this section; and, until otherwise provided by such an order, the following shall be exempted from all such requirements:
 
-(a) goods made up in or on a container for sale only for use by the Singapore Armed Forces or by a visiting force within the meaning of any of the provisions of Part II of the Visiting Forces Act (Cap. 344) and not sold or offered, exposed or in any person’s possession for sale for any other use;
+(a) goods made up in or on a container for sale only for use by the Singapore Armed Forces or by a visiting force within the meaning of any of the provisions of Part II of the Visiting Forces Act [Cap. 344] and not sold or offered, exposed or in any person’s possession for sale for any other use;
 
 (b) any sale of goods in the case of which the buyer gives notice in writing to the seller before the sale is completed that the goods are being bought —
 
 (i) for despatch to a destination outside Singapore; or
 
-(ii) for use as stores within the meaning of the Customs Act (Cap. 70) in a ship or aircraft on a voyage or flight to an eventual destination outside Singapore;
+(ii) for use as stores within the meaning of the Customs Act [Cap. 70] in a ship or aircraft on a voyage or flight to an eventual destination outside Singapore;
 
 (c) any goods sold for, or offered, exposed or in any person’s possession for sale only for, use or consumption at the premises of the seller; and
 
@@ -843,6 +839,8 @@ makes any misrepresentation either by word of mouth or otherwise as to the quant
 (b) at any time, after the close of the period specified in paragraph (a), a sample taken from the lot of packages contained no inadequate packages.
 
 [30/2005 wef 01/01/2006]
+
+(7) [Deleted by Act 30/2005 wef 01/01/2006]
 
 (8) For the purposes of this section, any statement, whether oral or in writing, as to the weight of any goods shall be deemed, unless otherwise expressed, to be a statement as to the net weight of the goods.
 
@@ -1046,11 +1044,11 @@ Provided that the powers conferred by this subsection shall be exercised only to
 
 (c) upon such a statement in writing being delivered to that person.
 
-(3) Where the Minister by order provides that this sub-section is to apply, in the case of such goods in such circumstances as are specified in the order, to any requirement so specified under this Act or any subsidiary legislation made thereunder with respect to the making known to the buyer of the quantity by weight of such goods sold by retail, then, in any case to which the order applies, that requirement shall be deemed to be satisfied if the goods are bought at premises at which any weighing instrument of such description as may be prescribed —
+(3) Where the Minister by order provides that this subsection is to apply, in the case of such goods in such circumstances as are specified in the order, to any requirement so specified under this Act or any subsidiary legislation made thereunder with respect to the making known to the buyer of the quantity by weight of such goods sold by retail, then, in any case to which the order applies, that requirement shall be deemed to be satisfied if the goods are bought at premises at which any weighing instrument of such description as may be prescribed —
 
 (a) is kept available by the occupier of those premises for use without charge by any prospective buyer of such goods for the purpose of weighing for himself any such goods offered or exposed for sale by retail on those premises;
 
-(b) is so kept available in a position on those premises which is suitable and convenient for such use of the equipment; and
+(b) is so kept available in a position on those premises which is suitable and convenient for such use of the instrument; and
 
 (c) is reserved for use for that purpose at all times while those premises are open for retail transactions,
 
@@ -1106,11 +1104,7 @@ ADMINISTRATION
 
 29A\.—(1) The Board may appoint any person to be an Authorised Verifier for the purposes of this Act and any subsidiary legislation made thereunder.
 
-[30/2005 wef 01/01/2006]
-
 (2) Any person who desires to be appointed as an Authorised Verifier shall make an application for appointment to the Board in accordance with regulations made under this Act.
-
-[30/2005 wef 01/01/2006]
 
 (3) No person shall —
 
@@ -1120,15 +1114,9 @@ ADMINISTRATION
 
 unless he has been appointed by the Board under subsection (1) as an Authorised Verifier.
 
-[30/2005 wef 01/01/2006]
-
 (4) No Authorised Verifier shall, for the purposes of section 7A(3)(a), use any working standard or testing instrument which he knows or has reason to suspect is false or unjust.
 
-[30/2005 wef 01/01/2006]
-
 (5) Any person who contravenes subsection (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[30/2005 wef 01/01/2006]
 
 (6) Without prejudice to section 30, for the purposes of ensuring compliance by an Authorised Verifier with this Act or any subsidiary legislation made thereunder, an inspector may —
 
@@ -1141,8 +1129,6 @@ unless he has been appointed by the Board under subsection (1) as an Authorised 
 (b) require the Authorised Verifier to furnish, within such period as the inspector may specify, such information or particulars as the inspector may require; and
 
 (c) enter and inspect any premises at which the Authorised Verifier carries out any inspection or testing of any weighing or measuring instrument or the affixing of any stamp or Accuracy Label on such instrument.
-
-[30/2005 wef 01/01/2006]
 
 (7) Any Authorised Verifier who fails to comply with any requirement under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -1176,15 +1162,13 @@ unless he has been appointed by the Board under subsection (1) as an Authorised 
 
 31\.—(1) Any police officer or inspector may arrest without warrant any person committing in his view or who he has reasonable cause to believe has committed an offence under this Act or any subsidiary legislation made thereunder.
 
-(2) A person arrested under this section may be detained at any police station or at the office of the Controller to be dealt with in accordance with the provisions of the Criminal Procedure Code (Cap. 68) and shall not be detained longer than is necessary for bringing him before a Magistrate’s Court.
+(2) A person arrested under this section may be detained at any police station or at the office of the Controller to be dealt with in accordance with the provisions of the Criminal Procedure Code [Cap. 68] and shall not be detained longer than is necessary for bringing him before a Magistrate’s Court.
 
 (3) An offence under this Act or any subsidiary legislation made thereunder shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code and an inspector may exercise any of the special powers relating to investigation of seizable offences conferred upon a police officer by that Code.
 
 ### Power to require recall of weighing or measuring instrument supplied
 
 31A\.—(1) Where any person has supplied any weighing or measuring instrument which is, or which the Controller has reason to believe is, in contravention of this Act or any subsidiary legislation made thereunder, the Controller may require the person to effect a recall of any weighing or measuring instrument supplied by him.
-
-[30/2005 wef 01/01/2006]
 
 (2) Any person who fails to comply with a requirement of the Controller made under subsection (1) shall be guilty of an offence.
 
@@ -1320,13 +1304,13 @@ whether in all cases or in any specified case or class of cases and subject to s
 
 ### Transitional provision
 
-41\. Notwithstanding the repeal of the Weights and Measures Act (1970 Ed., Cap.263), any weighing or measuring equipment tested, passed and stamped under that Act shall be deemed to have been tested, passed and stamped under a corresponding provision of this Act.
+41\. Notwithstanding the repeal of the Weights and Measures Act [1970 Ed., Cap. 263], any weighing or measuring equipment tested, passed and stamped under that Act shall be deemed to have been tested, passed and stamped under a corresponding provision of this Act.
 
 FIRST SCHEDULE
 
 Sections 3(2) and 6(1), (5), (6) and (7)
 
-DEFINITIONS OF UNITS OF MEASUREMENT (metric units)
+Definitions of units of measurement (metric units)
 
 Part I
 
@@ -1516,7 +1500,7 @@ SECOND SCHEDULE
 
 Section 4(3), (6) and (7)
 
-MEASURES AND WEIGHTS (metric system)
+Measures and weights (metric system)
 
 Part I
 
@@ -1676,7 +1660,7 @@ THIRD SCHEDULE
 
 Section 40
 
-Customary Weights
+Customary weights
 
 1 Hoon
 
@@ -1710,6 +1694,8 @@ Customary Weights
 
 =
 
+…
+
 =
 
 1 1/3 ozs
@@ -1740,7 +1726,7 @@ Weights and Measures Act
 
 (CHAPTER 349)
 
-This Legislative History is provided for the convenience of users of the Weights and Measures Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Weights and Measures Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1763,3 +1749,9 @@ This Legislative History is provided for the convenience of users of the Weights
 |||(Bill No. 20/2005 published on 19 July 2005)|
 ||Date of Second and Third Readings|15 August 2005|
 ||Date of commencement|1 January 2006|
+|6.|**Act 54 of 2007—Agency for Science, Technology and Research (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 October 2007|
+|||(Bill No. 45/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 January 2008|
