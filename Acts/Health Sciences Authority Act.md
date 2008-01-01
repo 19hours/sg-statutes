@@ -248,7 +248,9 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF AUTHORITY
 
 (c) to collect and co-ordinate the collection of blood from donors and to test, process and distribute such blood and the products thereof for the purpose of building and maintaining a safe and adequate national blood supply;
 
-(d) to provide professional, investigative and analytical services in health sciences to the Government and to any other person or body (whether in Singapore or elsewhere);
+(d) to provide professional, investigative, analytical and other services in health sciences and chemical metrology (relating to human health) to the Government and to any other person or body (whether in Singapore or elsewhere);
+
+[54/2007 wef 01/01/2008]
 
 (e) to conduct or engage any other person to conduct research in health sciences, and generally to promote the development of health sciences;
 
@@ -308,7 +310,7 @@ solely or principally for a therapeutic, preventive, palliative, diagnostic or c
 
 (c) with the approval of the Minister, form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any other capacity and to share profits;
 
-(d) provide technical, consultancyor advisory services to the Government or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Authority;
+(d) provide technical, consultancy, advisory or other services to the Government or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Authority;
 
 (e) become a member or affiliate of any international body the functions, objects or duties of which are similar to those of the Authority;
 
@@ -638,6 +640,11 @@ This Legislative History is provided for the convenience of users of the Health 
 |||(Bill No. 3/2007 published on 16 March 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|1 November 2007|
+|7.|**Act 54 of 2007—Agency for Science, Technology and Research (Amendment) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 45/2007 published on 28 December 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Health Sciences Authority Act
