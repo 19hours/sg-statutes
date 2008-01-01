@@ -326,6 +326,8 @@
 
 - [103 Savings provision](#Savings-provision)
 
+- [104 Consequential provision arising from abolition of imputation system](#Consequential-provision-arising-from-abolition-of-imputation-system)
+
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
@@ -1120,7 +1122,7 @@ FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
 ### Exemption of approved foreign loan interest from tax
 
-59\.—(1) Notwithstanding section 43(1)(b) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved foreign loan certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any interest on an approved foreign loan payable to a foreign lender.
+59\.—(1) Notwithstanding section 43(1) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved foreign loan certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any interest on an approved foreign loan payable to a foreign lender.
 
 [1/95]
 
@@ -1162,7 +1164,7 @@ Relief conditional on no increase in foreign tax
 
 ### Reduction of tax for approved royalties, fees or contributions
 
-64\.—(1) Notwithstanding section 43(1)(b) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved royalties, fees or contributions certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any approved royalties, fees or contributions received by a non-resident person.
+64\.—(1) Notwithstanding section 43(1) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved royalties, fees or contributions certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any approved royalties, fees or contributions received by a non-resident person.
 
 [1/95]
 
@@ -2492,6 +2494,16 @@ he may, by notice in writing, require the company within 30 days from the date o
 
 [11/2004]
 
+### Consequential provision arising from abolition of imputation system
+
+104\. The following provisions shall cease to have effect from 1st January 2008:
+
+(a) sections 14(1) to (6), (9) and (10), 19L(1) to (8), 72, 74(2), 97Q(1) to (7) and (10) and 97ZI(1) to (8); and
+
+(b) paragraphs (i) (in relation to paragraph (b)) and (ii) of sections 14(7), 19L(9), 73, 97Q(8) and 97ZI(9).
+
+[53/2007 wef 01/01/2008]
+
 ## LEGISLATIVE HISTORY
 
 Economic Expansion Incentives (Relief from Income Tax) Act
@@ -2685,6 +2697,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 2/2007 published on 22 January 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Dates of commencement|5 March 2007 (section 2(a) and (b))|
+|39.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 22 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
