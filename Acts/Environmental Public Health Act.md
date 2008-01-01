@@ -1626,7 +1626,7 @@ General Health Requirements for Buildings
 
 [22/99]
 
-(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Pollution Control Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294) and any regulations made thereunder.
+(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Protection and Management Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294) and any regulations made thereunder.
 
 [22/99]
 
@@ -2547,6 +2547,11 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 14/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Date of commencement|1 July 2007|
+|15.|**Act 26 of 2007—Environmental Pollution Control (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 13/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|1st January 2008|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
