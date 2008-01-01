@@ -266,7 +266,9 @@ where (in any such case) there is evidence that medicinal products of that descr
 
 “contravention” includes failure to comply and “contravene” has a corresponding meaning;
 
-“dentist” means a person registered under the Dentists Act [Cap. 76] in Division One of the register;
+“dentist” means a person registered under the Dental Registration Act (Cap. 76) whose name appears in the first division of the Register of Dentists;
+
+[22/2007 wef 01/01/2008]
 
 “disease” includes any injury, ailment or adverse condition whether of body or mind;
 
@@ -1777,3 +1779,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 3/2007 published on 23 January 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|1 November 2007|
+|11.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 28 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
