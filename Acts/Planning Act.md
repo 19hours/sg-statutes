@@ -1030,65 +1030,47 @@ DEVELOPMENT CHARGES
 
 ### Development Baseline and Development Ceiling
 
-36\.—(1) Subject to this section, the Development Baseline for any land shall be the value of one of the following developments which, when calculated in accordance with the prescribed method and rates, gives the highest figure:
+36\.—(1) Subject to this section, the Development Baseline for any land shall be the value of any authorised development of that land which satisfies any one or more of the following criteria:
 
-(a) any development for which that land was allocated in the Master Plan as approved by the Governor in Council on 5th August 1958 under the provisions of Part IV of the Singapore Improvement Ordinance (Cap. 259, 1955 Ed.);
+(a) development charge, where payable in respect of the authorised development, has been paid;
 
-(b) any development for which that land was allocated in the Master Plan as the result of any alteration or addition made under section 6(1) of the repealed Act prior to 24th April 1982; or
+(b) no development charge is payable in respect of the authorised development by reason of any exemption or remission under this Act or the repealed Act; or
 
-(c) any authorised development of that land which satisfies any one or more of the following criteria:
+(c) development charge is not payable in respect of the authorised development under the written law in force when the development was authorised.
 
-(i) development charge, where payable in respect of the authorised development, has been paid;
+(2) The value of any development of land referred to in subsection (1) shall be calculated in accordance with the prescribed methods and rates.
 
-(ii) no development charge is payable in respect of the authorised development by reason of any exemption or remission under this Act or the repealed Act;
-
-(iii) development charge is not payable in respect of the authorised development under the written law in force when the development was authorised.
-
-[30/2003 wef 10/12/2003]
-
-(2) Notwithstanding subsection (1), where the value of any development referred to in subsection (1)(a) or (b) cannot be ascertained, the Development Baseline for the land concerned shall be determined without reference to any such development.
-
-(3) Notwithstanding subsection (1)(c), any development of land, being a development in respect of which no development charge is payable by reason of any exemption or remission under this Act or the repealed Act, shall be disregarded for the purpose of determining the Development Baseline for the land if —
+(3) Notwithstanding subsection (1), any development of land, being a development in respect of which no development charge is payable by reason of any exemption or remission under this Act or the repealed Act, shall be disregarded for the purpose of determining the Development Baseline for the land if —
 
 (a) any term of the exemption or remission provides that the development shall be disregarded for that purpose; or
 
 (b) any term of the exemption or remission has ceased to be or is not complied with.
 
-[30/2003 wef 10/12/2003]
-
-(3A) Notwithstanding subsection (1)(c), any development of land for use as a hotel or part of a hotel authorised by the grant of written permission by the competent authority under the repealed Act between 18th April 1968 and 31st December 1969 (both dates inclusive) on any prescribed land shall be disregarded for the purpose of determining the Development Baseline for the land if —
+(4) Notwithstanding subsection (1), any development of land for use as a hotel or part of a hotel authorised by the grant of written permission by the competent authority under the repealed Act between 18th April 1968 and 31st December 1969 (both dates inclusive) on any prescribed land shall be disregarded for the purpose of determining the Development Baseline for the land if —
 
 (a) the use of the development as a hotel or part of a hotel has ceased; or
 
 (b) the application for planning permission or conservation permission being considered by the competent authority for the land is for development of the land for a use other than as a hotel.
 
-[30/2003 wef 10/12/2003]
-
-(4) In determining the Development Baseline for any land, nothing in subsection (1) shall require any development of the land before the current zoning and previous zoning of the land took effect to be regarded; and “current zoning” shall mean the most recent zoning of the land as at the material date, and “previous zoning” shall mean the zoning of the same land immediately before the current zoning took effect.
-
-(5) Notwithstanding subsections (1) to (4), where the Development Baseline for any land cannot be ascertained in accordance with those subsections, the Development Baseline for the land shall be deemed to be the value of the last development of the land before the material date, being a development which was authorised by any written permission granted under this Act or the repealed Act or by any written law for the time being in force.
+(5) Notwithstanding subsections (1) to (4), where the Development Baseline for any land cannot be ascertained in accordance with those subsections, the Development Baseline for the land shall be deemed to be the value of the last authorised development of the land before the material date.
 
 (6) Notwithstanding subsections (1) to (5), where the Development Baseline for any land cannot be ascertained in accordance with those subsections, the competent authority may, with the prior approval of the Minister, assign the Development Baseline for that land.
 
 (7) The Development Ceiling for any land shall be the total of the following when calculated in accordance with the prescribed method and rates:
 
-(a) the value of the development of the land previously authorised and to be retained; and
+(a) the value of the authorised development of the land to be retained; and
 
 (b) the value of the development of the land to be authorised by the written permission.
 
-(7A) Notwithstanding anything in this Act, in determining both the Development Baseline and Development Ceiling for any land, any development of that land authorised by a written permission granted for a specified period not exceeding 10 years shall be disregarded.
+(8) Notwithstanding anything in this Act, in determining both the Development Baseline and Development Ceiling for any land, any development of that land authorised by a written permission granted for a specified period not exceeding 10 years shall be disregarded.
 
-[30/2003 wef 10/12/2003]
-
-(7B) For the purposes of subsection (7A) —
+(9) For the purposes of subsection (8) —
 
 (a) the fact that the period specified for a written permission granted for a development may be extended by the competent authority shall not be taken into consideration in determining whether the written permission is granted for a specified period not exceeding 10 years; and
 
 (b) where the competent authority extends the period for which a written permission is granted for a development, the extension shall be deemed to be a separate written permission granted for the period of the extension specified by the competent authority.
 
-[30/2003 wef 10/12/2003]
-
-(8) In this section, unless the context otherwise requires —
+(10) In this section, unless the context otherwise requires —
 
 “authorised”, in relation to any development of land, means any development of that land —
 
@@ -1096,15 +1078,9 @@ DEVELOPMENT CHARGES
 
 (b) effected or carried out pursuant to any written approval granted under any written law before 1st February 1960;
 
-[30/2003 wef 10/12/2003]
+“material date” means the date on which an application for planning permission or conservation permission is made.
 
-“material date” means the date when an application for planning permission or conservation permission is made and, in relation to subsection (4), an application to amend any such permission shall be disregarded;
-
-“zoning”, in relation to any land, means the zoning or rezoning of the land pursuant to any amendment to the Master Plan under —
-
-(a) section 6(1) of the repealed Act before 24th April 1982; or
-
-(b) section 6(1) or (2) of the repealed Act or section 8(1) or (2) of this Act in relation to any development referred to in subsection (1)(c).
+[30/2003 wef 01/01/2008]
 
 ### Liability to pay development charge
 
@@ -1536,9 +1512,13 @@ Section 2
 
 Qualified Persons
 
-1\. Any person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act.
+1. Any person who is registered as an architect under the Architects Act (Cap. 2) and who has in force a practising certificate issued under that Act.
 
-2\. Any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
+[30/2003 wef 10/12/2003]
+
+2. Any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
+
+[30/2003 wef 10/12/2003]
 
 3. Any person who is registered as a land surveyor under the Land Surveyors Act (Cap. 156) and who has in force a practising certificate issued under that Act.
 
@@ -1728,3 +1708,8 @@ This Legislative History is provided for the convenience of users of the Plannin
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
+|25.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 27/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|1st January 2008 (section 12)|
