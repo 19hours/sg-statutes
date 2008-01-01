@@ -1,16 +1,14 @@
-**Endangered Species (Import and Export) Act 2006**
+**Endangered Species (Import and Export) Act**
 
-**(No. 5 of 2006)**
+**(CHAPTER 92A)**
 
 **Table of Contents**
 
 [**Long Title**](#Endangered-Species-Import-and-Export-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -74,57 +72,39 @@
 
 - [29 Rules](#Rules)
 
-- [30 Repeal](#Repeal)
-
-- [31 Transitional and savings provision](#Transitional-and-savings-provision)
+- [30 Transitional and savings provision](#Transitional-and-savings-provision)
 
 [**THE SCHEDULE Scheduled Species**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Endangered Species (Import and Export) Act
 
-Published by Authority
+(CHAPTER 92A)
 
-NO. 1]
+(Original Enactment: Act 5 of 2006)
 
-Friday, February 17
+REVISED EDITION 2008
 
-[2006
+(1st January 2008)
 
-The following Act was passed by Parliament on 17th January 2006 and assented to by the President on 6th February 2006:—
+An Act to give effect to the Convention on International Trade in Endangered Species of Wild Fauna and Flora by controlling the importation, exportation, re-exportation and introduction from the sea of certain animals and plants, and parts and derivatives of such animals and plants, and for matters connected therewith.
 
-Endangered Species (Import and Export) Act 2006
-
-(No. 5 of 2006)
-
-I assent.
-
-S R NATHAN
-
-President
-
-6th February 2006.
-
-Date of Commencement: 1st March 2006
-
-An Act to repeal and re-enact with amendments the Endangered Species (Import and Export) Act (Chapter 92A of the 2000 Revised Edition) so as to give effect to the Convention on International Trade in Endangered Species of Wild Fauna and Flora by controlling the importation, exportation, re-exportation and introduction from the sea of certain animals and plants, and parts and derivatives of such animals and plants, and for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Endangered Species (Import and Export) Act 2006 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Endangered Species (Import and Export) Act.
 
 ### Interpretation
 
-2\.—(1) In this Act, unless the context otherwise requires ––
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “advertise”, in relation to a scheduled species, means to describe, make reference to or allude in any way, by any means or in any form, to that scheduled species —
 
@@ -172,13 +152,13 @@ PRELIMINARY
 
 “premises” includes any house, hut, shed, structure, platform, path, bridge, open space, building or enclosure whether roofed or not;
 
-“readily recognisable part or derivative of a plant” means any substantially complete or part or derivative of a plant, in natural form, preserved, dried or otherwise treated or prepared which may or may not be contained in preparations, and includes ––
+“readily recognisable part or derivative of a plant” means any substantially complete or part or derivative of a plant, in natural form, preserved, dried or otherwise treated or prepared which may or may not be contained in preparations, and includes —
 
 (a) seed, stem, leaf, bark, root, log, flower, fruit or pod; and
 
 (b) any thing which is claimed by any person, or which appears from an accompanying document, the packaging, a label or mark or from any other circumstances, to contain a part or derivative of a plant;
 
-“readily recognisable part or derivative of an animal” means any substantially complete or part or derivative of an animal, in natural form, stuffed, chilled, preserved, dried or otherwise treated or prepared which may or may not be contained in preparations, and includes ––
+“readily recognisable part or derivative of an animal” means any substantially complete or part or derivative of an animal, in natural form, stuffed, chilled, preserved, dried or otherwise treated or prepared which may or may not be contained in preparations, and includes —
 
 (a) meat, bones, hide, skin, leather, tusk, horn, antler, gland, feathers, hair, teeth, claws, shell, scales and eggs; and
 
@@ -418,7 +398,7 @@ shall be guilty of an offence.
 
 (8) Subject to subsection (10), if any scheduled species enters Singapore by any conveyance contrary to this Act, the owner and the importer of the scheduled species shall be jointly and severally liable for all expenses incurred by the Director-General or any authorised officer in respect of the detention, confiscation, storage, maintenance, housing, repatriation, transport and disposal of the scheduled species.
 
-(9) If the sum charged under subsection (7) or (8) is not paid by the owner, importer, exporter or re-exporter, as the case may be, within 14 days after demand, that sum may be reported to a Magistrate’s Court or District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or District Court, as the case may be.
+(9) If the sum charged under subsection (7) or (8) is not paid by the owner, importer, exporter or re-exporter, as the case may be, within 14 days after demand, that sum may be reported to a Magistrate’s Court or a District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or a District Court, as the case may be.
 
 (10) When a decision of repatriation is made under this Act in respect of any scheduled species which has been imported or introduced into Singapore in contravention of this Act, and the scheduled species was brought into Singapore in a conveyance, the owner of the conveyance shall, if required in writing by the Director-General, provide or be responsible for —
 
@@ -496,7 +476,7 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
 
-(b) to be attributable to any neglect on the part of such an officer or member,
+(b) to be attributable to any neglect on the part of such an officer or a member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -536,7 +516,7 @@ MISCELLANEOUS
 
 24\.—(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(2) For the purpose of section 133 of the Criminal Procedure Code and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Director-General or an authorised officer.
+(2) For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Director-General or an authorised officer.
 
 ### Composition of offences
 
@@ -610,13 +590,11 @@ MISCELLANEOUS
 
 (b) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 2 years or both for each offence.
 
-### Repeal
-
-30\. The Endangered Species (Import and Export) Act (Cap. 92A) is repealed.
-
 ### Transitional and savings provision
 
-31\. Any application for a permit, and any permit, approval, notice, order or other document, made, issued or given under the repealed Endangered Species (Import and Export) Act shall, so far as it is not inconsistent with the provisions of this Act, be deemed to have been made, issued or given under this Act.
+30\. Any application for a permit, and any permit, approval, notice, order or other document, made, issued or given under the repealed Endangered Species (Import and Export) Act (Cap. 92A, 2000 Ed.) shall, so far as it is not inconsistent with the provisions of this Act, be deemed to have been made, issued or given under this Act.
+
+[31
 
 ## THE SCHEDULE
 
@@ -652,7 +630,7 @@ Interpretation of the Appendices
 
 (b) “var(s).” is used to denote variety (varieties).
 
-8\. As none of the species or higher taxa of FLORA included in Appendix I is annotated to the effect that its hybrids shall be treated in accordance with the provisions of Article III of the Convention, this means that artificially propagated hybrids produced from one or more of these species or taxa may be traded with a certificate of artificial propagation, and that seeds and pollen (including pollinia), cut flowers, seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers of these hybrids are not subject to the provisions of the Convention.
+8\. As none of the species or higher taxa of FLORA included in Appendix I is annotated to the effect that its hybrids shall be treated in accordance with the provisions of Article III of the Convention, this means that artificially propagated hybrids produced from one or more of these species or taxa may be traded with a certificate of artificial propagation, and that seeds and pollen (including pollinia), cut flowers, seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers of these hybrids are not subject to the provisions of the Convention.
 
 9\. The names of the countries in parentheses placed against the names of species in Appendix III are those of the Parties submitting these species for inclusion in this Appendix.
 
@@ -732,9 +710,7 @@ Damaliscus pygargus pygargus
 
 Gazella cuvieri
 
-Gazella dorcas
-
-(Tunisia)
+Gazella dorcas (Tunisia)
 
 Gazella leptoceros
 
@@ -1744,35 +1720,35 @@ Populations of Botswana, Namibia, South Africa and Zimbabwe (listed in Appendix 
 
 For the exclusive purpose of allowing:
 
-(a) trade in hunting trophies for non-commercial purposes;
+a) trade in hunting trophies for non-commercial purposes;
 
-(b) trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and forin situconservation programmes for Namibia and South Africa;
+b) trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and forin situconservation programmes for Namibia and South Africa;
 
-(c) trade in hides;
+c) trade in hides;
 
-(d) trade in hair;
+d) trade in hair;
 
-(e) trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
+e) trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
 
-(f) trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe;
+f) trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe;
 
-(g) trade in registered raw ivory (for Botswana, Namibia, South Africa and Zimbabwe, whole tusks and pieces) subject to the following:
+g) trade in registered raw ivory (for Botswana, Namibia, South Africa and Zimbabwe, whole tusks and pieces) subject to the following:
 
-(i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin);
+i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin);
 
-(ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;
+ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;
 
-(iii) not before the Secretariat has verified the prospective importing countries and the registered government-owned stocks;
+iii) not before the Secretariat has verified the prospective importing countries and the registered government-owned stocks;
 
-(iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa);
+iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa);
 
-(v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in paragraph g) iv) above, in a single sale per destination under strict supervision of the Secretariat;
+v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in paragraph g) iv) above, in a single sale per destination under strict supervision of the Secretariat;
 
-(vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
+vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
 
-(vii) the additional quantities specified in paragraph g) v) above shall be traded only after the Standing Committee has agreed that the above conditions have been met; and
+vii) the additional quantities specified in paragraph g) v) above shall be traded only after the Standing Committee has agreed that the above conditions have been met; and
 
-(h) no further proposals to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs g) i), g) ii), g) iii), g) vi) and g) vii). In addition such further proposals shall be dealt with in accordance with Decisions 14.77 and 14.78.
+h) no further proposals to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs g) i), g) ii), g) iii), g) vi) and g) vii). In addition such further proposals shall be dealt with in accordance with Decisions 14.77 and 14.78.
 
 On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations.
 
@@ -3682,27 +3658,23 @@ Tillandsia xerographica
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 #9All parts and derivatives except those bearing a label
 
-“
-
-Produced fromHoodiaspp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx
-
-”.
+“Produced fromHoodiaspp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx”.
 
 #2All parts and derivatives except:
 
-(a) seeds and pollen; and
+a) seeds and pollen; and
 
-(b) finished products packaged and ready for retail trade.
+b) finished products packaged and ready for retail trade.
 
 #3Whole and sliced roots and parts of roots.
 
@@ -3790,33 +3762,33 @@ Sclerocactus papyracanthus
 
 6. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Convention:
 
-— Hatiora x graeseri
+– Hatiora x graeseri
 
-— Schlumbergera x buckleyi
+– Schlumbergera x buckleyi
 
-— Schlumbergera russelliana x Schlumbergera truncata
+– Schlumbergera russelliana x Schlumbergera truncata
 
-— Schlumbergera orssichiana x Schlumbergera truncata
+– Schlumbergera orssichiana x Schlumbergera truncata
 
-— Schlumbergera opuntioides x Schlumbergera truncata
+– Schlumbergera opuntioides x Schlumbergera truncata
 
-— Schlumbergera truncata (cultivars)
+– Schlumbergera truncata (cultivars)
 
-— Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus
+– Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus
 
-— Opuntia microdasys (cultivars).
+– Opuntia microdasys (cultivars).
 
 #4All parts and derivatives, except:
 
-(a) seeds, except those from Mexican cacti originating in Mexico, and pollen;
+a) seeds, except those from Mexican cacti originating in Mexico, and pollen;
 
-(b) seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants;
+c) cut flowers of artificially propagated plants;
 
-(d) fruits and parts and derivatives thereof of naturalized or artificially propagated plants; and
+d) fruits and parts and derivatives thereof of naturalized or artificially propagated plants; and
 
-(e) separate stem joints (pads) and parts and derivatives thereof of naturalized or artificially propagated plants of the genusOpuntiasubgenusOpuntia.
+e) separate stem joints (pads) and parts and derivatives thereof of naturalized or artificially propagated plants of the genusOpuntiasubgenusOpuntia.
 
 Appendices 
 
@@ -3896,13 +3868,13 @@ Dionaea muscipula
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 Appendices 
 
@@ -3970,13 +3942,13 @@ Oreomunnea pterocarpa
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and;
+c) cut flowers of artificially propagated plants; and;
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 Appendices 
 
@@ -4070,13 +4042,13 @@ Aloe vossii
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 #7Logs, wood-chips, powder and extracts.
 
@@ -4148,13 +4120,13 @@ spp\.
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 #5Logs, sawn wood and veneer sheets.
 
@@ -4162,13 +4134,13 @@ spp\.
 
 7. Artificially propagated hybrids of the following genera are not subject to the provisions of the Convention, if conditions, as indicated under a) and b), are met:Cymbidium, Dendrobium, PhalaenopsisandVanda:
 
-(a) Specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
+a) Specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
 
-(b) 
+b)
 
-(i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or
+i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or
 
-(ii) when shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification.
+ii) when shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification.
 
 Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents.
 
@@ -4286,21 +4258,21 @@ Balmea stormiae
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 8Artificially propagated specimens of cultivars ofCyclamen persicumare not subject to the provisions of the Convention. However, the exemption does not apply to such specimens traded as dormant tubers.
 
 #2All parts and derivatives except:
 
-(a) seeds and pollen; and
+a) seeds and pollen; and
 
-(b) finished products packaged and ready for retail trade.
+b) finished products packaged and ready for retail trade.
 
 #8Underground parts (i.e. roots, rhizomes): whole, parts and powdered.
 
@@ -4386,19 +4358,19 @@ Chigua spp\.
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 #2All parts and derivatives except:
 
-(a) seeds and pollen; and
+a) seeds and pollen; and
 
-(b) finished products packaged and ready for retail trade.
+b) finished products packaged and ready for retail trade.
 
 9Artificially propagated hybrids and cultivars ofTaxus cuspidata,live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of the Convention.
 
@@ -4430,19 +4402,116 @@ spp\. #2
 
 #1All parts and derivatives, except:
 
-(a) seeds, spores and pollen (including pollinia);
+a) seeds, spores and pollen (including pollinia);
 
-(b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
+b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, transported in sterile containers;
 
-(c) cut flowers of artificially propagated plants; and
+c) cut flowers of artificially propagated plants; and
 
-(d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
 
 #2All parts and derivatives except:
 
-(a) seeds and pollen; and
+a) seeds and pollen; and
 
-(b) finished products packaged and ready for retail trade.
+b) finished products packaged and ready for retail trade.
 
-[S 477/2007 wef 13/09/2007]
+## LEGISLATIVE HISTORY
+
+Endangered Species (Import and Export) Act
+
+(CHAPTER 92A)
+
+This Legislative History is provided for the convenience of users of the Endangered Species (Import and Export) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 4 of 1989—Endangered Species (Import and Export) Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 4/1989 published on 16 January 1989)|
+||Date of Second and Third Readings|26 January 1989|
+||Date of commencement|17 March 1989|
+|2.|**G. N. No. S 21/1990—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1990**|
+||Date of commencement|18 January 1990|
+|3.|**1990 Revised Edition—Endangered Species (Import and Export) Act**|
+||Date of operation|15 March 1990|
+|4.|**G. N. No. S 329/1990—Endangered Species (Import and Export) Act (Amendment of Schedules) (No. 2) Notification 1990**|
+||Date of commencement|31 August 1990|
+|5.|**G. N. No. S 41/1992—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1992**|
+||Date of commencement|15 February 1992|
+|6.|**G. N. No. S 259/1992—Endangered Species (Import and Export) Act (Amendment of Schedules) (No. 2) Notification 1992**|
+||Date of commencement|11 June 1992|
+|7.|**Act 30 of 1992—Endangered Species (Import and Export) (Amendment) Act 1992**|
+||Date of First Reading|31 July 1992|
+|||(Bill No. 29/1992 published on 1 August 1992)|
+||Date of Second and Third Readings|14 September 1992|
+||Date of commencement|20 November 1992|
+|8.|**G. N. No. S 344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
+||Date of commencement|4 November 1994|
+|9.|**G. N. No. S 49/1995—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1995**|
+||Date of commencement|16 February 1995|
+|10.|**G. N. No. S 412/1997—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1997**|
+||Date of commencement|18 September 1997|
+|11.|**Act 16 of 2000—Agri-Food and Veterinary Authority Act 2000**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 February 2000|
+|||(Bill No. 11/2000 published on 22 February 2000)|
+||Date of Second and Third Readings|17 March 2000|
+||Date of commencement|1 April 2000|
+|12.|**G. N. No. S 332/2000—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 2000**|
+||Date of commencement|19 July 2000|
+|13.|**2000 Revised Edition—Endangered Species (Import and Export) Act**|
+||Date of operation|30 December 2000|
+|14.|**G. N. No. S 512/2001—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 2001**|
+||Date of commencement|2 January 2002|
+|15.|**G. N. No. S 70/2003—Endangered Species (Import and Export) Act (Amendmend of First, Second and Third Schedules) Notification 2003**|
+||Date of commencement|13 February 2003|
+|16.|**G. N. No. S 253/2003—Endangered Species (Import and Export) Act (Amendment of First Schedule) Notification 2003**|
+||Date of commencement|28 May 2003|
+|17.|**G. N. No. S 481/2003—Endangered Species (Import and Export) Act (Amendment of First Schedule) (No. 2) Nofitication 2003**|
+||Date of commencement|16 October 2003|
+|18.|**G. N. No. S 23/2005—Endangered Species (Import and Export) Act (Amendment of First, Second and Third Schedules) Notification 20051**|
+||Date of commencement|12 January 2005|
+|19.|**G. N. No. S 593/2005—Endangered Species (Import and Export) Act (Amendment of First Schedule) Notification 2005**|
+||Date of commencement|19 September 2005|
+|20.|**Act 5 of 2006—Endangered Species (Import and Export) Act 2006**|
+||Date of First Reading|21 November 2005|
+|||(Bill No. 43/2005 publshed on 22 November 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 March 2006|
+Note:
+
+The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with amendments the Endangered Species (Import and Export) Act (Chapter 92A, 2000 Revised Edition).
+
+|21.|**G. N. No. S 290/2006—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2006**|
+||Date of commencement|14 June 2006|
+|22.|**G. N. No. S 103/2007—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2007**|
+||Date of commencement|4 March 2007|
+|23.|**G. N. No. S 152/2007—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2007**|
+||Date of commencement|3 May 2007|
+|24.|**G. N. No. S 477/2007—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 3) Notification 2007**|
+||Date of commencement|13 September 2007|
+|25.|**2008 Revised Edition—Endangered Species (Import and Export) Act**|
+||Date of operation|1 January 2008|
+## COMPARATIVE TABLE
+
+Endangered Species (Import and Export) Act
+
+(CHAPTER 92A)
+
+The following provisions in the Endangered Species (Import and Export) Act 2006 (Act 5 of 2006) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Endangered Species (Import and Export) Act.
+
+2008 Ed\. 
+
+Act 5 of 2006 
+
+Omitted
+
+30 
+
+30 
+
+31 
 
