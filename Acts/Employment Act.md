@@ -446,7 +446,7 @@ PRELIMINARY
 
 “machinery” includes all oil engines, gas engines, steam engines and any other machines in which mechanical movement, either linear or rotated or both, takes place, steam boilers, gas cylinders, air receivers, steam receivers, steam containers, cast iron underfired vulcanizers, refrigerating plants, pressure receivers, all appliances for the transmission of power by ropes, belts, chains, driving straps or bands or gearing, electrical generators and electrical motors;
 
-“medical officer” means a dentist registered under the Dentists Act [Cap. 76], or a medical practitioner, employed by the Government or by an approved hospital;
+“medical officer” means a dentist registered under the Dental Registration Act [Cap. 76], or a medical practitioner, employed by the Government or by an approved hospital;
 
 [22/2007 wef 01/01/2008]
 
@@ -920,7 +920,9 @@ the salary due to him for that month shall be calculated in accordance with the 
 
 [36/95]
 
-1Section 33, Part IV and section 115 of the Act shall apply to other employees who are in receipt of a salary not exceeding $1,600 a month. —vide S 425/95 wef 1.11.95
+1, and of the Act shall apply to other employees who are in receipt of a salary not exceeding $1,600 a month. —vide S 425/95 wef and 1.11.95
+
+Section 33Part IV of the Act shall apply to employees (other than workmen) who are in receipt of a salary not exceeding $1,600 a month. —vide S 395/2007 wef 23.7.2007
 
 ### Offence
 
@@ -930,7 +932,7 @@ the salary due to him for that month shall be calculated in accordance with the 
 
 REST DAYS, HOURS OF WORK, HOLIDAYS AND OTHER CONDITIONS OF SERVICE
 
-2Section 33, Part IV and section 115 of the Act shall apply to other employees who are in receipt of a salary not exceeding $1,600 a month. —vide S 425/95 wef 1.11.95
+2Section 33 and Part IV of the Act shall apply to employees (other than workmen) who are in receipt of a salary not exceeding $1,600 a month. —vide S 395/2007 wef 23.7.2007
 
 ### Application of Part IV to workmen and certain other employees
 
@@ -1850,7 +1852,7 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 ### Commissioner may call for further returns
 
-98\.—(1) The Commissioner may give notice in writing to any employer when and as often as he thinks necessary requiring the employer to furnish within a reasonable time stated in the notice fuller or further returns respecting any matter as to which a return is required under this Act or the Employment of Foreign Manpower Act.
+98\.—(1) The Commissioner may give notice in writing to any employer when and as often as he thinks necessary requiring the employer to furnish within a reasonable time stated in the notice fuller or further returns respecting any matter as to which a return is required under this Act or the Employment of Foreign Manpower Act [Cap. 91A].
 
 [30/2007 wef 01/07/2007]
 
@@ -2067,8 +2069,6 @@ Provided that the person claiming in respect of matters arising out of or as the
 (4) In this section, “employer” includes the transferor and the transferee of an undertaking or part thereof referred to in section 18A.
 
 [36/95]
-
-3Section 33, Part IV and section 115 of the Act shall apply to other employees who are in receipt of a salary not exceeding $1,600 a month. —videS 425/95 wef 1.11.95
 
 ### Prohibiting order by Commissioner to third party
 
@@ -2573,3 +2573,9 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 17/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Date of commencement|1 July 2007|
+|20.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
