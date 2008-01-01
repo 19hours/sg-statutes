@@ -48,6 +48,18 @@
 
 - [21 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
+- [22 Transfer to Agency of property, assets, liabilities, etc., relating to metrology](#Transfer-to-Agency-of-property-assets-liabilities-etc-relating-to-metrology)
+
+- [23 Transfer of employees](#Transfer-of-employees)
+
+- [24 Existing contracts](#Existing-contracts)
+
+- [25 Pending proceedings](#Pending-proceedings)
+
+- [26 Continuation and completion of disciplinary proceedings](#Continuation-and-completion-of-disciplinary-proceedings)
+
+- [27 Misconduct or neglect of duty by employee before transfer](#Misconduct-or-neglect-of-duty-by-employee-before-transfer)
+
 [**FIRST SCHEDULE Constitution and proceedings of Agency**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Agency)
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
@@ -166,41 +178,65 @@ and shall be signed by these persons.
 
 (a) to initiate, promote, stimulate, encourage, facilitate and assist in the development of an environment that is conducive —
 
-(i) to the creation and development of world class research and development capabilities in science (including biomedicine ), engineering and technology in Singapore;
+(i) to the creation and development of world class research and development capabilities in science (including biomedicine and metrology), engineering and technology in Singapore;
+
+[54/2007 wef 01/01/2008]
 
 (ii) to the development and nurture of scientific talent and technical capability in scientific and technological knowledge, research and development that is desirable to support the private sector and public sector and to the creation of intellectual capital in Singapore; and
 
 (iii) to the commercial application of scientific knowledge or technology in Singapore;
 
-(b) to support, direct, stimulate and undertake research and development in the areas of science (including biomedicine ), engineering and technology;
+(b) to support, direct, stimulate and undertake research and development in the areas of science (including biomedicine and metrology), engineering and technology;
+
+[54/2007 wef 01/01/2008]
 
 (c) to stimulate, encourage, facilitate, co-ordinate and direct scientific and technological research and development by the Government, educational institutions and research communities within and outside Singapore, and to facilitate co-operation, communication, collaboration and exchange of ideas and knowledge between them;
 
-(d) to provide financial assistance for research and development in the areas of science (including biomedicine ), engineering and technology;
+(d) to provide financial assistance for research and development in the areas of science (including biomedicine and metrology), engineering and technology;
 
-(e) to promote manpower training and development in the areas of science (including biomedicine ), engineering and technology;
+[54/2007 wef 01/01/2008]
 
-(f) to provide advice and guidance to the Government in the formulation of its policies and laws on all aspects of science (including biomedicine ), engineering and technology, and on any matter relating to or affecting the commercial application of scientific knowledge or technology;
+(e) to promote manpower training and development in the areas of science (including biomedicine and metrology), engineering and technology;
 
-(g) to establish, develop and manage public institutes and research institutes in the areas of science (including biomedicine ), engineering and technology;
+[54/2007 wef 01/01/2008]
 
-(h) to undertake the promotion of science (including biomedicine ), engineering and technology among youths and to create, foster and encourage public awareness and understanding of the importance of science and technology in Singapore;
+(f) to provide advice and guidance to the Government in the formulation of its policies and laws on all aspects of science (including biomedicine and metrology), engineering and technology, and on any matter relating to or affecting the commercial application of scientific knowledge or technology;
 
-(i) to create, develop, apply for, acquire and hold intellectual property and rights and enter into arrangements for the commercial application of any such intellectual property and rights on such terms as to royalties or otherwise as the Agency thinks fit; and
+[54/2007 wef 01/01/2008]
 
-(j) to represent Singapore internationally in respect of matters relating to science (including biomedicine ), engineering and technology.
+(g) to establish, develop and manage public institutes and research institutes in the areas of science (including biomedicine and metrology), engineering and technology;
+
+[54/2007 wef 01/01/2008]
+
+(h) to undertake the promotion of science (including biomedicine and metrology), engineering and technology among youths and to create, foster and encourage public awareness and understanding of the importance of science and technology in Singapore;
+
+(i) to create, develop, apply for, acquire and hold intellectual property and rights and enter into arrangements for the commercial application of any such intellectual property and rights on such terms as to royalties or otherwise as the Agency thinks fit;
+
+[54/2007 wef 01/01/2008]
+
+(j) to represent Singapore internationally in respect of matters relating to science (including biomedicine and metrology), engineering and technology;
 
 [26/2002]
+
+(k) to serve as the national body in the area of metrology, and to advise the Government and industrial, commercial and other organisations in respect of matters relating to metrology; and
+
+[54/2007 wef 01/01/2008]
+
+(l) to promote and facilitate the national metrology programme and the participation of Singapore in international metrology activities.
+
+[54/2007 wef 01/01/2008]
 
 (2) In carrying out its functions, the Agency shall —
 
 (a) have regard to the needs of Singapore and its resources;
 
+[54/2007 wef 01/01/2008]
+
 (aa) have regard to the policies and directions of the Research, Innovation and Enterprise Council established under the National Research Fund Act 2006; and
 
 [17/2006 wef 22/08/2006]
 
-(b) promote developments, commercial applications and innovation in areas of science (including biomedicine ), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
+(b) promote developments, commercial applications and innovation in areas of science (including biomedicine and metrology), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
 
 [18/2000; 26/2002]
 
@@ -222,7 +258,9 @@ and shall be signed by these persons.
 
 (b) form or participate in the formation of any company or enter into any joint venture or partnership for the purposes of this Act;
 
-(c) establish institutes for the conduct of research and development in the areas of science (including biomedicine ), engineering and technology;
+(c) establish institutes for the conduct of research and development in the areas of science (including biomedicine and metrology), engineering and technology;
+
+[54/2007 wef 01/01/2008]
 
 (d) provide financial assistance (including scholarships) —
 
@@ -230,7 +268,41 @@ and shall be signed by these persons.
 
 (ii) to any person in the public or private sector for scientific and technological research and development, or for any commercial application of scientific knowledge or technology, in areas defined by the Agency;
 
-(e) provide or develop incubator facilities for new enterprises, and business support facilities to growing enterprises, which are based on or involved in the commercial application of scientific knowledge or technology developed by any public institute, research institute, educational institution, hospital or other speciality centre, whether or not funded by the Agency;
+(e) provide or develop incubator facilities for new enterprises, and business support facilities to growing enterprises, which are based on or involved in the commercial application of scientific knowledge or technology developed by any public institute, research institute, educational institution, hospital or other specialty centre, whether or not funded by the Agency;
+
+[54/2007 wef 01/01/2008]
+
+(ea) establish a national standard of weights, measures and other quantities, hold custody and disseminate the measurement parameters of standards of such weights, measures and other quantities, and verify and develop methods for the measurement of such weights, measures and other quantities;
+
+[54/2007 wef 01/01/2008]
+
+(eb) develop, verify and calibrate instruments and equipment and issue certificates to the effect that an instrument or equipment complies with the specifications applicable to it and control the use of such certificates;
+
+[54/2007 wef 01/01/2008]
+
+(ec) undertake such measurement activities as the Agency considers necessary for the upgrading of quality standards in industry or for gaining international recognition;
+
+[54/2007 wef 01/01/2008]
+
+(ed) establish, administer and operate any scheme considered by the Agency to be necessary or desirable to the development of the metrology infrastructure;
+
+[54/2007 wef 01/01/2008]
+
+(ee) provide information resources on matters relating to metrology;
+
+[54/2007 wef 01/01/2008]
+
+(ef) conduct tests of proficiency on matters relating to metrology;
+
+[54/2007 wef 01/01/2008]
+
+(eg) initiate and undertake or enter into contractual testing, consultancy, research or development projects for the purposes of its functions;
+
+[54/2007 wef 01/01/2008]
+
+(eh) collect, compile, analyse and disseminate by any convenient means information of a statistical nature or otherwise concerning matters relating to its functions;
+
+[54/2007 wef 01/01/2008]
 
 (f) receive, acquire, develop or hold, or sell, mortgage or otherwise dispose of any property, movable or immovable, or any interest therein;
 
@@ -418,6 +490,80 @@ and any legal proceedings that might have been continued or started by or agains
 
 (3) Any contract, arrangement or other transaction purporting to be entered into by the Agency for Science, Technology and Research, or by any person on behalf of the Agency, on or after 1st January 2002 but prior to the commencement of the National Science and Technology Board (Amendment) Act 2002 (Act 26 of 2002) shall bind the Agency as if the Agency had been a party to the contract, arrangement or transaction, as the case may be.
 
+### Transfer to Agency of property, assets, liabilities, etc., relating to metrology
+
+22\.—(1) As from the appointed day, all movable and immovable property vested in the Board and used or managed by the national metrology centre of the Board, and all assets, interests, rights, privileges, liabilities and obligations of the Board relating to the national metrology centre, shall be transferred to and shall vest in the Agency without further assurance, act or deed.
+
+(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Agency under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
+
+(3) In this section and sections 23 to 27 —
+
+“appointed day” means the date of commencement of the Agency for Science, Technology and Research (Amendment) Act 2007;
+
+“Board” means the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A).
+
+[54/2007 wef 01/01/2008]
+
+### Transfer of employees
+
+23\.—(1) As from the appointed day, every person employed immediately before that day by the Board in its national metrology centre shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by him immediately prior to his transfer.
+
+(2) If any question arises as to whether any person has been transferred to the service of the Agency under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person was or was not so transferred.
+
+(3) Until such time as terms and conditions of service are drawn up by the Agency, the scheme and terms and conditions of service in the Board shall continue to apply to every person transferred to the service of the Agency under subsection (1) as if he were still in the service of the Board.
+
+(4) The terms and conditions to be drawn up by the Agency shall take into account the terms and conditions of service (including salaries and accrued rights to leave) enjoyed by the persons transferred to the service of the Agency under subsection (1) while in the employment of the Board.
+
+(5) Any term or condition relating to the length of service with the Agency shall recognise the length of service of the persons so transferred while in the employment of the Board to be service with the Agency.
+
+[54/2007 wef 01/01/2008]
+
+### Existing contracts
+
+24\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Board, or any person acting on its behalf, is a party and relating to —
+
+(a) the national metrology centre of the Board;
+
+(b) any property, asset, interest, right, privilege, liability or obligation transferred to and vested in the Agency under section 22; or
+
+(c) any employee of the Board transferred to the service of the Agency under section 23,
+
+shall continue in force on and after that day and shall be enforceable by or against the Agency as if, instead of the Board or the person acting on its behalf, the Agency had been named therein or had been a party thereto.
+
+[54/2007 wef 01/01/2008]
+
+### Pending proceedings
+
+25\. Any proceedings or cause of action relating to —
+
+(a) the national metrology centre of the Board;
+
+(b) any property, asset, interest, right, privilege, liability or obligation transferred to and vested in the Agency under section 22; or
+
+(c) any employee of the Board transferred to the service of the Agency under section 23,
+
+pending or existing immediately before the appointed day by or against the Board, or any person acting on its behalf, may be continued and shall be enforced by or against the Agency.
+
+[54/2007 wef 01/01/2008]
+
+### Continuation and completion of disciplinary proceedings
+
+26\.—(1) Where, on the appointed day —
+
+(a) any disciplinary proceedings were pending against any employee of the Board transferred to the service of the Agency under section 23, the proceedings shall be carried on and completed by the Agency; and
+
+(b) any matter against any employee so transferred was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+
+(2) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Agency and have the same force or effect as if it had been made by the Agency pursuant to the authority vested in the Agency under this Act.
+
+[54/2007 wef 01/01/2008]
+
+### Misconduct or neglect of duty by employee before transfer
+
+27\. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Agency under section 23 who had, whilst he was in the employment of the Board, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Board, and if section 23 had not been enacted.
+
+[54/2007 wef 01/01/2008]
+
 FIRST SCHEDULE
 
 Section 5.
@@ -572,7 +718,7 @@ Auditor’s report
 
 (2) The auditor may at any other time report to the Minister through the Agency upon any matter arising out of the performance of his audit.
 
-Powers of the auditor
+Powers of auditor
 
 9.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency.
 
@@ -653,6 +799,11 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 10/2006 published on 28 February 2006)|
 ||Date of Second and Third Readings|3 April 2006|
 ||Date of commencement|22 August 2006|
+|9.|**Act 54 of 2007—Agency for Science, Technology and Research (Amendment) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 45/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Agency for Science, Technology and Research Act
