@@ -276,7 +276,7 @@ PRELIMINARY
 
 “protector” means the Director and includes any public officer or other person who is appointed or authorised by the Director under section 3(3) to exercise the powers and perform the duties of a protector under this Act;
 
-“registered medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dentists Act (Cap. 76);
+“registered medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
 “relevant offence” means —
 
@@ -1842,6 +1842,12 @@ This Legislative History is provided for the convenience of users of the Childre
 
 |
 (Item (3) of Fourth Schedule)|
+|6.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
