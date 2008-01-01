@@ -1874,6 +1874,26 @@ Parts III and IV and section 19(1)(b) of the Act shall not apply.
 
 and which does not achieve its primary intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its intended function by such means.
 
+2. Cosmetic products
+
+“Cosmetic product” means any substance or preparation that is intended by its manufacturer to be placed in contact with the various external parts of the human body or with the teeth or the mucous membranes of the oral cavity, with a view exclusively or mainly to —
+
+Sections 12(1), (2) and (3), 13(1), (2) and (3), 14(1) and (2), 15 and 19(1) (b), and Parts VI and VII of the Act shall not apply.
+
+(a) cleaning them;
+
+(b) perfuming them;
+
+(c) changing their appearance;
+
+(d) correcting body odours;
+
+(e) protecting them; or
+
+(f) keeping them in good condition.
+
+[S 684/2007 wef 01/01/2008]
+
 SECOND SCHEDULE
 
 Section 72(2) and (4)
