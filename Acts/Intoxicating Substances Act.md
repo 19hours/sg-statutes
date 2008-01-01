@@ -650,7 +650,7 @@ after that officer has informed the person concerned, his parent or guardian or 
 
 “photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
 
-“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76).
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76).
 
 (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 26B.
 
@@ -1022,6 +1022,12 @@ This Legislative History is provided for the convenience of users of the Intoxic
 |||(Bill No. 41/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
 ||Date of commencement|1 March 2006|
+|9.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Intoxicating Substances Act
