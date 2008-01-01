@@ -1054,7 +1054,7 @@ after that officer has informed the person concerned, his parent or guardian or 
 
 “photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
 
-“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dentists Act (Cap. 76).
+“registered medical practitioner” has the same meaning as in the Medical Registration Act (Cap. 174) and includes a dentist registered under the Dental Registration Act (Cap. 76).
 
 [22/2007 wef 01/01/2008]
 
@@ -2788,27 +2788,17 @@ Specified Drugs
 
 2A\. Buprenorphine
 
-2B. Cannabinol
+2B\. Cannabinol
 
-[S 402/2007 wef 01/08/2007]
+2C\. Cannabinol derivatives as defined in Part IV of the First Schedule
 
-2C. Cannabinol derivatives as defined in Part IV of the First Schedule
+2D\. Cannabis
 
-[S 402/2007 wef 01/08/2007]
-
-2D. Cannabis
-
-[S 402/2007 wef 01/08/2007]
-
-2E. Cocaine
-
-[S 402/2007 wef 01/08/2007]
+2E\. Cocaine
 
 3\. Diamorphine
 
-3A. Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine
-
-[S 402/2007 wef 01/08/2007]
+3A\. Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine
 
 4\. N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine
 
@@ -2954,6 +2944,12 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 October 2006|
 |39.|**G. N. No. S 402/2007—Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2007**|
 ||Date of commencement|1 August 2007|
+|40.|**Act 22 of 2007—Dentists (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2007|
+|||(Bill No. 9/2007 published on 27 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|1 January 2008|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
