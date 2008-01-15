@@ -1,4 +1,4 @@
-**Singapore Red Cross Society (Incorporation) Act**
+**Singapore Red Cross Society Act**
 
 **(CHAPTER 304)**
 
@@ -32,7 +32,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Singapore Red Cross Society (Incorporation) Act
+# Singapore Red Cross Society Act
 
 (CHAPTER 304)
 
@@ -48,7 +48,9 @@ An Act to incorporate the Singapore Red Cross Society.
 
 ### Short title
 
-1\. This Act may be cited as the Singapore Red Cross Society (Incorporation) Act.
+1\. This Act may be cited as the Singapore Red Cross Society Act.
+
+[55/2007 wef 15/01/2008]
 
 ### Interpretation
 
@@ -148,7 +150,9 @@ An Act to incorporate the Singapore Red Cross Society.
 
 (b) the words “Red Cross” or “Geneva Cross”.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[55/2007 wef 15/01/2008]
 
 ### Transfer of property, liabilities, etc.
 
@@ -168,11 +172,11 @@ Provided that nothing in this section shall preclude the payment in good faith o
 
 ## LEGISLATIVE HISTORY
 
-Singapore Red Cross Society (Incorporation) Act
+Singapore Red Cross Society Act
 
 (CHAPTER 304)
 
-This Legislative History is provided for the convenience of users of the Singapore Red Cross Society (Incorporation) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Red Cross Society Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -188,3 +192,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|5 May 1978|
 |3.|**1985 Revised Edition—Singapore Red Cross Society (Incorporation) Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 55 of 2007—Geneva Conventions (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 October 2007|
+|||(Bill No. 41/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|15 January 2008|
