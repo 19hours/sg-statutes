@@ -32,15 +32,21 @@
 
 - [10 Penalty](#Penalty)
 
+- [10A Inspectors](#Inspectors)
+
 - [11 Prosecution of offences](#Prosecution-of-offences)
 
 [**FIRST SCHEDULE Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field**](#FIRST-SCHEDULE-Geneva-Convention-for-the-Amelioration-of-the-Condition-of-the-Wounded-and-Sick-in-Armed-Forces-in-the-Field)
 
-[**SECOND SCHEDULE Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces At Sea**](#SECOND-SCHEDULE-Geneva-Convention-for-the-Amelioration-of-the-Condition-of-Wounded-Sick-and-Shipwrecked-Members-of-Armed-Forces-At-Sea)
+[**SECOND SCHEDULE Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea**](#SECOND-SCHEDULE-Geneva-Convention-for-the-Amelioration-of-the-Condition-of-Wounded-Sick-and-Shipwrecked-Members-of-Armed-Forces-at-Sea)
 
 [**THIRD SCHEDULE Geneva Convention Relative to the Treatment of Prisoners of War**](#THIRD-SCHEDULE-Geneva-Convention-Relative-to-the-Treatment-of-Prisoners-of-War)
 
 [**FOURTH SCHEDULE Geneva Convention Relative to the Protection of Civilian Persons in Time of War**](#FOURTH-SCHEDULE-Geneva-Convention-Relative-to-the-Protection-of-Civilian-Persons-in-Time-of-War)
+
+[**FIFTH SCHEDULE Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Adoption of an additional Distinctive Emblem**](#FIFTH-SCHEDULE-Protocol-Additional-to-the-Geneva-Conventions-of-12-August-1949-and-Relating-to-the-Adoption-of-an-additional-Distinctive-Emblem)
+
+[**SIXTH SCHEDULE Distinctive Emblems of the Geneva Conventions**](#SIXTH-SCHEDULE-Distinctive-Emblems-of-the-Geneva-Conventions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -77,6 +83,22 @@ PRELIMINARY
 “protected prisoner of war” means a person protected by the Convention set out in the Third Schedule;
 
 “Protecting Power”, in relation to a protected prisoner of war or a protected internee, means the Power or organisation which is carrying out, in the interests of the Power of which he is a national, or of whose forces he is, or was at any material time, a member, the duties assigned to Protecting Powers under the Convention set out in the Third or, as the case may be, the Fourth Schedule;
+
+“red crescent emblem” means the emblem of a red crescent on a white ground as depicted in Part I of the Sixth Schedule;
+
+[55/2007 wef 15/01/2008]
+
+“red cross emblem” means the emblem of a red cross on a white ground formed by reversing the Federal Colours of Switzerland as depicted in Part II of the Sixth Schedule;
+
+[55/2007 wef 15/01/2008]
+
+“red crystal emblem” means the emblem of a red crystal composed of a red frame in the shape of a square on edge on a white ground as depicted in Part III of the Sixth Schedule;
+
+[55/2007 wef 15/01/2008]
+
+“red lion and sun emblem” means the emblem of a red lion and sun on a white ground as depicted in Part IV of the Sixth Schedule;
+
+[55/2007 wef 15/01/2008]
 
 “scheduled Conventions” means the Conventions set out in the Schedules.
 
@@ -120,7 +142,7 @@ shall be guilty of an offence and shall be liable on conviction —
 
 shall not proceed with the trial until it is proved to the satisfaction of the court that a notice containing the particulars mentioned in subsection (2), so far as they are known to the Public Prosecutor, has been served not less than 3 weeks previously on the Protecting Power and, if the accused is a protected prisoner of war, on the accused and the prisoner’s representative.
 
-(2) The particulars referred to in subsection (1), are —
+(2) The particulars referred to in subsection (1) are —
 
 (a) the full name and description of the accused, including the date of his birth and his profession or trade, if any, and, if the accused is a protected prisoner of war, his rank and army, regimental, personal or serial number;
 
@@ -176,7 +198,7 @@ and if the court adjourns the trial for the purpose of enabling the requirements
 
 that the Protecting Power has been notified of his conviction and sentence.
 
-(3) [Deleted by Act 2 of 1994 wef 08/04/1994]
+(3) [Deleted by Act 2/94 wef 08/04/1994]
 
 ### Powers of Minister
 
@@ -190,7 +212,19 @@ PREVENTION OF ABUSE OF RED CROSS AND OTHER EMBLEMS
 
 ### Prohibition of use of emblem without authority
 
-8\. No person shall use for any purpose whatsoever in Singapore, without the authority of the Minister, the heraldic emblem of the red cross on a white ground formed by reversing the Federal Colours of Switzerland, or the words “Red Cross” or “Geneva Cross”.
+8\. No person shall, without the authority of the Minister, use for any purpose in Singapore —
+
+(a) the red crescent emblem;
+
+(b) the red cross emblem;
+
+(c) the red crystal emblem;
+
+(d) the red lion and sun emblem; or
+
+(e) the words “Red Cross” or “Geneva Cross”.
+
+[55/2007 wef 15/01/2008]
 
 ### Prohibition of use of certain words and designs
 
@@ -198,15 +232,63 @@ PREVENTION OF ABUSE OF RED CROSS AND OTHER EMBLEMS
 
 (a) any design consisting of a white or silver cross on a red ground, none of the limbs of which extends to the margin of the ground, being the cross comprised in the Arms of the Swiss Confederation;
 
-(b) any design being a colourable imitation of the design mentioned in paragraph (a); or
+(b) any design being a colourable imitation of the design mentioned in paragraph (a);
 
-(c) any design being a colourable imitation of the heraldic emblem of the red cross on a white ground mentioned in section 8 or any words so nearly resembling the words “Red Cross” or “Geneva Cross” as to be capable of being understood as referring to that emblem.
+(c) any design being a colourable imitation of the red crescent emblem, the red cross emblem, the red crystal emblem or the red lion and sun emblem; or
+
+[55/2007 wef 15/01/2008]
+
+(d) any words so nearly resembling the words “Red Cross” or “Geneva Cross” as to be capable of being understood as referring to the red cross emblem.
+
+[55/2007 wef 15/01/2008]
 
 ### Penalty
 
-10\.—(1) If any person contravenes any of the provisions of this Part, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both and, in addition, any goods upon or in connection with which the emblem, design or words, as the case may be, was or were used, shall be forfeited.
+10\.—(1) If any person contravenes any of the provisions of this Part, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in addition, any goods upon or in connection with which the emblem, design or words, as the case may be, was or were used, shall be forfeited.
+
+[55/2007 wef 15/01/2008]
 
 (2) Where an offence committed by a body corporate or society is proved to have been committed with the consent or connivance of any director, manager, secretary or other officer of the body corporate or society, he, as well as the body corporate or society, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+### Inspectors
+
+10A\.—(1) The Minister may appoint one or more public officers as inspectors to investigate the commission of an offence under this Part.
+
+(2) For the purposes of an investigation under subsection (1) —
+
+(a) an inspector may —
+
+(i) require any person to furnish any information that is within his knowledge that the inspector believes on reasonable grounds to be connected with any suspected contravention of this Part;
+
+(ii) require any person to produce any book, document, paper or other record, or other article, which may be related to the subject-matter of the investigation for inspection by the inspector and for making copies thereof; and
+
+(iii) examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Part; and
+
+(b) an inspector may, without warrant, enter, inspect and search any premises that the inspector has reason to suspect are being used, for or in connection with any purpose that is in contravention of this Part, and may —
+
+(i) inspect and make copies of and take extracts from, or require the person having the management or control of the premises to provide copies of or extracts from, any book, document, record or electronic material which the inspector reasonably believes to be the subject-matter of, or to be connected with, an investigation under subsection (1);
+
+(ii) take such photographs or video recordings as he thinks necessary to record the premises or part thereof, including any apparatus, appliance, equipment, instrument, article, book, document, record or thing found on the premises; and
+
+(iii) seize and remove from the premises any book, record, document, apparatus, equipment, instrument, material or thing which the inspector reasonably believes to be the subject-matter of, or to be connected with, an investigation under subsection (1).
+
+(3) Any information given by any person under subsection (2)(a)(i) or (iii) —
+
+(a) shall be reduced to a statement in writing and read over to him; and
+
+(b) shall, after correction, be signed by him.
+
+(4) Any person who, without lawful excuse —
+
+(a) refuses to answer any question put to him by an inspector or gives a false answer to such question;
+
+(b) refuses or fails to comply with any requirement of the inspector under subsection (2); or
+
+(c) wilfully obstructs an inspector in the exercise of his authority under subsection (2),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[55/2007 wef 15/01/2008]
 
 ### Prosecution of offences
 
@@ -216,7 +298,7 @@ Note: Part IV of this Act is here omitted as having had its effect.
 
 FIRST SCHEDULE
 
-[Sections 2 and 3(1)]
+Sections 2 and 3(1)
 
 Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field
 
@@ -438,29 +520,17 @@ The protection to which fixed establishments and mobile medical units of the Med
 
 Article 22
 
-(1)
-
 The following conditions shall not be considered as depriving a medical unit or establishment of the protection guaranteed by Article 19:
 
-(2)
+(1) That the personnel of the unit or establishment are armed, and that they use the arms in their own defence, or in that of the wounded and sick in their charge.
 
-That the personnel of the unit or establishment are armed, and that they use the arms in their own defence, or in that of the wounded and sick in their charge.
+(2) That in the absence of armed orderlies, the unit or establishment is protected by a picket or by sentries or by an escort.
 
-(3)
+(3) That small arms and ammunition taken from the wounded and sick and not yet handed to the proper service, are found in the unit or establishment.
 
-That in the absence of armed orderlies, the unit or establishment is protected by a picket or by sentries or by an escort.
+(4) That personnel and material of the veterinary service are found in the unit or establishment, without forming an integral part thereof.
 
-(4)
-
-That small arms and ammunition taken from the wounded and sick and not yet handed to the proper service, are found in the unit or establishment.
-
-(5)
-
-That personnel and material of the veterinary service are found in the unit or establishment, without forming an integral part thereof.
-
-(6)
-
-That the humanitarian activities of medical units and establishments or of their personnel extend to the care of civilian wounded or sick.
+(5) That the humanitarian activities of medical units and establishments or of their personnel extend to the care of civilian wounded or sick.
 
 Article 23
 
@@ -790,9 +860,9 @@ Done at Geneva this twelfth day of August, 1949, in the English and French langu
 
 SECOND SCHEDULE
 
-[Sections 2 and 3(1)]
+Sections 2 and 3(1)
 
-Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces At Sea
+Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea
 
 Geneva, 12th August, 1949
 
@@ -876,7 +946,7 @@ Article 10
 
 The High Contracting Parties may at any time agree to entrust to an organisation which offers all guarantees of impartiality and efficacy the duties incumbent on the Protecting Powers by virtue of the present Convention.
 
-When wounded, sick and shipwrecked, or medical personnel and chaplains do not benefit or cease to benefit, no matter for what reason, by the activities of a Protecting Power or of an organisation provided for in the first paragraph above, the Detaining Power shall request a neutral State, or such an organisation, to undertake the functions performed under the present Convention by a Protecting Power de signated by the Parties to a conflict.
+When wounded, sick and shipwrecked, or medical personnel and chaplains do not benefit or cease to benefit, no matter for what reason, by the activities of a Protecting Power or of an organisation provided for in the first paragraph above, the Detaining Power shall request a neutral State, or such an organisation, to undertake the functions performed under the present Convention by a Protecting Power designated by the Parties to a conflict.
 
 If protection cannot be arranged accordingly, the Detaining Power shall request or shall accept, subject to the provisions of this Article, the offer of the services of a humanitarian organisation, such as the International Committee of the Red Cross, to assume the humanitarian functions performed by Protecting Powers under the present Convention.
 
@@ -1068,7 +1138,7 @@ Merchant vessels which have been transformed into hospital ships cannot be put t
 
 Article 34
 
-The protection of which hospital ships and sick-bays are entitled shall not cease unless they are used to commit, outside their humanitarian duties, acts harmful to the enemy. Protection may, however, cease only after due warning has been given, naming in all appropriate cases a reasonable time limit, and after such warning has remained unheeded.
+The protection to which hospital ships and sick-bays are entitled shall not cease unless they are used to commit, outside their humanitarian duties, acts harmful to the enemy. Protection may, however, cease only after due warning has been given, naming in all appropriate cases a reasonable time limit, and after such warning has remained unheeded.
 
 In particular, hospital ships may not possess or use a secret code for their wireless or other means of communication.
 
@@ -1196,7 +1266,7 @@ Execution of the Convention
 
 Article 46
 
-Each Party to the conflict, acting through its Commanders-in-Chief, shall ensure the detailed execution of the preceding Articles, and provide for unforseen cases, in conformity with the general principles of the present Convention.
+Each Party to the conflict, acting through its Commanders-in-Chief, shall ensure the detailed execution of the preceding Articles, and provide for unforeseen cases, in conformity with the general principles of the present Convention.
 
 Article 47
 
@@ -1306,7 +1376,7 @@ Done at Geneva this twelfth day of August, 1949, in the English and French langu
 
 THIRD SCHEDULE
 
-[Sections 2, 3(1) and 4(4)]
+Sections 2, 3(1) and 4(4)
 
 Geneva Convention Relative to the Treatment of Prisoners of War
 
@@ -1659,7 +1729,7 @@ Assist Prisoners of War
 
 Article 33
 
-Members of the medical personnel and chaplains while retained by the Detaining Power with a view to assisting prisoners of war, shall not be considered as prisoners of war. They shall, however, receive as a minimum the benefits and protection of the present Convention, and shall also be granted all facilities necessary to provide for the medical care of, and religious ministration of prisoners of war.
+Members of the medical personnel and chaplains while retained by the Detaining Power with a view to assisting prisoners of war, shall not be considered as prisoners of war. They shall, however, receive as a minimum the benefits and protection of the present Convention, and shall also be granted all facilities necessary to provide for the medical care of, and religious ministration to prisoners of war.
 
 They shall continue to exercise their medical and spiritual functions for the benefit of prisoners of war, preferably those belonging to the armed forces upon which they depend, within the scope of the military laws and regulations of the Detaining Power and under the control of its competent services, in accordance with their professional etiquette. They shall also benefit by the following facilities in the exercise of their medical or spiritual functions:
 
@@ -1913,8 +1983,6 @@ Category V:
 
 General officers or prisoners of war of equivalent rank: seventy-five Swiss francs.
 
-[Note: Part IV of this Act is here omitted as having had its effect.]
-
 However, the Parties to the conflict concerned may by special agreement modify the amount of advances of pay due to prisoners of the preceding categories.
 
 Furthermore, if the amounts indicated in the first paragraph above would be unduly high compared with the pay of the Detaining Power’s armed forces or would, for any reason, seriously embarrass the Detaining Power, then, pending the conclusion of a special agreement with the Power on which the prisoners depend to vary the amounts indicated above, the Detaining Power:
@@ -1961,7 +2029,7 @@ Every item entered in the account of a prisoner of war shall be countersigned or
 
 Prisoners of war shall at all times be afforded reasonable facilities for consulting and obtaining copies of their accounts, which may likewise be inspected by the representatives of the Protecting Powers at the time of visits to the camp.
 
-When prisoners of war are transferred from one camp to another, their personal accounts will follow them. In case of transfer from one Detaining Power to another, the moneys which are their property and are not in the currency of the Detaining Power will follow them. They shall be given certificates of any other moneys standing to the credit of their accounts.
+When prisoners of war are transferred from one camp to another, their personal accounts will follow them. In case of transfer from one Detaining Power to another, the moneys which are their property and are not in the currency of the Detaining Power will follow them. They shall be given certificates for any other moneys standing to the credit of their accounts.
 
 The Parties to the conflict concerned may agree to notify to each other at specific intervals through the Protecting Power, the amount of the accounts of the prisoners of war.
 
@@ -2133,7 +2201,9 @@ Chapter III
 
 Penal and Disciplinary Sanctions
 
-I. General Provisions
+I. GENERAL PROVISIONS
+
+Article 82
 
 A prisoner of war shall be subject to the laws, regulations and orders in force in the armed forces of the Detaining Power; the Detaining Power shall be justified in taking judicial or disciplinary measures in respect of any offence committed by a prisoner of war against such laws, regulations or orders. However, no proceedings or punishments contrary to the provisions of this Chapter shall be allowed.
 
@@ -2177,17 +2247,19 @@ In no case may a woman prisoner of war be awarded or sentenced to a punishment m
 
 Prisoners of war who have served disciplinary or judicial sentences may not be treated differently from other prisoners of war.
 
-Ii. Disciplinary Sanctions
+II. DISCIPLINARY SANCTIONS
+
+Article 89
 
 The disciplinary punishments applicable to prisoners of war are the following:
 
-(a) a fine which shall not exceed 50 per cent of the advances of pay and working pay which the prisoner of war would otherwise receive under the provisions of Article 60 and 62 during a period of not more than thirty days;
+(1) a fine which shall not exceed 50 per cent of the advances of pay and working pay which the prisoner of war would otherwise receive under the provisions of Article 60 and 62 during a period of not more than thirty days;
 
-(b) discontinuance of privileges granted over and above the treatment provided for by the present Convention;
+(2) discontinuance of privileges granted over and above the treatment provided for by the present Convention;
 
-(c) fatigue duties not exceeding two hours daily;
+(3) fatigue duties not exceeding two hours daily;
 
-(d) confinement.
+(4) confinement.
 
 The punishment referred to under (3) shall not be applied to officers.
 
@@ -2207,11 +2279,11 @@ Article 91
 
 The escape of a prisoner of war shall be deemed to have succeeded when:
 
-(a) he has joined the armed forces of the Power on which he depends, or those of an allied Power;
+(1) he has joined the armed forces of the Power on which he depends, or those of an allied Power;
 
-(b) he has left the territory under the control of the Detaining Power, or of an ally of the said Power;
+(2) he has left the territory under the control of the Detaining Power, or of an ally of the said Power;
 
-(c) he has joined a ship flying the flag of the Power on which he depends, or of an allied Power in the territorial waters of the Detaining Power, the said ship not being under the control of the last named Power.
+(3) he has joined a ship flying the flag of the Power on which he depends, or of an allied Power in the territorial waters of the Detaining Power, the said ship not being under the control of the last named Power.
 
 Prisoners of war who have made good their escape in the sense of this Article and who are recaptured, shall not be liable to any punishment in respect of their previous escape.
 
@@ -2277,7 +2349,9 @@ They shall be allowed, on their request, to be present at the daily medical insp
 
 They shall have permission to read and write, likewise to send and receive letters. Parcels and remittances of money, however, may be withheld from them until the completion of the punishment; they shall meanwhile be entrusted to the prisoners’ representative, who will hand over to the infirmary the perishable goods contained in such parcels.
 
-Iii. Judicial Proceedings
+III. JUDICIAL PROCEEDINGS
+
+Article 99
 
 No prisoner of war may be tried or sentenced for an act which is not forbidden by the law of the Detaining Power or by international law, in force at the time the said act was committed.
 
@@ -2377,7 +2451,7 @@ Article 109
 
 Subject to the provisions of the third paragraph of this Article, Parties to the conflict are bound to send back to their own country, regardless of number or rank, seriously wounded and seriously sick prisoners of war, after having cared for them until they are fit to travel, in accordance with the first paragraph of the following Article.
 
-Throughout the duration of hostilities, Parties to the conflict shall endeavour, with the co-operation of the neutral Powers concerned, to make arrangements for the accommodation in neutral countries of the sick and wounded prisoners of war referred to in the second paragraph of the following Article. They may, in addition conclude agreements with a view to the direct repatriation or internment in a neutral country of able-bodied prisoners of war who have undergone a long period of captivity.
+Throughout the duration of hostilities, Parties to the conflict shall endeavour, with the co-operation of the neutral Powers concerned, to make arrangements for the accommodation in neutral countries of the sick and wounded prisoners of war referred to in the second paragraph of the following Article. They may, in addition, conclude agreements with a view to the direct repatriation or internment in a neutral country of able-bodied prisoners of war who have undergone a long period of captivity.
 
 No sick or injured prisoner of war who is eligible for repatriation under the first paragraph of this Article, may be repatriated against his will during hostilities.
 
@@ -2517,7 +2591,7 @@ Part V
 
 —
 
-Information Bureaux and Relef Societies for Prisoners of War
+Information Bureaux and RelIef Societies for Prisoners of War
 
 Article 122
 
@@ -2621,7 +2695,7 @@ Section II
 
 —
 
-Final Ptovisions
+Final PRovisions
 
 Article 133
 
@@ -2689,7 +2763,7 @@ Done at Geneva this twelfth day of August, 1949, in the English and French langu
 
 FOURTH SCHEDULE
 
-[Sections 2 and 3(1)]
+Sections 2 and 3(1)
 
 Geneva Convention Relative to the Protection of Civilian Persons in Time of War
 
@@ -3131,7 +3205,7 @@ In no case shall requisition of labour lead to a mobilisation of workers in an o
 
 Article 52
 
-No contract, agreement or regulation shall impair the right of any worker, whether voluntary or not and wherever he may be, to apply to the representatives of the Protecting Power in order to request the said Powers’s intervention.
+No contract, agreement or regulation shall impair the right of any worker, whether voluntary or not and wherever he may be, to apply to the representatives of the Protecting Power in order to request the said Power’s intervention.
 
 All measures aiming at creating unemployment or at restricting the opportunities offered to workers in an occupied territory, in order to induce them to work for the Occupying Power, are prohibited.
 
@@ -3381,7 +3455,7 @@ The Detaining Power is bound to take all necessary and possible measures to ensu
 
 The premises shall be fully protected from dampness, adequately heated and lighted, in particular between dusk and lights out. The sleeping quarters shall be sufficiently spacious and well ventilated, and the internees shall have suitable bedding and sufficient blankets, account being taken of the climate, and the age, sex, and state of health of the internees.
 
-Internees shall have for their use, day and night, sanitary conveniences which conform to the rules of hygiene and are constantly maintained in a state of cleanliness. They shall be provided with sufficient water and soap for their daily personal toilet and for washing their personal laundry; installations and facilities necessary for this purpose shall be granted to them. Showers of baths shall also be available. The necessary time shall be set aside for washing and for cleaning.
+Internees shall have for their use, day and night, sanitary conveniences which conform to the rules of hygiene and are constantly maintained in a state of cleanliness. They shall be provided with sufficient water and soap for their daily personal toilet and for washing their personal laundry; installations and facilities necessary for this purpose shall be granted to them. Showers or baths shall also be available. The necessary time shall be set aside for washing and for cleaning.
 
 Whenever it is necessary, as an exceptional and temporary measure, to accommodate women internees who are not members of a family unit in the same place of internment as men, the provision of separate sleeping quarters and sanitary conveniences for the use of such women internees shall be obligatory.
 
@@ -3575,7 +3649,7 @@ Chapter VIII
 
 —
 
-RELATIONS WITH THE EXTERIOR
+Relations with the exterior
 
 Article 105
 
@@ -3857,7 +3931,7 @@ Section V
 
 —
 
-Information Bureax and Central Agency
+Information BureaUx and Central Agency
 
 Article 136
 
@@ -3907,7 +3981,7 @@ section I — General Provisions
 
 Article 142
 
-Subject to the measures which the Detaining Powers may consider essential to ensure their security or to meet any other reasonable need, the representatives of religious organisations, relief societies, or any other organisations assisting the protected persons, shall receive from these Powers, for themselves or their duly accredited agents, all facilities for visiting the protected persons, for di stributing relief supplies and material from any source, intended for educational, recreational or religious purposes, or for assisting them in organising their leisure time within the places of internment. Such societies or organisations may be constituted in the territory of the Detaining Power, or in any other country, or they may have an international character.
+Subject to the measures which the Detaining Powers may consider essential to ensure their security or to meet any other reasonable need, the representatives of religious organisations, relief societies, or any other organisations assisting the protected persons, shall receive from these Powers, for themselves or their duly accredited agents, all facilities for visiting the protected persons, for distributing relief supplies and material from any source, intended for educational, recreational or religious purposes, or for assisting them in organising their leisure time within the places of internment. Such societies or organisations may be constituted in the territory of the Detaining Power, or in any other country, or they may have an international character.
 
 The Detaining Power may limit the number of societies and organisations whose delegates are allowed to carry out their activities in its territory and under its supervision, on condition, however, that such limitation shall not hinder the supply of effective and adequate relief to all protected persons.
 
@@ -4027,13 +4101,248 @@ Done at Geneva this twelfth day of August, 1949, in the English and French langu
 
 [Here follow the signatures and Annexes.]
 
+FIFTH SCHEDULE
+
+Section 2
+
+Protocol Additional to the Geneva Conventions
+
+
+
+
+of 12 August 1949, and Relating to the Adoption of
+
+
+
+
+an additional Distinctive Emblem
+
+The High Contracting Parties,
+
+(PP1) Reaffirming the provisions of the Geneva Conventions of 12 August 1949 (in particular Articles 26, 38, 42 and 44 of the First Geneva Convention) and, where applicable, their Additional Protocols of 8 June 1977 (in particular Articles 18 and 38 of Additional Protocol I and Article 12 of Additional Protocol II), concerning the use of distinctive emblems,
+
+(PP2) Desiring to supplement the aforementioned provisions so as to enhance their protective value and universal character,
+
+(PP3) Noting that this Protocol is without prejudice to the recognized right of High Contracting Parties to continue to use the emblems they are using in conformity with their obligations under the Geneva Conventions and, where applicable, the Protocols additional thereto,
+
+(PP4) Recalling that the obligation to respect persons and objects protected by the Geneva Conventions and the Protocols additional thereto derives from their protected status under international law and is not dependent on use of the distinctive emblems, signs or signals,
+
+(PP5) Stressing that the distinctive emblems are not intended to have any religious, ethnic, racial, regional or political significance,
+
+(PP6) Emphasizing the importance of ensuring full respect for the obligations relating to the distinctive emblems recognized in the Geneva Conventions, and, where applicable, the Protocols additional thereto,
+
+(PP7) Recalling that Article 44 of the First Geneva Convention makes the distinction between the protective use and the indicative use of the distinctive emblems,
+
+(PP8) Recalling further that National Societies undertaking activities on the territory of another State must ensure that the emblems they intend to use within the framework of such activities may be used in the country where the activity takes place and in the country or countries of transit,
+
+(PP9) Recognizing the difficulties that certain States and National Societies may have with the use of the existing distinctive emblems,
+
+(PP10) Noting the determination of the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and the International Red Cross and Red Crescent Movement to retain their current names and emblems,
+
+Have agreed on the following:
+
+Article 1
+
+Respect for and scope of application of this Protocol
+
+1\. The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
+
+2\. This Protocol reaffirms and supplements the provisions of the four Geneva Conventions of 12 August 1949 (“the Geneva Conventions”) and, where applicable, of their two Additional Protocols of 8 June 1977 (“the 1977 Additional Protocols”) relating to the distinctive emblems, namely the red cross, the red crescent and the red lion and sun, and shall apply in the same situations as those referred to in these provisions.
+
+Article 2
+
+Distinctive emblems
+
+1\. This Protocol recognizes an additional distinctive emblem in addition to, and for the same purposes as, the distinctive emblems of the Geneva Conventions. The distinctive emblems shall enjoy equal status.
+
+2\. This additional distinctive emblem, composed of a red frame in the shape of a square on edge on a white ground, shall conform to the illustration in the Annex to this Protocol. This distinctive emblem is referred to in this Protocol as the “third Protocol emblem”.
+
+3\. The conditions for use of and respect for the third Protocol emblem are identical to those for the distinctive emblems established by the Geneva Conventions and, where applicable, the 1977 Additional Protocols.
+
+4\. The medical services and religious personnel of armed forces of High Contracting Parties may, without prejudice to their current emblems, make temporary use of any distinctive emblem referred to in paragraph 1 of this Article where this may enhance protection.
+
+Article 3
+
+Indicative use of the third Protocol emblem
+
+1. National Societies of those High Contracting Parties which decide to use the third Protocol emblem may, in using the emblem in conformity with relevant national legislation, choose to incorporate within it, for indicative purposes:
+
+(a) a distinctive emblem recognized by the Geneva Conventions or a combination of these emblems; or
+
+(b) another emblem which has been in effective use by a High Contracting Party and was the subject of a communication to the other High Contracting Parties and the International Committee of the Red Cross through the depositary prior to the adoption of this Protocol.
+
+Incorporation shall conform to the illustration in the Annex to this Protocol.
+
+2\. A National Society which chooses to incorporate within the third Protocol emblem another emblem in accordance with paragraph 1 above, may, in conformity with national legislation, use the designation of that emblem and display it within its national territory.
+
+3\. National Societies may, in accordance with national legislation and in exceptional circumstances and to facilitate their work, make temporary use of the distinctive emblem referred to in Article 2 of this Protocol.
+
+4\. This Article does not affect the legal status of the distinctive emblems recognized in the Geneva Conventions and in this Protocol, nor does it affect the legal status of any particular emblem when incorporated for indicative purposes in accordance with paragraph 1 of this Article.
+
+Article 4
+
+International Committee of the Red Cross and
+
+
+
+
+International Federation of Red Cross and Red Crescent Societies
+
+The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, and their duly authorized personnel, may use, in exceptional circumstances and to facilitate their work, the distinctive emblem referred to in Article 2 of this Protocol.
+
+Article 5
+
+Missions under United Nations auspices
+
+The medical services and religious personnel participating in operations under the auspices of the United Nations may, with the agreement of participating States, use one of the distinctive emblems mentioned in Articles 1 and 2.
+
+Article 6
+
+Prevention and repression of misuse
+
+1\. The provisions of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, governing prevention and repression of misuse of the distinctive emblems shall apply equally to the third Protocol emblem. In particular, the High Contracting Parties shall take measures necessary for the prevention and repression, at all times, of any misuse of the distinctive emblems mentioned in Articles 1 and 2 and their designations, including the perfidious use and the use of any sign or designation constituting an imitation thereof.
+
+2\. Notwithstanding paragraph 1 above, High Contracting Parties may permit prior users of the third Protocol emblem, or of any sign constituting an imitation thereof, to continue such use, provided that the said use shall not be such as would appear, in time of armed conflict, to confer the protection of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, and provided that the rights to such use were acquired before the adoption of this Protocol.
+
+Article 7
+
+Dissemination
+
+The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that this instrument may become known to the armed forces and to the civilian population.
+
+Article 8
+
+Signature
+
+This Protocol shall be open for signature by the Parties to the Geneva Conventions on the day of its adoption and will remain open for a period of twelve months.
+
+Article 9
+
+Ratification
+
+This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Geneva Conventions and the 1977 Additional Protocols.
+
+Article 10
+
+Accession
+
+This Protocol shall be open for accession by any Party to the Geneva Conventions which has not signed it. The instruments of accession shall be deposited with the depositary.
+
+Article 11
+
+Entry into force
+
+1\. This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
+
+2\. For each Party to the Geneva Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
+
+Article 12
+
+Treaty relations upon entry into force of this Protocol
+
+1\. When the Parties to the Geneva Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
+
+2\. When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
+
+Article 13
+
+Amendment
+
+1\. Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties, the International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, whether a conference should be convened to consider the proposed amendment.
+
+2\. The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol.
+
+Article 14
+
+Denunciation
+
+1\. In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in a situation of armed conflict or occupation, the denunciation shall not take effect before the end of the armed conflict or occupation.
+
+2\. The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
+
+3\. The denunciation shall have effect only in respect of the denouncing Party.
+
+4\. Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict or occupation, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
+
+Article 15
+
+Notifications
+
+The depositary shall inform the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol, of:
+
+(a) signatures affixed to this Protocol and the deposit of instruments of ratification and accession under Articles 8, 9 and 10;
+
+(b) the date of entry into force of this Protocol under Article 11 within ten days of said entry into force;
+
+(c) communications received under Article 13;
+
+(d) denunciations under Article 14.
+
+Article 16
+
+Registration
+
+1\. After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
+
+2\. The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
+
+Article 17
+
+Authentic texts
+
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Geneva Conventions.
+
+ANNEX
+
+Third Protocol Emblem
+
+
+
+
+(Article 2, paragraph 2 and Article 3,
+
+
+
+
+paragraph 1 of the Protocol)
+
+Article 1 — Distinctive emblem
+
+Article 2 — Indicative use of the third Protocol emblem
+
+[55/2007 wef 15/01/2008]
+
+SIXTH SCHEDULE
+
+Section 2
+
+Distinctive Emblems of the Geneva Conventions
+
+Part I
+
+Red Crescent Emblem
+
+Part II
+
+Red Cross Emblem
+
+Part III
+
+Red Crystal Emblem
+
+Part IV
+
+Red Lion and Sun Emblem
+
+[55/2007 wef 15/01/2008]
+
 ## LEGISLATIVE HISTORY
 
 Geneva Conventions Act
 
 (CHAPTER 117)
 
-This Legislative History is provided for the convenience of users of the Geneva Conventions Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Geneva Conventions Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -4049,3 +4358,8 @@ This Legislative History is provided for the convenience of users of the Geneva 
 |||(Bill No. 2/1994 published on 18 January 1994)|
 ||Date of Second and Third Readings|23 February 1994|
 ||Date of commencement|8 April 1994|
+|4.|**Act 55 of 2007—Geneva Conventions (Amendment) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 41/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|15 January 2008|
