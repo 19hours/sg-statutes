@@ -540,7 +540,7 @@
 
 (CHAPTER 134)
 
-(Original Enactment: Ordinance 39 of 1947)
+(Original Enactment: Second Reprint (1984) Cap. 141)
 
 REVISED EDITION 2008
 
@@ -2998,6 +2998,162 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 (b) provide for the determination of the amount of income of the trustee of any prescribed trust fund to be exempt from tax; and
 
 (c) make provision generally for giving full effect to or for carrying out the purposes of this section.
+
+### Exemption of income of non-resident arising from funds managed by fund manager in Singapore
+
+13CA\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of any prescribed person arising from funds managed in Singapore by any prescribed fund manager.
+
+[53/2007]
+
+(1A) The Minister shall not prescribe the trustee of a prescribed trust fund referred to in section 13C as a prescribed person for the purposes of subsection (1).
+
+(2) Where —
+
+(a) income of any prescribed person, being a company, has been exempt from tax under subsection (1) in any year of assessment; and
+
+(b) a person (referred to in this section as the relevant owner), either alone or together with his associates, beneficially owns on the relevant day issued securities of the prescribed person the value of which is more than the prescribed percentage of the total value of all issued securities of the prescribed person on the relevant day,
+
+then the relevant owner shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
+
+where A
+
+is the percentage which the value of the issued securities of the prescribed person beneficially owned on the relevant day by the relevant owner bears to the total value of all issued securities of the prescribed person on the relevant day;
+
+B
+
+is the amount of income of the prescribed person as reflected in the audited account of the prescribed person for the basis period relating to that year of assessment; and
+
+C
+
+is the tax rate specified in section 43(1)(a) applicable to that year of assessment.
+
+[53/2007]
+
+(3) Subsection (2) shall not apply to a relevant owner if —
+
+(a) the Comptroller permits the relevant owner to take steps to reduce the ownership of the issued securities by him or his associates within such period as the Comptroller may specify, being a period of no more than 3 months from the relevant day; and
+
+[34/2008 wef 01/09/2007]
+
+(b) by the end of the specified period, the value of the issued securities beneficially owned by the relevant owner together with his associates is no more than the prescribed percentage of the total value of all issued securities of the prescribed person on the relevant day.
+
+[53/2007]
+
+(4) Where —
+
+(a) income of any prescribed person, being the trustee of a trust fund, has been exempt from tax under subsection (1) in any year of assessment; and
+
+(b) a person (referred to in this section as the relevant beneficiary), either alone or together with his associates, beneficially owns on the relevant day any part of the trust fund the value of which is more than the prescribed percentage of the total value of the trust fund on the relevant day,
+
+then the relevant beneficiary shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
+
+where A
+
+is the percentage which the value of the part of the trust fund beneficially owned on the relevant day by the relevant beneficiary bears to the total value of the trust fund on the relevant day;
+
+B
+
+is the amount of income of the prescribed person as reflected in the audited account of the prescribed person for the basis period relating to that year of assessment; and
+
+C
+
+is the tax rate specified in section 43(1)(c) applicable to that year of assessment.
+
+[53/2007]
+
+(5) Subsection (4) shall not apply to a relevant beneficiary if —
+
+(a) the Comptroller permits the relevant beneficiary to take steps to reduce the ownership of the trust fund by him or his associates within such period as the Comptroller may specify, being a period of no more than 3 months from the relevant day; and
+
+[34/2008 wef 01/09/2007]
+
+(b) by the end of the specified period, the value of the part of the trust fund beneficially owned by the relevant beneficiary together with his associates is no more than the prescribed percentage of the total value of the trust fund on the relevant day.
+
+[53/2007]
+
+(6) In a case where subsection (2) or (4) applies but the relevant owner or relevant beneficiary is a non-bona fide entity, then he shall not be liable to pay the penalty referred to in that subsection; but a person who —
+
+(a) beneficially owns on the relevant day equity interests of the relevant owner or relevant beneficiary where the percentage which the value of those equity interests bears to the total value of all equity interests of the relevant owner or relevant beneficiary on the relevant day is at least 25%; and
+
+(b) is not himself a non-bona fide entity,
+
+shall be liable to pay to the Comptroller, in such manner and within such reasonable time as may be determined by the Comptroller, a penalty to be computed in accordance with the following formula:
+
+where A
+
+is the percentage referred to in paragraph (a); and
+
+B
+
+is the amount of penalty which the relevant owner or relevant beneficiary would (but for this subsection) have been liable to pay under subsection (2) or (4).
+
+[53/2007]
+
+(7) For the purposes of subsection (6), if —
+
+(a) a person beneficially owns (including by virtue of one or more applications of this subsection) equity interests of a person (referred to in this subsection as a first level entity); and
+
+(b) the first level entity beneficially owns equity interests of another person (referred to in this subsection as a second level entity),
+
+then the first-mentioned person is taken to beneficially own equity interests of the second level entity; and the percentage which the value of those equity interests bears to the total value of all equity interests of the second level entity shall be computed in accordance with the following formula:
+
+[27/2009 wef 29/12/2009]
+
+where A
+
+is the percentage which the value of equity interests of the first level entity beneficially owned by the first-mentioned person bears to the total value of all equity interests of the first level entity; and
+
+B
+
+is the percentage which the value of equity interests of the second level entity beneficially owned by the first level entity bears to the total value of all equity interests of the second level entity.
+
+[27/2009 wef 29/12/2009]
+
+[53/2007]
+
+(8) Regulations made under this section may —
+
+(a) provide for the determination of the amount of income of any prescribed person to be exempt from tax;
+
+(b) provide for the circumstances under which a person would be considered to be an associate for the purposes of this section;
+
+(c) exempt any person or class of persons from subsection (2), (4) or (6); and
+
+(d) make provision generally for giving full effect to or for carrying out the purposes of this section.
+
+[53/2007]
+
+(9) In this section —
+
+“equity interest” means —
+
+(a) in relation to a company, any issued security of that company; or
+
+(b) in relation to a person other than a company, such right or interest as may be prescribed;
+
+“issued securities”, in relation to a company, means —
+
+(a) issued debentures of, or issued stocks or shares in, the company;
+
+(b) any right, option or derivative in respect of any such debentures, stocks or shares; or
+
+(c) such other securities of the company as may be prescribed;
+
+“non-bona fide entity” means a person not resident in Singapore (excluding a permanent establishment in Singapore) who —
+
+(a) is set up solely for the purpose of avoiding or reducing payment of tax or penalty under this Act; or
+
+(b) does not carry out any substantial business activity for a genuine commercial reason;
+
+“relevant day” means the last day of the basis period of the prescribed person relating to the year of assessment referred to in subsection (2) or (4);
+
+[27/2009 wef 29/12/2009]
+
+“value” —
+
+(a) in relation to issued securities of a company other than those prescribed under paragraph (c) of the definition of “issued securities”, means the value of those securities at the time of their issue by the company; or
+
+(b) in relation to issued securities of a company prescribed under paragraph (c) of the definition of “issued securities”, means the value of those securities at the prescribed time.
 
 ### Exemption of certain dividends of approved investment company
 
@@ -5727,7 +5883,7 @@ then the whole building or structure and every part thereof shall be treated as 
 
 [7/2007]
 
-(8) In this section and sections 16and 17 —
+(8) In this section and sections 16 and 17 —
 
 “capital expenditure”, in relation to the purchase of a building or structure, means the net price paid for the building or structure, but does not include the cost of land as determined to the satisfaction of the Comptroller;
 
@@ -6563,7 +6719,7 @@ is the capital expenditure incurred in respect of the motor car.
 
 [28/80; 26/93; 37/2002; 21/2003]
 
-(2) Where any person entitled to the allowances under sections 16and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
+(2) Where any person entitled to the allowances under sections 16 and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
 
 [29/2010 wef 23/02/2010]
 
@@ -9403,11 +9559,33 @@ approved by the Minister or such person as he may appoint.
 
 (ii) a company approved under subsection (1)(c),
 
-derived by it from any approved syndicated offshore credit or guarantee facility or any other syndicated offshore credit or guarantee facility made before 1st January 2004 which satisfies the prescribed criteria; and
+derived by it from any approved syndicated offshore credit or guarantee facility or any other syndicated offshore credit or guarantee facility made before 1st January 2004 which satisfies the prescribed criteria;
 
-(c) deduction of losses otherwise than in accordance with section 37(3).
+[34/2008 wef 17/01/2008]
 
-[31/98; 32/99; 21/2003]
+(c) deduction of losses, capital allowances and donations otherwise than in accordance with this Act;
+
+[34/2008 wef 17/01/2008]
+
+(d) circumstances in which any losses (including impairment loss recognised under FRS 39, as defined in section 34A) incurred in respect of any facility referred to in paragraph (b), and capital allowances and donations attributable to income from such facility which has been allowed as a deduction against any income chargeable to tax, may be deemed as income chargeable to tax (at such rate as may be prescribed) for a specified basis period;
+
+[34/2008 wef 17/01/2008]
+
+(e) adjustment of any amount deemed as income chargeable to tax referred to in paragraph (d) for the specified basis period;
+
+[34/2008 wef 17/01/2008]
+
+(f) circumstances in which any income from any facility referred to in paragraph (b) to be exempt from tax, may be adjusted for any basis period in which the income from such facility is derived;
+
+[34/2008 wef 17/01/2008]
+
+(g) circumstances in which any impairment loss, bad debt or provision for doubtful debt in respect of any facility referred to in paragraph (b), which has previously been allowed as a deduction against any income chargeable to tax and which is subsequently reversed, recovered or written back, may be deemed as income chargeable to tax (at such rate as may be prescribed) for any basis period in which the reversal is recognised or the recovery or write back occurs; and
+
+[34/2008 wef 17/01/2008]
+
+(h) generally for giving full effect to or for carrying out the purposes of this section.
+
+[34/2008 wef 17/01/2008]
 
 ### Special rate of tax for non-resident shipowner or charterer or air transport undertaking
 
@@ -12512,6 +12690,8 @@ $320,000
 
 [29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; 4/2004; S148/76; S38/77; S217/80; S158/82; S183/83; S137/84; S138/84; S217/84; S26/85; S79/88; S379/89; S380/89; S381/90; S382/90; S383/90; S317/91; S562/91; S210/92; S412/92; S259/95; S33/96; S67/96; S302/96; S372/97; S372/98; S267/99; S485/99; S220/2003; S715/2005; S194/2006]
 
+Part B
+
 Rates of Tax on Chargeable Income of
 
 
@@ -14111,6 +14291,11 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|6 December 2007 (Section 6(g))|
 |229.|**2008 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|1 January 2008|
+|230.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|17 January 2008 (Section 40)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
