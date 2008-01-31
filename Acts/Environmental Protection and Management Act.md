@@ -1990,11 +1990,17 @@ Substance
 
 Exclusions
 
+1,2-dibromoethane (EDB)
+
 Acetic acid
 
 Substances containing not more than 80%, weight in weight, of acetic acid;
 
 Preparations and solutions for photographic use.
+
+Acetyl bromide
+
+Allyl isothiocyanate
 
 Acrolein —Deleted by S 78/2005, wef 16/02/2005.
 
@@ -2068,6 +2074,8 @@ Antimony pentachloride
 
 Polishes
 
+Antimony trihydride
+
 Arsenical substances, the following:
 
 Pyrites ores or sulphuric acid containing arsenical poisons as natural impurities;
@@ -2106,13 +2114,9 @@ Sodium arsenite
 
 Sodium thioarsenate
 
-Asbestos in the form of crocidolite, amosite, chrysotile and amphiboles and products containing these forms of asbestos
+Asbestos in the form of crocidolite, actinolite, anthophyllite, amosite, tremolite, chrysotile and amphiboles and products containing these forms of asbestos
 
-Asbestos products containing chrysotile other than roofing sheets, refuse chutes, ceiling boards, partition boards, fire barriers, doors, paints, cement, floor tiles and putty;
-
-Asbestos in the form of chrysotile in any vehicle brake or clutch lining not installed in any vehicle if the packaging of the vehicle brake or clutch lining is affixed with the appropriate label or in any vehicle brake or clutch lining installed in any vehicle registered before 1st April 1995.
-
-The label to be affixed on the packaging of the vehicle brake and clutch lining is in accordance with Part III of the Second Schedule.
+Asbestos in the form of chrysotile in any vehicle brake or clutch lining installed in any vehicle registered before 1st April 1995.
 
 Barium nitrate —Deleted by S 296/2007, wef 01/07/2007.
 
@@ -2123,6 +2127,8 @@ Boric acid; Sodium borate
 Boric acid or sodium borate in medicinal preparations, cosmetics, toilet preparations and substances being preparations intended for human consumption;
 
 Preparations containing boric acid or sodium borate or a combination of both where water or solvent is not the only other part of the composition.
+
+Boron tribromide
 
 Boron trichloride
 
@@ -2150,6 +2156,12 @@ Preparations containing not more than 1%, weight in weight, of propoxur and not 
 
 Preparations containing not more than 1%, weight in weight, of methomyl and not containing any other carbamate.
 
+Carbon monoxide
+
+Gas mixtures containing carbon monoxide weighing less than 1 metric tonne;
+
+Gas mixtures containing carbon monoxide as by-products from combustion activities.
+
 Carbon disulphide —Deleted by S 78/2005, wef 16/02/2005.
 
 Carbon tetrafluoride
@@ -2173,6 +2185,8 @@ Chlorbicyclen
 Chlordane
 
 Chlordecone
+
+Chlordimeform
 
 Chlorfenethol
 
@@ -2200,13 +2214,17 @@ Fenson
 
 Fluorbenzide
 
-Gamma benzene hexachloride (Gamma - BHC)
+Gamma benzene hexachloride (Gamma — BHC), also known as lindane
+
+HCH (mixed isomers)
 
 HEOD [1,2,3,4,10,10-hexachloro-6,7-epoxy-1,4,4a,5,6,7,8,8a- octahydro-1, 4 (exo): 5,8 (endo)-dimethano naphthalene]
 
 HHDN [1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-1,4 (exo):5,8 (endo)-dimethano naphthalene]
 
 Heptachlor
+
+Hexachloroethane
 
 Isobenzan
 
@@ -2215,6 +2233,8 @@ Isodrin
 Kelevan
 
 Methoxychlor [1,1,1-trichloro-2,2-di-(p-methoxyphenyl) ethane]
+
+Mirex
 
 Tetrachlordiphenylethane [TDE; 1,1-dichloro-2,2-bis (p-chlorophenyl) ethane]
 
@@ -2260,9 +2280,11 @@ Trichlorophenol
 
 Tetrachlorophenol
 
-Pentachlorophenol and their salts
+Pentachlorophenol and its salts and esters
 
-Chlorophenoxyacids; their salts, esters, amines
+Chlorophenoxyacids; their salts, esters, amines, which include but are not limited to —
+
+2,4,5-T and its salts and esters
 
 Chloropicrin
 
@@ -2308,11 +2330,13 @@ Dibromochloropropane
 
 Diethyl sulphate
 
-Dinitrocresols (DNOC); their compounds with a metal or a base
+Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium salt, potassium salt and sodium salt)”
 
 Dinosam; its compounds with a metal or a base
 
-Dinoseb; its compounds with a metal or a base
+Dinoseb and its salts and esters, which includes but is not limited to —
+
+Binapacryl
 
 Diquat; its salts
 
@@ -2322,6 +2346,10 @@ Drazoxolon; its salts
 
 Dressings on seeds.
 
+Dustable powder formulations containing a combination of —
+
+benomyl at or above 7 per cent, carbofuran at above 10 per cent, thiram at or above 15 per cent
+
 Endothal; its salts
 
 Epichlorohydrin
@@ -2330,7 +2358,7 @@ Ethyl mercaptan
 
 Substances containing less than 1%, weight in weight, of ethyl mercaptan.
 
-Ethylene dibromide
+Ethylene dibromide —Deleted by S 43/2008, wef 31/01/2008.
 
 Ethylene dichloride
 
@@ -2341,6 +2369,10 @@ Ethylene oxide
 Mixtures of inert gases and ethylene oxide comprising not more than 12%, weight in weight, of ethylene oxide contained in cylinders of water capacity less than 47 litres and for aggregate of not more than 3 numbers of such cylinders.
 
 Ferric chloride
+
+Fipronil
+
+Formulated products containing Fipronil approved for household use and belonging to the WHO Class IV hazards.
 
 Fluorine
 
@@ -2400,19 +2432,11 @@ Lead compounds in paint in which the container is affixed with an appropriate la
 
 The labels to be used for paints containing lead compounds are in accordance with Part IV of the Second Schedule.
 
-Lead tetra-ethyl and similar lead containing compounds
+Lead tetra-ethyl and similar lead containing compounds —Deleted by S 43/2008, wef 31/01/2008.
 
 Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles
 
-Mercuric chloride; Mercuric iodide; Organic compounds of mercury
-
-Dressings on seeds or bulbs;
-
-Toilet, cosmetic and therapeutic preparations containing not more than 0.01%, weight in weight, of phenyl mercuric salts as a preservative;
-
-Antiseptic dressings on toothbrushes;
-
-Textiles containing not more than 0.01%, weight in weight, of phenyl mercuric salts as a bacteriostat and fungicide.
+Mercury compounds including inorganic mercury compounds, alkyl mercury compounds, alkyloxyalkyl and aryl mercury compounds, and other organic compounds of mercury
 
 Mercury and its compounds in batteries
 
@@ -2433,6 +2457,12 @@ Monomethyltetrachloro diphenyl methane
 Monomethyl-dichloro-diphenyl methane
 
 Monomethyl-dibromodiphenyl methane
+
+Neonicotinoid compounds used as pesticides, the following:
+
+Imidacloprid
+
+Formulated products containing Imidacloprid approved for household use and belonging to the WHO Class IV hazards.
 
 Niclofolan
 
@@ -2473,6 +2503,8 @@ Organo-tin compounds, the following:
 Compounds of fentin
 
 Cyhexatin
+
+Tributyl tin compounds
 
 Ozone depleting substances, namely:
 
@@ -2751,6 +2783,8 @@ Perchloromethyl mercaptan
 
 Substances containing less than 1%, weight in weight, of perchloromethyl mercaptan.
 
+Perfluorooctane sulfonate (PFOS)
+
 Phenols, the following:
 
 Preparations containing less than 1%, weight in weight, of phenols;
@@ -2785,33 +2819,77 @@ Phosphoric acid
 
 Substances containing not more than 50%, weight in weight, of phosphoric acid.
 
-Phosphorus compounds used as pesticides (insecticides, acaricides, etc.)
+Phosphorus compounds used as pesticides (insecticides, acaricides, etc.), which includes but is not limited to:
+
+
+
+
+Methamidophos
+
+
+
+
+Methyl-parathion
+
+
+
+
+Monocrotophos
 
 Acephate;
 
 Bromophos;
 
+
+
+
 Iodofenphos;
+
+
+
 
 Malathion;
 
+
+
+
 Pirimiphos-methyl;
+
+
+
 
 Temephos;
 
+Parathion
+
+
+
+
+Phosphamidon
+
 Tetrachlorvinphos;
+
+
+
 
 Trichlorfon;
 
+
+
+
 Preparations containing not more than 0.5%, weight in weight, of chlorpyrifos and not containing any other phosphorus compound;
 
-Preparations containing not more than 0.5%, weight in weight, of dichlorvos and not containing any other phosphorous compound;
+Preparations containing not more than 0.5%, weight in weight, of dichlorvos and not containing any other phosphorus compound;
 
 Materials impregnated with dichlorvos and not containing any other phosphorus compound for slow release;
 
 Preparations containing not more than 1%, weight in weight, of azamethiphos and not containing any other phosphorus compound.
 
+Phosphorus oxybromide
+
 Phosphorus oxychloride
+
+Phosphorus pentabromide
 
 Phosphorus pentachloride
 
@@ -2820,6 +2898,14 @@ Phosphorus pentafluoride
 Phosphorus trichloride
 
 Polybrominated biphenyls
+
+Polybrominated diphenyl ethers (PBDEs), the following:
+
+Penta-brominated diphenyl ether
+
+Octa-brominated diphenyl ether
+
+Deca-brominated diphenyl ether
 
 Polychlorinated biphenyls
 
@@ -2843,6 +2929,12 @@ Potassium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Prochloraz
 
+Pyrethroid compounds used as pesticides, the following:
+
+Fenvalerate
+
+Formulated products containing Fenvalerate approved for household use and belonging to the WHO Class IV hazards.
+
 Propylene imine —Deleted by S 78/2005, wef 16/02/2005.
 
 Propylene oxide —Deleted by S 78/2005, wef 16/02/2005.
@@ -2850,6 +2942,10 @@ Propylene oxide —Deleted by S 78/2005, wef 16/02/2005.
 Silane —Deleted by S 78/2005, wef 16/02/2005.
 
 Sodium chlorate —Deleted by S 296/2007, wef 01/07/2007.
+
+Sodium azide
+
+Air bag devices in motor vehicles.
 
 Sodium hydroxide
 
@@ -2885,17 +2981,33 @@ Fire extinguishers;
 
 Photographic developers containing not more than 20%, weight in weight, of sulphuric acid.
 
+Sulphuryl chloride
+
+Sulphuryl fluoride
+
+Tetraethyl lead, tetramethyl lead and similar lead containing compounds
+
 Thallium; its salts
 
 Titanium tetrachloride
 
 Tris (2, 3-dibromo-l-propyl) phosphate
 
+Tungsten hexafluoride
+
 Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
 Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
+[S 43/2008 wef 31/01/2008]
+
 [S 78/2005 wef 16/02/2005]
+
+[S 43/2008 wef 31/01/2008]
+
+[S 62/2009 wef 01/07/2009]
+
+[S 43/2008 wef 31/01/2008]
 
 Part II
 
@@ -2904,6 +3016,8 @@ General Exemptions
 Adhesives;
 
 Anti-fouling compositions;
+
+Anti-fouling compositions other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
 Builders’ materials other than those containing asbestos as defined in Part I of this Schedule;
 
@@ -2943,7 +3057,7 @@ Pharmaceutical aerosols;
 
 Photographic paper;
 
-Pigments;
+Pigments other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
 Plastics;
 
@@ -2957,9 +3071,7 @@ Vascular plants and their seeds.
 
 Part III
 
-Label for Vehicle Brake and Clutch Lining Containing Asbestos In The Form of Chrysotile
-
-The following label with words and symbol shall be used:
+Deleted by S 43/2008, wef 31/01/2008.
 
 Part IV
 
@@ -3136,6 +3248,8 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 13/2007 published on 22 June 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|Date of coming into operation: 1st January 2008|
+|13.|**G. N. No. S 43/2008—Environmental Protection And Management Act (Amendment Of Second Schedule) Order 2008**|
+||Date of commencement|31 January 2008|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
