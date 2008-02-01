@@ -14,6 +14,8 @@
 
 - [3 Punishment of offences committed beyond, but which by law may be tried within Singapore](#Punishment-of-offences-committed-beyond-but-which-by-law-may-be-tried-within-Singapore)
 
+- [4 Jurisdiction over public servants for offences committed outside Singapore](#Jurisdiction-over-public-servants-for-offences-committed-outside-Singapore)
+
 - [5 Certain laws not to be affected by this Code](#Certain-laws-not-to-be-affected-by-this-Code)
 
 [**Chapter II  GENERAL EXPLANATIONS**](#Chapter-II--GENERAL-EXPLANATIONS)
@@ -50,15 +52,21 @@
 
 - [26 "Reason to believe"](#"Reason-to-believe")
 
-- [27 "Property in possession of wife, clerk or servant"](#"Property-in-possession-of-wife-clerk-or-servant")
+- [27 Property in possession of spouse, clerk or servant](#Property-in-possession-of-spouse-clerk-or-servant)
 
 - [28 "Counterfeit"](#"Counterfeit")
 
-- [29 "Document"](#"Document")
+- [29 Document](#Document)
+
+- [29A Writing](#Writing)
+
+- [29B Electronic record](#Electronic-record)
 
 - [30 "Valuable security"](#"Valuable-security")
 
 - [31 "A will"](#"A-will")
+
+- [31A "Die" and "instrument"](#"Die"-and-"instrument")
 
 - [32 Words referring to acts include illegal omissions](#Words-referring-to-acts-include-illegal-omissions)
 
@@ -78,7 +86,11 @@
 
 - [40 "Offence"](#"Offence")
 
-- [43 "Illegal". "Legally bound to do"](#"Illegal"-"Legally-bound-to-do")
+- [41 Offence with specified term of imprisonment](#Offence-with-specified-term-of-imprisonment)
+
+- [42 Obscene](#Obscene)
+
+- [43 "Illegal", "unlawful" and "legally bound to do"](#"Illegal"-"unlawful"-and-"legally-bound-to-do")
 
 - [44 "Injury"](#"Injury")
 
@@ -102,13 +114,17 @@
 
 - [53 Punishments](#Punishments)
 
-- [57 Fractions of terms of punishment](#Fractions-of-terms-of-punishment)
+- [54 Imprisonment for life](#Imprisonment-for-life)
+
+- [57 (Repealed)](#Repealed)
 
 - [71 Limit of punishment of offence which is made up of several offences](#Limit-of-punishment-of-offence-which-is-made-up-of-several-offences)
 
 - [72 Punishment of a person found guilty of one of several offences, the judgment stating that it is doubtful of which](#Punishment-of-a-person-found-guilty-of-one-of-several-offences-the-judgment-stating-that-it-is-doubtful-of-which)
 
 - [73 Enhanced penalties for offences against domestic maids](#Enhanced-penalties-for-offences-against-domestic-maids)
+
+- [74 Enhanced penalties for racially or religiously aggravated offences](#Enhanced-penalties-for-racially-or-religiously-aggravated-offences)
 
 - [75 Punishment of persons convicted, after a previous conviction, of an offence punishable with 3 years’ imprisonment](#Punishment-of-persons-convicted-after-a-previous-conviction-of-an-offence-punishable-with-3-years’-imprisonment)
 
@@ -142,7 +158,7 @@
 
 - [89 Act done in good faith for the benefit of a child or person of unsound mind, by or by consent of guardian](#Act-done-in-good-faith-for-the-benefit-of-a-child-or-person-of-unsound-mind-by-or-by-consent-of-guardian)
 
-- [90 Consent known to be given under fear or misconception](#Consent-known-to-be-given-under-fear-or-misconception)
+- [90 Consent given under fear or misconception, by person of unsound mind, etc., and by child](#Consent-given-under-fear-or-misconception-by-person-of-unsound-mind-etc-and-by-child)
 
 - [91 Acts which are offences independently of harm caused to the person consenting, are not within the exceptions in sections 87, 88 and 89](#Acts-which-are-offences-independently-of-harm-caused-to-the-person-consenting-are-not-within-the-exceptions-in-sections-87-88-and-89)
 
@@ -185,6 +201,8 @@
 - [108 Abettor](#Abettor)
 
 - [108A Abetment in Singapore of offences outside Singapore](#Abetment-in-Singapore-of-offences-outside-Singapore)
+
+- [108B Abetment outside Singapore of an offence in Singapore](#Abetment-outside-Singapore-of-an-offence-in-Singapore)
 
 - [109 Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment](#Punishment-of-abetment-if-the-act-abetted-is-committed-in-consequence-and-where-no-express-provision-is-made-for-its-punishment)
 
@@ -248,13 +266,17 @@
 
 - [130A "Harbour"](#"Harbour")
 
-[**A**](#A)
+[**Chapter VIA  PIRACY**](#Chapter-VIA--PIRACY)
 
-[**Piracy**](#Piracy)
+- [130B Piracy by law of nations. Cf. 12 and 13 Victoria c. 96 (Admiralty Offences (Colonial) Act 1849)](#Piracy-by-law-of-nations-Cf-12-and-13-Victoria-c-96-Admiralty-Offences-Colonial-Act-1849)
 
-- [130B Piracy by law of nations. Cf. 12 and 13 Victoria c.96 (Admiralty Offences (Colonial) Act 1849)](#Piracy-by-law-of-nations-Cf-12-and-13-Victoria-c96-Admiralty-Offences-Colonial-Act-1849)
+- [130C Piratical acts](#Piratical-acts)
 
-- [130C Piractical acts](#Piractical-acts)
+[**Chapter VIB  GENOCIDE**](#Chapter-VIB--GENOCIDE)
+
+- [130D Genocide](#Genocide)
+
+- [130E Punishment for genocide](#Punishment-for-genocide)
 
 [**Chapter VII  OFFENCES RELATING TO THE ARMED FORCES**](#Chapter-VII--OFFENCES-RELATING-TO-THE-ARMED-FORCES)
 
@@ -282,7 +304,7 @@
 
 - [140B Application of Chapter VII to Singapore Police Force](#Application-of-Chapter-VII-to-Singapore-Police-Force)
 
-[**Chapter VIII  OFFENCES AGAINST THE PUBLIC TRANQUILLITY**](#Chapter-VIII--OFFENCES-AGAINST-THE-PUBLIC-TRANQUILLITY)
+[**Chapter VIII  OFFENCES RELATING TO UNLAWFUL ASSEMBLY**](#Chapter-VIII--OFFENCES-RELATING-TO-UNLAWFUL-ASSEMBLY)
 
 - [141 Unlawful assembly](#Unlawful-assembly)
 
@@ -306,7 +328,7 @@
 
 - [151 Knowingly joining or continuing in any assembly of 5 or more persons after it has been commanded to disperse](#Knowingly-joining-or-continuing-in-any-assembly-of-5-or-more-persons-after-it-has-been-commanded-to-disperse)
 
-- [151A Posting placards, etc.](#Posting-placards-etc)
+- [151A (Repealed)](#Repealed)
 
 - [152 Assaulting or obstructing public servant when suppressing riot, etc.](#Assaulting-or-obstructing-public-servant-when-suppressing-riot-etc)
 
@@ -322,9 +344,9 @@
 
 - [158 Being hired to take part in an unlawful assembly or riot. Or to go armed](#Being-hired-to-take-part-in-an-unlawful-assembly-or-riot-Or-to-go-armed)
 
-- [159 Affray](#Affray)
+- [159 (Repealed)](#Repealed)
 
-- [160 Punishment for committing affray](#Punishment-for-committing-affray)
+- [160 (Repealed)](#Repealed)
 
 [**Chapter IX  OFFENCES BY OR RELATING TO PUBLIC SERVANTS**](#Chapter-IX--OFFENCES-BY-OR-RELATING-TO-PUBLIC-SERVANTS)
 
@@ -340,7 +362,7 @@
 
 - [166 Public servant disobeying a direction of the law, with intent to cause injury to any person](#Public-servant-disobeying-a-direction-of-the-law-with-intent-to-cause-injury-to-any-person)
 
-- [167 Public servant framing an incorrect document with intent to cause injury](#Public-servant-framing-an-incorrect-document-with-intent-to-cause-injury)
+- [167 Public servant framing an incorrect document or electronic record with intent to cause injury](#Public-servant-framing-an-incorrect-document-or-electronic-record-with-intent-to-cause-injury)
 
 - [168 Public servant unlawfully engaging in trade](#Public-servant-unlawfully-engaging-in-trade)
 
@@ -358,7 +380,7 @@
 
 - [174 Non-attendance in obedience to an order from a public servant](#Non-attendance-in-obedience-to-an-order-from-a-public-servant)
 
-- [175 Omission to produce a document to a public servant by a person legally bound to produce such document](#Omission-to-produce-a-document-to-a-public-servant-by-a-person-legally-bound-to-produce-such-document)
+- [175 Omission to produce a document or an electronic record to a public servant by a person legally bound to produce such document or electronic record](#Omission-to-produce-a-document-or-an-electronic-record-to-a-public-servant-by-a-person-legally-bound-to-produce-such-document-or-electronic-record)
 
 - [176 Omission to give notice or information to a public servant by a person legally bound to give notice or information](#Omission-to-give-notice-or-information-to-a-public-servant-by-a-person-legally-bound-to-give-notice-or-information)
 
@@ -412,13 +434,17 @@
 
 - [200 Using as true any such declaration known to be false](#Using-as-true-any-such-declaration-known-to-be-false)
 
-- [201 Causing disappearance of evidence of an offence committed, or giving false information touching it, to screen the offender. If a capital offence. If punishable with imprisonment for life. If punishable with less than 10 years imprisonment](#Causing-disappearance-of-evidence-of-an-offence-committed-or-giving-false-information-touching-it-to-screen-the-offender-If-a-capital-offence-If-punishable-with-imprisonment-for-life-If-punishable-with-less-than-10-years-imprisonment)
+- [201 Causing disappearance of evidence of an offence committed, or giving false information touching it, to screen the offender. If a capital offence. If punishable with imprisonment for life. If punishable with less than 20 years imprisonment](#Causing-disappearance-of-evidence-of-an-offence-committed-or-giving-false-information-touching-it-to-screen-the-offender-If-a-capital-offence-If-punishable-with-imprisonment-for-life-If-punishable-with-less-than-20-years-imprisonment)
 
 - [202 Intentional omission to give information of an offence, by person bound to inform](#Intentional-omission-to-give-information-of-an-offence-by-person-bound-to-inform)
 
 - [203 Giving false information respecting an offence committed](#Giving-false-information-respecting-an-offence-committed)
 
-- [204 Destruction of document to prevent its production as evidence](#Destruction-of-document-to-prevent-its-production-as-evidence)
+- [204 Destruction of document or electronic record to prevent its production as evidence](#Destruction-of-document-or-electronic-record-to-prevent-its-production-as-evidence)
+
+- [204A Obstructing, preventing, perverting or defeating course of justice](#Obstructing-preventing-perverting-or-defeating-course-of-justice)
+
+- [204B Bribery of witnesses](#Bribery-of-witnesses)
 
 - [205 False personation for the purpose of any act or proceeding in a suit](#False-personation-for-the-purpose-of-any-act-or-proceeding-in-a-suit)
 
@@ -494,7 +520,7 @@
 
 - [235 Possession of instrument or material for the purpose of using the same for counterfeiting coin](#Possession-of-instrument-or-material-for-the-purpose-of-using-the-same-for-counterfeiting-coin)
 
-- [236 Abetting in Singapore the counterfeiting out of Singapore of coin](#Abetting-in-Singapore-the-counterfeiting-out-of-Singapore-of-coin)
+- [236 Abetting in Singapore the counterfeiting out of Singapore of coin or current coin](#Abetting-in-Singapore-the-counterfeiting-out-of-Singapore-of-coin-or-current-coin)
 
 - [237 Import or export of counterfeit coin](#Import-or-export-of-counterfeit-coin)
 
@@ -506,11 +532,13 @@
 
 - [241 Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be counterfeit](#Delivery-to-another-of-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-counterfeit)
 
+- [241A Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit](#Delivery-to-another-of-current-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-counterfeit)
+
 - [242 Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof](#Possession-of-counterfeit-coin-by-a-person-who-knew-it-to-be-counterfeit-when-he-became-possessed-thereof)
 
 - [243 Possession of current coin by a person who knew it to be counterfeit when he became possessed thereof](#Possession-of-current-coin-by-a-person-who-knew-it-to-be-counterfeit-when-he-became-possessed-thereof)
 
-- [243A Forfeiture of counterfeit coin](#Forfeiture-of-counterfeit-coin)
+- [243A (Repealed)](#Repealed)
 
 - [246 Fraudulently or dishonestly diminishing the weight or altering the composition of any coin](#Fraudulently-or-dishonestly-diminishing-the-weight-or-altering-the-composition-of-any-coin)
 
@@ -529,6 +557,8 @@
 - [253 Possession of current coin by a person who knew it to be altered when he became possessed thereof](#Possession-of-current-coin-by-a-person-who-knew-it-to-be-altered-when-he-became-possessed-thereof)
 
 - [254 Delivery to another of coin as genuine, which, when first possessed, the deliverer did not know to be altered](#Delivery-to-another-of-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-altered)
+
+- [254A Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered](#Delivery-to-another-of-current-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-altered)
 
 - [255 Counterfeiting a Government stamp](#Counterfeiting-a-Government-stamp)
 
@@ -558,7 +588,13 @@
 
 - [267 Making or selling false weights or measures](#Making-or-selling-false-weights-or-measures)
 
-[**Chapter XIV  OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS**](#Chapter-XIV--OFFENCES-AFFECTING-THE-PUBLIC-HEALTH-SAFETY-CONVENIENCE-DECENCY-AND-MORALS)
+[**Chapter XIV  offences affecting the public tranquility, public health, safety, convenience, decency and morals**](#Chapter-XIV--offences-affecting-the-public-tranquility-public-health-safety-convenience-decency-and-morals)
+
+- [267A Affray](#Affray)
+
+- [267B Punishment for committing affray](#Punishment-for-committing-affray)
+
+- [267C Making, printing, etc., document containing incitement to violence, etc.](#Making-printing-etc-document-containing-incitement-to-violence-etc)
 
 - [268 Public nuisance](#Public-nuisance)
 
@@ -614,7 +650,7 @@
 
 - [294 Obscene songs](#Obscene-songs)
 
-[**Chapter XV  OFFENCES RELATING TO RELIGION**](#Chapter-XV--OFFENCES-RELATING-TO-RELIGION)
+[**Chapter XV  OFFENCES RELATING TO RELIGION OR RACE**](#Chapter-XV--OFFENCES-RELATING-TO-RELIGION-OR-RACE)
 
 - [295 Injuring or defiling a place of worship with intent to insult the religion of any class](#Injuring-or-defiling-a-place-of-worship-with-intent-to-insult-the-religion-of-any-class)
 
@@ -622,7 +658,9 @@
 
 - [297 Trespassing on burial places, etc.](#Trespassing-on-burial-places-etc)
 
-- [298 Uttering words, etc., with deliberate intent to wound the religious feelings of any person](#Uttering-words-etc-with-deliberate-intent-to-wound-the-religious-feelings-of-any-person)
+- [298 Uttering words, etc., with deliberate intent to wound the religious or racial feelings of any person](#Uttering-words-etc-with-deliberate-intent-to-wound-the-religious-or-racial-feelings-of-any-person)
+
+- [298A Promoting enmity between different groups on grounds of religion or race and doing acts prejudicial to maintenance of harmony](#Promoting-enmity-between-different-groups-on-grounds-of-religion-or-race-and-doing-acts-prejudicial-to-maintenance-of-harmony)
 
 [**Chapter XVI  OFFENCES AFFECTING THE HUMAN BODY**](#Chapter-XVI--OFFENCES-AFFECTING-THE-HUMAN-BODY)
 
@@ -770,7 +808,11 @@
 
 - [363 Punishment for kidnapping](#Punishment-for-kidnapping)
 
+- [363A Punishment for abduction](#Punishment-for-abduction)
+
 - [364 Kidnapping or abducting in order to murder](#Kidnapping-or-abducting-in-order-to-murder)
+
+- [364A Kidnapping or abducting in order to compel the Government, etc.](#Kidnapping-or-abducting-in-order-to-compel-the-Government-etc)
 
 - [365 Kidnapping or abducting with intent secretly and wrongfully to confine a person](#Kidnapping-or-abducting-with-intent-secretly-and-wrongfully-to-confine-a-person)
 
@@ -794,25 +836,37 @@
 
 - [374 Unlawful compulsory labour](#Unlawful-compulsory-labour)
 
-[**Rape**](#Rape)
+[**Sexual offences**](#Sexual-offences)
 
 - [375 Rape](#Rape)
 
-- [376 Punishment for rape](#Punishment-for-rape)
+- [376 Sexual assault by penetration](#Sexual-assault-by-penetration)
 
-- [376A Incest](#Incest)
+- [376A Sexual penetration of minor under 16](#Sexual-penetration-of-minor-under-16)
 
-- [376B Punishment for incest committed by men](#Punishment-for-incest-committed-by-men)
+- [376B Commercial sex with minor under 18](#Commercial-sex-with-minor-under-18)
 
-- [376C Punishment for incest committed by women](#Punishment-for-incest-committed-by-women)
+- [376C Commercial sex with minor under 18 outside Singapore](#Commercial-sex-with-minor-under-18-outside-Singapore)
 
-- [376D Sanction](#Sanction)
+- [376D Tour outside Singapore for commercial sex with minor under 18](#Tour-outside-Singapore-for-commercial-sex-with-minor-under-18)
+
+- [376E Sexual grooming of minor under 16](#Sexual-grooming-of-minor-under-16)
+
+- [376F Procurement of sexual activity with person with mental disability](#Procurement-of-sexual-activity-with-person-with-mental-disability)
+
+- [376G Incest](#Incest)
 
 [**Unnatural offences**](#Unnatural-offences)
 
-- [377 Unnatural offences](#Unnatural-offences)
+- [377 Sexual penetration of a corpse](#Sexual-penetration-of-a-corpse)
 
 - [377A Outrages on decency](#Outrages-on-decency)
+
+- [377B Sexual penetration with living animal](#Sexual-penetration-with-living-animal)
+
+- [377C Interpretation of sections 375 to 377B (sexual offences)](#Interpretation-of-sections-375-to-377B-sexual-offences)
+
+- [377D Mistake as to age](#Mistake-as-to-age)
 
 [**Chapter XVII  OFFENCES AGAINST PROPERTY**](#Chapter-XVII--OFFENCES-AGAINST-PROPERTY)
 
@@ -836,7 +890,7 @@
 
 - [384 Punishment for extortion](#Punishment-for-extortion)
 
-- [385 Putting person in fear of injury in order to commit extortion](#Putting-person-in-fear-of-injury-in-order-to-commit-extortion)
+- [385 Putting person in fear of harm in order to commit extortion](#Putting-person-in-fear-of-harm-in-order-to-commit-extortion)
 
 - [386 Extortion by putting a person in fear of death or grievous hurt](#Extortion-by-putting-a-person-in-fear-of-death-or-grievous-hurt)
 
@@ -900,7 +954,7 @@
 
 - [413 Habitually dealing in stolen property](#Habitually-dealing-in-stolen-property)
 
-- [414 Assisting in concealment of stolen property](#Assisting-in-concealment-of-stolen-property)
+- [414 Assisting in concealment or disposal of stolen property](#Assisting-in-concealment-or-disposal-of-stolen-property)
 
 [**Cheating**](#Cheating)
 
@@ -932,11 +986,11 @@
 
 - [426 Punishment for committing mischief](#Punishment-for-committing-mischief)
 
-- [427 Committing mischief and thereby causing damage to the amount of $25](#Committing-mischief-and-thereby-causing-damage-to-the-amount-of-$25)
+- [427 Committing mischief and thereby causing damage to the amount of $500](#Committing-mischief-and-thereby-causing-damage-to-the-amount-of-$500)
 
-- [428 Mischief by killing or maiming any animal of the value of $5](#Mischief-by-killing-or-maiming-any-animal-of-the-value-of-$5)
+- [428 Mischief by killing or maiming any animal](#Mischief-by-killing-or-maiming-any-animal)
 
-- [429 Mischief by killing or maiming cattle, etc., or any animal of the value of $25](#Mischief-by-killing-or-maiming-cattle-etc-or-any-animal-of-the-value-of-$25)
+- [429 (Repealed)](#Repealed)
 
 - [430 Mischief by injury to works of irrigation or by wrongfully diverting water](#Mischief-by-injury-to-works-of-irrigation-or-by-wrongfully-diverting-water)
 
@@ -952,7 +1006,7 @@
 
 - [434 Mischief by destroying or moving, etc., a landmark fixed by public authority](#Mischief-by-destroying-or-moving-etc-a-landmark-fixed-by-public-authority)
 
-- [435 Mischief by fire or explosive substance with intent to cause damage to amount of $50.](#Mischief-by-fire-or-explosive-substance-with-intent-to-cause-damage-to-amount-of-$50)
+- [435 Mischief by fire or explosive substance with intent to cause damage](#Mischief-by-fire-or-explosive-substance-with-intent-to-cause-damage)
 
 - [436 Mischief by fire or explosive substance with intent to destroy a house, etc.](#Mischief-by-fire-or-explosive-substance-with-intent-to-destroy-a-house-etc)
 
@@ -1012,11 +1066,11 @@
 
 - [462 Punishment for same offence when committed by person entrusted with custody](#Punishment-for-same-offence-when-committed-by-person-entrusted-with-custody)
 
-[**Chapter XVIII  OFFENCES RELATING TO DOCUMENTS AND TO CURRENCY NOTES AND BANK NOTES**](#Chapter-XVIII--OFFENCES-RELATING-TO-DOCUMENTS-AND-TO-CURRENCY-NOTES-AND-BANK-NOTES)
+[**Chapter XVIII  OFFENCES RELATIING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES**](#Chapter-XVIII--OFFENCES-RELATIING-TO-DOCUMENTS-OR-ELECTRONIC-RECORDS-FALSE-INSTRUMENTS-AND-TO-CURRENCY-NOTES-AND-BANK-NOTES)
 
 - [463 Forgery](#Forgery)
 
-- [464 Making a false document](#Making-a-false-document)
+- [464 Making a false document or false electronic record](#Making-a-false-document-or-false-electronic-record)
 
 - [465 Punishment for forgery](#Punishment-for-forgery)
 
@@ -1028,19 +1082,25 @@
 
 - [469 Forgery for the purpose of harming the reputation of any person](#Forgery-for-the-purpose-of-harming-the-reputation-of-any-person)
 
-- [470 "A forged document"](#"A-forged-document")
+- [470 "A forged document or forged electronic record"](#"A-forged-document-or-forged-electronic-record")
 
-- [471 Using as genuine a forged document](#Using-as-genuine-a-forged-document)
+- [471 Using as genuine a forged document or forged electronic record](#Using-as-genuine-a-forged-document-or-forged-electronic-record)
 
 - [472 Making or possessing a counterfeit seal, plate, etc., with intent to commit a forgery punishable under section 467](#Making-or-possessing-a-counterfeit-seal-plate-etc-with-intent-to-commit-a-forgery-punishable-under-section-467)
 
 - [473 Making or possessing a counterfeit seal, plate, etc., with intent to commit a forgery punishable otherwise](#Making-or-possessing-a-counterfeit-seal-plate-etc-with-intent-to-commit-a-forgery-punishable-otherwise)
 
-- [474 Having possession of a valuable security or will known to be forged, with intent to use it as genuine](#Having-possession-of-a-valuable-security-or-will-known-to-be-forged-with-intent-to-use-it-as-genuine)
+- [473A Making or possessing equipment for making a false instrument](#Making-or-possessing-equipment-for-making-a-false-instrument)
+
+- [473B Making or possessing equipment for making a false instrument with intent to induce prejudice](#Making-or-possessing-equipment-for-making-a-false-instrument-with-intent-to-induce-prejudice)
+
+- [473C Meaning of "prejudice" and "induce"](#Meaning-of-"prejudice"-and-"induce")
+
+- [474 Having possession of certain document or electronic record known to be forged, with intent to use it as genuine](#Having-possession-of-certain-document-or-electronic-record-known-to-be-forged-with-intent-to-use-it-as-genuine)
 
 - [475 Counterfeiting a device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material](#Counterfeiting-a-device-or-mark-used-for-authenticating-documents-described-in-section-467-or-possessing-counterfeit-marked-material)
 
-- [476 Counterfeiting a device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material](#Counterfeiting-a-device-or-mark-used-for-authenticating-documents-other-than-those-described-in-section-467-or-possessing-counterfeit-marked-material)
+- [476 Counterfeiting a device or mark used for authenticating documents or electronic records other than those described in section 467, or possessing counterfeit marked material](#Counterfeiting-a-device-or-mark-used-for-authenticating-documents-or-electronic-records-other-than-those-described-in-section-467-or-possessing-counterfeit-marked-material)
 
 - [477 Fraudulent cancellation, destruction, etc., of a will](#Fraudulent-cancellation-destruction-etc-of-a-will)
 
@@ -1056,7 +1116,7 @@
 
 - [489D Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes](#Making-or-possessing-instruments-or-materials-for-forging-or-counterfeiting-currency-notes-or-bank-notes)
 
-- [489E Forfeiture of counterfeit currency](#Forfeiture-of-counterfeit-currency)
+- [489E (Repealed)](#Repealed)
 
 [**Chapter XX  OFFENCES RELATING TO MARRIAGE**](#Chapter-XX--OFFENCES-RELATING-TO-MARRIAGE)
 
@@ -1068,7 +1128,7 @@
 
 - [496 Marriage ceremony gone through with fraudulent intent without lawful marriage](#Marriage-ceremony-gone-through-with-fraudulent-intent-without-lawful-marriage)
 
-- [498 Enticing or taking away or detaining with a criminal intent a married woman](#Enticing-or-taking-away-or-detaining-with-a-criminal-intent-a-married-woman)
+- [498 (Repealed)](#Repealed)
 
 [**Chapter XXI  DEFAMATION**](#Chapter-XXI--DEFAMATION)
 
@@ -1134,11 +1194,15 @@ PRELIMINARY
 
 3\. Any person liable by law to be tried for an offence committed beyond the limits of Singapore, shall be dealt with according to the provisions of this Code for any act committed beyond Singapore, in the same manner as if such act had been committed within Singapore.
 
+### Jurisdiction over public servants for offences committed outside Singapore
+
+4\. Every public servant who, being a citizen or a permanent resident of Singapore, when acting or purporting to act in the course of his employment, commits an act or omission outside Singapore that if committed in Singapore would constitute an offence under the law in force in Singapore, is deemed to have committed that act or omission in Singapore.
+
+[51/2007 wef 01/02/2008]
+
 ### Certain laws not to be affected by this Code
 
-5\. 1Nothing in this Code is intended to repeal, vary, suspend, or affect any of the provisions of any Act for punishing mutiny and desertion of officers or servicemen in the Singapore Armed Forces, or of any other law for the time being in force.
-
-1There is no section 4
+5\. Nothing in this Code is intended to repeal, vary, suspend, or affect any of the provisions of any Act for punishing mutiny and desertion of officers or servicemen in the Singapore Armed Forces, or of any other law for the time being in force.
 
 ### Chapter II
 
@@ -1188,7 +1252,7 @@ A, a police officer, without warrant, apprehends Z, who has committed murder. He
 
 ### “Judge”
 
-19\. 2The word “judge” denotes not only every person who is officially designated as a judge, but also every person who is empowered by law to give, in any legal proceeding, civil or criminal, a definitive judgment, or a judgment which, if not appealed against, would be definitive, or a judgment which, if confirmed by some other authority, would be definitive, or who is one of a body of persons, which body of persons is empowered by law to give such a judgment.
+19\. 1The word “judge” denotes not only every person who is officially designated as a judge, but also every person who is empowered by law to give, in any legal proceeding, civil or criminal, a definitive judgment, or a judgment which, if not appealed against, would be definitive, or a judgment which, if confirmed by some other authority, would be definitive, or who is one of a body of persons, which body of persons is empowered by law to give such a judgment.
 
 Illustrations
 
@@ -1204,7 +1268,7 @@ Officers holding an inquiry as to the loss of a ship under the Merchant Shipping
 
 A Magistrate exercising jurisdiction in respect of a charge on which he has power only to commit for trial to another court, is not a judge.
 
-2There are no sections 13 to 16 and 18
+1There are no sections 13 to 16 and 18
 
 ### “Court of justice”
 
@@ -1230,17 +1294,9 @@ A Magistrate exercising jurisdiction in respect of a charge on which he has powe
 
 (h) every officer whose duty it is, as such officer, to take, receive, keep or expend any property, on behalf of Government, or to make any survey, assessment, or contract on behalf of Government, or to execute any revenue process, or to investigate, or to report on any matter affecting the pecuniary interests of Government, or to make, authenticate or keep any document relating to the pecuniary interests of Government, or to prevent the infraction of any law for the protection of the pecuniary interests of Government, and every officer in the service or pay of Government, or remunerated by fees or commission for the performance of any public duty;
 
-(i) every officer whose duty it is, as such officer to take, receive, keep or expend any property, to make any survey or assessment, or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenticate or keep any document for the ascertaining of the rights of the people of any village, town or district;
+(i) a member of the Public Service Commission or the Legal Service Commission constituted under Part IX of the Constitution.
 
-(j) a member of the Public Service Commission.
-
-Illustrations
-
-Persons employed in the administration of the Local Government Integration Act [Cap. 166] are public servants.
-
-Explanation1.—Persons falling under any of the above descriptions are public servants, whether appointed by the Government or not.
-
-Explanation2.—Wherever the words “public servant” occur, they shall be understood of every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation.
+[51/2007 wef 01/02/2008]
 
 ### “Movable property”
 
@@ -1252,13 +1308,9 @@ Writings, relating to real or personal property or rights, are movable property.
 
 ### “Wrongful gain”
 
-23\. “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled;
+23\. “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled; “wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
 
-“Wrongful loss” 
-
-“Wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
-
-Explanation—A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
+Explanation1.—A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
 
 ### “Dishonestly”
 
@@ -1272,11 +1324,13 @@ Explanation—A person is said to gain wrongfully when such person retains wrong
 
 26\. A person is said to have “reason to believe” a thing, if he has sufficient cause to believe that thing, but not otherwise.
 
-### “Property in possession of wife, clerk or servant”
+### Property in possession of spouse, clerk or servant
 
-27\. When property is in the possession of a person’s wife, clerk or servant, on account of that person, it is in that person’s possession within the meaning of this Code.
+27\. When property is in the possession of a person’s spouse, clerk or servant, on account of that person, it is in that person’s possession within the meaning of this Code.
 
-Explanation—A person employed temporarily or on a particular occasion in the capacity of a clerk or servant is a clerk or servant within the meaning of this section.
+[51/2007 wef 01/02/2008]
+
+Explanation1.—A person employed temporarily or on a particular occasion in the capacity of a clerk or servant is a clerk or servant within the meaning of this section.
 
 ### “Counterfeit”
 
@@ -1286,33 +1340,47 @@ Explanation1.—It is not essential to counterfeiting that the imitation should 
 
 Explanation2.—Where a person causes one thing to resemble another thing and the resemblance is such that a person might be deceived thereby it shall be presumed until the contrary is proved that the person so causing the one thing to resemble the other thing intended by means of that resemblance to practise deception or knew it to be likely that deception would thereby be practised.
 
-### “Document”
+### Document
 
-29\. The word “document” denotes any matter expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means, intended to be used, or which may be used, as evidence of that matter.
+29\. The word “document” includes, in addition to a document in writing —
 
-Explanation1.—It is immaterial by what means, or upon what substance, the letters, figures or marks are formed, or whether the evidence is intended for, or may be used in, a court of justice, or not.
+(a) any map, plan, graph or drawing;
 
-Illustrations
+(b) any photograph;
 
-A writing expressing the terms of a contract, which may be used as evidence of the contract, is a document.
+(c) any label, marking or other writing which identifies or describes anything of which it forms a part, or to which it is attached by any means whatsoever;
 
-A cheque upon a banker is a document.
+(d) any disc, tape, sound-track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom;
 
-A power of attorney is a document.
+(e) any film (including microfilm), negative, tape, disc or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
 
-A map or plan which is intended to be used, or which may be used as evidence, is a document.
+(f) any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them.
 
-A writing containing directions or instructions is a document.
+[51/2007 wef 01/02/2008]
 
-Explanation2.—Whatever is expressed by means of letters, figures or marks, as explained by mercantile or other usage, shall be deemed to be expressed by such letters, figures or marks within the meaning of this section, although the same may not be actually expressed.
+### Writing
 
-Illustrations
+29A\. The word “writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form.
 
-Awrites his name on the back of a bill of exchange payable to his order. The meaning of the endorsement, as explained by mercantile usage, is that the bill is to be paid to the holder. The endorsement is a document, and must be construed in the same manner as if the words “pay to the holder”, or words to that effect, had been written over the signature.
+[51/2007 wef 01/02/2008]
+
+### Electronic record
+
+29B\. The expression “electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88).
+
+[51/2007 wef 01/02/2008]
 
 ### “Valuable security”
 
 30\. The words “valuable security” denote a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished, or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+
+(1) The words “valuable security” denote a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished, or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+
+[51/2007 wef 01/02/2008]
+
+(2) Notwithstanding the generality of subsection (1), “valuable security” includes credit cards, charge cards, stored value cards, automated teller machine cards and such other cards which have money or money’s worth or other financial rights attached.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -1321,6 +1389,16 @@ Awrites his name on the back of a bill of exchange. As the effect of this endors
 ### “A will”
 
 31\. The words “a will” denote any testamentary document.
+
+### “Die” and “instrument”
+
+31A\. For the purposes of Chapters XII and XVIII —
+
+“die” includes any plate, type, tool, chop or implement and also any part of any die, plate, type, tool, chop or implement, and any stamp or impression thereof or any part of such stamp or impression;
+
+“instrument” includes any document whether of a formal or an informal nature, any postage stamp or revenue stamp, any seal or die, and any disc, card, tape, microchip, sound-track or other device on or in which information is recorded or stored by mechanical, electronic, optical or other means.
+
+[51/2007 wef 01/02/2008]
 
 ### Words referring to acts include illegal omissions
 
@@ -1366,7 +1444,9 @@ A, a jailor, has the charge ofZ, a prisoner.A, intending to causeZ’s death, il
 
 ### Several persons engaged in the commission of a criminal act may be guilty of different offences
 
-38\. Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by names of that act.
+38\. Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -1384,15 +1464,27 @@ Asets fire, by night, to an inhabited house in a large town, for the purpose of 
 
 40\.—(1) Except in the Chapters and sections mentioned in subsections (2) and (3), “offence” denotes a thing made punishable by this Code.
 
-(2) In Chapters IV and VA, and in sections 71, 109, 110, 112, 114, 115, 116, 117, 187, 194, 195, 203, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389, and 445, “offence” denotes a thing punishable under this Code or under any other law for the time being in force.
+(2) In Chapters IV, V and VA, and in sections 4, 71, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389, and 445, “offence” denotes a thing punishable under this Code or under any other law for the time being in force.
+
+[51/2007 wef 01/02/2008]
 
 (3) In sections 141, 176, 177, 201, 202, 212, 216 and 441, “offence” has the same meaning when the thing punishable under any other law for the time being in force is punishable under such law with imprisonment for a term of 6 months or upwards, whether with or without fine.
 
-### “Illegal”. “Legally bound to do”
+### Offence with specified term of imprisonment
 
-43\. 3The word “illegal” is applicable to every thing which is an offence, or which is prohibited by law, or which furnishes ground for a civil action: and a person is said to be “legally bound to do” whatever it is illegal in him to omit.
+41\. An offence described in this Code or in any written law for the time being in force as being punishable with imprisonment for a specified term or upwards includes an offence for which the specified term is the maximum term of imprisonment.
 
-3There are no sections 41 and 42
+[51/2007 wef 01/02/2008]
+
+### Obscene
+
+42\. The word “obscene”, in relation to any thing or matter, means any thing or matter the effect of which is, if taken as a whole, such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it.
+
+[51/2007 wef 01/02/2008]
+
+### “Illegal”, “unlawful” and “legally bound to do”
+
+43\. The word “illegal” or “unlawful” is applicable to every thing which is an offence, or which is prohibited by law, or which furnishes ground for a civil action: and a person is said to be “legally bound to do” whatever it is illegal or unlawful in him to omit.
 
 ### “Injury”
 
@@ -1450,13 +1542,19 @@ PUNISHMENTS
 
 Explanation1.—Caning shall be with a rattan.
 
-### Fractions of terms of punishment
+### Imprisonment for life
 
-57\. In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for 20 years.
+54\. “Imprisonment for life”, in relation to any prescribed punishment under this Code or any other written law, means imprisonment for the duration of a person’s natural life.
+
+[51/2007 wef 01/02/2008]
+
+57\. [Deleted by Act 51/2007 wef 01/02/2008]
 
 ### Limit of punishment of offence which is made up of several offences
 
-71\.4—(1) Where anything which is an offence is made up of parts, any of which parts is itself an offence, the offender shall not be punished with the punishment of more than one of such his offences, unless it be so expressly provided.
+71\.2—(1) Where anything which is an offence is made up of parts, any of which parts is itself an offence, the offender shall not be punished with the punishment of more than one of such offences, unless it be so expressly provided.
+
+[51/2007 wef 01/02/2008]
 
 (2) Where anything is an offence falling within two or more separate definitions of any law in force for the time being by which offences are defined or punished, or where several acts of which one or more than one would by itself or themselves constitute an offence constitute when combined a different offence the offender shall not be punished with a more severe punishment than the court which tries him could award for any one of such offences.
 
@@ -1464,13 +1562,13 @@ Illustrations
 
 (a)
 
-AgivesZ50 strokes with a stick. HereAmay have committed the offence of voluntarily causing hurt toZby the whole beating, and also by each of the blows which make up the whole beating. IfAwere liable to punishment for every blow, he might be imprisoned for 50 years, one for each blow. But he is liable only to one punishment for the whole beating.
+AgivesZ50 strokes with a stick. HereAmay have committed the offence of voluntarily causing hurt toZby the whole beating, and also by each of the blows which make up the whole beating. IfAwere liable to punishment for every blow, he might be imprisoned for 100 years, two for each blow. But he is liable only to one punishment for the whole beating.
 
 (b)
 
 But if, whileAis beatingZ,Yinterferes andAintentionally strikesY, here, as the blow given toYis no part of the act wherebyAvoluntarily causes hurt toZ,Ais liable to one punishment for voluntarily causing hurt toZ, and to another for the blow given toY.
 
-4There are no sections 54 to 56 and 58 to 70.
+2There are no sections 55 to 56 and 58 to 70.
 
 ### Punishment of a person found guilty of one of several offences, the judgment stating that it is doubtful of which
 
@@ -1478,71 +1576,71 @@ But if, whileAis beatingZ,Yinterferes andAintentionally strikesY, here, as the b
 
 ### Enhanced penalties for offences against domestic maids
 
-73\.—(1) Subsection (2) shall apply where an employer of a domestic maid or a member of the employer's household is convicted of —
+73\.—(1) Subsection (2) shall apply where an employer of a domestic maid or a member of the employer’s household is convicted of —
 
-(a) an offence of causing hurt or grievous hurt to any domestic maid employed by the employer punishable under
+(a) an offence of causing hurt or grievous hurt to any domestic maid employed by the employer punishable under section 323, 324 or 325;
 
-section 323
+(b) an offence of wrongfully confining any domestic maid employed by the employer punishable under section 342, 343 or 344;
 
-, 324 or 325;
+(c) an offence of assaulting or using criminal force to any domestic maid employed by the employer punishable under section 354;
 
-(b) an offence of wrongfully confining any domestic maid employed by the employer punishable under
-
-section 342
-
-, 343 or 344;
-
-(c) an offence of assaulting or using criminal force to any domestic maid employed by the employer punishable under
-
-section 354
-
-;
-
-(d) an offence of doing any act that is intended to insult the modesty of any domestic maid employed by the employer punishable under
-
-section 509
-
-; or
+(d) an offence of doing any act that is intended to insult the modesty of any domestic maid employed by the employer punishable under section 509; or
 
 (e) an offence of attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, an offence described in paragraphs (a) to (d).
 
-(2) Where an employer of a domestic maid or a member of the employer's household is convicted of an offence described in subsection (1)(a), (b), (c), (d) or (e), the court may sentence the employer of the domestic maid or the member of his household, as the case may be, to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.
+(2) Where an employer of a domestic maid or a member of the employer’s household is convicted of an offence described in subsection (1)(a), (b), (c), (d) or (e), the court may sentence the employer of the domestic maid or the member of his household, as the case may be, to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.
 
-(3) Notwithstanding anything to the contrary in the
+(3) Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap.68) —
 
-Criminal Procedure Code
+(a) a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 343, 344 and 354 and shall have power to award the full punishment provided under subsection (2) in respect of those offences; and
 
-(Cap.68) —
-
-(a) a Magistrate's Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under
-
-sections 343
-
-, 344 and 354 and shall have power to award the full punishment provided under subsection (2) in respect of those offences; and
-
-(b) a District Court shall have jurisdiction to hear and determine all proceedings for an offence punishable under
-
-sections 324
-
-and 325 and shall have power to award the full punishment provided under subsection (2) in respect of those offences.
+(b) a District Court shall have jurisdiction to hear and determine all proceedings for an offence punishable under sections 324 and 325 and shall have power to award the full punishment provided under subsection (2) in respect of those offences.
 
 (4) For the purposes of this section —
 
-“domestic maid” means any female house servant employed in, or in connection with, the domestic services of her employer's private dwelling-house and who resides in her employer's private dwelling-house;
+“domestic maid” means any female house servant employed in, or in connection with, the domestic services of her employer’s private dwelling-house and who resides in her employer’s private dwelling-house;
 
 “dwelling-house” means a place of residence and includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
 
-“member of the employer's household”, in relation to a domestic maid, means a person residing in the employer's private dwelling-house at the time the offence was committed whose orders the domestic maid has reasonable grounds for believing she is expected to obey..
+“member of the employer’s household”, in relation to a domestic maid, means a person residing in the employer’s private dwelling-house at the time the offence was committed whose orders the domestic maid has reasonable grounds for believing she is expected to obey.
 
-[Act 18 of 1998 wef 1998/05/15]
+### Enhanced penalties for racially or religiously aggravated offences
+
+74\.—(1) Where a person is convicted of an offence specified in subsection (2) which is racially or religiously aggravated, the court may sentence the person to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.
+
+(2) The offence referred to in subsection (1) is as follows:
+
+(a) an offence under section 143, 144, 145, 147, 148, 151, 153, 158, 267B, 267C, 323, 324, 325, 341, 342, 343, 344, 346, 352, 354, 355, 357, 363A, 504, 505, 506, 507 or 509; or
+
+(b) an offence of attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, any offence under paragraph (a).
+
+(3) Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68) —
+
+(a) a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 143, 151, 153, 323, 343, 344, 346, 354(1), 355, 504, 505 and 507 and shall have power to award the full punishment provided under subsection (1) in respect of those offences; and
+
+(b) a District Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 144, 145, 147, 148, 158, 267C, 324, 325, 354(2), 363A and 506 and shall have power to award the full punishment provided under subsection (1) in respect of those offences.
+
+(4) For the purposes of this section, an offence is racially or religiously aggravated if —
+
+(a) at the time of committing the offence, or immediately before or after committing such offence, the offender demonstrates towards the victim of the offence hostility based on the victim’s membership (or presumed membership) of a racial or religious group; or
+
+(b) the offence is motivated (wholly or partly) by hostility towards members of a racial or religious group based on their membership of that group.
+
+(5) It is immaterial for the purposes of paragraph (a) or (b) of subsection (4) whether or not the offender’s hostility is also based, to any extent, on any other factor not mentioned in that paragraph.
+
+(6) In this section —
+
+“membership”, in relation to a racial or religious group, includes association with members of that group;
+
+“presumed” means presumed by the offender.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment of persons convicted, after a previous conviction, of an offence punishable with 3 years’ imprisonment
 
-75\. 5Whoever, having been convicted of an offence punishable under Chapter XII or Chapter XVII with imprisonment for a term of 3 years or upwards, or having been convicted in any part of Malaysia or in Brunei Darussalam of an offence of a nature similar to any of those offences, is guilty of any offence punishable under either of those Chapters with imprisonment for a term of 3 years or upwards, shall be subject for every such subsequent offence to imprisonment, for life, or to double the amount of punishment to which he would otherwise have been liable for the same:
+75\. Whoever, having been convicted of an offence punishable under Chapter XII or Chapter XVII with imprisonment for a term of 3 years or upwards, is guilty of any offence punishable under either of those Chapters with imprisonment for a term of 3 years or upwards, shall be subject for every such subsequent offence to imprisonment, for life, or to double the amount of punishment to which he would otherwise have been liable for the same; but if he is not sentenced to imprisonment for life, he shall not in any case be liable to imprisonment for a term exceeding 15 years.
 
-Provided that he shall not in any case be liable to imprisonment for a term exceeding 10 years.
-
-5There is no section 74.
+[51/2007 wef 01/02/2008]
 
 ### Chapter IV
 
@@ -1574,15 +1672,23 @@ A, an officer of a court of justice, being ordered by that court to arrestY, and
 
 79\. Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be justified by law, in doing it.
 
-Illustration
+Illustrations
 
-AseesZcommit what appears toAto be a murder.A, in the exercise, to the best of his judgment exerted in good faith, of the power which the law gives to all persons of apprehending murderers in the act, seizesZ, in order to bringZbefore the proper authorities.Ahas committed no offence, though it may turn out thatZwas acting in self-defence.
+(a)AseesZcommit what appears toAto be a murder.A, in the exercise, to the best of his judgment exerted in good faith, of the power which the law gives to all persons of apprehending murderers in the act, seizesZ, in order to bringZbefore the proper authorities.Ahas committed no offence, though it may turn out thatZwas acting in self-defence.
+
+(b) A, a police officer, is deployed to perform the duty of screening passengers boarding a flight at the airport.AseesZ, a passenger queuing up to be screened, acting suspiciously. AsAapproachesZ,Zsuddenly shouts aloud that he is carrying a bomb and warnsAnot to approach further. AsAdraws his revolver,Zsuddenly starts to run away.A, after assessing the circumstances of the case, and to the best of his judgment exerted in good faith, believes thatZhas a bomb and will set it off.AshootsZandZdies as a result.Ahas committed no offence, even though it may turn out thatZwas not carrying a bomb.
+
+(c) A, a police officer, is deployed to perform patrol duty at an underground train station.Areceives information from police headquarters that someone is attempting to plant a bomb in the public transport system. The profile of the suspect is also provided. While patrolling the underground train station,AseesZ, who fits the profile.Zis seen carrying a backpack and behaving suspiciously.AapproachesZand orders him to stop.Zsuddenly starts running towards a crowd in the station.A, after assessing the circumstances of the case, and to the best of his judgment exerted in good faith, believes thatZhas a bomb and will set it off.AshootsZandZdies as a result.Ahas committed no offence, even though it may turn out thatZwas not carrying a bomb.
+
+(d) X, the commander of a naval vessel, is patrolling Singapore territorial waters.Xreceives information that someone may hijack a vessel in order to commit a terrorist act.Xspots vesselAwhich is proceeding at high speed towards a cruise liner.Xorders vesselAto stop her manoeuvre immediately and fires a warning signal. VesselAinstead starts accelerating towards the cruise liner.X, after assessing the circumstances of the case, and to the best of his judgment exerted in good faith, believes that vesselAis going to ram into the cruise liner.Xgives an order to fire at vesselA. The persons on board vesselAdie as a result.Xhas committed no offence, even though it may turn out that vesselAwas not hijacked nor were there any terrorist on board.
+
+[51/2007 wef 01/02/2008]
 
 ### Accident in the doing of a lawful act
 
 80\. Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge, in the doing of a lawful act in a lawful manner, by lawful means, and with proper care and caution.
 
-Illustration
+Illustrations
 
 Ais at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part ofA, his act is excusable and not an offence.
 
@@ -1601,6 +1707,12 @@ A, the captain of a steam vessel, suddenly and without any fault or negligence o
 (b)
 
 Ain a great fire pulls down houses in order to prevent the conflagration from spreading. He does this with the intention, in good faith, of saving human life or property. Here, if it be found that the harm to be prevented was of such a nature and so imminent as to excuseA’s act,Ais not guilty of the offence.
+
+(c)
+
+X, the commander of a naval vessel, is deployed in response to a threat of a terrorist attack against a ferry terminal in Singapore.Xreceives information that vesselA, with a crew of 6, has been hijacked by terrorists and is approaching the ferry terminal at great speed and is likely to collide into the terminal. There is insufficient time to evacuate the persons at the terminal, which is estimated to be about 100.Xorders vesselAto stop her manoeuvre immediately and fires a warning signal. However, vesselAcontinues her advance towards the terminal. Here, ifXgives an order to fire at vesselAto disable it, without any intention to cause harm to the crew members of vesselA, and in good faith for the purpose of avoiding the danger to the persons at the terminal, he is not guilty of an offence. This is so even though he knows that he is likely to cause harm to the crew members of vesselA, if it be found as a matter of fact that the danger whichXintends to avoid is such as to excuse him in incurring the risk of firing at vesselA.
+
+[51/2007 wef 01/02/2008]
 
 ### Act of a child under 7 years of age
 
@@ -1626,7 +1738,7 @@ Ain a great fire pulls down houses in order to prevent the conflagration from sp
 
 ### Effect of defence of intoxication when established
 
-86\.—(1) Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 314 and 315 of the Criminal Procedure Code [Cap. 67] shall apply.
+86\.—(1) Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 314 and 315 of the Criminal Procedure Code shall apply.
 
 (2) Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention, specific or otherwise, in the absence of which he would not be guilty of the offence.
 
@@ -1668,19 +1780,23 @@ Illustrations
 
 A, in good faith, for the benefit of his child, being under 12 years of age, without his child’s consent, has his child cut for the stone by a surgeon, knowing it to be likely that the operation will cause the child’s death, but not intending to cause the child’s death.Ais within the exception, inasmuch as his object was the cure of the child.
 
-### Consent known to be given under fear or misconception
+### Consent given under fear or misconception, by person of unsound mind, etc., and by child
 
-90\. A consent is not such a consent as is intended by any section of this Code —
+90\. A consent is not such a consent as is intended by any section of this Code ––
 
-(a) if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consent was given in consequence of such fear or misconception;
+(a) if the consent is given by a person ––
 
-Consent of person of unsound mind
+(i) under fear of injury or wrongful restraint to the person or to some other person; or
 
-(b) if the consent is given by a person who, from unsoundness of mind or intoxication, is unable to understand the nature and consequence of that to which he gives his consent; or
+(ii) under a misconception of fact,
 
-Consent of child
+and the person doing the act knows, or has reason to believe, that the consent was given in consequence of such fear or misconception;
+
+(b) if the consent is given by a person who, from unsoundness of mind, mental incapacity, intoxication, or the influence of any drug or other substance, is unable to understand the nature and consequence of that to which he gives his consent; or
 
 (c) unless the contrary appears from the context, if the consent is given by a person who is under 12 years of age.
+
+[51/2007 wef 01/02/2008]
 
 ### Acts which are offences independently of harm caused to the person consenting, are not within the exceptions in sections 87, 88 and 89
 
@@ -1688,9 +1804,9 @@ Consent of child
 
 Illustrations
 
-Causing miscarriage, unless it is authorised under the Termination of Pregnancy Act [Cap. 324) is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore it is not an offence “by reason of such harm”; and the consent of the woman, or of her guardian, to the causing of such miscarriage does not justify the act.
+Causing miscarriage, unless it is authorised under the Termination of Pregnancy Act is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore it is not an offence “by reason of such harm”; and the consent of the woman, or of her guardian, to the causing of such miscarriage does not justify the act.
 
-[32/80]
+[32/80. Cap. 324]
 
 ### Act done in good faith for the benefit of a person without consent
 
@@ -1714,7 +1830,7 @@ Zis thrown from his horse, and is insensible.A, a surgeon, finds thatZrequires t
 
 (b)
 
-Zis carried off by a tiger.Afires at the tiger, knowing it to be likely that the shot may killZ, but not intending to killZ, and in good faith intendingZ’s benefit.A’s ball givesZa mortal wound.Ahas committed no offence.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 (c)
 
@@ -1724,21 +1840,23 @@ A, a surgeon, sees a child suffer an accident which is likely to prove fatal unl
 
 Ais in a house which is on fire, withZ, a child. People below hold out a blanket.Adrops the child from the house-top, knowing it to be likely that the fall may kill the child, but not intending to kill the child, and intending in good faith, the child’s benefit. Here, even if the child is killed by the fall,Ahas committed no offence.
 
-Explanation—Mere pecuniary benefit is not benefit within the meaning sections 88, 89 and 92.
+Explanation1.—Mere pecuniary benefit is not benefit within the meaning of sections 88, 89 and 92.
 
 ### Communication made in good faith
 
 93\. No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.
 
-Illustration
+Illustrations
 
 A, a surgeon, in good faith, communicates to a patient his opinion that he cannot live. The patient dies in consequence of the shock.Ahas committed no offence, though he knew it to be likely that the communication might cause the patient’s death.
 
 ### Act to which a person is compelled by threats
 
-94\. Except murder and offences against the State punishable with death, nothing is an offence which is done by a person who is compelled to do it by threats, which, at the time of doing it, reasonably cause the apprehension that instant death to that person will otherwise be the consequence:
+94\. Except murder and offences against the State punishable with death, nothing is an offence which is done by a person who is compelled to do it by threats, which, at the time of doing it, reasonably cause the apprehension that instant death to that person or any other person will otherwise be the consequence:
 
 Provided that the person doing the act did not of his own accord, or from a reasonable apprehension of harm to himself short of instant death, place himself in the situation by which he became subject to such constraint.
+
+[51/2007 wef 01/02/2008]
 
 Explanation1.—A person who, of his own accord, or by reason of a threat of being beaten, joins gang-robbers knowing their character, is not entitled to the benefit of this exception on the ground of his having been compelled by his associates to do anything that is an offence by law.
 
@@ -1802,7 +1920,9 @@ Explanation2.—A person is not deprived of the right of private defence against
 
 (c) an assault with the intention of committing rape;
 
-(d) an assault with the intention of gratifying unnatural lust;
+(d) an assault with the intention of committing non-consensual penile penetration of the anus;
+
+[51/2007 wef 01/02/2008]
 
 (e) an assault with the intention of kidnapping or abducting;
 
@@ -1848,7 +1968,7 @@ Explanation2.—A person is not deprived of the right of private defence against
 
 106\. If, in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender is so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
 
-Illustration
+Illustrations
 
 Ais attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob.Acommits no offence if by so firing he harms any of the children.
 
@@ -1898,7 +2018,9 @@ Illustrations
 
 (a)
 
-A, with a guilty intention, abets a child or a lunatic to commit an act which would be an offence if committed by a person capable by law of committing an offence, and having the same intention asA. HereA, whether the act is committed or not, is guilty of abetting an offence.
+A, with a guilty intention, abets a child or a person of unsound mind to commit an act which would be an offence if committed by a person capable by law of committing an offence, and having the same intention asA. HereA, whether the act is committed or not, is guilty of abetting an offence.
+
+[51/2007 wef 01/02/2008]
 
 (b)
 
@@ -1928,15 +2050,21 @@ Aconcerts withBa plan for poisoningZ. It is agreed thatAshall administer the poi
 
 108A\. A person abets an offence within the meaning of this Code who, in Singapore, abets the commission of any act without and beyond Singapore which would constitute an offence if committed in Singapore.
 
-Illustration
+Illustrations
 
 A, in Singapore, instigatesB, a foreigner in Java, to commit murder in Java.Ais guilty of abetting murder.
+
+### Abetment outside Singapore of an offence in Singapore
+
+108B\. A person abets an offence within the meaning of this Code who abets an offence committed in Singapore notwithstanding that any or all of the acts constituting the abetment were done outside Singapore.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment
 
 109\. Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence.
 
-Explanation—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.
+Explanation1.—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.
 
 Illustrations
 
@@ -1980,7 +2108,7 @@ AinstigatesBandCto break into an inhabited house at midnight for the purpose of 
 
 112\. If the act for which the abettor is liable under section 111 is committed in addition to the act abetted, and constitutes a distinct offence, the abettor is liable to punishment for each of the offences.
 
-Illustration
+Illustrations
 
 A instigates B to resist by force a distress made by a public servant. B, in consequence, resists that distress. In offering the resistance, B voluntarily caused grievous hurt to the officer executing the distress. As B has committed both the offence of resisting the distress, and the offence of voluntarily causing grievous hurt, B is liable to punishment for both these offences; and if A knew that B was likely voluntarily to cause grievous hurt in resisting the distress, A will also be liable to punishment for each of the offences.
 
@@ -1988,7 +2116,7 @@ A instigates B to resist by force a distress made by a public servant. B, in con
 
 113\. When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner, and to the same extent, as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.
 
-Illustration
+Illustrations
 
 A instigates B to cause grievous hurt to Z. B, in consequence of the instigation, causes grievous hurt to Z. Z dies in consequence. Here, if A knew that the grievous hurt abetted was likely to cause death, A is liable to be punished with the punishment provided for murder.
 
@@ -2000,7 +2128,7 @@ A instigates B to cause grievous hurt to Z. B, in consequence of the instigation
 
 115\. Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment for a term which may extend to 14 years, and shall also be liable to fine.
 
-Illustration
+Illustrations
 
 A instigates B to murder Z. The offence is not committed. If B had murdered Z, he would have been subject to the punishment of death. Therefore, A is liable to imprisonment for a term which may extend to 7 years, and also to a fine; and if any hurt be done to Z in consequence of the abetment, he will be liable to imprisonment for a term which may extend to 14 years, and to fine.
 
@@ -2028,25 +2156,29 @@ B abets the commission of a robbery by A, a police officer, whose duty it is to 
 
 ### Abetting the commission of an offence by the public or by more than 10 persons
 
-117\. Whoever abets the commission of an offence by the public generally, or by any number or class of persons exceeding 10, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+117\. Whoever abets the commission of an offence by the public generally, or by any number or class of persons exceeding 10, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
 
 Illustrations
 
-A affixes in a public place a placard, instigating a sect consisting of more than 10 members, to meet at a certain time and place for the purpose of attacking the members of an adverse sect while engaged in a procession. A has committed the offence defined in this section.
+A, an employee at a worksite, affixes a placard at the worksite where more than 10 persons are employed.Ainstigates the workers to damage property at the worksite if their demand for a pay rise is not met.Ahas committed an offence under this section.
+
+[51/2007 wef 01/02/2008]
 
 ### Concealing a design to commit an offence punishable with death or imprisonment for life. If the offence is committed. If the offence is not committed
 
 118\. Whoever, intending to facilitate, or knowing it to be likely that he will thereby facilitate, the commission of an offence punishable with death or imprisonment for life, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design, shall, if that offence is committed, be punished with imprisonment for a term which may extend to 7 years, or, if the offence is not committed, with imprisonment for a term which may extend to 3 years: and, in either case, shall also be liable to fine.
 
-Illustration
+Illustrations
 
 A, knowing that a gang-robbery is about to be committed at B, falsely informs the police that a gang-robbery is about to be committed at C, a place in an opposite direction, and thereby misleads the police with intent to facilitate the commission of the offence. The gang-robbery is committed at B in pursuance of the design. A is punishable under this section.
 
 ### A public servant concealing a design to commit an offence which it is his duty to prevent. If the offence is committed. If the offence is punishable with death, etc. If not committed
 
-119\. Whoever, being a public servant, intending to facilitate, or knowing it to be likely that he will thereby facilitate, the commission of an offence, the commission of which it is his duty as such public servant to prevent, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design, shall, if the offence is committed, be punished with imprisonment for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for that offence, or with both; or, if the offence is punishable with death or imprisonment for life, with imprisonment for a term which may extend to 10 years; or if the offence is not committed, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term provided for that offence, or with such fine as is provided for the offence, or with both.
+119\. Whoever, being a public servant, intending to facilitate, or knowing it to be likely that he will thereby facilitate, the commission of an offence, the commission of which it is his duty as such public servant to prevent, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design, shall, if the offence is committed, be punished with imprisonment for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for that offence, or with both; or, if the offence is punishable with death or imprisonment for life, be punished with imprisonment for a term which may extend to 15 years, and also be liable to fine; or if the offence is not committed, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term provided for that offence, or with such fine as is provided for the offence, or with both; or, if the offence not committed is punishable with death or imprisonment for life, be punished with imprisonment for a term which may extend to 7 years, and also be liable to fine.
 
-Illustration
+[51/2007 wef 01/02/2008]
+
+Illustrations
 
 A, an officer of police, being legally bound to give information of all designs to commit robbery which may come to his knowledge, and knowing that B designs to commit robbery, omits to give such information, with intent to facilitate the commission of that offence. Here A has by an illegal omission concealed the existence of B’s design, and is liable to punishment according to this section.
 
@@ -2060,7 +2192,7 @@ CRIMINAL CONSPIRACY
 
 ### Definition of criminal conspiracy
 
-120A\. When two or more persons agree to do, or cause to be done —
+120A\.—(1) When two or more persons agree to do, or cause to be done —
 
 (a) an illegal act; or
 
@@ -2070,13 +2202,19 @@ such an agreement is designated a criminal conspiracy:
 
 Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof.
 
-Explanation—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object.
+[51/2007 wef 01/02/2008]
+
+Explanation1.—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object.
+
+(2) A person may be a party to a criminal conspiracy notwithstanding the existence of facts of which he is unaware which make the commission of the illegal act, or the act, which is not illegal, by illegal means, impossible.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment of criminal conspiracy
 
-120B\.—(1) Whoever is a party to a criminal conspiracy to commit an offence punishable with death or imprisonment for a term of 2 years or upwards shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.
+120B\. Whoever is a party to a criminal conspiracy to commit an offence shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.
 
-(2) Whoever is a party to a criminal conspiracy other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment for a term not exceeding 6 months, or with fine, or with both.
+[51/2007 wef 01/02/2008]
 
 ### Chapter VI
 
@@ -2084,7 +2222,9 @@ OFFENCES AGAINST THE STATE
 
 ### Waging or attempting to wage war or abetting the waging of war against the Government
 
-121\. Whoever wages war against the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or with imprisonment for life, and shall also be liable to fine.
+121\. Whoever wages war against the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or with imprisonment for life and shall, if he is not sentenced to death, also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -2092,11 +2232,15 @@ A joins an insurrection against the Government. A has committed the offence defi
 
 ### Offences against the President’s person
 
-121A\. Whoever compasses, imagines, invents, devises, or intends the death of or hurt to or imprisonment or restraint of the President, shall be punished with death, and shall also be liable to fine .
+121A\. Whoever compasses, imagines, invents, devises, or intends the death of or hurt to or imprisonment or restraint of the President, shall be punished with death or with imprisonment for life and shall, if he is not sentenced to death, also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Offences against authority
 
-121B\. Whoever compasses, imagines, invests, devises or intends the deprivation or deposition of the President from the sovereignty of Singapore, or the overawing by criminal force of the Government, shall be punished with imprisonment for life, and shall also be liable to a fine.
+121B\. Whoever compasses, imagines, invents, devises or intends the deprivation or deposition of the President from the sovereignty of Singapore, or the overawing by criminal force of the Government, shall be punished with imprisonment for life, and shall also be liable to a fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Abetting offences under section 121A or 121B
 
@@ -2104,63 +2248,83 @@ A joins an insurrection against the Government. A has committed the offence defi
 
 ### Intentional omission to give information of offences against section 121, 121A, 121B or 121C by a person bound to inform
 
-121D\. Whoever knowing or having reason to believe that any offence punishable under section 121, 121A, 121B or 121C has been committed intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+121D\. Whoever knowing or having reason to believe that any offence punishable under section 121, 121A, 121B or 121C has been committed intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Collecting arms, etc., with the intention of waging war against the Government
 
-122\. Whoever collects men, arms or ammunition or otherwise prepares to wage war, with the intention of either waging or being prepared to wage war against the Government, shall be punished with imprisonment for life or imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
+122\. Whoever collects men, arms or ammunition or otherwise prepares to wage war, with the intention of either waging or being prepared to wage war against the Government, shall be punished with imprisonment for life or imprisonment for a term not exceeding 20 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Concealing with intent to facilitate a design to wage war
 
-123\. Whoever by any act, or by any illegal omission, conceals the existence of a design to wage war against the Government, intending by such concealment to facilitate, or knowing it to be likely that such concealment will facilitate, the waging of such war, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+123\. Whoever by any act, or by any illegal omission, conceals the existence of a design to wage war against the Government, intending by such concealment to facilitate, or knowing it to be likely that such concealment will facilitate, the waging of such war, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Assaulting President, etc., with intent to compel or restrain the exercise of any lawful power
 
-124\. Whoever, with the intention of inducing or compelling the President or a Member of Parliament or the Cabinet, to exercise or refrain from exercising in any manner any of the lawful powers of the President, or such Member, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes by means of criminal force, or the show of criminal force, or attempts so to overawe, the President or such Member, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+124\. Whoever, with the intention of inducing or compelling the President or a Member of Parliament or the Cabinet, to exercise or refrain from exercising in any manner any of the lawful powers of the President, or such Member, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes by means of criminal force, or the show of criminal force, or attempts so to overawe, the President or such Member, shall be punished with imprisonment for life or for a term which may extend to 20 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Waging war against any power in alliance or at peace with Singapore
 
-125\. Whoever wages war against the government of any power in alliance or at peace with the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, to which fine may be added; or with imprisonment for a term which may extend to 7 years, to which fine may be added, or with fine.
+125\. Whoever wages war against the government of any power in alliance or at peace with the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, to which fine may be added; or with imprisonment for a term which may extend to 15 years, to which fine may be added, or with fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Committing depredation on the territories of any power in alliance or at peace with Singapore
 
-126\. Whoever commits depredation, or makes preparations to commit depredation, on the territories of any power in alliance or at peace with the Government, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine and to forfeiture of any property used, or intended to be used, in committing such depredation, or acquired by such depredation.
+126\. Whoever commits depredation, or makes preparations to commit depredation, on the territories of any power in alliance or at peace with the Government, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine, and any property used, or intended to be used, in committing such depredation, or acquired by such depredation, shall be forfeited.
+
+[51/2007 wef 01/02/2008]
 
 ### Receiving property taken by war or depredation mentioned in sections 125 and 126
 
-127\. Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 125 and 126, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine and to forfeiture of the property so received.
+127\. Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 125 and 126, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine, and the property so received shall be forfeited.
+
+[51/2007 wef 01/02/2008]
 
 ### Public servant voluntarily allowing prisoner of State or war in his custody to escape
 
-128\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+128\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Public servant negligently suffering prisoner of State or war in his custody to escape
 
-129\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, negligently suffers such prisoner to escape from any place of confinement in which such prisoner is confined, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+129\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, negligently suffers such prisoner to escape from any place of confinement in which such prisoner is confined, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Aiding escape of, rescuing, or harbouring such prisoner
 
-130\. Whoever knowingly aids or assists any prisoner of State or prisoner of war in escaping from lawful custody or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+130\. Whoever knowingly aids or assists any prisoner of State or prisoner of war in escaping from lawful custody or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
 
-Explanation—A prisoner of State or prisoner of war who is permitted to be at large on his parole within certain limits in Singapore, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.
+[51/2007 wef 01/02/2008]
+
+Explanation1.—A prisoner of State or prisoner of war who is permitted to be at large on his parole within certain limits in Singapore, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.
 
 ### “Harbour”
 
 130A\. In this Chapter, “harbour” includes the supplying a person with shelter, food, drink, money, clothes, arms, ammunition, or means of conveyance, or the assisting a person in any way to evade apprehension.
 
-A
+### Chapter VIA
 
-Piracy
+PIRACY
 
-### Piracy by law of nations. Cf. 12 and 13 Victoria c.96 (Admiralty Offences (Colonial) Act 1849)
+### Piracy by law of nations. Cf. 12 and 13 Victoria c. 96 (Admiralty Offences (Colonial) Act 1849)
 
 130B\.—(1) A person commits piracy who does any act that, by the law of nations, is piracy.
 
 (2) Whoever commits piracy shall be punished with imprisonment for life and with caning with not less than 12 strokes, but if while committing or attempting to commit piracy he murders or attempts to murder another person or does any act that is likely to endanger the life of another person he shall be punished with death.
 
-[Act 35 of 1993 wef 12/11/1993]
+[Act 35/93]
 
-### Piractical acts
+### Piratical acts
 
 130C\. Whoever, while in or out of Singapore —
 
@@ -2170,19 +2334,41 @@ Piracy
 
 (c) does or attempts to do a mutinous act on a Singapore ship; or
 
-(d) counsels or procures a person to do anything mentioned in
+(d) counsels or procures a person to do anything mentioned in paragraph (a), (b) or (c),
 
-paragraph (
+shall be punished with imprisonment for a term not exceeding 15 years and shall be liable to caning.
 
-a
+[51/2007 wef 01/02/2008]
 
-)
+[Act 35/93]
 
-, (b) or (c),
+### Chapter VIB
 
-shall be punished with imprisonment for a term not exceeding 10 years and shall be liable to caning.”.
+GENOCIDE
 
-[Act 35 of 1993 wef 12/11/1993]
+[51/2007 wef 01/02/2008]
+
+### Genocide
+
+130D\. A person commits genocide who, with intent to destroy, in whole or in part, a national, an ethnical, a racial or a religious group, commits any of the following acts:
+
+(a) killing members of the group;
+
+(b) causing serious bodily or mental harm to members of the group;
+
+(c) deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
+
+(d) imposing measures intended to prevent births within the group; or
+
+(e) forcibly transferring children of the group to another group.
+
+### Punishment for genocide
+
+130E\. Whoever commits genocide shall —
+
+(a) if the offence consists of the killing of any person, be punished with death; or
+
+(b) in any other case, be punished with imprisonment for life or with imprisonment for a term which may extend to 20 years.
 
 ### Chapter VII
 
@@ -2212,11 +2398,13 @@ OFFENCES RELATING TO THE ARMED FORCES
 
 136\. Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer or a serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore has deserted, harbours such officer or serviceman shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Exception.—This provision does not extend to the case in which the harbour is given by a wife to her husband.
+Exception1.—This provision does not extend to the case in which the harbour is given by a wife to her husband.
 
 ### Deserter concealed on board merchant vessel through negligence of master
 
-137\. The master or person in charge of a merchant vessel, on board of which any deserter from the Singapore Armed Forces or any visiting forces lawfully present in Singapore is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding $500, if he might have known of such concealment, but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+137\. The master or person in charge of a merchant vessel, on board of which any deserter from the Singapore Armed Forces or any visiting forces lawfully present in Singapore is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding $1,500, if he might have known of such concealment, but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+
+[51/2007 wef 01/02/2008]
 
 ### Abetment of act of insubordination by an officer or a serviceman
 
@@ -2228,7 +2416,9 @@ Exception.—This provision does not extend to the case in which the harbour is 
 
 ### Wearing the dress of a serviceman
 
-140\. Whoever, not being a serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore, wears any garb, or carries any token resembling any garb or token used by such a serviceman, with the intention that it may be believed that he is such a serviceman shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $500 , or with both.
+140\. Whoever, not being a serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore, wears any garb, or carries any token resembling any garb or token used by such a serviceman, with the intention that it may be believed that he is such a serviceman shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### “Harbour”
 
@@ -2240,7 +2430,7 @@ Exception.—This provision does not extend to the case in which the harbour is 
 
 ### Chapter VIII
 
-OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+OFFENCES RELATING TO UNLAWFUL ASSEMBLY
 
 ### Unlawful assembly
 
@@ -2250,13 +2440,15 @@ OFFENCES AGAINST THE PUBLIC TRANQUILLITY
 
 (b) to resist the execution of any law, or of any legal process;
 
-(c) to commit any mischief or criminal trespass, or other offence;
+(c) to commit any offence;
+
+[51/2007 wef 01/02/2008]
 
 (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or
 
 (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.
 
-Explanation—An assembly which was not unlawful when it assembled may subsequently become an unlawful assembly.
+Explanation1.—An assembly which was not unlawful when it assembled may subsequently become an unlawful assembly.
 
 ### Being a member of an unlawful assembly
 
@@ -2264,13 +2456,17 @@ Explanation—An assembly which was not unlawful when it assembled may subsequen
 
 ### Punishment
 
-143\. Whoever is a member of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+143\. Whoever is a member of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Joining an unlawful assembly armed with any deadly weapon
 
-144\. Whoever, being armed with any deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+144\. Whoever, being armed with any deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any combination of such punishments.
 
-Illustration
+[51/2007 wef 01/02/2008]
+
+Illustrations
 
 A wooden pole sharpened at the end is a thing which, used as a weapon of offence, is likely to cause death.
 
@@ -2278,7 +2474,9 @@ This illustration is applicable to sections 148 and 158.
 
 ### Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse
 
-145\. Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+145\. Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Force used by one member in prosecution of common object
 
@@ -2286,13 +2484,17 @@ This illustration is applicable to sections 148 and 158.
 
 ### Punishment for rioting
 
-147\. Whoever is guilty of rioting shall be punished with imprisonment for a term which may extend to 5 years and shall also be liable to caning.
+147\. Whoever is guilty of rioting shall be punished with imprisonment for a term which may extend to 7 years and shall also be liable to caning.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
 ### Rioting armed with a deadly weapon
 
-148\. Whoever is guilty of rioting, being armed with a deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment for a term which may extend to 7 years and shall also be liable to caning.
+148\. Whoever is guilty of rioting, being armed with a deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment for a term which may extend to 10 years and shall also be liable to caning.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -2310,27 +2512,33 @@ The last section is subject to the same illustration as section 144.
 
 ### Knowingly joining or continuing in any assembly of 5 or more persons after it has been commanded to disperse
 
-151\. Whoever knowingly joins or continues in any assembly of 5 or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+151\. Whoever knowingly joins or continues in any assembly of 5 or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Explanation—If any assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.
+[51/2007 wef 01/02/2008]
 
-### Posting placards, etc.
+Explanation1.—If any assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.
 
-151A\. Whoever makes, prints, possesses, posts, distributes or has under his control any document containing any incitement to violence or counselling disobedience to the law or to any lawful order of a public servant or likely to lead to any breach of the peace shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+151A\. [Deleted by Act 51/2007 wef 01/02/2008]
 
 ### Assaulting or obstructing public servant when suppressing riot, etc.
 
-152\. Whoever assaults or threatens to assault, or obstructs or attempts to obstruct, any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly or to suppress a riot or affray, or uses, or threatens or attempts to use, criminal force to such public servant, shall be punished with imprisonment for a term which may extend to 6 years, or with fine, or with both.
+152\. Whoever assaults or threatens to assault, or obstructs or attempts to obstruct, any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly or to suppress a riot or affray, or uses, or threatens or attempts to use, criminal force to such public servant, shall be punished with imprisonment for a term which may extend to 8 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
 ### Wantonly giving provocation, with intent to cause riot. If rioting is committed. If not committed
 
-153\. Whoever malignantly or wantonly, by doing anything which is illegal, gives provocation to any person, intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting is committed in consequence of such provocation, be punished with imprisonment for a term which may extend to one year, or with fine, or with both; and if the offence of rioting is not committed, with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+153\. Whoever malignantly or wantonly, by doing anything which is illegal, gives provocation to any person, intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting is committed in consequence of such provocation, be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; and if the offence of rioting is not committed, with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Owner or occupier of land on which an unlawful assembly is held
 
-154\. Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding $1,000 , if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the principal officer at the nearest police station, and do not, in the case of his or their having reason to believe that it is about to be committed, use all lawful means in his or their power to prevent it, and in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly.
+154\. Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding $5,000, if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the principal officer at the nearest police station, and do not, in the case of his or their having reason to believe that it is about to be committed, use all lawful means in his or their power to prevent it, and in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly.
+
+[51/2007 wef 01/02/2008]
 
 ### Liability of person for whose benefit a riot is committed
 
@@ -2342,23 +2550,23 @@ Explanation—If any assembly is an unlawful assembly within the meaning of sect
 
 ### Harbouring persons hired for an unlawful assembly
 
-157\. Whoever harbours, receives or assembles in any house or premises in his occupation or charge, or under his control, any persons, knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+157\. Whoever harbours, receives or assembles in any house or premises in his occupation or charge, or under his control, any persons, knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Being hired to take part in an unlawful assembly or riot. Or to go armed
 
-158\. Whoever is engaged or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in section 141, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both; and whoever, being so engaged or hired as aforesaid, goes armed, or engages or offers to go armed, with any deadly weapon, or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+158\. Whoever is engaged or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in section 141, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and whoever, being so engaged or hired as aforesaid, goes armed, or engages or offers to go armed, with any deadly weapon, or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
 
-Illustration
+[51/2007 wef 01/02/2008]
+
+Illustrations
 
 The last section is subject to the same illustration as section 144.
 
-### Affray
+159\. [Deleted by Act 51/2007 wef 01/02/2008]
 
-159\. When two or more persons, by fighting, in a public place, disturb the public peace, they are said to “commit an affray”.
-
-### Punishment for committing affray
-
-160\. Whoever commits an affray shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $1,000, or with both.
+160\. [Deleted by Act 51/2007 wef 01/02/2008]
 
 ### Chapter IX
 
@@ -2368,7 +2576,7 @@ OFFENCES BY OR RELATING TO PUBLIC SERVANTS
 
 161\. Whoever, being or expecting to be a public servant, accepts or obtains, or agrees to accept or attempts to obtain, from any person, for himself or for any other person, any gratification whatever, other than legal remuneration, as a motive or reward for doing or forbearing to do any official act, or for showing or forbearing to show, in the exercise of his official functions, favour or disfavour to any person, or for rendering or attempting to render any service or disservice to any person, with the Government, or with any Member of Parliament or the Cabinet, or with any public servant as such, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-Explanations—
+Explanations.—
 
 “Expecting to be a public servant”. If a person not expecting to be in office obtains a gratification by deceiving others into a belief that he is about to be in office, and that he will then serve them, he may be guilty of cheating, but he is not guilty of the offence defined in this section.
 
@@ -2386,7 +2594,9 @@ A, a judge, obtains fromZ, a banker, a situation inZ’s bank forA’s brother, 
 
 (b)
 
-A, a public servant, inducesZerroneously to believe thatA’s influence with the Director-General of Public Works has obtained forZa contract to do work, and thus inducesZto giveAmoney.Ahas committed the offence defined in this section.
+A, a public servant, inducesZerroneously to believe thatA’s influence with another public servant has obtained forZa contract to do work, and thus inducesZto giveAmoney.Ahas committed the offence defined in this section.
+
+[51/2007 wef 01/02/2008]
 
 (c)
 
@@ -2400,7 +2610,7 @@ A, a public servant, inducesZerroneously to believe thatA’s influence with the
 
 163\. Whoever accepts or obtains, or agrees to accept or attempts to obtain, from any person, for himself or for any other person, any gratification whatever, as a motive or reward for inducing, by the exercise of personal influence, any public servant to do or to forbear to do any official act, or in the exercise of the official functions of such public servant to show favour or disfavour to any person, or to render or attempt to render any service or disservice to any person with the Government, or with any Member of Parliament or the Cabinet, or with any public servant, as such, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-Illustration
+Illustrations
 
 An advocate who receives a fee for arguing a case before a judge; a person who receives pay for arranging and correcting a memorial addressed to Government, setting forth the services and claims of the memorialist; a paid agent for a condemned criminal, who lays before the Government statements tending to show that the condemnation was unjust—are not within this section, inasmuch as they do not exercise or profess to exercise personal influence.
 
@@ -2408,7 +2618,7 @@ An advocate who receives a fee for arguing a case before a judge; a person who r
 
 164\. Whoever, being a public servant, in respect of whom either of the offences defined in sections 162 and 163 is committed, abets the offence, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-Illustration
+Illustrations
 
 A is a public servant. B, A’s wife, receives a present as a motive for soliciting A to give an office to a particular person. A abets her doing so. B is punishable with imprisonment for a term not exceeding one year, or with fine, or with both. A is punishable with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
@@ -2434,13 +2644,13 @@ Z’s brother is apprehended and taken beforeA, a Magistrate, on a charge of per
 
 166\. Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will, by such disobedience, cause injury to any person, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-Illustration
+Illustrations
 
 A, being an officer directed by law to take property in execution in order to satisfy a decree pronounced inZ’s favour by a court of justice, knowingly disobeys that direction of law, with the knowledge that he is likely thereby to cause injury toZ.Ahas committed the offence defined in this section.
 
-### Public servant framing an incorrect document with intent to cause injury
+### Public servant framing an incorrect document or electronic record with intent to cause injury
 
-167\. Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document , frames or translates that document in a manner which he knows or believes to be incorrect, intending thereby to cause, or knowing it to be likely that he may thereby cause, injury to any person, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+167\. Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record, frames or translates that document or electronic record in a manner which he knows or believes to be incorrect, intending thereby to cause, or knowing it to be likely that he may thereby cause, injury to any person, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
 ### Public servant unlawfully engaging in trade
 
@@ -2456,7 +2666,9 @@ A, being an officer directed by law to take property in execution in order to sa
 
 ### Wearing garb or carrying token used by public servant, with fraudulent intent
 
-171\. Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $200, or with both.
+171\. Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Chapter X
 
@@ -2464,15 +2676,21 @@ CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
 
 ### Absconding to avoid service of summons, etc., proceeding from a public servant
 
-172\. Whoever absconds in order to avoid being arrested on a warrant, or to avoid being served with a summons, notice, or order proceeding from any public servant, legally competent, as such public servant, to issue such warrant, summons, notice or order, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500, or with both; or, if the summons, notice or order is to attend in person or by agent, or to produce a document before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+172\. Whoever absconds in order to avoid being arrested on a warrant, or to avoid being served with a summons, notice, or order proceeding from any public servant, legally competent, as such public servant, to issue such warrant, summons, notice or order, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the summons, notice or order is to attend in person or by agent, or to produce a document or an electronic record before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Preventing service of summons, etc., or preventing publication thereof
 
-173\. Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order, proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed, or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500, or with both; or, if the summons, notice, order, or proclamation is to attend in person or by agent, or to produce a document before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+173\. Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order, proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed, or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the summons, notice, order, or proclamation is to attend in person or by agent, or to produce a document or an electronic record before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Non-attendance in obedience to an order from a public servant
 
-174\. Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, notice, order or proclamation, proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at the place or time, or departs from the place where he is bound to attend before the time at which it is lawful for him to depart, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500 , or with both; or if the summons, notice, order or proclamation is to attend in person or by agent before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+174\. Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, notice, order or proclamation, proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at the place or time, or departs from the place where he is bound to attend before the time at which it is lawful for him to depart, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or if the summons, notice, order or proclamation is to attend in person or by agent before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -2484,21 +2702,29 @@ A, being legally bound to appear before the High Court, in obedience to a subpoe
 
 A, being legally bound to appear before a Magistrate as a witness, in obedience to a summons issued by that Magistrate, intentionally omits to appear.Ahas committed the offence defined in this section.
 
-### Omission to produce a document to a public servant by a person legally bound to produce such document
+### Omission to produce a document or an electronic record to a public servant by a person legally bound to produce such document or electronic record
 
-175\. Whoever, being legally bound to produce or deliver up any document to any public servant, as such, intentionally omits so to produce or deliver up the same, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500 , or with both; or, if the document is to be produced or delivered up to a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+175\. Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the document or electronic record is to be produced or delivered up to a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
 
-Illustration
+[51/2007 wef 01/02/2008]
 
-A, being legally bound to produce a document before a Magistrate’s Court, intentionally omits to produce the same. A has committed the offence defined in this section.
+Illustrations
+
+A, being legally bound to produce a document or electronic record before a Magistrate’s Court, intentionally omits to produce the same. A has committed the offence defined in this section.
+
+[51/2007 wef 01/02/2008]
 
 ### Omission to give notice or information to a public servant by a person legally bound to give notice or information
 
-176\. Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500, or with both; or, if the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence or in order to the apprehension of an offender, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+176\. Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence or in order to the apprehension of an offender, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Furnishing false information
 
-177\. Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both; or, if the information which he is legally bound to furnish respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+177\. Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or, if the information which he is legally bound to furnish respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -2508,21 +2734,27 @@ A, a landholder, knowing of the commission of a murder, within the limits of his
 
 (b)
 
-A, a police officer, or penghulu, knowing that a considerable body of strangers has passed through his village in order to commit a gang-robbery in the house ofZ, a wealthy merchant residing in a neighbouring place, and being bound to give information of the above fact to his superior officer, wilfully misinforms the officer that a body of suspicious characters passed through the village with a view to commit gang-robbery in a certain distant place in a different direction. HereAis guilty of the offence defined in this section.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
-Explanation—In section 176 and in this section “offence” includes any act committed at any place out of Singapore, which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460, and “offender” includes any person who is alleged to have been guilty of any such act.
+Explanation1.—In section 176 and in this section “offence” includes any act committed at any place out of Singapore, which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460, and “offender” includes any person who is alleged to have been guilty of any such act.
 
 ### Refusing oath when duly required to take oath by a public servant
 
-178\. Whoever refuses to bind himself by an oath to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+178\. Whoever refuses to bind himself by an oath to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Refusing to answer a public servant authorised to question
 
-179\. Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant, in the exercise of the legal powers of such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+179\. Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant, in the exercise of the legal powers of such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Refusing to sign statement
 
-180\. Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $500, or with both.
+180\. Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### False statement on oath to public servant or person authorised to administer an oath
 
@@ -2530,7 +2762,9 @@ Explanation—In section 176 and in this section “offence” includes any act 
 
 ### False information, with intent to cause a public servant to use his lawful power to the injury of another person
 
-182\. Whoever gives to any public servant any information orally or in writing which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant to use the lawful power of such public servant to the injury or annoyance of any person, or to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+182\. Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant to use the lawful power of such public servant to the injury or annoyance of any person, or to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -2544,35 +2778,49 @@ Afalsely informs a public servant thatZhas contraband opium in a secret place, k
 
 (c)
 
-Afalsely informs a policeman that he has been assaulted and robbed in the neighbourhood of a particular village. He does not mention the name of any person as one of his assailants but knows it to be likely that in consequence of this information the police will make inquiries and institute searches in the village to the annoyance of the villagers or some of them.Ahas committed an offence under this section.
+Afalsely informs a policeman that he has been assaulted and robbed by a person whose identity he does not know.Aalso mentions that he often sees that person going in and out of a block of flats, knowing it to be likely that in consequence of this information, the police will make inquiries and institute searches in the block of flats to the annoyance of the flat dwellers or some of them.Ahas committed an offence under this section.
+
+[51/2007 wef 01/02/2008]
 
 ### Resistance to the taking of property by the lawful authority of a public servant
 
-183\. Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+183\. Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Obstructing sale of property offered for sale by authority of a public servant
 
-184\. Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant as such, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500, or with both.
+184\. Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant as such, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Illegal purchase or bid for property offered for sale by authority of a public servant
 
-185\. Whoever, at any sale of property held by the lawful authority of a public servant as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $200, or with both.
+185\. Whoever, at any sale of property held by the lawful authority of a public servant as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Obstructing public servant in discharge of his public functions
 
-186\. Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $500, or with both.
+186\. Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Omission to assist public servant when bound by law to give assistance
 
-187\. Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $200, or with both; and if such assistance is demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a court of justice, or of preventing the commission of an offence, or of suppressing a riot or affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $500 , or with both.
+187\. Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both; and if such assistance is demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a court of justice, or of preventing the commission of an offence, or of suppressing a riot or affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Disobedience to an order duly promulgated by a public servant
 
-188\. Whoever, knowing that by an order promulgated by a public servant lawfully empowered to promulgate such order he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction, shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $200, or with both; and if such disobedience causes or tends to cause danger to human life, health, or safety, or causes or tends to cause a riot or affray, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+188\. Whoever, knowing that by an order promulgated by a public servant lawfully empowered to promulgate such order he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction, shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both; and if such disobedience causes or tends to cause danger to human life, health, or safety, or causes or tends to cause a riot or affray, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
 
-Explanation—It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm.
+[51/2007 wef 01/02/2008]
 
-Illustration
+Explanation1.—It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm.
+
+Illustrations
 
 An order is promulgated by a public servant lawfully empowered to promulgate such order, directing that a religious procession shall not pass down a certain street. A knowingly disobeys the order, and thereby causes danger of riot. A has committed the offence defined in this section.
 
@@ -2620,7 +2868,9 @@ A, an interpreter or translator, gives or certifies as a true interpretation or 
 
 ### Fabricating false evidence
 
-192\. Whoever causes any circumstances to exist, or makes any false entry in any book or record , or makes any document containing a false statement, intending that such circumstance, false entry, or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstances, false entry, or false statement, so appearing in evidence, may cause any person, who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding, is said “to fabricate false evidence”.
+192\. Whoever causes any circumstances to exist, or makes any false entry in any book or record or electronic record, or makes any document or electronic record containing a false statement, intending that such circumstance, false entry, or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstances, false entry, or false statement, so appearing in evidence, may cause any person, who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding, is said “to fabricate false evidence”.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -2644,27 +2894,31 @@ Explanation1.—A trial before a court martial is a judicial proceeding.
 
 Explanation2.—An investigation directed by law preliminary to a proceeding before a court of justice, is a stage of a judicial proceeding, though that investigation may not take place before a court of justice.
 
-Illustration
+Illustrations
 
 A, in an inquiry before a Magistrate for the purpose of ascertaining whether Z ought to be committed for trial, makes on oath a statement which he knows to be false. As this inquiry is a stage of a judicial proceeding. A has given false evidence.
 
 Explanation3.—An investigation directed by a court of justice according to law, and conducted under the authority of a court of justice, is a stage of a judicial proceeding, though that investigation may not take place before a court of justice.
 
-Illustration
+Illustrations
 
 A, in an inquiry before an officer deputed by a court of justice to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this inquiry is a stage of a judicial proceeding, A has given false evidence.
 
 ### Giving or fabricating false evidence with intent to procure conviction of a capital offence. If innocent person is thereby convicted and executed
 
-194\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by this Code, or under any other law for the time being in force, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if an innocent person is convicted and executed in consequence of such false evidence, the person who gives such false evidence shall be punished either with death or the punishment hereinbefore described.
+194\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by this Code, or under any other law for the time being in force, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall also be liable to fine; and if an innocent person is convicted and executed in consequence of such false evidence, the person who gives such false evidence shall be punished either with death or the punishment hereinbefore described.
+
+[51/2007 wef 01/02/2008]
 
 ### Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment
 
 195\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by this Code or under any other law for the time being in force is not capital, but punishable with imprisonment for life, or imprisonment for a term of 7 years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
 
-Illustration
+Illustrations
 
-A gives false evidence before a court of justice, intending thereby to cause Z to be convicted of a gang-robbery. The punishment of gang-robbery is imprisonment for life, or imprisonment for a term which may extend to 10 years, with or without fine. A, therefore, is liable to such imprisonment, with or without fine.
+A gives false evidence before a court of justice, intending thereby to cause Z to be convicted of a gang-robbery. The punishment of gang-robbery is imprisonment for a term of not less than 5 years and not more than 20 years and also caning with not less than 12 strokes. A, therefore, is liable to such imprisonment, with caning.
+
+[51/2007 wef 01/02/2008]
 
 ### Using evidence known to be false
 
@@ -2686,15 +2940,19 @@ A gives false evidence before a court of justice, intending thereby to cause Z t
 
 200\. Whoever corruptly uses or attempts to use as true any such declaration knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
 
-Explanation—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of sections 199 and 200.
+Explanation1.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of sections 199 and 200.
 
-### Causing disappearance of evidence of an offence committed, or giving false information touching it, to screen the offender. If a capital offence. If punishable with imprisonment for life. If punishable with less than 10 years imprisonment
+### Causing disappearance of evidence of an offence committed, or giving false information touching it, to screen the offender. If a capital offence. If punishable with imprisonment for life. If punishable with less than 20 years imprisonment
 
-201\. Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false, shall, if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life or with imprisonment which may extend to 10 years, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine, and if the offence is punishable with imprisonment for any term not extending to 10 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.
+201\. Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false, shall, if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life or with imprisonment which may extend to 20 years, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine, and if the offence is punishable with imprisonment for any term not extending to 20 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.
 
-Illustration
+[51/2007 wef 01/02/2008]
 
-A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment for 7 years, and also to fine.
+Illustrations
+
+A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment for 10 years, and also to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Intentional omission to give information of an offence, by person bound to inform
 
@@ -2704,11 +2962,37 @@ A, knowing that B has murdered Z, assists B to hide the body with the intention 
 
 203\. Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Explanation—In sections 201 and 202 and in this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460.
+Explanation1.—In sections 201 and 202 and in this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460.
 
-### Destruction of document to prevent its production as evidence
+### Destruction of document or electronic record to prevent its production as evidence
 
-204\. Whoever secretes or destroys any document which he may be lawfully compelled to produce as evidence before a court of justice, or in any proceeding lawfully held before a public servant as such, or obliterates or renders illegible the whole or any part of such document with the intention of preventing the same from being produced or used as evidence before such court or public servant as aforesaid, or after he has been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+204\. Whoever secretes or destroys any document or electronic record which he may be lawfully compelled to produce as evidence before a court of justice, or in any proceeding lawfully held before a public servant as such, or obliterates or renders illegible the whole or any part of such document or electronic record with the intention of preventing the same from being produced or used as evidence before such court or public servant as aforesaid, or after he has been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+### Obstructing, preventing, perverting or defeating course of justice
+
+204A\. Whoever intentionally obstructs, prevents, perverts or defeats the course of justice shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+Explanation.––A mere warning to a witness that he may be prosecuted for perjury if he gives false evidence is insufficient to constitute an offence.
+
+[51/2007 wef 01/02/2008]
+
+### Bribery of witnesses
+
+204B\.—(1) Whoever —
+
+(a) gives, confers, or procures, promises or offers to give, confer, or procure or attempts to procure, any gratification to, upon, or for any person, upon any agreement or understanding that any person who is aware of any offence (being an offence which any person is legally bound to give information respecting that offence) will abstain from reporting that offence to the police or any agency charged by law with the duty of investigating offences;
+
+(b) gives, confers, or procures, promises or offers to give, confer, or procure or attempts to procure, any gratification to, upon, or for any person, upon any agreement or understanding that any person called or to be called as a witness in any judicial proceeding will give false testimony or withhold true testimony, or will abstain from giving evidence;
+
+(c) attempts by any means to induce a person called or to be called as a witness in any judicial proceeding to give false testimony, or to withhold true testimony or to abstain from giving evidence; or
+
+(d) asks, receives, or obtains, or agrees or attempts to receive or obtain, any property or benefit of any kind for himself, or any other person, upon any agreement or understanding that any person shall as a witness in any judicial proceeding give false testimony or withhold true testimony or will abstain from giving evidence,
+
+shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+(2) In this section, “judicial proceeding” means any proceeding in the course of which evidence is or may be legally taken.
+
+[51/2007 wef 01/02/2008]
 
 ### False personation for the purpose of any act or proceeding in a suit
 
@@ -2726,7 +3010,7 @@ Explanation—In sections 201 and 202 and in this section “offence” includes
 
 208\. Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due, or for a larger sum than is due to such person, or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Illustration
+Illustrations
 
 A institutes a suit against Z. Z, knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z’s property which may be made under A’s decree. Z has committed an offence under this section.
 
@@ -2740,29 +3024,39 @@ A institutes a suit against Z. Z, knowing that A is likely to obtain a decree ag
 
 ### False charge of offence made with intent to injure
 
-211\. Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and if such criminal proceeding be instituted on a false charge of an offence punishable with death, or imprisonment for 7 years or upwards, shall be punishable with imprisonment for a term which may extend to 7 years and shall also be liable to fine.
+211\. Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and if such criminal proceeding be instituted on a false charge of an offence punishable with death, or imprisonment for 7 years or upwards, shall be punished with imprisonment for a term which may extend to 7 years and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Harbouring an offender. If a capital offence. If punishable with imprisonment
 
-212\. Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 10 years , shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offence is punishable with imprisonment which may extend to one year and not to 10 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+212\. Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 20 years, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment which may extend to one year and not to 20 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
 
 In this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460, and every such act shall for the purposes of this section be deemed to be punishable as if the accused person had been guilty of it in Singapore.
 
-Exception.—This provision shall not extend to any case in which the harbour or concealment is by the husband or wife of the offender.
+[51/2007 wef 01/02/2008]
 
-Illustration
+Exception1.—This provision shall not extend to any case in which the harbour or concealment is by the husband or wife of the offender.
 
-A, knowing that B has committed gang-robbery, knowingly conceals B in order to screen him from legal punishment. Here, as B is liable to imprisonment for life, A is liable to imprisonment for a term not exceeding 3 years, and is also liable to fine.
+Illustrations
+
+A, knowing that B has committed gang-robbery, knowingly conceals B in order to screen him from legal punishment. Here, as B is liable to imprisonment for a term of not less than 5 years and not more than 20 years, A is liable to imprisonment for a term not exceeding 7 years, and is also liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Taking gifts, etc., to screen an offender from punishment. If a capital offence. If punishable with imprisonment
 
-213\. Whoever accepts, or agrees to accept, or attempts to obtain any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 10 years, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offence is punishable with imprisonment not extending to 10 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+213\. Whoever accepts, or agrees to accept, or attempts to obtain any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 20 years, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment not extending to 20 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Offering gift or restoration of property in consideration of screening offender. If a capital offence. If punishable with imprisonment
 
-214\. Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or to restore or cause the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 10 years, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offence is punishable with imprisonment not extending to 10 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
+214\. Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or to restore or cause the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 20 years, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment not extending to 20 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.
 
-Exception.—Sections 213 and 214 do not extend to any case in which the offence may lawfully be compounded.
+[51/2007 wef 01/02/2008]
+
+Exception1.—Sections 213 and 214 do not extend to any case in which the offence may lawfully be compounded.
 
 ### Taking gift to help to recover stolen property, etc.
 
@@ -2770,19 +3064,21 @@ Exception.—Sections 213 and 214 do not extend to any case in which the offence
 
 ### Harbouring an offender who has escaped from custody, or whose apprehension has been ordered. If a capital offence. If punishable with imprisonment.
 
-216\. Whenever any person convicted of, or charged with an offence, being in lawful custody for that offence, escapes from such custody, or whenever a public servant, in the exercise of the lawful powers of such public servant, orders a certain person to be apprehended for an offence, whoever, knowing of such escape or order for apprehension, harbours or conceals that person with the intention of preventing him from being apprehended, shall be punished in the manner following, that is to say, if the offence for which the person was in custody, or is ordered to be apprehended, is punishable with death, he shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; if the offence is punishable with imprisonment for life, or imprisonment for 10 years, he shall be punished with imprisonment for a term which may extend to 3 years, with or without fine; and if the offence is punishable with imprisonment which may extend to one year and not to 10 years, he shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.
+216\. Whenever any person convicted of, or charged with an offence, being in lawful custody for that offence, escapes from such custody, or whenever a public servant, in the exercise of the lawful powers of such public servant, orders a certain person to be apprehended for an offence, whoever, knowing of such escape or order for apprehension, harbours or conceals that person with the intention of preventing him from being apprehended, shall be punished in the manner following, that is to say, if the offence for which the person was in custody, or is ordered to be apprehended, is punishable with death, he shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; if the offence is punishable with imprisonment for life, or imprisonment which may extend to 20 years, he shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment which may extend to one year and not to 20 years, he shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.
 
 In this section “offence” includes also any act or omission of which a person is alleged to have been guilty out of Singapore which if he had been guilty of it in Singapore would have been punishable as an offence and for which he is under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in Singapore, and every such act or omission shall for the purpose of this section be deemed to be punishable as if the accused person had been guilty of it in Singapore.
 
-Exception.—This provision does not extend to the case in which the harbour or concealment is by the husband or wife of the person to be apprehended.
+[51/2007 wef 01/02/2008]
+
+Exception1.—This provision does not extend to the case in which the harbour or concealment is by the husband or wife of the person to be apprehended.
 
 ### Harbouring robbers or gang-robbers, etc.
 
 216A\. Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or gang-robbery, harbours them or any of them with the intention of facilitating the commission of such robbery or gang-robbery or of screening them or any of them from punishment, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
-Explanation—For the purpose of this section it is immaterial whether the robbery or gang-robbery is intended to be committed or has been committed within or without Singapore.
+Explanation1.—For the purpose of this section it is immaterial whether the robbery or gang-robbery is intended to be committed or has been committed within or without Singapore.
 
-Exception.—This provision does not extend to the case in which the harbouring is by the husband or wife of the offender.
+Exception1.—This provision does not extend to the case in which the harbouring is by the husband or wife of the offender.
 
 ### “Harbour”
 
@@ -2808,21 +3104,33 @@ Exception.—This provision does not extend to the case in which the harbouring 
 
 221\. Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to be apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished —
 
-(a) with imprisonment for a term which may extend to 7 years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with or liable to be apprehended for an offence punishable with death;
+(a) with imprisonment for a term which may extend to 10 years, and shall also be liable to fine, if the person in confinement, or who ought to have been apprehended, was charged with or liable to be apprehended for an offence punishable with death;
 
-(b) with imprisonment for a term which may extend to 3 years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with or liable to be apprehended for an offence punishable with imprisonment for life, or imprisonment for a term which may extend to 10 years; or
+[51/2007 wef 01/02/2008]
 
-(c) with imprisonment for a term which may extend to 2 years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with or liable to be apprehended for an offence punishable with imprisonment for a term less than 10 years.
+(b) with imprisonment for a term which may extend to 7 years, and shall also be liable to fine, if the person in confinement, or who ought to have been apprehended, was charged with or liable to be apprehended for an offence punishable with imprisonment for life, or imprisonment for a term which may extend to 20 years; or
+
+[51/2007 wef 01/02/2008]
+
+(c) with imprisonment for a term which may extend to 5 years, or with fine, or with both, if the person in confinement, or who ought to have been apprehended, was charged with or liable to be apprehended for an offence punishable with imprisonment for a term less than 20 years.
+
+[51/2007 wef 01/02/2008]
 
 ### Intentional omission to apprehend on the part of a public servant bound by law to apprehend person under sentence of a court of justice
 
 222\. Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person under sentence of a court of justice for any offence, or lawfully committed to custody, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished —
 
-(a) with imprisonment for life or with imprisonment for a term which may extend to 14 years, with or without fine, if the person in confinement, or who ought to have been apprehended, is under sentence of death;
+(a) with imprisonment for life or with imprisonment for a term which may extend to 20 years, and shall also be liable to fine, if the person in confinement, or who ought to have been apprehended, is under sentence of death;
 
-(b) with imprisonment for a term which may extend to 7 years, with or without fine, if the person in confinement, or who ought to have been apprehended, is subject, by a sentence of a court of justice, or by virtue of a commutation of such sentence, to imprisonment for a term of 10 years or upwards; or
+[51/2007 wef 01/02/2008]
 
-(c) with imprisonment for a term which may extend to 3 years, or with fine or with both, if the person in confinement, or who ought to have been apprehended, is subject, by a sentence of a court of justice, to imprisonment for a term not exceeding 10 years, or if the person was lawfully committed to custody.
+(b) with imprisonment for a term which may extend to 10 years, and shall also be liable to fine, if the person in confinement, or who ought to have been apprehended, is subject, by a sentence of a court of justice, or by virtue of a commutation of such sentence, to imprisonment for a term of 20 years or upwards; or
+
+[51/2007 wef 01/02/2008]
+
+(c) with imprisonment for a term which may extend to 7 years, or with fine or with both, if the person in confinement, or who ought to have been apprehended, is subject, by a sentence of a court of justice, to imprisonment for a term less than 20 years, or if the person was lawfully committed to custody.
+
+[51/2007 wef 01/02/2008]
 
 ### Escape from confinement negligently suffered by a public servant
 
@@ -2832,21 +3140,31 @@ Exception.—This provision does not extend to the case in which the harbouring 
 
 224\. Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged, or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Explanation—The punishment in this section is in addition to the punishment for which the person to be apprehended or detained in custody was liable for the offence with which he was charged or of which he was convicted.
+Explanation1.—The punishment in this section is in addition to the punishment for which the person to be apprehended or detained in custody was liable for the offence with which he was charged or of which he was convicted.
 
 ### Resistance or obstruction to the lawful apprehension of another person
 
 225\. Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence —
 
-(a) shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both;
+(a) shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both;
 
-(b) if the person to be apprehended, or the person rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with imprisonment for life of imprisonment for a term which may extend to 10 years, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine;
+[51/2007 wef 01/02/2008]
 
-(c) if the person to be apprehended or rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with death, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine;
+(b) if the person to be apprehended, or the person rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with imprisonment for life of imprisonment for a term which may extend to 20 years, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine;
 
-(d) if the person to be apprehended or rescued, or attempted to be rescued, is liable, under the sentence of a court of justice, or by virtue of a commutation of such a sentence, to imprisonment for a term of 10 years or upwards, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; or
+[51/2007 wef 01/02/2008]
 
-(e) if the person to be apprehended or rescued, or attempted to be rescued, is under sentence of death, shall be punished with imprisonment for life or imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
+(c) if the person to be apprehended or rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with death, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine;
+
+[51/2007 wef 01/02/2008]
+
+(d) if the person to be apprehended or rescued, or attempted to be rescued, is liable, under the sentence of a court of justice, or by virtue of a commutation of such a sentence, to imprisonment for a term of 10 years or upwards, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; or
+
+[51/2007 wef 01/02/2008]
+
+(e) if the person to be apprehended or rescued, or attempted to be rescued, is under sentence of death, shall be punished with imprisonment for life or imprisonment for a term not exceeding 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Public servant omitting to apprehend or suffering other persons to escape in cases not already provided for
 
@@ -2858,17 +3176,21 @@ Explanation—The punishment in this section is in addition to the punishment fo
 
 ### Resistance or obstruction to lawful apprehension, or escape, or rescue, in cases not otherwise provided for
 
-225B\. Whoever, in any case not provided for in section 224 or 225, or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+225B\. Whoever, in any case not provided for in section 224 or 225, or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Offences against laws of Singapore where no special punishment is provided
 
-225C\. Whoever does anything which by any law in force in Singapore he is prohibited from doing, or omits to do anything which he is so enjoined to do, shall, when no special punishment is provided by the law for such commission or omission, be punished with fine not exceeding $200.
+225C\. Whoever does anything which by any law in force in Singapore he is prohibited from doing, or omits to do anything which he is so enjoined to do, shall, when no special punishment is provided by the law for such commission or omission, be punished with fine not exceeding $2,000.
+
+[51/2007 wef 01/02/2008]
 
 ### Unlawful return from banishment
 
 226\. Whoever, having been lawfully banished, or otherwise lawfully sent out of Singapore, returns to Singapore, the term for which he was banished or sent out of Singapore not having expired, and he not having received a remission of punishment, or otherwise not having lawful authority to return to Singapore, shall be punished with imprisonment for a term which shall not exceed that for which he was banished or sent out of Singapore, and shall also be liable to fine.
 
-Explanation—A person ordered to be banished from Singapore under the Banishment Act [Cap. 18] is liable to punishment for returning unlawfully to Singapore under this section.
+Explanation1.—A person ordered to be banished from Singapore under the Banishment Act [Cap. 18] is liable to punishment for returning unlawfully to Singapore under this section.
 
 ### Violation of condition of remission of punishment
 
@@ -2876,7 +3198,9 @@ Explanation—A person ordered to be banished from Singapore under the Banishmen
 
 ### Intentional insult or interruption to a public servant sitting in any stage of a judicial proceeding
 
-228\. Whoever intentionally offers any insult or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+228\. Whoever intentionally offers any insult or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Personation of an assessor
 
@@ -2888,33 +3212,39 @@ OFFENCES RELATING TO COIN AND GOVERNMENT STAMPS
 
 ### Coin
 
-230\. “Coin” is metal used as money stamped and issued by the authority of the Government or of any other part of the Commonwealth or by the authority of the government of any foreign country in order to be so used.
+230\. “Coin” is metal used as money stamped and issued by the authority of the Government or by the authority of the government of any foreign country in order to be so used.
 
-“Current coin” means coin which is lawfully current in Singapore or in any other part of the Commonwealth or in any foreign country.
+“Current coin” means coin which is legal tender in Singapore or in any foreign country.
 
 Illustrations
 
 (a)
 
-Cowries are not coin.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 (b)
 
-Lump of unstamped copper, though used as money, are not coin.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 (c)
 
-Medals are not coin, inasmuch as they are not intended to be used as money.
+[Deleted by Act 51/2007 wef 01/02/2008]
+
+[51/2007 wef 01/02/2008]
+
+[51/2007 wef 01/02/2008]
 
 ### Counterfeiting coin
 
 231\. Whoever counterfeits or knowingly performs any part of the process of counterfeiting coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
-Explanation—A person commits this offence, who, intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin.
+Explanation1.—A person commits this offence, who, intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin.
 
 ### Counterfeiting current coin
 
-232\. Whoever counterfeits or knowingly performs any part of the process of counterfeiting current coin, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+232\. Whoever counterfeits or knowingly performs any part of the process of counterfeiting current coin, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Making or selling instrument for counterfeiting coin
 
@@ -2926,11 +3256,13 @@ Explanation—A person commits this offence, who, intending to practise deceptio
 
 ### Possession of instrument or material for the purpose of using the same for counterfeiting coin
 
-235\. Whoever is in possession of any instrument or material for the purpose of using the same for counterfeiting coin, or knowing or having reason to believe that the same is intended to be used for that purpose, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the coin to be counterfeited is current coin, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+235\. Whoever is in possession of any instrument or material for the purpose of using the same for counterfeiting coin, or knowing or having reason to believe that the same is intended to be used for that purpose, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the coin to be counterfeited is current coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
-### Abetting in Singapore the counterfeiting out of Singapore of coin
+[51/2007 wef 01/02/2008]
 
-236\. Whoever, being within Singapore, abets the counterfeiting of coin out of Singapore, shall be punished in the same manner as if he abetted the counterfeiting of such coin within Singapore.
+### Abetting in Singapore the counterfeiting out of Singapore of coin or current coin
+
+236\. Whoever, being within Singapore, abets the counterfeiting of coin or current coin out of Singapore, shall be punished in the same manner as if he abetted the counterfeiting of such coin or current coin within Singapore.
 
 ### Import or export of counterfeit coin
 
@@ -2938,7 +3270,9 @@ Explanation—A person commits this offence, who, intending to practise deceptio
 
 ### Import or export of counterfeits of current coin
 
-238\. Whoever imports into Singapore, or exports therefrom, any counterfeit coin which he knows or has reason to believe to be a counterfeit of current coin, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+238\. Whoever imports into Singapore, or exports therefrom, any counterfeit coin which he knows or has reason to believe to be a counterfeit of current coin, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Delivery to another of coin, possessed with the knowledge that it is counterfeit
 
@@ -2946,15 +3280,23 @@ Explanation—A person commits this offence, who, intending to practise deceptio
 
 ### Delivery of current coin, possessed with the knowledge that it is counterfeit
 
-240\. Whoever, having any counterfeit coin which is a counterfeit of current coin, and which at the time when he became possessed of it he knew to be a counterfeit of current coin, fraudulently or with intent that fraud may be committed, delivers the same to any person, or attempts to induce any person to receive it shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+240\. Whoever, having any counterfeit coin which is a counterfeit of current coin, and which at the time when he became possessed of it he knew to be a counterfeit of current coin, fraudulently or with intent that fraud may be committed, delivers the same to any person, or attempts to induce any person to receive it shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be counterfeit
 
 241\. Whoever delivers to any other person as genuine, or attempts to induce any other person to receive as genuine, any counterfeit coin which he knows to be counterfeit, but which he did not know to be counterfeit at the time when he took it into his possession, shall be punished with imprisonment for a term which may extend to 2 years, or with fine to an amount which may extend to 10 times the value of the coin counterfeited, or with both.
 
-Illustration
+Illustrations
 
 A, a coiner, delivers counterfeit Hong Kong dollars to his accomplice B, for the purpose of uttering them. B sells the dollars to C, another utterer, who buys them knowing them to be counterfeit. C pays away the dollars for goods to D, who receives them, not knowing them to be counterfeit. D, after receiving the dollars, discovers that they are counterfeit, and pays them away as if they were good. Here D is punishable only under this section, but B and C are punishable under section 239 or 240 as the case may be.
+
+### Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit
+
+241A\. Whoever delivers to any other person as genuine, or attempts to induce any other person to receive as genuine, any counterfeit coin which is a counterfeit of current coin which he knows to be counterfeit, but which he did not know to be counterfeit at the time when he took it into his possession, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof
 
@@ -2962,23 +3304,17 @@ A, a coiner, delivers counterfeit Hong Kong dollars to his accomplice B, for the
 
 ### Possession of current coin by a person who knew it to be counterfeit when he became possessed thereof
 
-243\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of counterfeit coin, which is a counterfeit of current coin, having known at the time when he became possessed of it that it was a counterfeit, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+243\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of counterfeit coin, which is a counterfeit of current coin, having known at the time when he became possessed of it that it was a counterfeit, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
 
-### Forfeiture of counterfeit coin
-
-243A\.—(1) Any police officer, not below the rank of sergeant, upon being satisfied that any person has in his possession any counterfeit coin or counterfeit current coin or any die, instrument or material for the purpose of counterfeiting any coin or current coin, may without warrant and with or without assistance enter and search any place where any such coin or any such die, instrument or material is kept and seize all such coin, die, instrument or material.
-
-[21/73]
-
-(2) Anything seized under subsection (1) shall, by order of the court before which any person is tried relating to such possession, or where there is no trial, by order of a Magistrate, be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
+243A\. [Deleted by Act 51/2007 wef 01/02/2008]
 
 ### Fraudulently or dishonestly diminishing the weight or altering the composition of any coin
 
-246\. 6Whoever fraudulently or dishonestly performs on any coin any operation which diminishes the weight or alters the composition of that coin shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+246\. 3Whoever fraudulently or dishonestly performs on any coin any operation which diminishes the weight or alters the composition of that coin shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
 
-Explanation—A person who scoops out part of the coin and puts anything else into the cavity, alters the composition of that coin.
+Explanation1.—A person who scoops out part of the coin and puts anything else into the cavity, alters the composition of that coin.
 
-6There are no sections 244 and 245.
+3There are no sections 244 and 245.
 
 ### Fraudulently or dishonestly diminishing the weight or altering the composition of current coin
 
@@ -3002,7 +3338,9 @@ Explanation—A person who scoops out part of the coin and puts anything else in
 
 ### Possession of altered coin by a person who knew it to be altered when he became possessed thereof
 
-252\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of coin with respect to which the offence defined in section 246 or 248 has been committed, having known at the time of becoming possessed thereof that that offence had been committed with respect to such coin, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
+252\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of coin with respect to which the offence defined in section 246 or 248 has been committed, having known at the time of becoming possessed thereof that that offence had been committed with respect to such coin, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Possession of current coin by a person who knew it to be altered when he became possessed thereof
 
@@ -3010,13 +3348,23 @@ Explanation—A person who scoops out part of the coin and puts anything else in
 
 ### Delivery to another of coin as genuine, which, when first possessed, the deliverer did not know to be altered
 
-254\. Whoever delivers to any other person as genuine or as a coin of a different description from what it is, or attempts to induce any person to receive as genuine or as a different coin from what it is, any coin in respect of which he knows that any such operation as that mentioned in section 246, 247, 248 or 249, has been performed, but in respect of which he did not, at the time when he took it into his possession, know that such operation has been performed, shall be punished with imprisonment for a term which may extend to 2 years, or with fine to an amount which may extend to 10 times the value of the coin for which the altered coin is passed or attempted to be passed.
+254\. Whoever delivers to any other person as genuine or as a coin of a different description from what it is, or attempts to induce any person to receive as genuine or as a different coin from what it is, any coin in respect of which he knows that any such operation as that mentioned in section 246 or 248 has been performed, but in respect of which he did not, at the time when he took it into his possession, know that such operation has been performed, shall be punished with imprisonment for a term which may extend to 2 years, or with fine to an amount which may extend to 10 times the value of the coin for which the altered coin is passed or attempted to be passed.
+
+[51/2007 wef 01/02/2008]
+
+### Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered
+
+254A\. Whoever delivers to any other person as genuine or as a coin of a different description from what it is, or attempts to induce any person to receive as genuine or as a different coin from what it is, any coin in respect of which he knows that any such operation as that mentioned in section 247 or 249 has been performed, but in respect of which he did not, at the time when he took it into his possession, know that such operation had been performed, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Counterfeiting a Government stamp
 
-255\. Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+255\. Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
-Explanation—A person who counterfeits by causing a genuine stamp of one denomination to appear like a genuine stamp of a different denomination commits this offence.
+[51/2007 wef 01/02/2008]
+
+Explanation1.—A person who counterfeits by causing a genuine stamp of one denomination to appear like a genuine stamp of a different denomination commits this offence.
 
 ### Having possession of an instrument or material for the purpose of counterfeiting a Government stamp
 
@@ -3072,61 +3420,109 @@ OFFENCES RELATING TO WEIGHTS AND MEASURES
 
 ### Chapter XIV
 
-OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
+offences affecting the public tranquility, public health, safety, convenience, decency and morals
+
+### Affray
+
+267A\. Where 2 or more persons disturb the public peace by fighting in a public place, they are said to “commit an affray”.
+
+[51/2007 wef 01/02/2008]
+
+### Punishment for committing affray
+
+267B\. Whoever commits an affray shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
+
+### Making, printing, etc., document containing incitement to violence, etc.
+
+267C\. Whoever —
+
+(a) makes, prints, possesses, posts, distributes or has under his control any document; or
+
+(b) makes or communicates any electronic record,
+
+containing any incitement to violence or counselling disobedience to the law or to any lawful order of a public servant or likely to lead to any breach of the peace shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Public nuisance
 
 268\. A person is guilty of a public nuisance, who does any act, or is guilty of an illegal omission, which causes any common injury, danger or annoyance to the public, or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right.
 
-Explanation—A common nuisance is not excused on the ground that it causes some convenience or advantage.
+Explanation1.—A common nuisance is not excused on the ground that it causes some convenience or advantage.
 
 ### Negligent act likely to spread infection of any disease dangerous to life
 
-269\. Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+269\. Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Malignant act likely to spread infection of any disease dangerous to life
 
-270\. Whoever malignantly does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+270\. Whoever malignantly does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment for a term which may extend to 4 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Disobedience to a quarantine rule
 
-271\. Whoever knowingly disobeys any rule lawfully made and promulgated for putting any vessel into a state of quarantine, or for regulating the intercourse of vessels in a state of quarantine with the shore or with other vessels, or for regulating the intercourse between places where an infectious disease prevails and other places, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+271\. Whoever knowingly disobeys any rule lawfully made and promulgated for putting any vessel into a state of quarantine, or for regulating the intercourse of vessels in a state of quarantine with the shore or with other vessels, or for regulating the intercourse between places where an infectious disease prevails and other places, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Adulteration of food or drink which is intended for sale
 
-272\. Whoever adulterates any articles of food or drinks, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $500, or with both.
+272\. Whoever adulterates any articles of food or drinks, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Sale of noxious food or drink
 
-273\. Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+273\. Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Adulteration of drugs
 
-274\. Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy, or change the operation, of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+274\. Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy, or change the operation, of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Sale of adulterated drugs
 
-275\. Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000.
+275\. Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000.
+
+[51/2007 wef 01/02/2008]
 
 ### Sale of any drug as a different drug or preparation
 
-276\. Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+276\. Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Fouling the water of a public spring or reservoir
 
-277\. Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $500, or with both.
+277\. Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Making atmosphere noxious to health
 
-278\. Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to $500.
+278\. Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Rash driving or riding on a public way
 
-279\. Whoever drives any vehicle, or rides, on any public way, in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+279\. Whoever drives any vehicle, or rides, on any public way, in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Rash navigation of a vessel
 
-280\. Whoever navigates any vessel in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+280\. Whoever navigates any vessel in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Exhibition of a false light, mark or buoy
 
@@ -3134,39 +3530,57 @@ Explanation—A common nuisance is not excused on the ground that it causes some
 
 ### Conveying person by water for hire in a vessel overloaded or unsafe
 
-282\. Whoever knowingly or negligently conveys, or causes to be conveyed, for hire any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+282\. Whoever knowingly or negligently conveys, or causes to be conveyed, for hire any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Danger or obstruction in a public way or navigation
 
-283\. Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation, shall be punished with fine which may extend to $200 .
+283\. Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation, shall be punished with fine which may extend to $1,000.
+
+[51/2007 wef 01/02/2008]
 
 ### Negligent conduct with respect to any poisonous substance
 
-284\. Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+284\. Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Negligent conduct with respect to any fire or combustible matter
 
-285\. Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+285\. Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Negligent conduct with respect to any explosive substance
 
-286\. Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+286\. Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Negligent conduct with respect to any machinery in the possession or under the charge of the offender
 
-287\. Whoever does, with any machinery, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+287\. Whoever does, with any machinery, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Negligence in pulling down or repairing buildings
 
-288\. Whoever, in pulling down or repairing any building, knowingly or negligently omits to take such order with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+288\. Whoever, in pulling down or repairing any building, knowingly or negligently omits to take such order with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Negligence with respect to any animal
 
-289\. Whoever knowingly or negligently omits to take such order with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000 , or with both.
+289\. Whoever knowingly or negligently omits to take such order with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment for public nuisance
 
-290\. Whoever commits a public nuisance in any case not otherwise punishable by this Code, shall be punished with fine which may extend to $200.
+290\. Whoever commits a public nuisance in any case not otherwise punishable by this Code, shall be punished with fine which may extend to $1,000.
+
+[51/2007 wef 01/02/2008]
 
 ### Continuance of nuisance after injunction to discontinue
 
@@ -3174,13 +3588,19 @@ Explanation—A common nuisance is not excused on the ground that it causes some
 
 ### Sale of obscene books, etc.
 
-292\. Whoever —
+292\.—(1) Whoever —
 
-(a) sells, lets to hire, distributes, publicly exhibits or in any manner puts into circulation, or for purposes of sale, hire, distribution, public exhibition or circulation, makes, produces, or has in his possession any obscene book, pamphlet, paper, drawing, painting, representation or figure, or any other obscene object whatsoever;
+(a) sells, lets to hire, distributes, transmits by electronic means, publicly exhibits or in any manner puts into circulation, or for purposes of sale, hire, distribution, transmission, public exhibition or circulation, makes, produces, or has in his possession any obscene book, pamphlet, paper, drawing, painting, representation or figure, or any other obscene object whatsoever;
 
-(b) imports, exports or conveys any obscene object for any of the purposes aforesaid, or knowing or having reason to believe that such object will be sold, let to hire, distributed or publicly exhibited, or in any manner put into circulation;
+[51/2007 wef 01/02/2008]
 
-(c) takes part in, or receives profits from, any business in the course of which he knows or has reason to believe that any such obscene objects are, for any of the purposes aforesaid, made, produced, purchased, kept, imported, exported, conveyed, publicly exhibited, or in any manner put into circulation;
+(b) imports, exports, transmits by electronic means or conveys any obscene object for any of the purposes aforesaid, or knowing or having reason to believe that such object will be sold, let to hire, distributed or publicly exhibited, or in any manner put into circulation;
+
+[51/2007 wef 01/02/2008]
+
+(c) takes part in, or receives profits from, any business in the course of which he knows or has reason to believe that any such obscene objects are, for any of the purposes aforesaid, made, produced, transmitted by electronic means, purchased, kept, imported, exported, conveyed, publicly exhibited, or in any manner put into circulation;
+
+[51/2007 wef 01/02/2008]
 
 (d) advertises, or makes known by any means whatsoever, that any person is engaged or is ready to engage in any act which is an offence under this section, or that any such obscene object can be procured from or through any person; or
 
@@ -3188,11 +3608,23 @@ Explanation—A common nuisance is not excused on the ground that it causes some
 
 shall be punished with imprisonment for a term which may extend to 3 months, or with fine, or with both.
 
-Exception.—This section does not extend to any book, pamphlet, writing, drawing or painting kept or used bona fide for religious purposes, or any representation sculptured, engraved, painted or otherwise represented on or in any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
+[51/2007 wef 01/02/2008]
+
+(2) For the purposes of this section, “object” includes data stored in a computer disc, or by other electronic means, that is capable of conversion to images, writing or any other form of representation.
+
+[51/2007 wef 01/02/2008]
+
+(3) For the purposes of this section and section 293, an object shall be deemed not to be obscene if the sale, letting to hire, distribution, exhibition, circulation, import, export or conveyance of, or any other dealing in, the object is authorised by or under any written law.
+
+[51/2007 wef 01/02/2008]
+
+Exception1.—This section does not extend to any book, pamphlet, writing, drawing or painting kept or used bona fide for religious purposes, or any representation sculptured, engraved, painted or otherwise represented on or in any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
 
 ### Sale, etc., of obscene objects to young person
 
-293\. Whoever sells, lets to hire, distributes, exhibits or circulates to any person under the age of 20 years any such obscene object as is referred to in section 292, or offers or attempts to do so, shall be punished with imprisonment for a term which may extend to 6 months, or with fine, or with both.
+293\. Whoever sells, lets to hire, distributes, exhibits or circulates to any person under the age of 21 years any such obscene object as is referred to in section 292, or offers or attempts to do so, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Obscene songs
 
@@ -3206,23 +3638,41 @@ shall be punished with imprisonment for a term which may extend to 3 months, or 
 
 ### Chapter XV
 
-OFFENCES RELATING TO RELIGION
+OFFENCES RELATING TO RELIGION OR RACE
 
 ### Injuring or defiling a place of worship with intent to insult the religion of any class
 
-295\. Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons, with the intention of thereby insulting the religion of any class of persons, or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+295\. Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons, with the intention of thereby insulting the religion of any class of persons, or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Disturbing a religious assembly
 
-296\. Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+296\. Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Trespassing on burial places, etc.
 
-297\. Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulture or any place set apart for the performance of funeral rites, or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+297\. Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulture or any place set apart for the performance of funeral rites, or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-### Uttering words, etc., with deliberate intent to wound the religious feelings of any person
+[51/2007 wef 01/02/2008]
 
-298\. Whoever, with deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person, or makes any gesture in the sight of that person, or places any object in the sight of that person, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+### Uttering words, etc., with deliberate intent to wound the religious or racial feelings of any person
+
+298\. Whoever, with deliberate intention of wounding the religious or racial feelings of any person, utters any word or makes any sound in the hearing of that person, or makes any gesture in the sight of that person, or places any object in the sight of that person, or causes any matter however represented to be seen or heard by that person, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+### Promoting enmity between different groups on grounds of religion or race and doing acts prejudicial to maintenance of harmony
+
+298A\. Whoever ––
+
+(a) by words, either spoken or written, or by signs or by visible representations or otherwise, knowingly promotes or attempts to promote, on grounds of religion or race, disharmony or feelings of enmity, hatred or ill-will between different religious or racial groups; or
+
+(b) commits any act which he knows is prejudicial to the maintenance of harmony between different religious or racial groups and which disturbs or is likely to disturb the public tranquility,
+
+shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Chapter XVI
 
@@ -3246,7 +3696,7 @@ AknowsZto be behind a bush.Bdoes not know it.A, intending to cause, or knowing i
 
 (c)
 
-A, by shooting at a fowl with intent to kill and steal it killsB, who is behind a bush,Anot knowing that he was there. Here, althoughAwas doing an unlawful act, he was not guilty of culpable homicide, as he did not intend to killB, or to cause death by doing an act that he knew was likely to cause death.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 Explanation1.—A person who causes bodily injury to another who is labouring under a disorder, disease or bodily infirmity, and thereby accelerates the death of that other, shall be deemed to have caused his death.
 
@@ -3278,7 +3728,9 @@ A, knowing thatZis labouring under such a disease that a blow is likely to cause
 
 (c)
 
-Aintentionally givesZa sword-cut or club-wound sufficient to cause the death of a man in the ordinary course of nature.Zdies in consequence. HereAis guilty of murder, although he may not have intended to causeZ’s death.
+Aintentionally givesZa knife-cut or club-wound sufficient to cause the death of a man in the ordinary course of nature.Zdies in consequence. HereAis guilty of murder, although he may not have intended to causeZ’s death.
+
+[51/2007 wef 01/02/2008]
 
 (d)
 
@@ -3302,7 +3754,7 @@ that the provocation is not given by anything done in obedience to the law, or b
 
 that the provocation is not given by anything done in the lawful exercise of the right of private defence.
 
-Explanation—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.
+Explanation1.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.
 
 Illustrations
 
@@ -3316,7 +3768,9 @@ Ygives grave and sudden provocation toA.A, on this provocation, fires a pistol a
 
 (c)
 
-Ais lawfully arrested byZ, a bailiff.Ais excited to sudden and violent passion by the arrest, and killsZ. This is murder, inasmuch as the provocation was given by a thing done by a public servant in the exercise of his powers.
+Ais lawfully arrested byZ, a police officer.Ais excited to sudden and violent passion by the arrest, and killsZ. This is murder, inasmuch as the provocation was given by a thing done by a public servant in the exercise of his powers.
+
+[51/2007 wef 01/02/2008]
 
 (d)
 
@@ -3332,19 +3786,15 @@ ZstrikesB.Bis by this provocation excited to violent rage.A, a bystander, intend
 
 Exception2.—Culpable homicide is not murder if the offender, in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.
 
-Illustration
-
-Z attempts to horse-whip A, not in such a manner as to cause grievous hurt to A. A draws out a pistol. Z persists in the assault. A, believing in good faith that he can by no other means prevent himself from being horse-whipped, shoots Z dead. A has not committed murder, but only culpable homicide.
-
 Exception3.—Culpable homicide is not murder if the offender, being a public servant, or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant, and without ill-will towards the person whose death is caused.
 
 Exception4.—Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel, and without the offender having taken undue advantage or acted in a cruel or unusual manner.
 
-Explanation—It is immaterial in such cases which party offers the provocation or commits the first assault.
+Explanation1.—It is immaterial in such cases which party offers the provocation or commits the first assault.
 
 Exception5.—Culpable homicide is not murder when the person whose death is caused, being above the age of 18 years, suffers death or takes the risk of death with his own consent.
 
-Illustration
+Illustrations
 
 A, by instigation, voluntarily causes Z, a person under 18 years of age, to commit suicide. Here, on account of Z’s youth, he was incapable of giving consent to his own death. A has therefore abetted murder.
 
@@ -3362,19 +3812,33 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 ### Punishment for culpable homicide not amounting to murder
 
-304\. 7Whoever commits culpable homicide not amounting to murder shall be punished —
+4304\. Whoever commits culpable homicide not amounting to murder shall be punished —
 
-(a) with imprisonment for life, or imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning, if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or
+(a) with imprisonment for life, or imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning, if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or
 
-(b) with imprisonment for a term which may extend to 10 years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.
+[51/2007 wef 01/02/2008]
+
+(b) with imprisonment for a term which may extend to 10 years, or with fine, or with caning, or with any combination of such punishments, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
-7There is no section 303
+4There is no section 303
 
 ### Causing death by rash or negligent act
 
-304A\. Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both
+304A\. Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished —
+
+(a) in the case of a rash act, with imprisonment for a term which may extend to 5 years, or with fine, or with both; or
+
+[51/2007 wef 01/02/2008]
+
+(b) in the case of a negligent act, with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
+
+[51/2007 wef 01/02/2008]
 
 ### Abetment of suicide of child or insane person
 
@@ -3386,7 +3850,9 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 ### Attempt to murder
 
-307\.—(1) Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of murder, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned and shall also be liable to caning.
+307\.—(1) Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of murder, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to imprisonment for a term which may extend to 20 years, and shall also be liable to caning or fine or both.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -3394,9 +3860,11 @@ Illustrations
 
 Ashoots atZwith intention to kill him, under such circumstances that, if death ensued,Awould be guilty of murder.Ais liable to punishment under this section.
 
-(b)
+(c)
 
-A, with the intention of causing the death of a child of tender years, exposes it in a desert place.Ahas committed the offence defined by this section, though the death of the child does not ensue.
+A, with intention of causing the death of a child of tender years, throws the child into a river.Ahas committed the offence defined by this section, although the death of the child does not ensue.
+
+[51/2007 wef 01/02/2008]
 
 (c)
 
@@ -3414,9 +3882,11 @@ A, intending to murderZby poison, purchases poison and mixes the same with food 
 
 ### Attempt to commit culpable homicide
 
-308\. Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; and if hurt is caused to any person by such act, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+308\. Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both; and if hurt is caused to any person by such act, shall be punished with imprisonment for a term which may extend to 15 years, or with fine, or with caning, or with any combination of such punishments.
 
-Illustration
+[51/2007 wef 01/02/2008]
+
+Illustrations
 
 A, on grave and sudden provocation, fires a pistol at Z, under such circumstances that if he thereby caused death he would be guilty of culpable homicide not amounting to murder. A has committed the offence defined in this section.
 
@@ -3438,7 +3908,7 @@ Causing miscarriage; injuries to unborn children; exposure of infants; and conce
 
 312\. Subject to the provisions of the Termination of Pregnancy Act [Cap. 324], whoever voluntarily causes a woman with child to miscarry, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; and if the woman is quick with child, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
-Explanation—A woman who causes herself to miscarry is within the meaning of this section.
+Explanation1.—A woman who causes herself to miscarry is within the meaning of this section.
 
 [32/80]
 
@@ -3450,13 +3920,15 @@ Explanation—A woman who causes herself to miscarry is within the meaning of th
 
 314\. Subject to the provisions of the Termination of Pregnancy Act [Cap. 324], whoever with intent to cause the miscarriage of a woman with child does any act which causes the death of such woman, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the act is done without the consent of the woman, shall be punished either with imprisonment for life, or with the punishment above-mentioned.
 
-Explanation—It is not essential to this offence that the offender should know that the act is likely to cause death.
+Explanation1.—It is not essential to this offence that the offender should know that the act is likely to cause death.
 
 [32/80]
 
 ### Child destruction before, at or immediately after birth
 
-315\.—(1) Subject to the provisions of the Termination of Pregnancy Act, whoever, with intent to destroy the life of a child capable of being born alive, by any wilful act causes a child to die before it has an existence independent of its mother or by such act causes the child to die after its birth, shall, unless such act is immediately necessary to save the life of the mother, be punished with imprisonment for a term not exceeding 10 years or to a fine not exceeding $5,000 or to both.
+315\.—(1) Subject to the provisions of the Termination of Pregnancy Act, whoever, with intent to destroy the life of a child capable of being born alive, by any wilful act causes a child to die before it has an existence independent of its mother or by such act causes the child to die after its birth, shall, unless such act is immediately necessary to save the life of the mother, be punished with imprisonment for a term not exceeding 10 years or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 [32/80]
 
@@ -3466,7 +3938,7 @@ Explanation—It is not essential to this offence that the offender should know 
 
 316\. Whoever does any act under such circumstances that if he thereby caused death he would be guilty of culpable homicide, and does by such act cause the death of a quick unborn child, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
-Illustration
+Illustrations
 
 A, knowing that he is likely to cause the death of a pregnant woman, does an act which, if it caused the death of the woman, would amount to culpable homicide. The woman is injured, but does not die; but the death of an unborn quick child with which she is pregnant is thereby caused.Ais guilty of the offence defined in this section.
 
@@ -3474,7 +3946,7 @@ A, knowing that he is likely to cause the death of a pregnant woman, does an act
 
 317\. Whoever, being the father or mother of a child under the age of 12 years, or having the care of such child, exposes or leaves such child in any place with the intention of wholly abandoning such child, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
 
-Explanation—This section is not intended to prevent the trial of the offender for murder or culpable homicide as the case may be, if the child dies in consequence of the exposure.
+Explanation1.—This section is not intended to prevent the trial of the offender for murder or culpable homicide as the case may be, if the child dies in consequence of the exposure.
 
 ### Concealment of birth by secret disposal of dead body
 
@@ -3486,11 +3958,19 @@ Hurt
 
 319\. Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.
 
+Explanation.––A person is said to cause hurt if he causes another person to be unconscious.
+
+[51/2007 wef 01/02/2008]
+
 ### Grievous hurt
 
 320\. The following kinds of hurt only are designated as “grievous”:
 
 (a) emasculation;
+
+(aa) death;
+
+[51/2007 wef 01/02/2008]
 
 (b) permanent privation of the sight of either eye;
 
@@ -3504,7 +3984,13 @@ Hurt
 
 (g) fracture or dislocation of a bone;
 
-(h) any hurt which endangers life, or which causes the sufferer to be, during the space of 20 days, in severe bodily pain, or unable to follow his ordinary pursuits.
+(h) any hurt which endangers life, or which causes the sufferer to be, during the space of 20 days, in severe bodily pain, or unable to follow his ordinary pursuits;
+
+[51/2007 wef 01/02/2008]
+
+(i) penetration of the vagina or anus, as the case may be, of a person without that person’s consent, which causes severe bodily pain.
+
+[51/2007 wef 01/02/2008]
 
 ### Voluntarily causing hurt
 
@@ -3514,31 +4000,39 @@ Hurt
 
 322\. Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, is said “voluntarily to cause grievous hurt”.
 
-Explanation—A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt if, intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind.
+Explanation1.—A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt if, intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind.
 
-Illustration
+Illustrations
 
 A, intending or knowing himself to be likely permanently to disfigure Z’s face, gives Z a blow which does not permanently disfigure Z’s face but which causes Z to suffer severe bodily pain for the space of 20 days. A has voluntarily caused grievous hurt.
 
 ### Punishment for voluntarily causing hurt
 
-323\. Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $1,000, or with both.
+323\. Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment for a term which may extend to 2 years, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Voluntarily causing hurt by dangerous weapons or means
 
-324\. Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any two of such punishments.
+324\. Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
 ### Punishment for voluntarily causing grievous hurt
 
-325\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine or to caning.
+325\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
 ### Voluntarily causing grievous hurt by dangerous weapons or means
 
-326\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+326\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 ### Voluntarily causing hurt to extort property or to constrain to an illegal act
 
@@ -3546,7 +4040,9 @@ A, intending or knowing himself to be likely permanently to disfigure Z’s face
 
 ### Causing hurt by means of poison, etc., with intent to commit an offence
 
-328\. Whoever administers to, or causes to be taken by, any person any poison or any stupefying, intoxicating or unwholesome drug or other thing, with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence, or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine .
+328\. Whoever administers to, or causes to be taken by, any person any poison or any stupefying, intoxicating or unwholesome drug or other thing, with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence, or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 ### Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act
 
@@ -3554,7 +4050,9 @@ A, intending or knowing himself to be likely permanently to disfigure Z’s face
 
 ### Voluntarily causing hurt to extort confession or to compel restoration of property
 
-330\. Whoever voluntarily causes hurt for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the sufferer, or any person interested in the sufferer, to restore or to cause the restoration of any property or valuable security, or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine .
+330\. Whoever voluntarily causes hurt for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the sufferer, or any person interested in the sufferer, to restore or to cause the restoration of any property or valuable security, or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -3578,37 +4076,75 @@ A,a customs officer, torturesZin order to compel him to confess to a pretended o
 
 ### Voluntarily causing hurt to deter public servant from his duty
 
-332\. Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any two of such punishments .
+332\. Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
 ### Voluntarily causing grievous hurt to deter public servant from his duty
 
-333\. Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+333\. Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
 ### Voluntarily causing hurt on provocation
 
-334\. Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500, or with both.
+334\. Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Causing grievous hurt on provocation
 
-335\. Whoever voluntarily causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation, shall be punished with imprisonment for a term which may extend to 4 years, or with fine which may extend to $2,000, or with both.
+335\. Whoever voluntarily causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation, shall be punished with imprisonment for a term which may extend to 6 years, or with fine which may extend to $10,000, or with both.
 
-Explanation—Sections 334 and 335 are subject to the same provisos as exception 1 of section 300.
+[51/2007 wef 01/02/2008]
+
+Explanation1.—Sections 334 and 335 are subject to the same provisos as exception 1 of section 300.
 
 ### Punishment for act which endangers life or the personal safety of others
 
-336\. Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $250, or with both.
+336\. Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished —
+
+(a) in the case of a rash act, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both; or
+
+[51/2007 wef 01/02/2008]
+
+(b) in the case of a negligent act, with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
+
+[51/2007 wef 01/02/2008]
+
+[51/2007 wef 01/02/2008]
 
 ### Causing hurt by an act which endangers life or the personal safety of others
 
-337\. Whoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $500, or with both.
+337\. Whoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished —
+
+(a) in the case of a rash act, with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both; or
+
+[51/2007 wef 01/02/2008]
+
+(b) in the case of a negligent act, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007 wef 01/02/2008]
+
+[51/2007 wef 01/02/2008]
 
 ### Causing grievous hurt by an act which endangers life or the personal safety of others
 
-338\. Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment for a term which may extend to 2 years, or with fine which may extend to $1,000, or with both.
+338\. Whoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished —
+
+(a) in the case of a rash act, with imprisonment for a term which may extend to 4 years, or with fine which may extend to $10,000, or with both; or
+
+[51/2007 wef 01/02/2008]
+
+(b) in the case of a negligent act, with imprisonment for a term which may extend to 2 years, or with fine which may extend to $5,000, or with both.
+
+[51/2007 wef 01/02/2008]
+
+[51/2007 wef 01/02/2008]
 
 Wrongful restraint and wrongful confinement
 
@@ -3616,9 +4152,9 @@ Wrongful restraint and wrongful confinement
 
 339\. Whoever voluntarily obstructs any person, so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person.
 
-Exception.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section.
+Exception1.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section.
 
-Illustration
+Illustrations
 
 Aobstructs a path along whichZhas a right to pass,Anot believing in good faith that he has a right to stop the path.Zis thereby prevented from passing.Awrongfully restrainsZ.
 
@@ -3638,11 +4174,15 @@ Aplaces men with firearms at the outlets of a building and tellsZthat they will 
 
 ### Punishment for wrongful restraint
 
-341\. Whoever wrongfully restrains any person shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $500, or with both.
+341\. Whoever wrongfully restrains any person shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment for wrongful confinement
 
-342\. Whoever wrongfully confines any person shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $1,000, or with both.
+342\. Whoever wrongfully confines any person shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Wrongful confinement for 3 or more days
 
@@ -3694,11 +4234,15 @@ Zis sitting in a moored boat on a river.Aunfastens the moorings, and thus intent
 
 (b)
 
-Zis riding in a chariot.AlashesZ’s horses, and thereby causes them to quicken their pace. HereAhas caused change of motion toZby inducing the animals to change their motion.Ahas therefore used force toZ; and ifAhas done this withoutZ’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoyZ,Ahas committed criminal force toZ.
+Zis riding a horse.AlashesZ’s horse, and thereby causes it to quicken its pace. HereAhas caused change of motion toZby inducing the horse to change its motion.Ahas therefore used force toZ; and ifAhas done this withoutZ’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoyZ,Ahas used criminal force toZ.
+
+[51/2007 wef 01/02/2008]
 
 (c)
 
-Zis riding in a carriage.A, intending to robZ, seizes the horse and stops the carriage. HereAhas caused cessation of motion toZ, and he has done this by his own bodily power.Ahas therefore used force toZ; and asAhas acted thus intentionally withoutZ’s consent, in order to cause the commission of an offence,Ahas used criminal force toZ.
+Zis riding a horse.A, intending to cause hurt toZ, seizes the horse and stops it. HereAhas caused cessation of motion toZ, and he has done this by his own bodily power.Ahas therefore used force toZ;and asAhas acted thus intentionally withoutZ’s consent, in order to cause the commission of an offence,Ahas used criminal force toZ.
+
+[51/2007 wef 01/02/2008]
 
 (d)
 
@@ -3722,13 +4266,13 @@ Aincites a dog to spring uponZ, withoutZ’s consent. Here, ifAintends to cause 
 
 (i)
 
-A, a schoolmaster, in the reasonable exercise of his discretion as master, flogsZ, one of his scholars.Adoes not use criminal force toZbecause, althoughAintends to cause fear and annoyance, he does not use force illegally.
+[Deleted by Act 51/2008 wef 01/02/2008]
 
 ### Assault
 
 351\. Whoever makes any gesture or any preparation, intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault.
 
-Explanation—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparations such a meaning as may make those gestures or preparations amount to an assault.
+Explanation1.—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparations such a meaning as may make those gestures or preparations amount to an assault.
 
 Illustrations
 
@@ -3746,9 +4290,11 @@ Atakes up a stick, saying toZ, “I will give you a beating”. Here, though the
 
 ### Punishment for using criminal force otherwise than on grave and sudden provocation
 
-352\. Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $500, or with both.
+352\. Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
 
-Explanation—Grave and sudden provocation will not mitigate the punishment for an offence under this section, if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or
+[51/2007 wef 01/02/2008]
+
+Explanation1.—Grave and sudden provocation will not mitigate the punishment for an offence under this section, if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or
 
 Explanation—if the provocation is given by anything done in obedience to the law or by a public servant in the lawful exercise of the powers of such public servant; or
 
@@ -3758,11 +4304,17 @@ Explanation—Whether the provocation was grave and sudden enough to mitigate th
 
 ### Using criminal force to deter a public servant from discharge of his duty
 
-353\. Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+353\. Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 4 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Assault or use of criminal force to a person with intent to outrage modesty
 
-354\. Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any two of such punishments.
+354\.—(1) Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
+
+(2) Whoever commits an offence under subsection (1) against any person under 14 years of age shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any combination of such punishments.
+
+[51/2007 wef 01/02/2008]
 
 ### Outraging modesty in certain circumstances
 
@@ -3790,13 +4342,17 @@ shall be punished with imprisonment for a term of not less than 3 years and not 
 
 ### Assault or criminal force in attempting wrongfully to confine a person
 
-357\. Whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $1,000, or with both.
+357\. Whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Assaulting or using criminal force on grave and sudden provocation
 
-358\. Whoever assaults or uses criminal force to any person on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $200, or with both.
+358\. Whoever assaults or uses criminal force to any person on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both.
 
-Explanation—This section is subject to the same explanation as section 352.
+[51/2007 wef 01/02/2008]
+
+Explanation1.—This section is subject to the same explanation as section 352.
 
 Kidnapping, abduction, slavery and forced labour
 
@@ -3812,9 +4368,9 @@ Kidnapping, abduction, slavery and forced labour
 
 361\. Whoever takes or entices any minor under 14 years of age if a male, or under 16 years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship.
 
-Explanation—The words “lawful guardian” in this section include any person lawfully entrusted with the care or custody of such minor or other person.
+Explanation1.—The words “lawful guardian” in this section include any person lawfully entrusted with the care or custody of such minor or other person.
 
-Exception.—This section does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.
+Exception1.—This section does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.
 
 ### Abduction
 
@@ -3823,6 +4379,12 @@ Exception.—This section does not extend to the act of any person who in good f
 ### Punishment for kidnapping
 
 363\. Whoever kidnaps any person from Singapore or from lawful guardianship, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+### Punishment for abduction
+
+363A\. Whoever abducts any person shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
+
+[51/2007 wef 01/02/2008]
 
 ### Kidnapping or abducting in order to murder
 
@@ -3838,6 +4400,22 @@ A kidnaps Z from Singapore, intending or knowing it to be likely that Z may be s
 
 A forcibly carries or entices B away from his home in order that B may be murdered. A has committed the offence defined in this section.
 
+### Kidnapping or abducting in order to compel the Government, etc.
+
+364A\. Whoever —
+
+(a) kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction; and
+
+(b) threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes hurt or death to such person,
+
+in order to compel —
+
+(i) the Government to do or abstain from doing any act, shall be punished with death or imprisonment for life, and shall, if he is not sentenced to death, also be liable to fine or to caning; or
+
+(ii) any other person to do or abstain from doing any act shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
+
 ### Kidnapping or abducting with intent secretly and wrongfully to confine a person
 
 365\. Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
@@ -3848,7 +4426,9 @@ A forcibly carries or entices B away from his home in order that B may be murder
 
 ### Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.
 
-367\. Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+367\. Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt or slavery, or to non-consensual penile penetration of the anus, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 ### Wrongfully concealing or keeping in confinement a kidnapped person
 
@@ -3870,13 +4450,13 @@ A forcibly carries or entices B away from his home in order that B may be murder
 
 372\. Whoever sells, lets to hire, or otherwise disposes of any person under the age of 21 years with intent that such person shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such person will at any age be employed or used for any such purpose, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
-Explanation—When a female under the age of 21 years is sold, let for hire, or otherwise disposed of to a prostitute or to any person who keeps or manages a brothel, the person so disposing of such female shall, until the contrary is proved, be presumed to have disposed of her with the intent that she shall be used for the purpose of prostitution.
+Explanation1.—When a female under the age of 21 years is sold, let for hire, or otherwise disposed of to a prostitute or to any person who keeps or manages a brothel, the person so disposing of such female shall, until the contrary is proved, be presumed to have disposed of her with the intent that she shall be used for the purpose of prostitution.
 
 ### Buying minor for purposes of prostitution, etc.
 
 373\. Whoever buys, hires or otherwise obtains possession of any person under the age of 21 years with intent that such person shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, or knowing it to be likely that such person will at any age be employed or used for any such purpose, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
-Explanation—Any prostitute, or any person keeping or managing a brothel, who buys, hires or otherwise obtains possession of a female under the age of 21 years shall, until the contrary is proved, be presumed to have obtained possession of such female with the intent that she shall be used for the purpose of prostitution.
+Explanation1.—Any prostitute, or any person keeping or managing a brothel, who buys, hires or otherwise obtains possession of a female under the age of 21 years shall, until the contrary is proved, be presumed to have obtained possession of such female with the intent that she shall be used for the purpose of prostitution.
 
 ### Importing by fraud with intent
 
@@ -3884,15 +4464,15 @@ Explanation—Any prostitute, or any person keeping or managing a brothel, who b
 
 (a) by any false pretence, false representation, or fraudulent or deceitful means, brings, or assists in bringing, into Singapore any woman with intent that such woman may be employed or used for the purpose of prostitution;
 
-Importing with intent to sell, etc, 
+Importing with intent to sell, etc,
 
-brings, or assists in bringing, into Singapore any woman with intent that such woman may be sold or bought for the purpose of prostitution; or
+(b) brings, or assists in bringing, into Singapore any woman with intent that such woman may be sold or bought for the purpose of prostitution; or
 
-or buying or selling 
+or buying or selling
 
-sells or buys any woman for the purpose of prostitution,
+(c) sells or buys any woman for the purpose of prostitution,
 
-Penalty 
+Penalty.
 
 shall be punished with imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
 
@@ -3900,73 +4480,343 @@ shall be punished with imprisonment for a term not exceeding 10 years, and shall
 
 374\. Whoever unlawfully compels any person to labour against the will of that person, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-Rape
+Sexual offences
 
 ### Rape
 
-375\. A man is said to commit “rape” who, except in the case hereinafter excepted, has sexual intercourse with a woman under circumstances falling under any of the 5 following descriptions:
+375\.—(1) Any man who penetrates the vagina of a woman with his penis —
 
-(a) against her will;
+(a) without her consent; or
 
-(b) without her consent;
+(b) with or without her consent, when she is under 14 years of age,
 
-(c) with her consent, when her consent has been obtained by putting her in fear of death or hurt;
+shall be guilty of an offence.
 
-(d) with her consent, when the man knows that he is not her husband, and her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married or to whom she would consent;
+(2) Subject to subsection (3), a man who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
-(e) with or without her consent, when she is under 14 years of age.
+(3) Whoever —
 
-Explanation—Penetration is sufficient to constitute the sexual intercourse necessary to the offence of rape.
+(a) in order to commit or to facilitate the commission of an offence under subsection (1) ––
 
-Exception.—Sexual intercourse by a man with his own wife, the wife not being under 13 years of age, is not rape.
+(i) voluntarily causes hurt to the woman or to any other person; or
 
-### Punishment for rape
+(ii) puts her in fear of death or hurt to herself or any other person; or
 
-376\.—(1) Subject to subsection (2), whoever commits rape shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+(b) commits an offence under subsection (1) with a woman under 14 years of age without her consent,
 
-[23/84]
+shall be punished with imprisonment for a term of not less than 8 years and not more than 20 years and shall also be punished with caning with not less than 12 strokes.
 
-(2) Whoever, in order to commit or to facilitate the commission of an offence of rape against any woman —
+(4) No man shall be guilty of an offence under subsection (1) against his wife, who is not under 13 years of age, except where at the time of the offence —
 
-(a) voluntarily causes hurt to her or to any other person; or
+(a) his wife was living apart from him ––
 
-(b) puts her in fear of death or hurt to herself or any other person,
+(i) under an interim judgment of divorce not made final or a decree nisi for divorce not made absolute;
 
-and whoever commits rape by having sexual intercourse with a woman under 14 years of age without her consent, shall be punished with imprisonment for a term of not less than 8 years and not more than 20 years and shall also be punished with caning with not less than 12 strokes.
+(ii) under an interim judgment of nullity not made final or a decree nisi for nullity not made absolute;
+
+(iii) under a judgment or decree of judicial separation; or
+
+(iv) under a written separation agreement;
+
+(b) his wife was living apart from him and proceedings have been commenced for divorce, nullity or judicial separation, and such proceedings have not been terminated or concluded;
+
+(c) there was in force a court injunction to the effect of restraining him from having sexual intercourse with his wife;
+
+(d) there was in force a protection order under section 65 or an expedited order under section 66 of the Women’s Charter (Cap. 353) made against him for the benefit of his wife; or
+
+(e) his wife was living apart from him and proceedings have been commenced for the protection order or expedited order referred to in paragraph (d), and such proceedings have not been terminated or concluded.
+
+(5) Notwithstanding subsection (4), no man shall be guilty of an offence under subsection (1)(b) for an act of penetration against his wife with her consent.
+
+[51/2007 wef 01/02/2008]
+
+### Sexual assault by penetration
+
+376\.—(1) Any man (A) who —
+
+(a) penetrates, with A’s penis, the anus or mouth of another person (B); or
+
+(b) causes another man (B) to penetrate, with B’s penis, the anus or mouth of A,
+
+shall be guilty of an offence if B did not consent to the penetration.
+
+(2) Any person (A) who —
+
+(a) sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of another person (B);
+
+(b) causes a man (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person (C); or
+
+(c) causes another person (B), to sexually penetrate, with a part of B’s body (other than B’s penis) or anything else, the vagina or anus, as the case may be, of any person including A or B,
+
+shall be guilty of an offence if B did not consent to the penetration.
+
+(3) Subject to subsection (4), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+(4) Whoever —
+
+(a) in order to commit or to facilitate the commission of an offence under subsection (1) or (2) ––
+
+(i) voluntarily causes hurt to any person; or
+
+(ii) puts any person in fear of death or hurt to himself or any other person; or
+
+(b) commits an offence under subsection (1) or (2) against a person (B) who is under 14 years of age,
+
+shall be punished with imprisonment for a term of not less than 8 years and not more than 20 years and shall also be punished with caning with not less than 12 strokes.
+
+[51/2007 wef 01/02/2008]
+
+### Sexual penetration of minor under 16
+
+376A\.—(1) Any person (A) who —
+
+(a) penetrates, with A’s penis, the vagina, anus or mouth, as the case may be, of a person under 16 years of age (B);
+
+(b) sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of a person under 16 years of age (B);
+
+(c) causes a man under 16 years of age (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person including A; or
+
+(d) causes a person under 16 years of age (B) to sexually penetrate, with a part of B’s body (other than B’s penis) or anything else, the vagina or anus, as the case may be, of any person including A or B,
+
+with or without B’s consent, shall be guilty of an offence.
+
+(2) Subject to subsection (3), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+(3) Whoever commits an offence under this section against a person (B) who is under 14 years of age shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+(4) No person shall be guilty of an offence under this section for an act of penetration against his or her spouse with the consent of that spouse.
+
+(5) No man shall be guilty of an offence under subsection (1)(a) for penetrating with his penis the vagina of his wife without her consent, if his wife is not under 13 years of age, except where at the time of the offence —
+
+(a) his wife was living apart from him ––
+
+(i) under an interim judgment of divorce not made final or a decree nisi for divorce not made absolute;
+
+(ii) under an interim judgment of nullity not made final or a decree nisi for nullity not made absolute;
+
+(iii) under a judgment or decree of judicial separation; or
+
+(iv) under a written separation agreement;
+
+(b) his wife was living apart from him and proceedings have been commenced for divorce, nullity or judicial separation, and such proceedings have not been terminated or concluded;
+
+(c) there was in force a court injunction to the effect of restraining him from having sexual intercourse with his wife;
+
+(d) there was in force a protection order under section 65 or an expedited order under section 66 of the Women’s Charter (Cap. 353) made against him for the benefit of his wife; or
+
+(e) his wife was living apart from him and proceedings have been commenced for the protection order or expedited order referred to in paragraph (d), and such proceedings have not been terminated or concluded.
+
+[51/2007 wef 01/02/2008]
+
+### Commercial sex with minor under 18
+
+376B\.—(1) Any person who obtains for consideration the sexual services of a person, who is under 18 years of age, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+(2) Any person who communicates with another person for the purpose of obtaining for consideration, the sexual services of a person who is under 18 years of age, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(3) No person shall be guilty of an offence under this section for any sexual services obtained from that person’s spouse.
+
+(4) In this section, “sexual services” means any sexual services involving —
+
+(a) sexual penetration of the vagina or anus, as the case may be, of a person by a part of another person’s body (other than the penis) or by anything else; or
+
+(b) penetration of the vagina, anus or mouth, as the case may be, of a person by a man’s penis.
+
+[51/2007 wef 01/02/2008]
+
+### Commercial sex with minor under 18 outside Singapore
+
+376C\.—(1) Any person, being a citizen or a permanent resident of Singapore, who does, outside Singapore, any act that would, if done in Singapore, constitute an offence under section 376B, shall be guilty of an offence.
+
+(2) A person who is guilty of an offence under this section shall be liable to the same punishment to which he would have been liable had he been convicted of an offence under section 376B.
+
+[51/2007 wef 01/02/2008]
+
+### Tour outside Singapore for commercial sex with minor under 18
+
+376D\.—(1) Any person who —
+
+(a) makes or organises any travel arrangements for or on behalf of any other person with the intention of facilitating the commission by that other person of an offence under section 376C, whether or not such an offence is actually committed by that other person;
+
+(b) transports any other person to a place outside Singapore with the intention of facilitating the commission by that other person of an offence under section 376C, whether or not such an offence is actually committed by that other person; or
+
+(c) prints, publishes or distributes any information that is intended to promote conduct that would constitute an offence under section 376C, or to assist any other person to engage in such conduct,
+
+shall be guilty of an offence.
+
+(2) For the purposes of subsection (1)(c), the publication of information means publication of information by any means, whether by written, electronic, or other form of communication.
+
+(3) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
+
+### Sexual grooming of minor under 16
+
+376E\.—(1) Any person of or above the age of 21 years (A) shall be guilty of an offence if having met or communicated with another person (B) on 2 or more previous occasions ––
+
+(a) A intentionally meets B or travels with the intention of meeting B; and
+
+(b) at the time of the acts referred to in paragraph (a) ––
+
+(i) A intends to do anything to or in respect of B, during or after the meeting, which if done will involve the commission by A of a relevant offence;
+
+(ii) B is under 16 years of age; and
+
+(iii) A does not reasonably believe that B is of or above the age of 16 years.
+
+(2) In subsection (1), “relevant offence” means an offence under ––
+
+(a) section 354, 354A, 375, 376, 376A, 376B, 376F, 376G or 377A;
+
+(b) section 7 of the Children and Young Persons Act (Cap. 38); or
+
+(c) section 140(1) of the Women’s Charter (Cap. 353).
+
+(3) For the purposes of this section, it is immaterial whether the 2 or more previous occasions of A having met or communicated with B referred to in subsection (1) took place in or outside Singapore.
+
+(4) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
+
+### Procurement of sexual activity with person with mental disability
+
+376F\.—(1) Any person (A) shall be guilty of an offence if —
+
+(a) A intentionally touches another person (B) who has a mental disability;
+
+(b) the touching is sexual and B consents to the touching;
+
+(c) A obtains B’s consent by means of an inducement offered or given, a threat made or a deception practised by A for that purpose; and
+
+(d) A knows or could reasonably be expected to know that B has a mental disability.
+
+(2) Subject to subsection (3), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(3) If the touching involved —
+
+(a) penetration of the vagina or anus, as the case may be, with a part of the body or anything else; or
+
+(b) penetration of the mouth with the penis,
+
+a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+(4) No person shall be guilty of an offence under this section for any act with that person’s spouse.
+
+(5) For the purposes of this section —
+
+“mental disability” means an impairment of or a disturbance in the functioning of the mind or brain resulting from any disability or disorder of the mind or brain which impairs the ability to make a proper judgement in the giving of consent to sexual touching;
+
+“touching” includes touching —
+
+(a) with any part of the body;
+
+(b) with anything else; or
+
+(c) through anything,
+
+and includes penetration.
+
+[51/2007 wef 01/02/2008]
 
 ### Incest
 
-376A\. 
+376G\.—(1) Any man of or above the age of 16 years (A) who —
 
-(a) Any man who has carnal knowledge of a woman with or without her consent who is to his knowledge his grand-daughter, daughter, sister, half-sister or mother (whether such relationship is or is not traced through lawful wedlock); or
+(a) sexually penetrates the vagina or anus of a woman (B) with a part of A’s body (other than A’s penis) or anything else; or
 
-(b) any woman of or above the age of 16 who with consent permits her grandfather, father, brother, half-brother or son (whether such relationship is or is not traced through lawful wedlock) to have carnal knowledge of her (knowing him to be her grandfather, father, brother, half-brother or son, as the case may be),
+(b) penetrates the vagina, anus or mouth of a woman (B) with his penis,
 
-is said to commit “incest”.
+with or without B’s consent where B is to A’s knowledge A’s grand-daughter, daughter, sister, half-sister, mother or grandmother (whether such relationship is or is not traced through lawful wedlock), shall be guilty of an offence.
 
-### Punishment for incest committed by men
+(2) Any woman of or above the age of 16 years who, with consent, permits her grandfather, father, brother, half-brother, son or grandson (whether such relationship is or is not traced through lawful wedlock) to penetrate her in the manner described in subsection (1)(a) or (b), knowing him to be her grandfather, father, brother, half-brother, son or grandson, as the case may be, shall be guilty of an offence.
 
-376B\. A man who commits incest shall be punished with imprisonment for a term which may extend to 5 years and if the woman is found to be under the age of 14 the offender shall be punished with imprisonment for a term which may extend to 14 years.
+(3) Subject to subsection (4), a man who is guilty of an offence under subsection (1) shall be punished with imprisonment for a term which may extend to 5 years.
 
-### Punishment for incest committed by women
+(4) If a man commits an offence under subsection (1) against a woman under 14 years of age, he shall be punished with imprisonment for a term which may extend to 14 years.
 
-376C\. A woman who commits incest shall be punished with imprisonment which may extend to 5 years.
+(5) A woman who is guilty of an offence under subsection (2) shall be punished with imprisonment for a term which may extend to 5 years.
 
-### Sanction
-
-376D\. No prosecution for an offence under sections 376B and 376C shall be commenced without the sanction of the Attorney-General or the Solicitor-General.
+[51/2007 wef 01/02/2008]
 
 Unnatural offences
 
-### Unnatural offences
+### Sexual penetration of a corpse
 
-377\. Whoever voluntarily has carnal intercourse against the order of nature with any man, woman or animals, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+377\.—(1) Any man who penetrates, with his penis, the vagina, anus or mouth, as the case may be, of a human corpse, shall be guilty of an offence.
 
-Explanation—Penetration is sufficient to constitute the carnal intercourse necessary to the offence described in this section.
+(2) A man who is guilty of an offence under subsection (1) shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+(3) Any person (A) who causes any man (B) to penetrate with B’s penis, the vagina, anus or mouth, as the case may be, of a human corpse, shall be guilty of an offence if B did not consent to the penetration.
+
+(4) A person who is guilty of an offence under subsection (3) shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 ### Outrages on decency
 
 377A\. Any male person who, in public or private, commits, or abets the commission of, or procures or attempts to procure the commission by any male person of, any act of gross indecency with another male person, shall be punished with imprisonment for a term which may extend to 2 years.
+
+### Sexual penetration with living animal
+
+377B\.—(1) Any person (A) who —
+
+(a) penetrates, with A’s penis, the vagina, anus or any orifice of an animal; or
+
+(b) causes or permits A’s vagina, anus or mouth, as the case may be, to be penetrated by the penis of an animal,
+
+shall be guilty of an offence.
+
+(2) A person who is guilty of an offence under subsection (1) shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(3) Any person (A) who —
+
+(a) causes any man (B) to penetrate, with B’s penis, the vagina, anus or any orifice of an animal; or
+
+(b) causes the vagina, anus or mouth, as the case may be, of another person (B) to be penetrated with the penis of an animal,
+
+shall be guilty of an offence if B did not consent to the penetration.
+
+(4) A person who is guilty of an offence under subsection (3) shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
+
+### Interpretation of sections 375 to 377B (sexual offences)
+
+377C\. In sections 375 to 377B ––
+
+(a) penetration is a continuing act from entry to withdrawal;
+
+(b) references to a part of the body include references to a part which is surgically constructed (in particular, through a sex reassignment procedure);
+
+(c) for the purposes of identifying the sex of a person —
+
+(i) the sex of a person as stated in that person’s identity card issued under the National Registration Act (Cap. 201) at the time the sexual activity took place shall be prima facie evidence of the sex of that person; and
+
+(ii) a person who has undergone a sex reassignment procedure shall be identified as being of the sex to which that person has been reassigned;
+
+(d) penetration, touching or other activity is “sexual” if —
+
+(i) because of its nature it is sexual, whatever its circumstances or any person’s purpose in relation to it may be; or
+
+(ii) because of its nature it may be sexual and because of its circumstances or the purpose of any person in relation to it (or both) it is sexual;
+
+(e) “vagina” includes vulva.
+
+[51/2007 wef 01/02/2008]
+
+### Mistake as to age
+
+377D\.—(1) Subject to subsections (2) and (3) and notwithstanding anything in section 79, a reasonable mistake as to the age of a person shall not be a defence to any charge of an offence under section 376A(2), 376B or 376C.
+
+(2) In the case of a person who at the time of the alleged offence was under 21 years of age, the presence of a reasonable mistaken belief that the minor, who is of the opposite sex, was of or above —
+
+(a) the age of 16 years, shall be a valid defence to a charge of an offence under section 376A(2); or
+
+(b) the age of 18 years, shall be a valid defence to a charge of an offence under section 376B or 376C.
+
+(3) For the purposes of subsection (2), the defence under that subsection shall no longer be available if at the time of the offence, the person charged with that offence has previously been charged in court for an offence under section 376A, 376B, 376C or 376E, or section 7 of the Children and Young Persons Act (Cap. 38) or section 140(1)(i) of the Women’s Charter (Cap. 353).
+
+[51/2007 wef 01/02/2008]
 
 ### Chapter XVII
 
@@ -4000,7 +4850,7 @@ Aputs a bait for dogs in his pocket, and thus inducesZ’s dog to follow it. Her
 
 (c)
 
-Ameets a bullock carrying a box of treasure. He drives the bullock in a certain direction, in order that he may dishonestly take the treasure. As soon as the bullock begins to move,Ahas committed theft of the treasure.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 (d)
 
@@ -4060,17 +4910,23 @@ Ain good faith, believing property belonging toZto beA’s own property, takes t
 
 ### Punishment for theft of a motor vehicle
 
-379A\.—(1) Whoever commits theft of a motor vehicle or any component part of a motor vehicle shall be punished with imprisonment for a term of not less than one year and not more than 7 years and shall also be liable to fine.
+379A\.—(1) Whoever commits theft of a motor vehicle or any component part of a motor vehicle shall be punished with imprisonment for a term which may extend to 7 years and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 [23/84]
 
-(2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than 3 years from the date of his release from imprisonment from holding or obtaining a driving licence under the Road Traffic Act [Cap. 276].
+(2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise, be disqualified for such period as the court may order from the date of his release from imprisonment from holding or obtaining a driving licence under the Road Traffic Act [Cap. 276].
+
+[51/2007 wef 01/02/2008]
 
 (3) In this section —
 
 “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads, and includes a trailer drawn by a motor vehicle;
 
-“component part”, in relation to a motor vehicle, includes any tyre, accessory or equipment.
+“component part”, in relation to a motor vehicle, means any component part attached to the motor vehicle, and includes any tyre, accessory or equipment attached to the motor vehicle.
+
+[51/2007 wef 01/02/2008]
 
 ### Theft in dwelling-house, etc.
 
@@ -4100,7 +4956,9 @@ Extortion
 
 ### Extortion
 
-383\. Whoever intentionally puts any person in fear of any injury to that person or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security, or anything signed or sealed which may be converted into a valuable security, commits “extortion”.
+383\. Whoever intentionally puts any person in fear of any harm to that person or to any other person, in body, mind, reputation or property, whether such harm is to be caused legally or illegally, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security, or anything signed or sealed which may be converted into a valuable security, commits “extortion”.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -4114,7 +4972,9 @@ AthreatensZthat he will keepZ’s child in wrongful confinement, unlessZwill sig
 
 (c)
 
-Athreatens to send men to plough upZ’s field, unlessZwill sign and deliver toBa bond, bindingZunder a penalty to deliver certain produce toB, and thereby inducesZto sign and deliver the bond.Ahas committed extortion.
+A, an enforcement officer, seesZcommitting an offence, and threatens to report the offence unlessZgives him money.Zfears that the report may result in his being prosecuted for the offence and delivers money toA.Ahas committed extortion.
+
+[51/2007 wef 01/02/2008]
 
 (d)
 
@@ -4126,13 +4986,11 @@ A, by puttingZin fear of grievous hurt, dishonestly inducesZto sign or affix his
 
 [23/84]
 
-### Putting person in fear of injury in order to commit extortion
+### Putting person in fear of harm in order to commit extortion
 
-385\. Whoever, in order to commit extortion, puts any person in fear, or attempts to put any person in fear of any injury, shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and with caning.
+385\. Whoever, in order to commit extortion, puts or attempts to put any person in fear of any harm to that person or to any other person, in body, mind, reputation or property, whether such harm is to be caused legally or illegally, shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years, and with caning.
 
-[62/73]
-
-[23/84]
+[51/2007 wef 01/02/2008]
 
 ### Extortion by putting a person in fear of death or grievous hurt
 
@@ -4148,11 +5006,15 @@ A, by puttingZin fear of grievous hurt, dishonestly inducesZto sign or affix his
 
 ### Extortion by threat of accusation of an offence punishable with death, or imprisonment, etc.
 
-388\. Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed, or attempted to commit, any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to 10 years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning; and if the offence is one punishable under section 377, may be punished with imprisonment for life.
+388\. Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed, or attempted to commit, any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to 10 years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 ### Putting person in fear of accusation of offence, in order to commit extortion
 
-389\. Whoever, in order to commit extortion, puts or attempts to put any person in fear of an accusation against that person or any other, of having committed, or attempted to commit, an offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to 10 years, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning; and if the offence is punishable under section 377, may be punished with imprisonment for life.
+389\. Whoever, in order to commit extortion, puts or attempts to put any person in fear of an accusation against that person or any other, of having committed, or attempted to commit, an offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to 10 years, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+[51/2007 wef 01/02/2008]
 
 Robbery and gang-robbery
 
@@ -4232,7 +5094,9 @@ Aobtains property fromZby saying, “Your child is in the hands of my gang, and 
 
 ### Robbery when armed or with attempt to cause death or grievous hurt
 
-397\. If at the time of committing or attempting to commit robbery, the offender is armed with or uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, such offender shall be punished with caning with not less than 12 strokes, in addition to any other punishment to which he may be liable under any other section of this Code.
+397\. If at the time of committing or attempting to commit robbery, the offender is armed with or uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, such offender, and any other person jointly concerned in committing or attempting to commit such robbery, shall be punished with caning with not less than 12 strokes, in addition to any other punishment to which he may be liable under any other section of this Code.
+
+[51/2007 wef 01/02/2008]
 
 [62/73]
 
@@ -4240,13 +5104,13 @@ Aobtains property fromZby saying, “Your child is in the hands of my gang, and 
 
 ### Making preparation to commit gang-robbery
 
-399\. 8Whoever makes any preparation for committing gang-robbery, shall be punished with imprisonment for a term of not less than 3 years and not more than 10 years and shall also be punished with caning with not less than 12 strokes.
+399\. 5Whoever makes any preparation for committing gang-robbery, shall be punished with imprisonment for a term of not less than 3 years and not more than 10 years and shall also be punished with caning with not less than 12 strokes.
 
 [62/73]
 
 [23/84]
 
-8There is no section 398.
+5There is no section 398.
 
 ### Punishment for belonging to gang-robbers
 
@@ -4328,7 +5192,7 @@ Afinds a valuable ring, not knowing to whom it belongs.Asells it immediately wit
 
 404\. Whoever dishonestly misappropriates or converts to his own use property, knowing that such property was in the possession of a deceased person at the time of that person’s decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offender at the time of such person’s decease was employed by him as a clerk or servant, the imprisonment may extend to 7 years.
 
-Illustration
+Illustrations
 
 Z dies in possession of furniture and money. His servant A, before the money comes into the possession of any person entitled to such possession, dishonestly misappropriates it. A has committed the offence defined in this section.
 
@@ -4354,7 +5218,7 @@ A, residing in Singapore, is agent forZ, residing in Penang. There is an express
 
 (d)
 
-But ifA, in the last illustration, not dishonestly, but in good faith, believing that it will be more forZ’s advantage to hold shares in the Oriental Bank , disobeysZ’s directions, and buys shares in the Oriental Bank forZ, instead of buying Government securities, here, thoughZshould suffer loss and should be entitled to bring a civil action againstAon account of that loss, yetA, not having acted dishonestly, has not committed criminal breach of trust.
+But ifA, in the last illustration, not dishonestly, but in good faith, believing that it will be more forZ’s advantage to hold shares in the Bank X, disobeysZ’s directions, and buys shares in the Bank X forZ, instead of buying Government securities, here, thoughZshould suffer loss and should be entitled to bring a civil action againstAon account of that loss, yetA, not having acted dishonestly, has not committed criminal breach of trust.
 
 (e)
 
@@ -4366,19 +5230,27 @@ A, a carrier, is entrusted byZwith property to be carried by land or by water.Ad
 
 ### Punishment of criminal breach of trust
 
-406\. Whoever commits criminal breach of trust shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+406\. Whoever commits criminal breach of trust shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Criminal breach of trust by carrier, etc.
 
-407\. Whoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+407\. Whoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Criminal breach of trust by clerk or servant
 
-408\. Whoever, being a clerk or servant, or employed as a clerk or servant, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+408\. Whoever, being a clerk or servant, or employed as a clerk or servant, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Criminal breach of trust by public servant, or by banker, merchant, or agent
 
-409\. Whoever, being in any manner entrusted with property, or with any dominion over property, in his capacity of a public servant, or in the way of his business as a banker, merchant, factor, broker, attorney or agent, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+409\. Whoever, being in any manner entrusted with property, or with any dominion over property, in his capacity of a public servant, or in the way of his business as a banker, merchant, factor, broker, attorney or agent, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 Receiving stolen property
 
@@ -4390,11 +5262,15 @@ Receiving stolen property
 
 ### Dishonestly receiving stolen property
 
-411\. Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both; and if the stolen property is a motor vehicle or any component part of a motor vehicle as defined in section 379A shall be punished with imprisonment for a term of not less than 6 months and not more than 5 years and shall also be liable to fine.
+411\.—(1) Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the property to be stolen property, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
 
-[62/73]
+(2) If the stolen property is a motor vehicle or any component part of a motor vehicle as defined in section 379A(3), a person convicted of an offence under this section —
 
-[23/84]
+(a) shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine; and
+
+(b) may be disqualified for such period as the court may order from the date of his release from imprisonment from holding or obtaining a driving licence under the Road Traffic Act (Cap. 276).
+
+[51/2007 wef 01/02/2008]
 
 ### Dishonestly receiving property stolen in the commission of a gang-robbery
 
@@ -4402,23 +5278,37 @@ Receiving stolen property
 
 ### Habitually dealing in stolen property
 
-413\. Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+413\. Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
-### Assisting in concealment of stolen property
+[51/2007 wef 01/02/2008]
 
-414\. Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; and if the stolen property is a motor vehicle or any component part of a motor vehicle as defined in section 379A shall be punished with imprisonment for a term of not less than 6 months and not more than 5 years and shall also be liable to fine.
+### Assisting in concealment or disposal of stolen property
 
-[23/84]
+414\.—(1) Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+(2) If the stolen property is a motor vehicle or any component part of a motor vehicle as defined in section 379A(3), a person convicted of an offence under this section —
+
+(a) shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine; and
+
+(b) may be disqualified for such period as the court may order from the date of his release from imprisonment from holding or obtaining a driving licence under the Road Traffic Act (Cap. 276).
+
+[51/2007 wef 01/02/2008]
 
 Cheating
 
 ### Cheating
 
-415\. Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to “cheat”.
+415\. Whoever, by deceiving any person, whether or not such deception was the sole or main inducement, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit to do if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to any person in body, mind, reputation or property, is said to “cheat”.
+
+[51/2007 wef 01/02/2008]
 
 Explanation1.—A dishonest concealment of facts is a deception within the meaning of this section.
 
 Explanation2.—Mere breach of contract is not of itself proof of an original fraudulent intent.
+
+Explanation3.—Whoever makes a representation through any agent is to be treated as having made the representation himself.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -4466,7 +5356,7 @@ A, playing with false dice, or marked cards, wins money fromB.Acheats.
 
 416\. A person is said to “cheat by personation”, if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he or such other person really is.
 
-Explanation—The offence is committed whether the individual personated is a real or imaginary person.
+Explanation1.—The offence is committed whether the individual personated is a real or imaginary person.
 
 Illustrations
 
@@ -4480,37 +5370,53 @@ Acheats by pretending to beB, a person who is deceased.Acheats by personation.
 
 ### Punishment for cheating
 
-417\. Whoever cheats shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+417\. Whoever cheats shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Cheating with knowledge that wrongful loss may be thereby caused to a person whose interest the offender is bound to protect
 
-418\. Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law or by a legal contract, to protect, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+418\. Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law or by a legal contract, to protect, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment for cheating by personation
 
-419\. Whoever cheats by personation shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+419\. Whoever cheats by personation shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Cheating and dishonestly inducing a delivery of property
 
-420\. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+420\. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 Fraudulent deeds and dispositions of property
 
 ### Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors
 
-421\. Whoever dishonestly or fraudulently removes, conceals, or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment for a term which may extend to 2 years or with fine, or with both.
+421\. Whoever dishonestly or fraudulently removes, conceals, or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment for a term which may extend to 3 years or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Dishonestly or fraudulently preventing a debt or demand due to the offender from being made available for his creditors
 
-422\. Whoever dishonestly or fraudulently prevents any debt or demand due to himself or to any other person from being made available according to law for payment of his debts or the debts of such other person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+422\. Whoever dishonestly or fraudulently prevents any debt or demand due to himself or to any other person from being made available according to law for payment of his debts or the debts of such other person, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Dishonest or fraudulent execution of deed of transfer containing a false statement of consideration
 
-423\. Whoever dishonestly or fraudulently signs, executes, or becomes a party to any deed or instrument which purports to transfer or subject to any charge any property, or any interest therein, and which contains any false statement relating to the consideration for such transfer or charge, or relating to the person or persons for whose use or benefit it is really intended to operate, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+423\. Whoever dishonestly or fraudulently signs, executes, or becomes a party to any deed or instrument which purports to transfer or subject to any charge any property, or any interest therein, and which contains any false statement relating to the consideration for such transfer or charge, or relating to the person or persons for whose use or benefit it is really intended to operate, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Dishonest or fraudulent removal or concealment of property or release of claim
 
-424\. Whoever dishonestly or fraudulently conceals or removes any property of himself or any other person, or dishonestly or fraudulently assists in the concealment or removal thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+424\. Whoever dishonestly or fraudulently conceals or removes any property of himself or any other person, or dishonestly or fraudulently assists in the concealment or removal thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 Mischief
 
@@ -4530,7 +5436,7 @@ Avoluntarily burns a valuable security belonging toZ, intending to cause wrongfu
 
 (b)
 
-Aintroduces water into an ice-house belonging toZ, and thus causes the ice to melt, intending wrongful loss toZ.Ahas committed mischief.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 (c)
 
@@ -4554,27 +5460,31 @@ A, having joint property withZin a horse, shoots the horse, intending thereby to
 
 (h)
 
-Acauses cattle to enter upon a field belonging toZ, intending to cause, and knowing that he is likely to cause, damage toZ’s crop. A has committed mischief.
+[Deleted by Act 51/2007 wef 01/02/2008]
 
 ### Punishment for committing mischief
 
-426\. Whoever commits mischief shall be punished with imprisonment for a term which may extend to 3 months, or with fine, or with both.
+426\. Whoever commits mischief shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-### Committing mischief and thereby causing damage to the amount of $25
+[51/2007 wef 01/02/2008]
 
-427\. Whoever commits mischief and thereby causes loss or damage to the amount of $25 or upwards, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+### Committing mischief and thereby causing damage to the amount of $500
 
-### Mischief by killing or maiming any animal of the value of $5
+427\. Whoever commits mischief and thereby causes loss or damage to the amount of $500 or upwards, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-428\. Whoever commits mischief by killing, poisoning, maiming or rendering useless, any animal or animals of the value of $5 or upwards, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+### Mischief by killing or maiming any animal
 
-### Mischief by killing or maiming cattle, etc., or any animal of the value of $25
+428\. Whoever commits mischief by killing, poisoning, maiming or rendering useless, any animal shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
 
-429\. Whoever commits mischief by killing, poisoning, maiming or rendering useless, an elephant, camel, horse, mule, buffalo, bull, cow or ox, whatever may be the value thereof, or any other animal of the value of $25 or upwards, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+[51/2007 wef 01/02/2008]
+
+429\. [Deleted by Act 51/2007 wef 01/02/2008]
 
 ### Mischief by injury to works of irrigation or by wrongfully diverting water
 
-430\. Whoever commits mischief by doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural purposes, or for food or drink for human beings or for animals which are property, or for cleanliness, or for carrying on any manufacture, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+430\. Whoever commits mischief by doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural or industrial purposes, or for food or drink for human beings or for animals which are property, or for cleanliness, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Mischief affecting railway engine, train, etc.
 
@@ -4588,7 +5498,7 @@ Acauses cattle to enter upon a field belonging toZ, intending to cause, and know
 
 431A\. Whoever commits mischief by cutting or injuring any electric telegraph cable, wire, line, post, instrument or apparatus for signalling, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Explanation—The injuring here must be of such a nature as to prevent the use of the electric telegraph cable, wire or line, for telegraphing, otherwise the offence will be punishable under section 426.
+Explanation1.—The injuring here must be of such a nature as to prevent the use of the electric telegraph cable, wire or line, for telegraphing, otherwise the offence will be punishable under section 426.
 
 ### Mischief by causing inundation or obstruction to public drainage, attended with damage
 
@@ -4602,9 +5512,9 @@ Explanation—The injuring here must be of such a nature as to prevent the use o
 
 434\. Whoever commits mischief by destroying or moving any landmark fixed by the authority of a public servant, or by any act which renders such landmark less useful as such, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-### Mischief by fire or explosive substance with intent to cause damage to amount of $50.
+### Mischief by fire or explosive substance with intent to cause damage
 
-435\. Whoever commits mischief by fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, damage to any property to the amount of $50 or upwards, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+435\. Whoever commits mischief by fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, damage to any property, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
 ### Mischief by fire or explosive substance with intent to destroy a house, etc.
 
@@ -4636,7 +5546,7 @@ Criminal trespass
 
 442\. Whoever commits criminal trespass by entering into, or remaining in, any building, tent or vessel used as a human dwelling, or any building used as a place for worship or as a place for the custody of property, is said to commit “house-trespass”.
 
-Explanation—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass.
+Explanation1.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass.
 
 ### Lurking house-trespass
 
@@ -4662,7 +5572,7 @@ Explanation—The introduction of any part of the criminal trespasser’s body i
 
 (f) if he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass.
 
-Explanation—Any outhouse or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section.
+Explanation1.—Any outhouse or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section.
 
 Illustrations
 
@@ -4704,11 +5614,15 @@ Z, the door-keeper ofY, is standing inY’s doorway.Acommits house-trespass by e
 
 ### Punishment for criminal trespass
 
-447\. Whoever commits criminal trespass shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $500, or with both.
+447\. Whoever commits criminal trespass shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment for house-trespass
 
-448\. Whoever commits house-trespass shall be punished with imprisonment for a term which may extend to one year or with fine which may extend to $1,000, or with both.
+448\. Whoever commits house-trespass shall be punished with imprisonment for a term which may extend to one year or with fine which may extend to $3,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### House-trespass in order to commit an offence punishable with death
 
@@ -4732,7 +5646,9 @@ Z, the door-keeper ofY, is standing inY’s doorway.Acommits house-trespass by e
 
 ### Lurking house-trespass or house-breaking in order to commit an offence punishable with imprisonment
 
-454\. Whoever commits lurking house-trespass or house-breaking in order to commit any offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offence intended to be committed is theft, the imprisonment shall be for a term of not less than 18 months and not more than 10 years.
+454\. Whoever commits lurking house-trespass or house-breaking in order to commit any offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offence intended to be committed is theft, shall be punished with imprisonment for a term which may extend to 10 years.
+
+[51/2007 wef 01/02/2008]
 
 [23/84]
 
@@ -4786,35 +5702,49 @@ Z, the door-keeper ofY, is standing inY’s doorway.Acommits house-trespass by e
 
 ### Chapter XVIII
 
-OFFENCES RELATING TO DOCUMENTS AND TO CURRENCY NOTES AND BANK NOTES
+OFFENCES RELATIING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES
 
 ### Forgery
 
-463\. Whoever makes any false document or part of a document with intent to cause damage or injury to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.
+463\. Whoever makes any false document or electronic record or part of a document or an electronic record with intent to cause damage or injury to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.
 
-### Making a false document
+[51/2007 wef 01/02/2008]
 
-464\. A person is said to make a false document —
+### Making a false document or false electronic record
 
-(a) who dishonestly or fraudulently makes, signs, seals or executes a document or part of a document, or makes any mark denoting the execution of a document, with the intention of causing it to be believed that such document or part of a document was made, signed, sealed or executed by or by the authority of a person by whom or by whose authority he knows that it was not made, signed, sealed or executed, or at a time at which he knows that it was not made, signed, sealed or executed;
+464\.—(1) A person is said to make a false document or false electronic record ––
 
-(b) who without lawful authority, dishonestly or fraudulently, by cancellation or otherwise, alters a document in any material part thereof, after it has been made or executed either by himself or by any other person, whether that person is living or dead at the time of the alteration; or
+(a) who dishonestly or fraudulently ––
 
-(c) who dishonestly or fraudulently causes any person to sign, seal, execute or alter a document, knowing that such person by reason of unsoundness of mind or intoxication cannot, or that by reason of deception practised upon him he does not, know the contents of the document or the nature of the alteration.
+(i) makes, signs, seals or executes a document or part of a document;
+
+(ii) makes any electronic record or part of any electronic record;
+
+(iii) affixes any electronic signature on any electronic record; or
+
+(iv) makes any mark denoting the execution of a document or the authenticity of the electronic signature,
+
+with the intention of causing it to be believed that such document or electronic record or part of a document or electronic record or electronic signature was made, signed, sealed, executed or affixed by or by the authority of a person by whom or by whose authority he knows that it was not made, signed, sealed, executed or affixed, or at a time at which he knows that it was not made, signed, sealed, executed or affixed;
+
+(b) who without lawful authority, dishonestly or fraudulently, by cancellation or otherwise, alters a document or an electronic record in any material part thereof, after it has been made, executed or affixed with an electronic signature, either by himself or by any other person, whether that person is living or dead at the time of the alteration; or
+
+(c) who dishonestly or fraudulently causes any person to sign, seal, execute or alter a document or an electronic record or to affix his electronic signature on an electronic record, knowing that such person by reason of unsoundness of mind or intoxication cannot, or that by reason of deception practised upon him he does not, know the contents of the document or electronic record or the nature of the alteration.
+
+(2) In this section, “electronic signature” has the same meaning as in the Electronic Transactions Act (Cap. 88).
 
 Illustrations
 
 (a)
 
-Ahas letter of credit uponBfor $1,000 written byZ.A, in order to defraudB, adds a cypher to the 1,000, and makes the sum $10,000, intending that it may be believed byBthatZso wrote the letter.Ahas committed forgery.
+Ahas a letter of credit uponBfor $1,000 written byZ.A, in order to defraudB, adds a cypher to the 1,000, and makes the sum $10,000, intending that it may be believed byBthatZso wrote the letter.Ahas committed forgery.
 
 (b)
 
-A, withoutZ’s authority, affixesZ’s seal to a document, purporting to be a conveyance of an estate fromZtoA, with the intention of selling the estate toB, and thereby of obtaining fromBthe purchase money. A has committed forgery.
+A, withoutZ’s authority, affixesZ’s seal to a document, purporting to be a conveyance of an estate fromZtoA, with the intention of selling the estate toB, and thereby of obtaining fromBthe purchase money.Ahas committed forgery.
 
 (c)
 
-Apicks up a cheque on a banker signed byB, payable to bearer, but without any sum having been inserted in the cheque.Afraudulently fills up the cheque by inserting the sum of $1,000. A commits forgery.
+Apicks up a cheque on a banker signed byB, payable to bearer, but without any sum having been inserted in the cheque.Afraudulently fills up the cheque by inserting the sum of $1,000.Acommits forgery.
 
 (d)
 
@@ -4834,7 +5764,7 @@ Aendorses a promissory note and makes it payable toZ, or his order, by writing o
 
 (h)
 
-Asells and conveys an estate toZ.Aafterwards, in order to defraudZof his estate, executes a conveyance of the same estate toB, dated 6 months earlier than the date of the conveyance toZ, intending it to be believed that he had conveyed the estate to B before he conveyed it toZ.Ahas committed forgery.
+Asells and conveys an estate toZ.Aafterwards, in order to defraudZof his estate, executes a conveyance of the same estate toB, dated 6 months earlier than the date of the conveyance toZ, intending it to be believed that he had conveyed the estate toBbefore he conveyed it toZ.Ahas committed forgery.
 
 (i)
 
@@ -4848,7 +5778,7 @@ Awrites a letter and signs it withB’s name withoutB’s authority, certifying 
 
 AwithoutB’s authority writes a letter and signs it inB’s name, certifying toA’s character, intending thereby to obtain employment underZ.Ahas committed forgery, inasmuch as he intended to deceiveZby the forged certificate, and thereby to induceZto enter into an express or implied contract for service.
 
-Explanation1—.— A man’s signature of his own name may amount to forgery.
+Explanation1.—A man’s signature of his own name may amount to forgery.
 
 Illustrations
 
@@ -4874,65 +5804,137 @@ A, a trader, in anticipation of insolvency, lodges effects withBforA’s benefit
 
 Explanation2.—The making of a false document in the name of a fictitious person, intending it to be believed that the document was made by a real person, or in the name of a deceased person, intending it to be believed that the document was made by the person in his lifetime, may amount to forgery.
 
-Illustration
+Illustrations
 
-Adraws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in the name of such fictitious person with intent to negotiate it.Acommits forgery.
+A draws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in the name of such fictitious person with intent to negotiate it. A commits forgery.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment for forgery
 
-465\. Whoever commits forgery shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+465\. Whoever commits forgery shall be punished with imprisonment for a term which may extend to 4 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Forgery of a record of a court of justice, or a public register of births, etc.
 
-466\. Whoever forges a document , purporting to be a record or proceeding of or before a court of justice, or a register of birth, baptism, marriage or burial, or a register kept by a public servant as such, or a certificate or document , purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+466\. Whoever forges a document or an electronic record, purporting to be a record or proceeding of or before a court of justice, or a register of birth, baptism, marriage or burial, or a register kept by a public servant as such, or a certificate or document or electronic record, purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Forgery of a valuable security or will
 
-467\. Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a son, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest, or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt, acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+467\. Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a child, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest, or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt, acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Forgery for the purpose of cheating
 
-468\. Whoever commits forgery, intending that the document forged shall be used for the purpose of cheating, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+468\. Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Forgery for the purpose of harming the reputation of any person
 
-469\. Whoever commits forgery, intending that the document forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+469\. Whoever commits forgery, intending that the document or electronic record forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
 
-### “A forged document”
+[51/2007 wef 01/02/2008]
 
-470\. A false document, made wholly or in part by forgery, is designated “a forged document”.
+### “A forged document or forged electronic record”
 
-### Using as genuine a forged document
+470\. A false document or false electronic record, made wholly or in part by forgery, is designated “a forged document” or “a forged electronic record”, respectively.
 
-471\. Whoever fraudulently or dishonestly uses as genuine any document which he knows or has reason to believe to be a forged document, shall be punished in the same manner as if he had forged such document .
+[51/2007 wef 01/02/2008]
+
+### Using as genuine a forged document or forged electronic record
+
+471\. Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or forged electronic record, shall be punished in the same manner as if he had forged such document or electronic record.
 
 ### Making or possessing a counterfeit seal, plate, etc., with intent to commit a forgery punishable under section 467
 
-472\. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 467, or with such intent has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+472\. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 467, or with such intent has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Making or possessing a counterfeit seal, plate, etc., with intent to commit a forgery punishable otherwise
 
-473\. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under any section of this Chapter other than section 467, or with such intent has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+473\. Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under any section of this Chapter other than section 467, or with such intent has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
-### Having possession of a valuable security or will known to be forged, with intent to use it as genuine
+[51/2007 wef 01/02/2008]
 
-474\. Whoever has in his possession any document , knowing the same to be forged, and intending that the same shall fraudulently or dishonestly be used as genuine, shall, if the document is one of the descriptions mentioned in section 466, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the document is one of the descriptions mentioned in section 467, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+### Making or possessing equipment for making a false instrument
+
+473A\. Whoever makes or has in his custody or under his control a machine or implement, or paper or other material, which to his knowledge is or has been specifically designed or adapted for the making of any false instrument shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
+
+### Making or possessing equipment for making a false instrument with intent to induce prejudice
+
+473B\. Any person (A) who ––
+
+(a) makes or has in his custody or under his control a machine or implement, or paper or other material, which is or has been specifically designed or adapted for the making of any instrument; and
+
+(b) intends that ––
+
+(i) he or another person makes a false instrument using the machine or implement, or paper or other material in order to induce another person (B) to accept it as genuine; and
+
+(ii) by reason of so accepting it, B does or does not do some act to B’s or any other person’s prejudice,
+
+shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
+
+### Meaning of “prejudice” and “induce”
+
+473C\.—(1) For the purposes of section 473B and subject to subsections (2) and (4), an act or omission intended to be induced is to a person’s prejudice if, and only if, it is one which, if it occurs, will —
+
+(a) result in his permanent or temporary loss of property;
+
+(b) result in his being deprived of an opportunity to earn remuneration or greater remuneration;
+
+(c) result in his being deprived of an opportunity to gain a financial advantage otherwise than by way of remuneration;
+
+(d) result in somebody being given an opportunity to earn remuneration or greater remuneration from him;
+
+(e) result in somebody being given an opportunity to gain a financial advantage from him otherwise than by way of remuneration; or
+
+(f) be the result of his having accepted a false instrument as genuine in connection with his performance of any duty.
+
+(2) For the purpose of this section, an act which a person has an enforceable duty to do and an omission to do an act which a person is not entitled to do shall be disregarded.
+
+(3) The reference in section 473B to inducing a person (B) to accept a false instrument as genuine includes a reference to inducing a machine to respond to an instrument as if it were a genuine instrument.
+
+(4) Where subsection (3) applies, the act or omission intended to be induced by the machine responding to the instrument shall be treated as an act or omission to a person’s prejudice.
+
+(5) In subsection (1)(a), “loss” includes a loss by not getting what one might get, as well as a loss by parting with what one has.
+
+[51/2007 wef 01/02/2008]
+
+### Having possession of certain document or electronic record known to be forged, with intent to use it as genuine
+
+474\. Whoever has in his possession any document or electronic record, knowing the same to be forged, and intending that the same shall fraudulently or dishonestly be used as genuine, shall, if the document or electronic record is one of the descriptions mentioned in section 466, be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the document is one of the descriptions mentioned in section 467, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
 
 ### Counterfeiting a device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material
 
-475\. Whoever counterfeits upon or in the substance of any material any device or mark used for the purpose of authenticating any document described in section 467, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who with such intent has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+475\. Whoever counterfeits upon or in the substance of any material any device or mark used for the purpose of authenticating any document described in section 467, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who with such intent has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
 
-### Counterfeiting a device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material
+[51/2007 wef 01/02/2008]
 
-476\. Whoever counterfeits upon or in the substance of any material any device or mark used for the purpose of authenticating any document other than the documents described in section 467, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who with such intent has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+### Counterfeiting a device or mark used for authenticating documents or electronic records other than those described in section 467, or possessing counterfeit marked material
+
+476\. Whoever counterfeits upon or in the substance of any material any device or mark used for the purpose of authenticating any document or electronic record other than the documents described in section 467, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document or electronic record then forged or thereafter to be forged on such material, or who with such intent has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
 ### Fraudulent cancellation, destruction, etc., of a will
 
-477\. Whoever fraudulently or dishonestly, or with intent to cause damage or injury to the public or to any person, cancels, destroys, or defaces, or attempts to cancel, destroy, or deface, or secretes, or attempts to secrete any document which is or purports to be a will, or an authority to adopt a son, or any valuable security, or commits mischief in respect to such document, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+477\. Whoever fraudulently or dishonestly, or with intent to cause damage or injury to the public or to any person, cancels, destroys, or defaces, or attempts to cancel, destroy, or deface, or secretes, or attempts to secrete any document which is or purports to be a will, or an authority to adopt a child, or any valuable security, or commits mischief in respect to such document, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Falsification of accounts
 
-477A\. Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully and with intent to defraud destroys, alters, mutilates or falsifies any book, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully and with intent to defraud makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in any such book, paper, writing, valuable security or account, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+477A\. Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully and with intent to defraud destroys, conceals, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully and with intent to defraud makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in any such book, electronic record, paper, writing, valuable security or account, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 Explanation1.—It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded, or specifying any particular sum of money intended to be the subject of the fraud or any particular day on which the offence was committed.
 
@@ -4940,39 +5942,43 @@ Currency notes and bank notes
 
 ### Forging or counterfeiting currency notes or bank notes
 
-489A\.9—(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment for life or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+489A\.6—(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 Explanation1.—For the purposes of this section and of sections 489B, 489C and 489D, the “bank note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power and intended to be used as equivalent to, or as a substitute for, money.
 
-(2) For the purposes of this section and of sections 489B, 489C, 489D and 489E, “currency note” includes any note (by whatever name called) which is legal tender in the country in which it is issued.
+(2) For the purposes of this section and of sections 489B, 489C and 489D, “currency note” includes any note (by whatever name called) which is legal tender in the country in which it is issued.
 
-9There are no sections 478 to 479.
+[51/2007 wef 01/02/2008]
+
+6There are no sections 478 to 479.
 
 ### Using as genuine forged or counterfeit currency notes or bank notes
 
-489B\. Whoever sells to, or buys or receives from, any other person, or otherwise traffics in or uses as genuine, any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+489B\. Whoever sells to, or buys or receives from, any other person, or otherwise traffics in or uses as genuine, any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+
+[51/2007 wef 01/02/2008]
 
 ### Possession of forged or counterfeit currency notes or bank notes
 
-489C\. Whoever has in his possession any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment for a term which may extend to 10 years.
+489C\. Whoever has in his possession any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment for a term which may extend to 15 years.
+
+[51/2007 wef 01/02/2008]
 
 ### Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes
 
-489D\. Whoever makes or performs any part of the process of making, or buys or sells or disposes of, or has in his possession, any machinery, instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any currency note or bank note, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+489D\. Whoever makes or performs any part of the process of making, or buys or sells or disposes of, or has in his possession, any machinery, instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any currency note or bank note, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
-### Forfeiture of counterfeit currency
+[51/2007 wef 01/02/2008]
 
-489E\.—(1) Any police officer, not below the rank of sergeant, upon being satisfied that any person has in his possession any forged or counterfeit currency note or bank note or any machinery, instrument or material used or intended to be used for the forging or counterfeiting of any currency note or bank note, may without warrant and with or without assistance enter and search any place where any such currency note or bank note or any such machinery, instrument or material is kept and seize all such notes, machinery, instrument or material.
+489E\. [Deleted by Act 51/2007 wef 01/02/2008]
 
-[21/73]
+### Chapter XX7
 
-(2) Anything seized under subsection (1) shall, by order of the court before which any person is tried relating to such possession, or where there is no trial, by order of a Magistrate, be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
+7There is no chapter XIX
 
-### Chapter XX10
-
-10There is no chapter XIX
-
-10
+7
 
 OFFENCES RELATING TO MARRIAGE
 
@@ -4994,11 +6000,9 @@ Exception1.—This section does not extend to any person whose marriage, with su
 
 496\. Whoever dishonestly or with a fraudulent intention goes through the ceremony of being married, knowing that he is not thereby lawfully married, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
-### Enticing or taking away or detaining with a criminal intent a married woman
+498\. 9[Deleted by Act 51/2007 wef 01/02/2008]
 
-498\. 11Whoever takes or entices away any woman who is and whom he knows, or has reason to believe, to be the wife of any other man, from that man, or from any person having the care of her on behalf of that man, with intent that she may have illicit intercourse with any person, or conceals, or detains, with that intent any such woman, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
-
-11There is no section 497.
+9There is no section 497.
 
 ### Chapter XXI
 
@@ -5014,7 +6018,13 @@ Explanation2.—It may amount to defamation to make an imputation concerning a c
 
 Explanation3.—An imputation in the form of an alternative, or expressed ironically, may amount to defamation.
 
-Explanation4.—No imputation is said to harm a person’s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.
+Explanation4.—No imputation is said to harm a person’s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.
+
+[51/2007 wef 01/02/2008]
+
+Explanation5.—An imputation may be made or published in written, electronic or other media.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -5032,29 +6042,29 @@ Adraws a picture ofZrunning away withB’s watch, intending it to be believed th
 
 Imputation of any truth which the public good requires to be made or published
 
-Exception.—Exception.—It is not defamation to impute anything which is true concerning any person, if it is for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
+Exception1.—It is not defamation to impute anything which is true concerning any person, if it is for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
 
 Public conduct of public servants
 
-Exception.—Exception.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
+Exception2.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
 
 Conduct of any person touching any public question
 
-Exception.—Exception.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
+Exception3.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
 
-Illustration
+Illustrations
 
 It is not defamation inAto express in good faith any opinion whatever respectingZ’s conduct in petitioning Government on a public question, in signing a requisition for a meeting on a public question, in presiding or attending at such a meeting, in forming or joining any society which invites the public support, in voting or canvassing for a particular candidate for any situation in the efficient discharge of the duties in which the public is interested.
 
 Publication of reports of proceedings of courts of justice, etc.
 
-Exception.—Exception.—It is not defamation to publish a substantially true report of the proceedings of a court of justice, or of Parliament, or of the result of any such proceedings.
+Exception4.—It is not defamation to publish a substantially true report of the proceedings of a court of justice, or of Parliament, or of the result of any such proceedings.
 
-Explanation—A Magistrate or other officer holding an inquiry in open court preliminary to a trial in a court of justice, is a court within the meaning of the above section.
+Explanation1.—A Magistrate or other officer holding an inquiry in open court preliminary to a trial in a court of justice, is a court within the meaning of the above section.
 
 Merits of case decided in a court of justice; or conduct of witnesses and others concerned therein
 
-Exception.—Exception.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a court of justice, or respecting the conduct of any person as a party, witness or agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
+Exception5.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a court of justice, or respecting the conduct of any person as a party, witness or agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
 
 Illustrations
 
@@ -5068,19 +6078,19 @@ But ifAsays, “I do not believe whatZasserted at that trial, because I know him
 
 Merits of a public performance
 
-Exception.—Exception.—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further.
+Exception6.—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further.
 
-Explanation—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public.
+Explanation1.—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public.
 
 Illustrations
 
 (a)
 
-A person who publishes a book, submits that book to the judgment of the public.
+Aperson who publishes a book, submits that book to the judgment of the public.
 
 (b)
 
-A person who makes a speech in public, submits that speech to the judgment of the public.
+Aperson who makes a speech in public, submits that speech to the judgment of the public.
 
 (c)
 
@@ -5096,23 +6106,23 @@ But ifAsays, “I am not surprised thatZ’s book is foolish and indecent, for h
 
 Censure passed in good faith by a person having lawful authority over another
 
-Exception.—It is not defamation in a person having over another any authority, either conferred by law, or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates.
+Exception7.—It is not defamation in a person having over another any authority, either conferred by law, or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates.
 
-Illustration
+Illustrations
 
 A judge censuring in good faith the conduct of a witness or of an officer of the court; a head of a department censuring in good faith those who are under his orders; a parent censuring in good faith a child in the presence of other children; a schoolmaster, whose authority is derived from a parent, censuring in good faith a pupil in the presence of other pupils; a master censuring a servant in good faith for remissness in service; a banker censuring in good faith the cashier of his bank for his conduct as such cashier — are within this exception.
 
 Accusation preferred in good faith to a duly authorised person
 
-Exception.—Exception.—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject-matter of the accusation.
+Exception8.—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject-matter of the accusation.
 
-Illustration
+Illustrations
 
 IfAin good faith accusesZbefore a Magistrate; ifAin good faith complains of the conduct ofZ, a servant, toZ’s master; ifAin good faith complains of the conduct ofZ, a child, toZ’s father —Ais within this exception.
 
 Imputation made in good faith by a person for the protection of his interests
 
-Exception.—Exception.—It is not defamation to make an imputation on the character of another, provided that the imputation is made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.
+Exception9.—It is not defamation to make an imputation on the character of another, provided that the imputation is made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.
 
 Illustrations
 
@@ -5126,9 +6136,11 @@ A, a Magistrate, in making a report to his superior officer, casts an imputation
 
 Caution intended for the good of the person to whom it is conveyed or for the public good
 
-Exception.—Exception.—It is not defamation to convey a caution, in good faith, to one person against another, provided that the caution is intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good.
+Exception10.—It is not defamation to convey a caution, in good faith, to one person against another, provided that the caution is intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good.
 
-Explanation—In proving the existence of circumstances as a defence under the 2nd, 3rd, 5th, 6th, 7th, 8th, 9th or 10th exception good faith shall be presumed unless the contrary appears.
+Explanation to Exceptions
+
+Explanation1.—In proving the existence of circumstances as a defence under the 2nd, 3rd, 5th, 6th, 7th, 8th, 9th or 10th exception good faith shall be presumed unless the contrary appears.
 
 ### Punishment for defamation
 
@@ -5150,9 +6162,9 @@ CRIMINAL INTIMIDATION, INSULT AND ANNOYANCE
 
 503\. Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.
 
-Explanation—A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.
+Explanation1.—A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.
 
-Illustration
+Illustrations
 
 A, for the purpose of inducing B to desist from prosecuting a civil suit, threatens to burn B’s house. A is guilty of criminal intimidation.
 
@@ -5162,7 +6174,7 @@ A, for the purpose of inducing B to desist from prosecuting a civil suit, threat
 
 ### Statements conducing to public mischief
 
-505\. Whoever makes, publishes or circulates any statement, rumour or report —
+505\. Whoever makes, publishes or circulates any statement, rumour or report in written, electronic or other media —
 
 (a) with intent to cause, or which is likely to cause any officer or serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore, or any person to whom section 140B refers, to mutiny or otherwise disregard or fail in his duty as such;
 
@@ -5170,13 +6182,19 @@ A, for the purpose of inducing B to desist from prosecuting a civil suit, threat
 
 (c) with intent to incite, or which is likely to incite, any class or community of persons to commit any offence against any other class or community of persons,
 
-shall be punished with imprisonment which may extend to 2 years, or with fine, or with both.
+shall be punished with imprisonment which may extend to 3 years, or with fine, or with both.
 
-Exception.—It does not amount to an offence within the meaning of this section, when the person making, publishing or circulating any such statement, rumour or report has reasonable grounds for believing that such statement, rumour or report is true and makes, publishes or circulates it without any such intent as aforesaid.
+[51/2007 wef 01/02/2008]
+
+Exception1.—It does not amount to an offence within the meaning of this section, when the person making, publishing or circulating any such statement, rumour or report in written, electronic or other media has reasonable grounds for believing that such statement, rumour or report is true and makes, publishes or circulates it without any such intent as aforesaid.
+
+[51/2007 wef 01/02/2008]
 
 ### Punishment for criminal intimidation. If threat is to cause death or grievous hurt, etc.
 
-506\. Whoever commits the offence of criminal intimidation shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and if the threat is to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or with imprisonment for a term which may extend to 7 years or more, or impute unchastity to a woman, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+506\. Whoever commits the offence of criminal intimidation shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and if the threat is to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or with imprisonment for a term which may extend to 7 years or more, or impute unchastity to a woman, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Criminal intimidation by an anonymous communication
 
@@ -5202,7 +6220,9 @@ A threatens Z that unless Z performs a certain act, A will kill one of A’s own
 
 ### Misconduct in public by a drunken person
 
-510\. Whoever, in a state of intoxication, appears in any public place, or in any place which it is a trespass in him to enter, and there conducts himself in such a manner as to cause annoyance to any person, shall be punished with imprisonment for a term which may extend to 10 days, or with fine which may extend to $10 , or with both.
+510\. Whoever, in a state of intoxication, appears in any public place, or in any place which it is a trespass in him to enter, and there conducts himself in such a manner as to cause annoyance to any person, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,000, or with both.
+
+[51/2007 wef 01/02/2008]
 
 ### Chapter XXIII
 
@@ -5210,9 +6230,17 @@ ATTEMPTS TO COMMIT OFFENCES
 
 ### Punishment for attempting to commit offences
 
-511\. Whoever attempts to commit an offence punishable by this Code or by any other written law with imprisonment or fine or with a combination of such punishments, or attempts to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Code or by such other written law, as the case may be, for the punishment of such attempt, be punished with such punishment as is provided for the offence:
+511\.—(1) Subject to subsection (2), whoever attempts to commit an offence punishable by this Code or by any other written law with imprisonment or fine or with a combination of such punishments, or attempts to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Code or by such other written law, as the case may be, for the punishment of such attempt, be punished with such punishment as is provided for the offence.
 
-Provided that any term of imprisonment imposed shall not exceed one-half of the longest term provided for the offence.
+[51/2007 wef 01/02/2008]
+
+(2) The longest term of imprisonment that may be imposed under subsection (1) shall not exceed —
+
+(a) 15 years where such attempt is in relation to an offence punishable with imprisonment for life; or
+
+(b) one-half of the longest term provided for the offence in any other case.
+
+[51/2007 wef 01/02/2008]
 
 Illustrations
 
@@ -5460,3 +6488,8 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |||(Bill No. 13/98 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 April 1998|
 ||Date of commencement|15 May 1998|
+|47.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|23 October 2007|
+||Date of commencement|1 February 2008|
