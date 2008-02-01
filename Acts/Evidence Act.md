@@ -1540,13 +1540,13 @@ the opinions of persons having special means of knowledge thereon are relevant f
 
 52\.—(1) When the court has to form an opinion as to the relationship of one person to another, the opinion expressed by conduct as to the existence of such relationship of any person who as a member of the family or otherwise has special means of knowledge on the subject is a relevant fact.
 
-(2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 494, 495 or 498of the Penal Code (Cap. 224).
+(2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 494 or 495 of the Penal Code (Cap. 224).
 
 Illustrations
 
 (a)
 
-(a) The question is whetherAandBwere married.
+The question is whetherAandBwere married.
 
 The fact that they were usually received and treated by their friends as husband and wife is relevant.
 
@@ -3330,4 +3330,11 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 52/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|10 June 2005|
+|||(item (3) in the Third Schedule)|
+|35.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|22 October 2007|
+||Date of commencement|1 February 2008|
 |||(item (3) in the Third Schedule)|
