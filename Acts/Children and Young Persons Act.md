@@ -240,9 +240,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. 
-
-(1) In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “approved home” means any institution or part thereof appointed or established under Part VI as an approved home;
 
@@ -456,9 +454,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Sexual exploitation of child or young person
 
-7\. Any person who, in public or private, commits or abets the commission of or procures or attempts to procure the commission by any person of any obscene or indecent act with any child or young person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 4 years or to both.
+7\. Any person who, in public or private —
 
-[6
+(a) commits or abets the commission of or procures or attempts to procure the commission by any person of any obscene or indecent act with any child or young person; or
+
+(b) procures or attempts to procure the commission of any obscene or indecent act by any child or young person,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 4 years or to both.
+
+[51/2007 wef 01/02/2008]
 
 ### Protector’s power to obtain information
 
@@ -1848,6 +1852,13 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 9/2007 published on 27 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|7.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second Reading|22 October 2007|
+||Date of Third Reading|23 October 2007|
+||Date of commencement|1 February 2008|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
