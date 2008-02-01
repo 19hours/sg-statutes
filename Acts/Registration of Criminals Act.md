@@ -792,7 +792,7 @@ Registrable Crimes
 
 Part I
 
-Offences under the Penal Code
+Offences under the Penal Code Included Before 1ST February 2008
 
 Chapters and Sections
 
@@ -880,7 +880,129 @@ Chapters V and VA and section 511
 
 ...
 
-Abetment of conspiracy to commit and attempt to commit any of the above.
+Abetment of, conspiracy to commit and attempt to commit any of the above.
+
+Part IA
+
+Offences under the Penal Code Included With Effect from 1ST February 2008
+
+Chapters and Sections
+
+Offences
+
+Section 130E
+
+...
+
+Genocide.
+
+Section 241A
+
+...
+
+Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit.
+
+Section 254A
+
+...
+
+Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered.
+
+Section 363A
+
+...
+
+Abduction.
+
+Section 364A
+
+...
+
+Kidnapping or abducting in order to compel the Government, etc.
+
+Section 375
+
+...
+
+Rape (as re-enacted with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Section 376
+
+...
+
+Sexual assault by penetration.
+
+Section 376A
+
+...
+
+Sexual penetration of minor under 16.
+
+Section 376B
+
+...
+
+Commercial sex with minor under 18.
+
+Section 376C
+
+...
+
+Commercial sex with minor under 18 outside Singapore.
+
+Section 376D
+
+...
+
+Tour outside Singapore for commercial sex with minor under 18.
+
+Section 376E
+
+...
+
+Sexual grooming of minor under 16.
+
+Section 376F
+
+...
+
+Procurement of sexual activity with person with mental disability.
+
+Section 376G
+
+...
+
+Incest (as re-enacted with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Section 377
+
+...
+
+Sexual penetration of corpse.
+
+Section 377B(4)
+
+...
+
+Causing another person to sexually penetrate a living animal or be sexually penetrated by a living animal.
+
+Section 473A
+
+...
+
+Making or possessing equipment for making a false instrument.
+
+Section 473B
+
+...
+
+Making or possessing equipment for making a false instrument with intent to induce prejudice.
+
+Chapters V and VA and section 511
+
+...
+
+Abetment of, conspiracy to commit and attempt to commit any of the above.
 
 Part II
 
@@ -1286,7 +1408,7 @@ Registrable Crimes in Respect of Which Registration May be Dispensed With under 
 
 Part I
 
-Offences under the Penal Code
+Offences under the Penal Code Included Before 1ST February 2008
 
 Chapters and Sections
 
@@ -1386,7 +1508,39 @@ Chapters V and VA and section 511
 
 ...
 
-Abetment of conspiracy to commit and attempt to commit any of the above.
+Abetment of, conspiracy to commit and attempt to commit any of the above.
+
+Part IA
+
+Offences under the Penal Code Included With Effect from 1ST February 2008
+
+Chapters and Sections
+
+Offences
+
+Section 204A
+
+...
+
+Obstructing, preventing, perverting or defeating course of justice.
+
+Section 204B
+
+...
+
+Bribery of witnesses.
+
+Section 298A
+
+...
+
+Promoting enmity between different groups on grounds of religion or race and doing acts prejudicial to maintenance of harmony.
+
+Chapters V and VA and section 511
+
+...
+
+Abetment of, conspiracy to commit and attempt to commit any of the above.
 
 Part II
 
@@ -1424,11 +1578,13 @@ Section 5.
 
 Cap. 72.
 
-Cap. 91A Employment of Foreign Manpower Act
+Employment of Foreign Manpower Act
 
 ...
 
 Sections 5(6) and 22(1)(c), (d), (e) and (f).
+
+Cap. 91A
 
 Section 20 in respect of any officer of a body corporate, or other person in such capacity, guilty of any of the above offences.
 
@@ -1458,51 +1614,195 @@ Section 7C(a)
 
 Offences for Which Criminal Record Cannot be Spent
 
-First column
+Part I
 
-Second column
+OFFENCES UNDER THE PENAL CODE INCLUDED BEFORE 1st february 2008
 
-1. Misuse of Drugs Act
+Offences
 
-Trafficking in controlled drugs — Section 3 (Act 5 of 1973), Section 5 (Cap. 185 of the 1985 Ed., 1997 Ed., 1998 Ed. and 2001 Ed.)
+Section
 
-2. Penal Code
+Rioting
 
-(a) Rioting — Section 147 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+...
 
-(b) Rioting, armed with a deadly weapon — Section 148 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Section 147 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
 
-(c) Culpable homicide not amounting to murder — Section 304 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Rioting, armed with a deadly weapon
 
-(d) Attempt to murder — Section 307 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+...
 
-(e) Voluntarily causing grievous hurt — Section 325 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Section 148 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
 
-(f) Voluntarily causing grievous hurt by dangerous weapons or means — Section 326 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Culpable homicide not amounting to murder
 
-(g) Outraging of modesty — Section 354 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+...
 
-(h) Outraging modesty in certain circumstances — Section 354A (Cap. 224 of the 1985 Ed. and Cap. 103 of the 1970 Ed. vide Act 23 of 1984)
+Section 304 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
 
-(i) Kidnapping — Section 363 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Attempt to murder
 
-(j) Kidnapping or abducting in order to murder — Section 364 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+...
 
-(k) Rape — Section 376 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Section 307 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
 
-(l) Incest committed by men — Section 376B (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed. vide Ordinance 11 of 1939)
+Voluntarily causing grievous hurt
 
-(m) Incest committed by women — Section 376C (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed. vide Ordinance 11 of 1939)
+...
 
-(n) Unnatural offences — Section 377 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Section 325 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
 
-(o) Gang-robbery — Section 395 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+Voluntarily causing grievous hurt by dangerous weapons or means
 
-(p) Belonging to gang-robbers — Section 400 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871)
+...
 
-(q) Section 224 in relation to escaping or attempting to escape from any custody which he is lawfully detained for an offence of which he has been charged or convicted (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
+Section 326 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
 
-[20/2005 wef 17/10/2005]
+Outraging of modesty
+
+...
+
+Section 354 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
+
+Outraging modesty in certain circumstances
+
+...
+
+Section 354A (Cap. 224 of the 1985 Ed. and Cap. 103 of the 1970 Ed. vide Act 23 of 1984).
+
+Kidnapping
+
+...
+
+Section 363 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
+
+Kidnapping or abducting in order to murder
+
+...
+
+Section 364 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
+
+Rape
+
+...
+
+Section 376 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Incest committed by men
+
+...
+
+Section 376B (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed. vide Ordinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Incest committed by women
+
+...
+
+Section 376C (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed. vide Ordinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Unnatural offences
+
+...
+
+Section 377 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Gang-robbery
+
+...
+
+Section 395 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
+
+Belonging to gang-robbers
+
+...
+
+Section 400 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871).
+
+Escaping or attempting to escape from any custody in which he is lawfully detained for an offence of which he has been charged or convicted
+
+...
+
+Section 224 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871) in relation to such escape or attempt to escape.
+
+Part IA
+
+Offences under the Penal Code Included With Effect from 1ST February 2008
+
+Offences
+
+Section
+
+Genocide
+
+...
+
+Section 130E (Cap. 224 of the 1985 Ed.).
+
+Abduction
+
+...
+
+Section 363A (Cap. 224 of the 1985 Ed.).
+
+Kidnapping or abducting in order to compel the Government, etc.
+
+...
+
+Section 364A (Cap. 224 of the 1985 Ed.).
+
+Rape
+
+...
+
+Section 375 (Cap. 224 of the 1985 Ed.) (as re-enacted with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Sexual assault by penetration
+
+...
+
+Section 376 (Cap. 224 of the 1985 Ed.).
+
+Sexual penetration of minor under 16
+
+...
+
+Section 376A (Cap. 224 of the 1985 Ed.).
+
+Procurement of sexual activity with person with mental disability, where the sexual activity involves sexual penetration
+
+...
+
+Section 376F(3) (Cap. 224 of the 1985 Ed.).
+
+Incest
+
+...
+
+Section 376G (Cap. 224 of the 1985 Ed.) (as re-enacted with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+
+Causing another person to sexually penetrate a corpse
+
+...
+
+Section 377(4) (Cap. 224 of the 1985 Ed.).
+
+Causing another person to sexually penetrate a living animal or be sexually penetrated by a living animal
+
+...
+
+Section 377B(4) (Cap. 224 of the 1985 Ed.).
+
+Part II
+
+Offences under Other Laws
+
+Misuse of Drugs Act
+
+...
+
+Trafficking in controlled drugs – Section 5 (Cap. 185 of the 2001 Ed., 1998 Ed., 1997 Ed. and 1985 Ed.), Section 3 (Act 5 of 1973).
+
+[S 32/2008 wef 01/02/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -1626,3 +1926,5 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 9/2007 published on 28 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|31.|**G. N. No. S 32/2008—Registration of Criminals Act (Amendment of First, Second and Third Schedules) Order 2008**|
+||Date of commencement|1 February 2008|
