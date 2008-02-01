@@ -140,7 +140,7 @@ Scheduled Offences
 
 (h) section 14(3) of the Societies Act (Cap. 311);
 
-(i) sections 143, 144, 145, 147, 148, 302, 307, 324, 325, 326, 363, 364, 365, 368, 506, and Chapter XVII of the Penal Code (Cap. 224);
+(i) sections 143, 144, 145, 147, 148, 302, 307, 324, 325, 326, 363, 363A, 364, 364A, 365, 368, 506, and Chapter XVII of the Penal Code (Cap. 224);
 
 (j) section 120B of the Penal Code where the criminal conspiracy is to commit any of the offences set out in the foregoing sub-paragraphs.
 
@@ -186,3 +186,9 @@ This Legislative History is provided for the convenience of users of the Road Ve
 ||Date of operation|30 March 1987|
 |8.|**2007 Revised Edition—Road Vehicles (Special Powers) Act**|
 ||Date of operation|31 March 2007|
+|9.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|23 October 2007|
+||Date of commencement|1 February 2008|
