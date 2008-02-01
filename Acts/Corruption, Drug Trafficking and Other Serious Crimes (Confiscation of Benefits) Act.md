@@ -3121,7 +3121,7 @@ Importing by fraud, brings, assist in bringing, sells or buys, with intent that 
 
 95. Section 376(1) and (2)
 
-Punishment for rape
+Punishment for rape (for offences committed prior to repeal with effect from 1st February 2008)
 
 96. Section 379
 
@@ -4345,6 +4345,118 @@ Contravention of order for restraint of property
 
 *Note: The short description of offences is for ease of reference only.
 
+Part VI — Offences included as serious offences with effect from 1st February 2008
+
+[S 33/2008 wef 01/02/2008]
+
+Offences
+
+Description*
+
+Passports Act (Act 33 of 2007) 
+
+330. Section 36
+
+Falsifying Singapore passports, etc.
+
+331. Section 38
+
+Bringing, taking or sending false Singapore passports, etc., across international borders
+
+332. Section 39
+
+Making or giving false or misleading statements or information
+
+333. Section 40
+
+Furnishing false or misleading documents
+
+334. Section 41
+
+Improper use or possession of Singapore passports, etc.
+
+335. Section 42
+
+Selling Singapore passports, etc.
+
+336. Section 44
+
+Dishonestly obtaining Singapore passport, etc.
+
+337. Section 47
+
+Offences relating to false foreign travel documents
+
+Penal Code (Cap\. 224) 
+
+338. Section 130E
+
+Genocide
+
+339. Section 204A
+
+Obstructing, preventing, perverting or defeating course of justice
+
+340. Section 204B
+
+Bribery of witnesses
+
+341. Section 241A
+
+Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit
+
+342. Section 254A
+
+Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered
+
+343. Section 363A
+
+Abduction
+
+344. Section 364A
+
+Kidnapping or abducting in order to compel the Government, etc.
+
+345. Section 375
+
+Rape
+
+346. Section 376
+
+Sexual assault by penetration
+
+347. Section 376A
+
+Sexual penetration of minor under 16
+
+348. Section 376B
+
+Commercial sex with minor under 18
+
+349. Section 376C
+
+Commercial sex with minor under 18 outside Singapore
+
+350. Section 376D
+
+Tour outside Singapore for commercial sex with minor under 18
+
+351. Section 376E
+
+Sexual grooming of minor under 16
+
+352. Section 376F
+
+Procurement of sexual activity with person with mental disability
+
+353. Section 473A
+
+Making or possessing equipment for making a false instrument
+
+354. Section 473B
+
+Making or possessing equipment for making a false instrument with intent to induce prejudice
+
 ## LEGISLATIVE HISTORY
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -4447,6 +4559,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 13/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|1 January 2008 (except section 5)|
+|21.|**G. N. No. S 33/2008—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2008**|
+||Date of commencement|1 February 2008|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
