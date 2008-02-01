@@ -1094,7 +1094,7 @@ Specified Laws
 
 5\. Section 5 of the Misuse of Drugs Act (Cap. 185).
 
-6\. Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 364, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
+6\. Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 363A, 364, 364A, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
 
 7\. Sections 14 and 15 of the Societies Act (Cap. 311).
 
@@ -1309,6 +1309,14 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
 |||(item (3) in the Schedule)|
+|51.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second Reading|22 October 2007|
+||Date of Third Reading|23 October 2007|
+||Date of commencement|1 February 2008|
+|||(item (2) in the Third Schedule)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
