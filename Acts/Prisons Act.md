@@ -1528,6 +1528,8 @@ Disqualification from being released for home detention under section 52
 
 (7) is convicted of an offence punishable under any of the following provisions of the Penal Code (Cap. 224):
 
+Offences included with effect from 17th April 2000 
+
 (a) section 147 (Rioting);
 
 (b) section 148 (Rioting, armed with a deadly weapon);
@@ -1560,7 +1562,31 @@ Disqualification from being released for home detention under section 52
 
 (p) section 400 (Belonging to gang-robbers); or
 
+Offences included with effect from 1st February 2008 
+
+(q) section 130E (Genocide)
+
+(r) section 363A (Abduction)
+
+(s) section 364A (Kidnapping or abducting in order to compel the Government, etc.)
+
+(t) section 375 (Rape)
+
+(u) section 376 (Sexual assault by penetration)
+
+(v) section 376A (Sexual penetration of minor under 16)
+
+(w) section 376F (Procurement of sexual activity with person with mental disability)
+
+(x) section 376G (Incest)
+
+(y) section 377(4) (Causing another person to sexually penetrate a corpse)
+
+(z) section 377B(4) (Causing another person to sexually penetrate a living animal or be sexually penetrated by a living animal)
+
 (8) is convicted of an offence under section 224 of the Penal Code (Cap. 224) for escaping or attempting to escape from any custody in which he is lawfully detained for an offence of which he has been charged or convicted.
+
+[S 34/2008 wef 01/02/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -1683,6 +1709,8 @@ This Legislative History is provided for the convenience of users of the Prisons
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|23.|**G. N. No. S 34/2008—Prisons Act (Amendment of Schedule) Order 2008**|
+||Date of commencement|1 February 2008|
 ## COMPARATIVE TABLE
 
 Prisons Act
