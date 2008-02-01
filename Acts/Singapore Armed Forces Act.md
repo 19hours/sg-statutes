@@ -2432,6 +2432,10 @@ whichever date is the later.
 
 (d) rape;
 
+(da) sexual assault by penetration;
+
+[51/2007 wef 01/02/2008]
+
 (e) any other offence which when committed in Singapore is punishable by the law of Singapore,
 
 shall, if charged under this section with any such offence, be liable to be tried by a subordinate military court and on conviction to be punished as follows:
@@ -2444,11 +2448,13 @@ shall, if charged under this section with any such offence, be liable to be trie
 
 (iv) if he is convicted of culpable homicide not amounting to murder, be liable to suffer imprisonment, or any less punishment authorised by this Act;
 
-(v) if he is convicted of rape, be liable to suffer imprisonment or any less punishment authorised by this Act; or
+(v) if he is convicted of rape or sexual assault by penetration, be liable to suffer imprisonment or any less punishment authorised by this Act; or
 
 (vi) if he is convicted of any other offence, which when committed in Singapore is punishable by the law of Singapore, be liable, whether the offence is committed in Singapore or elsewhere, either to suffer such punishment as might be awarded to him under this Act in respect of an act, conduct or neglect to the prejudice of good order or discipline or to suffer any punishment that may be awarded for such offence under any written law, had he been convicted by a civil court for the offence and, in addition to or in lieu of such punishment, one or more of the punishments specified in section 118(1)(c), (d), (e), (f), (g), (h), (j), (k) and (l), and any punishment which may be imposed under section 118(9), (10), (12) and (13), which is or are not prescribed by the written law for the offence.
 
 [17/78]
+
+[51/2007 wef 01/02/2008]
 
 (2) A person subject to military law shall not be tried by a subordinate military court for murder or culpable homicide not amounting to murder unless —
 
@@ -4529,6 +4535,13 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 12/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Date of commencement|1 August 2007|
+|20.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second Reading|22 October 2007|
+||Date of Third Reading|23 October 2007|
+||Date of commencement|1 February 2008|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
