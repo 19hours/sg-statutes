@@ -324,11 +324,11 @@
 
 - [142 Importation of woman or girl by false pretences](#Importation-of-woman-or-girl-by-false-pretences)
 
-- [143 Permitting girl below the age of 16 to use premises for intercourse](#Permitting-girl-below-the-age-of-16-to-use-premises-for-intercourse)
+- [143 Permitting girl below the age of 16 to use premises for sexual penetration](#Permitting-girl-below-the-age-of-16-to-use-premises-for-sexual-penetration)
 
-- [144 Permitting mental defective to use premises for intercourse](#Permitting-mental-defective-to-use-premises-for-intercourse)
+- [144 Permitting mental defective to use premises for sexual penetration](#Permitting-mental-defective-to-use-premises-for-sexual-penetration)
 
-- [145 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16](#Causing-or-encouraging-prostitution-of-intercourse-with-or-indecent-assault-on-girl-below-the-age-of-16)
+- [145 Causing or encouraging prostitution of, sexual penetration with, or indecent assault on, girl below the age of 16](#Causing-or-encouraging-prostitution-of-sexual-penetration-with-or-indecent-assault-on-girl-below-the-age-of-16)
 
 - [146 Persons living on or trading in prostitution](#Persons-living-on-or-trading-in-prostitution)
 
@@ -472,13 +472,17 @@ PRELIMINARY
 
 “place of safety” means any place of safety established under section 177;
 
-“prostitution” means the act of a female offering her body for promiscuous sexual intercourse for hire, whether in money or in kind;
+“prostitution” means the act of a female offering her body for sexual penetration for hire, whether in money or in kind;
 
 [51/2007 wef 01/02/2008]
 
 “register of marriages” means the State Marriage Register kept under this Act;
 
 “Registrar” means the Registrar of Marriages appointed under section 26 and includes an Assistant Registrar of Marriages;
+
+“sexual penetration” means the penetration of the vagina, anus or mouth of a woman or girl by a man’s penis, or the sexual penetration of the vagina or anus of a woman or girl by a part of another person’s body (other than the penis) or by anything else;
+
+[51/2007 wef 01/02/2008]
 
 “solemnization”, with its grammatical variations and cognate expressions, includes the contracting of a marriage or effecting a marriage in accordance with the law, religion, custom or usage of the parties or any of the parties thereto.
 
@@ -2392,8 +2396,6 @@ GENERAL PROVISIONS
 
 (d) 2 practising advocates and solicitors to be appointed by the Chief Justice for such period as he may specify in writing.
 
-[2/2007 wef 01/03/2007]
-
 (2) Rules made under subsection (1) may prescribe the forms to be used in proceedings under this Part.
 
 (3) All such rules shall be presented to Parliament as soon as possible after publication in theGazette.
@@ -2450,11 +2452,13 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (iii) threatens that woman or girl with legal proceedings for the recovery of any debt or alleged debt or uses any other threat whatsoever.
 
-(4) Reasonable cause to believe that a girl was of or above the age of 16 years shall not be a defence to a charge of an offence under subsection (1)(i).
+(4) Subject to subsection (5) and notwithstanding anything in section 79 of the Penal Code (Cap. 224), a reasonable mistake as to the age of a girl shall not be a defence to a charge of an offence under subsection (1)(i).
 
-(5) In the case of a man below the age of 21 years, the presence of reasonable cause to believe that the girl was above the age of 16 years shall be a valid defence on the first occasion on which he is charged with an offence under subsection (1)(i).
+[51/2007 wef 01/02/2008]
 
-[26/80]
+(5) In the case of a man who at the time of the alleged offence was below the age of 21 years, the presence of a reasonable mistaken belief that the girl was of or above the age of 16 years shall be a valid defence to a charge of an offence under subsection (1)(i), provided that at the time of the offence, he has not previously been charged in court for an offence under subsection (1)(i), or section 376A, 376B, 376C or 376E of the Penal Code, or section 7 of the Children and Young Persons Act (Cap. 38).
+
+[51/2007 wef 01/02/2008]
 
 ### Traffic in women and girls
 
@@ -2476,15 +2480,15 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [26/80]
 
-### Permitting girl below the age of 16 to use premises for intercourse
+### Permitting girl below the age of 16 to use premises for sexual penetration
 
-143\. Any person who is the owner or occupier of any premises, or who has, or acts or assists in, the management or control of any premises, induces or knowingly permits a girl below the age of 16 years to resort to or be on those premises for the purpose of having sexual intercourse except by way of marriage with any male person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+143\. Any person who is the owner or occupier of any premises, or who has, or acts or assists in, the management or control of any premises, induces or knowingly permits a girl below the age of 16 years to resort to or be on those premises for the purpose of engaging in sexual penetration except by way of marriage with any male person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [26/80]
 
-### Permitting mental defective to use premises for intercourse
+### Permitting mental defective to use premises for sexual penetration
 
-144\.—(1) Subject to subsection (2), any person who is the owner or occupier of any premises or who has, or acts or assists in, the management or control of any premises, induces or knowingly permits a woman who is a mental defective to resort to or be on those premises for the purpose of having sexual intercourse except by way of marriage with any male person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+144\.—(1) Subject to subsection (2), any person who is the owner or occupier of any premises or who has, or acts or assists in, the management or control of any premises, induces or knowingly permits a woman who is a mental defective to resort to or be on those premises for the purpose of engaging in sexual penetration except by way of marriage with any male person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [51/2007 wef 01/02/2008]
 
@@ -2494,15 +2498,15 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [26/80]
 
-### Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
+### Causing or encouraging prostitution of, sexual penetration with, or indecent assault on, girl below the age of 16
 
-145\.—(1) Any person who causes or encourages the prostitution of, or the commission of unlawful sexual intercourse with, or of an indecent assault on, a girl below the age of 16 years for whom he is responsible shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+145\.—(1) Any person who causes or encourages the prostitution of, or the commission of unlawful sexual penetration with, or of an indecent assault on, a girl below the age of 16 years for whom he is responsible shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [51/2007 wef 01/02/2008]
 
 [26/80]
 
-(2) Where a girl has become a prostitute, or has had unlawful sexual intercourse, or has been indecently assaulted, a person shall be deemed for the purposes of this section to have caused or encouraged it, if he knowingly allowed her to consort with or to enter or continue in the employment of, any prostitute or person of known immoral character.
+(2) Where a girl has become a prostitute, or has had unlawful sexual penetration, or has been indecently assaulted, a person shall be deemed for the purposes of this section to have caused or encouraged it, if he knowingly allowed her to consort with or to enter or continue in the employment of, any prostitute or person of known immoral character.
 
 [51/2007 wef 01/02/2008]
 
@@ -2592,15 +2596,15 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Trials in camera in certain cases
 
-153\.—(1) When any person is charged with or convicted of having committed any offence under this Part, or under section 354, 354A, 376 or 376B, or sections 354 and 511, or sections 354A and 511 or sections 376 and 511, or sections 376B and 511 of the Penal Code (Cap. 224) in respect of any woman or girl, the court conducting a preliminary inquiry into, or trying the offence, or hearing any appeal or special case or any point reserved by a Judge of the High Court in relation to the offence, may order that all proceedings before it shall be dealt with in camera.
+153\.—(1) When any person is charged with or convicted of having committed any offence under this Part, or of having committed or attempted to commit or attempted to cause the commission of any offence under section 354, 354A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G or 377B of the Penal Code (Cap. 224) in respect of any woman or girl, the court conducting a preliminary inquiry into, or trying the offence, or hearing any appeal or special case or any point reserved by a Judge of the High Court in relation to the offence, may order that all proceedings before it shall be dealt with in camera.
 
-[16/93; 30/96]
+[51/2007 wef 01/02/2008]
 
 (2) Whenever any such order is made, the court shall not be deemed an open court, and the court shall order that no person shall have access to or be or remain in the court except such persons as are necessary for the purpose of the proceedings.
 
-(3) The court shall order proceedings before it to be dealt with in camera in any case where the girl in respect of whom an offence under this Part, or under section 354, 354A, 376 or 376B, or sections 354 and 511, or sections 354A and 511, or sections 376 and 511, or sections 376B and 511 of the Penal Code is alleged to have been committed has not attained the age of 16 years.
+(3) The court shall order proceedings before it to be dealt with in camera in any case where the girl in respect of whom an offence referred to in subsection (1) is alleged to have been committed has not attained the age of 16 years.
 
-[30/96]
+[51/2007 wef 01/02/2008]
 
 (4) No newspaper report of any proceedings under this Part in any court shall reveal —
 
@@ -2628,7 +2632,7 @@ of any woman or girl in respect of whom the offence is alleged to have been comm
 
 ### Detention pending judicial proceedings
 
-155\.—(1) Any court inquiring into or trying an offence punishable under this Part or under section 309, 312, 313, 317, 354, 370, 371, 372, 373, 373A, 376, 376B, 377 or 498 of the Penal Code (Cap. 224) or defined in section 321, 322, 339, 340, 350, 351, 360, 361 or 362 of the Penal Code may order any woman or girl in respect of whom the offence is alleged to have been committed to be detained temporarily until the determination of the proceedings against the person accused.
+155\.—(1) Any court inquiring into or trying an offence punishable under this Part or under section 309, 312, 313, 317, 354, 370, 371, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G or 377B of the Penal Code (Cap. 224) or defined in section 321, 322, 339, 340, 350, 351, 360, 361 or 362 of the Penal Code may order any woman or girl in respect of whom the offence is alleged to have been committed to be detained temporarily until the determination of the proceedings against the person accused.
 
 [51/2007 wef 01/02/2008]
 
@@ -3291,3 +3295,9 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007 (section 18 — Amendment of Women’s Charter)|
+|18.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|23 October 2007|
+||Date of commencement|1 February 2008|
