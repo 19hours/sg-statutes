@@ -1918,7 +1918,7 @@ who holds a driving permit issued to him by a competent authority of the country
 
 42\.—(1) A court before which a person is convicted of any offence in connection with the driving of a motor vehicle may, in any case except where otherwise expressly provided by this Act and shall, where so required by this Act, order him to be disqualified from holding or obtaining a driving licence for life or for such period as the court may think fit.
 
-(2) Where a person (referred to in this section as the offender), is convicted of an offence under section 160, 304, 304A, 323, 324, 325, 326, 341, 342, 350, 352, 426 or 427 of the Penal Code (Cap. 224) and —
+(2) Where a person (referred to in this section as the offender), is convicted of an offence under section 267B, 304, 304A, 323, 324, 325, 326, 341, 342, 350, 352, 426 or 427 of the Penal Code (Cap. 224) and —
 
 (a) at the time of the commission of the offence the offender was the driver or was in charge of a motor vehicle on a road or other public place;
 
@@ -5216,6 +5216,12 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 17/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Date of commencement|1 July 2007|
+|54.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 September 2007|
+|||(Bill No. 38/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|22 October 2007|
+||Date of commencement|1 February 2008|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
