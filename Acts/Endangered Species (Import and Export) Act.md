@@ -710,7 +710,9 @@ Damaliscus pygargus pygargus
 
 Gazella cuvieri
 
-Gazella dorcas (Tunisia)
+Gazella dorcas
+
+(Algeria, Tunisia)
 
 Gazella leptoceros
 
@@ -794,7 +796,7 @@ Cervus elaphus bactrianus
 
 Cervus elaphus barbarus
 
-(Tunisia)
+(Algeria, Tunisia)
 
 Cervus elaphus hanglu
 
@@ -1074,7 +1076,7 @@ Lutrinae Otters
 
 Lutrinae spp\. (Except the species included in Appendix I)
 
-Aonyx capensis congica
+Aonyx capensis microdon
 
 (Only the populations of Cameroon and Nigeria; all other populations are included in Appendix II)
 
@@ -1188,7 +1190,7 @@ Ursus arctos isabellinus
 
 Ursus thibetanus
 
-Viverridae Binturong, civets, falanouc, fossa, linsangs, otter-civet, palm civets
+Viverridae Binturong, civets, linsangs, otter-civet, palm civets
 
 Arctictis binturong
 
@@ -1430,17 +1432,19 @@ spp\.
 
 PERAMELEMORPHIA
 
-Peramelidae Bandicoots
+Chaeropodidae Pig-footed bandicoots
 
-Chaeropus ecaudatus
+Chaeropus ecaudatus (possibly extinct)
 
-(possibly extinct)
+Peramelidae Bandicoots, echymiperas
 
-Macrotis lagotis
+Perameles bougainville 
 
-Macrotis leucura
+Thylacomyidae Bilbies
 
-Perameles bougainville
+Macrotis lagotis 
+
+Macrotis leucura 
 
 PERISSODACTYLA
 
@@ -1711,6 +1715,8 @@ Leporillus conditor
 Pseudomys fieldi praeconis
 
 Xeromys myoides
+
+[S 64/2008 wef 12/02/2008]
 
 5
 
@@ -3442,7 +3448,7 @@ Epioblasma curtisi
 
 Epioblasma florentina
 
-Epioblasma sampsoni
+Epioblasma sampsonii
 
 Epioblasma sulcata perobliqua
 
@@ -3655,6 +3661,8 @@ Tillandsia sucrei
 Tillandsia xerographica
 
 #1
+
+[S 64/2008 wef 12/02/2008]
 
 #1All parts and derivatives, except:
 
@@ -3966,6 +3974,16 @@ Caesalpinia echinata
 
 Dalbergia nigra
 
+Dalbergia retusa
+
+#5[Population of
+Guatemala (Guatemala)]
+
+Dalbergia stevensonii
+
+#5[Population of
+Guatemala (Guatemala)]
+
 Dipteryx panamensis
 
 (Costa Rica, Nicaragua)
@@ -4036,6 +4054,8 @@ Aloe versicolor
 
 Aloe vossii
 
+[S 64/2008 wef 12/02/2008]
+
 #10Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments.
 
 #5Logs, sawn wood and veneer sheets.
@@ -4074,9 +4094,7 @@ MELIACEAE Mahoganies, Spanish cedar
 
 Cedrela odorata
 
-#5
-
-[Population of Colombia (Colombia) Population of Peru (Peru)]
+#5[Population of Colombia (Colombia) Population of Guatemala (Guatemala) Population of Peru (Peru)]
 
 Swietenia humilis
 
@@ -4117,6 +4135,8 @@ Laelia lobata
 Paphiopedilum
 
 spp\. 
+
+[S 64/2008 wef 12/02/2008]
 
 #1All parts and derivatives, except:
 
@@ -4396,9 +4416,13 @@ Hedychium philippinense
 
 ZYGOPHYLLACEAE Lignum-vitae
 
-Guaiacum
+Bulnesia sarmientoi
 
-spp\. #2
+#11(Argentina)
+
+Guaiacum spp.#2
+
+[S 64/2008 wef 12/02/2008]
 
 #1All parts and derivatives, except:
 
@@ -4409,6 +4433,8 @@ b) seedling or tissue cultures obtainedin vitro, in solid or liquid media, trans
 c) cut flowers of artificially propagated plants; and
 
 d) fruits and parts and derivatives thereof of artificially propagated plants of the genusVanilla.
+
+#11Logs, sawn wood, veneer sheets, plywood, powder and extracts.
 
 #2All parts and derivatives except:
 
@@ -4493,6 +4519,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|13 September 2007|
 |25.|**2008 Revised Edition—Endangered Species (Import and Export) Act**|
 ||Date of operation|1 January 2008|
+|26.|**G. N. No. S 64/2008—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2008**|
+||Date of commencement|12 February 2008|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
