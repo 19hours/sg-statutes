@@ -32,6 +32,8 @@
 
 - [10 Prohibition on transfer of gas licence without consent of Authority](#Prohibition-on-transfer-of-gas-licence-without-consent-of-Authority)
 
+- [11 Licensing of gas service worker](#Licensing-of-gas-service-worker)
+
 - [12 Application for gas service worker licence](#Application-for-gas-service-worker-licence)
 
 - [13 Engagement of unlicensed gas service worker prohibited](#Engagement-of-unlicensed-gas-service-worker-prohibited)
@@ -75,6 +77,10 @@
 - [30 Relocation of gas main or gas service pipe](#Relocation-of-gas-main-or-gas-service-pipe)
 
 - [31 Removal of obstruction over existing gas main, etc.](#Removal-of-obstruction-over-existing-gas-main-etc)
+
+- [32 Carrying out of earthworks within vicinity of gas plant or gas pipe](#Carrying-out-of-earthworks-within-vicinity-of-gas-plant-or-gas-pipe)
+
+- [32A Damage to gas plant or gas pipe](#Damage-to-gas-plant-or-gas-pipe)
 
 - [33 Special administration order](#Special-administration-order)
 
@@ -276,13 +282,13 @@ REVISED EDITION 2002
 
 An Act to create a competitive market framework for the gas industry, to make provision for the safety, technical and economic regulation of the transportation and retail of gas, and for other matters connected therewith, and to make consequential amendments to certain written laws.
 
-[23rd July 2003: Section 1 and Part XII — come into operation on ;
+[23rd July 2003: Section 1 and Part XII ;
 
-19th December 2003: Sections 2, 3(1), (2), (3)(e) and (h), (4) and (5), 4, 5, Parts IX, X, sections 87 to 91 and 95 — come into operation on ;
+19th December 2003: Sections 2, 3(1), (2), (3)(e) and (h), (4) and (5), 4, 5, Parts IX, X, sections 87 to 91 and 95 ;
 
-11th June 2007: Sections 3(3)(a), (b), (c), (d), (f) and (g) and (6), 8, 9, 10, 14 to 18, 21, 24, 27, 28, 30, 31, 36, 38, 40 to 44, 47, 48, 53, 54, 58, 59, 60, 61, 64 to 68, 86, 92, 96 and 97 — come into operation on ;
+11th June 2007: Sections 3(3)(a), (b), (c), (d), (f) and (g) and (6), 8, 9, 10, 14 to 18, 21, 24, 27, 28, 30, 31, 36, 38, 40 to 44, 47, 48, 53, 54, 58, 59, 60, 61, 64 to 68, 86, 92, 96 and 97 ;
 
-14th February 2008: Sections 12, 13, 37, 45 and 46 — come into operation on ]
+14th February 2008: Sections 12, 13, 37, 45 and 46 ]
 
 ## PART I
 
@@ -332,6 +338,8 @@ PRELIMINARY
 
 (b) a person other than a gas transporter for the shipping of gas to his premises and has the benefit, under the arrangement, of identifiable rights for the conveyance of gas to his premises through the gas pipeline network to which his premises are connected;
 
+[24/2007 wef 11/06/2007]
+
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 [24/2007 wef 11/06/2007]
@@ -359,6 +367,8 @@ PRELIMINARY
 “electronic records” has the same meaning as in the Electronic Transactions Act (Cap. 88);
 
 “exempt gas transporter” means a person carrying out any activity specified in section 6(1)(a) who is granted an exemption under section 8;
+
+[24/2007 wef 11/06/2007]
 
 “gas” means natural gas and town gas, but does not include liquefied petroleum gas;
 
@@ -398,15 +408,21 @@ PRELIMINARY
 
 “gas pipeline network” means a gas transmission network, a gas mains network and gas service pipes;
 
+[24/2007 wef 11/06/2007]
+
 “gas plant” means any valve, regulator, plant, pipe, equipment or apparatus used for, or for purposes connected with, the production, processing, conveyance, storage or shipping of gas;
 
 “gas retailer” means a person holding a gas retailer’s licence;
 
 “gas retailer’s licence” means a licence granted under section 7(3)(d);
 
+[24/2007 wef 11/06/2007]
+
 “gas service isolation valve” means a valve, located at or near the boundary line of any property or the apron of any building, used by a gas transporter to isolate the supply of gas to that property or building;
 
 “gas service pipe” means a pipe or any part thereof, other than a gas main, used for the purpose of conveying gas from a gas main to a gas service isolation valve, and includes any pipe owned by, or under the management or control of, a gas transporter which is used for the purpose of conveying gas from the gas service isolation valve to the meter at a consumer’s premises;
+
+[24/2007 wef 11/06/2007]
 
 “gas service work” means any work carried out on any gas installation or gas appliance, in whole or in part, including any design, construction, installation, commissioning, erection, testing, repair, addition, alteration or maintenance work;
 
@@ -422,9 +438,13 @@ PRELIMINARY
 
 “gas supply system” means all gas pipeline networks, gas plants and other related equipment owned by, or under the management or control of, all gas transporters for the purpose of supplying gas to consumers;
 
+[24/2007 wef 11/06/2007]
+
 “gas tightness” means the freedom from leak when a gas pipeline network, gas installation or gas fitting is tested at the appropriate test pressure;
 
 “gas transmission pipeline” means a bulk transmission pipeline or interconnected transmission pipeline, together with equipment (including pressure regulating and control valves) used for the conveyance of gas to a direct access customer or a gas mains network, and “gas transmission network” shall be construed accordingly;
+
+[24/2007 wef 11/06/2007]
 
 “gas transport agent” means a person holding a gas transport agent’s licence;
 
@@ -528,7 +548,9 @@ PRELIMINARY
 
 [24/2007 wef 11/06/2007]
 
-“retail” means the supply of gas to a consumer other than a direct access customer, and “retailer and retailing” shall be construed accordingly;
+“retail” means the supply of gas to a consumer other than a direct access customer, and “retailer” and “retailing” shall be construed accordingly;
+
+[24/2007 wef 11/06/2007]
 
 “shipping”, in relation to gas, means arranging with a gas transporter for gas to be introduced into, conveyed by and taken out of a gas pipeline network owned by, or under the management or control of, the gas transporter for purposes connected with the supply of gas to any premises, and “ship” shall be construed accordingly;
 
@@ -543,6 +565,8 @@ PRELIMINARY
 “supply”, in relation to gas, means the physical delivery of gas to a consumer’s premises;
 
 “town gas” means any substance in a gaseous state which is conveyed in gas pipes and is manufactured from petrochemical feedstock or natural gas, and has hydrogen as one of its main constituents;
+
+[24/2007 wef 11/06/2007]
 
 “town gas producer” means a person holding a town gas producer’s licence;
 
@@ -978,6 +1002,22 @@ on such terms as may be approved by the Authority;
 
 (2) Any purported transfer of a gas licence shall be void.
 
+### Licensing of gas service worker
+
+11\.—(1) No person shall —
+
+(a) carry out or offer or undertake to carry out any gas service work; or
+
+(b) advertise or otherwise hold himself out or conduct himself in any way or by any means as a gas service worker or as a person who carries out or who is qualified by any written law to carry out gas service work,
+
+unless he is registered as a professional engineer and has a valid practising certificate under the Professional Engineers Act (Cap. 253), or holds a valid gas service worker licence in respect of the specific class of work being carried out or to be carried out.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+(3) This section shall not apply to a gas transporter, a gas transport agent, or an employee of a gas transporter or gas transport agent.
+
+[24/2007 wef 14/02/2008]
+
 ### Application for gas service worker licence
 
 12\.—(1) Any person who wishes to be a licensed gas service worker shall apply to the Authority.
@@ -1068,7 +1108,7 @@ the Authority may, by notice in writing and without payment of any compensation,
 
 [24/2007 wef 11/06/2007]
 
-20\. [Deleted by Act 24/2007 wef 08/06/2007]
+20\. [Repealed by Act 24/2007 wef 08/06/2007]
 
 ## PART V
 
@@ -1281,6 +1321,66 @@ by which gas is conveyed to a consumer’s premises, whether or not the gas serv
 (b) by the gas transporter in all other circumstances.
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+### Carrying out of earthworks within vicinity of gas plant or gas pipe
+
+32\.—(1) Subject to this section, no person other than a gas transporter shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, the gas transporter unless the person —
+
+(a) has given to the gas transporter not less than 7 days’ notice in writing of the date on which it is proposed to commence the earthworks;
+
+(b) has obtained from the gas transporter the necessary information on the location of the gas plant or gas pipe; and
+
+(c) has consulted the gas transporter on the steps to be taken to prevent the gas plant or gas pipe from being damaged while the earthworks are being carried out.
+
+(2) The Authority may, if it thinks fit in any particular case, modify the period for which a notice under subsection (1)(a) is to be given to a gas transporter.
+
+(3) It shall be the duty of the person who commences or carries out, or causes or permits the commencement or carrying out of, any earthworks referred to in subsection (1) —
+
+(a) to comply with all reasonable requirements of the gas transporter for the prevention of damage to the gas plant or gas pipe;
+
+(b) to ensure that reasonable precautions are taken when such earthworks are being carried out to prevent any damage to the gas plant or gas pipe; and
+
+(c) to allow the gas transporter reasonable access to the work site for the purpose of inspecting or taking any necessary measures to protect the gas plant or gas pipe.
+
+(4) It shall be the duty of the gas transporter to whom a notice under subsection (1)(a) has been given —
+
+(a) to promptly inform the person giving the notice of the location of the gas plant or gas pipe, and to provide the person with such other information as may be necessary to enable him to ascertain the exact location of the gas plant or gas pipe;
+
+(b) to advise the person on the precautions to be taken to prevent damage to the gas plant or gas pipe; and
+
+(c) to take all such measures at the work site as may be reasonable and necessary for the protection of the gas plant or gas pipe and, in so doing, the gas transporter shall have regard to the potential risks and dangers that can arise from any damage to the gas plant or gas pipe.
+
+(5) Nothing in subsection (1) shall prohibit a person from commencing or carrying out, or causing or permitting the commencement or carrying out of, any earthworks where he has reasonable cause to believe that it is necessary to do so in the interest of public or private safety.
+
+(6) The person referred to in subsection (5) shall, as soon as practicable but not more than 24 hours after the earthworks have been commenced or carried out, give to the gas transporter notice in writing stating the nature and extent of those earthworks.
+
+(7) Any person who contravenes subsection (1), (3) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(8) Subject to subsection (9), in any proceedings for an offence under subsection (7), it shall be a defence for the person charged to prove —
+
+(a) that he took all reasonable steps to discharge his duty under subsection (1) or (3), as the case may be; or
+
+(b) that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(9) If, in any proceedings for an offence under subsection (7), the defence involves acting on information supplied by a gas transporter, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the person who supplied him with the information.
+
+[24/2007 wef 14/02/2008]
+
+### Damage to gas plant or gas pipe
+
+32A\.—(1) Any person who wilfully or recklessly removes, destroys, damages or suffers to be damaged any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, a gas transporter or hinders or prevents the gas plant or gas pipe from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) Notwithstanding subsection (1), any person who, in the course of carrying out any earthworks, damages or suffers to be damaged any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, a gas transporter shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+
+(3) Where an offence under subsection (2) is committed by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under that subsection in the same manner and to the same extent as if he had personally committed the offence unless he proves to the satisfaction of the court that the offence was committed without his consent or connivance or that it was not attributable to any neglect on his part.
+
+(4) In any proceedings for an offence under subsection (2), it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(5) If in any proceedings for an offence under subsection (2), the defence involves acting on information supplied by a gas transporter, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the person who supplied him with the information.
+
+(6) Any person may apprehend any other person if the other person within his view commits an offence under this section and shall, on such apprehension, hand over the person so apprehended to a police officer without unreasonable delay.
+
+[24/2007 wef 14/02/2008]
 
 ### Special administration order
 
@@ -1832,7 +1932,7 @@ any person authorised by the gas transporter may immediately and without notice 
 
 [24/2007 wef 11/06/2007]
 
-57\. [Deleted by Act 24/2007 wef 08/06/2007]
+57\. [Repealed by Act 24/2007 wef 08/06/2007]
 
 ### Entry for replacing, repairing or altering pipes
 
@@ -2782,13 +2882,17 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 84\.—(1) An Appeal Panel established by the Minister under section 83(3) or 93(4) shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
 
-(2) The Minister may, in the direction establishing the Appeal Panel under section 83(3) or 93 (4), provide for —
+[24/2007 wef 11/06/2007]
+
+(2) The Minister may, in the direction establishing the Appeal Panel under section 83(3) or 93(4), provide for —
 
 (a) the terms and conditions of the membership of the Appeal Panel as the Minister considers appropriate;
 
 (b) the procedure to be adopted by the Appeal Panel in considering any matter referred to it; and
 
 (c) any other matters which the Minister considers incidental or expedient for the proper and efficient conduct of an appeal by the Appeal Panel.
+
+[24/2007 wef 11/06/2007]
 
 (3) The remuneration and allowances, if any, of a member of an Appeal Panel shall be determined by the Minister and shall form part of the expenses of the Authority.
 
@@ -3126,6 +3230,8 @@ TRANSITIONAL PROVISIONS
 
 99\.—(1) Except as may be prescribed by the Minister, all deeds, bonds, agreements and other arrangements subsisting immediately prior to the date determined by the Minister under section 98(1) affecting any property, rights, obligations and liabilities transferred under that section shall continue in full force and effect on and after that date and shall be enforceable by or against the transferee undertaking to which the transfer was made as if instead of the transferor undertaking the transferee undertaking was named therein or had been a party thereto.
 
+[24/2007 wef 11/06/2007]
+
 (1A) Notwithstanding subsection (1), any right, obligation or liability as may have accrued under any deed, bond, agreement or other arrangement to which subsection (1) applies prior to the date determined by the Minister under section 98(1) shall continue to be enforceable by or against the transferor undertaking and not by or against the transferee undertaking.
 
 [24/2007 wef 11/06/2007]
@@ -3204,7 +3310,7 @@ Gas Act
 
 (CHAPTER 116A)
 
-This Legislative History is provided for the convenience of users of the Gas Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Gas Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3240,3 +3346,13 @@ This Legislative History is provided for the convenience of users of the Gas Act
 |||(Bill No. 18/2007 published on 11 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|11 June 2007 (Sections 2 to 6, 8 to 13, 15 to 35 and 37)|
+|8.|**Act 24 of 2007—Gas (Amendment) Act 2007**|
+||Date of First Reading|10 April 2007|
+|||(Bill No. 18/2007 published on 11 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|14th February 2008 (Sections 7 and 14)|
+|9.|**Act 11 of 2001—Gas Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 10/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|14th February 2008|
