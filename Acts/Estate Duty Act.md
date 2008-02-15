@@ -12,6 +12,8 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Application](#Application)
+
 - [3 Presumptions](#Presumptions)
 
 - [4 Appointment of Commissioner, etc.](#Appointment-of-Commissioner-etc)
@@ -140,21 +142,21 @@
 
 - [59 Rules](#Rules)
 
-[**FIRST SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977**](#FIRST-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1974-and-Before-1ST-April-1977)
+[**FIRST SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1974 and before 1st April 1977**](#FIRST-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1974-and-before-1st-April-1977)
 
-[**SECOND SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1979**](#SECOND-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1979)
+[**SECOND SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1977 and before 1st April 1979**](#SECOND-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1977-and-before-1st-April-1979)
 
-[**THIRD SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1979 and Before 1ST April 1984**](#THIRD-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1979-and-Before-1ST-April-1984)
+[**THIRD SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1979 and before 1st April 1984**](#THIRD-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1979-and-before-1st-April-1984)
 
-[**FOURTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 1ST April 1984 and Before 28TH February 1996**](#FOURTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1984-and-Before-28TH-February-1996)
+[**FOURTH SCHEDULE Rates of estate duty in the case of persons dying on or after 1st April 1984 and before 28th Febuary 1996**](#FOURTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1984-and-before-28th-Febuary-1996)
 
-[**FIFTH SCHEDULE Rates of Estate Duty in the Case of Persons Dying on or After 28TH February 1996**](#FIFTH-SCHEDULE-Rates-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-28TH-February-1996)
+[**FIFTH SCHEDULE Rates of estate duty in the case of persons dying on or after 28th Febuary 1996 and before 15th Febuary 2008**](#FIFTH-SCHEDULE-Rates-of-estate-duty-in-the-case-of-persons-dying-on-or-after-28th-Febuary-1996-and-before-15th-Febuary-2008)
 
-[**SIXTH SCHEDULE Rates of Interest**](#SIXTH-SCHEDULE-Rates-of-Interest)
+[**SIXTH SCHEDULE Rates of interest**](#SIXTH-SCHEDULE-Rates-of-interest)
 
-[**SEVENTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1974 and Before 1ST April 1977**](#SEVENTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1974-and-Before-1ST-April-1977)
+[**SEVENTH SCHEDULE Rates of remission of estate duty in the case of persons dying on or after 1st April 1974 and before 1st April 1977**](#SEVENTH-SCHEDULE-Rates-of-remission-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1974-and-before-1st-April-1977)
 
-[**EIGHTH SCHEDULE Rates of Remission of Estate Duty in the Case of Persons Dying on or After 1ST April 1977 and Before 1ST April 1984**](#EIGHTH-SCHEDULE-Rates-of-Remission-of-Estate-Duty-in-the-Case-of-Persons-Dying-on-or-After-1ST-April-1977-and-Before-1ST-April-1984)
+[**EIGHTH SCHEDULE Rates of remission of estate duty in the case of persons dying on or after 1st April 1977 and before 1st April 1984**](#EIGHTH-SCHEDULE-Rates-of-remission-of-estate-duty-in-the-case-of-persons-dying-on-or-after-1st-April-1977-and-before-1st-April-1984)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -224,6 +226,12 @@ PRELIMINARY
 
 [42/98; 30/2000]
 
+### Application
+
+2A\. This Act shall apply only in relation to persons dying before 15th February 2008.
+
+[13/2008 wef 15/02/2008]
+
 ### Presumptions
 
 3\. For the purpose of this Act —
@@ -264,11 +272,13 @@ ESTATE DUTY
 
 (d) in the case of any person dying on or after 1st April 1984 and before 28th February 1996 — at the rates specified in the Fourth Schedule;
 
-(e) in the case of any person dying on or after 28th February 1996 — at the rates specified in the Fifth Schedule.
-
-[UK Finance 1894, s. 1]
+(e) in the case of any person dying on or after 28th February 1996 and before 15th February 2008 — at the rates specified in the Fifth Schedule.
 
 [16/74; 12/78; 10/80; 14/84; 27/96]
+
+[13/2008 wef 15/02/2008]
+
+[UK Finance 1894, s. 1]
 
 ### Remission of estate duty
 
@@ -278,11 +288,17 @@ ESTATE DUTY
 
 (b) more than $25,000, that part of the estate duty payable in respect of such property which is in excess of the amount equivalent to the difference between the principal value of such property and the amount of $25,000 shall be remitted as in the following formula:
 
-where A is the amount of the estate duty payable on the principal value of the property;
+where A
 
-B is the amount by which the value of the estate exceeds $25,000; and
+is the amount of the estate duty payable on the principal value of the property;
 
-C is the amount of the estate duty to be remitted.
+B
+
+is the amount by which the value of the estate exceeds $25,000; and
+
+C
+
+is the amount of the estate duty to be remitted.
 
 [12/78]
 
@@ -307,6 +323,8 @@ C is the amount of the estate duty to be remitted.
 (i) in the case of any gift inter vivos made for public or charitable purposes, the words “5 years” in this paragraph shall be read as “12 months”;
 
 (ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are made to the Government or any institution of a public character within the meaning of the Charities Act (Cap. 37), or which are proved to the satisfaction of the Commissioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
+
+[10/2007 wef 01/03/2007]
 
 (d) property which the deceased, having been absolutely entitled thereto, has caused to be transferred to or vested in himself and any other person jointly, whether by disposition or otherwise, including also any purchase or investment effected by the deceased alone or in concert or by arrangement with any other person, so that the beneficial interest therein or in some part thereof passes or accrues by survivorship on his death to such other person;
 
@@ -406,6 +424,8 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 [12/78; 42/98]
 
+[10/2007 wef 01/03/2007]
+
 (2) No estate duty shall be payable in respect of any monument that is the subject of a preservation order made under section 8 of the Preservation of Monuments Act (Cap. 239).
 
 ### Gifts to Government or institutions of public character
@@ -421,6 +441,8 @@ where the purchase was made, or the lease or annuity granted, for full considera
 and the value of the property passing on the death of the person shall be deemed not to include the value of the gift for the purpose of assessing the rate of estate duty.
 
 [32/2002]
+
+[10/2007 wef 01/03/2007]
 
 (2) For the purpose of subsection (1), the value of any gift of any property passing on the death of a person shall be the market value of the gift at the time of the death of the person.
 
@@ -510,9 +532,7 @@ and the amount thereof shall not form part of the principal value of the estate 
 
 (a) used wholly or partly for the purposes of any trade, business, profession or vocation by any person at the time of death of the deceased; or
 
-(b) passing on the death of the deceased by virtue of section 7(1)(c),
-
-shall not qualify for relief under subsection (1)(a), (2)(a), (3)(a) or (4)(a).
+(b) passing on the death of the deceased by virtue of section 7(1)(c),shall not qualify for relief under subsection (1)(a), (2)(a), (3)(a) or (4)(a).
 
 [14/84; 27/96]
 
@@ -538,7 +558,7 @@ shall not qualify for relief under subsection (1)(a), (2)(a), (3)(a) or (4)(a).
 
 “Central Provident Fund” means the Central Provident Fund established under the Central Provident Fund Act (Cap. 36);
 
-“designated pension or provident fund” means designated pension or provident fund within the meaning of section 39(2) (g) of the Income Tax Act (Cap. 134);
+“designated pension or provident fund” means designated pension or provident fund within the meaning of section 39(2)(g) of the Income Tax Act (Cap. 134);
 
 “dwelling-house” includes any building or tenement, or any part thereof, which is used, constructed or adapted to be used for human habitation; but does not include any dwelling-house used wholly or partly as a hostel or quarters or for such other purpose as may be prescribed.
 
@@ -810,9 +830,9 @@ AGGREGATION AND VALUE OF PROPERTY
 
 (b) in the case of a person dying on or after 1st January 2005, is $6,000.
 
-[UK Finance 1894, s. 7]
-
 [51/2004]
+
+[UK Finance 1894, s. 7]
 
 ### Deduction of duty paid in other countries
 
@@ -1288,17 +1308,17 @@ FIRST SCHEDULE
 
 Section 5(a)
 
-Rates of Estate Duty in the Case of
+Rates of estate duty in the case of
 
 
 
 
-Persons Dying on or After
+persons dying on or after
 
 
 
 
-1ST April 1974 and Before 1ST April 1977
+1st April 1974 and before 1st April 1977
 
 Principal value of the estate
 
@@ -1370,17 +1390,17 @@ SECOND SCHEDULE
 
 Section 5(b)
 
-Rates of Estate Duty in the Case of
+Rates of estate duty in the case of
 
 
 
 
-Persons Dying on or After
+persons dying on or after
 
 
 
 
-1ST April 1977 and Before 1ST April 1979
+1st April 1977 and before 1st April 1979
 
 Principal value of the estate
 
@@ -1452,17 +1472,17 @@ THIRD SCHEDULE
 
 Section 5(c)
 
-Rates of Estate Duty in the Case of
+Rates of estate duty in the case of
 
 
 
 
-Persons Dying on or After
+persons dying on or after
 
 
 
 
-1ST April 1979 and Before 1ST April 1984
+1st April 1979 and before 1st April 1984
 
 Principal value of the estate
 
@@ -1530,17 +1550,17 @@ FOURTH SCHEDULE
 
 Section 5(d)
 
-Rates of Estate Duty in the Case of
+Rates of estate duty in the case of
 
 
 
 
-Persons Dying on or After
+persons dying on or after
 
 
 
 
-1ST April 1984 and Before 28TH February 1996
+1st April 1984 and before 28th February 1996
 
 Principal value of the estate
 
@@ -1556,19 +1576,24 @@ For every dollar exceeding $10,000,000
 
 FIFTH SCHEDULE
 
-Section 5 (e)
+Section 5(e)
 
-Rates of Estate Duty in the Case of
-
-
-
-
-Persons Dying on or After
+Rates of estate duty in the case of
 
 
 
 
-28TH February 1996
+persons dying on or after
+
+
+
+
+28th February 1996
+
+
+
+
+and before 15th February 2008
 
 Principal value of the estate
 
@@ -1582,11 +1607,13 @@ For every dollar exceeding $12,000,000
 
 10%
 
+[13/2008 wef 15/02/2008]
+
 SIXTH SCHEDULE
 
 Sections 36(1) and (6) and 46(1)
 
-Rates of Interest
+Rates of interest
 
 Person dying
 
@@ -1678,17 +1705,17 @@ SEVENTH SCHEDULE
 
 Section 6(2)
 
-Rates of Remission of Estate Duty
+Rates of remission of estate duty
 
 
 
 
-in the Case of Persons Dying on or After
+in the case of persons dying on or after
 
 
 
 
-1ST April 1974 and Before 1ST April 1977
+1st April 1974 and before 1st April 1977
 
 Principal value of the estate in excess of $50,000
 
@@ -1741,17 +1768,17 @@ EIGHTH SCHEDULE
 
 Section 6(3)
 
-Rates of Remission of Estate Duty
+Rates of remission of estate duty
 
 
 
 
-in the Case of Persons Dying on or After
+in the case of persons dying on or after
 
 
 
 
-1ST April 1977 and Before 1ST April 1984
+1st April 1977 and before 1st April 1984
 
 Principal value of the estate
 
@@ -1806,7 +1833,7 @@ Estate Duty Act
 
 (CHAPTER 96)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 UK Customs and Inland Revenue 1881
 
@@ -1850,7 +1877,7 @@ Estate Duty Act
 
 (CHAPTER 96)
 
-This Legislative History is provided for the convenience of users of the Estate Duty Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Estate Duty Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2014,6 +2041,11 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||(Bill No. 22/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|1 March 2007|
+|38.|**Act 13 of 2008—Estate Duty (Abolition) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 12/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|15 February 2008|
 ## COMPARATIVE TABLE
 
 Estate Duty Act
@@ -2088,15 +2120,11 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (3)
 
-COMPARATIVE TABLE
-
 ## COMPARATIVE TABLE
 
 Estate Duty Act
 
 (CHAPTER 96)
-
-ESTATE DUTY ACT (CHAPTER 96, 2001 EDITION) 
 
 The following provisions in the 1997 Revised Edition of the Estate Duty Act were renumbered by the Law Revision Commissioners in the 2001 Revised Edition.
 
@@ -2106,7 +2134,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1997 Ed\. 
 
-5 (Repealed by Act 302000)
+—
+
+5 (Repealed by Act 30/2000)
 
 5 
 
@@ -2144,9 +2174,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 13A 
 
-14 (4)
+14 —(4)
 
-14 (3A)
+14 —(3A)
 
 (5)
 
@@ -2168,29 +2198,33 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (7)
 
-28 (5)
+28 —(5)
 
-28 (6)
+28 —(6)
 
 (6)
 
 (5)
 
-35 (9) and (10)
+35 —(9) and (10)
 
-35 (9)
+35 —(9)
 
 (11)
 
 (10)
 
-39 (5) (Deleted by Act 302000)
+—
 
-39 (5) to (10)
+39 —(5) (Deleted by Act 30/2000)
 
-39 (6) to (11)
+39 —(5) to (10)
 
-40 (Repealed by Act 4298)
+39 —(6) to (11)
+
+—
+
+40 (Repealed by Act 42/98)
 
 40 
 
@@ -2244,9 +2278,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 53 
 
-53 (1) and (2)
+53 —(1) and (2)
 
-54 (1) and (2)
+54 —(1) and (2)
 
 Omitted
 
@@ -2274,11 +2308,13 @@ Omitted
 
 59 
 
-60 (1)
+60 —(1)
 
 Omitted
 
 (2)
 
-Ninth Schedule (Deleted by Act 4298)
+—
+
+Ninth Schedule (Deleted by Act 42/98)
 
