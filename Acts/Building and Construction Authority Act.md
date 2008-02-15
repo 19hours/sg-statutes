@@ -260,6 +260,10 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (e) prescribe training requirements for the construction industry, provide training, conduct tests and award diplomas and certificates of proficiency;
 
+(ea) register construction tradesmen, construction foremen and construction supervisors of suitable qualifications and experience with a view to raising standards of performance in construction services in Singapore;
+
+[47/2007 wef 15/02/2008]
+
 (f) collaborate with other companies or institutions to organise seminars, workshops, conferences, courses or other training programmes and share profits;
 
 (g) provide technical advice or assistance, including training facilities, to personnel of related organisations in other countries;
@@ -532,6 +536,13 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 43/2004 published on 12 November 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 47 of 2007—Building Control (Amendment) Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 34/2007 published on 1 February 2008)|
+||Date of Second and Third Readings|20 September 2007|
+||Dates of commencement|Date of coming into operation: 15th February 2008|
+|||Date of coming into operation: 1st October 2008 (section 2(r))|
+|||Date of coming into operation: 16th December 2008 (Section 9)|
 ## COMPARATIVE TABLE
 
 Building and Construction Authority Act
