@@ -498,7 +498,21 @@ and includes a lot specified as an accessory lot on any such plan;
 
 “parcel” means the whole of any land, building and common property comprised or to be comprised in a strata title plan;
 
-“person responsible”, in relation to an exterior feature, has the same meaning as in the Building Control Act (Cap. 29) except that in the case of any exterior feature that is within the common property of a Town established under the Town Councils Act (Cap. 329A), the person responsible for that exterior feature means the Town Council for that Town;
+“person responsible”, in relation to an exterior feature of a building, means —
+
+(a) except as otherwise provided by paragraph (b), (c) or (d), the owner of the premises or building which the exterior feature is installed on, forms part of or projects outwards from, or such other person who has charge and control of the management and maintenance of the exterior feature;
+
+(b) subject to paragraph (c), where the exterior feature is part of any common property or limited common property —
+
+(i) in the case of common property of any housing estate of the Housing and Development Board — the Town Council established under the Town Councils Act (Cap. 329A) for that housing estate or the contractor (if any) engaged by the Town Council and who has charge and control of the management and maintenance of the common property; or
+
+(ii) in the case of common property or limited common property of any other land (whether or not comprised in a strata title plan) — the owner thereof or the managing agent (if any) appointed by the owner and who has charge and control of the management and maintenance of the common property or limited common property, unless otherwise provided by paragraph (d);
+
+(c) where the exterior feature is a window, grille or shutter that is part of a flat — the owner of that flat or other person who ordinarily has daily charge and control over the maintenance and use of such window, grille or shutter; or
+
+(d) such other person as may be prescribed as the person responsible for the exterior feature;
+
+[47/2007 wef 15/02/2008]
 
 “planning permission” has the same meaning as in the Planning Act (Cap. 232);
 
@@ -710,13 +724,25 @@ as the case may be.
 
 9\.—(1) Any person responsible for an exterior feature of a building who, without reasonable excuse, fails to keep or maintain the exterior feature in such manner as to be securely fixed to the building and as will prevent any collapse, partly or wholly, of such exterior feature or its support shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) In any proceedings for an offence under this section, it shall be presumed, in the absence of proof to the contrary, that the person responsible for an exterior feature of a building has failed to maintain the exterior feature in such manner as to be securely fixed to the building and as will prevent any collapse, partly or wholly, of such exterior feature or its support, if it is proved —
+(2) In any proceedings for an offence under this section, it shall be presumed, in the absence of proof to the contrary, that the person responsible for an exterior feature of a building has failed to keep or maintain the exterior feature in such manner as to be securely fixed to the building and as will prevent any collapse, partly or wholly, of such exterior feature or its support, if it is proved —
 
 (a) that the exterior feature or part thereof has collapsed or fallen; and
 
 (b) that there is damage to, deterioration or other disrepair of the exterior feature or its support not caused by accident or acts of nature, including but not limited to fire, explosion, windstorm, hail, lightning, falling trees, aircraft, vehicles, flood, earthquake or landslide.
 
 (3) If a person is charged with an offence under subsection (1), it shall be a defence for him to prove that there is a defect in any part, or the whole, of such exterior feature or its support caused by materials or work supplied by anyone other than the person responsible.
+
+(4) Without prejudice to subsection (3), a person responsible for an exterior feature shall not, by virtue of subsection (1), be guilty of an offence under that subsection if —
+
+(a) within 7 days after service on him of any notice alleging that he has been guilty of such offence, he furnishes by statutory declaration to the Commissioner, the name and address of the contractor, managing agent or other person appointed by the person responsible to manage and maintain the exterior feature at all relevant times relating to the offence concerned; and
+
+(b) he satisfies the court that he relied, in good faith and after making proper inquiry (if the circumstances indicated the need for inquiry of the advice or services), on professional or expert advice or other services given or rendered by the contractor, managing agent or other person in relation to the exterior feature concerned.
+
+[47/2007 wef 15/02/2008]
+
+(5) A statutory declaration made under subsection (4) if produced in any proceedings against the person named therein and in respect of the offence concerned shall be prima facie evidence that the person had charge and control of the management and maintenance of the exterior feature at all relevant times relating to that offence.
+
+[47/2007 wef 15/02/2008]
 
 ## PART IV
 
@@ -2362,7 +2388,7 @@ whichever first occurs.
 
 (a) where the managing agent is appointed under subsection (1)(a) — by the management corporation at a general meeting or, if so authorised by the subsidiary proprietors at the last preceding general meeting, by the council of the management corporation;
 
-(b) where the managing agent is appointed under subsection (1)(b) or (c) — by the council of the management corporation without a general meeting.
+(b) where the managing agent is appointed under subsection (1)(b) — by the council of the management corporation without a general meeting.
 
 (4) A managing agent who is in any way, directly or indirectly, related to a subsidiary proprietor of a lot in the subdivided building concerned shall declare in writing the nature of his relationship prior to his appointment.
 
@@ -2444,7 +2470,7 @@ the provision shall, while the delegation remains in force, be construed as if a
 
 (b) an increase in the remuneration of the proxy;
 
-(c) a decision of the owners corporation not to proceed with, to withdraw, to delay, to compromise or to settle litigation or other legal proceedings relating to the proxy; or
+(c) a decision of the management corporation not to proceed with, to withdraw, to delay, to compromise or to settle litigation or other legal proceedings relating to the proxy; or
 
 (d) any other decision of the management corporation that affects litigation or other legal proceedings relating to the proxy.
 
@@ -2568,7 +2594,7 @@ Subsidiary management corporations and limited common property
 
 ### Limited common property and subsidiary management corporations allowed
 
-77\.—(1) Subject to subsection (3), a strata title plan may have limited common property and one or more subsidiary management corporations only for the purpose of representing the different interests of —
+77\.—(1) A, a strata title plan may have limited common property and one or more subsidiary management corporations only for the purpose of representing the different interests of —
 
 (a) subsidiary proprietors of residential lots and subsidiary proprietors of non-residential lots;
 
@@ -3582,7 +3608,7 @@ any document or other record relating to the financial affairs or transactions o
 
 ### Transitional and savings provisions
 
-139\.—(1) Except as otherwise expressly provided in the Fourth Schedule to this Act or in regulations made under this section —
+139\.—(1) Except as otherwise expressly provided in the Fourth Schedule to this Act —
 
 (a) the provisions of this Act shall apply to buildings comprised in any strata title plan registered under the Land Titles (Strata) Act before the commencement of section 138; and
 
