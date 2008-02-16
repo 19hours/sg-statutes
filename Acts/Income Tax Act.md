@@ -90,13 +90,13 @@
 
 - [13I Exemption of certain dividends of Singapore Exchange Derivatives Trading Limited](#Exemption-of-certain-dividends-of-Singapore-Exchange-Derivatives-Trading-Limited)
 
-- [13J Exemption of tax on gains or profits from entrepreneurial employee equity-based remuneration scheme](#Exemption-of-tax-on-gains-or-profits-from-entrepreneurial-employee-equity-based-remuneration-scheme)
+- [13J Exemption of tax on gains or profits from equity remuneration incentive scheme (SMEs)](#Exemption-of-tax-on-gains-or-profits-from-equity-remuneration-incentive-scheme-SMEs)
 
 - [13K Exemption of certain dividends of Singapore Exchange Derivatives Clearing Limited](#Exemption-of-certain-dividends-of-Singapore-Exchange-Derivatives-Clearing-Limited)
 
-- [13L Exemption of tax on gains or profits from company employee equity-based remuneration scheme](#Exemption-of-tax-on-gains-or-profits-from-company-employee-equity-based-remuneration-scheme)
+- [13L Exemption of tax on gains or profits from equity remuneration incentive scheme](#Exemption-of-tax-on-gains-or-profits-from-equity-remuneration-incentive-scheme)
 
-- [13M (Repealed)](#Repealed)
+- [13M Exemption of tax on gains or profits from equity remuneration incentive scheme (start-ups)](#Exemption-of-tax-on-gains-or-profits-from-equity-remuneration-incentive-scheme-start-ups)
 
 - [13N Exemption of tax on income derived by non-ordinarily resident individual](#Exemption-of-tax-on-income-derived-by-non-ordinarily-resident-individual)
 
@@ -151,6 +151,8 @@
 - [14O Deduction for special reserve of approved general insurer](#Deduction-for-special-reserve-of-approved-general-insurer)
 
 - [14P Deduction for treasury shares transferred under employee equity- based remuneration scheme](#Deduction-for-treasury-shares-transferred-under-employee-equity--based-remuneration-scheme)
+
+- [14Q Deduction for renovation or refurbishment expenditure](#Deduction-for-renovation-or-refurbishment-expenditure)
 
 - [15 Deductions not allowed](#Deductions-not-allowed)
 
@@ -2317,6 +2319,38 @@ by —
 
 (ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
+(bc) subject to subsection (2H) and such conditions as may be prescribed by regulations —
+
+(i) the interest, discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying debt securities (excluding Singapore Government Securities) which —
+
+(A) are issued during the period from 16th February 2008 to 31st December 2013;
+
+(B) have an original maturity of not less than 10 years;
+
+(C) cannot be redeemed, called, exchanged or converted within 10 years from the date of their issue; and
+
+(D) cannot be re-opened with a resulting tenure of less than 10 years to the original maturity date; and
+
+(ii) such other income, as may be prescribed by regulations, derived by any person that is directly attributable to qualifying debt securities (excluding Singapore Government Securities) which —
+
+(A) are issued on or after such date as may be prescribed by regulations;
+
+(B) have an original maturity of not less than 10 years;
+
+(C) cannot be redeemed, called, exchanged or converted within 10 years from the date of their issue; and
+
+(D) cannot be re-opened with a resulting tenure of less than 10 years to the original maturity date;
+
+[34/2008 wef 16/02/2008]
+
+(bd) subject to subsection (2I) and such conditions as may be prescribed by regulations, any amount payable to any person from any Islamic debt securities —
+
+(i) which are qualifying debt securities and issued during the period from 16th February 2008 to 31st December 2013; and
+
+(ii) the amount payable from which is not deductible against any income of the issuer of those securities accruing in or derived from Singapore;
+
+[34/2008 wef 16/02/2008]
+
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
 (d) any gains or profits, other than dividends derived from Singapore from which tax has been deducted under section 44, arising from sums standing in the SRS account of any SRS member except where section 10L(13) applies;
@@ -2547,7 +2581,7 @@ if the securities are held by less than 4 persons at any time during the life of
 
 [53/2007]
 
-(2E) Regulations made under subsection (1)(b) may provide for the determination of the amount of income of the person to be exempted and for the deduction of expenses, allowances, losses and donations of the person otherwise than in accordance with this Act.
+(2E) Regulations made under subsection (1)(b), (bc) and (bd) may provide for the determination of the amount of income of the person to be exempted and for the deduction of expenses, allowances, losses and donations of the person otherwise than in accordance with this Act.
 
 [34/2008 wef 16/02/2008]
 
@@ -2576,6 +2610,26 @@ if the securities are held by less than 4 persons at any time during the life of
 (ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
 [53/2007]
+
+(2H) Subsection (1)(bc) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest, discount, prepayment fee, redemption premium or break cost derived from any qualifying debt securities or such other income directly attributable to qualifying debt securities as may be prescribed by regulations under that provision where —
+
+(a) 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities; and
+
+(b) such income is derived by —
+
+(i) any related party of the issuer of those securities; or
+
+(ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[34/2008 wef 16/02/2008]
+
+(2I) Subsection (1)(bd) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any amount payable from any Islamic debt securities which are qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where the amount is payable to —
+
+(a) any related party of the issuer of those securities; or
+
+(b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[34/2008 wef 16/02/2008]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -3491,7 +3545,7 @@ ought not to have been so exempted or taxed at a concessionary rate for any year
 
 [24/2000]
 
-### Exemption of tax on gains or profits from entrepreneurial employee equity-based remuneration scheme
+### Exemption of tax on gains or profits from equity remuneration incentive scheme (SMEs)
 
 13J\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st June 2000, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company, there shall, subject to this section, be exempt from tax 50% of an amount of such gains or profits as determined under subsection (2).
 
@@ -3607,9 +3661,9 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 [24/2001]
 
-### Exemption of tax on gains or profits from company employee equity-based remuneration scheme
+### Exemption of tax on gains or profits from equity remuneration incentive scheme
 
-13L\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st April 2001, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company under a company employee equity-based remuneration scheme, there shall, subject to this section and section 13J(6) to (9), be exempt from tax —
+13L\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st April 2001, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company under a share acquisition scheme which satisfies the relevant percentage requirement, there shall, subject to this section and section 13J(6) to (9), be exempt from tax —
 
 (a) the first $2,000 of such gains or profits in that year of assessment as determined under subsection (2); and
 
@@ -3643,13 +3697,37 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 (5) In this section, unless the context otherwise requires —
 
-“company employee equity-based remuneration scheme”, in relation to a qualifying company or its holding company, means any share acquisition scheme which satisfies the 50% requirement;
+“holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50);
 
-“50% requirement”, in relation to a company employee equity- based remuneration scheme, means in the aggregate at least 50% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under any share acquisition scheme, as ascertained in accordance with the following formula:
+“minimum holding period” has the same meaning as in section 13J;
+
+“part-time employee” means an employee of a company who is committed to work for not more than 30 hours per week (including any time he would be required to work but for injury, any official leave or such other similar event) for the company in which he is employed;
+
+“qualifying company” means a company incorporated or registered under the Companies Act which, at the time of the grant to its employees of any right or benefit to acquire its shares or that of its holding company, carries on business in Singapore;
+
+“qualifying employee” means an employee of a qualifying company who, at the time of the grant to him of any right or benefit to acquire the shares of the company or the shares of its holding company, as the case may be, does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the qualifying company which grants the right or benefit to acquire its shares;
+
+“relevant percentage requirement” —
+
+(a) in relation to any right or benefit under a share acquisition scheme to acquire the shares of a qualifying company or its holding company granted before 16th February 2008, means in the aggregate at least 50% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under that scheme, as ascertained in accordance with the specified formula; or
+
+(b) in relation to any right or benefit under a share acquisition scheme to acquire the shares of a qualifying company or its holding company granted on or after 16th February 2008, means in the aggregate at least 25% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under that scheme, as ascertained in accordance with the specified formula;
+
+[34/2008 wef 16/02/2008]
+
+“share acquisition scheme” has the same meaning as in section 13J;
+
+“shares” includes stocks but does not include redeemable or convertible shares or shares of a preferential nature;
+
+[34/2008 wef 16/02/2008]
+
+[24/2001; 37/2002]
+
+“specified formula” means the following formula:
 
 where A
 
-is the aggregate number of employees of the qualifying company who are offered during a calendar year any right or benefit to acquire shares in the qualifying company or in its holding company under any share acquisition scheme in respect of which the qualifying company has opted under section 13J(6) for tax exemption under this section and not section 13J to apply, and who are employees of that qualifying company at the time of such offer;
+is the aggregate number of employees of the qualifying company who are offered during a calendar year any right or benefit to acquire shares in the qualifying company or in its holding company under any share acquisition scheme in respect of which the qualifying company has opted under section 13J(6) for tax exemption under this section instead of section 13J to apply, and who are employees of that qualifying company at the time of such offer;
 
 B
 
@@ -3661,31 +3739,87 @@ is the number of part-time employees (other than non-executive directors) on the
 
 D
 
-is the number of full-time employees with less than one-year’s service (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
+is the number of full-time employees with less than one year’s service (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
 
 E
 
-is the number of employees engaged on contracts not exceeding 2 years (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year;
-
-“holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50);
-
-“minimum holding period” has the same meaning as in section 13J;
-
-“part-time employee” means an employee of a company who is committed to work for not more than 30 hours per week (including any time he would be required to work but for injury, any official leave or such other similar event) for the company in which he is employed;
-
-“qualifying company” means a company incorporated or registered under the Companies Act which, at the time of the grant to its employees of any right or benefit to acquire its shares or that of its holding company, carries on business in Singapore;
-
-“qualifying employee” means an employee of a qualifying company who, at the time of the grant to him of any right or benefit to acquire the shares of the company or the shares of its holding company, as the case may be, does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the qualifying company which grants the right or benefit to acquire its shares;
-
-“share acquisition scheme” has the same meaning as in section 13J;
-
-“shares” includes stocks but does not include redeemable or convertible shares or shares of a preferential nature.
+is the number of employees engaged on contracts not exceeding 2 years (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year.
 
 [34/2008 wef 16/02/2008]
 
-[24/2001; 37/2002]
+### Exemption of tax on gains or profits from equity remuneration incentive scheme (start-ups)
 
-13M\. [Repealed by Act 53/2007]
+13M\.—(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any right or benefit under any share acquisition scheme granted during the period from 16th February 2008 to 15th February 2013 (both dates inclusive) to acquire shares in any qualifying company, there shall, subject to this section, be exempt from tax 75% of an amount of such gains or profits in that year of assessment as determined under subsection (2).
+
+(2) The amount of gains or profits referred to in subsection (1) is —
+
+(a) where the price to be paid for the shares under the right or benefit is equal to or exceeds the market value or (if it is not possible to determine such value) the net asset value of the shares at the time of the grant of the right or benefit, the amount as determined under section 10(6); or
+
+(b) where the price to be paid for the shares under the right or benefit is at a discount to the market value or (if it is not possible to determine such value) the net asset value of the shares at the time of the grant of the right or benefit, the amount as determined under section 10(6) less the amount of the discount.
+
+(3) The exemption under this section shall not apply to any amount of gains or profits to which section 10(6) applies —
+
+(a) to the extent that the amount, when aggregated with the amount of such gains or profits previously derived by him and which qualifies for exemption under this section, exceeds $10 million;
+
+(b) which is derived by him on or after 16th February of the 10th year following the year in which he first derived such gains or profits which qualified for exemption under this section; or
+
+(c) which is derived by him for the release of his right or benefit to acquire shares in any qualifying company by reason of his resignation or the termination of his employment with the qualifying company due to his misconduct.
+
+(4) For the purposes of this section and section 13J, where ––
+
+(a) a company grants any right or benefit under any share acquisition scheme during the period from 16th February 2008 to 15th February 2013 (both dates inclusive) to acquire shares under a tranche of the share acquisition scheme; and
+
+(b) any gains or profits derived by a qualifying employee from any right or benefit granted under that tranche qualifies for tax exemption under this section as well as section 13J,
+
+the company shall opt for the tax exemption under this section or section 13J to apply in respect of the gains or profits relating to that tranche but not under both sections.
+
+(5) Where a company has opted under subsection (4) for tax exemption under this section to apply to the gains or profits in respect of a tranche of a share acquisition scheme, tax exemption under section 13J or 13L —
+
+(a) shall, subject to paragraph (b), not be available in respect of any right or benefit to acquire shares granted by the company under any tranche subsequent to that tranche under the share acquisition scheme; and
+
+(b) shall be available in respect of any right or benefit to acquire shares granted subsequent to the option by the company under any tranche under the share acquisition scheme only where the conditions for tax exemption under this section are not satisfied in respect of any such subsequent tranche granted.
+
+(6) The Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
+
+(7) In this section —
+
+“minimum holding period” —
+
+(a) in relation to a right or benefit to acquire shares in a qualifying company under any stock option scheme, means the period prescribed by the Singapore Exchange during which no option may be exercised under a stock option scheme implemented by any company listed on that Exchange, which would have been applicable to the stock option granted by the qualifying company if it were a company listed on that Exchange;
+
+(b) in relation to a right or benefit to acquire shares in a qualifying company under any share acquisition scheme (other than a stock option scheme), means —
+
+(i) a period of at least one year after the grant of the right or benefit, during which the shares so acquired may not be sold, if the price to be paid for the shares under the right or benefit is at a discount to the market value or, if it is not possible to determine such value, the net asset value of the shares at the time of the grant of the right or benefit; or
+
+(ii) a period of at least 6 months after the grant of the right or benefit, during which the shares so acquired may not be sold, if the price to be paid for the shares under the right or benefit is equal to or exceeds the market value or, if it is not possible to determine such value, the net asset value of the shares at the time of the grant of the right or benefit;
+
+“qualifying company” means a company incorporated in Singapore which, at the time of the grant to its employees of any right or benefit to acquire its shares —
+
+(a) carries on business in Singapore;
+
+(b) has been incorporated for 3 years or less;
+
+(c) has its total share capital beneficially held directly by no more than 20 shareholders —
+
+(i) all of whom are individuals; or
+
+(ii) at least one of whom is an individual holding at least 10% of the total number of issued ordinary shares of the qualifying company; and
+
+(d) has gross assets the market value of which does not exceed $100 million;
+
+“qualifying employee” means an employee (other than any non-executive director) of a company, who at the time of the grant to him of any right or benefit to acquire the shares of the company —
+
+(a) is committed to work at least 30 hours per week for the company in which he is employed or, if he is committed to work less than such number of hours, is committed to work at least 75% of his total working time per week for the company; and
+
+(b) does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the company which grants the right or benefit to acquire its shares;
+
+“share acquisition scheme” means a scheme which imposes a minimum holding period requirement and allows an employee of a company to own or purchase shares in a qualifying company, including stock options, share awards and other similar forms of employee share purchase plans but excluding phantom shares rights, share appreciation rights and any other similar rights;
+
+“shares” includes stocks but does not include redeemable or convertible shares or shares of a preferential nature;
+
+“total working time”, in relation to a qualifying employee, means the total period of time spent by him as an employee for all his employers plus, if applicable, the total period of time, which shall be deemed to be 10 hours per week, spent by him on remunerative work as a self-employed person.
+
+[34/2008 wef 16/02/2008]
 
 ### Exemption of tax on income derived by non-ordinarily resident individual
 
@@ -5537,7 +5671,7 @@ and the amount of the reduction shall be debited to the account.
 
 (a) no deduction shall be allowed to the holding company under subsection (1);
 
-(b) if any amount is paid or payable by the subsidiary company to the holding company for the transfer of the treasury shares, there shall be allowed to the subsidiary company, on the date of the transfer of the shares or of the payment to the holding company for the shares, whichever is the later, a deduction under subsection (1) for the amount, or an amount equal to the cost to the holding company of acquiring the treasury shares transferred to that person as determined under less any amount payable by that person for the treasury shares, whichever is the less; and
+(b) if any amount is paid or payable by the subsidiary company to the holding company for the transfer of the treasury shares, there shall be allowed to the subsidiary company, on the date of the transfer of the shares or of the payment to the holding company for the shares, whichever is the later, a deduction under subsection (1) for the amount, or an amount equal to the cost to the holding company of acquiring the treasury shares transferred to that person as determined under subsection (8A) less any amount payable by that person for the treasury shares, whichever is the less; and
 
 [34/2008 wef 13/02/2007]
 
@@ -5570,6 +5704,50 @@ and the amount of the reduction shall be debited to the account.
 (b) the aggregate period of all intervals in a basis period would be equal to the basis period.
 
 [7/2007]
+
+### Deduction for renovation or refurbishment expenditure
+
+14Q\.—(1) Subject to this section, where any person carrying on a trade, profession or business has incurred during the period from 16th February 2008 to 15th February 2013 (both dates inclusive), expenditure on any renovation or refurbishment works for the purposes of that trade, profession or business (referred to in this section as renovation or refurbishment expenditure), he may claim a deduction in respect of the renovation or refurbishment expenditure in accordance with this section.
+
+(2) Any claim for renovation or refurbishment expenditure under this section shall be made at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the expenditure is incurred or within such further time as the Comptroller may, in his discretion, allow.
+
+(3) For the purposes of subsection (1) and subject to subsections (7), (8) and (9), a deduction is allowed for one-third of the renovation or refurbishment expenditure for the basis period in which the expenditure was incurred and the balance is to be allowed by 2 equal deductions, one for each of the basis periods for the next 2 succeeding years of assessment.
+
+(4) For the purposes of this section, any renovation or refurbishment expenditure incurred by any person prior to the commencement of his trade, profession or business shall be deemed to have been incurred by that person on the first day he carries on that trade, profession or business.
+
+(5) Where it appears to the Comptroller that a deduction under this section which has been allowed to any person in any year of assessment ought not to have been allowed by virtue of subsection (9)(a), there shall be deemed to be income of the person chargeable to tax, for the year of assessment in which the Comptroller discovers the incorrect claim, an amount equal to such deduction.
+
+(6) A deduction under this section shall be made against income from the trade, profession or business for which the renovation or refurbishment expenditure was incurred after all other deductions under this Part have been allowed.
+
+(7) A person shall not be entitled to —
+
+(a) a deduction for renovation or refurbishment expenditure under this section where a deduction or an allowance for that expenditure is allowed under any other provision of this Act;
+
+(b) a deduction for renovation or refurbishment expenditure under this section in any basis period subsequent to the basis period in which the person permanently ceases the trade, profession or business for which purpose the expenditure was incurred;
+
+(c) a deduction for any amount of renovation or refurbishment expenditure incurred by a person during a specified period that is in excess of $150,000 of such expenditure; or
+
+(d) in the case of a partner of a partnership carrying on a trade, business or profession, a deduction for any amount of renovation or refurbishment expenditure incurred by the partnership during a specified period that is in excess of $150,000 of such expenditure.
+
+(8) In subsection (7)(c) and (d), “specified period” means —
+
+(a) in the case of subsection (7)(c), a period of 3 consecutive basis periods beginning with the basis period for the year of assessment in which a deduction is first allowed to the person under this section, or any successive period of 3 consecutive basis periods; or
+
+(b) in the case of subsection (7)(d), a period of 3 consecutive basis periods beginning with the basis period for the year of assessment in which a deduction is first allowed under this section to any partner of the partnership for renovation or refurbishment expenditure incurred by the partnership, or any successive period of 3 consecutive basis periods.
+
+(9) No deduction shall be allowed to a person under this section for any renovation or refurbishment expenditure relating to —
+
+(a) unless otherwise approved by the Minister or such person as he may appoint, any renovation or refurbishment works, the plans of which require the approval of the Commissioner of Building Control under the Building Control Act (Cap. 29);
+
+(b) any designer or professional fees;
+
+(c) any antique;
+
+(d) any type of fine art, including any painting, drawing, print, calligraphy, mosaic, sculpture, pottery or art installation; and
+
+(e) such other item as may be prescribed by the Minister by regulations.
+
+[34/2008 wef 16/02/2008]
 
 ### Deductions not allowed
 
@@ -5623,7 +5801,7 @@ and the amount of the reduction shall be debited to the account.
 
 [7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O or 14P .
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14P or 14Q .
 
 [Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
@@ -7903,6 +8081,32 @@ is the total amount payable in respect of the share.
 
 [7/2007]
 
+(18A) For the purposes of subsection (3)(c)(ii), the Minister may make regulations with respect to the following matters:
+
+(a) the registration of a grant-making philanthropic organisation;
+
+(b) the deregistration of an organisation referred to in paragraph (a);
+
+(c) the issue of tax deduction receipts and maintenance of records and accounts by a registered grant-making philanthropic organisation for donations received by it and the audit of such records and accounts;
+
+(d) the requirements to be complied with by a registered grant-making philanthropic organisation;
+
+(e) any other matter for giving full effect to or for carrying out the purposes of that provision.
+
+(18B) Where a registered grant-making philanthropic organisation contravenes any regulation made under subsection (18A), being a regulation prescribed as one to which this subsection applies —
+
+(a) the organisation shall be liable to pay to the Comptroller a financial penalty of the higher of $100 and the amount ascertained by the formula
+
+(b) the Minister or such person as he may appoint may deregister the organisation.
+
+(18C) Notwithstanding anything to the contrary in this Act or any other written law, a registered grant-making philanthropic organisation shall keep and retain in safe custody all records and accounts in respect of any donation maintained under regulations made under subsection (18A), for a period of 7 years or such period as may be prescribed by regulations from the year of assessment relating to the year in which the donation is received by the organisation.
+
+(18D) In subsection (3)(c)(ii), “grant-making philanthropic organisation” means —
+
+(a) a charity registered or exempt from registration under the Charities Act (Cap. 37); or
+
+(b) a not-for-profit organisation approved under section 13U.
+
 (19) For the purposes of subsection (3)(e) —
 
 (a) the amount in respect of any donation of shares in a company or units in a unit trust listed on the Singapore Exchange shall be the price of such shares or units, as the case may be, in the open market at the last transaction of such shares or units on the date of the donation;
@@ -8183,7 +8387,11 @@ within such time and in such manner as the Comptroller may determine.
 
 (c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
-(d) any company, in respect of qualifying deductions under subsection (14) relating to any income the tax on which is remitted under the provisions of this Act, unless the Minister otherwise approves.
+(d) any company, in respect of qualifying deductions under subsection (14) relating to any income the tax on which is remitted under the provisions of this Act, unless the Minister otherwise approves ; and
+
+[34/2008 wef 16/02/2008]
+
+(e) any company, in respect of qualifying deductions under subsection (14)(b) relating to any loss arising from any unutilised deduction under section 14Q; and
 
 [34/2008 wef 16/02/2008]
 
@@ -9565,27 +9773,15 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (c) deduction of losses, capital allowances and donations otherwise than in accordance with this Act;
 
-[34/2008 wef 17/01/2008]
-
 (d) circumstances in which any losses (including impairment loss recognised under FRS 39, as defined in section 34A) incurred in respect of any facility referred to in paragraph (b), and capital allowances and donations attributable to income from such facility which has been allowed as a deduction against any income chargeable to tax, may be deemed as income chargeable to tax (at such rate as may be prescribed) for a specified basis period;
-
-[34/2008 wef 17/01/2008]
 
 (e) adjustment of any amount deemed as income chargeable to tax referred to in paragraph (d) for the specified basis period;
 
-[34/2008 wef 17/01/2008]
-
 (f) circumstances in which any income from any facility referred to in paragraph (b) to be exempt from tax, may be adjusted for any basis period in which the income from such facility is derived;
-
-[34/2008 wef 17/01/2008]
 
 (g) circumstances in which any impairment loss, bad debt or provision for doubtful debt in respect of any facility referred to in paragraph (b), which has previously been allowed as a deduction against any income chargeable to tax and which is subsequently reversed, recovered or written back, may be deemed as income chargeable to tax (at such rate as may be prescribed) for any basis period in which the reversal is recognised or the recovery or write back occurs; and
 
-[34/2008 wef 17/01/2008]
-
 (h) generally for giving full effect to or for carrying out the purposes of this section.
-
-[34/2008 wef 17/01/2008]
 
 ### Special rate of tax for non-resident shipowner or charterer or air transport undertaking
 
@@ -14296,6 +14492,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 30/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|17 January 2008 (Section 40)|
+|231.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|16 February 2008 (Section 6(c), (d), (e), 11, 12, 13, 24, 25(b), 32(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
