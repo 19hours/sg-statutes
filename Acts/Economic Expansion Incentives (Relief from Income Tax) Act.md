@@ -2702,6 +2702,10 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 43/2007 published on 22 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Date of commencement|1 January 2008|
+|40.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+||Date of First Reading|12 November 2012 (Bill No. 39/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|18 February 2008 (Sections 3(a) and (b) and 4)|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
