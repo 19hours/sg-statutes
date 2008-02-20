@@ -672,7 +672,29 @@ Section 2(2)
 
 Actions Which Also Constitute Terrorist Acts
 
+Part I
+
+Actions which also constitute terrorist acts
+
+
+
+
+with effect from 29th January 2003
+
 Any act or omission constituting an offence under the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124).
+
+Part II
+
+Actions which also constitute terrorist acts
+
+
+
+
+with effect from 20th February 2008
+
+1\. Any act or omission constituting an offence under section 3, 4, 5 or 6 of the Maritime Offences Act (Cap. 170B).
+
+2\. Any act or omission constituting an offence under section 3 of the Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007).
 
 ## LEGISLATIVE HISTORY
 
@@ -701,6 +723,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|16 May 2003|
 |4.|**2003 Revised Edition—Terrorism (Suppression of Financing) Act**|
 ||Date of operation|31 July 2003|
+|5.|**G. N. No. S 86/2008—Terrorism (Suppression of Financing) Act (Amendment of Schedule) Order 2008**|
+||Date of commencement|20 February 2008|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
