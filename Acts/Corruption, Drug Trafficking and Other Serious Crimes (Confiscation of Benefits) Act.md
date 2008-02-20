@@ -4347,8 +4347,6 @@ Contravention of order for restraint of property
 
 Part VI — Offences included as serious offences with effect from 1st February 2008
 
-[S 33/2008 wef 01/02/2008]
-
 Offences
 
 Description*
@@ -4457,6 +4455,29 @@ Making or possessing equipment for making a false instrument
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
+Part VII — Offences included as serious offences
+
+
+
+
+with effect from 20th February 2008
+
+[S 83/2008 wef 20/02/2008]
+
+Offences
+
+Description*
+
+Terrorism (Suppression of Bombings)Act 2007 (Act 50 of 2007) 
+
+355. Section 3
+
+Terrorist bombing
+
+356. Section 4
+
+Failure to disclose information about acts of terrorist bombing
+
 ## LEGISLATIVE HISTORY
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -4561,6 +4582,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Dates of commencement|1 January 2008 (except section 5)|
 |21.|**G. N. No. S 33/2008—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2008**|
 ||Date of commencement|1 February 2008|
+|22.|**G. N. No. S 83/2008—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) (No. 2) Order 2008**|
+||Date of commencement|20 February 2008|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
