@@ -18,6 +18,8 @@
 
 - [4A Specific classes of investors](#Specific-classes-of-investors)
 
+- [4B Application](#Application)
+
 [**Part II MARKETS**](#Part-II)
 
 - [5 Objectives of this Part](#Objectives-of-this-Part)
@@ -1200,11 +1202,9 @@ but does not include —
 
 (xii) an arrangement which is an arrangement, or is of a class or description of arrangements, specified by the Authority as not constituting a collective investment scheme by notice published in theGazette;
 
-“commodity”, in relation to a futures contract, means —
+“commodity”, in relation to a futures contract, means gold or any produce, item, goods, article or financial instrument, and includes an index, right or interest in such commodity other than a financial instrument; and such other index, right or interest of any nature as the Authority may, by notification in theGazette, prescribe to be a commodity;
 
-(a) a financial instrument; or
-
-(b) gold;
+[35/2007 wef 27/02/2008]
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1761,6 +1761,20 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 (2) The definitions in subsection (1) may be subject to such modifications as the Authority may prescribe for any specified provision of this Act.
 
 [1/2005]
+
+### Application
+
+4B\. This Act does not apply to ––
+
+(a) a body corporate approved as a commodity market under section 5 of the Commodity Trading Act (Cap. 48A);
+
+(b) a body corporate approved as a clearing house under section 9 of that Act; or
+
+(c) the holder of a licence issued under that Act when acting lawfully under that Act,
+
+but only to the extent that the activities carried out by such person are regulated under that Act.
+
+[35/2007 wef 27/02/2008]
 
 ## PART II
 
@@ -17188,6 +17202,7 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 23/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|17 July 2007|
 ||Date of commencement|27 August 2007|
+|||27 February 2008|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
