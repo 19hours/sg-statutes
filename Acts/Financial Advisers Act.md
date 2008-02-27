@@ -314,6 +314,10 @@ PRELIMINARY
 
 “collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
+“commodity” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[35/2007 wef 27/02/2008]
+
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “connected person”, in relation to —
@@ -3116,8 +3120,6 @@ Immunity of Authority and its employees, etc.
 
 (2) In subsection (1), “commodity futures trading adviser” and “commodity futures trading adviser’s representative” have the meanings given to those expressions in the Commodity Trading Act (Cap. 48A) in force immediately before the commencement of this provision.
 
-[35/2007 wef 27/08/2007]
-
 ### Transitional and savings provisions
 
 105\. The Authority may, by regulations, prescribe such transitional, savings and other consequential provisions as it may consider necessary or expedient.
@@ -3347,6 +3349,12 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 23/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|17 July 2007|
 ||Date of commencement|27 August 2007 (sections 26(b) and 28(c))|
+|12.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 23/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|17 July 2007|
+||Date of commencement|27 February 2008 (sections 2 to 25, 26(a), 27, 28(a) and (b) and 29)|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
