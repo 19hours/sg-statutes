@@ -288,7 +288,7 @@
 
 - [43J Concessionary rate of tax for trustee company](#Concessionary-rate-of-tax-for-trustee-company)
 
-- [43K Concessionary rate of tax for members of Commodity Futures Exchange](#Concessionary-rate-of-tax-for-members-of-Commodity-Futures-Exchange)
+- [43K Concessionary rate of tax for members of Singapore Commodity Exchange Ltd, etc.](#Concessionary-rate-of-tax-for-members-of-Singapore-Commodity-Exchange-Ltd-etc)
 
 - [43L (Repealed)](#Repealed)
 
@@ -2341,15 +2341,11 @@ by —
 
 (D) cannot be re-opened with a resulting tenure of less than 10 years to the original maturity date;
 
-[34/2008 wef 16/02/2008]
-
 (bd) subject to subsection (2I) and such conditions as may be prescribed by regulations, any amount payable to any person from any Islamic debt securities —
 
 (i) which are qualifying debt securities and issued during the period from 16th February 2008 to 31st December 2013; and
 
 (ii) the amount payable from which is not deductible against any income of the issuer of those securities accruing in or derived from Singapore;
-
-[34/2008 wef 16/02/2008]
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
@@ -2563,7 +2559,7 @@ if 50% or more of the issue of the securities is beneficially held or funded, di
 
 [34/2008 wef 16/12/2008]
 
-(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008 ; or
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; or
 
 [34/2008 wef 16/12/2008]
 
@@ -2582,8 +2578,6 @@ if the securities are held by less than 4 persons at any time during the life of
 [53/2007]
 
 (2E) Regulations made under subsection (1)(b), (bc) and (bd) may provide for the determination of the amount of income of the person to be exempted and for the deduction of expenses, allowances, losses and donations of the person otherwise than in accordance with this Act.
-
-[34/2008 wef 16/02/2008]
 
 [53/2007]
 
@@ -2621,15 +2615,11 @@ if the securities are held by less than 4 persons at any time during the life of
 
 (ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
-[34/2008 wef 16/02/2008]
-
 (2I) Subsection (1)(bd) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any amount payable from any Islamic debt securities which are qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where the amount is payable to —
 
 (a) any related party of the issuer of those securities; or
 
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
-
-[34/2008 wef 16/02/2008]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -2751,7 +2741,7 @@ the income received by a person resident in Singapore from such source in any co
 
 (ii) any other prescribed deposit; or
 
-(b) in relation to any deposit of moneys referred to in subsection (1)(t) , (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
+(b) in relation to any deposit of moneys referred to in subsection (1)(t), (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
 
 [34/2008 wef 06/12/2007]
 
@@ -3713,8 +3703,6 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 (b) in relation to any right or benefit under a share acquisition scheme to acquire the shares of a qualifying company or its holding company granted on or after 16th February 2008, means in the aggregate at least 25% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under that scheme, as ascertained in accordance with the specified formula;
 
-[34/2008 wef 16/02/2008]
-
 “share acquisition scheme” has the same meaning as in section 13J;
 
 “shares” includes stocks but does not include redeemable or convertible shares or shares of a preferential nature;
@@ -3744,8 +3732,6 @@ is the number of full-time employees with less than one year’s service (other 
 E
 
 is the number of employees engaged on contracts not exceeding 2 years (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year.
-
-[34/2008 wef 16/02/2008]
 
 ### Exemption of tax on gains or profits from equity remuneration incentive scheme (start-ups)
 
@@ -3818,8 +3804,6 @@ the company shall opt for the tax exemption under this section or section 13J to
 “shares” includes stocks but does not include redeemable or convertible shares or shares of a preferential nature;
 
 “total working time”, in relation to a qualifying employee, means the total period of time spent by him as an employee for all his employers plus, if applicable, the total period of time, which shall be deemed to be 10 hours per week, spent by him on remunerative work as a self-employed person.
-
-[34/2008 wef 16/02/2008]
 
 ### Exemption of tax on income derived by non-ordinarily resident individual
 
@@ -5747,8 +5731,6 @@ and the amount of the reduction shall be debited to the account.
 
 (e) such other item as may be prescribed by the Minister by regulations.
 
-[34/2008 wef 16/02/2008]
-
 ### Deductions not allowed
 
 15\.—(1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
@@ -5770,8 +5752,6 @@ and the amount of the reduction shall be debited to the account.
 (h) any amount paid or payable in respect of goods and services tax by the person if he, being required to be registered under the Goods and Services Tax Act (Cap. 117A), has failed to do so, or if he is entitled under that Act to credit that amount of tax as an input tax;
 
 (i) any payment to any provident, savings, widows’ and orphans’ or other society or fund, including the Supplementary Retirement Scheme, except such payments as are allowed under sections 14(1)(e) and (f) and 39(2)(g) and (o);
-
-(i) 
 
 (j) any sum referred to in section 12(6) payable by any person outside Singapore to another person outside Singapore except where the sum is exempt from tax, or tax has been deducted and accounted for under section 45;
 
@@ -5801,7 +5781,7 @@ and the amount of the reduction shall be debited to the account.
 
 [7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14P or 14Q .
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O or 14P 14Q .
 
 [Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
@@ -6061,7 +6041,7 @@ then the whole building or structure and every part thereof shall be treated as 
 
 [7/2007]
 
-(8) In this section and sections 16 and 17 —
+(8) In this section and sections 16and 17 —
 
 “capital expenditure”, in relation to the purchase of a building or structure, means the net price paid for the building or structure, but does not include the cost of land as determined to the satisfaction of the Comptroller;
 
@@ -8387,13 +8367,11 @@ within such time and in such manner as the Comptroller may determine.
 
 (c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
-(d) any company, in respect of qualifying deductions under subsection (14) relating to any income the tax on which is remitted under the provisions of this Act, unless the Minister otherwise approves ; and
+(d) any company, in respect of qualifying deductions under subsection (14) relating to any income the tax on which is remitted under the provisions of this Act, unless the Minister otherwise approves; and
 
 [34/2008 wef 16/02/2008]
 
 (e) any company, in respect of qualifying deductions under subsection (14)(b) relating to any loss arising from any unutilised deduction under section 14Q; and
-
-[34/2008 wef 16/02/2008]
 
 [37/2002; 11/2004; 7/2007]
 
@@ -10045,13 +10023,13 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [7/2007]
 
-### Concessionary rate of tax for members of Commodity Futures Exchange
+### Concessionary rate of tax for members of Singapore Commodity Exchange Ltd, etc.
 
-43K\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a member of a prescribed Commodity Futures Exchange derived from transactions in specified commodity futures on any specified exchange or in any specified market with —
+43K\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a member of the Corporation known as the Singapore Commodity Exchange Ltd or any other prescribed exchange derived from transactions in specified commodity futures on any specified exchange or in any specified market with —
 
 (a) an Asian Currency Unit of a financial institution;
 
-(b) another member of the prescribed Commodity Futures Exchange;
+(b) another member of the Singapore Commodity Exchange Ltd or the prescribed exchange;
 
 [35/2007 wef 27/02/2008]
 
@@ -10062,14 +10040,6 @@ and those regulations may provide for the deduction of losses otherwise than in 
 and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [35/2007 wef 27/02/2008]
-
-[28/92]
-
-(2) In this section —
-
-“commodity” has the same meaning as in the Commodity Trading Act (Cap. 48A);
-
-“Commodity Futures Exchange” means a body corporate approved as a Commodity Futures Exchange under section 5 of the Commodity Trading Act.
 
 [28/92]
 
@@ -14497,6 +14467,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 30/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|16 February 2008 (Section 6(c), (d), (e), 11, 12, 13, 24, 25(b), 32(b))|
+|232.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 23/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|17 July 2007|
+||Date of commencement|27 February 2008 (section 27 — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
