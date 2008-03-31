@@ -1,16 +1,14 @@
-**Radiation Protection Act 2007**
+**Radiation Protection Act**
 
-**(No. 27 of 2007)**
+**(CHAPTER 262)**
 
 **Table of Contents**
 
 [**Long Title**](#Radiation-Protection-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -110,63 +108,41 @@
 
 - [41 Exemption](#Exemption)
 
-- [42 Amendment of First Schedule](#Amendment-of-First-Schedule)
+- [42 Amendment of Schedule](#Amendment-of-Schedule)
 
 - [43 Regulations](#Regulations)
 
 - [44 Saving for other written law](#Saving-for-other-written-law)
 
-- [45 Repeal](#Repeal)
+- [45 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-- [46 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**THE SCHEDULE Definition of Nuclear Material**](#THE-SCHEDULE)
 
-- [47 Transitional and saving provisions](#Transitional-and-saving-provisions)
+[**Legislative History**](#Legislative-History)
 
-[**FIRST SCHEDULE Definition of nuclear material**](#FIRST-SCHEDULE-Definition-of-nuclear-material)
+[**Comparative Table**](#Comparative-Table)
 
-[**SECOND SCHEDULE Consequential Amendments to Other Written Laws**](#SECOND-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+# Radiation Protection Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 262)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 27 of 2007)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2008
 
-Published by Authority
+(31st March 2008)
 
-NO. 29]
+An Act to control and regulate the import, export, manufacture, sale, disposal, transport, storage, possession and use of radioactive materials and irradiating apparatus, to make provision in relation to the non-proliferation of nuclear weapons and to establish a system for the imposition and maintenance of nuclear safeguards, and to provide for matters connected therewith.
 
-Friday, June 22
-
-[2007
-
-The following Act was passed by Parliament on 21st May 2007 and assented to by the President on 1st June 2007:—
-
-Radiation Protection Act 2007
-
-(No. 27 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-1st June 2007.
-
-Date of Commencement: 1st July 2007
-
-An Act to repeal and re-enact with amendments the Radiation Protection Act (Chapter 262 of the 1992 Revised Edition) to control and regulate the import, export, manufacture, sale, disposal, transport, storage, possession and use of radioactive materials and irradiating apparatus, to make provision in relation to the non-proliferation of nuclear weapons and to establish a system for the imposition and maintenance of nuclear safeguards, to provide for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 2007]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Radiation Protection Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Radiation Protection Act.
 
 ### Interpretation
 
@@ -178,7 +154,7 @@ PRELIMINARY
 
 “conveyance” includes any vessel, train, vehicle, aircraft or other mode of transport;
 
-“Director-General” means the Director-General of Environmental Protection appointed under section 3(1) of the Environmental Pollution Control Act (Cap. 94A);
+“Director-General” means the Director-General of Environmental Protection appointed under section 3(1) of the Environmental Protection and Management Act (Cap. 94A);
 
 “disposal”, in relation to waste, includes —
 
@@ -212,7 +188,7 @@ and “dispose of” shall be construed accordingly;
 
 “non-ionising radiations” means electromagnetic radiations and fields with wavelengths greater than 100 nanometers and all acoustic radiations and fields with frequencies below 16 Hz and above 16 kHz;
 
-“nuclear material” has the same meaning as in the First Schedule;
+“nuclear material” has the same meaning as in the Schedule;
 
 “owner”, in relation to any premises, includes —
 
@@ -328,7 +304,7 @@ LICENCES
 
 ### Application for licences, etc.
 
-7\. .—(1) An application for the grant or renewal of a licence shall be made to the Director-General in such form and manner as the Director-General may require and shall be accompanied by the prescribed fee.
+7\.—(1) An application for the grant or renewal of a licence shall be made to the Director-General in such form and manner as the Director-General may require and shall be accompanied by the prescribed fee.
 
 (2) An applicant for a licence shall furnish such information and documents as the Director-General may in any case require.
 
@@ -740,7 +716,7 @@ MISCELLANEOUS
 
 (b) require the Director-General to issue a licence;
 
-(c) quash any suspension or cancellation of a licence, or substitute a suspension of a licence for cancellation orvice versa; or
+(c) quash any suspension or cancellation of a licence, or substitute a suspension of a licence for cancellation or vice versa; or
 
 (d) vary or revoke any decision of the Director-General, or substitute any decision for a decision made by the Director-General.
 
@@ -830,9 +806,9 @@ whichever is the lower.
 
 41\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, by regulations exempt any person, premises, material or thing, or any class thereof, from all or any of the provisions of this Act, subject to such terms or conditions as may be prescribed.
 
-### Amendment of First Schedule
+### Amendment of Schedule
 
-42\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the First Schedule.
+42\.—(1) The Minister may from time to time, by order published in theGazette, amend, add to or vary the Schedule.
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
 
@@ -904,35 +880,27 @@ such particulars, information or documents as may be prescribed in respect of an
 
 44\. Nothing in this Act shall be construed as to limit or in any way affect the provisions of any other written law.
 
-### Repeal
-
-45\. The Radiation Protection Act (Cap. 262) is repealed.
-
-### Consequential amendments to other written laws
-
-46\. The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
-
 ### Transitional and saving provisions
 
-47\.—(1) All acts done by the Health Sciences Authority or the Chief Executive thereof under the repealed Radiation Protection Act before the appointed day shall continue to remain valid and applicable as though done by the Agency or the Director-General under the corresponding provision in this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Agency or the Director-General, as the case may be.
+45\.—(1) All acts done by the Health Sciences Authority or the Chief Executive thereof under the repealed Radiation Protection Act (Cap. 262, 1992 Ed.) before 1st July 2007 shall continue to remain valid and applicable as though done by the Agency or the Director-General under the corresponding provision in this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Agency or the Director-General, as the case may be.
 
-(2) Any decision, direction, document, licence, consent, approval or authorisation prepared, made, issued or granted by the Health Sciences Authority or the Chief Executive thereof under the repealed Radiation Protection Act before the appointed day shall, insofar as it is not inconsistent with the provisions of this Act, be deemed to be a decision, direction, document, licence, consent, approval or authorisation prepared, made, issued or granted by the Agency or the Director-General, as the case may be, under the corresponding provision in this Act.
+(2) Any decision, direction, document, licence, consent, approval or authorisation prepared, made, issued or granted by the Health Sciences Authority or the Chief Executive thereof under the repealed Radiation Protection Act before 1st July 2007 shall, insofar as it is not inconsistent with the provisions of this Act, be deemed to be a decision, direction, document, licence, consent, approval or authorisation prepared, made, issued or granted by the Agency or the Director-General, as the case may be, under the corresponding provision in this Act.
 
-(3) Where anything has been commenced by or on behalf of the Health Sciences Authority or the Chief Executive thereof under the repealed Radiation Protection Act before the appointed day, such thing may be carried on and completed by the Agency or the Director-General, as the case may be, under the corresponding provision in this Act.
+(3) Where anything has been commenced by or on behalf of the Health Sciences Authority or the Chief Executive thereof under the repealed Radiation Protection Act before 1st July 2007, such thing may be carried on and completed by the Agency or the Director-General, as the case may be, under the corresponding provision in this Act.
 
-(4) Where an appeal has been made to the Minister under section 17 of the repealed Radiation Protection Act and the appeal has not been dealt with or disposed of immediately before the appointed day, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
+(4) Where an appeal has been made to the Minister under section 17 of the repealed Radiation Protection Act and the appeal has not been dealt with or disposed of immediately before 1st July 2007, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
 
-(5) Any subsidiary legislation made under the repealed Radiation Protection Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
+(5) Any subsidiary legislation made under the repealed Radiation Protection Act (Cap. 262, 1992 Ed.) and in force immediately before 1st July 2007 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
 
 (6) Any written law or document referring to the repealed Radiation Protection Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
 
-(7) In this section, “appointed day” means the date of commencement of the Radiation Protection Act 2007.
+[47
 
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Sections 2(1) and 42
 
-Definition of nuclear material
+Definition of Nuclear Material
 
 1. In this Act, “nuclear material” means —
 
@@ -966,84 +934,69 @@ Definition of nuclear material
 
 but does not include source material.
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 46
+Radiation Protection Act
 
-Consequential Amendments to Other Written Laws
+(CHAPTER 262)
 
-First column
+This Legislative History is provided for the convenience of users of the Radiation Protection Act. It is not part of the Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 8 of 1991—Radiation Protection Act 1991**|
+||Date of First Reading|9 November 1990|
+|||(Bill No. 34/90 published on 12 November 1990)|
+||Date of Second and Third Readings|3 January 1991|
+||Date of commencement|1 February 1992|
+|2.|**1992 Revised Edition—Radiation Protection Act (Chapter 262)**|
+||Date of operation|9 March 1992|
+|3.|**Act 24 of 1999—Dentists Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 May 1999|
+|||(Bill No. 17/99 published on 5 May 1999)|
+||Date of Second and Third Readings|6 July 1999|
+||Date of commencement|15 October 1999|
+|4.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|5.|**Act 27 of 2007—Radiation Protection Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 14/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Date of commencement|1 July 2007|
+Note:
 
-(1) Environmental Public Health Act
+The Radiation Protection Act 2007 repealed and re-enacted with amendments to the Radiation Protection Act (Chapter 262, 1992 Revised Edition).
 
+|6.|**2008 Revised Edition—Radiation Protection Act (Chapter 262)**|
+||Date of operation|31 March 2008|
+## COMPARATIVE TABLE
 
+Radiation Protection Act
 
+(CHAPTER 262)
 
-(Chapter 95, 2002 Ed.)
+The following provisions in the Radiation Protection Act 2007 (Act 27 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
 
-Section 2
+This Comparative Table is provided for the convenience of users. It is not part of the Radiation Protection Act.
 
-Delete the words “Radiation Protection Act (Cap. 262)” in paragraph (c) of the definition of “dangerous substance” and substitute the words “Radiation Protection Act 2007”.
+2008 Ed.
 
-(2) Health Sciences Authority Act
+Act 27 of 2007
 
+Omitted
 
+45
 
+Omitted
 
-(Chapter 122C, 2002 Ed.)
+46
 
-Section 11(1)
+45
 
-Delete the words “, tobacco products, radioactive materials and irradiating apparatuses” in paragraph (a) and substitute the words “and tobacco products”.
-
-(3) National Environment Agency Act
-
-
-
-
-(Chapter 195, 2003 Ed.)
-
-(a) Section 11 (1)
-
-(i) Insert, immediately after the word “environment,” in paragraphs (u) and (v), the word “radiation,”.
-
-(ii) Delete the word “and” at the end of paragraph (v), and insert immediately thereafter the following paragraph:
-
-“
-
-(w) to control and regulate the import, export, possession, storage, transportation, sale and use of radioactive materials and irradiating apparatus; and
-
-”.
-
-(iii) Re-letter the existing paragraph (w) as paragraph (x).
-
-(b) Section 12
-
-(i) Insert, immediately after the words “environmental protection,” in paragraphs (a), (d), (e) and (f), the words “radiation control,”.
-
-(ii) Insert, immediately after the words “environmental pollution control,” in paragraph (c), the words “radiation control,”.
-
-(c) —
-
-Insert, immediately after section 38, the following section:
-
-“
-
-Transfer to Agency of property, employees, existing contracts, etc., from Health Sciences Authority relating to Centre for Radiation Protection
-
-38A.—(1) As from the appointed day, such movable and immovable property vested in the Health Sciences Authority as may be determined by the Minister for Finance and used or managed by the Centre for Radiation Protection and all assets, interests, rights, privileges, liabilities and obligations of the Health Sciences Authority relating to the Centre for Radiation Protection shall be transferred to and shall vest in the Agency without further assurance, act or deed.
-
-(2) As from the appointed day, all persons employed immediately before that day by the Health Sciences Authority and posted to the Centre for Radiation Protection shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.
-
-(3) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Health Sciences Authority is a party and relating to the Centre for Radiation Protection or to any person transferred to the service of the Agency under subsection (2) shall continue in force on and after that day and shall be enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the Health Sciences Authority.
-
-(4) Section 32(2) to (5) shall apply, with the necessary modifications, to the transfer of property, assets, interests, rights, privileges, liabilities and obligations referred to in subsection (1).
-
-(5) Sections 33(2), 34, 35, 37 and 38 shall apply, with the necessary modifications, to the transfer of persons referred to in subsection (2).
-
-(6) In this section, “appointed day” means the date of commencement of the Radiation Protection Act 2007.
-
-”.
+47
 
