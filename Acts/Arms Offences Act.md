@@ -32,7 +32,7 @@
 
 - [12 Power to amend Schedule](#Power-to-amend-Schedule)
 
-[**THE SCHEDULE Scheduled Offences**](#THE-SCHEDULE)
+[**THE SCHEDULE Scheduled offences**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -40,11 +40,11 @@
 
 (CHAPTER 14)
 
-(Original Enactment: 61 of 1973)
+(Original Enactment: Act 61 of 1973)
 
-REVISED EDITION 1998
+REVISED EDITION 2008
 
-(30th May 1998)
+(31st March 2008)
 
 An Act relating to the unlawful possession of arms and ammunition and the carrying and using of arms.
 
@@ -68,7 +68,7 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 “trafficking in arms” means —
 
-(a) to import, manufacture or deal in arms in contravention of the provisions of the Arms and Explosives Act (Cap.13); or
+(a) to import, manufacture or deal in arms in contravention of the provisions of the Arms and Explosives Act (Cap. 13); or
 
 (b) to lend, give, sell, hire or offer for sale or hire any arm to a person who has no licence to possess such arm issued under the Arms and Explosives Act;
 
@@ -76,13 +76,13 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 “use”, with its grammatical variations, means —
 
-(a) in relation to a firearm, air-gun, air-pistol, automatic gun, automatic pistol and any other kind of gun or pistol from which any shot, bullet or other missile can be discharged or noxious fluid, flame or fumes can be emitted — to cause such shot, bullet or other missile to be discharged or such noxious liquid, flame or fumes to be emitted with intent to cause physical injury to any person; and
+(a) in relation to a firearm, an air-gun, an air-pistol, an automatic gun, an automatic pistol and any other kind of gun or pistol from which any shot, bullet or other missile can be discharged or noxious liquid, flame or fumes can be emitted — to cause such shot, bullet or other missile to be discharged or such noxious liquid, flame or fumes to be emitted with intent to cause physical injury to any person; and
 
 (b) in relation to a bomb or grenade — to throw the bomb or grenade, or to cause it to explode, with intent to cause physical injury to any person or property.
 
 ### Penalty for being in unlawful possession of arms or ammunition
 
-3\.—(1) Subject to subsection (4), any person who is in unlawful possession of any arm or ammunition shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less that 5 years and not more than 10 years and shall also be punished with caning with not less than 6 strokes.
+3\.—(1) Subject to subsection (4), any person who is in unlawful possession of any arm or ammunition shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 5 years and not more than 10 years and shall also be punished with caning with not less than 6 strokes.
 
 [25/84]
 
@@ -130,7 +130,7 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 ### Consorting with person carrying arms
 
-7\. Any person who consorts with, or is found in the company of, another person who is unlawfully carrying or is in unlawful possession of any arm in circumstances which raise a reasonable presumption that he knew that that other person was carrying or had in his possession or under his control any such arm shall, unless he proves that he had reasonable grounds for believing that that other person was not unlawfully carrying or not in unlawful possession of such arm, be guilty of an offence and shall be liable on conviction to the like punishment as that other person with whom he was consorting or in whose company he was found.
+7\. Any person who consorts with, or is found in the company of, another person who is unlawfully carrying or is in unlawful possession of any arm in circumstances which raise a reasonable presumption that he knew that that other person was carrying or had in his possession or under his control any such arm shall, unless he proves that he had reasonable grounds for believing that that other person was not unlawfully carrying or was not in unlawful possession of such arm, be guilty of an offence and shall be liable on conviction to the like punishment as that other person with whom he was consorting or in whose company he was found.
 
 ### Penalty for exhibiting imitation arm when committing scheduled offence
 
@@ -144,7 +144,7 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 10\. Nothing in section 3 shall apply to —
 
-(a) a member of any visiting force lawfully present in Singapore or of the police force or of a volunteer force or local force constituted under any written law for the time being in force in Singapore when the member is carrying any arm in, or in connection with, the performance of his duty;
+(a) a member of any visiting force lawfully present in Singapore or of the police force or of a volunteer force or local force constituted under any written law for the time being in force in Singapore, when the member is carrying any arm in, or in connection with, the performance of his duty;
 
 (b) any person who carries an arm as part of his official or ceremonial dress on any official or ceremonial occasion;
 
@@ -168,7 +168,7 @@ An Act relating to the unlawful possession of arms and ammunition and the carryi
 
 Sections 2, 3(3) and (4), 4A, 8 and 12
 
-Scheduled Offences
+Scheduled offences
 
 1\. Being a member of an unlawful assembly under sections 143 to 145 of the Penal Code (Cap. 224).
 
@@ -196,7 +196,7 @@ Arms Offences Act
 
 (CHAPTER 14)
 
-This Legislative History is provided for the convenience of users of the Arms Offences Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Arms Offences Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -224,3 +224,5 @@ This Legislative History is provided for the convenience of users of the Arms Of
 ||Date of commencement|1 November 1993|
 |6.|**1998 Revised Edition—Arms Offences Act**|
 ||Date of operation|30 May 1998|
+|7.|**2008 Revised Edition—Arms Offences Act**|
+||Date of operation|31 March 2008|
