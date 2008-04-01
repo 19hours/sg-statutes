@@ -2518,7 +2518,7 @@ but does not include —
 
 71\.—(1) In addition to insurance effected by a management corporation under section 70, the management corporation shall effect insurance —
 
-(a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Workmen’s Compensation Act (Cap. 354);
+(a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Work Injury Compensation Act (Cap. 354);
 
 (b) in respect of damage to property, death or bodily injury occurring upon the common property for which the management corporation could become liable in damages; and
 
