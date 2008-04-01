@@ -118,7 +118,7 @@ either by the enemy or in combating the enemy or in repelling an imagined attack
 
 [S 223/59]
 
-[Act 8/1995 wef 01/04/1995]
+[Act 8/95 wef 01/04/1995 vide S 160/95]
 
 ### Procedure as to schemes
 
@@ -132,7 +132,7 @@ either by the enemy or in combating the enemy or in repelling an imagined attack
 
 6\.—(1) In respect of a war injury sustained during the period of the emergency by any person, and in respect of a war service injury sustained during that period by a civil defence volunteer, no such compensation or damages shall be payable, whether to the person injured or to any other person, as apart from the provisions of this subsection —
 
-(a) would be payable under the Workmen’s Compensation Act; or
+(a) would be payable under the Work Injury Compensation Act [Cap. 354]; or
 
 (b) would, whether by virtue of any written law, by virtue of any contract, or at common law, be payable —
 
@@ -194,7 +194,7 @@ Personal Injuries (Emergency Provisions) Act
 
 (CHAPTER 228)
 
-This Legislative History is provided for the convenience of users of the Personal Injuries (Emergency Provisions) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Personal Injuries (Emergency Provisions) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -216,3 +216,8 @@ This Legislative History is provided for the convenience of users of the Persona
 |||(Bill No. 2/1995 published on 24 January 1995)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 April 1995|
+|8.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
