@@ -2699,7 +2699,7 @@ Priorities
 
 (c) thirdly, subject to sub-paragraph (2), the amount due to an employee as a retrenchment benefit or ex gratia payment under any contract of employment or award or agreement that regulates conditions of employment whether such amount becomes payable before, on or after the commencement of the winding up;
 
-(d) fourthly, all amounts due in respect of workmen’s compensation under the Workmen’s Compensation Act (Cap. 354) accrued before, on or after the commencement of the winding up;
+(d) fourthly, all amounts due in respect of work injury compensation under the Work Injury Compensation Act (Cap. 354) accrued before, on or after the commencement of the winding up;
 
 (e) fifthly, all amounts due in respect of contributions payable during the 12 months next before, on or after the commencement of the winding up by the limited liability partnership as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the law relating to income tax;
 
@@ -2743,7 +2743,7 @@ Priorities
 
 (10) Notwithstanding anything in sub-paragraph (1) —
 
-(a) sub-paragraph (1)(d) shall not apply in relation to the winding up of a limited liability partnership in any case where the limited liability partnership is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another limited liability partnership and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the limited liability partnership has entered into a contract with an insurer in respect of any liability under any law relating to workmen’s compensation ; and
+(a) sub-paragraph (1)(d) shall not apply in relation to the winding up of a limited liability partnership in any case where the limited liability partnership is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another limited liability partnership and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the limited liability partnership has entered into a contract with an insurer in respect of any liability under any law relating to work injury compensation; and
 
 (b) where a limited liability partnership has given security for the payment or repayment of any amount to which sub-paragraph (1)(g) relates, sub-paragraph (1)(g) shall apply only in relation to the balance of any such amount remaining due after deducting therefrom the net amount realised from such security.
 
@@ -3332,6 +3332,12 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|2 January 2007|
 ||Date of commencement|1 March 2007 (item (7) in the Schedule)|
+|5.|**Act 5 of 2008—Workmen’s Compensation (Amedment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 Novmeber 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
