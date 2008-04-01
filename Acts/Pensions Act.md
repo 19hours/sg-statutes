@@ -1132,7 +1132,7 @@ th) of his annual pensionable emoluments for each complete month of pensionable 
 
 (6) Where it appears that the person so injured would, but for this paragraph, in respect of the same injury, be —
 
-(a) entitled to compensation under the Workmen’s Compensation Act (Cap. 354); and
+(a) entitled to compensation under the Work Injury Compensation Act (Cap. 354); and
 
 [5/2008 wef 01/04/2008]
 
@@ -1140,11 +1140,11 @@ th) of his annual pensionable emoluments for each complete month of pensionable 
 
 he shall be required to elect whether he will receive compensation under that Act or an allowance under this regulation.
 
-(7) If the person elects under paragraph (6) to receive compensation under the Workmen’s Compensation Act (Cap. 354), he shall receive no allowance under this regulation.
+(7) If the person elects under paragraph (6) to receive compensation under the Work Injury Compensation Act (Cap. 354), he shall receive no allowance under this regulation.
 
 [5/2008 wef 01/04/2008]
 
-(8) Where the person so injured, having elected to receive an allowance under this regulation and having been granted such allowance, subsequently institutes proceedings under the Workmen’s Compensation Act in respect of the same injury on account of which such allowance was granted, such allowance may be cancelled at any time.
+(8) Where the person so injured, having elected to receive an allowance under this regulation and having been granted such allowance, subsequently institutes proceedings under the Work Injury Compensation Act in respect of the same injury on account of which such allowance was granted, such allowance may be cancelled at any time.
 
 [5/2008 wef 01/04/2008]
 
@@ -1212,7 +1212,7 @@ ths)
 
 (13) This regulation, other than paragraphs (10), (11) and (12), shall be deemed to have come into operation on 3rd September 1939.
 
-(14) This regulation shall not apply in the case of a person employed or selected for employment by the Government on or after 30th April 1955 who, in consequence of injury, is entitled to compensation under the Workmen’s Compensation Act (Cap. 354).
+(14) This regulation shall not apply in the case of a person employed or selected for employment by the Government on or after 30th April 1955 who, in consequence of injury, is entitled to compensation under the Work Injury Compensation Act (Cap. 354).
 
 [5/2008 wef 01/04/2008]
 
@@ -1256,7 +1256,7 @@ th) of his annual pensionable emoluments but not less than $60 a year;
 
 (c) a pension shall not be payable under this regulation at any time in respect of more than 6 children, but the relevant Pension Authority may in cases of hardship authorise payment of pensions in respect of more than 6 children; and
 
-(d) paragraph (1) shall not apply in the case of the death of any officer if his dependants, as defined in the Workmen’s Compensation Act (Cap. 354), are entitled to compensation under that Act.
+(d) paragraph (1) shall not apply in the case of the death of any officer if his dependants, as defined in the Work Injury Compensation Act (Cap. 354), are entitled to compensation under that Act.
 
 [5/2008 wef 01/04/2008]
 
@@ -1396,7 +1396,7 @@ th) of his annual pensionable emoluments may be paid to his mother, or, where hi
 
 (c) a pension shall not be payable under this regulation at any time in respect of more than 6 children, but the relevant Pension Authority may in cases of hardship authorise payment of pensions in respect of more than 6 children; and
 
-(d) this regulation shall not apply in the case of the death of any officer if his dependants, as defined in the Workmen’s Compensation Act (Cap. 354), are entitled to compensation under that Act.
+(d) this regulation shall not apply in the case of the death of any officer if his dependants, as defined in the Work Injury Compensation Act (Cap. 354), are entitled to compensation under that Act.
 
 [5/2008 wef 01/04/2008]
 
@@ -1408,7 +1408,7 @@ Additional compensation for injured police officer or when police officer is kil
 
 23.—(1) Where a police officer dies as a result of injuries received in the execution of his duties, it shall be lawful for the relevant Pension Authority to grant to such of his dependants as the Pension Authority may think fit, or if there are no dependants to his legal personal representatives, in addition to the gratuity payable under section 20 of the Act and any pension payable to his dependants in accordance with regulation 22 (5), compensation equivalent to the difference between —
 
-(a) the sum which the police officer would be entitled to under the Workmen’s Compensation Act (Cap. 354), as if he were a workman under that Act; and
+(a) the sum which the police officer would be entitled to under the Work Injury Compensation Act (Cap. 354), as if he were an employee under that Act; and
 
 [5/2008 wef 01/04/2008]
 
@@ -1416,7 +1416,7 @@ Additional compensation for injured police officer or when police officer is kil
 
 (2) Where a police officer who has completed 10 years of service sustains a permanent total disablement from an injury received in the execution of his duty which enables him to qualify for a pension under regulation 22 (3), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the police officer as compensation —
 
-(a) a sum equivalent to the amount calculated under the Workmen’s Compensation Act, as if he were a workman under that Act; or
+(a) a sum equivalent to the amount calculated under the Work Injury Compensation Act, as if he were an employee under that Act; or
 
 [5/2008 wef 01/04/2008]
 
@@ -1430,7 +1430,7 @@ whichever is the greater.
 
 (b) as compensation —
 
-(i) a sum equivalent to the amount which the police officer would have received under the Workmen’s Compensation Act, as if he had died from the injury and as if he were a workman under that Act; or
+(i) a sum equivalent to the amount which the police officer would have received under the Work Injury Compensation Act, as if he had died from the injury and as if he were an employee under that Act; or
 
 [5/2008 wef 01/04/2008]
 
@@ -1446,7 +1446,7 @@ whichever is the greater.
 
 (7) Where a police officer in the pensionable service who has completed less than 10 years of service sustains a permanent total disablement from an injury received in the execution of his duty, it shall be lawful for the relevant Pension Authority to grant to such officer, in addition to a pension payable under regulation 22, as compensation —
 
-(a) a sum equivalent to the amount calculated under the Workmen’s Compensation Act (Cap. 354), as if he had died from the injury and as if he were a workman under that Act; or
+(a) a sum equivalent to the amount calculated under the Work Injury Compensation Act (Cap. 354), as if he had died from the injury and as if he were an employee under that Act; or
 
 [5/2008 wef 01/04/2008]
 
@@ -1458,7 +1458,7 @@ whichever is the greater.
 
 (9) Where a police officer, who is on the provident fund scheme applicable to non-pensionable employees of the Government under the Central Provident Fund Act (Cap. 36) and who has completed less than 10 years of service, sustains a permanent total disablement from an injury received in the execution of his duty which enables him to qualify for a pension under regulation 22 (3), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the police officer as compensation —
 
-(a) a sum equivalent to the amount calculated under the Workmen’s Compensation Act as if he were a workman under that Act; or
+(a) a sum equivalent to the amount calculated under the Work Injury Compensation Act as if he were an employee under that Act; or
 
 [5/2008 wef 01/04/2008]
 
@@ -1466,7 +1466,7 @@ whichever is the greater.
 
 whichever is the greater.
 
-(10) Where a police officer sustains a permanent partial disablement from an injury received in the execution of his duty and is entitled to a pension payable under regulation 22 (4), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the officer as compensation a sum equivalent to the amount calculated for permanent partial disablement under the Workmen’s Compensation Act, as if he were a workman under that Act.
+(10) Where a police officer sustains a permanent partial disablement from an injury received in the execution of his duty and is entitled to a pension payable under regulation 22 (4), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the officer as compensation a sum equivalent to the amount calculated for permanent partial disablement under the Work Injury Compensation Act, as if he were an employee under that Act.
 
 [5/2008 wef 01/04/2008]
 
@@ -2132,6 +2132,12 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of commencement|1 August 2003|
 |39.|**2004 Revised Edition—Pensions Act**|
 ||Date of operation|1 January 2004|
+|40.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Pensions Act
