@@ -838,7 +838,7 @@ so that, in the case of destruction, every part of the rebuilt building or the r
 
 32\.—(1) In addition to insurance effected by a body corporate pursuant to section 31 the body corporate shall effect insurance —
 
-(a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Workmen’s Compensation Act;
+(a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Work Injury Compensation Act [Cap. 354];
 
 (b) in respect of damage to property, death or bodily injury occurring upon the common property; and
 
@@ -1899,3 +1899,9 @@ This Legislative History is provided for the convenience of users of the HUDC Ho
 |||(Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
+|8.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
