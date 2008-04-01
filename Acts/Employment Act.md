@@ -1218,7 +1218,7 @@ shall be deemed to absent himself from work without the permission of his employ
 
 [36/95]
 
-(5) No employee shall be entitled to paid sick leave for the period during which he is receiving compensation for temporary incapacity under paragraph 4 of the Third Schedule to the Workmen’s Compensation Act.
+(5) No employee shall be entitled to paid sick leave for the period during which he is receiving compensation for temporary incapacity under paragraph 4 of the Third Schedule to the Work Injury Compensation Act [Cap. 354].
 
 [36/95]
 
@@ -2579,3 +2579,9 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 9/2007 published on 27 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|21.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
