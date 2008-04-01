@@ -13095,7 +13095,7 @@ Subdivision (2) — Proof and ranking of claims
 
 (c) thirdly, subject to subsection (2), the amount due to an employee as a retrenchment benefit or ex gratia payment under any contract of employment or award or agreement that regulates conditions of employment whether such amount becomes payable before, on or after the commencement of the winding up;
 
-(d) fourthly, all amounts due in respect of workmen’s compensation under the Workmen’s Compensation Act (Cap. 354) accrued before, on or after the commencement of the winding up;
+(d) fourthly, all amounts due in respect of work injury compensation under the Work Injury Compensation Act (Cap. 354) accrued before, on or after the commencement of the winding up;
 
 [5/2008 wef 01/04/2008]
 
@@ -13155,7 +13155,7 @@ Subdivision (2) — Proof and ranking of claims
 
 (9) Notwithstanding anything in subsection (1) —
 
-(a) paragraph (d) of that subsection shall not apply in relation to the winding up of a company in any case where the company is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another company and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the company has entered into a contract with an insurer in respect of any liability under any law relating to workmen’s compensation; and
+(a) paragraph (d) of that subsection shall not apply in relation to the winding up of a company in any case where the company is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another company and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the company has entered into a contract with an insurer in respect of any liability under any law relating to work injury compensation; and
 
 (b) where a company has given security for the payment or repayment of any amount to which paragraph (g) of that subsection relates, that paragraph shall apply only in relation to the balance of any such amount remaining due after deducting therefrom the net amount realised from such security.
 
@@ -15865,8 +15865,6 @@ to
 
 (Deleted by S 880/2005)
 
-[S 604/2007 wef 05/11/2007]
-
 [5/2004; 21/2005; 42/2005; S19/2003; S75/2004; S193/2004; S262/2004; S57/2005; S880/2005; S55/2006]
 
 THIRD SCHEDULE
@@ -16533,15 +16531,11 @@ Contents of Annual Return
 
 (s) where the annual return is accompanied by such of the relevant documents as may be applicable to the company, such information on the company contained in those documents as the Registrar may specify.
 
-[S 605/2007 wef 05/11/2007]
+[5/2004; 5/2005; 21/2005]
 
-2. For the purposes of paragraph 1, where the last return of a company consists of a summary of return and a main return, a reference to the last return of the company shall, unless the context requires otherwise, be construed as a reference to the last summary of return of the company.
+2\. For the purposes of paragraph 1, where the last return of a company consists of a summary of return and a main return, a reference to the last return of the company shall, unless the context requires otherwise, be construed as a reference to the last summary of return of the company.
 
-[S 605/2007 wef 05/11/2007]
-
-3. In paragraph 1, “relevant date” means a date specified by the person who lodges the return, being a date which is not more than 14 days before the date of lodgment of the return.
-
-[S 605/2007 wef 05/11/2007]
+3\. In paragraph 1, “relevant date” means a date specified by the person who lodges the return, being a date which is not more than 14 days before the date of lodgment of the return.
 
 4. In paragraph 1(s), “relevant documents”, in relation to a company, means —
 
@@ -16554,8 +16548,6 @@ Contents of Annual Return
 (d) its last profit and loss account, which must be audited unless the company is exempt from audit requirements and no report was prepared by the auditors; and
 
 (e) the notes to the account.
-
-[S 605/2007 wef 05/11/2007]
 
 NINTH SCHEDULE
 
@@ -17033,6 +17025,12 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|5 November 2007|
 |94.|**G. N. No. S 605/2007—Companies Act (Amendment of Eighth Schedule) Notification 2007**|
 ||Date of commencement|5 November 2007|
+|95.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Companies Act
