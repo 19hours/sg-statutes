@@ -1356,7 +1356,7 @@ or to anything done or to be done for giving effect to such a disposition.
 
 75\.—(1) If a seaman, while employed on a ship, receives any surgical or medical treatment or such dental or optical treatment (including the repair or replacement of any appliance) as cannot be postponed without impairing efficiency, the reasonable expenses thereof shall be borne by the person employing him, and if he dies while so employed and is buried or cremated outside his port of return, the expenses of his burial or cremation or the return of the body to his home shall also be borne by that person.
 
-(2) A compensation shall be payable by the person employing a seaman for the death of or injury to the seaman employed on a Singapore ship who is not covered under the Workmen’s Compensation Act and such compensation shall not be less than that provided under that Act.
+(2) A compensation shall be payable by the person employing a seaman for the death of or injury to the seaman employed on a Singapore ship who is not covered under the Work Injury Compensation Act [Cap. 354] and such compensation shall not be less than that provided under that Act.
 
 ### Drunkenness, etc., on board ship
 
@@ -3190,3 +3190,9 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st January 2006|
+|7.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
