@@ -1716,7 +1716,7 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (c) thirdly, subject to subsection (2), the amount due to an employee as a retrenchment benefit or an ex gratia payment under any contract of employment or award or agreement that regulates the conditions of employment, whether such amount becomes payable before, on or after the date of the bankruptcy order;
 
-(d) fourthly, all amounts due in respect of any workmen’s compensation under the Workmen’s Compensation Act (Cap. 354) accrued before, on or after the date of the bankruptcy order;
+(d) fourthly, all amounts due in respect of any work injury compensation under the Work Injury Compensation Act (Cap. 354) accrued before, on or after the date of the bankruptcy order;
 
 (e) fifthly, all amounts due in respect of contributions payable during the 12 months immediately before, on or after the date of the bankruptcy order by the bankrupt as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the Income Tax Act (Cap. 134);
 
@@ -3264,6 +3264,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 22/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|16 July 2007|
 ||Date of commencement|24 August 2007|
+|17.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
