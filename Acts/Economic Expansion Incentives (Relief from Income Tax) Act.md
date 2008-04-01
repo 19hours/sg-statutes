@@ -1192,7 +1192,7 @@ INVESTMENT ALLOWANCES
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W , 43X, 43Yor 43Z of the Income Tax Act, or the regulations made under any of those provisions, as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W , 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD of the Income Tax Act, or the regulations made under any of those provisions, as the case may be;
 
 “concessionary investment allowance” means an investment allowance given to a company for an approved project from which the concessionary income of the company is derived;
 
@@ -2706,6 +2706,11 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of First Reading|12 November 2012 (Bill No. 39/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|18 February 2008 (Sections 3(a) and (b) and 4)|
+|41.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
