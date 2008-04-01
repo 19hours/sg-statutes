@@ -3036,7 +3036,7 @@ is paid to the person or policy owner as soon as reasonably practicable after th
 
 (13) For the purposes of this section —
 
-(a) “compulsory insurance policy” means any policy or security which satisfies the requirements of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) or the Workmen’s Compensation Act (Cap. 354);
+(a) “compulsory insurance policy” means any policy or security which satisfies the requirements of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) or the Work Injury Compensation Act (Cap. 354);
 
 (b) references to a registered insurer in liquidation are references to an insurer in whose case —
 
@@ -4022,6 +4022,11 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 30/2005 published on 16 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1st April 2006 (Items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and (36) in the First Schedule; and the Third Schedule)|
+|24.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 29 February 2008)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Insurance Act
