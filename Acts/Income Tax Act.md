@@ -116,6 +116,8 @@
 
 - [13V Exemption of income derived by law practice from international arbitration held in Singapore](#Exemption-of-income-derived-by-law-practice-from-international-arbitration-held-in-Singapore)
 
+- [13W Exemption of relevant income of eligible family-owned investment holding company](#Exemption-of-relevant-income-of-eligible-family-owned-investment-holding-company)
+
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
 - [14 Deductions allowed](#Deductions-allowed)
@@ -319,6 +321,14 @@
 - [43Y Concessionary rate of tax for leasing of aircraft and aircraft engines](#Concessionary-rate-of-tax-for-leasing-of-aircraft-and-aircraft-engines)
 
 - [43Z Concessionary rate of tax for aircraft investment manager](#Concessionary-rate-of-tax-for-aircraft-investment-manager)
+
+- [43ZA Concessionary rate of tax for container investment enterprise](#Concessionary-rate-of-tax-for-container-investment-enterprise)
+
+- [43ZB Concessionary rate of tax for container investment manager](#Concessionary-rate-of-tax-for-container-investment-manager)
+
+- [43ZC Concessionary rate of tax for approved insurance brokers](#Concessionary-rate-of-tax-for-approved-insurance-brokers)
+
+- [43ZD Concessionary rate of tax for income derived from managing qualifying registered business trust or company](#Concessionary-rate-of-tax-for-income-derived-from-managing-qualifying-registered-business-trust-or-company)
 
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
@@ -2559,7 +2569,7 @@ if 50% or more of the issue of the securities is beneficially held or funded, di
 
 [34/2008 wef 16/12/2008]
 
-(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008 ; or
 
 [34/2008 wef 16/12/2008]
 
@@ -2741,7 +2751,7 @@ the income received by a person resident in Singapore from such source in any co
 
 (ii) any other prescribed deposit; or
 
-(b) in relation to any deposit of moneys referred to in subsection (1)(t), (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
+(b) in relation to any deposit of moneys referred to in subsection (1)(t) , (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
 
 [34/2008 wef 06/12/2007]
 
@@ -3070,8 +3080,6 @@ is the amount of income of the prescribed person as reflected in the audited acc
 C
 
 is the tax rate specified in section 43(1)(a) applicable to that year of assessment.
-
-[53/2007]
 
 (3) Subsection (2) shall not apply to a relevant owner if —
 
@@ -4205,144 +4213,6 @@ is the percentage which the value of equity interests of the second level entity
 
 [53/2007]
 
-### Exemption of income of shipping investment enterprise
-
-13S\.—(1) Subject to subsection (4), there shall be exempt from tax the income derived by an approved shipping investment enterprise from the chartering or finance leasing of —
-
-(a) any sea-going ship for use outside the limits of the port of Singapore and acquired during the period of approval of the shipping investment enterprise referred to in subsection (3) to —
-
-(i) a person who is neither resident in nor a permanent establishment in Singapore; or
-
-(ii) an approved international shipping enterprise; or
-
-(b) any sea-going Singapore ship for use outside the limits of the port of Singapore and acquired during such period of approval to a shipping enterprise within the meaning of section 13A.
-
-[7/2007]
-
-(2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 28th February 2011, approve a shipping investment enterprise for the purposes of subsection (1).
-
-[29/2010 wef 22/11/2010]
-
-[7/2007]
-
-(3) The approval under subsection (2) shall be subject to such conditions, and shall be for such period not exceeding 10 years, as the Minister may specify; except that the Minister may extend the period so specified for such further periods as he thinks fit.
-
-[7/2007]
-
-(4) The Minister or such person as he may appoint may, in respect of any sea-going ship or class of sea-going ships, specify the period during which the income of the sea-going ship or class of sea-going ships may be exempted from tax under subsection (1) not exceeding —
-
-(a) in the case of any ship used for the carriage of goods or passengers, towage or salvage, a period of 30 years; or
-
-(b) in the case of any dredger, seismic ship or any ship used for offshore oil or gas activity, a period of 40 years.
-
-[7/2007]
-
-(5) In determining the amount of the income of an approved shipping investment enterprise from the chartering or finance leasing of sea-going shipswhich is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
-
-(a) shall be taken into account notwithstanding that no claim for those allowances has been made; and
-
-(b) shall only be deducted against the income referred to in subsection (1), and the balance of those allowances shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period of the enterprise shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 23.
-
-[7/2007]
-
-[29/2010 wef 23/02/2010]
-
-(6) Where an approved shipping investment enterprise incurs a loss during the tax exempt period of the enterprise in respect of activities referred to in subsection (1), that loss —
-
-(a) shall be deducted in accordance with section 37; and
-
-(b) shall only be deducted against the income referred to in subsection (1), and the balance of the loss shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period of the enterprise shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 37.
-
-[7/2007]
-
-(7) The Comptroller shall for each year of assessment for which the income of an approved shipping investment enterprise is exempt from tax under subsection (1) issue to the enterprise a statement showing the amount of income exempt from tax under subsection (1); and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
-
-[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
-
-[7/2007]
-
-(8) Subject to subsection (9), where any statement issued to an approved shipping investment enterprise under subsection (7) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
-
-[7/2007]
-
-(9) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved shipping investment enterprise as exempt from tax pending such statement becoming final and conclusive.
-
-[7/2007]
-
-(10) As soon as any amount of the income of an approved shipping investment enterprise, being a company, has been exempted from tax under subsection (1), the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the enterprise for the purpose of this section.
-
-[7/2007]
-
-(11) Where the account of an approved shipping investment enterprise is in credit at the date on which any dividends are paid by the enterprise out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
-
-[7/2007]
-
-(12) So much of the amount of any dividends debited to the account under subsection (11) as is received by a shareholder of an approved shipping investment enterprise shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
-
-[7/2007]
-
-(13) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the approved shipping investment enterprise or any particular class of the shareholders in accordance with the proportion of their shareholdings in the enterprise.
-
-[7/2007]
-
-(14) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-[7/2007]
-
-(15) Where an amount of dividends exempt from tax under this section has been received from an approved shipping investment enterprise by a shareholder, then, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 shall not apply to any such dividend or part thereof.
-
-[7/2007]
-
-(16) Notwithstanding subsections (12) and (15), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[7/2007]
-
-(17) An approved shipping investment enterprise shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
-
-[7/2007]
-
-(18) Notwithstanding anything in this section, where it appears to the Comptroller that —
-
-(a) any income of an approved shipping investment enterprise which has been exempted from tax under subsection (1); or
-
-(b) any dividend which has been exempted from tax in the hands of any shareholder,
-
-ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 6 years (if that year of assessment is 2007 or a preceding year of assessment) or 4 years (if that year of assessment is 2008 or a subsequent year of assessment) after the expiration of that year of assessment —
-
-(i) make such assessment or additional assessment upon the enterprise or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
-
-(ii) direct the enterprise to debit the account with such amount as the circumstances may require.
-
-[7/2007; 53/2007]
-
-(19) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (18) were a notice of assessment.
-
-[7/2007]
-
-(20) In this section —
-
-“approved international shipping enterprise” means an international shipping enterprise approved by the Minister or such person as he may appoint, subject to such conditions as he may impose;
-
-“finance leasing” means the leasing of any sea-going ship which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of the sea-going ship to the lessee;
-
-“international shipping enterprise” has the same meaning as in section 13F(6);
-
-“registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
-
-“sea-going ship” includes any dredger, seismic ship or any vessel used for offshore oil or gas activity;
-
-“shipping investment enterprise” means —
-
-(a) a company incorporated and resident in Singapore; or
-
-(b) a registered business trust;
-
-“Singapore ship” has the same meaning as in section 13A(16);
-
-“tax exempt period”, in relation to an approved shipping investment enterprise, means the period from the date the enterprise first acquires, during the period of approval of the enterprise, a sea-going ship for use outside the limits of the port of Singapore to the date where no income of any sea-going ship of the enterprise is eligible for exemption from tax under subsection (1).
-
-[7/2007]
-
 ### Exemption of trust income to which beneficiary is entitled
 
 13T\.—(1) Where any beneficiary of a trust who is resident in Singapore is entitled to any share of the statutory income of the trust, that share shall be exempt from tax in his hands if it would have been exempt from tax under any provision of this Part had it been derived or received directly by the beneficiary rather than the trustee.
@@ -4514,6 +4384,32 @@ whichever is the earlier;
 “qualifying income” means the income derived by an approved law practice from the provision of legal services in connection with any qualifying international arbitration.
 
 [53/2007]
+
+### Exemption of relevant income of eligible family-owned investment holding company
+
+13W\.—(1) There shall be exempt from tax all relevant income of an eligible family-owned investment holding company.
+
+(2) For the purposes of subsection (1), the Minister may make regulations to provide for the deduction of expenses, allowances, losses and donations of an eligible family-owned investment holding company otherwise than in accordance with this Act.
+
+(3) In this section —
+
+“eligible family-owned investment holding company” means any company incorporated before 1st April 2013 —
+
+(a) whose shareholders are related to each other in the manner prescribed by regulations;
+
+(b) whose operation consists wholly or mainly of the holding or making of investments; and
+
+(c) which satisfies such other conditions as may be prescribed by regulations;
+
+“relevant income” means —
+
+(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi), (zj), (zk) or (zl) accrued in or derived from Singapore on or after 1st April 2008; or
+
+(b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 1st April 2008.
+
+(4) Where a company fails to satisfy the definition of “eligible family-owned investment holding company” in any basis period beginning on or after 1st April 2013, then this section shall not apply to the company in any subsequent basis period, even if it satisfies the definition in that subsequent basis period.
+
+[34/2008 wef 01/04/2008]
 
 ## PART V
 
@@ -4955,7 +4851,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
 
 [34/2008 wef 01/04/2008]
 
@@ -5753,6 +5649,8 @@ and the amount of the reduction shall be debited to the account.
 
 (i) any payment to any provident, savings, widows’ and orphans’ or other society or fund, including the Supplementary Retirement Scheme, except such payments as are allowed under sections 14(1)(e) and (f) and 39(2)(g) and (o);
 
+(i) 
+
 (j) any sum referred to in section 12(6) payable by any person outside Singapore to another person outside Singapore except where the sum is exempt from tax, or tax has been deducted and accounted for under section 45;
 
 (k) any outgoings and expenses, whether directly or in the form of reimbursements, and any claim for the cost of renewal incurred on or after 1st April 1998 in respect of a motor car (whether owned by him or any other person) which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
@@ -6109,7 +6007,7 @@ and increased by any balancing charges made; or
 
 [28/80; 32/95; 53/2007]
 
-4(3) Notwithstanding subsection (1) or (2) or section 19A(1), in respect of a motor car to which this subsection applies —
+4(3) Notwithstanding subsection (1) or (2) or section 19A(1) , in respect of a motor car to which this subsection applies –
 
 4This Subsection will be amended as set out in section 15(b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
@@ -6141,7 +6039,7 @@ and increased by any balancing charges made; or
 
 [32/99]
 
-6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
+6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except –
 
 (a) a taxi;
 
@@ -6877,7 +6775,7 @@ is the capital expenditure incurred in respect of the motor car.
 
 [28/80; 26/93; 37/2002; 21/2003]
 
-(2) Where any person entitled to the allowances under sections 16 and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
+(2) Where any person entitled to the allowances under sections 16and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
 
 [29/2010 wef 23/02/2010]
 
@@ -7703,6 +7601,30 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (b) the statutory income of any partner from the partnership shall be computed in accordance with section 35 by treating his share of the divisible income of the partnership as though it were income of a trade, business, profession or vocation carried on or exercised by him.
 
+(1A) Sections 13H, 13S, 19B, 43Y and 43ZA shall apply to a partnership as they apply to a company with such modifications and exceptions as may be prescribed by the Minister by regulations.
+
+[34/2008 wef 01/04/2008]
+
+(1B) Sections 14E and 19C shall, notwithstanding anything in those sections, apply to a partnership with such modifications and exceptions as may be prescribed by the Minister by regulations.
+
+[34/2008 wef 01/04/2008]
+
+(1C) Regulations under subsections (1A) and (1B) may make provision ––
+
+(a) for the manner in which a concessionary rate of tax under sections 13H, 43Y and 43ZA may be accorded to a partner of a partnership being an individual;
+
+(b) in a case where any deduction, writing-down allowance, exemption or concessionary rate of tax ought not to have been allowed to a partner of a partnership due to non-compliance with any condition imposed on the partnership, for the recovery from the partner —
+
+(i) if the partner is a company, of the amount of tax which would otherwise have been payable; or
+
+(ii) if the partner is an individual, of an amount to be computed in the prescribed manner;
+
+(c) for the recovery of the amount referred to in paragraph (b) by deeming a specified amount as the income of the partner for the year of assessment in which the Comptroller discovers the non-compliance referred to in that paragraph; and
+
+(d) generally to give effect to or for carrying out the purposes of those sections as they apply to a partnership.
+
+[34/2008 wef 01/04/2008]
+
 (2) This section shall not be deemed to apply to any trade, business, profession or vocation carried on by a Hindu joint family.
 
 ### Limited liability partnership
@@ -8187,7 +8109,7 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z or 43ZD, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be;
 
 [34/2008 wef 01/04/2008]
 
@@ -8653,7 +8575,7 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be.
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be.
 
 [34/2008 wef 01/04/2008]
 
@@ -10420,6 +10342,162 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 “approved” means approved by the Minister or such person as he may appoint.
 
 [53/2007]
+
+### Concessionary rate of tax for container investment enterprise
+
+43ZA\.—(1) Notwithstanding section 43 but subject to subsection (5), tax at the rate of 5% or 10% as the Minister (or such person as the Minister may appoint) may specify, shall be levied and paid for each year of assessment upon the income of an approved container investment enterprise accruing in or derived from Singapore from —
+
+(a) the leasing of any container owned by the enterprise acquired before or during the period of approval of the enterprise referred to in subsection (4) and used for the international transportation of goods; and
+
+(b) foreign exchange and risk management activities which are carried out in connection with and incidental to the leasing referred to in paragraph (a).
+
+(2) Subsection (1) shall continue to apply to a container investment enterprise the approval of which has expired or been withdrawn, but which continues to derive income of the type referred to in subsection (1) in relation to a container acquired before or during the period of approval of the enterprise, provided that the enterprise has by the date of the expiry or before the withdrawal of its approval fulfilled all the conditions referred to in subsection (4), and any reference in this section to an approved container investment enterprise shall be construed accordingly.
+
+(3) The Minister or such person as he may appoint may, at any time between 1st April 2008 and 28th February 2011, approve a container investment enterprise for the purposes of subsection (1).
+
+[29/2010 wef 22/11/2010]
+
+(4) The approval under subsection (3) shall be subject to such conditions, and shall be for such period not exceeding 10 years, as the Minister may specify, except that the Minister may extend the period so specified for such further period or periods as he thinks fit.
+
+(5) The Minister or such person as he may appoint may, in respect of any container or class of containers, specify a period not exceeding a period of 15 years, during which the income from the leasing of such container or class of containers is subject to the applicable concessionary tax rate under subsection (1).
+
+(6) In determining the income of an approved container investment enterprise from the leasing of any container —
+
+(a) the allowances under section 19, 19A, 20, 21, 22 or 23 shall be taken into account notwithstanding that no claim for those allowances has been made;
+
+(b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of finance leasing in any year of assessment shall be deducted against the income from such leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
+
+(c) where the approved container investment enterprise ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction against the income from such leasing shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
+
+(d) the Comptroller shall determine the manner and extent to which —
+
+(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
+
+(ii) any loss may be deducted under section 37.
+
+(7) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“container” means a sea-container used for the international transportation of goods and that adheres to the standards defined by the Institute of International Container Lessors or the International Organization for Standardization for such sea container;
+
+“container investment enterprise” means —
+
+(a) a company incorporated and resident in Singapore; or
+
+(b) a registered business trust;
+
+“finance leasing”, in relation to any container, means a lease of the container (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such container to the lessee;
+
+“registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A).
+
+(8) In this section, a reference to the leasing of a container excludes the leasing of a container which has been treated as though it had been sold pursuant to regulations made under section 10D(1).
+
+[34/2008 wef 01/04/2008]
+
+### Concessionary rate of tax for container investment manager
+
+43ZB\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved container investment manager derived by it on or after 1st April 2008 from —
+
+(a) managing an approved container investment enterprise; or
+
+(b) such other services or activities carried out for an approved container investment enterprise as may be prescribed.
+
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
+
+(3) The concessionary rate of tax referred to in subsection (1) shall apply to an approved container investment manager subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(4) Approval may be granted under this section between 1st April 2008 and 28th February 2011.
+
+[29/2010 wef 22/11/2010]
+
+(5) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“container investment enterprise” has the same meaning as in section 43ZA;
+
+“container investment manager” means any company incorporated in Singapore.
+
+[34/2008 wef 01/04/2008]
+
+### Concessionary rate of tax for approved insurance brokers
+
+43ZC\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved insurance broker derived by it on or after 1st April 2008 from —
+
+(a) the provision of direct insurance broking or reinsurance broking to any insured person or person seeking insurance coverage —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; or
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to finance the premiums, brokerage fees and any other fees paid or payable to the approved insurance broker are not obtained, directly or indirectly, from the operation; and
+
+(b) the provision of risk advisory services and other advisory services relating to the insurance sector to any person —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; or
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to finance the service fees paid or payable to the approved insurance broker are not obtained, directly or indirectly, from the operation.
+
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
+
+(3) The concessionary rate of tax referred to in subsection (1) shall apply to an approved insurance broker subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(4) Approval may be granted under this section between 1st April 2008 and 31st March 2013.
+
+(5) In this section —
+
+“approved insurance broker” means a company that is a direct insurance broker, general reinsurance broker or life reinsurance broker approved by the Minister or such person as he may appoint;
+
+“direct insurance broker”, “general reinsurance broker” and “life reinsurance broker” have the same meanings as in section 1A of the Insurance Act (Cap. 142).
+
+[34/2008 wef 01/04/2008]
+
+### Concessionary rate of tax for income derived from managing qualifying registered business trust or company
+
+43ZD\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify derived on or after 1st April 2008 —
+
+(a) by an approved trustee-manager of a qualifying registered business trust from providing services in such capacity in respect of such infrastructure asset or project situated outside Singapore as may be prescribed by regulations (referred to in this section as prescribed offshore infrastructure asset or project); and
+
+(b) by an approved fund management company from —
+
+(i) managing a qualifying company in respect of any prescribed offshore infrastructure asset or project; or
+
+(ii) arranging, on behalf of a qualifying company, any loan of designated securities under a securities lending arrangement in writing to another qualifying company.
+
+[27/2009 wef 01/04/2008]
+
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
+
+(3) The concessionary rate of tax referred to in subsection (1) shall apply to an approved trustee-manager or fund management company subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(4) Approval may be granted under this section between 1st April 2008 and 31st December 2011.
+
+(5) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“designated securities” means —
+
+(a) stocks, shares, bonds or other securities, denominated in any foreign currency, issued by a company which is neither incorporated in Singapore nor resident in Singapore; or
+
+(b) bonds denominated in any foreign currency issued by any foreign government;
+
+“fund management company” means any company incorporated in Singapore;
+
+“qualifying company”, in relation to an approved fund management company, means any company incorporated in Singapore which —
+
+(a) is listed or to be listed on any exchange in Singapore within one year from the date the approved fund management company is so approved; and
+
+(b) owns any offshore infrastructure asset or any asset used in an offshore infrastructure project, or debt securities or shares of any company that owns any offshore infrastructure asset or any asset used in an offshore infrastructure project;
+
+“qualifying registered business trust”, in relation to an approved trustee-manager, means any registered business trust which —
+
+(a) is listed or to be listed on any exchange in Singapore within one year from the date the approved trustee-manager is so approved; and
+
+(b) owns any offshore infrastructure asset or any asset used in an offshore infrastructure project, or debt securities or shares of any company that owns any offshore infrastructure asset or any asset used in an offshore infrastructure project;
+
+“registered business trust” and “trustee-manager” have the same meanings as in the Business Trusts Act (Cap. 31A).
+
+[34/2008 wef 01/04/2008]
 
 ## PART XII
 
@@ -12858,6 +12936,8 @@ $320,000
 
 Part B
 
+Part B
+
 Rates of Tax on Chargeable Income of
 
 
@@ -12941,6 +13021,8 @@ $100,000
 55%.
 
 [7/2007]
+
+Part C
 
 Part C
 
@@ -14473,6 +14555,21 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 23/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|17 July 2007|
 ||Date of commencement|27 February 2008 (section 27 — amendment of Income Tax Act)|
+|233.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 April 2008 (Section 17(a), 18, 30, 42, 55, 57(c))|
+|234.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 April 2008 (Section 35)|
+|235.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|1 April 2008 (Section 28(a))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
