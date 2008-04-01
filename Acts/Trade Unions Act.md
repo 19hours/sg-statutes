@@ -504,7 +504,7 @@ may appeal against the refusal or order to the Minister at any time within a per
 
 (b) the Official Receiver shall proceed to wind up the affairs of the trade union and after satisfying and providing for all debts and liabilities of the trade union and the costs of winding up shall pay the surplus assets, if any, of the trade union —
 
-(i) where the Minister so directs, into the Workers’ Fund established under the Workmen’s Compensation Act (Cap. 354); or
+(i) where the Minister so directs, into the Workers’ Fund established under the Work Injury Compensation Act (Cap. 354); or
 
 (ii) in the absence of a direction from the Minister, in accordance with the rules of the trade union.
 
@@ -1361,6 +1361,12 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1 January 2006|
+|27.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Trade Unions Act
