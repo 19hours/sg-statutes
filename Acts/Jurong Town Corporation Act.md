@@ -1159,7 +1159,7 @@ LIABILITY OF CORPORATION AT JURONG PORT
 
 [11/78]
 
-(2) Nothing in this Part shall affect any liability that may be imposed on the Corporation by any written law relating to compensation to workmen.
+(2) Nothing in this Part shall affect any liability that may be imposed on the Corporation by any written law relating to compensation to employees defined under the Work Injury Compensation Act (Cap. 354).
 
 ## PART VI
 
@@ -1300,3 +1300,9 @@ This Legislative History is provided for the convenience of users of the Jurong 
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1st January 2006 (Item (17) of the First Schedule –– Amendment of Jurong Town Corporation Act|
+|20.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
