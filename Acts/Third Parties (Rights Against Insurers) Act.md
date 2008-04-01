@@ -60,7 +60,9 @@ if, either before or after that event, any such liability is incurred by the ins
 
 (a) where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company; or
 
-(b) to any case to which section 19(1) and (2) of the Workmen’s Compensation Act applies.
+(b) to any case to which section 19(1) and (2) of the Work Injury Compensation Act [Cap. 354] applies.
+
+[5/2008 wef 01/04/2008]
 
 ### Duty to give necessary information to third parties
 
@@ -90,7 +92,7 @@ Third Parties (Rights Against Insurers) Act
 
 (CHAPTER 395)
 
-This Legislative History is provided for the convenience of users of the Third Parties (Rights Against Insurers) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Third Parties (Rights Against Insurers) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -105,3 +107,9 @@ This Legislative History is provided for the convenience of users of the Third P
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|4.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
