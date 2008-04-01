@@ -214,7 +214,11 @@ in respect of the death of or bodily injury to any person arising out of the use
 
 “expenses reasonably incurred” means —
 
-(a) in relation to a person who receives in-patient treatment at any hospital expenses reasonably incurred as an in-patient, an amount for each day the person is maintained in the hospital representing the average daily cost for each in-patient of the maintenance of the hospital and the staff thereof and the maintenance and treatment of the in-patients therein; and
+(a) in relation to a person who receives in-patient treatment at any hospital as an in-patient, an amount for each day the person is maintained in the hospital representing the average daily cost for each in-patient of the maintenance of the hospital and the staff thereof and the maintenance and treatment of the in-patients therein; and
+
+[26/2001 wef 01/09/2001]
+
+(b) [Deleted by Act 26/2001 wef 01/09/2001]
 
 (c) in relation to a person who receives treatment at a hospital as an out-patient, reasonable expenses actually incurred;
 
@@ -388,7 +392,7 @@ if either before or after that event any such liability as aforesaid is incurred
 
 (a) where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company; or
 
-(b) to any case to which section 19(1) and (2) of the Workmen’s Compensation Act (Cap. 354) applies.
+(b) to any case to which section 19(1) and (2) of the Work Injury Compensation Act (Cap. 354) applies.
 
 ### Duty to give necessary information to third parties
 
@@ -552,10 +556,6 @@ Sections 3(7)(b), 4(6) and (11)(b), 6(1), 9(2)(a) and (8) and 18(4).
 
 (a) to prescribe the forms to be used for the purposes of this Act;
 
-[19A
-
-[23/98]
-
 (b) as to applications for and the issue of certificates of insurance and any other documents which may be prescribed and as to the keeping of records of documents and the furnishing of particulars thereof or the giving of information with respect thereto to the Minister or to the Deputy Commissioner of Police;
 
 (c) as to the manner in which moneys received by the Public Trustee under this Act shall be distributed;
@@ -652,6 +652,12 @@ This Legislative History is provided for the convenience of users of the Motor V
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001|
+|14.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act\ by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
