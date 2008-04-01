@@ -266,7 +266,9 @@ The Widows’ and Orphans’ Pension Act.
 
 11. 
 
-The Workmen’s Compensation Act.
+The Work Injury Compensation Act (Cap. 354).
+
+[5/2008 wef 01/04/2008]
 
 12. 
 
@@ -323,3 +325,9 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 45/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 December 2004|
+|8.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
