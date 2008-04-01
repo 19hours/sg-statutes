@@ -44,6 +44,8 @@
 
 (CHAPTER 16)
 
+(Original Enactment: 1985 Ed. Cap. 16)
+
 REVISED EDITION 2000
 
 (30th December 2000)
@@ -162,9 +164,7 @@ to take out a licence as an appraiser under this Act.
 
 ### Exceptions
 
-9\. This Act shall not extend to require —
-
-(1) This Act shall not extend to require —
+9\.—(1) This Act shall not extend to require —
 
 (a) any agent employed in the management of landed estates to take out a licence under this Act for that purpose;
 
@@ -182,11 +182,7 @@ to take out a licence as an appraiser under this Act.
 
 (d) any appraiser of any movable property listed in the Second Schedule to take out a licence under this Act for that purpose.
 
-[7/2005 wef 01/04/2005]
-
 (2) The Minister may, by order published in theGazette, amend the Second Schedule.
-
-[7/2005 wef 01/04/2005]
 
 ### Refusal and cancellation of licences
 
@@ -230,7 +226,7 @@ shall be ground for the cancellation of his licence.
 
 [22/2000]
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Forms
 
@@ -260,7 +256,7 @@ Section 9(1)(d) and (2)
 
 6\. Cargo and marine insurance.
 
-7. Loss adjustment, adjustment of cargo, casualty or loss adjustment for fire, workmen’s compensation, burglary or insurance claims.
+7. Loss adjustment, adjustment of cargo, casualty or loss adjustment for fire, work injury compensation, burglary or insurance claims.
 
 [5/2008 wef 01/04/2008]
 
@@ -342,6 +338,12 @@ This Legislative History is provided for the convenience of users of the Apprais
 |||(Bill No. 63/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 April 2005|
+|14.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
 ## COMPARATIVE TABLE
 
 Appraisers and House Agents Act
