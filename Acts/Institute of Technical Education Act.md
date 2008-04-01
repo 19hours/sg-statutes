@@ -96,7 +96,7 @@
 
 - [37 Compulsory insurance](#Compulsory-insurance)
 
-- [38 Accidents happening to workmen during training provided or approved by Institute](#Accidents-happening-to-workmen-during-training-provided-or-approved-by-Institute)
+- [38 Accidents happening to employees during training provided or approved by Institute](#Accidents-happening-to-employees-during-training-provided-or-approved-by-Institute)
 
 - [39 Power to obtain information from employers](#Power-to-obtain-information-from-employers)
 
@@ -424,8 +424,6 @@ FINANCIAL PROVISIONS
 
 29\. The Institute may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
-
 ### Accounts to be kept
 
 30\. The Institute shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Institute and over the expenditure incurred by it.
@@ -494,13 +492,13 @@ MISCELLANEOUS
 
 37\. The Institute may require any person who attends any course or avails himself of any facility provided or approved by the Institute under this Act to be insured against personal injuries and loss of life.
 
-### Accidents happening to workmen during training provided or approved by Institute
+### Accidents happening to employees during training provided or approved by Institute
 
-38\.—(1) In relation to accidents happening to workmen (within the meaning of the Workmen’s Compensation Act) who attend courses or avail themselves of the facilities provided or approved by the Institute, that Act shall have effect subject to subsection (2).
+38\.—(1) In relation to accidents happening to employees (within the meaning of the Work Injury Compensation Act) who attend courses or avail themselves of the facilities provided or approved by the Institute, that Act shall have effect subject to subsection (2).
 
 [5/2008 wef 01/04/2008]
 
-(2) For the purposes of the Workmen’s Compensation Act, any act done by a workman for the purposes of and in connection with his training referred to in subsection (1) shall, if it is not done for the purposes of and in connection with his employer’s trade or business, be deemed to be so done.
+(2) For the purposes of the Work Injury Compensation Act [Cap. 354], any act done by an employee for the purposes of and in connection with his training referred to in subsection (1) shall, if it is not done for the purposes of and in connection with his employer’s trade or business, be deemed to be so done.
 
 [5/2008 wef 01/04/2008]
 
@@ -601,3 +599,9 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
