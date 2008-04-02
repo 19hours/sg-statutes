@@ -352,6 +352,10 @@ Section 2(1) and (3)
 
 Specified Organisations
 
+(1) Casino Regulatory Authority of Singapore
+
+[S 177/2008 wef 02/04/2008]
+
 (2) Central Provident Fund Board
 
 (3) Civil Aviation Authority of Singapore
@@ -518,3 +522,5 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Dates of commencement|10 June 2005 (Part IV)|
 |24.|**G.N. No. S 598/2005—Official Secrets Act (Amendment of Schedule) (No. 2) Notification 2005**|
 ||Date of commencement|14 September 2005|
+|25.|**G.N. No. S 177/2008—Official Secrets Act (Amendment of Schedule) Notification 2008**|
+||Date of commencement|2 April 2008|
