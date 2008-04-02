@@ -91,6 +91,12 @@ Agency for Science, Technology and Research
 
 Agency for Science, Technology and Research Act (Chapter 5A)
 
+1B.
+
+Casino Regulatory Authority of Singapore
+
+Casino Control Act (Chapter 33A)
+
 2.
 
 Central Provident Fund Board
@@ -380,6 +386,10 @@ Urban Redevelopment Authority Act
 
 [S 599/2005 wef 14/09/2005]
 
+[S 178/2008 wef 02/04/2008]
+
+[S 599/2005 wef 14/09/2005]
+
 [S 288/2005 wef 06/05/2005]
 
 Part II
@@ -511,3 +521,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|10 June 2005|
 |35.|**G. N. No. S 599/2005—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) (No. 2) Notification 2005**|
 ||Date of commencement|14 September 2005|
+|36.|**G. N. No. S 178/2008—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2008**|
+||Date of commencement|2 April 2008|
