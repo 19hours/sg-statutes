@@ -114,13 +114,19 @@ Plaintiffs to have equitable relief in claims
 
 (a) if any plaintiff claims to be entitled to any equitable estate or right, or to relief upon any equitable ground against any deed, instrument or contract, or against any right, title or claim whatsoever asserted by any defendant in such cause or matter, or to any relief founded upon a legal right, which before 1st January 1879 could only have been given by the court on its equity side, the court shall give to such plaintiff such and the same relief, as ought to have been given by the court, on its equity side, in a suit or proceeding for the same, or the like purpose, properly instituted before that date;
 
+[42/2005 wef 01/01/2006]
+
 Defendants the same in defences
 
 (b) if any defendant claims to be entitled to any equitable estate or right, or to relief upon any equitable ground against any deed, instrument or contract, or against any right, title or claim asserted by any plaintiff in such cause or matter, or alleges any ground of equitable defence to any claim of the plaintiff in such cause or matter, the court shall give to every equitable estate, right or ground of relief so claimed, and to every equitable defence so alleged, such and the same effect, by way of defence against the claim of such plaintiff, as the court on its equity side ought to have given, if the same or the like matters had been relied on by way of defence, in any suit or proceeding instituted in the court on its equity side, for the same or the like purpose, before 1st January 1879;
 
+[42/2005 wef 01/01/2006]
+
 Defendants to have relief against plaintiffs in suit, service and effect of service
 
 (c) the court may also grant to any defendant, in respect of any equitable estate or right, or other matter of equity, and also in respect of any legal estate, right or title claimed or asserted by him, all such relief against any plaintiff, as such defendant shall have properly claimed by his pleading, and as the court might have granted in any suit instituted for that purpose, by the same defendant against the same plaintiff before 1st January 1879 and also all such relief, relating to or connected with the original subject of the cause or matter, and in like manner claimed against any other person, whether already a party to the same cause or matter or not, who has been duly served with notice in writing of such claim, pursuant to the Rules of Court, as might properly have been granted against such person, if he had been made a defendant to a cause, duly instituted by the same defendant for the like purpose; and every person served with any such notice shall thenceforth be deemed a party to such cause or matter, with the same rights, in respect of his defence against such claim, as if he had been duly sued in the ordinary way by such defendant;
+
+[42/2005 wef 01/01/2006]
 
 Equitable rights appearing incidentally
 
@@ -130,9 +136,11 @@ Suits not to be restrained by prohibition or injunction
 
 (e) no cause or proceeding at any time pending in the court in its original jurisdiction or in the Court of Appeal, shall be restrained by prohibition or injunction; but every matter of equity on which an injunction against the prosecution of any such cause or proceeding might have been obtained if the Civil Law Ordinance 1878 (IV/1878) had not been passed, either unconditionally or on any terms or conditions, may be relied on by way of defence thereto;
 
-Court may grant stay of proceedingsin a summary way
+Court may grant stay of proceedings in a summary way
 
 (f) nothing in this Act shall disable the court from directing a stay of proceedings in any cause or matter pending before it, if it thinks fit; and any person, whether a party or not to any such cause or matter, who would have been entitled if the Civil Law Ordinance 1878 had not been passed, to apply to the court to restrain the prosecution thereof, or who may be entitled to enforce, by attachment or otherwise, any judgment, decree, rule or order, contrary to which all or any part of the proceedings in such cause or matter may have been taken, may apply to the court, by summons in a summary way, for a stay of proceedings in such cause or matter, either generally, or so far as is necessary for the purpose of justice; and the court shall thereupon make such order as is just;
+
+[42/2005 wef 01/01/2006]
 
 Subject as above, court to give effect to claims at law, and by custom or statute
 
@@ -207,6 +215,52 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 (3) Subsections (1) and (2) shall not be deemed to apply to any subscription or contribution, or agreement to subscribe or contribute, for or toward any plate, prize or sum of money to be awarded to the winner or winners of any lawful game, sport, pastime or exercise.
 
 [2/79]
+
+(3A) Subsections (1) and (2) shall not apply to —
+
+(a) a contract for gaming that is conducted under the control or supervision of a person or an organisation that is exempted under section 24 of the Common Gaming Houses Act (Cap. 49) from the provisions of that Act in respect of such gaming;
+
+(b) a contract for betting that is held, promoted, organised, administered or operated by a person or an organisation that is exempted under section 22 of the Betting Act (Cap. 21) from the provisions of that Act in respect of such betting, only if the betting takes place under the control or supervision of that person or organisation;
+
+(c) a contract for betting that takes place on a totalisator conducted by or on behalf of the Singapore Totalisator Board or a turf club in accordance with an approved scheme; and
+
+(d) a contract to participate in a private lottery promoted or conducted by the holder of a permit granted under section 8 of the Private Lotteries Act 2011.
+
+[10/2006 wef 02/04/2008]
+
+[7/2011 wef 01/04/2011]
+
+(3B) In the case of a person or an organisation exempted under section 24 of the Common Gaming Houses Act in respect of any gaming conducted for or on behalf of another person or organisation, subsection (3A)(a) applies only if the contract is for gaming conducted by that person or organisation for or on behalf of that other person or organisation.
+
+[10/2006 wef 02/04/2008]
+
+(3C) Subsection (3A)(a) shall not apply to any gaming conducted in premises owned or used by a private body exempted under the Common Gaming Houses Act.
+
+[10/2006docId=2006-ACT-10-N;docVerId=a8fac596-93ec-449f-a0d1-3b956b5d4cfb;transactionDate=20071031000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A9bdafce8-3ac1-4b95-bc4a-f291451a56c8%20ValidTime%3A20060314000000%20TransactionTime%3A20071031000000;rec%3D0;validDate=20060314000000;validated=validdocId=2006-ACT-10-N;docVerId=a8fac596-93ec-449f-a0d1-3b956b5d4cfb;transactionDate=20071031000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A9bdafce8-3ac1-4b95-bc4a-f291451a56c8%20ValidTime%3A20060314000000%20TransactionTime%3A20071031000000;rec%3D0;validDate=20060314000000;validated=valid wef 02/04/2008]
+
+(3D) In the case of a person or an organisation exempted under section 22 of the Betting Act in respect of any betting held, promoted, organised, administered or operated for or on behalf of another person or organisation, subsection (3A)(b) applies only if the contract is for betting held, promoted, organised, administered or operated by that person or organisation for or on behalf of that other person or organisation.
+
+[10/2006 wef 02/04/2008]
+
+(3E) In subsection (3A) —
+
+“contract” excludes a contract for or which involves —
+
+(a) the lending of any money or other valuable thing for such gaming or wagering;
+
+(b) the extension of any form of credit for such gaming or wagering; or
+
+(c) the giving of security in respect of the act referred to in paragraph (a) or (b);
+
+“private body” has the same meaning as in any notification made under the Common Gaming Houses Act (Cap. 49) which exempts gaming conducted in premises owned or used by a private body;
+
+“private lottery” has the same meaning as in the Private Lotteries Act 2011;
+
+[7/2011 wef 01/04/2011]
+
+“totalisator”, “Singapore Totalisator Board”, “turf club” and “approved scheme” have the same meanings as in the Singapore Totalisator Board Act (Cap. 305A).
+
+[10/2006 wef 02/04/2008]
 
 (4) For the avoidance of doubt, this section shall not affect the validity or enforceability of any contract or agreement entered into by either or each party by way of business and the making or performance of which by any party constitutes an investment activity.
 
@@ -798,6 +852,8 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 31\.—(1) Income arising from a settlement or disposition of property made on or after the date of commencement of the Trustees (Amendment) Act 2004 may, subject to the terms of the settlement or disposition to the contrary, be accumulated for the duration of the settlement or disposition.
 
+[45/2004 wef 15/12/2004]
+
 (2) Except as otherwise provided in subsection (4), income arising from a settlement or disposition of property made before the date of commencement of the Trustees (Amendment) Act 2004 shall not be wholly or partially accumulated for any longer period than one of the following, namely:
 
 (a) the life of the grantor or settlor;
@@ -812,7 +868,11 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 (f) the duration of the minority or respective minorities of any person or persons in being at the date of the making of the disposition.
 
+[45/2004 wef 15/12/2004]
+
 (3) In every case where any accumulation is directed otherwise than in accordance with subsection (2), the direction shall, except as otherwise provided in subsection (4), be void, and the income of the property directed to be accumulated shall, so long as the same is directed to be accumulated contrary to this section, go to and be received by the person or persons who would have been entitled thereto if such accumulation had not been directed.
+
+[45/2004 wef 15/12/2004]
 
 (4) Subsections (2) and (3) do not extend to any provision —
 
@@ -832,7 +892,11 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 32\.—(1) In the rule against perpetuities as is applicable to any settlement or disposition of property, the perpetuity period shall be 100 years or such shorter period as may be specified in the instrument by which the settlement or disposition is made.
 
+[45/2004 wef 15/12/2004]
+
 (2) Where any instrument making any settlement or disposition of property refers to lives in being or specifies a perpetuity period that exceeds 100 years, the perpetuity period shall be deemed to be a period of 100 years.
+
+[45/2004 wef 15/12/2004]
 
 (3) This section shall apply in relation to —
 
@@ -850,6 +914,8 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 (b) it could, at all times during its currency when that person is of full age and capacity, be exercised by him so as immediately to transfer to himself the whole of the interest governed by the power without the consent of any other person or compliance with any other condition, not being a formal condition relating only to the mode of exercise of the power.
 
+[45/2004 wef 15/12/2004]
+
 (2) For the purpose of determining whether a disposition made under a power of appointment exercisable by will only is void for remoteness, the power shall be treated as a general power where it would have fallen to be so treated if exercisable by deed.
 
 [45/2004 wef 15/12/2004]
@@ -858,9 +924,15 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 34\.—(1) Where, apart from the provisions of this section, a disposition would be invalid as infringing the rule against perpetuities, the disposition shall be treated, until such time (if any) as it becomes certain that the vesting will occur, if at all, after the end of the perpetuity period, as if the disposition were not invalid as infringing the rule against perpetuities, and its becoming so certain shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income, or otherwise.
 
+[45/2004 wef 15/12/2004]
+
 (2) Where, apart from the provisions of this section, a disposition consisting of the conferring of a general power of appointment would be invalid as infringing the rule against perpetuities, the disposition shall be treated, until such time (if any) as it becomes certain that the power will not be exercisable within the perpetuity period, as if the disposition were not invalid as infringing the rule against perpetuities.
 
+[45/2004 wef 15/12/2004]
+
 (3) Where, apart from the provisions of this section, a disposition consisting of the conferring of any power, option, or other right would be invalid as infringing the rule against perpetuities, the disposition shall be treated as regards any exercise of the right within the perpetuity period as if it were not so invalid and, subject to the provisions of this section, shall be treated as invalid as infringing the rule against perpetuities only if and so far as the right is not fully exercised within that period.
+
+[45/2004 wef 15/12/2004]
 
 (4) This section shall apply only in relation to dispositions made on or after the date of commencement of the Trustees (Amendment) Act 2004.
 
@@ -994,6 +1066,12 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
 |||(Item (8) in the First Schedule)|
+|27.|**Act 10 of 2006—Casino Control Act 2006**|
+||Date of First Reading|16 January 2006|
+|||(Bill No. 3/2006 published on 17 March 2006)|
+||Date of Second and Third Readings|14 February 2006|
+||Date of commencement|2 April 2008|
+|||(Section 201 — related amendments to Civil Law Act)|
 ## COMPARATIVE TABLE
 
 Civil Law Act
