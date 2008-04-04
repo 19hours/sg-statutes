@@ -72,7 +72,7 @@
 
 - [28 Time of importation when duty is imposed](#Time-of-importation-when-duty-is-imposed)
 
-- [29 Questions in respect of goods deemed to be dutiable](#Questions-in-respect-of-goods-deemed-to-be-dutiable)
+- [29 Customs rulings](#Customs-rulings)
 
 - [30 Import of trade samples](#Import-of-trade-samples)
 
@@ -120,7 +120,7 @@
 
 - [49 Government warehouses](#Government-warehouses)
 
-- [50 Licensed factory warehouses](#Licensed-factory-warehouses)
+- [50 (Repealed)](#Repealed)
 
 - [51 Licensed warehouses](#Licensed-warehouses)
 
@@ -194,7 +194,11 @@
 
 - [82 Duty free shops for tourists](#Duty-free-shops-for-tourists)
 
-- [83 (Repealed)](#Repealed)
+[**Part XI composite LICENCE**](#Part-XI)
+
+- [83 Grant of composite licence](#Grant-of-composite-licence)
+
+- [84 (Repealed)](#Repealed)
 
 [**Part XII MISCELLANEOUS PROVISIONS**](#Part-XII)
 
@@ -294,11 +298,35 @@
 
 [**Part XV OFFENCES AND PENALTIES**](#Part-XV)
 
-- [128 Penalty on making incorrect declarations and on falsifying documents](#Penalty-on-making-incorrect-declarations-and-on-falsifying-documents)
+- [128 Offences in relation to making and signing untrue or incorrect or incomplete declarations, certificates and documents](#Offences-in-relation-to-making-and-signing-untrue-or-incorrect-or-incomplete-declarations-certificates-and-documents)
+
+- [128A Offences in relation to falsifying documents](#Offences-in-relation-to-falsifying-documents)
+
+- [128B Offences in relation to failure to make declarations](#Offences-in-relation-to-failure-to-make-declarations)
+
+- [128C Offences in relation to failure to produce trade documents](#Offences-in-relation-to-failure-to-produce-trade-documents)
+
+- [128D Offences in relation to fraudulent evasion](#Offences-in-relation-to-fraudulent-evasion)
+
+- [128E Offences in relation to goods found in person’s baggage or upon his person, etc.](#Offences-in-relation-to-goods-found-in-person’s-baggage-or-upon-his-person-etc)
+
+- [128F Offences in relation to importation of uncustomed or prohibited goods](#Offences-in-relation-to-importation-of-uncustomed-or-prohibited-goods)
+
+- [128G Offences in relation to exportation of uncustomed or prohibited goods](#Offences-in-relation-to-exportation-of-uncustomed-or-prohibited-goods)
+
+- [128H Offences in relation to shipping, unshipping, loading, unloading, etc., of uncustomed or prohibited goods](#Offences-in-relation-to-shipping-unshipping-loading-unloading-etc-of-uncustomed-or-prohibited-goods)
+
+- [128I Offences in relation to possession, storage, conveying and harbouring of goods](#Offences-in-relation-to-possession-storage-conveying-and-harbouring-of-goods)
+
+- [128J Offences in relation to duty-free allowances](#Offences-in-relation-to-duty-free-allowances)
+
+- [128K Offences in relation to illegal removal of goods from customs control, etc., and carrying on of certain activities without licence](#Offences-in-relation-to-illegal-removal-of-goods-from-customs-control-etc-and-carrying-on-of-certain-activities-without-licence)
+
+- [128L Penalty for various offences](#Penalty-for-various-offences)
 
 - [129 Penalty on refusing to answer questions or on giving false information or false document](#Penalty-on-refusing-to-answer-questions-or-on-giving-false-information-or-false-document)
 
-- [130 Penalty for various offences](#Penalty-for-various-offences)
+- [130 (Repealed)](#Repealed)
 
 - [131 Evading duty by unauthorised modification of computer program or data](#Evading-duty-by-unauthorised-modification-of-computer-program-or-data)
 
@@ -329,6 +357,8 @@
 - [143 Power to make regulations](#Power-to-make-regulations)
 
 - [144 References in written laws and documents](#References-in-written-laws-and-documents)
+
+[**THE SCHEDULE Customs Rulings**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -386,7 +416,7 @@ PRELIMINARY
 
 “bottling”, in the case of intoxicating liquors, includes blending, compounding and varying any intoxicating liquor with intent that the blend, compound or varied intoxicating liquor so formed shall be sold for human consumption, but does not include any such blend, compound or varied intoxicating liquor prepared at the order of a purchaser, and for immediate consumption;
 
-“bottling warehouse” means a warehouse licensed by the Director-General for the bottling, blending, compounding or varying of intoxicating liquor under section 66(1) ;
+“bottling warehouse” means a warehouse licensed by the Director-General for the bottling, blending, compounding or varying of intoxicating liquor under section 66(1) or 83(4);
 
 “captain of an aircraft” means every person having or taking command or charge of an aircraft;
 
@@ -406,7 +436,7 @@ PRELIMINARY
 
 (b) the consumption of which is harmful to human beings,
 
-as certified by an analyst employed by the Health Sciences Authority;
+as certified by an analyst employed by such laboratory as the Director-General may specify;
 
 “denatured” means rendered unfit for human consumption to the satisfaction of the Director-General;
 
@@ -428,8 +458,6 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare” ;
 
-“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
-
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
 “import” means to bring or cause to be brought into the customs territory by any means from any place including a free trade zone; except that goods bona fide in transit, including goods which have been taken into any free trade zone from outside the customs territory or transhipped, shall not, for the purpose of the levy of customs duties or excise duties, be deemed to be imported unless they are or become uncustomed goods;
@@ -444,9 +472,7 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
-“licensed factory warehouse” means any place or premises licensed under section 50 for the warehousing of dutiable goods, which goods may be removed by a licensee for the purpose of manufacture of goods for export or otherwise before payment of the customs duty or excise duty payable thereon, and also for the warehousing of finished and semi-finished products, partly or wholly manufactured from dutiable raw materials;
-
-“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1) ;
+“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1) or 83 (4);
 
 “local craft” means any junk, tongkang, prahu, or other similar type of vessel, and any steam or motor vessel under 75 net registered tons and includes any type of motor vessel whether fitted with inboard engine or outboard motor;
 
@@ -518,7 +544,7 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 [S 270/71]
 
-(2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse,licensed factory warehouse or licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
+(2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse, licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
 
 [23/93]
 
@@ -634,17 +660,25 @@ LEVYING OF DUTY AND TAX
 
 ### Power of Minister to exempt
 
-13\.—(1) The Minister may, by order, exempt, subject to such conditions as he may consider fit to impose, any class of goods or persons from the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable.
+13\.—(1) The Minister may, by order published in theGazette, exempt any class of goods or persons from —
 
-[33/2000]
+(a) any provision of this Act; or
 
-(2) The Minister may in any particular case —
+(b) the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable.
 
-(a) exempt any person from the payment of the whole or any part of the customs duties , excise duties, taxes, fees or other charges which may be payable by that person; or
+[3/2008 wef 04/04/2008]
 
-(b) direct the remission or refund of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
+(2) The Minister may, in any particular case —
 
-[33/2000; 4/2003]
+(a) exempt any person from —
+
+(i) any provision of this Act; or
+
+(ii) the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable by that person; or
+
+(b) direct the remission or refund of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
+
+[3/2008 wef 04/04/2008]
 
 (3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions as he may consider fit.
 
@@ -717,6 +751,10 @@ unless notice in writing of the claim has been given at or before the time of th
 (c) payable in advance at such time and in such manner as the Minister may prescribe.
 
 [10/92]
+
+(2A) All amounts collected before the date of commencement of the Customs (Amendment) Act 2008 as, or purportedly as, the special tax chargeable under subsection (1) shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law for or on account of or in respect of any such collection.
+
+[3/2008 wef 04/04/2008]
 
 (3) The Minister may prescribe the manner and circumstances for the refund of or exemption from the special tax.
 
@@ -808,7 +846,7 @@ to order the refund of the money so overpaid or erroneously paid.
 
 (a) in the case of goods lawfully imported or manufactured in Singapore —
 
-(i) if the goods are in a Government warehouse, licensed factory warehouse or licensed warehouse, the rate and valuation in force at the time when those goods are removed from the Government warehouse, licensed factory warehouse or licensed warehouse, as the case may be;
+(i) if the goods are in a Government warehouse or licensed warehouse, the rate and valuation in force at the time when those goods are removed from the Government warehouse or licensed warehouse, as the case may be;
 
 (ii) if the goods are imported by post, the rate and valuation in force at the time when customs duty or excise duty is assessed by the proper officer of customs; and
 
@@ -817,6 +855,8 @@ to order the refund of the money so overpaid or erroneously paid.
 (b) in the case of uncustomed goods, the rate and valuation in force at the time when the goods became uncustomed goods, if known, or the rate and valuation in force at the time of seizure, whichever is the higher.
 
 [33/2000]
+
+[3/2008 wef 04/04/2008]
 
 ### Value of imported or locally-manufactured goods, other than motor spirit, for excise duty
 
@@ -910,11 +950,13 @@ to order the refund of the money so overpaid or erroneously paid.
 
 (a) after payment of the customs duty or excise duty payable thereon;
 
-(b) under such conditions as the Director-General may impose for deposit in a Government warehouse, licensed factory warehouse or licensed warehouse; or
+(b) under such conditions as the Director-General may impose for deposit in a Government warehouse or licensed warehouse; or
 
 (c) under such conditions as the Director-General may impose in any particular case.
 
 [33/2000]
+
+[3/2008 wef 04/04/2008]
 
 (2) In no case shall any goods be removed from a Government warehouse until all warehouse rent and other charges due in respect thereof have been paid.
 
@@ -944,11 +986,15 @@ to order the refund of the money so overpaid or erroneously paid.
 
 [33/2000]
 
-### Questions in respect of goods deemed to be dutiable
+### Customs rulings
 
-29\.—(1) If any question arises as to whether any particular goods are or are not included in a class of goods appearing in an order made under section 10(1), such question shall be decided by the Director-General.
+29\.—(1) The Director-General may, on an application made in accordance with the Schedule, make a ruling on any of the matters specified in the Schedule in accordance with the Schedule.
 
-(2) Any certificate purporting to be signed by the Director-General stating his decision under subsection (1) shall be admitted in evidence without proof of signature for the purpose of any proceedings under this Act.
+(2) The Schedule shall apply to and in connection with an application under subsection (1) and any ruling made by the Director-General under that subsection.
+
+(3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the Schedule.
+
+[3/2008 wef 04/04/2008]
 
 ### Import of trade samples
 
@@ -1016,7 +1062,13 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (b) of dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed such amount as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
 
-(c) of intoxicating liquors or tobacco of such type and quantity as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
+(c) of intoxicating liquors or tobacco of such type and quantity as —
+
+(i) the Minister may by order prescribe; or
+
+(ii) the Director-General may, subject to any general or special directions of the Minister, determine,
+
+and which is in the possession or in the baggage of any person arriving in Singapore;
 
 (d) of petroleum for use in the propulsion of a motor vehicle or an aircraft which —
 
@@ -1026,11 +1078,15 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (B) is of such amount as the Minister may by order prescribe and which is carried in a spare container of the motor vehicle; and
 
-(ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft; and
+(ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft;
 
-(e) of dutiable goods imported by post unless so required by the proper officer of customs.
+(e) of dutiable goods imported by post unless so required by the proper officer of customs; and
+
+(f) of such dutiable goods as the Director-General may, subject to any general or special directions of the Minister, determine.
 
 [23/93; 4/2003]
+
+[3/2008 wef 04/04/2008]
 
 (3) The Director-General may, subject to such conditions as he may impose, authorise any person to remove, without a permit, goods of a class dutiable on import intended for transhipment or in transit —
 
@@ -1242,25 +1298,7 @@ WAREHOUSING
 
 (3) The Director-General may, in his discretion, permit the storage of non-dutiable or duty-paid goods in a Government warehouse subject to such conditions as he may impose.
 
-### Licensed factory warehouses
-
-50\.—(1) The Director-General may, in his discretion, grant a licence to any person (referred to in this section as the licensee) to operate a licensed factory warehouse and may, in his discretion, suspend or withdraw any such licence.
-
-(2) Such licence shall be granted upon payment of the prescribed fee and shall be for such period and subject to such conditions as the Director-General may in each case specify in the licence.
-
-(3) A senior officer of customs, or any officer of customs deputed by him for the purpose, shall at all times have access to any licensed factory warehouse for the purpose of checking accounts and records and for such other purposes as may be considered necessary.
-
-(4) If it appears at any time that in any licensed factory warehouse there is a deficiency in the quantity of dutiable goods which ought to be found therein, the licensee of the warehouse shall —
-
-(a) in the absence of proof to the contrary, be presumed to have illegally removed the goods; and
-
-(b) without prejudice to any proceedings under this Act, be liable to pay immediately to the proper officer of customs the duty leviable on the goods found deficient.
-
-(5) If, it is shown to the satisfaction of the Director-General that the deficiency has been caused by theft or by unavoidable leakage, breakage or other accident, or by evaporation, the Director-General may remit the whole or any part of the duty leviable on the goods found deficient.
-
-(6) The licensee shall not be entitled to any compensation for the suspension or withdrawal of any licence granted under subsection (1), or for the surrender of the licence.
-
-(7) The Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
+50\. [Repealed by Act 3/2008 wef 04/04/2008]
 
 ### Licensed warehouses
 
@@ -1288,15 +1326,21 @@ WAREHOUSING
 
 (a) by sea, shall on first arrival be landed and deposited by the importer or his agent in a free trade zone; and
 
-(b) by any other means, shall on first arrival or landing be deposited by the importer or his agent in a Government warehouse, licensed factory warehouse or licensed warehouse or, if so required, a customs office or customs station or in any other place approved by the Director-General in writing.
+(b) by any other means, shall on first arrival or landing be deposited by the importer or his agent in a Government warehouse or licensed warehouse or, if so required, a customs office or customs station or in any other place approved by the Director-General in writing.
 
-(2) If the Director-General is satisfied that for any reason it is not practicable to land or deposit any dutiable goods in a free trade zone or in a Government warehouse, licensed factory warehouse or licensed warehouse, or a customs office or a customs station or in any other place approved by the Director-General in writing, he may exempt those goods from being so landed or deposited, subject to such conditions as he may impose.
+[3/2008 wef 04/04/2008]
+
+(2) If the Director-General is satisfied that for any reason it is not practicable to land or deposit any dutiable goods in a free trade zone or in a Government warehouse or licensed warehouse, or a customs office or a customs station or in any other place approved by the Director-General in writing, he may exempt those goods from being so landed or deposited, subject to such conditions as he may impose.
+
+[3/2008 wef 04/04/2008]
 
 (3) Notwithstanding subsection (1), such goods as may be prescribed by the Minister under section 5(4) of the Free Trade Zones Act (Cap. 114), shall —
 
-(a) be deposited in a Government warehouse, licensed factory warehouse or licensed warehouse; and
+(a) be deposited in a Government warehouse or licensed warehouse; and
 
 (b) be liable to warehouse rent at the prescribed rates applicable to those goods.
+
+[3/2008 wef 04/04/2008]
 
 (4) Any dutiable goods imported by rail may be consigned to, and shall be deemed to have first arrived on reaching, the customs station along the railway.
 
@@ -1322,7 +1366,7 @@ WAREHOUSING
 
 ### Power to open and examine goods or packages
 
-54\. A senior officer of customs may, at any time, direct that any goods or package lodged in any Government warehouse, licensed factory warehouse or licensed warehouse or customs office or customs station or in any other place approved by the Director-General in writing shall be opened, weighed or otherwise examined, and, after the goods or package has been so opened or examined, may cause the same to be sealed or marked in such manner as he thinks fit.
+54\. A senior officer of customs may, at any time, direct that any goods or package lodged in any Government warehouse or licensed warehouse or customs office or customs station or in any other place approved by the Director-General in writing shall be opened, weighed or otherwise examined, and, after the goods or package has been so opened or examined, may cause the same to be sealed or marked in such manner as he thinks fit.
 
 ### Detention of goods where doubt exists
 
@@ -1350,11 +1394,15 @@ WAREHOUSING
 
 ### Removal of dutiable goods from customs control
 
-59\.—(1) Every owner of goods warehoused under sections 50, 51, 52 and 60 shall, before removal of the goods or any part thereof from customs control, make personally or by his agent to the proper officer of customs a declaration, in accordance with section 96, of the goods to be removed.
+59\.—(1) Every owner of goods warehoused under section 51, 52, 60 or 83 shall, before removal of the goods or any part thereof from customs control, make personally or by his agent to the proper officer of customs a declaration, in accordance with section 96, of the goods to be removed.
 
 [23/93]
 
-(2) Goods deposited in a licensed factory warehouse orlicensed warehouse may be removed therefrom without such prior declaration subject to such conditions as the Director-General may impose.
+[3/2008 wef 04/04/2008]
+
+(2) Goods deposited in a licensed warehouse may be removed therefrom without such prior declaration subject to such conditions as the Director-General may impose.
+
+[3/2008 wef 04/04/2008]
 
 ### Landing of dutiable goods for transhipment
 
@@ -1378,17 +1426,23 @@ MANUFACTURE AND BOTTLING
 
 ### Licence to manufacture dutiable goods
 
-63\.—(1) No person shall manufacture any dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the place of manufacture specified in the licence.
+63\.—(1) No person shall manufacture any dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the place or places of manufacture specified in the licence.
 
 [4/2003]
 
-(2) Such licence shall, with the approval of the Minister, be granted at the discretion of the Director-General, and upon payment of the prescribed fee and shall be for such period and subject to such conditions as may be prescribed by regulations made under this Act, and to such further conditions as the Minister may direct to be endorsed on the licence.
+(2) Such licence shall, on payment of such fee as may be prescribed, be granted at the discretion of the Director-General for such period as may be prescribed and subject to —
 
-(3) Such licence may be suspended or withdrawn at any time by the Minister.
+(a) such conditions as may be prescribed; and
+
+(b) such further conditions as the Director-General may direct to be endorsed on the licence in any particular case.
+
+[3/2008 wef 04/04/2008]
+
+(3) Such licence may be suspended or withdrawn at any time by the Director-General.
 
 (4) A licence to manufacture any dutiable goods shall be deemed to include the following:
 
-(a) a licence for warehousing such dutiable goods as provided for in sections 50(1) and 51(1); and
+(a) a licence for warehousing such dutiable goods as provided for in section 51 (1); and
 
 (b) where the dutiable goods consist of intoxicating liquors, a licence for the bottling of such intoxicating liquors as provided for in section 66(1).
 
@@ -1400,7 +1454,9 @@ MANUFACTURE AND BOTTLING
 
 ### No person except licensee to keep a still, etc.
 
-64\.—(1) No person, other than the holder of a licence under section 63(1), shall knowingly keep or have in his possession any still, utensil or other apparatus for distilling, fermenting or otherwise manufacturing intoxicating liquors or any power-operated machinery for the manufacture of tobacco or any other apparatus for the manufacture of dutiable goods.
+64\.—(1) No person, other than the holder of a licence under section 63(1), or under section 83(3) for manufacturing dutiable goods, shall knowingly keep or have in his possession any still, utensil or other apparatus for distilling, fermenting or otherwise manufacturing intoxicating liquors or any power-operated machinery for the manufacture of tobacco or any other apparatus for the manufacture of dutiable goods.
+
+[3/2008 wef 04/04/2008]
 
 (2) The owner and the occupier of any land or premises upon which any still, utensil or other apparatus for distilling, fermenting or otherwise manufacturing intoxicating liquors or any power-operated machinery for the manufacture of tobacco or any apparatus for the manufacture of dutiable goods is found shall each be deemed, until the contrary is proved, knowingly to have kept or had in his possession such still, utensil or other apparatus or power-operated machinery for the manufacture of tobacco or apparatus for the manufacture of dutiable goods, as the case may be.
 
@@ -1410,15 +1466,23 @@ MANUFACTURE AND BOTTLING
 
 ### Bottling warehouse
 
-66\.—(1) No person shall bottle any intoxicating liquors imported or manufactured in Singapore, or blend, compound or vary any intoxicating liquors except under and in accordance with the provisions of a licence granted by the Director-General and at the bottling warehouse specified in the licence.
+66\.—(1) No person shall bottle any intoxicating liquors imported or manufactured in Singapore, or blend, compound or vary any intoxicating liquors except under and in accordance with the provisions of a licence granted by the Director-General and at the bottling warehouse or warehouses specified in the licence.
+
+[3/2008 wef 04/04/2008]
 
 (2) Such licence shall be granted at the discretion of the Director-General upon payment of the prescribed fee, and shall be for such period and subject to such conditions as may be prescribed by regulations made under this Act, and may be suspended or withdrawn at any time by the Director-General.
+
+(2A) A licence to bottle any intoxicating liquors imported or manufactured in Singapore, or to blend, compound or vary any such intoxicating liquors at a bottling warehouse specified therein shall be deemed to be a licence for warehousing such dutiable goods at the bottling warehouse as provided for in section 51(1).
+
+[3/2008 wef 04/04/2008]
 
 (3) The licensee shall not be entitled to any compensation for the suspension or withdrawal of any licence granted under subsection (2) or for the surrender of the licence, but the Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
 
 ### Prohibition on keeping of utensil, apparatus, etc., for bottling, blending, etc.
 
-67\.—(1) No person, other than the holder of a licence under section 66(1), shall knowingly keep or have in his possession any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquors.
+67\.—(1) No person, other than the holder of a licence under section 66(1), or under section 83(3) for bottling intoxicating liquors imported or manufactured in Singapore, or blending, compounding or varying any intoxicating liquors, shall knowingly keep or have in his possession any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquors.
+
+[3/2008 wef 04/04/2008]
 
 (2) The owner and the occupier of any land or premises upon which any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquors is found shall each be deemed, until the contrary is proved, knowingly to have kept or had in his possession such utensil, apparatus, material or ingredient for the bottling, blending, compounding or varying of intoxicating liquors, as the case may be.
 
@@ -1546,7 +1610,7 @@ DRAWBACK
 
 78\. Where any tobacco on which duty has been paid is manufactured in Singapore and is re-exported as part or ingredient of the manufactured tobacco, the Director-General may, on such re-export, allow to the manufacturer a drawback of the whole or such proportion of the duty paid as the Minister may prescribe if —
 
-(a) the tobacco has been manufactured in a factory licensed under section 63(1) ;
+(a) the tobacco has been manufactured in a factory licensed under section 63(1) or under section 83(3) for manufacturing dutiable goods;
 
 (b) provision to the satisfaction of the Director-General has been made for the control and supervision in the factory of the deposit and issue for use of the tobacco on which duty has been paid;
 
@@ -1557,6 +1621,8 @@ DRAWBACK
 (e) the prescribed monthly supplementary licence fee has been paid before the removal into the factory of the tobacco as it is intended to re-export after manufacture.
 
 [33/2000]
+
+[3/2008 wef 04/04/2008]
 
 ### Drawback on imported goods on which duty has been paid
 
@@ -1636,9 +1702,57 @@ DUTY FREE SHOPS FOR TOURISTS
 
 (9) Any person who contravenes subsection (8) shall be guilty of an offence.
 
-Drawback on goods sold to tourists
+## PART XI
 
-83\. [Repealed by Act 4/2003]
+composite LICENCE
+
+### Grant of composite licence
+
+83\.—(1) Any person who intends to carry out 2 or more specified activities for which 2 or more licences under this Act or the Goods and Services Tax Act (Cap. 117A) are required may, on payment of such fees as may be prescribed, apply for a single composite licence authorising the person to carry out those specified activities.
+
+(2) An application for a composite licence for specified activities shall be made to —
+
+(a) the Director-General; or
+
+(b) if any of the specified activities is an activity referred to in paragraph (b) of the definition of “specified activity” in subsection (9), the Director-General and the Comptroller.
+
+(3) On receipt of an application under subsection (2), the Director-General, or the Director-General and the Comptroller, as the case may be, may grant a composite licence to the applicant.
+
+(4) Every composite licence granted under subsection (3) shall specify the person to whom, the premises in respect of which, and the activities for which, the licence is granted.
+
+(5) Every composite licence granted under subsection (3) shall be for such period and subject to such conditions as may be specified in the licence.
+
+(6) The Director-General may suspend or withdraw the whole of any composite licence granted under subsection (3), or such part of any such composite licence relating to any of the activities referred to in paragraph (a) of the definition of “specified activity” in subsection (9).
+
+(7) The Comptroller may suspend or withdraw the part of any composite licence granted under subsection (3) relating only to the activity referred to in paragraph (b) of the definition of “specified activity” in subsection (9).
+
+(8) Where a composite licence has been granted under subsection (3) in respect of 2 or more specified activities specified in the licence —
+
+(a) the licensee shall not be required by this Act or the Goods and Services Tax Act (Cap. 117A) to take out a separate licence for each of those activities; and
+
+(b) the premises in respect of which the composite licence is granted shall be deemed to be licensed under the relevant provisions of this Act or the Goods and Services Tax Act, as the case may be.
+
+(9) In this section —
+
+“Comptroller” means the Comptroller of Goods and Services Tax and includes any person authorised by him to grant a composite licence;
+
+“specified activity” means —
+
+(a) in relation to any goods liable to duty —
+
+(i) warehousing dutiable goods for which a licence is required under section 51;
+
+(ii) manufacturing dutiable goods for which a licence is required under section 63;
+
+(iii) bottling intoxicating liquors imported or manufactured in Singapore, or blending, compounding or varying any such intoxicating liquors, for which a licence is required under section 66; or
+
+(iv) selling goods to tourists and to returning or departing residents of Singapore free of duty for which a licence is required under section 82; or
+
+(b) in relation to any goods liable to goods and services tax on the import of goods into Singapore under the Goods and Services Tax Act (Cap. 117A), storing goods without payment of such tax for which a licence is required under regulations made pursuant to section 37(3)(c) of that Act.
+
+Sale by retail vested in Director-General
+
+84\. [Repealed by Act 4/2003]
 
 ## PART XII
 
@@ -1850,11 +1964,13 @@ except where it is necessary for the purposes of —
 
 (2) The documents and records referred to in subsection (1) shall be retained —
 
-(a) in relation to goods in a Government warehouse, licensed factory warehouse or licensed warehouse, for a period of not less than 5 years from the date those goods are removed from the Government warehouse, licensed factory warehouse or licensed warehouse, as the case may be; or
+(a) in relation to goods in a Government warehouse or licensed warehouse, for a period of not less than 5 years from the date those goods are removed from the Government warehouse or licensed warehouse, as the case may be; or
 
 (b) in any other case, for a period of not less than 5 years from the date on which the goods are released by the proper officer of customs.
 
 [2/2007 wef 01/03/2007]
+
+[3/2008 wef 04/04/2008]
 
 (3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2304,7 +2420,7 @@ shall, until the contrary is proved, be presumed to have had those dutiable, pro
 
 ### Analyst’s certificate
 
-118\.—(1) A certificate purporting to be signed by an analyst employed by the Health Sciences Authority (referred to in this section as an analyst) and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
+118\.—(1) A certificate purporting to be signed by an analyst employed by such laboratory as the Director-General may specify (referred to in this section as an analyst) and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
 
 [23/93; 24/96; 4/2001]
 
@@ -2406,37 +2522,207 @@ with one additional month for every $100 after the first $200 of the fine until 
 
 OFFENCES AND PENALTIES
 
-### Penalty on making incorrect declarations and on falsifying documents
+### Offences in relation to making and signing untrue or incorrect or incomplete declarations, certificates and documents
 
 128\.—(1) Any person who —
 
 (a) makes, orally or in writing, or signs any declaration, certificate or other document required by this Act, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
 
-(b) makes, orally or in writing, or signs any declaration or document, made for consideration of any officer of customs on any application presented to him, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+(b) makes, orally or in writing, or signs any declaration or document, made for consideration of any officer of customs on any application presented to him, which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom; or
 
-(c) counterfeits or falsifies, or uses, when counterfeited or falsified, any document which is or may be required under this Act or any document used in the transaction of any business or matter relating to customs;
+(c) being required by this Act to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty or excise duty, makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom,
 
-(d) being required by this Act to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of assessment of customs duty or excise duty, fails to make the declaration as required or makes such declaration which is untrue or incorrect in any particular or which is incomplete by omitting any material particular therefrom;
+shall be guilty of an offence.
 
-(e) fraudulently alters any document, or counterfeits the seal, signature, initials or other mark of, or used by, any officer of customs for the verification of any such document or for the security of any goods or any other purpose in the conduct of business relating to customs;
-
-(f) being required by this Act to make a declaration of dutiable goods imported, exported or transhipped, fails to make the declaration as required; or
-
-(g) fails or refuses to produce to a proper officer of customs any document required to be produced under section 90,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or the equivalent of the exact amount of customs duty, excise duty or tax payable, whichever is the greater, or to imprisonment for a term not exceeding 12 months or to both.
-
-[23/93; 24/96; 33/2000]
-
-(2) When any such declaration, whether oral or written, or any such certificate or other document as is referred to in subsection (1)(a), (b), (c) and (d) has been proved to be untrue or incorrect or incomplete or counterfeited or falsified in whole or in part, it shall be no defence to allege —
+(2) When any such declaration, whether oral or written, or any such certificate or other document has been proved to be untrue or incorrect or incomplete in whole or in part, it shall be no defence to allege —
 
 (a) that the declaration, certificate or other document was made or used inadvertently or without criminal or fraudulent intent, or that the person signing the same was not aware of, or did not understand the contents of, the document; or
 
 (b) where the declaration was made or recorded in English by interpretation from any other language, that the declaration was misinterpreted or not fully interpreted by any interpreter provided by the declarant.
 
-(3) When a failure to make a declaration as referred to in subsection (1)(f) has been proved, it shall be no defence to allege that the failure was inadvertent or without criminal or fraudulent intent or that it was not known that such a declaration is required to be made.
+[3/2008 wef 04/04/2008]
 
-[24/96]
+### Offences in relation to falsifying documents
+
+128A\.—(1) Any person who —
+
+(a) counterfeits or falsifies, or uses, when counterfeited or falsified —
+
+(i) any document which is or may be required under this Act; or
+
+(ii) any document used in the transaction of any business or matter relating to customs; or
+
+(b) fraudulently alters any document, or counterfeits the seal, signature, initials or other mark of, or used by, any officer of customs for the verification of any such document or for the security of any goods or any other purpose in the conduct of business relating to customs,
+
+shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+(2) When any such document has been proved to be counterfeited or falsified in whole or in part, it shall be no defence to allege that the document was made or used inadvertently or without criminal or fraudulent intent.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to failure to make declarations
+
+128B\.—(1) Any person who, being required by this Act to do so —
+
+(a) fails to make a declaration of dutiable goods which are imported into, exported from or transhipped in Singapore; or
+
+(b) fails to make a declaration of the value of dutiable goods imported into or manufactured in Singapore for the purpose of the assessment of customs duty or excise duty,
+
+shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+(2) When a failure to make a declaration has been proved, it shall be no defence to allege that the failure was inadvertent or without criminal or fraudulent intent, or that it was not known that such a declaration is required to be made.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to failure to produce trade documents
+
+128C\. Any person who fails or refuses to produce to a proper officer of customs any document required to be produced under section 85 shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to fraudulent evasion
+
+128D\. Any person who is in any way concerned in any fraudulent evasion of, or attempt to fraudulently evade, any customs duty or excise duty shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to goods found in person’s baggage or upon his person, etc.
+
+128E\. Any person who after he denies having, is found to have, any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to importation of uncustomed or prohibited goods
+
+128F\. Any person who is in any way concerned in importing any uncustomed or prohibited goods shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to exportation of uncustomed or prohibited goods
+
+128G\. Any person who is in any way concerned in exporting any uncustomed or prohibited goods shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to shipping, unshipping, loading, unloading, etc., of uncustomed or prohibited goods
+
+128H\. Any person who ships, unships, loads, unloads, lands or delivers, or who assists or is concerned in the shipping, unshipping, loading, unloading, landing or delivery of, any uncustomed or prohibited goods, whether or not the goods are shipped, unshipped, loaded, unloaded, landed or delivered, shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to possession, storage, conveying and harbouring of goods
+
+128I\. Any person who —
+
+(a) stores, keeps or has in his possession any —
+
+(i) dutiable or prohibited goods, except under customs control; or
+
+(ii) uncustomed goods;
+
+(b) is in any way concerned in conveying, removing, depositing or dealing with any dutiable, uncustomed or prohibited goods with intent to defraud the Government of any customs duty or excise duty thereon, or to evade any of the provisions of this Act; or
+
+(c) knowingly harbours or conceals, or permits, suffers, causes, or procures to be harboured or concealed, any dutiable, uncustomed or prohibited goods,
+
+shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to duty-free allowances
+
+128J\. Any person who sells, exchanges or gives away, or offers to sell, exchange or give away, to any person in Singapore goods which are his duty-free allowances in Singapore shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Offences in relation to illegal removal of goods from customs control, etc., and carrying on of certain activities without licence
+
+128K\. Any person who —
+
+(a) illegally removes or withdraws, or in any way assists or is concerned in the illegal removal or withdrawal of, any goods from any customs control;
+
+(b) is in any way concerned in the manufacture of any dutiable or prohibited goods —
+
+(i) in contravention of section 63; or
+
+(ii) without a licence granted under section 83 for manufacturing dutiable goods; or
+
+(c) is in any way concerned in bottling, blending, compounding or varying any intoxicating liquors —
+
+(i) in contravention of section 66; or
+
+(ii) without a licence granted under section 83 for bottling intoxicating liquors imported or manufactured in Singapore, or blending, compounding or varying any intoxicating liquors,
+
+shall be guilty of an offence.
+
+[3/2008 wef 04/04/2008]
+
+### Penalty for various offences
+
+128L\.—(1) Any person who is guilty of an offence under section 128(1), 128A(1), 128B(1) or 128C shall be liable on conviction to a fine not exceeding $10,000, or the equivalent of the amount of the customs duty, excise duty or tax payable, whichever is the greater amount, or to imprisonment for a term not exceeding 12 months, or to both.
+
+(2) Subject to subsection (3), any person who is guilty of a specified offence shall be liable on conviction to a fine of —
+
+(a) not less than 10 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence or $5,000, whichever is the lesser amount; and
+
+(b) not more than 20 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $5,000, whichever is the greater amount,
+
+except that where the amount of customs duty or excise duty cannot be ascertained, the penalty may amount to a fine not exceeding $5,000.
+
+(3) Any person who is convicted of any specified offence and who has been convicted on a previous occasion of —
+
+(a) that or any other specified offence; or
+
+(b) any offence under the repealed section 130(1) in force immediately before the date of commencement of the Customs (Amendment) Act 2008,
+
+shall be liable on conviction to a fine referred to in subsection (2), or to imprisonment for a term not exceeding 2 years, or to both.
+
+(4) Any person who is guilty of any specified offence involving goods consisting wholly or partly of relevant tobacco products shall, if such tobacco products exceed 2 kilogrammes in weight, be liable on conviction —
+
+(a) to a fine of —
+
+(i) not less than 15 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence; and
+
+(ii) not more than 20 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $10,000, whichever is the greater amount; or
+
+(b) to imprisonment for a term not exceeding 3 years,
+
+or to both.
+
+(5) Any person who is convicted of any specified offence involving goods consisting wholly or partly of relevant tobacco products and who has been convicted on a previous occasion of —
+
+(a) that or any other specified offence involving such goods; or
+
+(b) any offence under the repealed section 130(1) in force immediately before the date of commencement of the Customs (Amendment) Act 2008 involving such goods,
+
+shall be liable on conviction —
+
+(i) to a fine of —
+
+(A) not less than 30 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the first-mentioned specified offence; and
+
+(B) not more than 40 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $20,000, whichever is the greater amount; or
+
+(ii) to imprisonment for a term not exceeding 6 years,
+
+or to both.
+
+(6) In any prosecution against a person for committing, attempting or abetting an offence under sections 128D to 128K, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the person, unless the contrary is proved by the person.
+
+(7) In this section —
+
+“relevant tobacco products” means any cigarette, cigar, cheroot or cigarillo or any other form of tobacco including —
+
+(a) any mixture containing tobacco; and
+
+(b) any tobacco substitute which is capable of being smoked;
+
+“specified offence” means an offence under section 128D, 128E, 128F, 128G, 128H, 128I, 128J or 128K.
+
+[3/2008 wef 04/04/2008]
 
 ### Penalty on refusing to answer questions or on giving false information or false document
 
@@ -2458,51 +2744,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Nothing in this section shall oblige a person to answer any question which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.
 
-### Penalty for various offences
-
-130\.—(1) Any person who —
-
-(a) is concerned in importing or exporting, or ships, unships, loads, unloads, lands or delivers or assists or is concerned in the shipping, unshipping, landing or delivery of, any uncustomed or prohibited goods whether the goods are shipped, unshipped, loaded, unloaded, landed, delivered or not;
-
-(b) illegally removes or withdraws or in any way assists or is concerned in the illegal removal or withdrawal of any goods from any customs control;
-
-(c) stores, keeps or has in his possession any dutiable or prohibited goods except under customs control, or stores, keeps or has in his possession any uncustomed goods;
-
-(d) is in any way concerned in conveying, removing, depositing or dealing with any dutiable, uncustomed or prohibited goods with intent to defraud the Government of any customs duty or excise duty thereon, or to evade any of the provisions of this Act;
-
-(e) being a passenger or other person, is found to have any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession, after having denied that he has any dutiable or prohibited goods in his baggage or upon his person or otherwise in his possession;
-
-(f) is in any way concerned in any fraudulent evasion or attempt at fraudulent evasion of any customs duty or excise duty;
-
-(g) is in any way concerned in the manufacture of any dutiable or prohibited goods in contravention of section 63;
-
-(h) is in any way concerned in bottling, blending, compounding or varying any intoxicating liquors in contravention of section 66;
-
-(i) knowingly harbours or conceals or permits, suffers, causes, or procures to be harboured or concealed any dutiable, uncustomed or prohibited goods; or
-
-(j) sells, exchanges or gives away or offers to sell, exchange or give away to any person in Singapore, goods which are his duty-free allowances in Singapore,
-
-shall be guilty of an offence and shall be liable —
-
-(i) on the first conviction to a fine of not less than 10 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the lesser amount, and of not more than 20 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the greater amount, except that where the amount of customs duty or excise duty cannot be ascertained the penalty may amount to a fine not exceeding $5,000;
-
-(ii) on the second or subsequent conviction to such fine or to imprisonment for a term not exceeding 2 years or to both;
-
-(iii) where the goods consist wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight — on the first conviction to both a fine of not less than 15 times the amount of the customs duty, excise duty or tax and not more than 20 times the amount of the customs duty, excise duty or tax or $10,000, whichever is the greater, or to imprisonment for a term not exceeding 3 years or to both; and
-
-(iv) where he has been convicted on a previous occasion of an offence under this section involving goods consisting wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight, and he is again convicted of such offence — to a fine of not less than 30 times the amount of the customs duty, excise duty or tax and not more than 40 times the amount of the customs duty, excise duty or tax or $20,000, whichever is the greater, or to imprisonment for a term not exceeding 6 years or to both.
-
-[23/93; 24/96; 11/97; 33/2000; 4/2003]
-
-(2) In any prosecution against a person for committing, attempting or abetting an offence under this section, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the defendant unless the contrary is proved by the defendant.
-
-(3) In sub-paragraphs (iii) and (iv) of subsection (1), “tobacco product” means any cigarette, cigar, cheroot, cigarillos or any other form of tobacco including —
-
-(a) any mixture containing tobacco; and
-
-(b) any tobacco substitute which is capable of being smoked.
-
-[24/96]
+130\. [Repealed by Act 3/2008 wef 04/04/2008]
 
 ### Evading duty by unauthorised modification of computer program or data
 
@@ -2566,15 +2808,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 135\. Every person other than a person licensed under —
 
-(a) section 63(1) who knowingly keeps or has in his possession any still, utensil, apparatus, equipment or machinery for the manufacture of any dutiable goods; or
+(a) section 63(1), or section 83(3) for manufacturing dutiable goods, who knowingly keeps or has in his possession any still, utensil, apparatus, equipment or machinery for the manufacture of any dutiable goods; or
 
-(b) section 66(1) who knowingly keeps or has in his possession any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquor,
+(b) section 66(1), or section 83(3) for bottling intoxicating liquors imported or manufactured in Singapore, or blending, compounding or varying any intoxicating liquors, who knowingly keeps or has in his possession any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquor,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 18 months or to both.
 
 [133
 
 [4/2003]
+
+[3/2008 wef 04/04/2008]
 
 ### Motor vehicle leaving Singapore without prescribed amount of motor spirit
 
@@ -2702,13 +2946,13 @@ REGULATIONS
 
 (j) to prescribe the manner and method of payment of any duty payable or chargeable under this Act;
 
-(k) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed factory warehouse orlicensed warehouse or bottling warehouse may be open for business;
+(k) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed warehouse or bottling warehouse may be open for business;
 
-(l) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed factory warehouses andlicensed warehouses and bottling warehouses and the management and control of the same;
+(l) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed warehouses and bottling warehouses and the management and control of the same;
 
 (m) to prescribe the amount to be paid as warehouse rent on goods deposited in a Government warehouse;
 
-(n) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse, licensed factory warehouse or licensed warehouse;
+(n) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse or licensed warehouse;
 
 (o) to regulate the erection, inspection, supervision, management and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
 
@@ -2740,6 +2984,8 @@ REGULATIONS
 
 [23/93]
 
+[3/2008 wef 04/04/2008]
+
 ### References in written laws and documents
 
 144\. Insofar as is necessary for preserving the effect of any written law or document on or after 1st April 2003\*—
@@ -2751,6 +2997,156 @@ REGULATIONS
 (b) a reference therein to the Customs and Excise Department shall be read as a reference to the Singapore Customs.
 
 [4/2003]
+
+## THE SCHEDULE
+
+Section 29
+
+Customs Rulings
+
+Application for customs ruling
+
+1.—(1) Subject to sub-paragraph (3), any person concerned in the importation of any goods may apply to the Director-General for a ruling on one or more of the following matters:
+
+(a) the classification of the goods;
+
+(b) the country of origin of the goods; and
+
+(c) how the goods are to be treated for the purposes of determining the customs duty, excise duty, or both, payable on the goods.
+
+(2) Subject to sub-paragraph (3), any person concerned in the local manufacture of any goods may apply to the Director-General for a ruling on one or more of the following matters:
+
+(a) the classification of the goods; and
+
+(b) how the goods are to be treated for the purposes of determining the excise duty payable on the goods.
+
+(3) Where any goods are the subject of any Free Trade Agreement to which Singapore is a party, and that Free Trade Agreement identifies the person who may apply for a ruling in relation to those goods, only that person may apply under sub-paragraph (1) or (2) for a ruling in relation to those goods.
+
+(4) An application for a ruling shall —
+
+(a) be made in such form as the Director-General may determine;
+
+(b) comply with the disclosure requirements of paragraph 4; and
+
+(c) be made at such time as the Director-General may determine.
+
+Director-General may decline to make ruling
+
+2.—(1) The Director-General may decline to make a ruling if —
+
+(a) the application for the ruling would require the Director-General to determine any question of fact;
+
+(b) the Director-General considers that the correctness of the ruling would depend on the making of assumptions, whether in respect of a future event or any other matter;
+
+(c) the application is frivolous or vexatious;
+
+(d) the matter on which the ruling is sought involves the interpretation of any foreign law; or
+
+(e) after the Director-General has requested further information —
+
+(i) the applicant fails to provide the information within the time specified by the Director-General for the provision of the information; or
+
+(ii) in the Director-General’s opinion, the applicant has not provided sufficient information in relation to the application.
+
+(2) The Director-General shall, where he has declined to make a ruling, notify the applicant in writing of his decision and the reasons therefor.
+
+Duration of ruling
+
+3\. A ruling shall apply in relation to a matter only for such period as may be stated in the ruling.
+
+Information to be provided to Director-General
+
+4.—(1) An application for a ruling shall —
+
+(a) identify the applicant; and
+
+(b) disclose all relevant facts and documents relating to the matter in respect of which the ruling is sought.
+
+(2) The Director-General may, at any time, request further relevant information from an applicant for the purpose of making a ruling.
+
+(3) An applicant for a ruling shall provide the Director-General with the information referred to in sub-paragraph (2) within such time as the Director-General may determine.
+
+Director-General may make assumptions
+
+5\. If the Director-General considers that the correctness of a ruling would depend on assumptions being made about any future event or other matter, the Director-General may make the assumptions that he considers to be most appropriate.
+
+Making of ruling
+
+6.—(1) A ruling made by the Director-General shall state —
+
+(a) that it is a ruling made under section 29;
+
+(b) the identity of the person or class of persons to whom, and the particulars of the matter to which, the ruling applies;
+
+(c) any material assumptions about future events or other matters made by the Director-General; and
+
+(d) the conditions (if any) applicable to the ruling.
+
+(2) The Director-General shall notify the person to whom the ruling applies of the making of the ruling by sending him a copy of the ruling.
+
+(3) Where there is any Free Trade Agreement applicable to the matter to which a ruling applies, and the Free Trade Agreement specifies the period within which the ruling shall be made, the Director-General shall make the ruling within that period.
+
+(4) The Director-General may make a ruling notwithstanding that no application has been made under paragraph 1.
+
+Modification or withdrawal of ruling
+
+7.—(1) The Director-General may, at any time, modify or withdraw a ruling by notifying the person to whom the ruling applies in such manner as the Director-General may determine of the modification or withdrawal and the reasons therefor.
+
+(2) Subject to sub-paragraphs (3) and (4), a ruling is modified or withdrawn from the date specified in the notice of modification or withdrawal, as the case may be.
+
+(3) The Director-General may, on the application of a person to whom a ruling applies, postpone the date the ruling is modified or withdrawn to such later date as the Director-General may determine, if that person shows that —
+
+(a) he had relied in good faith on the ruling; and
+
+(b) the modification or withdrawal, as the case may be, of the ruling would be detrimental to him.
+
+(4) The Director-General may postpone the date the ruling is modified or withdrawn to such later date as he may determine notwithstanding that no application has been made under sub-paragraph (3).
+
+(5) If the Director-General withdraws a ruling, the ruling shall not apply in relation to any goods, the subject-matter of the ruling, which are imported or manufactured locally, on or after the date of the withdrawal.
+
+(6) If —
+
+(a) the Director-General withdraws a ruling made pursuant to an application by a person under paragraph 1; and
+
+(b) the person to whom the ruling applies has not acted in accordance with any condition applicable to the ruling,
+
+the ruling shall cease to apply to that person in relation to any goods, the subject-matter of the ruling, which are imported or manufactured locally, before the date of the withdrawal.
+
+(7) If the Director-General modifies a ruling, the modified ruling shall apply in relation to any goods, the subject-matter of the modified ruling, which are imported or manufactured locally, on or after the date of the modification.
+
+(8) If —
+
+(a) the Director-General modifies a ruling made pursuant to an application by a person under paragraph 1; and
+
+(b) the person to whom the original ruling applies has not acted in accordance with any condition applicable to the original ruling,
+
+the modified ruling shall apply to that person in relation to any goods, the subject-matter of the modified ruling, which are imported or manufactured locally, before the date of the modification.
+
+(9) The Director-General may modify or withdraw a ruling if —
+
+(a) the ruling is based on an error of fact;
+
+(b) there is a change in the circumstances after the ruling was made;
+
+(c) any information provided by the applicant in support of his application for the ruling is false, inaccurate or misleading;
+
+(d) there is a change in the basis of the classification of the goods after the ruling was made;
+
+(e) there is a change in the circumstances relating to the sale and import or local manufacture of goods after the ruling was made;
+
+(f) an offence is suspected to have been committed in relation to the goods; or
+
+(g) it is one of the grounds of modification or withdrawal provided under any Free Trade Agreement applicable to the matter to which the ruling applies.
+
+Typographical or minor error in ruling
+
+8\. The Director-General does not have to withdraw and re-issue a ruling to correct any typographical or minor error, if the correction does not change the meaning of the ruling.
+
+Amendment of Act
+
+9. A ruling does not apply from the date a provision of this Act is repealed or amended to the extent that the repeal or amendment changes the way the provision applies in the ruling.
+
+[3/2008 wef 04/04/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -2901,6 +3297,11 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|1st March 2007|
 |||(item (5) in the Schedule)|
+|31.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 48/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|4 April 2008|
 ## COMPARATIVE TABLE
 
 Customs Act
