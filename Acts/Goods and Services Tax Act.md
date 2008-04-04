@@ -648,8 +648,6 @@ and shall be charged on —
 
 (ii) the importation of goods, by reference to the value of the goods as determined under this Act.
 
-[28/2007 wef 01/07/2007]
-
 ### Value of supply of goods or services
 
 17\.—(1) For the purposes of this Act and subject to the Third Schedule, the value of any supply of goods or services shall be determined in accordance with this section.
@@ -780,8 +778,6 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 
 (ii) ending on a day 5 years from the end of that prescribed accounting period.
 
-[28/2007 wef 01/07/2007]
-
 [UK VAT Act 1983, s. 14]
 
 ### Input tax allowable under section 19
@@ -834,8 +830,6 @@ RELIEFS
 
 21\.—(1) Subject to this section and section 21A, a supply of goods is zero-rated only if the goods are exported and a supply of services is zero-rated only if the services are international services.
 
-[28/2007 wef 01/07/2007]
-
 (2) Where a taxable person supplies goods or services and the supply is zero-rated, then, whether or not tax would be chargeable on the supply apart from this section —
 
 (a) no tax shall be charged on the supply; but
@@ -868,15 +862,9 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (e) subject to subsection (4B), services supplied directly in connection with land or any improvement thereto situated outside Singapore;
 
-[28/2007 wef 01/07/2007]
-
 (f) subject to subsection (4B), services supplied directly in connection with goods situated outside Singapore when the services are performed;
 
-[28/2007 wef 01/07/2007]
-
 (g) subject to subsection (4B), services supplied directly in connection with goods for export outside Singapore and supplied to a person who belongs in a country other than Singapore, at the time the services are performed;
-
-[28/2007 wef 01/07/2007]
 
 (h) prescribed financial services supplied directly in connection with goods for export outside Singapore;
 
@@ -893,8 +881,6 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 (i) under a contract with a person who belongs in a country outside Singapore; and
 
 (ii) which directly benefit a person who belongs in a country other than Singapore and who is outside Singapore at the time the services are performed;
-
-[28/2007 wef 01/07/2007]
 
 (k) prescribed services supplied —
 
@@ -1000,19 +986,13 @@ being services performed substantially in Singapore.
 
 (b) the promulgation of an advertisement by means of any medium of communication.
 
-[28/2007 wef 01/07/2007]
-
 (4C) The services referred to in subsection (3)(j) shall not include any services which are supplied directly in connection with —
 
 (a) land or any improvement thereto situated inside Singapore; or
 
 (b) goods situated inside Singapore at the time the services are performed, other than goods referred to in subsection (3)(g).
 
-[28/2007 wef 01/07/2007]
-
 (4D) The services referred to in subsection (3)(u) shall not include any services comprising only of the promulgation of an advertisement by means of the transmission, emission or reception of signs, signals, writing, images, sounds or intelligence by any nature of wire, radio, optical or other electro-magnetic systems whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes by any means in the course of their transmission, emission or reception.
-
-[28/2007 wef 01/07/2007]
 
 (5) Where a description referred to in subsection (3) is a transaction which would not otherwise be a supply of services, the transaction shall, for the purposes of this Act, be treated as a supply of services in Singapore.
 
@@ -1268,8 +1248,6 @@ SPECIAL CASES
 
 (2) Where input tax is deemed to have been incurred under any regulations made under subsection (1), such deemed input tax shall, for the purposes of this Act, be treated as input tax within the meaning of section 19.
 
-[28/2007 wef 01/07/2007]
-
 ### Persons treated as a group
 
 30\.—(1) Where, under the provisions of any regulations made under subsection (3), any 2 or more persons are treated as members of a group and registered in the name of a representative member —
@@ -1518,7 +1496,7 @@ and may contain such incidental and supplementary provisions as appear to the Mi
 
 (b) in the case of goods which are not subject to either customs or excise duty, the time when the goods are removed from the warehousing regime;
 
-“warehouse” means any warehouse or factory warehouse licensed under the Customs Act or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3)(c) where goods may be stored without payment of any one or more of the following:
+“warehouse” means any warehouse licensed under the Customs Act for warehousing dutiable goods or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3)(c) where goods may be stored without payment of any one or more of the following:
 
 (a) customs or excise duty;
 
@@ -1978,8 +1956,6 @@ the Comptroller may assess that amount as being tax due from him for the prescri
 
 (b) in the case of a prescribed accounting period ending on or after 1st January 2007, more than 5 years from the end of the prescribed accounting period.
 
-[28/2007 wef 01/07/2007]
-
 (5A) Notwithstanding subsection (5), where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, the Comptroller may for the purpose of making good any loss of tax or payment or refund of tax attributable to fraud or wilful default, make an assessment at any time.
 
 (6) Where a taxable person has acquired or imported any goods in the course or furtherance of any business carried on by him, the Comptroller may require him from time to time to account for the goods.
@@ -2016,11 +1992,7 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (10A) Where the Comptroller raises an assessment under subsection (1) upon the failure of a person to make any returns, and, subsequent to such assessment, the person makes a return, the Comptroller may, in his discretion, take into account the return and revise his assessment as he deems fit.
 
-[28/2007 wef 01/07/2007]
-
 (10B) For the purpose of subsection (10A), where a person makes a return in respect of a prescribed accounting period ending on or after 1st January 2007 more than 5 years from the end of the prescribed accounting period, the return shall be treated as not having been made.
-
-[28/2007 wef 01/07/2007]
 
 (11) For the purposes of this section, notification to a personal representative, trustee in bankruptcy, receiver, liquidator or person otherwise acting as aforesaid shall be treated as notification to the person in relation to whom he so acts.
 
@@ -2049,8 +2021,6 @@ make a supplementary assessment of the amount of the excess and shall notify the
 (a) in the case of records relating to a prescribed accounting period ending before 1st January 2007, for a period of not less than 7 years from the end of the prescribed accounting period; and
 
 (b) in the case of records relating to a prescribed accounting period ending on or after 1st January 2007, for a period of not less than 5 years from the end of the prescribed accounting period.
-
-[28/2007 wef 01/07/2007]
 
 (3) The duty under this section to preserve records may be discharged by the preservation of the information contained therein by such means as the Comptroller may approve.
 
@@ -3224,8 +3194,6 @@ GENERAL PROVISIONS
 
 it shall be lawful for the Comptroller to refund or pay such money to the person if it is proved to the satisfaction of the Comptroller that the money was overpaid or erroneously paid as tax or penalty by, or the money is due to, the person.
 
-[28/2007 wef 01/07/2007]
-
 (1B) A claim referred to in subsection (1A) shall be made —
 
 (a) in writing in such form and manner as the Comptroller may determine; and
@@ -3236,11 +3204,7 @@ it shall be lawful for the Comptroller to refund or pay such money to the person
 
 (ii) in the case of a claim referred to in subsection (1A)(a)(ii) or (b), the end of the prescribed accounting period to which the claim relates.
 
-[28/2007 wef 01/07/2007]
-
 (1C) The Comptroller may refuse to make any refund or payment under subsection (1A) if the claim relates to any tax or penalty which has not been received by the Comptroller.
-
-[28/2007 wef 01/07/2007]
 
 (2) The Comptroller may reduce or altogether withhold any refund due under this section to the extent that the refund would unjustly enrich the claimant.
 
@@ -3261,8 +3225,6 @@ it shall be lawful for the Comptroller to refund or pay such money to the person
 (5) The Minister may by order amend the Fifth Schedule.
 
 (6) In this section, “Authority” means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act (Cap. 138A).
-
-[28/2007 wef 01/07/2007]
 
 ### Transitional provisions
 
@@ -3555,8 +3517,6 @@ Transfer or disposal of business assets
 (b) used in the making of any supply (other than a supply by way of sale),
 
 by the other person in or towards satisfaction of a debt owed by the taxable person, the supply by the other person shall be a supply of goods or a supply of services determined in accordance with this Act and be deemed to be made by the taxable person in the course or furtherance of his business.
-
-[S 328/2007 wef 01/07/2007]
 
 7.—(1) Where a person ceases to be a taxable person, any goods then forming part of the assets of a business carried on by him shall be deemed to be supplied by him in the course or furtherance of his business immediately before he ceases to be a taxable person, unless —
 
@@ -4319,6 +4279,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of Second and Third Readings|22 May 2007|
 ||Dates of commencement|1 July 2007|
 |||17 February 2006|
+|27.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 48/2007 published on 29 February 2008)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|4 April 2008|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
