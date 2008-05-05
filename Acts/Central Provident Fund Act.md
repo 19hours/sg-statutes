@@ -5493,6 +5493,10 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (6) Building and Construction Authority.
 
+(6A) Casino Regulatory Authority of Singapore.
+
+[S 415/2008 wef 05/05/2008]
+
 (7) Central Provident Fund Board.
 
 (8) Civil Aviation Authority of Singapore.
@@ -6371,6 +6375,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 24/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|17 July 2007|
 ||Date of commencement|22 February 2008|
+|158.|**G.N. No. S 415/2008—Central Provident Fund Act (Amendment of First Schedule) Notification 2008**|
+||Date of commencement|5 May 2008|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
