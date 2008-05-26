@@ -22,21 +22,23 @@
 
 - [8 Appointment of chief executive officer](#Appointment-of-chief-executive-officer)
 
-- [9 Appointment of officers and employees](#Appointment-of-officers-and-employees)
+- [9 Appointment of officers, employees, etc.](#Appointment-of-officers-employees-etc)
 
-- [10 Ineligibility for employment as officers or employees of Board](#Ineligibility-for-employment-as-officers-or-employees-of-Board)
+- [10 (Repealed)](#Repealed)
 
 - [11 Rules for establishment of pension or provident fund scheme](#Rules-for-establishment-of-pension-or-provident-fund-scheme)
 
 - [12 Appointment of committees and delegation of powers](#Appointment-of-committees-and-delegation-of-powers)
 
-- [13 Appointment of member to act on behalf of Chairman outside Singapore](#Appointment-of-member-to-act-on-behalf-of-Chairman-outside-Singapore)
+- [13 (Repealed)](#Repealed)
 
 - [14 Protection from personal liability](#Protection-from-personal-liability)
 
 - [15 Members, officers and employees of Board deemed to be public servants](#Members-officers-and-employees-of-Board-deemed-to-be-public-servants)
 
 - [16 Provision of working capital](#Provision-of-working-capital)
+
+- [16A Funds and property of Board](#Funds-and-property-of-Board)
 
 - [17 Borrowing powers](#Borrowing-powers)
 
@@ -56,17 +58,25 @@
 
 - [24 Annual report](#Annual-report)
 
+- [24A Annual estimates](#Annual-estimates)
+
 - [25 Financial provisions](#Financial-provisions)
 
 - [26 Special provisions as to sale or purchase by Board of land, etc.](#Special-provisions-as-to-sale-or-purchase-by-Board-of-land-etc)
 
-- [27 Affixing of common seal](#Affixing-of-common-seal)
+- [27 Common seal](#Common-seal)
+
+- [27A Name, symbol or representation of Board](#Name-symbol-or-representation-of-Board)
+
+- [27B Preservation of secrecy](#Preservation-of-secrecy)
 
 - [28 Winding up of Board](#Winding-up-of-Board)
 
 - [29 Regulations](#Regulations)
 
-[**THE SCHEDULE Financial Provisions**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
+
+[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -96,43 +106,45 @@ An Act to establish the Economic Development Board.
 
 “Board” means the Economic Development Board established under section 3;
 
-“business enterprise” means any sole proprietorship, partnership, company or co-operative society wherever registered or incorporated under any law for the time being in force relating to companies, co-operative societies or businesses and engaged in or proposing to engage in any one or more of the following purposes or functions:
+“chief executive officer” means the chief executive officer of the Board and includes any temporary chief executive officer of the Board;
 
-(a) manufacture and sale of goods, materials or things or the subjection of goods, materials or things to any process, including that of repairs, breaking-up, reconditioning or maintenance;
+[11/2008 wef 26/05/2008]
 
-(b) the exploration for, and exploitation of, natural resources, including —
+“enterprise” means any entity incorporated, formed or established in Singapore or elsewhere, whether or not for profit, and howsoever owned or controlled, and includes —
 
-(i) the working of a mine, quarry or any other source of mineral deposits; or
+(a) a corporation, a sole proprietorship, a partnership, a joint venture, a trust and an association; and
 
-(ii) the treatment or preparation for sale, consumption or use, and the storage or removal, of any substance from any mine, quarry or other source of mineral deposits;
+(b) a branch of an enterprise;
 
-(c) transport, dock, water or electricity undertaking, including the business of wharf-fingers and stevedores;
+[11/2008 wef 26/05/2008]
 
-(d) the storage of goods, materials or things;
+“member” means a member of the Board;
 
-(e) the working of a plantation;
+[11/2008 wef 26/05/2008]
 
-(f) fishing;
-
-(g) the business of a tourism enterprise as defined in the Singapore Tourism Board Act (Cap. 305B);
-
-“goods, materials or things” includes capital or consumer goods of every description, including aircraft, ships, machinery, food and drugs;
-
-“underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of a business enterprise with a view to the resale of the whole or part of it.
+“underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of an enterprise with a view to the resale of the whole or part of it.
 
 [11/89; 9/97]
+
+[11/2008 wef 26/05/2008]
 
 ### Establishment of Board
 
 3\.—(1) There is hereby established a body to be called the Economic Development Board.
 
-(2) The Board shall be a body corporate with perpetual succession and a common seal with power, subject to the provisions of this Act —
+(2) The Board shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
-(a) to acquire and dispose of property, both movable and immovable;
+(a) acquiring, owning, holding and developing or disposing of property, both movable and immovable;
 
-(b) to sue and be sued in its corporate name; and
+(b) suing and being sued; and
 
-(c) to perform such other acts as bodies corporate may by law perform.
+(c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
+
+[11/2008 wef 26/05/2008]
+
+(3) The Board may perform any of its functions or carry out any of its duties under the business name of “EDB”, or such other business name as the Minister may, from time to time by notification in theGazette, specify.
+
+[11/2008 wef 26/05/2008]
 
 ### Chairman of Board
 
@@ -146,19 +158,19 @@ An Act to establish the Economic Development Board.
 
 (a) the Chairman; and
 
-(b) not less than 4 and not more than 11 other members who shall be appointed by the Minister.
+(b) not less than 5 and not more than 15 other members who shall be appointed by the Minister.
 
 [17/75; 11/89]
 
-(2) The quorum of the Board shall be 4.
+(2) The quorum of the Board shall be 5.
 
 (3) The Board shall meet at such times and places as the Board may determine.
 
 [11/89]
 
-(4) The members of the Board appointed by the Minister under subsection (1)(b) shall, unless their appointment is revoked by the Minister under subsection (11), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
+(4) The members of the Board appointed by the Minister under subsection (1)(b) shall hold office for such period and on such terms and conditions as the Minister may determine, and shall be eligible for re-appointment.
 
-[11/89]
+[11/2008 wef 26/05/2008]
 
 (5) The Minister may appoint not more than 2 members of the Board to be Deputy Chairmen of the Board.
 
@@ -180,39 +192,45 @@ may exercise any of the functions of the Chairman.
 
 (8) The Chairman of the Board or the person lawfully acting as Chairman at any meeting of the Board shall have an original as well as a casting vote.
 
-(9) A member of the Board shall not, in any meeting of the Board, participate in any discussion relating to, and shall not vote in respect of, any application to the Board for a loan in which he is interested or in respect of any business or management in which he is interested, and if he does so his vote shall not be counted, nor shall he be counted in the quorum present at that meeting.
-
 (10) The members of the Board shall be paid out of the funds of the Board such salaries, fees or allowances as the Minister may determine.
 
 [7/97]
 
 (11) The Minister may at any time revoke the appointment of the Chairman or of any other member of the Board.
 
+(12) The First Schedule shall have effect with respect to the Board, its members and proceedings.
+
+[11/2008 wef 26/05/2008]
+
 ### Functions of Board
 
 6\.—(1) The functions of the Board are —
 
-(a) to stimulate the growth, expansion and development of Singapore’s economy by promoting Singapore as an international total business centre;
+(a) to stimulate the growth, expansion and development of the Singapore economy;
 
-(b) to formulate investment promotion policies and plans, promotional incentives and marketing strategies to attract foreign and local investments in advanced technology industries and skill-intensive services which enjoy good export market prospects;
+(b) pursuant to paragraph (a), to formulate investment promotion policies and plans, and promotional incentives and strategies;
 
-(c) to promote, facilitate and assist in the development of support industries and services which provide important parts, components and related services to the manufacturing sector;
+(c) to promote, facilitate and assist in the development of support industries and services which provide important parts, components and related services to the manufacturing and services sector;
 
-(d) to encourage foreign and local industries to upgrade their skill and technological levels through investment in new technology, automation, training, research and product development activities;
+(d) to encourage foreign and local industries to upgrade their skill and technological levels through investment in technology, automation, training, research and product development activities;
 
-(e) to support the development of local entrepreneurs and small and medium business enterprises and to assist local companies to expand and upgrade their operations;
+(e) to support the development of local entrepreneurs and small and medium enterprises and to assist local enterprises to expand and upgrade their operations;
 
-(f) to provide training in new skills required by the manufacturing, business and technical services sector; and
+(f) to provide or support training in skills required for the development of the Singapore economy;
 
-(g) to identify and encourage key companies to establish their international operational headquarters and undertake a wide range of regional service and business activities in Singapore.
+(g) to identify key enterprises and encourage them to establish their international headquarters in Singapore and undertake a wide range of international service and business activities; and
 
-[11/89]
+(h) to exercise or perform any function or duty conferred upon the Board under any other written law.
 
-(2) For the purpose of subsection (1)(a), “international total business centre” means a centre which facilitates and encourages the development of all forms of business activities in areas of design, production, marketing and distribution and all types of corporate services.
+(2) In addition to the functions imposed by this section, the Board may undertake such other functions as the Minister may assign to the Board, and in so doing —
 
-[5A
+(a) the Board shall be deemed to be fulfilling the purposes of this Act; and
 
-[11/89]
+(b) the provisions of this Act shall apply to the Board in respect of such functions.
+
+(3) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+
+[11/2008 wef 26/05/2008]
 
 ### Directions by Minister
 
@@ -232,39 +250,39 @@ may exercise any of the functions of the Chairman.
 
 (2) The chief executive officer shall —
 
-(a) be known by such designation as the Board may determine; and
+(a) be known by such designation as the Board may determine;
 
-(b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board.
+[11/2008 wef 26/05/2008]
+
+(b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board; and
 
 [11/89]
 
-(3) The Board may, with the approval of the Minister, appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
+[11/2008 wef 26/05/2008]
+
+(c) not be removed from office without the consent of the Minister.
+
+[11/2008 wef 26/05/2008]
+
+(3) The Board may appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
 
 [7
 
 [11/89]
 
-### Appointment of officers and employees
+[11/2008 wef 26/05/2008]
 
-9\.—(1) The Board may from time to time appoint and employ such officers and employees as may be necessary for the purposes of this Act and may from time to time dismiss them.
+### Appointment of officers, employees, etc.
 
-(2) All officers and employees of the Board shall be under the administrative control of the Board.
+9\. The Board may —
 
-[8
+(a) appoint and employ such number of officers and employees on such terms as to remuneration or otherwise as the Board may determine and may terminate their services or exercise disciplinary control over them in accordance with their terms of service; and
 
-### Ineligibility for employment as officers or employees of Board
+(b) engage and remunerate for their services such persons or agents as the Board considers necessary for carrying out its functions and duties.
 
-10\.—(1) No person shall be eligible for employment as an officer or employee of the Board who has, directly or indirectly, by himself or his partner, any share or interest in any contract with, for or on behalf of the Board.
+[11/2008 wef 26/05/2008]
 
-(2) Any officer or employee of the Board who has or acquires any such share or interest shall, in the discretion of the Board, be liable to summary dismissal without notice.
-
-(3) No officer or employee shall be deemed to have or acquire any such share or interest by reason only that —
-
-(a) he is or becomes a member of an incorporated company which owns land situated in Singapore or has a contract with or executes work for the Board, unless he has a beneficial interest in the shares of that company and the total value of these shares exceeds $10,000 or 10% of the total value of the issued share capital of the company whichever is the less; or
-
-(b) he has or acquires a share in any loan issued by the Board or in any security for the same.
-
-[9
+10\. [Deleted by Act 11/2008 wef 26/05/2008]
 
 ### Rules for establishment of pension or provident fund scheme
 
@@ -292,39 +310,43 @@ may exercise any of the functions of the Chairman.
 
 ### Appointment of committees and delegation of powers
 
-12\.—(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board such number of committees consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of those committees.
+12\.—(1) The Board may, in its discretion, appoint from among its own members or from among other persons such number of committees as it thinks fit for purposes which, in the opinion of the Board, would be more expediently carried out or managed by means of such committees.
 
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the chief executive officer of the Board all or any of the powers, functions and duties vested in the Board by this Act, except the power to borrow money or to raise loans by the issue of bonds and debentures.
+(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate —
 
-(3) Any power, function or duty delegated under subsection (2) may be exercised or performed by such committee or the Chairman or the chief executive officer, as the case may be, in the name and on behalf of the Board.
+(a) to any of its members including the Chairman and each Deputy Chairman;
 
-[11/89]
+(b) to its chief executive officer, or any of its officers or employees;
 
-(4) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof all or any of the functions and duties vested in the Board by this Act, except the power to borrow money or to raise loans or grant loans or advances to or subscribe to or underwrite the issue of stocks, shares, bonds or debentures of business enterprises.
+(c) to any committee appointed by it under subsection (1); or
 
-(5) Any power, function or duty delegated under subsection (4) may be exercised or performed by such employee in the name and on behalf of the Board.
+(d) to any other person as it thinks fit,
 
-[11/89]
+any of the functions or powers of the Board under this Act or any other written law, except the power of delegation conferred by this section and the power to make subsidiary legislation under this Act or such other written law.
 
-(6) The Board may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
+(3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Board.
 
-[11
+(4) No delegation under this section shall prevent the exercise or performance of any function or power by the Board.
 
-### Appointment of member to act on behalf of Chairman outside Singapore
+[11/2008 wef 26/05/2008]
 
-13\. The Chairman of the Board may, with the approval of the Minister, appoint a member of the Board to perform the functions of the Chairman outside Singapore in relation to such matters or class of matters as the Chairman may specify.
-
-[12
-
-[17/75]
+13\. [Deleted by Act 11/2008 wef 26/05/2008]
 
 ### Protection from personal liability
 
-14\.—(1) No matter or thing done and no contract of any kind entered into by the Board and no matter or thing done by any member of the Board or by any employee thereof or any other person acting under the direction of the Board shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act, subject any such member or employee or any person acting under the direction of the Board personally to any action, liability, claim or demand whatsoever in respect thereof.
+14\.—(1) No matter or thing done and no contract of any kind entered into by the Board and no matter or thing done by any member of the Board or by any officer or employee thereof or any other person acting under the direction of the Board shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act, subject any such member, officer or employee or any person acting under the direction of the Board personally to any action, liability, claim or demand whatsoever in respect thereof.
 
-(2) Any expense incurred by the Board or any member, employee or other person so acting under the direction of the Board shall be borne by and repaid out of the funds of the Board.
+[11/2008 wef 26/05/2008]
+
+(2) Any expense incurred by the Board or any member, officer, employee or other person so acting under the direction of the Board shall be borne by and repaid out of the funds of the Board.
 
 [13
+
+[11/2008 wef 26/05/2008]
+
+(3) Where the Board provides a service to the public whereby information is supplied to the public pursuant to any written law, neither the Board nor any of its members, officers or employees involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such member, officer or employee.
+
+[11/2008 wef 26/05/2008]
 
 ### Members, officers and employees of Board deemed to be public servants
 
@@ -338,35 +360,43 @@ may exercise any of the functions of the Chairman.
 
 [15
 
+### Funds and property of Board
+
+16A\. The funds and property of the Board shall consist of —
+
+(a) any moneys appropriated by Parliament for the purposes of the Board;
+
+(b) all moneys paid to the Board for the purposes of the Board;
+
+(c) all moneys paid to the Board by way of grants, subsidies, donations, gifts, fees, charges, rents, interest, dividends and royalties;
+
+(d) all moneys derived from the sale of any property belonging to or held by or on behalf of the Board;
+
+(e) all moneys derived by the Board from the sale of its publications;
+
+(f) all moneys received by the Board for services rendered by it or by any practice or process developed by it;
+
+(g) all moneys, dividends or income received from any transactions made pursuant to the powers conferred on the Board by this Act;
+
+(h) all other moneys and property lawfully received by the Board for the purposes of the Board; and
+
+(i) all accumulations of income derived from any such property or money.
+
+[11/2008 wef 26/05/2008]
+
 ### Borrowing powers
 
-17\.—(1) The Board may, from time to time, for the purposes of this Act raise loans —
+17\.—(1) For the discharge of its functions or duties under this Act or any other written law, the Board may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
 
-(a) from the Government; or
+(a) mortgage, overdraft or other means, with or without security;
 
-(b) with the consent of the Minister and subject to the provisions of any written law, within or otherwise than within Singapore, by the creation and issue of debentures, stocks or bonds or otherwise.
+(b) charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or
 
-(2) The Board shall pay interest on those loans at such rate and at such times, and shall make such provision for the mode and time or times of repayment of principal, as may be approved by the Minister.
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
-(3) The approval of the Minister under subsection (2) shall not be required for the rate of interest to be paid on a loan by means of a financial agreement whereby credit facilities are granted for the purchase of goods, materials or things.
+(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
 
-(4) The Board may, from time to time, borrow by way of temporary loan or overdraft from a bank or otherwise, any sum which it may temporarily require —
-
-(a) for the purpose of defraying expenses pending the receipt of revenues receivable by it in respect of the period of account in which those expenses are chargeable; or
-
-(b) for the purpose of defraying, pending the receipt of money due in respect of any loan authorised to be raised under subsection (1), expenses intended to be defrayed by any such loan.
-
-(5) Bonds and debentures of the Board issued before 1st October 1994 shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2).
-
-[18/94]
-
-(6) Bonds and debentures of the Board issued on or after 1st October 1994 shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2) if the President, acting in his discretion, concurs with the giving of such guarantee.
-
-[18/94]
-
-(7) For the purposes of subsection (1), the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
-
-[16
+[11/2008 wef 26/05/2008]
 
 ### Issue of shares, etc.
 
@@ -376,31 +406,33 @@ may exercise any of the functions of the Chairman.
 
 ### General powers of Board
 
-18\.—(1) The Board shall have power —
+18\.—(1) The Board shall have power to do anything for the purpose of discharging its functions under this Act or any other written law, or which is incidental or conducive to the discharge of those functions.
 
-(a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by business enterprises;
+(2) Without prejudice to the generality of subsection (1) but subject to this Act, the powers of the Board shall include the power —
 
-(b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by business enterprises which —
+(a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by enterprises;
+
+(b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by enterprises which —
 
 (i) are repayable within a period not exceeding 25 years; or
 
 (ii) are floated in the public market;
 
-(c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of business enterprises;
+(c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of enterprises;
 
-(d) to manage, control or supervise business enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
+(d) to manage, control or supervise enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
 
-(e) with the written approval of the Minister, to establish, sell shares of, invest in and manage business enterprises;
+(e) with the written approval of the Minister, to establish, sell shares of, invest in and manage enterprises;
 
-(f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with a business enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
+(f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with an enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
 
 (g) to acquire, sell or lease land for the purposes of industrial sites, for the housing of employees or for general economic development;
 
 (h) to lay out industrial estates for sale or lease;
 
-(i) to provide technical advice and assistance to business enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
+(i) to provide technical advice and assistance to enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
 
-(j) to exercise all powers and perform all functions and duties which, under or by virtue of any other written law, are or may be or become vested or delegated to it;
+(j) to exercise and perform all powers, duties and functions which, under or by virtue of any other written law, are or may be or become vested in or delegated to it;
 
 (k) to receive in consideration of the services rendered by it such commission as may be agreed upon;
 
@@ -410,127 +442,111 @@ may exercise any of the functions of the Chairman.
 
 (n) with the written approval of the Minister, to award compensation to any person sustaining any damage by reason of the exercise of any of the powers under this Act by the Board or by any employee thereof;
 
-(o) to act as agents for any business enterprise;
+(o) to act as agent for any enterprise;
 
 (p) to carry out experimental work and to conduct, promote and encourage the study of, and research in, matters connected with any of the Board’s purposes and functions;
 
 (q) to invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
 
-[45/2004 wef 15/12/2004]
+(r) to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
 
-(r) with the concurrence of the Housing and Development Board, to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
+(s) to foster the growth of the Singapore economy by developing the appropriate infrastructure and formulating and implementing investment promotion policies and plans, incentives and strategies to support enterprises in Singapore; and
 
-(s) to foster the growth of the services industry by developing the appropriate infrastructure and formulating and implementing investment promotion plans, promotional incentives and marketing strategies to support local and international firms and businesses in the services sector in Singapore; and
+(t) to provide training in the fields related to the functions and powers of the Board, and financial assistance for such training in the form of bursaries, scholarships, loans, grants or otherwise.
 
-(t) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its duties under this Act.
+(3) The Board may, in addition to the powers vested in it by this section, exercise such other powers as the Minister may authorise the Board in writing to exercise.
 
-[38/73; 11/89]
+(4) The Board shall, when it is exercising powers authorised by the Minister under subsection (3), be deemed to be exercising powers vested in it by subsection (1).
 
-(2) The Board may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may authorise the Board in writing to exercise.
+(5) This section shall not be construed as limiting any power of the Board conferred by or under any other written law.
 
-(3) The Board shall, when it is exercising powers authorised by the Minister under subsection (2), be deemed to be exercising powers vested in it by subsection (1).
-
-(4) For the purposes of subsection (1)(s), “services” means all or any of the following services:
-
-(a) business services;
-
-(b) technical services;
-
-(c) commercial services;
-
-(d) accountancy and management and professional services;
-
-(e) transport and communication services;
-
-(f) warehousing and distribution services;
-
-(g) medical services;
-
-(h) education services;
-
-(i) publishing services;
-
-(j) information technology services;
-
-(k) agrotechnology services;
-
-(l) entertainment, leisure and recreation services;
-
-(m) exhibition services.
-
-[17
-
-[11/89]
+[11/2008 wef 26/05/2008]
 
 ### Rights of Board in case of default
 
-19\.—(1) Where any business enterprise which is under a liability to the Board under an agreement makes any default in repayment or otherwise fails to comply with the terms of its agreement with the Board, the Board shall, without prejudice to any other rights or remedies which it may possess under the law, have the right to take over the management of the business enterprise, as well as the right to sell and realise the property pledged, mortgaged, hypothecated or assigned to the Board.
+19\.—(1) Where any enterprise which is under a liability to the Board under an agreement makes any default in repayment or otherwise fails to comply with the terms of its agreement with the Board, the Board shall, without prejudice to any other rights or remedies which it may possess under the law, have the right to take over the management of the enterprise, as well as the right to sell and realise the property pledged, mortgaged, hypothecated or assigned to the Board.
 
 [11/89]
+
+[11/2008 wef 26/05/2008]
 
 (2) Any transfer of property made by the Board in exercise of its powers of sale and realisation under subsection (1) shall vest in the transferee all rights in or to the property transferred as if the sale had been made by the owner of the property.
 
 (3) The Board shall have the same rights and powers with respect to goods manufactured or produced wholly or partly from goods forming part of security held by it, as it had with respect to the original goods.
 
-(4) Where the Board takes over the management of a business enterprise under subsection (1), it shall be deemed to be the owner of the business enterprise for purposes of suits by or against such business enterprise and shall sue and be sued in the name of the owner of the business enterprise.
+(4) Where the Board takes over the management of an enterprise under subsection (1), it shall be deemed to be the owner of the enterprise for purposes of suits by or against such enterprise and shall sue and be sued in the name of the owner of the enterprise.
 
-[18
-
-[11/89]
+[11/2008 wef 26/05/2008]
 
 ### Power to call for repayment before agreed period
 
-20\. Notwithstanding any agreement to the contrary, and without prejudice to any other rights or remedies which it may possess under the law, the Board may by notice require any business enterprise , to which it has granted any loanor advance, to immediately discharge in full its liabilities to the Board —
+20\. Notwithstanding any agreement to the contrary, and without prejudice to any other rights or remedies which it may possess under the law, the Board may by notice require any enterprise, to which it has granted any loan, advance or incentive, to immediately discharge in full its liabilities to the Board —
 
-(a) if it appears to the Board that false or misleading information in any material particular was given in the application for the loanor advance;
+(a) if it appears to the Board that false or misleading information in any material particular was given in the application for the loan, advance or incentive;
 
-(b) if the business enterprise has failed to comply with the terms of its contract with the Board in the matter of the loanor advance;
+(b) if the enterprise has failed to comply with the terms of its contract with the Board in the matter of the loan, advance or incentive;
 
-(c) if there is a reasonable apprehension that the business enterprise is unable to pay its debts or that proceedings for liquidation may be commenced in respect thereof;
+(c) if there is a reasonable apprehension that the enterprise is unable to pay its debts or that proceedings for liquidation may be commenced in respect thereof;
 
-(d) if the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loanor advance is not insured and kept insured by the business enterprise to the satisfaction of the Board, or depreciates in value, in the opinion of the Board, by more than 20% and further security to the satisfaction of the Board is not given;
+(d) if the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan, advance or incentive is not insured and kept insured by the enterprise to the satisfaction of the Board, or depreciates in value, in the opinion of the Board, by more than 20% and further security to the satisfaction of the Board is not given;
 
-(e) if, without the permission of the Board, machinery and other equipment, whether forming part of the security or otherwise, is removed from the premises of the business enterprise without being replaced; or
+(e) if, without the permission of the Board, machinery and other equipment, whether forming part of the security or otherwise, is removed from the premises of the enterprise without being replaced; or
 
 (f) if for any reason it is necessary in the opinion of the Board to protect the interests of the Board.
 
 [19
 
+[11/2008 wef 26/05/2008]
+
 [11/89]
 
 ### Special provisions for enforcement of claims by Board
 
-21\.—(1) Where by reason of the breach of any condition of an agreement between the Board and a business enterprise, the Board becomes entitled to call for the immediate payment of any loanor advance granted by it before the due date or where the due date has expired, and the business enterprise fails to repay the loanor advance , any officer of the Board generally or specially authorised by the Board in that behalf may apply to the High Court for one or more of the following reliefs:
+21\.—(1) Where by reason of the breach of any condition of an agreement between the Board and an enterprise, the Board becomes entitled to call for the immediate payment of any loan, advance or incentive granted by it before the due date or where the due date has expired, and the enterprise fails to repay the loan, advance or incentive, any officer of the Board generally or specially authorised by the Board in that behalf may apply to the High Court for one or more of the following reliefs:
 
-(a) for an order for the sale of the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan or advance;
+(a) for an order for the sale of the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan, advance or incentive;
 
-(b) for transferring the management of the business enterprise to the Board; or
+(b) for transferring the management of the enterprise to the Board; or
 
-(c) for an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the business enterprise without the permission of the Board.
-
-[11/89]
-
-(2) An application under subsection (1) shall state the nature and extent of the liability of the business enterprise to the Board, the ground on which it is made and such other particulars as may be prescribed.
+(c) for an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the enterprise without the permission of the Board.
 
 [11/89]
 
-(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the Judge shall make an interim order attaching the security or so much of the property of the business enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the business enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment.
+[11/2008 wef 26/05/2008]
+
+(2) An application under subsection (1) shall state the nature and extent of the liability of the enterprise to the Board, the ground on which it is made and such other particulars as may be prescribed.
 
 [11/89]
 
-(4) Where the application is for the relief mentioned in subsection (1)(b), the Judge shall grant an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the business enterprise to show cause on a date to be specified in the notice as to why the management of the business enterprise should not be transferred to the Board.
+[11/2008 wef 26/05/2008]
+
+(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the Judge shall make an interim order attaching the security or so much of the property of the enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining from transferring or removing its machinery or equipment.
 
 [11/89]
+
+[11/2008 wef 26/05/2008]
+
+(4) Where the application is for the relief mentioned in subsection (1)(b), the Judge shall grant an interim injunction restraining the enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the enterprise to show cause on a date to be specified in the notice as to why the management of the enterprise should not be transferred to the Board.
+
+[11/89]
+
+[11/2008 wef 26/05/2008]
 
 (5) Before making any order or injunction under subsection (3) or (4), the Judge may, if he thinks fit, examine the officer making the application.
 
-(6) At the same time as the Judge makes an interim order under subsection (3), the Judge shall issue to the business enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the business enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
+(6) At the same time as the Judge makes an interim order under subsection (3), the Judge shall issue to the enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
 
 [11/89]
 
-(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the Judge shall immediately make the interim order final and direct the sale of the attached property or transfer the management of the business enterprise to the Board or confirm the injunction.
+[11/2008 wef 26/05/2008]
+
+(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the Judge shall immediately make the interim order final and direct the sale of the attached property or transfer the management of the enterprise to the Board or confirm the injunction.
 
 [11/89]
+
+[42/2005 wef 11/01/2006]
+
+[11/2008 wef 26/05/2008]
 
 (8) If cause is shown, the Judge shall proceed to investigate the claim of the Board and the provisions of the Rules of Court (Cap. 322, R 5) shall as far as practicable apply to such proceedings.
 
@@ -544,9 +560,11 @@ may exercise any of the functions of the Chairman.
 
 (d) confirming or dissolving the injunction; or
 
-(e) transferring the management of the business enterprise to the Board or rejecting the claim made in this behalf.
+(e) transferring the management of the enterprise to the Board or rejecting the claim made in this behalf.
 
 [11/89]
+
+[11/2008 wef 26/05/2008]
 
 (10) When making any order under subsection (9)(c), the Judge may make such further orders as he thinks necessary to protect the interests of the Board, and may apportion the costs of the proceedings in such manner as he thinks fit.
 
@@ -560,11 +578,13 @@ may exercise any of the functions of the Chairman.
 
 ### Application of sections 19, 20 and 21 to tourist enterprises
 
-22\. Any reference to a business enterprise in sections 19, 20 and 21 shall be read as including a reference to a tourist enterprise as defined in the Tourist Promotion Board Act (Cap. 328) in force immediately before 20th November 1997.
+22\. Any reference to an enterprise in sections 19, 20 and 21 shall be read as including a reference to a tourist enterprise as defined in the Tourist Promotion Board Act (Cap. 328) in force immediately before 20th November 1997.
 
 [20A
 
 [9/97]
+
+[11/2008 wef 26/05/2008]
 
 ### Compulsory acquisition of land
 
@@ -588,11 +608,23 @@ may exercise any of the functions of the Chairman.
 
 [3/72]
 
+### Annual estimates
+
+24A\.—(1) The Board shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Board for the ensuing financial year.
+
+(2) Supplementary estimates may be adopted by the Board at any of its meetings.
+
+(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Board, be sent immediately to the Minister.
+
+[11/2008 wef 26/05/2008]
+
 ### Financial provisions
 
-25\. The financial provisions set out in the Schedule shall have effect with respect to the Board.
+25\. The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
 
 [11/89]
+
+[11/2008 wef 26/05/2008]
 
 ### Special provisions as to sale or purchase by Board of land, etc.
 
@@ -602,17 +634,53 @@ may exercise any of the functions of the Chairman.
 
 (b) in the case of land registered under the Land Titles Act (Cap. 157), where a solicitor is not employed by the Board, a certificate of an officer of the Board shall be sufficient for the purposes of section 59(3) of that Act.
 
-### Affixing of common seal
+### Common seal
 
-27\.—(1) The fixing of the common seal of the Board shall be authenticated by the signature of —
+27\.—(1) The Board shall have a common seal and the seal may, from time to time, be broken, altered or made anew as the Board thinks fit.
 
-(a) the Chairman or a Deputy Chairman of the Board; and
+(2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Board affixed to any document and shall presume that it was duly affixed.
 
-(b) an officer of the Board authorised by the Board, either generally or specially, to act for that purpose.
+[11/2008 wef 26/05/2008]
 
-[17/75]
+### Name, symbol or representation of Board
 
-(2) Any document purporting to be a document duly executed under the seal of the Board shall be admissible in evidence and shall, unless the contrary is proved, be deemed to be a document so executed.
+27A\.—(1) The Board shall have the exclusive right to the use of such name, symbol or representation as the Board may select or devise and thereafter display or exhibit such name, symbol or representation in connection with its activities or affairs.
+
+(2) Any person who uses a name, symbol or representation identical with that of the Board, or which so resembles the Board’s name, symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+
+[11/2008 wef 26/05/2008]
+
+### Preservation of secrecy
+
+27B\.—(1) No person who is or has been —
+
+(a) a member, an officer, an employee or an agent of the Board; or
+
+(b) a member of a committee of the Board,
+
+shall disclose any information relating to the affairs of the Board or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions unless such disclosure is made —
+
+(i) with the permission of the person from whom the information was obtained or, where the information is the confidential information of a third person, with the permission of that third person;
+
+(ii) for the purpose of the administration or enforcement of this Act;
+
+(iii) in compliance with the requirement of any court or the provisions of any written law; or
+
+(iv) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law.
+
+(2) No person who is or has been —
+
+(a) a member, an officer, an employee or an agent of the Board; or
+
+(b) a member of a committee of the Board,
+
+shall, for his own personal benefit or for the personal benefit of any other person, make use of any information, whether directly or indirectly, which has been obtained by him in the performance of his duties or the exercise of his functions.
+
+(3) For the purpose of this section, the reference to a person disclosing or making use of any information includes his permitting any other person to have any access to any record, document or other thing which is in his possession or under his control by virtue of his being or having been a member, an officer, an employee or an agent of the Board or a member of a committee of the Board.
+
+(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[11/2008 wef 26/05/2008]
 
 ### Winding up of Board
 
@@ -642,6 +710,88 @@ may exercise any of the functions of the Chairman.
 
 [28
 
+FIRST SCHEDULE
+
+Section 5(12)
+
+Constitution and Proceedings of Board
+
+Disqualification from membership
+
+1. No person shall be appointed or shall continue to hold office as a member if he —
+
+(a) is incapacitated by physical or mental illness;
+
+(b) is an undischarged bankrupt or has made any arrangement or composition with his creditors;
+
+(c) is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon;
+
+(d) has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon; or
+
+(e) is otherwise unable or unfit to discharge the functions of a member.
+
+Vacation of office
+
+2. The office of a member shall be vacated if the member —
+
+(a) has been absent, without leave of the Board, from 3 consecutive meetings of the Board; or
+
+(b) becomes in any manner disqualified from membership of the Board.
+
+Resignation
+
+3\. A member may resign from his appointment at any time by giving notice in writing to the Minister.
+
+Filling of vacancies
+
+4\. If a member resigns, dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, the Minister may appoint a person to fill the vacancy for the residue of the term for which the vacating member was appointed.
+
+Chairman may delegate functions
+
+5\. The Chairman may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
+
+Meetings and proceedings of Board
+
+6.—(1) The Chairman or the person lawfully acting as Chairman shall preside at all meetings of the Board, but if the Chairman is absent from a meeting —
+
+(a) a Deputy Chairman; or
+
+(b) if there is no Deputy Chairman, such member as the members present may elect,
+
+shall preside at that meeting.
+
+(2) Decisions at meetings of the Board shall be adopted by a simple majority of the members present and voting and, in the case of an equality of votes, the Chairman of the meeting shall have a casting vote in addition to his original vote.
+
+(3) A resolution in writing, signed by a simple majority of all the members for the time being, shall be as valid and effectual as if it had been passed at a meeting of the members duly convened and held.
+
+(4) The validity of any proceedings of the Board shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
+
+(5) Subject to the provisions of this Act, the Board may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, and the custody, production and inspection of such minutes.
+
+Disclosure of interest by members
+
+7.—(1) Subject to sub-paragraph (2), if a member has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter which is before any meeting of the Board, he shall at that meeting declare the nature of his interest and shall not take part in the consideration or discussion of, or vote on any question with respect to, that contract or other matter, and if the Chairman or the person presiding at that meeting so directs, he shall withdraw from the meeting during the consideration or discussion.
+
+(2) For the purposes of sub-paragraph (1), a general notice given to the members by a member to the effect that he is an officer or a member of a specified enterprise and is to be regarded as interested in any contract which may, after the date of the notice, be made with that enterprise or in any other matter shall be deemed to be a sufficient declaration of interest in relation to the contract or matter if it specifies the nature and extent of his interest in the specified enterprise and his interest is not different in nature or greater in extent than the nature or extent so specified in the general notice at the time any contract is so made.
+
+(3) No notice under sub-paragraph (2) shall be of effect unless either it is given at a meeting of the Board or the member takes reasonable steps to ensure that it is brought up and read at the next meeting of the Board after it is given.
+
+(4) For the purpose of this paragraph, a pecuniary interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be treated as a pecuniary interest of the member.
+
+(5) For the purpose of determining whether there is a quorum, a member shall be treated as being present notwithstanding that, under this paragraph, he cannot vote or has withdrawn from the meeting.
+
+Sealing of documents
+
+8.—(1) All deeds, documents and other instruments requiring the seal of the Board shall be sealed with the common seal of the Board in the presence of any 2 officers of the Board duly authorised by the Board to act in that behalf and shall be signed by those officers.
+
+(2) Such signing shall be sufficient evidence that the common seal of the Board has been duly and properly affixed and that the seal is the lawful common seal of the Board.
+
+(3) The Board may by resolution or otherwise appoint an officer or employee of the Board or any other agent, either generally or in a particular case, to execute or sign on behalf of the Board any agreement or other instrument not under seal in relation to any matter coming within the powers of the Board.
+
+(4) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under sub-paragraph (1).
+
+[11/2008 wef 26/05/2008]
+
 ## THE SCHEDULE
 
 Section 25
@@ -662,7 +812,7 @@ Appointment of auditor
 
 Qualification of auditor
 
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
+4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 Remuneration of auditor
 
@@ -696,7 +846,7 @@ Failure to furnish information to auditor
 
 Offence
 
-10\. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 .
+10\. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 Financial statements and auditor’s report
 
@@ -812,6 +962,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
+|21.|**Act 11 of 2008—Economic Development Board (Amendment) Act 2008**|
+||Date of First Reading|6 March 2008|
+|||(Bill No. 6/2008 published on 7 March 2008)|
+||Date of Second and Third Readings|22 April 2008|
+||Date of commencement|26 May 2008|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
