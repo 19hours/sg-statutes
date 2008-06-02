@@ -696,6 +696,36 @@ with effect from 20th February 2008
 
 2\. Any act or omission constituting an offence under section 3 of the Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007).
 
+Part III
+
+Actions Which Also Constitute Terrorist Acts With Effect from 2ND June 2008
+
+Any act or omission constituting —
+
+(a)
+
+an offence under section 4, 5, 6 or 7 of the Internationally Protected Persons Act 2008 (Act 8 of 2008);
+
+(b)
+
+an offence specified in the First Schedule to that Act committed to or in relation to an internationally protected person;
+
+(c)
+
+an offence specified in the Second Schedule to that Act committed to or in relation to a relevant premises or a vehicle used by an internationally protected person;
+
+(d)
+
+an abetment of or a conspiracy or an attempt to commit —
+
+(i) an offence under section 4 or 5 of that Act; or
+
+(ii) an offence referred to in paragraph (b) or (c).
+
+Note:
+
+In this Schedule, the expressions “internationally protected person”, “relevant premises” and “vehicle” have the meanings given to them in the Internationally Protected Persons Act 2008.
+
 ## LEGISLATIVE HISTORY
 
 Terrorism (Suppression of Financing) Act
@@ -725,6 +755,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of operation|31 July 2003|
 |5.|**G. N. No. S 86/2008—Terrorism (Suppression of Financing) Act (Amendment of Schedule) Order 2008**|
 ||Date of commencement|20 February 2008|
+|6.|**G. N. No. S 280/2008—Terrorism (Suppression of Financing) Act (Amendment of Schedule) (No. 2) Order 2008**|
+||Date of commencement|2 June 2008|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
