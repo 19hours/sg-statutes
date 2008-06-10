@@ -1619,7 +1619,11 @@ ENFORCEMENT
 
 (iv) any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and
 
-(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance;
+(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance,
+
+and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;
+
+[10/2008 wef 10/06/2008]
 
 (d) require any person to produce in a form which is visible and legible and may be taken away, any information stored in any electronic form relating to —
 
@@ -1631,9 +1635,13 @@ ENFORCEMENT
 
 (iv) any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and
 
-(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance;
+(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance,
 
-(e) require any person to produce for inspection any book or document relating to —
+and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;
+
+[10/2008 wef 10/06/2008]
+
+(e) require any person to produce any book or document relating to —
 
 (i) any activity that has been or is being carried out on any premises;
 
@@ -1645,7 +1653,9 @@ ENFORCEMENT
 
 (v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance,
 
-and retain, make or cause to be made copies of, or extracts from, any such book or document;
+for inspection, retention or the making of copies thereof by the Director or any enforcement officer, or to provide the Director or any enforcement officer with copies of such book or document; and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;
+
+[10/2008 wef 10/06/2008]
 
 (f) require any person who was or is present on any premises or on any conveyance and whom the Director or enforcement officer has reason to suspect has been exposed to any biological agent or toxin to undergo such medical examination and medical treatment at such place or hospital as the Director may specify; and
 
@@ -2298,3 +2308,11 @@ This Legislative History is provided for the convenience of users of the Biologi
 |||(Bill No. 9/2007 published on 27 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|5.|**G. N. No. S 676/2007—Biological Agents and Toxins Act (Amendment of First Schedule) Order 2007**|
+||Date of commencement|1 January 2008|
+|6.|**Act 10 of 2008—Infectious Diseases (Amendment) Act 2008**|
+||(Related amendments made by)||
+||Date of First Reading|28 February 2008|
+|||(Bill No. 5/2008 published on 29 February 2008)|
+||Date of Second and Third Readings|22 April 2008|
+||Date of commencement|10 June 2008|
