@@ -16,7 +16,7 @@
 
 - [3 Administration of this Act](#Administration-of-this-Act)
 
-- [4 Delegation](#Delegation)
+- [4 Health Officers](#Health-Officers)
 
 - [5 Advisory committees](#Advisory-committees)
 
@@ -24,13 +24,13 @@
 
 - [6 Notification of infectious diseases](#Notification-of-infectious-diseases)
 
-- [7 Epidemiological surveys and investigations](#Epidemiological-surveys-and-investigations)
+- [7 Public health surveillance programmes, etc.](#Public-health-surveillance-programmes-etc)
 
 - [8 Medical examination and treatment](#Medical-examination-and-treatment)
 
 - [9 Post-mortem examination](#Post-mortem-examination)
 
-- [10 Director may require information from medical practitioners, etc.](#Director-may-require-information-from-medical-practitioners-etc)
+- [10 Director may require information from healthcare professionals, etc.](#Director-may-require-information-from-healthcare-professionals-etc)
 
 - [11 Offence for supplying false or misleading information](#Offence-for-supplying-false-or-misleading-information)
 
@@ -46,11 +46,13 @@
 
 - [17 Isolation area](#Isolation-area)
 
+- [17A Restricted zones during public health emergency](#Restricted-zones-during-public-health-emergency)
+
 - [18 Abatement of overcrowding](#Abatement-of-overcrowding)
 
-- [19 Closure of food establishment](#Closure-of-food-establishment)
+- [19 Closure and disinfection of premises](#Closure-and-disinfection-of-premises)
 
-- [20 Prohibition of meetings, gatherings and public entertainments](#Prohibition-of-meetings-gatherings-and-public-entertainments)
+- [20 Prohibition or restriction of meetings, gatherings and public entertainments](#Prohibition-or-restriction-of-meetings-gatherings-and-public-entertainments)
 
 - [21 Control of occupation, trade or business](#Control-of-occupation-trade-or-business)
 
@@ -60,7 +62,7 @@
 
 - [22 Person with AIDS or HIV Infection to undergo counselling, etc.](#Person-with-AIDS-or-HIV-Infection-to-undergo-counselling-etc)
 
-- [23 Sexual intercourse by person with AIDS or HIV Infection](#Sexual-intercourse-by-person-with-AIDS-or-HIV-Infection)
+- [23 Sexual activity by person with AIDS or HIV Infection](#Sexual-activity-by-person-with-AIDS-or-HIV-Infection)
 
 - [24 Blood donation and other acts by person with AIDS or HIV Infection](#Blood-donation-and-other-acts-by-person-with-AIDS-or-HIV-Infection)
 
@@ -80,7 +82,7 @@
 
 - [30 Undertaking to report to Port Health Officer](#Undertaking-to-report-to-Port-Health-Officer)
 
-- [31 Vaccination](#Vaccination)
+- [31 Vaccination and other prophylaxis](#Vaccination-and-other-prophylaxis)
 
 - [32 Disinfection and treatment of vessel and vehicle](#Disinfection-and-treatment-of-vessel-and-vehicle)
 
@@ -110,13 +112,13 @@
 
 - [45 Liability of master, owner or agent for expenses](#Liability-of-master-owner-or-agent-for-expenses)
 
-[**Part VI VACCINATION**](#Part-VI)
+[**Part VI VACCINATION AND OTHER PROPHYLAXIS**](#Part-VI)
 
 - [46 Responsibility of parent or guardian](#Responsibility-of-parent-or-guardian)
 
-- [47 Power to order mandatory vaccination of persons in certain cases](#Power-to-order-mandatory-vaccination-of-persons-in-certain-cases)
+- [47 Power to order certain persons to undergo vaccination or other prophylaxis](#Power-to-order-certain-persons-to-undergo-vaccination-or-other-prophylaxis)
 
-- [48 Vaccination and intradermal tests](#Vaccination-and-intradermal-tests)
+- [48 Vaccination](#Vaccination)
 
 - [49 Exemption from vaccination](#Exemption-from-vaccination)
 
@@ -126,25 +128,31 @@
 
 - [52 Suspension of this Part](#Suspension-of-this-Part)
 
-- [53 Issue of international certificates of vaccination](#Issue-of-international-certificates-of-vaccination)
+- [53 (Repealed)](#Repealed)
 
-- [54 Fees for vaccinations and intradermal tests](#Fees-for-vaccinations-and-intradermal-tests)
+- [54 Fees for vaccinations and other prophylaxis](#Fees-for-vaccinations-and-other-prophylaxis)
 
 [**Part VII ENFORCEMENT**](#Part-VII)
 
 - [55 Powers of Director and Health Officers in dealing with outbreaks and suspected outbreaks of infectious diseases](#Powers-of-Director-and-Health-Officers-in-dealing-with-outbreaks-and-suspected-outbreaks-of-infectious-diseases)
 
+- [55A Powers of investigation](#Powers-of-investigation)
+
 - [56 Powers of arrest](#Powers-of-arrest)
 
-- [56A Powers of arrest of person in isolation, undergoing surveillance, etc.](#Powers-of-arrest-of-person-in-isolation-undergoing-surveillance-etc)
+- [56A (Repealed)](#Repealed)
 
 - [57 Police officer or Health Officer may demand names and addresses in certain cases](#Police-officer-or-Health-Officer-may-demand-names-and-addresses-in-certain-cases)
 
-- [57A Disclosure of information to prevent spread of infectious disease](#Disclosure-of-information-to-prevent-spread-of-infectious-disease)
+- [57A Disclosure of information to prevent spread or possible outbreak of infectious disease, etc.](#Disclosure-of-information-to-prevent-spread-or-possible-outbreak-of-infectious-disease-etc)
 
 - [58 Extraordinary powers in relation to emergency measures](#Extraordinary-powers-in-relation-to-emergency-measures)
 
 - [59 Police assistance](#Police-assistance)
+
+[**Part VIIA NATIONAL PUBLIC HEALTH RESEARCH**](#Part-VIIA)
+
+- [59A National public health research](#National-public-health-research)
 
 [**Part VIII MISCELLANEOUS**](#Part-VIII)
 
@@ -238,23 +246,23 @@ PRELIMINARY
 
 “dangerous infectious disease” means any of the diseases set out in the Second Schedule;
 
-“Director” means the Director of Medical Services and includes a Deputy Director of Medical Services and an Assistant Director of Medical Services;
+“Director” means the Director of Medical Services and includes a Deputy Director of Medical Services;
 
 “Director-General” means the Director-General of the Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap.95);
 
-“food establishment” means any place or any premises or part thereof used for the sale or for the preparation or manufacture for sale, or for the storage or packing for sale, of food, whether cooked or not, intended for human consumption;
+“Health Officer” means a Health Officer appointed by the Director-General or the Director under section 4;
 
-“Health Officer” means any person who is appointed by the Director-General or the Director to carry out the duties of a Health Officer under this Act;
+[10/2008 wef 10/06/2008]
 
 “HIV Infection” means Human Immunodeficiency Virus Infection;
 
-“infected” means infected with the germs of an infectious disease;
+“infected” means infected with the micro-organism or agent of an infectious disease;
 
 “infectious disease” means —
 
 (a) any of the diseases specified in the First Schedule; and
 
-(b) for the purposes of sections 7, 8, 9, 10, 13, 14, 15, 16, 19, 47, 55 and 73(1)(g) , includes any other disease —
+(b) for the purposes of sections 7, 8, 9, 10, 13, 14, 15, 16, 17, 17A, 19, 55, 57A and 59A, includes any other disease —
 
 (i) that is caused or is suspected to be caused by a micro-organism or any agent of disease;
 
@@ -274,9 +282,13 @@ PRELIMINARY
 
 “Minister” means —
 
-(a) in relation to sections 3(1), 7(1), 10(1), 17(1) and (2), 19(2), 21(3), 25(1)(k), 26, 47, 52, 54 and 58(1), the Minister charged with the responsibility for health; and
+(a) in relation to sections 3(1), 7(1), 10(1), 17(1) and (2), 17A, 19(7) and (8), 21(6) and (7), 25(1)(k), 26, 47, 52, 54, 57A, 58(1) and 59A(1)(b), the Minister charged with the responsibility for health; and
 
-(b) in relation to section 3(2), the Minister charged with the responsibility for the environment ;
+(b) in relation to section 3(2), the Minister charged with the responsibility for the environment and water resources;
+
+“minor” means a person who is below the age of 21 years;
+
+[10/2008 wef 10/06/2008]
 
 “nurse” means a registered nurse or enrolled nurse within the meaning of the Nurses and Midwives Act (Cap. 209);
 
@@ -328,11 +340,21 @@ ADMINISTRATION
 
 [4/2002]
 
-### Delegation
+### Health Officers
 
-4\. The Director-General or the Director may, subject to such conditions or restrictions as he thinks fit, delegate to any Health Officer all or any of the powers conferred on him by this Act.
+4\.—(1) The Director-General or the Director may, subject to such conditions or restrictions as he thinks fit, appoint any —
 
-[4/2002]
+(a) public officer;
+
+(b) officer of any statutory body; or
+
+(c) employee of a prescribed institution,
+
+to be a Health Officer for the purposes of this Act or any particular provision of this Act.
+
+(2) The Director-General or the Director may, subject to such conditions or restrictions as he thinks fit, delegate to any Health Officer all or any of the powers conferred on him by this Act.
+
+[10/2008 wef 10/06/2008]
 
 ### Advisory committees
 
@@ -364,39 +386,53 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (6) When any person who is charged with failing to comply with the requirements of subsection (1), (2) or (3) in relation to the notification of an infectious disease, he shall be presumed to have known of the existence of the disease unless he proves to the satisfaction of the court that he had no such knowledge and could not with reasonable diligence have obtained such knowledge.
 
-### Epidemiological surveys and investigations
+### Public health surveillance programmes, etc.
 
-7\.—(1) The Director may, from time to time, undertake epidemiological surveys of people, animals or vectors in order to determine the existence, prevalence or incidence of —
+7\.—(1) The Director may, from time to time, institute public health surveillance programmes or undertake epidemiological investigations or surveys of people, animals or vectors in order to determine the existence, prevalence or incidence, or to determine the likelihood of a possible outbreak, of —
 
 (a) any infectious disease; or
 
 (b) any other disease which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
 
-[5/92]
+[10/2008 wef 10/06/2008]
 
-(2) In investigating any disease the Director may require any person —
+(2) For the purpose of any public health surveillance programme, epidemiological investigation or survey under subsection (1), the Director may require any person —
 
-(a) to furnish him, as soon as practicable, with such information as he may require for the purpose of the investigation; and
+(a) to furnish him, within such time as he may specify, with —
+
+(i) such information as he may require; and
+
+(ii) any sample of any substance or matter in the possession or control of that person, whether taken pursuant to this Act or otherwise, as he may consider necessary or appropriate; and
 
 (b) to submit to such medical examination as he thinks fit.
 
-[5/92]
+[10/2008 wef 10/06/2008]
 
-(3) Any person who fails, without reasonable excuse, to furnish any information or to submit to any medical examination required under subsection (2) shall be guilty of an offence.
+(3) If a person who is required by the Director under subsection (2) to furnish the Director with any information or sample, or to submit to any medical examination, fails, without reasonable excuse, to do so, he shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(4) The Director may send any sample obtained under subsection (2)(a)(ii) for such test, examination or analysis as he may consider necessary or expedient.
+
+[10/2008 wef 10/06/2008]
 
 ### Medical examination and treatment
 
-8\.—(1) The Director may require any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination or medical treatment at such times and at such hospital or other place as the Director may determine.
+8\.—(1) The Director may require any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination or medical treatment within or at such time, and at such place, as the Director may determine.
 
-[7/2003]
+[10/2008 wef 10/06/2008]
 
-(2) If any person fails to comply with the requirements of the Director under this section —
+(2) For the purpose of subsection (1), the medical examination may include X-rays and the taking of the person’s blood and other body samples for testing and analysis.
 
-(a) that person shall be guilty of an offence; and
+[10/2008 wef 10/06/2008]
 
-(b) the Director may order the removal of that person to any hospital or other place where the person may be detained and (if necessary) isolated until he has been medically examined or treated.
+(3) Where the person who is, or is suspected to be, a case or carrier or contact of an infectious disease is a minor, the Director may require the parent or guardian of the minor to have the minor medically examined or treated at such times and at such hospital or other place as the Director may determine.
 
-[5/2003; 7/2003]
+[10/2008 wef 10/06/2008]
+
+(4) Any person who fails, without reasonable excuse, to comply with the requirement of the Director under this section shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
 
 ### Post-mortem examination
 
@@ -408,13 +444,13 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 [7/2003]
 
-### Director may require information from medical practitioners, etc.
+### Director may require information from healthcare professionals, etc.
 
 10\.—(1) The Director may, for the purpose of investigating into any outbreak or suspected outbreak of an infectious disease, preventing the spread of an infectious disease, or treating any person who is, or is suspected to be, a case or carrier or contact of an infectious disease —
 
-(a) require any medical practitioner to obtain from his patient such information as the Director may reasonably require for that purpose and transmit such information to the Director; and
+(a) require any healthcare professional to obtain from his patient such information as the Director may reasonably require for that purpose and transmit such information to the Director; and
 
-(b) with the approval of the Minister, prescribe by order any general or specific measures or procedures for that purpose for compliance by any medical practitioner, hospital, medical clinic, clinical laboratory or healthcare establishment.
+(b) with the approval of the Minister, prescribe by order any general or specific measures or procedures for that purpose for compliance by any healthcare professional, hospital, medical clinic, clinical laboratory or healthcare establishment.
 
 [7/2003]
 
@@ -422,17 +458,33 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 [7/2003]
 
-(3) A patient of a medical practitioner who fails to provide the medical practitioner or a person acting on his behalf with any information sought from the patient pursuant to a requirement under subsection (1)(a) that is within the patient’s knowledge shall be guilty of an offence.
+(3) A patient of a medical practitioner who fails to provide the healthcare professional or a person acting on his behalf with any information sought from the patient pursuant to a requirement under subsection (1)(a) that is within the patient’s knowledge shall be guilty of an offence.
 
 [7/2003]
 
-(4) A medical practitioner shall comply with a requirement under subsection (1)(a) to transmit information to the Director notwithstanding any restriction on the disclosure of information imposed by any written law, rule of law, rule of professional conduct or contract; and he shall not by so doing be treated as being in breach of any such restriction notwithstanding anything to the contrary in that law, rule or contract.
+(4) A healthcare professional shall comply with a requirement under subsection (1)(a) to transmit information to the Director notwithstanding any restriction on the disclosure of information imposed by any written law, rule of law, rule of professional conduct or contract; and he shall not by so doing be treated as being in breach of any such restriction notwithstanding anything to the contrary in that law, rule or contract.
 
 [7/2003]
 
-(5) In this section, “clinical laboratory”, “healthcare establishment” and “medical clinic” have the same meanings as in the Private Hospitals and Medical Clinics Act (Cap. 248).
+(5) In this section —
 
-[7/2003]
+“clinical laboratory”, “healthcare establishment” and “medical clinic” have the same meanings as in the Private Hospitals and Medical Clinics Act (Cap. 248);
+
+“healthcare professional” means —
+
+(a) a medical practitioner;
+
+(b) a dentist registered under the Dental Registration Act (Cap. 76);
+
+(c) a registered nurse or an enrolled nurse, or a registered midwife, within the meaning of the Nurses and Midwives Act (Cap. 209);
+
+(d) a pharmacist registered under the Pharmacists Registration Act 2007 (Act 48 of 2007);
+
+(e) a person registered under section 14 of the Traditional Chinese Medicine Practitioners Act (Cap. 333A) for the carrying out of any practice of traditional Chinese medicine prescribed under that Act; or
+
+(f) any other person providing any other healthcare service in Singapore.
+
+[10/2008 wef 10/06/2008]
 
 ### Offence for supplying false or misleading information
 
@@ -458,15 +510,35 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any owner or occupier who fails to comply with the requirements of the notice served under subsection (1) shall be guilty of an offence.
 
-(3) Without prejudice to any proceedings under subsection (2), where a notice issued by the Director under subsection (1) has not been complied with, a person authorised in that behalf by the Director may enter the premises or vessel to which the notice relates and take or cause to be taken such measures as have been specified in the notice.
+(3) Without prejudice to any proceedings under subsection (2), where a notice issued by the Director under subsection (1) has not been complied with, a person authorised in that behalf by the Director may, without warrant and with such force as may be necessary, enter the premises or vessel to which the notice relates and take or cause to be taken such measures as have been specified in the notice.
 
 [4/2002]
+
+[10/2008 wef 10/06/2008]
 
 (4) The cost and expenses incurred by the Director under subsection (3) shall be paid by the person in default and may be recovered as a debt due to the Government.
 
 ### Destruction and disposal of infected animals, food and water
 
-13\. The Director may order the destruction of any animal and the disposal of any food or water wherever found if he considers such animal, food or water to be a source for the transmission of an infectious disease.
+13\.—(1) The Director may order the destruction of any animal and the disposal of any food or water wherever found if he considers such animal, food or water to be a source for the transmission of an infectious disease.
+
+[10/2008 wef 10/06/2008]
+
+(2) Any person who fails to comply with an order made by the Director under subsection (1) shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(3) Without prejudice to any proceedings under subsection (2), where an order made by the Director under subsection (1) has not been complied with, the Director, a Health Officer or a police officer may —
+
+(a) without warrant and with such force as may be necessary, enter the premises where the animal, food or water (as the case may be) is to be found; and
+
+(b) take or cause to be taken such measures as have been specified in the order for the destruction of the animal or the disposal of the food or water.
+
+[10/2008 wef 10/06/2008]
+
+(4) The costs and expenses incurred by the Director or a Health Officer under subsection (3) shall be paid by the person in default and may be recovered as a debt due to the Government.
+
+[10/2008 wef 10/06/2008]
 
 ### Wakes and disposal of corpses
 
@@ -504,17 +576,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [7/2003]
 
-(3) If any person against whom an order under subsection (1) or (2) is made —
+(3) Where the person who is to be isolated under subsection (1) or (2) is a minor, the Director may order the parent or guardian of the minor —
 
-(a) fails to proceed to the place in which he is to be isolated within the time specified in the order;
+(a) to take the minor, within the time specified in the order, to the place in which he is to be isolated; or
+
+(b) to ensure that the minor remains in isolation in his own dwelling place,
+
+for such period of time and subject to such conditions as may be specified by the Director.
+
+[10/2008 wef 10/06/2008]
+
+(4) Any person against whom an order under subsection (1) or (2) is made shall be guilty of an offence if he —
+
+(a) fails, without reasonable excuse, to proceed to the place in which he is to be isolated within the time specified in the order;
 
 (b) without the permission of the Director, leaves or attempts to leave the place in which he is being isolated; or
 
-(c) fails to comply with any condition to which the person is subject,
+(c) fails, without reasonable excuse, to comply with any condition to which he is subject.
 
-that person shall be guilty of an offence.
+[10/2008 wef 10/06/2008]
 
-[7/2003]
+(5) Any person, being the parent or guardian of a minor, who fails, without reasonable excuse, to comply with an order of the Director under subsection (3) shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
 
 ### Surveillance
 
@@ -522,9 +606,17 @@ that person shall be guilty of an offence.
 
 [7/2003]
 
-(2) Any person subjected to surveillance by the Director under subsection (1) who fails to comply with any condition relating to his surveillance imposed by the Director shall be guilty of an offence.
+(2) Where the person who is to undergo surveillance under subsection (1) is a minor, the Director may order the parent or guardian of the minor to have the minor undergo surveillance for such period of time and subject to such conditions as the Director thinks fit.
 
-[7/2003]
+[10/2008 wef 10/06/2008]
+
+(3) Any person subjected to surveillance by the Director under subsection (1) who fails, without reasonable excuse, to comply with any condition relating to his surveillance imposed by the Director shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(4) Any person, being the parent or guardian of a minor, who fails, without reasonable excuse, to comply with an order of the Director under subsection (2) shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
 
 ### Isolation area
 
@@ -552,9 +644,9 @@ that person shall be guilty of an offence.
 
 [7/2003]
 
-(4) Action necessary to give effect to an order under subsection (3) may be taken by a Health Officer or a police officer.
+(4) A Health Officer or a police officer may take any action that is necessary to give effect to an order under subsection (3).
 
-[7/2003]
+[10/2008 wef 10/06/2008]
 
 (5) Any person who, without reasonable excuse, contravenes an order under subsection (3) shall be guilty of an offence.
 
@@ -568,27 +660,149 @@ that person shall be guilty of an offence.
 
 [7/2003]
 
-(8) Goods brought into or removed from an isolation area in contravention of an order under subsection (3) shall be forfeited to the Government and may be seized, dealt with and disposed of in accordance with section 55(2) and (3) as if those goods were any substance or matter referred to in section 55(1)(c).
+(8) Goods brought into or removed from an isolation area in contravention of an order under subsection (3) shall be forfeited to the Government and may be seized, dealt with and disposed of in accordance with section 60(2) and (3) as if those goods were any substance or matter referred to in section 60(1)(c).
 
 [7/2003]
+
+### Restricted zones during public health emergency
+
+17A\.—(1) If the Minister is satisfied that there is an outbreak or imminent outbreak of an infectious disease that poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore, he may, by order, declare a public health emergency.
+
+[10/2008 wef 10/06/2008]
+
+(2) The Minister may, if it appears necessary or expedient for the securing of public health or safety during a public health emergency, by order declare the whole of or such area in Singapore to be a restricted zone and may in such order prohibit or restrict, subject to such conditions as he may think fit —
+
+(a) the entry and stay of persons in any place, building or other premises (whether public or private) within the restricted zone; and
+
+(b) the holding of, or the attendance of persons at, any public meeting, reception, procession or other gathering within the restricted zone.
+
+[10/2008 wef 10/06/2008]
+
+(3) Subject to subsection (4), every order made under subsection (1) or (2) shall remain in force until it is revoked by the Minister or upon the expiration of 14 days from the date upon which it was made, whichever is the earlier.
+
+[10/2008 wef 10/06/2008]
+
+(4) An order made under subsection (1) or (2) may be renewed by declaration of the Minister from time to time for such period, not exceeding 14 days at a time, as may be specified in the declaration.
+
+[10/2008 wef 10/06/2008]
+
+(5) An order made under subsection (1) or (2) and a declaration of renewal made under subsection (4) shall be published in such manner as the Minister thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof and shall have effect as soon as such notice has been given, without publication in theGazette.
+
+[10/2008 wef 10/06/2008]
+
+(6) A copy of every order made under subsection (1) or (2) and of every declaration of renewal made under subsection (4) shall be published in theGazetteand shall be presented to Parliament as soon as possible after it has been made and if a resolution is passed by Parliament annulling the order or declaration, it shall cease to have effect, notwithstanding subsection (3) or (4) (whichever is applicable), but without prejudice to anything previously done by virtue thereof.
+
+[10/2008 wef 10/06/2008]
+
+(7) Where an order referred to in subsection (2)(b) is in force, any public officer or officer of any statutory body who is authorised in writing by the Director (hereinafter referred to as an authorised person) or any police officer may direct the persons at any public meeting, reception, procession or other gathering within the restricted zone to disperse and it shall thereupon be the duty of the persons so directed to disperse accordingly.
+
+[10/2008 wef 10/06/2008]
+
+(8) Any person who refuses or fails, without reasonable excuse, to comply with an order made under subsection (2) or with any direction given by an authorised person or a police officer under subsection (7) —
+
+(a) shall be guilty of an offence; and
+
+(b) may, without prejudice to any proceedings which may be taken against him, be arrested without warrant, and may be removed by an authorised person or a police officer from the place in respect of which the order or direction applies.
+
+[10/2008 wef 10/06/2008]
 
 ### Abatement of overcrowding
 
 18\.—(1) If, in the opinion of the Director, a building is so overcrowded as to expose the occupants thereof to the risk of infection by an infectious disease, the Director may, by notice in writing, direct the owner or occupier of the building to abate the overcrowding or to close the building or part thereof within the time specified in the notice.
 
-(2) When a building or any part thereof has been directed to be closed under subsection (1), any person who enters the building or part thereof without the permission of the Director shall be guilty of an offence.
+(2) Any owner or occupier who fails to comply with a notice given to him by the Director under subsection (1) shall be guilty of an offence.
 
-### Closure of food establishment
+[10/2008 wef 10/06/2008]
 
-19\.—(1) If the Director suspects that any food establishment is the source of or is responsible for the transmission of an infectious disease, he may, by notice in writing, order the closure of the food establishment and prohibit the sale or distribution of the food or water found therein for such period as may be specified in the notice.
+(3) When a building or any part thereof has been directed to be closed under subsection (1), any person who enters the building or any part thereof without the permission of the Director shall be guilty of an offence.
 
-(2) Any person aggrieved by any order of the Director under subsection (1) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
+[10/2008 wef 10/06/2008]
 
-### Prohibition of meetings, gatherings and public entertainments
+(4) Without prejudice to any proceedings under subsection (2), where a notice issued by the Director under subsection (1) has not been complied with, the Director, a Health Officer or a police officer may, without warrant and with such force as may be necessary, enter the building and take or cause to be taken such measures as are necessary to abate the overcrowding or to close the building or any part thereof, as specified in the notice.
 
-20\.—(1) Where it appears to the Director that the holding of any meeting, gathering or any public entertainment is likely to increase the spread of any infectious disease, the Director may prohibit the meeting, gathering or public entertainment in any place.
+[10/2008 wef 10/06/2008]
 
-(2) Any person who holds, is present at or has taken part in any meeting, gathering or public entertainment in contravention of a prohibition by the Director under subsection (1) shall be guilty of an offence.
+(5) The costs and expenses incurred by the Director or a Health Officer under subsection (4) shall be paid by the owner or occupier in default and may be recovered as a debt due to the Government.
+
+[10/2008 wef 10/06/2008]
+
+(6) Any person who is aggrieved by any direction of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the Minister whose decision shall be final.
+
+[10/2008 wef 10/06/2008]
+
+(7) Notwithstanding that any appeal under subsection (6) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+
+[10/2008 wef 10/06/2008]
+
+### Closure and disinfection of premises
+
+19\.—(1) If the Director has reason to believe that there exist on any premises conditions that are likely to lead to the outbreak or spread of any infectious disease, he may, by notice in writing —
+
+(a) order the closure of the premises for a period not exceeding 14 days; or
+
+(b) prohibit the sale or distribution of food or water in the premises for such period as may be specified in the notice,
+
+and may require the owner or occupier of the premises to —
+
+(i) cleanse or disinfect the premises in the manner and within the time specified in the notice; or
+
+(ii) carry out such additional measures as the Director may require in the manner and within the time specified in the notice.
+
+[10/2008 wef 10/06/2008]
+
+(2) A notice under subsection (1)(a) directing the owner or the occupier of the premises to close the premises may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by notice in writing, specify.
+
+[10/2008 wef 10/06/2008]
+
+(3) Subject to subsection (7), any person who fails to comply with a notice given to him by the Director under subsection (1) shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(4) When any premises have been ordered to be closed under subsection (1)(a), any person who enters those premises without the permission of the Director shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(5) Without prejudice to any proceedings under subsection (3), where a notice issued by the Director under subsection (1) has not been complied with, the Director, a Health Officer or a police officer may, without warrant and with such force as may be necessary, enter the premises to which the notice relates and close the premises or take or cause to be taken such measures as have been specified in the notice.
+
+[10/2008 wef 10/06/2008]
+
+(6) The costs and expenses incurred by the Director or a Health Officer under subsection (5) shall be paid by the person in default and may be recovered as a debt due to the Government.
+
+[10/2008 wef 10/06/2008]
+
+(7) Any person who is aggrieved by any order or requirement of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the Minister whose decision shall be final.
+
+[10/2008 wef 10/06/2008]
+
+(8) Notwithstanding that any appeal under subsection (7) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+
+[10/2008 wef 10/06/2008]
+
+### Prohibition or restriction of meetings, gatherings and public entertainments
+
+20\.—(1) Where it appears to the Director that the holding of any meeting, gathering or any public entertainment is likely to increase the spread of any infectious disease, the Director may by order prohibit or restrict, subject to such conditions as he may think fit, for a period not exceeding 14 days, the meeting, gathering or public entertainment in any place.
+
+[10/2008 wef 10/06/2008]
+
+(1A) An order under subsection (1) may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by notice in writing, specify.
+
+[10/2008 wef 10/06/2008]
+
+(2) Any person who holds, is present at or has taken part in any meeting, gathering or public entertainment in contravention of an order by the Director under subsection (1) shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(3) A Health Officer or a police officer may take any action that is necessary to give effect to an order under subsection (1).
+
+[10/2008 wef 10/06/2008]
+
+(4) Any person who is aggrieved by any order of the Director under subsection (1) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
+
+[10/2008 wef 10/06/2008]
+
+(5) Notwithstanding that any appeal under subsection (4) is pending, an order made by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+
+[10/2008 wef 10/06/2008]
 
 ### Control of occupation, trade or business
 
@@ -598,9 +812,25 @@ that person shall be guilty of an offence.
 
 (2) The Director may, by order in writing, prohibit any person for any period specified therein from carrying on any occupation, trade or business if his occupation, trade or business is conducted in such manner as is likely to cause the spread of any infectious disease.
 
-(3) Any person aggrieved by any order of the Director under subsection (2) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
+(3) Any person who fails to comply with an order made by the Director under subsection (1) or (2) shall be guilty of an offence.
 
-(4) Any person who contravenes any order made under subsection (1) or (2) shall be guilty of an offence.
+[10/2008 wef 10/06/2008]
+
+(4) Without prejudice to any proceedings under subsection (3), where an order made by the Director under subsection (1) or (2) prohibiting any person from carrying on any occupation, trade or business has not been complied with by that person, the Director, a Health Officer or a police officer may, without warrant and with such force as may be necessary, enter the premises on which the occupation, trade or business is being carried out and take or cause to be taken such measures as are necessary to close the premises.
+
+[10/2008 wef 10/06/2008]
+
+(5) The costs and expenses incurred by the Director or a Health Officer under subsection (4) shall be paid by the person in default and may be recovered as a debt due to the Government.
+
+[10/2008 wef 10/06/2008]
+
+(6) Any person who is aggrieved by any order or requirement of the Director as contained in an order made by the Director under subsection (1) or (2) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
+
+[10/2008 wef 10/06/2008]
+
+(7) Notwithstanding that any appeal under subsection (6) is pending, an order made by the Director under subsection (1) or (2) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+
+[10/2008 wef 10/06/2008]
 
 ### Certain persons not to act in manner likely to spread disease
 
@@ -640,45 +870,49 @@ CONTROL OF AIDS AND HIV INFECTION
 
 22\.—(1) The Director may require any person who has been diagnosed as having AIDS or HIV Infection —
 
-(a) to undergo counselling by a registered medical practitioner; and
+(a) to undergo counselling at such time and at such hospital or other place as the Director may determine; and
 
 (b) to comply with such precautions and safety measures as may be specified by the Director.
 
 [5/92; 13/99]
 
+[10/2008 wef 10/06/2008]
+
 (2) Any person who fails or refuses to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [5/92]
 
-### Sexual intercourse by person with AIDS or HIV Infection
+### Sexual activity by person with AIDS or HIV Infection
 
-23\.—(1) A person who knows that he has AIDS or HIV Infection shall not have sexual intercourse with another person unless, before the sexual intercourse takes place, the other person —
+23\.—(1) A person who knows that he has AIDS or HIV Infection shall not engage in any sexual activity with another person unless, before the sexual activity takes place —
 
-(a) has been informed of the risk of contracting AIDS or HIV Infection from him; and
+(a) he has informed that other person of the risk of contracting AIDS or HIV Infection from him; and
 
-(b) has voluntarily agreed to accept that risk.
+(b) that other person has voluntarily agreed to accept that risk.
 
-[5/92; 13/99]
+(2) A person who does not know that he has AIDS or HIV Infection, but who has reason to believe that he has, or has been exposed to a significant risk of contracting, AIDS or HIV Infection shall not engage in any sexual activity with another person unless —
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(a) before the sexual activity takes place he informs that other person of the risk of contracting AIDS or HIV Infection from him and that other person voluntarily agrees to accept that risk;
 
-[5/92]
+(b) he has undergone the necessary serological or other test and has ascertained that he does not have AIDS or HIV Infection at the time of the sexual activity; or
 
-(3) For the purposes of this section, a person shall not, only by reason of age, be presumed incapable of having sexual intercourse.
+(c) during the sexual activity, he takes reasonable precautions to ensure that he does not expose that other person to the risk of contracting AIDS or HIV Infection.
 
-[5/92]
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(4) For the purposes of this section and section 24, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or any other prescribed test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result was communicated to him.
+(4) For the purposes of this section, a person shall not, only by reason of age, be presumed incapable of engaging in sexual activity.
 
-[5/92; 13/99]
+(5) For the purposes of this section, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
 
-(5) In this section, “sexual intercourse” means —
+(6) No prosecution shall be instituted for an offence under subsection (2) except with the written consent of the Attorney-General , but a person charged with such an offence may be arrested and be remanded in custody or released on bail notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the offence has not been obtained, except that the case shall not be further prosecuted until that consent of the Attorney-General has been obtained.
 
-(a) sexual connection occasioned by the introduction into the vagina, anus or mouth of any person of any part of the penis of another person; or
+(7) In this section, “sexual activity” means —
+
+(a) sexual activity occasioned by the introduction into the vagina, anus or mouth of any person of any part of the penis of another person; or
 
 (b) cunnilingus.
 
-[5/92]
+[10/2008 wef 10/06/2008]
 
 ### Blood donation and other acts by person with AIDS or HIV Infection
 
@@ -690,9 +924,15 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [5/92; 13/99]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(1A) For the purposes of this section, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
+
+[10/2008 wef 10/06/2008]
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 [5/92; 13/99]
+
+[10/2008 wef 10/06/2008]
 
 ### Protection of identity of person with AIDS, HIV Infection or other sexually transmitted disease
 
@@ -702,9 +942,15 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (b) when it is necessary to do so in connection with the administration or execution of anything under this Act;
 
+(ba) when it is necessary to do so in connection with the provision of information to a police officer under section 22 or 121 of the Criminal Procedure Code (Cap. 68);
+
+[10/2008 wef 10/06/2008]
+
+[15/2010 wef 02/01/2011]
+
 (c) when ordered to do so by a court;
 
-(d) to any medical practitioner or other health staff who is treating or caring for the other person;
+(d) to any medical practitioner or other health staff who is treating or caring for, or counselling, the other person;
 
 (e) to any blood, organ, semen or breast milk bank that has received or will receive any blood, organ, semen or breast milk from the other person;
 
@@ -722,7 +968,7 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [5/92; 13/99]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [5/92]
 
@@ -864,15 +1110,19 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 (3) Without prejudice to subsection (2), any such person who fails to report to a Port Health Officer or fails to comply with the directions of a Port Health Officer shall be liable to be arrested without a warrant, to be isolated, disinfected or otherwise treated.
 
-### Vaccination
+### Vaccination and other prophylaxis
 
 31\.—(1) Every person on an international voyage whether leaving or arriving in Singapore shall —
 
-(a) have been vaccinated against all or any of the diseases in accordance with the requirements set out in the Third Schedule; and
+(a) have undergone vaccination or other prophylaxis against all or any of the diseases in accordance with the requirements set out in the Third Schedule; and
 
-(b) produce valid international certificates of vaccination to a Port Health Officer.
+(b) produce valid international certificates of vaccination or other prophylaxis to a Port Health Officer.
 
-(2) Notwithstanding subsection (1), a Port Health Officer may require such person to be vaccinated and may subject him to isolation or surveillance for such period as the Port Health Officer thinks fit.
+[10/2008 wef 10/06/2008]
+
+(2) Notwithstanding subsection (1), a Port Health Officer may require such person to undergo vaccination or other prophylaxis and may subject him to isolation or surveillance for such period as the Port Health Officer thinks fit.
+
+[10/2008 wef 10/06/2008]
 
 (3) The Port Health Officer may, in his discretion, return any person, not being a citizen of Singapore, who refuses or fails to comply with subsection (2), to his place of origin or embarkation at the expense of the owner or agent of the vessel by which he arrived in Singapore.
 
@@ -1064,19 +1314,23 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 ## PART VI
 
-VACCINATION
+VACCINATION AND OTHER PROPHYLAXIS
 
 ### Responsibility of parent or guardian
 
 46\.—(1) The parent or guardian of every child in Singapore shall ensure that the child is vaccinated against the diseases set out in the Fourth Schedule.
 
-(2) The Registrar of Births and Deaths shall, immediately after the registration of the birth of a child, issue to the parent or guardian of the child a notice in the prescribed form requiring the child to be vaccinated against the diseases to which this section applies.
+(2) The Registrar of Births and Deaths shall, immediately after the registration of the birth of a child, issue to the parent or guardian of the child a notice requiring the child to be vaccinated against the diseases to which this section applies.
 
-### Power to order mandatory vaccination of persons in certain cases
+[10/2008 wef 10/06/2008]
 
-47\.—(1) In an outbreak of any infectious disease in any area in Singapore, the Minister may by order direct any person or class of persons not protected or vaccinated against the disease to be vaccinated within such period as may be specified in the order.
+### Power to order certain persons to undergo vaccination or other prophylaxis
+
+47\.—(1) In an outbreak of any infectious disease in any area in Singapore, the Minister may by order direct any person or class of persons not protected or vaccinated against the disease to undergo vaccination or other prophylaxis within such period as may be specified in the order.
 
 [5/2003]
+
+[10/2008 wef 10/06/2008]
 
 (2) In addition to the power conferred by subsection (1), where it appears to the Minister that —
 
@@ -1084,35 +1338,43 @@ VACCINATION
 
 (b) it is necessary or expedient to do so for the securing of public safety,
 
-the Minister may by order direct any person or class of persons not protected or vaccinated against that infectious disease to be vaccinated within such period as may be specified in the order.
+the Minister may by order direct any person or class of persons not protected or vaccinated against that infectious disease to undergo vaccination or other prophylaxis within such period as may be specified in the order.
 
 [5/2003]
 
-(3) Any order made under subsection (1) or (2) may specify the person by whom and the manner in which the vaccination is to be carried out.
+[10/2008 wef 10/06/2008]
+
+(3) Any order made under subsection (1) or (2) may specify the person by whom and the manner in which the vaccination or other prophylaxis is to be carried out.
 
 [5/2003]
+
+[10/2008 wef 10/06/2008]
 
 (4) Where any order is made under subsection (1) or (2), the Minister shall cause notice of the effect of the order to be given in such a manner as he thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof.
 
 [5/2003]
 
-### Vaccination and intradermal tests
+### Vaccination
 
-48\.—(1) No vaccination or intradermal testshall be carried out except by a medical practitioner, or by a nurse employed by the Board or working under the supervision of a medical practitioner.
+48\.—(1) No vaccination shall be carried out except by a medical practitioner, or by a nurse or any other suitably trained person employed by the Board or working under the supervision of a medical practitioner.
 
 [5/2001]
 
+[10/2008 wef 10/06/2008]
+
 (2) Every medical practitioner shall —
 
-(a) keep in the prescribed manner a record of all vaccination and intradermal tests carried out by him or under his supervision; and
+(a) keep in the prescribed manner a record of all vaccination carried out by him or under his supervision; and
 
-(b) within the prescribed period after carrying out any vaccination or intradermal test, notify in the prescribed manner —
+(b) within the prescribed period after carrying out any vaccination, notify in the prescribed manner —
 
 (i) the Director or any officer of the Board who is designated by the Director for the purpose; and
 
-(ii) the person on whom the vaccination or intradermal test was carried out or, if such person is a child, to the parent or guardian of such child.
+(ii) the person on whom the vaccination was carried out or, if such person is a child, to the parent or guardian of such child.
 
 [5/2003]
+
+[10/2008 wef 10/06/2008]
 
 ### Exemption from vaccination
 
@@ -1150,23 +1412,13 @@ the Minister may by order direct any person or class of persons not protected or
 
 (2) The Minister shall, on the termination of such epidemic, by notification in theGazetterestore such provisions of this Part that he has suspended and order all persons affected by the suspension to perform within such time as he may specify all acts that remained to be performed by reason of the suspension.
 
-### Issue of international certificates of vaccination
+53\. [Deleted by Act 10/2008 wef 10/06/2008]
 
-53\.—(1) International certificates of vaccination shall be issued only by such medical practitioners as may be permitted by the Director.
+### Fees for vaccinations and other prophylaxis
 
-(2) Any permission under subsection (1) —
+54\. The Minister may from time to time, by notification in theGazette, prescribe the fees that may be charged by medical practitioners who carry out any vaccination or other prophylaxis under the provisions of this Act.
 
-(a) may be granted in the discretion of the Director;
-
-(b) may be granted, renewed or refused without any reason for the grant, renewal or refusal being assigned;
-
-(c) may be granted or renewed subject to such restrictions and conditions as the Director may think fit; and
-
-(d) shall be subject to suspension at any time and without notice upon breach of any restriction or condition subject to which it was issued, or upon contravention of any provision of this Act.
-
-### Fees for vaccinations and intradermal tests
-
-54\. The Minister may from time to time, by notification in theGazette, prescribe the fees that may be charged by medical practitioners who carry out any vaccination or intradermal test under the provisions of this Act.
+[10/2008 wef 10/06/2008]
 
 ## PART VII
 
@@ -1174,7 +1426,7 @@ ENFORCEMENT
 
 ### Powers of Director and Health Officers in dealing with outbreaks and suspected outbreaks of infectious diseases
 
-55\.—(1) For the purpose of investigating into any outbreak or suspected outbreak of an infectious disease or for the purpose of preventing the spread of any such infectious disease, the Director or any Health Officer authorised by the Director may —
+55\.—(1) For the purpose of investigating into any outbreak or suspected outbreak of an infectious disease or for the purpose of preventing a possible outbreak or the spread of an infectious disease, the Director or any Health Officer authorised by the Director may —
 
 (a) at any time without warrant and with such force as may be necessary —
 
@@ -1194,11 +1446,15 @@ in which the outbreak or suspected outbreak has taken place;
 
 (i) to furnish any information within his knowledge; or
 
-(ii) to produce for inspection any book or document within his custody or possession;
+(ii) to produce any book, document or other record which may be in his custody or possession for inspection by the Director or Health Officer and the making of copies thereof, or to provide the Director or Health Officer with copies of such book, document or other record,
 
-(f) require, by notice in writing, any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination and have his blood or other body sample taken for examination within the time specified in such notice, and to undergo such treatment as may be necessary;
+and may, if necessary, further require such person to attend at a specified time and place for the purposes of complying with sub-paragraph (i) or (ii);
 
-(g) subject to subsection (5), order the closure or cordoning off of any public place in which the outbreak or suspected outbreak has taken place;
+[10/2008 wef 10/06/2008]
+
+(f) require, by notice in writing, any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination and have his blood or other body sample taken for examination within or at such time, and at such place, as may be specified in such notice, and to undergo such treatment as may be necessary;
+
+(g) subject to subsection (5), order the closure or cordoning off of any public place in which the outbreak or suspected outbreak, or the transmission or suspected transmission, of an infectious disease has taken place;
 
 (h) subject to subsections (6) and (7), requisition, for such period as the Director or Health Officer thinks necessary —
 
@@ -1260,37 +1516,123 @@ the substance or matter seized in its entirety or to the extent to which its sei
 
 [5/2003]
 
+(9) For the purposes of subsection (1)(e), where any document or record required by the Director or a Health Officer is kept in electronic form, then —
+
+(a) the power of the Director or Health Officer to require such document or record to be produced for inspection includes the power to require a copy of the document or record to be made available for inspection in legible form; and
+
+(b) the power of the Director or Health Officer to inspect such document or record includes the power to require any person on the premises in question to give the Director or Health Officer such assistance as the Director or Health Officer may reasonably require to enable him to inspect and make copies of the document or record in legible form or to make records of the information contained therein.
+
+[10/2008 wef 10/06/2008]
+
+### Powers of investigation
+
+55A\.—(1) For the purposes of an investigation into an offence punishable under this Act, any police officer, or any Health Officer who is authorised in writing in that behalf by the Director-General or the Director, may —
+
+(a) require any person —
+
+(i) to furnish any information within his knowledge; or
+
+(ii) to produce any book, document or other record which may be in his custody or possession for inspection by the police officer or Health Officer and the making of copies thereof, or to provide the police officer or Health Officer with copies of such book, document or other record,
+
+and may, if necessary, further require such person to attend at a specified time and place for the purposes of complying with sub-paragraph (i) or (ii); and
+
+(b) at any time without warrant and with such force as may be necessary stop, board, enter, inspect and search any premises or conveyance, as the case may be, and take samples of or seize any substance or matter found on the premises or conveyance.
+
+[10/2008 wef 10/06/2008]
+
+(2) A statement made by any person giving evidence under subsection (1)(a) —
+
+(a) shall be reduced to writing and read over to him; and
+
+(b) shall, after correction (if any), be signed by him.
+
+[10/2008 wef 10/06/2008]
+
+(3) Any person who, without reasonable excuse —
+
+(a) refuses or fails to comply with any requirement of a police officer or Health Officer under subsection (1); or
+
+(b) refuses to answer or gives a false answer to any question put to him by a police officer or Health Officer,
+
+shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(4) For the purposes of subsection (3), it is a reasonable excuse for a person to refuse or fail to furnish any information, produce any book, document or other record or answer any question if doing so might tend to incriminate him.
+
+[10/2008 wef 10/06/2008]
+
+(5) For the purposes of subsection (1)(a)(i), where any document or record required by a police officer or Health Officer is kept in electronic form, then —
+
+(a) the power of the police officer or Health Officer to require such document or record to be produced for inspection includes the power to require a copy of the document or record to be made available for inspection in legible form; and
+
+(b) the power of the police officer or Health Officer to inspect such document or record includes the power to require any person on the premises in question to give the police officer or Health Officer such assistance as the police officer or Health Officer may reasonably require to enable him to inspect and make copies of the document or record in legible form or to make records of the information contained therein.
+
+[10/2008 wef 10/06/2008]
+
 ### Powers of arrest
 
-56\.—(1) Any police officer or any Health Officer authorised in writing in that behalf by the Director-General or the Director may arrest any person committing or who he has reason to believe has committed any offence punishable under this Act if —
+56\.—(1) Any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under section 11(1), 20(2), 21A(4), 23(3), 24(2) or 55(8).
+
+[10/2008 wef 10/06/2008]
+
+(2) Subject to subsection (1), any police officer, or any Health Officer authorised in writing in that behalf by the Director-General or the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under this Act if —
 
 (a) the name and address of the person are unknown to him;
 
-(b) the person declines to give his name and address; or
+(b) the person declines to give his name and address;
 
-(c) there is reason to doubt the accuracy of the name and address if given.
+(c) the person gives an address outside Singapore; or
 
-[4/2002; 5/2003]
+(d) there is reason to doubt the accuracy of the name and address if given.
 
-(2) A person arrested under subsection (1) may be detained until his name and address are correctly ascertained.
+[10/2008 wef 10/06/2008]
 
-(3) No person so arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
+(3) Subject to subsection (7), any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person who —
 
-### Powers of arrest of person in isolation, undergoing surveillance, etc.
+(a) being required to be isolated in any place under the provisions of this Act, has failed to proceed to that place or has left or attempted to leave that place; or
 
-56A\.—(1) Any person who —
+(b) being required to undergo or submit to any surveillance, medical examination or medical treatment under the provisions of this Act, has failed to undergo or submit to such surveillance, examination or treatment or comply with any condition relating to his surveillance.
 
-(a) being required to be isolated in any place under the provisions of this Act, fails to proceed to that place or leaves or attempts to leave that place; or
+[10/2008 wef 10/06/2008]
 
-(b) being required to undergo or submit to surveillance, medical examination or medical treatment under the provisions of this Act, fails to undergo or submit to such surveillance, examination or treatment,
+(4) Any person arrested under subsection (2) shall, within 24 hours from the arrest or immediately in the case of a person who gives his address as a place outside Singapore, be taken before a Magistrate’s Court, unless before that time his true name and residence are ascertained, in which case he shall be immediately released on his executing a bond with or without sureties before a police officer not below the rank of inspector for his appearance before a Magistrate’s Court, if so required.
 
-may be arrested without warrant by any police officer, or by any Health Officer authorised in writing in that behalf by the Director.
+[10/2008 wef 10/06/2008]
 
-[7/2003]
+(5) Without prejudice to subsection (4), no person arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
-(2) The Director may issue any order under this Act for the isolation, surveillance, medical examination or medical treatment of a person arrested under subsection (1).
+[10/2008 wef 10/06/2008]
 
-[7/2003]
+(6) The Director may issue any order under this Act for the isolation, surveillance, medical examination or medical treatment of a person arrested under subsection (3).
+
+[10/2008 wef 10/06/2008]
+
+(7) Where a person who has failed to comply with any of the requirements referred to in subsection (3)(a) or (b) is unable to do so by reason of his age or any infirmity of body or mind, the police officer or Health Officer may, instead of arresting that person, take such measures as he thinks fit —
+
+(a) in a case where that person is to be isolated —
+
+(i) to cause that person to be taken to the place where he is to be isolated; or
+
+(ii) to ensure that the person remains in isolation in his own dwelling place,
+
+for such period of time and subject to such conditions as the Director thinks necessary for the protection of the public;
+
+(b) in a case where that person is to undergo surveillance, to cause that person to undergo surveillance for such period of time and subject to such conditions as the Director thinks necessary for the protection of the public; or
+
+(c) in a case where that person is to undergo medical examination or medical treatment, to cause that person to be medically examined or treated.
+
+[10/2008 wef 10/06/2008]
+
+(8) The measures referred to in subsection (7) may extend to —
+
+(a) the entry into any premises without a warrant; and
+
+(b) the use of such force as may be necessary.
+
+[10/2008 wef 10/06/2008]
+
+56A\. [Deleted by Act 10/2008 wef 10/06/2008]
 
 ### Police officer or Health Officer may demand names and addresses in certain cases
 
@@ -1306,23 +1648,45 @@ may be arrested without warrant by any police officer, or by any Health Officer 
 
 [5/2003]
 
-### Disclosure of information to prevent spread of infectious disease
+### Disclosure of information to prevent spread or possible outbreak of infectious disease, etc.
 
-57A\.—(1) The Director may only disclose any information obtained by him under this Act to any person if this is necessary to enable that person to take steps to prevent the spread of a disease set out in the Sixth Schedule.
+57A\.—(1) Subject to subsection (2), the Director may disclose any information obtained by him under this Act which identifies any person who is, or is suspected to be, a case or carrier or contact of an infectious disease —
 
-[7/2003]
+(a) to any person if such disclosure is necessary to enable that person to take the necessary measures to prevent the spread or possible outbreak of an infectious disease where —
 
-(2) A person to whom information under subsection (1) is disclosed may only disclose or use such information to the extent necessary for implementing any measure permitted by the Director for the purpose of preventing the spread of that disease, but not otherwise.
+(i) the infectious disease is one of the diseases set out in the Sixth Schedule; or
 
-[7/2003]
+(ii) the Minister, having regard to the circumstances of the case, thinks that such disclosure is necessary and has given his approval in writing for the disclosure to be made; or
 
-(3) Any person who contravenes subsection (2) shall be guilty of an offence.
+(b) to the World Health Organisation or a State Party to the World Health Organisation if such disclosure is necessary to comply with an international obligation of Singapore.
 
-[7/2003]
+[10/2008 wef 10/06/2008]
 
-(4) Subsection (1) is without prejudice to any right of disclosure under this Act or any other written law or rule of law.
+(2) The Director may, in disclosing any information to any person under subsection (1)(a)(i), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
 
-[7/2003]
+[10/2008 wef 10/06/2008]
+
+(3) The Minister may, in giving his approval for the disclosure of any information under subsection (1)(a)(ii), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
+
+[10/2008 wef 10/06/2008]
+
+(4) A person to whom the Director has disclosed any information under subsection (1)(a) may only disclose or use such information to the extent necessary for implementing any measure permitted by the Director for the purpose of preventing the spread or possible outbreak of that infectious disease, but not otherwise.
+
+[10/2008 wef 10/06/2008]
+
+(5) Any person who —
+
+(a) fails to comply with any condition imposed under subsection (2) or (3); or
+
+(b) contravenes subsection (4),
+
+shall be guilty of an offence.
+
+[10/2008 wef 10/06/2008]
+
+(6) This section shall apply without prejudice to any other right of disclosure under this Act or any other written law or rule of law.
+
+[10/2008 wef 10/06/2008]
 
 ### Extraordinary powers in relation to emergency measures
 
@@ -1335,6 +1699,80 @@ may be arrested without warrant by any police officer, or by any Health Officer 
 ### Police assistance
 
 59\. The Commissioner of Police shall provide such police assistance as may be necessary to carry out any of the provisions of this Act.
+
+## PART VIIA
+
+NATIONAL PUBLIC HEALTH RESEARCH
+
+[10/2008 wef 10/06/2008]
+
+### National public health research
+
+59A\.—(1) The Director may, if he considers it to be in the public interest, from time to time undertake or facilitate such public health research as he thinks necessary to increase or acquire new knowledge on, or to discover or create new or improved materials, devices, processes or products for the detection, prevention or treatment of —
+
+(a) any infectious disease; or
+
+(b) any other disease which is, or which the Minister suspects to be, of an infectious nature, and which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
+
+[10/2008 wef 10/06/2008]
+
+(2) In deciding whether to undertake or facilitate any public health research under subsection (1), the Director shall consider —
+
+(a) whether there is an outbreak or a significant likelihood of an outbreak in Singapore of the disease to which the research relates;
+
+(b) whether the disease to which the research relates poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore; and
+
+(c) whether the new knowledge that may be acquired or the new or improved materials, devices, processes or products that may be discovered or created as a result of the research will result in any significant public health benefit to Singapore.
+
+[10/2008 wef 10/06/2008]
+
+(3) For the purposes of any research under subsection (1), the Director may —
+
+(a) require any person to furnish him, within such time as the Director may specify, with —
+
+(i) such information in the possession or control of that person as the Director may consider necessary or appropriate; and
+
+(ii) any sample (including any human sample) in the possession or control of that person, whether taken pursuant to this Act or otherwise, as the Director may consider necessary or appropriate; and
+
+(b) require any medical practitioner, over such period as the Director may specify, to obtain, with the requisite consent, such information or samples (including human samples) as the Director may consider necessary or appropriate from the patients under his care, and to furnish such information or samples to the Director.
+
+[10/2008 wef 10/06/2008]
+
+(4) Where any person is required by the Director to furnish any information or human sample under subsection (3), he shall cause the information or human sample to be anonymised before it is furnished to the Director.
+
+[10/2008 wef 10/06/2008]
+
+(5) For the purpose of subsection (1), the Director may, subject to such conditions as he thinks fit to impose —
+
+(a) send any anonymised information or human sample received by him under subsection (3) to a third party to carry out such test, examination or analysis as the Director may consider necessary; or
+
+(b) provide any anonymised information or human sample received by him under subsection (3) to a third party who is engaged in any research concerning an infectious disease.
+
+[10/2008 wef 10/06/2008]
+
+(6) It shall be an offence for any person —
+
+(a) without reasonable excuse, to refuse to furnish any information or sample when required to do so by the Director under subsection (3);
+
+(b) to deliberately identify or attempt to identify, from any anonymised information or human sample received by him from the Director pursuant to subsection (3), the identity of the person to whom the information relates or from whom the human sample was obtained; or
+
+(c) to breach any condition imposed under subsection (5).
+
+[10/2008 wef 10/06/2008]
+
+(7) In this section —
+
+“anonymised”, in relation to any information or human sample, means the removal of identifying details from the information or sample so that the identity of the person from whom the information or sample was obtained cannot be readily discovered or ascertained by the recipient of the information or sample;
+
+“human sample” means a specimen of any substance or matter obtained from any person;
+
+“requisite consent” means —
+
+(a) the consent, given in the prescribed form and manner, of the person from whom any information or sample is to be obtained under subsection (3)(b); or
+
+(b) where the person referred to in paragraph (a) is unable to give his own consent because of his age, infirmity of mind or body or any other cause, the consent, given in the prescribed form and manner, of such other person who is authorised by the regulations to give such consent for and on his behalf.
+
+[10/2008 wef 10/06/2008]
 
 ## PART VIII
 
@@ -1418,9 +1856,11 @@ shall be guilty of an offence.
 
 ### Immunity of Government, Agency, etc.
 
-67\. No suit or other legal proceedings shall lie against the Government, the Agencyor any other person for anything which is in good faith done or omitted to be done in the exercise of any power or the performance of any duty or function under this Act.
+67\. No suit or other legal proceedings shall lie against the Government, the Agency, the Director-General, the Director, any Health Officer, any police officer or any authorised person referred to in section 17A(7) for anything which is in good faith done or omitted to be done in the exercise of any power or the performance of any duty or function under this Act.
 
 [5/2003]
+
+[10/2008 wef 10/06/2008]
 
 ### Composition of offences
 
@@ -1476,7 +1916,9 @@ shall be guilty of an offence.
 
 (f) the prescribing of notification and supply of information by medical practitioners of cases of infectious diseases treated by them;
 
-(g) the prescribing of immunisation and vaccination measures and procedures for infectious diseases;
+(g) the prohibition and regulation of vaccinations and other prophylaxis and the issuance of certificates relating thereto;
+
+[10/2008 wef 10/06/2008]
 
 (h) the prescribing of any measure, the prohibition of any act, or the imposing of a duty to do any act, necessary to prevent or control the spread of an infectious disease; and
 
@@ -1726,6 +2168,11 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 26/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|3 January 2006|
+|27.|**Act 10 of 2008—Infectious Diseases (Amendment) Act 2008**|
+||Date of First Reading|28 February 2008|
+|||(Bill No. 5/2008 published on 1 March 2008)|
+||Date of Second and Third Readings|22 April 2008|
+||Date of commencement|10 June 2008|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
