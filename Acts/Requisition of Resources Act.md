@@ -94,7 +94,7 @@
 
 - [38 Competent authority may require undertakings to furnish returns](#Competent-authority-may-require-undertakings-to-furnish-returns)
 
-- [39 Modifications to vehicles, vessels or aircraft for defence purposes](#Modifications-to-vehicles-vessels-or-aircraft-for-defence-purposes)
+- [39 Modifications to vehicles, vessels or aircraft for defence and public safety purposes](#Modifications-to-vehicles-vessels-or-aircraft-for-defence-and-public-safety-purposes)
 
 - [40 Record and inspection of vehicles, etc.](#Record-and-inspection-of-vehicles-etc)
 
@@ -184,6 +184,14 @@ PRELIMINARY
 
 “property” includes movable and immovable property of any kind situate or being in Singapore;
 
+“public health emergency” means a public health emergency declared under section 17A(1) of the Infectious Diseases Act (Cap. 137) by the Minister charged with the responsibility for health;
+
+[10/2008 wef 10/06/2008]
+
+“public safety” includes the safety of human life and health in the event of a public health emergency;
+
+[10/2008 wef 10/06/2008]
+
 “requisition”, in relation to any property, means to take possession of the property or to require the property to be placed at the disposal of the requisitioning authority;
 
 “ship” includes every description of vessel used in sea navigation whether propelled by oars or otherwise;
@@ -230,25 +238,29 @@ ADMINISTRATION
 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand, order or direction made or given by any authorised officer acting or purporting to act under this Act if the officer refuses to declare his office and produce his identification card on demand being made by that person.
 
-## PART III1
+## PART III\*
 
 REQUISITIONING OF PROPERTY AND SERVICES
 
-1This Part was not in operation when this Revised Edition was brought into force.
+\*This Part was not in operation when this Revised Edition was brought into force.
 
 ### Taking possession of land
 
-8\.—(1) A competent authority may, if it appears to that authority to be necessary or expedient for the defence of the country or for the maintenance of supplies and services essential to the life of the community, take or authorise in writing the taking of possession of any land and may give such directions as appear to be necessary for the taking and maintaining possession of such land and for the eviction of any person who is, enters or remains on such land without the consent of the competent authority.
+8\.—(1) A competent authority may, if it appears to that authority to be necessary or expedient for the defence of the country, for the securing of public safety or for the maintenance of supplies and services essential to the life of the community, take or authorise in writing the taking of possession of any land and may give such directions as appear to be necessary for taking and maintaining possession of such land and for the eviction of any person who is, enters or remains on such land without the consent of the competent authority.
+
+[10/2008 wef 10/06/2008]
 
 (2) Without prejudice to the generality of subsection (1), any direction given under that subsection may authorise any authorised officer to break open, enter forcibly and remain on any land the taking of possession of which has been authorised by the competent authority and to evict forcibly from that land any persons that the competent authority may specify or any persons other than such persons as the competent authority may specify.
 
 (3) Whether or not any specified direction has been given under subsection (2), an authorised officer may take such steps and use such force as appears to him to be reasonably necessary for securing compliance with any direction given under subsection (1).
 
-(4) While any land is in the possession of a competent authority by virtue of this section, the land may, notwithstanding any restriction imposed on the use thereof (whether by any other written law or other instrument or otherwise), be used by, or under the authority of, the competent authority for the defence of the country or for the maintenance of supplies and services essential to the life of the community, and the competent authority, so far as appears to it to be necessary or expedient in connection with the taking of possession or use of the land in pursuance of this subsection, may —
+(4) While any land is in the possession of a competent authority by virtue of this section, the land may, notwithstanding any restriction imposed on the use thereof (whether by any other written law or other instrument or otherwise), be used by, or under the authority of, the competent authority for the defence of the country, for the securing of public safety or for the maintenance of supplies and services essential to the life of the community, and the competent authority, so far as appears to him to be necessary or expedient in connection with the taking of possession or use of the land in pursuance of this subsection, may —
 
 (a) do, or authorise persons using the land as aforesaid to do, in relation to the land, anything which any person having an interest in the land would be entitled to do by virtue of that interest; and
 
 (b) by order provide for prohibiting or restricting the exercise of rights of way over the land, and of other rights relating thereto which are enjoyed by any person, whether by virtue of an interest in land or otherwise.
+
+[10/2008 wef 10/06/2008]
 
 (5) The owner or occupier of any land shall, if requested by or on behalf of a competent authority to do so, furnish to that competent authority or person as may be specified in the request such information in his possession relating to the land (being information which may reasonably be demanded of him in connection with the execution of this section) as may be so specified.
 
@@ -310,9 +322,9 @@ and may give such directions as appear to the competent authority to be necessar
 
 (5) In any case in which the chattel requisitioned is a chattel other than a vehicle, vessel or aircraft, such chattel shall, as soon as possession thereof is taken in pursuance of this section, vest in the Government free from any mortgage, pledge, lien or other similar obligation.
 
-(6) Where a competent authority has issued its notice of requisition in respect of any chattel, such chattel shall be furnished by the owner and the person having the possession, custody or control thereof to the competent authority or to such persons as such authority shall appoint for the purpose forthwith or (if such is the case) within such period as may be prescribed or mentioned in the requisition. On any refusal or neglect to furnish such property in the manner aforesaid, or if the competent authority has reasonable ground for believing that it is not practicable without undue delay to give any direction for the property requisitioned to be furnished or delivered to the competent authority, then the competent authority or any authorised officer acting on behalf of such authority may take possession (and if need be may enter any premises by force for the purpose) of the property requisitioned and may use the same in like manner as if it had been furnished in pursuance of the requisition. Payment for the same shall nevertheless be made in like manner as if the property had been duly furnished according to the requisition provided that the property specified in the requisition shall not be deemed to have been furnished except in so far as possession is taken by or by the direction of the competent authority.
+(6) Where a competent authority has issued his notice of requisition in respect of any chattel, such chattel shall be furnished by the owner and the person having the possession, custody or control thereof to the competent authority or to such persons as the competent authority shall appoint for the purpose forthwith or (if such is the case) within such period as may be prescribed or mentioned in the requisition. On any refusal or neglect to furnish such chattel in the manner aforesaid, or if the competent authority has reasonable ground for believing that it is not practicable without undue delay to give any direction for the chattel requisitioned to be furnished or delivered to the competent authority, then the competent authority or any authorised officer acting on behalf of the competent authority may take possession (and if need be may enter any premises by force for the purpose) of the chattel requisitioned and may use the chattel in like manner as if it had been furnished in pursuance of the requisition. Payment for the chattel shall nevertheless be made in like manner as if the chattel had been duly furnished according to the requisition provided that the chattel specified in the requisition shall not be deemed to have been furnished except in so far as possession is taken by or by the direction of the competent authority.
 
-[Act 26/1989 wef 15/06/1989]
+[Act 26/89 wef 15/06/1989]
 
 (7) Where the Accountant-General is satisfied that any vehicle in respect of which a licence to keep has been granted has, in exercise of the powers conferred by this section, been acquired before the expiration of the period of the validity of the licence, the Accountant-General may authorise the refund to the person who at the date of such acquisition was the owner of the vehicle of a proportionate part of the fee paid for the licence in respect of such part of the period of its validity as remained unexpired at that date, if a claim for the refund is made to him in writing by that person not later than 3 months after the date when the vehicle was acquired as aforesaid.
 
@@ -358,7 +370,9 @@ and may give such directions as appear to the competent authority to be necessar
 
 ### Competent authority may direct persons to carry out work in a disaster, etc.
 
-17\.—(1) A competent authority may, if it appears to that authority to be necessary for any works or operations to be carried out to deal or cope with a disaster, direct any person to carry out or assist in any such works or operations.
+17\.—(1) A competent authority may, if it appears to him to be necessary for any works or operations to be carried out to deal or cope with a disaster or public health emergency, direct any person to carry out or assist in any such works or operations.
+
+[10/2008 wef 10/06/2008]
 
 (2) Where a vehicle, vessel or aircraft is requisitioned by a competent authority under the provisions of this Act, the competent authority may direct the driver, operator or crew of the vehicle, vessel or aircraft to render such service as the competent authority may require.
 
@@ -688,7 +702,9 @@ MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
 ### Competent authority may require undertakings to furnish returns
 
-38\.—(1) For the purpose of obtaining information on the availability of manpower and other resources for the defence of the country, a competent authority may issue requisitions to any person carrying on any undertaking to furnish particulars and supply any information in relation to any matter which are required to be furnished to the competent authority by this Act.
+38\.—(1) For the purpose of obtaining information on the availability of manpower and other resources for the defence of the country or for the securing of public safety, a competent authority may issue requisitions to any person carrying on any undertaking to furnish particulars and supply any information in relation to any matter which are required to be furnished to the competent authority by this Act.
+
+[10/2008 wef 10/06/2008]
 
 (2) A requisition shall be in writing and shall be served upon the person to whom it is addressed in the manner specified in section 41 and shall specify the particulars of information required.
 
@@ -704,9 +720,11 @@ MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
 (5) Any person who fails to furnish any information to the competent authority pursuant to a request made by the competent authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### Modifications to vehicles, vessels or aircraft for defence purposes
+### Modifications to vehicles, vessels or aircraft for defence and public safety purposes
 
-39\.—(1) Subject to subsections (2) and (3), a competent authority may direct the owners of vehicles, vessels or aircraft to carry out such modifications or install any equipment to their vehicles, vessels or aircraft which are useful for defence purposes.
+39\.—(1) Subject to subsections (2) and (3), a competent authority may direct the owners of vehicles, vessels or aircraft to carry out such modifications or install any equipment to their vehicles, vessels or aircraft which are useful for defence or public safety purposes.
+
+[10/2008 wef 10/06/2008]
 
 (2) The competent authority shall pay for the cost of any modifications or any equipment directed to be carried out or installed to a vehicle, vessel or aircraft pursuant to this section.
 
@@ -796,7 +814,7 @@ Telephone conversation with employee or person in charge of place of business or
 
 Pager
 
-(e) by sending it by radio-communications pager transmission in the prescribed manner to the person to be served, one or more of the partners of the firm to be served or any director, manager or secretary of the company or corporation to be served; or
+(e) be sending it by radio-communications pager transmission in the prescribed manner to the person to be served, one or more of the partners of the firm to be served or any director, manager or secretary of the company or corporation to be served; or
 
 Facsimile transmission, telex and other means of telecommunication
 
@@ -844,11 +862,11 @@ Provided that there is an acknowledgment by electronic or any other means to the
 
 (7) Where a person, firm, company or corporation has under subsection (4) been deemed to have knowledge of an order, notice, direction or requisition issued under this Act, ignorance of the fact that the order, notice, direction or requisition has been duly served on that person, firm, company or corporation in accordance with subsection (2) or (3) shall not be an excuse for failing to comply with that order, notice or requisition.
 
-[Act 26/1989 wef 15/06/1989]
+[Act 26/89 wef 15/06/1989]
 
 ### Vehicles used for the purposes of this Act
 
-42\.—(1) When Part III is in force, any person who is in possession of a certificate or document issued to him by a competent authority authorising him to drive or requisition a vehicle of a class or description specified in such certificate or document may drive any such vehicle requisitioned under this Act or hired for the purposes of the armed forces or the civil defence force and that certificate or document shall be deemed to be a driving licence for the purposes of section 35 of the Road Traffic Act [Cap. 276].
+42\.—(1) When Part III is in force, any person who is in possession of a certificate or document issued to him by a competent authority authorising him to drive or requisition a vehicle of a class or description specified in such certificate or document may drive any such vehicle requisitioned under this Act or hired for the purposes of the armed forces or the civil defence force and that certificate or document shall be deemed to be a driving licence for the purposes of section 35 of the Road Traffic Act (Cap. 276).
 
 (2) A person using any vehicle pursuant to a requisitioning order under this Act shall be deemed, as respects any claim in respect of injury or damage to any other person or property, to be so using the vehicle as an employee of the Government.
 
@@ -930,3 +948,9 @@ This Legislative History is provided for the convenience of users of the Requisi
 |||(Bill No. 26/1989 published on 8 April 1989)|
 ||Date of Second and Third Readings|29 May 1989|
 ||Date of commencement|15 June 1989|
+|4.|**Act 10 of 2008—Infectious Diseases (Amendment) Act 2008**|
+||(Related amendments made to Act by)||
+||Date of First Reading|28 February 2008|
+|||(Bill No. 5/2008 published on 29 February 2008)|
+||Date of Second and Third Readings|22 April 2008|
+||Date of commencement|10 June 2008 (Section 36)|
