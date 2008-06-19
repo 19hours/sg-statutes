@@ -119,6 +119,10 @@ Building and Construction Authority Act
 
 (Chapter 30A)
 
+5A. Casino Regulatory Authority of Singapore
+
+Casino Control Act (Chapter 33A)
+
 6. Central Provident Fund Board
 
 Central Provident Fund Act
@@ -471,7 +475,7 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
-[22/2007 wef 01/01/2008]
+[S 314/2008 wef 19/06/2008]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
@@ -561,3 +565,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 9/2007 published on 27 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|26.|**G. N. No. S 314/2008—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2008**|
+||Date of commencement|19 June 2008|
