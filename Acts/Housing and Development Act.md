@@ -1636,9 +1636,27 @@ UPGRADING WORKS IN PRECINCTS
 
 “flat” does not include such property as may be prescribed;
 
-“general upgrading works” means any upgrading works to be carried out in a precinct other than specified upgrading works and special upgrading works;
+“flat upgrading works” means —
 
-“improvement contribution” means the costs in respect of general upgrading works, specified upgrading works or special upgrading works recoverable by the Board from the owner of a flat or a Town Council under section 65D(2) or (2A), as the case may be;
+(a) such items of upgrading works as are specified by the Board to be carried out —
+
+(i) within a flat comprised in a building;
+
+(ii) within a building or any part thereof not comprised in a flat for the provision of a service in relation to water, sewerage, drainage, gas, electricity, garbage or conditioned air, or other services relating to telephone, radio, television or any other means of telecommunication, that are reasonably necessary for or connected with the enjoyment of any flat comprised in such a building; or
+
+(b) such other items of upgrading works approved by the Minister, being works to be carried out within a building or any part thereof not comprised in a flat, to —
+
+(i) facilitate the access to, and use of, the building and its facilities by persons with physical disabilities; or
+
+(ii) improve the fire safety or other safety features of the building or such other performance requirements for buildings as may be prescribed by any other written law,
+
+but does not include any specified upgrading works;
+
+[1/2008 wef 20/06/2008]
+
+“general upgrading works” means any upgrading works to be carried out in a precinct other than specified upgrading works, special upgrading works and flat upgrading works;
+
+“improvement contribution” means the costs in respect of general upgrading works, specified upgrading works, special upgrading works or flat upgrading works that are recoverable by the Board from the owner of a flat or a Town Council under section 65D(2) or (2A), as the case may be;
 
 “precinct” means a precinct declared by the Minister under section 65B;
 
@@ -1650,7 +1668,9 @@ UPGRADING WORKS IN PRECINCTS
 
 (b) such other items of upgrading works prescribed by the Minister, being works to be carried out within or in relation to any building or part thereof (other than any part comprised in a flat) within a precinct for the erection, construction or installation of functional facilities for the convenience of residents of that building in general or a section thereof;
 
-“specified upgrading works” means such items of upgrading works as specified by the Board to be carried out in a building or part thereof within a precinct but excludes any special upgrading works;
+“specified upgrading works” means such items of upgrading works specified by the Board to be carried out in a building or part thereof within a precinct as a result of which the floor area of a flat in the building will be increased, but does not include any special upgrading works and flat upgrading works;
+
+[1/2008 wef 20/06/2008]
 
 “Town Council” means a Town Council established under the Town Councils Act (Cap. 329A);
 
@@ -1682,17 +1702,27 @@ UPGRADING WORKS IN PRECINCTS
 
 ### Upgrading works in a precinct
 
-65C\.—(1) Where a precinct has been declared under section 65B, the Board shall as soon as practicable –
+65C\.—(1) Where a precinct has been declared under section 65B, the Board shall —
 
-(a) make arrangements to conduct in the manner prescribed a poll of such owners of the flats within the precinct as may be prescribed with a view to establishing their opinions about the proposals to carry out general upgrading works and (if any) specified upgrading works or special upgrading works; and
+(a) make arrangements to conduct in the manner prescribed a poll (in combination with another poll or otherwise) of prescribed owners of the flats within the precinct with a view to establishing their opinions about any proposal to carry out any of the following:
+
+(i) general upgrading works within the precinct together with specified upgrading works (if any) in any building within the precinct;
+
+(ii) special upgrading works within a building, or in relation to more than one building, in the precinct;
+
+(iii) flat upgrading works within any building in the precinct; and
 
 (b) do such other things as the Minister may direct.
 
-[19/92; 21/2000; 31/2002]
+[1/2008 wef 20/06/2008]
 
 (1A) A poll conducted in connection with any proposal to carry out special upgrading works within a building, or in relation to more than one building, in a precinct shall be a poll of the prescribed owners of prescribed flats within the building or buildings, as the case may be, being flats the occupants of which directly benefit from the special upgrading works.
 
 [29/2005 wef 15/09/2005]
+
+(1B) A poll conducted in connection with any proposal to carry out any flat upgrading works within any building in a precinct shall be a poll of the prescribed owners of prescribed flats within the building.
+
+[1/2008 wef 20/06/2008]
 
 (2) The Board may, with the approval of the Minister, carry out general upgrading works within a precinct if it appears from a poll conducted under subsection (1)(a) of the prescribed owners of flats within the precinct that 75% or more of the total value in votes of all prescribed owners of all flats within the precinct have been cast in favour of the proposal to carry out those upgrading works.
 
@@ -1728,6 +1758,10 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [29/2005 wef 15/09/2005]
 
+(5B) The Board may, with the approval of the Minister, carry out any flat upgrading works within any building or buildings within a precinct if, and only if, it appears from a poll of the owners referred to in subsection (1B) that 75% or more of the total value in votes of such owners of flats within each such building have been cast in favour of the proposal to carry out the flat upgrading works within that building.
+
+[1/2008 wef 20/06/2008]
+
 (6) No poll shall be invalid by reason of any failure to comply with any provision of this Part or any rules made thereunder relating to the conduct of a poll if it appears that the poll was conducted in accordance with the principles laid down in that provision, and that the failure did not affect the result of the poll.
 
 [16/95]
@@ -1742,9 +1776,17 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 ### Power to carry out upgrading works and to recover contribution
 
-65D\.—(1) As soon as practicable after the Minister has given his approval under section 65C(2), (3) or (5A), the Board shall carry out the general upgrading works and where applicable the specified upgrading works or special upgrading works in the precinct in such manner as the Board thinks fit.
+65D\.—(1) As soon as practicable after the Minister has given his approval under section 65C(2), (3), (5A) or (5B), the Board shall carry out, in such manner as the Board thinks fit —
 
-[19/92; 21/2000]
+(a) the general upgrading works within the precinct and, where applicable, the specified upgrading works in any building within the precinct;
+
+(b) the special upgrading works within a building, or in relation to more than one building, in a precinct; or
+
+(c) the flat upgrading works within any building in the precinct,
+
+as the case may be.
+
+[1/2008 wef 20/06/2008]
 
 (2) Where the Board has completed any general upgrading works or specified upgrading works in a precinct under this section, the Board may recover from —
 
@@ -1754,13 +1796,15 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [19/92]
 
-(2A) Where the Board has completed any special upgrading works in a building in a precinct under this section, the Board may recover the costs incurred by the Board in respect of the special upgrading works from —
+(2A) Where the Board has completed any special upgrading works or flat upgrading works in a building in a precinct under this section, the Board may recover the costs incurred by the Board in respect of the special upgrading works or flat upgrading works from —
 
-(a) every owner of such flats in the building as are referred to in section 65C(1A) ; and
+(a) every owner of such flats in the building as are referred to in section 65C(1A) in the case of special upgrading works or section 65C(1B) in the case of flat upgrading works; and
 
-(b) the Town Council responsible for the maintenance of the common property comprised in the building if the special upgrading works have been carried out on such common property.
+(b) the Town Council responsible for the maintenance of the common property comprised in the building if the special upgrading works or flat upgrading works have been carried out on such common property.
 
 [21/2000]
+
+[1/2008 wef 20/06/2008]
 
 (3) The amount of improvement contribution payable by the owner of a flat and a Town Council under subsection (2) or (2A) shall be determined by the Board whose decision shall be final.
 
@@ -5100,6 +5144,11 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st January 2006|
 |||(item (14) in the First Schedule)|
+|37.|**Act 1 of 2008—Housing and Development (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 46/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|21 January 2008|
+||Date of commencement|20 June 2008|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
