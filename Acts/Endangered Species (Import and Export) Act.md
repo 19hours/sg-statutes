@@ -1844,7 +1844,7 @@ Cairina scutulata
 
 Coscoroba coscoroba
 
-Cygnus melanocoryphus
+Cygnus melancoryphus
 
 Dendrocygna arborea
 
@@ -1974,11 +1974,11 @@ spp\.
 
 Rhinoplax vigil
 
-Rhyticeros subruficollis
-
 Rhyticeros
 
 spp\. (Except the species included in Appendix I)
+
+Rhyticeros subruficollis
 
 CUCULIFORMES
 
@@ -2504,9 +2504,13 @@ Ara rubrogenys
 
 Cyanopsitta spixii
 
+Cyanoramphus cookii
+
 Cyanoramphus forbesi
 
 Cyanoramphus novaezelandiae
+
+Cyanoramphus saisseti
 
 Cyclopsitta diophthalma coxeni
 
@@ -2954,7 +2958,7 @@ Emydidae Box turtles, freshwater turtles
 
 Glyptemys insculpta
 
-Glyptemys muhlenbergi
+Glyptemys muhlenbergii
 
 Graptemys
 
@@ -3178,6 +3182,8 @@ Allobates femoralis
 
 Allobates zaparo
 
+Cryptophyllobates azureiventris
+
 Dendrobates
 
 spp\. 
@@ -3216,7 +3222,7 @@ Hoplobatrachus tigerinus
 
 CAUDATA
 
-Ambystomidae Axolotls
+Ambystomatidae Axolotls
 
 Ambystoma dumerilii
 
@@ -3540,6 +3546,22 @@ ANTIPATHARIA Black corals
 
 ANTIPATHARIA spp\. 
 
+GORGONACEAE
+
+Coralliidae
+
+Corallium elatius
+(China)
+
+Corallium japonicum
+(China)
+
+Corallium konjoi
+(China)
+
+Corallium secundum
+(China)
+
 HELIOPORACEA
 
 Helioporidae Blue corals
@@ -3663,6 +3685,8 @@ Tillandsia xerographica
 #1
 
 [S 64/2008 wef 12/02/2008]
+
+[S 332/2008 wef 01/07/2008]
 
 #1All parts and derivatives, except:
 
@@ -4521,6 +4545,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of operation|1 January 2008|
 |26.|**G. N. No. S 64/2008—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2008**|
 ||Date of commencement|12 February 2008|
+|27.|**G. N. No. S 332/2008—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2008**|
+||Date of commencement|1 July 2008|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
