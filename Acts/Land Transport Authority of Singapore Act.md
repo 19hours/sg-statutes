@@ -652,7 +652,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (2) The President and every member of the Compensation Board shall be appointed by the Minister and upon appointment the names of the President and every member of the Board shall be published in theGazette.
 
-(3) The President shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321], and shall preside at all sessions of the Compensation Board.
+(3) The President shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act, and shall preside at all sessions of the Compensation Board.
 
 (4) Three members of the Compensation Board of whom the President shall be one shall form a quorum, and the opinion of the majority of the Board present shall be decisive upon any matter, except that in the case of an equality the President shall decide which opinion shall prevail.
 
@@ -662,7 +662,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (7) Where a person ceases to be a member of the Compensation Board, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in the Board shall not invalidate the acts of the Board.
 
-(8) Every member of the Compensation Board when and so long as he is serving on the Board shall be deemed to be a public servant within the meaning of the Penal Code and the proceedings of the Board shall be deemed to be judicial proceedings.
+(8) Every member of the Compensation Board when and so long as he is serving on the Board shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224)and the proceedings of the Board shall be deemed to be judicial proceedings.
 
 (9) There shall be paid to the members of the Compensation Board such salaries, fees and allowances as the Minister may determine.
 
@@ -670,7 +670,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (a) by an advocate and solicitor of the Supreme Court;
 
-(b) subject to the provisions of the Legal Aid and Advice Act [Cap. 160], by the Director of Legal Aid or any of his officers; or
+(b) subject to the provisions of the Legal Aid and Advice Act (Cap. 160), by the Director of Legal Aid or any of his officers; or
 
 (c) in any particular case in which the Board may at the request of that party and for good reason permit, by an agent acting without fee, gain, reward or any expectation thereof, as that party may appoint.
 
@@ -678,7 +678,7 @@ ASSESSMENT AND AWARD OF COMPENSATION
 
 (12) The Minister may appoint a secretary of the Compensation Board and such other officers and employees of the Board as may be necessary.
 
-(13) The persons who immediately before 1st September 1995 were appointed President and members of the Railway Compensation Board under the repealed Mass Rapid Transit Corporation Act shall continue to be President and members, respectively, of the Compensation Board under this Act as if they had been appointed under this section on the same terms and conditions for a term expiring on the day on which their respective appointments under the repealed Mass Rapid Transit Corporation Act would expire.
+(13) The persons who immediately before 1st September 1995 were appointed President and members of the Railway Compensation Board under the repealed Mass Rapid Transit Corporation Act (Cap. 172, 1988 Ed.)shall continue to be President and members, respectively, of the Compensation Board under this Act as if they had been appointed under this section on the same terms and conditions for a term expiring on the day on which their respective appointments under the repealed Mass Rapid Transit Corporation Act would expire.
 
 [1988 Ed.]
 
@@ -1308,66 +1308,11 @@ Specified Acts
 
 6\. All provisions of the Street Works Act [Cap. 320A] and any subsidiary legislation made thereunder.
 
-7\. Section 23 of the Public Transport Council Act (Cap. 259B).
+7\. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
 
-7.
+7.—
 
-[37/2005 wef 03/04/2006]
+[S 301/2008 wef 01/07/2008]
 
 [S 382/95]
 
-## LEGISLATIVE HISTORY
-
-Land Transport Authority of Singapore Act
-
-(CHAPTER 158A)
-
-This Legislative History is provided for the convenience of users of the Land Transport Authority of Singapore Act. It is not part of this Act.
-
-||||
-|:-|:-|:-|
-|1.|**Act 28 of 1995—Land Transport Authority of Singapore Act 1995**|
-||Date of First Reading|7 July 1995|
-|||(Bill No. 24/1995 published on 8 July 1995)|
-||Date of Second and Third Readings|7 August 1995|
-||Date of commencement|1 September 1995|
-|2.|**G. N. No. S 382/1995—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 1995**|
-||Date of commencement|1 September 1995|
-|3.|**1996 Revised Edition—Land Transport Authority of Singapore Act**|
-||Date of operation|30 April 1996|
-|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
-||Date of First Reading|11 July 1997|
-|||(Bill No. 6/1997 published on 12 July 1997)|
-||Date of Second and Third Readings|25 August 1997|
-||Date of commencement|1 October 1997|
-|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
-||Date of First Reading|3 May 2002|
-|||(Bill No. 7/2002 published on 4 May 2002)|
-||Date of Second and Third Readings|24 May 2002|
-||Date of commencement|15 July 2002|
-|6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
-||Date of First Reading|5 January 2004|
-|||(Bill No. 4/2004 published on 6 January 2004)|
-||Date of Second and Third Readings|6 February 2004|
-||Dates of commencement|8 March 2004|
-|7.|**G. N. No. S 590/2004—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2004**|
-||Date of commencement|24 September 2004|
-|8.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|21 September 2004|
-|||(Bill No. 43/2004 published on 22 September 2004)|
-||Date of Second and Third Readings|19 October 2004|
-||Date of commencement|15 December 2004|
-|9.|**G. N. No. S 63/2006—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2006**|
-||Date of commencement|1 February 2006|
-|10.|**Act 37 of 2005—Public Transport Council (Amendment) Act 2005**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|19 September 2005|
-|||(Bill No. 25/2005 published on 20 September 2005)|
-||Date of Second and Third Readings|17 October 2005|
-||Dates of commencement|3 April 2006 (except section 14)|
-|11.|**Act 11 of 2007—Land Transport Authority of Singapore (Amendment) Act 2007**|
-||Date of First Reading|8 November 2006|
-|||(Bill No. 23/2006 published on 9 November 2006)|
-||Date of Second and Third Readings|23 January 2007|
-||Date of commencement|1 March 2007|
