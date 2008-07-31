@@ -1,16 +1,14 @@
-**Spam Control Act 2007**
+**Spam Control Act**
 
-**(No. 21 of 2007)**
+**(CHAPTER 311A)**
 
 **Table of Contents**
 
 [**Long Title**](#Spam-Control-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -24,7 +22,7 @@
 
 - [7 Application of Act](#Application-of-Act)
 
-[**Part II DICTIONARY ATTACK and ADDRESS HARVESTING SOFTWARE**](#Part-II)
+[**Part II DICTIONARY ATTACK AND ADDRESS HARVESTING SOFTWARE**](#Part-II)
 
 - [8 Application of this Part](#Application-of-this-Part)
 
@@ -58,57 +56,31 @@
 
 [**SECOND SCHEDULE Requirements for Unsolicited Commercial Electronic Messages**](#SECOND-SCHEDULE-Requirements-for-Unsolicited-Commercial-Electronic-Messages)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Spam Control Act
 
-Published by Authority
+(CHAPTER 311A)
 
-NO. 22]
+(Original Enactment: Act 21 of 2007)
 
-Friday, June 1
+REVISED EDITION 2008
 
-[2007
-
-The following Act was passed by Parliament on 12th April 2007 and assented to by the President on 27th April 2007:—
-
-Spam Control Act 2007
-
-(No. 21 of 2007)
-
-I assent.
-
-J Y PILLAY,
-
-President.
-
-
-
-
-Person exercising the
-
-
-
-
-Functions of the President.
-
-27th April 2007.
-
-Date of Commencement: 15th June 2007
+(31st July 2008)
 
 An Act to provide for the control of spam, which is unsolicited commercial communications sent in bulk by electronic mail or by text or multi-media messaging to mobile telephone numbers, and to provide for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[15th June 2007]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Spam Control Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Spam Control Act.
 
 ### Interpretation
 
@@ -135,6 +107,8 @@ PRELIMINARY
 “sender”, in relation to an electronic message, means a person who sends the message, causes the message to be sent, or authorises the sending of the message;
 
 “unsubscribe request” means a request by a recipient of an electronic message, requesting the sender to cease sending any further electronic messages to his electronic address.
+
+[Aust Spam Act, s. 4; US CAN-SPAM Act, ss. 5(b)(1)(A)(ii), 3(14); Companies Act, s. 4(1)]
 
 ### Meaning of “commercial electronic message”
 
@@ -190,6 +164,8 @@ it is concluded that the primary purpose of the message is —
 
 (5) For the purposes of subsection (4), a person who takes reasonable steps to stop the sending of any electronic message that advertises or promotes that person’s product or service shall be deemed not to have authorised the sending of the message.
 
+[Aust Spam Act, s. 6]
+
 ### Meaning of “electronic message”
 
 4\.—(1) In this Act, subject to subsection (3), an electronic message is a message sent to an electronic address.
@@ -201,6 +177,8 @@ it is concluded that the primary purpose of the message is —
 (b) whether the message reaches its intended destination.
 
 (3) For the purposes of this Act, a message is not an electronic message if it is sent by way of a voice call made using a telephone service.
+
+[Aust Spam Act, s. 5]
 
 ### Meaning of “unsolicited”
 
@@ -225,6 +203,8 @@ it is concluded that the primary purpose of the message is —
 (c) more than 10,000 electronic messages containing the same or similar subject-matter during a one-year period.
 
 (2) The Minister may, by order published in theGazette, vary the number of electronic messages specified in subsection (1)(a), (b) or (c).
+
+[US Code, s. 1037(d)(3) of Chapter 47 of title 18]
 
 ### Application of Act
 
@@ -252,9 +232,11 @@ it is concluded that the primary purpose of the message is —
 
 (3) Notwithstanding subsection (1), this Act shall not apply to any electronic message specified in the First Schedule to such extent as may be specified therein.
 
+[Aust Spam Act, s. 7]
+
 ## PART II
 
-DICTIONARY ATTACK and ADDRESS HARVESTING SOFTWARE
+DICTIONARY ATTACK AND ADDRESS HARVESTING SOFTWARE
 
 ### Application of this Part
 
@@ -267,6 +249,8 @@ DICTIONARY ATTACK and ADDRESS HARVESTING SOFTWARE
 (a) a dictionary attack; or
 
 (b) address harvesting software.
+
+[US CAN-SPAM Act, s. 5(b)]
 
 ## PART III
 
@@ -298,6 +282,8 @@ CIVIL ACTION
 
 (2) A person does not contravene subsection (1), section 9 or 11 merely because he provides, or operates facilities for, online services or network access, or provides services relating to, or provides connections for, the transmission or routing of data.
 
+[Aust Spam Act, s. 16(9); Copyright Act, s. 193A(1)]
+
 ### Civil action
 
 13\.—(1) Where there is a contravention of section 9 or 11 in relation to electronic messages sent to electronic addresses, any person, who has suffered loss or damage as a direct or an indirect result of such contravention, may commence an action in a court against —
@@ -307,6 +293,8 @@ CIVIL ACTION
 (b) a person who has contravened section 12(1).
 
 (2) This section shall not affect any liability that any person has under any other written law or rule of law.
+
+[US CAN-SPAM Act, s. 7(g)]
 
 ### Injunction and damages for civil action
 
@@ -344,6 +332,8 @@ CIVIL ACTION
 
 (5) The loss referred to in this section includes any pecuniary loss suffered as a direct or an indirect result of the contravention referred to in section 13(1).
 
+[US CAN-SPAM Act, s. 7(g); Copyright Act, s. 119(2), (2B) and (5); Trade Marks Act, s. 31(2), (4), (5) and (6)]
+
 ### Costs and expenses
 
 15\. In any proceedings under this Act, the court may, in addition to exercising the powers conferred by section 14, order the defendant to pay to the plaintiff the costs and expenses of and incidental to the proceedings, and any legal costs incurred in respect of the proceedings.
@@ -380,13 +370,20 @@ Excluded Electronic Messages
 
 1\. This Act does not apply to any electronic message where the sending of the message is authorised by the Government or a statutory body on the occurrence of any public emergency, in the public interest or in the interests of public security or national defence.
 
-2\. For the purposes of paragraph 1, if any doubt arises as to the existence of a public emergency or as to whether any electronic message is sent in the interests of public security or national defence, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
+2. For the purposes of paragraph 1, if any doubt arises as to the existence of a public emergency or as to whether any electronic message is sent in the interests of public security or national defence, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
+
+[Telecom. Act, s. 58(2)(a) and (9)]
 
 SECOND SCHEDULE
 
 Section 11
 
-Requirements for Unsolicited Commercial Electronic Messages
+Requirements for Unsolicited
+
+
+
+
+Commercial Electronic Messages
 
 Interpretation
 
@@ -416,7 +413,7 @@ Unsubscribe facility
 
 (a) in a clear and conspicuous manner; and
 
-(b) in the English language and where the statement is presented in two or more languages, the English language shall be one of the languages.
+(b) in the English language and where the statement is presented in 2 or more languages, the English language shall be one of the languages.
 
 (5) The electronic mail address, Internet location address, telephone number, facsimile number or postal address referred to in sub-paragraphs (1), (2) and (3) shall be —
 
@@ -452,3 +449,78 @@ Labelling and other requirements
 
 (2) Sub-paragraph (1) shall not apply if the unsolicited commercial electronic message is sent, caused to be sent or authorised to be sent by mistake.
 
+[Aust Spam Act, ss. 4, 17, 18; US CAN-SPAM Act, ss. 3(8), 5(a); Aust Spam Regs, reg 3.3]
+
+## LEGISLATIVE SOURCE KEY
+
+Spam Control Act
+
+(CHAPTER 311A)
+
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Aust Spam Act
+
+:
+
+Australia, Spam Act 2003 (Act No. 129 of 2003)
+
+Aust Spam Regs
+
+:
+
+Australia, Spam Regulations 2004 (SR 2004 No. 56)
+
+US CAN-SPAM Act
+
+:
+
+United States, CAN-SPAM Act 2003 (S. 877)
+
+US Code
+
+:
+
+United States Code
+
+Companies Act
+
+:
+
+Singapore, Companies Act (Chapter 50, 2006 Revised Edition)
+
+Copyright Act
+
+:
+
+Singapore, Copyright Act (Chapter 63, 2006 Revised Edition)
+
+Telecom. Act
+
+:
+
+Singapore, Telecommunications Act (Chapter 323, 2000 Revised Edition)
+
+Trade Marks Act
+
+:
+
+Singapore, Trade Marks Act (Chapter 332, 2005 Revised Edition)
+
+## LEGISLATIVE HISTORY
+
+Spam Control Act
+
+(CHAPTER 311A)
+
+This Legislative History is provided for the convenience of users of the Spam Control Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 21 of 2007—Spam Control Act 2007**|
+||Date of First Reading|12 February 2007|
+|||(Bill No. 6/2007 published on 13 February 2007)|
+||Date of Second and Third Readings|12 April 2007|
+||Date of commencement|15 June 2007|
+|2.|**2008 Revised Edition—Spam Control Act**|
+||Date of operation|31 July 2008|
