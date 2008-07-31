@@ -1,14 +1,12 @@
-**Carriage by Air (Montreal Convention, 1999) Act 2007**
+**Carriage by Air (Montreal Convention, 1999) Act**
 
-**(No. 41 of 2007)**
+**(CHAPTER 32B)**
 
 **Table of Contents**
 
 [**Long Title**](#Carriage-by-Air-Montreal-Convention-1999-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,47 +34,32 @@
 
 - [14 Application to Government](#Application-to-Government)
 
-- [15 Related amendments to Carriage by Air Act](#Related-amendments-to-Carriage-by-Air-Act)
+[**THE SCHEDULE Convention for the Unification of Certain Rules for International Carriage by Air (Montreal, 28th May 1999)**](#THE-SCHEDULE)
 
-[**THE SCHEDULE Convention for the Unification of Certain Rules for INTERNATIONAl CARRIAGE BY AIR (Montreal, 28th May 1999)**](#THE-SCHEDULE)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Carriage by Air
 
-GOVERNMENT GAZETTE
+# 
 
-ACTS SUPPLEMENT
 
-Published by Authority
+# (Montreal Convention, 1999) Act
 
-NO. 47]
+(CHAPTER 32B)
 
-Friday, November 16
+(Original Enactment: Act 41 of 2007)
 
-[2007
+REVISED EDITION 2008
 
-The following Act was passed by Parliament on 27th August 2007 and assented to by the President on 10th September 2007:—
+(31st July 2008)
 
-Carriage by Air (Montreal Convention, 1999) Act 2007
+An Act to give effect to the provisions of the Montreal Convention, 1999 concerning international carriage by air and for purposes connected therewith.
 
-(No. 41 of 2007)
+[16th November 2007]
 
-I assent.
+### Short title
 
-S R NATHAN
-
-President
-
-10th September 2007.
-
-Date of Commencement: 16th November 2007
-
-An Act to give effect to the provisions of the Montreal Convention, 1999 concerning international carriage by air and for purposes connected therewith, and to make related amendments to the Carriage by Air Act (Chapter 32A of the 2001 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Carriage by Air (Montreal Convention, 1999) Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Carriage by Air (Montreal Convention, 1999) Act.
 
 ### Interpretation
 
@@ -92,7 +75,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 3\.—(1) Notwithstanding any other written law or rule of law but subject to this Act, the provisions of the Convention shall, so far as they relate to the rights and liabilities of carriers, carriers’ servants and agents, passengers, consignors, consignees and other persons, have the force of law in Singapore in relation to any carriage by air to which the Convention applies irrespective of the nationality of the aircraft performing that carriage.
 
-(2) Subsection (1) shall not apply so as to affect rights or liabilities arising out of an occurrence before the commencement of this Act.
+(2) Subsection (1) shall not apply so as to affect rights or liabilities arising out of an occurrence before 16th November 2007.
 
 ### State Parties to Convention
 
@@ -116,7 +99,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (4) Without prejudice to subsection (3), a court before which proceedings are brought to enforce a liability which is limited by Article 22 of the Convention shall, where the liability is, or may be, partly enforceable in other proceedings in Singapore or elsewhere, have jurisdiction —
 
-(a) to award an amount less than the court would have awarded if the limitation applied solely to the proceedings before the court; or
+(a) to award an amount less than what the court would have awarded if the limitation applied solely to the proceedings before the court; or
 
 (b) to make any part of its award conditional on the result of any other proceedings.
 
@@ -174,46 +157,21 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 14\. This Act shall bind the Government.
 
-### Related amendments to Carriage by Air Act
-
-15\. The Carriage by Air Act (Cap. 32A) is amended —
-
-(a) by repealing section 4 and substituting the following section:
-
-“
-
-High Contracting Parties
-
-4\.—(1) For the purposes of this Act —
-
-(a) a High Contracting Party to the Warsaw Convention is a country that has ratified or acceded to that Convention;
-
-(b) a High Contracting Party to the Warsaw (Hague) Convention is a country that has ratified or acceded to that Convention; and
-
-(c) a High Contracting Party to the Warsaw (Hague) (Montreal) Convention is a country that has ratified or acceded to that Convention,
-
-except that this Act shall apply to any such High Contracting Party —
-
-(i) only in relation to the territories in respect of which it is a party to the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention, as the case may be; and
-
-(ii) to the extent that it has availed itself of the provisions of the Additional Protocol at the end of the Warsaw Convention, the Warsaw (Hague) Convention and the Warsaw (Hague) (Montreal) Convention, as the case may be.
-
-(2) Article 40A(2) in the First and Third Schedules shall not be read as extending references in those Schedules to the territory of a High Contracting Party (except such as are references to the territory of any State, whether a High Contracting Party or not) to include any territory in respect of which that High Contracting Party is not a party.
-
-”; and
-
-(b) by deleting subsection (5) of section 8.
-
 ## THE SCHEDULE
 
 Sections 2 and 7
 
-Convention for the Unification of Certain Rules for
+Convention for the Unification of
 
 
 
 
-INTERNATIONAl CARRIAGE BY AIR (Montreal, 28th May 1999)
+Certain Rules for International Carriage by Air
+
+
+
+
+(Montreal, 28th May 1999)
 
 THE STATES PARTIES TO THIS CONVENTION
 
@@ -241,7 +199,7 @@ Scope of application
 
 1\. This Convention applies to all international carriage of persons, baggage or cargo performed by aircraft for reward. It applies equally to gratuitous carriage by aircraft performed by an air transport undertaking.
 
-2\. For the purposes of this Convention, the expressioninternational carriagemeans any carriage in which, according to the agreement between the parties, the place of departure and the place of destination, whether or not there be a break in the carriage or a transhipment, are situated either within the territories of two States Parties, or within the territory of a single State Party if there is an agreed stopping place within the territory of another State, even if that State is not a State Party. Carriage between two points within the territory of a single State Party without an agreed stopping place within the territory of another State is not international carriage for the purposes of this Convention.
+2\. For the purposes of this Convention, the expression international carriage means any carriage in which, according to the agreement between the parties, the place of departure and the place of destination, whether or not there be a break in the carriage or a transhipment, are situated either within the territories of two States Parties, or within the territory of a single State Party if there is an agreed stopping place within the territory of another State, even if that State is not a State Party. Carriage between two points within the territory of a single State Party without an agreed stopping place within the territory of another State is not international carriage for the purposes of this Convention.
 
 3\. Carriage to be performed by several successive carriers is deemed, for the purposes of this Convention, to be one undivided carriage if it has been regarded by the parties as a single operation, whether it had been agreed upon under the form of a single contract or of a series of contracts, and it does not lose its international character merely because one contract or a series of contracts is to be performed entirely within the territory of the same State.
 
@@ -261,12 +219,17 @@ Carriage performed by State and carriage of postal items
 
 Chapter II
 
-Documentation and Duties of the Parties Relating to
+Documentation and Duties of
 
 
 
 
-The carriage of Passengers, Baggage and Cargo
+the Parties Relating to the Carriage of
+
+
+
+
+Passengers, Baggage and Cargo
 
 Article 3
 
@@ -382,9 +345,9 @@ Article 11
 
 Evidentiary value of documentation
 
-1\. The air waybill or the cargo receipt isprima facieevidence of the conclusion of the contract, of the acceptance of the cargo and of the conditions of carriage mentioned therein.
+1\. The air waybill or the cargo receipt is prima facie evidence of the conclusion of the contract, of the acceptance of the cargo and of the conditions of carriage mentioned therein.
 
-2\. Any statements in the air waybill or the cargo receipt relating to the weight, dimensions and packing of the cargo, as well as those relating to the number of packages, areprima facieevidence of the facts stated; those relating to the quantity, volume and condition of the cargo do not constitute evidence against the carrier except so far as they both have been, and are stated in the air waybill or the cargo receipt to have been, checked by it in the presence of the consignor, or relate to the apparent condition of the cargo.
+2\. Any statements in the air waybill or the cargo receipt relating to the weight, dimensions and packing of the cargo, as well as those relating to the number of packages, are prima facie evidence of the facts stated; those relating to the quantity, volume and condition of the cargo do not constitute evidence against the carrier except so far as they both have been, and are stated in the air waybill or the cargo receipt to have been, checked by it in the presence of the consignor, or relate to the apparent condition of the cargo.
 
 Article 12
 
@@ -424,7 +387,12 @@ Article 15
 
 —
 
-Relations of consignor and consignee or mutual relations of third parties
+Relations of consignor and consignee
+
+
+
+
+or mutual relations of third parties
 
 1\. Articles 12, 13 and 14 do not affect either the relations of the consignor and the consignee with each other or the mutual relations of third parties whose rights are derived either from the consignor or from the consignee.
 
@@ -442,7 +410,12 @@ Formalities of customs, police or other public authorities
 
 Chapter III
 
-Liability of the Carrier and Extent of compensation for damage
+Liability of the Carrier and Extent of
+
+
+
+
+Compensation for Damage
 
 Article 17
 
@@ -610,7 +583,7 @@ Article 31
 
 Timely notice of complaints
 
-1\. Receipt by the person entitled to delivery of checked baggage or cargo without complaint isprima facieevidence that the same has been delivered in good condition and in accordance with the document of carriage or with the record preserved by the other means referred to in paragraph 2 of Article 3 and paragraph 2 of Article 4.
+1\. Receipt by the person entitled to delivery of checked baggage or cargo without complaint is prima facie evidence that the same has been delivered in good condition and in accordance with the document of carriage or with the record preserved by the other means referred to in paragraph 2 of Article 3 and paragraph 2 of Article 4.
 
 2\. In the case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within seven days from the date of receipt in the case of checked baggage and fourteen days from the date of receipt in the case of cargo. In the case of delay, the complaint must be made at the latest within twenty-one days from the date on which the baggage or cargo have been placed at his or her disposal.
 
@@ -704,7 +677,12 @@ Combined carriage
 
 Chapter V
 
-Carriage by Air Performed by A Person Other than the contracting Carrier
+Carriage by Air Performed by A Person
+
+
+
+
+Other Than the Contracting Carrier
 
 Article 39
 
@@ -790,11 +768,11 @@ Except as provided in Article 45, nothing in this Chapter shall affect the right
 
 Chapter VI
 
+—
+
 Other Provisions
 
 Article 49
-
-—
 
 Mandatory application
 
@@ -928,3 +906,20 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorize
 
 DONE at Montreal on the 28th day of May of the year one thousand nine hundred and ninety-nine in the English, Arabic, Chinese, French, Russian and Spanish languages, all texts being equally authentic. This Convention shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Depositary to all States Parties to this Convention, as well as to all States Parties to the Warsaw Convention, The Hague Protocol, the Guadalajara Convention, the Guatemala City Protocol and the Montreal Protocols.
 
+## LEGISLATIVE HISTORY
+
+Carriage by Air (Montreal Convention, 1999) Act
+
+(CHAPTER 32B)
+
+This Legislative History is provided for the convenience of users of the Carriage by Air (Montreal Convention, 1999) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 41 of 2007—Carriage by Air (Montreal Convention, 1999) Act 2007**|
+||Date of First Reading|16 July 1997|
+|||(Bill No. 29/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|16 November 2007|
+|2.|**2008 Revised Edition—Carriage by Air (Montreal Convention, 1999) Act**|
+||Date of operation|31 July 2008|
