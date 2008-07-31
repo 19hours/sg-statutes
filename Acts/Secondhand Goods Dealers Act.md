@@ -1,14 +1,12 @@
-**Secondhand Goods Dealers Act 2007**
+**Secondhand Goods Dealers Act**
 
-**(No. 4 of 2007)**
+**(CHAPTER 288A)**
 
 **Table of Contents**
 
 [**Long Title**](#Secondhand-Goods-Dealers-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -52,57 +50,35 @@
 
 - [22 Rules](#Rules)
 
-- [23 Repeal](#Repeal)
+- [23 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-- [24 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**THE SCHEDULE Secondhand goods**](#THE-SCHEDULE)
 
-- [25 Transitional and savings provisions](#Transitional-and-savings-provisions)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-[**THE SCHEDULE Secondhand Goods**](#THE-SCHEDULE)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Secondhand Goods Dealers Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 288A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 4 of 2007)
 
-Published by Authority
+REVISED EDITION 2008
 
-NO. 20]
+(31st July 2008)
 
-Friday, May 18
+An Act to provide for the licensing and control of dealers in secondhand goods and for matters connected therewith.
 
-[2007
+[1st December 2007]
 
-The following Act was passed by Parliament on 22nd January 2007 and assented to by the President on 1st February 2007:—
+### Short title
 
-Secondhand Goods Dealers Act 2007
-
-(No. 4 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-1st February 2007.
-
-Date of Commencement: 1st December 2007
-
-An Act to provide for the licensing and control of dealers in secondhand goods and for matters connected therewith, to repeal the Secondhand Dealers Act (Chapter 288 of the 1985 Revised Edition) and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Secondhand Goods Dealers Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Secondhand Goods Dealers Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “goods” in the expression “secondhand goods” means any of the goods specified in the Schedule;
 
@@ -120,15 +96,21 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (3) Every person in whose shop secondhand goods are found apparently exposed for sale, or who is found in possession of secondhand goods of an unusual quantity, shall be deemed, until the contrary is proved, to be a person who deals in secondhand goods.
 
+[Secondhand Dealers 1985 Ed., s. 2]
+
 ### Appointment of Licensing Officer and Assistant Licensing Officers
 
 3\. The Minister may, by notification in theGazette, appoint a Licensing Officer for the purposes of this Act and may similarly appoint such number of Assistant Licensing Officers as may be necessary.
+
+[Secondhand Dealers 1985 Ed., s. 3]
 
 ### Dealing in secondhand goods
 
 4\.—(1) No person shall deal in secondhand goods except under and in accordance with the conditions of a licence issued under section 5.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[Secondhand Dealers 1985 Ed., s. 6(1)]
 
 ### Issuance, renewal and conditions of licence
 
@@ -164,6 +146,8 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 shall be guilty of an offence.
 
+[Secondhand Dealers 1985 Ed., s. 4]
+
 ### Form and validity of licence
 
 6\. A licence shall —
@@ -174,11 +158,15 @@ shall be guilty of an offence.
 
 (c) be valid for such period as may be specified therein.
 
+[Secondhand Dealers 1985 Ed., s. 9(a)]
+
 ### Transfer of licence
 
 7\.—(1) No person shall transfer his licence to another person except with the consent of the Licensing Officer and upon payment of the prescribed fee.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[Secondhand Dealers 1985 Ed., s. 9(d)]
 
 ### Revocation or suspension of licence
 
@@ -198,7 +186,7 @@ shall be guilty of an offence.
 
 (vi) has failed to comply with any condition of his licence;
 
-(vii) is contravening or has contravened any of the provision of this Act; or
+(vii) is contravening or has contravened any of the provisions of this Act; or
 
 (viii) has been convicted of any offence under this Act or, if the licensee is a company, any of its officers holding a managerial or an executive position has been convicted of any offence under this Act; or
 
@@ -226,13 +214,13 @@ shall be guilty of an offence.
 
 (a) records of the particulars of all goods bought by him, including the dates of purchase, the names and addresses of the persons from whom he bought the goods and such other particulars as may be prescribed; and
 
-(b) records of the particulars of all goods sold by him, including the dates of sale, the names and addresses of the persons whom he sold the goods to and such other particulars as may be prescribed.
+(b) records of the particulars of all goods sold by him, including the dates of sale, the names and addresses of the persons to whom he sold the goods and such other particulars as may be prescribed.
 
 (2) Every secondhand goods dealer shall submit to the Licensing Officer the records referred to in subsection (1) at such time and in such format and through such medium (whether electronic or otherwise) as the Licensing Officer may require.
 
 (3) Every secondhand goods dealer shall retain the records referred to in subsection (1) for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those records relate are completed.
 
-(4) Subsection (3) shall also apply in relation to any record kept under section 10 of the Secondhand Dealers Act (Cap. 288) in force immediately before the appointed day.
+(4) Subsection (3) shall also apply in relation to any record kept under section 10 of the repealed Secondhand Dealers Act (Cap. 288, 1985 Ed.) in force immediately before 1st December 2007.
 
 (5) Every secondhand goods dealer shall produce the records referred to in subsection (1) for examination at any time on demand by any Magistrate, Justice of the Peace, the Licensing Officer or a police officer.
 
@@ -243,6 +231,8 @@ shall be guilty of an offence.
 (b) in compliance or purported compliance with subsection (2), (3) or (5), fabricates, keeps, submits or produces to the Licensing Officer or to a Magistrate, Justice of the Peace or police officer, any record which he knows is false or misleading,
 
 shall be guilty of an offence.
+
+[Secondhand Dealers 1985 Ed., s. 10]
 
 ### Information of stolen and lost property to be given to secondhand goods dealers
 
@@ -256,6 +246,8 @@ shall be guilty of an offence.
 
 (3) Any person who contravenes subsection (2)(a) shall be guilty of an offence.
 
+[Secondhand Dealers 1985 Ed., s. 11]
+
 ### Power to enter and search secondhand goods dealer’s shop, etc.
 
 12\.—(1) Any police officer may enter the shop of any secondhand goods dealer at any time and may, without a warrant, search the shop for any property which he has reason to suspect to be therein and to be stolen property or property that has been lost.
@@ -266,11 +258,15 @@ shall be guilty of an offence.
 
 (4) Any police officer may seize any secondhand goods found in any shop referred to in subsection (1) or (2).
 
+[Secondhand Dealers 1985 Ed., s. 12]
+
 ### Power to arrest persons loitering suspiciously about secondhand goods dealer’s shop
 
 13\.—(1) Any police officer, having reason to believe that a person in or loitering about the shop of any secondhand goods dealer under suspicious circumstances has with him any stolen property, may arrest that person and require him to produce any property which he has with him.
 
 (2) Where any property is produced by any person under subsection (1) and if the police officer has reason to suspect that property to be stolen property, the police officer may take the person and the property, or cause the person and property to be taken, to a police station to be dealt with according to law.
+
+[Secondhand Dealers 1985 Ed., s. 13]
 
 ### Delivery to owner of property
 
@@ -285,6 +281,8 @@ shall be guilty of an offence.
 (b) did not exercise due care and diligence to ascertain that the property was not stolen property,
 
 the court may order the secondhand goods dealer to pay a financial penalty not exceeding $2,000.
+
+[Secondhand Dealers 1985 Ed., s. 14]
 
 ### Offences by bodies corporate, etc.
 
@@ -310,13 +308,13 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
 
-(b) to be attributable to any neglect on the part of such an officer or member,
+(b) to be attributable to any neglect on the part of such an officer or a member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
 (5) In this section —
 
-“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
 “officer” —
 
@@ -332,6 +330,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) Where any person, being an agent or employee employed by a secondhand goods dealer in the course of his business as such secondhand goods dealer, wilfully does any act or commits any omission that constitutes an offence under this Act, that person shall also be guilty of that offence and shall be liable to the fine or punishment prescribed for that offence, as if he were the person carrying on such business as a secondhand goods dealer.
 
+[Secondhand Dealers 1985 Ed., s. 15]
+
 ### Jurisdiction of court
 
 17\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
@@ -339,6 +339,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 ### General penalty
 
 18\. Any person who is guilty of an offence under this Act shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Secondhand Dealers 1985 Ed., s. 8]
 
 ### Composition of offences
 
@@ -354,9 +356,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) If any exemption is granted under this section with conditions, the exemption operates only if the conditions are complied with.
 
+[Secondhand Dealers 1985 Ed., s. 5]
+
 ### Amendment of Schedule
 
-21\. The Minister may, by order published in theGazette,amend the Schedule.
+21\. The Minister may, by order published in theGazette, amend the Schedule.
+
+[Secondhand Dealers 1985 Ed., s. 17]
 
 ### Rules
 
@@ -370,47 +376,21 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (d) generally to carry out the purposes of this Act.
 
-### Repeal
-
-23\. The Secondhand Dealers Act (Cap. 288) is repealed.
-
-### Consequential amendments to other written laws
-
-24\.—(1) Item 35 in the Third Schedule to the Central Provident Fund Act (Cap. 36) is deleted and the following item substituted therefor:
-
-“
-
-35. Secondhand Goods Dealers Act 2007
-
-”.
-
-(2) Part II of the First Schedule to the Registration of Criminals Act (Cap. 268) is amended by deleting the item relating to “Secondhand Dealers Act” and substituting the following item:
-
-Secondhand Goods Dealers Act 2007
-
-Section 10 (6).
-
-(3) Section 8 of the Vandalism Act (Cap. 341) is repealed and the following section substituted therefor:
-
-“
-
-Revocation of secondhand goods dealer’s licence upon conviction
-
-8\. Where any secondhand goods dealer within the meaning of the Secondhand Goods Dealers Act 2007 is convicted under section 411 of the Penal Code (Cap. 224) and the stolen property concerned is public property, the court shall, in addition to any other penalty that it may impose, revoke any licence or exemption granted under that Act to the secondhand goods dealer.
-
-”.
+[Secondhand Dealers 1985 Ed., s. 16]
 
 ### Transitional and savings provisions
 
-25\.—(1) Any licence issued under the repealed Secondhand Dealers Act (Cap. 288, 1985 Ed.) and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, be deemed to be a licence issued under section 5 of this Act, except that the licence shall expire on 31st December of the year in respect of which it was issued.
+23\.—(1) Any licence issued under the repealed Secondhand Dealers Act (Cap. 288, 1985 Ed.) and in force immediately before 1st December 2007 shall, so far as it is not inconsistent with the provisions of this Act, be deemed to be a licence issued under section 5 of this Act, except that the licence shall expire on 31st December of the year in respect of which it was issued.
 
-(2) Any exemption granted under section 5 of the repealed Secondhand Dealers Act and in force immediately before the appointed day shall be deemed to be an exemption granted under section 20 of this Act except that the exemption shall expire on 31st December of the year in respect of which it was granted.
+(2) Any exemption granted under section 5 of the repealed Secondhand Dealers Act and in force immediately before 1st December 2007 shall be deemed to be an exemption granted under section 20 of this Act except that the exemption shall expire on 31st December of the year in respect of which it was granted.
+
+[25
 
 ## THE SCHEDULE
 
 Section 2(1)
 
-Secondhand Goods
+Secondhand goods
 
 1\. Cameras, video-graphic and photographic equipment including lenses.
 
@@ -472,9 +452,34 @@ Secondhand Goods
 
 (t) water taps.
 
-[S 555/2007 wef 01/12/2007]
-
 11. Scraps of copper, stainless steel, aluminium, steel or brass or any composite of such metals, whether in the form of bars, rods, sheets, turnings or parts of disassembled items or articles, or otherwise, but excluding scraps derived from drink cans or household utensils or articles.
 
-[S 555/2007 wef 01/12/2007]
+[S 555/2007]
 
+## LEGISLATIVE SOURCE KEY
+
+Secondhand Goods Dealers Act
+
+(CHAPTER 288A)
+
+Notes:—Unless otherwise stated, the abbreviations used in the cross-references are references to the Secondhand Dealers Act (Chapter 288, 1985 Revised Edition). The references are provided for convenience and are not part of the Act.
+
+## LEGISLATIVE HISTORY
+
+Secondhand Goods Dealers Act
+
+(CHAPTER 288A)
+
+This Legislative History is provided for the convenience of users of the Secondhand Goods Dealers Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 4 of 2007—Secondhand Goods Dealers Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 16/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 December 2007|
+|2.|**G. N. No. S 555/2007—Secondhand Goods Dealers Act (Amendment of Schedule) Order 2007**|
+||Date of commencement|1 December 2007|
+|3.|**2008 Revised Edition—Secondhand Goods Dealers Act**|
+||Date of operation|31 July 2008|
