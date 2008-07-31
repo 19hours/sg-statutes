@@ -1,14 +1,12 @@
-**Building Maintenance and Strata Management Act 2004**
+**Building Maintenance and Strata Management Act**
 
-**(No. 47 of 2004)**
+**(CHAPTER 30C)**
 
 **Table of Contents**
 
 [**Long Title**](#Building-Maintenance-and-Strata-Management-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-[**Part I Preliminary**](#Part-I)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title and commencement](#Short-title-and-commencement)
 
@@ -320,7 +318,7 @@
 
 - [136 Regulations](#Regulations)
 
-- [137 Repeal of Buildings and Common Property (Maintenance and Management) Act](#Repeal-of-Buildings-and-Common-Property-Maintenance-and-Management-Act)
+- [137 Transitional and savings provisions due to repeal of Buildings and Common Property (Maintenance and Management) Act](#Transitional-and-savings-provisions-due-to-repeal-of-Buildings-and-Common-Property-Maintenance-and-Management-Act)
 
 - [138 Consequential amendments to Land Titles (Strata) Act](#Consequential-amendments-to-Land-Titles-Strata-Act)
 
@@ -338,47 +336,38 @@
 
 [**FIFTH SCHEDULE Consequential Amendments to Other Written Laws**](#FIFTH-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+[**Comparative Table**](#Comparative-Table)
 
-Published by Authority
+# Building Maintenance and
 
-NO. 45]
+# 
 
-Friday, November 26
 
-[2004
+# Strata Management Act
 
-The following Act was passed by Parliament on 19th October 2004 and assented to by the President on 4th November 2004:—
+(CHAPTER 30C)
 
-Building Maintenance and Strata Management Act 2004
+(Original Enactment: Act 47 of 2004)
 
-(No. 47 of 2004)
+REVISED EDITION 2008
 
-I assent.
-
-S R NATHAN,
-
-President.
-
-4th November 2004.
-
-Date of Commencement: 1st April 2005 Except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule
+(31st July 2008)
 
 An Act to repeal and re-enact with amendments the Buildings and Common Property (Maintenance and Management) Act (Chapter 30 of the 2000 Revised Edition) so as to provide for proper maintenance and management of buildings, and to make consequential amendments to the Land Titles (Strata) Act (Chapter 158 of the 1999 Revised Edition) and certain other written laws.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2005: except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule ]
 
 ## PART I
 
-Preliminary
+PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Building Maintenance and Strata Management Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Building Maintenance and Strata Management Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -454,7 +443,7 @@ whichever first occurs;
 
 “limited common property” means such part of the common property in a parcel that is —
 
-(a) in the case of common property to be comprised in a strata title plan, designated in the sale and purchase agreement of any proposed lot in the parcel for the exclusive benefit of the purchasers of any 2 or more (but not all) of those proposed lots in the parcel; or
+(a) in the case of common property to be comprised in a strata title plan, designated in the sale and purchase agreement of any proposed lot in the parcel for the exclusive benefit of the purchasers of 2 or more (but not all) of those proposed lots in the parcel; or
 
 (b) in the case of common property comprised in a strata title plan, designated in the strata title plan or a comprehensive resolution referred to in section 78(2) for the exclusive benefit of the subsidiary proprietors of 2 or more (but not all) lots in that strata title plan,
 
@@ -484,7 +473,7 @@ and includes a lot specified as an accessory lot on any such plan;
 
 (a) is within any land or building not comprised or not to be comprised in a strata title plan; and
 
-(b) is used or intended to be used as a complete and separate unit for the purpose of habitation or business or any other purpose;
+(b) is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose;
 
 “owner” includes an owner developer and —
 
@@ -511,8 +500,6 @@ and includes a lot specified as an accessory lot on any such plan;
 (c) where the exterior feature is a window, grille or shutter that is part of a flat — the owner of that flat or other person who ordinarily has daily charge and control over the maintenance and use of such window, grille or shutter; or
 
 (d) such other person as may be prescribed as the person responsible for the exterior feature;
-
-[47/2007 wef 15/02/2008]
 
 “planning permission” has the same meaning as in the Planning Act (Cap. 232);
 
@@ -556,7 +543,7 @@ and includes a lot specified as an accessory lot on any such plan;
 
 “subdivided building” means any one or more buildings comprised in a strata subdivision plan approved by the relevant authority;
 
-“subsidiary management corporation”, in relation to any limited common property comprised in a strata title plan, means the subsidiary management corporation constituted for that limited common property under the Land Titles (Strata) Act (Cap. 158);
+“subsidiary management corporation”, in relation to any limited common property comprised in a strata title plan, means the subsidiary management corporation constituted for that limited common property under the Land Titles (Strata) Act;
 
 “subsidiary proprietor” has the same meaning as in the Land Titles (Strata) Act;
 
@@ -566,7 +553,9 @@ and includes a lot specified as an accessory lot on any such plan;
 
 “warranted development” means any proposed development in a staged development that the owner developer thereof warrants will be carried out and may be compelled to carry out under the staged development contract for that staged development;
 
-“window” includes a roof skylight, glass panel, glass brick, louvre, glazed sash, glazed door, translucent sheeting and any other building material which transmits natural light directly from outside a building into a room of or interior of the building.
+“window” includes a roof skylight, glass panel, glass brick, louvre, glazed sash, glazed door, translucent sheeting and any other building material which transmits natural light directly from outside a building into a room of or an interior of the building.
+
+[42/2005; 47/2007]
 
 (2) For any management corporation or subsidiary management corporation, a motion is decided by ordinary resolution if —
 
@@ -622,6 +611,8 @@ and includes a lot specified as an accessory lot on any such plan;
 
 (b) all other windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot shall be common property, unless otherwise described in a strata title plan.
 
+[BCPA (repealed), s. 2; LT(S)A, s. 3]
+
 ## PART II
 
 APPOINTMENT OF OFFICERS
@@ -643,6 +634,8 @@ such number of officers as the Commissioner considers necessary for the purpose 
 (4) Any powers conferred on and duties to be performed by the Commissioner under this Act or any other written law may, subject to any general or special directions of the Commissioner, be exercised or performed by any officer appointed under subsection (3).
 
 (5) Every officer appointed under subsection (3) shall be subject to the general supervision of the Commissioner.
+
+[BCPA (repealed), s. 3]
 
 ### Commissioner and officers deemed to be public servants
 
@@ -702,6 +695,8 @@ as the case may be.
 
 (5) Without prejudice to the right of the Commissioner to exercise the powers under subsection (4), if any person on whom a notice under subsection (1) is served fails, without reasonable excuse, to comply with the requirements of that notice, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $25 for every day or part thereof during which the offence continues after conviction.
 
+[BCPA (repealed), s. 4]
+
 ### Deposit by building owner, etc.
 
 7\.—(1) Without prejudice to section 6(4), where a notice under section 6(1) is not complied with to his satisfaction, the Commissioner may issue a direction to the person on whom the notice was served to deposit such amount with the Commissioner as he considers necessary for the purpose of executing the repairs, work and alteration specified in that notice, and that amount shall be deposited with the Commissioner within such period, not being less than 7 days from the service of the direction, as the Commissioner may specify.
@@ -709,6 +704,8 @@ as the case may be.
 (2) The amount of any deposit which is due to the Commissioner under subsection (1) may be sued for as a debt due to the Government.
 
 (3) The Commissioner may refund the deposit or any part thereof, after deducting any costs and expenses incurred by him, if the repairs, work and alteration required to be executed by the notice under section 6(1) have been executed to his satisfaction.
+
+[BCPA (repealed), s. 5]
 
 ### Appeal against notice to repair
 
@@ -720,6 +717,8 @@ as the case may be.
 
 (4) The decision of the Minister in any appeal under this section shall be final.
 
+[BCPA (repealed), s. 6]
+
 ### Unsafe exterior feature
 
 9\.—(1) Any person responsible for an exterior feature of a building who, without reasonable excuse, fails to keep or maintain the exterior feature in such manner as to be securely fixed to the building and as will prevent any collapse, partly or wholly, of such exterior feature or its support shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
@@ -730,6 +729,8 @@ as the case may be.
 
 (b) that there is damage to, deterioration or other disrepair of the exterior feature or its support not caused by accident or acts of nature, including but not limited to fire, explosion, windstorm, hail, lightning, falling trees, aircraft, vehicles, flood, earthquake or landslide.
 
+[47/2007]
+
 (3) If a person is charged with an offence under subsection (1), it shall be a defence for him to prove that there is a defect in any part, or the whole, of such exterior feature or its support caused by materials or work supplied by anyone other than the person responsible.
 
 (4) Without prejudice to subsection (3), a person responsible for an exterior feature shall not, by virtue of subsection (1), be guilty of an offence under that subsection if —
@@ -738,11 +739,11 @@ as the case may be.
 
 (b) he satisfies the court that he relied, in good faith and after making proper inquiry (if the circumstances indicated the need for inquiry of the advice or services), on professional or expert advice or other services given or rendered by the contractor, managing agent or other person in relation to the exterior feature concerned.
 
-[47/2007 wef 15/02/2008]
+[47/2007]
 
 (5) A statutory declaration made under subsection (4) if produced in any proceedings against the person named therein and in respect of the offence concerned shall be prima facie evidence that the person had charge and control of the management and maintenance of the exterior feature at all relevant times relating to that offence.
 
-[47/2007 wef 15/02/2008]
+[47/2007]
 
 ## PART IV
 
@@ -758,11 +759,13 @@ DEALINGS IN STRATA SUBDIVIDED BUILDINGS
 
 (b) by any deed or instrument (but not a deed or an instrument referred to in section 13), he has conveyed, transferred, assigned or otherwise disposed of his estate or interest in the lot or proposed lot.
 
+[BCPA (repealed), s. 9; LT(S)A, s. 7(9)]
+
 ### Schedule of strata units must be accepted by Commissioner before sale can start
 
 11\.—(1) The owner developer of a development (including any staged development) shall not sell any lot or proposed lot in the development with a share value unless a schedule of strata units or an amended schedule of strata units, as the case may be, showing that share value of the lot or proposed lot has been filed with and accepted by the Commissioner under this section.
 
-(2) Where a schedule of strata units has been filed and accepted by the Commissioner in respect of any staged development, the owner developer of the staged development shall also not sell any lot or proposed lot in any stage of the staged development subsequent to the initial stage unless he files an amended schedule of strata units under section 12 showing —
+\*(2) Where a schedule of strata units has been filed and accepted by the Commissioner in respect of any staged development, the owner developer of the staged development shall also not sell any lot or proposed lot in any stage of the staged development subsequent to the initial stage unless he files an amended schedule of strata units under section 12 showing —
 
 (a) the adjusted share value of each lot or proposed lot comprised in the first stage and any preceding stage of the staged development of the parcel; and
 
@@ -770,9 +773,11 @@ DEALINGS IN STRATA SUBDIVIDED BUILDINGS
 
 and the Commissioner accepts that amended schedule of strata units under this section.
 
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+
 (3) Every schedule of strata units and amended schedule of strata units shall be filed with the Commissioner in the prescribed form and manner and be accompanied by the prescribed fee.
 
-(4) In the case of a staged development, the schedule of strata units to be filed with the Commissioner shall also include —
+\*(4) In the case of a staged development, the schedule of strata units to be filed with the Commissioner shall also include —
 
 (a) the proposed share value of each lot or proposed lot comprised in the first stage of the staged development;
 
@@ -782,9 +787,11 @@ and the Commissioner accepts that amended schedule of strata units under this se
 
 (d) the proposed staged development contract subject to which the staged development shall be carried out.
 
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+
 (5) The Commissioner may accept a schedule of strata units filed under this section, or an amended schedule of strata units filed under section 12, if and only if he is satisfied that the proposed share values or range of proposed share values allotted to all the lots or proposed lots in the schedule of strata units or the amended schedule of strata units, as the case may be, are allocated in a just and equitable manner.
 
-(6) Without prejudice to subsection (5), in the case of a staged development, the Commissioner may accept an amended schedule of strata units filed under section 12 in respect of or on account of any subsequent stage of a staged development if and only if —
+\*(6) Without prejudice to subsection (5), in the case of a staged development, the Commissioner may accept an amended schedule of strata units filed under section 12 in respect of or on account of any subsequent stage of a staged development if and only if —
 
 (a) the aggregate share values of all lots or proposed lots comprised in the first and any preceding stage of the staged development; plus
 
@@ -796,6 +803,8 @@ b
 
 )) accepted by the Commissioner under this section.
 
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+
 (7) Within 6 weeks after any schedule of strata units or amended schedule of strata units for a development is filed with the Commissioner, the Commissioner shall either —
 
 (a) notify the owner developer concerned in writing of his acceptance of that schedule; or
@@ -804,17 +813,21 @@ b
 
 (8) Every contract for the sale of any lot or proposed lot in a development shall be deemed to include a term that the owner developer of the development has agreed to sell an undivided share in the land on which the lot or proposed lot is or is to be erected with a value or, in the case of a lot or proposed lot in a staged development, within a range of share values, determined in accordance with the proposed share values or proposed range of share values, as the case may be, assigned to each lot or proposed lot shown in the schedule of strata units or amended schedule of strata units, as the case may be, for the development last accepted by the Commissioner before the execution of that contract.
 
+[LT(S)A, s. 7]
+
 ### Schedule of strata units not to be changed once accepted
 
 12\.—(1) Where a schedule of strata units for a development has been filed and accepted by the Commissioner under section 11, the owner developer of the development shall not make any change to any share value in the schedule of strata units, the area of any lot or proposed lot in the development or any part of the common property or limited common property, if any, of the development unless he has filed an amended schedule of strata units with the Commissioner and the Commissioner accepts that amended schedule of strata units.
 
-(2) Where a schedule of strata units has been filed and accepted by the Commissioner in respect of any staged development, the owner developer of the staged development shall not make any change to the share value of any lot or proposed lot in any stage of the staged development unless he files with the Commissioner an amended schedule of strata units showing —
+\*(2) Where a schedule of strata units has been filed and accepted by the Commissioner in respect of any staged development, the owner developer of the staged development shall not make any change to the share value of any lot or proposed lot in any stage of the staged development unless he files with the Commissioner an amended schedule of strata units showing —
 
 (a) the adjusted share value (if any) of each lot or proposed lot comprised in the first and any preceding stage of the staged development; and
 
 (b) the proposed share value to be allotted to each lot or proposed lot comprised in that stage of the staged development,
 
 and the Commissioner accepts that amended schedule of strata units under section 11.
+
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
 
 (3) Subsections (1) and (2) shall apply even where the owner developer of the development —
 
@@ -826,9 +839,11 @@ and the Commissioner accepts that amended schedule of strata units under section
 
 (4) Without prejudice to subsections (1), (2) and (3), where a schedule of strata units for a development has been filed and accepted by the Commissioner under section 11, the share value assigned to any lot or proposed lot in the development in that schedule of strata units may be altered —
 
-(a) before the lot or proposed lot is sold if and only if such alteration does not result in a different aggregate share value (including the range of provisional share values referred to in section 11(4)(b), if any) for the development;
+(a) before the lot or proposed lot is sold if and only if such alteration does not result in a different aggregate share value (including the range of provisional share values referred to in section 11(4)(b), if any) for the development; and
 
 (b) after the lot or proposed lot is sold only with the consent of the purchaser thereof, unless the alteration to the share value is a minor adjustment necessitated by an increase or shortfall in the area of the lot or proposed lot after it has been surveyed on its completion, or the alteration is within the range of share values accepted by the Commissioner under section 11.
+
+[LT(S)A, s. 7]
 
 ### Exceptions to section 11 prohibition
 
@@ -846,9 +861,13 @@ and the Commissioner accepts that amended schedule of strata units under section
 
 (c) any sale and purchase agreement whereby the owner of any land agrees to sell the land to a purchaser either by itself or together with the owners of any adjacent land.
 
+[LT(S)A, s. 7(9A) and (14)]
+
 ### Offences
 
 14\. Any person who contravenes section 11(1) or (2) or 12(1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[LT(S)A, s. 7(11)]
 
 ## PART V
 
@@ -867,6 +886,8 @@ Management by owner developer before management corporation constituted
 (b) on which more than 4 lots or proposed lots are or are to be constructed.
 
 (2) This Division shall apply to a development referred to in subsection (1) when 2 or more lots or proposed lots in the development are sold to more than one purchaser.
+
+[BCPA (repealed), s. 9(2)]
 
 ### Developer to establish maintenance funds
 
@@ -926,6 +947,8 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (4) Any owner developer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
+[BCPA (repealed), s. 9(1)]
+
 ### Duties of owner developer as regards maintenance funds
 
 17\.—(1) Subject to subsection (2), the owner developer of the development shall —
@@ -944,7 +967,7 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (a) where the lot or proposed lot is sold before a temporary occupation permit is issued in respect of the lot or proposed lot, within a period of 3 months after the temporary occupation permit is issued in respect of the lot or proposed lot; and
 
-(b) where the lot or proposed lot is sold on or after such a permit is issued, before the date of expiration of the period referred to in paragraph (a) or from the date the maintenance fund is established under section 16(2) or (3), whichever is the earlier.
+(b) where the lot or proposed lot is sold on or after such a permit is issued, before the expiry of the period referred to in paragraph (a) or from the date the maintenance fund is established under section 16(2) or (3), whichever is the earlier.
 
 (3) All moneys in any maintenance fund for a development shall be held by the owner developer of the development on trust —
 
@@ -992,6 +1015,8 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (10) Any owner developer who contravenes subsection (6), (7) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
+[BCPA (repealed), ss. 10, 11]
+
 ### No collection of maintenance charges without Commissioner’s approval
 
 18\.—(1) No owner developer of a development shall collect any charges for the management and maintenance of the development or any common property or limited common property comprised in the development from the purchasers of any lot or proposed lot comprised in such development except with the prior written approval of the Commissioner.
@@ -1000,23 +1025,25 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (3) For the avoidance of doubt, this section shall not prevent any management corporation or subsidiary management corporation from collecting contributions under this Part.
 
+[BCPA (repealed), s. 7]
+
 ### Commissioner may appoint managing agent for development
 
 19\.—(1) If the Commissioner is satisfied that, after due inquiry by him or a person appointed by him, the management and maintenance of a development or part thereof is not carried out satisfactorily by the owner developer thereof, the Commissioner may, by order published in theGazette, appoint one or more persons as a managing agent to manage and maintain —
 
-(a) where the development has no limited common property — the development; or
+(a) where the development has no limited common property, the development; or
 
-(b) where the development has limited common property — the common property or the limited common property of the development or both.
+(b) where the development has limited common property, the common property or the limited common property of the development or both.
 
 (2) A managing agent appointed by the Commissioner under subsection (1) shall be entitled to such remuneration or fees as may be determined by the Commissioner and such remuneration or fees shall be charged —
 
-(a) in the case of a managing agent appointed in respect of the development under subsection (1)(a) or the common property of the development under subsection (1)(b), the general maintenance fund referred to in section 16(2); or
+(a) in the case of a managing agent appointed in respect of the development under subsection (1)(a) or the common property of the development under subsection (1)(b), to the general maintenance fund referred to in section 16(2); or
 
-(b) in the case of a managing agent appointed in respect of the limited common property under subsection (1)(b), the special maintenance fund referred to in section 16(3).
+(b) in the case of a managing agent appointed in respect of the limited common property under subsection (1)(b), to the special maintenance fund referred to in section 16(3).
 
 (3) The Commissioner shall not exercise his powers under this section unless he has given not less than 14 days’ notice in writing to the owner developer concerned, specifying his intention to appoint a managing agent under subsection (1) and to consider the representations (if any) made by the owner developer within 14 days of the date of service of the notice.
 
-(4) Any owner developer who is aggrieved by an order made by the Commissioner under subsection (1) in respect of his development may, at any time within 21 days after the date of publication of that order in theGazette,appeal in writing to the Minister.
+(4) Any owner developer who is aggrieved by an order made by the Commissioner under subsection (1) in respect of his development may, at any time within 21 days after the date of publication of that order in theGazette, appeal in writing to the Minister.
 
 (5) Notwithstanding that an appeal has been made under subsection (4) against an order made by the Commissioner under subsection (1), that order shall have effect unless otherwise ordered by the Minister.
 
@@ -1025,6 +1052,8 @@ whichever is the later, but in every case before the collection of maintenance c
 (7) The decision of the Minister in any appeal under subsection (4) shall be final.
 
 (8) The Commissioner may at any time revoke any appointment made under subsection (1) for any development and appoint another person as managing agent for the development.
+
+[BCPA (repealed), s. 12]
 
 ### Powers and duties of managing agent appointed by Commissioner
 
@@ -1058,11 +1087,13 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (c) any income derived from the common property and limited common property, if any, of the development which are due to be paid to the relevant maintenance fund; and
 
-(d) any expenditure incurred for the maintenance for the development which is authorised by section 16(2) or (3), as the case may be, to be paid out of the relevant maintenance fund and which remains unpaid.
+(d) any expenditure incurred for the maintenance of the development which is authorised by section 16(2) or (3), as the case may be, to be paid out of the relevant maintenance fund and which remains unpaid.
 
 (7) Any person appointed by the Commissioner as a managing agent for a development shall not act as a managing agent unless he has lodged with the Commissioner a bond in the form approved by the Commissioner and for the prescribed amount given by a bank, a finance company or an insurer and which binds the bank, finance company or insurer to make good any loss caused by the managing agent as a result of his failure to duly account to the purchasers of a development for moneys received or held by him.
 
 (8) A managing agent who contravenes subsection (5) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[BCPA (repealed), ss. 13, 15]
 
 ### Owner developer not to be relieved of his obligations to carry out repairs, etc.
 
@@ -1070,9 +1101,11 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (a) towards the purchasers of the lots or proposed lots in the development to carry out repairs to the common property and limited common property, if any, of the development, or to make good any defect in the common property or limited common property, as the case may be, of the development;
 
-(b) to carry out repairs and varied and additional works to ensure that the development is constructed in accordance with the specifications and plans approved by the Commissioner of Building Control; and
+(b) to carry out repairs and varied and additional works to ensure that the development is constructed in accordance with the specifications and plans approved by the Commissioner of Building Control under the Building Control Act (Cap. 29); and
 
 (c) to carry out repairs and varied and additional works to comply with the requirements of any relevant authority prior to the issue of the certificate of statutory completion for the development.
+
+[BCPA (repealed), s. 14]
 
 ### Failure by purchaser to pay maintenance charges
 
@@ -1085,6 +1118,8 @@ whichever is the later, but in every case before the collection of maintenance c
 (2) For the purposes of this section, a written demand sent by an owner developer to a purchaser shall be deemed to have been served on the purchaser of a lot or proposed lot (whether it is actually received or not) if it is sent by registered post to the purchaser at his last known address.
 
 (3) Where a managing agent has been appointed by the Commissioner under section 19(1) to manage and maintain a development, a notice sent by the managing agent shall be deemed to have been sent by the owner developer of that development.
+
+[BCPA (repealed), s. 18]
 
 ### Owner developer’s duties on constitution of management corporation
 
@@ -1104,7 +1139,7 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (c) cause the records referred to in paragraph (b) to be kept in such manner as to enable them to be conveniently and properly audited.
 
-(3) An owner developer of a development shall exercise and perform the duties of —
+(3) An owner developer of a development shall exercise the powers and perform the duties of —
 
 (a) the council of a management corporation; and
 
@@ -1129,6 +1164,8 @@ from the time the management corporation or (as the case may be) subsidiary mana
 (6) Before the first annual general meeting of a management corporation, the owner developer shall appoint the auditor of the management corporation, and any auditor so appointed shall hold office until the conclusion of the first annual general meeting of the management corporation.
 
 (7) Before the first annual general meeting of a subsidiary management corporation after it is constituted (other than pursuant to a comprehensive resolution), the owner developer shall appoint the auditor of the subsidiary management corporation, and any auditor so appointed shall hold office until the conclusion of the first annual general meeting of the subsidiary management corporation.
+
+[BCPA (repealed), s. 10(4); LT(S)A, ss. 34, 56(3), 3rd Sch. Para 14]
 
 Division 2 —
 
@@ -1160,21 +1197,25 @@ Management corporations and common property
 
 (5) In this section, “subsidiary proprietors” includes the persons entitled to the land on which the subdivided building is erected pursuant to the termination of the strata subdivision scheme under section 78 or 81 of the Land Titles (Strata) Act (Cap. 158).
 
+[LT(S)A, s. 33]
+
 ### Common seal of management corporation
 
 25\.—(1) The common seal of a management corporation shall be kept —
 
-(a) where the management corporation is constituted by one subsidiary proprietor — by that subsidiary proprietor; or
+(a) where the management corporation is constituted by one subsidiary proprietor, by that subsidiary proprietor; or
 
-(b) where the management corporation is constituted by 2 or more subsidiary proprietors — by such subsidiary proprietor or member of the council as the management corporation determines or, in the absence of any such determination, by the secretary of the council.
+(b) where the management corporation is constituted by 2 or more subsidiary proprietors, by such subsidiary proprietor or member of the council as the management corporation determines or, in the absence of any such determination, by the secretary of the council.
 
 (2) The common seal of a management corporation shall only be affixed to an instrument or a document in the presence of —
 
-(a) where the management corporation is constituted by one or 2 subsidiary proprietors — that subsidiary proprietor or those subsidiary proprietors, as the case may be; or
+(a) where the management corporation is constituted by one or 2 subsidiary proprietors, that subsidiary proprietor or those subsidiary proprietors, as the case may be; or
 
-(b) where the management corporation is constituted by 2 or more subsidiary proprietors — such 2 persons, being subsidiary proprietors or members of the council as the management corporation determines or, in the absence of such determination, by the secretary or any other member of the council,
+(b) where the management corporation is constituted by 2 or more subsidiary proprietors, such 2 persons, being subsidiary proprietors or members of the council as the management corporation determines or, in the absence of such determination, the secretary and any other member of the council,
 
 who shall also sign the instrument or document to which the seal is affixed.
+
+[LT(S)A, s. 36]
 
 ### First annual general meeting of management corporation
 
@@ -1200,13 +1241,13 @@ who shall also sign the instrument or document to which the seal is affixed.
 
 (f) to receive and, if considered fit, to adopt the audited annual accounts of the management corporation for the period starting from the date the management corporation is constituted and ending on a date not earlier than 4 months before the first annual general meeting.
 
-(4) At or within 2 weeks after convening the first annual general meeting of the management corporation constituted in respect of a strata title plan comprising any development, the owner developer of the development shall —
+(4) At the end of or within 2 weeks after convening the first annual general meeting of the management corporation constituted in respect of a strata title plan comprising any development, the owner developer of the development shall —
 
 (a) place before the meeting and deliver to the management corporation copies of all the following:
 
-(i) all plans that were required to obtain the temporary occupation permit and certificate of statutory completion (where applicable) for all buildings in the development, (including amendments to such plans) that have been filed with the Commissioner of Building Control under the Building Control Act (Cap. 29);
+(i) all plans that were required to obtain the temporary occupation permit and certificate of statutory completion (where applicable) for all buildings in the development (including amendments to such plans), that have been filed with the Commissioner of Building Control under the Building Control Act (Cap. 29);
 
-(ii) any document in the owner developer’s possession that indicates, as far as practicable, the actual location of any pipe, wire, cable, chute, duct or other facility for the passage or provision of systems or services, if the owner developer has reason to believe that the pipe, wire, cable, chute, duct or other facility is not located as shown on a plan or amended plan filed with the Commissioner of Building Control under the Building Control Act;
+(ii) any document in the owner developer’s possession that indicates, as far as practicable, the actual location of any pipe, wire, cable, chute, duct or other facility for the passage or provision of systems or services, if the owner developer has reason to believe that the pipe, wire, cable, chute, duct or other facility is not located as shown on a plan or an amended plan filed with the Commissioner of Building Control under the Building Control Act;
 
 (iii) all contracts entered into by or on behalf of the management corporation;
 
@@ -1242,6 +1283,8 @@ and any such meeting so convened by that person shall be the first annual genera
 
 (9) Any owner developer who, without reasonable excuse, fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
+[LT(S)A, s. 37]
+
 ### Meetings, other than first annual general meeting, of management corporation
 
 27\.—(1) After the first annual general meeting has been held, an annual general meeting of a management corporation shall be held in each calendar year and not more than 15 months after the holding of the last preceding annual general meeting.
@@ -1260,6 +1303,8 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (5) Where any person is charged with an offence under subsection (4), it shall be a defence to prove that he took all reasonable steps and exercised all due diligence to secure compliance with this section.
 
+[LT(S)A, ss. 38(1), 40]
+
 ### Management corporation’s address
 
 28\.—(1) Every management corporation shall —
@@ -1268,7 +1313,11 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (b) cause to be constructed and maintained at or near the street alignment of the parcel a receptacle suitable for the receipt of mail and other documents with the name of the management corporation clearly shown thereon.
 
+[46/2007]
+
 (2) A management corporation may decide that the address, as lodged with the Registrar of Titles, for the service of notices on the management corporation shall be changed.
+
+[46/2007]
 
 (3) Where a management corporation has, under subsection (2), decided that the address for the service of notices on it shall be changed, the management corporation shall —
 
@@ -1278,7 +1327,11 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (c) within 7 days after deciding, serve on each of its subsidiary proprietors a written notice of the change.
 
+[46/2007]
+
 (4) Any management corporation which contravenes subsection (3)(a) or (c) shall be guilty of an offence.
+
+[LT(S)A, ss. 46, 55]
 
 ### Duties and powers of management corporation in respect of property
 
@@ -1324,6 +1377,8 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (4) Notwithstanding any other provision of this Act, a management corporation constituted for common property within a strata title plan may manage and maintain any limited common property within that strata title plan upon such terms and conditions as may be agreed between the subsidiary management corporation for that limited common property and the management corporation.
 
+[LT(S)A, ss. 48(1), 50(e)]
+
 ### Powers of management corporation to carry out work
 
 30\.—(1) Where a notice has been served on the subsidiary proprietor of a lot by a public authority requiring that subsidiary proprietor to carry out any work on or in relation to that lot and the notice is not complied with, the management corporation may carry out the work.
@@ -1356,11 +1411,19 @@ the management corporation may carry out that work.
 
 (a) any part of a building comprised in a lot contains any structural defect which affects or is likely to affect the support or shelter provided by that lot for another lot in that building or the common property; or
 
-(b) any defect occurs in any pipes, wires, cables or ducts referred to in section 63(a)(ii) within a lot,
+(b) any defect occurs in any pipe, wire, cable or duct referred to in section 63(a)(ii) within a lot,
 
 and the defect is not due to any breach of the duty imposed on any person by section 63(a), the management corporation shall carry out such work as is necessary to rectify the defect and may recover the cost of such work from any person who has a duty to remedy the defect as a debt in any court of competent jurisdiction.
 
-(6) Where the management corporation incurs any expenditure or performs any repairs, works or acts that it is required or authorised by this Part or by any other written law to perform (whether or not the expenditure was incurred or the repairs, works or acts were performed consequent upon the service on it by the Government or any statutory authority of any notice or order) and the expenditure or the repairs, works or acts were rendered necessary by reason of any wilful or negligent act or omission on the part of, or breach of any provision of its by-laws by any person or his tenant, lessee, licensee or invitee, the amount of that expenditure expended by it in performing the repairs, works or acts shall be recoverable by it from that person as a debt in an action in any court of competent jurisdiction.
+(6) Where —
+
+(a) the management corporation incurs any expenditure or performs any repairs, works or acts that it is required or authorised by this Part or by any other written law to perform (whether or not the expenditure was incurred or the repairs, works or acts were performed consequent upon the service on it by the Government or any statutory authority of any notice or order); and
+
+(b) the expenditure or the repairs, works or acts were rendered necessary by reason of any wilful or negligent act or omission on the part of, or breach of any provision of its by-laws by any person or his tenant, lessee, licensee or invitee,
+
+the amount of that expenditure expended by it in performing the repairs, works or acts shall be recoverable by it from that person as a debt in an action in any court of competent jurisdiction.
+
+[LT(S)A, s. 45]
 
 ### Powers of entry of management corporation
 
@@ -1376,23 +1439,25 @@ and the defect is not due to any breach of the duty imposed on any person by sec
 
 (c) any work referred to in section 29(1)(b) or (d); or
 
-(d) any work necessary to repair or renew any pipes, poles, wires, cables or ducts referred to in section 63(a)(ii),
+(d) any work necessary to repair or renew any pipe, wire, cable or duct referred to in section 63(a)(ii),
 
 the management corporation may, by its agents, employees or contractors, enter upon any part of the parcel for the purpose of carrying out the work —
 
-(i) in the case of an emergency — at any time; or
+(i) in the case of an emergency, at any time; or
 
-(ii) in any other case — at any reasonable time on notice being given to any occupier of that part of the parcel.
+(ii) in any other case, at any reasonable time on notice being given to any occupier of that part of the parcel.
 
 (2) Any person who obstructs or hinders a management corporation in the exercise of any power under this section shall be guilty of an offence.
+
+[LT(S)A, s. 49]
 
 ### By-laws for common property
 
 32\.—(1) Every parcel comprised in a strata title plan shall be regulated by by-laws.
 
-(2) Subject to the Fourth Schedule, the by-laws prescribed by regulations shall be the by-laws for every parcel comprised in a strata title plan in respect of which a management corporation is constituted on or after the date of commencement of this section, and no by-law made under this section or section 33 shall be inconsistent with any such prescribed by-law.
+(2) Subject to the Fourth Schedule, the by-laws prescribed by regulations shall be the by-laws for every parcel comprised in a strata title plan in respect of which a management corporation is constituted on or after 1st April 2005, and no by-law made under this section or section 33 shall be inconsistent with any such prescribed by-law.
 
-(3) Save where otherwise provided in section 33, a management corporation may, pursuant to a special resolution, make by-laws, or amend, add to or repeal any by-laws made under this subsection, for the purpose of controlling and managing the use or enjoyment of the parcel comprised in the strata title plan, including all or any of the following purposes:
+(3) Save where otherwise provided in section 33, a management corporation may, pursuant to a special resolution, make by-laws, or amend, add to or repeal any by-laws made under this section, for the purpose of controlling and managing the use or enjoyment of the parcel comprised in the strata title plan, including all or any of the following purposes:
 
 (a) safety and security measures;
 
@@ -1412,11 +1477,11 @@ the management corporation may, by its agents, employees or contractors, enter u
 
 (i) such other matters as are appropriate to the type of strata scheme concerned.
 
-(4) Any by-laws made, and any amendment of, or addition to or repeal of the by-laws made under this section or section 33, shall have no force or effect until a copy of the by-laws or the amendment of, or addition to or repeal, as the case may be, has been lodged with the Commissioner.
+(4) Any by-laws made, and any amendment of, or addition to or repeal of the by-laws made under this section or section 33, shall have no force or effect until a copy of the by-laws or the amendment, or addition or repeal, as the case may be, has been lodged with the Commissioner.
 
-(5) A copy of every by-law made by the management corporation under this section or section 33, and every addition, amendment or repeal of any such by-law for the time being in force, certified as a true copy under the seal of the management corporation, shall be lodged by the management corporation with the Commissioner within 30 days of the passing of the resolution by the management corporation approving the making of such by-law or any amendment, addition to or repeal of any existing by-law.
+(5) A copy of every by-law made by the management corporation under this section or section 33, and every addition to, amendment or repeal of any such by-law for the time being in force, certified as a true copy under the seal of the management corporation, shall be lodged by the management corporation with the Commissioner within 30 days of the passing of the resolution by the management corporation approving the making of such by-law or any amendment of, addition to or repeal of any existing by-law.
 
-(6) Without limiting the operation of any other provision of this Act, the prescribed by-laws and any by-laws made under this section or section 33 for the time being in force bind the management corporation and the subsidiary proprietors and any mortgagee in possession (whether by himself or any other person), lessee or occupier of a lot to the same extent as if the by-laws —
+(6) Without limiting the operation of any other provision of this Act, the prescribed by-laws and any by-laws made under this section or section 33 for the time being in force shall bind the management corporation and the subsidiary proprietors and any mortgagee in possession (whether by himself or any other person), lessee or occupier of a lot to the same extent as if the by-laws —
 
 (a) had been signed and sealed by the management corporation, and each subsidiary proprietor and each such mortgagee, lessee and occupier, respectively; and
 
@@ -1442,7 +1507,7 @@ the management corporation may, by its agents, employees or contractors, enter u
 
 (10) The management corporation or subsidiary proprietor, mortgagee in possession, lessee or occupier of a lot shall be entitled to apply to the court —
 
-(a) for an order to enforce the performance of or restrain the breach of any by-law; or
+(a) for an order to enforce the performance of or restrain the breach of any by-law by; or
 
 (b) to recover damages for any loss or injury to person or property arising out of the breach of any by-law from,
 
@@ -1451,6 +1516,8 @@ any person bound to comply therewith, the management corporation or the managing
 (11) The court may make such order against any such person, the management corporation or the members of its council, or the managing agent, as the court thinks fit.
 
 (12) In this section, “lease” includes a tenancy agreement.
+
+[LT(S)A, s. 41]
 
 ### Exclusive use by-laws
 
@@ -1506,17 +1573,23 @@ shall, except to the extent that the by-law otherwise provides, be payable by th
 
 (7) A by-law made pursuant to subsection (1) —
 
-(a) need not identify or define the common property the subject of the grant of exclusive use and enjoyment or special privileges provided that the by-law prescribes a method of identifying or defining the common property; and
+(a) need not identify or define the common property which is the subject of the grant of exclusive use and enjoyment or special privileges provided that the by-law prescribes a method of identifying or defining the common property; and
 
 (b) may authorise the transposition of an identified or defined area of the common property from one subsidiary proprietor of a lot to another subsidiary proprietor of a lot at any time and from time to time on receipt of written notice to the management corporation from both such subsidiary proprietors.
 
-(8) Notwithstanding any provision in this Act, the owner developer of a staged development on a parcel shall, when carrying out any warranted development or authorised proposal in respect thereof, be entitled to use any common property, limited common property or future development lot within that parcel —
+\*(8) Notwithstanding any provision in this Act, the owner developer of a staged development on a parcel shall, when carrying out any warranted development or authorised proposal in respect thereof, be entitled to use any common property, limited common property or future development lot within that parcel —
 
 (a) to the extent necessary to carry out the development; or
 
 (b) to such other extent as may be specified in the staged development contract between the owner developer and any subsidiary proprietor of any lot comprised in the staged development, which may confer on the owner developer an exclusive (or any lesser) right to occupy the common property or limited common property.
 
-(9) Any right conferred by subsection (8) may be exercised notwithstanding any provision of the by-laws made under section 32 or this section, but shall be exercised in a manner that does not cause unreasonable inconvenience to any occupier of a lot.
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+
+\*(9) Any right conferred by subsection (8) may be exercised notwithstanding any provision of the by-laws made under section 32 or this section, but shall be exercised in a manner that does not cause unreasonable inconvenience to any occupier of a lot.
+
+[LT(S)A, s. 41]
+
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
 
 ### Dispositions and additions to, etc., common property
 
@@ -1526,7 +1599,9 @@ shall, except to the extent that the by-law otherwise provides, be payable by th
 
 (b) execute on their behalf a lease of or rent part of such common property for a period which exceeds 3 years,
 
-other than common property the subject of any lease accepted or acquired by the management corporation under subsection (3).
+other than common property which is the subject of any lease accepted or acquired by the management corporation under subsection (3).
+
+[42/2005]
 
 (2) Subject to such approval from the relevant authority, a management corporation may —
 
@@ -1534,7 +1609,7 @@ other than common property the subject of any lease accepted or acquired by the 
 
 (b) execute on their behalf a lease of or rent part of such common property to any person for a period which does not exceed one year and cannot be extended by exercise of any option of renewal to exceed an aggregate of one year,
 
-other than common property the subject of any lease accepted or acquired by the management corporation under subsection (3).
+other than common property which is the subject of any lease accepted or acquired by the management corporation under subsection (3).
 
 (3) A management corporation may, pursuant to a special resolution, and subject to such approval from the relevant authority, accept —
 
@@ -1550,6 +1625,8 @@ for the purpose of creating additional common property.
 
 (5) Where there are 2 or more management corporations established for separate parcels which are of the same tenure, the respective management corporations may, pursuant to respective special resolutions and subject to such approval from the relevant authority, accept and execute such instruments to amalgamate the common property within the parcels to be held by all the subsidiary proprietors of the respective management corporations as tenants-in-common in undivided shares.
 
+[LT(S)A, ss. 23(1), 25(1), 26(1)]
+
 ### Creation of easements by management corporation
 
 35\.—(1) Subject to subsection (2), a management corporation may, pursuant to a unanimous resolution —
@@ -1562,7 +1639,9 @@ for the purpose of creating additional common property.
 
 (d) accept on their behalf a surrender of a grant of easement or a restrictive covenant.
 
-(2) Subsection (1) shall not authorise a management corporation to accept or grant or execute a surrender of any easement relating to common property the subject of a lease accepted or acquired by the management corporation under section 34(3) that, apart from subsection (1), it is not entitled to accept or execute as a lessee or, by the terms of the lease, it is prevented from accepting or executing.
+(2) Subsection (1) shall not authorise a management corporation to accept, grant or execute a surrender of any easement relating to common property which is the subject of a lease accepted or acquired by the management corporation under section 34(3) that, apart from subsection (1), it is not entitled to accept or execute as a lessee or, by the terms of the lease, it is prevented from accepting or executing.
+
+[LT(S)A, s. 22(1)]
 
 ### Application by subsidiary proprietor to court regarding common property
 
@@ -1583,6 +1662,8 @@ for the purpose of creating additional common property.
 (c) the common property of 2 or more management corporations should be amalgamated,
 
 make an order directing the management corporation or management corporations to transfer such part of the common property, accept the transfer of the land or part thereof or lot, or execute an instrument of transfer of 2 or more parcels so that such parcels shall become vested as one parcel in all the subsidiary proprietors as tenants-in-common in so far as these parcels affect the common property, as the case may be, and lodge the transfer with the Registrar of Titles.
+
+[LT(S)A, s. 27(1) and (2)]
 
 ### Improvements and additions to lots
 
@@ -1612,7 +1693,7 @@ make an order directing the management corporation or management corporations to
 
 (c) any fee received by the management corporation under section 47;
 
-(d) any amounts paid to the management corporation by way of discharge of insurance claims; and
+(d) any amount paid to the management corporation by way of discharge of insurance claims; and
 
 (e) interest received on any investment belonging to the management fund.
 
@@ -1650,17 +1731,19 @@ make an order directing the management corporation or management corporations to
 
 (9A) No moneys in the management fund or sinking fund shall be used for any purpose of a collective sale of the property under Part VA of the Land Titles (Strata) Act (Cap. 158) other than for the purpose of convening any general meeting under the Second Schedule to that Act.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (9B) The moneys remaining in the management fund and sinking fund as at the date of the legal completion of a collective sale of the property in accordance with Part VA of the Land Titles (Strata) Act shall be returned as soon as practicable to the subsidiary proprietors of the lots in shares proportional to the contributions levied by the management corporation on the subsidiary proprietors in accordance with this Act.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (10) A management corporation shall —
 
 (a) cause proper books of account to be kept in respect of moneys received or expended by the management corporation showing the items in respect of which the moneys were received or expended; and
 
 (b) cause to be prepared, from the books referred to in paragraph (a), a proper statement of accounts of the management corporation in respect of each period commencing on the date the management corporation was constituted or the date up to which the last previous such statement was prepared and ending on a date not earlier than 4 months before each annual general meeting.
+
+[LT(S)A, ss. 48(1) and (2), 50]
 
 ### Management corporation to determine contributions by subsidiary proprietors
 
@@ -1690,6 +1773,8 @@ make an order directing the management corporation or management corporations to
 
 (4) A determination made by a management corporation under subsection (1) or (2) may specify that the amounts to be raised for the purposes therein referred to shall be raised by such regular periodic contributions as may be specified in the determination.
 
+[LT(S)A, s. 48(1)]
+
 ### Contributions by subsidiary proprietors
 
 40\.—(1) A management corporation may levy the contributions determined by it in accordance with section 39(1) or (2) or 41, and the contributions referred to in section 39(3), by serving on the subsidiary proprietors notice in writing of the contributions payable by them in respect of their respective lots.
@@ -1700,11 +1785,11 @@ make an order directing the management corporation or management corporations to
 
 (4) A person who has ceased to be a subsidiary proprietor of the lot shall only be liable to pay the contribution levied under this section or section 41 and which was unpaid at the time he ceased to be a subsidiary proprietor, plus the interest accruing on the unpaid contribution until such time as it is paid.
 
-(5) Without affecting the liability of the subsidiary proprietor of a lot in respect of any contribution levied under this section or section 41, where a mortgagee is in possession (whether by himself or any other person) of a lot, he shall be liable jointly and severally with the subsidiary proprietor of the lot which he is in possession ––
+(5) Without affecting the liability of the subsidiary proprietor of a lot in respect of any contribution levied under this section or section 41, where a mortgagee is in possession (whether by himself or any other person) of a lot, he shall be jointly and severally liable with the subsidiary proprietor of the lot which he is in possession —
 
-(a) for any contributions to a management fund or sinking fund by regular periodic instalments;
+(a) for any contribution to a management fund or sinking fund by regular periodic instalments;
 
-(b) for any other contribution if notice in writing of the levy of the contribution has been served on him; and
+(b) for any other contributions if notice in writing of the levy of the contribution has been served on him; and
 
 (c) for interest on any of those contributions.
 
@@ -1731,6 +1816,8 @@ make an order directing the management corporation or management corporations to
 (a) a mortgagee in possession and the person for the time being receiving the rent of the lot, whether as agent or trustee or as receiver, or who would receive the rent if the lot were let to a tenant; and
 
 (b) the person whose name is included in the Valuation List referred to in the Property Tax Act (Cap. 254) as the owner of the lot for the purposes of that Act.
+
+[LT(S)A, s. 42]
 
 ### Additional or variation of contributions
 
@@ -1762,11 +1849,15 @@ make an order directing the management corporation or management corporations to
 
 (b) for contributions payable by instalments — if the contribution is paid in full on or before the date specified in the notice for payment in full, or if the contributions are paid in another way stated in the resolution.
 
+[LT(S)A, s. 42]
+
 ### Contributions payable before first annual general meeting
 
 42\.—(1) Where the first annual general meeting of a management corporation constituted in respect of a strata title plan has not yet been convened, the subsidiary proprietor of each of the lots in the strata title plan shall, starting from the date of the management corporation is constituted, pay to the management corporation any sum which has been approved by the Commissioner under section 18 as the amount payable for the maintenance of the subdivided building and the common property.
 
 (2) The sum referred to in subsection (1) shall be deemed to be the amount determined by the management corporation as the contributions payable by the subsidiary proprietors to the management fund of the management corporation.
+
+[LT(S)A, s. 35]
 
 ### Recovery of contribution from sale of lot
 
@@ -1814,7 +1905,13 @@ and such amount or contribution remains unpaid on the expiry of a period of 30 d
 
 (6) For the purpose of registration of a charge, discharge or transfer under this section, the Registrar of Titles may dispense with the production of the relevant duplicate subsidiary strata certificate of title issued under the Land Titles (Strata) Act (Cap. 158).
 
-(7) Notwithstanding section 80 of the Land Titles Act (Cap. 157) and section 15 of the Registration of Deeds Act (Cap. 269), where further contributions and interest thereon are due to the management corporation after the registration of an instrument of charge under this section, or where the management corporation has incurred or become liable for any reasonable legal costs and reasonable expenses incurred in connection with the collection or attempted collection of the unpaid amount or contribution or further amount or contribution, such amount or contribution due (including interest thereon) and such legal costs and expenses shall rank in priority to any other claims as if the amount or contribution were due at the date of the registration of the charge.
+(7) Notwithstanding section 80 of the Land Titles Act (Cap. 157) and section 15 of the Registration of Deeds Act (Cap. 269) —
+
+(a) where further contributions and interest thereon are due to the management corporation after the registration of an instrument of charge under this section; or
+
+(b) where the management corporation has incurred or become liable for any reasonable legal costs and reasonable expenses incurred in connection with the collection or attempted collection of the unpaid amount or contribution or further amount or contribution,
+
+such amount or contribution due (including interest thereon) and such legal costs and expenses shall rank in priority to any other claims as if the amount or contribution were due at the date of the registration of the charge.
 
 (8) A charge under subsection (2) shall continue in force until all the amount or contributions (including interest thereon) and the legal costs and expenses, as the case may be, secured by the charge have been paid.
 
@@ -1822,11 +1919,15 @@ and such amount or contribution remains unpaid on the expiry of a period of 30 d
 
 (10) In this section, “public authority” means the Government, the Collector of Land Revenue, the Comptroller of Property Tax, and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily.
 
+[LT(S)A, s. 43]
+
 ### Liability of members for debts of management corporation
 
 44\.—(1) The payment of any expenditure lawfully incurred by a management corporation in the course of the exercise of any of its powers or functions or the carrying out of its duties or obligations shall, by virtue of this section, be guaranteed by the persons who, for the time being and from time to time, comprise the management corporation.
 
 (2) The subsidiary proprietor of a lot shall be liable only to pay the amount which he would have to pay if contributions were levied by the management corporation under section 40 or 41(6) to raise the necessary sum for the payment of the expenditure.
+
+[LT(S)A, s. 44]
 
 ### Audit of accounts of management corporation
 
@@ -1842,6 +1943,8 @@ and such amount or contribution remains unpaid on the expiry of a period of 30 d
 
 and the auditor shall hold office until the conclusion of the next annual general meeting of the management corporation.
 
+[LT(S)A, s. 56]
+
 ### Strata roll
 
 46\.—(1) A management corporation shall prepare and maintain a strata roll in accordance with this section.
@@ -1852,7 +1955,7 @@ and the auditor shall hold office until the conclusion of the next annual genera
 
 (a) the share value of the lot, as shown on the schedule of strata units accepted by the Commissioner under section 11;
 
-(b) the name and address of the subsidiary proprietor, as shown on the folio of the subsidiary strata land-register comprising the lot and the name of and address within Singapore for the service of the notices on the subsidiary proprietor of that lot as shown in notices given to the management corporation under section 65(2) or (3);
+(b) the name and address of the subsidiary proprietor, as shown on the folio of the subsidiary strata land-register comprising the lot and name of and address within Singapore for the service of notices on the subsidiary proprietor of that lot as shown in notices given to the management corporation under section 65(2) or (3);
 
 (c) the name of any mortgagee of the lot notice of whose mortgage has been given to the management corporation under section 65(4), the address within Singapore for the service of notices on him as shown in that notice and any other mortgages which are specified in that notice as having priority over his mortgage;
 
@@ -1866,9 +1969,11 @@ and the auditor shall hold office until the conclusion of the next annual genera
 
 (4) The management corporation shall record and maintain in the strata roll a copy of the by-laws for the time being in force with respect to the subdivided building.
 
+[LT(S)A, s. 53]
+
 ### Supply of information, etc., by management corporations
 
-47\.—(1) A management corporation shall, upon application made to it in writing in respect of a lot the subject of the subdivided building concerned by a subsidiary management corporation, or by a subsidiary proprietor or mortgagee or prospective purchaser or mortgagee of that lot or by a person authorised in writing by such a subsidiary proprietor or mortgagee and on payment of the prescribed fee, do any one or more of the following things as are required of it in the application:
+47\.—(1) A management corporation shall, upon application made to it in writing in respect of a lot which is the subject of the subdivided building concerned by a subsidiary management corporation, or by a subsidiary proprietor or mortgagee or prospective purchaser or mortgagee of that lot or by a person authorised in writing by such a subsidiary proprietor or mortgagee and on payment of the prescribed fee, do any one or more of the following things as are required of it in the application:
 
 (a) inform the applicant of the name and address of the chairperson, secretary and treasurer of the management corporation and of any person who has been appointed under section 66 as managing agent;
 
@@ -1878,7 +1983,7 @@ and the auditor shall hold office until the conclusion of the next annual genera
 
 (ii) the notices and orders referred to in section 29(1)(g);
 
-(iii) the plans, specifications, certificates, diagrams and other documents delivered under section 26(4);
+(iii) the plans, specifications, certificates, drawings and other documents delivered under section 26(4);
 
 (iv) the minutes of general meetings of the management corporation and of the council;
 
@@ -1910,6 +2015,8 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (4) A person entitled to inspect a document made available under subsection (1)(b) may take extracts from, or make a copy of, the document but may not, without the consent of the management corporation, remove the document from the custody of the management corporation for the purpose of inspecting the document, taking extracts therefrom or making a copy thereof.
 
+[LT(S)A, s. 54]
+
 ### Records, etc., of management corporation
 
 48\.—(1) A person who has possession or control of —
@@ -1924,9 +2031,11 @@ shall, within 7 days after service on him of notice of a resolution of the counc
 
 (2) Every management corporation shall retain all its records, books of account and such other documents relating to any of its transactions or operations for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those documents relate are completed.
 
-[2/2007 wef 01/03/2007]
+[2/2007]
 
 (3) Any management corporation which, without reasonable excuse, fails to comply with subsection (2) shall be guilty of an offence.
+
+[LT(S)A, s. 65]
 
 ### Restrictions on management corporation’s powers during initial period
 
@@ -1964,6 +2073,8 @@ unless —
 
 (iii) the owner developer, being in such a position, used all due diligence to prevent the contravention.
 
+[LT(S)A, s. 51]
+
 ### Permitted alterations to common property during initial period
 
 50\. A management corporation constituted in respect of any parcel comprised in a strata title plan may, during its initial period, carry out any alteration to or erection of any structure on common property as referred to in section 49(1)(b) if the management corporation is authorised to carry out that alteration or erection by a special resolution.
@@ -1984,6 +2095,8 @@ unless —
 
 (4) The Commissioner shall not make an order under this section unless he is satisfied that the order will serve the interests of the subsidiary proprietors or those persons having equitable interests in the lots.
 
+[LT(S)A, s. 52]
+
 ### Appeal against Commissioner’s decision
 
 52\.—(1) Any person who is aggrieved with any decision of the Commissioner under section 51 may, at any time within the period specified in the notice, appeal to the Minister against the decision in the prescribed manner.
@@ -1993,6 +2106,8 @@ unless —
 (3) The Minister may determine an appeal under this section by confirming, varying or cancelling the decision of the Commissioner under section 51.
 
 (4) The decision of the Minister in any appeal under this section shall be final.
+
+[LT(S)A, s. 107]
 
 Division 3 —
 
@@ -2048,7 +2163,7 @@ all of whom shall be natural persons elected or appointed in accordance with thi
 
 or such of his nominees, exceed the threshold number for that subsidiary proprietor determined in accordance with subsection (12).
 
-(9) Notwithstanding subsection (6) and without prejudice to subsections (7) and (8), an undischarged bankrupt shall be eligible for election as a member of a council if, and only if, his status as an undischarged bankrupt is declared in writing, whether by himself or by another, at the time of his nomination.
+(9) Notwithstanding subsection (6) and without prejudice to subsections (7) and (8), an undischarged bankrupt shall be eligible for election as a member of the council if, and only if, his status as an undischarged bankrupt is declared in writing, whether by himself or by another, at the time of his nomination.
 
 (10) Where there is no council of a management corporation, the parcel comprised in a strata title plan shall be administered by the management corporation constituted for that strata title plan, but nothing in this subsection shall prevent a managing agent appointed under this Act from exercising or performing any power, duty or function conferred or imposed upon him.
 
@@ -2061,6 +2176,8 @@ or such of his nominees, exceed the threshold number for that subsidiary proprie
 (b) 49% of the number of council members determined under subsection (1), ignoring any fraction,
 
 whichever number is lower.
+
+[LT(S)A, s. 60]
 
 ### Vacation of office of member of council
 
@@ -2086,9 +2203,11 @@ whichever number is lower.
 
 (h) if the person dies;
 
-(i) if the person becomes a mentally disordered person within the meaning of the Mental Disorders and Treatment Act (Cap. 178); or
+(i) if the person becomes mentally disordered and incapable of managing himself or his affairs; or
 
-(j) if the person is convicted, on or after the date of commencement of this section, by a court in Singapore or elsewhere of an offence involving fraud or dishonesty.
+[21/2008 wef 01/03/2010]
+
+(j) if the person is convicted, on or after 1st April 2005, by a court in Singapore or elsewhere of an offence involving fraud or dishonesty.
 
 (2) A management corporation may remove a member of its council from office —
 
@@ -2114,6 +2233,8 @@ whichever number is lower.
 
 (b) convening a general meeting of the management corporation for that purpose.
 
+[LT(S)A, s. 61]
+
 ### Chairperson, secretary and treasurer of council
 
 55\.—(1) The chairperson, secretary and treasurer of the council of a management corporation shall be the chairperson, secretary and treasurer of the management corporation.
@@ -2136,9 +2257,9 @@ whichever number is lower.
 
 whichever first happens.
 
-(5) Notwithstanding anything in this Act, a person appointed to the office of chairperson, secretary or treasurer of the council of a management corporation shall not resign his office until ––
+(5) Notwithstanding anything in this Act, a person appointed to the office of chairperson, secretary or treasurer of the council of a management corporation shall not resign his office until —
 
-(a) a meeting of the council is first convened for the purpose of appointing another person to fill his vacancy; and
+(a) a meeting of the council is first convened for the purpose of appointing another person to fill his vacancy; or
 
 (b) a general meeting is first convened for the purpose of electing another person to fill his vacancy,
 
@@ -2153,6 +2274,8 @@ and any purported resignation or vacation of office in breach of this subsection
 shall be jointly and severally liable for the payment of all the debts of the management corporation contracted during the period after those 6 months or, as the case may be, that part of it, and may be sued therefore.
 
 (7) Notwithstanding any other provision of this Act, no individual shall be elected or appointed under this section to hold office as the treasurer of any management corporation or the treasurer of a council for more than 2 consecutive terms.
+
+[LT(S)A, s. 62, 1st Sch. Para 1]
 
 ### Duties of secretary of council
 
@@ -2172,11 +2295,13 @@ shall be jointly and severally liable for the payment of all the debts of the ma
 
 (g) to attend to matters of an administrative or secretarial nature in connection with the exercise, by the management corporation or the council, of its functions.
 
+[LT(S)A, 1st Sch. Para 4]
+
 ### Duties of treasurer of council
 
 57\.—(1) The duties of the treasurer of the council of a management corporation shall include the following:
 
-(a) to notify subsidiary proprietors of any contributions levied in accordance with this Act;
+(a) to notify subsidiary proprietors of any contribution levied in accordance with this Act;
 
 (b) to receive, acknowledge, bank and account for any money paid to the management corporation;
 
@@ -2198,6 +2323,8 @@ shall be jointly and severally liable for the payment of all the debts of the ma
 
 (5) The council of a management corporation may, by notice in writing served on the treasurer of the management corporation, order that he shall not exercise or perform any of his powers, duties or functions that are specified in the notice, unless he does so jointly with another person so specified.
 
+[LT(S)A, s. 62, 1st Sch. Para 5]
+
 ### Council’s decisions to be decisions of management corporation
 
 58\.—(1) Subject to the provisions of this Act, the decision of a council on any matter, other than a restricted matter, shall be the decision of the management corporation.
@@ -2212,9 +2339,13 @@ shall be jointly and severally liable for the payment of all the debts of the ma
 
 (b) any matter referred to in section 59 and specified in a resolution of that management corporation passed for the purposes of that section.
 
+[LT(S)A, s. 63]
+
 ### Restrictions imposed on council by management corporation
 
 59\. A management corporation may in a general meeting decide what matters or class of matters, if any, shall be determined only by the management corporation in a general meeting.
+
+[LT(S)A, s. 64]
 
 ### Disclosure of interests in contracts, property, offices, etc.
 
@@ -2254,6 +2385,8 @@ as the case requires.
 
 (10) Any member of a council who fails to comply with any provision of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[LT(S)A, s. 66]
+
 ### Duty and liability of council members and officers
 
 61\.—(1) A member of a council shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office.
@@ -2274,6 +2407,8 @@ as the case requires.
 
 “officer” includes a person who at any time has been an officer of a management corporation.
 
+[LT(S)A, s. 67]
+
 Division 4 —
 
 Subsidiary proprietors and occupiers
@@ -2286,9 +2421,11 @@ Subsidiary proprietors and occupiers
 
 (b) the quantum of the undivided share of the subsidiary proprietor of that lot in the common property comprised in that strata title plan; and
 
-(c) subject to sections 41 and 108(3), the amount of contributions that may be levied by a management corporation on the subsidiary proprietor of the lot.
+(c) subject to sections 41 and 108(3), the amount of contributions that may be levied by a management corporation on the subsidiary proprietor of that lot.
 
 (2) Except as provided in this Act or the Land Titles (Strata) Act (Cap. 158), the share value of any lot shall not be altered in any manner on or after the date of constitution of the management corporation.
+
+[LT(S)A, ss. 11(1), 30(2)]
 
 ### Duties of subsidiary proprietors and other occupiers of lots
 
@@ -2306,6 +2443,8 @@ Subsidiary proprietors and occupiers
 
 (d) use or enjoy the common property in such a manner or for such a purpose as to interfere unreasonably with the use or enjoyment of any other lot by the occupier of the lot (whether that person is a subsidiary proprietor or not) or by any other person entitled to the use and enjoyment of that lot.
 
+[LT(S)A, s. 57]
+
 ### Individuals may act for corporate subsidiary proprietors and mortgagees
 
 64\.—(1) A company may, and shall be deemed always to have been able to, authorise an individual to exercise or perform on its behalf any power, duty or function conferred by this Act on the company as subsidiary proprietor or mortgagee of a lot and may revoke the authority of any individual so authorised.
@@ -2315,6 +2454,8 @@ Subsidiary proprietors and occupiers
 (3) Nothing in subsection (1) or (2) shall affect any liability or obligation imposed under this Act on a corporation which is a subsidiary proprietor or mortgagee of a lot.
 
 (4) A document under the seal of a subsidiary proprietor which is a company purporting to be an authorisation or a revocation of such an authorisation under subsection (1) is admissible in evidence and shall, until the contrary is proved, be deemed to be such an authorisation or revocation, as the case may be.
+
+[LT(S)A, s. 58]
 
 ### Notices to be given by subsidiary proprietors and mortgagees
 
@@ -2330,7 +2471,7 @@ Subsidiary proprietors and occupiers
 
 (4) After the delivery to a mortgagee of an executed mortgage of a lot, the mortgagee may give to the management corporation written notice of the mortgage which shall identify the lot and —
 
-(a) specify the name of the mortgagee in full and an address within Singapore for the service of notices on the mortgagee and the date on which the mortgage was so delivered; and
+(a) specify the name of the mortgagee in full and an address within Singapore for the service of notices on the mortgagee and the date on which the mortgage was so delivered;
 
 (b) specify any mortgages of the lot which have priority over the mortgage referred to in the notice; and
 
@@ -2362,6 +2503,8 @@ Subsidiary proprietors and occupiers
 
 (11) A notice referred to in subsection (10) may be included in any other notice that the subsidiary proprietor to which it relates or any other person is entitled under this section to give to the management corporation.
 
+[LT(S)A, s. 59]
+
 Division 5 —
 
 Managing agents
@@ -2386,9 +2529,11 @@ whichever first occurs.
 
 (3) The fees and expenses of a managing agent shall be fixed —
 
-(a) where the managing agent is appointed under subsection (1)(a) — by the management corporation at a general meeting or, if so authorised by the subsidiary proprietors at the last preceding general meeting, by the council of the management corporation;
+(a) where the managing agent is appointed under subsection (1)(a), by the management corporation at a general meeting or, if so authorised by the subsidiary proprietors at the last preceding general meeting, by the council of the management corporation; or
 
-(b) where the managing agent is appointed under subsection (1)(b) — by the council of the management corporation without a general meeting.
+(b) where the managing agent is appointed under subsection (1)(b), by the council of the management corporation without a general meeting.
+
+[47/2007]
 
 (4) A managing agent who is in any way, directly or indirectly, related to a subsidiary proprietor of a lot in the subdivided building concerned shall declare in writing the nature of his relationship prior to his appointment.
 
@@ -2399,6 +2544,8 @@ whichever first occurs.
 (a) if authorised by ordinary resolution at a general meeting; or
 
 (b) without a general meeting if authorised by its subsidiary proprietors at the last preceding general meeting.
+
+[LT(S)A, s. 68]
 
 ### Delegated duty and liability of managing agent
 
@@ -2416,7 +2563,7 @@ whichever first occurs.
 
 (b) a decision on any matter which may, in accordance with any provision of this Act or the by-laws, only be made by the management corporation pursuant to a unanimous resolution, a special resolution, a 90% resolution, a resolution by consensus or at a general meeting of the management corporation; or
 
-(c) any matter referred to in section 59 and specified in a resolution of that management corporation passed for the purposes of that section.
+(c) a decision on any matter referred to in section 59 and specified in a resolution of that management corporation passed for the purposes of that section.
 
 (3) Where an ordinary resolution of the management corporation so provides, a managing agent shall have and may exercise the powers and perform all the duties and functions of the chairperson, secretary or treasurer or the council of the management corporation or such of those powers, duties and functions as may be specified in the resolution.
 
@@ -2446,6 +2593,8 @@ whichever first occurs.
 
 the provision shall, while the delegation remains in force, be construed as if a reference therein to the management corporation were a reference to the managing agent.
 
+[LT(S)A, ss. 68, 69]
+
 ### Prohibited activity for managing agent
 
 68\.—(1) Subject to this Act, no managing agent shall, whether personally or in the person of his employee or agent —
@@ -2473,6 +2622,8 @@ the provision shall, while the delegation remains in force, be construed as if a
 (c) a decision of the management corporation not to proceed with, to withdraw, to delay, to compromise or to settle litigation or other legal proceedings relating to the proxy; or
 
 (d) any other decision of the management corporation that affects litigation or other legal proceedings relating to the proxy.
+
+[47/2007]
 
 Division 6 —
 
@@ -2508,11 +2659,15 @@ but does not include —
 
 (ii) anything prescribed as not forming part of a subdivided building for the purposes of this definition.
 
+[LT(S)A, s. 70]
+
 ### Insurance of subdivided buildings
 
 70\.—(1) Unless otherwise directed by a resolution by consensus, the management corporation constituted in respect of a strata title plan shall insure every subdivided building shown in the strata title plan and keep the building insured under a damage policy.
 
 (2) A damage policy may provide that, instead of the work and the payments specified in the definition of “damage policy” in section 69 being carried out or made upon the occurrence of any of the events specified in that definition, the liability of the insurer shall, upon the occurrence of any such event, be limited to an amount specified in the policy that is not less than an amount calculated in the prescribed manner.
+
+[LT(S)A, s. 71]
 
 ### Further insurance by management corporation
 
@@ -2523,6 +2678,8 @@ but does not include —
 (b) in respect of damage to property, death or bodily injury occurring upon the common property for which the management corporation could become liable in damages; and
 
 (c) against the possibility of the subsidiary proprietors becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the management corporation pursuant to a special resolution decides to insure.
+
+[5/2008]
 
 (2) Insurance effected under subsection (1)(b) shall be for a cover of such amount as the management corporation determines that is not less than an amount prescribed by the regulations.
 
@@ -2536,11 +2693,15 @@ but does not include —
 
 (7) Where an insurer of a management corporation admits a claim by the management corporation based on an act or omission by a subsidiary proprietor who is a member of the management corporation, the insurer shall not have a right of subrogation in relation to the subsidiary proprietor based on that act or omission unless it was proved that the act or omission is wilful.
 
+[LT(S)A, s. 72]
+
 ### Insurance by subsidiary proprietor
 
 72\.—(1) Nothing in this Part shall limit or affect any right of a subsidiary proprietor to effect insurance.
 
 (2) Insurance effected by a subsidiary proprietor shall not affect, and shall not be taken into consideration in determining, the amount payable to a management corporation under a contract of insurance entered into between it and an insurer under this Part, notwithstanding anything in that contract of insurance.
+
+[LT(S)A, s. 73]
 
 ### Insurance of mortgaged lot
 
@@ -2566,13 +2727,19 @@ but does not include —
 
 as that referred to in the contract of insurance first-mentioned in this subsection.
 
+[LT(S)A, s. 74]
+
 ### Rebuilding
 
 74\. Subject to any order made under section 77 or 78 of the Land Titles (Strata) Act (Cap. 158) (relating to the termination of a strata subdivision scheme), where a management corporation receives payment of moneys from an insurer in respect of destruction of or damage to a subdivided building, those moneys shall immediately be applied by the management corporation in rebuilding, replacing, repairing or restoring the subdivided building, as the case may require.
 
+[LT(S)A, s. 75]
+
 ### Insurable interest of management corporation
 
 75\. A management corporation shall be deemed to have an insurable interest in the subject-matter of any contract of insurance entered into by it under this Division.
+
+[LT(S)A, s. 76]
 
 Division 7 —
 
@@ -2594,7 +2761,7 @@ Subsidiary management corporations and limited common property
 
 ### Limited common property and subsidiary management corporations allowed
 
-77\.—(1) A, a strata title plan may have limited common property and one or more subsidiary management corporations only for the purpose of representing the different interests of —
+77\.—(1) A strata title plan may have limited common property and one or more subsidiary management corporations only for the purpose of representing the different interests of —
 
 (a) subsidiary proprietors of residential lots and subsidiary proprietors of non-residential lots;
 
@@ -2602,9 +2769,11 @@ Subsidiary management corporations and limited common property
 
 (i) if they use their lots for significantly different purposes; or
 
-(ii) if the lots of some of these subsidiary proprietors are comprised in a building that is physically detached from other lots in the strata title plan, the creation of any limited common property to represent the interests of these subsidiary proprietors will not adversely affect the use of enjoyment of the lots of the other subsidiary proprietors and the conditions prescribed, if any, for this purpose are satisfied; or
+(ii) if the lots of some of these subsidiary proprietors are comprised in a building that is physically detached from other lots in the strata title plan, the creation of any limited common property to represent the interests of these subsidiary proprietors will not adversely affect the use or enjoyment of the lots of the other subsidiary proprietors and the conditions prescribed, if any, for this purpose are satisfied; or
 
 (c) subsidiary proprietors of different types of residential lots.
+
+[47/2007]
 
 (2) For the purposes of subsection (1)(c), lots are of different types if they fall within the criteria prescribed in regulations.
 
@@ -2618,7 +2787,7 @@ Subsidiary management corporations and limited common property
 
 (ii) by the management corporation constituted in respect of that strata title plan pursuant to a comprehensive resolution and in accordance with subsection (2)(b); or
 
-(b) where the common property is part of a parcel referred to in an order made under section 76(2) — by the management corporation constituted in respect of that strata title plan pursuant to a comprehensive resolution and in accordance with subsection (2)(b).
+(b) where the common property is part of a parcel referred to in an order made under section 76(2), by the management corporation constituted in respect of that strata title plan pursuant to a comprehensive resolution and in accordance with subsection (2)(b).
 
 (2) Subject to subsection (3), common property comprised or to be comprised in a strata title plan shall be designated as limited common property —
 
@@ -2646,7 +2815,7 @@ Subsidiary management corporations and limited common property
 
 (a) by an owner developer of a parcel to be comprised in a strata title plan shall take effect only when the management corporation is constituted for that strata title plan under the Land Titles (Strata) Act (Cap. 158); or
 
-(b) by comprehensive resolution under subsection (2)(b) shall take effect only when the comprehensive resolution is filed with the Chief Surveyor.
+(b) by a comprehensive resolution under subsection (2)(b) shall take effect only when the comprehensive resolution is filed with the Chief Surveyor.
 
 (5) Any designation of common property as limited common property by an owner developer may only be removed or amended in accordance with subsection (6) or (7) or section 84.
 
@@ -2654,7 +2823,7 @@ Subsidiary management corporations and limited common property
 
 (a) the management corporation, pursuant to a comprehensive resolution under subsection (2)(b), determines to alter the boundary between its common property and the limited common property; and
 
-(b) the subsidiary management corporation, pursuant to a comprehensive resolution under subsection (2)(b), also determines to similarly alter the boundary between its common property and the limited common property.
+(b) the subsidiary management corporation, pursuant to a comprehensive resolution under subsection (2)(b), also determines to similarly alter the boundary between its limited common property and the common property.
 
 (7) Subject to subsection (8), a subsidiary management corporation constituted for any limited common property subject to a strata title plan and any other subsidiary management corporation constituted for other limited common property subject to the same strata title plan may, without affecting the boundaries of their respective limited common properties with the common property within that strata title plan, accept and execute such documents to amalgamate their respective limited common properties or alter any boundary between their respective limited common properties within the strata title plan if —
 
@@ -2662,7 +2831,7 @@ Subsidiary management corporations and limited common property
 
 (i) to alter the boundary between its limited common property and the other subsidiary management corporation’s limited common property; or
 
-(ii) to amalgamate its limited common property with the other subsidiary management corporation’s limited common property and to merge both subsidiary management corporations to constitute a single subsidiary management corporation for the amalgamated limited common property, seized of, holding and possessing all rights and interests and subject to all liabilities and obligations of the amalgamating subsidiary management corporations; and
+(ii) to amalgamate its limited common property with the other subsidiary management corporation’s limited common property and to merge both subsidiary management corporations to constitute a single subsidiary management corporation for that amalgamated limited common property, seized of, holding and possessing all rights and interests and subject to all liabilities and obligations of the amalgamating subsidiary management corporations; and
 
 (b) that other subsidiary management corporation, pursuant to a comprehensive resolution under subsection (2)(b), also determines similarly —
 
@@ -2682,11 +2851,11 @@ Subsidiary management corporations and limited common property
 
 (b) be a body corporate capable of suing and being sued and having perpetual succession and a common seal; and
 
-(c) be called “The Subsidiary Management Corporation No. _____ — Strata Title Plan No.____” (the number to be specified being the number of the strata title plan).
+(c) be called “The Subsidiary Management Corporation No. ______ — Strata Title Plan No. ______” (the number to be specified being the number of the strata title plan).
 
 (2) After the creation of any limited common property, the management corporation shall retain its powers and duties in matters concerning common property.
 
-(3) The subsidiary management corporation shall have the same powers and duties as the management corporation with respect to any matter that relates solely to the limited common property designated for the exclusive benefit of all subsidiary proprietors comprising the subsidiary management corporation except the powers under section 34(1)(a), (3) and (5), sections 35, 37, 46 and 86 and Division 6 of this Part, and unless expressly otherwise provided, the provisions of this Part shall apply, with the necessary modifications, to subsidiary management corporations as they apply to management corporations.
+(3) The subsidiary management corporation shall have the same powers and duties as the management corporation with respect to any matter that relates solely to the limited common property designated for the exclusive benefit of all subsidiary proprietors comprising the subsidiary management corporation except the powers or duties under section 34(1)(a), (3) and (5), sections 35, 37, 46 and 86 and Division 6 of this Part, and unless expressly otherwise provided, the provisions of this Part shall apply, with the necessary modifications, to subsidiary management corporations as they apply to management corporations.
 
 (4) Without prejudice to the generality of subsection (3), the subsidiary management corporation shall —
 
@@ -2708,7 +2877,7 @@ Subsidiary management corporations and limited common property
 
 (7) For the purposes of subsection (6), a subsidiary management corporation shall have the same insurable interest in its limited common property as the management corporation has in property contained within common property.
 
-(8) Notwithstanding any other provisions of this Act, a subsidiary management corporation for any limited common property comprised in a strata title plan may manage and maintain —
+(8) Notwithstanding any other provision of this Act, a subsidiary management corporation for any limited common property comprised in a strata title plan may manage and maintain —
 
 (a) any common property within that same strata title plan; or
 
@@ -2734,15 +2903,17 @@ upon such terms and conditions as may be agreed between the subsidiary managemen
 
 81\. The expenses of a subsidiary management corporation that relate solely to its limited common property shall be shared by the subsidiary proprietors from time to time of all lots entitled under this Division to the exclusive use of the limited common property, and each lot’s share of contribution shall be calculated as follows:
 
-A x C
+Where A
+
+is the share value of a lot;
 
 B
 
-where A is the share value of a lot;
+is the aggregate share value of all lots entitled under this Division to the exclusive use of the limited common property; and
 
- B is the aggregate share value of all lots entitled under this Division to the exclusive use of the limited common property; and
+C
 
- C is the total contributions determined by the subsidiary management corporation as payable by subsidiary proprietors of all lots entitled under this Division to the exclusive benefit of the limited common property.
+is the total contributions determined by the subsidiary management corporation as payable by subsidiary proprietors of all lots entitled under this Division to the exclusive benefit of the limited common property.
 
 ### By-laws for limited common property
 
@@ -2754,7 +2925,7 @@ where A is the share value of a lot;
 
 (2) A subsidiary management corporation may make by-laws relating to the limited common property designated for the exclusive use of all the lots in the subsidiary management corporation.
 
-(3) Without limiting the operation of any other provisions of this Act, any by-laws made by a subsidiary management corporation under this section for the time being in force shall bind the subsidiary management corporation and the subsidiary proprietors of lots constituting that subsidiary management corporation, and any mortgagee in possession (whether by himself or any other person), lessee or occupier of such a lot to the same extent as if the by-laws —
+(3) Without limiting the operation of any other provision of this Act, any by-laws made by a subsidiary management corporation under this section for the time being in force shall bind the subsidiary management corporation and the subsidiary proprietors of lots constituting that subsidiary management corporation, and any mortgagee in possession (whether by himself or any other person), lessee or occupier of such a lot to the same extent as if the by-laws —
 
 (a) had been signed and sealed by the subsidiary management corporation, and each such subsidiary proprietor and each such mortgagee, lessee and occupier, respectively; and
 
@@ -2764,7 +2935,7 @@ where A is the share value of a lot;
 
 ### Judgments against management corporation relating to limited common property
 
-83\.—(1) If a judgment against the management corporation relates solely to the lots whose subsidiary proprietors constitute a subsidiary management corporation, the judgment shall be against only the subsidiary proprietors of those lots.
+83\.—(1) If a judgment against a management corporation relates solely to the lots whose subsidiary proprietors constitute a subsidiary management corporation, the judgment shall be against only the subsidiary proprietors of those lots.
 
 (2) A lot’s share of a judgment referred to in subsection (1) shall be calculated in accordance with section 81 as if the amount of the judgment were a contribution to the management fund and sinking fund, and a subsidiary proprietor’s liability shall be limited to that proportionate share of the judgment.
 
@@ -2796,6 +2967,8 @@ Termination of strata scheme
 
 (3) Nothing in this section shall apply in derogation of Part V of the Land Titles (Strata) Act (Cap. 158).
 
+[LT(S)A, s. 81(1)]
+
 Division 9 —
 
 Miscellaneous
@@ -2818,6 +2991,8 @@ the proceedings may be taken by or against the management corporation in the cas
 
 (b) the same proportion as calculated in accordance with section 81, in the case of a judgment or an order for or against a subsidiary management corporation.
 
+[LT(S)A, s. 116]
+
 ### Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects
 
 86\. Where —
@@ -2827,6 +3002,8 @@ the proceedings may be taken by or against the management corporation in the cas
 (b) the subsidiary proprietor of the lot in that condition has neglected or refused within a reasonable time to take any proceedings for the purpose of exercising any right or enforcing any remedy available to him to have that condition rectified,
 
 the management corporation may, as agent for the subsidiary proprietor of the lot in that condition but at its own expense, take any of the proceedings referred to in paragraph (b).
+
+[LT(S)A, s. 117]
 
 ### Costs in proceedings by subsidiary proprietors against management corporation, etc.
 
@@ -2842,6 +3019,8 @@ the court or a Board may order that any moneys (including costs) payable by the 
 
 (3) Section 40 (with the exception of subsection (2)) shall apply to and in respect of contributions levied under subsection (2) in the same way as it applies to contributions levied under that section.
 
+[LT(S)A, s. 118]
+
 ### Breaches of this Part
 
 88\.—(1) If a management corporation or subsidiary management corporation commits a breach of any provision of this Part, or makes default in complying with any requirement of, or duty imposed on it by, any provision of this Part, a subsidiary proprietor or mortgagee in possession or occupier of a lot shall be entitled to apply to the court —
@@ -2852,9 +3031,11 @@ the court or a Board may order that any moneys (including costs) payable by the 
 
 the management corporation or subsidiary management corporation, as the case may be.
 
-(2) The court may make such order against any such person, the management corporation or the members of its council, or subsidiary management corporation or its executive committee, or the managing agent, as the court thinks fit.
+(2) The court may make such order against any such person, the management corporation or the members of its council, or the subsidiary management corporation or its executive committee, or the managing agent, as the court thinks fit.
 
 (3) Where a requirement or duty is imposed on a management corporation or subsidiary management corporation by this Part, any person for whose benefit, or for the benefit of whose lot that requirement or duty is imposed on the management corporation or subsidiary management corporation, as the case may be, may apply to the court for an order compelling the management corporation or subsidiary management corporation, as the case may be, to carry out the requirement or perform the duty and, on such an application being made, the court may make such order as it thinks proper.
+
+[LT(S)A, s. 120]
 
 ## PART VI
 
@@ -2876,7 +3057,7 @@ Strata Titles Boards
 
 (b) 2 or 4 members selected by the president for the purposes of the dispute or matter from the panel constituted under section 90(4).
 
-(4) Any party to a dispute of which a Board has cognizance or a matter with respect to which a Board has jurisdiction under this Act or the Land Titles (Strata) Act may, within the prescribed period and for any reasonable cause, object in writing to any member of the Board selected by the president under subsection (3)(b).
+(4) Any party to a dispute of which a Board has cognizance or a matter with respect to which a Board has jurisdiction under this Act or the Land Titles (Strata) Act (Cap. 158) may, within the prescribed period and for any reasonable cause, object in writing to any member of the Board selected by the president under subsection (3)(b).
 
 (5) The Board shall be constituted —
 
@@ -2886,37 +3067,47 @@ Strata Titles Boards
 
 (c) if any objection received under subsection (4) is disallowed by the president, upon the decision to disallow the objection.
 
+[LT(S)A, s. 86]
+
 ### President, etc., and panel
 
 90\.—(1) The Minister shall appoint a president of the Boards.
 
 (2) The Minister may appoint such number of deputy presidents of the Boards as he may consider necessary.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (3) No person shall be appointed as the president or a deputy president of the Boards unless the person is a qualified person within the meaning of the Legal Profession Act (Cap. 161).
 
 (4) For the purpose of enabling the Boards to be constituted under this Part, the Minister shall appoint a panel consisting of such number of persons as he may consider necessary and shall publish their names in theGazette.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (5) The president, a deputy president and any person appointed as a member of the panel constituted under subsection (4) shall, subject to subsection (6), be appointed for a term not exceeding 3 years, and shall be eligible for reappointment.
 
+[46/2007]
+
 (6) The Minister may at any time terminate the appointment of the president or any deputy president or member of the panel constituted under subsection (4), and fill any vacancy in its membership.
+
+[LT(S)A, ss. 86, 87]
 
 ### Protection of Board members
 
 91\. The president, a deputy president and a member of a Board shall, in the performance of his functions and duties under this Act or the Land Titles (Strata) Act (Cap. 158), have the same protection and immunity as a District Judge.
 
+[LT(S)A, s. 89]
+
 ### Proceedings of Board
 
-92\.—(1) A Board shall, without delay after being constituted in respect of any dispute or matter with respect to which it has jurisdiction under this Part —
+92\.—(1) A Board shall, without delay after being constituted in respect of any dispute or matter with respect to which it has jurisdiction under this Act —
 
 (a) endeavour to mediate all matters that are in dispute and to bring about an agreement between the parties on those matters; and
 
 (b) if the Board is unable to do so at the end of a period (continuous or otherwise) of not more than 3 days of mediation, hear the parties to the dispute, arbitrate the matter and render a decision and make an order.
 
-(2) Subject to the provisions of this Act or the Land Titles (Strata) Act (Cap. 158), a Board shall determine the procedure for mediation-arbitration, but shall allow the parties to present evidence and make submissions to it.
+[13/2010 wef 15/07/2010]
+
+(2) Subject to the provisions of this Act or the Land Titles (Strata) Act, a Board shall determine the procedure for mediation-arbitration, but shall allow the parties to present evidence and make submissions to it.
 
 (3) Without prejudice to subsection (2), a Board shall —
 
@@ -2948,6 +3139,8 @@ Strata Titles Boards
 
 (9) A Board shall carry out its work expeditiously and shall make a final order or determination within 6 months from the date it is constituted or within such extension of time as may be granted by the Minister.
 
+[LT(S)A, ss. 91, 93]
+
 ### Continuation of hearing
 
 93\.—(1) Except as otherwise provided in subsection (3), where a Board has been constituted in relation to a dispute or matter and before a dispute or matter has been determined, the president or deputy president presiding or a member constituting the Board is unable to hear or continue to hear or to determine the dispute or matter or has ceased to be the president or a deputy president or member, as the case may be, whether by resignation, death or otherwise, the Board shall be reconstituted in accordance with section 89.
@@ -2956,15 +3149,19 @@ Strata Titles Boards
 
 (3) Notwithstanding subsection (1), a president, a deputy president or a member of the panel whose appointment expires during the course of any proceedings of a Board of which he is then presiding or is a member shall, for the purpose of such proceedings and until their determination, be deemed to remain a president, deputy president or member of the Board, as the case may be.
 
+[LT(S)A, ss. 87(3), 88]
+
 ### Representation before Board
 
 94\.—(1) A party to any proceedings under this Act or the Land Titles (Strata) Act (Cap. 158) may appear before a Board or may be represented by an advocate and solicitor of the Supreme Court, or such other person as the Board may allow, who may examine witnesses and address the Board on behalf of the party.
 
 (2) A management corporation or subsidiary management corporation appearing before a Board may be represented by an advocate and solicitor of the Supreme Court, a member of the council of the management corporation or the executive committee of the subsidiary management corporation, or such other person as the Board may allow.
 
+[LT(S)A, s. 110]
+
 ### Board has no jurisdiction regarding title to land
 
-95\. Notwithstanding any other provisions of this Part, a Board shall not have jurisdiction under this Part in any case in which the title to land is in question otherwise than for the purpose of determining any matter before the Board, as the case may be, and any determination made by the Board shall not have any force or effect except as provided by this Act.
+95\. Notwithstanding any other provision of this Part, a Board shall not have jurisdiction under this Part in any case in which the title to land is in question otherwise than for the purpose of determining any matter before the Board, as the case may be, and any determination made by the Board shall not have any force or effect except as provided by this Act.
 
 ### Witnesses may be summoned by Board
 
@@ -2973,6 +3170,8 @@ Strata Titles Boards
 (2) A person served with a summons under subsection (1) who, without reasonable excuse, disobeys the summons shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (3) A person shall not be bound to produce any book, document or writing not specified or otherwise sufficiently described in the summons or which he would not be bound to produce upon a subpoena for production in a court.
+
+[LT(S)A, s. 111]
 
 ### Board may administer oath or affirmation
 
@@ -2994,6 +3193,8 @@ Strata Titles Boards
 
 as he would have had if he had been a witness before a court instead of the Board.
 
+[LT(S)A, s. 112]
+
 ### Appeal to High Court on question of law
 
 98\.—(1) No appeal shall lie to the High Court against an order made by a Board under this Part or the Land Titles (Strata) Act (Cap. 158) except on a point of law.
@@ -3001,6 +3202,8 @@ as he would have had if he had been a witness before a court instead of the Boar
 (2) Where an appeal is made to the High Court, the Court may confirm, vary or set aside the order or remit the order to the Board for reconsideration together with such directions as the Court thinks fit.
 
 (3) The filing of a notice of appeal shall not operate as a stay of execution of an order or suspend the effect of an order unless the Board or the High Court, as the case may be, otherwise orders and any stay or suspension of an order may be subject to such conditions as the Board or High Court thinks fit.
+
+[LT(S)A, s. 108]
 
 ### Officers of Boards
 
@@ -3020,9 +3223,15 @@ as he would have had if he had been a witness before a court instead of the Boar
 
 and includes any direction about the conduct of that proceeding, but does not include any interim order or any order making a final determination as regards that proceeding.
 
+[LT(S)A, s. 92]
+
 ### Allowances
 
 100\. A member of a panel who is a member of a Board for the purposes of hearing a dispute or matter may, in respect of each day on which the Board is engaged in mediating or arbitrating the dispute or matter, be paid such allowances as the Minister may determine.
+
+[LT(S)A, s. 90]
+
+[46/2007]
 
 Division 2 —
 
@@ -3048,7 +3257,7 @@ Types of orders by Board
 
 (4) For the purposes of this section, where a management corporation or subsidiary management corporation has a discretion as to whether or not to exercise or perform a power, duty or function conferred or imposed on it by this Act or the by-laws, it shall be deemed to have refused or failed to exercise or perform that power, duty or function only if it has decided not to exercise or perform that power, duty or function.
 
-(5) For the purposes of subsection (4), where an application is made to a management corporation or subsidiary management corporation to exercise a discretion referred to in that subsection, and the management corporation or subsidiary management corporation, does not, before the expiration of 2 months after the making of the application —
+(5) For the purposes of subsection (4), where an application is made to a management corporation or subsidiary management corporation to exercise a discretion referred to in that subsection, and the management corporation or subsidiary management corporation does not, before the expiration of 2 months after the making of the application —
 
 (a) exercise or perform a power, duty or function in accordance with the application; or
 
@@ -3066,11 +3275,13 @@ the management corporation or subsidiary management corporation, as the case may
 
 (b) on any finishing material (including plaster, panel or gypsum board) attached, glued, laid or applied to the ceiling that forms part of the interior of the lot, common property or limited common property, as the case may be, immediately below.
 
+[LT(S)A, s. 103]
+
 ### Order to convene meetings
 
 102\.—(1) A Board may, on application and if it considers it to be in the interest of the management corporation or subsidiary management corporation, as the case may be, make an order appointing a person nominated by the applicant (and who has consented to that nomination) to convene —
 
-(a) a meeting of the management corporation or subsidiary management corporation, as the case may be, if, after the first annual general meeting ––
+(a) a meeting of the management corporation or subsidiary management corporation, as the case may be, if, after the first annual general meeting —
 
 (i) there is no council or executive committee; or
 
@@ -3096,6 +3307,8 @@ for the purpose of electing or appointing a person or persons to fill the vacanc
 
 (7) Only a subsidiary proprietor or other person entitled to vote at a meeting may make an application under this section for an order to convene that meeting.
 
+[LT(S)A, s. 94]
+
 ### Order to invalidate proceedings
 
 103\.—(1) Where, pursuant to an application by a subsidiary proprietor or first mortgagee of a lot, a Board considers that the provisions of this Act have not been complied with in relation to a meeting of the management corporation or subsidiary management corporation, the Board may, by order —
@@ -3109,6 +3322,8 @@ for the purpose of electing or appointing a person or persons to fill the vacanc
 (a) that the failure to comply with the provisions of this Act did not prejudicially affect any person; and
 
 (b) that compliance with the provisions of this Act would not have resulted in a failure to pass the resolution, or have affected the result of the election, as the case may be.
+
+[LT(S)A, s. 97]
 
 ### Order where voting rights denied or due notice of item of business not given
 
@@ -3130,6 +3345,8 @@ the Board may order that the resolution be treated as a nullity on and from the 
 
 the by-law shall, subject to its having been or being amended, added to or repealed under section 32, 33 or 82, as the case may be, have force and effect on and from the date the order is so made to the same extent as it would have had if the resolution had not been passed.
 
+[LT(S)A, s. 100]
+
 ### Order revoking amendment of by-law
 
 105\.—(1) Where, pursuant to an application by any person entitled to vote at a meeting of the management corporation or subsidiary management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that, having regard to the interest of all subsidiary proprietors in the use and enjoyment of their lots or the common property or (as the case may be) limited common property, an amendment or repeal of a by-law or addition of a new by-law should not have been made or effected, the Board may order that the amendment be repealed, that the revoked by-law be revived or that the additional by-law be repealed.
@@ -3138,13 +3355,19 @@ the by-law shall, subject to its having been or being amended, added to or repea
 
 (3) A payment ordered to be made under subsection (2) is recoverable by the subsidiary proprietor as a debt in a court of competent jurisdiction.
 
+[LT(S)A, s. 95]
+
 ### Order invalidating purported by-law
 
-106\. Where, pursuant to an application by a person entitled to vote at a meeting of the management corporation or subsidiary management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that a management corporation or subsidiary management corporation, as the case may be, did not have the power to make a by-law purporting to have been made by it, the Board may make an order declaring the by-law to be invalid.
+106\. Where, pursuant to an application by a person entitled to vote at a meeting of a management corporation or subsidiary management corporation (including both a first mortgagee and a mortgagor of a lot), a Board considers that the management corporation or subsidiary management corporation, as the case may be, did not have the power to make a by-law purporting to have been made by it, the Board may make an order declaring the by-law to be invalid.
+
+[LT(S)A, s. 96]
 
 ### Order varying certain rates of interest
 
 107\. Where, pursuant to an application by a subsidiary proprietor or a mortgagee in possession, a Board considers that the management corporation or subsidiary management corporation to which the application relates has determined an unreasonable rate as the rate of interest chargeable for the late payment of a contribution levied under section 40(6) or 79, as the case may be, the Board may, in respect of such contributions as are specified in the order, order that no interest be so chargeable or that the rate so chargeable be a rate specified by the Board in the order instead of the rate so determined.
+
+[LT(S)A, s. 98]
 
 ### Order varying contributions, etc.
 
@@ -3166,25 +3389,33 @@ is inadequate or excessive or the manner of payment of contributions is unreason
 
 (4) For the avoidance of doubt, nothing in this section shall authorise any Board to alter the share value of any lot shown in a strata title plan in any manner on or after the date the management corporation is constituted.
 
+[LT(S)A, s. 99]
+
 ### Order varying amount of insurance
 
 109\.—(1) Where, pursuant to an application by a subsidiary proprietor or the mortgagee of a lot, a Board considers that the amount for which the management corporation for the subdivided building concerned has insured under section 75 is not reasonable, the Board may order the management corporation to vary that amount to a specified amount.
 
 (2) Where, pursuant to an application by an interested subsidiary proprietor or the mortgagee of a lot, a Board considers that the amount for which the subsidiary management corporation concerned has insured under section 79(6) is not reasonable, the Board may order the subsidiary management corporation to vary that amount to a specified amount.
 
+[LT(S)A, s. 101]
+
 ### Order to make or pursue insurance claim
 
 110\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation or subsidiary management corporation to which the application relates has unreasonably refused to make or pursue an insurance claim in respect of damage to the building or any limited common property or other property insured by the management corporation or subsidiary management corporation under Division 6 or 7 of Part V, the Board may order the management corporation or subsidiary management corporation, as the case may be, to make or pursue the claim.
 
+[LT(S)A, s. 105]
+
 ### Order with respect to consents affecting common property
 
-111\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation or subsidiary management corporation to which the application relates ––
+111\. Where, pursuant to an application by a subsidiary proprietor, a Board considers that the management corporation or subsidiary management corporation to which the application relates —
 
 (a) has unreasonably refused to consent to a proposal by that subsidiary proprietor to effect alterations to the common property or limited common property; or
 
 (b) has unreasonably refused to authorise under section 37(4) any improvement in or upon a lot which affects the appearance of any building comprised in the strata title plan,
 
 the Board may make an order that the management corporation or subsidiary management corporation, as the case may be, consents to the proposal.
+
+[LT(S)A, s. 104]
 
 ### Order appointing managing agent to perform certain powers
 
@@ -3198,6 +3429,8 @@ the Board may make an order that the management corporation or subsidiary manage
 
 (c) all of those powers, duties and functions except those specified in the order.
 
+[LT(S)A, s. 102]
+
 ### Order to supply information or documents
 
 113\. Where, pursuant to an application by any person, a Board considers that the management corporation or subsidiary management corporation to which the application relates, or a managing agent or the chairperson, secretary or treasurer of that management corporation or subsidiary management corporation has wrongfully —
@@ -3207,6 +3440,8 @@ the Board may make an order that the management corporation or subsidiary manage
 (b) failed to make available for inspection by the applicant or his agent any record or document that, under this Act, he is entitled to inspect,
 
 the Board may order that management corporation, subsidiary management corporation, managing agent, chairperson, secretary or treasurer to supply or make available the information or to make so available the record or document, as the case may require, to the applicant.
+
+[LT(S)A, s. 106]
 
 ### Order for entry to lot
 
@@ -3270,6 +3505,8 @@ Miscellaneous
 
 to do or refrain from doing a specified act with respect to a subdivided building or the common property or limited common property, as the case may be.
 
+[LT(S)A, s. 109(1) and (2)]
+
 ### Interim orders
 
 118\.—(1) If an applicant for an order under this Part requests the making of an interim order and a Board, or the president or deputy president presiding, is satisfied on reasonable grounds that urgent considerations justify the making of such an order, the Board, president or deputy president, as the case may be, may —
@@ -3326,6 +3563,8 @@ to do or refrain from doing a specified act with respect to a subdivided buildin
 
 (c) the person against whom the order is made.
 
+[LT(S)A, s. 114]
+
 ### Enforcement and penalty for contravention of orders
 
 120\.—(1) Any order (including an interim order) made under this Part or the Land Titles (Strata) Act may, by leave of a District Court, be enforced against the person in the same manner as a judgment of that court, and where leave is so given, judgment may be entered in terms of that order.
@@ -3334,9 +3573,57 @@ to do or refrain from doing a specified act with respect to a subdivided buildin
 
 (3) A document purporting to be a copy of an order (including an interim order) made under this Part or the Land Titles (Strata) Act shall be admissible in evidence and shall, until the contrary is proved, be deemed to be an order made by the Board.
 
-## PART VII
+[LT(S)A, s. 113]
+
+## \*PART VII
 
 STAGED DEVELOPMENTS
+
+\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+
+### Staged development contracts
+
+121\.—(1) Every staged development shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Commissioner under this section.
+
+(2) For the purposes of this Act, the Commissioner —
+
+(a) shall accept any staged development contract (including any amendments thereto) approved under the Housing Developers (Control and Licensing) Act (Cap. 130) or the Sale of Commercial Properties Act (Cap. 281) in relation to any staged development under those respective Acts; and
+
+(b) may accept any staged development contract in relation to any other staged development, and any amendments thereto.
+
+(3) For the purposes of subsection (2)(b), the Commissioner may refuse to accept any staged development contract in relation to any staged development, and any amendments thereto, if the contract —
+
+(a) is not in the prescribed form;
+
+(b) does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
+
+(c) does not specify the proposed date the entire staged development is to be finally completed and concluded or such other information, conditions or particulars as may be prescribed.
+
+(4) No amendment to a staged development contract accepted under this Act by the Commissioner in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Commissioner.
+
+(5) A staged development contract accepted under this Act by the Commissioner in relation to any staged development of a parcel, and any amendments thereto, shall have effect as an agreement under seal containing such covenants as may be prescribed entered into by the management corporation constituted under a strata title plan of the whole or part of that parcel and each person who for the time being is —
+
+(a) the owner developer concerned;
+
+(b) the subsidiary proprietor of that management corporation; or
+
+(c) a mortgagee of the subsidiary proprietor’s lot.
+
+(6) A staged development contract shall cease to have effect —
+
+(a) in relation to a person described in subsection (5)(a), (b) or (c) on that person ceasing to be a person so described; and
+
+(b) in relation to all persons described in subsection (5) when the staged development to which the contract relates is finally completed and concluded.
+
+(7) For the avoidance of doubt, subsection (6) shall not affect any obligation that was incurred by a person, or any right that accrued to a person, under the staged development contract before it ceased to have effect in relation to the person.
+
+(8) No amendment to a staged development contract accepted under this Act by the Commissioner in relation to any staged development referred to in subsection (2)(b) shall be valid unless the amendment is accepted by the Commissioner.
+
+### Staged development regulations
+
+122\.—(1) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
+
+(2) Every regulation made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ### Staged development contracts
 
@@ -3390,11 +3677,15 @@ GENERAL
 
 123\. Nothing in this Act shall affect or take away any rights or remedies that a subsidiary proprietor or mortgagee of a lot or a management corporation may have in relation to any lot or the common property apart from this Act.
 
+[LT(S)A, s. 115]
+
 ### Legal proceedings
 
 124\.—(1) Every application to the court under this Act shall be by originating summons.
 
 (2) Where this Act provides for any sum to be recovered by any person or authority from any other person or authority, the sum may be recovered by an action for a debt in any court of competent jurisdiction.
+
+[LT(S)A, s. 121]
 
 ### Corporate offenders and unincorporated associations
 
@@ -3415,6 +3706,8 @@ GENERAL
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee;
 
 “partner” includes a person purporting to act as a partner.
+
+[BCPA (repealed), s. 19]
 
 ### Monitoring powers of Commissioner
 
@@ -3465,6 +3758,8 @@ and to do so within such reasonable time as is specified in the notice.
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 (7) The powers conferred by virtue of subsection (1) may only be exercised by the Commissioner (or, as the case may be, by a person authorised by the Commissioner) for or in connection with obtaining such information or explanations relating to the owner developer, management corporation or subsidiary management corporation, as the case may be, as the Commissioner may reasonably require for the purpose of monitoring compliance on the part of owner developers, management corporations and subsidiary management corporations with the requirements imposed by or by virtue of this Act.
+
+[BCPA (repealed), s. 21]
 
 ### Supply of false or misleading information to Commissioner
 
@@ -3518,9 +3813,11 @@ any document or other record relating to the financial affairs or transactions o
 
 (b) sent by pre-paid registered post, it shall be deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, notwithstanding it is returned undelivered; or
 
-(c) delivered to or affixed on the front door of any lot, on the date of such delivery or affixing of the notice or document at that lot.
+(c) delivered to or affixed on the front door of any lot, it shall be deemed to have been duly served on the person on the date of such delivery or affixing of the notice or document at that lot.
 
 (6) Subject to subsection (2), this section shall not apply to notices and documents to be served in proceedings in court.
+
+[LT(S)A, s. 119]
 
 ### Jurisdiction of court
 
@@ -3534,9 +3831,13 @@ any document or other record relating to the financial affairs or transactions o
 
 (3) All sums collected under this section shall be paid to the Building and Construction Authority.
 
+[BCPA (repealed), s. 4(4)]
+
 ### Protection from liability
 
 132\. No action shall lie against the Commissioner or any officer appointed under this Act or any person acting under the direction of the Commissioner or that officer in respect of any matter or thing done in good faith for the purpose of carrying out the provisions of this Act.
+
+[BCPA (repealed), s. 22]
 
 ### Application to Government
 
@@ -3552,11 +3853,13 @@ any document or other record relating to the financial affairs or transactions o
 
 (a) may be granted subject to such terms or conditions as the Minister may specify by notice in writing;
 
-(b) need not be published in theGazette;
+(b) need not be published in theGazette; and
 
 (c) may be withdrawn at any time if the Minister considers it necessary in the public interest.
 
 (4) Any person who contravenes any term or condition prescribed under subsection (1) or specified by the Minister under subsection (3)(a) shall be guilty of an offence.
+
+[BCPA (repealed), s. 9(5)]
 
 ### Amendment of Schedules
 
@@ -3592,13 +3895,15 @@ any document or other record relating to the financial affairs or transactions o
 
 (4) The Minister may, in making any regulations under subsection (1), provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $5,000.
 
-### Repeal of Buildings and Common Property (Maintenance and Management) Act
+[BCPA (repealed), s. 23; LT(S)A, s. 130]
 
-137\.—(1) The Buildings and Common Property (Maintenance and Management) Act (Cap. 30) is repealed.
+### Transitional and savings provisions due to repeal of Buildings and Common Property (Maintenance and Management) Act
 
-(2) The transitional and savings provisions contained in Part I of the Fourth Schedule to this Act shall have effect.
+137\.—(1) The transitional and savings provisions contained in Part I of the Fourth Schedule [provisions due to repeal of Buildings and Common Property (Maintenance and Management) Act] shall have effect.
 
-(3) Any written law or document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
+(2) Any written law or document referring to the repealed Buildings and Common Property (Maintenance and Management) Act\*shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
+
+\*The Buildings and Common Property (Maintenance and Management) Act (Cap. 30, 2000 Rev. Ed.) was repealed by the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004) with effect from 1st April 2005.
 
 ### Consequential amendments to Land Titles (Strata) Act
 
@@ -3614,6 +3919,8 @@ any document or other record relating to the financial affairs or transactions o
 
 (b) nothing in that Schedule shall affect any saving provided by the Interpretation Act (Cap. 1).
 
+[47/2007]
+
 (2) Except as otherwise expressly provided in the Fourth Schedule, where any period of time specified in any former provision is current immediately before the date of commencement for the repeal or amendment, as the case may be, of the former provision, this Act shall have effect as if the corresponding provision in this Act had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
 
 (a) to run from the date or event from which it was running immediately before that day; and
@@ -3622,7 +3929,7 @@ any document or other record relating to the financial affairs or transactions o
 
 and any rights, priorities, liabilities, reliefs, obligations, requirements, powers, duties or exemptions dependent on the beginning, duration or end of such a period as above mentioned shall be under this Act as they were or would have been under that former provision.
 
-(3) For a period of 2 years after the date of commencement of section 137 or 138, as the case may be, the Minister may, by order published in theGazette, add to the Fourth Schedule by prescribing such provisions of a savings or transitional nature consequent on the enactment of section 137 or 138, as he may consider necessary or expedient.
+(3) For a period of 2 years after 1st April 2005, as the case may be, the Minister may, by order published in theGazette, add to the Fourth Schedule by prescribing such provisions of a savings or transitional nature consequent on the enactment of section 137 or 138, as he may consider necessary or expedient.
 
 (4) In this section, “former provision” means any provision in the repealed Act or any provision of the Land Titles (Strata) Act (Cap. 158) repealed or amended by this Act.
 
@@ -3632,9 +3939,19 @@ and any rights, priorities, liabilities, reliefs, obligations, requirements, pow
 
 FIRST SCHEDULE
 
-Sections 27(3), 29(1), 80(2) and 135(1)
+Sections 27(3), 29(1)(h), 80(2) and 135(1)
 
-General Meetings of Management Corporations and Subsidiary Management Corporations
+General Meetings of
+
+
+
+
+Management Corporations and
+
+
+
+
+Subsidiary Management Corporations
 
 Notice of general meetings
 
@@ -3666,7 +3983,7 @@ Notice of general meetings
 
 (c) include a motion for the termination of any managing agent or for the continuation of the managing agent for the next ensuing financial year.
 
-(4) No motion shall be submitted at a general meeting unless ––
+(4) No motion shall be submitted at a general meeting unless —
 
 (a) notice of the motion has been given in accordance with this paragraph; or
 
@@ -3686,7 +4003,7 @@ Persons entitled to vote at general meetings
 
 (2) Notwithstanding any other provision of this paragraph, a first mortgagee, as shown on the strata roll, of a lot shall be entitled to vote in respect of that lot on any proposal submitted at a general meeting of a management corporation or on any election of members of the council, or at a general meeting of a subsidiary management corporation or on any election of its executive committee, and, if he votes on that proposal, any vote cast by the subsidiary proprietor of that lot on the proposal shall not be counted.
 
-(3) The vote of co-proprietors or co-mortgagees may be cast by any of them in person or by a proxy and if both joint subsidiary proprietors or co-mortgagees are present at a meeting of the management corporation or subsidiary management corporation, as the case may be, the vote of the senior who casts a vote, whether in person or by a proxy, shall be accepted to the exclusion of the votes of the others; and for this purpose, seniority shall be determined by the order in which the names stand in the strata roll.
+(3) The vote of joint subsidiary proprietors or co-mortgagees may be cast by any of them in person or by a proxy and if both joint subsidiary proprietors or co-mortgagees are present at a meeting of the management corporation or subsidiary management corporation, as the case may be, the vote of the senior who casts a vote, whether in person or by a proxy, shall be accepted to the exclusion of the votes of the others; and for this purpose, seniority shall be determined by the order in which the names stand in the strata roll.
 
 (4) Only the subsidiary proprietor entitled to the first of 2 or more successive estates in a lot shall, subject to this Schedule, be entitled to cast a vote on any proposal submitted at a general meeting of —
 
@@ -3708,11 +4025,11 @@ Quorum
 
 3.—(1) No business shall be transacted at any general meeting of a management corporation or subsidiary management corporation unless a quorum of subsidiary proprietors is present.
 
-(2) A quorum shall be formed at any general meeting of a management corporation or subsidiary management corporation constituted in respect of a strata title plan when the number of subsidiary proprietors who own at least ––
+(2) A quorum shall be formed at any general meeting of a management corporation or subsidiary management corporation constituted in respect of a strata title plan when the number of subsidiary proprietors who own at least —
 
 (a) 30% of the aggregate share value for all lots comprised in that strata title plan; or
 
-(b) in the case of a subsidiary management corporation constituted for any limited common property, 30% of the aggregate share value for all lots for whose exclusive benefit the limited common property are designated,
+(b) in the case of a subsidiary management corporation constituted for any limited common property, 30% of the aggregate share value for all lots for whose exclusive benefit the limited common property is designated,
 
 are present at the meeting, either in person or by proxy.
 
@@ -3742,7 +4059,7 @@ Counting of votes on election of council or executive committee
 
 Counting of votes on motion
 
-9.—(1) Subject to this paragraph, a motion submitted at a general meeting of a management corporation or (as the case may be) subsidiary management corporation shall be decided according to the number of votes cast for and against the motion, whether personally or by proxy , each person entitled to vote having one vote in respect of each lot in respect of which he is entitled to vote unless a poll is demanded by any person entitled to vote at the general meeting before a vote is taken as aforesaid.
+9.—(1) Subject to this paragraph, a motion submitted at a general meeting of a management corporation or (as the case may be) subsidiary management corporation shall be decided according to the number of votes cast for and against the motion, whether personally or by proxy, each person entitled to vote having one vote in respect of each lot in respect of which he is entitled to vote unless a poll is demanded by any person entitled to vote at the general meeting before a vote is taken as aforesaid.
 
 (2) If —
 
@@ -3794,7 +4111,7 @@ Convening of extraordinary general meeting on requisition
 
 immediately proceed to convene an extraordinary general meeting of the management corporation or (as the case may be) subsidiary management corporation to be held as soon as practicable but in any case not later than 6 weeks after the receipt by the secretary of the requisition.
 
-(2) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered address of the management corporation, and may consist of several documents in like form each signed by one or more requisitionist.
+(2) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered address of the management corporation and subsidiary management corporation, and may consist of several documents in like form each signed by one or more requisitionist.
 
 (3) If the council or executive committee, as the case may be, does not within 14 days after the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council or executive committee, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
 
@@ -3810,7 +4127,7 @@ Meetings of management corporation, etc., before first annual general meeting
 
 (i) all lots comprised in that strata title plan; or
 
-(ii) in the case of a subsidiary management corporation constituted for any limited common property, all lots for whose exclusive benefit the limited common property are designated.
+(ii) in the case of a subsidiary management corporation constituted for any limited common property, all lots for whose exclusive benefit the limited common property is designated.
 
 (2) The provisions of this Schedule (paragraph 1(2) excepted) shall apply to and in respect of a meeting referred to in sub-paragraph (1) so far as those provisions are not inconsistent with, or incapable of applying to, such a meeting.
 
@@ -3828,17 +4145,17 @@ Instrument of proxy
 
 (2) Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
-I/We, _____________ of being a member/members of the above-named management corporation, hereby appoint/appoints _______, of ______, or failing him, of ______ , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation or subsidiary management corporation, to be held on the day of 20 , and at any adjournment thereof.
+I/We, ......................................... of being a member/members of the above-named management corporation, hereby appoint/appoints ............................................., of ......................................................., or failing him, of ................................................, as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation or subsidiary management corporation, to be held on the ........... day of ....... 20 ........, and at any adjournment thereof.
 
-Signed this ________ day of ______________________ 20 ____.
+Signed this ......... day of ......... 20 ........
 
-1This form is to be used in favour of/against the resolution.
+This form is to be used *in favour of/against the resolution.
 
-1Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.].
+*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.].
 
 (3) The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
-Proxy to be deposited at registered address of management corporation
+Proxy to be deposited at registered address of management corporation or subsidiary management corporation
 
 18. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed, or a notarially certified copy of that power or authority, shall be deposited at the registered address of the management corporation or subsidiary management corporation, as the case may be, or at such other place in Singapore as is specified for that purpose in the notice convening the meeting —
 
@@ -3862,13 +4179,22 @@ Powers of proxies
 
 Authority not to be revoked by death of principal, etc.
 
-20\. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or unsoundness of mind of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, unsoundness of mind, revocation or transfer as aforesaid has been received by the management corporation or subsidiary management corporation, as the case may be, at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+20. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or mental disorder of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, mental disorder, revocation or transfer as aforesaid has been received by the management corporation or subsidiary management corporation, as the case may be, at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+
+[LT(S)A, 3rd Sch.]
+
+[21/2008 wef 01/03/2010]
 
 SECOND SCHEDULE
 
 Sections 53(11), 54(4), 80(6) and 135(1)
 
-Proceedings of Councils and Executive Committees
+Proceedings of Councils
+
+
+
+
+and Executive Committees
 
 Chairperson to preside at meetings
 
@@ -3914,7 +4240,7 @@ Keeping of records
 
 (a) cause proper books of account to be kept in respect of all sums of money received and expended by it, specifying the matters in relation to which the receipts and expenditure take place; and
 
-(b) on the application of a subsidiary proprietor or mortgagee of a lot (or any person authorised in writing by him) make the books of account available for inspection at all reasonable times.
+(b) on the application of a subsidiary proprietor or mortgagee of a lot (or any person authorised in writing by him), make the books of account available for inspection at all reasonable times.
 
 Notice of council or executive committee meetings
 
@@ -3946,7 +4272,7 @@ be as valid as if the vacancy, defect or disqualification did not exist and the 
 
 Resolutions in writing
 
-7. A resolution of a council or executive committee shall be taken to have been validly passed even though the meeting at which the motion for the resolution was proposed to be submitted was not held if —
+7. A resolution of a council or an executive committee shall be taken to have been validly passed even though the meeting at which the motion for the resolution was proposed to be submitted was not held if —
 
 (a) notice was given in accordance with this Schedule of the intended meeting of the council or executive committee, as the case may be;
 
@@ -3956,11 +4282,18 @@ Resolutions in writing
 
 (d) the motion for the resolution does not concern any matter that the management corporation or subsidiary management corporation, as the case may be, determines under section 59 may only be decided upon by its council or executive committee, as the case may be, at a meeting.
 
+[LT(S)A, 2nd Sch.]
+
 THIRD SCHEDULE
 
 Section 138
 
-Consequential Amendments to Land Titles (Strata) Act
+Consequential Amendments to
+
+
+
+
+Land Titles (Strata) Act
 
 
 
@@ -3971,129 +4304,147 @@ First column
 
 Second column
 
-(1) Section 3
+(1)
 
-(i) Delete the words “section 86” in the definition of “Board” and substitute the words “the Building Maintenance and Strata Management Act 2004”.
+Section 3
 
-(ii) Delete the words “Buildings and Common Property (Maintenance and Management) Act (Cap. 30)” in the definition of “Commissioner” and substitute the words “Building Maintenance and Strata Management Act 2004”.
+(i)
 
-(iii) Delete the definition of “common property” and substitute the following definition:
+Delete the words “section 86” in the definition of “Board” and substitute the words “the Building Maintenance and Strata Management Act 2004”.
 
-“
+(ii)
 
-“common property”, subject to subsection (2), means —
+Delete the words “Buildings and Common Property (Maintenance and Management) Act (Cap. 30)” in the definition of “Commissioner” and substitute the words “Building Maintenance and Strata Management Act 2004”.
 
-(a) in relation to any land and building comprised or to be comprised in a strata title plan, such part of the land and building —
+(iii)
 
-(i) not comprised in any lot or proposed lot in that strata title plan; and
+Delete the definition of “common property” and substitute the following definition:
 
-(ii) used or capable of being used or enjoyed by occupiers of 2 or more lots or proposed lots; or
+“ “common property”, subject to subsection (2), means —
 
-(b) in relation to any other land and building, such part of the land and building —
+(a)
 
-(i) not comprised in any non-strata lot; and
+in relation to any land and building comprised or to be comprised in a strata title plan, such part of the land and building —
 
-(ii) used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building;
+(i)
 
-”.
+not comprised in any lot or proposed lot in that strata title plan; and
 
-(iv) Delete the definitions of “council”, “initial period”, “managing agent”, “Minister”, “President” and “strata units”.
+(ii)
 
-(v) Delete the definition of “land” and substitute the following definition:
+used or capable of being used or enjoyed by occupiers of 2 or more lots or proposed lots; or
 
-“
+(b)
 
-“land” has the same meaning as in the Land Titles Act (Cap. 157);
+in relation to any other land and building, such part of the land and building —
 
-”.
+(i)
 
-(vi) Delete the definition of “management corporation” and substitute the following definition:
+not comprised in any non- strata lot; and
 
-“
+(ii)
 
-“management corporation” means a management corporation constituted under the Building Maintenance and Strata Management Act 2004;
+used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building;”.
 
-”.
+(iv)
 
-(vii) Delete the words “or any other lease having an unexpired term of at least 21 years as at the date of the lodgment of a plan as a strata title plan under this Act” in the definition of “registered land”.
+Delete the definitions of “council”, “initial period”, “managing agent”, “Minister”, “President” and “strata units”.
 
-(viii) Delete the definitions of “share units”, “special resolution” and “strata roll” and substitute the following definitions:
+(v)
 
-“
+Delete the definition of “land” and substitute the following definition:
 
-“schedule of strata units”, in relation to any land or building, means the schedule of strata units accepted by the Commissioner under section 11 of the Building Maintenance and Strata Management Act 2004 for that land or building;
+“ “land” has the same meaning as in the Land Titles Act (Cap. 157);”.
+
+(vi)
+
+Delete the definition of “management corporation” and substitute the following definition:
+
+“ “management corporation” means a management corporation constituted under the Building Maintenance and Strata Management Act 2004;”.
+
+(vii)
+
+Delete the words “or any other lease having an unexpired term of at least 21 years as at the date of the lodgment of a plan as a strata title plan under this Act” in the definition of “registered land”.
+
+(viii)
+
+Delete the definitions of “share units”, “special resolution” and “strata roll” and substitute the following definitions:
+
+“ “schedule of strata units”, in relation to any land or building, means the schedule of strata units accepted by the Commissioner under section 11 of the Building Maintenance and Strata Management Act 2004 for that land or building;
 
 “share value” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
 
 “special resolution” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
 
-“” staged development and staged development contract”” have the same respective meanings as in the Building Maintenance and Strata Management Act 2004;
+“staged development” and “staged development contract” have the same respective meanings as in the Building Maintenance and Strata Management Act 2004;
 
-“strata roll” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+“strata roll” has the same meaning as in the Building Maintenance and Strata Management Act 2004;.
 
-”.
+(ix)
 
-(ix) Insert, immediately after the definition of “subsidiary certificate of title”, the following definition:
+Insert, immediately after the definition of “subsidiary certificate of title”, the following definition:
 
-“
+“ “subsidiary management corporation” has the same meaning as in the Building Maintenance and Strata Management Act 2004;”.
 
-“subsidiary management corporation” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+(x)
 
-”.
+Delete the definition of “unanimous resolution” and substitute the following definition:
 
-(x) Delete the definition of “unanimous resolution” and substitute the following definition:
+“ “unanimous resolution” has the same meaning as in the Building Maintenance and Strata Management Act 2004.”.
 
-“
+(xi)
 
-“unanimous resolution” has the same meaning as in the Building Maintenance and Strata Management Act 2004.
+Renumber the section as subsection (1) and insert immediately thereafter the following subsection:
 
-”.
+“(2)
 
-(xi) Renumber the section as subsection (1) and insert immediately thereafter the following subsection:
+For the purposes of this Act —
 
-“
+(a)
 
-(2) For the purposes of this Act —
+all windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot, being either louvres, casement windows, sliding windows or windows with any movable part, shall be part of the lot, proposed lot or (as the case may be) non-strata lot and not common property; and
 
-(a) all windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot, being either louvres, casement windows, sliding windows or windows with any movable part, shall be part of the lot, proposed lot or (as the case may be) non-strata lot and not common property; and
+(b)
 
-(b) all other windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot shall be common property, unless otherwise described in a strata title plan.
+all other windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot shall be common property, unless otherwise described in a strata title plan.".
 
-”.
+(2)
 
-(2) Section 7
+Section 7
 
 Repealed.
 
-(3) New section 10A
+(3)
+
+New section 10A
 
 Insert, immediately after section 10, the following section:
 
-“
+“Constitution of management corporation, etc\. 
 
-Constitution of management corporation, etc.
+10A\. —(1) The subsidiary proprietors from time to time of all lots comprised in a strata title plan shall, on the date of registration of the strata title application in respect of that strata title plan under this Act, constitute the management corporation for that strata title plan.
 
-10A.—(1) The subsidiary proprietors from time to time of all lots comprised in a strata title plan shall, on the date of registration of the strata title application in respect of that strata title plan under this Act, constitute the management corporation for that strata title plan.
+(2) The subsidiary proprietors from time to time of the lots for whose exclusive benefit any limited common property is designated in a strata title plan, or in a comprehensive resolution filed with the Chief Surveyor under section 78 (2) (b) of the Building Maintenance and Strata Management Act 2004, shall on the date of registration of the strata title application in respect of that strata title plan or such other instrument as required by the Registrar under this Act, constitute the subsidiary management corporation for that limited common property.
 
-(2) The subsidiary proprietors from time to time of the lots for whose exclusive benefit any limited common property is designated in a strata title plan, or in a comprehensive resolution filed with the Chief Surveyor under section 78(2) (b) of the Building Maintenance and Strata Management Act 2004, shall on the date of registration of the strata title application in respect of that strata title plan or such other instrument as required by the Registrar under this Act, constitute the subsidiary management corporation for that limited common property.
+(3) The Registrar may, upon payment of a prescribed fee, issue to a management corporation or a subsidiary management corporation a certificate stating that the management corporation or subsidiary management corporation, as the case may be, is a body corporate constituted on the day specified therein.”.
 
-(3) The Registrar may, upon payment of a prescribed fee, issue to a management corporation or a subsidiary management corporation a certificate stating that the management corporation or subsidiary management corporation, as the case may be, is a body corporate constituted on the day specified therein.
+(4)
 
-”.
-
-(4) Section 11 (1)
+Section 11 (1)
 
 Insert, immediately after the words “in this Act”, the words “or the Building Maintenance and Strata Management Act 2004”.
 
-(5) New section 12A
+\*(5)
+
+New section 12A
+
+\*No date has been appointed for the coming into operation of item (5) as at 1st July 2008.
 
 Insert, immediately after section 12, the following section:
 
-“
+“Staged developments 
 
-Staged developments
-
-12A.—(1) On the completion of every stage of a staged development in respect of which a strata title plan is registered or deemed registered under this Act, and on the final completion and conclusion of the entire staged development, the owner developer thereof shall, within the time prescribed, prepare an amended strata title plan with the revised schedule of strata units for the staged development that has been last accepted under section 11 of the Building Maintenance and Strata Management Act 2004.
+12A\. —(1) On the completion of every stage of a staged development in respect of which a strata title plan is registered or deemed registered under this Act, and on the final completion and conclusion of the entire staged development, the owner developer thereof shall, within the time prescribed, prepare an amended strata title plan with the revised schedule of strata units for the staged development that has been last accepted under section 11 of the Building Maintenance and Strata Management Act 2004.
 
 (2) Every amended strata title plan with the revised schedule of strata units under subsection (1) shall be lodged with the Chief Surveyor for approval under the Boundaries and Survey Maps Act (Cap. 25).
 
@@ -4101,233 +4452,319 @@ Staged developments
 
 (4) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
 
-(5) Every regulation made under subsection (4) shall be presented to Parliament as soon as possible after publication in theGazette.
+(5) Every regulation made under subsection (4) shall be presented to Parliament as soon as possible after publication in theGazette.”.
 
-”.
+(6)
 
-(6) Section 22
+Section 22
 
 Delete subsection (1) and substitute the following subsection:
 
-“
+“(1) This section shall apply where a management corporation has, in accordance with section 35(1) of the Building Maintenance and Strata Management Act 2004, passed a unanimous resolution to —
 
-(1) This section shall apply where a management corporation has, in accordance with section 35(1) of the Building Maintenance and Strata Management Act 2004, passed a unanimous resolution to —
+(a)
 
-(a) execute on the behalf of its subsidiary proprietors a grant of easement or a restrictive covenant burdening the parcel;
+execute on the behalf of its subsidiary proprietors a grant of easement or a restrictive covenant burdening the parcel;
 
-(b) accept on their behalf a grant of easement or a restrictive covenant;
+(b)
 
-(c) surrender on their behalf a grant of easement or a restrictive covenant burdening the parcel; or
+accept on their behalf a grant of easement or a restrictive covenant;
 
-(d) accept on their behalf a surrender of a grant of easement or a restrictive covenant.
+(c)
 
-”.
+surrender on their behalf a grant of easement or a restrictive covenant burdening the parcel; or
 
-(7) Section 23
+(d)
 
-(i) Delete subsection (1) and substitute the following subsection:
+accept on their behalf a surrender of a grant of easement or a restrictive covenant.”.
 
-“
+(7)
 
-(1) This section shall apply where a management corporation has, in accordance with section 34(1) of the Building Maintenance and Strata Management Act 2004, passed a special resolution —
+Section 23
 
-(a) to execute on the behalf of its subsidiary proprietors a transfer of any part of the common property (including a part of any building or any immovable property affixed to common property); or
+(i)
 
-(b) to execute on their behalf a lease of or rent part of such common property.
+Delete subsection (1) and substitute the following subsection:
 
-”.
+“(1) This section shall apply where a management corporation has, in accordance with section 34(1) of the Building Maintenance and Strata Management Act 2004, passed a special resolution —
 
-(ii) Delete the words “and the Registrar have consented” in subsection (2) and substitute the words “has consented”.
+(a)
 
-(iii) Insert, immediately after the word “transfer” whenever it appears in subsections (2) and (3), the words “or lease”.
+to execute on the behalf of its subsidiary proprietors a transfer of any part of the common property (including a part of any building or any immovable property affixed to common property); or
 
-(iv) Insert, immediately after the words “free from” in subsection (4), the words “any encumbrances and”.
+(b)
 
-(8) Section 25
+to execute on their behalf a lease of or rent part of such common property.”.
 
-(i) Delete subsection (1) and substitute the following subsection:
+(ii)
 
-“
+Delete the words “and the Registrar have consented” in subsection (2) and substitute the words “has consented”.
 
-(1) This section shall apply where a management corporation has, in accordance with section 34(3) of the Building Maintenance and Strata Management Act 2004, passed a special resolution to accept —
+(iii)
 
-(a) a grant or transfer of any land (not being a lot within the parcel) which abuts the parcel, free from any encumbrances (except those created by statute and subsisting easements);
+Insert, immediately after the word “transfer” whenever it appears in subsections (2) and (3), the words “or lease”.
 
-(b) a grant or transfer of any lot, including the undivided share in the common property appurtenant to that lot, free from any encumbrances (except those created by statute and subsisting easements); or
+(iv)
 
-(c) a lease of land, not being a lot within the parcel, whether or not it abuts on the parcel,
+Insert, immediately after the words “free from” in subsection (4), the words “any encumbrances and”.
 
-for the purpose of creating additional common property.
+(8)
 
-”.
+Section 25
 
-(ii) Delete the words “share units” in subsection (4) (b) and substitute the words “share values”.
+(i)
 
-(iii) Insert, immediately after subsection (4), the following subsection:
+Delete subsection (1) and substitute the following subsection:
 
-“
+“(1) This section shall apply where a management corporation has, in accordance with section 34(3) of the Building Maintenance and Strata Management Act 2004, passed a special resolution to accept —
 
-(5) Any reference to a transfer or transferred land in this section shall include a lease of land referred to in subsection (1)(c).
+(a)
 
-”.
+a grant or transfer of any land (not being a lot within the parcel) which abuts the parcel, free from any encumbrances (except those created by statute and subsisting easements);
 
-(9) Section 26
+(b)
 
-(i) Delete subsection (1) and substitute the following subsection:
+a grant or transfer of any lot, including the undivided share in the common property appurtenant to that lot, free from any encumbrances (except those created by statute and subsisting easements); or
 
-“
+(c)
 
-(1) This section shall apply where 2 or more management corporations have, in accordance with section 34(5) of the Building Maintenance and Strata Management Act 2004, passed their respective special resolutions to amalgamate their respective common properties; and the relevant management corporation shall execute an instrument of transfer.
+a lease of land, not being a lot within the parcel, whether or not it abuts on the parcel,
 
-”.
+for the purpose of creating additional common property.”.
 
-(ii) Delete the words “share units” in subsection (1A) and substitute the words “share values”.
+(ii)
 
-(10) Section 27
+Delete the words “share units” in subsection (4) (b) and substitute the words “share values”.
+
+(iii)
+
+Insert, immediately after subsection (4), the following subsection:
+
+“(5) Any reference to a transfer or transferred land in this section shall include a lease of land referred to in subsection (1)(c).”.
+
+(9)
+
+Section 26
+
+(i)
+
+Delete subsection (1) and substitute the following subsection:
+
+“(1) This section shall apply where 2 or more management corporations have, in accordance with section 34 (5) of the Building Maintenance and Strata Management Act 2004, passed their respective special resolutions to amalgamate their respective common properties; and the relevant management corporation shall execute an instrument of transfer.”.
+
+(ii)
+
+Delete the words “share units” in subsection (1A) and substitute the words “share values”.
+
+(10)
+
+Section 27
 
 Repeal and substitute the following section:
 
-“
+“Court orders affecting common property 
 
-Court orders affecting common property
-
-27.—(1) Every instrument of transfer or acceptance of a transfer lodged for registration under section 36 of the Building Maintenance and Strata Management Act 2004 shall be accompanied by a certified true copy of the order of the court made under that section directing such transfer or acceptance of a transfer, and where the approval of the competent authority is required for any subdivision and amalgamation of any land or common property, a true copy of the approval given by the competent authority shall be lodged with such instrument.
+27\. —(1) Every instrument of transfer or acceptance of a transfer lodged for registration under section 36 of the Building Maintenance and Strata Management Act 2004 shall be accompanied by a certified true copy of the order of the court made under that section directing such transfer or acceptance of a transfer, and where the approval of the competent authority is required for any subdivision and amalgamation of any land or common property, a true copy of the approval given by the competent authority shall be lodged with such instrument.
 
 (2) Upon the registration of the transfer by the Registrar —
 
-(a) in the case of a disposition of all or part of the common property, all subsidiary proprietors and other persons having registered interests in the common property shall be bound to accept the terms of the order of court and section 23(4) shall apply, with the necessary modifications, to such transfer;
+(a)
 
-(b) in the case of an addition to the common property, section 25(3) and (4) shall apply, with the necessary modifications, to such transfer; and
+in the case of a disposition of all or part of the common property, all subsidiary proprietors and other persons having registered interests in the common property shall be bound to accept the terms of the order of court and section 23 (4) shall apply, with the necessary modifications, to such transfer;
 
-(c) in the case of the amalgamation of the common property of 2 or more management corporations, sections 23(4) and 26 (2), (4) and (5) shall apply, with the necessary modifications, to such amalgamation.
+(b)
 
-”.
+in the case of an addition to the common property, section 25 (3) and (4) shall apply, with the necessary modifications, to such transfer; and
 
-(11) Section 30 (1A)
+(c)
 
-Delete the words “section 7” and substitute the words section 11 of the Building Maintenance and Strata Management Act 2004.
+in the case of the amalgamation of the common property of 2 or more management corporations, sections 23 (4) and 26 (2), (4) and (5) shall apply, with the necessary modifications, to such amalgamation.”.
 
-(12) Part IV
+(11)
+
+Section 30 (1A)
+
+Delete the words “section 7” and substitute the words “section 11 of the Building Maintenance and Strata Management Act 2004”.
+
+(12)
+
+Part IV
 
 Repealed.
 
-(13) Section 77
+(13)
 
-(i) Delete the words “a subdivided building is damaged or destroyed” in subsection (1) and substitute the words “all of the land and buildings comprised in a strata title plan is the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152), or any building comprised in a strata title plan is damaged or destroyed”.
+Section 77
 
-(ii) Insert, immediately after the words “subsection (1)” in subsection (4), the words “(except in relation to land and buildings the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152))”.
+(i)
 
-(14) Section 81
+Delete the words “a subdivided building is damaged or destroyed” in subsection (1) and substitute the words “all of the land and buildings comprised in a strata title plan is the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152), or any building comprised in a strata title plan is damaged or destroyed”.
 
-(i) Delete subsection (1) and substitute the following subsection:
+(ii)
 
-“
+Insert, immediately after the words “subsection (1)” in subsection (4), the words “(except in relation to land and buildings the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152))”.
 
-(1) This section shall apply where a management corporation has, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004, resolved to terminate the strata subdivision of the building.
+(14)
 
-”.
+Section 81
 
-(ii) Delete the words “section 42 (2)” in subsection (13) and substitute the words “section 39 (2)”.
+(i)
 
-(15) New section 83A
+Delete subsection (1) and substitute the following subsection:
+
+“(1)
+
+This section shall apply where a management corporation has, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004, resolved to terminate the strata subdivision of the building.”.
+
+(ii)
+
+Delete the words “section 42 (2)” in subsection (13) and substitute the words “section 39 (2)”.
+
+(15)
+
+New section 83A
 
 Insert, immediately after section 83, the following section:
 
-“
+“Application to subsidiary management corporations 
 
-Application to subsidiary management corporations
+83A\. Sections 81, 82 and 83 shall apply, with the necessary modifications, where a subsidiary management corporation has resolved to terminate its limited common property, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004.”.
 
-83A. Sections 81, 82 and 83 shall apply, with the necessary modifications, where a subsidiary management corporation has resolved to terminate its limited common property, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004.
+(16)
 
-”.
-
-(16) Sections 84A, 84D and 84E
+Sections 84A, 84D and 84E
 
 Delete the words “the Fourth Schedule” wherever they appear in sections 84A (3), (4), (13) and (14), 84D (3) and 84E (4) and (5) and substitute in each case the words “the Schedule”.
 
-(17) New section 84G
+(17)
 
-Insert, immediately after section 84F, the following section :
+New section 84G
 
-“
+Insert, immediately after section 84F, the following section:
 
-Application of Building Maintenance and Strata Management Act 2004
+“Application of Building Maintenance and Strata Management Act 2004 
 
-84G. Part VI of the Building Maintenance and Strata Management Act 2004 and any regulations made under that Act shall apply in respect of applications under this Part with the necessary modifications.
+84G\. Part VI of the Building Maintenance and Strata Management Act 2004 and any regulations made under that Act shall apply in respect of applications under this Part with the necessary modifications.”.
 
-”.
+(18)
 
-(18) Part VI
-
-Repealed.
-
-(19) Sections 116, 117, 118 and 120
+Part VI
 
 Repealed.
 
-(20) Section 119
+(19)
 
-(i) Delete the words “section 55” in subsection (2) (a) and substitute the words ”section 28 of the Building Maintenance and Strata Management Act 2004”.
+Sections 116, 117, 118 and 120
 
-(ii) Delete the words “the Commissioner,” in subsection (3).
+Repealed.
 
-(21) Section 123 (2)
+(20)
+
+Section 119
+
+(i)
+
+Delete the words “section 55” in subsection (2) (a) and substitute the words “section 28 of the Building Maintenance and Strata Management Act 2004”.
+
+(ii)
+
+Delete the words “the Commissioner,” in subsection (3).
+
+(21)
+
+Section 123 (2)
 
 Delete the words “Parts IV to VII” and substitute the words “section 10A and Parts V and VIII and the Building Maintenance and Strata Management Act 2004”.
 
-(22) Section 124 (2)
+(22)
+
+Section 124 (2)
 
 Delete the words “Parts IV to VII” and substitute the words “section 10A and Parts V and VIII and the Building Maintenance and Strata Management Act 2004”.
 
-(23) Section 125
+(23)
 
-(i) Insert, immediately after the words “allocation of share values” in subsection (2) (a), the words “under the Building Maintenance and Strata Management Act 2004”.
+Section 125
 
-(ii) Delete the words “section 48 (1) (r)” in subsection (11) and substitute the words “section 39 (3) of the Building Maintenance and Strata Management Act 2004”.
+(i)
 
-(24) Section 126
+Insert, immediately after the words “allocation of share values” in subsection (2) (a), the words “under the Building Maintenance and Strata Management Act 2004”.
 
-(i) Insert, immediately after the words “allocation of share values” in subsection (2), the words “under the Building Maintenance and Strata Management Act 2004”.
+(ii)
 
-(ii) Delete the words “section 48 (1) (r)” in subsection (10) and substitute the words “section 39 (3) of the Building Maintenance and Strata Management Act 2004”.
+Delete the words “section 48 (1) (r)” in subsection (11) and substitute the words “section 39 (3) of the Building Maintenance and Strata Management Act 2004”.
 
-(25) Section 126A (6)
+(24)
+
+Section 126
+
+(i)
+
+Insert, immediately after the words “allocation of share values” in subsection (2), the words “under the Building Maintenance and Strata Management Act 2004”.
+
+(ii)
+
+Delete the words “section 48 (1) (r)” in subsection (10) and substitute the words “section 39 (3) of the Building Maintenance and Strata Management Act 2004”.
+
+(25)
+
+Section 126A (6)
 
 Delete the words “section 48 (1) (r)” and substitute the words “section 39 (3) of the Building Maintenance and Strata Management Act 2004”.
 
-(26) Section 126B (1)
+(26)
+
+Section 126B (1)
 
 Delete the words “sections 71 and 72” in paragraph (h) and substitute the words “sections 67 and 68 of the Building Maintenance and Strata Management Act 2004”.
 
-(27) Section 127 (8)
+(27)
+
+Section 127 (8)
 
 Delete the words “section 48 (1) (r)” and substitute the words “section 39 (3) of the Building Maintenance and Strata Management Act 2004”.
 
-(28) Section 130 (2)
+(28)
+
+Section 130 (2)
 
 Delete paragraphs (a), (b), (c), (d) and (i).
 
-(29) First, Second and Third Schedules
+(29)
+
+First, Second and Third Schedules
 
 Repealed.
 
-(30) Fourth Schedule
+(30)
+
+Fourth Schedule
 
 Delete the words “FOURTH SCHEDULE” in the 1st line and substitute the words “THE SCHEDULE”.
 
 FOURTH SCHEDULE
 
-Sections 32(2), 137(2), 138(2) and 139
+Sections 32(2), 137(1), 138(2) and 139
 
 Transitional and Savings Provisions
 
-Part i
+Part I
 
-Provisions Due to Repeal of Buildings and Common Property (Maintenance and Management) Act
+Provisions Due to Repeal of
+
+
+
+
+Buildings and Common Property
+
+
+
+
+(Maintenance and Management) Act
 
 Incumbent Commissioner of Buildings and other officers
 
-1. The person who, immediately before the date of commencement of section 137 (referred to in this Part of the Schedule as the appointed day), is —
+1. The person who, immediately before 1st April 2005, is —
 
 (a) the Commissioner of Buildings; or
 
@@ -4343,25 +4780,25 @@ Notices and orders issued under repealed Act
 
 Pending notices, applications, etc.
 
-3.—(1) Any application, register or other document lodged for approval under the provisions of the repealed Act before the appointed day and whose application was not approved before that day shall, where applicable, be deemed to be an application, a register or a document lodged for approval under the corresponding provisions of this Act.
+3.—(1) Any application, register or other document lodged for approval under the provisions of the repealed Act before 1st April 2005 and whose application was not approved before that date shall, where applicable, be deemed to be an application, a register or a document lodged for approval under the corresponding provisions of this Act.
 
-(2) Where anything has been commenced by or on behalf of the Commissioner of Buildings before the appointed day, such thing may be carried on and completed by or under the authority of the Commissioner under the corresponding provisions of this Act.
+(2) Where anything has been commenced by or on behalf of the Commissioner of Buildings before 1st April 2005, such thing may be carried on and completed by or under the authority of the Commissioner under the corresponding provisions of this Act.
 
 Pending appeals
 
-4\. Where an appeal has been made to the Minister under section 6 or 12 of the repealed Act and the appeal has not been dealt with or disposed of immediately before the appointed day, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
+4\. Where an appeal has been made to the Minister under section 6 or 12 of the repealed Act and the appeal has not been dealt with or disposed of immediately before 1st April 2005, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
 
 Existing maintenance funds and managing agents
 
-5.—(1) Every maintenance fund which was established by a developer under the repealed Act before the appointed day in respect of any development shall continue and deemed to be a maintenance fund established by the owner developer of the development under section 16(2) of this Act.
+5.—(1) Every maintenance fund which was established by a developer under the repealed Act before 1st April 2005 in respect of any development shall continue and be deemed to be a maintenance fund established by the owner developer of the development under section 16(2) of this Act.
 
-(2) Nothing in this Act shall require any owner developer to dispose of any investments made before the appointed day out of moneys in any maintenance fund continued by this paragraph.
+(2) Nothing in this Act shall require any owner developer to dispose of any investments made before 1st April 2005 out of moneys in any maintenance fund continued by this paragraph.
 
-(3) Any person who, immediately before the appointed day, is a managing agent appointed by the Commissioner of Buildings under section 12 of the repealed Act shall continue as such managing agent as if he was appointed under section 19 of this Act.
+(3) Any person who, immediately before 1st April 2005, is a managing agent appointed by the Commissioner of Buildings under section 12 of the repealed Act shall continue as such managing agent as if he was appointed under section 19 of this Act.
 
 Existing subsidiary legislation
 
-6\. Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+6\. Any subsidiary legislation made under the repealed Act and in force immediately before 1st April 2005 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
 Part II
 
@@ -4369,15 +4806,11 @@ Provisions Due to Amendments to Land Titles (Strata) Act
 
 Definitions
 
-7. In this Part, unless the context otherwise requires —
-
-“former provisions” means Part IV of the Land Titles (Strata) Act (Cap. 158) repealed by this Act;
-
-“repeal day”, in relation to the former provisions, means the date the former provisions are repealed by this Act.
+7\. In this Part, unless the context otherwise requires, “former provisions” means Part IV of the Land Titles (Strata) Act (Cap. 158) repealed by this Act.
 
 Strata Titles Boards and its officers
 
-8. Every person who, immediately before the date of commencement of Part VI of this Act, held office as —
+8. Every person who, immediately before 1st April 2005, held office as —
 
 (a) the President or a Deputy President of the Strata Titles Boards;
 
@@ -4391,63 +4824,63 @@ Pending proceedings at Strata Titles Boards
 
 9. This Act shall not affect —
 
-(a) any proceeding commenced or pending before any Strata Titles Board before the date of commencement of Part VI of this Act, and every such proceeding may be continued and everything in relation thereto may be done in all respects after that date as if this Schedule had not been enacted;
+(a) any proceeding commenced or pending before any Strata Titles Board before 1st April 2005, and every such proceeding may be continued and everything in relation thereto may be done in all respects after that date as if this Schedule had not been enacted;
 
-(b) the continued operation or force of any order or decision of any Strata Titles Board made before the date of commencement of Part VI of this Act; and
+(b) the continued operation or force of any order or decision of any Strata Titles Board made before 1st April 2005; and
 
-(c) any right of appeal accrued before the date of commencement of Part VI of this Act in respect of any such order or decision of a Strata Titles Board.
+(c) any right of appeal accrued before 1st April 2005 in respect of any such order or decision of a Strata Titles Board.
 
 Continuation of existing management corporations
 
-10.—(1) A management corporation constituted in respect of a strata title plan under the former provisions shall continue and shall, on and from the repeal day, be deemed to be the management corporation constituted under this Act in respect of that strata title plan.
+10.—(1) A management corporation constituted in respect of a strata title plan under the former provisions shall continue and shall, on and from 1st April 2005, be deemed to be the management corporation constituted under this Act in respect of that strata title plan.
 
-(2) Subject to the provisions of this Part, any resolution, decision, consent or approval of or by any management corporation made or taken before the repeal day under the former provisions shall be deemed to have been made or taken under the corresponding provisions of this Act.
+(2) Subject to the provisions of this Part, any resolution, decision, consent or approval of or by any management corporation made or taken before 1st April 2005 under the former provisions shall be deemed to have been made or taken under the corresponding provisions of this Act.
 
 Continuation of councils
 
-11.—(1) Any council constituted under the former provisions for a management corporation continued by the operation of paragraph 10 shall, subject to this Act, be, on and from the repeal day, the council of that management corporation.
+11.—(1) Any council constituted under the former provisions for a management corporation continued by the operation of paragraph 10 shall, subject to this Act, be, on and from 1st April 2005, the council of that management corporation.
 
-(2) A person who, immediately before the repeal day, is a member of a council referred to in sub-paragraph (1) shall continue in such respective office as if he were elected as a member of that council under the corresponding provisions of this Act.
+(2) A person who, immediately before 1st April 2005, is a member of a council referred to in sub-paragraph (1) shall continue in such respective office as if he were elected as a member of that council under the corresponding provisions of this Act.
 
-(3) Nothing in Division 3 of Part V of this Act shall require any person who, immediately before the repeal day, is holding office as a treasurer of a management corporation continued by paragraph 10 or its council for more than 2 consecutive terms to vacate his office on or after that day, but that person shall not be re-appointed to hold office as such treasurer at the next annual general meeting at which a new council is elected by the management corporation.
+(3) Nothing in Division 3 of Part V of this Act shall require any person who, immediately before 1st April 2005, is holding office as a treasurer of a management corporation continued by the operation of paragraph 10 or its council for more than 2 consecutive terms to vacate his office on or after that date, but that person shall not be re-appointed to hold office as such treasurer at the next annual general meeting at which a new council is elected by the management corporation.
 
-(4) Nothing in Division 3 of Part V of this Act shall require any person who, immediately before the repeal day, is a member of a council referred to in sub-paragraph (1) and is an undischarged bankrupt to vacate his office on or after that day by reason only of such bankruptcy.
+(4) Nothing in Division 3 of Part V of this Act shall require any person who, immediately before 1st April 2005, is a member of a council referred to in sub-paragraph (1) and is an undischarged bankrupt to vacate his office on or after that date by reason only of such bankruptcy.
 
 Pending general meetings and council meetings
 
-12\. Any meeting of a management corporation continued by the operation of paragraph 10 or any council thereof, the notice of which has been given in accordance with the former provisions and before the repeal day, shall continue to be conducted and held in accordance with those former provisions as if this Act had not been enacted.
+12\. Any meeting of a management corporation continued by the operation of paragraph 10 or any council thereof, the notice of which has been given in accordance with the former provisions and before 1st April 2005, shall continue to be conducted and held in accordance with those former provisions as if this Act had not been enacted.
 
 Management and sinking funds of continued management corporations
 
-13.—(1) Subject to sub-paragraph (4), where a determination made or a contribution levied under the former provisions by a management corporation continued by the operation of paragraph 10 was in force immediately before the repeal day, that determination or contribution, as the case may be, shall be deemed to have been made, taken or (as the case may be) levied by the management corporation under the corresponding provisions of this Act.
+13.—(1) Subject to sub-paragraph (4), where a determination made or a contribution levied under the former provisions by a management corporation continued by the operation of paragraph 10 was in force immediately before 1st April 2005, that determination or contribution, as the case may be, shall be deemed to have been made, taken or (as the case may be) levied by the management corporation under the corresponding provisions of this Act.
 
-(2) Any contribution levied under the former provisions by a management corporation continued by the operation of paragraph 10 and unpaid on the repeal day may be recovered by the management corporation, and as and on and from the repeal day, shall bear interest as if it were a contribution levied under this Act.
+(2) Any contribution levied under the former provisions by a management corporation continued by the operation of paragraph 10 and unpaid on 1st April 2005 may be recovered by the management corporation, and as and on and from 1st April 2005, shall bear interest as if it were a contribution levied under this Act.
 
-(3) Every management fund and sinking fund which, immediately before the repeal day, is kept under the former provisions by a management corporation continued by the operation of paragraph 10 shall continue and be deemed to be the management fund and sinking fund, respectively, required under section 38 of this Act to be established and maintained by that management corporation.
+(3) Every management fund and sinking fund which, immediately before 1st April 2005, is kept under the former provisions by a management corporation continued by the operation of paragraph 10 shall continue and be deemed to be the management fund and sinking fund, respectively, required under section 38 of this Act to be established and maintained by that management corporation.
 
-(4) Notwithstanding anything in this paragraph, any resolution or any determination made under the former provisions by a management corporation continued by the operation of paragraph 10 shall, if inconsistent with section 2(9), be void to the extent of that inconsistency.
+(4) Notwithstanding anything in this paragraph, any resolution or any determination made under the former provisions by a management corporation continued by the operation of paragraph 10 shall, if inconsistent with section 2, be void to the extent of that inconsistency.
 
 By-laws of continued management corporations
 
-14.—(1) Subject to this paragraph, every by-law that was made in respect of any parcel comprised in a strata title plan under the former provisions by a management corporation continued by the operation of paragraph 10 and that was in force immediately before the repeal day shall continue in force and be deemed to have been made under section 32 or 33 of this Act.
+14.—(1) Subject to this paragraph, every by-law that was made in respect of any parcel comprised in a strata title plan under the former provisions by a management corporation continued by the operation of paragraph 10 and that was in force immediately before 1st April 2005 shall continue in force and be deemed to have been made under section 32 or 33 of this Act.
 
-(2) Subject to sub-paragraph (3), the by-laws in force for any parcel comprised in a strata title plan in respect of which a management corporation continued by the operation of paragraph 10 is constituted shall be the following by-laws in force immediately before the repeal day:
+(2) Subject to sub-paragraph (3), the by-laws in force for any parcel comprised in a strata title plan in respect of which a management corporation continued by the operation of paragraph 10 is constituted shall be the following by-laws in force immediately before 1st April 2005:
 
 (a) the by-laws set out in the First Schedule to the Land Titles (Strata) Act (Cap. 158) repealed by this Act; and
 
-(b) any additional by-laws or any amendments or repeals relating to those by-laws, made by the management corporation and lodged with the Commissioner of Buildings in accordance with section 41 of the Land Titles (Strata) Act repealed by this Act.
+(b) any additional by-laws or any amendments or repeals relating to those by-laws, made by the management corporation and lodged with the Commissioner of Buildings in accordance with section 41 of the Land Titles (Strata) Act (Cap. 158) repealed by this Act.
 
 (3) The by-laws prescribed by regulations under this Act may apply to and be the by-laws for every parcel comprised in a strata title plan in respect of which a management corporation continued by the operation of paragraph 10 is constituted if the management corporation, by special resolution, adopts the by-laws prescribed by regulations under this Act in substitution for the by-laws set out in the First Schedule of the Land Titles (Strata) Act repealed by this Act.
 
-(4) Where, immediately before the repeal day, a subsidiary proprietor of a lot was entitled, pursuant to former section 41 of the Land Titles (Strata) Act repealed by this Act, to a right of exclusive use and enjoyment of, or special privileges in respect of, any common property, the subsidiary proprietor for the time being of the lot shall continue to be entitled to that right or those special privileges in accordance with the terms of the by-law, and any such by-law shall be terminable on reasonable notice unless the management corporation otherwise resolves by unanimous resolution.
+(4) Where, immediately before 1st April 2005, a subsidiary proprietor of a lot was entitled, pursuant to former section 41 of the Land Titles (Strata) Act repealed by this Act, to a right of exclusive use and enjoyment of, or special privileges in respect of, any common property, the subsidiary proprietor for the time being of the lot shall continue to be entitled to that right or those special privileges in accordance with the terms of the by-law, and any such by-law shall be terminable on reasonable notice unless the management corporation otherwise resolves by unanimous resolution.
 
-(5) Any by-law made under the former provisions by a management corporation continued by the operation of paragraph 10 shall, if inconsistent with section 2(9), be void to the extent of that inconsistency.
+(5) Any by-law made under the former provisions by a management corporation continued by the operation of paragraph 10 shall, if inconsistent with section 2, be void to the extent of that inconsistency.
 
 Former initial period
 
-15.—(1) Where the former initial period of a management corporation continued by the operation of paragraph 10 is current immediately before the repeal day, section 49 of this Act shall not apply to the management corporation, and the former initial period shall —
+15.—(1) Where the former initial period of a management corporation continued by the operation of paragraph 10 is current immediately before 1st April 2005, section 49 of this Act shall not apply to the management corporation, and the former initial period shall —
 
-(a) continue to run from the date or event from which it was running immediately before the repeal day; and
+(a) continue to run from the date or event from which it was running immediately before 1st April 2005; and
 
 (b) expire (subject to any former provisions for its extension) whenever it would have expired if this Act had not been enacted,
 
@@ -4457,11 +4890,11 @@ and any rights, obligations, restrictions, powers or duties that, under those fo
 
 Existing proxies
 
-16\. Any appointment of a person as a proxy of another person under the First Schedule to the Land Titles (Strata) Act (Cap. 158) repealed by this Act, being an appointment in force immediately before the date of such repeal, shall be deemed to be an instrument of proxy made under the provisions of this Act.
+16\. Any appointment of a person as a proxy of another person under the Third Schedule to the Land Titles (Strata) Act repealed by this Act, being an appointment in force immediately before 1st April 2005, shall be deemed to be an instrument of proxy made under the provisions of this Act.
 
 Commissioner’s previous notices and orders, etc.
 
-17.—(1) Any schedule of strata units accepted or deemed accepted by the Commissioner of Buildings under section 7 of the Land Titles (Strata) Act repealed by this Act shall be deemed to have been accepted by the Commissioner under section 11 of this Act.
+17.—(1) Any schedule of strata units accepted or deemed accepted by the Commissioner of Buildings under section 7 of the Land Titles (Strata) Act (Cap. 158) repealed by this Act shall be deemed to have been accepted by the Commissioner under section 11 of this Act.
 
 (2) Any approval, notice, order, permission, acceptance or other document prepared, made, granted or approved by the Commissioner of Buildings under the provisions of the Land Titles (Strata) Act repealed by this Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act.
 
@@ -4473,77 +4906,85 @@ FIFTH SCHEDULE
 
 Section 140
 
-Consequential Amendments to Other Written Laws
+Consequential Amendments to
+
+
+
+
+Other Written Laws
 
 First column
 
 Second column
 
-(1) Building Control Act
+(1)
+
+Building Control Act
 
 
 
 
 (Chapter 29, 1999 Ed.)
 
-(a) Section 2 (1)
+(a)
 
-(i) Delete the definition of ”common property” and substitute the following definition:
+Section 2 (1)
 
-“
+(i)
 
-“common property” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+Delete the definition of “common property” and substitute the following definition:
 
-”.
+“ “common property” has the same meaning as in the Building Maintenance and Strata Management Act 2004;”.
 
-(ii) Insert, immediately after the definition of ”key structural elements”, the following definition:
+(ii)
 
-“
+Insert, immediately after the definition of “key structural elements”, the following definition:
 
-“limited common property” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+“ “limited common property” has the same meaning as in the Building Maintenance and Strata Management Act 2004;”.
 
-”.
+(iii)
 
-(iii) Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
+Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
 
-“
+“(c)
 
-(c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
+the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
 
-(ca) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+(ca)
 
-”.
+the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;”.
 
-(b) Section 26 (1)
+(b)
 
-(i) Delete the word “and” at the end of paragraph (b) (ii) of the definition of “owner”.
+Section 26 (1)
 
-(ii) Insert, immediately after paragraph (b) of the definition of “owner”, the following paragraph:
+(i)
 
-“
+Delete the word “and” at the end of paragraph (b)(ii) of the definition of “owner”.
 
-(ba) the limited common property of any building comprising 2 or more flats, means the subsidiary management corporation or the person receiving any rent or charge for the maintenance and management of that limited common property; and
+(ii)
 
-”.
+Insert, immediately after paragraph (b) of the definition of “owner”, the following paragraph:
 
-(2) Civil Defence Shelter Act
+“(ba)
 
+the limited common property of any building comprising 2 or more flats, means the subsidiary management corporation or the person receiving any rent or charge for the maintenance and management of that limited common property; and”.
 
+(2)
 
-
-(Chapter 42A, 1998 Ed.)
+Civil Defence Shelter Act (Chapter 42A, 1998 Ed.)
 
 Section 2 (1)
 
 Delete the word “and” at the end of paragraph (b) of the definition of “owner” and insert immediately thereafter the following paragraph:
 
-“
+“(ba)
 
-(ba) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and
+in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and”.
 
-”.
+(3)
 
-(3) Control of Vectors and Pesticides Act
+Control of Vectors and Pesticides Act
 
 
 
@@ -4554,15 +4995,17 @@ Section 2
 
 Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
 
-“
+“(c)
 
-(c) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that management corporation;
+in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that management corporation;
 
-(ca) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the subsidiary management corporation having control of that limited common property, and a managing agent appointed by a subsidiary management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that subsidiary management corporation; and
+(ca)
 
-”.
+in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the subsidiary management corporation having control of that limited common property, and a managing agent appointed by a subsidiary management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that subsidiary management corporation; and”.
 
-(4) Environmental Pollution Control Act
+(4)
+
+Environmental Pollution Control Act
 
 
 
@@ -4571,24 +5014,25 @@ Delete paragraph (c) of the definition of “owner” and substitute the followi
 
 Section 2
 
-(i) Delete the word “and” at the end of paragraph (b) of the definition of “owner”.
+(i)
 
-(i) Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
+Delete the word “and” at the end of paragraph (b) of the definition of “owner”.
 
-“
+(ii)
 
-(c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
+Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
 
-(d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+“(c)
 
-”.
+the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
 
-(5) Environmental Public
+(d)
 
+the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;”.
 
+(5)
 
-
-Health Act
+Environmental Public Health Act
 
 
 
@@ -4597,19 +5041,25 @@ Health Act
 
 Section 2
 
-(i) Delete the word “and” at the end of paragraph (b) of the definition of “owner”.
+(i)
 
-(ii) Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
+Delete the word “and” at the end of paragraph (b) of the definition of “owner”.
 
-“
+(ii)
 
-(c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
+Delete paragraph (c) of the definition of “owner” and substitute the following paragraphs:
 
-(d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+“(c)
 
-”.
+the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
 
-(6) Factories Act
+(d)
+
+the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;”.
+
+(6)
+
+Factories Act
 
 
 
@@ -4620,17 +5070,19 @@ Section 73
 
 Delete subsection (6) and substitute the following subsection:
 
-“
+“(6) In this section, “owner”, in relation to —
 
-(6) In this section, “owner”, in relation to —
+(a)
 
-(a) the common property of any sub-divided building, includes the management corporation having control of the building or the person receiving any rent or charge for the maintenance of that common property; and
+the common property of any sub-divided building, includes the management corporation having control of the building or the person receiving any rent or charge for the maintenance of that common property; and
 
-(b) the limited common property of any subdivided building, includes the subsidiary management corporation having control of the limited common property or the person receiving any rent or charge for the maintenance of that limited common property.
+(b)
 
-”.
+the limited common property of any subdivided building, includes the subsidiary management corporation having control of the limited common property or the person receiving any rent or charge for the maintenance of that limited common property.”.
 
-(7) Fire Safety Act
+(7)
+
+Fire Safety Act
 
 
 
@@ -4639,129 +5091,162 @@ Delete subsection (6) and substitute the following subsection:
 
 Section 2 (1)
 
-(i) Delete the words “or common property” in paragraph (e) of the definition of “fire hazard” and substitute the words “, common property or limited common property”.
+(i)
 
-(iii) Insert, immediately after paragraph (b) of the definition of “owner”, the following paragraph:
+Delete the words “or common property” in paragraph (e) of the definition of “fire hazard” and substitute the words “, common property or limited common property”.
 
-“
+(ii)
 
-(ba) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and
+Insert, immediately after paragraph (b) of the definition of “owner”, the following paragraph:
 
-”.
+“(ba)
 
-(8) Goods and Services Tax Act (Chapter 117A, 2001 Ed.)
+in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and”.
+
+(8)
+
+Goods and Services Tax Act
+
+
+
+
+(Chapter 117A, 2001 Ed.)
 
 Fourth Schedule, paragraph 4
 
 Insert, immediately after the words “common property” in sub-paragraph (3) (b), the words “or limited common property”.
 
-(9) Housing Developers (Control and Licensing) Act
+(9)
+
+Housing Developers (Control and Licensing) Act
 
 
 
 
 (Chapter 130, 1985 Ed.)
 
-(a) Section 22(2)
+(a)
+
+Section 22 (2)
 
 Insert, immediately after paragraph (c), the following paragraphs:
 
-“
+“(ca)
 
-(ca) the disclosure in any contract that shall be used by a licensed housing developer, his agent or nominee and a purchaser of any limited common property comprised in the development;
+the disclosure in any contract that shall be used by a licensed housing developer, his agent or nominee and a purchaser of any limited common property comprised in the development;
 
-(cb) any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
+(cb)
 
-”.
+any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;”.
 
-(b) New section 23A
+\*(b)
+
+New section 23A
+
+\*No date has been appointed for the coming into operation of item (9)(b) as at 1st July 2008.
 
 Insert, immediately after section 23, the following section:
 
-“
+“Staged developments 
 
-Staged developments
-
-23A.—(1) Every staged development of a housing development shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Controller under this section.
+23A\. —(1) Every staged development of a housing development shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Controller under this section.
 
 (2) For the purposes of this Act, the Controller may refuse to accept any staged development contract in relation to any staged development of a housing development, and any amendments thereto, if the contract —
 
-(a) is not in the prescribed form;
+(a)
 
-(b) does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
+is not in the prescribed form;
 
-(c) does not specify the proposed date the entire staged development is to be finally completed and concluded and such other information, conditions or particulars as may be prescribed.
+(b)
+
+does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
+
+(c)
+
+does not specify the proposed date the entire staged development is to be finally completed and concluded and such other information, conditions or particulars as may be prescribed.
 
 (3) No amendment to a staged development contract accepted under this Act by the Controller in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Controller.
 
-(4) In this Act, “authorised proposal”, “staged development” and “warranted development” shall have the same respective meanings as in the Building Maintenance and Strata Management Act 2004.
+(4) In this Act, “authorised proposal”, “staged development” and “warranted development” shall have the same respective meanings as in the Building Maintenance and Strata Management Act 2004..
 
-”.
+(10)
 
-(10) HUDC Housing Estates Act
+HUDC Housing Estates Act
 
 
 
 
 (Chapter 131, 1985 Ed.)
 
-(a) Section 2 (1)
+(a)
 
-(i) Delete the words “Buildings and Common Property (Maintenance and Management) Act” in the definition of “Commissioner” and substitute the words “Building Maintenance and Strata Management Act 2004”.
+Section 2 (1)
 
-(ii) Delete the marginal reference
+(i)
 
+Delete the words “Buildings and Common Property (Maintenance and Management) Act” in the definition of “Commissioner” and substitute the words “Building Maintenance and Strata Management Act 2004”.
 
+(ii)
 
+Delete the marginal reference “Cap. 30” in the definition of “Commissioner”.
 
-“Cap. 30” in the definition of “Commissioner”.
+(b)
 
-(b) Section 17 (5)
+Section 17 (5)
 
-(i) Delete the words “Buildings and Common Property (Maintenance and Management) Act” and substitute the words “Building Maintenance and Strata Management Act 2004”.
+(i)
 
-(ii) Delete the marginal reference “Cap. 30”.
+Delete the words “Buildings and Common Property (Maintenance and Management) Act” and substitute the words “Building Maintenance and Strata Management Act 2004”.
 
-(11) Planning Act
+(ii)
 
+Delete the marginal reference “Cap. 30”.
 
+\*(11)
 
-
+Planning Act
 (Chapter 232, 1998 Ed.)
 
-(a) Section 2
+\*No date has been appointed for the coming into operation of item (11) as at 1st July 2008.
 
-(i) Insert, immediately after the definition of “owner”, the following definition:
 
-“
 
-“parcel” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
 
-”.
+(a)
 
-(ii) Insert, immediately after the definition of “repealed Act”, the following definitions:
+Section 2
 
-“
+(i)
 
-“staged development” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+Insert, immediately after the definition of “owner”, the following definition:
 
-“strata title plan” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+“ “parcel” has the same meaning as in the Building Maintenance and Strata Management Act 2004;”.
 
-”.
+(ii)
 
-(b) New section 24A
+Insert, immediately after the definition of “repealed Act”, the following definitions:
+
+“ “staged development” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+
+“strata title plan” has the same meaning as in the Building Maintenance and Strata Management Act 2004;.
+
+(b)
+
+New section 24A
 
 Insert, immediately after section 24, the following section:
 
-“
+“Planning permission for staged developments 
 
-Planning permission for staged developments
+24A\. —(1) Without prejudice to section 12, no person shall carry out any development —
 
-24A.—(1) Without prejudice to section 12, no person shall carry out any development ––
+(a)
 
-(a) for the first stage of that staged development except with planning permission granted under this Part for that stage of the staged development and provisional permission granted under this Part for every subsequent stage of that staged development; and
+for the first stage of that staged development except with planning permission granted under this Part for that stage of the staged development and provisional permission granted under this Part for every subsequent stage of that staged development; and
 
-(b) for any stage of that staged development except with planning permission granted under this Part for that stage of the staged development.
+(b)
+
+for any stage of that staged development except with planning permission granted under this Part for that stage of the staged development.
 
 (2) Without prejudice to section 14, the competent authority shall not grant any planning permission for any development of any parcel that is a stage of a staged development unless the competent authority is satisfied that each subsequent stage has regard to the first stage and the stage immediately preceding.
 
@@ -4771,80 +5256,90 @@ Planning permission for staged developments
 
 (5) An application for planning permission for a staged development shall be made and dealt with in accordance with the provisions of this Part with the necessary modifications.
 
-(6) Without prejudice to section 15, the competent authority may, by way of conditions on the grant of planning permission in respect of any staged development, require the applicant for planning permission to place with it a security deposit for the completion of the staged development in accordance with its application and within the time mentioned in the grant of planning permission.
+(6) Without prejudice to section 15, the competent authority may, by way of conditions on the grant of planning permission in respect of any staged development, require the applicant for planning permission to place with it a security deposit for the completion of the staged development in accordance with its application and within the time mentioned in the grant of planning permission.”.
 
-”.
+(c)
 
-(c) New section 34A
+New section 34A
 
 Insert, immediately after section 34, the following section:
 
-“
+“Application to staged developments 
 
-Application to staged developments
+34A\. The provisions of this Part shall apply, with the necessary modifications, in respect of every staged development.”.
 
-34A. The provisions of this Part shall apply, with the necessary modifications, in respect of every staged development.
+(d)
 
-”.
-
-(d) Section 40 (1)
+Section 40 (1)
 
 Insert, immediately after the words “development charge” in paragraph (a), the words “, including the rates and methods in respect of the different stages of a staged development”.
 
-(e) Section 61 (2)
+(e)
+
+Section 61 (2)
 
 Insert, immediately after paragraph (l), the following paragraph:
 
-“
+“(la)
 
-(la) any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
+any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;”.
 
-”.
+(12)
 
-(12) Sale of Commercial Properties Act
+Sale of Commercial Properties Act
 
 
 
 
 (Chapter 281, 1985 Ed.)
 
-(a) New section 7A
+\*(a)
+
+New section 7A
+
+\*No date has been appointed for the coming into operation of item (12)(a) as at 1st July 2008.
 
 Insert, immediately after section 7, the following section:
 
-“
+“Staged developments 
 
-Staged developments
-
-7A.—(1) Every staged development wholly of commercial property shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Controller under this section.
+7A\. —(1) Every staged development wholly of commercial property shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Controller under this section.
 
 (2) For the purposes of this Act, the Controller may refuse to accept any staged development contract in relation to any staged development wholly of commercial property, and any amendments thereto, if the contract —
 
-(a) is not in the prescribed form;
+(a)
 
-(b) does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
+is not in the prescribed form;
 
-(c) does not specify the proposed date the entire staged development is to be finally completed and concluded or such other information, conditions or particulars as may be prescribed.
+(b)
+
+does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
+
+(c)
+
+does not specify the proposed date the entire staged development is to be finally completed and concluded or such other information, conditions or particulars as may be prescribed.
 
 (3) No amendment to a staged development contract accepted under this Act by the Controller in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Controller.
 
-(4) In this Act, “authorised proposal”, “staged development” and “warranted development” shall have the same respective meanings as in the Building Maintenance and Strata Management Act 2004.
+(4) In this Act, “authorised proposal”, “staged development” and “warranted development” shall have the same respective meanings as in the Building Maintenance and Strata Management Act 2004..
 
-”.
+(b)
 
-(b) Section 10(2)
+Section 10 (2)
 
 Insert, immediately after paragraph (c), the following paragraphs:
 
-“
+“(ca)
 
-(ca) require the disclosure in any sale and purchase agreement of any limited common property comprised in the commercial property to be sold;
+require the disclosure in any sale and purchase agreement of any limited common property comprised in the commercial property to be sold;
 
-(cb) prescribe any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
+(cb)
 
-”.
+prescribe any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;”.
 
-(13) Sewerage and Drainage Act
+(13)
+
+Sewerage and Drainage Act
 
 
 
@@ -4853,19 +5348,25 @@ Insert, immediately after paragraph (c), the following paragraphs:
 
 Section 2
 
-(i) Delete the word “and” at the end of paragraph (a) of the definition of ”owner”.
+(i)
 
-(iii) Delete paragraph (b) of the definition of “owner” and substitute the following paragraphs:
+Delete the word “and” at the end of paragraph (a) of the definition of “owner”.
 
-“
+(ii)
 
-(b) the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that management corporation; and
+Delete paragraph (b) of the definition of “owner” and substitute the following paragraphs:
 
-(c) the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the subsidiary management corporation having control of that limited common property, and a managing agent appointed by a subsidiary management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that subsidiary management corporation;
+“(b)
 
-”.
+the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that management corporation; and
 
-(14) Smoking (Prohibition in Certain Places) Act
+(c)
+
+the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the subsidiary management corporation having control of that limited common property, and a managing agent appointed by a subsidiary management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that subsidiary management corporation;”.
+
+(14)
+
+Smoking (Prohibition in Certain Places) Act
 
 
 
@@ -4876,18 +5377,118 @@ Section 3 (1)
 
 Insert, immediately after the words “common property” in paragraph (b), the words “or limited common property”.
 
-(15) Town Councils Act
+(15)
+
+Town Councils Act
 
 
 
 
 (Chapter 329A, 2000 Ed.)
 
-(a) Section 2 (1)
+(a)
+
+Section 2 (1)
 
 Delete the words “and windows” in paragraph (a) of the definition of “common property”.
 
-(b) Section 23 (1)
+(b)
+
+Section 23 (1)
 
 Delete the words “Buildings and Common Property (Maintenance and Management) Act (Cap. 30)” in paragraph (b) and substitute the words “Building Maintenance and Strata Management Act 2004”.
+
+## LEGISLATIVE SOURCE KEY
+
+Building Maintenance and Strata Management Act
+
+(CHAPTER 30C)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+BCPA (repealed)
+
+:
+
+Singapore, Buildings and Common Property (Maintenance and Management) Act (Chapter 30, 2000 Revised Edition —repealed)
+
+LT(S)A
+
+:
+
+Singapore, Land Titles (Strata) Act (Chapter 158, 1999 Revised Edition — in force before amendments made to Act by Building Maintenance and Strata Management Act (Act 47 of 2004)
+
+## LEGISLATIVE HISTORY
+
+Building Maintenance and Strata Management Act
+
+(CHAPTER 30C)
+
+This Legislative History is provided for the convenience of users of the Building Maintenance and Strata Management Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 47 of 2004—Building Maintenance and Strata Management Act (Chapter 30C)**|
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second Reading|19 April 2004|
+||Date Committed to Select Committee|19 April 2004|
+||Report Presented to Parliament|7 October 2004 (Parl. 5 of 2004)|
+||Date of Third Reading|19 October 2004|
+||Date of commencement|1 April 2005 (except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule|
+|2.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (section 11 — Amendment of Building Maintenance and Strata Management Act 2004)|
+|3.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (item (1) of the Schedule — Amendment of Building Maintenance and Strata Management Act 2004)|
+|4.|**Act 46 of 2007—Land Titles (Strata) (Amendment) Act 2007**|
+||(Related amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 32/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|4 October 2007|
+|5.|**Act 47 of 2007—Building Control (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 34/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|15 February 2008|
+|6.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2007|
+|||(Bill No. 50/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|22 January 2008|
+||Date of commencement|1 April 2008|
+|7.|**2008 Revised Edition—Building Maintenance and Strata Management Act**|
+||Date of operation|31 July 2008|
+## COMPARATIVE TABLE
+
+Building Maintenance and Strata Management Act
+
+(CHAPTER 30C)
+
+The following provisions in the Building Maintenance and Strata Management Act (Act 47 of 2004) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Building Maintenance and Strata Management Act.
+
+2008 Ed\. 
+
+Act 47 of 2004 
+
+Omitted
+
+137 —(1)
+
+137 —(1)
+
+(2)
+
+(2)
+
+(3)
 
