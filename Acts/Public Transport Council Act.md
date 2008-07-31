@@ -240,9 +240,11 @@ PRELIMINARY
 
 [37/2005 wef 03/04/2006]
 
-“taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276) ;
+“taxi” or “” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276) ;
 
 [28/2001 wef 10/09/2001]
+
+[37/2005 wef 03/04/2006]
 
 “ticket” means any form of authorisation, issued for the conveyance of any passenger on a rapid transit system or on any bus operated by a bus service operator, or both;
 
@@ -1376,7 +1378,7 @@ Section 24(3)(c)
 
 Fare Adjustment Formula
 
-Maximum Fare Adjustment for any year (X) = Price Index for year (X) – 0.3%
+Maximum Fare Adjustment for any year (X) = Price Index for year (X) – 1.5%
 
 where Price Index = 0.5 CPI + 0.5 WI
 
@@ -1447,6 +1449,8 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 25/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|17 October 2005|
 ||Dates of commencement|1 July 2008 (section 14)|
+|13.|**G.N. No. S 386/2008—Public Transport Council Act (Amendment of Third Schedule) Order 2008**|
+||Date of commencement|31 July 2008|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
