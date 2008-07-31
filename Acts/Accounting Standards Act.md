@@ -1,16 +1,14 @@
-**Accounting Standards Act 2007**
+**Accounting Standards Act**
 
-**(No. 39 of 2007)**
+**(CHAPTER 2B)**
 
 **Table of Contents**
 
 [**Long Title**](#Accounting-Standards-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -26,7 +24,7 @@
 
 - [7 Directions by Minister](#Directions-by-Minister)
 
-[**Part III ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES**](#Part-III)
+[**Part III ACCOUNTING STANDARDS FOR COMPANIES AND OTHER ENTITIES**](#Part-III)
 
 - [8 Accounting standards](#Accounting-standards)
 
@@ -34,65 +32,43 @@
 
 - [10 Evidence of text of accounting standards](#Evidence-of-text-of-accounting-standards)
 
-[**Part IV ACCOUNTING STANDARDS for statutory bodies**](#Part-IV)
+[**Part IV ACCOUNTING STANDARDS FOR STATUTORY BODIES**](#Part-IV)
 
 - [11 Accountant-General to establish accounting standards](#Accountant-General-to-establish-accounting-standards)
 
 - [12 Statutory bodies to comply with accounting standards](#Statutory-bodies-to-comply-with-accounting-standards)
 
-[**Part V miscellaneous**](#Part-V)
+[**Part V MISCELLANEOUS**](#Part-V)
 
-- [13 Amendment of First Schedule](#Amendment-of-First-Schedule)
+- [13 Amendment of Schedule](#Amendment-of-Schedule)
 
 - [14 Rules](#Rules)
 
-- [15 Consequential and related amendments to other Acts](#Consequential-and-related-amendments-to-other-Acts)
+[**THE SCHEDULE Statutory Bodies**](#THE-SCHEDULE)
 
-[**FIRST SCHEDULE Statutory Bodies**](#FIRST-SCHEDULE-Statutory-Bodies)
+[**Legislative History**](#Legislative-History)
 
-[**SECOND SCHEDULE Consequential and Related Amendments to Other Acts**](#SECOND-SCHEDULE-Consequential-and-Related-Amendments-to-Other-Acts)
+# Accounting Standards Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 2B)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 39 of 2007)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2008
 
-Published by Authority
+(31st July 2008)
 
-NO. 46]
+An Act to establish the Accounting Standards Council to issue accounting standards applicable to companies and other incorporated and unincorporated bodies, to provide for accounting standards applicable to statutory bodies with a public function and for matters connected therewith.
 
-Friday, October 26
-
-[2007
-
-The following Act was passed by Parliament on 27th August 2007 and assented to by the President on 10th September 2007:—
-
-Accounting Standards Act 2007
-
-(No. 39 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-10th September 2007.
-
-Date of Commencement: 1st November 2007
-
-An Act to establish the Accounting Standards Council to issue accounting standards applicable to companies and other incorporated and unincorporated bodies, to provide for accounting standards applicable to statutory bodies with a public function and for matters connected therewith, and to make consequential and related amendments to the Companies Act (Chapter 50 of the 2006 Revised Edition) and certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 2007]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Accounting Standards Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Accounting Standards Act.
 
 ### Interpretation
 
@@ -104,7 +80,7 @@ PRELIMINARY
 
 (b) an accounting standard for statutory bodies established by the Accountant-General under Part IV;
 
-“Chairman” means the Chairman of the Council appointed under section 4(1) (a), and includes any temporary Chairman of the Council if so appointed;
+“Chairman” means the Chairman of the Council appointed under section 4(1)(a), and includes any temporary Chairman of the Council if so appointed;
 
 “company” means any company incorporated under the Companies Act (Cap. 50) or any corresponding previous written law, and includes a foreign company registered under Division 2 of Part XI of that Act in respect of its operations in Singapore;
 
@@ -202,11 +178,16 @@ any of the functions or powers of the Council under this Act or any other writte
 
 ## PART III
 
-ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES
+ACCOUNTING STANDARDS FOR
+
+
+
+
+COMPANIES AND OTHER ENTITIES
 
 ### Accounting standards
 
-8\.—(1) (1) Accounting standards made or formulated by the Council may be expressed to apply —
+8\.—(1) Accounting standards made or formulated by the Council may be expressed to apply —
 
 (a) to all companies or specified classes or descriptions of companies;
 
@@ -220,7 +201,9 @@ ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES
 
 (3) The Council may, from time to time, issue practice directions on the interpretation of the accounting standards made or formulated under this Part and on matters relating to them and their use in Singapore.
 
-(4) An accounting standard that was in force under section 200A of the Companies Act (Cap. 50) immediately before the date of commencement of subsection (1)(a), and any practice directions issued by the Accounting Standards Committee under that section, shall continue in force after that date as if it had been made or formulated by the Council under this Part after that date.
+(4) An accounting standard that was in force under section 200A1of the Companies Act (Cap. 50) immediately before 1st November 2007, and any practice directions issued by the Accounting Standards Committee under that section, shall continue in force after that date as if they had been made or formulated by the Council under this Part after that date.
+
+1Section 200A of the Companies Act (Cap. 50) was repealed by the Accounting Standards Act 2007 (Act 39 of 2007)
 
 ### Manner of making, etc., accounting standards
 
@@ -228,7 +211,7 @@ ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES
 
 (a) the development of accounting standards that require the provision of financial information that —
 
-(i) assist directors of companies and officers of other entities referred to in section 8(1) to discharge their duties and obligations in relation to financial reporting under the Companies Act or any other written law;
+(i) assists directors of companies and officers of other entities referred to in section 8(1) to discharge their duties and obligations in relation to financial reporting under the Companies Act or any other written law;
 
 (ii) is relevant to assessing performance, financial position, financing and investment;
 
@@ -240,7 +223,7 @@ ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES
 
 (b) to maintain investor confidence in the Singapore economy (including its capital markets).
 
-(2) In making and formulating accounting standards, the Council —
+(2) In making or formulating accounting standards, the Council —
 
 (a) shall have regard to the suitability of a proposed accounting standard for different types of entities referred to in section 8(1);
 
@@ -252,7 +235,7 @@ ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES
 
 ### Evidence of text of accounting standards
 
-10\.—(1) (1) Where an accounting standard is made or formulated by the Council under this Part, the Council shall —
+10\.—(1) Where an accounting standard is made or formulated by the Council under this Part, the Council shall —
 
 (a) publish a notice of the making or formulation of the accounting standard in such manner as will secure adequate publicity for such making or formulation;
 
@@ -280,7 +263,7 @@ ACCOUNTING STANDARDS for COMPANIES AND OTHER ENTITIES
 
 ## PART IV
 
-ACCOUNTING STANDARDS for statutory bodies
+ACCOUNTING STANDARDS FOR STATUTORY BODIES
 
 ### Accountant-General to establish accounting standards
 
@@ -302,15 +285,15 @@ ACCOUNTING STANDARDS for statutory bodies
 
 ### Statutory bodies to comply with accounting standards
 
-12\. The accounts and financial statements of every statutory body specified in the First Schedule shall be prepared in compliance with such accounting standards as are established under this Part and notified in writing to the statutory body by the Accountant-General.
+12\. The accounts and financial statements of every statutory body specified in the Schedule shall be prepared in compliance with such accounting standards as are established under this Part and notified in writing to the statutory body by the Accountant-General.
 
 ## PART V
 
-miscellaneous
+MISCELLANEOUS
 
-### Amendment of First Schedule
+### Amendment of Schedule
 
-13\.—(1) The Minister may, by order published in theGazette, amend the First Schedule.
+13\.—(1) The Minister may, by order published in theGazette, amend the Schedule.
 
 (2) Every order made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -322,11 +305,7 @@ miscellaneous
 
 (b) the opening, keeping, closing and auditing of the Council’s accounts.
 
-### Consequential and related amendments to other Acts
-
-15\. The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
-
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Sections 12 and 13(1)
 
@@ -348,9 +327,9 @@ Accounting and Corporate Regulatory Authority Act (Chapter 2A)
 
 Agency for Science, Technology and Research Act (Chapter 5A)
 
-3. Agri-Food and Veterinary Authority
+3. Agri-food and Veterinary Authority
 
-Agri-Food and Veterinary Authority Act
+Agri-food and Veterinary Authority Act
 
 
 
@@ -368,21 +347,11 @@ Building and Construction Authority Act
 
 5. Casino Regulatory Authority of Singapore
 
-Casino Control Act 2006
-
-
-
-
-(Act 10 of 2006)
+Casino Control Act (Chapter 33A)
 
 6. Central Provident Fund Board
 
-Central Provident Fund Act
-
-
-
-
-(Chapter 36)
+Central Provident Fund Act (Chapter 36)
 
 7. Civil Aviation Authority of Singapore
 
@@ -395,34 +364,24 @@ Civil Aviation Authority of Singapore Act
 
 8. Civil Service College
 
-Civil Service College Act
-
-
-
-
-(Chapter 45)
+Civil Service College Act (Chapter 45)
 
 9. Competition Commission of Singapore
 
-Competition Act
-
-
-
-
-(Chapter 50B)
+Competition Act (Chapter 50B)
 
 10. Defence Science and Technology Agency
 
-Defence Science and Technology Agency Act (Chapter 75A)
+Defence Science and Technology Agency Act
+
+
+
+
+(Chapter 75A)
 
 11. Economic Development Board
 
-Economic Development Board Act
-
-
-
-
-(Chapter 85)
+Economic Development Board Act (Chapter 85)
 
 12. Energy Market Authority of Singapore
 
@@ -435,39 +394,19 @@ Energy Market Authority of Singapore Act
 
 13. Health Promotion Board
 
-Health Promotion Board Act
-
-
-
-
-(Chapter 122B)
+Health Promotion Board Act (Chapter 122B)
 
 14. Health Sciences Authority
 
-Health Sciences Authority Act
-
-
-
-
-(Chapter 122C)
+Health Sciences Authority Act (Chapter 122C)
 
 15. Housing and Development Board
 
-Housing and Development Act
-
-
-
-
-(Chapter 129)
+Housing and Development Act (Chapter 129)
 
 16. Info-communications Development Authority of Singapore
 
-Info-communications Development Authority of Singapore Act
-
-
-
-
-(Chapter 137A)
+Info-communications Development Authority of Singapore Act (Chapter 137A)
 
 17. Inland Revenue Authority of Singapore
 
@@ -498,20 +437,25 @@ Institute of Technical Education Act
 
 20. Intellectual Property Office of Singapore
 
-Intellectual Property Office of Singapore Act (Chapter 140)
+Intellectual Property Office of Singapore Act
+
+
+
+
+(Chapter 140)
 
 21. International Enterprise Singapore Board
 
-International Enterprise Singapore Board Act (Chapter 143B)
+International Enterprise Singapore Board Act
+
+
+
+
+(Chapter 143B)
 
 22. Jurong Town Corporation
 
-Jurong Town Corporation Act
-
-
-
-
-(Chapter 150)
+Jurong Town Corporation Act (Chapter 150)
 
 23. Land Transport Authority of Singapore
 
@@ -524,38 +468,33 @@ Land Transport Authority of Singapore Act
 
 24. Majlis Ugama Islam, Singapura
 
-Administration of Muslim Law Act
-
-
-
-
-(Chapter 3)
+Administration of Muslim Law Act (Chapter 3)
 
 25. Maritime and Port Authority of Singapore
 
-Maritime and Port Authority of Singapore Act (Chapter 170A)
+Maritime and Port Authority of Singapore Act
+
+
+
+
+(Chapter 170A)
 
 26. Media Development Authority of Singapore
 
-Media Development Authority of Singapore Act (Chapter 172)
+Media Development Authority of Singapore Act
+
+
+
+
+(Chapter 172)
 
 27. Nanyang Polytechnic
 
-Nanyang Polytechnic Act
-
-
-
-
-(Chapter 191A)
+Nanyang Polytechnic Act (Chapter 191A)
 
 28. National Arts Council
 
-National Arts Council Act
-
-
-
-
-(Chapter 193A)
+National Arts Council Act (Chapter 193A)
 
 29. National Council of Social Service
 
@@ -568,102 +507,47 @@ National Council of Social Service Act
 
 30. National Environment Agency
 
-National Environment Agency Act
-
-
-
-
-(Chapter 195)
+National Environment Agency Act (Chapter 195)
 
 31. National Heritage Board
 
-National Heritage Board Act
-
-
-
-
-(Chapter 196A)
+National Heritage Board Act (Chapter 196A)
 
 32. National Library Board
 
-National Library Board Act
-
-
-
-
-(Chapter 197)
+National Library Board Act (Chapter 197)
 
 33. National Parks Board
 
-National Parks Board Act
-
-
-
-
-(Chapter 198A)
+National Parks Board Act (Chapter 198A)
 
 34. Ngee Ann Polytechnic
 
-Ngee Ann Polytechnic Act
-
-
-
-
-(Chapter 207)
+Ngee Ann Polytechnic Act (Chapter 207)
 
 35. People’s Association
 
-People’s Association Act
-
-
-
-
-(Chapter 227)
+People’s Association Act (Chapter 227)
 
 36. Preservation of Monuments Board
 
-Preservation of Monuments Act
-
-
-
-
-(Chapter 239)
+Preservation of Monuments Act (Chapter 239)
 
 37. Public Transport Council
 
-Public Transport Council Act
-
-
-
-
-(Chapter 259B)
+Public Transport Council Act (Chapter 259B)
 
 38. Public Utilities Board
 
-Public Utilities Act
-
-
-
-
-(Chapter 261)
+Public Utilities Act (Chapter 261)
 
 39. Republic Polytechnic
 
-Republic Polytechnic Act
-
-
-
-
-(Chapter 270)
+Republic Polytechnic Act (Chapter 270)
 
 40. Science Centre Board
 
-Science Centre Act
-
-
-
-
-(Chapter 286)
+Science Centre Act (Chapter 286)
 
 41. Sentosa Development Corporation
 
@@ -684,74 +568,49 @@ Singapore Examinations and Assessment Board Act (Chapter 299A)
 
 44. Singapore Labour Foundation
 
-Singapore Labour Foundation Act
-
-
-
-
-(Chapter 302)
+Singapore Labour Foundation Act (Chapter 302)
 
 45. Singapore Land Authority
 
-Singapore Land Authority Act
-
-
-
-
-(Chapter 301)
+Singapore Land Authority Act (Chapter 301)
 
 46. Singapore Polytechnic
 
-Singapore Polytechnic Act
-
-
-
-
-(Chapter 303)
+Singapore Polytechnic Act (Chapter 303)
 
 47. Singapore Sports Council
 
-Singapore Sports Council Act
-
-
-
-
-(Chapter 305)
+Singapore Sports Council Act (Chapter 305)
 
 48. Singapore Totalisator Board
 
-Singapore Totalisator Board Act
-
-
-
-
-(Chapter 305A)
+Singapore Totalisator Board Act (Chapter 305A)
 
 49. Singapore Tourism Board
 
-Singapore Tourism Board Act
-
-
-
-
-(Chapter 305B)
+Singapore Tourism Board Act (Chapter 305B)
 
 50. Singapore Workforce Development Agency
 
-Singapore Workforce Development Agency Act (Chapter 305D)
+Singapore Workforce Development Agency Act
+
+
+
+
+(Chapter 305D)
 
 51. Standards, Productivity and Innovation Board
 
-Standards, Productivity and Innovation Board Act (Chapter 303A)
+Standards, Productivity and Innovation Board Act
+
+
+
+
+(Chapter 303A)
 
 52. Temasek Polytechnic
 
-Temasek Polytechnic Act
-
-
-
-
-(Chapter 323A)
+Temasek Polytechnic Act (Chapter 323A)
 
 53. Urban Redevelopment Authority
 
@@ -762,80 +621,20 @@ Urban Redevelopment Authority Act
 
 (Chapter 340).
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 15
+Accounting Standards Act
 
-Consequential and Related Amendments to Other Acts
+(CHAPTER 2B)
 
-First column
+This Legislative History is provided for the convenience of users of the Accounting Standards Act. It is not part of this Act.
 
-Second column
-
-(1) Companies Act
-
-
-
-
-(Chapter 50, 2006 Ed.)
-
-(a) Section 4(1)
-
-Delete the definition of “Accounting Standards” and substitute the following definition:
-
-“
-
-“Accounting Standards” means the accounting standards made or formulated by the Accounting Standards Council under Part III of the Accounting Standards Act 2007 and applicable to companies and to foreign companies in respect of their operations in Singapore for the purposes of this Act;
-
-”.
-
-(b) Section 200A
-
-Repeal.
-
-(c) Section 201
-
-Insert, immediately after subsection (19), the following subsection:
-
-“
-
-(20) The requirements of this section as to the form and content of a company’s accounts or consolidated accounts being in compliance with the Accounting Standards shall not apply to any company that is registered as a charity or approved as an institution of a public character under the Charities Act (Cap. 37) to the extent that that Act requires that company’s accounting records and statements of accounts for any financial year to comply with the accounting standards applicable to charities to the exclusion of the Accounting Standards and other accounting standards.
-
-”.
-
-(2) Financial Procedure Act
-
-
-
-
-(Chapter 109, 1992 Ed.)
-
-Section 2B (2)
-
-Delete the words “in relation to the accounts of the Government”.
-
-(3) Societies Act
-
-
-
-
-(Chapter 311, 1985 Ed.)
-
-Section 34 (1)
-
-Insert, immediately after paragraph (f), the following paragraphs:
-
-“
-
-(fa) to require the accounts and financial statements of registered societies to be in compliance with —
-
-(i) accounting standards that are made or formulated by the Accounting Standards Council under Part III of the Accounting Standards Act 2007 and applicable to societies; or
-
-(ii) other requirements substituted by the Minister in lieu of compliance with the accounting standards applicable to societies;
-
-(fb) to provide for relief from the requirements of such accounting standards applicable to societies;
-
-(fc) to provide that the regulations made under paragraph (fa) shall not apply to any society that is registered as a charity or approved as an institution of a public character under the Charities Act (Cap. 37) to the extent that that Act requires the society’s accounts and financial statements for any financial year to comply with the accounting standards applicable to charities to the exclusion of other accounting standards;
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 39 of 2007—Accounting Standards Act 2007**|
+||Date of First Reading|16 July 2007|
+|||(Bill No. 27/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|1 November 2007|
+|2.|**2008 Revised Edition—Accounting Standards Act**|
+||Date of operation|31 July 2008|
