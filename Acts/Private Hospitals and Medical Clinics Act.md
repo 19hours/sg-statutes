@@ -464,9 +464,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) this Act;
 
-(ii) the Infectious Diseases Act (Cap. 137); or
+(ii) the Infectious Diseases Act (Cap. 137);
 
-(iii) the Termination of Pregnancy Act (Cap. 324);
+(iii) the Termination of Pregnancy Act (Cap. 324); or
+
+(iv) the Human Organ Transplant Act (Cap. 131A);
+
+[2/2008 wef 01/08/2008]
 
 (b) for the purpose of any disciplinary proceedings under the Dental Registration Act (Cap. 76) or the Medical Registration Act (Cap. 174); or
 
@@ -639,6 +643,11 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 9/2007 published on 27 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|8.|**Act 2 of 2008—Human Organ Transplant (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 47/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|21 January 2008|
+||Date of commencement|1 August 2008 (Section 7)|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
