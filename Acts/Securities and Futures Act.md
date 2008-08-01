@@ -1398,6 +1398,10 @@ and includes a futures option transaction; or
 
 “quote”, in relation to securities and a securities market of an approved exchange or of a recognised market operator, means to display or provide, on the securities market of the approved exchange or recognised market operator, information concerning the particular prices or particular consideration at which offers or invitations to sell, purchase or exchange issued or prescribed securities are made on that securities market, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the making or acceptance of offers to sell, purchase or exchange issued or prescribed securities;
 
+“real estate investment trust management” has the meaning given to it in the Second Schedule;
+
+[S 376/2008 wef 01/08/2008]
+
 “recognised market operator” means a corporation that is recognised by the Authority under section 8(2) as a recognised market operator;
 
 “record” means information that is inscribed, stored or otherwise fixed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;
@@ -1745,6 +1749,10 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 (B) fund management;
 
 (C) providing custodial services for securities;
+
+(CA) real estate investment trust management;
+
+[S 376/2008 wef 01/08/2008]
 
 (D) securities financing; or
 
@@ -6846,9 +6854,15 @@ Registers of Interests in Securities
 
 (i) a holder of a capital markets services licence to deal in securities and a representative of such a holder;
 
-(ii) a holder of a capital markets services licence to advise on corporate finance and a representative of such a holder; or
+(ii) a holder of a capital markets services licence to advise on corporate finance and a representative of such a holder;
 
-(iii) a holder of a capital markets services licence for fund management and a representative of such a holder; and
+(iii) a holder of a capital markets services licence for fund management and a representative of such a holder; or
+
+[S 376/2008 wef 01/08/2008]
+
+(iv) a holder of a capital markets services licence for real estate investment trust management and a representative of such a holder; and
+
+[S 376/2008 wef 01/08/2008]
 
 (b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
 
@@ -14278,11 +14292,21 @@ Subdivision (2) — Authorisation and recognition
 
 (3) It shall be a condition for the authorisation of a collective investment scheme under subsection (1) that —
 
-(a) the manager for the scheme is —
+(a) the manager of the scheme is —
 
-(i) the holder of a capital markets services licence for fund management or a person exempted under section 99(1)(a), (b), (c) or (d) in respect of fund management; or
+(i) in the case of a collective investment scheme —
 
-(ii) a public company which does not carry on business in fund management or is specified in the Third Schedule or is exempted under section 99(1)(f), (g) or (h) in respect of fund management; and
+(A) that is a trust;
+
+(B) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+(C) all or any units of which are listed for quotation on a securities exchange,
+
+the holder of a capital markets services licence for real estate investment trust management; and
+
+(ii) in all other cases, the holder of a capital markets services licence for fund management or a person exempted under section 99(1)(a), (b), (c) or (d) in respect of fund management; and
+
+[S 376/2008 wef 01/08/2008]
 
 (b) the manager for the scheme is a fit and proper person, in the opinion of the Authority, and in considering if a person satisfies this requirement, the Authority may take into account any matter relating to —
 
@@ -16794,6 +16818,10 @@ advising on corporate finance;
 
 fund management;
 
+(ea)
+
+real estate investment trust management;
+
 (f)
 
 securities financing;
@@ -16801,6 +16829,8 @@ securities financing;
 (g)
 
 providing custodial services for securities.
+
+[S 376/2008 wef 01/08/2008]
 
 Part II
 
@@ -16848,7 +16878,11 @@ but does not include any act performed for or in connection with a contract or a
 
 (a) the management of a portfolio of securities or futures contracts; or
 
-(b) foreign exchange trading or leveraged foreign exchange trading for the purpose of managing the customer’s funds;
+(b) foreign exchange trading or leveraged foreign exchange trading for the purpose of managing the customer’s funds,
+
+but does not include real estate investment trust management;
+
+[S 376/2008 wef 01/08/2008]
 
 “leveraged foreign exchange trading” means —
 
@@ -16905,6 +16939,16 @@ but does not include —
 (iii) the provision of services by a nominee corporation which are solely incidental to the business of a nominee corporation; or
 
 (iv) any other conduct as the Authority may prescribe;
+
+“real estate investment trust management” means managing or operating a collective investment scheme —
+
+(a) that is a trust;
+
+(b) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+(c) all or any units of which are listed for quotation on a securities exchange;
+
+[S 376/2008 wef 01/08/2008]
 
 “securities financing” means to directly or indirectly facilitate, by providing any credit facility, advance or loan —
 
@@ -17203,6 +17247,8 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of Second and Third Readings|17 July 2007|
 ||Date of commencement|27 August 2007|
 |||27 February 2008|
+|16.|**G. N. No. S 376/2008—Securities and Futures Act (Amendment of Second Schedule and Other Provisions to Act for REIT Management) Order 2008**|
+||Date of commencement|1 August 2008|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
