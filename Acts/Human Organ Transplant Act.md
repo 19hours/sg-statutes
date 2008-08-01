@@ -78,6 +78,8 @@
 
 - [18 Disclosure of information](#Disclosure-of-information)
 
+- [18A Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+
 - [19 Composition of offences](#Composition-of-offences)
 
 - [20 Amendment of Second Schedule](#Amendment-of-Second-Schedule)
@@ -172,13 +174,9 @@ REMOVAL OF ORGAN AFTER DEATH
 
 (c) who is below 21 years of age unless the parent or guardian has consented to such removal;
 
-(d) who is above 60 years of age;
+(d) who is above 60 years of age; or
 
-(e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was not of sound mind, unless the parent or guardian has consented to such removal; or
-
-(f) who is a Muslim.
-
-[1/2004]
+(e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was not of sound mind, unless the parent or guardian has consented to such removal.
 
 (3) In this section, “permanent resident” includes —
 
@@ -244,29 +242,11 @@ REGISTRATION OF OBJECTION
 
 ### Proposed recipients of organ
 
-12\.—(1) Subject to subsection (2), in the selection of a proposed recipient of any organ removed pursuant to section 5 —
+12\.—(1) In the selection of a proposed recipient of any organ removed pursuant to section 5 —
 
 (a) a person who has not registered any objection with the Director under section 9(1) in respect of that organ shall have priority over a person who has registered such objection; and
 
 (b) a person who has registered his objection with the Director under section 9(1) in respect of that organ but who has withdrawn such objection under section 11(1) shall have the same priority as a person who has not registered any such objection, over a person whose objection in respect of that organ is still registered with the Director, at the expiration of 2 years from the date of receipt of the withdrawal by the Director provided he has not registered again any such objection since that date.
-
-[1/2004]
-
-(2) Notwithstanding subsection (1)(a) —
-
-(a) a person who is a Muslim shall have priority over a person who has registered such objection only if he has made a gift of that organ, to take effect upon his death, under section 3 of the Medical (Therapy, Education and Research) Act (Cap. 175) —
-
-(i) within 6 months from 1st July 20041;
-
-1Date of commencement of the Human Organ Transplant (Amendment) Act 2004 (Act 1 of 2004)
-
-(ii) where that person is below 21 years of age, before or upon attaining the age of 21; or
-
-(iii) where that person is neither a citizen nor a permanent resident of Singapore within 6 months from the date he becomes a citizen or permanent resident of Singapore, whichever is earlier;
-
-(b) a person who is a Muslim and has made a gift of that organ from his body in accordance with paragraph (a)(i), (ii) or (iii) shall have the same priority as a person who has priority under subsection (1)(a) over a person whose objection in respect of that organ is still registered with the Director, with effect from the date of such gift provided that such priority shall cease immediately upon the revocation of such gift; and
-
-(c) a person who is a Muslim and has made a gift of that organ from his body under the Medical (Therapy, Education and Research) Act (Cap. 175) after the period prescribed in paragraph (a)(i), (ii) or (iii) shall have the same priority as a person who has priority under subsection (1)(a) over a person whose objection in respect of that organ is still registered with the Director, at the expiration of 2 years from the date of such gift provided he has not revoked his gift since that date.
 
 [1/2004]
 
@@ -572,17 +552,65 @@ may become publicly known.
 
 (2) Subsection (1) shall not apply to or in relation to any information disclosed —
 
-(a) in pursuance of an order of a Court or when otherwise required by law;
+(a) for the purpose of administering and enforcing this Act;
 
-(b) for the purposes of hospital administration or bona fide medical research;
+(b) for the purpose of referring any complaint or information concerning any registered medical practitioner under section 39(1) of the Medical Registration Act (Cap. 174);
 
-(c) with the consent of the person to whom the information relates; or
+(c) in pursuance of an order of a Court or when otherwise required by law;
 
-(d) when the circumstances in which the disclosure is made are such that the disclosure is or would be privileged.
+(d) for the purposes of hospital administration or bona fide medical research;
+
+(e) with the consent of the person to whom the information relates; or
+
+(f) when the circumstances in which the disclosure is made are such that the disclosure is or would be privileged.
+
+[2/2008 wef 01/08/2008]
 
 (3) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [ACT Transplantation and Anatomy 1977, s. 47]
+
+### Offences by bodies corporate, etc.
+
+18A\.—(1) Where an offence under this Act committed by a body corporate is proved —
+
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such officer or member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(5) In this section —
+
+“body corporate” includes a limited liability partnership which has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+(6) The Minister may, by regulations, provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
 ### Composition of offences
 
@@ -703,6 +731,11 @@ This Legislative History is provided for the convenience of users of the Human O
 |||(Bill No. 47/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|21 January 2008|
 ||Dates of commencement|28 May 2008 (section 4)|
+|7.|**Act 2 of 2008—Human Organ Transplant (Amendment) Act 2008**|
+||Date of First Reading|12 November 2007|
+|||(Bill No. 47/2007 published on 13 November 2007)|
+||Date of Second and Third Readings|21 January 2008|
+||Dates of commencement|1 August 2008 (except section 4)|
 ## COMPARATIVE TABLE
 
 Human Organ Transplant Act
