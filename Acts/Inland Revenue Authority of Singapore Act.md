@@ -412,7 +412,7 @@ Constitution and proceedings of Authority
 
 Appointment of Chairman, Deputy Chairman and other members
 
-1. —(1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
+1. (1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
 
 (2) The Minister may appoint one of the members to be the Chairman and another of the members to be the Deputy Chairman.
 
@@ -550,6 +550,10 @@ Specified Acts
 
 2\. Betting and Sweepstake Duties Act [Cap. 22].
 
+3. Part IX of the Casino Control Act (Cap. 33A).
+
+[S 423/2008 wef 29/08/2008]
+
 4\. Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
 5\. Estate Duty Act [Cap. 96].
@@ -566,7 +570,7 @@ Specified Acts
 
 8\. Property Tax Act [Cap. 254].
 
-9\. Property Tax (Surcharge) Act.
+9\.Deleted by S 423/2008, wef 29/08/2008.
 
 10\. Stamp Duties Act [Cap. 312].
 
@@ -576,11 +580,13 @@ Sections 26(2) and 30
 
 Specified offices
 
-1. The Comptroller of Income Tax under the Income Tax Act [Cap. 134. Cap. 86] and the Economic Expansion Incentives (Relief from Income Tax) Act.
+1. The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
 
-[]
+[S 423/2008 wef 29/08/2008]
 
-2. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254. Cap. 255] and the Property Tax (Surcharge) Act.
+2. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254. Cap. 255].
+
+[S 423/2008 wef 29/08/2008]
 
 []
 
@@ -591,6 +597,8 @@ Specified offices
 4. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96.Cap. 250]and the Private Lotteries Act.
 
 []
+
+5. [Deleted by S 398/2007 wef 25/07/2007 wef 25/07/2007]
 
 6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.
 
@@ -658,3 +666,5 @@ This Legislative History is provided for the convenience of users of the Inland 
 ||Date of commencement|1 March 2007|
 |11.|**G.N. No. S 398/2007—Inland Revenue Authority of Singapore Act (Amendment of Third and Fourth Schedules) Order 2007**|
 ||Date of commencement|25 July 2007|
+|12.|**G.N. No. S 423/2008—Inland Revenue Authority of Singapore Act (Amendment of Third and Fourth Schedules) Order 2008**|
+||Date of commencement|29 August 2008|
