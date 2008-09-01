@@ -186,9 +186,9 @@
 
 - [77 Act not to apply to products categorised and regulated as health products under Health Products Act 2007](#Act-not-to-apply-to-products-categorised-and-regulated-as-health-products-under-Health-Products-Act-2007)
 
-[**FIRST SCHEDULE Diseases and Conditions**](#FIRST-SCHEDULE-Diseases-and-Conditions)
+[**FIRST SCHEDULE Diseases and conditions**](#FIRST-SCHEDULE-Diseases-and-conditions)
 
-[**SECOND SCHEDULE Amendments to the Poisons Act (Chapter 234)**](#SECOND-SCHEDULE-Amendments-to-the-Poisons-Act-Chapter-234)
+[**SECOND SCHEDULE Amendments to the Poisons Act**](#SECOND-SCHEDULE-Amendments-to-the-Poisons-Act)
 
 [**Legislative History**](#Legislative-History)
 
@@ -206,17 +206,17 @@ An Act to make provisions with respect to medicinal products and medical adverti
 
 [24th June 1977: Parts I and II ;
 
-24th June 1977: Part III, sections 30, 31, 34, 35 ;
+24th June 1977: Part III (sections 30, 31, 34, 35) ;
 
-24th June 1977: Part V;
+24th June 1977: Part V ;
 
 24th June 1977: Part VII, sections 54 to 75 ;
 
-15th November 1977: Part VI;
+15th November 1977: Part VI ;
 
-16th January 1981: Part IV;
+16th January 1981: Part IV ;
 
-3rd May 1993: Part III,Except sections 30, 31, 34 and 35 (vide S 156/93) ]
+3rd May 1993: Part III (sections 23-29, 32 and 33) ]
 
 ## PART I
 
@@ -316,7 +316,9 @@ where (in any such case) there is evidence that medicinal products of that descr
 
 “package”, in relation to any medicinal product, means any box, packet or other article in which one or more containers of the products are or are to be enclosed, and, where any such box, packet or other article is or is to be itself enclosed in one or more boxes, packets or other articles, includes each of the boxes, packets or articles in question;
 
-“pharmacist” means a person registered under the Pharmacists Registration Act [Cap. 230];
+“pharmacist” means a person who is registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act;
+
+[48/2007 wef 01/09/2008]
 
 “plant” includes any part of a plant;
 
@@ -418,7 +420,11 @@ LICENCES AND CERTIFICATES RELATING TO MEDICINAL PRODUCTS
 
 (a) except as provided in paragraph (b), the Chief Executive of the Authority; and
 
+[4/2001 wef 04/01/2001]
+
 (b) the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7) in respect of any function to be performed under this Act exclusively in relation to veterinary medicinal products and animals.
+
+[4/2001 wef 04/01/2001]
 
 (2) Any function conferred on the licensing authority by this Act may be performed by such officers as the licensing authority may designate, subject to his general direction and control.
 
@@ -535,6 +541,8 @@ and the products are manufactured or assembled in accordance with that product l
 (b) the efficacy of medicinal products of each such description for the purposes for which the products are proposed to be administered;
 
 (c) the quality of medicinal products of each such description, according to the specification and the method or proposed method of manufacture of the products, and the provisions proposed for securing that the products as sold or supplied will be of that quality; and
+
+[15/2007 wef 01/11/2007]
 
 (d) whether the grant of a product licence for the medicinal products to which the application relates will be in the public interest.
 
@@ -836,7 +844,7 @@ the licensing authority may not, for a period of 5 years from the date of such g
 
 (a) on or after the date of commencement of the Medicines (Amendment) Act 2004; or
 
-(b) at any time before the date that is before the date of commencement but no earlier than 5 years before that date.
+(b) at any time before the date of commencement but no earlier than 5 years before that date.
 
 [26/2004 wef 01/07/2004]
 
@@ -857,6 +865,8 @@ the licensing authority may not, for a period of 5 years from the date of such g
 (4) Any person who without reasonable excuse fails to comply with a requirement imposed on him by a notice under section 19(2) shall be guilty of an offence.
 
 (5) Any person guilty of an offence under subsection (1), (2), (3) or (3A) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[17/2005 wef 15/07/2005]
 
 (6) Any person guilty of an offence under subsection (4) shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -888,37 +898,37 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 ### General sale list
 
-23\.1—(1) The Minister may by order specify descriptions or classes of medicinal products, as being products which in his opinion can with reasonable safety be sold or supplied otherwise than by or under the supervision of a pharmacist.
+\*23\.—(1) The Minister may by order specify descriptions or classes of medicinal products, as being products which in his opinion can with reasonable safety be sold or supplied otherwise than by or under the supervision of a pharmacist.
 
 (2) In this Act any reference to a medicinal product on a general sale list is a reference to a medicinal product of a description, or falling within a class, specified in an order under this section which is for the time being in force.
 
-1wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Sale or supply of medicinal products not on general sale list
 
-24\. 2Subject to any exemption conferred by or under this Part, on and after such day as the Minister may appoint for the commencement of this Part (referred to in this Part as the appointed day) no person shall sell by retail or supply in circumstances corresponding to retail sale any medicinal product which is not a medicinal product on a general sale list, unless —
+24\. \*Subject to any exemption conferred by or under this Part, on and after such day as the Minister may appoint for the commencement of this Part (referred to in this Part as the appointed day) no person shall sell by retail or supply in circumstances corresponding to retail sale any medicinal product which is not a medicinal product on a general sale list, unless —
 
 (a) the product is sold or supplied on premises which are a registered pharmacy; and
 
 (b) that person is or acts under the personal supervision of a pharmacist.
 
-2wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Sale or supply of medicinal products on general sale list
 
-25\. 3Nothing in this Act shall prevent any person from selling by retail or supplying in circumstances corresponding to retail sale any medicinal product on a general sale list subject to such conditions as may be prescribed for the purposes of this section.
+25\. \*Nothing in this Act shall prevent any person from selling by retail or supplying in circumstances corresponding to retail sale any medicinal product on a general sale list subject to such conditions as may be prescribed for the purposes of this section.
 
-3wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Prohibition of sale of medicinal products from automatic machines
 
-26\. 4On and after the appointed day a medicinal product shall not be sold by means of an automatic machine unless it is a medicinal product in the automatic machine section of a general sale list and complies with such conditions as may be prescribed.
+26\. \*On and after the appointed day a medicinal product shall not be sold by means of an automatic machine unless it is a medicinal product in the automatic machine section of a general sale list and complies with such conditions as may be prescribed.
 
-4wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Exemptions for doctors, dentists and veterinary surgeons and in respect of herbal remedies
 
-27\.5—(1) The restrictions imposed by section 24 shall not apply to the supply of a medicinal product —
+\*27\.—(1) The restrictions imposed by section 24 shall not apply to the supply of a medicinal product —
 
 (a) by a doctor or dentist to his patient; or
 
@@ -928,21 +938,21 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (3) The restrictions imposed by that section shall not apply to anything done at premises of which the person carrying on the business in question is the occupier and which he is able to close so as to exclude the public, and which consists of the sale or the supply in circumstances corresponding to retail sale of a herbal remedy where the processes to which the plant or plants are subjected consist of drying, crushing or comminuting, with or without diluting with water, but not any other process.
 
-5wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Power to extend or modify exemptions
 
-28\.6—(1) The Minister may by order provide that section 24 shall have effect subject to such exemptions (other than those for the time being having effect by virtue of section 27) as may be specified in the order.
+\*28\.—(1) The Minister may by order provide that section 24 shall have effect subject to such exemptions (other than those for the time being having effect by virtue of section 27) as may be specified in the order.
 
 (2) Any exemption conferred by an order under subsection (1) may be conferred subject to such conditions or limitations as may be specified in the order.
 
 (3) The Minister may by order provide that section 27 shall have effect subject to such exceptions or modifications as may be specified in the order.
 
-6wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Medicinal products on prescription only
 
-29\.7—(1) The Minister may by order specify descriptions or classes of medicinal products for the purposes of this section; and, in relation to any description or class so specified, the order shall state which of the following are to be appropriate practitioners for the purposes of this section:
+\*29\.—(1) The Minister may by order specify descriptions or classes of medicinal products for the purposes of this section; and, in relation to any description or class so specified, the order shall state which of the following are to be appropriate practitioners for the purposes of this section:
 
 (a) doctors;
 
@@ -964,7 +974,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (4) Any exemption conferred by an order in accordance with subsection (3)(a) may be conferred subject to such conditions or limitations as may be specified in the order.
 
-7wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Prohibition of sale, supply or importation of medicinal products of specified description or of animal feeding stuffs incorporating such products
 
@@ -986,7 +996,7 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 ### Protection of purchasers of medicinal products
 
-32\.8—(1) No person shall, to the prejudice of the purchaser, sell any medicinal product which is not of the nature or quality demanded by the purchaser.
+\*32\.—(1) No person shall, to the prejudice of the purchaser, sell any medicinal product which is not of the nature or quality demanded by the purchaser.
 
 (2) For the purposes of this section the sale of a medicinal product shall not be taken to be otherwise than to the prejudice of the purchaser by reason only that the purchaser buys the product for the purpose of analysis or examination.
 
@@ -1004,11 +1014,11 @@ FURTHER PROVISIONS RELATING TO DEALINGS WITH MEDICINAL PRODUCTS
 
 (b) in subsection (1), for the words “demanded by the purchaser”, there were substituted the words “specified in the prescription”.
 
-8wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Compliance with standards specified in monographs in certain publications
 
-33\.9—(1) No person shall —
+\*33\.—(1) No person shall —
 
 (a) sell a medicinal product which has been demanded by the purchaser by or by express reference to a particular name; or
 
@@ -1034,7 +1044,7 @@ and “current” means current at the time when the medicinal product in questi
 
 “the appropriate current monograph”, in relation to a particular name, means —
 
-(a) the monograph headed by that name in the current edition of theBritish Pharmacopoeia, theEuropean Pharmacopoeiaor theUnited States Pharmacopoeia;or
+(a) the monograph headed by that name in the current edition of theBritish Pharmacopoeia,the European Pharmacopoeia or the United States Pharmacopoeia;or
 
 (b) if there is no such monograph, then the monograph headed by that name in the current edition of theBritish Pharmaceutical Codexor theBritish Veterinary Codex.
 
@@ -1048,7 +1058,7 @@ and any monograph in an edition of a publication shall be construed in accordanc
 
 (7) The Minister may by order amend subsections (4), (5) and (6).
 
-9wef 3.5.93 vide S156/93
+\*wef 3.5.93 vide S 156/1993.
 
 ### Further powers to regulate dealings with medicinal products
 
@@ -1152,9 +1162,7 @@ PHARMACIES
 
 41\.—(1) Where a person carries on a retail pharmacy business and that person is convicted of an offence under any relevant written law, the licensing authority may remove from the register all premises entered in the register as being premises at which that person carries on a retail pharmacy business.
 
-(2) In this section
-
-“relevant written law” means this Act, the Poisons Act [Cap. 234], the Pharmacists Registration Act [Cap. 230], the Misuse of Drugs Act [Cap. 185], and any subsidiary legislation made thereunder.
+(2) In this section “relevant written law” means this Act, the Poisons Act [Cap. 234], the Pharmacists Registration Act 2007, the Misuse of Drugs Act [Cap. 185], and any subsidiary legislation made thereunder.
 
 ### Appeal relating to disqualification
 
@@ -1572,7 +1580,7 @@ where it is proved that the medicinal product in question was found on a vehicle
 
 ### Jurisdiction of District and Magistrate’s Courts
 
-71\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code, a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+71\. Notwithstanding anything to the contrary contained in the Criminal Procedure Code [Cap. 68], a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
 
 ### Composition of offences
 
@@ -1612,13 +1620,13 @@ where it is proved that the medicinal product in question was found on a vehicle
 
 ### Repeal and consequential amendments
 
-76\.10—(1) The Medicines (Advertisement and Sale) Act [Cap. 177] and the Sale of Drugs Act [Cap. 282] are repealed and any subsidiary legislation made under those Acts are revoked.
+\*76\.—(1) The Medicines (Advertisement and Sale) Act [Cap. 177] and the Sale of Drugs Act [Cap. 282] are repealed and any subsidiary legislation made under those Acts are revoked.
 
 ### Second Schedule
 
 (2) The Poisons Act [Cap. 234] is amended in the manner set out in the Second Schedule.
 
-10This section was not in operation when this Revised Edition was brought into force.
+\*This section was not in operation when this Revised Edition was brought into force.
 
 ### Act not to apply to products categorised and regulated as health products under Health Products Act 2007
 
@@ -1632,7 +1640,7 @@ FIRST SCHEDULE
 
 Section 51(1)(a).
 
-Diseases and Conditions
+Diseases and conditions
 
 1\. Blindness.
 
@@ -1672,11 +1680,13 @@ Diseases and Conditions
 
 19\. Conception and pregnancy.
 
-SECOND SCHEDULE11
+SECOND SCHEDULE\*
 
-Section 76(2).
+Section 76(2)
 
-Amendments to the Poisons Act (Chapter 234)
+Amendments to the Poisons Act
+
+(Chapter 234, 1989 Ed.)
 
 1. In section 6 —
 
@@ -1712,11 +1722,11 @@ Amendments to the Poisons Act (Chapter 234)
 
 Non-application of this Act to medicinal product or substance
 
-22. Nothing in this Act shall apply to any poison which is incorporated in a medicinal product or used as a substance for a medicinal purpose and which is regulated by the provisions of the Medicines Act [Cap. 176] [Cap. 176].
+22. Nothing in this Act shall apply to any poison which is incorporated in a medicinal product or used as a substance for a medicinal purpose and which is regulated by the provisions of the Medicines Act [Cap. 176].
 
 ”.
 
-11This Schedule was not in operation when this Revised Edition was brought into force.
+\*This Schedule was not in operation when this Revised Edition was brought into force.
 
 ## LEGISLATIVE HISTORY
 
@@ -1724,7 +1734,7 @@ Medicines Act
 
 (CHAPTER 176)
 
-This Legislative History is provided for the convenience of users of the Medicines Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Medicines Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1785,3 +1795,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 9/2007 published on 28 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|12.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 36/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|1 September 2008|
