@@ -456,7 +456,7 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “Government warehouse” means a warehouse established by the Director-General under section 49 for the deposit of dutiable goods;
 
-“Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare” ;
+“Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
 
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
@@ -472,7 +472,7 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
-“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1) or 83 (4);
+“licensed warehouse” means a warehouse or other place licensed for the warehousing of dutiable goods under section 51(1) or 83(4);
 
 “local craft” means any junk, tongkang, prahu, or other similar type of vessel, and any steam or motor vessel under 75 net registered tons and includes any type of motor vessel whether fitted with inboard engine or outboard motor;
 
@@ -516,7 +516,7 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “proper officer of customs” means any officer of customs acting in the fulfilment of his duties under this Act, whether such duties are assigned to him specially or generally or expressly or by implication;
 
-“Red Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a square marked in red with the words “Customs” and “Goods To Declare” ;
+“Red Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a square marked in red with the words “Customs” and “Goods To Declare”;
 
 “registered user” means a person who has been registered with and authorised by the Director-General to gain access to and use the computer service referred to in section 86;
 
@@ -542,11 +542,15 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “uncustomed goods” means goods in respect of which a breach of the provisions of this Act has been committed.
 
-[S 270/71]
+[S 270/71; 24/81; 23/93; 24/96; 29/98; 33/2000; 4/2001; 4/2003]
+
+[3/2008 wef 04/04/2008]
 
 (2) For the purposes of this Act, goods shall be deemed to be under customs control while they are deposited or held in any free trade zone, Government warehouse, licensed warehouse, or bottling warehouse or post office or in any vessel, train, vehicle or aircraft or any place from which they may not be removed except with the permission of the proper officer of customs.
 
 [23/93]
+
+[3/2008 wef 04/04/2008]
 
 (3) In this Act, a reference to a document or record shall include, in addition to a document or record on paper, a reference to any, or part of any —
 
@@ -990,7 +994,11 @@ to order the refund of the money so overpaid or erroneously paid.
 
 29\.—(1) The Director-General may, on an application made in accordance with the Schedule, make a ruling on any of the matters specified in the Schedule in accordance with the Schedule.
 
+[3/2008 wef 04/04/2008]
+
 (2) The Schedule shall apply to and in connection with an application under subsection (1) and any ruling made by the Director-General under that subsection.
+
+[3/2008 wef 04/04/2008]
 
 (3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the Schedule.
 
@@ -1430,6 +1438,8 @@ MANUFACTURE AND BOTTLING
 
 [4/2003]
 
+[3/2008 wef 04/04/2008]
+
 (2) Such licence shall, on payment of such fee as may be prescribed, be granted at the discretion of the Director-General for such period as may be prescribed and subject to —
 
 (a) such conditions as may be prescribed; and
@@ -1440,13 +1450,17 @@ MANUFACTURE AND BOTTLING
 
 (3) Such licence may be suspended or withdrawn at any time by the Director-General.
 
+[3/2008 wef 04/04/2008]
+
 (4) A licence to manufacture any dutiable goods shall be deemed to include the following:
 
-(a) a licence for warehousing such dutiable goods as provided for in section 51 (1); and
+(a) a licence for warehousing such dutiable goods as provided for in section 51(1); and
 
 (b) where the dutiable goods consist of intoxicating liquors, a licence for the bottling of such intoxicating liquors as provided for in section 66(1).
 
 [4/2003]
+
+[3/2008 wef 04/04/2008]
 
 (5) Any regulations made under section 143(1) to regulate the control of licensed warehouses or bottling warehouses shall apply to warehouses deemed to be so licensed under subsection (4) to such an extent as the Director-General may direct.
 
@@ -1492,9 +1506,11 @@ MANUFACTURE AND BOTTLING
 
 68\. Nothing in this Act shall apply to —
 
-(a) any bottling, blending, compounding or varying of intoxicating liquors by a legally qualified medical practitioner or by any chemist in the service of the Government or by any person registered as a pharmacist under the Pharmacists Registration Act (Cap. 230) or, with the approval of the Director-General, by a qualified chemist which is proved to be for genuine medicinal or scientific purposes; and
+(a) any bottling, blending, compounding or varying of intoxicating liquors by a legally qualified medical practitioner or by any chemist in the service of the Government or by any person registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act or, with the approval of the Director-General, by a qualified chemist which is proved to be for genuine medicinal or scientific purposes; and
 
-(b) any distillation by a legally qualified medical practitioner or by any chemist in the service of the Government or by any person registered as a pharmacist under the Pharmacists Registration Act or, with the approval of the Director-General, by a qualified chemist which is proved to be for genuine medicinal or scientific purposes or, with the approval of the Director-General, to any distillation of essential oils.
+(b) any distillation by a legally qualified medical practitioner or by any chemist in the service of the Government or by any person registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act or, with the approval of the Director-General, by a qualified chemist which is proved to be for genuine medicinal or scientific purposes or, with the approval of the Director-General, to any distillation of essential oils.
+
+[48/2007 wef 01/09/2008]
 
 ### Power to enter licensed premises
 
@@ -1522,7 +1538,9 @@ SALE OF INTOXICATING LIQUORS
 
 (b) such civilian employees of the visiting forces as are authorised by the commanding officer concerned to purchase intoxicating liquors at those premises.
 
-(3) No licence under this section shall be required in respect of the sale by retail by a person registered as a pharmacist under the Pharmacists Registration Act (Cap. 230) of alcohol exempted from payment of duty in accordance with an order made under section 13, and in accordance with the terms of the exemption.
+(3) No licence under this section shall be required in respect of the sale by retail by a person registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act of alcohol exempted from payment of duty in accordance with an order made under section 13, and in accordance with the terms of the exemption.
+
+[48/2007 wef 01/09/2008]
 
 (4) Subject to section 72(2), the delivery of intoxicating liquors in quantities of 30 litres or less shall, in any proceedings under this Act, be taken to be prima facie evidence of sale by retail and that money or other consideration was given for the same.
 
@@ -1710,27 +1728,43 @@ composite LICENCE
 
 83\.—(1) Any person who intends to carry out 2 or more specified activities for which 2 or more licences under this Act or the Goods and Services Tax Act (Cap. 117A) are required may, on payment of such fees as may be prescribed, apply for a single composite licence authorising the person to carry out those specified activities.
 
+[3/2008 wef 04/04/2008]
+
 (2) An application for a composite licence for specified activities shall be made to —
 
 (a) the Director-General; or
 
 (b) if any of the specified activities is an activity referred to in paragraph (b) of the definition of “specified activity” in subsection (9), the Director-General and the Comptroller.
 
+[3/2008 wef 04/04/2008]
+
 (3) On receipt of an application under subsection (2), the Director-General, or the Director-General and the Comptroller, as the case may be, may grant a composite licence to the applicant.
+
+[3/2008 wef 04/04/2008]
 
 (4) Every composite licence granted under subsection (3) shall specify the person to whom, the premises in respect of which, and the activities for which, the licence is granted.
 
+[3/2008 wef 04/04/2008]
+
 (5) Every composite licence granted under subsection (3) shall be for such period and subject to such conditions as may be specified in the licence.
+
+[3/2008 wef 04/04/2008]
 
 (6) The Director-General may suspend or withdraw the whole of any composite licence granted under subsection (3), or such part of any such composite licence relating to any of the activities referred to in paragraph (a) of the definition of “specified activity” in subsection (9).
 
+[3/2008 wef 04/04/2008]
+
 (7) The Comptroller may suspend or withdraw the part of any composite licence granted under subsection (3) relating only to the activity referred to in paragraph (b) of the definition of “specified activity” in subsection (9).
+
+[3/2008 wef 04/04/2008]
 
 (8) Where a composite licence has been granted under subsection (3) in respect of 2 or more specified activities specified in the licence —
 
 (a) the licensee shall not be required by this Act or the Goods and Services Tax Act (Cap. 117A) to take out a separate licence for each of those activities; and
 
 (b) the premises in respect of which the composite licence is granted shall be deemed to be licensed under the relevant provisions of this Act or the Goods and Services Tax Act, as the case may be.
+
+[3/2008 wef 04/04/2008]
 
 (9) In this section —
 
@@ -1749,6 +1783,8 @@ composite LICENCE
 (iv) selling goods to tourists and to returning or departing residents of Singapore free of duty for which a licence is required under section 82; or
 
 (b) in relation to any goods liable to goods and services tax on the import of goods into Singapore under the Goods and Services Tax Act (Cap. 117A), storing goods without payment of such tax for which a licence is required under regulations made pursuant to section 37(3)(c) of that Act.
+
+[3/2008 wef 04/04/2008]
 
 Sale by retail vested in Director-General
 
@@ -2534,6 +2570,8 @@ OFFENCES AND PENALTIES
 
 shall be guilty of an offence.
 
+[3/2008 wef 04/04/2008]
+
 (2) When any such declaration, whether oral or written, or any such certificate or other document has been proved to be untrue or incorrect or incomplete in whole or in part, it shall be no defence to allege —
 
 (a) that the declaration, certificate or other document was made or used inadvertently or without criminal or fraudulent intent, or that the person signing the same was not aware of, or did not understand the contents of, the document; or
@@ -2664,6 +2702,8 @@ shall be guilty of an offence.
 
 128L\.—(1) Any person who is guilty of an offence under section 128(1), 128A(1), 128B(1) or 128C shall be liable on conviction to a fine not exceeding $10,000, or the equivalent of the amount of the customs duty, excise duty or tax payable, whichever is the greater amount, or to imprisonment for a term not exceeding 12 months, or to both.
 
+[3/2008 wef 04/04/2008]
+
 (2) Subject to subsection (3), any person who is guilty of a specified offence shall be liable on conviction to a fine of —
 
 (a) not less than 10 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence or $5,000, whichever is the lesser amount; and
@@ -2672,6 +2712,8 @@ shall be guilty of an offence.
 
 except that where the amount of customs duty or excise duty cannot be ascertained, the penalty may amount to a fine not exceeding $5,000.
 
+[3/2008 wef 04/04/2008]
+
 (3) Any person who is convicted of any specified offence and who has been convicted on a previous occasion of —
 
 (a) that or any other specified offence; or
@@ -2679,6 +2721,8 @@ except that where the amount of customs duty or excise duty cannot be ascertaine
 (b) any offence under the repealed section 130(1) in force immediately before the date of commencement of the Customs (Amendment) Act 2008,
 
 shall be liable on conviction to a fine referred to in subsection (2), or to imprisonment for a term not exceeding 2 years, or to both.
+
+[3/2008 wef 04/04/2008]
 
 (4) Any person who is guilty of any specified offence involving goods consisting wholly or partly of relevant tobacco products shall, if such tobacco products exceed 2 kilogrammes in weight, be liable on conviction —
 
@@ -2691,6 +2735,8 @@ shall be liable on conviction to a fine referred to in subsection (2), or to imp
 (b) to imprisonment for a term not exceeding 3 years,
 
 or to both.
+
+[3/2008 wef 04/04/2008]
 
 (5) Any person who is convicted of any specified offence involving goods consisting wholly or partly of relevant tobacco products and who has been convicted on a previous occasion of —
 
@@ -2710,7 +2756,11 @@ shall be liable on conviction —
 
 or to both.
 
+[3/2008 wef 04/04/2008]
+
 (6) In any prosecution against a person for committing, attempting or abetting an offence under sections 128D to 128K, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the person, unless the contrary is proved by the person.
+
+[3/2008 wef 04/04/2008]
 
 (7) In this section —
 
@@ -3302,6 +3352,13 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 48/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|4 April 2008|
+|32.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 36/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|1 September 2008|
+|||(item (1) in the Second Schedule)|
 ## COMPARATIVE TABLE
 
 Customs Act
