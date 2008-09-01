@@ -472,7 +472,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/2008 wef 01/08/2008]
 
-(b) for the purpose of any disciplinary proceedings under the Dental Registration Act (Cap. 76) or the Medical Registration Act (Cap. 174); or
+(b) for the purpose of making a complaint or providing information under Part V of the Dental Registration Act (Cap. 76), Part VII of the Medical Registration Act (Cap. 174) or Part VI of the Pharmacists Registration Act 2007; or
+
+[48/2007 wef 01/09/2008]
 
 (c) for any other purpose with the consent of the person to whom the information relates or the representative of such person.
 
@@ -648,6 +650,11 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 47/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|21 January 2008|
 ||Date of commencement|1 August 2008 (Section 7)|
+|9.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 36/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|1 September 2008|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
