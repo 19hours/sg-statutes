@@ -92,7 +92,9 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 “medical practitioner” means a medical practitioner registered under any written law for the time being in force relating to the registration of medical practitioners and includes a medical officer exempted by that written law from registration thereunder;
 
-“pharmacist” means a person registered as a pharmacist under the Pharmacists Registration Act (Cap. 230);
+“pharmacist” means a person who is registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act;
+
+[48/2007 wef 01/09/2008]
 
 “poison” means any substance deemed to be a poison within the meaning of this Act;
 
@@ -388,7 +390,9 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 (h) the period for which any books required to be kept for the purposes of this Act are to be preserved;
 
-(i) requiring persons in control of the manufacture of pharmaceutical preparations containing poisons to be registered pharmacists or persons possessing the prescribed qualification in chemistry;
+(i) requiring persons in control of the manufacture of pharmaceutical preparations containing poisons to be pharmacists or persons possessing the prescribed qualification in chemistry;
+
+[48/2007 wef 01/09/2008]
 
 (j) prescribing the coverings, stoppers and fastenings of and the marks to be placed or made on, or on the coverings of, or on the labels affixed to, any vessel, bottle, case, package, box or other receptacle or container whatsoever in which any poison is kept, stored, sold or in any way dealt with;
 
@@ -4249,6 +4253,12 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill No. 9/2007 published on 28 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|64.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 36/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|1 September 2008|
 ## COMPARATIVE TABLE
 
 Poisons Act
