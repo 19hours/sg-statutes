@@ -313,14 +313,9 @@ National Parks Act
 
 (Chapter 198A)
 
-28. Pharmacy Board
+28. Singapore Pharmacy Council
 
-Pharmacists Registration Act
-
-
-
-
-(Chapter 230)
+Pharmacists Registration Act 2007
 
 29. Professional Engineers Board
 
@@ -475,7 +470,7 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
-[S 314/2008 wef 19/06/2008]
+[48/2007 wef 01/09/2008]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
@@ -567,3 +562,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 January 2008|
 |26.|**G. N. No. S 314/2008—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2008**|
 ||Date of commencement|19 June 2008|
+|27.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 August 2007|
+|||(Bill No. 36/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|1 September 2008|
