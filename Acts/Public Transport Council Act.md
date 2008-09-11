@@ -90,6 +90,10 @@
 
 - [24 Application for approval of fares](#Application-for-approval-of-fares)
 
+- [24AA Review of bus and rail fares](#Review-of-bus-and-rail-fares)
+
+- [24AB Notice and consultation requirements, etc.](#Notice-and-consultation-requirements-etc)
+
 [**Part VA PUBLIC TRANSPORT OFFICIALS**](#Part-VA)
 
 - [24A Appointment of public transport officials](#Appointment-of-public-transport-officials)
@@ -240,11 +244,9 @@ PRELIMINARY
 
 [37/2005 wef 03/04/2006]
 
-“taxi” or “” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276) ;
+“taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276) ;
 
 [28/2001 wef 10/09/2001]
-
-[37/2005 wef 03/04/2006]
 
 “ticket” means any form of authorisation, issued for the conveyance of any passenger on a rapid transit system or on any bus operated by a bus service operator, or both;
 
@@ -302,9 +304,13 @@ PUBLIC TRANSPORT COUNCIL
 
 (b) to receive and consider applications for approval of bus, taxi and rapid transit system fares;
 
-(c) to regulate bus services, bus service operators, ticket payment services and bus, taxi and rapid transit system fares; and
+(c) to regulate bus services, bus service operators, ticket payment services and bus, taxi and rapid transit system fares;
 
 [37/2005 wef 03/04/2006]
+
+[17/2008 wef 11/09/2008]
+
+(ca) to promote and facilitate the integration of bus and rapid transit system fares to ensure the provision of efficient public passenger transport services and facilities; and
 
 [17/2008 wef 11/09/2008]
 
@@ -856,11 +862,11 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 ### Bus, taxi and rapid transit system fares
 
-23\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit system fare in excess of that approved by the Council.
+23\.—(1) Subject to subsection (2), no person shall be entitled to demand and take any bus, taxi or rapid transit system fare that is not approved by the Council under section 24(3) or 24AA(2)(a).
 
-[29/95; 29/99]
+[17/2008 wef 11/09/2008]
 
-(2) Subsection (1) shall not prevent any person from demanding or taking a lower fare than that approved by the Council .
+(2) Subsection (1) shall not prevent any person from demanding or taking a lower fare than that approved by the Council in circumstances not proscribed by the Council.
 
 [29/99]
 
@@ -868,9 +874,13 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 [29/99]
 
-(4) Any person who demands or takes or attempts to take any money in excess of such approved fare shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(4) Any person who demands or takes or attempts to take any money in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [29/99]
+
+(5) Where the Council has suspended any approval for any bus fare, taxi fare or rapid transit system fare under section 24(5), the bus fare, taxi fare or rapid transit system fare shall, for the duration of the suspension, be deemed not to be an approved fare for the purposes of this section.
+
+[17/2008 wef 11/09/2008]
 
 ### Application for approval of fares
 
@@ -884,7 +894,17 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (2) In considering any application for approval of any bus, taxi or rapid transit system fare, the Council shall take into account —
 
-(a) the need for the applicant to remain financially viable; and
+(a) the need for the applicant to remain financially viable;
+
+(aa) the need to promote or facilitate the integration of bus and rapid transit system fares or services for the through carriage of passengers provided by licensed bus service operators and licensed rapid transit system operators and other measures designed to facilitate the making by passengers of any journey which involves the use of —
+
+(i) the services of more than one such operator;
+
+(ii) more than one bus service or train service (whether or not operated by the same person); or
+
+(iii) both bus and train services (whether or not operated by the same person); and
+
+[17/2008 wef 11/09/2008]
 
 (b) the need for public interest to be safeguarded.
 
@@ -896,15 +916,101 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (a) reject the application;
 
-(b) approve the application, subject to such conditions as the Council thinks fit ; or
+(b) approve the application, subject to such conditions as the Council thinks fit , including but not limited to any condition described in section 24AA(2)(b); or
 
 (c) at any time, revise any bus or rapid transit system fare in accordance with the fare adjustment formula set out in the Third Schedule.
 
 [37/2005 wef 03/04/2006]
 
-(4) The Council may revoke any approval granted under subsection (3)(b) if the Council is satisfied that the applicant has failed to comply with any condition imposed thereunder.
+(4) Subject to subsection (6), the Council may, by order and without compensation, revoke any approval granted under subsection (3)(b) if the Council is satisfied that —
 
-[37/2005 wef 03/04/2006]
+(a) the applicant has failed to comply with any condition imposed by the Council under subsection (3)(b) or section 24AA(2) on that approval;
+
+(b) the approval had been obtained by fraud or misrepresentation;
+
+(c) the applicant has been convicted of an offence under this Act;
+
+(d) it is in the public interest to do so; or
+
+(e) the applicant has refused or failed to comply with an order of the Council made under subsection (5)(b).
+
+[17/2008 wef 11/09/2008]
+
+(5) Subject to subsection (6), the Council may, in any case in which it considers that no cause of sufficient gravity exists for revoking any approval granted under subsection (3)(b) to an applicant for such approval, by order —
+
+(a) suspend the approval for a period not exceeding 6 months;
+
+(b) impose on the applicant concerned a financial penalty of an amount not exceeding $100,000; or
+
+(c) publicly censure the applicant concerned.
+
+[17/2008 wef 11/09/2008]
+
+(6) Before exercising any of its powers under subsection (4) or (5), the Council shall —
+
+(a) give to the applicant concerned notice in writing of its intention to do so; and
+
+(b) in such notice, call upon the applicant to show cause within such period as may be specified in the notice as to why the Council should not make any order under subsection (4) or (5), being a period of at least 7 days after the Council informs the applicant concerned of such intention.
+
+[17/2008 wef 11/09/2008]
+
+(7) If the applicant —
+
+(a) fails to show cause within the period of time given or such extended period of time as the Council may allow; or
+
+(b) fails to show sufficient cause,
+
+as to why the order under subsection (4) or (5), as the case may be, should not be made, the Council shall give notice in writing to the applicant concerned of the Council’s order made under the respective subsection.
+
+[17/2008 wef 11/09/2008]
+
+(8) In any proceedings under subsection (4) or (5) in relation to the conviction of an applicant for a criminal offence, the Council shall accept the applicant’s conviction as final and conclusive.
+
+[17/2008 wef 11/09/2008]
+
+### Review of bus and rail fares
+
+24AA\.—(1) The Council may, at any time on its own initiative, review any bus fares and rapid transit system fares approved under section 24 with a view to promoting or facilitating —
+
+(a) the integration of bus and rapid transit system fares;
+
+(b) arrangements for the through carriage of passengers provided by licensed bus service operators and licensed rapid transit system operators; or
+
+(c) the making by passengers of any journey which involves the use of —
+
+(i) the services of more than one such operator;
+
+(ii) more than one bus service or train service (whether or not operated by the same person); or
+
+(iii) both bus and train services (whether or not operated by the same person).
+
+(2) On completing any review under subsection (1), the Council may make all or any of the following decisions, if it considers that the decision would be in the interest of the public, and would to any extent promote or facilitate the objectives referred to in subsection (1)(a) or (b) or both:
+
+(a) vary its approval of any bus fare or rapid transit system fare;
+
+(b) modify the conditions for its approval of fares under section 24(3), including imposing any condition that may require —
+
+(i) any licensed bus service operator or licensed rapid transit system operator to enter into an agreement with each other, or with another licensed bus service operator or licensed rapid transit system operator, on such terms and conditions as the Council may specify for the re-allocation of revenues amongst the respective licensed operators for the provision of their services, and to take such steps to ensure that the agreement is given effect to; or
+
+(ii) every licensed bus service operator and licensed rapid transit system operator who have agreed to provide services for the through carriage of passengers provided by them to publish or cause to be published the through fares for those services.
+
+[17/2008 wef 11/09/2008]
+
+### Notice and consultation requirements, etc.
+
+24AB\.—(1) No decision under section 24AA(2) may be made by the Council unless the Council has complied with the procedure and other notice and consultation requirements imposed by or under this section.
+
+(2) The Council shall, in reviewing the bus fares and rapid transit system fares under section 24AA, comply with such procedures as the Minister may prescribe by regulations.
+
+(3) If the Council proposes to review the bus fares and rapid transit system fares with a view to making a decision under section 24AA(2), the Council shall —
+
+(a) give notice of its proposed review and decision in the prescribed manner; and
+
+(b) after giving such notice, consult all licensed bus service operators and licensed rapid transit system operators who would, in the opinion of the Council, be affected by the decision.
+
+(4) The Minister may make such regulations as are necessary or expedient to give effect to the provisions of this section.
+
+[17/2008 wef 11/09/2008]
 
 ## PART VA
 
@@ -1451,6 +1557,11 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Dates of commencement|1 July 2008 (section 14)|
 |13.|**G.N. No. S 386/2008—Public Transport Council Act (Amendment of Third Schedule) Order 2008**|
 ||Date of commencement|31 July 2008|
+|14.|**Act 17 of 2008—Public Transport Council (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 14/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|11 September 2008|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
