@@ -18,7 +18,7 @@
 
 - [6 Person liable to pay cess](#Person-liable-to-pay-cess)
 
-- [7 Recovery of cess from customer](#Recovery-of-cess-from-customer)
+- [7 (Repealed)](#Repealed)
 
 - [8 Power of Chief Executive to obtain information](#Power-of-Chief-Executive-to-obtain-information)
 
@@ -46,8 +46,6 @@
 
 - [20 Power to remit and exempt](#Power-to-remit-and-exempt)
 
-- [21 Security for payment of cess](#Security-for-payment-of-cess)
-
 - [21 (Repealed)](#Repealed)
 
 - [22 Proceedings conducted by officer of Board](#Proceedings-conducted-by-officer-of-Board)
@@ -64,7 +62,7 @@
 
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Services and Facilities Provided by Tourist Public Houses**](#SECOND-SCHEDULE-Services-and-Facilities-Provided-by-Tourist-Public-Houses)
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -110,11 +108,13 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 “tourist public house” means any premises or part thereof in respect of which —
 
-(a) a Public House First Class Licence, a Public House First Class (Extended) Licence or a Public House First Class (Extended) (Tourist Hotel) Licence has been issued under the Customs Act (Cap. 70);
+(a) a Public House First Class Licence has been issued under the Customs Act (Cap. 70);
 
 (b) a Public House (Temporary) (First Class) Licence has been issued under the Customs Act, and such premises have been issued with that licence for a continuous period of more than 6 days; or
 
 (c) a public house licence of a category not enumerated in paragraphs (a) and (b) has been issued under the Customs Act, and which is declared by the Minister, by notification in theGazette, to be a tourist public house.
+
+[16/2008 wef 19/09/2008]
 
 ### Delegation of functions
 
@@ -130,53 +130,47 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 ### Imposition of cess
 
-5\.—(1) Subject to subsection (2), there shall be levied —
+5\.—(1) The Minister may from time to time, by order published in theGazette, declare a tourist event to which this section applies (hereinafter referred to as a declared tourist event) and the period of the declared tourist event.
 
-(a) in respect of every room or suite occupied each day in every tourist hotel; and
+(2) There shall be levied under any order made under subsection (1) in respect of such descriptions of sales made, and of charges levied or collected, during the period of the declared tourist event by such tourist hotels, tourist food establishments and tourist public houses as shall be specified in the order, a cess at such rates as shall be specified in the order.
 
-(b) in respect of all sales made and all charges levied or collected —
+(3) The Minister shall consult the Board before making an order under subsection (1).
 
-(i) by tourist food establishments; and
+(4) For the purposes of subsection (2), any sales or charges on which cess is levied shall exclude the amount of any goods and services tax charged on the supply to which the sales or charges relate.
 
-(ii) by tourist public houses,
+(5) Any order made under subsection (1) may provide for different rates of cess in respect of —
 
-a cess at the rate set out in the First Schedule.
+(a) the same description of sales made, and of charges levied or collected, by tourist hotels, tourist food establishments and tourist public houses in different circumstances; and
 
-(1A) For the purposes of subsection (1) and the First Schedule, any sales or charges on which cess is levied shall exclude the amount of any goods and services tax charged on the supply to which the sales or charges relate.
+(b) different descriptions of sales made, and of charges levied or collected, by tourist hotels, tourist food establishments and tourist public houses in the same circumstances.
 
-(2) Subsection (1)(b) shall not apply to —
+(6) In this section, “tourist event” means any activity that —
 
-(a) sales made, or charges levied or collected for services rendered, by a shop or office which is situated within a tourist public house and does not have the facilities for the preparation of cooked food for sale;
+(a) promotes Singapore as a travel or tourist destination; or
 
-(b) service charges or gratuities levied or collected by the tourist food establishment or tourist public house; and
+(b) is intended wholly or partly for the benefit of, or for the purpose of attracting, visitors to Singapore.
 
-(c) charges levied or collected by a tourist public house for the services, or for the use of the facilities, set out in the Second Schedule.
-
-(3) The Minister may, in the First Schedule, classify tourist hotels, tourist food establishments and tourist public houses and specify the rate of cess to be paid in respect of each such tourist hotel, tourist food establishment and tourist public house.
-
-(4) The Minister may from time to time, by order published in the Gazette, add to, vary or revoke the whole or any part of the First and the Second Schedules.
-
-(5) For the purposes of this section, “shop” includes a stall or space in a tourist public house which has been rented out or set aside exclusively for the purpose of selling goods or for providing services of any kind.
+[16/2008 wef 19/09/2008]
 
 ### Person liable to pay cess
 
-6\.—(1) The cess levied in respect of every room or suite occupied each day in a tourist hotel shall be accounted for and paid by the proprietor of the tourist hotel to the Board within the time and in the manner prescribed by the Board.
+6\. The cess levied in respect of sales made, and charges levied or collected, by a tourist hotel, a tourist food establishment or a tourist public house as specified in any order under section 5 shall be accounted for and paid by the proprietor of the tourist hotel, the tourist food establishment or the tourist public house, as the case may be, to the Board within the time and in the manner prescribed by the Board.
 
-(2) The cess levied in respect of all sales made and all charges levied or collected by a tourist food establishment or a tourist public house shall be accounted for and paid by the proprietor of the tourist food establishment or the tourist public house to the Board within the time and in the manner prescribed by the Board.
+[16/2008 wef 19/09/2008]
 
-### Recovery of cess from customer
-
-7\.—(1) Any person who is liable under section 6 to pay cess may recover such cess from a customer or from the person for whom services are rendered and the person so recovering the cess shall show on a receipt or other document issued by him the amount of cess which has been so recovered.
-
-(2) Any person who recovers the cess payable by him from a customer or the person for whom services are rendered shall not recover more than the amount of cess for which he is liable to pay under this Act.
-
-(3) No person shall charge or collect from any person any sum of money for the purpose of paying cess levied under this Act in respect of any sale made or charges collected or levied by him or on his behalf unless he is liable under this Act to pay such cess.
-
-(4) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+7\. [Deleted by Act 16/2008 wef 19/09/2008]
 
 ### Power of Chief Executive to obtain information
 
-8\.—(1) The Chief Executive or an officer or agent of the Board authorised by the Chief Executive in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of ascertaining the amount of cess to be paid by any person under this Act, and may, without fee or reward, inspect, copy or make extracts from any such books, documents or papers.
+8\.—(1) The Chief Executive or an officer or agent of the Board authorised by the Chief Executive shall at all times have full and free access to all buildings, places, books, documents and other papers to enable the Board to advise the Minister as to —
+
+(a) whether any tourist hotel, tourist food establishment or tourist public house should be specified in any order under section 5; or
+
+(b) the amount of cess to be paid by any person under this Act,
+
+and may, without fee or reward, inspect, copy or make extracts from any such books, documents or papers.
+
+[16/2008 wef 19/09/2008]
 
 (2) The Chief Executive or an officer or agent of the Board authorised by the Chief Executive in that behalf may take possession of any such books, documents or papers where in his opinion —
 
@@ -188,11 +182,13 @@ a cess at the rate set out in the First Schedule.
 
 ### Keeping of books of account and giving of receipts
 
-9\.—(1) Subject to subsection (2), every person liable to pay cess under the provisions of this Act —
+9\.—(1) Subject to subsection (2), every person liable to pay cess under the provisions of this Act shall keep and retain for a minimum period of 2 years in safe custody —
 
-(a) shall keep and retain for a minimum period of 2 years in safe custody sufficient records to enable the amount of cess payable under this Act to be readily ascertained by the Chief Executive or an officer or agent of the Board authorised in that behalf by the Chief Executive;
+(a) records that had been provided to the Chief Executive or an officer or agent of the Board authorised by the Chief Executive under section 8(1); and
 
-(b) shall issue a serially printed receipt for every sum of money in respect of all sales made and all charges collected or levied in a tourist food establishment and a tourist public house and shall retain a duplicate of every such receipt.
+(b) sufficient records to enable the amount of cess payable under any order made under section 5 to be readily ascertained by the Chief Executive or an officer or agent of the Board authorised by the Chief Executive.
+
+[16/2008 wef 19/09/2008]
 
 (1A) Where a machine is used for recording sales and charges collected, a receipt may be dispensed with if the Chief Executive or an officer or agent of the Board authorised by the Chief Executive in that behalf is satisfied that —
 
@@ -202,9 +198,9 @@ a cess at the rate set out in the First Schedule.
 
 (2) The Chief Executive or an officer or agent of the Board duly authorised by the Chief Executive in that behalf may in respect of any class or description of persons who are liable to pay cess under this Act —
 
-(a) direct them to keep and retain the records referred to in subsection (1) (a) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be;
+(a) direct them to keep and retain the records referred to in subsection (1)(a) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be;
 
-(b) direct them to issue and retain the receipts and their duplicates referred to in subsection (1) (b) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be.
+(b) direct them to issue and retain the receipts and their duplicates referred to in subsection (1)(b) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be.
 
 (3) The Chief Executive or an officer or agent of the Board duly authorised by the Chief Executive in that behalf may waive all or any of the provisions of subsection (1) or (1A) in respect of any person or records or any class of persons or records.
 
@@ -222,7 +218,13 @@ a cess at the rate set out in the First Schedule.
 
 (2) Every person liable to pay cess under this Act shall inform the Board in writing of any change of his place of business.
 
-(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(3) The Chief Executive may by written notice require any person to provide him with such information as he may require for the purpose of section 8(1) within the period specified in the written notice.
+
+[16/2008 wef 19/09/2008]
+
+(4) Any person who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[16/2008 wef 19/09/2008]
 
 ### Recovery of cess
 
@@ -240,7 +242,17 @@ a cess at the rate set out in the First Schedule.
 
 ### Penalty
 
-13\.—(1) Subject to subsection (2), if any cess is not accounted for and paid within the time prescribed by the Board, a sum equal to 5% of the amount of cess payable whether estimated or not shall be added thereto, and the provisions of this Act relating to the collection and recovery of cess shall apply to the collection and recovery of that sum.
+13\.—(1) Subject to subsection (1A), if any cess is not accounted for and paid within the time prescribed by the Board —
+
+(a) a penalty equal to 5% of the amount of cess payable whether estimated or not shall be added thereto; and
+
+(b) if the amount of cess outstanding is not paid within 60 days of the imposition of the penalty as provided by paragraph (a), an additional penalty of 2% of the cess outstanding shall be payable for each completed month that the cess remains unpaid commencing from the date on which the cess became payable, except that the total additional penalty shall not exceed 50% of the amount of cess outstanding.
+
+[16/2008 wef 19/09/2008]
+
+(1A) The provisions of this Act relating to the collection and recovery of cess shall apply to the collection and recovery of the penalty and additional penalty.
+
+[16/2008 wef 19/09/2008]
 
 (2) The Board may, for any good cause shown, reduce or remit the whole or part of the penalty due under subsection (1).
 
@@ -262,7 +274,9 @@ a cess at the rate set out in the First Schedule.
 
 ### Incorrect return
 
-17\. Any person who makes an incorrect return under this Act or any regulations made thereunder by omitting therefrom any information or gives any incorrect information in relation to any matter affecting his own liability to cess or the liability of any other person or of a partnership shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+17\. Any person who makes an incorrect return under this Act or any regulations made thereunder by omitting therefrom any information or gives any incorrect information to the Chief Executive or the Board under section 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and in default of payment to imprisonment for a term not exceeding 6 months.
+
+[16/2008 wef 19/09/2008]
 
 ### Evasion of cess
 
@@ -291,14 +305,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 20\.—(1) The Minister may, if he thinks fit, remit the whole or any part of the cess paid under this Act.
 
 (2) The Minister may, if he thinks fit, and upon such conditions as he may impose, exempt any tourist hotel, tourist food establishment and tourist public house from payment of cess levied under this Act.
-
-### Security for payment of cess
-
-21\.—(1) The Board shall have the right to require and take from the proprietor of a tourist hotel or tourist food establishment or tourist public house security for payment of all cess and other moneys payable under the provisions of this Act for which he may become liable.
-
-(2) The security shall be given in the manner and form approved by the Board and may, subject to that approval, be by bond, guarantee, cash deposit or any other method or by the combination of 2 or more such methods.
-
-(3) Any person who fails without any reasonable cause to comply with the request of the Board to give the security required under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 21\. [Deleted by Act 16/2008 wef 19/09/2008]
 
@@ -334,29 +340,7 @@ FIRST SCHEDULE
 
 SECOND SCHEDULE
 
-Section 5(2)(c)
-
-Services and Facilities Provided by Tourist Public Houses
-
-1\. Telephone, cable and telex services.
-
-2\. Laundry services.
-
-3\. Secretarial services.
-
-4\. Services of dance hostesses.
-
-5\. Services of tourist guides and other services pertaining to sight-seeing tours.
-
-6\. Hire of vehicles.
-
-7\. Bowling.
-
-8\. Facilities for fishing or catching crabs.
-
-9\. Boating facilities.
-
-10\. Facilities which are usually provided in health clubs.
+[Deleted by Act 16/2008 wef 19/09/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -405,3 +389,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of operation|20 December 1997|
 |12.|**G. N. No. S 197/2007—Singapore Tourism (Cess Collection) Act (Revocation of First Schedule) Order 2007**|
 ||Date of commencement|1 July 2007|
+|13.|**Act 16 of 2008—Singapore Tourism (Cess Collection) (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 9/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|19 September 2008|
