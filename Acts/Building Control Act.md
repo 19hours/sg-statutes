@@ -462,7 +462,15 @@ and includes site formation works connected with or carried out for the purpose 
 
 [18/2003 wef 01/01/2004]
 
-“temporary building” means any building or structure constructed of short-lived materials or permitted to be used by the competent authority or Commissioner of Building Control for a period not exceeding 36 months or such other period as may be prescribed;
+“temporary building” means —
+
+(a) any building or structure constructed of short-lived materials; or
+
+(b) any other building or structure permitted to be used by the competent authority or Commissioner of Building Control for a period not exceeding 36 months, or such other period as may be prescribed (if prescribed) in the building regulations,
+
+but does not include any bridge, any decking for a bridge, or any earth retaining structure;
+
+[47/2007 wef 01/10/2008]
 
 “temporary occupation licence” means a temporary occupation licence issued under section 8(1) of the repealed Act;
 
@@ -470,7 +478,7 @@ and includes site formation works connected with or carried out for the purpose 
 
 “unauthorised”, in relation to a building or building works, means any building erected, or any building works commenced or carried out, in contravention of any provision of this Act or the building regulations;
 
-“underground building works” means any of the following building works, the carrying out of which starts on or after the date to be specified by the Minister by order in theGazette
+“underground building works” means any of the following building works, the carrying out of which starts on or after the date to be specified by the Minister by order in theGazette:
 
 (a) any excavation or other building works to make —
 
@@ -498,7 +506,7 @@ and includes site formation works connected with or carried out for the purpose 
 
 (2) In this Act, unless the context otherwise requires, any reference to a building includes a reference to a part of a building.
 
-(3) The Minister may, by notification published in theGazette, vary any of the following referred to in the definition of “underground building works” in subsection (1)
+(3) The Minister may, by notification published in theGazette, vary any of the following referred to in the definition of “underground building works” in subsection (1):
 
 (a) the diameter, width or height of any tunnel;
 
@@ -594,6 +602,8 @@ Application
 
 (d) building works that are prescribed in the building regulations to be insignificant building works.
 
+[47/2007 wef 15/02/2008]
+
 Division 2 —
 
 Building plan approvals and permits
@@ -624,7 +634,7 @@ Building plan approvals and permits
 
 (f) such other documents as may be prescribed in the building regulations.
 
-(3) Upon receiving an application undersubsection (1) for the approval of plans of any building works, the Commissioner of Building Control shall consider the application and may —
+(3) Upon receiving an application under subsection (1) for the approval of plans of any building works, the Commissioner of Building Control shall consider the application and may
 
 (a) approve any one or more of the plans submitted to him, with or without conditions;
 
@@ -636,7 +646,7 @@ Building plan approvals and permits
 
 (5) The Commissioner of Building Control may, without checking the plans and design calculations of any building works, approve those plans on the basis of —
 
-(a) where the plans relate to any major building works or underground building works, the certificate of an accredited checker or specialist accredited checker or both, as the case may be, certifying that —
+(a) where the plans relate to any major building works or underground building works, the certificate of an accredited checker or specialist accredited checker or both, as the case may be, certifying that
 
 (i) the accredited checker has checked the plans relating to the major building works and that, to the best of his knowledge and belief, the plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those major building works; and
 
@@ -807,6 +817,8 @@ and if the failure to comply continues after the conviction, the qualified perso
 (b) in respect of a continuing contravention, to an additional fine not exceeding $500 for each day or part thereof the person fails to comply with the requirement,
 
 and if the failure to comply continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $1,000 for every day or part thereof during which the failure to comply continues after conviction.
+
+[47/2007 wef 15/02/2008]
 
 Division 4 —
 
@@ -1028,6 +1040,8 @@ and if the contravention continues after the conviction, the site supervisor sha
 
 (9) Any site supervisor or qualified person who, without reasonable excuse, contravenes subsection (6) shall be guilty of an offence.
 
+[47/2007 wef 15/02/2008]
+
 ### Duties of builders
 
 11\.—(1) A builder undertaking any building works shall —
@@ -1202,6 +1216,8 @@ the accredited checker or specialist accredited checker, as the case may be, sha
 
 (4) If an organisation which is not registered as an accredited checking organisation under this Division advertises or holds itself out or describes itself in any way to be an accredited checking organisation, that organisation shall be guilty of an offence.
 
+[47/2007 wef 15/02/2008]
+
 ### Register of accredited checkers, etc.
 
 14\.—(1) The Commissioner of Building Control shall keep and maintain the following registers:
@@ -1223,6 +1239,8 @@ in which shall be entered the names and prescribed particulars of the persons an
 (c) in the case of the register of accredited checking organisations, that the organisation is not so registered or that its registration has been suspended or cancelled.
 
 (3) The registers referred to in subsection (1) shall be kept and maintained at the office of the Commissioner of Building Control and shall be available for inspection by any person without charge during office hours.
+
+[47/2007 wef 15/02/2008]
 
 ### Who may be registered as accredited checker, etc., or accredited checking organisation
 
@@ -1274,6 +1292,8 @@ shall be made in such manner and shall be accompanied by such documents and part
 
 (5) The Commissioner of Building Control may appoint a committee of persons to assist him in considering applications for registration, or renewal of registration, as an accredited checker, a specialist accredited checker or an accredited checking organisation.
 
+[47/2007 wef 15/02/2008]
+
 ### Cancellation, etc., of registration
 
 17\.—(1) Subject to section 22, the Commissioner of Building Control may by order cancel, or suspend for a period not exceeding 6 months, the registration of an accredited checker or a specialist accredited checker if the Commissioner of Building Control is satisfied that the accredited checker or specialist accredited checker, as the case may be —
@@ -1300,7 +1320,7 @@ shall be made in such manner and shall be accompanied by such documents and part
 
 (c) it has been convicted of an offence under this Act or the building regulations;
 
-(d) any accredited checker who is
+(d) any accredited checker who is —
 
 (i) a partner or an employee of the accredited checking organisation which is a partnership; or
 
@@ -1344,7 +1364,7 @@ to assist the Commissioner of Building Control in considering any representation
 
 (9) The person whose registration as an accredited checker, a specialist accredited checker or an accredited checking organisation is suspended or cancelled under this section shall, within 14 days of being notified of the suspension or cancellation of registration, surrender to the Commissioner of Building Control the certificate of accreditation issued under section 16(3), failing which the person or organisation shall be guilty of an offence.
 
-(10) The Commissioner of Building Control shall cancel the registration of an accredited checker or a specialist accredited checker who has died or whose registration has been cancelled under subsection (11).
+(10) The Commissioner of Building Control shall cancel the registration of an accredited checker or a specialist accredited checker who has died or whose registration has been cancelled undersubsection (11).
 
 (11) If the Commissioner of Building Control has cancelled the registration of a person as an accredited checker under subsection (1), he shall also cancel the registration of the person as a specialist accredited checker.
 
@@ -1390,7 +1410,7 @@ has a professional or financial interest in the building works shown in the plan
 
 (7) An accredited checking organisation shall be regarded as having a professional or financial interest in any building works if —
 
-(a) any of its directors, partners, members or employees is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —
+(a) any of its directors, partners, members or employees is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which
 
 (i) do not affect any key structural element; or
 
@@ -1529,6 +1549,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (4) Every pecuniary penalty or part thereof outstanding shall be recoverable as a debt due to the Building and Construction Authority.
 
 (5) On acceptance by the Commissioner of Building Control of the pecuniary penalty imposed under this section, the unauthorised building works in respect of which the penalty is paid shall be deemed to have been carried out without contravening section 20.
+
+[47/2007 wef 15/02/2008]
 
 ### Appeals
 
@@ -1770,7 +1792,7 @@ the Commissioner of Building Control may do either or both of the following:
 
 (ii) in respect of a continuing failure to comply, an additional fine not exceeding $10,000 for each day or part thereof the person fails to comply with the order; or
 
-(b) in the case of any other order in subsection (2)
+(b) in the case of any other order in subsection (2) —
 
 (i) a fine not exceeding $100,000 or imprisonment for a term not exceeding 12 months or both; and
 
@@ -2128,7 +2150,7 @@ Miscellaneous
 
 (d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(4) or 11 (1) (c), respectively.
 
-(1A) For the purposes of subsection (1), the Commissioner of Building Control or a person appointed under subsection (1)may take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
+(1A) For the purposes of subsection (1), the Commissioner of Building Control or a person appointed under subsection (1) may take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
 
 [4/99]
 
@@ -2657,6 +2679,7 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of Second and Third Readings|19 October 2004|
 ||Dates of commencement|1 April 2005 (except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule)|
 |||15 February 2008 (except sections 2(r) and (9))|
+|||1 October 2008 (section 2(r))|
 ## COMPARATIVE TABLE
 
 Building Control Act
