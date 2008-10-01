@@ -1902,6 +1902,34 @@ whichever is the earlier.
 
 [24/2001]
 
+(6A) Where an SRS member —
+
+(a) made his first withdrawal under subsection (3)(b); and
+
+(b) subsequently made one or more contributions to his SRS account during the period from 1st October 2008 to 31st December 2008 (both dates inclusive),
+
+then —
+
+(i) any withdrawal made under subsection (3)(b) prior to the date of the first of his contributions referred to in paragraph (b) shall be disregarded for the purpose of determining the period referred to in subsection (5); and
+
+(ii) the date of his first withdrawal made under subsection (3)(b) after the date of the first of his contributions referred to in paragraph (b) shall be deemed to be the date he made his first withdrawal under subsection (3)(b) for the purpose of determining the period referred to in subsection (5).
+
+[27/2009 wef 01/10/2008]
+
+(6B) Where an SRS member —
+
+(a) had made one or more withdrawals under subsection (3)(b) of all the funds standing to his SRS account and had closed his SRS account (referred to in this subsection as the first SRS account); and
+
+(b) subsequently opened another SRS account during the period from 1st October 2008 to 31st December 2008 (both dates inclusive) (referred to in this subsection as the second SRS account),
+
+then —
+
+(i) the reference to the date he made his first withdrawal under subsection (3)(b) for the purpose of determining the period referred to in subsection (5) shall be read as a reference to the date he makes his first withdrawal after he opened the second SRS account; and
+
+(ii) for the purposes of subsection (1) and section 39(2)(o), both the first SRS account and the second SRS account shall be deemed to be the same account as if the first SRS account had never been closed.
+
+[27/2009 wef 01/10/2008]
+
 (7) Where an SRS member is eligible to make a withdrawal under subsection (3)(c), he shall withdraw all the funds (excluding any life annuity) standing in his SRS account not later than 10 years from the date he makes the first withdrawal; and upon the expiry of that period, any balance (excluding any life annuity and any amount not withdrawn under subsection (4)) remaining in his SRS account shall be deemed to be withdrawn by the SRS member and 50% of such balance shall be deemed to be his income chargeable to tax under section 10(1)(g).
 
 [24/2001]
@@ -2751,7 +2779,7 @@ the income received by a person resident in Singapore from such source in any co
 
 (ii) any other prescribed deposit; or
 
-(b) in relation to any deposit of moneys referred to in subsection (1)(t), (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
+(b) in relation to any deposit of moneys referred to in subsection (1)(t) , (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
 
 [34/2008 wef 06/12/2007]
 
@@ -4223,21 +4251,11 @@ is the percentage which the value of equity interests of the second level entity
 
 for use outside the limits of the port of Singapore;
 
-[34/2008 wef 01/04/2008]
-
 (b) from the chartering or finance leasing of any sea-going Singapore ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to a shipping enterprise within the meaning of section 13A for use outside the limits of the port of Singapore; and
-
-[34/2008 wef 01/04/2008]
-
-[34/2008 wef 01/04/2008]
 
 (1A) Subsection (1) shall continue to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but which continues to derive income of the type referred to in subsection (1) in relation to a sea-going ship acquired before or during the period of the approval, provided that the enterprise has by the date of the expiry or before the withdrawal, fulfilled all the conditions referred to in subsection (3); and any reference in this section to an approved shipping investment enterprise shall be construed accordingly.
 
-[34/2008 wef 01/04/2008]
-
 (1B) Subsections (1) and (1A) shall apply to income derived by an approved shipping investment enterprise in relation to a sea-going ship acquired before the period of its approval, if and only if the enterprise is approved on or after 1st April 2008.
-
-[34/2008 wef 01/04/2008]
 
 (2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 28th February 2011, approve a shipping investment enterprise for the purposes of subsection (1).
 
@@ -4364,8 +4382,6 @@ ought not to have been so exempted for any year of assessment, the Comptroller m
 (a) in a case where the enterprise is approved on or after 1st April 2008 and has acquired a sea-going ship for use outside the limits of the port of Singapore before the date of its approval, the period from the date of its approval to the date where no income of any sea-going ship of the enterprise is eligible for exemption from tax under subsection (1); or
 
 (b) in any other case, the period from the date the enterprise first acquires, during the period of its approval, a sea-going ship for use outside the limits of the port of Singapore to the date where no income of any sea-going ship of the enterprise is eligible for exemption from tax under subsection (1).
-
-[34/2008 wef 01/04/2008]
 
 ### Exemption of trust income to which beneficiary is entitled
 
@@ -4562,8 +4578,6 @@ whichever is the earlier;
 (b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 1st April 2008.
 
 (4) Where a company fails to satisfy the definition of “eligible family-owned investment holding company” in any basis period beginning on or after 1st April 2013, then this section shall not apply to the company in any subsequent basis period, even if it satisfies the definition in that subsequent basis period.
-
-[34/2008 wef 01/04/2008]
 
 ## PART V
 
@@ -6093,7 +6107,7 @@ then the whole building or structure and every part thereof shall be treated as 
 
 [7/2007]
 
-(8) In this section and sections 16 and 17 —
+(8) In this section and sections 16and 17 —
 
 “capital expenditure”, in relation to the purchase of a building or structure, means the net price paid for the building or structure, but does not include the cost of land as determined to the satisfaction of the Comptroller;
 
@@ -7757,11 +7771,7 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (1A) Sections 13H, 13S, 19B, 43Y and 43ZA shall apply to a partnership as they apply to a company with such modifications and exceptions as may be prescribed by the Minister by regulations.
 
-[34/2008 wef 01/04/2008]
-
 (1B) Sections 14E and 19C shall, notwithstanding anything in those sections, apply to a partnership with such modifications and exceptions as may be prescribed by the Minister by regulations.
-
-[34/2008 wef 01/04/2008]
 
 (1C) Regulations under subsections (1A) and (1B) may make provision ––
 
@@ -7776,8 +7786,6 @@ ASCERTAINMENT OF STATUTORY INCOME
 (c) for the recovery of the amount referred to in paragraph (b) by deeming a specified amount as the income of the partner for the year of assessment in which the Comptroller discovers the non-compliance referred to in that paragraph; and
 
 (d) generally to give effect to or for carrying out the purposes of those sections as they apply to a partnership.
-
-[34/2008 wef 01/04/2008]
 
 (2) This section shall not be deemed to apply to any trade, business, profession or vocation carried on by a Hindu joint family.
 
@@ -10603,8 +10611,6 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 
 “direct insurance broker”, “general reinsurance broker” and “life reinsurance broker” have the same meanings as in section 1A of the Insurance Act (Cap. 142).
 
-[34/2008 wef 01/04/2008]
-
 ### Concessionary rate of tax for income derived from managing qualifying registered business trust or company
 
 43ZD\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify derived on or after 1st April 2008 —
@@ -10796,84 +10802,6 @@ as the case may be, a sum equal to such excess shall be paid by the company to t
 (ii) in relation to a dividend paid from 1st January 2007 to 31st December 2007, is 18%.
 
 [1/88; 28/92; 26/93; 32/95; 1/98; 31/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 11/2004; 49/2004; 7/2007; 53/2007]
-
-### Transitional provisions for company subjected to former imputation system
-
-44A\.—(1) This section shall —
-
-(a) have effect from 1st January 2003 to 31st December 2007; and
-
-(b) apply to all companies resident in Singapore which, before 1st January 2003, had been subjected to the provisions of section 44 in force immediately before that date.
-
-[37/2002]
-
-(2) Any excess carried forward by a company under section 44(5) as at 31st December 2002 (referred to in this Act as the 44A balance) remaining as at any date during the period from 1st January 2003 to 31st December 2007 shall be computed in accordance with this section and section 44(6).
-
-[37/2002]
-
-(3) Except as provided in subsections (5) and (12), any tax or additional tax assessed after 31st December 2002 on a company shall not be added to the 44A balance.
-
-[37/2002]
-
-(4) Notwithstanding anything in this Act, where the tax on any dividend paid by a company in the year 2007 has been deducted at the rate of 20% —
-
-(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 18% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
-
-(b) the difference between the amount of tax deducted at 20% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the 44A balance of the company and deemed to be a part thereof.
-
-[53/2007]
-
-(5) Notwithstanding subsection (3), where a company has furnished to the Comptroller an estimate of its chargeable income for the year of assessment 2003 on or before 31st March 2003, the tax assessed on or after 1st January 2003 on such chargeable income, after deducting any amount of such tax which is set-off under subsection (9) and section 44(18), shall be added to the 44A balance of the company on the date such tax is assessed.
-
-[37/2002]
-
-(6) Where tax assessed on a company for any year of assessment is subsequently reduced at any time from 1st January 2003 to 31st December 2007 —
-
-(a) the amount of tax reduced shall be deemed to be a reduction of tax for that year of assessment which has been previously assessed during the period from 1st January 2003 to the date of the reduction of tax (except for the tax assessed on the estimated chargeable income for the year of assessment 2003 referred to in subsection (5)); and
-
-(b) any remaining amount of tax reduced shall be deemed to be a reduction of tax for that year of assessment which has been assessed on or before 31st December 2002 and any tax assessed on the estimated chargeable income for the year of assessment 2003 referred to in subsection (5).
-
-[37/2002]
-
-(7) For the purpose of subsection (6), tax previously assessed during the period from 1st January 2003 to the date of the reduction of tax shall not include any amount of tax previously assessed which has been deemed to be tax restored under subsection (11)(b).
-
-[37/2002]
-
-(8) Where any amount of tax is deemed to be a reduction under subsection (6)(b), it shall be deducted from the 44A balance of the company remaining as at the day of the reduction, and where the amount to be so deducted exceeds the 44A balance, a charge or additional charge equal to the amount of such excess shall be paid by the company to the Comptroller within 14 days of the notice of charge or additional charge.
-
-[37/2002]
-
-(9) Any charge or additional charge paid by a company to the Comptroller under subsection (8) and any charge or additional charge payable under section 44(6) in force immediately before 1st January 2003 shall be used to set-off any tax assessed prior to 1st January 2008 on it subsequent to the charge or additional charge.
-
-[37/2002]
-
-(10) Where any tax assessed after 31st December 2002 which has been set-off by any charge or additional charge paid by a company to the Comptroller under subsection (8), or section 44(4) or (6) in force immediately before 1st January 2003, is subsequently reduced and the reduction is deemed to be a reduction under subsection (6)(a), the charge or additional charge paid under those subsections shall be restored by the amount of tax reduced, and the restored charge or additional charge shall be paid by the company to the Comptroller within 14 days from the date of the reduction of the tax assessed.
-
-[21/2003]
-
-(11) Where additional tax is assessed at any time from 1st January 2003 to 31st December 2007 on a company for any year of assessment subsequent to a reduction of tax during that period, the amount of additional tax assessed shall be deemed to be a restoration of the following:
-
-(a) firstly, the amount of tax for that year of assessment previously deemed to be a reduction under subsection (6)(a); and
-
-(b) secondly, where the amount of additional tax assessed for that year of assessment exceeds the amount referred to in paragraph (a), the amount of tax for that year of assessment previously deemed to be a reduction under subsection (6)(b),
-
-and any remaining amount of additional tax assessed shall be an additional tax assessed which is not deemed to be tax restored in accordance with paragraphs (a) and (b) and shall not be added to the 44A balance of the company.
-
-[37/2002]
-
-(12) Where any amount of additional tax for a year of assessment is deemed to be tax restored under subsection (11)(b), such amount of additional tax, up to the aggregate of —
-
-(a) the amount of such tax previously deducted from the 44A balance of the company under subsection (8); and
-
-(b) the amount of such tax previously resulting in a charge or additional charge under subsection (8) which was used to set-off any subsequent tax assessed on estimated chargeable income for the year of assessment 2003 under subsection (5),
-
-after deducting any amount of such tax which is set-off under subsection (9) and section 44(17) and (18), may upon the application of the company and subject to the submission of sufficient records and reconciliation of the additional tax to the Comptroller, be added back to the 44A balance of the company on the date which the additional tax is assessed.
-
-[37/2002; 21/2003]
-
-(13) In this section, “tax assessed” and “relevant rate of tax” have the same meanings as in section 44(20).
-
-[37/2002]
 
 ### Withholding of tax in respect of interest paid to non-resident persons
 
@@ -13090,8 +13018,6 @@ $320,000
 
 Part B
 
-Part B
-
 Rates of Tax on Chargeable Income of
 
 
@@ -13175,8 +13101,6 @@ $100,000
 55%.
 
 [7/2007]
-
-Part C
 
 Part C
 
@@ -14730,6 +14654,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 3/2006 published on 17 January 2006)|
 ||Date of Second and Third Readings|14 February 2006|
 ||Date of commencement|2 April 2008 (section 202 — amendment of Income Tax Act)|
+|237.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 October 2008 (Section 5(a))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
