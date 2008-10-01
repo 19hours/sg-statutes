@@ -118,13 +118,21 @@ SKILLS DEVELOPMENT LEVY
 
 ### Imposition of levy
 
-3\.—(1) Subject to the provisions of this Act, there shall be imposed on every employer a skills development levy in respect of each of his employees at the rate of 1% of the remuneration in any month of that employee or $2, whichever is the greater.
+3\.—(1) Subject to the provisions of this Act, every employer shall, in respect of each of his employees, pay a skills development levy of the following amount:
 
-[S 196/80; S83/85; S74/86]
+(a) subject to subsection (1A), at the rate of 0.25% of the remuneration in any month of that employee or such rate as the Minister may, by notification in theGazette, prescribe; or
+
+(b) $2,
+
+whichever is the greater.
+
+[20/2008 wef 01/10/2008]
+
+(1A) For the purpose of subsection (1)(a), the levy shall not be chargeable on the part of the remuneration of the employee in any month that exceeds $4,500 or such other amount as the Minister may, by notification in theGazette, prescribe.
+
+[20/2008 wef 01/10/2008]
 
 (2) The levy shall be collected and paid in respect of the month of October 1979 and every subsequent month.
-
-(3) The Minister may from time to time by order reduce or increase the rate of the levy specified in subsection (1).
 
 (4) Without prejudice to any other remedy, the levy may be recovered as a debt due to the Agency from the person accountable therefor.
 
@@ -132,11 +140,7 @@ SKILLS DEVELOPMENT LEVY
 
 ### Exemption from levy
 
-4\.—(1) No skills development levy shall be chargeable for any month in respect of any employee whose remuneration exceeds $750 for that month.
-
-(2) The Minister may by order vary the amount of remuneration specified in subsection (1).
-
-(3) The Minister may by order —
+4\.—(3) The Minister may by order —
 
 (a) exempt wholly or partly any employer or class of employers from skills development levy in such circumstances and subject to such conditions as may be specified in the order; and
 
@@ -596,3 +600,8 @@ This Legislative History is provided for the convenience of users of the Skills 
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|14.|**Act 20 of 2008—Skills Development Levy (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 17/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|26 August 2008|
+||Date of commencement|1 October 2008|
