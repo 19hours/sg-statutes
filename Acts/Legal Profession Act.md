@@ -514,11 +514,7 @@ PRELIMINARY
 
 “constituent foreign law practice”, in relation to a Joint Law Venture, means the foreign law practice which constitutes part of the Joint Law Venture;
 
-[19/2008 wef 19/09/2008]
-
 “constituent Singapore law practice”, in relation to a Joint Law Venture, means the Singapore law practice which constitutes part of the Joint Law Venture;
-
-[19/2008 wef 19/09/2008]
 
 “contentious business” means business done in or for the purposes of proceedings begun before a court of justice or before an arbitrator;
 
@@ -534,21 +530,13 @@ PRELIMINARY
 
 “foreign law” means the law of any state or territory other than Singapore, and includes international law;
 
-[19/2008 wef 19/09/2008]
-
 “foreign law practice” means a law practice (including a sole proprietorship, a partnership or a body corporate, whether with or without limited liability) providing legal services in any foreign law in Singapore or elsewhere, but does not include a Singapore law practice;
 
-[19/2008 wef 19/09/2008]
-
 “foreign lawyer” means an individual who is duly authorised or registered to practise law in a state or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that state or territory;
-
-[19/2008 wef 19/09/2008]
 
 “Inquiry Committee” means an Inquiry Committee constituted under section 85(10);
 
 “Joint Law Venture” means a Joint Law Venture licensed under section 130B;
-
-[19/2008 wef 19/09/2008]
 
 “Judge” means a Judge of the High Court sitting in chambers;
 
@@ -560,8 +548,6 @@ PRELIMINARY
 
 “licensed foreign law practice” means a foreign law practice licensed under section 130E;
 
-[19/2008 wef 19/09/2008]
-
 “limited liability law partnership” means a limited liability partnership approved as a limited liability law partnership under section 81Q;
 
 “locum solicitor” means an advocate and solicitor engaged (whether concurrently or otherwise) on a temporary or freelance basis by one or more law firms, law corporations, limited liability law partnerships or solicitors practising on their own account;
@@ -569,8 +555,6 @@ PRELIMINARY
 “Malayan practitioner” means any person entitled to practise before a High Court in any part of West Malaysia;
 
 “practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of an advocate and solicitor under Part IV;
-
-[19/2008 wef 19/09/2008]
 
 “practising certificate” means a certificate issued by the Registrar under section 25;
 
@@ -592,8 +576,6 @@ PRELIMINARY
 
 “Qualifying Foreign Law Practice” means a foreign law practice licensed under section 130D;
 
-[19/2008 wef 19/09/2008]
-
 “register of practitioners” means the annual register kept by the Registrar under section 27;
 
 “Registrar” means the Registrar of the Supreme Court and includes the Deputy Registrar and an Assistant Registrar;
@@ -613,8 +595,6 @@ PRELIMINARY
 (c) a limited liability law partnership; or
 
 (d) a law corporation;
-
-[19/2008 wef 19/09/2008]
 
 “Society” means the Law Society of Singapore established under section 37;
 
@@ -886,8 +866,6 @@ Qualified persons
 
 (b) with a legal officer who is an advocate and solicitor of not less than 5 years’ standing and who, for a total of not less than 5 out of the 7 years immediately preceding the relevant date, has been a legal officer or has been in active practice in a Singapore law practice or both;
 
-[19/2008 wef 19/09/2008]
-
 (c) with an advocate and solicitor who has at any time held office as the Attorney-General or as a Judge of the Supreme Court; or
 
 (d) partly with an advocate and solicitor under paragraph (a) or (c) and partly with a legal officer under paragraph (b).
@@ -1112,15 +1090,23 @@ PRACTISING CERTIFICATES
 
 ### Practising certificates
 
-25\.—(1) Every solicitor shall, in every year before he does any act in the capacity of an advocate and solicitor, deliver or cause to be delivered to the Registrar an application for a practising certificate in such form as may be prescribed by and in accordance with rules made under this section, the application to be accompanied by —
+25\.—(1) Every solicitor shall, in every year before he does any act in the capacity of an advocate and solicitor, deliver or cause to be delivered to the Registrar an application for a practising certificate in such form and manner as the Registrar may require, the application to be accompanied by —
 
 (a) a declaration in writing stating —
 
 (i) his full name;
 
-(ii) the name under which he practises if different from his own name, or the name of the solicitor or firm of solicitors or law corporation or limited liability law partnership employing him; and
+(ii) in a case where he is practising or intends to practise in a Singapore law practice, the name of the Singapore law practice in which he is or will be practising;
 
-(iii) the principal and any other address or addresses at which he practises in Singapore;
+[19/2008 wef 15/10/2008]
+
+(iii) in a case where he is registered by the Attorney-General under section 130N to practise Singapore law, and is practising or intends to practise Singapore law, in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice, the name of each Joint Law Venture and foreign law practice in which he is or will be practising; and
+
+[19/2008 wef 15/10/2008]
+
+(iv) the principal address, and every other address in Singapore, of each Singapore law practice, Joint Law Venture and foreign law practice in which he will be practising;
+
+[19/2008 wef 15/10/2008]
 
 (b) a certificate from the Council or such other evidence as the Registrar may require that —
 
@@ -1134,7 +1120,7 @@ PRACTISING CERTIFICATES
 
 (c) a certificate from the Academy that he has paid all moneys, contributions and subscriptions payable by him under the Singapore Academy of Law Act (Cap. 294A) and any rules made thereunder;
 
-(d) an accountant’s report pursuant to section 73 or a certificate from the Council stating that owing to the circumstances of his case such a report is unnecessary; and
+(d) such accountant’s report as may be required under section 73 or a certificate from the Council stating that owing to the circumstances of his case such a report is unnecessary; and
 
 [19/2008 wef 15/10/2008]
 
@@ -1194,7 +1180,7 @@ PRACTISING CERTIFICATES
 
 [40/96]
 
-(2) Where a solicitor to whom this section applies makes an application for a practising certificate, the Attorney-General or the Council may, having regard to all the circumstances of the case, in writing request the Registrar —
+(2) Subject to subsection (2A), where a solicitor to whom this section applies makes an application for a practising certificate, the Attorney-General or the Council may, having regard to all the circumstances of the case, in writing request the Registrar —
 
 (a) to refuse the application for a practising certificate; or
 
@@ -1205,6 +1191,14 @@ and the Registrar may, subject to subsections (6) and (7), comply with the reque
 [19/2008 wef 15/10/2008]
 
 [40/96]
+
+(2A) The Council shall not be entitled to make a request under subsection (2) in relation to a solicitor without the consent of the Attorney-General, if the solicitor —
+
+(a) is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice; and
+
+(b) undertakes not to practise in any Singapore law practice while his practising certificate is in force.
+
+[19/2008 wef 15/10/2008]
 
 (3) Without prejudice to the generality of subsection (2)(b) —
 
@@ -1238,7 +1232,7 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in subsection (1)(a) or (b); or
 
-(b) disciplinary proceedings against the solicitor under Part VII by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
+(b) disciplinary proceedings against the solicitor under Part VII or section 130R by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
 
 [19/2008 wef 15/10/2008]
 
@@ -1272,15 +1266,15 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 26\.—(1) No solicitor shall apply for a practising certificate —
 
-(a) unless he is practising or intends to practise either on his own account or in partnership;
+(a) unless —
 
-(b) unless he is or is about to be employed in his or their practice by a solicitor or firm of solicitors in practice in Singapore;
+(i) he is practising or intends to practise in a Singapore law practice;
 
-(ba) unless he is or is about to be a partner or an employee of a limited liability law partnership;
+(ii) he is registered by the Attorney-General under section 130N to practise Singapore law, and is practising or intends to practise Singapore law, in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice; or
 
-(c) unless he is or is about to be a director or an employee of a law corporation;
+(iii) he is practising or intends to practise as a locum solicitor;
 
-(ca) unless he is practising or intends to practise as a locum solicitor;
+[19/2008 wef 15/10/2008]
 
 (d) if he has, for a period of 3 years or more, held office as a Judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
 
@@ -1298,7 +1292,9 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (a) has, for a period of not less than 3 years in the aggregate in the 5 years immediately preceding the application —
 
-(i) practised as a solicitor on his own account or in partnership, as a director of a law corporation, as a partner of a limited liability law partnership or as an employee of a law firm, law corporation or limited liability law partnership; or
+(i) practised as a solicitor in a Singapore law practice; or
+
+[19/2008 wef 15/10/2008]
 
 (ii) been employed as a legal officer;
 
@@ -1376,11 +1372,21 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 ### Imposition of conditions while practising certificates are in force
 
-27A\.—(1) Where, at any time during the currency of the practising certificate of a solicitor, section 25A would have effect in relation to him by reason of any such circumstances as are mentioned in section 25A(1) if he were to make an application for a practising certificate at that time, a Judge may, upon an application by the Attorney-General or the Council made by originating summons and served upon the solicitor, direct that the current practising certificate of the solicitor shall have effect subject to such conditions as the Judge thinks fit.
+27A\.—(1) Subject to subsection (1A), where, at any time during the currency of the practising certificate of a solicitor, section 25A would have effect in relation to him by reason of any such circumstances as are mentioned in section 25A(1) if he were to make an application for a practising certificate at that time, a Judge may, upon an application by the Attorney-General or the Council made by originating summons and served upon the solicitor, direct that the current practising certificate of the solicitor shall have effect subject to such conditions as the Judge thinks fit.
 
 [19/2008 wef 15/10/2008]
 
 [40/96]
+
+(1A) The Council shall not be entitled to make an application under subsection (1) in relation to a solicitor without the consent of the Attorney-General, if the solicitor —
+
+(a) is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice;
+
+(b) does not practise in any Singapore law practice; and
+
+(c) undertakes not to practise in any Singapore law practice while his practising certificate remains in force.
+
+[19/2008 wef 15/10/2008]
 
 (2) Where an order under subsection (1) has been made against a solicitor by reason only of any such circumstances as are mentioned in section 25A(1)(c), (d), (e), (f), (g) or (h), the solicitor may, upon proof of a change in the circumstances or for other good cause, apply to a Judge by summons for a reconsideration of the matter.
 
@@ -1488,8 +1494,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (3) Notwithstanding subsection (1), an advocate and solicitor who practises in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice shall not be entitled to practise Singapore law except in accordance with Part IXA and any rules made under section 130W.
 
-[19/2008 wef 19/09/2008]
-
 ### Appointment of Senior Counsel
 
 30\.—(1) A Selection Committee comprising the Chief Justice, the Attorney-General and the Judges of Appeal may appoint an advocate and solicitor or a legal officer as Senior Counsel if the Selection Committee is of the opinion that, by virtue of the person’s ability, standing at the Bar or special knowledge or experience in law, he is deserving of such distinction.
@@ -1570,8 +1574,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (c) a District Judge or a Magistrate to mention a case or to apply for bail.
 
-[19/2008 wef 19/09/2008]
-
 ### Unauthorised person acting as advocate or solicitor
 
 33\.—(1) Any unauthorised person who —
@@ -1583,8 +1585,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (ii) commences, carries on, solicits or defends any action, suit or other proceeding in the name of any other person, or in his own name, in any of the courts in Singapore; or
 
 (iii) draws or prepares any document or instrument relating to any proceeding in the courts in Singapore; or
-
-[19/2008 wef 19/09/2008]
 
 (b) wilfully or falsely pretends to be, or takes or uses any name, title, addition or description implying that he is duly qualified or authorised to act as an advocate or a solicitor, or that he is recognised by law as so qualified or authorised,
 
@@ -1818,15 +1818,9 @@ Members of Society and subscriptions
 
 (a) registered by the Attorney-General under section 130I to practise Singapore law in a Joint Law Venture;
 
-[19/2008 wef 19/09/2008]
-
 (b) registered by the Attorney-General under section 130J to practise Singapore law in a Singapore law practice; or
 
-[19/2008 wef 19/09/2008]
-
 (c) granted the approval of the Attorney-General under section 130L,
-
-[19/2008 wef 19/09/2008]
 
 shall, without election, admission or appointment, become a member of the Society and remain a member under this section so long and only so long as his registration referred to in paragraph (a) or (b) or his approval referred to in paragraph (c) continues in force.
 
@@ -1843,8 +1837,6 @@ shall, without election, admission or appointment, become a member of the Societ
 [19/2008 wef 01/06/2007]
 
 (c) any qualified person (not being an advocate and solicitor) who is ordinarily resident in Singapore.
-
-[19/2008 wef 19/09/2008]
 
 [35/2001]
 
@@ -1864,11 +1856,7 @@ shall, without election, admission or appointment, become a member of the Societ
 
 (c) any person resident in Singapore who is attending a course of study leading to a qualification prescribed under section 2(2).
 
-[19/2008 wef 19/09/2008]
-
 (2) Every person who is a member of the Society under subsection (1) or (1A) shall be referred to in this Act as a non-practitioner member.
-
-[19/2008 wef 19/09/2008]
 
 (3) Subsection (1) shall not apply to —
 
@@ -1886,8 +1874,6 @@ shall, without election, admission or appointment, become a member of the Societ
 
 (e) a qualified person who has been prohibited under section 83(3) from applying to the court for admission, for so long as the prohibition remains in force.
 
-[19/2008 wef 19/09/2008]
-
 (4) A person admitted as a member of the Society under subsection (1) shall cease to be a member if —
 
 (a) being an advocate and solicitor referred to in subsection (1)(a) —
@@ -1900,11 +1886,7 @@ shall, without election, admission or appointment, become a member of the Societ
 
 (c) being a qualified person referred to in subsection (1)(c), he is prohibited under section 83(3) from applying to the court for admission.
 
-[19/2008 wef 19/09/2008]
-
 (5) A person admitted as a member of the Society under subsection (1A)(c) shall cease to be a member when he becomes a qualified person.
-
-[19/2008 wef 19/09/2008]
 
 ### Honorary members
 
@@ -2322,15 +2304,9 @@ Proceedings of Council
 
 (b) as often as may be necessary.
 
-[19/2008 wef 19/09/2008]
-
 (1A) A member of the Council may participate in a meeting of the Council through such means of communication (such as over the telephone or through a live audio, live video or live television link) as the Council may determine.
 
-[19/2008 wef 19/09/2008]
-
 (1B) A member of the Council who participates in a meeting of the Council in accordance with subsection (1A) shall be deemed to be present at the meeting.
-
-[19/2008 wef 19/09/2008]
 
 (2) Five members present at any meeting of the Council shall constitute a quorum for the transaction of any business.
 
@@ -2352,8 +2328,6 @@ Proceedings of Council
 
 (4) Any reference in this Act or any other law to the doing of anything by the Council includes a reference to the passing of a resolution of the Council by written means which authorises the doing of that thing.
 
-[19/2008 wef 19/09/2008]
-
 ### Expenses of members
 
 65\. No fees shall be paid to any member of the Council but a member may be reimbursed from the funds of the Society for out-of-pocket and travelling expenses incurred by him in relation to the affairs of the Society.
@@ -2361,8 +2335,6 @@ Proceedings of Council
 ### Proceedings of Council, Review Committee and Inquiry Committee to be confidential
 
 66\.—(1) Except insofar as may be necessary for the purpose of giving effect to any resolutions or decisions of the Council and any Review Committee or Inquiry Committee, confidentiality shall be maintained in all proceedings conducted by the Council, its staff and the Review Committee or Inquiry Committee.
-
-[19/2008 wef 19/09/2008]
 
 [15/89]
 
@@ -2434,11 +2406,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (d) as to the keeping by every solicitor referred to in paragraph (c) of accounts containing particulars and information as to moneys received, held or paid by him for or on account of any trust referred to in that paragraph;
 
-[19/2008 wef 19/09/2008]
-
 (da) as to the circumstances in which, and the manner by which, the Council may prohibit a solicitor from authorising or effecting any withdrawal of money from any account referred to in paragraph (a) or (c), whether such withdrawal is authorised or effected by the solicitor signing any cheque or other instrument or otherwise; and
-
-[19/2008 wef 19/09/2008]
 
 (e) empowering the Council to take such action as may be necessary to enable them to ascertain whether or not the rules are being complied with.
 
@@ -2454,8 +2422,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (2A) Such rules shall apply only to Singapore law practices and solicitors practising therein.
 
-[19/2008 wef 19/09/2008]
-
 (3) Such rules shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
 
 (4) Disciplinary proceedings may be taken against any solicitor who contravenes any rules made under this section.
@@ -2467,8 +2433,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 [19/2008 wef 19/09/2008]
 
 (1A) A solicitor shall not be required to deliver an accountant’s report under subsection (1) in respect of any practice of Singapore law by him in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice.
-
-[19/2008 wef 19/09/2008]
 
 (2) If a solicitor practised in a Singapore law practice during such accounting period as may be specified in the accountant’s report to be delivered by him, the report shall —
 
@@ -2522,8 +2486,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (ii) any other relevant documents.
 
-[19/2008 wef 19/09/2008]
-
 (5) Such rules may include provision for —
 
 (a) permitting in such special circumstances as may be defined in the rules a different accounting period from that specified in subsection (3); and
@@ -2538,9 +2500,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 ### Intervention in solicitor’s practice
 
-74\. TheSubject to subsection (2), the powers conferred by Part II of the First Schedule shall be exercisable in the circumstances specified in Part I of that Schedule.
-
-(1) Subject to subsection (2), the powers conferred by Part II of the First Schedule shall be exercisable in the circumstances specified in Part I of that Schedule.
+74\.—(1) Subject to subsection (2), the powers conferred by Part II of the First Schedule shall be exercisable in the circumstances specified in Part I of that Schedule.
 
 [19/2008 wef 19/09/2008]
 
@@ -2548,13 +2508,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (2) The First Schedule shall apply, with such modifications as may be prescribed under subsection (3), to a solicitor registered by the Attorney-General under section 130N, in respect of the solicitor’s practice of Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice.
 
-[19/2008 wef 19/09/2008]
-
 (3) The Minister may, after consulting the Attorney-General, make rules to prescribe the modifications to be made to the First Schedule for the purposes of subsection (2).
-
-[19/2008 wef 19/09/2008]
-
-[40/96]
 
 ### Compensation Fund
 
@@ -2570,11 +2524,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (a) registered by the Attorney-General under section 130J to practise Singapore law in a Singapore law practice; or
 
-[19/2008 wef 19/09/2008]
-
 (b) granted the approval of the Attorney-General under section 130L,
-
-[19/2008 wef 19/09/2008]
 
 shall, while his registration referred to in paragraph (a) or his approval referred to in paragraph (b) continues in force, pay to the Society an annual contribution of such sum (not exceeding the amount applicable to solicitors under subsection (2)) as the Council may from time to time determine and the Society shall pay that contribution to the Fund.
 
@@ -2732,9 +2682,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 ### Redress for inadequate professional services
 
-75B\. TheSubject to subsection (2), the Second Schedule shall have effect with respect to the provision by solicitors of services on or after 1st September 1998 which are not of the quality which it is reasonable to expect of them.
-
-(1) Subject to subsection (2), the Second Schedule shall have effect with respect to the provision by solicitors of services on or after 1st September 1998 which are not of the quality which it is reasonable to expect of them.
+75B\.—(1) Subject to subsection (2), the Second Schedule shall have effect with respect to the provision by solicitors of services on or after 1st September 1998 which are not of the quality which it is reasonable to expect of them.
 
 [19/2008 wef 19/09/2008]
 
@@ -2746,15 +2694,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (b) are not of the quality which it is reasonable to expect of him.
 
-[19/2008 wef 19/09/2008]
-
 (3) The Minister may, after consulting the Attorney-General, make rules to prescribe the modifications to be made to the Second Schedule and any rules made under paragraph 11 of that Schedule for the purposes of subsection (2).
-
-[19/2008 wef 19/09/2008]
-
-[19/2008 wef 19/09/2008]
-
-[40/96]
 
 ### Qualification to practise as sole proprietor, partner or director of Singapore law practice
 
@@ -2785,10 +2725,6 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 (3) Paragraphs (b) and (c) of subsection (1) shall not apply to a solicitor who was admitted as a solicitor before 1st March 1997.
 
 (4) This section shall not apply to a solicitor who has before 9th March 2007 been in practice in a Singapore law practice as a solicitor on his own account or in partnership (whether in a law firm or a limited liability law partnership) or as a director of a law corporation.
-
-[20/2007 wef 01/06/2007]
-
-[19/2008 wef 19/09/2008]
 
 (4A) [Deleted by Act 20/2007 wef 01/06/2007]
 
@@ -3486,6 +3422,14 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008 wef 01/12/2008]
 
+(6A) Notwithstanding subsection (6), the Chief Justice may refuse to grant leave for an investigation to be made into a complaint of misconduct against a legal officer or non-practising solicitor if the application for such leave is made after the expiration of the period of —
+
+(a) 6 years from the date of the alleged misconduct; or
+
+(b) where the complaint relates to any fraud alleged to have been committed by the legal officer or non-practising solicitor, 6 years from the earliest date on which the applicant discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
+
+[19/2008 wef 15/10/2008]
+
 (7) The Disciplinary Committee shall hear and investigate into the complaint and submit its findings of fact and law in the form of a report to the Chief Justice.
 
 [19/2008 wef 01/12/2008]
@@ -3576,7 +3520,7 @@ DISCIPLINARY PROCEEDINGS
 
 [30/86; 15/89; 35/2001]
 
-(2) An advocate and solicitor shall be eligible to be appointed as a member of the Inquiry Panel if he has not less than 12 years’ standing.
+(2) An advocate and solicitor shall be eligible to be appointed as a member of the Inquiry Panel if he has not less than 7 years’ standing.
 
 [19/2008 wef 15/10/2008]
 
@@ -3586,15 +3530,29 @@ DISCIPLINARY PROCEEDINGS
 
 (4) The Chief Justice may at any time remove from office any member of the Inquiry Panel or fill any vacancy in its membership.
 
-(5) The Chief Justice shall appoint a member of the Inquiry Panel to be the Chairman.
+(5) The Chief Justice shall appoint, from among the members of the Inquiry Panel who are advocates and solicitors of not less than 12 years’ standing, the Chairman and the Deputy Chairman of the Inquiry Panel.
 
-[30/86]
+[19/2008 wef 15/10/2008]
 
 ### Complaints against advocates and solicitors
 
-85\.—(1) Any complaint of the conduct of an advocate and solicitor shall in the first place be made to the Society and the Council shall refer the complaint to the Chairman of the Inquiry Panel.
+85\.—(1) Any complaint of the conduct of an advocate and solicitor —
 
-[30/86; 15/89; 41/93]
+(a) shall be made to the Society in writing;
+
+(b) shall include a statement by the complainant —
+
+(i) as to whether, to his knowledge, any other complaint has been made to the Society against the advocate and solicitor, by him or by any other person, which arises from the same facts as his complaint; and
+
+(ii) if so, setting out such particulars of each such complaint as the Council may require and he is able to provide; and
+
+(c) shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint is made by any public officer.
+
+[19/2008 wef 15/10/2008]
+
+(1A) Subject to subsection (4A), the Council shall refer every complaint which satisfies the requirements of subsection (1) to the Chairman of the Inquiry Panel.
+
+[19/2008 wef 15/10/2008]
 
 (2) The Council may on its own motion refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel.
 
@@ -3610,7 +3568,19 @@ DISCIPLINARY PROCEEDINGS
 
 [30/86; 15/89; 41/93; 35/2001]
 
-(4) Notwithstanding subsections (1), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Committee under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
+(3A) Notwithstanding subsections (1A), (2) and (3), where any complaint is made to the Society of, the Council wishes to refer any information touching upon, or any Judge of the Supreme Court has referred any information to the Society touching upon, the conduct of an advocate and solicitor who is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice and who at the time of the conduct did not practise in any Singapore law practice —
+
+(a) the Council shall consult the Attorney-General on whether to proceed in accordance with this section; and
+
+(b) if the Attorney-General directs the Council not to proceed in accordance with this section, the Council shall refer the complaint or information to the Attorney-General as a complaint under section 130R instead of proceeding in accordance with this section.
+
+[19/2008 wef 15/10/2008]
+
+(3B) Where any conduct of an advocate and solicitor registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice has given rise to any proceedings under this Part, those proceedings, and any decision, determination or order arising from those proceedings, shall not in any way affect the jurisdiction of the Attorney-General under Part IXA to take such action as he deems appropriate against the advocate and solicitor in respect of the same conduct.
+
+[19/2008 wef 15/10/2008]
+
+(4) Notwithstanding subsections (1A), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Committee under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
 
 [19/2008 wef 01/12/2008]
 
@@ -3618,25 +3588,73 @@ DISCIPLINARY PROCEEDINGS
 
 [15/89; 41/93]
 
+(4A) Subject to subsection (4C), the Council shall not refer a complaint of the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (1A) if the complaint is first made to the Society after the expiration of the period of —
+
+(a) 6 years from the date of the conduct; or
+
+(b) where the complaint relates to any fraud alleged to have been committed by the advocate and solicitor, 6 years from the earliest date on which the complainant discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
+
+[19/2008 wef 15/10/2008]
+
+(4B) Subject to subsection (4C), the Council shall not refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (2) after the expiration of the period of —
+
+(a) 6 years from the date of the conduct; or
+
+(b) where the information relates to any fraud alleged to have been committed by the advocate and solicitor, 6 years from the earliest date on which the Council discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
+
+[19/2008 wef 15/10/2008]
+
+(4C) The Council may, with the leave of the court —
+
+(a) refer a complaint of the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (1A) after the expiration of the period referred to in subsection (4A); or
+
+(b) refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (2) after the expiration of the period referred to in subsection (4B).
+
+[19/2008 wef 15/10/2008]
+
+(4D) An application for the leave of the court under subsection (4C) shall be —
+
+(a) made by the Council by originating summons; and
+
+(b) accompanied by an affidavit —
+
+(i) setting out —
+
+(A) every document constituting the complaint of the conduct of the advocate and solicitor concerned, including every statutory declaration in support of the complaint (if any); or
+
+(B) the facts constituting the information touching upon the conduct of the advocate and solicitor concerned,
+
+as the case may be;
+
+(ii) explaining why the complaint was not made to the Society before the expiration of the period referred to in subsection (4A), or why the information was not referred to the Chairman of the Inquiry Panel before the expiration of the period referred to in subsection (4B), as the case may be; and
+
+(iii) explaining why the complaint or information, as the case may be, should be referred to the Chairman of the Inquiry Panel, notwithstanding the expiration of the period referred to in subsection (4A) or (4B), as the case may be.
+
+[19/2008 wef 15/10/2008]
+
+(4E) The application and affidavit referred to in subsection (4D) shall be served on the advocate and solicitor concerned.
+
+[19/2008 wef 15/10/2008]
+
 (5) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel, the Council shall inform the advocate and solicitor concerned that it has done so.
 
 [15/89; 41/93]
 
-(6) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred to the Chairman of the Inquiry Panel under subsection (1), (2) or (3), the Chairman shall immediately constitute one or more Review Committees consisting of —
+(6) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred to the Chairman of the Inquiry Panel under subsection (1A), (2) or (3), the Chairman or Deputy Chairman of the Inquiry Panel shall, within 2 weeks, constitute a Review Committee consisting of —
 
-(a) a chairman, being the Chairman himself or a member of the Inquiry Panel who is an advocate and solicitor; and
+(a) a chairman, being the Chairman or Deputy Chairman himself or a member of the Inquiry Panel who is an advocate and solicitor of not less than 12 years’ standing; and
 
 (b) a legal officer who has not less than 10 years’ experience,
 
-to review the complaint or information within 2 weeks of its constitution.
+to review the complaint or information, and such review by the Review Committee shall start within 2 weeks of its constitution.
 
-[15/89; 41/93; 35/2001]
+[19/2008 wef 15/10/2008]
 
 (7) A Review Committee may, in the course of a review under subsection (6), require the complainant or the advocate and solicitor concerned to answer any inquiry or to furnish any record that the Review Committee considers relevant for the purpose of the review.
 
 [35/2001]
 
-(8) On the completion of a review under subsection (6), a Review Committee shall —
+(8) A Review Committee shall complete its review under subsection (6) within 4 weeks of its constitution, and —
 
 (a) direct the Council to dismiss the matter if it is unanimously of the opinion that the complaint or information is frivolous, vexatious, misconceived or lacking in substance and give the reasons for the dismissal; or
 
@@ -3646,6 +3664,10 @@ to review the complaint or information within 2 weeks of its constitution.
 
 [35/2001]
 
+(8A) The Chairman or Deputy Chairman of the Inquiry Panel may, on the application in writing of a Review Committee, grant to the Review Committee an extension of the period specified in subsection (8) if he is satisfied that the circumstances of the case justify the grant of the extension, except that any extension granted shall not extend beyond a period of 6 weeks from the date of the constitution of the Review Committee.
+
+[19/2008 wef 15/10/2008]
+
 (9) The Council shall, within 7 days of receiving any direction under subsection (8)(a) —
 
 (a) give effect to the direction to dismiss the matter; and
@@ -3654,9 +3676,9 @@ to review the complaint or information within 2 weeks of its constitution.
 
 [35/2001]
 
-(10) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred back to the Chairman of the Inquiry Panel under subsection (8)(b), the Chairman shall immediately constitute an Inquiry Committee consisting of —
+(10) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred back to the Chairman of the Inquiry Panel under subsection (8)(b), the Chairman or Deputy Chairman of the Inquiry Panel shall, within 3 weeks, constitute an Inquiry Committee consisting of —
 
-(a) a chairman, being a member of the Inquiry Panel who is an advocate and solicitor ;
+(a) a chairman, being a member of the Inquiry Panel who is an advocate and solicitor of not less than 12 years’ standing;
 
 [19/2008 wef 15/10/2008]
 
@@ -3672,7 +3694,7 @@ to inquire into the complaint or information.
 
 [35/2001]
 
-(11) A member of a Review Committee who has reviewed any matter concerning any advocate and solicitor shall not be a member of an Inquiry Committee inquiring into the same matter.
+(11) A member of a Review Committee who has reviewed any matter concerning any advocate and solicitor shall not thereby be disqualified from acting as a member of an Inquiry Committee inquiring into the same matter.
 
 [19/2008 wef 15/10/2008]
 
@@ -3698,19 +3720,83 @@ to inquire into the complaint or information.
 
 [15/89]
 
-(17) Every complaint received by the Society shall be supported by such statutory declarations or affidavits as the Chairman of the Inquiry Panel or of an Inquiry Committee may require.
+(17) Any person who makes a complaint to the Society under this Part shall furnish to the Chairman or Deputy Chairman of the Inquiry Panel, or the chairman of a Review Committee or of an Inquiry Committee, such statutory declarations or affidavits in support of the complaint as that Chairman, Deputy Chairman or chairman may require within such time as that Chairman, Deputy Chairman or chairman may specify.
 
-[15/89; 41/93]
+[19/2008 wef 15/10/2008]
 
-(18) An Inquiry Committee may require any person making a complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $500 to cover necessary costs and expenses.
+(17A) Where a complaint is made to the Society under this Part, and the whole or any part of the complaint or any document furnished in support of the complaint is in a language other than English —
+
+(a) the complainant shall furnish to the Society an English translation of that whole or part of the complaint or document which is verified by the affidavit of a person qualified to translate it; or
+
+(b) if the complainant fails to do so, the Society —
+
+(i) may arrange for the translation into English of that whole or part of the complaint or document; and
+
+(ii) shall be entitled to recover from the complainant all reasonable costs of such translation as if they were a debt due to the Society.
+
+[19/2008 wef 15/10/2008]
+
+(17B) Where any voice recording is tendered in support of a complaint made to the Society under this Part —
+
+(a) the complainant shall furnish to the Society —
+
+(i) a transcript of the recording, such transcript to be verified by the affidavit of the person who transcribed the recording; and
+
+(ii) if the transcript is in a language other than English, an English translation of the transcript which is verified by the affidavit of a person qualified to translate it; or
+
+(b) if the complainant fails to do so, the Society —
+
+(i) may arrange for the transcription of the recording and, if the transcript of the recording is in a language other than English, the translation into English of the transcript of the recording; and
+
+(ii) shall be entitled to recover from the complainant all reasonable costs of such transcription and translation as if they were a debt due to the Society.
+
+[19/2008 wef 15/10/2008]
+
+(18) An Inquiry Committee may require any person making a complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $1,000 to cover costs.
 
 [19/2008 wef 15/10/2008]
 
 [15/89]
 
-(19) Where the complaint is found to be frivolous or vexatious, the sum so deposited or such part thereof as the Inquiry Committee may determine shall be applied for the payment of those costs and expenses; otherwise the sum so deposited shall be returned to the person making the same.
+(19) Where the complaint is found to be frivolous or vexatious —
 
-[15/89; 41/93]
+(a) the Inquiry Committee may, after hearing the complainant (if he desires to be heard) —
+
+(i) order the complainant to pay to any person all or any costs reasonably incurred by that person in the proceedings before the Inquiry Committee; and
+
+(ii) in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar;
+
+(b) any sum deposited under subsection (18) shall be applied for the payment of those costs, and any balance of that sum shall be returned to the complainant; and
+
+(c) if no sum has been deposited under subsection (18), or if any sum deposited under subsection (18) is insufficient to cover those costs, the person awarded those costs may sue for and recover the costs which remain unpaid as if they were a debt due to him.
+
+[19/2008 wef 15/10/2008]
+
+(19A) Where —
+
+(a) an Inquiry Committee has made any order under subsection (19)(a); and
+
+(b) the complainant is dissatisfied with that order,
+
+the complainant may, within 14 days of being notified of that order, apply to a Judge for a review of that order.
+
+[19/2008 wef 15/10/2008]
+
+(19B) An application under subsection (19A) shall be —
+
+(a) made by originating summons; and
+
+(b) served on the Society and on every person against whom any relief is sought.
+
+[19/2008 wef 15/10/2008]
+
+(19C) At the hearing of an application under subsection (19A), the Judge may —
+
+(a) affirm, vary or set aside the order of the Inquiry Committee; and
+
+(b) make such order for the payment of costs as may be just.
+
+[19/2008 wef 15/10/2008]
 
 (20) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Council has decided that the Inquiry Committee of which he is a member has completed its work.
 
@@ -3734,7 +3820,7 @@ to inquire into the complaint or information.
 
 [15/89]
 
-(3) The Chairman of the Inquiry Panel may grant an extension of time to an Inquiry Committee to report its findings to the Council if he is satisfied that the circumstances of the case justify the grant of an extension of time, except that any extension of time granted shall not extend beyond the period of 6 months from the date of the appointment of that Inquiry Committee.
+(3) The Chairman or Deputy Chairman of the Inquiry Panel may grant an extension of time to an Inquiry Committee to report its findings to the Council if he is satisfied that the circumstances of the case justify the grant of an extension of time, except that any extension of time granted shall not extend beyond the period of 6 months from the date of the appointment of that Inquiry Committee.
 
 [19/2008 wef 15/10/2008]
 
@@ -3792,17 +3878,23 @@ to inquire into the complaint or information.
 
 (12) For the purposes of conducting an inquiry, an Inquiry Committee may —
 
-(a) appoint any person to make or assist in the making of whatever preliminary inquiries it thinks necessary;
+(a) appoint any person to make or assist in the making of such preliminary inquiries as the Inquiry Committee thinks necessary;
 
-(b) require the production for inspection by the Inquiry Committee or any person appointed by the Committee of any books, documents or papers which may relate to or be connected with the subject-matter of the inquiry and may require any person to give information in relation to such books, documents or papers; and
+(b) require the production for inspection by the Inquiry Committee, or by any person appointed under paragraph (a), of any books, documents or papers which may relate to or be connected with the subject-matter of the inquiry; and
 
-(c) require the advocate and solicitor concerned to give all information in relation to any such books, documents or papers which may be reasonably required by the Inquiry Committee or by the person so employed.
+(c) require the complainant, the advocate and solicitor concerned and any other person to give any information which may relate to or be connected with the subject-matter of the inquiry (including any information in relation to any books, documents or papers referred to in paragraph (b)) —
 
-[15/89]
+(i) at an attendance before the Inquiry Committee or any person appointed under paragraph (a);
 
-(13) Any advocate and solicitor and any other person who refuses or fails, without lawful excuse, to produce to the Inquiry Committee or to any person whom the Committee may appoint for the purposes of an inquiry any books, documents or papers required of him as aforesaid or fails to give any such information relating thereto shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(ii) in writing; or
 
-[15/89]
+(iii) by way of a statutory declaration or an affidavit.
+
+[19/2008 wef 15/10/2008]
+
+(13) Any person who refuses or fails, without lawful excuse, to comply with any requirement of an Inquiry Committee under subsection (12)(b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[19/2008 wef 15/10/2008]
 
 ### Council’s consideration of report
 
@@ -3816,11 +3908,23 @@ to inquire into the complaint or information.
 
 [19/2008 wef 01/12/2008]
 
-(d) that the matter be adjourned for consideration or be referred back to the Inquiry Committee for reconsideration or a further report.
+(d) that the matter be referred back to the Inquiry Committee for reconsideration or a further report.
+
+[19/2008 wef 15/10/2008]
 
 [41/93]
 
-(2) If the Inquiry Committee in its reportrecommends —
+(1A) Where the Council has determined under subsection (1)(d) that a matter be referred back to the Inquiry Committee for reconsideration or a further report —
+
+(a) the Council shall notify the Inquiry Committee accordingly;
+
+(b) the Inquiry Committee shall submit its response or further report to the Council within 4 weeks from the date of the Council’s notification; and
+
+(c) subsection (1)(a), (b) and (c) shall apply, with the necessary modifications, in relation to the response or further report of the Inquiry Committee as it applies in relation to the report of the Inquiry Committee.
+
+[19/2008 wef 15/10/2008]
+
+(2) If the Inquiry Committee in its report, read with any response or further report submitted under subsection (1A)(b), recommends —
 
 (a) that there should be a formal investigation, then the Council shall determine accordingly under subsection (1); or
 
@@ -3830,7 +3934,7 @@ to inquire into the complaint or information.
 
 [19/2008 wef 15/10/2008]
 
-(3) Where the report of the Inquiry Committeediscloses the commission of —
+(3) Where the report of the Inquiry Committee, read with any response or further report of the Inquiry Committee submitted under subsection (1A)(b), discloses the commission of —
 
 (a) any other misconduct by the advocate and solicitor which has not been referred to or inquired into by the Inquiry Committee, the Council shall, if it determines that there should be a formal investigation of such misconduct, have power to prefer such charge against the advocate and solicitor as it thinks fit with respect to that misconduct; or
 
@@ -3840,7 +3944,7 @@ to inquire into the complaint or information.
 
 [19/2008 wef 15/10/2008]
 
-(4) The Council shall inform the advocate and solicitor and the person who made the complaint of the manner in which it has determined the complaint , and in the event of the determination being that a formal investigation is unnecessary, the Council shall on the request of the person furnish him with its reasons in writing.
+(4) The Council shall inform the advocate and solicitor and the person who made the complaint of the manner in which it has determined the complaint within 14 days of the determination, and in the event of the determination being that a formal investigation is unnecessary, the Council shall on the request of the person furnish him with its reasons in writing.
 
 [19/2008 wef 15/10/2008]
 
@@ -4320,8 +4424,6 @@ REMUNERATION RECEIVED BY SINGAPORE LAW PRACTICES OR SOLICITORS, OR IN RESPECT OF
 
 (ii) a solicitor or foreign lawyer registered by the Attorney-General under Part IXA to practise Singapore law.
 
-[19/2008 wef 19/09/2008]
-
 ### Prohibition of certain stipulations
 
 107\.—(1) No solicitor shall —
@@ -4518,9 +4620,7 @@ RECOVERY AND TAXATION OF COSTS
 
 ### Interpretation and application of this Part
 
-116\. In this Part —
-
-(1) In this Part —
+116\.—(1) In this Part —
 
 “court” means the High Court, a Judge when sitting in open court or in chambers, a District Court or a Magistrate’s Court and includes the Registrar;
 
@@ -4534,8 +4634,6 @@ RECOVERY AND TAXATION OF COSTS
 
 “solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation or a limited liability law partnership.
 
-[19/2008 wef 19/09/2008]
-
 [4/2000; 35/2001]
 
 (2) This Part —
@@ -4547,8 +4645,6 @@ RECOVERY AND TAXATION OF COSTS
 (i) a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice; or
 
 (ii) a solicitor or foreign lawyer registered by the Attorney-General under Part IXA to practise Singapore law.
-
-[19/2008 wef 19/09/2008]
 
 ### Charging orders
 
@@ -4693,8 +4789,6 @@ RECOVERY AND TAXATION OF COSTS
 ## PART IXA
 
 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
-
-[19/2008 wef 19/09/2008]
 
 ### Interpretation of this Part
 
@@ -5991,6 +6085,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 16/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|26 August 2008|
 ||Date of commencement|19 September 2008 (except sections 2(c) and (f), 4, 5, 6, 7(a) and (b), 8, 9, 11, 26 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
+|43.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 16/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|26 August 2008|
+||Date of commencement|15 October 2008 (sections 4, 5(c), (d) and (g), 7(a) and (b), 8(a) and (b), 26(d), 28, 29(a) and (c) to (o), 30(a) and (d) and 31(b) to (f))|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
