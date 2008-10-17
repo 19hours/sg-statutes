@@ -1,0 +1,2099 @@
+**Mental Capacity Act 2008**
+
+**(No. 22 of 2008)**
+
+**Table of Contents**
+
+[**Long Title**](#Mental-Capacity-Act)
+
+[**Enacting Formula**](#Enacting-Formula)
+
+[**Part I PRELIMINARY**](#Part-I)
+
+- [1 Short title and commencement](#Short-title-and-commencement)
+
+- [2 Interpretation](#Interpretation)
+
+[**Part II PERSONS WHO LACK CAPACITY**](#Part-II)
+
+- [3 The principles](#The-principles)
+
+- [4 Persons who lack capacity](#Persons-who-lack-capacity)
+
+- [5 Inability to make decisions](#Inability-to-make-decisions)
+
+- [6 Best interests](#Best-interests)
+
+[**Part III ACTS IN CONNECTION WITH CARE OR TREATMENT**](#Part-III)
+
+- [7 Acts in connection with care or treatment](#Acts-in-connection-with-care-or-treatment)
+
+- [8 Section 7 acts: limitations](#Section-7-acts:-limitations)
+
+- [9 Payment for necessary goods and services](#Payment-for-necessary-goods-and-services)
+
+- [10 Expenditure](#Expenditure)
+
+[**Part IV LASTING POWERS OF ATTORNEY**](#Part-IV)
+
+- [11 Lasting powers of attorney](#Lasting-powers-of-attorney)
+
+- [12 Appointment of donees](#Appointment-of-donees)
+
+- [13 Lasting powers of attorney: restrictions](#Lasting-powers-of-attorney:-restrictions)
+
+- [14 Scope of lasting powers of attorney: gifts](#Scope-of-lasting-powers-of-attorney:-gifts)
+
+- [15 Revocation of lasting powers of attorney, etc.](#Revocation-of-lasting-powers-of-attorney-etc)
+
+- [16 Protection of donee and others if no power created or power revoked](#Protection-of-donee-and-others-if-no-power-created-or-power-revoked)
+
+- [17 Powers of court in relation to validity of lasting powers of attorney](#Powers-of-court-in-relation-to-validity-of-lasting-powers-of-attorney)
+
+- [18 Powers of court in relation to operation of lasting powers of attorney](#Powers-of-court-in-relation-to-operation-of-lasting-powers-of-attorney)
+
+[**Part V GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES**](#Part-V)
+
+- [19 Power to make declarations](#Power-to-make-declarations)
+
+- [20 Powers to make decisions and appoint deputies: general](#Powers-to-make-decisions-and-appoint-deputies:-general)
+
+- [21 Powers to make decisions and appoint deputies: minors](#Powers-to-make-decisions-and-appoint-deputies:-minors)
+
+- [22 Section 20 powers: personal welfare](#Section-20-powers:-personal-welfare)
+
+- [23 Section 20 powers: property and affairs](#Section-20-powers:-property-and-affairs)
+
+- [24 Appointment of deputies](#Appointment-of-deputies)
+
+- [25 Restrictions on deputies](#Restrictions-on-deputies)
+
+[**Part VI EXCLUDED DECISIONS AND DECLARATORY PROVISIONS**](#Part-VI)
+
+- [26 Excluded decisions](#Excluded-decisions)
+
+- [27 Mental Health (Care and Treatment) Act matters](#Mental-Health-Care-and-Treatment-Act-matters)
+
+- [28 Voting rights](#Voting-rights)
+
+- [29 Scope of Act](#Scope-of-Act)
+
+[**Part VII PUBLIC GUARDIAN AND BOARD OF VISITORS**](#Part-VII)
+
+- [30 Public Guardian](#Public-Guardian)
+
+- [31 Functions of Public Guardian](#Functions-of-Public-Guardian)
+
+- [32 Powers of investigation by Public Guardian](#Powers-of-investigation-by-Public-Guardian)
+
+- [33 Public Guardian Board](#Public-Guardian-Board)
+
+- [34 Annual report](#Annual-report)
+
+- [35 Board of Visitors](#Board-of-Visitors)
+
+[**Part VIII SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT**](#Part-VIII)
+
+- [36 Interim orders and directions](#Interim-orders-and-directions)
+
+- [37 Power to call for reports](#Power-to-call-for-reports)
+
+- [38 Applications to court](#Applications-to-court)
+
+- [39 Rules of Court](#Rules-of-Court)
+
+- [40 Costs](#Costs)
+
+[**Part IX MISCELLANEOUS**](#Part-IX)
+
+- [41 Codes of practice](#Codes-of-practice)
+
+- [42 Ill-treatment](#Ill-treatment)
+
+- [43 Information relating to persons who lack capacity](#Information-relating-to-persons-who-lack-capacity)
+
+- [44 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
+- [45 Amendment of Schedules](#Amendment-of-Schedules)
+
+- [46 Regulations](#Regulations)
+
+- [47 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
+
+- [48 Savings and transitional provisions](#Savings-and-transitional-provisions)
+
+[**FIRST SCHEDULE Lasting Powers of Attorney: Formalities**](#FIRST-SCHEDULE-Lasting-Powers-of-Attorney:-Formalities)
+
+[**SECOND SCHEDULE Property and Affairs: Supplementary Provisions**](#SECOND-SCHEDULE-Property-and-Affairs:-Supplementary-Provisions)
+
+[**THIRD SCHEDULE Consequential and Related Amendments to Other Written Laws**](#THIRD-SCHEDULE-Consequential-and-Related-Amendments-to-Other-Written-Laws)
+
+[**FOURTH SCHEDULE Savings and Transitional Provisions**](#FOURTH-SCHEDULE-Savings-and-Transitional-Provisions)
+
+REPUBLIC OF SINGAPORE
+
+GOVERNMENT GAZETTE
+
+ACTS SUPPLEMENT
+
+Published by Authority
+
+NO. 23]
+
+Friday, October 17
+
+[2008
+
+The following Act was passed by Parliament on 15th September 2008 and assented to by the President on 2nd October 2008:—
+
+Mental Capacity Act 2008
+
+(No. 22 of 2008)
+
+I assent.
+
+S R NATHAN
+
+President
+
+2nd October 2008.
+
+Date of Commencement: 2nd October 2008
+
+An Act to make new provision relating to persons who lack capacity and to provide for matters connected therewith, and to make consequential and related amendments to certain other written laws.
+
+Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+
+## PART I
+
+PRELIMINARY
+
+### Short title and commencement
+
+1\. This Act may be cited as the Mental Capacity Act 2008 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+
+### Interpretation
+
+2\.—(1) In this Act, unless the context otherwise requires —
+
+“clinical trial” means a clinical trial within the meaning of the Medicines Act (Cap. 176) or the Health Products Act 2007 (Act 15 of 2007);
+
+“court” means the High Court;
+
+“deputy” has the meaning given to it in section 20(2)(b);
+
+“donee” has the meaning given to it in section 11(1);
+
+“lasting power of attorney” has the meaning given to it in section 11;
+
+“life-sustaining treatment”, in relation to a person, means treatment which, in the view of another person providing health care for that person, is necessary to sustain life;
+
+“property” includes any thing in action and any interest in real or personal property;
+
+“Public Guardian” has the meaning given to it in section 30;
+
+“registered medical practitioner” means any person who is registered as a medical practitioner under the Medical Registration Act (Cap. 174);
+
+“treatment” includes a diagnostic or other procedure;
+
+“will” includes codicil.
+
+(2) In this Act, references to making decisions, in relation to a donee of a lasting power of attorney or a deputy appointed by the court, include, where appropriate, acting on decisions made.
+
+## PART II
+
+PERSONS WHO LACK CAPACITY
+
+### The principles
+
+3\.—(1) The following principles apply for the purposes of this Act.
+
+(2) A person must be assumed to have capacity unless it is established that he lacks capacity.
+
+(3) A person is not to be treated as unable to make a decision unless all practicable steps to help him to do so have been taken without success.
+
+(4) A person is not to be treated as unable to make a decision merely because he makes an unwise decision.
+
+(5) An act done, or a decision made, under this Act for or on behalf of a person who lacks capacity must be done, or made, in his best interests.
+
+(6) Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
+
+### Persons who lack capacity
+
+4\.—(1) For the purposes of this Act, a person lacks capacity in relation to a matter if at the material time he is unable to make a decision for himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain.
+
+(2) It does not matter whether the impairment or disturbance is permanent or temporary.
+
+(3) A lack of capacity cannot be established merely by reference to —
+
+(a) a person’s age or appearance; or
+
+(b) a condition of his, or an aspect of his behaviour, which might lead others to make unjustified assumptions about his capacity.
+
+(4) In proceedings under this Act (other than proceedings for offences under this Act), any question whether a person lacks capacity within the meaning of this Act must be decided on the balance of probabilities.
+
+(5) Subject to section 21, no power which a person (“D”) may exercise under this Act —
+
+(a) in relation to a person who lacks capacity; or
+
+(b) where D reasonably thinks that a person lacks capacity,
+
+is exercisable in relation to a person below 21 years of age.
+
+### Inability to make decisions
+
+5\.—(1) For the purposes of section 4, a person is unable to make a decision for himself if he is unable —
+
+(a) to understand the information relevant to the decision;
+
+(b) to retain that information;
+
+(c) to use or weigh that information as part of the process of making the decision; or
+
+(d) to communicate his decision (whether by talking, using sign language or any other means).
+
+(2) A person is not to be regarded as unable to understand the information relevant to a decision if he is able to understand an explanation of it given to him in a way that is appropriate to his circumstances (using simple language, visual aids or any other means).
+
+(3) The fact that a person is able to retain the information relevant to a decision for a short period only does not prevent him from being regarded as able to make the decision.
+
+(4) The information relevant to a decision includes information about the reasonably foreseeable consequences of —
+
+(a) deciding one way or another; or
+
+(b) failing to make the decision.
+
+### Best interests
+
+6\.—(1) In determining for the purposes of this Act what is in a person’s best interests, the person making the determination must not make it merely on the basis of —
+
+(a) the person’s age or appearance; or
+
+(b) a condition of his, or an aspect of his behaviour, which might lead others to make unjustified assumptions about what might be in his best interests.
+
+(2) The person making the determination must consider all the relevant circumstances and, in particular, take the steps specified in subsections (3) to (8).
+
+(3) He must consider —
+
+(a) whether it is likely that the person will at some time have capacity in relation to the matter in question; and
+
+(b) if it appears likely that he will, when that is likely to be.
+
+(4) He must, so far as is reasonably practicable, permit and encourage the person to participate, or to improve his ability to participate, as fully as possible in any act done for him and any decision affecting him.
+
+(5) Where the determination relates to life-sustaining treatment, he must not, in considering whether the treatment is in the best interests of the person concerned, be motivated by a desire to bring about his death.
+
+(6) Where the determination relates to the disposition or settlement of the person’s property, he must be motivated by a desire to ensure, so far as is reasonably practicable, that the person’s property is preserved for application towards the costs of the person’s maintenance during his life.
+
+(7) He must consider, so far as is reasonably ascertainable —
+
+(a) the person’s past and present wishes and feelings (and, in particular, any relevant written statement made by him when he had capacity);
+
+(b) the beliefs and values that would be likely to influence his decision if he had capacity; and
+
+(c) the other factors that he would be likely to consider if he were able to do so.
+
+(8) He must take into account, if it is practicable and appropriate to consult them, the views of —
+
+(a) anyone named by the person as someone to be consulted on the matter in question or on matters of that kind;
+
+(b) anyone engaged in caring for the person or interested in his welfare;
+
+(c) any donee of a lasting power of attorney granted by the person; and
+
+(d) any deputy appointed for the person by the court,
+
+as to what would be in the person’s best interests and, in particular, as to the matters mentioned in subsection (7).
+
+(9) The duties imposed by subsections (1) to (8) also apply in relation to the exercise of any powers which —
+
+(a) are exercisable under a lasting power of attorney; or
+
+(b) are exercisable by a person under this Act where he reasonably believes that another person lacks capacity.
+
+(10) In the case of an act done, or a decision made, by a person other than the court, there is sufficient compliance with this section if (having complied with the requirements of subsections (1) to (8)) he reasonably believes that what he does or decides is in the best interests of the person concerned.
+
+(11) In subsection (2), “relevant circumstances” are those —
+
+(a) of which the person making the determination is aware; and
+
+(b) which it would be reasonable to regard as relevant.
+
+## PART III
+
+ACTS IN CONNECTION WITH CARE OR TREATMENT
+
+### Acts in connection with care or treatment
+
+7\.—(1) If a person (“D”) does an act in connection with the care or treatment of another person (“P”), the act is one to which this section applies if —
+
+(a) before doing the act, D takes reasonable steps to establish whether P lacks capacity in relation to the matter in question; and
+
+(b) when doing the act, D reasonably believes —
+
+(i) that P lacks capacity in relation to the matter; and
+
+(ii) that it will be in P’s best interests for the act to be done.
+
+(2) D does not incur any liability in relation to the act that he would not have incurred if P —
+
+(a) had had capacity to consent in relation to the matter; and
+
+(b) had consented to D’s doing the act.
+
+(3) Nothing in this section —
+
+(a) excludes a person’s civil liability for loss or damage, or his criminal liability, resulting from his negligence in doing the act;
+
+(b) affects the operation of the Advance Medical Directive Act (Cap. 4A);
+
+(c) applies to the conduct of a clinical trial.
+
+### Section 7 acts: limitations
+
+8\.—(1) If D does an act that is intended to restrain P, it is not an act to which section 7 applies unless 2 further conditions are satisfied.
+
+(2) The first condition is that D reasonably believes that it is necessary to do the act in order to prevent harm to P.
+
+(3) The second condition is that the act is a proportionate response to —
+
+(a) the likelihood of P’s suffering harm; and
+
+(b) the seriousness of that harm.
+
+(4) For the purposes of this section, D restrains P if he —
+
+(a) uses, or threatens to use, force to secure the doing of an act which P resists; or
+
+(b) restricts P’s liberty of movement, whether or not P resists.
+
+(5) Section 7 does not authorise a person to do an act which is inconsistent with a decision made, within the scope of the authority of, and in accordance with this Act, by —
+
+(a) a donee of a lasting power of attorney granted by P; or
+
+(b) a deputy appointed for P by the court.
+
+### Payment for necessary goods and services
+
+9\.—(1) If necessary goods or services are supplied to a person who lacks capacity to contract for the supply, he must pay a reasonable price for them.
+
+(2) In subsection (1), “necessary” means suitable to a person’s condition in life and to his actual requirements at the time when the goods or services are supplied.
+
+### Expenditure
+
+10\.—(1) If an act to which section 7 applies involves expenditure for necessary goods or services within the meaning of section 9, it is lawful for D to apply money in P’s actual possession for meeting the expenditure.
+
+(2) If the expenditure is borne for P by D, it is lawful for D —
+
+(a) to reimburse himself out of money in P’s actual possession; or
+
+(b) to be otherwise indemnified by P.
+
+(3) Subsections (1) and (2) do not affect any power under which (apart from those subsections) a person —
+
+(a) has lawful control of P’s money or other property; and
+
+(b) has power to spend money for P’s benefit.
+
+## PART IV
+
+LASTING POWERS OF ATTORNEY
+
+### Lasting powers of attorney
+
+11\.—(1) A lasting power of attorney is a power of attorney under which the donor (“P”) confers on the donee (or donees) authority to make decisions about all or any of the following:
+
+(a) P’s personal welfare or specified matters concerning P’s personal welfare;
+
+(b) P’s property and affairs or specified matters concerning P’s property and affairs,
+
+when P no longer has capacity to make such decisions.
+
+(2) A lasting power of attorney is not created unless —
+
+(a) section 12 is complied with;
+
+(b) an instrument conferring authority of the kind mentioned in subsection (1) is made and registered in accordance with the First Schedule; and
+
+(c) at the time when P executes the instrument, P has attained the age of 21 years and has capacity to execute it.
+
+(3) An instrument which —
+
+(a) purports to create a lasting power of attorney; but
+
+(b) does not comply with this section, section 12 or the First Schedule,
+
+confers no authority.
+
+(4) The authority conferred by a lasting power of attorney is subject to —
+
+(a) the provisions of this Act and, in particular, sections 3 (the principles) and 6 (best interests); and
+
+(b) any conditions or restrictions specified in the instrument.
+
+### Appointment of donees
+
+12\.—(1) A donee of a lasting power of attorney must be —
+
+(a) an individual who has attained the age of 21 years; or
+
+(b) if the power relates only to P’s property and affairs, either such an individual, or a person other than an individual who is within a class of persons prescribed as being eligible to be appointed as donees.
+
+(2) A person who is an undischarged bankrupt may not be appointed as donee of a lasting power of attorney in relation to P’s property and affairs.
+
+(3) Subsections (4) to (7) apply in relation to an instrument under which 2 or more persons are to act as donees of a lasting power of attorney.
+
+(4) The instrument may appoint them to act —
+
+(a) jointly;
+
+(b) jointly and severally; or
+
+(c) jointly in respect of some matters and jointly and severally in respect of others.
+
+(5) To the extent to which it does not specify whether they are to act jointly or jointly and severally, the instrument is to be assumed to appoint them to act jointly.
+
+(6) If they are to act jointly, a failure, as respects one of them, to comply with the requirements of subsection (1) or (2) or Part I or II of the First Schedule prevents a lasting power of attorney from being created.
+
+(7) If they are to act jointly and severally, a failure, as respects one of them, to comply with the requirements of subsection (1) or (2) or Part I or II of the First Schedule —
+
+(a) prevents the appointment taking effect in his case; but
+
+(b) does not prevent a lasting power of attorney from being created in the case of the other or others.
+
+(8) An instrument used to create a lasting power of attorney —
+
+(a) cannot give the donee (or, if more than one, any of them) power to appoint a substitute or successor; but
+
+(b) may itself appoint a person to replace the donee (or, if more than one, any of them) on the occurrence of an event mentioned in section 15(5)(a) to (d) which has the effect of terminating the donee’s appointment.
+
+### Lasting powers of attorney: restrictions
+
+13\.—(1) A donee under a lasting power of attorney (or, if more than one, any of them) may only make decisions under the lasting power of attorney where P lacks, or the donee reasonably believes that P lacks capacity.
+
+(2) A lasting power of attorney does not authorise the donee (or, if more than one, any of them) to do an act that is intended to restrain P, unless 2 further conditions are satisfied.
+
+(3) The first condition is that the donee reasonably believes that it is necessary to do the act in order to prevent harm to P.
+
+(4) The second condition is that the act is a proportionate response to —
+
+(a) the likelihood of P’s suffering harm; and
+
+(b) the seriousness of that harm.
+
+(5) For the purposes of this section, the donee restrains P if he —
+
+(a) uses, or threatens to use, force to secure the doing of an act which P resists; or
+
+(b) restricts P’s liberty of movement, whether or not P resists, or if he authorises another person to do any of those things.
+
+(6) Subject to subsection (8), where a lasting power of attorney authorises the donee (or, if more than one, any of them) to make decisions about P’s personal welfare, the authority extends to giving or refusing consent to the carrying out or continuation of a treatment by a person providing health care for P if, and only if, the instrument contains express provision to that effect.
+
+(7) For the purposes of subsection (6), treatment, in relation to P, includes the conduct of a clinical trial on P.
+
+(8) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s personal welfare may not make any decision with respect to the carrying out or continuation of —
+
+(a) life-sustaining treatment on P, whether or not amounting to extraordinary life-sustaining treatment within the meaning of section 2 of the Advance Medical Directive Act (Cap. 4A); or
+
+(b) any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P’s condition.
+
+(9) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not execute a will for P.
+
+(10) Notwithstanding any other provision of this Act, a person dealing with a donee in matters relating to P’s property may require the donee to produce a certificate from a registered medical practitioner stating that P’s lack of capacity is likely to be permanent, and if the donee fails to produce such certificate, the person may refuse to accept the donee’s authority to make decisions for P in such matters.
+
+(11) This section is without prejudice to any other power conferred on a donee of a lasting power of attorney under any other written law.
+
+### Scope of lasting powers of attorney: gifts
+
+14\.—(1) Where a lasting power of attorney confers authority to make decisions about P’s property and affairs, it does not authorise a donee (or, if more than one, any of them) to dispose of the donor’s property by making gifts except to the extent permitted under subsections (2) and (3).
+
+(2) The donee may make gifts if, and only if, the lasting power of attorney contains express authorisation to that effect.
+
+(3) Where the express authorisation in the lasting power of attorney does not specify the value of the gift or gifts to be made, the donee —
+
+(a) may make a gift or gifts of such value which are not unreasonable having regard to all the circumstances and, in particular, the size of the donor’s estate; and
+
+(b) must have regard to the principle in section 6(6).
+
+(4) Subsection (3) is without prejudice to section 11(4).
+
+### Revocation of lasting powers of attorney, etc.
+
+15\.—(1) This section applies if —
+
+(a) P has executed an instrument with a view to creating a lasting power of attorney; or
+
+(b) a lasting power of attorney is registered as having been conferred by P,
+
+and in this section, references to revoking the power include revoking the instrument.
+
+(2) P may, at any time when he has capacity to do so, revoke the power.
+
+(3) P’s bankruptcy revokes the power so far as it relates to P’s property and affairs.
+
+(4) The occurrence in relation to a donee of an event mentioned in subsection (5) —
+
+(a) terminates his appointment; and
+
+(b) except in the cases given in subsection (6), revokes the power.
+
+(5) The events are —
+
+(a) the disclaimer of the appointment by the donee in accordance with such requirements as may be prescribed for the purposes of this section in regulations made under this Act;
+
+(b) subject to subsection (7), the death or bankruptcy of the donee or, if the donee is a person other than an individual, its liquidation, winding-up, dissolution or being under judicial management;
+
+(c) subject to subsection (8), the dissolution or annulment of a marriage between the donor and the donee;
+
+(d) the lack of capacity of the donee.
+
+(6) The cases referred to in subsection (4)(b) are —
+
+(a) the donee is replaced under the terms of the instrument;
+
+(b) he is one of 2 or more persons appointed to act as donees jointly and severally in respect of any matter and, after the event, there is at least one remaining donee.
+
+(7) The bankruptcy of a donee does not terminate his appointment, or revoke the power, in so far as his authority relates to P’s personal welfare.
+
+(8) The dissolution or annulment of a marriage between the donor and the donee does not terminate the appointment of a donee, or revoke the power, if the instrument provided that it was not to do so.
+
+### Protection of donee and others if no power created or power revoked
+
+16\.—(1) Subsections (2) and (3) apply if —
+
+(a) an instrument has been registered under the First Schedule as a lasting power of attorney; but
+
+(b) a lasting power of attorney was not created,
+
+whether or not the registration has been cancelled at the time of the act or transaction in question.
+
+(2) A donee who acts in purported exercise of the power does not incur any liability (to P or any other person) because of the non-existence of the power unless at the time of acting he —
+
+(a) knows that a lasting power of attorney was not created; or
+
+(b) is aware of circumstances which, if a lasting power of attorney had been created, would have terminated his authority to act as a donee.
+
+(3) Any transaction between the donee and another person is, in favour of that person, as valid as if the power had been in existence, unless at the time of the transaction that person has knowledge of a matter referred to in subsection (2).
+
+(4) If the interest of a purchaser depends on whether a transaction between the donee and the other person was valid by virtue of subsection (3), it is conclusively presumed in favour of the purchaser that the transaction was valid if —
+
+(a) the transaction was completed within 12 months of the date on which the instrument was registered; or
+
+(b) the other person makes a statutory declaration, before or within 3 months after the completion of the purchase, that he had no reason at the time of the transaction to doubt that the donee had authority to dispose of the property which was the subject of the transaction.
+
+(5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
+
+### Powers of court in relation to validity of lasting powers of attorney
+
+17\.—(1) This section and section 18 apply if —
+
+(a) a person (“P”) has executed or purported to execute an instrument with a view to creating a lasting power of attorney; or
+
+(b) an instrument has been registered as a lasting power of attorney conferred by P.
+
+(2) The court may determine any question relating to —
+
+(a) whether one or more of the requirements for the creation of a lasting power of attorney have been met;
+
+(b) whether the power has been revoked or has otherwise come to an end.
+
+(3) Subsection (4) applies if the court is satisfied —
+
+(a) that fraud or undue pressure was used to induce P —
+
+(i) to execute an instrument for the purpose of creating a lasting power of attorney; or
+
+(ii) to create a lasting power of attorney; or
+
+(b) that the donee (or, if more than one, any of them) of a lasting power of attorney —
+
+(i) has behaved, or is behaving, in a way that contravenes his authority or is not in P’s best interests; or
+
+(ii) proposes to behave in a way that would contravene his authority or would not be in P’s best interests.
+
+(4) The court may —
+
+(a) direct that an instrument purporting to create the lasting power of attorney is not to be registered; or
+
+(b) if P lacks capacity to do so, revoke the instrument or the lasting power of attorney.
+
+(5) If there is more than one donee, the court may under subsection (4)(b) revoke the instrument or the lasting power of attorney so far as it relates to any of them.
+
+(6) In this section, “donee” includes an intended donee.
+
+### Powers of court in relation to operation of lasting powers of attorney
+
+18\.—(1) The court may determine any question as to the meaning or effect of a lasting power of attorney or an instrument purporting to create one.
+
+(2) The court may —
+
+(a) give directions with respect to decisions —
+
+(i) which the donee of a lasting power of attorney has authority to make; and
+
+(ii) which P lacks capacity to make;
+
+(b) give any consent or authorisation to act which the donee would have to obtain from P if P had capacity to give it.
+
+(3) The court may, if P lacks capacity to do so —
+
+(a) give directions to the donee with respect to the rendering by him of reports or accounts and the production of records kept by him for that purpose;
+
+(b) require the donee to supply information or produce documents or things in his possession as donee;
+
+(c) give directions with respect to the remuneration or expenses of the donee;
+
+(d) relieve the donee wholly or partly from any liability which he has or may have incurred on account of a breach of his duties as donee.
+
+(4) The court may authorise the making of gifts which are not within section 14(3).
+
+(5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
+
+## PART V
+
+GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
+
+### Power to make declarations
+
+19\.—(1) The court may make declarations as to —
+
+(a) whether a person has or lacks capacity to make a decision specified in the declaration;
+
+(b) whether a person has or lacks capacity to make decisions on such matters as are described in the declaration;
+
+(c) the lawfulness or otherwise of any act done, or yet to be done, in relation to that person.
+
+(2) In subsection (1)(c), “act” includes an omission and a course of conduct.
+
+### Powers to make decisions and appoint deputies: general
+
+20\.—(1) This section applies if a person (“P”) lacks capacity in relation to a matter or matters concerning —
+
+(a) P’s personal welfare; or
+
+(b) P’s property and affairs.
+
+(2) The court may —
+
+(a) by making an order, make the decision or decisions on P’s behalf in relation to the matter or matters; or
+
+(b) appoint a person (a “deputy”) to make decisions on P’s behalf in relation to the matter or matters.
+
+(3) The powers of the court under this section are subject to the provisions of this Act and, in particular, to sections 3 (the principles) and 6 (best interests).
+
+(4) When deciding whether it is in P’s best interests to appoint a deputy, the court must have regard (in addition to the matters mentioned in section 6) to the principles that —
+
+(a) a decision by the court is to be preferred to the appointment of a deputy to make a decision; and
+
+(b) the powers conferred on a deputy should be as limited in scope and duration as is reasonably practicable in the circumstances.
+
+(5) Subject to section 25, the court may make such further orders or give such directions, and confer on a deputy such powers or impose on him such duties, as it thinks necessary or expedient for giving effect to, or otherwise in connection with, an order or appointment made by it under subsection (2).
+
+(6) Without prejudice to section 6, the court may make the order, give the directions or make the appointment on such terms as it considers are in P’s best interests, even though no application is before the court for an order, directions or an appointment on those terms.
+
+(7) An order of the court may be varied or discharged by a subsequent order.
+
+(8) The court may, in particular, revoke the appointment of a deputy or vary the powers conferred on him if it is satisfied that the deputy —
+
+(a) has behaved, or is behaving, in a way that contravenes the authority conferred on him by the court or is not in P’s best interests; or
+
+(b) proposes to behave in a way that would contravene that authority or would not be in P’s best interests.
+
+### Powers to make decisions and appoint deputies: minors
+
+21\.—(1) Subject to subsection (2), the powers under section 20 as respects any matter may be exercised even though P has not attained the age of 21 years, if the court considers it likely that P will still lack capacity to make decisions in respect of that matter when he attains the age of 21 years.
+
+(2) When deciding whether it is in P’s best interests to appoint a deputy to make decisions on P’s behalf, the court must have regard (in addition to the matters mentioned in section 20) to the principle that an appointment of the parents or guardian of P as deputy is to be preferred to the appointment of any other person as deputy.
+
+### Section 20 powers: personal welfare
+
+22\.—(1) The powers under section 20 as respects P’s personal welfare include —
+
+(a) deciding where P is to live;
+
+(b) deciding what contact, if any, P is to have with any specified person;
+
+(c) making an order prohibiting a named person from having contact with P;
+
+(d) subject to subsection (3), giving or refusing consent to the carrying out or continuation of a treatment (including the conduct of a clinical trial) by a person providing health care for P;
+
+(e) giving a direction that a person responsible for P’s health care allow a different person to take over that responsibility.
+
+(2) Subsection (1) is —
+
+(a) subject to section 25 (restrictions on deputies); and
+
+(b) without prejudice to any other order or decision which may be made by the court or deputy under any other written law.
+
+(3) Nothing in subsection (1)(d) affects the operation of the Advance Medical Directive Act (Cap. 4A).
+
+### Section 20 powers: property and affairs
+
+23\.—(1) Subject to this section, the powers under section 20 as respects P’s property and affairs include —
+
+(a) the control and management of P’s property;
+
+(b) the sale, exchange, charging, gift or other disposition of P’s property;
+
+(c) the acquisition of property in P’s name or on P’s behalf;
+
+(d) the carrying on, on P’s behalf, of any profession, trade or business;
+
+(e) the taking of a decision which will have the effect of dissolving a partnership of which P is a member;
+
+(f) the carrying out of any contract entered into by P;
+
+(g) the discharge of P’s debts and of any of P’s obligations, whether legally enforceable or not;
+
+(h) the settlement of any of P’s property by way of trust, whether for P’s benefit or for the benefit of others;
+
+(i) the execution for P of a will;
+
+(j) the maintenance, education, benefit and advancement of P’s spouse, P’s parent, a child of P below 21 years of age or an intellectually disabled child of P;
+
+(k) the exercise of any power (including a power to consent) vested in P whether beneficially or as trustee under a trust;
+
+(l) the conduct of legal proceedings in P’s name or on P’s behalf.
+
+(2) Without prejudice to section 20(3), the court, in making an order for the disposition or settlement of P’s property under subsection (1)(b) or (h), must have regard to the principle in section 6(6).
+
+(3) No will may be made under subsection (1)(i) at a time when P has not attained the age of 21 years.
+
+(4) The provisions of the Second Schedule supplement the provisions of this section.
+
+(5) Section 20(7) is subject to paragraph 6 of the Second Schedule.
+
+(6) Subsection (1) is subject to section 25 (restrictions on deputies).
+
+### Appointment of deputies
+
+24\.—(1) A deputy appointed by the court must be —
+
+(a) an individual who has attained the age of 21 years; or
+
+(b) as respects powers in relation to property and affairs, either such an individual, or a person other than an individual who is within a class of persons prescribed as being eligible to be appointed as donees.
+
+(2) The court may appoint an individual as a deputy by appointing the holder for the time being of a specified office or position.
+
+(3) A person may not be appointed as a deputy without his consent.
+
+(4) The court may appoint 2 or more deputies to act —
+
+(a) jointly;
+
+(b) jointly and severally; or
+
+(c) jointly in respect of some matters and jointly and severally in respect of others.
+
+(5) When appointing a deputy, the court may at the same time appoint one or more other persons to succeed him (“successor deputy”) —
+
+(a) in such circumstances, or on the happening of such events, as may be specified by the court; and
+
+(b) for such period as may be specified by the court.
+
+(6) In the case of an application to which section 21 applies, the court shall have regard to the wishes of the parents or guardian of P on the choice of the successor deputy.
+
+(7) A deputy is to be treated as P’s agent in relation to anything done or decided by him within the scope of his appointment and in accordance with this Part.
+
+(8) The deputy is entitled —
+
+(a) to be reimbursed out of P’s property for his reasonable expenses in discharging his functions; and
+
+(b) if the court so directs when appointing him, to remuneration out of P’s property for discharging them.
+
+(9) The court may confer on a deputy powers to —
+
+(a) take possession or control of all or any specified part of P’s property;
+
+(b) exercise all or any specified powers in respect of it, including such powers of investment as the court may determine.
+
+(10) The court may require a deputy —
+
+(a) to give to the Public Guardian such security as the court thinks fit for the due discharge of his functions; and
+
+(b) to submit to the Public Guardian such reports at such times or at such intervals as the court may direct.
+
+### Restrictions on deputies
+
+25\.—(1) A deputy does not have power to make a decision on behalf of P in relation to a matter if he knows or has reasonable grounds for believing that P has capacity in relation to the matter.
+
+(2) Nothing in section 20(5) or 22 permits a deputy to be given power —
+
+(a) to prohibit a named person from having contact with P; or
+
+(b) to direct a person responsible for P’s health care to allow a different person to take over that responsibility.
+
+(3) A deputy may not be given powers with respect to the —
+
+(a) disposition of P’s property by making gifts;
+
+(b) execution for P of a will;
+
+(c) carrying out or continuation of —
+
+(i) life-sustaining treatment on P, whether or not amounting to extraordinary life-sustaining treatment within the meaning of section 2 of the Advance Medical Directive Act (Cap. 4A); or
+
+(ii) any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P’s condition.
+
+(4) A deputy may not be given power to make a decision on behalf of P which is inconsistent with a decision made, within the scope of his authority and in accordance with this Act, by the donee of a lasting power of attorney granted by P (or, if there is more than one donee, by any of them).
+
+(5) The authority conferred on a deputy is subject to the provisions of this Act and, in particular, sections 3 (the principles) and 6 (best interests).
+
+(6) A deputy may not do an act that is intended to restrain P unless 4 conditions are satisfied.
+
+(7) The first condition is that, in doing the act, the deputy is acting within the scope of an authority expressly conferred on him by the court.
+
+(8) The second condition is that P lacks, or the deputy reasonably believes that P lacks, capacity in relation to the matter in question.
+
+(9) The third condition is that the deputy reasonably believes that it is necessary to do the act in order to prevent harm to P.
+
+(10) The fourth condition is that the act is a proportionate response to —
+
+(a) the likelihood of P’s suffering harm; or
+
+(b) the seriousness of that harm.
+
+(11) For the purposes of this section, a deputy restrains P if he ––
+
+(a) uses, or threatens to use, force to secure the doing of an act which P resists; or
+
+(b) restricts P’s liberty of movement, whether or not P resists,
+
+or if he authorises another person to do any of those things.
+
+## PART VI
+
+EXCLUDED DECISIONS AND DECLARATORY PROVISIONS
+
+### Excluded decisions
+
+26\. Nothing in this Act permits a decision on any of the following matters to be made on behalf of a person:
+
+(a) consenting to marriage;
+
+(b) consenting to touching of a sexual nature;
+
+(c) consenting to a decree of divorce being granted on the basis of 3 years’ separation;
+
+(d) consenting to the making of an adoption order under the Adoption of Children Act (Cap. 4);
+
+(e) adopting or renouncing a religion;
+
+(f) receiving treatment for change of gender;
+
+(g) consenting or revoking consent to treatment for sexual sterilization within the meaning of the Voluntary Sterilization Act (Cap. 347);
+
+(h) consenting or revoking consent to treatment to terminate pregnancy;
+
+(i) registering or withdrawing an objection under section 9 of the Human Organ Transplant Act (Cap. 131A) in respect of removal of an organ from the person upon his death;
+
+(j) making or revoking an advance medical directive under section 3 or 7 of the Advance Medical Directive Act (Cap. 4A);
+
+(k) making or revoking a gift of a body or any part thereof under section 3 or 9 of the Medical (Therapy, Education and Research) Act (Cap. 175);
+
+(l) making or revoking a nomination under section 25 of the Central Provident Fund Act (Cap. 36);
+
+(m) such other matter as may be prescribed.
+
+### Mental Health (Care and Treatment) Act matters
+
+27\.—(1) Nothing in this Act authorises anyone —
+
+(a) to give a patient medical treatment for mental disorder; or
+
+(b) to consent to a patient’s being given medical treatment for mental disorder,
+
+if, at the time when it is proposed to treat the patient, his treatment is regulated by the Mental Health (Care and Treatment) Act 2008.
+
+(2) In this section, “treatment” and “mental disorder” have the same meanings as in the Mental Health (Care and Treatment) Act 2008.
+
+### Voting rights
+
+28\. Nothing in this Act permits a decision on voting at an election for any public office, or at a national referendum, to be made on behalf of a person.
+
+### Scope of Act
+
+29\. For the avoidance of doubt, it is hereby declared that nothing in this Act is to be taken to affect the law relating to murder, culpable homicide not amounting to murder or abetment of suicide.
+
+## PART VII
+
+PUBLIC GUARDIAN AND BOARD OF VISITORS
+
+### Public Guardian
+
+30\.—(1) For the purposes of this Act, there shall be an officer known as the Public Guardian to be appointed by the Minister.
+
+(2) If the Public Guardian is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, the Minister may appoint a person to act in the place of the Public Guardian during any such period of absence from duty.
+
+(3) The Public Guardian may in writing appoint any public officer as an authorised officer for the purposes of this Act.
+
+(4) The Public Guardian may delegate to any authorised officer all or any of the functions or powers conferred on the Public Guardian by this Act except the powers conferred by this subsection.
+
+(5) The Public Guardian may disclose information obtained in connection with the administration or execution of this Act to any authorised officer if this is necessary to enable such officer to perform his official duties under this Act.
+
+(6) An authorised officer to whom information under subsection (5) is disclosed may only disclose or use such information to the extent necessary for performing his official duties under this Act, but not otherwise.
+
+(7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(8) Subsections (5) and (6) are without prejudice to any right of disclosure under this Act or any other written law or rule of law.
+
+(9) The Public Guardian shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+### Functions of Public Guardian
+
+31\.—(1) The Public Guardian has the following functions:
+
+(a) establishing and maintaining a register of lasting powers of attorney;
+
+(b) establishing and maintaining a register of orders appointing deputies;
+
+(c) supervising deputies appointed by the court;
+
+(d) directing a member of the Board of Visitors to visit —
+
+(i) a donee of a lasting power of attorney;
+
+(ii) a deputy appointed by the court; or
+
+(iii) the person granting the lasting power of attorney or for whom the deputy is appointed (“P”),
+
+and to make a report to the Public Guardian on such matters as he may direct;
+
+(e) receiving security which the court requires a person to give for the discharge of his functions;
+
+(f) receiving reports from donees of lasting powers of attorney and deputies appointed by the court;
+
+(g) reporting to the court on such matters relating to proceedings under this Act as the court requires;
+
+(h) dealing with representations (including complaints) about the way in which a donee of a lasting power of attorney or a deputy appointed by the court is exercising his powers;
+
+(i) dealing with representations (including complaints) about any act purportedly carried out under section 10;
+
+(j) investigating any contravention or alleged contravention of any provision of this Act;
+
+(k) publishing, in any manner the Public Guardian thinks appropriate, any information he thinks appropriate about the discharge of his functions.
+
+(2) The functions conferred by subsection (1)(c), (h) and (i) may be discharged in co-operation with any other person who has functions in relation to the care or treatment or the property and affairs of P.
+
+(3) The Minister may, by regulations, make provision —
+
+(a) conferring on the Public Guardian other functions in connection with this Act;
+
+(b) in connection with the discharge by the Public Guardian of his functions.
+
+(4) Regulations made under subsection (3)(b) may in particular make provision as to —
+
+(a) the giving of security by deputies appointed by the court and the enforcement and discharge of security so given;
+
+(b) the fees which may be charged by the Public Guardian;
+
+(c) the way in which, and funds from which, such fees are to be paid;
+
+(d) exemptions from and reductions in such fees;
+
+(e) remission of such fees in whole or in part;
+
+(f) the making of reports to the Public Guardian by deputies appointed by the court and others who are directed by the court to carry out any transaction for a person who lacks capacity.
+
+### Powers of investigation by Public Guardian
+
+32\.—(1) The Public Guardian may, for the purpose of discharging his functions under this Act —
+
+(a) require any person who has any information which relates or is reasonably believed to relate to a person who lacks capacity to furnish the Public Guardian with such information;
+
+(b) require any person who has in his custody or under his control any document which relates or is reasonably believed to relate to a person who lacks capacity —
+
+(i) to furnish the Public Guardian with a copy of or an extract from the document; or
+
+(ii) unless the document forms part of the records or other documents of a public authority or any court of competent jurisdiction, to furnish the Public Guardian with the document itself for his inspection; or
+
+(c) require any person referred to in paragraph (a) or (b) to attend at a specified time and place to furnish such information orally or in writing, or such documents or copies or extracts thereof, as the case may be.
+
+(2) The Public Guardian shall be entitled without payment to keep any copy or extract furnished under subsection (1).
+
+(3) Where a document furnished for inspection under subsection (1)(b)(ii) is not held by any person entitled to the custody of the document, the Public Guardian may keep it or deliver it to any other person who may be entitled to the custody thereof.
+
+(4) The Public Guardian shall at all times have full and free access to all buildings, places, books, papers and electronic computing or storage devices for the purpose of discharging his functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, papers or electronic computing or storage devices.
+
+(5) The Public Guardian may take possession of any book, paper or electronic computing or storage device referred to in subsection (4), and remove it from any building or place, where in his opinion —
+
+(a) the inspection, copying thereof or extraction therefrom cannot reasonably be performed without taking possession;
+
+(b) the book, paper or electronic computing or storage device may be interfered with or destroyed unless possession thereof is taken; or
+
+(c) the book, paper or electronic computing or storage device may be required as evidence in proceedings for an offence under this Act.
+
+(6) Any person who fails to comply with any requirement specified under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+(7) If a person is charged with an offence for failing to comply with any requirement specified under subsection (1), it shall be a defence for him to prove that he had a reasonable excuse for failing to comply with such requirement.
+
+(8) Any person who —
+
+(a) knowingly or recklessly furnishes to the Public Guardian or an authorised officer any information or document which is false or misleading in a material particular; or
+
+(b) wilfully alters, suppresses, conceals or destroys any document or any part of such document which he is or may be required to furnish under this Act,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(9) Nothing in this section shall —
+
+(a) compel a professional legal adviser to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+
+(b) authorise the taking of any such document or other material which is in his possession.
+
+(10) Subject to subsection (11), the Public Guardian may disclose to another public officer any information received by him under or for the purposes of this Act, where the disclosure is made for any purpose —
+
+(a) connected with the discharge of the functions of the Public Guardian; and
+
+(b) of enabling or assisting that other public officer to discharge any of his functions.
+
+(11) Where any information disclosed to the Public Guardian under this Act is so disclosed subject to any express restriction on the disclosure of the information by the Public Guardian, the Public Guardian’s power of disclosure under subsection (10) shall, in relation to the information, be exercisable by him subject to any such restriction.
+
+### Public Guardian Board
+
+33\.—(1) There shall be a body to be known as the Public Guardian Board (referred to in this section as the Board).
+
+(2) The Board’s duty is to scrutinise and review the way in which the Public Guardian discharges his functions and to make such recommendations to the Minister about that matter as it thinks appropriate.
+
+(3) The Minister must, in discharging his functions under sections 30 and 31, give due consideration to recommendations made by the Board.
+
+(4) The members of the Board are to be appointed by the Minister.
+
+(5) The Board shall have —
+
+(a) at least one member who is a District Judge; and
+
+(b) at least 4 members who are persons appearing to the Minister to have appropriate knowledge or experience of the work of the Public Guardian.
+
+(6) The Minister may, by regulations, make provision as to —
+
+(a) the appointment of members of the Board (and, in particular, the procedures to be followed in connection with appointments);
+
+(b) the selection of one of the members to be the chairman;
+
+(c) the term of office of the chairman and members;
+
+(d) their resignation, suspension or removal;
+
+(e) the procedure of the Board (including quorum);
+
+(f) the validation of proceedings in the event of a vacancy among the members or a defect in the appointment of a member.
+
+(7) Subject to any regulation made under subsection (6)(c) or (d), a person is to hold and vacate office as a member of the Board in accordance with the terms of the instrument appointing him.
+
+(8) The Minister may make such payments to or in respect of members of the Board by way of reimbursement of expenses, allowances and remuneration as he may determine.
+
+(9) The Board shall make an annual report to the Minister about the discharge of its functions.
+
+### Annual report
+
+34\. The Public Guardian shall make an annual report to the Minister about the discharge of his functions.
+
+### Board of Visitors
+
+35\.—(1) The Minister may, by notification in theGazette, appoint persons to be members of a Board of Visitors.
+
+(2) The Board of Visitors shall consist of —
+
+(a) Special Visitors; and
+
+(b) General Visitors.
+
+(3) A person is not qualified to be a Special Visitor unless he —
+
+(a) is a registered medical practitioner or appears to the Minister to have other suitable qualifications or training; and
+
+(b) appears to the Minister to have special knowledge of and experience in cases of impairment of or disturbance in the functioning of the mind or brain.
+
+(4) A General Visitor need not have a medical qualification.
+
+(5) A member of the Board of Visitors —
+
+(a) may be appointed for such term and subject to such conditions; and
+
+(b) may be paid such remuneration and allowances,
+
+as the Minister may determine.
+
+(6) For the purpose of carrying out his functions under this Act in relation to a person who lacks capacity (“P”), a member of the Board of Visitors may, at all reasonable times, examine and take copies of —
+
+(a) any health record; and
+
+(b) any record held by any person and compiled in connection with a social services function,
+
+so far as the record relates to P.
+
+(7) A member of the Board of Visitors may also for that purpose interview P in private.
+
+## PART VIII
+
+SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
+
+### Interim orders and directions
+
+36\. The court may, pending the determination of an application to it in relation to a person (“P”), make an order or give directions in respect of any matter if —
+
+(a) there is reason to believe that P lacks capacity in relation to the matter;
+
+(b) the matter is one to which its powers under this Act extend; and
+
+(c) it is in P’s best interests to make the order, or give the directions, without delay.
+
+### Power to call for reports
+
+37\.—(1) This section applies where, in proceedings brought in respect of a person (“P”), the court is considering a question relating to P.
+
+(2) The court may require a report to be made to it by the Public Guardian or a member of the Board of Visitors.
+
+(3) The court may require any person to arrange for a report to be made by one of its officers or employees.
+
+(4) The report must deal with such matters relating to P as the court may direct.
+
+(5) The Rules of Court may specify matters which, unless the court directs otherwise, must also be dealt with in the report.
+
+(6) The report may be made in writing or orally as the court may direct.
+
+(7) In complying with a requirement, the Public Guardian or a member of the Board of Visitors may, at all reasonable times, examine and take copies of —
+
+(a) any health record; and
+
+(b) any record held by any person and compiled in connection with a social services function,
+
+so far as the record relates to P.
+
+(8) If the Public Guardian or a member of the Board of Visitors is making a visit in the course of complying with a requirement, he may interview P in private.
+
+(9) If a member of the Board of Visitors who is a Special Visitor is making a visit in the course of complying with a requirement, he may if the court so directs carry out in private a medical, psychiatric or psychological examination of P’s capacity and condition.
+
+### Applications to court
+
+38\.—(1) No permission is required for an application to the court for the exercise of any of its powers under this Act —
+
+(a) by a person who lacks, or is alleged to lack, capacity and, if such a person has not attained the age of 21 years, by anyone with parental rights with respect to him;
+
+(b) by the donor or a donee of a lasting power of attorney to which the application relates;
+
+(c) by a deputy appointed by the court for a person to whom the application relates;
+
+(d) by a person named in an existing order of the court, if the application relates to the order; or
+
+(e) by the Public Guardian where it appears to him that —
+
+(i) a person lacks capacity;
+
+(ii) no application has been made or is likely to be made for an order under this Act; and
+
+(iii) an order under this Act is necessary for the protection of the personal welfare, property or affairs of the person.
+
+(2) Subject to the Rules of Court, permission is required for any other application to the court.
+
+(3) In deciding whether to grant permission the court shall, in particular, have regard to —
+
+(a) the applicant’s connection with the person to whom the application relates;
+
+(b) the reasons for the application;
+
+(c) the benefit to the person to whom the application relates of a proposed order or directions; and
+
+(d) whether the benefit can be achieved in any other way.
+
+### Rules of Court
+
+39\.—(1) Rules of Court may be made —
+
+(a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under this Act; and
+
+(b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
+
+(2) Without prejudice to the generality of subsection (1), Rules of Court may make provision —
+
+(a) as to the manner and form in which proceedings are to be commenced;
+
+(b) as to the persons entitled to be notified of, and be made parties to, the proceedings;
+
+(c) for enabling the court to appoint a suitable person to act in the name of, or on behalf of, or to represent the person to whom the proceedings relate;
+
+(d) for enabling an application to the court to be disposed of without a hearing;
+
+(e) for enabling the court to proceed with, or with any part of, a hearing in the absence of the person to whom the proceedings relate;
+
+(f) for enabling or requiring the proceedings or any part of them to be conducted in private and for enabling the court to determine who is to be admitted when the court sits in private and to exclude specified persons when it sits in public;
+
+(g) as to what may be received as evidence (whether or not admissible apart from the Rules of Court) and the manner in which it is to be presented;
+
+(h) for the enforcement of orders made and directions given in the proceedings;
+
+(i) for regulating matters relating to the costs of those proceedings, including prescribing scales of costs to be paid to legal or other representatives;
+
+(j) as to the way in which, and funds from which, fees and costs are to be paid;
+
+(k) for charging fees and costs upon the estate of the person to whom the proceedings relate, provided that such charge shall not cause any interest of the person in any property to fail or determine or to be prevented from recommencing;
+
+(l) for the payment of fees and costs within a specified time of the death of the person to whom the proceedings relate or the conclusion of the proceedings.
+
+(3) Rules of Court may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the Registrar of the Supreme Court.
+
+### Costs
+
+40\.—(1) Subject to the Rules of Court, the costs of and incidental to all proceedings in the court are in its discretion.
+
+(2) The court has full power to determine by whom and to what extent the costs are to be paid.
+
+(3) The court may, in any proceedings —
+
+(a) disallow; or
+
+(b) order the legal or other representatives concerned to meet,
+
+the whole of any wasted costs or such part of them as may be determined in accordance with the Rules of Court.
+
+(4) In subsection (3) —
+
+“legal or other representative”, in relation to a party to proceedings, means any person exercising a right of audience or right to conduct litigation on his behalf;
+
+“wasted costs” means any costs incurred by a party —
+
+(a) as a result of any improper, unreasonable or negligent act or omission on the part of any legal or other representative or any employee of such a representative; or
+
+(b) which, in the light of any such act or omission occurring after they were incurred, the court considers it is unreasonable to expect that party to pay.
+
+## PART IX
+
+MISCELLANEOUS
+
+### Codes of practice
+
+41\.—(1) The Minister may issue one or more codes of practice —
+
+(a) for the guidance of persons assessing whether a person has capacity in relation to any matter;
+
+(b) for the guidance of persons acting in connection with the care or treatment of another person;
+
+(c) for the guidance of donees of lasting powers of attorney;
+
+(d) for the guidance of deputies appointed by the court; and
+
+(e) with respect to such other matters concerned with this Act as he thinks fit.
+
+(2) The Minister may publish any such code of practice, including any revocation, variation, revision or amendment thereto in such manner as he thinks fit.
+
+(3) The Minister may revoke, vary, revise or amend the whole or any part of any code of practice issued under this section in such manner as he thinks fit.
+
+(4) The Minister may delegate any power under this section so far as he considers expedient.
+
+(5) It is the duty of a person to have regard to any relevant code if he is acting in relation to a person who lacks capacity and is doing so in one or more of the following ways:
+
+(a) as the donee of a lasting power of attorney;
+
+(b) as a deputy appointed by the court;
+
+(c) in a professional capacity; or
+
+(d) for remuneration.
+
+(6) If it appears to a court conducting any civil or criminal proceedings that —
+
+(a) a provision of a code of practice; or
+
+(b) a failure to comply with a code of practice,
+
+is relevant to a question arising in the proceedings, the provision or failure must be taken into account in deciding the question.
+
+(7) For the avoidance of doubt, any code of practice issued under this section shall be deemed not to be subsidiary legislation.
+
+### Ill-treatment
+
+42\.—(1) Subsection (2) applies if a person (“D”) —
+
+(a) has the care of a person (“P”) who lacks, or whom D reasonably believes to lack, capacity;
+
+(b) is the donee of a lasting power of attorney created by P; or
+
+(c) is a deputy appointed by the court for P,
+
+and P is 16 years of age or above.
+
+(2) D shall be guilty of an offence if he ill-treats or causes, procures or knowingly permits P to be ill-treated by any other person.
+
+(3) For the purposes of this section, D ill-treats P if D —
+
+(a) subjects P to physical or sexual abuse;
+
+(b) wilfully or unreasonably does, or causes P to do, any act which endangers or is likely to endanger the safety of P or which causes or is likely to cause P —
+
+(i) any unnecessary physical pain, suffering or injury;
+
+(ii) any emotional injury; or
+
+(iii) any injury to his health or development; or
+
+(c) wilfully or unreasonably neglects, abandons or exposes P with full intention of abandoning P or in circumstances that are likely to endanger the safety of P or to cause P —
+
+(i) any unnecessary physical pain, suffering or injury;
+
+(ii) any emotional injury; or
+
+(iii) any injury to his health or development.
+
+(4) For the purpose of subsection (3)(c), D shall be deemed to have neglected P in circumstances likely to cause him unnecessary physical pain, suffering or injury or emotional injury or injury to his health or development if D wilfully or unreasonably neglects to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for P.
+
+(5) D may be convicted of an offence under this section notwithstanding —
+
+(a) that any actual suffering or injury on the part of P or the likelihood of any suffering or injury on the part of P was obviated by the action of another person; or
+
+(b) the death of P.
+
+(6) Subject to subsection (7), any person who is guilty of an offence under this section shall be liable on conviction —
+
+(a) in the case where death is caused to P, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both; and
+
+(b) in any other case, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 4 years or to both.
+
+(7) The court may, in lieu of or in addition to any punishment specified in subsection (6), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring such person to undergo such counselling, psychotherapy or other programme as may be specified therein.
+
+(8) If a person who is ordered to execute a bond of good behaviour under subsection (7) fails to comply with any of the conditions of such bond, he shall —
+
+(a) if such bond is in lieu of a penalty under subsection (6), be liable to the penalty provided for in that subsection; or
+
+(b) if such bond is in addition to a penalty under subsection (6), be liable to a further fine not exceeding $20,000 or to a further term of imprisonment not exceeding 7 years or to both.
+
+(9) In this section, “court” means any court of competent jurisdiction.
+
+### Information relating to persons who lack capacity
+
+43\.—(1) Any person who knows or has reason to suspect that a person who lacks capacity is in need of care or protection may make a notification to the Public Guardian of the facts and circumstances on which his knowledge or suspicion is based.
+
+(2) Any health care worker who makes a notification under subsection (1) —
+
+(a) shall not, by virtue of doing so, be held in any proceedings before any court or tribunal or in any other respect to have breached any code of professional etiquette or ethics, or to have departed from any accepted form of professional conduct; and
+
+(b) insofar as he has acted in good faith, shall incur no civil or criminal liability in respect of the notification or the provision of any information contained in the notification.
+
+(3) In subsection (2), “health care worker” means any registered medical practitioner, dentist registered under the Dental Registration Act (Cap. 76), pharmacist registered under the Pharmacists Registration Act 2007 (Act 48 of 2007), therapist, psychologist, social worker, counsellor, nurse, attendant or other person providing health care services.
+
+(4) Any person appearing as a witness in any proceedings in any court or tribunal or before a person authorised by law to hear evidence shall not be compelled —
+
+(a) to disclose the identity of any person who has made a notification under subsection (1), or any information likely to lead to the disclosure of the identity of such a person; or
+
+(b) to produce any report or document which identifies, or is likely to identify, any person who has made a notification under subsection (1).
+
+(5) In this section, “court” means any court of competent jurisdiction.
+
+### Jurisdiction of District Court
+
+44\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+### Amendment of Schedules
+
+45\. The Minister may, by order published in theGazette, amend, add to or vary the First, Second or Fourth Schedule.
+
+### Regulations
+
+46\. The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
+
+### Consequential and related amendments to other written laws
+
+47\. The provisions of the Acts specified in the first column of the Third Schedule are amended in the manner set out in the second column thereof.
+
+### Savings and transitional provisions
+
+48\. The provisions of the Fourth Schedule shall have effect with respect to transitional matters arising from the repeal of Part I of the Mental Disorders and Treatment Act (Cap. 178).
+
+FIRST SCHEDULE
+
+Sections 11(2) and (3), 12(6) and (7), 16(1) and 45
+
+Lasting Powers of Attorney: Formalities
+
+Part I
+
+Making Instruments
+
+General requirements as to making instruments
+
+1.—(1) An instrument is not made in accordance with this Schedule unless —
+
+(a) it is in the prescribed form;
+
+(b) it complies with paragraph 2; and
+
+(c) any prescribed requirements in connection with its execution are satisfied.
+
+(2) Part II of the Electronic Transactions Act (Cap. 88) shall not apply to the making or execution of an instrument under this Schedule.
+
+(3) Regulations may make different provision according to whether —
+
+(a) the instrument relates to personal welfare or to property and affairs (or to both);
+
+(b) only one or more than one donee is to be appointed (and if more than one, whether jointly or jointly and severally).
+
+Requirements as to content of instruments
+
+2.—(1) The instrument must include —
+
+(a) the prescribed information about the purpose of the instrument and the effect of a lasting power of attorney;
+
+(b) a statement by the donor to the effect that he —
+
+(i) has read the prescribed information or a prescribed part of it (or has had it read to him); and
+
+(ii) intends the authority conferred under the instrument to mean authority to make decisions on his behalf in circumstances where he no longer has capacity;
+
+(c) a statement by the donor —
+
+(i) naming a person or persons whom the donor wishes to be notified of any application for the registration of the instrument; or
+
+(ii) stating that there are no persons whom he wishes to be notified of any such application;
+
+(d) a statement by the donee (or, if more than one, each of them) to the effect that he —
+
+(i) has read the prescribed information or a prescribed part of it (or has had it read to him); and
+
+(ii) understands the duties imposed on a donee of a lasting power of attorney under sections 3 (the principles) and 6 (best interests); and
+
+(e) a certificate by a person of a prescribed description that, in his opinion, at the time when the donor executes the instrument —
+
+(i) the donor understands the purpose of the instrument and the scope of the authority conferred under it;
+
+(ii) no fraud or undue pressure is being used to induce the donor to create a lasting power of attorney; and
+
+(iii) there is nothing else which would prevent a lasting power of attorney from being created by the instrument.
+
+(2) Regulations may —
+
+(a) prescribe a maximum number of named persons;
+
+(b) provide that, where the instrument includes a statement under sub-paragraph (1)(c)(ii), 2 persons of a prescribed description must each give a certificate under sub-paragraph (1)(e).
+
+(3) The persons who may be “named persons” do not include a person who is appointed as donee under the instrument.
+
+(4) In this Schedule, “named person” means a person named under sub-paragraph (1)(c).
+
+(5) A certificate under sub-paragraph (1)(e) must —
+
+(a) be made in the prescribed form; and
+
+(b) include any prescribed information.
+
+(6) The certificate may not be given by a person appointed as donee under the instrument.
+
+Failure to comply with prescribed form
+
+3.—(1) If an instrument differs in an immaterial respect in form or mode of expression from the prescribed form, it is to be treated by the Public Guardian as sufficient in point of form and expression.
+
+(2) The court may declare that an instrument which is not in the prescribed form is to be treated as if it were, if it is satisfied that the persons executing the instrument intended it to create a lasting power of attorney.
+
+(3) For the avoidance of doubt, an instrument shall be treated as being made in the prescribed form if it complies with the form that was prescribed at the time of its making.
+
+Part II
+
+Registration
+
+Applications and procedure for registration
+
+4.—(1) An application to the Public Guardian for the registration of an instrument intended to create a lasting power of attorney must —
+
+(a) be made in the prescribed form; and
+
+(b) include any prescribed information.
+
+(2) The application may be made —
+
+(a) by the donor;
+
+(b) by the donee or donees; or
+
+(c) if the instrument appoints 2 or more donees to act jointly and severally in respect of any matter, by any of the donees.
+
+(3) The application must be accompanied by —
+
+(a) the instrument; and
+
+(b) such fee as may be prescribed.
+
+(4) A person who, in an application for registration, makes a statement which he knows to be false in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(5) Subject to paragraphs 10 to 13, the Public Guardian must register the instrument as a lasting power of attorney at the end of the prescribed period if the application complies with sub-paragraphs (1), (2) and (3).
+
+Notification to named persons
+
+5.—(1) A donor about to make an application under paragraph 4(2)(a) must notify any named persons that he is about to do so.
+
+(2) The donee (or donees) about to make an application under paragraph 4(2)(b) or (c) must notify any named persons that he is (or they are) about to do so.
+
+Notification to donee
+
+6\. As soon as is practicable after receiving an application by the donor under paragraph 4(2)(a), the Public Guardian must notify the donee (or donees) that the application has been received.
+
+Notification to donor and others
+
+7.—(1) As soon as is practicable after receiving an application by a donee (or donees) under paragraph 4(2)(b), the Public Guardian must notify the donor that the application has been received.
+
+(2) As soon as is practicable after receiving an application by a donee under paragraph 4(2)(c), the Public Guardian must notify —
+
+(a) the donor; and
+
+(b) the donee or donees who did not join in making the application,
+
+that the application has been received.
+
+Notification requirements
+
+8.—(1) A notice under paragraph 5 must be made in the prescribed form.
+
+(2) A notice under paragraph 5, 6 or 7 must include such information, if any, as may be prescribed.
+
+Power to dispense with notification requirements
+
+9. The court may —
+
+(a) on the application of the donor, dispense with the requirement to notify under paragraph 5(1); or
+
+(b) on the application of the donee or donees concerned, dispense with the requirement to notify under paragraph 5(2),
+
+if it is satisfied that no useful purpose would be served by giving the notice.
+
+Instrument not made properly or containing ineffective provision
+
+10.—(1) If it appears to the Public Guardian that an instrument accompanying an application under paragraph 4 is not made in accordance with this Schedule, he must not register the instrument unless the court directs him to do so.
+
+(2) Sub-paragraph (3) applies if it appears to the Public Guardian that the instrument contains a provision which —
+
+(a) would be ineffective as part of a lasting power of attorney; or
+
+(b) would prevent the instrument from operating as a valid lasting power of attorney.
+
+(3) The Public Guardian —
+
+(a) must apply to the court for it to determine the matter under section 18(1); and
+
+(b) pending the determination by the court, must not register the instrument.
+
+(4) Sub-paragraph (5) applies if the court determines under section 18(1) (whether or not on an application by the Public Guardian) that the instrument contains a provision which —
+
+(a) would be ineffective as part of a lasting power of attorney; or
+
+(b) would prevent the instrument from operating as a valid lasting power of attorney.
+
+(5) The court must —
+
+(a) notify the Public Guardian that it has severed the provision; or
+
+(b) direct him not to register the instrument.
+
+(6) Where the court notifies the Public Guardian that it has severed a provision, he must register the instrument with a note to that effect attached to it.
+
+Deputy already appointed
+
+11.—(1) Sub-paragraph (2) applies if it appears to the Public Guardian that —
+
+(a) there is a deputy appointed by the court for the donor; and
+
+(b) the powers conferred on the deputy would, if the instrument were registered, to any extent conflict with the powers conferred on the attorney.
+
+(2) The Public Guardian must not register the instrument unless the court directs him to do so.
+
+Objection by donee or named person
+
+12.—(1) Sub-paragraph (2) applies if a donee or a named person —
+
+(a) receives a notice under paragraph 5, 6 or 7 of an application for the registration of an instrument; and
+
+(b) before the end of the prescribed period, gives notice to the Public Guardian of an objection to the registration on the ground that an event mentioned in section 15(3) or (5)(a) to (d) has occurred which has revoked the instrument.
+
+(2) If the Public Guardian is satisfied that the ground for making the objection is established, he must not register the instrument unless the court, on the application of the person applying for the registration —
+
+(a) is satisfied that the ground is not established; and
+
+(b) directs the Public Guardian to register the instrument.
+
+(3) Sub-paragraph (4) applies if a donee or a named person —
+
+(a) receives a notice under paragraph 5, 6 or 7 of an application for the registration of an instrument; and
+
+(b) before the end of the prescribed period —
+
+(i) makes an application to the court objecting to the registration on a prescribed ground; and
+
+(ii) notifies the Public Guardian of the application.
+
+(4) The Public Guardian must not register the instrument unless the court directs him to do so.
+
+Objection by donor
+
+13.—(1) This paragraph applies if the donor —
+
+(a) receives a notice under paragraph 7 of an application for the registration of an instrument; and
+
+(b) before the end of the prescribed period, gives notice to the Public Guardian of an objection to the registration.
+
+(2) The Public Guardian must not register the instrument unless the court, on the application of the donee or, if more than one, any of them —
+
+(a) is satisfied that the donor lacks capacity to object to the registration; and
+
+(b) directs the Public Guardian to register the instrument.
+
+Registration
+
+14. Where an instrument is registered under this Schedule, the Public Guardian must give notice of the fact in the prescribed form to —
+
+(a) the donor; and
+
+(b) the donee or, if more than one, each of them.
+
+Evidence of registration
+
+15. A document duly certified by the Public Guardian as a copy of an instrument registered under this Schedule is prima facie evidence of —
+
+(a) the contents of the instrument; and
+
+(b) the fact that it has been registered.
+
+Part III
+
+Cancellation of Registration and Notification of Severance
+
+Cancellation of registration
+
+16.—(1) The Public Guardian must cancel the registration of an instrument as a lasting power of attorney on being satisfied that the power has been revoked —
+
+(a) as a result of the donor’s bankruptcy; or
+
+(b) on the occurrence of an event mentioned in section 15(5)(a) to (d).
+
+(2) If the Public Guardian cancels the registration of an instrument, he must notify —
+
+(a) the donor; and
+
+(b) the donee or, if more than one, each of them.
+
+Direction by court to cancel registration
+
+17. The court must direct the Public Guardian to cancel the registration of an instrument as a lasting power of attorney if it —
+
+(a) determines under section 17(2)(a) that a requirement for creating the power was not met;
+
+(b) determines under section 17(2)(b) that the power has been revoked or has otherwise come to an end; or
+
+(c) revokes the power under section 17(4)(b).
+
+Circumstances for severance or cancellation
+
+18.—(1) Sub-paragraph (2) applies if the court determines under section 18(1) that a lasting power of attorney contains a provision which —
+
+(a) is ineffective as part of a lasting power of attorney; or
+
+(b) prevents the instrument from operating as a valid lasting power of attorney.
+
+(2) The court must —
+
+(a) notify the Public Guardian that it has severed the provision; or
+
+(b) direct him to cancel the registration of the instrument as a lasting power of attorney.
+
+Delivery of instrument
+
+19\. On the cancellation of the registration of an instrument, the instrument and any office copies of it must be delivered up to the Public Guardian to be cancelled.
+
+Part IV
+
+Records of Alterations in Registered Powers
+
+Partial revocation or suspension of power as a result of bankruptcy
+
+20\. If in the case of a registered instrument it appears to the Public Guardian that under section 15 a lasting power of attorney is revoked, or suspended, in relation to the donor’s property and affairs (but not in relation to other matters), the Public Guardian must attach to the instrument a note to that effect.
+
+Termination of appointment of donee which does not revoke power
+
+21. If in the case of a registered instrument it appears to the Public Guardian that an event has occurred —
+
+(a) which has terminated the appointment of the donee; but
+
+(b) which has not revoked the instrument,
+
+the Public Guardian must attach to the instrument a note to that effect.
+
+Replacement of donee
+
+22\. If in the case of a registered instrument it appears to the Public Guardian that the donee has been replaced under the terms of the instrument, the Public Guardian must attach to the instrument a note to that effect.
+
+Severance of ineffective provisions
+
+23\. If in the case of a registered instrument the court notifies the Public Guardian under paragraph 18(2)(a) that it has severed a provision of the instrument, the Public Guardian must attach to it a note to that effect.
+
+Notification of alterations
+
+24\. If the Public Guardian attaches a note to an instrument under paragraph 20, 21, 22 or 23, he must give notice of the note to the donee or donees of the power (or, as the case may be, to the other donee or donees of the power).
+
+SECOND SCHEDULE
+
+Sections 23(4) and (5) and 45
+
+Property and Affairs: Supplementary Provisions
+
+Wills: general
+
+1\. Paragraphs 2, 3 and 4 apply in relation to the execution of a will, by virtue of section 23, on behalf of P.
+
+Provision that may be made in will
+
+2\. The will may make any provision (whether by disposing of property or exercising a power or otherwise) which could be made by a will executed by P if he had capacity to make it.
+
+Wills: requirements relating to execution
+
+3.—(1) Sub-paragraph (2) applies if under section 20 the court makes an order or gives directions requiring or authorising a person (the authorised person) to execute a will on behalf of P.
+
+(2) Any will executed in pursuance of the order or direction must —
+
+(a) state that it is signed by P acting by the authorised person;
+
+(b) be signed by the authorised person with the name of P and his own name, in the presence of 2 or more witnesses present at the same time;
+
+(c) be attested and subscribed by those witnesses in the presence of the authorised person; and
+
+(d) be sealed with the official seal of the court.
+
+Wills: effect of execution
+
+4.—(1) This paragraph applies where a will is executed in accordance with paragraph 3.
+
+(2) The Wills Act (Cap. 352) has effect in relation to the will as if it were signed by P by his own hand, except that —
+
+(a) section 6 of that Act does not apply; and
+
+(b) in the subsequent provisions of that Act any reference to execution in the manner required by that Act is to be read as a reference to execution in accordance with paragraph 3.
+
+(3) The will has the same effect for all purposes as if —
+
+(a) P had had the capacity to make a valid will; and
+
+(b) the will had been executed by him in the manner required by the Wills Act.
+
+(4) Sub-paragraph (3) does not have effect in relation to the will —
+
+(a) in so far as it disposes of immovable property outside Singapore; or
+
+(b) in so far as it relates to any other property or matter if, when the will is executed —
+
+(i) P is domiciled outside Singapore; and
+
+(ii) the condition in sub-paragraph (5) is met.
+
+(5) The condition referred to in sub-paragraph (4)(b)(ii) is that, under the law of P’s domicile, any question of his testamentary capacity would fall to be determined in accordance with the law of a place outside Singapore.
+
+Vesting orders ancillary to settlement, etc.
+
+5.—(1) If provision is made by virtue of section 23 for —
+
+(a) the settlement of any property of P; or
+
+(b) the exercise of a power vested in him of appointing trustees or retiring from a trust,
+
+the court may also make as respects the property settled or the trust property such consequential vesting or other orders as the case may require.
+
+(2) The power under sub-paragraph (1) includes, in the case of the exercise of such a power, any order which could have been made in such a case under Part V of the Trustees Act (Cap. 337).
+
+Variation of settlements
+
+6.—(1) If a settlement has been made by virtue of section 23, the court may by order vary or revoke the settlement if —
+
+(a) the settlement makes provision for its variation or revocation;
+
+(b) the court is satisfied that a material fact was not disclosed when the settlement was made; or
+
+(c) the court is satisfied that there has been a substantial change of circumstances.
+
+(2) Any such order may give such consequential directions as the court thinks fit.
+
+Vesting of property in person appointed outside Singapore
+
+7.—(1) Sub-paragraph (2) applies if the court is satisfied —
+
+(a) that under the law prevailing in a place outside Singapore a person (“M”) has been appointed to exercise powers in respect of the property or affairs of P on the ground (however formulated) that P lacks capacity to make decisions with respect to the management and administration of his property and affairs; and
+
+(b) that, having regard to the nature of the appointment and to the circumstances of the case, it is expedient that the court should exercise its powers under this paragraph.
+
+(2) The court may direct —
+
+(a) any property situated in Singapore standing in the name of P; or
+
+(b) any stocks standing in the name of P or the right to receive dividends from such stocks,
+
+to be transferred into M’s name or otherwise dealt with as required by M, and may give such directions as the court thinks fit for dealing with accrued dividends from the stocks.
+
+(3) In sub-paragraph (2), “stocks” includes —
+
+(a) shares; and
+
+(b) any funds, annuity or security transferable in the books kept by any body corporate or unincorporated company or society or by an instrument of transfer either alone or accompanied by other formalities,
+
+and “dividends” is to be construed accordingly.
+
+Preservation of interests in property disposed of on behalf of person lacking capacity
+
+8.—(1) Sub-paragraphs (2) and (3) apply if —
+
+(a) P’s property has been disposed of by virtue of section 23;
+
+(b) under P’s will or intestacy, or by a gift perfected or nomination taking effect on his death, any other person would have taken an interest in the property but for the disposal; and
+
+(c) on P’s death, any property belonging to P’s estate represents the property disposed of.
+
+(2) The person takes the same interest, if and so far as circumstances allow, in the property representing the property disposed of.
+
+(3) If the property disposed of was real property, any property representing it is to be treated, so long as it remains part of P’s estate, as if it were real property.
+
+(4) The court may direct that, on a disposal of P’s property —
+
+(a) which is made by virtue of section 23; and
+
+(b) which would apart from this paragraph result in the conversion of personal property into real property,
+
+property representing the property disposed of is to be treated, so long as it remains P’s property or forms part of P’s estate, as if it were personal property.
+
+(5) References in sub-paragraphs (1) to (4) to the disposal of property are to —
+
+(a) the sale, exchange, charging of or other dealing (otherwise than by will) with property other than money;
+
+(b) the removal of property from one place to another;
+
+(c) the application of money in acquiring property;
+
+(d) the transfer of money from one account to another,
+
+and references to property representing property disposed of are to be construed accordingly and as including the result of successive disposals.
+
+(6) The court may give such directions as appear to it necessary or expedient for the purpose of facilitating the operation of sub-paragraphs (1), (2) and (3), including the carrying of money to a separate account and the transfer of property other than money.
+
+Charge on property of person lacking capacity
+
+9.—(1) Sub-paragraph (2) applies if the court has ordered or directed the expenditure of money —
+
+(a) for carrying out permanent improvements on any of P’s property; or
+
+(b) otherwise for the permanent benefit of any of P’s property.
+
+(2) The court may order that —
+
+(a) the whole of the money expended or to be expended; or
+
+(b) any part of it,
+
+is to be a charge on the property either without interest or with interest at a specified rate.
+
+(3) An order under sub-paragraph (2) may provide for excluding or restricting the operation of paragraph 8(1), (2) and (3).
+
+(4) A charge under sub-paragraph (2) may be made in favour of such person as may be just and, in particular, where the money charged is paid out of P’s general estate, may be made in favour of a person as trustee for P.
+
+(5) No charge under sub-paragraph (2) may confer any right of sale or foreclosure during P’s lifetime.
+
+THIRD SCHEDULE
+
+Section 47
+
+Consequential and Related Amendments to Other Written Laws
+
+First column
+
+Second column
+
+(1) Bankruptcy Act
+
+
+
+
+(Chapter 20, 2000 Ed.)
+
+Section 80
+
+Insert, immediately after subsection (6), the following subsection:
+
+“
+
+(7) In this section, “general powers of attorney” include lasting powers of attorney registered under the Mental Capacity Act 2008.
+
+”.
+
+(2) Companies Act
+
+
+
+
+(Chapter 50, 2006 Ed.)
+
+Section 278
+
+Insert, immediately after subsection (9), the following subsection:
+
+“
+
+(10) In this section, “general power of attorney” includes a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+”.
+
+(3) Conveyancing and Law of
+
+
+
+
+Property Act
+
+
+
+
+(Chapter 61, 1994 Ed.)
+
+(a) Section 46
+
+Insert, immediately after subsection (2), the following subsection:
+
+“
+
+(3) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+”.
+
+(b) Section 47
+
+Insert, immediately after subsection (3), the following subsection:
+
+“
+
+(4) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+”.
+
+(c) Section 48
+
+Insert, immediately after subsection (10), the following subsection:
+
+“
+
+(11) Any reference in section 8 or any written law to a power of attorney deposited, filed or registered under or in the manner provided by this section includes a reference to a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+”.
+
+(4) Limited Liability Partnerships Act
+
+
+
+
+(Chapter 163A, 2006 Ed.)
+
+Fifth Schedule, paragraph 25
+
+Insert, immediately after sub-paragraph (11), the following sub-paragraph:
+
+“
+
+(12) In this paragraph, “general power of attorney” includes a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+”.
+
+(5) Public Trustee Act
+
+
+
+
+(Chapter 260, 1985 Ed.)
+
+Section 4
+
+Delete subsection (1A) and substitute the following subsection:
+
+“
+
+(1A) In addition to the powers and duties under subsection (1), the Public Trustee may —
+
+(a) undertake such functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign him;
+
+(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity.
+
+”.
+
+(6) Trustees Act
+
+
+
+
+(Chapter 337, 2005 Ed.)
+
+Section 42
+
+Delete subsection (4) and substitute the following subsection:
+
+“
+
+(4) Nothing in this section shall —
+
+(a) give power to appoint an executor or administrator;
+
+(b) prevent a donee of a lasting power of attorney created by a trustee from acting for the trustee when such trustee lacks capacity to exercise his functions as trustee.
+
+”.
+
+FOURTH SCHEDULE
+
+Sections 45 and 48
+
+Savings and Transitional Provisions
+
+Savings and transitional provisions
+
+1.—(1) This paragraph applies where, immediately before the commencement day, there is a committee of the person or a committee of the estate (individually referred to as the “committee”) of a person (referred to as “P”) appointed under section 9 of the Mental Disorders and Treatment Act (Cap. 178).
+
+(2) On and after the commencement day —
+
+(a) the members of the committee shall, notwithstanding section 24(1), be deemed to be deputies appointed by the court to act jointly to make decisions on P’s behalf, but with the powers and functions that the committee had immediately before that day; and
+
+(b) a reference in any written law to a deputy appointed by the court includes members of the committee which by virtue of sub-paragraph (a) are deemed to be deputies appointed under this Act.
+
+(3) On an application to the court by any member of the committee, the court may, without prejudice to section 20(8), revoke his appointment as P’s deputy.
+
+(4) Where a member of the committee may not make a decision on behalf of P in relation to a relevant matter by virtue of section 25(1), he shall apply to the court.
+
+(5) If, on the application, the court is satisfied that P has capacity in relation to the relevant matter —
+
+(a) it shall revoke the member’s appointment as P’s deputy in relation to that matter; and
+
+(b) it may, in relation to any other matter, exercise in relation to P any of the powers which it has under sections 19 to 24.
+
+(6) If the court is not so satisfied, it may exercise in relation to P any of the powers which it has under sections 19 to 24.
+
+(7) The appointment of a member of the committee as P’s deputy ceases to have effect if P dies.
+
+(8) “Relevant matter” means a matter in relation to which, immediately before the commencement day, the committee was authorised to act on behalf of P.
+
+Orders, appointments, etc.
+
+2.—(1) Any order or appointment made, direction or authority given or other thing done under Part I of the Mental Disorders and Treatment Act before the commencement day and in force immediately before that day shall continue to have effect despite the repeal of Part I of that Act.
+
+(2) In so far as any such order, appointment, direction, authority or thing could have been made, given or done under sections 19 to 25 if those sections had then been in force at the time it was made, given or done —
+
+(a) it shall be treated as made, given or done under those sections; and
+
+(b) the powers of variation and discharge conferred by section 20(7) shall apply accordingly.
+
+(3) Sub-paragraph (1) has effect on every order, appointment, direction, authority or thing made, given or done by any committee of the person or estate of a mentally disordered person subject to paragraph 1 of this Schedule.
+
+Pending proceedings
+
+3.—(1) Any application for the exercise of a power under Part I of the Mental Disorders and Treatment Act (Cap. 178) which is pending immediately before the commencement day shall be treated, in so far as a corresponding power is exercisable under sections 20 to 25, as an application for the exercise of that power.
+
+(2) For the purposes of sub-paragraph (1), an application for the appointment of a committee of the person or estate of a mentally disordered person shall be treated as an application for the appointment of the members of the committee as deputies to act jointly to make decisions on behalf of the mentally disordered person.
+
+Court records
+
+4\. On or after the commencement day, the Public Guardian is, for the purpose of exercising any of his functions, to be given such access as he may require to such of the records of the court as relate to the appointment of committees of estate or person under the Mental Disorders and Treatment Act.
+
+Accounts
+
+5. Rules of Court may provide that, in a case where paragraph 1 applies, the members of the committee are to have a duty to render accounts —
+
+(a) while they are members of the committee; and
+
+(b) after they are discharged.
+
+Interpretation of Schedule
+
+6\. In this Schedule, “commencement day” means the day on which Part V of this Act comes into force.
+
