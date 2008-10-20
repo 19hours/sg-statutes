@@ -1346,17 +1346,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 53\.—(1) This Act shall not apply to —
 
-(a) any bank licensed under the Banking Act (Cap. 19);
+(a) any bank licensed under the Banking Act (Cap. 19); or
 
 [23/2008 wef 20/10/2008]
 
-(b) any co-operative society registered under the Co-operative Societies Act (Cap. 62); or
-
-(c) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222).
+(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222).
 
 [23/2008 wef 20/10/2008]
 
 [37/98]
+
+(1A) Every co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62) to provide financial services shall, to the extent that such services amount to financing business, be exempt from section 3 in respect of such services.
+
+[23/2008 wef 20/10/2008]
 
 (2) Notwithstanding the provisions of this Act, the Authority may exempt any finance company from all or any of the provisions of this Act.
 
@@ -1497,6 +1499,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006|
+|18.|**Act 23 of 2008—Co-operative Societies (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 August 2008|
+|||(Bill No. 19/2008 published on 25 August 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|20 October 2008|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
