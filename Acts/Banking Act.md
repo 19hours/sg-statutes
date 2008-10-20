@@ -528,7 +528,7 @@ where such deposit is to be made with any person (not being a person specified i
 
 (a) any bank in Singapore;
 
-(b) any co-operative society registered under the Co-operative Societies Act (Cap. 62);
+(b) any co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62);
 
 [23/2008 wef 20/10/2008]
 
@@ -4462,8 +4462,6 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 76\. Nothing in this Act shall be construed so as to prevent any of the following persons from carrying on any activity or business (other than an activity or a business referred to in Part VIII) for which he is registered or licensed under the following respective Act corresponding to that person:
 
-(a) any co-operative society registered under the Co-operative Societies Act (Cap. 62);
-
 (b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222); or
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108).
@@ -5262,6 +5260,12 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of commencement|31 March 2007|
 |27.|**2008 Revised Edition—Banking Act**|
 ||Date of operation|31 March 2008|
+|28.|**Act 23 of 2008—Co-operative Societies (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 August 2008|
+|||(Bill No. 19/2008 published on 17 October 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|20 October 2008|
 ## COMPARATIVE TABLE
 
 Banking Act
