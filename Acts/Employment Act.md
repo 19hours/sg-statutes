@@ -204,7 +204,9 @@
 
 - [83 Forfeiture of payment](#Forfeiture-of-payment)
 
-- [84 Right to benefit unaffected by notice of dismissal in specified circumstances](#Right-to-benefit-unaffected-by-notice-of-dismissal-in-specified-circumstances)
+- [84 Right to benefit unaffected by notice of dismissal given without sufficient cause](#Right-to-benefit-unaffected-by-notice-of-dismissal-given-without-sufficient-cause)
+
+- [84A Right to benefit unaffected by notice of dismissal given on ground of redundancy or by reason of reorganisation of employer’s profession, business, trade or work](#Right-to-benefit-unaffected-by-notice-of-dismissal-given-on-ground-of-redundancy-or-by-reason-of-reorganisation-of-employer’s-profession-business-trade-or-work)
 
 - [85 Claim from one employer only](#Claim-from-one-employer-only)
 
@@ -1568,7 +1570,7 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (B) not later than the day of her confinement; and
 
-(ii) one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 6 months commencing on the day of her confinement.
+(ii) one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
 
 [28/2008 wef 31/10/2008]
 
@@ -1582,7 +1584,13 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (c) where subsection (1)(c) applies, the period of 8 weeks referred to in subsection (1)(c)(i).
 
-(2) A female employee who has served an employer for less than 180 days immediately preceding the day of confinement shall not be entitled to any pay during the benefit period.
+(2) A female employee who delivers a child before 31st October 2008, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 31st October 2008, shall not be entitled to any pay during the benefit period if she has served her employer for less than 180 days immediately preceding the day of her confinement.
+
+[28/2008 wef 31/10/2008]
+
+(2A) A female employee who delivers a child on or after 31st October 2008, or who delivers a child before 31st October 2008 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 31st October 2008, shall not be entitled to any pay during the benefit period if she has served her employer for less than 90 days immediately preceding the day of her confinement.
+
+[28/2008 wef 31/10/2008]
 
 (3) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled to receive in addition to her gross rate of pay for that day an amount that is equivalent to a day’s pay at the gross rate of pay or to absent herself from work on another day at the end of the benefit period.
 
@@ -1642,7 +1650,7 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 ### Dismissal during absence prohibited
 
-81\. Subject to the provisions of this Part, when a female employee absents herself from work in accordance with the provisions of this Part it shall not be lawful for her employer to give her notice of dismissal during her absence or on such a day that the notice will expire during her absence.
+81\. Without prejudice to sections 84 and 84A, when a female employee absents herself from work in accordance with the provisions of this Part it shall not be lawful for her employer to give her notice of dismissal during her absence or on such a day that the notice will expire during her absence.
 
 [28/2008 wef 31/10/2008]
 
@@ -1654,9 +1662,33 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 83\. If a female employee works for any other employer after she has absented herself from work under the provisions of this Part, she shall forfeit her claim to any payment to which she is entitled under this Part and shall be liable to dismissal.
 
-### Right to benefit unaffected by notice of dismissal in specified circumstances
+### Right to benefit unaffected by notice of dismissal given without sufficient cause
 
-84\.—(1) No notice of dismissal given without sufficient cause by an employer to a female employee within a period of 3 months before her confinement shall have the effect of depriving her of any payment to which but for that notice she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
+84\.—(1) Without prejudice to sections 81 and 84A, no notice of dismissal given without sufficient cause by an employer to a female employee which —
+
+(a) if given before 31st October 2008, is given —
+
+(i) within a period of 3 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+
+(ii) within a period of 3 months preceding the date of her confinement; or
+
+(b) if given on or after 31st October 2008, is given —
+
+(i) within a period of 6 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+
+(ii) within a period of 6 months preceding the date of her confinement,
+
+shall have the effect of depriving her of any payment to which, but for that notice, she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
+
+[28/2008 wef 31/10/2008]
+
+(1A) In any case where there are 2 or more estimated delivery dates (each certified by a medical practitioner) for the confinement of a female employee, the estimated delivery date that is relevant for the purposes of subsection (1) shall be the estimated delivery date —
+
+(a) which is certified by a medical practitioner before the notice of dismissal is given by her employer; and
+
+(b) the date of such certification of which is closest to the date the notice of dismissal is given.
+
+[28/2008 wef 31/10/2008]
 
 (2) If any question arises as to whether any notice of dismissal given under subsection (1) was or was not given for sufficient cause, it shall be referred to the Minister within two months from the date of the employee’s confinement.
 
@@ -1680,7 +1712,7 @@ and the employer shall comply with the direction of the Minister.
 
 [36/95]
 
-(6) An employer who fails to comply with the direction of the Minister under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(6) An employer who fails to comply with the direction of the Minister under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [28/2008 wef 31/10/2008]
 
@@ -1690,9 +1722,37 @@ and the employer shall comply with the direction of the Minister.
 
 [36/95]
 
+### Right to benefit unaffected by notice of dismissal given on ground of redundancy or by reason of reorganisation of employer’s profession, business, trade or work
+
+84A\.—(1) Without prejudice to sections 81 and 84, no notice of dismissal given to a female employee by her employer on or after 31st October 2008 on the ground of redundancy or by reason of any reorganisation of her employer’s profession, business, trade or work —
+
+(a) within a period of 3 months preceding the estimated delivery date for her confinement (as certified by a medical practitioner); or
+
+(b) within a period of 3 months preceding the date of her confinement,
+
+shall have the effect of depriving her of any payment to which, but for that notice, she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
+
+(2) In any case where there are 2 or more estimated delivery dates (each certified by a medical practitioner) for the confinement of a female employee, the estimated delivery date that is relevant for the purposes of subsection (1) shall be the estimated delivery date —
+
+(a) which is certified by a medical practitioner before the notice of dismissal is given by her employer; and
+
+(b) the date of such certification of which is closest to the date the notice of dismissal is given.
+
+(3) The payment referred to in subsection (1) shall be in addition to any retrenchment benefit or other payment to which the female employee is entitled under the terms of her contract of service or under any other written law.
+
+[28/2008 wef 31/10/2008]
+
 ### Claim from one employer only
 
-85\. Nothing in this Part shall be deemed to entitle any female employee to claim any payment under this Part from more than one employer in respect of the same confinement.
+85\. NothingSubject to subsection (2), nothing in this Part shall be deemed to entitle any female employee to claim any payment under this Part from more than one employer in respect of the same confinement.
+
+(1) Subject to subsection (2), nothing in this Part shall be deemed to entitle any female employee to claim any payment under this Part from more than one employer in respect of the same confinement.
+
+[28/2008 wef 31/10/2008]
+
+(2) Subsection (1) shall not apply to any female employee in respect of any confinement of hers which occurs, or the estimated delivery date (as certified by a medical practitioner) of which is, on or after 31st October 2008.
+
+[28/2008 wef 31/10/2008]
 
 ### Contracting out
 
@@ -1700,7 +1760,7 @@ and the employer shall comply with the direction of the Minister.
 
 ### Offence
 
-87\. Any employer who fails to pay his female employee in accordance with the provisions of this Part (other than section 87A) or who acts in contravention of section 81 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+87\. Any employer who fails to pay his female employee in accordance with the provisions of this Part (other than section 87A) or who acts in contravention of section 81 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [41/2004 wef 01/10/2004]
 
@@ -1724,11 +1784,13 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 (b) shall —
 
-(i) take his first entitlement of childcare leave of 2 days for a relevant period in respect of a child in the relevant period in which the child was born or the next succeeding relevant period; and
+(i) take his first entitlement of childcare leave of 2 days for a relevant period in that relevant period or the next succeeding relevant period; and
 
 [28/2008 wef 31/10/2008]
 
-(ii) thereafter, take his next and each subsequent entitlement of childcare leave of 2 days for a relevant period in respect of the childin the next succeeding relevant period and in each subsequent succeeding relevant period, respectively.
+(ii) thereafter, take his next and each subsequent entitlement of childcare leave of 2 days for a relevant period in the next succeeding relevant period and in each subsequent succeeding relevant period, respectively.
+
+[28/2008 wef 31/10/2008]
 
 (3) The childcare leave shall be in addition to the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 42, 43 and 44, respectively.
 
@@ -1748,7 +1810,21 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 (b) shall not be entitled to any payment in lieu thereof.
 
-(7) Any employer who contravenes subsection (5) shall be guilty of an offence.
+(7) Any employer who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) for a subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[28/2008 wef 31/10/2008]
+
+(7A) Any employer who fails, without reasonable cause, to grant childcare leave to an employee who is entitled to and requests for such leave shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000; and
+
+(b) for a subsequent offence, to a fine not exceeding $10,000.
+
+[28/2008 wef 31/10/2008]
 
 (8) In this section —
 
@@ -2585,3 +2661,9 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|22.|**Act 28 of 2008—Children Development Co-Savings (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 September 2008|
+|||(Bill No. 26/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|21 October 2008|
+||Date of commencement|31 October 2008|
