@@ -424,6 +424,10 @@ PRELIMINARY
 
 “public waste collector licensee” means a person designated by the Director-General under section 31(3);
 
+“recyclable” means such refuse, waste or other material or thing as may be prescribed by the Agency, with the approval of the Minister, to be capable of being recycled or reused;
+
+[26/2008 wef 01/11/2008]
+
 “recycling facility” means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
 
 “sale” includes barter, exchange, import and export and also includes offering or attempting to sell, or causing or allowing to be sold, or exposing for sale, or receiving or sending or delivering for sale, or supplying any food, drink or goods where consideration is to be received by the supplier for such supply either specifically or as part of a service contracted for, or having in possession for sale or having in possession any food, drink or goods knowing that the same is likely to be sold or offered or exposed for sale and “sell” shall be construed accordingly;
@@ -554,11 +558,15 @@ Removal of Refuse
 
 10\.—(1) The Director-General may, by notice in writing, require the owner or occupier of any premises to provide, construct or reconstruct at the expense of the owner or occupier and within such period as may be specified in the notice —
 
-(a) dustbins or other convenient receptacles, which shall conform to such specifications as the Director-General may require, to be placed in appropriate locations within the premises of the owner or occupier as the Director-General thinks fit for the deposit of refuse and rubbish from those premises; and
+(a) dustbins or other convenient receptacles, which shall conform to such specifications as the Director-General may require, to be placed in appropriate locations within the premises of the owner or occupier as the Director-General thinks fit for the deposit of refuse and rubbish from those premises;
 
-(b) refuse bin centres or refuse bin compartments, which shall conform to such specifications as the Director-General may require, to be sited in appropriate situations within the premises as the Director-General thinks fit, and wherein or whereon shall be placed the dustbins and other receptacles referred to in paragraph (a).
+(b) refuse bin centres or refuse bin compartments, which shall conform to such specifications as the Director-General may require, to be sited in appropriate situations within the premises as the Director-General thinks fit, and wherein or whereon shall be placed the dustbins and other receptacles referred to in paragraph (a); and
+
+(c) receptacles which shall conform to such specifications as the Director-General may require, to be placed in appropriate locations within the premises of the owner or occupier as the Director-General thinks fit for the deposit of recyclables.
 
 [4/2002]
+
+[26/2008 wef 01/11/2008]
 
 (2) Where any dustbins or receptacles have been provided under subsection (1), the Director-General may, by notice in writing, require the owner or occupier of any premises concerned to convey as often as may be necessary refuse from such premises to a disposal facility.
 
@@ -1626,9 +1634,11 @@ General Health Requirements for Buildings
 
 [22/99]
 
-(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Protection and Management Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294) and any regulations made thereunder.
+(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Protection and Management Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294), and any regulations made thereunder.
 
 [22/99]
+
+[26/2007 wef 01/01/2008]
 
 (4) The Environmental Control Officer shall possess such qualifications or have received such training as the Agency may, with the approval of the Minister, from time to time, by notification in theGazette, prescribe.
 
@@ -2552,6 +2562,11 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 13/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Dates of commencement|1st January 2008|
+|16.|**Act 26 of 2008—Environmental Public Health (Amendment) Act**|
+||Date of First Reading|25 August 2008|
+|||(Bill No. 22/2008 published on 26 August 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 November 2008|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
