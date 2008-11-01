@@ -66,7 +66,7 @@
 
 - [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
 
-- [18 Transfer or payment of moneys to parent’s, grandparent’s, spouse’s or sibling’s retirement account, or to spouse’s or sibling’s special account, and voluntary maintenance of sum in retirement account](#Transfer-or-payment-of-moneys-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-or-to-spouse’s-or-sibling’s-special-account-and-voluntary-maintenance-of-sum-in-retirement-account)
+- [18 Transfer or payment of moneys to retirement account or special account, and voluntary maintenance of sum in retirement account](#Transfer-or-payment-of-moneys-to-retirement-account-or-special-account-and-voluntary-maintenance-of-sum-in-retirement-account)
 
 - [18A Transfer of member’s moneys in ordinary account or special account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-retirement-account)
 
@@ -74,9 +74,9 @@
 
 - [18C Transfer of member’s moneys in ordinary or special account to medisave account](#Transfer-of-member’s-moneys-in-ordinary-or-special-account-to-medisave-account)
 
-- [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-on-death)
+- [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-on-death-or-withdrawal-under-section-152b-or-c)
 
-- [19A Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-spouse’s-or-sibling’s-special-account-on-death)
+- [19A Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-spouse’s-or-sibling’s-special-account-on-death-or-withdrawal-under-section-152b-or-c)
 
 - [20 Withdrawals](#Withdrawals)
 
@@ -86,7 +86,7 @@
 
 - [21B Charge on HDB flats to secure repayment of withdrawals from Fund](#Charge-on-HDB-flats-to-secure-repayment-of-withdrawals-from-Fund)
 
-- [22 Withdrawals for payment of tuition fees at approved tertiary institution](#Withdrawals-for-payment-of-tuition-fees-at-approved-tertiary-institution)
+- [22 Withdrawals for payment of tuition fees at approved educational institution](#Withdrawals-for-payment-of-tuition-fees-at-approved-educational-institution)
 
 - [23 Regulations for purposes of section 22](#Regulations-for-purposes-of-section-22)
 
@@ -359,6 +359,10 @@ PRELIMINARY
 [40/2007 wef 01/10/2007]
 
 “ordinary account” means an ordinary account maintained under section 13;
+
+“prescribed age” means such age of a member as the Minister may prescribe by regulations made under section 77(1), and the Minister may prescribe different ages for different purposes and in respect of different classes of members;
+
+[25/2008 wef 01/11/2008]
 
 “retirement account” means a retirement account maintained —
 
@@ -720,7 +724,7 @@ CONTRIBUTIONS TO FUND
 
 [40/2007 wef 01/10/2007]
 
-(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18, 18A, 18C, 27B or 45 or in accordance with any regulations made under section 77(1)(n) or (oa).
+(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18, 18A, 18C, 19A, 27B or 45 or in accordance with any regulations made under section 77(1)(n) or (oa).
 
 [15/2006 wef 01/07/2006]
 
@@ -802,7 +806,7 @@ CONTRIBUTIONS TO FUND
 
 (a) the following amounts shall be included:
 
-(i) the amount contributed by a person in that year which is obligatory under this Act;
+(i) the amount contributed by a person in that year which is obligatory under this Act; and
 
 [40/2007 wef 01/01/2008]
 
@@ -810,15 +814,11 @@ CONTRIBUTIONS TO FUND
 
 (ii) subject to paragraph (b)(ii), any voluntary contribution paid by the employer of that person under section 7(4)(c) in that year; and
 
-(iii) subject to subsections (4) and (5), any amount paid in that year by that person’s spouse or sibling into that person’s special account under section 18(3)(b); and
-
 (b) the following amounts shall be excluded:
 
 (i) any contribution made by a person in that year under sections 73 and 79;
 
 [40/2007 wef 01/10/2007]
-
-(ia) any amount paid in that year by that person into the special account of his spouse or sibling under section 18(3)(b);
 
 (ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500; and
 
@@ -827,18 +827,6 @@ CONTRIBUTIONS TO FUND
 (iii) any contribution made in that year by that person or any other person under section 27B, 27C, 27D, 27E or 27F or under any regulations referred to in section 27G or 27H.
 
 [31/2003 wef 01/01/2004]
-
-(4) Where, in any year, the total of the amounts under subsection (3)(a)(i) and (ii) to be included for the purpose of computing the sum referred to in subsection (2) exceeds that sum —
-
-(a) the amount referred to in subsection (3)(a)(iii) shall not be included for that purpose; and
-
-(b) the Board may refund the whole or any part of the amount referred to in subsection (3)(a)(iii) to the person or persons who contributed to that amount, in the proportion in which each such person contributed to that amount.
-
-(5) Where, in any year, the total of the amounts under subsection (3)(a)(i) and (ii) to be included for the purpose of computing the sum referred to in subsection (2) does not exceed that sum, but the total of the amounts under subsection (3)(a)(i), (ii) and (iii) exceeds that sum —
-
-(a) there shall be included for that purpose only such part of the amount referred to in subsection (3)(a)(iii) which is equal in quantum to the difference between that sum and the total of the amounts referred to in subsection (3)(a)(i) and (ii); and
-
-(b) the Board may refund the whole or any part of the remainder of the amount referred to in subsection (3)(a)(iii) to the person or persons who contributed to that amount, in the proportion in which each such person contributed to that amount.
 
 ### Payment of cash grant by Government into Fund
 
@@ -918,7 +906,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [12/99]
 
-(2) Subject to this section , a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
+(2) Subject to this section and sections 19 and 19A, a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
 (a) has attained the age of 55 years;
 
@@ -1020,13 +1008,13 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (b) specify any other amount as he thinks fit in respect of any class of persons for the purposes of subsection (6)(b).
 
-(7) A member who has attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
+(7) A member who has attained the prescribed age shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
 
 [25/2008 wef 01/11/2008]
 
 [10/94]
 
-(7A) A member who has attained the age of 55 years but has not attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw the minimum sum or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
+(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the minimum sum or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
 
 (a) physically or mentally incapacitated —
 
@@ -1306,13 +1294,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [12/99]
 
-### Transfer or payment of moneys to parent’s, grandparent’s, spouse’s or sibling’s retirement account, or to spouse’s or sibling’s special account, and voluntary maintenance of sum in retirement account
+### Transfer or payment of moneys to retirement account or special account, and voluntary maintenance of sum in retirement account
 
 18\.—(1) The Board may, for any of the purposes mentioned in section 15(6C), and subject to any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose, permit —
 
 (a) a member whose parent, grandparent, spouse or sibling has attained the age of 55 years to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of the parent, grandparent, spouse or sibling, as the case may be;
 
-(b) any person whose parent, grandparent, spouse or sibling has attained the age of 55 years to pay money into the retirement account of the parent, grandparent, spouse or sibling, as the case may be; or
+(b) any person to pay money into the retirement account of a member who has attained the age of 55 years; or
+
+[25/2008 wef 01/11/2008]
 
 (c) any person to voluntarily maintain, in a retirement account with the Board —
 
@@ -1326,7 +1316,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) a member to transfer such portion of the sum standing to his credit in the Fund as the Board may determine to the retirement account of his parent, grandparent, spouse or sibling; or
 
-(b) any person to pay money into the retirement account of his parent, grandparent, spouse or sibling.
+(b) any person to pay money into the retirement account of a member.
 
 [40/2007 wef 01/10/2007]
 
@@ -1340,29 +1330,51 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [18/2009 wef 20/08/2009]
 
-(b) any person whose spouse or sibling has not attained the age of 55 years to pay money into the special account of the spouse or sibling.
+(b) any person to pay money into the special account of a member who has not attained the age of 55 years.
+
+[25/2008 wef 01/11/2008]
 
 [40/2007 wef 01/01/2008]
 
-(4) Subject to subsection (6) —
+(4) Subject to subsection (6), where a member is a spouse or sibling to whose special account any moneys have been transferred under subsection (3)(a) —
 
-(a) any moneys transferred by a member to his spouse’s or sibling’s special account under subsection (3)(a); and
-
-(b) any interest that would have accrued thereto,
-
-shall be transferred by the Board to the spouse’s or sibling’s retirement account when the spouse or sibling attains the age of 55 years.
-
-(5) Subject to subsection (6) and section 13B(4) and (5) —
-
-(a) any moneys paid by any person into his spouse’s or sibling’s special account under subsection (3)(b); and
+(a) the moneys so transferred; and
 
 (b) any interest that would have accrued thereto,
 
-shall be transferred by the Board to the spouse’s or sibling’s retirement account when the spouse or sibling attains the age of 55 years.
+shall be transferred by the Board to the member’s retirement account when the member attains the age of 55 years.
 
-(6) The total amount to be transferred by the Board under subsections (4) and (5) shall not exceed the minimum sum applicable to the spouse or sibling.
+[25/2008 wef 01/11/2008]
+
+[18/2009 wef 20/08/2009]
+
+(5) Subject to subsection (6) —
+
+(a) any moneys paid by any person into a member’s special account under subsection (3)(b); and
+
+(b) any interest that would have accrued thereto,
+
+shall be transferred by the Board to the member’s retirement account when the member attains the age of 55 years.
+
+[25/2008 wef 01/11/2008]
+
+(6) Where, when a member attains the age of 55 years, the total amount of the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) exceeds the minimum sum applicable to the member —
+
+(a) the total amount to be transferred by the Board to the member’s retirement account under subsections (4) and (5) shall not exceed the minimum sum applicable to the member; and
+
+(b) the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to the member’s retirement account in the following order of priority:
+
+(i) the moneys and interest referred to in subsection (4)(a) and (b); and
+
+(ii) the moneys and interest referred to in subsection (5)(a) and (b).
+
+[25/2008 wef 01/11/2008]
 
 (7) All moneys transferred to or paid into a special account under subsection (3) shall be applied in accordance with any regulations made under section 77(1)(oa) and such terms and conditions as the Board may impose.
+
+(8) Any moneys transferred under subsection (1)(a), (2)(a) or (3)(a), paid under subsection (1)(b), (2)(b) or (3)(b) or maintained under subsection (1)(c) shall be deemed to be contributions for the purposes of this Act.
+
+[25/2008 wef 01/11/2008]
 
 ### Transfer of member’s moneys in ordinary account or special account to retirement account
 
@@ -1408,51 +1420,103 @@ shall be transferred by the Board to the spouse’s or sibling’s retirement ac
 
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
-### Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death
+### Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death or withdrawal under section 15(2)(b) or (c)
 
-19\.—(1) Any moneys —
+19\.—(1) Any moneys transferred by a member to his parent’s, grandparent’s, spouse’s or sibling’s retirement account under section 18(1)(a) or (2)(a) —
 
-(a) transferred by a member to his parent’s, grandparent’s, spouse’s or sibling’s retirement account under section 18(1)(a) or (2)(a); or
+(a) shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent, spouse or sibling, as the case may be; and
 
-(b) paid by any person into his parent’s, grandparent’s, spouse’s or sibling’s retirement account under section 18(1)(b) or (2)(b),
+(b) shall not be withdrawn from the Fund by the parent, grandparent, spouse or sibling, as the case may be, under section 15(2)(b) or (c).
 
-shall be deemed to be contributions for the purposes of this Act, and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent, spouse or sibling, as the case may be.
+(2) Except as otherwise provided by subsections (3) and (4), the moneys transferred under section 18(1)(a) or (2)(a), or the balance thereof, shall be credited to the account from which it was transferred upon —
 
-(2) Subject to subsections (3) and (4), on the death of the parent, grandparent, spouse or sibling, the moneys transferred or paid under section 18(1) or (2), or the balance thereof, shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
+(a) the death of the parent, grandparent, spouse or sibling; or
 
-(3) Where any moneys transferred or paid by a member to the retirement account of his parent, grandparent, spouse or sibling under section 18(1) or (2) are transferred or paid to any person under section 27B —
+(b) the withdrawal of any sum from the Fund by the parent, grandparent, spouse or sibling under section 15(2)(b) or (c).
+
+(3) Where any moneys transferred by a member to the retirement account of his parent, grandparent, spouse or sibling under section 18(1)(a) or (2)(a) are transferred or paid by the Board to any person under section 27B —
 
 (a) subsection (2) shall not apply to those moneys; and
 
-(b) the person to whom those moneys have been transferred or paid under section 27B shall be entitled to retain those moneys on the death of the parent, grandparent, spouse or sibling, as the case may be.
+(b) the person to whom those moneys have been transferred or paid by the Board under section 27B shall be entitled to retain those moneys.
 
-(4) Where the Board has received notice, in accordance with any regulations made under section 77(1), that any moneys transferred or paid by a member to the retirement account of his parent, grandparent, spouse or sibling under section 18(1) or (2) are to be transferred or paid to any person under section 27B, and the Board has not, at the time of receipt of the notice, credited those moneys to the account of the member under subsection (2) —
+(4) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys transferred by a member to the retirement account of his parent, grandparent, spouse or sibling under section 18(1)(a) or (2)(a) are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (2) —
 
 (a) subsection (2) shall not apply to those moneys; and
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
 
-### Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death
+(5) Any moneys paid by a person before 1st November 2008 to his parent’s, grandparent’s, spouse’s or sibling’s retirement account under section 18(1)(b) or (2)(b) as in force immediately before that date shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent, spouse or sibling, as the case may be.
 
-19A\.—(1) Any moneys —
+(6) Except as otherwise provided by subsections (7) and (8), the moneys paid under section 18(1)(b) or (2)(b) as in force immediately before 1st November 2008, or the balance thereof, shall be credited to the account of the person who made the payment upon the death of the parent, grandparent, spouse or sibling.
 
-(a) transferred by a member to his spouse’s or sibling’s special account under section 18(3)(a); or
+(7) Where any moneys paid by a person before 1st November 2008 to the retirement account of his parent, grandparent, spouse or sibling under section 18(1)(b) or (2)(b) as in force immediately before that date are transferred or paid by the Board to any person under section 27B —
 
-(b) paid by any person into his spouse’s or sibling’s special account under section 18(3)(b),
+(a) subsection (6) shall not apply to those moneys; and
 
-shall be deemed to be contributions for the purposes of this Act, and shall not form part of the moneys payable out of the Fund on the death of the spouse or sibling, as the case may be.
+(b) the person to whom those moneys have been transferred or paid by the Board under section 27B shall be entitled to retain those moneys.
 
-(2) Subject to subsections (3) and (4), on the death of the spouse or sibling, the moneys transferred or paid under section 18(3), or the balance thereof, shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
+(8) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys paid by a person before 1st November 2008 to the retirement account of his parent, grandparent, spouse or sibling under section 18(1)(b) or (2)(b) as in force immediately before that date are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (6) —
 
-(3) Where any moneys transferred or paid by a member to the special account of his spouse or sibling under section 18(3) are transferred or paid to any person under section 27B —
+(a) subsection (6) shall not apply to those moneys; and
+
+(b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
+
+[25/2008 wef 01/11/2008]
+
+### Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)
+
+19A\.—(1) Any moneys transferred by a member to his spouse’s or sibling’s special account under section 18(3)(a) —
+
+(a) shall not form part of the moneys payable out of the Fund on the death of the spouse or sibling, as the case may be; and
+
+[18/2009 wef 20/08/2009]
+
+(b) shall not be withdrawn from the Fund by the spouse or sibling, as the case may be, under section 15(2)(b) or (c).
+
+[18/2009 wef 20/08/2009]
+
+[18/2009 wef 20/08/2009]
+
+(2) Except as otherwise provided by subsections (3) and (4), the moneys transferred under section 18(3)(a), or the balance thereof, shall be credited to the account from which it was transferred upon —
+
+(a) the death of the spouse or sibling; or
+
+[18/2009 wef 20/08/2009]
+
+(b) the withdrawal of any sum from the Fund by the spouse or sibling under section 15(2)(b) or (c).
+
+[18/2009 wef 20/08/2009]
+
+(3) Where any moneys transferred by a member to the special account of his spouse or sibling under section 18(3)(a) are transferred or paid by the Board to any person under section 27B —
 
 (a) subsection (2) shall not apply to those moneys; and
 
-(b) the person to whom those moneys have been transferred or paid under section 27B shall be entitled to retain those moneys on the death of the spouse or sibling, as the case may be.
+(b) the person to whom those moneys have been transferred or paid by the Board under section 27B shall be entitled to retain those moneys.
 
-(4) Where the Board has received notice, in accordance with any regulations made under section 77(1), that any moneys transferred or paid by a member to the special account of his spouse or sibling under section 18(3) are to be transferred or paid to any person under section 27B, and the Board has not, at the time of receipt of the notice, credited those moneys to the account of the member under subsection (2) —
+[18/2009 wef 20/08/2009]
+
+(4) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys transferred by a member to the special account of his spouse or sibling under section 18(3)(a) are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (2) —
 
 (a) subsection (2) shall not apply to those moneys; and
+
+(b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
+
+[18/2009 wef 20/08/2009]
+
+(5) Any moneys paid by a person before 1st November 2008 to his spouse’s or sibling’s special account under section 18(3)(b) as in force immediately before that date shall not form part of the moneys payable out of the Fund on the death of the spouse or sibling, as the case may be.
+
+(6) Except as otherwise provided by subsections (7) and (8), the moneys paid under section 18(3)(b) as in force immediately before 1st November 2008, or the balance thereof, shall be credited to the account of the person who made the payment upon the death of the spouse or sibling.
+
+(7) Where any moneys paid by a person before 1st November 2008 to the special account of his spouse or sibling under section 18(3)(b) as in force immediately before that date are transferred or paid by the Board to any person under section 27B —
+
+(a) subsection (6) shall not apply to those moneys; and
+
+(b) the person to whom those moneys have been transferred or paid by the Board under section 27B shall be entitled to retain those moneys.
+
+(8) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys paid by a person before 1st November 2008 to the special account of his spouse or sibling under section 18(3)(b) as in force immediately before that date are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (6) —
+
+(a) subsection (6) shall not apply to those moneys; and
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
 
@@ -1766,9 +1830,9 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 [36/2002 wef 01/01/2003]
 
-### Withdrawals for payment of tuition fees at approved tertiary institution
+### Withdrawals for payment of tuition fees at approved educational institution
 
-22\.—(1) The Board may, subject to such terms and conditions as it may impose, permit a member of the Fund to withdraw such portion of the sum standing to his credit in the Fund as may be prescribed for the payment of tuition fees payable by that member, his child or such other relative as may be approved by the Board, for a course of study at an approved tertiary institution.
+22\.—(1) The Board may, subject to such terms and conditions as it may impose, permit a member of the Fund to withdraw such portion of the sum standing to his credit in the Fund as may be prescribed for the payment of tuition fees payable by that member, his child or such other relative as may be approved by the Board, for a course of study conducted, or to be conducted, in whole or in part at an approved educational institution, including any such course of study leading to a qualification conferred by another educational institution.
 
 [25/2008 wef 01/11/2008]
 
@@ -1794,15 +1858,45 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 [30/89]
 
-(5) Notwithstanding anything in this Act, any sum not returned to the Board to the account of the member in the Fund under subsection (3) shall be deemed to be a debt due to the Board and may be sued for by the Board in any court.
+(5) Notwithstanding anything in this Act, any sum not returned to the Board to the account of the member in the Fund under subsection (3) may be sued for and recovered by the Board under section 65.
 
 [25/2008 wef 01/11/2008]
 
 [30/89]
 
+(5A) The Board may refuse to permit a withdrawal under subsection (1) for a payment to an approved educational institution, if the approved educational institution fails to —
+
+(a) provide such information, evidence and documents relevant to the payment as the Board may reasonably require from the approved educational institution; or
+
+(b) comply with such administrative or operational requirements as the Board may reasonably impose under an arrangement between the Board and the approved educational institution.
+
+[25/2008 wef 01/11/2008]
+
+(5B) Without prejudice to subsections (3), (4) and (5), where any sum standing to the credit of a member in the Fund has been withdrawn and paid to an approved educational institution in error —
+
+(a) the approved educational institution shall repay to the Board, to the account of the member in the Fund, that sum, together with the whole or such part, as the Board may determine, of the interest that would have been payable thereon;
+
+(b) the approved educational institution shall, if it caused or contributed to the error —
+
+(i) reimburse the Board for all reasonable expenses incurred by the Board in rectifying the error; and
+
+(ii) indemnify the Board against any liability (whether to the member or to any other person) incurred by the Board in connection with the withdrawal or payment;
+
+(c) any sum not repaid to the Board under paragraph (a) may be sued for and recovered by the Board under section 65; and
+
+(d) any sum not paid to the Board under paragraph (b) may be sued for and recovered by the Board as a debt due to the Board.
+
+[25/2008 wef 01/11/2008]
+
 (6) In this section —
 
-“approved tertiary institution” means any tertiary institution in Singapore approved by the Minister;
+“approved educational institution” means any educational institution in Singapore approved by the Minister for the purposes of subsection (1);
+
+[25/2008 wef 01/11/2008]
+
+“course of study” means any course of study which is of a type prescribed by the Minister for the purposes of subsection (1);
+
+[25/2008 wef 01/11/2008]
 
 “relative” means a person who is related to a member and who is dependent on that member for his care and maintenance;
 
@@ -1844,13 +1938,17 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 [57/2007 wef 28/12/2007]
 
-(2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n), and the proceeds and benefits of the investment, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+(2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
-(3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) and the proceeds and benefits of the investment —
+[25/2008 wef 01/11/2008]
+
+(3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund —
 
 (a) shall not pass to the Official Assignee on the bankruptcy of the member; and
 
 (b) shall be deemed not to form part of the property of the member.
+
+[25/2008 wef 01/11/2008]
 
 (3A) Subject to subsection (3B), sections 16A and 57C and any regulations made under section 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
@@ -3626,7 +3724,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (ii) the method of computing the minimum sum; and
 
-(iii) the amount of the minimum sum which may be withdrawn, and the manner in which the minimum sum may be withdrawn, after a member has attained the age of 60 years or such other age as may be prescribed;
+(iii) the amount of the minimum sum which may be withdrawn, and the manner in which the minimum sum may be withdrawn, after a member has attained the prescribed age;
 
 [25/2008 wef 01/11/2008]
 
@@ -5495,8 +5593,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (6A) Casino Regulatory Authority of Singapore.
 
-[S 415/2008 wef 05/05/2008]
-
 (7) Central Provident Fund Board.
 
 (8) Civil Aviation Authority of Singapore.
@@ -6377,6 +6473,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|22 February 2008|
 |158.|**G.N. No. S 415/2008—Central Provident Fund Act (Amendment of First Schedule) Notification 2008**|
 ||Date of commencement|5 May 2008|
+|159.|**Act 25 of 2008—Central Provident Fund (Amendment) Act 2008**|
+||Date of First Reading|25 August 2008|
+|||(Bill No. 21/2008 published on 26 August 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 November 2008|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
