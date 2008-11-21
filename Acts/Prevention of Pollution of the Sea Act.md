@@ -576,7 +576,13 @@ each of the owners shall be liable, jointly and severally with the other or othe
 
 (3) The reference in this section to the measures reasonably taken after the discharge of oil, oily mixture or a noxious liquid substance for the purpose of preventing or reducing any damage caused by contamination resulting from the discharge shall include actions taken to remove the oil, mixture or substance from the water and foreshores or the taking of such other actions as may be necessary to minimise or mitigate damage to the public health or welfare, including, but not limited to fish, shellfish, wildlife, and public and private property, foreshores and beaches.
 
-(4) This section shall not apply in relation to any discharge of oil or oily mixture where section 3 of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Cap. 180) applies.
+(4) This section shall not apply in relation to any discharge of —
+
+(a) oil or oily mixture where section 3 of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Cap. 180) applies; and
+
+(b) bunker oil where section 3 of the Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008 applies.
+
+[24/2008 wef 21/11/2008]
 
 ### Recovery of costs for removing oil, oily mixture and substances discharged from land or apparatus
 
@@ -790,7 +796,7 @@ Prevention of Pollution of the Sea Act
 
 (CHAPTER 243)
 
-This Legislative History is provided for the convenience of users of the Prevention of Pollution of the Sea Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Prevention of Pollution of the Sea Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -814,6 +820,11 @@ This Legislative History is provided for the convenience of users of the Prevent
 ||Date of commencement|10 June 1999|
 |5.|**1999 Revised Edition—Prevention of Pollution of the Sea Act**|
 ||Date of operation|30 December 1999|
+|6.|**Act 24 of 2008—Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008**|
+||Date of First Reading|25 August 2008|
+|||(Bill No. 20/2008 published on 26 August 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|21 November 2008|
 ## COMPARATIVE TABLE
 
 Prevention of Pollution of the Sea Act
@@ -828,7 +839,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1991 Ed\. 
 
-9 — (1) and (2)
+9 —(1) and (2)
 
-9
+9 
 
