@@ -352,7 +352,7 @@ no proceedings shall be taken against the other person in respect of his liabili
 
 10\. Where the events resulting in the liability of any person under section 3 also resulted in a corresponding liability under the law of another Liability Convention country, sections 8 and 9 shall apply as if the references to sections 3 and 7 included references to the corresponding provisions of that law and the references to sums paid into Court included references to any sums secured under these provisions in respect of the liability.
 
-11\. [Deleted by Act 56/2004 wef 01/05/2005]
+11\. [Repealed by Act 56/2004 wef 01/05/2005]
 
 ### Extinguishment of claims
 
@@ -366,7 +366,9 @@ Compulsory Insurance
 
 13\.—(1) Subsection (2) shall apply to any ship carrying in bulk as cargo more than 2,000 tons of oil.
 
-(2) The ship shall not enter or leave any port in Singapore or enter or leave the territorial sea of Singapore nor, if it is a Singapore ship, enter or leave any port or territorial sea of any other country, unless there is in force a certificate complying with subsection (3) and showing that there is in force in respect of the ship a contract of insurance or other security satisfying the requirements of Article VII of the Liability Convention.
+(2) The ship shall not enter or leave any port in Singapore or enter or leave any offshore terminal in the territorial sea of Singapore nor, if it is a Singapore ship, enter or leave any port in any other country or any offshore terminal in the territorial sea of any other country, unless there is in force a certificate complying with subsection (3) and showing that there is in force in respect of the ship a contract of insurance or other security satisfying the requirements of Article VII of the Liability Convention.
+
+[24/2008 wef 21/11/2008]
 
 (3) The certificate shall be —
 
@@ -391,6 +393,10 @@ Compulsory Insurance
 (8) If a ship attempts to leave a port in, or the territorial sea of, Singapore in contravention of this section, the ship may be detained by the Director or the officers of the Authority or any police officer or any commissioned officer on full pay in the Singapore Armed Forces.
 
 (9) Section 209 of the Merchant Shipping Act shall apply, with the necessary modifications, to the detention of a ship under this Act.
+
+(10) In subsection (2), “offshore terminal” has the same meaning as in the Liability Convention.
+
+[24/2008 wef 21/11/2008]
 
 ### Issue of certificates
 
@@ -796,7 +802,7 @@ Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act
 
 (CHAPTER 180)
 
-This Legislative History is provided for the convenience of users of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -815,3 +821,8 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||(Bill No. 53/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|16 November 2004|
 ||Date of commencement|1 May 2005|
+|5.|**Act 24 of 2008—Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008**|
+||Date of First Reading|25 August 2008|
+|||(Bill No. 20/2008 published on 26 August 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|21 November 2008|
