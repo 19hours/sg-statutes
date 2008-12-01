@@ -190,7 +190,7 @@
 
 [**SECOND SCHEDULE Dangerous Infectious Diseases**](#SECOND-SCHEDULE-Dangerous-Infectious-Diseases)
 
-[**THIRD SCHEDULE Vaccination of Persons Leaving or Arriving in Singapore**](#THIRD-SCHEDULE-Vaccination-of-Persons-Leaving-or-Arriving-in-Singapore)
+[**THIRD SCHEDULE Requirements As to Vaccination and Other Prophylaxis**](#THIRD-SCHEDULE-Requirements-As-to-Vaccination-and-Other-Prophylaxis)
 
 [**FOURTH SCHEDULE Diseases Against Which A Child Is to be Vaccinated**](#FOURTH-SCHEDULE-Diseases-Against-Which-A-Child-Is-to-be-Vaccinated)
 
@@ -248,7 +248,7 @@ PRELIMINARY
 
 “Director” means the Director of Medical Services and includes a Deputy Director of Medical Services;
 
-“Director-General” means the Director-General of the Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap.95);
+“Director-General” means the Director-General of the Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
 
 “Health Officer” means a Health Officer appointed by the Director-General or the Director under section 4;
 
@@ -296,7 +296,7 @@ PRELIMINARY
 
 “owner”, in relation to any premises or vessel, means the person for the time being receiving the rent of the premises or vessel whether on his own account or as agent, trustee or receiver or who would receive the same if the premises or the vessel were let or chartered;
 
-“port” means any place in Singapore and any navigable river or channel leading into such place declared to be a port under the Maritime and Port Authority of Singapore Act (Cap.170A) and includes an airport;
+“port” means any place in Singapore and any navigable river or channel leading into such place declared to be a port under the Maritime and Port Authority of Singapore Act (Cap. 170A) and includes an airport;
 
 “Port Health Officer” means any Health Officer in charge of a port and includes his deputies and assistants;
 
@@ -2036,9 +2036,20 @@ THIRD SCHEDULE
 
 Section 31
 
-Vaccination of Persons Leaving or Arriving in Singapore
+Requirements As to Vaccination
 
-Yellow Fever — Vaccination against yellow fever is required from any person who is going to or coming from or has passed through any country which is wholly or partly endemic for yellow fever.
+
+
+
+and Other Prophylaxis
+
+1.Yellow Fever— Every person who is going to or coming from or has passed through any country which is wholly or partly endemic for yellow fever shall be vaccinated against yellow fever —
+
+(a) at a private hospital or medical clinic in Singapore designated by the Director; or
+
+(b) at a yellow fever vaccination centre designated by a State Party to the World Health Organisation.
+
+[S 615/2008 wef 01/12/2008]
 
 FOURTH SCHEDULE
 
@@ -2065,6 +2076,16 @@ SIXTH SCHEDULE
 Section 57A(1)
 
 Diseases in Respect of Which Information May be Disclosed by the Director to A Person to Enable Him to Take Steps to Prevent Spread of Diseases
+
+(1) Severe Acute Respiratory Syndrome (SARS).
+
+[S 616/2008 wef 01/12/2008]
+
+(2) Tuberculosis.
+
+[S 616/2008 wef 01/12/2008]
+
+[7/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -2173,6 +2194,10 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 5/2008 published on 1 March 2008)|
 ||Date of Second and Third Readings|22 April 2008|
 ||Date of commencement|10 June 2008|
+|28.|**G. N. No. S 615/2008—Infectious Diseases Act (Amendment of Third Schedule) Notification 2008**|
+||Date of commencement|1 December 2008|
+|29.|**G. N. No. S 616/2008—Infectious Diseases Act (Amendment of Sixth Schedule) Notification 2008**|
+||Date of commencement|1 December 2008|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
