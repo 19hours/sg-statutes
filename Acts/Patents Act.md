@@ -130,6 +130,8 @@
 
 [**Part X CONTRACTS AS TO PATENTED PRODUCTS**](#Part-X)
 
+- [50A Application of this Part](#Application-of-this-Part)
+
 - [51 Avoidance of certain restrictive conditions](#Avoidance-of-certain-restrictive-conditions)
 
 - [52 Determination of parts of certain contracts](#Determination-of-parts-of-certain-contracts)
@@ -334,6 +336,10 @@ PRELIMINARY
 
 (ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
 
+“Council for TRIPS” means the Council for Trade-Related Aspects of Intellectual Property Rights established under the TRIPS Agreement;
+
+[18/2008 wef 01/12/2008]
+
 “corresponding international application”, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed under the Patent Co-operation Treaty that —
 
 (a) forms the basis for a priority claim under section 17 in the application in suit; or
@@ -361,6 +367,10 @@ PRELIMINARY
 (b) any other application, means the date which, under the law of the country where the application was made or in accordance with the terms of a treaty or convention to which that country is a party, is to be treated as the date of filing that application in that country or is equivalent to the date of filing an application in that country (whatever the outcome of the application);
 
 “designate”, in relation to an application or a patent, means designate the country or countries (in pursuance of the Patent Co-operation Treaty) in which protection is sought for the invention which is the subject of the application or patent;
+
+“Doha Declaration Implementation Decision” means the Decision adopted by the General Council of the World Trade Organisation on 30th August 2003 on the implementation of paragraph 6 of the Declaration on the TRIPS Agreement and Public Health adopted in Doha on 14th November 2001;
+
+[18/2008 wef 01/12/2008]
 
 “employee” means a person who works or (where the employment has ceased) worked under a contract of employment or in employment under or for the purposes of a Government department;
 
@@ -458,9 +468,25 @@ which was missing from the application at the date of filing of the application;
 
 “relevant authority”, in relation to a pharmaceutical product, means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
 
+“relevant health product” means a patented invention which is a product referred to in —
+
+(a) paragraph 1(a) of the Doha Declaration Implementation Decision; or
+
+(b) paragraph 1(a) of the Annex to the TRIPS Agreement;
+
+[18/2008 wef 01/12/2008]
+
 “right”, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
-“scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person.
+“scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person;
+
+“TRIPS Agreement” means the Agreement on Trade-Related Aspects of Intellectual Property Rights, set out in Annex 1C to the WTO Agreement, as revised or amended from time to time;
+
+[18/2008 wef 01/12/2008]
+
+“WTO Agreement” means the World Trade Organisation Agreement signed in Marrakesh in 1994 as revised or amended from time to time.
+
+[18/2008 wef 01/12/2008]
 
 [40/95; 3/2001; 30/2001; 19/2004]
 
@@ -1484,7 +1510,7 @@ and the date of issue of the certificate of grant, excluding any period attribut
 
 [19/2004]
 
-(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact an unreasonable delay under subsection (1) (a), the Registrar shall extend the term of the patent —
+(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact an unreasonable delay under subsection (1)(a), the Registrar shall extend the term of the patent —
 
 (a) in a case to which subsection (2)(a) applies, by the period by which the interval referred to in subsection (2)(a) exceeds 4 years;
 
@@ -1574,17 +1600,11 @@ and the Registrar may reject any application that fails to comply with any requi
 
 (a) the period taken by the applicant to pay the filing fee under section 25(1)(b), calculated from the date of filing of the application for the patent to the date on which the filing fee is paid;
 
-(b) the period taken by the applicant to make observations under section 26(3)(b)(i) which satisfy the Registrar that the documents filed at the Registry to initiate the application satisfy all of the conditions in section 26(1)(a), (b) and (c) (i) or (ii), calculated from the date of the Registrar’s notification to the applicant under section 26(3)(a) to the date on which the applicant makes the observations;
-
-[2/2007 wef 01/04/2007]
+(b) the period taken by the applicant to make observations under section 26(3)(b)(i) which satisfy the Registrar that the documents filed at the Registry to initiate the application satisfy all of the conditions in section 26(1)(a), (b) and (c)(i) or (ii), calculated from the date of the Registrar’s notification to the applicant under section 26(3)(a) to the date on which the applicant makes the observations;
 
 (ba) the period taken by the applicant to file the documents referred to in section 26(7)(a), (b) and (c), calculated from the date of filing of the application for a patent to the date on which the applicant files the documents;
 
-[2/2007 wef 01/04/2007]
-
 (bb) the period taken by the applicant to comply with section 26(9)(b), if the applicant, after filing at the Registry any missing part of the application, makes a request to the Registrar for section 26(8)(b) not to apply to the application, calculated from the date on which the applicant filed at the Registry the missing part of the application to the date on which the applicant complies with section 26(9)(b);
-
-[2/2007 wef 01/04/2007]
 
 (c) the period taken by the applicant to file one or more claims for the purposes of the application under section 26(12)(a), calculated from the date of filing of the application for the patent to the date on which the applicant files the claim or claims;
 
@@ -1596,11 +1616,7 @@ and the Registrar may reject any application that fails to comply with any requi
 
 calculated from the date of the Registrar’s notification under section 28(4) to the date on which the applicant makes the observations or the earliest date on which the application, as amended by the applicant, complies with all the formal requirements;
 
-[2/2007 wef 01/04/2007]
-
 (da) the period taken by the applicant to comply with section 28(9)(b), if the applicant, after filing any drawing or part of the description of the invention which is missing from the application, makes a request to the Registrar for section 28(8)(b) not to apply to the application, calculated from the date of the Registrar’s notification under section 28(7) to the date on which the applicant complies with section 28(9)(b);
-
-[2/2007 wef 01/04/2007]
 
 (e) the period taken by the applicant to —
 
@@ -1649,6 +1665,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 (q) any extension or alteration of any period to do any thing that is granted by the Registrar or the court at the request or on the application of the applicant.
 
 [19/2004]
+
+[2/2007 wef 01/04/2007]
 
 (14) In subsections (5) and (7), “period attributable to an act or omission of the applicant for marketing approval” includes (without prejudice to the generality of the expression) —
 
@@ -2126,6 +2144,20 @@ shall be taken to infringe any copyright or design right to which, as between hi
 
 CONTRACTS AS TO PATENTED PRODUCTS
 
+### Application of this Part
+
+50A\. This Part shall apply only to —
+
+(a) any contract for the supply of a patented product;
+
+(b) any licence to work a patented invention; and
+
+(c) any contract relating to any such supply or licence,
+
+that was entered into or granted on or after 23rd February 1995 but before the date of commencement of section 3 of the Patents (Amendment) Act 2008.
+
+[18/2008 wef 01/12/2008]
+
 ### Avoidance of certain restrictive conditions
 
 51\.—(1) Subject to this section, any condition or term of a contract for the supply of a patented product or of a licence to work a patented invention, or of a contract relating to any such supply or licence, shall be void in so far as it purports —
@@ -2274,7 +2306,7 @@ USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
 ### Use of patented inventions by Government and authorised parties
 
-56\.—(1) Subject to sections 60, 61 and 62, but notwithstanding any other provision of this Act, the Government and any party authorised in writing by the Government may do anything in relation to a patented invention —
+56\.—(1) Subject to sections 60, 61 and 62, but notwithstanding any other section of this Act, the Government and any party authorised in writing by the Government may do anything in relation to a patented invention —
 
 (a) for a public non-commercial purpose; or
 
@@ -2283,6 +2315,12 @@ USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 and anything done by virtue of this section shall not amount to an infringement of the patent.
 
 [19/2004]
+
+[18/2008 wef 01/12/2008]
+
+(1A) Without prejudice to the generality of subsection (1), subject to sections 60, 61 and 62, but notwithstanding any other section of this Act, the Government and any party authorised in writing by the Government may import any relevant health product, and do anything in relation to any relevant health product so imported, for or during a national emergency or other circumstances of extreme urgency, if the Government has given the Council for TRIPS a relevant notification in relation to the relevant health product.
+
+[18/2008 wef 01/12/2008]
 
 (2) For the purposes of this section and section 57 —
 
@@ -2296,9 +2334,17 @@ and anything done by virtue of this section shall not amount to an infringement 
 
 [40/95]
 
-(4) In this section, “integrated circuit” means a product, in its final or an intermediate form, in which the elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in and on, or in or on, a piece of material and which is intended to perform an electronic function.
+(4) In this section —
 
-[19/2004]
+“integrated circuit” means a product, in its final or an intermediate form, in which the elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in and on, or in or on, a piece of material and which is intended to perform an electronic function;
+
+“relevant notification” means a notification that satisfies the requirements of —
+
+(a) paragraph 2(a) of the Doha Declaration Implementation Decision; or
+
+(b) paragraph 2(a) of the Annex to the TRIPS Agreement.
+
+[18/2008 wef 01/12/2008]
 
 ### Rights of third parties in respect of Government use
 
@@ -2366,9 +2412,17 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 [40/95; 19/2004]
 
+(1A) The right under section 56 to use a relevant health product which is imported under section 56(1A) does not include a right to export the relevant health product.
+
+[18/2008 wef 01/12/2008]
+
 (2) The right to use a patented invention under section 56 may, on the application of any interested party, be terminated by the court, where the court is satisfied that the circumstances that gave rise to the right to use the patented invention have ceased to exist and are unlikely to recur.
 
 [40/95]
+
+(3) Where the court has terminated the right under section 56 to use a patented invention, the court may make such consequential orders as it thinks necessary.
+
+[18/2008 wef 01/12/2008]
 
 ### Duty to inform patentee
 
@@ -2382,9 +2436,11 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 ### Patentee entitled to remuneration
 
-62\. Where an act is done under section 56, the Government shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed, between the Government and the patentee having regard to the economic value of the patented invention or as may, in default of agreement, be determined by the court under section 58.
+62\.—(1) Subject to subsection (2), where an act is done under section 56, the Government shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed, between the Government and the patentee having regard to the economic value of the patented invention or as may, in default of agreement, be determined by the court under section 58.
 
-[40/95]
+(2) No remuneration shall be payable under subsection (1) in respect of the import or subsequent use under section 56(1A) of any relevant health product, if the patentee has received or will receive any other remuneration in respect of that relevant health product.
+
+[18/2008 wef 01/12/2008]
 
 63\. [Section number not in use]
 
@@ -2420,7 +2476,7 @@ INFRINGEMENT OF PATENTS
 
 (f) it consists of the use of an exempted aircraft which has lawfully entered or is lawfully crossing Singapore as mentioned in paragraph (d) or of the importation into Singapore, or the use or storage, of any part or accessory for that aircraft;
 
-(g) subject to subsection (3), it consists of the import, use or disposal of, or the offer to dispose of, any patented product or any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly;
+(g) subject to subsections (3) and (5A), it consists of the import, use or disposal of, or the offer to dispose of, any patented product or any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly;
 
 (h) it consists of the doing of any thing set out in subsection (1) in relation to the subject-matter of the patent to support any application for marketing approval for a pharmaceutical product, provided that any thing produced to support the application is not —
 
@@ -2430,7 +2486,7 @@ INFRINGEMENT OF PATENTS
 
 other than for purposes related to meeting the requirements for marketing approval for that pharmaceutical product; or
 
-(i) it consists of the import, disposal or offer to dispose of a patented pharmaceutical product for use by or on a specific patient in Singapore, or the use of that product by or on that patient, where —
+(i) subject to subsection (5A), it consists of the import, disposal or offer to dispose of a patented pharmaceutical product for use by or on a specific patient in Singapore, or the use of that product by or on that patient, where —
 
 (i) that product is required for use by or on that patient;
 
@@ -2462,15 +2518,31 @@ other than for purposes related to meeting the requirements for marketing approv
 
 [19/2004]
 
+(5A) Subsection (2)(g) and (i) shall not apply to the import or sale of, or the offer to sell, any relevant health product produced for export to any country, other than Singapore, which is an eligible importing member of the World Trade Organisation.
+
+[18/2008 wef 01/12/2008]
+
 (6) In this section —
 
-(a) “relevant ship” and “relevant aircraft, hovercraft or vehicle” mean, respectively, a ship and an aircraft, a hovercraft or vehicle registered in, or belonging to, any country, other than Singapore, which is a party to the Paris Convention or a member of the World Trade Organisation; and
+“eligible importing member”, in relation to the World Trade Organisation, means a member of the World Trade Organisation which —
 
-(b) “exempted aircraft” means an aircraft to which section 5 of the Air Navigation Act (Cap. 6) applies.
+(a) is a least-developed country; or
 
-[UK Patents 1977, s. 60]
+(b) has given the Council for TRIPS the notification referred to in —
 
-[30/2001]
+(i) paragraph 1(b) of the Doha Declaration Implementation Decision; or
+
+(ii) paragraph 1(b) of the Annex to the TRIPS Agreement;
+
+“exempted aircraft” means an aircraft to which section 5 of the Air Navigation Act (Cap. 6) applies;
+
+“relevant ship” and “relevant aircraft, hovercraft or vehicle” mean, respectively, a ship and an aircraft, a hovercraft or a vehicle registered in, or belonging to, any country, other than Singapore, which is —
+
+(a) a party to the Paris Convention; or
+
+(b) a member of the World Trade Organisation.
+
+[18/2008 wef 01/12/2008]
 
 ### Proceedings for infringement of patent
 
@@ -2826,6 +2898,8 @@ AMENDMENTS OF PATENTS AND APPLICATIONS
 
 may be filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Ed.), or as mentioned in section 26(11), but shall not be allowed to proceed unless it is amended so as to exclude the additional matter.
 
+[2/2007 wef 01/04/2007]
+
 (1A) Where, in relation to an application for a patent —
 
 (a) the documents filed at the Registry to initiate the application contain —
@@ -2848,9 +2922,9 @@ the application shall not be allowed to proceed unless it is amended to exclude 
 
 (b) extends the protection conferred by the patent.
 
-[UK Patents 1977, s. 76]
-
 (4) In subsection (1A), “relevant application” has the same meaning as in section 17(5).
+
+[UK Patents 1977, s. 76]
 
 [2/2007 wef 01/04/2007]
 
@@ -2907,6 +2981,8 @@ by the applicant; or
 (ii) where, at the time of the request, the application has been published in accordance with the Patent Co-operation Treaty in a language other than English, and the application is not in English, file at the Registry an English translation of the application.
 
 [2/2007 wef 01/04/2007]
+
+(4) [Deleted by Act 2/2007 wef 01/04/2007]
 
 (5) If the prescribed period expires without the conditions mentioned in subsection (3)(a) being satisfied, the application shall be taken to be withdrawn.
 
@@ -3741,6 +3817,11 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 14/2006 published on 8 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 April 2007|
+|13.|**Act 18 of 2008—Patents (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 15/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|1 December 2008|
 ## COMPARATIVE TABLE
 
 Patents Act
