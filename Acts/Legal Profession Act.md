@@ -70,13 +70,15 @@
 
 - [25B Appeals in connection with issue of practising certificates](#Appeals-in-connection-with-issue-of-practising-certificates)
 
+- [25C Medical examination required in certain circumstances](#Medical-examination-required-in-certain-circumstances)
+
 - [26 Disqualification for practising certificates](#Disqualification-for-practising-certificates)
 
 - [27 Register of practitioners](#Register-of-practitioners)
 
 - [27A Imposition of conditions while practising certificates are in force](#Imposition-of-conditions-while-practising-certificates-are-in-force)
 
-- [27B Referral to Disciplinary Committee and suspension of practising certificates](#Referral-to-Disciplinary-Committee-and-suspension-of-practising-certificates)
+- [27B Referral to Disciplinary Tribunal and suspension of practising certificates](#Referral-to-Disciplinary-Tribunal-and-suspension-of-practising-certificates)
 
 - [28 Cancellation of practising certificates](#Cancellation-of-practising-certificates)
 
@@ -290,7 +292,7 @@
 
 - [82A Disciplinary proceedings against legal officers and non-practising solicitors](#Disciplinary-proceedings-against-legal-officers-and-non-practising-solicitors)
 
-- [83 Power to strike off rollor suspend or censure](#Power-to-strike-off-rollor-suspend-or-censure)
+- [83 Power to strike off roll, etc.](#Power-to-strike-off-roll-etc)
 
 - [84 Appointment of Inquiry Panel](#Appointment-of-Inquiry-Panel)
 
@@ -302,27 +304,31 @@
 
 - [88 Council’s power to order penalty](#Council’s-power-to-order-penalty)
 
-- [89 Application to appoint Disciplinary Committee](#Application-to-appoint-Disciplinary-Committee)
+- [89 Application to appoint Disciplinary Tribunal](#Application-to-appoint-Disciplinary-Tribunal)
 
-- [90 Appointment of Disciplinary Committee](#Appointment-of-Disciplinary-Committee)
+- [90 Appointment of Disciplinary Tribunal](#Appointment-of-Disciplinary-Tribunal)
 
-- [91 Proceedings and powers of Disciplinary Committee](#Proceedings-and-powers-of-Disciplinary-Committee)
+- [91 Proceedings and powers of Disciplinary Tribunal](#Proceedings-and-powers-of-Disciplinary-Tribunal)
+
+- [91A Restriction of judicial review](#Restriction-of-judicial-review)
 
 - [92 Complaint made by Judge or Attorney-General](#Complaint-made-by-Judge-or-Attorney-General)
 
-- [93 Findings of Disciplinary Committee](#Findings-of-Disciplinary-Committee)
+- [93 Findings of Disciplinary Tribunal](#Findings-of-Disciplinary-Tribunal)
 
 - [94 Society to apply to court if cause of sufficient gravity exists](#Society-to-apply-to-court-if-cause-of-sufficient-gravity-exists)
 
 - [94A Society to apply to court for cases involving fraud or dishonesty, or under section 33](#Society-to-apply-to-court-for-cases-involving-fraud-or-dishonesty-or-under-section-33)
 
-- [95 Provisions as to penalties](#Provisions-as-to-penalties)
+- [95 Provisions as to penalties ordered by Council](#Provisions-as-to-penalties-ordered-by-Council)
 
 - [96 Procedure for complainant dissatisfied with Council’s decision](#Procedure-for-complainant-dissatisfied-with-Council’s-decision)
 
-- [97 Procedure for complainant dissatisfied with Disciplinary Committee’s decision](#Procedure-for-complainant-dissatisfied-with-Disciplinary-Committee’s-decision)
+- [97 Application for review of Disciplinary Tribunal’s decision](#Application-for-review-of-Disciplinary-Tribunal’s-decision)
 
-- [98 Order to show cause](#Order-to-show-cause)
+- [98 Application for order that solicitor be struck off roll, etc](#Application-for-order-that-solicitor-be-struck-off-roll-etc)
+
+- [98A Provisions as to penalties ordered by court](#Provisions-as-to-penalties-ordered-by-court)
 
 - [99 Drawing up of order](#Drawing-up-of-order)
 
@@ -502,7 +508,7 @@ PRELIMINARY
 
 “client” includes —
 
-(a) in relation to contentious business, any person who, as principal or on behalf of another person, retains or employs, or is about to retain or employ, a solicitor, and any person who is or may be liable to pay a solicitor’s , a law corporation’s or a limited liability law partnership’s costs; and
+(a) in relation to contentious business, any person who, as principal or on behalf of another person, retains or employs, or is about to retain or employ, a solicitor, and any person who is or may be liable to pay a solicitor’s, a law corporation’s or a limited liability law partnership’s costs; and
 
 [41/2005 wef 04/12/2006]
 
@@ -526,7 +532,9 @@ PRELIMINARY
 
 “court” means the High Court or a Judge when sitting in open court;
 
-“Disciplinary Committee” means a committee appointed by the Chief Justice under section 90;
+“Disciplinary Tribunal” means a Disciplinary Tribunal appointed by the Chief Justice under section 90(1);
+
+[19/2008 wef 01/12/2008]
 
 “foreign law” means the law of any state or territory other than Singapore, and includes international law;
 
@@ -542,7 +550,9 @@ PRELIMINARY
 
 “law corporation” means a company approved as a law corporation under section 81B;
 
-“lay person”, in relation to an Inquiry Committee or Disciplinary Committee, means an architect, accountant, banker, company director, insurer, professional engineer, medical practitioner or a person who possesses such other qualifications as may be approved by the Chief Justice and the Attorney-General;
+“lay person”, in relation to the Inquiry Panel or an Inquiry Committee, means an architect, an accountant, a banker, a company director, an insurer, a professional engineer, a medical practitioner or any other person (not being an advocate and solicitor or a legal officer) who meets such criteria as may be approved by the Chief Justice and the Attorney-General;
+
+[19/2008 wef 01/12/2008]
 
 “legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
 
@@ -1098,15 +1108,9 @@ PRACTISING CERTIFICATES
 
 (ii) in a case where he is practising or intends to practise in a Singapore law practice, the name of the Singapore law practice in which he is or will be practising;
 
-[19/2008 wef 15/10/2008]
-
 (iii) in a case where he is registered by the Attorney-General under section 130N to practise Singapore law, and is practising or intends to practise Singapore law, in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice, the name of each Joint Law Venture and foreign law practice in which he is or will be practising; and
 
-[19/2008 wef 15/10/2008]
-
 (iv) the principal address, and every other address in Singapore, of each Singapore law practice, Joint Law Venture and foreign law practice in which he will be practising;
-
-[19/2008 wef 15/10/2008]
 
 (b) a certificate from the Council or such other evidence as the Registrar may require that —
 
@@ -1172,7 +1176,11 @@ PRACTISING CERTIFICATES
 
 (f) who has been found guilty of misconduct in any other professional capacity;
 
-(g) whom the Attorney-General or the Council is satisfied is incapacitated by illness or accident to such extent as to be unable to attend to his practice; or
+(fa) whose fitness to practise has been determined under section 25C to be impaired by reason of his physical or mental condition, or who, having been ordered by a Judge to submit to a medical examination under section 25C to be conducted within such period as the Judge may specify in the order, fails to do so;
+
+[19/2008 wef 01/12/2008]
+
+(g) whom the Attorney-General or the Council is satisfied is incapacitated by illness or accident, or by the solicitor’s physical or mental condition, to such extent as to be unable to attend to his practice; or
 
 [19/2008 wef 01/12/2008]
 
@@ -1198,8 +1206,6 @@ and the Registrar may, subject to subsections (6) and (7), comply with the reque
 
 (b) undertakes not to practise in any Singapore law practice while his practising certificate is in force.
 
-[19/2008 wef 15/10/2008]
-
 (3) Without prejudice to the generality of subsection (2)(b) —
 
 (a) conditions may be imposed under that subsection for requiring the applicant to take any specified steps that will, in the opinion of the Attorney-General or the Council, be conducive to his carrying on an efficient practice as a solicitor; and
@@ -1208,7 +1214,7 @@ and the Registrar may, subject to subsections (6) and (7), comply with the reque
 
 [40/96]
 
-(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in subsection (1)(c), (d), (e), (f), (g) or (h), the solicitor concerned may, upon proof of a change in the circumstances or for other good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
+(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in subsection (1)(c), (d), (e), (f), (fa), (g) or (h), the solicitor concerned may, upon proof of a change in the circumstances or for any good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
 
 [19/2008 wef 01/12/2008]
 
@@ -1233,8 +1239,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 (a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in subsection (1)(a) or (b); or
 
 (b) disciplinary proceedings against the solicitor under Part VII or section 130R by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
-
-[19/2008 wef 15/10/2008]
 
 [40/96]
 
@@ -1262,6 +1266,74 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 [40/96]
 
+### Medical examination required in certain circumstances
+
+25C\.—(1) If the Attorney-General or the Council is satisfied that a solicitor’s fitness to practise appears to have been impaired by reason of the solicitor’s physical or mental condition, the Attorney-General or the Council (as the case may be) may apply to a Judge by originating summons for an order that the solicitor submit to a medical examination.
+
+(2) An application under subsection (1) shall be served on the solicitor concerned.
+
+(3) If, on an application under subsection (1), the Judge is of the opinion that the solicitor’s fitness to practise appears to have been impaired by reason of the solicitor’s physical or mental condition, the Judge shall order the solicitor to submit to a medical examination to be conducted —
+
+(a) by a registered medical practitioner who meets such criteria as the Judge may, having regard to all the circumstances of the case, specify; and
+
+(b) within such period as the Judge may specify in the order.
+
+(4) The registered medical practitioner shall —
+
+(a) personally examine the solicitor;
+
+(b) determine whether the fitness of the solicitor to practise has been impaired by reason of the solicitor’s physical or mental condition; and
+
+(c) submit a report of his determination and the reasons for the determination, within 14 days from the date of the medical examination, to the solicitor, the Attorney-General and the Council.
+
+(5) In making his determination under subsection (4), the registered medical practitioner may have regard to —
+
+(a) his own observations;
+
+(b) the results of any tests carried out on the solicitor; and
+
+(c) any facts which are communicated to him by the Attorney-General, the Council or any other person.
+
+(6) The solicitor shall bear all costs of and incidental to his medical examination under this section, any tests carried out on him for the purposes of the medical examination and the report referred to in subsection (4)(c).
+
+(7) Without prejudice to subsections (1) to (6), if the Council is satisfied that a solicitor’s fitness to practise appears to have been impaired by reason of the solicitor’s physical or mental condition, the Council may direct the solicitor to stop practising until he has submitted to a medical examination.
+
+(8) Where the Council has given a solicitor a direction under subsection (7) —
+
+(a) the Council shall, not later than 7 days from the date the direction was given —
+
+(i) make an application under subsection (1) in relation to the solicitor; and
+
+(ii) serve that application on the solicitor;
+
+(b) the direction shall cease to have effect, if —
+
+(i) the Council fails to comply with paragraph (a); or
+
+(ii) the application referred to in paragraph (a) is dismissed;
+
+(c) the solicitor may, upon proof of a change in the circumstances or for any good cause —
+
+(i) inform the Council of the change or good cause and request that the Council’s direction be rescinded; or
+
+(ii) apply to a Judge for an order that the Council’s direction be set aside, such application to be made —
+
+(A) by summons, in a case where the Council has made an application under subsection (1) in relation to the solicitor; or
+
+(B) by originating summons, in any other case,
+
+and served on the Society; and
+
+(d) the solicitor shall comply with the Council’s direction until it ceases to have effect under paragraph (b) or is rescinded by the Council or set aside by a Judge.
+
+(9) Notwithstanding anything in this section, the Council shall not be entitled to make any application under subsection (1) in relation to a solicitor, or to give any direction under subsection (7) to a solicitor, without the consent of the Attorney-General, if the solicitor —
+
+(a) is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice; and
+
+(b) does not practise in any Singapore law practice.
+
+[19/2008 wef 01/12/2008]
+
 ### Disqualification for practising certificates
 
 26\.—(1) No solicitor shall apply for a practising certificate —
@@ -1274,7 +1346,13 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (iii) he is practising or intends to practise as a locum solicitor;
 
-[19/2008 wef 15/10/2008]
+(b) [Deleted by Act 19/2008 wef 15/10/2008]
+
+(ba) [Deleted by Act 19/2008 wef 15/10/2008]
+
+(c) [Deleted by Act 19/2008 wef 15/10/2008]
+
+(ca) [Deleted by Act 19/2008 wef 15/10/2008]
 
 (d) if he has, for a period of 3 years or more, held office as a Judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
 
@@ -1293,8 +1371,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 (a) has, for a period of not less than 3 years in the aggregate in the 5 years immediately preceding the application —
 
 (i) practised as a solicitor in a Singapore law practice; or
-
-[19/2008 wef 15/10/2008]
 
 (ii) been employed as a legal officer;
 
@@ -1386,9 +1462,7 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 (c) undertakes not to practise in any Singapore law practice while his practising certificate remains in force.
 
-[19/2008 wef 15/10/2008]
-
-(2) Where an order under subsection (1) has been made against a solicitor by reason only of any such circumstances as are mentioned in section 25A(1)(c), (d), (e), (f), (g) or (h), the solicitor may, upon proof of a change in the circumstances or for other good cause, apply to a Judge by summons for a reconsideration of the matter.
+(2) Where an order under subsection (1) has been made against a solicitor by reason only of any such circumstances as are mentioned in section 25A(1)(c), (d), (e), (f), (fa), (g) or (h), the solicitor may, upon proof of a change in the circumstances or for any good cause, apply to a Judge by summons for a reconsideration of the matter.
 
 [19/2008 wef 01/12/2008]
 
@@ -1410,15 +1484,35 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 [40/96]
 
-### Referral to Disciplinary Committee and suspension of practising certificates
+### Referral to Disciplinary Tribunal and suspension of practising certificates
 
-27B\.—(1) Upon an application to a Judge by the Attorney-General or the Council, or on the hearing by a Judge of an application made under section 27A, the Judge may, where he is satisfied that cause of sufficient gravity for disciplinary action against the solicitor exists —
+27B\.—(1) Subject to subsection (1A), upon an application to a Judge by the Attorney-General or the Council, or on the hearing by a Judge of an application made under section 27A, the Judge may —
 
-(a) request the Society under section 85(3)(b) to refer the matter to a Disciplinary Committee unless the matter had been or is being dealt with under Part VII or is to be dealt with under section 94A; and
+(a) where the Judge is satisfied that cause of sufficient gravity for disciplinary action against a solicitor exists —
 
-(b) order that the solicitor’s current practising certificate be suspended.
+(i) request the Society under section 85(3)(b) to refer the matter to a Disciplinary Tribunal unless the matter had been or is being dealt with under Part VII or is to be dealt with under section 94A; and
 
-[40/96]
+(ii) order that the solicitor’s current practising certificate be suspended; or
+
+(b) order that a solicitor’s current practising certificate be suspended, if —
+
+(i) the solicitor’s fitness to practise has been determined under section 25C to be impaired by reason of the solicitor’s physical or mental condition;
+
+(ii) the solicitor, having been ordered by a Judge to submit to a medical examination under section 25C to be conducted within such period as the Judge may specify in the order, fails to do so; or
+
+(iii) the Judge is satisfied that the solicitor is incapacitated by illness or accident, or by the solicitor’s physical or mental condition, to such extent as to be unable to attend to the solicitor’s practice.
+
+[19/2008 wef 01/12/2008]
+
+(1A) The Council shall not be entitled to make an application under subsection (1) in relation to a solicitor without the consent of the Attorney-General, if the solicitor —
+
+(a) is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice;
+
+(b) does not practise in any Singapore law practice; and
+
+(c) undertakes not to practise in any Singapore law practice while his practising certificate remains in force.
+
+[19/2008 wef 01/12/2008]
 
 (2) Any application by the Attorney-General or the Council under subsection (1) shall be made by originating summons which shall be served on the solicitor.
 
@@ -1428,19 +1522,19 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 [40/96]
 
-(4) If —
+(4) If, in a case where a Judge has made an order under subsection (1)(a)(ii) suspending a solicitor’s current practising certificate —
 
-(a) the Disciplinary Committee determines under section 93(1)(a) that no cause of sufficient gravity for disciplinary action against the solicitor exists under section 83 or determines under section 93(1)(b) that the solicitor should be reprimanded;
+(a) the Disciplinary Tribunal determines under section 93(1)(a) that no cause of sufficient gravity for disciplinary action against the solicitor exists under section 83 or determines under section 93(1)(b) that the solicitor should be reprimanded;
 
 [19/2008 wef 01/12/2008]
 
-(b) the application under section 98(1) for an order against the solicitor to show cause is withdrawn or dismissed;
+(b) the application made against the solicitor under section 98(1) is withdrawn or dismissed; or
 
-(c) the application under section 98(5) to make a final order pursuant to an order against the solicitor to show cause is withdrawn or discharged; or
+[19/2008 wef 01/12/2008]
 
-[42/2005 wef 01/01/2006]
+(c) an order has been made under section 98 that the solicitor be struck off the roll, suspended from practice or censured, or that the solicitor pay a penalty,
 
-(d) a final order has been made against the solicitor pursuant to an order to show cause,
+[19/2008 wef 01/12/2008]
 
 the suspension of the practising certificate of the solicitor shall terminate immediately.
 
@@ -1448,7 +1542,7 @@ the suspension of the practising certificate of the solicitor shall terminate im
 
 [40/96]
 
-(5) Nothing in subsection (4) shall be construed as affecting the power of the court of 3 Judges of the Supreme Court to suspend a solicitor from practice on an application to make a final order pursuant to an order to show cause under section 98.
+(5) Nothing in subsection (4) shall be construed as affecting the power of the court of 3 Judges of the Supreme Court to suspend a solicitor from practice on an application under section 98(1).
 
 [42/2005 wef 01/01/2006]
 
@@ -1514,8 +1608,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (5) The appointment of a Senior Counsel shall be deemed to be revoked if the Senior Counsel —
 
-(a) is suspended from practice or struck off the roll;
-
 (b) being a legal officer, is dismissed from the Singapore Legal Service;
 
 (c) being a member of the Faculty of Law of the National University of Singapore or the Faculty of Law of the Singapore Management University, is dismissed from the Faculty;
@@ -1531,6 +1623,14 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (g) enters into a composition with his creditors or a deed of arrangement with his creditors.
 
 [40/96]
+
+(5A) The appointment of a Senior Counsel shall be deemed to be revoked if, upon an application under section 82A(10) or 98(1) —
+
+(a) the Senior Counsel is suspended from practice or struck off the roll; or
+
+(b) a court of 3 Judges of the Supreme Court recommends that the appointment of the Senior Counsel be revoked.
+
+[19/2008 wef 01/12/2008]
 
 (6) No person shall be appointed as a Senior Counsel unless he has for an aggregate period of not less than 10 years been an advocate and solicitor or a legal officer or both.
 
@@ -3394,7 +3494,7 @@ DISCIPLINARY PROCEEDINGS
 
 ### Disciplinary proceedings against legal officers and non-practising solicitors
 
-82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 94A, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
+82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 91A, 94A, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
 
 [20/2007 wef 01/06/2007]
 
@@ -3412,13 +3512,13 @@ DISCIPLINARY PROCEEDINGS
 
 [15/95]
 
-(4) No application for an order to show cause under this section shall be made unless leave has been granted by the Chief Justice for an investigation to be made into the complaint of misconduct against the legal officer or non-practising solicitor concerned.
+(4) No application for a legal officer or non-practising solicitor to be punished under this section shall be made unless leave has been granted by the Chief Justice for an investigation to be made into the complaint of misconduct against the legal officer or non-practising solicitor concerned.
 
 [19/2008 wef 01/12/2008]
 
 (5) An application for such leave shall be made by ex parte originating summons and shall be accompanied by an affidavit setting out the allegations of misconduct against the legal officer or non-practising solicitor.
 
-(6) Where the Chief Justice is of the opinion that the applicant has made out a prima facie case for an investigation into his complaint, the Chief Justice may grant such leave and appoint a Disciplinary Committee under section 90.
+(6) Where the Chief Justice is of the opinion that the applicant has made out a prima facie case for an investigation into his complaint, the Chief Justice may grant such leave and appoint a Disciplinary Tribunal under section 90.
 
 [19/2008 wef 01/12/2008]
 
@@ -3428,19 +3528,17 @@ DISCIPLINARY PROCEEDINGS
 
 (b) where the complaint relates to any fraud alleged to have been committed by the legal officer or non-practising solicitor, 6 years from the earliest date on which the applicant discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
 
-[19/2008 wef 15/10/2008]
-
-(7) The Disciplinary Committee shall hear and investigate into the complaint and submit its findings of fact and law in the form of a report to the Chief Justice.
+(7) The Disciplinary Tribunal shall hear and investigate into the complaint and submit its findings of fact and law in the form of a report to the Chief Justice.
 
 [19/2008 wef 01/12/2008]
 
 (8) A copy of the report shall be supplied to the legal officer or non-practising solicitor concerned, and to the Attorney-General if the report relates to a legal officer.
 
-(9) Where the Disciplinary Committee finds that no cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice shall dismiss the complaint.
+(9) Where the Disciplinary Tribunal finds that no cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice shall dismiss the complaint.
 
 [19/2008 wef 01/12/2008]
 
-(10) Where the Disciplinary Committee finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by summons in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished.
+(10) Where the Disciplinary Tribunal finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by summons in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished.
 
 [42/2005 wef 01/01/2006]
 
@@ -3456,23 +3554,39 @@ DISCIPLINARY PROCEEDINGS
 
 (c) order that his name be struck off the roll;
 
-(d) order him to pay a penalty of not more than $5,000 ; or
+(d) order him to pay a penalty of not more than $20,000; or
 
 [19/2008 wef 01/12/2008]
 
 (e) make such other order as it thinks fit.
 
-(13) The costs of and incidental to all proceedings under this section shall be in the discretion of the Judge or of the court before whom the hearing has taken place.
+(13) The costs of and incidental to any proceedings under this section shall be in the discretion of the Disciplinary Tribunal, Judge or court hearing those proceedings.
+
+[19/2008 wef 01/12/2008]
+
+(13A) A Disciplinary Tribunal may, in making any order on costs under subsection (13), specify the amount of those costs or direct that the amount be taxed by the Registrar.
+
+[19/2008 wef 01/12/2008]
 
 (14) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of Court (Cap. 322, R 5) may be followed as nearly as the circumstances permit.
 
 (15) For the avoidance of doubt, nothing in this section shall prevent any legal officer from being subject to disciplinary action by the Legal Service Commission for any act or omission which constitutes a disciplinary offence under this section.
 
-### Power to strike off rollor suspend or censure
+### Power to strike off roll, etc.
 
-83\.—(1) All advocates and solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown to be struck off the roll or suspended from practice for any period not exceeding 5 years or censured.
+83\.—(1) All advocates and solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown —
 
-[41/93]
+(a) to be struck off the roll;
+
+(b) to be suspended from practice for a period not exceeding 5 years;
+
+(c) to pay a penalty of not more than $100,000;
+
+(d) to be censured; or
+
+(e) to suffer the punishment referred to in paragraph (c) in addition to the punishment referred to in paragraph (b) or (d).
+
+[19/2008 wef 01/12/2008]
 
 (2) Such due cause may be shown by proof that an advocate and solicitor —
 
@@ -3508,7 +3622,7 @@ DISCIPLINARY PROCEEDINGS
 
 (5) In any proceedings under this Part, the court may in addition to the facts of the case take into account the past conduct of the person concerned in order to determine what order should be made.
 
-(6) In any proceedings instituted under this Part against an advocate and solicitor consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Committee and a court of 3 Judges of the Supreme Court referred to in section 98 shall accept his conviction as final and conclusive.
+(6) In any proceedings instituted under this Part against an advocate and solicitor consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Tribunal and a court of 3 Judges of the Supreme Court referred to in section 98 shall accept his conviction as final and conclusive.
 
 [19/2008 wef 01/12/2008]
 
@@ -3532,8 +3646,6 @@ DISCIPLINARY PROCEEDINGS
 
 (5) The Chief Justice shall appoint, from among the members of the Inquiry Panel who are advocates and solicitors of not less than 12 years’ standing, the Chairman and the Deputy Chairman of the Inquiry Panel.
 
-[19/2008 wef 15/10/2008]
-
 ### Complaints against advocates and solicitors
 
 85\.—(1) Any complaint of the conduct of an advocate and solicitor —
@@ -3548,11 +3660,7 @@ DISCIPLINARY PROCEEDINGS
 
 (c) shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint is made by any public officer.
 
-[19/2008 wef 15/10/2008]
-
 (1A) Subject to subsection (4A), the Council shall refer every complaint which satisfies the requirements of subsection (1) to the Chairman of the Inquiry Panel.
-
-[19/2008 wef 15/10/2008]
 
 (2) The Council may on its own motion refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel.
 
@@ -3562,7 +3670,7 @@ DISCIPLINARY PROCEEDINGS
 
 (a) refer the matter to the Chairman of the Inquiry Panel; or
 
-(b) where the Judge or the Attorney-General requests that the matter be referred to a Disciplinary Committee, apply to the Chief Justice to appoint a Disciplinary Committee.
+(b) where the Judge or the Attorney-General requests that the matter be referred to a Disciplinary Tribunal, apply to the Chief Justice to appoint a Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
 
@@ -3574,13 +3682,9 @@ DISCIPLINARY PROCEEDINGS
 
 (b) if the Attorney-General directs the Council not to proceed in accordance with this section, the Council shall refer the complaint or information to the Attorney-General as a complaint under section 130R instead of proceeding in accordance with this section.
 
-[19/2008 wef 15/10/2008]
-
 (3B) Where any conduct of an advocate and solicitor registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice has given rise to any proceedings under this Part, those proceedings, and any decision, determination or order arising from those proceedings, shall not in any way affect the jurisdiction of the Attorney-General under Part IXA to take such action as he deems appropriate against the advocate and solicitor in respect of the same conduct.
 
-[19/2008 wef 15/10/2008]
-
-(4) Notwithstanding subsections (1A), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Committee under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
+(4) Notwithstanding subsections (1A), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Tribunal under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
 
 [19/2008 wef 01/12/2008]
 
@@ -3594,23 +3698,17 @@ DISCIPLINARY PROCEEDINGS
 
 (b) where the complaint relates to any fraud alleged to have been committed by the advocate and solicitor, 6 years from the earliest date on which the complainant discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
 
-[19/2008 wef 15/10/2008]
-
 (4B) Subject to subsection (4C), the Council shall not refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (2) after the expiration of the period of —
 
 (a) 6 years from the date of the conduct; or
 
 (b) where the information relates to any fraud alleged to have been committed by the advocate and solicitor, 6 years from the earliest date on which the Council discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
 
-[19/2008 wef 15/10/2008]
-
 (4C) The Council may, with the leave of the court —
 
 (a) refer a complaint of the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (1A) after the expiration of the period referred to in subsection (4A); or
 
 (b) refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel under subsection (2) after the expiration of the period referred to in subsection (4B).
-
-[19/2008 wef 15/10/2008]
 
 (4D) An application for the leave of the court under subsection (4C) shall be —
 
@@ -3630,11 +3728,7 @@ as the case may be;
 
 (iii) explaining why the complaint or information, as the case may be, should be referred to the Chairman of the Inquiry Panel, notwithstanding the expiration of the period referred to in subsection (4A) or (4B), as the case may be.
 
-[19/2008 wef 15/10/2008]
-
 (4E) The application and affidavit referred to in subsection (4D) shall be served on the advocate and solicitor concerned.
-
-[19/2008 wef 15/10/2008]
 
 (5) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel, the Council shall inform the advocate and solicitor concerned that it has done so.
 
@@ -3647,8 +3741,6 @@ as the case may be;
 (b) a legal officer who has not less than 10 years’ experience,
 
 to review the complaint or information, and such review by the Review Committee shall start within 2 weeks of its constitution.
-
-[19/2008 wef 15/10/2008]
 
 (7) A Review Committee may, in the course of a review under subsection (6), require the complainant or the advocate and solicitor concerned to answer any inquiry or to furnish any record that the Review Committee considers relevant for the purpose of the review.
 
@@ -3666,8 +3758,6 @@ to review the complaint or information, and such review by the Review Committee 
 
 (8A) The Chairman or Deputy Chairman of the Inquiry Panel may, on the application in writing of a Review Committee, grant to the Review Committee an extension of the period specified in subsection (8) if he is satisfied that the circumstances of the case justify the grant of the extension, except that any extension granted shall not extend beyond a period of 6 weeks from the date of the constitution of the Review Committee.
 
-[19/2008 wef 15/10/2008]
-
 (9) The Council shall, within 7 days of receiving any direction under subsection (8)(a) —
 
 (a) give effect to the direction to dismiss the matter; and
@@ -3679,8 +3769,6 @@ to review the complaint or information, and such review by the Review Committee 
 (10) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred back to the Chairman of the Inquiry Panel under subsection (8)(b), the Chairman or Deputy Chairman of the Inquiry Panel shall, within 3 weeks, constitute an Inquiry Committee consisting of —
 
 (a) a chairman, being a member of the Inquiry Panel who is an advocate and solicitor of not less than 12 years’ standing;
-
-[19/2008 wef 15/10/2008]
 
 (b) a member of the Inquiry Panel who is an advocate and solicitor;
 
@@ -3722,8 +3810,6 @@ to inquire into the complaint or information.
 
 (17) Any person who makes a complaint to the Society under this Part shall furnish to the Chairman or Deputy Chairman of the Inquiry Panel, or the chairman of a Review Committee or of an Inquiry Committee, such statutory declarations or affidavits in support of the complaint as that Chairman, Deputy Chairman or chairman may require within such time as that Chairman, Deputy Chairman or chairman may specify.
 
-[19/2008 wef 15/10/2008]
-
 (17A) Where a complaint is made to the Society under this Part, and the whole or any part of the complaint or any document furnished in support of the complaint is in a language other than English —
 
 (a) the complainant shall furnish to the Society an English translation of that whole or part of the complaint or document which is verified by the affidavit of a person qualified to translate it; or
@@ -3733,8 +3819,6 @@ to inquire into the complaint or information.
 (i) may arrange for the translation into English of that whole or part of the complaint or document; and
 
 (ii) shall be entitled to recover from the complainant all reasonable costs of such translation as if they were a debt due to the Society.
-
-[19/2008 wef 15/10/2008]
 
 (17B) Where any voice recording is tendered in support of a complaint made to the Society under this Part —
 
@@ -3749,8 +3833,6 @@ to inquire into the complaint or information.
 (i) may arrange for the transcription of the recording and, if the transcript of the recording is in a language other than English, the translation into English of the transcript of the recording; and
 
 (ii) shall be entitled to recover from the complainant all reasonable costs of such transcription and translation as if they were a debt due to the Society.
-
-[19/2008 wef 15/10/2008]
 
 (18) An Inquiry Committee may require any person making a complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $1,000 to cover costs.
 
@@ -3770,8 +3852,6 @@ to inquire into the complaint or information.
 
 (c) if no sum has been deposited under subsection (18), or if any sum deposited under subsection (18) is insufficient to cover those costs, the person awarded those costs may sue for and recover the costs which remain unpaid as if they were a debt due to him.
 
-[19/2008 wef 15/10/2008]
-
 (19A) Where —
 
 (a) an Inquiry Committee has made any order under subsection (19)(a); and
@@ -3780,23 +3860,17 @@ to inquire into the complaint or information.
 
 the complainant may, within 14 days of being notified of that order, apply to a Judge for a review of that order.
 
-[19/2008 wef 15/10/2008]
-
 (19B) An application under subsection (19A) shall be —
 
 (a) made by originating summons; and
 
 (b) served on the Society and on every person against whom any relief is sought.
 
-[19/2008 wef 15/10/2008]
-
 (19C) At the hearing of an application under subsection (19A), the Judge may —
 
 (a) affirm, vary or set aside the order of the Inquiry Committee; and
 
 (b) make such order for the payment of costs as may be just.
-
-[19/2008 wef 15/10/2008]
 
 (20) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Council has decided that the Inquiry Committee of which he is a member has completed its work.
 
@@ -3821,8 +3895,6 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 [15/89]
 
 (3) The Chairman or Deputy Chairman of the Inquiry Panel may grant an extension of time to an Inquiry Committee to report its findings to the Council if he is satisfied that the circumstances of the case justify the grant of an extension of time, except that any extension of time granted shall not extend beyond the period of 6 months from the date of the appointment of that Inquiry Committee.
-
-[19/2008 wef 15/10/2008]
 
 [15/89]
 
@@ -3850,13 +3922,17 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 [15/89; 41/93]
 
-(7) The report of the Inquiry Committee shall, among other things, deal with the question of the necessity or otherwise of a formal investigation by a Disciplinary Committee and, if in the view of the Inquiry Committee no formal investigation by a Disciplinary Committee is required, the Inquiry Committee shall recommend to the Council —
+(7) The report of the Inquiry Committee shall, among other things, deal with the question of the necessity or otherwise of a formal investigation by a Disciplinary Tribunal, and the Inquiry Committee shall recommend to the Council —
 
-(a) a penalty sufficient and appropriate to the misconduct committed; or
+(a) if the Inquiry Committee is of the view that there should be a formal investigation by a Disciplinary Tribunal, the charge or charges to be preferred against the advocate and solicitor with respect to the misconduct committed; or
 
-(b) that the complaint be dismissed.
+(b) if the Inquiry Committee is of the view that no formal investigation by a Disciplinary Tribunal is required —
 
-[15/89]
+(i) a penalty sufficient and appropriate to the misconduct committed; or
+
+(ii) that the complaint be dismissed.
+
+[19/2008 wef 01/12/2008]
 
 (8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which may give rise to proceedings under this Part, the Inquiry Committee may, after giving notice to him, decide on its own motion to inquire into that matter and report its findings to the Council.
 
@@ -3870,7 +3946,7 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 [41/93]
 
-(11) Subsections (2) to (6) of section 91 shall apply, with the necessary modifications, in relation to an Inquiry Committee as they apply in relation to a Disciplinary Committee and the references in those subsections to a Disciplinary Committee shall be read as references to an Inquiry Committee.
+(11) Subsections (2) to (6) of section 91 shall apply, with the necessary modifications, in relation to an Inquiry Committee as they apply in relation to a Disciplinary Tribunal and the references in those subsections to a Disciplinary Tribunal shall be read as references to an Inquiry Committee.
 
 [19/2008 wef 01/12/2008]
 
@@ -3890,11 +3966,7 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (iii) by way of a statutory declaration or an affidavit.
 
-[19/2008 wef 15/10/2008]
-
 (13) Any person who refuses or fails, without lawful excuse, to comply with any requirement of an Inquiry Committee under subsection (12)(b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-[19/2008 wef 15/10/2008]
 
 ### Council’s consideration of report
 
@@ -3904,7 +3976,7 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (b) that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty under section 88;
 
-(c) that there should be a formal investigation by a Disciplinary Committee; or
+(c) that there should be a formal investigation by a Disciplinary Tribunal; or
 
 [19/2008 wef 01/12/2008]
 
@@ -3922,17 +3994,13 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (c) subsection (1)(a), (b) and (c) shall apply, with the necessary modifications, in relation to the response or further report of the Inquiry Committee as it applies in relation to the report of the Inquiry Committee.
 
-[19/2008 wef 15/10/2008]
-
 (2) If the Inquiry Committee in its report, read with any response or further report submitted under subsection (1A)(b), recommends —
 
 (a) that there should be a formal investigation, then the Council shall determine accordingly under subsection (1); or
 
-(b) that a formal investigation by a Disciplinary Committee is not necessary, the Council may, if it disagrees with the recommendation, request the Chief Justice to appoint a Disciplinary Committee .
+(b) that a formal investigation by a Disciplinary Tribunal is not necessary, the Council may, if it disagrees with the recommendation, request the Chief Justice to appoint a Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
-
-[19/2008 wef 15/10/2008]
 
 (3) Where the report of the Inquiry Committee, read with any response or further report of the Inquiry Committee submitted under subsection (1A)(b), discloses the commission of —
 
@@ -3942,17 +4010,13 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 [41/93]
 
-[19/2008 wef 15/10/2008]
-
 (4) The Council shall inform the advocate and solicitor and the person who made the complaint of the manner in which it has determined the complaint within 14 days of the determination, and in the event of the determination being that a formal investigation is unnecessary, the Council shall on the request of the person furnish him with its reasons in writing.
-
-[19/2008 wef 15/10/2008]
 
 [41/93]
 
 ### Council’s power to order penalty
 
-88\.—(1) If the Council determines under section 87 that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty, it may order the advocate and solicitor to pay a penalty of not more than $5,000 .
+88\.—(1) If the Council determines under section 87 that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty, it may order the advocate and solicitor to pay a penalty of not more than $10,000.
 
 [19/2008 wef 01/12/2008]
 
@@ -3978,9 +4042,9 @@ the Council shall, at the expense of the advocate and solicitor, publish in theG
 
 [41/93]
 
-### Application to appoint Disciplinary Committee
+### Application to appoint Disciplinary Tribunal
 
-89\.—(1) Where the Council determines under section 87 that there should be a formal investigation, the Council shall immediately apply to the Chief Justice to appoint a Disciplinary Committee which shall hear and investigate the matter.
+89\.—(1) Where the Council determines under section 87 that there should be a formal investigation, the Council shall within 4 weeks apply to the Chief Justice to appoint a Disciplinary Tribunal which shall hear and investigate the matter.
 
 [19/2008 wef 01/12/2008]
 
@@ -3990,79 +4054,93 @@ the Council shall, at the expense of the advocate and solicitor, publish in theG
 
 [30/86; 41/93]
 
-(3) Where a Disciplinary Committee has been appointed to hear and investigate any matter against an advocate and solicitor under subsection (1) and before the commencement of the hearing of and investigation into that matter there is any other matter pending against the advocate and solicitor, the Chief Justice may, on the application of the Council, direct that Disciplinary Committee to hear and investigate the other matter or matters.
+(3) Where a Disciplinary Tribunal has been appointed to hear and investigate any matter against an advocate and solicitor under subsection (1) and before the commencement of the hearing of and investigation into that matter there is any other matter pending against the advocate and solicitor, the Chief Justice may, on the application of the Council, direct that Disciplinary Tribunal to hear and investigate the other matter or matters.
 
 [19/2008 wef 01/12/2008]
 
 [30/86; 41/93]
 
-(4) Where, in the course of its investigation of any matter against an advocate and solicitor referred to it under subsection (1) or (3), a Disciplinary Committee receives information touching on or evidence of the conduct of the advocate and solicitor which may give rise to proceedings under this Part, the Disciplinary Committee may, on the application of the Council, prefer such additional charge against the advocate and solicitor as it thinks fit with respect to such misconduct and, after giving notice to him, hear and investigate such charge and section 93 shall apply to such charge accordingly.
+(4) Where, in the course of its investigation of any matter against an advocate and solicitor referred to it under subsection (1) or (3), a Disciplinary Tribunal receives information touching on or evidence of the conduct of the advocate and solicitor which may give rise to proceedings under this Part, the Disciplinary Tribunal may, on the application of the Council, prefer such additional charge against the advocate and solicitor as it thinks fit with respect to such misconduct and, after giving notice to him, hear and investigate such charge and section 93 shall apply to such charge accordingly.
 
 [19/2008 wef 01/12/2008]
 
 [41/93]
 
-### Appointment of Disciplinary Committee
+### Appointment of Disciplinary Tribunal
 
-90\.—(1) The Chief Justice may from time to time appoint one or more committees comprising —
+90\.—(1) The Chief Justice may from time to time appoint one or more Disciplinary Tribunals, each comprising —
 
-(a) a chairman from a panel appointed by the Chief Justice, being retired Judges or persons who have had not less than 12 years’ standing as advocates and solicitors;
+(a) a president, who shall be an advocate and solicitor who is a Senior Counsel or who has at any time held office as a Judge or Judicial Commissioner of the Supreme Court; and
 
-(b) an advocate and solicitor who has in force a practising certificate;
+(b) an advocate and solicitor of not less than 12 years’ standing.
 
-(c) a legal officer who has at least 10 years’ experience; and
+[19/2008 wef 01/12/2008]
 
-(d) a member of the Inquiry Panel who is a lay person,
-
-to be known for the purposes of this Act as Disciplinary Committees.
-
-[30/86; 35/2001]
-
-(2) A Disciplinary Committee shall be appointed in connection with one or more matters or for a fixed period of time or as the Chief Justice may think fit.
+(2) A Disciplinary Tribunal shall be appointed in connection with one or more matters or for a fixed period of time or as the Chief Justice may think fit.
 
 [19/2008 wef 01/12/2008]
 
 [30/86]
 
-(3) The Chief Justice may at any time revoke the appointment of any Disciplinary Committee or remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
+(3) The Chief Justice may at any time —
 
-[30/86]
+(a) revoke the appointment of the Disciplinary Tribunal;
 
-(4) Every Disciplinary Committee shall appoint a solicitor to be the secretary of that Disciplinary Committee.
+(b) remove any member of the Disciplinary Tribunal; or
 
-(5) The production of any written instrument purporting to be signed by the Chief Justice and making an appointment, revocation or removal referred to in this section shall be evidence that such appointment, revocation or removal has been duly made.
+(c) fill any vacancy in the Disciplinary Tribunal.
 
-(6) The lay person who is a member of a Disciplinary Committee shall not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee.
+[19/2008 wef 01/12/2008]
 
-[30/86]
+(4) Without prejudice to the generality of subsection (3), where, after a Disciplinary Tribunal has commenced the hearing and investigation of any matter, any member of the Disciplinary Tribunal is unable through death, illness or other cause to conclude the hearing and investigation of the matter —
 
-(7) Except as provided in subsection (6), all members of a Disciplinary Committee shall be personally present to constitute a quorum for the transaction of any business.
+(a) the Chief Justice may fill the vacancy or appoint another Disciplinary Tribunal to continue the hearing and investigation of the matter; and
 
-[30/86]
+(b) the Disciplinary Tribunal so reconstituted or appointed may —
 
-(8) Any question arising at any meeting of a Disciplinary Committee shall be determined by a majority of votes of the members of the Committee, and in the case of an equality of votes, the chairman of the Committee shall have a second or casting vote.
+(i) with the consent of —
 
-[35/2001]
+(A) the Society or, if the person making the complaint has conduct of the proceedings before the Disciplinary Tribunal, that person; and
 
-(9) A member of a Disciplinary Committee appointed under subsection (1)(a) who is not a practising advocate and solicitor shall be paid for each case such remuneration as the Chief Justice may determine.
+(B) the solicitor to whom the complaint relates,
 
-[30/86]
+have regard to the evidence given, the arguments adduced and any orders made during the proceedings before the previous Disciplinary Tribunal; or
 
-### Proceedings and powers of Disciplinary Committee
+(ii) hear and investigate the matter afresh.
 
-91\.—(1) The Rules Committee may from time to time make rules for regulating the hearing and investigation of matters before or by a Disciplinary Committee.
+[19/2008 wef 01/12/2008]
+
+(5) The Chief Justice shall appoint a solicitor to be the secretary of every Disciplinary Tribunal.
+
+[19/2008 wef 01/12/2008]
+
+(6) The production of any written instrument purporting to be signed by the Chief Justice and making an appointment, revocation or removal referred to in this section shall be evidence that such appointment or revocation has been duly made.
+
+[19/2008 wef 01/12/2008]
+
+(7) Every member of a Disciplinary Tribunal appointed under subsection (1), and the secretary of every Disciplinary Tribunal appointed under subsection (5), shall be paid for each case such remuneration as the Chief Justice may determine.
+
+[19/2008 wef 01/12/2008]
+
+### Proceedings and powers of Disciplinary Tribunal
+
+91\.—(1) The Rules Committee may from time to time make rules for regulating the hearing and investigation of matters before or by a Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
 
 [30/86; 15/89]
 
-(2) For the purpose of any complaint or matter heard and investigated by a Disciplinary Committee under this Act —
-
-(a) the Disciplinary Committee may administer oaths; and
+(1A) If the members of a Disciplinary Tribunal are unable to reach a unanimous decision on any matter, the matter shall be decided in accordance with the decision of the president of the Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
 
-(b) the Society or the person making the complaint and the solicitor to whom the complaint relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out subpoenas to testify or to produce documents.
+(2) For the purpose of any complaint or matter heard and investigated by a Disciplinary Tribunal under this Act —
+
+(a) the Disciplinary Tribunal may administer oaths; and
+
+[19/2008 wef 01/12/2008]
+
+(b) the Society or the person making the complaint and the solicitor to whom the complaint relates and (if so instructed by the Disciplinary Tribunal) the secretary of the Disciplinary Tribunal may sue out subpoenas to testify or to produce documents.
 
 [42/2005 wef 01/01/2006]
 
@@ -4078,17 +4156,29 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [42/2005 wef 01/01/2006]
 
-(5) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
+(5) Any person giving evidence before a Disciplinary Tribunal shall be legally bound to tell the truth.
 
 [19/2008 wef 01/12/2008]
 
-(6) No fees or other charges shall be payable for any subpoena sued out by the secretary of the Disciplinary Committee under subsection (2)(b).
+(6) No fees or other charges shall be payable for any subpoena sued out by the secretary of the Disciplinary Tribunal under subsection (2)(b).
 
 [42/2005 wef 01/01/2006]
 
 [19/2008 wef 01/12/2008]
 
-(7) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Committee taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include any such investigation as aforesaid.
+(7) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Tribunal taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include any such investigation as aforesaid.
+
+[19/2008 wef 01/12/2008]
+
+### Restriction of judicial review
+
+91A\.—(1) Except as provided in sections 82A, 97 and 98, there shall be no judicial review in any court of any act done or decision made by the Disciplinary Tribunal.
+
+(2) In this section, “judicial review” includes proceedings instituted by way of —
+
+(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order; and
+
+(b) an application for a declaration or an injunction, or any other suit or action, relating to or arising out of any act done or decision made by the Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
 
@@ -4098,9 +4188,9 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [30/86; 41/93; 35/2001]
 
-### Findings of Disciplinary Committee
+### Findings of Disciplinary Tribunal
 
-93\.—(1) After hearing and investigating any matter referred to it, a Disciplinary Committee shall record its findings in relation to the facts of the case and according to those facts shall determine —
+93\.—(1) After hearing and investigating any matter referred to it, a Disciplinary Tribunal shall record its findings in relation to the facts of the case and according to those facts shall determine —
 
 (a) that no cause of sufficient gravity for disciplinary action exists under section 83;
 
@@ -4112,19 +4202,31 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [35/2001]
 
-(2) In the event of the Disciplinary Committee making a determination under subsection (1)(b) or (c), the Committee may make an order for payment by any party of costs, and may, in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar.
+(2) Where a Disciplinary Tribunal makes a determination under subsection (1)(b) or (c), the Disciplinary Tribunal may make an order for payment by any party of costs, and may, in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar.
 
 [19/2008 wef 01/12/2008]
 
 [19/2008 wef 19/09/2008]
 
-(3) A Disciplinary Committee shall carry out its work expeditiously and the Society may apply to the Chief Justice for directions to be given to the Disciplinary Committee if the Disciplinary Committee fails to make any finding and determination within 6 months from the date of its appointment.
+(2A) Where a Disciplinary Tribunal makes a determination under subsection (1)(a) and further records the opinion that the complaint was frivolous or vexatious, the Disciplinary Tribunal may, after hearing the person who made the complaint (if he desires to be heard) —
+
+(a) order that the costs of the complaint shall be paid by that person; and
+
+(b) in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar.
+
+[19/2008 wef 01/12/2008]
+
+(2B) Any person awarded any costs under subsection (2) or (2A) may sue for and recover those costs as if those costs were a debt due to him.
+
+[19/2008 wef 01/12/2008]
+
+(3) A Disciplinary Tribunal shall carry out its work expeditiously and the Society may apply to the Chief Justice for directions to be given to the Disciplinary Tribunal if the Disciplinary Tribunal fails to make any finding and determination within 6 months from the date of its appointment.
 
 [19/2008 wef 01/12/2008]
 
 [30/86]
 
-(4) The findings and determination of the Disciplinary Committee under this section shall be drawn up in the form of a report of which —
+(4) The findings and determination of the Disciplinary Tribunal under this section shall be drawn up in the form of a report of which —
 
 (a) a copy shall be submitted to the Chief Justice and the Society; and
 
@@ -4132,13 +4234,13 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [19/2008 wef 01/12/2008]
 
-(5) The findings and determination of the Disciplinary Committee shall be published by the Council in the Singapore LawGazetteor in such other media as the Council may determine which would adequately inform the public of the findings and determination.
+(5) The findings and determination of the Disciplinary Tribunal shall be published by the Council in the Singapore LawGazetteor in such other media as the Council may determine which would adequately inform the public of the findings and determination.
 
 [19/2008 wef 01/12/2008]
 
 [30/86; 35/2001]
 
-(6) A copy of the entire record of the proceedings of the Disciplinary Committee including its findings and determination shall be made public and copies thereof shall be made available to the members of the public upon payment of the prescribed fee.
+(6) A copy of the entire record of the proceedings of the Disciplinary Tribunal including its findings and determination shall be made public and copies thereof shall be made available to the members of the public upon payment of the prescribed fee.
 
 [19/2008 wef 01/12/2008]
 
@@ -4146,25 +4248,39 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 ### Society to apply to court if cause of sufficient gravity exists
 
-94\.—(1) If the determination of the Disciplinary Committee under section 93 is that cause of sufficient gravity for disciplinary action exists under section 83, the Society shall without further direction or directions proceed to make an application in accordance with section 98.
+94\.—(1) If the determination of the Disciplinary Tribunal under section 93 is that cause of sufficient gravity for disciplinary action exists under section 83, the Society shall without further direction or directions make an application under section 98 within one month from the date of the determination of the Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
 
-(2) If the determination of the Disciplinary Committee under section 93 is that no cause of sufficient gravity for disciplinary action exists under section 83, it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
+(2) If the determination of the Disciplinary Tribunal under section 93 is that no cause of sufficient gravity for disciplinary action exists under section 83, it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
 
 [19/2008 wef 01/12/2008]
 
-(3) If the determination of the Disciplinary Committee under section 93 is that, while no cause of sufficient gravity for disciplinary action exists under section 83, the advocate and solicitor should be reprimanded or ordered to pay a penalty, the Council shall —
+(3) If the determination of the Disciplinary Tribunal under section 93 is that, while no cause of sufficient gravity for disciplinary action exists under section 83, the advocate and solicitor should be reprimanded or ordered to pay a penalty, the Council shall —
 
-(a) if it agrees with the determination, reprimand the advocate and solicitor or order him to pay a penalty of not more than $10,000 , as the case may be; or
+(a) if it agrees with the determination, reprimand the advocate and solicitor or order him to pay a penalty of not more than $20,000, as the case may be; or
 
 [19/2008 wef 01/12/2008]
 
-(b) if it disagrees with the determination, without further direction or directions proceed to make an application in accordance with section 98.
+(b) if it disagrees with the determination, without further direction or directions make an application under section 98 within one month from the date of the determination of the Disciplinary Tribunal.
 
 [19/2008 wef 01/12/2008]
 
 [41/93; 35/2001]
+
+[19/2008 wef 01/12/2008]
+
+(4) The Council shall inform the advocate and solicitor and the person who made the complaint of —
+
+(a) the determination of the Disciplinary Tribunal under section 93 within 14 days from the date the Society receives a copy of the report referred to in section 93(4); and
+
+(b) where subsection (3) applies, the Council’s decision —
+
+(i) as to whether it agrees with the determination of the Disciplinary Tribunal; and
+
+(ii) to reprimand the advocate and solicitor, to order him to pay a penalty or to make an application under section 98,
+
+within 14 days from the date of the decision.
 
 [19/2008 wef 01/12/2008]
 
@@ -4182,7 +4298,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 (3) This section shall not apply to a legal officer.
 
-### Provisions as to penalties
+### Provisions as to penalties ordered by Council
 
 95\.—(1) Within 21 days of being ordered to pay a penalty by the Council, the advocate and solicitor concerned may apply to a Judge to set aside the order.
 
@@ -4196,11 +4312,19 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 and may make an order for payment of costs by or to either the Society or the applicant as may be just.
 
-(4) If no such application is made or if the order for a penalty is affirmed or varied by the court, the advocate and solicitor shall pay the penalty to the Society.
+(4) Where the Council has ordered an advocate and solicitor to pay a penalty, the advocate and solicitor shall pay to the Society —
 
-[35/2001]
+(a) the penalty, if —
 
-(5) Any penalty not paid may be recoverable by the Society as a judgment debt.
+(i) no application is made under subsection (1) to set aside the Council’s order; or
+
+(ii) the penalty has been affirmed by a Judge under subsection (3)(a); or
+
+(b) if the penalty has been varied by a Judge under subsection (3)(a), the penalty so varied.
+
+[19/2008 wef 01/12/2008]
+
+(5) Any penalty payable to the Society under subsection (4) which is not paid may be recoverable by the Society as a judgment debt.
 
 [19/2008 wef 01/12/2008]
 
@@ -4226,77 +4350,115 @@ that person, if he is dissatisfied with the determination, may within 14 days of
 
 (a) affirming the determination of the Council; or
 
-(b) directing the Society to apply to the Chief Justice for the appointment of a Disciplinary Committee,
+(b) directing the Society to apply to the Chief Justice for the appointment of a Disciplinary Tribunal,
 
 [19/2008 wef 01/12/2008]
 
 and such order for the payment of costs as may be just.
 
-(5) If the Judge makes an order directing the Society to apply to the Chief Justice for the appointment of a Disciplinary Committee, the applicant shall have the conduct of proceedings before the Disciplinary Committee and any subsequent proceedings before the court under section 98, and any such proceedings shall be brought in the name of the applicant.
+(5) If the Judge makes an order directing the Society to apply to the Chief Justice for the appointment of a Disciplinary Tribunal, the applicant shall have the conduct of proceedings before the Disciplinary Tribunal and any subsequent proceedings before the court under section 98, and any such proceedings shall be brought in the name of the applicant.
 
 [19/2008 wef 01/12/2008]
 
-### Procedure for complainant dissatisfied with Disciplinary Committee’s decision
+### Application for review of Disciplinary Tribunal’s decision
 
-97\.—(1) Where a Disciplinary Committee has determined —
+97\.—(1) Where a Disciplinary Tribunal has made a determination under section 93(1)(a) or (b), the person who made the complaint, the advocate and solicitor or the Council may, within 14 days of being notified of that determination or any order under section 93(2) or (2A), apply to a Judge for a review of that determination or order.
 
-(a) that no cause of sufficient gravity for disciplinary action exists under section 83; or
+(2) An application under subsection (1) shall be —
 
-(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded or ordered to pay a penalty,
+(a) made by originating summons; and
 
-and the person who made the complaint, the advocate and solicitor or the Council is dissatisfied with the determination, that person, advocate and solicitor or the Council may, within 14 days of being notified of the Disciplinary Committee’s decision, apply to a Judge under this section.
+(b) served on —
 
-[30/86; 41/93; 35/2001]
+(i) the person who made the complaint, if he had the conduct of the proceedings before the Disciplinary Tribunal and is not the applicant;
 
-(2) Such an application shall be made by originating summons and shall be served on the Society and the secretary of the Disciplinary Committee who shall thereupon file in court the record and report of the hearing and investigation by the Disciplinary Committee.
+(ii) the advocate and solicitor, if he is not the applicant;
 
-(3) Upon the hearing of the application, the Judge, after hearing the applicant and the Disciplinary Committee and, if it desires to be heard, the Society, may make an order —
+(iii) the Society, if the Council is not the applicant; and
 
-(a) confirming the report of the Disciplinary Committee;
+(iv) the secretary of the Disciplinary Tribunal.
 
-(b) directing the applicant or the Council to make an application under section 98; or
+(3) Upon receiving the application, the secretary of the Disciplinary Tribunal shall file in court the record and report of the hearing and investigation by the Disciplinary Tribunal.
 
-(c) directing the advocate and solicitor concerned under section 98(1) to show cause,
+(4) The Judge hearing the application —
 
-and such order for the payment of costs as may be just.
+(a) shall have full power to determine any question necessary to be determined for the purpose of doing justice in the case, including any question as to the correctness, legality or propriety of the determination or order of the Disciplinary Tribunal, or as to the regularity of any proceedings of the Disciplinary Tribunal; and
 
-[30/86]
+(b) may make such orders as the Judge thinks fit, including —
 
-(4) If the Judge makes an order under subsection (3)(b) or (c) on the application of a person other than the Council or advocate and solicitor, the applicant shall have the conduct of proceedings under section 98 and any such proceedings shall be brought in the name of the applicant.
+(i) an order directing the person who made the complaint or the Council to make an application under section 98;
 
-[30/86; 41/93]
+(ii) an order setting aside the determination of the Disciplinary Tribunal and directing —
 
-### Order to show cause
+(A) the Disciplinary Tribunal to rehear and reinvestigate the complaint or matter; or
 
-98\.—(1) An application that a solicitor be struck off the roll or suspended from practice or censured or that he be required to answer allegations contained in an affidavit shall be made by originating summons ex parte for an order calling upon the solicitor to show cause.
+(B) the Society to apply to the Chief Justice for the appointment of another Disciplinary Tribunal to hear and investigate the complaint or matter; or
 
-[30/86]
+(iii) such order for the payment of costs as may be just.
 
-(2) An application under subsection (1) may be made to a Judge and shall include an application for directions as to service if the solicitor is believed to be outside Singapore.
+(5) If the Judge makes an order directing the person who made the complaint to make an application under section 98, that person shall have the conduct of the proceedings under that section, and any such proceedings shall be brought in his name.
 
-(3) If the solicitor named in the order is or is believed to be within Singapore, the provisions of the Rules of Court (Cap. 322, R 5) for service of writs of summons shall apply to the service of the order.
+(6) If the Judge makes an order directing the person who made the complaint or the Council to make an application under section 98, that person or the Society, as the case may be, shall make the application under that section within one month from the date of the order.
 
-(4) If an order to show cause is made, a copy of the affidavit or affidavits upon which the order was made shall be served with the order upon the solicitor named in the order.
+[19/2008 wef 01/12/2008]
 
-(5) An application to make a final order pursuant to an order to show cause must be made by summons in the same proceedings and, unless the Judge otherwise directs, there must be at least 8 clear days between the service of the summons and the day named therein for the hearing.
+### Application for order that solicitor be struck off roll, etc
 
-[42/2005 wef 01/01/2006]
+98\.—(1) An application for an order that a solicitor —
 
-[41/93]
+(a) be struck off the roll;
 
-(6) Any final order, made in cases where personal service of the order to show cause has not been effected, may be set aside on the application of the solicitor on good cause being shown.
+(b) be suspended from practice for a period not exceeding 5 years;
 
-[42/2005 wef 01/01/2006]
+(c) pay a penalty of not more than $100,000;
 
-(7) The application to make a final order and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 Judges of the Supreme Court, and from the decision of that court there shall be no appeal.
+(d) be censured;
 
-[42/2005 wef 01/01/2006]
+(e) suffer the punishment referred to in paragraph (c) in addition to the punishment referred to in paragraph (b) or (d); or
 
-[15/89; 41/93]
+(f) be required to answer allegations contained in an affidavit,
 
-(8) The Judge who made the order to show cause shall not thereby be disqualified from sitting as a member of the court of 3 Judges under subsection (7).
+shall be made by originating summons.
 
-(9) The Chief Justice or any other Judge of the Supreme Court shall not be a member of the court of 3 Judges when the application under subsection (7) is in respect of a complaint made or information referred to the Society by him.
+[19/2008 wef 01/12/2008]
+
+(2) If the solicitor named in the application under subsection (1) is believed to be outside Singapore, an application may be made by summons in the same proceedings for directions as to service.
+
+[19/2008 wef 01/12/2008]
+
+(3) If the solicitor named in the application under subsection (1) is or is believed to be within Singapore, the provisions of the Rules of Court (Cap. 322, R 5) for service of writs of summons shall apply to the service of the application.
+
+[19/2008 wef 01/12/2008]
+
+(4) A copy of the affidavit or affidavits in support of the application under subsection (1) shall be served with the application upon the solicitor named in the application.
+
+[19/2008 wef 01/12/2008]
+
+(5) There must be at least 8 clear days between the service of the application under subsection (1) and the day named therein for the hearing.
+
+[19/2008 wef 01/12/2008]
+
+(6) Any order on an application under subsection (1) that is made in any case where personal service of that application has not been effected may be set aside on the application of the solicitor on good cause being shown.
+
+[19/2008 wef 01/12/2008]
+
+(7) The application under subsection (1) shall be heard by a court of 3 Judges of the Supreme Court, and from the decision of that court there shall be no appeal.
+
+[19/2008 wef 01/12/2008]
+
+(8) The court of 3 Judges —
+
+(a) shall have full power to determine any question necessary to be determined for the purpose of doing justice in the case, including any question as to the correctness, legality or propriety of the determination of the Disciplinary Tribunal, or as to the regularity of any proceedings of the Disciplinary Tribunal; and
+
+(b) may make an order setting aside the determination of the Disciplinary Tribunal and directing —
+
+(i) the Disciplinary Tribunal to rehear and reinvestigate the complaint or matter; or
+
+(ii) the Society to apply to the Chief Justice for the appointment of another Disciplinary Tribunal to hear and investigate the complaint or matter.
+
+[19/2008 wef 01/12/2008]
+
+(9) The Chief Justice or any other Judge of the Supreme Court shall not be a member of the court of 3 Judges when the application under subsection (1) is in respect of a complaint made or information referred to the Society by him.
 
 [19/2008 wef 01/12/2008]
 
@@ -4304,9 +4466,21 @@ and such order for the payment of costs as may be just.
 
 (10) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and under sections 100 and 102, and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of Court may be followed as nearly as the circumstances permit.
 
+### Provisions as to penalties ordered by court
+
+98A\.—(1) Where the court has ordered a legal officer or non-practising solicitor to pay a penalty under section 82A(12), the legal officer or non-practising solicitor shall pay the penalty to the Registrar of the Supreme Court.
+
+(2) Where the court has ordered an advocate and solicitor to pay a penalty under section 98, the advocate and solicitor shall pay the penalty to the Registrar of the Supreme Court.
+
+(3) Any penalty payable under subsection (1) or (2) which is not paid may be recoverable by the Government as a judgment debt.
+
+(4) All sums collected by the Registrar of the Supreme Court under subsection (1) or (2) or recovered by the Government under subsection (3) shall be paid into the Consolidated Fund.
+
+[19/2008 wef 01/12/2008]
+
 ### Drawing up of order
 
-99\. Where an order (whether an order to show cause or a final order) has been made by the court upon an application under section 98 and the order has not been drawn up by the applicant within one week after it was made, the Society may cause the order to be drawn up, and all future proceedings thereon shall be taken as if the application had been made by the Society.
+99\. Where any order has been made by the court upon an application under section 98 and the order has not been drawn up by the applicant within one week after it was made, the Society may cause the order to be drawn up, and all future proceedings thereon shall be taken as if the application had been made by the Society.
 
 [42/2005 wef 01/01/2006]
 
@@ -4346,7 +4520,13 @@ and such order for the payment of costs as may be just.
 
 ### Replacement on roll of solicitor who has been struck off
 
-102\.—(1) The court may, if it thinks fit, at any time order the Registrar to replace on the roll the name of a solicitor whose name has been removed from, or struck off, the roll.
+102\.—(1) Where the name of a solicitor has been removed from, or struck off, the roll, the court may, if it thinks fit, at any time order the Registrar to replace on the roll the name of the solicitor —
+
+(a) free from conditions; or
+
+(b) subject to such conditions as the court thinks fit.
+
+[19/2008 wef 01/12/2008]
 
 (2) Any application that the name of a solicitor be replaced on the roll shall be by originating summons, supported by affidavit, before a court of 3 Judges of the Supreme Court of whom the Chief Justice shall be one.
 
@@ -4370,19 +4550,11 @@ and such order for the payment of costs as may be just.
 
 ### Costs
 
-103\.—(1) Where under section 93 a Disciplinary Committee determines that no cause of sufficient gravity for disciplinary action exists and further records the opinion that the complaint was frivolous or vexatious, the Disciplinary Committee may by originating summons to be heard before a Judge ask that the court order that the costs of the complaint shall be paid by the person who made the complaint.
-
-[42/2005 wef 01/01/2006]
-
-(2) Thereupon and after hearing that person, the court may order that those costs or any part thereof shall be paid by that person and any such order shall thereupon be enforceable in the same manner as any other order for costs made in proceedings in the court.
-
-[41/93]
-
-(3) The costs of and incidental to all proceedings under section 98, 100 or 102 shall be in the discretion of the Judge or of the court before whom the hearing has taken place.
+103\.—(3) The costs of and incidental to all proceedings under section 97, 98, 100 or 102 shall be in the discretion of the Judge or of the court before whom the hearing has taken place.
 
 [19/2008 wef 01/12/2008]
 
-(4) Such costs may include the costs of the Society or Disciplinary Committee and may be ordered to be paid by the solicitor by or against whom or by the person by whom any complaint was made or was intended to be made or partly by the solicitor and partly by the other person.
+(4) Such costs may include the costs of the Society or Disciplinary Tribunal and may be ordered to be paid by the solicitor by or against whom or by the person by whom any complaint was made or was intended to be made or partly by the solicitor and partly by the other person.
 
 [19/2008 wef 01/12/2008]
 
@@ -4390,7 +4562,7 @@ and such order for the payment of costs as may be just.
 
 ### Absence of person under inquiry
 
-104\. If the person whose conduct is the subject of inquiry fails to attend before the court, a Disciplinary Committee, the Council or the Inquiry Committee, as the case may be, the inquiry or proceedings may be proceeded with without further notice to that person upon proof of service by affidavit or statutory declaration.
+104\. If the person whose conduct is the subject of inquiry fails to attend before the court, a Disciplinary Tribunal, the Council or the Inquiry Committee, as the case may be, the inquiry or proceedings may be proceeded with without further notice to that person upon proof of service by affidavit or statutory declaration.
 
 [19/2008 wef 01/12/2008]
 
@@ -4398,11 +4570,19 @@ and such order for the payment of costs as may be just.
 
 105\.—(1) In any proceedings under this Part, any publication purporting to be printed under the authority of the General Council of the Bar in England or the Law Society in England setting out any rules or decisions made under the authority of those bodies relevant to the subject-matter of the proceedings shall, until the contrary is proved, be the evidence thereof.
 
-(2) Where the person whose conduct is the subject of inquiry does not appear before a Disciplinary Committee and the Committee determines under section 104 to proceed in his absence, and in any other case, with the consent in writing of that person, the Disciplinary Committee may, either as to the whole case or as to any particular fact or facts, proceed and act on evidence by affidavit or statutory declaration.
+(2) A Disciplinary Tribunal may —
+
+(a) where the person whose conduct is the subject of inquiry does not appear before the Tribunal, and the Tribunal decides under section 104 to proceed in that person’s absence; or
+
+(b) with the consent in writing of the person whose conduct is the subject of inquiry,
+
+proceed and act on evidence by affidavit or statutory declaration, either as to the whole case or as to any particular fact or facts.
+
+[19/2008 wef 01/12/2008]
 
 ### No action in absence of bad faith
 
-106\. No action or proceeding shall lie against the Attorney-General, the Society, the Council, a Review Committee, a Disciplinary Committee or an Inquiry Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+106\. No action or proceeding shall lie against the Attorney-General, the Society, the Council, a Review Committee or any member thereof, an Inquiry Committee or any member thereof, or a Disciplinary Tribunal or any member or the secretary thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
 [19/2008 wef 01/12/2008]
 
@@ -5560,7 +5740,11 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (f) a solicitor has been committed to prison in any civil or criminal proceedings;
 
-(g) the Council is satisfied that a sole solicitor is incapacitated by illness or accident to such an extent as to be unable to attend to his practice;
+(g) the Council is satisfied that a sole solicitor is incapacitated by illness or accident, or by any physical or mental condition, to such an extent as to be unable to attend to his practice;
+
+[19/2008 wef 01/12/2008]
+
+(ga) the fitness of a sole proprietor to practise has been determined under section 25C to be impaired by reason of his physical or mental condition, or a sole proprietor, having been ordered by a Judge to submit to a medical examination under section 25C to be conducted within such period as the Judge may specify in the order, fails to do so;
 
 [19/2008 wef 01/12/2008]
 
@@ -6090,6 +6274,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 16/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|26 August 2008|
 ||Date of commencement|15 October 2008 (sections 4, 5(c), (d) and (g), 7(a) and (b), 8(a) and (b), 26(d), 28, 29(a) and (c) to (o), 30(a) and (d) and 31(b) to (f))|
+|44.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 16/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|26 August 2008|
+||Date of commencement|1 December 2008 (sections 2(c) and (f), 5(a), (b), (e) and (f), 6, 8(c) and (d), 9, 11, 26(a), (b), (c), (e) and (f), 27, 29(b), 30 (b) and (c), 31(a), 32 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
