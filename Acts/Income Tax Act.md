@@ -130,6 +130,8 @@
 
 - [14D Expenditure on research and development](#Expenditure-on-research-and-development)
 
+- [14DA Enhanced deduction for qualifying expenditure on research and development](#Enhanced-deduction-for-qualifying-expenditure-on-research-and-development)
+
 - [14E Further deduction for expenditure on research and development project](#Further-deduction-for-expenditure-on-research-and-development-project)
 
 - [14F Management expenses of investment companies](#Management-expenses-of-investment-companies)
@@ -244,6 +246,10 @@
 
 - [37F Carry-back of capital allowances and losses between spouses](#Carry-back-of-capital-allowances-and-losses-between-spouses)
 
+- [37G Deduction for incremental expenditure on research and development](#Deduction-for-incremental-expenditure-on-research-and-development)
+
+- [37H Cash grant for research and development expenditure for start-up company](#Cash-grant-for-research-and-development-expenditure-for-start-up-company)
+
 [**Part X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS**](#Part-X)
 
 - [38 Chargeable income](#Chargeable-income)
@@ -266,7 +272,7 @@
 
 - [42 Rates of tax upon individuals](#Rates-of-tax-upon-individuals)
 
-- [42A Rebate for second, third and fourth child of family](#Rebate-for-second-third-and-fourth-child-of-family)
+- [42A Rebate for children of family](#Rebate-for-children-of-family)
 
 - [43 Rate of tax upon companies and others](#Rate-of-tax-upon-companies-and-others)
 
@@ -496,7 +502,7 @@
 
 - [94A Penalty for failure to make return](#Penalty-for-failure-to-make-return)
 
-- [95 Penalty for incorrect return](#Penalty-for-incorrect-return)
+- [95 Penalty for incorrect return, etc.](#Penalty-for-incorrect-return-etc)
 
 - [96 Tax evasion](#Tax-evasion)
 
@@ -690,7 +696,7 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 (b) of a crop of a different product approved by the Minister;
 
-“research and development” means any systematic or intensive study carried out in the field of science or technology with the object of using the results of the study for the production or improvement of materials, devices, products, produce, or processes, but does not include —
+“research and development” means any systematic, investigative and experimental study that involves novelty or technical risk carried out in the field of science or technology with the object of acquiring new knowledge or using the results of the study for the production or improvement of materials, devices, products, produce, or processes, but does not include —
 
 (a) quality control or routine testing of materials, devices or products;
 
@@ -698,9 +704,17 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 (c) routine data collection;
 
-(d) efficiency surveys or management studies; or
+(d) efficiency surveys or management studies;
 
 (e) market research or sales promotion;
+
+(f) routine modifications or changes to materials, devices, products, processes or production methods;
+
+(g) cosmetic modifications or stylistic changes to materials, devices, products, processes or production methods; or
+
+(h) development of a computer software that is not intended to be sold, rented, leased, licensed or hired to 2 or more persons who are not related parties (within the meaning of subsection (3)) to each other, and to the person who develops the software or on whose behalf the development of the software is undertaken;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 “research and development organisation” means a body or an organisation which provides research and development services for any trade or business;
 
@@ -737,6 +751,10 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 (2) For the purposes of this Act, where an individual is present in Singapore for any part of a day his presence on that day shall be counted as one day.
 
 [13/84]
+
+(3) In the definition of “research and development” in subsection (1), a person is a related party to another if he, directly or indirectly, controls the other person, or is controlled, directly or indirectly, by the other person, or where he and the other person, directly or indirectly, are under the control of a common person.
+
+[Act 34/2008, wef Y/A & Sub Ys/A:2008-ACT-34]
 
 ## PART II
 
@@ -1310,13 +1328,13 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (i) qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
 (g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies;
 
-(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; and
 
 [34/2008 wef 16/12/2008]
 
@@ -1488,9 +1506,9 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [1/98; 30/2007]
 
-(4) Notwithstanding subsection (1)(a), where on or after 1st January 2003, contributions are made by any employer for any year to the medisave account of an employee maintained under the Central Provident Fund Act (Cap. 36) in lieu of hospitalisation or outpatient medical benefits which the employer is obliged to provide by reason of a contract of employment, such contributions up to $1,500 for that year shall, subject to subsections (5) and (6), not be deemed to be income accruing to the employee.
+(4) Notwithstanding subsection (1)(a), where on or after 1st January 2007, contributions are made by any employer for any year to the medisave account of an employee maintained under the Central Provident Fund Act (Cap. 36), such contributions up to $1,500 for that year shall, subject to subsections (5) and (6), not be deemed to be income accruing to the employee.
 
-[21/2003]
+[34/2008 wef 16/12/2008]
 
 (5) Where contributions referred to in subsection (4) are made in respect of an employee by 2 or more employers for any year, the amount of such contributions not deemed to be income accruing to the employee shall not exceed $1,500 for that year.
 
@@ -1886,17 +1904,11 @@ whichever amount is the lower, shall be withdrawn by the SRS member from his SRS
 
 [24/2001]
 
-(5) Where an SRS member is eligible to make a withdrawal under subsection (3)(b), all the funds (excluding any life annuity) standing in his SRS account shall be withdrawn not later than —
+(5) Where an SRS member is eligible to make a withdrawal under subsection (3)(b), all the funds (excluding any life annuity) standing in his SRS account shall be withdrawn not later than 10 years from the date he made his first withdrawal under subsection (3)(b).
 
-(a) 10 years from the prescribed retirement age prevailing at the time he made his first withdrawal under subsection (3)(b); or
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
-(b) 10 years from the prescribed retirement age prevailing at any time,
-
-whichever is the earlier.
-
-[24/2001]
-
-(6) Upon the expiry of the earlier of the 2 periods referred to in subsection (5), any balance (excluding any life annuity and any amount not withdrawn under subsection (4)) remaining in the SRS account shall be deemed to be withdrawn by the SRS member and 50% of such balance shall be deemed to be his income chargeable to tax under section 10(1)(g) for the year in which the earlier of such periods expires.
+(6) Upon the expiry of the period referred to in subsection (5), any balance (excluding any life annuity and any amount not withdrawn under subsection (4)) remaining in the SRS account shall be deemed to be withdrawn by the SRS member and 50% of such balance shall be deemed to be his income chargeable to tax under section 10(1)(g) for the year in which the period expires.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -1914,8 +1926,6 @@ then —
 
 (ii) the date of his first withdrawal made under subsection (3)(b) after the date of the first of his contributions referred to in paragraph (b) shall be deemed to be the date he made his first withdrawal under subsection (3)(b) for the purpose of determining the period referred to in subsection (5).
 
-[27/2009 wef 01/10/2008]
-
 (6B) Where an SRS member —
 
 (a) had made one or more withdrawals under subsection (3)(b) of all the funds standing to his SRS account and had closed his SRS account (referred to in this subsection as the first SRS account); and
@@ -1928,15 +1938,13 @@ then —
 
 (ii) for the purposes of subsection (1) and section 39(2)(o), both the first SRS account and the second SRS account shall be deemed to be the same account as if the first SRS account had never been closed.
 
-[27/2009 wef 01/10/2008]
-
 (7) Where an SRS member is eligible to make a withdrawal under subsection (3)(c), he shall withdraw all the funds (excluding any life annuity) standing in his SRS account not later than 10 years from the date he makes the first withdrawal; and upon the expiry of that period, any balance (excluding any life annuity and any amount not withdrawn under subsection (4)) remaining in his SRS account shall be deemed to be withdrawn by the SRS member and 50% of such balance shall be deemed to be his income chargeable to tax under section 10(1)(g).
 
 [24/2001]
 
 (8) Only 50% of any annuity payment made under a life annuity purchased by an SRS member under the SRS shall be deemed to be income of the SRS member chargeable to tax under section 10(1)(g) upon —
 
-(a) the expiry of the earlier of the 2 periods referred to in subsection (5);
+(a) the expiry of the period referred to in subsection (5);
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -1954,7 +1962,7 @@ then —
 
 [24/2001]
 
-(11) The Minister may by regulations establish a Supplementary Retirement Scheme to provide for voluntary cash contributions by individuals to accounts operated by SRS operators so as to encourage individuals to save for their old age.
+(11) The Minister may by regulations establish a Supplementary Retirement Scheme to provide for voluntary cash contributions by individuals and by their employers on their behalf to accounts operated by SRS operators so as to encourage individuals to save for their old age.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -2301,11 +2309,11 @@ EXEMPTION FROM INCOME TAX
 
 (a) subject to subsection (2) and such conditions as may be prescribed by regulations, the interest derived from —
 
-(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2008 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2013 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 [34/2008 wef 16/12/2008]
 
-(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2013 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [34/2008 wef 16/12/2008]
 
@@ -2313,7 +2321,7 @@ EXEMPTION FROM INCOME TAX
 
 (i) issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) issued during the period from 17th February 2006 to 31st December 2008,
+(ii) issued during the period from 17th February 2006 to 31st December 2013,
 
 [34/2008 wef 16/12/2008]
 
@@ -2323,7 +2331,7 @@ by —
 
 (B) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008, to any person —
+(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013, to any person —
 
 (i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
@@ -2333,17 +2341,17 @@ by —
 
 (b) subject to subsections (2C) and (2D) and such conditions as may be prescribed by regulations —
 
-(i) the interest derived by any person from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+(i) the interest derived by any person from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2011;
 
 [34/2008 wef 16/12/2008]
 
-(ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+(ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2011; and
 
 [34/2008 wef 16/12/2008]
 
 (iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
-(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008 that is derived by any person —
+(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013 that is derived by any person —
 
 (i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
@@ -2547,7 +2555,7 @@ except where such income is derived through a partnership in Singapore or is der
 
 [27/2009 wef 29/12/2009]
 
-(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
+(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2013 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
@@ -2577,11 +2585,11 @@ except where such income is derived through a partnership in Singapore or is der
 
 (2C) Subsection (1)(b) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
-(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2011;
 
 [34/2008 wef 16/12/2008]
 
-(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008 ; or
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2011; or
 
 [34/2008 wef 16/12/2008]
 
@@ -2593,11 +2601,11 @@ if 50% or more of the issue of the securities is beneficially held or funded, di
 
 (2D) Subsection (1)(b) shall not apply to —
 
-(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2011;
 
 [34/2008 wef 16/12/2008]
 
-(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008 ; or
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2011; or
 
 [34/2008 wef 16/12/2008]
 
@@ -2721,6 +2729,14 @@ and received in Singapore —
 
 [21/2003]
 
+(9A) For the avoidance of doubt, in subsection (9)(a), income is subject to tax if tax has been paid, or tax (not being deferred tax) is to be paid on that income.
+
+[34/2008 wef 16/12/2008]
+
+(9B) The Minister or such person as he may appoint may in any particular case waive the condition referred to in subsection (9)(a), subject to such conditions as he may impose.
+
+[34/2008 wef 16/12/2008]
+
 (10) Where the income referred to in subsection (8) consists of dividends paid by a company, the tax referred to in subsection (9)(a) shall be —
 
 (a) where the company is resident in the territory from which the dividends are received, the tax paid in that territory by the company in respect of its income out of which the dividends are paid; and
@@ -2797,35 +2813,35 @@ the income received by a person resident in Singapore from such source in any co
 
 “qualifying debt securities” means —
 
-(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2008;
+(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
 (b) bonds, notes, commercial papers and certificates of deposits which are arranged in accordance with regulations made for this purpose —
 
-(i) by any financial institution in Singapore and issued during the period from 28th February 1998 to 31st December 2008;
+(i) by any financial institution in Singapore and issued during the period from 28th February 1998 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
 (ii) by any approved bond intermediary and issued —
 
-(A) during the period from 27th February 1999 to 31st December 2008 under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
+(A) during the period from 27th February 1999 to 31st December 2013 under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
 
 [34/2008 wef 16/12/2008]
 
 (B) during the period from 27th February 1999 to 31st December 2003 in any other case; or
 
-(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2008;
+(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
 (c) Islamic debt securities which are arranged in accordance with regulations made for this purpose —
 
-(i) by any financial institution in Singapore and issued during the period from 1st January 2005 to 31st December 2008; or
+(i) by any financial institution in Singapore and issued during the period from 1st January 2005 to 31st December 2013; or
 
 [34/2008 wef 16/12/2008]
 
-(ii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2005 to 31st December 2008,
+(ii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2005 to 31st December 2013,
 
 [34/2008 wef 16/12/2008]
 
@@ -2837,7 +2853,7 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 “qualifying project debt securities” means debt securities —
 
-(a) which are issued during the period from 1st November 2006 to 31st December 2008 and arranged in accordance with regulations made for this purpose —
+(a) which are issued during the period from 1st November 2006 to 31st December 2011 and arranged in accordance with regulations made for this purpose —
 
 (i) by any financial institution in Singapore; or
 
@@ -2891,6 +2907,10 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 [11/94; 31/98]
 
+(1B) For the year of assessment 2009 and subsequent years of assessment, the income of a shipping enterprise referred to in this section shall include income derived from foreign exchange and risk management activities which are carried out in connection with and incidental to the operation by the shipping enterprise of Singapore ships.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
 (2) A shipping enterprise shall maintain separate accounts for the income derived or deemed to be derived from the operation of each Singapore ship or foreign ship.
 
 [31/98]
@@ -2909,7 +2929,7 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 [4/75; 31/98; 7/2007]
 
-(4) The Comptroller shall for each year of assessment issue to a shipping enterprise a statement showing the amount of income derived from the operation of Singapore ships or foreign ships by the shipping enterprise; and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(4) The Comptroller shall for each year of assessment issue to a shipping enterprise a statement (to be included in a notice of any assessment served on the shipping enterprise under section 76) showing the amount of income derived from the operation of Singapore ships or foreign ships by the shipping enterprise; and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -3363,11 +3383,17 @@ as the case may be.
 
 (i) towing or salvage operations carried out from outside the limits of the port of Singapore by any foreign ship; and
 
-(ii) the charter of any foreign ship to any person where such ship is used by the person for towage and salvage operations carried out outside the limits of the port of Singapore.
+(ii) the charter of any foreign ship to any person where such ship is used by the person for towage and salvage operations carried out outside the limits of the port of Singapore;
 
 [Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
 [37/2002; 49/2004]
+
+(d) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the operations described in paragraphs (a), (b) and (c).
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/02/2010]
 
 (2) The exemption shall be for such period not exceeding 10 years as the Minister may specify, except that the Minister or such person as he may appoint may extend the period so specified for such further periods, not exceeding 10 years at any one time, as he thinks fit.
 
@@ -3493,7 +3519,7 @@ as the case may be.
 
 [31/98]
 
-(6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement (to be included in a notice of any assessment served on the approved venture company under section 76) showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -3849,9 +3875,23 @@ the company shall opt for the tax exemption under this section or section 13J to
 
 (i) is not physically present in Singapore for at least 90 days in the year preceding that year of assessment by reason of the exercise of any employment in Singapore; and
 
-(ii) has a notional tax payable by him on his gains or profits from the exercise of any employment in Singapore for the year preceding that year of assessment exceeding 10% of such gains or profits;
+(ii) derives gains or profits of at least $160,000 from the exercise of any employment in Singapore for the year preceding that year of assessment;
 
-(b) notwithstanding section 10C(11), any contribution up to the relevant amount made by his employer to any non-obligatory pension or provident fund constituted outside Singapore in the year preceding that year of assessment, if he is neither a citizen of Singapore nor a Singapore permanent resident at the time such contribution is made.
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(b) notwithstanding section 10C(11), any contribution up to the relevant amount made by his employer to any non-obligatory pension or provident fund constituted outside Singapore in the year preceding that year of assessment, if —
+
+(i) he is neither a citizen nor a permanent resident of Singapore at the time such contribution is made;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(ii) he derives gains or profits of at least $160,000 from the exercise of any employment in Singapore for the year preceding that year of assessment; and
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(iii) a deduction with respect to such contribution has not been allowed to his employer under section 14(1)(e).
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -3885,7 +3925,19 @@ the company shall opt for the tax exemption under this section or section 13J to
 
 [37/2002]
 
-(6) Any election under subsection (1) and any approval under subsection (4) shall be irrevocable.
+(5A) Where —
+
+(a) an individual has been approved as an NOR individual before the year of assessment 2009;
+
+(b) the period of his approval has not expired at the beginning of that year of assessment; and
+
+(c) he has had income exempted from tax under this section in force immediately before the date of commencement of section 14 of the Income Tax (Amendment) Act 2008 for any year of assessment between the year of assessment 2005 and the year of assessment 2008 (both years inclusive),
+
+then the individual may, at any time at or before filing with the Comptroller a return of his income for the year of assessment 2009, elect to continue to be subject to subsections (1) and (7) in force immediately before the date of commencement of section 14 of the Income Tax (Amendment) Act 2008; and in that event subsections (1) and (7) in force immediately before that date shall continue to apply to him for so long as he remains an NOR individual.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(6) Any election under subsections (1) and (5A) and any approval under subsection (4) shall be irrevocable.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -3931,15 +3983,15 @@ is the gains or profits from the exercise of any employment in Singapore by the 
 
 (a)
 
-such perquisite as may be determined by the Comptroller;
+director’s fee; and
 
 (b)
 
-leave pay; and
+where any amount of tax of the NOR individual payable in Singapore is borne, directly or indirectly, by his employer, the amount of tax that is so borne.
 
 (c)
 
-director’s fee.
+[Deleted by Act 34/2008, wef Y/A 2009 & Sub Ys/A]
 
 [37/2002; 49/2004]
 
@@ -4047,7 +4099,7 @@ as the Minister may by regulations prescribe.
 
 ### Exemption of income derived from asset securitisation transaction
 
-13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2008 (both dates inclusive).
+13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2013 (both dates inclusive).
 
 [34/2008 wef 16/12/2008]
 
@@ -4253,6 +4305,10 @@ for use outside the limits of the port of Singapore;
 
 (b) from the chartering or finance leasing of any sea-going Singapore ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to a shipping enterprise within the meaning of section 13A for use outside the limits of the port of Singapore; and
 
+(c) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the activities referred to in paragraphs (a) and (b).
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
 (1A) Subsection (1) shall continue to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but which continues to derive income of the type referred to in subsection (1) in relation to a sea-going ship acquired before or during the period of the approval, provided that the enterprise has by the date of the expiry or before the withdrawal, fulfilled all the conditions referred to in subsection (3); and any reference in this section to an approved shipping investment enterprise shall be construed accordingly.
 
 (1B) Subsections (1) and (1A) shall apply to income derived by an approved shipping investment enterprise in relation to a sea-going ship acquired before the period of its approval, if and only if the enterprise is approved on or after 1st April 2008.
@@ -4275,7 +4331,7 @@ for use outside the limits of the port of Singapore;
 
 [7/2007]
 
-(5) In determining the amount of the income of an approved shipping investment enterprise from the chartering or finance leasing of sea-going shipswhich is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
+(5) In determining the amount of the income of an approved shipping investment enterprise which is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
 
 (a) shall be taken into account notwithstanding that no claim for those allowances has been made; and
 
@@ -4293,7 +4349,7 @@ for use outside the limits of the port of Singapore;
 
 [7/2007]
 
-(7) The Comptroller shall for each year of assessment for which the income of an approved shipping investment enterprise is exempt from tax under subsection (1) issue to the enterprise a statement showing the amount of income exempt from tax under subsection (1); and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(7) The Comptroller shall for each year of assessment for which the income of an approved shipping investment enterprise is exempt from tax under subsection (1) issue to the enterprise a statement (to be included in a notice of any assessment served on the enterprise under section 76) showing the amount of income exempt from tax under subsection (1); and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -4643,7 +4699,11 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 (ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
 
-(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
+(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore:
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+ And provided that no deduction shall be allowed in respect of any contribution or part thereof to a pension or provident fund constituted outside Singapore made in respect of an employee, if the employee has been exempted from tax on such contribution or part thereof under section 13N;
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -4689,21 +4749,21 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 [32/99]
 
-(5) Notwithstanding subsection (1), where, in the basis period for any year of assessment, any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86)) incurs medical expenses falling within that subsection in excess of the specified percentage of the total remuneration of his employees in that basis period, the amount of the excess medical expenses shall not be allowed as deductions.
+(5) Notwithstanding subsection (1), where, in the basis period for any year of assessment, any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86)) incurs medical expenses falling within that subsection in excess of the maximum allowable amount in that basis period, the amount of the excess medical expenses shall not be allowed as deductions.
 
 [Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
 [26/93; 34/2005]
 
-(6) Where, in the basis period for any year of assessment, any employer derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act and incurs medical expenses in excess of the specified percentage of the total remuneration of his employees in that basis period, an amount equal to the excess medical expenses shall be deemed to be income of the employer chargeable to tax at the rate of tax under section 42(1) or 43(1), as the case may be, for that year of assessment.
+(6) Where, in the basis period for any year of assessment, any employer derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act and incurs medical expenses in excess of the maximum allowable amount in that basis period, an amount equal to the excess medical expenses shall be deemed to be income of the employer chargeable to tax at the rate of tax under section 42(1) or 43(1), as the case may be, for that year of assessment.
 
 [Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
 [26/93; 34/2005]
 
-(6A) For the purpose of subsections (5) and (6), the specified percentage for any year of assessment shall be —
+(6A) For the purpose of subsections (5) and (6), the maximum allowable amount in the basis period for any year of assessment shall be —
 
-(a) 2% in the case of an employer who has —
+(a) 2% of the total remuneration of the employer’s employees in that basis period in a case where the employer has —
 
 (i) contributed the specified amount into the medisave accounts maintained under the Central Provident Fund of —
 
@@ -4713,15 +4773,71 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 (ii) incurred expenses in or in connection with the provision of a specified insurance plan to cover, for every calendar month in the basis period for that year of assessment, the cost of medical treatment of at least 50% of the number of local employees who are employed by him as at the first day of that basis period; and
 
-(b) 1% in any other case.
+(b) in any other case, the amount determined in accordance with the formula in subsection (6B).
 
-[34/2005]
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
-(6B) Subsection (6A) shall apply to the year of assessment relating to the basis period which commenced on or after 1st April 2004 and any subsequent year of assessment.
+(6B) For the purpose of subsection (6A)(b), the maximum allowable amount in any basis period shall be ascertained —
 
-[34/2005]
+(a) where the total amount of expenses incurred by the employer in providing qualifying insurance in that basis period is nil, in accordance with the formula
 
-(7) The references to medical expenses in subsections (5) and (6) shall be read as references to medical expenses which would, but for subsection (5), be allowable as deductions under this Act.
+where A
+
+is the lower of —
+
+(i)
+
+the total amount of medical expenses incurred by the employer for his employees in that basis period (excluding the total amount of general contributions made by the employer); and
+
+(ii)
+
+1% of the total remuneration of his employees in that basis period; and
+
+B
+
+is the lower of —
+
+(i)
+
+the total amount of general contributions made by the employer in that basis period; and
+
+(ii)
+
+the difference between 2% of the total remuneration of his employees in that basis period and A; and
+
+(b) where the total amount of expenses incurred by the employer in providing qualifying insurance in that basis period is not nil, in accordance with the formula
+
+where C
+
+is the lower of —
+
+(i)
+
+the total amount of expenses incurred by the employer in providing riders for his employees in that basis period; and
+
+(ii)
+
+1% of the total remuneration of his employees in that basis period; and
+
+D
+
+is the lower of —
+
+(i)
+
+the total amount of medical expenses incurred by the employer for his employees in that basis period (excluding the total amount of expenses incurred by the employer in providing riders for his employees); and
+
+(ii)
+
+the difference between 2% of the total remuneration of his employees in that basis period and C.
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+(6C) For the purpose of subsection (6B), a reference to expenses incurred by an employer in providing qualifying insurance excludes any reimbursement in cash by the employer of the employee for payment by the employee of premiums on such qualifying insurance.
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+(7) The references to medical expenses in subsections (5), (6) and (6B) shall be read as references to medical expenses which would, but for subsection (5), be allowable as deductions under this Act.
 
 [Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
@@ -4729,7 +4845,27 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 (8) In this section —
 
+“co-payment” means the part of the amount of any claim, after deducting the deductible, which a person insured under the MediShield Scheme or an integrated medical insurance plan has to bear under the Scheme or plan;
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+“deductible” means the amount of any claim which a person insured under the MediShield Scheme or an integrated medical insurance plan has to bear before the insurer becomes liable to make payment under the Scheme or plan;
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+“general contribution” means any contribution falling within subsection (1)(f) which is not —
+
+(a) a contribution falling within subsection (6A)(a)(i); or
+
+(b) a sum paid by an employer to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees as reimbursement of the employee for premiums paid or payable by the employee on a qualifying insurance;
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
 “gross rate of pay” has the same meaning as in section 2 of the Employment Act (Cap. 91);
+
+“integrated medical insurance plan” has the same meaning as in the regulations made under section 77(1)(k) of the Central Provident Fund Act (Cap. 36);
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
 “local employee” means a full-time or part-time employee who is a citizen or permanent resident of Singapore;
 
@@ -4747,9 +4883,27 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 “medical treatment” includes all forms of treatment for, and procedures for diagnosing, any physical or mental ailment, infirmity or defect;
 
+“MediShield Scheme” means the MediShield Scheme established and maintained under section 53 of the Central Provident Fund Act;
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
 “part-time employee” has the same meaning as in section 66A of the Employment Act;
 
+“qualifying insurance”, in relation to any basis period of an employer, means medical insurance under the MediShield Scheme or an integrated medical insurance plan that is provided by an employer to employees to cover the cost of medical treatment of —
+
+(a) at least 20% of the number of local employees who are employed by the employer as at the first day of the basis period; and
+
+(b) every local employee who commences his employment with the employer during the basis period,
+
+for every calendar month or part thereof in the basis period that the employees are employed by the employer;
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
 “remuneration” means any wage, salary, leave pay, fee, commission, bonus, gratuity, allowance, other emoluments paid in cash by or on behalf of an employer and contributions to any approved pension or provident fund by any employer which are allowable as deductions under this Act, but does not include any director’s fee, medical expense, cash allowance in lieu of medical expenses and benefit-in-kind;
+
+“rider” means any insurance under which the insurer of the rider is liable to pay in full or in part the deductible or co-payment relating to the MediShield Scheme or an integrated medical insurance plan;
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
 
 “specified amount”, in relation to any calendar month, means —
 
@@ -5045,19 +5199,37 @@ but excludes such expenses on international freight;
 
 ### Expenditure on research and development
 
-14D\.—(1) For the purpose of ascertaining the income of any person carrying on a manufacturing trade or business or a trade or business for the provision of any services, the following expenditure incurred (other than any amount which is allowable as a deduction under section 14) by that person shall be allowed as a deduction:
+14D\.—(1) For the purpose of ascertaining the income of any person carrying on any trade or business and subject to subsection (4), the following expenditure incurred (other than any amount which is allowable as a deduction under section 14) by that person shall be allowed as a deduction:
 
-(a) expenditure incurred on research and development undertaken directly by him and related to that trade or business (except to the extent that it is capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development); and
+(a) expenditure incurred on research and development undertaken directly by him and related to that trade or business (except to the extent that it is capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development);
 
-(b) payments made by that person to a research and development organisation for undertaking on his behalf research and development related to that trade or business.
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(aa) expenditure incurred during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) on research and development undertaken in Singapore directly by him and not related to that trade or business (except to the extent that it is capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development);
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
+(b) payments made by that person to a research and development organisation for undertaking on his behalf in Singapore research and development related to that trade or business ;
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [28/80; 3/89; 24/2000; 37/2002]
 
+(c) payments made during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) by that person to a research and development organisation for undertaking on his behalf in Singapore research and development not related to that trade or business; and
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
+(d) payments made by that person to a research and development organisation for undertaking on his behalf outside Singapore research and development related to that trade or business.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
 (2) For the purposes of this section, any expenditure incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day on which he carries on that trade or business.
 
-(3) If the research and development organisation referred to in subsection (1)(b) is outside Singapore, a claim for deduction shall be allowed to a person only if —
+(3) For the purposes of subsection (1)(d), a claim for deduction shall be allowed to a person only if —
 
 (a) there is an undertaking by the person that any benefit which may arise from the conduct of the research and development shall accrue to the person; and
 
@@ -5065,17 +5237,137 @@ but excludes such expenses on international freight;
 
 [37/2002]
 
+(4) The deduction of the expenditure and payments referred to in subsection (1)(aa) and (c) shall be made in accordance with the following provisions:
+
+(a) if the person derives from the trade or business carried on by him both normal income and concessionary income, the amount of the expenditure or payments shall so far as possible be deducted against the normal income, and any remaining balance of the amount shall be treated as part of the unabsorbed losses in respect of the normal income to be deducted against the concessionary income in accordance with section 37B;
+
+[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
+
+(b) if the concessionary income referred to in paragraph (a) is subject to tax at 2 or more concessionary rates of tax, the deduction under section 37B of the remaining balance referred to in that paragraph shall so far as possible be made against the part of the concessionary income that is subject to tax at the higher or highest concessionary rate of tax, and the deduction under section 37B of any remaining balance shall so far as possible be made against the part of the concessionary income that is subject to tax at the lower or next lowest concessionary rate of tax, and so on;
+
+(c) if the person derives from the trade or business only concessionary income which is subject to tax at a single concessionary rate of tax, a specified amount of the expenditure or payments shall be deducted against the concessionary income;
+
+(d) if the person derives from the trade or business only concessionary income which is subject to tax at 2 or more concessionary rates of tax, a specified amount of the expenditure or payments shall so far as possible be deducted against the part of the concessionary income that is subject to the higher or highest concessionary rate of tax, and any remaining balance of the specified amount shall be treated as part of the unabsorbed losses in respect of that part of the concessionary income that is subject to the higher or highest concessionary rate of tax, to be deducted in accordance with section 37B against the rest of the concessionary income;
+
+(e) if the rest of the concessionary income referred to in paragraph (d) is subject to tax at 2 or more concessionary rates of tax, then paragraph (b) shall apply, with the necessary modifications, to the last-mentioned deduction in paragraph (d).
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(5) In this section —
+
+“concessionary income” means income that is subject to tax at a concessionary rate of tax;
+
+“concessionary rate of tax” has the same meaning as in section 14C;
+
+“normal income” means income that is subject to tax at the rate of tax specified in section 43(1)(a);
+
+“specified amount”, in relation to any expenditure or payments, means an amount computed in accordance with the formula
+
+where A
+
+is the amount of the expenditure or payments ;
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(a)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(b)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+
+### Enhanced deduction for qualifying expenditure on research and development
+
+14DA\.—(1) Subject to this section, for the purpose of ascertaining the income of any person carrying on any trade or business during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive), the following amounts shall be allowed as a deduction in addition to the deduction allowed under section 14D:
+
+(a) 50% of the qualifying expenditure incurred during the basis period on research and development undertaken in Singapore directly by him (except to the extent that it is capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development); and
+
+(b) a specified percentage of all payments made during the basis period by that person to a research and development organisation for undertaking research and development in Singapore on his behalf.
+
+[29/2010 wef 22/11/2010]
+
+(2) Section 14D(4) and (5) shall apply in relation to the deduction of the expenditure and payments referred to in subsection (1)(a) and (b) for research and development that is not related to the trade or business carried on by the person, as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the percentage of the expenditure or payments referred to in subsection (1)(a) or (b) (as the case may be); and
+
+(b) a reference to a specified amount of the expenditure or payments in section 14D(4) is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the percentage of the expenditure or payments referred to in subsection (1)(a) or (b) (as the case may be);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+
+(3) In this section —
+
+“consumables” means any materials or items used in the research and development which, upon such use, are consumed or transformed in such a manner that they are no longer useable in their original form, but does not include utilities;
+
+“qualifying expenditure” means any expenditure attributable to the research and development that is incurred on —
+
+(a) staff costs;
+
+(b) consumables; or
+
+(c) such other matter as the Minister may prescribe by regulations,
+
+[Act 29/2010 wef Y/A 2009 & Sub Ys/A:2010-ACT-29]
+
+but does not include any expenditure to the extent it is subsidised by Government grants or subsidies;
+
+“specified percentage”, in relation to all payments made during the basis period by any person to a research and development organisation for undertaking research and development in Singapore on his behalf, means —
+
+(a) where more than 60% of all such payments made are qualifying expenditure, a percentage ascertained in accordance with the formula
+
+where D
+
+is the percentage of all such payments made which are qualifying expenditures; or
+
+(b) in all other cases, 30%;
+
+“staff costs” means any salary, wages and other benefits paid or granted in respect of employment (excluding director’s fees), whether in money or otherwise, to any employee for carrying out the research and development, and includes ––
+
+(a) expenses incurred for training or certifying the employee for the purpose of carrying out the research and development; and
+
+(b) such other expenses as may be prescribed.
+
 ### Further deduction for expenditure on research and development project
 
 14E\.—(1) Subject to this section, where the Comptroller is satisfied that —
 
-(a) a person carrying on a manufacturing trade or business, or a trade or business for the provision of any services has incurred expenditure in undertaking directly by himself, or in paying a research and development organisation to undertake on his behalf, an approved research and development project in Singapore which is related to that trade or business; or
+(a) a person carrying on any trade or business has incurred expenditure in undertaking directly by himself, or in paying a research and development organisation to undertake on his behalf, an approved research and development project in Singapore which is related to that trade or business;
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
+(aa) a person carrying on any trade or business has incurred during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) expenditure in undertaking directly by himself, or in paying a research and development organisation to undertake on his behalf, an approved research and development project in Singapore which is not related to that trade or business; or
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
 (b) a research and development organisation has incurred expenditure in undertaking an approved research and development project in Singapore and no deduction under this section has been allowed to another person in respect of any expenditure for that project or for another project of which that project forms a part,
 
-there shall be allowed to that person or research and development organisation a further deduction of the amount of such expenditure in addition to the deduction allowed under section 14 or 14D.
+there shall be allowed to that person or research and development organisation a further deduction of the amount of such expenditure in addition to the deduction allowed under section 14, 14D or 14DA, as the case may be.
 
 [28/80; 3/89; 37/2002]
 
@@ -5090,6 +5382,38 @@ there shall be allowed to that person or research and development organisation a
 [7/2007]
 
 (3) No deduction shall be allowed under this section in respect of any expenditure which is not allowed under section 14 or 14D.
+
+(3A) The total amount of deduction allowed under this section and sections 14, 14D and 14DA in respect of any expenditure incurred by a person for an approved research and development project in Singapore shall not exceed 200% of such expenditure incurred.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(3B) Section 14D(4) and (5) shall apply in relation to the deduction of the expenditure and payments referred to in subsection (1)(aa), as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the amount of deduction that would have been allowed under this section for the expenditure or payments referred to in subsection (1)(aa) but for this subsection;
+
+(b) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the amount of the deduction referred to in paragraph (a);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 (4) In this section, “approved” means approved by the Minister or such person as he may appoint.
 
@@ -5815,9 +6139,23 @@ and the amount of the reduction shall be debited to the account.
 
 (h) any amount paid or payable in respect of goods and services tax by the person if he, being required to be registered under the Goods and Services Tax Act (Cap. 117A), has failed to do so, or if he is entitled under that Act to credit that amount of tax as an input tax;
 
-(i) any payment to any provident, savings, widows’ and orphans’ or other society or fund, including the Supplementary Retirement Scheme, except such payments as are allowed under sections 14(1)(e) and (f) and 39(2)(g) and (o);
+(i) any payment to any provident, savings, widows’ and orphans’ or other society or fund, including the Supplementary Retirement Scheme, except —
 
-(i) 
+(i) such payment made by an employer on his employee’s behalf to the Central Provident Fund that are obligatory under the Central Provident Fund Act (Cap. 36);
+
+[34/2008 wef 16/12/2008]
+
+(ii) such payment made by an employer on his employee’s behalf to the retirement account or special account of that employee in accordance with section 18 of the Central Provident Fund Act;
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+(iii) such payment made by an employer on his employee’s behalf to the SRS account of that employee up to the amount of the SRS contribution cap applicable to that employee as determined in accordance with regulations made under section 10L(11); and
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+(iv) such payments as are allowed under section 14(1)(e) and (f);
+
+[34/2008 wef 16/12/2008]
 
 (j) any sum referred to in section 12(6) payable by any person outside Singapore to another person outside Singapore except where the sum is exempt from tax, or tax has been deducted and accounted for under section 45;
 
@@ -5847,7 +6185,7 @@ and the amount of the reduction shall be debited to the account.
 
 [7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O or 14P 14Q .
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14Por 14Q .
 
 [Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
@@ -6181,7 +6519,7 @@ and increased by any balancing charges made; or
 
 (a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure incurred in respect of that motor car or $35,000, whichever is the less;
 
-5(b) the annual allowance to be made under subsection (2)orsection 19A(1)shall be calculated on the basis that the original cost of that motor car is the capital expenditure incurred or $35,000, whichever is the less; and
+5(b) the annual allowance to be made under subsection (2)or section 19A(1)shall be calculated on the basis that the original cost of that motor car is the capital expenditure incurred or $35,000, whichever is the less; and
 
 [27/2009 wef 29/12/2009]
 
@@ -6207,7 +6545,7 @@ and increased by any balancing charges made; or
 
 [32/99]
 
-6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except –
+6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
 (a) a taxi;
 
@@ -6248,6 +6586,42 @@ in respect of which allowances have been made under this section, there shall be
 (6) In subsection (1), “prescribed” means prescribed by an order made by the Minister.
 
 (7) Every order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+(8) Subject to subsection (9), this section shall, with the necessary modifications, apply to a person carrying on any trade or business who incurs during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) capital expenditure on the provision of machinery or plant for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, even though the machinery or plant is not for the purposes of that trade or business.
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
+(9) Section 14D(4) and (5) shall apply in relation to the allowance for the capital expenditure referred to in subsection (8) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the amount of the allowance;
+
+(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
+
+(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the amount of allowance that could have been made against the income of the person under subsection (8) if the income had been subject to tax at the rate specified in section 43(1)(a);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
 ### Allowances of 3 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.
 
@@ -6400,6 +6774,42 @@ there shall be made to him for a period of 3 years an annual allowance of 331/
 (14A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
 
 [49/2004]
+
+(14B) Subject to subsection (14C), this section(other than subsections (2) to (10C)) shall, with the necessary modifications, apply to a person carrying on any trade or business who incurs during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) capital expenditure on the provision of machinery or plant for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, even though the machinery or plant is not for the purpose of that trade or business.
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
+[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
+
+(14C) Section 14D(4) and (5) shall apply in relation to the allowance for the capital expenditure referred to in subsection (14B) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the amount of the allowance;
+
+(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
+
+(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the amount of allowance that could have been made against the income of the person under subsection (14B) if the income had been subject to tax at the rate specified in section 43(1)(a);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
 (15) In this section —
 
@@ -6627,17 +7037,37 @@ is the total amount of any charges made under this section in any previous years
 
 [7/2007; 53/2007]
 
+(10A) No writing-down allowance under shall be made for any capital expenditure incurred by a company referred to in subsection (1) in acquiring intellectual property rights from —
+
+(a) its related party ––
+
+(i) to whom any deduction has been allowed under section 14, 14D, 14DA or 14E for any outgoing, expense or payment incurred for any activity which resulted in the creation of the intellectual property; and
+
+[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
+
+(ii) whose proceeds from the sale, transfer or assignment of those intellectual property rights to the company are not chargeable to tax; or
+
+(b) its related party who acquired the rights, directly or indirectly, from a related party of the company referred to in paragraph (a).
+
+(10B) The Minister may by order exempt a company from subsection (10A) in respect of such transaction as may be specified in the order.
+
+[34/2008 wef 16/12/2008]
+
 (11) In this section —
 
 “capital expenditure” does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any intellectual property rights;
 
-“intellectual property rights” means the right to do or authorise the doing of anything which would, but for that right, be an infringement of any patent, copyright, trademark, registered design, geographical indication, lay-out design of integrated circuit, trade secret or information that has commercial value.
+“intellectual property rights” means the right to do or authorise the doing of anything which would, but for that right, be an infringement of any patent, copyright, trademark, registered design, geographical indication, lay-out design of integrated circuit, trade secret or information that has commercial value;
 
 [34/2008 wef 16/12/2008]
 
 [Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
 
 [24/2001; 21/2003]
+
+“related party” has the same meaning as in section 13(16).
+
+[34/2008 wef 16/12/2008]
 
 ### Writing-down allowances for approved cost-sharing agreement for research and development activities
 
@@ -6837,13 +7267,25 @@ and so on for any subsequent sale, transfer or assignment of the IRU.
 
 (a) ceases to belong to that person (whether on a sale of the machinery or plant or in any other circumstances of any description); or
 
-(b) while continuing to belong to that person, permanently ceases to be used for the purpose of a trade, profession or business carried on by him in Singapore (whether by reason of the discontinuance of the trade, profession or business, or discontinuance of use of such machinery or plant in a trade, profession or business which continues to be carried on in Singapore),
+(b) while continuing to belong to that person —
+
+(i) in a case where the machinery or plant which —
+
+(A) was provided for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore; and
+
+(B) was not provided for the purpose of a trade or business carried on by him,
+
+permanently ceases to be used for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, and is not used for the purpose of a trade, profession or business carried on by him; or
+
+(ii) in any other case, permanently ceases to be used for the purpose of a trade, profession or business carried on by him in Singapore (whether by reason of the discontinuance of the trade, profession or business, or discontinuance of use of such machinery or plant in a trade, profession or business which continues to be carried on in Singapore),
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
 an allowance or charge, to be known as a balancing allowance or a balancing charge, shall in the circumstances mentioned in this section be made to or, as the case may be, on that person for the year of assessment in the basis period for which that event occurs.
 
 (1A) Where the property in machinery or plant passes at less than the open-market price, then for the purpose of determining the amount of any balancing allowance or balancing charge the event shall be treated as if it had given rise to sale moneys of an amount equal to the open-market price of the machinery or plant.
 
-(2) Where machinery or plant continues to belong to that person after the date on which it permanently ceases to be used for the purposes of a trade, profession or business carried on by him in Singapore, it shall be deemed to have been sold on the date of permanent cessation of use at the open-market price on that date.
+(2) Where machinery or plant continues to belong to that person after the date on which it permanently ceases to be used for the purposes of a trade, profession or business carried on by him in Singapore, or (as the case may be) for the purpose of any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, it shall be deemed to have been sold on the date of permanent cessation of use at the open-market price on that date.
 
 [Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
@@ -6882,6 +7324,40 @@ is the capital expenditure incurred in respect of the motor car.
 (b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
 
 [49/2004]
+
+(6B) Section 14D(4) and (5) shall apply in relation to the balancing allowance to be made to a person under subsection (1)(b)(i) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the amount of the balancing allowance;
+
+(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
+
+(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the amount of the balancing allowance that could have been made against the income of the person under subsection (1)(b)(i) if the income had been subject to tax at the rate specified in section 43(1)(a);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+(6C) Notwithstanding anything in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where a balancing charge falls to be made on a person under subsection (1)(b)(i), the amount of the charge shall be deemed to be income of that person that is chargeable to tax at the rate of tax specified in section 43(1)(a).
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
 
 (7) In this section, “open-market price”, in relation to any machinery or plant, means the price which the machinery or plant would have fetched if sold in the open market at the time of the event in question; except that where the Comptroller is satisfied by reason of the special nature of any machinery or plant that it is not practicable to determine an open-market price, he may adopt such other value as appears to him to be reasonable in the circumstances.
 
@@ -8449,13 +8925,21 @@ within such time and in such manner as the Comptroller may determine.
 
 (b) any company to which section 97D or 97G of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections;
 
-(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act; and
+(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act;
+
+[34/2008 wef 16/12/2008]
+
+[34/2008 wef 16/02/2008]
 
 (d) any company, in respect of qualifying deductions under subsection (14) relating to any income the tax on which is remitted under the provisions of this Act, unless the Minister otherwise approves; and
 
 [34/2008 wef 16/02/2008]
 
 (e) any company, in respect of qualifying deductions under subsection (14)(b) relating to any loss arising from any unutilised deduction under section 14Q; and
+
+(f) any qualifying start-up company, in respect of qualifying deductions under subsection (14)(b) relating to any loss incurred by the company for which any cash grant is given under section 37H.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [37/2002; 11/2004; 7/2007]
 
@@ -8481,7 +8965,7 @@ within such time and in such manner as the Comptroller may determine.
 
 (19) In this section —
 
-“assessable income”, in relation to a claimant company or transferor company, means assessable income of the company as determined under section 37 after deducting any investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+“assessable income”, in relation to a claimant company or transferor company, means assessable income of the company as determined under section 37 after deducting any deduction allowed under section 37G and investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -8512,6 +8996,10 @@ within such time and in such manner as the Comptroller may determine.
 (a) a fixed amount or at a fixed rate per cent of the value of the shares; or
 
 (b) a fixed rate per cent of the profits of the company;
+
+“qualifying start-up company” has the same meaning as in section 37H;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 “residual assets”, in relation to a Singapore company, means net assets of the company after distribution made to —
 
@@ -8675,7 +9163,7 @@ or within such further time as the Comptroller may allow.
 
 [34/2005]
 
-(12) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to or any loss specified in subsection (9)(b) incurred by a company for any year of assessment shall not be deductible against income for the immediate preceding year of assessment unless the Comptroller is satisfied that the shareholders of the company on the first day of the year in which the allowances arose or in which the loss was incurred, as the case may be, were substantially the same as the shareholders of the company on the last day of the immediate preceding year of assessment .
+(12) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to or any loss specified in subsection (9)(b) incurred by a company for any year of assessment shall not be deductible against income for the immediate preceding year of assessment unless the Comptroller is satisfied that the shareholders of the company on the first day of the year in which the allowances arose or in which the loss was incurred, as the case may be, were substantially the same as the shareholders of the company on the last day of the immediate preceding year of assessment.
 
 [Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
@@ -8725,7 +9213,7 @@ is the concessionary rate of tax;
 
 “assessable income” means —
 
-(a) in relation to a company, assessable income of the company as determined under section 37 after deducting any investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and any deductions claimed under section 37C;
+(a) in relation to a company, assessable income of the company as determined under section 37 after deducting any deduction allowed under section 37G, investment allowance under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and any deductions claimed under section 37C;
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -8835,6 +9323,216 @@ is any amount deducted by the transferor against his or her assessable income fo
 
 [34/2005]
 
+### Deduction for incremental expenditure on research and development
+
+37G\.—(1) Subject to this section, where any company incurs during the basis period for any year of assessment between the year of assessment 2010 and the year of assessment 2016 (both years inclusive) any incremental qualifying research and development expenditure, then there shall be allowed to that company, on due claim, a deduction against its assessable income computed in accordance with this section.
+
+(2) For the purposes of this section, the company shall keep an account to be known as its research and development account.
+
+(3) If —
+
+(a) the company derives any income chargeable to tax under this Act during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive); and
+
+[29/2010 wef 22/11/2010]
+
+(b) the amount standing to its research and development account on the last day of that basis period is less than $450,000,
+
+[29/2010 wef 22/11/2010]
+
+then there shall be credited to the research and development account on the last day of that basis period the lowest of —
+
+(i) an amount computed in accordance with the specified formula;
+
+(ii) the difference between $450,000 and the amount standing to the research and development account on the last day of that basis period; and
+
+[29/2010 wef 22/11/2010]
+
+(iii) $150,000.
+
+(4) For the purposes of subsection (3), the specified formula means —
+
+where A
+
+is the assessable income of the company for the year of assessment;
+
+B
+
+is the amount of deduction allowed against the assessable income of the company under subsection (5) for the year of assessment (if applicable);
+
+C
+
+is the amount of investment allowance deducted under Part X of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) against the chargeable income of the company for the year of assessment (if any);
+
+D
+
+is the amount of qualifying deduction transferred to the company under section 37C (if any) and qualifying deduction allowed to the company under section 37E for the year of assessment (if any); and
+
+E
+
+is the amount of income of the company not charged to tax under section 43(6) or (6A) for the year of assessment.
+
+(5) Where on the first day of the basis period for any year of assessment between the year of assessment 2010 and the year of assessment 2016 (both years inclusive), the research and development account of the company is in credit, and —
+
+(a) the company has assessable income for that year of assessment; and
+
+(b) the company has incurred incremental qualifying research and development expenditure during that basis period,
+
+then there shall be deducted from the assessable income of the company for that year of assessment an amount equal to the lowest of —
+
+(i) the incremental qualifying research and development expenditure incurred by that company during the basis period;
+
+(ii) the amount of credit standing in the research and development account as at the first day of the basis period; and
+
+(iii) the assessable income of the company for that year of assessment.
+
+(6) As soon as an amount is deducted against the assessable income of a company under subsection (5), the research and development account shall be debited with such amount.
+
+(7) Any deduction under this section shall so far as possible be made against the part of its assessable income that is subject to the highest rate of tax, and any remaining balance of the deduction shall so far as possible be made against the part of its assessable income that is subject to the next highest rate of tax, and so on.
+
+(8) For the purpose of this section, the Minister may make regulations to give effect to or for carrying out the purposes of this section.
+
+(9) A company to which a deduction has been given under this section shall deliver to the Comptroller a copy of the audited account made up to any date specified by him whenever called upon to do so by notice in writing.
+
+(10) In this section, unless the context otherwise requires —
+
+“assessable income”, in relation to a company for any year of assessment, means the remainder of its statutory income for the year of assessment after making the deductions under sections 37 and 37B;
+
+“base qualifying research and development expenditure” means the amount of qualifying research and development expenditure incurred in the base year;
+
+“base year” —
+
+(a) in relation to a company incorporated in the basis period relating to the year of assessment 2009 or any subsequent year of assessment, means the basis period in which the company is incorporated; or
+
+(b) in relation to any other company, means the basis period relating to the year of assessment 2008;
+
+“incremental qualifying research and development expenditure”, in relation to the basis period for any year of assessment, means the excess of qualifying research and development expenditure incurred during the basis period relating to the year of assessment over the base qualifying research and development expenditure;
+
+“qualifying research and development expenditure” means any research and development expenditure which ––
+
+(a) qualifies for deduction under section 14D;
+
+(b) is incurred in respect of research and development activities carried out in Singapore; and
+
+(c) is not funded by any grant or subsidy from the Government.
+
+[Act 29/2010 wef Y/A 2009 & Sub Ys/A:2010-ACT-29]
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+### Cash grant for research and development expenditure for start-up company
+
+37H\.—(1) Subject to this section and such conditions as may be prescribed by the Minister by regulations, a qualifying start-up company may apply to the Comptroller for any of its first 3 years of assessment falling between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) for a cash grant of the specified amount, or $20,250, whichever is the lower, if the qualifying start-up company —
+
+(a) has incurred at least $150,000 of qualifying research and development expenditure in the basis period relating to that year of assessment;
+
+(b) where the qualifying start-up company has commenced any trade or business before or in the basis period relating to that year of assessment, has incurred any tax adjusted loss in that basis period; and
+
+(c) carries on research and development in Singapore at the time the application under this section is made.
+
+[29/2010 wef 22/11/2010]
+
+(2) An application made to the Comptroller under subsection (1) shall be —
+
+(a) made at the time of lodgment by the qualifying start-up company of a return of its income for that year of assessment or within such earlier or extended time as the Comptroller may allow; and
+
+(b) accompanied by a copy of the audited account of the qualifying start-up company for the basis period relating to that year of assessment, as well as such information and supporting documentation to be given in such form and manner as the Comptroller may specify.
+
+(3) The specified amount for any year of assessment under subsection (1) shall be computed in accordance with the formula
+
+where A
+
+is —
+
+(a)
+
+where the qualifying start-up company has not commenced any trade or business, the lower of —
+
+(i)
+
+the sum total of qualifying research and development expenditure incurred by the company in the basis period relating to that year of assessment and any amounts described under section 14DA(1)(a) and (b) for that year of assessment; and
+
+(ii)
+
+$225,000; or
+
+(b)
+
+where the qualifying start-up company has commenced any trade or business, the lowest of —
+
+(i)
+
+the tax adjusted loss of the company for the basis period relating to that year of assessment;
+
+(ii)
+
+the sum total of qualifying research and development expenditure incurred by the company in the basis period relating to that year of assessment and any amounts described under section 14DA(1)(a) and (b) for that year of assessment; and
+
+(iii)
+
+$225,000.
+
+(4) Where any tax, duty, interest or penalty is due under this Act, the Goods and Services Tax Act (Cap. 117A), the Property Tax Act (Cap. 254) or the Stamp Duties Act (Cap. 312) by the qualifying start-up company to the Comptroller of Income Tax, Comptroller of Goods and Services Tax, Comptroller of Property Tax or Commissioner of Stamp Duties, as the case may be, the amount of cash grant payable by the Comptroller to the company shall be reduced by the amount so due.
+
+(5) Any amount reduced under subsection (4) shall be deemed to be tax, duty, interest or penalty paid by the qualifying start-up company under the relevant Act and shall (if it is due under an Act other than this Act) be paid by the Comptroller to the Comptroller of Goods and Services Tax, Comptroller of Property Tax or Commissioner of Stamp Duties, as the case may be.
+
+(6) For the purposes of sections 14D(2) and 37(3)(a), the expenditure and loss incurred by a qualifying start-up company shall be reduced by the amount in respect of which a cash grant has been given to the company under subsection (1).
+
+(7) Where a qualifying start-up company has not commenced any trade or business, any amount of expenditure in respect of which a cash grant has not been given to that company under subsection (1) shall not qualify for any cash grant under that subsection in any subsequent year of assessment.
+
+(8) Where a company has received an amount under subsection (1) —
+
+(a) without having satisfied all of the requirements in that subsection; or
+
+(b) that is in excess of that which may be given to it under this section,
+
+such amount shall be recoverable by the Comptroller from the company as a debt due to the Government.
+
+(9) The amount recoverable under subsection (8) shall be payable at the place stated in a notice served by the Comptroller on the company within one month after the service of the notice.
+
+(10) The Comptroller may, in his discretion and subject to such terms and conditions, including the imposition of interest, as he may impose, extend the time limit within which payment is to be made.
+
+(11) Sections 87(1) and (2), 89(1) to (4) and 90 shall apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (8) and any interest imposed under subsection (10) as they apply to the collection and recovery of tax, and for the purpose of such application, references in section 87(1) to the provisions of this Act relating to the collection and recovery of tax are references to sections 89(1) to (4) and 90.
+
+(12) Where the Comptroller has recovered any amount under subsection (8), the amount of the expenditure or loss referred to in subsection (6) shall be increased by an amount determined in accordance with regulations made by the Minister under this subsection, unless disallowed by the Comptroller under subsection (13).
+
+(13) The Comptroller may disallow the increase under subsection (12) if he is satisfied that the company has —
+
+(a) provided the Comptroller with any information or document, in connection with an application under subsection (1), which is false or misleading in a material particular; or
+
+(b) made use of any fraud, art or contrivance whatsoever or authorised the use of any such fraud, art or contrivance, in connection with an application under subsection (1).
+
+(14) In this section —
+
+“first 3 years of assessment”, in relation to a qualifying start-up company, means the year of assessment relating to the basis period during which the company is incorporated in Singapore and the 2 consecutive years of assessment immediately following that year of assessment;
+
+“qualifying research and development expenditure” has the same meaning as in section 37G;
+
+“qualifying start-up company” means any company —
+
+(a) which is incorporated in Singapore;
+
+(b) which has any of its first 3 years of assessment falling within the period from the year of assessment 2009 to the year of assessment 2013 (both years inclusive);
+
+[29/2010 wef 22/11/2010]
+
+(c) which is resident in Singapore for the year of assessment for which the company makes an application under subsection (1);
+
+(d) the total share capital of which is beneficially held directly by no more than 20 shareholders —
+
+(i) all of whom are individuals throughout the basis period for the year of assessment for which the company makes an application under subsection (1); or
+
+(ii) at least one of whom is an individual holding at least 10% of the total number of issued ordinary shares of the company throughout the basis period for the year of assessment for which the company makes an application under subsection (1);
+
+“tax adjusted loss”, in relation to a qualifying start-up company, means any loss in its trade or business —
+
+(a) which is incurred in the basis period referred to in subsection (1)(b);
+
+(b) which, had it been a profit, would have been assessable under this Act; and
+
+(c) which is not deducted for the year of assessment to which the basis period relates because of insufficiency of statutory income of the qualifying start-up company.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
 ## PART X
 
 ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
@@ -8917,11 +9615,11 @@ there shall be allowed in respect of each such child according to his age among 
 
 Provided that in the case of any unmarried child incapacitated from maintaining himselfby reason of physical or mental infirmity whose income was not more than $2,000 in that yearand in respect of whom —
 
-(A) a deduction is allowable under paragraph 1 of the Fifth Schedule, the deduction shall be increased to $3,500;
+(A) a deduction is allowable under paragraph 1 of the Fifth Schedule, the deduction shall be increased to $3,500 (if the year of assessment is 2008), or $5,500 (if the year of assessment is 2009 or a subsequent year of assessment);
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
-(B) no deduction is allowable under the Fifth Schedule, there shall be allowed a deduction of $3,500;
+(B) no deduction is allowable under the Fifth Schedule, there shall be allowed a deduction of $3,500 (if the year of assessment is 2008), or $5,500 (if the year of assessment is 2009 or a subsequent year of assessment);
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -9035,7 +9733,7 @@ there shall be allowed in respect of each such dependant a deduction of $3,500; 
 
 Deduction for course fees
 
-(k) had attended any course of study, seminar or conference for the purpose of gaining an approved academic or professional qualification, or had attended such other approved course, seminar or conference as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500 ; but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under section 14;
+(k) had attended any course of study, seminar or conference for the purpose of gaining an approved academic , professional or vocational qualification, or had attended such other approved course, seminar or conference as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to subsection (12B); but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under subsection (12A) or section 14;
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -9071,7 +9769,7 @@ Deduction for operationally ready national servicemen
 
 Deduction for contributions under Supplementary Retirement Scheme
 
-(o) has contributed to an SRS account with an SRS operator, there shall be allowed a deduction of the amount of such contribution up to the amount of the SRS contribution cap applicable to him as determined in accordance with regulations made under section 10L(11), except that no deduction shall be allowed if —
+(o) has contributed by himself or by his employer on his behalf to an SRS account with an SRS operator, there shall be allowed a deduction of the amount of such contribution up to the amount of the SRS contribution cap applicable to him as determined in accordance with regulations made under section 10L(11), except that no deduction shall be allowed if —
 
 (i) his SRS account is suspended as at 31st December of the year immediately preceding the year of assessment under regulations made under section 10L; or
 
@@ -9091,9 +9789,21 @@ Deduction for grandparent caregiver
 
 there shall be allowed against her earned income a deduction of $3,000 in respect of one such parent or grandparent only:
 
-Provided that a deduction under this paragraph in respect of that parent or grandparent shall be allowed to one woman only and where more than one woman claims a deduction under this paragraph in respect of the same parent or grandparent, a deduction shall be allowed to such claimant as the women may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final, and in this paragraph, “children” has the same meaning as “child” in the Fifth Schedule.
+Provided that a deduction under this paragraph in respect of that parent or grandparent shall be allowed to one woman only and where more than one woman claims a deduction under this paragraph in respect of the same parent or grandparent, a deduction shall be allowed to such claimant as the women may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final, and in this paragraph, “children” has the same meaning as “child” in the Fifth Schedule;
 
 [26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 30/2007; 53/2007]
+
+Deduction for voluntary contribution to medisave account
+
+(q) has made a voluntary contribution to the Central Provident Fund up to the amount allowable under the Central Provident Fund Act (Cap. 36) and has directed an amount of such contribution that is within the medisave contribution ceiling prevailing at the time when the contribution was made, to be paid to his medisave account maintained under the Central Provident Fund Act (referred to in this paragraph as relevant contribution), there shall be allowed a deduction of the amount equal to
+
+where A
+
+is the amount of relevant contribution; and
+
+B
+
+is the amount of relevant contribution that is allowed a deduction under paragraph (h).
 
 (2A) In the case of an individual resident in Singapore in the year of assessment who was an operationally ready national serviceman and who —
 
@@ -9123,7 +9833,7 @@ there shall be allowed —
 
 [7/2007]
 
-(3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident of Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his spouse’s, his sibling’s, his parent’s or his grandparent’s retirement account , there shall be allowed a deduction of the amount of such payment or $7,000, whichever is the less; except that no payment made to his spouse’s or his sibling’s retirement account shall be allowed as a deduction if the income of that spouse or sibling exceeds $2,000 in the year preceding the year of payment.
+(3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident of Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his spouse’s, his sibling’s, his parent’s or his grandparent’s retirement account or special account, there shall be allowed a deduction of the amount of such payment or $7,000, whichever is the less; except that no payment made to his spouse’s or his sibling’s retirement account or special account shall be allowed as a deduction if the income of that spouse or sibling exceeds $2,000 in the year preceding the year of payment.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -9131,13 +9841,17 @@ there shall be allowed —
 
 [53/2007]
 
-(4) The total deduction allowed under subsection (3) in respect of any amount paid by a person to his, his spouse’s, his sibling’s, his parent’s and his grandparent’s retirement accounts shall not exceed such amount as may be prescribed; and where more than one person is entitled to claim such deduction in respect of the same spouse, sibling, parent or grandparent, the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
+(3A) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident of Singapore and who or whose employer on his behalf, in the year preceding the year of assessment, has paid money to his retirement account or special account in accordance with section 18 of the Central Provident Fund Act (Cap. 36), there shall be allowed a deduction of the amount of such payment or $7,000, whichever is the less.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(4) The total deduction allowed under subsection (3) in respect of any amount paid by a person to his spouse’s, his sibling’s, his parent’s and his grandparent’s retirement accounts or special accounts shall not exceed such amount as may be prescribed; and where more than one person is entitled to claim such deduction in respect of the same spouse, sibling, parent or grandparent, the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [24/2000; 49/2004; 53/2007]
 
-(5) For the purposes of subsection (3), a claim for deduction shall only be granted if the claim contains such particulars and is supported by such proof as the Comptroller may require.
+(5) For the purposes of subsections (3) and (3A), a claim for deduction shall only be granted if the claim contains such particulars and is supported by such proof as the Comptroller may require.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -9173,7 +9887,7 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 [20/91; 49/2004; 30/2007]
 
-(12) Where an individual has commenced a new trade, business, profession, vocation or employment within 2 years of assessment from the year of assessment relating to the year in which he completed any course of study or attended any seminar or conference on or after 1st January 2003 (other than those referred to in subsection (2)(k) or where a deduction in respect of which has been allowed under section 14) which is related to the new trade, business, profession, vocation or employment, there shall be allowed to him on due claim a deduction of the amount incurred by him on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500 and the following conditions:
+(12) Where an individual has commenced a new trade, business, profession, vocation or employment within 2 years of assessment from the year of assessment relating to the year in which he completed any course of study or attended any seminar or conference on or after 1st January 2003 (other than those referred to in subsections (2)(k) and (12A) or where a deduction in respect of which has been allowed under section 14) which is related to the new trade, business, profession, vocation or employment, there shall be allowed to him on due claim a deduction of the amount incurred by him on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to subsection (12B) and the following conditions:
 
 (a) the individual is resident in Singapore in the year of assessment in which he makes the claim;
 
@@ -9183,6 +9897,26 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 [21/2003]
 
+(12A) Where an individual has incurred in any year an amount on the fees (including examination, tuition and registration fees) of any course of study completed on or after 1st January 2008 or any seminar or conference attended on or after 1st January 2008 for the purpose of gaining an approved academic, professional or vocational qualification, there shall be allowed to him on due claim a deduction in respect of those fees in a year of assessment subsequent to the year in which the fees were incurred, being —
+
+(a) the first such year of assessment in which the assessable income of the individual exceeds $22,000; or
+
+(b) the second subsequent year of assessment from the year of assessment relating to the year in which he completed the course or attended the seminar or conference for which the fees were incurred,
+
+whichever is the earlier, subject to subsection (12B) and the following conditions:
+
+(i) the individual is resident in Singapore in the year of assessment for which he makes the claim; and
+
+(ii) no deduction of such amount has been allowed under subsection (2)(k) or section 14.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(12B) The total amount of deduction in respect of fees allowed to an individual for any year of assessment in respect of one or more courses of study, seminars or conferences under subsections (2)(k), (12) and (12A) shall not exceed $3,500 .
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
+
 (13) In this section —
 
 “additional wages” has the same meaning as in the Central Provident Fund Act (Cap. 36);
@@ -9190,6 +9924,10 @@ there shall be allowed a deduction against her earned income equal to twice the 
 “apportioned employment income” has the same meaning as in section 13N(7);
 
 “approved” means approved by the Minister or such person as he may appoint;
+
+“medisave contribution ceiling”, in relation to an individual, means the maximum amount directed by the Minister under section 13(6) of the Central Provident Fund Act;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 “NOR individual” has the same meaning as in section 13N(7);
 
@@ -9213,7 +9951,7 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 ### Relief for non-resident citizens and certain other non-residents
 
-40\.—(1) Any individual who in any year of assessment is not resident in, but is a citizen of, Singapore shall be allowed such relief, if any, as will reduce the amount of tax payable by him in respect of that year to an amount which bears the same proportion to the amount of tax which would be so payable if he were resident in Singapore in that year, and if the tax were charged on his aggregate income, reduced by any deductions which would be allowable under section 39 (except subsections (2)(k)and (12) thereof), as the amount of his assessable income (other than specified income) bears to his aggregate income.
+40\.—(1) Any individual who in any year of assessment is not resident in, but is a citizen of, Singapore shall be allowed such relief, if any, as will reduce the amount of tax payable by him in respect of that year to an amount which bears the same proportion to the amount of tax which would be so payable if he were resident in Singapore in that year, and if the tax were charged on his aggregate income, reduced by any deductions which would be allowable under section 39 (except subsections (2)(k), (12) and (12A) thereof), as the amount of his assessable income (other than specified income) bears to his aggregate income.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -9465,15 +10203,15 @@ RATES OF TAX
 
 (i) qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(d) prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+(d) prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; and
 
 [34/2008 wef 16/12/2008]
 
@@ -9483,7 +10221,7 @@ RATES OF TAX
 
 (7) Subsection (6) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
+(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
@@ -9491,15 +10229,15 @@ RATES OF TAX
 
 (i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; and
 
 [34/2008 wef 16/12/2008]
 
@@ -9521,7 +10259,7 @@ where 50% or more of the issue of those securities is beneficially held or funde
 
 [34/2005; 53/2007]
 
-### Rebate for second, third and fourth child of family
+### Rebate for children of family
 
 42A\.—(1) Where an individual resident in Singapore has —
 
@@ -9551,19 +10289,41 @@ then there shall, in respect of that child, be allowed for the year of assessmen
 
 [7/2007]
 
-(2A) Where more than one individual is entitled to claim the rebate referred to in subsection (1) or (2), the rebate shall be apportioned between them in such proportion as they may agree or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
+(2A) Where an individual resident in Singapore has —
 
-[7/2007]
+(a) a first child of the family born to him on or after 1st January 2008 who is legitimate at the time of the birth;
+
+(b) an illegitimate first child of the family born to him on or after 1st January 2008 and the individual becomes lawfully married to the other natural parent of the child before the child reaches 6 years of age; or
+
+(c) a first child of the family adopted by him under any written law relating to the adoption of children on or after 1st January 2008 and before the child reaches 6 years of age,
+
+then there shall, in respect of that child, be allowed for the year of assessment immediately following the year of the birth in the case of paragraph (a), the year of marriage in the case of paragraph (b), or the year of the adoption in the case of paragraph (c), a rebate of $5,000 against the tax payable by that individual.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(2B) Where an individual resident in Singapore has —
+
+(a) a fifth or subsequent child of the family born to him on or after 1st January 2008 who is legitimate at the time of the birth;
+
+(b) an illegitimate fifth or subsequent child of the family born to him on or after 1st January 2008 and the individual becomes lawfully married to the other natural parent of the child before the child reaches 6 years of age; or
+
+(c) a fifth or subsequent child of the family adopted by him under any written law relating to the adoption of children on or after 1st January 2008 and before the child reaches 6 years of age,
+
+then there shall, in respect of that child, be allowed for the year of assessment immediately following the year of the birth in the case of paragraph (a), the year of marriage in the case of paragraph (b), or the year of the adoption in the case of paragraph (c), a rebate of $20,000 against the tax payable by that individual.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 (2C) Where more than one individual is entitled to claim the rebate referred to in subsection (1), (2), (2A) or (2B), the rebate shall be apportioned between them in such proportion as they may agree or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
 
-(3) For the purposes of subsections (1), (2) and (2A) , where full effect cannot be given to the rebate in respect of any child by reason of an insufficiency of the tax payable by an individual for that year of assessment, the balance of the unabsorbed rebate shall be available for deduction against the tax payable by the individual for the year of assessment immediately following that year of assessment and any subsequent year of assessment.
+(3) For the purposes of subsections (1) to (2C), where full effect cannot be given to the rebate in respect of any child by reason of an insufficiency of the tax payable by an individual for that year of assessment, the balance of the unabsorbed rebate shall be available for deduction against the tax payable by the individual for the year of assessment immediately following that year of assessment and any subsequent year of assessment.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [49/2004; 7/2007]
 
-(4) Where the second, third or fourth child in respect of whom a rebate is allowable to an individual under this section is adopted by another person, the rebate or balance, if any, of the unabsorbed rebate shall not be available for deduction against the tax payable by the individual for any year of assessment following the year in which the child is adopted.
+(4) Where the child in respect of whom a rebate is allowable to an individual under this section is adopted by another person, the rebate or balance, if any, of the unabsorbed rebate shall not be available for deduction against the tax payable by the individual for any year of assessment following the year in which the child is adopted.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [49/2004]
 
@@ -9601,15 +10361,23 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 [49/2004]
 
-(10) No rebate shall be allowed under this section in respect of a child who —
+(10) No rebate shall be allowed under this section for the year of assessment 2008 or a preceding year of assessment, in respect of a child who at the time of his birth or adoption or the marriage of his natural parents (as the case may be), has more than 3 other siblings who are members of the same household.
 
-(a) at the time of his birth or adoption or the marriage of his natural parents (as the case may be), has more than 3 other siblings who are members of the same household; or
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
-(b) is adopted by an individual before the individual is married.
+(10A) No rebate shall be allowed under this section in respect of a child who is adopted by an individual before the individual is married.
 
-[49/2004; 7/2007]
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 (11) In this section —
+
+“first child of the family” means a child of the family who —
+
+(a) is a citizen of Singapore at the time of his birth or adoption or the marriage of his natural parents (as the case may be), or within 12 months thereafter; and
+
+(b) at the time of his birth, adoption or the marriage of his natural parents (as the case may be), has no other sibling who is a member of the same household;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 “second child of the family” means a child of the family who —
 
@@ -9628,6 +10396,14 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 (a) is a citizen of Singapore at the time of his birth or adoption or the marriage of his natural parents (as the case may be), or within 12 months thereafter; and
 
 (b) at the time of his birth, adoption or the marriage of his natural parents (as the case may be), has 3 other siblings who are members of the same household;
+
+“fifth or subsequent child of the family” means a child of the family who —
+
+(a) is a citizen of Singapore at the time of his birth or adoption or the marriage of his natural parents (as the case may be), or within 12 months thereafter; and
+
+(b) at the time of his birth, adoption or the marriage of his natural parents (as the case may be), has at least 4 other siblings who are members of the same household;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 “sibling” means a brother or sister and includes a step-brother, a step-sister and a brother or sister adopted under any written law relating to the adoption of children.
 
@@ -9793,11 +10569,13 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 “immovable property-related assets” means listed or unlisted debt securities and listed shares issued by property corporations, mortgage-backed securities, other property funds, and assets incidental to the ownership of immovable property;
 
-“qualifying company” means a company incorporated in Singapore (other than a company limited by guarantee) which for each of the first 3 years of assessment —
+“qualifying company” means a company incorporated in Singapore (other than a company limited by guarantee) which for each of the first 3 years of assessment is resident in Singapore for that year of assessment, and has its total share capital beneficially held directly by no more than 20 shareholders —
 
-(a) is resident in Singapore for that year of assessment; and
+(a) all of whom are individuals throughout the basis period for that year of assessment; or
 
-(b) has total share capital which is beneficially held, directly or indirectly, by no more than 20 persons all of whom are individuals throughout the basis period for that year of assessment;
+(b) at least one of whom is an individual holding at least 10% of the total number of issued ordinary shares of the company throughout the basis period for that year of assessment;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 “real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and listed on the Singapore Exchange, and that invests or proposes to invest in immovable property and immovable property-related assets;
 
@@ -10141,15 +10919,15 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
+(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008;
+(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
@@ -10167,7 +10945,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (2) Subsection (1)(a), (aa), (ab), (ac) or (ad), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008;
+(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
@@ -10175,15 +10953,15 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008;
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008;
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013;
 
 [34/2008 wef 16/12/2008]
 
-(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; and
 
 (e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -10199,7 +10977,7 @@ where 50% or more of the issue of those securities is beneficially held or funde
 
 (a) income derived before 1st January 2004 by any financial institution from arranging, underwriting or distributing any qualifying debt securities; and
 
-(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 27th February 2008,
+(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 31st December 2013,
 
 [34/2008 wef 16/12/2008]
 
@@ -10947,11 +11725,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (9) This section shall not apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008, subject to such conditions as the Minister may impose;
+(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2013, subject to such conditions as the Minister may impose;
 
 [34/2008 wef 16/12/2008]
 
-(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008, subject to such conditions as the Minister may impose.
+(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2011, subject to such conditions as the Minister may impose.
 
 [34/2008 wef 16/12/2008]
 
@@ -10971,13 +11749,13 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (a) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
 
-(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008.
+(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2013.
 
 [34/2008 wef 16/12/2008]
 
 [7/2007]
 
-(2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008, subject to such conditions as the Minister may impose.
+(2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2013, subject to such conditions as the Minister may impose.
 
 [34/2008 wef 16/12/2008]
 
@@ -10985,11 +11763,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (2B) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to —
 
-(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2013; or
 
 [34/2008 wef 16/12/2008]
 
-(b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008.
+(b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2011.
 
 [34/2008 wef 16/12/2008]
 
@@ -11411,13 +12189,35 @@ then, if the dividend is paid to a company which controls, directly or indirectl
 
 (c) any dividend derived therefrom;
 
-(d) any income from employment therein; or
+(d) any income from employment therein;
 
-(e) any profit derived from outside Singapore by a branch in that territory of a company resident in Singapore.
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(e) any profit derived from outside Singapore by a branch in that territory of a company resident in Singapore;
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [26/93; 37/2002; 21/2003]
+
+(f) any income derived from any trade or business carried on in that territory through a permanent establishment in that territory;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(g) any discount or premium from debt securities or interest derived from that territory where the payment is not —
+
+(i) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore); or
+
+(ii) deductible against any income accruing in or derived from Singapore;
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(h) any rent or other income ancillary to the holding of immovable properties located in that territory but not including gains from the disposal of such immovable properties derived from a trade or business carried on in Singapore; and
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+(i) any gains or profits of an income nature not falling within any of the preceding paragraphs that is derived from that territory.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 (2) Where any dividend in respect of which tax credit is given under subsection (1)(c) is paid by a company which is resident outside Singapore to a person resident in Singapore who owns not less than 25% of the total number of issued shares of the company paying the dividend, the tax credit shall take into account any tax paid by that company in the country in which it is resident in respect of its income out of which the dividend is paid.
 
@@ -11438,6 +12238,10 @@ then, if the dividend is paid to a company which controls, directly or indirectl
 (6) The Minister may, in any particular case, waive the requirement of 25% share ownership referred to in subsections (2) and (3).
 
 [32/95]
+
+(7) In this section, “debt securities” has the same meaning as in section 43N(4).
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 ### Tax credits for trust income to which beneficiary is entitled
 
@@ -11635,7 +12439,9 @@ RETURNS
 
 [49/2004]
 
-(2) The Comptroller may, in any notice made under subsection (1), exempt from liability to furnish returns such classes of persons not liable to pay tax as he thinks fit, and any person so exempted need not furnish a return under that subsection unless he is required by the Comptroller to do so under subsection (3).
+(2) The Comptroller may, in any notice made under subsection (1), exempt from liability to furnish returns such classes of persons as he thinks fit, and any person so exempted need not furnish a return under that subsection unless he is required by the Comptroller to do so under subsection (3).
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [2/92]
 
@@ -11959,7 +12765,7 @@ ASSESSMENTS AND OBJECTIONS
 
 ### Comptroller to make assessments
 
-72\.—(1) The Comptroller shall proceed to assess every person chargeable with tax as soon as may be after the expiration of the time allowed to such person for the delivery of the return provided for in section 62 .
+72\.—(1) The Comptroller shall proceed to assess every person chargeable with tax as soon as may be after the expiration of the time allowed to such person for the delivery of the return provided for in section 62 or, if he is exempted from the liability to deliver a return under section 62(2), after the expiration of the time that would have been allowed to him for the delivery of the return if he had not been so exempted.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -12049,7 +12855,7 @@ the Comptroller shall according to the best of his judgment give, by way of revi
 
 (b) where no tax is payable, a notice to that effect,
 
-and in either case the Comptroller shall inform the person assessed to tax of his rights under subsections (2) and (3) .
+and in either case the Comptroller shall inform the person assessed to tax of his rights under subsections (2) and (3) and (if applicable) his duty under subsection (8).
 
 [32/99; 49/2004]
 
@@ -12074,6 +12880,14 @@ and in either case the Comptroller shall inform the person assessed to tax of hi
 [32/99]
 
 (7) Wherever requisite, any reference in this Act to an assessment or an additional assessment shall be construed as including a reference to an assessment or additional assessment as revised under subsection (6)(b).
+
+(8) If any incorrect information appears in a notice of assessment for any year of assessment served on a person who is exempted from the liability to furnish a return under section 62(2), he shall, within 30 days from the date of service of the notice or such extended time as the Comptroller may allow, inform the Comptroller by notice in writing —
+
+(a) if the incorrect information relates to any understatement or omission of income, of the correct amount of income from every source for that year of assessment; or
+
+(b) if the incorrect information relates to any deduction or relief which is excessive or which is wrongly granted, of the correct amount of deduction or relief for that year of assessment or the fact that the deduction or relief is wrongly granted, as the case may be.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 ### Errors and defects in assessment and notice
 
@@ -12551,7 +13365,7 @@ where the Comptroller is satisfied that the remission of tax would be beneficial
 
 ### Relief in respect of error or mistake
 
-93A\.—(1) If any person who has paid tax for any year of assessment alleges that an assessment is excessive by reason of some error or mistake in the return or statement made by him for the purposes of the assessment , he may, at any time not later than 6 years (if the year of assessment within which the assessment was made is 2007 or a preceding year of assessment) or 4 years (if the year of assessment within which the assessment is made is 2008 or a subsequent year of assessment) after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
+93A\.—(1) If any person who has paid tax for any year of assessment alleges that an assessment is excessive by reason of some error or mistake in the return or statement made by him for the purposes of the assessment or, where he is exempted from liability to furnish a return under section 62(2), in the notice of assessment served on him, he may, at any time not later than 6 years (if the year of assessment within which the assessment was made is 2007 or a preceding year of assessment) or 4 years (if the year of assessment within which the assessment is made is 2008 or a subsequent year of assessment) after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
@@ -12649,17 +13463,23 @@ and in default of payment to imprisonment for a term not exceeding 6 months.
 
 [7/2007]
 
-### Penalty for incorrect return
+### Penalty for incorrect return, etc.
 
 95\.—(1) Subject to the provisions of Part XVIII, every person who —
 
-(a) makes an incorrect return by omitting or understating any income of which he is required by this Act to make a return; or
-
-(b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership,
+(a) makes an incorrect return by omitting or understating any income of which he is required by this Act to make a return;
 
 [34/2008 wef 16/12/2008]
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to the amount of tax which has been undercharged in consequence of such incorrect return or information, or which would have been so undercharged if the return or information had been accepted as correct.
+(b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership; or
+
+[34/2008 wef 16/12/2008]
+
+(c) fails to comply with section 76(8),
+
+[34/2008 wef 16/12/2008]
+
+shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to the amount of tax which has been undercharged in consequence of such incorrect return or information or failure, or which would have been so undercharged if the return or information had been accepted as correct or if a notice had not been provided in accordance with section 76(8).
 
 [34/2008 wef 16/12/2008]
 
@@ -12667,13 +13487,19 @@ shall be guilty of an offence for which, on conviction, he shall pay a penalty e
 
 (2) Every person who without reasonable excuse or through negligence —
 
-(a) makes an incorrect return by omitting or understating any income of which he is required by this Act to make a return; or
-
-(b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership
+(a) makes an incorrect return by omitting or understating any income of which he is required by this Act to make a return;
 
 [34/2008 wef 16/12/2008]
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to double the amount of tax which has been undercharged in consequence of such incorrect return or information, or which would have been so undercharged if the return or information had been accepted as correct, and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+(b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership; or
+
+[34/2008 wef 16/12/2008]
+
+(c) fails to comply with section 76(8),
+
+[34/2008 wef 16/12/2008]
+
+shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to double the amount of tax which has been undercharged in consequence of such incorrect return or information or failure, or which would have been so undercharged if the return or information had been accepted as correct or if a notice had not been provided in accordance with section 76(8), and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [34/2008 wef 16/12/2008]
 
@@ -12685,9 +13511,15 @@ shall be guilty of an offence for which, on conviction, he shall pay a penalty e
 
 (a) omits from a return made under this Act any income which should be included;
 
-(b) makes any false statement or entry in any return made under this Act; or
+(b) makes any false statement or entry in any return made under this Act or in any notice made under section 76(8);
 
-(c) gives any false answer, whether verbally or in writing, to any question or request for information asked or made in accordance with the provisions of this Act,
+[34/2008 wef 16/12/2008]
+
+(c) gives any false answer, whether verbally or in writing, to any question or request for information asked or made in accordance with the provisions of this Act; or
+
+[34/2008 wef 16/12/2008]
+
+(d) fails to comply with section 76(8),
 
 [34/2008 wef 16/12/2008]
 
@@ -12705,7 +13537,7 @@ the imprisonment he shall be liable to shall not be less than 6 months.
 
 [21/2003]
 
-(3) Whenever in any proceedings under this section it is proved that any false statement or entry is made in any return furnished under this Act by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax.
+(3) Whenever in any proceedings under this section it is proved that any false statement or entry is made in any return furnished under this Act or notice made under section 76(8) by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax.
 
 [34/2008 wef 16/12/2008]
 
@@ -12775,13 +13607,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/92; 24/2000]
 
-(2) Any penalty imposed under section 13CA(2), (4) or (6), 13R(3) or (5), 44(19), 45(4), 87(1) or 91(4) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+(2) Subject to subsection (3), any penalty imposed under section 13CA(2), (4) or (6), 13R(3) or (5), 37(18B), 44 (19), 45(4), 87(1) or 91(4) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
 
 [Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 [34/2008 wef 16/12/2008]
 
 [2/92; 37/2002; 21/2003; 10/2007; 53/2007]
+
+(3) An action to recover a penalty imposed under section 87(1) on any amount recoverable under section 37H(8) (including interest imposed under section 37H(10)) shall not be brought after the expiration of 6 years from the date on which the cause of action accrued.
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 ### Consent for prosecution
 
@@ -13180,7 +14016,7 @@ $100,000
 
 [7/2007]
 
-Part C
+C
 
 Rates of Tax for the Computation of Relief
 
@@ -13303,65 +14139,97 @@ Name of Bond, Securities, Stock or Fund
 
 FIFTH SCHEDULE
 
-Section 39(2) (e)
+Section 39(2)(e)
 
 Child Relief
 
 1. Subject to the provisions of this Schedule, the allowable deduction to an individual in respect of each of his eligible children shall be as follows:
 
-(a) for the first, second and third child
+(a) if the year of assessment is 2008 —
+
+(i) for the first, second and third child
 
 $2,000;
 
-(b) for the fourth and fifth child if born before 1st August 1973
+(ii) for the fourth and fifth child if born before 1st August 1973
 
 $300;
 
-(c) for the fourth child if born on or after 1st January 1988
+(iii) for the fourth child if born on or after 1st January 1988
 
-$2,000.
+$2,000;
 
-2\. Subject to paragraphs 1(c) and 5 (d), no deduction shall be granted under any paragraph of this Schedule in respect of a child born on or after 1st August 1973 if that child is the fourth or subsequent child.
+(b) if the year of assessment is 2009 or a subsequent year of assessment —
+
+for each child
+
+$4,000.
+
+2\. Subject to paragraphs 1(a)(iii) and 5(1)(a)(iv), no deduction shall be granted for the year of assessment 2008 under any paragraph of this Schedule in respect of a child born on or after 1st August 1973 if that child is the fourth or subsequent child.
 
 3. No deduction shall be allowed in respect of any child —
 
-(a) whose income (excluding income to which the child is entitled as the holder of a scholarship, bursary or similar educational endowment) for the year preceding the year of assessment exceeded the appropriate deduction otherwise allowable under paragraph 1; or
+(a) whose income (excluding income to which the child is entitled as the holder of a scholarship, bursary or similar educational endowment) for the year immediately preceding the year of assessment exceeded —
 
-(b) who was engaged in any employment, other than under articles or indentures, or carried on or exercised a trade, business, profession or vocation, during the year preceding the year of assessment.
+(i) if that year of assessment is 2008, the appropriate deduction otherwise allowable under paragraph 1(a);
+
+(ii) if that year of assessment is 2009 or a subsequent year of assessment, $2,000; or
+
+(b) who was engaged in any employment, other than under articles or indentures, or carried on or exercised a trade, business, profession or vocation, during the year immediately preceding the year of assessment.
 
 4\. Where more than one individual is entitled to claim a deduction in respect of the same child under paragraph 1 or the proviso to section 39(2)(e), the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
 
-5. Where a married woman, divorcee or widow maintained, in the year immediately preceding the year of assessment, a child who is a citizen of Singapore as at 31st December of that year, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e), be allowable to her only:
+5.—(1) Where a married woman, divorcee or widow maintained, in the year immediately preceding the year of assessment, a child who is a citizen of Singapore as at 31st December of that year, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e), be allowable to her only:
 
-(a) first eligible child
+(a) if that year of assessment is 2008 —
+
+(i) first eligible child
 
 5% of her earned income;
 
-(b) second eligible child
+(ii) second eligible child
 
 15% of her earned income;
 
-(c) third eligible child
+(iii) third eligible child
 
 20% of her earned income;
 
-(d) fourth eligible child of the family who is born on or after 1987 (other than a child adopted before 1st January 2004)
+(iv) fourth eligible child of the familywho is born on or after 1987 (other than a child adopted before 1st January 2004)
 
-25% of her earned income.
+25% of her earned income;
 
-5A\. Where more than one married woman, divorcee or widow is entitled to claim a deduction in respect of the same child under paragraph 5, the deduction shall be allowed to one such claimant only as determined by the Comptroller (whose decision shall be final) having regard to the circumstances of the case, including rights of custody, care and control and level of maintenance provided by each claimant.
+(b) if that year of assessment is 2009 or a subsequent year of assessment —
 
-6.—(1) The total deductions allowable to all individuals under paragraph 1, proviso (A) to section 39(2) (e) and paragraph 5 in respect of the same child shall not exceed $25,000.
+(i) first eligible child
 
-(2) For the purpose of sub-paragraph (1), any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e) shall first be allowed before a deduction, to the extent allowable under sub-paragraph (1), is allowed under paragraph 5.
+15% of her earned income;
+
+(ii) second eligible child
+
+20% of her earned income;
+
+(iii) third and subsequent eligible child
+
+25% of her earned income for each eligible child.
+
+(2) Where more than one married woman, divorcee or widow is entitled to claim a deduction in respect of the same child under sub-paragraph (1), the deduction shall be allowed to one such claimant only as determined by the Comptroller (whose decision shall be final) having regard to the circumstances of the case, including rights of custody, care and control and level of maintenance provided by each claimant.
+
+(3) The total deductions allowable to a married woman, divorcee or widow under sub-paragraph (1)(b) shall not exceed 100% of her earned income for any year of assessment.
+
+6.—(1) The total deductions allowable to all individuals under paragraphs 1(a) and 5(1)(a) and proviso (A) to section 39(2)(e) in respect of the same child shall not exceed $25,000.
+
+(2) The total deductions allowable to all individuals under paragraphs 1(b) and 5(1)(b) and proviso (A) to section 39(2)(e) in respect of the same child shall not exceed $50,000.
+
+(3) For the purpose of sub-paragraphs (1) and (2), any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e) shall first be allowed before a deduction, to the extent allowable under sub-paragraph (1) or (2), is allowed under paragraph 5.
 
 7. In this Schedule —
 
-(a) “child”, in relation to an individual claiming a deduction, means a legitimate child, step-child or child adopted in accordance with any written law relating to the adopting of children;
+(a) “child”, in relation to an individual claiming a deduction, means a legitimate child, step-child or child adopted in accordance with any written law relating to the adopting of children; and
 
 (b) where any question arises as to the ranking of any child for the purpose of any deduction to be granted under this Schedule, it shall be determined by the Comptroller whose decision shall be final.
 
-[26/73; 4/75; 13/84; 1/88; 1/90; 26/93; 37/2002; 21/2003; 49/2004; 53/2007]
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
 
 SIXTH SCHEDULE
 
@@ -14742,6 +15610,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|31 October 2008 (Section 3)|
+|239.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|16 December 2008|
 ## COMPARATIVE TABLE
 
 Income Tax Act
