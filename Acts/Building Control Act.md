@@ -114,6 +114,34 @@
 
 - [29 Independence of structural engineers](#Independence-of-structural-engineers)
 
+[**Part VA LICENSING OF BUILDERS**](#Part-VA)
+
+- [29A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [29B Prohibition against unlicensed builders](#Prohibition-against-unlicensed-builders)
+
+- [29C Classes of builder’s licences](#Classes-of-builder’s-licences)
+
+- [29D Register of licensed builders](#Register-of-licensed-builders)
+
+- [29E Application for builder’s licence](#Application-for-builder’s-licence)
+
+- [29F Who may be licensed as general builder](#Who-may-be-licensed-as-general-builder)
+
+- [29G Who may be licensed as specialist builder](#Who-may-be-licensed-as-specialist-builder)
+
+- [29H Conditions of builder’s licence relating to construction personnel](#Conditions-of-builder’s-licence-relating-to-construction-personnel)
+
+- [29I Other conditions of builder’s licence](#Other-conditions-of-builder’s-licence)
+
+- [29J Revocation of licences, etc.](#Revocation-of-licences-etc)
+
+- [29K Appeal to Minister](#Appeal-to-Minister)
+
+- [29L Power of Minister to make regulations](#Power-of-Minister-to-make-regulations)
+
+- [29M Savings and transitional provision](#Savings-and-transitional-provision)
+
 [**Part VI Miscellaneous**](#Part-VI)
 
 - [30 Exemption](#Exemption)
@@ -163,8 +191,6 @@
 - [52 Presentation of order, notification and regulation to Parliament](#Presentation-of-order-notification-and-regulation-to-Parliament)
 
 - [53 Transitional provisions](#Transitional-provisions)
-
-[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -634,7 +660,7 @@ Building plan approvals and permits
 
 (f) such other documents as may be prescribed in the building regulations.
 
-(3) Upon receiving an application under subsection (1) for the approval of plans of any building works, the Commissioner of Building Control shall consider the application and may
+(3) Upon receiving an application under subsection (1) for the approval of plans of any building works, the Commissioner of Building Control shall consider the application and may —
 
 (a) approve any one or more of the plans submitted to him, with or without conditions;
 
@@ -646,7 +672,7 @@ Building plan approvals and permits
 
 (5) The Commissioner of Building Control may, without checking the plans and design calculations of any building works, approve those plans on the basis of —
 
-(a) where the plans relate to any major building works or underground building works, the certificate of an accredited checker or specialist accredited checker or both, as the case may be, certifying that
+(a) where the plans relate to any major building works or underground building works, the certificate of an accredited checker or specialist accredited checker or both, as the case may be, certifying that —
 
 (i) the accredited checker has checked the plans relating to the major building works and that, to the best of his knowledge and belief, the plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those major building works; and
 
@@ -688,6 +714,8 @@ Building plan approvals and permits
 
 (3) Where the Commissioner of Building Control has under subsection (2) revoked any approval granted under section 5 or 5A in respect of any plans of building works, any permit, certificate of statutory completion and temporary occupation permit granted in respect of those building works shall also automatically lapse.
 
+[47/2007 wef 15/02/2008]
+
 ### Permit to carry out structural works
 
 6\.—(1) Subject to the provisions of this Act, an application for a permit to carry out structural works in any building works may be made at any time to the Commissioner of Building Control by —
@@ -714,7 +742,7 @@ Building plan approvals and permits
 
 (ii) an undertaking of responsibility for strict compliance with the provisions of this Act and the building regulations;
 
-(d) the following documents signed by the qualified person or persons referred to in paragraph (b)
+(d) the following documents signed by the qualified person or persons referred to in paragraph (b):
 
 (i) a confirmation of his appointment in respect of the building works; and
 
@@ -886,7 +914,7 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (iii) the qualified person appointed under section 8 or 11 to supervise those building works.
 
-(2) For the purpose of subsection (1)(a)
+(2) For the purpose of subsection (1)(a) —
 
 (a) the plans of any building works that are prepared in accordance with the acceptable solutions as set out in the Approved Document issued by the Commissioner of Building Control in respect of such building works shall be deemed to comply with the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and
 
@@ -928,7 +956,7 @@ Duties of developers, qualified persons, site supervisors and builders
 
 (f) notify the Commissioner of Building Control if the building works have been suspended for a period of more than 3 months.
 
-(5) If any qualified person who is appointed under section 8 or 11
+(5) If any qualified person who is appointed under section 8 or 11 —
 
 (a) to prepare the plans of any building works; or
 
@@ -1112,23 +1140,23 @@ and if the contravention continues after the conviction, the site supervisor sha
 
 becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under this Act, the builder and specialist builder of those building works shall cease or shall not commence carrying out the building works until the developer or the builder appoints another appropriate qualified person in respect of those building works.
 
-(6) Any builder or specialist builder who contravenes subsection (1)(a), (2)(a) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
+(6) Any builder or specialist builder who contravenes subsection (1)(a), (a)(a) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (7) If —
 
 (a) a builder contravenes subsection (1)(b) or (c); or
 
-(b) a specialist builder contravenes subsection (2)(b),
+(b) a specialist builder contravenes subsection (3)(b),
 
 the builder or specialist builder, as the case may be, shall be guilty of an offence and shall be liable on conviction —
 
 (i) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(ii) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the builder or specialist builder contravenes subsection (1)(b) or (c) or (2) (b),
+(ii) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the builder or specialist builder contravenes subsection (1)(b) or (c) or (2)(b),
 
 and if the contravention continues after the conviction, the builder or specialist builder, as the case may be, shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.
 
-(8) It shall be a defence in any prosecution for a contravention of subsection (1)(b) or (2)(b) for the builder or specialist builder charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
+(8) It shall be a defence in any prosecution for a contravention of subsection (1)(b) or (b)(b) for the builder or specialist builder charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
 
 (9) If —
 
@@ -1344,7 +1372,7 @@ has been convicted of an offence under this Act or the building regulations;
 
 to assist the Commissioner of Building Control in considering any representation that may be made to him under subsection (3).
 
-(5) The Commissioner of Building Control may, in addition to any order made under subsection (1) or (2), order the accredited checker, specialist accredited checker or accredited checking organisation that is the subject of the order to pay to him such sums as he thinks fit, not exceeding $10,000, in respect of costs and expenses of and incidental to any proceedings before the committee appointed under subsection (4) (a).
+(5) The Commissioner of Building Control may, in addition to any order made under subsection (1) or (2), order the accredited checker, specialist accredited checker or accredited checking organisation that is the subject of the order to pay to him such sums as he thinks fit, not exceeding $10,000, in respect of costs and expenses of and incidental to any proceedings before the committee appointed under subsection (4)(a).
 
 (6) The costs and expenses referred to in subsection (5) shall include —
 
@@ -1364,9 +1392,11 @@ to assist the Commissioner of Building Control in considering any representation
 
 (9) The person whose registration as an accredited checker, a specialist accredited checker or an accredited checking organisation is suspended or cancelled under this section shall, within 14 days of being notified of the suspension or cancellation of registration, surrender to the Commissioner of Building Control the certificate of accreditation issued under section 16(3), failing which the person or organisation shall be guilty of an offence.
 
-(10) The Commissioner of Building Control shall cancel the registration of an accredited checker or a specialist accredited checker who has died or whose registration has been cancelled undersubsection (11).
+(10) The Commissioner of Building Control shall cancel the registration of an accredited checker or a specialist accredited checker who has died or whose registration has been cancelled under subsection (11).
 
 (11) If the Commissioner of Building Control has cancelled the registration of a person as an accredited checker under subsection (1), he shall also cancel the registration of the person as a specialist accredited checker.
+
+[47/2007 wef 15/02/2008]
 
 ### Duties and independence of accredited checkers, etc., and accredited checking organisations
 
@@ -1410,7 +1440,7 @@ has a professional or financial interest in the building works shown in the plan
 
 (7) An accredited checking organisation shall be regarded as having a professional or financial interest in any building works if —
 
-(a) any of its directors, partners, members or employees is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which
+(a) any of its directors, partners, members or employees is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —
 
 (i) do not affect any key structural element; or
 
@@ -1619,6 +1649,8 @@ RETROFITTING OF EXTERIOR FEATURES
 (a) prohibiting or preventing the Commissioner of Building Control from exercising any of his powers under any other provision of this Act or the building regulations; or
 
 (b) derogating from the effect of any other provision of this Act or the building regulations or any other written law for the time being in force.
+
+[34/2004 wef 01/10/2004]
 
 ### Retrofitting orders
 
@@ -2070,6 +2102,512 @@ shall not be regarded as constituting a professional or financial interest.
 
 [18/95]
 
+## PART VA
+
+LICENSING OF BUILDERS
+
+[47/2007 wef 16/12/2008]
+
+### Interpretation of this Part
+
+29A\.—(1) In this Part, unless the context otherwise requires —
+
+“builder” means a general builder or a specialist builder;
+
+“building works” means any building works to which Part II applies;
+
+“Commissioner” means the Commissioner of Building Control and includes such other person as the Commissioner generally or specially authorises under section 3(2);
+
+“corporation” shall not include a limited liability partnership;
+
+“minor specialist building works” means the following specialist building works:
+
+(a) all specialist building works associated with minor building works;
+
+(b) structural steelwork comprising fabrication and erection work for structures with a cantilever length of not more than 3 metres, a clear span of less than 6 metres and a plan area not exceeding 150 square metres;
+
+(c) pre-cast concrete work comprising casting of pre-cast reinforced concrete slabs or planks on site; and
+
+(d) such other specialist building works as the Minister may, by notification in theGazette, declare to be minor specialist building works;
+
+[30 of 2008 wef 17/12/2008]
+
+“partnership” includes a limited liability partnership;
+
+“prescribed” means prescribed in the regulations made under section 29L.
+
+(2) For the purposes of this Part —
+
+(a) a person carries on the business of a general builder if the person carries out, or undertakes to carry out, (whether exclusively or in conjunction with any other business) general building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration, or reward other than wages, but not if the person carries out, or undertakes to carry out, general building works only as a sub-contractor;
+
+(b) a person carries on the business of a specialist builder if the person carries out, or undertakes to carry out, (whether exclusively or in conjunction with any other business) any specialist building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration, or reward other than wages;
+
+(c) a person carries out general building works or specialist building works whether that person carries it out personally, or directly or indirectly causes it to be carried out;
+
+(d) a person shall be deemed to carry on the business of a general builder or specialist builder if he carries out general building works or specialist building works, as the case may be, on or in respect of a building for himself; and
+
+(e) a person undertakes to carry out general building works or specialist building works if that person enters into a contract to carry it out or submits a tender or makes an offer to carry it out.
+
+(3) For the avoidance of doubt, nothing in this Part shall prohibit or prevent —
+
+(a) any person not licensed under this Part from carrying out any building works to which Part II does not apply;
+
+(b) any site supervisor or team of site supervisors appointed under section 10 from carrying on any activity solely for the purpose of that section; or
+
+(c) a qualified person, or any person under the direction or supervision of such a qualified person, from carrying on any activity within the practice of architecture or professional engineering which the qualified person is authorised to carry on under any written law other than this Act.
+
+### Prohibition against unlicensed builders
+
+29B\.—(1) Subject to the provisions of this Act, no person shall —
+
+(a) advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to carry on the business of a general builder or a specialist builder in Singapore; or
+
+(b) assume, take or use (either alone or in combination with any other word, letter or device) the name or title of “licensed general builder” or, as the case may be, “licensed specialist builder”, or any name, title or description calculated to lead others to believe he is so licensed, or by words or conduct hold himself out as being so licensed,
+
+unless he is in possession of a general builder’s licence and a specialist builder’s licence, respectively.
+
+(2) Subject to the provisions of this Act, no person shall —
+
+(a) carry on the business of a general builder in Singapore unless he is in possession of a general builder’s licence;
+
+(b) carry on a business carrying out, or undertaking to carry out, (whether exclusively or in conjunction with any other business) general building works and minor specialist building works or minor specialist building works only, unless he is in possession of a general builder’s licence; or
+
+(c) carry on the business of a specialist builder in Singapore unless he is in possession of a specialist builder’s licence.
+
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to —
+
+(a) a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both;
+
+(b) a further fine not exceeding $500 for each day or part thereof the person fails, without reasonable excuse, to comply with the requirements of that subsection; and
+
+(c) in the case of a continuing offence after conviction, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) Subject to the provisions of this Act, a person who carries out any general building works or specialist building works in contravention of subsection (2) shall not be entitled to recover in any court any charge, fee or remuneration for the general building works or specialist building works so carried out.
+
+(5) Nothing in this section shall apply to prevent a corporation or limited liability partnership that ceases to have in force a builder’s licence from carrying on any activity necessary to the winding up of the corporation or limited liability partnership.
+
+[47/2007 wef 16/12/2008]
+
+### Classes of builder’s licences
+
+29C\.—(1) A licence may be granted under this Part to a builder authorising the builder —
+
+(a) to carry on the business of a general builder generally, known as a Class 1 general builder’s licence;
+
+(b) to carry on the business of a general builder restricted to contracts or engagements for an estimated final price each of not more than $3 million, or such other amount as the Minister may by order in theGazettespecify in lieu thereof, known as a Class 2 general builder’s licence; or
+
+[30/2008 wef 17/12/2008]
+
+(c) to carry on the business of a specialist builder specified therein, known as a specialist builder’s licence of that class.
+
+(2) In this section, any reference to the estimated final price in relation to any building works shall be a reference to the total fee chargeable at practical completion for the building works, including any goods and services tax payable in relation to the supply of the work, and —
+
+(a) where a number of distinct contracts or engagements to perform building works are entered into in connection with the same building by the same person, the estimated final price shall be the moneys payable in respect of the performance of all the contracts or engagements in the aggregate, notwithstanding that some or all of such contracts or engagements taken severally do not exceed the sum specified in subsection (1)(b); and
+
+(b) in any case where the Commissioner is satisfied that the contracts or engagements are substantially in respect of the same undertaking or that they were entered into with a view to evading the provisions of this Act, the estimated final price shall be the moneys payable in respect of the performance of such of the contracts or engagements in the aggregate as the Commissioner shall determine.
+
+[47/2007 wef 16/12/2008]
+
+### Register of licensed builders
+
+29D\.—(1) The Commissioner shall keep a register of builders in which shall be entered the names of all persons licensed under this Part as general builders or specialist builders, and such other particulars in relation thereto as may from time to time be prescribed.
+
+(2) A person may, on payment of the prescribed fee, if any —
+
+(a) inspect the register of builders during the ordinary hours of business of the Commissioner; or
+
+(b) obtain from the Commissioner a certificate as to the licence or non-licence of a named person on a specified date or during a specified period.
+
+(3) A certificate purporting to be signed by the Commissioner certifying that a person was or was not licensed under this Part on a specified date or during a specified period is admissible in any proceedings as evidence of the matters stated in the certificate.
+
+[47/2007 wef 16/12/2008]
+
+### Application for builder’s licence
+
+29E\.—(1) An application for a builder’s licence shall be made to the Commissioner in the prescribed manner and accompanied by the appropriate application fee as may be prescribed.
+
+(2) An applicant for a builder’s licence shall, at the request of the Commissioner, provide any further information or evidence that the Commissioner may require to decide the application.
+
+(3) Subject to sections 29F and 29G, upon receiving an application for a builder’s licence under subsection (1), the Commissioner shall consider the application and may —
+
+(a) where the application is for a general builder’s licence —
+
+(i) grant a Class 1 or Class 2 builder’s licence, with or without conditions; or
+
+(ii) refuse to grant any such licence; or
+
+(b) where the application is for a specialist builder’s licence —
+
+(i) grant a specialist builder’s licence for the appropriate class of specialist building works, with or without conditions; or
+
+(ii) refuse to grant any such licence.
+
+(4) In deciding whether to grant a licence, the Commissioner may make inquiries and investigations that are reasonable and appropriate in the circumstances so as to be satisfied as to —
+
+(a) the good character of the applicant or, if the applicant is a corporation or partnership, the general character of the management of the corporation or of the partners, as the case may be;
+
+(b) the financial condition of the applicant; and
+
+(c) whether the public interest will be served by the granting of the licence,
+
+including —
+
+(i) seeking confirmation about the experience of applicants through site inspections and referee checks; and
+
+(ii) carrying out checks with the Commissioner for Workplace Safety and Health appointed under section 7 of the Workplace Safety and Health Act (Cap. 354A) and the Official Assignee.
+
+(5) The Commissioner may refuse to grant a licence under this section to any corporation or partnership if, in the opinion of the Commissioner, the past conduct of any director, manager or employee of the corporation or any partner, manager or employee of the partnership affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not carry on the business of a general builder or specialist builder in accordance with any written law and with honesty and integrity.
+
+(6) Every builder’s licence shall, unless earlier revoked, be valid for such period as may be specified therein (being not longer than 3 years), and upon its expiry, the licence may be renewed.
+
+[47/2007 wef 16/12/2008]
+
+### Who may be licensed as general builder
+
+29F\.—(1) Subject to subsections (2), (4) and (5), a natural person who applies for a general builder’s licence shall be eligible to be granted such a licence if, and only if —
+
+(a) he has paid the prescribed fees for such licence;
+
+(b) he satisfies the Commissioner that he is a person of good character, and that he intends to carry on business on his own account;
+
+(c) he —
+
+(i) has completed the prescribed course of training and has the prescribed practical experience (whether in Singapore or elsewhere) in the work of a general builder or as a supervisor of general building works; or
+
+(ii) although not having complied with the requirements of sub-paragraph (i), satisfies the Commissioner that he has nevertheless had such practical experience in the work of a general builder or as a supervisor of general building works, as to render him, in the opinion of the Commissioner, competent to carry on the business of a general builder in Singapore; and
+
+(d) he satisfies the Commissioner that the execution and performance of any general building works in Singapore that he undertakes shall be under —
+
+(i) his personal supervision; or
+
+(ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience
+
+[30 of 2008 wef 17/12/2008]
+
+(2) Where a natural person applies for a general builder’s licence in partnership with another natural person or other natural persons, the partnership shall, subject to subsections (4) and (5), be eligible to be granted such a licence if, and only if —
+
+(a) at least one partner satisfies the Commissioner that he meets the requirements of subsection (1);
+
+(b) the applicant satisfies the Commissioner that the management of the business of the partnership in so far it relates to general building works in Singapore shall at all times be under the charge and direction of a partner of the partnership who —
+
+(i) has the prescribed qualifications and prescribed practical experience; or
+
+(ii) although not having the prescribed qualifications and prescribed practical experience, satisfies the Commissioner that he has nevertheless had such practical experience as to render him, in the opinion of the Commissioner, competent to manage the business of a general builder in Singapore; and
+
+(c) the applicant satisfies the Commissioner that the execution and performance of any general building works in Singapore undertaken by the partnership shall be under the personal supervision of —
+
+(i) at least one partner of the partnership; or
+
+(ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a partner,
+
+who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
+
+[30 of 2008 wef 17/12/2008]
+
+(3) Subject to subsection (4), a corporation which applies for a general builder’s licence, shall be eligible to be granted such a licence if, and only if —
+
+(a) it has paid the prescribed fees for such licence;
+
+(b) it is neither a company limited by guarantee nor a corporation sole;
+
+(c) the paid-up capital of the corporation is —
+
+(i) not less than $25,000 (or its equivalent in a foreign currency) where it is applying for a Class 2 general builder’s licence; or
+
+(ii) not less than $300,000 (or its equivalent in a foreign currency) where it is applying for a Class 1 general builder’s licence;
+
+(d) it satisfies the Commissioner that it is duly authorised to carry on the business of a general builder;
+
+(e) it further satisfies the Commissioner that the management of the business of the corporation in so far it relates to general building works in Singapore shall at all times be under the charge and direction of a director of the corporation, or a member of the board of management of the corporation, or an employee (being a person employed in such a manner and with such similar duties and responsibilities of a director or member of its board of management) who —
+
+(i) has the prescribed qualifications and prescribed practical experience; or
+
+(ii) although not having the prescribed qualifications and prescribed practical experience, satisfies the Commissioner that he has nevertheless had such practical experience as to render him, in the opinion of the Commissioner, competent to manage the business of a general builder in Singapore; and
+
+(f) the applicant satisfies the Commissioner that the execution and performance of any general building works in Singapore undertaken by the corporation shall be under the personal supervision of —
+
+(i) at least one director of the corporation or a member of its board of management; or
+
+(ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management,
+
+who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
+
+[30 of 2008 wef 17/12/2008]
+
+(4) Notwithstanding subsection (1), (2) or (3), the Commissioner may require an applicant under that subsection to satisfy him that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy him.
+
+(5) No natural person and no partnership shall be eligible for a Class 1 general builder’s licence.
+
+### Who may be licensed as specialist builder
+
+29G\.—(1) Any natural person who applies for a licence to be a specialist builder for any class of specialist building works shall, subject to subsection (4), be eligible to be granted such a specialist builder’s licence if, and only if —
+
+(a) he has paid the prescribed fees for such licence;
+
+(b) he satisfies the Commissioner that he is a person of good character, and that he intends to carry on business on his own account;
+
+(c) he —
+
+(i) has completed the prescribed course of training and has the prescribed practical experience (whether in Singapore or elsewhere) in the work of a specialist builder for that class of specialist building works or as a supervisor of such specialist building works for a specialist builder’s licence of that class; or
+
+(ii) although not having complied with the requirements of sub-paragraph (i), satisfies the Commissioner that he has nevertheless had such practical experience in the work of a specialist builder for that class of specialist building works or as a supervisor of such specialist building works as to render him, in the opinion of the Commissioner, competent to carry on the business of a specialist builder of that class in Singapore; and
+
+(d) he satisfies the Commissioner that the execution and performance of any specialist building works in Singapore that he undertakes shall be under —
+
+(i) his personal supervision; or
+
+(ii) the personal supervision of at least one of his employees, being an employee who satisfies the Commissioner that the employee has the prescribed qualifications and prescribed practical experience.
+
+[30 of 2008 wef 17/12/2008]
+
+(2) Where a natural person applies in partnership with another natural person or other natural persons for a specialist builder’s licence for any class of specialist building works, the partnership shall, subject to subsection (4), be eligible to be granted such a specialist builder’s licence if, and only if —
+
+(a) at least one partner satisfies the Commissioner that he meets the requirements of subsection (1);
+
+(b) the applicant satisfies the Commissioner that the management of the business of the partnership in so far it relates to specialist building works of that class in Singapore shall at all times be under the charge and direction of a partner of the partnership who —
+
+(i) has the prescribed qualifications and prescribed practical experience; or
+
+(ii) although not having the prescribed qualifications and prescribed practical experience, satisfies the Commissioner that he has nevertheless had such practical experience for that class of specialist building works as to render him, in the opinion of the Commissioner, competent to manage the business of a specialist builder in Singapore for that class of specialist building works; and
+
+(c) the applicant satisfies the Commissioner that the execution and performance of that class of specialist building works in Singapore undertaken by the partnership shall be under the personal supervision of —
+
+(i) at least one partner of the partnership; or
+
+(ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a partner,
+
+who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
+
+[30 of 2008 wef 17/12/2008]
+
+(3) Subject to subsection (4), a corporation which applies for a specialist builder’s licence for any class of specialist building works, shall be eligible to be granted such a licence if, and only if —
+
+(a) it has paid the prescribed fees for such licence;
+
+(b) it is neither a company limited by guarantee nor a corporation sole;
+
+(c) the paid-up capital of the corporation is not less than $25,000 (or its equivalent in a foreign currency);
+
+(d) it satisfies the Commissioner that it is duly authorised to carry on the business of a specialist builder;
+
+(e) it further satisfies the Commissioner that the management of the business of the corporation in so far it relates to specialist building works of that class in Singapore shall at all times be under the charge and direction of a director of the corporation, or a member of the board of management of the corporation, or an employee (being a person employed in such a manner and with such similar duties and responsibilities of a director or member of its board of management) who —
+
+(i) has the prescribed qualifications and prescribed practical experience; or
+
+(ii) although not having the prescribed qualifications and prescribed practical experience, satisfies the Commissioner that he has nevertheless had such practical experience for that class of specialist building works as to render him, in the opinion of the Commissioner, competent to manage the business of a specialist builder in Singapore for that class of specialist building works; and
+
+(f) the applicant satisfies the Commissioner that the execution and performance of that class of specialist building works in Singapore undertaken by the corporation shall be under the personal supervision of —
+
+(i) at least one director of the corporation or a member of its board of management; or
+
+(ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management,
+
+who satisfies the Commissioner that he has the prescribed qualifications and prescribed practical experience.
+
+[30 of 2008 wef 17/12/2008]
+
+(4) Notwithstanding subsection (1), (2) or (3), the Commissioner may require an applicant under that subsection to satisfy him that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy him.
+
+### Conditions of builder’s licence relating to construction personnel
+
+29H\.—(1) From the appointed day, it shall be a condition of every Class 1 general builder’s licence (whether granted before the appointed day or otherwise) that the builder holding that licence —
+
+(a) shall lodge with the Commissioner a manpower programme that satisfies the requirements in subsection (2) in respect of each significant general building work project to be undertaken in Singapore by the builder on or after that appointed day; and
+
+(b) shall, at all times when carrying on the general building works in connection with that significant general building work project, take all practicable steps to ensure that the registered construction personnel employed by or on the licensed general builder’s behalf or engaged in connection with that significant general building work project comply with the manpower programme lodged under paragraph (a) in respect of that significant general building work project.
+
+(2) A manpower programme in respect of any particular significant general building work project shall be a program or scheme specifying all or any of the following:
+
+(a) the number (which shall not be less than the number prescribed) of different classes of registered construction personnel to be employed by or on behalf of the licensed general builder or to be engaged in connection with that significant general building work project;
+
+(b) the proportion (which shall not be less than the proportion prescribed) of different classes of registered construction personnel to be employed by or on behalf of the licensed general builder or to be engaged in connection with that significant general building work project.
+
+(3) If there is any change in the number or proportion of registered construction personnel —
+
+(a) specified in a manpower programme lodged by a licensed general builder under subsection (1)(a) in respect of any particular significant building work project; or
+
+(b) employed by or on behalf of the licensed general builder or to be engaged in connection with that particular significant building work project,
+
+the licensed general builder shall notify the Commissioner of the change within 7 days after that change.
+
+(4) In this section, “take all practicable steps”, in relation to any result in any circumstances, means taking all steps to achieve the result that it is reasonably practicable to take in the circumstances; and for the avoidance of doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
+
+(5) In this section, unless the context otherwise requires —
+
+“appointed day” means such day as the Minister may, by notification in the Gazette, specify to be the appointed day for the purposes of this section;
+
+“construction foreman” means a natural person who carries out, or undertakes to carry out, for or on behalf of another person for a fixed sum, percentage, or valuable consideration, wages or other reward, the supervision and co-ordination of construction tradesmen or other workman in any prescribed class of work connected with any building works, and a construction foreman shall be classified according to the class of work he so supervises for reward;
+
+“construction personnel” means any natural person who is —
+
+(a) a construction foreman of any class;
+
+(b) a construction supervisor of any class; or
+
+(c) a construction tradesman of any class;
+
+“construction supervisor” means a natural person, not being a builder, who oversees the execution or performance of building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration, wages or other reward, but does not include a construction foreman or other person employed in a like or less responsible capacity;
+
+“construction tradesman” means a natural person, not being a builder, who carries out, or undertakes to carry out, for or on behalf of another person, for a fixed sum, percentage, or valuable consideration, wages or other reward, any prescribed class of work connected with any building works, and a construction tradesman shall be classified according to the class of work he so carries out for reward;
+
+“engaged” means engaged under a contract of service or a contract for services;
+
+“registered” means registered with the Building and Construction Authority;
+
+“significant general building work project” means any building works the value of which is $10 million or such other amount as the Minister may, by order in theGazette, specify in lieu thereof, or more.
+
+[30 of 2008 wef 17/12/2008]
+
+### Other conditions of builder’s licence
+
+29I\.—(1) It shall be a condition of every Class 2 builder’s licence that the licensed builder holding such a licence shall not enter into any contract or engagement to carry out general building works for an estimated final price which exceeds the amount specified under section 29C(1)(b).
+
+(2) Where any general building works or specialist building works are carried out by a licensed builder who is a natural person, that person shall ensure that —
+
+(a) the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised —
+
+(i) by himself; or
+
+(ii) by at least one of his employees who is employed to manage and supervise those building works undertaken and who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case may be; and
+
+(b) the name of that licensed builder or employee shall appear in any sign affixed or erected on the site where the general building works or specialist building works are carried out.
+
+(3) Where any general building works or specialist building works are carried out by a licensed builder which is a partnership, the partners thereof shall ensure that the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised by —
+
+(a) at least one partner of the partnership; or
+
+(b) at least one of its employees who is employed in such a manner and with such similar duties and responsibilities as a partner,
+
+who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case may be.
+
+(4) Where any general building works or specialist building works are carried out by a licensed builder which is a corporation, the corporation shall ensure that the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised by —
+
+(a) at least one director of the corporation or a member of its board of management; or
+
+(b) at least one of its employees who is employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management,
+
+who meets the requirements of section 29F(1)(c)(i) or 29G(1)(c)(i), as the case may be.
+
+(5) It shall be a condition of every builder’s licence granted to a partnership or a corporation that the management of the business of the partnership or corporation in so far it relates to general building works or specialist building works, as the case may be, shall at all times be under the charge and direction of —
+
+(a) a partner in the case of the partnership; or
+
+(b) in the case of a corporation, a director or a member of the board of management of the corporation or an employee of the corporation who is employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management,
+
+who satisfies the Commissioner that he meets the requirements of section 29F(2)(b) or (3)(e) or 29G(2)(b) or (3)(e), as the case may be.
+
+(6) Without prejudice to subsections (1) to (5), the Commissioner may grant a builder’s licence subject to such other conditions as the Commissioner thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1) to (5)) of such a licence or impose additional conditions thereto.
+
+(7) Before making any modification to the conditions of a builder’s licence under this section, the Commissioner shall give notice to the licensed builder concerned —
+
+(a) stating that he proposes to make the modification in the manner specified in the notice; and
+
+(b) specifying the time (being not less than 14 days from the date of service of notice on the licensed builder concerned) within which written representations with respect to the proposed modification may be made.
+
+(8) Upon receipt of any written representation referred to in subsection (7)(b), the Commissioner shall consider the representation and may reject the representation or amend the proposed modification in accordance with the representation, or otherwise and, in either event, shall thereupon issue a direction in writing to the licensed builder concerned requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the Commissioner within a reasonable time.
+
+### Revocation of licences, etc.
+
+29J\.—(1) Subject to subsection (3), the Commissioner may by order revoke any general builder’s licence or specialist builder’s licence if he is satisfied that —
+
+(a) the licensed builder fails to comply with any of the relevant requirements of section 29H(1) or (3) or 29I (1) or (5), as the case may be;
+
+(b) the licensed builder has failed to comply with any condition imposed by the Commissioner under section 29I(6);
+
+(c) for a period exceeding 28 days —
+
+(i) the licensed builder ceases to, or ceases to have any employee thereof referred to in section 29I(2), personally supervise the execution and performance of any general building works or specialist building works in Singapore undertaken by the licensed builder; or
+
+(ii) where the licensed builder is a partnership or a corporation, it ceases to have any director, manager or employee of the corporation, or any partner or employee of the partnership, as the case may be, referred to in section 29I(3) or (4) personally supervise the execution and performance of any general building works or specialist building works in Singapore undertaken by the licensed builder;
+
+(d) the licence had been obtained by fraud or misrepresentation;
+
+(e) the licensed builder has ceased to carry on business as a general builder or specialist builder, as the case may be, in Singapore;
+
+(f) the licensed builder has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;
+
+(g) the licensed builder has been convicted of an offence under this Act;
+
+(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, that is a licensed builder affords grounds for believing that the corporation or partnership, as the case may be, will not carry on the business of a general builder or specialist builder, as the case may be, in Singapore in accordance with any written law and with honesty and integrity;
+
+(i) the public interest or national security of Singapore so requires; or
+
+(j) the licensed builder has refused or failed to comply with an order of the Commissioner made under subsection (2)(b) or (d).
+
+(2) The Commissioner may, in any case in which he considers that no cause of sufficient gravity for revoking any general builder’s licence or specialist builder’s licence exists, by order —
+
+(a) suspend the licence for a period not exceeding 6 months;
+
+(b) impose on the builder concerned a financial penalty not exceeding $20,000;
+
+(c) censure the builder concerned; or
+
+(d) impose such other direction or restriction as the Commissioner considers appropriate on the builder’s business as a general builder or specialist builder, as the case may be.
+
+(3) The Commissioner shall not exercise his powers under subsection (1) or (2) unless an opportunity of being heard by a representative in writing or by counsel had been given to the licensed builder against which the Commissioner intends to exercise its powers, being a period of not more than 14 days.
+
+(4) Where the Commissioner has revoked a builder’s licence under this section, he shall serve on the builder concerned a notice of his order made under this section.
+
+(5) Any order by the Commissioner revoking or suspending a licence, or imposing a financial penalty, direction or restriction shall not take effect until the expiration of 14 days after the Commissioner has served the order on the builder concerned.
+
+(6) Where the builder concerned has appealed under section 29K to the Minister against an order by the Commissioner under this section, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn.
+
+(7) Where an order of revocation becomes effective —
+
+(a) the Commissioner shall cause notice of the revocation to be published in theGazette; and
+
+(b) the builder concerned shall, as from the date of the notice, cease to carry on business as a general builder or specialist builder, as the case may be, in Singapore except as may be approved by the Commissioner.
+
+(8) Subsection (7)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation, partnership or limited liability partnership or by the corporation, partnership or limited liability partnership of any right or claim against any person.
+
+(9) In any proceedings under this section in relation to the conviction of licensed builder for a criminal offence, the Commissioner shall accept the builder’s conviction as final and conclusive.
+
+[47/2007 wef 16/12/2008]
+
+### Appeal to Minister
+
+29K\.—(1) Any person whose application for a builder’s licence or for the renewal of a builder’s licence has been refused by the Commissioner may, within 14 days after being notified of such refusal, appeal in the prescribed manner to the Minister whose decision shall be final.
+
+(2) Where a builder’s licence is granted by the Commissioner subject to conditions (other than those specified in section 29H or 29I), the builder concerned may, within 14 days after being notified of such conditions, appeal in the prescribed manner to the Minister whose decision shall be final.
+
+(3) If the Commissioner has made —
+
+(a) an order of revocation or suspension of a licence under section 29J; or
+
+(b) an order imposing any pecuniary penalty on, or a direction or restriction on the business of a licensed corporation, partnership or limited liability partnership under section 29J(2),
+
+the person whose licence is revoked or suspended, on whom such a penalty, direction or restriction is imposed, as the case may be, may, within 14 days after being served with the notice of the order, appeal to the Minister against the order, and the decision of the Minister shall be final.
+
+(4) In any appeal under this section in relation to the conviction of a licensed builder for a criminal offence, the Minister on appeal from any order of the Commissioner shall accept the builder’s conviction as final and conclusive.
+
+[47/2007 wef 16/12/2008]
+
+### Power of Minister to make regulations
+
+29L\. The Minister may make regulations for giving effect to the provisions of this Part and for the due administration thereof, and, in particular, for or with respect to all or any of the following matters:
+
+(a) prescribing the form and procedure for applications for builder’s licences;
+
+(b) varying the minimum paid-up capital of a corporation specified in section 29F(3)(c) or 29G(3)(c) in connection with applications for a general builder’s licence or specialist builder’s licence;
+
+(c) prescribing the different classes of construction tradesmen and construction foremen for the purposes of section 29H;
+
+(d) prescribing offences in respect of the contravention of any regulations made under this section, and prescribing fines, not exceeding $10,000 or imprisonment which may not exceed 12 months or both, that may, on conviction, be imposed in respect of any such offence;
+
+(e) prescribing any matter which is required under this Part to be prescribed.
+
+[47/2007 wef 16/12/2008]
+
+### Savings and transitional provision
+
+29M\. Notwithstanding the provisions of this Part, any person who, immediately before the commencement of section 9 of the Building Control (Amendment) Act 2007, is carrying on the business of a general builder or specialist builder in Singapore shall be entitled to continue doing so for a period of 6 months from that date, and if before the expiry of that period a licence is applied for under this Part, that person shall be entitled to continue carrying on the business of a general builder or specialist builder, as the case may be, until —
+
+(a) the date on which a general builder’s licence or specialist builder’s licence under this Part is issued; or
+
+(b) the application for a licence under this Part is refused or withdrawn.
+
+[47/2007 wef 16/12/2008]
+
 ## PART VI
 
 Miscellaneous
@@ -2318,13 +2856,13 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (4) Any notice, order or document to be issued by the Commissioner of Building Control under this Act or the building regulations may be issued in such form as the Commissioner of Building Control may determine and every such notice, order or document shall be valid if the signature of the Commissioner of Building Control or any officer authorised under this Act is duly printed or written thereon.
 
-[43
-
 [18/95; 4/99]
 
-(5) Any notice, order or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered and, in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
+(5) Any notice, order or document sent by registered post to any person in accordance with subsection (1)shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered and, in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.
 
 [47/2007 wef 15/02/2008]
+
+[43
 
 ### Furnishing of information
 
@@ -2570,10 +3108,6 @@ and such building shall be deemed unauthorised for the purposes of this Act.
 
 [54
 
-## THE SCHEDULE
-
-Deleted by Act 47/2007, wef 15/02/2008.
-
 ## LEGISLATIVE HISTORY
 
 Building Control Act
@@ -2680,6 +3214,7 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Dates of commencement|1 April 2005 (except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule)|
 |||15 February 2008 (except sections 2(r) and (9))|
 |||1 October 2008 (section 2(r))|
+|||16 December 2008 (section (9))|
 ## COMPARATIVE TABLE
 
 Building Control Act
