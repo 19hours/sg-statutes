@@ -266,6 +266,10 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF AUTHORITY
 
 (5) In this section —
 
+“chemical metrology” means the science of achieving traceable analytical data in chemistry;
+
+[30/2008 wef 17/12/2008]
+
 “health product” means any substance, preparation or device that —
 
 (a) is represented for use by humans;
@@ -311,6 +315,8 @@ solely or principally for a therapeutic, preventive, palliative, diagnostic or c
 (c) with the approval of the Minister, form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any other capacity and to share profits;
 
 (d) provide technical, consultancy, advisory or other services to the Government or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Authority;
+
+[54/2007 wef 01/01/2008]
 
 (e) become a member or affiliate of any international body the functions, objects or duties of which are similar to those of the Authority;
 
@@ -416,9 +422,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+22A\. \*As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
 [5/2002]
+
+\*This section came into operation on 15th July 2002 (G.N. No. S 342/2002).
 
 ### Bank accounts
 
@@ -608,7 +616,7 @@ Health Sciences Authority Act
 
 (CHAPTER 122C)
 
-This Legislative History is provided for the convenience of users of the Health Sciences Authority Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Health Sciences Authority Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -627,24 +635,29 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of operation|31 July 2002|
 |4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||Date of First Reading|21 September 2004|
-|||(Bill No. 43/2004 published on 12 November 2004)|
+|||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |5.|**Act 27 of 2007—Radiation Protection Act 2007**|
 ||Date of First Reading|9 April 2007|
-|||(Bill No. 14/2007 published on 22 June 2007)|
+|||(Bill No. 14/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Date of commencement|1 July 2007|
 |6.|**Act 15 of 2007—Health Products Act 2007**|
 ||Date of First Reading|22 January 2007|
-|||(Bill No. 3/2007 published on 16 March 2007)|
+|||(Bill No. 3/2007 published on 23 January 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|1 November 2007|
 |7.|**Act 54 of 2007—Agency for Science, Technology and Research (Amendment) Act 2007**|
 ||Date of First Reading|22 October 2007|
-|||(Bill No. 45/2007 published on 28 December 2007)|
+|||(Bill No. 45/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Date of commencement|1 January 2008|
+|8.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
 ## COMPARATIVE TABLE
 
 Health Sciences Authority Act
