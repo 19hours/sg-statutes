@@ -1494,7 +1494,11 @@ shall be guilty of an offence.
 
 (k) the proceedings and visits of the Visiting Justices;
 
-(l) the establishment of an advisory committee for the purpose of advising the Director on the suitability of a prisoner to be released for home detention under Part VI and its constitution, functions and procedures;
+(ka) the establishment of advisory committees for the purposes of this Act;
+
+[30/2008 wef 17/12/2008]
+
+(l) without prejudice to the generality of paragraph (ka), the establishment of an advisory committee for the purpose of advising the Director on the suitability of a prisoner to be released for home detention under Part VI and its constitution, functions and procedures;
 
 (m) any other matter which under this Act is required or permitted to be prescribed.
 
@@ -1711,6 +1715,11 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of commencement|1 January 2006|
 |23.|**G. N. No. S 34/2008—Prisons Act (Amendment of Schedule) Order 2008**|
 ||Date of commencement|1 February 2008|
+|24.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
 ## COMPARATIVE TABLE
 
 Prisons Act
