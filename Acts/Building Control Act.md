@@ -3215,6 +3215,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||15 February 2008 (except sections 2(r) and (9))|
 |||1 October 2008 (section 2(r))|
 |||16 December 2008 (section (9))|
+|20.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
 ## COMPARATIVE TABLE
 
 Building Control Act
