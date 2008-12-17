@@ -1146,7 +1146,7 @@ in the same proportion as the proportion of contributions which such former subs
 
 ### Qualifications of liquidator
 
-83\. No person shall be appointed as a liquidator of a management corporation unless he is an approved company auditor under the Companies Act (Cap. 50).
+83\. No person shall be appointed as a liquidator of a management corporation unless he is an approved liquidator under the Companies Act (Cap. 50).
 
 [16/87]
 
@@ -1238,7 +1238,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [46/2007 wef 04/10/2007]
 
-(7C) A Board shall not invalidate an application to the Board for an order under subsection (1) or section 84D(2), 84E(3) or 84FA(1) by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the Board is satisfied that such non-compliance does not prejudice the interest of any person, and the Board may make such order as may be necessary to rectify the non-compliance and such order for costs.
+(7C) A Board shall not invalidate an application to the Board for an order under subsection (1) or section 84D(2), 84E(3) or 84FA(2) by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the Board is satisfied that such non-compliance does not prejudice the interest of any person, and the Board may make such order as may be necessary to rectify the non-compliance and such order for costs.
 
 [46/2007 wef 04/10/2007]
 
@@ -1590,7 +1590,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 [21/99]
 
-(7) Section 84E(12), (13), (14), (14B) and (16) shall apply, with the necessary modifications, to a development to which this section applies.
+(7) Section 84E(12), (13), (14B) and (16) shall apply, with the necessary modifications, to a development to which this section applies.
 
 [21/99]
 
@@ -1684,7 +1684,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (6) When the transfers of the lots to which this section applies are lodged for registration with the Registrar, the solicitors acting for the subsidiary proprietors of the lots shall certify in such form as the Registrar may determine that the provisions of this section have been complied with, and the certificate in favour of the purchaser and the Registrar shall be conclusive evidence of the facts stated therein.
 
-(7) Section 84FA(12) to (15) and (17) shall apply, with the necessary modifications, to all the lots in a strata title plan to which this section applies.
+(7) Section 84FA(12), (13), to (15) and (17) shall apply, with the necessary modifications, to all the lots in a strata title plan to which this section applies.
 
 [46/2007 wef 04/10/2007]
 
@@ -1720,7 +1720,7 @@ GENERAL
 
 (2) A document other than a document referred to in subsection (1) may be served on a management corporation —
 
-(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation under section 28 of the Building Maintenance and Strata Management Act 2004; or
+(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation under section 7section 28 of the Building Maintenance and Strata Management Act 2004; or
 
 (b) by sending it, by registered post, to the management corporation at its address recorded on the folio of the land-register comprising the common property.
 
@@ -2000,17 +2000,17 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (b) any body corporate constituted under the provisions of the HUDC Housing Estates Act in respect of that land shall continue as a management corporation constituted under the provisions of this Act having as its corporate name the corporate name as prescribed in this Act (referred to in this section as the new management corporation);
 
-(c) the management committee constituted under the HUDC Housing Estates Act of such body corporate shall, subject to this Act, be the council of the new management corporation, and any person who, immediately before such registration, is a member of the management committee shall be deemed to have been elected under the provisions of this Act as a member of the council of the new management corporation;
+(c) the management committee constituted under the HUDC Housing Estates Act of such body corporate shall, subject to the Building Maintenance and Strata Management Act (Cap. 30C), be the council of the new management corporation, and any person who, immediately before such registration, is a member of the management committee shall be deemed to have been elected under the provisions of the Building Maintenance and Strata Management Act (Cap. 30C) as a member of the council of the new management corporation;
 
 (d) all by-laws relating to the land under the provisions of the HUDC Housing Estates Act (Cap. 131) shall cease to have any force or effect in relation to that land but without prejudice to any right or liability accruing or legal proceedings instituted prior to the registration of the strata title application;
 
-(e) any contribution levied by such body corporate under the provisions of the HUDC Housing Estates Act and unpaid on the registration of the strata title application may be recovered by the new management corporation as if it were a contribution levied by the new management corporation under this Act;
+(e) any contribution levied by such body corporate under the provisions of the HUDC Housing Estates Act and unpaid on the registration of the strata title application may be recovered by the new management corporation as if it were a contribution levied by the new management corporation under the Building Maintenance and Strata Management Act (Cap. 30C);
 
-(f) any charge constituted upon a flat in favour of such body corporate under the provisions of the HUDC Housing Estates Act in connection with any unpaid contributions shall be deemed to be a charge constituted upon the lot corresponding to that flat in favour of the new management corporation under this Act;
+(f) any charge constituted upon a flat in favour of such body corporate under the provisions of the HUDC Housing Estates Act in connection with any unpaid contributions shall be deemed to be a charge constituted upon the lot corresponding to that flat in favour of the new management corporation under the Building Maintenance and Strata Management Act (Cap. 30C);
 
-(g) every fund which was, immediately before the registration of the strata title application, kept by such body corporate under the provisions of the HUDC Housing Estates Act, shall be deemed to be a fund required under the corresponding provisions of this Act to be established and maintained by the new management corporation; and
+(g) every fund which was, immediately before the registration of the strata title application, kept by such body corporate under the provisions of the HUDC Housing Estates Act, shall be deemed to be a fund required under the corresponding provisions of the Building Maintenance and Strata Management Act (Cap. 30C) to be established and maintained by the new management corporation; and
 
-(h) any policy of insurance effected by such body corporate in relation to any building within the housing estate in accordance with the provisions of the HUDC Housing Estates Act and in force on the registration of the strata title application shall continue and deemed to have been effected under this Act, and sections 69 and 70 of the Building Maintenance and Strata Management Act 2004 shall not apply to or in respect of the new management corporation for that housing estate until the expiry of that policy.
+(h) any policy of insurance effected by such body corporate in relation to any building within the housing estate in accordance with the provisions of the HUDC Housing Estates Act and in force on the registration of the strata title application shall continue and deemed to have been effected under the Building Maintenance and Strata Management Act (Cap. 30C), and sections 70 and 71 of that Act shall not apply to or in respect of the new management corporation for that housing estate until the expiry of that policy.
 
 [27/95]
 
@@ -2088,6 +2088,8 @@ MISCELLANEOUS
 
 (d) [Deleted by Act 47/2004 wef 01/04/2005]
 
+(e) [Deleted by Act 46/2007 wef 04/10/2007]
+
 (f) [Deletd by Act 17/2001 wef 01/06/2001]
 
 (g) [Deletd by Act 17/2001 wef 01/06/2001]
@@ -2112,7 +2114,7 @@ MISCELLANEOUS
 
 [17/2001 wef 01/06/2001]
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Sections 84A(3), (4), (7C), (13) and (14), 84D(3), 84E(4) and (5) and 84FA(3) and (4)
 
@@ -2149,6 +2151,8 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 (ii) the sale and purchase agreement which is to be the subject of the application to the Board;
 
 (iii) a statutory declaration made by the purchaser under the sale and purchase agreement on the nature of his relationship (if any) or, if the purchaser is a body corporate, the nature of the relationship of every one of its directors (if any), to any subsidiary proprietor of any lot comprised in that strata title plan or any proprietor of any flat in the development, as the case may be;
+
+(iv) [Deleted by Act 46/2007 wef 04/10/2007]
 
 (v) the advertisement referred to in sub-paragraph (d);
 
@@ -2233,6 +2237,10 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 3. The advertisement referred to in paragraph 1(d) shall include —
 
 (a) information on the development;
+
+(b) [Deleted by Act 46/2007 wef 04/10/2007]
+
+(c) [Deleted by Act 46/2007 wef 04/10/2007]
 
 (d) brief details of the sale proposal; and
 
@@ -2775,6 +2783,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 32/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|4 October 2007|
+|24.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 15 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
