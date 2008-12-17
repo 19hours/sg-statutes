@@ -3580,17 +3580,15 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 
 ### Non-subscription digital audio transmissions
 
-107B\. Without prejudice to the generality of section 82(3), it is not an infringement of a copyright in a sound recording to make available to the public the sound recording —
+107B\. Without prejudice to the generality of section 82(3), it is not an infringement of a copyright in a sound recording to make available to the public the sound recording by means of or as part of a digital audio transmission where the transmission —
 
-(a) by means of or as part of an exempt transmission, being a digital audio transmission of a sound broadcast where the transmission —
+(a) is a sound broadcast;
 
-(i) is not part of an interactive service; and
+(b) is not part of an interactive service; and
 
-(ii) is not a subscription transmission; or
+(c) is not a subscription transmission.
 
-(b) by re-transmitting or simultaneously transmitting, by means of or as part of a digital audio transmission, an exempt transmission of a sound recording where the re-transmission or simultaneous transmission is obtained directly from the exempt transmission.
-
-[52/2004]
+[30/2008 wef 17/12/2008]
 
 ### Digital audio transmissions within business establishment
 
@@ -8398,7 +8396,13 @@ primarily for the purpose of circumventing the technological measure.
 
 (b) the technological measure has the capability to collect or disseminate personally identifying information to reflect the manner of use of a network by persons without providing conspicuous notice of such collection or dissemination to those persons, and the act is done for the sole purpose of identifying and disabling the technological measure, provided that the act does not affect the ability of any person to gain access to any work or other subject-matter or recording of any performance;
 
-(c) the act is done in relation to a work or other subject-matter or performance that is prescribed by the Minister under subsection (2);
+(c) the act is done in relation to a work or other subject-matter or performance that is prescribed by the Minister under subsection (2) —
+
+(i) by a person prescribed under subsection (2A) or (if none is prescribed) by any person; and
+
+(ii) for a purpose prescribed under subsection (2A) or (if none is prescribed) for any purpose;
+
+[30/2008 wef 17/12/2008]
 
 (d) the act is done —
 
@@ -8432,11 +8436,23 @@ for the sole purpose of achieving interoperability of an independently created c
 
 (h) the act is carried out by the Government or by any person authorised by the Government for the purpose of law enforcement, intelligence, national defence, essential security or other similar purpose.
 
-[52/2004]
-
-(2) The Minister may, by order published in theGazette, exclude the operation of section 261C(1)(a) in relation to a specified work or other subject-matter or performance, or a specified class of works or other subject-matters or performances, if he is satisfied that any dealing with the work, subject-matter or performance or with the class of works, subject-matters or performances, being a dealing which does not amount to an infringement of copyright therein or an unauthorised use thereof (as the case may be), has been adversely impaired or affected as a result of the operation of this section.
+[30/2008 wef 17/12/2008]
 
 [52/2004]
+
+(2) The Minister may, by order published in theGazette, exclude the operation of section 261C(1)(a) in relation to a specified work or other subject-matter or performance, or a specified class of works or other subject-matters or performances, if he is satisfied that any dealing with the work, subject-matter or performance or with the class of works, subject-matters or performances, being a dealing which does not amount to an infringement of copyright therein or an unauthorised use thereof (as the case may be), has been or is likely to be adversely impaired or affected as a result of the operation of this section.
+
+[30/2008 wef 17/12/2008]
+
+[52/2004]
+
+(2A) The order referred to in subsection (2) may specify —
+
+(a) the person or class of persons who may carry out the act of circumvention of a technological measure in relation to the work, subject-matter or performance or the class of works, subject-matters or performances; and
+
+(b) the purpose of carrying out the act.
+
+[30/2008 wef 17/12/2008]
 
 (3) Subsection (1) shall not apply if —
 
@@ -8879,6 +8895,11 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of commencement|15 August 2005|
 |18.|**2006 Revised Edition—Copyright Act**|
 ||Date of operation|31 January 2006|
+|19.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
 ## COMPARATIVE TABLE
 
 Copyright Act
