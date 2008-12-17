@@ -8,7 +8,7 @@
 
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title](#Short-title)
+- [1 Short title and commencement](#Short-title-and-commencement)
 
 - [2 Interpretation](#Interpretation)
 
@@ -492,9 +492,9 @@ An Act to make provision for the operation and regulation of casinos and gaming 
 
 PRELIMINARY
 
-### Short title
+### Short title and commencement
 
-1\. This Act may be cited as the Casino Control Act .
+1\. This Act may be cited as the Casino Control Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -1704,6 +1704,10 @@ the casino operator shall be deemed to have complied with subsection (2)(a) if s
 
 (b) send a copy of such photograph, finger prints and palm prints and any supporting documents to the Commissioner of Police.
 
+(8A) The Commissioner of Police or any police officer authorised by the Commissioner shall inquire into and report to the Authority on such matters concerning the associate or person likely to become an associate as the Authority requests.
+
+[30/2008 wef 17/12/2008]
+
 (9) Any casino operator who fails to comply with subsection (2) or (7) shall be liable to disciplinary action.
 
 [Vic. CCA 1991, s. 28A]
@@ -2104,6 +2108,10 @@ unless the person is authorised by a special employee licence to exercise the fu
 
 (b) send a copy of such photograph and finger prints or palm prints or both, and any supporting documents to the Commissioner of Police.
 
+(2A) The Commissioner of Police or any police officer authorised by the Commissioner shall inquire into and report to the Authority on such matters concerning the application for a special employee licence as the Authority requests.
+
+[30/2008 wef 17/12/2008]
+
 (3) An application for a special employee licence may not be made by a person who is below the prescribed age or is a person within a class of persons prescribed as being ineligible to apply for a special employee licence.
 
 (4) If a requirement under this section is not complied with, the Authority may refuse to consider the application concerned.
@@ -2264,7 +2272,7 @@ as if the application has been made by a person other than a licensee.
 
 93\.—(1) In this section —
 
-“disciplinary action”, in relation to a licensee, means any of the following:
+“disciplinary action”, in relation to a licensee, means one or more of the following:
 
 (a) the service of a written notice on the licensee censuring him for any action specified in the notice;
 
@@ -2694,19 +2702,19 @@ Disputes between casino operator and patron
 
 ### Reconsideration of inspector’s decision
 
-112\.—(1) Any party aggrieved by the decision of an inspector under section 111 may, in the prescribed manner and within the prescribed time, appeal to the Authority requesting a hearing to reconsider the decision of the inspector.
+112\.—(1) Any party aggrieved by the decision of an inspector under section 111 may, in the prescribed manner and within the prescribed time, appeal to the Authority to reconsider the decision of the inspector.
 
 (2) The appeal shall set forth the basis of the request for reconsideration.
 
 (3) If no appeal for reconsideration is made within the time prescribed, the decision of the inspector shall be deemed final and is not subject to reconsideration by the Authority.
 
-(4) The Authority shall convene a committee comprising such persons as the Authority may appoint to reconsider the decision of the inspector.
+(4) The Authority shall appoint a committee to reconsider the decision of the inspector.
 
 (5) The party seeking reconsideration bears the burden of showing that the inspector’s decision should be reversed or modified.
 
 (6) The committee appointed under subsection (4) shall be independent of the Authority and may regulate its own procedure.
 
-(7) After the hearing, the committee may confirm, vary or reverse the inspector’s decision.
+(7) After considering the matter before it, the committee may confirm, vary or reverse the inspector’s decision.
 
 (8) The decision by the committee shall be in writing and shall be served on the casino operator and the patron concerned.
 
@@ -3172,7 +3180,7 @@ CASINO INTERNAL CONTROLS
 
 (a) kept at a location and in a manner approved by the Authority;
 
-(b) retained for not less than 7 years after the completion of the transactions to which they relate; and
+(b) retained for not less than 5 years after the completion of the transactions to which they relate; and
 
 (c) available for inspection by an authorised person at any time during that period.
 
@@ -4284,7 +4292,7 @@ Application of section 45 to commission or other payment of junket promoter
 
 ”; and
 
-(c) by deleting the words “or 45E (1)(a)” in section 46(1)(a) and substituting the words “, 45E (1)(a) or 45H”.
+(c) by deleting the words “or 45E(1)(a)” in section 46(1)(a) and substituting the words “, 45E(1)(a) or 45H”.
 
 ## THE SCHEDULE
 
@@ -4500,3 +4508,8 @@ This Legislative History is provided for the convenience of users of the Casino 
 |2.|**2007 Revised Edition—Casino Control Act**|
 ||(G.N. No. S 120/2008 — Rectification Order)||
 ||Date of operation|31 October 2007|
+|3.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 15 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
