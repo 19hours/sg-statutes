@@ -116,7 +116,7 @@ PRELIMINARY
 
 (c) a building or a structure erected on land;
 
-(d) any parcel of airspace or any subterranean space held apart from the surface of the earth; and
+(d) any parcel of airspace or any subterranean space whether or not held apart from the surface of the earth; and
 
 (e) any estate or interest in land;
 
@@ -124,7 +124,7 @@ PRELIMINARY
 
 “limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
-[2/2007 wef 02/05/2007]
+[2/2007 wef 02/05/2007 wef 02/05/2007]
 
 “manager” —
 
@@ -132,7 +132,7 @@ PRELIMINARY
 
 (b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
 
-[2/2007 wef 02/05/2007]
+[2/2007 wef 02/05/2007 wef 02/05/2007]
 
 “owner”, in relation to any parcel of land, means the person for the time being receiving the rent of the land, whether on his own account or as agent or trustee or who would receive the rent if the land were let to a tenant;
 
@@ -653,3 +653,8 @@ This Legislative History is provided for the convenience of users of the Boundar
 |||(Bill No. 14/2006 published on 19 November 2007)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|2 May 2007 (Sections 8 and 11)|
+|9.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008|
