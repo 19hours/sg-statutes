@@ -64,9 +64,9 @@
 
 - [23 Professional responsibility of supervising surveyor](#Professional-responsibility-of-supervising-surveyor)
 
-[**Part VII THE CHARGE**](#Part-VII)
+[**Part VII APPEALS, POINTS RESERVED AND REVISION**](#Part-VII)
 
-[**Part IX PRE-TRIAL PROCEDURES IN THE STATE COURTS**](#Part-IX)
+[**Part IX PRE-TRIAL PROCEDURES IN THE SUBORDINATE COURTS**](#Part-IX)
 
 [**Legislative History**](#Legislative-History)
 
@@ -704,11 +704,11 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ## PART VII
 
-THE CHARGE
+APPEALS, POINTS RESERVED AND REVISION
 
 ## PART IX
 
-PRE-TRIAL PROCEDURES IN THE STATE COURTS
+PRE-TRIAL PROCEDURES IN THE SUBORDINATE COURTS
 
 ## LEGISLATIVE HISTORY
 
@@ -791,6 +791,11 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|2 May 2007 (section 11 — Amendment of Land Surveyors Act)|
+|15.|**Act 30 of 2008—Statutes (Miscellaneous Amendments) (No. 2) Act 2008**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 27/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|17 December 2008 (section 8 — Amendment of Land Surveyors Act)|
 ## COMPARATIVE TABLE
 
 Land Surveyors Act
