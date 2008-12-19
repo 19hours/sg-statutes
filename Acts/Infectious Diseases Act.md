@@ -206,7 +206,7 @@
 
 (CHAPTER 137)
 
-(Original Enactment: 2003 REVISED EDITION)
+(Original Enactment: 2003 Revised Edition)
 
 REVISED EDITION 2003
 
@@ -1952,71 +1952,83 @@ Section 2
 
 Infectious Diseases
 
-(1) Acquired Immune Deficiency Syndrome\.
+1\. Acquired Immune Deficiency Syndrome (AIDS).
 
-(1A) Avian influenza.
+2\. Avian Influenza.
 
-[S 794/2005 wef 12/12/2005]
+3\. Campylobacteriosis.
 
-(2) Chickenpox\.
+4\. Chikungunya Fever.
 
-(3) Cholera\.
+5\. Cholera.
 
-(4) Dengue\.
+6\. Dengue Fever.
 
-(5) Dengue Haemorrhagic Fever\.
+7\. Dengue Haemorrhagic Fever.
 
-(6) Diphtheria\.
+8\. Diphtheria.
 
-(7) Encephalitis\.
+9\. Encephalitis, Viral.
 
-(8) Hand, foot and mouth disease\.
+10\. Haemophilus Influenzae Type b (Hib) Disease.
 
-(9) Human Immunodeficiency Virus Infection (Non-acquired Immune Deficiency Syndrome)\.
+11\. Hand, Foot and Mouth Disease.
 
-(10) Legionellosis\.
+12\. Hepatitis, Viral.
 
-(11) Leprosy\.
+13\. Human Immunodeficiency Virus Infection (Non-AIDS).
 
-(12) Malaria\.
+14\. Legionellosis.
 
-(13) Measles\.
+15\. Leprosy.
 
-(14) Mumps\.
+16\. Malaria.
 
-(15) Nipah virus infection\.
+17\. Measles.
 
-(16) Paratyphoid\.
+18\. Melioidosis.
 
-(17) Plague\.
+19\. Meningococcal Disease.
 
-(18) Poliomyelitis\.
+20\. Mumps.
 
-(19) Rubella\.
+21\. Nipah Virus Infection.
 
-(20) Severe Acute Respiratory Syndrome (SARS)\.
+22\. Paratyphoid.
 
-(21) Typhoid\.
+23\. Pertussis.
 
-(22) Tuberculosis\.
+24\. Plague.
 
-(23) Venereal disease —
+25\. Pneumococcal Disease (Invasive).
 
-(a) Chancroid.
+26\. Poliomyelitis.
 
-(b) Genital Herpes.
+27\. Rubella.
 
-(c) Gonorrhea.
+28\. Salmonellosis.
 
-(d) Non-gonococcal urethritis.
+29\. Severe Acute Respiratory Syndrome (SARS).
+
+30. Sexually Transmitted Infections —
+
+(a) Chlamydia Genital Infection;
+
+(b) Genital Herpes;
+
+(c) Gonorrhoea;
+
+(d) Non-Gonococcal Urethritis; and
 
 (e) Syphilis.
 
-(24) Viral Hepatitis\.
+31\. Typhoid.
 
-(25) Yellow Fever.
+32\. Tuberculosis.
 
-[16/80; S98/85; S195/85; S119/90; S403/98; S397/2000; S396/2001; S127/2003]
+33. Yellow Fever.
+
+[S 614/2008 wef 19/12/2008]
 
 SECOND SCHEDULE
 
@@ -2198,6 +2210,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 December 2008|
 |29.|**G. N. No. S 616/2008—Infectious Diseases Act (Amendment of Sixth Schedule) Notification 2008**|
 ||Date of commencement|1 December 2008|
+|30.|**G. N. No. S 614/2008—Infectious Diseases Act (Amendment of First Schedule) Notification 2008**|
+||Date of commencement|19 December 2008|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
