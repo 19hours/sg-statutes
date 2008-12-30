@@ -272,7 +272,7 @@ for anything which is in good faith done or intended to be done in the execution
 
 (3) Each bank account shall be operated by such person as may, from time to time, be authorised in that behalf by the Board.
 
-[27/2002 wef 01/10/2002]
+[27/2002 wef 01/10/2002 wef 01/10/2002]
 
 (4) The Board may invest the funds of the Association in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
@@ -369,7 +369,7 @@ MEMBER ORGANISATIONS
 
 6. Chinese Dance Artistes’ Association
 
-7. Chinese Theatre Circle
+7. Chinese Theatre Circle Ltd
 
 8. Consumers Association of Singapore
 
@@ -560,14 +560,11 @@ MEMBER ORGANISATIONS
 
 80. Young Women’s Christian Association of Singapore
 
-81. Young Women Muslim Association
-
-
-
-
-(Persatuan Pemudi Islam Singapura)
+81. Persatuan Pemudi Islam Singapura
 
 82.Deleted by S 680/2002, wef 30/12/2002.
+
+[S 685/2008 wef 30/12/2008]
 
 [S 343/2006 wef 16/06/2006]
 
@@ -588,6 +585,8 @@ MEMBER ORGANISATIONS
 [S 14/2005 wef 07/01/2005]
 
 [S 343/2006 wef 16/06/2006]
+
+[S 685/2008 wef 30/12/2008]
 
 SECOND SCHEDULE
 
@@ -742,6 +741,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|16 December 2005|
 |55.|**G.N. No. S 343/2006—People’s Association Act (Amendment of First Schedule) Notification 2006**|
 ||Date of commencement|16 June 2006|
+|56.|**G.N. No. S 685/2008—People’s Association Act (Amendment of First Schedule) Notification 2008**|
+||Date of commencement|30 December 2008|
 ## COMPARATIVE TABLE
 
 People’s Association Act
