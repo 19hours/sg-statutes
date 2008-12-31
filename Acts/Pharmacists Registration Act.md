@@ -1,16 +1,14 @@
-**Pharmacists Registration Act 2007**
+**Pharmacists Registration Act**
 
-**(No. 48 of 2007)**
+**(CHAPTER 230)**
 
 **Table of Contents**
 
 [**Long Title**](#Pharmacists-Registration-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -166,61 +164,39 @@
 
 - [72 Service of documents](#Service-of-documents)
 
-- [73 Amendment of First Schedule](#Amendment-of-First-Schedule)
+- [73 Amendment of Schedule](#Amendment-of-Schedule)
 
 - [74 Regulations](#Regulations)
 
-- [75 Repeal](#Repeal)
+- [75 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [76 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**THE SCHEDULE Acts or activities constituting "The practice of pharmacy"**](#THE-SCHEDULE)
 
-- [77 Savings and transitional provisions](#Savings-and-transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-[**FIRST SCHEDULE Acts or activities constituting "the practice of pharmacy"**](#FIRST-SCHEDULE-Acts-or-activities-constituting-"the-practice-of-pharmacy")
+[**Comparative Table**](#Comparative-Table)
 
-[**SECOND SCHEDULE Consequential amendments to other written laws**](#SECOND-SCHEDULE-Consequential-amendments-to-other-written-laws)
+# Pharmacists Registration Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 230)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 48 of 2007)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2008
 
-Published by Authority
+(31st December 2008)
 
-NO. 43]
+An Act to establish the Singapore Pharmacy Council, to provide for the registration of pharmacists and for matters connected therewith.
 
-Friday, October 12
-
-[2007
-
-The following Act was passed by Parliament on 20th September 2007 and assented to by the President on 2nd October 2007:—
-
-Pharmacists Registration Act 2007
-
-(No. 48 of 2007)
-
-I assent.
-
-S R NATHAN
-
-President
-
-2nd October 2007.
-
-Date of Commencement: 1st September 2008
-
-An Act to repeal and re-enact with amendments the Pharmacists Registration Act (Chapter 230 of the 1985 Revised Edition), to establish the Singapore Pharmacy Council, to provide for the registration of pharmacists and for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 2008]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Pharmacists Registration Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Pharmacists Registration Act.
 
 ### Interpretation
 
@@ -234,7 +210,7 @@ PRELIMINARY
 
 “Council” means the Singapore Pharmacy Council established under section 3;
 
-“practice of pharmacy” means any of the acts or activities specified in the First Schedule;
+“practice of pharmacy” means any of the acts or activities specified in the Schedule;
 
 “practising certificate” means a practising certificate granted under section 23;
 
@@ -418,15 +394,15 @@ REGISTRATION OF PHARMACISTS
 
 15\.—(1) The Registrar shall keep and maintain the following registers:
 
-(a) a register to be called the "Register of Pharmacists" containing —
+(a) a register to be called the “Register of Pharmacists” containing —
 
 (i) in Part I thereof, the names of persons registered as fully registered pharmacists under section 16(1) and (2); and
 
 (ii) in Part II thereof, the names of persons registered as pharmacists with conditional registration under section 17(1);
 
-(b) a register to be called the "Register of Specialists" containing the names of persons registered as specialists under section 18; and
+(b) a register to be called the “Register of Specialists” containing the names of persons registered as specialists under section 18; and
 
-(c) a register to be called the "Register of Temporarily Registered Pharmacists" containing the names of persons who are registered temporarily as pharmacists under section 19.
+(c) a register to be called the “Register of Temporarily Registered Pharmacists” containing the names of persons who are registered temporarily as pharmacists under section 19.
 
 (2) The particulars to be included in any register referred to in subsection (1) in respect of a person are —
 
@@ -856,7 +832,7 @@ DISCIPLINARY AND HEALTH INQUIRIES
 
 (a) complaint made or information given to the Council on the conduct of a registered pharmacist in his professional capacity or of his improper act or conduct which brings disrepute to his profession;
 
-(b) information given to the Council on the conviction in Singapore or elsewhere of a registered pharmacist of any offence committed under this Act, the Health Products Act 2007 (Act 15 of 2007), the Medicines Act (Cap. 176), the Medicines (Advertisement and Sale) Act (Cap. 177), the Misuse of Drugs Act (Cap. 185), the Poisons Act (Cap. 234) or such other written law as may be prescribed;
+(b) information given to the Council on the conviction in Singapore or elsewhere of a registered pharmacist of any offence committed under this Act, the Health Products Act (Cap. 122D), the Medicines Act (Cap. 176), the Medicines (Advertisement and Sale) Act (Cap. 177), the Misuse of Drugs Act (Cap. 185), the Poisons Act (Cap. 234) or such other written law as may be prescribed;
 
 (c) information given to the Council on the conviction in Singapore or elsewhere of a registered pharmacist of any offence involving fraud or dishonesty, or implying a defect in character which makes him unfit for his profession; or
 
@@ -1472,7 +1448,7 @@ whichever is the lower.
 
 ### General exemption
 
-71\. The Minister may, after consultation with the Council, by order published in theGazetteand subject to such conditions as he may impose, exempt any person or class of persons from all or any of the provisions of this Act.
+71\. The Minister may, after consultation with the Council, by order published in the Gazette and subject to such conditions as he may impose, exempt any person or class of persons from all or any of the provisions of this Act.
 
 ### Service of documents
 
@@ -1496,9 +1472,9 @@ whichever is the lower.
 
 (4) Any notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
 
-### Amendment of First Schedule
+### Amendment of Schedule
 
-73\. The Minister may, after consultation with the Council, by order published in theGazette, amend the First Schedule.
+73\. The Minister may, after consultation with the Council, by order published in theGazette, amend the Schedule.
 
 ### Regulations
 
@@ -1532,27 +1508,19 @@ whichever is the lower.
 
 (m) prescribe such other matters as are necessary or expedient for carrying out the provisions of this Act.
 
-### Repeal
-
-75\. The Pharmacists Registration Act (Cap. 230) is repealed.
-
-### Consequential amendments to other written laws
-
-76\. The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
-
 ### Savings and transitional provisions
 
-77\.—(1) Any person who, immediately before the appointed day, is a member of the Pharmacy Board under the repealed Act shall, as from that day, continue office as if appointed as a member of the Council in accordance with the provisions of this Act, and his appointment shall expire on the date his appointment would have expired if this Act had not been enacted.
+75\.—(1) Any person who, immediately before 1st September 2008, is a member of the Pharmacy Board under the repealed Act shall, as from that date, continue office as if appointed as a member of the Council in accordance with the provisions of this Act, and his appointment shall expire on the date his appointment would have expired if this Act had not been enacted.
 
-(2) Every person who is registered under the repealed Act immediately before the appointed day shall, as from that day, be deemed to be a registered pharmacist under this Act and the Registrar shall transfer to the Register of Pharmacists the names, addresses, qualifications and other particulars of such persons which appear, immediately before the appointed day, in the register kept under section 5 of the repealed Act.
+(2) Every person who is registered under the repealed Act immediately before 1st September 2008 shall, as from that date, be deemed to be a registered pharmacist under this Act and the Registrar shall transfer to the Register of Pharmacists the names, addresses, qualifications and other particulars of such persons which appear, immediately before 1st September 2008, in the register kept under section 5 of the repealed Act.
 
 (3) The Registrar may, in carrying out the transfer under subsection (2), omit the particulars of any person known to the Registrar to be deceased.
 
 (4) For the avoidance of doubt, sections 26, 48 and 52 of this Act shall also apply to any person whose name was removed from the register kept under the repealed Act.
 
-(5) Any certificate of registration issued under section 8(7) of the repealed Act shall, if still in force immediately before the appointed day, be deemed as from that day to be a certificate of registration issued under section 22 of the Act and be subject to the provisions of this Act.
+(5) Any certificate of registration issued under section 8(7) of the repealed Act shall, if still in force immediately before 1st September 2008, be deemed as from that date to be a certificate of registration issued under section 22 of this Act and be subject to the provisions of this Act.
 
-(6) Any annual certificate issued under the repealed Act which is in force immediately before the appointed day shall, as from that day —
+(6) Any annual certificate issued under the repealed Act which is in force immediately before 1st September 2008 shall, as from that date —
 
 (a) be deemed to be a practising certificate issued under this Act;
 
@@ -1562,31 +1530,34 @@ whichever is the lower.
 
 (7) This Act shall not affect —
 
-(a) any disciplinary proceeding, inquiry or investigation commenced or pending under the repealed Act before the appointed day, and every such proceeding may be continued and everything in relation thereto may be done in all respects after that day as if this Act had not been enacted;
+(a) any disciplinary proceeding, inquiry or investigation commenced or pending under the repealed Act before 1st September 2008, and every such proceeding may be continued and everything in relation thereto may be done in all respects after that date as if this Act had not been enacted;
 
-(b) the continued operation or force of any finding or order following every such proceeding made under the repealed Act before the appointed day; and
+(b) the continued operation or force of any finding or order following every such proceeding made under the repealed Act before 1st September 2008; and
 
-(c) any right of appeal accrued before the appointed day in respect of any such finding or order, and where the appeal has been made under the repealed Act but has not been dealt with or disposed of immediately before that day, the appeal may be dealt with as if this Act had not been enacted.
+(c) any right of appeal accrued before 1st September 2008 in respect of any such finding or order, and where the appeal has been made under the repealed Act but has not been dealt with or disposed of immediately before that date, the appeal may be dealt with as if this Act had not been enacted.
 
 (8) Any written law or document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
 
 (9) Any reference in any written law or document to the Pharmacy Board shall be read as a reference to the Singapore Pharmacy Council.
 
-(10) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
+(10) Any subsidiary legislation made under the repealed Act and in force immediately before 1st September 2008 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
 
-(11) For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the repealed Act, as he may consider necessary or expedient.
+(11) For a period of 2 years after 1st September 2008, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the repealed Act, as he may consider necessary or expedient.
 
-(12) In this section —
+(12) In this section “Pharmacy Board” means the Pharmacy Board established under section 3 of the repealed Act.
 
-“appointed day” means the date of commencement of this Act;
+[77
 
-“Pharmacy Board” means the Pharmacy Board established under section 3 of the repealed Act.
-
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Sections 2 and 73
 
-Acts or activities constituting “the practice of pharmacy”
+Acts or activities constituting
+
+
+
+
+“The practice of pharmacy”
 
 Applying the knowledge and science of pharmacy in —
 
@@ -1606,128 +1577,46 @@ Applying the knowledge and science of pharmacy in —
 
 (h) quality assurance of medicinal products.
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 76
+Pharmacists Registration Act
 
-Consequential amendments to other written laws
+(CHAPTER 230)
 
-First column
+This Legislative History is provided for the convenience of users of the Pharmacists Registration Act. It is not part of this Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 48 of 2007—Pharmacists Registration Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 36/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|20 September 2007|
+||Date of commencement|1 September 2008|
+|2.|**2008 Revised Edition—Pharmacists Registration Act**|
+||Date of operation|31 December 2008|
+## COMPARATIVE TABLE
 
-(1)
+Pharmacists Registration Act
 
-Customs Act
+(CHAPTER 230)
 
+The following provisions in the Pharmacists Registration Act 2007 (Act 48 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
 
+This Comparative Table is provided for the convenience of users. It is not part of the Pharmacists Registration Act.
 
+2008 Ed\. 
 
-(Chapter 70, 2004 Ed.)
+Act 48 of 2007 
 
-(a)
+Omitted
 
-Section 68
+75 
 
-(i)
+Omitted
 
-Delete the words “Pharmacists Registration Act (Cap. 230)” in paragraph (a) and substitute the words “Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act”.
+76 
 
-(ii)
+75 
 
-Delete the words “Pharmacists Registration Act” in paragraph (b) and substitute the words “Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act”.
-
-(b)
-
-Section 71(3)
-
-Delete the words “Pharmacists Registration Act (Cap. 230)” and substitute the words “Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act”.
-
-(2)
-
-Medicines Act
-
-
-
-
-(Chapter 176, 1985 Ed.)
-
-(a)
-
-Section 2(1)
-
-Delete the definition of “pharmacist” and substitute the following definition:
-
-“ “pharmacist” means a person who is registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act;”.
-
-(b)
-
-Section 41(2)
-
-(i)
-
-Delete the words “Pharmacists Registration Act” and substitute the words “Pharmacists Registration Act 2007”.
-
-(ii)
-
-Delete the marginal reference “(Cap. 230)”.
-
-(3)
-
-Poisons Act
-
-
-
-
-(Chapter 234, 1999 Ed.)
-
-(a)
-
-Section 2
-
-Delete the definition of “pharmacist” and substitute the following definition:
-
-“ “pharmacist” means a person who is registered as a pharmacist under the Pharmacists Registration Act 2007 and has in force a valid practising certificate issued under that Act;”.
-
-(b)
-
-Section 20(1)
-
-Delete the word “registered” in paragraph (i).
-
-(4)
-
-Private Hospitals and Medical Clinics Act
-
-
-
-
-(Chapter 248, 1999 Ed.)
-
-Section 13(2)
-
-Delete paragraph (b) and substitute the following paragraph:
-
-(b)
-
-for the purpose of making a complaint or providing information under Part V of the Dental Registration Act (Cap. 76), Part VII of the Medical Registration Act (Cap. 174) or Part VI of the Pharmacists Registration Act 2007; or”.
-
-(5)
-
-Statutory Corporations (Contributions to Consolidation Fund) Act
-
-
-
-
-(Chapter 319A, 2004 Ed.)
-
-The Schedule
-
-Delete item 28 and substitute the following item:
-
-“28.
-
-Singapore Pharmacy Council”.
-
-Pharmacists Registration Act 2007”.
+77 
 
