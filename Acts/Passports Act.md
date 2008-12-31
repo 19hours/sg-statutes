@@ -1,16 +1,14 @@
-**Passports Act 2007**
+**Passports Act**
 
-**(No. 33 of 2007)**
+**(CHAPTER 220)**
 
 **Table of Contents**
 
 [**Long Title**](#Passports-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -118,7 +116,7 @@
 
 - [41 Improper use or possession of Singapore passports, etc.](#Improper-use-or-possession-of-Singapore-passports-etc)
 
-- [42 Selling Singapore passports, etc.](#Selling-Singapore-passports-etc)
+- [42 Selling Singapore passport, etc.](#Selling-Singapore-passport-etc)
 
 - [43 Damaging Singapore passport, etc.](#Damaging-Singapore-passport-etc)
 
@@ -162,57 +160,35 @@
 
 - [60 Regulations](#Regulations)
 
-- [61 Repeal](#Repeal)
+- [61 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [62 Consequential and related amendments to Immigration Act](#Consequential-and-related-amendments-to-Immigration-Act)
+[**THE SCHEDULE Personal Identifiers**](#THE-SCHEDULE)
 
-- [63 Savings and transitional provisions](#Savings-and-transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-[**FIRST SCHEDULE Personal Identifiers**](#FIRST-SCHEDULE-Personal-Identifiers)
+[**Comparative Table**](#Comparative-Table)
 
-[**SECOND SCHEDULE Consequential and Related Amendments to Immigration Act**](#SECOND-SCHEDULE-Consequential-and-Related-Amendments-to-Immigration-Act)
+# Passports Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 220)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 33 of 2007)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2008
 
-Published by Authority
+(31st December 2008)
 
-NO. 36]
+An Act to provide for the issue of Singapore passports and other travel documents to be used as evidence of identity and citizenship by citizens of Singapore who are travelling internationally and for matters connected therewith.
 
-Friday, August 31
-
-[2007
-
-The following Act was passed by Parliament on 16th July 2007 and assented to by the President on 27th July 2007:—
-
-Passports Act 2007
-
-(No. 33 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-27th July 2007.
-
-Date of Commencement: 1st December 2007
-
-An Act to provide for the issue of Singapore passports and other travel documents to be used as evidence of identity and citizenship by citizens of Singapore who are travelling internationally and for matters connected therewith, to repeal the Passports Act (Chapter 220 of the 1985 Revised Edition) and to make consequential and related amendments to the Immigration Act (Chapter 133 of the 1997 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st December 2007]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Passports Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Passports Act.
 
 ### Interpretation
 
@@ -254,7 +230,7 @@ PRELIMINARY
 
 (c) any article or material from which information is capable of being reproduced with or without the aid of any other article or device;
 
-“engage in conduct” means do an act or omit to perform an act;
+“engage in conduct” means to do an act or omit to perform an act;
 
 “fingerprint”, in relation to an individual, means a record (in any form and produced by any method) of the skin pattern and other physical characteristics or features of any of his thumbs or fingers;
 
@@ -268,13 +244,13 @@ that is issued by or on behalf of the government of a foreign country or such in
 
 “holder”, in relation to a Singapore passport or a Singapore travel document, means the person in whose name the Singapore passport or Singapore travel document has been issued;
 
-“immigration officer” means an immigration officer appointed under section 3 of the Immigration Act;
+“immigration officer” means an immigration officer appointed under section 3 of the Immigration Act (Cap. 133);
 
 “public authority” means any board or authority established by or under any written law to perform or discharge any public function;
 
 “regulations” means the regulations made under this Act;
 
-“repealed Act” means the Passports Act (Cap. 220) repealed by this Act;
+“repealed Act” means the Passports Act (Cap. 220, 1985 Ed.) repealed by this Act;
 
 “Singapore document of identity” means a document issued under section 16 to any person who is a citizen of Singapore for the purposes of urgently facilitating the person’s entry into or exit from any country, and purporting to establish the identity and nationality of that person;
 
@@ -298,19 +274,19 @@ issued by or on behalf of the Government under this Act;
 
 (c) a Singapore travel document of the kind prescribed under section 18.
 
-(2) A reference in this Act to a false Singapore passport or a false Singapore travel document shall be a reference —
+(2) A reference in this Act to a false Singapore passport or a false Singapore travel document shall be a reference to —
 
-(a) to a document —
+(a) a document —
 
 (i) that is not a Singapore passport but purports to be a Singapore passport; or
 
 (ii) that is not a Singapore travel document but purports to be a Singapore travel document; or
 
-(b) to a document that is a Singapore passport or a Singapore travel document that has been altered by a person who is not authorised to alter that document, or that purports to have been altered on a date on which, or at a place at which, or otherwise in circumstances in which, it was not in fact made or altered.
+(b) a document that is a Singapore passport or a Singapore travel document that has been altered by a person who is not authorised to alter that document, or that purports to have been altered on a date on which, or at a place at which, or otherwise in circumstances in which, it was not in fact made or altered.
 
-(3) A reference in this Act to a false foreign travel document shall be a reference —
+(3) A reference in this Act to a false foreign travel document shall be a reference to —
 
-(a) to a document that purports to be a passport, or a document for travel purposes, issued by or on behalf of —
+(a) a document that purports to be a passport, or a document for travel purposes, issued by or on behalf of —
 
 (i) the government of a foreign country; or
 
@@ -318,7 +294,7 @@ issued by or on behalf of the Government under this Act;
 
 but that was not issued by or on behalf of that government or international organisation; or
 
-(b) to a document that is a foreign travel document that has been altered by a person who is not authorised to alter that document.
+(b) a document that is a foreign travel document that has been altered by a person who is not authorised to alter that document.
 
 (4) For the purposes of this Act, a person has parental responsibility for a child if, and only if —
 
@@ -330,9 +306,9 @@ but that was not issued by or on behalf of that government or international orga
 
 ### Meaning of “personal identifier”
 
-3\.—(1) In this Act, “personal identifier” means any of the identifiers specified in the First Schedule (including any in digital form).
+3\.—(1) In this Act, “personal identifier” means any of the identifiers specified in the Schedule (including any in digital form).
 
-(2) The Minister may, by order published in theGazette, amend the First Schedule, except that any other personal identifier so prescribed in the order must —
+(2) The Minister may, by order published in theGazette, amend the Schedule, except that any other personal identifier so prescribed in the order must —
 
 (a) be an image of, or a measurement or recording of, an external part of the human body or a person’s voice; and
 
@@ -446,7 +422,7 @@ Singapore temporary travel document
 
 (a) for reasons of passport security and integrity, the Controller considers that it is not desirable to issue that citizen with a Singapore passport; or
 
-(b) the Controller is satisfied that there are other exceptional circumstances where the citizen is already the holder of a Singapore passport.
+(b) the Controller is satisfied that there are other exceptional circumstances where that citizen is already the holder of a Singapore passport.
 
 ### Application for Singapore temporary travel document
 
@@ -932,7 +908,7 @@ Application and definitions
 
 (c) a contractor who exercises a function or performs work for the Government or public authority referred to in paragraph (b),
 
-as such, and includes every person who is in actual possession of the situation of a person referred to paragraph (a), (b) or (c), whatever legal defect there may be in his right to hold that situation.
+as such, and includes every person who is in actual possession of the situation of a person referred to in paragraph (a), (b) or (c), whatever legal defect there may be in his right to hold that situation.
 
 (2) A person shall be treated for the purposes of this Part as making a false Singapore passport, a false Singapore travel document or a false foreign travel document if he alters a document so as to make it false in any respect (whether or not it was already a false document before the alteration or is false in some other respect apart from that alteration).
 
@@ -1124,7 +1100,7 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (5) Subsections (1), (2), (3) and (4) shall not apply if the person has a reasonable excuse.
 
-### Selling Singapore passports, etc.
+### Selling Singapore passport, etc.
 
 42\.—(1) A person who sells a Singapore passport or a Singapore travel document shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
@@ -1194,9 +1170,9 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (a) the child ceases to be a citizen of Singapore;
 
-(b) the person knows that the child has ceased to be a citizen of Singapore; and
+(b) the person who has parental responsibility for the child knows that the child has ceased to be a citizen of Singapore; and
 
-(c) the person fails to surrender the child’s Singapore passport or Singapore temporary travel document to an authorised officer within 24 hours after the first time the person knows that the child ceased to be a citizen of Singapore.
+(c) the person who has parental responsibility for the child fails to surrender the child’s Singapore passport or Singapore temporary travel document to an authorised officer within 24 hours after the first time the person knows that the child ceased to be a citizen of Singapore.
 
 (3) Subsections (1) and (2) shall not apply if the person, or the person who has parental responsibility for the child, as the case may be, has a reasonable excuse.
 
@@ -1296,7 +1272,9 @@ General provisions
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection.
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[2/2012]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -1306,7 +1284,7 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
 (5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
@@ -1324,7 +1302,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) in relation to a body corporate, means any director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
 
@@ -1424,7 +1402,7 @@ MISCELLANEOUS
 
 ### Singapore passports, etc., are property of Government
 
-57\.—(1) Every Singapore passport and every Singapore travel document, whether issued before, on or after the commencement of this Act, shall be the property of the Government.
+57\.—(1) Every Singapore passport and every Singapore travel document, whether issued before, on or after 1st December 2007, shall be the property of the Government.
 
 (2) The right in a Singapore passport or a Singapore travel document conferred on the Government by subsection (1) shall not be defeated or affected by any sale of, or any security, pledge, deposit or encumbrance given, made or accepted in respect of the Singapore passport or Singapore travel document, by the holder thereof or by any other person.
 
@@ -1518,23 +1496,15 @@ MISCELLANEOUS
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal
-
-61\. The Passports Act (Cap. 220) is repealed.
-
-### Consequential and related amendments to Immigration Act
-
-62\. The provisions of the Immigration Act (Cap. 133) specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
-
 ### Savings and transitional provisions
 
-63\.—(1) Without prejudice to section 16 of the Interpretation Act (Cap. 1), every visa, passport, certificate of identity, document of identity or other travel document issued, granted or made under the repealed Act before the appointed day, and every renewal or endorsement thereof made under the repealed Act before that day, shall —
+61\.—(1) Without prejudice to section 16 of the Interpretation Act (Cap. 1), every visa, passport, certificate of identity, document of identity or other travel document issued, granted or made under the repealed Act before 1st December 2007, and every renewal or endorsement thereof made under the repealed Act before that date, shall —
 
 (a) continue in full force and effect as if it were issued, granted or made under the corresponding provisions of this Act, and in the case of visas, under the provisions of the Immigration Act as amended by this Act; and
 
 (b) continue to be valid for the unexpired part of the term it would have had if the repealed Act had not been repealed.
 
-(2) If any application for a visa or a Singapore passport, certificate of identity, document of identity or other travel document made under the provisions of the repealed Act before the appointed day has not been granted before that day, the application shall, where applicable, be deemed to be an application for —
+(2) If any application for a visa or a Singapore passport, certificate of identity, document of identity or other travel document made under the provisions of the repealed Act before 1st December 2007 has not been granted before that date, the application shall, where applicable, be deemed to be an application for —
 
 (a) a Singapore visa under the provisions of the Immigration Act as amended by this Act; or
 
@@ -1542,17 +1512,17 @@ MISCELLANEOUS
 
 as the case may be.
 
-(3) Every person who, immediately before the appointed day, is an authorised officer under the repealed Act shall continue in such appointments as if he is an authorised officer under this Act, and his appointment shall expire on the day his appointment would have expired if this Act had not been enacted.
+(3) Every person who, immediately before 1st December 2007, is an authorised officer under the repealed Act shall continue in such appointments as if he is an authorised officer under this Act, and his appointment shall expire on the day his appointment would have expired if this Act had not been enacted.
 
-(4) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
+(4) Any subsidiary legislation made under the repealed Act and in force immediately before 1st December 2007 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed.
 
 (5) Any written law or document referring to the repealed Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
 
-(6) For a period of 2 years after the appointed day, the Minister may make regulations prescribing additional matters of a transitional nature (including prescribing any saving or application provisions) arising out of the repeal of the repealed Act and the commencement of this Act.
+(6) For a period of 2 years after 1st December 2007, the Minister may make regulations prescribing additional matters of a transitional nature (including prescribing any saving or application provisions) arising out of the repeal of the repealed Act and the commencement of this Act.
 
-(7) In this section, “appointed day” means the date of commencement of this Act.
+[63
 
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Section 3
 
@@ -1564,223 +1534,57 @@ Personal Identifiers
 
 3\. A person’s signature.
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 62
+Passports Act
 
-Consequential and Related Amendments to Immigration Act
+(CHAPTER 220)
 
-First column
+This Legislative History is provided for the convenience of users of the Passports Act. It is not part of the Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 51 of 1970—Passports Act 1970**|
+||Date of First Reading|4 November 1970|
+|||(Bill No. 53/1970 published on 9 November 1970)|
+||Date of Second and Third Readings|30 December 1970|
+||Date of commencement|25 January 1971|
+|2.|**1985 Revised Edition—Passports Act**|
+||Date of operation|30 March 1987|
+|3.|**Act 33 of 2007—Passports Acts 2007**|
+||Date of First Reading|21 May 2007|
+|||(Bill No. 21/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|16 July 2007|
+||Date of commencement|1 December 2007|
+Note:
 
-(1) Section 2
+The Passports Act 2007 repealed the Passports Act (Chapter 220, 1985 Revised Edition).
 
-(a) Insert, immediately after the definition of “master”, the following definition:
+|4.|**2008 Revised Edition—Passports Act**|
+||Date of operation|31 December 2008|
+## COMPARATIVE TABLE
 
-“
+Passports Act
 
-“non-citizen” means any person who is not a citizen of Singapore;
+(CHAPTER 220)
 
-”.
+The following provisions in the Passports Act 2007 (Act 33 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
 
-(b) Delete the definition of “personal identifier” and substitute the following definition:
+This Comparative Table is provided for the convenience of users. It is not part of the Passports Act.
 
-“
+2008 Ed\. 
 
-“personal identifier” means any of the identifiers specified in the Schedule (including any in digital form);
+Act 33 of 2007 
 
-”.
+Omitted
 
-(c) Insert, immediately after the definition of “seaman”, the following definition:
+61 
 
-“
+Omitted
 
-“Singapore visa” means a Singapore visa granted under Part IIA;
+62 
 
-”.
+61 
 
-(2) —
-
-Insert, immediately after section 5, the following section:
-
-“
-
-Person entering or leaving Singapore to produce passport, etc.
-
-5A.—(1) Subject to subsection (3), every person, whether a citizen of Singapore or a non-citizen, who is arriving in Singapore (by air, sea or land) from a place outside Singapore, or is leaving Singapore (by air, sea or land) to a place outside Singapore, shall present to an immigration officer at the authorised airport, authorised landing place, authorised train checkpoint, authorised point of entry, authorised departing place or authorised point of departure, as the case may be —
-
-(a) if the person is a citizen of Singapore (whether or not the person is also the national of a country other than Singapore) — the person’s Singapore passport that is valid, and any other prescribed evidence of the person’s identity and Singapore citizenship; or
-
-(b) if the person is a non-citizen —
-
-(i) the person’s foreign passport or other foreign travel document that is valid, and such other evidence of the person’s identity as the immigration officer may require; and
-
-(ii) where a Singapore visa is required by section 9B, evidence of a Singapore visa that is in effect and is held by the person.
-
-(2) The immigration officer may waive —
-
-(a) the requirements of a passport or travel document if the person is a citizen of Singapore and in prescribed circumstances; or
-
-(b) the requirements of a passport, travel document or Singapore visa in the case of any person entering Singapore from a place outside Singapore and holding a valid entry permit, re-entry permit or certificate of status issued in accordance with this Act.
-
-(3) Any person who enters or leaves Singapore in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-(4) Subsection (1) shall not apply to such categories of persons as the Minister may prescribe.
-
-”.
-
-(3) —
-
-Insert, immediately after section 9, the following Part:
-
-“
-
-Part IIA
-
-Singapore Visas for Non-citizens
-
-Singapore visas
-
-9A.—(1) Subject to the provisions of this Act, the Controller may grant a non-citizen permission, to be known as a Singapore visa, to travel to and enter Singapore.
-
-(2) Without limiting the generality of subsection (1), a Singapore visa to travel to and enter Singapore may be one to travel to and enter Singapore during a specified period.
-
-Visas essential for travel
-
-9B.—(1) Subject to subsection (2), a non-citizen shall not travel to Singapore without a Singapore visa that is in effect.
-
-(2) Subsection (1) shall not apply to a non-citizen in relation to travel to Singapore if the travel is by a non-citizen who holds and produces a valid passport from a territory that is approved by the Minister.
-
-Effect of Singapore visa
-
-9C.—(1) A Singapore visa that is in effect is not a pass or other permission for, and does not confer any right on, the holder to enter Singapore.
-
-(2) Subject to section 5(2) and any regulations made under section 55, the holder of a Singapore visa that is in effect shall enter Singapore at an authorised airport, authorised landing place, authorised train checkpoint or authorised point of entry.
-
-(4) —
-
-Insert, immediately after section 36, the following Part:
-
-“
-
-Part VA
-
-Obligations Relating to Identifying Information
-
-Interpretation of this Part
-
-36A. In this Part, unless the context otherwise requires —
-
-“disclose”, in relation to identifying information that is a personal identifier, includes providing access to the identifying information;
-
-“identifying information” means —
-
-(a) any personal identifier;
-
-(b) any meaningful identifier derived from any personal identifier;
-
-(c) any record of a result of analysing any personal identifier or meaningful identifier derived from any personal identifier; and
-
-(d) any other information, derived from any personal identifier or meaningful identifier derived from any personal identifier, or from any record of a kind referred to in paragraph (c), that could be used to discover a particular person’s identity or to get information about a particular person.
-
-Authorising disclosure of or access to identifying information
-
-36B.—(1) The Minister may, in writing, authorise a specified person, or any person included in a specified class of persons —
-
-(a) to access identifying information of the kind specified in the Minister’s authorisation; or
-
-(b) to disclose, on written request, identifying information of the kind specified in the Minister’s authorisation, to another specified person, or another person included in a specified class of persons, in the Minister’s authorisation,
-
-for the purpose or purposes specified in the Minister’s authorisation.
-
-(2) The Minister shall specify in an authorisation under this section, as the purpose or purposes for which access or disclosure is authorised, one or more of the following purposes, and no other:
-
-(a) combating document and identity fraud in immigration matters;
-
-(b) assisting in the identification of, and authenticating the identity of, any person who may be required by or under this Act to provide a personal identifier;
-
-(c) improving the efficiency and integrity of immigration processing at authorised landing places, airports, train checkpoints or points of entry;
-
-(d) assisting in the identification of, and authenticating the identity of, any applicant for or holder of a Singapore visa, and facilitating his entry into Singapore;
-
-(e) enforcement of the criminal law, including investigating or prosecuting a person for an offence against any written law;
-
-(f) administering or managing the storage of identifying information;
-
-(g) modifying identifying information to enable it to be matched with other identifying information, or in order to correct errors or ensure compliance with appropriate standards;
-
-(h) identifying non-citizens who are prohibited immigrants, who are of national security concern or who are associated with activities of a criminal nature and whose detention or supervision may be necessary in the interests of public safety, peace and good order;
-
-(i) making decisions under this Act, or under the Passports Act 2007 or the regulations made under either Act;
-
-(j) any other purpose the disclosure of which is required or authorised by or under written law.
-
-(3) For the purposes of subsection (1) (b), the specified person or specified class of persons to whom identifying information may be disclosed may include a police force, a law enforcement body or a border control body of a foreign country.
-
-Accessing or disclosing identifying information
-
-36C.—(1) If a person accesses identifying information, and the person —
-
-(a) is not authorised under section 36B to access any identifying information; or
-
-(b) is not authorised under section 36B to access the identifying information for the purpose for which the person accessed it,
-
-the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-(2) If the person’s conduct causes disclosure of identifying information, and the disclosure is not a disclosure that is for any of the purposes specified in section 36B(2), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-(5) Section 55 (1)
-
-(a) Insert, immediately after paragraph (e), the following paragraphs:
-
-“
-
-(ea) providing for the circumstances for granting Singapore visas and the conditions subject to which a Singapore visa may be granted;
-
-(eb) providing for the manner in which personal identifiers (within the meaning of Part VA) are obtained and kept;
-
-”.
-
-(b) Delete paragraphs (gb) and (gc).
-
-(6) Section 57 (1)
-
-Insert, immediately after the word “pass” wherever it appears in paragraphs (i), (j), (k) and (l), the words “, Singapore visa”.
-
-(7) Section 61A
-
-Repeal section 61A and substitute the following section:
-
-“
-
-Amendment of Schedule
-
-61A. The Minister may, by order published in theGazette, amend the Schedule, except that any other personal identifier so prescribed in the order must —
-
-(a) be an image of, or a measurement or recording of, an external part of the human body or a person’s voice; and
-
-(b) not be an identifier the obtaining of which would involve the taking of an intimate sample within the meaning of section 13A of the Registration of Criminals Act (Cap. 268).
-
-”.
-
-(8) The Schedule
-
-Repeal the Schedule and substitute the following Schedule:
-
-“
-
-THE SCHEDULE
-
-Sections 2 and 61A
-
-Personal Identifiers
-
-1\. Fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies).
-
-2\. A photograph or other image of a person’s face and shoulders.
-
-3. A person’s signature.
-
-”.
+63 
 
