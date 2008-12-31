@@ -1,12 +1,10 @@
-**Terrorism (Suppression of Bombings) Act 2007**
+**Terrorism (Suppression of Bombings) Act**
 
-**(No. 50 of 2007)**
+**(CHAPTER 324A)**
 
 **Table of Contents**
 
 [**Long Title**](#Terrorism-Suppression-of-Bombings-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 - [1 Short title](#Short-title)
 
@@ -24,43 +22,27 @@
 
 - [8 No prosecution without Public Prosecutor’s consent](#No-prosecution-without-Public-Prosecutor’s-consent)
 
-REPUBLIC OF SINGAPORE
+[**TABLE OF DERIVATIVES**](#TABLE-OF-DERIVATIVES)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Terrorism (Suppression of Bombings) Act
 
-Published by Authority
+(CHAPTER 324A)
 
-NO. 54]
+(Original Enactment: Act 50 of 2007)
 
-Friday, December 21
+REVISED EDITION 2008
 
-[2007
-
-The following Act was passed by Parliament on 23rd October 2007 and assented to by the President on 6th November 2007:—
-
-Terrorism (Suppression of Bombings) Act 2007
-
-(No. 50 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-6th November 2007.
-
-Date of Commencement: 30th January 2008
+(31st December 2008)
 
 An Act to suppress terrorist bombings, to give effect to the International Convention for the Suppression of Terrorist Bombings and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[30th January 2008]
 
 ### Short title
 
-1\. This Act may be cited as the Terrorism (Suppression of Bombings) Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Terrorism (Suppression of Bombings) Act.
 
 ### Interpretation
 
@@ -172,7 +154,7 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (2) In this section —
 
-“criminal matter”, has the meaning given to that expression in section 2(1) of the Mutual Assistance in Criminal Matters Act;
+“criminal matter” has the meaning given to that expression in section 2(1) of the Mutual Assistance in Criminal Matters Act (Cap. 190A);
 
 “relevant offence”, in relation to a foreign country, means an offence against the law of that country that consists of or includes conduct which, if it had occurred in Singapore, would have constituted a terrorist bombing offence.
 
@@ -182,7 +164,7 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Convention country, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
 
-(3) Where the Extradition Act (Cap. 103) is applied under subsection (2), that Act shall have effect in relation to that country as if the only extradition crimes under that Act were the relevant offences of that country.
+(3) Where the Extradition Act is applied under subsection (2), that Act shall have effect in relation to that country as if the only extradition crimes under that Act were the relevant offences of that country.
 
 (4) Subsection (3) is without prejudice to any other notification made under section 4 of the Extradition Act.
 
@@ -196,7 +178,7 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 (6) Where a notification referred to in subsection (5) is made, any limitation, condition, exception or qualification specified in any other notification made under section 4 of the Extradition Act in relation to that country shall, to the extent that it prevents the relevant offence from being considered an extradition crime in relation to that country, be disregarded in the application of that Act in relation to that country.
 
-(7) For the purposes of the Extradition Act —
+(7) For the purposes of the Extradition Act (Cap. 103) —
 
 (a) any act, wherever committed, which is a relevant offence of a Convention country in the case of which that Act has been applied by a notification in theGazettemade under section 4 of that Act, shall be deemed to be an offence within the jurisdiction of that country; and
 
@@ -206,7 +188,7 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 (a) constitute a terrorist bombing offence; or
 
-(b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
+(b) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
 ### Extra-territoriality
 
@@ -216,3 +198,232 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 8\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor.
 
+TABLE OF DERIVATIVES
+
+This Table of Derivatives is provided for the convenience of users of the Act. It is not part of the Act.
+
+Terrorism (Suppression of Bombings) Act
+
+Derivatives
+
+Section Heading
+
+Section
+
+The International Convention for the Suppression of Terrorist Bombings
+
+New Zealand Terrorism Suppression Act 2002
+
+Terrorism (Suppression of Financing) Act (Cap. 325)
+
+Others
+
+Article
+
+Section
+
+Short title
+
+1
+
+—
+
+—
+
+—
+
+—
+
+Interpretation
+
+2
+
+“armed conflict”
+
+—
+
+—
+
+—
+
+Section 2332f(e)(11), Chapter 113B of title 18, United States Code
+
+“conveyance”
+
+—
+
+—
+
+—
+
+Section 2(1), Strategic Goods (Control) Act (Cap. 300)
+
+“country”
+
+—
+
+—
+
+31
+
+—
+
+“explosive or other lethal device”
+
+1
+
+4(1)
+
+—
+
+—
+
+“infrastructure facility”
+
+1
+
+4(1)
+
+—
+
+—
+
+“military forces of a State”
+
+1
+
+—
+
+2(5)
+
+—
+
+“place of public use”
+
+1
+
+4(1)
+
+—
+
+—
+
+“public transportation system”
+
+1
+
+4(1)
+
+—
+
+—
+
+“State or government facility”
+
+1
+
+—
+
+—
+
+Section 2, Model Legislative Provisions for the Implementation of the Convention prepared by the Commonwealth Secretariat
+
+“terrorist bombing offence”
+
+—
+
+—
+
+2(1)
+
+—
+
+Terrorist bombing
+
+3
+
+2 and 19
+
+7
+
+2(3)
+
+—
+
+Information about acts of terrorist bombing
+
+4
+
+—
+
+—
+
+10
+
+Section 24(2), Mutual Assistance in Criminal Matters Act (Cap. 190A)
+
+Assistance in criminal matters for Convention offences
+
+5
+
+—
+
+—
+
+—
+
+—
+
+Extradition
+
+6
+
+—
+
+—
+
+33
+
+—
+
+Extra-territoriality
+
+7
+
+—
+
+—
+
+34(1)
+
+—
+
+No prosecution without Public Prosecutor’s consent
+
+8
+
+—
+
+—
+
+36
+
+—
+
+## LEGISLATIVE HISTORY
+
+Terrorism (Suppression of Bombings) Act
+
+(CHAPTER 324A)
+
+This Legislative History is provided for the convenience of users of the Terrorism (Suppression of Bombings) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 50 of 2007—Terrorism (Suppression of Bombings) Act 2007**|
+||Date of First Reading|17 September 2007|
+|||(Bill No. 37/2007 published on 18 September 2007)|
+||Date of Second and Third Readings|23 October 2007|
+||Date of commencement|30 January 2008|
+|2.|**2008 Revised Edition—Terrorism (Suppression of Bombings) Act**|
+||Date of operation|31 December 2008|
