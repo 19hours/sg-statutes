@@ -1,12 +1,10 @@
-**Health Products Act 2007**
+**Health Products Act**
 
-**(No. 15 of 2007)**
+**(CHAPTER 122D)**
 
 **Table of Contents**
 
 [**Long Title**](#Health-Products-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -34,7 +32,7 @@
 
 - [11 Appeal Advisory Committees](#Appeal-Advisory-Committees)
 
-[**Part III MANUFACTURE and import OF HEALTH PRODUCTS**](#Part-III)
+[**Part III MANUFACTURE AND IMPORT OF HEALTH PRODUCTS**](#Part-III)
 
 - [12 Manufacture of health products](#Manufacture-of-health-products)
 
@@ -64,7 +62,7 @@
 
 - [23 Corrective measures in relation to contravening advertisements](#Corrective-measures-in-relation-to-contravening-advertisements)
 
-[**Part VI licences**](#Part-VI)
+[**Part VI LICENCES**](#Part-VI)
 
 - [24 Issue and renewal of licences](#Issue-and-renewal-of-licences)
 
@@ -178,7 +176,7 @@
 
 - [72 Regulations](#Regulations)
 
-[**Part XIV REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS and active ingredients FOR VETERINARY PURPOSES**](#Part-XIV)
+[**Part XIV REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS AND ACTIVE INGREDIENTS FOR VETERINARY PURPOSES**](#Part-XIV)
 
 - [73 Supply and use of health products and active ingredients for veterinary purposes](#Supply-and-use-of-health-products-and-active-ingredients-for-veterinary-purposes)
 
@@ -186,51 +184,25 @@
 
 - [75 Application of Parts X to XIII](#Application-of-Parts-X-to-XIII)
 
-[**Part XV RELATED AND CONSEQUENTIAL AMENDMENTS TO OTHER WRITTEN LAWS**](#Part-XV)
+[**FIRST SCHEDULE Categories and descriptions of health products to which Act applies**](#FIRST-SCHEDULE-Categories-and-descriptions-of-health-products-to-which-Act-applies)
 
-- [76 Related amendments to Medicines Act](#Related-amendments-to-Medicines-Act)
+[**SECOND SCHEDULE Matters for or in respect of which regulations may be made under section 72**](#SECOND-SCHEDULE-Matters-for-or-in-respect-of-which-regulations-may-be-made-under-section-72)
 
-- [77 Consequential amendments to Health Sciences Authority Act](#Consequential-amendments-to-Health-Sciences-Authority-Act)
+[**Legislative History**](#Legislative-History)
 
-- [78 Consequential amendment to Pharmacists Registration Act](#Consequential-amendment-to-Pharmacists-Registration-Act)
+# Health Products Act
 
-[**FIRST SCHEDULE Categories and Descriptions of Health Products to Which Act Applies**](#FIRST-SCHEDULE-Categories-and-Descriptions-of-Health-Products-to-Which-Act-Applies)
+(CHAPTER 122D)
 
-[**SECOND SCHEDULE Matters for or in Respect of Which Regulations May be Made under Section 72**](#SECOND-SCHEDULE-Matters-for-or-in-Respect-of-Which-Regulations-May-be-Made-under-Section-72)
+(Original Enactment: Act 15 of 2007)
 
-REPUBLIC OF SINGAPORE
+REVISED EDITION 2008
 
-GOVERNMENT GAZETTE
+(31st December 2008)
 
-ACTS SUPPLEMENT
+An Act to regulate the manufacture, import, supply, presentation and advertisement of health products and of active ingredients used in the manufacture of health products and provide for matters connected therewith.
 
-Published by Authority
-
-NO. 13]
-
-Friday, March 16
-
-[2007
-
-The following Act was passed by Parliament on 12th February 2007 and assented to by the President on 1st March 2007:—
-
-Health Products Act 2007
-
-(No. 15 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-1st March 2007.
-
-Date of Commencement: 1st November 2007
-
-An Act to regulate the manufacture, import, supply, presentation and advertisement of health products and of active ingredients used in the manufacture of health products and provide for matters connected therewith, and to make related and consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 2007: Except Part XIV]
 
 ## PART I
 
@@ -238,11 +210,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\.—(1) This Act may be cited as the Health Products Act 2007.
+1\.—(1) This Act may be cited as the Health Products Act.
 
-(2) Except for Part XIV, this Act shall come into operation on such date as the Minister charged with the responsibility for health may, by notification in theGazette, appoint.
-
-(3) Part XIV shall come into operation on such date as the Minister charged with the responsibility for national development may, by notification in theGazette, appoint.
+(2) Part XIV shall come into operation on such date as the Minister charged with the responsibility for national development may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -346,7 +316,7 @@ solely or principally for a health-related purpose; and
 
 “licence” means any licence issued by the Authority under this Act;
 
-“manufacture”, in relation to a health product, means to make, fabricate, produce or process the health product and includes ––
+“manufacture”, in relation to a health product, means to make, fabricate, produce or process the health product and includes —
 
 (a) any process carried out in the course of so making, fabricating, producing or processing the health product; and
 
@@ -378,7 +348,7 @@ solely or principally for a health-related purpose; and
 
 “regulations” means regulations made under section 72;
 
-“sample”, in relation to any health product or active ingredient, includes a sample of the packaging of the health product or active ingredient;
+“sample”, in relation to a health product or an active ingredient, includes a sample of the packaging of the health product or active ingredient;
 
 “supply”, in relation to a health product, means to transfer possession of the health product by any means whether or not for reward, and includes the following:
 
@@ -388,7 +358,7 @@ solely or principally for a health-related purpose; and
 
 (c) to transfer possession of the health product by exchange, gift, lease, loan, hire or hire-purchase;
 
-(d) to supply the health product in connection with ––
+(d) to supply the health product in connection with —
 
 (i) a contract for the provision of any goods or the performance of any service; or
 
@@ -484,7 +454,7 @@ solely or principally for a health-related purpose; and
 
 ### Act not to apply to supply or use of health products and active ingredients for veterinary purposes
 
-5\. Except as provided in Part XIV, the provisions of this Act shall not apply in relation to the supply or use by a veterinarian of any health product or active ingredient for veterinary purposes.
+5\. Except as provided in Part XIV, this Act shall not apply in relation to the supply or use by a veterinarian of any health product or active ingredient for veterinary purposes.
 
 ## PART II
 
@@ -530,7 +500,7 @@ to be an enforcement officer for the purposes of this Act.
 
 ## PART III
 
-MANUFACTURE and import OF HEALTH PRODUCTS
+MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
 
 ### Manufacture of health products
 
@@ -764,7 +734,7 @@ ADVERTISEMENT OF HEALTH PRODUCTS
 
 ## PART VI
 
-licences
+LICENCES
 
 ### Issue and renewal of licences
 
@@ -878,7 +848,7 @@ as to why the licence should not be suspended or revoked or as to why the approv
 
 (c) the decision of the Authority to suspend or revoke a licence or to cancel an approval under section 27,
 
-may, within such time as may be specified in the notice informing him of the refusal, suspension, revocation or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
+may, within such time as may be specified in the notice informing him of the refusal, condition, suspension, revocation or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
 (2) Before making a decision under subsection (1), the Minister may refer the matter to an Appeal Advisory Committee and, in making his decision, the Minister shall have regard to any report made to him by the Appeal Advisory Committee.
 
@@ -950,7 +920,7 @@ REGISTRATION OF HEALTH PRODUCTS
 
 (a) register the health product under the category and class stated in the application if it is satisfied that it is appropriate to do so;
 
-(b) subject to the payment of the appropriate prescribed fee by the applicant, register the health product under the category or class recommended by the Authority under subsection (4)(a) if the applicant is agreeable thereto; or
+(b) subject to the payment of the appropriate prescribed fee by the applicant, register the health product under the category or class recommended by the Authority under subsection (4)(a) if the applicant is agreeable thereto;
 
 (c) refuse to register the health product.
 
@@ -1182,7 +1152,7 @@ DUTIES OF MANUFACTURERS, IMPORTERS, ETC., OF HEALTH PRODUCTS
 
 ### Reporting of defects and adverse effects to Authority
 
-42\.—(1) Where the manufacturer, importer, supplier or registrant of a health product becomes aware of ––
+42\.—(1) Where the manufacturer, importer, supplier or registrant of a health product becomes aware of —
 
 (a) any defect in the health product; or
 
@@ -1204,7 +1174,7 @@ it shall be the duty of such person to inform the Authority within the prescribe
 
 (3) The Authority may also in any notice in writing given under subsection (2) require the person to whom the notice has been given to submit to the Authority in such form and manner and within such time and for such period as the Authority may specify, a report containing information on —
 
-(a) the measures that he has taken under the order;
+(a) the measures that he has taken under the notice;
 
 (b) the results of the measures so taken; and
 
@@ -1426,7 +1396,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) the power of the enforcement officer to inspect such document or record includes the power to require any person on the premises in question to give the enforcement officer such assistance as the enforcement officer may reasonably require to enable him to inspect and make copies of the document or record in legible form or to make records of the information contained therein.
 
-(8) Any copy of or extract from any document or record made under subsection (1) (h) and certified as such by the enforcement officer shall be admissible as evidence in any proceedings under this Act.
+(8) Any copy of or extract from any document or record made under subsection (1)(h) and certified as such by the enforcement officer shall be admissible as evidence in any proceedings under this Act.
 
 (9) Any person who, when required by an enforcement officer under subsection (1)(g) to furnish any information or produce any document or record, refuses or fails, without reasonable excuse, to furnish the information or to produce the document or record within the time allowed by the enforcement officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -1456,19 +1426,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART XI
 
-PRESUMPTIONS AND OTHER EVIDENTIARY PROVISIONS FOR PURPOSES OF ENFORCEMENT OF ACT
+PRESUMPTIONS AND
+
+
+
+
+OTHER EVIDENTIARY PROVISIONS
+
+
+
+
+FOR PURPOSES OF ENFORCEMENT OF ACT
 
 ### Presumption as to liability of importers and manufacturers
 
-52\. Where any health product or active ingredient is supplied in a package, any person who appears from any statement thereon or attached thereto to have imported or manufactured that health product or active ingredient shall, until the contrary is proved, be presumed to have so imported or manufactured the health product or active ingredient.
+52\. Where any health product or active ingredient is supplied in a package, any person who appears from any statement thereon or attached thereto to have imported or manufactured that health product or active ingredient shall, unless the contrary is proved, be presumed to have so imported or manufactured the health product or active ingredient.
 
 ### Presumption as to identity of advertiser
 
-53\. Where any health product is advertised, the person whose name or particulars appear in the advertisement shall, until the contrary is proved, be presumed to be the person who has advertised the health product.
+53\. Where any health product is advertised, the person whose name or particulars appear in the advertisement shall, unless the contrary is proved, be presumed to be the person who has advertised the health product.
 
 ### Presumption as to purpose for which health product is manufactured, imported or supplied
 
-54\.—(1) Any person who manufactures, imports or supplies any health product shall be presumed, until the contrary is proved, to have manufactured, imported or supplied the health product for use by humans.
+54\.—(1) Any person who manufactures, imports or supplies any health product shall be presumed, unless the contrary is proved, to have manufactured, imported or supplied the health product for use by humans.
 
 (2) Any health product that is found —
 
@@ -1478,15 +1458,15 @@ PRESUMPTIONS AND OTHER EVIDENTIARY PROVISIONS FOR PURPOSES OF ENFORCEMENT OF ACT
 
 (c) in any automatic vending machine,
 
-shall be presumed, until the contrary is proved, to be intended for use by humans.
+shall be presumed, unless the contrary is proved, to be intended for use by humans.
 
 ### Presumption as to similarity in properties between health products, etc., found and sample taken therefrom
 
-55\. Any quantity of a health product or an active ingredient found in any premises or on any conveyance at the time when a sample thereof is taken pursuant to the provisions of this Act shall, until the contrary is proved, be presumed to possess the same properties as such sample.
+55\. Any quantity of a health product or an active ingredient found in any premises or on any conveyance at the time when a sample thereof is taken pursuant to the provisions of this Act shall, unless the contrary is proved, be presumed to possess the same properties as such sample.
 
 ### Presumption of person’s intention to supply health product found in his possession
 
-56\. Where any person is found to be keeping or to be in possession of any health product in circumstances in which it would be reasonable to suspect that he intends to supply the health product, he shall be presumed, until the contrary is proved, to have the health product in his possession for the purpose of supply.
+56\. Where any person is found to be keeping or to be in possession of any health product in circumstances in which it would be reasonable to suspect that he intends to supply the health product, he shall be presumed, unless the contrary is proved, to have the health product in his possession for the purpose of supply.
 
 ### Evidence of analyst
 
@@ -1622,13 +1602,13 @@ MISCELLANEOUS
 
 ### Protection of confidential information
 
-66\.—(1) Except as otherwise provided in subsection (2), no person who is or has been involved in the administration and enforcement of this Act shall disclose any information relating to any health product that he knows or ought reasonably to know to be confidential information.
+66\.—(1) Except as otherwise provided in subsection (2), no person who is or has been involved in the administration or enforcement of this Act shall disclose any information relating to any health product that he knows or ought reasonably to know to be confidential information.
 
 (2) Nothing in subsection (1) shall prevent any person from disclosing any information within his knowledge concerning any health product where such disclosure is made —
 
 (a) with the permission of the person from whom the information was obtained;
 
-(b) for the purpose of the administration and enforcement of this Act;
+(b) for the purpose of the administration or enforcement of this Act;
 
 (c) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law;
 
@@ -1702,9 +1682,14 @@ appended thereto shall be sufficient authentication.
 
 (5) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-## PART XIV
+## PART XIV\*
 
-REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS and active ingredients FOR VETERINARY PURPOSES
+REGULATION OF SUPPLY AND
+USE OF HEALTH PRODUCTS AND
+ACTIVE INGREDIENTS FOR
+VETERINARY PURPOSES
+
+\*Part XIV was not in operation at the time of this Revised Edition.
 
 ### Supply and use of health products and active ingredients for veterinary purposes
 
@@ -1746,99 +1731,11 @@ REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS and active ingredients FOR VETER
 
 (e) any reference in the provisions of those Parts to a health product shall include any health product that does not fall within any of the categories of health products specified in the First Schedule.
 
-## PART XV
-
-RELATED AND CONSEQUENTIAL AMENDMENTS TO OTHER WRITTEN LAWS
-
-### Related amendments to Medicines Act
-
-76\. The Medicines Act (Cap. 176) is amended —
-
-(a) by deleting the word “and” at the end of section 12(1)(b);
-
-(b) by deleting the full-stop at the end of paragraph (c\) of section 12(1) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
-
-“
-
-(d) whether the grant of a product licence for the medicinal products to which the application relates will be in the public interest.
-
-”; and
-
-(c) by inserting, immediately after section 76, the following section:
-
-“
-
-Act not to apply to products categorised and regulated as health products under Health Products Act 2007
-
-77\.—(1) Where any product to which this Act applies has been categorised as a type of health product under the Health Products Act 2007, the Minister may, by order published in theGazette, declare that the provisions of this Act shall cease to apply to that type of product as from the date specified in the order, and the provisions of this Act shall, as from the date so specified, cease to apply to that type of product.
-
-(2) The Minister may, in making any order under subsection (1), prescribe such transitional, savings and other consequential provisions as he may consider necessary or expedient.
-
-”.
-
-### Consequential amendments to Health Sciences Authority Act
-
-77\. Section 11 of the Health Sciences Authority Act (Cap. 122C) is amended —
-
-(a) by deleting paragraphs (a) and (b) of subsection (1) and substituting the following paragraphs:
-
-“
-
-(a) to regulate the manufacture, import, export, sale, supply, advertisement and use of health products, tobacco products, radioactive materials and irradiating apparatuses in accordance with the applicable written laws;
-
-(b) to conduct technological assessments of health products for the purpose of determining their quality, safety, efficacy and suitability for consumption and use in Singapore and to advise the Government thereon;
-
-”; and
-
-(b) by deleting subsection (5) and substituting the following subsection:
-
-“
-
-(5) In this section —
-
-“health product” means any substance, preparation or device that —
-
-(a) is represented for use by humans;
-
-(b) whether because of its presentation or otherwise, is likely to be taken for use by humans; or
-
-(c) is included in a class of substances, preparations or devices which are or are ordinarily intended for use by humans,
-
-solely or principally for a therapeutic, preventive, palliative, diagnostic or cosmetic purpose, or any other purpose for the promotion or preservation of human health and well-being, including the following:
-
-(i) preventing, diagnosing, monitoring, treating, curing or alleviating any disease, disorder, ailment, injury, handicap or abnormal physical or mental state, or the symptoms thereof, in humans;
-
-(ii) compensating for any injury or handicap in humans;
-
-(iii) investigating, modifying or replacing any part of the human anatomy or any physiological process in humans;
-
-(iv) testing the susceptibility of humans to any disease, disorder or ailment;
-
-(v) influencing, controlling or preventing conception in humans;
-
-(vi) testing for pregnancy in humans;
-
-(vii) inducing anaesthesia in humans;
-
-(viii) destroying or inhibiting micro-organisms that may be harmful to humans; and
-
-(ix) cleansing, fragrancing, deodorising, beautifying, preserving, improving, altering or restoring the complexion, skin, hair, nails or teeth of humans;
-
-“health sciences” includes forensic medicine, forensic science, clinical pharmacology, pharmaceutical science, radiation science, transfusion medicine and any other applied science or specialised scientific field that relates to human health;
-
-“tobacco product” means any cigarette, cigar or any other form of tobacco which may be consumed through smoking, chewing or otherwise.
-
-”.
-
-### Consequential amendment to Pharmacists Registration Act
-
-78\. Section 14(1) of the Pharmacists Registration Act (Cap. 230) is amended by inserting, immediately after the words “this Act,” in paragraph (b), the words “the Health Products Act 2007,”.
-
 FIRST SCHEDULE
 
-Sections 4, 29(1) and 73(1)
+Sections 2(1), 4, 29(1), 73(1) and 75(e)
 
-Categories and Descriptions of Health Products to Which Act Applies
+Categories and descriptions of health products to which Act applies
 
 First column
 
@@ -1852,53 +1749,93 @@ Description
 
 Exceptions and limitations
 
-1. Medical device
+1.
+
+Medical device
 
 “Medical device” means any instrument, apparatus, implement, machine, appliance, implant, in vitro reagent or calibrator, software, material or other similar or related article that is intended by its manufacturer to be used, whether alone or in combination, for humans for one or more of the specific purposes of —
 
-Parts III and IV and section 19(1)(b) of the Act shall not apply.
+Parts III and IV and section 19(1)(b) shall not apply.
 
-(a) diagnosis, prevention, monitoring, treatment or alleviation of any disease;
+(a)
 
-(b) diagnosis, monitoring, treatment, alleviation of or compensation for an injury;
+diagnosis, prevention, monitoring, treatment or alleviation of any disease;
 
-(c) investigation, replacement, modification, or support of the anatomy or of a physiological process;
+(b)
 
-(d) supporting or sustaining life;
+diagnosis, monitoring, treatment, alleviation of or compensation for an injury;
 
-(e) control of conception;
+(c)
 
-(f) disinfection of medical devices; or
+investigation, replacement, modification, or support of the anatomy or of a physiological process;
 
-(g) providing information for medical or diagnostic purposes by means of in vitro examination of specimens derived from the human body,
+(d)
+
+supporting or sustaining life;
+
+(e)
+
+control of conception;
+
+(f)
+
+disinfection of medical devices; or
+
+(g)
+
+providing information for medical or diagnostic purposes by means of in vitro examination of specimens derived from the human body,
 
 and which does not achieve its primary intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its intended function by such means.
 
-2. Cosmetic products
+2.
+
+Cosmetic products
 
 “Cosmetic product” means any substance or preparation that is intended by its manufacturer to be placed in contact with the various external parts of the human body or with the teeth or the mucous membranes of the oral cavity, with a view exclusively or mainly to —
 
-Sections 12(1), (2) and (3), 13(1), (2) and (3), 14(1) and (2), 15 and 19(1) (b), and Parts VI and VII of the Act shall not apply.
+Sections 12(1), (2) and (3), 13(1), (2) and (3), 14(1) and (2), 15 and 19(1)(b), and Parts VI and VII shall not apply.
 
-(a) cleaning them;
+(a)
 
-(b) perfuming them;
+cleaning them;
 
-(c) changing their appearance;
+(b)
 
-(d) correcting body odours;
+perfuming them;
 
-(e) protecting them; or
+(c)
 
-(f) keeping them in good condition.
+changing their appearance;
 
-[S 684/2007 wef 01/01/2008]
+(d)
+
+correcting body odours;
+
+(e)
+
+protecting them; or
+
+(f)
+
+keeping them in good condition.
+
+[S 564/2007; S 684/2007]
 
 SECOND SCHEDULE
 
 Section 72(2) and (4)
 
-Matters for or in Respect of Which Regulations May be Made under Section 72
+Matters for or in respect of
+
+
+
+
+which regulations may be made
+
+
+
+
+under section 72
 
 1. The matters in respect of which regulations may be made under section 72 are as follows:
 
@@ -1914,7 +1851,7 @@ Matters for or in Respect of Which Regulations May be Made under Section 72
 
 (f) for prescribing the requirements and procedure for the registration of a health product;
 
-(g) for prescribing the duties and obligations of a person to whom any licence or registration is granted under this Act, and the duties and obligation of such person upon the suspension, revocation or cancellation of such licence or registration;
+(g) for prescribing the duties and obligations of a person to whom any licence or registration is issued or granted under this Act, and the duties and obligation of such person upon the suspension, revocation or cancellation of such licence or registration;
 
 (h) for prescribing the requirements for the presentation and advertisement of health products;
 
@@ -1956,3 +1893,24 @@ Matters for or in Respect of Which Regulations May be Made under Section 72
 
 (i) prescribe the types of assessment and evaluation to be made of any health product before it may be registered.
 
+## LEGISLATIVE HISTORY
+
+Health Products Act
+
+(CHAPTER 122D)
+
+This Legislative History is provided for the convenience of users of the Health Products Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 2007—Health Products Act 2007**|
+||Date of First Reading|22 January 2007|
+|||(Bill No. 3/2007 published on 23 January 2007)|
+||Date of Second and Third Readings|12 February 2007|
+||Date of commencement|1 November 2007 (except Part XIV)|
+|2.|**G. N. No. S 564/2007—Health Products Act (Amendment of First Schedule) Order 2007**|
+||Date of commencement|1 November 2007|
+|3.|**G. N. No. S 684/2007—Health Products Act (Amendment of First Schedule) (No. 2) Order 2007**|
+||Date of commencement|1 January 2008|
+|4.|**2008 Revised Edition—Health Products Act**|
+||Date of operation|31 December 2008|
