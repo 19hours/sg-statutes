@@ -1,14 +1,12 @@
-**National Registry of Diseases Act 2007**
+**National Registry of Diseases Act**
 
-**(No. 56 of 2007)**
+**(CHAPTER 201B)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Registry-of-Diseases-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-[**Part I Preliminary**](#Part-I)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title and commencement](#Short-title-and-commencement)
 
@@ -70,47 +68,31 @@
 
 [**THE SCHEDULE Reportable Diseases**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# National Registry of Diseases Act
 
-ACTS SUPPLEMENT
+(CHAPTER 201B)
 
-Published by Authority
+(Original Enactment: Act 56 of 2007)
 
-NO. 52]
+REVISED EDITION 2008
 
-Friday, December 14
-
-[2007
-
-The following Act was passed by Parliament on 12th November 2007 and assented to by the President on 3rd December 2007:—
-
-National Registry of Diseases Act 2007
-
-(No. 56 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-3rd December 2007.
-
-Date of Commencement: 31st December 2008
+(31st December 2008)
 
 An Act to establish the National Registry of Diseases and to provide for the compilation of information on the incidence of certain diseases for use as a basis for the direction of programmes for disease prevention and control, and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st August 2009]
 
 ## PART I
 
-Preliminary
+PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the National Registry of Diseases Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Registry of Diseases Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint\*.
+
+\*This Act came into operation on 1st August 2009 (S 352/2009).
 
 ### Interpretation
 
@@ -342,7 +324,7 @@ disclose or publish any information held by the Registry in an anonymised form.
 
 (b) the name or any other information leading to the identification of the person who provided the individually-identifiable information to the Registrar under this Act, unless that person has given his consent for the disclosure in the prescribed form and manner.
 
-(5) Before making any decision on an application under subsection (2), the Registrar may refer the application to a national research advisory committee comprising not less than 3 and not more than 5 members appointed by the Director and, in making his decision, the Registrar shall have regard to any report made to him by the national research advisory committee.
+(5) Before making any decision on an application under subsection (1), the Registrar may refer the application to a national research advisory committee comprising not less than 3 and not more than 5 members appointed by the Director and, in making his decision, the Registrar shall have regard to any report made to him by the national research advisory committee.
 
 (6) Where a researcher to whom any individually-identifiable information of any person has been disclosed under subsection (2) contravenes subsection (3) or (4) or any condition imposed under subsection (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -368,7 +350,7 @@ ENFORCEMENT POWERS
 
 (ii) to inspect and make copies of and take extracts from, or require the occupier or any person having the management or control of any place mentioned in that paragraph to provide copies of or extracts from, any medical record of any person who has been or who is being treated or examined at that place, notwithstanding that the prior consent of such person has not been obtained;
 
-(iii) to seize and remove from any place mentioned in that paragraph any book, record, document, material, article or thing which the investigation officer reasonably believes to be the subject-matter of, or to be connected with the commission of, an offence under this Act; and
+(iii) to seize and remove from any place mentioned in that paragraph any book, document, record, material, article or thing which the investigation officer reasonably believes to be the subject-matter of, or to be connected with the commission of, an offence under this Act; and
 
 (iv) to make such examination or inquiry as may be necessary to ascertain whether the provisions of this Act have been complied with;
 
@@ -396,7 +378,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
 
-(4) If any person fails to attend as required by an order under subsection (1) (b), the investigation officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+(4) If any person fails to attend as required by an order under subsection (1)(b), the investigation officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
 
 ## PART VI
 
@@ -534,5 +516,25 @@ Sections 2 and 22
 
 Reportable Diseases
 
-1\. Cancer
+1. Cancer
 
+[S 354/2009 wef 01/08/2009]
+
+## LEGISLATIVE HISTORY
+
+National Registry of Diseases Act
+
+(CHAPTER 201B)
+
+This Legislative History is provided for the convenience of users of the National Registry of Diseases Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 56 of 2007—National Registry of Diseases Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 42/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|12 December 2007|
+|||(publication date)|
+|2.|**2008 Revised Edition—National Registry of Diseases Act**|
+||Date of operation|31 December 2008|
