@@ -1,16 +1,14 @@
-**Optometrists and Opticians Act 2007**
+**Optometrists and Opticians Act**
 
-**(No. 36 of 2007)**
+**(CHAPTER 213A)**
 
 **Table of Contents**
 
 [**Long Title**](#Optometrists-and-Opticians-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
+[**Part I PRELIMINARY**](#Part-I)
 
-[**Part I Preliminary**](#Part-I)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -92,61 +90,41 @@
 
 - [37 Regulations](#Regulations)
 
-[**Part VI Repeal, SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-VI)
+[**Part VI SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-VI)
 
 - [38 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [39 Repeal](#Repeal)
+- [39 Persons licensed under repealed Act](#Persons-licensed-under-repealed-Act)
 
-- [40 Consequential amendment to Central Provident Fund Act](#Consequential-amendment-to-Central-Provident-Fund-Act)
+- [40 Pending investigations, proceedings, etc.](#Pending-investigations-proceedings-etc)
 
-- [41 Persons licensed under repealed Act](#Persons-licensed-under-repealed-Act)
+[**THE SCHEDULE Part I**](#THE-SCHEDULE)
 
-- [42 Pending investigations, proceedings, etc.](#Pending-investigations-proceedings-etc)
+[**Legislative History**](#Legislative-History)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Optometrists and Opticians Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 213A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 36 of 2007)
 
-Published by Authority
+REVISED EDITION 2008
 
-NO. 34]
+(31st December 2008)
 
-Friday, August 17
+An Act to provide for the registration of optometrists and opticians, to regulate their practices and to provide for purposes connected therewith.
 
-[2007
-
-The following Act was passed by Parliament on 17th July 2007 and assented to by the President on 27th July 2007:—
-
-Optometrists and Opticians Act 2007
-
-(No. 36 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-27th July 2007.
-
-Date of Commencement: 22nd February 2008
-
-An Act to provide for the registration of optometrists and opticians, to regulate their practices and to provide for purposes connected therewith, to repeal the Contact Lens Practitioners Act (Chapter 53A of the 2002 Revised Edition) and to make a consequential amendment to the Central Provident Fund Act (Chapter 36 of the 2001 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[22nd February 2008]
 
 ## PART I
 
-Preliminary
+PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Optometrists and Opticians Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Optometrists and Opticians Act.
 
 ### Interpretation
 
@@ -722,7 +700,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Amendment of Schedule
 
-36\. The Minister may, after consultation with the Board, by order published in theGazette, amend the Schedule.
+36\. The Minister may, after consultation with the Board, by order published in the Gazette, amend the Schedule.
 
 ### Regulations
 
@@ -770,33 +748,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-Repeal, SAVINGS AND TRANSITIONAL PROVISIONS
+SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### Interpretation of this Part
 
 38\. In this Part —
 
-“appointed day” means the date of commencement of this Act;
-
 “licence”, in relation to a licensed contact lens practitioner, means the licence granted to him under the repealed Act;
 
-“licensed contact lens practitioner” means a person who, immediately before the appointed day, was holding a valid licence granted to him under the repealed Act (whether provisionally or otherwise) authorising him to practise as a contact lens practitioner under the provisions of that Act;
+“licensed contact lens practitioner” means a person who, immediately before 22nd February 2008, was holding a valid licence granted to him under the repealed Act (whether provisionally or otherwise) authorising him to practise as a contact lens practitioner under the provisions of that Act;
 
-“repealed Act” means the Contact Lens Practitioners Act (Cap. 53A) repealed by this Act.
-
-### Repeal
-
-39\. The Contact Lens Practitioners Act (Cap. 53A) is repealed.
-
-### Consequential amendment to Central Provident Fund Act
-
-40\. Paragraph 6 of the First Schedule to the Central Provident Fund Act (Cap. 36) is amended by deleting item (11).
+“repealed Act” means the Contact Lens Practitioners Act (Cap. 53A, 2002 Ed.) repealed by this Act.
 
 ### Persons licensed under repealed Act
 
-41\.—(1) Notwithstanding anything in this Act, every licensed contact lens practitioner shall be deemed to be registered as an optician and have in force a practising certificate which authorises him to carry out any practice of opticianry under this Act, subject to such conditions or restrictions that the Minister may prescribe.
+39\.—(1) Notwithstanding anything in this Act, every licensed contact lens practitioner shall be deemed to be registered as an optician and have in force a practising certificate which authorises him to carry out any practice of opticianry under this Act, subject to such conditions or restrictions that the Minister may prescribe.
 
-(2) For avoidance of doubt, nothing in subsection (1) shall prevent a licensed contact lens practitioner from —
+(2) For the avoidance of doubt, nothing in subsection (1) shall prevent a licensed contact lens practitioner from —
 
 (a) applying to be registered as an optometrist; and
 
@@ -804,15 +772,19 @@ Repeal, SAVINGS AND TRANSITIONAL PROVISIONS
 
 under this Act, subject to such conditions or restrictions that the Minister may prescribe.
 
+[41
+
 ### Pending investigations, proceedings, etc.
 
-42\.—(1) This Act shall not apply to any investigation, proceedings or appeal commenced under the repealed Act before the appointed day and that is still pending on that day, and the provisions of the repealed Act shall continue to apply to such investigation, proceedings or appeal as if this Act had not been enacted.
+40\.—(1) This Act shall not apply to any investigation, proceedings or appeal commenced under the repealed Act before 22nd February 2008 and that is still pending on that date, and the provisions of the repealed Act shall continue to apply to such investigation, proceedings or appeal as if this Act had not been enacted.
 
-(2) For the purposes of subsection (1), the Contact Lens Practitioners Board shall continue to exist to complete its hearing of any proceedings that are pending on the appointed day and make such order or decision as it could have made under the repealed Act.
+(2) For the purposes of subsection (1), the Contact Lens Practitioners Board shall continue to exist to complete its hearing of any proceedings that are pending on 22nd February 2008 and make such order or decision as it could have made under the repealed Act.
 
 (3) Any order or decision made by the Contact Lens Practitioners Board pursuant to the provisions of the repealed Act shall be deemed to be, and shall have the same force and effect of, an order or decision made by the Optometrists and Opticians Board under this Act.
 
 (4) Nothing in this section shall prejudice section 16 of the Interpretation Act (Cap. 1).
+
+[42
 
 ## THE SCHEDULE
 
@@ -820,23 +792,39 @@ Sections 2 and 36
 
 Part I
 
-Acts or Activities Constituting “Opticianry” Or “The practice of Opticianry”
+Acts or Activities Constituting
+
+
+
+
+“Opticianry” or “Practice of Opticianry”
 
 1\. Refraction for persons of 8 years of age or older.
 
 2\. Interpreting prescriptions of medical practitioners and optometrists.
 
-3\. Supplying, preparing and dispensing of all optical appliances, except for contact lenses.
+3. Supplying, preparing and dispensing of all optical appliances, except for contact lenses .
 
-4\. Fitting, adjusting and adapting of all optical appliances, except for contact lenses, to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+[S 249/2009 wef 01/06/2009]
+
+4. Fitting, adjusting and adapting of all optical appliances, except for contact lenses , to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+
+[S 249/2009 wef 01/06/2009]
 
 Part II
 
-Acts or Activities Constituting “Optometry” Or “The practice of Optometry”
+Acts or Activities Constituting
+
+
+
+
+“Optometry” or “Practice of Optometry”
 
 1\. Refraction.
 
-2\. Prescribing of optical appliances.
+2. Prescribing of optical appliances .
+
+[S 249/2009 wef 01/06/2009]
 
 3. Detecting abnormalities of the eye using the following methods:
 
@@ -852,15 +840,62 @@ Acts or Activities Constituting “Optometry” Or “The practice of Optometry�
 
 (f) visual field testing.
 
-4. Interpreting prescriptions of medical practitioners and optometrists.
+4\. Interpreting prescriptions of medical practitioners and optometrists.
 
-[S 92/2008 wef 22/02/2008]
+5. Supplying, preparing and dispensing of all optical appliances .
 
-5. Supplying, preparing and dispensing of all optical appliances.
-
-[S 92/2008 wef 22/02/2008]
+[S 249/2009 wef 01/06/2009]
 
 6. Fitting, adjusting and adapting of all optical appliances to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
 
-[S 92/2008 wef 22/02/2008]
+[S 249/2009 wef 01/06/2009]
+
+[G.N. No.S 92/2008]
+
+## LEGISLATIVE HISTORY
+
+Optometrists and Opticians Act
+
+(CHAPTER 213A)
+
+This Legislative History is provided for the convenience of users of the Optometrists and Opticians Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 36 of 2007—Optometrists and Opticians Act 2007**|
+||Date of First Reading|21 May 2007|
+|||(Bill No. 24/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|17 July 2007|
+||Date of commencement|22 February 2008|
+|2.|**G. N. No. S 92/2008—Optometrists and Opticians Act (Amendment of Schedule) Order 2008**|
+||Date of commencement|22 February 2008|
+|3.|**2008 Revised Edition—Optometrists and Opticians Act**|
+||Date of operation|31 December 2008|
+## COMPARATIVE TABLE
+
+Optometrists and Opticians Act
+
+(CHAPTER 213A)
+
+The following provisions in the Optometrists and Opticians Act 2007 (Act 36 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition
+
+2008 Ed\. 
+
+Act 36 of 2007 
+
+Omitted
+
+39 
+
+Omitted
+
+40 
+
+39 
+
+41 
+
+40 
+
+42 
 
