@@ -1,12 +1,10 @@
-**Private Security Industry Act 2007**
+**Private Security Industry Act**
 
-**(No. 38 of 2007)**
+**(CHAPTER 250A)**
 
 **Table of Contents**
 
 [**Long Title**](#Private-Security-Industry-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -112,39 +110,21 @@
 
 [**THE SCHEDULE Security Equipment**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Private Security Industry Act
 
-ACTS SUPPLEMENT
+(CHAPTER 250A)
 
-Published by Authority
+(Original Enactment: Act 38 of 2007)
 
-NO. 38]
+REVISED EDITION 2008
 
-Friday, September 21
+(31st December 2008)
 
-[2007
+An Act to provide for the regulation of private investigators, private investigation agencies, security officers, security agencies and security service providers, and for matters connected therewith.
 
-The following Act was passed by Parliament on 27th August 2007 and assented to by the President on 10th September 2007:—
-
-Private Security Industry Act 2007
-
-(No. 38 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-10th September 2007.
-
-Date of Commencement: 27th April 2009
-
-An Act to provide for the regulation of private investigators, private investigation agencies, security officers, security agencies and security service providers, and for matters connected therewith, to repeal the Private Investigation and Security Agencies Act (Chapter 249 of the 1985 Revised Edition) and to make consequential amendments to the Central Provident Fund Act (Chapter 36 of the 2001 Revised Edition) and the Miscellaneous Offences (Public Order and Nuisance) Act (Chapter 184 of the 1997 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[27th April 2009]
 
 ## PART I
 
@@ -152,7 +132,7 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Private Security Industry Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Private Security Industry Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -346,7 +326,7 @@ inform the licensing officer in the prescribed form and manner of the employment
 
 (b) notwithstanding any other law or the provisions of any memorandum or articles of association or other constitution of the licensed private investigation agency, direct the licensed private investigation agency to terminate the employment of the person named in the notice given under paragraph (a).
 
-(3) Any licensed private investigation agency who contravenes subsection (1) or fails to comply with any direction under subsection (2) (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(3) Any licensed private investigation agency who contravenes subsection (1) or fails to comply with any direction under subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (4) In deciding for the purposes of subsection (2) whether an employee is a fit and proper person to be employed other than as a private investigator by a licensed private investigation agency, the licensing officer may consider the following matters as indicating that the employee may not be a fit and proper person:
 
@@ -494,7 +474,7 @@ to carry out that security assignment, that person shall be guilty of an offence
 
 (b) knows that the record is as described in paragraph (a); and
 
-(c) the record is furnished to the licensing officer following a requirement made under subsection (3),
+(c) furnishes the record to the licensing officer following a requirement made under subsection (3),
 
 the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -646,7 +626,7 @@ except under and in accordance with a security service provider’s licence gran
 
 (2) For the purposes of this section, a false alarm is the activation of an alarm system by reasons other than fire or intruders.
 
-(3) The charge referred to in subsection (1) shall be payable by a prescribed licensed security service provider in respect of each occasion any police officer attends at any premises in response to a call arising out of a false alarm at those premises where ––
+(3) The charge referred to in subsection (1) shall be payable by a prescribed licensed security service provider in respect of each occasion any police officer attends at any premises in response to a call arising out of a false alarm at those premises where —
 
 (a) the alarm system at those premises is installed or maintained by that licensed security service provider; and
 
@@ -768,7 +748,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) the licence had been obtained by fraud or misrepresentation;
 
-(c) the licensing officer becomes aware of a circumstance that would have required or permitted the licensing officer to refuse to grant or renew the licensee’s licence, had the licensing officer been aware of the circumstance immediately before the licence was granted or renewed;
+(c) a circumstance which he becomes aware of would have required or permitted him to refuse to grant or renew the licensee’s licence, had he been aware of the circumstance immediately before the licence was granted or renewed;
 
 (d) the licensee has ceased to carry on in Singapore the business or activity for which he or it is licensed;
 
@@ -910,7 +890,7 @@ INSPECTIONS AND POWERS OF ENFORCEMENT
 
 (ii) to inspect and check the operation of any computer, and any associated apparatus or material, that is or has been in use in connection with the keeping of the records, accounts or documents.
 
-(3) A person who fails, without reasonable excuse, to comply with any requirement imposed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(3) Any person who fails, without reasonable excuse, to comply with any requirement imposed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ## PART VII
 
@@ -1098,7 +1078,7 @@ shall not be entitled to bring any proceeding in any court to recover any commis
 
 (i) regulating the activities of the holder of a licence and prescribing the manner in which his business shall be conducted;
 
-(j) regulating the manufacture, importation, sale, distribution, possession and use of security equipment; and
+(j) regulating the manufacture, importation, sale, distribution, possession and use of security equipment;
 
 (k) any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.
 
@@ -1118,7 +1098,7 @@ shall not be entitled to bring any proceeding in any court to recover any commis
 
 “
 
-(29) Private Security Industry Act 2007.
+(29) Private Security Industry Act (Cap. 250A).
 
 ”.
 
@@ -1130,13 +1110,13 @@ shall not be entitled to bring any proceeding in any court to recover any commis
 
 Carrying truncheons, etc., in public places
 
-22A\.—(1) Except as provided in this section, no person shall, in any public place, carry or have in his possession or under his control (whether or not in the performance of his functions as a private investigator, security officer or security service provider licensed under the Private Security Industry Act 2007) any truncheon, handcuffs, or such other weapon or equipment as may from time to time be specified by the Minister in a notification published in theGazette.
+22A\.—(1) Except as provided in this section, no person shall, in any public place, carry or have in his possession or under his control (whether or not in the performance of his functions as a private investigator, security officer or security service provider licensed under the Private Security Industry Act (Cap. 250A)) any truncheon, handcuffs, or such other weapon or equipment as may from time to time be specified by the Minister in a notification published in theGazette.
 
-(2) Any private investigator, security officer or security service provider licensed under the Private Security Industry Act 2007, or any other person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one month or to both.
+(2) Any private investigator, security officer or security service provider licensed under the Private Security Industry Act, or any other person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one month or to both.
 
 (3) Nothing in this section shall prohibit or prevent the carrying of any truncheon, handcuffs or such other weapon or equipment referred to in subsection (1) by a police officer, an auxiliary police officer, or a member of the Singapore Armed Forces or of any visiting force lawfully present in Singapore under any law relating to visiting forces.
 
-(4) A private investigator, security officer or security service provider who is licensed under the Private Security Industry Act 2007 may be authorised to carry or have in his possession in any public place any truncheon, handcuffs or such other weapon or equipment if, and only if —
+(4) A private investigator, security officer or security service provider who is licensed under the Private Security Industry Act may be authorised to carry or have in his possession in any public place any truncheon, handcuffs or such other weapon or equipment if, and only if —
 
 (a) the licensing officer under that Act is satisfied that it is necessary for the performance of his functions as a private investigator, security officer or security service provider, and it is appropriate for permission to be given for such carrying or possession;
 
@@ -1162,7 +1142,7 @@ Carrying truncheons, etc., in public places
 
 (b) is approved by the licensing officer under the repealed Act to be employed to assist the holder of a security guard agency’s licence in the work of a security guard,
 
-shall be deemed to be granted a private investigator’s licence and a security officer’s licence, respectively, under this Act which shall expire 5 years after the appointed date, unless it is earlier revoked.
+shall be deemed to be granted a private investigator’s licence and a security officer’s licence, respectively, under this Act which shall expire 5 years after the appointed day, unless it is earlier revoked.
 
 (5) Any application for a licence under the provisions of the repealed Act before the appointed day and which application was not dealt with before that day shall, where applicable, be deemed to be an application for a licence under the corresponding provisions of this Act.
 
@@ -1218,3 +1198,21 @@ Security Equipment
 
 14\. Radio frequency scanners.
 
+## LEGISLATIVE HISTORY
+
+Private Security Industry Act
+
+(CHAPTER 250A)
+
+This Legislative History is provided for the convenience of users of the Private Security Industry Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 38 of 2007—Private Security Industry Act 2007**|
+||Date of First Reading|16 July 2007|
+|||(Bill No. 26/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|18 September 2007|
+|||(publication date)|
+|2.|**2008 Revised Edition—Private Security Industry Act**|
+||Date of operation|31 December 2008|
