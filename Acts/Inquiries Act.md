@@ -1,16 +1,14 @@
-**Inquiries Act 2007**
+**Inquiries Act**
 
-**(No. 43 of 2007)**
+**(CHAPTER 139A)**
 
 **Table of Contents**
 
 [**Long Title**](#Inquiries-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -50,57 +48,37 @@
 
 [**Part V MISCELLANEOUS**](#Part-V)
 
-- [17 Repeal](#Repeal)
+- [17 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [18 Savings and transitional provisions](#Savings-and-transitional-provisions)
+[**THE SCHEDULE Inquiry Powers and Proceedings**](#THE-SCHEDULE)
 
-- [19 Related amendments to other written laws](#Related-amendments-to-other-written-laws)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-[**FIRST SCHEDULE Inquiry Powers and Proceedings**](#FIRST-SCHEDULE-Inquiry-Powers-and-Proceedings)
+[**Legislative History**](#Legislative-History)
 
-[**SECOND SCHEDULE Related Amendments to Other Written Laws**](#SECOND-SCHEDULE-Related-Amendments-to-Other-Written-Laws)
+[**Comparative Table**](#Comparative-Table)
 
-REPUBLIC OF SINGAPORE
+# Inquiries Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 139A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 43 of 2007)
 
-Published by Authority
+REVISED EDITION 2008
 
-NO. 41]
+(31st December 2008)
 
-Friday, October 12
+An Act to enable the President to appoint a commission of inquiry and to enable the relevant Minister to appoint a committee of inquiry, and to provide for matters related thereto.
 
-[2007
-
-The following Act was passed by Parliament on 19th September 2007 and assented to by the President on 4th October 2007:—
-
-Inquiries Act 2007
-
-(No. 43 of 2007)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-4th October 2007.
-
-Date of Commencement: 1st November 2007
-
-An Act to enable the President to appoint a commission of inquiry and to enable the relevant Minister to appoint a committee of inquiry, and to provide for matters related thereto, to repeal the Commissions of Inquiry Act (Chapter 48 of the 1985 Revised Edition) and to make related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 2007]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Inquiries Act 2007 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Inquiries Act.
 
 ### Interpretation
 
@@ -119,6 +97,8 @@ PRELIMINARY
 “Minister”, in relation to a committee of inquiry, means the Minister who appointed the committee of inquiry under section 9 and includes his successor in office;
 
 “terms of reference”, in relation to an inquiry body, means the terms of reference issued to the inquiry body under section 3(2) or 9(2), as the case may be, and includes any modification made thereto under section 3(3) or 9(3).
+
+[Aust RCA, s. 1B]
 
 ## PART II
 
@@ -150,6 +130,8 @@ COMMISSIONS OF INQUIRY
 
 (4) The President may extend the time for the inquiry to be completed and for the submission of the report of the inquiry by the commission.
 
+[UK Inquiries Act, s. 5(3) and (6)(b) and (c); COI Act, ss. 2(1) and (2)(b), (c) and (d), 4]
+
 ### Composition of commission
 
 4\.—(1) A commission of inquiry shall consist of one or more persons (at least one of whom shall be a person who is qualified to be a Judge of the High Court).
@@ -176,9 +158,13 @@ COMMISSIONS OF INQUIRY
 
 (8) Every commissioner appointed under this Part shall, so long as he is acting as such commissioner, be deemed to be a public servant within the meaning of the Penal Code (Cap. 224), and every inquiry under this Part shall be deemed to be a judicial proceeding within the meaning of the Penal Code.
 
+[CE Act, s. 5(6)(c) and (d); COI Act, ss. 2(2)(a), 3, 18; PF Act, s. 45(1), (2) and (3); Prisons Act, s. 9(1), (2) and (3)]
+
 ### Change of President
 
 5\. No commission issued and no appointment made under this Part shall lapse by reason of, or be otherwise affected by, the death, absence, resignation, retirement or removal of the President who issued the commission or made the appointment.
+
+[COI Act, s. 5]
 
 ### Appointment of secretary
 
@@ -194,6 +180,8 @@ COMMISSIONS OF INQUIRY
 
 (e) generally to perform such duties connected with the inquiry as the commissioners may instruct, subject to the directions, if any, of the President.
 
+[COI Act, s. 6]
+
 ### Appointment of assessors
 
 7\.—(1) One or more persons may be appointed as assessors to assist the commissioners.
@@ -206,9 +194,13 @@ COMMISSIONS OF INQUIRY
 
 (3) The chairman may at any time terminate the appointment of an assessor, but only with the consent of the President in the case of an assessor appointed by the President.
 
+[UK Inquiries Act, s. 11(1), (2) and (5)]
+
 ### Role of police
 
 8\. The President may direct the Commissioner of Police to detail police officers to attend upon any such commissioners, to preserve order during the proceedings, to serve summonses on witnesses and to provide such other assistance in relation to the inquiry as the commissioners may direct.
+
+[COI Act, s. 16]
 
 ## PART III
 
@@ -242,6 +234,8 @@ COMMITTEES OF INQUIRY
 
 (4) The Minister may extend the time for the inquiry to be completed and for the submission of the report of the inquiry by the committee.
 
+[Aust RCA, s. 1A; UK Inquiries Act, ss. 1, 5(3) and (6)(b) and (c); COI Act, ss. 2(1) and (2)(b), (c) and (d), 4]
+
 ### Composition of committee
 
 10\.—(1) A committee of inquiry shall consist of one or more persons (at least one of whom shall be a person who is qualified to be a District Judge).
@@ -268,9 +262,13 @@ COMMITTEES OF INQUIRY
 
 (8) Every member appointed under this Part shall, so long as he is acting as such member, be deemed to be a public servant within the meaning of the Penal Code (Cap. 224), and every inquiry under this Part shall be deemed to be a judicial proceeding within the meaning of the Penal Code.
 
+[CE Act, s. 5(6)(c) and (d); COI Act, ss. 2(2)(a), 3, 18; PF Act, s. 45(1), (2) and (3); Prisons Act, s. 9(1), (2) and (3)]
+
 ### Change of Minister
 
 11\. No appointment made under this Part shall lapse by reason of, or be otherwise affected by, the death, absence, resignation, retirement or removal of the Minister who made the appointment.
+
+[COI Act, s. 5]
 
 ### Appointment of secretary
 
@@ -286,6 +284,8 @@ COMMITTEES OF INQUIRY
 
 (e) generally to perform such duties connected with the inquiry as the committee may instruct, subject to the directions, if any, of the Minister.
 
+[COI Act, s. 6]
+
 ### Appointment of assessors
 
 13\.—(1) One or more persons may be appointed as assessors to assist the committee.
@@ -298,13 +298,15 @@ COMMITTEES OF INQUIRY
 
 (3) The chairman may at any time terminate the appointment of an assessor, but only with the consent of the Minister in the case of an assessor appointed by the Minister.
 
+[UK Inquiries Act, s. 11(1), (2) and (5)]
+
 ## PART IV
 
 INQUIRY POWERS AND PROCEEDINGS AND RULES
 
 ### Inquiry powers and proceedings
 
-14\. The powers of inquiry bodies and the provisions on inquiry proceedings shall be as set out in the First Schedule.
+14\. The powers of inquiry bodies and the provisions on inquiry proceedings shall be as set out in the Schedule.
 
 ### Rules in relation to commissions of inquiry
 
@@ -314,13 +316,15 @@ INQUIRY POWERS AND PROCEEDINGS AND RULES
 
 (a) matters of evidence and procedure in relation to commissions of inquiry under this Act;
 
-(b) the assessment and payment of sums referred to in paragraph 1(7) of the First Schedule.
+(b) the assessment and payment of sums referred to in paragraph 1(7) of the Schedule.
 
 (3) Rules under subsection (2)(b) may in particular —
 
-(a) make provision as to how and by whom the sums referred to in paragraph 1(7) of the First Schedule are to be assessed, including provision allowing the assessment to be undertaken by the commissioners or by such other person as the commissioners may nominate; and
+(a) make provision as to how and by whom the sums referred to in paragraph 1(7) of the Schedule are to be assessed, including provision allowing the assessment to be undertaken by the commissioners or by such other person as the commissioners may nominate; and
 
 (b) make provision for review of an assessment at the instance of any person dissatisfied with it.
+
+[UK Inquiries Act, s. 41]
 
 ### Rules in relation to committees of inquiry
 
@@ -330,31 +334,29 @@ INQUIRY POWERS AND PROCEEDINGS AND RULES
 
 (a) matters of evidence and procedure in relation to committees of inquiry under this Act;
 
-(b) the assessment and payment of sums referred to in paragraph 1(7) of the First Schedule.
+(b) the assessment and payment of sums referred to in paragraph 1(7) of the Schedule.
 
 (3) Rules under subsection (2)(b) may in particular —
 
-(a) make provision as to how and by whom the sums referred to in paragraph 1(7) of the First Schedule are to be assessed, including provision allowing the assessment to be undertaken by the committee of inquiry or by such other person as the committee of inquiry may nominate; and
+(a) make provision as to how and by whom the sums referred to in paragraph 1(7) of the Schedule are to be assessed, including provision allowing the assessment to be undertaken by the committee of inquiry or by such other person as the committee of inquiry may nominate; and
 
 (b) make provision for review of an assessment at the instance of any person dissatisfied with it.
+
+[UK Inquiries Act, s. 41]
 
 ## PART V
 
 MISCELLANEOUS
 
-### Repeal
-
-17\. The Commissions of Inquiry Act (Cap. 48) is repealed.
-
 ### Savings and transitional provisions
 
-18\. In respect of any commission of inquiry appointed under section 2 of the repealed Commissions of Inquiry Act (referred to in this section as the repealed Act) before the date of commencement of this Act, the repealed Act shall continue to apply to such commission of inquiry and all matters arising therefrom as if the repealed Act had not been repealed.
+17\. In respect of any commission of inquiry appointed under section 2 of the repealed Commissions of Inquiry Act\*(referred to in this section as the repealed Act) before 1st November 2007, the repealed Act shall continue to apply to such commission of inquiry and all matters arising therefrom as if the repealed Act had not been repealed.
 
-### Related amendments to other written laws
+\*(Cap. 48, 1985 Ed.)
 
-19\. The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
+[18
 
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Section 14
 
@@ -438,7 +440,7 @@ Offences
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(2) For the purposes of sub-paragraph (1)(c) and (d), a document is a “relevant document” if it is likely that the inquiry body would (if aware of the existence of the document) wish to be provided with it.
+(2) For the purposes of sub-paragraph (1)(c) and (d), a document is a "relevant document" if it is likely that the inquiry body would (if aware of the existence of the document) wish to be provided with it.
 
 Penalty for threats, etc., to witnesses
 
@@ -458,7 +460,7 @@ Contempt
 
 (a) offers any act of disrespect or any insult or threat to an inquiry body or to any member in the exercise of that member’s powers or functions as a member while sitting in the inquiry body;
 
-(b) offers any act of disrespect or any insult or threat at any other time and place to an inquiry body or to any member on account of the exercise of that member’s powers or functions as a member;
+(b) offers any act of disrespect or any insult or threat at any other time and place to an inquiry body or to any member on account of the exercise of that membe’s powers or functions as a member;
 
 (c) wilfully interrupts, obstructs or disturbs the proceedings of an inquiry body;
 
@@ -566,51 +568,124 @@ Reference to court and judge
 
 (b) where the inquiry body is a committee of inquiry, a reference to a court shall be construed as a reference to a District Court and a reference to a judge shall be construed as a reference to a District Judge.
 
-SECOND SCHEDULE
+[Aust RCA, ss. 6(1), 6L, 6M, 6O, 7; UK Inquiries Act, ss. 2, 13, 24(1) and (3) to (6), 35(2) and (3), 37(1) and (3), 39(1); Architects Act, s. 31F(6); BMSM Act, s. 96(1); CD Act, s. 53(b), (d) and (f); COI Act, ss. 7 to 15, 17, 19, 21; CPC, ss. 126(1), 148(1); Electricity Act, s. 66(6); Prisons Act, ss. 12(1), 13, 15; PF Act, ss. 47(1), 49; WSHA, s. 26(9)]
 
-Section 19
+## LEGISLATIVE SOURCE KEY
 
-Related Amendments to Other Written Laws
+Inquiries Act
 
-First column
+(CHAPTER 139A)
 
-Second column
+Notes: Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
-(1) Oaths and Declarations Act
+Aust RCA
 
+:
 
+Australia, Royal Commissions Act 1902
 
+UK Inquiries Act
 
-(Chapter 211, 2001 Ed.)
+:
 
-Section 2
+United Kingdom, Inquiries Act 2005 (Chapter 12)
 
-Insert, immediately after the word “commission” in the definition of “person acting judicially”, the word “, committee”.
+Architects Act
 
-(2) Parliament (Privileges, Immunities and Powers) Act (Chapter 217, 2000 Ed.)
+:
 
-(a) Section 5
+Singapore, Architects Act (Chapter 12, 2000 Revised Edition)
 
-Insert, immediately after the words “commission of inquiry”, the words “, committee of inquiry”.
+BMSM Act
 
-(b) Section 9 (1) (b)
+:
 
-Insert, immediately after the words “commission of inquiry”, the words “or committee of inquiry”.
+Singapore, Building Maintenance and Strata Management Act (Chapter 30C, 2008 Revised Edition)
 
-(3) Subordinate Courts Act
+CD Act
 
+:
 
+Singapore, Civil Defence Act (Chapter 42, 2001 Revised Edition)
 
+CE Act
 
-(Chapter 321, 2007 Ed.)
+:
 
-Section 64 (2)
+Singapore, Compulsory Education Act (Chapter 51, 2001 Revised Edition)
 
-Insert, immediately after the words “commission of inquiry”, the words “, committee of inquiry”.
+COI Act
 
-(4) Supreme Court of Judicature Act (Chapter 322, 2007 Ed.)
+:
 
-Section 75 (2)
+Singapore, Commissions of Inquiry Act (Chapter 48, 1985 Revised Edition)
 
-Insert, immediately after the words “commission of inquiry”, the words “, committee of inquiry”.
+CPC
+
+:
+
+Singapore, Criminal Procedure Code (Chapter 68, 1985 Revised Edition)
+
+Electricity Act
+
+:
+
+Singapore, Electricity Act (Chapter 89A, 2002 Revised Edition)
+
+PF Act
+
+:
+
+Singapore, Police Force Act (Chapter 235, 2006 Revised Edition)
+
+Prisons Act
+
+:
+
+Singapore, Prisons Act (Chapter 247, 2000 Revised Edition)
+
+WSHA
+
+:
+
+Singapore, Workplace Safety and Health Act (Chapter 354A, 2007 Revised Edition)
+
+## LEGISLATIVE HISTORY
+
+Inquiries Act
+
+(CHAPTER 139A)
+
+This Legislative History is provided for the convenience of users of the Inquiries Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 43 of 2007—Inquiries Act 2007**|
+||Date of First Reading|27 August 2007|
+|||(Bill No. 31/2007 published on 28 August 2007)|
+||Date of Second and Third Readings|19th September 2007|
+||Date of commencement|1 November 2007|
+|2.|**2008 Revised Edition—Inquiries Act**|
+||Date of operation|31 December 2008|
+## COMPARATIVE TABLE
+
+Inquiries Act
+
+(CHAPTER 139A)
+
+The following provisions in the Inquiries Act (Act 43 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Act.
+
+2008 Ed\. 
+
+Act 43 of 2007 
+
+17 
+
+18 
+
+Omitted
+
+19 
 
