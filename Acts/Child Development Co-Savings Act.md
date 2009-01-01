@@ -112,8 +112,6 @@ PRELIMINARY
 
 “benefit period”, in relation to a female employee to whom subsection (1), (1A), (1B), (1C), (1D), (1E) or (1F) of section 9 applies, means such period as she is entitled under the applicable subsection to receive payment from her employer at her gross rate of pay;
 
-[28/2008 wef 31/10/2008]
-
 “confinement” means the delivery of a child;
 
 “eligible child” means a child who is eligible for membership of the Scheme under the regulations made under section 3;
@@ -146,19 +144,13 @@ PRELIMINARY
 
 “medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174);
 
-[28/2008 wef 31/10/2008]
-
 “member” means a member of the Scheme;
 
 “natural father”, in relation to a child, includes a person who is identified in the registration of the birth of the child as the father of the child;
 
-[28/2008 wef 31/10/2008]
-
 “parent”, in relation to a child, includes a legal guardian of the child;
 
 “part-time employee” has the same meaning as in section 66A(1) of the Employment Act (Cap. 91);
-
-[28/2008 wef 31/10/2008]
 
 “personal representative” means the executor, original or by representation, or administrator for the time being of a deceased person;
 
@@ -262,16 +254,13 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (2) The receipt of the Public Trustee shall be a good discharge to the Minister and the managing agent for such portions of the moneys payable out of the bank account on the death of a member as are payable to the Public Trustee under subsection (1).
 
-
 (3) All moneys paid out of the bank account on the death of any member shall be deemed to be impressed with a trust in favour of the person or persons determined by the Public Trustee in accordance with subsection (1) to be entitled thereto but shall, without prejudice to the Estate Duty Act (Cap. 96), be deemed not to form part of the deceased member’s estate or to be subject to his debts.
-
 
 ### Approved persons
 
 7\.—(1) The Minister may make regulations to approve a person as an approved person for the purposes of the Scheme and for purposes connected therewith.
 
 (2) Without prejudice to the generality of subsection (1), such regulations may —
-
 
 (a) prescribe the manner in which applications for approval as an approved person may be made;
 
@@ -296,7 +285,6 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 the Government may recover such payment from any moneys standing to the credit of the member’s bank account.
 
 (2) Where the Government is entitled to recover any payment from a member’s bank account under subsection (1), the bank at which the account is opened and maintained shall not authorise any further withdrawal from the account until the payment due to the Government has been deducted from the moneys standing to the credit of the account and paid to the Government.
-
 
 ## PART III
 
@@ -428,8 +416,6 @@ shall be entitled —
 
 (BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the child becomes a citizen of Singapore), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
 
-[28/2008 wef 31/10/2008]
-
 (1B) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
 (a) delivers a child who is not a citizen of Singapore at the time of his birth;
@@ -547,8 +533,6 @@ shall be entitled —
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day she becomes lawfully married to the child’s natural father; and
 
 (BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day she becomes lawfully married to the child’s natural father), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
-
-[28/2008 wef 31/10/2008]
 
 (1D) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
@@ -669,8 +653,6 @@ shall be entitled —
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day the relevant event occurs; and
 
 (BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the relevant event occurs), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
-
-[28/2008 wef 31/10/2008]
 
 (1F) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
@@ -892,8 +874,6 @@ means the later of the following events:
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
 
-[28/2008 wef 31/10/2008]
-
 (1A) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1A) or (1B), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4A), if —
 
 (a) the child delivered during her confinement —
@@ -912,8 +892,6 @@ means the later of the following events:
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
 
-[28/2008 wef 31/10/2008]
-
 (1B) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1C) or (1D), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4B), if —
 
 (a) the child delivered during her confinement is a citizen of Singapore at the time of his birth;
@@ -927,8 +905,6 @@ means the later of the following events:
 (c) in the case of a female employee, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
-
-[28/2008 wef 31/10/2008]
 
 (1C) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1E) or (1F), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4C), if —
 
@@ -948,7 +924,7 @@ means the later of the following events:
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
 
-[28/2008 wef 31/10/2008]
+(2) [Deleting by Act 28/2008 wef 31/10/2008]
 
 (3) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to absent herself from work or to any payment under section 76 of that Act in respect of any confinement to which she is entitled to absent herself from work or to payment under section 9(1).
 
@@ -974,8 +950,6 @@ means the later of the following events:
 
 (ii) shall not exceed a total of $20,000; and
 
-[28/2008 wef 31/10/2008]
-
 (b) in respect of her third or subsequent confinement, the amount of payment she shall be entitled to receive from her employer —
 
 (i) shall not exceed $10,000 for either of the following periods:
@@ -985,8 +959,6 @@ means the later of the following events:
 (B) if the amount is paid under section 9(1)(c)(ii), (1A)(vi), (1B)(ii)(B) or (iii), (1C)(vi), (1D)(ii)(B) or (iii), (1E)(vi) or (1F)(ii)(B) or (iii), for every 24 days of her absence from work; and
 
 (ii) shall not exceed a total of $40,000.
-
-[28/2008 wef 31/10/2008]
 
 (5) Where a self-employed woman ceases to be actively engaged in her trade, business, profession or vocation during the whole or part of any period referred to in section 9(4), (4A), (4B) or (4C) —
 
@@ -1002,8 +974,6 @@ means the later of the following events:
 
 (v) shall not exceed a total of $20,000; and
 
-[28/2008 wef 31/10/2008]
-
 (b) in respect of her third or subsequent confinement, the amount of payment she shall be entitled to receive from the Government under section 9(5)(b) —
 
 (i) for every 4 weeks of her cessation of active engagement in her trade, business, profession or vocation under section 9(4)(a), (b) or (c)(i), (4A)(c)(i) or (ii)(A), (4B)(c)(i) or (ii)(A) or (4C)(d)(i) or (ii)(A) shall not exceed $10,000;
@@ -1011,8 +981,6 @@ means the later of the following events:
 (ii) for every 24 days of her cessation of active engagement in her trade, business, profession or vocation under section 9(4)(c)(ii), (4A)(c)(ii)(B) or (iii), (4B)(c)(ii)(B) or (iii) or (4C)(d)(ii)(B) or (iii) shall not exceed $10,000; and
 
 (iii) shall not exceed a total of $40,000.
-
-[28/2008 wef 31/10/2008]
 
 (6) The amounts of payment referred to in subsections (4) and (5) shall be inclusive of any contribution to the Central Provident Fund which an employer, a female employee or a self-employed woman is liable to make under the Central Provident Fund Act (Cap. 36).
 
@@ -1040,8 +1008,6 @@ means the later of the following events:
 
 (CB) if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work under that provision; and
 
-[28/2008 wef 31/10/2008]
-
 (ii) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages; and
 
 (b) in respect of the third or subsequent confinement of the employee, for —
@@ -1051,8 +1017,6 @@ means the later of the following events:
 (A) under section 9(1), (1B), (1D) or (1F) for the whole period of her absence from work under that provision; or
 
 (B) under subsection (1A), (1C) or (1E) of section 9 for such period of her absence from work under section 76(1) of the Employment Act, or under that subsection, as she is entitled to receive payment under that subsection; and
-
-[28/2008 wef 31/10/2008]
 
 (ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
 
@@ -1068,8 +1032,6 @@ means the later of the following events:
 
 (ii) shall not exceed a total of $20,000; and
 
-[28/2008 wef 31/10/2008]
-
 (b) where subsection (1)(b) applies —
 
 (i) shall not exceed $10,000 for every 4 weeks or 24 days, as the case may be, of the employee’s absence from work; and
@@ -1078,7 +1040,7 @@ means the later of the following events:
 
 [28/2008 wef 31/10/2008]
 
-[28/2008 wef 31/10/2008]
+[42/2004 wef 01/10/2004]
 
 ### Maternity benefits for confinement occurring between 17th August 2008 and 30th October 2008, etc.
 
@@ -1198,23 +1160,21 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 (ii) shall not exceed a total of $40,000.
 
-[28/2008 wef 31/10/2008]
-
 ### Recovery of payment by Government and employer
 
 11\.—(1) Where any payment has been made by an employer to a female employee or by the Government to a self-employed woman under section 9, 10A or 12A, as the case may be, by reason of a mistake of fact or in reliance of any false or misleading statement or document made or furnished by that female employee or self-employed woman —
 
-(a) the employer may, if he has not been reimbursed by the Government for the payment to the female employee under section 9, 12A or 22, as the case may be, recover the payment directly from the female employee; and
+(a) the employer may, if he has not been reimbursed by the Government for the payment to the female employee under section 9, 10A or 12A, as the case may be, recover the payment directly from the female employee; and
 
 [42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
 
 (b) the Government may —
 
 (i) where it has reimbursed the employer under section 10, 10A or 12A, as the case may be, for the whole or any part of the payment to the female employee, recover the payment or part thereof from the employee as a civil debt; or
 
 (ii) where the payment is made to a self-employed woman, recover the payment from her as a civil debt.
-
-[28/2008 wef 31/10/2008]
 
 [42/2004 wef 01/10/2004]
 
@@ -1282,11 +1242,7 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 (a) any employer or employee to whom section 9, 10A, 12B or 12D applies;
 
-[28/2008 wef 31/10/2008]
-
 (b) any dispute under this Part, or under any regulations made under section 20, between any such employer and any such employee; and
-
-[28/2008 wef 31/10/2008]
 
 (c) any offence or proceedings under section 12B, 12D or 17 (including any act or omission in respect of which a penalty is imposed),
 
@@ -1332,11 +1288,13 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (B) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages.
 
-[28/2008 wef 31/10/2008]
+(1A) [Deleted by Act 28/2008 wef 31/10/2008]
+
+(1B) [Deleted by Act 28/2008 wef 31/10/2008]
 
 (2) The leave referred to in subsection (1)(d) shall be in addition to —
 
-(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 42, 43 and 44, respectively, of the Employment Act (Cap. 91);
+(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively, of the Employment Act (Cap. 91);
 
 [28/2008 wef 31/10/2008]
 
@@ -1344,11 +1302,7 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (aa) any childcare leave to which an employee may be entitled under section 87A of the Employment Act or under section 12B;
 
-[28/2008 wef 31/10/2008]
-
 (ab) any unpaid infant care leave to which an employee may be entitled under section 12D; and
-
-[28/2008 wef 31/10/2008]
 
 (b) any type of leave of absence to which the female employee is entitled under her contract of service with her employer that does not relate to the adoption of a child.
 
@@ -1402,7 +1356,9 @@ the Government may recover that payment from that employee as a civil debt.
 
 the self-employed woman shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during the period or periods referred to in paragraph (d).
 
-[28/2008 wef 31/10/2008]
+(4A) [Deleted by Act 28/2008 wef 31/10/2008]
+
+(4B) [Deleted by Act 28/2008 wef 31/10/2008]
 
 (5) The amount of payment a self-employed woman shall be entitled to receive from the Government under subsection (4) shall not exceed $10,000.
 
@@ -1500,7 +1456,7 @@ then —
 
 (7) The childcare leave shall be in addition to —
 
-(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 42, 43 and 44, respectively, of the Employment Act; and
+(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively, of the Employment Act; and
 
 [32/2008 wef 01/01/2009]
 
@@ -1600,13 +1556,19 @@ he shall be entitled to claim from the Government the income he would otherwise 
 
 (c) 3 days of childcare leave, if the employer granted the employee 6 days of childcare leave during that relevant period.
 
+[28/2008 wef 31/10/2008]
+
 (2) Subject to subsections (3) and (4), the amount of reimbursement which an employer shall be entitled to claim from the Government under subsection (1) in respect of an employee —
 
 (a) shall not exceed $500 for each day of childcare leave taken by the employee; and
 
 (b) shall not exceed $1,500 in any calendar year.
 
+[28/2008 wef 31/10/2008]
+
 (3) Notwithstanding subsections (1) and (2), the Government may refuse to reimburse an employer for any amount paid by the employer to an employee for any day of childcare leave taken by the employee in any calendar year, if the Government has already reimbursed the employer or any other employer or employers for the amount or amounts paid to the employee for a total of 3 days of childcare leave taken by the employee in that calendar year.
+
+[28/2008 wef 31/10/2008]
 
 (4) Notwithstanding subsections (1) and (2), the Government may refuse to reimburse an employer for any amount paid by the employer to an employee for any day of childcare leave taken by the employee in respect of a qualifying child, if the Government has already reimbursed the employer or any other employer or employers for the amount or amounts paid to the employee for a total of 21 days of childcare leave taken by the employee in respect of that qualifying child.
 
@@ -1642,7 +1604,7 @@ then such leave of absence shall be treated, for the purposes of this Act, as un
 
 (4) The unpaid infant care leave shall be in addition to —
 
-(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 42, 43 and 44, respectively, of the Employment Act (Cap. 91); and
+(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively, of the Employment Act (Cap. 91); and
 
 [32/2008 wef 01/01/2009]
 
@@ -1702,8 +1664,6 @@ then such leave of absence shall be treated, for the purposes of this Act, as un
 
 (b) such class or classes of self-employed women or self-employed persons; and
 
-[28/2008 wef 31/10/2008]
-
 (c) such class or classes of employers,
 
 as the Minister may, by notification in theGazette, specify.
@@ -1730,9 +1690,7 @@ MISCELLANEOUS
 
 (da) the entitlement of a self-employed person to any payment under section 12B;
 
-[28/2008 wef 31/10/2008]
-
-(e) the entitlement of an employer to reimbursement from the Government under section 10, 10A, 11, 12A or 12C; or6
+(e) the entitlement of an employer to reimbursement from the Government under section 10, 10A, 11, 12A or 12C; or
 
 [42/2004 wef 01/10/2004]
 
@@ -1750,7 +1708,6 @@ shall be referred to the Minister for decision within one month from the date on
 
 (2) Every parent who makes a report of the change of his place of residence under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (1).
 
-
 ### False or misleading statement
 
 16\.—(1) Any person who for any purpose connected with this Act —
@@ -1762,7 +1719,6 @@ shall be referred to the Minister for decision within one month from the date on
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) Where a person has been convicted by the court of having made any false or misleading statement or having produced or furnished any document which is false or misleading in any material particular under subsection (1), the court may order that person to make restitution of any moneys paid out to that person by the Government in reliance of the false or misleading statement or document.
-
 
 ### Failure of employer to pay female employee
 
@@ -1804,6 +1760,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 18\.—(1) Where any person holds himself or itself out to be an approved person when the person is not an approved person, such person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+(2) [Deleted by Act 28/2008 wef 31/10/2008]
+
 (3) Where the person referred to in subsection (1) is a partnership, every partner, other than a partner who is proved to have been ignorant of or attempted to prevent the commission of the offence, shall be guilty of the offence under subsection (1) and liable to be proceeded against and punished accordingly.
 
 ### Offence by body corporate
@@ -1824,16 +1782,13 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 ### Composition of offences
 
-19\.—(1) The Minister or any person authorised by him may, in his discretion, compound any offence under section 11, 16 or 18 or any regulations made under this Act
-by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
-
+19\.—(1) The Minister or any person authorised by him may, in his discretion, compound any offence under section 11, 16 or 18 or any regulations made under this Act by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
 [42/2004 wef 01/10/2004]
 
 [28/2008 wef 31/10/2008]
 
 (2) The Commissioner for Labour may, in his discretion, compound any offence under section 12B, 12D or 17 by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
-
 
 [42/2004 wef 01/10/2004]
 
@@ -1851,15 +1806,11 @@ by collecting from the person reasonably suspected of having committed the offen
 
 (ii) any payment to any employee or self-employed person under section 12B;
 
-[28/2008 wef 31/10/2008]
-
 (b) the manner of and method for determining —
 
 (i) the income which a self-employed woman is entitled to claim from the Government under section 9, 10A or 12A; and
 
 (ii) the income which a self-employed person is entitled to claim from the Government under section 12B;
-
-[28/2008 wef 31/10/2008]
 
 (c) the manner of and method for determining the amount of reimbursement which an employer is entitled to claim under section 10, 10A, 12A or 12C and the terms and conditions subject to which the employer may be reimbursed;
 
@@ -1931,3 +1882,9 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 26/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|21 October 2008|
 ||Date of commencement|31 October 2008|
+|7.|**Act 32 of 2008—Employment (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 34/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 January 2009|
