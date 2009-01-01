@@ -58,7 +58,7 @@
 
 - [21 Zero-rating for exports and international services](#Zero-rating-for-exports-and-international-services)
 
-- [21A Zero-rating of supply of certain tools, etc.](#Zero-rating-of-supply-of-certain-tools-etc)
+- [21A Zero-rating of supply of certain tools, machinery and prototypes](#Zero-rating-of-supply-of-certain-tools-machinery-and-prototypes)
 
 - [22 Exempt supply](#Exempt-supply)
 
@@ -192,7 +192,7 @@
 
 - [78 Recovery of tax and penalty](#Recovery-of-tax-and-penalty)
 
-- [79 Power to appoint agent for recovery of tax](#Power-to-appoint-agent-for-recovery-of-tax)
+- [79 Power to appoint agent, etc., for recovery of tax](#Power-to-appoint-agent-etc-for-recovery-of-tax)
 
 - [80 Indemnification of agent](#Indemnification-of-agent)
 
@@ -926,7 +926,7 @@ relating to the co-location in Singapore of computer server equipment belonging 
 
 [28/2007 wef 01/07/2007]
 
-(t) prescribed services in connection with the provision of an electronic system relating to the import of goods into or the export of goods out of Singapore; or
+(t) prescribed services in connection with the provision of an electronic system relating to the import of goods into or the export of goods out of Singapore;
 
 [38/2005 wef 01/01/2006]
 
@@ -940,11 +940,23 @@ relating to the co-location in Singapore of computer server equipment belonging 
 
 (ii) the promulgation of an advertisement by means of any medium of communication,
 
-where the Comptroller is satisfied that the advertisement is intended to be substantially promulgated outside Singapore.
+where the Comptroller is satisfied that the advertisement is intended to be substantially promulgated outside Singapore ;
 
 [28/2007 wef 01/07/2007]
 
 [33/2008 wef 01/01/2009]
+
+(v) the supply (including the letting on hire) of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed; or
+
+[33/2008 wef 01/01/2009]
+
+[19/2009 wef 01/01/2010]
+
+(w) prescribed services comprising the repair, maintenance or management of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed.
+
+[33/2008 wef 01/01/2009]
+
+[19/2009 wef 01/01/2010]
 
 [25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
@@ -1024,21 +1036,21 @@ and the presence of the goods in Singapore after that date or the failure to com
 
 [25/96]
 
-### Zero-rating of supply of certain tools, etc.
+### Zero-rating of supply of certain tools, machinery and prototypes
 
 21A\.—(1) Subject to such conditions as the Minister may prescribe, the supply by any taxable person of —
 
 (a) any prescribed tool or prescribed machinery used in the manufacture of goods;
 
-(b) any services directly in connection with such tool ; or
+(b) any services directly in connection with such tool or machinery; or
 
 [33/2008 wef 01/01/2009]
 
-(c) any prototype of such tool ,
+(c) any prototype of such tool or machinery,
 
 [33/2008 wef 01/01/2009]
 
-to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
+to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool or machinery is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
 
 [33/2008 wef 01/01/2009]
 
@@ -2824,13 +2836,13 @@ COLLECTION AND ENFORCEMENT
 
 [25/96]
 
-### Power to appoint agent for recovery of tax
+### Power to appoint agent, etc., for recovery of tax
 
-79\.—(1) The Comptroller may by notice in writing, if he thinks it necessary, declare any person to be the agent of any taxable person.
+79\.—(1) The Comptroller may by notice in writing, if he thinks it necessary, declare any person to be the agent of any other person.
 
 [33/2008 wef 01/01/2009]
 
-(2) The person declared the agent under subsection (1) shall be the agent of the taxable person for the purposes of this Act and may be required to pay any tax due or which may become due in respect of taxable supplies made before the date of the notice, from any moneys, including pensions, salary, wages or any other remuneration, which, at the date of receipt of the notice or at any time not later than 90 days thereafter may be held by him for or due by him to the person whose agent he has been declared to be, and in default of such payment, the tax shall be recoverable from him in the manner provided by section 78.
+(2) The person declared the agent under subsection (1) shall be the agent of such other person for the purposes of this Act and may be required to pay any tax due or which may become due from any moneys, including pensions, salary, wages or any other remuneration, which, at the date of receipt of the notice or at any time not later than 90 days thereafter may be held by him for or due by him to the person whose agent he has been declared to be, and in default of such payment, the tax shall be recoverable from him in the manner provided by section 78.
 
 [33/2008 wef 01/01/2009]
 
@@ -2864,9 +2876,31 @@ COLLECTION AND ENFORCEMENT
 
 [25/96]
 
-(5) Any person making any payment to the Comptroller under this section shall be deemed to have been acting under the authority of the person by whom any tax is payable and is hereby indemnified in respect of such payment.
+(5) Where an agent makes any payment of moneys to the Comptroller under this section —
 
-[25/96]
+(a) the agent shall be deemed to have been acting under the authority of the person by whom the tax is payable (referred to in this section as the defaulting taxpayer);
+
+(b) the amount of the tax due from the defaulting taxpayer shall be reduced by the amount paid by the agent to the Comptroller; and
+
+(c) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the defaulting taxpayer.
+
+[33/2008 wef 01/01/2009]
+
+(5A) Where —
+
+(a) an amount of tax is due from any person under this Act otherwise than as an agent under this section;
+
+(b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of the receipt of the notice in paragraph (c), be payable by the Government to the defaulting taxpayer by or under any written law, contract or scheme; and
+
+(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+
+then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the tax referred to in paragraph (a), and if the public officer makes such a reduction —
+
+(i) the amount of the tax referred to in paragraph (a) shall be reduced by the amount of the reduction; and
+
+(ii) the amount of the reduction shall, to the extent of such amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys referred to in paragraph (b) to the defaulting taxpayer.
+
+[33/2008 wef 01/01/2009]
 
 (6) For the purposes of this section, “tax” includes any penalty or any other money which a person is liable to pay to the Comptroller under this Act.
 
@@ -3604,7 +3638,11 @@ Connected persons
 
 (8) In this paragraph —
 
-“company” includes any body corporate or unincorporated association, but does not include a partnership, and this section shall apply in relation to any unit trust scheme as if the scheme were a company and as if the rights of the unit holders were shares in the company;
+“business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
+
+[S 676/2008 wef 01/01/2009]
+
+“company” includes any body corporate or unincorporated association, but does not include a partnership, and this section shall apply in relation to any unit trust scheme or business trust scheme as if the scheme were a company and as if the rights of the unit holders were shares in the company;
 
 [S 676/2008 wef 01/01/2009]
 
@@ -3794,7 +3832,7 @@ Finance
 
 (o) the grant of a right or option to acquire any unallocated commodity where the right is exercisable at a future date and any sale resulting from the exercise of the right would be a sale which does not lead to a delivery of the commodity from the seller to the buyer;
 
-(p) the issue or transfer of ownership of a unit under any unit trust ;
+(p) the issue or transfer of ownership of a unit under any unit trust or business trust;
 
 [S 676/2008 wef 01/01/2009]
 
@@ -3817,6 +3855,10 @@ Land
 Interpretation
 
 3. In this Schedule —
+
+“business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
+
+[S 676/2008 wef 01/01/2009]
 
 “credit” includes —
 
@@ -3862,7 +3904,7 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 (ii) the financial institution immediately leases the non-residential property to the purchaser with an option for the purchaser to purchase the same;
 
-“unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust .
+“unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust or business trust.
 
 [S 676/2008 wef 01/01/2009]
 
@@ -4284,6 +4326,13 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 48/2007 published on 29 February 2008)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|4 April 2008|
+|28.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 29/2008 published on 19 December 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 January 2009|
+|29.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
+||Date of commencement|1 January 2009|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
