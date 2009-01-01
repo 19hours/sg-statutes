@@ -196,7 +196,7 @@
 
 - [69 Books, etc., in the custody of public officers may be inspected without fee](#Books-etc-in-the-custody-of-public-officers-may-be-inspected-without-fee)
 
-- [70 Power to declare agents](#Power-to-declare-agents)
+- [70 Power to declare agent, etc., for recovery of duty](#Power-to-declare-agent-etc-for-recovery-of-duty)
 
 - [70A Recovery of duty from deceased individual](#Recovery-of-duty-from-deceased-individual)
 
@@ -268,6 +268,10 @@ PRELIMINARY
 
 “Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
 
+“company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
+
+[36/2008 wef 16/12/2008]
+
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
 
 “3die”includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
@@ -292,9 +296,9 @@ PRELIMINARY
 
 “4impressed stamp”means either an adhesive stamp affixed by the proper officer over which an impression denoting the date of such impression has been made by the proper officer by means of a die, or an impression made by the proper officer by any mechanical means indicating the payment of duty and the date of such impression;
 
-4Definition of “impressed stamp” to be deleted when section 2(a,) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+4Definition of “impressed stamp” to be deleted when section 2(a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2(a)36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.
+Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.
 
 “instrument” includes every written document;
 
@@ -606,13 +610,9 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 (a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
 
-(b) the transfer, conveyance or assignment of any beneficial interest in any asset between —
+(b) the transfer, conveyance or assignment of any beneficial interest in any asset between such entities that are associated in such manner as may be prescribed; or
 
-(i) companies which are associated in such manner as may be prescribed;
-
-(ii) registered business trusts which are associated in such manner as may be prescribed; or
-
-(iii) companies and registered business trusts which are associated in such manner as may be prescribed; or
+[36/2008 wef 15/02/2007]
 
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
@@ -642,17 +642,35 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (4) In this section —
 
+“entity” means any of the following:
+
+(a) a company;
+
+(b) a registered business trust;
+
+(c) a statutory body;
+
+(d) a limited liability partnership;
+
+[36/2008 wef 15/02/2007]
+
 “firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
 
-“registered business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A).
+“limited liability partnership” has the same meaning as in the Limited Liability Partnerships Act (Cap. 163A) and includes any similar partnership formed or incorporated outside Singapore;
+
+[36/2008 wef 15/02/2007]
+
+“registered business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+
+“statutory body” means any body corporate established by any written law.
+
+[36/2008 wef 15/02/2007]
 
 [6/2005; 39/2005]
 
 ### Voluntary conveyance inter vivos
 
 16\.—(1) Any conveyance or transfer operating as a voluntary disposition inter vivos shall be chargeable with the like stamp duty as if it were a conveyance or transfer on sale, with the substitution in each case of the value of the property conveyed or transferred for the amount or value of the consideration of the sale.
-
-(2) The Commissioner may be required to express his opinion under section 37 on any conveyance or transfer operating as a voluntary disposition inter vivos, and no such conveyance or transfer shall be deemed to be duly stamped unless the Commissioner has expressed his opinion thereon in accordance with that section.
 
 (3) Any conveyance or transfer (not being a disposition made in favour of a purchaser or incumbrancer or other person in good faith and for valuable consideration) shall, for the purposes of this section, be deemed to be a conveyance or transfer operating as a voluntary disposition inter vivos, and (except where marriage is the consideration) the consideration for any conveyance or transfer shall not for this purpose be deemed to be valuable consideration where the Commissioner is of the opinion that by reason of the inadequacy of the sum paid as consideration or other circumstances the conveyance or transfer confers a substantial benefit on the person to whom the property is conveyed or transferred.
 
@@ -754,7 +772,7 @@ the conveyance is to be charged in respect of that consideration with ad valorem
 
 Direction as to duty in cases of certain conveyances
 
-20\. [Repealed by Act 26 of 1996]
+20\. 
 
 ### Conveyances and transfers in contemplation of sale
 
@@ -878,15 +896,15 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 Contracts and instruments chargeable as conveyances on sale of residential property
 
-22A\. [Repealed by Act 39 of 2005]
+22A\. 
 
 Exempted instruments made on or after 15th May 1996
 
-22B\. [Repealed by Act 39 of 2005]
+22B\. 
 
 Sale of annuity or right not before in existence
 
-23\. [Repealed by Act 39 of 1999]
+23\. 
 
 ### What is to be deemed a conveyance, not being a sale or mortgage
 
@@ -938,7 +956,7 @@ Sale of annuity or right not before in existence
 
 Settlement of policy of life insurance
 
-28\. [Repealed by Act 33 of 1999]
+28\. 
 
 ### Security for future advances, how to be charged
 
@@ -1268,7 +1286,7 @@ LIABILITY FOR PAYMENT OF DUTY
 
 Obligation to give receipts
 
-35\. [Repealed by Act 26 of 1996]
+35\. 
 
 ### Exemptions
 
@@ -1442,7 +1460,7 @@ TIME OF STAMPING INSTRUMENTS
 
 Promissory notes drawn outside Singapore
 
-44\. [Repealed by Act 26 of 1996]
+44\. 
 
 ### Transfers of shares
 
@@ -1558,7 +1576,7 @@ INSTRUMENTS NOT DULY STAMPED
 
 Special provision as to unstamped receipts
 
-54\. [Repealed by Act 26 of 1996]
+54\. 
 
 ### Recovery of duty and penalty
 
@@ -1798,7 +1816,7 @@ MISCELLANEOUS
 
 (b) to take such notes and extracts as he may consider necessary without fee or charge.
 
-### Power to declare agents
+### Power to declare agent, etc., for recovery of duty
 
 70\.—(1) The Commissioner may, by notice in writing, declare any person to be the agent of any other person for the purposes of this Act, and may require the agent so declared to pay any duty due under this Act from any moneys (including sale proceeds, rents, bank balances, pensions, salary, wages or any other remuneration) which, at the date of receipt of the notice or at any time during a period of 90 days thereafter, may be held by him for or due by him to the other person.
 
@@ -1817,10 +1835,6 @@ MISCELLANEOUS
 [26/96]
 
 (5) The Commissioner shall examine the objection and may cancel, vary or reconfirm the declaration.
-
-[26/96]
-
-(6) Any person making any payment to the Commissioner under this section shall be deemed to have been acting under the authority of the person by whom any duty is payable and is indemnified in respect of such payment.
 
 [26/96]
 
@@ -1845,6 +1859,34 @@ MISCELLANEOUS
 (e) the Commissioner shall consider the objection and by notice in writing inform the person declared to be the agent of his decision and the agent shall pay over any duty due from the share of the moneys decided by the Commissioner as the amount, not exceeding the amount presumed under paragraph (b) to be the share of the person by whom the duty is payable, held by him for or due by him to the person.
 
 [26/96]
+
+(7A) Where an agent makes any payment of moneys to the Commissioner under this section —
+
+(a) the agent shall be deemed to have been acting under the authority of the person by whom the duty is payable (referred to in this section as the person in default);
+
+(b) the agent is hereby indemnified in respect of the payment to the Commissioner;
+
+(c) the amount of the duty due from the person in default shall be reduced by the amount paid by the agent to the Commissioner; and
+
+(d) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the person in default in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the person in default.
+
+[36/2008 wef 01/01/2009]
+
+(7B) Where —
+
+(a) an amount of duty is due from any person under this Act otherwise than as an agent under this section;
+
+(b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of the receipt of the notice in paragraph (c), be payable by the Government to the person in default by or under any written law, contract or scheme; and
+
+(c) before payment of the amount referred to in paragraph (b) is made to the person in default, the Commissioner serves notice on any public officer by whom the payment is to be made that the duty is due from the person in default,
+
+then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the duty referred to in paragraph (a), and if the public officer makes such a reduction —
+
+(i) the amount of the duty referred to in paragraph (a) shall be reduced by the amount of the reduction; and
+
+(ii) the amount of the reduction shall, to the extent of such amount, be deemed to have been paid to the person in default in accordance with any law, contract or scheme governing the payment of moneys referred to in paragraph (b) to the person in default.
+
+[36/2008 wef 01/01/2009]
 
 (8) In this section —
 
@@ -2629,6 +2671,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 January 2006|
 |42.|**2006 Revised Edition—Stamp Duties Act**|
 ||Date of operation|1 April 2006|
+|43.|**Act 36 of 2008—Stamp Duties (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 January 2009|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
