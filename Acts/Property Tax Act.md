@@ -94,7 +94,7 @@
 
 - [37 Tax may be paid by instalments](#Tax-may-be-paid-by-instalments)
 
-- [38 Appointment of agent for recovery of tax](#Appointment-of-agent-for-recovery-of-tax)
+- [38 Appointment of agent, etc., for recovery of tax](#Appointment-of-agent-etc-for-recovery-of-tax)
 
 - [38A Recovery of tax](#Recovery-of-tax)
 
@@ -246,17 +246,47 @@ PRELIMINARY
 
 “premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority;
 
+“prescribed structural network” means such structural network as the Minister may, by regulations, prescribe;
+
+[35/2008 wef 01/01/2009]
+
 “property” includes houses, buildings, lands and tenements;
 
 “public authority” means such public authority as may be prescribed1for the purposes of this Act by the Minister;
 
 1SeeCap. 254, N 1.
 
+“structural network” means a network (whether closed or otherwise) —
+
+(a) used for any purpose, including for circulation, distribution, transportation or transmission; and
+
+(b) comprising —
+
+(i) railway or rapid transit system lines;
+
+(ii) pipelines;
+
+(iii) cables (including those situate within pipelines, ducts or conduits);
+
+(iv) ducts; or
+
+(v) any other type of conduit or channel,
+
+including the settings and supports thereof and any related machine, apparatus or equipment;
+
+[35/2008 wef 01/01/2009]
+
+[23/2010 wef 25/10/2010]
+
 “tax” means the property tax imposed by this Act;
 
 “Valuation List” means the Valuation List prepared under section 10.
 
 [24/65; 19/68; 33/2002; 59/2004]
+
+(1A) For the purposes of this Act, a prescribed structural network shall be deemed to be a tenement, and where different parts of a prescribed structural network are owned by different persons, each of such parts shall be deemed to be a tenement.
+
+[35/2008 wef 01/01/2009]
 
 (2) In assessing the annual value of any premises in or upon which there is any machinery used for any of the following purposes:
 
@@ -269,6 +299,14 @@ PRELIMINARY
 the enhanced value given to the premises by the presence of such machinery shall not be taken into consideration, and for this purpose “machinery” includes the steam engines, boilers and other motive power belonging to that machinery.
 
 [24/65]
+
+(2A) Where a prescribed structural network situated in or upon any premises is machinery, subsection (2) shall apply only in relation to that part of the prescribed structural network in or upon any house or building.
+
+[35/2008 wef 01/01/2009]
+
+(2B) Where a person owns one or more of the properties in, upon, under or above which there is any part of a prescribed structural network, as well as the whole or any part of the prescribed structural network, the annual value of those properties and the whole or part of the prescribed structural network (as the case may be) may be assessed together.
+
+[35/2008 wef 01/01/2009]
 
 (3) In assessing the annual value of any property, the annual value of the property shall, at the option of the Chief Assessor, be deemed to be the annual value as defined in this Act or the sum which is equivalent to the annual interest at 5% —
 
@@ -1054,7 +1092,7 @@ COLLECTION AND RECOVERY OF TAX
 
 [24/73]
 
-### Appointment of agent for recovery of tax
+### Appointment of agent, etc., for recovery of tax
 
 38\.—(1) The Comptroller may by notice in writing, if he thinks it necessary, declare any person to be the agent of any other person, and the person so declared the agent shall be the agent of such other person for the purposes of this Act.
 
@@ -1121,6 +1159,34 @@ and in default of such payment the tax shall be recoverable from him in the mann
 (10) Notwithstanding the provisions of any other written law, contract or agreement, any person who has complied with the provisions of this section and made any payment shall be deemed to have acted under the authority of the person by whom the tax was payable and is hereby indemnified in respect of payment against all civil proceedings.
 
 [46/96]
+
+(10) Where an agent makes any payment of moneys to the Comptroller under this section —
+
+(a) the agent shall be deemed to have been acting under the authority of the person by whom the tax is payable (referred to in this section as the defaulting taxpayer);
+
+(b) the agent is hereby indemnified in respect of the payment to the Comptroller;
+
+(c) the amount of the tax due from the defaulting taxpayer shall be reduced by the amount paid by the agent to the Comptroller; and
+
+(d) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the defaulting taxpayer.
+
+[35/2008 wef 01/01/2009]
+
+(11) Where —
+
+(a) an amount of tax is due from any person under this Act otherwise than as an agent under this section;
+
+(b) except for this subsection, an amount is or would, at any time during the period of 90 days after the date of receipt of the notice in paragraph (c), be payable by the Government to the defaulting taxpayer by or under any written law, contract or scheme; and
+
+(c) before payment of the amount referred to in paragraph (b) is made to the defaulting taxpayer, the Comptroller serves notice on any public officer by whom the payment is to be made that the tax is due from the defaulting taxpayer,
+
+then the public officer shall, notwithstanding any other written law, contract or scheme, be entitled to reduce the amount referred to in paragraph (b) by the amount of the whole or any part of the tax referred to in paragraph (a), and if the public officer makes such a reduction —
+
+(i) the amount of the tax referred to in paragraph (a) shall be reduced by the amount of the reduction; and
+
+(ii) the amount of the reduction shall, to the extent of such amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys referred to in paragraph (b) to the defaulting taxpayer.
+
+[35/2008 wef 01/01/2009]
 
 ### Recovery of tax
 
@@ -1803,6 +1869,11 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of commencement|8 December 2004|
 |17.|**2005 Revised Edition—Property Tax Act**|
 ||Date of operation|31 March 2005|
+|18.|**Act 35 of 2008—Property Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 31/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 January 2009|
 ## COMPARATIVE TABLE
 
 Property Tax Act
