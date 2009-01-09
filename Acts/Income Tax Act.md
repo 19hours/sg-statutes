@@ -3257,6 +3257,92 @@ is the percentage which the value of equity interests of the second level entity
 
 (d) any amount of the expenses, donations, allowances and losses referred to in paragraphs (a), (b) and (c) which have not been deducted in arriving at the net amount of the income for any previous year of assessment.
 
+### Exemption of dividends from foreign income
+
+13E\.—(1) Where a company resident in Singapore receives income in Singapore from outside Singapore (referred to in this section as the income) for which tax credit has been allowed against the tax payable in respect of such income and pays dividends out of such income, the provisions of this section shall have effect.
+
+[2/92]
+
+(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
+
+where A
+
+is the tax credit allowed;
+
+B
+
+is the tax rate applicable to a company under section 43(1); and
+
+C
+
+is the foreign tax paid,
+
+shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+
+(3) Where the account is in credit at the date on which any dividends are paid by the company out of the income which has been credited to that account, an amount equal to such dividends or to the credit in that account, whichever is the less, shall be debited to the account.
+
+(4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+
+(5) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+[37/2002]
+
+(6) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
+
+(7) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
+
+[37/2002]
+
+(8) Notwithstanding subsections (4) and (7), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+[21/2003]
+
+(9) A company shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+
+[32/95; 37/2002]
+
+(10) Notwithstanding subsections (1) to (9), where it appears to the Comptroller that any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
+
+(a) make such assessment or additional assessment upon any such shareholder as may be necessary in order to make good any loss of tax; or
+
+(b) direct the company to debit the account with such amount as the circumstances require.
+
+[11/94; 32/95; 37/2002; 53/2007]
+
+(11) In this section —
+
+“foreign tax” means —
+
+(a) Commonwealth income tax within the meaning of section 48(1);
+
+(b) foreign tax within the meaning of section 50(1); or
+
+(c) tax payable under the law of any territory outside Singapore in respect of which credit has been given under section 50 by virtue of section 50A,
+
+as the case may be;
+
+“tax credit” means —
+
+(a) relief from tax under section 48(1);
+
+(b) credit under section 50(1); or
+
+(c) credit under section 50 by virtue of section 50A,
+
+as the case may be.
+
+[26/93; 32/95; 37/2002; 21/2003]
+
+(12) This section shall —
+
+(a) only apply to income received on or after 1st January 1991;
+
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
+
+(c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
+
+[28/92; 26/93; 1/98; 37/2002; 21/2003; 11/2004; 49/2004; 34/2005; 7/2007; 53/2007]
+
 ### Exemption of international shipping profits
 
 13F\.—(1) Subject to subsection (2), there shall be exempt from tax the income of an approved international shipping enterprise derived —
@@ -5031,7 +5117,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
 
 [34/2008 wef 01/04/2008]
 
@@ -6389,7 +6475,7 @@ and increased by any balancing charges made; or
 
 [32/99]
 
-6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except –
+6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
 (a) a taxi;
 
@@ -7249,7 +7335,7 @@ in a case where the concessionary income derived by the person from the trade or
 
 [28/80; 26/93; 37/2002; 21/2003]
 
-(2) Where any person entitled to the allowances under sections 16and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
+(2) Where any person entitled to the allowances under sections 16 and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
 
 [29/2010 wef 23/02/2010]
 
@@ -7445,9 +7531,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [28/92; 7/2007]
 
-(8) In ascertaining the gains or profits of a life insurer whether mutual or proprietary –
+(8) In ascertaining the gains or profits of a life insurer whether mutual or proprietary —
 
-(a) the Comptroller shall determine the manner and extent to which –
+(a) the Comptroller shall determine the manner and extent to which —
 
 (i) any allowances under section 19, 19A, 20, 21, 22 or 23 and expenses and donations allowable under this Act are to be deducted; and
 
@@ -8577,7 +8663,7 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be;
 
 [34/2008 wef 01/04/2008]
 
@@ -9047,7 +9133,7 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be.
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be.
 
 [34/2008 wef 01/04/2008]
 
@@ -15410,6 +15496,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 30/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009 (Section 46)|
+|241.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|9 January 2009 (Section 6(h))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
