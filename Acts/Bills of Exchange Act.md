@@ -564,7 +564,9 @@ Capacity and authority of parties
 
 (2) Nothing in this section shall enable a corporation to make itself liable as drawer, acceptor, or indorser of a bill unless it is competent to it to do so under the law for the time being in force relating to corporations.
 
-(3) Where a bill is drawn or indorsed by a minor or corporation having no capacity or power to incur liability on a bill, the drawing or indorsement entitles the holder to receive payment of the bill, and to enforce it against any other party thereto.
+(3) Where a bill is drawn or indorsed by a person below the age of 18 years or a corporation having no capacity or power to incur liability on a bill, the drawing or indorsement entitles the holder to receive payment of the bill, and to enforce it against any other party thereto.
+
+[7/2009 wef 01/03/2009]
 
 ### Signature essential to liability
 
@@ -1128,7 +1130,7 @@ Acceptance and payment for honour
 
 (3) Delay in presentment or non-presentment is excused by any circumstance which would excuse delay in presentment for payment or non-presentment for payment.
 
-(4) When a bill of exchange is dishonoured by the acceptor for honour it must be protested for non-payment by him.
+(4) When a bill of exchange is dishonoured by the acceptor for honour, it must be protested for non-payment by him.
 
 ### Payment for honoursupra protest
 
@@ -1238,7 +1240,11 @@ Crossed cheques
 
 (a) the words “and company” or any abbreviation thereof between 2 parallel transverse lines, either with or without the words “not negotiable”; or
 
-(b) 2 parallel transverse lines simply, either with or without words “not negotiable”, that addition constitutes a crossing, and the cheque is crossed generally.
+(b) 2 parallel transverse lines simply, either with or without the words “not negotiable”,
+
+that addition constitutes a crossing, and the cheque is crossed generally.
+
+[S 30/2010 wef 22/01/2010]
 
 (2) Where a cheque bears across its face an addition of the name of a banker, either with or without the words “not negotiable”, that addition constitutes a crossing, and the cheque is crossed specially and to that banker.
 
@@ -1384,7 +1390,7 @@ Special provisions relating to cheque truncation
 
 [22/2002]
 
-[Cf. UK BEA, 1882 s. 74B(1) vide S1 1996 No. 2993]
+[Cf. UK BEA, 1882 s. 74B(1) vide SI 1996 No. 2993]
 
 (2) Notwithstanding subsection (1), if at any time before payment is made, the banker on whom a cheque is drawn requests the banker who presented the cheque to present the cheque itself —
 
@@ -1398,7 +1404,7 @@ Special provisions relating to cheque truncation
 
 [22/2002]
 
-[Cf. UK BEA, 1882 s. 74B (4) vide S1 1996 No. 2993]
+[Cf. UK BEA, 1882 s. 74B(4) vide SI 1996 No. 2993]
 
 (4) Section 52(4) shall not apply —
 
@@ -1416,7 +1422,7 @@ Special provisions relating to cheque truncation
 
 [22/2002]
 
-[Cf. UK BEA, 1882 s. 74B (5) vide S1 1996 No. 2993]
+[Cf. UK BEA, 1882 s. 74B(5) vide SI 1996 No. 2993]
 
 (7) For the purposes of this section —
 
@@ -1664,6 +1670,8 @@ SUPPLEMENTARY
 
 [101
 
+[Cf. UK BEA, 1882 s. 95]
+
 ### Savings
 
 106\.—(1) The rules in bankruptcy relating to bills of exchange, promissory notes and cheques shall continue to apply thereto notwithstanding anything in this Act.
@@ -1686,7 +1694,7 @@ Bills of Exchange Act
 
 (CHAPTER 23)
 
-This Legislative History is provided for the convenience of users of the Bills of Exchange Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Bills of Exchange Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1731,6 +1739,12 @@ This Legislative History is provided for the convenience of users of the Bills o
 |11.|**2004 Revised Edition—Bills of Exchange Act**|
 ||(G.N. No. S 30/2010 — Rectification Order)||
 ||Date of operation|31 July 2004|
+|12.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 March 2009|
 ## COMPARATIVE TABLE
 
 Bills of Exchange Act
