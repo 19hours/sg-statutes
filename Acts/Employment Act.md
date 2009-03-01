@@ -366,8 +366,6 @@ PRELIMINARY
 
 “approved medical institution” means a hospital, clinic, healthcare establishment or other medical institution which the Minister, by notification in theGazette, declares as an approved medical institution;
 
-[32/2008 wef 01/01/2009]
-
 “basic rate of pay” means the total amount of money (including wage adjustments and increments) to which an employee is entitled under his contract of service either for working for a period of time, that is, for one hour, one day, one week, one month or for such other period as may be stated or implied in his contract of service, or for each completed piece or task of work but does not include —
 
 (a) additional payments by way of overtime payments;
@@ -398,8 +396,6 @@ PRELIMINARY
 
 “dismiss” means the termination of the contract of service of an employee by his employer, with or without notice and whether on the grounds of misconduct or otherwise;
 
-[32/2008 wef 01/01/2009]
-
 “domestic worker” means any house, stable or garden servant or motor car driver, employed in or in connection with the domestic services of any private premises;
 
 “employee” means a person who has entered into or works under a contract of service with an employer and includes a workman, and any officer or employee of the Government included in a category, class or description of such officers or employees declared by the President to be employees for the purposes of this Act or any provision thereof, but does not include —
@@ -411,8 +407,6 @@ PRELIMINARY
 (c) subject to subsection (2), any person employed in a managerial or an executive position; and
 
 (d) any person belonging to any other class of persons whom the Minister may, from time to time by notification in theGazette, declare not to be employees for the purposes of this Act;
-
-[32/2008 wef 01/01/2009]
 
 “employer” means any person who employs another person under a contract of service and includes —
 
@@ -457,8 +451,6 @@ PRELIMINARY
 (a) a dentist registered under the Dental Registration Act (Cap. 76), or a medical practitioner, employed by the Government or by an approved medical institution; or
 
 (b) any other medical practitioner whom the Minister, by notification in theGazette, declares as a medical officer;
-
-[32/2008 wef 01/01/2009]
 
 “medical practitioner” means a medical practitioner registered under the Medical Registration Act [Cap. 174];
 
@@ -514,10 +506,6 @@ Provided that when any person is employed by any one employer partly as a workma
 
 (e) any person whom the Minister may, by notification in theGazette, declare to be a workman for the purposes of this Act;
 
-[21/84]
-
-[36/95]
-
 [32/2008 wef 01/01/2009]
 
 [21/84]
@@ -531,8 +519,6 @@ Provided that when any person is employed by any one employer partly as a workma
 (b) such other provisions of this Act as the Minister may, by regulations, specify,
 
 and those provisions shall apply in relation to that person subject to such modification as may be prescribed.
-
-[32/2008 wef 01/01/2009]
 
 ### Appointment of officers
 
@@ -606,11 +592,11 @@ CONTRACTS OF SERVICE
 
 ### Contractual age
 
-12\.—(1) Notwithstanding anything in any other written law, a person below the age of 21 years shall, subject to the provisions of this Act, be competent to enter into a contract of service.
+12\.—(1) Notwithstanding anything in any other written law, a person below the age of 18 years shall, subject to the provisions of this Act, be competent to enter into a contract of service.
 
 [7/2009 wef 01/03/2009]
 
-(2) No contract of service as an employee shall be enforceable against a person below the age of 21 years and no damages or indemnity shall be recoverable from that person in respect of the contract of service unless it is for his benefit.
+(2) No contract of service as an employee shall be enforceable against a person below the age of 18 years and no damages or indemnity shall be recoverable from that person in respect of the contract of service unless it is for his benefit.
 
 [7/2009 wef 01/03/2009]
 
@@ -832,8 +818,6 @@ Number of days on which the employee is required to work in that month
 
 22\. Subject to the provisions of this Act, the total salary and any sum due to an employee who has been dismissed shall be paid on the day of dismissal or, if this is not possible, within 3 days thereafter, not being a rest day or public or other holiday.
 
-[32/2008 wef 01/01/2009]
-
 ### Payment on termination by employee
 
 23\.—(1) Subject to the provisions of this Act, the total salary due to an employee who terminates his contract of service with his employer under section 11 or after giving due notice to the employer as required under section 10 shall be paid to him on the day on which the contract of service is terminated.
@@ -936,13 +920,11 @@ Number of days on which the employee is required to work in that month
 
 ### Priority of salary to other debts
 
-33\.1—(1) This section shall apply —
+33\.—(1) This section shall apply —
 
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
 (b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,000 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
-
-[32/2008 wef 01/01/2009]
 
 (2) When, on the application of a person holding a mortgage, charge or lien or of a person who has obtained a judgment or decree, the property of an employer is sold, or any money due to the employer is garnished, the court ordering the sale or garnishment shall not distribute the proceeds of the sale or the money to the person entitled thereto unless the court has ascertained and paid the salary due to all the employees employed by that employer and to all employees engaged by a contractor or subcontractor and working for that employer.
 
@@ -972,11 +954,9 @@ Number of days on which the employee is required to work in that month
 
 34\. Any employer failing to pay salary in accordance with the provisions of this Part shall be guilty of an offence.
 
-## PART IV2
+## PART IV
 
 REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
-
-2
 
 ### Application of this Part to certain workmen and other employees
 
@@ -985,8 +965,6 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
 (b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,000 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
-
-[32/2008 wef 01/01/2009]
 
 ### Rest day
 
@@ -1005,8 +983,6 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 ### Work on rest day
 
 37\.—(1) Subject to section 38(2) or 40(2A), no employee shall be compelled to work on a rest day unless he is engaged in work which by reason of its nature requires to be carried on continuously by a succession of shifts.
-
-[32/2008 wef 01/01/2009]
 
 (1A) In the event of any dispute the Commissioner shall have power to decide whether or not an employee is engaged in work which by reason of its nature requires to be carried on continuously by a succession of shifts.
 
@@ -1133,8 +1109,6 @@ he shall be paid for such extra work at the rate of not less than one and a half
 (d) urgent work to be done to machinery or plant; or
 
 (e) an interruption of work which it was impossible to foresee.
-
-[32/2008 wef 01/01/2009]
 
 (3) Except in the circumstances described in subsection (2A)(a), (b), (c), (d) and (e), no employee to whom this section applies shall under any circumstances work for more than 12 hours in any one day.
 
@@ -1291,6 +1265,8 @@ the employer shall display the order or a copy thereof conspicuously in the plac
 53\.—(1) Any employer who employs any person as an employee contrary to the provisions of this Part or fails to pay any salary in accordance with the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
 [32/2008 wef 01/01/2009]
+
+(2) [Deleted by Act 32/2008 wef 01/01/2009]
 
 (3) Notwithstanding subsection (1) —
 
@@ -1802,8 +1778,6 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
-[32/2008 wef 01/01/2009]
-
 ### Holidays
 
 88\.—(1) Every employee shall be entitled to a paid holiday at his gross rate of pay on such of the days specified in the Schedule to the Holidays Act (Cap. 126) as fall during the time that he is employed, subject to the following:
@@ -2040,8 +2014,6 @@ INSPECTION AND ENQUIRY
 
 (4) The Commissioner or the inspecting officer shall, if required to do so, show his credentials.
 
-[32/2008 wef 01/01/2009]
-
 ### Notice to employer by Commissioner or inspecting officer of inspection or visit
 
 104\. On entering any place of employment under section 103, the Commissioner or the inspecting officer shall notify the employer or his representative of his presence unless he considers that such a notification may be prejudicial to the efficient performance of his duties.
@@ -2069,8 +2041,6 @@ INSPECTION AND ENQUIRY
 (c) otherwise hinders or obstructs the Commissioner or an inspecting officer in the exercise of the powers under section 103,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[32/2008 wef 01/01/2009]
 
 ## PART XIV
 
@@ -2108,8 +2078,6 @@ GENERAL
 
 111\. Any person who wilfully obstructs or impedes any entry, inspection, inquiry or investigation made under this Act for which no penalty is expressly provided shall be guilty of an offence.
 
-[32/2008 wef 01/01/2009]
-
 ### Penalties
 
 112\. Any person who is guilty of any breach or any offence under this Act for which no penalty is otherwise provided shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both, and for a subsequent offence under the same section to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
@@ -2142,7 +2110,7 @@ CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
 
 ### Commissioner’s power to inquire into complaints
 
-115\.3—(1) Subject to this section, the Commissioner may inquire into and decide any dispute between an employee and his employer or any person liable under the provisions of this Act to pay any salary due to the employee where the dispute arises out of any term in the contract of service between the employee and his employer or out of any of the provisions of this Act, and in pursuance of that decision may make an order in the prescribed form for the payment by either party of such sum of money as he considers just without limitation of the amount thereof.
+115\.1—(1) Subject to this section, the Commissioner may inquire into and decide any dispute between an employee and his employer or any person liable under the provisions of this Act to pay any salary due to the employee where the dispute arises out of any term in the contract of service between the employee and his employer or out of any of the provisions of this Act, and in pursuance of that decision may make an order in the prescribed form for the payment by either party of such sum of money as he considers just without limitation of the amount thereof.
 
 (2) The Commissioner shall not inquire into any dispute in respect of matters arising earlier than one year from the date of lodging a claim under section 119 or the termination of the contract of service of or by the person claiming under that section:
 
@@ -2242,8 +2210,6 @@ but shall not be represented by an advocate or solicitor or paid agent.
 
 (3) The Commissioner or inspecting officer shall have the power to report any failure by such person to attend as required by a summons under subsection (2) to a Magistrate, who may thereupon issue a warrant to secure the attendance of that person as required by the summons.
 
-[32/2008 wef 01/01/2009]
-
 [36/95]
 
 ### Procedure after inquiry
@@ -2324,8 +2290,6 @@ PROCEDURE AND REGULATIONS
 
 (2) Any requisition or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the requisition or summons, as the case may be, would in the ordinary course of post be delivered and, in proving service of the requisition or summons, it shall be sufficient to prove that the envelope containing the requisition or summons, as the case may be, was properly addressed, stamped and posted by registered post.
 
-[32/2008 wef 01/01/2009]
-
 ### Power to make reciprocal provisions with Malaysia for the service, execution and enforcement of summonses, warrants and orders
 
 138\. If the Minister is satisfied that arrangements have been or will be made under any legislation in force in Malaysia for the service, execution or enforcement in Malaysia of summonses, warrants or orders issued or made under this Act, he may, by regulations made under this Act —
@@ -2388,9 +2352,7 @@ Workmen
 
 (7) Train and bus inspectors\.
 
-(8) All workmen employed on piece rates in the premises of the employer.
-
-[S 669/2008 wef 01/01/2009]
+(8) All workmen employed on piece rates in the premises of the employer\.
 
 SECOND SCHEDULE
 
@@ -2650,3 +2612,9 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of commencement|1 January 2009|
 |24.|**G. N. No. S 669/2008—Employment Act (Amendment of First Schedule) Notification 2008**|
 ||Date of commencement|1 January 2009|
+|25.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Dates of commencement|1 March 2009|
