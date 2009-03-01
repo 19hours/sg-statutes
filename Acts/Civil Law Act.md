@@ -74,6 +74,12 @@
 
 - [34 Necessity to wait and see](#Necessity-to-wait-and-see)
 
+- [35 Contracts of minors who have attained 18 years of age](#Contracts-of-minors-who-have-attained-18-years-of-age)
+
+- [36 Legal proceedings and actions by minors who have attained 18 years of age](#Legal-proceedings-and-actions-by-minors-who-have-attained-18-years-of-age)
+
+[**THE SCHEDULE Legal Proceedings and Actions to Which Section 36 Applies**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
@@ -194,13 +200,17 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (10) A Mandatory Order or an injunction may be granted or a receiver appointed by an interlocutory order of the court, either unconditionally or upon such terms and conditions as the court thinks just, in all cases in which it appears to the court to be just or convenient that such order should be made.
 
+[42/2005 wef 01/01/2006]
+
 ### Terms. To prevent waste, etc., when granted
 
 (11) If an injunction is asked, either before, or at, or after the hearing of any cause or matter, to prevent any threatened or apprehended waste or trespass, the injunction may be granted if the court thinks fit whether the person against whom the injunction is sought is or is not in possession under any claim of title or otherwise, or, if out of possession, does or does not claim, a right to do the act sought to be restrained under any colour of title, and whether the estates claimed by both, or by either of the parties, are legal or equitable.
 
-### Custody and education of infants
+### Custody and education of minors
 
-(12) In questions relating to the custody and education of infants , the rules of equity shall prevail.
+(12) In questions relating to the custody and education of minors, the rules of equity shall prevail.
+
+[7/2009 wef 01/03/2009]
 
 ### Cases of conflict not enumerated, equity to prevail
 
@@ -224,11 +234,9 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (c) a contract for betting that takes place on a totalisator conducted by or on behalf of the Singapore Totalisator Board or a turf club in accordance with an approved scheme; and
 
-(d) a contract to participate in a private lottery promoted or conducted by the holder of a permit granted under section 8 of the Private Lotteries Act 2011.
+(d) a contract to participate in a private lottery promoted or conducted by the holder of a permit granted under section 4 of the Private Lotteries Act (Cap. 250).
 
 [10/2006 wef 02/04/2008]
-
-[7/2011 wef 01/04/2011]
 
 (3B) In the case of a person or an organisation exempted under section 24 of the Common Gaming Houses Act in respect of any gaming conducted for or on behalf of another person or organisation, subsection (3A)(a) applies only if the contract is for gaming conducted by that person or organisation for or on behalf of that other person or organisation.
 
@@ -236,7 +244,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (3C) Subsection (3A)(a) shall not apply to any gaming conducted in premises owned or used by a private body exempted under the Common Gaming Houses Act.
 
-[10/2006docId=2006-ACT-10-N;docVerId=a8fac596-93ec-449f-a0d1-3b956b5d4cfb;transactionDate=20071031000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A9bdafce8-3ac1-4b95-bc4a-f291451a56c8%20ValidTime%3A20060314000000%20TransactionTime%3A20071031000000;rec%3D0;validDate=20060314000000;validated=validdocId=2006-ACT-10-N;docVerId=a8fac596-93ec-449f-a0d1-3b956b5d4cfb;transactionDate=20071031000000;provId=;fragId=;urn=http://localhost:8099/aol/search/display/view.w3p;page%3D0;query%3DCompId%3A9bdafce8-3ac1-4b95-bc4a-f291451a56c8%20ValidTime%3A20060314000000%20TransactionTime%3A20071031000000;rec%3D0;validDate=20060314000000;validated=valid wef 02/04/2008]
+[10/2006 wef 02/04/2008]
 
 (3D) In the case of a person or an organisation exempted under section 22 of the Betting Act in respect of any betting held, promoted, organised, administered or operated for or on behalf of another person or organisation, subsection (3A)(b) applies only if the contract is for betting held, promoted, organised, administered or operated by that person or organisation for or on behalf of that other person or organisation.
 
@@ -254,9 +262,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 “private body” has the same meaning as in any notification made under the Common Gaming Houses Act (Cap. 49) which exempts gaming conducted in premises owned or used by a private body;
 
-“private lottery” has the same meaning as in the Private Lotteries Act 2011;
-
-[7/2011 wef 01/04/2011]
+“private lottery” has the same meaning as in the Private Lotteries Act (Cap. 250);
 
 “totalisator”, “Singapore Totalisator Board”, “turf club” and “approved scheme” have the same meanings as in the Singapore Totalisator Board Act (Cap. 305A).
 
@@ -628,7 +634,9 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (8) In this section, “dependant” means —
 
-(a) the wife or husband of the deceased;
+(a) the wife or husband or former wife of the deceased;
+
+[7/2009 wef 01/03/2009]
 
 (b) any parent, grandparent or great-grandparent of the deceased;
 
@@ -680,19 +688,19 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 [11/87]
 
-(4) Subject to subsection (6), the sum to be awarded as damages under this section shall be $10,000.
+(4) Subject to subsection (6), the sum to be awarded as damages under this section shall be $15,000.
 
 [11/87]
+
+[7/2009 wef 01/03/2009]
 
 (5) Where there is a claim for damages under this section for the benefit of 2 or more persons, the sum awarded shall be divided equally between them (subject to any deduction falling to be made in respect of costs not recovered from the defendant).
 
 [11/87]
 
-(6) The President may by order published in theGazettevary the sum specified in subsection (4).
+(6) The Minister may, by order published in theGazette, substitute the sum specified in subsection (4) with such other sum as he thinks fit.
 
-[13
-
-[11/87]
+[7/2009 wef 01/03/2009]
 
 ### Assessment of damages
 
@@ -706,6 +714,10 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 [11/87]
 
+(1A) In assessing the damages under subsection (1), the court shall take into account any moneys or other benefits which the deceased would be likely to have given to the dependants by way of maintenance, gift, bequest or devise or which the dependants would likely to have received by way of succession from the deceased had the deceased lived beyond the date of the wrongful death.
+
+[7/2009 wef 01/03/2009]
+
 (2) Where damages are awarded under subsection (1), any costs not recovered from the defendant shall be deducted from those damages and thereafter those damages shall be divided among the dependants in such proportions as has been decided under that subsection.
 
 [11/87]
@@ -713,6 +725,10 @@ the action may be brought by and in the name of all or any of the persons for wh
 (3) In an action brought under section 20 where there fall to be assessed damages payable to a widow in respect of the death of her husband, there shall not be taken into account the remarriage of the widow or her prospect of remarriage.
 
 [11/87]
+
+(3A) In an action brought under section 20, the damages payable to a former wife of the deceased shall only be in respect of a subsisting maintenance order against the deceased at the time of his death.
+
+[7/2009 wef 01/03/2009]
 
 (4) If the dependants have incurred funeral expenses in respect of the deceased, damages may be awarded in respect of those expenses.
 
@@ -938,6 +954,115 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 [45/2004 wef 15/12/2004]
 
+### Contracts of minors who have attained 18 years of age
+
+35\.—(1) Except as otherwise provided by this section or by any other written law, as from the appointed day, a contract entered into by a minor who has attained the age of 18 years shall have effect as if he were of full age.
+
+[7/2009 wef 01/03/2009]
+
+(2) Where a minor has, on the appointed day, already attained the age of 18 years, subsection (1) shall apply to him and to contracts entered into by him on and after that day.
+
+[7/2009 wef 01/03/2009]
+
+(3) Subsection (1) shall not affect or alter —
+
+(a) a minor’s lack of capacity to enter into contracts arising from reasons other than because of his age; or
+
+(b) the application of any provision in any other written law stipulating a requirement as to the attainment of a particular age for the purposes of that written law.
+
+[7/2009 wef 01/03/2009]
+
+(4) The following contracts, if entered into by a minor who has attained the age of 18 years, shall not, by virtue of subsection (1), have effect as if he were of full age:
+
+(a) any contract for the sale, purchase, mortgage, assignment or settlement of any land, other than a contract for a lease of land not exceeding 3 years;
+
+(b) any contract for a lease of land for more than 3 years;
+
+(c) any contract whereby the minor’s beneficial interest under a trust is sold or otherwise transferred to another person, or pledged as a collateral for any purpose; and
+
+(d) any contract for the settlement of —
+
+(i) any legal proceedings or action in respect of which the minor is, pursuant to any written law, considered to be a person under disability on account of his age; or
+
+(ii) any claim from which any such legal proceedings or action may arise.
+
+[7/2009 wef 01/03/2009]
+
+(5) Subsection (1) does not entitle —
+
+(a) a trustee to pay money or deliver property to a minor who has attained the age of 18 years otherwise than in accordance with the terms of the trust; or
+
+(b) a minor who has attained the age of 18 years to enter into a contract whereby a trust is extinguished or the terms of a trust are varied, and any such contract entered into by the minor shall not, by virtue of that subsection, have effect as if the minor were of full age.
+
+[7/2009 wef 01/03/2009]
+
+(6) Nothing in this section shall apply to or affect any contract that was made before the appointed day, and the law in force immediately before that day shall continue to apply in relation to such a contract as if this section had not been enacted.
+
+[7/2009 wef 01/03/2009]
+
+(7) Nothing in this section shall limit or affect the rule of law whereby a minor is not liable in tort for procuring a contract by means of fraudulent representations as to his own age or any other matter.
+
+[7/2009 wef 01/03/2009]
+
+(8) In this section, “appointed day” means the date of commencement of section 6 of the Civil Law (Amendment) Act 2009.
+
+[7/2009 wef 01/03/2009]
+
+### Legal proceedings and actions by minors who have attained 18 years of age
+
+36\.—(1) Notwithstanding any other written law, a minor who has attained the age of 18 years and who is not otherwise under any legal disability —
+
+(a) may, in his own name and without a litigation representative, bring, defend, conduct or intervene in any legal proceeding or action specified in the Schedule as if he were of full age; and
+
+(b) shall not be considered to be a person under disability on account of his age for the purpose of any such legal proceeding or action or for the purpose of any written law regulating the limitation of actions.
+
+[7/2009 wef 01/03/2009]
+
+(2) The Minister may, at any time, by order published in theGazette, amend the Schedule.
+
+[7/2009 wef 01/03/2009]
+
+## THE SCHEDULE
+
+Section 36
+
+Legal Proceedings and Actions
+
+
+
+
+to Which Section 36 Applies
+
+1\. Any legal proceeding or action arising from or in connection with a contract to which the minor is a party and which, by virtue of section 35, has effect as if the minor were of full age.
+
+2. Any legal proceeding or action arising from or in connection with the minor acting as —
+
+(a) a director of a company; or
+
+(b) a manager of a limited liability partnership.
+
+3. Any legal proceeding or action arising from or in connection with a bill of exchange that has been drawn or indorsed —
+
+(a) by the minor; or
+
+(b) by another person in favour of the minor.
+
+4. Where the minor is registered under the Business Registration Act (Cap. 32) to carry on any business (whether as a sole proprietor or in partnership with one or more other persons) —
+
+(a) any legal proceeding or action arising from or in connection with his carrying on of such business; or
+
+(b) any legal proceeding or action arising from or in connection with his acting as a person responsible for the management of such business (as defined in section 2(1) of that Act).
+
+[7/2009 wef 01/03/2009]
+
+5. Where the minor carries on business in Singapore as a limited partnership registered under the Limited Partnerships Act 2008 (Act 37 of 2008) (whether as a general partner or a limited partner) —
+
+(a) any legal proceeding or action arising from or in connection with his carrying on of such business; or
+
+(b) any legal proceeding or action arising from or in connection with his acting as a person responsible for the management of such business (as defined in section 39(2) of that Act).
+
+[S 192/2009 wef 04/05/2009]
+
 ## LEGISLATIVE HISTORY
 
 Civil Law Act
@@ -1072,6 +1197,12 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of Second and Third Readings|14 February 2006|
 ||Date of commencement|2 April 2008|
 |||(Section 201 — related amendments to Civil Law Act)|
+|28.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 March 2009|
+|||(Except item (7)(b) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Civil Law Act
