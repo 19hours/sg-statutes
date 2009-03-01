@@ -520,6 +520,10 @@ Original Jurisdiction
 
 [20/99]
 
+(3A) For the purposes of subsection (3), any reference to the registration of any divorce, or to a divorce that is registered, under section 102 of the Administration of Muslim Law Act shall be construed as a reference to the registration of a divorce or to a divorce that is registered under that section before the date of commencement of section 24 of the Administration of Muslim Law (Amendment) Act 2008.
+
+[29/2008 wef 01/03/2009]
+
 (4) For the purposes of subsection (3), where the proceedings in the Syariah Court are commenced on the same day as the civil proceedings in the High Court, the proceedings in the Syariah Court shall be deemed to have been commenced before the civil proceedings.
 
 [20/99]
@@ -1733,6 +1737,12 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 31/2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007 (item (4) of the Second Schedule — amendment of Supreme Court of Judicature Act)|
+|24.|**Act 29 of 2008—Administration of Muslim Law (Amendment) Act 2008**|
+||(Related amendments made to Act by)||
+||Date of First Reading|15 September 2008|
+|||(Bill No. 24/2008)|
+||Date of Second and Third Readings|17 November 2008|
+||Date of commencement|1st March 2009 (section 32 — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
