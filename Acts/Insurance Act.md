@@ -284,7 +284,7 @@
 
 - [60 Life policies (surrenders, non-payment of premiums, paid-up policies)](#Life-policies-surrenders-non-payment-of-premiums-paid-up-policies)
 
-- [61 Payment of life policy and accident and health claims without probate, etc.](#Payment-of-life-policy-and-accident-and-health-claims-without-probate-etc)
+- [61 Payment of life policy and claims without probate, etc.](#Payment-of-life-policy-and-claims-without-probate-etc)
 
 - [62 No insurance to be made unless insurer has interest and no policy without inserting names (UK Life Assurance Act 1774)](#No-insurance-to-be-made-unless-insurer-has-interest-and-no-policy-without-inserting-names-UK-Life-Assurance-Act-1774)
 
@@ -3572,19 +3572,89 @@ Miscellaneous amendments of law
 
 ### Insurable interest required for life insurances
 
-57\.—(1) A life policy insuring the life of anyone, other than the person effecting the insurance or a person connected with him as mentioned in subsection (2), shall be void unless the person effecting the insurance has an insurable interest in that life at the time the insurance is effected; and the policy moneys paid under such a policy shall not exceed the amount of that insurable interest at that time.
+57\.—(1) A life policy insuring the life of a person which is issued by a registered insurer shall be void unless —
 
-(2) The lives excepted from subsection (1), besides that of the person effecting the insurance, are those of that person’s wife or husband, of that person’s child or ward being under the age of majority at the time the insurance is effected, and of anyone on whom that person is at that time wholly or partly dependent.
+(a) the person effecting the insurance has an insurable interest in the life which is insured at the time the insurance is effected;
+
+(b) the life which is insured is that of —
+
+(i) the person effecting the insurance;
+
+(ii) his spouse at the time the insurance is effected;
+
+(iii) his child or ward under the age of 18 years at the time the insurance is effected; or
+
+(iv) any other person on whom the person effecting the insurance is, at the time the insurance is effected, wholly or partly dependant; or
+
+(c) the life policy is one in respect of which all of the conditions referred to in subsection (2A) or (2B) are satisfied.
+
+[3/2009 wef 01/03/2009]
+
+(2) Where subsection (1)(a) applies, the policy moneys payable under the life policy shall not exceed the amount of the insurable interest at the time the insurance is effected.
+
+[3/2009 wef 01/03/2009]
+
+(2A) Section 5 of the Civil Law Act (Cap. 43) and section 62 shall not apply to a life policy, and a life policy shall not be void, if all of the following conditions are satisfied:
+
+(a) the life which is insured is that of the settlor of a trust;
+
+(b) the person effecting the insurance is the trustee of the trust;
+
+(c) any beneficiary of the trust —
+
+(i) has an insurable interest in the life of the settlor at the time the insurance is effected; or
+
+(ii) is —
+
+(A) the settlor’s spouse at the time the insurance is effected;
+
+(B) the settlor’s child or ward under the age of 18 years at the time the insurance is effected; or
+
+(C) any other person on whom the settlor is, at the time the insurance is effected, wholly or partly dependant; and
+
+(d) the settlor consents in writing to the effecting of the insurance before it is effected.
+
+[3/2009 wef 01/03/2009]
+
+(2B) Section 5 of the Civil Law Act and section 62 shall not apply to a life policy, and a life policy shall not be void, if all of the following conditions are satisfied:
+
+(a) the life which is insured is that of a beneficiary of a trust (referred to in this subsection as the relevant beneficiary);
+
+(b) the person effecting the insurance is the trustee of the trust;
+
+(c) any beneficiary of the trust —
+
+(i) has an insurable interest in the life of the relevant beneficiary at the time the insurance is effected; or
+
+(ii) is —
+
+(A) the relevant beneficiary’s spouse at the time the insurance is effected;
+
+(B) the relevant beneficiary’s child or ward under the age of 18 years at the time the insurance is effected; or
+
+(C) any other person on whom the relevant beneficiary is, at the time the insurance is effected, wholly or partly dependant; and
+
+(d) the relevant beneficiary consents in writing to the effecting of the insurance before it is effected.
+
+[3/2009 wef 01/03/2009]
+
+(2C) Subsections (1), (2), (2A) and (2B) shall apply to a life policy regardless of whether the proper law of the life policy is the law of Singapore.
+
+[3/2009 wef 01/03/2009]
 
 (3) In this section, “insuring the life of a person” means insuring the payment of money (or the equivalent) on that person’s death or on the happening of any contingency dependent on the termination or continuance of that person’s life, and includes granting an annuity to commence on that death or at a time to be determined by reference thereto or to any such contingency.
 
 (4) In so far as in the case of any life policy the policy moneys do not consist wholly of a cash payment due on the death in question, the limit under this section on the amount to be paid shall be applied by reference to the value of the right to the policy moneys immediately after the death or the happening before the death of any event on which they become payable.
 
-(5) This section shall not affect policies issued before 1st January 1967.
+(5) Subsections (1)(a) and (b), (2), (3) and (4) shall not affect policies issued before 1st January 1967.
+
+(6) Subsections (1)(c), (2A), (2B) and (2C) shall not affect policies issued before the date of commencement of section 3 of the Insurance (Amendment) Act 2009.
+
+[3/2009 wef 01/03/2009]
 
 ### Capacity of infant to insure
 
-58\.—(1) Notwithstanding any law to the contrary, a person over the age of 10 years shall not, by reason only of being under the age of majority, lack the capacity to enter into a contract of insurance; but a person under the age of 16 years shall not have the capacity to enter into such a contract except with the consent in writing of his parent or guardian.
+58\.—(1) Notwithstanding any law to the contrary, a person over the age of 10 years shall not, by reason only of his age, lack the capacity to enter into a contract of insurance; but a person under the age of 16 years shall not have the capacity to enter into such a contract except with the consent in writing of his parent or guardian.
 
 (2) This section shall be deemed always to have had effect.
 
@@ -3628,9 +3698,9 @@ Miscellaneous amendments of law
 
 [11/86]
 
-### Payment of life policy and accident and health claims without probate, etc.
+### Payment of life policy and claims without probate, etc.
 
-61\.—(1) In any case where the policy owner of any life policy or accident and health policy of an insurer dies, and the policy moneys are payable thereunder on his death, the insurer may make payment to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer on the deceased’s life without the production of any probate or letters of administration; and the insurer shall be discharged from all liability in respect of the amount paid.
+61\.—(1) In any case where the policy owner of any life policy or policy of an insurer dies, and the policy moneys are payable thereunder on his death, the insurer may make payment to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer on the deceased’s life without the production of any probate or letters of administration; and the insurer shall be discharged from all liability in respect of the amount paid.
 
 [11/86]
 
@@ -4027,6 +4097,10 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 50/2007 published on 29 February 2008)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|25.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+||Date of First Reading|20 October 2008|
+||Date of Second and Third Readings|19 January 2009|
+||Dates of commencement|1st March 2009 (Sections 3 & 4)|
 ## COMPARATIVE TABLE
 
 Insurance Act
