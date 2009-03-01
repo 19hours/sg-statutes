@@ -566,7 +566,15 @@ MANAGEMENT AND ADMINISTRATION
 
 ### Manager
 
-23\.—(1) Every limited liability partnership shall ensure that it has at least one manager who is a natural person of full age and capacity and who is ordinarily resident in Singapore.
+23\.—(1) Every limited liability partnership shall ensure that it has at least one manager who —
+
+(a) is a natural person;
+
+(b) has attained the age of 18 years and is otherwise of full legal capacity; and
+
+(c) is ordinarily resident in Singapore.
+
+[7/2009 wef 01/03/2009]
 
 (2) Every limited liability partnership shall ensure that the particulars of every person who acts as manager of the limited liability partnership and his consent to act as such are lodged with the Registrar in such medium and form as the Registrar may determine.
 
@@ -3338,6 +3346,12 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|6.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 Novmeber 2008|
+|||(Bill No. 38/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 March 2009 (item (16) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
