@@ -140,7 +140,7 @@ An Act regulating the limitation of actions and arbitrations.
 
 “trust” and “trustee” have the same meanings as in the Trustees Act [Cap. 337].
 
-(2) For the purposes of this Act, a person shall be deemed to be under a disability while he is an infant or of unsound mind.
+(2) Subject to section 36(1)(b) of the Civil Law Act (Cap. 43), for the purposes of this Act, a person shall be deemed to be under a disability while he is a minor or of unsound mind.
 
 [7/2009 wef 01/03/2009]
 
@@ -260,7 +260,7 @@ Actions to recover land and rent
 
 9\.—(1) No action shall be brought by any person to recover any land after the expiration of 12 years from the date on which the right of action accrued to him, or, if it first accrued to some person through whom he claims, to that person.
 
-(2) Nothing in this section or in section 11(2) shall be deemed to affect the provisions of the Government Proceedings Act (Cap. 121) [Cap. 121], or to apply to any person registered under or by virtue of the provisions of the Land Titles Act (Cap. 157) [Cap. 157] as the proprietor of the land sought to be recovered, or to any person claiming through a person so registered, except to the extent that such Act so provides or permits.
+(2) Nothing in this section or in section 11(2) shall be deemed to affect the provisions of the Government Proceedings Act (Cap. 121), or to apply to any person registered under or by virtue of the provisions of the Land Titles Act (Cap. 157) as the proprietor of the land sought to be recovered, or to any person claiming through a person so registered, except to the extent that such Act so provides or permits.
 
 (3) This section shall not apply to an action to recover land from a person by reason only of his unauthorised occupation of the land.
 
@@ -661,3 +661,9 @@ This Legislative History is provided for the convenience of users of the Limitat
 |||(Bill No. 37/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 March 2002|
+|12.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 17 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 March 2009|
