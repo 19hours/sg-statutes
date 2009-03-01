@@ -6870,7 +6870,9 @@ Directors and officers
 
 [5/2004]
 
-(2) No person other than a natural person of full age and capacity shall be a director of a company.
+(2) No person other than a natural person who has attained the age of 18 years and who is otherwise of full legal capacity shall be a director of a company.
+
+[7/2009 wef 01/03/2009]
 
 (3) [Deleted by Act 12 of 2002]
 
@@ -17031,6 +17033,12 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|96.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Dates of commencement|1st March 2009|
 ## COMPARATIVE TABLE
 
 Companies Act
