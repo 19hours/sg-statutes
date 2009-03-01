@@ -364,9 +364,9 @@ and the registrable particulars related thereto;
 
 (3) A record of a person’s conviction that is spent in accordance with this section shall not be revived by the subsequent conviction of the person for any offence after the crime-free period.
 
-(4) In this section ––
+(4) In this section —
 
-“crime-free period” means a period of not less than 5 consecutive years starting from the relevant date applicable to a person, during which the person ––
+“crime-free period” means a period of not less than 5 consecutive years starting from the relevant date applicable to a person, during which the person —
 
 (a) has not been convicted of a crime;
 
@@ -376,7 +376,7 @@ and the registrable particulars related thereto;
 
 (d) has not been subject to a supervision order or admitted to an approved institution under the Misuse of Drugs Act (Cap. 185) or admitted to an approved centre under the Intoxicating Substances Act (Cap. 146A);
 
-“relevant date”, in relation to a person, means ––
+“relevant date”, in relation to a person, means —
 
 (a) where the sentence of the person does not include a term of imprisonment and is no longer subject to appeal, the date on which the sentence was passed;
 
@@ -386,17 +386,17 @@ and the registrable particulars related thereto;
 
 ### Person disqualified from having criminal record become spent
 
-7C\. A person is disqualified from having the record in the register of his conviction becoming spent under section 7B if ––
+7C\. A person is disqualified from having the record in the register of his conviction becoming spent under section 7B if —
 
 (a) that conviction was for any offence specified in the Third Schedule;
 
-(b) the sentence imposed on him for that conviction included ––
+(b) the sentence imposed on him for that conviction included —
 
 (i) a term of imprisonment exceeding 3 months; or
 
 (ii) a fine exceeding $2,000;
 
-(c) that conviction was for a crime committed within 5 years after he had been released from ––
+(c) that conviction was for a crime committed within 5 years after he had been released from —
 
 (i) an approved institution under the Misuse of Drugs Act (Cap. 185); or
 
@@ -1222,13 +1222,11 @@ Part II, sections 31(2), 33(3) and 33A.
 
 Cap. 185.
 
-Moneylenders Act
+Moneylenders Act 2008
 
 ...
 
-Sections 8 and 32.
-
-Cap. 188.
+Sections 14 and 27.
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
 
@@ -1397,6 +1395,8 @@ Women’s Charter
 Sections 35 to 40 and the whole of Part X.
 
 Cap. 353.
+
+[31/2008 wef 01/03/2009]
 
 [4/2007 wef 01/12/2007]
 
@@ -1928,3 +1928,9 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|1 January 2008|
 |31.|**G. N. No. S 32/2008—Registration of Criminals Act (Amendment of First, Second and Third Schedules) Order 2008**|
 ||Date of commencement|1 February 2008|
+|32.|**Act 31 of 2008—Moneylenders Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 33/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 March 2009|
