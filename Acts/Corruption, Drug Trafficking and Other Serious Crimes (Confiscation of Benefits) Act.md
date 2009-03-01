@@ -174,7 +174,7 @@
 
 - [64 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Part I — Offences included as drug trafficking offences with effect from 30th November 1993**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Part i — Offences included as drug trafficking offences with effect from 30th November 1993**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Serious Offences**](#SECOND-SCHEDULE-Serious-Offences)
 
@@ -328,7 +328,7 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 “interest”, in relation to property, includes any right;
 
-“making a gift” is to be construed in accordance with section 12(9);
+“making a gift” is to be construed in accordance with section 16(9);
 
 “material” includes any book, document or other record in any form, and any container or article relating thereto;
 
@@ -2668,7 +2668,7 @@ FIRST SCHEDULE
 
 Section 2
 
-Part I — Offences included as drug trafficking offences
+Part i — Offences included as drug trafficking offences
 
 
 
@@ -2679,7 +2679,13 @@ DRUG TRAFFICKING OFFENCES
 
 Offences
 
-Description*
+\*Description
+
+\*
+
+Note
+
+: The short description of offences in this Schedule is for ease of reference only.
 
 1. Section 5 of the Misuse of Drugs Act (Cap. 185)
 
@@ -2701,19 +2707,17 @@ Cultivation of cannabis, opium and coca plants.
 
 Money laundering.
 
-*
-
-Note
-
-: The short description of offences in this Schedule is for ease of reference only.
-
-Part II — Offence included as drug trafficking offence with effect from 1st November 2007
+Part ii — Offence included as drug trafficking offence with effect from 1st November 2007
 
 Offence
 
-Description
+Description: The short description of offences in this Schedule is for ease of reference only.
 
-*
+\*
+
+\*
+
+Note
 
 6. Section 10A of the Misuse of Drugs Act
 
@@ -3487,15 +3491,15 @@ Offences
 
 Description*
 
-Moneylenders Act (Cap\. 188) 
+Moneylenders Act 2008 
 
-183. Section 8
+183. Section 14
 
-Offences
+Unlicensed moneylending
 
-184. Section 33
+184. Section 28
 
-Harassing debtor, besetting his residence, etc.
+Harassing borrower, besetting his residence, etc.
 
 [31/2008 wef 01/03/2009]
 
@@ -4462,13 +4466,11 @@ Part VII — Offences included as serious offences
 
 with effect from 20th February 2008
 
-[S 83/2008 wef 20/02/2008]
-
 Offences
 
 Description*
 
-Terrorism (Suppression of Bombings)Act 2007 (Act 50 of 2007) 
+Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007) 
 
 355. Section 3
 
@@ -4584,6 +4586,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|1 February 2008|
 |22.|**G. N. No. S 83/2008—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) (No. 2) Order 2008**|
 ||Date of commencement|20 February 2008|
+|23.|**Act 31 of 2008—Moneylenders Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 33/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 March 2009|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
