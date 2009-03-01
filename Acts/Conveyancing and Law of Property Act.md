@@ -116,13 +116,13 @@
 
 - [39 Power for corporations to hold property as joint tenants](#Power-for-corporations-to-hold-property-as-joint-tenants)
 
-[**Part VIII INFANTS**](#Part-VIII)
+[**Part VIII MINORS**](#Part-VIII)
 
-- [40 Sales and leases on behalf of infant owner](#Sales-and-leases-on-behalf-of-infant-owner)
+- [40 Sales and leases on behalf of minor owner](#Sales-and-leases-on-behalf-of-minor-owner)
 
 - [41 Management of land and receipt and application of income during minority](#Management-of-land-and-receipt-and-application-of-income-during-minority)
 
-- [42 Application by trustees of income of infant’s property for maintenance, etc.](#Application-by-trustees-of-income-of-infant’s-property-for-maintenance-etc)
+- [42 Application by trustees of income of minor’s property for maintenance, etc.](#Application-by-trustees-of-income-of-minor’s-property-for-maintenance-etc)
 
 [**Part IX RENTCHARGES**](#Part-IX)
 
@@ -958,17 +958,27 @@ Provided that the acquisition and holding of property by a body corporate in joi
 
 ## PART VIII
 
-INFANTS
+MINORS
 
-### Sales and leases on behalf of infant owner
+### Sales and leases on behalf of minor owner
 
-40\. Where a person in his own right seised of or entitled to any land is an infant, the land shall be deemed to be a settled estate withinthe Civil Law Act and the Settled Estates Act.
+40\. Where a person in his own right seised of or entitled to any land is an infanta minor, the land shall be deemed to be a settled estate withinthe Civil Law Act and the Settled Estates Act.
+
+(1) Where a person in his own right seised of or entitled to any land is a minor, the land shall be deemed to be a settled estate within and the Settled Estates Act.
+
+[7/2009 wef 01/03/2009]
+
+(2) Subsection (1) does not apply in the case of a lease not exceeding 3 years which is executed by a minor who has attained the age of 18 years as a principal.
+
+[7/2009 wef 01/03/2009]
+
+[Cap 293.]
 
 [7/2009 wef 01/03/2009]
 
 ### Management of land and receipt and application of income during minority
 
-41\.—(1) If and as long as any person who would but for this section be beneficially entitled to the possession of any land is an infant, the trustees appointed for this purpose by the settlement (if any) or if there are none so appointed, then the persons (if any) who are for the time being under the settlement trustees with power of sale of the settled land, or of part thereof, or with power of consent to or approval of the exercise of such a power of sale, of if there are none, then any persons appointed as trustees for this purpose by the court, on the application of a guardian or next friend of the infant, may enter into and continue in possession of the land; and in every such case subsections (2) to (8) shall apply.
+41\.—(1) If and as long as any person who would but for this section be beneficially entitled to the possession of any land is a minor, the trustees appointed for this purpose by the settlement (if any) or if there are none so appointed, then the persons (if any) who are for the time being under the settlement trustees with power of sale of the settled land, or of part thereof, or with power of consent to or approval of the exercise of such a power of sale, of if there are none, then any persons appointed as trustees for this purpose by the court, on the application of a guardian or next friend of the minor, may enter into and continue in possession of the land; and in every such case subsections (2) to (8) shall apply.
 
 [7/2009 wef 01/03/2009]
 
@@ -990,31 +1000,31 @@ INFANTS
 
 (h) generally to deal with the land in a proper and due course of management,
 
-but so that, where the infant is impeachable for waste, the trustees shall not commit waste, and shall cut timber on the same terms only, and subject to the same restrictions, on and subject to which the infant could, if of full age, cut it.
+but so that, where the minor is impeachable for waste, the trustees shall not commit waste, and shall cut timber on the same terms only, and subject to the same restrictions, on and subject to which the minor could, if of full age, cut it.
 
 [7/2009 wef 01/03/2009]
 
 (3) The trustees may from time to time, out of the income of the land, including the produce of the sale of timber and underwood, pay the expenses incurred in the management, or in the exercise of any power conferred by this section, or otherwise in relation to the land, and all outgoings not payable by any tenant or other person, and shall keep down any annual sum, and the interest of any principal sum, charged on the land.
 
-(4) The trustees may, in their discretion, apply any income which, in the exercise of their discretion they consider proper, according to the infant’s age, for his or her maintenance, education or benefit, or pay thereout any money to the infant’s parent or guardian, to be applied for the same purposes.
+(4) The trustees may, in their discretion, apply any income which, in the exercise of their discretion they consider proper, according to the minor’s age, for his or her maintenance, education or benefit, or pay thereout any money to the minor’s parent or guardian, to be applied for the same purposes.
 
 (5) The trustees shall lay out of the residue of the income of the land in investment on securities on which they are by the settlement (if any) or by law, authorised to invest trust money, with power to vary investments; and shall accumulate the income of the investments so made in the way of compound interest, by from time to time similarly investing the income and the resulting income of investments; and shall stand possessed of the accumulated fund arising from income of the land and from investments of income on the trusts following:
 
-(a) if the infant attains the age of 21 years, then in trust for the infant;
+(a) if the minor attains the age of 21 years, then in trust for the minor;
 
 [7/2009 wef 01/03/2009]
 
-(b) if the infant is a woman and marries while an infant, then in trust for her separate use, independently of her husband, and so that her receipt after she marries, and though still an infant, shall be a good discharge; and
+(b) if the minor is a woman and marries while a minor, then in trust for her separate use, independently of her husband, and so that her receipt after she marries, and though still a minor, shall be a good discharge; and
 
 [7/2009 wef 01/03/2009]
 
-(c) if the infant dies while an infant, and being a woman without having been married, then where the infant was under a settlement tenant for life, on the trusts (if any) declared of the accumulated fund by that settlement, but where no such trusts are declared or the infant is seised of or entitled to any land for an estate in fee simple absolute or conditional, or for any leasehold interest, then in trust for the infant’s personal representatives as part of the infant’s estate.
+(c) if the minor dies while a minor, and being a woman without having been married, then where the minor was under a settlement tenant for life, on the trusts (if any) declared of the accumulated fund by that settlement, but where no such trusts are declared or the minor is seised of or entitled to any land for an estate in fee simple absolute or conditional, or for any leasehold interest, then in trust for the minor’s personal representatives as part of the minor’s estate.
 
 [7/2009 wef 01/03/2009]
 
-(6) Where the infant’s estate or interest is in an undivided share of land, the powers of this section relative to the land may be exercised jointly with persons entitled to possession of, or having power to act in relation to, the other undivided share or shares.
+(6) Where the minor’s estate or interest is in an undivided share of land, the powers of this section relative to the land may be exercised jointly with persons entitled to possession of, or having power to act in relation to, the other undivided share or shares.
 
-(7) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the infant arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
+(7) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the minor arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
 
 [7/2009 wef 01/03/2009]
 
@@ -1024,15 +1034,15 @@ but so that, where the infant is impeachable for waste, the trustees shall not c
 
 (b) as to subsections (4) and (5) — only in relation to instruments coming into operation before 1st September 1929.
 
-### Application by trustees of income of infant’s property for maintenance, etc.
+### Application by trustees of income of minor’s property for maintenance, etc.
 
-42\.—(1) Where any property is held by trustees in trust for an infant, either for life, or for any greater interest, and whether absolutely or contingently on his attaining the age of 21 years, or on the occurrence of any event before his attaining that age, the trustees may, at their sole discretion, pay to the infant’s parent or guardian (if any) or otherwise apply for or towards the infant’s maintenance, education or benefit, the whole or any part of the income to which the infant may be or become entitled in respect of that property, whether there is any other fund applicable to the same purpose or any person bound by law to provide for the infant’s maintenance or education or not.
+42\.—(1) Where any property is held by trustees in trust for a minor, either for life, or for any greater interest, and whether absolutely or contingently on his attaining the age of 21 years, or on the occurrence of any event before his attaining that age, the trustees may, at their sole discretion, pay to the minor’s parent or guardian (if any) or otherwise apply for or towards the minor’s maintenance, education or benefit, the whole or any part of the income to which the minor may be or become entitled in respect of that property, whether there is any other fund applicable to the same purpose or any person bound by law to provide for the minor’s maintenance or education or not.
 
 [7/2009 wef 01/03/2009]
 
 (2) The trustees shall accumulate all the residue of that income in the way of compound interest, by investing the same and the resulting income thereof from time to time on securities on which they are by the settlement (if any) or by law authorised to invest trust money, and shall hold those accumulations for the benefit of the person who ultimately becomes entitled to the property from which the same arise; but so that the trustees may at any time, if they think fit, apply those accumulations, or any part of them, as if they were income arising in the then current year.
 
-(3) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the infant arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
+(3) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the minor arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
 
 [7/2009 wef 01/03/2009]
 
@@ -1589,19 +1599,25 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
 |26.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
-||(Consequential amendments made to Act by)||
+||(Consequential amendments made by)||
 ||Date of First Reading|11 July 2001|
 |||(Bill No. 23/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|20 August 2001|
 |27.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
-||(Consequential amendments made to Act by)||
+||(Consequential amendments made by)||
 ||Date of First Reading|21 September 2004|
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |28.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 30/2005 published on 18 October 2005)|
+|||(Bill No. 30/2005 published on 17 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
-||Date of commencement|1 January 2006|
+||Date of commencement|1 April 2006|
+|29.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||(Consequential amendments made by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 17 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 March 2009|
