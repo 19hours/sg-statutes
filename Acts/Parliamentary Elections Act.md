@@ -340,6 +340,10 @@ PRELIMINARY
 
 “Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
 
+“contact address”, in relation to any person, means the person’s contact address under section 8(2) of the National Registration Act;
+
+[14/2008 wef 03/03/2009]
+
 “direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
 
 (a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
@@ -378,7 +382,19 @@ and such material shall be election advertising even though it can reasonably be
 
 “overseas elector” means an elector who is registered under section 13 or 13A in any register of electors as an overseas elector;
 
-“overseas polling station” means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore as the Returning Officer may approve under section 36A(2) to be an overseas polling station;
+“overseas polling station” means such of the following premises situated outside Singapore as the Returning Officer may approve under section 36A(2) to be an overseas polling station:
+
+(a) an embassy, a High Commission, diplomatic mission, permanent mission or consulate of Singapore (or any part thereof) in a country or territory outside Singapore;
+
+(b) the official residence (or any part thereof) of any person who is appointed to hold or act in any of the following offices in a country or territory outside Singapore:
+
+(i) an ambassador, a High Commissioner, Consulate-General or head of a diplomatic mission or consulate;
+
+(ii) the Permanent Representative; or
+
+(iii) such other senior diplomatic or consular office as the Minister may, from time to time, prescribe;
+
+[14/2008 wef 03/03/2009]
 
 “overseas registration centre” means an overseas registration centre established under section 10(4);
 
@@ -454,25 +470,9 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [42/96]
 
-(1A) For the purposes of subsection (1)(b), a person shall be deemed to be ordinarily resident in Singapore on the prescribed date in a year if, on that date —
+(1A) For the purposes of subsection (1)(b), a person shall be deemed to be ordinarily resident in Singapore on the prescribed date in a year if the person has resided in Singapore for an aggregate of 30 days during the period of 3 years immediately preceding the prescribed date, even though the person is not resident in Singapore on that date.
 
-(a) the person is not resident in Singapore but has resided in Singapore for an aggregate of 2 years during the period of 5 years immediately preceding the prescribed date; or
-
-(b) the person is —
-
-(i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
-
-(ii) a public officer or an employee of a public authority employed in full-time service outside Singapore;
-
-(iii) a public officer or an employee of a public authority on full-time training outside Singapore;
-
-(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or a public authority;
-
-(v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135(1)(c)(ii) of the Constitution of the Republic of Singapore; or
-
-(vi) the spouse or a parent, child or dependant of any person referred to in sub-paragraph (i), (ii), (iii), (iv) or (v) and is living with that person.
-
-[19/2001]
+[14/2008 wef 03/03/2009]
 
 (2) For the purposes of the preparation or revision of any register of electors a person who is a citizen of Singapore and to whom an identity card has been issued or deemed to have been issued on or before the prescribed date in any year under the provisions of the National Registration Act (Cap. 201) and has not been withdrawn shall, until the contrary be shown, be presumed —
 
@@ -498,7 +498,9 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [42/96]
 
-(6) For the purposes of this section, the contact address of the holder of an identity cardreferred to in section 8(2) of the National Registration Act (Cap. 201) shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
+(6) For the purposes of this section, the contact address of the holder of an identity card shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
+
+[14/2008 wef 03/03/2009]
 
 [19/2001]
 
@@ -506,7 +508,17 @@ shall be entitled to have his name entered or retained in a register of electors
 
 6\.—(1) No person shall be entitled to have his name entered or retained in any register of electors if he —
 
-(a) has taken any oath or made any declaration or acknowledgment of allegiance, obedience or adherence to any foreign power or state or does, concurs in or adopts any act done with the intention that he shall become a subject or citizen of any foreign power or state or is the holder of a passport issued by any foreign power or state;
+(a) has done any of the following:
+
+(i) acquired or applied to acquire by registration, naturalisation or other voluntary and formal act (other than marriage) the citizenship of any country outside Singapore;
+
+(ii) voluntarily claimed and exercised any rights (other than any rights in connection with the use of a passport) available to him under the law of any country outside Singapore being rights accorded exclusively to the citizens or nationals of that country;
+
+(iii) taken any oath or made any declaration or acknowledgment of allegiance, obedience or adherence to any foreign power or state; or
+
+(iv) applied to the authorities of a place outside Singapore for the issue or renewal of a passport or used a passport issued by such authorities as a travel document;
+
+[14/2008 wef 03/03/2009]
 
 (b) is serving a sentence of imprisonment (by whatever name called) imposed by any court in or outside Singapore for an offence punishable with imprisonment for a term exceeding 12 months, or is under sentence of death imposed by any such court or is serving a sentence of imprisonment awarded in lieu of execution of any such sentence;
 
@@ -515,8 +527,6 @@ shall be entitled to have his name entered or retained in a register of electors
 (d) is incapable of being registered by reason of his conviction of a corrupt or illegal practice under this Act or the Presidential Elections Act (Cap. 240A) or by reason of the report of an Election Judge in accordance with the provisions of this Act or the Presidential Elections Act or by reason of his conviction under section 55 of this Act or section 37 of the Presidential Elections Act;
 
 (e) is a serving member on full pay of any naval, military or air force not maintained out of moneys provided by Parliament unless he possesses a domicile in Singapore;
-
-(f) is a person whose name is entered in a register of electors in any other country or territory;
 
 (g) is a person whose name has been expunged from the register under sections 13(3) and 43(5) and whose name has not been restored to the register under section 43(8) or (8A), as the case may be; or
 
@@ -537,6 +547,16 @@ shall be entitled to have his name entered or retained in a register of electors
 (2) For the purposes of subsection (1)(b), where the conviction is by a court of law outside Singapore, the person shall not be so disqualified unless the offence is also one which, had it been committed in Singapore, would have been punishable by a court of law in Singapore.
 
 [19/2001]
+
+(3) For the purposes of subsection (1)(a)(ii), the exercise of a vote in —
+
+(a) any national, state or provincial election; or
+
+(b) any election for the local government of any metropolitan or urban area,
+
+in a country outside Singapore (but not an election under this Act or a presidential election) shall be deemed to be the voluntary claim and exercise of a right available under the law of that country.
+
+[14/2008 wef 03/03/2009]
 
 ### Plural voting
 
@@ -626,7 +646,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [19/2001]
 
-(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic missionor consulate of Singapore situated in any territory outside Singapore.
+(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic mission, permanent mission or consulate of Singapore situated in any country or any territory outside Singapore.
 
 [14/2008 wef 03/03/2009]
 
@@ -650,9 +670,13 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (4) In this section and section 12, every person objecting to the inclusion or insertion of any name in the register is referred to as the objector.
 
-(5) Every objection to the inclusion of any name in the register shall be made in writingin duplicate and shall be in Form 4 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in theGazetteof the notice of completion of the register.
+(5) Every objection to the inclusion of any name in the register shall be made in writing and shall be in Form 4 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in theGazetteof the notice of completion of the register.
 
-(6) Every objection to the insertion of the name of any claimant in the register shall be made in writingin duplicate and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
+[14/2008 wef 03/03/2009]
+
+(6) Every objection to the insertion of the name of any claimant in the register shall be made in writing and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
+
+[14/2008 wef 03/03/2009]
 
 (7) [Deleted by Act 18 of 2005]
 
@@ -734,11 +758,11 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [10/2010 wef 01/07/2010]
 
-(4) Notwithstanding anything to the contrary in this Act, the Registration Officer may, at any time after certifying any register of electors for any electoral division, except between the issue of a writ of election under section 24 and polling day appointed for election in that division, remove from the register the name of any person where the Registration Officer has reason to believe that the address of that person as shown in the register has ceased to exist or to be used as a place of residence.
+(4) Notwithstanding anything to the contrary in this Act, the Registration Officer may, at any time after certifying any register of electors for any electoral division, except between the issue of a writ of election under section 24 and polling day appointed for election in that division, remove from the register the name of any person where the Registration Officer has reason to believe that the address of that person as shown in the register has ceased to exist or to be used as his place of residence or his contact address.
 
 [14/2008 wef 03/03/2009]
 
-(4A) Where the person whose name has been removed under subsection (4) has notified the Commissioner of National Registration in writing of his change of address at the time of the removal of his name, the Registration Officer shall transfer the name of that person to the appropriate register.
+(4A) Where the person whose name has been removed under subsection (4) has notified the Commissioner of National Registration in writing of his change of address or contact address at the time of the removal of his name, the Registration Officer shall transfer the name of that person to the appropriate register.
 
 [14/2008 wef 03/03/2009]
 
@@ -758,31 +782,13 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 ### Registration as overseas elector
 
-13A\.—(1) Any person who is entitled to have his name entered or retained in any register of electors for an electoral division and who —
+13A\.—(1) Any person not resident in Singapore but whose name is entered in the register of electors for an electoral division and who is entitled to have his name so entered or retained in that register of electors may, at any time before a writ of election is issued for any election in that electoral division, apply to the Registration Officer to be registered as an overseas elector for that electoral division at —
 
-(a) is not resident in Singapore but has resided in Singapore for an aggregate of 2 years during the period of 5 years immediately preceding the prescribed date referred to in section 5; or
+(a) any overseas registration centre; or
 
-(b) is —
+(b) any place in or near the electoral division for which the person seeks to be registered as an overseas elector.
 
-(i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
-
-(ii) a public officer or an employee of a public authority employed in full-time service outside Singapore;
-
-(iii) a public officer or an employee of a public authority on full-time training outside Singapore;
-
-(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or a public authority;
-
-(v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135(1)(c)(ii) of the Constitution of the Republic of Singapore; or
-
-(vi) the spouse or a parent, child or dependant of any person referred to in sub-paragraph (i), (ii), (iii), (iv) or (v) and is living with that person,
-
-may, not later than 21 days after the date of publication in theGazetteof the notice under section 10(3) or 15(2), as the case may be, of the notice of completion of the register, apply to the Registration Officer to be registered as an overseas elector for an electoral division at —
-
-(A) any place in or near the electoral division specified in that notice; or
-
-(B) any overseas registration centre.
-
-[19/2001]
+[14/2008 wef 03/03/2009]
 
 (2) An application under subsection (1) by any person to be registered as an overseas elector shall be accompanied by —
 
@@ -792,13 +798,25 @@ may, not later than 21 days after the date of publication in theGazetteof the no
 
 (c) a declaration that he is a citizen of Singapore and is not less than 21 years of age;
 
+(ca) a declaration that he —
+
+(i) has not acquired or applied to acquire by registration, naturalisation or other voluntary and formal act (other than marriage) the citizenship of any country outside Singapore;
+
+(ii) has not voluntarily claimed and exercised any rights (other than any rights in connection with the use of a passport) available to him under the law of any country outside Singapore being rights accorded exclusively to the citizens or nationals of that country;
+
+(iii) has not taken any oath or made any declaration or acknowledgment of allegiance, obedience or adherence to any foreign power or state; and
+
+(iv) has not applied to the authorities of a place outside Singapore for the issue or renewal of a passport or used a passport issued by such authorities as a travel document;
+
+[14/2008 wef 03/03/2009]
+
 (d) a statement specifying the overseas polling station he desires to vote at in an election; and
 
 (e) any other information as the Registration Officer considers necessary to determine the person’s entitlement to have his name entered in a register or the electoral division in or in respect of which he may vote.
 
 [19/2001]
 
-(3) Notwithstanding anything to the contrary in section 13, the Registration Officer may, on receipt of any application under subsection (1), before or at any time after certifying any register of electors for any electoral division —
+(3) Notwithstanding anything to the contrary in section 13, the Registration Officer may, on receipt of any application under subsection (1)to be registered as an overseas elector for an electoral division, at any time except between the issue of a writ of election under section 24 and the nomination day appointed for an election in that electoral division or, if a poll is to be taken, the polling day appointed for that election —
 
 (a) register the applicant as an overseas elector in the register of electors; and
 
@@ -808,9 +826,33 @@ may, not later than 21 days after the date of publication in theGazetteof the no
 
 [14/2008 wef 03/03/2009]
 
+(3A) Any person who is registered under this section as an overseas elector in the register of electors for an electoral division may, at any time, apply to the Registration Officer in the manner prescribed —
+
+(a) to cancel his registration as an overseas elector; or
+
+(b) to change the overseas polling station allotted to him under subsection (3)(b) to another overseas polling station,
+
+and the Registration Officer may, at any time before the issue of a writ of election under section 24 for an election in that electoral division, cancel the person’s registration as an overseas elector or allot the person another overseas polling station to vote at, as the case may be.
+
+[14/2008 wef 03/03/2009]
+
+(3B) Only one overseas polling station may be allotted to a person who is registered as an overseas elector.
+
+[14/2008 wef 03/03/2009]
+
 (4) The registration of any person under this section as an overseas elector in any register of electors shall continue in operation until superseded by the coming into operation of the next certified register relating to any area within that electoral division following any preparation of registers under section 10 or any revision of registers under section 14.
 
 [19/2001]
+
+(5) For the purposes of subsection (2)(ca)(ii), the exercise of a vote in —
+
+(a) any national, state or provincial election; or
+
+(b) any election for the local government of any metropolitan or urban area,
+
+in a country outside Singapore (but not an election under this Act or a presidential election) shall be deemed to be the voluntary claim and exercise of a right available under the law of that country.
+
+[14/2008 wef 03/03/2009]
 
 ### Revision of registers
 
@@ -925,6 +967,20 @@ and each electoral division shall be deemed to have been subdivided under sectio
 (2) The Registration Officer or a Revising Officer may, on the consideration or hearing of any claim, objection or appeal, require that the evidence tendered by any person shall be given on oath and may administer the oath for that purpose.
 
 (3) Every person who in the course of that consideration or hearing knowingly swears anything material to the validity of the claim, objection or appeal which is false shall be guilty of the offence of giving false evidence and shall be liable on conviction to the punishment provided therefor in the Penal Code (Cap. 224).
+
+(4) Any person who, in making any application under section 13A(1) to be registered as an overseas elector for an electoral division, or any application under section 13A(3A)(b) to change the overseas polling station allotted to him to another overseas polling station —
+
+(a) makes, in or outside Singapore, in any declaration under section 13A(2) any statement which is false, and which he knows or has reason to believe is false or does not believe to be true;
+
+(b) furnishes, in or outside Singapore, any document which he knows or has reason to believe is false or does not believe to be true; or
+
+(c) by the intentional suppression of any material fact, furnishes, in or outside Singapore, information which is misleading,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[14/2008 wef 03/03/2009]
+
+[10/2010 wef 01/07/2010]
 
 ### Use of registers of electors
 
@@ -1522,9 +1578,21 @@ CONTESTED ELECTIONS
 
 [19/2001]
 
-(2) The Returning Officer may, for the purposes of the poll at any election, approve the use of such premises within any embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore as he thinks practicable or suitable as an overseas polling station for overseas electors to cast their votes thereat.
+(2) The Returning Officer may, for the purposes of the poll at any election, approve the use of such of the following premises outside Singapore that are within —
 
-[19/2001]
+(a) an embassy, a High Commission, diplomatic mission, permanent mission or consulate of Singapore in a country or territory outside Singapore; or
+
+(b) the official residence of any person who is appointed to hold or act in any of the following offices in a country or territory outside Singapore:
+
+(i) an ambassador, a High Commissioner, Consulate-General or head of a diplomatic mission or consulate;
+
+(ii) the Permanent Representative; or
+
+(iii) such other senior diplomatic or consular office as the Minister may, from time to time, prescribe for the purposes of the definition of an “overseas polling station” in section 2(1),
+
+as the Returning Officer thinks practicable or suitable as an overseas polling station for overseas electors to cast their votes thereat.
+
+[14/2008 wef 03/03/2009]
 
 (3) A polling station shall comprise such premises or such area within any premises as are demarcated by or under the authority of the Returning Officer to be a polling station.
 
@@ -1580,7 +1648,7 @@ CONTESTED ELECTIONS
 
 (2) The certificate referred to in subsection (1A) shall be given under the hand of the Returning Officer and shall state the name of the elector and his number, description in the register of electors, and the fact that he is so employed as aforesaid.
 
-(2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A(3).
+(2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A.
 
 [14/2008 wef 03/03/2009]
 
@@ -1626,7 +1694,7 @@ CONTESTED ELECTIONS
 
 39A\.—(1) Subject to section 7, any overseas elector who intends to cast his vote at the poll for a contested election in an electoral division may vote at —
 
-(a) the overseas polling station allotted to him under section 13A(3) by the Registration Officer; or
+(a) the overseas polling station allotted to him under section 13A by the Registration Officer; or
 
 [14/2008 wef 03/03/2009]
 
@@ -1636,7 +1704,9 @@ but not at both in respect of the same election.
 
 [19/2001]
 
-(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours but not more than 12 hoursand may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours and may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+
+[14/2008 wef 03/03/2009]
 
 [19/2001]
 
@@ -1647,6 +1717,18 @@ but not at both in respect of the same election.
 (4) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls in overseas polling stations, including in particular, the appointment of presiding officers for overseas polling stations, the procedures on closing of the poll and for the safe despatch of the sealed ballot boxes containing the votes cast to the Returning Officer in Singapore.
 
 [19/2001]
+
+(5) Unless the contrary intention appears therefrom, the regulations made under subsection (4) shall extend to acts done or omitted to be done outside Singapore by —
+
+(a) any Assistant Returning Officer or presiding officer;
+
+(b) any polling agent or election agent; or
+
+(c) any citizen of Singapore (whether or not a voter or an elector),
+
+in relation to a poll conducted or to be conducted at an overseas polling station.
+
+[14/2008 wef 03/03/2009]
 
 ### Poll by ballot and ballot papers
 
@@ -4066,6 +4148,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|1 March 2007|
 |60.|**2007 Revised Edition—Parliamentary Elections Act**|
 ||Date of operation|31 March 2007|
+|61.|**Act 14 of 2008—Parliamentary Elections (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 8/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|3 March 2009|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
