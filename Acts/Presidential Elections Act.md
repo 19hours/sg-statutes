@@ -278,7 +278,9 @@ and includes any computer program that is used in the operation of the machine;
 
 “overseas elector” means an elector who is registered under the Parliamentary Elections Act in any register of electors as an overseas elector;
 
-“overseas polling station” means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore approved under section 36A(2) of the Parliamentary Elections Act (Cap. 218) to be an overseas polling station;
+“overseas polling station” has the same meaning as in the Parliamentary Elections Act (Cap. 218);
+
+[14/2008 wef 03/03/2009]
 
 “polling district” means a part of an electoral division subdivided under section 9 of the Parliamentary Elections Act;
 
@@ -714,7 +716,7 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 
 22A\.—(1) Subject to section 52, any overseas elector who intends to cast his vote at the poll for a contested election may vote at —
 
-(a) the overseas polling station allotted to him by the Registration Officer under section 13A(3) of the Parliamentary Elections Act (Cap. 218); or
+(a) the overseas polling station allotted to him by the Registration Officer under section 13A of the Parliamentary Elections Act (Cap. 218); or
 
 [14/2008 wef 03/03/2009]
 
@@ -724,7 +726,9 @@ but not at both in respect of the same election.
 
 [19/2001]
 
-(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours but not more than 12 hoursand may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours and may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+
+[14/2008 wef 03/03/2009]
 
 [19/2001]
 
@@ -735,6 +739,18 @@ but not at both in respect of the same election.
 (4) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls in overseas polling stations, including in particular, the appointment of presiding officers for overseas polling stations, the procedures on closing of the poll and for the safe despatch of the sealed ballot boxes containing the votes cast to the Returning Officer in Singapore.
 
 [19/2001]
+
+(5) Unless the contrary intention appears therefrom, the regulations made under subsection (4) shall extend to acts done or omitted to be done outside Singapore by —
+
+(a) any Assistant Returning Officer or presiding officer;
+
+(b) any polling agent or election agent; or
+
+(c) any citizen of Singapore (whether or not a voter or an elector),
+
+in relation to a poll conducted or to be conducted at an overseas polling station.
+
+[14/2008 wef 03/03/2009]
 
 ### Poll by ballot and ballot papers
 
@@ -2213,6 +2229,12 @@ This Legislative History is provided for the convenience of users of the Preside
 ||Date of commencement|1 January 2006|
 |15.|**2007 Revised Edition—Presidential Elections Act (Chapter 240A)**|
 ||Date of operation|31 March 2007|
+|16.|**Act 14 of 2008—Parliamentary Elections (Amendment) Act 2008**|
+||(Related amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 8/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|3 March 2009|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
