@@ -22,6 +22,8 @@
 
 - [3 Power to make rules for disposal of available lands](#Power-to-make-rules-for-disposal-of-available-lands)
 
+- [3A Modes of alienation](#Modes-of-alienation)
+
 - [4 Form of grant](#Form-of-grant)
 
 - [5 Death of grantee or lessee](#Death-of-grantee-or-lessee)
@@ -34,7 +36,7 @@
 
 - [9 Rent reserved and periodical revision of rate of rent](#Rent-reserved-and-periodical-revision-of-rate-of-rent)
 
-- [10 Land granted for religious purposes, when resumable](#Land-granted-for-religious-purposes-when-resumable)
+- [10 Land granted for religious purposes, etc., when resumable](#Land-granted-for-religious-purposes-etc-when-resumable)
 
 - [11 Issue of State title Collector’s Certificate pending final survey of land area](#Issue-of-State-title-Collector’s-Certificate-pending-final-survey-of-land-area)
 
@@ -62,7 +64,7 @@
 
 - [19A Fees to be paid to Authority](#Fees-to-be-paid-to-Authority)
 
-- [20 Erection and repair of boundary marks](#Erection-and-repair-of-boundary-marks)
+- [20 Erection and repair of wall, bank, etc.](#Erection-and-repair-of-wall-bank-etc)
 
 [**Legislative History**](#Legislative-History)
 
@@ -160,19 +162,33 @@ STATUTORY GRANTS AND LEASES
 
 (c) the time and place at which, and person to whom, rent shall be paid.
 
+### Modes of alienation
+
+3A\. State lands which are alienated or otherwise disposed of, or in respect of which a lease or licence to occupy is issued, under this Act may be alienated, leased or licensed —
+
+(a) as a parcel of the surface earth, all substances thereunder and so much of the column of airspace above the surface as is reasonably necessary for the use and enjoyment thereof;
+
+(b) as a parcel of airspace or subterranean space, whether or not held apart from the surface of the earth; or
+
+(c) only down to such depth below the surface earth as the President may by order direct.
+
+[9/2009 wef 05/03/2009]
+
 ### Form of grant
 
 4\.—(1) Every grant or lease of State land issued under this Part shall be in the prescribed form and shall be signed by the Collector of Land Revenue.
 
 [35/80]
 
-### Reservation in favour of State of rights in respect of mineral Oil in grants and leases made by State
+### Reservation in favour of State of rights in respect of mineral oil in grants and leases made by State
 
 (2) In every such grant and in every lease made by the Crown or the State after 3rd May 1907, there shall be implied, in the absence of an express provision to the contrary, a condition with respect to the land comprised in the grant or lease to the effect that there is reserved to the State or its grantees the right to enter upon the land and to search for and take any mineral oil which may be found therein or thereon upon paying to the grantee or lessee of the land such compensation for any damage occasioned thereby as may be assessed by the Collector of Land Revenue.
 
 ### Difference as to compensation to be settled by arbitration
 
-(3) If any person so entitled to compensation is dissatisfied with the compensation as assessed by the Collector of Land Revenue, the difference between them shall be referred to arbitration, and the sending in by that person of a claim to compensation after the Collector of Land Revenue has made an offer of compensation in writing shall be treated as a submission to arbitration under the Arbitration Act [Cap. 10], and the reference shall be to 2 arbitrators having power to appoint an umpire under the provisions of that Act.
+(3) If any person so entitled to compensation is dissatisfied with the compensation as assessed by the Collector of Land Revenue, the difference between them shall be referred to arbitration, and the sending in by that person of a claim to compensation after the Collector of Land Revenue has made an offer of compensation in writing shall be treated as a submission to arbitration under the Arbitration Act [Cap. 10].
+
+[9/2009 wef 05/03/2009]
 
 ### Implied condition as to claims of right of way
 
@@ -180,7 +196,9 @@ STATUTORY GRANTS AND LEASES
 
 (a) the Collector of Land Revenue may mark out for the purpose a road or way over the land comprised in the grant or lease;
 
-(b) in that case the owner or occupier of those adjacent lands making the claim is entitled to pass and repass with or without horses, buffaloes, bullocks and carts or wagons over the road or way so marked out, making full compensation for damage done to growing crops and permanent improvements; and
+(b) in that case the owner or occupier of those adjacent lands making the claim is entitled to pass and repass with or without animals or vehicles over the road or way so marked out, making full compensation for damage done to growing crops and permanent improvements; and
+
+[9/2009 wef 05/03/2009]
 
 (c) the expense of making and maintaining any road or way used for the purpose shall be borne by the owner or occupier of the lands using it, and any dispute relating thereto shall be settled by the Collector of Land Revenue whose decision shall be final.
 
@@ -192,11 +210,13 @@ STATUTORY GRANTS AND LEASES
 
 ### Death of grantee or lessee
 
-5\.—(1) Where a grant or lease has been issued under this Act, or a certificate has been issued by the Collector of Land Revenue pursuant to Part III of the Land Titles Act, to a person who, unknown to the Collector of Land Revenue, was not alive at the date of the issue of the grant or lease or Collector’s Certificate and pursuant to the issue of such grant, lease or certificate the Registrar of Titles has issued a certificate of title to the deceased person —
+5\.—(1) Where a grant or lease has been issued under this Act, or a certificate has been issued by the Collector of Land Revenue pursuant to Part III of the Land Titles Act [Cap. 157], to a person who, unknown to the Collector of Land Revenue, was not alive at the date of the issue of the grant or lease or Collector’s Certificate and pursuant to the issue of such grant, lease or certificate the Registrar of Titles has issued a certificate of title to the deceased person —
 
 (a) an application may be made by the personal representative of the deceased person to the Registrar of Titles to have the certificate of title duly amended and endorsed with the name of the personal representative as the registered proprietor of the land comprised therein in place of the deceased person; and
 
 (b) the Registrar of Titles, if he is satisfied that the personal representative has obtained a grant of probate of the will or letters of administration of the estate of the deceased person or has been vested with authority to act as such personal representative, as the case may be, shall make the appropriate amendment and endorsement on the certificate of title, and the State grant or lease affected, and thereupon section 109 of the Land Titles Act shall apply with the necessary modifications.
+
+[35/80; 27/93]
 
 (2) For the purposes of this section, “personal representative” includes —
 
@@ -209,10 +229,6 @@ STATUTORY GRANTS AND LEASES
 for the time being of the estate of a deceased person.
 
 [35/80]
-
-[35/80]
-
-[27/93]
 
 ### Implied covenants in statutory grant
 
@@ -240,7 +256,9 @@ for the time being of the estate of a deceased person.
 
 (c) that the officers of the Government and their workmen shall at all times have free access to the land for the purpose of making drains and sewers, and laying down water-pipes, electric and telegraph wires, and other underground communications, and using, repairing and maintaining the same;
 
-(d) that the Collector of Land Revenue and his officers shall at all times have free access to the land; and
+(d) that the Collector of Land Revenue and any officer authorised by him in writing shall at all times have free access to the land; and
+
+[9/2009 wef 05/03/2009]
 
 (e) that in case of breach of or default in observance of any of the covenants implied as mentioned in section 6 other than those for the payment of rent and the maintenance of landmarks, the Collector of Land Revenue or any officer authorised by him in writing, may, on behalf of the State, re-enter on the land, or on any portion thereof in the name of the whole, and thereupon the same shall be forfeited to and vest in the Government.
 
@@ -274,9 +292,15 @@ for the time being of the estate of a deceased person.
 
 [38/59]
 
-### Land granted for religious purposes, when resumable
+### Land granted for religious purposes, etc., when resumable
 
 10\.—(1) Any land granted or leased by or on behalf of the Crown or the State or the late East India Company free of rent, or at merely nominal rent, as a building site for a religious edifice, or otherwise for religious or charitable purposes, shall be forfeited to and vest in the Government if at any time the land or the building thereon is applied without the written consent of the President to other purposes than those, if any, specified in the grant or lease.
+
+[9/2009 wef 05/03/2009]
+
+(1A) For the purpose of giving effect to any provision of any international convention, treaty or agreement to which Singapore is a party, the Minister may, by order published in theGazette, vest in the Government such estate or interest in land pursuant to such provisions and specified in the order, and upon the coming into operation of any such order, the estate or interest to which the order relates shall, by virtue of that order and without any conveyance, assignment or further assurance, vest in the Government free from encumbrances.
+
+[9/2009 wef 05/03/2009]
 
 (2) This section shall apply to all grants and leases whenever made.
 
@@ -320,29 +344,41 @@ for the time being of the estate of a deceased person.
 
 ### Surrender of State lease with a view to grant of new State lease
 
-13A\.—(1) A State lease may be surrendered, whether before or after 4th August 1995, with a view to the acceptance of a new State lease in place thereof, without a surrender of any under-lease derived thereout.
-
-(2) A new State lease may be granted and accepted, in place of any State lease so surrendered, without any such surrender of an under-lease as aforesaid, and the new State lease operates as if all under-leases derived out of the surrendered State lease had been surrendered before the surrender of that State lease was effected.
+13A\.—(1) A State lease may be surrendered, whether before or after 4th August 1995, with a view to the acceptance of a new State lease in place thereof, without a surrender of any sub-lease derived thereout.
 
 [27/95]
 
-(3) The lessee under the new State lease and any person deriving title under him shall be entitled to the same rights and remedies in respect of the rent reserved by and the covenants, agreements and conditions contained in any under-lease as if the original State lease had not been surrendered but was or remained vested in him.
+[9/2009 wef 05/03/2009]
+
+(2) A new State lease may be granted and accepted, in place of any State lease so surrendered, without any such surrender of a sub-lease as aforesaid, and the new State lease operates as if all sub-leases derived out of the surrendered State lease had been surrendered before the surrender of that State lease was effected.
 
 [27/95]
 
-(4) Each under-lessee and any person deriving title under him shall be entitled to hold and enjoy the land comprised in his under-lease (subject to the payment of any rent reserved by and to observance of the covenants and conditions contained in the under-lease) as if the State lease out of which the under-lease was derived had not been surrendered.
+[9/2009 wef 05/03/2009]
+
+(3) The lessee under the new State lease and any person deriving title under him shall be entitled to the same rights and remedies in respect of the rent reserved by and the covenants, agreements and conditions contained in any sub-lease as if the original State lease had not been surrendered but was or remained vested in him.
 
 [27/95]
 
-(5) The Government in granting the new State lease shall be entitled to the same remedies, by distress or entry in and upon the land comprised in any such under-lease for rent reserved by or for breach of any covenant, agreement or condition contained in the new State lease (so far only as the rents reserved by or the covenants, agreements or conditions contained in the new State lease do not exceed or impose greater burdens than those reserved by or contained in the original State lease out of which the under-lease is derived) as he would have had —
+[9/2009 wef 05/03/2009]
 
-(a) the original State lease had remained on foot; or
+(4) Each sub-lessee and any person deriving title under him shall be entitled to hold and enjoy the land comprised in his sub-lease (subject to the payment of any rent reserved by and to observance of the covenants and conditions contained in the sub-lease) as if the State lease out of which the sub-lease was derived had not been surrendered.
 
-(b) a new under-lease derived out of the new State lease had been granted to the under-lessee or a person deriving title under him,
+[27/95]
+
+[9/2009 wef 05/03/2009]
+
+(5) The Government in granting the new State lease shall be entitled to the same remedies, by distress or entry in and upon the land comprised in any such sub-lease for rent reserved by or for breach of any covenant, agreement or condition contained in the new State lease (so far only as the rents reserved by or the covenants, agreements or conditions contained in the new State lease do not exceed or impose greater burdens than those reserved by or contained in the original State lease out of which the sub-lease is derived) as he would have had —
+
+(a) the original State lease had not been surrendered; or
+
+(b) a new sub-lease derived out of the new State lease had been granted to the sub-lessee or a person deriving title under him,
 
 as the case may be.
 
 [27/95]
+
+[9/2009 wef 05/03/2009]
 
 (6) For the purposes of subsection (5), the imposition of any covenant restricting the use or development of land comprised in a new State lease shall not be regarded as imposing a greater burden than those covenants contained in the original State lease.
 
@@ -359,6 +395,8 @@ GRANTS IN FEE SIMPLE
 ### Grants in fee simple
 
 14\.—(1) Subject to section 13, grants in fee simple shall not be issued otherwise than in accordance with this Part.
+
+[35/80]
 
 (2) Every grant in fee simple issued under this Part shall be in the prescribed form and shall be signed by the Collector of Land Revenue.
 
@@ -402,8 +440,6 @@ GENERAL
 
 (2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazetteand if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
-[35/80]
-
 ### Fees to be paid to Authority
 
 19A\.—(1) All fees collected in connection with any service provided by the Commissioner or Collector under this Act or any rules made thereunder shall be paid into the funds of the Authority.
@@ -412,9 +448,11 @@ GENERAL
 
 [17/2001 wef 01/06/2001]
 
-### Erection and repair of boundary marks
+### Erection and repair of wall, bank, etc.
 
-20\.—(1) Every owner or occupier of land abutting on State land shall define and keep defined the boundary between the land so owned or occupied by him and the adjoining State land by some wall, bank, ditch, fence, posts, marked trees, stones, road or path, or other sufficient means so as to show the boundary in its whole extent.
+20\.—(1) Every owner or occupier of land abutting on State land shall define and keep defined the boundary between the land so owned or occupied by him and the adjoining State land by some wall, bank, drains, fence, road or path, or other sufficient means so as to show the boundary in its whole extent.
+
+[9/2009 wef 05/03/2009]
 
 (2) In default of his so doing, the Collector of Land Revenue may call upon the owner or occupier by a notice in writing duly served as prescribed to define or renew the whole or any part of the boundary in the manner aforesaid.
 
@@ -426,7 +464,7 @@ State Lands Act
 
 (CHAPTER 314)
 
-This Legislative History is provided for the convenience of users of the State Lands Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the State Lands Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -565,3 +603,8 @@ This Legislative History is provided for the convenience of users of the State L
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|32.|**Act 9 of 2009—State Lands (Amendment) Act 2009**|
+||Date of First Reading|19 January 2009|
+|||(Bill No. 4/2009 published on 20 January 2009)|
+||Date of Second and Third Readings|13 February 2009|
+||Date of commencement|5 March 2009|
