@@ -3844,17 +3844,19 @@ General
 
 (c) in relation to treaty general reinsurance, a policy in the case of which more than 25% of the total risks in terms of gross premiums arises in Singapore.
 
+(1A) Notwithstanding sub-paragraph (1)(b), a policy where the insured is a person resident in Singapore or is a permanent establishment in Singapore shall not be regarded as a “Singapore policy” if it is in respect of cargo transported from a place outside Singapore to a place outside Singapore, whether or not the cargo is in transit in Singapore.
+
+[S 130/2009 wef 31/03/2009]
+
 (2) “Offshore policy”, in relation to any insurer, means any policy, other than a Singapore policy, issued in the course of the insurer’s business in Singapore.
 
 (3) For the purposes of this paragraph —
 
 (a) [Deleted by Act 23/2003 wef 01/01/2004]
 
-(b) “policy owner’s address” means the address for the time being known to the insurer as the address (or normal address) for communicating with the policy owner about the policy;
+(b) “policy owner’s address” means the address for the time being known to the insurer as the address (or normal address) for communicating with the policy owner about the policy; and
 
-(c) “resident in Singapore” and “permanent establishment” have the same meanings as in the Income Tax Act (Cap. 134); and
-
-(d) where any risk is in transit in Singapore it shall be deemed to be a risk outside Singapore.
+(c) “resident in Singapore” and “permanent establishment” have the same meanings as in the Income Tax Act (Cap. 134).
 
 (4) Sub-paragraph (1)(a) shall apply to a policy of reinsurance as if the references to the date of issue of the policy and to the policy owner’s address referred to those of the policy under which the liability reinsured ultimately arises.
 
@@ -4101,6 +4103,8 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1st March 2009 (Sections 3 & 4)|
+|26.|**G. N. No. S 130/2009—Insurance Act (Amendment of First Schedule) Order 2009**|
+||Date of commencement|31 March 2009|
 ## COMPARATIVE TABLE
 
 Insurance Act
