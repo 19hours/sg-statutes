@@ -118,6 +118,8 @@
 
 - [13W Exemption of relevant income of eligible family-owned investment holding company](#Exemption-of-relevant-income-of-eligible-family-owned-investment-holding-company)
 
+- [13X Exemption of income of approved personsarising from funds managed by fund manager in Singapore](#Exemption-of-income-of-approved-personsarising-from-funds-managed-by-fund-manager-in-Singapore)
+
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
 - [14 Deductions allowed](#Deductions-allowed)
@@ -2731,8 +2733,6 @@ and received in Singapore —
 
 (iii) any person, whether or not an individual, who is a partner of a limited liability partnership in Singapore and whose effective ownership through the limited liability partnership (by virtue of section 36A) of the issued ordinary shares of that non-resident company as at 21st January 2009 is more than 50% of the total number of those shares.
 
-[27/2009 wef 22/01/2009]
-
 (8B) For the purpose of subsection (8A)(b)(iii), the effective ownership of the partner of a limited liability partnership of the issued ordinary shares of the non-resident company as at 21st January 2009 shall be ascertained in accordance with the formula
 
 where A
@@ -2743,15 +2743,9 @@ B
 
 is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership.
 
-[27/2009 wef 22/01/2009]
-
 (8C) No exemption from tax shall be granted to any person under subsection (8A) unless the Comptroller is satisfied that the exemption would be beneficial to the person resident in Singapore.
 
-[27/2009 wef 22/01/2009]
-
 (8D) A person shall furnish to the Comptroller, in such form and manner and within such reasonable time as the Comptroller may determine, such information relating to income exempted under subsection (8A) as the Minister may direct the Comptroller to obtain for any statistical or research purpose.
-
-[27/2009 wef 22/01/2009]
 
 (9) The conditions referred to in subsection (8) are —
 
@@ -4645,6 +4639,48 @@ whichever is the earlier;
 
 (4) Where a company fails to satisfy the definition of “eligible family-owned investment holding company” in any basis period beginning on or after 1st April 2013, then this section shall not apply to the company in any subsequent basis period, even if it satisfies the definition in that subsequent basis period.
 
+### Exemption of income of approved personsarising from funds managed by fund manager in Singapore
+
+13X\.—(1) Subject to such conditions as may be prescribed by regulations, there shall be exempt from tax such income as the Minister may by regulations prescribe of any approved person arising from funds managed in Singapore by any prescribed fund manager.
+
+(2) Approval under subsection (1) may be granted during the period from 1st April 2009 to 31st March 2014 (both dates inclusive).
+
+[29/2010 wef 07/07/2010]
+
+(3) Where the income of any approved person is not exempt from tax under this section, sections 13C, 13CA and 13R shall not apply to that income notwithstanding anything in those provisions.
+
+[29/2010 wef 07/07/2010]
+
+(4) Regulations made under subsection (1) may —
+
+(a) provide for the determination of the amount of income of any approved person to be exempt from tax;
+
+[29/2010 wef 07/07/2010]
+
+(b) provide for the deduction of expenses, allowances, losses and donations of any approved person otherwise than in accordance with this Act;
+
+[29/2010 wef 07/07/2010]
+
+(c) where the approved person is a partner of an approved limited partnership, provide for the recovery of tax from him in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the partnership, including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non-compliance of the condition; and
+
+(d) make provision generally for giving full effect to or for carrying out the purposes of this section.
+
+(5) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“approved CPF unit trust” has the same meaning as in section 35(14);
+
+“approved person” means any approved company, any partner of an approved limited partnership or any trustee of an approved trust fund;
+
+“designated unit trust” means any unit trust designated under section 35(14);
+
+“real estate investment trusts” has the same meaning as in section 43(10);
+
+“trust fund” does not include any trust that is a pension or provident fund approved by the Comptroller under section 5, approved CPF unit trust, designated unit trust and real estate investment trust.
+
+[27/2009 wef 01/04/2009]
+
 ## PART V
 
 DEDUCTIONS AGAINST INCOME
@@ -5161,7 +5197,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be; or
 
 [34/2008 wef 01/04/2008]
 
@@ -6487,7 +6523,7 @@ and increased by any balancing charges made; or
 
 [28/80; 32/95; 53/2007]
 
-4(3) Notwithstanding subsection (1) or (2) or section 19A(1) , in respect of a motor car to which this subsection applies —
+4(3) Notwithstanding subsection (1) or (2) or section 19A(1) , in respect of a motor car to which this subsection applies –
 
 4This Subsection will be amended as set out in section 15(b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
@@ -6595,336 +6631,6 @@ in a case where the concessionary income (as defined in section 14D(5)) derived 
 
 in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
-### Allowances of 3 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.
-
-19A\.—(1) Notwithstanding section 19, where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purpose of that trade, profession or business, there shall be made to him, on due claim for any year of assessment and in lieu of the allowances provided by section 19, an annual allowance of 331/
-
-3
-
-% in respect of the capital expenditure incurred.
-
-8(1A) Any annual allowance under this section in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset remaining unallowed as at the beginning of the basis period for that year of assessment.
-
-[53/2007]
-
-8Subsection (1A) shall have effect from the year of assessment 2009.
-
-(2) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a computer or other prescribed automation equipment for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that computer or automation equipment.
-
-[27/2009 wef 29/12/2009]
-
-[15/83; 13/84; 7/85]
-
-(3) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, installed a generator in any office or factory for the supply of electrical power to that office or factory in the event of a disruption in the normal supply of electrical power, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that generator.
-
-[27/2009 wef 29/12/2009]
-
-[20/91]
-
-(4) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a robot for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that robot.
-
-[27/2009 wef 29/12/2009]
-
-[13/84]
-
-(5) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any efficient pollution control equipment or device for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the efficient pollution control equipment or device.
-
-[27/2009 wef 29/12/2009]
-
-[28/96]
-
-(6) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
-
-[27/2009 wef 29/12/2009]
-
-[28/96; 31/98]
-
-(7) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
-
-(a) certified low-decibel machine, equipment or system;
-
-(b) certified effective noise control device which is a distinct entity or an accessory of any new or existing machine, equipment or system; or
-
-(c) certified effective engineering noise control measure for any existing machine, equipment or process,
-
-for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective noise control device or measure.
-
-[27/2009 wef 29/12/2009]
-
-[31/98]
-
-(8) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
-
-(a) certified machine, equipment or system which reduces or eliminates exposure to chemical risk;
-
-(b) certified effective chemical hazard control device which is a distinct entity or an accessory of any new or existing machine, equipment or process; or
-
-(c) certified effective chemical hazard control measure for any existing machine, equipment or process,
-
-for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective chemical hazard control device or measure.
-
-[27/2009 wef 29/12/2009]
-
-[31/98]
-
-(9) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered any new vehicle as a replacement for an existing vehicle which used diesel oil as fuel and which was registered before 1st January 1991 and deregistered on or after 27th February 1999, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
-
-[27/2009 wef 29/12/2009]
-
-[53/2007]
-
-(9A) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered during the period from 15th February 2007 to 14th February 2012 any new vehicle which uses diesel oil as fuel, as a replacement for an existing vehicle which used diesel oil as fuel and which was registered on or after 1st January 1991 but before 1st October 2006, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
-
-[27/2009 wef 29/12/2009]
-
-[53/2007]
-
-(10) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
-
-[37/2002]
-
-(10A) Notwithstanding section 19 and subject to subsection (10B), where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure not exceeding $1,000 on the provision of any item of machinery or plant for the purposes of a trade, profession or business carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of —
-
-(a) 100% in respect of that capital expenditure; or
-
-(b) where allowances have been made under subsection (1) or section 19 for any previous year of assessment under subsection (10B), the amount of that capital expenditure still unallowed.
-
-[34/2005]
-
-[27/2009 wef 29/12/2009]
-
-(10B) The aggregate amount of allowances claimed by any person under subsection (10A) for any year of assessment shall not exceed $30,000; and allowances may be made under subsection (1) or section 19 in respect of any capital expenditure still unallowed.
-
-[27/2009 wef 29/12/2009]
-
-[34/2005]
-
-(10C) No allowance shall be made under subsection (10A) in respect of any item of machinery or plant which is acquired under a hire-purchase agreement and the original cost of that item of machinery or plant exceeds $1,000.
-
-[34/2005]
-
-(11) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
-
-[28/96; 31/98; 37/2002]
-
-(12) Any claim for allowances under this section shall be made at the time of lodgment of the return of income for the relevant years of assessment or within such further time as the Comptroller may, in his discretion, allow.
-
-(13) Where any allowance has been claimed and allowed under this section for any year of assessment, no allowances shall be made in any subsequent year of assessment under section 19 in respect of such expenditure.
-
-(13A) Where the tax relief period of a person to whom a certificate has been issued under Part II of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) expires in any basis period ending on or after 1st January 1992 and the person has —
-
-(a) at the end of the basis period immediately following that basis period, in use machinery or plant in respect of which capital allowances have been made under section 19; and
-
-(b) before the end of the year of assessment which relates to the basis period referred to in paragraph (a), so elected,
-
-there shall be made to him for a period of 3 years an annual allowance of 331/
-
-3
-
-% in respect of the capital expenditure remaining unallowed under section 19 in respect of the machinery or plant as at the end of that basis period.
-
-[13/84; 11/94]
-
-(13B) Where a person to whom a certificate has been issued under the repealed Part IV, VI, VII, XI or XII of the Economic Expansion Incentives (Relief from Income Tax) Act has —
-
-(a) at the end of the basis period immediately following the expiry of his tax relief period, in use machinery or plant in respect of which capital allowances have been made under section 19; and
-
-(b) before the end of the year of assessment which relates to that basis period, so elected,
-
-there shall be made to him for a period of 3 years an annual allowance of 331/
-
-3
-
-% in respect of the capital expenditure remaining unallowed under section 19 in respect of the machinery or plant as at the end of that basis period.
-
-[13/84; 11/94]
-
-(14) Subject to subsections (10A), (13A) and (13B), where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister or the Comptroller and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
-
-[34/2005]
-
-(14A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
-
-[49/2004]
-
-(14B) Subject to subsection (14C), this section(other than subsections (2) to (10C)) shall, with the necessary modifications, apply to a person carrying on any trade or business who incurs during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) capital expenditure on the provision of machinery or plant for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, even though the machinery or plant is not for the purpose of that trade or business.
-
-[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
-
-[29/2010 wef 22/11/2010]
-
-[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
-
-(14C) Section 14D(4) and (5) shall apply in relation to the allowance for the capital expenditure referred to in subsection (14B) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
-
-(a) a reference to the amount of the expenditure or payments is a reference to the amount of the allowance;
-
-(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
-
-(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
-
-where A
-
-is the amount of allowance that could have been made against the income of the person under subsection (14B) if the income had been subject to tax at the rate specified in section 43(1)(a);
-
-B
-
-is the rate of tax specified in section 43(1)(a); and
-
-C
-
-is —
-
-(i)
-
-in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
-
-(ii)
-
-in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
-
-(15) In this section —
-
-“automation equipment” means any machinery or plant designed for the automation of functions or servicesin any office or factory within the meaning of section 5 of the Workplace Safety and Health Act (Cap. 354A);
-
-“certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
-
-“certified effective chemical hazard control device” means —
-
-(a) any local exhaust ventilation system;
-
-(b) any fugitive emission control equipment or system; or
-
-(c) any dilution ventilation system,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified effective chemical hazard control measure” means —
-
-(a) any enclosed or automated system; or
-
-(b) any modification to machine, equipment or process,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified effective engineering noise control measure” means —
-
-(a) any detachable personnel acoustic enclosure;
-
-(b) any acoustic barrier or shield;
-
-(c) any acoustic absorption device; or
-
-(d) any modification to machine, equipment or process,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified effective noise control device” means —
-
-(a) any acoustic enclosure for machine, equipment or process;
-
-(b) any acoustic silencer or muffler;
-
-(c) any vibration absorption, isolation or damping device; or
-
-(d) any active noise control device,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified energy-efficient equipment” means —
-
-(a) any air-conditioning system;
-
-(b) any boiler;
-
-(c) any water pumping system;
-
-(d) any washing or dry-cleaning machine system;
-
-(e) any refrigeration system;
-
-(f) any lift or escalator; and
-
-(g) any instant hot water system,
-
-which has been certified by a professional engineer registered under the Professional Engineers Act (Cap. 253) to be more energy-efficient than the equipment which it replaces;
-
-“certified energy-saving equipment” means —
-
-(a) any solar heating or cooling system;
-
-(b) any solar energy collection system;
-
-(c) any heat recovery system;
-
-(d) any power factor controller;
-
-(e) any high efficiency electric motor;
-
-(f) any variable speed drive motor control system;
-
-(g) any high frequency lighting system;
-
-(h) any computerised energy management system; and
-
-(i) any other energy-saving equipment or device,
-
-which has been certified by the Standards, Productivity and Innovation Board to be an energy-saving equipment;
-
-“certified low-decibel machine, equipment or system” means —
-
-(a) any concrete crusher or splitter;
-
-(b) any plastic granulator or crusher;
-
-(c) any automatic sawing machine;
-
-(d) any metal press or stamping machine;
-
-(e) any machine with active noise control feature; or
-
-(f) any other machine, equipment or system,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“certified machine, equipment or system which reduces or eliminates exposure to chemical risk” means —
-
-(a) any water-based degreasing machine or system;
-
-(b) any automated bagging or packing machine or system;
-
-(c) any automated degreasing machine or system; or
-
-(d) any other machine, equipment or system,
-
-which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
-
-“computer” means any computer used for automatic data processing and includes any part thereof;
-
-“efficient pollution control equipment or device” means any equipment or device for the purposes of preventing, controlling or reducing air pollution or water pollution which satisfies the prescribed criteria;
-
-“existing vehicle” means any goods vehicle or bus using diesel oil as fuel which —
-
-(a) is not a vehicle registered under the RU index marks;
-
-(b) is deregistered not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act (Cap. 276) in respect of the vehicle; and
-
-(c) has, unless the vehicle has been exempted from obtaining a certificate of entitlement, at the date of deregistration of the vehicle —
-
-(i) at least one year remaining in its certificate of entitlement; or
-
-(ii) a certificate of entitlement which can be renewed after its expiration;
-
-“goods vehicle” means any motor vehicle constructed or adapted for use for the carriage of goods;
-
-“new vehicle” means any new goods vehicle or new bus which —
-
-(a) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle which uses diesel oil as fuel; and
-
-(b) bears an index mark which is the same as that of the index mark of such existing vehicle, and for this purpose, where the new goods vehicle and such existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of such existing vehicle;
-
-“website” means a collection of programmes, data and images which is accessible over the Internet or any network using a browser or any other form of access.
-
 ### Writing-down allowances for intellectual property rights
 
 19B\.—(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
@@ -6952,8 +6658,6 @@ which has been certified by the Standards, Productivity and Innovation Board or 
 (a) shall be made to it during a writing-down period of 2 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred; and
 
 (b) for each such year of assessment shall be an amount equal to 50% of the capital expenditure incurred.
-
-[27/2009 wef 22/01/2009]
 
 (3) Any capital expenditure incurred on the acquisition of any intellectual property rights by a company before the commencement of its trade or business shall be treated for the purpose of this section as if it had been incurred by it on the first day it commences that trade or business.
 
@@ -7035,8 +6739,6 @@ is the total amount of any charges made under this section in any previous years
 
 “approved” means approved by the Minister or such person as he may appoint, subject to such conditions as he may impose;
 
-[27/2009 wef 22/01/2009]
-
 “capital expenditure” does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any intellectual property rights;
 
 “intellectual property rights” means the right to do or authorise the doing of anything which would, but for that right, be an infringement of any patent, copyright, trademark, registered design, geographical indication, lay-out design of integrated circuit, trade secret or information that has commercial value ;
@@ -7048,8 +6750,6 @@ is the total amount of any charges made under this section in any previous years
 [24/2001; 21/2003]
 
 “media and digital entertainment company” means a company whose principal trade or business is to provide media and digital entertainment in Singapore;
-
-[27/2009 wef 22/01/2009]
 
 “related party” has the same meaning as in section 13(16).
 
@@ -8276,8 +7976,6 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 (e) for the modification and exception to any prescribed section of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) as it applies to an amalgamated company; and
 
 (f) generally for giving full effect to or for carrying out the purposes of this section.
-
-[27/2009 wef 22/01/2009]
 
 ## PART VIII
 
@@ -14162,8 +13860,6 @@ $100,000
 
 Part C
 
-Part C
-
 Rates of Tax for the Computation of Relief
 
 
@@ -15779,6 +15475,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|22 January 2009 (Section 22)|
+|244.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 April 2009 (Section 14)|
+|245.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 April 2009 (Sections 13(d), 14(a), 44(d), 53(d))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
