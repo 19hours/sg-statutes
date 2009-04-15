@@ -188,9 +188,13 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (a) any claim relating to a dispute arising from any contract for the sale of goods or the provision of services;
 
+[43/2005 wef 15/02/2006]
+
 (b) any claim in tort in respect of damage caused to any property; and
 
 [17/95]
+
+[43/2005 wef 15/02/2006]
 
 (c) any claim relating to a dispute arising from any contract for the lease of residential premises that does not exceed 2 years.
 
@@ -219,6 +223,10 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 (5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal shall discontinue the proceedings and advise the claimant and respondent accordingly.
 
 [17/95]
+
+(6) For the purposes of this section, a contract to buy or sell foreign currency notes made with a person holding a valid money-changer’s licence under the Money-changing and Remittance Businesses Act (Cap. 187) is deemed to be a contract for the provision of services.
+
+[15/2008 wef 15/04/2009]
 
 ### Exclusion of other jurisdictions
 
@@ -822,7 +830,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) For the avoidance of doubt as to the privileges and immunities of Referees, parties, representatives and witnesses in the proceedings of a tribunal, it is declared that such proceedings are judicial proceedings.
 
-(3) The privileges and immunities referred to in subsection (2) shall extend and apply to --
+(3) The privileges and immunities referred to in subsection (2) shall extend and apply to —
 
 (a) a tribunal acting under section 28(3) and (4); and
 
@@ -937,3 +945,9 @@ This Legislative History is provided for the convenience of users of the Small C
 |||(Bill No. 29/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|15 February 2006|
+|12.|**Act 15 of 2008—Consumer Protection (Fair Trading) (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 10/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Dates of commencement|15 April 2009 (Except section 8(c))|
