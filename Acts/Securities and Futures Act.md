@@ -1308,7 +1308,9 @@ but does not include such person or class of persons as may be prescribed; or
 
 (B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time,
 
-and includes a futures option transaction; or
+and includes a futures option transaction, but does not include such contract or class of contracts as the Authority may prescribe; or
+
+[2/2009 wef 20/04/2009]
 
 (ii) such other contract or class of contracts as the Authority may prescribe;
 
@@ -1320,7 +1322,9 @@ and includes a futures option transaction; or
 
 (B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of the futures market at which the contract is made,
 
-and includes a futures option transaction; or
+and includes a futures option transaction, but does not include such contract or class of contracts as the Authority may prescribe; or
+
+[2/2009 wef 20/04/2009]
 
 (ii) such other contract or class of contracts as the Authority may prescribe;
 
@@ -1440,9 +1444,15 @@ and includes a futures option transaction; or
 
 (e) any unit in a collective investment scheme;
 
-(f) any unit in a business trust; or
+(f) any unit in a business trust;
 
-(g) any derivative of a unit in a business trust,
+[2/2009 wef 20/04/2009]
+
+(g) any derivative of a unit in a business trust; or
+
+[2/2009 wef 20/04/2009]
+
+(h) such other product or class of products as the Authority may prescribe,
 
 but does not include —
 
@@ -1450,9 +1460,13 @@ but does not include —
 
 (ii) bills of exchange;
 
-(iii) promissory notes; or
+(iii) promissory notes;
 
-(iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere;
+(iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere; or
+
+(v) such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 “securities exchange” means an approved exchange in respect of the operation of its securities market;
 
@@ -8064,7 +8078,7 @@ Prohibited Conduct — Securities
 
 (i) debentures, stocks or shares issued or proposed to be issued by a corporation;
 
-(ii) any right, option or derivative in respect of any such debentures, stocks or shares; or
+(ii) any right, option or derivative in respect of any such debentures, stocks or shares;
 
 (iii) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
 
@@ -8072,7 +8086,9 @@ Prohibited Conduct — Securities
 
 (B) the value or price of any group of any such debentures, stocks or shares; or
 
-(C) an index of any such debentures, stocks or shares,
+(C) an index of any such debentures, stocks or shares; or
+
+(iv) such other product or class of products as the Authority may prescribe,
 
 but does not include —
 
@@ -8080,9 +8096,13 @@ but does not include —
 
 (BB) bills of exchange;
 
-(CC) promissory notes; or
+(CC) promissory notes;
 
-(DD) certificates of deposit issued by a bank or finance company;
+(DD) certificates of deposit issued by a bank or finance company; or
+
+(EE) such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 (b) in relation to a business trust, for the purposes of sections 196(a)(ia) and (b)(ia), 198, 202 and 203, means —
 
@@ -8090,17 +8110,23 @@ but does not include —
 
 (ii) derivatives of units in a business trust;
 
-(iii) debentures of a business trust; or
+(iii) debentures of a business trust;
 
-(iv) any right, option or derivative in respect of any such debentures,
+(iv) any right, option or derivative in respect of any such debentures; or
+
+(v) such other product or class of products as the Authority may prescribe,
 
 but does not include —
 
 (A) futures contracts;
 
-(B) bills of exchange; or
+(B) bills of exchange;
 
-(C) promissory notes; and
+(C) promissory notes; or
+
+(D) such other product or class of products as the Authority may prescribe as not being securities; and
+
+[2/2009 wef 20/04/2009]
 
 (c) in any other case, has the same meaning as in section 2.
 
@@ -8424,9 +8450,15 @@ Insider Trading
 
 (B) the value or price of any group of any such debentures, stocks or shares; or
 
-(C) an index of any such debentures, stocks or shares; or
+(C) an index of any such debentures, stocks or shares;
 
-(iv) a futures contract only if the commodity which is the subject of the futures contract is a share or stock of a corporation;
+(iv) a futures contract only if the commodity which is the subject of the futures contract is a share or stock of a corporation; or
+
+(v) such other product or class of products as the Authority may prescribe,
+
+but does not include such product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 (b) in relation to a business trust, for the purposes of sections 213(a)(ia) and (b)(ia) and 218(1A) and (4A) —
 
@@ -8434,9 +8466,15 @@ Insider Trading
 
 (ii) derivatives of units in a business trust;
 
-(iii) debentures of a business trust; or
+(iii) debentures of a business trust;
 
-(iv) any right, option or derivative in respect of any such debentures; and
+(iv) any right, option or derivative in respect of any such debentures; or
+
+(v) such other product or class of products as the Authority may prescribe,
+
+but does not include such product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 (c) in any other case —
 
@@ -8456,17 +8494,23 @@ Insider Trading
 
 (B) the value or price of any group of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust; or
 
-(C) an index of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust; or
+(C) an index of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust;
 
-(vii) a futures contract only if the commodity which is the subject of the futures contract is a share or share index, or stock or stock index,
+(vii) a futures contract only if the commodity which is the subject of the futures contract is a share or share index, or stock or stock index; or
+
+(vii) such other product or class of products as the Authority may prescribe,
 
 but does not include —
 
 (AA) bills of exchange;
 
-(BB) promissory notes; or
+(BB) promissory notes;
 
-(CC) certificates of deposit issued by a bank or finance company;
+(CC) certificates of deposit issued by a bank or finance company; or
+
+(DD) such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 “sell”, in relation to securities, includes, in the case of an option contract under which a party acquires an option or right from another party —
 
@@ -9108,7 +9152,19 @@ when the trustee acts in that capacity; and
 
 “replacement document” means a replacement prospectus or a replacement profile statement referred to in section 241(1), as the case may be;
 
-“securities” means debentures or units of debentures of an entity, or shares or units of shares of a corporation;
+“securities” means —
+
+(a) shares or units of shares of a corporation;
+
+(b) debentures or units of debentures of an entity;
+
+(c) interests in a limited partnership or limited liability partnership formed in Singapore or elsewhere; or
+
+(d) such other product or class of products as the Authority may prescribe,
+
+but does not include such other product or class of products as the Authority may prescribe as not being securities;
+
+[2/2009 wef 20/04/2009]
 
 “statutory meeting” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -17016,59 +17072,113 @@ Section 320(1A)
 
 Specified Provisions
 
-1\. Section 14(2) and (8)
+1. 
 
-2\. Section 15(1)
+Section 14(2) and (8)
 
-3\. Section 35
+2. 
 
-4\. Section 59(3)
+Section 15(1)
 
-5\. Section 81C
+3. 
 
-6\. Section 81ZI
+Section 35
 
-7\. Section 83(2)(b)
+4. 
 
-8\. Section 99(1)(h)
+Section 59(3)
 
-9\. Section 120(4)
+5. 
 
-10\. Section 247(1)
+Section 81C
 
-11\. Section 248(2) and (5)
+6. 
 
-12\. Section 249(3)
+Section 81ZI
 
-13\. Section 251(14)
+7. 
 
-14\. Section 259(3)
+Section 83(2)(b)
 
-15\. Section 262(2)
+8. 
 
-16\. Section 277(2)
+Section 99(1)(h)
 
-17\. Section 282H(1)
+9. 
 
-18\. Section 282I(5)
+Section 120(4)
 
-19\. Section 282L(14)
+10. 
 
-20\. Section 282S(3)
+Section 247(1)
 
-21\. Section 282ZB(3)
+11. 
 
-22\. Section 300(9)
+Section 248(2) and (5)
 
-23\. Section 302 (when applying section 247(1) or 249(3))
+12. 
 
-24\. Section 305B(3)
+Section 249(3)
 
-25\. Section 306(1)
+13. 
 
-26\. Section 309(3)(a)
+Section 251(14)
 
-27. Section 337(3).
+14. 
+
+Section 259(3)
+
+15. 
+
+Section 262(2)
+
+16. 
+
+Section 277(2)
+
+17. 
+
+Section 282H(1)
+
+18. 
+
+Section 282I(5)
+
+19. 
+
+Section 282L(14)
+
+20. 
+
+Section 282S(3)
+
+21. 
+
+Section 282ZB(3)
+
+22. 
+
+Section 300(9)
+
+23. 
+
+Section 302 (when applying section 247(1) or 249(3))
+
+24. 
+
+Section 305B(3)
+
+25. 
+
+Section 306(1)
+
+26. 
+
+Section 309(3)(a)
+
+27. 
+
+Section 337(3).
 
 [1/2005]
 
@@ -17249,6 +17359,11 @@ This Legislative History is provided for the convenience of users of the Securit
 |||27 February 2008|
 |16.|**G. N. No. S 376/2008—Securities and Futures Act (Amendment of Second Schedule and Other Provisions to Act for REIT Management) Order 2008**|
 ||Date of commencement|1 August 2008|
+|17.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+||Date of First Reading|15 September 2008|
+|||(Bill No. 23/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|20 April 2009|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
