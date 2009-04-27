@@ -1216,3 +1216,8 @@ This Legislative History is provided for the convenience of users of the Private
 |||(publication date)|
 |2.|**2008 Revised Edition—Private Security Industry Act**|
 ||Date of operation|31 December 2008|
+|3.|**Act 38 of 2007—Private Security Industry Act 2007**|
+||Date of First Reading|16 July 2007|
+|||(Bill No. 26/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|27 April 2009|
