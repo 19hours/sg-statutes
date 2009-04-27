@@ -362,8 +362,6 @@ PRELIMINARY
 
 “prescribed age” means such age of a member as the Minister may prescribe by regulations made under section 77(1), and the Minister may prescribe different ages for different purposes and in respect of different classes of members;
 
-[25/2008 wef 01/11/2008]
-
 “retirement account” means a retirement account maintained —
 
 (a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) ; and
@@ -814,11 +812,15 @@ CONTRIBUTIONS TO FUND
 
 (ii) subject to paragraph (b)(ii), any voluntary contribution paid by the employer of that person under section 7(4)(c) in that year; and
 
+(iii) [Deleted by Act 25/2008 wef 01/11/2008]
+
 (b) the following amounts shall be excluded:
 
 (i) any contribution made by a person in that year under sections 73 and 79;
 
 [40/2007 wef 01/10/2007]
+
+(ia) [Deleted by Act 25/2008 wef 01/11/2008]
 
 (ii) any voluntary contribution made in that year by the employer of that person under section 7(4)(c) specifically for the purposes of that person’s medisave account, where such voluntary contribution does not exceed $1,500; and
 
@@ -827,6 +829,10 @@ CONTRIBUTIONS TO FUND
 (iii) any contribution made in that year by that person or any other person under section 27B, 27C, 27D, 27E or 27F or under any regulations referred to in section 27G or 27H.
 
 [31/2003 wef 01/01/2004]
+
+(4) [Deleted by Act 25/2008 wef 01/11/2008]
+
+(5) [Deleted by Act 25/2008 wef 01/11/2008]
 
 ### Payment of cash grant by Government into Fund
 
@@ -925,10 +931,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 (f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
 (g) is suffering from a terminal illness or disease.
-
-[25/2008 wef 01/11/2008]
-
-[18/2009 wef 01/03/2010]
 
 (2A) A member of the Fund who is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
 
@@ -1302,8 +1304,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (b) any person to pay money into the retirement account of a member who has attained the age of 55 years; or
 
-[25/2008 wef 01/11/2008]
-
 (c) any person to voluntarily maintain, in a retirement account with the Board —
 
 (i) a minimum sum; or
@@ -1332,8 +1332,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (b) any person to pay money into the special account of a member who has not attained the age of 55 years.
 
-[25/2008 wef 01/11/2008]
-
 [40/2007 wef 01/01/2008]
 
 (4) Subject to subsection (6), where a member is a spouse or sibling to whose special account any moneys have been transferred under subsection (3)(a) —
@@ -1356,8 +1354,6 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 shall be transferred by the Board to the member’s retirement account when the member attains the age of 55 years.
 
-[25/2008 wef 01/11/2008]
-
 (6) Where, when a member attains the age of 55 years, the total amount of the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) exceeds the minimum sum applicable to the member —
 
 (a) the total amount to be transferred by the Board to the member’s retirement account under subsections (4) and (5) shall not exceed the minimum sum applicable to the member; and
@@ -1368,13 +1364,9 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (ii) the moneys and interest referred to in subsection (5)(a) and (b).
 
-[25/2008 wef 01/11/2008]
-
 (7) All moneys transferred to or paid into a special account under subsection (3) shall be applied in accordance with any regulations made under section 77(1)(oa) and such terms and conditions as the Board may impose.
 
 (8) Any moneys transferred under subsection (1)(a), (2)(a) or (3)(a), paid under subsection (1)(b), (2)(b) or (3)(b) or maintained under subsection (1)(c) shall be deemed to be contributions for the purposes of this Act.
-
-[25/2008 wef 01/11/2008]
 
 ### Transfer of member’s moneys in ordinary account or special account to retirement account
 
@@ -1461,8 +1453,6 @@ shall be transferred by the Board to the member’s retirement account when the 
 (a) subsection (6) shall not apply to those moneys; and
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
-
-[25/2008 wef 01/11/2008]
 
 ### Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)
 
@@ -1870,8 +1860,6 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 (b) comply with such administrative or operational requirements as the Board may reasonably impose under an arrangement between the Board and the approved educational institution.
 
-[25/2008 wef 01/11/2008]
-
 (5B) Without prejudice to subsections (3), (4) and (5), where any sum standing to the credit of a member in the Fund has been withdrawn and paid to an approved educational institution in error —
 
 (a) the approved educational institution shall repay to the Board, to the account of the member in the Fund, that sum, together with the whole or such part, as the Board may determine, of the interest that would have been payable thereon;
@@ -1886,17 +1874,11 @@ for the repayment to the Board to the account of that member in the Fund from wh
 
 (d) any sum not paid to the Board under paragraph (b) may be sued for and recovered by the Board as a debt due to the Board.
 
-[25/2008 wef 01/11/2008]
-
 (6) In this section —
 
 “approved educational institution” means any educational institution in Singapore approved by the Minister for the purposes of subsection (1);
 
-[25/2008 wef 01/11/2008]
-
 “course of study” means any course of study which is of a type prescribed by the Minister for the purposes of subsection (1);
-
-[25/2008 wef 01/11/2008]
 
 “relative” means a person who is related to a member and who is dependent on that member for his care and maintenance;
 
@@ -1940,15 +1922,11 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
-[25/2008 wef 01/11/2008]
-
 (3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund —
 
 (a) shall not pass to the Official Assignee on the bankruptcy of the member; and
 
 (b) shall be deemed not to form part of the property of the member.
-
-[25/2008 wef 01/11/2008]
 
 (3A) Subject to subsection (3B), sections 16A and 57C and any regulations made under section 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
@@ -5854,7 +5832,9 @@ Self-employed Persons
 
 28\. Price Control Act (Cap. 244).
 
-29\. Private Investigation and Security Agencies Act (Cap. 249).
+29. Private Security Industry Act 2007.
+
+[Cap 250A, wef 27/04/2009:2008-REVED-250A]
 
 30\. Public Entertainments and Meetings Act (Cap. 257).
 
@@ -6478,6 +6458,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 21/2008 published on 26 August 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 November 2008|
+|160.|**Act 38 of 2007—Private Security Industry Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 July 2007|
+|||(Bill No. 26/2007 published on 17 July 2007)|
+||Date of Second and Third Readings|27 August 2007|
+||Date of commencement|27 April 2009|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
