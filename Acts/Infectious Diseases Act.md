@@ -206,7 +206,7 @@
 
 (CHAPTER 137)
 
-(Original Enactment: 2003 Revised Edition)
+(Original Enactment: 2003 REVISED EDITION)
 
 REVISED EDITION 2003
 
@@ -2022,6 +2022,10 @@ Infectious Diseases
 
 (e) Syphilis.
 
+30A. Swine Influenza.
+
+[S 176/2009 wef 28/04/2009]
+
 31\. Typhoid.
 
 32\. Tuberculosis.
@@ -2081,7 +2085,13 @@ Section 21A(1), (2) and (3)
 
 Diseases in Respect of Which Acts Referred to in Section 21A Are Prohibited
 
-Severe Acute Respiratory Syndrome (SARS).
+1. Severe Acute Respiratory Syndrome (SARS).
+
+[S 176/2009 wef 28/04/2009]
+
+2. Swine Influenza.
+
+[S 176/2009 wef 28/04/2009]
 
 SIXTH SCHEDULE
 
@@ -2092,6 +2102,10 @@ Diseases in Respect of Which Information May be Disclosed by the Director to A P
 (1) Severe Acute Respiratory Syndrome (SARS).
 
 [S 616/2008 wef 01/12/2008]
+
+(1A) Swine Influenza.
+
+[S 176/2009 wef 28/04/2009]
 
 (2) Tuberculosis.
 
@@ -2212,6 +2226,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 December 2008|
 |30.|**G. N. No. S 614/2008—Infectious Diseases Act (Amendment of First Schedule) Notification 2008**|
 ||Date of commencement|19 December 2008|
+|31.|**G. N. No. S 176/2009—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2009**|
+||Date of commencement|28 April 2009|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
