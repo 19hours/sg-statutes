@@ -1800,6 +1800,10 @@ MB BS
 
 MB BS
 
+11. Australian National University Medical School
+
+MB BS
+
 Austria
 
 1. Medizinische Universitat Wien
@@ -1948,9 +1952,7 @@ MB BS
 
 MB BS
 
-4. Maulana Azad Medical College, Delhi University
-
-MB BS
+4.Deleted by S 521/2009, wef 30/10/2009.
 
 5. Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Pondicherry University
 
@@ -2102,35 +2104,37 @@ People’s Republic of China
 
 1. Peking University Health Science Centre (PUHSC)
 
-Bachelor of Medicine
+Master of Medicine, Doctor of Medicine
 
 2. Shanghai Medical College, Fudan University
 
-Bachelor of Medicine
+Doctor of Medicine
 
 3. Peking Union Medical College (PUMC), Tsinghua University
 
-Bachelor of Medicine
+Doctor of Medicine
 
 4. Shanghai Jiao Tong University School of Medicine
 
-Bachelor of Medicine
+Doctor of Medicine
 
 5. Sun Yat-Sen College of Medical Science (Guangdong), Sun Yat-Sen University
 
-Bachelor of Medicine
+Doctor of Medicine
 
 6. Zhejiang University School of Medicine
 
-Bachelor of Medicine
+Master of Medicine, Doctor of Medicine
 
 7. School of Medicine , Wuhan University
 
-Bachelor of Medicine
+Master of Medicine, Doctor of Medicine
 
 8. The West China College of Medicine, Sichuan University
 
 Bachelor of Medicine
+
+Master of Medicine, Doctor of Medicine
 
 South Korea
 
@@ -2328,6 +2332,10 @@ MB BCh
 
 MB BS
 
+22. School of Medicine, Cardiff University
+
+MB BCh in Medicine
+
 United States
 
 
@@ -2487,7 +2495,7 @@ Doctor of Medicine
 
 Doctor of Medicine
 
-[S 525/2007 wef 01/10/2007]
+[S 521/2009 wef 30/10/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -2535,6 +2543,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|1 April 2007|
 |12.|**G. N. No. S 525/2007—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2007**|
 ||Date of commencement|1 October 2007|
+|13.|**G. N. No. S 183/2009—Medical Registration Act (Amendment of Schedule) Order 2009**|
+||Date of commencement|29 April 2009|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
