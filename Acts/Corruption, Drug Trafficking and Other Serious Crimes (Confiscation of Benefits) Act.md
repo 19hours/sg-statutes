@@ -2731,7 +2731,7 @@ Section 2
 
 Serious Offences
 
-Part I — Offences included as serious offences with effect from 13th September 1999
+Part i — Offences included as serious offences with effect from 13th September 1999
 
 Offences
 
@@ -2747,9 +2747,13 @@ Concealing or transferring benefits from criminal conduct
 
 Children and Young Persons Act (Cap\. 38) 
 
-3. Section 4(1), 5(a) and (b)
+3. Section 5(1) (previously section 4(1) and (5)(a) and (b) of the 1994 Revised Edition)
 
-Ill-treatment of child or young person.
+Ill-treatment of child or young person
+
+3A. Section 6(1) (previously section 5(1) of the 1994 Revised Edition)
+
+Contribution to delinquency of child or young person
 
 Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65) 
 
@@ -3483,7 +3487,11 @@ Importation of woman or girl by false pretences
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-Part II — Offences included as serious offences with effect from 9th September 2005
+[20/2001 wef 01/10/2001]
+
+[S 187/2009 wef 01/05/2009]
+
+Part ii — Offences included as serious offences with effect from 9th September 2005
 
 [S 579/2005 wef 09/09/2005]
 
@@ -3505,7 +3513,7 @@ Harassing borrower, besetting his residence, etc.
 
 [25/99]
 
-Part III — Offences included as serious offences with effect from 8th May 2006
+Part iii — Offences included as serious offences with effect from 8th May 2006
 
 [S 254/2006 wef 08/05/2006]
 
@@ -4137,7 +4145,7 @@ Keeping or management of brothels
 
 [26/2007 wef 01/01/2008]
 
-Part IV — Offences included as serious offences
+Part iv — Offences included as serious offences
 
 
 
@@ -4166,7 +4174,7 @@ Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-Part V — Offences included as serious offences
+Part v — Offences included as serious offences
 
 
 
@@ -4211,21 +4219,25 @@ Advancing or furnishing money for establishing or conducting common gaming house
 
 Customs Act (Cap\. 70) 
 
-300. Section 130(1)(a)
+300. Section 128E (previously section 130(1)(e) of the 2004 Revised Edition)
 
-Import, export, shipping, unshipping, loading, unloading, landing or delivery of any uncustomed or prohibited goods, etc.
+Offences in relation to goods found in person’s baggage or upon his person, etc.
 
-301. Section 130(1)(c)
+301. Section 128F (previously section 130(1)(a) of the 2004 Revised Edition)
 
-Storing, keeping or having possession of any dutiable, prohibited or uncustomed goods
+Offences in relation to importation of uncustomed or prohibited goods
 
-302. Section 130(1)(e)
+302. Section 128G (previously section 130(1)(a) of the 2004 Revised Edition)
 
-Being found in possession of any dutiable or prohibited goods after having denied the same
+Offences in relation to exportation of uncustomed or prohibited goods
 
-303. Section 130(1)(i)
+303. Section 128H (previously section 130(1)(a) of the 2004 Revised Edition)
 
-Knowingly harbouring or concealing any dutiable, uncustomed or prohibited goods
+Offences in relation to shipping, unshipping, loading, unloading, etc., of uncustomed or prohibited goods
+
+303A. Section 128I(a) and (c) (previously section 130(1)(c) and (i) of the 2004 Revised Edition)
+
+Offences in relation to possession, storage, conveying and harbouring of goods
 
 304. Section 132
 
@@ -4349,7 +4361,9 @@ Contravention of order for restraint of property
 
 *Note: The short description of offences is for ease of reference only.
 
-Part VI — Offences included as serious offences with effect from 1st February 2008
+[S 187/2009 wef 01/05/2009]
+
+Part vi — Offences included as serious offences with effect from 1st February 2008
 
 Offences
 
@@ -4459,7 +4473,7 @@ Making or possessing equipment for making a false instrument
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
-Part VII — Offences included as serious offences
+Part vii — Offences included as serious offences
 
 
 
@@ -4479,6 +4493,41 @@ Terrorist bombing
 356. Section 4
 
 Failure to disclose information about acts of terrorist bombing
+
+Part viiiPart VIII — Offences included as serious offences
+
+
+
+
+with effect from 1st May 2009
+
+[S 187/2009 wef 01/05/2009]
+
+Offences
+
+Description*
+
+Casino Control Act (Cap\. 33A) 
+
+357. Section 171
+
+Possession of certain things prohibited
+
+358. Section 172
+
+Unlawful interference with gaming equipment
+
+359. Section 173
+
+Possession of chips outside designated site
+
+360. Section 174
+
+Forgery
+
+*Note: The short description of offences is for ease of reference only.
+
+[S 187/2009 wef 01/05/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -4592,6 +4641,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 33/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 March 2009|
+|24.|**G. N. No. S 187/2009—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2009**|
+||Date of commencement|1 May 2009|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
