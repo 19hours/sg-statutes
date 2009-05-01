@@ -6626,6 +6626,14 @@ Registration of charges
 
 [40/89]
 
+(3B) A charge referred to in subsection (3) does not include a charge created at any time on or after the date of commencement of the International Interests in Aircraft Equipment Act 2009 to the extent that it is capable of being registered under that Act.
+
+[5/2009 wef 01/05/2009]
+
+(3C) In subsection (3B), “registered” has the same meaning as in section 2(1) of the International Interests in Aircraft Equipment Act 2009.
+
+[5/2009 wef 01/05/2009]
+
 (4) Where a charge created in Singapore affects property outside Singapore, the statement containing the prescribed particulars of the charge may be lodged for registration under and in accordance with subsection (1) notwithstanding that further proceedings may be necessary to make the charge valid or effectual according to the law of the place in which the property is situate.
 
 [13/87; 12/2002]
@@ -6871,8 +6879,6 @@ Directors and officers
 [5/2004]
 
 (2) No person other than a natural person who has attained the age of 18 years and who is otherwise of full legal capacity shall be a director of a company.
-
-[7/2009 wef 01/03/2009]
 
 (3) [Deleted by Act 12 of 2002]
 
@@ -17039,6 +17045,12 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1st March 2009|
+|97.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 37/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 May 2009|
 ## COMPARATIVE TABLE
 
 Companies Act
