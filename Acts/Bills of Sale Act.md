@@ -28,7 +28,7 @@
 
 - [11 Priority given by registration](#Priority-given-by-registration)
 
-- [12 Transfers need not be attested.](#Transfers-need-not-be-attested)
+- [12 Transfers need not be attested](#Transfers-need-not-be-attested)
 
 - [13 Renewal of registration](#Renewal-of-registration)
 
@@ -210,7 +210,7 @@ who shall personally explain to the grantor the effect thereof, and the attestat
 
 11\. In case two or more bills of sale are given comprising in whole or in part any of the same chattels they shall have priority in the order of the date of their registration respectively as regards such chattels.
 
-### Transfers need not be attested.
+### Transfers need not be attested
 
 12\. A transfer or assignment of a registered bill of sale need not be attested under this Act, but the transferee or assignee of the bill of sale shall within 3 clear days after the execution of the transfer or assignment file with the registrar a statutory declaration in the form set out in the Second Schedule, stating the date of the bill of sale and of the last registration thereof, the names, residences and occupations of the parties thereto as stated therein, the names, residences and occupations of the parties to the transfer or assignment, and that the said bill of sale is still a subsisting security, and shall also produce at the same time to the registrar the said transfer or assignment, otherwise the said transfer or assignment shall be void.
 
@@ -354,3 +354,9 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 30/2005 published on 16 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006 (Item (4) of First Schedule — Amendment of Bills of Sale Act)|
+|13.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 November 2008|
+|||(Bill No. 37/2008 published on 3 April 2009)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 May 2009|
