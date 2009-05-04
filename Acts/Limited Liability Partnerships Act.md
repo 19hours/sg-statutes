@@ -486,7 +486,7 @@ REGISTRATION
 
 (b) identical to that of any other limited liability partnership or corporation or to a business name;
 
-(c) identical to a name that is being reserved under this section, section 13 of the Business Registration Act (Cap. 32) or section 27 of the Companies Act (Cap. 50); or
+(c) identical to a name that is being reserved under this section, section 13 of the Business Registration Act (Cap. 32), section 17 of the Limited Partnerships Act 2008 or section 27 of the Companies Act (Cap. 50); or
 
 (d) a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
@@ -502,7 +502,7 @@ REGISTRATION
 
 (a) is a name referred to in subsection (1); or
 
-(b) so nearly resembles the name of any other limited liability partnership or corporation or a business name as to be likely to be mistaken for it, the Registrar may direct the limited liability partnership to change its name, and the limited liability partnership shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+(b) so nearly resembles the name of any other limited liability partnership or limited partnership or corporation or a business name as to be likely to be mistaken for it, the Registrar may direct the limited liability partnership to change its name, and the limited liability partnership shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
 (5) Any person may apply, in writing, to the Registrar to give a direction to any limited liability partnership, on a ground referred to in subsection (4)(a) or (b), to change its name.
 
@@ -3352,6 +3352,12 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 March 2009 (item (16) in the Schedule)|
+|7.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 35/2008 published on 21 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|4 May 2009|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
