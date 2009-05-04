@@ -234,6 +234,8 @@
 
 - [36B Registered business trusts](#Registered-business-trusts)
 
+- [36C Limited partnership](#Limited-partnership)
+
 [**Part IX ASCERTAINMENT OF ASSESSABLE INCOME**](#Part-IX)
 
 - [37 Assessable income](#Assessable-income)
@@ -650,6 +652,10 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 “limited liability partnership” means any limited liability partnership incorporated or registered under any law in force in Singapore or elsewhere;
 
+“limited partnership” means a limited partnership registered or formed under any law in force in Singapore or elsewhere;
+
+[27/2009 wef 04/05/2009]
+
 “local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
 
 “permanent establishment” means a fixed place where a business is wholly or partly carried on including —
@@ -1010,7 +1016,7 @@ IMPOSITION OF INCOME TAX
 
 (b) gains or profits from any employment;
 
-(c) [Deleted by Act 29/65);]
+(c) [[Deleted by Act 29/65)];]
 
 (d) dividends, interest or discounts;
 
@@ -6631,6 +6637,336 @@ in a case where the concessionary income (as defined in section 14D(5)) derived 
 
 in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
+### Allowances of 3 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.
+
+19A\.—(1) Notwithstanding section 19, where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purpose of that trade, profession or business, there shall be made to him, on due claim for any year of assessment and in lieu of the allowances provided by section 19, an annual allowance of 331/
+
+3
+
+% in respect of the capital expenditure incurred.
+
+8(1A) Any annual allowance under this section in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset remaining unallowed as at the beginning of the basis period for that year of assessment.
+
+[53/2007]
+
+8Subsection (1A) shall have effect from the year of assessment 2009.
+
+(2) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a computer or other prescribed automation equipment for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that computer or automation equipment.
+
+[27/2009 wef 29/12/2009]
+
+[15/83; 13/84; 7/85]
+
+(3) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, installed a generator in any office or factory for the supply of electrical power to that office or factory in the event of a disruption in the normal supply of electrical power, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that generator.
+
+[27/2009 wef 29/12/2009]
+
+[20/91]
+
+(4) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a robot for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that robot.
+
+[27/2009 wef 29/12/2009]
+
+[13/84]
+
+(5) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any efficient pollution control equipment or device for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the efficient pollution control equipment or device.
+
+[27/2009 wef 29/12/2009]
+
+[28/96]
+
+(6) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
+
+[27/2009 wef 29/12/2009]
+
+[28/96; 31/98]
+
+(7) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
+
+(a) certified low-decibel machine, equipment or system;
+
+(b) certified effective noise control device which is a distinct entity or an accessory of any new or existing machine, equipment or system; or
+
+(c) certified effective engineering noise control measure for any existing machine, equipment or process,
+
+for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective noise control device or measure.
+
+[27/2009 wef 29/12/2009]
+
+[31/98]
+
+(8) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
+
+(a) certified machine, equipment or system which reduces or eliminates exposure to chemical risk;
+
+(b) certified effective chemical hazard control device which is a distinct entity or an accessory of any new or existing machine, equipment or process; or
+
+(c) certified effective chemical hazard control measure for any existing machine, equipment or process,
+
+for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective chemical hazard control device or measure.
+
+[27/2009 wef 29/12/2009]
+
+[31/98]
+
+(9) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered any new vehicle as a replacement for an existing vehicle which used diesel oil as fuel and which was registered before 1st January 1991 and deregistered on or after 27th February 1999, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
+
+[27/2009 wef 29/12/2009]
+
+[53/2007]
+
+(9A) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered during the period from 15th February 2007 to 14th February 2012 any new vehicle which uses diesel oil as fuel, as a replacement for an existing vehicle which used diesel oil as fuel and which was registered on or after 1st January 1991 but before 1st October 2006, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
+
+[27/2009 wef 29/12/2009]
+
+[53/2007]
+
+(10) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
+
+[37/2002]
+
+(10A) Notwithstanding section 19 and subject to subsection (10B), where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure not exceeding $1,000 on the provision of any item of machinery or plant for the purposes of a trade, profession or business carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of —
+
+(a) 100% in respect of that capital expenditure; or
+
+(b) where allowances have been made under subsection (1) or section 19 for any previous year of assessment under subsection (10B), the amount of that capital expenditure still unallowed.
+
+[34/2005]
+
+[27/2009 wef 29/12/2009]
+
+(10B) The aggregate amount of allowances claimed by any person under subsection (10A) for any year of assessment shall not exceed $30,000; and allowances may be made under subsection (1) or section 19 in respect of any capital expenditure still unallowed.
+
+[27/2009 wef 29/12/2009]
+
+[34/2005]
+
+(10C) No allowance shall be made under subsection (10A) in respect of any item of machinery or plant which is acquired under a hire-purchase agreement and the original cost of that item of machinery or plant exceeds $1,000.
+
+[34/2005]
+
+(11) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
+
+[28/96; 31/98; 37/2002]
+
+(12) Any claim for allowances under this section shall be made at the time of lodgment of the return of income for the relevant years of assessment or within such further time as the Comptroller may, in his discretion, allow.
+
+(13) Where any allowance has been claimed and allowed under this section for any year of assessment, no allowances shall be made in any subsequent year of assessment under section 19 in respect of such expenditure.
+
+(13A) Where the tax relief period of a person to whom a certificate has been issued under Part II of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) expires in any basis period ending on or after 1st January 1992 and the person has —
+
+(a) at the end of the basis period immediately following that basis period, in use machinery or plant in respect of which capital allowances have been made under section 19; and
+
+(b) before the end of the year of assessment which relates to the basis period referred to in paragraph (a), so elected,
+
+there shall be made to him for a period of 3 years an annual allowance of 331/
+
+3
+
+% in respect of the capital expenditure remaining unallowed under section 19 in respect of the machinery or plant as at the end of that basis period.
+
+[13/84; 11/94]
+
+(13B) Where a person to whom a certificate has been issued under the repealed Part IV, VI, VII, XI or XII of the Economic Expansion Incentives (Relief from Income Tax) Act has —
+
+(a) at the end of the basis period immediately following the expiry of his tax relief period, in use machinery or plant in respect of which capital allowances have been made under section 19; and
+
+(b) before the end of the year of assessment which relates to that basis period, so elected,
+
+there shall be made to him for a period of 3 years an annual allowance of 331/
+
+3
+
+% in respect of the capital expenditure remaining unallowed under section 19 in respect of the machinery or plant as at the end of that basis period.
+
+[13/84; 11/94]
+
+(14) Subject to subsections (10A), (13A) and (13B), where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister or the Comptroller and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
+
+[34/2005]
+
+(14A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
+(14B) Subject to subsection (14C), this section(other than subsections (2) to (10C)) shall, with the necessary modifications, apply to a person carrying on any trade or business who incurs during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) capital expenditure on the provision of machinery or plant for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, even though the machinery or plant is not for the purpose of that trade or business.
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
+[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
+
+(14C) Section 14D(4) and (5) shall apply in relation to the allowance for the capital expenditure referred to in subsection (14B) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the amount of the allowance;
+
+(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
+
+(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the amount of allowance that could have been made against the income of the person under subsection (14B) if the income had been subject to tax at the rate specified in section 43(1)(a);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+
+(15) In this section —
+
+“automation equipment” means any machinery or plant designed for the automation of functions or servicesin any office or factory within the meaning of section 5 of the Workplace Safety and Health Act (Cap. 354A);
+
+“certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
+
+“certified effective chemical hazard control device” means —
+
+(a) any local exhaust ventilation system;
+
+(b) any fugitive emission control equipment or system; or
+
+(c) any dilution ventilation system,
+
+which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+“certified effective chemical hazard control measure” means —
+
+(a) any enclosed or automated system; or
+
+(b) any modification to machine, equipment or process,
+
+which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+“certified effective engineering noise control measure” means —
+
+(a) any detachable personnel acoustic enclosure;
+
+(b) any acoustic barrier or shield;
+
+(c) any acoustic absorption device; or
+
+(d) any modification to machine, equipment or process,
+
+which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+“certified effective noise control device” means —
+
+(a) any acoustic enclosure for machine, equipment or process;
+
+(b) any acoustic silencer or muffler;
+
+(c) any vibration absorption, isolation or damping device; or
+
+(d) any active noise control device,
+
+which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+“certified energy-efficient equipment” means —
+
+(a) any air-conditioning system;
+
+(b) any boiler;
+
+(c) any water pumping system;
+
+(d) any washing or dry-cleaning machine system;
+
+(e) any refrigeration system;
+
+(f) any lift or escalator; and
+
+(g) any instant hot water system,
+
+which has been certified by a professional engineer registered under the Professional Engineers Act (Cap. 253) to be more energy-efficient than the equipment which it replaces;
+
+“certified energy-saving equipment” means —
+
+(a) any solar heating or cooling system;
+
+(b) any solar energy collection system;
+
+(c) any heat recovery system;
+
+(d) any power factor controller;
+
+(e) any high efficiency electric motor;
+
+(f) any variable speed drive motor control system;
+
+(g) any high frequency lighting system;
+
+(h) any computerised energy management system; and
+
+(i) any other energy-saving equipment or device,
+
+which has been certified by the Standards, Productivity and Innovation Board to be an energy-saving equipment;
+
+“certified low-decibel machine, equipment or system” means —
+
+(a) any concrete crusher or splitter;
+
+(b) any plastic granulator or crusher;
+
+(c) any automatic sawing machine;
+
+(d) any metal press or stamping machine;
+
+(e) any machine with active noise control feature; or
+
+(f) any other machine, equipment or system,
+
+which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+“certified machine, equipment or system which reduces or eliminates exposure to chemical risk” means —
+
+(a) any water-based degreasing machine or system;
+
+(b) any automated bagging or packing machine or system;
+
+(c) any automated degreasing machine or system; or
+
+(d) any other machine, equipment or system,
+
+which has been certified by the Standards, Productivity and Innovation Board or the National University of Singapore to have satisfied the prescribed criteria;
+
+“computer” means any computer used for automatic data processing and includes any part thereof;
+
+“efficient pollution control equipment or device” means any equipment or device for the purposes of preventing, controlling or reducing air pollution or water pollution which satisfies the prescribed criteria;
+
+“existing vehicle” means any goods vehicle or bus using diesel oil as fuel which —
+
+(a) is not a vehicle registered under the RU index marks;
+
+(b) is deregistered not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act (Cap. 276) in respect of the vehicle; and
+
+(c) has, unless the vehicle has been exempted from obtaining a certificate of entitlement, at the date of deregistration of the vehicle —
+
+(i) at least one year remaining in its certificate of entitlement; or
+
+(ii) a certificate of entitlement which can be renewed after its expiration;
+
+“goods vehicle” means any motor vehicle constructed or adapted for use for the carriage of goods;
+
+“new vehicle” means any new goods vehicle or new bus which —
+
+(a) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle which uses diesel oil as fuel; and
+
+(b) bears an index mark which is the same as that of the index mark of such existing vehicle, and for this purpose, where the new goods vehicle and such existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of such existing vehicle;
+
+“website” means a collection of programmes, data and images which is accessible over the Internet or any network using a browser or any other form of access.
+
 ### Writing-down allowances for intellectual property rights
 
 19B\.—(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
@@ -6981,7 +7317,7 @@ an allowance or charge, to be known as a balancing allowance or a balancing char
 
 [13/84]
 
-(5) Notwithstanding anything in this section but subject to subsection (6A), where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open- market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
+(5) Notwithstanding anything in this section but subject to subsection (6A), where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
 
 where A
 
@@ -8341,6 +8677,94 @@ as the case may be;
 
 [34/2005]
 
+### Limited partnership
+
+36C\.—(1) For the purposes of this Act, except as otherwise provided —
+
+(a) references to a partnership include references to a limited partnership; and
+
+(b) references to partners of a partnership include references to partners of a limited partnership.
+
+(2) In ascertaining the income of a limited partnership for the purpose of section 36(1)(a), section 10E shall apply to income from any business of the making of investments as if the limited partnership were a company.
+
+(3) For any year of assessment, the amount of relevant deductions that may be allowed to or transferred by a limited partner of a limited partnership shall not exceed —
+
+(a) in the case of a relevant deduction allowed to him under section 35(2), an amount equal to the amount ascertained in accordance with the formula
+
+(b) in the case of a relevant deduction allowed to him under section 37(3)(a), an amount equal to the amount ascertained in accordance with the formula
+
+(c) in the case of a transferred deduction transferred by him, an amount equal to the amount ascertained in accordance with the formula
+
+(d) in the case of a carry-back deduction allowed to or transferred by him, an amount equal to the amount ascertained in accordance with the formula
+
+where A
+
+is his contributed capital in that year of assessment;
+
+B
+
+is the past relevant deductions already allowed to him;
+
+C
+
+is the relevant deduction allowed to him in that year of assessment under section 35(2);
+
+D
+
+is the relevant deduction allowed to him in that year of assessment under section 37(3)(a); and
+
+E
+
+is the transferred deduction transferred by him in that year of assessment.
+
+(4) If, as a result of any reduction in the contributed capital of a limited partner of a limited partnership in any year of assessment, the past relevant deductions already allowed to him exceeds his contributed capital, the excess shall be deemed to be income of the limited partner chargeable with tax under section 10(1)(g) for that year of assessment, and an amount equal to the excess shall be deemed to be a loss incurred by him in the trade, business, profession or vocation of the limited partnership.
+
+(5) Subsections (3) and (4) shall not apply in the year of assessment relating to the basis period in which the limited partner ceases to be a limited partner of a limited partnership or in any subsequent year of assessment.
+
+(6) The precedent partner of a limited partnership shall make and deliver, together with a return of the income of the limited partnership under section 71 or when required by the Comptroller by notice in writing, a return of the contributed capital of each partner of the limited partnership for any year of assessment.
+
+(7) For the purposes of this section, the Minister may make regulations to give full effect to or to carry out the purposes of this section.
+
+(8) In this section —
+
+“carry-back deductions”, in relation to a limited partner of a limited partnership in any year of assessment, means —
+
+(a) any deduction allowed to the limited partner of any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is made against his assessable income from any other source for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be; or
+
+[27/2009 wef 04/05/2009]
+
+(b) any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is transferred by him to a spouse under section 37F;
+
+“contributed capital”, in relation to a limited partner of a limited partnership in any year of assessment, means the aggregate of —
+
+(a) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, which he has contributed (in cash or in kind but not including any loan by him to the limited partnership) to the limited partnership as capital, and has not, directly or indirectly, drawn out or received back (whether as a distribution or a loan from the limited partnership or otherwise); and
+
+(b) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, of any profits or gains of the trade, business, profession or vocation from any past year of assessment to which he is entitled as a limited partner but which he has not, directly or indirectly, received (whether as a distribution or a loan from the limited partnership or otherwise);
+
+“limited partner” has the same meaning as in the Limited Partnerships Act 2008 (Act 37 of 2008);
+
+[27/2009 wef 04/05/2009]
+
+“past relevant deductions”, in relation to a limited partner of a limited partnership in any year of assessment, means the aggregate of any relevant deductions allowed to the partner less any amount deemed under subsection (4) to be income chargeable with tax in any year of assessment before that year of assessment;
+
+“precedent partner” has the same meaning as in section 71;
+
+“relevant deductions”, in relation to a limited partner of a limited partnership, means —
+
+(a) any deduction allowed to the limited partner under section 35(2) of any allowance arising from any trade, business or profession carried on by him in the limited partnership;
+
+(b) any deduction allowed to the limited partner under section 37(3)(a) of any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is made against his statutory income from any other source;
+
+(c) any transferred deduction transferred by the partner; or
+
+(d) any carry-back deduction allowed to or transferred by the partner,
+
+as the case may be;
+
+“transferred deduction”, in relation to a limited partner of a limited partnership, means any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is transferred by him to a claimant company under section 37C or to a spouse under section 37D.
+
+[37/2008 wef 04/05/2009]
+
 ## PART IX
 
 ASCERTAINMENT OF ASSESSABLE INCOME
@@ -9213,7 +9637,7 @@ is any amount deducted by the transferor against his or her assessable income fo
 
 [29/2010 wef 22/11/2010]
 
-(b) the amount standing to its research and development account on the last day of that basis period is less than $450,000,
+(b) the amount standing to its research and development account on the last day of that basis period is less than $450,000 ,
 
 [29/2010 wef 22/11/2010]
 
@@ -15485,6 +15909,17 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2009 (Sections 13(d), 14(a), 44(d), 53(d))|
+|246.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 October 2008|
+|||(Bill No. 35/2008 published on 21 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|4 May 2009|
+|247.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|4 May 2009 (Section 2, 27)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
