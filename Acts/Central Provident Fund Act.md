@@ -5812,6 +5812,10 @@ Self-employed Persons
 
 18A\. Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
+18B. Limited Partnerships Act 2008 (Act 37 of 2008).
+
+[S 191/2009 wef 04/05/2009]
+
 19\. Maritime and Port Authority of Singapore Act (Cap. 170A).
 
 20\.Deleted by S 457/2004, wef 22/12/2003.
@@ -5832,9 +5836,7 @@ Self-employed Persons
 
 28\. Price Control Act (Cap. 244).
 
-29. Private Security Industry Act 2007.
-
-[Cap 250A, wef 27/04/2009:2008-REVED-250A]
+29\. Private Security Industry Act 2007.
 
 30\. Public Entertainments and Meetings Act (Cap. 257).
 
@@ -6464,6 +6466,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 26/2007 published on 17 July 2007)|
 ||Date of Second and Third Readings|27 August 2007|
 ||Date of commencement|27 April 2009|
+|161.|**G. N. No. S 191/2009—Central Provident Fund Act (Amendment of Third Schedule) Notification 2009**|
+||Date of commencement|4 May 2009|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
