@@ -1055,14 +1055,6 @@ to Which Section 36 Applies
 
 [7/2009 wef 01/03/2009]
 
-5. Where the minor carries on business in Singapore as a limited partnership registered under the Limited Partnerships Act 2008 (Act 37 of 2008) (whether as a general partner or a limited partner) —
-
-(a) any legal proceeding or action arising from or in connection with his carrying on of such business; or
-
-(b) any legal proceeding or action arising from or in connection with his acting as a person responsible for the management of such business (as defined in section 39(2) of that Act).
-
-[S 192/2009 wef 04/05/2009]
-
 ## LEGISLATIVE HISTORY
 
 Civil Law Act
@@ -1203,6 +1195,8 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 March 2009|
 |||(Except item (7)(b) in the Schedule)|
+|29.|**G. N. No. S 192/2009—Civil Law Act (Amendment of Schedule) Order 2009**|
+||Date of commencement|4 May 2009|
 ## COMPARATIVE TABLE
 
 Civil Law Act
