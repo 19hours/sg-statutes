@@ -100,9 +100,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. 
-
-(1) In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “company” means any company incorporated, formed or registered under the provisions of the Companies Act [Cap. 50] or any corresponding previous written law;
 
@@ -120,7 +118,7 @@ PRELIMINARY
 
 (c) society, whether a co-operative society or otherwise;
 
-(d) company ; or
+(d) company; or
 
 (e) limited liability partnership,
 
@@ -129,6 +127,8 @@ PRELIMINARY
 who or which engages in or undertakes housing development, but does not include any —
 
 (i) bank which is in possession of a valid licence granted by the Monetary Authority of Singapore under the Banking Act [Cap. 19];
+
+[26/2001 wef 01/09/2001]
 
 (ii) insurance company registered under section 7 of the Insurance Act [Cap. 142],
 
@@ -154,9 +154,17 @@ more than 4 units of housing accommodation; or
 
 [17/2005 wef 15/07/2005]
 
-“manager”, in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005.
+“manager”, in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
 
 [17/2005 wef 15/07/2005]
+
+[37/2008 wef 04/05/2009]
+
+“partner”, in relation to a limited partnership, means a general partner as defined in the Limited Partnerships Act 2008.
+
+[37/2008 wef 04/05/2009]
+
+(2) In this Act, unless it is expressly provided to the contrary, the words “group of persons” shall not include a partnership.
 
 [37/2008 wef 04/05/2009]
 
@@ -232,7 +240,11 @@ Provided that —
 
 (a) is a company, if its capital issued and paid up in cash is less than $100,000;
 
-(b) consists of any person or group of persons, society or limited liability partnership, without a deposit of $100,000 in such form as may be determined by the Minister;
+(b) consists of any person or group of persons, partnership, society or limited liability partnership, without a deposit of $100,000 in such form as may be determined by the Minister;
+
+[17/2005 wef 15/07/2005]
+
+[37/2008 wef 04/05/2009]
 
 (c) has an undischarged bankrupt in the case of —
 
@@ -252,7 +264,9 @@ Provided that the Minister may in his discretion waive all or any of the conditi
 
 ### Restriction on use of words “housing developer” and on use of certain other words
 
-6\.—(1) Except with the consent in writing of the Controller, a person or body of persons, not being a licensed housing developer, shall not assume or use in relation to a business or any part of a business carried on by him or them the words “housing developer” or any of its derivatives or any word indicating the carrying on of housing development.
+6\.—(1) Except with the consent in writing of the Controller, a person or body of persons (whether incorporated or unincorporated), not being a licensed housing developer, shall not assume or use in relation to a business or any part of a business carried on by him or them the words “housing developer” or any of its derivatives or any word indicating the carrying on of housing development.
+
+[37/2008 wef 04/05/2009]
 
 (2) Any person or body of persons, not being a licensed housing developer, who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -614,7 +628,9 @@ Provided that the act, omission, neglect or default was committed by the employe
 
 ### Exemption
 
-28\. The Minister may by notification published in theGazetteexempt any person, group of persons, society or company or statutory board from all or any of the provisions of this Act.
+28\. The Minister may by notification published in theGazetteexempt any person, group of persons, partnership, society or company or statutory board from all or any of the provisions of this Act.
+
+[37/2008 wef 04/05/2009]
 
 [27
 
@@ -667,3 +683,9 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st April 2006 (Item (15) in the First Schedule)|
+|9.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 35/2008 published on 21 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|4 May 2009|
