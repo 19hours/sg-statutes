@@ -14,6 +14,8 @@
 
 - [3 Meaning of "business", etc.](#Meaning-of-"business"-etc)
 
+- [3A Meaning of partnership and partner](#Meaning-of-partnership-and-partner)
+
 [**Part II ADMINISTRATION**](#Part-II)
 
 - [4 Comptroller and other officers](#Comptroller-and-other-officers)
@@ -308,6 +310,10 @@ PRELIMINARY
 
 “land” has the same meaning as in the Land Titles Act (Cap. 157);
 
+“limited partnership” means a limited partnership referred to in section 3 of the Limited Partnerships Act 2008;
+
+[37/2008 wef 04/05/2009]
+
 “money” and “currency” include currencies whether of Singapore or any other country but does not include a collector’s piece, investment article or item of numismatic interest;
 
 “open market value”, in relation to a supply of goods or services, has the meaning given to it by section 17(5) and in relation to imported goods has the meaning given to it by section 18(3);
@@ -357,6 +363,16 @@ PRELIMINARY
 (7) In subsection (2), “management corporation” and “subsidiary proprietors” have the same meanings as in the Land Titles (Strata) Act (Cap. 158).
 
 [UK VAT Act 1983, s. 47]
+
+### Meaning of partnership and partner
+
+3A\. For the purposes of this Act, except as otherwise provided —
+
+(a) references to partnerships include references to limited partnerships; and
+
+(b) references to partners of a partnership include references to partners of a limited partnership.
+
+[37/2008 wef 04/05/2009]
 
 ## PART II
 
@@ -948,10 +964,6 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 (v) the supply (including the letting on hire) of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed; or
 
-[33/2008 wef 01/01/2009]
-
-[19/2009 wef 01/01/2010]
-
 (w) prescribed services comprising the repair, maintenance or management of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed.
 
 [33/2008 wef 01/01/2009]
@@ -1044,15 +1056,9 @@ and the presence of the goods in Singapore after that date or the failure to com
 
 (b) any services directly in connection with such tool or machinery; or
 
-[33/2008 wef 01/01/2009]
-
 (c) any prototype of such tool or machinery,
 
-[33/2008 wef 01/01/2009]
-
 to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool or machinery is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
-
-[33/2008 wef 01/01/2009]
 
 (2) Where a supply of goods or services by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1304,17 +1310,17 @@ SPECIAL CASES
 
 (2) No account shall be taken, in determining for any purpose of this Act whether goods or services are supplied to or by such persons, of any change in the partnership.
 
-(3) Without prejudice to section 36 of the Partnership Act (Cap. 391) (rights of persons dealing with firm against apparent members of firm), until the date on which a change in the partnership is notified to the Comptroller in writing, a person who has ceased to be a member of a partnership shall be regarded as continuing to be a partner for the purposes of this Act and, in particular, for the purpose of any liability for tax on the supply of goods or services by the partnership.
+(3) Without prejudice to section 36 of the Partnership Act (Cap. 391) (rights of persons dealing with firm against apparent members of firm) as it applies to any form of partnership, until the date on which a change in the partnership is notified to the Comptroller in writing, a person who has ceased to be a member of a partnership shall be regarded as continuing to be a partner for the purposes of this Act and, in particular, for the purpose of any liability for tax on the supply of goods or services by the partnership.
 
 [37/2008 wef 04/05/2009]
 
 (4) Where a person ceases to be a member of a partnership during a prescribed accounting period (or is treated as so doing by virtue of subsection (3)) any notice, whether of assessment or otherwise, which is served on the partnership and relates to, or to any matter arising in, that period or any earlier period during the whole or part of which he was a member of the partnership shall be treated as served also on him.
 
-(5) Without prejudice to section 16 of the Partnership Act (notice to acting partner to be notice to the firm) , any notice, whether of assessment or otherwise, which is addressed to a partnership by the name in which it is registered by virtue of subsection (1) and is served in accordance with this Act shall be treated for the purposes of this Act as served on the partnership and, accordingly, where subsection (4) applies, as served also on the former partner.
+(5) Without prejudice to section 16 of the Partnership Act (notice to acting partner to be notice to the firm) as it applies to any form of partnership, any notice, whether of assessment or otherwise, which is addressed to a partnership by the name in which it is registered by virtue of subsection (1) and is served in accordance with this Act shall be treated for the purposes of this Act as served on the partnership and, accordingly, where subsection (4) applies, as served also on the former partner.
 
 [37/2008 wef 04/05/2009]
 
-(6) Subsections (1) and (4) shall not affect the extent to which, under section 9 of the Partnership Act , a partner is liable for tax owed by the firm.
+(6) Subsections (1) and (4) shall not affect the extent to which, under section 9 of the Partnership Act as it applies to any form of partnership, a partner is liable for tax owed by the firm.
 
 [37/2008 wef 04/05/2009]
 
@@ -2884,8 +2890,6 @@ COLLECTION AND ENFORCEMENT
 
 (c) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the defaulting taxpayer.
 
-[33/2008 wef 01/01/2009]
-
 (5A) Where —
 
 (a) an amount of tax is due from any person under this Act otherwise than as an agent under this section;
@@ -2899,8 +2903,6 @@ then the public officer shall, notwithstanding any other written law, contract o
 (i) the amount of the tax referred to in paragraph (a) shall be reduced by the amount of the reduction; and
 
 (ii) the amount of the reduction shall, to the extent of such amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys referred to in paragraph (b) to the defaulting taxpayer.
-
-[33/2008 wef 01/01/2009]
 
 (6) For the purposes of this section, “tax” includes any penalty or any other money which a person is liable to pay to the Comptroller under this Act.
 
@@ -3640,11 +3642,7 @@ Connected persons
 
 “business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
 
-[S 676/2008 wef 01/01/2009]
-
 “company” includes any body corporate or unincorporated association, but does not include a partnership, and this section shall apply in relation to any unit trust scheme or business trust scheme as if the scheme were a company and as if the rights of the unit holders were shares in the company;
-
-[S 676/2008 wef 01/01/2009]
 
 “control” shall be construed in accordance with paragraph 4;
 
@@ -3834,8 +3832,6 @@ Finance
 
 (p) the issue or transfer of ownership of a unit under any unit trust or business trust;
 
-[S 676/2008 wef 01/01/2009]
-
 (q) the arrangement, provision, or transfer of ownership, of any contract of re-insurance ;
 
 (r) the provision of financing by a financial institution in connection with a qualifying Islamic financial arrangement in relation to non-residential property, for which the financial institution derives an effective return.
@@ -3857,8 +3853,6 @@ Interpretation
 3. In this Schedule —
 
 “business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
-
-[S 676/2008 wef 01/01/2009]
 
 “credit” includes —
 
@@ -3905,8 +3899,6 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 (ii) the financial institution immediately leases the non-residential property to the purchaser with an option for the purchaser to purchase the same;
 
 “unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust or business trust.
-
-[S 676/2008 wef 01/01/2009]
 
 [S 107/94]
 
@@ -4333,6 +4325,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2009|
 |29.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
 ||Date of commencement|1 January 2009|
+|30.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+||Date of First Reading|20 October 2008|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|4 May 2009|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
