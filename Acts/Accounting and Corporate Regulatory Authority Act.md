@@ -722,6 +722,10 @@ Written Laws Administered and Enforced by Authority
 
 5\. Limited Liability Partnerships Act (Act 5 of 2005).
 
+6. Limited Partnerships Act 2008 (Act 37 of 2008).
+
+[S 253/2009 wef 04/05/2009]
+
 THIRD SCHEDULE
 
 Section 21
@@ -829,6 +833,8 @@ This Legislative History is provided for the convenience of users of the Account
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
+|6.|**G. N. No. S 253/2009—Accounting and Corporate Regulatory Authority Act (Amendment of Second Schedule) Order 2009**|
+||Date of commencement|4 May 2009|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
