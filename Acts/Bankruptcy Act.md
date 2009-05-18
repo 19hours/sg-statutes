@@ -48,7 +48,7 @@
 
 [**Part III OFFICIAL ASSIGNEE**](#Part-III)
 
-- [17 Appointment of Official Assignee of bankrupts’ estates](#Appointment-of-Official-Assignee-of-bankrupts’-estates)
+- [17 Appointment of Official Assignee](#Appointment-of-Official-Assignee)
 
 - [18 Official name of Official Assignee](#Official-name-of-Official-Assignee)
 
@@ -66,11 +66,11 @@
 
 - [25 Official Assignee’s accounts](#Official-Assignee’s-accounts)
 
-- [26 Books to be kept by Official Assignee](#Books-to-be-kept-by-Official-Assignee)
+- [26 Records to be kept by Official Assignee](#Records-to-be-kept-by-Official-Assignee)
 
-- [27 Bankruptcy Estates Account](#Bankruptcy-Estates-Account)
+- [27 Bankruptcy Estates Account and Debt Repayment Schemes Account](#Bankruptcy-Estates-Account-and-Debt-Repayment-Schemes-Account)
 
-- [28 Investment of surplus funds in Bankruptcy Estates Account](#Investment-of-surplus-funds-in-Bankruptcy-Estates-Account)
+- [28 Investment of surplus funds in Bankruptcy Estates Account and Debt Repayment Schemes Account](#Investment-of-surplus-funds-in-Bankruptcy-Estates-Account-and-Debt-Repayment-Schemes-Account)
 
 - [29 Official Assignee to furnish list of creditors](#Official-Assignee-to-furnish-list-of-creditors)
 
@@ -135,6 +135,58 @@
 - [55 Implementation and supervision of approved voluntary arrangement](#Implementation-and-supervision-of-approved-voluntary-arrangement)
 
 - [56 Consequence of failure by debtor to comply with voluntary arrangement](#Consequence-of-failure-by-debtor-to-comply-with-voluntary-arrangement)
+
+[**Part VA DEBT REPAYMENT SCHEME**](#Part-VA)
+
+[**Division 1  Preliminary**](#Division-1--Preliminary)
+
+- [56A Interpretation of this Part](#Interpretation-of-this-Part)
+
+[**Division 2  Proposal for debt repayment scheme**](#Division-2--Proposal-for-debt-repayment-scheme)
+
+- [56B Referral by court](#Referral-by-court)
+
+- [56C Debtor’s statement of affairs and proposal for repayment of debts, and creditors’ proofs of debts](#Debtor’s-statement-of-affairs-and-proposal-for-repayment-of-debts-and-creditors’-proofs-of-debts)
+
+- [56D Approval of debt repayment plan](#Approval-of-debt-repayment-plan)
+
+[**Division 3  Commencement and administration of debt repayment scheme**](#Division-3--Commencement-and-administration-of-debt-repayment-scheme)
+
+- [56E Commencement and administration of debt repayment scheme](#Commencement-and-administration-of-debt-repayment-scheme)
+
+- [56F Moratorium under debt repayment scheme, etc.](#Moratorium-under-debt-repayment-scheme-etc)
+
+- [56G Proving of debts under debt repayment scheme](#Proving-of-debts-under-debt-repayment-scheme)
+
+- [56H Modification of debt repayment plan](#Modification-of-debt-repayment-plan)
+
+- [56I Priority of debts and interest on debts](#Priority-of-debts-and-interest-on-debts)
+
+- [56J Payment and distribution of moneys under debt repayment scheme](#Payment-and-distribution-of-moneys-under-debt-repayment-scheme)
+
+[**Division 4  Cessation of debt repayment scheme**](#Division-4--Cessation-of-debt-repayment-scheme)
+
+- [56K Cessation of debt repayment scheme](#Cessation-of-debt-repayment-scheme)
+
+- [56L Certificate of inapplicability of debt repayment scheme](#Certificate-of-inapplicability-of-debt-repayment-scheme)
+
+- [56M Certificate of failure of debt repayment scheme](#Certificate-of-failure-of-debt-repayment-scheme)
+
+- [56N Certificate of completion of debt repayment scheme](#Certificate-of-completion-of-debt-repayment-scheme)
+
+- [56O Revocation of certificate of completion of debt repayment scheme](#Revocation-of-certificate-of-completion-of-debt-repayment-scheme)
+
+[**Division 5  Miscellaneous**](#Division-5--Miscellaneous)
+
+- [56P Duties of debtor](#Duties-of-debtor)
+
+- [56Q Appeal Panel and Appeal Panel Committee](#Appeal-Panel-and-Appeal-Panel-Committee)
+
+- [56R Validity of things done under debt repayment scheme](#Validity-of-things-done-under-debt-repayment-scheme)
+
+- [56S Offences](#Offences)
+
+- [56T Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
 [**Part VI PROCEEDINGS IN BANKRUPTCY**](#Part-VI)
 
@@ -388,6 +440,8 @@
 
 - [164 Unclaimed and undistributed moneys](#Unclaimed-and-undistributed-moneys)
 
+- [164A Debt Repayment Scheme Assistance Fund](#Debt-Repayment-Scheme-Assistance-Fund)
+
 - [165 Insolvency Assistance Fund](#Insolvency-Assistance-Fund)
 
 - [165A Composition of offences](#Composition-of-offences)
@@ -485,6 +539,10 @@ PRELIMINARY
 (c) as a result of a breach of trust by the person liable; or
 
 (d) out of an obligation to make restitution;
+
+“limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+[6/2009 wef 18/05/2009]
 
 “nominee” means the person appointed by virtue of a debtor’s proposal for a voluntary arrangement under Part V to act as trustee or otherwise to supervise the implementation of the voluntary arrangement and includes —
 
@@ -620,9 +678,9 @@ Procedure
 
 OFFICIAL ASSIGNEE
 
-### Appointment of Official Assignee of bankrupts’ estates
+### Appointment of Official Assignee
 
-17\.—(1) The Minister may appoint such person as he may think fit to be the official Assignee of the estates of bankrupts .
+17\.—(1) The Minister may appoint such person as he may think fit to be the official Assignee of the estates of bankrupts and for the other purposes of this Act.
 
 (2) The Official Assignee shall act under the general authority and directions of the Minister, but shall also be an officer of the court.
 
@@ -704,45 +762,73 @@ and may, by such official name, sue and be sued, hold property of every descript
 
 ### Official Assignee’s accounts
 
-25\.—(1) The Official Assignee shall —
+25\.—(1) The Official Assignee shall, for such period as may be prescribed, keep in such form and manner as he determines —
 
-(a) keep in the prescribed form an account of his receipts and payments in respect of his administration of the estate of a bankrupt; and
+(a) an account of his receipts and payments in respect of his administration of the estate of a bankrupt; and
 
-(b) permit inspection of such account by the bankrupt or by any creditor who has proved his debt or by any other person interested, subject to payment of the prescribed fee.
+(b) an account of his receipts and payments in respect of his administration of a debt repayment scheme under Part VA.
+
+[6/2009 wef 18/05/2009]
+
+(1A) The Official Assignee shall, upon payment of the prescribed fee, permit —
+
+(a) the inspection of an account referred to in subsection (1)(a) by the bankrupt, any creditor who has proved his debt in the bankruptcy or any other interested person; and
+
+(b) the inspection of an account referred to in subsection (1)(b) by the debtor to whom the debt repayment scheme relates, any creditor who has proved his debt under the debt repayment scheme or any other interested person.
+
+[6/2009 wef 18/05/2009]
 
 (2) Every account referred to in subsection (1) shall be audited not less than once in each year by such officer as the Minister may appoint in that behalf.
 
 (3) For the purposes of the audit under subsection (2), the Official Assignee shall produce to the auditing officer such books and shall furnish him with such vouchers and information as he may require.
 
-### Books to be kept by Official Assignee
+### Records to be kept by Official Assignee
 
-26\.—(1) The Official Assignee shall keep as prescribed proper books, in which he shall cause to be made entries or minutes of proceedings at any meeting held under this Act and of such other matters as are prescribed.
+26\.—(1) The Official Assignee shall, for such period as may be prescribed, keep records containing entries or minutes of proceedings at any meeting held under this Act and of such other matters as may be prescribed.
 
-(2) Any creditor of the bankrupt may, subject to the control of the court, personally or by his agent inspect any books kept by the Official Assignee under subsection (1).
+(2) Any creditor of —
 
-### Bankruptcy Estates Account
+(a) a bankrupt; or
 
-27\.—(1) The Official Assignee shall keep with such bank as he may think fit an account, to be called the Bankruptcy Estates Account, into which all moneys received by the Official Assignee under this Act shall, subject to the provisions of this Act, be paid.
+(b) a debtor referred to in Part VA,
 
-(2) All payments out of moneys standing to the credit of the Official Assignee in the Bankruptcy Estates Account shall be made by such bank in such manner as the Official Assignee may think fit.
+may, upon payment of the prescribed fee and subject to the control of the court, personally or by his agent inspect any record kept by the Official Assignee under subsection (1) which pertains to that bankrupt or debtor (as the case may be).
 
-### Investment of surplus funds in Bankruptcy Estates Account
+[6/2009 wef 18/05/2009]
 
-28\.—(1) Whenever the cash balance standing to the credit of the Bankruptcy Estates Account is in excess of the amount which, in the opinion of the Official Assignee, is required for the time being to meet demands in respect of insolvent estates, the Official Assignee shall —
+### Bankruptcy Estates Account and Debt Repayment Schemes Account
+
+27\.—(1) The Official Assignee shall keep with such bank as he may think fit —
+
+(a) an account, to be called the Bankruptcy Estates Account, into which all moneys received by the Official Assignee under this Act (with the exception of Part VA) shall, subject to this Act, be paid; and
+
+(b) an account, to be called the Debt Repayment Schemes Account, into which all moneys received by the Official Assignee under Part VA shall, subject to this Act, be paid.
+
+[6/2009 wef 18/05/2009]
+
+(2) All payments out of moneys standing to the credit of the Official Assignee in the Bankruptcy Estates Account or the Debt Repayment Schemes Account shall be made by such bank in such manner as the Official Assignee may think fit.
+
+### Investment of surplus funds in Bankruptcy Estates Account and Debt Repayment Schemes Account
+
+28\.—(1) Whenever the cash balance standing to the credit of the Bankruptcy Estates Account or the Debt Repayment Schemes Account is in excess of the amount which, in the opinion of the Official Assignee, is required for the time being to meet demands in respect of insolvent estates or debt repayment schemes administered under Part VA, as the case may be, the Official Assignee shall —
 
 (a) notify the excess to the Accountant-General; and
 
 (b) pay over the whole or any part of the excess as the Accountant-General may require to such account as the Accountant-General may direct.
 
+[6/2009 wef 18/05/2009]
+
 (2) The Accountant-General may invest the sums paid over under subsection (1)(b) or any part thereof in trustee securities to be placed to the credit of the account referred to in subsection (1)(b).
 
-(3) Where any part of the money invested under subsection (2) is, in the opinion of the Official Assignee, required to meet any demand in respect of insolvent estates, the Official Assignee shall notify the Accountant-General the amount so required.
+(3) Where, in the opinion of the Official Assignee, any part of the money paid over from the Bankruptcy Estates Account or the Debt Repayment Schemes Account under subsection (1)(b) and invested under subsection (2) is required to meet any demand in respect of insolvent estates or debt repayment schemes administered under Part VA, as the case may be, the Official Assignee shall notify the Accountant-General of the amount so required.
 
-(4) The Accountant-General shall repay the Official Assignee such sum as may be required under subsection (3) to the credit of the Bankruptcy Estates Account and for that purpose the Accountant-General may direct the sale of such part of the securities as may be necessary.
+[6/2009 wef 18/05/2009]
 
-(5) The income derived from any investment under subsection (2) shall form part of the Consolidated Fund and regard shall be had to the amount thus derived in fixing the fees payable in respect of proceedings in bankruptcy .
+(4) The Accountant-General shall repay the Official Assignee such sum as may be required under subsection (3) to the credit of the Bankruptcy Estates Account or the Debt Repayment Schemes Account, as the case may be, and for that purpose the Accountant-General may direct the sale of such part of the securities as may be necessary.
 
-(6) Any profits on the sale of any of the securities placed to the credit of the Bankruptcy Estates Account shall be credited to the Consolidated Fund and that Fund shall be liable to make good any loss arising out of the sale of those securities.
+(5) The income derived from any investment under subsection (2) shall form part of the Consolidated Fund and regard shall be had to the amount thus derived in fixing the fees payable in respect of proceedings in bankruptcy and the administration of debt repayment schemes under Part VA.
+
+(6) Any profits on the sale of any of the securities placed to the credit of the Bankruptcy Estates Account or the Debt Repayment Schemes Account shall be credited to the Consolidated Fund and that Fund shall be liable to make good any loss arising out of the sale of those securities.
 
 ### Official Assignee to furnish list of creditors
 
@@ -1144,6 +1230,507 @@ make an order appointing a person who is qualified to act as a nominee, either i
 
 56\. Where a debtor fails to comply with any of his obligations under a voluntary arrangement, the nominee or any creditor bound by the voluntary arrangement may make a bankruptcy application against the debtor in accordance with Part VI.
 
+## PART VA
+
+DEBT REPAYMENT SCHEME
+
+[6/2009 wef 18/05/2009]
+
+Division 1 —
+
+Preliminary
+
+### Interpretation of this Part
+
+56A\.—(1) In this Part, unless the context otherwise requires —
+
+“Appeal Panel” means a panel established under section 56Q;
+
+“applicant creditor”, in relation to a debtor under a debt repayment scheme, means the creditor who makes the relevant bankruptcy application against the debtor;
+
+“debt” means any debt, or any liability to pay money, which is unsecured, present, certain, and of an amount that is fixed or liquidated;
+
+“debtor” means the individual to whom a debt repayment scheme applies under this Part;
+
+“effective date”, in relation to a debt repayment scheme, means the date on which the scheme commences under section 56E(1);
+
+“relevant bankruptcy application”, in relation to a debtor under a debt repayment scheme, means the bankruptcy application adjourned by the court under section 65(7) or 67(3) which enabled the Official Assignee to determine the debtor’s suitability for the scheme and to implement the scheme;
+
+“repayment period”, in relation to a debt repayment plan, means the period of time, beginning with the date on which the plan comes into effect under section 56D(8), that is allowed to a debtor under the plan to repay his debts included in the plan.
+
+(2) For the purposes of this Part —
+
+(a) any debt proved against a debtor under Division 2 before the effective date of a debt repayment scheme applicable to the debtor shall, upon the effective date, be deemed to have been proved under the scheme; and
+
+(b) any claim, proof, declaration or statement filed, made or submitted by or in respect of a debtor under Division 2 before the effective date of a debt repayment scheme applicable to the debtor shall, upon the effective date, be deemed to have been filed, made or submitted under the scheme.
+
+Division 2 —
+
+Proposal for debt repayment scheme
+
+### Referral by court
+
+56B\.—(1) Upon the court adjourning a bankruptcy application made against a debtor and referring the matter to the Official Assignee under section 65(7) or 67(3), the Official Assignee shall take such steps as are necessary to —
+
+(a) review the suitability of the debtor for a debt repayment scheme; and
+
+(b) where the debtor is suitable, implement the debt repayment scheme in accordance with this Part.
+
+(2) The Official Assignee shall report to the court of the debtor’s unsuitability for a debt repayment scheme if —
+
+(a) the aggregate of the debtor’s debts exceeds $100,000 or such other amount as the Minister may, by order published in theGazette, specify;
+
+(b) the debtor does not meet any of the qualifying criteria specified in paragraph (b), (c), (d) or (e) of section 65(7) or 67(3), as the case may be;
+
+(c) the debtor, knowing or believing that a false or an inaccurate debt has been claimed by any person against him under this Division, fails to inform the Official Assignee;
+
+(d) the Official Assignee becomes aware of any circumstance referred to in section 56M(1)(a), (b), (c), (d), (h) or (i); or
+
+(e) the Official Assignee is satisfied that the debtor is not suitable for a debt repayment scheme for any other reason.
+
+(3) Subsection (2) shall cease to apply upon the commencement of a debt repayment scheme in respect of the debtor under section 56E(1).
+
+### Debtor’s statement of affairs and proposal for repayment of debts, and creditors’ proofs of debts
+
+56C\.—(1) After the court adjourns a bankruptcy application made against a debtor and refers the matter to the Official Assignee under section 65(7) or 67(3), the Official Assignee shall, by notice in writing to the debtor, require the debtor to submit in such form and manner, and within such time, as may be specified by the Official Assignee in the notice —
+
+(a) a statement of his affairs; and
+
+(b) a debt repayment plan, with a repayment period not exceeding 5 years, setting out the terms for the repayment of his debts,
+
+and the debtor shall comply with the notice.
+
+(2) After receiving the debtor’s statement of affairs under subsection (1), the Official Assignee shall send a notice to every creditor disclosed in the statement, requiring the creditor to file a proof of debt within such time as may be specified by the Official Assignee in the notice.
+
+(3) Section 56G shall apply to a proof of debt filed under this Division as if it is a proof of debt filed under a debt repayment scheme.
+
+### Approval of debt repayment plan
+
+56D\.—(1) Subject to subsection (7), the Official Assignee shall examine the statement of affairs and debt repayment plan submitted by a debtor under section 56C(1) and the proofs of debts filed against the debtor and may make such modifications to the plan as he considers appropriate before convening a meeting of creditors under subsection (2).
+
+(2) The Official Assignee shall convene and preside at a meeting of creditors to review the debt repayment plan.
+
+(3) Subject to subsection (7), the Official Assignee may, at or after the meeting of creditors, approve the debt repayment plan without any modification or subject to such, or such further, modifications as he considers appropriate.
+
+(4) The debtor or any creditor who has proved his debt against the debtor under this Division may, within such time and in such manner as may be prescribed, appeal to the Appeal Panel against the Official Assignee’s approval of the debt repayment plan under subsection (3) on the ground that the approved plan unfairly prejudices his interests.
+
+(5) The Appeal Panel may determine the appeal by —
+
+(a) confirming the Official Assignee’s approval of the debt repayment plan; or
+
+(b) subject to subsection (7), making such modifications to the plan as it considers appropriate,
+
+and the decision of the Appeal Panel shall be final.
+
+(6) Subject to section 56I, the debt repayment plan approved by the Official Assignee or modified by the Appeal Panel under this section may require the debtor to make full repayment, or make such partial repayment as may be specified in the plan, of the debts included in the plan.
+
+(7) The repayment period under the debt repayment plan approved by the Official Assignee or modified by the Appeal Panel under this section shall not exceed 5 years.
+
+(8) The debt repayment plan shall come into effect on such date as may be specified by the Official Assignee in his approval of the plan under subsection (3) and shall be binding on —
+
+(a) the debtor; and
+
+(b) every creditor who has proved his debt against the debtor under this Division and whose debt is included in the plan.
+
+(9) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme under this Part.
+
+Division 3 —
+
+Commencement and administration
+
+
+
+
+of debt repayment scheme
+
+### Commencement and administration of debt repayment scheme
+
+56E\.—(1) A debt repayment scheme shall commence in respect of a debtor on the date on which a debt repayment plan comes into effect under section 56D(8) in respect of that debtor.
+
+(2) The Official Assignee —
+
+(a) shall administer all debt repayment schemes under this Part; and
+
+(b) may charge such fees as may be prescribed in respect of such administration.
+
+(3) Upon the commencement of a debt repayment scheme in respect of a debtor, the Official Assignee shall pay out from the Bankruptcy Estates Account and into the Debt Repayment Schemes Account the balance of any deposit paid by the applicant creditor to the Official Assignee in respect of the relevant bankruptcy application made against the debtor, for the purpose of discharging the costs and expenses incurred by the Official Assignee in the administration of the scheme.
+
+### Moratorium under debt repayment scheme, etc.
+
+56F\.—(1) Subject to subsection (2), during the period beginning with the effective date of a debt repayment scheme applicable to a debtor and ending with the date on which the scheme ceases under section 56K(1) —
+
+(a) no creditor to whom the debtor is indebted in respect of any debt provable under the scheme shall have any remedy against the person or property of the debtor in respect of that debt; and
+
+(b) no action or proceedings shall be proceeded with or commenced against the debtor in respect of that debt,
+
+except by leave of the court and in accordance with such terms as the court may impose.
+
+(2) Subsection (1) shall not affect the right of any secured creditor to realise or otherwise deal with his security in the same manner as he would have been entitled to realise or deal with it if that subsection had not been enacted.
+
+(3) Where the creditor of a debtor (to whom a debt repayment scheme applies) has issued execution against the goods or lands of the debtor, or has attached any debt due or property belonging to the debtor, the creditor shall not be entitled to retain the benefit of the execution or attachment against the debtor unless the creditor has completed the execution or attachment before the effective date of the scheme, except that —
+
+(a) a person who purchases in good faith under a sale by the Sheriff any goods of the debtor on which an execution has been levied shall in all cases acquire a good title to them against the debtor; and
+
+(b) the rights conferred by this subsection on the debtor may be set aside by the court in favour of the creditor to such extent and subject to such terms as the court may think fit.
+
+(4) For the purposes of subsection (3) —
+
+(a) an execution against goods is completed by seizure and sale;
+
+(b) an attachment of a debt is completed by receipt of the debt; and
+
+(c) an execution against land or any interest therein is completed by registering under any written law relating to the registration of land a writ of seizure and sale attaching the interest of the debtor in the land described therein.
+
+### Proving of debts under debt repayment scheme
+
+56G\.—(1) Subject to section 56I, the following debts shall be provable under a debt repayment scheme in respect of a debtor:
+
+(a) any debt to which the debtor is subject at the effective date of the scheme, and any interest on such debt which is payable by the debtor for any period before the effective date;
+
+(b) any debt to which the debtor becomes subject after the effective date of the scheme but before the cessation of the scheme by reason of any obligation incurred before the effective date, and any interest on such debt which is payable by the debtor for any period before the effective date;
+
+(c) any debt being the balance due from the debtor after the security in respect of a secured debt owing by the debtor at the effective date of the scheme is realised at any time before the cessation of the scheme.
+
+(2) A creditor shall file his proof of debt with the Official Assignee under this Part in such form and manner as may be prescribed.
+
+(3) The Official Assignee shall, in accordance with such rules as may be prescribed, admit or reject, in whole or in part, any proof of debt filed under this Part.
+
+(4) Any debtor or creditor who is dissatisfied with the Official Assignee’s decision under subsection (3) may, within such time and in such manner as may be prescribed, appeal to the court against the decision.
+
+(5) The court may, on hearing an appeal under subsection (4), confirm, reverse or vary the decision of the Official Assignee.
+
+(6) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme.
+
+### Modification of debt repayment plan
+
+56H\.—(1) Subject to subsection (6), the Official Assignee may at any time on or after the effective date of a debt repayment scheme, of his own volition or at the request of —
+
+(a) the debtor to whom the scheme applies;
+
+(b) a creditor who is bound by the debt repayment plan under the scheme; or
+
+(c) a creditor, not being a creditor referred to in paragraph (b), who proves his debt under the scheme,
+
+modify the plan in such manner as he considers appropriate.
+
+(2) Before making any modification to the debt repayment plan, the Official Assignee shall, by notice in writing to the debtor and all the creditors who have proved their debts under the debt repayment scheme, convene and preside at a meeting of creditors.
+
+(3) Subject to subsection (6), the Official Assignee may, at or after the meeting of creditors, refuse to modify the debt repayment plan or may make such modifications to the plan as he considers appropriate.
+
+(4) The debtor or any creditor who has proved his debt under the debt repayment scheme may, within such time and in such manner as may be prescribed, appeal to the Appeal Panel against the Official Assignee’s decision under subsection (3) on the ground that the decision unfairly prejudices his interests.
+
+(5) The Appeal Panel may determine the appeal by —
+
+(a) confirming the Official Assignee’s decision; or
+
+(b) subject to subsection (6), making such or such further modifications to the debt repayment plan as it considers appropriate,
+
+and the decision of the Appeal Panel shall be final.
+
+(6) Subject to such further restrictions on the extension of the repayment period of a debt repayment plan as may be prescribed, any extension under this section of the repayment period of the plan shall be subject to the repayment period not exceeding at any time —
+
+(a) where the plan includes a debt referred to in section 56G(1)(b) or (c), 7 years; or
+
+(b) in any other case, 5 years.
+
+(7) If a debt repayment plan is modified under this section, the modification shall take effect on such date as may be specified by the Official Assignee in his modification of the plan under subsection (3) and as from that date, the plan as modified shall be binding on —
+
+(a) the debtor;
+
+(b) every creditor who is bound by the plan before the modification; and
+
+(c) where the plan is modified to include the debt of a creditor referred to in subsection (1)(c), that creditor.
+
+(8) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme.
+
+### Priority of debts and interest on debts
+
+56I\.—(1) The following shall be paid under a debt repayment plan applicable to a debtor in priority to all other debts proved under the debt repayment scheme (to which the plan relates) and included in the plan:
+
+(a) firstly, the cost and expenses incurred by the Official Assignee in the administration of the scheme, and the costs (whether taxed or agreed) of the applicant creditor in respect of the relevant bankruptcy application made against the debtor;
+
+(b) secondly, subject to subsection (2), all wages or salary (whether or not earned wholly or in part by way of commission) including any amount payable by way of allowance or reimbursement under any contract of employment or award or agreement regulating the conditions of employment of any employee;
+
+(c) thirdly, subject to subsection (2), the amount due to an employee as a retrenchment benefit or an ex gratia payment under any contract of employment or award or agreement that regulates the conditions of employment, whether such amount becomes payable before, on or after the effective date of the scheme;
+
+(d) fourthly, all amounts due in respect of any work injury compensation under the Work Injury Compensation Act (Cap. 354) accrued before, on or after the effective date of the scheme;
+
+(e) fifthly, all amounts due in respect of contributions payable during the 12 months immediately before, on or after the effective date of the scheme by the debtor as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the Income Tax Act (Cap. 134);
+
+(f) sixthly, all remuneration payable to any employee in respect of vacation leave or, in the case of his death, to any other person in his right, accrued in respect of any period before, on or after the effective date of the scheme; and
+
+(g) seventhly, the amount of all taxes assessed and any goods and services tax due under any written law on or before the effective date of the scheme.
+
+(2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the debtor or $7,500, whichever is the lesser.
+
+(3) The Minister may, by order published in theGazette, amend subsection (2) by varying the amount specified in that subsection as the maximum amount payable under subsection (1)(b) and (c).
+
+(4) The debts in each class specified in subsection (1) shall rank in the order therein specified but debts of the same class shall rank equally between themselves, and shall be paid in full, unless the amount standing to the credit of the debtor in the Debt Repayment Schemes Account is insufficient to meet them, in which case they shall abate in equal proportions between themselves.
+
+(5) Where any payment has been made to any employee of the debtor on account of wages, salary or vacation leave out of money advanced by a person for that purpose, the person by whom the money was advanced shall, under the debt repayment plan, have a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the employee would have been entitled to priority under this section has been diminished by reason of the payment, and shall have the same right of priority in respect of that amount as the employee would have had if the payment had not been made.
+
+(6) Subject to subsection (7), where a debt proved by a creditor under a debt repayment scheme includes interest, the interest shall be calculated —
+
+(a) at such rate to which the creditor is entitled under any written law or rule of law if that rate does not exceed the rate prescribed under paragraph (b); or
+
+(b) in any other case, at such rate as may be prescribed unless the debt repayment plan under the scheme stipulates that the rate shall be the higher rate to which the creditor is entitled under any written law or rule of law.
+
+(7) For the purposes of paragraph (b) of subsection (6), a debtor shall not be required under a debt repayment plan to pay interest at a rate higher than the rate prescribed under that paragraph unless the Official Assignee is satisfied that the debtor has sufficient funds to pay in full all his debts proved under the scheme and included in the plan, interest on such debts at the higher rate, and the costs and expenses specified in subsection (1)(a).
+
+(8) Interest on preferential debts shall rank equally with interest on debts other than preferential debts.
+
+(9) In this section —
+
+“employee” means a person who has entered into or works under a contract of service with the debtor and includes a subcontractor of labour;
+
+“ex gratia payment” means the amount payable to an employee on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
+
+“interest” includes any pecuniary consideration in lieu of interest and any penalty or late payment charge by whatever name called;
+
+“preferential debt” means any debt specified in subsection (1);
+
+“retrenchment benefit” means the amount payable to an employee on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be or, if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour;
+
+“wages or salary” includes —
+
+(a) all arrears of money due to a subcontractor of labour;
+
+(b) any amount payable to an employee on account of wages or salary during a period of notice of termination of employment or in lieu of notice of such termination, as the case may be, whether such amount becomes payable before, on or after the effective date of the debt repayment scheme; and
+
+(c) any amount payable to an employee, on termination of his employment, as a gratuity under any contract of employment, or under any award or agreement that regulates the conditions of his employment, whether such amount becomes payable before, on or after the effective date of the debt repayment scheme.
+
+### Payment and distribution of moneys under debt repayment scheme
+
+56J\.—(1) A debtor to whom a debt repayment scheme applies shall make all payments under his debt repayment plan to the Official Assignee.
+
+(2) The Official Assignee may, from time to time, subject to the retention of such sums as may be necessary for the costs and expenses of the administration of the debt repayment scheme, and in accordance with section 56I, the debt repayment plan and such rules as may be prescribed, declare and distribute dividends amongst the creditors who have proved their debts under the scheme and whose debts are included in the plan.
+
+(3) No action for a dividend shall lie against the Official Assignee.
+
+(4) If the Official Assignee refuses to pay any dividend, the court may, if it thinks fit, order the Official Assignee to pay the dividend, and also to pay out of the Consolidated Fund interest thereon for the period that it is withheld and the costs of the application to the court.
+
+Division 4 —
+
+Cessation of debt repayment scheme
+
+### Cessation of debt repayment scheme
+
+56K\.—(1) A debt repayment scheme applicable to a debtor shall cease —
+
+(a) on the date a certificate of inapplicability of the scheme is issued under section 56L;
+
+(b) on the date a certificate of failure of the scheme is issued under section 56M(1);
+
+(c) on the date a certificate of completion of the scheme is issued under section 56N(1), notwithstanding any subsequent revocation of the certificate under section 56O(1);
+
+(d) upon the debtor being adjudged a bankrupt under this Act; or
+
+(e) upon the death of the debtor,
+
+whichever first occurs.
+
+(2) Upon the cessation of a debt repayment scheme, the debt repayment plan under the scheme shall cease to have effect.
+
+### Certificate of inapplicability of debt repayment scheme
+
+56L\. The Official Assignee shall issue a certificate of inapplicability of a debt repayment scheme in respect of a debtor if —
+
+(a) the aggregate of the debts referred to in section 56G(1)(a) and proved under the scheme exceeds, at any time, $100,000 or such other amount as may be specified by the Minister under section 56B(2)(a); or
+
+(b) the aggregate of the debts referred to in section 56G(1)(b) and (c) and proved under the scheme exceeds, at any time, $50,000 or such other amount as the Minister may, by order published in theGazette, specify.
+
+### Certificate of failure of debt repayment scheme
+
+56M\.—(1) The Official Assignee may issue a certificate of failure of a debt repayment scheme in respect of a debtor if —
+
+(a) the debtor submits a statement of affairs under section 56C, or furnishes any other information or document to the Official Assignee in relation to his property, debts or other financial affairs, which is false or misleading in any material particular, or contains any material omission;
+
+(b) the debtor fails to furnish any information or document relating to his property, debts or other financial affairs that the Official Assignee may require;
+
+(c) the debtor fails to disclose to the Official Assignee his property (or any part thereof) or the disposal of his property (or any part thereof);
+
+(d) the debtor attempts to account for any part of his property by fictitious losses or expenses;
+
+(e) the debtor fails to comply with any term of the debt repayment plan under the scheme;
+
+(f) the debtor fails without sufficient cause to attend any meeting of creditors convened under section 56H;
+
+(g) the debtor incurs a debt in excess of $1,000 after the effective date of the scheme without disclosing the fact that he is subject to the scheme to the person to whom the debt is owed;
+
+(h) the debtor has entered into a transaction with any person at an undervalue at any time during the period commencing 5 years before the day on which the relevant bankruptcy application is made against the debtor and ending on the day immediately preceding the completion of the scheme;
+
+(i) the debtor has given an unfair preference (which is not a transaction at an undervalue) at any time to —
+
+(i) his associate during the period commencing 2 years before the day on which the relevant bankruptcy application is made against the debtor and ending on the day immediately preceding the completion of the scheme; or
+
+(ii) any other person during the period commencing 6 months before the day on which the relevant bankruptcy application is made against the debtor and ending on the day immediately preceding the completion of the scheme;
+
+(j) knowing or believing that a false or an inaccurate debt has been claimed by any person under the scheme, the debtor fails to inform the Official Assignee;
+
+(k) the debtor obtains the approval or modification of the debt repayment plan under the scheme by means of fraud, false representation or the concealment of any material fact; or
+
+(l) the debtor becomes a sole proprietor, a partner of a firm within the meaning of the Partnership Act (Cap. 391) or a partner in a limited liability partnership during the scheme without the consent of the Official Assignee.
+
+(2) Subsection (1)(c), in relation to the disposal of property, shall not apply to the payment of ordinary expenses of the debtor and his dependants.
+
+(3) For the purpose of subsection (1)(h), a debtor enters into a transaction with a person at an undervalue if the debtor —
+
+(a) makes a gift to that person or otherwise enters into a transaction with that person on terms that provide for the debtor to receive no consideration;
+
+(b) enters into a transaction with that person in consideration of marriage; or
+
+(c) enters into a transaction with that person for a consideration the value of which, in money or money’s worth, is significantly less than the value, in money or money’s worth, of the consideration provided by the debtor.
+
+(4) The Official Assignee shall not issue any certificate of failure of a debt repayment scheme under subsection (1) in respect of any transaction entered into by the debtor at an undervalue unless the debtor was insolvent at the time he entered into the transaction or became insolvent in consequence of the transaction.
+
+(5) Where a debtor enters into a transaction at an undervalue with a person who is an associate of his (otherwise than by reason only of being his employee), the requirements under subsection (4) shall be presumed to be satisfied unless the contrary is shown.
+
+(6) For the purpose of subsection (1)(i), a debtor gives an unfair preference to a person if —
+
+(a) that person is one of the debtor’s creditors or a surety or guarantor for any of his debts; and
+
+(b) the debtor does anything or suffers anything to be done which has the effect of putting that person into a position which is better than the position he would have been in if that thing had not been done.
+
+(7) The Official Assignee shall not issue any certificate of failure of a debt repayment scheme under subsection (1) in respect of any unfair preference given by a debtor to any person unless the debtor —
+
+(a) was insolvent at the time he gave the preference or became insolvent in consequence of the preference; and
+
+(b) was influenced in deciding to give the preference by a desire to produce in relation to that person the effect mentioned in subsection (6)(b).
+
+(8) A debtor who has given an unfair preference to a person who, at the time the unfair preference was given, was an associate of his (otherwise than by reason only of being his employee) shall be presumed, unless the contrary is shown, to have been influenced in deciding to give it by such a desire as is mentioned in subsection (7)(b).
+
+(9) The fact that something has been done pursuant to an order of a court does not, without more, prevent the doing or suffering of that thing from constituting the giving of an unfair preference.
+
+(10) For the purposes of this section, a debtor is insolvent if —
+
+(a) he is unable to pay his debts as they fall due; or
+
+(b) the value of his assets is less than the amount of his liabilities, taking into account his contingent and prospective liabilities.
+
+(11) Any question whether a person is an associate of another person shall be determined in accordance with section 101(2) to (10).
+
+### Certificate of completion of debt repayment scheme
+
+56N\.—(1) The Official Assignee shall issue a certificate of completion of a debt repayment scheme in respect of a debtor if the debtor repays, in accordance with this Part and the debt repayment plan under the scheme, his debts which have been proved under the scheme and included in the plan.
+
+(2) Subject to this Act and any other written law, the certificate of completion of the debt repayment scheme shall, upon being issued, release the debtor from all his debts provable under the scheme except a debt which —
+
+(a) the debtor had failed to disclose to the Official Assignee; and
+
+(b) in respect of which a proof of debt was not filed under the scheme.
+
+(3) Subsections (2) to (8) of section 127 shall apply to or in respect of the debtor as if a reference to discharge in those provisions is a reference to the certificate of completion of the debt repayment scheme and a reference to bankrupt in those provisions is a reference to the debtor.
+
+### Revocation of certificate of completion of debt repayment scheme
+
+56O\.—(1) The Official Assignee may at any time, by notice in writing to a debtor, revoke a certificate of completion of a debt repayment scheme issued under section 56N(1) in respect of the debtor if he is satisfied that the debtor —
+
+(a) did not to the best of his knowledge or belief disclose to the Official Assignee all his property or the disposal of his property (or any part thereof); or
+
+(b) had obtained the approval or modification of the debt repayment plan under the scheme by means of fraud, false representation or the concealment of any material fact.
+
+(2) Subsection (1)(a), in relation to the disposal of property, shall not apply to the payment of ordinary expenses of the debtor and his dependants.
+
+(3) Upon the revocation of the certificate of completion of the debt repayment scheme, the debtor’s release from his debts under section 56N(2) shall cease.
+
+Division 5 —
+
+Miscellaneous
+
+### Duties of debtor
+
+56P\. A debtor shall, in addition to any other duty specified in this Part in relation to a debt repayment scheme —
+
+(a) disclose to the Official Assignee —
+
+(i) all his property; and
+
+(ii) the disposal of any of his property during the period commencing 5 years before the day on which the relevant bankruptcy application is made against him and ending on the day immediately preceding the completion of the scheme;
+
+(b) furnish such information or document within such time and in such manner as the Official Assignee or the Appeal Panel may require in relation to the scheme;
+
+(c) attend any meeting of his creditors convened by the Official Assignee under section 56D or 56H, and such other meetings as may be required by the Official Assignee, unless prevented by any illness or other sufficient cause;
+
+(d) examine the correctness of all proofs of debts filed under the scheme and inform the Official Assignee if any person has, to his knowledge or belief, made a false or an inaccurate claim;
+
+(e) discharge his obligations under the debt repayment plan under the scheme;
+
+(f) before incurring any debt in excess of $1,000 after the effective date of the scheme, disclose the fact that he is subject to the scheme to the person to whom the debt is to be owed;
+
+(g) keep the Official Assignee advised at all times of his place of residence and such other contact details as may be required by the Official Assignee; and
+
+(h) generally do all such acts and things in relation to the scheme as may be reasonably required by the Official Assignee or as may be prescribed.
+
+### Appeal Panel and Appeal Panel Committee
+
+56Q\.—(1) For the purpose of hearing appeals from the decisions of the Official Assignee under sections 56D and 56H, there shall be established an Appeal Panel consisting of such members as may be appointed by the Minister from time to time.
+
+(2) The appointment of the members of the Appeal Panel shall be for such period and on such terms as the Minister may determine.
+
+(3) The Minister may appoint from amongst the members of the Appeal Panel, for such period and on such terms as the Minister may determine —
+
+(a) a Chairman of the Appeal Panel; and
+
+(b) such number of Deputy Chairmen of the Appeal Panel as the Minister thinks fit.
+
+(4) There shall be paid to the Chairman, Deputy Chairmen and other members of the Appeal Panel such remuneration and allowances as the Minister may determine.
+
+(5) The Minister may at any time revoke any appointment under subsection (2) or (3).
+
+(6) Every member of the Appeal Panel shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+(7) All the powers, functions and duties of the Appeal Panel may be exercised, discharged and performed by an Appeal Panel Committee consisting of such number of members of the Appeal Panel as may be prescribed, at least one of whom shall be the Chairman or a Deputy Chairman of the Appeal Panel.
+
+(8) Subject to subsection (7), the members of an Appeal Panel Committee shall be determined by the Minister.
+
+(9) Any act or decision of an Appeal Panel Committee shall be deemed to be an act or a decision of the Appeal Panel.
+
+(10) An appeal under section 56D(4) or 56H(4) —
+
+(a) shall be addressed to the Chairman of the Appeal Panel;
+
+(b) shall provide adequate details of the grounds for the appeal; and
+
+(c) shall be accompanied by the prescribed fee.
+
+### Validity of things done under debt repayment scheme
+
+56R\. The cessation of a debt repayment scheme or the revocation of a certificate of completion of the scheme shall be without prejudice to the validity of anything done under or in relation to the scheme.
+
+### Offences
+
+56S\.—(1) Any creditor who makes or submits any claim, proof, declaration or statement of account under a debt repayment scheme which is untrue in any material particular shall be guilty of an offence unless he satisfies the court that he had no intent to defraud.
+
+(2) Any person guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) Fines imposed under this section shall be paid into the Debt Repayment Scheme Assistance Fund maintained under section 164A.
+
+### Rules for purposes of this Part
+
+56T\.—(1) The Minister may make such rules as may be necessary or expedient for carrying out the purposes and provisions of this Part.
+
+(2) Without prejudice to the generality of subsection (1), the Minister may make rules for or with respect to —
+
+(a) the releasing of a debtor from any obligation under this Part;
+
+(b) the circumstances to be taken into account in the approval or modification of a debt repayment plan;
+
+(c) the circumstances in which a creditor may claim interest in his proof of debt notwithstanding the absence of any previous agreement or reservation as to interest, and the rate of interest that may be claimed in such circumstances;
+
+(d) the powers and procedures of the Appeal Panel;
+
+(e) the procedures of an Appeal Panel Committee;
+
+(f) the information and documents to be furnished by a debtor to the Official Assignee relating to his property, debts and other financial affairs;
+
+(g) the convening and conduct of, and the participation of a debtor and his creditors in and their respective obligations at, meetings held under this Part;
+
+(h) the inspection of documents submitted to the Official Assignee under this Part;
+
+(i) the sending of notices and other documents under this Part; and
+
+(j) all matters and things which are required or permitted to be prescribed under this Part.
+
 ## PART VI
 
 PROCEEDINGS IN BANKRUPTCY
@@ -1258,9 +1845,21 @@ Bankruptcy applications and bankruptcy orders
 
 (iii) the debtor has neither complied with it nor applied to the court to set it aside;
 
-(b) execution issued against him in respect of a judgment debt owed to the applicant creditor has been returned unsatisfied in whole or in part; or
+(b) execution issued against him in respect of a judgment debt owed to the applicant creditor has been returned unsatisfied in whole or in part;
 
-(c) he has departed from or remained outside Singapore with the intention of defeating, delaying or obstructing a creditor in the recovery of the debt.
+(c) he has departed from or remained outside Singapore with the intention of defeating, delaying or obstructing a creditor in the recovery of the debt; or
+
+(d) the Official Assignee has —
+
+(i) issued a certificate of inapplicability of a debt repayment scheme under section 56L;
+
+(ii) issued a certificate of failure of a debt repayment scheme under section 56M(1); or
+
+(iii) revoked a certificate of completion of a debt repayment scheme under section 56O(1),
+
+in respect of the debtor within 90 days immediately preceding the date on which the bankruptcy application is made, and the applicant creditor had proved the debt under that debt repayment scheme.
+
+[6/2009 wef 18/05/2009]
 
 ### Where applicant for bankruptcy order is secured creditor
 
@@ -1334,6 +1933,58 @@ stay all proceedings on the application for such time as may be required for tri
 
 (6) Where proceedings are stayed, the court may, if by reason of the delay caused by the stay of proceedings or for any other cause it thinks just, make a bankruptcy order on the application of some other creditor, and shall thereupon dismiss, on such terms as it may think just, the application in which proceedings have been stayed.
 
+(7) If a bankruptcy order may be made on the bankruptcy application, the court shall, instead of making the order, adjourn the bankruptcy application for a period of 6 months or such other period as the court may direct and refer the matter to the Official Assignee for the purpose of enabling the Official Assignee to determine whether the debtor is suitable for a debt repayment scheme under Part VA, if the following qualifying criteria are satisfied:
+
+(a) the debt or the aggregate of the debts in respect of which the bankruptcy application is made does not exceed $100,000 or such other amount as the Minister may, by order published in theGazette, specify;
+
+(b) the debtor is not an undischarged bankrupt, and has not been a bankrupt at any time within the period of 5 years immediately preceding the date on which the bankruptcy application is made, under this Act;
+
+(c) a voluntary arrangement under Part V in respect of the debtor is not in effect, and was not in effect at any time within the period of 5 years immediately preceding the date on which the bankruptcy application is made;
+
+(d) the debtor is not subject to any debt repayment scheme under Part VA, and has not been subject to any such debt repayment scheme at any time within the period of 5 years immediately preceding the date on which the bankruptcy application is made; and
+
+(e) the debtor is not a sole proprietor, a partner of a firm within the meaning of the Partnership Act (Cap. 391) or a partner in a limited liability partnership.
+
+[6/2009 wef 18/05/2009]
+
+(8) The court shall proceed to hear a bankruptcy application adjourned under subsection (7) if —
+
+(a) the Official Assignee reports to the court under section 56B(2) that the debtor is not suitable for a debt repayment scheme under Part VA; or
+
+(b) at the expiry of the period of adjournment, a debt repayment scheme has not commenced under Part VA in respect of the debtor.
+
+[6/2009 wef 18/05/2009]
+
+(9) If at any time during the period of adjournment of a bankruptcy application under subsection (7) a debt repayment scheme commences under Part VA in respect of the debtor, the bankruptcy application shall be deemed to be withdrawn on the date of commencement of the debt repayment scheme.
+
+[6/2009 wef 18/05/2009]
+
+(10) The court may give such orders or directions as it thinks fit for the adjournment, hearing or disposal of a bankruptcy application referred to in subsection (7).
+
+[6/2009 wef 18/05/2009]
+
+(11) For the purpose of subsection (7)(d), a person in respect of whom the Official Assignee issues —
+
+(a) a certificate of inapplicability of a debt repayment scheme under section 56L; or
+
+(b) a certificate of completion of a debt repayment scheme under section 56N(1) —
+
+(i) which states that all the debts (including interest on each of such debts at the rate to which a creditor is entitled under any written law or rule of law) of the person which have been proved under, and all the costs and expenses of, the debt repayment scheme have been paid in full; and
+
+(ii) which has not been revoked under section 56O(1),
+
+shall not be treated as having been subject to that debt repayment scheme.
+
+[6/2009 wef 18/05/2009]
+
+(12) In subsection (7)(a), “debt” has the same meaning as in section 56A(1).
+
+[6/2009 wef 18/05/2009]
+
+(13) Subsections (7) to (12) shall only apply to bankruptcy applications made on or after the commencement of section 10 of the Bankruptcy (Amendment) Act 2009.
+
+[6/2009 wef 18/05/2009]
+
 ### Proceedings on bankruptcy application by nominee or creditor bound by voluntary arrangement
 
 66\. The court shall not make a bankruptcy order on a bankruptcy application made under section 57(1)(a)(ii) or (b)(ii) by the nominee or any creditor bound by a voluntary arrangement unless it is satisfied —
@@ -1353,6 +2004,58 @@ stay all proceedings on the application for such time as may be required for tri
 67\.—(1) The court hearing a debtor’s bankruptcy application shall not make a bankruptcy order thereon unless it is satisfied that the debtor is unable to pay his debts.
 
 (2) Where a debtor’s bankruptcy application has been made against a firm by some, but not all, of the partners in the firm, the court shall not make a bankruptcy order thereon unless it is satisfied that notice of the application in the prescribed form has been served in the prescribed manner on each of the partners who did not join in the application.
+
+(3) If a bankruptcy order may be made on the bankruptcy application, the court shall, instead of making the order, adjourn the bankruptcy application for a period of 6 months or such other period as the court may direct and refer the matter to the Official Assignee for the purpose of enabling the Official Assignee to determine whether the debtor is suitable for a debt repayment scheme under Part VA, if the following qualifying criteria are satisfied:
+
+(a) the aggregate of the debts specified in the statement of affairs exhibited to the debtor’s affidavit under section 58(2) does not exceed $100,000 or such other amount as the Minister may specify under section 65(7)(a);
+
+(b) the debtor is not an undischarged bankrupt, and has not been a bankrupt at any time within the period of 5 years immediately preceding the date on which the bankruptcy application is made, under this Act;
+
+(c) a voluntary arrangement under Part V in respect of the debtor is not in effect, and was not in effect at any time within the period of 5 years immediately preceding the date on which the bankruptcy application is made;
+
+(d) the debtor is not subject to any debt repayment scheme under Part VA, and has not been subject to any such debt repayment scheme at any time within the period of 5 years immediately preceding the date on which the bankruptcy application is made; and
+
+(e) the debtor is not a sole proprietor, a partner of a firm within the meaning of the Partnership Act (Cap. 391) or a partner in a limited liability partnership.
+
+[6/2009 wef 18/05/2009]
+
+(4) The court shall proceed to hear a bankruptcy application adjourned under subsection (3) if —
+
+(a) the Official Assignee reports to the court under section 56B(2) that the debtor is not suitable for a debt repayment scheme under Part VA; or
+
+(b) at the expiry of the period of adjournment, a debt repayment scheme has not commenced under Part VA in respect of the debtor.
+
+[6/2009 wef 18/05/2009]
+
+(5) If at any time during the period of adjournment of a bankruptcy application under subsection (3) a debt repayment scheme commences under Part VA in respect of the debtor, the bankruptcy application shall be deemed to be withdrawn on the date of commencement of the debt repayment scheme.
+
+[6/2009 wef 18/05/2009]
+
+(6) The court may give such orders or directions as it thinks fit for the adjournment, hearing or disposal of a bankruptcy application referred to in subsection (3).
+
+[6/2009 wef 18/05/2009]
+
+(7) For the purpose of subsection (3)(d), a person in respect of whom the Official Assignee issues —
+
+(a) a certificate of inapplicability of a debt repayment scheme under section 56L; or
+
+(b) a certificate of completion of a debt repayment scheme under section 56N(1) —
+
+(i) which states that all the debts (including interest on each of such debts at the rate to which a creditor is entitled under any written law or rule of law) of the person which have been proved under, and all the costs and expenses of, the debt repayment scheme have been paid in full; and
+
+(ii) which has not been revoked under section 56O(1),
+
+shall not be treated as having been subject to that debt repayment scheme.
+
+[6/2009 wef 18/05/2009]
+
+(8) In subsection (3)(a), “debt” has the same meaning as in section 56A(1).
+
+[6/2009 wef 18/05/2009]
+
+(9) Subsections (3) to (8) shall only apply to bankruptcy applications made on or after the commencement of section 11 of the Bankruptcy (Amendment) Act 2009.
+
+[6/2009 wef 18/05/2009]
 
 ### Consolidation of bankruptcy applications
 
@@ -1378,7 +2081,7 @@ and thereafter the proceedings shall, unless the court otherwise directs, be con
 
 ### Withdrawal of bankruptcy application
 
-72\. A bankruptcy application shall not be withdrawn without the leave of the court.
+72\. Subject to sections 65(9) and 67(5), a bankruptcy application shall not be withdrawn without the leave of the court.
 
 Protection of debtor’s property
 
@@ -1454,7 +2157,7 @@ Bankruptcy
 
 (i) no creditor to whom the bankrupt is indebted in respect of any debt provable in bankruptcy shall have any remedy against the person or property of the bankrupt in respect of that debt; and
 
-(ii) no action or proceedings shall be proceeded with or commenced against the bankrupt ,
+(ii) no action or proceedings shall be proceeded with or commenced against the bankrupt in respect of that debt,
 
 except by leave of the court and in accordance with such terms as the court may impose.
 
@@ -1936,11 +2639,29 @@ Effect of bankruptcy on antecedent transactions
 
 100\.—(1) Subject to this section, the time at which an individual enters into a transaction at an undervalue or gives an unfair preference shall be a relevant time if the transaction is entered into or the preference given —
 
-(a) in the case of a transaction at an undervalue, within the period of 5 years ending with the day of the making of the bankruptcy application on which the individual is adjudged bankrupt;
+(a) in the case of a transaction at an undervalue —
 
-(b) in the case of an unfair preference which is not a transaction at an undervalue and is given to a person who is an associate of the individual (otherwise than by reason only of being his employee), within the period of 2 years ending with that day; and
+(i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 5 years before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
 
-(c) in any other case of an unfair preference which is not a transaction at an undervalue, within the period of 6 months ending with that day.
+(ii) in any other case, within the period of 5 years ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt;
+
+[6/2009 wef 18/05/2009]
+
+(b) in the case of an unfair preference which is not a transaction at an undervalue and which is given to a person who is an associate of the individual (otherwise than by reason only of being his employee) —
+
+(i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 2 years before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
+
+(ii) in any other case, within the period of 2 years ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
+
+[6/2009 wef 18/05/2009]
+
+(c) in any other case of an unfair preference which is not a transaction at an undervalue —
+
+(i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 6 months before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
+
+(ii) in any other case, within the period of 6 months ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt.
+
+[6/2009 wef 18/05/2009]
 
 (2) Where an individual enters into a transaction at an undervalue or gives an unfair preference at a time mentioned in subsection (1)(a), (b) or (c), that time is not a relevant time for the purposes of sections 98 and 99 unless the individual —
 
@@ -1955,6 +2676,10 @@ Effect of bankruptcy on antecedent transactions
 (a) he is unable to pay his debts as they fall due; or
 
 (b) the value of his assets is less than the amount of his liabilities, taking into account his contingent and prospective liabilities.
+
+(5) In this section, “relevant bankruptcy application” means the bankruptcy application made against an individual that resulted in the debt repayment scheme referred to in section 62(d) in respect of the individual.
+
+[6/2009 wef 18/05/2009]
 
 ### Meaning of “associate”
 
@@ -2316,7 +3041,7 @@ Distribution of property
 
 (c) for disputed proofs and claims.
 
-(6) No dividend shall be paid to any creditor which does not amount to $20.
+(6) No dividend shall be paid to any creditor which does not amount to $50.
 
 ### Claims by unsatisfied creditors
 
@@ -3026,7 +3751,7 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (3) The Official Assignee shall from time to time pay out of the Bankruptcy Estates Account and into the Insolvency Assistance Fund, maintained under section 165, so much of the sums standing to the credit of the Account as represents —
 
-(a) dividends or balances in the Account which do not exceed $20 ;
+(a) dividends or balances in the Account which do not exceed $50;
 
 (b) dividends which were declared but have not been claimed for a period of 6 years; and
 
@@ -3041,6 +3766,32 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 (iv) the bankruptcy application made against the debtor has been withdrawn by the applicant or dismissed by the court; or
 
 (v) the moneys were paid into the Account under subsection (1).
+
+(4) The Official Assignee shall from time to time pay out of the Debt Repayment Schemes Account and into the Debt Repayment Scheme Assistance Fund maintained under section 164A so much of the sums standing to the credit of the Account as it represents —
+
+(a) balances in the Account which do not exceed $50; and
+
+(b) balances in the Account in respect of a debt repayment scheme which have remained unclaimed for a period of 6 years from the date on which the debt repayment scheme has ceased under section 56K(1).
+
+[6/2009 wef 18/05/2009]
+
+### Debt Repayment Scheme Assistance Fund
+
+164A\.—(1) The Official Assignee shall maintain and administer a fund to be known as the Debt Repayment Scheme Assistance Fund (referred to in this section as the Fund) in accordance with such rules as may be prescribed.
+
+(2) There shall be paid into the Fund —
+
+(a) all moneys referred to in section 164(4); and
+
+(b) all costs and fees recovered by the Official Assignee in any proceedings under Part VA in which moneys from the Fund were applied.
+
+(3) The Fund may be applied by the Official Assignee for such purposes as may be prescribed.
+
+(4) The Minister may from time to time pay such sums of moneys out of the Fund and into the Consolidated Fund as he may determine.
+
+(5) If any claimant makes any demand against the Official Assignee for any amount of unclaimed moneys paid into the Fund under subsection (2)(a), the Minister may direct that payment of that amount, free of interest, be made to the claimant out of the Consolidated Fund.
+
+[6/2009 wef 18/05/2009]
 
 ### Insolvency Assistance Fund
 
@@ -3270,6 +4021,11 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|18.|**Act 6 of 2009—Bankruptcy (Amendment) Act 2009**|
+||Date of First Reading|17 November 2008|
+|||(Bill No. 39/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|18 May 2009|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
