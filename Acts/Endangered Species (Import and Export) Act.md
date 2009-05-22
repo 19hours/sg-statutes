@@ -126,7 +126,7 @@ PRELIMINARY
 
 (b) any officer of customs within the meaning of the Customs Act (Cap. 70); or
 
-(c) any public officer or officer of the Authority or of any other statutory authority appointed by the Director-General under section 3(2);
+(c) any public officer or officer of the Authority or of any other statutory authority appointed by the Director-Gen under section 3(2);
 
 “Authority” means the Agri-Food and Veterinary Authority established under section 3 of the Agri-Food and Veterinary Authority Act (Cap. 5);
 
@@ -1794,7 +1794,7 @@ SCANDENTIA
 
 Tupaiidae Tree shrews
 
-Tupaiidae spp\. 
+SCANDENTIA spp\. 
 
 SIRENIA
 
@@ -1840,7 +1840,7 @@ Cairina moschata
 
 (Honduras)
 
-Cairina scutulata
+Asarcornis scutulata
 
 Coscoroba coscoroba
 
@@ -2092,19 +2092,13 @@ Macrocephalon maleo
 
 Phasianidae Grouse, guineafowl, partridges, pheasants, tragopans
 
-Arborophila campbelli
+Arborophila campbelli (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
-(Malaysia)
-
-Arborophila charltonii
-
-(Malaysia)
+Arborophila charltonii (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
 Argusianus argus
 
-Caloperdix oculeus
-
-(Malaysia)
+Caloperdix oculeus (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
 Catreus wallichii
 
@@ -2126,21 +2120,15 @@ Lophophorus sclateri
 
 Lophura edwardsi
 
-Lophura erythrophthalma
+Lophura erythrophthalma (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
-(Malaysia)
-
-Lophura ignita
-
-(Malaysia)
+Lophura ignita (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
 Lophura imperialis
 
 Lophura swinhoii
 
-Melanoperdix niger
-
-(Malaysia)
+Melanoperdix niger (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
 Meleagris ocellata
 
@@ -2152,9 +2140,7 @@ Polyplectron bicalcaratum
 
 Polyplectron germaini
 
-Polyplectron inopinatum
-
-(Malaysia)
+Polyplectron inopinatum (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
 Polyplectron malacense
 
@@ -2164,17 +2150,11 @@ Polyplectron schleiermacheri
 
 Rheinardia ocellata
 
-Rhizothera dulitensis
+Rhizothera dulitensis (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
-(Malaysia)
+Rhizothera longirostris (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
-Rhizothera longirostris
-
-(Malaysia)
-
-Rollulus rouloul
-
-(Malaysia)
+Rollulus rouloul (Malaysia) — Deleted by S 222/2009, wef 22/05/2009.
 
 Syrmaticus ellioti
 
@@ -2516,7 +2496,7 @@ Cyclopsitta diophthalma coxeni
 
 Eunymphicus cornutus
 
-Geopsittacus occidentalis
+Pezoporus occidentalis
 
 (possibly extinct)
 
@@ -3208,7 +3188,7 @@ Dyscophus antongilii
 
 Scaphiophryne gottlebei
 
-Myobatrachidae Gastric-brooding frogs
+Rheobatrachidae Gastric-brooding frogs
 
 Rheobatrachus
 
@@ -4547,6 +4527,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|12 February 2008|
 |27.|**G. N. No. S 332/2008—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2008**|
 ||Date of commencement|1 July 2008|
+|28.|**G. N. No. S 222/2009—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2009**|
+||Date of commencement|22 May 2009|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
