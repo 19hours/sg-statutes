@@ -728,15 +728,9 @@ OFFENCES
 
 ### Knowingly concealing arms, etc., imported without licence
 
-22\. Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas or noxious substance imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $5,000.
-
-(1) Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas or noxious substance imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $5,000.
+22\.—(1) Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas or noxious substance imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $5,000.
 
 [5/2007 wef 01/07/2007]
-
-[19
-
-[30/2002]
 
 (2) Any person who knowingly conceals any explosive precursor imported unlawfully or without a licence shall be guilty of an offence and shall be liable on conviction —
 
@@ -744,11 +738,9 @@ OFFENCES
 
 (b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[5/2007 wef 01/07/2007]
-
-[19
-
 [30/2002]
+
+[5/2007 wef 01/07/2007]
 
 ### Knowingly purchasing guns or arms from person not licensed
 
@@ -918,9 +910,7 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 ### Arrest by police officer without warrant
 
-32\. Any police officer may arrest without warrant any person found committing or attempting to commit or employing, aiding or assisting any person to commit an offence under section 10, 11, 13, 21A, 21D, 22, 24, 25, 26, 27(2) or 30.
-
-[36
+32\. Any police officer may arrest without warrant any person found committing or attempting to commit or employing, aiding or assisting any person to commit an offence under section 10, 11, 13, 21A, 21D, 22, 24, 25, 26, 40(2) or 30.
 
 ### Persons arrested to be taken to police station
 
@@ -980,7 +970,7 @@ any accident by explosion or by fire attended with loss of human life, or seriou
 
 ### Jurisdiction of court
 
-39\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+39\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 [5/2007 wef 01/07/2007]
 
@@ -1182,7 +1172,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (4) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Section 2(1)
 
@@ -1246,7 +1236,7 @@ H
 
 176
 
-0.1% by mass
+1.0% by mass
 
 para-Mononitrotoluene (p-MNT)
 
@@ -1267,6 +1257,8 @@ NO
 0.5% by mass.
 
 [30/2002]
+
+[S 228/2009 wef 25/05/2009]
 
 SECOND SCHEDULE
 
@@ -1494,6 +1486,8 @@ This Legislative History is provided for the convenience of users of the Arms an
 |||(Bill No. 17/2006 published on 9 November 2007)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 July 2007|
+|35.|**G. N. No. S 228/2009—Arms and Explosives Act (Amendment of First Schedule) Order 2009**|
+||Date of operation|25 May 2009|
 ## COMPARATIVE TABLE
 
 Arms and Explosives Act
