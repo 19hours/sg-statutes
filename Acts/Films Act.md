@@ -14,6 +14,8 @@
 
 - [4 Procedure of Board](#Procedure-of-Board)
 
+- [4A Advisory committees](#Advisory-committees)
+
 - [5 Delegation of powers and duties by Board](#Delegation-of-powers-and-duties-by-Board)
 
 - [6 Licence for carrying on business of importing, making, distributing or exhibiting films](#Licence-for-carrying-on-business-of-importing-making-distributing-or-exhibiting-films)
@@ -176,9 +178,11 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 (2) For the purposes of this Act, a film is directed towards a political end in Singapore if the film —
 
-(a) contains wholly or partly any matter which is intended or likely to affect voting in any election or national referendum in Singapore; or
+(a) contains wholly or partly any matter which, in the opinion of the Board, is intended or likely to affect voting in any election or national referendum in Singapore; or
 
-(b) contains wholly or partly either partisan or biased references to or comments on any political matter, including but not limited to any of the following:
+[13/2009 wef 26/05/2009]
+
+(b) contains wholly or partly references to or comments on any political matter which, in the opinion of the Board, are either partisan or biased; and “political matter” includes but is not limited to any of the following:
 
 (i) an election or a national referendum in Singapore;
 
@@ -194,17 +198,39 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 (vii) a political party in Singapore or any body whose objects relate wholly or mainly to politics in Singapore, or any branch of such party or body.
 
-[10/98]
-
-(3) For the avoidance of doubt, any film which is made solely for the purpose of —
-
-(a) reporting of current events; or
-
-(b) informing or educating persons on the procedures and polling times for any election or national referendum in Singapore,
-
-is not a party political film.
+[13/2009 wef 26/05/2009]
 
 [10/98]
+
+(3) Notwithstanding subsections (1) and (2), none of the following films shall be regarded for the purposes of this Act as a party political film:
+
+(a) a film which is made solely for the purpose of reporting of news by a broadcasting service licensed under any written law;
+
+(b) a film which is made solely for the purpose of informing or educating persons on the procedures and polling times for any election or national referendum in Singapore;
+
+(c) a film which records live the whole or a material proportion of any performance, assembly of persons or procession that is held in accordance with the law and that does not depict any event, person or situation in a dramatic way;
+
+(d) a film designed to provide a record of an event or occasion that is held in accordance with the law for those who took part in the event or occasion or are connected with those who did so;
+
+(e) a documentary film without any animation and composed wholly of an accurate account depicting actual events, persons (deceased or otherwise) or situations, but not a film —
+
+(i) wholly or substantially based on unscripted or “reality” type programmes; or
+
+(ii) that depicts those events, persons or situations in a dramatic way;
+
+(f) a film without animation and dramatic elements —
+
+(i) composed wholly of a political party’s manifesto or declaration of policies or ideology on the basis of which candidates authorised by the political party to stand will seek to be elected at a parliamentary election; and
+
+(ii) made by or on behalf of that political party; and
+
+(g) a film without animation and dramatic elements —
+
+(i) composed wholly of a candidate’s declaration of policies or ideology on the basis of which the candidate will seek to be elected at a parliamentary or presidential election; and
+
+(ii) made by or on behalf of that candidate.
+
+[13/2009 wef 26/05/2009]
 
 ### Board of Film Censors and appointment of officers
 
@@ -225,6 +251,14 @@ is not a party political film.
 (3) The Chairman shall have a casting vote in addition to his deliberative vote.
 
 (4) Subject to the provisions of this Act, the Board shall regulate its own procedure.
+
+### Advisory committees
+
+4A\.—(1) The Minister may appoint one or more advisory committees to provide advice to the Board with regard to the performance of any of its functions in relation to any film.
+
+(2) Before making any decision under this Act in relation to a film and for the purpose of forming an opinion on which to base such decision, the Board may consult with the relevant advisory committee in respect of the film but, in making such decision, shall not be bound by such consultation.
+
+[13/2009 wef 26/05/2009]
 
 ### Delegation of powers and duties by Board
 
@@ -490,13 +524,15 @@ has been or is being exhibited or kept in any place, he may issue a warrant dire
 
 ### Powers of Committee of Appeal
 
-26\.—(1) The Committee of Appeal is empowered to make such order as it thinks fit in regard to —
+26\.—(1) On receipt of an appeal under section 24, the Committee of Appeal may make an order —
 
-(a) the approval for exhibition of any film which is the subject of appeal;
+(a) dismissing the appeal and confirming the decision of the Board; or
 
-(b) the excision or retention of any part of any such film; and
+(b) reversing or varying the decision of the Board,
 
-(c) the classification of any film.
+including making such order as it thinks fit in regard to the approval for exhibition of any film which is the subject of appeal, the excision or retention of any part of any such film, and the classification of any film.
+
+[13/2009 wef 26/05/2009]
 
 (2) If the Committee of Appeal on dismissing an appeal is of the opinion that the appeal was frivolous or vexatious, the Committee of Appeal may require the payment of a further fee not exceeding $250 in addition to the prescribed fee and if any sum has been deposited under section 24(3) may order the forfeiture of that sum or any part thereof in satisfaction or part satisfaction of the further fee.
 
@@ -698,7 +734,7 @@ knowing or having reasonable cause to believe the film to be a party political f
 
 39A\. All fees and other moneys collected under this Act or any subsidiary legislation made thereunder shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002.
 
-[34/2002 wef 01/01/2003 wef 01/01/2003]
+[34/2002 wef 01/01/2003]
 
 ### Exemptions
 
@@ -742,7 +778,7 @@ Films Act
 
 (CHAPTER 107)
 
-This Legislative History is provided for the convenience of users of the Films Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Films Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -752,24 +788,28 @@ This Legislative History is provided for the convenience of users of the Films A
 ||Date of Second and Third Readings|14.8.81|
 ||Date of commencement|1.10.81|
 |2.|**1985 Revised Edition—Films Act**|
-||Date of operation|1 January 1985|
-|3.|**1985 Revised Edition—Films Act**|
 ||Date of operation|30 March 1987|
-|4.|**Act 6 of 1997—Port of Singapore Authority (Dissolution) Act 1997**|
-||(Consequential amendments made by)||
+|3.|**Act 6 of 1997—Port of Singapore Authority (Dissolution) Act 1997**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|11.7.97|
 |||(Bill No. 5/97 published on 12.7.97)|
 ||Date of Second and Third Readings|25.8.97|
 ||Date of commencement|1.10.97|
-|5.|**Act 10 of 1998—Films (Amendment) Act 1998**|
+|4.|**Act 10 of 1998—Films (Amendment) Act 1998**|
 ||Date of First Reading|14.1.98|
 |||(Bill No. 2/98 published on 15.1.98)|
 ||Date of Second and Third Readings|27.2.98|
 ||Date of commencement|1.4.98|
-|6.|**1998 Revised Edition—Films Act**|
+|5.|**1998 Revised Edition—Films Act**|
 ||Date of operation|15 December 1998|
-|7.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+|6.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||(Consequential amendments made by)||
 ||Date of First Reading|1 October 2002|
-|||(Bill No. 37/2002 published on 29 November 2002)|
+|||(Bill No. 37/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 January 2003|
+|7.|**Act 13 of 2009—Films (Amendment) Act 2009**|
+||Date of First Reading|22 January 2009|
+|||(Bill No. 5/2009 published on 22 January 2009)|
+||Date of Second and Third Readings|23 March 2009|
+||Date of commencement|26 May 2009|
