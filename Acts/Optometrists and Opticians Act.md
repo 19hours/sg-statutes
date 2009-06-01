@@ -98,7 +98,7 @@
 
 - [40 Pending investigations, proceedings, etc.](#Pending-investigations-proceedings-etc)
 
-[**THE SCHEDULE Part I**](#THE-SCHEDULE)
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -700,7 +700,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Amendment of Schedule
 
-36\. The Minister may, after consultation with the Board, by order published in the Gazette, amend the Schedule.
+36\. The Minister may, after consultation with the Board, by order published in theGazette, amend the Schedule.
 
 ### Regulations
 
@@ -803,26 +803,26 @@ Acts or Activities Constituting
 
 2\. Interpreting prescriptions of medical practitioners and optometrists.
 
-3. Supplying, preparing and dispensing of all optical appliances, except for contact lenses .
+3. Supplying, preparing and dispensing of all optical appliances, except for contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).
 
 [S 249/2009 wef 01/06/2009]
 
-4. Fitting, adjusting and adapting of all optical appliances, except for contact lenses , to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+4. Fitting, adjusting and adapting of all optical appliances, except for contact lenses (whether or not they fall within the definition of “optical appliances” in section 2), to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
 
 [S 249/2009 wef 01/06/2009]
 
 Part II
 
-Acts or Activities Constituting
+ACTS OR ACTIVITIES CONSTITUTING
 
 
 
 
-“Optometry” or “Practice of Optometry”
+“OPTOMETRY” OR “THE PRACTICE OF OPTOMETRY”
 
 1\. Refraction.
 
-2. Prescribing of optical appliances .
+2. Prescribing of optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).
 
 [S 249/2009 wef 01/06/2009]
 
@@ -842,15 +842,15 @@ Acts or Activities Constituting
 
 4\. Interpreting prescriptions of medical practitioners and optometrists.
 
-5. Supplying, preparing and dispensing of all optical appliances .
+5. Supplying, preparing and dispensing of all optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).
 
 [S 249/2009 wef 01/06/2009]
 
-6. Fitting, adjusting and adapting of all optical appliances to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+6. Fitting, adjusting and adapting of all optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2) to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
 
 [S 249/2009 wef 01/06/2009]
 
-[G.N. No.S 92/2008]
+[G.N. No. S 92/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -871,13 +871,17 @@ This Legislative History is provided for the convenience of users of the Optomet
 ||Date of commencement|22 February 2008|
 |3.|**2008 Revised Edition—Optometrists and Opticians Act**|
 ||Date of operation|31 December 2008|
+|4.|**G. N. No. S 249/2009—Optometrists and Opticians Act (Amendment of Schedule) Order 2009**|
+||Date of commencement|1 June 2009|
 ## COMPARATIVE TABLE
 
 Optometrists and Opticians Act
 
 (CHAPTER 213A)
 
-The following provisions in the Optometrists and Opticians Act 2007 (Act 36 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition
+The following provisions in the Optometrists and Opticians Act 2007 (Act 36 of 2007) have been renumbered by the Law Revision Commissioners in this 2008 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Optometrists and Opticians Act.
 
 2008 Ed\. 
 
