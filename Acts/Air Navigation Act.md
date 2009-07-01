@@ -24,7 +24,7 @@
 
 - [7 Prohibited carriage and prohibited photography over protected areas](#Prohibited-carriage-and-prohibited-photography-over-protected-areas)
 
-- [8 Establishment of aerodromes by Minister](#Establishment-of-aerodromes-by-Minister)
+- [8 (Repealed)](#Repealed)
 
 - [9 Trespass, nuisance and responsibility for damage](#Trespass-nuisance-and-responsibility-for-damage)
 
@@ -112,7 +112,7 @@ PRELIMINARY
 
 “aerodrome” means any area of land or water designed, equipped, set apart or commonly used for affording facilities for the landing and departure of aircraft;
 
-“Authority” means the Civil Aviation Authority of Singapore established under section 3 of the Civil Aviation Authority of Singapore Act [Cap. 41];
+“Authority” means the Civil Aviation Authority of Singapore established under section 4 of the Civil Aviation Authority of Singapore Act 2009;
 
 “Chicago Convention” means the Convention on International Civil Aviation concluded at Chicago on 7th December 1944;
 
@@ -256,11 +256,7 @@ Provided that this paragraph shall not apply to photographic apparatus allowed t
 
 (5) The Director-General of Customs or his agent may seize and develop, without paying compensation, any photographic films or plates carried in the aircraft, which he may reasonably suspect of having been used in contravention of any provision of this Act or of the Official Secrets Act.
 
-### Establishment of aerodromes by Minister
-
-8\.—(1) The Minister shall have power to establish and maintain aerodromes (including power to provide and maintain roads and approaches, buildings and other accommodation and apparatus and equipment for such aerodromes) and to acquire land for that purpose, by agreement or in accordance with the provisions of any written law in force relating to the acquisition of land for public purposes.
-
-(2) The purposes for which the Minister may acquire land under this section shall include the purpose of securing that the land adjacent to the site of an aerodrome, which the Minister has established or is about to establish, shall not be used in such manner as to cause interference with, or danger or damage to, aircraft at, or approaching or leaving the aerodrome.
+8\. [Repealed by Act 17/2009 wef 01/07/2009]
 
 ### Trespass, nuisance and responsibility for damage
 
@@ -424,7 +420,7 @@ Provided that no such order shall be made in relation to any structure if it app
 
 (a) “aerodrome to which this section applies” means any premises which, by virtue of an order made under section 3, are for the time being licensed as an aerodrome for public use or any Government aerodrome; and
 
-(b) “proprietor of the aerodrome” in relation to any premises used or appropriated for use as an aerodrome, means the person carrying on or entitled to carry on the business of an aerodrome in those premises, or, in the case of a Government aerodrome, the officer in charge of such aerodrome.
+(b) “proprietor of the aerodrome” in relation to any premises used or appropriated for use as an aerodrome, means the airport licensee or exempt airport operator under the Civil Aviation Authority of Singapore Act 2009 for those premises, or, in the case of a Government aerodrome, the officer in charge of such aerodrome.
 
 [19
 
@@ -552,21 +548,21 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
-[12/2007 wef 19/02/2007]
+[12/2007 wef 19/02/2007 wef 19/02/2007]
 
 (b) $5,000,
 
-[12/2007 wef 19/02/2007]
+[12/2007 wef 19/02/2007 wef 19/02/2007]
 
 whichever is the lower.
 
 [32/86]
 
-[12/2007 wef 19/02/2007]
+[12/2007 wef 19/02/2007 wef 190/2/2007]
 
 (1A) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-[12/2007 wef 19/02/2007]
+[12/2007 wef 19/02/2007 wef 19/02/2007]
 
 (2) The Minister may make rules to prescribe the offences which may be compounded.
 
@@ -620,43 +616,47 @@ This Legislative History is provided for the convenience of users of the Air Nav
 |:-|:-|:-|
 |1.|**Act 11 of 1966—Air Navigation Act 1966**|
 ||Date of First Reading|23 February 1966|
-|||(Bill No. 10/1966)|
-||Date of Second and Third Readings|Dates not available.|
+|||(Bill No. 10/1966) published on 2 March 1966|
+||Date of Second and Third Readings|21 April 1966|
 ||Date of commencement|13 May 1966|
 |2.|**1970 Revised Edition (Cap. 87)—Air Navigation Act 1970**|
-||Date of operation|1 January 1970|
+||Date of operation|15 April 1971|
 |3.|**Act 12 of 1971—Tokyo Convention Act 1971**|
 ||Date of First Reading|30 July 1971|
-|||(Bill No. 4/1971)|
-||Date of Second and Third Readings|Dates not available.|
+|||(Bill No. 4/1971) published on 2 August 1971|
+||Date of Second and Third Readings|19 October 1971|
 ||Date of commencement|1 January 1972|
 |4.|**1985 Revised Edition—Air Navigation Act**|
-||Date of operation|1 January 1985|
+||Date of operation|30 March 1987|
 |5.|**Act 32 of 1986—Statutes (Miscellaneous Amendments) Act 1986**|
 ||Date of First Reading|27 October 1986|
-|||(Bill No. 24/1986 published on 23 January 1987)|
+|||(Bill No. 24/1986 published on 31 October 1986)|
 ||Date of Second and Third Readings|9 December 1986|
 ||Date of commencement|23 January 1987|
-|6.|**1985 Revised Edition—Air Navigation Act**|
-||Date of operation|30 March 1987|
-|7.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
 ||Date of First Reading|11 July 1997|
-|||(Bill No. 6/1997 published on 12 September 1997)|
+|||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
-||Dates of commencement|1 October 1997|
-|||1 September 1998|
-|8.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Dates of commencement|1 October 1997 (except section 3)|
+|||1 September 1998 (section 3)|
+|7.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
 ||Date of First Reading|25 August 2000|
-|||(Bill No. 22/2000 published on 27 October 2000)|
+|||(Bill No. 22/2000 published on 26 August 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
-|9.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+|8.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||Date of First Reading|10 March 2003|
-|||(Bill No. 6/2003 published on 4 April 2003)|
+|||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
-|10.|**Act 12 of 2007—Air Navigation (Amendment) Act 2007**|
+|9.|**Act 12 of 2007—Air Navigation (Amendment) Act 2007**|
 ||Date of First Reading|8 November 2006|
-|||(Bill No. 24/2006 published on 16 February 2007)|
+|||(Bill No. 24/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|19 February 2007|
+|10.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Dates of commencement|Date of coming into operation: 1st July 2009 (except sections 86 and 87)|
+|||Date of coming into operation: 1st October 2009 (sections 86 and 87)|
