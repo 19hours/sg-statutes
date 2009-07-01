@@ -654,8 +654,6 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 “limited partnership” means a limited partnership registered or formed under any law in force in Singapore or elsewhere;
 
-[27/2009 wef 04/05/2009]
-
 “local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
 
 “permanent establishment” means a fixed place where a business is wholly or partly carried on including —
@@ -7317,7 +7315,7 @@ an allowance or charge, to be known as a balancing allowance or a balancing char
 
 [13/84]
 
-(5) Notwithstanding anything in this section but subject to subsection (6A), where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
+(5) Notwithstanding anything in this section but subject to subsection (6A), where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open- market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
 
 where A
 
@@ -8435,6 +8433,10 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (15) The statutory income for any year of assessment of any beneficiary under a trust shall be that share of the statutory income of the trustee for that year of assessment which corresponds to the share of the trust income to which the beneficiary is entitled for the year preceding the year of assessment.
 
+(15A) Where a unitholder of a real estate investment trust is entitled to an amount, being a return of capital, from a trustee of the real estate investment trust, the cost of the units to the unitholder shall be reduced by the amount entitled.
+
+[27/2009 wef 01/07/2009]
+
 (16) In subsection (15), “statutory income of the trustee” does not include —
 
 (a) in relation to a trustee of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than the income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii) and (iv);
@@ -8742,8 +8744,6 @@ is the transferred deduction transferred by him in that year of assessment.
 (b) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, of any profits or gains of the trade, business, profession or vocation from any past year of assessment to which he is entitled as a limited partner but which he has not, directly or indirectly, received (whether as a distribution or a loan from the limited partnership or otherwise);
 
 “limited partner” has the same meaning as in the Limited Partnerships Act 2008 (Act 37 of 2008);
-
-[27/2009 wef 04/05/2009]
 
 “past relevant deductions”, in relation to a limited partner of a limited partnership in any year of assessment, means the aggregate of any relevant deductions allowed to the partner less any amount deemed under subsection (4) to be income chargeable with tax in any year of assessment before that year of assessment;
 
@@ -9637,7 +9637,7 @@ is any amount deducted by the transferor against his or her assessable income fo
 
 [29/2010 wef 22/11/2010]
 
-(b) the amount standing to its research and development account on the last day of that basis period is less than $450,000 ,
+(b) the amount standing to its research and development account on the last day of that basis period is less than $450,000,
 
 [29/2010 wef 22/11/2010]
 
@@ -10731,7 +10731,7 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (2A) Subsection (2) shall not apply to —
 
-(a) in the case of a real estate investment trust, any income from any trade or business carried on by the trustee, other than the following income distributed by the trustee :
+(a) in the case of a real estate investment trust, any income from any trade or business carried on by the trustee, other than the following income distributed by the trustee in cash or, if the conditions specified in subsection (2B) are satisfied, in units in the trust:
 
 (i) rental income or income from the management or holding of immovable property but not including gains from the disposal of immovable property;
 
@@ -10743,7 +10743,7 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 [27/2009 wef 01/07/2009]
 
-(b) in the case of any approved sub-trust of a real estate investment trust, any income from any trade or business carried on by the trustee, other than the following income distributed by the trustee to the trustee of the real estate investment trust:
+(b) in the case of any approved sub-trust of a real estate investment trust, any income from any trade or business carried on by the trustee, other than the following income distributed by the trustee in cash to the trustee of the real estate investment trust:
 
 (i) rental income or income from the management or holding of immovable property but not including gains from the disposal of immovable property;
 
@@ -10754,6 +10754,16 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 (c) in the case of any other trust, any income from any trade or business carried on by the trustee.
 
 [7/2007; 53/2007]
+
+(2B) The conditions referred to in subsection (2A)(a) are —
+
+(a) the distribution is made at any time from 1st July 2009 to 31st December 2010 (both dates inclusive) by the trustee of the real estate investment trust out of income specified in subsection (2A)(a)(i) to (iv);
+
+(b) before the distribution, the trustee of the real estate investment trust has given to unitholders receiving the distribution an option to receive the same either in cash or units in the trust; and
+
+(c) the trustee of the real estate investment trust has sufficient cash available on the date of such distribution to make the distribution fully in cash had no option been given to those unitholders to receive the distribution in units in the trust.
+
+[27/2009 wef 01/07/2009]
 
 (3) Notwithstanding anything in this Act but subject to subsection (3A), tax at the rate of 15% shall be levied and paid on the gross amount of —
 
@@ -14284,6 +14294,8 @@ $100,000
 
 Part C
 
+Part C
+
 Rates of Tax for the Computation of Relief
 
 
@@ -15920,6 +15932,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 17/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|23 November 2009|
 ||Date of commencement|4 May 2009 (Section 2, 27)|
+|248.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 July 2009 (Section 25, 33(c), (d), (e))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
