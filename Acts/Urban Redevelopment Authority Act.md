@@ -176,9 +176,7 @@ PRELIMINARY
 
 “chief executive” means the chief executive of the Authority appointed under section 18 and includes any temporary chief executive of the Authority;
 
-“develop” has the same meaning as in section 12 of the Planning Act [Cap. 232,];
-
-[1990 Ed.]
+“develop” has the same meaning as in section 12 of the Planning Act (Cap. 232, 1990 Ed.);
 
 “developed land” means land of the Authority upon which a building has been erected;
 
@@ -190,15 +188,15 @@ PRELIMINARY
 
 “member” means a member of the Authority;
 
-“monument” has the same meaning as in the Preservation of Monuments Act;
+“monument” has the same meaning as in the Preservation of Monuments Act 2009;
+
+[16/2009 wef 01/07/2009 wef 01/07/2009]
 
 “Planning Department” means the Planning Department of the Ministry of National Development;
 
 “property” includes houses, buildings, lands and tenements;
 
-“repealed Act” means the Urban Redevelopment Authority Act [Cap. 340,] repealed by this Act;
-
-[1985 Ed.]
+“repealed Act” means the Urban Redevelopment Authority Act (Cap. 340, 1985 Ed.) repealed by this Act;
 
 “Research and Statistics Unit” means the Research and Statistics Unit of the Ministry of National Development;
 
@@ -824,13 +822,11 @@ Financial Provisions
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50,].
-
-[1988 Ed.]
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50, 1988 Ed.).
 
 4. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
-[S 227/95]
+[S 227/95 wef 18/05/1995]
 
 5\. The Authority shall, as soon as practicable but not later than 31st July in every year, prepare and submit the financial statements in respect of the preceding financial year to the auditor who shall audit and report on them.
 
@@ -987,3 +983,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|12.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 9/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
