@@ -355,12 +355,7 @@ Central Provident Fund Act (Chapter 36)
 
 7. Civil Aviation Authority of Singapore
 
-Civil Aviation Authority of Singapore Act
-
-
-
-
-(Chapter 41)
+Civil Aviation Authority of Singapore Act 2009
 
 8. Civil Service College
 
@@ -529,9 +524,7 @@ Ngee Ann Polytechnic Act (Chapter 207)
 
 People’s Association Act (Chapter 227)
 
-36. Preservation of Monuments Board
-
-Preservation of Monuments Act (Chapter 239)
+36.Deleted by Act 16/2009, wef 01/07/2009.
 
 37. Public Transport Council
 
@@ -621,6 +614,8 @@ Urban Redevelopment Authority Act
 
 (Chapter 340).
 
+[17/2009 wef 01/07/2009]
+
 ## LEGISLATIVE HISTORY
 
 Accounting Standards Act
@@ -638,3 +633,14 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of commencement|1 November 2007|
 |2.|**2008 Revised Edition—Accounting Standards Act**|
 ||Date of operation|31 July 2008|
+|3.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 9/2009 published on 12 June 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
+|4.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 22 May 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Dates of commencement|Date of coming into operation: 1st July 2009|
+|||Date of coming into operation: 1st October 2009 (sections 86 and 87)|
