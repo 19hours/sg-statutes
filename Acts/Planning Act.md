@@ -162,7 +162,7 @@
 
 - [62 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-[**FIRST SCHEDULE Qualified Persons**](#FIRST-SCHEDULE-Qualified-Persons)
+[**FIRST SCHEDULE Qualified persons**](#FIRST-SCHEDULE-Qualified-persons)
 
 [**SECOND SCHEDULE Uses**](#SECOND-SCHEDULE-Uses)
 
@@ -322,7 +322,9 @@ PRELIMINARY
 
 (g) subject to subsection (2)(h), the use of any building or part thereof for any purpose other than that for which the building was originally constructed involves a material change in the use of the building;
 
-(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act (Cap. 239) shall constitute building operations; and
+(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act 2009 shall constitute building operations; and
+
+[16/2009 wef 01/07/2009]
 
 (i) the use and operation as 2 or more separate entities of any building or buildings or part of a building which is or are approved or authorised to be used and operated as one single entity for any of the uses specified in the Second Schedule involves a material change in the use of the building or buildings or part of the building.
 
@@ -336,11 +338,13 @@ PRELIMINARY
 
 (a) in the case of any development described in Part I of the Third Schedule, the grant of any lease for any unit in the development for a term not exceeding an aggregate of 14 years;
 
+[30/2003 wef 10/12/2003]
+
 (b) in the case of any development described in Part II of the Third Schedule, the grant of any lease for a building or any part of a building comprised in the development for a term not exceeding an aggregate of 14 years; or
 
-(c) in the case of any other land, the grant of any lease of the whole or part of the land for a term not exceeding an aggregate of 7 years.
-
 [30/2003 wef 10/12/2003]
+
+(c) in the case of any other land, the grant of any lease of the whole or part of the land for a term not exceeding an aggregate of 7 years.
 
 (3) The Minister may, at any time, by order published in theGazetteamend, delete or add to the list of leases in subsection (2) which shall not be regarded as a disposal of land or part thereof.
 
@@ -350,9 +354,9 @@ PRELIMINARY
 
 (a) the fact that the term of a lease may be extended in pursuance of an option shall be taken into consideration in determining whether the term of the lease exceeds any of the periods specified in subsection (2); and
 
-(b) the fact that a lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining the term of the lease.
-
 [30/2003 wef 10/12/2003]
+
+(b) the fact that a lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining the term of the lease.
 
 ### Competent authority
 
@@ -526,11 +530,7 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 the competent authority may, without checking the information, documents, forms or plans, determine the application on the basis of the certificate or declaration of the qualified person.
 
-[30/2003 wef 10/12/2003]
-
 (2) Notwithstanding subsection (1), the competent authority may, in his discretion, carry out random checks on any information, document, form or plan relating to any application for written permission before or after determining the application.
-
-[30/2003 wef 10/12/2003]
 
 (3) The competent authority may at any time revoke any written permission granted under subsection (1) if he is satisfied that —
 
@@ -538,11 +538,7 @@ the competent authority may, without checking the information, documents, forms 
 
 (b) any document, form or plan submitted for the application is not in compliance in any material particular with the provisions of this Act and the requirements as may be specified by the competent authority in respect of the application.
 
-[30/2003 wef 10/12/2003]
-
 (4) Where the competent authority revokes a written permission under subsection (3), any development of land, works within a conservation area or subdivision of land (as the case may be) carried out pursuant to that written permission shall be deemed to have been carried out without the requisite written permission.
-
-[30/2003 wef 10/12/2003]
 
 (5) Any qualified person who —
 
@@ -581,6 +577,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (a) requirements for compliance with any conservation guidelines or any other requirements relating to conservation;
 
 (b) requirements for making good any damage caused to the building by any works after the works are completed; and
+
+[30/2003 wef 10/12/2003]
 
 (c) where the approval of the Commissioner of Building Control under the Building Control Act (Cap. 29) is required to be obtained for the plans of the building works with regard to any works within a conservation area, requirements for the submission to the competent authority, within 7 days of the application for approval made to the Commissioner of Building Control, of a declaration by a qualified person that the plans submitted to the Commissioner of Building Control for the application with regard to such works are in accordance with the plans approved by the competent authority in the grant of the conservation permission.
 
@@ -1186,15 +1184,13 @@ TEMPORARY DEVELOPMENT LEVY
 
 “temporary permission” means a planning permission or conservation permission granted for a specified period of 10 years or less.
 
+[30/2003 wef 10/12/2003]
+
 ### Liability to pay temporary development levy
 
 40B\.—(1) The competent authority shall determine whether a temporary development levy is payable in respect of any proposed development of land to be authorised by a temporary permission and, if payable, the amount thereof.
 
-[30/2003 wef 10/12/2003]
-
 (2) The competent authority shall issue and serve a notice requiring the payment of the amount of temporary development levy on the person liable for the payment in accordance with subsection (3).
-
-[30/2003 wef 10/12/2003]
 
 (3) The competent authority may, in his discretion, impose the temporary development levy on —
 
@@ -1202,17 +1198,13 @@ TEMPORARY DEVELOPMENT LEVY
 
 (b) the person who applied for the temporary permission.
 
-[30/2003 wef 10/12/2003]
-
 (4) The liability of the person on whom the temporary development levy is imposed shall continue notwithstanding any change in ownership of the land.
-
-[30/2003 wef 10/12/2003]
 
 (5) Notwithstanding section 13(2), the competent authority shall not grant any temporary permission until the temporary development levy payable under a notice under subsection (2) is paid to the competent authority.
 
-[30/2003 wef 10/12/2003]
-
 (6) Notwithstanding the provisions of any other written law relating to the registration of any interest or encumbrance over land, any outstanding amount of temporary development levy shall be secured as a first charge against the land to which the temporary permission relates and shall, subject to any other rights of the Government, prevail over all other estates and interests whenever created.
+
+[30/2003 wef 10/12/2003]
 
 ### Remission of temporary development levy
 
@@ -1408,11 +1400,7 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 60A\.—(1) The Minister may at any time, by order published in theGazette, amend the Schedules.
 
-[30/2003 wef 10/12/2003]
-
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
-
-[30/2003 wef 10/12/2003]
 
 (3) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1510,15 +1498,11 @@ FIRST SCHEDULE
 
 Section 2
 
-Qualified Persons
+Qualified persons
 
-1. Any person who is registered as an architect under the Architects Act (Cap. 2) and who has in force a practising certificate issued under that Act.
+1\. Any person who is registered as an architect under the Architects Act (Cap. 2) and who has in force a practising certificate issued under that Act.
 
-[30/2003 wef 10/12/2003]
-
-2. Any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
-
-[30/2003 wef 10/12/2003]
+2\. Any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
 
 3. Any person who is registered as a land surveyor under the Land Surveyors Act (Cap. 156) and who has in force a practising certificate issued under that Act.
 
@@ -1543,6 +1527,8 @@ Section 3(3)(i) applies to any building or buildings or part of a building which
 (e) place of worship;
 
 (f) workers’ dormitory;
+
+[S 657/2004 wef 28/10/2004]
 
 (g) industrial retail building;
 
@@ -1606,13 +1592,15 @@ shopping;
 
 any combination of office, shopping and residential flat uses.
 
+[30/2003 wef 28/10/2003]
+
 ## LEGISLATIVE HISTORY
 
 Planning Act
 
 (CHAPTER 232)
 
-This Legislative History is provided for the convenience of users of the Planning Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Planning Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1700,7 +1688,7 @@ This Legislative History is provided for the convenience of users of the Plannin
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
-||Dates of commencement|10th December 2003|
+||Date of commencement|10th December 2003|
 |23.|**G. N. No. S 657/2004—Planning Act (Amendment of Second Schedule) Order 2004**|
 ||Date of commencement|28 October 2004|
 |24.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
@@ -1713,3 +1701,9 @@ This Legislative History is provided for the convenience of users of the Plannin
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|1st January 2008 (section 12)|
+|26.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 9/2009 published on 24 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
