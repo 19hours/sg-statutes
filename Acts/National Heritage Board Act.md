@@ -118,6 +118,8 @@
 
 - [47 Board’s symbol](#Board’s-symbol)
 
+- [47A Preservation of secrecy](#Preservation-of-secrecy)
+
 - [48 Immunity of Board and its employees, etc.](#Immunity-of-Board-and-its-employees-etc)
 
 - [49 Regulations](#Regulations)
@@ -237,9 +239,13 @@ AND POWERS OF BOARD
 
 (e) to conduct records management programmes for the Government;
 
-(f) to record, preserve and disseminate the history of Singapore through oral history methodology or other means; and
+(f) to record, preserve and disseminate the history of Singapore through oral history methodology or other means;
 
-(g) to advise the Government in respect of matters relating to the national heritage of Singapore.
+(g) to advise the Government in respect of matters relating to the national heritage of Singapore; and
+
+(h) to perform such other functions as are conferred on the Board by any other written law.
+
+[16/2009 wef 01/07/2009]
 
 ### Powers of Board
 
@@ -277,11 +283,15 @@ AND POWERS OF BOARD
 
 ### Appointment of committees and delegation of powers
 
-8\.—(1) The Board may appoint, from among its own members or other persons who are not members of the Board, such number of committees as it thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
+8\.—(1) The Board may, in its discretion, appoint such number of committees as it thinks fit consisting of its members or other persons or its members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
 
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or to any member, officer or employee of the Board, any of the functions or powers of the Board under this Act, except the power of delegation conferred by this section.
+(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or to the Chairman, all or any of the powers and functions vested in the Board by this Act, except the power of delegation under this subsection and the power to make any subsidiary legislation under this Act; and any power or function so delegated may be exercised or performed by the committee or Chairman in the name and on behalf of the Board.
 
-(3) No delegation under this section shall prevent the performance or exercise of any function or power by the Board.
+(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Board or to any other person all or any of the powers and functions vested in the Board by this Act, except the power of delegation under this subsection and the power to make any subsidiary legislation under this Act; and any power or function so delegated may be exercised or performed by the employee or person in the name and on behalf of the Board.
+
+(4) The Board may continue to exercise any power conferred upon it, or perform any function under this Act, notwithstanding the delegation of the power or function under this section.
+
+[16/2009 wef 01/07/2009]
 
 ### Annual report
 
@@ -531,9 +541,13 @@ FUNDS AND PROPERTY OF BOARD
 
 (c) all moneys received by the Board by way of grants;
 
-(d) all fees, commissions, rents, interests, dividends and other income accruing to the Board; and
+(d) all fees, commissions, rents, interests, dividends and other income accruing to the Board;
 
-(e) all moneys borrowed by the Board under this Act.
+(e) all moneys borrowed by the Board under this Act; and
+
+(f) all moneys recovered or collected by the Board or any officer or employee thereof (including sums collected for the composition of offences) under this Act or under any other written law that is administered and enforced by the Board.
+
+[16/2009 wef 01/07/2009]
 
 (2) The Board may open and maintain an account or accounts with any bank or banks as the Board thinks fit.
 
@@ -545,7 +559,17 @@ FUNDS AND PROPERTY OF BOARD
 
 ### Power to borrow
 
-32\. The Board may from time to time for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
+32\.—(1) For the performance of its functions or discharge of its duties under this Act or any other written law, the Board may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
+
+(a) mortgage, overdraft or other means, with or without security;
+
+(b) charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or
+
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
+
+(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
+
+[16/2009 wef 01/07/2009]
 
 ### Issue of shares, etc.
 
@@ -663,19 +687,21 @@ MISCELLANEOUS PROVISIONS
 
 (9) Any person who wilfully obstructs or hinders any person in the exercise of the powers conferred by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
-(10) For the purposes of this section —
+(10) In this section —
 
-“ancient monument” means any monument which, in the opinion of the Board, is of public interest by reason of the historic, architectural, traditional, artistic or archaeological interest attaching to it;
+“ancient monument” means any monument which, in the opinion of the Board, is of public interest by reason of the historic, cultural, traditional, archaeological, architectural, artistic or symbolic significance attaching to it;
 
-“monument” means —
+“monument” means the whole or any part of, or the remains of —
 
-(a) any building, structure or work, whether above or below the surface of the land, and any cave or excavation;
+(a) any building, structure, erection, statue, sculpture or other work, whether above or below the surface of the land, and any cave or excavation;
 
-(b) any site comprising the remains of any such building, structure or work or of any cave or excavation; and
+(b) any site comprising the remains of any such building, structure, erection, statue, sculpture or other work or of any cave or excavation; or
 
 (c) any site comprising, or comprising the remains of, any vehicle, vessel, aircraft or other movable structure or part thereof which neither constitutes nor forms part of any work which is a monument within paragraph (a),
 
-and any machinery attached to a monument shall be regarded as part of the monument if it could not be detached without being dismantled.
+and includes any machinery attached to or forming part of a monument which cannot be detached from the monument without being dismantled.
+
+[16/2009 wef 01/07/2009]
 
 (11) For the purposes of this section, “archaeological investigation” means any investigation of any land, objects or other material for the purpose of obtaining and recording any information of archaeological or historical interest and includes in the case of an archaeological investigation of any land —
 
@@ -691,9 +717,25 @@ and any machinery attached to a monument shall be regarded as part of the monume
 
 (2) A person who, without the permission of the Board, uses a symbol or representation identical with that of the Board or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
+### Preservation of secrecy
+
+47A\.—(1) Without prejudice to section 18(2), except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or under the provisions of this Act or any written law, no person who is or has been —
+
+(a) a member, an officer, an employee or an agent of the Board; or
+
+(b) a member of a committee appointed by the Board under this Act or any written law administered by the Board,
+
+shall disclose any information relating to the affairs of the Board or of any other person which has been obtained by him in the performance of his functions or the discharge of his duties.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[16/2009 wef 01/07/2009]
+
 ### Immunity of Board and its employees, etc.
 
-48\. No suit or other legal proceedings shall lie against the Board, any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act .
+48\. No suit or other legal proceedings shall lie against the Board, any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or the Preservation of Monuments Act 2009.
+
+[16/2009 wef 01/07/2009]
 
 ### Regulations
 
@@ -906,3 +948,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 22/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|1 March 2007|
+|6.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 9/2009 published on 24 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
