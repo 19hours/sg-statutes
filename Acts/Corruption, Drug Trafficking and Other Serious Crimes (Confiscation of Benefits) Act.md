@@ -2150,7 +2150,7 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 “commercial passenger carrier” means a person who, in the normal course of a business, carries passengers for reward, and includes his employee;
 
-“eligible place” means any islet, landing place, wharf, dock, railway or quay or premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A) or the Civil Aviation Authority of Singapore Act (Cap. 41);
+“eligible place” means any islet, landing place, wharf, dock, railway or quay or premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A) or the Civil Aviation Authority of Singapore Act 2009;
 
 [17/2009 wef 01/07/2009]
 
@@ -2170,13 +2170,19 @@ and includes a negotiable instrument that has been signed but with the payee’s
 
 “send” includes send through the post or by means of another person.
 
+[44/2007 wef 01/11/2007]
+
 (2) In determining whether an amount of foreign currency (including an amount in which a document is denominated) is equivalent to a Singapore dollar amount under this Part, the amount of foreign currency is to be translated to Singapore currency at the exchange rate applicable at the relevant time.
+
+[44/2007 wef 01/11/2007]
 
 (3) For the purposes of this Part ––
 
 (a) a person moves cash out of Singapore if the person takes or sends the cash (whether in a receptacle or otherwise) out of Singapore; and
 
 (b) a person moves cash into Singapore if the person brings or sends the cash (whether in a receptacle or otherwise) into Singapore.
+
+[44/2007 wef 01/11/2007]
 
 ### Reports about cross border movements of cash
 
@@ -3487,10 +3493,6 @@ Importation of woman or girl by false pretences
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-[20/2001 wef 01/10/2001]
-
-[S 187/2009 wef 01/05/2009]
-
 Part ii — Offences included as serious offences with effect from 9th September 2005
 
 [S 579/2005 wef 09/09/2005]
@@ -4361,8 +4363,6 @@ Contravention of order for restraint of property
 
 *Note: The short description of offences is for ease of reference only.
 
-[S 187/2009 wef 01/05/2009]
-
 Part vi — Offences included as serious offences with effect from 1st February 2008
 
 Offences
@@ -4494,14 +4494,12 @@ Terrorist bombing
 
 Failure to disclose information about acts of terrorist bombing
 
-Part viiiPart VIII — Offences included as serious offences
+Part viii — Offences included as serious offences
 
 
 
 
 with effect from 1st May 2009
-
-[S 187/2009 wef 01/05/2009]
 
 Offences
 
@@ -4526,8 +4524,6 @@ Possession of chips outside designated site
 Forgery
 
 *Note: The short description of offences is for ease of reference only.
-
-[S 187/2009 wef 01/05/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -4643,6 +4639,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Date of commencement|1 March 2009|
 |24.|**G. N. No. S 187/2009—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2009**|
 ||Date of commencement|1 May 2009|
+|25.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Dates of commencement|1 July 2009 (except sections 86 and 87)|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
