@@ -134,12 +134,7 @@ Central Provident Fund Act
 
 7. Civil Aviation Authority of Singapore
 
-Civil Aviation Authority of Singapore Act
-
-
-
-
-(Chapter 41)
+Civil Aviation Authority of Singapore Act 2009
 
 8. Civil Service College
 
@@ -470,7 +465,7 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
-[48/2007 wef 01/09/2008]
+[17/2009 wef 01/07/2009]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
@@ -568,3 +563,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 36/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|1 September 2008|
+|28.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
