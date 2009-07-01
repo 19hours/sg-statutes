@@ -1996,6 +1996,8 @@ Acetic acid
 
 Substances containing not more than 80%, weight in weight, of acetic acid;
 
+Acetic Anhydride
+
 Preparations and solutions for photographic use.
 
 Acetyl bromide
@@ -2236,7 +2238,7 @@ Methoxychlor [1,1,1-trichloro-2,2-di-(p-methoxyphenyl) ethane]
 
 Mirex
 
-Tetrachlordiphenylethane [TDE; 1,1-dichloro-2,2-bis (p-chlorophenyl) ethane]
+Tetrachlorodiphenylethane [TDE; 1,1-dichloro-2,2-bis (p-chlorophenyl) ethane]
 
 Tetradifon
 
@@ -2372,7 +2374,7 @@ Ferric chloride
 
 Fipronil
 
-Formulated products containing Fipronil approved for household use and belonging to the WHO Class IV hazards.
+Formulated products containing Fipronil approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
 
 Fluorine
 
@@ -2436,6 +2438,8 @@ Lead tetra-ethyl and similar lead containing compounds —Deleted by S 43/2008, 
 
 Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles
 
+Mercury in Clinical Thermometers
+
 Mercury compounds including inorganic mercury compounds, alkyl mercury compounds, alkyloxyalkyl and aryl mercury compounds, and other organic compounds of mercury
 
 Mercury and its compounds in batteries
@@ -2460,9 +2464,9 @@ Monomethyl-dibromodiphenyl methane
 
 Neonicotinoid compounds used as pesticides, the following:
 
-Imidacloprid
+Formulated products containing Imidacloprid approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
 
-Formulated products containing Imidacloprid approved for household use and belonging to the WHO Class IV hazards.
+Imidacloprid
 
 Niclofolan
 
@@ -2824,7 +2828,7 @@ Phosphorus compounds used as pesticides (insecticides, acaricides, etc.), which 
 
 
 
-Methamidophos
+Chlorpyriphos Methamidophos
 
 
 
@@ -2931,9 +2935,9 @@ Prochloraz
 
 Pyrethroid compounds used as pesticides, the following:
 
-Fenvalerate
+Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
 
-Formulated products containing Fenvalerate approved for household use and belonging to the WHO Class IV hazards.
+Fenvalerate
 
 Propylene imine —Deleted by S 78/2005, wef 16/02/2005.
 
@@ -3001,7 +3005,27 @@ Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
 
 [S 43/2008 wef 31/01/2008]
 
+[S 62/2009 wef 01/07/2009]
+
+[S 43/2008 wef 31/01/2008]
+
+[S 62/2009 wef 01/07/2009]
+
+[S 43/2008 wef 31/01/2008]
+
 [S 78/2005 wef 16/02/2005]
+
+[S 43/2008 wef 31/01/2008]
+
+[S 62/2009 wef 01/07/2009]
+
+[S 43/2008 wef 31/01/2008]
+
+[S 62/2009 wef 01/07/2009]
+
+[S 43/2008 wef 31/01/2008]
+
+[S 62/2009 wef 01/07/2009]
 
 [S 43/2008 wef 31/01/2008]
 
@@ -3250,6 +3274,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Dates of commencement|Date of coming into operation: 1st January 2008|
 |13.|**G. N. No. S 43/2008—Environmental Protection And Management Act (Amendment Of Second Schedule) Order 2008**|
 ||Date of commencement|31 January 2008|
+|14.|**G. N. No. S 62/2009—Environmental Protection And Management Act (Amendment Of Second Schedule) Order 2009**|
+||Date of commencement|1 July 2009|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
