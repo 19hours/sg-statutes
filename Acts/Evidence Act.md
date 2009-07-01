@@ -1032,11 +1032,11 @@ Explanation.—Nothing in this section shall be taken to exempt any advocate or 
 
 30\. When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
 
-“Offence” as used in this section includes the abetment of or attempt to commit the offence.
+Explanations—“Offence” as used in this section includes the abetment of or attempt to commit the offence.
 
-(a)AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murderedC”. The court may consider the effect of this confession as againstB.
+(a) AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murderedC”. The court may consider the effect of this confession as againstB.
 
-(b)Ais on his trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid: “Aand I murderedC”.
+(b) Ais on his trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid: “Aand I murderedC”.
 
 This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
 
@@ -1542,7 +1542,7 @@ the opinions of persons having special means of knowledge thereon are relevant f
 
 (2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 494 or 495 of the Penal Code (Cap. 224).
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2520,7 +2520,7 @@ Explanation.—A lunatic is not incompetent to testify unless he is prevented by
 
 (3) In any criminal proceedings, the accused shall be competent to give evidence on behalf of himself or any person jointly charged with him, but shall not be compellable to do so.
 
-(4) Where in any criminal proceedings the accused gives evidence, then, subject to this section and section 56, he shall not in cross-examination be asked, and if asked shall not be required to answer, any question tending to reveal to the court —
+(4) Where in any criminal proceedings the accused gives evidence, then, subject to this section and section 56(1), he shall not in cross-examination be asked, and if asked shall not be required to answer, any question tending to reveal to the court —
 
 (a) the fact that he has committed, or has been charged with or convicted or acquitted of, any offence other than the offence charged; or
 
@@ -3064,7 +3064,7 @@ Central Provident Fund Act (Chapter 36).
 
 3. Civil Aviation Authority of Singapore
 
-Civil Aviation Authority of Singapore Act (Chapter 41).
+Civil Aviation Authority of Singapore Act 2009
 
 3A. Civil Service College
 
@@ -3164,6 +3164,8 @@ Urban Redevelopment Authority Act (Chapter 340).
 [3/2001 wef 01/04/2001]
 
 [17/2001 wef 01/06/2001]
+
+[17/2009 wef 01/07/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -3338,3 +3340,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|22 October 2007|
 ||Date of commencement|1 February 2008|
 |||(item (3) in the Third Schedule)|
+|36.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
+|||(item (4) in the Fourth Schedule)|
