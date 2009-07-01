@@ -112,12 +112,10 @@ Central Provident Fund Act
 
 Civil Aviation Authority of Singapore
 
-Civil Aviation Authority of Singapore Act
 
 
 
-
-(Chapter 41)
+Civil Aviation Authority of Singapore Act 2009
 
 4.
 
@@ -386,11 +384,13 @@ Urban Redevelopment Authority Act
 
 [S 599/2005 wef 14/09/2005]
 
-[S 178/2008 wef 02/04/2008]
+[S 288/2005 wef 06/05/2005]
+
+[17/2009 wef 01/07/2009]
 
 [S 599/2005 wef 14/09/2005]
 
-[S 288/2005 wef 06/05/2005]
+[S 178/2008 wef 02/04/2008]
 
 Part II
 
@@ -523,3 +523,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|14 September 2005|
 |36.|**G. N. No. S 178/2008—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2008**|
 ||Date of commencement|2 April 2008|
+|37.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 10/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
