@@ -440,8 +440,6 @@ Acetanilide; alkyl acetanilides
 
 Acetazolamide; its salts
 
-Acetic anhydride
-
 Acetohexamide
 
 Acetorphine; its salts; its esters and ethers; their salts
@@ -590,7 +588,7 @@ Aminocaproic acid
 
 Aminoglutethimide; its salts
 
-()-cis-2-amino-4-methyl-5 phenyl-2-oxazoline
+(±)-cis-2-amino-4-methyl-5 phenyl-2-oxazoline
 
 Aminophylline
 
@@ -876,7 +874,7 @@ Bromocriptine; its salts
 
 Bromodiphenhydramine; its salts
 
-4-bromo-2,5, -dimethoxy-&alpha;-methylphenethylamine
+4-bromo-2,5, -dimethoxy-α-methylphenethylamine
 
 Brompheniramine; its salts
 
@@ -1072,7 +1070,7 @@ Cephaloram
 
 Cephaloridine
 
-Cephalosporins; its salts; its esters; their salts, that is to say, the antimicrobial substances containing in their chemical structure a fused dihydrothiazine ß;-lactam nucleus
+Cephalosporins; its salts; its esters; their salts, that is to say, the antimicrobial substances containing in their chemical structure a fused dihydrothiazine β-lactam nucleus
 
 Cephalothin
 
@@ -1090,7 +1088,7 @@ Cetrorelix; its salts
 
 Chenodeoxycholic acid
 
-Chloral; its addition and its condensation products other than &alpha;-chloralose; their molecular compounds
+Chloral; its addition and its condensation products other than α-chloralose; their molecular compounds
 
 Chlorambucil
 
@@ -1414,7 +1412,7 @@ Diacetylmorphine; its salts
 
 Diacetylnalorphine; its salts
 
-Diamino-diphenylsulphones; their salts; their derivatives
+Diamino-diphenylsu lphones; their salts; their derivatives
 
 Diamorphine; its salts
 
@@ -1504,7 +1502,7 @@ Dimethoxanate; its salts
 
 2, 5-Dimethoxy-4-ethylamphetamine
 
-2, 5-Dimethoxy-alpha&, 4-dimethylphenethylamine; its salts
+2, 5-Dimethoxy-α, 4-dimethylphenethylamine; its salts
 
 Dimethpyrindene; its salts
 
@@ -1732,13 +1730,13 @@ N-Ethylamphetamine
 
 Ethyl biscoumacetate
 
-()-4-ethyl-2,5-dimethoxy-&alpha;-phenethylamine
+(±)-4-ethyl-2,5-dimethoxy-α-phenethylamine
 
 Ethyl loflazepate
 
 Ethyl methylthiambutene
 
-()-N-ethyl-&alpha;-methyl-3-4-(methylenedioxy)phenethylamine
+(±)-N-ethyl-α-methyl-3–4-(methylenedioxy)phenethylamine
 
 Ethylmorphine, its salts; its esters and ethers; their salts
 
@@ -2092,7 +2090,7 @@ Human growth hormones
 
 Hydrallazine; its salts
 
-Hydrazines, benzyl, phenethyl and phenoxyethyl; their &alpha-methyl derivatives; acyl derivatives of any of the foregoing substances comprised in this item; salts of any compounds comprised in this item
+Hydrazines, benzyl, phenethyl and phenoxyethyl; their α-methyl derivatives; acyl derivatives of any of the foregoing substances comprised in this item; salts of any compounds comprised in this item
 
 Hydrochlorothiazide
 
@@ -2306,7 +2304,7 @@ Lidoflazine
 
 Lignocaine; its salts
 
-Lincomycin; its salts; its esters; their salts; that is to say, the S-alkyl derivatives of 6,8-dideoxy-6-trans- (4-alkyl- L-2-pyrrolidine carboxamido)-1-thio-D-erythro-&alpha;-D-galacto-octopyranoside and N-methylpyrrolidine analogues thereof
+Lincomycin; its salts; its esters; their salts; that is to say, the S-alkyl derivatives of 6,8-dideoxy-6-trans- (4-alkyl- L-2-pyrrolidine carboxamido)-1-thio-D-erythro-α-D-galacto-octopyranoside and N-methylpyrrolidine analogues thereof
 
 Liothyronine sodium
 
@@ -2534,11 +2532,11 @@ Methoxamine; its salts
 
 Methoxsalen
 
-2-methoxy-&alpha;-methyl-4,5-(methylenedioxy)phenethylamine
+2-methoxy-α-methyl-4,5-(methylenedioxy)phenethylamine
 
 5-methoxy-3, 4-methylene-dioxyamphetamine
 
-p-Methoxy-&alpha;-methylphenethylamine
+p-Methoxy-α-methylphenethylamine
 
 Methoxyphenamine; its salts
 
@@ -2568,13 +2566,13 @@ Methylergometrine; its salts
 
 3-Methylfentanyl and its isomeric forms
 
-()-N-[&alpha-methyl-3-4-(methylenedioxy)phenethyl]hydrox ylamine
+(±)-N-[α-methyl-3–4-(methylenedioxy)phenethyl]hydrox ylamine
 
 2-Methyl-3-morpholino-1,1-diphenylpropane carboxylic acid; its salts; its esters; their salts
 
 Methylpentynol; its esters and other derivatives
 
-|&alpha;-Methylphenethylamine, ß;-methylphenethylamine and &alpha;-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine, its optical isomers and N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxyphenamine, phenylpropanolamine, pholedrine and prenylamine; any salt of any substance falling within this item
+α-Methylphenethylamine, β-methylphenethylamine and α-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine, its optical isomers and N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxyphenamine, phenylpropanolamine, pholedrine and prenylamine; any salt of any substance falling within this item
 
 Methylphenidate; its salts
 
@@ -3008,7 +3006,7 @@ Penfluridol
 
 Penicillamine; its salts
 
-Penicillin, any antimicrobial acid, any salt thereof, or any derivative which is obtained therefrom, which may be shown on chemical and physical examination to contain in its structure a fused thiazolidine ß;-lactam nucleus; their esters; their salts
+Penicillin, any antimicrobial acid, any salt thereof, or any derivative which is obtained therefrom, which may be shown on chemical and physical examination to contain in its structure a fused thiazolidine β-lactam nucleus; their esters; their salts
 
 Penicillin V; its salts; its esters; their salts
 
@@ -4080,6 +4078,16 @@ Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
 
+[S 190/2004 wef 14/04/2004]
+
+[S 622/2003 wef 01/01/2004]
+
+[S 474/2002 wef 16/09/2002]
+
+[S 67/2000 wef 01/03/2000]
+
+[G.N. Nos. S 511/97; S 456/98; S 633/98; S 280/99]
+
 ## LEGISLATIVE HISTORY
 
 Poisons Act
@@ -4259,6 +4267,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill No. 36/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|1 September 2008|
+|65.|**G. N. No. S 305/2009—Poisons Act (Amendment of Schedule) Notification 2009**|
+||Date of commencement|1 July 2009|
 ## COMPARATIVE TABLE
 
 Poisons Act
