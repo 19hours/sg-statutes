@@ -5647,7 +5647,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (44) People’s Association.
 
-(45) Preservation of Monuments Board.
+(45) [Deleted by Act 16/2009 wef 01/07/2009]
 
 (46) Professional Engineers Board.
 
@@ -5812,9 +5812,7 @@ Self-employed Persons
 
 18A\. Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
-18B. Limited Partnerships Act 2008 (Act 37 of 2008).
-
-[S 191/2009 wef 04/05/2009]
+18B\. Limited Partnerships Act 2008 (Act 37 of 2008).
 
 19\. Maritime and Port Authority of Singapore Act (Cap. 170A).
 
@@ -6468,6 +6466,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|27 April 2009|
 |161.|**G. N. No. S 191/2009—Central Provident Fund Act (Amendment of Third Schedule) Notification 2009**|
 ||Date of commencement|4 May 2009|
+|162.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 9/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|1 July 2009|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
