@@ -120,6 +120,8 @@
 
 - [43 Penalties under this Division](#Penalties-under-this-Division)
 
+- [43A Power of Authority to exempt recognised market operators from provisions of this Part](#Power-of-Authority-to-exempt-recognised-market-operators-from-provisions-of-this-Part)
+
 [**Division 4  General Powers of Authority**](#Division-4--General-Powers-of-Authority)
 
 - [44 Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
@@ -540,6 +542,14 @@
 
 - [168 Offences under this Part](#Offences-under-this-Part)
 
+[**Division 4  Transfer of Evidence**](#Division-4--Transfer-of-Evidence)
+
+- [168A Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [168B Evidence obtained by Authority may be used in criminal investigations and proceedings](#Evidence-obtained-by-Authority-may-be-used-in-criminal-investigations-and-proceedings)
+
+- [168C Evidence obtained in police investigations may be used in civil proceedings](#Evidence-obtained-in-police-investigations-may-be-used-in-civil-proceedings)
+
 [**Part X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES**](#Part-X)
 
 - [169 Interpretation of this Part](#Interpretation-of-this-Part)
@@ -574,7 +584,7 @@
 
 - [183 Levy to meet liabilities](#Levy-to-meet-liabilities)
 
-- [184 Power of securities exchange or futures exchange to make advances to fund](#Power-of-securities-exchange-or-futures-exchange-to-make-advances-to-fund)
+- [184 Power of approved exchange to make advances to fund](#Power-of-approved-exchange-to-make-advances-to-fund)
 
 - [185 Investment of fund](#Investment-of-fund)
 
@@ -584,17 +594,17 @@
 
 - [188 Notice calling for claims against fund](#Notice-calling-for-claims-against-fund)
 
-- [189 Power of securities exchange or futures exchange to settle claims](#Power-of-securities-exchange-or-futures-exchange-to-settle-claims)
+- [189 Power of approved exchange to settle claims](#Power-of-approved-exchange-to-settle-claims)
 
-- [190 Power of securities exchange or futures exchange to require production of evidence](#Power-of-securities-exchange-or-futures-exchange-to-require-production-of-evidence)
+- [190 Power of approved exchange to require production of evidence](#Power-of-approved-exchange-to-require-production-of-evidence)
 
-- [191 Subrogation of securities exchange or futures exchange to rights, etc., of claimant upon payment from fund](#Subrogation-of-securities-exchange-or-futures-exchange-to-rights-etc-of-claimant-upon-payment-from-fund)
+- [191 Subrogation of approved exchange to rights, etc., of claimant upon payment from fund](#Subrogation-of-approved-exchange-to-rights-etc-of-claimant-upon-payment-from-fund)
 
 - [192 Payment of claims only from fund](#Payment-of-claims-only-from-fund)
 
 - [193 Provision where fund insufficient to meet claims or where claims exceed total amount payable](#Provision-where-fund-insufficient-to-meet-claims-or-where-claims-exceed-total-amount-payable)
 
-- [194 Power of securities exchange or futures exchange to enter into contracts of insurance](#Power-of-securities-exchange-or-futures-exchange-to-enter-into-contracts-of-insurance)
+- [194 Power of approved exchange to enter into contracts of insurance](#Power-of-approved-exchange-to-enter-into-contracts-of-insurance)
 
 - [195 Application of insurance moneys](#Application-of-insurance-moneys)
 
@@ -706,6 +716,8 @@
 
 - [239A Authority may disapply this Division to certain offers](#Authority-may-disapply-this-Division-to-certain-offers)
 
+- [239B Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
+
 [**Subdivision (2) — Prospectus requirements**](#Subdivision-2-—-Prospectus-requirements)
 
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
@@ -816,6 +828,8 @@
 
 - [282B Division not to apply to certain business trusts which are collective investment schemes](#Division-not-to-apply-to-certain-business-trusts-which-are-collective-investment-schemes)
 
+- [282BA Modification of provisions to certain offers](#Modification-of-provisions-to-certain-offers)
+
 [**Subdivision (2) — Prospectus requirements**](#Subdivision-2-—-Prospectus-requirements)
 
 - [282C Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
@@ -870,6 +884,8 @@
 
 - [282ZA Offer of securities acquired pursuant to section 282Y or 282Z](#Offer-of-securities-acquired-pursuant-to-section-282Y-or-282Z)
 
+- [282ZAA Offer of units converted from debentures](#Offer-of-units-converted-from-debentures)
+
 - [282ZB Offer made using offer information statement](#Offer-made-using-offer-information-statement)
 
 - [282ZC Making offer using automated teller machine or electronic means](#Making-offer-using-automated-teller-machine-or-electronic-means)
@@ -884,21 +900,9 @@
 
 [**Division 2  Collective Investment Schemes**](#Division-2--Collective-Investment-Schemes)
 
-[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
-
-- [283 Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [283A Use of term "real estate investment trust"](#Use-of-term-"real-estate-investment-trust")
-
-- [284 Code on Collective Investment Schemes](#Code-on-Collective-Investment-Schemes)
-
-- [284A Authority may disapply this Division to certain offers and invitations](#Authority-may-disapply-this-Division-to-certain-offers-and-invitations)
-
-- [284B Division not to apply to certain collective investment schemes which are business trusts](#Division-not-to-apply-to-certain-collective-investment-schemes-which-are-business-trusts)
-
 [**Subdivision (2) — Authorisation and recognition**](#Subdivision-2-—-Authorisation-and-recognition)
 
-- [285 Offers of units in collective investment schemes](#Offers-of-units-in-collective-investment-schemes)
+- [285 Requirement for authorisation or recognition](#Requirement-for-authorisation-or-recognition)
 
 - [286 Authorised schemes](#Authorised-schemes)
 
@@ -1126,11 +1130,17 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 “chairman” means a chairman of a board of directors;
 
-“chief executive officer”, in relation to an approved exchange, a recognised market operator, a designated clearing house, a person operating a clearing facility, an approved holding company or a holder of a capital markets services licence, means any person, by whatever name described, who is —
+“chief executive officer” —
 
-(a) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be; and
+(a) in relation to an approved exchange, a recognised market operator, a designated clearing house, a person operating a clearing facility, an approved holding company or the holder of a capital markets services licence, means any person, by whatever name called, who is —
 
-(b) principally responsible for the management and conduct of the business of the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be, in Singapore;
+(i) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be; and
+
+(ii) principally responsible for the management and conduct of the business of the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be, in Singapore; or
+
+(b) in relation to a corporation (other than one referred to in paragraph (a)), means any person, by whatever name called, who is in the direct employment of, or acting for or by arrangement with, the corporation, and who is principally responsible for the management and conduct of the business of the corporation;
+
+[2/2009 wef 29/07/2009]
 
 “clearing facility” has the meaning given to it in Part II of the First Schedule;
 
@@ -1140,7 +1150,9 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 (a) that is a trust;
 
-(b) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+(b) that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+[2/2009 wef 29/07/2009]
 
 (c) all or any units of which are listed for quotation on a securities exchange;
 
@@ -1204,8 +1216,6 @@ but does not include —
 
 “commodity”, in relation to a futures contract, means gold or any produce, item, goods, article or financial instrument, and includes an index, right or interest in such commodity other than a financial instrument; and such other index, right or interest of any nature as the Authority may, by notification in theGazette, prescribe to be a commodity;
 
-[35/2007 wef 27/02/2008]
-
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “connected person”, in relation to —
@@ -1238,7 +1248,7 @@ and a reference in this Act to a person connected to another person shall be con
 
 but does not include such person or class of persons as may be prescribed; or
 
-(b) for the purposes of Part III , a person on whose behalf a member of a designated clearing house carries on any activity regulated under this Act, but does not include —
+(b) for the purposes of Part III, a person on whose behalf a member of a designated clearing house carries on any activity regulated under this Act, but does not include —
 
 (i) the member, with respect to dealings for the member’s own account;
 
@@ -1462,11 +1472,11 @@ but does not include —
 
 (iii) promissory notes;
 
+[2/2009 wef 20/04/2009]
+
 (iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere; or
 
 (v) such other product or class of products as the Authority may prescribe as not being securities;
-
-[2/2009 wef 20/04/2009]
 
 “securities exchange” means an approved exchange in respect of the operation of its securities market;
 
@@ -1496,13 +1506,23 @@ but does not include —
 
 (A) some or all of the shares, or some or all of the shares of a particular class, in the company or corporation made to all members of the company or corporation, or where the person already holds shares in the company or corporation, made to all other members of the company or corporation; or
 
-(B) all of the remaining shares in the company or corporation made to all other members of the company or corporation as a result of the person acquiring or consolidating effective control of that company or corporation within the meaning of the Take-over Code; or
+(B) all of the remaining shares in the company or corporation made to all other members of the company or corporation as a result of the person acquiring or consolidating effective control of that company or corporation within the meaning of the Take-over Code;
+
+[2/2009 wef 29/07/2009]
 
 (ii) in the case of a registered business trust, or of a business trust all or any of the units of which are listed for quotation on a securities exchange —
 
 (A) some or all of the units, or some or all of the units of a particular class, in the business trust made to all unitholders of the business trust, or where the person already holds units in the business trust, made to all other unitholders of the business trust; or
 
 (B) all of the remaining units in the business trust made to all other unitholders of the business trust as a result of the person acquiring or consolidating effective control of that business trust within the meaning of the Take-over Code; or
+
+(iii) in the case of a collective investment scheme constituted as a unit trust and authorised under section 286, that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes, and all or any of the units in which are listed for quotation on a securities exchange —
+
+(A) some or all of the units, or some or all of the units of a particular class, in the scheme made to all unitholders of the scheme, or where the person already holds units in the scheme, made to all other unitholders of the scheme; or
+
+(B) all of the remaining units in the scheme made to all other unitholders of the scheme as a result of the person acquiring or consolidating effective control of that scheme within the meaning of the Take-over Code; or
+
+[2/2009 wef 29/07/2009]
 
 (b) a proposed compromise or arrangement which —
 
@@ -3152,6 +3172,14 @@ on any market operated by the recognised market operator.
 
 [1/2005]
 
+### Power of Authority to exempt recognised market operators from provisions of this Part
+
+43A\.—(1) The Authority may exempt a recognised market operator or a class of recognised market operators from any of the provisions in this Part if it is satisfied that the non-compliance by such recognised market operator or class of recognised market operators with such provision would not detract from the objectives specified in section 5.
+
+(2) Such exemption shall be subject to such conditions or restrictions as may be imposed by the Authority.
+
+[2/2009 wef 29/07/2009]
+
 Division 4 —
 
 General Powers of Authority
@@ -3260,7 +3288,9 @@ the Authority may, if it thinks it necessary in the interests of the public or a
 
 (d) for the effective administration of this Act; or
 
-(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 8(4) or (5), 14(5), (6), (8) or (9), 17(2), 27(5) or (10), 28(11), 29(2), 35 or 42(2), or such other obligations or requirements under this Act or as may be prescribed by the Authority,
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 8(4) or (5), 14(5), (6), (8) or (9), 17(2), 27(5) or (10), 28(11), 29(2), 35, 42(2) or 43A(2), or such other obligations or requirements under this Act or as may be prescribed by the Authority,
+
+[2/2009 wef 29/07/2009]
 
 issue directions, whether of a general or specific nature, by notice in writing, to an approved exchange, a recognised market operator or an exempt market operator, and the approved exchange, recognised market operator or exempt market operator shall comply with such directions.
 
@@ -3296,7 +3326,9 @@ CLEARING FACILITIES
 
 “default proceedings” means proceedings or other action taken by a designated clearing house under its default rules;
 
-“default rules”, in relation to a designated clearing house, means the business rules of the designated clearing house which provide for the taking of proceedings or other action if a participant has failed, or appears to be unable or to be likely to become unable, to meet his obligations for all unsettled or open market contracts to which he is a party;
+“default rules”, in relation to a designated clearing house, means the business rules of the designated clearing house which provide for the taking of proceedings or other action if a participant has failed, or appears to be unable or to be likely to become unable, to meet his obligations for any unsettled or open market contract to which he is a party;
+
+[2/2009 wef 29/07/2009]
 
 “defaulter” means a participant who is the subject of any default proceedings;
 
@@ -3730,57 +3762,79 @@ and the designated clearing house shall comply with such directions.
 
 ### Obligation in relation to customers’ money and assets held by designated clearing house
 
-62\.—(1) A designated clearing house which accepts money or assets deposited with or paid to it by its members in respect of or in relation to contracts of the customers of such members shall, in respect of all market contracts in relation to which money or assets are deposited with or paid to it (being market contracts which are cleared or settled by it), require each of its members to notify it in such manner as it may determine —
+62\.—(1) A designated clearing house which accepts money or assets deposited with or paid to it by its members for or in relation to contracts of the customers of such members shall, in respect of all market contracts in relation to which money or assets are deposited with or paid to it (being market contracts which are cleared or settled by it), require each of its members to notify it in such manner as it may determine —
 
 (a) whether a market contract is a contract of a customer of the member; and
 
-(b) whether the money or assets being deposited with or paid to the designated clearing house is or are deposited or paid in respect of or in relation to a contract of a customer of the member.
+(b) whether the money or assets being deposited with or paid to the designated clearing house is or are deposited or paid for or in relation to a contract of a customer of the member.
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
 
-(2) Where a member has notified the designated clearing house under subsection (1) that the money or assets are deposited or paid in respect of or in relation to a contract of a customer of the member, the designated clearing house shall —
+(2) Where a member has notified the designated clearing house under subsection (1) that the money or assets are deposited or paid for or in relation to a contract of a customer of the member, the designated clearing house shall —
 
-(a) account for all such money and assets on an aggregated basis, separate from all other money and assets received by the designated clearing house from the member; and
+(a) subject to sections 63 and 64, ensure that such money is deposited in a trust account, or such assets are deposited in a custody account, to be held for the benefit of the customers of the member and disposed of or used only for or in relation to contracts of customers of the member;
 
-(b) subject to sections 63 and 64, ensure that such money is deposited in a trust account, or such assets are deposited in a custody account, to be held for the benefit of the customers of the member and disposed of or used only in respect of or in relation to contracts of customers of the member.
+(b) ensure that such money or assets are kept separate from all money and assets received by the designated clearing house from members which have been notified by members under subsection (1) as not being deposited or paid for or in relation to contracts of customers of those members; and
 
-[1/2005]
+(c) keep books for money or assets deposited or paid for or in relation to contracts of customers of one member separate from books for money or assets deposited or paid for or in relation to contracts of customers of another member.
 
-(3) Where a designated clearing house has been convicted of an offence under section 70 for a contravention of subsection (2)(b), in so far as any money which has been deposited in a trust account, or any asset which has been deposited in a custody account, is used for any purpose other than —
+[2/2009 wef 29/07/2009]
 
-(a) in respect of or in relation to contracts of a customer of the member; or
+(3) Nothing in subsection (2)(a) shall prevent a designated clearing house from commingling all money or assets deposited pursuant to that provision in the same trust account or custody account, as the case may be.
+
+[2/2009 wef 29/07/2009]
+
+(4) Where a designated clearing house has been convicted of an offence under section 70 for a contravention of subsection (2)(a) or (b), in so far as any money which has been deposited in a trust account, or any asset which has been deposited in a custody account, is used for any purpose other than —
+
+(a) for or in relation to contracts of a customer of the member; or
 
 (b) in accordance with sections 63 and 64,
 
 the designated clearing house shall —
 
-(i) in the case of money, repay the money to the trust account referred to in subsection (2)(b); or
+(i) in the case of money, repay the money to the trust account referred to in subsection (2)(a); or
 
 (ii) in the case of assets —
 
-(A) return the asset to the custody account referred to in subsection (2)(b); or
+(A) return the asset to the custody account referred to in subsection (2)(a); or
 
-(B) if the asset cannot be returned to the custody account, deposit an amount of money which is equivalent to the monetary value of the asset at the time of the contravention of subsection (2)(b) in a trust account referred to in subsection (2)(b) for the benefit of the customers of the member.
+(B) if the asset cannot be returned to the custody account, deposit an amount of money which is equivalent to the monetary value of the asset at the time of the contravention of subsection (2)(a) or (b) in the trust account referred to in subsection (2)(a) for the benefit of the customers of the member.
 
-[1/2005]
+[2/2009 wef 29/07/2009]
 
 ### Permissible use of customers’ money and assets by designated clearing house
 
-63\.—(1) Where a member of a designated clearing house fails to meet its obligations to the designated clearing house, the designated clearing house may use any money or assets deposited or paid in respect of or in relation to contracts of customers of the member and held by the designated clearing house, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(b), to meet the obligations of the member to the designated clearing house, if the designated clearing house has reasonable grounds for forming an opinion that —
+63\.—(1) Where a member of a designated clearing house fails to meet its obligations to the designated clearing house that arise from contracts of customers of the member (referred to in this section as the subject obligations), the designated clearing house may use any money or assets deposited or paid for or in relation to contracts of customers of the member and held by the designated clearing house (including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(a)) (collectively referred to in this section as customers’ money or assets) to meet the subject obligations, if —
 
-(a) the failure of the member to meet the member’s obligations is directly attributable to the failure of any of the customers of the member to meet that customer’s obligations under any market contract; and
+(a) the designated clearing house is of the opinion, formed in good faith, that the failure of the member to meet the subject obligations is directly attributable to the failure of any of the customers of the member to meet that customer’s obligations under any market contract;
 
-(b) the failure to use the money or assets to meet the obligations of the member may jeopardise the financial integrity of the designated clearing house.
+(b) either —
 
-[1/2005]
+(i) both of the following have been wholly utilised to meet the subject obligations:
 
-(2) A designated clearing house shall notify the Authority prior to using any such money or assets in the circumstances specified in subsection (1).
+(A) any money or assets deposited or paid for or in relation to contracts of the member itself and held by the designated clearing house;
 
-[1/2005]
+(B) any money or assets deposited by the member with the designated clearing house as collateral or guarantee for the purpose of satisfying all obligations of the member to the designated clearing house (excluding any customers’ money or assets); or
+
+(ii) the designated clearing house has reasonable grounds for forming an opinion that the failure to use the customers’ money or assets to meet the subject obligations may jeopardise the financial integrity of the designated clearing house;
+
+(c) the designated clearing house has made provision in its business rules for the use of customers’ money or assets in the circumstances specified in paragraphs (a) and (b);
+
+(d) where the designated clearing house has made provision in its business rules for requirements additional to those in paragraphs (a) and (b), the additional requirements are not inconsistent with the requirements in those paragraphs; and
+
+(e) the money or assets are used in accordance with the provisions of the business rules referred to in paragraphs (c) and (d).
+
+(2) A designated clearing house shall notify the Authority before using any such customers’ money or assets in the circumstances specified in subsection (1).
+
+[2/2009 wef 29/07/2009]
 
 ### Permissible investments of customers’ money and assets by designated clearing house
 
-64\.—(1) Subject to subsection (2), a designated clearing house may invest any money or assets deposited or paid in respect of or in relation to contracts of customers of a member and held by the designated clearing house in the course of its clearing or settlement activities, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(b), in any security, instrument or other form of investment arrangement as the Authority may prescribe.
+64\.—(1) Subject to subsection (2), a designated clearing house may invest any money or assets deposited or paid for or in relation to contracts of customers of a member and held by the designated clearing house in the course of its clearing or settlement activities, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(a), in any security, instrument or other form of investment arrangement as the Authority may prescribe.
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -3874,7 +3928,9 @@ as the Authority may require for the proper administration of this Act.
 
 ### Penalties under this Subdivision
 
-70\. Any designated clearing house which contravenes section 59(1), 60, 61(1), 62(2) or (3), 63(2), 64(2), 65, 66, 67 or 68(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+70\. Any designated clearing house which contravenes section 59(1), 60, 61(1), 62(2) or (4), 63(2), 64(2), 65, 66, 67 or 68(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -5586,6 +5642,8 @@ Licensing
 
 (3) An application for the grant or renewal of a licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
 
+[2/2009 wef 26/11/2010]
+
 (4) An application for the grant of a representative’s licence in respect of any regulated activity shall be supported in the prescribed manner by such person, who is the holder of or who has applied for a capital markets services licence for that regulated activity, as may be specified by the Authority.
 
 [16/2003]
@@ -5854,9 +5912,15 @@ during the period to which the licence fee relates; or
 
 88\.—(1) The Authority may grant or renew a licence subject to such conditions or restrictions as it thinks fit.
 
+[2/2009 wef 26/11/2010]
+
 (2) The Authority may, at any time, by notice in writing to a licensed person, vary any condition or restriction or impose such further condition or restriction as it may think fit.
 
+[2/2009 wef 26/11/2010]
+
 (3) Any person who contravenes any condition or restriction in his licence shall be guilty of an offence.
+
+[2/2009 wef 26/11/2010]
 
 [SIA, s. 33; FTA, s. 15]
 
@@ -6638,9 +6702,9 @@ unless the offer or recommendation contains or is accompanied by a statement to 
 
 (3) Where the holder of a capital markets services licence sends to any person a written offer, written recommendation or written statement to which subsection (1) applies, the holder shall retain a copy of the written offer, recommendation or statement for a period of 5 years after the day the written offer, recommendation or statement is made.
 
-[1/2005]
-
 [2/2007 wef 01/03/2007]
+
+[1/2005]
 
 (4) The Authority may, if it is in the public interest, exempt any person or class of persons, or any securities or class of securities, from the application of this section.
 
@@ -6870,13 +6934,13 @@ Registers of Interests in Securities
 
 (ii) a holder of a capital markets services licence to advise on corporate finance and a representative of such a holder;
 
+[S 376/2008 wef 01/08/2008]
+
 (iii) a holder of a capital markets services licence for fund management and a representative of such a holder; or
 
 [S 376/2008 wef 01/08/2008]
 
 (iv) a holder of a capital markets services licence for real estate investment trust management and a representative of such a holder; and
-
-[S 376/2008 wef 01/08/2008]
 
 (b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
 
@@ -6902,9 +6966,9 @@ Registers of Interests in Securities
 
 (b) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which such entry was first made.
 
-[16/2003]
-
 [2/2007 wef 01/03/2007]
+
+[16/2003]
 
 [SIA, s. 42]
 
@@ -7144,6 +7208,10 @@ and the nature of the instructions given to the holder or exempt person in respe
 
 (a) it may be necessary to prohibit dealing in securities of, or made available by, a corporation under section 32;
 
+(aa) it may be necessary to give a direction or take any action under section 34 or 81 in relation to securities of, or made available by, a corporation;
+
+[2/2009 wef 29/07/2009]
+
 (b) a person may have contravened any of the provisions of Part XII in relation to securities of, or made available by, a corporation; or
 
 (c) a person may have contravened any of the provisions of Division 4 of Part IV of the Companies Act (Cap. 50) or Division 2 of Part VII in relation to securities in a corporation.
@@ -7172,7 +7240,13 @@ the Authority may require the person to disclose to the Authority the informatio
 
 144\.—(1) This section shall apply where the Authority considers that —
 
-(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 34; or
+(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 34;
+
+[2/2009 wef 29/07/2009]
+
+(aa) it may be necessary to give a direction or take any action in relation to futures contracts under section 81; or
+
+[2/2009 wef 29/07/2009]
 
 (b) a person may have contravened any of the provisions of Part XII in relation to futures contracts.
 
@@ -7341,6 +7415,8 @@ Subdivision (1) — General
 (2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Division to the Authority or, as the case may be, an investigator under Subdivision (2), that the statement might tend to incriminate him, that statement —
 
 (a) shall not be admissible in evidence against him in criminal proceedings other than proceedings under this section; but
+
+[2/2009 wef 29/07/2009]
 
 (b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings under Part XII.
 
@@ -7594,6 +7670,38 @@ to explain to the best of his knowledge and belief any matter about the compilat
 
 [SIA, s. 6 modified; ASIC 1989, s. 63-67]
 
+Division 4 —
+
+Transfer of Evidence
+
+### Interpretation of this Division
+
+168A\. In this Division ––
+
+“Commercial Affairs Officer” means a Commercial Affairs Officer appointed under section 64 of the Police Force Act (Cap. 235);
+
+“police officer” means a member of the Singapore Police Force who is deployed in the Commercial Affairs Department of that Force.
+
+### Evidence obtained by Authority may be used in criminal investigations and proceedings
+
+168B\.—(1) Notwithstanding the provisions of any written law or any rule of law, the Authority may furnish any book, document, written record of any examination or other information obtained by the Authority in the exercise of its powers under this Part to ––
+
+(a) a police officer;
+
+(b) a Commercial Affairs Officer; or
+
+(c) the Public Prosecutor,
+
+for the purposes of any investigation into or criminal proceedings against a person for an alleged contravention of any provision under Part XII.
+
+(2) For the avoidance of doubt, any book, document, written record of examination or other information furnished by the Authority under subsection (1) shall not be inadmissible in any criminal proceedings by reason only that it was first obtained by the Authority in the exercise of its powers under this Act, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
+
+### Evidence obtained in police investigations may be used in civil proceedings
+
+168C\.—(1) Notwithstanding the provisions of any written law or any rule of law, any book, document, statement or other information obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under Chapters VI and XIII of the Criminal Procedure Code (Cap. 68) may be furnished to the Authority, if the Public Prosecutor is satisfied that such information is necessary to enable the Authority to investigate or bring an action for a civil penalty order against a person in respect of a contravention of any provision in Part XII.
+
+(2) For the avoidance of doubt, any book, document, statement or other information furnished to the Authority under subsection (1) shall not be inadmissible in any civil proceedings under this Act to which the Authority is a party by reason only that it was first obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under the Criminal Procedure Code, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
+
 ## PART X
 
 ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
@@ -7736,19 +7844,25 @@ INVESTOR COMPENSATION SCHEME
 
 ### Interpretation of this Part
 
-175\. In this Part, “member”, in relation to a securities exchange or futures exchange, means a person who —
+175\. In this Part, “member”, in relation to an approved exchange, means a person who —
 
-(a) holds membership of any class or description of the securities exchange or futures exchange, whether or not he holds any share in the share capital of such exchange; and
+(a) holds membership of any class or description of the approved exchange, whether or not he holds any share in the share capital of such exchange; and
+
+[2/2009 wef 29/07/2009]
 
 (b) is licensed by the Authority to carry on the business of dealing in securities or trading in futures contracts, as the case may be.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 74; FTA, s. 49A]
 
 ### Establishment of fidelity fund
 
-176\.—(1) Each securities exchange and each futures exchange shall establish, keep and administer a fidelity fund (referred to in this Part as a fidelity fund or fund).
+176\.—(1) Each approved exchange shall establish, keep and administer a fidelity fund (referred to in this Part as a fidelity fund or fund).
 
-(2) The assets of the fidelity fund of a securities exchange or futures exchange shall —
+[2/2009 wef 29/07/2009]
+
+(2) The assets of the fidelity fund of an approved exchange shall —
 
 (a) be the property of the exchange;
 
@@ -7756,11 +7870,13 @@ INVESTOR COMPENSATION SCHEME
 
 (c) be held in trust for the purposes set out in this Part.
 
+[2/2009 wef 29/07/2009]
+
 [SIA, s. 75; FTA, s. 49AA]
 
 ### Moneys constituting fidelity fund
 
-177\. The fidelity fund of a securities exchange or futures exchange shall consist of —
+177\. The fidelity fund of an approved exchange shall consist of —
 
 (a) all moneys paid to the exchange by its members in accordance with this Part;
 
@@ -7774,6 +7890,8 @@ INVESTOR COMPENSATION SCHEME
 
 (f) all other moneys lawfully paid into the fund.
 
+[2/2009 wef 29/07/2009]
+
 [SIA, s. 76; FTA, s. 49B]
 
 ### Fund to be kept in separate bank account
@@ -7784,7 +7902,7 @@ INVESTOR COMPENSATION SCHEME
 
 ### Payments out of fidelity fund
 
-179\. Subject to this Part, there shall be paid out of the fidelity fund of a securities exchange or futures exchange as required and in such order as the exchange considers proper —
+179\. Subject to this Part, there shall be paid out of the fidelity fund of an approved exchange as required and in such order as the exchange considers proper —
 
 (a) the amount of all claims, including costs, allowed by the exchange or established against the exchange under this Part;
 
@@ -7796,25 +7914,33 @@ INVESTOR COMPENSATION SCHEME
 
 (e) all other moneys payable out of the fund in accordance with this Act.
 
+[2/2009 wef 29/07/2009]
+
 [SIA, s. 78; FTA, s. 49D]
 
 ### Accounts of fund
 
-180\.—(1) A securities exchange or futures exchange shall establish and keep proper accounts of its fidelity fund and shall, within 5 months from the last day of each financial year of that exchange, cause a balance-sheet in respect of such accounts to be made out as at the last day of that financial year.
+180\.—(1) An approved exchange shall establish and keep proper accounts of its fidelity fund and shall, within 5 months from the last day of each financial year of that exchange, cause a balance-sheet in respect of such accounts to be made out as at the last day of that financial year.
 
-(2) The securities exchange or futures exchange shall appoint an auditor to audit the accounts of the fidelity fund.
+[2/2009 wef 29/07/2009]
 
-(3) The auditor appointed by the securities exchange or futures exchange shall —
+(2) The approved exchange shall appoint an auditor to audit the accounts of the fidelity fund.
+
+[2/2009 wef 29/07/2009]
+
+(3) The auditor appointed by the approved exchange shall —
 
 (a) regularly and fully audit the accounts of the fidelity fund; and
 
 (b) audit each balance-sheet and cause it to be laid before the exchange not later than 3 months after the balance-sheet was made out.
 
+[2/2009 wef 29/07/2009]
+
 [SIA, s. 79; FTA, s. 49E]
 
 ### Fidelity fund to consist of amount of $20 million, etc.
 
-181\. The fidelity fund of a securities exchange or futures exchange shall consist of an amount of not less than —
+181\. The fidelity fund of an approved exchange shall consist of an amount of not less than —
 
 (a) $20 million; or
 
@@ -7822,43 +7948,57 @@ INVESTOR COMPENSATION SCHEME
 
 to be paid to the credit of the fund on the approval of the exchange under this Act or at any time after its approval as determined by the Authority.
 
+[2/2009 wef 29/07/2009]
+
 [SIA, s. 81; FTA, s. 49F]
 
 ### Provisions if fund is reduced below minimum amount
 
-182\. If the fidelity fund of a securities exchange or futures exchange is reduced below the minimum amount referred to in section 181, the exchange shall take steps to make up the deficiency —
+182\. If the fidelity fund of an approved exchange is reduced below the minimum amount referred to in section 181, the exchange shall take steps to make up the deficiency —
 
 (a) by transferring an amount that is equal to the deficiency from other funds of the exchange to the fidelity fund; and
 
 (b) in the event that there are insufficient funds to transfer under paragraph (a), by requiring each member of the exchange to contribute to the fund such amount as the exchange may determine.
 
+[2/2009 wef 29/07/2009]
+
 [SIA, s. 82; FTA, s. 49G]
 
 ### Levy to meet liabilities
 
-183\.—(1) If at any time a fidelity fund is not sufficient to satisfy the liabilities that are then ascertained of a securities exchange or futures exchange in relation thereto, the securities exchange or futures exchange —
+183\.—(1) If at any time a fidelity fund is not sufficient to satisfy the liabilities that are then ascertained of an approved exchange in relation thereto, the approved exchange —
 
 (a) may impose on every member a levy of such amount as it thinks fit; or
 
 (b) if ordered by the Authority, shall impose a levy of such amount which shall in the aggregate be equivalent to the amount so specified in the order.
 
+[2/2009 wef 29/07/2009]
+
 (2) The amount of such levy shall be paid within the time and in the manner specified by the securities exchange or futures exchange either generally or in relation to any particular case.
 
-(3) No member of a securities exchange or futures exchange shall be required to pay by way of levy under this section more than $300,000 in the aggregate in any particular case.
+(3) No member of an approved exchange shall be required to pay by way of levy under this section more than $300,000 in the aggregate in any particular case.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 83]
 
-### Power of securities exchange or futures exchange to make advances to fund
+### Power of approved exchange to make advances to fund
 
-184\.—(1) A securities exchange or futures exchange may, out of its general funds, give or advance any sum of money to its fidelity fund on such terms as it thinks fit.
+184\.—(1) An approved exchange may, out of its general funds, give or advance any sum of money to its fidelity fund on such terms as it thinks fit.
 
-(2) Any sum of money advanced by a securities exchange or futures exchange under subsection (1) may be repaid out of the fidelity fund to the general funds of the securities exchange or futures exchange, as the case may be.
+[2/2009 wef 29/07/2009]
+
+(2) Any sum of money advanced by an approved exchange under subsection (1) may be repaid out of the fidelity fund to the general funds of the approved exchange.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 84]
 
 ### Investment of fund
 
-185\. Any moneys in a fidelity fund that are not immediately required for any purpose referred to in this Part may be invested by a securities exchange or futures exchange in any manner in which trustees are for the time being authorised by law to invest trust funds.
+185\. Any moneys in a fidelity fund that are not immediately required for any purpose referred to in this Part may be invested by an approved exchange in any manner in which trustees are for the time being authorised by law to invest trust funds.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 85; FTA, s. 49H]
 
@@ -7868,7 +8008,9 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 (a) in the course of, or in connection with, a dealing in securities, or the trading of a futures contract;
 
-(b) by a member of a securities exchange or futures exchange or by any agent of such member; and
+(b) by a member of an approved exchange or by any agent of such member; and
+
+[2/2009 wef 29/07/2009]
 
 (c) in relation to any money or other property which, after the establishment of the fidelity fund was entrusted to or received —
 
@@ -7876,9 +8018,13 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 (ii) by that member either as the sole trustee or as trustee with any other person or persons, or by any of its agents as trustee or for or on behalf of the trustees of that money or property.
 
-(2) Subject to this Part, the fidelity fund shall be applied for the purpose of paying to the Official Assignee or a trustee in bankruptcy within the meaning of the Bankruptcy Act (Cap. 20) an amount not greater than the amount that the Official Assignee or the trustee in bankruptcy, as the case may be, certifies is required in order to make up or reduce the total deficiency arising because the available assets of a bankrupt, who is a member of a securities exchange or futures exchange, are insufficient to satisfy any debts arising from dealings in securities or trading in futures contracts that have been proved in the bankruptcy by creditors of the bankrupt member.
+(2) Subject to this Part, the fidelity fund shall be applied for the purpose of paying to the Official Assignee or a trustee in bankruptcy within the meaning of the Bankruptcy Act (Cap. 20) an amount not greater than the amount that the Official Assignee or the trustee in bankruptcy, as the case may be, certifies is required in order to make up or reduce the total deficiency arising because the available assets of a bankrupt, who is a member of an approved exchange, are insufficient to satisfy any debts arising from dealings in securities or trading in futures contracts that have been proved in the bankruptcy by creditors of the bankrupt member.
 
-(3) Subsection (2) shall apply in the case of a member of a securities exchange or futures exchange who has made a voluntary arrangement with his creditors under Part V of the Bankruptcy Act in like manner as that subsection applies in the case of a member who has become bankrupt.
+[2/2009 wef 29/07/2009]
+
+(3) Subsection (2) shall apply in the case of a member of an approved exchange who has made a voluntary arrangement with his creditors under Part V of the Bankruptcy Act in like manner as that subsection applies in the case of a member who has become bankrupt.
+
+[2/2009 wef 29/07/2009]
 
 (4) For the purposes of subsection (3) —
 
@@ -7888,7 +8034,9 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 (c) a reference to the bankrupt in subsection (2) shall be deemed to be a reference to the person who made the voluntary arrangement under Part V of the Bankruptcy Act.
 
-(5) Subject to this Part, the fidelity fund shall be applied for the purpose of paying to a liquidator of a member of a securities exchange or futures exchange that is being wound up an amount not greater than the amount that the liquidator certifies is required to make up or reduce the total deficiency arising because the available assets of the member are insufficient to satisfy any debts arising from dealings in securities or trading in futures contracts that have been proved in the liquidation of the member.
+(5) Subject to this Part, the fidelity fund shall be applied for the purpose of paying to a liquidator of a member of an approved exchange that is being wound up an amount not greater than the amount that the liquidator certifies is required to make up or reduce the total deficiency arising because the available assets of the member are insufficient to satisfy any debts arising from dealings in securities or trading in futures contracts that have been proved in the liquidation of the member.
+
+[2/2009 wef 29/07/2009]
 
 (6) Where a claim has been made for compensation in respect of a pecuniary loss under subsection (1), no claim for a payment under subsection (2) or (5) shall be made in respect of the same pecuniary loss.
 
@@ -7920,27 +8068,31 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 (12) For the purposes of subsections (10) and (11), any amount paid out of the fidelity fund shall, to the extent to which the fund is subsequently reimbursed therefor, be disregarded.
 
-(13) In this section, “agent”, in relation to a member of a securities exchange or futures exchange —
+(13) In this section, “agent”, in relation to a member of an approved exchange —
 
 (a) means a person who is a director, an officer, an employee or a representative of the member; and
 
 (b) includes a person who has been, but at the time of any defalcation in question has ceased to be, a director, an officer, an employee or a representative of the member if, at the time of the defalcation, the person claiming compensation has reasonable grounds for believing that person to be a director, an officer, an employee or a representative of the member.
 
-(14) Nothing in this Part shall be construed as to allow a person to claim compensation against the fidelity fund of a futures exchange if —
+[2/2009 wef 29/07/2009]
 
-(a) the person has suffered pecuniary loss because of a defalcation committed by a member of the exchange or by any agent of the member; and
+(14) In this section, any reference to dealing in securities or trading of a futures contract is a reference to such dealing or trading which is done or to be done —
 
-(b) such defalcation is in respect of moneys deposited by that person with the member or moneys belonging to that person held by that member, in connection with the trading of a contract which is not a futures contract that is cleared or to be cleared by a designated clearing house or a futures exchange in Singapore.
+(a) on the approved exchange which establishes, keeps and administers the fidelity fund; or
 
-[1/2005]
+(b) through a trading linkage of the approved exchange with an overseas securities exchange or an overseas futures exchange.
 
-[SIA, s. 86; FTA, s. 49I]
+[2/2009 wef 29/07/2009]
 
 ### Claims against fund
 
-187\.—(1) Subject to this Part, every person who suffers pecuniary loss referred to in section 186 shall be entitled to claim compensation out of the fidelity fund and to take proceedings in the High Court under this Act against a securities exchange or futures exchange to establish such claim.
+187\.—(1) Subject to this Part, every person who suffers pecuniary loss referred to in section 186 shall be entitled to claim compensation out of the fidelity fund and to take proceedings in the High Court under this Act against an approved exchange to establish such claim.
 
-(2) A person shall not have any claim against the fidelity fund in respect of a defalcation in respect of money or other property which prior to the commission of the defalcation had, in the due course of the administration of a trust, ceased to be under the sole control of the director or directors of the member of a securities exchange or futures exchange.
+[2/2009 wef 29/07/2009]
+
+(2) A person shall not have any claim against the fidelity fund in respect of a defalcation in respect of money or other property which prior to the commission of the defalcation had, in the due course of the administration of a trust, ceased to be under the sole control of the director or directors of the member of an approved exchange.
+
+[2/2009 wef 29/07/2009]
 
 (3) Subject to this Part, the amount which any claimant shall be entitled to claim as compensation out of a fidelity fund shall be the amount of the actual pecuniary loss suffered by him (including the reasonable costs of and disbursements incidental to the making and proof of his claim) less the amount or value of all moneys or other benefits received or receivable by him from any source other than the fund in reduction of the loss.
 
@@ -7948,83 +8100,125 @@ to be paid to the credit of the fund on the approval of the exchange under this 
 
 ### Notice calling for claims against fund
 
-188\.—(1) A securities exchange or futures exchange may cause to be published in a daily newspaper published and circulating generally in Singapore a notice, in or to the effect of the form prescribed, specifying a date, not being earlier than 3 months after the date of publication, on or before which claims for compensation out of the fidelity fund, in relation to the person specified in the notice, may be made.
+188\.—(1) An approved exchange may cause to be published in a daily newspaper published and circulating generally in Singapore a notice, in or to the effect of the form prescribed, specifying a date, not being earlier than 3 months after the date of publication, on or before which claims for compensation out of the fidelity fund, in relation to the person specified in the notice, may be made.
 
-(2) A claim for compensation out of a fidelity fund in respect of a defalcation shall be made in writing to the securities exchange or futures exchange, as the case may be —
+[2/2009 wef 29/07/2009]
+
+(2) A claim for compensation out of a fidelity fund in respect of a defalcation shall be made in writing to the approved exchange —
 
 (a) where a notice under subsection (1) has been published, on or before the date specified in the notice; or
 
 (b) where no such notice has been published, within 6 months after the claimant became aware of the defalcation.
 
-(3) Any claim which is not made in accordance with subsection (2) shall be barred unless the securities exchange or futures exchange otherwise allows.
+[2/2009 wef 29/07/2009]
 
-(4) No action for damages shall lie against a securities exchange or futures exchange or against any member or employee of the securities exchange or futures exchange by reason of any notice published in good faith and without malice for the purposes of this section.
+(3) Any claim which is not made in accordance with subsection (2) shall be barred unless the approved exchange otherwise allows.
+
+[2/2009 wef 29/07/2009]
+
+(4) No action for damages shall lie against an approved exchange or against any member or employee of the approved exchange by reason of any notice published in good faith and without malice for the purposes of this section.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 88; FTA, s. 49K]
 
-### Power of securities exchange or futures exchange to settle claims
+### Power of approved exchange to settle claims
 
-189\.—(1) A securities exchange or futures exchange may, subject to this Part, allow and settle any proper claim for compensation out of a fidelity fund at any time after the commission of the defalcation in respect of which the claim arose.
+189\.—(1) An approved exchange may, subject to this Part, allow and settle any proper claim for compensation out of a fidelity fund at any time after the commission of the defalcation in respect of which the claim arose.
 
-(2) Subject to subsection (3), a person shall not commence proceedings under this Part against a securities exchange or futures exchange without the consent of the securities exchange or futures exchange, as the case may be, unless —
+[2/2009 wef 29/07/2009]
 
-(a) the securities exchange or futures exchange has disallowed his claim; and
+(2) Subject to subsection (3), a person shall not commence proceedings under this Part against an approved exchange without the consent of the approved exchange, unless —
 
-(b) the claimant has exhausted all relevant rights of action and other legal remedies for the recovery of the money or other property, in respect of which the defalcation was committed, available against a member of the securities exchange or futures exchange in relation to whom or to which the claim arose and all other persons liable in respect of the loss suffered by the claimant.
+(a) the approved exchange has disallowed his claim; and
 
-(3) A person who has been refused consent to commence proceedings under this Part by a securities exchange or futures exchange under subsection (2) may apply for leave to a Judge of the High Court in chambers who may make such order in the matter as he thinks fit.
+[2/2009 wef 29/07/2009]
 
-(4) A securities exchange or futures exchange shall, after disallowing (whether wholly or in part) any claim for compensation out of a fidelity fund, serve notice of such disallowance in the prescribed form on the claimant or his solicitor.
+(b) the claimant has exhausted all relevant rights of action and other legal remedies for the recovery of the money or other property, in respect of which the defalcation was committed, available against a member of the approved exchange in relation to whom or to which the claim arose and all other persons liable in respect of the loss suffered by the claimant.
 
-(5) No proceedings against a securities exchange or futures exchange in respect of a claim which has been disallowed by the exchange shall be commenced after the expiration of 3 months after service of notice of disallowance under subsection (4).
+[2/2009 wef 29/07/2009]
+
+(3) A person who has been refused consent to commence proceedings under this Part by an approved exchange under subsection (2) may apply for leave to a Judge of the High Court in chambers who may make such order in the matter as he thinks fit.
+
+[2/2009 wef 29/07/2009]
+
+(4) An approved exchange shall, after disallowing (whether wholly or in part) any claim for compensation out of a fidelity fund, serve notice of such disallowance in the prescribed form on the claimant or his solicitor.
+
+[2/2009 wef 29/07/2009]
+
+(5) No proceedings against an approved exchange in respect of a claim which has been disallowed by the exchange shall be commenced after the expiration of 3 months after service of notice of disallowance under subsection (4).
+
+[2/2009 wef 29/07/2009]
 
 (6) In any proceedings brought to establish a claim —
 
-(a) evidence of any admission or confession by, or other evidence which would be admissible against, the member of a securities exchange or futures exchange or other person by whom it is alleged a defalcation was committed, shall be admissible to prove the commission of the defalcation, notwithstanding that the member or other person is not the defendant in or a party to those proceedings; and
+(a) evidence of any admission or confession by, or other evidence which would be admissible against, the member of an approved exchange or other person by whom it is alleged a defalcation was committed, shall be admissible to prove the commission of the defalcation, notwithstanding that the member or other person is not the defendant in or a party to those proceedings; and
 
-(b) all defences which would have been available to that member or person shall be available to the securities exchange or futures exchange.
+[2/2009 wef 29/07/2009]
 
-(7) A securities exchange or futures exchange or, where proceedings are brought to establish a claim, the High Court, if satisfied that the defalcation on which the claim is founded was actually committed, may allow the claim and act accordingly, notwithstanding that the person who committed the defalcation has not been convicted or prosecuted therefor or that the evidence on which the securities exchange or futures exchange or the High Court, as the case may be, acts would not be sufficient to establish the guilt of that person upon a criminal trial in respect of the defalcation.
+(b) all defences which would have been available to that member or person shall be available to the approved exchange.
+
+[2/2009 wef 29/07/2009]
+
+(7) An approved exchange or, where proceedings are brought to establish a claim, the High Court, if satisfied that the defalcation on which the claim is founded was actually committed, may allow the claim and act accordingly, notwithstanding that the person who committed the defalcation has not been convicted or prosecuted therefor or that the evidence on which the approved exchange or the High Court, as the case may be, acts would not be sufficient to establish the guilt of that person upon a criminal trial in respect of the defalcation.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 89; FTA, s. 49L]
 
-### Power of securities exchange or futures exchange to require production of evidence
+### Power of approved exchange to require production of evidence
 
-190\.—(1) A securities exchange or futures exchange may require any person to produce and deliver any contract note, document or statement of evidence necessary to support any claim made, or necessary for the purpose either of exercising its rights against a member of a securities exchange or futures exchange or the directors of that member or any other person concerned, or of enabling criminal proceedings to be taken against any person in respect of a defalcation.
+190\.—(1) An approved exchange may require any person to produce and deliver any contract note, document or statement of evidence necessary to support any claim made, or necessary for the purpose either of exercising its rights against a member of an approved exchange or the directors of that member or any other person concerned, or of enabling criminal proceedings to be taken against any person in respect of a defalcation.
 
-(2) Where a person who is required under subsection (1) to produce or deliver any contract note, document or statement of evidence fails to do so, the securities exchange or futures exchange may disallow any claim by him under this Part.
+[2/2009 wef 29/07/2009]
+
+(2) Where a person who is required under subsection (1) to produce or deliver any contract note, document or statement of evidence fails to do so, the approved exchange may disallow any claim by him under this Part.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 91; FTA, s. 49M]
 
-### Subrogation of securities exchange or futures exchange to rights, etc., of claimant upon payment from fund
+### Subrogation of approved exchange to rights, etc., of claimant upon payment from fund
 
-191\. On payment out of a fidelity fund of any moneys in respect of any claim under this Part, the securities exchange or futures exchange shall be subrogated to the extent of such payment to all the rights and remedies of the claimant in relation to the loss suffered by him by reason of the defalcation on which the claim was based.
+191\. On payment out of a fidelity fund of any moneys in respect of any claim under this Part, the approved exchange shall be subrogated to the extent of such payment to all the rights and remedies of the claimant in relation to the loss suffered by him by reason of the defalcation on which the claim was based.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 92; FTA, s. 49N]
 
 ### Payment of claims only from fund
 
-192\. No moneys or other property belonging to a securities exchange or futures exchange, other than the fidelity fund, shall be available for the payment of any claim under this Part, whether the claim is allowed by the securities exchange or futures exchange or is made the subject of an order of the High Court.
+192\. No moneys or other property belonging to an approved exchange, other than the fidelity fund, shall be available for the payment of any claim under this Part, whether the claim is allowed by the approved exchange or is made the subject of an order of the High Court.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 93; FTA, s. 49O]
 
 ### Provision where fund insufficient to meet claims or where claims exceed total amount payable
 
-193\.—(1) Where the amount at credit in a fidelity fund is insufficient to pay the whole amount of all claims against it which have been allowed or in respect of which orders of the High Court have been made, then the amount at credit in the fund shall, subject to subsection (2), be apportioned between the claimants in such manner as the securities exchange or futures exchange thinks equitable, and such claim shall, so far as it then remains unpaid, be charged against future receipts of the fund and paid out of the fund when moneys are available therein.
+193\.—(1) Where the amount at credit in a fidelity fund is insufficient to pay the whole amount of all claims against it which have been allowed or in respect of which orders of the High Court have been made, then the amount at credit in the fund shall, subject to subsection (2), be apportioned between the claimants in such manner as the approved exchange thinks equitable, and such claim shall, so far as it then remains unpaid, be charged against future receipts of the fund and paid out of the fund when moneys are available therein.
 
-(2) Where the aggregate of all claims which have been allowed or in respect of which orders of the High Court have been made in relation to a defalcation by or in connection with a member of a securities exchange or futures exchange exceeds the total amount which may, pursuant to section 186(10), be paid under this Part in respect of that member, then such total amount shall be apportioned between the claimants in such manner as the securities exchange or futures exchange thinks equitable.
+[2/2009 wef 29/07/2009]
+
+(2) Where the aggregate of all claims which have been allowed or in respect of which orders of the High Court have been made in relation to a defalcation by or in connection with a member of an approved exchange exceeds the total amount which may, pursuant to section 186(10), be paid under this Part in respect of that member, then such total amount shall be apportioned between the claimants in such manner as the approved exchange thinks equitable.
+
+[2/2009 wef 29/07/2009]
 
 (3) Upon payment out of the fidelity fund of such total amount in accordance with the apportionment of all such claims under subsection (2), any order relating thereto and all other claims against the fund which may thereafter arise or be made in respect of that defalcation by or in connection with that member shall be absolutely discharged.
 
 [SIA, s. 94; FTA, s. 49P]
 
-### Power of securities exchange or futures exchange to enter into contracts of insurance
+### Power of approved exchange to enter into contracts of insurance
 
-194\.—(1) A securities exchange or futures exchange may in its discretion, enter into any contract with any person or body of persons, corporate or unincorporate, carrying on fidelity insurance business in Singapore whereby the securities exchange or futures exchange will be insured or indemnified to the extent and in the manner provided by such contract against liability in respect of claims under this Part.
+194\.—(1) An approved exchange may in its discretion, enter into any contract with any person or body of persons, corporate or unincorporate, carrying on fidelity insurance business in Singapore whereby the approved exchange will be insured or indemnified to the extent and in the manner provided by such contract against liability in respect of claims under this Part.
+
+[2/2009 wef 29/07/2009]
 
 (2) Any contract under subsection (1) may be entered into in relation to members generally, or in relation to any particular member or members named therein, or in relation to members generally with the exclusion of any particular member or members named therein.
 
-(3) No action shall lie against a securities exchange or futures exchange or against any member or employee of a securities exchange or futures exchange for injury alleged to have been suffered by any other member by reason of the publication in good faith of a statement that any contract entered into under this section does or does not apply with respect to it.
+(3) No action shall lie against an approved exchange or against any member or employee of an approved exchange for injury alleged to have been suffered by any other member by reason of the publication in good faith of a statement that any contract entered into under this section does or does not apply with respect to it.
+
+[2/2009 wef 29/07/2009]
 
 [SIA, s. 95]
 
@@ -8080,13 +8274,17 @@ Prohibited Conduct — Securities
 
 (ii) any right, option or derivative in respect of any such debentures, stocks or shares;
 
+[2/2009 wef 20/04/2009]
+
 (iii) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
 
 (A) the value or price of any such debentures, stocks or shares;
 
 (B) the value or price of any group of any such debentures, stocks or shares; or
 
-(C) an index of any such debentures, stocks or shares; or
+(C) an index of any such debentures, stocks or shares ; or
+
+[2/2009 wef 20/04/2009]
 
 (iv) such other product or class of products as the Authority may prescribe,
 
@@ -8098,11 +8296,11 @@ but does not include —
 
 (CC) promissory notes;
 
+[2/2009 wef 20/04/2009]
+
 (DD) certificates of deposit issued by a bank or finance company; or
 
 (EE) such other product or class of products as the Authority may prescribe as not being securities;
-
-[2/2009 wef 20/04/2009]
 
 (b) in relation to a business trust, for the purposes of sections 196(a)(ia) and (b)(ia), 198, 202 and 203, means —
 
@@ -8112,7 +8310,11 @@ but does not include —
 
 (iii) debentures of a business trust;
 
+[2/2009 wef 20/04/2009]
+
 (iv) any right, option or derivative in respect of any such debentures; or
+
+[2/2009 wef 20/04/2009]
 
 (v) such other product or class of products as the Authority may prescribe,
 
@@ -8122,11 +8324,11 @@ but does not include —
 
 (B) bills of exchange;
 
+[2/2009 wef 20/04/2009]
+
 (C) promissory notes; or
 
 (D) such other product or class of products as the Authority may prescribe as not being securities; and
-
-[2/2009 wef 20/04/2009]
 
 (c) in any other case, has the same meaning as in section 2.
 
@@ -8274,9 +8476,15 @@ if the entity, trustee or responsible person is required by the securities excha
 
 204\.—(1) Any person who contravenes any of the provisions of this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of this Division after a court has made an order against him for the payment of a civil penalty under section 232 in respect of the contravention.
+(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of any of the provisions of this Division after —
 
-[SIA, s. 104]
+(a) a court has made an order against him for the payment of a civil penalty under section 232; or
+
+(b) the person has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5),
+
+in respect of that contravention.
+
+[2/2009 wef 29/07/2009]
 
 Division 2 —
 
@@ -8370,9 +8578,15 @@ induce or attempt to induce another person to trade in a futures contract or eng
 
 212\.—(1) Any person who contravenes any of the provisions of this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of this Division after a court has made an order against him for the payment of a civil penalty under section 232 for the contravention.
+(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of any of the provisions of this Division after —
 
-[FTA, s. 56]
+(a) a court has made an order against him for the payment of a civil penalty under section 232; or
+
+(b) the person has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5),
+
+in respect of that contravention.
+
+[2/2009 wef 29/07/2009]
 
 Division 3 —
 
@@ -8452,13 +8666,13 @@ Insider Trading
 
 (C) an index of any such debentures, stocks or shares;
 
+[2/2009 wef 20/04/2009]
+
 (iv) a futures contract only if the commodity which is the subject of the futures contract is a share or stock of a corporation; or
 
 (v) such other product or class of products as the Authority may prescribe,
 
 but does not include such product or class of products as the Authority may prescribe as not being securities;
-
-[2/2009 wef 20/04/2009]
 
 (b) in relation to a business trust, for the purposes of sections 213(a)(ia) and (b)(ia) and 218(1A) and (4A) —
 
@@ -8468,13 +8682,15 @@ but does not include such product or class of products as the Authority may pres
 
 (iii) debentures of a business trust;
 
+[2/2009 wef 20/04/2009]
+
 (iv) any right, option or derivative in respect of any such debentures; or
+
+[2/2009 wef 20/04/2009]
 
 (v) such other product or class of products as the Authority may prescribe,
 
 but does not include such product or class of products as the Authority may prescribe as not being securities;
-
-[2/2009 wef 20/04/2009]
 
 (c) in any other case —
 
@@ -8496,9 +8712,13 @@ but does not include such product or class of products as the Authority may pres
 
 (C) an index of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust;
 
+[2/2009 wef 20/04/2009]
+
 (vii) a futures contract only if the commodity which is the subject of the futures contract is a share or share index, or stock or stock index; or
 
-(vii) such other product or class of products as the Authority may prescribe,
+[2/2009 wef 20/04/2009]
+
+(viii) such other product or class of products as the Authority may prescribe,
 
 but does not include —
 
@@ -8506,11 +8726,11 @@ but does not include —
 
 (BB) promissory notes;
 
+[2/2009 wef 20/04/2009]
+
 (CC) certificates of deposit issued by a bank or finance company; or
 
 (DD) such other product or class of products as the Authority may prescribe as not being securities;
-
-[2/2009 wef 20/04/2009]
 
 “sell”, in relation to securities, includes, in the case of an option contract under which a party acquires an option or right from another party —
 
@@ -8582,7 +8802,9 @@ subsections (2), (3), (4), (5) and (6) shall apply.
 
 (i) in relation to a business trust, acts as its trustee or manages or operates the business trust; or
 
-(ii) in relation to a collective investment scheme that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any units of which are listed on a securities exchange, is the trustee or manager of the scheme,
+(ii) in relation to a collective investment scheme that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any units of which are listed on a securities exchange, is the trustee or manager of the scheme,
+
+[2/2009 wef 29/07/2009]
 
 possesses information concerning that corporation, business trust or scheme, as the case may be, that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of securities of that corporation, of securities of that business trust or of units in that scheme, as the case may be; and
 
@@ -8718,9 +8940,15 @@ subsections (2) and (3) shall apply.
 
 221\.—(1) A person who contravenes section 218 or 219, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of section 218 or 219 after a court has made an order against him for the payment of a civil penalty under section 232 in respect of that contravention.
+(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of section 218 or 219 after —
 
-[SIA, s.104]
+(a) a court has made an order against him for the payment of a civil penalty under section 232; or
+
+(b) the person has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5),
+
+in respect of that contravention.
+
+[2/2009 wef 29/07/2009]
 
 ### Exception for redemption of units in collective investment scheme
 
@@ -8998,7 +9226,9 @@ shall be stayed, and may not thereafter be continued except with the leave of co
 
 (a) has been convicted of an offence under this Part; or
 
-(b) has an order for the payment of a civil penalty made against him under section 232, other than a consent order made with or without admission of contravention under section 232(4),
+(b) has an order for the payment of a civil penalty made against him under section 232, other than by way of a default judgment or a consent order made with or without admission of contravention under section 232(4),
+
+[2/2009 wef 29/07/2009]
 
 in respect of the contravention of any of the provisions in this Part which resulted in his gaining a profit or avoiding a loss, the court which convicted him or made the order against him (referred to in this section as the relevant court) may, after the conviction or the order imposing the civil penalty has been made final, fix a date on or before which all claimants have to file and prove their claims for compensation in respect of that contravention.
 
@@ -9074,8 +9304,6 @@ Subdivision (1) — Interpretation
 
 “borrowing entity” means an entity that is or will be under a liability (whether or not such liability is present or future) to repay any money received by it in response to an invitation to subscribe for or purchase debentures of the entity;
 
-“chief executive officer”, in relation to a corporation, means any person, by whatever name called, who is in the direct employment of, or acting for or by arrangement with, the corporation, and who is principally responsible for the management and conduct of the business of the corporation;
-
 “control”, in relation to an entity, means the capacity of a person to determine the outcome of decisions on the financial and operating policies of the entity, having regard to —
 
 (a) the influence which the person can, in practice, exert on the entity (as opposed to the rights which the person can exercise in the entity); and
@@ -9101,6 +9329,10 @@ but does not include any capacity of a person to influence decisions on the fina
 “immediate family”, in relation to an individual, means the individual’s spouse, son, adopted son, step-son, daughter, adopted daughter, step-daughter, father, step-father, mother, step-mother, brother, step-brother, sister or step-sister;
 
 “issuer”, in relation to an offer of securities, means the entity that issued or will be issuing the securities being offered;
+
+“limited liability partnership” means any limited liability partnership whether registered in Singapore under the Limited Liability Partnerships Act (Cap. 163A) or otherwise;
+
+[2/2009 wef 29/07/2009]
 
 “minimum subscription”, in relation to any securities offered for subscription, means the amount stated in the prospectus relating to the offer as the minimum amount which must be raised by the issue of the securities so offered, failing which no securities will be allotted or issued;
 
@@ -9253,6 +9485,12 @@ and the prescribed entity shall comply with every such condition or restriction 
 then this Division shall not apply to that offer.
 
 [1/2005]
+
+### Modification of provisions to certain offers
+
+239B\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of securities as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
+
+[2/2009 wef 29/07/2009]
 
 Subdivision (2) — Prospectus requirements
 
@@ -10204,6 +10442,8 @@ regard shall be had to whether the statement —
 
 (i) the following statement:
 
+“
+
 This is a preliminary document and is subject to further amendments and completion in the prospectus to be registered by the Monetary Authority of Singapore.
 
 ”;
@@ -10252,7 +10492,9 @@ This is a preliminary document and is subject to further amendments and completi
 
 (9) An advertisement or a publication does not contravene subsection (1) if it —
 
-(a) consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange made by any person;
+(a) consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange made by any person;
+
+[2/2009 wef 29/07/2009]
 
 (b) consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the underlying entity or any entity, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting;
 
@@ -11038,15 +11280,13 @@ the trustee shall immediately lodge notice of that fact with the Authority.
 
 [1/2005]
 
-(10) Notwithstanding anything in subsection (8), a profit and loss account and balance-sheet of a borrowing entity or its guarantor entity required to be made out and lodged in accordance with subsection (6) —
+(10) Notwithstanding anything in subsection (8) —
 
-(a) need not be audited; or
+(a) a profit and loss account and balance-sheet of a borrowing entity or its guarantor entity required to be made out and lodged in accordance with subsection (6)(a) need not be audited; and
 
-(b) the audit thereof may be of a limited nature or extent,
+(b) a profit and loss account and balance-sheet of a borrowing entity or its guarantor entity required to be made out and lodged in accordance with subsection (6)(b) need not be audited, or the audit thereof may be of a limited nature or extent, if the trustee for the holders of the debentures of the borrowing entity has, by notice in writing, consented to the audit being dispensed with or being of a limited nature or extent, as the case may be.
 
-if the trustee for the holders of the debentures of the borrowing entity has, by notice in writing, consented to the audit being dispensed with or being of a limited nature or extent, as the case may be.
-
-[1/2005]
+[2/2009 wef 29/07/2009]
 
 (11) Where the trustee has by notice in writing given his consent under subsection (10), the directors or equivalent persons of the borrowing entity, or the directors or equivalent persons of the guarantor entity, in respect of whose profit and loss account and balance-sheet the notice was given, shall lodge with the Authority a copy of the notice at the time when the profit and loss account and balance-sheet to which the notice relates are lodged with the Authority.
 
@@ -11190,7 +11430,9 @@ This offer is made in reliance on the exemption under section 272A(1) of the Sec
 
 (C) where at least 6 months have elapsed from the date the securities were acquired under the initial offer, in reliance on the exemption under this subsection;
 
-(c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (d) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -11198,9 +11440,19 @@ This offer is made in reliance on the exemption under section 272A(1) of the Sec
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(e) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 250; or
+
+(ii) the person making the offer has before making the offer informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) For the purposes of subsection (1)(b), where any notice, circular, material, publication or other document is issued in connection with the offer, the person making the offer is deemed to have given the statement and notification to the person to whom he makes the offer in accordance with that provision if such statement or notification is contained in the first page of that notice, circular, material, publication or document.
 
@@ -11360,7 +11612,9 @@ that is published in connection with an offer of securities, but does not includ
 
 (B) purporting to have been prepared for delivery to and review by persons to whom the offer is made so as to assist them in making an investment decision in respect of the securities being offered;
 
-(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, which is made by any person; or
+
+[2/2009 wef 29/07/2009]
 
 (iii) a publication which consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the underlying entity or any entity, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting.
 
@@ -11380,7 +11634,9 @@ that is published in connection with an offer of securities, but does not includ
 
 (a) the offers are made to no more than 50 persons within any period of 12 months;
 
-(b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -11388,9 +11644,23 @@ that is published in connection with an offer of securities, but does not includ
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(d) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 250; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) The Authority may prescribe such other number of persons in substitution for the number specified in subsection (1)(a).
 
@@ -11500,13 +11770,19 @@ that is made to existing members or debenture holders of that entity (whether or
 
 (ci) it is an offer of securities of a corporation made in the circumstances specified under section 306 of the Companies Act (Cap. 50);
 
-(d) it is an offer of shares or debentures that have been previously issued and are listed for quotation or quoted on a securities exchange;
+(d) it is an offer of shares or debentures (not being such excluded shares or excluded debentures as may be prescribed by the Authority) that have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange;
 
-(e) it is an offer of units of shares or debentures where —
+[2/2009 wef 29/07/2009]
 
-(i) the units of shares or debentures have been previously issued and are listed for quotation or quoted on a securities exchange; or
+(e) it is an offer of units of shares or debentures (not being such excluded units of shares or debentures as may be prescribed by the Authority) where —
+
+(i) the units of shares or debentures have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange; or
+
+[2/2009 wef 29/07/2009]
 
 (ii) an application has been or will be made for permission for the units of shares or debentures to be listed for quotation or quoted on a securities exchange and the shares or debentures have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange; or
+
+[2/2009 wef 29/07/2009]
 
 (f) it is made (whether or not in relation to securities that have been previously issued) by an entity to a qualifying person, where the securities are to be held by or for the benefit of the qualifying person and are the securities of the entity or any of its related parties.
 
@@ -11584,7 +11860,9 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 
 275\.—(1) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of securities, whether or not they have been previously issued, where the offer is made to a relevant person, if —
 
-(a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -11592,15 +11870,31 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(c) no prospectus in respect of the offer has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 250; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (1A) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of securities to a person who acquires the securities as principal, whether or not the securities have been previously issued, if —
 
 (a) the offer is on terms that the securities may only be acquired at a consideration of not less than $200,000 (or its equivalent in a foreign currency) for each transaction, whether such amount is to be paid for in cash or by exchange of securities or other assets;
 
-(b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (c) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -11608,9 +11902,21 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
 
 [1/2005]
+
+(d) no prospectus in respect of the offer has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 250; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) In this section —
 
@@ -11626,7 +11932,9 @@ that is published in connection with an offer in respect of securities, but does
 
 (i) an information memorandum;
 
-(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, which is made by any person; or
+
+[2/2009 wef 29/07/2009]
 
 (iii) a publication which consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the underlying entity or any entity, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting;
 
@@ -11670,7 +11978,7 @@ that is published in connection with an offer in respect of securities, but does
 
 ### Offer of securities acquired pursuant to section 274 or 275
 
-276\.—(1) Notwithstanding sections 272A, 272B, 273(1)(d), (e) and (f), 277, 278 and 279, where securities initially acquired pursuant to an offer made in reliance on an exemption under section 274 or 275 are sold within the period of 6 months from the date of the initial acquisition to any person other than —
+276\.—(1) Notwithstanding sections 272A, 272B, 273(1)(d), (e) and (f), 277, 278 and 279 but subject to subsection (7), where securities initially acquired pursuant to an offer made in reliance on an exemption under section 274 or 275 are sold within the period of 6 months from the date of the initial acquisition to any person other than —
 
 (a) an institutional investor;
 
@@ -11680,7 +11988,13 @@ that is published in connection with an offer in respect of securities, but does
 
 then Subdivisions (2) and (3) of this Division shall apply to the offer resulting in that sale.
 
+[2/2009 wef 29/07/2009]
+
 [1/2005]
+
+(1A) The reference to the sale of securities under subsection (1) shall, in a case where the securities initially acquired are debentures, or units of shares or debentures, with an attached right of conversion into shares or debentures, include a reference to the sale of the converted shares or debentures.
+
+[2/2009 wef 29/07/2009]
 
 (2) Where securities initially acquired pursuant to an offer made in reliance on an exemption under section 274 or 275 are sold to —
 
@@ -11694,7 +12008,7 @@ Subdivisions (2) and (3) of this Division shall not apply to the offer resulting
 
 [1/2005]
 
-(3) Securities of a corporation (other than a corporation that is an accredited investor) —
+(3) Subject to subsection (7), securities of a corporation (other than a corporation that is an accredited investor) —
 
 (a) the sole business of which is to hold investments; and
 
@@ -11714,7 +12028,9 @@ shall not be transferred within 6 months after the corporation has acquired any 
 
 [1/2005]
 
-(4) Where —
+[2/2009 wef 29/07/2009]
+
+(4) Subject to subsection (7), where —
 
 (a) the sole purpose of a trust (other than a trust the trustee of which is an accredited investor) is to hold investments; and
 
@@ -11734,6 +12050,8 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 [1/2005]
 
+[2/2009 wef 29/07/2009]
+
 (5) For the avoidance of doubt, the reference to beneficiaries in subsection (4) shall include a reference to unitholders of a business trust and participants of a collective investment scheme.
 
 [1/2005]
@@ -11743,6 +12061,14 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 [1/2005]
 
 [Companies, s. 106E]
+
+(7) Subsections (1), (3) and (4) shall not apply where the securities of the corporation acquired are of the same class as other securities of the corporation —
+
+(a) an offer of which has previously been made in or accompanied by a prospectus; and
+
+(b) which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/07/2009]
 
 ### Offer made using offer information statement
 
@@ -11988,6 +12314,12 @@ when the trustee acts in that capacity; and
 
 [1/2005]
 
+### Modification of provisions to certain offers
+
+282BA\. The Authority may, if it thinks it necessary in the interest of the public or a section of the public or for the protection of investors, by regulations modify or adapt the provisions of this Division in their application to such offer of units or derivatives of units in a business trust as may be prescribed, and the provisions of this Division shall apply to such offer subject to such modifications or adaptations.
+
+[2/2009 wef 29/07/2009]
+
 Subdivision (2) — Prospectus requirements
 
 ### Requirement for prospectus and profile statement, where relevant
@@ -12094,7 +12426,11 @@ Subdivision (2) — Prospectus requirements
 
 [1/2005]
 
+[2/2009 wef 29/03/2010]
+
 (11) Where, after a notice of an opportunity to be heard has been given under subsection (10)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than the 14th day from the date of lodgment of the prospectus or profile statement with the Authority.
+
+[2/2009 wef 29/03/2010]
 
 [1/2005]
 
@@ -12872,7 +13208,9 @@ This is a preliminary document and is subject to further amendments and completi
 
 (9) An advertisement or a publication does not contravene subsection (1) if it —
 
-(a) consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange made by any person;
+(a) consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange made by any person;
+
+[2/2009 wef 29/07/2009]
 
 (b) consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the trustee-manager of the business trust or any entity, a notice or report of a general meeting or proposed general meeting of the unitholders of the business trust, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting;
 
@@ -13494,7 +13832,9 @@ This offer is made in reliance on the exemption under section 282V(1) of the Sec
 
 (C) where at least 6 months have elapsed from the date the units or derivatives of units were acquired under the initial offer, in reliance on the exemption under this subsection;
 
-(c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (d) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -13502,9 +13842,19 @@ This offer is made in reliance on the exemption under section 282V(1) of the Sec
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(e) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 282K; or
+
+(ii) the person making the offer has before making the offer informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) For the purposes of subsection (1)(b), where any notice, circular, material, publication or other document is issued in connection with the offer, the person making the offer is deemed to have given the statement and notification to the person to whom he makes the offer in accordance with that provision if such statement or notification is contained in the first page of that notice, circular, material, publication or document.
 
@@ -13680,7 +14030,9 @@ that is published in connection with an offer of units or derivatives of units i
 
 (B) purporting to have been prepared for delivery to and review by persons to whom the offer is made so as to assist them in making an investment decision in respect of the units or derivatives of units being offered;
 
-(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, which is made by any person; or
+
+[2/2009 wef 29/07/2009]
 
 (iii) a publication which consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the trustee of the business trust or any entity, a notice or report of a general meeting or proposed general meeting of the unitholders of the business trust, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting.
 
@@ -13702,7 +14054,9 @@ that is published in connection with an offer of units or derivatives of units i
 
 (a) the offers are made to no more than 50 persons within any period of 12 months;
 
-(b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -13710,9 +14064,23 @@ that is published in connection with an offer of units or derivatives of units i
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(d) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 282K; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) The Authority may prescribe such other number of persons in substitution for the number specified in subsection (1)(a).
 
@@ -13786,13 +14154,19 @@ and such offer complies with the Take-over Code as though the Take-over Code wer
 
 and such proposed compromise or arrangement and the execution thereof complies with the Take-over Code as though the Take-over Code were applicable to it;
 
-(d) it is an offer of units in a business trust that have been previously issued and are listed for quotation or quoted on a securities exchange;
+(d) it is an offer of units in a business trust (not being such excluded units in a business trust, or units in such excluded business trust, as may be prescribed by the Authority) that have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange;
 
-(e) it is an offer of derivatives of units in a business trust where —
+[2/2009 wef 29/07/2009]
 
-(i) the derivatives of units have been previously issued and are listed for quotation or quoted on a securities exchange; or
+(e) it is an offer of derivatives of units in a business trust (not being such excluded derivatives of units in a business trust, or derivatives of units in such excluded business trust, as may be prescribed by the Authority) where —
+
+(i) the derivatives of units have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange; or
+
+[2/2009 wef 29/07/2009]
 
 (ii) an application has been or will be made for permission for the derivatives of units to be listed for quotation or quoted on a securities exchange and the units have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange;
+
+[2/2009 wef 29/07/2009]
 
 (f) it is an offer of units in a business trust made to any existing unitholder of the business trust or any holder of debentures of the trustee-manager issued in its capacity as trustee-manager of the business trust whose units are listed for quotation on a securities exchange; or
 
@@ -13902,7 +14276,9 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 282Z\.—(1) Subdivision (2) of this Division (other than section 282Q) shall not apply to an offer of units or derivatives of units in a business trust, whether or not they have been previously issued, where the offer is made to a relevant person, if —
 
-(a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -13910,15 +14286,31 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(c) no prospectus in respect of the offer has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 282K; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) Subdivision (2) of this Division (other than section 282Q) shall not apply to an offer of units or derivatives of units in a business trust to a person who acquires the units or derivatives of units as principal, whether or not the units or derivatives of units have been previously issued, if —
 
 (a) the offer is on terms that the units or derivatives of units may only be acquired at a consideration of not less than $200,000 (or its equivalent in a foreign currency) for each transaction, whether such amount is to be paid for in cash or by exchange of securities or other assets;
 
-(b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer, or intended offer; and
+(b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer, or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (c) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
 
@@ -13926,9 +14318,23 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 (ii) an exempt person in respect of dealing in securities; or
 
-(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(d) no prospectus in respect of the offer has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 282K; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (3) In this section —
 
@@ -13944,7 +14350,9 @@ that is published in connection with an offer in respect of units or derivatives
 
 (i) an information memorandum;
 
-(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, which is made by any person; or
+
+[2/2009 wef 29/07/2009]
 
 (iii) a publication which consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the trustee of the business trust or any entity, a notice or report of a general meeting or proposed general meeting of the unitholders of the business trust, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting;
 
@@ -14002,7 +14410,7 @@ that is published in connection with an offer in respect of units or derivatives
 
 ### Offer of securities acquired pursuant to section 282Y or 282Z
 
-282ZA\.—(1) Notwithstanding sections 282V, 282W, 282X(1)(d) and (e) and (3)(c) and 282ZB , where units or derivatives of units in a business trust initially acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z are sold within the period of 6 months from the date of the initial acquisition to any person other than —
+282ZA\.—(1) Notwithstanding sections 282V, 282W, 282X(1)(d) and (e) and (3)(c) and 282ZB but subject to subsection (7), where units or derivatives of units in a business trust initially acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z are sold within the period of 6 months from the date of the initial acquisition to any person other than —
 
 (a) an institutional investor;
 
@@ -14012,7 +14420,13 @@ that is published in connection with an offer in respect of units or derivatives
 
 then Subdivision (2) of this Division shall apply to the offer resulting in that sale.
 
+[2/2009 wef 29/07/2009]
+
 [1/2005]
+
+(1A) The reference to the sale of derivatives of units in a business trust under subsection (1) shall, in a case where the derivatives of units initially acquired are derivatives of units with an attached right of conversion into units in the business trust, include a reference to the sale of the converted units.
+
+[2/2009 wef 29/07/2009]
 
 (2) Where units or derivatives of units in a business trust initially acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z are sold to —
 
@@ -14026,7 +14440,7 @@ Subdivision (2) of this Division shall not apply to the offer resulting in that 
 
 [1/2005]
 
-(3) Securities of a corporation (other than a corporation that is an accredited investor) —
+(3) Subject to subsection (7), securities of a corporation (other than a corporation that is an accredited investor) —
 
 (a) the sole business of which is to hold investments; and
 
@@ -14046,7 +14460,9 @@ shall not be transferred within 6 months after the corporation has acquired any 
 
 [1/2005]
 
-(4) Where —
+[2/2009 wef 29/07/2009]
+
+(4) Subject to subsection (7), where —
 
 (a) the sole purpose of a trust (other than a trust the trustee of which is an accredited investor) is to hold investments; and
 
@@ -14066,6 +14482,8 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 [1/2005]
 
+[2/2009 wef 29/07/2009]
+
 (5) For the avoidance of doubt, the reference to beneficiaries in subsection (4) shall include a reference to unitholders of a business trust and participants of a collective investment scheme.
 
 [1/2005]
@@ -14073,6 +14491,40 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 (6) For the avoidance of doubt, where any units or derivatives of units in a business trust are acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z, an offer to sell those units or derivatives of units may be made in reliance on an exemption under section 282X(1)(d) or (e) after 6 months have elapsed from the date of the first-mentioned offer.
 
 [1/2005]
+
+(7) Subsections (1), (3) and (4) shall not apply where the units or derivatives of units in the business trust acquired are of the same class as other units or derivatives of units in the business trust —
+
+(a) an offer of which has previously been made in or accompanied by a prospectus; and
+
+(b) which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/07/2009]
+
+### Offer of units converted from debentures
+
+282ZAA\.—(1) Notwithstanding sections 282V, 282W, 282X(1)(d) and (e) and (3)(c) and 282ZB, where —
+
+(a) debentures with an attached right of conversion into units in a business trust are acquired pursuant to an offer made in reliance on an exemption under section 274 or 275; and
+
+(b) the debentures are then converted into the units,
+
+then Subdivision (2) shall apply to an offer resulting in a sale of any of the units if the sale takes place within 6 months from the date of acquisition of the debentures.
+
+(2) Subsection (1) shall not apply to a sale of the units to —
+
+(a) an institutional investor;
+
+(b) a relevant person as defined in section 282Z(3); or
+
+(c) any person pursuant to an offer referred to in section 282Z(2).
+
+(3) Subsection (1) shall not apply where the units in the business trust sold are of the same class as other units in the business trust —
+
+(a) an offer of which has previously been made in or accompanied by a prospectus; and
+
+(b) which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/07/2009]
 
 ### Offer made using offer information statement
 
@@ -14102,7 +14554,7 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 (a) a reference in section 282I or 282J to the registration of the prospectus shall be read as a reference to the lodgment of the offer information statement; and
 
-(b) a reference in section 282N or 282O to any information or new circumstance required to be included in a prospectus under section 282F shall be read as a reference to any information prescribed under subsection (1) (b).
+(b) a reference in section 282N or 282O to any information or new circumstance required to be included in a prospectus under section 282F shall be read as a reference to any information prescribed under subsection (1)(b).
 
 [1/2005]
 
@@ -14176,153 +14628,9 @@ Division 2 —
 
 Collective Investment Schemes
 
-Subdivision (1) — Interpretation
-
-### Interpretation of this Division
-
-283\.—(1) In this Division, unless the context otherwise requires —
-
-“chief executive officer”, in relation to a corporation, means any person, by whatever name called, who is in the direct employment of, or acting for or by arrangement with, the corporation, and who is principally responsible for the management and conduct of the business of the corporation;
-
-“control”, in relation to an entity, means the capacity of a person to determine the outcome of decisions on the financial and operating policies of the entity, having regard to —
-
-(a) the influence which the person can, in practice, exert on the entity (as opposed to the rights which the person can exercise in the entity); and
-
-(b) any practice or pattern of behaviour of the person affecting the financial or operating policies of the entity (even if such practice or pattern of behaviour involves a breach of an agreement or a breach of trust),
-
-but does not include any capacity of a person to influence decisions on the financial and operating policies of the entity if such influence is required by law or under any contract or order of court to be exercised for the benefit of other persons;
-
-“immediate family”, in relation to an individual, means the individual’s spouse, son, adopted son, step-son, daughter, adopted daughter, step-daughter, father, step-father, mother, step-mother, brother, step-brother, sister or step-sister;
-
-“preliminary document” means a document which has been lodged with the Authority and is issued for the purpose of determining the appropriate issue or sale price of, and the number of, units in a collective investment scheme to be issued or sold and which contains the information required to be included in a prospectus as may be prescribed under section 296(1)(a)(i), except for such information as may be prescribed by the Authority;
-
-“profile statement” means a profile statement referred to in section 296(2);
-
-“prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document used to make an offer of units in a collective investment scheme or proposed collective investment scheme, but does not include —
-
-(a) a profile statement; or
-
-(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3));
-
-“recognised securities exchange” means a corporation which has been declared by the Authority, by order published in theGazette, to be a recognised securities exchange for the purposes of this Division;
-
-“related party” means —
-
-(a) in relation to an entity —
-
-(i) a director or an equivalent person of the entity;
-
-(ii) the chief executive officer or an equivalent person of the entity;
-
-(iii) a person who controls the entity;
-
-(iv) a related corporation;
-
-(v) any other entity controlled by it;
-
-(vi) any other entity controlled by the person referred to in sub-paragraph (iii); and
-
-(vii) a related party of any individual referred to in sub-paragraph (i), (ii) or (iii); and
-
-(b) in relation to an individual —
-
-(i) his immediate family;
-
-(ii) a trustee of any trust of which the individual or any member of the individual’s immediate family is —
-
-(A) a beneficiary; or
-
-(B) where the trust is a discretionary trust, a discretionary object,
-
-when the trustee acts in that capacity; and
-
-(iii) any corporation in which he and his immediate family (whether directly or indirectly) have interests in voting shares of an aggregate of not less than 30% of the total votes attached to all voting shares;
-
-“replacement document” means a replacement prospectus or a replacement profile statement referred to in section 298(1), as the case may be;
-
-“supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 298(1), as the case may be;
-
-“unit trust” means a collective investment scheme under which the property is held on trust for the participants.
-
-[16/2003; 1/2005]
-
-(2) For the purposes of this Division, a statement shall be deemed to be included in a prospectus or profile statement if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
-
-[1/2005]
-
-(3) For the purposes of this Division, a person makes an offer of units in a collective investment scheme if, and only if, as principal —
-
-(a) he makes (either personally or by an agent) an offer to any person in Singapore which upon acceptance would give rise to a contract for the issue or sale of those units by him or another person with whom he has made arrangements for that issue or sale; or
-
-(b) he invites (either personally or by an agent) any person in Singapore to make an offer which upon acceptance would give rise to a contract for the issue or sale of those units by him or another person with whom he has made arrangements for that issue or sale.
-
-[1/2005]
-
-(4) In subsection (3), “sale” includes any disposal for valuable consideration.
-
-[1/2005]
-
-[Companies, s. 4]
-
-### Use of term “real estate investment trust”
-
-283A\.—(1) No person shall, when describing or referring to any arrangement the rights or interests of which are, will be or have been the subject of an offer or intended offer, use the term “real estate investment trust” or any of its derivatives in any language in the name or description or any representation of that arrangement, unless —
-
-(a) the arrangement is authorised under section 286 or is one for which an application for authorisation has been made and has not been refused by the Authority under that section;
-
-(b) the arrangement is recognised under section 287 or is one for which an application for recognition has been made and has not been refused by the Authority under that section; or
-
-(c) the Authority has given its consent in writing to that person to use that term or derivative, or that person belongs to a class of persons declared by the Authority by order published in theGazetteas persons who may use such term or derivative.
-
-[31/2004; 1/2005]
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[31/2004]
-
-(3) For the avoidance of doubt, in subsection (1) —
-
-(a) “offer” or “intended offer”, in relation to any rights or interests in an arrangement, includes an offer or intended offer in relation to any such rights or interests that have previously been issued; and
-
-(b) “representation”, in relation to an arrangement, includes a representation of the arrangement in any bill head, letter paper, notice, advertisement, publication or writing, whether in electronic, print or other form.
-
-[31/2004; 1/2005]
-
-### Code on Collective Investment Schemes
-
-284\.—(1) For the more effective administration, supervision and control of collective investment schemes, the Authority shall, under section 321, issue a code, to be known as the Code on Collective Investment Schemes.
-
-(2) The Authority may from time to time revise the Code on Collective Investment Schemes by deleting, amending or adding to the provisions thereof.
-
-(3) The Code on Collective Investment Schemes shall be deemed not to be subsidiary legislation.
-
-[HK CUTMF]
-
-### Authority may disapply this Division to certain offers and invitations
-
-284A\. Notwithstanding any provision to the contrary in this Division, where —
-
-(a) an offer of units in a collective investment scheme is one to which (but for this section) both this Division and Division 1 apply; and
-
-(b) the Authority has by order published in theGazettedeclared that this Division shall not apply to that offer or a class of offers to which that offer belongs,
-
-then this Division does not apply to that offer.
-
-[16/2003; 1/2005]
-
-### Division not to apply to certain collective investment schemes which are business trusts
-
-284B\. This Division does not apply to an offer of units in a collective investment scheme, where —
-
-(a) the collective investment scheme is also a registered business trust; or
-
-(b) the collective investment scheme is also a business trust and the offer is made in reliance on an exemption under Subdivision (3) of Division 1A.
-
-[1/2005]
-
 Subdivision (2) — Authorisation and recognition
 
-### Offers of units in collective investment schemes
+### Requirement for authorisation or recognition
 
 285\.—(1) No person shall make an offer of units in a collective investment scheme if the collective investment scheme has not been authorised under section 286 or recognised under section 287.
 
@@ -14354,7 +14662,9 @@ Subdivision (2) — Authorisation and recognition
 
 (A) that is a trust;
 
-(B) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+(B) that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+[2/2009 wef 29/07/2009]
 
 (C) all or any units of which are listed for quotation on a securities exchange,
 
@@ -14376,7 +14686,9 @@ the holder of a capital markets services licence for real estate investment trus
 
 (4) The Authority may authorise, under subsection (1), a collective investment scheme which is not constituted as a unit trust if and only if the Authority is satisfied that the scheme and the manager for the scheme comply with such requirements as may be prescribed.
 
-(5) The Authority may refuse to authorise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
+(5) Without prejudice to subsection (2), the Authority may refuse to authorise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
+
+[2/2009 wef 29/07/2009]
 
 (6) The Authority shall not refuse to authorise a collective investment scheme under subsection (1) without giving the person who made the application an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to authorise the collective investment scheme on the basis of any of the following circumstances:
 
@@ -14452,7 +14764,9 @@ the holder of a capital markets services licence for real estate investment trus
 
 [16/2003; 1/2005]
 
-(4) The Authority may refuse to recognise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
+(4) Without prejudice to subsection (2), the Authority may refuse to recognise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
+
+[2/2009 wef 29/07/2009]
 
 (5) The Authority shall not refuse to recognise a collective investment scheme under subsection (1) without giving the person who made the application an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to recognise the collective investment scheme on the basis of any of the following circumstances:
 
@@ -15286,7 +15600,9 @@ This is a preliminary document and is subject to further amendments and completi
 
 (4) An advertisement or publication does not contravene subsection (1) if it —
 
-(a) consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, made by any person, provided that the disclosure, notice or report complies with such requirements as may be prescribed by the Authority;
+(a) consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, made by any person, provided that the disclosure, notice or report complies with such requirements as may be prescribed by the Authority;
+
+[2/2009 wef 29/07/2009]
 
 (aa) consists solely of a notice or report of a meeting or proposed meeting of the participants of the collective investment scheme, or a general meeting or proposed general meeting of the person making the offer, the responsible person or any entity, provided that the notice or report complies with such requirements as may be prescribed by the Authority, or a presentation of oral or written material on matters so contained in the notice or report at the meeting or general meeting;
 
@@ -15504,7 +15820,9 @@ This offer is made in reliance on the exemption under section 302B(1) of the Sec
 
 (C) where at least 6 months have elapsed from the date the units were acquired under the initial offer, in reliance on the exemption under this subsection;
 
-(c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(c) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
+
+[2/2009 wef 29/07/2009]
 
 (d) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the following persons:
 
@@ -15516,9 +15834,19 @@ This offer is made in reliance on the exemption under section 302B(1) of the Sec
 
 (iv) an exempt financial adviser as defined in section 2(1) of the Financial Advisers Act; or
 
-(v) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities or marketing of collective investment schemes, or who is exempted therefrom in respect of such dealing or marketing.
+(v) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities or marketing of collective investment schemes, or who is exempted therefrom in respect of such dealing or marketing; and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(e) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 299; or
+
+(ii) the person making the offer has before making the offer informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) For the purposes of subsection (1)(b), where any notice, circular, material, publication or other document is issued in connection with the offer, the person making the offer is deemed to have given the statement and notification to the person to whom he makes the offer in accordance with that provision if such statement or notification is contained in the first page of that notice, circular, material, publication or document.
 
@@ -15632,7 +15960,9 @@ that is published in connection with an offer of units in a collective investmen
 
 (B) purporting to have been prepared for delivery to and review by persons to whom the offer is made so as to assist them in making an investment decision in respect of the units being offered;
 
-(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, which is made by any person; or
+
+[2/2009 wef 29/07/2009]
 
 (iii) a publication which consists solely of a notice or report of a meeting or proposed meeting of the participants of the collective investment scheme, or a general meeting or proposed general meeting of the person making the offer, the responsible person or any entity, or a presentation of oral or written material on matters so contained in the notice or report at the meeting or general meeting.
 
@@ -15644,11 +15974,27 @@ that is published in connection with an offer of units in a collective investmen
 
 (a) the offers are made to no more than 50 persons within any period of 12 months;
 
-(b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+(b) none of the offers is accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-(c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the persons specified in section 302B(1)(d)(i) to (v).
+[2/2009 wef 29/07/2009]
+
+(c) no selling or promotional expenses are paid or incurred in connection with each offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the persons specified in section 302B(1)(d)(i) to (v); and
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
+
+(d) no prospectus in respect of any of the offers has been registered by the Authority or, where a prospectus has been registered —
+
+(i) the prospectus has expired pursuant to section 299; or
+
+(ii) the person making the offer has before making the offer —
+
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
+
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
+
+[2/2009 wef 29/07/2009]
 
 (2) The Authority may prescribe such other number of persons in substitution for the number specified in subsection (1)(a).
 
@@ -15702,9 +16048,9 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 ### Offer or invitation made under certain circumstances
 
-303\.—(1) Subdivision (3) of this Division shall not apply to an offer of units in a collective investment scheme if it is made in relation to units in a collective investment scheme that have been previously issued and that are quoted, or listed for quotation, on a securities exchange.
+303\.—(1) Subdivision (3) of this Division shall not apply to an offer of units in a collective investment scheme if it is made in relation to units in a collective investment scheme (not being such excluded units in a scheme as may be prescribed by the Authority) that have been previously issued, are listed for quotation or quoted on a securities exchange, and are traded on the exchange.
 
-[1/2005]
+[2/2009 wef 29/07/2009]
 
 (2) Subdivisions (2) and (3) of this Division shall not apply to an offer of units in a collective investment scheme if it is an offer to enter into an underwriting agreement relating to units in a collective investment scheme.
 
@@ -15722,7 +16068,19 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 ### First sale of units acquired pursuant to section 304
 
-304A\. Notwithstanding sections 302B, 302C, 303(1) and 305B , where units in a collective investment scheme acquired pursuant to an offer made in reliance on the exemption under section 304 are first sold to any person other than an institutional investor, then Subdivisions (2) and (3) of this Division shall apply to the offer resulting in that sale.
+304A\.—(1) Notwithstanding sections 302B, 302C, 303(1) and 305B but subject to subsection (2), where units in a collective investment scheme acquired pursuant to an offer made in reliance on the exemption under section 304 are first sold to any person other than an institutional investor, then Subdivisions (2) and (3) of this Division shall apply to the offer resulting in that sale.
+
+[2/2009 wef 29/07/2009]
+
+[1/2005]
+
+(2) Subsection (1) shall not apply where the units in a collective investment scheme acquired are of the same class as, or can be converted into units of the same class as, other units in the scheme —
+
+(a) an offer of which has previously been made in or accompanied by a prospectus; and
+
+(b) which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/07/2009]
 
 [1/2005]
 
@@ -15742,41 +16100,17 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 (b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by any of the persons specified in section 302B(1)(d)(i) to (v); and
 
-(c) the offer is made in or accompanied by an information memorandum which —
+(c) no prospectus in respect of the offer has been registered by the Authority or, where a prospectus has been registered —
 
-(i) contains the following statement:
+(i) the prospectus has expired pursuant to section 299; or
 
-“
+(ii) the person making the offer has before making the offer —
 
-The offer which is the subject of this information memorandum is not allowed to be made to the retail public. This information memorandum is not a prospectus as defined in the Securities and Futures Act. Accordingly statutory liability under that Act in relation to the content of prospectuses would not apply. You should consider carefully whether the investment is suitable for you.
+(A) informed the Authority by notice in writing of its intent to make the offer in reliance on the exemption under this subsection; and
 
-”; and
+(B) taken reasonable steps to inform in writing the person to whom the offer is made that the offer is made in reliance on the exemption under this subsection.
 
-(ii) states the particulars in respect of the scheme.
-
-[1/2005]
-
-(4) The particulars referred to in subsection (3)(c)(ii) to be included in the information memorandum are —
-
-(a) the investment objectives, focus and approach of and risks of subscribing for or purchasing units in the restricted scheme;
-
-(b) whether the offer of units in the restricted scheme is regulated by any financial supervisory authority and if so, the title and jurisdiction of the legislation under which the restricted scheme is regulated and the name and contact details of the authority;
-
-(c) in the case of a restricted scheme which is constituted in Singapore, the name and place of incorporation of the manager for the scheme and, where applicable, the trustee for the scheme;
-
-(d) in the case of a restricted scheme which is constituted outside Singapore which —
-
-(i) is a corporation —
-
-(A) its place of incorporation and business address; and
-
-(B) the name and place of incorporation or registration of the manager for the restricted scheme and, where applicable, the trustee or custodian for the restricted scheme; or
-
-(ii) is not a corporation, the name and place of incorporation or registration of the manager for the restricted scheme and, where applicable, the trustee or custodian for the restricted scheme; and
-
-(e) whether the manager for the restricted scheme and, where applicable, the trustee for the restricted scheme are regulated by any financial supervisory authority and if so, the name and contact details of the authority.
-
-[1/2005]
+[2/2009 wef 29/07/2009]
 
 (5) In this section —
 
@@ -15792,7 +16126,9 @@ that is published in connection with an offer of units in a collective investmen
 
 (i) an information memorandum;
 
-(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or overseas securities exchange, which is made by any person; or
+
+[2/2009 wef 29/07/2009]
 
 (iii) a publication which consists solely of a notice or report of a meeting or proposed meeting of the participants of the collective investment scheme, or a general meeting or proposed general meeting of the person making the offer, the responsible person or any entity, or a presentation of oral or written material on matters so contained in the notice or report at the meeting or general meeting;
 
@@ -15828,7 +16164,7 @@ that is published in connection with an offer of units in a collective investmen
 
 ### First sale of units acquired pursuant to section 305
 
-305A\.—(1) Notwithstanding sections 302B, 302C, 303(1) and 305B , where units in a collective investment scheme acquired pursuant to an offer made in reliance on an exemption under section 305 are first sold to any person other than —
+305A\.—(1) Notwithstanding sections 302B, 302C, 303(1) and 305B but subject to subsection (5), where units in a collective investment scheme acquired pursuant to an offer made in reliance on an exemption under section 305 are first sold to any person other than —
 
 (a) an institutional investor;
 
@@ -15838,9 +16174,11 @@ that is published in connection with an offer of units in a collective investmen
 
 then Subdivisions (2) and (3) of this Division shall apply to the offer resulting in that sale.
 
+[2/2009 wef 29/07/2009]
+
 [1/2005]
 
-(2) Securities of a corporation (other than a corporation that is an accredited investor) —
+(2) Subject to subsection (5), securities of a corporation (other than a corporation that is an accredited investor) —
 
 (a) the sole business of which is to hold investments; and
 
@@ -15860,7 +16198,9 @@ shall not be transferred within 6 months after the corporation has acquired any 
 
 [1/2005]
 
-(3) Where —
+[2/2009 wef 29/07/2009]
+
+(3) Subject to subsection (5), where —
 
 (a) the sole purpose of a trust (other than a trust the trustee of which is an accredited investor) is to hold investments; and
 
@@ -15880,9 +16220,19 @@ the beneficiaries’ rights and interest (howsoever described) in the trust shal
 
 [1/2005]
 
+[2/2009 wef 29/07/2009]
+
 (4) For the avoidance of doubt, the reference to beneficiaries in subsection (3) shall include a reference to unitholders of a business trust and participants of a collective investment scheme.
 
 [1/2005]
+
+(5) Subsections (1), (2) and (3) shall not apply where the units in a collective investment scheme acquired are of the same class as other units in the scheme —
+
+(a) an offer of which has previously been made in or accompanied by a prospectus; and
+
+(b) which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/07/2009]
 
 ### Offer made using offer information statement
 
@@ -17000,7 +17350,9 @@ but does not include —
 
 (a) that is a trust;
 
-(b) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+(b) that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+[2/2009 wef 29/07/2009]
 
 (c) all or any units of which are listed for quotation on a securities exchange;
 
@@ -17364,6 +17716,7 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|20 April 2009|
+|||29 July 2009|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
