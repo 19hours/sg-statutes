@@ -70,13 +70,13 @@
 
 - [25 Shares or interest not liable to attachment or sale](#Shares-or-interest-not-liable-to-attachment-or-sale)
 
-- [26 Transfer of shares or interest on death or permanent insanity of a member](#Transfer-of-shares-or-interest-on-death-or-permanent-insanity-of-a-member)
+- [26 Transfer of shares or interest on death or permanent insanity of member](#Transfer-of-shares-or-interest-on-death-or-permanent-insanity-of-member)
 
 - [27 Deposits by or on behalf of minors](#Deposits-by-or-on-behalf-of-minors)
 
 - [28 Contracts with members of society who are minors](#Contracts-with-members-of-society-who-are-minors)
 
-- [29 Proof of entries in the books of society](#Proof-of-entries-in-the-books-of-society)
+- [29 Proof of entries in books of society](#Proof-of-entries-in-books-of-society)
 
 - [30 (Repealed)](#Repealed)
 
@@ -112,9 +112,9 @@
 
 - [45 Nomination](#Nomination)
 
-- [46 Liability of a member limited by shares or by guarantee](#Liability-of-a-member-limited-by-shares-or-by-guarantee)
+- [46 Liability of member limited by shares or by guarantee](#Liability-of-member-limited-by-shares-or-by-guarantee)
 
-- [47 Liability of past member and of the estate of deceased member for debts of society](#Liability-of-past-member-and-of-the-estate-of-deceased-member-for-debts-of-society)
+- [47 Liability of past member and of estate of deceased member for debts of society](#Liability-of-past-member-and-of-estate-of-deceased-member-for-debts-of-society)
 
 - [48 Right of member to withdraw from society](#Right-of-member-to-withdraw-from-society)
 
@@ -192,7 +192,7 @@
 
 - [80 Examination of books of indebted society](#Examination-of-books-of-indebted-society)
 
-- [81 Communication of defects in the working of societies](#Communication-of-defects-in-the-working-of-societies)
+- [81 Communication of defects in working of societies](#Communication-of-defects-in-working-of-societies)
 
 - [82 Costs of inquiry and examination](#Costs-of-inquiry-and-examination)
 
@@ -240,7 +240,7 @@
 
 - [98 Recovery of sums due to Government](#Recovery-of-sums-due-to-Government)
 
-- [99 Prohibition on the use of the word "Co-operative"](#Prohibition-on-the-use-of-the-word-"Co-operative")
+- [99 Prohibition on use of word "co-operative"](#Prohibition-on-use-of-word-"co-operative")
 
 - [100 General penalty](#General-penalty)
 
@@ -258,13 +258,7 @@
 
 - [101 Certain Acts not to apply](#Certain-Acts-not-to-apply)
 
-- [102 (Repealed)](#Repealed)
-
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
-
-[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
-
-[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
+[**THE SCHEDULE Matters required to be in by-laws of co-operative society**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -274,13 +268,11 @@
 
 (Original Enactment: Act 17 of 1979)
 
-REVISED EDITION 1985
+REVISED EDITION 2009
 
-(30th March 1987)
+(31st July 2009)
 
 An Act to make better provision for the registration and regulation of co-operative societies, and for matters connected therewith.
-
-[23/2008 wef 20/10/2008]
 
 [1st January 1980]
 
@@ -298,31 +290,21 @@ PRELIMINARY
 
 “allowance” means the remuneration paid to a member of the committee of management of a society in consideration of his voluntary services rendered to the society on a regular basis;
 
-[23/2008 wef 20/10/2008]
-
 “apex organisation” means an organisation established to facilitate the operations of all primary and secondary co-operative societies in Singapore;
 
 “audit committee”, in relation to a credit society, means the audit committee of the credit society referred to in section 36;
 
-[23/2008 wef 20/10/2008]
-
 “auditor”, in relation to a society, means any person referred to in section 33(1) or 36(4)(b);
-
-[23/2008 wef 20/10/2008]
 
 “body corporate” includes a limited liability partnership;
 
-[23/2008 wef 20/10/2008]
-
-“by-laws” means the registered by-laws made by a society in the exercise of any power conferred by this Act and includes a registered amendment of the by-laws;
+“by-laws” means the registered by-laws made by a society in the exercise of any power conferred by this Act, and includes a registered amendment of the by-laws;
 
 “Central Co-operative Fund” means the fund established under section 71;
 
 “committee of management” means the governing body of a society which is responsible for the management of the affairs of the society;
 
 “credit society” means a society which is registered as a credit society;
-
-[23/2008 wef 20/10/2008]
 
 “delegate” means —
 
@@ -338,13 +320,9 @@ PRELIMINARY
 
 (b) such other deposit as may be prescribed;
 
-[23/2008 wef 20/10/2008]
-
 “dividend” means a portion of the net surplus of a society distributed among the members in proportion to the paid-up share capital or subscription capital held by them in the society;
 
 “financial service” means receiving deposits, granting loans, or such other service of a financial nature as may be prescribed, other than in relation to the carrying on of insurance business within the meaning of the Insurance Act (Cap. 142);
-
-[23/2008 wef 20/10/2008]
 
 “honorarium” means a portion of the net surplus of a society distributed among some or all of the members of the committee of management in consideration of their services which would not otherwise be remunerated;
 
@@ -352,29 +330,17 @@ PRELIMINARY
 
 “key employee” means a chief executive officer, chief operating officer or chief financial officer, or a person holding a position analogous to that of chief executive officer, chief operating officer or chief financial officer, and includes a person purporting to act in any such capacity;
 
-[23/2008 wef 20/10/2008]
-
 “limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
-
-[23/2008 wef 20/10/2008]
 
 “member” includes an individual person or institution qualifying for membership in a co-operative society, who or which join in the application for the registration of a society, and an individual person or institution admitted to membership after registration in accordance with this Act, the Rules and the by-laws;
 
 “net surplus” means the remaining portion of the surplus after provisions have been made for the Central Co-operative Fund and the Singapore Labour Foundation in accordance with section 71;
 
-[23/2008 wef 20/10/2008]
-
 “non-credit society” means a society that is not a credit society;
-
-[23/2008 wef 20/10/2008]
 
 “officer” includes a chairman, vice-chairman, director, secretary, assistant secretary, treasurer, assistant treasurer, member of committee of management, employee, internal auditor, liquidator or other person empowered under this Act, the Rules or the by-laws, to give directives in regard to the business of a society or to supervise the business;
 
-[23/2008 wef 20/10/2008]
-
 “parent society” means a society with one or more subsidiaries;
-
-[23/2008 wef 20/10/2008]
 
 “past officer”, in relation to any obligation imposed under this Act, means a person who at any time before the occurrence of the obligation was, or performed the duties of, an officer;
 
@@ -384,45 +350,35 @@ PRELIMINARY
 
 “public accountant” means a person who is registered or deemed to be registered under the Accountants Act (Cap. 2) as a public accountant;
 
-[23/2008 wef 20/10/2008]
-
 “registered” means registered under this Act;
 
 “Registrar” means the Registrar of Co-operative Societies and the Assistant Registrars of Co-operative Societies appointed under section 3, and includes a person exercising such powers of the Registrar as may have been conferred upon him under that section;
 
 “Rules” means rules made under section 95;
 
-[23/2008 wef 20/10/2008]
-
 “secondary society” means a registered society all of whose registered members are co-operative societies, trade unions, or co-operative societies and trade unions;
-
-[23/2008 wef 20/10/2008]
 
 “share” includes subscriptions payable by a member under the by-laws of a society;
 
 “Singapore Labour Foundation” means the Singapore Labour Foundation established under the Singapore Labour Foundation Act (Cap. 303);
 
-[Act 13/90 wef 16/04/1990]
-
-“society” means a co-operative society registered under this Act and includes a primary society, secondary society and apex organisation;
+“society” means a co-operative society registered under this Act and includes a primary society, a secondary society and an apex organisation;
 
 “subscription capital” means a regular obligatory savings deposit (made by members in accordance with the by-laws) which is intended to serve as guarantee capital for loans taken or guaranteed by a member and which may not be withdrawn except for such specific purposes and under such conditions as are laid down in the by-laws or except on a termination of membership;
 
 “subsidiary”, in relation to a society, means any body corporate (including another society) or body unincorporate which is controlled by the society;
 
-[23/2008 wef 20/10/2008]
-
 “surplus” means the economic results of a society as shown in the audited financial statements of that society after provisions have been made for depreciation and bad debts but does not include, in the case of an insurance co-operative, that portion of the surplus used for declaration of bonus to policy-holders or retained in the insurance fund;
 
-“trade union” means a trade union registered under the Trade Unions Act [Cap. 333];
+“trade union” means a trade union registered under the Trade Unions Act (Cap. 333);
 
 “written direction” means a written direction issued under section 93(2).
 
-[23/2008 wef 20/10/2008]
+[13/90; 23/2008]
 
 (2) For the purposes of this Act, a society shall be deemed to control a body corporate or body unincorporate if, and only if, the society is in a position to determine or govern the financial and operating policies of the body corporate or body unincorporate.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Appointment of Registrar and Assistant Registrars
 
@@ -450,7 +406,7 @@ may be registered as a co-operative society under this Act.
 
 (2) Every society which is registered under subsection (1) shall have the organisational and management structure laid down in Part V unless the Registrar, on registration of the society, considers that an organisational and management structure in the form referred to in subsection (3) is necessary or desirable for that society and should be so provided for in its by-laws.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3) The by-laws of a society referred to in subsection (2) may provide for —
 
@@ -460,7 +416,7 @@ may be registered as a co-operative society under this Act.
 
 but the provisions of Part V shall apply to a board of directors of such a society as they apply to a committee of management of any other society registered under this Act.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Conditions of registration
 
@@ -468,7 +424,7 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (a) in the case of a primary society, it consists of at least 10 persons each of whom is qualified for membership under section 39; and
 
-(b) in the case of a secondary society, it consists of two or more societies or trade unions qualifying for membership under section 39.
+(b) in the case of a secondary society, it consists of 2 or more societies or trade unions qualifying for membership under section 39.
 
 ### Name of society
 
@@ -482,7 +438,7 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (d) is undesirable or offensive.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) Every society shall have —
 
@@ -496,23 +452,19 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (a) in the case of a proposed primary society, by at least 10 persons all of whom qualify for membership; and
 
-(b) in the case of a proposed secondary society, by at least two persons duly authorised in that behalf by at least two societies qualifying for membership.
+(b) in the case of a proposed secondary society, by at least 2 persons duly authorised in that behalf by at least 2 societies qualifying for membership.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) The application shall be accompanied by —
 
 (a) a copy of the proposed by-laws;
 
-[23/2008 wef 20/10/2008]
-
 (b) the minutes of the preliminary meeting, signed by all persons present and willing to become members of the proposed society; and
-
-[23/2008 wef 20/10/2008]
 
 (c) such fee as may be prescribed.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Requirements before registration
 
@@ -522,17 +474,13 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (b) a statement as regards the viability of the activities of the proposed society;
 
-(c) the availability of sufficient capital for the commencement of operations;
-
-[23/2008 wef 20/10/2008]
+(c) the availability of sufficient capital for the commencement of operations of the proposed society;
 
 (d) the availability of officers capable of directing and managing the affairs of the proposed society and of keeping such records and accounts of the society as the Registrar may require; and
 
-[23/2008 wef 20/10/2008]
-
 (e) such other information as may be prescribed.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Registration
 
@@ -544,11 +492,11 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (c) the proposed by-laws of the society are sufficient to provide for its proper administration and management.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (1A) For the purposes of subsection (1), the Registrar may accept a declaration made by the applicants for registration of the society as to the matters specified in subsection (1)(a), (b) and (c) as sufficient evidence of those matters.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (1B) Notwithstanding subsection (1), the Registrar may refuse to register a society which proposes to provide any financial service, and its by-laws, if he is not satisfied that —
 
@@ -564,7 +512,7 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (f) there are available officers capable of directing and managing the affairs of the society and keeping the records and accounts of the society, having regard to the reputation, character, financial integrity and reliability of the proposed officers.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (1C) The Registrar may —
 
@@ -572,11 +520,11 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (b) where the society is to provide any financial service, register the society as a credit society to provide the financial service.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) In every case in which the Registrar refuses to register a society, he shall communicate his decision to the applicants.
 
-(3) An appeal against the refusal of the Registrar to register a proposed society shall lie to the Minister within two months from the date of the refusal, and the decision of the Minister shall be final.
+(3) An appeal against the refusal of the Registrar to register a proposed society shall lie to the Minister within 2 months from the date of the refusal, and the decision of the Minister shall be final.
 
 ### Evidence of registration
 
@@ -586,11 +534,15 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (b) where the society is a credit society, that the society is registered as a credit society to provide such financial service as may be specified in the notice.
 
+[23/2008]
+
 (2) Upon the application of a society and payment of such fee as may be prescribed, the Registrar shall issue to the society a certificate of registration.
+
+[23/2008]
 
 (3) A certificate of registration, or a copy thereof, signed and sealed by the Registrar shall be conclusive evidence that the society therein mentioned is duly registered, unless it is proved that the registration of the society has been cancelled.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Registers
 
@@ -602,6 +554,8 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (c) such other registers as may be prescribed.
 
+[23/2008]
+
 (2) Any person may, on payment of such fee as may be prescribed —
 
 (a) inspect such parts of any register as the Registrar may determine and obtain extracts therefrom;
@@ -610,11 +564,15 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 (c) obtain a copy of the certificate of registration of any society from the Registrar.
 
+[23/2008]
+
 (3) An extract from or a copy of an entry in a register shall be prima facie evidence of the information stated therein if the extract or copy is certified by the Registrar to be a true extract or copy.
+
+[23/2008]
 
 (4) An extract from or a copy of any document submitted to or lodged with the Registrar shall be admissible in evidence in any proceedings as of equal validity with the original document if the extract or copy is certified by the Registrar to be a true extract or copy.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ## PART III
 
@@ -640,7 +598,7 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 (c) carry out such other functions or duties as may be conferred on the apex organisation by this Act or the rules made thereunder.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Power to make by-laws
 
@@ -648,25 +606,23 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 (2) The by-laws of every society shall include provisions in respect of matters mentioned in the Schedule.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Amendment and registration of by-laws
 
 15\.—(1) A society may, subject to this Act, amend its by-laws.
 
-(2) [Deleted by Act 23/2008 wef 20/10/2008]
+(2) [Deleted by Act 23 of 2008]
 
 (3) No by-law or amendment to a by-law of a society shall be valid until it has been registered by the Registrar.
 
-(4) No amendment of by-laws shall be registered unless —
+(4) No amendment of by-laws shall be registered unless a resolution to amend the by-laws is passed either —
 
-(a) [Deleted by Act 23/2008 wef 20/10/2008]
+(a) by not less than three-quarters of the members present and voting at a general meeting duly summoned; or
 
-(b) a resolution to amend the by-laws is passed either —
+(b) if a referendum is held, by not less than three-quarters of the votes returned, provided that the voting papers have been sent to all members of the society and that the number of returned votes is not less than one-third of the total membership or 500, whichever is the less, and the returned votes are examined and counted under the supervision of the Registrar.
 
-(i) by not less than three-quarters of the members present and voting at a general meeting duly summoned; or
-
-(ii) if a referendum is held, by not less than three-quarters of the votes returned, provided that the voting papers have been sent to all members of the society and that the number of returned votes is not less than one-third of the total membership or 500, whichever is the less, and the returned votes are examined and counted under the supervision of the Registrar.
+[23/2008]
 
 (5) Every application for the registration of the amended by-laws shall —
 
@@ -678,19 +634,19 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 (d) be accompanied by such fee as may be prescribed.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (6) The Registrar may register a by-law or an amendment to a by-law if he is satisfied that it is not inconsistent with the provisions of this Act and the Rules.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (7) If the Registrar refuses to register a by-law or an amendment to a by-law, he shall record in writing the reasons for his refusal and shall inform the society of his decision.
 
-(8) Where the Registrar refuses to register a by-law or an amendment to a by-law, an appeal shall lie to the Minister within two months of the Registrar informing the society under subsection (7) and the decision of the Minister shall be final.
+(8) Where the Registrar refuses to register a by-law or an amendment to a by-law, an appeal shall lie to the Minister within 2 months of the Registrar informing the society under subsection (7) and the decision of the Minister shall be final.
 
 (9) Where the Registrar registers a by-law or an amendment to a by-law, he shall send a copy of the by-law or the amendment thereto with a notice of registration to the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### By-laws to bind members
 
@@ -698,17 +654,23 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 (2) A member of a society shall not, without his consent in writing having been first obtained, be bound by any amendment of the society’s by-laws registered after he became a member, if and so far as that amendment requires him to take or to subscribe for more shares than the number held by him at the date of registration of the amendment, or to pay upon the shares so held any sum exceeding the amount unpaid upon them at that date, or in any other way increases the liability of that member to contribute to the share, subscription or loan capital of the society.
 
-(3) [Deleted by Act 23/2008 wef 20/10/2008]
-
 ### Conversion from non-credit society to credit society
 
 16A\.—(1) A non-credit society shall not provide any financial service without the written approval of the Registrar.
 
+[23/2008]
+
 (2) A non-credit society shall apply to the Registrar for his written approval under subsection (1) in such form and manner as may be prescribed.
+
+[23/2008]
 
 (3) Every application made by a non-credit society under subsection (2) shall be accompanied by such fee as may be prescribed.
 
+[23/2008]
+
 (4) The Registrar may require a non-credit society to furnish him with such information or documents as he considers necessary in relation to the application.
+
+[23/2008]
 
 (5) The Registrar may refuse to grant his written approval under subsection (1) to a non-credit society to provide any financial service if he is not satisfied that —
 
@@ -724,27 +686,37 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 (f) there are available officers capable of directing and managing the provision of the financial service by the society and keeping the records and accounts of the society, having regard to the reputation, character, financial integrity and reliability of the officers or proposed officers.
 
+[23/2008]
+
 (6) The Registrar may grant his written approval under subsection (1) subject to such terms and conditions as he thinks fit.
+
+[23/2008]
 
 (7) Where the Registrar has granted his written approval to a non-credit society to provide any financial service, he shall amend the register of societies to show that, and issue to the society a notice of registration stating that, the society is registered as a credit society to provide the financial service on and from a date specified in the notice.
 
+[23/2008]
+
 (8) A non-credit society that is aggrieved by the refusal of the Registrar to grant his written approval for the non-credit society to provide any financial service may, within 2 months from the date of the refusal, appeal to the Minister whose decision shall be final.
+
+[23/2008]
 
 (9) Any non-credit society which provides any financial service in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Control of credit societies
 
 16B\.—(1) No credit society shall, without the written approval of the Registrar, provide, or enter into any partnership, joint venture or other arrangement with any person to provide, any financial service other than the financial service or services which it is registered to provide.
 
+[23/2008]
+
 (2) Any credit society which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Change of name of society
 
-16C\.—(1) Notwithstanding anything in sections 6 and 15, where the Registrar is satisfied that a society has been registered (whether through inadvertence or otherwise and whether before, on or after the date of commencement of the Co-operative Societies (Amendment) Act 2008) by a name —
+16C\.—(1) Notwithstanding anything in sections 6 and 15, where the Registrar is satisfied that a society has been registered (whether through inadvertence or otherwise and whether before, on or after 20th October 2008) by a name —
 
 (a) which is referred to in section 6(1); or
 
@@ -752,13 +724,19 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 the Registrar may, by a written direction, direct the society to change its name to such other name as he may approve in accordance with such terms and conditions as may be specified in the written direction.
 
+[23/2008]
+
 (2) Every society which has been directed to change its name under subsection (1) shall comply with the written direction within such time as may be specified in the written direction, unless the written direction is annulled by the Minister.
+
+[23/2008]
 
 (3) Any society that is aggrieved by the written direction of the Registrar to change its name under subsection (1) may, within 2 months of the issue of the written direction, appeal to the Minister whose decision shall be final.
 
+[23/2008]
+
 (4) A change of name of a society pursuant to this Act shall not affect the identity of the society or any right or obligation of the society or any of its members or past members, and any legal proceedings that might have been continued or commenced by or against it by its former name may be continued or commenced by or against it by its new name.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Address of society
 
@@ -784,7 +762,7 @@ the Registrar may, by a written direction, direct the society to change its name
 
 19\.—(1) The names, occupations and addresses of all officers of every society and any changes thereof shall be notified to the Registrar.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) Notice of any change shall be given in writing within 14 days.
 
@@ -808,7 +786,7 @@ the Registrar may, by a written direction, direct the society to change its name
 
 (2) No fine exceeding $500 shall be imposed except with the written approval of the Registrar.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3) Any such fine shall be recoverable by the society as a debt due to the society.
 
@@ -828,13 +806,13 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 ### Charge and set-off in respect of shares or interest of members
 
-24\. A society shall have a charge upon the share or interest in the capital and on the deposits of a member or past member or deceased member and upon a dividend or patronage refund payable to a member or past member or to the estate of a deceased member in respect of a debt due to the society from the member or past member or estate, and may set off a sum credited or payable to a member or past member or estate of a deceased member for the payment of any such debt.
+24\. A society shall have a charge upon the share or interest in the capital and on the deposits of a member or past member or deceased member and upon a dividend or patronage refund payable to a member or past member or to the estate of a deceased member in respect of a debt due to the society from the member or past member or estate, and may set-off a sum credited or payable to a member or past member or estate of a deceased member for the payment of any such debt.
 
 ### Shares or interest not liable to attachment or sale
 
 25\. Subject to section 24, the share or interest of a member in the capital of a society shall not be liable to attachment or sale under any decree or order of a court in respect of a debt or liability incurred by the member, and neither his assignee in insolvency nor a receiver duly appointed shall be entitled to, or have a claim on, that share or interest.
 
-### Transfer of shares or interest on death or permanent insanity of a member
+### Transfer of shares or interest on death or permanent insanity of member
 
 26\.—(1) On the death of a member, a society may transfer the share or interest of the deceased member —
 
@@ -856,17 +834,17 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 27\.—(1) A credit society may receive deposits from or for the benefit of minors and it shall be lawful for a credit society to pay them the interest which may become due on the deposits. A deposit made by a minor may, together with the interest accrued thereon, be paid to that minor; and a deposit made on behalf of a minor may, together with the interest accrued thereon, be paid to the guardian of that minor for the use of the minor.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) The receipt of a minor or guardian for money paid to him under this section shall be a sufficient discharge of the liability of the credit society in respect of that money.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Contracts with members of society who are minors
 
 28\. The minority of a person duly admitted as a member of any society shall not preclude that person from executing any instrument or giving a discharge necessary to be given under this Act or the Rules, and shall not be a ground for invalidating or avoiding a contract entered into by any such person with the society, and the contract entered into by that person with the society, whether as principal or as surety, shall be enforceable at law or against that person notwithstanding his minority, except that this section shall not apply to school co-operatives.
 
-### Proof of entries in the books of society
+### Proof of entries in books of society
 
 29\.—(1) A copy of an entry in a book of a society, regularly kept in the course of business, shall be prima facie evidence in any legal proceedings, civil or criminal, of the existence of the entry and of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is admissible.
 
@@ -874,7 +852,9 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 (3) No officer of any such society shall, in any legal proceedings to which the society or the liquidator of the society is not a party, be compelled to produce any of the society’s books, the contents of which can be proved under subsection (1) or to appear as witness to prove matters, transactions or accounts therein recorded, unless the court for special reasons so directs.
 
-30\. [Deleted by Act 23/2008 wef 20/10/2008]
+Government assistance
+
+30\. [Repealed by Act 23 of 2008]
 
 ### Production of moneys and books of societies
 
@@ -884,11 +864,13 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 32\. Every society shall submit to the Registrar the minutes of meetings and such information, returns and statements as the Registrar may, by written directions, require.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Audit of societies
 
 33\.—(1) Every society shall once at least in every year have its books and accounts audited by a public accountant or a person authorised by the Registrar in writing.
+
+[23/2008]
 
 (2) No person shall be eligible to be or remain an auditor of a society if —
 
@@ -900,6 +882,8 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 (d) he is a partner or an employee of an employee of an officer of the society.
 
+[23/2008]
+
 (3) An auditor of a society shall have power —
 
 (a) to have at all reasonable times free access to all accounting and other records relating directly or indirectly to the financial transactions of the society;
@@ -910,19 +894,21 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 (d) to make copies of or extracts from accounting and other records, or retain possession of such records for such period as may be necessary to enable them to be inspected.
 
+[23/2008]
+
 (4) In this section, “related entity”, in relation to a society, means —
 
 (a) the parent society of the society, or a subsidiary of such a parent society; or
 
 (b) a subsidiary of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Annual reports, accounts and financial statements
 
 34\.—(1) A society shall, as soon as practicable but not later than 6 months after the close of each financial year, submit to the Registrar an annual report on its activities during the year together with a copy of the audited financial statements of the society and the audit report for that year.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) The society shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in custody of, the society and over the expenditure incurred by the society.
 
@@ -936,15 +922,15 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 (b) other requirements substituted by the Minister in lieu of compliance with one or more requirements of the accounting standards referred to in paragraph (a).
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (6) The committee of management of a society shall cause to be attached to the audited financial statements of the society a report, which shall be prepared in such form and manner, and contain such information, as may be prescribed in the Rules.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (7) Where the financial statements prepared in accordance with any accounting standard or requirement referred to in subsection (5) would not give a true and fair view of the financial transactions and the state of affairs of the society as at the end of the period to which they relate, the financial statements need not be in compliance with that accounting standard or requirement to the extent that this is necessary for them to give a true and fair view of the financial transactions and the state of affairs of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (8) In the event of any non-compliance with any accounting standard or requirement referred to in subsection (5), there shall be included in the financial statements —
 
@@ -954,23 +940,23 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 (c) such further information and explanation as will give a true and fair view of the financial transactions and the state of affairs of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (9) Any society which fails to comply with subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Duties of auditor
 
-35\.—(1) The auditor shall inspect and audit the accounts and other relevant records of the society and shall forthwith draw the attention of the Registrar and the society to any irregularity disclosed by the inspection and audit that is, in the opinion of the auditor, of sufficient importance to justify his so doing. The financial statements submitted by the society after the close of the financial year shall be audited and reported on by the auditor.
+35\.—(1) The auditor shall inspect and audit the accounts and other relevant records of the society and shall immediately draw the attention of the Registrar and the society to any irregularity disclosed by the inspection and audit that is, in the opinion of the auditor, of sufficient importance to justify his so doing. The financial statements submitted by the society after the close of the financial year shall be audited and reported on by the auditor.
 
 (2) The auditor shall report —
 
 (a) whether the financial statements give a true and fair view of the financial transactions and the state of affairs of the society; and
 
-[23/2008 wef 20/10/2008]
-
 (b) such other matters arising from the audit as he considers should be reported.
+
+[23/2008]
 
 (3) The auditor shall state in his report whether —
 
@@ -994,11 +980,11 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 and the auditor shall carry out such duty or duties.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (7) The society shall remunerate the auditor in respect of the discharge of such duty or duties as the Registrar may impose on the auditor under subsection (6), subject to the written directions of the Registrar.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (8) If an auditor of a society, in the course of the performance of his duties as auditor, has reason to believe that an offence involving fraud or dishonesty is being or has been committed against the society by any officer or employee of the society and —
 
@@ -1008,19 +994,25 @@ and the auditor shall carry out such duty or duties.
 
 the auditor shall immediately report the matter to the Registrar.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (9) An officer of a society who refuses or fails, without lawful excuse, to allow an auditor of the society access, in accordance with this section, to any accounting and other records, including registers, of the society in his custody or control, or to give any information or explanation as and when required under this section, or otherwise hinders, obstructs or delays an auditor in the performance of his duties or the exercise of his powers, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Audit committees
 
 36\.—(1) Every credit society shall have an audit committee.
 
+[23/2008]
+
 (2) An audit committee shall be appointed by the committee of management of the credit society from among their number and shall be composed of at least 3 members who shall be independent of the credit society in the manner prescribed.
 
+[23/2008]
+
 (3) If a member of an audit committee resigns, dies or for any other reason ceases to be a member with the result that the number of members is reduced below 3, the committee of management of the credit society shall, within 3 months of that event, appoint such number of new members as may be required to make up the minimum number of 3 members.
+
+[23/2008]
 
 (4) The functions of an audit committee shall be —
 
@@ -1034,21 +1026,29 @@ the auditor shall immediately report the matter to the Registrar.
 
 (iv) the scope and results of the audit procedures; and
 
-(v) the balance-sheet and income and expenditure statement of the credit society and, if it is a parent society, the consolidated balance-sheet and income and expenditure statement, submitted to it by the credit society or the parent society, and thereafter to submit them to the members of the committee of management of the credit society or the parent society; and
+(v) the balance-sheet and income and expenditure statement of the credit society and, if the credit society is a parent society, the consolidated balance-sheet and income and expenditure statement, submitted to the audit committee by the credit society or the parent society, and thereafter to submit them to the members of the committee of management of the credit society or the parent society; and
 
 (b) to nominate a person or persons as auditor, notwithstanding anything contained in the by-laws or section 33(1),
 
 together with such other functions as may be agreed to by the audit committee and the committee of management of the credit society.
 
+[23/2008]
+
 (5) The auditor has the right to appear and be heard at any meeting of the audit committee and shall appear before the audit committee when required to do so by the audit committee.
+
+[23/2008]
 
 (6) Upon the request of the auditor, the chairman of the audit committee shall convene a meeting of the audit committee to consider any matter the auditor believes should be brought to the attention of the members of the committee of management, or the members, of the credit society.
 
+[23/2008]
+
 (7) Each audit committee may regulate its own procedure and, in particular, the calling of meetings, the notice to be given of such meetings, the voting and proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
-37\. [Deleted by Act 23/2008 wef 20/10/2008]
+Audit fees
+
+37\. [Repealed by Act 23 of 2008]
 
 ## PART IV
 
@@ -1066,8 +1066,6 @@ RIGHTS AND LIABILITIES OF MEMBERS
 
 (i) shall have attained the age of 16 years and in the case of a school co-operative shall have attained the age of 12 years;
 
-[23/2008 wef 20/10/2008]
-
 (ii) shall be a citizen of Singapore or resident in Singapore; and
 
 (iii) meets such other requirements with regard to residence, employment, profession, etc., as prescribed by the by-laws,
@@ -1076,13 +1074,15 @@ except that no person shall be admitted to membership who is legally or mentally
 
 (b) in the case of an institution, that it is registered as a society under this Act or is a trade union.
 
+[23/2008]
+
 (2) Membership in a secondary society shall be restricted to registered co-operative societies and trade unions.
 
 (3) Membership in an apex organisation shall be restricted to primary and secondary societies registered under this Act.
 
 (3A) Notwithstanding subsections (1), (2) and (3), membership of individuals in a credit society shall be restricted to individuals who belong to a field of membership consisting of a pre-existing common bond of association or community of interest among the members thereof.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3B) In determining whether the criterion for membership in a credit society prescribed in subsection (3A) is met, regard shall be had to —
 
@@ -1094,11 +1094,11 @@ except that no person shall be admitted to membership who is legally or mentally
 
 (d) such other considerations as the Registrar may determine to be relevant.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
-(3C) Subsection (3A) shall not apply to any person who, immediately before the date of commencement of the Co-operative Societies (Amendment) Act 2008, is a member of any society which provides any financial service and which continues to provide such financial service from that date as a credit society, whether by virtue of paragraph 1 of the Schedule to the Co-operative Societies (Amendment) Act 2008 or otherwise.
+(3C) Subsection (3A) shall not apply to any person who, immediately before 20th October 2008, is a member of any society which provides any financial service and which continues to provide such financial service from that date as a credit society, whether by virtue of paragraph 1 of the Schedule to the Co-operative Societies (Amendment) Act 2008 (Act 23 of 2008) or otherwise.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (4) A member who may at any time be found to be disqualified for any of the reasons mentioned in this section shall cease to be a member of the society.
 
@@ -1106,7 +1106,9 @@ except that no person shall be admitted to membership who is legally or mentally
 
 40\. No member of a society shall exercise any of the rights of a member unless he has made such payment to the society in respect of membership, or has acquired such shares or interest in the society, as may be prescribed under this Act or by the by-laws.
 
-41\. [Deleted by Act 23/2008 wef 20/10/2008]
+Restriction of membership
+
+41\. [Repealed by Act 23 of 2008]
 
 ### Votes of members
 
@@ -1114,7 +1116,7 @@ except that no person shall be admitted to membership who is legally or mentally
 
 (2) Each institutional member of a primary society shall have such number of votes and such voting powers as are provided by the by-laws.
 
-(3) In a secondary society or in the apex organisation, each member shall have as many votes as may be provided by the by-laws of the secondary society or the apex organisation.
+(3) In a secondary society or in an apex organisation, each member shall have as many votes as may be provided by the by-laws of the secondary society or the apex organisation.
 
 ### Restriction on shareholding
 
@@ -1132,25 +1134,31 @@ except that no person shall be admitted to membership who is legally or mentally
 
 ### Nomination
 
-45\.—(1) A member of a society may in writing nominate a person in the presence of at least two witnesses, to whom on the death of the member the society may transfer the share or interest.
+45\.—(1) A member of a society may in writing nominate a person in the presence of at least 2 witnesses, to whom on the death of the member the society may transfer the share or interest.
+
+[3/2009 wef 01/09/2009]
 
 (2) Every society shall keep a register of all persons so nominated.
 
-### Liability of a member limited by shares or by guarantee
+### Liability of member limited by shares or by guarantee
 
 46\.—(1) Notwithstanding the provisions of any by-laws, the liability of a member, present or past, of a society shall extend to the nominal value of any shares held or subscribed for by him.
 
 (2) Where in the by-laws of a society the amount of the liability of a member is expressed to be greater than the nominal value of any shares held or subscribed for by him, then the liability of the member shall extend to such greater amount.
 
-### Liability of past member and of the estate of deceased member for debts of society
+### Liability of past member and of estate of deceased member for debts of society
 
-47\.—(1) The liability of a past member for the debts of a society, within the limitations of section 46, as they existed on the date on which he ceased to be a member shall not continue for a period of more than two years reckoned from that date.
+47\.—(1) The liability of a past member for the debts of a society, within the limitations of section 46, as they existed on the date on which he ceased to be a member shall not continue for a period of more than 2 years reckoned from that date.
 
-(2) The estate of a deceased member, who is not a past member to whom subsection (1) applies, shall not be liable for debts of the society as they existed on the date of his death for a period of more than two years reckoned from the date of his death.
+(2) The estate of a deceased member, who is not a past member to whom subsection (1) applies, shall not be liable for debts of the society as they existed on the date of his death for a period of more than 2 years reckoned from the date of his death.
 
 ### Right of member to withdraw from society
 
-48\. A member may withdraw from a society subject to such conditions and by giving to the society such notice as the by-laws may prescribe, except that in the case of a primary society the notice shall not exceed one year and in the case of a secondary society or the apex organisation the notice shall not exceed two years.
+48\. A member may withdraw from a society subject to such conditions and by giving to the society such notice as the by-laws may prescribe, except that —
+
+(a) in the case of a primary society, the notice shall not exceed one year; and
+
+(b) in the case of a secondary society or an apex organisation, the notice shall not exceed 2 years.
 
 ### Expulsion of member
 
@@ -1182,7 +1190,7 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 52\.—(1) Every society shall within 3 months after receipt of the notice of registration, unless the time is extended by the Registrar, hold a first meeting of its members.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) The business of the first meeting shall include the election of officers who shall serve until the first annual general meeting and shall be eligible for re-election.
 
@@ -1208,13 +1216,13 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (f) to elect or remove members of the committee of management;
 
-[23/2008 wef 20/10/2008]
-
 (g) to appoint, where necessary, the auditors of the society;
 
 (h) to consider and determine the maximum amount the society may borrow; and
 
 (i) to transact any other general business of the society of which due notice has been given to members.
+
+[23/2008]
 
 ### Extraordinary general meeting
 
@@ -1222,7 +1230,7 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (2) An extraordinary general meeting of a society shall be convened by the committee of management on receipt of a requisition for such a meeting signed by at least 20% or 60 of the members or delegates of the society, whichever is the less, stating the objects of the meeting.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3) If the committee of management fails to convene a meeting in accordance with subsection (2) within one month of receiving the requisition for the meeting, the members making the requisition shall have power to convene the meeting themselves by notice to all members of the society stating the objects of the meeting and the fact that the committee of management has failed to convene the meeting.
 
@@ -1232,7 +1240,7 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 56\.—(1) No business shall be transacted at any general meeting unless a quorum of members or delegates is present. The quorum necessary for such transaction shall be 20% or 30 of all members or delegates qualified to vote, whichever is the less.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) If a quorum is not present within 30 minutes after the time fixed for a general meeting, the members or delegates present shall form a quorum, except that —
 
@@ -1240,7 +1248,7 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (b) any resolution passed at the meeting shall not be valid unless it is passed with a majority of two-thirds of the members or delegates present.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Voting at general meeting
 
@@ -1250,7 +1258,7 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (3) In the case of election or removal of officers, voting shall be by secret ballot.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (4) Where it is provided in this Act or in the by-laws that a resolution shall be passed by not less than a prescribed majority of the members present and voting at a general meeting and where the members consist of individual persons and institutions with different voting powers as laid down in the by-laws, the resolution shall be deemed to be passed if not less than the prescribed majority of the total number of votes at the disposal of the members are cast in favour of the resolution.
 
@@ -1274,13 +1282,23 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (b) where the society is a credit society, be composed of at least a majority of members who shall be independent of the credit society in the manner prescribed.
 
+[23/2008]
+
 (2) A motion for the election of 2 or more persons as members of the committee of management by a single resolution at a general meeting shall not be made unless a resolution that it shall be so made has first been agreed to by the meeting without any vote being given against it.
+
+[23/2008]
 
 (3) A resolution passed in pursuance of a motion made in contravention of subsection (2) shall be void, whether or not its being so moved was objected to at the time.
 
+[23/2008]
+
 (4) Where a resolution pursuant to a motion made in contravention of subsection (2) is passed, no provision for the automatic re-election of retiring members of the committee of management of the society in default of another election shall apply.
 
+[23/2008]
+
 (5) For the purposes of this section, a motion for approving a person’s election or for nominating a person for election shall be treated as a motion for his election.
+
+[23/2008]
 
 (6) Where the committee of management of a society appoints a person as a full-time manager —
 
@@ -1288,9 +1306,15 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (b) where all duties of the secretary or treasurer, or both, are so delegated, then notwithstanding subsection (1)(a), the society may operate without electing a secretary or a treasurer, or both.
 
+[23/2008]
+
 (7) The offices of secretary and treasurer may be held by one and the same person but not the other offices.
 
+[23/2008]
+
 (8) The duties of the chairman, secretary, treasurer and manager shall be as provided in this Act, the Rules and the by-laws.
+
+[23/2008]
 
 (9) Subject to this Act and the Rules —
 
@@ -1300,15 +1324,17 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 shall be as provided in the by-laws of the society.
 
+[23/2008]
+
 (10) If, during the term of office of the committee of management of a society, a vacancy occurs in the committee of management, the committee of management may, and if the number of members falls below 5, shall, co-opt a member of the society to serve on the committee of management until the next general meeting of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Eligibility for membership of committee of management, or to be key employee of credit society
 
-60\.—(1) No person shall be eligible for membership of the committee of management of a society , to be a key employee of a credit society, or to remain a member of the committee of management of a society or a key employee of a credit society, if —
+60\.—(1) No person shall be eligible for membership of the committee of management of a society, to be a key employee of a credit society, or to remain a member of the committee of management of a society or a key employee of a credit society, if —
 
-(a) he is under 21 years of age, except in the case of a school co-operative society;
+(a) he is below 21 years of age, except in the case of a school co-operative society;
 
 (b) he is not —
 
@@ -1318,11 +1344,9 @@ shall be as provided in the by-laws of the society.
 
 except with the approval of the Registrar;
 
-[23/2008 wef 20/10/2008]
-
 (c) he is an undischarged bankrupt;
 
-(d) [Deleted by Act 23/2008 wef 20/10/2008]
+(d) [Deleted by Act 23 of 2008]
 
 (e) he has been convicted of an offence under this Act;
 
@@ -1330,11 +1354,11 @@ except with the approval of the Registrar;
 
 (g) he has been found to have previously misused or mismanaged the funds of a society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) For the purposes of subsection (1)(b)(ii), the Registrar may, by written directions, stipulate the number or proportion of persons resident in Singapore who shall be eligible for membership of the committee of management of any society or class of societies, as the case may be.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3) Where a person has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty, he shall not be eligible to be, or remain, a member of the committee of management of a non-credit society for the following periods except with the written approval of the Registrar:
 
@@ -1342,11 +1366,11 @@ except with the approval of the Registrar;
 
 (b) where he has not been sentenced to imprisonment in respect of the offence, for a period of 5 years commencing from the date of his conviction or such shorter period with the leave of the High Court.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (4) No person shall be eligible to be, or remain, a key employee of a credit society or a member of the committee of management of a credit society, except with the written approval of the Registrar, where he has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Functions of committee of management
 
@@ -1362,17 +1386,15 @@ except with the approval of the Registrar;
 
 (d) to keep members informed of the progress of the society and encourage interest and a sense of ownership on the part of the members;
 
-(da) to present to the annual general meeting of the society an annual report on the activities of the society during the preceding financial year, together with the audited financial statements of the society and the auditor’s report for that year;
+(e) to present to the annual general meeting of the society an annual report on the activities of the society during the preceding financial year, together with the audited financial statements of the society and the auditor’s report for that year;
 
-[23/2008 wef 20/10/2008]
+(f) to prepare and present to the annual general meeting of the society a proposal for the distribution of any net surplus accrued during the preceding financial year, in accordance with this Act and the by-laws;
 
-(e) to prepare and present to the annual general meeting of the society a proposal for the distribution of any net surplus accrued during the preceding financial year, in accordance with this Act and the by-laws;
+(g) to make a report to the annual general meeting of the work of the committee of management during the preceding financial year with such recommendations as it considers necessary to maintain or improve the services provided by the society to its members; and
 
-(f) to make a report to the annual general meeting of the work of the committee of management during the preceding financial year with such recommendations as it considers necessary to maintain or improve the services provided by the society to its members; and
+(h) to consider and take immediate action on matters reported by the Registrar, the audit committee or the auditor.
 
-(g) to consider and take immediate action on matters reported by the Registrar, the audit committee or the auditor.
-
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3) A full and correct record shall be kept of all proceedings of the committee of management in carrying out its duties, and the records shall be available for inspection by the Registrar and by the auditor.
 
@@ -1380,7 +1402,7 @@ except with the approval of the Registrar;
 
 ### Meetings of committee of management
 
-62\.—(1) The committee shall meet as often as the business of the society may require and in any case not less frequently than once in every 3 months.
+62\.—(1) The committee of management shall meet as often as the business of the society may require and in any case not less frequently than once in every 3 months.
 
 (2) The quorum for a meeting of the committee of management shall be half of the number of its members.
 
@@ -1398,6 +1420,8 @@ except with the approval of the Registrar;
 
 63\.—(1) A member of the committee of management of a society shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office.
 
+[23/2008]
+
 (2) Subject to subsection (3), a member of the committee of management of a society may, when exercising powers or performing duties as such a member, rely on reports, statements, financial data and other information prepared or supplied, and on professional or expert advice given, by any of the following persons:
 
 (a) an employee of the society whom the member believes on reasonable grounds to be reliable and competent in relation to the matters concerned;
@@ -1405,6 +1429,8 @@ except with the approval of the Registrar;
 (b) a professional adviser or an expert in relation to matters which the member believes on reasonable grounds to be within the person’s professional or expert competence; or
 
 (c) any other member, or any committee of such members on which the member concerned did not serve, in relation to matters within that other member’s or committee’s designated authority.
+
+[23/2008]
 
 (3) Subsection (2) shall apply to a member of the committee of management of a society if, and only if, the member —
 
@@ -1414,15 +1440,23 @@ except with the approval of the Registrar;
 
 (c) has no knowledge that such reliance is unwarranted.
 
+[23/2008]
+
 (4) An officer or agent of a society shall not make improper use of any information acquired by virtue of his position as an officer or agent of the society to gain, directly or indirectly, an advantage for himself or for any other person or to cause detriment to the society.
 
-(5) Any member of the committee of management of a society who contravenes subsection (1), or any officer or agent of a society who contravenes subsection (4), shall be —
+[23/2008]
 
-(a) liable to the society for any profit made by him or for any damage suffered by the society as a result of such contravention; and
+(5) Any member of the committee of management of a society who contravenes subsection (1), or any officer or agent of a society who contravenes subsection (4) —
 
-(b) guilty of an offence and liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) shall be liable to the society for any profit made by him or for any damage suffered by the society as a result of such contravention; and
+
+(b) shall be guilty of an offence and liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[23/2008]
 
 (6) Where the committee of management of a society has appointed a person as a manager to administer and manage the affairs of the society, the appointment shall not absolve the committee of management from its responsibility for the proper direction of the affairs of the society.
+
+[23/2008]
 
 (7) In this section, unless the context otherwise requires —
 
@@ -1430,19 +1464,25 @@ except with the approval of the Registrar;
 
 “officer”, in relation to a society, includes a person who at any time has been an officer of the society.
 
+[23/2008]
+
 (8) This section shall be in addition to and not in derogation of any other written law or rule of law relating to the duty or liability of officers of a society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Disclosure of interests in transactions, property, offices, etc.
 
 64\.—(1) Subject to this section, every member of the committee of management of a society who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction with the society shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the committee of management of the society.
+
+[23/2008]
 
 (2) The requirements of subsection (1) shall not apply —
 
 (a) in any case where the interest of the member of the committee of management of the society consists only of being a member or creditor of a corporation which is interested in a transaction or proposed transaction with the society if the interest of the member of the committee of management may properly be regarded as not being a material interest; or
 
 (b) in such other cases as the Minister may prescribe.
+
+[23/2008]
 
 (3) For the purposes of subsection (1), a general notice given to the members of the committee of management of a society by a member of the committee of management to the effect that he is an officer of a specified corporation or a member of a specified firm or a partner or an officer of a specified limited liability partnership and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation, firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if —
 
@@ -1452,7 +1492,11 @@ except with the approval of the Registrar;
 
 (c) it is given at a meeting of the committee of management or the member of the committee of management takes reasonable steps to ensure that it is brought up and read at the next meeting of the committee of management after it is given.
 
+[23/2008]
+
 (4) Every member of the committee of management of a society who holds any office or possesses any property whereby, whether directly or indirectly, duties or interests might be created in conflict with his duties or interests as member of the committee of management shall declare at a meeting of the committee of management of the society the fact and the nature, character and extent of the conflict.
+
+[23/2008]
 
 (5) The declaration referred to in subsection (4) shall be made at the first meeting of the committee of management held —
 
@@ -1462,15 +1506,23 @@ except with the approval of the Registrar;
 
 as the case requires.
 
+[23/2008]
+
 (6) The secretary of the society shall record every declaration under this section in the minutes of the meeting at which it was made.
+
+[23/2008]
 
 (7) For the purposes of this section, an interest of a member of the family of a member of the committee of management of a society shall be treated as an interest of the member of the committee of management and the words “member of the family of a member of the committee of management of a society” shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
 
+[23/2008]
+
 (8) This section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the by-laws restricting a member of the committee of management of a society from having any interest in transactions with the society or from holding offices or possessing properties involving duties or interests in conflict with his duties or interests as a member of the committee of management of the society.
+
+[23/2008]
 
 (9) In this section, unless the context otherwise requires —
 
-“corporation” means any body corporate incorporated, formed or existing in Singapore or outside Singapore and includes any foreign company within the meaning of section 4(1) of the Companies Act (Cap. 50);
+“corporation” means any body corporate incorporated, formed or existing in Singapore or elsewhere and includes any foreign company within the meaning of section 4(1) of the Companies Act (Cap. 50);
 
 “officer” —
 
@@ -1478,31 +1530,43 @@ as the case requires.
 
 (b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A).
 
+[23/2008]
+
 (10) Any member of the committee of management of a society who contravenes any provision of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Restrictions relating to honoraria, etc., of members of committee of management and employees
 
-65\.—(1) Subject to subsection (2), a member of the committee of management of a society, not being an employee of the society, may receive an honorarium or allowance (but not both) and other benefits from the society if, and only if, the payment of such honorarium or allowance and the provision of any such benefits have been authorised by a resolution to that effect passed by a general meeting of the society.
+65\.—(1) A member of the committee of management of a society, not being an employee of the society, may receive an honorarium or allowance (but not both) and other benefits from the society if, and only if, the payment of such honorarium or allowance and the provision of any such benefits have been authorised by a resolution to that effect passed by a general meeting of the society.
+
+[23/2008]
 
 (2) An employee of a society shall not decide his own remuneration.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Suspension of officers
 
 65A\.—(1) Notwithstanding any other written law, if any proceedings are instituted against a member of the committee of management, or a key employee, of a credit society in respect of any offence involving fraud or dishonesty, the committee of management shall suspend the member or key employee from being a member of the committee of management or key employee of the credit society, respectively.
 
+[23/2008]
+
 (2) Notwithstanding any other written law, if any proceedings are instituted against a member of the committee of management of a non-credit society in respect of any offence involving fraud or dishonesty, the Registrar may issue a written direction to require the society to suspend the member from being a member of the committee of management within such period, and on such terms and conditions, as may be specified in the written direction.
+
+[23/2008]
 
 (3) A non-credit society that is, or a member of the committee of management of a non-credit society who is, aggrieved by the written direction issued by the Registrar under subsection (2) requiring the non-credit society to suspend the member may, within 30 days of the issue of the written direction, appeal to the Minister whose decision shall be final.
 
+[23/2008]
+
 (4) Every member of the committee of management of a credit society which has contravened subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+[23/2008]
 
 (5) No criminal or civil liability shall be incurred by a society or its committee of management, or any person acting on behalf of the society or the committee of management of the society, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of the obligations of the society or the committee of management of the society under this section.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ## PART VI
 
@@ -1522,15 +1586,15 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (ii) other deposits from members which shall be withdrawable subject to conditions laid down in the by-laws;
 
-[23/2008 wef 20/10/2008]
-
-(d) [Deleted by Act 23/2008 wef 20/10/2008]
+(d) [Deleted by Act 23 of 2008]
 
 (e) deposits or loans from non-members subject to such restrictions as are laid down in this Act and in the by-laws;
 
-(f) [Deleted by Act 23/2008 wef 20/10/2008]
+(f) [Deleted by Act 23 of 2008]
 
 (g) donations made by third persons except that no donations from any foreign source, whether offered directly or otherwise, shall be received by a society without the prior approval of the Registrar.
+
+[23/2008]
 
 (2) The issue of bonds or debentures by a society shall be subject to the approval of the Registrar.
 
@@ -1544,17 +1608,25 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (c) another society that is not a member of the credit society, with the written approval of the Registrar.
 
+[23/2008]
+
 (2) For the purposes of subsection (1), a credit society may make loans or allow credit to persons who are not members of the credit society only to such extent and under such conditions as may be prescribed by its by-laws.
+
+[23/2008]
 
 (3) In this section, “immediate family member” shall have such meaning as may be prescribed.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Restrictions on borrowing
 
 68\.—(1) A society may receive loans from persons who are not members of the society only to such extent and under such conditions as may be prescribed by its by-laws and in the Rules.
 
+[23/2008]
+
 (2) A credit society shall not receive any deposit from any person other than a member of the credit society, or his immediate family member to such extent and under such conditions as may be prescribed by its by-laws.
+
+[23/2008]
 
 (3) A society which, under its by-laws, has power to borrow money shall determine from time to time at a general meeting —
 
@@ -1562,7 +1634,11 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (b) where the society is a credit society, the maximum liability which it may incur in loans or deposits from its members and their immediate family members.
 
+[23/2008]
+
 (4) The maximum liabilities determined under subsection (3)(a) and (b) shall be subject to the approval of the Registrar who may, at any time, reduce one or both of the maximum liabilities or impose such conditions as he thinks necessary.
+
+[23/2008]
 
 (5) In this section, unless the context otherwise requires —
 
@@ -1574,21 +1650,27 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (b) the incurring by the person of other liabilities on behalf of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Investment of funds
 
 69\.—(1) A society may invest or deposit its funds in such manner as it thinks fit.
 
+[23/2008]
+
 (2) Notwithstanding section 63, any person who exercises any power of investment in relation to the funds of a society pursuant to subsection (1) shall, when exercising such power of investment, be subject to the same duty of care imposed on a trustee under section 3A of the Trustees Act (Cap. 337).
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
-70\. [Deleted by Act 23/2008 wef 20/10/2008]
+Reserve Fund
+
+70\. [Repealed by Act 23 of 2008]
 
 ### Contributions to Central Co-operative Fund and Singapore Labour Foundation
 
 71\.—(1) There shall be established a fund to be known as the Central Co-operative Fund which shall be used to further co-operative education, training, research, audit and for the general development of the co-operative movement in Singapore.
+
+[13/90]
 
 (2) Every society shall contribute —
 
@@ -1596,29 +1678,31 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (b) 20% of any surplus in excess of $500,000 from the operations of the society during the preceding financial year either to the Central Co-operative Fund or to the Singapore Labour Foundation as the society may opt.
 
-[23/2008 wef 20/10/2008]
+[13/90; 23/2008]
 
-(3) [Deleted by Act 23/2008 wef 20/10/2008]
+(3) [Deleted by Act 23 of 2008]
 
-(4) [Deleted by Act 23/2008 wef 20/10/2008]
+(4) [Deleted by Act 23 of 2008]
 
 (5) A society shall be deemed to have opted to contribute to the Central Co-operative Fund under subsection (2)(b) if that society does not exercise its option within such time and in such manner as the Registrar may require.
 
-(6) A society may from time to time change its option in respect of its contribution under subsection (2)(b) by notifying the Registrar in such manner as the Registrar may require and the change in option shall apply to the contribution of the society for the financial year in which falls the second anniversary of the date in which the Registrar was notified under this subsection and to all contributions of the society thereafter until the society again changes its option.
+[13/90]
+
+(6) A society may from time to time change its option in respect of its contribution under subsection (2)(b) by notifying the Registrar in such manner as the Registrar may require and the change in option shall apply to the contribution of the society for the financial year in which falls the second anniversary of the date on which the Registrar was notified under this subsection and to all contributions of the society thereafter until the society again changes its option.
+
+[13/90]
 
 (7) The Central Co-operative Fund shall be administered as a trust fund in such manner as the Minister may prescribe in the Rules.
 
-[Act 13/90 wef 16/04/1990]
+[13/90]
 
 ### Distribution of net surplus
 
 72\.—(1) The net surplus may be divided among the members by way of dividend or patronage refund or by way of honoraria to officers of the society, or allocated to any other funds constituted by the society to such extent and under such conditions as may be prescribed under this Act or in the by-laws.
 
-[Act 13/90 wef 16/04/1990]
+[13/90]
 
 (2) No society shall pay a dividend on paid-up share capital or subscription capital exceeding a maximum rate to be determined by the Minister from time to time in the Rules.
-
-(3) [Deleted by Act 23/2008 wef 20/10/2008]
 
 ### Bonus certificates and bonus shares
 
@@ -1636,7 +1720,7 @@ AMALGAMATION AND TRANSFER
 
 ### Amalgamation of societies
 
-74\.—(1) Any two or more societies may, at extraordinary general meetings specially called for the purpose after due notice, resolve to amalgamate into one society.
+74\.—(1) Any 2 or more societies may, at extraordinary general meetings specially called for the purpose after due notice, resolve to amalgamate into one society.
 
 (2) The resolution to amalgamate into one society shall be passed at the extraordinary general meetings by not less than three-quarters of the members present and voting.
 
@@ -1652,8 +1736,6 @@ AMALGAMATION AND TRANSFER
 
 (b) the matters specified in section 9(1)(a), (b) and (c) and, where the proposed amalgamated society proposes to provide any financial service, the matters specified in section 9(1B)(a) to (f), are met; and
 
-[23/2008 wef 20/10/2008]
-
 (c) all requirements laid down in subsections (1), (2) and (3) have been complied with,
 
 he shall register the amalgamated society and its by-laws and thereupon —
@@ -1665,6 +1747,8 @@ he shall register the amalgamated society and its by-laws and thereupon —
 (iii) the remaining members of the amalgamating societies shall become members of the amalgamated society subject to its by-laws; and
 
 (iv) the creditors of the amalgamating societies or any other persons who have claims against the amalgamating societies, and whose claims were not satisfied before the registration of the amalgamated society may pursue their claims or causes of action against the amalgamated society.
+
+[23/2008]
 
 ### Transfer of societies
 
@@ -1698,23 +1782,31 @@ he may approve the transfer and thereupon —
 
 DUTIES AND POWERS OF REGISTRAR
 
-76\. [Deleted by Act 23/2008 wef 20/10/2008]
+Assistance in organisation of co-operatives and technical advice
+
+76\. [Repealed by Act 23 of 2008]
 
 ### Power of Registrar to inspect books of societies
 
 77\. The Registrar, or any person authorised by him in writing on his behalf, shall at all reasonable times have access to all books, accounts, papers and securities of a society and every officer, agent, employee or member of the society shall furnish such information in regard to the transactions and working of the society as the person making the inspection may require.
 
-78\. [Deleted by Act 23/2008 wef 20/10/2008]
+Power of Registrar to audit accounts of societies
+
+78\. [Repealed by Act 23 of 2008]
 
 ### Inquiry by Registrar
 
 79\.—(1) The Registrar may at any time, on his own motion, institute an inquiry into the constitution, operations, financial condition or affairs of the society.
+
+[23/2008]
 
 (2) The Registrar shall institute an inquiry into the constitution, operations, financial condition or affairs of the society on the application of at least —
 
 (a) a majority of the committee of management; or
 
 (b) one-third of the members or 500 members of a society, whichever is the less.
+
+[23/2008]
 
 (3) The Registrar may —
 
@@ -1723,6 +1815,8 @@ DUTIES AND POWERS OF REGISTRAR
 (b) direct any person authorised by him in writing on his behalf to conduct the inquiry; or
 
 (c) delegate the exercise of his power to hold an inquiry under this section, partly or totally, to an apex organisation.
+
+[23/2008]
 
 (4) For the purposes of an inquiry under subsection (1) or (2), the Registrar or any person authorised by him shall have power —
 
@@ -1734,11 +1828,15 @@ DUTIES AND POWERS OF REGISTRAR
 
 (d) to make copies of or extracts from accounting and other records, or retain possession of such records for such period as may be necessary to enable them to be inspected.
 
+[23/2008]
+
 (5) Where the exercise of any inquiry power has been delegated to an apex organisation under subsection (3)(c), the Registrar shall have power to do all things necessary to ensure that the inquiry is effectively held and in accordance with the provisions of this Act.
+
+[23/2008]
 
 (6) The Registrar shall communicate the results of any inquiry held under this section to the society concerned.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Examination of books of indebted society
 
@@ -1750,9 +1848,9 @@ DUTIES AND POWERS OF REGISTRAR
 
 (2) The Registrar shall communicate the results of the examination to the creditor and to the society the books of which were examined.
 
-### Communication of defects in the working of societies
+### Communication of defects in working of societies
 
-81\.—(1) If an audit, inquiry or examination of books made under this Act discloses any defects in the working of a society, the Registrar may bring the defects to the notice of the society and if the society is affiliated to a secondary society or apex organisation, also to the notice of that other society.
+81\.—(1) If an audit, inquiry or examination of books made under this Act discloses any defects in the working of a society, the Registrar may bring the defects to the notice of the society and if the society is affiliated to a secondary society or an apex organisation, also to the notice of that other society.
 
 (2) The Registrar may make an order directing the society or its officer to take such action as may be specified in the order within the time mentioned therein to remedy the defects disclosed in the audit, inquiry or examination of books.
 
@@ -1776,15 +1874,15 @@ DUTIES AND POWERS OF REGISTRAR
 
 (d) which provides any financial service in contravention of section 16A(1) or 16B(1).
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
-(3) No society shall be wound up save by an order of the Registrar.
+(3) No society shall be wound up except by an order of the Registrar.
 
-(4) A member of a society may, within two months from the date of a winding-up order under subsection (1) or (2), appeal in writing against the order to the Minister and the decision of the Minister shall be final.
+(4) A member of a society may, within 2 months from the date of a winding-up order under subsection (1) or (2), appeal in writing against the order to the Minister and the decision of the Minister shall be final.
 
 (5) When making a winding-up order under subsection (1) or (2), the Registrar may appoint a liquidator for this purpose and fix his remuneration.
 
-(6) A liquidator shall not wind up a society until any appeal instituted under subsection (4) has been determined or until two months have elapsed from the date of the winding-up order, as the case may be.
+(6) A liquidator shall not wind up a society until any appeal instituted under subsection (4) has been determined or until 2 months have elapsed from the date of the winding-up order, as the case may be.
 
 ### Powers of liquidator
 
@@ -1832,8 +1930,6 @@ DUTIES AND POWERS OF REGISTRAR
 
 (b) remove a liquidator from office or take such other action as the Registrar may think fit;
 
-[23/2008 wef 20/10/2008]
-
 (c) call for all books, documents and assets of the society;
 
 (d) by order in writing limit the powers of a liquidator under section 84;
@@ -1845,6 +1941,8 @@ DUTIES AND POWERS OF REGISTRAR
 (g) make an order for the remuneration of the liquidator, which remuneration shall be included in the costs of liquidation and shall be payable out of the assets in priority to all other claims; and
 
 (h) refer any subject of dispute between a liquidator and a third party to arbitration if that party has consented in writing to be bound by the decision of the arbitrator.
+
+[23/2008]
 
 ### Enforcement of order
 
@@ -1860,17 +1958,17 @@ DUTIES AND POWERS OF REGISTRAR
 
 88\. Upon winding up of a society, the assets shall be applied first to the costs of liquidation, then to the discharge of the liabilities of the society, then to the payment of the share capital or subscription capital, and then, provided that the by-laws permit, to the payment of a dividend or patronage refund at a rate not exceeding that laid down in the Rules or in the by-laws for any period during which no dividend or patronage refund was in fact paid.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Cancellation of registration
 
-89\.—(1) When the affairs of a society, in respect of which a liquidator has been appointed, have been wound up or, where no liquidator has been appointed, after two months from the making of a winding-up order under section 83 by the Registrar or after confirmation of the order on appeal, the Registrar shall make an order cancelling the registration of the society and the society shall be dissolved and shall cease to exist as a body corporate from the date of the order.
+89\.—(1) When the affairs of a society, in respect of which a liquidator has been appointed, have been wound up or, where no liquidator has been appointed, after 2 months from the making of a winding-up order under section 83 by the Registrar or after confirmation of the order on appeal, the Registrar shall make an order cancelling the registration of the society and the society shall be dissolved and shall cease to exist as a body corporate from the date of the order.
 
-(2) The claim of a creditor or a member of the society who has not received what is due to him under the approved scheme of distribution shall be proscribed when two years have elapsed from the date of cancellation of registration, and a notice of closure of liquidation and cancellation of registration shall be published in theGazette.
+(2) The claim of a creditor or a member of the society who has not received what is due to him under the approved scheme of distribution shall be proscribed when 2 years have elapsed from the date of cancellation of registration, and a notice of closure of liquidation and cancellation of registration shall be published in theGazette.
 
-(3) Any moneys remaining after the application of the funds to the purposes specified in section 88 and any sums unclaimed after two years under subsection (2) shall not be divided among the members, except in the case of the liquidation of a secondary society or a co-operative apex organisation, but shall be carried to the Co-operative Societies Liquidation Account kept by the Registrar.
+(3) Any moneys remaining after the application of the funds to the purposes specified in section 88 and any sums unclaimed after 2 years under subsection (2) shall not be divided among the members, except in the case of the liquidation of a secondary society or a co-operative apex organisation, but shall be carried to the Co-operative Societies Liquidation Account kept by the Registrar.
 
-(4) A sum carried to the Co-operative Societies Liquidation Account shall be kept in this Account for at least two years. Out of the Co-operative Societies Liquidation Account such sums may be transferred to the Central Co-operative Fund, or applied generally for the furtherance of co-operative principles in such manner, as the Minister may determine from time to time.
+(4) A sum carried to the Co-operative Societies Liquidation Account shall be kept in this Account for at least 2 years. Out of the Co-operative Societies Liquidation Account such sums may be transferred to the Central Co-operative Fund, or applied generally for the furtherance of co-operative principles in such manner, as the Minister may determine from time to time.
 
 (5) The interest accruing in respect of any sum carried to the Co-operative Societies Liquidation Account in accordance with subsection (3) may be applied for such of the purposes specified in subsection (4) as the Minister may from time to time direct.
 
@@ -1878,7 +1976,7 @@ DUTIES AND POWERS OF REGISTRAR
 
 90\.—(1) Where in the course of an audit of a society held under this Act, in the course of an inquiry held under section 79, or in the case of an examination of books under section 80, or in the course of the winding up of a society it appears that a person who has taken part in the organisation and management of the society or any past or present officer of the society has misapplied or retained or become liable or accountable for any money or property of the society or has been guilty of misfeasance or breach of trust in relation to the society, the Registrar may, on his own motion, or on application of the liquidator or any creditor or contributor, examine the conduct of that person and make an order requiring him to repay or restore the money or property or any part thereof with interest at such rate as the Registrar thinks just or to contribute such sum to the assets of the society by way of compensation in regard to the misapplication, retainer, misfeasance, dishonesty or breach of trust and the order shall be enforced in the same manner as if the order had been a judgment of a District Court.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) This section shall apply notwithstanding that the act is one for which the offender may be criminally responsible.
 
@@ -1890,7 +1988,7 @@ DUTIES AND POWERS OF REGISTRAR
 
 the Registrar may, unless adequate security is furnished, direct the interim attachment of that property or such part thereof as he thinks necessary and the attachment shall have the same effect as if it has been made by a District Court.
 
-(4) A person aggrieved by an order of the Registrar made under subsection (1) or (3) may appeal to the Minister within two months from the date of the order and the decision of the Minister shall be final and conclusive.
+(4) A person aggrieved by an order of the Registrar made under subsection (1) or (3) may appeal to the Minister within 2 months from the date of the order and the decision of the Minister shall be final and conclusive.
 
 ### Settlement of disputes
 
@@ -1906,9 +2004,9 @@ the Registrar may, unless adequate security is furnished, direct the interim att
 
 the dispute may be referred to the Registrar for decision in accordance with subsection (3).
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
-(2) [Deleted by Act 23/2008 wef 20/10/2008]
+(2) [Deleted by Act 23 of 2008]
 
 (3) The Registrar shall, receipt of a reference under subsection (1), have regard to the nature and complexity of the dispute, and decide whether —
 
@@ -1918,7 +2016,7 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (4) Where the Registrar decides to settle the dispute himself and gives a decision thereon which aggrieves a party to the dispute, that party may, within 30 days of the date of the Registrar’s decision, refer the dispute to arbitration by a referee appointed by the Chief Justice, who shall not be an official of any Government department.
 
-(5) The relevant provisions of the Arbitration Act [Cap. 10] shall apply to any dispute referred to arbitration under subsections (3) and (4).
+(5) The relevant provisions of the Arbitration Act (Cap. 10) shall apply to any dispute referred to arbitration under subsections (3) and (4).
 
 (6) Where a dispute has not been referred to arbitration pursuant to subsection (4), the decision of the Registrar that settles the dispute under subsection (3)(a) shall, on the application of the party in whose favour it is given, be enforced by any court which would have jurisdiction in civil suits between the parties to the dispute in the same manner as if the decision had been the decision of a District Court.
 
@@ -1952,7 +2050,11 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (e) prohibit or restrict, by written directions, the granting of loans on a mortgage or charge of immovable property by any credit society or class of credit societies.
 
+[23/2008]
+
 (2) The Registrar may from time to time issue written directions, either of a general or specific nature, to any society, any class of societies or all societies to comply with such requirements as he may specify in the written directions.
+
+[23/2008]
 
 (3) Without prejudice to the generality of subsection (2), written directions may be issued —
 
@@ -1964,23 +2066,33 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (d) for any purpose specified in this Act or the rules made thereunder.
 
+[23/2008]
+
 (4) The Registrar may at any time vary, rescind or revoke any written direction issued under subsection (2).
+
+[23/2008]
 
 (5) For the avoidance of doubt, any written direction issued under subsection (2) shall be deemed not to be subsidiary legislation.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Power to freeze bank accounts
 
 93A\.—(1) Where the Minister is satisfied that it is necessary to prevent the loss or misuse of the funds of a society, the Minister may, by order, direct any financial institution not to pay any money out or not to pay cheques drawn on the account of the society for a specified period not exceeding 3 months.
 
+[23/2008]
+
 (2) A financial institution which complies with an order of the Minister under subsection (1) shall be relieved of any liability to any other person in respect of the payment prohibited by the order.
+
+[23/2008]
 
 (3) Any financial institution which contravenes an order of the Minister under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
+[23/2008]
+
 (4) In this section, “financial institution”, in relation to a society, means a bank licensed under the Banking Act (Cap. 19), a finance company licensed under the Finance Companies Act (Cap. 108), or any other society that is a credit society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Codes, guidelines, etc., by Registrar
 
@@ -1992,7 +2104,11 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (c) in relation to the operation of any provision of this Act or the rules made thereunder.
 
+[23/2008]
+
 (2) The Registrar may, at any time, amend or revoke the whole or any part of any circular, code, guideline or practice note issued under this section.
+
+[23/2008]
 
 (3) Where amendments are made under subsection (2) —
 
@@ -2000,11 +2116,15 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (b) any reference in this Act, the rules made thereunder or any other written law to the circular, code, guideline or practice note, however expressed, shall, unless the context otherwise requires, be a reference to the circular, code, guideline or practice note as so amended.
 
+[23/2008]
+
 (4) Any person who fails to comply with any circular, code, guideline or practice note issued under this section that applies to him shall not of itself render that person liable to criminal proceedings, but any such failure may, in any proceedings, whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or negate any liability which is in question in the proceedings.
+
+[23/2008]
 
 (5) For the avoidance of doubt, any circular, code, guideline or practice note issued under this section shall be deemed not to be subsidiary legislation.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Extraordinary powers of Registrar
 
@@ -2016,19 +2136,19 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (c) remove one or more members from the committee of management of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (1A) The Registrar shall use the extraordinary powers under subsection (1) only after giving an opportunity to the committee of management of a society or the member thereof (as the case may be) to show cause why action should not be taken to suspend the activities of the society, or to remove the committee of management or the member thereof, and after considering the objections of the committee of management or the member thereof (as the case may be).
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (1B) Allowances of the committee, and the salary of the manager, appointed under subsection (1)(b) shall be paid out of the funds of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (2) The persons appointed under subsection (1)(b) shall, prior to the date on which their appointment ceases to have effect, arrange for the election of a new committee of management in accordance with the by-laws.
 
-(3) An appeal shall lie to the Minister from an order made by the Registrar under subsection (1) within two months of the date of the publication in theGazetteof the order appealed against and the decision of the Minister shall be final and shall not be subject to review in any court.
+(3) An appeal shall lie to the Minister from an order made by the Registrar under subsection (1) within 2 months of the date of the publication in theGazetteof the order appealed against and the decision of the Minister shall be final and shall not be subject to review in any court.
 
 (4) Subject to the general direction and control of the Registrar, a person appointed under subsection (1)(b) to assume the functions of the committee of management of a society shall have all the powers and duties of a duly constituted committee of management of the society.
 
@@ -2038,13 +2158,13 @@ MISCELLANEOUS
 
 ### Power of Minister to make rules
 
-95\.—(1) The Minister may make rules for the purpose of carrying out and giving effect to the provision of this Act.
+95\.—(1) The Minister may make rules for the purpose of carrying out and giving effect to the provisions of this Act.
 
 (2) Without prejudice to the generality of subsection (1), such rules may be made for or with respect to —
 
 (a) any form to be used for any purpose under this Act;
 
-(b) the books and accounts to be kept by societies, including the preparation and submission of documents or information in compliance with governance requirements or best practices, and the disclosure of the level of such compliance by societies to the Registrar or the apex organisation;
+(b) the books and accounts to be kept by societies, including the preparation and submission of documents or information in compliance with governance requirements or best practices, and the disclosure of the level of such compliance by societies to the Registrar or an apex organisation;
 
 (c) the preparation, submission or audit of financial statements of societies, including the procedure for applying for relief from compliance with any requirement of the accounting standards or requirements referred to in section 34(5);
 
@@ -2056,7 +2176,7 @@ MISCELLANEOUS
 
 (g) the form and content of the annual reports of societies;
 
-(h) other documents and information to be submitted by societies to the Registrar or the apex organisation;
+(h) other documents and information to be submitted by societies to the Registrar or an apex organisation;
 
 (i) the fees to be paid in respect of any document required to be submitted to, registered with or issued by the Registrar under this Act, for the inspection of any such document or for any other matter or thing required for the purposes of this Act, and the refund or remission, whether wholly or in part, of such fees;
 
@@ -2064,7 +2184,7 @@ MISCELLANEOUS
 
 (k) any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 (3) The rules made under subsection (1) —
 
@@ -2074,11 +2194,13 @@ MISCELLANEOUS
 
 (c) may provide for penalties not exceeding a fine of $10,000 for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of $500 for every day or part thereof during which the offence continues after conviction.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Foreign co-operative societies
 
 95A\.—(1) The Minister may make rules for or with respect to the registration or regulation of co-operative societies which are registered, incorporated or formed outside Singapore, or a class thereof, and which carry on business in Singapore.
+
+[23/2008]
 
 (2) Without prejudice to the generality of subsection (1), the Minister may, in making rules under subsection (1) in respect of co-operative societies which are registered, incorporated or formed outside Singapore, or a class thereof —
 
@@ -2086,13 +2208,15 @@ MISCELLANEOUS
 
 (b) specify the provisions of this Act that apply to the co-operative societies and the modifications subject to which they apply.
 
+[23/2008]
+
 (3) The rules made under subsection (1) —
 
 (a) may provide that a contravention of any specified provision thereof shall be an offence; and
 
 (b) may provide for penalties not exceeding a fine of $10,000 for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of $500 for every day or part thereof during which the offence continues after conviction.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Special power of Minister to grant exemption from requirements as to registration
 
@@ -2106,15 +2230,17 @@ MISCELLANEOUS
 
 97A\. Notwithstanding anything in this Act, the Minister may, by order published in theGazette, exempt any person or class of persons from any of the provisions of this Act or the rules made thereunder.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Amendment of Schedule
 
 97B\.—(1) The Minister may at any time, by order published in theGazette, amend the Schedule.
 
+[23/2008]
+
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Recovery of sums due to Government
 
@@ -2122,13 +2248,13 @@ MISCELLANEOUS
 
 (2) Sums due from a society to the Government and recoverable under subsection (1) may be recovered first, from the property of the society and, secondly, from the members subject to the limit of their liability.
 
-### Prohibition on the use of the word “Co-operative”
+### Prohibition on use of word “co-operative”
 
-99\.—(1) No person other than a society shall trade or carry on business under a name or title of which the word “Co-operative” or its equivalent in another language is part, without the sanction of the Registrar, except that nothing in this section shall apply to the use by any person or his successor in interest of a name or title under which he traded or carried on business at the date of the commencement of this Act.
+99\.—(1) No person other than a society shall trade or carry on business under a name or title of which the word “Co-operative” or its equivalent in another language is part, without the consent of the Registrar, except that nothing in this section shall apply to the use by any person or his successor in interest of a name or title under which he traded or carried on business at 1st January 1980.
 
 (2) Every person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### General penalty
 
@@ -2148,11 +2274,15 @@ MISCELLANEOUS
 
 (g) a society, or any officer or member thereof, does or causes to be done any act or thing which is prohibited by this Act.
 
+[23/2008]
+
 (2) Any society which fails to comply with a term or condition of its registration, or of any approval granted by the Registrar under section 16A, shall be guilty of an offence.
+
+[23/2008]
 
 (3) Every society, officer, agent, employee or member of a society or other person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### False reports made by officer to member of committee of management, auditor or member of society
 
@@ -2164,15 +2294,17 @@ MISCELLANEOUS
 
 relating to the affairs of the society, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[23/2008]
+
 (2) In subsection (1), “officer” includes a person who at any time has been an officer of the society.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Fraudulently inducing persons to invest or deposit money with society
 
 100B\. Whoever, being an officer or agent of any society, by any deceitful means or false promise and with intent to defraud, causes or procures any money to be paid to or deposited with that society or himself or any other person for the use or benefit or on account of that society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Fraud by officers against creditors of societies
 
@@ -2186,9 +2318,11 @@ relating to the affairs of the society, shall be guilty of an offence and shall 
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) If, in the course of the winding-up of a society or in any proceedings against a society, it appears that an officer of the society who was knowingly a party to the contracting of a debt had, at the time the debt was contracted, no reasonable or probable ground of expectation, after taking into consideration the other liabilities, if any, of the society at the time, of the society being able to pay the debt, the officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+[23/2008]
 
-[23/2008 wef 20/10/2008]
+(2) If, in the course of the winding up of a society or in any proceedings against a society, it appears that an officer of the society who was knowingly a party to the contracting of a debt had, at the time the debt was contracted, no reasonable or probable ground of expectation, after taking into consideration the other liabilities, if any, of the society at the time, of the society being able to pay the debt, the officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[23/2008]
 
 ### Offences by bodies corporate, etc.
 
@@ -2200,7 +2334,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
+[23/2008]
+
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[23/2008]
 
 (3) Where an offence under this Act or the rules made thereunder committed by a partnership is proved —
 
@@ -2210,6 +2348,8 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
+[23/2008]
+
 (4) Where an offence under this Act or the rules made thereunder committed by an unincorporated association (other than a partnership) is proved —
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
@@ -2217,6 +2357,8 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 (b) to be attributable to any neglect on the part of such officer or member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[23/2008]
 
 (5) In this section —
 
@@ -2228,15 +2370,17 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 “partner” includes any person purporting to act as a partner.
 
+[23/2008]
+
 (6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Jurisdiction of court
 
 100E\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act or the rules made thereunder and shall have power to impose the full penalty or punishment in respect of the offence.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Composition of offences
 
@@ -2248,76 +2392,98 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 whichever is the lower.
 
+[23/2008]
+
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-[23/2008 wef 20/10/2008]
+[23/2008]
 
 ### Certain Acts not to apply
 
-101\. The provisions of the Companies Act [Cap. 50] and the Societies Act [Cap. 311] shall not apply to societies registered under this Act.
-
-102\. [Deleted by Act 23/2008 wef 20/10/2008]
-
-FIRST SCHEDULE
-
-Deleted by Act 23/2008 wef 20/10/2008
-
-SECOND SCHEDULE
-
-Deleted by Act 23/2008 wef 20/10/2008
+101\. The provisions of the Companies Act (Cap. 50) and the Societies Act (Cap. 311) shall not apply to societies registered under this Act.
 
 ## THE SCHEDULE
 
-Section 14(2).
+Section 14(2)
 
-the Co-operative Societies Act
-
-
+Matters required to be in by-laws of
 
 
-(Chapter 62)
 
-Matters required to be in the by-laws of a co-operative society
 
-Every society registered under section 4(1) of the Act shall have by-laws in respect of the following matters:
+co-operative society
 
-1\. The name of the society.
+Every society registered under section 4(1) shall have by-laws in respect of the following matters:
 
-2\. The place and postal address of its registered office.
+1. 
 
-3\. The objects of the society
+The name of the society.
 
-4\. The geographical area of operation of the society.
+2. 
 
-5\. The purposes to which the society’s funds may be applied.
+The place and postal address of its registered office.
 
-6\. The value of each share, if the society is formed with share capital, or the minimum amount of monthly subscriptions.
+3. 
 
-7\. The qualifications for membership, the terms of admission of members, the entrance or affiliation fees, if any, payable, an the mode of admission.
+The objects of the society.
 
-8\. The manner of raising share capital, if any, and other funds and the terms of withdrawal or transfer of shares and/or subscription capital.
+4. 
 
-9\. The rights and obligations of members and the extent of the liability of members for debts of the society.
+The geographical area of operation of the society.
 
-10\. The conditions on which a member may withdraw from membership.
+5. 
 
-11\. The mode of summoning and conducting meetings, and the rights of voting.
+The purposes to which the society’s funds may be applied.
 
-12\. The powers and duties of general meetings and committee of management or board of directors.
+6. 
 
-13. The nomination of candidates for election, and the mode of election, appointment, term of office, suspension and removal of the committee of management or board of directors and officers of the society.
+The value of each share, if the society is formed with share capital, or the minimum amount of monthly subscriptions.
 
-[23/2008 wef 20/10/2008]
+7. 
 
-14\. The authorisation of an officer or officers to sign documents and to use the sel on behalf of the society.
+The qualifications for membership, the terms of admission of members, the entrance or affiliation fees, if any, payable, and the mode of admission.
 
-15\.Deleted by Act 23/2008, wef 20/10/2008
+8. 
 
-16\. The disposal of the annual net surplus.
+The manner of raising share capital, if any, and other funds and the terms of withdrawal or transfer of shares and/or subscription capital.
 
-17\. The honoraria or allowances, if any, to be paid to officers of the society.
+9. 
 
-18. Unless the Registrar otherwise determines, in the case of a society, the objects of which include the provision of loans to the members, additional by-laws in respect of the following matters:
+The rights and obligations of members and the extent of the liability of members for debts of the society.
+
+10. 
+
+The conditions on which a member may withdraw from membership.
+
+11. 
+
+The mode of summoning and conducting meetings, and the rights of voting.
+
+12. 
+
+The powers and duties of general meetings and committee of management or board of directors.
+
+13. 
+
+The nomination of candidates for election, and the mode of election, appointment, term of office, suspension and removal of the committee of management or board of directors and officers of the society.
+
+14. 
+
+The authorisation of an officer or officers to sign documents and to use the seal on behalf of the society.
+
+15. [Deleted by Act 23 of 2008]
+
+16. 
+
+The disposal of the annual net surplus.
+
+17. 
+
+The honoraria or allowances, if any, to be paid to officers of the society.
+
+18. 
+
+Unless the Registrar otherwise determines, in the case of a society, the objects of which include the provision of loans to the members, additional by-laws in respect of the following matters:
 
 (a) the conditions on which loans may be made to members and non-members and the extent to which the society may provide loans to members and non-members, including —
 
@@ -2331,25 +2497,29 @@ Every society registered under section 4(1) of the Act shall have by-laws in res
 
 (v) the security required for repayment;
 
-[23/2008 wef 20/10/2008]
-
 (b) the consequences of default in payment of any sum due on account of shares, subscriptions, deposits or loans and the consequences of failure to use a loan for the purpose for which it was granted;
 
 (c) the occupation or residence of persons who may become members; and
 
 (d) the conditions on which loans and deposits may be received from members and non-members and the extent to which the society may borrow from members and non-members.
 
-[23/2008 wef 20/10/2008]
+19. 
 
-19\. In the case if a secondary society or apex organisation, the method of representation of members at general meetings, the removal of delegates and the manner of voting of delegates.
+In the case of a secondary society or an apex organisation, the method of representation of members at general meetings, the removal of delegates and the manner of voting of delegates.
 
-20\. In the case of a primary society where the general meeting of members is replaced by a meeting of delegates, the method of electing delegates and their deputies, the number of individual members to be represented by each delegate, and the conditions for the eligibility of the delegates and their terms of office.
+20. 
 
-21\. The duties of the chairman, secretary, treasurer and manager of a society.
+In the case of a primary society where the general meeting of members is replaced by a meeting of delegates, the method of electing delegates and their deputies, the number of individual members to be represented by each delegate, and the conditions for the eligibility of the delegates and their terms of office.
 
-22. By-laws in respect of any other matters incidental to the management of the society’s business.
+21. 
 
-[23/2008 wef 20/10/2008]
+The duties of the chairman, secretary, treasurer and manager of a society.
+
+22. 
+
+By-laws in respect of any other matters incidental to the management of the society’s business.
+
+[23/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -2374,6 +2544,7 @@ This Legislative History is provided for the convenience of users of the Co-oper
 ||Date of Second and Third Readings|29 March 1990|
 ||Date of commencement|16 April 1990|
 |4.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|31 July 1998|
 |||(Bill No. 34/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|12 October 1998|
@@ -2383,3 +2554,5 @@ This Legislative History is provided for the convenience of users of the Co-oper
 |||(Bill No. 19/2008 published on 25 August 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|20 October 2008|
+|6.|**2009 Revised Edition—Co-operative Societies Act**|
+||Date of operation|31 July 2009|
