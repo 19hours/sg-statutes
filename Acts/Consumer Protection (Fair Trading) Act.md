@@ -1,14 +1,12 @@
-**Consumer Protection (Fair Trading) Act 2003**
+**Consumer Protection (Fair Trading) Act**
 
-**(No. 27 of 2003)**
+**(CHAPTER 52A)**
 
 **Table of Contents**
 
 [**Long Title**](#Consumer-Protection-Fair-Trading-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,6 +42,8 @@
 
 - [18 Interpretation of documents](#Interpretation-of-documents)
 
+- [18A Burden of proof](#Burden-of-proof)
+
 - [19 Amendment of Schedules](#Amendment-of-Schedules)
 
 - [20 Regulations](#Regulations)
@@ -56,43 +56,25 @@
 
 [**FOURTH SCHEDULE Modifications to Provisions of Limitation Act**](#FOURTH-SCHEDULE-Modifications-to-Provisions-of-Limitation-Act)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Consumer Protection (Fair Trading) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 52A)
 
-Published by Authority
+(Original Enactment: Act 27 of 2003)
 
-NO. 31]
+REVISED EDITION 2009
 
-Friday, December 26
-
-[2003
-
-The following Act was passed by Parliament on 11th November 2003 and assented to by the President on 28th November 2003:—
-
-Consumer Protection (Fair Trading) Act 2003
-
-(No. 27 of 2003)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th November 2003.
-
-Date of Commencement: 1st March 2004
+(31st July 2009)
 
 An Act to protect consumers against unfair practices and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 2004]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Consumer Protection (Fair Trading) Act 2003 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Consumer Protection (Fair Trading) Act.
 
 ### Interpretation
 
@@ -114,6 +96,22 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 but does not include any transaction specified in the First Schedule;
 
+“financial product” includes any arrangement, transaction or contract regulated, or supplied by any person regulated, under —
+
+(a) any written law administered by the Monetary Authority of Singapore;
+
+(b) the Commodity Trading Act (Cap. 48A); or
+
+(c) such other written law as the Minister may by order prescribe;
+
+“financial services” includes any services regulated, or supplied by any person regulated, under —
+
+(a) any written law administered by the Monetary Authority of Singapore;
+
+(b) the Commodity Trading Act (Cap. 48A); or
+
+(c) such other written law as the Minister may by order prescribe;
+
 “flat” means a horizontal stratum of any building or part thereof, whether the stratum or part is on one or more levels or is partially or wholly below the surface of the ground;
 
 “goods” means —
@@ -122,15 +120,21 @@ but does not include any transaction specified in the First Schedule;
 
 (i) chattels that are attached or intended to be attached to real property on or after delivery; and
 
-(ii) credit, including credit extended solely on the security of land;
+(ii) financial products and credit, including credit extended solely on the security of land;
 
 (b) any residential property; or
 
 (c) a voucher;
 
-“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act (Cap.125);
+“hire-purchase agreement” has the same meaning as in the Hire- Purchase Act (Cap. 125);
 
 “material fact” means any information that a supplier knows or ought reasonably to know would affect the decision of a consumer to enter into a consumer transaction;
+
+“motor vehicle” has the same meaning as in section 2 of the Road Traffic Act (Cap. 276);
+
+“motor vehicle dealer” means a supplier of motor vehicles;
+
+“motor vehicle sale contract” means a contract between a consumer and a motor vehicle dealer for the sale of a motor vehicle to the consumer;
 
 “Panel” means the Injunction Proposals Review Panel appointed under section 10;
 
@@ -142,11 +146,15 @@ but does not include any transaction specified in the First Schedule;
 
 (b) a membership in any club or organisation if the club or organisation is a business formed to make a profit for its owners;
 
-(c) the right to use time share accommodation under a time share contract;
+(c) the right to use time share accommodation under a time share contract; and
+
+(d) financial services;
 
 “Small Claims Tribunal” means a Small Claims Tribunal constituted under section 4 of the Subordinate Courts Act (Cap. 321);
 
 “specified body” means any person or body appointed under section 8(10);
+
+“specified dispute resolution scheme” means, in respect of disputes arising in relation to any consumer transaction, any dispute resolution scheme specified for the purposes of section 7(10) by regulations made under section 20(2)(k) in respect of disputes arising in relation to a class of consumer transactions to which that consumer transaction belongs;
 
 “supplier” means a person who, in the course of the person’s business —
 
@@ -158,11 +166,13 @@ but does not include any transaction specified in the First Schedule;
 
 (d) receives or is entitled to receive money or other consideration as a result of the provision of goods or services to consumers,
 
-and includes any employee or agent of the person;
+and includes any employee or agent of the person, and the word “supply”, with its grammatical variations and cognate expressions, shall have corresponding meanings;
 
 “time share accommodation” means any living accommodation, in Singapore or elsewhere, used or intended to be used (wholly or partly) for leisure purposes by a class of persons all of whom have rights to use, or participate in arrangements under which they may use, that accommodation or accommodation within a pool of accommodation to which that accommodation belongs;
 
 “time share contract” means a contract which confers or purports to confer on an individual time share rights that are exercisable during a period of not less than 3 years;
+
+“time share related contract” means a contract to assist a consumer to dispose of his time share rights conferred under a time share contract;
 
 “time share rights” means rights to use time share accommodation for a specified or ascertainable period, but does not include rights under a contract of employment or an insurance policy;
 
@@ -170,7 +180,13 @@ and includes any employee or agent of the person;
 
 “voucher” means any document that purports to give the holder of the document the right to obtain goods or a service or the right to obtain goods or a service at a discounted or reduced price.
 
+[15/2008]
+
 (2) An individual who holds himself out as acting exclusively in the course of business shall be treated as acting exclusively in the course of business for the purpose of the definition of “consumer” in subsection (1).
+
+(3) For the purposes of the definitions of “financial product” and “financial services” in subsection (1), a reference to a person regulated under a written law shall include a person exempted from being licensed, approved or regulated under that written law.
+
+[15/2008]
 
 ### Application of Act
 
@@ -194,7 +210,7 @@ and includes any employee or agent of the person;
 
 (ii) is not reasonably able to understand the character, nature, language or effect of the transaction or any matter related to the transaction; or
 
-(d) without limiting the generality of paragraphs (a) to (c), to do anything specified in the Second Schedule.
+(d) without limiting the generality of paragraphs (a), (b) and (c), to do anything specified in the Second Schedule.
 
 ### Circumstances surrounding unfair practice
 
@@ -228,7 +244,7 @@ and includes any employee or agent of the person;
 
 (a) the annual value of the immovable property appearing in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254);
 
-(b) the annual rent, or twelve times the monthly rent, payable by the tenant in respect of the immovable property (if this value is lower than the value in paragraph (a)); or
+(b) the annual rent, or 12 times the monthly rent, payable by the tenant in respect of the immovable property (if this value is lower than the value in paragraph (a)); or
 
 (c) if the annual value, annual rent or monthly rent cannot be ascertained, one-tenth of the last transacted price.
 
@@ -240,19 +256,45 @@ and includes any employee or agent of the person;
 
 (c) an order of the court in relation to that action shall be in full discharge of all demands in respect of that cause of action.
 
-(6) The prescribed limit referred to in this section shall be $20,000 or such other amount as the Minister may, by order in theGazette, prescribe.
+(6) The prescribed limit referred to in this section shall be $30,000 or such other amount as the Minister may, by order in theGazette, prescribe.
+
+[15/2008]
+
+(7) Any party to an action in a court under subsection (1) may, at any time, apply to that court to stay the proceedings so far as the proceedings relate to an unfair practice in respect of which an application has been made under section 9 against the same supplier.
+
+[15/2008]
+
+(8) The court to which an application under subsection (7) has been made may, if the court is satisfied that the determination in respect of the application under section 9 will be material to the action under subsection (1), make an order, upon such terms as the court thinks fit, staying the proceedings so far as the proceedings relate to that unfair practice.
+
+[15/2008]
+
+(9) Where no party to the proceedings has taken any further step in the proceedings for a period of 2 or more years after an order staying the proceedings has been made, the court may, on its own motion, make an order discontinuing the proceedings without prejudice to the right of any of the parties to apply for the discontinued proceedings to be reinstated.
+
+[15/2008]
 
 ### Jurisdiction and powers of courts
 
-7\.—(1) Subject to the provisions of the Small Claims Tribunals Act (Cap. 308), a Small Claims Tribunal shall have jurisdiction to hear and determine any action under —
+7\.—(1) Notwithstanding section 5(1) of the Small Claims Tribunals Act (Cap. 308), a Small Claims Tribunal shall have jurisdiction to hear and determine —
 
-(a) section 6(1) insofar as the action relates to an unfair practice involving a contract for the sale of goods or for the provision of services within the meaning of the Small Claims Tribunals Act (referred to in this subsection as a relevant contract);
+(a) any action under section 6(1) insofar as the action relates to an unfair practice involving a relevant contract;
 
-(b) section 8(6), (7) or (8) insofar as the action relates to an undertaking in respect of an unfair practice involving a relevant contract; or
+(b) any action under section 8(6), (7) or (8) insofar as the action relates to an undertaking in respect of an unfair practice involving a relevant contract;
 
-(c) any regulations made under section 11 insofar as the action relates to a relevant contract.
+(c) any action under any regulations made under section 11 insofar as the action relates to a relevant contract, a time share contract or a time share related contract;
 
-(2) For the avoidance of doubt, subsection (1) shall not confer any jurisdiction on a Small Claims Tribunal to hear and determine any action relating to a hire-purchase agreement, a time share contract or rental or sale of immovable property.
+(d) any action under any provisions specified under section 20(2)(j), insofar as the action relates to a relevant contract; or
+
+(e) any action insofar as it relates to a deposit paid in relation to or in contemplation of a motor vehicle sale contract.
+
+[15/2008]
+
+(2) In subsection (1), “relevant contract” means a contract referred to in section 5(1)(a) (contract for the sale of goods or the provision of services) or (c) (contract for the lease of residential premises that does not exceed 2 years) of the Small Claims Tribunals Act (Cap. 308), and does not include a hire-purchase agreement or sale of immovable property.
+
+[15/2008]
+
+(2A) For the avoidance of doubt, subsections (2) to (5) of section 5 of the Small Claims Tribunals Act shall apply, with the necessary modifications, to a Small Claims Tribunal exercising the jurisdiction conferred by subsection (1).
+
+[15/2008]
 
 (3) For the purposes of determining whether an action under section 6(1) exceeds the District Court limit or the Magistrate’s Court limit within the meaning of the Subordinate Courts Act (Cap. 321), such an action shall be deemed to be a claim founded on contract.
 
@@ -268,7 +310,7 @@ and includes any employee or agent of the person;
 
 (e) make an order varying the contract between the supplier and the consumer.
 
-(5) For the avoidance of doubt, in an action under section 6(1) before a Small Claims Tribunal, the Tribunal may make orders pursuant to the provisions of the Small Claims Tribunals Act (Cap. 308).
+(5) For the avoidance of doubt, in an action under section 6(1) before a Small Claims Tribunal, the Tribunal may make orders pursuant to the provisions of the Small Claims Tribunals Act.
 
 (6) Notwithstanding subsections (4) and (5), the court shall not grant any relief in respect of any goods or services intended for business use in an action under section 6(1).
 
@@ -287,6 +329,10 @@ and “business use” and “non-business use” shall be construed accordingly
 (a) minimise any loss or damage resulting from the unfair practice; and
 
 (b) resolve the dispute with the supplier before commencing the action.
+
+(10) For the purposes of subsection (9)(b), if any specified dispute resolution scheme was available to the consumer in respect of the dispute, the court shall consider whether the consumer had sought to resolve the dispute through such a scheme.
+
+[15/2008]
 
 ### Voluntary compliance agreement
 
@@ -320,7 +366,7 @@ in such manner or upon such terms as specified in the undertakings.
 
 (7) Where a supplier fails to comply with any undertaking referred to in subsection (3)(b), the specified body may recover the reimbursement specified in the undertaking as a civil debt due to the specified body.
 
-(8) Where a supplier fails to comply with an undertaking under subsection (3)(c), the specified body may publicise the voluntary compliance agreement in accordance with the undertaking and recover the costs and expenses so incurred from the supplier as a civil debt due to the specified body.
+(8) Where a supplier fails to comply with any undertaking referred to in subsection (3)(c), the specified body may publicise the voluntary compliance agreement in accordance with the undertaking and recover the costs and expenses so incurred from the supplier as a civil debt due to the specified body.
 
 (9) Unless otherwise provided in the voluntary compliance agreement, recovery of compensation or reimbursement (as the case may be) under a voluntary compliance agreement or under subsection (6), (7) or (8) shall bar all further actions to recover any loss, damage, costs or expenses to which the undertaking so enforced relates.
 
@@ -404,7 +450,7 @@ in such manner or upon such terms as specified in the undertakings.
 
 ### Limitation period
 
-12\.—(1) No action under section 6 shall be commenced later than one year from —
+12\.—(1) No action under section 6 shall be commenced later than 2 years from —
 
 (a) the date of the occurrence of the last material event on which the action is based; or
 
@@ -416,9 +462,19 @@ in such manner or upon such terms as specified in the undertakings.
 
 whichever occurs later.
 
+[15/2008]
+
 (2) No action under section 8(6), (7) or (8) shall be commenced later than one year from the date of the failure to comply with the undertaking sought to be enforced.
 
-(3) No action under section 9 shall be commenced later than one year from the date of the occurrence of the last material event on which the action is based.
+(3) No action under section 9 shall be commenced later than 2 years —
+
+(a) from the date of the occurrence of the last material event on which the action is based; or
+
+(b) where the specified body alleges in the action that the supplier has engaged in an unfair practice in respect of any consumer, from the earliest date on which that consumer had knowledge that the supplier had engaged in the alleged unfair practice, as provided in subsection (1)(b),
+
+whichever occurs later.
+
+[15/2008]
 
 (4) No action under any regulations made under section 11 shall be commenced later than one year from the date of the cancellation of the contract.
 
@@ -472,6 +528,20 @@ whichever occurs later.
 
 the provision must be interpreted against the supplier.
 
+### Burden of proof
+
+18A\.—(1) If, in any proceedings taken in any court between a consumer and a supplier in relation to a consumer transaction, any dispute arises as to whether the supplier has complied with any specified requirement of this Act or the regulations made thereunder, the burden of proving that the supplier has so complied shall be on the supplier.
+
+[15/2008]
+
+(2) The Minister may, by regulations, specify the requirements of this Act or the regulations made thereunder to which subsection (1) shall apply.
+
+[15/2008]
+
+(3) This section shall not affect any other rule of law that places a burden of proof on the supplier.
+
+[15/2008]
+
 ### Amendment of Schedules
 
 19\. The Minister may, by order published in theGazette, amend the Schedules.
@@ -492,13 +562,21 @@ the provision must be interpreted against the supplier.
 
 (e) prescribing the form or terms of contracts to be used in any consumer transaction and any information to be contained therein;
 
-(f) requiring suppliers to maintain books, accounts (including trust accounts) or records in relation to any consumer transactions, and prescribing the form and mode of keeping such books, accounts and records;
+(f) requiring suppliers to maintain books, accounts (including trust accounts) or records in relation to any consumer transaction, and prescribing the form and mode of keeping such books, accounts and records;
 
 (g) prescribing or adopting, with or without modification, codes, standards or rules governing the conduct of suppliers engaged in any consumer transaction;
 
-(h) prescribing the rights and obligations of parties who have entered a consumer transaction in the event of failure to comply with any provision of this Act or the regulations made thereunder, including the right to sue for such failure; and
+(h) prescribing the rights and obligations of parties in relation to a consumer transaction involving any practice regulated under this Act or any regulations made thereunder, including the right to sue for the purpose of enforcing such rights or obligations in circumstances specified therein;
 
-(i) specifying limitation periods for any action under this Act or any regulations made thereunder.
+(i) specifying limitation periods for any action under this Act or any regulations made thereunder;
+
+(j) specifying, for the purposes of section 7(1)(d), actions under provisions in any regulations made under this section;
+
+(k) specifying dispute resolution schemes for the purposes of section 7(10); and
+
+(l) modifying the application of section 6(2), in relation to any class of supplier or any class of goods or services or transactions, where multiple actions involving the same unfair practice are commenced under section 6(1) by the same consumer.
+
+[15/2008]
 
 FIRST SCHEDULE
 
@@ -516,25 +594,17 @@ Excluded Transactions
 
 2. The following Acts are specified for the purposes of paragraph 1(c):
 
-(a) Banking Act (Cap. 19);
+(a) to (g) (Deleted by Act 15 of 2008);
 
-(b) Commodity Trading Act (Cap. 48A);
+1(h) 
 
-(c) Finance Companies Act (Cap. 108);
+1Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
 
-(d) Financial Advisers Act (Cap. 110);
+2(i) Pawnbrokers Act (Cap. 222)
 
-(e) Insurance Act (Cap. 142);
+[15/2008]
 
-(f) section 28 of the Monetary Authority of Singapore Act (Cap. 186);
-
-(g) Money-changing and Remittance Businesses Act (Cap. 187);
-
-(h) Moneylenders Act (Cap. 188);
-
-(i) Pawnbrokers Act (Cap. 222);
-
-(j) Securities and Futures Act (Cap. 289).
+2Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c.), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
 
 SECOND SCHEDULE
 
@@ -558,7 +628,7 @@ Specific Unfair Practices
 
 8\. Charging a price for goods or services that is substantially higher than an estimate provided to the consumer, except where the consumer has expressly agreed to the higher price in advance.
 
-9\. Representing that a transaction involving goods and services involves or does not involve rights, remedies or obligations where that representation is deceptive or misleading.
+9\. Representing that a transaction involving goods or services involves or does not involve rights, remedies or obligations where that representation is deceptive or misleading.
 
 10\. Representing that a person has or does not have the authority to negotiate the final terms of an agreement involving goods or services if the representation is different from the fact.
 
@@ -570,13 +640,13 @@ Specific Unfair Practices
 
 14\. Making a representation that appears in an objective form such as an editorial, documentary or scientific report when the representation is primarily made to sell goods or services, unless the representation states that it is an advertisement or a promotion.
 
-15\. Representing that a particular person has offered or agreed to acquire goods and services whether or not at a stated price if he has not.
+15\. Representing that a particular person has offered or agreed to acquire goods or services whether or not at a stated price if he has not.
 
 16\. Representing the availability of facilities for repair of goods or of spare parts for goods if that is not the case.
 
 17\. Offering gifts, prizes or other free items in connection with the supply of goods or services if the supplier knows or ought to know that the items will not be provided or provided as offered.
 
-18\. Representing that goods or services are available at a discounted price for a stated period of time if the supplier knows or ought to know that the goods and services will continue to be so available for a substantially longer period.
+18\. Representing that goods or services are available at a discounted price for a stated period of time if the supplier knows or ought to know that the goods or services will continue to be so available for a substantially longer period.
 
 19\. Representing that goods or services are available at a discounted price for a particular reason that is different from the fact.
 
@@ -586,7 +656,12 @@ THIRD SCHEDULE
 
 Section 10(6)
 
-Constitution and Proceedings of Injunction Proposals Review Panel
+Constitution and Proceedings of
+
+
+
+
+Injunction Proposals Review Panel
 
 1\. Subject to any direction under paragraph 7, all the members of the Panel shall be present to constitute a quorum for a meeting of the Panel and any decision in writing signed by all the members of the Panel shall be as valid and effectual as if it had been made or reached at a meeting of the Panel where all its members were present.
 
@@ -622,15 +697,51 @@ Modifications to Provisions of Limitation Act
 
 1. In the case of an action under section 6, subsection (1) of section 24 of the Limitation Act (Cap. 163) shall be replaced by the following subsection:
 
-“(1) If, on the date from which the period of limitation begins to run, the person to whom an action under section 6 of the Consumer Protection (Fair Trading) Act 2003 accrued was under a disability, the action may be brought at any time before the expiration of one year from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired.”.
+“
 
-2. In the case of an action under section 8(6), subsection (1) of section 24 of the Limitation Act (Cap. 163) shall be replaced by the following subsection:
+(1) If, on the date from which the period of limitation begins to run, the person to whom an action under section 6 of the Consumer Protection (Fair Trading) Act (Cap. 52A) accrued was under a disability, the action may be brought at any time before the expiration of one year from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired.
 
-“(1) If, on the date from which the period of limitation begins to run, the person to whom an action under section 8(6) of the Consumer Protection (Fair Trading) Act 2003 accrued was under a disability, the action may be brought at any time before the expiration of one year from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired.”.
+”.
+
+2. In the case of an action under section 8(6), subsection (1) of section 24 of the Limitation Act shall be replaced by the following subsection:
+
+“
+
+(1) If, on the date from which the period of limitation begins to run, the person to whom an action under section 8(6) of the Consumer Protection (Fair Trading) Act (Cap. 52A) accrued was under a disability, the action may be brought at any time before the expiration of one year from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired.
+
+”.
 
 3. In the case of an action under any regulations made under section 11, subsection (1) of section 24 of the Limitation Act shall be replaced by the following subsection:
 
-“(1) If, on the date from which the period of limitation begins to run, the person to whom an action under any regulations made under section 11 of the Consumer Protection (Fair Trading) Act 2003 accrued was under a disability, the action may be brought at any time before the expiration of one year from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired.”.
+“
 
-4\. Sections 24A, 24B and 24C of the Limitation Act shall not apply to actions under this Act.
+(1) If, on the date from which the period of limitation begins to run, the person to whom an action under any regulations made under section 11 of the Consumer Protection (Fair Trading) Act accrued was under a disability, the action may be brought at any time before the expiration of one year from the date when the person ceased to be under a disability or died, whichever event first occurred, notwithstanding that the period of limitation has expired.
 
+”.
+
+4\. Sections 24A, 24B and 24C of the Limitation Act (Cap. 163) shall not apply to actions under this Act.
+
+## LEGISLATIVE HISTORY
+
+Consumer Protection (Fair Trading) Act
+
+(CHAPTER 52A)
+
+This Legislative History is provided for the convenience of users of the Consumer Protection (Fair Trading) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 27 of 2003—Consumer Protection (Fair Trading) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 24/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 March 2004|
+|2.|**2004 Revised Edition—Consumer Protection (Fair Trading) Act**|
+||Date of operation|31 December 2004|
+|3.|**Act 15 of 2008—Consumer Protection (Fair Trading) (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 10/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|15 April 2009 (except section 8(b) and (c))|
+|4.|**2009 Revised Edition—Consumer Protection (Fair Trading) Act**|
+||Date of operation|31 July 2009|
