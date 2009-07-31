@@ -38,13 +38,15 @@
 
 - [12 Plan of redevelopment](#Plan-of-redevelopment)
 
+- [12A Staged developments](#Staged-developments)
+
 - [13 Common property](#Common-property)
 
 - [14 Powers of mortgagees of flats brought under this Act](#Powers-of-mortgagees-of-flats-brought-under-this-Act)
 
 - [15 Accessory lot](#Accessory-lot)
 
-[**Part III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR**](#Part-III)
+[**Part III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR**](#Part-III)
 
 - [16 Easement of support](#Easement-of-support)
 
@@ -80,7 +82,13 @@
 
 - [32 Restrictions on subsidiary proprietor’s rights](#Restrictions-on-subsidiary-proprietor’s-rights)
 
-[**Part IV [Repealed by Act 47 of 2004 wef 01/04/2005] VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME**](#Part-IV)
+[**Part IV (Repealed)**](#Part-IV)
+
+- [33 (Repealed)](#Repealed)
+
+- [76 (Repealed)](#Repealed)
+
+[**Part V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME**](#Part-V)
 
 - [77 Variation of strata subdivision scheme consequent upon damage to or destruction of subdivided building](#Variation-of-strata-subdivision-scheme-consequent-upon-damage-to-or-destruction-of-subdivided-building)
 
@@ -88,7 +96,7 @@
 
 - [79 Interchangeability of notices](#Interchangeability-of-notices)
 
-- [80 Consequences of making an order under section 77 or 78](#Consequences-of-making-an-order-under-section-77-or-78)
+- [80 Consequences of making order under section 77 or 78](#Consequences-of-making-order-under-section-77-or-78)
 
 - [81 Termination of strata subdivision scheme by management corporation](#Termination-of-strata-subdivision-scheme-by-management-corporation)
 
@@ -118,15 +126,15 @@
 
 - [84FB Collective sale by all subsidiary proprietors who own registered leasehold tenure of at least 850 years or other tenure](#Collective-sale-by-all-subsidiary-proprietors-who-own-registered-leasehold-tenure-of-at-least-850-years-or-other-tenure)
 
-- [84G Application of Building Maintenance and Strata Management Act 2004](#Application-of-Building-Maintenance-and-Strata-Management-Act-2004)
+- [84G Application of Building Maintenance and Strata Management Act](#Application-of-Building-Maintenance-and-Strata-Management-Act)
 
-[**Part VI [Repealed by Act 47 of 2004 wef 01/04/2005] GENERAL**](#Part-VI)
+[**Part VI (Repealed)**](#Part-VI)
+
+[**Part VII GENERAL**](#Part-VII)
 
 - [115 Other rights and remedies not affected by this Act](#Other-rights-and-remedies-not-affected-by-this-Act)
 
 - [116 (Repealed)](#Repealed)
-
-- [117 (Repealed)](#Repealed)
 
 - [118 (Repealed)](#Repealed)
 
@@ -172,7 +180,7 @@
 
 [**THIRD SCHEDULE Composition, Constitution and Proceedings of Collective Sale Committee**](#THIRD-SCHEDULE-Composition-Constitution-and-Proceedings-of-Collective-Sale-Committee)
 
-[**FOURTH SCHEDULE Deductions Deductions Allowable by Board**](#FOURTH-SCHEDULE-Deductions-Deductions-Allowable-by-Board)
+[**FOURTH SCHEDULE Deductions Allowable by Board**](#FOURTH-SCHEDULE-Deductions-Allowable-by-Board)
 
 [**Legislative History**](#Legislative-History)
 
@@ -184,9 +192,9 @@
 
 (Original Enactment: Reprint RS (A) 2/76)
 
-REVISED EDITION 1999
+REVISED EDITION 2009
 
-(30th December 1999)
+(31st July 2009)
 
 An Act to facilitate the subdivision of land into strata and the collective sale of property, and the disposition of titles thereto and for purposes connected therewith.
 
@@ -212,11 +220,9 @@ PRELIMINARY
 
 “assurance” includes any transfer, lease, charge, mortgage, transmission application or any other application for vesting made under this Act;
 
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act (Cap. 301);
 
-[17/2001 wef 01/06/2001]
-
-“Board” means a Strata Titles Board constituted under the Building Maintenance and Strata Management Act 2004;
+“Board” means a Strata Titles Board constituted under the Building Maintenance and Strata Management Act (Cap. 30C);
 
 “building” includes —
 
@@ -226,9 +232,7 @@ PRELIMINARY
 
 (c) any building to be erected which is authorised for strata subdivision under a notification made by the Minister under section 21(6) of the Planning Act (Cap. 232);
 
-[30/2003 wef 10/12/2003]
-
-“Commissioner” means the Commissioner of Buildings appointed under section 3 of the Building Maintenance and Strata Management Act 2004;
+“Commissioner” means the Commissioner of Buildings appointed under section 3 of the Building Maintenance and Strata Management Act (Cap. 30C);
 
 “common property”, subject to subsection (2), means —
 
@@ -244,87 +248,59 @@ PRELIMINARY
 
 (ii) used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building;
 
-[47/2004 wef 01/04/2005]
-
 “company” includes —
 
 (a) any body of persons incorporated in or outside Singapore; or
 
 (b) an unincorporated society, association or other body which under the law of its place of origin may hold property in the name of the society, association or other body or in the name of its trustees, secretary or other officer duly appointed for that purpose;
 
-“competent authority”, in relation to the development or sub- division of land, means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the development or subdivision of land, as the case may be;
+“competent authority”, in relation to the development or subdivision of land, means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the development or subdivision of land, as the case may be;
 
-“council” has the same meaning as in the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004);
-
-[46/2007 wef 04/10/2007]
+“council” has the same meaning as in the Building Maintenance and Strata Management Act;
 
 “flat” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose, and may be comprised in a lot, or in part of any subdivided building not shown in a registered strata title plan;
 
-“immediate family member” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
-
-[46/2007 wef 04/10/2007]
+“immediate family member” has the same meaning as in the Building Maintenance and Strata Management Act (Cap. 30C);
 
 “land” has the same meaning as in the Land Titles Act (Cap. 157);
 
-[47/2004 wef 01/04/2005]
-
 “Land Titles Registry” means the Land Titles Registry of the Authority;
-
-[17/2001 wef 01/06/2001]
 
 “lot” means a stratum which is shown as a lot on a strata title plan, and includes a lot specified as an accessory lot on any such plan;
 
 “management corporation” means a management corporation constituted under this Act;
 
-[47/2004 wef 01/04/2005]
-
-[42/2005 wef 01/01/2006]
-
-“ordinary resolution” has the same meaning as in the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004);
-
-[46/2007 wef 04/10/2007]
+“ordinary resolution” has the same meaning as in the Building Maintenance and Strata Management Act;
 
 “parcel” means the whole of the registered land having a Government survey lot number and comprised in a strata title plan;
 
 “planning permission” has the same meaning as in the Planning Act (Cap. 232);
 
-“proposed lot” has the same meaning as in the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004);
+“proposed lot” has the same meaning as in the Building Maintenance and Strata Management Act;
 
-[46/2007 wef 04/10/2007]
-
-“proprietor”, in relation to land comprised in a strata title plan, means the person who was the proprietor of the land the subject of the strata title plan immediately before the registration of the strata title plan under section 9;
+“proprietor”, in relation to land comprised in a strata title plan, means the person who was the proprietor of the land the subject of the strata title plan immediately before the registration of the strata title application for that plan under section 9;
 
 “provisional lot” means a lot within which one or more buildings or parts of any building are to be erected or completed and is shown as a provisional lot in a strata title plan and in any other record maintained by the Registrar;
 
-“registered land” means land which has been brought under the provisions of the Land Titles Act (Cap. 157), by being included in a folio of the land-register, and held by the registered proprietor for an estate in fee simple or perpetuity, or for a leasehold estate comprised in a Crown or State lease ;
+“registered land” means land which has been brought under the provisions of the Land Titles Act, by being included in a folio of the land-register, and held by the registered proprietor for an estate in fee simple or perpetuity, or for a leasehold estate comprised in a Crown or State lease;
 
-“registered lease” means a lease registered under the provisions of the Land Titles Act;
+“registered lease” means a lease registered under the provisions of the Land Titles Act (Cap. 157);
 
 “registered lessee”, in relation to any subdivided building not comprised in a strata title plan, means the registered proprietor of a leasehold estate in registered land comprising a flat which is shown in a plan annexed to a registered lease, having an unexpired term of not less than 21 years as at the date of the lodgment of an application by that registered proprietor for a subsidiary certificate of title;
 
 “Registrar” means the Registrar of Titles appointed under the Land Titles Act;
 
-“relevant authority” means any one or more Government or statutory authorities empowered to approve plans for development or subdivision of any land or plans relating to the construction of any building under the Planning Act or under any other written law and includes the competent authority;
+“relevant authority” means any one or more Government or statutory authorities empowered to approve plans for development or subdivision of any land or plans relating to the construction of any building under the Planning Act (Cap. 232) or under any other written law and includes the competent authority;
 
-“schedule of strata units”, in relation to any land or building, means the schedule of strata units accepted by the Commissioner under section 11 of the Building Maintenance and Strata Management Act 2004 for that land or building;
+“schedule of strata units”, in relation to any land or building, means the schedule of strata units accepted by the Commissioner under section 11 of the Building Maintenance and Strata Management Act (Cap. 30C) for that land or building;
 
-[47/2004 wef 01/04/2005]
+“share value” has the same meaning as in the Building Maintenance and Strata Management Act;
 
-“share value” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
+“special resolution” has the same meaning as in the Building Maintenance and Strata Management Act;
 
-[47/2004 wef 01/04/2005]
+“staged development” and “staged development contract” have the same respective meanings as in the Building Maintenance and Strata Management Act;
 
-“special resolution” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
-
-[47/2004 wef 01/04/2005]
-
-“staged development” and “staged development contract” have the same respective meanings as in the Building Maintenance and Strata Management Act 2004;
-
-[47/2004 wef 01/04/2005]
-
-“strata roll” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
-
-[47/2004 wef 01/04/2005]
+“strata roll” has the same meaning as in the Building Maintenance and Strata Management Act;
 
 “strata subdivision” includes a subdivision of land to comprise one or more strata units whether or not any strata unit is on the same level as any other strata unit;
 
@@ -336,8 +312,6 @@ PRELIMINARY
 
 (c) contains the particulars prescribed under the Boundaries and Survey Maps Act (Cap. 25),
 
-[37/2004 wef 31/03/2005]
-
 and includes a strata title plan for redevelopment of any lot in a strata title plan registered under this Act;
 
 “stratum” means any part of land consisting of a space of any shape below, on or above the surface of the land, or partly below and partly above the surface of the land, the dimensions of which are delineated;
@@ -348,13 +322,9 @@ and includes a strata title plan for redevelopment of any lot in a strata title 
 
 (b) any building or class of buildings authorised for strata subdivision under a notification made by the Minister under section 21(6) of the Planning Act (Cap. 232);
 
-[30/2003 wef 10/12/2003]
-
 “subsidiary certificate of title” means the subsidiary certificate of title issued under section 122;
 
-“subsidiary management corporation” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
-
-[47/2004 wef 01/04/2005]
+“subsidiary management corporation” has the same meaning as in the Building Maintenance and Strata Management Act (Cap. 30C);
 
 “subsidiary proprietor” means —
 
@@ -364,11 +334,9 @@ and includes a strata title plan for redevelopment of any lot in a strata title 
 
 “subsidiary strata certificate of title” means the subsidiary strata certificate of title issued under this Act;
 
-“unanimous resolution” has the same meaning as in the Building Maintenance and Strata Management Act 2004.
+“unanimous resolution” has the same meaning as in the Building Maintenance and Strata Management Act (Cap. 30C).
 
-[47/2004 wef 01/04/2005]
-
-[23/82; 16/87; S 309/87]
+[23/82; 16/87; S 309/87; 3/98; 21/99; 17/2001; 30/2003; 37/2004; 47/2004; 42/2005; 46/2007]
 
 (2) For the purposes of this Act —
 
@@ -376,7 +344,7 @@ and includes a strata title plan for redevelopment of any lot in a strata title 
 
 (b) all other windows of a lot, proposed lot or non-strata lot that are located on any exterior wall of the lot, proposed lot or (as the case may be) non-strata lot shall be common property, unless otherwise described in a strata title plan.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 ### Application of Land Titles Act
 
@@ -396,9 +364,11 @@ SUBDIVISION AND SUBSIDIARY STRATA LAND-REGISTER
 
 (a) the strata subdivision of any building or class of buildings as specified in that notification is authorised; and
 
-(b) the approval by the competent authority of a strata subdivision plan for that building or class of buildings is not required under the Planning Act,
+(b) the approval by the competent authority of a strata subdivision plan for that building or class of buildings is not required under the Planning Act (Cap. 232),
 
 then for the purposes of this Act and any regulations made thereunder, where any thing or matter is required to be done in accordance with or to be ascertained from any strata subdivision plan approved or issued by the competent authority, such requirement shall be deemed to be complied with or satisfied if it is done in accordance with or ascertained from building plans approved by the relevant authority.
+
+[30/2003]
 
 (2) For the purposes of subsection (1), the building plans approved by the relevant authority —
 
@@ -406,11 +376,13 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (b) shall contain such other certifications and particulars as may be required by the Registrar or the Chief Surveyor.
 
-[30/2003 wef 10/12/2003]
+[30/2003]
 
 ### Dealings with subdivided building
 
 6\.—(1) Subject to this section and except in the case where under section 22 of the Land Titles Act (Cap. 157) the Registrar has directed that any building may be dealt with in parts under the provisions of the Registration of Deeds Act (Cap. 269), no assurance (except mortgages, charges, reconveyances or discharges of subsisting mortgages or charges, vesting orders issued by the High Court and any assurance made pursuant to a power of sale conferred by any written law) disposing of any part of a subdivided building shall be registered under the Land Titles Act or the Registration of Deeds Act.
+
+[42/2005]
 
 (1A) The Registrar or the Registrar of Deeds, as the case may be, shall have the power to refuse to register that assurance or, where the assurance has been registered in contravention of subsection (1), cancel that registration upon the discovery thereof.
 
@@ -424,13 +396,15 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (c) the Registrar has registered the strata title application lodged under paragraph (a) and has issued the subsidiary strata certificates of title applied for.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (3) This section shall not apply to any building or class of buildings specified by the Minister by notification in theGazette.
 
 (4) Where a notification has been made under subsection (3), the Minister may at any time cancel the notification when the registered proprietor of the land on which the building is erected has, with the approval of the Minister, transferred all the estate and interest in such land to the lessees of the registered leasehold estate of the subdivided parts of the building as tenants-in-common in accordance with the terms and conditions of the leases granted in respect of the subdivided parts of the building.
 
 (5) Subject to sections 125, 125A, 126, 126A and 127, this section shall not apply to any building where, on 15th April 1976, a flat forming part of that building has been disposed of by the proprietor thereof by a lease registered under the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), and the registered leasehold interest is vested in any person other than the proprietor.
+
+[42/2005]
 
 (6) In this section —
 
@@ -442,7 +416,9 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 [16/87]
 
-7\. [Repealed by Act 47 of 2004 wef 01/04/2005]
+Flats not to be sold unless schedule of strata units is filed with and accepted by Commissioner
+
+7\. [Repealed by Act 47 of 2004]
 
 ### Notification of planning condition on land-register, etc.
 
@@ -470,21 +446,31 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (b) the strata title plan for that parcel has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
+[37/2004]
+
 (2) Every strata title application shall —
 
 (a) show the share values in whole numbers of each lot (except an accessory lot) and a number equal to the aggregate share value entitlement of all the lots comprised in the parcel; and
 
 (b) contain such other particulars as may be prescribed or as the Registrar may specify.
 
+[37/2004]
+
 (3) The strata title plan shall be deemed to be registered under the provisions of this Act on the date that the strata title application is registered by the Registrar under subsection (1) and the strata title plan has been assigned a strata title plan serial number as notified in the land-register.
+
+[37/2004]
 
 (4) For the purposes of subsection (2)(a), where planning permission for the erection of the buildings comprising the lots has been granted on or after 15th April 1976, the share values shown on the strata title application shall be those shown in the schedule of strata units filed with and accepted by the Commissioner.
 
+[37/2004; 46/2007]
+
 (5) No share value shall be allotted to an accessory lot.
+
+[37/2004]
 
 (6) In this section, “lot” includes a provisional lot.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 ### Subsidiary strata land-register
 
@@ -494,33 +480,43 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (b) issue for each lot shown on the strata title application a subsidiary strata certificate of title.
 
+[37/2004]
+
 (2) Upon registration of a strata title application, a subsidiary proprietor shall be deemed to be the proprietor of his lot and his share in the common property subject to the encumbrances, if any, registered or notified in the subsidiary strata land-register.
+
+[37/2004; 46/2007]
 
 (3) Subject to the provisions of this Act, any assurance or other dealing affecting a lot may be registered in the same manner and form and, upon registration, shall have the same effect as a similar assurance or dealing registered under the provisions of the Land Titles Act (Cap. 157), and affecting part of registered land comprised in a subdivision plan submitted to the competent authority.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 ### Constitution of management corporation, etc.
 
 10A\.—(1) The subsidiary proprietors from time to time of all lots comprised in a strata title plan shall, on the date of registration of the strata title application in respect of that strata title plan under this Act, constitute the management corporation for that strata title plan.
 
-(2) The subsidiary proprietors from time to time of the lots for whose exclusive benefit any limited common property is designated in a strata title plan, or in a comprehensive resolution filed with the Chief Surveyor under section 78(2)(b) of the Building Maintenance and Strata Management Act 2004, shall on the date of registration of the strata title application in respect of that strata title plan or such other instrument as required by the Registrar under this Act, constitute the subsidiary management corporation for that limited common property.
+[47/2004]
+
+(2) The subsidiary proprietors from time to time of the lots for whose exclusive benefit any limited common property is designated in a strata title plan, or in a comprehensive resolution filed with the Chief Surveyor under section 78(2)(b) of the Building Maintenance and Strata Management Act (Cap. 30C), shall on the date of registration of the strata title application in respect of that strata title plan or such other instrument as required by the Registrar under this Act, constitute the subsidiary management corporation for that limited common property.
+
+[47/2004]
 
 (3) The Registrar may, upon payment of a prescribed fee, issue to a management corporation or a subsidiary management corporation a certificate stating that the management corporation or subsidiary management corporation, as the case may be, is a body corporate constituted on the day specified therein.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 ### Share value not to be changed
 
-11\.—(1) Except as otherwise expressly provided in this Act or the Building Maintenance and Strata Management Act 2004, the share value of any lot shown in the subsidiary strata land-register shall not be altered in any manner on or after the date of registration of the strata title application comprising that lot.
+11\.—(1) Except as otherwise expressly provided in this Act or the Building Maintenance and Strata Management Act (Cap. 30C), the share value of any lot shown in the subsidiary strata land-register shall not be altered in any manner on or after the date of registration of the strata title application comprising that lot.
 
-[37/2004 wef 31/03/2005]
-
-[47/2004 wef 01/04/2005]
+[37/2004; 47/2004]
 
 (2) The Registrar may correct any entry in the subsidiary strata land-register in respect of the share value of a lot if he is satisfied that there is an error in the entry.
 
+[37/2004]
+
 (3) The court may order the share value of a lot shown in the subsidiary strata land-register to be amended where the court is satisfied that the value was fraudulently assigned to the lot.
+
+[37/2004]
 
 (4) Nothing in this section shall prohibit the alteration of the share value of a lot consequent upon the subdivision of that lot into 2 or more lots or the amalgamation of 2 or more lots.
 
@@ -530,13 +526,15 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 12\.—(1) A subsidiary proprietor of a lot or of 2 or more lots who intends to subdivide his lot or amalgamate his lots may lodge a strata title application for redevelopment for registration with the Registrar after he has obtained the approval of the relevant authority.
 
-[16/87]
+[16/87; 37/2004]
 
 (2) Where the subdivision of a lot or the amalgamation of 2 or more lots results in the creation of any additional or new common property, the subsidiary proprietor shall obtain the approval of the management corporation before lodging the strata title application for redevelopment with the Registrar.
 
+[37/2004]
+
 (3) No strata title application for redevelopment shall be accepted by the Registrar unless an amended schedule of strata units showing the proposed share values to be allotted to the lot or lots affected by the redevelopment has been filed with and accepted by the Commissioner.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (3A) In the proposed allotment of share values referred to in subsection (3) —
 
@@ -544,7 +542,7 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (b) where 2 or more lots are amalgamated, the share value of the proposed new lot or lots shall be equal to the aggregate share value of the former lots.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (4) The Registrar shall not be concerned to inquire whether a subsidiary proprietor has obtained the approval of the relevant authority or the management corporation under subsection (1) or (2).
 
@@ -554,29 +552,53 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (b) the strata title plan for redevelopment has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (5A) The strata title plan for redevelopment shall be deemed to be registered under the provisions of this Act on the date that the strata title application for redevelopment is registered by the Registrar.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (6) On registration of the strata title application for redevelopment, parts of any lot which are capable of forming the common property as provided under this Act shall form part of the common property, free from any encumbrances (except those created by statute and subsisting easements), in relation to all the lots comprised within the same parcel as described in the strata title plan first registered with the Registrar without the need for a resolution made under section 25 directing the management corporation concerned to accept a transfer of such parts of a lot to form part of the common property.
 
-[23/82]
+[23/82; 37/2004; 42/2005]
 
 (7) On registration of the strata title application for redevelopment, the Registrar shall make the appropriate amendment and entry on the relevant folios of the land-register and subsidiary strata land-register comprising the lot or lots shown in the strata title plan for redevelopment.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (8) All other provisions of this Act relating to a strata title plan, a strata title application and a lot, so far as they are not inconsistent with the provisions of this section, shall apply to a strata title plan for redevelopment, a strata title application for redevelopment and any lot shown therein, respectively.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
+
+### Staged developments
+
+112A\.—(1) On the completion of every stage of a stage development in respect of which a strata title plan is registered or deemed registered under this Act, and on final completion and conclusion of the entire staged development, the owner developer thereof shall, within the time prescribed, prepare an amended strata title plan with the revised schedule of strata units for the staged development that has been last accepted under section 11 of the Building Maintenance and Strata Management Act (Cap. 30C).
+
+[47/2004]
+
+(2) Every amended strata title plan with the revised schedule of strata units under subsection (1) shall be lodged with the Chief Surveyor for approval under the Boundaries and Survey Maps Act (Cap. 25).
+
+[47/2004]
+
+(3) Where the amended strata title plan referred to in subsection (1) has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act, the Registrar shall make the appropriate amendment and entry on the relevant volumes and folios of the land-register and subsidiary land-register comprising the lots shown in the amended strata title plan in regard to the share value and lot numbers of the lot or lots affected.
+
+[47/2004]
+
+(4) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
+
+[47/2004]
+
+(5) Every regulation made under subsection (4) shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[47/2004]
+
+1Section 12A will come into operation when item (5) in the Third Schedule to the Building Maintenance and Strata Management Act (Cap. 30C) is brought into operation. The section will be further amended when section 17(e) to (j) of the Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Act 42 of 2005) is brought into operation.
 
 ### Common property
 
 13\.—(1) On registration of the strata title application the Registrar shall enter a memorial in the land-register on the volume and folio of the parcel to the effect that a subsidiary strata land-register has been created, and thereupon the common property shall be held by the subsidiary proprietors as tenants-in-common proportional to their respective share value and for the same term and tenure as their respective lots are held by them.
 
-[16/87]
+[16/87; 37/2004]
 
 (2) The Registrar on issuing a subsidiary strata certificate of title for a lot shall certify therein the subsidiary proprietor’s share in the common property, but no subsidiary strata certificate of title shall be issued for the common property.
 
@@ -584,11 +606,11 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (4) The certificate of title comprising the parcel shall be retained by the Registrar after the issue of the relevant subsidiary strata certificates of title.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (5) Where the subsidiary strata certificates of title were issued before 15th April 1976, the duplicate certificate of title comprising the parcel may be deposited with the Registrar.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 ### Powers of mortgagees of flats brought under this Act
 
@@ -598,7 +620,7 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (b) to have been vested with all rights and powers as if he is the registered proprietor of the estate in the share of the common property appurtenant to the flat mortgaged by the subsidiary proprietor as and when the mortgagee exercises his powers as mortgagee under the registered mortgage of the flat.
 
-[16/87; S309/87]
+[16/87; 42/2005; S309/87]
 
 ### Accessory lot
 
@@ -612,7 +634,7 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 ## PART III
 
-RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
 ### Easement of support
 
@@ -678,7 +700,7 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 ### Creation of easements and restrictions
 
-22\.—(1) This section shall apply where a management corporation has, in accordance with section 35(1) of the Building Maintenance and Strata Management Act 2004, passed a unanimous resolution to —
+22\.—(1) This section shall apply where a management corporation has, in accordance with section 35(1) of the Building Maintenance and Strata Management Act (Cap. 30C), passed a unanimous resolution to —
 
 (a) execute on the behalf of its subsidiary proprietors a grant of easement or a restrictive covenant burdening the parcel;
 
@@ -688,7 +710,7 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (d) accept on their behalf a surrender of a grant of easement or a restrictive covenant.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 (2) The management corporation, if it is satisfied that the resolution was duly passed, and that all persons having registered interests in the parcel have consented in writing to the manner of creating those interests in respect of the registered land comprised in the proposed disposition, shall execute the appropriate instrument and that instrument is valid and effective without any execution by any person having an interest in the parcel.
 
@@ -698,19 +720,21 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (4) The Registrar shall register the instrument creating the easement or restrictive covenant by making the appropriate notification on the relevant folio of the land-register.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 ### Dispositions of common property
 
-23\.—(1) This section shall apply where a management corporation has, in accordance with section 34(1) of the Building Maintenance and Strata Management Act 2004, passed a 90% resolution as defined under that Act —
+23\.—(1) This section shall apply where a management corporation has, in accordance with section 34(1) of the Building Maintenance and Strata Management Act (Cap. 30C), passed a 90% resolution as defined under that Act —
 
 (a) to execute on the behalf of its subsidiary proprietors a transfer of any part of the common property (including a part of any building or any immovable property affixed to common property); or
 
 (b) to execute on their behalf a lease of or rent part of such common property.
 
-[47/2004 wef 01/04/2005]
+[47/2004; 42/2005]
 
 (2) The management corporation, if it is satisfied that the resolution was duly passed, and that all persons (other than the subsidiary proprietors) having registered interests in the parcel have consented in writing to the release of those interests in respect of the registered land comprised in the proposed transfer or lease, and that the relevant authority has consented in writing to the proposed transfer or lease so far as it affects subdivision and amalgamation of the land comprised therein, shall execute the appropriate instrument.
+
+[47/2004]
 
 (2A) The instrument mentioned in subsection (2) shall be valid and effective without execution by any person having an interest in the common property, and the receipt of the management corporation for any moneys payable to the management corporation under the instrument is a sufficient discharge, and shall exonerate the purchaser from seeing to the application or being answerable for any loss or misapplication of the moneys expressed to have been so received.
 
@@ -718,31 +742,37 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (3) Every instrument of such transfer or lease lodged for registration shall be endorsed with or accompanied by a certificate in the approved form under the seal of the management corporation that the resolution was duly passed and that all necessary consents were given, and the certificate in favour of the purchaser and the Registrar shall be conclusive evidence of the facts stated therein.
 
-(4) Upon registration of the transfer by the Registrar the part of the common property transferred shall be free from any encumbrances (except those created by statute and subsisting easements not created or implied under this Act) and the Registrar shall —
+[47/2004]
 
-(a) enter a memorial of the transfer on the folio of the land-register comprising the parcel;
+(4) Upon registration of the transfer by the Registrar, the part of the common property transferred shall be free from any encumbrances (except those created by statute and subsisting easements not created or implied under this Act) and the Registrar shall —
+
+(a) enter a memorial of the transfer on the folio of the land- register comprising the parcel;
 
 (b) amend the relevant folios of the land-register and subsidiary strata land-register in such manner as the Registrar may think fit so as to show thereon the part of the common property which has been transferred; and
 
 (c) issue to the transferee a certificate of title for the land transferred.
 
-[16/87]
+[16/87; 37/2004; 47/2004; 42/2005]
 
 ### Vesting of part of common property in Government for roads, streets, road reserves, road widening, drainage reserves or for any other public use as shown on plans approved by relevant authority
 
 24\.—(1) Where any part of land comprised in the common property of a parcel has been demarcated in any plan approved by the relevant authority for roads, streets, road reserves, road widening and drainage reserves or for any other public use, that part of the common property as demarcated for any of the above purposes shall become vested in the Government upon the registration by the Registrar of an instrument of vesting in the approved form lodged by the public authority.
 
+[42/2005]
+
 (2) The Registrar, if satisfied that the instrument of vesting relates to part of the common property as shown in the plan approved by the relevant authority for any of the purposes mentioned in subsection (1) and that the instrument has been duly executed and certified by the public authority, shall, notwithstanding that any part of a building within one or more lots is erected on, over or under any part of such common property, register the instrument on the relevant folio of the land-register without production of the duplicate instrument.
 
-(2A) Upon registration under subsection (2) the estate or interest in the part of the common property comprised in the instrument of vesting shall vest in the Government freed and discharged from all encumbrances and from any subsisting easements.
+(2A) Upon registration under subsection (2), the estate or interest in the part of the common property comprised in the instrument of vesting shall vest in the Government freed and discharged from all encumbrances and from any subsisting easements.
 
 (3) On registration of the instrument of vesting, the Registrar shall cancel the registration of any mortgage, charge or lease thereby overreached and make the appropriate notification on the relevant folio of the land-register comprising the common property.
+
+[37/2004]
 
 (4) The land thereby vested in the Government shall cease to be subject to the provisions of the Land Titles Act (Cap. 157) and the Registrar shall enter an appropriate notification to that effect on the relevant folio of the land-register, and create a new folio for the balance of the common property which remains vested in the subsidiary proprietors.
 
 ### Addition to common property
 
-25\.—(1) This section shall apply where a management corporation has, in accordance with section 34(3) of the Building Maintenance and Strata Management Act 2004, passed a special resolution to accept —
+25\.—(1) This section shall apply where a management corporation has, in accordance with section 34(3) of the Building Maintenance and Strata Management Act (Cap. 30C), passed a special resolution to accept —
 
 (a) a grant or transfer of any land (not being a lot within the parcel) which abuts the parcel, free from any encumbrances (except those created by statute and subsisting easements);
 
@@ -752,23 +782,23 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 for the purpose of creating additional common property.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 (2) The transfer lodged for registration shall contain a request to the Registrar that such land or part thereof, or the lot transferred, as the case may be, be included as part of the common property.
 
 (3) Upon registration of the transfer, the Registrar shall —
 
-(a) enter a memorial of the transfer on the folio of the land-register comprising the common property;
+(a) enter a memorial of the transfer on the folio of the land- register comprising the common property;
 
 (b) amend the relevant folios of the land-register and subsidiary strata land-register in such manner as the Registrar may think fit so as to show thereon the transferred land or part thereof or the lot transferred as forming part of the common property; and
 
 (c) where a lot is transferred, amend the relevant folios of the subsidiary strata land-register to decrease the aggregate share value by a number equivalent to the share value of that lot.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (4) Upon registration of the transfer by the Registrar —
 
-(a) the transferred land or the transferred lot, as the case may be, shall form part of the common property and the provisions of the Act applicable to common property as varied by this section shall apply to such transferred land or lot;
+(a) the transferred land or the transferred lot, as the case may be, shall form part of the common property and the provisions of this Act applicable to common property as varied by this section shall apply to such transferred land or lot;
 
 (b) the subsidiary proprietors shall hold the common property (including the transferred land or lot) as tenants-in-common in accordance with their respective share values as determined under subsection (3); and
 
@@ -782,19 +812,21 @@ for the purpose of creating additional common property.
 
 (iv) if there is a subsisting registered mortgage, charge, lease or sub-lease or any other encumbrance on the lot of a subsidiary proprietor, the undivided share or shares in the transferred land or transferred lot forming the additional common property shall be held by the subsidiary proprietor of the said lot subject to the same mortgage, charge, lease or sub-lease or any other such subsisting encumbrance.
 
-[23/82]
+[23/82; 37/2004; 47/2004]
 
 (5) Any reference to a transfer or transferred land in this section shall include a lease of land referred to in subsection (1)(c).
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 ### Amalgamation of whole of common property comprised in 2 or more parcels
 
-26\.—(1) This section shall apply where 2 or more management corporations have, in accordance with section 34(5) of the Building Maintenance and Strata Management Act 2004, passed their respective special resolutions to amalgamate their respective common properties; and the relevant management corporation shall execute an instrument of transfer.
+26\.—(1) This section shall apply where 2 or more management corporations have, in accordance with section 34(5) of the Building Maintenance and Strata Management Act (Cap. 30C), passed their respective special resolutions to amalgamate their respective common properties; and the relevant management corporation shall execute an instrument of transfer.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 (1A) Upon registration of the instrument of transfer, such common property shall be amalgamated and held in the shares proportionate to their respective share values subject to the same covenants, conditions and encumbrances, and for the same term and tenure then held by the subsidiary proprietors in respect of their respective lots prior to the date of the registration of the transfer by the Registrar.
+
+[47/2004]
 
 (2) Such transfer shall show the undivided proportionate shares to be held by each subsidiary proprietor named therein and shall be executed by the relevant transferor management corporations.
 
@@ -820,7 +852,9 @@ for the purpose of creating additional common property.
 
 ### Court orders affecting common property
 
-27\.—(1) Every instrument of transfer or acceptance of a transfer lodged for registration under section 36 of the Building Maintenance and Strata Management Act 2004 shall be accompanied by a certified true copy of the order of the court made under that section directing such transfer or acceptance of a transfer, and where the approval of the competent authority is required for any subdivision and amalgamation of any land or common property, a true copy of the approval given by the competent authority shall be lodged with such instrument.
+27\.—(1) Every instrument of transfer or acceptance of a transfer lodged for registration under section 36 of the Building Maintenance and Strata Management Act (Cap. 30C) shall be accompanied by a certified true copy of the order of the court made under that section directing such transfer or acceptance of a transfer, and where the approval of the competent authority is required for any subdivision and amalgamation of any land or common property, a true copy of the approval given by the competent authority shall be lodged with such instrument.
+
+[47/2004]
 
 (2) Upon the registration of the transfer by the Registrar —
 
@@ -830,7 +864,7 @@ for the purpose of creating additional common property.
 
 (c) in the case of the amalgamation of the common property of 2 or more management corporations, sections 23(4) and 26(2), (4) and (5) shall apply, with the necessary modifications, to such amalgamation.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 ### Limitation Act not to extend to common property
 
@@ -844,13 +878,11 @@ for the purpose of creating additional common property.
 
 30\.—(1) Each lot including a provisional lot (except an accessory lot) shown in a strata title plan shall have its share value determined as shown in the strata title application registered under section 9.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
-(1A) In the case of a strata title plan comprising land and buildings in respect of which planning permission has been granted on or after 15th April 1976, each lot shown in that plan shall have the share value as shown in the schedule of strata units filed with and accepted by the Commissioner under section 11 of the Building Maintenance and Strata Management Act 2004.
+(1A) In the case of a strata title plan comprising land and buildings in respect of which planning permission has been granted on or after 15th April 1976, each lot shown in that plan shall have the share value as shown in the schedule of strata units filed with and accepted by the Commissioner under section 11 of the Building Maintenance and Strata Management Act (Cap. 30C).
 
-[37/2004 wef 31/03/2005]
-
-[47/2004 wef 01/04/2005]
+[37/2004; 47/2004]
 
 (2) The share value of a lot shall determine —
 
@@ -878,7 +910,7 @@ for the purpose of creating additional common property.
 
 (6) Except as provided in subsections (1), (2) and (3), the provisions of this Act relating to a lot shall apply in all respects to a provisional lot.
 
-(7) For the purposes of this section, “assurance” shall not include any mortgage or charge or any application for vesting made under this Act.
+(7) In this section, “assurance” shall not include any mortgage or charge or any application for vesting made under this Act.
 
 [16/87]
 
@@ -890,7 +922,13 @@ for the purpose of creating additional common property.
 
 ## PART IV
 
-[Repealed by Act 47 of 2004 wef 01/04/2005]
+MANAGEMENT OF SUBDIVIDED BUILDING
+
+33\. [Repealed by Act 47 of 2004]
+
+76\. [Repealed by Act 47 of 2004]
+
+## PART V
 
 VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
@@ -906,7 +944,9 @@ VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 may make an application to the court for an order under subsection (4).
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court, on —
+[47/2004]
+
+(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court (Cap. 322, R 5), on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -921,6 +961,8 @@ may make an application to the court for an order under subsection (4).
 (3) The applicant and any person referred to in subsection (2) (whether or not he has been served with a notice of the application) shall be entitled to appear and be heard on the hearing of the application.
 
 (4) The court may, on an application made under subsection (1) (except in relation to land and buildings the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152)), make an order to settle a scheme for the reinstatement or continued use of the subdivided building in whole or in part.
+
+[47/2004]
 
 (5) An order made under subsection (4) shall take effect on such day as may be specified in the order.
 
@@ -972,7 +1014,7 @@ may make an application to the court for an order under subsection (4).
 
 [16/87]
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court, on —
+(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court (Cap. 322, R 5), on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -1048,37 +1090,35 @@ may make an application to the court for an order under subsection (4).
 
 [16/87]
 
-### Consequences of making an order under section 77 or 78
+### Consequences of making order under section 77 or 78
 
 80\.—(1) Upon receipt of a certified copy of an order made under section 77 or 78, the Registrar shall make appropriate entries in the subsidiary strata land-register of the effect of the order.
 
-[16/87]
+[16/87; 42/2005]
 
-(2) Where, pursuant to the receipt of a certified copy of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land-register which evidences title to a lot the subject of the strata title plan.
+(2) Where, pursuant to the receipt of a certified copy of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land- register which evidences title to a lot the subject of the strata title plan.
 
-[16/87]
+[16/87; 42/2005]
 
 ### Termination of strata subdivision scheme by management corporation
 
-81\.—(1) This section shall apply where a management corporation has, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004, resolved to terminate the strata subdivision of the building.
+81\.—(1) This section shall apply where a management corporation has, in accordance with section 84 of the Building Maintenance and Strata Management Act (Cap. 30C), resolved to terminate the strata subdivision of the building.
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 (2) A management corporation shall —
 
 (a) within 14 days after the passing of a resolution referred to in subsection (1), give notice of the resolution in one or more newspapers circulating in Singapore; and
 
-[42/2005 wef 01/01/2006]
-
 (b) within 30 days after the passing of the resolution, lodge an application with the Registrar to terminate the strata subdivision.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (3) If a management corporation fails to comply with subsection (2), the management corporation and every officer of the management corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(4) Upon registration of an application under subsection (2) (b) to terminate the strata subdivision, the Registrar shall cancel the relevant folios of the subsidiary strata land-register and enter a notification of the cancellation of the strata subdivision of the building and a memorial of the vesting of the parcel in the subsidiary proprietors as tenants-in-common in the relevant folio of the land-register comprising the parcel.
+(4) Upon registration of an application under subsection (2)(b) to terminate the strata subdivision, the Registrar shall cancel the relevant folios of the subsidiary strata land-register and enter a notification of the cancellation of the strata subdivision of the building and a memorial of the vesting of the parcel in the subsidiary proprietors as tenants-in-common in the relevant folio of the land-register comprising the parcel.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (5) Upon the entry of that memorial —
 
@@ -1089,6 +1129,8 @@ may make an application to the court for an order under subsection (4).
 (c) all statutory easements implied under this Act shall cease to affect the registered land comprising the parcel or any part thereof.
 
 (6) The former subsidiary proprietors may by 90% resolution direct the management corporation to transfer the parcel or any part thereof.
+
+[46/2007]
 
 (7) The management corporation, if it is satisfied that the resolution was duly passed and that all persons having registered interests in the parcel have consented in writing to the release of their respective interests in the registered land comprising the parcel or any part thereof, intended to be transferred, shall execute the appropriate transfer.
 
@@ -1104,6 +1146,8 @@ may make an application to the court for an order under subsection (4).
 
 (c) the Registrar, on receipt of the duplicate subsidiary strata certificate or certificates of title comprising the lot or lots, as the case may be, shall cancel the relevant folios of the subsidiary strata land-register, and registration of the transfer shall be effected by the Registrar issuing a certificate of title for the undivided share in the registered land or for the whole of the registered land transferred to the transferee, as the case may be.
 
+[46/2007]
+
 (10) Notwithstanding the termination of a strata subdivision under this section, the relevant record of the subsidiary strata land-register may be used in evidence as a record of matters relating to the subdivision before its termination so long as the management corporation continues in existence.
 
 (11) Where a transfer of the parcel made under subsection (7) has been lodged with and registered by the Registrar, the management corporation shall continue in existence for the purpose of winding up its affairs.
@@ -1116,13 +1160,13 @@ may make an application to the court for an order under subsection (4).
 
 (b) the assets of the management corporation, if any, shall be distributed among the former subsidiary proprietors,
 
-in the same proportion as the proportion of contributions which such former subsidiary proprietors would have been liable for in accordance with section 39(2) of the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004).
+in the same proportion as the proportion of contributions which such former subsidiary proprietors would have been liable for in accordance with section 39(2) of the Building Maintenance and Strata Management Act (Cap. 30C).
 
-[16/87]
+[16/87; 47/2004; 42/2005]
 
 ### Liquidators
 
-82\.—(1) Where a management corporation resolves that the strata subdivision of a building be terminated, it shall forthwith in general meeting appoint one or more liquidators for the purpose of winding up the affairs and distributing the assets of the management corporation and may fix the remuneration to be paid to him or them.
+82\.—(1) Where a management corporation resolves that the strata subdivision of a building be terminated, it shall immediately in general meeting appoint one or more liquidators for the purpose of winding up the affairs and distributing the assets of the management corporation and may fix the remuneration to be paid to him or them.
 
 [16/87]
 
@@ -1132,7 +1176,7 @@ in the same proportion as the proportion of contributions which such former subs
 
 (4) The management corporation may in general meeting convened by any former subsidiary proprietor by special resolution of which special notice has been given to all the former subsidiary proprietors, former mortgagees, the creditors and the liquidators, remove any liquidator but no such resolution shall be effective to remove a liquidator if the court on the application of the liquidator or a creditor or a former mortgagee has ordered that the liquidator be not removed.
 
-(5) If a vacancy occurs by death, resignation, removal or otherwise in the office of a liquidator the management corporation in general meeting shall forthwith fill the vacancy by the appointment of a liquidator and fix the remuneration to be paid to him, and for that purpose a general meeting may be convened by any former subsidiary proprietor, or if there were more liquidators than one by the continuing liquidators.
+(5) If a vacancy occurs by death, resignation, removal or otherwise in the office of a liquidator the management corporation in general meeting shall immediately fill the vacancy by the appointment of a liquidator and fix the remuneration to be paid to him, and for that purpose a general meeting may be convened by any former subsidiary proprietor, or if there were more liquidators than one by the continuing liquidators.
 
 (6) The meeting shall be held in the manner provided by this Act or in such manner as is on application by any former subsidiary proprietor or by the continuing liquidators determined by the court.
 
@@ -1142,23 +1186,23 @@ in the same proportion as the proportion of contributions which such former subs
 
 (9) The person on whose application an order of the court under this section is made shall, within 21 days after the making of the order, lodge with the Registrar and with the Commissioner a certified copy of the order, and if he fails to do so he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-[16/87]
+[16/87; 46/2007]
 
 ### Qualifications of liquidator
 
 83\. No person shall be appointed as a liquidator of a management corporation unless he is an approved liquidator under the Companies Act (Cap. 50).
 
-[16/87]
+[16/87; 30/2008]
 
 ### Application to subsidiary management corporations
 
-83A\. Sections 81, 82 and 83 shall apply, with the necessary modifications, where a subsidiary management corporation has resolved to terminate its limited common property, in accordance with section 84 of the Building Maintenance and Strata Management Act 2004.
+83A\. Sections 81, 82 and 83 shall apply, with the necessary modifications, where a subsidiary management corporation has resolved to terminate its limited common property, in accordance with section 84 of the Building Maintenance and Strata Management Act (Cap. 30C).
 
-[47/2004 wef 01/04/2005]
+[47/2004]
 
 ### Interpretation of sections 81 and 82
 
-84\. For the purposes of sections 81 and 82 —
+84\. In sections 81 and 82 —
 
 “former mortgagee” means a person who, or a body which, immediately before the subdivision of a subdivided building is terminated under this Part, was the registered mortgagee of a lot, forming part of the subdivided building;
 
@@ -1176,15 +1220,11 @@ COLLECTIVE SALE OF PROPERTY
 
 (a) the subsidiary proprietors of the lots with not less than 90% of the share values and not less than 90% of the total area of all the lots (excluding the area of any accessory lot) as shown in the subsidiary strata certificates of title where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the strata title plan or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan, whichever is the later; or
 
-[46/2007 wef 04/10/2007]
-
 (b) the subsidiary proprietors of the lots with not less than 80% of the share values and not less than 80% of the total area of all the lots (excluding the area of any accessory lot) as shown in the subsidiary strata certificates of title where 10 years or more have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the strata title plan or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan, whichever is the later,
-
-[46/2007 wef 04/10/2007]
 
 who have agreed in writing to sell all the lots and common property in the strata title plan to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the subsidiary proprietors (whether in cash or kind or both), subject to an order being made under subsection (6) or (7).
 
-[21/99]
+[21/99; 46/2007]
 
 (1A) For the purposes of a collective sale under this section and before the signing of the collective sale agreement by any subsidiary proprietor —
 
@@ -1192,33 +1232,41 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (b) the Third Schedule shall have effect as respects the collective sale committee, its composition, constitution, members and proceedings.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
-(2) The subsidiary proprietors referred to in subsection (1) shall appoint not more than 3 persons from the collective sale committee referred to in subsection (1A) to act jointly as their authorised representatives in connection with any application made under that subsection.
+(2) The subsidiary proprietors referred to in subsection (1) shall appoint not more than 3 persons from the collective sale committee referred to in subsection (1A) to act jointly as their authorised representatives in connection with any application made under subsection (1).
 
-[21/99]
+[21/99; 46/2007]
 
-(3) Subject to subsection (7C), no application may be made under subsection (1) by the subsidiary proprietors referred to in that subsection unless they have complied with the requirements specified in the First, Second and Third Schedules and have provided an undertaking to pay the costs of the Board under subsection (5).
+(3) Subject to subsection (7C), no application may be made under subsection (1) by the subsidiary proprietors referred to in subsection (1) unless they have complied with the requirements specified in the First, Second and Third Schedules and have provided an undertaking to pay the costs of the Board under subsection (5).
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (4) A subsidiary proprietor of any lot in the strata title plan who has not agreed in writing to the sale referred to in subsection (1) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in land and whose interest is notified on the land-register for that lot may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
 
-[21/99]
+[21/99; 47/2004; 46/2007]
+
+(4A) Where a section 84A stop order is issued under subsection (6A)(b) in respect of an application to a Board under subsection (1) for an order for the sale of all the lots and common property in a strata title plan, and an application is then made to the High Court under subsection (1) for an order for the same sale of all the lots and common property in the same strata title plan, any person referred to in subsection (4)(a) or (b) who filed an objection to the Board (but no others) may re-file his objection to the sale, stating the same grounds of objection, to the High Court in the manner and within the time delimited by the Rules of Court.
 
 (5) The Board shall have power —
 
 (a) to mediate in any matter arising from an application made under subsection (1);
 
-(b) to call for a valuation report or other report and to require the subsidiary proprietors referred to in subsection (1) to pay for the costs ; and
+[13/2010 wef 15/07/2010]
 
-[21/99]
+(b) to call for a valuation report or other report and to require the subsidiary proprietors referred to in subsection (1) to pay for the costs; and
 
 (c) to impose such conditions as it may think fair and reasonable in approving an application under subsection (1).
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[21/99; 46/2007]
 
 (6) Where an application has been made under subsection (1) and no objection has been filed under subsection (4), the Board shall, subject to subsection (9), approve the application and order that the lots and common property in the strata title plan be sold.
+
+[13/2010 wef 15/07/2010]
 
 [21/99]
 
@@ -1232,29 +1280,33 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (7A) An order made under subsection (7) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4), be increased if the Board is satisfied that it would be just and equitable to do so.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (7B) The total sum ordered by the Board for all the objectors under subsection (7A) shall be paid from the proceeds of sale of all the subsidiary proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each lot or $2,000 for each lot, whichever is the higher.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (7C) A Board shall not invalidate an application to the Board for an order under subsection (1) or section 84D(2), 84E(3) or 84FA(2) by reason only of non-compliance with any requirement in the First, Second or Third Schedule if the Board is satisfied that such non-compliance does not prejudice the interest of any person, and the Board may make such order as may be necessary to rectify the non-compliance and such order for costs.
 
-[46/2007 wef 04/10/2007]
-
-[30/2008 wef 17/12/2008]
+[46/2007; 30/2008]
 
 (8) For the purposes of subsection (7)(a), a subsidiary proprietor —
 
 (a) shall be taken to have incurred a financial loss if the proceeds of sale for his lot, after such deduction as the Board may allow (including all or any of the deductions specified in the Fourth Schedule), are less than the price he paid for his lot;
 
-(b) shall not be taken to have incurred a financial loss by reason only that his net gain from the sale of his lot will be less than the other subsidiary proprietors; and
+[13/2010 wef 15/07/2010]
 
-[21/99]
+(b) shall not be taken to have incurred a financial loss by reason only that his net gain from the sale of his lot will be less than the other subsidiary proprietors; and
 
 (c) shall not be taken to have incurred a financial loss by reason that the proceeds of sale for his lot, after such deduction as the Board may allow (including all or any of the deductions specified in the Fourth Schedule), are less than the price he paid for his lot if he had purchased the lot after a collective sale committee had signed a sale and purchase agreement to sell all the lots and common property to a purchaser.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[21/99; 46/2007]
 
 (9) The Board shall not approve an application made under subsection (1) —
 
@@ -1270,9 +1322,15 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (ii) the sale and purchase agreement would require any subsidiary proprietor who has not agreed in writing to the sale to be a party to any arrangement for the development of the lots and the common property in the strata title plan; or
 
+[13/2010 wef 15/07/2010]
+
 (b) if the collective sale committee does not consent to any order made by the Board under subsection (7A).
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
+
+[13/2010 wef 15/07/2010]
 
 (10) Where no objection has been filed under subsection (4), the determination under subsection (9) shall be made by the Board on the basis of the facts available to the Board.
 
@@ -1288,13 +1346,13 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (13) A notice sent by registered post under the First Schedule shall be deemed to be duly served on the person to whom it is addressed 2 days after the day on which the notice was posted, notwithstanding the fact that the letter may be returned by the post office as undelivered.
 
-[21/99]
+[21/99; 47/2004; 46/2007]
 
 (14) The Minister may, by order published in theGazette, amend or add to the First, Second, Third and Fourth Schedules.
 
-[21/99]
+[21/99; 47/2004; 46/2007]
 
-(15) For the purposes of this section, “subsidiary proprietor” includes a successor in title.
+(15) In this section, “subsidiary proprietor” includes a successor in title.
 
 [21/99]
 
@@ -1310,17 +1368,19 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [21/99]
 
+[13/2010 wef 15/07/2010]
+
 (2) Nothing in subsection (1)(c) shall prejudice the rights of any lessee of a subsidiary proprietor to compensation from the subsidiary proprietor.
 
 [21/99]
 
 (3) A subsidiary proprietor of a lot who has leased out the lot or any lessee of the lot may, at any time after an application has been made under section 84A(1) and before the Board has approved the application for sale, apply to the Board to determine the amount of compensation payable to the lessee.
 
-[21/99]
+[21/99; 46/2007]
 
 (4) The subsidiary proprietors of the lots who have not agreed in writing to the sale under section 84A and any mortgagee, chargee or other person with an estate or interest in those lots shall, for the purposes of the sale of the lots and common property, produce the subsidiary strata certificates of title for the lots to the person having conduct of the sale, the representatives appointed under section 84A(2) or to their solicitors.
 
-[21/99]
+[21/99; 46/2007]
 
 ### Power of president, etc., of Board to appoint person to act for certain subsidiary proprietor
 
@@ -1330,11 +1390,17 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (b) in such other case as the president, deputy president or registrar of the Board thinks fit.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(2) The president, deputy president or registrar of the Board may authorise the person appointed under subsection (1) to act for the subsidiary proprietor concerned in all aspects of the sale, including the redemption of mortgages and charges, the execution of the transfer, the receipt of moneys, the settlement of encumbrances on the lot, applying for a replacement subsidiary strata certificate of title, giving valid receipts thereof and as soon as practicable paying the remaining moneys into court under section 62 of the Trustees Act (Cap. 337).
+[21/99; 46/2007]
 
-[21/99]
+[13/2010 wef 15/07/2010]
+
+(2) The president, deputy president or registrar of the Boardmay authorise the person appointed under subsection (1) to act for the subsidiary proprietor concerned in all aspects of the sale, including the redemption of mortgages and charges, the execution of the transfer, the receipt of moneys, the settlement of encumbrances on the lot, applying for a replacement subsidiary strata certificate of title, giving valid receipts thereof and as soon as practicable paying the remaining moneys into court under section 62 of the Trustees Act (Cap. 337).
+
+[13/2010 wef 15/07/2010]
+
+[21/99; 46/2007]
 
 (3) The execution of any instrument in respect of any lot by the person appointed under subsection (1) shall have the same force and validity as if it had been executed by the subsidiary proprietor in whom the lot is vested.
 
@@ -1354,21 +1420,19 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (a) the proprietors of the flats who own not less than 90% share of the land and not less than 90% of the total area of all the flats where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the development or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the development, whichever is the later; or
 
-[46/2007 wef 04/10/2007]
-
 (b) the proprietors of the flats who own not less than 80% share of the land and not less than 80% of the total area of all the flats where 10 years or more have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the development or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the development, whichever is the later,
-
-[46/2007 wef 04/10/2007]
 
 who have agreed in writing to sell all the flats and the land in the development to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the proprietors of the flats (whether in cash or kind or both), subject to an order being made under subsection (4) or (5).
 
-[21/99]
+[21/99; 46/2007]
 
 (3) A proprietor of any flat in the development who has not agreed in writing to the sale referred to in subsection (2) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in the flat and whose interest is notified on the land-register for that flat may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
 
-[21/99]
+[21/99; 47/2004; 46/2007]
 
 (4) Where an application has been made under subsection (2) and no objection has been filed under subsection (3), the Board shall, subject to subsection (7), approve the application and order that the flats and the land in the development be sold.
+
+[13/2010 wef 15/07/2010]
 
 [21/99]
 
@@ -1382,15 +1446,21 @@ who have agreed in writing to sell all the flats and the land in the development
 
 (5A) An order made under subsection (5) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any flat to be received by an objector, being a proprietor who has filed an objection under subsection (3), be increased if the Board is satisfied that it would be just and equitable to do so.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (5B) The total sum ordered by the Board for all the objectors under subsection (5A) shall be paid from the proceeds of sale of all the proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each flat or $2,000 for each flat, whichever is the higher.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (6) For the purposes of subsection (5)(a), a proprietor —
 
 (a) shall be taken to have incurred a financial loss if the proceeds of sale for his flat, after any deduction allowed by the Board, are less than the price he paid for his flat;
+
+[13/2010 wef 15/07/2010]
 
 (b) shall not be taken to have incurred a financial loss by reason only that his net gain from the sale of his flat will be less than the other proprietors.
 
@@ -1410,9 +1480,15 @@ who have agreed in writing to sell all the flats and the land in the development
 
 (ii) the sale and purchase agreement would require any proprietor who has not agreed in writing to the sale to be a party to any arrangement for the development of the flats and the land in the development; or
 
+[13/2010 wef 15/07/2010]
+
 (b) if the collective sale committee does not consent to any order made by the Board under subsection (5A).
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
+
+[13/2010 wef 15/07/2010]
 
 (8) Where no objection has been filed under subsection (3), the determination under subsection (7) shall be made by the Board on the basis of the facts available to the Board.
 
@@ -1420,13 +1496,15 @@ who have agreed in writing to sell all the flats and the land in the development
 
 (9) Sections 84A(1A), (2), (3), (5), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
-[21/99]
+[13/2010 wef 15/07/2010]
+
+[21/99; 46/2007]
 
 (9A) In the application of section 84A(1A) and the Second and Third Schedules to any development to which this section applies, any reference to a management corporation shall be read as a reference to the proprietors of the flats.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
-(10) For the purposes of this section —
+(10) In this section —
 
 “development” means any parcel of land with one or more buildings where the parcel is owned by the proprietors of the flats;
 
@@ -1438,7 +1516,7 @@ who have agreed in writing to sell all the flats and the land in the development
 
 84E\.—(1) This section shall apply where there are subsisting leases of flats in a development registered under the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157) for a leasehold tenure of 850 years or more or for such other tenure as the Minister may, by notification in theGazette, specify and where the proprietors of the flats do not own the land comprised in the development.
 
-[21/99]
+[21/99; 46/2007]
 
 (2) The proprietors of 25% of the flats to which this section applies may apply to the Registrar for notional shares in the land to be assigned to each of the flats based on the method used by the Commissioner for the allocation of share values.
 
@@ -1446,25 +1524,23 @@ who have agreed in writing to sell all the flats and the land in the development
 
 (a) the proprietors of the flats who own not less than 90% notional share of the land and not less than 90% of the total area of all the flats where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the development or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the development, whichever is the later; or
 
-[46/2007 wef 04/10/2007]
-
 (b) the proprietors of the flats who own not less than 80% of notional share of the land and not less than 80% of the total area of all the flats where 10 years or more have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the development or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the development, whichever is the later,
-
-[46/2007 wef 04/10/2007]
 
 who have agreed in writing to sell all the flats in the development to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the proprietors of the flats (whether in cash or kind or both), subject to an order being made under subsection (6) or (7).
 
-[21/99]
+[21/99; 46/2007]
 
-(4) The proprietors of the flats referred to in subsection (3) shall also serve a copy of the notice to be served pursuant to special resolution the First Schedule on the proprietor of the land and every mortgagee, chargee or other person with an estate or interest in the land and whose interest is notified on the land-register for that land.
+(4) The proprietors of the flats referred to in subsection (3) shall also serve a copy of the notice to be served pursuant to the First Schedule on the proprietor of the land and every mortgagee, chargee or other person with an estate or interest in the land and whose interest is notified on the land-register for that land.
 
-[21/99]
+[21/99; 47/2004; 46/2007]
 
 (5) A proprietor of any flat in the development who has not agreed in writing to the sale referred to in subsection (3) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in the flat and whose interest is notified on the land-register for that flat may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
 
-[21/99]
+[21/99; 47/2004; 46/2007]
 
 (6) Where an application has been made under subsection (3) and no objection has been filed under subsection (5), the Board shall, subject to subsection (9), approve the application and order that the flats and the land in the development be sold.
+
+[13/2010 wef 15/07/2010]
 
 [21/99]
 
@@ -1478,15 +1554,21 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 (7A) An order made under subsection (7) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any flat to be received by an objector, being a proprietor who has filed an objection under subsection (5), be increased if the Board is satisfied that it would be just and equitable to do so.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (7B) The total sum ordered by the Board for all the objectors under subsection (7A) shall be paid from the proceeds of sale of all the proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each flat or $2,000 for each flat, whichever is the higher.
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (8) For the purposes of subsection (7)(a), a proprietor —
 
 (a) shall be taken to have incurred a financial loss if the proceeds of sale for his flat, after any deduction allowed by the Board, are less than the price he paid for his flat;
+
+[13/2010 wef 15/07/2010]
 
 (b) shall not be taken to have incurred a financial loss by reason only that his net gain from the sale of his flat will be less than the other proprietors.
 
@@ -1506,15 +1588,23 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 (ii) the sale and purchase agreement would require any proprietor who has not agreed in writing to the sale to be a party to any arrangement for the development of the flats and the land in the development; or
 
+[13/2010 wef 15/07/2010]
+
 (b) if the collective sale committee does not consent to any order made by the Board under subsection (7A).
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
+
+[46/2007]
+
+[13/2010 wef 15/07/2010]
 
 (10) Where no objection has been filed under subsection (5), the determination under subsection (9) shall be made by the Board on the basis of the facts available to the Board.
 
 [21/99]
 
 (11) Where a Board has made an order for the sale of the flats and the land, the proprietor of the land shall be deemed to have transferred his estate and interest in the land to the purchaser without consideration upon the registration by the Registrar of the transfers of all the flats (except the flats deemed to be owned by the proprietor under subsection (14)) in the development and the Registrar shall enter a notification of the vesting of the land in the purchaser on the land-register.
+
+[13/2010 wef 15/07/2010]
 
 [21/99]
 
@@ -1536,21 +1626,23 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 (b) the Registrar shall enter a notification of the vesting of such flats in the purchaser on the land-register.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (14B) The Registrar may dispense with production of the certificate of title for the land for the purposes of subsections (11) and (14A).
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (15) Sections 84A(1A), (2), (3), (5), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
-[21/99]
+[13/2010 wef 15/07/2010]
+
+[21/99; 46/2007]
 
 (15A) In the application of section 84A(1A) and the Second and Third Schedules to any development to which this section applies, any reference to a management corporation shall be read as a reference to the proprietors of the flats.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
-(16) For the purposes of this section —
+(16) In this section —
 
 “development” means any parcel of land with one or more buildings;
 
@@ -1562,7 +1654,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 84F\.—(1) This section shall apply where there are subsisting leases of flats registered under the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157) for a leasehold tenure of 850 years or more or for such other tenure as the Minister may, by notification in theGazette, specify and where the proprietors of the flats do not own the land comprised in the development.
 
-[21/99]
+[21/99; 46/2007]
 
 (2) Where the proprietors of all the flats in a development to which this section applies agree in writing under a sale and purchase agreement to sell all their flats to a purchaser (whether in cash or kind or both), they shall serve a notice on the proprietor of the land and every mortgagee, chargee or other person with an estate or interest in the land and whose interest is notified on the land-register at least 21 days before the date of the first transfer of any such flat informing them of the transfer under subsection (4).
 
@@ -1584,7 +1676,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 (5) A notice sent by registered post under this section to a proprietor of the land, his mortgagee, chargee or other person with an estate or interest in the land and whose interest is notified on the land-register at its last registered address in the case of a company registered under the Companies Act (Cap. 50) or otherwise at its last recorded address at the Land Titles Registry or the Registry of Deeds, as the case may be, shall be deemed to be duly served on the person to whom it is addressed 2 days after the day on which the notice was posted, notwithstanding the fact that the letter may be returned by the post office as undelivered.
 
-[21/99]
+[21/99; 46/2007]
 
 (6) When the transfers of the flats to which this section applies are lodged for registration with the Registrar, the solicitors acting for the proprietors of the flats shall certify in such form as the Registrar may determine that the provisions of this section have been complied with, and the certificate in favour of the purchaser and the Registrar shall be conclusive evidence of the facts stated therein.
 
@@ -1592,11 +1684,13 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 (7) Section 84E(12), (13), (14B) and (16) shall apply, with the necessary modifications, to a development to which this section applies.
 
-[21/99]
+[21/99; 46/2007; 30/2008]
 
 ### Application for collective sale of parcel by majority of subsidiary proprietors who own registered leasehold tenure of at least 850 years or other tenure
 
 84FA\.—(1) This section shall apply where there are subsisting leases registered under the Land Titles Act (Cap. 157) of all or some of the lots in a strata title plan for a leasehold tenure of 850 years or more or for such other tenure as the Minister may, by notification in theGazette, specify.
+
+[46/2007]
 
 (2) An application to a Board for an order for the sale of all the lots and common property in a strata title plan to which this section applies may be made by —
 
@@ -1606,11 +1700,21 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 who have agreed in writing to sell all the lots and common property in the strata title plan to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the subsidiary proprietors (whether in cash or kind or both), subject to an order being made under subsection (5) or (6).
 
+[46/2007]
+
 (3) The subsidiary proprietors of the lots referred to in subsection (2) shall also serve on the subsidiary proprietor in reversion of the leasehold estate and every mortgagee, chargee or other person with an estate or interest in land and whose interest is notified on the subsidiary strata land-register for the lots, a copy of all notices to be served pursuant to the First Schedule.
+
+[46/2007]
 
 (4) A subsidiary proprietor of any lot in the strata title plan who has not agreed in writing to the sale referred to in subsection (2) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in land and whose interest is notified on the subsidiary strata land-register for that lot may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
 
+[46/2007]
+
 (5) Where an application has been made under subsection (2) and no objection has been filed under subsection (4), the Board shall, subject to subsection (9), approve the application and order that the lots and common property in the strata title plan be sold.
+
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (6) Where one or more objections have been filed under subsection (4), the Board shall, subject to subsection (9), after mediation, if any, approve the application made under subsection (2) and order that the lots and the common property in the strata title plan be sold unless, having regard to the objections, the Board is satisfied that —
 
@@ -1618,9 +1722,17 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (b) the proceeds of sale for any lot to be received by any objector, being a subsidiary proprietor, mortgagee or chargee, are insufficient to redeem any mortgage or charge in respect of the lot.
 
+[46/2007]
+
 (7) An order made under subsection (5) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4), be increased if the Board is satisfied that it would be just and equitable to do so.
 
+[13/2010 wef 15/07/2010]
+
+[46/2007]
+
 (8) The total sum ordered by the Board for all the objectors under subsection (7) shall be paid from the proceeds of sale of all the subsidiary proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each lot or $2,000 for each lot, whichever is the higher.
+
+[46/2007]
 
 (9) The Board shall not approve an application made under subsection (2) —
 
@@ -1636,9 +1748,19 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (ii) the sale and purchase agreement would require any subsidiary proprietor who has not agreed in writing to the sale to be a party to any arrangement for the development of the lots and the common property in the strata title plan; or
 
+[13/2010 wef 15/07/2010]
+
 (b) if the collective sale committee does not consent to any order made by the Board under subsection (7).
 
+[13/2010 wef 15/07/2010]
+
+[46/2007]
+
+[13/2010 wef 15/07/2010]
+
 (10) Where no objection has been filed under subsection (4), the determination under subsection (9) shall be made by the Board on the basis of the facts available to the Board.
+
+[46/2007]
 
 (11) Where a Board has made an order for the sale of the lots and the common property in the strata title plan —
 
@@ -1646,15 +1768,31 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (b) the Registrar shall enter a notification of the vesting of the reversionary interest in the purchaser on the subsidiary strata land-register.
 
+[46/2007]
+
+[13/2010 wef 15/07/2010]
+
 (12) The subsidiary proprietors of the lots who have not agreed in writing to the sale, the subsidiary proprietor in reversion and any mortgagee, chargee or other person with an estate or interest in those lots, where applicable, shall produce the subsidiary strata certificates of title for the lots to the person having conduct of the sale, the representatives appointed under section 84A(2) or to their solicitors.
+
+[46/2007]
 
 (13) If the subsidiary strata certificates of title for the lots are not produced under subsection (12), the person having conduct of the sale shall not be required to produce to the purchaser any subsidiary strata certificate of title other than a certified true copy thereof.
 
+[46/2007]
+
 (14) Where the subsidiary proprietor in reversion has granted leases for some but not all the lots in the strata title plan, he shall be deemed to have transferred his estate and interest in the lots still owned by him to the purchaser upon registration by the Registrar of the transfers of the other lots in the strata title plan and the Registrar shall enter a notification of the vesting of the lots in the purchaser on the subsidiary strata land-register.
+
+[46/2007]
 
 (15) The Registrar may dispense with production of the subsidiary strata certificates of title for the lots still owned by the subsidiary proprietor in reversion for the purposes of subsections (11) and (14).
 
+[46/2007]
+
 (16) Sections 84A(1A), (2), (3), (5), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+
+[13/2010 wef 15/07/2010]
+
+[46/2007]
 
 (17) In this section —
 
@@ -1662,13 +1800,17 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 “subsidiary proprietor in reversion” means the lessor of the registered lease under subsection (1) and includes a successor in title.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 ### Collective sale by all subsidiary proprietors who own registered leasehold tenure of at least 850 years or other tenure
 
 84FB\.—(1) This section shall apply where there are subsisting leases registered under the Land Titles Act (Cap. 157) of all or some of the lots in a strata title plan for a leasehold tenure of 850 years or more or for such other tenure as the Minister may, by notification in theGazette, specify.
 
+[46/2007]
+
 (2) Where the subsidiary proprietors of all the lots in the strata title plan to which this section applies agree in writing under a sale and purchase agreement to sell all their lots and common property to a purchaser (whether in cash or kind or both), they shall serve a notice on the subsidiary proprietor in reversion of the leasehold estate and every mortgagee, chargee or other person with an estate or interest in land and whose interest is notified on the land-register at least 21 days before the date of the first transfer of any such lot informing them of the transfer under subsection (4).
+
+[46/2007]
 
 (3) Notice under subsection (2) shall be given by —
 
@@ -1678,25 +1820,37 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (c) affixing a copy of the notice in the 4 official languages to a conspicuous part of each building in the development.
 
+[46/2007]
+
 (4) The subsidiary proprietor in reversion of the leasehold estate referred to in subsection (2) shall be deemed to have transferred his estate and interest in the lots to the purchaser without consideration upon the registration by the Registrar of the transfers of all the lots in the strata title plan and the Registrar shall enter a notification of the vesting of the land in the purchaser on the land-register.
+
+[46/2007]
 
 (5) A notice sent by registered post under this section to the subsidiary proprietor in reversion of the leasehold estate, his mortgagee, chargee or other person with an estate or interest in land and whose interest is notified on the land-register at its last registered address in the case of a company registered under the Companies Act (Cap. 50) or otherwise at its last recorded address at the Land Titles Registry shall be deemed to be duly served on the person to whom it is addressed 2 days after the day on which the notice was posted, notwithstanding the fact that the letter may be returned by the post office as undelivered.
 
+[46/2007]
+
 (6) When the transfers of the lots to which this section applies are lodged for registration with the Registrar, the solicitors acting for the subsidiary proprietors of the lots shall certify in such form as the Registrar may determine that the provisions of this section have been complied with, and the certificate in favour of the purchaser and the Registrar shall be conclusive evidence of the facts stated therein.
 
-(7) Section 84FA(12), (13), to (15) and (17) shall apply, with the necessary modifications, to all the lots in a strata title plan to which this section applies.
+[46/2007]
 
-[46/2007 wef 04/10/2007]
+(7) Section 84FA(12), (13), (15) and (17) shall apply, with the necessary modifications, to all the lots in a strata title plan to which this section applies.
 
-### Application of Building Maintenance and Strata Management Act 2004
+[46/2007; 30/2008]
 
-84G\. Part VI of the Building Maintenance and Strata Management Act 2004 and any regulations made under that Act shall apply in respect of applications under this Part with the necessary modifications.
+### Application of Building Maintenance and Strata Management Act
 
-[47/2004 wef 01/04/2005]
+84G\. Part VI of the Building Maintenance and Strata Management Act (Cap. 30C) and any regulations made under that Act shall apply in respect of applications under this Part with the necessary modifications.
+
+[47/2004]
 
 ## PART VI
 
-[Repealed by Act 47 of 2004 wef 01/04/2005]
+STRATA TITLES BOARDS
+
+[85. to 114. (Repealed by Act 47 of 2004]
+
+## PART VII
 
 GENERAL
 
@@ -1706,11 +1860,9 @@ GENERAL
 
 [16/87]
 
-116\. [Repealed by Act 47/2004 wef 01/04/2005]
+116\. [Repealed by Act 47 of 2004]
 
-117\. [Repealed by Act 47/2004 wef 01/04/2005]
-
-118\. [Repealed by Act 47/2004 wef 01/04/2005]
+118\. [Repealed by Act 47 of 2004]
 
 ### Service of documents on management corporation, subsidiary proprietors and others
 
@@ -1720,11 +1872,11 @@ GENERAL
 
 (2) A document other than a document referred to in subsection (1) may be served on a management corporation —
 
-(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation under section 7section 28 of the Building Maintenance and Strata Management Act 2004; or
+(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation under section 28 of the Building Maintenance and Strata Management Act (Cap. 30C); or
 
 (b) by sending it, by registered post, to the management corporation at its address recorded on the folio of the land-register comprising the common property.
 
-[16/87]
+[16/87; 47/2004]
 
 (3) Subject to the provisions of this Act, a notice or other document required or authorised by this Act or the by-laws to be served by a management corporation, a council or the secretary of a council on a proprietor, subsidiary proprietor, lessee, mortgagee or occupier of a lot may be served —
 
@@ -1738,15 +1890,19 @@ GENERAL
 
 (c) in the case of a subsidiary proprietor, by affixing the notice on the front door of his lot.
 
+[47/2004]
+
 (4) Section 60A of the Land Titles Act (Cap. 157) shall apply to the service of documents on a management corporation and a subsidiary proprietor.
 
-[16/87]
+[16/87; 42/2005]
 
 (5) This section shall not apply to notices served in proceedings in the court.
 
 [16/87]
 
-120\. [Repealed by Act 47/2004 wef 01/04/2005]
+Breaches of provisions of Part IV
+
+120\. [Repealed by Act 47 of 2004]
 
 ### Legal proceedings
 
@@ -1766,7 +1922,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 122\.—(1) A registered lessee may by an application in the approved form apply to the Registrar for the issue of a subsidiary certificate of title in respect of the registered leasehold estate to his flat.
 
-[16/87; S143/89]
+[16/87; S143/89; 42/2005]
 
 (2) The registered lessee shall at the time of making his application surrender his duplicate lease to the Registrar.
 
@@ -1776,7 +1932,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (4) The subsidiary certificate of title shall be in the approved form and upon its issue any assurance or other dealing affecting the leasehold estate comprised therein shall be subject to the Land Titles Act (Cap. 157).
 
-[16/87; S143/89]
+[16/87; S143/89; 42/2005]
 
 ### Flats sold by Housing and Development Board
 
@@ -1784,11 +1940,9 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [16/87]
 
-(2) Where a strata title application for a parcel is lodged by the Housing and Development Board with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and section 10A and Parts V and VIII and the Building Maintenance and Strata Management Act 2004 shall apply to each and every subdivided building comprised in the registered strata title plan for that parcel.
+(2) Where a strata title application for a parcel is lodged by the Housing and Development Board with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and section 10A and Part V and this Part and the Building Maintenance and Strata Management Act (Cap. 30C) shall apply to each and every subdivided building comprised in the registered strata title plan for that parcel.
 
-[37/2004 wef 31/03/2005]
-
-[47/2004 wef 01/04/2005]
+[37/2004; 47/2004]
 
 ### Flats sold by Jurong Town Corporation
 
@@ -1796,11 +1950,9 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [16/87]
 
-(2) Where a strata title application for a parcel is lodged by the Jurong Town Corporation with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and section 10A and Parts V and VIII and the Building Maintenance and Strata Management Act 2004 shall apply to each and every subdivided building comprised in the registered strata title plan for that parcel.
+(2) Where a strata title application for a parcel is lodged by the Jurong Town Corporation with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and section 10A and Part V and this Part and the Building Maintenance and Strata Management Act (Cap. 30C) shall apply to each and every subdivided building comprised in the registered strata title plan for that parcel.
 
-[37/2004 wef 31/03/2005]
-
-[47/2004 wef 01/04/2005]
+[37/2004; 47/2004]
 
 ### Subsidiary strata certificates of title for flats with registered leases under Registration of Deeds Act
 
@@ -1810,15 +1962,15 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (b) for the issue of subsidiary strata certificates of title for all those flats.
 
-[16/87]
+[16/87; 37/2004]
 
 (2) A strata title application submitted to the Registrar under subsection (1) —
 
-(a) shall be accompanied by a transfer of the proprietor’s estate and interest in the land to the proprietors of all the flats in that building as tenants-in-common in the shares according to the ratio of one share to each flat, except that where the flats are of different sizes, the share in the land allotted to the proprietor of each flat shall have the value determined by the Registrar based on the methods used by the Commissioner for the allocation of share values under the Building Maintenance and Strata Management Act 2004; and
+(a) shall be accompanied by a transfer of the proprietor’s estate and interest in the land to the proprietors of all the flats in that building as tenants-in-common in the shares according to the ratio of one share to each flat, except that where the flats are of different sizes, the share in the land allotted to the proprietor of each flat shall have the value determined by the Registrar based on the methods used by the Commissioner for the allocation of share values under the Building Maintenance and Strata Management Act; and
 
 (b) shall not be registered unless the strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-[37/2004 wef 31/03/2005]
+[37/2004; 47/2004]
 
 (3) The Registrar may, upon acceptance of the application, dispense with the production of the leases of the flats.
 
@@ -1830,9 +1982,9 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (5) Notwithstanding subsections (1) to (4), the Registrar may, in order to relieve any case of extreme hardship, in his discretion, issue any subsidiary strata certificate of title in favour of a purchaser of a flat whose assignment of the leasehold estate of the flat has been duly stamped and lodged with the Registrar of Deeds, notwithstanding that the name of the purchaser was not shown in the transfer lodged under subsection (2).
 
-(6) Where the proprietors of the flats who altogether own not less than 25% of the total number of the flats as shown in the records of the Registry of Deeds as at the date of transfer mentioned in subsection (2) have agreed in writing to accept the transfer of the estate and interest of the proprietor of the land, all the proprietors of the flats within the same development and all the respective successors-in-title or assigns shall be deemed to have accepted the transfer of the proprietor’s estate and interest in the land and to have given consent to the application for the issue of the subsidiary strata certificates of title by the Registrar and the acceptance of the transfer of the proprietor’s estate and interest in the land.
+(6) Where the proprietors of the flats who altogether own not less than 25% of the total number of the flats as shown in the records of the Registry of Deeds as at the date of transfer mentioned in subsection (2) have agreed in writing to accept the transfer of the estate and interest of the proprietor of the land, all the proprietors of the flats within the same development and all the respective successors in title or assigns shall be deemed to have accepted the transfer of the proprietor’s estate and interest in the land and to have given consent to the application for the issue of the subsidiary strata certificates of title by the Registrar and the acceptance of the transfer of the proprietor’s estate and interest in the land.
 
-(7) The proprietor of the land shall deposit with the Registrar the title deeds in his possession relating to the land and the Registrar may, after inspection of the title deeds, create a folio of the land-register by issuing a certificate of title for the land on which the flats are erected.
+(7) The proprietor of the land shall deposit with the Registrar the title deeds in his possession relating to the land and the Registrar may, after inspection of the title deeds, create a folio of the land- register by issuing a certificate of title for the land on which the flats are erected.
 
 (8) Where the Registrar is satisfied with the evidence of title and that all the necessary documents are in order, the Registrar may issue subsidiary strata certificates of title for the flats after the publication of the notice referred to in subsection (4).
 
@@ -1852,7 +2004,11 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (f) issuing notices to the proprietors of the flats under subsection (4)(b).
 
-(11) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (10) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39(3) of the Building Maintenance and Strata Management Act 2004.
+[46/2007]
+
+(11) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (10) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39 of the Building Maintenance and Strata Management Act (Cap. 30C).
+
+[47/2004]
 
 (12) For the purposes of this section, where the registered proprietor of the land on which the building is erected has granted leases for some but not all of the flats in the building, he shall be deemed a proprietor of the flats which are still owned by him.
 
@@ -1860,13 +2016,13 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 ### Subsidiary strata certificates of title for flats where proprietors own leasehold estate of at least 999 years or other estate
 
-125A\.—(1) Where the subsisting leases of the flats registered under the Registration of Deeds Act (Cap. 269) or the Land Titles Act are for a leasehold estate of 999 years or more or for such other estate as the Minister may, by notification in theGazette, specify and where the proprietors of those flats who altogether own not less than 25% of the total number of flats in the development have agreed to have the land brought under the Land Titles Act and for the issue of subsidiary strata certificates of title for all the flats, the proprietor of the land shall be deemed to have agreed to the transfer of the land without consideration to the proprietors of the flats in the shares as specified in section 125(2)(a) or section 126(1) or (2), as the case may be.
+125A\.—(1) Where the subsisting leases of the flats registered under the Registration of Deeds Act (Cap. 269) or the Land Titles Act are for a leasehold estate of 999 years or more or for such other estate as the Minister may, by notification in theGazette, specify and where the proprietors of those flats who altogether own not less than 25% of the total number of flats in the development have agreed to have the land brought under the Land Titles Act (Cap. 157) and for the issue of subsidiary strata certificates of title for all the flats, the proprietor of the land shall be deemed to have agreed to the transfer of the land without consideration to the proprietors of the flats in the shares as specified in section 125(2)(a) or 126(1) or (2), as the case may be.
 
 [21/99]
 
 (2) The proprietors of the flats referred to in subsection (1) shall serve a notice on the proprietor of the land and the subsisting mortgagees, chargees or other persons with an estate or interest in land who appear as such in the records of the Land Titles Registry or the Registry of Deeds, as the case may be, at least one month before the date of the strata title application is filed with the Registrar, informing them of the transfer under subsection (1).
 
-[21/99]
+[21/99; 37/2004]
 
 (3) Section 125 or 126, as the case may be, shall, except the provisions relating to the transfer of the land by the registered proprietors, continue to apply to the proprietors of the flats referred to in subsection (1).
 
@@ -1874,19 +2030,21 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (4) Upon registration of the strata title application for the development and the issue of subsidiary strata certificates of title for the flats in the development, the estate and interest of the registered proprietor in the land shall vest in the subsidiary proprietors.
 
-[21/99]
+[21/99; 37/2004]
 
 ### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Land Titles Act
 
-126\.—(1) Where there are subsisting leases of flats registered under the Land Titles Act (Cap. 157), the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the development together with the registered proprietor of the land on which the said development is erected may lodge with the Registrar a transfer of the estate and interest of the registered proprietor of the land to all the registered proprietors of the flats as tenants-in-common in the shares according to the ratio of one share to each flat together with a strata title application in the approved form.
+126\.—(1) Where there are subsisting leases of flats registered under the Land Titles Act, the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the development together with the registered proprietor of the land on which the said development is erected may lodge with the Registrar a transfer of the estate and interest of the registered proprietor of the land to all the registered proprietors of the flats as tenants-in-common in the shares according to the ratio of one share to each flat together with a strata title application in the approved form.
 
-[16/87]
+[16/87; 37/2004; 42/2005]
 
-(2) Where the flats in the development are of different sizes, the shares in the land to be allotted to the registered proprietor of each flat shall have the values determined by the Registrar based on the methods used by the Commissioner for the allocation of share values under the Building Maintenance and Strata Management Act 2004.
+(2) Where the flats in the development are of different sizes, the shares in the land to be allotted to the registered proprietor of each flat shall have the values determined by the Registrar based on the methods used by the Commissioner for the allocation of share values under the Building Maintenance and Strata Management Act (Cap. 30).
+
+[37/2004; 47/2004; 42/2005]
 
 (3) A strata title application submitted under subsection (1) shall not be registered unless the strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (4) The Registrar may, upon being satisfied that the transfer and the strata title application are in order —
 
@@ -1896,11 +2054,11 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (c) dispense with the production of the duplicate leases of the flats.
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (5) Where the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the development have agreed in writing to accept the transfer of all the estate and interest of the registered proprietor in the land on which the development is erected, all the remaining registered proprietors of the flats in the same development shall be deemed to have accepted the transfer and deemed to have applied for the issue of subsidiary strata certificates of title for the flats.
 
-[42/2005 wef 01/01/2006]
+[42/2005]
 
 (6) Before issuing subsidiary strata certificates of title in favour of the registered proprietors of the flats as shown in the records of the Land Titles Registry, the Registrar shall —
 
@@ -1924,11 +2082,15 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (e) issuing notices to the proprietors of the flats under subsection (6)(b).
 
-(10) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (9) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39(3) of the Building Maintenance and Strata Management Act 2004.
+[42/2005; 46/2007]
+
+(10) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (9) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39 of the Building Maintenance and Strata Management Act (Cap. 30C).
+
+[47/2004]
 
 (11) For the purposes of this section, where the registered proprietor of the land on which the development is erected has granted leases for some of but not all the flats in the development, he shall be deemed the registered proprietor of the flats which are still owned by him.
 
-[16/87]
+[16/87; 42/2005]
 
 ### Application of section 126 to land vested in Housing and Development Board and HUDC dwellings
 
@@ -1942,7 +2104,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (d) any lease of such land issued by the Board under section 45(1) of the HUDC Housing Estates Act (Cap. 131) shall be deemed to have been surrendered by all the lessees to the Board on the day immediately before the date an instrument of transfer of such land is lodged under section 126(1).
 
-[27/95]
+[27/95; 46/2007]
 
 (2) In addition to its duties specified in section 126(9) and (10), the management corporation for any estate or interest in land transferred by the Board under an application under section 126(1) shall pay to the Board —
 
@@ -1962,27 +2124,27 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (5) For the purposes of paying the costs and interest referred to in subsections (2), (3) and (4), the management corporation shall determine the amount of contributions payable by the subsidiary proprietors who are members of the management corporation.
 
-(6) Any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39(3) of the Building Maintenance and Strata Management Act 2004.
+(6) Any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39 of the Building Maintenance and Strata Management Act (Cap. 30C).
 
-[27/95]
+[27/95; 47/2004]
 
 (6A) Subject to subsection (6B), in the application of section 84A(1)(a) or (b) to any designated land, any reference therein to the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan shall be read as a reference to the date of completion of the construction of the last building (not being any common property) comprised in the strata title plan as certified by the relevant authority.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (6B) In the application of section 84A(1)(a) or (b) to any designated land specified in the First Schedule to the HUDC Housing Estates Act (Cap. 131), any reference therein to the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan shall be read as a reference to the date of the issue of the Certificate of Fitness for any building (not being any common property) comprised in the strata title plan.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (6C) A certificate purporting to be under the hand of an officer of the relevant authority specifying the date of completion of the construction of the last building (not being any common property) comprised in the strata title plan referred to in subsection (6A), shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 (7) In this section and section 126B —
 
 “Board” means the Housing and Development Board constituted under the Housing and Development Act (Cap. 129);
 
-“designated land” means any land or housing estate vested in the Board which the Minister, by notification in theGazette, designates as land to which section 126A applies;
+“designated land” means any land or housing estate vested in the Board which the Minister, by notification in theGazette, designates as land to which this section applies;
 
 “owner”, in relation to any flat, means —
 
@@ -1990,7 +2152,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (b) in any other case, the Board.
 
-[27/95]
+[27/95; 38/2002]
 
 ### Application of HUDC Housing Estates Act and Housing and Development Act after registration of strata title application or issue of subsidiary strata certificates of title
 
@@ -2004,19 +2166,19 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (d) all by-laws relating to the land under the provisions of the HUDC Housing Estates Act (Cap. 131) shall cease to have any force or effect in relation to that land but without prejudice to any right or liability accruing or legal proceedings instituted prior to the registration of the strata title application;
 
-(e) any contribution levied by such body corporate under the provisions of the HUDC Housing Estates Act and unpaid on the registration of the strata title application may be recovered by the new management corporation as if it were a contribution levied by the new management corporation under the Building Maintenance and Strata Management Act (Cap. 30C);
+(e) any contribution levied by such body corporate under the provisions of the HUDC Housing Estates Act and unpaid on the registration of the strata title application may be recovered by the new management corporation as if it were a contribution levied by the new management corporation under the Building Maintenance and Strata Management Act;
 
-(f) any charge constituted upon a flat in favour of such body corporate under the provisions of the HUDC Housing Estates Act in connection with any unpaid contributions shall be deemed to be a charge constituted upon the lot corresponding to that flat in favour of the new management corporation under the Building Maintenance and Strata Management Act (Cap. 30C);
+(f) any charge constituted upon a flat in favour of such body corporate under the provisions of the HUDC Housing Estates Act in connection with any unpaid contributions shall be deemed to be a charge constituted upon the lot corresponding to that flat in favour of the new management corporation under the Building Maintenance and Strata Management Act;
 
-(g) every fund which was, immediately before the registration of the strata title application, kept by such body corporate under the provisions of the HUDC Housing Estates Act, shall be deemed to be a fund required under the corresponding provisions of the Building Maintenance and Strata Management Act (Cap. 30C) to be established and maintained by the new management corporation; and
+(g) every fund which was, immediately before the registration of the strata title application, kept by such body corporate under the provisions of the HUDC Housing Estates Act, shall be deemed to be a fund required under the corresponding provisions of the Building Maintenance and Strata Management Act to be established and maintained by the new management corporation; and
 
-(h) any policy of insurance effected by such body corporate in relation to any building within the housing estate in accordance with the provisions of the HUDC Housing Estates Act and in force on the registration of the strata title application shall continue and deemed to have been effected under the Building Maintenance and Strata Management Act (Cap. 30C), and sections 70 and 71 of that Act shall not apply to or in respect of the new management corporation for that housing estate until the expiry of that policy.
+(h) any policy of insurance effected by such body corporate in relation to any building within the housing estate in accordance with the provisions of the HUDC Housing Estates Act and in force on the registration of the strata title application shall continue and deemed to have been effected under the Building Maintenance and Strata Management Act, and sections 70 and 71 of that Act shall not apply to or in respect of the new management corporation for that housing estate until the expiry of that policy.
 
-[27/95]
+[27/95; 47/2004; 46/2007; 30/2008]
 
 (2) In the case of flats built on designated land which have been sold under Part IV of the Housing and Development Act (Cap. 129), the provisions of Part IV of that Act shall cease to apply in relation to such flats upon the registration of the strata title application in respect of such designated land.
 
-[27/95]
+[27/95; 46/2007]
 
 (3) The Minister may, for the purposes of facilitating any transfer of designated land or the issue of subsidiary strata certificates of title for the flats comprised in any building on such land, make regulations containing such other transitional, consequential or savings provisions as may appear necessary or expedient to the Minister.
 
@@ -2026,11 +2188,11 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 127\.—(1) Where there are subsisting leases of flats registered under the provisions of the Registration of Deeds Act (Cap. 269) and the registered estate or interest in the land on which the flats are erected is vested, subject to the provisions of the Land Titles Act (Cap. 157), in the lessees of the flats as tenants-in-common in the shares shown in the land-register, the registered lessees of those flats who altogether own not less than 25% of the total number of those flats may lodge with the Registrar a strata title application in the approved form.
 
-[16/87]
+[16/87; 37/2004]
 
 (2) A strata title application submitted under subsection (1) shall not be registered unless the strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-[37/2004 wef 31/03/2005]
+[37/2004]
 
 (3) The Registrar may, upon acceptance of the application, dispense with the production of the leases of the flats.
 
@@ -2040,9 +2202,13 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (b) send by registered post a copy of the notice referred to in paragraph (a) to the registered lessees of all the flats at the addresses shown in the records of the Registry of Deeds or the Land Titles Registry.
 
+[42/2005]
+
 (5) Where the Registrar is satisfied that all the necessary documents are in order, the Registrar may issue subsidiary strata certificates of title for the flats after the publication of the notice referred to in subsection (4).
 
-(6) Any subsidiary strata certificate of title issued by the Registrar under subsection (5) may be qualified as to its title or their boundaries and dimensions, and sections 25 and 165 of the Land Titles Act (Cap. 157) shall apply, with the necessary modifications, to such subsidiary strata certificate of title.
+(6) Any subsidiary strata certificate of title issued by the Registrar under subsection (5) may be qualified as to its title or its boundaries and dimensions, and sections 25 and 165 of the Land Titles Act (Cap. 157) shall apply, with the necessary modifications, to such subsidiary strata certificate of title.
+
+[46/2007]
 
 (7) Upon the registration of the strata title application, the management corporation of the parcel of land shall reimburse the person or persons who incurred any expenditure for the purpose of —
 
@@ -2054,21 +2220,25 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 (d) issuing notices to the registered lessees of the flats under subsection (4)(b).
 
-(8) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (7) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39(3) of the Building Maintenance and Strata Management Act 2004.
+[46/2007]
 
-[16/87]
+(8) It shall be the duty of the management corporation to determine the amount of contributions payable by the subsidiary proprietors of the lots in the subdivided building concerned to its management fund to meet the expenditure referred to in subsection (7) and any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39 of the Building Maintenance and Strata Management Act (Cap. 30C).
+
+[16/87; 47/2004]
 
 ### Effect of issue of qualified certificate of title and of subsidiary strata certificates of title
 
-128\.—(1) Upon the issue of a qualified certificate of title for the land under section 125, the provisions of the Land Titles Act relating to a qualified certificate of title shall apply to the land comprised therein.
+128\.—(1) Upon the issue of a qualified certificate of title for the land under section 125, the provisions of the Land Titles Act (Cap. 157) relating to a qualified certificate of title shall apply to the land comprised therein.
 
-[16/87]
+[16/87; 42/2005]
 
 (2) Upon the issue of the subsidiary strata certificates of title for the flats under section 125, 125A, 126, 126A or 127, all the provisions of the leases of the flats registered under the provisions of the Registration of Deeds Act (Cap. 269) and the Land Titles Act shall cease to apply to the flats except in respect of any terms, covenants and conditions which were subsisting prior to the date of the issue of the subsidiary strata certificates of title in so far as they relate to any obligations which have yet to be fulfilled or any cause of action which had arisen as between the registered proprietors of the flats themselves and as between the registered proprietors of the flats and the registered proprietors of the land on which the flats are erected.
 
-[16/87]
+[16/87; 42/2005]
 
-129\. [Deleted by Act 38/2002 wef 01/01/2003]
+Exemption from stamp duty
+
+129\. [Repealed by Act 38 of 2002]
 
 ## PART IX
 
@@ -2078,29 +2248,15 @@ MISCELLANEOUS
 
 130\.—(1) Subject to section 131, the Authority, with the approval of the Minister, may make regulations not inconsistent with this Act for giving effect to the provisions of this Act.
 
+[17/2001]
+
 (2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister, may make regulations with respect to —
 
-(a) [Deleted by Act 47/2004 wef 01/04/2005]
+(a) the fees to be paid in respect of lodgment and registration of plans and documents under this Act;
 
-(b) [Deleted by Act 47/2004 wef 01/04/2005]
+(b) any matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
-(c) [Deleted by Act 47/2004 wef 01/04/2005]
-
-(d) [Deleted by Act 47/2004 wef 01/04/2005]
-
-(e) [Deleted by Act 46/2007 wef 04/10/2007]
-
-(f) [Deletd by Act 17/2001 wef 01/06/2001]
-
-(g) [Deletd by Act 17/2001 wef 01/06/2001]
-
-(h) the fees to be paid in respect of lodgment and registration of plans and documents under this Act;
-
-(i) [Deleted by Act 47/2004 wef 01/04/2005]
-
-(j) any matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
-
-[16/87]
+[16/87; 17/2001; 47/2004; 46/2007]
 
 ### Regulations made by, and fees to be paid to, Authority
 
@@ -2110,9 +2266,11 @@ MISCELLANEOUS
 
 (b) the lodgment and registration of plans under this Act.
 
+[17/2001]
+
 (2) All prescribed fees collected under or in connection with any service provided by the Registrar under this Act shall be paid into the funds of the Authority.
 
-[17/2001 wef 01/06/2001]
+[17/2001]
 
 FIRST SCHEDULE
 
@@ -2136,13 +2294,13 @@ Requirements under Section 84A, 84D, 84E or 84FA
 
 within 4 weeks after the start of the permitted time and thereafter at intervals of not more than 4 weeks from the date of the last notice under this sub-paragraph;
 
-[46/2007 wef 04/10/2007]
+(c) ensure that the notice in sub-paragraph (b) does not include any subsidiary proprietor who has served or is entitled to serve a notice of rescission under paragraph 6 and that the notice in that sub-paragraph is certified by the advocate and solicitor appointed by the collective sale committee to be accurate;
 
-(c) ensure that the notice in sub-paragraph (b) does not include any subsidiary proprietor who has served or is entitled to serve a notice of rescission under paragraph 1E and that the notice in that sub-paragraph is certified by the advocate and solicitor appointed by the collective sale committee to be accurate;
-
-[46/2007 wef 04/10/2007]
+[S 365/2010 wef 16/07/2010]
 
 (d) advertise in the 4 official languages the particulars of the application in such local newspapers as approved by the Board;
+
+[S 365/2010 wef 16/07/2010]
 
 (e) serve notice of the proposed application on all the subsidiary proprietors of all the lots and common property in the strata title plan concerned and, if applicable, on the subsidiary proprietors in reversion of the leasehold estate in the lots, or on all the proprietors of all flats in the development concerned, as the case may be, by registered post enclosing a copy each of the following documents:
 
@@ -2152,41 +2310,21 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 (iii) a statutory declaration made by the purchaser under the sale and purchase agreement on the nature of his relationship (if any) or, if the purchaser is a body corporate, the nature of the relationship of every one of its directors (if any), to any subsidiary proprietor of any lot comprised in that strata title plan or any proprietor of any flat in the development, as the case may be;
 
-(iv) [Deleted by Act 46/2007 wef 04/10/2007]
+(iv) the advertisement referred to in sub-paragraph (d);
 
-(v) the advertisement referred to in sub-paragraph (d);
+(v) a valuation report from an independent valuer on the value of the development as at the date of the close of the public tender or auction; and
 
-(vi) a valuation report from an independent valuer on the value of the development as at the date of the close of the public tender or auction; and
+(vi) a report by an independent valuer on the proposed method of distributing the proceeds of the sale due under the sale and purchase agreement;
 
-[46/2007 wef 04/10/2007]
+[13/2010 wef 15/07/2010]
 
-(vii) a report by an independent valuer on the proposed method of distributing the proceeds of the sale due under the sale and purchase agreement;
+(f) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying them of the proposed application, the notice sent under sub-paragraph (e) and the address to which it was sent, and that copies of the documents in that sub-paragraph may also be obtained from the marketing agent or the collective sale committee;
 
-(ea) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying them of the proposed application, the notice sent under sub-paragraph (e) and the address to which it was sent, and that copies of the documents in that sub-paragraph may also be obtained from the marketing agent or the collective sale committee;
+(g) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying the lessees of the subsidiary proprietors or proprietors of the proposed application and of their right to file an application to the Board to determine the amount of compensation payable under the lease; and
 
-[46/2007 wef 04/10/2007]
+(h) affix a copy of the notice referred to in sub-paragraph (e), without the enclosed documents, in the 4 official languages to a conspicuous part of each building comprised in the strata title plan or the development, as the case may be.
 
-(eb) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying the lessees of the subsidiary proprietors or proprietors of the proposed application and of their right to file an application to the Board to determine the amount of compensation payable under the lease; and
-
-[46/2007 wef 04/10/2007]
-
-(f) affix a copy of the notice referred to in sub-paragraph (e) , without the enclosed documents, in the 4 official languages to a conspicuous part of each building comprised in the strata title plan or the development, as the case may be.
-
-[S 243/2004 wef 01/05/2004]
-
-1A. For the purposes of this Schedule —
-
-(a) the permitted time in relation to a collective sale agreement executed or to be executed by subsidiary proprietors or proprietors referred to in section 84A(1), 84D(2), 84E(3) or 84FA(2), means a period —
-
-(i) starting from the date the first subsidiary proprietor or proprietor, or his duly appointed attorney, as the case may be, signs the collective sale agreement; and
-
-(ii) ending not more than 12 months after the date the first subsidiary proprietor or proprietor, or his duly appointed attorney, as the case may be, signs the collective sale agreement; and
-
-(b) the collective sale agreement shall be regarded as executed notwithstanding that it is executed on separate copies thereof and at different times.
-
-[S 243/2004 wef 01/05/2004]
-
-1B. The collective sale committee shall provide a preface to the collective sale agreement stating the clause numbers and page numbers in which the following information are found:
+3. The collective sale committee shall provide a preface to the collective sale agreement stating the clause numbers and page numbers in which the following information are found:
 
 (a) the reserve price for the development;
 
@@ -2200,29 +2338,27 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 (f) the date of delivery of vacant possession of the lot or flat.
 
-[46/2007 wef 04/10/2007]
+4. The collective sale agreement shall be signed by the subsidiary proprietor, and, if signed in Singapore, in the presence of an advocate and solicitor who has a valid practising certificate appointed by the collective sale committee .
 
-1C. The collective sale agreement shall be signed by the subsidiary proprietor, and, if signed in Singapore, in the presence of an advocate and solicitor who has a valid practising certificate appointed by the collective sale committee.
+[S 365/2010 wef 16/07/2010]
 
-[46/2007 wef 04/10/2007]
+5\. The collective sale agreement shall be accompanied by a notice, in the prescribed form, that may be used by the subsidiary proprietor to rescind his agreement to be a party to the collective sale agreement.
 
-1D. The collective sale agreement shall be accompanied by a notice, in the prescribed form, that may be used by the subsidiary proprietor to rescind his agreement to be a party to the collective sale agreement.
+7. The notice of rescission shall be signed by the subsidiary proprietor and shall be served personally on the advocate and solicitor appointed by the collective sale committee before 5 p.m. on the last day of the cooling-off period.
 
-[46/2007 wef 04/10/2007]
+[S 365/2010 wef 16/07/2010]
 
-1E. A subsidiary proprietor may rescind his agreement to be a party to the collective sale agreement by serving a notice of rescission referred to in paragraph 1D within the cooling-off period which shall be a period of 5 days (excluding any day which is a Saturday, Sunday or public holiday) after the day on which the collective sale agreement was signed by him.
+8\. A subsidiary proprietor shall not be entitled to serve a notice of rescission more than once for the same collective sale agreement.
 
-[46/2007 wef 04/10/2007]
+9. The advertisement referred to in paragraph 1(d) shall include —
 
-1F. The notice of rescission shall be signed by the subsidiary proprietor and shall be served personally on the advocate and solicitor appointed by the collective sale committee before 5 p.m. on the last day of the cooling-off period.
+(a) information on the development;
 
-[46/2007 wef 04/10/2007]
+(b) brief details of the sale proposal; and
 
-1G. A subsidiary proprietor shall not be entitled to serve a notice of rescission more than once for the same collective sale agreement.
+(c) the place at which the affected parties can inspect documents for the collective sale.
 
-[46/2007 wef 04/10/2007]
-
-2. The notice referred to in paragraph 1(e) to be served by registered post shall be served on the affected parties —
+10. The notice referred to in paragraph 1(e) to be served by registered post shall be served on the affected parties —
 
 (a) where the party is a subsidiary proprietor of a lot in the strata title plan, at the address as shown on the strata roll;
 
@@ -2230,27 +2366,11 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 (c) where the party is a mortgagee, chargee or other person with an estate and interest in the lot or flat whose interest is notified on the land-register or a subsidiary proprietor in reversion of the leasehold estate in a lot, his mortgagee, chargee or other person with an estate or interest in the lot and whose interest is notified on the subsidiary strata land-register, at the address on the strata roll or last recorded address at the Land Titles Registry or Registry of Deeds, as the case may be, provided that where such mortgagee, chargee, subsidiary proprietor in reversion or other person has an estate or interest in more than one lot or flat whose interest is notified on the land-register or subsidiary strata land-register, a single notice referring to the affected lots or flats and their respective subsidiary proprietors or proprietors shall suffice; and
 
-[46/2007 wef 04/10/2007]
-
 (d) where the party is a management corporation, at its address recorded on the folio of the land-register comprising the common property.
 
-3. The advertisement referred to in paragraph 1(d) shall include —
-
-(a) information on the development;
-
-(b) [Deleted by Act 46/2007 wef 04/10/2007]
-
-(c) [Deleted by Act 46/2007 wef 04/10/2007]
-
-(d) brief details of the sale proposal; and
-
-(e) the place at which the affected parties can inspect documents for the collective sale.
-
-4. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1(d), enclosing —
+11. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1(d), enclosing —
 
 (a) the documents specified in paragraph 1(e);
-
-[S 243/2004 wef 01/05/2004]
 
 (b) a statutory declaration made by the representatives appointed under section 84A(2) or their solicitors stating —
 
@@ -2260,37 +2380,33 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 (iii) the date or dates on which the notice or notices referred to in paragraph 1(b) were affixed; and
 
-(iv) that sub-paragraphs (c), (d), (e) and (f) of paragraph 1 have been complied with;
-
-[S 243/2004 wef 01/05/2004]
+(iv) that sub-paragraphs (c), (d), (e) and (h) of paragraph 1 have been complied with;
 
 (c) a list of the names of the subsidiary proprietors or proprietors who have not agreed in writing to the sale, their mortgagees, chargees, the subsidiary proprietors in reversion of the leasehold estate in the lots and other persons (other than lessees) with an estate or interest in the lots or flats whose interests are notified on the land-register or subsidiary strata land-register; and
 
-[46/2007 wef 04/10/2007]
-
 (d) such other document as the Board may require.
 
-5\. The Board shall, within 5 days of the filing of an objection, serve a copy of it by registered post on the representatives appointed under section 84A(2) and their solicitors, if any.
+12\. The Board shall, within 5 days of the filing of an objection, serve a copy of it by registered post on the representatives appointed under section 84A(2) and their solicitors, if any.
 
-6\. The subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) shall, after making an application to the Board, cause a copy of the application to be registered under the Act, the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), as the case may be.
+13. The subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) shall, after making an application to the Board, cause a copy of the application to be registered under this Act, the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), as the case may be.
 
-7\. The subsidiary proprietors or proprietors referred to in paragraph 6 shall, if an order for sale is granted by the Board under section 84A, 84D, 84E or 84FA, register the order of the Board in accordance with the Act, the Land Titles Act or the Registration of Deeds Act (Cap. 269), as the case may be, or if the order for sale is not granted by the Board, apply to cancel the application registered under paragraph 6.
+[13/2010 wef 15/07/2010]
 
-8. For the purposes of this Schedule, “affected parties” means —
+14\. The subsidiary proprietors or proprietors referred to in paragraph 13 shall, if an order for sale is granted by the Board under section 84A, 84D, 84E or 84FA, register the order of the Board in accordance with this Act, the Land Titles Act or the Registration of Deeds Act, as the case may be, or if the order for sale is not granted by the Board, apply to cancel the application registered under paragraph 13.
+
+15. In this Schedule, “affected parties” means —
 
 (a) the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3);
 
 (b) the subsidiary proprietors of the lots or the proprietors of the flats who have not agreed in writing to the sale, and any mortgagee, chargee and other person (other than a lessee) with an estate or interest in the lot or flat whose interest is notified on the land-register;
 
-(c) the proprietor of the land under section 84E, his mortgagee, chargee or other person with an estate or interest in the land whose interest is notified on the land register;
+(c) the proprietor of the land under section 84E, his mortgagee, chargee or other person with an estate or interest in the land whose interest is notified on the land-register;
 
-(ca) the subsidiary proprietor in reversion of the leasehold estate in the lots under section 84FA, his mortgagee, chargee or other person with an estate or interest in the lots and whose interest is notified on the subsidiary strata land-register; and
+(d) the subsidiary proprietor in reversion of the leasehold estate in the lots under section 84FA, his mortgagee, chargee or other person with an estate or interest in the lots and whose interest is notified on the subsidiary strata land-register; and
 
-[46/2007 wef 04/10/2007]
+(e) the management corporation, where applicable.
 
-(d) the management corporation, where applicable.
-
-[21/99 wef 30/12/1999]
+[21/99; 47/2004; S243/2004; 46/2007]
 
 SECOND SCHEDULE
 
@@ -2312,11 +2428,15 @@ Convening of general meeting on requisition
 
 immediately proceed to convene a general meeting of the management corporation to be held as soon as practicable but in any case not later than 6 weeks after the receipt by the secretary of the requisition.
 
+[13/2010 wef 15/07/2010]
+
 (2) In the case of land in a development to which section 84D applies, any general meeting shall be convened by —
 
 (a) the proprietors of the flats who own not less than 20% share of the land; or
 
 (b) not less than 25% of the total number of proprietors of the flats.
+
+[13/2010 wef 15/07/2010]
 
 (3) In the case of land in a development to which section 84E applies, any general meeting shall be convened by —
 
@@ -2324,13 +2444,19 @@ immediately proceed to convene a general meeting of the management corporation t
 
 (b) not less than 25% of the total number of proprietors of the flats.
 
+[13/2010 wef 15/07/2010]
+
 (4) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered address of the management corporation, and may consist of several documents in like form each signed by one or more requisitionists.
 
 (5) If the council does not within 14 days after the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
 
+[13/2010 wef 15/07/2010]
+
 (6) Any reasonable expenses incurred by the requisitionists by reason of the failure of the council to convene a meeting shall be paid to the requisitionists by the management corporation.
 
 (7) In the case of land in a development to which section 84D or 84E applies, the general meeting may be convened by the proprietors referred to in sub-paragraph (2) or (3), as the case may be, in the same manner as nearly as possible as that in which meetings are to be convened.
+
+[13/2010 wef 15/07/2010]
 
 Notice of general meetings
 
@@ -2350,7 +2476,7 @@ Notice of general meetings
 
 (ii) either in person or by proxy at the meeting.
 
-(3) No motion shall be submitted at a general meeting unless ––
+(3) No motion shall be submitted at a general meeting unless —
 
 (a) notice of the motion has been given in accordance with this paragraph; or
 
@@ -2374,7 +2500,7 @@ Persons entitled to vote at general meetings
 
 (6) A subsidiary proprietor who is the trustee of a lot shall, subject to this Schedule, be entitled to cast a vote on any proposal submitted at a general meeting of a management corporation or on any election of members of the collective sale committee and the persons beneficially interested in the trust shall not be entitled to cast such a vote.
 
-(7) The voting rights conferred by this paragraph shall be subject to section 65(9) and (10) of the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004).
+(7) The voting rights conferred by this paragraph shall be subject to section 65(9) and (10) of the Building Maintenance and Strata Management Act (Cap. 30C).
 
 Quorum
 
@@ -2428,13 +2554,13 @@ Instrument of proxy
 
 (2) Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
-I/We, of being a member/members of the above-named management corporation, hereby appoint/appoints , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the general meeting of the management corporation, to be convened on the day of 20 , and at any adjournment thereof.
+I/We, .................................................... of being a member/members of the above-named management corporation, hereby appoint/appoints .................................... , of .........................................................., or failing him, of............................................................ , as my/our proxy to vote for me/us on my/our behalf at the general meeting of the management corporation, to be convened on the ............... day of ................... 20 ........., and at any adjournment thereof.
 
-Signed this day of 20
+Signed this .......... day of ........ 20 ....... .
 
-1This form is to be used in favour of/against the resolution.
+This form is to be used *in favour of/against the resolution.
 
-1Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.].
+*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 Proxy to be deposited at registered address of management corporation
 
@@ -2462,7 +2588,7 @@ Authority not to be revoked by death of principal, etc.
 
 16. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or unsoundness of mind of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, unsoundness of mind, revocation or transfer has been received by the management corporation at its registered address or such other place in Singapore referred to in paragraph 14 before the commencement of the meeting or adjourned meeting at which the instrument is used.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 THIRD SCHEDULE
 
@@ -2496,11 +2622,11 @@ Members of collective sale committee
 
 or such of his nominees, exceed the threshold number for that subsidiary proprietor determined in accordance with sub-paragraph (6).
 
-(5) Notwithstanding sub-paragraph (3) and without prejudice to sub-paragraph (4) ––
+(5) Notwithstanding sub-paragraph (3) and without prejudice to sub-paragraph (4) —
 
 (a) an undischarged bankrupt; or
 
-(b) a subsidiary proprietor of a lot whose contributions and other moneys levied or recoverable by the management corporation under the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004) in respect of that lot are in arrears,
+(b) a subsidiary proprietor of a lot whose contributions and other moneys levied or recoverable by the management corporation under the Building Maintenance and Strata Management Act (Cap. 30C) in respect of that lot are in arrears,
 
 shall be eligible for election as a member of a collective sale committee if, and only if, his status referred to in sub-paragraph (a) or (b) is declared in writing, whether by himself or by another, at the time of his nomination.
 
@@ -2550,7 +2676,7 @@ Vacation of office of member of collective sale committee
 
 (g) if the person becomes a mentally disordered person within the meaning of the Mental Disorders and Treatment Act (Cap. 178); or
 
-(h) if the person is convicted, on or after the date of commencement of this paragraph, by a court in Singapore or elsewhere of an offence involving fraud or dishonesty.
+(h) if the person is convicted, on or after 4th October 2007, by a court in Singapore or elsewhere of an offence involving fraud or dishonesty.
 
 Chairperson to preside at meetings
 
@@ -2575,6 +2701,8 @@ General meetings convened by collective sale committee
 (g) to consider the terms and conditions of the sale and purchase agreement.
 
 (2) The meeting under sub-paragraph (1)(a), (b) and (c) shall be convened before any subsidiary proprietor signs the collective sale agreement.
+
+[13/2010 wef 15/07/2010]
 
 (3) The meeting under sub-paragraph (1)(d) and (e) shall be convened after the subsidiary proprietors referred to in section 84A(1) or 84FA(2) have signed the collective sale agreement but before the launch for sale under paragraph 11.
 
@@ -2602,7 +2730,7 @@ Keeping of records
 
 (a) ensure that proper books of account are kept in respect of all sums of money received and expended for the purposes of a collective sale specifying the matters in relation to which the receipts and expenditure take place; and
 
-(b) on the application of a subsidiary proprietor or mortgagee of a lot (or any person authorised in writing by him) make the books of account available for inspection at all reasonable times.
+(b) on the application of a subsidiary proprietor or mortgagee of a lot (or any person authorised in writing by him), make the books of account available for inspection at all reasonable times.
 
 Acts of collective sale committee valid notwithstanding vacancy, etc.
 
@@ -2610,7 +2738,7 @@ Acts of collective sale committee valid notwithstanding vacancy, etc.
 
 (a) a vacancy in the office of a member of the collective sale committee; or
 
-(b) any defect in the appointment, or any disqualification of any such member,
+(b) any defect in the appointment or any disqualification of any such member,
 
 be as valid as if the vacancy, defect or disqualification did not exist and the collective sale committee were fully and properly constituted.
 
@@ -2630,25 +2758,23 @@ Termination of collective sale committee
 
 (b) upon the termination or expiry of the collective sale agreement.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 FOURTH SCHEDULE
 
 Section 84A(8)(a) and (c) and (14)
 
-Deductions
-
 Deductions Allowable by Board
 
-(1) Stamp duty paid on the purchase of the lot or flat\.
+1\. Stamp duty paid on the purchase of the lot or flat.
 
-(2) Legal fees paid in relation to the purchase of the lot or flat\.
+2\. Legal fees paid in relation to the purchase of the lot or flat.
 
-(3) Costs related to the privatisation of any designated land as defined in section 126A\.
+3\. Costs related to the privatisation of any designated land as defined in section 126A.
 
-(4) Costs incurred pursuant to the collective sale which are to be shared by all subsidiary proprietors or proprietors as provided under the collective sale agreement.
+4. Costs incurred pursuant to the collective sale which are to be shared by all subsidiary proprietors or proprietors as provided under the collective sale agreement.
 
-[46/2007 wef 04/10/2007]
+[46/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -2789,13 +2915,15 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 27/2008 published on 15 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|25.|**2009 Revised Edition—Land Titles (Strata) Act**|
+||Date of operation|31 July 2009|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
 
 (CHAPTER 158)
 
-The following provisions in the 1988 Revised Edition of the Land Titles (Strata) Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1988 Revised Edition of the Land Titles (Strata) Act were renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Land Titles (Strata) Act.
 
@@ -2905,7 +3033,7 @@ Omitted
 
 44 —(1) and (2)
 
-44 
+44
 
 62 —(7) and (7A)
 
@@ -2977,7 +3105,7 @@ Proviso to (1)
 
 88 —(1) and (2)
 
-88 
+88
 
 92 —(2)
 
@@ -2993,11 +3121,11 @@ Proviso to (1)
 
 107 —(1) and (2)
 
-107 
+107
 
 116 —(1) and (2)
 
-116 —(1)
+1 16 —(1)
 
 (3)
 
