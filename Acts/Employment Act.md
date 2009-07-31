@@ -222,6 +222,8 @@
 
 - [89 Sick leave](#Sick-leave)
 
+- [90 (Repealed)](#Repealed)
+
 [**Part XI (Repealed)**](#Part-XI)
 
 [**Part XII REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS**](#Part-XII)
@@ -344,9 +346,9 @@
 
 (Original Enactment: Act 17 of 1968)
 
-REVISED EDITION 1996
+REVISED EDITION 2009
 
-(30th April 1996)
+(31st July 2009)
 
 An Act relating to employment.
 
@@ -364,7 +366,9 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“approved medical institution” means a hospital, clinic, healthcare establishment or other medical institution which the Minister, by notification in theGazette, declares as an approved medical institution;
+“approved medical institution” means a hospital, clinic, healthcare establishment or other medical institution which the Minister, by notification in theGazette, declares as an approved medical institution1;
+
+1See section 48(1) of the Employment (Amendment) Act 2008 (Act 32 of 2008).
 
 “basic rate of pay” means the total amount of money (including wage adjustments and increments) to which an employee is entitled under his contract of service either for working for a period of time, that is, for one hour, one day, one week, one month or for such other period as may be stated or implied in his contract of service, or for each completed piece or task of work but does not include —
 
@@ -378,7 +382,7 @@ PRELIMINARY
 
 (e) any allowance however described;
 
-“collective agreement” means an agreement as defined under the Industrial Relations Act [Cap. 136];
+“collective agreement” means an agreement as defined under the Industrial Relations Act (Cap. 136);
 
 “confinement” means the delivery of a child;
 
@@ -452,7 +456,7 @@ PRELIMINARY
 
 (b) any other medical practitioner whom the Minister, by notification in theGazette, declares as a medical officer;
 
-“medical practitioner” means a medical practitioner registered under the Medical Registration Act [Cap. 174];
+“medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174);
 
 “overtime” means the number of hours worked in any one day or in any one week in excess of the limits specified in Part IV;
 
@@ -466,7 +470,7 @@ PRELIMINARY
 
 (b) an increase in the employee’s productivity or contribution to the employer’s business, trade or undertaking,
 
- but does not include any payment which forms part of the employee’s regular remuneration;
+but does not include any payment which forms part of the employee’s regular remuneration;
 
 “quarters” means any building provided or intended to be provided for a workman to live in either temporarily or permanently and includes any room or building used or intended to be used whether communally or privately for the purposes of cooking, eating, washing or bathing and any latrines and urinals;
 
@@ -504,13 +508,9 @@ Provided that when any person is employed by any one employer partly as a workma
 
 (d) any person specified in the First Schedule;
 
-(e) any person whom the Minister may, by notification in theGazette, declare to be a workman for the purposes of this Act;
+(e) any person whom the Minister may, by notification in theGazette, declare to be a workman for the purposes of this Act.
 
-[32/2008 wef 01/01/2009]
-
-[21/84]
-
-[36/95]
+[21/84; 36/95; 41/2004; 32/2008]
 
 (2) Any person employed in a managerial or an executive position who is in receipt of a salary not exceeding $2,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed by the Minister, shall be regarded as an employee for the purposes of —
 
@@ -519,6 +519,8 @@ Provided that when any person is employed by any one employer partly as a workma
 (b) such other provisions of this Act as the Minister may, by regulations, specify,
 
 and those provisions shall apply in relation to that person subject to such modification as may be prescribed.
+
+[32/2008]
 
 ### Appointment of officers
 
@@ -540,7 +542,9 @@ and those provisions shall apply in relation to that person subject to such modi
 
 6\. Nothing in this Act shall operate to relieve any employer of any duty or liability imposed upon him by the provisions of any other written law for the time being in force or to limit any powers given to any public officer by any other written law.
 
-7\. [Repealed by Act 32/2008 wef 01/01/2009]
+Invalidity of contract of service
+
+7\. [Repealed byAct 32 of 2008]
 
 ## PART II
 
@@ -550,7 +554,7 @@ CONTRACTS OF SERVICE
 
 8\. Every term of a contract of service which provides a condition of service which is less favourable to an employee than any of the conditions of service prescribed by this Act shall be illegal, null and void to the extent that it is so less favourable.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ### Termination of contract
 
@@ -570,7 +574,7 @@ CONTRACTS OF SERVICE
 
 (b) one week’s notice if he has been so employed for 26 weeks or more but less than 2 years;
 
-(c) 2 week’s notice if he has been so employed for 2 years or more but less than 5 years; and
+(c) 2 weeks’ notice if he has been so employed for 2 years or more but less than 5 years; and
 
 (d) 4 weeks’ notice if he has been so employed for 5 years or more.
 
@@ -582,29 +586,23 @@ CONTRACTS OF SERVICE
 
 11\.—(1) Either party to a contract of service may terminate the contract of service without notice or, if notice has already been given in accordance with section 10, without waiting for the expiry of that notice, by paying to the other party a sum equal to the amount of salary at the gross rate of pay which would have accrued to the employee during the period of the notice and in the case of a monthly-rated employee where the period of the notice is less than a month, the amount payable for any one day shall be the gross rate of pay for one day’s work.
 
+[21/84; 36/95]
+
 (2) Either party to a contract of service may terminate the contract of service without notice in the event of any wilful breach by the other party of a condition of the contract of service.
 
-[36/95]
-
-[21/84]
-
-[36/95]
+[21/84; 36/95]
 
 ### Contractual age
 
 12\.—(1) Notwithstanding anything in any other written law, a person below the age of 18 years shall, subject to the provisions of this Act, be competent to enter into a contract of service.
 
-[7/2009 wef 01/03/2009]
-
 (2) No contract of service as an employee shall be enforceable against a person below the age of 18 years and no damages or indemnity shall be recoverable from that person in respect of the contract of service unless it is for his benefit.
-
-[7/2009 wef 01/03/2009]
 
 ### When contract deemed to be broken by employer and employee
 
 13\.—(1) An employer shall be deemed to have broken his contract of service with the employee if he fails to pay salary in accordance with Part III.
 
-(2) An employee shall be deemed to have broken his contract of service with the employer if he has been continuously absent from work for more than two days —
+(2) An employee shall be deemed to have broken his contract of service with the employer if he has been continuously absent from work for more than 2 days —
 
 (a) without prior leave from his employer or without reasonable excuse; or
 
@@ -636,7 +634,7 @@ and the employer shall comply with the direction of the Minister.
 
 (7) An employer who fails to comply with the direction of the Minister under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 (7A) Where any amount to be paid by an employer under subsection (4) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (7), the amount or so much thereof as remains unpaid shall be recoverable by the court as if it were a fine and the amount so recoverable shall be paid to the employee entitled to payment under the direction of the Minister.
 
@@ -644,7 +642,7 @@ and the employer shall comply with the direction of the Minister.
 
 (8) For the purpose of an inquiry under subsection (1), the employer may suspend the employee from work for a period not exceeding one week but shall pay him not less than half his salary for such period.
 
-(9) If the inquiry does not disclose any misconduct on the part of the employee, the employer shall forthwith restore to the employee the full amount of the salary so withheld.
+(9) If the inquiry does not disclose any misconduct on the part of the employee, the employer shall immediately restore to the employee the full amount of the salary so withheld.
 
 ### Termination by employee threatened by danger
 
@@ -662,13 +660,13 @@ and the employer shall comply with the direction of the Minister.
 
 (b) to participate in the activities of a registered trade union, whether as an officer of the trade union or otherwise; or
 
-(c) to associate with any other persons for the purpose of organising a trade union in accordance with the provisions of the Trade Unions Act [Cap. 333].
+(c) to associate with any other persons for the purpose of organising a trade union in accordance with the provisions of the Trade Unions Act (Cap. 333).
 
 ### Change of employer
 
-18\.—(1) If by or under any written law a contract of employment between any body corporate and an employee is modified and some other body corporate is substituted as the employer, the employee’s period of employment at the time when the modification takes effect shall count as a period of employment with such other body corporate and the change of employer shall not break the continuity of the period of employment.
+18\.—(1) If by or under any written law a contract of employment between any body corporate and an employee is modified and some other body corporate is substituted as the employer, the employee’s period of employment at the time when the modification takes effect shall count as a period of employment with such other body corporate, and the change of employer shall not break the continuity of the period of employment.
 
-[32/2008 wef 01/01/2009]
+[36/95; 32/2008]
 
 (2) If on the death of an employer the employee is taken into the employment of the personal representatives or trustees of the deceased, the employee’s period of employment at the time of the death shall count as a period of employment with the employer’s personal representatives or trustees, and the death of the employer shall not break the continuity of the period of employment.
 
@@ -686,6 +684,8 @@ and the employer shall comply with the direction of the Minister.
 
 (b) the period of employment of an employee in the undertaking or part transferred at the time of transfer shall count as a period of employment with the transferee, and the transfer shall not break the continuity of the period of employment.
 
+[36/95]
+
 (2) Without prejudice to subsection (1), on completion of a transfer referred to in that subsection —
 
 (a) all the transferor’s rights, powers, duties and liabilities under or in connection with any such contract of service shall be transferred by virtue of this section to the transferee;
@@ -694,9 +694,15 @@ and the employer shall comply with the direction of the Minister.
 
 (c) any act or omission done before the transfer by an employee employed in the undertaking or part transferred in relation to the transferor shall be deemed to have been done in relation to the transferee.
 
+[36/95]
+
 (3) On the completion of a transfer referred to in subsection (1), it is hereby declared for the avoidance of doubt that the terms and conditions of service of an employee whose contract of service is preserved under that subsection shall be the same as those enjoyed by him immediately prior to the transfer.
 
-(4) Subsections (1) and (2) shall not transfer or otherwise effect the liability of any person to be prosecuted for, convicted of and sentenced for any offence.
+[36/95]
+
+(4) Subsections (1) and (2) shall not transfer or otherwise affect the liability of any person to be prosecuted for, convicted of and sentenced for any offence.
+
+[36/95]
 
 (5) As soon as it is reasonable and before a transfer under subsection (1) takes place, to enable consultations to take place between the transferor and the affected employees and between the transferor and a trade union of affected employees (if any), the transferor shall notify the affected employees and the trade union of affected employees (if any) of —
 
@@ -706,7 +712,11 @@ and the employer shall comply with the direction of the Minister.
 
 (c) the measures that the transferee envisages he will, in connection with the transfer, take in relation to such of those employees as, by virtue of subsection (1), become employees of the transferee after the transfer or, if he envisages that no measures will be so taken, that fact.
 
+[36/95]
+
 (6) As soon as it is reasonable, the transferee shall give the transferor such information so as to enable the transferor to perform the duty imposed on him by virtue of subsection (5)(c).
+
+[36/95]
 
 (7) Where the Commissioner considers that there has been an inordinate delay —
 
@@ -716,7 +726,9 @@ and the employer shall comply with the direction of the Minister.
 
 the Commissioner may, by notice in writing, direct the transferor to comply with subsection (5) or the transferee to comply with subsection (6), as the case may be, within such time as may be specified in the notice.
 
-(8) Where, immediately before a transfer referred to in subsection (1), a trade union is recognised by the transferor for the purposes of the Industrial Relations Act [Cap. 136] in respect of any employee who in consequence of the transfer becomes the employee of the transferee, the trade union shall, after the transfer —
+[36/95]
+
+(8) Where, immediately before a transfer referred to in subsection (1), a trade union is recognised by the transferor for the purposes of the Industrial Relations Act (Cap. 136) in respect of any employee who in consequence of the transfer becomes the employee of the transferee, the trade union shall, after the transfer —
 
 (a) be deemed to be recognised by the transferee for the purposes of the Industrial Relations Act if, after the transfer, the majority of employees employed by the transferee are members of the trade union; or
 
@@ -726,13 +738,19 @@ the Commissioner may, by notice in writing, direct the transferor to comply with
 
 (ii) from the transfer of the employee’s employment from the transferor to the transferee under this section.
 
+[36/95]
+
 (9) A dispute or disagreement between the transferor and an employee or the transferee and an employee arising from a transfer under subsection (1), whether before or after the transfer, may be referred by a party to the dispute or disagreement to the Commissioner under section 115 and shall be deemed to be a dispute to which that section applies.
+
+[36/95]
 
 (10) Where a dispute or disagreement has been referred to the Commissioner pursuant to subsection (9), the Commissioner shall, in addition to the powers conferred under section 115, have the powers —
 
-(a) to delay or prohibit the transfer of employment of the employee to the dispute from the transferor to the tranferee under subsection (1); and
+(a) to delay or prohibit the transfer of employment of the employee to the dispute from the transferor to the transferee under subsection (1); and
 
 (b) to order that the transfer of employment of the employee to the dispute from the transferor to the transferee under subsection (1) be subject to such terms as the Commissioner considers just.
+
+[36/95]
 
 (11) The Minister may make such regulations as he considers necessary or expedient to give effect to the provisions of this section and, in particular, may make regulations —
 
@@ -742,7 +760,11 @@ the Commissioner may, by notice in writing, direct the transferor to comply with
 
 (c) to provide for a mechanism for conciliation of disputes arising out of or relating to a transfer referred to in subsection (1) between any employer and employee.
 
-(12) Nothing in this section shall prevent a tranferee of an undertaking referred to in subsection (1) and an employee whose contract of service is preserved under that subsection or a trade union representing such an employee from negotiating for and agreeing to terms of service different from those contained in the contract of service that is preserved under that subsection.
+[36/95]
+
+(12) Nothing in this section shall prevent a transferee of an undertaking referred to in subsection (1) and an employee whose contract of service is preserved under that subsection or a trade union representing such an employee from negotiating for and agreeing to terms of service different from those contained in the contract of service that is preserved under that subsection.
+
+[36/95]
 
 (13) In this section —
 
@@ -752,7 +774,7 @@ the Commissioner may, by notice in writing, direct the transferor to comply with
 
 (a) registered under any written law for the time being in force relating to the registration of trade unions; and
 
-(b) accorded recognition by the employer pursuant to section 16(1) of the Industrial Relations Act [Cap. 136];
+(b) accorded recognition by the employer pursuant to section 17(1) of the Industrial Relations Act (Cap. 136);
 
 “transfer” includes the disposition of a business as a going concern and a transfer effected by sale, amalgamation, merger, reconstruction or operation of law;
 
@@ -774,7 +796,7 @@ PAYMENT OF SALARY
 
 (2) No salary period shall exceed one month.
 
-(3) In the absence of a salary period so fixed the salary period shall be deemed to be one month.
+(3) In the absence of a salary period so fixed, the salary period shall be deemed to be one month.
 
 ### Computation of salary for incomplete month’s work
 
@@ -786,19 +808,23 @@ PAYMENT OF SALARY
 
 (c) he took leave of absence without pay for one or more days of the month; or
 
-(d) he took leave of absence to perform his national service under the Enlistment Act [Cap. 93],
-
-[36/95]
+(d) he took leave of absence to perform his national service under the Enlistment Act (Cap. 93),
 
 the salary due to him for that month shall be calculated in accordance with the following formula:
 
-Monthly gross rate of pay
+___
+
+Monthly gross rate of pay__
+
+Number of days on which the
+employee is required to work
+in that month
 
 x
 
 Number of days the employee actually worked in that month.
 
-Number of days on which the employee is required to work in that month
+[36/95]
 
 (2) In calculating the number of days actually worked by an employee in a month under subsection (1), any day on which an employee is required to work for 5 hours or less under his contract of service shall be regarded as half a day.
 
@@ -816,7 +842,9 @@ Number of days on which the employee is required to work in that month
 
 ### Payment on dismissal
 
-22\. Subject to the provisions of this Act, the total salary and any sum due to an employee who has been dismissed shall be paid on the day of dismissal or, if this is not possible, within 3 days thereafter, not being a rest day or public or other holiday.
+22\. Subject to the provisions of this Act, the total salary and any sum due to an employee who has been dismissed shall be paid on the day of dismissal or, if this is not possible, within 3 days thereafter, not being a rest day or public holiday or other holiday.
+
+[32/2008]
 
 ### Payment on termination by employee
 
@@ -828,17 +856,19 @@ Number of days on which the employee is required to work in that month
 
 ### Income tax clearance
 
-24\.—(1) Notwithstanding sections 22 and 23, no payment of salary or any other sum due to an employee on termination of service shall be made to the employee by the employer without the permission of the Comptroller of Income Tax under section 68(7) of the Income Tax Act [Cap. 134].
+24\.—(1) Notwithstanding sections 22 and 23, no payment of salary or any other sum due to an employee on termination of service shall be made to the employee by the employer without the permission of the Comptroller of Income Tax under section 68(7) of the Income Tax Act (Cap. 134).
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
-(2) The employer shall forthwith give notice of the termination of service to the Comptroller of Income Tax and the payment of the salary or other sum due to the employee shall not be delayed more than 30 days after such notice has been given to and received by the Comptroller of Income Tax.
+(2) The employer shall immediately give notice of the termination of service to the Comptroller of Income Tax and the payment of the salary or other sum due to the employee shall not be delayed more than 30 days after such notice has been given to and received by the Comptroller of Income Tax.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ### Payment to be made during working hours
 
 25\.—(1) Payment of salary shall be made on a working day and during working hours at the place of work or at any other place agreed to between the employer and the employee.
+
+[21/84]
 
 (2) Subsection (1) shall not apply where the salary is paid into an account with a bank in Singapore, being an account in the name of the employee or an account in the name of the employee jointly with one or more other persons.
 
@@ -866,7 +896,7 @@ Number of days on which the employee is required to work in that month
 
 (g) deductions for income tax payable by the employee;
 
-(h) deductions of contributions payable by an employer on behalf of an employee under and in accordance with the provisions of the Central Provident Fund Act [Cap. 36];
+(h) deductions of contributions payable by an employer on behalf of an employee under and in accordance with the provisions of the Central Provident Fund Act (Cap. 36);
 
 (i) deductions made at the request of the employee for the purpose of a superannuation scheme or provident fund or any other scheme which is lawfully established for the benefit of the employee and is approved by the Commissioner;
 
@@ -890,9 +920,9 @@ Number of days on which the employee is required to work in that month
 
 29\.—(1) A deduction under section 27(1)(b) shall not exceed the amount of the damages or loss caused to the employer by the neglect or default of the employee and except with the permission of the Commissioner shall in no case exceed one-quarter of one month’s wages and shall not be made until the employee has been given an opportunity of showing cause against the deduction.
 
-(2) All such deductions and all realisations thereof shall be recorded in a register to be kept by the employer in such form as may be prescribed.
-
 [21/84]
+
+(2) All such deductions and all realisations thereof shall be recorded in a register to be kept by the employer in such form as may be prescribed.
 
 ### Deductions for accommodation, amenity and service
 
@@ -914,6 +944,8 @@ Number of days on which the employee is required to work in that month
 
 32\.—(1) The total amount of all deductions made from the salary of an employee by an employer in any one salary period, other than deductions under section 27(1)(a), (f), (g) or (j), shall not exceed 50% of the salary payable to the employee in respect of that period.
 
+[21/84]
+
 (2) Subsection (1) shall not apply to deductions made from the last salary due to an employee on termination of his contract of service or on completion of his contract of service.
 
 [21/84]
@@ -925,6 +957,8 @@ Number of days on which the employee is required to work in that month
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
 (b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,000 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
+
+[32/2008]
 
 (2) When, on the application of a person holding a mortgage, charge or lien or of a person who has obtained a judgment or decree, the property of an employer is sold, or any money due to the employer is garnished, the court ordering the sale or garnishment shall not distribute the proceeds of the sale or the money to the person entitled thereto unless the court has ascertained and paid the salary due to all the employees employed by that employer and to all employees engaged by a contractor or subcontractor and working for that employer.
 
@@ -946,10 +980,6 @@ Number of days on which the employee is required to work in that month
 
 (7) For the purposes of this section, “employees” shall be deemed to include subcontractors for labour and “salary” shall be deemed to include money due to a subcontractor for labour.
 
-[21/84]
-
-[36/95]
-
 ### Offence
 
 34\. Any employer failing to pay salary in accordance with the provisions of this Part shall be guilty of an offence.
@@ -966,9 +996,13 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,000 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
 
+[32/2008]
+
 ### Rest day
 
 36\.—(1) Every employee shall be allowed in each week a rest day without pay of one whole day which shall be Sunday or such other day as may be determined from time to time by the employer.
+
+[36/95]
 
 (2) The employer may substitute any continuous period of 30 hours as a rest day for an employee engaged in shift work.
 
@@ -978,15 +1012,15 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (4) Where the rest day of an employee is determined by his employer, the employer shall prepare or cause to be prepared a roster before the commencement of the month in which the rest days fall informing the employee of the days appointed to be his rest days therein.
 
-[36/95]
-
 ### Work on rest day
 
 37\.—(1) Subject to section 38(2) or 40(2A), no employee shall be compelled to work on a rest day unless he is engaged in work which by reason of its nature requires to be carried on continuously by a succession of shifts.
 
-(1A) In the event of any dispute the Commissioner shall have power to decide whether or not an employee is engaged in work which by reason of its nature requires to be carried on continuously by a succession of shifts.
+[32/2008]
 
-(2) Any employee who at his own request works for an employer on a rest day shall be paid for that day —
+(1A) In the event of any dispute, the Commissioner shall have power to decide whether or not an employee is engaged in work which by reason of its nature requires to be carried on continuously by a succession of shifts.
+
+(2) An employee who at his own request works for an employer on a rest day shall be paid for that day —
 
 (a) if the period of work does not exceed half his normal hours of work, a sum at the basic rate of pay for half a day’s work;
 
@@ -1004,11 +1038,11 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (a) if the period of work does not exceed half his normal hours of work, a sum at the basic rate of pay for one day’s work;
 
-(b) if the period of work is more than half but does not exceed his normal hours of work a sum at the basic rate of pay for two days’ work; or
+(b) if the period of work is more than half but does not exceed his normal hours of work, a sum at the basic rate of pay for 2 days’ work; or
 
 (c) if the period of work exceeds his normal hours of work for one day —
 
-(i) a sum at the basic rate of pay for two days’ work; and
+(i) a sum at the basic rate of pay for 2 days’ work; and
 
 (ii) a sum at the rate of not less than one and a half times his hourly basic rate of pay for each hour or part thereof that the period of work exceeds his normal hours of work for one day.
 
@@ -1020,7 +1054,9 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (b) an employee’s “hourly basic rate of pay” is to be calculated in the same manner as for the purpose of calculating payment due to an employee under section 38 for working overtime.
 
-(4) Subsection (3) shall not apply to any employee who is employed by the Government or a statutory body in any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act [Cap. 67], but any such employee who at the request of his employer works on a rest day or part thereof shall be given a day or part of a day off, as the case may be, in substitution for such a rest day or part thereof.
+[36/95]
+
+(4) Subsection (3) shall not apply to any employee who is employed by the Government or a statutory body in any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act (Cap. 67), but any such employee who at the request of his employer works on a rest day or part thereof shall be given a day or part of a day off, as the case may be, in substitution for such a rest day or part thereof.
 
 ### Hours of work
 
@@ -1028,19 +1064,19 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (a) more than 6 consecutive hours without a period of leisure;
 
-[36/95]
-
 (b) more than 8 hours in one day or more than 44 hours in one week:
 
 Provided that —
 
 (i) an employee who is engaged in work which must be carried on continuously may be required to work for 8 consecutive hours inclusive of a period or periods of not less than 45 minutes in the aggregate during which he shall have the opportunity to have a meal;
 
-(ii) where, by agreement under the contract of service between the employee and the employer, the number of hours of work on one or more days of the week is less than 8, the limit of 8 hours may be exceeded on the remaining days of the week, but so that no employee shall be required to work for more than 9 hours in one day or 44 hours in one week;
+(ii) where, by agreement under the contract of service between the employee and the employer, the number of hours of work on one or more days of the week is less than 8, the limit of 8 hours in one day may be exceeded on the remaining days of the week, but so that no employee shall be required to work for more than 9 hours in one day or 44 hours in one week;
 
 (iii) where, by agreement under the contract of service between the employee and the employer, the number of days on which the employee is required to work in a week is not more than 5 days, the limit of 8 hours in one day may be exceeded but so that no employee shall be required to work more than 9 hours in one day or 44 hours in one week; and
 
 (iv) where, by agreement under the contract of service between the employee and the employer, the number of hours of work in every alternate week is less than 44, the limit of 44 hours in one week may be exceeded in the other week, but so that no employee shall be required to work for more than 48 hours in one week or for more than 88 hours in any continuous period of 2 weeks.
+
+[21/84]
 
 (2) An employee may be required by his employer to exceed the limit of hours prescribed in subsection (1) and to work on a rest day, in the case of —
 
@@ -1054,9 +1090,9 @@ Provided that —
 
 (e) an interruption of work which it was impossible to foresee; or
 
-(f) work to be performed by employees in any industrial undertaking essential to the economy of Singapore or any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act [Cap. 67].
+(f) work to be performed by employees in any industrial undertaking essential to the economy of Singapore or any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act (Cap. 67).
 
-(3) In the event of any dispute the Commissioner shall have power to decide whether or not the employer is justified in calling upon the employee to work in the circumstances specified in subsection 2(f).
+(3) In the event of any dispute, the Commissioner shall have power to decide whether or not the employer is justified in calling upon the employee to work in the circumstances specified in subsection (2)(f).
 
 (4) If an employee at the request of the employer works —
 
@@ -1066,9 +1102,7 @@ Provided that —
 
 he shall be paid for such extra work at the rate of not less than one and a half times his hourly basic rate of pay irrespective of the basis on which his rate of pay is fixed.
 
-[21/84]
-
-[36/95]
+[21/84; 36/95]
 
 (5) An employee shall not be permitted to work overtime for more than 72 hours a month.
 
@@ -1086,8 +1120,6 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 (9) This section shall not apply to employees engaged in the fire services or in work which by its nature involves long hours of inactive or stand-by employment.
 
-[21/84]
-
 ### Task work
 
 39\. Nothing in this Part shall prevent any employer from agreeing with any employee that the salary of the employee shall be paid at an agreed rate in accordance with the task, that is, the specific amount of work required to be performed, and not by the day or by the piece.
@@ -1096,7 +1128,11 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 40\.—(1) Notwithstanding section 38(1), an employee who is engaged under his contract of service in regular shift work or who has otherwise consented in writing to work in accordance with the hours of work specified in this section may be required to work more than 6 consecutive hours, more than 8 hours in any one day or more than 44 hours in any one week but the average number of hours worked over any continuous period of 3 weeks shall not exceed 44 hours per week.
 
+[21/84]
+
 (2) No consent given by an employee under this section shall be valid unless this section and section 38 have been explained to the employee and the employee has been informed of the times at which the hours of work begin and end, the number of working days in each week and the weekly rest day.
+
+[21/84]
 
 (2A) An employee to whom this section applies may be required by his employer to exceed the limit of hours prescribed in subsection (1) and to work on a rest day, in the case of —
 
@@ -1110,9 +1146,11 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 (e) an interruption of work which it was impossible to foresee.
 
+[32/2008]
+
 (3) Except in the circumstances described in subsection (2A)(a), (b), (c), (d) and (e), no employee to whom this section applies shall under any circumstances work for more than 12 hours in any one day.
 
-[32/2008 wef 01/01/2009]
+[21/84; 32/2008]
 
 (4) Section 38(4) shall not apply to any employee to whom this section applies, but any such employee who at the request of his employer works more than an average of 44 hours per week over any continuous period of 3 weeks shall be paid for such extra work in accordance with section 38(4).
 
@@ -1128,13 +1166,11 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 41A\.—(1) The Commissioner may, after considering the operational needs of the employer and the health and safety of the employee or class of employees, by order in writing exempt an employee or any class of employees from sections 38(1), (5) and (8) and 40(3) subject to such conditions as the Commissioner thinks fit.
 
-[41/2004 wef 01/10/2004]
+[36/95; 41/2004]
 
 (2) The Commissioner may, after considering the operational needs of an employer and the interests of an employee or a class of employees, by order in writing, direct that the entitlement to be paid for extra work under section 37(2) or (3), 38(4), 40(4) or 88(4) shall not apply to that employee or class of employees, subject to such conditions as the Commissioner thinks fit.
 
-[41/2004 wef 01/10/2004]
-
-[32/2008 wef 01/01/2009]
+[41/2004; 32/2008]
 
 (3) Where the Commissioner —
 
@@ -1142,65 +1178,75 @@ he shall be paid for such extra work at the rate of not less than one and a half
 
 (b) directs that the entitlement to be paid for extra work under section 37(2) or (3), 38(4), 40(4) or 88(4) shall not apply to an employee or any class of employees,
 
-[32/2008 wef 01/01/2009]
-
 the employer shall display the order or a copy thereof conspicuously in the place where the employee or class of employees are employed.
 
-[41/2004 wef 01/10/2004]
+[41/2004; 32/2008]
 
-[36/95]
+Holidays
 
-42\. [Repealed by Act 32/2008 wef 01/01/2009]
+42\. [Repealed byAct 32 of 2008]
 
 ### Annual leave
 
-43\.—(1) An employee who has served an employer for a period of not less than 3 months shall be entitled to paid annual leave of 7 days in respect of the first 12 months of continuous service with the same employer and an additional one day’s annual leave for every subsequent 12 months of continuous service with the same employer subject to a maximum of 14 days of such leave which shall be in addition to the rest days, holidays and sick leave to which the employee is entitled under sections 36, 88 and 89, respectively.
+43\.—(1) An employee who has served an employer for a period of not less than 3 months shall be entitled to paid annual leave of 7 days in respect of the first 12 months of continuous service with the same employer and an additional one day’s paid annual leave for every subsequent 12 months of continuous service with the same employer subject to a maximum of 14 days of such leave which shall be in addition to the rest days, holidays and sick leave to which the employee is entitled under sections 36, 88 and 89, respectively.
 
-[32/2008 wef 01/01/2009]
-
-[21/84]
-
-[36/95]
+[21/84; 36/95; 32/2008]
 
 (2) An employee who has served an employer for a period of not less than 3 months but who has not completed 12 months of continuous service in any year shall be entitled to annual leave in proportion to the number of completed months of service in that year.
 
-[36/95]
+[21/84; 36/95]
 
 (3) In calculating the proportionate annual leave under subsection (2), any fraction of a day which is less than one-half of a day shall be disregarded and where the fraction of the day is one-half or more it shall be regarded as one day.
 
+[21/84]
+
 (4) Where an employee is granted leave of absence without pay by the employer at the request of the employee, the period of the leave shall be disregarded for the purpose of computing continuous service under this section.
+
+[21/84]
 
 (5) An employee shall forfeit his entitlement to annual leave if he absents himself from work without the permission of the employer or without reasonable excuse for more than 20% of the working days in the months or year, as the case may be, in which his entitlement to such leave accrues.
 
-(6) The employer shall grant and the employee shall take such leave not later than 12 months after the end of every 12 months continuous service and any employee who fails to take that leave by the end of such period shall thereupon cease to be entitled thereto.
+[21/84]
+
+(6) The employer shall grant and the employee shall take such leave not later than 12 months after the end of every 12 months of continuous service and any employee who fails to take that leave by the end of such period shall thereupon cease to be entitled thereto.
+
+[21/84]
 
 (7) The employer shall pay the employee his gross rate of pay for every day of such leave and if an employee has been dismissed otherwise than for misconduct before he has taken that leave, the employer shall pay the employee his gross rate of pay in respect of every day of that leave.
 
-[36/95]
+[21/84; 36/95]
 
 (8) The Minister may, by notification in theGazette, fix the periods when and prescribe the manner in which annual leave shall be granted to employees in different types of employment or in different classes of industries.
 
-44\. [Repealed by Act 32/2008 wef 01/01/2009]
+[21/84]
+
+Sick Leave
+
+44\. [Repealed byAct 32 of 2008]
 
 ### Payment of retrenchment benefit
 
 45\. No employee who has been in continuous service with an employer for less than 3 years shall be entitled to any retrenchment benefit on his dismissal on the ground of redundancy or by reason of any reorganisation of the employer’s profession, business, trade or work.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ### Retirement benefit
 
-46\. No employee who has been in continuous service with an employer for less than 5 years shall be entitled to any retirement benefit other than the sums payable under the Central Provident Fund Act [Cap. 36] on the cessation of his service with the employer.
+46\. No employee who has been in continuous service with an employer for less than 5 years shall be entitled to any retirement benefit other than the sums payable under the Central Provident Fund Act (Cap. 36) on the cessation of his service with the employer.
 
 ### Priority of retirement benefits, etc.
 
 47\.—(1) Where a collective agreement or an award contains a provision for the payment of a gratuity or other sum of money to an employee on his retirement or on the termination of his services under such circumstances as may be provided for in the collective agreement or award, the gratuity or other sum of money which is due and owing to the employee shall be included among —
 
-(a) the debts which, under section 328 of the Companies Act [Cap. 50], are to be paid in priority to all other unsecured debts in the winding up of a company and that gratuity or sum of money shall rank after the preferred debts referred to in that section;
+(a) the debts which, under section 328 of the Companies Act (Cap. 50), are to be paid in priority to all other unsecured debts in the winding up of a company and that gratuity or sum of money shall rank after the preferential debts referred to in that section;
 
-(b) the debts which, under section 90 of the Bankruptcy Act [Cap. 20], are to be paid in priority to all other debts in the distribution of the property of a bankrupt or of a person dying insolvent.
+(b) the debts which, under section 90 of the Bankruptcy Act (Cap. 20), are to be paid in priority to all other debts in the distribution of the property of a bankrupt or of a person dying insolvent.
 
-(2) Where a collective agreement or an awardWorkmen’s Compensation Act contains a provision for the payment of a gratuity or other sum of money to an employee on his retirement and no provision is made for the payment of a gratuity or other sum of money on the termination of the employee’s services by reason of his employer ceasing to carry on business for whatever reason, or by reason of the employer transferring the whole or part of his undertaking or property, as the case may be, every such collective agreement or award shall, notwithstanding anything contained in any written law or rule of law or collective agreement or award to the contrary, be deemed to contain a provision that in the event of the employer ceasing to carry on business for whatever reason or transferring the whole or part of his undertaking or property, as the case may be, an employee who ceases to be employed by the employer by reason of the happening of such a contingency shall be paid such sum of money as he would have been entitled to receive under the terms of the collective agreement or award if he had retired from the service of the employer on the day the employer ceases to carry on business or transfers the whole or part of his undertaking or property, as the case may be.
+[15/95]
+
+(2) Where a collective agreement or an award contains a provision for the payment of a gratuity or other sum of money to an employee on his retirement and no provision is made for the payment of a gratuity or other sum of money on the termination of the employee’s services by reason of his employer ceasing to carry on business for whatever reason, or by reason of the employer transferring the whole or part of his undertaking or property, as the case may be, every such collective agreement or award shall, notwithstanding anything contained in any written law or rule of law or collective agreement or award to the contrary, be deemed to contain a provision that in the event of the employer ceasing to carry on business for whatever reason or transferring the whole or part of his undertaking or property, as the case may be, an employee who ceases to be employed by the employer by reason of the happening of such a contingency shall be paid such sum of money as he would have been entitled to receive under the terms of the collective agreement or award if he had retired from the service of the employer on the day the employer ceases to carry on business or transfers the whole or part of his undertaking or property, as the case may be.
+
+[32/2008]
 
 (3) Subsection (2) shall not apply where an employer has set up a fund under a scheme for the payment of pensions, gratuities, provident fund or other superannuation benefits to his employees on their retirement from the service of the employer whereby under such scheme the benefits of the employees shall be safeguarded in the event of the bankruptcy of an employer or, if the employer is a company, on the winding up of the company or in the event of the employer ceasing to carry on business for any other reason or transferring the whole or part of his undertaking or property, as the case may be.
 
@@ -1208,11 +1254,9 @@ the employer shall display the order or a copy thereof conspicuously in the plac
 
 (5) For the purposes of this section —
 
-“award” means an award made by the Industrial Arbitration Court under the provisions of the Industrial Relations Act [Cap. 136];
+“award” means an award made by the Industrial Arbitration Court under the provisions of the Industrial Relations Act (Cap. 136);
 
 “collective agreement” means a collective agreement, a memorandum of which has been certified by the Industrial Arbitration Court in accordance with the provisions of the Industrial Relations Act.
-
-[15/95]
 
 ### Payment of annual wage supplement or other variable payment
 
@@ -1242,7 +1286,9 @@ the employer shall display the order or a copy thereof conspicuously in the plac
 
 ### Interpretation for purposes of sections 48 and 49
 
-50\.—(1) Where a notice is served under section 17 of the Industrial Relations Act by an employer or a trade union representing his employees in respect of any matter referred to in sections 48 and 49 and no agreement is reached between the parties, either party may, notwithstanding the provisions of the Industrial Relations Act, refer the matter to the Industrial Arbitration Court established under the Industrial Relations Act for arbitration.
+50\.—(1) Where a notice is served under section 18 of the Industrial Relations Act (Cap. 136) by an employer or a trade union representing his employees in respect of any matter referred to in sections 48 and 49 and no agreement is reached between the parties, either party may, notwithstanding the provisions of the Industrial Relations Act, refer the matter to the Industrial Arbitration Court established under the Industrial Relations Act for arbitration.
+
+[21/88]
 
 (2) For the purposes of sections 48 and 49 —
 
@@ -1254,7 +1300,9 @@ the employer shall display the order or a copy thereof conspicuously in the plac
 
 [21/88]
 
-51\. [Repealed by Act 36/95]
+Interpretation of “ordinary rate of pay”
+
+51\. [Repealed byAct 36 of 1995]
 
 ### Power to suspend application of Part IV
 
@@ -1262,23 +1310,19 @@ the employer shall display the order or a copy thereof conspicuously in the plac
 
 ### Offence
 
-53\.—(1) Any employer who employs any person as an employee contrary to the provisions of this Part or fails to pay any salary in accordance with the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+53\.—(1) Any employer who employs any person as an employee contrary to the provisions of this Part or fails to pay any salary in accordance with the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[32/2008 wef 01/01/2009]
+[21/84; 32/2008]
 
-(2) [Deleted by Act 32/2008 wef 01/01/2009]
+(2) [Deleted by Act 32 of 2008]
 
 (3) Notwithstanding subsection (1) —
 
 (a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in sections 43 and 89; and
 
-[32/2008 wef 01/01/2009]
-
 (b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in sections 43 and 89.
 
-[32/2008 wef 01/01/2009]
-
-[36/95]
+[36/95; 32/2008]
 
 ## PART V
 
@@ -1312,19 +1356,19 @@ TRUCK SYSTEM
 
 60\.—(1) Nothing in this Part shall prevent the employer from establishing or permitting to be established a shop or a canteen for the sale of foodstuffs, provisions, meals or refreshments; but no workman shall be compelled by any contract of service to purchase any goods at that shop or canteen, and no noxious drugs or intoxicating liquor shall be sold at any such shop or canteen.
 
-(2) No employer shall establish or keep or permit to be established or kept, a shop or canteen on any place of employment for the sale of foodstuffs, provisions, meals or refreshments to his workmen otherwise than in accordance with subsection (1).
-
 [21/84]
+
+(2) No employer shall establish or keep or permit to be established or kept, a shop or canteen on any place of employment for the sale of foodstuffs, provisions, meals or refreshments to his workmen otherwise than in accordance with subsection (1).
 
 ### Offence
 
-61\. Any employer who enters into any contract of service or gives any remuneration for service contrary to the provisions of this Part or declared by this Part to be illegal or receives any payment from any workman contrary to the provisions of this Part or contravenes section 60(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+61\. Any employer who enters into any contract of service or gives any remuneration for service contrary to the provisions of this Part or declared by this Part to be illegal or receives any payment from any workman contrary to the provisions of this Part or contravenes section 60(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 Proceedings may be taken against actual offender
 
-62\. [Repealed by Act 32/2008 wef 01/01/2009]
+62\. [Repealed byAct 32 of 2008]
 
 ### Payment of salary through bank
 
@@ -1333,6 +1377,8 @@ Proceedings may be taken against actual offender
 (a) payment into an account at a bank in Singapore, being an account in the name of the workman or an account in the name of the workman jointly with one or more other persons;
 
 (b) payment by cheque made payable to or to the order of the workman.
+
+[21/84]
 
 (2) Where the salary or part thereof has been paid in any of the ways set out in subsection (1), section 57 shall not operate to give a right of recovery of so much of the salary as has been so paid.
 
@@ -1352,7 +1398,7 @@ CONTRACTORS AND CONTRACTING
 
 (1A) No principal, contractor or subcontractor, not being the employer, shall be jointly and severally liable to any workman under subsection (1) for more than the salary earned in one month for work done by the employer.
 
-(1B) In the case of a contract for constructional work, the principal shall not be liable for the payment of salary under subsection unless he is also a constructional contractor.
+(1B) In the case of a contract for constructional work, the principal shall not be liable for the payment of salary under subsection (1) unless he is also a constructional contractor.
 
 (1C) The workman shall institute proceedings for the recovery of his salary within 60 days or such longer period as the Commissioner may in his discretion allow from the date on which the salary became due for payment in accordance with the provisions for the payment of salary contained in Part III.
 
@@ -1360,11 +1406,11 @@ CONTRACTORS AND CONTRACTING
 
 [36/95]
 
-(3) Nothing in this section shall prevent any principal or contractor or subcontractor, not being the employer, who as the result of a claim made under this section has paid any salary to a workman from instituting civil proceedings for the recovery of the amount of salary so paid from the employer of that workman.
+(3) Nothing in this section shall prevent any principal or contractor or subcontractor, not being the employer, who as the result of a claim made under this section has paid any salary to a workman, from instituting civil proceedings for the recovery of the amount of salary so paid from the employer of that workman.
 
 (4) Nothing in this section shall be construed to prevent a workman from recovering salary under this Act from his employer instead of the principal or contractor or subcontractor.
 
-(5) The reference to principal in this section shall include the Government or a statutory body or authority acting in the course of or in the discharge of its functions.
+(5) The reference to principal in this section shall include a reference to the Government or a statutory body or authority acting in the course of or in the discharge of its functions.
 
 [21/84]
 
@@ -1392,7 +1438,7 @@ PART-TIME EMPLOYEES
 
 66A\.—(1) In this Part, “part-time employee” means an employee who is required under his contract of service with an employer to work for less than 35 hours a week.
 
-[32/2008 wef 01/01/2009]
+[36/95; 32/2008]
 
 (2) Notwithstanding subsection (1), the Minister may, by notification in theGazette, declare that any employee or class of employees are not to be regarded as part-time employees for the purposes of this Part.
 
@@ -1426,6 +1472,8 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 “young person” means a person who has completed his 15th year of age but who has not completed his 16th year of age.
 
+[41/2004]
+
 ### Restriction on employment of children
 
 68\.—(1) No person shall employ a child in an industrial or a non-industrial undertaking except as provided for in subsections (2) and (3).
@@ -1438,9 +1486,7 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 (3) A child who is 13 years of age or above may be employed in light work suited to his capacity in a non-industrial undertaking.
 
-[41/2004 wef 01/10/2004]
-
-[36/95]
+[36/95; 41/2004]
 
 (4) For the purposes of subsection (3), the certificate of a medical officer shall be conclusive upon the question of whether any work is suited to the capacity of any particular child.
 
@@ -1462,7 +1508,7 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 (2) Any person contravening any such order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ### Approved employment
 
@@ -1478,7 +1524,7 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 [36/95]
 
-(2) For the purposes of this section, the Institute of Technical Education, Singapore means the Institute of Technical Education, Singapore established under the Institute of Technical Education Act [Cap. 141A].
+(2) For the purposes of this section, the Institute of Technical Education, Singapore means the Institute of Technical Education, Singapore established under the Institute of Technical Education Act (Cap. 141A).
 
 [36/95]
 
@@ -1490,15 +1536,20 @@ EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 74\. Any person who employs a child or young person in contravention of the provisions of this Part or any of the regulations made thereunder and any parent or guardian who knowingly or negligently suffers or permits such employment shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both except in the case where a child or young person suffers serious injury or death resulting from any breach of the provisions of this Part or any regulations made thereunder the offender shall be punished with a fine of $5,000 and shall also be liable to imprisonment for a term not exceeding 2 years.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ### Power of Juvenile Court in respect of children or young persons requiring care or protection
 
-75\. A child or young person in respect of whom any of the offences mentioned in this Part has been committed may be brought before a Juvenile Court and the Court, if satisfied that the child or young person requires care or protection, may exercise with respect to that child or young person all or any of the powers conferred by section 48 of the Children and Young Persons Act [Cap. 38].
+75\. A child or young person in respect of whom any of the offences mentioned in this Part has been committed may be brought before a Juvenile Court and the Court, if satisfied that the child or young person requires care or protection, may exercise with respect to that child or young person all or any of the powers conferred by section 49 of the Children and Young Persons Act (Cap. 38).
 
 ## PART IX
 
-MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
+MATERNITY PROTECTION AND BENEFITS
+
+
+
+
+AND CHILDCARE LEAVE FOR PARENT
 
 ### Length of benefit period
 
@@ -1526,9 +1577,7 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (ii) one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
 
-[28/2008 wef 31/10/2008]
-
-[41/2004 wef 01/10/2004]
+[41/2004; 28/2008]
 
 (1A) Subject to this section, every female employee shall be entitled to receive payment from her employer at her gross rate of pay for any of the following periods (referred to in this Part as the benefit period):
 
@@ -1538,9 +1587,15 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (c) where subsection (1)(c) applies, the period of 8 weeks referred to in subsection (1)(c)(i).
 
+[41/2004]
+
 (2) A female employee who delivers a child before 31st October 2008, and whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is before 31st October 2008, shall not be entitled to any pay during the benefit period if she has served her employer for less than 180 days immediately preceding the day of her confinement.
 
+[28/2008]
+
 (2A) A female employee who delivers a child on or after 31st October 2008, or who delivers a child before 31st October 2008 but whose estimated delivery date for her confinement in respect of that child (as certified by a medical practitioner) is on or after 31st October 2008, shall not be entitled to any pay during the benefit period if she has served her employer for less than 90 days immediately preceding the day of her confinement.
+
+[28/2008]
 
 (3) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled to receive in addition to her gross rate of pay for that day an amount that is equivalent to a day’s pay at the gross rate of pay or to absent herself from work on another day at the end of the benefit period.
 
@@ -1552,21 +1607,19 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (b) those children were born during more than one previous confinement.
 
-[41/2004 wef 01/10/2004]
-
-[32/2008 wef 01/01/2009]
+[41/2004; 32/2008]
 
 (5) Subsection (4) shall not apply to such class or classes of employees as the Minister may, from time to time by notification in theGazette, specify.
 
 (6) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1)(c)(ii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
 
-[21/84]
-
-[36/95]
+[41/2004]
 
 ### Payments to include holidays
 
 77\.—(1) The payment referred to in section 76 shall be paid for every day of the benefit period, including holidays.
+
+[21/84]
 
 (2) Nothing in this section shall be construed to require an employer to pay to a female employee an extra day’s salary for a holiday which falls within the benefit period.
 
@@ -1574,7 +1627,7 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 ### When payment is to be made
 
-78\.—(1) In the case of a female employee who is a daily-rated employee, the payment referred to in section 76 shall be paid in two instalments, the first for the period up to and including the day of confinement, to be paid within 7 days from the date of confinement, and the second, for the period after confinement, to be paid within 7 days from the end of that period.
+78\.—(1) In the case of a female employee who is a daily-rated employee, the payment referred to in section 76 shall be paid in 2 instalments, the first for the period up to and including the day of confinement, to be paid within 7 days from the date of confinement, and the second, for the period after confinement, to be paid within 7 days from the end of that period.
 
 (2) In the case of any other female employee, the payment shall be paid at such time as the salary earned by the employee under her contract of service is due to be paid to her.
 
@@ -1582,13 +1635,15 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 79\.—(1) If a female employee, after giving notice to her employer under section 80(1), abstains from work in expectation of her confinement and dies from any cause before her confinement, the employer shall pay to the person nominated by her under section 80(4) or, if there is no such person, to her personal representative a sum of money at the rate prescribed under section 76 from the date immediately following the last day on which she worked to the day immediately preceding the day of her death and except in the circumstances mentioned in this subsection no employer shall be liable to pay any sum in respect of a period exceeding 30 days.
 
-(2) If a female employee dies from any cause on or after the day of her confinement and before any payment to which she is entitled has been paid to her, the employer shall pay to the person nominated by her under section 80(4) or, if there is no such person, to her personal representative any sum of money to which she was on the date of her death entitled in respect of the period up to the day of confinement and in respect of the period after confinement up to the day preceding the day of her death.
-
 [21/84]
+
+(2) If a female employee dies from any cause on or after the day of her confinement and before any payment to which she is entitled has been paid to her, the employer shall pay to the person nominated by her under section 80(4) or, if there is no such person, to her personal representative any sum of money to which she was on the date of her death entitled in respect of the period up to the day of confinement and in respect of the period after confinement up to the day immediately preceding the day of her death.
 
 ### Notice of confinement
 
 80\.—(1) A female employee shall at least one week before absenting herself from work in accordance with section 76 give notice to her employer specifying the date on which she intends to commence absenting herself from work.
+
+[21/84]
 
 (2) A female employee who has been confined shall as soon as practicable inform her employer of the date on which she was confined.
 
@@ -1596,13 +1651,11 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 (4) A female employee may at any time in writing nominate some other person to whom any payment to which she is entitled under this Part may be paid on her behalf; and any such payment made to the person so nominated shall for the purpose of this Act be deemed to be payment to the female employee who nominated such person.
 
-[21/84]
-
 ### Dismissal during absence prohibited
 
 81\. Without prejudice to sections 84 and 84A, when a female employee absents herself from work in accordance with the provisions of this Part it shall not be lawful for her employer to give her notice of dismissal during her absence or on such a day that the notice will expire during her absence.
 
-[28/2008 wef 31/10/2008]
+[28/2008]
 
 ### Employment after confinement
 
@@ -1630,13 +1683,17 @@ MATERNITY PROTECTION AND BENEFITS AND CHILDCARE LEAVE FOR PARENT
 
 shall have the effect of depriving her of any payment to which, but for that notice, she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
 
+[28/2008]
+
 (1A) In any case where there are 2 or more estimated delivery dates (each certified by a medical practitioner) for the confinement of a female employee, the estimated delivery date that is relevant for the purposes of subsection (1) shall be the estimated delivery date —
 
 (a) which is certified by a medical practitioner before the notice of dismissal is given by her employer; and
 
 (b) the date of such certification of which is closest to the date the notice of dismissal is given.
 
-(2) If any question arises as to whether any notice of dismissal given under subsection (1) was or was not given for sufficient cause, it shall be referred to the Minister within two months from the date of the employee’s confinement.
+[28/2008]
+
+(2) If any question arises as to whether any notice of dismissal given under subsection (1) was or was not given for sufficient cause, it shall be referred to the Minister within 2 months from the date of the employee’s confinement.
 
 [36/95]
 
@@ -1660,9 +1717,7 @@ and the employer shall comply with the direction of the Minister.
 
 (6) An employer who fails to comply with the direction of the Minister under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[28/2008 wef 31/10/2008]
-
-[36/95]
+[36/95; 28/2008]
 
 (7) Where any amount to be paid by an employer under subsection (3) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (6), the amount or so much thereof as remains unpaid shall be recoverable by the court as if it were a fine and the amount so recoverable shall be paid to the employee entitled to payment under the direction of the Minister.
 
@@ -1678,21 +1733,29 @@ and the employer shall comply with the direction of the Minister.
 
 shall have the effect of depriving her of any payment to which, but for that notice, she would have been entitled or would, on or before the date of her confinement, have become entitled to under this Part.
 
+[28/2008]
+
 (2) In any case where there are 2 or more estimated delivery dates (each certified by a medical practitioner) for the confinement of a female employee, the estimated delivery date that is relevant for the purposes of subsection (1) shall be the estimated delivery date —
 
 (a) which is certified by a medical practitioner before the notice of dismissal is given by her employer; and
 
 (b) the date of such certification of which is closest to the date the notice of dismissal is given.
 
+[28/2008]
+
 (3) The payment referred to in subsection (1) shall be in addition to any retrenchment benefit or other payment to which the female employee is entitled under the terms of her contract of service or under any other written law.
+
+[28/2008]
 
 ### Claim from one employer only
 
 85\.—(1) Subject to subsection (2), nothing in this Part shall be deemed to entitle any female employee to claim any payment under this Part from more than one employer in respect of the same confinement.
 
-[28/2008 wef 31/10/2008]
+[28/2008]
 
 (2) Subsection (1) shall not apply to any female employee in respect of any confinement of hers which occurs, or the estimated delivery date (as certified by a medical practitioner) of which is, on or after 31st October 2008.
+
+[28/2008]
 
 ### Contracting out
 
@@ -1702,11 +1765,7 @@ shall have the effect of depriving her of any payment to which, but for that not
 
 87\. Any employer who fails to pay his female employee in accordance with the provisions of this Part (other than section 87A) or who acts in contravention of section 81 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[41/2004 wef 01/10/2004]
-
-[28/2008 wef 31/10/2008]
-
-[21/84]
+[21/84; 41/2004; 28/2008]
 
 ### Childcare leave for parent
 
@@ -1718,6 +1777,8 @@ shall have the effect of depriving her of any payment to which, but for that not
 
 he shall be entitled to childcare leave of 2 days for that relevant period.
 
+[41/2004]
+
 (2) An employee —
 
 (a) shall not be entitled to more than 14 days of childcare leave in respect of any child; and
@@ -1726,15 +1787,13 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 (i) take his first entitlement of childcare leave of 2 days for a relevant period in that relevant period or the next succeeding relevant period; and
 
-[28/2008 wef 31/10/2008]
-
 (ii) thereafter, take his next and each subsequent entitlement of childcare leave of 2 days for a relevant period in the next succeeding relevant period and in each subsequent succeeding relevant period, respectively.
 
-[28/2008 wef 31/10/2008]
+[41/2004; 28/2008]
 
 (3) The childcare leave shall be in addition to the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively.
 
-[32/2008 wef 01/01/2009]
+[41/2004; 32/2008]
 
 (4) An employer shall grant, and an employee who is entitled to childcare leave shall take, the entitlement of childcare leave of 2 days for a relevant period not later than the last day of that relevant period, and any employee who fails to take that leave by that day —
 
@@ -1742,7 +1801,11 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 (b) shall not be entitled to any payment in lieu thereof.
 
+[41/2004]
+
 (5) An employer shall pay an employee who is entitled to childcare leave his gross rate of pay for every day of such leave that is taken by the employee.
+
+[41/2004]
 
 (6) If the employment of an employee who is entitled to childcare leave is terminated (whether by resignation or dismissal, upon the completion of his contract of service, or for any other reason) before he has taken the entitlement of childcare leave of 2 days for a relevant period, the employee —
 
@@ -1750,17 +1813,23 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 (b) shall not be entitled to any payment in lieu thereof.
 
+[41/2004]
+
 (7) Any employer who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
 (b) for a subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(7A) Any employer who fails, without reasonable cause, to grant childcare leave to an employee who is entitled to and requests for such leave shall be guilty of an offence and shall be liable on conviction —
+[28/2008]
+
+(7A) Any employer who fails, without reasonable cause, to grant childcare leave to an employee who is entitled to and requests such leave shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $5,000; and
 
 (b) for a subsequent offence, to a fine not exceeding $10,000.
+
+[28/2008]
 
 (8) In this section —
 
@@ -1772,7 +1841,7 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 (b) where there is no such agreement, a calendar year.
 
-[41/2004 wef 01/10/2004]
+[41/2004]
 
 ## PART X
 
@@ -1788,13 +1857,23 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 (c) if any of the days specified in that Schedule falls on a day when the employee is not required to work under his contract of service, the employer may either pay the employee for that holiday at his gross rate of pay or give the employee a day off in substitution for that holiday.
 
+[32/2008]
+
 (2) Notwithstanding subsection (1), no employee shall be entitled to holiday pay for any holiday which falls on a day when the employee is on leave of absence without pay granted by the employer at the request of the employee.
+
+[32/2008]
 
 (3) An employee who absents himself from work on the working day immediately preceding or immediately succeeding a holiday or any day substituted therefor under subsection (1) without the prior consent of his employer or without reasonable excuse shall not be entitled to any holiday pay for that holiday.
 
+[32/2008]
+
 (4) Notwithstanding subsection (1), any employee may be required by his employer to work on any holiday to which he would otherwise be entitled under that subsection and, in such event, he shall be paid an extra day’s salary at the basic rate of pay for one day’s work in addition to the gross rate of pay for that day and to a travelling allowance, if payable to him under the terms of his agreement with his employer, for one day.
 
+[32/2008]
+
 (5) No employee shall, by reason of subsection (4), receive double any housing allowance or food allowance.
+
+[32/2008]
 
 (6) Subsection (4) shall not apply to an employee who is employed by the Government or a statutory body in any of the essential services as defined under Part III of the Criminal Law (Temporary Provisions) Act (Cap. 67), but —
 
@@ -1802,7 +1881,11 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 (b) in any such case, he shall be given a day or part of a day off, as the case may be, in substitution for the holiday or part thereof.
 
+[32/2008]
+
 (7) For the purposes of this section if any such holiday falls on a half working day, the gross or basic rate of pay payable shall be that of a full working day.
+
+[32/2008]
 
 ### Sick leave
 
@@ -1815,6 +1898,8 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 (i) 60 days in each year;
 
 (ii) the aggregate of 14 days plus the number of days on which he is hospitalised.
+
+[32/2008]
 
 (2) Any employee who has served an employer for a period of at least 3 months but less than 6 months shall, after examination at the expense of the employer by a medical practitioner appointed by the employer or a medical officer, be entitled to such paid sick leave, as may be certified by the medical practitioner or medical officer, not exceeding in the aggregate —
 
@@ -1848,7 +1933,11 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 (B) the aggregate of 11 days plus the number of days on which he is hospitalised.
 
+[32/2008]
+
 (3) If an employee is certified by a medical practitioner appointed by the employer or a medical officer to be ill enough to need to be hospitalised but is not hospitalised for any reason whatsoever, the employee shall be deemed to be hospitalised for the purposes of this section.
+
+[32/2008]
 
 (4) An employee who absents himself on sick leave —
 
@@ -1858,21 +1947,31 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 shall be deemed to have absented himself from work without the permission of his employer and without reasonable excuse for the days on which he is so absent from work.
 
+[32/2008]
+
 (5) The employer shall pay the employee for every day of such sick leave —
 
 (a) where no hospitalisation is necessary, at the gross rate of pay excluding any allowance payable in respect of shift work; and
 
 (b) where hospitalisation is necessary, at the gross rate of pay.
 
-(6) Notwithstanding subsection (5), no employee shall be entitled to paid sick leave on a rest day or on a holiday to which he is entitled under section 36 or 88 or on any day of paid annual leave or on a day when he is not required to work under his contract of service or on a day when he is on leave of absence without pay granted by the employer at his request.
+[32/2008]
+
+(6) Notwithstanding subsection (5), no employee shall be entitled to paid sick leave on a rest day or on a holiday to which he is entitled under section 36 or 88 respectively or on any day of paid annual leave or on a day when he is not required to work under his contract of service or on a day when he is on leave of absence without pay granted by the employer at his request.
+
+[32/2008]
 
 (7) No employee shall be entitled to paid sick leave for the period during which he is receiving or is entitled to receive compensation for temporary incapacity under paragraph 4 of the Third Schedule to the Work Injury Compensation Act (Cap. 354).
+
+[32/2008]
 
 (8) For the purposes of subsections (1) and (2), an employer shall be deemed to fulfil the obligation imposed by those subsections to bear the fees of any medical examination of his employees if —
 
 (a) the Commissioner, after considering the merits of any healthcare scheme that the employer provides to his employees and such other matters as the Commissioner may consider relevant, by order in writing directs that the employer fulfils that obligation for so long as he provides such a healthcare scheme for his employees; or
 
 (b) the employer complies with such other requirement as the Minister may, by regulations, prescribe.
+
+[32/2008]
 
 (9) An order made under subsection (8)(a) —
 
@@ -1882,17 +1981,17 @@ shall be deemed to have absented himself from work without the permission of his
 
 (c) may be revoked by the Commissioner in writing at any time.
 
+[32/2008]
+
+Control of employment
+
+90\. [Repealed by Act 32 of 2008]
+
 ## PART XI
 
-90\. [Deleted by Act 32/2008 wef 01/01/2009]
+HEALTH, ACCOMMODATION AND MEDICAL CARE
 
-91\. [Deleted by Act 32/2008 wef 01/01/2009]
-
-92\. [Deleted by Act 32/2008 wef 01/01/2009]
-
-93\. [Deleted by Act 32/2008 wef 01/01/2009]
-
-94\. [Deleted by Act 32/2008 wef 01/01/2009]
+[91. to 94. [Repealed byAct 32 of 2008]
 
 ## PART XII
 
@@ -1902,15 +2001,13 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 95\.—(1) Every employer shall prepare and keep a register showing the name, address, the basic rate of pay and allowances, the amount earned, and the amount of deductions made from the earnings of each employee employed by him and such other particulars as may be prescribed from time to time.
 
+[21/84; 36/95]
+
 (2) For the purposes of this Part —
 
-“employee” includes any person who works in any capacity whatsoever, whether under a contract of service or otherwise, with or without salary and whether in or outside the premises where the profession, business, trade or work of the employer is carried on; and
+“employee” includes any person who works in any capacity whatsoever, whether under a contract of service or otherwise, with or without salary and whether in or outside the premises where the profession, business, trade or work of the employer is carried on;
 
 “employer” includes a sole-proprietorship or partnership or a corporation and any person who is defined to be an employer under any written law in force in Singapore.
-
-[21/84]
-
-[36/95]
 
 ### Record of workmen
 
@@ -1932,9 +2029,9 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 ### Commissioner may call for further returns
 
-98\.—(1) The Commissioner may give notice in writing to any employer when and as often as he thinks necessary requiring the employer to furnish within a reasonable time stated in the notice fuller or further returns respecting any matter as to which a return is required under this Act or the Employment of Foreign Manpower Act [Cap. 91A].
+98\.—(1) The Commissioner may give notice in writing to any employer when and as often as he thinks necessary requiring the employer to furnish within a reasonable time stated in the notice fuller or further returns respecting any matter as to which a return is required under this Act or the Employment of Foreign Manpower Act (Cap. 91A).
 
-[30/2007 wef 01/07/2007]
+[30/2007]
 
 (2) Such requisition may specify —
 
@@ -1950,7 +2047,9 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 [21/84]
 
-100\. [Repealed by Act 32/2008 wef 01/01/2009]
+Service of requisitions
+
+100\. [Repealed byAct 32 of 2008]
 
 ### Offence
 
@@ -1964,25 +2063,23 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both, and in the case of a continuing offence to a further fine not exceeding $500 for every day during which the offence continues, and in respect of false particulars, information and answers, the offence shall be deemed to continue until true particulars, information or answers have been furnished or given.
 
-[32/2008 wef 01/01/2009]
+[21/84; 32/2008]
 
 (2) A certificate under the hand of the Commissioner stating that such returns have not been furnished or are incorrect shall be sufficient prima facie evidence of the truth of the facts stated in the certificate.
-
-[21/84]
 
 ### Returns not to be published or disclosed
 
 102\.—(1) No return of particulars or information and no part of a return furnished, and no answer to any question put, for the purposes of this Act shall, without the previous consent in writing of the person having the control, management or superintendence of the profession, business, trade or work in relation to which the return or answer was furnished or given, be published nor, except for the purposes of a prosecution under this Act, shall any person not engaged in connection with the collection or preparation of statistics under this Act be permitted to see any such individual return or any such part of an individual return.
 
-(2) Every person engaged in connection with the collection, preparation or publication of statistics under this Act shall be required to make a declaration in the prescribed form that he will not disclose or, except for the purposes of this Act, make use of the contents of any such part of an individual return, or any such answer; and any person who knowingly acts in contravention of any declaration which he has so made shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(2) Every person engaged in connection with the collection, preparation or publication of statistics under this Act shall be required to make a declaration in the prescribed form that he will not disclose or, except for the purposes of this Act, make use of the contents of any such part of an individual return, or any such answer; and any person who knowingly acts in contravention of any declaration which he has so made shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 (3) In any report, summary of statistics, or other publication prepared under this Act with reference to any trade or industry, the particulars comprised in any return shall not be disclosed in any manner whatever, or arranged in any way which would enable any person to identify any particulars so published as being particulars relating to any individual person or business.
 
-(4) If any person, having possession of any information which to his knowledge has been disclosed in contravention of this section, publishes or communicates to any other person any such information, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(4) If any person, having possession of any information which to his knowledge has been disclosed in contravention of this section, publishes or communicates to any other person any such information, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ## PART XIII
 
@@ -2008,23 +2105,29 @@ INSPECTION AND ENQUIRY
 
 (h) to require any person to produce any article which is relevant to any investigation under this Act and, if necessary, to take into custody any such article.
 
+[32/2008]
+
 (2) The person referred to in subsection (1)(b) shall be bound to state truly the facts and circumstances with which he is acquainted.
+
+[32/2008]
 
 (3) A statement made by the person referred to in subsection (1)(b) shall be read over to him and shall, after correction, if necessary, be signed by him.
 
+[32/2008]
+
 (4) The Commissioner or the inspecting officer shall, if required to do so, show his credentials.
+
+[32/2008]
 
 ### Notice to employer by Commissioner or inspecting officer of inspection or visit
 
 104\. On entering any place of employment under section 103, the Commissioner or the inspecting officer shall notify the employer or his representative of his presence unless he considers that such a notification may be prejudicial to the efficient performance of his duties.
 
-[32/2008 wef 01/01/2009]
+[21/84; 36/95; 32/2008]
 
-[21/84]
+Powers of Commissioner and inspecting officer
 
-[36/95]
-
-105\. [Repealed by Act 32/2008 wef 01/01/2009 wef 01/01/2009.21/84.36/95]
+105\. [Repealed byAct 32 of 2008]
 
 ### Inspecting officer not to reveal secrets
 
@@ -2042,6 +2145,8 @@ INSPECTION AND ENQUIRY
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[32/2008]
+
 ## PART XIV
 
 GENERAL
@@ -2049,6 +2154,8 @@ GENERAL
 ### Calculation of gross and basic rates of pay of employee employed on monthly rate or piece rates
 
 107A\.—(1) The gross rate of pay per day of an employee employed on a monthly rate or on piece rates shall be calculated in accordance with the second column of the Third Schedule.
+
+[36/95]
 
 (2) The basic rate of pay per day of an employee employed on a monthly rate or on piece rates shall be calculated in accordance with the third column of the Third Schedule.
 
@@ -2058,9 +2165,7 @@ GENERAL
 
 108\. Any employer who without reasonable excuse, the proof of which shall lie on him, refuses to allow an employee whose contract of service has been determined in any of the ways hereinbefore provided to leave his service shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both, and the whole or any portion of any fine recoverable under this section may be adjudged by the court to be paid to the employee.
 
-[32/2008 wef 01/01/2009]
-
-[21/84]
+[21/84; 32/2008]
 
 ### Employee not answerable for debt, default or miscarriage of another
 
@@ -2070,39 +2175,37 @@ GENERAL
 
 110\. Any employer or other person who in any way obstructs any employee in appearing before the Commissioner in pursuance of this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[32/2008 wef 01/01/2009]
-
-[21/84]
+[21/84; 32/2008]
 
 ### Punishment for obstruction
 
 111\. Any person who wilfully obstructs or impedes any entry, inspection, inquiry or investigation made under this Act for which no penalty is expressly provided shall be guilty of an offence.
 
+[32/2008]
+
 ### Penalties
 
-112\. Any person who is guilty of any breach or any offence under this Act for which no penalty is otherwise provided shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both, and for a subsequent offence under the same section to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+112\. Any person who is guilty of any breach or any offence under this Act for which no penalty is otherwise provided shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both, and for a subsequent offence under the same section to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[32/2008 wef 01/01/2009]
-
-[21/84]
+[21/84; 32/2008]
 
 ### Penalty for fraudulently inducing employee to emigrate
 
 113\. Any person who by force, intoxication or ill-treatment, intimidation or fraud, or by means of false representations, induces or attempts to induce any person to enter into a contract of service to work beyond the limits of Singapore shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ### Offence by body corporate
 
-113A\. Where an offence under this Act or any regulations made thereunder is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+113A\. Where an offence under this Act is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 [36/95]
 
 ### Power to compound offences
 
-114\. The Commissioner may in his discretion compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by accepting from the person reasonably suspected of committing that offence a sum not exceeding $1,000.
+114\. The Commissioner may in his discretion compound any such offence under this Act as may be prescribed as being an offence which may be compounded by accepting from the person reasonably suspected of committing that offence a sum not exceeding $1,000.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 ## PART XV
 
@@ -2110,7 +2213,7 @@ CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
 
 ### Commissioner’s power to inquire into complaints
 
-115\.1—(1) Subject to this section, the Commissioner may inquire into and decide any dispute between an employee and his employer or any person liable under the provisions of this Act to pay any salary due to the employee where the dispute arises out of any term in the contract of service between the employee and his employer or out of any of the provisions of this Act, and in pursuance of that decision may make an order in the prescribed form for the payment by either party of such sum of money as he considers just without limitation of the amount thereof.
+115\.—(1) Subject to this section, the Commissioner may inquire into and decide any dispute between an employee and his employer or any person liable under the provisions of this Act to pay any salary due to the employee where the dispute arises out of any term in the contract of service between the employee and his employer or out of any of the provisions of this Act, and in pursuance of that decision may make an order in the prescribed form for the payment by either party of such sum of money as he considers just without limitation of the amount thereof.
 
 (2) The Commissioner shall not inquire into any dispute in respect of matters arising earlier than one year from the date of lodging a claim under section 119 or the termination of the contract of service of or by the person claiming under that section:
 
@@ -2148,15 +2251,13 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 119\.—(1) The mode of procedure for the making and hearing of claims shall be as follows:
 
-(a) the person claiming shall lodge a memorandum at the office of the Commissioner, specifying shortly the subject-matter of the claim and the remedy sought to be obtained, or he may make his claim in person to the Commissioner who shall forthwith reduce it or cause it to be reduced in writing;
+(a) the person claiming shall lodge a memorandum at the office of the Commissioner, specifying shortly the subject-matter of the claim and the remedy sought to be obtained, or he may make his claim in person to the Commissioner who shall immediately reduce it or cause it to be reduced in writing;
 
 (b) upon receipt of the memorandum or verbal claim and of the registration fee payable by the person in accordance with the rates specified in the Second Schedule, the Commissioner shall summon in writing the party against whom the claim is made, giving reasonable notice to him of the nature of the claim and the time and place at which the claim will be inquired into, and he shall also notify or summon all persons whose interests may appear to him likely to be affected by the proceedings;
 
-[32/2008 wef 01/01/2009]
-
 (c) the Commissioner may also summon such witnesses as either party may wish to call;
 
-(d) if the party against whom a claim is made wishes to make a counterclaim against the party claiming he shall notify the Commissioner and the other party in writing of the nature and amount of the counterclaim not less than 3 days before the date of the inquiry;
+(d) if the party against whom a claim is made wishes to make a counterclaim against the party claiming, he shall notify the Commissioner and the other party in writing of the nature and amount of the counterclaim not less than 3 days before the date of the inquiry;
 
 (e) at any time between the issuing of summons and the hearing of the claim, the Commissioner may hold or cause to be held a preliminary inquiry at which the party claiming and the party against whom the claim is made shall be present after having been notified in writing of the inquiry;
 
@@ -2170,9 +2271,11 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 (j) the Commissioner shall keep a case book, in which he shall enter notes of the evidence taken and the decisions arrived at in each case heard before him and shall authenticate them by attaching his signature thereto, and the record in the case book shall be sufficient evidence of the giving of any decision, or of the making of any order, and of the terms thereof; and any person interested in a dispute, decision or order, shall be entitled to a copy of the record upon payment of the prescribed fee.
 
+[32/2008]
+
 (2) In hearing claims or conducting proceedings under this Part, the Commissioner —
 
-(a) shall not be bound to act in a formal manner or in accordance with the Evidence Act [Cap. 97] but may inform himself on any matters in such manner as he thinks just; and
+(a) shall not be bound to act in a formal manner or in accordance with the Evidence Act (Cap. 97) but may inform himself on any matters in such manner as he thinks just; and
 
 (b) shall act according to equity, good conscience and the merits of the case without regard to technicalities.
 
@@ -2184,7 +2287,7 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 (b) being an employer may be represented by one of his employees,
 
-but shall not be represented by an advocate or solicitor or paid agent.
+but shall not be represented by an advocate or solicitor or a paid agent.
 
 ### Joining of claims
 
@@ -2196,29 +2299,31 @@ but shall not be represented by an advocate or solicitor or paid agent.
 
 122\. Nothing in this Part shall limit or affect the jurisdiction of any court.
 
-123\. [Repealed by Act 32/2008 wef 01/01/2009]
+Employee’s remedy when employer about to abscond
+
+123\. [Repealed byAct 32 of 2008]
 
 ### Investigations of complaints and offences
 
 124\.—(1) Whenever the Minister, the Parliamentary Secretary to the Minister, the Permanent Secretary to the Ministry of Manpower, the Commissioner or an inspecting officer has reasonable grounds for believing that an offence under this Act has been committed, or wishes to inquire into any matter for which provision is made by this Act or any dispute as to such matter or the death of an employee, or any matter connected with hospital and medical facilities, quarters, sanitation, inspections or the keeping of registers and other documents or whenever any person complains to the Minister, the Parliamentary Secretary to the Minister, the Permanent Secretary to the Ministry of Manpower, the Commissioner or an inspecting officer of any breach of any provision of this Act, the Minister, the Parliamentary Secretary to the Minister, the Permanent Secretary to the Ministry of Manpower, the Commissioner or an inspecting officer, as the case may be, may summon any other person who he has reason to believe can give information regarding the subject-matter of the inquiry or complaint, and the person so summoned shall be legally bound to attend at the time and place specified in the summons to furnish information or documents, produce any article or give statements, and to answer truthfully all questions which the Minister, the Parliamentary Secretary to the Minister, the Permanent Secretary to the Ministry of Manpower, the Commissioner or an inspecting officer, as the case may be, may put to him.
 
-[32/2008 wef 01/01/2009]
+[36/95; 32/2008]
 
 (2) Any person who in any way wilfully obstructs the service of or obedience to such summons, and any person summoned who neglects to attend as required in such summons shall be guilty of an offence.
 
-[32/2008 wef 01/01/2009]
+[32/2008]
 
 (3) The Commissioner or inspecting officer shall have the power to report any failure by such person to attend as required by a summons under subsection (2) to a Magistrate, who may thereupon issue a warrant to secure the attendance of that person as required by the summons.
 
-[36/95]
+[32/2008]
 
 ### Procedure after inquiry
 
-125\.—(1) If upon inquiry under section 124 it appears that an offence has been committed or that the complaint is well founded, the Commissioner may institute such proceedings, civil or criminal, as he may consider necessary under the circumstances and where the proceedings arise from a complaint made by an employee or subcontractor for labour he shall institute the proceedings for and in the name of the employee or subcontractor for labour.
+125\.—(1) If upon an inquiry under section 124 it appears that an offence has been committed or that the complaint is well founded, the Commissioner may institute such proceedings, civil or criminal, as he may consider necessary under the circumstances and where the proceedings arise from a complaint made by an employee or a subcontractor for labour he shall institute the proceedings for and in the name of the employee or subcontractor for labour.
 
 (2) In the event of there being more employees or subcontractors for labour than one making a similar complaint, the Commissioner may, if he institutes civil proceedings for and in the name of those employees or subcontractors for labour, consolidate the complaint of all those employees or subcontractors for labour into one cause of action and he shall only be required to sue out one summons for and in the name of all those employees or subcontractors for labour in respect of such causes of action.
 
-(3) Any court which would have jurisdiction to hear and determine separate suits based on such causes of action shall be competent to hear and determine such consolidated suit, notwithstanding that the subject matter of the consolidated subject-matter suit is in excess of the ordinary jurisdiction of that court.
+(3) Any court which would have jurisdiction to hear and determine separate suits based on such causes of action shall be competent to hear and determine such consolidated suit, notwithstanding that the subject-matter of the consolidated subject-matter suit is in excess of the ordinary jurisdiction of that court.
 
 (4) Judgment may be given without any amendment for such one or more of the plaintiffs as may be found to be entitled to relief for such relief as he or they may be entitled to.
 
@@ -2232,25 +2337,25 @@ PROCEDURE AND REGULATIONS
 
 ### Officers to be public servants
 
-127\. For the purposes of this Act and of the Penal Code [Cap. 224], the Commissioner and all other officers appointed or acting under this Act shall be deemed to be public servants within the meaning of the Penal Code.
+127\. For the purposes of this Act and of the Penal Code (Cap. 224), the Commissioner and all other officers appointed or acting under this Act shall be deemed to be public servants within the meaning of the Penal Code.
 
 ### Place of employment deemed to be public place
 
-128\. For the purposes of section 18 of the Miscellaneous Offences (Public Order and Nuisance) Act [Cap. 184], every place of employment shall be deemed to be a public place.
+128\. For the purposes of section 18 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184), every place of employment shall be deemed to be a public place.
 
 ### Jurisdiction of Magistrates’ and District Courts
 
 129\.—(1) Subject to any special provision to the contrary in this Act, all convictions and penalties for offences under this Act may be had and recovered before a Magistrate’s Court or a District Court on complaint by any person aggrieved or by the Commissioner or any person authorised by him in that behalf.
 
-(2) A Magistrate’s Court or a District Court may, notwithstanding anything in the Criminal Procedure Code, impose the full punishment prescribed by this Act, excepting that a Magistrate’s Court shall not impose a sentence of imprisonment exceeding one year.
+(2) A Magistrate’s Court or a District Court may, notwithstanding anything in the Criminal Procedure Code (Cap. 68), impose the full punishment prescribed by this Act, excepting that a Magistrate’s Court shall not impose a sentence of imprisonment exceeding 12 months.
 
 ### Right to hearing
 
-130\. The Commissioner and any officer authorised by him in writing shall have the right to appear and be heard before a Magistrate’s Court or a District Court in any proceedings under this Act and shall also have the right to be heard before those Courts in any prosecution under Chapter XVI of the Penal Code [Cap. 224] instituted by him in accordance with section 125.
+130\. The Commissioner and any officer authorised by him in writing shall have the right to appear and be heard before a Magistrate’s Court or a District Court in any proceedings under this Act and shall also have the right to be heard before those Courts in any prosecution under Chapter XVI of the Penal Code (Cap. 224) instituted by him in accordance with section 125.
 
 ### Onus of proof
 
-131\. In all proceedings under Part XV, the onus of proving that he is not the employer or the person whose duty it is under this Act or under any regulations made thereunder to do or abstain from doing anything shall be on the person who alleges that he is not the employer or other person, as the case may be.
+131\. In all proceedings under Part XV, the onus of proving that he is not the employer or the person whose duty it is under this Act to do or abstain from doing anything shall be on the person who alleges that he is not the employer or other person, as the case may be.
 
 ### Civil proceedings not barred
 
@@ -2288,7 +2393,11 @@ PROCEDURE AND REGULATIONS
 
 (ii) by sending it by registered post addressed to the body of persons or body corporate at its registered office or principal place of business.
 
+[32/2008]
+
 (2) Any requisition or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the requisition or summons, as the case may be, would in the ordinary course of post be delivered and, in proving service of the requisition or summons, it shall be sufficient to prove that the envelope containing the requisition or summons, as the case may be, was properly addressed, stamped and posted by registered post.
+
+[32/2008]
 
 ### Power to make reciprocal provisions with Malaysia for the service, execution and enforcement of summonses, warrants and orders
 
@@ -2310,19 +2419,17 @@ PROCEDURE AND REGULATIONS
 
 (c) regulate the method of collecting statistics either in connection with or independently of any other public department, the staff to be employed in connection therewith, the duties to be performed and the publications, if any, to be issued;
 
-(d) prescribe the forms in which, the times and places at and the manner in which particulars or information shall be furnished, and the manner in which the same shall be authenticated, and any other thing which under this Act is required to be prescribed;
+(d) prescribe the forms and manner in which and the times and places at which particulars or information shall be furnished, and the manner in which the same shall be authenticated, and any other thing which under this Act is required to be prescribed;
 
 (e) exempt from the obligation to furnish particulars or information under this Act, either wholly or to the prescribed extent, and either unconditionally or subject to the prescribed conditions, any employer or class of employers;
 
 (f) prescribe the form of register to be kept under section 29 and the forms of orders to be made under sections 115 and 119;
 
-(g) prescribe the fees payable for copies of notes of evidence and decisions recorded under section 119(1) (j);
+(g) prescribe the fees payable for copies of notes of evidence and decisions recorded under section 119(1)(j);
 
-(h) prescribe penalties for any contravention or failure to comply with any of the provisions of the regulations made under this section; except that no such penalty shall exceed $5,000 in the case of a first offence or $10,000 in the case of a second or subsequent offence under the same regulation within one year.
+(h) prescribe penalties for any contravention of the provisions of the regulations made under this section; except that no such penalty shall exceed $5,000 in the case of a first offence or $10,000 in the case of a second or subsequent offence under the same regulation within one year.
 
-[32/2008 wef 01/01/2009]
-
-[21/84]
+[21/84; 32/2008]
 
 (3) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
@@ -2362,19 +2469,13 @@ Registration Fee
 
 The registration fee payable by any person making a claim with the Commissioner for Labour shall be as follows:
 
-(a) where the claim is made by an employee
-
-. . .
+(a) where the claim is made by an employee ...
 
 $3
 
-(b) where the claim is made by an employer
+(b) where the claim is made by an employer ...
 
-. . .
-
-$20
-
-[S 475/90]
+$20.
 
 THIRD SCHEDULE
 
@@ -2394,79 +2495,111 @@ Calculation of gross rate of pay
 
 Calculation of basic rate of pay
 
-1. Where an employee is employed on piece rates.
+1.
+
+Where an employee is employed on piece rates.
 
 The gross rate of pay for one day is to be calculated by dividing the total salary including allowances but excluding —
 
 The basic rate of pay for one day is to be calculated by dividing the total salary including wage adjustments and increments but excluding —
 
-(a) additional payments by way of overtime payments;
+(a)
 
-(a) additional payments by way of overtime payments;
+additional payments by way of overtime payments;
 
-(b) additional payments by way of bonus payments or annual wage supplements;
+(a)
 
-(b) additional payments by way of bonus payments or annual wage supplements;
+additional payments by way of overtime payments;
 
-(c) any sum paid to the employee to reimburse him for special expenses incurred by him in the course of his employment;
+(b)
 
-(c) any sum paid to the employee to reimburse him for special expenses incurred by him in the course of his employment;
+additional payments by way of bonus payments or annual wage supplements;
 
-(d) productivity incentive payments; and
+(b)
 
-(d) productivity incentive payments; and
+additional payments by way of bonus payments or annual wage supplements;
 
-(e) travelling, food and housing allowances,
+(c)
 
-(e) any allowances however described,
+any sum paid to the employee to reimburse him for special expenses incurred by him in the course of his employment;
+
+(c)
+
+any sum paid to the employee to reimburse him for special expenses incurred by him in the course of his employment;
+
+(d)
+
+productivity incentive payments; and
+
+(d)
+
+productivity incentive payments; and
+
+(e)
+
+travelling, food and housing allowances,
+
+(e)
+
+any allowance however described,
 
 earned by the employee during the period of 14 days immediately preceding the date of termination, day of absence or period of absence, holiday, day of leave or period of leave, or benefit period, as the case may be, by the number of days on which the employee actually worked during that period of 14 days.
 
 earned by the employee during the period of 14 days immediately preceding the rest day or holiday, as the case may be, by the number of days on which the employee actually worked during that period of 14 days.
 
-2. Where an employee is employed on a monthly rate of pay and the number of days on which the employee is required to work in a week is the same in every week under his contract of service.
+2.
+
+Where an employee is employed on a monthly rate of pay and the number of days on which the employee is required to work in a week is the same in every week under his contract of service.
 
 The gross rate of pay for one day is to be calculated according to the following formula:
 
-12 x monthly gross rate of pay
-
-52 x number of days on which the employee is required to work in a week.
-
 The basic rate of pay for one day is to be calculated according to the following formula:
+
+12 x monthly gross rate of pay
 
 12 x monthly basic rate of pay
 
 52 x number of days on which the employee is required to work in a week.
 
-3. Where an employee is employed on a monthly rate of pay and is required under his contract of service to work on a certain number of days in one week and on a different number of days in the following week in every period of 2 consecutive weeks.
+52 x number of days on which the employee is required to work in a week.
+
+3.
+
+Where an employee is employed on a monthly rate of pay and is required under his contract of service to work on a certain number of days in one week and on a different number of days in the following week in every period of 2 consecutive weeks.
 
 The gross rate of pay for one day is to be calculated according to the following formula:
 
-12 x monthly gross rate of pay
-
-52 x average number of days on which the employee is is required to work in a week over any period of 2 consecutive weeks.
-
 The basic rate of pay for one day is to be calculated according to the following formula:
 
-12 x montly basic rate of pay
+12 x monthly gross rate of pay
+
+12 x monthly basic rate of pay
 
 52 x average number of days on which the employee is required to work in a week over any period of 2 consecutive weeks.
 
-4. Where an employee is employed on a monthly rate of pay and is required under his contract of service to work on different number of days in different weeks.
+52 x average number of days on which the employee is required to work in a week over any period of 2 consecutive weeks.
 
-The basic rate of pay for one day is to be calculated according to the following formula or such other formula as may be approved by the Commissioner:
+4.
 
-12 x monthly gross rate of pay
-
-52 x average number of working days in a week.
+Where an employee is employed on a monthly rate of pay and is required under his contract of service to work on different number of days in different weeks.
 
 The gross rate of pay for one day is to be calculated according to the following formula or such other formula as may be approved by the Commissioner:
 
-12 x monthly basic rate of pay
+The basic rate of pay for one day is to be calculated according to the following formula or such other formula as may be approved by the Commissioner:
+
+___
+
+12 x monthly gross rate of pay___
 
 52 x average number of working days in a week.
 
-[36/95]
+____
+
+12 x monthly basic rate of pay___
+
+52 x average number of working days in a week.
+
+[S 475/90]
 
 5. In this Schedule —
 
@@ -2618,3 +2751,5 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1 March 2009|
+|26.|**2009 Revised Edition—Employment Act**|
+||Date of operation|31 July 2009|
