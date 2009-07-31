@@ -1,16 +1,14 @@
-**Workplace Safety and Health Act 2006**
+**Workplace Safety and Health Act**
 
-**(No. 7 of 2006)**
+**(CHAPTER 354A)**
 
 **Table of Contents**
 
 [**Long Title**](#Workplace-Safety-and-Health-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Application of Act](#Application-of-Act)
 
@@ -28,7 +26,7 @@
 
 - [7 Appointment of Commissioner for Workplace Safety and Health and other officers](#Appointment-of-Commissioner-for-Workplace-Safety-and-Health-and-other-officers)
 
-- [8 Commissioner, Deputy Commissioners, inspectors and authorised officers to be public servants](#Commissioner-Deputy-Commissioners-inspectors-and-authorised-officers-to-be-public-servants)
+- [8 Commissioner, Deputy Commissioners, inspectors, authorised officers, etc., to be public servants](#Commissioner-Deputy-Commissioners-inspectors-authorised-officers-etc-to-be-public-servants)
 
 - [9 Identification of inspectors and authorised officers](#Identification-of-inspectors-and-authorised-officers)
 
@@ -52,7 +50,7 @@
 
 - [18 Other related duties of occupiers and employers](#Other-related-duties-of-occupiers-and-employers)
 
-- [19 Duties of occupier of common areas](#Duties-of-occupier-of-common-areas)
+- [19 Duties of occupiers of common areas](#Duties-of-occupiers-of-common-areas)
 
 - [20 Offence of breaching duty under this Part](#Offence-of-breaching-duty-under-this-Part)
 
@@ -64,7 +62,7 @@
 
 - [23 Power to suspend certificate](#Power-to-suspend-certificate)
 
-[**Part VI INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and occupational diseases**](#Part-VI)
+[**Part VI INVESTIGATIONS, INQUIRIES AND REPORTING OF ACCIDENTS, DANGEROUS OCCURRENCES AND OCCUPATIONAL DISEASES**](#Part-VI)
 
 - [24 Investigation into accidents, dangerous occurrences, etc.](#Investigation-into-accidents-dangerous-occurrences-etc)
 
@@ -98,13 +96,19 @@
 
 - [38 Offence under this Part](#Offence-under-this-Part)
 
-[**Part VIII CODES OF PRACTICE**](#Part-VIII)
+[**Part VIII WORKPLACE SAFETY AND HEALTH COUNCIL**](#Part-VIII)
 
-- [39 Codes of practice](#Codes-of-practice)
+- [39 Establishment of Workplace Safety and Health Council](#Establishment-of-Workplace-Safety-and-Health-Council)
 
-- [40 Use of approved codes of practice in criminal proceedings](#Use-of-approved-codes-of-practice-in-criminal-proceedings)
+- [40 Powers and proceedings of Council](#Powers-and-proceedings-of-Council)
 
-[**Part IX INSPECTIONS AND OTHER POWERS OF Enforcement**](#Part-IX)
+- [40A Functions of Council](#Functions-of-Council)
+
+- [40B Codes of practice](#Codes-of-practice)
+
+- [40C Use of approved codes of practice in criminal proceedings](#Use-of-approved-codes-of-practice-in-criminal-proceedings)
+
+[**Part IX INSPECTIONS AND OTHER POWERS OF ENFORCEMENT**](#Part-IX)
 
 - [41 Powers of inspectors](#Powers-of-inspectors)
 
@@ -160,11 +164,7 @@
 
 - [65 Regulations](#Regulations)
 
-- [66 Repeal](#Repeal)
-
-- [67 Savings and transitional provisions](#Savings-and-transitional-provisions)
-
-- [68 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [66 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
 [**FIRST SCHEDULE Workplaces subject to Act**](#FIRST-SCHEDULE-Workplaces-subject-to-Act)
 
@@ -178,49 +178,33 @@
 
 [**SIXTH SCHEDULE Exempt persons at work**](#SIXTH-SCHEDULE-Exempt-persons-at-work)
 
-[**SEVENTH SCHEDULE Consequential amendments to other written laws**](#SEVENTH-SCHEDULE-Consequential-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Workplace Safety and Health Act
 
-Published by Authority
+(CHAPTER 354A)
 
-NO. 8]
+(Original Enactment: Act 7 of 2006)
 
-Friday, March 3
+REVISED EDITION 2009
 
-[2006
+(31st July 2009)
 
-The following Act was passed by Parliament on 17th January 2006 and assented to by the President on 6th February 2006:—
+An Act relating to the safety, health and welfare of persons at work in workplaces.
 
-Workplace Safety and Health Act 2006
-
-(No. 7 of 2006)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-6th February 2006.
-
-Date of Commencement: 1st March 2006
-
-An Act relating to the safety, health and welfare of persons at work in workplaces, and to repeal the Factories Act (Chapter 104 of the 1998 Revised Edition), and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 2006]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Workplace Safety and Health Act 2006 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Workplace Safety and Health Act.
 
 ### Application of Act
 
@@ -262,7 +246,7 @@ INTERPRETATION
 
 (d) any vessel in which any substance in the form of solid or liquid is stored and from which it is forced by compressed air;
 
-“approved code of practice” means any code of practice issued or approved under section 39, and includes any such code of practice as amended from time to time under that section;
+“approved code of practice” means any code of practice issued or approved under section 40B, and includes any such code of practice as amended from time to time under that section;
 
 “at work” means —
 
@@ -298,7 +282,7 @@ INTERPRETATION
 
 (a) the whole or any part of any house or any other structure, whether used for the purpose of human habitation or otherwise; and
 
-(b) any structure, support or foundation connected to the house or structure in paragraph (a);
+(b) any structure, support or foundation connected to the house or structure referred to in paragraph (a);
 
 “building operation” means —
 
@@ -306,7 +290,7 @@ INTERPRETATION
 
 (b) the demolition of a building; or
 
-(c) the preparation of the site for, and the laying of foundation of, an intended building,
+(c) the preparation of a site for, and the laying of foundation of, an intended building,
 
 but does not include any operation which is a work of engineering construction;
 
@@ -323,6 +307,8 @@ but does not include any operation which is a work of engineering construction;
 (b) to do any work for gain or reward,
 
 in connection with any trade, business, profession or undertaking carried on by the principal;
+
+“Council” means the Workplace Safety and Health Council established under section 39;
 
 “dangerous occurrence” means any occurrence which is specified in the Second Schedule;
 
@@ -388,7 +374,7 @@ but does not include any machinery used solely for the propulsion of vehicles;
 
 (b) the person who would so receive the rents or profits if the premises were leased;
 
-“premises” includes any place whether enclosed or built on or not, whether situated underground or under water and, in particular, includes —
+“premises” includes any place whether enclosed or built on or not, whether situated underground or underwater and, in particular, includes —
 
 (a) any building, vehicle, vessel or aircraft;
 
@@ -416,7 +402,7 @@ but does not include any machinery used solely for the propulsion of vehicles;
 
 “regulations” means regulations made under this Act;
 
-“repealed Act” means the Factories Act (Cap. 104) repealed by this Act;
+“repealed Act” means the Factories Act (Cap. 104, 1998 Ed.) repealed by this Act;
 
 “self-employed person” means a person who works for gain or reward otherwise than under a contract of service, whether or not employing others;
 
@@ -432,7 +418,7 @@ but does not include any machinery used solely for the propulsion of vehicles;
 
 (a) constructed with a permanent outlet into the atmosphere or into a space where the pressure does not exceed atmospheric pressure; and
 
-(b) through which steam is passed at atmospheric pressure, or at approximately that pressure for the purpose of heating, boiling, drying, evaporating or similar purpose;
+(b) through which steam is passed at atmospheric pressure, or at approximately that pressure for the purpose of heating, boiling, drying, evaporating or a similar purpose;
 
 “steam receiver” means any vessel or apparatus (other than a steam boiler, steam container, steam pipe or coil or a part of a prime mover) used for containing steam under pressure greater than atmospheric pressure;
 
@@ -453,6 +439,8 @@ which the contractor or subcontractor has been engaged as contractor or subcontr
 “workplace safety and health co-ordinator” means a workplace safety and health co-ordinator appointed under section 28;
 
 “workplace safety and health officer” means a workplace safety and health officer appointed under section 28.
+
+[9/2008]
 
 (2) For the purposes of this Act —
 
@@ -502,7 +490,7 @@ which the contractor or subcontractor has been engaged as contractor or subcontr
 
 (k) any premises where the production of cinematograph films is carried on by way of trade or for purposes of gain, but not a stage or a dressing-room of any actor in or connected with the production of any cinematograph film;
 
-(l) any premises where articles are made or prepared incidentally to the carrying on of any building operations or any works of engineering construction, not being premises in which such operations or works are being carried on;
+(l) any premises where articles are made or prepared incidentally to the carrying on of any building operations or any work of engineering construction, not being premises in which such operations or work are being carried on;
 
 (m) any premises which are used for the storage of gas, including liquefied gas, in a container having a storage capacity of not less than 140 cubic metres;
 
@@ -546,9 +534,9 @@ which the contractor or subcontractor has been engaged as contractor or subcontr
 
 “employer” means a person who, in the course of the person’s trade, business, profession or undertaking, employs any person to do any work under a contract of service.
 
-(2) For the purposes of this Act, any reference to an employee shall include a volunteer who —
+(2) For the purposes of this Act, any reference to an employee shall include a reference to a volunteer who —
 
-(a) does work for another person with the knowledge or consent of the other person; and
+(a) does work for another person with the knowledge or consent of that other person; and
 
 (b) does the work on an ongoing and regular basis for that other person,
 
@@ -560,7 +548,7 @@ being work that is in connection with any trade, business, profession or underta
 
 (iii) as if the volunteer were at work when doing work for the other person.
 
-(3) For the purposes of this Act, any reference to an employee shall also include a person who is in a workplace for the purpose of receiving on the job training or gaining work experience, including under a rehabilitation scheme (referred to in this subsection as person A), and this Act shall apply —
+(3) For the purposes of this Act, any reference to an employee shall include a reference to a person who is in a workplace for the purpose of receiving on the job training or gaining work experience, including under a rehabilitation scheme (referred to in this subsection as person A), and this Act shall apply —
 
 (a) as if the person A were an employee of the person (referred to in this subsection as person B) who agreed to provide on the job training or work experience;
 
@@ -606,9 +594,11 @@ ADMINISTRATION OF ACT
 
 (5) Notice of all appointments made under this section shall be published in theGazette.
 
-### Commissioner, Deputy Commissioners, inspectors and authorised officers to be public servants
+### Commissioner, Deputy Commissioners, inspectors, authorised officers, etc., to be public servants
 
-8\. The Commissioner and every Deputy Commissioner, inspector and authorised officer appointed under section 7 shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+8\. The Commissioner and every Deputy Commissioner, inspector and authorised officer appointed under section 7 and every member of the Council shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+
+[9/2008]
 
 ### Identification of inspectors and authorised officers
 
@@ -620,7 +610,12 @@ ADMINISTRATION OF ACT
 
 ## PART IV
 
-GENERAL DUTIES OF PERSONS AT WORKPLACES
+GENERAL DUTIES OF PERSONS
+
+
+
+
+AT WORKPLACES
 
 ### Duties according to different capacities
 
@@ -648,7 +643,7 @@ GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 and this Act may impose duties or liabilities on the person accordingly;
 
-(b) this Act may at any one time impose the same duty or liability on 2 or more persons, whether in the same capacity or different capacities; and
+(b) this Act may at any one time impose the same duty or liability on 2 or more persons, whether in the same capacity or in different capacities; and
 
 (c) a duty or liability imposed by this Act on any person is not diminished or affected by the fact that it is imposed on one or more other persons, whether in the same capacity or in different capacities.
 
@@ -684,7 +679,7 @@ are safe and without risks to health to every person within those premises, whet
 
 (d) developing and implementing procedures for dealing with emergencies that may arise while those persons are at work; and
 
-(e) ensuring that the person at work has adequate instruction, information, training and supervision as is necessary for that person to perform his work.
+(e) ensuring that those persons at work have adequate instruction, information, training and supervision as is necessary for them to perform their work.
 
 (4) Every employer shall, where required by the regulations, give to persons (not being his employees) the prescribed information about such aspects of the way in which he conducts his undertaking as might affect their safety or health while those persons are at his workplace.
 
@@ -722,7 +717,7 @@ are safe and without risks to health to every person within those premises, whet
 
 (d) developing and implementing procedures for dealing with emergencies that may arise while those persons are at work; and
 
-(e) ensuring that the person at work has adequate instruction, information, training and supervision as is necessary for that person to perform his work.
+(e) ensuring that those persons at work have adequate instruction, information, training and supervision as is necessary for them to perform their work.
 
 (5) Every principal shall, where required by the regulations, give to persons (other than a person referred to in subsection (1)(a), (b) or (c) working under the principal’s direction) the prescribed information about such aspects of the way in which he conducts his undertaking as might affect their safety or health while those persons are at his workplace.
 
@@ -750,11 +745,11 @@ are safe and without risks to health to every person within those premises, whet
 
 (ii) the health hazards (if any) associated with the machinery, equipment or hazardous substance; and
 
-(iii) the information relating to and the results of any tests or examinations of the machinery, equipment or hazardous substance under paragraph (c) that are relevant to its safe use;
+(iii) the information relating to and the results of any examinations or tests of the machinery, equipment or hazardous substance under paragraph (c) that are relevant to its safe use;
 
 (b) that the machinery, equipment or hazardous substance is safe, and without risk to health, when properly used;
 
-(c) that the machinery, equipment or hazardous substance is tested and examined so as to comply with the obligation imposed by paragraph (b).
+(c) that the machinery, equipment or hazardous substance is examined and tested so as to comply with the obligation imposed by paragraph (b).
 
 (2) The duties imposed on any person specified in subsection (1) shall —
 
@@ -772,7 +767,7 @@ are safe and without risks to health to every person within those premises, whet
 
 (b) in the course of that business acquired his interest in the machinery or equipment supplied to the customer as a means of financing its acquisition by the customer from a third person (referred to in this subsection as the effective supplier),
 
-the effective supplier shall be treated for the purposes of this section as supplying the machinery or equipment to the customer instead of the ostensible supplier, and any duty imposed by subsection (1) on a supplier shall accordingly apply to the effective supplier, and not on the ostensible supplier.
+the effective supplier shall be treated for the purposes of this section as supplying the machinery or equipment to the customer instead of the ostensible supplier, and any duty imposed by subsection (1) on a supplier shall accordingly apply to the effective supplier, and not to the ostensible supplier.
 
 (5) Where a person designs, manufactures or supplies any machinery, equipment or hazardous substance for use at work and does so for or to another on the basis of a written undertaking by that other to take specified steps sufficient to ensure, so far as is reasonably practicable, that the machinery, equipment or hazardous substance will be safe and without risk to health when properly used, the undertaking shall have the effect of relieving the first-mentioned person from the duty imposed by subsection (1)(b) to such extent as is reasonable having regard to the terms of the undertaking.
 
@@ -786,7 +781,7 @@ the effective supplier shall be treated for the purposes of this section as supp
 
 (8) In this section, “supplier”, in relation to any machinery, equipment or hazardous substance, does not include a manufacturer of those items when supplying, but includes an importer when supplying those items.
 
-(9) This section shall apply only to machinery, equipment or hazardous substance specified in the Fifth Schedule.
+(9) This section shall apply only to machinery, equipment or hazardous substances specified in the Fifth Schedule.
 
 ### Duties of persons who erect, install or modify machinery or equipment and persons in control of machinery for use at work
 
@@ -804,7 +799,7 @@ the effective supplier shall be treated for the purposes of this section as supp
 
 (a) so far as is reasonably practicable, that the machinery is maintained in a safe condition; and
 
-(b) that the precautions (if any) to be taken for the safe use of the machinery and the health hazards (if any) associated with the machinery is available to any person using the machinery.
+(b) that the precautions (if any) to be taken for the safe use of the machinery and the health hazards (if any) associated with the machinery are available to any person using the machinery.
 
 (5) Where the owner of any machinery moved by mechanical power has entered into a contract of hire or lease with a hirer or lessee, the duty imposed under subsection (4) shall apply to the hirer or lessee of the machinery instead of the owner.
 
@@ -840,17 +835,17 @@ in respect of anything to be done or provided by him in accordance with this Act
 
 (c) all reports and particulars prepared in respect of the workplace under this Act.
 
-(4) Any occupier of a workplace shall ensure that such records referred to in subsection (3) shall —
+(4) Any occupier of a workplace shall —
 
-(a) be kept for not less than 5 years from the date the records were made or such other period as may be prescribed; and
+(a) ensure that the records referred to in subsection (3) shall be kept for not less than 5 years from the date the records were made or such other period as may be prescribed; and
 
-(b) whenever required to do so within that period, produce and make available to an inspector for inspection a copy of the record.
+(b) whenever required to do so within that period, produce and make available to an inspector for inspection a copy of the records.
 
 (5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (6) Any person who contravenes subsection (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-### Duties of occupier of common areas
+### Duties of occupiers of common areas
 
 19\.—(1) For the purposes of subsection (2), where a building comprises one or more workplaces, any common property or limited common property of the building (referred to in this section as the common area) which is used by persons at work in any such workplace or is used by such persons to move through shall be treated as part of their workplace.
 
@@ -866,7 +861,7 @@ in respect of anything to be done or provided by him in accordance with this Act
 
 (3) In this section —
 
-“common property” and “limited common property” have the same meanings as in the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004);
+“common property” and “limited common property” have the same meanings as in the Building Maintenance and Strata Management Act (Cap. 30C);
 
 “occupier”, in relation to a common area, includes the management corporation or subsidiary management corporation, as the case may be, having control of that common area.
 
@@ -882,7 +877,7 @@ POWERS OF COMMISSIONER
 
 21\.—(1) This section shall apply if the Commissioner is satisfied that —
 
-(a) any workplace is in such condition, or is so located, or any part of the machinery, equipment, plant or article in the workplace is so used, that any process or work carried on in the workplace cannot be carried on with due regard to the safety, health and welfare of persons at work;
+(a) any workplace is in such condition, or is so located, or any part of the machinery, equipment, plant or article in the workplace is so used, that any work or process carried on in the workplace cannot be carried on with due regard to the safety, health and welfare of persons at work;
 
 (b) any person has contravened any duty imposed by this Act; or
 
@@ -890,7 +885,7 @@ POWERS OF COMMISSIONER
 
 (2) Where this section applies, the Commissioner may serve a remedial order or a stop-work order in respect of a workplace on —
 
-(a) any person who is in control of the workplace, or the process or work carried out in the workplace;
+(a) any person who is in control of the workplace, or the work or process carried out in the workplace;
 
 (b) any person whose duty under this Act is to ensure the safety, health and welfare of any person at work in the workplace; or
 
@@ -956,7 +951,22 @@ POWERS OF COMMISSIONER
 
 ## PART VI
 
-INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and occupational diseases
+INVESTIGATIONS, INQUIRIES AND
+
+
+
+
+REPORTING OF ACCIDENTS,
+
+
+
+
+DANGEROUS OCCURRENCES AND
+
+
+
+
+OCCUPATIONAL DISEASES
 
 ### Investigation into accidents, dangerous occurrences, etc.
 
@@ -980,7 +990,7 @@ INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and 
 
 (4) Nothing in subsection (1) or (2) shall operate to interfere with rescue work or work necessary for the general safety of life and property.
 
-(5) Any person who contravenes subsection (1) and any occupier of the workplace who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) Any person who contravenes subsection (1) and any occupier of a workplace who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Minister may direct inquiry to be held
 
@@ -1008,7 +1018,7 @@ INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and 
 
 (i) to enter and inspect any premises, the entry or inspection of which appears to the Inquiry Committee requisite for the purposes of the inquiry;
 
-(ii) by summons signed by the District Judge, to require attendance of all such persons as the Inquiry Committee thinks fit to call before it and examine and to require answers or returns to such inquiries it thinks fit;
+(ii) by summons signed by the District Judge, to require attendance of all such persons as the Inquiry Committee thinks fit to call before it and examine and to require answers or returns to such inquiries as it thinks fit;
 
 (iii) to require the production of all books, papers and documents which the Inquiry Committee considers important for the purposes of the inquiry; and
 
@@ -1016,7 +1026,7 @@ INVESTIGATIONs, INQUIRIES and reporting of accidents, dangerous occurrences and 
 
 (5) Upon conclusion of its inquiry, the Inquiry Committee shall make a report to the Minister —
 
-(a) stating the causes of the accident, dangerous occurrence or occupational disease and their circumstances; and
+(a) stating the causes and circumstances of the accident, dangerous occurrence or occupational disease; and
 
 (b) adding any observations or recommendations which the Inquiry Committee thinks appropriate to make.
 
@@ -1036,7 +1046,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Notification and reporting of accidents, dangerous occurrences, etc.
 
-27\.—(1) The Minister may by regulations require an employer, an occupier, a registered medical practitioner or any other person to notify or to submit a report to the Commissioner, in the event of an accident, a dangerous occurrence or an occupational disease in a prescribed workplace.
+27\.—(1) The Minister may by regulations require an employer, an occupier, a registered medical practitioner or any other person to notify or to submit a report to the Commissioner in the event of an accident, a dangerous occurrence or an occupational disease in a prescribed workplace.
 
 (2) Regulations made under subsection (1) may apply to —
 
@@ -1046,7 +1056,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VII
 
-SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
+SAFETY AND HEALTH
+
+
+
+
+MANAGEMENT ARRANGEMENTS
 
 ### Workplace safety and health officers and co-ordinators
 
@@ -1192,7 +1207,7 @@ SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
 
 (b) the Commissioner considers that it is in the public interest to do so.
 
-(2) The Commissioner shall, before cancelling the approval of any person as an authorised person under subsection (1) —
+(2) The Commissioner shall, before cancelling the approval of a person as an authorised person under subsection (1) —
 
 (a) give the affected person notice in writing of his intention to do so;
 
@@ -1224,21 +1239,102 @@ the Commissioner shall give notice in writing to that person of the date from wh
 
 ## PART VIII
 
-CODES OF PRACTICE
+WORKPLACE SAFETY AND
+
+
+
+
+HEALTH COUNCIL
+
+### Establishment of Workplace Safety and Health Council
+
+39\.—(1) There shall be a Workplace Safety and Health Council consisting of the following members, each of whom shall be appointed by the Minister in accordance with this section:
+
+(a) a chairman;
+
+(b) a deputy chairman; and
+
+(c) at least 10 but not more than 18 other members.
+
+[9/2008]
+
+(2) The chairman, the deputy chairman and every member of the Council shall be appointed for a term not exceeding 3 years and shall be eligible for reappointment.
+
+[9/2008]
+
+(3) The Minister may, at any time, revoke the appointment of the chairman, the deputy chairman or any member of the Council.
+
+[9/2008]
+
+(4) If any member of the Council dies, resigns or is removed from office, the Minister may appoint any person to fill the vacancy and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
+
+[9/2008]
+
+(5) The powers of the Council shall not be affected by any vacancy in the membership thereof.
+
+[9/2008]
+
+### Powers and proceedings of Council
+
+40\.—(1) Subject to the provisions of this Act, the Council may determine its own procedure.
+
+[9/2008]
+
+(2) At any meeting of the Council, 5 members thereof shall constitute a quorum.
+
+[9/2008]
+
+(3) The chairman of the Council or, in his absence, the deputy chairman thereof shall preside at all meetings of the Council and, in their absence, the members present shall elect one of their number to preside.
+
+[9/2008]
+
+(4) The deputy chairman of the Council may, subject to such directions as may be given by the chairman thereof, exercise all or any of the powers exercisable by the chairman of the Council under this Act.
+
+[9/2008]
+
+(5) The Council may appoint, from among its own members or other persons who are not members of the Council, such number of committees as it may think fit consisting of its members or other persons, or both its members and other persons, for purposes which, in the opinion of the Council, would be better regulated and managed by means of such committees.
+
+[9/2008]
+
+### Functions of Council
+
+40A\. The functions of the Council shall be —
+
+(a) to develop or facilitate the development of acceptable practices relating to safety, health and welfare at work;
+
+(b) to promote the adoption of acceptable practices relating to safety, health and welfare at work;
+
+(c) to devise, organise and implement programmes and other activities for or related to providing support, assistance or advice to any person or organisation in preserving, improving and promoting safety, health and welfare at work;
+
+(d) to facilitate and promote the development and upgrading of competencies, skills and expertise of the workforce relating to safety, health and welfare at work;
+
+(e) to research into any matter relating to safety, health and welfare at work;
+
+(f) to grant prizes and scholarships, and to establish and subsidise lectureships in universities and other educational institutions in subjects relating to safety, health and welfare at work;
+
+(g) to provide practical guidance with respect to the requirements of this Act relating to safety, health and welfare at work; and
+
+(h) to do all the things that it is authorised or required to do under this Act.
+
+[9/2008]
 
 ### Codes of practice
 
-39\.—(1) For the purpose of providing practical guidance with respect to the requirements of this Act relating to safety, health and welfare at work, the Commissioner may, from time to time, do all or any of the following:
+40B\.—(1) For the purpose of providing practical guidance with respect to the requirements of this Act relating to safety, health and welfare at work, the Council may, from time to time, do all or any of the following:
 
-(a) issue one or more codes of practice, which may include any code of practice issued or approved under another written law if he considers that code of practice suitable for this purpose;
+(a) issue one or more codes of practice, which may include any code of practice issued or approved under another written law if the Council considers that code of practice suitable for this purpose;
 
-(b) approve as a code of practice any document prepared by any person other than the Commissioner if the Commissioner considers the document as a suitable document for this purpose;
+(b) approve as a code of practice any document prepared by any person or organisation other than the Council if the Council considers the document as a suitable document for this purpose;
 
 (c) amend or revoke any code of practice issued or approved under this section.
 
-(2) The power of the Commissioner under subsection (1)(a) or (b) to issue or approve a code of practice that is either a code of practice issued or approved under another written law or a document prepared by a person other than the Commissioner shall include the power to issue or approve a part of such a code of practice or document.
+[9/2008]
 
-(3) Where a code of practice is issued, approved, amended or revoked by the Commissioner under subsection (1), the Commissioner shall —
+(2) The power of the Council under subsection (1)(a) or (b) to issue or approve a code of practice that is either a code of practice issued or approved under another written law or a document prepared by any person or organisation other than the Council shall include the power to issue or approve a part of such a code of practice or document.
+
+[9/2008]
+
+(3) Where a code of practice is issued, approved, amended or revoked by the Council under subsection (1), the Council shall —
 
 (a) publish a notice of the issue, approval, amendment or revocation, as the case may be, of the code of practice in such manner as will secure adequate publicity for such issue, approval, amendment or revocation;
 
@@ -1248,7 +1344,7 @@ CODES OF PRACTICE
 
 (ii) the class of hazards, activities or articles in respect of which the code of practice is issued, approved, amended or revoked; and
 
-(iii) the place at and the time during which the code of practice which is the subject of the notice may be inspected; and
+(iii) the place at and the time during which, or the Internet website where, the code of practice which is the subject of the notice may be inspected; and
 
 (c) ensure that, so long as the code of practice remains in force, copies of that code, and of all amendments to that code, are available —
 
@@ -1256,9 +1352,15 @@ CODES OF PRACTICE
 
 (ii) for purchase by members of the public at a reasonable price.
 
-(4) No code of practice, no amendment to an approved code of practice, and no revocation of any such approved code of practice, shall have any force or effect as an approved code of practice until the notice relating thereto is published in accordance with subsection (3).
+[9/2008]
 
-(5) An approved code of practice that is also either a code of practice issued or approved under another written law or a document prepared by a person other than the Commissioner shall consist of the contents of that code or document as that code of document existed on the date it was issued or approved as an approved code of practice under this section.
+(4) No code of practice, no amendment to an approved code of practice, and no revocation of any such approved code of practice, shall have any force or effect until the notice relating thereto is published in accordance with subsection (3).
+
+[9/2008]
+
+(5) An approved code of practice that is also either a code of practice issued or approved under another written law or a document prepared by any person or organisation other than the Council shall consist of the contents of that code or document as that code or document existed on the date it was issued or approved as an approved code of practice under this section.
+
+[9/2008]
 
 (6) If any provision of any approved code of practice is inconsistent with any provision of this Act, such provision, to the extent of the inconsistency —
 
@@ -1266,25 +1368,42 @@ CODES OF PRACTICE
 
 (b) having regard to the provisions of this Act, shall not have effect.
 
-(7) Any approved code of practice shall not have legislative effect.
+[9/2008]
+
+(7) Any approved code of practice shall be deemed not to be subsidiary legislation.
+
+[9/2008]
 
 ### Use of approved codes of practice in criminal proceedings
 
-40\.—(1) A person shall not be liable to any criminal proceedings by reason only that he has failed to observe any approved code of practice.
+40C\.—(1) A person shall not be liable to any criminal proceedings by reason only that he has failed to observe any approved code of practice.
+
+[9/2008]
 
 (2) In any proceedings for an offence under this Act, an approved code of practice that is relevant to any matter which it is necessary for the prosecution to prove in order to establish the commission of the offence shall be admissible in evidence in the proceedings.
 
+[9/2008]
+
 (3) Without affecting any other method of proof, in any proceedings for an offence under this Act —
 
-(a) the production of a document purporting to be a copy of a notice published by the Commissioner under section 39(3)(a) shall be taken to be such a notice until the contrary is proved; and
+(a) the production of a document purporting to be a copy of a notice published by the Council under section 40B(3)(a) shall be taken to be such a notice until the contrary is proved; and
 
-(b) the production of a code of practice, or an amendment or a revocation of a code of practice, purporting to be the subject of a notice under section 39(3)(a) shall be taken to be the subject of that notice until the contrary is proved.
+(b) the production of a code of practice, or an amendment or a revocation of a code of practice, purporting to be the subject of a notice under section 40B(3)(a) shall be taken to be the subject of that notice until the contrary is proved.
 
-(4) In determining for the purpose of any provision of this Act as to whether any machinery, equipment, plant, installation or article is of good construction, sound material, adequate strength or in accordance with the generally accepted principles of safe and sound practice, regard shall be had to any relevant Singapore Standards established and published by the Standards, Productivity and Innovation Board under section 7(2)(h) of the Standards, Productivity and Innovation Board Act (Cap. 303A) or such other standards, codes of practice or guidance acceptable to the Commissioner.
+[9/2008]
+
+(4) In determining for the purpose of any provision of this Act as to whether any machinery, equipment, plant, installation or article is of good construction, sound material, adequate strength or in accordance with the generally accepted principles of safe and sound practice, regard shall be had to any relevant Singapore Standards established and published by the Standards, Productivity and Innovation Board under section 7(2)(h) of the Standards, Productivity and Innovation Board Act (Cap. 303A) or such other standards, codes of practice or guidance acceptable to the Council.
+
+[9/2008]
 
 ## PART IX
 
-INSPECTIONS AND OTHER POWERS OF Enforcement
+INSPECTIONS AND OTHER POWERS
+
+
+
+
+OF ENFORCEMENT
 
 ### Powers of inspectors
 
@@ -1316,9 +1435,11 @@ INSPECTIONS AND OTHER POWERS OF Enforcement
 
 (k) to take such photographs or video recording as he thinks necessary to record the conditions in a workplace and the processes carried on therein which may be dangerous to the safety or health of the persons at work therein;
 
-(l) to take into custody any article in the workplace which is required for the purpose of an investigation or inquiry under this Act;
+(l) to require any person to produce any article which is relevant to any investigation or inquiry under this Act and, if necessary, to take into custody any such article;
 
 (m) to require any person whom he finds in the workplace to produce evidence of the person’s identity.
+
+[9/2008]
 
 (2) Any person who is found in a workplace shall render all necessary assistance and co-operation to the inspector as are necessary for an entry, inspection, examination, inquiry, the taking of samples or otherwise for the exercise of his powers under this Act in relation to that workplace.
 
@@ -1410,7 +1531,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART X
 
-OFFENCES, PENALTIES AND PROCEEDINGS
+OFFENCES, PENALTIES
+
+
+
+
+AND PROCEEDINGS
 
 ### Unregistered factories
 
@@ -1428,7 +1554,7 @@ OFFENCES, PENALTIES AND PROCEEDINGS
 
 ### Onus of proving what is reasonably practicable
 
-47\. Where in any proceedings for an offence under any provision in this Act, it is alleged that any person failed to comply with a duty to do something so far as is reasonably practicable, it shall be for the accused to prove that ––
+47\. Where in any proceedings for an offence under any provision in this Act, it is alleged that any person failed to comply with a duty to do something so far as is reasonably practicable, it shall be for the accused to prove that —
 
 (a) it was not reasonably practicable to do more than what was in fact done to satisfy that duty; or
 
@@ -1444,11 +1570,13 @@ OFFENCES, PENALTIES AND PROCEEDINGS
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(3) Where an offence under this Act is committed by a partnership, a partner of the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+(3) Where an offence under this Act is committed by a partnership of individuals or bodies corporate, any partner of the partnership or any officer of the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
 (a) the offence was committed without his consent or connivance; and
 
 (b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+
+[9/2008]
 
 (4) Where an offence under this Act is committed by an unincorporated association (other than a partnership), any officer of the unincorporated association or member of its governing body shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
@@ -1468,7 +1596,7 @@ OFFENCES, PENALTIES AND PROCEEDINGS
 
 “partner” includes a person purporting to act as a partner.
 
-(6) The regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+(6) Regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
 ### Arrest of person accused of offence under section 15(3) or 21(7)
 
@@ -1486,7 +1614,7 @@ OFFENCES, PENALTIES AND PROCEEDINGS
 
 (7) Where a person arrested pursuant to a warrant issued under subsection (6) is produced before a court, the court shall proceed as though he were produced before it under subsection (1) and shall, at the conclusion of such proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served under subsection (2).
 
-(8) If due cause is not shown under subsection (7), the court may order him to pay a fine not exceeding $2,000 or may commit him to prison for a term not exceeding 2 months.
+(8) If due cause is not shown under subsection (7), the court may order the person to pay a fine not exceeding $2,000 or may commit him to prison for a term not exceeding 2 months.
 
 ### General penalties
 
@@ -1512,7 +1640,7 @@ and, if the contravention in respect of which he was so convicted continues afte
 
 the court may, in addition to any imprisonment if prescribed, punish the person with —
 
-(i) in the case of a natural person, a fine not exceeding $400,000, and, in the case of a continuing offence, with a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction; and
+(i) in the case of a natural person, a fine not exceeding $400,000 and, in the case of a continuing offence, with a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction; and
 
 (ii) in the case of a body corporate, a fine not exceeding $1 million and, in the case of a continuing offence, with a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -1540,9 +1668,9 @@ the court may, in addition to any imprisonment if prescribed, punish the person 
 
 (f) falsely pretends to be an inspector;
 
-(g) wilfully connives at any of the matters referred to in paragraphs (a) to (f) such forging, counterfeiting, giving, signing, uttering, making use of, personating or pretending as aforesaid;
+(g) wilfully connives at any of the matters referred to in paragraphs (a) to (f);
 
-(h) wilfully makes a false entry in any record, notice, certificate or document required by, under, or for the purposes of, this Act to be kept, served or sent;
+(h) wilfully makes a false entry in any record, certificate, notice or document required by, under, or for the purposes of, this Act to be kept, served or sent;
 
 (i) wilfully makes or signs a declaration required by, under, or for the purposes of, this Act which is false; or
 
@@ -1598,7 +1726,7 @@ GENERAL
 
 ### Protection from personal liability
 
-61\.—(1) No action, suit or other legal proceeding shall lie personally against —
+61\.—(1) No action, suit or other legal proceedings shall lie personally against —
 
 (a) the Commissioner;
 
@@ -1658,7 +1786,7 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (a) on any person by delivering it to him, or by leaving it at, or sending it by registered post to, his residence;
 
-(b) on any firm by delivering it to any partner of the firm, or by leaving it at, or sending it by registered post to, an office of the firm;
+(b) on any firm by delivering it to any partner of the firm, or by leaving it at, or sending it by registered post to, an office of the firm; or
 
 (c) on the owner of any premises, the owner of any equipment or occupier of the workplace (including any such owner or occupier of the workplace being a company registered under the Companies Act (Cap. 50), or a co-operative society registered under the Co-operative Societies Act (Cap. 62)) in any such manner as aforesaid or by delivering it, or a true copy thereof, to the manager, foreman or other responsible person at the workplace.
 
@@ -1692,11 +1820,11 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (v) the issuance of a certificate of registration of a factory or a factory permit in lieu of such a certificate;
 
-(vi) the duration of the certificate of registration or factory permit;
+(vi) the duration of a certificate of registration of a factory or factory permit;
 
 (vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a factory permit is issued;
 
-(viii) the circumstances under which a certificate of registration or factory permit may be renewed, extended or revoked;
+(viii) the circumstances under which a certificate of registration of a factory or a factory permit may be renewed, extended or revoked;
 
 (ix) the imposition of any duty on the occupier of a factory to provide such information to the Commissioner with respect to any change in any matter in relation to the factory;
 
@@ -1714,7 +1842,7 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (g) the handling, storage and disposal of any harmful organisms and biohazardous material;
 
-(h) the use and control of, and the safeguards and safety measures when using any dangerous machinery or equipment;
+(h) the use and control of, and the safeguards and safety measures when using, any dangerous machinery or equipment;
 
 (i) the types of clothing and appliances to be provided for use at work;
 
@@ -1724,7 +1852,7 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (ii) its construction, use or maintenance;
 
-(iii) the issue of certificates of competency to persons who may operate, or take charge and control over it;
+(iii) the issue of certificates of competency to persons who may operate, or take charge of and control over it;
 
 (iv) any examination or test which is required to be conducted on it;
 
@@ -1762,9 +1890,9 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (i) building operations undertaken by way of trade or business, or for the purpose of any industrial or commercial undertaking;
 
-(ii) works of engineering construction undertaken by way of trade or business, or for the purpose of any industrial or commercial undertaking;
+(ii) work of engineering construction undertaken by way of trade or business, or for the purpose of any industrial or commercial undertaking;
 
-(iii) design and management of building operations or works of engineering construction;
+(iii) design and management of building operations or work of engineering construction;
 
 (iv) work involving the use of or exposure to pesticides;
 
@@ -1778,7 +1906,7 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (ix) work involving the use of visual display units;
 
-(x) work involving a steam boiler, steam receiver or air receiver and;
+(x) work involving a steam boiler, a steam receiver or an air receiver; and
 
 (xi) any other process, work or operation —
 
@@ -1790,7 +1918,11 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (v) the implementation of any safety and health management system and the duties of any occupier, employer or any other person in relation to the implementation of the safety and health management system;
 
+(va) in relation to the Council, the payment of allowances to a member of the Council who is not a public servant;
+
 (w) the prescribing of anything that is required or permitted to be prescribed under this Act.
+
+[9/2008]
 
 (3) The regulations made under this section may prescribe offences in respect of the contravention of any provision thereof, and may prescribe that fines not exceeding $20,000 and imprisonment not exceeding 2 years may, on conviction, be imposed in respect of any such offence.
 
@@ -1824,17 +1956,13 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (8) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal
-
-66\. The Factories Act (Cap. 104) is repealed.
-
 ### Savings and transitional provisions
 
-67\.—(1) The person who, immediately before the appointed day, is the Chief Inspector shall be deemed to be the Commissioner for Workplace Safety and Health appointed under section 7(1) of this Act, but his appointment as the Commissioner shall expire on the day his appointment as Chief Inspector would have expired if this Act had not been enacted.
+66\.—(1) The person who, immediately before 1st March 2006, is the Chief Inspector shall be deemed to be the Commissioner for Workplace Safety and Health appointed under section 7(1) of this Act, but his appointment as the Commissioner shall expire on the day his appointment as Chief Inspector would have expired if this Act had not been enacted.
 
-(2) Any person who, immediately before the appointed day, is an inspector or officer appointed under section 84(1) of the repealed Act shall continue to hold such office as if he were appointed under section 7(3) of this Act.
+(2) Any person who, immediately before 1st March 2006, is an inspector or officer appointed under section 84(1) of the repealed Act shall continue to hold such office as if he were appointed under section 7(3) of this Act.
 
-(3) Every person who, immediately before the appointed day, is —
+(3) Every person who, immediately before 1st March 2006, is —
 
 (a) a safety officer under section 71 of the repealed Act; or
 
@@ -1842,55 +1970,47 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 shall continue in such appointments as if he were appointed as a workplace safety and health officer or a workplace safety and health co-ordinator under section 28 of this Act, respectively, and their respective appointments shall expire on the day their appointments would have expired if this Act had not been enacted.
 
-(4) Every safety committee established under section 72 of the repealed Act immediately before the appointed day shall, subject to the provisions of this Act, be deemed to be a workplace safety and health committee established under section 29 of this Act.
+(4) Every safety committee established under section 72 of the repealed Act immediately before 1st March 2006 shall, subject to the provisions of this Act, be deemed to be a workplace safety and health committee established under section 29 of this Act.
 
-(5) Every person who, immediately before the appointed day, is an approved auditor under section 71B of the repealed Act shall continue in such appointments as if he were appointed as a workplace safety and health auditor under section 30 of this Act, and his appointment shall expire on the day his appointment would have expired if this Act had not been enacted.
+(5) Every person who, immediately before 1st March 2006, is an approved auditor under section 71B of the repealed Act shall continue in such appointment as if he were appointed as a workplace safety and health auditor under section 30 of this Act, and his appointment shall expire on the day his appointment would have expired if this Act had not been enacted.
 
-(6) Every person who, immediately before the appointed day, is an approved person or authorised boiler inspector approved by the Chief Inspector under the repealed Act shall continue in such appointment as if he were an authorised examiner appointed under section 33 of this Act, and his appointment shall expire on the day his appointment would have expired if this Act had not been enacted.
+(6) Every person who, immediately before 1st March 2006, is an approved person or authorised boiler inspector approved by the Chief Inspector under the repealed Act shall continue in such appointment as if he were an authorised examiner appointed under section 33 of this Act, and his appointment shall expire on the day his appointment would have expired if this Act had not been enacted.
 
-(7) Any permit, certificate or report, made, granted or approved under the repealed Act or its subsidiary legislation shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved under the corresponding provisions of this Act.
+(7) Any permit, certificate or report made, granted or approved under the repealed Act or its subsidiary legislation shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved under the corresponding provisions of this Act.
 
-(8) Any application or other document lodged for approval under the provisions of the repealed Act before the appointed day and whose application was not approved before that day shall, where applicable, be deemed to be an application or a document lodged for approval under the corresponding provisions of this Act.
+(8) Any application or other document lodged for approval under the provisions of the repealed Act before 1st March 2006 and whose application was not approved before that date shall, where applicable, be deemed to be an application or a document lodged for approval under the corresponding provisions of this Act.
 
-(9) Where an appeal has been made to the Minister under section 50 of the repealed Act and the appeal has not been dealt with or disposed of immediately before the appointed day, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
+(9) Where an appeal has been made to the Minister under section 50 of the repealed Act and the appeal has not been dealt with or disposed of immediately before 1st March 2006, the appeal may be dealt with in accordance with that repealed section as if this Act had not been enacted.
 
 (10) This Act shall not affect —
 
-(a) any investigation or inquiry commenced or pending under Part V of the repealed Act before the appointed day, and every such investigation or inquiry may be continued and everything in relation thereto may be done in all respects after that day as if this Act had not been enacted;
+(a) any investigation or inquiry commenced or pending under Part V of the repealed Act before 1st March 2006, and every such investigation or inquiry may be continued and everything in relation thereto may be done in all respects after that date as if this Act had not been enacted;
 
-(b) the continued operation or force of any order, direction or decision of the Chief Inspector or the Minister made under the repealed Act before the appointed day; and
+(b) the continued operation or force of any order, direction or decision of the Chief Inspector or the Minister made under the repealed Act before 1st March 2006; and
 
-(c) any right of appeal accrued before the appointed day in respect of any such order, direction or decision.
+(c) any right of appeal accrued before 1st March 2006 in respect of any such order, direction or decision.
 
-(11) Any factory which, immediately before the appointed day, is registered under the repealed Act shall be deemed to be registered under the provisions of this Act.
+(11) Any factory which, immediately before 1st March 2006, is registered under the repealed Act shall be deemed to be registered under the provisions of this Act.
 
 (12) Any approval, notice, direction, order, requirement or exemption that —
 
 (a) is given, issued or made under the repealed Act; and
 
-(b) is in force immediately before the appointed day,
+(b) is in force immediately before 1st March 2006,
 
 shall have effect for the purposes of any corresponding provision of this Act, unless this Act otherwise provides.
 
-(13) Where any period of time specified in any provision in the repealed Act is current immediately before the appointed day, this Act shall have effect as if the corresponding provision in this Act had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
+(13) Where any period of time specified in any provision in the repealed Act is current immediately before 1st March 2006, this Act shall have effect as if the corresponding provision in this Act had been in force when the period began to run; and (without prejudice to the foregoing) any period of time so specified and current shall be deemed for the purposes of this Act —
 
-(a) to run from the date or event from which it was running immediately before that day; and
+(a) to run from the date or event from which it was running immediately before that date; and
 
 (b) to expire (subject to any provision of this Act for its extension) whenever it would have expired if this Act had not been enacted,
 
-and any rights, priorities, liabilities, reliefs, obligations, requirements, powers, duties or exemptions dependent on the beginning, duration or end of such a period as above-mentioned shall be under this Act as they were or would have been under that provision in the repealed Act.
+and any rights, priorities, liabilities, reliefs, obligations, requirements, powers, duties or exemptions dependent on the beginning, duration or end of such a period as abovementioned shall be under this Act as they were or would have been under that provision in the repealed Act.
 
-(14) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force in factories as if made under this Act until it is revoked or repealed.
+(14) Any subsidiary legislation made under the repealed Act and in force immediately before 1st March 2006 shall, so far as it is not inconsistent with the provisions of this Act, continue in force in factories as if made under this Act until it is revoked or repealed.
 
 (15) Any written law or document referring to the repealed Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
-
-(16) For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the repealed Act, as he may consider necessary or expedient.
-
-(17) In this section, “appointed day” means the date of commencement of this Act.
-
-### Consequential amendments to other written laws
-
-68\. The provisions of the Acts specified in the first column of the Seventh Schedule are amended in the manner set out in the second column thereof.
 
 FIRST SCHEDULE
 
@@ -1898,7 +2018,7 @@ Sections 2(1) or (2), 27(2) and 62(1)
 
 Workplaces subject to Act
 
-1\. Any premises which is a factory.
+1\. Any factory, including any premises immediately adjacent to the factory over which the occupier of the factory has charge, management or control.
 
 2. Any premises within an airport where —
 
@@ -1907,8 +2027,6 @@ Workplaces subject to Act
 (b) any cleaning, loading, unloading or refueling of an aircraft,
 
 is carried out by any person other than by the crew of the aircraft.
-
-[S 72/2007 wef 01/03/2007]
 
 3. Any ship in a harbour where —
 
@@ -1924,17 +2042,47 @@ is carried out.
 
 5\. Any premises delineated as a railway area under the Rapid Transit Systems Act (Cap. 263A) and where any inspection, testing or maintenance of any railway is carried out.
 
-6\. Any premises (other than domestic premises) in which a steam boiler, steam receiver or air receiver is used.
+6\. Any premises (other than domestic premises) in which a steam boiler, a steam receiver or an air receiver is used.
 
 7\. Any laboratory or other premises where the testing, examination or analysis of any article is carried out.
 
-8. Any ship where any survey or inspection of the ship or its contents is carried out by any person other than by the crew of the ship.
+8\. Any ship where any survey or inspection of the ship or its contents is carried out by any person other than by the crew of the ship.
 
-[S 72/2007 wef 01/03/2007]
+9\. Any tunnel, bridge or viaduct where any survey or inspection of the tunnel, bridge or viaduct is carried out.
 
-9. Any tunnel, bridge or viaduct where any survey or inspection of the tunnel, bridge or viaduct is carried out.
+10\. Any hotel, lodging house, dormitory, service apartment, chalet, camping site or other premises where the provision of short-stay accommodation is carried out by way of trade or for purposes of gain.
 
-[S 72/2007 wef 01/03/2007]
+11\. Any restaurant, bar, canteen or other premises where food or drinks are sold or catered for consumption within those premises or elsewhere.
+
+12\. Any hospital, hospice, nursing home or medical or dental clinic or other premises providing nursing and rehabilitation services.
+
+13. Any veterinary centre providing any of the following services:
+
+(a) diagnosis of disease in, and injuries to, animals or birds, including tests performed for diagnostic purposes;
+
+(b) the treatment, vaccination or innoculation of animals or birds.
+
+14\. Any premises where landscaping or garden maintenance is carried out.
+
+15\. Any premises where the collection, purification or distribution of water is carried out.
+
+16\. Any premises where the disposal or treatment of sewage or refuse is carried out.
+
+17\. Any premises where the recycling of metal or non-metal waste or scrap is carried out.
+
+18. Any premises where —
+
+(a) freight forwarding, packing or crating services;
+
+(b) cargo surveying services;
+
+(c) container services; or
+
+(d) crane services,
+
+are carried out by way of trade or for purposes of gain or incidentally to another business so carried out.
+
+[S 72/2007; S 634/2007]
 
 SECOND SCHEDULE
 
@@ -1946,7 +2094,7 @@ Dangerous occurrences
 
 2\. Collapse or failure of a crane, derrick, winch, hoist, piling frame or other appliance used in raising or lowering persons or goods, or any load bearing part thereof (except breakage of chain or rope slings), or the overturning of a crane.
 
-3\. Explosion or fire damage to the structure of any room or place in which persons are at work, or to any machine or plant contained therein, and resulting in the complete suspension of ordinary work in the room or place or stoppage of machinery or plant for not less than 5 hours, where the explosion or fire is due to the ignition of dust, gas or vapour, or the ignition of celluloid or substance composed wholly or in part of celluloid.
+3\. Explosion or fire damage to the structure of any room or place in which persons are at work, or to any machinery or plant contained therein, and resulting in the complete suspension of ordinary work in the room or place or stoppage of machinery or plant for not less than 5 hours, where the explosion or fire is due to the ignition of dust, gas or vapour, or the ignition of celluloid or substance composed wholly or in part of celluloid.
 
 4\. Electrical short circuit or failure of electrical machinery, plant or apparatus, attended by explosion or fire or causing structural damage thereto, and involving its stoppage or disuse for not less than 5 hours.
 
@@ -2058,9 +2206,9 @@ Sections 16(9) and 17(7)
 
 Machinery, equipment or hazardous substances
 
-part i
+Part I
 
-MachineRY and Equipment
+Machinery and Equipment
 
 1\. Scaffolds and any materials or components used to erect them
 
@@ -2132,39 +2280,79 @@ Exempt persons at work
 
 2\. A crew member at work on board any ship, aircraft or any other international mode of transport which does not pose a risk to the safety and health of any person other than the crew member himself or any other crew member on board the ship, aircraft or other international mode of transport.
 
-SEVENTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 68
+Workplace Safety and Health Act
 
-Consequential amendments to other written laws
+(CHAPTER 354A)
 
-First column
+This Legislative History is provided for the convenience of users of the Workplace Safety and Health Act. It is not part of the Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 7 of 2006—Workplace Safety and Health Act 2006**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 36/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 March 2006|
+Note:
 
-(1) Central Provident Fund Act (Chapter 36, 2001 Ed.)
+The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104, 1998 Revised Edition).
 
-Third Schedule
+|2.|**G. N. No. S 72/2007—Workplace Safety and Health (Workplaces Subject to Act) Order 2007**|
+||Date of operation|1 March 2007|
+|3.|**2007 Revised Edition—Workplace Safety and Health Act (Chapter 354A)**|
+||Date of operation|31 July 2007|
+|4.|**G. N. No. S 634/2007—Workplace Safety and Health Act (Amendment of First Schedule) Order 2007**|
+||Date of operation|1 March 2008|
+|5.|**Act 9 of 2008—Workplace Safety and Health (Amendment) Act 2008**|
+||Date of First Reading|15 February 2008|
+|||(Bill No. 2/2008 published on 16 February 2008)|
+||Date of Second and Third Readings|6 March 2008|
+||Date of commencement|1 April 2008|
+|6.|**2009 Revised Edition—Workplace Safety and Health Act (Chapter 354A)**|
+||Date of operation|31 July 2009|
+## COMPARATIVE TABLE
 
-Delete item 14 and substitute the following item:
+Workplace Safety and Health Act
 
-“
+(CHAPTER 354A)
 
-14. Workplace Safety and Health Act 2006.
+The following provisions in the Workplace Safety and Health Act (Act 7 of 2006) have been renumbered by the Law Revision Commissioners in this 2007 Revised Edition.
 
-”.
+This Comparative Table is provided for the convenience of users. It is not part of the Workplace Safety and Health Act.
 
-(2) Income Tax Act (Chapter 134, 2004 Ed.)
+2007 Ed\. 
 
-Section 19A(15)
+Act 7 of 2006 
 
-Delete the words “section 6 of the Factories Act (Cap. 104)” in the definition of “automation equipment” and substitute the words “section 5 of the Workplace Safety and Health Act 2006”.
+Omitted
 
-(3) Professional Engineers Act (Chapter 253, 1992 Ed.)
+66 
 
-The Schedule, item 2
+66 
 
-(a) Delete the words “Factories Act” and substitute the words “Workplace Safety and Health Act 2006”.
+67 
 
-(b) Delete the marginal reference “Cap. 104.”.
+Omitted
+
+68 
+
+## COMPARATIVE TABLE
+
+Workplace Safety and Health Act
+
+(CHAPTER 354A)
+
+The following provision in the 2007 Revised Edition of the Workplace Safety and Health Act has been omitted by the Law Revision Commissioners in this 2009 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Workplace Safety and Health Act.
+
+2009 Ed\. 
+
+2007 Ed\. 
+
+Omitted(spent)
+
+66 (16)
 
