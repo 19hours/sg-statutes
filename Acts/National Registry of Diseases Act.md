@@ -516,7 +516,7 @@ Sections 2 and 22
 
 Reportable Diseases
 
-1. Cancer
+1. Cancer (includingin-situneoplasms, neoplasms with borderline or uncertain malignant potential, as well as all tumours (malignant, borderline,in-situand benign) of the brain and other parts of the central nervous system (including the pituitary gland, craniopharyngeal duct and pineal gland)).
 
 [S 354/2009 wef 01/08/2009]
 
@@ -538,3 +538,10 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(publication date)|
 |2.|**2008 Revised Edition—National Registry of Diseases Act**|
 ||Date of operation|31 December 2008|
+|3.|**Act 56 of 2007—National Registry of Diseases Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 42/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|1st August 2009|
+|4.|**G. N. No. S 354/2009—National Registry of Diseases Act (Amendment of Schedule) Order 2009**|
+||Date of commencement|1 August 2009|
