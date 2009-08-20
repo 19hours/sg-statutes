@@ -76,7 +76,7 @@
 
 - [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s retirement account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-on-death-or-withdrawal-under-section-152b-or-c)
 
-- [19A Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-spouse’s-or-sibling’s-special-account-on-death-or-withdrawal-under-section-152b-or-c)
+- [19A Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-spouse’s-or-sibling’s-special-account-on-death-or-withdrawal-under-section-152b-or-c)
 
 - [20 Withdrawals](#Withdrawals)
 
@@ -336,6 +336,14 @@ PRELIMINARY
 
 “Fund” means the Central Provident Fund established under section 6;
 
+“HDB flat” means any flat, house or other building sold under Part IV or IVB of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
+
+[18/2009 wef 20/08/2009]
+
+“Housing and Development Board” means the Housing and Development Board constituted under the Housing and Development Act;
+
+[18/2009 wef 20/08/2009]
+
 “immovable property” includes —
 
 (a) any estate or interest in land comprising a building or flat which is erected or to be erected on the land;
@@ -377,6 +385,14 @@ PRELIMINARY
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
 
 [19/83; 32/84; 16/86; 5/87; 10/94; 30/98; 39/2000]
+
+(1A) In this Act, unless the context otherwise requires, a person shall be deemed to attain, or to have attained, “N” years of age, or the age of “N” years, on the “Nth” anniversary of the day of his birth, where —
+
+(a) “N” is a specified positive integer; and
+
+(b) “Nth” is the ordinal corresponding to that integer.
+
+[18/2009 wef 20/08/2009]
 
 (2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
@@ -780,9 +796,15 @@ CONTRIBUTIONS TO FUND
 
 ### Power to impose conditions relating to contributions by self-employed persons
 
-13A\.—(1) Any power to grant or renew a licence, certificate or permit under any of the Acts specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), to be credited into the medisave account of the applicant or licensee or as otherwise provided under section 13(5).
+13A\.—(1) Any power to register, license or maintain the particulars of any person, or to grant an application for, or to renew or reinstate, any registration, licence, certificate or permit, under any Act specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), such contributions to be credited —
 
-[27/92]
+(a) to the medisave account of the person, applicant, registrant, licensee or holder of the certificate or permit, as the case may be; or
+
+(b) as otherwise provided under section 13(4).
+
+[18/2009 wef 20/08/2009]
+
+[22/2010 wef 01/10/2010]
 
 (2) The Minister may, by notification in theGazette, amend the Third Schedule.
 
@@ -950,7 +972,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw, from the balance standing to the credit of that member in the Fund after deducting —
+(5) Subject to section 25(3), after the death of a member of the Fund, a person nominated by that member in accordance with section 25(1) shall be entitled to withdraw, from the balance standing to the credit of that member in the Fund after deducting —
 
 (a) any sum withdrawn, or to be withdrawn, under section 16A;
 
@@ -1003,6 +1025,10 @@ such portion of that balance as is set out in the memorandum executed in accorda
 [15/2006 wef 01/07/2006]
 
 [10/94]
+
+(6CA) For the purposes of subsections (6)(a) and (6C), where a member becomes entitled under subsection (2)(a) to withdraw the sum standing to his credit in the Fund, the Board shall, if required by any regulations made under section 77(1), transfer from that sum to his retirement account, towards the maintenance of the minimum sum, such amount as may be prescribed in those regulations.
+
+[18/2009 wef 20/08/2009]
 
 (6D) The Minister may, by order published in theGazette—
 
@@ -1146,6 +1172,14 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if the Board is satisfied of the occurrence of any of the events mentioned in subsection (15)(e).
 
+(10C) The Board shall not enforce an undertaking given by a member under subsection (10), or by a member and one or more other persons under subsection (10) or (10A), if —
+
+(a) the immovable property concerned is an HDB flat; and
+
+(b) the disposal of the immovable property consists only of a reduction of the term of the lease in the HDB flat pursuant to an agreement entered into by the member, or by the member and the other person or persons, with the Housing and Development Board under the Lease Buyback Scheme.
+
+[18/2009 wef 20/08/2009]
+
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from an approved developer, from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
 [5/87]
@@ -1205,6 +1239,10 @@ if the member and the person or persons, as the case may be, give an undertaking
 “approved developer” means an approved developer under Part IVB of the Housing and Development Act (Cap. 129);
 
 “Housing Authority” has the same meaning as in section 28;
+
+“Lease Buyback Scheme” means a scheme by that name administered by the Housing and Development Board, under which a lessee of an HDB flat who has been approved by the Housing and Development Board to take part in the scheme enters into an agreement with the Housing and Development Board to reduce the term of the lease, in consideration of a sum of money part of which is to be used for the payment of the premium for an annuity plan under the Lifelong Income Scheme established and maintained by the Board under section 27K;
+
+[18/2009 wef 20/08/2009]
 
 “related person”, in relation to a member, means —
 
@@ -1326,7 +1364,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (3) The Board may, subject to any regulations made under section 77(1)(oa) and such terms and conditions as it may impose, permit —
 
-(a) a member whose spouse or sibling has not attained the age of 55 years to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of the spouse or sibling; or
+(a) a member whose parent, grandparent, spouse or sibling has not attained the age of 55 years to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of the parent, grandparent, spouse or sibling; or
 
 [18/2009 wef 20/08/2009]
 
@@ -1334,7 +1372,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [40/2007 wef 01/01/2008]
 
-(4) Subject to subsection (6), where a member is a spouse or sibling to whose special account any moneys have been transferred under subsection (3)(a) —
+(4) Subject to subsection (6), where a member is a parent, grandparent, spouse or sibling to whose special account any moneys have been transferred under subsection (3)(a) —
 
 (a) the moneys so transferred; and
 
@@ -1454,15 +1492,15 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
 
-### Provisions relating to moneys transferred or paid to spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)
+### Provisions relating to moneys transferred or paid to parent’s, grandparent’s, spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)
 
-19A\.—(1) Any moneys transferred by a member to his spouse’s or sibling’s special account under section 18(3)(a) —
+19A\.—(1) Any moneys transferred by a member to his parent’s, grandparent’s, spouse’s or sibling’s special account under section 18(3)(a) —
 
-(a) shall not form part of the moneys payable out of the Fund on the death of the spouse or sibling, as the case may be; and
+(a) shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent, spouse or sibling, as the case may be; and
 
 [18/2009 wef 20/08/2009]
 
-(b) shall not be withdrawn from the Fund by the spouse or sibling, as the case may be, under section 15(2)(b) or (c).
+(b) shall not be withdrawn from the Fund by the parent, grandparent, spouse or sibling, as the case may be, under section 15(2)(b) or (c).
 
 [18/2009 wef 20/08/2009]
 
@@ -1470,15 +1508,15 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (2) Except as otherwise provided by subsections (3) and (4), the moneys transferred under section 18(3)(a), or the balance thereof, shall be credited to the account from which it was transferred upon —
 
-(a) the death of the spouse or sibling; or
+(a) the death of the parent, grandparent, spouse or sibling; or
 
 [18/2009 wef 20/08/2009]
 
-(b) the withdrawal of any sum from the Fund by the spouse or sibling under section 15(2)(b) or (c).
+(b) the withdrawal of any sum from the Fund by the parent, grandparent, spouse or sibling under section 15(2)(b) or (c).
 
 [18/2009 wef 20/08/2009]
 
-(3) Where any moneys transferred by a member to the special account of his spouse or sibling under section 18(3)(a) are transferred or paid by the Board to any person under section 27B —
+(3) Where any moneys transferred by a member to the special account of his parent, grandparent, spouse or sibling under section 18(3)(a) are transferred or paid by the Board to any person under section 27B —
 
 (a) subsection (2) shall not apply to those moneys; and
 
@@ -1486,7 +1524,7 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 [18/2009 wef 20/08/2009]
 
-(4) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys transferred by a member to the special account of his spouse or sibling under section 18(3)(a) are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (2) —
+(4) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys transferred by a member to the special account of his parent, grandparent, spouse or sibling under section 18(3)(a) are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (2) —
 
 (a) subsection (2) shall not apply to those moneys; and
 
@@ -1512,7 +1550,7 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 ### Withdrawals
 
-20\.—(1) Upon an application for the withdrawal of the sum of money standing to the credit of a member of the Fund by a person entitled thereto under section 15, the Board may authorise the payment to the applicant of such sum as the member is entitled to withdraw from the Fund and any interest calculated in accordance with section 6(4) and (4B) up to the date of the authorisation or, if the applicant is a nominee appointed in accordance with section 25(1), such portion of the sum as he is nominated to receive.
+20\.—(1) Subject to section 25(3), upon an application for the withdrawal of the sum of money standing to the credit of a member of the Fund by a person entitled thereto under section 15, the Board may authorise the payment to the applicant of such sum as the member is entitled to withdraw from the Fund and any interest calculated in accordance with section 6(4) and (4B) up to the date of the authorisation or, if the applicant is a nominee appointed in accordance with section 25(1), such portion of the sum as he is nominated to receive.
 
 [57/2007 wef 01/01/2008]
 
@@ -1550,7 +1588,9 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (ca) to pay any improvement contribution due —
 
-(i) to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act; or
+(i) to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
+
+[18/2009 wef 20/08/2009]
 
 (ii) to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
@@ -1812,14 +1852,6 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 (13) Sections 21 and 21A shall not apply to any HDB flat to which this section applies.
 
-(14) In this section —
-
-“HDB flat” means any flat, house or other building sold under Part IV or IVB of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
-
-“Housing and Development Board” means the Housing and Development Board constituted under the Housing and Development Act.
-
-[36/2002 wef 01/01/2003]
-
 ### Withdrawals for payment of tuition fees at approved educational institution
 
 22\.—(1) The Board may, subject to such terms and conditions as it may impose, permit a member of the Fund to withdraw such portion of the sum standing to his credit in the Fund as may be prescribed for the payment of tuition fees payable by that member, his child or such other relative as may be approved by the Board, for a course of study conducted, or to be conducted, in whole or in part at an approved educational institution, including any such course of study leading to a qualification conferred by another educational institution.
@@ -1960,8 +1992,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
-(7) In this section, “HDB flat” has the same meaning as in section 21B(14).
-
 ### Moneys payable on death of member
 
 25\.—(1) Any member of the Fund may by a memorandum executed in the manner prescribed by the Board nominate a person or persons to receive in his or their own right such portions of the amount payable on his death out of the Fund under section 20(1) or of any shares designated under section 26(1) as the memorandum shall indicate.
@@ -1980,17 +2010,61 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [22/2010 wef 01/10/2010]
 
-(3) If any person nominated (other than a widow) is below the age of 18 years at the time of payment of the amount payable out of the Fund, his portion of the amount payable shall similarly be paid to the Public Trustee for the benefit of the nominated person.
+(3) Notwithstanding sections 15(5) and 20(1), if any person nominated (other than a widow) is below the age of 18 years at the time of payment of the amount payable out of the Fund, his portion of the amount payable shall similarly be paid to the Public Trustee for the benefit of the nominated person.
 
 [18/2009 wef 20/08/2009]
 
 (4) The receipt of a person or persons nominated under subsection (1) or of the Public Trustee shall be a discharge to the Board for such portions of the moneys payable out of the Fund on the death of a member as are payable to the person or persons or the Public Trustee under subsection (2) or (3).
+
+(4A) If a person nominated by a member in accordance with subsection (1) has died at the time of payment of the amount payable out of the Fund on the death of the member, and the nominated person’s portion of the amount payable does not exceed such amount as the Minister may, by notification in theGazette, specify —
+
+(a) the Board may pay to a proper claimant the whole or any part, as the Board may determine, of the nominated person’s portion of the amount payable; and
+
+[22/2010 wef 01/01/2011]
+
+(b) the receipt of the proper claimant shall be a discharge to the Board for the amount paid to the proper claimant under paragraph (a).
+
+[18/2009 wef 20/08/2009]
+
+[22/2010 wef 01/01/2011]
+
+(4B) Subsection (4A) shall not affect any recourse which any person may have against a proper claimant for an amount paid to the proper claimant under subsection (4A)(a).
+
+[18/2009 wef 20/08/2009]
 
 (5) Any nomination made by a member of the Fund under subsection (1) shall be revoked —
 
 (a) by his marriage, whether the marriage was contracted before, on or after 15th May 1980; or
 
 (b) in such other circumstances, and in such manner, as the Board may prescribe.
+
+(6) Notwithstanding subsection (5), where a nomination made by a member under subsection (1) is revoked by his marriage, and the Board, in ignorance of the marriage, purports to pay any amount payable out of the Fund on the death of the member in accordance with the revoked nomination and this section —
+
+(a) the Board shall nevertheless be discharged from all liability in respect of the payment ; but
+
+[22/2010 wef 01/01/2011]
+
+(b) this subsection shall not affect any recourse which any person may have against the recipient of the payment .
+
+[22/2010 wef 01/01/2011]
+
+[18/2009 wef 20/08/2009]
+
+[22/2010 wef 01/01/2011]
+
+(7) In this section —
+
+“child” means a legitimate child and includes any child adopted by virtue of an order of court under any written law for the time being in force in Singapore, Malaysia or Brunei Darussalam;
+
+“parent” includes an adoptive parent;
+
+“proper claimant” means a person who —
+
+(a) claims to be entitled to a deceased nominated person’s portion of the amount payable out of the Fund on the death of a member as executor of the deceased nominated person; or
+
+(b) claims to be entitled to a deceased nominated person’s portion of the amount payable out of the Fund on the death of a member (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased nominated person.
+
+[18/2009 wef 20/08/2009]
 
 ### Power of Board to distribute and dispose of certain shares on death of member
 
@@ -2069,8 +2143,6 @@ DIVISION OF FUND-RELATED ASSETS IN MATRIMONIAL PROCEEDINGS
 “approved bank” means a bank approved by the Board for the purposes of section 15;
 
 “designated account” means such account maintained, or to be maintained, by the Board as may be prescribed by any regulations made under section 77(1);
-
-“HDB flat” has the same meaning as in section 21B(14);
 
 “order of court” means —
 
@@ -2286,7 +2358,7 @@ the spouse shall pay to the Fund such amount as may be determined by the Board i
 
 (B) where the spouse has attained that age, there is a deficiency in the minimum sum which the spouse is required to set aside,
 
-the spouse shall give an undertaking to pay to the Board, in the event the property is sold or otherwise disposed of, the amount referred to in paragraph (iii); and
+the spouse shall give an undertaking to pay to the Board, in the event the property is sold or otherwise disposed of, the amount referred to in paragraph (iii);
 
 (vi) the Board shall not enforce any undertaking under paragraph (v) if the Board is satisfied of the occurrence of any of the following events:
 
@@ -2302,7 +2374,15 @@ the spouse shall give an undertaking to pay to the Board, in the event the prope
 
 [22/2010 wef 01/01/2011]
 
-(E) the spouse satisfies any of the grounds for withdrawals under section 15(2)(b) or (c).
+(E) the spouse satisfies any of the grounds for withdrawals under section 15(2)(b) or (c); and
+
+[18/2009 wef 20/08/2009]
+
+(vii) the Board shall not enforce an undertaking given under paragraph (v), if —
+
+(A) the immovable property concerned is an HDB flat; and
+
+(B) the disposal of the immovable property consists only of a reduction of the term of the lease in the HDB flat pursuant to an agreement entered into by the spouse, or by the spouse and any other person or persons, with the Housing and Development Board under the Lease Buyback Scheme.
 
 [18/2009 wef 20/08/2009]
 
@@ -2327,6 +2407,10 @@ the Board shall be entitled to enforce that undertaking against every person who
 (ii) the Board is satisfied of the occurrence of any of the events mentioned in section 15(15)(e),
 
 in which event the Board shall not enforce that undertaking.
+
+(3) In this section, “Lease Buyback Scheme” has the same meaning as in section 15(16).
+
+[18/2009 wef 20/08/2009]
 
 ### Order of court for transfer or sale of immovable property in relation to which charge under section 21 (1) or 21A (1) exists
 
@@ -2566,13 +2650,15 @@ HOME PROTECTION INSURANCE SCHEME
 
 28\.—(1) In this Part —
 
-“approved mortgagee” means a mortgagee approved by the Minister by notification in the Gazette;
+“approved mortgagee” means a mortgagee approved by the Minister by notification in theGazette;
 
 “Home Protection Fund” means the Home Protection Fund established and maintained by the Board under section 33(1);
 
 “Housing Authority” means any of the following:
 
-(a) the Housing and Development Boardconstituted under section 3 of the Housing and Development Act (Cap. 129);
+(a) the Housing and Development Board;
+
+[18/2009 wef 20/08/2009]
 
 (b) the Jurong Town Corporation constituted under section 3 of the Jurong Town Corporation Act (Cap. 150);
 
@@ -2589,6 +2675,8 @@ HOME PROTECTION INSURANCE SCHEME
 “Scheme” means the Home Protection Insurance Scheme established and maintained by the Board under section 29(1).
 
 [32/84; 30/87]
+
+[29/2005 wef 15/09/2005]
 
 (2) Except where expressly provided in this Part, the provisions of this Part shall, with such exceptions, modifications and adaptations as the Minister may by order published in theGazetteprescribe, apply (so far as relevant) in relation to any housing accommodation sold or to be sold by an approved developer under Part IVB of the Housing and Development Act (Cap. 129).
 
@@ -3626,7 +3714,13 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 ### Board may engage in activities not directly related to Fund and may call for information
 
-76\.—(1) The Board may, if the Minister is satisfied that it is in the public interest to do so, engage in activities not directly related to the administration of the Fund including, in particular, the compilation of information of a statistical nature or otherwise relating to members, employers and employees.
+76\.—(1) The Board may, if the Minister is satisfied that it is in the public interest for the Board to do so, engage in either or both of the following:
+
+(a) activities that are not related to, or that are not directly related to, the Fund or the administration of the Fund;
+
+(b) the compilation of information of a statistical nature or otherwise relating to members, employers and employees.
+
+[18/2009 wef 20/08/2009]
 
 (2) For the purpose of subsection (1), the Board may require members, employers and employees to furnish such particulars as may be necessary.
 
@@ -3722,7 +3816,9 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of —
 
-(i) improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act; or
+(i) improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
+
+[18/2009 wef 20/08/2009]
 
 (ii) improvement contributions due to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
@@ -6472,6 +6568,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 9/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
+|163.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
+||Date of First Reading|25 May 2009|
+|||(Bill No. 11/2009 published on 25 May 2009)|
+||Date of Second and Third Readings|20 July 2009|
+||Date of commencement|20 August 2009 (sections 2(a) and (d), 4, 5(c), (f), (m) and (o), 7, 8, 9, 11, 13(a), (c) and (d), 15 and 17)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
