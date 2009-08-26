@@ -62,7 +62,7 @@ An Act to provide certain penalties relating to the unlawful possession of corro
 
 “explosive substance” shall be deemed to include any materials for making any explosive substance and any bomb, grenade, apparatus, machine, implement or material used or intended to be used or adapted for causing or aiding in causing any explosion in or with any explosive substance and any part of such bomb, grenade, apparatus, machine or implement;
 
-“hurt” means hurt as defined in the Penal Code [Cap. 224];
+“hurt” means hurt as defined in the Penal Code (Cap. 224);
 
 “offensive weapon” includes any instrument which if used as a weapon of offence is likely to cause hurt;
 
@@ -226,7 +226,11 @@ Scheduled Weapons
 
 5\. Any blade or other instrument attached to or forming part of a bicycle pump, metal-pipe or stick, and concealed therein, which is capable of being used for cutting or stabbing.
 
-6. Any sword, machete or parang, axe, sickle, bearing scraper, spear, bayonet, iron rod, and the nancha-ku (segments of wood or metal joined by a chain, leather strap or cord).
+6\. Any sword, machete or parang, axe, sickle, bearing scraper, spear, bayonet, iron rod, and the nancha-ku (segments of wood or metal joined by a chain, leather strap or cord).
+
+7. Any knife, sometimes known as a wasp knife, which is capable of injecting a ball of compressed gas that freezes both human and animal tissues and organs surrounding the point of injection.
+
+[S 378/2009 wef 26/08/2009]
 
 [S 318/73]
 
@@ -273,3 +277,5 @@ This Legislative History is provided for the convenience of users of the Corrosi
 ||Date of commencement|21 September 1973|
 |10.|**1985 Revised Edition—Corrosive and Explosive Substances and Offensive Weapons Act (Chapter 65)**|
 ||Date of operation|30 March 1987|
+|11.|**G.N. No. S 378/2009—Corrosive and Explosive Substances and Offensive Weapons Act (Amendment of Second Schedule) Order 2009**|
+||Date of commencement|26 August 2009|
