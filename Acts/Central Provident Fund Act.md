@@ -118,6 +118,24 @@
 
 - [27I Miscellaneous matters](#Miscellaneous-matters)
 
+[**Part IIIB LIFELONG INCOME SCHEME**](#Part-IIIB)
+
+- [27J Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [27K Establishment of Lifelong Income Scheme](#Establishment-of-Lifelong-Income-Scheme)
+
+- [27L Premium](#Premium)
+
+- [27M Minister may delegate functions and powers under sections 27K(6) and 27L(1)](#Minister-may-delegate-functions-and-powers-under-sections-27K6-and-27L1)
+
+- [27N Establishment of Lifelong Income Fund](#Establishment-of-Lifelong-Income-Fund)
+
+- [27O Non-application of Insurance Act](#Non-application-of-Insurance-Act)
+
+- [27P Order of court for payment of moneys received by relevant member under Scheme](#Order-of-court-for-payment-of-moneys-received-by-relevant-member-under-Scheme)
+
+- [27Q Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
+
 [**Part IV HOME PROTECTION INSURANCE SCHEME**](#Part-IV)
 
 - [28 Interpretation of this Part](#Interpretation-of-this-Part)
@@ -338,11 +356,7 @@ PRELIMINARY
 
 “HDB flat” means any flat, house or other building sold under Part IV or IVB of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
 
-[18/2009 wef 20/08/2009]
-
 “Housing and Development Board” means the Housing and Development Board constituted under the Housing and Development Act;
-
-[18/2009 wef 20/08/2009]
 
 “immovable property” includes —
 
@@ -360,7 +374,9 @@ PRELIMINARY
 
 “medisave account” means a medisave account maintained under section 13;
 
-“member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
+“member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund, or for whom any account in the Fund is maintained for any of the purposes of this Act, and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
+
+[18/2009 wef 01/09/2009]
 
 “minimum sum” means the sum referred to in section 15(6)(a);
 
@@ -372,7 +388,7 @@ PRELIMINARY
 
 “retirement account” means a retirement account maintained —
 
-(a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) ; and
+(a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) and Part IIIB; and
 
 [18/2009 wef 01/09/2009]
 
@@ -391,8 +407,6 @@ PRELIMINARY
 (a) “N” is a specified positive integer; and
 
 (b) “Nth” is the ordinal corresponding to that integer.
-
-[18/2009 wef 20/08/2009]
 
 (2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
@@ -602,7 +616,17 @@ CONTRIBUTIONS TO FUND
 
 (4B) The Board may, in its discretion, pay to a member of the Fund interest in addition to that referred to in subsection (4) —
 
-(a) at such intervals, and on the whole or such part of the amount standing to the credit of the member in the Fund at such time, as the Board may determine; and
+(a) at such intervals, and on the whole or such part of the following amounts at such time, as the Board may determine:
+
+(i) the amount standing to the credit of the member in the Fund; and
+
+(ii) the aggregate of —
+
+(A) the amount of any premium paid by the member under section 27L; and
+
+(B) the interest that would have been payable thereon, if that amount had been standing to the credit of the member in his retirement account; and
+
+[18/2009 wef 01/09/2009]
 
 (b) at such rate per annum, and subject to such terms and conditions, as the Board may, with the approval of the Minister for Finance, determine.
 
@@ -930,9 +954,17 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 15\.—(1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board.
 
-(1A) Subject to sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
+(1A) Subject to subsection (1B), sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person entitled to withdraw the money from the Fund.
 
-[12/99]
+[18/2009 wef 01/09/2009]
+
+[22/2010 wef 01/01/2011]
+
+(1B) The authority under subsection (1) may be given for a withdrawal from the Fund by a relevant member under subsection (7), or for the payment by a relevant member of the premium referred to in section 27L(1) from any amount deposited in his retirement account under subsection (6C)(a) , without any application being made by the relevant member under subsection (1A).
+
+[18/2009 wef 01/09/2009]
+
+[22/2010 wef 01/01/2011]
 
 (2) Subject to this section and sections 19 and 19A, a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
@@ -996,7 +1028,7 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 [15/2006 wef 01/07/2006]
 
-(6A) Where 2 members of the Fund are parties to a marriage, the Board may, on their joint application, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
+(6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on their joint application, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
 
 [15/2006 wef 01/07/2006]
 
@@ -1020,15 +1052,23 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
-(6C) The minimum sum may be deposited with an approved bank or in a retirement account or used to purchase an approved annuity from an insurer.
+(6C) The minimum sum set aside or topped-up by a member shall be utilised as follows:
 
-[15/2006 wef 01/07/2006]
+(a) such amount (if any) as the Board may determine shall be deposited in the member’s retirement account for the payment of the premium referred to in section 27L(1); and
 
-[10/94]
+[22/2010 wef 01/01/2011]
+
+(b) any remaining amount may be —
+
+(i) deposited with an approved bank or in the member’s retirement account; or
+
+(ii) used to purchase an approved annuity from an insurer.
+
+[22/2010 wef 01/01/2011]
+
+[18/2009 wef 01/09/2009]
 
 (6CA) For the purposes of subsections (6)(a) and (6C), where a member becomes entitled under subsection (2)(a) to withdraw the sum standing to his credit in the Fund, the Board shall, if required by any regulations made under section 77(1), transfer from that sum to his retirement account, towards the maintenance of the minimum sum, such amount as may be prescribed in those regulations.
-
-[18/2009 wef 20/08/2009]
 
 (6D) The Minister may, by order published in theGazette—
 
@@ -1036,13 +1076,11 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (b) specify any other amount as he thinks fit in respect of any class of persons for the purposes of subsection (6)(b).
 
-(7) A member who has attained the prescribed age shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
+(7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
 
-[25/2008 wef 01/11/2008]
+[18/2009 wef 01/09/2009]
 
-[10/94]
-
-(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the minimum sum or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
+(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b) or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
 
 (a) physically or mentally incapacitated —
 
@@ -1064,7 +1102,7 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 [18/2009 wef 01/09/2009]
 
-(7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (ba) to withdraw the minimum sum or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
+(7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (ba) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
 
 (a) set aside or top-up in his retirement account such amount as the Minister may specify; and
 
@@ -1078,7 +1116,7 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (7C) The amount referred to in subsection (7B)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
-(8) A member need not deposit the minimum sum with an approved bank or in his retirement account, or use the minimum sum to purchase an approved annuity from an insurer, if the Board is satisfied that the member —
+(8) A member need not comply with subsection (6)(a) if the Board is satisfied that the member —
 
 (a) is physically or mentally incapacitated —
 
@@ -1100,7 +1138,7 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 [18/2009 wef 01/09/2009]
 
-(8A) A member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and who, under subsection (8)(a), (b) or (c), need not deposit the minimum sum with an approved bank or in his retirement account or use the minimum sum to purchase an approved annuity from an insurer shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
+(8A) A member of the Fund who is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and who, under subsection (8)(a), (b) or (c), need not comply with subsection (6)(a) shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
 
 (a) set aside or top-up in his retirement account such amount as the Minister may specify; and
 
@@ -1112,9 +1150,13 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
+(8C) Notwithstanding subsections (2A), (6), (7B) and (8A) and section 27, where any amount which a relevant member is entitled to withdraw from his retirement account under subsection (7), or which is due to a relevant member under section 27K(6), has been transferred or paid by the Board into his ordinary account, the Board may, on his application, permit him to withdraw that amount.
+
+[18/2009 wef 01/09/2009]
+
 (9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 [15/2006 wef 01/07/2006]
 
@@ -1122,7 +1164,7 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6C).
 
 [18/2009 wef 01/09/2009]
 
@@ -1130,13 +1172,13 @@ if the member or his spouse, as the case may be, agrees to the creation of a cha
 
 (9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 [18/2009 wef 01/09/2009]
 
 (b) to surrender his approved annuity,
 
-if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6C).
 
 [18/2009 wef 01/09/2009]
 
@@ -1144,13 +1186,13 @@ if the member and the related person or persons, as the case may be, agree to th
 
 (10) Where a member or his spouse or both of them jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 [18/2009 wef 01/09/2009]
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6) in the event the property is sold or otherwise disposed of.
+if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6C) in the event the property is sold or otherwise disposed of.
 
 [18/2009 wef 01/09/2009]
 
@@ -1158,13 +1200,13 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 (10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 [18/2009 wef 01/09/2009]
 
 (b) to surrender his approved annuity,
 
-if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
+if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6C) in the event the property is sold or otherwise disposed of.
 
 [18/2009 wef 01/09/2009]
 
@@ -1177,8 +1219,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 (a) the immovable property concerned is an HDB flat; and
 
 (b) the disposal of the immovable property consists only of a reduction of the term of the lease in the HDB flat pursuant to an agreement entered into by the member, or by the member and the other person or persons, with the Housing and Development Board under the Lease Buyback Scheme.
-
-[18/2009 wef 20/08/2009]
 
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from an approved developer, from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
@@ -1218,7 +1258,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [15/2006 wef 01/07/2006]
 
-(iv) the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7); or
+(iv) the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7), the payment by him of the premium referred to in section 27L(1), or both; or
 
 [15/2006 wef 01/07/2006]
 
@@ -1232,6 +1272,10 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [5/87; 39/2000]
 
+(15A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and sections 49L and 49M of the Insurance Act (Cap. 142) shall not apply to any annuity purchased with the minimum sum.
+
+[3/2009 wef 01/09/2009]
+
 (16) In this section and section 15B —
 
 “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
@@ -1241,8 +1285,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 “Housing Authority” has the same meaning as in section 28;
 
 “Lease Buyback Scheme” means a scheme by that name administered by the Housing and Development Board, under which a lessee of an HDB flat who has been approved by the Housing and Development Board to take part in the scheme enters into an agreement with the Housing and Development Board to reduce the term of the lease, in consideration of a sum of money part of which is to be used for the payment of the premium for an annuity plan under the Lifelong Income Scheme established and maintained by the Board under section 27K;
-
-[18/2009 wef 20/08/2009]
 
 “related person”, in relation to a member, means —
 
@@ -1258,11 +1300,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (f) a grandparent of the member; or
 
-(g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section.
+(g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section;
 
 [18/2009 wef 01/09/2009]
 
 [39/2000]
+
+“relevant member” has the same meaning as in section 27J.
+
+[18/2009 wef 01/09/2009]
 
 ### Restrictions on withdrawals to ensure repayment of approved loan
 
@@ -1366,11 +1412,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) a member whose parent, grandparent, spouse or sibling has not attained the age of 55 years to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of the parent, grandparent, spouse or sibling; or
 
-[18/2009 wef 20/08/2009]
-
 (b) any person to pay money into the special account of a member who has not attained the age of 55 years.
-
-[40/2007 wef 01/01/2008]
 
 (4) Subject to subsection (6), where a member is a parent, grandparent, spouse or sibling to whose special account any moneys have been transferred under subsection (3)(a) —
 
@@ -1379,10 +1421,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 (b) any interest that would have accrued thereto,
 
 shall be transferred by the Board to the member’s retirement account when the member attains the age of 55 years.
-
-[25/2008 wef 01/11/2008]
-
-[18/2009 wef 20/08/2009]
 
 (5) Subject to subsection (6) —
 
@@ -1498,23 +1536,13 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (a) shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent, spouse or sibling, as the case may be; and
 
-[18/2009 wef 20/08/2009]
-
 (b) shall not be withdrawn from the Fund by the parent, grandparent, spouse or sibling, as the case may be, under section 15(2)(b) or (c).
-
-[18/2009 wef 20/08/2009]
-
-[18/2009 wef 20/08/2009]
 
 (2) Except as otherwise provided by subsections (3) and (4), the moneys transferred under section 18(3)(a), or the balance thereof, shall be credited to the account from which it was transferred upon —
 
 (a) the death of the parent, grandparent, spouse or sibling; or
 
-[18/2009 wef 20/08/2009]
-
 (b) the withdrawal of any sum from the Fund by the parent, grandparent, spouse or sibling under section 15(2)(b) or (c).
-
-[18/2009 wef 20/08/2009]
 
 (3) Where any moneys transferred by a member to the special account of his parent, grandparent, spouse or sibling under section 18(3)(a) are transferred or paid by the Board to any person under section 27B —
 
@@ -1522,15 +1550,11 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (b) the person to whom those moneys have been transferred or paid by the Board under section 27B shall be entitled to retain those moneys.
 
-[18/2009 wef 20/08/2009]
-
 (4) Where the Board receives notice, in accordance with any regulations made under section 77(1), that any moneys transferred by a member to the special account of his parent, grandparent, spouse or sibling under section 18(3)(a) are to be transferred or paid by the Board to any person under section 27B, and the Board has not, at the time it receives the notice, credited those moneys to the account of the member under subsection (2) —
 
 (a) subsection (2) shall not apply to those moneys; and
 
 (b) the person to whom those moneys are to be transferred or paid under section 27B shall be entitled to those moneys.
-
-[18/2009 wef 20/08/2009]
 
 (5) Any moneys paid by a person before 1st November 2008 to his spouse’s or sibling’s special account under section 18(3)(b) as in force immediately before that date shall not form part of the moneys payable out of the Fund on the death of the spouse or sibling, as the case may be.
 
@@ -1589,8 +1613,6 @@ shall be transferred by the Board to the member’s retirement account when the 
 (ca) to pay any improvement contribution due —
 
 (i) to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
-
-[18/2009 wef 20/08/2009]
 
 (ii) to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
@@ -1784,7 +1806,7 @@ in which event the member or any other person having an interest in the immovabl
 
 (iii) in connection with withdrawals of any money from the Fund,
 
-there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including tthe whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+there shall, immediately upon any such withdrawal, be a charge constituted on that HDB flat to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
 
 [57/2007 wef 01/01/2008]
 
@@ -1851,6 +1873,8 @@ the Board may, with the prior written approval of the Housing and Development Bo
 (c) any HDB flat or class of HDB flats which the Minister may, by notification in theGazette, specify.
 
 (13) Sections 21 and 21A shall not apply to any HDB flat to which this section applies.
+
+(14) [Deleted by Act 18/2009 wef 20/08/2009][36/2002 wef 01/01/2003]
 
 ### Withdrawals for payment of tuition fees at approved educational institution
 
@@ -1954,13 +1978,21 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
 
+(2A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and section 49L of the Insurance Act (Cap. 142) shall not apply to —
+
+(a) any policy of insurance which is an investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund; and
+
+(b) any proceeds or benefits of such a policy of insurance which the member is obliged to repay into the Fund.
+
+[3/2009 wef 01/09/2009]
+
 (3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund —
 
 (a) shall not pass to the Official Assignee on the bankruptcy of the member; and
 
 (b) shall be deemed not to form part of the property of the member.
 
-(3A) Subject to subsection (3B), sections 16A and 57C and any regulations made under section 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
+(3A) Subject to subsection (3B), sections 16A, 27N and 57C and any regulations made under section 27Q or 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
 
@@ -1980,7 +2012,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (3B) Where any money is payable to the spouse or former spouse of a member of the Fund under section 27B(1), (2) or (3) on the death of the member, subsection (3A) shall not apply to that money.
 
-(4) Subject to section 57C and any regulations made undersection 57F, no contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
+(4) Subject to sections 27N and 57C and any regulations made undersection 27Q or 57F, no contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
 
 [57/2007 wef 28/12/2007]
 
@@ -1991,6 +2023,8 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 [22/2010 wef 01/10/2010]
 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
+
+(7) [Deleted by Act 18/2009 wef 20/08/2009]
 
 ### Moneys payable on death of member
 
@@ -2030,8 +2064,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 (4B) Subsection (4A) shall not affect any recourse which any person may have against a proper claimant for an amount paid to the proper claimant under subsection (4A)(a).
 
-[18/2009 wef 20/08/2009]
-
 (5) Any nomination made by a member of the Fund under subsection (1) shall be revoked —
 
 (a) by his marriage, whether the marriage was contracted before, on or after 15th May 1980; or
@@ -2063,8 +2095,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (a) claims to be entitled to a deceased nominated person’s portion of the amount payable out of the Fund on the death of a member as executor of the deceased nominated person; or
 
 (b) claims to be entitled to a deceased nominated person’s portion of the amount payable out of the Fund on the death of a member (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased nominated person.
-
-[18/2009 wef 20/08/2009]
 
 ### Power of Board to distribute and dispose of certain shares on death of member
 
@@ -2220,7 +2250,7 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
 
-(ii) every deduction which the Board is entitled to make under section 32, 45 or 54 or any regulations made under section 77(1).
+(ii) every deduction which the Board is entitled to make under section 27L, 32, 45 or 54 or any regulations made under section 77(1).
 
 [18/2009 wef 01/09/2009]
 
@@ -2232,7 +2262,7 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
 
-(ii) every deduction which the Board is entitled to make under section 32, 45 or 54 or any regulations made under section 77(1).
+(ii) every deduction which the Board is entitled to make under section 27L, 32, 45 or 54 or any regulations made under section 77(1).
 
 [18/2009 wef 01/09/2009]
 
@@ -2368,7 +2398,7 @@ the spouse shall give an undertaking to pay to the Board, in the event the prope
 
 (C) the spouse has complied with the requirements of section 15(2A), (6), (7B) or (8A);
 
-(D) the minimum sum set aside by the spouse under section 15(6) has been exhausted on account of withdrawals made by the spouse under section 15(7) or
+(D) the minimum sum set aside by the spouse under section 15(6) has been exhausted on account of withdrawals made by the spouse under section 15(7), the payment by the spouse of the premium referred to in section 27L(1), or both; or
 
 [18/2009 wef 01/09/2009]
 
@@ -2383,8 +2413,6 @@ the spouse shall give an undertaking to pay to the Board, in the event the prope
 (A) the immovable property concerned is an HDB flat; and
 
 (B) the disposal of the immovable property consists only of a reduction of the term of the lease in the HDB flat pursuant to an agreement entered into by the spouse, or by the spouse and any other person or persons, with the Housing and Development Board under the Lease Buyback Scheme.
-
-[18/2009 wef 20/08/2009]
 
 (2) Except in a case to which subsection (1) applies, where —
 
@@ -2409,8 +2437,6 @@ the Board shall be entitled to enforce that undertaking against every person who
 in which event the Board shall not enforce that undertaking.
 
 (3) In this section, “Lease Buyback Scheme” has the same meaning as in section 15(16).
-
-[18/2009 wef 20/08/2009]
 
 ### Order of court for transfer or sale of immovable property in relation to which charge under section 21 (1) or 21A (1) exists
 
@@ -2641,6 +2667,216 @@ then, subject to any regulations made under section 77(1), the following provisi
 (b) the Board shall not be liable for any act or omission of the Board contrary to that requirement which was committed on or before the date of such service.
 
 (3) Where an order of court requires the Board to do anything in contravention of this Act, the Board shall not be liable to give effect to that requirement.
+
+## PART IIIB
+
+LIFELONG INCOME SCHEME
+
+### Interpretation of this Part
+
+27J\. In this Part —
+
+“annuity plan” means an annuity plan under the Scheme, pursuant to which the Board will pay a relevant member his monthly income under section 27K(6);
+
+“Lifelong Income Fund” means the Lifelong Income Fund established and maintained by the Board under section 27N;
+
+“premium” means a premium under section 27L(1) for an annuity plan;
+
+[22/2010 wef 01/01/2011]
+
+“relevant age” means the age at which a relevant member becomes entitled to receive a monthly income under section 27K(6);
+
+“relevant member” means a member of the Fund to whom the Scheme applies;
+
+“relevant regulations” means any regulations made under section 27Q;
+
+“Scheme” means the Lifelong Income Scheme established and maintained by the Board under section 27K.
+
+### Establishment of Lifelong Income Scheme
+
+27K\.—(1) The Board is hereby authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has attained the relevant age applicable to him, a monthly income for the remainder of his life.
+
+(2) Subject to subsections (3), (4) and (5) and the relevant regulations, the Scheme shall apply to every member who —
+
+(a) is a citizen or permanent resident of Singapore;
+
+(b) attains, on or after 1st January 2013, such age as may be prescribed in the relevant regulations;
+
+(c) is required to comply with section 15(6)(a); and
+
+(d) on attaining the age referred to in paragraph (b), has set aside or topped-up, for the purposes of the minimum sum, not less than such amount as may be prescribed in the relevant regulations.
+
+(3) The Board may, on the application of a member who satisfies the requirement under subsection (2)(a) but does not satisfy one or more of the requirements under subsection (2)(b), (c) and (d), permit him to join the Scheme —
+
+(a) on or after the date he attains the age referred to in subsection (2)(b); and
+
+(b) subject to such terms and conditions as the Board may impose.
+
+(4) The Scheme shall not apply to any member whom, or any class of members which, the Minister may prescribe under the relevant regulations.
+
+(5) The Scheme shall not apply, or shall cease to apply, to a member if —
+
+(a) the Board, on the application of the member, so approves; and
+
+(b) the member complies with such terms and conditions for the Board’s approval as the Board may impose.
+
+(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as he is alive, the Board shall pay to him, after he has attained the relevant age applicable to him, such monthly income as the Minister may determine.
+
+(7) The Board shall not be required to pay a relevant member an amount due to him under subsection (6) if, at the time the amount is due, he fails to satisfy the Board, in accordance with the relevant regulations, that he is alive.
+
+(8) Subject to sections 27N and 27P, no monthly income paid to a relevant member under subsection (6) shall —
+
+(a) be liable to be attached, sequestered or levied upon for or in respect of any debt or claim;
+
+(b) be subject to any set-off of any nature for any debt owing by the relevant member; or
+
+(c) pass to the Official Assignee on the bankruptcy of the relevant member.
+
+### Premium
+
+27L\.—(1) Every relevant member shall pay a premium of such amount as the Minister may determine, and the Minister may determine different premiums for different classes of relevant members.
+
+(2) Notwithstanding anything in this Act, the Board shall be entitled to deduct the whole or any part of the premium payable by a relevant member from the amount standing to his credit in his retirement account.
+
+(3) Where any deduction has been made by the Board under subsection (2), the Board shall as soon as practicable give to the relevant member a notice in writing to that effect.
+
+(4) The Board may permit a relevant member to pay the whole or any part of the premium in such other manner and within such time as the Board may determine.
+
+(5) Subject to subsection (7) and sections 27N and 27P, where the Board is liable to refund the whole or any part of the premium paid by a relevant member, the Board may pay the amount to be refunded —
+
+(a) into his account in the Fund; or
+
+(b) in such other manner as the Board may determine.
+
+(6) Subject to subsection (7) and sections 27N and 27P, no amount refunded under subsection (5)(a) shall —
+
+(a) be liable to be attached, sequestered or levied upon for or in respect of any debt or claim;
+
+(b) be subject to any set-off of any nature for any debt owing by the relevant member; or
+
+(c) pass to the Official Assignee on the bankruptcy of the relevant member.
+
+(7) The Board shall be entitled to recover on behalf of the Government any cash grant made by the Government to a relevant member for the payment of the premium, together with any interest which he is liable to pay the Government under the terms of the cash grant, from any amount which the Board is liable to refund under subsection (5).
+
+(8) Where a relevant member who has paid in cash any sum towards the premium dies before an annuity plan has been issued to him, and the sum does not exceed such amount as the Minister may, by notification in theGazette, specify —
+
+(a) the Board may pay to a proper claimant the whole or any part, as the Board may determine, of the sum; and
+
+(b) the receipt of the proper claimant shall be a discharge to the Board for the payment to the proper claimant under paragraph (a).
+
+(9) Subsection (8) shall not affect any recourse which any person may have against a proper claimant for an amount paid to the proper claimant under subsection (8)(a).
+
+(10) In this section —
+
+“child” means a legitimate child and includes any child adopted by virtue of an order of court under any written law for the time being in force in Singapore, Malaysia or Brunei Darussalam;
+
+“parent” includes an adoptive parent;
+
+“proper claimant” means a person who —
+
+(a) claims to be entitled to a sum referred to in subsection (8) on the death of a relevant member as executor of the deceased relevant member; or
+
+(b) claims to be entitled to a sum referred to in subsection (8) on the death of a relevant member (whether for his own benefit or not), and is the widower, widow, child, grandchild, parent, brother, sister, nephew, niece, grandparent, uncle or aunt of the deceased relevant member.
+
+[22/2010 wef 01/01/2011]
+
+### Minister may delegate functions and powers under sections 27K(6) and 27L(1)
+
+27M\. The Minister may in writing delegate to the Board, or to any person or group of persons appointed by the Minister, all or any of his functions and powers under sections 27K(6) and 27L(1) .
+
+### Establishment of Lifelong Income Fund
+
+27N\.—(1) The Board shall establish and maintain a fund to be known as the Lifelong Income Fund, into which shall be paid all premiums collected under section 27L, and out of which shall be met all payments to be made by the Board under this Part (including any costs and expenses incurred by the Board in establishing and maintaining the Scheme).
+
+(2) The Lifelong Income Fund shall be controlled and administered by the Board.
+
+(3) The moneys in the Lifelong Income Fund may be invested by the Board in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+(4) Where a member is not entitled to any amount paid to him, or into his account in the Fund, under or purportedly under section 27K(6) or 27L(5), the Board may recover that amount —
+
+(a) from any money standing to his credit in the Fund; or
+
+(b) on his death, notwithstanding section 24(3A), from —
+
+(i) his estate;
+
+(ii) the moneys payable out of the Fund on his death; or
+
+(iii) any person to whom any moneys referred to in sub-paragraph (ii) have been paid.
+
+(5) Subsection (4) is without prejudice to any other right of action which the Board may have under any written law or rule of law.
+
+(6) Any money recovered by the Board under subsection (4) shall be refunded to the Lifelong Income Fund.
+
+(7) Notwithstanding anything in this Part or the relevant regulations, the Board shall not make any payment under this Part unless the Lifelong Income Fund is solvent.
+
+### Non-application of Insurance Act
+
+27O\. The Insurance Act (Cap. 142) shall not apply to the Scheme or to anything done by the Board under this Part.
+
+### Order of court for payment of moneys received by relevant member under Scheme
+
+27P\.—(1) Subject to section 27N and subsection (2), where, under an order of court, the spouse of a relevant member has been awarded any amount to be paid to the relevant member under section 27K(6) or 27L(5), the Board shall pay the amount to the spouse, such payment to take place —
+
+(a) after the relevant member has become entitled to the amount; and
+
+(b) upon an application by the spouse for the payment of the amount.
+
+(2) Subject to section 27N, where the amount to be paid to the relevant member under section 27K(6) or 27L(5) is less than the amount awarded under the order of court, the Board shall pay the first-mentioned amount instead of the amount awarded under the order of court.
+
+(3) A payment of money by the Board under subsection (1) or (2) —
+
+(a) shall be a good and valid discharge of the Board’s obligations under the order of court; but
+
+(b) shall not affect any recourse which the spouse may have against the relevant member for the balance of the amount awarded under the order of court.
+
+(4) Where an order of court requires the Board to do anything —
+
+(a) the Board shall not be liable to give effect to that requirement unless the order of court has been served on the Board in such manner as may be prescribed by the relevant regulations; and
+
+(b) the Board shall not be liable for any act or omission of the Board contrary to that requirement which was committed on or before the date of such service.
+
+(5) Where an order of court requires the Board to do anything in contravention of this Act, the Board shall not be liable to give effect to that requirement.
+
+(6) In this section, “order of court” and “spouse” have the same meanings as in section 27A.
+
+### Regulations for purposes of this Part
+
+27Q\.—(1) The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Part.
+
+(2) Without prejudice to the generality of subsection (1), such regulations may —
+
+(a) provide for different classes of relevant members;
+
+(b) provide for the manner of, and time for, payment of the premium by each class of relevant members;
+
+(c) provide for the manner by which a relevant member may designate his relevant age;
+
+(d) provide for the different types of annuity plans which a relevant member may apply for under the Scheme;
+
+(e) provide for the manner by which the Board will pay a relevant member his monthly income under section 27K(6) or any amount to be refunded to him;
+
+(f) provide for the manner by which a relevant member is to satisfy the Board that he is alive;
+
+(g) provide for the withdrawal of any amount paid into a relevant member’s account in the Fund under section 27L(5)(a);
+
+(h) without prejudice to section 27L(8), provide for the refund of the whole or any part of the premium on the death of a relevant member, and for the circumstances in which no such refund will be made;
+
+(i) empower the Board to impose terms and conditions for the purposes of the Scheme;
+
+(j) prescribe the evidence to be produced, and the person, officer or authority to whom that evidence is to be produced, for the purposes of this Part;
+
+(k) provide for the information, evidence and documents that the Board may require a relevant member to furnish for the purposes of this Part;
+
+(l) provide for the manner in which, and the processes (apart from those referred to in section 27N) by which, any amount received by a member (being an amount to which he is not entitled), or any part thereof, is to be recovered, including recovery from —
+
+(i) any money standing to his credit in the Fund; or
+
+(ii) any monthly income under section 27K(6) which he may be entitled to receive subsequently;
+
+(m) provide for the purposes of section 27P and, in particular, prescribe the procedure and requirements for and manner of effecting, and any other matter relating to, the payment of money under that section; and
+
+(n) prescribe anything which under this Part may be prescribed by the Minister.
 
 ## PART IV
 
@@ -3026,7 +3262,7 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 48A\.—(1) A policy of insurance issued under the Scheme shall not be deemed to create any legal or equitable trust.
 
-(2) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) shall not apply to any policy of insurance issued under the Scheme.
+(2) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and section 49L of the Insurance Act (Cap. 142) shall not apply to any policy of insurance issued under the Scheme.
 
 [3/2009 wef 01/09/2009]
 
@@ -3720,8 +3956,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (b) the compilation of information of a statistical nature or otherwise relating to members, employers and employees.
 
-[18/2009 wef 20/08/2009]
-
 (2) For the purpose of subsection (1), the Board may require members, employers and employees to furnish such particulars as may be necessary.
 
 (3) Notwithstanding the provisions of any written law but subject to any rules made under subsection (4), where a fund for the educational, social or economic advancement of any community has been approved by the Minister for the purposes of this subsection, an employer shall deduct from the monthly wages of an employee who belongs to that community such amount of contributions as may be prescribed and pay such contributions into the fund unless an employee notifies his employer in writing that he does not wish to contribute to the fund.
@@ -3817,8 +4051,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of —
 
 (i) improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
-
-[18/2009 wef 20/08/2009]
 
 (ii) improvement contributions due to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
@@ -6573,6 +6805,17 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 11/2009 published on 25 May 2009)|
 ||Date of Second and Third Readings|20 July 2009|
 ||Date of commencement|20 August 2009 (sections 2(a) and (d), 4, 5(c), (f), (m) and (o), 7, 8, 9, 11, 13(a), (c) and (d), 15 and 17)|
+|164.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+||(Related amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 28/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 September 2009 (sections 2, 5 to 11 and 13)|
+|165.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
+||Date of First Reading|25 May 2009|
+|||(Bill No. 11/2009 published on 25 May 2009)|
+||Date of Second and Third Readings|20 July 2009|
+||Date of commencement|1 September 2009 (sections 2(b) and (c), 3, 5(a), (d), (e), (g) to (l), (n) and (p), 10, 12, 13(b) and 14)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
