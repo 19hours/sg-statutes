@@ -962,19 +962,13 @@ MINORS
 
 ### Sales and leases on behalf of minor owner
 
-40\. Where a person in his own right seised of or entitled to any land is an infanta minor, the land shall be deemed to be a settled estate withinthe Civil Law Act and the Settled Estates Act.
-
-(1) Where a person in his own right seised of or entitled to any land is a minor, the land shall be deemed to be a settled estate within and the Settled Estates Act.
+40\.—(1) Where a person in his own right seised of or entitled to any land is a minor, the land shall be deemed to be a settled estate within and the Settled Estates Act.
 
 [7/2009 wef 01/03/2009]
 
 (2) Subsection (1) does not apply in the case of a lease not exceeding 3 years which is executed by a minor who has attained the age of 18 years as a principal.
 
-[7/2009 wef 01/03/2009]
-
 [Cap 293.]
-
-[7/2009 wef 01/03/2009]
 
 ### Management of land and receipt and application of income during minority
 
@@ -1376,7 +1370,7 @@ MISCELLANEOUS
 
 ### Moneys payable under policy of assurance not to form part of the estate of the insured
 
-73\.—(1) A policy of assurance effected by any man on his own life and expressed to be for the benefit of his wife or of his children or of his wife and children or any of them, or by any woman on her own life and expressed to be for the benefit of her husband or of her children or of her husband and children or any of them, shall create a trust in favour of the objects therein named, and the moneys payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts.
+73\.—(1) A policy of assurance effected by any man on his own life and expressed , before the date of commencement of section 10 of the Insurance (Amendment) Act 2009, to be for the benefit of his wife or of his children or of his wife and children or any of them, or by any woman on her own life and expressed, before the date of commencement of section 10 of the Insurance (Amendment) Act 2009, to be for the benefit of her husband or of her children or of her husband and children or any of them, shall create a trust in favour of the objects therein named, and the moneys payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts.
 
 [3/2009 wef 01/09/2009]
 
@@ -1384,7 +1378,9 @@ MISCELLANEOUS
 
 (3) The insured may, by the policy or by any memorandum under his or her hand, appoint a trustee or trustees of the moneys payable under the policy, and from time to time appoint a new trustee or new trustees thereof, and may make provision for the appointment of a new trustee or new trustees thereof and for the investment of the moneys payable under any such policy.
 
-(4) In default of any such appointment of a trustee, the policyimmediately on its being effected shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.
+(4) In default of any such appointment of a trustee, the policy shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.
+
+[3/2009 wef 01/09/2009]
 
 (5) If at the time of the death of the insured or at any time afterwards there is no trustee, or it is expedient to appoint a new trustee or new trustees, a trustee or trustees or a new trustee or new trustees may be appointed by the High Court.
 
@@ -1527,97 +1523,96 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of commencement|1 August 1886|
 |2.|**Ordinance 14 of 1903—Conveyancing and Law of Property Ordinance 1886 Amendment Ordinance 1903**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|3 July 1903|
+||Date of commencement|Date not available|
 |3.|**Ordinance 7 of 1904—Conveyancing and Law of Property Ordinance 1886 Amendment Ordinance 1904**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|12 August 1904|
+||Date of commencement|Date not available|
 |4.|**Ordinance 17 of 1911—Conveyancing and Law of Property Ordinance 1886 Amendment Ordinance 1911**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|23 November 1911|
+||Date of commencement|Date not available|
 |5.|**Ordinance 28 of 1914—Trustee Ordinance 1914**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|30 November 1914|
+||Date of commencement|Date not available|
 |6.|**1920 Revised Edition—Conveyancing and Law of Property Ordinance**|
 ||Date of operation|28 November 1921|
 |7.|**Ordinance 26 of 1921—Statute Laws (Revised Edition) Operation Ordinance 1921**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|28 November 1921|
-|8.|**1926 Revised Edition—Conveyancing and Law of Property Ordinance**|
-||Date of operation|1 August 1926|
-|9.|**Ordinance 14 of 1929—Trustees Ordinance 1929**|
+||Date of commencement|Date not available|
+|8.|**Ordinance 14 of 1929—Trustees Ordinance 1929**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|1 September 1929|
-|10.|**Ordinance 63 of 1935—Statute Law Revision Ordinance 1935**|
+||Date of commencement|Date not available|
+|9.|**Ordinance 63 of 1935—Statute Law Revision Ordinance 1935**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|31 December 1935|
-|11.|**1936 Revised Edition—Conveyancing and Law of Property Ordinance**|
+||Date of commencement|Date not available|
+|10.|**1936 Revised Edition—Conveyancing and Law of Property Ordinance**|
 ||Date of operation|1 September 1936|
-|12.|**Ordinance 11 of 1938—Conveyancing and Law of Property (Amendment) Ordinance 1938**|
+|11.|**Ordinance 11 of 1938—Conveyancing and Law of Property (Amendment) Ordinance 1938**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|2 July 1938|
-|13.|**Ordinance 26 of 1952—Conveyancing and Law of Property (Amendment) Ordinance 1952**|
+||Date of commencement|Date not available|
+|12.|**Ordinance 26 of 1952—Conveyancing and Law of Property (Amendment) Ordinance 1952**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|25 August 1952|
-|14.|**Ordinance 8 of 1955—Revised Edition of the Laws (Miscellaneous Amendments) Ordinance 1955**|
+||Date of commencement|Date not available|
+|13.|**Ordinance 8 of 1955—Revised Edition of the Laws (Miscellaneous Amendments) Ordinance 1955**|
 ||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|4 February 1955|
-|15.|**1955 Revised Edition—Conveyancing and Law of Property Ordinance (Chapter 243)**|
+||Date of commencement|Date not available|
+|14.|**1955 Revised Edition—Conveyancing and Law of Property Ordinance (Chapter 243)**|
 ||Date of operation|1 July 1956|
-|16.|**G. N. No. S 179/1959—The Singapore Constitution (Modification of Laws) (No. 5) Order 1959**|
+|15.|**G. N. No. S 179/1959—The Singapore Constitution (Modification of Laws) (No. 5) Order 1959**|
 ||Date of commencement|20 November 1959|
-|17.|**Act 18 of 1961—Women’s Charter 1961**|
+|16.|**Act 18 of 1961—Women’s Charter 1961**|
 ||Date of First Reading|22 February 1961|
 |||(Bill No. 126/1961)|
 ||Date of Second and Third Readings|Dates not available.|
 ||Date of commencement|15 September 1961|
-|18.|**G. N. No. S 47/1963—The State Laws (Modification) (No. 3) Order 1963**|
+|17.|**G. N. No. S 47/1963—The State Laws (Modification) (No. 3) Order 1963**|
 ||Date of commencement|16 September 1963|
-|19.|**1970 Revised Edition (Cap. 268)—Conveyancing and Law of Property Act**|
-||Date of operation|31 August 1971|
-|20.|**Act 18 of 1976—Residential Property Act 1976**|
+|18.|**1970 Revised Edition (Cap. 268)—Conveyancing and Law of Property Act 1970**|
+||Date of operation|1 January 1970|
+|19.|**Act 18 of 1976—Residential Property Act 1976**|
 ||Date of First Reading|29 July 1975|
 |||(Bill No. 33/1975)|
 ||Date of Second and Third Readings|Dates not available.|
 ||Date of commencement|11 September 1973|
-|21.|**1985 Revised Edition—Conveyancing and Law of Property Act**|
-||Date of operation|30 March 1987|
-|22.|**Act 35 of 1993—Application of English Law Act 1993**|
+|20.|**1985 Revised Edition—Conveyancing and Law of Property Act 1985**|
+||Date of operation|1 January 1985|
+|21.|**Act 35 of 1993—Application of English Law Act 1993**|
 ||Date of First Reading|30 August 1993|
 |||(Bill No. 26/1993 published on 12 November 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|12 November 1993|
-|23.|**Act 27 of 1993—Land Titles Act 1993**|
-||Date of First Reading|16 November 1992|
-|||(Bill No. 36/1992 published on 12 November 1993)|
-||Date of Second and Third Readings|30 August 1993|
-||Date of commencement|1 March 1994|
-|24.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
-||Date of operation|15 March 1994|
-|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+|22.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
+||Date of operation|1 January 1994|
+|23.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
 ||Date of First Reading|11 July 1997|
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
-|26.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
+|24.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|11 July 2001|
 |||(Bill No. 23/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|20 August 2001|
-|27.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+|25.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|21 September 2004|
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
-|28.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|26.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 17 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 April 2006|
-|29.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+|27.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|17 November 2008|
 |||(Bill No. 38/2008 published on 17 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 March 2009|
+|28.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 28/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 September 2009|
