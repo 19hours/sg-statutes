@@ -1134,11 +1134,23 @@ Restriction of membership
 
 ### Nomination
 
-45\.—(1) A member of a society may in writing nominate a person in the presence of at least 2 witnesses, to whom on the death of the member the society may transfer the share or interest.
+45\.—(1) Subject to subsection (3), a member of a society may in writing nominate a person in the presence of at least 2 witnesses, to whom on the death of the member the society may transfer the share or interest.
 
 [3/2009 wef 01/09/2009]
 
 (2) Every society shall keep a register of all persons so nominated.
+
+(3) Where a society is the insurer of any relevant policy, and a member of the society is the policy owner of that relevant policy, the member shall not be entitled, on or after the date of commencement of section 11 of the Insurance (Amendment) Act 2009, to nominate under subsection (1) any person to whom on the death of the member the society may transfer the member’s share or interest in any policy moneys under that relevant policy.
+
+[3/2009 wef 01/09/2009]
+
+(4) In this section —
+
+“policy owner” and “policy moneys” have the same meanings as in the First Schedule to the Insurance Act (Cap. 142);
+
+“relevant policy” has the same meaning as in section 49K of the Insurance Act.
+
+[3/2009 wef 01/09/2009]
 
 ### Liability of member limited by shares or by guarantee
 
@@ -2527,7 +2539,7 @@ Co-operative Societies Act
 
 (CHAPTER 62)
 
-This Legislative History is provided for the convenience of users of the Co-operative Societies Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Co-operative Societies Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2556,3 +2568,9 @@ This Legislative History is provided for the convenience of users of the Co-oper
 ||Date of commencement|20 October 2008|
 |6.|**2009 Revised Edition—Co-operative Societies Act**|
 ||Date of operation|31 July 2009|
+|7.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 28/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 September 2009 (Sections 2, 5 to 11 and 13)|
