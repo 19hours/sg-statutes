@@ -252,6 +252,20 @@
 
 - [49J Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
 
+[**Part IIIC NOMINATION OF BENEFICIARIES**](#Part-IIIC)
+
+- [49K Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [49L Trust nomination](#Trust-nomination)
+
+- [49M Revocable nomination](#Revocable-nomination)
+
+- [49N Register of nominees](#Register-of-nominees)
+
+- [49O Relevant policies issued by co-operative society](#Relevant-policies-issued-by-co-operative-society)
+
+- [49P Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
+
 [**Part IV MISCELLANEOUS AND GENERAL**](#Part-IV)
 
 [**Administration and enforcement**](#Administration-and-enforcement)
@@ -284,7 +298,7 @@
 
 - [60 Life policies (surrenders, non-payment of premiums, paid-up policies)](#Life-policies-surrenders-non-payment-of-premiums-paid-up-policies)
 
-- [61 Payment of life policy and claims without probate, etc.](#Payment-of-life-policy-and-claims-without-probate-etc)
+- [61 Payment of living benefits or death benefits under life policy or accident and health policy, etc.](#Payment-of-living-benefits-or-death-benefits-under-life-policy-or-accident-and-health-policy-etc)
 
 - [62 No insurance to be made unless insurer has interest and no policy without inserting names (UK Life Assurance Act 1774)](#No-insurance-to-be-made-unless-insurer-has-interest-and-no-policy-without-inserting-names-UK-Life-Assurance-Act-1774)
 
@@ -3402,6 +3416,278 @@ APPEALS
 
 [23/2003 wef 01/01/2004]
 
+## PART IIIC
+
+NOMINATION OF BENEFICIARIES
+
+[3/2009 wef 01/09/2009]
+
+### Interpretation of this Part
+
+49K\. In this Part, unless the context otherwise requires —
+
+“Central Provident Fund” means the Central Provident Fund established under section 6 of the Central Provident Fund Act (Cap. 36);
+
+“Central Provident Fund Board” means the Central Provident Fund Board constituted under section 3 of the Central Provident Fund Act;
+
+“minimum sum” has the same meaning as in section 2(1) of the Central Provident Fund Act;
+
+“relevant policy” means any life policy or accident and health policy, whether issued before, on or after the date of commencement of section 2 of the Insurance (Amendment) Act 2008, which —
+
+(a) is issued by a registered insurer;
+
+(b) is governed by Singapore law;
+
+(c) provides death benefits;
+
+(d) is effected by the policy owner on his own life;
+
+(e) is not the subject of any trust created under section 73 of the Conveyancing and Law of Property Act (Cap. 61); and
+
+(f) is not an annuity purchased with the minimum sum under section 15(6C) of the Central Provident Fund Act;
+
+“will” has the same meaning as in the Wills Act (Cap. 352).
+
+### Trust nomination
+
+49L\.—(1) This section shall not apply to any relevant policy which is —
+
+(a) issued under the Dependants’ Protection Insurance Scheme established and maintained by the Central Provident Fund Board under section 41 of the Central Provident Fund Act (Cap. 36); or
+
+(b) an investment made by a member of the Central Provident Fund under any scheme in accordance with any regulations made under section 77(1)(n) of the Central Provident Fund Act the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Central Provident Fund.
+
+(2) Where the policy owner of a relevant policy who has attained the age of 18 years —
+
+(a) nominates as the beneficiary or beneficiaries under the relevant policy his spouse, his children, his spouse and children or any of them;
+
+(b) expresses in the nomination his intention to create a trust of the policy moneys in favour of the nominee or nominees; and
+
+(c) makes the nomination, and indicates each nominee’s portion of the policy moneys, in such manner as may be prescribed by the Authority,
+
+the nomination shall create a trust of the policy moneys in favour of the nominee or nominees.
+
+(3) No nomination under subsection (2) shall be valid unless it provides for the disposition of all policy moneys under the relevant policy.
+
+(4) Subject to subsection (5), all policy moneys subject to the trust created under subsection (2) shall not form part of the estate of the policy owner or be subject to his debts.
+
+(5) If it is proved that the relevant policy was effected, and the premiums for the relevant policy were paid, with intent to defraud the creditors of the policy owner, the creditors shall be entitled to receive out of the policy moneys a sum equal to the premiums so paid.
+
+(6) On the death of any nominee, the nominee’s interest in the policy moneys shall, subject to any encumbrance created over, or any disposition of, the nominee’s interest while the nominee was alive, form part of the nominee’s estate.
+
+(7) A policy owner may revoke a nomination under subsection (2) if, and only if, the prior written consent to the revocation has been obtained from —
+
+(a) in a case where any trustee of the policy moneys is a person other than the policy owner —
+
+(i) that trustee or, if there is more than one such trustee, any such trustee; or
+
+(ii) so long as no nominee has died before the revocation —
+
+(A) each nominee who has attained the age of 18 years; and
+
+(B) a parent or legal guardian, not being the policy owner, of each nominee who is below the age of 18 years;
+
+(b) in any other case, so long as no nominee has died before the revocation —
+
+(i) each nominee who has attained the age of 18 years; and
+
+(ii) a parent or legal guardian, not being the policy owner, of each nominee who is below the age of 18 years; and
+
+(c) such requirements for the revocation as may be prescribed by the Authority are satisfied.
+
+(8) Where a nomination under subsection (2) has been revoked in accordance with subsection (7) —
+
+(a) the trust created pursuant to the nomination shall be deemed to be revoked; and
+
+(b) the policy owner may make a new nomination under subsection (2) or section 49M(2).
+
+(9) Where a nomination under subsection (2) has been made in respect of a relevant policy, a term or condition of the relevant policy may be varied, and an instruction of the policy owner in relation to the relevant policy (being an instruction which may directly or indirectly alter the benefits payable under the relevant policy) may be executed by the registered insurer that issued the relevant policy, if, and only if, the prior written consent to the variation of the term or condition or to the execution of the instruction, as the case may be, has been obtained from —
+
+(a) in a case where any trustee of the policy moneys is a person other than the policy owner —
+
+(i) that trustee or, if there is more than one such trustee, any such trustee; or
+
+(ii) so long as no nominee has died before the variation of the term or condition or the execution of the instruction, as the case may be —
+
+(A) each nominee who has attained the age of 18 years; and
+
+(B) a parent or legal guardian, not being the policy owner, of each nominee who is below the age of 18 years; or
+
+(b) in any other case, so long as no nominee has died before the variation of the term or condition or the execution of the instruction, as the case may be —
+
+(i) each nominee who has attained the age of 18 years; and
+
+(ii) a parent or legal guardian, not being the policy owner, of each nominee who is below the age of 18 years.
+
+(10) Any purported revocation of a nomination under subsection (2) in contravention of subsection (7), and any purported variation of any term or condition of a relevant policy in contravention of subsection (9), shall be void.
+
+(11) Where a nomination under subsection (2) has been made in respect of a relevant policy, and the registered insurer that issued the relevant policy executes an instruction of the policy owner in contravention of subsection (9), the registered insurer shall be liable to each nominee for the loss suffered by the nominee (if any) as a result of the execution of the instruction.
+
+(12) Subject to subsection (14), the policy owner —
+
+(a) shall, in such manner as may be prescribed by the Authority, appoint one or more trustees of the policy moneys;
+
+(b) may, in such manner as may be prescribed by the Authority, from time to time, appoint one or more new trustees of the policy moneys;
+
+(c) may, in such manner as may be prescribed by the Authority, revoke the appointment of any trustee appointed under paragraph (a) or (b); and
+
+(d) may, in such manner as may be prescribed by the Authority, make provision for —
+
+(i) the appointment of one or more new trustees of the policy moneys; and
+
+(ii) the revocation of the appointment of any trustee appointed under paragraph (a) or (b) or pursuant to a provision under sub-paragraph (i).
+
+(13) Subject to subsection (14), on or after the death of the policy owner, the High Court may appoint one or more new trustees of the policy moneys if —
+
+(a) there is no trustee of the policy moneys; or
+
+(b) it is expedient to do so.
+
+(14) No individual shall be appointed a trustee of policy moneys under subsection (12)(a) or (b) or (13), or pursuant to a provision under subsection (12)(d)(i), unless he has attained the age of 18 years; and any appointment of a trustee of policy moneys in contravention of this subsection shall be void.
+
+(15) Where, in respect of a relevant policy issued by a registered insurer, a trust of the policy moneys has been created pursuant to a nomination under subsection (2), the relevant policy shall vest, in trust for the nominees, in the trustee or trustees of the policy moneys appointed —
+
+(a) under subsection (12)(a) or (b) or (13); or
+
+(b) pursuant to a provision under subsection (12)(d)(i),
+
+when the registered insurer has been given notice of the appointment in such manner as may be prescribed by the Authority.
+
+### Revocable nomination
+
+49M\.—(1) This section shall not apply to any relevant policy in respect of which any nomination made by the policy owner under section 49L(2) is not revoked in accordance with section 49L(7).
+
+(2) Subject to subsection (3), the policy owner of a relevant policy who has attained the age of 18 years —
+
+(a) may nominate any person as a beneficiary of the whole or any portion of the death benefits under the relevant policy; and
+
+(b) if he does so, shall make the nomination and indicate each nominee’s portion of the death benefits in such manner as may be prescribed by the Authority.
+
+(3) No nomination under subsection (2) shall be valid unless it provides for the disposition of all death benefits under the relevant policy.
+
+(4) A policy owner may revoke a nomination under subsection (2) at any time in such manner as may be prescribed by the Authority.
+
+(5) Where the policy owner of a relevant policy has made a nomination under subsection (2), and any nominee dies before the policy owner —
+
+(a) if there is no surviving nominee, the nomination shall be deemed to be revoked;
+
+(b) if there is only one surviving nominee, the nomination shall be deemed to be varied by adding, to that surviving nominee’s portion of the death benefits under the policy, the deceased nominee’s portion of the death benefits under the policy; and
+
+(c) if there is more than one surviving nominee, the nomination shall be deemed to be varied by adding, to each surviving nominee’s portion of the death benefits under the policy, a share of the deceased nominee’s portion of the death benefits under the policy, such share to be calculated as follows:
+
+A
+
+x
+
+C,
+
+B
+
+where
+
+A
+
+is that surviving nominee’s original portion of the death benefits under the policy (as set out in the nomination);
+
+B
+
+is the aggregate of all the surviving nominees’ original portions of the death benefits under the policy (as set out in the nomination); and
+
+C
+
+is the deceased nominee’s portion of the death benefits under the policy.
+
+(6) For the purposes of subsection (5), where the policy owner and one or more of the nominees die in circumstances rendering it uncertain which of them survived the other or others, then in the absence of any order of the court determining otherwise —
+
+(a) such deaths shall be presumed to have occurred in order of seniority; and
+
+(b) accordingly, the younger shall be deemed to have survived the elder.
+
+(7) A nomination made by the policy owner of a relevant policy under subsection (2) shall be deemed to be revoked if —
+
+(a) the policy owner assigns, encumbers or otherwise deals with the relevant policy or any interest under the relevant policy;
+
+(b) after the making of the nomination, the policy owner makes a will in accordance with the Wills Act (Cap. 352) which —
+
+(i) provides for the disposition of all death benefits under the relevant policy; and
+
+(ii) specifies such particulars of the relevant policy as may be prescribed by the Authority; or
+
+(c) after the making of the nomination, the policy owner makes another nomination under subsection (2) or a nomination under section 49L(2).
+
+(8) Notwithstanding anything in the Wills Act, the Intestate Succession Act (Cap. 146) and any rule of law relating to the distribution of estates, but subject to section 57 of the Probate and Administration Act (Cap. 251), where the policy owner of a relevant policy has made one or more nominations under subsection (2) and one or more wills in accordance with the Wills Act —
+
+(a) if the last nomination is not and is not deemed to be revoked, the death benefits under the relevant policy shall be distributed in accordance with the last nomination;
+
+(b) if the last nomination is or is deemed to be revoked, and the last will is not revoked, the death benefits under the relevant policy shall be distributed in accordance with the last will; or
+
+(c) if the last nomination is or is deemed to be revoked, and the last will is revoked, the death benefits under the relevant policy shall be distributed in accordance with the Intestate Succession Act.
+
+(9) Notwithstanding anything in the Intestate Succession Act and any rule of law relating to the distribution of estates, but subject to section 57 of the Probate and Administration Act, where the policy owner of a relevant policy who has made one or more nominations under subsection (2) dies intestate —
+
+(a) if the last nomination is not and is not deemed to be revoked, the death benefits under the relevant policy shall be distributed in accordance with the last nomination; or
+
+(b) if the last nomination is or is deemed to be revoked, the death benefits under the relevant policy shall be distributed in accordance with the Intestate Succession Act.
+
+### Register of nominees
+
+49N\.—(1) Every registered insurer shall maintain, in such manner as may be prescribed by the Authority and in accordance with such directions as may be issued by the Authority, a register of every person —
+
+(a) who has been nominated under section 49L(2) or 49M(2) by the policy owner of a relevant policy issued by the registered insurer; and
+
+(b) in respect of whom the registered insurer has received written notice of the nomination in such manner as may be prescribed by the Authority for the purposes of this subsection.
+
+(2) Where —
+
+(a) any person nominated under section 49L(2) has been registered by a registered insurer under subsection (1);
+
+(b) the nomination of that person has been revoked under section 49L(7); and
+
+(c) the registered insurer has received written notice of the revocation of the nomination in such manner as may be prescribed by the Authority for the purposes of this subsection,
+
+the registered insurer shall record the revocation of the nomination under section 49L(7) in its register maintained under subsection (1).
+
+(3) Where —
+
+(a) any person nominated under section 49M(2) has been registered by a registered insurer under subsection (1);
+
+(b) the nomination of that person has been or is deemed to be revoked; and
+
+(c) the registered insurer has received written notice of the revocation of the nomination in such manner as may be prescribed by the Authority for the purposes of this subsection,
+
+the registered insurer shall record the revocation of the nomination in its register maintained under subsection (1).
+
+### Relevant policies issued by co-operative society
+
+49O\.—(1) Where the registered insurer of any relevant policy is a co-operative society registered under the Co-operative Societies Act (Cap. 62), and the policy owner of that relevant policy —
+
+(a) has not, before the date of commencement of section 2 of the Insurance (Amendment) Act 2008, made any nomination under section 45(1) of the Co-operative Societies Act in relation to that relevant policy; or
+
+(b) has, before that date, revoked every nomination made under section 45(1) of the Co-operative Societies Act in relation to that relevant policy,
+
+nothing in the Co-operative Societies Act shall, on or after that date, apply to that relevant policy or to any share or interest in any policy moneys under that relevant policy.
+
+(2) Where the registered insurer of any relevant policy is a co-operative society registered under the Co-operative Societies Act, and on or after the date of commencement of section 2 of the Insurance (Amendment) Act 2008 the policy owner of that relevant policy —
+
+(a) revokes the last subsisting nomination made by him under section 45(1) of the Co-operative Societies Act in relation to that relevant policy; or
+
+(b) makes any nomination under section 49L(2) or 49M(2) in relation to that relevant policy, whether or not there is any subsisting nomination made by him under section 45(1) of the Co-operative Societies Act in relation to that relevant policy,
+
+nothing in the Co-operative Societies Act shall apply, on or after the date the policy owner revokes the last subsisting nomination under section 45(1) of the Co-operative Societies Act or makes the nomination under section 49L(2) or 49M(2), as the case may be, to the relevant policy or to any share or interest in any policy moneys under that relevant policy.
+
+### Regulations for purposes of this Part
+
+49P\.—(1) The Authority may make regulations for the purposes of this Part.
+
+(2) Without prejudice to the generality of subsection (1), such regulations may —
+
+(a) prescribe anything which may be prescribed by the Authority under this Part; and
+
+(b) make provision for the exercise of the court’s powers under section 20 of the Mental Capacity Act 2008 (Act 22 of 2008) in relation to —
+
+(i) the making, on a person’s behalf, of any nomination under section 49L(2) or 49M(2); and
+
+(ii) where any nomination under section 49L(2) or 49M(2) has been made by a person or by the court on behalf of a person, the revoking, on the person’s behalf, of that nomination under section 49L(7) or 49M(4), as the case may be.
+
 ## PART IV
 
 MISCELLANEOUS AND GENERAL
@@ -3660,7 +3946,7 @@ Miscellaneous amendments of law
 
 ### Life policy moneys to be paid without deduction
 
-59\.—(1) Any policy moneys payable under a life policy or moneys payable on the surrender of a life policy shall be paid without any deduction for sums not due under the policy or under an agreement charging them on the policy, unless the deduction is made with the consent of the person entitled to those moneys; and any provision contained in a life policy or in any agreement relating thereto shall be void, in so far as it entitles the insurer to make any such deduction without that consent.
+59\.—(1) Subject to section 61, any policy moneys payable under a life policy or moneys payable on the surrender of a life policy shall be paid without any deduction for sums not due under the policy or under an agreement charging them on the policy, unless the deduction is made with the consent of the person entitled to those moneys; and any provision contained in a life policy or in any agreement relating thereto shall be void, in so far as it entitles the insurer to make any such deduction without that consent.
 
 (2) Subsection (1) shall apply to all Singapore policies, but shall not apply to any other policy issued before 1st January 1967.
 
@@ -3698,35 +3984,177 @@ Miscellaneous amendments of law
 
 [11/86]
 
-### Payment of life policy and claims without probate, etc.
+### Payment of living benefits or death benefits under life policy or accident and health policy, etc.
 
-61\.—(1) In any case where the policy owner of any life policy or policy of an insurer dies, and the policy moneys are payable thereunder on his death, the insurer may make payment to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer on the deceased’s life without the production of any probate or letters of administration; and the insurer shall be discharged from all liability in respect of the amount paid.
+61\.—(1) In any case where —
 
-[11/86]
+(a) the policy owner of any life policy or accident and health policy has made a nomination under section 49L(2) in respect of the policy;
 
-(2) If, in any case as is mentioned in subsection (1), estate duty is payable in Singapore on any such policy moneys as are there mentioned, the insurer may, notwithstanding section 43(2) of the Estate Duty Act (Cap. 96), pay to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer, without the policy moneys having been included in such a schedule or certificate as is mentioned in that subsection.
+(b) that nomination is not revoked in accordance with section 49L(7);
 
-[11/86]
+(c) the registered insurer of the policy has received written notice of that nomination under section 49N(1)(b); and
 
-(3) Before making any payment under subsection (2), the insurer shall give notice by registered post to the Commissioner of Estate Duties with such particulars as the Commissioner may require.
+(d) any living benefits are payable under the policy,
 
-[11/86]
+the registered insurer may make a payment from the living benefits, and shall be discharged from all liability in respect of the payment, to —
 
-(4) Subsection (2) shall apply in relation to policy moneys under policies of which the deceased was not the policy owner at his death as it applies in relation to any such policy moneys as are mentioned in subsection (1).
+(i) in a case where any trustee of the policy moneys is a person other than the policy owner —
 
-[22/73; 11/86]
+(A) that trustee, for the benefit of every nominee under that nomination; or
 
-(5) Where an amount is paid under subsection (2) on account of any policy moneys, the insurer may, before payment of the balance of such policy moneys to any proper claimant, apply the whole or part of the policy moneys to pay any unpaid estate duty payable on the death of the insured.
+(B) if there is more than one such trustee, any such trustee, for the benefit of every nominee under that nomination; or
 
-[11/86]
+(ii) in any other case —
 
-(6) In this section —
+(A) any nominee under that nomination who has attained the age of 18 years;
 
-(a) “policy owner” includes a part owner of a policy;
+(B) a parent or legal guardian, not being the policy owner, of any nominee under that nomination who is below the age of 18 years; or
 
-(b) “proper claimant” means a person who claims to be entitled to the sums in question as executor of the deceased, or who claims to be entitled to that sum (whether for his own benefit or not) and is the widower, widow, parent, child, brother, sister, nephew or niece of the deceased; and
+(C) the personal representatives of the estate of any nominee under that nomination who is deceased,
 
-(c) in deducing any relationship for the purposes of this subsection, an illegitimate person shall be treated as the legitimate child of his actual parents.
+such payment not exceeding that nominee’s portion of the living benefits.
+
+(2) In any case where the policy owner of any life policy or accident and health policy dies, and death benefits are payable under the policy on his death —
+
+(a) if subsection (7), (8) or (9) applies in respect of the policy, the registered insurer of the policy may make one or more payments in accordance with the applicable subsection from the death benefits under the policy, without the production of any probate or letters of administration;
+
+(b) if subsection (10) applies in respect of the policy, the registered insurer of the policy may make one or more payments in accordance with subsections (10) and (11) from the death benefits under all such policies issued by the registered insurer on the deceased’s life in respect of which subsection (10) applies, such payment or payments not exceeding in the aggregate the amount prescribed by the Authority for the purposes of this paragraph, without the production of any probate or letters of administration; and
+
+(c) the registered insurer shall be discharged from all liability in respect of each such payment.
+
+(3) If, in any case referred to in subsection (2), estate duty is payable in Singapore on any death benefits referred to in that subsection, the registered insurer may, notwithstanding section 43(2) of the Estate Duty Act (Cap. 96), make one or more payments in accordance with subsections (10) and (11) from the death benefits under all such policies issued by the registered insurer (such payment or payments not exceeding in the aggregate the amount prescribed by the Authority for the purposes of this subsection) without the death benefits having been included in any schedule or certificate referred to in section 43(2) of that Act.
+
+(4) If, as a consequence of making any payment under subsection (3), the aggregate of all payments made under that subsection will exceed the amount prescribed by the Authority for the purposes of this subsection, the registered insurer shall, before making the first-mentioned payment, give written notice to the Commissioner of Estate Duties of such particulars as the Commissioner may require.
+
+(5) Subsection (3) shall apply in relation to death benefits under policies of which the deceased was not the policy owner at his death as it applies in relation to any death benefits referred to in subsection (2).
+
+(6) Where the payment or payments allowed under subsection (3) on account of any death benefits have been made, the registered insurer may, before paying the balance of such death benefits to one or more relevant persons according to their entitlements, apply the whole or any part of the death benefits to pay any unpaid estate duty payable on the death of the insured.
+
+(7) Where —
+
+(a) the policy owner of a policy referred to in subsection (2) has made a nomination under section 49L(2) in respect of the policy;
+
+(b) that nomination is not revoked in accordance with section 49L(7); and
+
+(c) the registered insurer of the policy has received written notice of that nomination under section 49N(1)(b),
+
+the registered insurer may make a payment under subsection (2)(a) to —
+
+(i) in a case where any trustee of the policy moneys is a person other than the policy owner —
+
+(A) that trustee, for the benefit of every nominee under that nomination; or
+
+(B) if there is more than one such trustee, any such trustee, for the benefit of every nominee under that nomination; or
+
+(ii) in any other case —
+
+(A) any nominee under that nomination who has attained the age of 18 years;
+
+(B) a parent or legal guardian, not being the policy owner, of any nominee under that nomination who is below the age of 18 years; or
+
+(C) the personal representatives of the estate of any nominee under that nomination who is deceased,
+
+such payment not exceeding that nominee’s portion of the death benefits under the policy.
+
+(8) Where —
+
+(a) the policy owner of a policy referred to in subsection (2) has made a nomination under section 49M(2) in respect of the policy;
+
+(b) that nomination is not and is not deemed to be revoked; and
+
+(c) the registered insurer of the policy has received written notice of that nomination under section 49N(1)(b),
+
+the registered insurer may make a payment under subsection (2)(a) to —
+
+(i) any nominee under that nomination who has attained the age of 18 years;
+
+(ii) a parent or legal guardian, not being the policy owner, of any nominee under that nomination who is below the age of 18 years; or
+
+(iii) the personal representatives of the estate of any nominee under that nomination who dies after the policy owner,
+
+such payment not exceeding that nominee’s portion of the death benefits under the policy.
+
+(9) Subject to subsection (7), where —
+
+(a) the policy owner of a policy referred to in subsection (2) has made, and has not revoked, a will in accordance with the Wills Act (Cap. 352);
+
+(b) the will —
+
+(i) provides for the disposition of all death benefits under the policy; and
+
+(ii) specifies such particulars of the policy as may be prescribed by the Authority under section 49M(7)(b)(ii); and
+
+(c) the registered insurer of the policy has received written notice, signed by the policy owner, of that will in such manner as may be prescribed by the Authority for the purposes of this subsection,
+
+the registered insurer may make a payment under subsection (2)(a) to any executor of that will, such payment not exceeding the amount of the death benefits under the policy.
+
+(10) Subject to subsection (11), where —
+
+(a) the policy owner of a policy referred to in subsection (2) or (3) has not made —
+
+(i) any nomination under section 49L(2) or 49M(2) in respect of the policy; or
+
+(ii) any will which —
+
+(A) provides for the disposition of all death benefits under the policy; and
+
+(B) specifies such particulars of the policy as may be prescribed by the Authority under section 49M(7)(b)(ii);
+
+(b) the registered insurer of a policy referred to in subsection (2) or (3) has not received —
+
+(i) any written notice referred to in section 49N(1)(b) of any nomination made under section 49L(2) or 49M(2) in respect of the policy; or
+
+(ii) any written notice referred to in subsection (9)(c) of any will providing for the disposition of all death benefits under the policy; or
+
+(c) there exist, in respect of a policy referred to in subsection (2) or (3), such other circumstances as the Authority may prescribe,
+
+the registered insurer of the policy may make a payment under subsection (2)(b) or (3) to any proper claimant from the death benefits under the policy.
+
+(11) Where subsection (10) applies, and the registered insurer referred to in that subsection receives 2 or more different claims for payment in accordance with that subsection —
+
+(a) each such claim shall be paid in the same order of priority; and
+
+(b) the amount payable under subsection (2)(b) or (3), as the case may be, in respect of any such claim shall be calculated as follows:
+
+A
+
+x
+
+C,
+
+B
+
+where
+
+A
+
+is the amount which would have been payable in respect of that claim had it been paid in full;
+
+B
+
+is the total amount which would have been payable in respect of all such claims had they been paid in full; and
+
+C
+
+is the amount prescribed by the Authority for the purposes of subsection (2)(b) or (3), as the case may be.
+
+(12) In this section, unless the context otherwise requires —
+
+“policy owner” includes a part owner of a policy;
+
+“proper claimant” means a person who —
+
+(a) claims to be entitled to payment under subsection (2)(b) or (3) as executor of the deceased; or
+
+(b) claims to be entitled to payment under subsection (2)(b) or (3) (whether for his own benefit or not) and is the widower, widow, parent, child, brother, sister, nephew or niece of the deceased;
+
+“relevant person” means the personal representative of the deceased or, where there is none, any proper claimant.
+
+(13) In deducing any relationship for the purposes of the definition of “proper claimant” in subsection (12), an illegitimate person shall be treated as the legitimate child of his actual parents.
+
+(14) For the purposes of this section, where any nomination has been or is deemed to be varied, any reference to a nominee under that nomination shall be construed as a reference to a nominee under that nomination as varied.
+
+[3/2009 wef 01/09/2009]
 
 ### No insurance to be made unless insurer has interest and no policy without inserting names (UK Life Assurance Act 1774)
 
@@ -3858,7 +4286,13 @@ General
 
 (c) “resident in Singapore” and “permanent establishment” have the same meanings as in the Income Tax Act (Cap. 134).
 
+(d) [Deleted by S 130/2009 wef 31/03/2009]
+
 (4) Sub-paragraph (1)(a) shall apply to a policy of reinsurance as if the references to the date of issue of the policy and to the policy owner’s address referred to those of the policy under which the liability reinsured ultimately arises.
+
+2A. “Child” means a legitimate child, an illegitimate child, a stepchild or a child adopted in accordance with any written law relating to the adopting of children.
+
+[3/2009 wef 01/09/2009]
 
 3\. “Policy owner” means, where a policy has been assigned, the assignee for the time being and, where they are entitled as against the insurer to the benefit of the policy, the personal representatives of a deceased policy owner.
 
@@ -3914,6 +4348,14 @@ but does not include policy moneys that are payable with respect to any loss ari
 
 [23/2003 wef 01/01/2004]
 
+4F. “Death benefits” means policy moneys which are paid out on the death of the insured.
+
+[3/2009 wef 01/09/2009]
+
+4G. “Living benefits” means policy moneys which are paid out before the death of the insured.
+
+[3/2009 wef 01/09/2009]
+
 Definitions related to life business
 
 5.—(1) Subject to sub-paragraph (2), “life policy” means any policy which —
@@ -3926,11 +4368,9 @@ Definitions related to life business
 
 (d) is a combination of any of the above.
 
-(2) A policy that provides for the payment of policy moneys on the death of a person is not a life policy if payment is only to be made in the event of —
+(2) An accident and health policy that provides for the payment of policy moneys on the death of a person is not a life policy.
 
-(a) death by accident; or
-
-(b) death resulting from specified sickness.
+[3/2009 wef 01/09/2009]
 
 [23/2003 wef 01/01/2004]
 
@@ -4105,6 +4545,10 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Dates of commencement|1st March 2009 (Sections 3 & 4)|
 |26.|**G. N. No. S 130/2009—Insurance Act (Amendment of First Schedule) Order 2009**|
 ||Date of commencement|31 March 2009|
+|27.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+||Date of First Reading|20 October 2008|
+||Date of Second and Third Readings|19 January 2009|
+||Dates of commencement|1st September 2009 (Sections 2, 5 to 11 and 13)|
 ## COMPARATIVE TABLE
 
 Insurance Act
