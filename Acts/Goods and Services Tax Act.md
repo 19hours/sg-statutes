@@ -312,8 +312,6 @@ PRELIMINARY
 
 “limited partnership” means a limited partnership referred to in section 3 of the Limited Partnerships Act 2008;
 
-[37/2008 wef 04/05/2009]
-
 “money” and “currency” include currencies whether of Singapore or any other country but does not include a collector’s piece, investment article or item of numismatic interest;
 
 “open market value”, in relation to a supply of goods or services, has the meaning given to it by section 17(5) and in relation to imported goods has the meaning given to it by section 18(3);
@@ -371,8 +369,6 @@ PRELIMINARY
 (a) references to partnerships include references to limited partnerships; and
 
 (b) references to partners of a partnership include references to partners of a limited partnership.
-
-[37/2008 wef 04/05/2009]
 
 ## PART II
 
@@ -1312,17 +1308,11 @@ SPECIAL CASES
 
 (3) Without prejudice to section 36 of the Partnership Act (Cap. 391) (rights of persons dealing with firm against apparent members of firm) as it applies to any form of partnership, until the date on which a change in the partnership is notified to the Comptroller in writing, a person who has ceased to be a member of a partnership shall be regarded as continuing to be a partner for the purposes of this Act and, in particular, for the purpose of any liability for tax on the supply of goods or services by the partnership.
 
-[37/2008 wef 04/05/2009]
-
 (4) Where a person ceases to be a member of a partnership during a prescribed accounting period (or is treated as so doing by virtue of subsection (3)) any notice, whether of assessment or otherwise, which is served on the partnership and relates to, or to any matter arising in, that period or any earlier period during the whole or part of which he was a member of the partnership shall be treated as served also on him.
 
 (5) Without prejudice to section 16 of the Partnership Act (notice to acting partner to be notice to the firm) as it applies to any form of partnership, any notice, whether of assessment or otherwise, which is addressed to a partnership by the name in which it is registered by virtue of subsection (1) and is served in accordance with this Act shall be treated for the purposes of this Act as served on the partnership and, accordingly, where subsection (4) applies, as served also on the former partner.
 
-[37/2008 wef 04/05/2009]
-
 (6) Subsections (1) and (4) shall not affect the extent to which, under section 9 of the Partnership Act as it applies to any form of partnership, a partner is liable for tax owed by the firm.
-
-[37/2008 wef 04/05/2009]
 
 (7) Where a person is a partner in a firm during part only of a prescribed accounting period, his liability for tax on the supply by the firm of goods or services during that accounting period shall be such proportion of the firm’s liability as may be just.
 
@@ -3824,6 +3814,10 @@ Finance
 
 (l) the provision, or transfer of ownership, of a life insurance contract;
 
+(la) the provision of insurance cover or annuities under any specified CPF scheme;
+
+[S 391/2009 wef 01/09/2009]
+
 (m) the provision or assignment of any futures contract including a futures option transaction which does not lead to a delivery of any goods from the seller to the buyer;
 
 (n) the provision or assignment of any option or contract for the sale of any unallocated commodity which does not lead to a delivery of the commodity from the seller to the buyer;
@@ -3897,6 +3891,22 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 (i) the financial institution immediately sells the non-residential property to the purchaser (whether in consideration of a lump sum payment or instalment payments); or
 
 (ii) the financial institution immediately leases the non-residential property to the purchaser with an option for the purchaser to purchase the same;
+
+“specified CPF scheme” means a scheme established under the Central Provident Fund Act (Cap. 36) that —
+
+(a) provides for the payment of moneys on the death of a person or on the happening of any contingency dependent on the termination or continuance of human life, except where the payment is only to be made in the event of —
+
+(i) death by accident; or
+
+(ii) death resulting from specified sickness;
+
+(b) is subject to payment of premiums for a term dependent on the termination or continuance of human life;
+
+(c) provides for the payment of an annuity for a term dependent on the termination or continuance of human life; or
+
+(d) is a combination of any of the above;
+
+[S 391/2009 wef 01/09/2009]
 
 “unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust or business trust.
 
@@ -4329,6 +4339,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|4 May 2009|
+|31.|**G. N. No. S 391/2009—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2009**|
+||Date of commencement|1 September 2009|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
