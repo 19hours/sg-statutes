@@ -290,6 +290,8 @@ President.
 
 Date of Commencement: 1st July 2009 Parts I to VIII, sections 88 to 95, Part X, the First, Second, Third and Fourth Schedules
 
+Date of Commencement: 1st October 2009 Sections 86 and 87
+
 An Act to provide for the transfer of the airport undertaking of the Civil Aviation Authority of Singapore to a successor company, to provide for the reconstitution of the Civil Aviation Authority of Singapore, to provide for the regulation of the operation of airports and for the imposition of economic controls at airports, to repeal the Civil Aviation Authority of Singapore Act (Chapter 41 of the 1985 Revised Edition) and to make consequential amendments to other written laws relating to airports.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -1508,12 +1510,7 @@ to provide the Minister with all such information as he may require (whether for
 
 ## PART V
 
-RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF
-
-
-
-
-AIRPORT LICENSEES
+RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF AIRPORT LICENSEES
 
 Division 1 —
 
@@ -1729,7 +1726,7 @@ and includes any person for the time being performing any or all of the function
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“designated business trust” means a business trust that is established wholly or partly in respect of an airport (or any part thereof) and which has been declared by the Authority, by notification in the Gazette, to be a designated business trust for the purposes of this Part;
+“designated business trust” means a business trust that is established wholly or partly in respect of an airport (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated business trust for the purposes of this Part;
 
 “director” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -2347,11 +2344,7 @@ LEVIES, FEES AND CHARGES
 
 ### Levy
 
-86\.—(1) For the purpose of enabling the Authority to carry out its functions under this Act and any other written law, the Minister may, after consulting the Authority, by order published in the
-
-Gazette
-
-, impose on all or any of the persons referred to in subsection (2) a levy payable to the Authority.
+86\.—(1) For the purpose of enabling the Authority to carry out its functions under this Act and any other written law, the Minister may, after consulting the Authority, by order published in theGazette, impose on all or any of the persons referred to in subsection (2) a levy payable to the Authority.
 
 (2) An order made under subsection (1) may —
 
@@ -2367,11 +2360,7 @@ Gazette
 
 (i) by persons by whom any levy is payable; and
 
-(ii) by an airport licensee or other agent referred to in paragraph (
-
-d
-
-),
+(ii) by an airport licensee or other agent referred to in paragraph (d),
 
 and prescribe conditions relating to the making of such returns;
 
@@ -2387,19 +2376,11 @@ and prescribe conditions relating to the making of such returns;
 
 (b) any penalty or interest for the late payment of such levy or penalty imposed under section 86; and
 
-(c) any additional penalty under subsection (3)(
-
-b
-
-).
+(c) any additional penalty under subsection (3)(b).
 
 (2) Any such unpaid levy, penalty or interest imposed under section 86 may be recovered by the Authority as a debt in a court of competent jurisdiction.
 
-(3) Where an airport licensee or other agent is designated by an order pursuant to section 86(2)(
-
-d
-
-) to collect any levy payable under section 86 —
+(3) Where an airport licensee or other agent is designated by an order pursuant to section 86(2)(d) to collect any levy payable under section 86 —
 
 (a) all such levies collected by the airport licensee or other agent shall be paid to the Authority within the time prescribed in that order and shall, if so unpaid, be recoverable from the airport licensee or agent, as the case may be, as a debt in a court of competent jurisdiction;
 
