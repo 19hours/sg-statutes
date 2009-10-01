@@ -1014,7 +1014,7 @@ IMPOSITION OF INCOME TAX
 
 (b) gains or profits from any employment;
 
-(c) [[Deleted by Act 29/65)];]
+(c) [Deleted by Act 29/65)]
 
 (d) dividends, interest or discounts;
 
@@ -5201,7 +5201,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
 
 [34/2008 wef 01/04/2008]
 
@@ -9057,7 +9057,7 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be;
 
 [34/2008 wef 01/04/2008]
 
@@ -15937,6 +15937,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 17/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|23 November 2009|
 ||Date of commencement|1 July 2009 (Section 25, 33(c), (d), (e))|
+|249.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+||Date of First Reading|16 September 2013|
+|||(Bill No. 14/2013 published on 16 September 2013)|
+||Date of Second and Third Readings|21 October 2013|
+||Date of commencement|1 October 2009 (Sections 7(h) and (r))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
