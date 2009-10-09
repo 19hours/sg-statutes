@@ -24,7 +24,7 @@
 
 - [6 Senate of Academy may give directions to Board](#Senate-of-Academy-may-give-directions-to-Board)
 
-- [7 Board may approve certain persons as qualified persons](#Board-may-approve-certain-persons-as-qualified-persons)
+- [7 (Repealed)](#Repealed)
 
 - [8 Constitution of Board](#Constitution-of-Board)
 
@@ -38,11 +38,13 @@
 
 - [12 Qualifications for admission](#Qualifications-for-admission)
 
-- [13 Periods of pupillage](#Periods-of-pupillage)
+- [13 Service of practice training period](#Service-of-practice-training-period)
 
-- [14 Service of pupillage](#Service-of-pupillage)
+- [14 Transitional arrangements relating to period of pupillage](#Transitional-arrangements-relating-to-period-of-pupillage)
 
 - [15 Admission of Malayan practitioners](#Admission-of-Malayan-practitioners)
+
+- [15A Powers of Minister in relation to admission requirements](#Powers-of-Minister-in-relation-to-admission-requirements)
 
 - [16 Hong Kong practitioners](#Hong-Kong-practitioners)
 
@@ -288,9 +290,9 @@
 
 [**Part VII DISCIPLINARY PROCEEDINGS**](#Part-VII)
 
-- [82 Jurisdiction of Supreme Court over solicitors and legal officers](#Jurisdiction-of-Supreme-Court-over-solicitors-and-legal-officers)
+- [82 Jurisdiction of Supreme Court over solicitors and Legal Service Officers](#Jurisdiction-of-Supreme-Court-over-solicitors-and-Legal-Service-Officers)
 
-- [82A Disciplinary proceedings against legal officers and non-practising solicitors](#Disciplinary-proceedings-against-legal-officers-and-non-practising-solicitors)
+- [82A Disciplinary proceedings against Legal Service Officers and non-practising solicitors](#Disciplinary-proceedings-against-Legal-Service-Officers-and-non-practising-solicitors)
 
 - [83 Power to strike off roll, etc.](#Power-to-strike-off-roll-etc)
 
@@ -546,11 +548,13 @@ PRELIMINARY
 
 “law corporation” means a company approved as a law corporation under section 81B;
 
-“lay person”, in relation to the Inquiry Panel or an Inquiry Committee, means an architect, an accountant, a banker, a company director, an insurer, a professional engineer, a medical practitioner or any other person (not being an advocate and solicitor or a legal officer) who meets such criteria as may be approved by the Chief Justice and the Attorney-General;
+“lay person”, in relation to the Inquiry Panel or an Inquiry Committee, means an architect, an accountant, a banker, a company director, an insurer, a professional engineer, a medical practitioner or any other person (not being an advocate and solicitor or a Legal Service Officer) who meets such criteria as may be approved by the Chief Justice and the Attorney-General;
 
 [20/2009 wef 09/10/2009]
 
-“legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
+“Legal Service Officer” means an officer in the Singapore Legal Service;
+
+[20/2009 wef 09/10/2009]
 
 “licensed foreign law practice” means a foreign law practice licensed under section 130E;
 
@@ -559,6 +563,14 @@ PRELIMINARY
 “locum solicitor” means an advocate and solicitor engaged (whether concurrently or otherwise) on a temporary or freelance basis by one or more law firms, law corporations, limited liability law partnerships or solicitors practising on their own account;
 
 “Malayan practitioner” means any person entitled to practise before a High Court in any part of West Malaysia;
+
+“practice training contract” means a formal training arrangement between a qualified person and a Singapore law practice, pursuant to which the qualified person receives, and the Singapore law practice provides, supervised training in relation to the practice of Singapore law;
+
+[20/2009 wef 09/10/2009]
+
+“practice training period” means the period during which a qualified person is required to receive supervised training in relation to the practice of Singapore law before he can be admitted as an advocate and solicitor;
+
+[20/2009 wef 09/10/2009]
 
 “practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of an advocate and solicitor under Part IV;
 
@@ -576,15 +588,31 @@ PRELIMINARY
 
 (iv) was and still is in possession of such other degree or qualification as may have been declared by the Minister under section 7 in force immediately before 1st January 1994 and has obtained a certificate from the Board under that section;
 
-(b) on or after 1st May 1993 possesses such qualifications and satisfies such requirements as the Minister may prescribe under subsection (2); or
+(b) on or after 1st May 1993 possesses such qualifications and satisfies such requirements as the Minister may prescribe under subsection (2);
 
-(c) is approved by the Board as a qualified person under section 7;
+[20/2009 wef 09/10/2009]
+
+(c) is approved by the Board as a qualified person under section 7 in force immediately before the date of commencement of section 2(e) of the Legal Profession (Amendment) Act 2009; or
+
+[20/2009 wef 09/10/2009]
+
+(d) is approved by the Minister as a qualified person under section 15A(1);
+
+[20/2009 wef 09/10/2009]
 
 “Qualifying Foreign Law Practice” means a foreign law practice licensed under section 130D;
 
 “register of practitioners” means the annual register kept by the Registrar under section 27;
 
 “Registrar” means the Registrar of the Supreme Court and includes the Deputy Registrar and an Assistant Registrar;
+
+“relevant legal officer” means —
+
+(a) a Legal Service Officer; or
+
+(b) a legal officer of such statutory body or law office in the public service as the Minister may prescribe by rules published in theGazette;
+
+[20/2009 wef 09/10/2009]
 
 “Review Committee” means a Review Committee constituted under section 85(6);
 
@@ -684,7 +712,9 @@ Board of Legal Education
 
 (b) to provide for the training, education and examination, by the Board or by any other body, of qualified persons intending to practise the profession of law in Singapore;
 
-(c) to exercise supervision over qualified persons during their period of pupillage and to assist masters and principals with regard to the instruction given to pupils;
+(c) to exercise supervision over qualified persons during their respective practice training periods;
+
+[20/2009 wef 09/10/2009]
 
 (d) to consider and from time to time make recommendations to the appropriate authorities on the syllabus, the contents of courses of instruction and examinations leading to the qualification of persons as qualified persons; and
 
@@ -718,15 +748,25 @@ Board of Legal Education
 
 (a) for regulating the meetings and proceedings of the Board;
 
-(b) with respect to the taking and retaining of pupils by masters and the conduct, duties and responsibilities of the parties;
+(b) with respect to the supervised training in relation to the practice of Singapore law which qualified persons are required to receive before they can be admitted as advocates and solicitors;
 
-(c) for regulating the manner in which pupils keep dining terms and serve their period of pupillage;
+[20/2009 wef 09/10/2009]
 
-(d) for specifying the subjects in which pupils shall attend courses of instruction;
+(c) for regulating the manner in which qualified persons are to serve their respective practice training periods before they can be admitted as advocates and solicitors;
 
-(e) for the examination from time to time of pupils;
+[20/2009 wef 09/10/2009]
 
-(f) for the exemption of pupils from courses of instruction or examination;
+(d) for prescribing the courses of instruction, and the subjects therein, which qualified persons are required to attend before they can be admitted as advocates and solicitors, and for regulating the conduct of qualified persons attending such courses of instruction;
+
+[20/2009 wef 09/10/2009]
+
+(e) for prescribing the examinations which qualified persons are required to pass before they can be admitted as advocates and solicitors,and for regulating the conduct of qualified persons during such examinations;
+
+[20/2009 wef 09/10/2009]
+
+(f) for regulating the manner in which qualified persons are to keep dining terms before they can be admitted as advocates and solicitors;
+
+[20/2009 wef 09/10/2009]
 
 (g) for the appointment of lecturers and examiners and for the payment of fees to them;
 
@@ -744,15 +784,7 @@ Board of Legal Education
 
 [15/89]
 
-### Board may approve certain persons as qualified persons
-
-7\.—(1) The Board may, in its discretion, upon an application made to it by any person who is not otherwise entitled to become a qualified person but who, in the opinion of the Board, possesses such qualification or expertise as would contribute to, promote or enhance the quality of legal services in Singapore or the economic or technological development of Singapore, approve the person as a qualified person for the purpose of this Act and issue to him a certificate to that effect.
-
-[35/2001]
-
-(2) Notwithstanding section 22, any decision of the Board under subsection (1) shall be final and shall not be subject to appeal or review in any court.
-
-[41/93]
+7\. [Deleted by Act 20/2009 wef 09/10/2009]
 
 ### Constitution of Board
 
@@ -774,7 +806,7 @@ Board of Legal Education
 
 [35/2001; 20/2007]
 
-(3) If for any reason the Attorney-General, the President of the Society or any of the Deans appointed under subsection (1)(c) is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Council or the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
+(3) If for any reason the Attorney-General, the President of the Society or any of the Deans appointed under subsection (1)(c) is unable to attend a particular meeting of the Board, he may nominate a Legal Service Officer or some other member of the Council or the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
 
 [20/2009 wef 09/10/2009]
 
@@ -834,95 +866,137 @@ Qualified persons
 
 (b) is of good character;
 
-(c) has satisfactorily served the prescribed period of pupillage for qualified persons;
+(c) has satisfactorily served the practice training period applicable to him, and has, during that period, received such supervised trainingin relation to the practice of Singapore law as may be prescribed by the Board;
 
-(d) has attended such courses of instruction and kept such dining terms as may be prescribed by the Board; and
+[20/2009 wef 09/10/2009]
 
-(e) has passed such examinations as may be prescribed by the Board.
+(d) has attended and satisfactorily completed such courses of instructionas may be prescribed by the Board;
+
+[20/2009 wef 09/10/2009]
+
+(e) has passed such examinations as may be prescribed by the Board; and
 
 [20/2009 wef 09/10/2009]
 
 [35/2001]
 
-(2) Notwithstanding subsection (1)(d) and (e), the Board may, in its discretion, exempt a qualified person from attending such courses of instruction, keeping such dining terms and passing such examinations as may be prescribed by the Board if the Board is of the opinion that that qualified person is, by reason of his experience or for other cause, a fit and proper person to be so exempted.
+(f) has kept such dining terms as may be prescribed by the Board.
 
-[35/2001]
+[20/2009 wef 09/10/2009]
 
-### Periods of pupillage
+(2) The Board may, in its discretion, exempt a qualified person from the whole or any part of the requirement under subsection (1)(f), if the Board is of the opinion that the qualified person is, by reason of his standing and experience or for any other cause, a fit and proper person to be so exempted.
 
-13\.—(1) For the purposes of this Part, a qualified person shall, during his period of pupillage, be known as a pupil and a person with whom a pupil serves his period of pupillage or any part thereof shall be known as a master.
+[20/2009 wef 09/10/2009]
 
-(2) Subject to this section and section 14, the prescribed period of pupillage shall be 6 months.
+(3) An exemption granted to a person under subsection (2) —
 
-[10/91]
+(a) may be subject to such conditions as the Board may think fit to impose by notice in writing to the person;
 
-(3) A pupil shall, before his application for admission is heard, attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12(2).
+(b) may be notified in writing to the person; and
 
-[42/2005]
+(c) need not be published in theGazette.
 
-(4) No person shall, without the special leave in writing of the Board, hold any office or engage in any employment of whatsoever kind and whether full-time or part-time during his period of pupillage.
+[20/2009 wef 09/10/2009]
+
+### Service of practice training period
+
+13\.—(1) A qualified person shall serve his practice training period, and receive supervised training in relation to the practice of Singapore law during that period —
+
+(a) under a practice training contract;
+
+(b) through working —
+
+(i) as a Legal Service Officer; or
+
+(ii) under the supervision of a relevant legal officer (referred to in this section and section 14 as a qualifying relevant legal officer) who is an advocate and solicitor of not less than 5 years’ standing and who, for a total of not less than 5 out of the 7 years immediately preceding the date of commencement of the supervised training, has been a relevant legal officer or has been in active practice in a Singapore law practice or both;
+
+(c) under 2 or more practice training contracts;
+
+(d) through working under the supervision of 2 or more qualifying relevant legal officers;
+
+(e) partly through working as a Legal Service Officer and partly through working under the supervision of one or more qualifying relevant legal officers;
+
+(f) partly under one or more practice training contracts and partly through working as a Legal Service Officer or under the supervision of one or more qualifying relevant legal officers; or
+
+(g) partly under one or more practice training contracts, partly through working as a Legal Service Officer and partly through working under the supervision of one or more qualifying relevant legal officers.
+
+(2) Subject to subsection (3), section 15A and any rules made under section 15A(2), the practice training period applicable to a qualified person shall be 6 months.
+
+(3) Six months of supervised training in relation to the practice of Singapore law received by a qualified person through working as a Legal Service Officer, or through working under the supervision of a qualifying relevant legal officer, shall count as one month of the qualified person’s practice training period.
+
+(4) Subject to subsection (5), no qualified person shall, without the permission in writing of the Board, hold any office or engage in any employment, whether full-time or part-time, during his practice training period.
 
 (5) Subsection (4) shall not —
 
-(a) apply to service as a legal officer;
+(a) apply to service as a Legal Service Officer or any other relevant legal officer;
 
 (b) apply to service as an Assistant Public Prosecutor in the Attorney-General’s Chambers; or
 
-(c) preclude a pupil receiving remuneration from his master.
+(c) preclude a qualified person from receiving remuneration from a Singapore law practice while receiving supervised training in relation to the practice of Singapore law under a practice training contract with that Singapore law practice.
 
-[20/2007]
+(6) Where a qualified person attends a course of instruction referred to in section 12(1)(d) while concurrently receiving any supervised training in relation to the practice of Singapore law under a practice training contract, or through working as a Legal Service Officer or under the supervision of a qualifying relevant legal officer, the period spent in attendance at the course of instruction shall not count as part of the qualified person’s practice training period.
 
-(6) Where a pupil attends the course of instruction referred to in subsection (3) concurrently with his period of pupillage, the period spent in attendance at such course of instruction shall not be counted for the purpose of subsection (2).
+[20/2009 wef 09/10/2009]
 
-### Service of pupillage
+### Transitional arrangements relating to period of pupillage
 
-14\.—(1) A pupil shall, subject to the approval of the Board, serve his prescribed period of pupillage —
+14\.—(1) Where, before the appointed day, a qualified person has served his period of pupillage or any part thereof with an advocate and solicitor referred to in section 14(1)(a) or (c) in force immediately before that day (being an advocate and solicitor in active practice in a Singapore law practice), then on and after that day, the qualified person shall be deemed to have received, during that period of pupillage or part thereof, supervised training in relation to the practice of Singapore law under a practice training contract.
 
-(a) with an advocate and solicitor in active practice in a Singapore law practice of not less than 5 years’ standing who, for a total of not less than 5 out of the 7 years immediately preceding the relevant date, has been in such practice or has been a legal officer or both;
+(2) Where, before the appointed day, a qualified person has served his period of pupillage or any part thereof with a legal officer referred to in section 14(1)(b) in force immediately before that day, then on and after that day, the qualified person shall be deemed to have received, during that period of pupillage or part thereof, supervised training in relation to the practice of Singapore law —
 
-(b) with a legal officer who is an advocate and solicitor of not less than 5 years’ standing and who, for a total of not less than 5 out of the 7 years immediately preceding the relevant date, has been a legal officer or has been in active practice in a Singapore law practice or both;
+(a) in any case where the qualified person was a Legal Service Officer during that period of pupillage or part thereof —through working as a Legal Service Officer; or
 
-(c) with an advocate and solicitor who has at any time held office as the Attorney-General or as a Judge of the Supreme Court; or
+(b) in any other case — through working under the supervision of a qualifying relevant legal officer.
 
-(d) partly with an advocate and solicitor under paragraph (a) or (c) and partly with a legal officer under paragraph (b).
+(3) Where, before the appointed day, a qualified person has served his period of pupillage or any part thereof in accordance with section 14(1) in force immediately before that day, then on and after that day —
 
-[10/91; 40/96; 19/2008]
+(a) his practice training period shall be deemed to have commenced on the date his period of pupillage commenced; and
 
-(2) In any case where subsection (1)(b) or (d) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
+(b) the period of pupillage or part thereof which he has served shall count as part of his practice training period.
 
-[10/91; 41/93; 40/96]
+(4) In this section, “appointed day” means the date of commencement of secion 7 of the Legal Profession (Amendment) Act 2009.
 
-(3) For the purposes of this section and section 13(5), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory body or law office in the public service as the Minister may prescribe.
-
-[41/93; 35/2001; 20/2007]
-
-(4) The Board may approve a request that a qualified person serve different parts of his period of pupillage with different masters.
-
-(5) The Board may, in its discretion, exempt a qualified person from pupillage, wholly or for such period as the Board thinks fit, upon application made supported by satisfactory evidence that the applicant —
-
-(a) has been a pupil or read in the chambers of a practising barrister of the United Kingdom or of a member of the Faculty of Advocates in Scotland of more than 7 years’ standing;
-
-(b) is a solicitor in England or Northern Ireland or a writer to the Signet, law agent or solicitor in Scotland;
-
-(c) has been engaged in active practice as a legal practitioner by whatever name called in any part of the Commonwealth; or
-
-(d) has attended such course of instruction and successfully passed such examination as may be approved by the Board for the purposes of this section.
-
-[15/89; 35/2001]
+[20/2009 wef 09/10/2009]
 
 ### Admission of Malayan practitioners
 
-15\.—(1) A Malayan practitioner who is a qualified person but who does not qualify under subsection (2) may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any course of instruction if he passes such examinations as may be prescribed by the Board.
+15\.—(1) A Malayan practitioner who is a qualified person but who does not qualify under subsection (2) may be admitted as an advocate and solicitor without being required to serve any practice training period or to attend any course of instruction if he passes such examinations as may be prescribed by the Board.
 
 [20/2009 wef 09/10/2009]
 
 [42/2005]
 
-(2) A Malayan practitioner who is a qualified person and who has been in active practice in any part of West Malaysia for a continuous period of not less than 3 years in the 4 years immediately preceding his application for admission may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any course of instruction or to pass any examination.
+(2) A Malayan practitioner who is a qualified person and who has been in active practice in any part of West Malaysia for a continuous period of not less than 3 years in the 4 years immediately preceding his application for admission may be admitted as an advocate and solicitor without being required to serve any practice training period or to attend any course of instruction or to pass any examination.
 
 [20/2009 wef 09/10/2009]
 
 [42/2005]
+
+### Powers of Minister in relation to admission requirements
+
+15A\.—(1) Upon an application made to the Minister by any person who is not otherwise entitled to be a qualified person, the Minister may, in his discretion, if he is of the opinion that the person possesses such qualification or expertise as would contribute to, promote or enhance the quality of legal services in Singapore or the economic or technological development of Singapore —
+
+(a) approve the person as a qualified person for the purposes of this Act; and
+
+(b) issue to the person a notice in writing to that effect.
+
+(2) The Minister may, after consultation with the Board, make rules for —
+
+(a) the exemption of any qualified person who satisfies, or any class of qualified persons each of whom satisfies, such requirements as may be prescribed in those rules from all or any, and from the whole or any part of any, of the requirements under sections 12(1)(c), (d) and (e) and 15(1); and
+
+(b) the abridgment of the practice training period applicable to any qualified person who satisfies, or any class of qualified persons each of whom satisfies, such requirements as may be prescribed in those rules.
+
+(3) Without prejudice to subsection (2), the Minister may, in his discretion, exempt a qualified person from all or any, and from the whole or any part of any, of the requirements under sections 12(1)(c), (d) and (e) and 15(1), or abridge the practice training period applicable to a qualified person, if the Minister is of the opinion that the qualified person is, by reason of his standing and experience or for any other cause, a fit and proper person to be so exempted.
+
+(4) An exemption or abridgment granted to a person under subsection (3) —
+
+(a) may be subject to such conditions as the Minister may think fit to impose by notice in writing to the person;
+
+(b) may be notified in writing to the person; and
+
+(c) need not be published in theGazette.
+
+[20/2009 wef 09/10/2009]
 
 ### Hong Kong practitioners
 
@@ -968,17 +1042,21 @@ Qualified persons
 
 (c) 2 recent certificates as to his good character;
 
-(d) a certificate of diligence from each master with whom the applicant served his pupillage in cases where the applicant is required to serve a period of pupillage or, in the absence thereof, such other evidence as the court may require that he has served the pupillage with diligence; and
+(d) in the case of an applicant who is required to serve a practice training period, such certificate or certificates as the Board may prescribe under rules made under section 5(4), or such other evidence as the court may require, that the applicant has served his practice training period with diligence; and
 
-(e) a certificate signed by the Secretary of the Board that the applicant has —
+[20/2009 wef 09/10/2009]
 
-(i) satisfactorily served the period of pupillage (or has been exempted therefrom under section 14(5));
+(e) a certificate signed by the Secretary of the Board stating that the applicant —
 
-(ii) attended the courses of instruction and kept the dining terms (or has been exempted therefrom under section 12(2)); and
+(i) has satisfactorily served the practice training period applicable to him, or has been exempted therefrom under section 15(1), under any rules made under section 15A(2) or by the Minister under section 15A(3);
 
-(iii) passed any examination that may be required in his case under the provisions of this Act.
+(ii) has attended the courses of instruction referred to in section 12(1)(d), or has been exempted therefrom under section 15(1), under any rules made under section 15A(2) or by the Minister under section 15A(3);
 
-[42/2005]
+(iii) has passed the examinations referred to in section 12(1)(e) or 15(1), or has been exempted therefrom under any rules made under section 15A(2) or by the Minister under section 15A(3); and
+
+(iv) has kept the dining terms referred to in section 12(1)(f), or has been exempted therefrom by the Board under section 12(2).
+
+[20/2009 wef 09/10/2009]
 
 (5) The affidavit and certificates referred to in this section shall be in the form prescribed by the Board.
 
@@ -1436,7 +1514,7 @@ and served on the Society; and
 
 (i) practised as a solicitor in a Singapore law practice; or
 
-(ii) been employed as a legal officer;
+(ii) been employed as a Legal Service Officer;
 
 [20/2009 wef 09/10/2009]
 
@@ -1646,7 +1724,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 ### Appointment of Senior Counsel
 
-30\.—(1) A Selection Committee comprising the Chief Justice, the Attorney-General and the Judges of Appeal may appoint an advocate and solicitor or a legal officer as Senior Counsel if the Selection Committee is of the opinion that, by virtue of the person’s ability, standing at the Bar or special knowledge or experience in law, he is deserving of such distinction.
+30\.—(1) A Selection Committee comprising the Chief Justice, the Attorney-General and the Judges of Appeal may appoint an advocate and solicitor or a Legal Service Officer as Senior Counsel if the Selection Committee is of the opinion that, by virtue of the person’s ability, standing at the Bar or special knowledge or experience in law, he is deserving of such distinction.
 
 [20/2009 wef 09/10/2009]
 
@@ -1668,11 +1746,11 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (a) [Deleted by Act 19 of 2008]
 
-(b) being a legal officer, is dismissed from the Singapore Legal Service;
+(b) being a Legal Service Officer, is dismissed from the Singapore Legal Service;
 
 [20/2009 wef 09/10/2009]
 
-(c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, is dismissed from the Faculty ;
+(c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, is dismissed from the Faculty or School, as the case may be;
 
 [20/2009 wef 09/10/2009]
 
@@ -1702,7 +1780,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [19/2008]
 
-(6) No person shall be appointed as a Senior Counsel unless he has for an aggregate period of not less than 10 years been an advocate and solicitor or a legal officer or both.
+(6) No person shall be appointed as a Senior Counsel unless he has for an aggregate period of not less than 10 years been an advocate and solicitor or a Legal Service Officer or both.
 
 [20/2009 wef 09/10/2009]
 
@@ -1744,7 +1822,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [19/2008]
 
-(3) A Judge may, if he thinks fit, on the application of a solicitor who is a master under Part II, allow a pupil of the solicitor (being a pupil who has completed not less than 4 months of pupillage) to appear, on behalf of the solicitor or the Singapore law practice in which the solicitor practises, before —
+(3) A Judge may, if he thinks fit, on the application of any advocate and solicitor in active practice in a Singapore law practice, allow a qualified person who is receiving supervised training in relation to the practice of Singapore law under a practice training contract with that Singapore law practice, and who has served not less than 4 months of his practice training period, to appear on behalf of that Singapore law practice, or any advocate and solicitor in active practice therein, before —
 
 (a) a Judge or the Registrar in chambers;
 
@@ -1752,7 +1830,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (c) a District Judge or a Magistrate to mention a case or to apply for bail.
 
-[19/2008]
+[20/2009 wef 09/10/2009]
 
 ### Unauthorised person acting as advocate or solicitor
 
@@ -2950,7 +3028,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (b) has, since being admitted as a solicitor, been employed for not less than 3 continuous years or 3 years out of a continuous period of 5 years in a Singapore law practice; or
 
-(c) has been employed as a legal officer for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
+(c) has been employed as a relevant legal officer for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
 
 [20/2009 wef 09/10/2009]
 
@@ -2974,17 +3052,13 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [40/96; 20/2007]
 
-(6) For the purposes of this section and section 75D, “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory body or law office in the public service as the Minister may prescribe.
-
-[40/96; 20/2007]
-
 ### Qualification to use title of consultant
 
 75D\.—(1) No solicitor shall take or use the title of consultant unless he has, for a period of not less than 10 years in the aggregate, been —
 
 (a) a solicitor in practice;
 
-(b) a legal officer;
+(b) a relevant legal officer;
 
 [20/2009 wef 09/10/2009]
 
@@ -3692,9 +3766,9 @@ and may make such order as to the payment of costs by the Council or by the appl
 
 DISCIPLINARY PROCEEDINGS
 
-### Jurisdiction of Supreme Court over solicitors and legal officers
+### Jurisdiction of Supreme Court over solicitors and Legal Service Officers
 
-82\.—(1) Any person duly admitted as an advocate and solicitor and any legal officer shall be an officer of the Supreme Court.
+82\.—(1) Any person duly admitted as an advocate and solicitor and any Legal Service Officer shall be an officer of the Supreme Court.
 
 [20/2009 wef 09/10/2009]
 
@@ -3702,21 +3776,21 @@ DISCIPLINARY PROCEEDINGS
 
 (2) The provisions of any written law which imposes on officers of the Supreme Court any restrictions as to practice as advocates or solicitors shall not apply to any advocate and solicitor by virtue only of subsection (1).
 
-### Disciplinary proceedings against legal officers and non-practising solicitors
+### Disciplinary proceedings against Legal Service Officers and non-practising solicitors
 
-82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 91A, 94A, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
+82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 91A, 94A, 98 to 102, 104, 105 and 106, shall not apply to any Legal Service Officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
 
 [20/2009 wef 09/10/2009]
 
 [41/93; 20/2007; 19/2008]
 
-(2) All legal officers and non-practising solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown to be punished in accordance with this section.
+(2) All Legal Service Officers and non-practising solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown to be punished in accordance with this section.
 
 [20/2009 wef 09/10/2009]
 
-(3) Such due cause may be shown by proof that a legal officer or a non-practising solicitor, as the case may be —
+(3) Such due cause may be shown by proof that a Legal Service Officer or a non-practising solicitor, as the case may be —
 
-(a) has been guilty in Singapore or elsewhere of such misconduct unbefitting a legal officer or an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession; or
+(a) has been guilty in Singapore or elsewhere of such misconduct unbefitting a Legal Service Officer or an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession; or
 
 [20/2009 wef 09/10/2009]
 
@@ -3726,13 +3800,13 @@ DISCIPLINARY PROCEEDINGS
 
 [20/2009 wef 09/10/2009]
 
-(4) No application for a legal officer or non-practising solicitor to be punished under this section shall be made unless leave has been granted by the Chief Justice for an investigation to be made into the complaint of misconduct against the legal officer or non-practising solicitor concerned.
+(4) No application for a Legal Service Officer or non-practising solicitor to be punished under this section shall be made unless leave has been granted by the Chief Justice for an investigation to be made into the complaint of misconduct against the Legal Service Officer or non-practising solicitor concerned.
 
 [20/2009 wef 09/10/2009]
 
 [19/2008]
 
-(5) An application for such leave shall be made by ex parte originating summons and shall be accompanied by an affidavit setting out the allegations of misconduct against the legal officer or non-practising solicitor.
+(5) An application for such leave shall be made by ex parte originating summons and shall be accompanied by an affidavit setting out the allegations of misconduct against the Legal Service Officer or non-practising solicitor.
 
 [20/2009 wef 09/10/2009]
 
@@ -3740,11 +3814,11 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008]
 
-(6A) Notwithstanding subsection (6), the Chief Justice may refuse to grant leave for an investigation to be made into a complaint of misconduct against a legal officer or non-practising solicitor if the application for such leave is made after the expiration of the period of —
+(6A) Notwithstanding subsection (6), the Chief Justice may refuse to grant leave for an investigation to be made into a complaint of misconduct against a Legal Service Officer or non-practising solicitor if the application for such leave is made after the expiration of the period of —
 
 (a) 6 years from the date of the alleged misconduct; or
 
-(b) where the complaint relates to any fraud alleged to have been committed by the legal officer or non-practising solicitor, 6 years from the earliest date on which the applicant discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
+(b) where the complaint relates to any fraud alleged to have been committed by the Legal Service Officer or non-practising solicitor, 6 years from the earliest date on which the applicant discovered the fraud or could with reasonable diligence have discovered it, if that period expires later than the period referred to in paragraph (a).
 
 [20/2009 wef 09/10/2009]
 
@@ -3756,17 +3830,17 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008]
 
-(8) A copy of the report shall be supplied to the legal officer or non-practising solicitor concerned, and to the Attorney-General if the report relates to a legal officer.
+(8) A copy of the report shall be supplied to the Legal Service Officer or non-practising solicitor concerned, and to the Attorney-General if the report relates to a Legal Service Officer.
 
 [20/2009 wef 09/10/2009]
 
-(9) Where the Disciplinary Tribunal finds that no cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice shall dismiss the complaint.
+(9) Where the Disciplinary Tribunal finds that no cause of sufficient gravity for disciplinary action exists under this section against the Legal Service Officer or non-practising solicitor concerned, the Chief Justice shall dismiss the complaint.
 
 [20/2009 wef 09/10/2009]
 
 [19/2008]
 
-(10) Where the Disciplinary Tribunal finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by summons in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished.
+(10) Where the Disciplinary Tribunal finds that cause of sufficient gravity for disciplinary action exists under this section against the Legal Service Officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a Legal Service Officer to apply by summons in the same proceedings for an order that the Legal Service Officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished.
 
 [20/2009 wef 09/10/2009]
 
@@ -3776,7 +3850,7 @@ DISCIPLINARY PROCEEDINGS
 
 (12) On completion of the hearing of the application under subsection (10), the court may —
 
-(a) censure the legal officer or non-practising solicitor;
+(a) censure the Legal Service Officer or non-practising solicitor;
 
 [20/2009 wef 09/10/2009]
 
@@ -3800,7 +3874,7 @@ DISCIPLINARY PROCEEDINGS
 
 (14) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule dealing with any point of procedure or practice, the Rules of Court (Cap. 322, R 5) may be followed as nearly as the circumstances permit.
 
-(15) For the avoidance of doubt, nothing in this section shall prevent any legal officer from being subject to disciplinary action by the Legal Service Commission for any act or omission which constitutes a disciplinary offence under this section.
+(15) For the avoidance of doubt, nothing in this section shall prevent any Legal Service Officer from being subject to disciplinary action by the Legal Service Commission for any act or omission which constitutes a disciplinary offence under this section.
 
 [20/2009 wef 09/10/2009]
 
@@ -3850,9 +3924,11 @@ DISCIPLINARY PROCEEDINGS
 
 [41/93; 15/95]
 
-(3) Pupils shall, with the necessary modifications, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part; but in lieu of an order striking him off the roll or suspending him, an order may be made prohibiting the pupil from applying to the court for admission until after a date specified in the order.
+(3) A qualified person who is serving his practice training period shall, with the necessary modifications, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part, except that in lieu of any orderthat he be struck off the roll or suspended, an order may be madeprohibiting him from applying to the court for admission as an advocateand solicitor until after a date specified in the order.
 
-[42/2005]
+[20/2009 wef 09/10/2009]
+
+[8/2011 wef 03/05/2011]
 
 (4) The jurisdiction given by subsection (3) shall be exercised by a single Judge.
 
@@ -3986,7 +4062,7 @@ as the case may be;
 
 (a) a chairman, being the Chairman or Deputy Chairman himself or a member of the Inquiry Panel who is an advocate and solicitor of not less than 12 years’ standing; and
 
-(b) a legal officer who has not less than 10 years’ experience,
+(b) a Legal Service Officer who has not less than 10 years’ experience,
 
 [20/2009 wef 09/10/2009]
 
@@ -4026,7 +4102,7 @@ to review the complaint or information, and such review by the Review Committee 
 
 (c) a member of the Inquiry Panel who is a lay person; and
 
-(d) a legal officer who has not less than 10 years’ experience,
+(d) a Legal Service Officer who has not less than 10 years’ experience,
 
 [20/2009 wef 09/10/2009]
 
@@ -4534,7 +4610,7 @@ within 14 days from the date of the decision.
 
 [41/93; 20/2007]
 
-(3) This section shall not apply to a legal officer.
+(3) This section shall not apply to a Legal Service Officer.
 
 [20/2009 wef 09/10/2009]
 
@@ -4724,7 +4800,7 @@ shall be made by originating summons.
 
 ### Provisions as to penalties ordered by court
 
-98A\.—(1) Where the court has ordered a legal officer or non- practising solicitor to pay a penalty under section 82A(12), the legal officer or non-practising solicitor shall pay the penalty to the Registrar of the Supreme Court.
+98A\.—(1) Where the court has ordered a Legal Service Officer or non- practising solicitor to pay a penalty under section 82A(12), the Legal Service Officer or non-practising solicitor shall pay the penalty to the Registrar of the Supreme Court.
 
 [20/2009 wef 09/10/2009]
 
@@ -6903,6 +6979,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of commencement|1 December 2008 (sections 2(c) and (f), 5(a), (b), (e) and (f), 6, 8(c) and (d), 9, 11, 26(a), (b), (c), (e) and (f), 27, 29(b), 30 (b) and (c), 31(a), 32 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
 |45.|**2009 Revised Edition—Legal Profession Act**|
 ||Date of operation|1 June 2009|
+|46.|**Act 20 of 2009—Legal Profession (Amendment) Act 2009**|
+||Date of First Reading|20 July 2009|
+|||(Bill No. 13/2009 published on 20 July 2009)|
+||Date of Second and Third Readings|18 August 2009|
+||Date of commencement|9 October 2009|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
