@@ -336,10 +336,6 @@ PRELIMINARY
 
 (ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
 
-“Council for TRIPS” means the Council for Trade-Related Aspects of Intellectual Property Rights established under the TRIPS Agreement;
-
-[18/2008 wef 01/12/2008]
-
 “corresponding international application”, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed under the Patent Co-operation Treaty that —
 
 (a) forms the basis for a priority claim under section 17 in the application in suit; or
@@ -351,6 +347,10 @@ PRELIMINARY
 (ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
 
 “corresponding patent”, in relation to a corresponding application, means a patent granted in respect of the corresponding application by the prescribed patent office in which the corresponding application was filed or treated as filed;
+
+“Council for TRIPS” means the Council for Trade-Related Aspects of Intellectual Property Rights established under the TRIPS Agreement;
+
+[18/2008 wef 01/12/2008 wef 01/12/2008]
 
 “country” includes —
 
@@ -370,7 +370,7 @@ PRELIMINARY
 
 “Doha Declaration Implementation Decision” means the Decision adopted by the General Council of the World Trade Organisation on 30th August 2003 on the implementation of paragraph 6 of the Declaration on the TRIPS Agreement and Public Health adopted in Doha on 14th November 2001;
 
-[18/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008 wef 01/12/2008]
 
 “employee” means a person who works or (where the employment has ceased) worked under a contract of employment or in employment under or for the purposes of a Government department;
 
@@ -388,7 +388,7 @@ PRELIMINARY
 
 “formal requirements” means those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act;
 
-[2/2007 wef 01/04/2007]
+[2/2007 wef 01/04/2007 wef 01/04/2007]
 
 “international application for a patent” means an application made under the Patent Co-operation Treaty;
 
@@ -410,7 +410,9 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 “journal” has the same meaning as in section 115(4);
 
-“legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
+“Legal Service Officer” means an officer in the Singapore Legal Service;
+
+[20/2009 wef 09/10/2009]
 
 “marketing approval”, in relation to a pharmaceutical product, means a product licence under section 5 of the Medicines Act (Cap. 176);
 
@@ -424,7 +426,7 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 which was missing from the application at the date of filing of the application;
 
-[2/2007 wef 01/04/2007]
+[2/2007 wef 01/04/2007 wef 01/04/2007]
 
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
@@ -474,19 +476,21 @@ which was missing from the application at the date of filing of the application;
 
 (b) paragraph 1(a) of the Annex to the TRIPS Agreement;
 
-[18/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008 wef 01/12/2008]
 
 “right”, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
 “scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person;
 
+[18/2008 wef 01/12/2008]
+
 “TRIPS Agreement” means the Agreement on Trade-Related Aspects of Intellectual Property Rights, set out in Annex 1C to the WTO Agreement, as revised or amended from time to time;
 
-[18/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008 wef 01/12/2008]
 
 “WTO Agreement” means the World Trade Organisation Agreement signed in Marrakesh in 1994 as revised or amended from time to time.
 
-[18/2008 wef 01/12/2008]
+[18/2008 wef 01/12/2008 wef 01/12/2008]
 
 [40/95; 3/2001; 30/2001; 19/2004]
 
@@ -2478,6 +2482,8 @@ INFRINGEMENT OF PATENTS
 
 (g) subject to subsections (3) and (5A), it consists of the import, use or disposal of, or the offer to dispose of, any patented product or any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly;
 
+[18/2008 wef 01/12/2008]
+
 (h) it consists of the doing of any thing set out in subsection (1) in relation to the subject-matter of the patent to support any application for marketing approval for a pharmaceutical product, provided that any thing produced to support the application is not —
 
 (i) made, used or sold in Singapore; or
@@ -2495,6 +2501,8 @@ other than for purposes related to meeting the requirements for marketing approv
 (iii) that product was produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him (and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same product and “licensed” shall be construed accordingly).
 
 [19/2004]
+
+[18/2008 wef 01/12/2008]
 
 (3) Subsection (2)(g) shall not apply to the import of any patented pharmaceutical product by any person (referred to in this subsection and subsection (4) as the importer) if —
 
@@ -3124,7 +3132,9 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 [30/2001]
 
-(2) The Government may be represented by a legal officer in any proceedings before the Registrar under this Act or any treaty to which Singapore is a party.
+(2) The Government may be represented by a Legal Service Officer in any proceedings before the Registrar under this Act or any treaty to which Singapore is a party.
+
+[2/2007 wef 01/04/2007]
 
 [30/2001]
 
@@ -3386,7 +3396,9 @@ the individual does not contravene subsection (1) in respect of anything done, o
 
 [2/2007 wef 01/04/2007]
 
-(11) A legal officer does not commit an offence against subsection (1) in respect of anything done, or undertaken to be done, by him on behalf of the Government.
+(11) A Legal Service Officer does not commit an offence against subsection (1) in respect of anything done, or undertaken to be done, by him on behalf of the Government.
+
+[2/2007 wef 01/04/2007]
 
 [30/2001]
 
@@ -3410,7 +3422,7 @@ the individual does not contravene subsection (1) in respect of anything done, o
 
 (a) in relation to a registered patent agent, a practising certificate issued to him under rules made under section 104; or
 
-(b) in relation to an advocate and solicitor, a practising certificate issued to him under section 25 of the Legal Profession Act; and
+(b) in relation to an advocate and solicitor, a practising certificate issued to him under section 25 of the Legal Profession Act (Cap. 61); and
 
 “related company group” means a group of 2 or more corporations within the meaning of the Companies Act (Cap. 50) which are related to each other in accordance with section 6 of that Act.
 
@@ -3762,7 +3774,7 @@ Patents Act
 
 (CHAPTER 221)
 
-This Legislative History is provided for the convenience of users of the Patents Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Patents Act. It is not part of the Patents Act.
 
 ||||
 |:-|:-|:-|
@@ -3822,6 +3834,11 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 15/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|25 August 2008|
 ||Date of commencement|1 December 2008|
+|14.|**Act 20 of 2009—Legal Profession (Amendment) Act 2009**|
+||Date of First Reading|20 July 2009|
+|||(Bill No. 13/2009 published on 20 July 2009)|
+||Date of Second and Third Readings|18 August 2009|
+||Date of commencement|9 October 2009|
 ## COMPARATIVE TABLE
 
 Patents Act
