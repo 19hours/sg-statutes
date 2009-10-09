@@ -18,7 +18,7 @@
 
 [**Part II OFFENCES AGAINST PUBLIC ORDER AND NUISANCE**](#Part-II)
 
-- [5 Assemblies and processions](#Assemblies-and-processions)
+- [5 (Repealed)](#Repealed)
 
 - [6 Burning material or discharging firearm in public road](#Burning-material-or-discharging-firearm-in-public-road)
 
@@ -176,35 +176,7 @@ PRELIMINARY
 
 OFFENCES AGAINST PUBLIC ORDER AND NUISANCE
 
-### Assemblies and processions
-
-5\.—(1) The Minister may make rules —
-
-(a) regulating assemblies and processions in public roads, public places and places of public resort;
-
-(b) providing for the grant of permits for holding assemblies and processions in public roads, public places and places of public resort, and the fees to be charged therefor;
-
-(c) for keeping order and preventing obstruction or inconvenience in public roads, bridges, landing places, and all public places and places of public resort; and
-
-(d) prescribing the punishment by a fine not exceeding $5,000 or imprisonment for a term not exceeding 3 months or both for any act or omission in contravention of the provisions of any such rules.
-
-[10/89]
-
-(2) The Minister may by order prohibit or restrict, subject to such conditions as may be specified in the order, the holding of any assembly or procession in any public road, public place or place of public resort specified in the order.
-
-[10/89]
-
-(3) A Deputy Commissioner of Police may, with the concurrence of the Minister, prohibit or restrict the holding of any assembly or procession in any specified public road, public place or place of public resort in any particular case where the Deputy Commissioner is satisfied that the holding of such assembly or procession may result in public disorder, damage to property or disruption to the life of the community.
-
-[10/89]
-
-(4) Any person who —
-
-(a) organises or assists in organising any assembly or procession in any public road, public place or place of public resort in contravention of any order under subsection (2) or any prohibition or restriction under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or
-
-(b) participates in any assembly or procession in any public road, public place or place of public resort where he knows or ought reasonably to have known that the assembly or procession is held in contravention of an order under subsection (2) or any prohibition or restriction under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[10/89]
+5\. [Repealed by Act 15/2009 wef 09/10/2009]
 
 ### Burning material or discharging firearm in public road
 
@@ -526,9 +498,9 @@ OTHER OFFENCES
 
 ### Drunkenness in public places
 
-18\. 1Any person who is found drunk and incapable of taking care of himself, in any public road or in any public place or place of public amusement or resort, or in the immediate vicinity of any court or of any public office or police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
+18\. \*Any person who is found drunk and incapable of taking care of himself, in any public road or in any public place* or place of public amusement or resort, or in the immediate vicinity of any court or of any public office or police station or place of worship, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
 
-1See also section 128 of the Employment Act (Cap. 91).
+\*See also section 128 of the Employment Act (Cap. 91).
 
 [10/89]
 
@@ -1046,3 +1018,10 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of Second and Third Readings|27 August 2007|
 ||Date of commencement|27 April 2009|
 |||(section 42 — consequential amendment to Miscellaneous Offences (Public Order and Nuisance) Act)|
+|45.|**Act 15 of 2009—Public Order Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 8/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|9 October 2009|
+|||(section 49(1) — consequential amendments to section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act)|
