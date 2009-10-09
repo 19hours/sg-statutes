@@ -114,7 +114,9 @@ PRELIMINARY
 
 “Law Society” means the Law Society of Singapore established under section 36 of the Legal Profession Act (Cap. 161);
 
-“legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
+“Legal Service Officer” means an officer in the Singapore Legal Service;
+
+[20/2009 wef 09/10/2009]
 
 “member” includes a Fellow, honorary member, ordinary member and associate member of the Academy;
 
@@ -222,7 +224,7 @@ CONSTITUTION AND POWERS OF SENATE
 
 (e) the President of the Law Society;
 
-(f) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the Faculty of Law of the Singapore Management University, in each case, being a qualified person;
+(f) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the School of Law of the Singapore Management University, in each case, being a qualified person;
 
 [20/2007 wef 01/06/2007]
 
@@ -308,7 +310,7 @@ CONSTITUTION AND POWERS OF SENATE
 
 [34/95]
 
-(5) Every committee or board appointed under subsection (1) shall have amongst its members at least one person who is a practising advocate and solicitor and who has, for an aggregate period of 7 years, been a practising advocate and solicitor or a legal officer or both, nominated by the Council of the Law Society.
+(5) Every committee or board appointed under subsection (1) shall have amongst its members at least one person who is a practising advocate and solicitor and who has, for an aggregate period of 7 years, been a practising advocate and solicitor or a Legal Service Officer or both, nominated by the Council of the Law Society.
 
 [20/2009 wef 09/10/2009]
 
@@ -362,7 +364,7 @@ MEMBERSHIP OF ACADEMY
 
 (a) is admitted as an advocate and solicitor, whether or not he has in force a practising certificate issued under section 25 of the Legal Profession Act; or
 
-(b) is a legal officer,
+(b) is a Legal Service Officer,
 
 [20/2009 wef 09/10/2009]
 
@@ -380,11 +382,11 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (a) he has been struck off the roll;
 
-(b) being a legal officer, he has been dismissed from the Singapore Legal Service for misconduct in his professional capacity;
+(b) being a Legal Service Officer, he has been dismissed from the Singapore Legal Service for misconduct in his professional capacity;
 
 [20/2009 wef 09/10/2009]
 
-(c) being a member of the Faculty of Law of the National University of Singapore or the Faculty of Law of the Singapore Management University, he has been dismissed from the Faculty for misconduct in the discharge of his duties;
+(c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, he has been dismissed from the Faculty or School, as the case may be, for misconduct in the discharge of his duties;
 
 [20/2007 wef 01/06/2007]
 
@@ -585,3 +587,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 10/2007 published on 10 March 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Dates of commencement|1 June 2007|
+|9.|**Act 20 of 2009—Legal Profession (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 July 2009|
+|||(Bill No. 13/2009 published on 20 July 2009)|
+||Date of Second and Third Readings|18 August 2009|
+||Date of commencement|9 October 2009|
