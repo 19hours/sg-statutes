@@ -624,7 +624,7 @@ as are from time to time approved by the Minister.
 
 (b) be exempt from the provisions of the Societies Act (Cap. 311).
 
-[Police Force 1985 Ed., s. 21 (1) to (4)]
+[Police Force 1985 Ed., s. 21(1) to (4)]
 
 ### Delegation of powers
 
@@ -638,7 +638,9 @@ as are from time to time approved by the Minister.
 
 18\.—(1) Whenever by any written law power is given to the Commissioner or the Deputy Commissioner to grant licences for any purpose, the Minister may, by notification in theGazette, appoint by name or office —
 
-(a) a police officer not below the rank of superintendent or assistant superintendent in the case of licences under the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184); or
+(a) a police officer not below the rank of superintendent or assistant superintendent in the case of permits under the Public Order Act 2009; or
+
+[15/2009 wef 09/10/2009]
 
 (b) any person (whether or not a police officer) in any other case,
 
@@ -652,7 +654,7 @@ to grant such licences in the place of or in addition to the Commissioner or the
 
 “grant”, when used with reference to a licence, includes issue or give.
 
-[Police Force 1985 Ed., ss. 72, 73 (1) and (2) and 74]
+[Police Force 1985 Ed., ss. 72, 73(1) and (2) and 74]
 
 ## PART III
 
@@ -1812,19 +1814,11 @@ without the prior written approval of the Minister.
 
 (a) become a substantial shareholder of an employer of an Auxiliary Police Force; or
 
-1(b) if he is not a citizen of Singapore, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person (whether or not a citizen of Singapore) with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 50% of the nominal amount of all voting shares in an employer of an Auxiliary Police Force
-
-1Paragraph (b) of section 88(1) will be deleted and substituted by the following paragraph with effect from 30th January 2006 when item (10) of the Schedule to the Companies (Amendment) Act 2005 (Act 21 of 2005) is brought into operation:
-
-“
-
 (b) if he is not a citizen of Singapore, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person (whether or not a citizen of Singapore) with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares in an employer of an Auxiliary Police Force, of —
 
 (i) where the employer is a company, an aggregate of more than 50% of the total votes attached to all voting shares in the employer; or
 
-(ii) where the employer is an organisation other than a company, an aggregate of more than 50% of the nominal amount of all voting shares in the employer,,
-
-”.
+(ii) where the employer is an organisation other than a company, an aggregate of more than 50% of the nominal amount of all voting shares in the employer,
 
 without first obtaining the approval of the Minister.
 
@@ -2794,6 +2788,12 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 ||Date of commencement|30 January 2006|
 |4.|**2006 Revised Edition—Police Force Act**|
 ||Date of operation|31 January 2006|
+|5.|**Act 15 of 2009—Public Order Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 8/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|9 October 2009|
 ## COMPARATIVE TABLE
 
 Police Force Act
