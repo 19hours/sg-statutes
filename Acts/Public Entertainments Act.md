@@ -460,8 +460,6 @@ in any place to which the public or any class of the public has access whether g
 
 (l) any organised competition at games of skill or chance;
 
-(m) any lecture, talk, address, debate or discussion;
-
 (ma) any arts entertainment; or
 
 [S 292/2002 wef 01/07/2002]
@@ -480,11 +478,15 @@ in any place to which the public or any class of the public has access whether g
 
 [S 671/2001 wef 01/01/2002]
 
-(d) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded; and
+(d) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded;
 
-(e) public entertainment provided by or under the auspices of any statutory board constituted by or under any written law for a public purpose.
+(e) public entertainment provided by or under the auspices of any statutory board constituted by or under any written law for a public purpose; and
 
 [S 589/2004 wef 27/09/2004]
+
+[15/2009 wef 09/10/2009]
+
+(f) any lecture, talk, address, debate or discussion in any place to which the public or any class of the public has access whether gratuitously or otherwise.
 
 [15/2009 wef 09/10/2009]
 
@@ -536,6 +538,12 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 July 2002|
 |12.|**G. N. No. S 589/2004—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2004**|
 ||Date of commencement|27 September 2004|
+|13.|**Act 15 of 2009—Public Order Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 March 2009|
+|||(Bill No. 8/2009 published on 23 March 2009)|
+||Date of Second and Third Readings|13 April 2009|
+||Date of commencement|9 October 2009|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
