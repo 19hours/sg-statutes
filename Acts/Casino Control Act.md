@@ -384,11 +384,13 @@
 
 - [165 Committee may make exclusion order in certain circumstances](#Committee-may-make-exclusion-order-in-certain-circumstances)
 
+- [165A Persons to be excluded from casino](#Persons-to-be-excluded-from-casino)
+
 - [166 Variation or revocation of family exclusion order or exclusion order by Council](#Variation-or-revocation-of-family-exclusion-order-or-exclusion-order-by-Council)
 
 - [167 Service of family exclusion order or exclusion order](#Service-of-family-exclusion-order-or-exclusion-order)
 
-- [168 Notification of making, variation or revocation of family exclusion order or exclusion order](#Notification-of-making-variation-or-revocation-of-family-exclusion-order-or-exclusion-order)
+- [168 Notification of family exclusion order or exclusion order](#Notification-of-family-exclusion-order-or-exclusion-order)
 
 - [169 Secrecy of proceedings of Committee](#Secrecy-of-proceedings-of-Committee)
 
@@ -542,9 +544,13 @@ PRELIMINARY
 
 “excluded person” means a person barred from entering or remaining on any casino premises by —
 
-(a) an exclusion order under section 120, 121 or 122; or
+(a) an exclusion order under section 120, 121 or 122;
 
-(b) a family exclusion order or exclusion order under Part X;
+(b) a family exclusion order or exclusion order under Part X; or
+
+(c) section 165A;
+
+[22/2009 wef 15/10/2009]
 
 “game” means a game of chance or a game that is partly a game of chance and partly a game requiring skill;
 
@@ -3562,29 +3568,73 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 ### Committee may make exclusion order in certain circumstances
 
-165\.—(1) A Committee may, on its own motion, by written order make an exclusion order against a person if it comes to the attention of the Committee that the person —
+165\.—(1) A Committee may, on its own motion, by written order make an exclusion order against a person if it comes to the attention of the Committee that the person has a poor credit record.
 
-(a) is on any social assistance programme funded by the Government or any statutory body;
-
-(b) has a bankruptcy application filed against him or is an undischarged bankrupt; or
-
-(c) has a poor credit record.
-
-(2) A Committee may give a written exclusion order under this section to a person on the voluntary application of the person.
+[22/2009 wef 15/10/2009]
 
 (3) Before a Committee makes an exclusion order against any person under subsection (1), the Committee shall give the person a reasonable opportunity to object to the proposed order.
 
-(4) An exclusion order made under subsection (1) or (2) shall bar the person named in the order from entering or remaining on any casino premises for as long as the person satisfies subsection (1)(a), (b) or (c) or for such other period as may be specified in the order.
+(4) An exclusion order made under subsection (1) shall bar the person named in the order from entering or remaining on any casino premises for as long as the circumstances in subsection (1) exist in relation to that person or for such other period as may be specified in the order.
 
-(5) A Committee may, at any time, revoke an exclusion order made under subsection (1) or (2) against a person if, having regard to all the circumstances of the case, the Committee is of the opinion that an exclusion order would no longer be in the best interests of the person and his family members.
+(5) A Committee may, at any time, revoke an exclusion order made under subsection (1) against a person if, having regard to all the circumstances of the case, the Committee is of the opinion that an exclusion order would no longer be in the best interests of the person and his family members.
 
 (6) A person who is aggrieved by an exclusion order made against him by a Committee under subsection (1) may, within 30 days of being notified of the decision of the Committee, appeal to the Council whose decision shall be final.
+
+### Persons to be excluded from casino
+
+165A\.—(1) The following persons shall be excluded from entering or remaining, or taking part in any gaming, on any casino premises:
+
+(a) a person who is on any social assistance programme funded by the Government or any statutory body;
+
+(b) an undischarged bankrupt;
+
+(c) a person who has made a voluntary application in the prescribed form and manner to the Council to be excluded from entering or remaining, or taking part in any gaming, on any casino premises.
+
+(2) A person referred to in subsection (1)(a) or (b) shall be excluded from entering or remaining, or taking part in any gaming, on any casino premises for so long as the circumstances in subsection (1)(a) or (b) exist in relation to that person.
+
+(3) A person referred to in subsection (1)(c) shall be excluded from entering or remaining, or taking part in any gaming, on any casino premises until such time as the person notifies the Council in the prescribed form and manner that he wishes to cease to be so excluded.
+
+(4) The Council shall establish, maintain and regularly update a list that sets out the names and particulars of persons for the time being excluded from the casino premises under subsection (1), and shall furnish the list to the following persons:
+
+(a) the Authority;
+
+(b) the Commissioner of Police; and
+
+(c) every casino operator.
+
+(5) Upon being satisfied that any person whose name is on the list of excluded persons has ceased to be on a social assistance programme referred to in subsection (1)(a) or has ceased to be an undischarged bankrupt, or upon receiving a notice under subsection (3) from any such person, the Council shall —
+
+(a) remove the name and particulars of the person from the list of excluded persons; and
+
+(b) notify the persons referred to in subsection (4)(a), (b) and (c) of the removal.
+
+(6) Without prejudice to subsection (5), the Council may, from time to time, vary or update the list of excluded persons —
+
+(a) to correct any clerical or other error in the names or particulars therein;
+
+(b) to include the names and particulars of new persons excluded from any casino premises under subsection (1); or
+
+(c) to update any of the names or particulars therein in order that they remain sufficient to identify any excluded person,
+
+and the Council shall notify the persons referred to in subsection (4)(a), (b) and (c) of those variations and updates.
+
+(7) It shall be a defence to disciplinary action for a contravention of section 126(1) by permitting a person referred to in subsection (1) to enter or remain on the casino premises if it is proved that —
+
+(a) before the person entered the casino premises or while the person was on the casino premises, there was produced to the casino operator or to its agent or employee proof of the person’s identity; and
+
+(b) at that time, the person’s name and particulars were not on the list of excluded persons furnished by the Council to the casino operator.
+
+(8) It shall be lawful for the person for the time being in charge of a casino, an agent of the casino operator or a casino employee to refuse entry to, or remove or cause to be removed from the casino premises using no more force than is reasonably necessary, any person whose name and particulars are at that time on the list of excluded persons furnished by the Council to the casino operator.
+
+(9) In this section, “list of excluded persons” means the list established and maintained under subsection (4) and includes that list as varied or updated from time to time in accordance with subsection (5) or (6).
+
+[22/2009 wef 15/10/2009]
 
 ### Variation or revocation of family exclusion order or exclusion order by Council
 
 166\.—(1) The Council may confirm, vary or revoke a family exclusion order or an exclusion order on application by —
 
-(a) a family member for whose benefit the order was made; or
+(a) a family member for whose benefit the family exclusion order was made; or
 
 (b) the respondent.
 
@@ -3608,11 +3658,11 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 [SA Problem Gambling 2004, s. 12]
 
-### Notification of making, variation or revocation of family exclusion order or exclusion order
+### Notification of family exclusion order or exclusion order
 
-168\. A copy of every family exclusion order or exclusion order, and a copy of every variation or revocation of such order must be provided by the Council to —
+168\. As soon as practicable after a family exclusion order or an exclusion order is made, varied or revoked under this Part, the Council shall notify the following persons of the order or the variation or revocation thereof, as the case may be:
 
-(a) the applicant, if any;
+(a) the applicant, in the case of a family exclusion order;
 
 (b) the Authority;
 
@@ -3620,7 +3670,7 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 
 (d) every casino operator.
 
-[SA Problem Gambling 2004, s. 13]
+[22/2009 wef 15/10/2009]
 
 ### Secrecy of proceedings of Committee
 
@@ -4513,3 +4563,8 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 27/2008 published on 15 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|4.|**Act 22 of 2009—Casino Control (Amendment) Act 2009**|
+||Date of First Reading|18 August 2009|
+|||(Bill No. 14/2009)|
+||Date of Second and Third Readings|15th September 2009|
+||Date of commencement|15 October 2009|
