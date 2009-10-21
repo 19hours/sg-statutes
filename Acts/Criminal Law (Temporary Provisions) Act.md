@@ -152,11 +152,13 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the Criminal Law (Temporary Provisions) Act.
 
-(2) This Act shall continue in force for a period of 5 years from 21st October 2004.
+(2) This Act shall continue in force for a period of 5 years from 21st October 2009.
 
-[32/2004 wef 21/10/2004]
+[8/2009 wef 21/10/2009]
 
 [17/99]
+
+[32/2004 wef 21/10/2004]
 
 (3) The expiry of this Act shall not affect the operation thereof as respects things previously done or omitted to be done.
 
@@ -480,7 +482,13 @@ given to a police officer or officer of the Central Narcotics Bureau in charge o
 
 “registrable particulars” means the particulars of any detention or supervision order made under section 30, 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
 
+[32/2004 wef 21/10/2004]
+
+[22/2007 wef 01/01/2008]
+
 (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 27A.
+
+[32/2004 wef 21/10/2004]
 
 (3) The additional types of body samples that may be prescribed under subsection (2) shall not include samples to be obtained from —
 
@@ -576,6 +584,8 @@ shall be taken from any person unless the appropriate consent is given for the t
 
 (ii) section 40D of the Misuse of Drugs Act (Cap. 185);
 
+[32/2004 wef 21/10/2004]
+
 [2/2006 wef 01/03/2006]
 
 (c) for any proceedings for any offence;
@@ -592,6 +602,8 @@ shall be taken from any person unless the appropriate consent is given for the t
 
 the Commissioner of Police shall cause all such photographs, finger impressions, records of particulars and body samples taken from that person to be removed from the register and DNA database maintained under subsection (1).
 
+[32/2004 wef 21/10/2004]
+
 (4) For the purposes of subsection (2)(c) —
 
 (a) any photograph, finger impression, registrable particulars or other particulars stored in the register under subsection (1)(a);
@@ -603,6 +615,8 @@ the Commissioner of Police shall cause all such photographs, finger impressions,
 shall, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, be admissible in evidence in any proceedings, without proof of signature; and, until the contrary is proved, shall be proof of all matters contained therein or appearing thereon.
 
 [32/2004 wef 21/10/2004]
+
+[2/2006 wef 01/03/2006]
 
 ### Power to amend Schedules
 
@@ -774,9 +788,13 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 [17/99]
 
+[2/2006 wef 01/03/2006]
+
 (3) The power conferred upon an officer of or above the rank of superintendent of police under section 44(3) may be exercised by the Director or a Deputy Director of the Central Narcotics Bureau.
 
 [17/99]
+
+[2/2006 wef 01/03/2006]
 
 (4) Subject to subsection (5), where the power conferred upon an officer of or above the rank of superintendent of police under section 44(3), or the power conferred upon a police officer under section 45(1), is exercised by an officer of the Central Narcotics Bureau in accordance with this section, the duty to report to the Commissioner of Police under those sections shall be read as a duty to report in a similar manner to the Director of the Central Narcotics Bureau.
 
@@ -795,6 +813,8 @@ and who is unable satisfactorily to account for his presence at that place or ti
 [46A
 
 [17/99]
+
+[2/2006 wef 01/03/2006]
 
 ### Powers of Public Prosecutor
 
@@ -1068,13 +1088,19 @@ Section 16(1)
 
 Reportable Offences
 
-1. The Arms Offences Act (Cap. 14)
+1.
+
+The Arms Offences Act (Cap. 14)
 
 Sections 3, 6 and 7.
 
-2. The Explosive Substances Act (Cap. 100)
+2.
+
+The Explosive Substances Act (Cap. 100)
 
 Sections 3 and 4.
+
+[S 228/75]
 
 THIRD SCHEDULE
 
@@ -1317,6 +1343,12 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of Third Reading|23 October 2007|
 ||Date of commencement|1 February 2008|
 |||(item (2) in the Third Schedule)|
+|52.|**Act 8 of 2009—Criminal Law (Temporary Provisions) (Amendment) Act 2009**|
+||(Consequential amendments made by)||
+||Date of First Reading|19 January 2009|
+|||(Bill No. 1/2009 published on 19 January 2009)|
+||Date of Second and Third Readings|13 February 2009|
+||Date of commencement|21 October 2009|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
