@@ -344,13 +344,29 @@
 
 - [146 Payment of casino tax](#Payment-of-casino-tax)
 
+- [146A Responsibility of Comptroller](#Responsibility-of-Comptroller)
+
+- [146B Power of Comptroller to assess tax due](#Power-of-Comptroller-to-assess-tax-due)
+
+- [146C Revisions and objections](#Revisions-and-objections)
+
+- [146D Right of appeal](#Right-of-appeal)
+
+- [146E Time within which payment is to be made](#Time-within-which-payment-is-to-be-made)
+
 - [147 Penalty for late payment](#Penalty-for-late-payment)
 
-- [148 Recovery of tax](#Recovery-of-tax)
+- [148 Recovery of tax and penalty](#Recovery-of-tax-and-penalty)
+
+- [148A Remission of tax](#Remission-of-tax)
 
 - [149 Repayment of tax](#Repayment-of-tax)
 
+- [149A Penalty for incorrect return](#Penalty-for-incorrect-return)
+
 - [150 Evasion of tax](#Evasion-of-tax)
+
+- [150A Power to appoint agent for recovery of tax](#Power-to-appoint-agent-for-recovery-of-tax)
 
 - [151 Power of Comptroller to obtain information](#Power-of-Comptroller-to-obtain-information)
 
@@ -571,6 +587,10 @@ PRELIMINARY
 (b) as a result of making a bet on the device, winnings may become payable,
 
 and includes any machine declared by the Authority to be a gaming machine;
+
+“Inland Revenue Authority of Singapore” means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act (Cap. 138A);
+
+[22/2009 wef 22/10/2009]
 
 “inspector” means an inspector appointed under section 13(5);
 
@@ -3240,33 +3260,195 @@ CASINO TAX
 
 (a) prescribing the time and manner of payment of the casino tax;
 
-(b) prescribing the returns, declarations, statements or forms to be submitted by a casino operator;
+(b) prescribing the returns, declarations, statements or forms to be submitted by a casino operator, and the time and manner of such submissions;
 
-(c) prescribing the records to be kept by a casino operator to determine the gross gaming revenue (from premium players or otherwise) for each month; and
+(c) prescribing the records to be kept by a casino operator to determine the gross gaming revenue (from premium players or otherwise) for each month;
+
+(ca) prescribing the treatment of losses, including the carrying forward or set-off of losses, in respect of gross gaming revenue;
+
+[22/2009 wef 22/10/2009]
+
+(cb) prescribing the requirements for an audit of a casino operator relating to the casino tax payable by the casino operator, whether by an internal auditor or an external auditor or both; and
+
+[22/2009 wef 22/10/2009]
 
 (d) generally to give effect to the provisions of this Part.
 
-(5) Regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.
+(5) Regulations made under this section may provide —
+
+(a) that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(b) that if any return required under this Part (including regulations made under this Part) is not made by a casino operator within the prescribed accounting period, the casino operator shall be liable to a penalty not exceeding $1,000 for each day that it continues not to submit the return, up to a total penalty not exceeding $10,000.
+
+[22/2009 wef 22/10/2009]
 
 (6) In this Part —
 
+“Board of Review” means the Board of Review appointed under section 78 of the Income Tax Act (Cap. 134);
+
+[22/2009 wef 22/10/2009]
+
 “Comptroller” means the Comptroller of Income Tax appointed under section 3(1) of the Income Tax Act (Cap. 134);
 
-“gross gaming revenue”, in relation to a casino operator, means the amount determined by
+“gross gaming revenue”, in relation to a casino operator, means the amount determined by the formula
+
+A – B,
 
 where A
 
-is the amount of bets received on all games by the casino operator;
+is the aggregate of the amount of net wins received on all games conducted by the casino operator or conducted within the casino premises of the casino operator; and
 
 B
 
-is the amount paid out as winnings on all games by the casino operator; and
+is the amount of goods and services tax chargeable by the casino operator under the Goods and Services Tax Act (Cap. 117A) in respect of all gaming supplies made by the casino operator;
 
-C
+[22/2009 wef 22/10/2009]
 
-is the amount of goods and services tax payable by the casino operator in respect of transactions involving betting, sweepstakes, lotteries, fruit machines or gaming under the Goods and Services Tax Act (Cap. 117A);
+“Minister” means the Minister for Finance;
 
-“Minister” means the Minister for Finance.
+“net win”, in relation to a casino operator, means —
+
+(a) in respect of any game where the casino operator is a party to a wager, the amount determined by the formula
+
+C – D,
+
+where C
+
+is the amount of bets received by the casino operator on that game by reference to such method as may be prescribed in the regulations for that game; and
+
+D
+
+is the amount paid out by the casino operator as winnings on that game by reference to such method as may be prescribed in the regulations for that game; and
+
+(b) in respect of any game conducted within the casino premises where the casino operator is not a party to a wager, the amount determined by the aggregate value of all consideration in money or money’s worth received by the casino operator for conducting, or allowing the conduct of, the game;
+
+[22/2009 wef 22/10/2009]
+
+“winnings” includes any non-monetary prize.
+
+[22/2009 wef 22/10/2009]
+
+### Responsibility of Comptroller
+
+146A\. The Comptroller shall be responsible generally for the carrying out of the provisions of this Part and for the collection of casino tax and shall pay into the Consolidated Fund all amounts collected in respect thereof, including any penalty under section 147 or 149A or any regulations made under this Part.
+
+[22/2009 wef 22/10/2009]
+
+### Power of Comptroller to assess tax due
+
+146B\.—(1) Where —
+
+(a) a casino operator has failed to make any returns required under this Part or any regulations made under this Part for a prescribed accounting period, or to keep any documents and afford the facilities to verify such returns; or
+
+(b) it appears to the Comptroller that such returns are incomplete or incorrect,
+
+the Comptroller may to the best of his judgment assess the amount of casino tax due from that casino operator for that period and notify the casino operator of the amount assessed.
+
+(2) In any case where —
+
+(a) an amount has been repaid to any casino operator as being a repayment of casino tax, which ought not to have been repaid; or
+
+(b) an amount has been paid or credited to any casino operator as being due to it, which ought not to have been paid or credited to it,
+
+the Comptroller may assess that amount as being casino tax due from the casino operator for the prescribed accounting period in which the amount was repaid, paid or credited, as the case may be, and accordingly notify the casino operator of the assessment.
+
+(3) An assessment under subsection (1) or (2) of an amount of casino tax due for any prescribed accounting period shall not be made more than 5 years from the end of that period.
+
+(4) Notwithstanding subsection (3), where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to casino tax, the Comptroller may, for the purpose of making good any loss of casino tax or payment or refund of casino tax attributable to fraud or wilful default, make an assessment at any time.
+
+(5) In any case where —
+
+(a) as a result of a casino operator’s failure to make a return for a prescribed accounting period, the Comptroller has made an assessment under subsection (1) for that period;
+
+(b) the casino tax assessed has been paid but no proper return has been made for the period to which the assessment related; and
+
+(c) as a result of a failure to make a return for a later prescribed accounting period, being a failure by the casino operator referred to in paragraph (a), the Comptroller finds it necessary to make another assessment under subsection (1) for the later period,
+
+then, if the Comptroller thinks fit, having regard to the failure referred to in paragraph (a), he may specify in the assessment referred to in paragraph (c) an amount of casino tax greater than that which he would otherwise have considered to be appropriate.
+
+(6) Where it appears to the Comptroller that the amount which ought to have been assessed in an assessment under this section exceeds the amount which was so assessed, the Comptroller may —
+
+(a) under the same provision as that under which the assessment was made; and
+
+(b) within the period during which that assessment could have been made,
+
+make a supplementary assessment of the amount of the excess and shall notify the casino operator accordingly.
+
+(7) Where an amount has been assessed and notified to any casino operator under subsection (1), (2) or (6), it shall, subject to the provisions of this Act as to review and appeals, be deemed to be an amount of casino tax due from the casino operator and may be recovered accordingly, unless, or except to the extent that, the assessment has subsequently been withdrawn or reduced.
+
+(8) The Comptroller may at any time make all such alterations in or additions to an assessment made under this section as he thinks necessary to ensure the correctness thereof and notify the casino operator accordingly.
+
+(9) Where the Comptroller raises an assessment under subsection (1) upon the failure of a casino operator to make any returns, and, subsequent to such assessment, the casino operator makes a return, the Comptroller may, in his discretion, take into account the return and revise his assessment as he deems fit.
+
+(10) A certificate purporting to be under the hand of the Comptroller —
+
+(a) that any return required by or under this Part has not been made or had not been made at any date;
+
+(b) that any return made under this Part has been made by the person named therein;
+
+(c) that any casino tax shown as due in any return or assessment made under this Part has not been paid; or
+
+(d) that any penalty is due from the person named therein,
+
+shall be sufficient evidence of that fact until the contrary is proved.
+
+[22/2009 wef 22/10/2009]
+
+### Revisions and objections
+
+146C\.—(1) If any casino operator has, for any prescribed accounting period —
+
+(a) made an error in a return of its gross gaming revenue made to the Comptroller for that period; or
+
+(b) paid casino tax in excess of the amount payable for that period,
+
+the casino operator may, by notice in writing, request a revision by the Comptroller of its return and the refund of any casino tax overpaid, within a period of 5 years from the date the return was made.
+
+(2) If any casino operator disputes an assessment of casino tax made upon it under section 146B, the casino operator may apply to the Comptroller, by notice of objection in writing, to review and revise the assessment made.
+
+(3) A notice of objection under subsection (2) shall state precisely the grounds of the casino operator’s objections to the assessment and shall be made —
+
+(a) within 30 days from the date of the service of the notice of assessment; or
+
+(b) if the Comptroller is satisfied that there is reasonable cause for the delay, within such longer period as the Comptroller may allow in the circumstances.
+
+(4) On receipt of a notice for revision of a return under subsection (1) or a notice of objection under subsection (2) by a casino operator, the Comptroller may —
+
+(a) require the casino operator to furnish such particulars as the Comptroller may consider necessary with respect to the gross gaming revenue of the casino operator and to produce all books or other documents in the casino operator’s custody or under its control relating to such revenue; and
+
+(b) summon any person whom he thinks is able to give evidence respecting the assessment to attend before him and may examine that person on oath or otherwise.
+
+(5) If any casino operator who has given a notice for revision of a return under subsection (1) or a notice of objection to an assessment under subsection (2) —
+
+(a) agrees with the Comptroller as to the amount at which the casino operator is liable to be assessed, the return or assessment shall be revised accordingly, and notice of the revised return or assessment shall be served upon that casino operator; or
+
+(b) fails to agree with the Comptroller as to the amount at which the casino operator is liable to be assessed, the Comptroller —
+
+(i) shall, if any casino tax is payable, give a notice of refusal to revise the return or assessment as desired by the casino operator; and
+
+(ii) may revise the return or assessment to such amount as the Comptroller may determine according to the best of his judgment,
+
+and the Comptroller shall serve upon that casino operator the notice of the revised return or assessment of the casino tax payable, together with the notice of refusal.
+
+[22/2009 wef 22/10/2009]
+
+### Right of appeal
+
+146D\.—(1) Any casino operator aggrieved by a refusal of the Comptroller to revise a return or assessment under section 146C(5)(b)(i) or by an assessment of casino tax made upon it under section 146C(5)(b)(ii) may appeal against such decision or assessment to the Board of Review and the appeal shall be lodged with and heard by the Board of Review in the same manner as an appeal against an assessment of tax under the Income Tax Act (Cap. 134).
+
+(2) No appeal shall lie against a decision of the Board of Review except an appeal to the High Court from the decision on any question of law or of mixed law and fact.
+
+(3) Sections 79 to 84 of the Income Tax Act shall apply in relation to an appeal under subsection (1) or (2) as if it were an appeal in relation to an assessment of tax under that Act.
+
+[22/2009 wef 22/10/2009]
+
+### Time within which payment is to be made
+
+146E\.—(1) Any amount of casino tax assessed to be payable under section 146B shall, notwithstanding any objection or appeal against the assessment, be payable in the time and manner stated in the notice of assessment issued by the Comptroller under that section.
+
+(2) The Comptroller may, in his discretion and subject to such terms and conditions as he may impose, including the imposition of interest, extend the time limit within which payment is to be made.
+
+[22/2009 wef 22/10/2009]
 
 ### Penalty for late payment
 
@@ -3276,17 +3458,51 @@ is the amount of goods and services tax payable by the casino operator in respec
 
 (3) Any penalty imposed under this section shall be recoverable as if it were casino tax due and payable under this Part.
 
-### Recovery of tax
+(4) The Comptroller may for any good cause remit the whole or part of the penalty payable under subsection (1) or (2).
 
-148\.—(1) Casino tax due and payable under this Part shall be recoverable as a debt due to the Government and the Comptroller may, in his own name, sue for such tax by way of a specially endorsed writ of summons.
+[22/2009 wef 22/10/2009]
+
+### Recovery of tax and penalty
+
+148\.—(1) Casino tax and any penalty due and payable under this Part shall be recoverable as a debt due to the Government and the Comptroller may, in his own name, sue for such tax and penalty by way of a specially endorsed writ of summons.
+
+(1A) The Comptroller shall be entitled to all costs allowed by law against a casino operator liable in any proceedings under subsection (1).
+
+[22/2009 wef 22/10/2009]
+
+(1B) The Comptroller may appear personally or by counsel in any suit instituted under subsection (1).
+
+[22/2009 wef 22/10/2009]
 
 (2) In any proceedings referred to in subsection (1), the production of a certificate signed by the Comptroller stating the amount of any casino tax due by a casino operator shall be sufficient evidence of the amount so due and sufficient authority for the court to give judgment for that amount.
+
+### Remission of tax
+
+148A\. The Minister may, in his discretion, remit, wholly or in part, the casino tax payable by any casino operator if he is satisfied that it is just and equitable to do so.
+
+[22/2009 wef 22/10/2009]
 
 ### Repayment of tax
 
 149\.—(1) If it is proved to the satisfaction of the Comptroller that a casino operator has paid casino tax in excess of the amount payable under this Part, that casino operator shall be entitled to have the amount so paid in excess refunded.
 
 (2) Every claim for repayment under this section shall be made within 6 years from the payment of the casino tax claimed to be paid in excess.
+
+### Penalty for incorrect return
+
+149A\. Any person who —
+
+(a) makes an incorrect return by omitting or understating any gross gaming revenue or casino tax of which a casino operator is required by this Act to make a return; or
+
+(b) gives any incorrect information in relation to any matter affecting a casino operator’s liability to casino tax,
+
+shall be guilty of an offence and shall be liable on conviction —
+
+(i) to a penalty equal to double the amount of casino tax which has been underpaid in consequence of such incorrect return or incorrect information, or which would have been so underpaid if the return or information had been accepted as correct; and
+
+(ii) to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[22/2009 wef 22/10/2009]
 
 ### Evasion of tax
 
@@ -3300,11 +3516,39 @@ is the amount of goods and services tax payable by the casino operator in respec
 
 (d) makes use of any fraud, art or contrivance or authorises the use of any such fraud, art or contrivance,
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty of 4 times the amount of casino tax which has been underpaid and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+shall be guilty of an offence for which, on conviction, he shall pay a penalty of 4 times the amount of casino tax which has been underpaid in consequence of the offence, or which would have been so underpaid if the offence had not been detected, and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 (2) Where an individual has been convicted for 2 or more offences under this section, the imprisonment he shall be liable to shall not be less than 6 months.
 
 (3) Where in any proceedings under this section it is proved that any false statement or entry is made in any record maintained by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade casino tax.
+
+### Power to appoint agent for recovery of tax
+
+150A\.—(1) The Comptroller may by notice in writing, if he thinks it necessary, declare any person to be the agent of a casino operator.
+
+(2) The person declared to be the agent of a casino operator under subsection (1) shall be the agent of the casino operator for the purposes of this Part and may be required to pay any casino tax or penalty due from any moneys which, at the date of the receipt of the notice or at any time during the period of 90 days thereafter, may be held by him for or due by him to the casino operator whose agent he has been declared to be.
+
+(3) In default of payment under subsection (2), the casino tax shall be recoverable from the agent in the manner provided under section 148.
+
+(4) For the purposes of this section, the Comptroller may require any person to give him information as to any moneys, funds or other assets which may be held by him for, or of any moneys due by him to, any casino operator.
+
+(5) Where any person declared by the Comptroller to be the agent of a casino operator under subsection (1) is aggrieved by such declaration he may, by notice in writing to the Comptroller within 14 days, or within such further time as the Comptroller in his discretion may allow, object to the declaration.
+
+(6) The Comptroller shall examine the objection and may cancel, vary or confirm the declaration.
+
+(7) Where the objector is aggrieved by the Comptroller’s decision upon his objection, he may appeal against such decision to the Board of Review and the provisions of section 146D shall apply with the necessary modifications.
+
+(8) Where an agent makes any payment of moneys to the Comptroller under this section —
+
+(a) the agent shall be deemed to have been acting under the authority of the casino operator by whom the casino tax is payable (referred to in this section as the defaulting taxpayer);
+
+(b) the agent is hereby indemnified in respect of the payment to the Comptroller;
+
+(c) the amount of casino tax due from the defaulting taxpayer shall be reduced by the amount paid by the agent to the Comptroller; and
+
+(d) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the defaulting taxpayer.
+
+[22/2009 wef 22/10/2009]
 
 ### Power of Comptroller to obtain information
 
@@ -3312,11 +3556,25 @@ shall be guilty of an offence for which, on conviction, he shall pay a penalty o
 
 (2) Any person who fails or neglects without reasonable excuse to comply with any notice issued by the Comptroller under section 65 or 65A of the Income Tax Act or any requirement of the Comptroller under section 65B of that Act for the purpose of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+(3) Notwithstanding anything in section 6 of the Income Tax Act or section 190 of this Act, the Comptroller or any officer of the Inland Revenue Authority of Singapore may —
+
+(a) furnish to any officer of the Authority any information obtained by the Comptroller in the performance of his duties under this Part, where such information may be required by the officer in the performance of his duties; and
+
+(b) upon the request of the Authority, permit any officer of the Authority to have access to, including taking copies of, such records or documents relating to casino tax in the possession of the Comptroller as the Comptroller may allow,
+
+where the Comptroller is satisfied that such information or access is necessary for the performance of the duties of the officer of the Authority.
+
+[22/2009 wef 22/10/2009]
+
 ### Composition of offences by Comptroller
 
-152\.—(1) The Comptroller may compound any offence under section 150 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding 4 times the amount of casino tax underpaid .
+152\.—(1) The Comptroller may compound any offence under section 150 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding 4 times the amount of casino tax underpaid in consequence of the offence, or which would have been so underpaid if the offence had not been detected.
 
-(2) The Comptroller may compound any offence under section 151 and the regulations made under section 146 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $5,000.
+(1A) The Comptroller may compound any offence under section 149A by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the penalty under paragraph (i) of that section.
+
+[22/2009 wef 22/10/2009]
+
+(2) The Comptroller may compound any offence under section 151 or the regulations made under section 146 by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
 ## PART X
 
@@ -3571,6 +3829,8 @@ NATIONAL COUNCIL ON PROBLEM GAMBLING
 165\.—(1) A Committee may, on its own motion, by written order make an exclusion order against a person if it comes to the attention of the Committee that the person has a poor credit record.
 
 [22/2009 wef 15/10/2009]
+
+(2) [Deleted by Act 22/2009 wef 15/10/2009]
 
 (3) Before a Committee makes an exclusion order against any person under subsection (1), the Committee shall give the person a reasonable opportunity to object to the proposed order.
 
@@ -4096,6 +4356,16 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
 
+(1A) Notwithstanding subsection (1), any person referred to in paragraphs (a) to (d) of that subsection may —
+
+(a) furnish to the Comptroller of Income Tax or an officer of the Inland Revenue Authority of Singapore any information relating to casino tax which may be required by the Comptroller or officer in the performance of his duties; and
+
+(b) permit the Comptroller of Income Tax or an officer of the Inland Revenue Authority of Singapore to have access to, including taking copies of, such records or documents relating to casino tax in the possession of the Authority as the Chief Executive may allow,
+
+where the Chief Executive is satisfied that such information or access is necessary for the performance of the duties of the Comptroller or officer.
+
+[22/2009 wef 22/10/2009]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ### Co-operation between Authority and foreign casino regulatory bodies
@@ -4174,9 +4444,9 @@ whichever is the lower.
 
 ### Fines and financial penalties to be paid to Authority
 
-197\.—(1) All fines imposed under this Act shall be paid to the Authority.
+197\.—(1) All fines imposed under this Act (other than a fine imposed under Part IX or any regulations made thereunder) shall be paid to the Authority.
 
-(2) Any financial penalty payable by any person under this Act shall be paid to the Authority and recoverable by the Authority as a debt due to the Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing, for any reason, to be in force.
+(2) Any financial penalty payable by any person under this Act (other than a penalty payable under Part IX or any regulations made thereunder) shall be paid to the Authority and recoverable by the Authority as a debt due to the Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing, for any reason, to be in force.
 
 ### General exemption
 
@@ -4568,3 +4838,8 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 14/2009)|
 ||Date of Second and Third Readings|15th September 2009|
 ||Date of commencement|15 October 2009|
+|5.|**Act 22 of 2009—Casino Control (Amendment) Act 2009**|
+||Date of First Reading|18 August 2009|
+|||(Bill No. 14/2009)|
+||Date of Second and Third Readings|15th September 2009|
+||Date of commencement|22 October 2009|
