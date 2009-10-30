@@ -2545,6 +2545,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|1 October 2007|
 |13.|**G. N. No. S 183/2009—Medical Registration Act (Amendment of Schedule) Order 2009**|
 ||Date of commencement|29 April 2009|
+|14.|**G. N. No. S 521/2009—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2009**|
+||Date of commencement|30 October 2009|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
