@@ -462,9 +462,9 @@
 
 (Original Enactment: Act 15 of 1995)
 
-REVISED EDITION 2000
+REVISED EDITION 2009
 
-(1st July 2000)
+(31st October 2009)
 
 An Act relating to the law of bankruptcy and matters connected therewith.
 
@@ -490,8 +490,6 @@ PRELIMINARY
 
 “bankruptcy application” means an application to the court for a bankruptcy order;
 
-[42/2005 wef 01/04/2006]
-
 “bankruptcy order” means an order adjudging a debtor bankrupt;
 
 “court” means the court having jurisdiction in bankruptcy under this Act;
@@ -499,8 +497,6 @@ PRELIMINARY
 “creditor”, in relation to a debtor proposing a voluntary arrangement under Part V, means a creditor to whom the debtor owes a debt provable in bankruptcy;
 
 “creditor’s bankruptcy application” means a bankruptcy application made under section 57 by a creditor or by 2 or more creditors jointly;
-
-[42/2005 wef 01/04/2006]
 
 “creditors’ committee” means a committee appointed under section 80;
 
@@ -512,11 +508,7 @@ PRELIMINARY
 
 (b) in relation to a bankruptcy application, means the individual debtor to whom, or a firm, or each of the partners in the firm, to which, the application relates;
 
-[42/2005 wef 01/04/2006]
-
-“debtor’s bankruptcy application” means a bankruptcy application made under section 58 by a debtor against himself or by all or a majority of the members of a firm against the firm;
-
-[42/2005 wef 01/04/2006]
+“debtor’s bankruptcy application” means a bankruptcy application made under section 58 by a debtor against himself or by all or a majority of the partners of a firm against the firm;
 
 “estate”, in relation to a bankrupt, is to be construed in accordance with section 78;
 
@@ -542,11 +534,9 @@ PRELIMINARY
 
 “limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
-[6/2009 wef 18/05/2009]
-
 “nominee” means the person appointed by virtue of a debtor’s proposal for a voluntary arrangement under Part V to act as trustee or otherwise to supervise the implementation of the voluntary arrangement and includes —
 
-(a) any replacement of such person pursuant to an order under section 49(3)(a) or 55(5); and
+(a) any replacement of such person pursuant to a direction under section 49(3)(a) or an order under section 55(5); and
 
 (b) any person upon whom the functions of the nominee have been conferred by a creditors’ meeting pursuant to section 51(3);
 
@@ -577,6 +567,8 @@ PRELIMINARY
 “transaction” includes any gift, agreement or arrangement, and any reference to entering into a transaction shall be construed accordingly;
 
 “trustee”, in relation to a bankruptcy and a bankrupt, means the trustee of the bankrupt’s estate.
+
+[42/2005; 6/2009]
 
 (2) Any reference in this Act to the person or property of a debtor or bankrupt shall, in relation to a debtor which is a firm or to a firm against which a bankruptcy order has been made, as the case may be, be read as a reference to the person or property of each partner of the firm.
 
@@ -638,6 +630,8 @@ that any person against whom a bankruptcy application has been made or a bankrup
 
 the court may cause a warrant to be issued to a police officer for his arrest or for the seizure of any books, papers, records, money or goods in his possession, and upon his arrest, may authorise him to be kept in custody, and anything seized under such a warrant to be held, in accordance with the rules, until such time as the court may order.
 
+[42/2005]
+
 (2) Where a person has been arrested under this section, the court may order his release, either with or without security to the satisfaction of the court that he will abide by such conditions as the court may think fit to impose.
 
 (3) The proceeds of the realisation of any security given on breach by such person of any of the conditions of the security shall be deemed to be his property and shall vest in the Official Assignee where such person is an undischarged bankrupt or, where he is not such, in the event of his bankruptcy.
@@ -670,6 +664,8 @@ Procedure
 
 15\. Subject to the rules, the court may in any matter take the whole or any part of any evidence either orally or by interrogatories or upon affidavit or by commission abroad.
 
+[42/2005]
+
 ### Costs to be in court’s discretion
 
 16\. Subject to this Act and the rules, the costs of and incidental to any proceedings in court shall be in the discretion of the court.
@@ -680,7 +676,9 @@ OFFICIAL ASSIGNEE
 
 ### Appointment of Official Assignee
 
-17\.—(1) The Minister may appoint such person as he may think fit to be the official Assignee of the estates of bankrupts and for the other purposes of this Act.
+17\.—(1) The Minister may appoint such person as he may think fit to be the Official Assignee of the estates of bankrupts and for the other purposes of this Act.
+
+[6/2009]
 
 (2) The Official Assignee shall act under the general authority and directions of the Minister, but shall also be an officer of the court.
 
@@ -768,7 +766,7 @@ and may, by such official name, sue and be sued, hold property of every descript
 
 (b) an account of his receipts and payments in respect of his administration of a debt repayment scheme under Part VA.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (1A) The Official Assignee shall, upon payment of the prescribed fee, permit —
 
@@ -776,7 +774,7 @@ and may, by such official name, sue and be sued, hold property of every descript
 
 (b) the inspection of an account referred to in subsection (1)(b) by the debtor to whom the debt repayment scheme relates, any creditor who has proved his debt under the debt repayment scheme or any other interested person.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (2) Every account referred to in subsection (1) shall be audited not less than once in each year by such officer as the Minister may appoint in that behalf.
 
@@ -786,6 +784,8 @@ and may, by such official name, sue and be sued, hold property of every descript
 
 26\.—(1) The Official Assignee shall, for such period as may be prescribed, keep records containing entries or minutes of proceedings at any meeting held under this Act and of such other matters as may be prescribed.
 
+[6/2009]
+
 (2) Any creditor of —
 
 (a) a bankrupt; or
@@ -794,7 +794,7 @@ and may, by such official name, sue and be sued, hold property of every descript
 
 may, upon payment of the prescribed fee and subject to the control of the court, personally or by his agent inspect any record kept by the Official Assignee under subsection (1) which pertains to that bankrupt or debtor (as the case may be).
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 ### Bankruptcy Estates Account and Debt Repayment Schemes Account
 
@@ -804,9 +804,11 @@ may, upon payment of the prescribed fee and subject to the control of the court,
 
 (b) an account, to be called the Debt Repayment Schemes Account, into which all moneys received by the Official Assignee under Part VA shall, subject to this Act, be paid.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (2) All payments out of moneys standing to the credit of the Official Assignee in the Bankruptcy Estates Account or the Debt Repayment Schemes Account shall be made by such bank in such manner as the Official Assignee may think fit.
+
+[6/2009]
 
 ### Investment of surplus funds in Bankruptcy Estates Account and Debt Repayment Schemes Account
 
@@ -816,19 +818,25 @@ may, upon payment of the prescribed fee and subject to the control of the court,
 
 (b) pay over the whole or any part of the excess as the Accountant-General may require to such account as the Accountant-General may direct.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (2) The Accountant-General may invest the sums paid over under subsection (1)(b) or any part thereof in trustee securities to be placed to the credit of the account referred to in subsection (1)(b).
 
 (3) Where, in the opinion of the Official Assignee, any part of the money paid over from the Bankruptcy Estates Account or the Debt Repayment Schemes Account under subsection (1)(b) and invested under subsection (2) is required to meet any demand in respect of insolvent estates or debt repayment schemes administered under Part VA, as the case may be, the Official Assignee shall notify the Accountant-General of the amount so required.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (4) The Accountant-General shall repay the Official Assignee such sum as may be required under subsection (3) to the credit of the Bankruptcy Estates Account or the Debt Repayment Schemes Account, as the case may be, and for that purpose the Accountant-General may direct the sale of such part of the securities as may be necessary.
 
+[6/2009]
+
 (5) The income derived from any investment under subsection (2) shall form part of the Consolidated Fund and regard shall be had to the amount thus derived in fixing the fees payable in respect of proceedings in bankruptcy and the administration of debt repayment schemes under Part VA.
 
+[6/2009]
+
 (6) Any profits on the sale of any of the securities placed to the credit of the Bankruptcy Estates Account or the Debt Repayment Schemes Account shall be credited to the Consolidated Fund and that Fund shall be liable to make good any loss arising out of the sale of those securities.
+
+[6/2009]
 
 ### Official Assignee to furnish list of creditors
 
@@ -878,7 +886,7 @@ TRUSTEE IN BANKRUPTCY
 
 appoint a person other than the Official Assignee to be the trustee of the bankrupt’s estate.
 
-[42/2005 wef 01/04/2006]
+[42/2005]
 
 (2) The official name of the trustee shall be —
 
@@ -892,11 +900,11 @@ appoint a person other than the Official Assignee to be the trustee of the bankr
 
 (a) he is —
 
-(i) registered as a public accountant under the Accountants Act (Cap. 2A);
+(i) registered as a public accountant under the Accountants Act (Cap. 2);
 
 (ii) an advocate and solicitor; or
 
-(iii) such person as the Minister may, by order published in theGazette, prescribe; and
+(iii) such other person as the Minister may, by order published in theGazette, prescribe; and
 
 (b) he has not been convicted of an offence involving fraud or dishonesty punishable on conviction by imprisonment for 3 months or more,
 
@@ -906,7 +914,7 @@ and he has consented in writing to being appointed as a trustee.
 
 35\.—(1) No person appointed as a trustee under section 33 shall commence acting as such trustee until he has given security in the prescribed manner to the satisfaction of the Official Assignee that he shall faithfully perform his duties and duly observe all the requirements imposed on him by this Act, the rules or any other written law with respect to the performance of his duties.
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 ### General functions, duties and powers of trustee
 
@@ -919,6 +927,8 @@ and he has consented in writing to being appointed as a trustee.
 (2) Any reference in this Act or the rules to the Official Assignee shall, unless the context otherwise requires, include a reference to a trustee.
 
 (3) Sections 19, 24, 95A, 108, 113, 116, 123A, 125 and 165 shall not apply to a trustee and section 112(a), (c), (f), (h) and (i) shall not apply to a trustee except with the consent of the court, the creditors’ committee or, if there is no creditors’ committee, the Official Assignee.
+
+[9/2003]
 
 ### Trustee to pay moneys received by him into prescribed bank account
 
@@ -948,7 +958,7 @@ and he has consented in writing to being appointed as a trustee.
 
 (a) at any time require a trustee to answer any inquiry in relation to his administration of the estate of a bankrupt; and
 
-(b) also direct an investigation to be made of the books and vouchers of the trustee.
+(b) direct an investigation to be made of the books and vouchers of the trustee.
 
 (4) It shall be the duty of the trustee —
 
@@ -1048,6 +1058,8 @@ Moratorium for insolvent debtor
 
 (ii) no other proceedings, execution or other legal process may be commenced or continued against the firm or its property or against the person or property of any partner in the firm, without the leave of the court.
 
+[42/2005]
+
 (4) An interim order shall cease to have effect 42 days after the making thereof unless the court otherwise directs.
 
 [37/99]
@@ -1058,7 +1070,7 @@ Moratorium for insolvent debtor
 
 (2) No person shall be appointed as a nominee unless he is —
 
-(a) registered as a public accountant under the Accountants Act (Cap. 2A);
+(a) registered as a public accountant under the Accountants Act (Cap. 2);
 
 (b) an advocate and solicitor; or
 
@@ -1176,6 +1188,8 @@ Consideration and implementation of debtor’s proposal
 
 (3) Where proceedings on a bankruptcy application have been stayed by an interim order which ceases to have effect under subsection (2), that application shall, unless the court otherwise orders, be deemed to have been dismissed.
 
+[42/2005]
+
 ### Review of meeting’s decision
 
 54\.—(1) Any debtor, nominee or person entitled to vote at a creditors’ meeting summoned under section 50 may apply to the court for a review of the decision of the meeting on the ground that —
@@ -1230,11 +1244,11 @@ make an order appointing a person who is qualified to act as a nominee, either i
 
 56\. Where a debtor fails to comply with any of his obligations under a voluntary arrangement, the nominee or any creditor bound by the voluntary arrangement may make a bankruptcy application against the debtor in accordance with Part VI.
 
+[42/2005]
+
 ## PART VA
 
 DEBT REPAYMENT SCHEME
-
-[6/2009 wef 18/05/2009]
 
 Division 1 —
 
@@ -1258,11 +1272,15 @@ Preliminary
 
 “repayment period”, in relation to a debt repayment plan, means the period of time, beginning with the date on which the plan comes into effect under section 56D(8), that is allowed to a debtor under the plan to repay his debts included in the plan.
 
+[6/2009]
+
 (2) For the purposes of this Part —
 
 (a) any debt proved against a debtor under Division 2 before the effective date of a debt repayment scheme applicable to the debtor shall, upon the effective date, be deemed to have been proved under the scheme; and
 
 (b) any claim, proof, declaration or statement filed, made or submitted by or in respect of a debtor under Division 2 before the effective date of a debt repayment scheme applicable to the debtor shall, upon the effective date, be deemed to have been filed, made or submitted under the scheme.
+
+[6/2009]
 
 Division 2 —
 
@@ -1276,6 +1294,8 @@ Proposal for debt repayment scheme
 
 (b) where the debtor is suitable, implement the debt repayment scheme in accordance with this Part.
 
+[6/2009]
+
 (2) The Official Assignee shall report to the court of the debtor’s unsuitability for a debt repayment scheme if —
 
 (a) the aggregate of the debtor’s debts exceeds $100,000 or such other amount as the Minister may, by order published in theGazette, specify;
@@ -1288,7 +1308,11 @@ Proposal for debt repayment scheme
 
 (e) the Official Assignee is satisfied that the debtor is not suitable for a debt repayment scheme for any other reason.
 
+[6/2009]
+
 (3) Subsection (2) shall cease to apply upon the commencement of a debt repayment scheme in respect of the debtor under section 56E(1).
+
+[6/2009]
 
 ### Debtor’s statement of affairs and proposal for repayment of debts, and creditors’ proofs of debts
 
@@ -1300,19 +1324,33 @@ Proposal for debt repayment scheme
 
 and the debtor shall comply with the notice.
 
+[6/2009]
+
 (2) After receiving the debtor’s statement of affairs under subsection (1), the Official Assignee shall send a notice to every creditor disclosed in the statement, requiring the creditor to file a proof of debt within such time as may be specified by the Official Assignee in the notice.
 
+[6/2009]
+
 (3) Section 56G shall apply to a proof of debt filed under this Division as if it is a proof of debt filed under a debt repayment scheme.
+
+[6/2009]
 
 ### Approval of debt repayment plan
 
 56D\.—(1) Subject to subsection (7), the Official Assignee shall examine the statement of affairs and debt repayment plan submitted by a debtor under section 56C(1) and the proofs of debts filed against the debtor and may make such modifications to the plan as he considers appropriate before convening a meeting of creditors under subsection (2).
 
+[6/2009]
+
 (2) The Official Assignee shall convene and preside at a meeting of creditors to review the debt repayment plan.
+
+[6/2009]
 
 (3) Subject to subsection (7), the Official Assignee may, at or after the meeting of creditors, approve the debt repayment plan without any modification or subject to such, or such further, modifications as he considers appropriate.
 
+[6/2009]
+
 (4) The debtor or any creditor who has proved his debt against the debtor under this Division may, within such time and in such manner as may be prescribed, appeal to the Appeal Panel against the Official Assignee’s approval of the debt repayment plan under subsection (3) on the ground that the approved plan unfairly prejudices his interests.
+
+[6/2009]
 
 (5) The Appeal Panel may determine the appeal by —
 
@@ -1322,9 +1360,15 @@ and the debtor shall comply with the notice.
 
 and the decision of the Appeal Panel shall be final.
 
+[6/2009]
+
 (6) Subject to section 56I, the debt repayment plan approved by the Official Assignee or modified by the Appeal Panel under this section may require the debtor to make full repayment, or make such partial repayment as may be specified in the plan, of the debts included in the plan.
 
+[6/2009]
+
 (7) The repayment period under the debt repayment plan approved by the Official Assignee or modified by the Appeal Panel under this section shall not exceed 5 years.
+
+[6/2009]
 
 (8) The debt repayment plan shall come into effect on such date as may be specified by the Official Assignee in his approval of the plan under subsection (3) and shall be binding on —
 
@@ -1332,20 +1376,21 @@ and the decision of the Appeal Panel shall be final.
 
 (b) every creditor who has proved his debt against the debtor under this Division and whose debt is included in the plan.
 
+[6/2009]
+
 (9) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme under this Part.
+
+[6/2009]
 
 Division 3 —
 
-Commencement and administration
-
-
-
-
-of debt repayment scheme
+Commencement and administration of debt repayment scheme
 
 ### Commencement and administration of debt repayment scheme
 
 56E\.—(1) A debt repayment scheme shall commence in respect of a debtor on the date on which a debt repayment plan comes into effect under section 56D(8) in respect of that debtor.
+
+[6/2009]
 
 (2) The Official Assignee —
 
@@ -1353,7 +1398,11 @@ of debt repayment scheme
 
 (b) may charge such fees as may be prescribed in respect of such administration.
 
+[6/2009]
+
 (3) Upon the commencement of a debt repayment scheme in respect of a debtor, the Official Assignee shall pay out from the Bankruptcy Estates Account and into the Debt Repayment Schemes Account the balance of any deposit paid by the applicant creditor to the Official Assignee in respect of the relevant bankruptcy application made against the debtor, for the purpose of discharging the costs and expenses incurred by the Official Assignee in the administration of the scheme.
+
+[6/2009]
 
 ### Moratorium under debt repayment scheme, etc.
 
@@ -1365,13 +1414,19 @@ of debt repayment scheme
 
 except by leave of the court and in accordance with such terms as the court may impose.
 
+[6/2009]
+
 (2) Subsection (1) shall not affect the right of any secured creditor to realise or otherwise deal with his security in the same manner as he would have been entitled to realise or deal with it if that subsection had not been enacted.
+
+[6/2009]
 
 (3) Where the creditor of a debtor (to whom a debt repayment scheme applies) has issued execution against the goods or lands of the debtor, or has attached any debt due or property belonging to the debtor, the creditor shall not be entitled to retain the benefit of the execution or attachment against the debtor unless the creditor has completed the execution or attachment before the effective date of the scheme, except that —
 
 (a) a person who purchases in good faith under a sale by the Sheriff any goods of the debtor on which an execution has been levied shall in all cases acquire a good title to them against the debtor; and
 
 (b) the rights conferred by this subsection on the debtor may be set aside by the court in favour of the creditor to such extent and subject to such terms as the court may think fit.
+
+[6/2009]
 
 (4) For the purposes of subsection (3) —
 
@@ -1380,6 +1435,8 @@ except by leave of the court and in accordance with such terms as the court may 
 (b) an attachment of a debt is completed by receipt of the debt; and
 
 (c) an execution against land or any interest therein is completed by registering under any written law relating to the registration of land a writ of seizure and sale attaching the interest of the debtor in the land described therein.
+
+[6/2009]
 
 ### Proving of debts under debt repayment scheme
 
@@ -1391,15 +1448,27 @@ except by leave of the court and in accordance with such terms as the court may 
 
 (c) any debt being the balance due from the debtor after the security in respect of a secured debt owing by the debtor at the effective date of the scheme is realised at any time before the cessation of the scheme.
 
+[6/2009]
+
 (2) A creditor shall file his proof of debt with the Official Assignee under this Part in such form and manner as may be prescribed.
+
+[6/2009]
 
 (3) The Official Assignee shall, in accordance with such rules as may be prescribed, admit or reject, in whole or in part, any proof of debt filed under this Part.
 
+[6/2009]
+
 (4) Any debtor or creditor who is dissatisfied with the Official Assignee’s decision under subsection (3) may, within such time and in such manner as may be prescribed, appeal to the court against the decision.
+
+[6/2009]
 
 (5) The court may, on hearing an appeal under subsection (4), confirm, reverse or vary the decision of the Official Assignee.
 
-(6) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme.
+[6/2009]
+
+(6) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme under this Part.
+
+[6/2009]
 
 ### Modification of debt repayment plan
 
@@ -1413,11 +1482,19 @@ except by leave of the court and in accordance with such terms as the court may 
 
 modify the plan in such manner as he considers appropriate.
 
+[6/2009]
+
 (2) Before making any modification to the debt repayment plan, the Official Assignee shall, by notice in writing to the debtor and all the creditors who have proved their debts under the debt repayment scheme, convene and preside at a meeting of creditors.
+
+[6/2009]
 
 (3) Subject to subsection (6), the Official Assignee may, at or after the meeting of creditors, refuse to modify the debt repayment plan or may make such modifications to the plan as he considers appropriate.
 
+[6/2009]
+
 (4) The debtor or any creditor who has proved his debt under the debt repayment scheme may, within such time and in such manner as may be prescribed, appeal to the Appeal Panel against the Official Assignee’s decision under subsection (3) on the ground that the decision unfairly prejudices his interests.
+
+[6/2009]
 
 (5) The Appeal Panel may determine the appeal by —
 
@@ -1427,11 +1504,15 @@ modify the plan in such manner as he considers appropriate.
 
 and the decision of the Appeal Panel shall be final.
 
+[6/2009]
+
 (6) Subject to such further restrictions on the extension of the repayment period of a debt repayment plan as may be prescribed, any extension under this section of the repayment period of the plan shall be subject to the repayment period not exceeding at any time —
 
 (a) where the plan includes a debt referred to in section 56G(1)(b) or (c), 7 years; or
 
 (b) in any other case, 5 years.
+
+[6/2009]
 
 (7) If a debt repayment plan is modified under this section, the modification shall take effect on such date as may be specified by the Official Assignee in his modification of the plan under subsection (3) and as from that date, the plan as modified shall be binding on —
 
@@ -1441,7 +1522,11 @@ and the decision of the Appeal Panel shall be final.
 
 (c) where the plan is modified to include the debt of a creditor referred to in subsection (1)(c), that creditor.
 
-(8) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme.
+[6/2009]
+
+(8) An appeal under subsection (4) shall not suspend the commencement, operation or effect of a debt repayment scheme under this Part.
+
+[6/2009]
 
 ### Priority of debts and interest on debts
 
@@ -1461,13 +1546,23 @@ and the decision of the Appeal Panel shall be final.
 
 (g) seventhly, the amount of all taxes assessed and any goods and services tax due under any written law on or before the effective date of the scheme.
 
+[6/2009]
+
 (2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the debtor or $7,500, whichever is the lesser.
+
+[6/2009]
 
 (3) The Minister may, by order published in theGazette, amend subsection (2) by varying the amount specified in that subsection as the maximum amount payable under subsection (1)(b) and (c).
 
+[6/2009]
+
 (4) The debts in each class specified in subsection (1) shall rank in the order therein specified but debts of the same class shall rank equally between themselves, and shall be paid in full, unless the amount standing to the credit of the debtor in the Debt Repayment Schemes Account is insufficient to meet them, in which case they shall abate in equal proportions between themselves.
 
+[6/2009]
+
 (5) Where any payment has been made to any employee of the debtor on account of wages, salary or vacation leave out of money advanced by a person for that purpose, the person by whom the money was advanced shall, under the debt repayment plan, have a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the employee would have been entitled to priority under this section has been diminished by reason of the payment, and shall have the same right of priority in respect of that amount as the employee would have had if the payment had not been made.
+
+[6/2009]
 
 (6) Subject to subsection (7), where a debt proved by a creditor under a debt repayment scheme includes interest, the interest shall be calculated —
 
@@ -1475,9 +1570,15 @@ and the decision of the Appeal Panel shall be final.
 
 (b) in any other case, at such rate as may be prescribed unless the debt repayment plan under the scheme stipulates that the rate shall be the higher rate to which the creditor is entitled under any written law or rule of law.
 
+[6/2009]
+
 (7) For the purposes of paragraph (b) of subsection (6), a debtor shall not be required under a debt repayment plan to pay interest at a rate higher than the rate prescribed under that paragraph unless the Official Assignee is satisfied that the debtor has sufficient funds to pay in full all his debts proved under the scheme and included in the plan, interest on such debts at the higher rate, and the costs and expenses specified in subsection (1)(a).
 
+[6/2009]
+
 (8) Interest on preferential debts shall rank equally with interest on debts other than preferential debts.
+
+[6/2009]
 
 (9) In this section —
 
@@ -1499,15 +1600,25 @@ and the decision of the Appeal Panel shall be final.
 
 (c) any amount payable to an employee, on termination of his employment, as a gratuity under any contract of employment, or under any award or agreement that regulates the conditions of his employment, whether such amount becomes payable before, on or after the effective date of the debt repayment scheme.
 
+[6/2009]
+
 ### Payment and distribution of moneys under debt repayment scheme
 
 56J\.—(1) A debtor to whom a debt repayment scheme applies shall make all payments under his debt repayment plan to the Official Assignee.
 
+[6/2009]
+
 (2) The Official Assignee may, from time to time, subject to the retention of such sums as may be necessary for the costs and expenses of the administration of the debt repayment scheme, and in accordance with section 56I, the debt repayment plan and such rules as may be prescribed, declare and distribute dividends amongst the creditors who have proved their debts under the scheme and whose debts are included in the plan.
+
+[6/2009]
 
 (3) No action for a dividend shall lie against the Official Assignee.
 
+[6/2009]
+
 (4) If the Official Assignee refuses to pay any dividend, the court may, if it thinks fit, order the Official Assignee to pay the dividend, and also to pay out of the Consolidated Fund interest thereon for the period that it is withheld and the costs of the application to the court.
+
+[6/2009]
 
 Division 4 —
 
@@ -1529,7 +1640,11 @@ Cessation of debt repayment scheme
 
 whichever first occurs.
 
+[6/2009]
+
 (2) Upon the cessation of a debt repayment scheme, the debt repayment plan under the scheme shall cease to have effect.
+
+[6/2009]
 
 ### Certificate of inapplicability of debt repayment scheme
 
@@ -1538,6 +1653,8 @@ whichever first occurs.
 (a) the aggregate of the debts referred to in section 56G(1)(a) and proved under the scheme exceeds, at any time, $100,000 or such other amount as may be specified by the Minister under section 56B(2)(a); or
 
 (b) the aggregate of the debts referred to in section 56G(1)(b) and (c) and proved under the scheme exceeds, at any time, $50,000 or such other amount as the Minister may, by order published in theGazette, specify.
+
+[6/2009]
 
 ### Certificate of failure of debt repayment scheme
 
@@ -1571,7 +1688,11 @@ whichever first occurs.
 
 (l) the debtor becomes a sole proprietor, a partner of a firm within the meaning of the Partnership Act (Cap. 391) or a partner in a limited liability partnership during the scheme without the consent of the Official Assignee.
 
+[6/2009]
+
 (2) Subsection (1)(c), in relation to the disposal of property, shall not apply to the payment of ordinary expenses of the debtor and his dependants.
+
+[6/2009]
 
 (3) For the purpose of subsection (1)(h), a debtor enters into a transaction with a person at an undervalue if the debtor —
 
@@ -1581,9 +1702,15 @@ whichever first occurs.
 
 (c) enters into a transaction with that person for a consideration the value of which, in money or money’s worth, is significantly less than the value, in money or money’s worth, of the consideration provided by the debtor.
 
+[6/2009]
+
 (4) The Official Assignee shall not issue any certificate of failure of a debt repayment scheme under subsection (1) in respect of any transaction entered into by the debtor at an undervalue unless the debtor was insolvent at the time he entered into the transaction or became insolvent in consequence of the transaction.
 
+[6/2009]
+
 (5) Where a debtor enters into a transaction at an undervalue with a person who is an associate of his (otherwise than by reason only of being his employee), the requirements under subsection (4) shall be presumed to be satisfied unless the contrary is shown.
+
+[6/2009]
 
 (6) For the purpose of subsection (1)(i), a debtor gives an unfair preference to a person if —
 
@@ -1591,15 +1718,23 @@ whichever first occurs.
 
 (b) the debtor does anything or suffers anything to be done which has the effect of putting that person into a position which is better than the position he would have been in if that thing had not been done.
 
+[6/2009]
+
 (7) The Official Assignee shall not issue any certificate of failure of a debt repayment scheme under subsection (1) in respect of any unfair preference given by a debtor to any person unless the debtor —
 
 (a) was insolvent at the time he gave the preference or became insolvent in consequence of the preference; and
 
 (b) was influenced in deciding to give the preference by a desire to produce in relation to that person the effect mentioned in subsection (6)(b).
 
+[6/2009]
+
 (8) A debtor who has given an unfair preference to a person who, at the time the unfair preference was given, was an associate of his (otherwise than by reason only of being his employee) shall be presumed, unless the contrary is shown, to have been influenced in deciding to give it by such a desire as is mentioned in subsection (7)(b).
 
+[6/2009]
+
 (9) The fact that something has been done pursuant to an order of a court does not, without more, prevent the doing or suffering of that thing from constituting the giving of an unfair preference.
+
+[6/2009]
 
 (10) For the purposes of this section, a debtor is insolvent if —
 
@@ -1607,11 +1742,17 @@ whichever first occurs.
 
 (b) the value of his assets is less than the amount of his liabilities, taking into account his contingent and prospective liabilities.
 
+[6/2009]
+
 (11) Any question whether a person is an associate of another person shall be determined in accordance with section 101(2) to (10).
+
+[6/2009]
 
 ### Certificate of completion of debt repayment scheme
 
 56N\.—(1) The Official Assignee shall issue a certificate of completion of a debt repayment scheme in respect of a debtor if the debtor repays, in accordance with this Part and the debt repayment plan under the scheme, his debts which have been proved under the scheme and included in the plan.
+
+[6/2009]
 
 (2) Subject to this Act and any other written law, the certificate of completion of the debt repayment scheme shall, upon being issued, release the debtor from all his debts provable under the scheme except a debt which —
 
@@ -1619,7 +1760,11 @@ whichever first occurs.
 
 (b) in respect of which a proof of debt was not filed under the scheme.
 
-(3) Subsections (2) to (8) of section 127 shall apply to or in respect of the debtor as if a reference to discharge in those provisions is a reference to the certificate of completion of the debt repayment scheme and a reference to bankrupt in those provisions is a reference to the debtor.
+[6/2009]
+
+(3) Subsections (2) to (8) of section 127 shall apply to or in respect of the debtor as if a reference to discharge in those provisions is a reference to the certificate of completion of the debt repayment scheme and a reference to a bankrupt in those provisions is a reference to the debtor.
+
+[6/2009]
 
 ### Revocation of certificate of completion of debt repayment scheme
 
@@ -1629,9 +1774,15 @@ whichever first occurs.
 
 (b) had obtained the approval or modification of the debt repayment plan under the scheme by means of fraud, false representation or the concealment of any material fact.
 
+[6/2009]
+
 (2) Subsection (1)(a), in relation to the disposal of property, shall not apply to the payment of ordinary expenses of the debtor and his dependants.
 
+[6/2009]
+
 (3) Upon the revocation of the certificate of completion of the debt repayment scheme, the debtor’s release from his debts under section 56N(2) shall cease.
+
+[6/2009]
 
 Division 5 —
 
@@ -1661,11 +1812,17 @@ Miscellaneous
 
 (h) generally do all such acts and things in relation to the scheme as may be reasonably required by the Official Assignee or as may be prescribed.
 
+[6/2009]
+
 ### Appeal Panel and Appeal Panel Committee
 
 56Q\.—(1) For the purpose of hearing appeals from the decisions of the Official Assignee under sections 56D and 56H, there shall be established an Appeal Panel consisting of such members as may be appointed by the Minister from time to time.
 
+[6/2009]
+
 (2) The appointment of the members of the Appeal Panel shall be for such period and on such terms as the Minister may determine.
+
+[6/2009]
 
 (3) The Minister may appoint from amongst the members of the Appeal Panel, for such period and on such terms as the Minister may determine —
 
@@ -1673,15 +1830,27 @@ Miscellaneous
 
 (b) such number of Deputy Chairmen of the Appeal Panel as the Minister thinks fit.
 
+[6/2009]
+
 (4) There shall be paid to the Chairman, Deputy Chairmen and other members of the Appeal Panel such remuneration and allowances as the Minister may determine.
+
+[6/2009]
 
 (5) The Minister may at any time revoke any appointment under subsection (2) or (3).
 
+[6/2009]
+
 (6) Every member of the Appeal Panel shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+[6/2009]
 
 (7) All the powers, functions and duties of the Appeal Panel may be exercised, discharged and performed by an Appeal Panel Committee consisting of such number of members of the Appeal Panel as may be prescribed, at least one of whom shall be the Chairman or a Deputy Chairman of the Appeal Panel.
 
+[6/2009]
+
 (8) Subject to subsection (7), the members of an Appeal Panel Committee shall be determined by the Minister.
+
+[6/2009]
 
 (9) Any act or decision of an Appeal Panel Committee shall be deemed to be an act or a decision of the Appeal Panel.
 
@@ -1693,21 +1862,33 @@ Miscellaneous
 
 (c) shall be accompanied by the prescribed fee.
 
+[6/2009]
+
 ### Validity of things done under debt repayment scheme
 
 56R\. The cessation of a debt repayment scheme or the revocation of a certificate of completion of the scheme shall be without prejudice to the validity of anything done under or in relation to the scheme.
+
+[6/2009]
 
 ### Offences
 
 56S\.—(1) Any creditor who makes or submits any claim, proof, declaration or statement of account under a debt repayment scheme which is untrue in any material particular shall be guilty of an offence unless he satisfies the court that he had no intent to defraud.
 
+[6/2009]
+
 (2) Any person guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[6/2009]
+
 (3) Fines imposed under this section shall be paid into the Debt Repayment Scheme Assistance Fund maintained under section 164A.
+
+[6/2009]
 
 ### Rules for purposes of this Part
 
 56T\.—(1) The Minister may make such rules as may be necessary or expedient for carrying out the purposes and provisions of this Part.
+
+[6/2009]
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make rules for or with respect to —
 
@@ -1731,6 +1912,8 @@ Miscellaneous
 
 (j) all matters and things which are required or permitted to be prescribed under this Part.
 
+[6/2009]
+
 ## PART VI
 
 PROCEEDINGS IN BANKRUPTCY
@@ -1749,15 +1932,23 @@ Bankruptcy applications and bankruptcy orders
 
 (b) against a firm by —
 
-(i) one of the firm’s creditors or jointly by more than one of them, if such creditor or creditors are entitled under paragraph (a)(i) to make a creditor’s petition against any one of the partners in the firm in respect of a partnership debt; or
+(i) one of the firm’s creditors or jointly by more than one of them, if such creditor or creditors are entitled under paragraph (a)(i) to make a creditor’s bankruptcy application against any one of the partners in the firm in respect of a partnership debt; or
 
 (ii) the nominee supervising the implementation of, or any person (other than the partners in the firm) who is for the time being bound by, a voluntary arrangement proposed by the firm and approved under Part V.
 
+[42/2005]
+
 (2) A creditor who is entitled to make a bankruptcy application against a firm under subsection (1)(b) may make a bankruptcy application against any of the partners in the firm without including the others.
+
+[42/2005]
 
 (3) Every creditor’s bankruptcy application shall be in the prescribed form and shall be supported by an affidavit of the creditor or of some person on his behalf having knowledge of the facts.
 
+[42/2005]
+
 (4) Every creditor’s bankruptcy application shall be served in the manner prescribed.
+
+[42/2005]
 
 ### Persons who may make debtor’s bankruptcy application
 
@@ -1766,6 +1957,8 @@ Bankruptcy applications and bankruptcy orders
 (a) against an individual debtor by the debtor himself; or
 
 (b) against a firm by all the partners in the firm or by a majority of such partners who are residing in Singapore at the time of the making of the application.
+
+[42/2005]
 
 (2) A debtor’s bankruptcy application shall be in the prescribed form and shall be supported by an affidavit to which is exhibited —
 
@@ -1779,11 +1972,13 @@ Bankruptcy applications and bankruptcy orders
 
 (c) a statement containing such other information as may be prescribed.
 
-[42/2005 wef 01/04/2006]
+[42/2005]
 
 ### Bankruptcy order
 
 59\. Subject to this Part, the court may make a bankruptcy order on a bankruptcy application made under section 57 or 58.
+
+[42/2005]
 
 ### Conditions to be satisfied in respect of debtor
 
@@ -1799,6 +1994,8 @@ Bankruptcy applications and bankruptcy orders
 
 (ii) carried on business in Singapore.
 
+[42/2005]
+
 (2) No bankruptcy application shall be made to the court under section 57(1)(b) or 58(1)(b) against a firm unless —
 
 (a) at least one of the partners in the firm —
@@ -1811,25 +2008,27 @@ Bankruptcy applications and bankruptcy orders
 
 (b) the firm has, at any time within the period of one year immediately preceding the date of the making of the application, carried on business in Singapore.
 
+[42/2005]
+
 (3) The reference in subsection (1)(c)(ii) to an individual carrying on business in Singapore shall include —
 
 (a) the carrying on of business in Singapore by a firm in which the individual is a partner; and
 
-(b) the carrying on of business in Singapore by an agent or manager for the individual or for such a firm.
+(b) the carrying on of business in Singapore by an agent or a manager for the individual or for such a firm.
 
 ### Grounds of bankruptcy application
 
 61\.—(1) No bankruptcy application shall be made to the court in respect of any debt or debts unless at the time the application is made —
 
-(a) the amount of the debt, or the aggregate amount of the debts, is not less than $10,0001;
-
-1see— Bankruptcy (Variation of Minimum Amount of Debt for Petition for Bankruptcy) Order 1999 (S 301/99).
+(a) the amount of the debt, or the aggregate amount of the debts, is not less than $10,000;
 
 (b) the debt or each of the debts is for a liquidated sum payable to the applicant creditor immediately;
 
 (c) the debtor is unable to pay the debt or each of the debts; and
 
-(d) where the debt or each of the debts is incurred outside Singapore, such debt is payable by the debtor to the applicant creditor by virtue of a judgment or award which is enforceable by execution in Singapore.
+(d) where the debt or each of the debts is incurred outside Singapore, such debt is payable by the debtor to the applicant creditor by virtue of a judgment or an award which is enforceable by execution in Singapore.
+
+[42/2005]
 
 (2) The Minister may, by order published in theGazette, amend subsection (1)(a) by substituting a different sum for the sum for the time being specified therein.
 
@@ -1859,7 +2058,7 @@ Bankruptcy applications and bankruptcy orders
 
 in respect of the debtor within 90 days immediately preceding the date on which the bankruptcy application is made, and the applicant creditor had proved the debt under that debt repayment scheme.
 
-[6/2009 wef 18/05/2009]
+[42/2005; 6/2009]
 
 ### Where applicant for bankruptcy order is secured creditor
 
@@ -1869,11 +2068,15 @@ in respect of the debtor within 90 days immediately preceding the date on which 
 
 (b) give an estimate of the value of his security, in which case he may to the extent of the balance of the debt due to him, after deducting the value so estimated, be admitted as a creditor in the same manner as if he were an unsecured creditor.
 
+[42/2005]
+
 (2) Where an applicant for a bankruptcy order who is a secured creditor of the debtor fails to disclose his security in the application, he shall be deemed to have given up his security for the benefit of the other creditors of the debtor and upon the making of a bankruptcy order —
 
 (a) he shall not be entitled to enforce his security against the estate of the bankrupt or to retain any proceeds from the realisation of such security; and
 
 (b) he shall execute such document of release as is required by the Official Assignee or account and pay over to the Official Assignee all proceeds from any realisation of his security.
+
+[42/2005]
 
 (3) Where any secured creditor fails to execute any document of release as is required by the Official Assignee under subsection (2)(b), the Official Assignee may execute the document on his behalf and the execution of the document by the Official Assignee shall have the same effect as the execution thereof by the secured creditor.
 
@@ -1885,7 +2088,11 @@ in respect of the debtor within 90 days immediately preceding the date on which 
 
 64\.—(1) The court may at any time, for sufficient reason, make an order staying the proceedings on a bankruptcy application, either altogether or for a limited time, on such terms and conditions as the court may think just.
 
+[42/2005]
+
 (2) Without prejudice to subsection (1), where it appears to the court that the person making a bankruptcy application has contravened any of the provisions of this Act or any rules in relation to proceedings on a bankruptcy application, the court may, in its discretion, dismiss the application in lieu of staying any proceedings thereon under that subsection.
+
+[42/2005]
 
 ### Proceedings on creditor’s bankruptcy application
 
@@ -1894,6 +2101,8 @@ in respect of the debtor within 90 days immediately preceding the date on which 
 (a) the debt or any one of the debts in respect of which the application is made is a debt which, having been payable at the date of the application, has neither been paid nor secured or compounded for; and
 
 (b) where the debtor does not appear at the hearing, the application has been duly served on him.
+
+[42/2005]
 
 (2) The court may dismiss the application if —
 
@@ -1907,6 +2116,8 @@ in respect of the debtor within 90 days immediately preceding the date on which 
 
 (e) it is satisfied that for other sufficient cause no order ought to be made thereon.
 
+[42/2005]
+
 (3) In determining for the purposes of subsection (2)(c) whether the debtor is able to pay all his debts, the court shall take into account his contingent and prospective liabilities.
 
 (4) When a bankruptcy application has been made against a debtor on the ground that the debtor —
@@ -1916,6 +2127,8 @@ in respect of the debtor within 90 days immediately preceding the date on which 
 (b) has failed to comply with a statutory demand, and there is pending an application to set aside the statutory demand,
 
 the court may, if it thinks fit, stay or dismiss the application.
+
+[42/2005]
 
 (5) Where the debtor appears at the hearing of the application and denies that he is —
 
@@ -1931,7 +2144,11 @@ the court may, on condition that the debtor furnishes such security as the court
 
 stay all proceedings on the application for such time as may be required for trial of the question relating to the debt.
 
+[42/2005]
+
 (6) Where proceedings are stayed, the court may, if by reason of the delay caused by the stay of proceedings or for any other cause it thinks just, make a bankruptcy order on the application of some other creditor, and shall thereupon dismiss, on such terms as it may think just, the application in which proceedings have been stayed.
+
+[42/2005]
 
 (7) If a bankruptcy order may be made on the bankruptcy application, the court shall, instead of making the order, adjourn the bankruptcy application for a period of 6 months or such other period as the court may direct and refer the matter to the Official Assignee for the purpose of enabling the Official Assignee to determine whether the debtor is suitable for a debt repayment scheme under Part VA, if the following qualifying criteria are satisfied:
 
@@ -1945,7 +2162,7 @@ stay all proceedings on the application for such time as may be required for tri
 
 (e) the debtor is not a sole proprietor, a partner of a firm within the meaning of the Partnership Act (Cap. 391) or a partner in a limited liability partnership.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (8) The court shall proceed to hear a bankruptcy application adjourned under subsection (7) if —
 
@@ -1953,15 +2170,15 @@ stay all proceedings on the application for such time as may be required for tri
 
 (b) at the expiry of the period of adjournment, a debt repayment scheme has not commenced under Part VA in respect of the debtor.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (9) If at any time during the period of adjournment of a bankruptcy application under subsection (7) a debt repayment scheme commences under Part VA in respect of the debtor, the bankruptcy application shall be deemed to be withdrawn on the date of commencement of the debt repayment scheme.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (10) The court may give such orders or directions as it thinks fit for the adjournment, hearing or disposal of a bankruptcy application referred to in subsection (7).
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (11) For the purpose of subsection (7)(d), a person in respect of whom the Official Assignee issues —
 
@@ -1975,15 +2192,15 @@ stay all proceedings on the application for such time as may be required for tri
 
 shall not be treated as having been subject to that debt repayment scheme.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (12) In subsection (7)(a), “debt” has the same meaning as in section 56A(1).
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
-(13) Subsections (7) to (12) shall only apply to bankruptcy applications made on or after the commencement of section 10 of the Bankruptcy (Amendment) Act 2009.
+(13) Subsections (7) to (12) shall only apply to bankruptcy applications made on or after 18th May 2009.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 ### Proceedings on bankruptcy application by nominee or creditor bound by voluntary arrangement
 
@@ -1999,11 +2216,17 @@ shall not be treated as having been subject to that debt repayment scheme.
 
 (c) that the debtor has failed to do all such things as may for the purposes of the voluntary arrangement have been reasonably required of him by the nominee of the arrangement.
 
+[42/2005]
+
 ### Proceedings on debtor’s bankruptcy application
 
 67\.—(1) The court hearing a debtor’s bankruptcy application shall not make a bankruptcy order thereon unless it is satisfied that the debtor is unable to pay his debts.
 
+[42/2005]
+
 (2) Where a debtor’s bankruptcy application has been made against a firm by some, but not all, of the partners in the firm, the court shall not make a bankruptcy order thereon unless it is satisfied that notice of the application in the prescribed form has been served in the prescribed manner on each of the partners who did not join in the application.
+
+[42/2005]
 
 (3) If a bankruptcy order may be made on the bankruptcy application, the court shall, instead of making the order, adjourn the bankruptcy application for a period of 6 months or such other period as the court may direct and refer the matter to the Official Assignee for the purpose of enabling the Official Assignee to determine whether the debtor is suitable for a debt repayment scheme under Part VA, if the following qualifying criteria are satisfied:
 
@@ -2017,7 +2240,7 @@ shall not be treated as having been subject to that debt repayment scheme.
 
 (e) the debtor is not a sole proprietor, a partner of a firm within the meaning of the Partnership Act (Cap. 391) or a partner in a limited liability partnership.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (4) The court shall proceed to hear a bankruptcy application adjourned under subsection (3) if —
 
@@ -2025,15 +2248,15 @@ shall not be treated as having been subject to that debt repayment scheme.
 
 (b) at the expiry of the period of adjournment, a debt repayment scheme has not commenced under Part VA in respect of the debtor.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (5) If at any time during the period of adjournment of a bankruptcy application under subsection (3) a debt repayment scheme commences under Part VA in respect of the debtor, the bankruptcy application shall be deemed to be withdrawn on the date of commencement of the debt repayment scheme.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (6) The court may give such orders or directions as it thinks fit for the adjournment, hearing or disposal of a bankruptcy application referred to in subsection (3).
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (7) For the purpose of subsection (3)(d), a person in respect of whom the Official Assignee issues —
 
@@ -2047,23 +2270,27 @@ shall not be treated as having been subject to that debt repayment scheme.
 
 shall not be treated as having been subject to that debt repayment scheme.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 (8) In subsection (3)(a), “debt” has the same meaning as in section 56A(1).
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
-(9) Subsections (3) to (8) shall only apply to bankruptcy applications made on or after the commencement of section 11 of the Bankruptcy (Amendment) Act 2009.
+(9) Subsections (3) to (8) shall only apply to bankruptcy applications made on or after 18th May 2009.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 ### Consolidation of bankruptcy applications
 
 68\. Where 2 or more bankruptcy applications are made against the same debtor, the court may consolidate the proceedings or any of them on such terms as the court thinks fit.
 
+[42/2005]
+
 ### Power to dismiss application against some respondents only
 
 69\. Where there are 2 or more respondents to an application, the court may dismiss the application as to one or more of them, without prejudice to the effect of the application as against the other or others of them.
+
+[42/2005]
 
 ### Power to change conduct of proceedings
 
@@ -2075,19 +2302,27 @@ shall not be treated as having been subject to that debt repayment scheme.
 
 and thereafter the proceedings shall, unless the court otherwise directs, be continued as though no change had been made in the conduct of the proceedings.
 
+[42/2005]
+
 ### Continuance of proceedings on death of debtor
 
 71\. If a debtor by or against whom a bankruptcy application has been made dies, the proceedings in the matter shall, unless the court otherwise directs, be continued as if he were alive, and the court may dispense with service of the application upon him.
 
+[42/2005]
+
 ### Withdrawal of bankruptcy application
 
 72\. Subject to sections 65(9) and 67(5), a bankruptcy application shall not be withdrawn without the leave of the court.
+
+[42/2005; 6/2009]
 
 Protection of debtor’s property
 
 ### Appointment of interim receiver
 
 73\.—(1) The court may, if it thinks it necessary or expedient for the protection of the debtor’s property, at any time after the making of a bankruptcy application and before making a bankruptcy order, appoint the Official Assignee to be interim receiver of the debtor’s property or any part thereof and direct him to take immediate possession of the same, including any books of accounts and other documents relating to the debtor’s business.
+
+[42/2005]
 
 (2) Where the court has appointed an interim receiver under subsection (1), no person who is a creditor of the debtor in respect of a debt provable in bankruptcy shall —
 
@@ -2121,9 +2356,13 @@ as the interim receiver may for the purpose of carrying out his functions under 
 
 (c) the court by order terminates the appointment.
 
+[42/2005]
+
 ### Power to stay proceedings against person or property of debtor
 
 74\.—(1) Any court may by order, at any time after the making of a bankruptcy application, stay any action, execution or other legal process against the person or property of the debtor.
+
+[42/2005]
 
 (2) Where an order is made under subsection (1) staying any action or proceedings or staying proceedings generally, the order may be served by sending a copy thereof, under the seal of the court, by prepaid registered post to the address for service of the plaintiff or other party prosecuting such proceedings.
 
@@ -2161,6 +2400,8 @@ Bankruptcy
 
 except by leave of the court and in accordance with such terms as the court may impose.
 
+[6/2009]
+
 (2) Where a bankruptcy order is made against a firm, the order shall operate as if it were a bankruptcy order made against each of the persons who, at the time of the order, is a partner in the firm.
 
 (3) This section shall not affect the right of any secured creditor to realise or otherwise deal with his security in the same manner as he would have been entitled to realise or deal with it if this section had not been enacted.
@@ -2171,6 +2412,8 @@ except by leave of the court and in accordance with such terms as the court may 
 
 77\.—(1) Where a person is adjudged bankrupt, any disposition of property made by him during the period beginning with the day of the making of the bankruptcy application and ending with the making of the bankruptcy order shall be void except to the extent that such disposition has been made with the consent of, or been subsequently ratified by, the court.
 
+[42/2005]
+
 (2) For the purpose of this section, a disposition of property shall include any payment (whether in cash or otherwise) made to any person by the bankrupt and accordingly, where any payment is void by virtue of this section, the person to whom the payment was made shall hold the sum paid for the bankrupt as part of his estate.
 
 (3) Nothing in this section shall give a remedy against any person in respect of —
@@ -2178,6 +2421,8 @@ except by leave of the court and in accordance with such terms as the court may 
 (a) any property or payment which he received from the bankrupt before the commencement of the bankruptcy in good faith, for value and without notice that the bankruptcy application had been made; or
 
 (b) any interest in property which derives from an interest in respect of which there is, by virtue of this subsection, no remedy.
+
+[42/2005]
 
 (4) Where, after the commencement of his bankruptcy, the bankrupt has incurred a debt to a banker or any other person by reason of the making of a payment which is void under this section, that debt shall be deemed for the purposes of this Act to have been incurred before the commencement of the bankruptcy unless —
 
@@ -2229,9 +2474,17 @@ Inquiry into bankrupt’s affairs, dealings and property
 
 (6) On a vacancy occurring in the office of a member of the creditors’ committee, the Official Assignee shall forthwith summon a meeting of creditors for the purpose of filling the vacancy, and the meeting may by ordinary resolution appoint another creditor or eligible person to fill the vacancy.
 
+1(7) In this section, “general powers of attorney” include lasting powers of attorney registered under the Mental Capacity Act 2008 (Act 22 of 2008).
+
+[22/2008]
+
+1Subsection (7) of section 80, inserted by the Mental Capacity Act (Act 22 of 2008), will come into operation when item (1) in the Third Schedule to the Mental Capacity Act 2008 is brought into operation.
+
 ### Bankrupt’s statement of affairs
 
 81\.—(1) Where a bankruptcy order has been made against an individual otherwise than on a debtor’s bankruptcy application, the bankrupt shall submit a statement of his affairs to the Official Assignee within 21 days from the date of the bankruptcy order.
+
+[42/2005]
 
 (2) Where a bankruptcy order has been made against a firm —
 
@@ -2240,6 +2493,8 @@ Inquiry into bankrupt’s affairs, dealings and property
 (b) on a debtor’s bankruptcy application, every person who at the time of the order is a partner in the firm but who did not join in the application shall submit a statement of his separate affairs,
 
 to the Official Assignee within 21 days from the date of the bankruptcy order.
+
+[42/2005]
 
 (3) The statement of affairs referred to in subsection (2) shall contain —
 
@@ -2265,7 +2520,7 @@ to the Official Assignee within 21 days from the date of the bankruptcy order.
 
 (c) submits a statement of affairs which is false, and which he either knows or believes to be false or does not believe to be true; or
 
-(d) submits a statement which is misleading in any material particular or contains any material omission,
+(d) submits a statement of affairs which is misleading in any material particular or contains any material omission,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
 
@@ -2315,11 +2570,11 @@ if it appears to the court that such person would be able to give information co
 
 (9) The court shall cause to be made such record of the examination as the court thinks proper and any record so made may thereafter be used in evidence against the person in the course of whose examination the record was made.
 
-[17/2005 wef 15/07/2005]
+[17/2005]
 
 (10) Any record made under subsection (9) shall, at all reasonable times and upon payment of the prescribed fee, be made available to any creditor for review at the court premises.
 
-[17/2005 wef 15/07/2005]
+[17/2005]
 
 (11) Where the court is of the opinion that the affairs of the bankrupt have been sufficiently investigated, it shall, by order, conclude the examination.
 
@@ -2377,6 +2632,8 @@ Proof of debts
 
 (2) A person having notice of the making of a bankruptcy application shall not prove under the bankruptcy order made thereon for any debt or liability contracted by the bankrupt subsequently to the date of his so having notice.
 
+[42/2005]
+
 (3) Subject to this section and section 90, any debt or liability to which the bankrupt —
 
 (a) is subject at the date of the bankruptcy order; or
@@ -2405,6 +2662,8 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (b) arises by reason of an obligation incurred at a time when the creditor had notice that a bankruptcy application relating to the bankrupt was pending.
 
+[42/2005]
+
 ### Rules as to proof of debts
 
 89\. With respect to the mode of proving debts, the right of proof by secured and other creditors, the admission and rejection of proofs and any other matters, the prescribed rules shall be observed.
@@ -2427,7 +2686,9 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (g) seventhly, the amount of all taxes assessed and any goods and services tax due under any written law before the date of the bankruptcy order or assessed at any time before the time fixed for the proving of debts has expired.
 
-(2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the bankrupt or $7,500, whichever is the less.
+[42/2005,5/2008]
+
+(2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by any employee to the bankrupt or $7,500, whichever is the lesser.
 
 (3) The Minister may, by order published in theGazette, amend subsection (2) by varying the amount specified in that subsection as the maximum amount payable under subsection (1)(b) and (c).
 
@@ -2445,9 +2706,9 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 
 (5) For the purposes of subsection (1)(c) —
 
-“"ex gratia payment" ” means the amount payable to an employee on the bankruptcy of his employer or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
+“ex gratia payment” means the amount payable to an employee on the bankruptcy of his employer or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
 
-“"retrenchment benefit" ” means the amount payable to an employee on the bankruptcy of his employer, on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
+“retrenchment benefit” means the amount payable to an employee on the bankruptcy of his employer, on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
 
 (6) The debts in each class specified in subsection (1) shall rank in the order therein specified but debts of the same class shall rank equally between themselves, and shall be paid in full, unless the property of the bankrupt is insufficient to meet them, in which case they shall abate in equal proportions between themselves.
 
@@ -2476,6 +2737,8 @@ and any interest on such debt or liability which is payable by the bankrupt in r
 (b) is in respect of rent for a period or part thereof after the distress was levied,
 
 shall be held by the landlord or other person in trust for the bankrupt as part of his estate and the landlord or other person shall, upon being given notice by the Official Assignee to do so, make over to the Official Assignee the amount so held in trust by him for the bankrupt.
+
+[42/2005]
 
 (3) Where any person (whether or not a landlord or person entitled to rent) has distrained upon the goods or effects of an individual who is adjudged bankrupt before the end of the period of 3 months beginning with the distraint, so much of those goods or effects, or of the proceeds of their sale, as is not held by him in trust for the bankrupt under subsection (2) shall be charged for the benefit of the bankrupt’s estate with the preferential debts of the bankrupt to the extent that the bankrupt’s estate is for the time being insufficient for meeting those debts.
 
@@ -2599,9 +2862,15 @@ Effect of bankruptcy on antecedent transactions
 
 (2) Where a second or subsequent bankruptcy order is made against a bankrupt, or where an order is made for the administration in bankruptcy of the estate of a deceased bankrupt, any property acquired by him since he was last adjudged bankrupt, which at the date when the subsequent application was made had not been distributed amongst the creditors in the last preceding bankruptcy, shall (subject to any disposition thereof made by the Official Assignee in that bankruptcy without knowledge of the making of the subsequent application) vest in the Official Assignee on account of the subsequent bankruptcy or administration in bankruptcy, as the case may be.
 
+[42/2005]
+
 (3) Where the Official Assignee in any bankruptcy receives notice of a subsequent application in bankruptcy against the bankrupt or after his death of an application for the administration of his estate in bankruptcy, the Official Assignee shall hold any property then in his possession which has been acquired by the bankrupt since he was adjudged bankrupt until the subsequent application has been disposed of.
 
+[42/2005]
+
 (4) If on a subsequent application a bankruptcy order or an order for the administration of the estate in bankruptcy is made, the Official Assignee shall hold all the property or the proceeds thereof (after deducting his costs and expenses) to the account of the subsequent bankruptcy, or administration in bankruptcy, as the case may be.
+
+[42/2005]
 
 ### Transactions at an undervalue
 
@@ -2645,15 +2914,11 @@ Effect of bankruptcy on antecedent transactions
 
 (ii) in any other case, within the period of 5 years ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt;
 
-[6/2009 wef 18/05/2009]
-
 (b) in the case of an unfair preference which is not a transaction at an undervalue and which is given to a person who is an associate of the individual (otherwise than by reason only of being his employee) —
 
 (i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 2 years before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
 
 (ii) in any other case, within the period of 2 years ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
-
-[6/2009 wef 18/05/2009]
 
 (c) in any other case of an unfair preference which is not a transaction at an undervalue —
 
@@ -2661,7 +2926,7 @@ Effect of bankruptcy on antecedent transactions
 
 (ii) in any other case, within the period of 6 months ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt.
 
-[6/2009 wef 18/05/2009]
+[42/2005; 6/2009]
 
 (2) Where an individual enters into a transaction at an undervalue or gives an unfair preference at a time mentioned in subsection (1)(a), (b) or (c), that time is not a relevant time for the purposes of sections 98 and 99 unless the individual —
 
@@ -2677,9 +2942,9 @@ Effect of bankruptcy on antecedent transactions
 
 (b) the value of his assets is less than the amount of his liabilities, taking into account his contingent and prospective liabilities.
 
-(5) In this section, “relevant bankruptcy application” means the bankruptcy application made against an individual that resulted in the debt repayment scheme referred to in section 62(d) in respect of the individual.
+(5) In this section, “relevant bankruptcy application” means the bankruptcy application made against an individual that resulted in the debt repayment scheme referred to in section 62(d) in respect of that individual.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 ### Meaning of “associate”
 
@@ -2741,7 +3006,7 @@ and where 2 or more persons together satisfy paragraph (a) or (b), they shall be
 
 (4) Any sums required to be paid to the Official Assignee in accordance with an order under section 98 or 99 shall be comprised in the bankrupt’s estate.
 
-(5) For the purposes of this section, the relevant circumstances, in relation to a transaction or unfair preference, shall be —
+(5) For the purposes of this section, the relevant circumstances, in relation to a transaction or an unfair preference, shall be —
 
 (a) the circumstances by virtue of which an order under section 98 or 99 could be made in respect of the transaction or preference if the individual in question were adjudged bankrupt within the particular period after the transaction is entered into or the unfair preference given; and
 
@@ -2780,6 +3045,8 @@ and it shall be presumed, unless the contrary is proved, that the transaction wa
 104\.—(1) This section shall apply where a person engaged in any business makes a general assignment to another person of his existing or future book debts, or any class of them, and is subsequently adjudged bankrupt.
 
 (2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the making of the bankruptcy application, unless the assignment has been registered under the Bills of Sale Act (Cap. 24).
+
+[42/2005]
 
 (3) For the purposes of this section —
 
@@ -2827,6 +3094,8 @@ and it shall be presumed, unless the contrary is proved, that the transaction wa
 
 the Sheriff shall deduct the costs of and incidental to the execution and pay the balance to the Official Assignee, who shall be entitled to retain the same as against the execution creditor.
 
+[42/2005]
+
 Possession, control and realisation of bankrupt’s property
 
 ### Possession of property by Official Assignee
@@ -2869,7 +3138,7 @@ Possession, control and realisation of bankrupt’s property
 
 the court shall, on the application of the Official Assignee, subject to any written law relating to pensions, make such order as it may think just for the payment of the salary, income, half-pay, pension or compensation or of any part thereof to the Official Assignee, to be applied by him in such manner as the court directs.
 
-(3) Nothing in this section shall be deemed to abrogate the right of the Government to dismiss a bankrupt or to declare the pension, half-pay or compensation of any bankrupt to be forfeited.
+(3) Nothing in this section shall be deemed to abrogate the right of the Government to dismiss a bankrupt or to declare the half-pay, pension or compensation of any bankrupt to be forfeited.
 
 (4) In fixing the amount to be received by the Official Assignee under this section, the court shall, without prejudice to subsection (5), have regard to the scale of appropriation of salary in any general rule made for the purposes of this section by the Minister under section 166.
 
@@ -2921,7 +3190,7 @@ and in the case of a contract, if the Official Assignee, after such application 
 
 (9) The court may —
 
-(a) on application by any person either claiming any interest in any disclaimed property or under any liability not discharged by this Act in respect of any disclaimed property;
+(a) on an application by any person either claiming any interest in any disclaimed property or under any liability not discharged by this Act in respect of any disclaimed property;
 
 (b) on hearing such persons as the court may think fit; and
 
@@ -2938,6 +3207,8 @@ make an order for the vesting of the property in or delivery thereof to —
 (10) On the vesting order being made under subsection (9), the property comprised therein shall vest accordingly in the person therein named in that behalf, without any conveyance or assignment for the purpose.
 
 (11) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy application was made.
+
+[42/2005]
 
 (12) Any mortgagee or under-lessee declining to accept a vesting order upon those terms shall be excluded from all interest in and security upon the property.
 
@@ -3005,17 +3276,17 @@ make an order for the vesting of the property in or delivery thereof to —
 
 115\.—(1) Where a bankruptcy order has been made, the Official Assignee may from time to time direct a postal licensee under the Postal Services Act (Cap. 237A) to re-direct and send or deliver to the Official Assignee or otherwise any postal article which would otherwise be sent or delivered by it to the bankrupt at such place or places as may be specified in the direction.
 
-[42/99]
+[42/99; 34/2007]
 
 (2) A direction under this section shall have effect for such period, not exceeding 3 months, as may be specified in the direction.
 
 ### Power to impound passport, etc., of bankrupt
 
-116\.—(1) The Official Assignee may, if he thinks necessary for the purposes of ensuring that a bankrupt does not leave Singapore during the administration of his estate, issue a direction to the Controller of Immigration to request that the bankrupt be prevented from leaving Singapore.
+116\.—(1) The Official Assignee may, if he thinks it necessary for the purposes of ensuring that a bankrupt does not leave Singapore during the administration of his estate, issue a direction to the Controller of Immigration to request that the bankrupt be prevented from leaving Singapore.
 
 (2) Subject to any order issued or made under any written law relating to banishment or immigration, the Controller of Immigration shall pursuant to the direction under subsection (1) take, or cause to be taken by any immigration officer, such measures as may be necessary to prevent the bankrupt named in the direction from leaving Singapore, including the detention of the bankrupt’s passport, certificate of identity or travel document authorising the bankrupt to leave or enter Singapore.
 
-(3) Where the Controller of Immigration has detained the passport, certificate of identity or other travel documents of a bankrupt under subsection (2), the Controller shall forthwith forward the passport, certificate of identity or travel document to the Official Assignee.
+(3) Where the Controller of Immigration has detained the passport, certificate of identity or other travel document of a bankrupt under subsection (2), the Controller shall forthwith forward the passport, certificate of identity or travel document to the Official Assignee.
 
 (4) Notwithstanding subsections (1), (2) and (3), the Official Assignee may, if he thinks fit, detain any passport, certificate of identity or other travel document authorising the bankrupt to leave or enter Singapore.
 
@@ -3043,11 +3314,13 @@ Distribution of property
 
 (6) No dividend shall be paid to any creditor which does not amount to $50.
 
+[6/2009]
+
 ### Claims by unsatisfied creditors
 
 118\.—(1) A creditor who has not proved his debt before the declaration of any dividend shall not be entitled to disturb, by reason that he has not participated in it, the distribution of that dividend or any other dividend declared before his debt was proved.
 
-(2) When a creditor has proved his debt, he shall be entitled to be paid out of any money for the time available for the payment of any further dividend, any dividend or dividends which he has failed to receive.
+(2) When a creditor has proved his debt, he shall be entitled to be paid out of any money for the time being available for the payment of any further dividend, any dividend or dividends which he has failed to receive.
 
 (3) Any dividend or dividends payable under subsection (2) shall be paid before that money is applied to the payment of any such further dividend.
 
@@ -3077,11 +3350,13 @@ Distribution of property
 
 121\.—(1) No action for a dividend shall lie against the Official Assignee.
 
-(2) If the Official Assignee refuses to pay any dividend, the court may if it thinks fit order him to pay it, and also to pay out of the Consolidated Fund interest thereon for the time that it is withheld, and the costs of the application.
+(2) If the Official Assignee refuses to pay any dividend, the court may, if it thinks fit, order the Official Assignee to pay the dividend, and also to pay out of the Consolidated Fund interest thereon for the period that it is withheld and the costs of the application to the court.
 
 ### Right of bankrupt to surplus
 
 122\.—(1) The bankrupt shall be entitled to any surplus remaining after payment in full of his creditors, with interest as by this Act provided, and of the costs, charges and expenses of the proceedings under the bankruptcy application.
+
+[42/2005]
 
 (2) Notwithstanding subsection (1), the court may make an order directing the Official Assignee not to pay the surplus or part thereof to the bankrupt if —
 
@@ -3093,7 +3368,7 @@ Distribution of property
 
 (ii) the property of the bankrupt may become subject to a confiscation order or be required to meet some other order made on those proceedings.
 
-(3) The court may, on application, vary or revoke an order made under subsection (2).
+(3) The court may, on an application, vary or revoke an order made under subsection (2).
 
 ## PART VIII
 
@@ -3110,6 +3385,8 @@ ANNULMENT AND DISCHARGE
 (c) proceedings are pending in Malaysia for the distribution of the bankrupt’s estate and effects amongst the creditors under the bankruptcy law of Malaysia and that the distribution ought to take place there; or
 
 (d) a majority of the creditors in number and value are resident in Malaysia, and that from the situation of the property of the bankrupt or for other causes his estate and effects ought to be distributed among the creditors under the bankruptcy law of Malaysia.
+
+[9/2003]
 
 (2) The court may annul a bankruptcy order whether or not the bankrupt has been discharged from the bankruptcy.
 
@@ -3149,7 +3426,7 @@ ANNULMENT AND DISCHARGE
 
 (2) Every such application shall be served on each creditor who has filed a proof of debt and on the Official Assignee if he is not the applicant, and the court shall hear the Official Assignee and any creditor before making an order of discharge.
 
-(3) Subject to subsection (4) on an application under this section, the court may —
+(3) Subject to subsection (4), on an application under this section, the court may —
 
 (a) refuse to discharge the bankrupt from bankruptcy;
 
@@ -3167,7 +3444,7 @@ as may be specified in the order.
 
 (a) refuse to discharge the bankrupt from bankruptcy;
 
-(b) make an order discharging him subject to his paying a dividend to his creditors of not less than 25% or to the payment of any income which may be subsequently due to him or with respect to property devolving upon him, or acquired by him, after his discharge, as may be specified in the order and to such other conditions as the court may think fit to impose; or
+(b) make an order discharging him subject to his paying a dividend to his creditors of not less than 25% or to the payment of any income which may be subsequently due to him or with respect to property devolving upon him, or acquired by him, after his discharge, as may be specified in the order, and to such other conditions as the court may think fit to impose; or
 
 (c) if it is satisfied that the bankrupt is unable to fulfil any condition specified in paragraph (b) and if it thinks fit, make an order discharging the bankrupt subject to such conditions as the court may think fit to impose.
 
@@ -3183,9 +3460,9 @@ as may be specified in the order.
 
 (e) that the bankrupt has delayed or put any of his creditors to unnecessary expense by a frivolous or vexatious defence to any action or other legal proceedings properly brought or instituted against him;
 
-(f) that the bankrupt has within 3 months preceding the date of the bankruptcy order, when unable to pay his debts as they became due, given an undue preference to any of his creditors;
+(f) that the bankrupt has, within 3 months immediately preceding the date of the bankruptcy order, when unable to pay his debts as they became due, given an undue preference to any of his creditors;
 
-(g) that the bankrupt has, in Singapore or elsewhere on any previous occasion, been adjudged bankrupt or made a composition or arrangement with his creditors;
+(g) that the bankrupt has, in Singapore or elsewhere on any previous occasion, been adjudged bankrupt or made a composition or an arrangement with his creditors;
 
 (h) that the bankrupt has been guilty of any fraud or fraudulent breach of trust;
 
@@ -3209,9 +3486,9 @@ as may be specified in the order.
 
 (a) a period of 3 years has lapsed since the date of commencement of the bankruptcy; and
 
-(b) the debts which have been proved in bankruptcy do not exceed $500,0002, or such other sum as may be prescribed.
+(b) the debts which have been proved in bankruptcy do not exceed $100,000, or such other sum as may be prescribed2.
 
-2see— Bankruptcy (Variation of Sum of Debts under section 125(2)(b)) Rules 1999 (S 126/99).
+2The Bankruptcy (Variation of Sum of Debts under section 125(2)(b)) Rules (R 4, 2001 Ed.) has varied the sum to $500,000 with effect from 1st May 1999.
 
 [37/99]
 
@@ -3227,7 +3504,7 @@ as may be specified in the order.
 
 (3) A creditor who does not furnish to the Official Assignee a statement of the grounds of his objection in accordance with subsection (2) shall be deemed to have no objection to the discharge.
 
-(4) A creditor who has furnished the Official Assignee with a statement of the grounds of his objection in accordance with subsection (2) may, within 21 days of being informed by the Official Assignee that his objection has been rejected, make an application to the court for an order prohibiting the Official Assignee from issuing a certificate.
+(4) A creditor who has furnished the Official Assignee with a statement of the grounds of his objection in accordance with subsection (2) may, within 21 days of being informed by the Official Assignee that his objection has been rejected, make an application to the court for an order prohibiting the Official Assignee from issuing a certificate of discharge.
 
 (5) Every application under subsection (4) shall be served on the Official Assignee and on the bankrupt and the court shall hear the Official Assignee and the bankrupt before making an order on the application.
 
@@ -3235,13 +3512,13 @@ as may be specified in the order.
 
 (a) dismiss the application;
 
-(b) make an order that the bankrupt be not granted a certificate of discharge by the Official Assignee for a period not exceeding 2 years; or
+(b) make an order that the bankrupt shall not be granted a certificate of discharge by the Official Assignee for a period not exceeding 2 years; or
 
 (c) make an order permitting the Official Assignee to issue a certificate discharging the bankrupt but subject to such conditions as the court may think fit to impose, including conditions with respect to —
 
 (i) any income which may be subsequently due to the bankrupt after his discharge; or
 
-(ii) any property devolving upon the bankrupt, or acquired by him after his discharge,
+(ii) any property devolving upon the bankrupt, or acquired by him, after his discharge,
 
 as may be specified in the order.
 
@@ -3301,9 +3578,7 @@ DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 
 ### Duties of bankrupt
 
-129\. A bankrupt shall, in addition to any other duty specified in this Act —
-
-(1) A bankrupt shall, in addition to any other duty specified in this Act —
+129\.—(1) A bankrupt shall, in addition to any other duty specified in this Act —
 
 (a) make discovery of and deliver all his property that is under his possession or control to the Official Assignee;
 
@@ -3333,7 +3608,7 @@ DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 
 (n) until he has been discharged from bankruptcy, keep the Official Assignee advised at all times of his place of residence or address.
 
-[6/2004 wef 08/03/2004]
+[6/2004]
 
 (2) Where a bankrupt has changed his residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201) —
 
@@ -3341,11 +3616,11 @@ DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 
 (b) the new residential address as reported by him under section 8 of the National Registration Act shall, unless he informs the Official Assignee in writing to the contrary, be deemed to be his last known address for the purpose of subsection (3).
 
-[6/2004 wef 08/03/2004]
+[6/2004]
 
-(3) Any notice or process given or served upon the bankrupt at his last known address shall be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.
+(3) Any notice or process given to or served upon the bankrupt at his last known address shall be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.
 
-[6/2004 wef 08/03/2004]
+[6/2004]
 
 ### Disqualification of bankrupt
 
@@ -3377,13 +3652,15 @@ BANKRUPTCY OFFENCES
 
 132\. In this Part —
 
-(a) references to property comprised in the bankrupt’s estate or to property possession of which is required to be delivered up to the Official Assignee shall include any property mentioned in section 78(1);
+(a) references to property comprised in the bankrupt’s estate or to property possession of which is required to be delivered up to the Official Assignee shall include references to any property mentioned in section 78(1);
 
 (b) “initial period” means the period between the making of the bankruptcy application by or against a debtor and the commencement of his bankruptcy;
 
 (c) a reference to a number of months or years before the making of a bankruptcy application shall be read as a reference to that period ending with the making of the bankruptcy application; and
 
 (d) “Official Assignee” includes a trustee in bankruptcy appointed under section 33.
+
+[42/2005]
 
 ### Defence of innocent intention
 
@@ -3397,7 +3674,7 @@ BANKRUPTCY OFFENCES
 
 (b) he does not inform the Official Assignee of any disposal of any property which, but for the disposal, would be comprised in his estate, stating how, when, to whom and for what consideration the property was disposed of.
 
-(2) Subsection (1)(b) shall not apply to any disposal in the ordinary course of a business carried on by the bankrupt or to any payment of the ordinary expenses of the bankrupt or his family.
+(2) Subsection (1)(b) shall not apply to any disposal of property in the ordinary course of a business carried on by the bankrupt or to any payment of the ordinary expenses of the bankrupt or his family.
 
 ### Concealment of property
 
@@ -3417,11 +3694,13 @@ BANKRUPTCY OFFENCES
 
 (ii) to give a satisfactory explanation of the manner in which such a loss was incurred.
 
+[42/2005]
+
 ### Concealment of books and papers; falsification, etc.
 
 136\. A bankrupt shall be guilty of an offence if —
 
-(a) he does not deliver up possession to the Official Assignee, or as the Official Assignee may direct, of all books, papers and other records of which he has possession or control and which relate to his estate or his affairs;
+(a) he does not deliver up possession to the Official Assignee, or as the Official Assignee may direct, of all books, papers and other records of which he has possession or control and which relate to his estate or affairs;
 
 (b) he prevents, or in the initial period prevented, the production of any books, papers or records relating to his estate or affairs;
 
@@ -3432,6 +3711,8 @@ BANKRUPTCY OFFENCES
 (e) he disposes of, or alters or makes any omission in, or causes or permits the disposal, altering or making of any omission in, any book, document or record relating to his estate or affairs; or
 
 (f) in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he did anything which would have been an offence under paragraph (c), (d) or (e) if the bankruptcy order against him had been made before he did it.
+
+[42/2005]
 
 ### False statements
 
@@ -3447,15 +3728,17 @@ BANKRUPTCY OFFENCES
 
 (e) he is, or at any time has been, guilty of any false representation or other fraud for the purpose of obtaining the consent of his creditors, or any of them, to an agreement with reference to his affairs or to his bankruptcy.
 
+[42/2005]
+
 ### Fraudulent disposal of property
 
 138\.—(1) A bankrupt shall be guilty of an offence if —
 
 (a) he makes or causes to be made, or has during the period of 5 years prior to the date of the bankruptcy order against him made or caused to be made, any gift or transfer of, or any charge on, his property; or
 
-(b) he conceals or removes, or has at any time before the commencement of the bankruptcy concealed or removed, any part of his property after, or within 2 months before, the date on which a judgment or order for the payment of money has been obtained against him, being a judgment or order which was not satisfied before the commencement of his bankruptcy.
+(b) he conceals or removes, or has at any time before the commencement of the bankruptcy concealed or removed, any part of his property after, or within 2 months before, the date on which a judgment or an order for the payment of money has been obtained against him, being a judgment or an order which was not satisfied before the commencement of his bankruptcy.
 
-(2) In this section, the reference to making a transfer of or a charge on any property includes causing or conniving at, the levying of any execution against that property.
+(2) In this section, the reference to making a transfer of or a charge on any property includes a reference to causing or conniving at the levying of any execution against that property.
 
 ### Absconding with property
 
@@ -3465,21 +3748,27 @@ BANKRUPTCY OFFENCES
 
 (b) in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he did anything which would have been an offence under paragraph (a) if the bankruptcy order against him had been made immediately before he did it.
 
+[42/2005]
+
 ### Fraudulent dealing with property obtained on credit
 
-140\.—(1) A bankrupt shall be guilty of an offence if, in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he disposed of any property which he had obtained on credit and, at the time he disposed of it, had not paid for.
+140\.—(1) A bankrupt shall be guilty of an offence if, in the 12 months before the making of the bankruptcy application by or against him, or in the initial period, he disposed of any property which he had obtained on credit and, at the time he disposed of it, had not been paid for.
 
-(2) A person shall be guilty of an offence if, in the 12 months before the making of the bankruptcy application by or against a bankrupt or in the initial period, he acquired or received property from the bankrupt knowing or believing —
+[42/2005]
+
+(2) A person shall be guilty of an offence if, in the 12 months before the making of the bankruptcy application by or against a bankrupt, or in the initial period, he acquired or received property from the bankrupt knowing or believing —
 
 (a) that the bankrupt owed money in respect of the property; and
 
 (b) that the bankrupt did not intend, or was unlikely to be able, to pay the money so owed.
 
+[42/2005]
+
 (3) A person shall not be guilty of an offence under subsection (1) or (2) if the disposal, acquisition or receipt of the property was in the ordinary course of a business carried on by the bankrupt at the time of the disposal, acquisition or receipt.
 
 (4) In determining for the purposes of this section whether any property is disposed of, acquired or received in the ordinary course of a business carried on by the bankrupt, regard may be had, in particular, to the price paid for the property.
 
-(5) In this section, any reference to disposing of property shall be read as including pawning or pledging of such property, and any reference to acquiring or receiving property shall be read accordingly.
+(5) In this section, any reference to disposing of property shall be read as including a reference to pawning or pledging of such property, and any reference to acquiring or receiving property shall be read accordingly.
 
 ### Obtaining credit; engaging in business
 
@@ -3489,7 +3778,7 @@ BANKRUPTCY OFFENCES
 
 (b) he engages in any trade or business under a name other than that under which he was adjudicated bankrupt without disclosing to all persons with whom he enters into any business transaction the name under which he was adjudicated bankrupt.
 
-(2) In this section, any reference to a bankrupt obtaining credit shall be read as including any case in which —
+(2) In this section, any reference to a bankrupt obtaining credit shall be read as including a reference to any case in which —
 
 (a) goods are bailed to him under a hire-purchase agreement; and
 
@@ -3502,6 +3791,8 @@ BANKRUPTCY OFFENCES
 (a) kept proper accounting records throughout that period and throughout any part of the initial period in which he was so engaged; or
 
 (b) preserved all the accounting records which he has kept.
+
+[42/2005]
 
 (2) For the purposes of this section, a person shall be deemed not to have kept proper accounting records if he has not kept such records as are necessary to show or explain his transactions and financial position in his business, including —
 
@@ -3525,17 +3816,21 @@ BANKRUPTCY OFFENCES
 
 (b) in the initial period, lost any part of his property by gambling or by rash and hazardous speculations.
 
-(2) In determining for the purposes of this section whether any speculation was rash and hazardous, the financial position of the bankrupt at the time when he entered into them shall be taken into consideration.
+[42/2005]
+
+(2) In determining for the purposes of this section whether any speculation was rash and hazardous, the financial position of the bankrupt at the time when he entered into it shall be taken into consideration.
 
 ### Bankrupt incurring debt without reasonable ground of expectation of being able to pay it
 
 144\. A bankrupt shall be guilty of an offence if —
 
-(a) within 12 months before the making of a bankruptcy application by or against him or during the initial period, he incurs any debt provable in bankruptcy; or
+(a) within 12 months before the making of a bankruptcy application by or against him, or during the initial period, he incurs any debt provable in bankruptcy; or
 
-(b) having been engaged in carrying on any trade or business, he continues to trade or carry on business by incurring any debt provable in bankruptcy within 12 months before the date of the making of a bankruptcy application by or against him or during the initial period, he being insolvent on the date of incurring the debt,
+(b) having been engaged in carrying on any trade or business, he continues to trade or carry on business by incurring any debt provable in bankruptcy within 12 months before the date of the making of a bankruptcy application by or against him, or during the initial period, he being insolvent on the date of incurring the debt,
 
 without any reasonable ground of expectation of being able to pay it.
+
+[42/2005]
 
 ### Making of false claims, etc.
 
@@ -3557,6 +3852,8 @@ without any reasonable ground of expectation of being able to pay it.
 
 (2) In a charge for an offence under this Act, it shall be sufficient to set forth the substance of the offence charged in the words of this Act, specifying the offence or as near thereto as circumstances admit, without alleging or setting forth any debt, demand, application or any proceedings in, or order, warrant or document of any court acting under this Act.
 
+[42/2005]
+
 (3) Where a bankrupt has been guilty of any offence under this Act, he shall not be exempt from being proceeded against therefor by reason that he has obtained his discharge or that the bankruptcy order made against him has been annulled or rescinded.
 
 ## PART XI
@@ -3567,15 +3864,25 @@ MISCELLANEOUS PROVISIONS
 
 148\.—(1) In this section, unless the context otherwise requires, “creditor” means one or more creditors qualified to make a bankruptcy application under this Act.
 
+[42/2005]
+
 (2) The Official Assignee or any creditor of a deceased debtor whose debt would have been sufficient to support a bankruptcy application against the debtor had he been alive, may make to the court an application for an order for the administration of the estate of the deceased debtor according to this Act.
+
+[42/2005]
 
 (3) Every application under this section shall be in the same form as a creditor’s bankruptcy application under section 57, with such variations as the case may require, except that in the case of an application by the Official Assignee, it shall not be necessary to allege or prove that any debt is owing to the applicant.
 
+[42/2005]
+
 (4) Upon the prescribed notice being given to the legal representative, if any, of the deceased debtor, the court may, in the prescribed manner, upon proof of the applicant’s debt, unless the court is satisfied that there is a reasonable probability that the estate will be sufficient for the payment of the debts owing by the deceased debtor, make an order for the administration in bankruptcy of the deceased debtor’s estate, or may, upon cause being shown, dismiss the application with or without costs.
+
+[42/2005]
 
 (5) An administration order under this section shall not be made until the expiration of 2 months from the date of the grant of probate or letters of administration, unless with the concurrence of the legal representative of the deceased debtor.
 
 (6) An application for administration under this section shall not be made to the court after proceedings have been commenced for the administration of the deceased debtor’s estate except that the court may, in that case, on the application of any creditor and on proof that the estate is insufficient to pay its debts in the prescribed manner, make an order for the administration of the estate of the deceased debtor in bankruptcy, and the like consequences shall ensue as under an administration order made on the application of a creditor.
+
+[42/2005]
 
 (7) Upon an administration order being made under this section, the property of the debtor shall vest in the Official Assignee as trustee thereof without any further conveyance, transfer or assignment, and he shall forthwith proceed to realise and distribute the same in accordance with this Act.
 
@@ -3589,13 +3896,19 @@ MISCELLANEOUS PROVISIONS
 
 (12) Upon notice being given to the legal representative of a deceased debtor of the making by a creditor of an application under this section, and in the event of an administration order being made thereon, no payment or transfer of property made thereafter by the legal representative shall operate as a discharge to him as between himself and the Official Assignee.
 
+[42/2005]
+
 (13) Subject to this section, nothing in this section shall invalidate any payment made or act or thing done in good faith by the legal representative before the date of the administration order.
 
 ### Arbitration agreements to which bankrupt is a party
 
 148A\.—(1) This section shall apply where a bankrupt had become party to a contract containing an arbitration agreement before the commencement of his bankruptcy.
 
+[37/2001]
+
 (2) If the Official Assignee adopts the contract, the arbitration agreement shall be enforceable by or against the Official Assignee in relation to matters arising from or connected with the contract.
+
+[37/2001]
 
 (3) If the Official Assignee does not adopt the contract and a matter to which the arbitration agreement applies requires to be determined in connection with or for the purposes of the bankruptcy proceedings —
 
@@ -3605,9 +3918,11 @@ MISCELLANEOUS PROVISIONS
 
 may apply to the court which may, if it thinks fit in all the circumstances of the case, order that the matter be referred to arbitration in accordance with the arbitration agreement.
 
+[37/2001]
+
 (4) In this section, “court” means the court which has jurisdiction in the bankruptcy proceedings.
 
-[37/2001 wef 01/03/2002]
+[37/2001]
 
 ### Costs
 
@@ -3641,6 +3956,8 @@ may apply to the court which may, if it thinks fit in all the circumstances of t
 
 (3) Subsection (2) shall not apply where a bankruptcy application has been made against the bankrupt in Singapore until the application has been dismissed or withdrawn or the bankruptcy order has been rescinded or annulled.
 
+[42/2005]
+
 (4) The production of an order of adjudication purporting to be certified, under the seal of the court in Malaysia making the order, by the registrar of that court, or of a copy of the officialGazetteof Malaysia containing a notice of an order adjudging that person a bankrupt shall be conclusive proof in all courts in Singapore of the order having been duly made and of its date.
 
 (5) The Official Assignee of Malaysia may sue and be sued in any court in Singapore by the official name of “the Official Assignee of the Property of (name of bankrupt), a Bankrupt under the Law of Malaysia”.
@@ -3657,13 +3974,13 @@ may apply to the court which may, if it thinks fit in all the circumstances of t
 
 (a) application or copy of an application in bankruptcy;
 
-[42/2005 wef 01/04/2006]
-
 (b) order or certificate or copy of an order or certificate made by the court in bankruptcy;
 
-(c) instrument, affidavit or document or copy of an instrument, affidavit or document made or used in the course of any bankruptcy proceedings or other proceedings had under this Act,
+(c) instrument, affidavit or document or copy of an instrument, an affidavit or a document made or used in the course of any bankruptcy proceedings or other proceedings had under this Act,
 
 shall, if it appears to be sealed with the seal of the court or purports to be signed by any judge thereof, or is certified as a true copy by the Registrar, be receivable in evidence in all legal proceedings whatever.
+
+[42/2005]
 
 ### Swearing of affidavits
 
@@ -3681,7 +3998,7 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 ### Service of summons, notice, etc.
 
-157\.—(1) Where, by any provision of this Act or any rules made thereunder, any summons, notice or document is required or authorised to be served on any person, it may be served —
+157\.—(1) Where, by any provision of this Act, any summons, notice or document is required or authorised to be served on any person, it may be served —
 
 (a) by delivering it to him;
 
@@ -3703,7 +4020,9 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 (2) The acts of a person as the trustee of a bankrupt’s estate or as a special manager, and the acts of the creditors’ committee appointed for any bankruptcy, shall be valid notwithstanding any defect in the appointment, election or qualifications of the trustee or manager or, as the case may be, of any member of the committee.
 
-159\. [Deleted by Act 38/2002 wef 01/01/2003]
+Exemption from stamp duty
+
+159\. [Repealed byAct 38 of 2002]
 
 ### Acts of corporations, firms and lunatics
 
@@ -3735,7 +4054,7 @@ and may allow any person, on payment of the prescribed fee, to inspect or otherw
 
 (2) Where the question arises as to whether a person is an undischarged bankrupt, a certificate from the Official Assignee stating whether or not that person is an undischarged bankrupt shall be prima facie evidence of the facts stated therein.
 
-[6/2004 wef 08/03/2004]
+[6/2004]
 
 ### Unclaimed and undistributed moneys
 
@@ -3749,7 +4068,7 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (2) Upon payment under subsection (1), the Official Assignee shall issue to the trustee or nominee the prescribed certificate of receipt for the moneys so paid and that certificate shall be an effectual discharge to him in respect thereof.
 
-(3) The Official Assignee shall from time to time pay out of the Bankruptcy Estates Account and into the Insolvency Assistance Fund, maintained under section 165, so much of the sums standing to the credit of the Account as represents —
+(3) The Official Assignee shall from time to time pay out of the Bankruptcy Estates Account and into the Insolvency Assistance Fund maintained under section 165 so much of the sums standing to the credit of the Account as represents —
 
 (a) dividends or balances in the Account which do not exceed $50;
 
@@ -3767,17 +4086,21 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (v) the moneys were paid into the Account under subsection (1).
 
-(4) The Official Assignee shall from time to time pay out of the Debt Repayment Schemes Account and into the Debt Repayment Scheme Assistance Fund maintained under section 164A so much of the sums standing to the credit of the Account as it represents —
+[42/2005; 6/2009]
+
+(4) The Official Assignee shall from time to time pay out of the Debt Repayment Schemes Account and into the Debt Repayment Scheme Assistance Fund maintained under section 164A so much of the sums standing to the credit of the Account as represents —
 
 (a) balances in the Account which do not exceed $50; and
 
 (b) balances in the Account in respect of a debt repayment scheme which have remained unclaimed for a period of 6 years from the date on which the debt repayment scheme has ceased under section 56K(1).
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 ### Debt Repayment Scheme Assistance Fund
 
 164A\.—(1) The Official Assignee shall maintain and administer a fund to be known as the Debt Repayment Scheme Assistance Fund (referred to in this section as the Fund) in accordance with such rules as may be prescribed.
+
+[6/2009]
 
 (2) There shall be paid into the Fund —
 
@@ -3785,13 +4108,19 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 (b) all costs and fees recovered by the Official Assignee in any proceedings under Part VA in which moneys from the Fund were applied.
 
+[6/2009]
+
 (3) The Fund may be applied by the Official Assignee for such purposes as may be prescribed.
+
+[6/2009]
 
 (4) The Minister may from time to time pay such sums of moneys out of the Fund and into the Consolidated Fund as he may determine.
 
+[6/2009]
+
 (5) If any claimant makes any demand against the Official Assignee for any amount of unclaimed moneys paid into the Fund under subsection (2)(a), the Minister may direct that payment of that amount, free of interest, be made to the claimant out of the Consolidated Fund.
 
-[6/2009 wef 18/05/2009]
+[6/2009]
 
 ### Insolvency Assistance Fund
 
@@ -3821,7 +4150,7 @@ he shall forthwith pay those moneys to the Official Assignee to be placed to the
 
 ### Composition of offences
 
-165A\.—(1) The Official Assignee may, in his discretion, compound any such offence under this Act or any rules made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+165A\.—(1) The Official Assignee may, in his discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
 [37/99]
 
@@ -4026,19 +4355,21 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 39/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|18 May 2009|
+|19.|**2009 Revised Edition—Bankruptcy Act**|
+||Date of operation|31 October 2009|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
 
 (CHAPTER 20)
 
-The following provisions in the 1996 Revised Edition of the Bankruptcy Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+The following provisions in the 1996 Revised Edition of the Bankruptcy Act were renumbered by the Law Revision Commissioners in the 2000 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Bankruptcy Act.
 
-2000 Ed .
+2000 Ed\. 
 
-1996 Ed .
+1996 Ed\. 
 
 9 —(2) and (3)
 
