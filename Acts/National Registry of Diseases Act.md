@@ -516,9 +516,15 @@ Sections 2 and 22
 
 Reportable Diseases
 
-1. Cancer (includingin-situneoplasms, neoplasms with borderline or uncertain malignant potential, as well as all tumours (malignant, borderline,in-situand benign) of the brain and other parts of the central nervous system (including the pituitary gland, craniopharyngeal duct and pineal gland)).
+1\. Cancer (includingin-situneoplasms, neoplasms with borderline or uncertain malignant potential, as well as all tumours (malignant, borderline,in-situand benign) of the brain and other parts of the central nervous system (including the pituitary gland, craniopharyngeal duct and pineal gland)).
 
-[S 354/2009 wef 01/08/2009]
+2. Single Kidney - Post Nephrectomy (Donor).
+
+[S 529/2009 wef 01/11/2009]
+
+3. Liver - Post Hepatic Resection (Donor).
+
+[S 529/2009 wef 01/11/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -545,3 +551,5 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1st August 2009|
 |4.|**G. N. No. S 354/2009—National Registry of Diseases Act (Amendment of Schedule) Order 2009**|
 ||Date of commencement|1 August 2009|
+|5.|**G. N. No. S 529/2009—National Registry of Diseases Act (Amendment of Schedule) (No. 2) Order 2009**|
+||Date of commencement|1 November 2009|
