@@ -1042,6 +1042,14 @@ Section 5.
 
 Cap. 28.
 
+Casino Control Act
+
+...
+
+Sections 105(3)(b), 125, 136, 171, 172, 173, 174, 175, 177 and 190.
+
+Cap. 33A
+
 Chit Funds Act
 
 ...
@@ -1222,11 +1230,19 @@ Part II, sections 31(2), 33(3) and 33A.
 
 Cap. 185.
 
+Moneylenders Act
+
+...
+
+Sections 8 and 32.
+
+Cap. 188 of the 1985 Revised Edition
+
 Moneylenders Act 2008
 
 ...
 
-Sections 14 and 27.
+Sections 14, 27 and 28.
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
 
@@ -1292,6 +1308,14 @@ The whole.
 
 Cap. 256.
 
+Public Order Act 2009
+
+...
+
+Sections 24(4), 25(3), 26(3), 27(3), 28(2), 31(2) and 32.
+
+Act 15 of 2009
+
 Public Order (Preservation) Act
 
 ...
@@ -1331,6 +1355,14 @@ Road Traffic Act
 Sections 66(1) and 96(1).
 
 Cap. 276.
+
+Secondhand Dealers Act
+
+...
+
+Section 10(3).
+
+Cap. 288 of the 1985 Revised Edition
 
 Secondhand Goods Dealers Act 2007
 
@@ -1396,7 +1428,11 @@ Sections 35 to 40 and the whole of Part X.
 
 Cap. 353.
 
+[S 548/2009 wef 05/11/2009]
+
 [31/2008 wef 01/03/2009]
+
+[S 548/2009 wef 05/11/2009]
 
 [4/2007 wef 01/12/2007]
 
@@ -1552,7 +1588,7 @@ Arms and Explosives Act
 
 Sections 5, 8, 19, 23 and 31(2).
 
-Cap. 13.
+Cap. 13
 
 Betting Act
 
@@ -1560,7 +1596,7 @@ Betting Act
 
 Sections 3, 4 and 5.
 
-Cap. 21.
+Cap. 21
 
 Common Gaming Houses Act
 
@@ -1576,7 +1612,7 @@ Dangerous Fireworks Act
 
 Section 5.
 
-Cap. 72.
+Cap. 72
 
 Employment of Foreign Manpower Act
 
@@ -1596,13 +1632,15 @@ Immigration Act
 
 Sections 5, 6, 8(5), 9(4), 19, 26, 36 and 57.
 
-Cap. 133.
+Cap. 133
 
 Trade Marks Act 1998
 
 ...
 
 Sections 46, 48 and 52.
+
+[46/98 wef 15/01/99]
 
 [S 374/2007 wef 01/07/2007]
 
@@ -1934,3 +1972,5 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 33/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 March 2009|
+|33.|**G. N. No. S 548/2009—Registration of Criminals Act (Amendment of First Schedule) Order 2009**|
+||Date of commencement|5 November 2009|
