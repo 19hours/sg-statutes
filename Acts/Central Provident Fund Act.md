@@ -376,8 +376,6 @@ PRELIMINARY
 
 “member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund, or for whom any account in the Fund is maintained for any of the purposes of this Act, and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
 
-[18/2009 wef 01/09/2009]
-
 “minimum sum” means the sum referred to in section 15(6)(a);
 
 [40/2007 wef 01/10/2007]
@@ -390,11 +388,7 @@ PRELIMINARY
 
 (a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) and Part IIIB; and
 
-[18/2009 wef 01/09/2009]
-
 (b) for the crediting of such contribution (including any amount which is deemed to be a contribution for the purposes of this Act) and interest as the Minister may direct;
-
-[57/2007 wef 01/01/2008]
 
 “special account” means a special account maintained under section 13;
 
@@ -625,8 +619,6 @@ CONTRIBUTIONS TO FUND
 (A) the amount of any premium paid by the member under section 27L; and
 
 (B) the interest that would have been payable thereon, if that amount had been standing to the credit of the member in his retirement account; and
-
-[18/2009 wef 01/09/2009]
 
 (b) at such rate per annum, and subject to such terms and conditions, as the Board may, with the approval of the Minister for Finance, determine.
 
@@ -1030,10 +1022,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on their joint application, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
 
-[15/2006 wef 01/07/2006]
-
-[18/2009 wef 01/09/2009]
-
 (6B) Any memorandum executed under subsection (6A) by 2 members of the Fund who are parties to a marriage —
 
 (a) shall not be revocable during the subsistence of the marriage unless the Board is satisfied that either or both of the members are —
@@ -1077,8 +1065,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 (b) specify any other amount as he thinks fit in respect of any class of persons for the purposes of subsection (6)(b).
 
 (7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
-
-[18/2009 wef 01/09/2009]
 
 (7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b) or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
 
@@ -1151,8 +1137,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 (8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
 (8C) Notwithstanding subsections (2A), (6), (7B) and (8A) and section 27, where any amount which a relevant member is entitled to withdraw from his retirement account under subsection (7), or which is due to a relevant member under section 27K(6), has been transferred or paid by the Board into his ordinary account, the Board may, on his application, permit him to withdraw that amount.
-
-[18/2009 wef 01/09/2009]
 
 (9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
@@ -1274,8 +1258,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (15A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and sections 49L and 49M of the Insurance Act (Cap. 142) shall not apply to any annuity purchased with the minimum sum.
 
-[3/2009 wef 01/09/2009]
-
 (16) In this section and section 15B —
 
 “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
@@ -1307,8 +1289,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 [39/2000]
 
 “relevant member” has the same meaning as in section 27J.
-
-[18/2009 wef 01/09/2009]
 
 ### Restrictions on withdrawals to ensure repayment of approved loan
 
@@ -1984,8 +1964,6 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (b) any proceeds or benefits of such a policy of insurance which the member is obliged to repay into the Fund.
 
-[3/2009 wef 01/09/2009]
-
 (3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund —
 
 (a) shall not pass to the Official Assignee on the bankruptcy of the member; and
@@ -2252,8 +2230,6 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (ii) every deduction which the Board is entitled to make under section 27L, 32, 45 or 54 or any regulations made under section 77(1).
 
-[18/2009 wef 01/09/2009]
-
 (7) The Board shall make a payment of money standing to the credit of a member of the Fund under subsection (1)(a)(ii) or (3) —
 
 (a) notwithstanding sections 24, 25 and 26 and every restriction on withdrawal from the Fund under any regulations made under section 77(1); and
@@ -2263,8 +2239,6 @@ is less than the amount awarded under the order of court, the Board shall pay th
 (i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
 
 (ii) every deduction which the Board is entitled to make under section 27L, 32, 45 or 54 or any regulations made under section 77(1).
-
-[18/2009 wef 01/09/2009]
 
 (8) The money transferred under subsection (1)(a)(i) or (2) and any interest thereon may be withdrawn in accordance with this Act for such purposes and in such manner as may be prescribed by any regulations made under section 77(1).
 
@@ -2618,7 +2592,7 @@ then, subject to subsection (2) and any regulations made under section 77(1), th
 
 ### Order of court for sale of investments
 
-27H\.—(1) Where —
+27H\. Where —
 
 (a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
 
@@ -3263,10 +3237,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 48A\.—(1) A policy of insurance issued under the Scheme shall not be deemed to create any legal or equitable trust.
 
 (2) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and section 49L of the Insurance Act (Cap. 142) shall not apply to any policy of insurance issued under the Scheme.
-
-[3/2009 wef 01/09/2009]
-
-[24/2005 wef 17/09/2005]
 
 ### Amount payable on death or incapacity of insured person
 
@@ -5907,7 +5877,9 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (10) Competition Commission of Singapore.
 
-(11) [Deleted by Act 36/2007 wef 22/02/2008]
+(11) Council for Private Education.
+
+[S 581/2009 wef 01/12/2009]
 
 (12) Defence Science and Technology Agency.
 
@@ -6816,6 +6788,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 11/2009 published on 25 May 2009)|
 ||Date of Second and Third Readings|20 July 2009|
 ||Date of commencement|1 September 2009 (sections 2(b) and (c), 3, 5(a), (d), (e), (g) to (l), (n) and (p), 10, 12, 13(b) and 14)|
+|166.|**G.N. No. S 581/2009—Central Provident Fund Act (Amendment of First Schedule) Notification 2009**|
+||Date of commencement|1 December 2009|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
