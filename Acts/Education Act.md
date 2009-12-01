@@ -16,6 +16,8 @@
 
 - [4 Schools to which this Act does not apply](#Schools-to-which-this-Act-does-not-apply)
 
+- [4A Restriction on use of "school", etc.](#Restriction-on-use-of-"school"-etc)
+
 - [5 Delegation of Director-General’s functions](#Delegation-of-Director-General’s-functions)
 
 [**Part II EDUCATION FINANCE BOARD**](#Part-II)
@@ -248,13 +250,37 @@ GENERAL
 
 ### Schools to which this Act does not apply
 
-4\. This Act shall not apply to a school —
+4\. This Act shall not apply —
 
-(a) maintained partly or wholly by the Vocational and Industrial Training Board established under the Vocational and Industrial Training Board Act [Cap. 345]; or
+(a) to or in relation to the Institute of Technical Education, Singapore established under the Institute of Technical Education Act (Cap. 141A); and
 
-(b) registered under Part V of that Act.
+(b) to any private education institution within the meaning of the Private Education Act 2009.
 
-[3A
+[21/2009 wef 21/12/2009]
+
+### Restriction on use of “school”, etc.
+
+4A\.—(1) Subject to subsection (2), no person or organisation shall, except with the written consent of the Director-General —
+
+(a) use the words “academy”, “college”, “school”, “university” or any other term which the Minister may specify by notification in theGazette, or any of its derivatives, in any language or any other word or words indicating that the person or organisation provides education, in the name, description or title under which that person or organisation is providing education; or
+
+(b) make or continue to make any representation to that effect in any bill-head, letter-paper, notice, advertisement or in any other manner.
+
+(2) Subsection (1) shall not apply to —
+
+(a) a school that is registered or exempted from registration under this Act;
+
+(b) the Government;
+
+(c) any body established or constituted by or under a public Act and that has a public function, or any wholly-owned entity of such a body;
+
+(d) an education institution established by any other written law or the functions of which are provided by any other written law; and
+
+(e) such other person or organisation, or any class thereof, as may be prescribed.
+
+(3) Any person or organisation that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[21/2009 wef 21/12/2009]
 
 ### Delegation of Director-General’s functions
 
@@ -1196,9 +1222,9 @@ REGULATIONS, OFFENCES, NOTICES, INDEMNITY, ETC.
 
 (f) except as provided for in section 49 continues to act as the supervisor or manager of a school or as a teacher in a school which is carried on after the Director-General has issued a notice under section 48 cancelling its registration,
 
-[8/97 wef 02/09/1997]
-
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+
+[8/97 wef 02/09/1997]
 
 (2) Any person guilty of an offence under this Act or against the regulations made thereunder for which no other penalty is specifically provided, shall be liable on conviction to a fine not exceeding $500 for a first offence or $1,000 for a second or subsequent offence under this Act, and if he is a manager or teacher convicted of an offence under section 20 or 23(3), shall be liable to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
@@ -1236,20 +1262,16 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## THE SCHEDULE
 
-FORM 1
-
 Section 22(3).
+
+FORM 1
 
 The Education Act
 
 
 
 
-(
-
-Chapter 87
-
-)
+(Chapter 87)
 
 Application for Registration of a School
 
@@ -1261,7 +1283,7 @@ The Director-General of Education,
 
 Ministry of Education,
 
-Singapore
+Singapore.
 
 I wish to open a school particulars of which are set out below and request that it be registered and a certificate of registration be issued.
 
@@ -1456,6 +1478,8 @@ Identity Card No.
 
 (Signed) ……………………….
 
+[8/97 wef 02/09/1997]
+
 FORM 2
 
 Section 23(3)
@@ -1465,28 +1489,26 @@ The Education Act
 
 
 
-(
+(Chapter 87)
 
-Chapter 87
-
-)
-
-Certificate of Registration of School
+CERTIFICATE OF REGISTRATION OF SCHOOL
 
 This is to certify that the undermentioned school has been registered under the Education Act.
 
-Registered name of school ……………………………………..……………….
+Registered name of school ………………………………..……………….
 (in Roman characters)
 
-Registered name of school ………………..…………………………………….
+Registered name of school ………………..………………………………….
 (in Chinese characters where applicable)
 
-Address …………………………………………………………………………
+Address ………………………………………………………………………
 
 ………..……………………….
 Director-General of Education
 
 Singapore, ……………… 19….
+
+[8/97 wef 02/09/1997]
 
 FORM 3
 
@@ -1495,13 +1517,9 @@ The Education Act
 
 
 
-(
+(Chapter 87)
 
-Chapter 87
-
-)
-
-Application for Registration as a Manager of a School
+APPLICATION FOR REGISTRATION AS A MANAGER OF A SCHOOL
 
 Address ……………………….
 
@@ -1551,6 +1569,8 @@ Address ………………………
 
 (Signed) ……………………….
 
+[8/97 wef 02/09/1997]
+
 FORM 4
 
 Section 36
@@ -1560,13 +1580,9 @@ The Education Act
 
 
 
-(
+(Chapter 87)
 
-Chapter 87
-
-)
-
-Application for Registration as a Teacher
+APPLICATION FOR REGISTRATION AS A TEACHER
 
 Address ……………………….
 
@@ -1612,7 +1628,7 @@ To
 
 School
 
-Class taught
+Classes taught
 
 Subjects taught
 
@@ -1634,6 +1650,8 @@ Subjects taught
 
 (Signed) ……………………….
 
+[8/97 wef 02/09/1997]
+
 FORM 5
 
 Section 37
@@ -1643,13 +1661,9 @@ The Education Act
 
 
 
-(
+(Chapter 87)
 
-Chapter 87
-
-)
-
-Certificate of Registration of Teacher
+CERTIFICATE OF REGISTRATION OF TEACHER
 
 This is to certify that …………………………………… whose photograph is affixed hereto has been registered as a teacher under the Education Act.
 
@@ -1657,6 +1671,8 @@ This is to certify that …………………………………… whose photogr
 Director-General of Education
 
 Singapore, ……………… 19….
+
+[8/97 wef 02/09/1997]
 
 FORM 6
 
@@ -1667,13 +1683,9 @@ The Education Act
 
 
 
-(
+(Chapter 87)
 
-Chapter 87
-
-)
-
-Application for Authority to Employ an Unregistered Teacher
+APPLICATION FOR AUTHORITY TO EMPLOY AN UNREGISTERED TEACHER
 
 Part I
 
@@ -1693,7 +1705,7 @@ Singapore.
 
 Name in Roman characters …………………………………………
 
-Name in Chinese characters …………..…………………………….……
+Name in Chinese characters …………………………………….……
 (where applicable)
 
 as an unregistered teacher at the ………………………………. School.
@@ -1758,7 +1770,7 @@ Previous teaching experience:
 
 School
 
-Class taught
+Classes taught
 
 Subjects taught
 
@@ -1793,6 +1805,8 @@ Signature.…….…………………….
 
 Date …………………………
 
+[8/97 wef 02/09/1997]
+
 FORM 7
 
 Section 41(2)
@@ -1802,13 +1816,9 @@ The Education Act
 
 
 
-(
+(Chapter 87)
 
-Chapter 87
-
-)
-
-Authority to Employ an Unregistered Teacher
+AUTHORITY TO EMPLOY AN UNREGISTERED TEACHER
 
 The Supervisor,
 
@@ -1818,12 +1828,14 @@ The Supervisor,
 
 Authority is hereby given you to employ ………………………………….. whose photograph is affixed hereto as an unregistered teacher at ……………… School.
 
-Limitations (if any) as to Subjects and Classes
+LIMITATIONS (IF ANY) AS TO SUBJECTS AND CLASSES
 
-………..……………………….
+………..…………….………….
 Director-General of Education
 
 Singapore, ……………… 19….
+
+[8/97 wef 02/09/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -1831,7 +1843,7 @@ Education Act
 
 (CHAPTER 87)
 
-This Legislative History is provided for the convenience of users of the Education Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Education Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1874,3 +1886,9 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (except section 3)|
+|13.|**Act 21 of 2009—Private Education Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 August 2009|
+|||(Bill No. 15/2009 published on 18 August 2009)|
+||Date of Second and Third Readings|15 September 2009|
+||Date of commencement|1 December 2009|
