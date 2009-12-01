@@ -368,6 +368,10 @@ Specified Organisations
 
 [S 598/2005 wef 14/09/2005]
 
+(4A) Council for Private Education
+
+[S 588/2009 wef 01/12/2009]
+
 (5) Defence Science and Technology Agency
 
 (6) DSO National Laboratories
@@ -524,3 +528,5 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|14 September 2005|
 |25.|**G.N. No. S 177/2008—Official Secrets Act (Amendment of Schedule) Notification 2008**|
 ||Date of commencement|2 April 2008|
+|26.|**G.N. No. S 588/2009—Official Secrets Act (Amendment of Schedule) Notification 2009**|
+||Date of commencement|1 December 2009|
