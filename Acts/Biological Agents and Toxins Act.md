@@ -320,6 +320,8 @@ that is capable of causing death, disease or other biological malfunction in a h
 
 “registered medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dental Registration Act (Cap. 76);
 
+[22/2007 wef 01/01/2008]
+
 “Second Schedule biological agent” means any biological agent specified in the Second Schedule;
 
 “Singapore Civil Defence Force” means the Singapore Civil Defence Force raised and maintained under the Civil Defence Act (Cap. 42);
@@ -1943,6 +1945,10 @@ Bacteria
 
 7\.Mycobacterium tuberculosis
 
+8. Any biological agent that is a constructed or reconstructed replication-competent form of any bacterium set out in this Part
+
+[S 573/2009 wef 01/12/2009]
+
 Fungi
 
 1\.Blastomyces dermatitidis
@@ -1952,6 +1958,10 @@ Fungi
 3\.Histoplasma capsulatum var. duboisii
 
 4\.Paracoccidioides brasiliensis
+
+5. Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
+
+[S 573/2009 wef 01/12/2009]
 
 Viruses
 
@@ -1980,6 +1990,8 @@ Viruses
 3.Flaviviridae
 
 (a) Japanese encephalitis virus (except for the vaccine strain 14-14-2 virus)
+
+[S 676/2007 wef 01/01/2008]
 
 (b) Murray Valley encephalitis virus
 
@@ -2041,6 +2053,8 @@ Viruses
 
 10.Togaviridae
 
+(a) [Deleted by S 676/2007 wef 01/01/2008]
+
 (b) Everglades virus
 
 (c) Getah virus
@@ -2070,6 +2084,10 @@ Viruses
 (e) Variant Creutzfeldt-Jakob disease prion
 
 (f) Fatal familial insomnia prion
+
+12. Any biological agent that is a constructed or reconstructed replication-competent form of any virus set out in this Part
+
+[S 573/2009 wef 01/12/2009]
 
 Part II
 
@@ -2109,7 +2127,7 @@ Bacteria
 
 (c) the B38 strain [ATTC 6223]
 
-[S 676/2007 wef 01/01/2008]
+[S 676/2007 wef 01/01/2008 wef 01/01/2008]
 
 9.Yersinia pestis, except for the attenuated strains devoid of —
 
@@ -2117,25 +2135,45 @@ Bacteria
 
 (b) 75 kb low-calcium response virulence plasmid [Tjiwidej S strain]
 
-[S 676/2007 wef 01/01/2008]
+[S 676/2007 wef 01/01/2008 wef 01/01/2008]
+
+10. Any biological agent that is a constructed or reconstructed replication-competent form of any bacterium set out in this Part
+
+[S 573/2009 wef 01/12/2009]
 
 Rickettsiae
 
-1\.Coxiella burnetii(except for the attenuated Phase II, plaque purified clone 4 of the Nine Mile strain)
+1.Coxiella burnetii (except for the attenuated Phase II, plaque purified clone 4 of the Nine Mile strain)
+
+[S 676/2007 wef 01/01/2008]
 
 2\.Rickettsia — all species
+
+3. Any biological agent that is a constructed or reconstructed replication-competent form of any rickettsia set out in this Part
+
+[S 573/2009 wef 01/12/2009]
 
 Fungi
 
 1\.Coccidioides immitis
+
+2.Coccidioides posadasii, except for the following attenuated strains:
+
+(a) ∆chs5; an d
+
+(b) ∆cts2/∆ard1/∆cts3;
+
+[S 676/2007 wef 01/01/2008]
+
+3. Any biological agent that is a constructed or reconstructed replication-competent form of any fungus set out in this Part
+
+[S 573/2009 wef 01/12/2009 wef 1/12/2009]
 
 Viruses
 
 1.Arenaviridae
 
 (a) Flexal virus
-
-[S 676/2007 wef 01/01/2008]
 
 2.Bunyaviridae
 
@@ -2147,6 +2185,8 @@ Viruses
 
 (d) Rift Valley fever virus (except for the vaccine strain MP-12)
 
+[S 676/2007 wef 01/01/2008 wef 1/1/2008]
+
 3.Coronaviridae
 
 (a) SARS coronavirus
@@ -2154,6 +2194,8 @@ Viruses
 4.Flaviviridae
 
 (a) Yellow fever virus (except for the vaccine strain 17-D)
+
+[S 676/2007 wef 01/01/2008]
 
 5.Poxviridae
 
@@ -2163,7 +2205,15 @@ Viruses
 
 (a) Eastern equine encephalitis virus
 
-(b) Venezuelan equine encephalitis virus.
+(b) Venezuelan equine encephalitis virus
+
+[S 573/2009 wef 01/01/2008 wef 01/12/2009]
+
+7. Any biological agent that is a constructed or reconstructed replication-competent form of any virus set out in this Part.
+
+[S 589/2006]
+
+[S 573/2009 wef 01/12/2009]
 
 SECOND SCHEDULE
 
@@ -2197,7 +2247,15 @@ Second Schedule Biological Agents
 
 13\. Variola major (Smallpox) virus
 
-14\. Variola minor (Alastrim) virus.
+14\. Variola minor (Alastrim) virus
+
+15. 1918 pandemic influenza virus
+
+[S 573/2009 wef 01/12/2009]
+
+16. Any biological agent that is a constructed or reconstructed replication-competent form of any biological agent set out in this Schedule.
+
+[S 573/2009 wef 01/12/2009]
 
 THIRD SCHEDULE
 
@@ -2316,3 +2374,5 @@ This Legislative History is provided for the convenience of users of the Biologi
 |||(Bill No. 5/2008 published on 29 February 2008)|
 ||Date of Second and Third Readings|22 April 2008|
 ||Date of commencement|10 June 2008|
+|7.|**G. N. No. S 573/2009—Biological Agents and Toxins Act (Amendment of First and Second Schedules) Order 2009**|
+||Date of commencement|1 December 2009|
