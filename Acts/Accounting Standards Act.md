@@ -201,9 +201,9 @@ COMPANIES AND OTHER ENTITIES
 
 (3) The Council may, from time to time, issue practice directions on the interpretation of the accounting standards made or formulated under this Part and on matters relating to them and their use in Singapore.
 
-(4) An accounting standard that was in force under section 200A1of the Companies Act (Cap. 50) immediately before 1st November 2007, and any practice directions issued by the Accounting Standards Committee under that section, shall continue in force after that date as if they had been made or formulated by the Council under this Part after that date.
+(4) An accounting standard that was in force under section 200A\*of the Companies Act (Cap. 50) immediately before 1st November 2007, and any practice directions issued by the Accounting Standards Committee under that section, shall continue in force after that date as if they had been made or formulated by the Council under this Part after that date.
 
-1Section 200A of the Companies Act (Cap. 50) was repealed by the Accounting Standards Act 2007 (Act 39 of 2007)
+\*Section 200A of the Companies Act (Cap. 50) was repealed by the Accounting Standards Act 2007 (Act 39 of 2007).
 
 ### Manner of making, etc., accounting standards
 
@@ -364,6 +364,15 @@ Civil Service College Act (Chapter 45)
 9. Competition Commission of Singapore
 
 Competition Act (Chapter 50B)
+
+9A. Council for Private Education
+
+Private Education Act 2009
+
+
+
+
+(Act 21 of 2009)
 
 10. Defence Science and Technology Agency
 
@@ -614,6 +623,8 @@ Urban Redevelopment Authority Act
 
 (Chapter 340).
 
+[S 587/2009 wef 01/12/2009]
+
 [17/2009 wef 01/07/2009]
 
 ## LEGISLATIVE HISTORY
@@ -644,3 +655,5 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of Second and Third Readings|13 April 2009|
 ||Dates of commencement|Date of coming into operation: 1st July 2009|
 |||Date of coming into operation: 1st October 2009 (sections 86 and 87)|
+|5.|**G. N. No. S 587/2009—Accounting Standards Act (Amendment of Schedule) Order 2009**|
+||Date of commencement|1 December 2009|
