@@ -154,6 +154,15 @@ Competition Act
 
 (Chapter 50B)
 
+9A. Council for Private Education
+
+Private Education Act 2009
+
+
+
+
+(Act 21 of 2009)
+
 10. Defence Science and Technology Agency
 
 Defence Science and Technology Agency Act Act
@@ -465,7 +474,7 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
-[17/2009 wef 01/07/2009]
+[S 590/2009 wef 01/12/2009]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
 
@@ -569,3 +578,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 10/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
+|29.|**G. N. No. S 590/2009—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2009**|
+||Date of commencement|1 December 2009|
