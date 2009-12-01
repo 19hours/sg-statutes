@@ -112,9 +112,6 @@ Central Provident Fund Act
 
 Civil Aviation Authority of Singapore
 
-
-
-
 Civil Aviation Authority of Singapore Act 2009
 
 4.
@@ -122,6 +119,17 @@ Civil Aviation Authority of Singapore Act 2009
 Competition Commission of Singapore
 
 Competition Act 2004 (Act 46 of 2004)
+
+4A.
+
+Council for Private Education
+
+Private Education Act 2009
+
+
+
+
+(Act 21 of 2009)
 
 5.
 
@@ -382,15 +390,17 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
-[S 599/2005 wef 14/09/2005]
-
 [S 288/2005 wef 06/05/2005]
 
-[17/2009 wef 01/07/2009]
+[S3/2005 wef 10/06/2005]
 
 [S 599/2005 wef 14/09/2005]
 
 [S 178/2008 wef 02/04/2008]
+
+[17/2009 wef 01/07/2009]
+
+[S589/2009 wef 01/12/2009]
 
 Part II
 
@@ -529,3 +539,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 10/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
+|38.|**G. N. No. S 589/2009—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2009**|
+||Date of commencement|1 December 2009|
