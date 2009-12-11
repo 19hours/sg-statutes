@@ -487,7 +487,7 @@ MEMBER ORGANISATIONS
 
 51. Singapore National Co-operative Federation Ltd
 
-52. Singapore National Wushu Federation
+52. Singapore Wushu Dragon & Lion Dance Federation
 
 53. Singapore Numismatic Association
 
@@ -577,6 +577,8 @@ MEMBER ORGANISATIONS
 [S 14/2005 wef 07/01/2005]
 
 [S 815/2005 wef 16/12/2005]
+
+[S 601/2009 wef 11/12/2009]
 
 [S 14/2005 wef 07/01/2005]
 
@@ -743,6 +745,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|16 June 2006|
 |56.|**G.N. No. S 685/2008—People’s Association Act (Amendment of First Schedule) Notification 2008**|
 ||Date of commencement|30 December 2008|
+|57.|**G.N. No. S 601/2009—People’s Association Act (Amendment of First Schedule) Notification 2009**|
+||Date of commencement|11 December 2009|
 ## COMPARATIVE TABLE
 
 People’s Association Act
