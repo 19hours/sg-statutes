@@ -228,7 +228,9 @@ President.
 
 25th September 2009.
 
-Date of Commencement: 1st December 2009 – with the exception of Parts III to VII
+Date of Commencement: 1st December 2009 – with the exception of Parts III to VII,
+
+Date of Commencement: 21st December 2009 – Parts III to VII
 
 An Act to establish and incorporate the Council for Private Education, to provide for its functions, duties and powers, to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith, and to make a consequential amendment to the Education Act (Chapter 87 of the 1985 Revised Edition).
 
