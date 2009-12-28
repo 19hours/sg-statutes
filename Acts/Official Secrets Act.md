@@ -352,79 +352,83 @@ Section 2(1) and (3)
 
 Specified Organisations
 
-(1) Casino Regulatory Authority of Singapore
+1. Casino Regulatory Authority of Singapore
 
 [S 177/2008 wef 02/04/2008]
 
-(2) Central Provident Fund Board
+1A. Building and Construction Authority
 
-(3) Civil Aviation Authority of Singapore
+[S 632/2009 wef 28/12/2009]
 
-(3A) Civil Service College
+2. Central Provident Fund Board
+
+3. Civil Aviation Authority of Singapore
+
+3A. Civil Service College
 
 [S 573/2001 wef 23/11/2001]
 
-(4) Competition Commission of Singapore
+4 Competition Commission of Singapore
 
 [S 598/2005 wef 14/09/2005]
 
-(4A) Council for Private Education
+4A. Council for Private Education
 
 [S 588/2009 wef 01/12/2009]
 
-(5) Defence Science and Technology Agency
+5. Defence Science and Technology Agency
 
-(6) DSO National Laboratories
+6. DSO National Laboratories
 
-(7) Economic Development Board
+7. Economic Development Board
 
-(8) Energy Market Authority of Singapore
+8. Energy Market Authority of Singapore
 
-(8A) Government of Singapore Investment Corporation Private Limited and its subsidiary corporations
+8A. Government of Singapore Investment Corporation Private Limited and its subsidiary corporations
 
 [S 274/2004 wef 01/06/2004]
 
-(9) Housing and Development Board
+9. Housing and Development Board
 
-(10) Info-communications Development Authority of Singapore
+10. Info-communications Development Authority of Singapore
 
-(11) Inland Revenue Authority of Singapore
+11. Inland Revenue Authority of Singapore
 
-(11A) International Enterprise Singapore Board
-
-[S 420/2003 wef 01/09/2003]
-
-(12) Jurong Town Corporation
-
-(13) Land Transport Authority of Singapore
-
-(14) Maritime and Port Authority of Singapore
-
-(14A) Media Development Authority of Singapore
+11A. International Enterprise Singapore Board
 
 [S 420/2003 wef 01/09/2003]
 
-(15) Monetary Authority of Singapore
+12. Jurong Town Corporation
 
-(15A) National Environment Agency
+13. Land Transport Authority of Singapore
+
+14. Maritime and Port Authority of Singapore
+
+14A. Media Development Authority of Singapore
 
 [S 420/2003 wef 01/09/2003]
 
-(16) National Heritage Board
+15. Monetary Authority of Singapore
 
-(17) Public Utilities Board
+15A. National Environment Agency
 
-(18) Singapore Examinations and Assessment Board
+[S 420/2003 wef 01/09/2003]
+
+16. National Heritage Board
+
+17. Public Utilities Board
+
+18. Singapore Examinations and Assessment Board
 
 [S 287/2005 wef 06/05/2005]
 
-(19) Singapore Land Authority
+19. Singapore Land Authority
 
-(20) Singapore Workforce Development Agency
+20. Singapore Workforce Development Agency
 
 [S 420/2003 wef 01/09/2003]
 
-(21) Urban Redevelopment Authority.
+21. Urban Redevelopment Authority.
 
 [27/2001 wef 01/09/2001]
 
@@ -530,3 +534,5 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|2 April 2008|
 |26.|**G.N. No. S 588/2009—Official Secrets Act (Amendment of Schedule) Notification 2009**|
 ||Date of commencement|1 December 2009|
+|27.|**G.N. No. S 632/2009—Official Secrets Act (Amendment of Schedule) (No. 2) Notification 2009**|
+||Date of commencement|28 December 2009|
