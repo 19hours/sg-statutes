@@ -193,8 +193,6 @@ General Provisions
 
 Article 1
 
-—
-
 Scope of application
 
 1\. This Convention applies to all international carriage of persons, baggage or cargo performed by aircraft for reward. It applies equally to gratuitous carriage by aircraft performed by an air transport undertaking.
@@ -206,8 +204,6 @@ Scope of application
 4\. This Convention applies also to carriage as set out in Chapter V, subject to the terms contained therein.
 
 Article 2
-
-—
 
 Carriage performed by State and carriage of postal items
 
@@ -233,8 +229,6 @@ Passengers, Baggage and Cargo
 
 Article 3
 
-—
-
 Passengers and baggage
 
 1. In respect of carriage of passengers, an individual or collective document of carriage shall be delivered containing:
@@ -253,8 +247,6 @@ Passengers and baggage
 
 Article 4
 
-—
-
 Cargo
 
 1\. In respect of the carriage of cargo, an air waybill shall be delivered.
@@ -263,35 +255,23 @@ Cargo
 
 Article 5
 
-—
-
 Contents of air waybill or cargo receipt
 
 The air waybill or the cargo receipt shall include:
 
-(a)
+(a) an indication of the places of departure and destination;
 
-an indication of the places of departure and destination;
+(b) if the places of departure and destination are within the territory of a single State Party, one or more agreed stopping places being within the territory of another State, an indication of at least one such stopping place; and
 
-(b)
-
-if the places of departure and destination are within the territory of a single State Party, one or more agreed stopping places being within the territory of another State, an indication of at least one such stopping place; and
-
-(c)
-
-an indication of the weight of the consignment.
+(c) an indication of the weight of the consignment.
 
 Article 6
-
-—
 
 Document relating to the nature of the cargo
 
 The consignor may be required, if necessary, to meet the formalities of customs, police and similar public authorities to deliver a document indicating the nature of the cargo. This provision creates for the carrier no duty, obligation or liability resulting therefrom.
 
 Article 7
-
-—
 
 Description of air waybill
 
@@ -305,31 +285,21 @@ Description of air waybill
 
 Article 8
 
-—
-
 Documentation for multiple packages
 
 When there is more than one package:
 
-(a)
+(a) the carrier of cargo has the right to require the consignor to make out separate air waybills;
 
-the carrier of cargo has the right to require the consignor to make out separate air waybills;
-
-(b)
-
-the consignor has the right to require the carrier to deliver separate cargo receipts when the other means referred to in paragraph 2 of Article 4 are used.
+(b) the consignor has the right to require the carrier to deliver separate cargo receipts when the other means referred to in paragraph 2 of Article 4 are used.
 
 Article 9
-
-—
 
 Non-compliance with documentary requirements
 
 Non-compliance with the provisions of Articles 4 to 8 shall not affect the existence or the validity of the contract of carriage, which shall, nonetheless, be subject to the rules of this Convention including those relating to limitation of liability.
 
 Article 10
-
-—
 
 Responsibility for particulars of documentation
 
@@ -341,8 +311,6 @@ Responsibility for particulars of documentation
 
 Article 11
 
-—
-
 Evidentiary value of documentation
 
 1\. The air waybill or the cargo receipt is prima facie evidence of the conclusion of the contract, of the acceptance of the cargo and of the conditions of carriage mentioned therein.
@@ -350,8 +318,6 @@ Evidentiary value of documentation
 2\. Any statements in the air waybill or the cargo receipt relating to the weight, dimensions and packing of the cargo, as well as those relating to the number of packages, are prima facie evidence of the facts stated; those relating to the quantity, volume and condition of the cargo do not constitute evidence against the carrier except so far as they both have been, and are stated in the air waybill or the cargo receipt to have been, checked by it in the presence of the consignor, or relate to the apparent condition of the cargo.
 
 Article 12
-
-—
 
 Right of disposition of cargo
 
@@ -365,8 +331,6 @@ Right of disposition of cargo
 
 Article 13
 
-—
-
 Delivery of the cargo
 
 1\. Except when the consignor has exercised its right under Article 12, the consignee is entitled, on arrival of the cargo at the place of destination, to require the carrier to deliver the cargo to it, on payment of the charges due and on complying with the conditions of carriage.
@@ -377,15 +341,11 @@ Delivery of the cargo
 
 Article 14
 
-—
-
 Enforcement of the rights of consignor and consignee
 
 The consignor and the consignee can respectively enforce all the rights given to them by Articles 12 and 13, each in its own name, whether it is acting in its own interest or in the interest of another, provided that it carries out the obligations imposed by the contract of carriage.
 
 Article 15
-
-—
 
 Relations of consignor and consignee
 
@@ -399,8 +359,6 @@ or mutual relations of third parties
 2\. The provisions of Articles 12, 13 and 14 can only be varied by express provision in the air waybill or the cargo receipt.
 
 Article 16
-
-—
 
 Formalities of customs, police or other public authorities
 
@@ -419,8 +377,6 @@ Compensation for Damage
 
 Article 17
 
-—
-
 Death and injury of passengers — damage to baggage
 
 1\. The carrier is liable for damage sustained in case of death or bodily injury of a passenger upon condition only that the accident which caused the death or injury took place on board the aircraft or in the course of any of the operations of embarking or disembarking.
@@ -432,8 +388,6 @@ Death and injury of passengers — damage to baggage
 4\. Unless otherwise specified, in this Convention the term “baggage” means both checked baggage and unchecked baggage.
 
 Article 18
-
-—
 
 Damage to cargo
 
@@ -455,23 +409,17 @@ Damage to cargo
 
 Article 19
 
-—
-
 Delay
 
 The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo. Nevertheless, the carrier shall not be liable for damage occasioned by delay if it proves that it and its servants and agents took all measures that could reasonably be required to avoid the damage or that it was impossible for it or them to take such measures.
 
 Article 20
 
-—
-
 Exoneration
 
 If the carrier proves that the damage was caused or contributed to by the negligence or other wrongful act or omission of the person claiming compensation, or the person from whom he or she derives his or her rights, the carrier shall be wholly or partly exonerated from its liability to the claimant to the extent that such negligence or wrongful act or omission caused or contributed to the damage. When by reason of death or injury of a passenger compensation is claimed by a person other than the passenger, the carrier shall likewise be wholly or partly exonerated from its liability to the extent that it proves that the damage was caused or contributed to by the negligence or other wrongful act or omission of that passenger. This Article applies to all the liability provisions in this Convention, including paragraph 1 of Article 21.
 
 Article 21
-
-—
 
 Compensation in case of death or injury of passengers
 
@@ -484,8 +432,6 @@ Compensation in case of death or injury of passengers
 (b) such damage was solely due to the negligence or other wrongful act or omission of a third party.
 
 Article 22
-
-—
 
 Limits of liability in relation to delay, baggage and cargo
 
@@ -503,8 +449,6 @@ Limits of liability in relation to delay, baggage and cargo
 
 Article 23
 
-—
-
 Conversion of monetary units
 
 1\. The sums mentioned in terms of Special Drawing Right in this Convention shall be deemed to refer to the Special Drawing Right as defined by the International Monetary Fund. Conversion of the sums into national currencies shall, in case of judicial proceedings, be made according to the value of such currencies in terms of the Special Drawing Right at the date of the judgement. The value of a national currency, in terms of the Special Drawing Right, of a State Party which is a Member of the International Monetary Fund, shall be calculated in accordance with the method of valuation applied by the International Monetary Fund, in effect at the date of the judgement, for its operations and transactions. The value of a national currency, in terms of the Special Drawing Right, of a State Party which is not a Member of the International Monetary Fund, shall be calculated in a manner determined by that State.
@@ -514,8 +458,6 @@ Conversion of monetary units
 3\. The calculation mentioned in the last sentence of paragraph 1 of this Article and the conversion method mentioned in paragraph 2 of this Article shall be made in such manner as to express in the national currency of the State Party as far as possible the same real value for the amounts in Articles 21 and 22 as would result from the application of the first three sentences of paragraph 1 of this Article. States Parties shall communicate to the depositary the manner of calculation pursuant to paragraph 1 of this Article, or the result of the conversion in paragraph 2 of this Article, as the case may be, when depositing an instrument of ratification, acceptance, approval of or accession to this Convention and whenever there is a change in either.
 
 Article 24
-
-—
 
 Review of limits
 
@@ -527,15 +469,11 @@ Review of limits
 
 Article 25
 
-—
-
 Stipulation on limits
 
 A carrier may stipulate that the contract of carriage shall be subject to higher limits of liability than those provided for in this Convention or to no limits of liability whatsoever.
 
 Article 26
-
-—
 
 Invalidity of contractual provisions
 
@@ -543,15 +481,11 @@ Any provision tending to relieve the carrier of liability or to fix a lower limi
 
 Article 27
 
-—
-
 Freedom to contract
 
 Nothing contained in this Convention shall prevent the carrier from refusing to enter into any contract of carriage, from waiving any defences available under the Convention, or from laying down conditions which do not conflict with the provisions of this Convention.
 
 Article 28
-
-—
 
 Advance payments
 
@@ -559,15 +493,11 @@ In the case of aircraft accidents resulting in death or injury of passengers, th
 
 Article 29
 
-—
-
 Basis of claims
 
 In the carriage of passengers, baggage and cargo, any action for damages, however founded, whether under this Convention or in contract or in tort or otherwise, can only be brought subject to the conditions and such limits of liability as are set out in this Convention without prejudice to the question as to who are the persons who have the right to bring suit and what are their respective rights. In any such action, punitive, exemplary or any other non-compensatory damages shall not be recoverable.
 
 Article 30
-
-—
 
 Servants, agents — aggregation of claims
 
@@ -578,8 +508,6 @@ Servants, agents — aggregation of claims
 3\. Save in respect of the carriage of cargo, the provisions of paragraphs 1 and 2 of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result.
 
 Article 31
-
-—
 
 Timely notice of complaints
 
@@ -593,15 +521,11 @@ Timely notice of complaints
 
 Article 32
 
-—
-
 Death of person liable
 
 In the case of the death of the person liable, an action for damages lies in accordance with the terms of this Convention against those legally representing his or her estate.
 
 Article 33
-
-—
 
 Jurisdiction
 
@@ -619,8 +543,6 @@ Jurisdiction
 
 Article 34
 
-—
-
 Arbitration
 
 1\. Subject to the provisions of this Article, the parties to the contract of carriage for cargo may stipulate that any dispute relating to the liability of the carrier under this Convention shall be settled by arbitration. Such agreement shall be in writing.
@@ -633,8 +555,6 @@ Arbitration
 
 Article 35
 
-—
-
 Limitation of actions
 
 1\. The right to damages shall be extinguished if an action is not brought within a period of two years, reckoned from the date of arrival at the destination, or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
@@ -642,8 +562,6 @@ Limitation of actions
 2\. The method of calculating that period shall be determined by the law of the court seised of the case.
 
 Article 36
-
-—
 
 Successive carriage
 
@@ -655,8 +573,6 @@ Successive carriage
 
 Article 37
 
-—
-
 Right of recourse against third parties
 
 Nothing in this Convention shall prejudice the question whether a person liable for damage in accordance with its provisions has a right of recourse against any other person.
@@ -666,8 +582,6 @@ Chapter IV
 Combined Carriage
 
 Article 38
-
-—
 
 Combined carriage
 
@@ -686,23 +600,17 @@ Other Than the Contracting Carrier
 
 Article 39
 
-—
-
 Contracting carrier — actual carrier
 
 The provisions of this Chapter apply when a person (hereinafter referred to as “the contracting carrier”) as a principal makes a contract of carriage governed by this Convention with a passenger or consignor or with a person acting on behalf of the passenger or consignor, and another person (hereinafter referred to as “the actual carrier”) performs, by virtue of authority from the contracting carrier, the whole or part of the carriage, but is not with respect to such part a successive carrier within the meaning of this Convention. Such authority shall be presumed in the absence of proof to the contrary.
 
 Article 40
 
-—
-
 Respective liability of contracting and actual carriers
 
 If an actual carrier performs the whole or part of carriage which, according to the contract referred to in Article 39, is governed by this Convention, both the contracting carrier and the actual carrier shall, except as otherwise provided in this Chapter, be subject to the rules of this Convention, the former for the whole of the carriage contemplated in the contract, the latter solely for the carriage which it performs.
 
 Article 41
-
-—
 
 Mutual liability
 
@@ -712,15 +620,11 @@ Mutual liability
 
 Article 42
 
-—
-
 Addressee of complaints and instructions
 
 Any complaint to be made or instruction to be given under this Convention to the carrier shall have the same effect whether addressed to the contracting carrier or to the actual carrier. Nevertheless, instructions referred to in Article 12 shall only be effective if addressed to the contracting carrier.
 
 Article 43
-
-—
 
 Servants and agents
 
@@ -728,15 +632,11 @@ In relation to the carriage performed by the actual carrier, any servant or agen
 
 Article 44
 
-—
-
 Aggregation of damages
 
 In relation to the carriage performed by the actual carrier, the aggregate of the amounts recoverable from that carrier and the contracting carrier, and from their servants and agents acting within the scope of their employment, shall not exceed the highest amount which could be awarded against either the contracting carrier or the actual carrier under this Convention, but none of the persons mentioned shall be liable for a sum in excess of the limit applicable to that person.
 
 Article 45
-
-—
 
 Addressee of claims
 
@@ -744,15 +644,11 @@ In relation to the carriage performed by the actual carrier, an action for damag
 
 Article 46
 
-—
-
 Additional jurisdiction
 
 Any action for damages contemplated in Article 45 must be brought, at the option of the plaintiff, in the territory of one of the States Parties, either before a court in which an action may be brought against the contracting carrier, as provided in Article 33, or before the court having jurisdiction at the place where the actual carrier has its domicile or its principal place of business.
 
 Article 47
-
-—
 
 Invalidity of contractual provisions
 
@@ -760,15 +656,11 @@ Any contractual provision tending to relieve the contracting carrier or the actu
 
 Article 48
 
-—
-
 Mutual relations of contracting and actual carriers
 
 Except as provided in Article 45, nothing in this Chapter shall affect the rights and obligations of the carriers between themselves, including any right of recourse or indemnification.
 
 Chapter VI
-
-—
 
 Other Provisions
 
@@ -780,23 +672,17 @@ Any clause contained in the contract of carriage and all special agreements ente
 
 Article 50
 
-—
-
 Insurance
 
 States Parties shall require their carriers to maintain adequate insurance covering their liability under this Convention. A carrier may be required by the State Party into which it operates to furnish evidence that it maintains adequate insurance covering its liability under this Convention.
 
 Article 51
 
-—
-
 Carriage performed in extraordinary circumstances
 
 The provisions of Articles 3 to 5, 7 and 8 relating to the documentation of carriage shall not apply in the case of carriage performed in extraordinary circumstances outside the normal scope of a carrier’s business.
 
 Article 52
-
-—
 
 Definition of days
 
@@ -807,8 +693,6 @@ Chapter VII
 Final Clauses
 
 Article 53
-
-—
 
 Signature, ratification and entry into force
 
@@ -840,8 +724,6 @@ Signature, ratification and entry into force
 
 Article 54
 
-—
-
 Denunciation
 
 1\. Any State Party may denounce this Convention by written notification to the Depositary.
@@ -849,8 +731,6 @@ Denunciation
 2\. Denunciation shall take effect one hundred and eighty days following the date on which notification is received by the Depositary.
 
 Article 55
-
-—
 
 Relationship with other Warsaw Convention instruments
 
@@ -872,8 +752,6 @@ This Convention shall prevail over any rules which apply to international carria
 
 Article 56
 
-—
-
 States with more than one system of law
 
 1\. If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that this Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.
@@ -888,23 +766,58 @@ States with more than one system of law
 
 Article 57
 
-—
-
 Reservations
 
 No reservation may be made to this Convention except that a State Party may at any time declare by a notification addressed to the Depositary that this Convention shall not apply to:
 
-(a)
+(a) international carriage by air performed and operated directly by that State Party for non-commercial purposes in respect to its functions and duties as a sovereign State; and/or
 
-international carriage by air performed and operated directly by that State Party for non-commercial purposes in respect to its functions and duties as a sovereign State; and/or
-
-(b)
-
-the carriage of persons, cargo and baggage for its military authorities on aircraft registered in or leased by that State Party, the whole capacity of which has been reserved by or on behalf of such authorities.
+(b) the carriage of persons, cargo and baggage for its military authorities on aircraft registered in or leased by that State Party, the whole capacity of which has been reserved by or on behalf of such authorities.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorized, have signed this Convention.
 
 DONE at Montreal on the 28th day of May of the year one thousand nine hundred and ninety-nine in the English, Arabic, Chinese, French, Russian and Spanish languages, all texts being equally authentic. This Convention shall remain deposited in the archives of the International Civil Aviation Organization, and certified copies thereof shall be transmitted by the Depositary to all States Parties to this Convention, as well as to all States Parties to the Warsaw Convention, The Hague Protocol, the Guadalajara Convention, the Guatemala City Protocol and the Montreal Protocols.
+
+Addendum
+
+Revised limits of liability
+
+
+
+
+under articles 21 and 22
+
+The limits of liability prescribed in Articles 21 and 22 have, following a review by the Depositary and its Notification to States Parties in accordance with paragraph 2 of Article 24, been revised and shall, with effect from 30th December 2009, be as follows:
+
+Provision in Convention
+
+Revised Limits of Liability (Special Drawing Rights)
+
+Article 21, paragraph 1
+
+In the case of death or bodily injury of a passenger
+
+113,100 per passenger
+
+Article 22, paragraph 1
+
+In the case of delay in the carriage of persons
+
+4,694 per passenger
+
+Article 22, paragraph 2
+
+In the case of destruction, loss, damage or delay with respect to baggage
+
+1,131 per passenger
+
+Article 22, paragraph 3
+
+In the case of destruction, loss, damage or delay with respect to cargo
+
+19 per kilogram of cargo.
+
+[S 613/2009 wef 30/12/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -923,3 +836,5 @@ This Legislative History is provided for the convenience of users of the Carriag
 ||Date of commencement|16 November 2007|
 |2.|**2008 Revised Edition—Carriage by Air (Montreal Convention, 1999) Act**|
 ||Date of operation|31 July 2008|
+|3.|**G. N. No. S 613/2009—Carriage by Air (Montreal Convention, 1999) (Revision of Limits of Liability) Order 2009**|
+||Date of commencement|30 December 2009|
