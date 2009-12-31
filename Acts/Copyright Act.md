@@ -446,7 +446,7 @@
 
 - [148 (Repealed)](#Repealed)
 
-[**Part VII COPYRIGHT TRIBUNAL**](#Part-VII)
+[**Part VII COPYRIGHT TRIBUNALS**](#Part-VII)
 
 [**Division 1  Preliminary**](#Division-1--Preliminary)
 
@@ -456,11 +456,15 @@
 
 [**Division 2  Constitution of Tribunal**](#Division-2--Constitution-of-Tribunal)
 
-- [151 Establishment of Tribunal](#Establishment-of-Tribunal)
+- [151 Establishment of Tribunals](#Establishment-of-Tribunals)
+
+- [151A Appointment of president, deputy president and members of Tribunal](#Appointment-of-president-deputy-president-and-members-of-Tribunal)
+
+- [151B Remuneration and allowances](#Remuneration-and-allowances)
 
 - [152 Tenure of office](#Tenure-of-office)
 
-- [153 Minister may appoint any person to act for absent member, etc.](#Minister-may-appoint-any-person-to-act-for-absent-member-etc)
+- [153 Continuation of hearing on change in constitution of Tribunal](#Continuation-of-hearing-on-change-in-constitution-of-Tribunal)
 
 - [154 Quorum](#Quorum)
 
@@ -982,11 +986,11 @@ to cause a device having information processing capabilities to perform a partic
 
 “copy”, in relation to a cinematograph film, means any article or thing in which the visual images or sounds comprising the film are embodied;
 
-“Copyright Act 1911” means the Copyright Act 19111of the United Kingdom (U.K. 1911 c. 46) insofar as it has effect as part of the law of Singapore;
+“Copyright Act 1911” means the Copyright Act 1911\** of the United Kingdom (U.K. 1911 c. 46) insofar as it has effect as part of the law of Singapore;
 
-1Repealed by section 203 of the Copyright Act 1987 (Act 2 of 1987), which is omitted in this Edition.
+\*Repealed by section 203 of the Copyright Act 1987 (Act 2 of 1987), which is omitted in this Edition.
 
-“Copyright Tribunal” or “Tribunal” means the Copyright Tribunal established under Part VII;
+“Copyright Tribunal” or “Tribunal” means any Copyright Tribunal established under Part VII;
 
 “digital audio transmission” means a transmission of a sound recording, in whole or in part, in a digital or other non-analogue form;
 
@@ -1181,6 +1185,8 @@ which is to be or has been conveyed by means of a telecommunication system;
 “work of joint authorship” means a work that has been produced by the collaboration of 2 or more authors and in which the contribution of each author is not separate from the contribution of the other author or the contributions of other authors;
 
 “writing” means a mode of representing or reproducing words, figures or symbols in a visible form, and “written” shall have a corresponding meaning.
+
+[23/2009 wef 31/12/2009]
 
 [14/94; 15/94; 6/98; 3/99; 38/99; 3/2001; 34/2002; 52/2004]
 
@@ -2168,11 +2174,15 @@ Acts not Constituting Infringements of Copyright in Literary, Dramatic and Music
 
 (b) the making of further records embodying the recording or further copies of the film for the purpose of the broadcasting of the work or adaptation in such circumstances.
 
-(3) Subsection (1) shall not apply in relation to a recording or film where a record embodying the recording or a copy of the film is used for the purpose of the broadcasting of the work or adaptation by a person who is not the maker of the recording or film unless the maker has paid to the owner of the copyright in the work such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the recording or film.
+(3) Subsection (1) shall not apply in relation to a recording or film where a record embodying the recording or a copy of the film is used for the purpose of the broadcasting of the work or adaptation by a person who is not the maker of the recording or film unless the maker has paid to the owner of the copyright in the work such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by a Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the recording or film.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
-(4) A person who has given an undertaking referred to in subsection (3) is liable, when the Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the work and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+(4) A person who has given an undertaking referred to in subsection (3) is liable, when a Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the work and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -2506,7 +2516,7 @@ that subsection shall not apply to the communication, by or on behalf of that pe
 
 [6/98; 52/2004]
 
-(3) (Deleted by Act 6/98)
+(3) [Deleted by Act 6/98]
 
 (4) Subsection (1) shall not apply in relation to copies of, or of parts of, 2 or more articles contained in the same periodical publication unless the articles relate to the same subject-matter.
 
@@ -2558,7 +2568,9 @@ the record made in relation to them in accordance with subsection (7) may state 
 
 [6/98; 52/2004]
 
-(11) Where copies of the whole or a part of a work, not being copies stated in the record to be copies to which subsection (9) or (10) applies, are made by or on behalf of the body administering an educational institution and, by virtue of this section, the making of those copies does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copies, for payment for the making of the copies, pay to the owner such an amount by way of equitable remuneration for the making of those copies as is agreed upon between the owner and the body or, in default of agreement, such amount as is determined by the Copyright Tribunal on the application of either the owner or the body.
+(11) Where copies of the whole or a part of a work, not being copies stated in the record to be copies to which subsection (9) or (10) applies, are made by or on behalf of the body administering an educational institution and, by virtue of this section, the making of those copies does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copies, for payment for the making of the copies, pay to the owner such an amount by way of equitable remuneration for the making of those copies as is agreed upon between the owner and the body or, in default of agreement, such amount as is determined by a Copyright Tribunal on the application of either the owner or the body.
+
+[23/2009 wef 31/12/2009]
 
 (11A) Where the whole or a part of a work consisting of an article in a periodical publication is communicated as provided in subsection (1) —
 
@@ -2592,11 +2604,15 @@ the record made in relation to the communication in accordance with subsection (
 
 (c) by virtue of this section, the communication does not infringe copyright in the work,
 
-that body shall, if the owner of the copyright in the work makes a request in writing, at any time during the prescribed period after the communication, for payment for the communication, pay to the owner such an amount by way of equitable remuneration for the communication as is agreed upon between the owner and the body or, in default of agreement, as is determined by the Copyright Tribunal on the application of either the owner or the body.
+that body shall, if the owner of the copyright in the work makes a request in writing, at any time during the prescribed period after the communication, for payment for the communication, pay to the owner such an amount by way of equitable remuneration for the communication as is agreed upon between the owner and the body or, in default of agreement, as is determined by a Copyright Tribunal on the application of either the owner or the body.
+
+[23/2009 wef 31/12/2009]
 
 [52/2004]
 
-(12) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an educational institution in relation to copies of the whole or a part of that work that have been made, or the communication of the whole or a part of that work, by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+(12) Where a Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an educational institution in relation to copies of the whole or a part of that work that have been made, or the communication of the whole or a part of that work, by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+
+[23/2009 wef 31/12/2009]
 
 [52/2004]
 
@@ -2672,9 +2688,13 @@ Copying of Works in Institutions Assisting Handicapped Readers and Institutions 
 
 (b) if it is kept in writing, shall be in accordance with the prescribed form.
 
-(10) Where a handicapped reader’s copy of the whole or a part of a work is made by or on behalf of the body administering an institution assisting handicapped readers and, by virtue of this section, the making of that copy does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copy, for payment for the making of the copy, pay to the owner such an amount by way of equitable remuneration for the making of that copy as is agreed upon between the owner and the body, or, in default of agreement, such amount as is determined by the Copyright Tribunal on the application of either the owner or the body.
+(10) Where a handicapped reader’s copy of the whole or a part of a work is made by or on behalf of the body administering an institution assisting handicapped readers and, by virtue of this section, the making of that copy does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copy, for payment for the making of the copy, pay to the owner such an amount by way of equitable remuneration for the making of that copy as is agreed upon between the owner and the body, or, in default of agreement, such amount as is determined by a Copyright Tribunal on the application of either the owner or the body.
 
-(11) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an institution assisting handicapped readers in relation to a handicapped reader’s copy of the whole or a part of that work that has been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+[23/2009 wef 31/12/2009]
+
+(11) Where a Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an institution assisting handicapped readers in relation to a handicapped reader’s copy of the whole or a part of that work that has been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+
+[23/2009 wef 31/12/2009]
 
 (12) Notwithstanding any other provision of this Act, copyright shall not vest in the maker of the handicapped reader’s copy by reason of his making that copy.
 
@@ -2714,11 +2734,15 @@ Copying of Works in Institutions Assisting Handicapped Readers and Institutions 
 
 [6/98]
 
-(7) Where an intellectually handicapped reader’s copy of the whole or a part of a work is made by or on behalf of the body administering an institution assisting intellectually handicapped readers and, by virtue of this section, the making of that copy does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copy, for payment for the making of the copy, pay to the owner such an amount by way of equitable remuneration for the making of that copy as is agreed upon between the owner and the body, or, in default of agreement, such amount as is determined by the Copyright Tribunal on the application of either the owner or the body.
+(7) Where an intellectually handicapped reader’s copy of the whole or a part of a work is made by or on behalf of the body administering an institution assisting intellectually handicapped readers and, by virtue of this section, the making of that copy does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copy, for payment for the making of the copy, pay to the owner such an amount by way of equitable remuneration for the making of that copy as is agreed upon between the owner and the body, or, in default of agreement, such amount as is determined by a Copyright Tribunal on the application of either the owner or the body.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
-(8) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of the copyright in a work by the body administering an institution assisting handicapped readers in relation to an intellectually handicapped reader’s copy of the whole or a part of that work that has been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+(8) Where a Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of the copyright in a work by the body administering an institution assisting handicapped readers in relation to an intellectually handicapped reader’s copy of the whole or a part of that work that has been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -2806,15 +2830,22 @@ Recording of Musical Works
 
 ### Revision of royalty and minimum royalty
 
-59\.—(1) If at any time after 10th April 1988 it appears to the Minister charged with the responsibility for trade and industry that the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records is not equitable, he may request the Copyright Tribunal to hold an inquiry into the matter and report the result of its inquiry to him.
+59\.—(1) If at any time after 10th April 1988 it appears to the Minister charged with the responsibility for trade and industry that the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records is not equitable, he may request a Copyright Tribunal to hold an inquiry into the matter and report the result of its inquiry to him.
 
-(2) At any time after the Copyright Tribunal has made a report in relation to the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records, the regulations may provide that the relevant provision of this Act, in its application in respect of records generally or in respect of records included in that class of records, as the case may be, shall have effect as if it were subject to such variations as are provided by the regulations, being such variations as the Minister thinks equitable.
+[23/2009 wef 31/12/2009]
 
-(3) Where the Copyright Tribunal has made a report in relation to the royalty, or the minimum royalty, payable in respect of records included in a particular class of records (whether the report related only to records included in that class or also related to other records), the Minister charged with the responsibility for trade and industry shall not, before the expiration of 5 years after the report was made, request the Tribunal to hold an inquiry under this section in relation to the royalty, or the minimum royalty, as the case may be, payable in respect of records included in that class.
+(2) At any time after a Copyright Tribunal has made a report in relation to the royalty, or the minimum royalty, payable in respect of records generally or in respect of records included in a particular class of records, the regulations may provide that the relevant provision of this Act, in its application in respect of records generally or in respect of records included in that class of records, as the case may be, shall have effect as if it were subject to such variations as are provided by the regulations, being such variations as the Minister thinks equitable.
+
+[23/2009 wef 31/12/2009]
+
+(3) Where a Copyright Tribunal has made a report in relation to the royalty, or the minimum royalty, payable in respect of records included in a particular class of records (whether the report related only to records included in that class or also related to other records), the Minister charged with the responsibility for trade and industry shall not, before the expiration of 5 years after the report was made, request an inquiry under subsection (1) in relation to the royalty, or the minimum royalty, as the case may be, payable in respect of records included in that class.
+
+[23/2009 wef 31/12/2009]
 
 (4) In this section, “the relevant provision of this Act” means —
 
-(a) in relation to the royalty payable in respect of any records — section 57(1) or, if that section is affected by regulations made for the purposes of this section, that section as so affected; and
+(a) in relation to the royalty payable in respect of any
+records — section 57(1) or, if that section is affected by regulations made for the purposes of this section, that section as so affected; and
 
 (b) in relation to the minimum royalty payable in respect of any records — sections 57(3) and 58(b)(i) or, if those provisions are affected by regulations made for the purposes of this section, those provisions as so affected.
 
@@ -2840,13 +2871,17 @@ the making of the record shall not constitute an infringement of the copyright i
 
 (a) if the copyrights in those works are owned by the same person — an amount is not payable in respect of the literary or dramatic work; or
 
-(b) if the copyrights in those works are owned by different persons — the royalty that, but for this section, would have been payable in respect of the musical work shall be apportioned between them in such manner as they agree, or, in default of the agreement, as is determined by the Copyright Tribunal on the application of either of them.
+(b) if the copyrights in those works are owned by different persons — the royalty that, but for this section, would have been payable in respect of the musical work shall be apportioned between them in such manner as they agree, or, in default of the agreement, as is determined by a Copyright Tribunal on the application of either of them.
 
-(4) Where the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work do not agree on the manner in which an amount is to be apportioned between them but the person who made the record gives an undertaking in writing to each owner to pay to him the portion of that amount that the Tribunal determines to be payable to him, then —
+[23/2009 wef 31/12/2009]
+
+(4) Where the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work do not agree on the manner in which an amount is to be apportioned between them but the person who made the record gives an undertaking in writing to each owner to pay to him the portion of that amount that a Tribunal determines to be payable to him, then —
 
 (a) paragraph (d) of section 56(1) and paragraph (e) of subsection (1) of this section shall have effect as if the payments referred to in those paragraphs had been made; and
 
 (b) the person who made the record shall be liable, when the amount to which an undertaking relates is determined, to pay that amount to the owner of the copyright to whom the undertaking was given and the owner may recover that amount in a court of competent jurisdiction from that person as a debt due to the owner.
+
+[23/2009 wef 31/12/2009]
 
 (5) The regulations made for the purposes of section 56(1)(d) in relation to payments to the owner of the copyright in a musical work shall have the like effect, with any necessary modifications, for the purposes of subsection (1)(e) in relation to payments to the owner of the copyright in a literary or dramatic work.
 
@@ -2924,9 +2959,13 @@ Acts not Constituting Infringements of Copyright in Artistic Works
 
 (b) the making of further copies of the film for the purpose of the inclusion of the work in such a broadcast or programme.
 
-(3) Subsection (1) shall not apply in relation to a film where a copy of the film is used for the purpose of the inclusion of the work in a television broadcast or cable programme made by a person who is not the maker of the film unless the maker has paid to the owner of the copyright in the work such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal , on the application of either of them, to be equitable remuneration to the owner for the making of the film.
+(3) Subsection (1) shall not apply in relation to a film where a copy of the film is used for the purpose of the inclusion of the work in a television broadcast or cable programme made by a person who is not the maker of the film unless the maker has paid to the owner of the copyright in the work such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by a Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the film.
 
-(4) A person who has given an undertaking referred to in subsection (3) shall be liable, when the Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the work and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+[23/2009 wef 31/12/2009]
+
+(4) A person who has given an undertaking referred to in subsection (3) shall be liable, when a Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the work and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+
+[23/2009 wef 31/12/2009]
 
 (5) Subsection (1) shall not apply in relation to a film unless all the copies of the film are destroyed or are delivered, with the consent of the director of the National Archives, to the National Archives of Singapore —
 
@@ -3540,11 +3579,15 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 
 [52/2004]
 
-(3) Subsection (1) shall not apply in relation to a copy of a sound recording where the copy is used for the purpose of the broadcasting by a person who is not the maker of the copy unless the maker has paid to the owner of the copyright in the recording such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the copy.
+(3) Subsection (1) shall not apply in relation to a copy of a sound recording where the copy is used for the purpose of the broadcasting by a person who is not the maker of the copy unless the maker has paid to the owner of the copyright in the recording such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by a Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the copy.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
-(4) A person who has given an undertaking referred to in subsection (3) shall be liable, when the Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the recording and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+(4) A person who has given an undertaking referred to in subsection (3) shall be liable, when a Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the recording and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -3608,7 +3651,9 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 
 ### Other non-infringing non-interactive transmissions
 
-107D\. It is not an infringement of a copyright in a sound recording to make available to the public the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service, if the person who does so pays the owner of the copyright in the sound recording such amount by way of equitable remuneration in respect of the transmission as may be agreed upon between them or, in default of such an agreement, as may be determined by the Copyright Tribunal on the application of either party.
+107D\. It is not an infringement of a copyright in a sound recording to make available to the public the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service, if the person who does so pays the owner of the copyright in the sound recording such amount by way of equitable remuneration in respect of the transmission as may be agreed upon between them or, in default of such an agreement, as may be determined by a Copyright Tribunal on the application of either party.
+
+[23/2009 wef 31/12/2009]
 
 [52/2004]
 
@@ -5028,7 +5073,7 @@ Discontinuation of this Part
 
 ## PART VII
 
-COPYRIGHT TRIBUNAL
+COPYRIGHT TRIBUNALS
 
 Division 1 —
 
@@ -5036,29 +5081,35 @@ Preliminary
 
 ### Interpretation of this Part
 
-149\.—(1) In this Part, unless the contrary intention appears —
+149\.—(1) In this Part, unless the context otherwise requires —
 
-“licence” —
+“deputy president” means a deputy president of the Tribunals appointed by the Minister under section 151A(1)(b);
 
-(a) in relation to a literary, dramatic or musical work, means a licence granted by or on behalf of the owner or prospective owner of the copyright in the work to perform the work or an adaptation of the work in public, to broadcast the work or an adaptation of the work, to make a sound recording or cinematograph film of the work or an adaptation of the work for the purpose of broadcasting the work or adaptation or including it in a cable programme service; or
+“licence” means a licence granted by or on behalf of the owner or prospective owner of the copyright in a work or other subject-matter to do an act comprised in the copyright;
 
-(b) in relation to a computer program or sound recording, means a licence granted by or on behalf of the owner or prospective owner of the copyright in the program or recording to enter a commercial rental arrangement in respect of the program or recording;
+“licence scheme” means a scheme (including anything in the nature of a scheme, whether called a scheme or tariff or called by any other name) formulated by a licensor and setting out the classes of cases in which the licensor is willing to grant licences and the charges (if any) subject to payment of which, and the conditions subject to which, licences would be granted in those classes of cases;
 
-“licence scheme” means a scheme (including anything in the nature of a scheme, whether called a scheme or tariff or called by any other name) formulated by a licensor or licensors and setting out the classes of cases in which the licensor or each of the licensors is willing, or the persons on whose behalf the licensor or each of the licensors acts are willing, to grant licences and the charges (if any) subject to payment of which, and the conditions subject to which, licences would be granted in those classes of cases;
+“licensor” means any association, body or organisation (whether incorporated or unincorporated) which —
 
-“licensor” means the owner or prospective owner of the copyright in the work or any body of persons (whether corporate or unincorporate) acting as agent for the owner or prospective owner in relation to the negotiation or granting of such licences;
+(a) carries on the business of negotiating, granting or otherwise collectively administering licences in relation to a repertoire of works or other subject-matter by different authors, makers or publishers who are not affiliated with that association, body or organisation within the meaning of subsection (3); and
 
-“member” means a member of the Tribunal, and includes the President of the Tribunal;
+(b) negotiates, grants or otherwise collectively administers such licences either as the owner or prospective owner of the copyrights in such works or other subject-matter or as the agent or representative of the owners or prospective owners of the copyrights in such works or other subject-matter;
+
+“member” means a member of a Tribunal and includes the president or deputy president presiding over the Tribunal;
 
 “order” includes an interim order;
 
 “organisation” means an organisation or association of persons whether corporate or unincorporate;
 
-“party” includes a person or organisation making representations to the Tribunal at an inquiry under section 157;
+“panel” means the panel appointed by the Minister under section 151A(4);
 
-“proceeding”, in relation to the Tribunal, includes an inquiry by the Tribunal under section 157.
+“party” includes a person or an organisation making representations to a Tribunal at an inquiry under section 157;
 
-[6/98]
+“president” means the president of the Tribunals appointed by the Minister under section 151A(1)(a);
+
+“proceeding”, in relation to a Tribunal, includes an inquiry by the Tribunal under section 157.
+
+[23/2009 wef 31/12/2009]
 
 (2) In this Part —
 
@@ -5071,6 +5122,14 @@ Preliminary
 (d) a reference to proceedings for infringement of copyright includes a reference to proceedings brought in respect of an alleged contravention of section 136(6).
 
 [Aust. 1968, s. 136]
+
+(3) For the purpose of the definition of “licensor” in subsection (1), the author, maker or publisher of any work or other subject-matter is affiliated with the association, body or organisation which carries on the business of negotiating, granting or otherwise collectively administering licences in relation to that work or other subject-matter if such author, maker or publisher produced or published that work or other subject-matter in the course of his employment with, or under a commission from —
+
+(a) that association, body or organisation; or
+
+(b) any other association, body or organisation which is related, in such manner as may be prescribed, to the first-mentioned association, body or organisation.
+
+[23/2009 wef 31/12/2009]
 
 ### Cases to which licence schemes apply
 
@@ -5090,59 +5149,143 @@ Division 2 —
 
 Constitution of Tribunal
 
-### Establishment of Tribunal
+### Establishment of Tribunals
 
-151\.—(1) There shall be established a Tribunal, to be called the Copyright Tribunal, which shall consist of a President of the Tribunal and of not less than 2 nor more than 4 other members appointed by the Minister.
+151\.—(1) There shall be established one or more Copyright Tribunals for the purposes of this Part.
 
-(2) The President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
+[23/2009 wef 31/12/2009]
 
-(3) There shall be paid to the members of the Tribunal who are not public officers such remuneration (whether by way of salaries or fees), and such allowances, as the Minister may determine.
+(2) Subject to subsection (3), each Tribunal shall be constituted by —
 
-(4) The Minister may appoint such officers and employees of the Tribunal as the Minister may determine.
+(a) the president or a deputy president designated by the president, who shall preside over the Tribunal; and
 
-(5) The remuneration and allowances of the members of the Tribunal and such other expenses of the Tribunal as the Minister may determine shall be paid out of moneys provided by Parliament.
+(b) 2 other members selected by the president from amongst the members of the panel.
 
-[3/2001]
+[23/2009 wef 31/12/2009]
 
-(6) The remuneration of the officers and employees appointed under subsection (4) shall be paid out of the funds of the Office.
+(3) Notwithstanding subsection (2), the president or a deputy president presiding over a Tribunal may preside alone at any preliminary hearing of an application or a reference to deal with any matter connected with the application or reference.
 
-[3/2001]
+[23/2009 wef 31/12/2009]
 
-[Aust. 1968, s. 138]
+### Appointment of president, deputy president and members of Tribunal
+
+151A\.—(1) The Minister shall appoint —
+
+(a) the president of the Tribunals; and
+
+(b) not more than 2 deputy presidents of the Tribunals.
+
+[23/2009 wef 31/12/2009]
+
+(2) No person shall be appointed as the president of the Tribunals unless he possesses the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
+
+[23/2009 wef 31/12/2009]
+
+(3) No person shall be appointed as a deputy president of the Tribunals unless he is a qualified person (as defined in section 2 of the Legal Profession Act (Cap. 161)) of not less than 5 years’ standing.
+
+[23/2009 wef 31/12/2009]
+
+(4) For the purpose of enabling a Tribunal to be constituted under this Part, the Minister shall appoint a panel consisting of not more than 15 persons with such qualifications as he may consider necessary and shall publish their names in theGazette.
+
+[23/2009 wef 31/12/2009]
+
+(5) The Minister may appoint a Secretary to the Tribunals and such other officers and employees of the Tribunals as the Minister may determine.
+
+[23/2009 wef 31/12/2009]
+
+### Remuneration and allowances
+
+151B\.—(1) There shall be paid to each member of a Tribunal who is not a public officer such remuneration (whether by way of salaries or fees), and such allowances, as the Minister may determine.
+
+[23/2009 wef 31/12/2009]
+
+(2) The remuneration and allowances of the members of a Tribunal and such other expenses of a Tribunal as the Minister may determine shall be paid out of moneys provided by Parliament.
+
+[23/2009 wef 31/12/2009]
+
+(3) The remuneration of the Secretary to the Tribunals and the other officers and employees appointed under section 151A(5) shall be paid out of the funds of the Office.
+
+[23/2009 wef 31/12/2009]
 
 ### Tenure of office
 
-152\.—(1) Subject to this section, the members of the Tribunal shall hold office for such period as may be determined at the time of their respective appointments; and a person who ceases to hold office as a member of the Tribunal shall be eligible for reappointment.
+152\.—(1) Subject to this section, the president, a deputy president and any member of the panel shall hold office for such period as may be determined by the Minister at the time of their respective appointments and shall be eligible for re-appointment upon the expiry of their respective terms of office.
 
-(2) Any member of the Tribunal may at any time by notice in writing to the Minister resign his appointment.
+[23/2009 wef 31/12/2009]
 
-(3) The Minister may declare the office of any member of the Tribunal vacant on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
+(2) The president, a deputy president or any member of the panel may at any time by notice in writing to the Minister resign his appointment.
 
-[Aust. 1968, ss. 141 and 145]
+[23/2009 wef 31/12/2009]
 
-### Minister may appoint any person to act for absent member, etc.
+(3) The Minister may terminate the appointment of the president, a deputy president or any member of the panel on the ground of his unfitness to continue in office or his incapacity to perform the duties thereof.
 
-153\.—(1) If any member of the Tribunal is, by reason of illness, absence or other reasonable cause, for the time being unable to perform the duties of his office, either generally or in relation to any particular proceedings, the Minister may appoint some other duly qualified person to discharge the duties of that member for any period, not exceeding 6 months at one time, or, as the case may be, in relation to those proceedings.
+[23/2009 wef 31/12/2009]
 
-(2) A person so appointed shall, during that period or in relation to those proceedings, have the same powers as the person in whose place he is appointed.
+### Continuation of hearing on change in constitution of Tribunal
+
+153\.—(1) If during the course of any proceedings of a Tribunal being presided over by the president —
+
+(a) the president (referred to as the former president) is, by reason of illness, absence or any other cause, unable to perform the duties of his office; and
+
+(b) the Minister appoints a new president to replace him,
+
+the Tribunal shall be reconstituted accordingly and the new president shall preside over it in place of the former president.
+
+[23/2009 wef 31/12/2009]
+
+(2) If during the course of any proceedings of a Tribunal —
+
+(a) the deputy president who has been designated by the president under section 151(2)(a) to preside over the Tribunal; or
+
+(b) a member of the panel who has been selected by the president under section 151(2)(b) to be a member of the Tribunal,
+
+is, by reason of illness, absence or any other cause, unable to perform the duties of his office in relation to those proceedings, the president may reconstitute the Tribunal by doing any of the following, as the case requires:
+
+(i) preside over the Tribunal in place of the deputy president referred to in paragraph (a);
+
+(ii) designate the other deputy president to preside over the Tribunal;
+
+(iii) select any other member of the panel to replace that member referred to in paragraph (b).
+
+[23/2009 wef 31/12/2009]
+
+(3) A Tribunal as reconstituted under subsection (1) or (2) —
+
+(a) may hear and determine the proceedings as have not been determined and in so hearing may have regard to the evidence given, the arguments adduced and any interim order made during any previous hearing; and
+
+(b) shall, if requested by all the parties to the proceedings, hear the proceedings afresh.
+
+[23/2009 wef 31/12/2009]
+
+(4) Notwithstanding subsection (1) or (2), any president, deputy president or member of the panel whose appointment expires during the course of any proceedings of a Tribunal over which he is then presiding or of which is a member shall, for the purpose of such proceedings and until their determination, be deemed to remain a president, deputy president or member of the Tribunal, as the case may be.
+
+[23/2009 wef 31/12/2009]
 
 ### Quorum
 
-154\. If at any time there are more than 2 members of the Tribunal, in addition to the President of the Tribunal, then, for the purposes of any proceedings, the Tribunal may consist of the President together with any 2 or more of those members.
+154\. Except in the case of a preliminary hearing of an application or a reference, all 3 members of a Tribunal (as stipulated in section 151(2)) must be present to form a quorum for the purposes of any proceedings before the Tribunal.
+
+[23/2009 wef 31/12/2009]
 
 ### Decision of Tribunal
 
-155\. If the members of the Tribunal dealing with any reference or application are unable to agree as to the order to be made by the Tribunal, a decision shall be taken by the votes of the majority; and, in the event of an equality of votes, the President of the Tribunal shall be entitled to a second or casting vote.
+155\. If the members of a Tribunal dealing with any reference or application are unable to agree as to the order to be made by the Tribunal, a decision shall be taken by the votes of the majority.
 
 [Aust. 1968, s. 146 (5)]
 
+[23/2009 wef 31/12/2009]
+
 ### Sittings of Tribunal
 
-156\.—(1) Sittings of the Tribunal shall be held at such places and times as the President of the Tribunal determines.
+156\.—(1) The sittings of a Tribunal on any matter or matters before it, including any preliminary hearing, shall be held at such places and times as are determined by the president or deputy president presiding over the Tribunal.
 
-(2) The exercise of the powers of the Tribunal shall not be affected by a vacancy or vacancies in the membership of the Tribunal.
+[23/2009 wef 31/12/2009]
+
+(2) The exercise of the powers of a Tribunal shall not be affected by a vacancy or vacancies in the membership of the Tribunal.
 
 [Aust. 1968, s. 146 (1) and (7)]
+
+[23/2009 wef 31/12/2009]
 
 Division 3 —
 
@@ -5150,7 +5293,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Application to Tribunal for determination of remuneration payable for making recording or film of a work
 
-156A\.—(1) This section shall apply where an application is made to the Tribunal under section 43(3) or 68(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of a sound recording or cinematograph film of the work or of an adaptation of the work.
+156A\.—(1) This section shall apply where an application is made to a Tribunal under section 43(3) or 68(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of a sound recording or cinematograph film of the work or of an adaptation of the work.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -5162,7 +5307,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 [6/98]
 
-(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the recording or film.
+(3) Where an application in relation to which this section applies is made to a Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the recording or film.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -5170,7 +5317,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Application to Tribunal for determination of remuneration payable for making copy of sound recording
 
-156B\.—(1) This section shall apply where an application is made to the Tribunal under section 107(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the making of a copy of the sound recording.
+156B\.—(1) This section shall apply where an application is made to a Tribunal under section 107(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the making of a copy of the sound recording.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -5182,7 +5331,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 [6/98]
 
-(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copy of the sound recording.
+(3) Where an application in relation to which this section applies is made to a Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copy of the sound recording.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -5190,7 +5341,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Application to Tribunal for determination of remuneration payable for making available to public sound recording by means of digital audio transmission
 
-156C\.—(1) This section shall apply where an application is made to the Tribunal under section 107D for the determination of equitable remuneration to be paid to the owner of the copyright in a sound recording for the making available to the public of the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+156C\.—(1) This section shall apply where an application is made to a Tribunal under section 107D for the determination of equitable remuneration to be paid to the owner of the copyright in a sound recording for the making available to the public of the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+
+[23/2009 wef 31/12/2009]
 
 [52/2004]
 
@@ -5202,7 +5355,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 [52/2004]
 
-(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making available to the public of the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+(3) Where an application in relation to which this section applies is made to a Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making available to the public of the sound recording by means of or as part of a digital audio transmission that is not part of an interactive service.
+
+[23/2009 wef 31/12/2009]
 
 [52/2004]
 
@@ -5214,7 +5369,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Inquiries into royalty payable in respect of records of musical works
 
-157\.—(1) This section shall apply where the Minister charged with the responsibility for trade and industry requests the Tribunal under section 59 to hold an inquiry in relation to the royalty, or the minimum royalty, payable in respect of records generally, or in respect of records included in a particular class of records.
+157\.—(1) This section shall apply where the Minister charged with the responsibility for trade and industry requests a Tribunal under section 59 to hold an inquiry in relation to the royalty, or the minimum royalty, payable in respect of records generally, or in respect of records included in a particular class of records.
+
+[23/2009 wef 31/12/2009]
 
 (2) Where such a request is made, the Tribunal shall hold the inquiry and shall give every person or organisation that the Tribunal is satisfied has a substantial interest in the matter to which the inquiry relates an opportunity of presenting a case to the Tribunal.
 
@@ -5224,7 +5381,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Applications to Tribunal for determination of remuneration payable to owner of copyright for copies made under statutory licence
 
-158\.—(1) This section shall apply where application is made to the Tribunal under section 52(11) or (11C), 54(10) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copies, of a handicapped reader’s copy or of an intellectually handicapped reader’s copy, as the case requires, of the whole or of a part of that work.
+158\.—(1) This section shall apply where application is made to a Tribunal under section 52(11) or (11C), 54(10) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copies, of a handicapped reader’s copy or of an intellectually handicapped reader’s copy, as the case requires, of the whole or of a part of that work.
+
+[23/2009 wef 31/12/2009]
 
 [6/98; 52/2004]
 
@@ -5236,19 +5395,25 @@ Inquiries by, and Applications and References to, Tribunal
 
 [6/98]
 
-(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving the parties to the application opportunities of presenting their cases —
+(3) Where an application in relation to which this section applies is made to a Tribunal, the Tribunal shall consider the application and, after giving the parties to the application opportunities of presenting their cases —
 
 (a) shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copies or, of the handicapped reader’s copy or of the intellectually handicapped reader’s copy, as the case requires; and
 
 (b) may, subject to the regulations, make such order as to costs as the Tribunal thinks fit.
 
+[23/2009 wef 31/12/2009]
+
 [6/98]
 
-(4) Where the Tribunal makes, under subsection (3), an order that one party to an application pay an amount by way of costs to the other party to the application, the first-mentioned party shall pay that amount to the other party and, in default of payment, the first-mentioned party may recover that amount from the other party in a court of competent jurisdiction as a debt due to him.
+(4) Where a Tribunal makes, under subsection (3), an order that one party to an application pay an amount by way of costs to the other party to the application, the first-mentioned party shall pay that amount to the other party and, in default of payment, the first-mentioned party may recover that amount from the other party in a court of competent jurisdiction as a debt due to him.
+
+[23/2009 wef 31/12/2009]
 
 ### Applications to Tribunal for apportionment of royalty in respect of a record
 
-159\.—(1) This section shall apply where an application is made to the Tribunal under section 60(3)(b) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
+159\.—(1) This section shall apply where an application is made to a Tribunal under section 60(3)(b) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
+
+[23/2009 wef 31/12/2009]
 
 (2) The parties to an application in relation to which this section applies are —
 
@@ -5256,13 +5421,17 @@ Inquiries by, and Applications and References to, Tribunal
 
 (b) the owner of the copyright in the literary or dramatic work.
 
-(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order apportioning the amount to which the application relates between the parties in such manner as it thinks equitable.
+(3) Where an application in relation to which this section applies is made to a Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order apportioning the amount to which the application relates between the parties in such manner as it thinks equitable.
 
 [Aust. 1968, s. 153]
 
+[23/2009 wef 31/12/2009]
+
 ### Reference of proposed licence schemes to Tribunal
 
-160\.—(1) Where a licensor proposes to bring a licence scheme into operation, he may refer the scheme to the Tribunal.
+160\.—(1) Where a licensor proposes to bring a licence scheme into operation, he may refer the scheme to a Tribunal.
+
+[23/2009 wef 31/12/2009]
 
 (2) The parties to a reference under this section are —
 
@@ -5270,23 +5439,35 @@ Inquiries by, and Applications and References to, Tribunal
 
 (b) such organisations or persons (if any) as apply to the Tribunal to be made parties to the reference and, in accordance with subsection (3), are made parties to the reference.
 
-(3) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to the Tribunal to be made a party to a reference, and the Tribunal is satisfied that the organisation or person has a substantial interest in the operation of the scheme to which the reference relates, the Tribunal may, if it thinks fit, make that organisation or person a party to the reference.
+(3) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to a Tribunal to be made a party to a reference, and the Tribunal is satisfied that the organisation or person has a substantial interest in the operation of the scheme to which the reference relates, the Tribunal may, if it thinks fit, make that organisation or person a party to the reference.
 
-(4) The Tribunal shall consider a scheme referred under this section and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, as the Tribunal considers reasonable in the circumstances.
+[23/2009 wef 31/12/2009]
 
-(5) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
+(4) A Tribunal shall consider a scheme referred under this section and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, or substituting the scheme with such other scheme, as the Tribunal considers reasonable in the circumstances.
 
-(6) Where a licence scheme has been referred to the Tribunal under this section, the licensor may do either or both of the following things:
+[23/2009 wef 31/12/2009]
+
+(5) An order (other than an interim order) of a Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
+
+[23/2009 wef 31/12/2009]
+
+(6) Where a licence scheme has been referred to a Tribunal under this section, the licensor may do either or both of the following things:
 
 (a) bring the scheme into operation before the Tribunal makes an order in pursuance of the reference;
 
 (b) withdraw the reference at any time before the Tribunal makes an order in pursuance of the reference, whether the scheme has been brought into operation or not.
 
-(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed or varied by the order comes into operation, notwithstanding anything in the scheme, immediately upon the making of the order.
+[23/2009 wef 31/12/2009]
 
-(8) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
+(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed, varied or substituted by the order comes into operation, notwithstanding anything in the scheme, immediately upon the making of the order.
+
+[23/2009 wef 31/12/2009]
+
+(8) After the making of an order in pursuance of the reference, the scheme as confirmed, varied or substituted by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
 
 [Aust. 1968, s. 154]
+
+[23/2009 wef 31/12/2009]
 
 ### Reference of existing licence schemes to Tribunal
 
@@ -5296,7 +5477,9 @@ Inquiries by, and Applications and References to, Tribunal
 
 (b) any person claiming that he requires a licence in a case included in a class of cases to which the scheme applies,
 
-the licensor, organisation or person concerned may refer the scheme to the Tribunal insofar as the scheme relates to cases included in that class.
+the licensor, organisation or person concerned may refer the scheme to a Tribunal insofar as the scheme relates to cases included in that class.
+
+[23/2009 wef 31/12/2009]
 
 (2) The parties to a reference under this section are —
 
@@ -5306,27 +5489,41 @@ the licensor, organisation or person concerned may refer the scheme to the Tribu
 
 (c) such other organisations or persons (if any) as apply to the Tribunal to be made parties to the reference and, in accordance with subsection (3), are made parties to the reference.
 
-(3) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to the Tribunal to be made a party to a reference, and the Tribunal is satisfied that the organisation or person has a substantial interest in the matter in dispute, the Tribunal may, if it thinks fit, make that organisation or person a party to the reference.
+(3) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to a Tribunal to be made a party to a reference, and the Tribunal is satisfied that the organisation or person has a substantial interest in the matter in dispute, the Tribunal may, if it thinks fit, make that organisation or person a party to the reference.
 
-(4) The Tribunal shall not begin to consider a reference under this section by an organisation unless the Tribunal is satisfied that the organisation is reasonably representative of the class of persons that it claims to represent.
+[23/2009 wef 31/12/2009]
 
-(5) Subject to subsection (4), where a licence scheme is referred to the Tribunal under this section, the Tribunal shall consider the matter in dispute and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, insofar as it relates to cases included in the class of cases to which the reference relates, as the Tribunal considers reasonable in the circumstances.
+(4) A Tribunal shall not begin to consider a reference under this section by an organisation unless the Tribunal is satisfied that the organisation is reasonably representative of the class of persons that it claims to represent.
 
-(6) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
+[23/2009 wef 31/12/2009]
 
-(7) A reference of a licence scheme to the Tribunal under this section may be withdrawn at any time before an order is made in pursuance of the reference.
+(5) Subject to subsection (4), where a licence scheme is referred to a Tribunal under this section, the Tribunal shall consider the matter in dispute and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, or substituting the scheme with such other scheme, insofar as it relates to cases included in the class of cases to which the reference relates, as the Tribunal considers reasonable in the circumstances.
 
-(8) Where a licence scheme has been referred to the Tribunal under this section, the scheme shall remain in operation, notwithstanding anything in the scheme, until the Tribunal makes an order in pursuance of the reference.
+[23/2009 wef 31/12/2009]
+
+(6) An order (other than an interim order) of a Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
+
+[23/2009 wef 31/12/2009]
+
+(7) A reference of a licence scheme to a Tribunal under this section may be withdrawn at any time before an order is made in pursuance of the reference.
+
+[23/2009 wef 31/12/2009]
+
+(8) Where a licence scheme has been referred to a Tribunal under this section, the scheme shall remain in operation, notwithstanding anything in the scheme, until the Tribunal makes an order in pursuance of the reference.
+
+[23/2009 wef 31/12/2009]
 
 (9) Subsection (8) shall not apply in relation to a reference with respect to any period after the reference has been withdrawn or after the Tribunal has refused to begin to consider the reference in pursuance of subsection (4).
 
-(10) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
+(10) After the making of an order in pursuance of the reference, the scheme as confirmed, varied or substituted by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
 
 [Aust. 1968, s. 155]
 
+[23/2009 wef 31/12/2009]
+
 ### Further reference of licence schemes to Tribunal
 
-162\.—(1) Where the Tribunal has made an order (other than an interim order) under section 160 or 161 with respect to a licence scheme, then, subject to subsection (2), at any time while the order remains in force —
+162\.—(1) Where a Tribunal has made an order (other than an interim order) under section 160 or 161 with respect to a licence scheme, then, subject to subsection (2), at any time while the order remains in force —
 
 (a) the licensor operating the scheme;
 
@@ -5334,13 +5531,17 @@ the licensor, organisation or person concerned may refer the scheme to the Tribu
 
 (c) any person claiming that he requires a licence in a case included in that class,
 
-may refer the scheme again to the Tribunal insofar as it relates to cases included in that class.
+may refer the scheme again to a Tribunal insofar as it relates to cases included in that class.
 
-(2) A licence scheme shall not, except with the leave of the Tribunal, be referred again to the Tribunal under subsection (1) at a time earlier than —
+[23/2009 wef 31/12/2009]
+
+(2) A licence scheme shall not, except with the leave of a Tribunal, be referred again to a Tribunal under subsection (1) at a time earlier than —
 
 (a) where the order concerned was made so as to be in force indefinitely or for a period exceeding 15 months — the expiration of the period of 12 months commencing on the date on which the order was made; or
 
 (b) where the order concerned was made so as to be in force for a period not exceeding 15 months — the commencement of the period of 3 months ending on the date of expiration of the order.
+
+[23/2009 wef 31/12/2009]
 
 (3) The parties to a reference under this section are —
 
@@ -5348,15 +5549,19 @@ may refer the scheme again to the Tribunal insofar as it relates to cases includ
 
 (b) if the reference is not made by the licensor operating the scheme — that licensor; and
 
-(c) such other organisations or persons (if any) as apply to the Tribunal to be made parties to the reference and, in accordance with the provisions applicable in that behalf by virtue of subsection (5), are made parties to the reference.
+(c) such other organisations or persons (if any) as apply to a Tribunal to be made parties to the reference and, in accordance with the provisions applicable in that behalf by virtue of subsection (5), are made parties to the reference.
 
-(4) Subject to subsection (5), where a licence scheme is referred to the Tribunal under this section, the Tribunal shall consider the matter in dispute and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order in relation to the scheme as previously confirmed or varied, insofar as it relates to cases included in the class of cases to which the reference relates, whether by way of confirming, varying or further varying the scheme, as the Tribunal considers reasonable in the circumstances.
+[23/2009 wef 31/12/2009]
+
+(4) Subject to subsection (5), where a licence scheme is referred to a Tribunal under this section, the Tribunal shall consider the matter in dispute and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order in relation to the scheme as previously confirmed, varied or substituted, insofar as it relates to cases included in the class of cases to which the reference relates, whether by way of confirming, varying or further varying the scheme, or substituting the scheme with such other scheme, as the Tribunal considers reasonable in the circumstances.
+
+[23/2009 wef 31/12/2009]
 
 (5) Section 161(3), (4) and (6) to (10) inclusive shall apply for the purposes of this section.
 
 (6) Subsections (1) to (5) shall have effect in relation to orders made under this section in like manner as they have effect in relation to orders made under section 160 or 161.
 
-(7) Nothing in this section shall prevent a licence scheme in respect of which an order has been made under section 160 or 161 from being again referred to the Tribunal under that section —
+(7) Nothing in this section shall prevent a licence scheme in respect of which an order has been made under section 160 or 161 from being again referred to a Tribunal under that section —
 
 (a) insofar as the scheme relates to cases included in a class of cases to which the order does not apply — at any time; and
 
@@ -5364,11 +5569,17 @@ may refer the scheme again to the Tribunal insofar as it relates to cases includ
 
 [Aust. 1968, s. 156]
 
+[23/2009 wef 31/12/2009]
+
 ### Application to Tribunal in relation to licences
 
-163\.—(1) A person who claims, in a case to which a licence scheme applies, that the licensor operating the scheme has refused or failed to grant him a licence in accordance with the scheme, or to procure the grant to him of such a licence, may apply to the Tribunal under this section.
+163\.—(1) A person who claims, in a case to which a licence scheme applies, that the licensor operating the scheme has refused or failed to grant him a licence in accordance with the scheme, or to procure the grant to him of such a licence, may apply to a Tribunal under this section.
 
-(2) A person who claims, in a case to which a licence scheme applies, that he requires a licence but that the grant of a licence in accordance with the scheme would, in that case, be subject to the payment of charges, or to conditions, that are not reasonable in the circumstances of the case, may apply to the Tribunal under this section.
+[23/2009 wef 31/12/2009]
+
+(2) A person who claims, in a case to which a licence scheme applies, that he requires a licence but that the grant of a licence in accordance with the scheme would, in that case, be subject to the payment of charges, or to conditions, that are not reasonable in the circumstances of the case, may apply to a Tribunal under this section.
+
+[23/2009 wef 31/12/2009]
 
 (3) A person who claims that he requires a licence in a case to which a licence scheme does not apply (including a case where a licence scheme has not been formulated or is not in operation) and —
 
@@ -5376,7 +5587,9 @@ may refer the scheme again to the Tribunal insofar as it relates to cases includ
 
 (b) that a licensor proposes that the licence should be granted subject to the payment of charges, or to conditions, that are unreasonable,
 
-may apply to the Tribunal under this section.
+may apply to a Tribunal under this section.
+
+[23/2009 wef 31/12/2009]
 
 (4) An organisation that claims that it is representative of persons requiring licences in cases to which a licence scheme does not apply (including cases where a licence scheme has not been formulated or is not in operation) and —
 
@@ -5384,17 +5597,23 @@ may apply to the Tribunal under this section.
 
 (b) that a licensor proposes that the licences should be granted subject to the payment of charges, or to conditions, that are unreasonable,
 
-may apply to the Tribunal under this section.
+may apply to a Tribunal under this section.
 
-(5) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to the Tribunal to be made a party to an application under subsection (1), (2), (3) or (4), and the Tribunal is satisfied that the organisation or person has a substantial interest in the matter in dispute, the Tribunal may, if it thinks fit, make that organisation or person a party to the application.
+[23/2009 wef 31/12/2009]
 
-(6) Where an application is made to the Tribunal under subsection (1), (2), (3) or (4), the Tribunal shall give to the applicant, to the licensor concerned and to every other party (if any) to the application an opportunity of presenting their cases and, if the Tribunal is satisfied that the claim of the applicant is well-founded, the Tribunal shall make an order specifying, in respect of the matters specified in the order —
+(5) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to a Tribunal to be made a party to an application under subsection (1), (2), (3) or (4), and the Tribunal is satisfied that the organisation or person has a substantial interest in the matter in dispute, the Tribunal may, if it thinks fit, make that organisation or person a party to the application.
+
+[23/2009 wef 31/12/2009]
+
+(6) Where an application is made to a Tribunal under subsection (1), (2), (3) or (4), the Tribunal shall give to the applicant, to the licensor concerned and to every other party (if any) to the application an opportunity of presenting their cases and, if the Tribunal is satisfied that the claim of the applicant is well-founded, the Tribunal shall make an order specifying, in respect of the matters specified in the order —
 
 (a) in the case of an application under subsection (1) — the charges, if any, and the conditions, that the Tribunal considers to be applicable in accordance with the licence scheme in relation to the applicant;
 
 (b) in the case of an application under subsection (2) or (3) — the charges, if any, and the conditions, that the Tribunal considers reasonable in the circumstances in relation to the applicant; or
 
 (c) in the case of an application under subsection (4) — the charges, if any, and the conditions, that the Tribunal considers reasonable in the circumstances in relation to persons, or to persons included in classes of persons, specified in the order, being persons who were represented by the applicant or were parties to the application.
+
+[23/2009 wef 31/12/2009]
 
 (7) A reference in this section to a failure to grant a licence, or to procure the grant of a licence, shall be read as a reference to a failure to grant the licence, or to procure the grant of the licence, as the case may be, within a reasonable time after a request to do so.
 
@@ -5426,7 +5645,7 @@ may apply to the Tribunal under this section.
 
 (3) A person who does anything in relation to which subsection (1) applies shall be liable to pay to the licensor operating the licence scheme concerned the amount of any charges that would be payable if he were the holder of a licence granted in accordance with the scheme, as confirmed or varied by the order, insofar as the scheme relates to the doing of that thing and the licensor may recover that amount in a court of competent jurisdiction from the person as a debt due to the licensor.
 
-(4) Where the Tribunal has made an order on an application under section 163(1), (2) or (3) specifying charges, if any, and conditions, in relation to the applicant, in respect of the matters specified in the order, then if —
+(4) Where a Tribunal has made an order on an application under section 163(1), (2) or (3) specifying charges, if any, and conditions, in relation to the applicant, in respect of the matters specified in the order, then if —
 
 (a) the applicant has complied with the conditions specified in the order; and
 
@@ -5434,13 +5653,17 @@ may apply to the Tribunal under this section.
 
 the applicant shall be in the like position, in any proceedings for infringement of copyright relating to any of those matters, as if he had at all material times been the holder of a licence granted by the owner of the copyright concerned on the conditions, and subject to payment of the charges (if any), specified in the order.
 
-(5) Where the Tribunal has made an order on an application under section 163(4) specifying charges (if any) and conditions, in relation to the persons, or to persons included in the classes of persons, specified in the order, in respect of matters specified in the order, then, if —
+[23/2009 wef 31/12/2009]
+
+(5) Where a Tribunal has made an order on an application under section 163(4) specifying charges (if any) and conditions, in relation to the persons, or to persons included in the classes of persons, specified in the order, in respect of matters specified in the order, then, if —
 
 (a) any such person has complied with the conditions specified in the order; and
 
 (b) in the case where the order specifies any charges — the person has paid those charges to the licensor or, if the amount payable could not be ascertained, has given to the licensor an undertaking in writing to pay the charges when ascertained,
 
 that person shall be in the like position, in any proceedings for infringement of copyright relating to any of those matters, as if he had at all material times been the holder of a licence granted by the owner of the copyright concerned on the conditions, and subject to payment of the charges (if any), specified in the order.
+
+[23/2009 wef 31/12/2009]
 
 (6) Where a person in relation to whom an order referred to in subsection (4) or (5) applies does, in relation to any of the matters specified in that order, anything that, apart from that subsection, would be an infringement of copyright but would not be such an infringement if he were the holder of a licence in respect of the doing of that thing granted by the owner of the copyright concerned on the conditions and subject to payment of the charges (if any) specified in the order, that person shall be liable to pay to the owner of the copyright the amount of any charges that would be payable if he were the holder of such a licence.
 
@@ -5450,9 +5673,13 @@ that person shall be in the like position, in any proceedings for infringement o
 
 ### Attorney-General may make application for suspension order
 
-166\.—(1) Subject to subsection (2), upon application made to it by the Attorney-General, the Tribunal may, in its discretion, make an order suspending the application of section 52(1) and (2) in relation to the body administering an educational institution, being a body that has been convicted of 2 or more offences against the regulations in relation to the retention of records or declarations relating to copies of the whole or parts of works made in reliance on section 52.
+166\.—(1) Subject to subsection (2), upon application made to it by the Attorney-General, a Tribunal may, in its discretion, make an order suspending the application of section 52(1) and (2) in relation to the body administering an educational institution, being a body that has been convicted of 2 or more offences against the regulations in relation to the retention of records or declarations relating to copies of the whole or parts of works made in reliance on section 52.
 
-(2) The Tribunal shall not make an order under subsection (1) if it is satisfied that the body in relation to which the order is sought has taken all reasonable steps to ensure that no further contravention of the regulations referred to in subsection (1) will occur in relation to the retention of records or declarations relating to copies made or to be made by or on behalf of the body.
+[23/2009 wef 31/12/2009]
+
+(2) A Tribunal shall not make an order under subsection (1) if it is satisfied that the body in relation to which the order is sought has taken all reasonable steps to ensure that no further contravention of the regulations referred to in subsection (1) will occur in relation to the retention of records or declarations relating to copies made or to be made by or on behalf of the body.
+
+[23/2009 wef 31/12/2009]
 
 (3) For the purposes of subsection (1), a conviction of the custodian in charge of the copying records of an educational institution for a contravention of the regulations referred to in subsection (1), not being a conviction for a contravention in relation to which the body administering the educational institution has also been convicted, shall be taken to be a conviction of the body administering the educational institution.
 
@@ -5464,9 +5691,13 @@ that person shall be in the like position, in any proceedings for infringement o
 
 ### Application to revoke suspension orders
 
-167\.—(1) The body administering an educational institution may, at any time, make application to the Tribunal for the revocation of an order under section 166 suspending the application of section 52(1) in relation to it.
+167\.—(1) The body administering an educational institution may, at any time, make application to a Tribunal for the revocation of an order under section 166 suspending the application of section 52(1) in relation to it.
 
-(2) Where the Tribunal is satisfied, upon application made under subsection (1), that the body making the application has taken all reasonable steps to ensure that no further contravention of the regulations referred to in section 166(1) will occur in relation to the retention of records or declarations relating to copies made or to be made in reliance on section 52, the Tribunal may revoke the order to which the application relates.
+[23/2009 wef 31/12/2009]
+
+(2) Where a Tribunal is satisfied, upon application made under subsection (1), that the body making the application has taken all reasonable steps to ensure that no further contravention of the regulations referred to in section 166(1) will occur in relation to the retention of records or declarations relating to copies made or to be made in reliance on section 52, the Tribunal may revoke the order to which the application relates.
+
+[23/2009 wef 31/12/2009]
 
 (3) The parties to an application under subsection (1) for the revocation of an order made in relation to the body administering an institution are —
 
@@ -5476,33 +5707,51 @@ that person shall be in the like position, in any proceedings for infringement o
 
 ### Interim orders
 
-168\. Where an application or reference is made to the Tribunal under this Act, the Tribunal may make an interim order having effect until the final decision of the Tribunal on the application or reference is given.
+168\. Where an application or reference is made to a Tribunal under this Act, the Tribunal may make an interim order having effect until the final decision of the Tribunal on the application or reference is given.
 
 [Aust. 1968, s. 160]
 
+[23/2009 wef 31/12/2009]
+
 ### Reference of questions of law to High Court
 
-169\.—(1) The Tribunal may, of its own motion or at the request of a party, refer a question of law arising in proceedings before it for determination by the High Court.
+169\.—(1) A Tribunal may, of its own motion or at the request of a party, refer a question of law arising in proceedings before it for determination by the High Court.
 
-(2) A question shall not be referred to the High Court by virtue of subsection (1) in pursuance of a request made after the date on which the Tribunal gave its decision in the proceedings unless the request is made before the expiration of 14 days of the Tribunal giving its decision.
+[23/2009 wef 31/12/2009]
 
-(3) If the Tribunal, after giving its decision in any proceedings, refuses a request to refer a question to the High Court, the party by whom the request was made may, within 14 days of the refusal, apply to the High Court for an order directing the Tribunal to refer the question to the High Court.
+(2) A question shall not be referred to the High Court by virtue of subsection (1) in pursuance of a request made after the date on which a Tribunal gave its decision in the proceedings unless the request is made before the expiration of 14 days of the Tribunal giving its decision.
 
-(4) Where a reference is made to the High Court under this section with respect to any proceedings before the Tribunal, and where an application is made under subsection (3) with respect to any such proceedings, every party to the proceedings before the Tribunal shall be entitled to appear and to be heard.
+[23/2009 wef 31/12/2009]
 
-(5) Where, after the Tribunal has given its decision in any proceedings, the Tribunal refers to the High Court under this section a question of law that arose in the course of the proceedings, and the High Court decides that the question was erroneously determined by the Tribunal —
+(3) If a Tribunal, after giving its decision in any proceedings, refuses a request to refer a question to the High Court, the party by whom the request was made may, within 14 days of the refusal, apply to the High Court for an order directing the Tribunal to refer the question to the High Court.
+
+[23/2009 wef 31/12/2009]
+
+(4) Where a reference is made to the High Court under this section with respect to any proceedings before a Tribunal, and where an application is made under subsection (3) with respect to any such proceedings, every party to the proceedings before the Tribunal shall be entitled to appear and to be heard.
+
+[23/2009 wef 31/12/2009]
+
+(5) Where, after a Tribunal has given its decision in any proceedings, the Tribunal refers to the High Court under this section a question of law that arose in the course of the proceedings, and the High Court decides that the question was erroneously determined by the Tribunal —
 
 (a) the Tribunal shall reconsider the matter in dispute and, if it considers it necessary to do so for the purpose of giving effect to the decision of the High Court, shall give to the parties to the proceedings a further opportunity of presenting their cases; and
 
 (b) if it appears to the Tribunal to be appropriate, and in conformity with the decision of the High Court, to do so, the Tribunal shall make such order revoking or modifying any order previously made by it in the proceedings, or, in the case of proceedings under section 163 where the Tribunal refused to make an order, shall make such order under that section, as the Tribunal considers to be appropriate.
 
-(6) A reference of a question by the Tribunal to the High Court under this section shall be by way of stating a case for the opinion of the High Court; and the decision of the Court on any such reference shall be final.
+[23/2009 wef 31/12/2009]
 
-(7) For the purposes of this section, a question of law shall not include a question whether there is sufficient evidence to justify a finding of fact by the Tribunal.
+(6) A reference of a question by a Tribunal to the High Court under this section shall be by way of stating a case for the opinion of the High Court; and the decision of the Court on any such reference shall be final.
 
-(8) This section shall not apply in relation to an inquiry by the Tribunal under section 157.
+[23/2009 wef 31/12/2009]
+
+(7) For the purposes of this section, a question of law shall not include a question whether there is sufficient evidence to justify a finding of fact by a Tribunal.
+
+[23/2009 wef 31/12/2009]
+
+(8) This section shall not apply in relation to an inquiry by a Tribunal under section 157.
 
 [Aust. 1968, s. 161]
+
+[23/2009 wef 31/12/2009]
 
 ### Agreements or awards not affected
 
@@ -5516,9 +5765,11 @@ Procedure and Evidence
 
 ### Proceedings to be in public except in special circumstances
 
-171\.—(1) Subject to this section, the hearing of proceedings before the Tribunal shall be in public.
+171\.—(1) Subject to this section, the hearing of proceedings before a Tribunal shall be in public.
 
-(2) Where the Tribunal is satisfied that it is desirable to do so by reason of the confidential nature of any evidence or matter or for any other reason, the Tribunal may —
+[23/2009 wef 31/12/2009]
+
+(2) Where a Tribunal is satisfied that it is desirable to do so by reason of the confidential nature of any evidence or matter or for any other reason, the Tribunal may —
 
 (a) direct that a hearing or part of a hearing shall take place in private and give directions as to the persons who may be present; or
 
@@ -5526,17 +5777,23 @@ Procedure and Evidence
 
 [Aust. 1968, s. 163]
 
+[23/2009 wef 31/12/2009]
+
 ### Application may be made to Tribunal by agent of copyright owner
 
-172\.—(1) An owner of copyright may make an application to the Tribunal under this Act by his agent.
+172\.—(1) An owner of copyright may make an application to a Tribunal under this Act by his agent.
 
-(2) Two or more owners of copyright may jointly make a single application to the Tribunal by the same agent against the same person or body.
+[23/2009 wef 31/12/2009]
+
+(2) Two or more owners of copyright may jointly make a single application to a Tribunal by the same agent against the same person or body.
 
 [Aust. 1968, s. 163A]
 
+[23/2009 wef 31/12/2009]
+
 ### Procedure
 
-173\. In proceedings before the Tribunal —
+173\. In proceedings before a Tribunal —
 
 (a) the procedure of the Tribunal shall, subject to this Act and the regulations, be within the discretion of the Tribunal;
 
@@ -5544,51 +5801,63 @@ Procedure and Evidence
 
 (c) the proceedings shall be conducted with as little formality, and with as much expedition, as the requirements of this Act and a proper consideration of the matters before the Tribunal permit.
 
+[23/2009 wef 31/12/2009]
+
 [Aust. 1968, s. 164]
 
 ### Mistakes or errors in orders of Tribunal
 
-174\. The Tribunal may correct, in any order of the Tribunal, a clerical mistake or an error arising from an accidental slip or omission.
+174\. A Tribunal may correct any clerical mistake or any error arising from an accidental slip or omission in any order made by it.
 
-[Aust. 1968, s. 165]
+[23/2009 wef 31/12/2009]
 
 ### Regulations as to procedure
 
-175\.—(1) The regulations may make provision for or in relation to the procedure in connection with the making of references and applications to the Tribunal and the regulation of proceedings before the Tribunal and may prescribe the fees payable in respect of those references and applications and the fees and expenses of witnesses in those proceedings.
+175\.—(1) The regulations may make provision for or in relation to the procedure in connection with the making of references and applications to a Tribunal and the regulation of proceedings before a Tribunal and may prescribe the fees payable in respect of those references and applications and the fees and expenses of witnesses in those proceedings.
+
+[23/2009 wef 31/12/2009]
 
 (2) The regulations may include provision —
 
-(a) for requiring notice of an intended inquiry by the Tribunal under section 157 or an intended reference to the Tribunal under section 160, 161 or 162 to be advertised in accordance with the regulations;
+(a) for requiring notice of an intended inquiry by a Tribunal under section 157 or an intended reference to a Tribunal under section 160, 161 or 162 to be advertised in accordance with the regulations;
 
-(b) for requiring notice of an intended application to the High Court under section 169(3) to be given to the Tribunal and to the other parties to the proceedings, and for limiting the time within which any such notice is to be given;
+(b) for requiring notice of an intended application to the High Court under section 169(3) to be given to a Tribunal and to the other parties to the proceedings, and for limiting the time within which any such notice is to be given;
 
-(c) for suspending, or authorising or requiring the Tribunal to suspend, the operation of orders of the Tribunal in cases where, after giving its decision, the Tribunal refers a question of law to the High Court;
+(c) for suspending, or authorising or requiring a Tribunal to suspend, the operation of orders of the Tribunal in cases where, after giving its decision, the Tribunal refers a question of law to the High Court;
 
-(d) for modifying, in relation to orders of the Tribunal the operation of which is suspended, the operation of any provisions of this Part as to the effect of orders made under this Part;
+(d) for modifying, in relation to orders of a Tribunal the operation of which is suspended, the operation of any provisions of this Part as to the effect of orders made under this Part;
 
-(e) for the publication of notices, or the doing of any other things, to ensure that persons affected by the suspension of an order of the Tribunal will be informed of its suspension; and
+(e) for the publication of notices, or the doing of any other things, to ensure that persons affected by the suspension of an order of a Tribunal will be informed of its suspension; and
 
 (f) for regulating or prescribing any other matters incidental to or consequential upon any request, application, order or decision under section 169.
 
 [Aust. 1968, s. 166]
 
+[23/2009 wef 31/12/2009]
+
 ### Power to take evidence on oath
 
-176\.—(1) The Tribunal may take evidence on oath or affirmation, and for that purpose a member may administer an oath or affirmation.
+176\.—(1) A Tribunal may take evidence on oath or affirmation, and for that purpose a member may administer an oath or affirmation.
 
-(2) A member may summon a person to appear before the Tribunal to give evidence and to produce such documents and articles (if any) as are referred to in the summons.
+[23/2009 wef 31/12/2009]
+
+(2) A member of a Tribunal may summon a person to appear before the Tribunal to give evidence and to produce such documents and articles (if any) as are referred to in the summons.
 
 [Aust. 1968, s. 167]
 
+[23/2009 wef 31/12/2009]
+
 ### Evidence in form of written statement
 
-177\. The Tribunal may, if it thinks fit, permit a person appearing as a witness before the Tribunal to give evidence by tendering, and verifying by oath or affirmation, a written statement, which shall be filed with the Secretary to the Tribunal.
+177\. A Tribunal may, if it thinks fit, permit a person appearing as a witness before the Tribunal to give evidence by tendering, and verifying by oath or affirmation, a written statement, which shall be filed with the Secretary to the Tribunals.
 
 [Aust. 1968, s. 168]
 
+[23/2009 wef 31/12/2009]
+
 ### Representation
 
-178\. In proceedings before the Tribunal —
+178\. In proceedings before a Tribunal —
 
 (a) a party other than a body corporate or an unincorporated body of persons may appear in person or be represented by an employee of the party approved by the Tribunal;
 
@@ -5600,6 +5869,8 @@ Procedure and Evidence
 
 [Aust. 1968, s. 169]
 
+[23/2009 wef 31/12/2009]
+
 Division 5 —
 
 Miscellaneous
@@ -5608,17 +5879,25 @@ Miscellaneous
 
 179\.—(1) A member shall have, in the performance of his duty as a member, the same protection and immunity as a Judge of the High Court.
 
-(2) A person summoned to appear before the Tribunal as a witness shall have the same protection, and shall, in addition to the penalties provided by this Act, be subject to the same liabilities, in any civil or criminal proceedings as a witness in proceedings in the High Court.
+(2) A person summoned to appear before a Tribunal as a witness shall have the same protection, and shall, in addition to the penalties provided by this Act, be subject to the same liabilities, in any civil or criminal proceedings as a witness in proceedings in the High Court.
 
 [Aust. 1968, s. 171]
 
+[23/2009 wef 31/12/2009]
+
 ### Disobedience to summons, etc.
 
-180\.—(1) A person who has been summoned to appear as a witness before the Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to appear in obedience to the summons.
+180\.—(1) A person who has been summoned to appear as a witness before a Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to appear in obedience to the summons.
 
-(2) A person who has been summoned to produce a document or article to the Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to produce the document or article.
+[23/2009 wef 31/12/2009]
 
-(3) A person who appears before the Tribunal shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents or articles, or to answer questions, that he is required by the Tribunal to produce or answer.
+(2) A person who has been summoned to produce a document or article to a Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to produce the document or article.
+
+[23/2009 wef 31/12/2009]
+
+(3) A person who appears before a Tribunal shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents or articles, or to answer questions, that he is required by the Tribunal to produce or answer.
+
+[23/2009 wef 31/12/2009]
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
 
@@ -5630,15 +5909,17 @@ Miscellaneous
 
 (a) insult or disturb a member in the exercise of his powers or functions as a member;
 
-(b) interrupt the proceedings of the Tribunal;
+(b) interrupt the proceedings of a Tribunal;
 
 (c) use insulting language towards a member;
 
-(d) create a disturbance or take part in creating or continuing a disturbance in or near a place where the Tribunal is sitting;
+(d) create a disturbance or take part in creating or continuing a disturbance in or near a place where a Tribunal is sitting;
 
-(e) contravene or fail to comply with a direction of the Tribunal given under section 171(2)(b); or
+(e) contravene or fail to comply with a direction of a Tribunal given under section 171(2)(b); or
 
-(f) do any other act or thing that would, if the Tribunal were a court of record, constitute a contempt of that court.
+(f) do any other act or thing that would, if a Tribunal were a court of record, constitute a contempt of that court.
+
+[23/2009 wef 31/12/2009]
 
 (2) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
 
@@ -5646,19 +5927,27 @@ Miscellaneous
 
 ### Cost of proceedings
 
-182\.—(1) The Tribunal may order that the costs of any proceedings before it incurred by any party, or a part of those costs, shall be paid by any other party and may tax or settle the amount of the costs to be so paid, or specify the manner in which they are to be taxed.
+182\.—(1) A Tribunal may order that the costs of any proceedings before it incurred by any party, or a part of those costs, shall be paid by any other party and may tax or settle the amount of the costs to be so paid, or specify the manner in which they are to be taxed.
 
-(2) Costs directed by the Tribunal to be paid to a party may be recovered by that party in any court of competent jurisdiction.
+[23/2009 wef 31/12/2009]
 
-(3) This section shall apply in relation to an inquiry by the Tribunal under section 157.
+(2) Costs directed by a Tribunal to be paid to a party may be recovered by that party in any court of competent jurisdiction.
+
+[23/2009 wef 31/12/2009]
+
+(3) This section shall apply in relation to an inquiry by a Tribunal under section 157.
 
 [Aust. 1968, s. 174]
 
+[23/2009 wef 31/12/2009]
+
 ### Proof of orders of Tribunal
 
-183\. Without prejudice to any other method available by law for the proof of orders of the Tribunal, a document purporting to be a copy of such an order, and to be certified by the Secretary to the Tribunal to be a true copy of the order, shall be admitted in any proceedings, as evidence of the order.
+183\. Without prejudice to any other method available by law for the proof of orders of a Tribunal, a document purporting to be a copy of such an order, and to be certified by the Secretary to the Tribunals to be a true copy of the order, shall be admitted in any proceedings, as evidence of the order.
 
 [Aust. 1968, s. 175]
+
+[23/2009 wef 31/12/2009]
 
 ## PART VIII
 
@@ -6378,7 +6667,9 @@ shall, for the purposes of subsection (1), be each deemed to be for the service 
 
 (4) Where an act comprised in a copyright has been done under subsection (1), the Government shall as soon as possible, unless it appears to the Government that it would be contrary to the public interest to do so, inform the owner of the copyright, as prescribed, of the doing of the act and shall furnish him with such information as to the doing of the act as he from time to time reasonably requires.
 
-(5) Where an act comprised in a copyright has been done under subsection (1), the terms for the doing of the act are such terms as are, whether before or after the act is done, agreed between the Government and the owner of the copyright or, in default of agreement, as are fixed by the Copyright Tribunal.
+(5) Where an act comprised in a copyright has been done under subsection (1), the terms for the doing of the act are such terms as are, whether before or after the act is done, agreed between the Government and the owner of the copyright or, in default of agreement, as are fixed by a Copyright Tribunal.
+
+[23/2009 wef 31/12/2009]
 
 (6) An agreement or licence (whether made or granted before or after 10th April 1987) fixing the terms upon which a person other than the Government may do acts comprised in a copyright is inoperative with respect to the doing of those acts after that date, under subsection (1), unless the agreement or licence has been approved by the Minister.
 
@@ -6492,11 +6783,13 @@ being a notation of message that contains a statement that the person knows, or 
 
 (a) for infringement of copyright in a work;
 
-(b) before the Copyright Tribunal on application made under section 52(11), 54(10) or 54A(7); or
+(b) before a Copyright Tribunal on application made under section 52(11), 54(10) or 54A(7); or
 
 (c) for a contravention of a provision of this Act,
 
 of a copy of a work, or of a part of a work, bearing a notation of the kind referred to in subsection (1) is prima facie evidence of the matters stated in the notation.
+
+[23/2009 wef 31/12/2009]
 
 [6/98]
 
@@ -8800,7 +9093,7 @@ Copyright Act
 
 (CHAPTER 63)
 
-This Legislative History is provided for the convenience of users of the Copyright Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Copyright Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -8900,6 +9193,11 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|20.|**Act 23 of 2009—Copyright (Amendment) Act 2009**|
+||Date of First Reading|18 August 2009|
+|||(Bill No. 16/2009 published on 18 August 2009)|
+||Date of Second and Third Readings|15 September 2009|
+||Date of commencement|31 December 2009|
 ## COMPARATIVE TABLE
 
 Copyright Act
