@@ -136,7 +136,9 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Office appointed under section 10 and includes any person acting in that capacity;
 
-“Copyright Tribunal” means the Copyright Tribunal established under Part VII of the Copyright Act (Cap. 63);
+“Copyright Tribunal” means a Copyright Tribunal established under Part VII of the Copyright Act (Cap. 63);
+
+[23/2009 wef 31/12/2009]
 
 “debenture” includes debenture stock;
 
@@ -206,7 +208,9 @@ FUNCTIONS, DUTIES AND POWERS OF OFFICE
 
 (a) to administer the systems in Singapore for the protection of intellectual property;
 
-(b) to provide administrative support services to the Copyright Tribunal in the performance of the Tribunal’s functions under the Copyright Act (Cap. 63);
+(b) to provide administrative support services to the Copyright Tribunals in the performance of their functions under the Copyright Act (Cap. 63);
+
+[23/2009 wef 31/12/2009]
 
 (c) to maintain and provide access by the public to documents and information relating to any intellectual property kept or maintained by the Office;
 
@@ -770,3 +774,9 @@ This Legislative History is provided for the convenience of users of the Intelle
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|6.|**Act 23 of 2009—Copyright (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 August 2009|
+|||(Bill No. 16/2009 published on 18 August 2009)|
+||Date of Second and Third Readings|15 September 2009|
+||Date of commencement|31 December 2009|
