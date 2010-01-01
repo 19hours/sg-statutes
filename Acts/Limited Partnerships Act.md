@@ -1,16 +1,14 @@
-**Limited Partnerships Act 2008**
+**Limited Partnerships Act**
 
-**(No. 37 of 2008)**
+**(CHAPTER 163B)**
 
 **Table of Contents**
 
 [**Long Title**](#Limited-Partnerships-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I GENERAL**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -96,7 +94,7 @@
 
 - [40 Service of summons, notices, etc.](#Service-of-summons-notices-etc)
 
-[**Part V MISCELLANEOUS Provisions**](#Part-V)
+[**Part V MISCELLANEOUS PROVISIONS**](#Part-V)
 
 - [41 Regulations](#Regulations)
 
@@ -104,55 +102,35 @@
 
 - [43 Amendment of First and Second Schedules](#Amendment-of-First-and-Second-Schedules)
 
-- [44 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
-
 [**FIRST SCHEDULE Acts Not Regarded As Taking Part in Management of Limited Partnership**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Additional Particulars**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE CONSEQUENTIAL AND RELATED AMENDMENTS to other written laws**](#THIRD-SCHEDULE-CONSEQUENTIAL-AND-RELATED-AMENDMENTS-to-other-written-laws)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Limited Partnerships Act
 
-ACTS SUPPLEMENT
+(CHAPTER 163B)
 
-Published by Authority
+(Original Enactment: Act 37 of 2008)
 
-NO. 8]
+REVISED EDITION 2010
 
-Friday, February 27
+(1st January 2010)
 
-[2009
+An Act to provide for the establishment and registration of limited partnerships.
 
-The following Act was passed by Parliament on 18th November 2008 and assented to by the President on 4th December 2008:—
-
-Limited Partnerships Act 2008
-
-(No. 37 of 2008)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-4th December 2008.
-
-Date of Commencement: 4th May 2009
-
-An Act to provide for the establishment and registration of limited partnerships and to make consequential and related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[4th May 2009]
 
 ## PART I
 
 GENERAL
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Limited Partnerships Act 2008 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Limited Partnerships Act.
 
 ### Interpretation
 
@@ -220,13 +198,15 @@ who have entered into partnership with one another with a view to carrying on bu
 
 (2) A person who has a place of business in Singapore shall be deemed to be carrying on business in Singapore for the purposes of this Act.
 
+[Delaware LP, §. 17-101(2); BR Act, s. 2(1) and (2); LLPA, s. 2(1); UK LPA, s. 3]
+
 ## PART II
 
 RULES OF LAW RELATING TO LIMITED PARTNERSHIPS
 
 ### Constitution of limited partnership
 
-3\.—(1) From the date of commencement of this Act, limited partnerships may be formed in accordance with and subject to the conditions of this Act.
+3\.—(1) From 4th May 2009, limited partnerships may be formed in accordance with and subject to the conditions of this Act.
 
 (2) A limited partnership must consist of —
 
@@ -240,11 +220,15 @@ RULES OF LAW RELATING TO LIMITED PARTNERSHIPS
 
 (5) An individual or a corporation may be a general partner or a limited partner.
 
+[UK LPA, s. 4(1), (2) and (4); LLPA, s. 8(2); PA, s. 9]
+
 ### Law as to private partnerships to apply unless excluded by this Act
 
 4\.—(1) Subject to the provisions of this Act, the Partnership Act (Cap. 391) and the rules of equity and of common law applicable to partnerships (except so far as they are inconsistent with the express provisions of the Partnership Act) shall apply to limited partnerships.
 
 (2) In subsection (1), the reference to partnerships shall not include limited liability partnerships.
+
+[UK LPA, s. 7]
 
 ### Default rules on relationship of partners
 
@@ -253,6 +237,8 @@ RULES OF LAW RELATING TO LIMITED PARTNERSHIPS
 (a) any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the general partners; and
 
 (b) a person may become a partner without the consent of the existing limited partners.
+
+[UK LPA, s. 6(5)]
 
 ### Limited partner not to take part in management of limited partnership
 
@@ -267,6 +253,8 @@ RULES OF LAW RELATING TO LIMITED PARTNERSHIPS
 (a) be taken to be exhaustive; or
 
 (b) create rights or powers of limited partners.
+
+[Delaware LP, §. 17-303(b); Jersey LP Law, Art. 19(5); UK LPA, s. 6(1)]
 
 ### Distributions to limited partner
 
@@ -302,9 +290,11 @@ RULES OF LAW RELATING TO LIMITED PARTNERSHIPS
 
 (4) Subsections (1), (2) and (3) shall apply subject to any agreement expressed or implied between the partners of a limited partnership.
 
-(5) The mental incapacity of a limited partner shall not be a ground for dissolution of the partnership by the court under section 35 of the Partnership Act (Cap. 391) unless the mentally incapacitated person’s share cannot be otherwise ascertained and realised.
+(5) The mental incapacity of a limited partner shall not be a ground for dissolution of the partnership by the court under section 35 of the Partnership Act unless the mentally incapacitated person’s share cannot be otherwise ascertained and realised.
 
 (6) In the event of the dissolution of a limited partnership, its affairs shall be wound up by the general partners unless the court otherwise orders.
+
+[UK LPA, s. 6(2), (3) and (5)(c) and (e)]
 
 ## PART III
 
@@ -330,6 +320,8 @@ REGISTRATION OF LIMITED PARTNERSHIPS
 
 (b) the power to make regulations under this Act.
 
+[BR Act, s. 3; LLPA, s. 3]
+
 ### Effect of registration
 
 10\.—(1) A limited partner of a firm shall be deemed to be a general partner of the firm unless he is registered as a limited partner of the firm in accordance with this Act.
@@ -342,11 +334,13 @@ REGISTRATION OF LIMITED PARTNERSHIPS
 
 (b) any person who was a general partner of the firm as a general partner of the limited partnership until he has notice of the registration of that person as a limited partner of the limited partnership.
 
-(4) Subject to section 36(3) of the Partnership Act and subsection (6), where a person deals with a limited partnership after a general partner of the limited partnership becomes a limited partner of the limited partnership, he is entitled to treat that partner as a general partner of the limited partnership until he has notice of the registration of that partner as a limited partner of the limited partnership.
+(4) Subject to section 36(3) of the Partnership Act (Cap. 391) and subsection (6), where a person deals with a limited partnership after a general partner of the limited partnership becomes a limited partner of the limited partnership, he is entitled to treat that partner as a general partner of the limited partnership until he has notice of the registration of that partner as a limited partner of the limited partnership.
 
 (5) Registration of a firm as a limited partnership under this Act shall be notice of such registration as to persons who, before the date of such registration, had no dealings with the firm.
 
 (6) Registration of a person as a limited partner of a limited partnership under this Act shall be notice of such registration as to persons who, before the date of such registration, had no dealings with the limited partnership or the firm which subsequently became the limited partnership.
+
+[UK LPA, s. 5]
 
 ### Manner and particulars of registration
 
@@ -394,6 +388,8 @@ the general partner shall, in addition to the particulars required under subsect
 
 (b) in the case of a person not issued with such an identity card, particulars of his passport or travel document or such other similar evidence of identification as is available, if any.
 
+[UK LPA, s. 8; BR Act, ss. 6(1), 7; LLPA, s. 15(1) and (4)]
+
 ### Registration
 
 12\.—(1) On receiving the statement referred to in section 11, the Registrar shall, subject to the provisions of this Act, cause that statement, upon payment of the prescribed fee, to be entered in the register.
@@ -412,6 +408,8 @@ the general partner shall, in addition to the particulars required under subsect
 
 (8) The registration of any limited partnership shall not be deemed to imply that the requirements of any law in relation to any business carried on by that limited partnership have been complied with.
 
+[BR Act, s. 8; LLPA, s. 16]
+
 ### Power to refuse registration
 
 13\.—(1) Notwithstanding any provision in this Act or any other written law, the Registrar shall refuse to register a limited partnership under this Act where he is satisfied that —
@@ -421,6 +419,8 @@ the general partner shall, in addition to the particulars required under subsect
 (b) it would be contrary to the national security or interest for the limited partnership to be registered.
 
 (2) Any person aggrieved by the decision of the Registrar under subsection (1) may, within 30 days of the date of the decision, appeal to the Minister whose decision shall be final.
+
+[BR Act, s. 9; LLPA, s. 17]
 
 ### Power to cancel registration
 
@@ -436,11 +436,15 @@ the general partner shall, in addition to the particulars required under subsect
 
 (4) Any person aggrieved by the cancellation under subsection (1) may, within 30 days of the date of the cancellation, appeal to the Minister whose decision shall be final.
 
+[BR Act, s. 10]
+
 ### Supplemental provision to sections 13 and 14
 
 15\.—(1) For the purposes of sections 13 and 14, a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that it would be contrary to the national security or interest for the limited partnership to be registered under this Act shall be conclusive evidence of the matters so stated.
 
 (2) Section 14(2) shall not apply in a case where the Registrar cancels the registration of a limited partnership under section 14(1)(a) pursuant to a certificate referred to in subsection (1).
+
+[BR Act, s. 11; LLPA, s. 17(3)]
 
 ### Name of limited partnership
 
@@ -451,6 +455,8 @@ the general partner shall, in addition to the particulars required under subsect
 (3) The registration of the name of a limited partnership shall not be construed as authorising the use of that name if, apart from such registration, the use thereof could be prohibited.
 
 (4) Every general partner of a limited partnership who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[BR Act, s. 12; LLPA, s. 18]
 
 ### Restrictions on registration of name of limited partnership
 
@@ -496,6 +502,8 @@ the Registrar may direct any general partner of the limited partnership to chang
 
 (11) The Minister may make regulations for the purpose of determining the matters referred to in subsections (1) and (4).
 
+[BR Act, s. 13; LLPA, s. 19]
+
 ### Registration of changes in particulars
 
 18\.—(1) Whenever a change is made or occurs in any of the particulars registered in respect of any limited partnership, a general partner of the limited partnership shall, within 14 days after the change, or such further period as the Registrar may on application allow, lodge with the Registrar a statement specifying the nature and date of the change, and containing such other information as may be prescribed.
@@ -507,6 +515,8 @@ the Registrar may direct any general partner of the limited partnership to chang
 (4) The Registrar may, in any particular case, require a statement lodged under subsection (1) to be rectified in such manner as the Registrar considers fit.
 
 (5) Any statement required to be lodged under this section shall be in such medium and form as the Registrar may determine.
+
+[BR Act, s. 14; LLPA, s. 28]
 
 ### Cessation of business
 
@@ -528,9 +538,13 @@ he may cancel the registration of that limited partnership and remove the name o
 
 (6) Where the registration of a limited partnership is cancelled under this section, any certificate or notice pertaining to the registration of that limited partnership under this Act shall be deemed to be cancelled.
 
+[BR Act, s. 15 (modified)]
+
 ### Appeal
 
 20\. Any person who is aggrieved by the refusal of the Registrar to register a limited partnership under this Act or to renew such a registration may, within 30 days of the date of such refusal, appeal to the Minister whose decision shall be final.
+
+[BR Act, s. 22]
 
 ### Rectification of register
 
@@ -544,11 +558,13 @@ he may cancel the registration of that limited partnership and remove the name o
 
 (5) The Registrar may, upon receipt of any notification referred to in subsection (4), rectify the register accordingly.
 
+[BR Act, s. 16; LLPA, s. 40]
+
 ### Request for copy of certificate of registration, etc.
 
 22\.—(1) Any person may, upon payment of such fees as may be prescribed, require —
 
-(a) a copy of a notice of registration or certificate of confirmation of registration under section 12; or
+(a) a copy of a notice of registration or certificate of confirmation of registration issued under section 12; or
 
 (b) a copy of or an extract from any document filed with the Registrar,
 
@@ -559,6 +575,8 @@ to be certified by the Registrar.
 (3) A register shall not be open to inspection by the public.
 
 (4) The Registrar shall not be required to issue under subsection (1) a copy of or an extract from a document forming part of the register where that document has been destroyed under section 24.
+
+[BR Act, s. 18]
 
 ### Electronic filing service
 
@@ -571,6 +589,8 @@ to be certified by the Registrar.
 (4) Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall, in any proceedings, be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
 
 (5) Subsections (3) and (4) shall have effect notwithstanding the provisions of any other written law.
+
+[BR Act, s. 20; LLPA, s. 42]
 
 ### Destruction or transfer of old records
 
@@ -590,6 +610,8 @@ to be certified by the Registrar.
 
 and no court shall entertain any suit or other proceedings or damages in respect of any such matter.
 
+[BR Act, ss. 19, 20(3), 34; LLPA, ss. 41, 42(3), 52]
+
 ## PART IV
 
 DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
@@ -599,6 +621,8 @@ DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
 26\.—(1) Every general partner of a limited partnership shall ensure that the invoices and official correspondence of the limited partnership bear the name and registration number of the limited partnership.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+
+[LLPA, s. 27]
 
 ### Accounts and audit
 
@@ -620,6 +644,8 @@ DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
 
 (b) in any other case, to a fine not exceeding $10,000.
 
+[LLPA, s. 25]
+
 ### Appointment and liability of local managers
 
 28\.—(1) Where every general partner of a limited partnership registered or to be registered under this Act is ordinarily resident outside Singapore, the Registrar may require a local manager to be appointed.
@@ -632,6 +658,8 @@ DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
 
 (5) Every general partner of a limited partnership who fails to comply with a requirement under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
+[BR Act, s. 25; BRR, r. 9]
+
 ### Restriction on undischarged bankrupt being manager
 
 29\.—(1) Any person who, being an undischarged bankrupt (whether he was adjudicated bankrupt by a Singapore court or a foreign court having jurisdiction in bankruptcy), directly or indirectly, takes part in or is concerned in the management of any limited partnership required to be registered under this Act, without the leave of the High Court or the written permission of the Official Assignee, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
@@ -639,6 +667,8 @@ DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
 (2) On an application by an undischarged bankrupt under subsection (1) to the High Court or the Official Assignee, as the case may be, the High Court or the Official Assignee may refuse the application or approve the application subject to such condition as the High Court or the Official Assignee, as the case may be, may impose.
 
 (3) The leave of the High Court for the purpose of this section shall not be given unless notice of intention to apply for the leave of the High Court has been served on the Official Assignee and the Official Assignee is heard on the application.
+
+[BR Act, s. 26]
 
 ### Disability of persons in default
 
@@ -660,11 +690,13 @@ then the rights of the defaulter under or arising out of any contract, in relati
 
 (5) This section shall not prejudice the rights of any other party as against the defaulter referred to in subsection (1) in respect of a contract mentioned in that subsection.
 
-(6) If any action or proceedings shall be commenced by any other party against the defaulter referred to in subsection (1) to enforce the rights of a party in respect of that contract, this section shall not preclude the defaulter from enforcing in that action or proceedings, by way of counter-claim, set-off or otherwise, such rights as he may have against that party in respect of that contract.
+(6) If any action or proceedings shall be commenced by any other party against the defaulter referred to in subsection (1) to enforce the rights of a party in respect of that contract, this section shall not preclude the defaulter from enforcing in that action or proceedings, by way of counterclaim, set-off or otherwise, such rights as he may have against that party in respect of that contract.
 
 (7) Without prejudice to the powers of the court to grant the relief referred to in subsection (3), if any proceedings to enforce any contract are commenced by a defaulter referred to in subsection (1) in a District Court or Magistrate’s Court, the District Court or Magistrate’s Court may, as regards that contract, grant relief under this section.
 
 (8) In this section, “court” means the High Court or a Judge thereof.
+
+[BR Act, s. 21]
 
 ### Inspection
 
@@ -678,6 +710,8 @@ then the rights of the defaulter under or arising out of any contract, in relati
 
 (5) It shall not be an offence for any person to refuse to comply with any request made by the Registrar or an inspector, or to resist or obstruct the Registrar or an inspector in the performance of any of his duties under this Act, if the Registrar or inspector fails to declare his office and to produce his authority in writing.
 
+[BR Act, s. 23; LLPA, s. 43]
+
 ### Power of Registrar to obtain further information
 
 32\.—(1) In order to obtain such information as the Registrar may consider necessary for the purposes of carrying out the provisions of this Act, the Registrar may —
@@ -687,6 +721,8 @@ then the rights of the defaulter under or arising out of any contract, in relati
 (b) summon that person to appear, before him or an inspector or any other public officer whom the Registrar may designate, to answer any such question orally.
 
 (2) The Registrar may further require the person referred to in subsection (1) to make such further declaration or supply such further particulars as the Registrar may require.
+
+[BR Act, s. 24; LLPA, s. 44]
 
 ### Offences
 
@@ -706,6 +742,8 @@ shall be guilty of an offence.
 
 (3) A person shall be liable on conviction of an offence under subsection (1) or (2) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[BR Act, s. 27; LLPA, s. 39]
+
 ### Evidence of carrying on business under name of limited partnership
 
 34\. If, in any proceedings for an offence under this Act —
@@ -715,6 +753,8 @@ shall be guilty of an offence.
 (b) evidence is given from which the court may infer that the name of a limited partnership has reference to any business carried on at the premises,
 
 the person carrying on the business shall, in the absence of proof to the contrary, be presumed to be carrying on the business under that name.
+
+[BR Act, s. 28]
 
 ### Composition of offences
 
@@ -730,9 +770,13 @@ whichever is the lower.
 
 (3) All sums collected under this section shall be paid to the Authority.
 
+[HPA, s. 65; LLPA, s. 46]
+
 ### Public servants
 
 36\. All officers and inspectors appointed under this Act shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[BR Act, s. 30; LLPA, s. 47]
 
 ### Enforcement of duty to make returns
 
@@ -747,6 +791,8 @@ and fails to make good the default within 14 days after the service on the perso
 (2) Any such order may provide that all the costs of and incidental to the application shall be borne by that person or by any officer of the corporation who is responsible for the default if that person is a corporation.
 
 (3) Nothing in this section shall limit the operation of any other provision of this Act or any written law imposing penalties (in respect of any default referred to in this section) on that person or an officer of a corporation if that person is a corporation.
+
+[BR Act, s. 32; LLPA, s. 49]
 
 ### Offences by bodies corporate
 
@@ -768,6 +814,8 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 “partner” includes a person purporting to act as a partner.
 
+[HPA, s. 59]
+
 ### Liability of managers, agents, employees, etc.
 
 39\.—(1) Where a general partner of a limited partnership is required under this Act to do any act or thing, the person responsible for the management of the limited partnership shall also be answerable for the doing of or omission to do that act or thing.
@@ -784,6 +832,8 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 (5) This section shall be in addition to and not in derogation of any other provisions of this Act.
 
+[BR Act, ss. 2(1) and (3), 33]
+
 ### Service of summons, notices, etc.
 
 40\.—(1) Any notice, written communication, certificate or other document required to be given or served under the provisions of this Act on a limited partnership or the general partners of a limited partnership shall be deemed to have been duly given or served if posted by the Registrar to the registered principal place of business of the limited partnership.
@@ -798,9 +848,11 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 (3) In proving service by registered post, it shall be sufficient to prove that the cover containing the summons was properly addressed, stamped and posted by registered post.
 
+[BR Act, s. 36]
+
 ## PART V
 
-MISCELLANEOUS Provisions
+MISCELLANEOUS PROVISIONS
 
 ### Regulations
 
@@ -836,6 +888,8 @@ MISCELLANEOUS Provisions
 
 (3) In this section, “foreign limited partnership” means a partnership formed, registered or incorporated outside Singapore in which the liability of some but not all of the partners is limited, and having such other features as may be prescribed by the Minister.
 
+[BR Act, s. 37; LLPA, s. 56]
+
 ### Registration under Business Registration Act
 
 42\.—(1) The Business Registration Act shall not apply to any person carrying on business in Singapore as a limited partnership registered under this Act, except during any period when the registration of the limited partnership is suspended under this section.
@@ -863,10 +917,6 @@ MISCELLANEOUS Provisions
 ### Amendment of First and Second Schedules
 
 43\. The Minister may, by order published in theGazette, amend the First and Second Schedules.
-
-### Consequential and related amendments to other written laws
-
-44\. The provisions of the Acts specified in the first column of the Third Schedule are amended in the manner set out in the second column thereof.
 
 FIRST SCHEDULE
 
@@ -920,7 +970,9 @@ Acts Not Regarded As Taking Part in Management of Limited Partnership
 
 12\. Winding up the limited partnership pursuant to any rights the limited partner may have under section 39 of the Partnership Act (Cap. 391).
 
-13\. Having all or any part of his name included in the name of the limited partnership.
+13. Having all or any part of his name included in the name of the limited partnership.
+
+[Delaware LP, §. 17; Jersey LP Law, Art. 19]
 
 SECOND SCHEDULE
 
@@ -932,238 +984,88 @@ Description of person
 
 The additional particulars
 
-1. Where the person carries on business as nominee or trustee of or for another person
+1.
+
+Where the person carries on business as nominee or trustee of or for another person
 
 The name, nationality and usual place of residence of every person on whose behalf the business is carried on and, if such person is a corporation, the name of the corporation, its registered office and the general nature of its business. Where the beneficiaries are a class of children or other persons, a description of the class.
 
-2. Where the person carries on business as agent for any foreign firm for the general purposes of the business of that foreign firm in Singapore
+2.
+
+Where the person carries on business as agent for any foreign firm for the general purposes of the business of that foreign firm in Singapore
 
 The business name and address of the foreign firm for whom the business is carried on and the general nature of that business except, where the business is carried on as agent for 3 or more foreign firms, it shall be sufficient to state the fact that the business is so carried on, specifying the firms and the countries in which those firms carry on business.
 
-THIRD SCHEDULE
+## LEGISLATIVE SOURCE KEY
 
-Section 44
+Limited Partnerships Act
 
-CONSEQUENTIAL AND RELATED AMENDMENTS to other written laws
+(CHAPTER 163B)
 
-First column
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
-Second column
+Delaware LP
 
-(1) Business Registration Act
+:
 
+Delaware Limited Partnerships (Delaware Code, Title 6, Chapter 17)
 
+Jersey LP Law
 
+:
 
-(Chapter 32, 2004 Ed.)
+Limited Partnerships (Jersey) Law 1994 (Chapter 13.500, Revised Edition)
 
-Section 13(1)
+UK LPA
 
-Delete the words “or under” in paragraph (c) and substitute the words “, section 17 of the Limited Partnerships Act 2008, section 19 of the Limited Liability Partnerships Act (Cap. 163A) or”.
+:
 
-(2) Goods and Services Tax Act
+UK Limited Partnerships Act 1907 (Chapter 24)
 
+BR Act
 
+:
 
+Singapore Business Registration Act (Chapter 32, 2004 Revised Edition)
 
-(Chapter 117A, 2005 Ed.)
+BRR
 
-(a) Section 2(1)
+:
 
-Insert, immediately after the definition of “land”, the following definition:
+Singapore Business Registration Regulations (Chapter 32, Rg 1, 2006 Revised Edition)
 
-“
+HPA
 
-“limited partnership” means a limited partnership referred to in section 3 of the Limited Partnerships Act 2008;
+:
 
-”.
+Singapore Health Products Act 2007 (Act 15 of 2007)
 
-(b) —
+LLPA
 
-Insert, immediately after section 3, the following section:
+:
 
-“
+Singapore Limited Liability Partnerships Act (Chapter 163A, 2006 Revised Edition)
 
-Meaning of partnership and partner
+PA
 
-3A. For the purposes of this Act, except as otherwise provided —
+:
 
-(a) references to partnerships include references to limited partnerships; and
+Singapore Partnership Act (Chapter 391, 1994 Revised Edition)
 
-(b) references to partners of a partnership include references to partners of a limited partnership.
+## LEGISLATIVE HISTORY
 
-”.
+Limited Partnerships Act
 
-(c) Section 31
+(CHAPTER 163B)
 
-(i) Insert, immediately after the words “(rights of persons dealing with firm against apparent members of firm)” in subsection (3), the words “as it applies to any form of partnership”.
+This Legislative History is provided for the convenience of users of the Limited Partnerships Act. It is not part of this Act.
 
-(ii) Insert, immediately after the words “(notice to acting partner to be notice to the firm)” in subsection (5), the words “as it applies to any form of partnership”.
-
-(iii) Insert, immediately after the words “Partnership Act” in subsection (6), the words “as it applies to any form of partnership”.
-
-(3) Housing Developers (Control and Licensing) Act
-
-
-
-
-(Chapter 130, 1985 Ed.)
-
-(a) Section 2
-
-(i) Delete the full-stop at the end of the definition of “manager” and substitute a semi-colon.
-
-(ii) Insert, immediately after the definition of “manager”, the following definition:
-
-“
-
-“partner”, in relation to a limited partnership, means a general partner as defined in the Limited Partnerships Act 2008.
-
-”.
-
-(iii) Renumber the section as subsection (1) and insert immediately thereafter the following subsection:
-
-“
-
-(2) In this Act, unless it is expressly provided to the contrary, the words “group of persons” shall not include a partnership.
-
-”.
-
-(b) Sections 5(b) and 28
-
-Insert, immediately after the words “group of persons,”, the word “partnership,”.
-
-(c) Section 6(1)
-
-Insert, immediately after the words “body of persons”, the words “(whether incorporated or unincorporated)”.
-
-(4) Income Tax Act
-
-
-
-
-(Chapter 134, 2008 Ed.)
-
-—
-
-Insert, immediately after section 36B, the following section:
-
-“
-
-Limited partnership
-
-36C.—(1) For the purposes of this Act, except as otherwise provided —
-
-(a) references to a partnership include references to a limited partnership; and
-
-(b) references to partners of a partnership include references to partners of a limited partnership.
-
-(2) In ascertaining the income of a limited partnership for the purpose of section 36(1)(a), section 10E shall apply to income from any business of the making of investments as if the limited partnership were a company.
-
-(3) For any year of assessment, the amount of relevant deductions that may be allowed to or transferred by a limited partner of a limited partnership shall not exceed —
-
-(a) in the case of a relevant deduction allowed to him under section 35(2), an amount equal to the amount ascertained in accordance with the formula
-
-A – B;
-
-(b) in the case of a relevant deduction allowed to him under section 37(3)(a), an amount equal to the amount ascertained in accordance with the formula
-
-A – B – C;
-
-(c) in the case of a transferred deduction transferred by him, an amount equal to the amount ascertained in accordance with the formula
-
-A – B – C – D; and
-
-(d) in the case of a carry-back deduction allowed to or transferred by him, an amount equal to the amount ascertained in accordance with the formula
-
-A – B – C – D – E,
-
-”.
-
-where
-
-A
-
-is his contributed capital in that year of assessment;
-
-B
-
-is the past relevant deductions already allowed to him;
-
-C
-
-is the relevant deduction allowed to him in that year of assessment under section 35(2);
-
-D
-
-is the relevant deduction allowed to him in that year of assessment under section 37(3)(a); and
-
-E
-
-is the transferred deduction transferred by him in that year of assessment.
-
-“
-
-(4) If, as a result of any reduction in the contributed capital of a limited partner of a limited partnership in any year of assessment, the past relevant deductions already allowed to him exceeds his contributed capital, the excess shall be deemed to be income of the limited partner chargeable with tax under section 10(1)(g) for that year of assessment, and an amount equal to the excess shall be deemed to be a loss incurred by him in the trade, business, profession or vocation of the limited partnership.
-
-(5) Subsections (3) and (4) shall not apply in the year of assessment relating to the basis period in which the limited partner ceases to be a limited partner of a limited partnership or in any subsequent year of assessment.
-
-(6) The precedent partner of a limited partnership shall make and deliver, together with a return of the income of the limited partnership under section 71 or when required by the Comptroller by notice in writing, a return of the contributed capital of each partner of the limited partnership for any year of assessment.
-
-(7) For the purposes of this section, the Minister may make regulations to give full effect to or to carry out the purposes of this section.
-
-(8) In this section —
-
-“carry-back deductions”, in relation to a limited partner of a limited partnership in any year of assessment, means —
-
-(a) any deduction allowed to the limited partner of any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is made against his assessable income from any other source for the immediate preceding year of assessment under section 37E; or
-
-(b) any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is transferred by him to a spouse under section 37F;
-
-“contributed capital”, in relation to a limited partner of a limited partnership in any year of assessment, means the aggregate of —
-
-(a) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, which he has contributed (in cash or in kind but not including any loan by him to the limited partnership) to the limited partnership as capital, and has not, directly or indirectly, drawn out or received back (whether as a distribution or a loan from the limited partnership or otherwise); and
-
-(b) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, of any profits or gains of the trade, business, profession or vocation from any past year of assessment to which he is entitled as a limited partner but which he has not, directly or indirectly, received (whether as a distribution or a loan from the limited partnership or otherwise);
-
-“limited partner” means a partner of a limited partnership referred to in paragraph (b) of the definition of “limited partnership”;
-
-“limited partnership” “limited partnership” means a partnership consisting of —
-
-(a) one or more partners who shall be liable for all the debts and obligations of the partnership; and
-
-(b) one or more partners whose liability for the debts and obligations of the partnership is limited;
-
-“past relevant deductions”, in relation to a limited partner of a limited partnership in any year of assessment, means the aggregate of any relevant deductions allowed to the partner less any amount deemed under subsection (4) to be income chargeable with tax in any year of assessment before that year of assessment;
-
-“precedent partner” has the same meaning as in section 71;
-
-“relevant deductions”, in relation to a limited partner of a limited partnership, means —
-
-(a) any deduction allowed to the limited partner under section 35(2) of any allowance arising from any trade, business or profession carried on by him in the limited partnership;
-
-(b) any deduction allowed to the limited partner under section 37(3)(a) of any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is made against his statutory income from any other source;
-
-(c) any transferred deduction transferred by the partner; or
-
-(d) any carry-back deduction allowed to or transferred by the partner,
-
-as the case may be;
-
-“transferred deduction”, in relation to a limited partner of a limited partnership, means any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is transferred by him to a claimant company under section 37C or to a spouse under section 37D.
-
-”.
-
-(5) Limited Liability Partnerships Act
-
-
-
-
-(Chapter 163A, 2006 Ed.)
-
-Section 19
-
-(i) Insert, immediately after the words “Business Registration Act (Cap. 32)” in subsection (1)(c), the words “, section 17 of the Limited Partnerships Act 2008”.
-
-(ii) Insert, immediately after the words “limited liability partnership” in subsection (4)(b), the words “or limited partnership”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+||Date of First Reading|21 October 2008|
+|||(Bill No. 35/2008 published on 21 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|4 May 2009|
+|2.|**2010 Revised Edition—Limited Partnerships Act**|
+||Date of operation|1 January 2010|
