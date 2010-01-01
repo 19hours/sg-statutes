@@ -1,14 +1,12 @@
-**Internationally Protected Persons Act 2008**
+**Internationally Protected Persons Act**
 
-**(No. 8 of 2008)**
+**(CHAPTER 145A)**
 
 **Table of Contents**
 
 [**Long Title**](#Internationally-Protected-Persons-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -38,43 +36,27 @@
 
 [**SECOND SCHEDULE Offences Against Premises or Vehicles**](#SECOND-SCHEDULE-Offences-Against-Premises-or-Vehicles)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Internationally Protected Persons Act
 
-Published by Authority
+(CHAPTER 145A)
 
-NO. 10]
+(Original Enactment: Act 8 of 2008)
 
-Friday, April 18
+REVISED EDITION 2010
 
-[2008
-
-The following Act was passed by Parliament on 6th March 2008 and assented to by the President on 25th March 2008:—
-
-Internationally Protected Persons Act 2008
-
-(No. 8 of 2008)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-25th March 2008.
-
-Date of Commencement: 2nd June 2008
+(1st January 2010)
 
 An Act to give effect to the Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[2nd June 2008]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Internationally Protected Persons Act 2008 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Internationally Protected Persons Act.
 
 ### Interpretation
 
@@ -92,11 +74,13 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (a) an offence under section 4, 5 or 6; or
 
-(b) an abetment of, or a conspiracy or attempt to commit, an offence under section 4 or 5;
+(b) an abetment of, or a conspiracy or an attempt to commit, an offence under section 4 or 5;
 
 “relevant premises” means premises at which an internationally protected person resides or is staying or which he uses for the purpose of carrying out his functions as such person;
 
 “vehicle” includes any means of conveyance.
+
+[TSOB Act 2007, s. 2; UK IPPA 1978, s. 1(5)]
 
 ### Internationally protected persons
 
@@ -112,6 +96,8 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) The Minister may give a written certificate stating any matter relevant to the question whether a person is, or was at any time or in respect of any period, an internationally protected person, and such certificate is admissible in any proceedings as prima facie evidence of the matters stated in the certificate.
 
+[UN Convention 1973, Art. 1; Aust. Crimes Act 1976, s. 14]
+
 ### Offences against persons
 
 4\.—(1) Any person who commits outside Singapore any act —
@@ -123,6 +109,8 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 shall be guilty of that offence and shall be liable on conviction to the same punishment to which he would have been liable had he been convicted of that offence.
 
 (2) That person may be dealt with as if the offence had been committed in Singapore.
+
+[NZ Crimes Act 1980, s. 3]
 
 ### Offences against premises or vehicles
 
@@ -141,6 +129,8 @@ shall be guilty of that offence and shall be liable on conviction to the same pu
 shall be guilty of that offence and shall be liable on conviction to the same punishment to which he would have been liable had he been convicted of that offence.
 
 (2) That person may be dealt with as if the offence had been committed in Singapore.
+
+[NZ Crimes Act 1980, s. 4]
 
 ### Making threats
 
@@ -164,9 +154,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine or to 
 
 whichever is the lesser, or to both fine and imprisonment.
 
-(2) Where no term of imprisonment is prescribed for the offence under subsection (1) (B), the person shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years, or to both fine and imprisonment.
+(2) Where no term of imprisonment is prescribed for the offence under subsection (1)(B), the person shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years, or to both fine and imprisonment.
 
 (3) If the offence is committed outside Singapore, that person may be dealt with as if the offence had been committed in Singapore.
+
+[NZ Crimes Act 1980, ss. 5, 6]
 
 ### Attempt, abetment and conspiracy punishable as offences
 
@@ -180,7 +172,7 @@ whichever is the lesser, or to both fine and imprisonment.
 
 (ii) a vehicle which he knows is used by an internationally protected person,
 
-and, if committed, is likely to endanger the person or liberty of the internationally protected person,
+and which, if committed, is likely to endanger the person or liberty of the internationally protected person,
 
 is deemed to commit the act in Singapore and may be dealt with accordingly.
 
@@ -218,11 +210,13 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (a) an offence specified in the First Schedule committed to or in relation to an internationally protected person;
 
-(b) an offence specified in the Second Schedule committed to or in relation to a relevant premises or a vehicle used by an internationally protected person;
+(b) an offence specified in the Second Schedule committed to or in relation to relevant premises or a vehicle used by an internationally protected person;
 
 (c) an offence under section 4 or 5; or
 
 (d) an abetment of or a conspiracy or an attempt to commit an offence under paragraph (a), (b) or (c).
+
+[TSOB Act 2007, s. 4]
 
 ### Assistance under Mutual Assistance in Criminal Matters Act
 
@@ -236,13 +230,13 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (c) section 20(1)(f) of that Act is inapplicable to any request for assistance referred to in subsection (1); and
 
-(d) the reference to the appointed date in the definition of “foreign confiscation order” in section 2(1) of that Act shall be read as the date of commencement of the Mutual Assistance in Criminal Matters (Amendment) Act 2006 (Act 8 of 2006).
+(d) the reference to the appointed date in the definition of “foreign confiscation order” in section 2(1) of that Act shall be read as a reference to the date of commencement of the Mutual Assistance in Criminal Matters (Amendment) Act 2006 (Act 8 of 2006).
 
 (3) The following offences shall be deemed to be Singapore offences for the purposes of the Mutual Assistance in Criminal Matters Act:
 
 (a) an offence specified in the First Schedule committed to or in relation to an internationally protected person;
 
-(b) an offence specified in the Second Schedule committed to or in relation to a relevant premises or a vehicle used by an internationally protected person;
+(b) an offence specified in the Second Schedule committed to or in relation to relevant premises or a vehicle used by an internationally protected person;
 
 (c) an abetment of or a conspiracy or an attempt to commit an offence under paragraph (a) or (b);
 
@@ -292,9 +286,13 @@ a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) ma
 
 (b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
+[TSOB Act 2007, s. 6]
+
 ### No prosecution without Public Prosecutor’s consent
 
 12\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor.
+
+[TSOB Act 2007, s. 8]
 
 ### Amendment of Schedules
 
@@ -302,7 +300,7 @@ a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) ma
 
 FIRST SCHEDULE
 
-Sections 4(1)(b), 6(1)(a), 7(a), 9 (4) (a), 10(3)(a) and 13
+Sections 4(1)(b), 6(1)(a), 7(a), 9(4)(a), 10(3)(a) and 13
 
 Offences Against Internationally Protected Persons
 
@@ -310,7 +308,7 @@ Offence
 
 Description
 
-Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65)
+Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65) 
 
 1. Section 4
 
@@ -448,7 +446,7 @@ Sexual penetration of minor under 16 years of age.
 
 SECOND SCHEDULE
 
-Sections 5(1)(c), 6(1)(b), 7(b), 9 (4) (b), 10(3)(b) and 13
+Sections 5(1)(c), 6(1)(b), 7(b), 9(4)(b), 10(3)(b) and 13
 
 Offences Against Premises or Vehicles
 
@@ -490,7 +488,7 @@ Mischief by fire or explosive substance with intent to destroy a house, etc.
 
 8. Section 437
 
-Mischief with intent to destroy or make unsafe a decked vessel or a vessel of 20 tonnes burden
+Mischief with intent to destroy or make unsafe a decked vessel or a vessel of 20 tons burden
 
 9. Section 438
 
@@ -504,3 +502,58 @@ Intentionally running vessel aground or ashore with intent to commit theft, etc.
 
 Mischief committed after preparation made for causing death or hurt.
 
+## LEGISLATIVE SOURCE KEY
+
+Internationally Protected Persons Act
+
+(CHAPTER 145A)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Aust. Crimes Act 1976
+
+:
+
+Australia, Crimes (Internationally Protected Persons) Act (1976)
+
+NZ Crimes Act 1980
+
+:
+
+New Zealand, Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980 (No. 44) of New Zealand
+
+UK IPPA 1978
+
+:
+
+United Kingdom, Internationally Protected Persons Act (1978)
+
+UN Convention 1973
+
+:
+
+Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, including Diplomatic Agents, 1973
+
+TSOB Act 2007
+
+:
+
+Singapore, Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007)
+
+## LEGISLATIVE HISTORY
+
+Internationally Protected Persons Act
+
+(CHAPTER 145A)
+
+This Legislative History is provided for the convenience of users of the Internationally Protected Persons Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 8 of 2008—Internationally Protected Persons Act 2008**|
+||Date of First Reading|21 January 2008|
+|||(Bill No. 1/2008 published on 22 January 2008)|
+||Date of Second and Third Readings|6 March 2008|
+||Date of commencement|2 June 2008|
+|2.|**2010 Revised Edition—Internationally Protected Persons Act**|
+||Date of operation|1 January 2010|
