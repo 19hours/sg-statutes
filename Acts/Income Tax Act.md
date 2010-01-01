@@ -1112,7 +1112,7 @@ B
 
 is the amount paid for such shares;
 
-[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
+(e) [Deleted by Act 27/2009 wef 29/12/2009]
 
 (f) “shares” includes stocks.
 
@@ -1191,6 +1191,8 @@ any gains or profits from the right or benefit shall be —
 (10) Subsection (9) shall not apply to any annuity purchased under the SRS.
 
 [24/2001]
+
+(11) [Deleted by Act 27/2009 wef 29/12/2009]
 
 (12) Where a person derives interest from a negotiable certificate of deposit or derives gains or profits from the sale thereof, his income shall be treated as follows:
 
@@ -2024,8 +2026,6 @@ then —
 
 (b) a reference to a contribution of an SRS member to his SRS account includes a contribution by his employer to that account on his behalf.
 
-[Act 27/2009, wef Y/A 2009 & Sub Ys/A:2009-ACT-27]
-
 ### Buyback of preferential shares
 
 10M\. Section 10K shall apply in relation to any purchase or acquisition by a company resident in Singapore from its shareholders of shares or stocks of a preferential nature issued by it (referred to in this section as a buyback), and for the purpose of such application —
@@ -2311,8 +2311,6 @@ and any ship or aircraft owned or chartered by him calls at a port, aerodrome or
 
 (B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the giving of the guarantee is not effectively connected with that business carried on in Singapore or that permanent establishment.
 
-[27/2009 wef 29/12/2009]
-
 ### Royalties, etc.
 
 (7) There shall be deemed to be derived from Singapore —
@@ -2351,11 +2349,9 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 (B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the management or assistance is not performed through that business carried on in Singapore or that permanent establishment.
 
-[27/2009 wef 29/12/2009]
-
 ### Commission or other payment of junket promoter
 
-2(8)
+1(8)
 
 Commission or other payment of junket promoter
 
@@ -2369,13 +2365,13 @@ There shall be deemed to be derived from Singapore any commission or other payme
 
 [Note: Subsections (8) and (9) shall come into operation on 2nd April 2008 vide S 176/2008.]
 
-2Subsections (8) and (9), inserted by the Casino Control Act, to come into operation when section 202 of the Casino Control Act is brought into operation.
+1Subsections (8) and (9), inserted by the Casino Control Act, to come into operation when section 202 of the Casino Control Act is brought into operation.
 
-3(9) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act (Cap. 33A)
+2(9) In this section, “casino operator”, “junket” and “junket promoter” have the same meanings as in the Casino Control Act (Cap. 33A)
 
 [10/2006]
 
-3Subsections (8) and (9), inserted by the Casino Control Act, to come into operation when section 202 of the Casino Control Act is brought into operation.
+2Subsections (8) and (9), inserted by the Casino Control Act, to come into operation when section 202 of the Casino Control Act is brought into operation.
 
 [Note: Subsections (8) and (9) shall come into operation on 2nd April 2008 vide S 176/2008.]
 
@@ -3225,8 +3221,6 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 
 (ii) is not a prescribed trust fund at any time before that date.
 
-[27/2009 wef 29/12/2009]
-
 ### Exemption of income of non-resident arising from funds managed by fund manager in Singapore
 
 13CA\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of any prescribed person arising from funds managed in Singapore by any prescribed fund manager.
@@ -3325,8 +3319,6 @@ shall be liable to pay to the Comptroller, in such manner and within such reason
 
 exceeds the prescribed percentage of the total value of all the equity interests of the prescribed person or of the trust fund (as the case may be) on that day.
 
-[27/2009 wef 29/12/2009]
-
 (6A) The formula for the penalty referred to in subsection (6) shall be as follows:
 
 where A
@@ -3341,11 +3333,7 @@ C
 
 is the tax rate applicable to that year of assessment as specified in section 43(1)(a) (if the prescribed person is a company) or 43(1)(c) (if the prescribed person is a trustee of a trust fund).
 
-[27/2009 wef 29/12/2009]
-
 (6B) Subsection (3) or (5) (whichever is applicable) shall apply, with the necessary modifications, to the liable person as it applies to a relevant owner or relevant beneficiary as if the reference to subsection (2) or (4) (as the case may be) is a reference to subsection (6).
-
-[27/2009 wef 29/12/2009]
 
 (7) For the purposes of subsections (6)(i), (A) and (B) and (6A), if —
 
@@ -3375,8 +3363,6 @@ is the percentage which the value of equity interests of the second level entity
 
 (c) the reference in the definition of B under subsection (7) to the total value of all equity interests of the second level entity (when applied to that trust fund) shall be read as the total value of the trust fund.
 
-[27/2009 wef 29/12/2009]
-
 (8) Regulations made under this section may —
 
 (a) provide for the determination of the amount of income of any prescribed person to be exempt from tax;
@@ -3398,8 +3384,6 @@ is the percentage which the value of equity interests of the second level entity
 [27/2009 wef 29/12/2009]
 
 (aa) in relation to a trust fund for which a prescribed person is a trustee, any part of the trust fund; or
-
-[27/2009 wef 29/12/2009]
 
 (b) in relation to a person other than a company, such right or interest as may be prescribed;
 
@@ -3436,8 +3420,6 @@ is the percentage which the value of equity interests of the second level entity
 (i) is incorporated or constituted before 1st April 2014; and
 
 (ii) is not a prescribed person at any time before that date.
-
-[27/2009 wef 29/12/2009]
 
 ### Exemption of certain dividends of approved investment company
 
@@ -3873,7 +3855,21 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 “qualifying employee” means an employee (other than any non-executive director) of a company who, at the time of the grant to him of any right or benefit to acquire the shares of the company or the shares of its holding company, as the case may be —
 
-(a) is committed to work at least 30 hours per week for the company in which he is employed or, if he is committed to work less than such number of hours, is committed to work at least 75% of his total working time per week for the company; and
+(a) is committed to work —
+
+(i) where the time of the grant is before 1st January 2010 —
+
+(A) at least 30 hours per week for the company; or
+
+(B) where he is committed to work less than that number of hours, at least 75% of his total working time per week for the company; and
+
+(ii) where the time of the grant is on or after 1st January 2010 —
+
+(A) at least the number of hours per week referred to in section 66A(1) of the Employment Act (Cap. 91) for the company; or
+
+(B) where he is committed to work less than that number of hours, at least 75% of his total working time per week for the company; and
+
+[27/2009 wef 01/01/2010]
 
 (b) does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the company which grants the right or benefit to acquire its shares;
 
@@ -3935,7 +3931,13 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 “minimum holding period” has the same meaning as in section 13J;
 
-“part-time employee” means an employee of a company who is committed to work for not more than 30 hours per week (including any time he would be required to work but for injury, any official leave or such other similar event) for the company in which he is employed;
+“part-time employee” means an employee of a company who is committed to work —
+
+(a) where the time of grant is before 1st January 2010, for not more than 30 hours per week (including any time he would be required to work but for injury, any official leave or such other similar events) for the company; or
+
+(b) where the time of grant is on or after 1st January 2010, for not more than the number of hours per week referred to in section 66A(1) of the Employment Act (Cap. 91) (including any time he would be required to work but for injury, any official leave or such other similar events) for the company;
+
+[27/2009 wef 01/01/2010]
 
 “qualifying company” means a company incorporated or registered under the Companies Act which, at the time of the grant to its employees of any right or benefit to acquire its shares or that of its holding company, carries on business in Singapore;
 
@@ -4039,7 +4041,21 @@ the company shall opt for the tax exemption under this section or section 13J to
 
 “qualifying employee” means an employee (other than any non-executive director) of a company, who at the time of the grant to him of any right or benefit to acquire the shares of the company —
 
-(a) is committed to work at least 30 hours per week for the company in which he is employed or, if he is committed to work less than such number of hours, is committed to work at least 75% of his total working time per week for the company; and
+(a) is committed to work —
+
+(i) where the time of the grant is before 1st January 2010 —
+
+(A) at least 30 hours per week for the company; or
+
+(B) where he is committed to work less than that number of hours, at least 75% of his total working time per week for the company; and
+
+(ii) where the time of the grant is on or after 1st January 2010 —
+
+(A) at least the number of hours per week referred to in section 66A(1) of the Employment Act (Cap. 91) for the company; or
+
+(B) where he is committed to work less than that number of hours, at least 75% of his total working time per week for the company; and
+
+[27/2009 wef 01/01/2010]
 
 (b) does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the company which grants the right or benefit to acquire its shares;
 
@@ -4399,8 +4415,6 @@ shall be liable to pay to the Comptroller, in such manner and within such reason
 
 exceeds the prescribed percentage of the total value of all the equity interests of the approved company on that day.
 
-[27/2009 wef 29/12/2009]
-
 (5A) The formula for the penalty referred to in subsection (5) shall be as follows:
 
 where A
@@ -4415,11 +4429,7 @@ C
 
 is the tax rate applicable to that year of assessment as specified in section 43(1)(a).
 
-[27/2009 wef 29/12/2009]
-
 (5B) Subsection (4) shall apply, with the necessary modifications, to the liable person as it applies to a relevant owner as if the reference to subsection (3) is a reference to subsection (5).
-
-[27/2009 wef 29/12/2009]
 
 (6) For the purposes of subsections (5)(i), (A) and (B) and (5A), if —
 
@@ -5785,6 +5795,10 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (5) No deduction shall be allowed to a financial institution in respect of any expenses which are not allowed as a deduction under section 14.
 
+(5A) No approval or extension of approval shall be granted under this section on or after 1st January 2010.
+
+[27/2009 wef 01/01/2010]
+
 (6) In this section —
 
 “approved” means approved by the Minister or such person as he may appoint;
@@ -6295,11 +6309,7 @@ and the amount of the reduction shall be debited to the account.
 
 (3A) Notwithstanding subsection (3), for the purposes of subsection (1) and subject to subsections (7), (8) and (9), where the renovation or refurbishment expenditure is incurred during the basis period relating to the year of assessment 2010 or 2011, a deduction is allowed for the year of assessment 2010 or 2011, as the case may be, for the full amount of the renovation or refurbishment expenditure so incurred, unless a person elects for the deduction to be allowed in accordance with subsection (3).
 
-[27/2009 wef 29/12/2009]
-
 (3B) An election made by a person under subsection (3A) shall be irrevocable.
-
-[27/2009 wef 29/12/2009]
 
 (4) For the purposes of this section, any renovation or refurbishment expenditure incurred by any person prior to the commencement of his trade, profession or business shall be deemed to have been incurred by that person on the first day he carries on that trade, profession or business.
 
@@ -6689,146 +6699,6 @@ and increased by any balancing charges made; or
 
 [7/79]
 
-### Initial and annual allowances for machinery or plant
-
-19\.—(1) Where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, there shall be made to him, on due claim for the year of assessment in the basis period for which the expenditure is incurred an allowance, to be known as an “initial allowance”, equal to one-fifth of that expenditure or such other allowance as may be prescribed either generally or for any person or class of persons in respect of any machinery or plant or class of machinery or plant.
-
-[7/79]
-
-(1A) For the purposes of subsection (1), in the case of any trade, profession or business —
-
-(a) where 2 basis periods overlap, the period common to both shall be deemed to fall in the first basis period only;
-
-(b) where there is an interval between the end of the basis period for a year of assessment and the commencement of a basis period for the next succeeding year of assessment, then, unless the second mentioned year of assessment is the year of the permanent discontinuance of the trade, the interval shall be deemed to be part of the second basis period; and
-
-(c) where there is an interval between the end of the basis period for the year of assessment preceding that in which the trade is permanently discontinued and the commencement of the basis period for the year in which it is permanently discontinued, the interval shall be deemed to form part of the first basis period.
-
-(1B) Any capital expenditure incurred for the purposes of a trade by a person about to carry on that trade shall be treated for the purposes of subsection (1) as if it had been incurred by that person on the first day on which he does carry on that trade.
-
-(2) Where at the end of the basis period for any year of assessment, a person has in use machinery or plant for the purpose of his trade, profession or business, there shall be made to him, on due claim, in respect of that year of assessment an allowance for depreciation by wear and tear of those assets (to be known as an annual allowance) which shall be calculated in accordance with the following provisions:
-
-(a) the annual allowance in respect of any machinery or plant shall —
-
-(i) in the case of an asset, other than an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over any initial allowance granted under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
-
-(ii) in the case of an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over the total amount of initial allowance allowable in respect of the asset under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
-
-(b) for the purposes of paragraph (a), in the case of any aircraft which is acquired on or after 1st March 1995 by a leasing company carrying on the business of offshore leasing within the meaning of section 43I or is acquired by an approved aircraft leasing company within the meaning of section 43Y, the number of years of working life of the aircraft specified in the Sixth Schedule may, on the application of the leasing company, be extended irrevocably for such period not exceeding 20 years as approved by the Minister or such person as he may appoint;
-
-(c) the annual allowance in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset still unallowed under this section as at the beginning of the basis period for that year of assessment;
-
-(d) for the purposes of the Sixth Schedule, where any question arises as to the classification of an asset under any item of that Schedule, the asset shall be treated as falling under such item as the Comptroller considers proper.
-
-[28/80; 32/95; 53/2007]
-
-4(3) Notwithstanding subsection (1) or (2) or section 19A(1) or (1B), in respect of a motor car to which this subsection applies –
-
-4This Subsection will be amended as set out in section 15(b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
-
-(a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure incurred in respect of that motor car or $35,000, whichever is the less;
-
-5(b) the annual allowance to be made under subsection (2)or section 19A(1)or (1B)shall be calculated on the basis that the original cost of that motor car is the capital expenditure incurred or $35,000, whichever is the less; and
-
-[27/2009 wef 29/12/2009]
-
-5The words initalicsin paragraph (b) shall have effect from the year of assessment 2009.
-
-(c) the aggregate of the initial and annual allowances to be made under this subsection for all relevant years of assessment shall not exceed $35,000.
-
-[37/75; 5/83]
-
-[53/2007 wef 06/12/2007]
-
-[27/2009 wef 29/12/2009]
-
-(4) Subsection (3) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms and which —
-
-(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) but excludes such a motor car which is —
-
-(i) used principally for instructional purposes; and
-
-(ii) acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under that Act; or
-
-(b) is registered outside Singapore and used exclusively outside Singapore.
-
-[32/99]
-
-6(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except –
-
-(a) a taxi;
-
-(b) a motor car registered outside Singapore and used exclusively outside Singapore;
-
-(c) a private hire car acquired by a person who carries on the business of hiring out cars and which is used by the person principally for hiring;
-
-(d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276); and
-
-(e) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes and acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act.
-
-[32/99; 53/2007]
-
-6The words initalicsin subsection (5) shall have effect from the year of assessment 2009.
-
-(5A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
-
-[49/2004]
-
-7(5B) For the purposes of subsection (2), where, at the end of the basis period for the year of assessment 2009, a person has in use any of the following motor vehicles within the meaning of the Road Traffic Act:
-
-(a) a motor car;
-
-(b) a motor cycle;
-
-(c) a goods vehicle the maximum weight of which laden does not exceed 3,000 kilograms,
-
-in respect of which allowances have been made under this section, there shall be made to him, on due claim for that or any subsequent year of assessment and in lieu of any further annual allowance under this section, an annual allowance of 331/
-
-3
-
-% in respect of the capital expenditure remaining unallowed under this section in respect of the motor vehicle as at the beginning of the basis period for the year of assessment 2009.
-
-[53/2007]
-
-7Subsection (5B) shall have effect from the year of assessment 2009.
-
-(6) In subsection (1), “prescribed” means prescribed by an order made by the Minister.
-
-(7) Every order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
-
-(8) Subject to subsection (9), this section shall, with the necessary modifications, apply to a person carrying on any trade or business who incurs during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) capital expenditure on the provision of machinery or plant for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, even though the machinery or plant is not for the purposes of that trade or business.
-
-[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
-
-[29/2010 wef 22/11/2010]
-
-(9) Section 14D(4) and (5) shall apply in relation to the allowance for the capital expenditure referred to in subsection (8) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
-
-(a) a reference to the amount of the expenditure or payments is a reference to the amount of the allowance;
-
-(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
-
-(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
-
-where A
-
-is the amount of allowance that could have been made against the income of the person under subsection (8) if the income had been subject to tax at the rate specified in section 43(1)(a);
-
-B
-
-is the rate of tax specified in section 43(1)(a); and
-
-C
-
-is —
-
-(i)
-
-in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
-
-(ii)
-
-in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
-
 ### Allowances of 3 years or 2 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.
 
 19A\.—(1) Notwithstanding section 19, where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purpose of that trade, profession or business, there shall be made to him, on due claim for any year of assessment and in lieu of the allowances provided by section 19, an annual allowance of 331/
@@ -6837,11 +6707,11 @@ in a case where the concessionary income derived by the person from the trade or
 
 % in respect of the capital expenditure incurred.
 
-8(1A) Any annual allowance under this section in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset remaining unallowed as at the beginning of the basis period for that year of assessment.
+7(1A) Any annual allowance under this section in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset remaining unallowed as at the beginning of the basis period for that year of assessment.
 
 [53/2007]
 
-8Subsection (1A) shall have effect from the year of assessment 2009.
+7Subsection (1A) shall have effect from the year of assessment 2009.
 
 (1B) Notwithstanding subsection (1), where a person carrying on a trade, profession or business incurs, during the basis period relating to the year of assessment 2010 or 2011, capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, he may, in lieu of the allowances provided by subsection (1) or section 19, elect to be entitled for any 2 years of assessment to the following:
 
@@ -6849,43 +6719,27 @@ in a case where the concessionary income derived by the person from the trade or
 
 (b) for any year of assessment subsequent to the first year, an allowance of 25% in respect of the capital expenditure incurred.
 
-[27/2009 wef 29/12/2009]
-
 (1C) Where a person carrying on a trade, profession or business enters into a hire-purchase agreement during the basis period relating to the year of assessment 2010 or 2011 in respect of machinery or plant provided for the purposes of that trade, profession or business, subsection (1B) shall apply to each instalment paid by that person under that hire-purchase agreement, whether the instalment is paid during or after the basis period relating to the year of assessment 2010 or 2011.
-
-[27/2009 wef 29/12/2009]
 
 (1D) An election made by a person under subsection (1B) shall be irrevocable.
 
-[27/2009 wef 29/12/2009]
-
 (2) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a computer or other prescribed automation equipment for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that computer or automation equipment.
-
-[27/2009 wef 29/12/2009]
 
 [15/83; 13/84; 7/85]
 
 (3) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, installed a generator in any office or factory for the supply of electrical power to that office or factory in the event of a disruption in the normal supply of electrical power, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that generator.
 
-[27/2009 wef 29/12/2009]
-
 [20/91]
 
 (4) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed a robot for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that robot.
-
-[27/2009 wef 29/12/2009]
 
 [13/84]
 
 (5) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any efficient pollution control equipment or device for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the efficient pollution control equipment or device.
 
-[27/2009 wef 29/12/2009]
-
 [28/96]
 
 (6) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
-
-[27/2009 wef 29/12/2009]
 
 [28/96; 31/98]
 
@@ -6899,8 +6753,6 @@ in a case where the concessionary income derived by the person from the trade or
 
 for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective noise control device or measure.
 
-[27/2009 wef 29/12/2009]
-
 [31/98]
 
 (8) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 1st January 1998, installed any new —
@@ -6913,19 +6765,13 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified machine, equipment or system, or the certified effective chemical hazard control device or measure.
 
-[27/2009 wef 29/12/2009]
-
 [31/98]
 
 (9) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered any new vehicle as a replacement for an existing vehicle which used diesel oil as fuel and which was registered before 1st January 1991 and deregistered on or after 27th February 1999, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
 
-[27/2009 wef 29/12/2009]
-
 [53/2007]
 
 (9A) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, for the purposes of a trade, business or profession carried on by him, registered during the period from 15th February 2007 to 14th February 2012 any new vehicle which uses diesel oil as fuel, as a replacement for an existing vehicle which used diesel oil as fuel and which was registered on or after 1st January 1991 but before 1st October 2006, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
-
-[27/2009 wef 29/12/2009]
 
 [53/2007]
 
@@ -6941,11 +6787,7 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 [34/2005]
 
-[27/2009 wef 29/12/2009]
-
 (10B) The aggregate amount of allowances claimed by any person under subsection (10A) for any year of assessment shall not exceed $30,000; and allowances may be made under subsection (1) or (1B) or section 19 in respect of any capital expenditure still unallowed.
-
-[27/2009 wef 29/12/2009]
 
 [34/2005]
 
@@ -7973,8 +7815,6 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 “surplus account”, in relation to a participating fund of a life insurer, means the surplus account established and maintained under section 17(6)(a) of the Insurance Act as part of that fund.
 
-[Act 27/2009, wef Y/A 2006 & Sub Ys/A:2009-ACT-27]
-
 ### Ascertainment of income of member of Lloyd’s syndicate
 
 26A\.—(1) Where a business of insuring and reinsuring risks is carried on by any member of Lloyd’s through a syndicate formed to carry on the business in Singapore —
@@ -8535,8 +8375,6 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 (3) In this section, “related party” has the same meaning as in section 13(16).
 
-[27/2009 wef 29/12/2009]
-
 ## PART VIII
 
 ASCERTAINMENT OF STATUTORY INCOME
@@ -8593,21 +8431,21 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [1/90; 20/91; 28/92; 26/93; 1/98; 24/2000; 24/2001; 37/2002; 49/2004; 53/2007]
 
-9(6) Where the statutory income of any person has been computed by reference to an account made up to a certain day, and such person fails for any reason whatsoever to make up an account to the corresponding day in the year following, the statutory income both of the year of assessment in which such failure occurs and of the 2 years of assessment following shall be computed on such basis as the Comptroller in his discretion thinks fit.
+8(6) Where the statutory income of any person has been computed by reference to an account made up to a certain day, and such person fails for any reason whatsoever to make up an account to the corresponding day in the year following, the statutory income both of the year of assessment in which such failure occurs and of the 2 years of assessment following shall be computed on such basis as the Comptroller in his discretion thinks fit.
 
 [53/2007 wef 06/12/2007]
 
 [53/2007]
 
-9The words initalicsin subsection (6) will be deleted from the year of assessment 2009.
+8The words initalicsin subsection (6) will be deleted from the year of assessment 2009.
 
-10(7) Where it is necessary in order to arrive at the income of any year of assessment or other period, to divide and apportion to specific periods the income of any period for which accounts have been made up, or to aggregate such income or any apportioned parts thereof, it shall be lawful to make such a division, and apportionment or aggregation, and any apportionment under this section shall be made in proportion to the number of days in the respective periods, unless the Comptroller, having regard to any special circumstances, otherwise directs.
+9(7) Where it is necessary in order to arrive at the income of any year of assessment or other period, to divide and apportion to specific periods the income of any period for which accounts have been made up, or to aggregate such income or any apportioned parts thereof, it shall be lawful to make such a division, and apportionment or aggregation, and any apportionment under this section shall be made in proportion to the number of days in the respective periods, unless the Comptroller, having regard to any special circumstances, otherwise directs.
 
 [53/2007 wef 06/12/2007]
 
 [53/2007]
 
-10The words initalicsin subsection (7) will be deleted from the year of assessment 2009.
+9The words initalicsin subsection (7) will be deleted from the year of assessment 2009.
 
 (8) The statutory income of an executor of a deceased person for any year of assessment shall be the income of the estate administered by such executor computed in accordance with subsections (1) to (7).
 
@@ -9047,7 +8885,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 [29/2010 wef 01/01/2011]
 
-(3A) For the purpose of subsection (3), in relation to any donation made during the period from 1st January 2009 to 31st December 2009 (both dates inclusive), any reference to “twice the value” or “twice the amount” in subsection (3)(b) to (f) shall be read as references to 2.5 times the value or 2.5 times the amount, as the case may be.
+(3A) For the purpose of subsection (3), in relation to any donation made during the period from 1st January 2009 to 31st December 2010 (both dates inclusive), any reference to “twice the value” or “twice the amount” in subsection (3)(b) to (f) shall be read as references to 2.5 times the value or 2.5 times the amount, as the case may be.
 
 [27/2009 wef 29/12/2009]
 
@@ -9095,7 +8933,7 @@ and so on, except that any balance of the donation not deducted against his stat
 
 (10) For the purposes of subsection (3), the loss incurred during any year shall be computed, where the Comptroller so decides, by reference to the year ending on a day in such year which would have been adopted under section 35(4) for the computation of the statutory income of the following year of assessment if a profit had arisen.
 
-11(10A) For the purposes of subsection (3)(b) to (f), the reference to the year preceding any year of assessment shall —
+10(10A) For the purposes of subsection (3)(b) to (f), the reference to the year preceding any year of assessment shall —
 
 (a) if the person making the donation is not an individual or a Hindu joint family and is one to whom a direction is made under section 35(4);
 
@@ -9111,7 +8949,7 @@ be read as a reference to —
 
 [53/2007]
 
-11Subsection (10A) shall have effect from the year of assessment 2009.
+10Subsection (10A) shall have effect from the year of assessment 2009.
 
 (11) No deduction shall be allowed under this section to any person in respect of any sum which has been allowed as a deduction under this section against the income of his or her spouse chargeable in his or her own name.
 
@@ -9287,7 +9125,7 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be;
 
 [34/2008 wef 01/04/2008]
 
@@ -9621,19 +9459,13 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 (1A) Notwithstanding subsection (1) but subject to the other provisions of this section, a person may deduct any qualifying deduction for the years of assessment 2009 and 2010 against his assessable income for the 3 years of assessment immediately preceding the year of assessment 2009 or 2010, as the case may be.
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (1B) Any qualifying deduction under subsection (1A) for any year of assessment shall so far as possible be made against the person’s assessable income for the third year of assessment immediately preceding that year of assessment, with any remaining balance of the qualifying deduction made —
 
 (a) against his assessable income for the second year of assessment immediately preceding that year of assessment; and
 
 (b) thereafter against his assessable income for the first year of assessment immediately preceding that year of assessment.
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (1C) Where in any year of assessment a person is entitled to make more than one deduction under subsection (1A) or under subsections (1) and (1A) against his assessable income for that year of assessment, the assessable income for that year of assessment shall so far as possible be deducted by the amount of qualifying deduction for the earliest year of assessment the person is entitled to so deduct under subsection (1) or (1A), and any remaining balance of the assessable income for the first-mentioned year of assessment shall so far as possible be deducted by the amount of qualifying deduction for the next earliest year of assessment, and so on.
-
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
 (2) Qualifying deductions shall be deducted in the following order:
 
@@ -9657,8 +9489,6 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 (b) the balance of the assessable income of the person for the year of assessment after such assessable income has been deducted by the qualifying deduction for any year of assessment prior to the year of assessment 2009 or 2010, as the case may be, under subsection (1C).
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (4) Subject to the provisions of this section, section 37B shall apply, with the necessary modifications, to the deduction of any qualifying deduction by any company for any year of assessment against its assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be), where applicable, as if the income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) is income for that year of assessment, and for the purpose of such application, any reference in section 37B(2) and (3) to —
 
 (a) unabsorbed allowances, losses or donations shall be read as a reference to qualifying deductions;
@@ -9666,8 +9496,6 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 (b) corresponding allowances, losses or donations shall be read as a reference to allowances or losses; and
 
 (c) chargeable income of the company shall be read as a reference to assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) of the company.
-
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
 [34/2005]
 
@@ -9680,8 +9508,6 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 (c) the concessionary rate of tax applicable to the assessable income which is deducted by any qualifying deduction,
 
 as the case may be.
-
-[27/2009 wef 29/12/2009]
 
 (5) The amount of qualifying deduction to be deducted for any year of assessment shall not exceed $100,000; and in the case of a company shall be determined by the formula
 
@@ -9705,8 +9531,6 @@ B
 
 is any amount deducted against assessable income subject to tax at any concessionary rate of tax divided by the adjustment factor for that concessionary rate of tax.
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (6) Any person deducting any qualifying deduction for any year of assessment against his assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) under this section shall notify the Comptroller and make an election to make such deduction —
 
 (a) in the case of an individual, not later than 30 days from the date of service of the notice of assessment on him; and
@@ -9726,8 +9550,6 @@ or within such further time as the Comptroller may allow.
 [34/2005; 53/2007]
 
 (8A) Notwithstanding subsection (8), where the Comptroller discovers that any qualifying deduction for the year of assessment 2010 made under subsection (1A) against the assessable income of any person for the year of assessment 2008 is or has become excessive, he may make an assessment on the person on the amount which, in his opinion, ought to have been charged to tax in the year of assessment 2008, within 6 years after the expiration of that year of assessment.
-
-[27/2009 wef 29/12/2009]
 
 (9) For the purposes of this section, subject to sections 35, 37 and 37B, qualifying deductions, in relation to any person, for each year of assessment, are —
 
@@ -9837,19 +9659,13 @@ is the concessionary rate of tax;
 
 (1A) Notwithstanding subsection (1) but subject to the other provisions of this section, an individual may transfer any qualifying deduction for the years of assessment 2009 and 2010 to a spouse living with him or her who has claimed any qualifying deduction under this section against her or his assessable income for the 3 years of assessment immediately preceding the year of assessment 2009 or 2010, as the case may be.
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (1B) Any qualifying deduction transferred to a claimant spouse under subsection (1A) for any year of assessment shall so far as possible be made against her or his assessable income for the third year of assessment immediately preceding that year of assessment, with any remaining balance of the qualifying deduction made —
 
 (a) against her or his assessable income for the second year of assessment immediately preceding that year of assessment; and
 
 (b) thereafter against her or his assessable income for the first year of assessment immediately preceding that year of assessment.
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (1C) Where in any year of assessment a claimant spouse is entitled to make more than one deduction under subsection (1A) or under subsections (1) and (1A) against her or his assessable income for that year of assessment, the assessable income for that year of assessment shall so far as possible be deducted by the amount of qualifying deduction for the earliest year of assessment the claimant spouse is entitled to so deduct under subsection (1) or (1A), and any remaining balance of the assessable income for the first-mentioned year of assessment shall so far as possible be deducted by the amount of qualifying deduction for the next earliest year of assessment, and so on.
-
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
 (2) Qualifying deductions shall be transferred to a claimant spouse in the following order:
 
@@ -9873,8 +9689,6 @@ is the concessionary rate of tax;
 
 (b) the balance of the assessable income of the claimant spouse for the year of assessment after such assessable income is deducted by the qualifying deduction for any year of assessment prior to the year of assessment 2009 or 2010, as the case may be, under subsection (1C).
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (4) The amount of qualifying deduction for any year of assessment to be transferred by a transferor to a claimant spouse shall not exceed an amount equal to
 
 where A
@@ -9889,17 +9703,11 @@ where A
 
 is the aggregate of the amounts deducted by the transferor against his or her assessable income for the 3 years of assessment immediately preceding the year of assessment 2009 or 2010, as the case may be, under section 37E.
 
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
-
 (5) No transfer shall be allowed under subsection (1) or (1A) in any year of assessment if the transferor has assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) but no claim for relief has been made under section 37E.
-
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
 [34/2005]
 
 (6) No transfer shall be allowed under subsection (1) or (1A) in any year of assessment if the claimant spouse has assessable income for the year of assessment but no transfer of any qualifying deduction from the transferor to the claimant spouse has been made under section 37D.
-
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
 [34/2005]
 
@@ -9917,8 +9725,6 @@ is the aggregate of the amounts deducted by the transferor against his or her as
 
 (9A) Notwithstanding subsection (9), where the Comptroller discovers that any qualifying deduction for the year of assessment 2010 transferred under subsection (1A) and made against the assessable income of the claimant spouse for the year of assessment 2008 is or has become excessive, he may make an assessment on the claimant spouse on the amount which, in his opinion, ought to have been charged to tax in the year of assessment 2008, within 6 years after the expiration of that year of assessment.
 
-[27/2009 wef 29/12/2009]
-
 (10) For the purposes of this section, subject to sections 35 and 37, qualifying deductions, in relation to an individual, for each year of assessment, are —
 
 (a) any allowance falling to be made under section 16, 17, 19, 19A, 19C, 19D or 20 that is in excess of the individual’s income from all sources chargeable to tax for that year of assessment and is not deducted under section 37E or transferred under section 37D; and
@@ -9934,8 +9740,6 @@ is the aggregate of the amounts deducted by the transferor against his or her as
 [34/2005]
 
 (12) Notwithstanding subsection (10), any allowance specified in subsection (10)(a) made to a transferor for any year of assessment shall not be transferable if the transferor did not carry on that trade, business or profession in the basis period for the immediate preceding year of assessment or any one of the 3 immediate preceding years of assessment, as the case may be.
-
-[Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
 [34/2005]
 
@@ -10261,11 +10065,7 @@ Provided that —
 
 does not exceed $5,000, then the total deductions allowable under this paragraph shall not exceed the difference between $5,000 and the amount of the deduction referred to in sub-paragraph (B);
 
-[Act 27/2009, wef Y/A 2011 & Sub Ys/A:2009-ACT-27]
-
 (iia) where the sum referred to in sub-paragraph (ii) exceeds $5,000, then no deduction shall be allowed under this paragraph, except that the contributions made to an approved pension or a provident fund or the Central Provident Fund under this paragraph shall, subject to subsections (6) to (10), be allowed as a deduction under this paragraph;
-
-[Act 27/2009, wef Y/A 2011 & Sub Ys/A:2009-ACT-27]
 
 (iii) no such deduction shall include any sum contributed to an approved pension or provident fund or society unless the contribution of such sum thereto was obligatory by reason of any contract of employment or of any provision in the rules or constitution of the fund or society;
 
@@ -10299,11 +10099,7 @@ Provided that —
 
 does not exceed $5,000, then the total deductions allowable under paragraph (g) and this paragraph shall not exceed the difference between $5,000 and the amount of the deduction referred to in sub-paragraph (B);
 
-[Act 27/2009, wef Y/A 2011 & Sub Ys/A:2009-ACT-27]
-
 (ia) where the sum referred to in sub-paragraph (i) exceeds $5,000, then no deduction shall be allowed under paragraph (g) in respect of premiums for life insurance;
-
-[Act 27/2009, wef Y/A 2011 & Sub Ys/A:2009-ACT-27]
 
 (ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $26,393 or such other amount as may be prescribed where the deduction allowable under paragraph (g) is less than $26,393 or such other amount as may be prescribed in respect of such contributions;
 
@@ -10615,6 +10411,8 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 
 (6) For the purposes of this section —
 
+(a) [Deleted by Act 27/2009 wef 29/12/2009]
+
 (b) relief under sections 50, 50A and 50B shall be left out of account in computing the amount of tax which would be payable by an individual if he were resident in Singapore, and charged to tax, as mentioned in subsection (1).
 
 [Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
@@ -10811,8 +10609,6 @@ RATES OF TAX
 
 42\.—(1) Subject to subsection (2), there shall be levied and paid for each year of assessment upon the chargeable income of every person (other than a body of persons, a company, a person not resident in Singapore, a trustee who is not the trustee of an incapacitated person, or an executor) tax in accordance with the rates specified in Part A of the Second Schedule in respect of the chargeable income of an individual or a Hindu joint family.
 
-[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
-
 (2) Without prejudice to section 50, the rate of tax applicable to the income of an individual or a Hindu joint family received in Singapore from outside Singapore shall be determined by reference to that income together with all other income and shall be deemed to be the highest rate applicable to his total income.
 
 [31/86; 26/93; 28/96; 34/2005]
@@ -10820,6 +10616,14 @@ RATES OF TAX
 (3) Where dividends are received by any institution, authority, person or fund specified in the First Schedule and such dividends are not exempt under section 13(1)(e), the gross amount of the dividends shall be taxed at the same rate as is applicable to a company.
 
 [1/88]
+
+(4) [Deleted by Act 27/2009 wef 29/12/2009]
+
+(6) [Deleted by Act 27/2009 wef 29/12/2009]
+
+(7) [Deleted by Act 27/2009 wef 29/12/2009]
+
+(8) [Deleted by Act 27/2009 wef 29/12/2009]
 
 ### Rebate for children of family
 
@@ -11081,8 +10885,6 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 (ii) for every dollar of the next $290,000 of the chargeable income (excluding Singapore dividends), only 50% shall be charged with tax.
 
-[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
-
 (6A) Notwithstanding subsections (1) and (6), where, in any of the first 3 years of assessment, falling in or after the year of assessment 2008, of a company, the company is a qualifying company, then for that year of assessment there shall be levied and paid upon the chargeable income of the company tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
 
 (a) every dollar of the first $100,000 of the chargeable income (excluding Singapore dividends) shall be exempt from tax; and
@@ -11107,11 +10909,7 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 (b) for the years of assessment 2008 and 2009, be read as a reference to 18%.
 
-[27/2009 wef 29/12/2009]
-
 (9) Notwithstanding subsection (1)(a), the tax to be levied and paid upon such income of a life insurer (other than a captive insurer) apportioned to the policyholders of the insurer as the Minister may by regulations specify shall be at the rate of 10% or such other prescribed rate.
-
-[Act 27/2009, wef Y/A 2006 & Sub Ys/A:2009-ACT-27]
 
 [28/92; 7/2007]
 
@@ -11126,8 +10924,6 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 (c) approved by the Comptroller;
 
 “captive insurer” has the same meaning as in section 1A of the Insurance Act (Cap. 142);
-
-[Act 27/2009, wef Y/A 2006 & Sub Ys/A:2009-ACT-27]
 
 “first 3 years of assessment”, in relation to a qualifying company, means the year of assessment relating to the basis period during which the company is incorporated in Singapore and the 2 consecutive years of assessment immediately following that year of assessment;
 
@@ -11154,8 +10950,6 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 (A) all of whom are individuals throughout the basis period for that year of assessment; or
 
 (B) at least one of whom is an individual throughout the basis period for that year of assessment, and the contribution of that individual under the memorandum of association of the company to the assets of the company in the event of its being wound up, amounts to at least 10% of the total contributions of the members of the company throughout the basis period for that year of assessment.
-
-[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
 
 “real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and listed on the Singapore Exchange, and that invests or proposes to invest in immovable property and immovable property-related assets;
 
@@ -11586,8 +11380,6 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 [31/98; 32/99; 34/2005; 53/2007]
 
 (5) Subsections (1)(a), (aa), (ab), (ac) and (ad) and (2) and regulations made thereunder shall apply to a body of persons for the year of assessment 2010 and subsequent years of assessment.
-
-[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
 
 ### Concessionary rate of tax for cyber trading
 
@@ -12267,8 +12059,6 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (1A) Notwithstanding subsection (1), tax shall be deducted at the rate of 18% on every payment (other than payment subject to tax at the rate specified in section 43(3) or (3A)) made on or after 1st January 2009 which would be assessable on the person receiving the payment for the year of assessment 2009.
 
-[27/2009 wef 29/12/2009]
-
 (2) The Comptroller may —
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine;
@@ -12547,7 +12337,7 @@ as that section applies to any interest paid by a person to another person not k
 
 ### Application of section 45 to commission or other payment of junket promoter
 
-45H\.12—(1)Subject to subsection (2), section 45 shall apply in relation to the payment of any commission or other payment by any person to a junket promoter not known to him to be resident in Singapore for arranging a junket with a casino operator in Singapore as section 45 applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such commission or payment.
+45H\.11—(1)Subject to subsection (2), section 45 shall apply in relation to the payment of any commission or other payment by any person to a junket promoter not known to him to be resident in Singapore for arranging a junket with a casino operator in Singapore as section 45 applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such commission or payment.
 
 [Note: Section 45H shall come into operation on 2nd April 2008 vide S 176/2008.]
 
@@ -12561,7 +12351,7 @@ as that section applies to any interest paid by a person to another person not k
 
 [10/2006]
 
-12Section 45H, inserted by the Casino Control Act (Cap. 33A), to come into operation when section 202 of the Casino Control Act is brought into operation.
+11Section 45H, inserted by the Casino Control Act (Cap. 33A), to come into operation when section 202 of the Casino Control Act is brought into operation.
 
 ## PART XIII
 
@@ -12571,9 +12361,9 @@ ALLOWANCES FOR TAX CHARGED
 
 46\.—(1) Any tax —
 
-13(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D, 45E(1)(a), 45GA or 45H or has deducted from any remuneration under section 45B;
+12(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D, 45E(1)(a), 45GA or 45H or has deducted from any remuneration under section 45B;
 
-13The words in italics in paragraph (a) will have effect when section 202 of the Casino Control Act is brought into operation.
+12The words in italics in paragraph (a) will have effect when section 202 of the Casino Control Act is brought into operation.
 
 [Note: Section 46(1)(a) shall come into operation on 2nd April 2008 vide S 176/2008.]
 
@@ -12669,6 +12459,8 @@ is the other income.
 
 [5/77]
 
+(3) [Deleted by Act 27/2009 wef 29/12/2009]
+
 (4) Any order made under this section may be revoked by a subsequent order.
 
 (5) Where any arrangements have effect by virtue of this section, the obligation as to secrecy imposed by section 6 shall not prevent the disclosure to any authorised officer of the government with which the arrangements are made of such information as is required to be disclosed under the arrangements.
@@ -12693,13 +12485,13 @@ is the other income.
 
 (b) where the income tax chargeable depends on the amount received in Singapore, that amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
 
-14(c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit.
+13(c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit.
 
 [53/2007 wef 06/12/2007]
 
 [53/2007]
 
-14The words initalicsin paragraph (c) will be deleted from the year of assessment 2009.
+13The words initalicsin paragraph (c) will be deleted from the year of assessment 2009.
 
 (6) Subsection (5)(a) and (b) shall apply to the computation of assessable income for the purposes of determining the rate mentioned in subsection (3), and shall apply thereto in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 49.
 
@@ -13089,17 +12881,17 @@ the rate of exchange applicable shall be the rate of exchange prevailing as at t
 
 63\.—(1) Every person, not being an individual or a Hindu joint family, who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
 
-15(1A) Every individual or Hindu joint family carrying on or exercising any trade, business, profession or vocation who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
+14(1A) Every individual or Hindu joint family carrying on or exercising any trade, business, profession or vocation who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
 
 [53/2007]
 
-15Subsection (1A) shall have effect from the year of assessment 2009.
+14Subsection (1A) shall have effect from the year of assessment 2009.
 
-16(2) Any person who fails or neglects without reasonable excuse to furnish the estimate of his chargeable income as required under subsection (1) or (1A) shall be guilty of an offence.
+15(2) Any person who fails or neglects without reasonable excuse to furnish the estimate of his chargeable income as required under subsection (1) or (1A) shall be guilty of an offence.
 
 [11/94; 53/2007]
 
-16The words in italics in paragraph (b) shall have effect from the year of assessment 2009.
+15The words in italics in paragraph (b) shall have effect from the year of assessment 2009.
 
 ### Comptroller may call for further returns
 
@@ -13321,17 +13113,13 @@ shall, when required by the Comptroller by notice in writing or by notice publis
 
 the return shall be made and delivered by the attorney, agent, manager or factor of the firm in Singapore.
 
-[27/2009 wef 29/12/2009]
-
-17(3) If a return in relation to the partnership for any year of assessment has not been made, the person required to make the return under subsection (1) or (2) (as the case may be) shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of the income from all sources of the partnership, and the names and identification numbers of all the partners together with the amount of the share of the income to which each partner was entitled for that year.
+16(3) If a return in relation to the partnership for any year of assessment has not been made, the person required to make the return under subsection (1) or (2) (as the case may be) shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of the income from all sources of the partnership, and the names and identification numbers of all the partners together with the amount of the share of the income to which each partner was entitled for that year.
 
 [53/2007]
 
-17Subsection (3) shall have effect from the year of assessment 2009.
+16Subsection (3) shall have effect from the year of assessment 2009.
 
 (4) In this section, “general partner” has the same meaning as in the Limited Partnerships Act 2008 (Act 37 of 2008).
-
-[27/2009 wef 29/12/2009]
 
 71A\. [Repealed by Act 49/2004]
 
@@ -13985,15 +13773,15 @@ OFFENCES AND PENALTIES
 
 ### Penalty for failure to make return
 
-94A\.—(1)18Any person who fails or neglects without reasonable excuse to comply with any provision of section 62 or 71(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months.
+94A\.—(1)17Any person who fails or neglects without reasonable excuse to comply with any provision of section 62 or 71(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months.
 
 [53/2007 wef 06/12/2007]
 
 [7/2007]
 
-18Subsections (1), (2) and (3) will be amended as set out in section 39(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
+17Subsections (1), (2) and (3) will be amended as set out in section 39(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
-19(2) Where any person has been convicted of an offence —
+18(2) Where any person has been convicted of an offence —
 
 (a) for failing to comply with section 62(3) and such conviction is subsequent to a conviction for an offence for failing to comply with section 62(1);
 
@@ -14009,9 +13797,9 @@ in respect of the same year of assessment, he shall be liable to a further penal
 
 [7/2007]
 
-19Subsections (1), (2) and (3) will be amended as set out in section 39(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
+18Subsections (1), (2) and (3) will be amended as set out in section 39(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
-20(3) Any person who fails or neglects without reasonable excuse to comply with section 62 or 71(1) in respect of any year of assessment for 2 years or more shall be guilty of an offence and shall be liable on conviction to —
+19(3) Any person who fails or neglects without reasonable excuse to comply with section 62 or 71(1) in respect of any year of assessment for 2 years or more shall be guilty of an offence and shall be liable on conviction to —
 
 (a) a penalty equal to double the amount of tax which the Comptroller assesses him to be liable for that year of assessment after determining, to the best of the Comptroller’s judgment, the amount of his chargeable income; and
 
@@ -14023,7 +13811,7 @@ and in default of payment to imprisonment for a term not exceeding 6 months.
 
 [53/2007 wef 06/12/2007]
 
-20Subsections (1), (2) and (3) will be amended as set out in section 39(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
+19Subsections (1), (2) and (3) will be amended as set out in section 39(a) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
 (4) Except in the case of a notice published in theGazetteunder section 62(1), no person shall be liable to prosecution for an offence under this section in respect of failure to comply with the terms of any notice issued under the provisions of this Act unless the notice has been served on him personally or by registered post.
 
@@ -14567,7 +14355,7 @@ $100,000
 
 37%.
 
-[7/79]
+[7/2007]
 
 THIRD SCHEDULE
 
@@ -16141,6 +15929,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 17/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|23 November 2009|
 ||Date of commencement|29 December 2009|
+|251.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 January 2010 (Sections 10, 11, 12, 15)|
+|252.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 January 2010 (Section 28(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
