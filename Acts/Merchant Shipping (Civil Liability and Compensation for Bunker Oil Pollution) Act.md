@@ -1,16 +1,14 @@
-**Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008**
+**Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act**
 
-**(No. 24 of 2008)**
+**(CHAPTER 179A)**
 
 **Table of Contents**
 
 [**Long Title**](#Merchant-Shipping-Civil-Liability-and-Compensation-for-Bunker-Oil-Pollution-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -78,49 +76,34 @@
 
 - [29 Regulations](#Regulations)
 
-- [30 Related amendments to other written laws](#Related-amendments-to-other-written-laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Merchant Shipping
 
-GOVERNMENT GAZETTE
+# 
 
-ACTS SUPPLEMENT
 
-Published by Authority
+# (Civil Liability and Compensation for Bunker Oil Pollution) Act
 
-NO. 20]
+(CHAPTER 179A)
 
-Friday, October 17
+(Original Enactment: Act 24 of 2008)
 
-[2008
+REVISED EDITION 2010
 
-The following Act was passed by Parliament on 16th September 2008 and assented to by the President on 2nd October 2008:—
+(1st January 2010)
 
-Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008
+An Act to give effect to the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 and to make provisions generally for matters connected therewith.
 
-(No. 24 of 2008)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-2nd October 2008.
-
-Date of Commencement: 21st November 2008
-
-An Act to give effect to the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 and to make provisions generally for matters connected therewith, and to make related amendments to the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Chapter 180 of the 1999 Revised Edition) and the Prevention of Pollution of the Sea Act (Chapter 243 of the 1999 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[21st November 2008]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act.
 
 ### Interpretation
 
@@ -150,7 +133,7 @@ PRELIMINARY
 
 “owner”, in relation to a ship, means the owner, and includes the registered owner, bareboat charterer, manager and operator of the ship;
 
-“port” has the same meaning as in the Maritime and Port Authority of Singapore Act (Cap. 170A);
+“port” has the same meaning as in the Maritime and Port Authority of Singapore Act;
 
 “registered owner”, in relation to a ship, means the person registered as the owner of the ship, or, in the absence of registration, the person owning the ship, except that, in relation to a ship owned by a State which is operated by a person registered in that State as the ship’s operator, it means the person registered as its operator;
 
@@ -172,7 +155,7 @@ PRELIMINARY
 
 (3) Nothing in this Act applies in relation to —
 
-(a) any occurrence before the date of commencement of this Act; or
+(a) any occurrence before 21st November 2008; or
 
 (b) any occurrence in a series of occurrences having the same origin, if the first took place before that date.
 
@@ -276,7 +259,7 @@ then, whether or not the owner of the ship in question incurs a liability under 
 
 (4) Subsection (1) shall not apply in a case where it is proved that the discharge or escape, or the relevant threat of contamination, as the case may be, resulted from anything done or omitted to be done by the owner either with intent to cause any such damage or cost as is mentioned in section 3 or recklessly and in the knowledge that any such damage or cost would probably result.
 
-(5) For the purposes of section 136 of the Merchant Shipping Act (Cap. 179), any liability incurred under section 3 shall be deemed to be a liability to damages in respect of such damage to property referred to in paragraph 1(a) of Article 2 of the Convention on Limitation of Liability for Maritime Claims, 1976.
+(5) For the purposes of section 136 of the Merchant Shipping Act, any liability incurred under section 3 shall be deemed to be a liability to damages in respect of such damage to property referred to in paragraph 1(a) of Article 2 of the Convention on Limitation of Liability for Maritime Claims 1976.
 
 ### Limitation actions
 
@@ -310,7 +293,7 @@ shall be conclusive evidence of those matters for the purposes of this Part; and
 
 (5) Where any sum has been paid in or towards satisfaction of any claim in respect of the damage or cost to which the liability extends —
 
-(a) by the owner or the persons referred to in section 14 as “the insurer”; or
+(a) by the owner or the person referred to in section 14 as “the insurer”; or
 
 (b) by a person who has or is alleged to have incurred a liability, otherwise than under section 3, for the damage or cost and who is entitled to limit his liability in connection with the ship by virtue of section 136 of the Merchant Shipping Act (Cap. 179),
 
@@ -386,13 +369,13 @@ Compulsory Insurance
 
 (8) If a ship attempts to leave a port in, or the territorial sea of, Singapore in contravention of this section, the ship may be detained by the Director or the officers of the Authority or any police officer or any commissioned officer on full pay in the Singapore Armed Forces.
 
-(9) Section 209 of the Merchant Shipping Act shall apply, with the necessary modifications, to the detention of a ship under this Act.
+(9) Section 209 of the Merchant Shipping Act (Cap. 179) shall apply, with the necessary modifications, to the detention of a ship under this Act.
 
 ### Issue of certificates
 
 13\.—(1) Subject to subsection (2), if the Director is satisfied, on an application for a certificate referred to in section 12 in respect of a Singapore ship or a ship registered in any country which is not a Bunker Convention country, that there will be in force in respect of the ship, throughout the period for which the certificate is to be issued, a contract of insurance or other security satisfying the requirements of Article 7 of the Bunker Convention, the Director may issue such a certificate to the owner.
 
-(2) If the Director is of the opinion that there is a doubt whether the person providing the insurance or other security will be able to meet his obligations thereunder, or whether the insurance or other security will cover the owner’s liability under section 3 in all circumstances, the Director may refuse to issue the certificate.
+(2) If the Director is of the opinion that there is any doubt whether the person providing the insurance or other security will be able to meet his obligations thereunder, or whether the insurance or other security will cover the owner’s liability under section 3 in all circumstances, the Director may refuse to issue the certificate.
 
 (3) The Director shall maintain a record of any certificate issued by him under this section in respect of a Singapore ship which shall be available for public inspection.
 
@@ -492,7 +475,7 @@ and the Director may carry out such inspection and examination as he may conside
 
 (2) Any person who assaults, hinders, impedes or obstructs the Director in the performance of his duties under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(3) In this section, “Director” includes an officer of the Authority authorised by the Director to exercise any powers referred to in subsection (1).
+(3) In this section, “Director” includes an officer of the Authority authorised by the Director to exercise any of the powers referred to in subsection (1).
 
 ### Offences by bodies corporate, etc.
 
@@ -570,37 +553,22 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (d) provide for any other matter which is required or authorised by any provision of this Act to be provided for by regulations;
 
-(e) provide that any contravention or failure to comply with any of such regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.
+(e) prescribe offences in respect of the contravention of any regulations made under this section, and prescribe fines not exceeding $10,000 or imprisonment which may not exceed 12 months or both, that may, on conviction, be imposed in respect of any such offence.
 
-### Related amendments to other written laws
+## LEGISLATIVE HISTORY
 
-30\.—(1) Section 13 of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Cap. 180) is amended —
+Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act
 
-(a) by deleting subsection (2) and substituting the following subsection:
+(CHAPTER 179A)
 
-“
+This Legislative History is provided for the convenience of users of the Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act. It is not part of the Act.
 
-(2) The ship shall not enter or leave any port in Singapore or enter or leave any offshore terminal in the territorial sea of Singapore nor, if it is a Singapore ship, enter or leave any port in any other country or any offshore terminal in the territorial sea of any other country, unless there is in force a certificate complying with subsection (3) and showing that there is in force in respect of the ship a contract of insurance or other security satisfying the requirements of Article VII of the Liability Convention.
-
-”; and
-
-(b) by inserting, immediately after subsection (9), the following subsection:
-
-“
-
-(10) In subsection (2), “offshore terminal” has the same meaning as in the Liability Convention.
-
-”.
-
-(2) Section 18 of the Prevention of Pollution of the Sea Act (Cap. 243) is amended by deleting subsection (4) and substituting the following subsection:
-
-“
-
-(4) This section shall not apply in relation to any discharge of —
-
-(a) oil or oily mixture where section 3 of the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Cap. 180) applies; and
-
-(b) bunker oil where section 3 of the Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008 applies.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 2008—Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008**|
+||Date of First Reading|25 August 2008|
+|||(Bill No. 20/2008 published on 26 August 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|21 November 2008|
+|2.|**2010 Revised Edition—Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act**|
+||Date of operation|1 January 2010|
