@@ -40,6 +40,8 @@
 
 - [12 Powers of arbitral tribunal](#Powers-of-arbitral-tribunal)
 
+- [12A Court-ordered interim measures](#Court-ordered-interim-measures)
+
 - [13 Witnesses may be summoned by subpoena](#Witnesses-may-be-summoned-by-subpoena)
 
 - [14 Power to compel attendance of witness](#Power-to-compel-attendance-of-witness)
@@ -59,6 +61,8 @@
 - [19A Awards made on different issues](#Awards-made-on-different-issues)
 
 - [19B Effect of award](#Effect-of-award)
+
+- [19C Authentication of awards and arbitration agreements](#Authentication-of-awards-and-arbitration-agreements)
 
 - [20 Interest on awards](#Interest-on-awards)
 
@@ -88,7 +92,7 @@
 
 - [31 Refusal of enforcement](#Refusal-of-enforcement)
 
-- [32 Convention countries](#Convention-countries)
+- [32 (Repealed)](#Repealed)
 
 - [33 Enforcement of awards under other provisions of law](#Enforcement-of-awards-under-other-provisions-of-law)
 
@@ -140,9 +144,23 @@ INTERNATIONAL COMMERCIAL ARBITRATION
 
 “appointing authority” means the authority designated under section 8(2) or (3);
 
-“arbitration agreement” means an agreement in writing referred to in Article 7 of the Model Law and includes an agreement deemed or constituted under subsection (3) or (4);
+“arbitration agreement” means an agreement in writing referred to in Article 7 of the Model Law and includes —
+
+(a) an agreement made by electronic communications if the information contained therein is accessible so as to be useable for subsequent reference; and
+
+(b) an agreement deemed or constituted under subsection (3) or (4);
+
+[26/2009 wef 01/01/2010]
 
 “award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any orders or directions made under section 12;
+
+“data messages” means information generated, sent, received, or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), electronic mail, telegram, telex or telecopy;
+
+[26/2009 wef 01/01/2010]
+
+“electronic communications” means any communication that the parties make by means of data messages;
+
+[26/2009 wef 01/01/2010]
 
 “Model Law” means the UNCITRAL Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law on 21st June 1985, the text in English of which is set out in the First Schedule;
 
@@ -356,13 +374,31 @@ the period between the commencement of the arbitration and the date of the order
 
 (6) All orders or directions made or given by an arbitral tribunal in the course of an arbitration shall, by leave of the High Court or a Judge thereof, be enforceable in the same manner as if they were orders made by a court and, where leave is so given, judgment may be entered in terms of the order or direction.
 
-(7) The High Court or a Judge thereof shall have, for the purpose of and in relation to an arbitration to which this Part applies, the same power of making orders in respect of any of the matters set out in subsection (1) as it has for the purpose of and in relation to an action or matter in the court.
+### Court-ordered interim measures
+
+12A\.—(1) This section shall apply in relation to an arbitration —
+
+(a) to which this Part applies; and
+
+(b) irrespective of whether the place of arbitration is in the territory of Singapore.
+
+(2) Subject to subsections (3) to (6), for the purpose of and in relation to an arbitration referred to in subsection (1), the High Court or a Judge thereof shall have the same power of making an order in respect of any of the matters set out in section 12(1)(c) to (i) as it has for the purpose of and in relation to an action or a matter in the court.
+
+(3) The High Court or a Judge thereof may refuse to make an order under subsection (2) if, in the opinion of the High Court or Judge, the fact that the place of arbitration is outside Singapore or likely to be outside Singapore when it is designated or determined makes it inappropriate to make such order.
+
+(4) If the case is one of urgency, the High Court or a Judge thereof may, on the application of a party or proposed party to the arbitral proceedings, make such orders under subsection (2) as the High Court or Judge thinks necessary for the purpose of preserving evidence or assets.
+
+(5) If the case is not one of urgency, the High Court or a Judge thereof shall make an order under subsection (2) only on the application of a party to the arbitral proceedings (upon notice to the other parties and to the arbitral tribunal) made with the permission of the arbitral tribunal or the agreement in writing of the other parties.
+
+(6) In every case, the High Court or a Judge thereof shall make an order under subsection (2) only if or to the extent that the arbitral tribunal, and any arbitral or other institution or person vested by the parties with power in that regard, has no power or is unable for the time being to act effectively.
+
+(7) An order made by the High Court or a Judge thereof under subsection (2) shall cease to have effect in whole or in part (as the case may be) if the arbitral tribunal, or any such arbitral or other institution or person having power to act in relation to the subject-matter of the order, makes an order which expressly relates to the whole or part of the order under subsection (2).
+
+[26/2009 wef 01/01/2010]
 
 ### Witnesses may be summoned by subpoena
 
 13\.—(1) Any party to an arbitration agreement may take out a subpoena to testify or a subpoena to produce documents.
-
-[42/2005 wef 01/01/2006]
 
 (2) The court may order that a subpoena to testify or a subpoena to produce documents shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
 
@@ -519,6 +555,28 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 (4) This section shall not affect the right of a person to challenge the award by any available arbitral process of appeal or review or in accordance with the provisions of this Act and the Model Law.
 
 [38/2001]
+
+### Authentication of awards and arbitration agreements
+
+19C\.—(1) For the purposes of the enforcement of an award in any Convention country, the Minister may by order appoint such persons holding office in such arbitral institution or other organisation as the Minister may specify in the order, to authenticate any award or arbitration agreement or to certify copies thereof.
+
+(2) Any person appointed under subsection (1) —
+
+(a) shall comply with any condition imposed by the Minister; and
+
+(b) shall not, without the written consent of the parties, directly or indirectly disclose any matter, including the identity of any party to the award or arbitration agreement, to any third party.
+
+(3) An award or arbitration agreement or a copy thereof duly authenticated or certified by a person appointed under subsection (1) shall be deemed to have been authenticated or certified by a competent authority in Singapore for the purposes of enforcement in any Convention country.
+
+(4) For the avoidance of doubt, nothing in this section shall —
+
+(a) prevent any person from authenticating any award or arbitration agreement or certifying copies thereof in any other manner or method or by any other person, institution or organisation; or
+
+(b) affect the right of a person to challenge or appeal against any award by any available arbitral process of appeal or review, or in accordance with the provisions of this Act and the Model Law.
+
+(5) In this section, “Convention country” has the same meaning as in section 27(1).
+
+[26/2009 wef 01/01/2010]
 
 ### Interest on awards
 
@@ -680,11 +738,7 @@ FOREIGN AWARDS
 
 (b) on the application of the party seeking to enforce the award, order the other party to give suitable security.
 
-### Convention countries
-
-32\.—(1) Where the Minister by an order published in theGazettedeclares that any State specified in the order is a Convention country, the order, while in force, shall be evidence of that fact.
-
-(2) For the purposes of this Part, a certificate signed by the Minister stating that a State specified in the certificate but not specified in any order made under subsection (1) which is in force is, or was at a time specified in the certificate, a Convention country shall, upon mere production, be prima facie evidence of that fact.
+32\. [Deleted by Act 26/2009 wef 01/01/2010]
 
 ### Enforcement of awards under other provisions of law
 
@@ -1102,7 +1156,7 @@ Article II
 
 2\. The term “agreement in writing” shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
 
-3. The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this Article, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.
+3. The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this Article, shall, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.
 
 [26/2009 wef 01/01/2010]
 
@@ -1174,17 +1228,11 @@ Article XI
 
 In the case of a federal or non-unitary State, the following provisions shall apply:
 
-(a)
+(a) with respect to those Articles of this Convention that come within the legislative jurisdiction of the federal authority, the obligations of the federal Government shall to this extent be the same as those of Contracting States which are not federal States;
 
-with respect to those Articles of this Convention that come within the legislative jurisdiction of the federal authority, the obligations of the federal Government shall to this extent be the same as those of Contracting States which are not federal States;
+(b) with respect to those Articles of this Convention that come within the legislative jurisdiction of constituent States or provinces which are not, under the constitutional system of the federation, bound to take legislative action, the federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of constituent States or provinces at the earliest possible moment;
 
-(b)
-
-with respect to those Articles of this Convention that come within the legislative jurisdiction of constituent States or provinces which are not, under the constitutional system of the federation, bound to take legislative action, the federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of constituent States or provinces at the earliest possible moment;
-
-(c)
-
-a federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the federation and its constituent units in regard to any particular provision of this Convention, showing the extent to which effect has been given to that provision by legislative or other action.
+(c) a federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the federation and its constituent units in regard to any particular provision of this Convention, showing the extent to which effect has been given to that provision by legislative or other action.
 
 Article XII
 
@@ -1208,25 +1256,15 @@ Article XV
 
 The Secretary-General of the United Nations shall notify the States contemplated in Article VIII of the following:
 
-(a)
+(a) signatures and ratifications in accordance with Article VIII;
 
-signatures and ratifications in accordance with Article VIII;
+(b) accessions in accordance with Article IX;
 
-(b)
+(c) declarations and notifications under Articles I, X and XI;
 
-accessions in accordance with Article IX;
+(d) the date upon which this Convention enters into force in accordance with Article XII;
 
-(c)
-
-declarations and notifications under Articles I, X and XI;
-
-(d)
-
-the date upon which this Convention enters into force in accordance with Article XII;
-
-(e)
-
-denunciations and notifications in accordance with Article XIII.
+(e) denunciations and notifications in accordance with Article XIII.
 
 Article XVI
 
@@ -1268,6 +1306,11 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st January 2006|
+|7.|**Act 26 of 2009—International Arbitration (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 20/2009)|
+||Date of Second and Third Readings|14 October 2009|
+||Date of commencement|1 January 2010|
 ## COMPARATIVE TABLE
 
 International Arbitration Act
