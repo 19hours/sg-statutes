@@ -96,6 +96,8 @@
 
 - [35 Betting, sweepstakes, lotteries and gaming](#Betting-sweepstakes-lotteries-and-gaming)
 
+- [35A Vouchers](#Vouchers)
+
 - [36 Commodity, futures or securities markets and exchanges](#Commodity-futures-or-securities-markets-and-exchanges)
 
 - [37 Goods subject to a warehousing regime](#Goods-subject-to-a-warehousing-regime)
@@ -958,11 +960,23 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 [33/2008 wef 01/01/2009]
 
-(v) the supply (including the letting on hire) of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed; or
-
-(w) prescribed services comprising the repair, maintenance or management of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed.
+(v) the supply (including the letting on hire) of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed;
 
 [33/2008 wef 01/01/2009]
+
+[19/2009 wef 01/01/2010]
+
+(w) prescribed services comprising the repair, maintenance or management of any air container or sea container, which is used or to be used for the international transportation of goods and which complies with such other requirements as may be prescribed ; or
+
+[33/2008 wef 01/01/2009]
+
+[19/2009 wef 01/01/2010]
+
+(x) the supply (including the letting or hire) of qualifying aircraft parts that are certified as airworthy by —
+
+(i) in relation to an aircraft that is not a military aircraft, a person certificated by a national civil aviation authority; and
+
+(ii) in relation to a military aircraft, the government owning that aircraft.
 
 [19/2009 wef 01/01/2010]
 
@@ -970,7 +984,29 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 (4) For the purposes of subsection (3) —
 
-(a) “aircraft” means an aircraft which is not used or intended for use for recreation or pleasure;“co-location”, in relation to computer server equipment, means the provision of a physical environment for the operation of the computer server equipment;“ship” means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Maritime and Port Authority of Singapore Act (Cap. 170A) as a passenger harbour craft or pleasure craft;
+(a) 
+
+“aircraft” means —
+
+(i) any aircraft which is not used or intended to be used for recreation or pleasure; or
+
+(ii) any aircraft used or intended to be used for recreation or pleasure if it is wholly used or intended to be wholly used for travel —
+
+(A) from a place outside Singapore to another place outside Singapore;
+
+(B) from a place in Singapore to a place outside Singapore; or
+
+(C) from a place outside Singapore to a place in Singapore;
+
+[19/2009 wef 01/01/2010]
+
+“co-location”, in relation to computer server equipment, means the provision of a physical environment for the operation of the computer server equipment;
+
+“qualifying aircraft parts” means such parts and equipment as are designed and built for exclusive use on an aircraft;
+
+[19/2009 wef 01/01/2010]
+
+“ship” means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Maritime and Port Authority of Singapore Act (Cap. 170A) as a passenger harbour craft or pleasure craft;
 
 (b) the services in subsection (3)(e) include —
 
@@ -1330,6 +1366,10 @@ SPECIAL CASES
 
 (3) The registration under this Act of any such club, association, society or organisation may be in the name of the club, association, society or organisation; and in determining whether goods or services are supplied to or by such a club, association, society or organisation, no account shall be taken of any change in its members.
 
+(3A) The registration under this Act of any person who, as trustee, is carrying on the business of a trust created by express written declaration shall be in the name of the trust.
+
+[19/2009 wef 01/01/2010]
+
 (4) Where a taxable person dies, or goes into liquidation or receivership, or becomes bankrupt or incapacitated, the Comptroller may, from the date of the death, liquidation, receivership, bankruptcy or incapacity until such time when another person is registered in respect of the taxable supplies made or intended to be made by that taxable person in the course or furtherance of his business or in the case of incapacity until such time as the incapacity ceases, deem any person carrying on that business to be a taxable person.
 
 (5) Any requirement to pay tax imposed under subsection (4) on any person carrying on the business shall only apply to that person to the extent of the assets of the deceased or incapacitated person over which he has control.
@@ -1444,6 +1484,72 @@ the transferee shall be deemed to have incurred input tax on the value of the su
 
 [7/2011 wef 01/04/2011]
 
+### Vouchers
+
+35A\.—(1) The Minister may, by regulations, modify the application of the provisions of this Act to transactions involving vouchers granted for consideration.
+
+(2) Any regulations made under this section —
+
+(a) may provide that any transaction involving a voucher or any part of such transaction is to be treated as —
+
+(i) a supply of goods or a supply of services; or
+
+(ii) neither a supply of goods nor a supply of services; and
+
+(b) may make different provisions with respect to different transactions or parts thereof, different vouchers or different circumstances.
+
+(3) In this section —
+
+“issuer”, in relation to a voucher, means the person who issued the voucher (whether in his own capacity or through an agent);
+
+“value”, in relation to a voucher, means —
+
+(a) where the value stated on or recorded in or in respect of the voucher is in monetary terms, that monetary value; and
+
+(b) where the value stated on or recorded in or in respect of the voucher is in non-monetary terms, the monetary value assigned to the voucher by the issuer insofar as it relates to the right to receive goods or services upon redemption of the voucher;
+
+“voucher” means any of the following:
+
+(a) any physical or electronic form of —
+
+(i) a voucher;
+
+(ii) a token;
+
+(iii) a stamp (not being a postage stamp within the meaning of the Postal Services Act (Cap. 237A));
+
+(iv) a coupon;
+
+(v) a card; or
+
+(vi) any other similar item,
+
+the redemption of which in accordance with its terms entitles the holder to receive goods or services up to the value stated on or recorded in or in respect of the voucher, whether such value is in terms that are monetary or non-monetary;
+
+(b) any prepaid phone card or similar item the redemption of which in accordance with its terms entitles the holder to receive telephone or like services up to the value stated on or recorded in or in respect of the voucher, whether such value is in terms that are monetary or non-monetary.
+
+(4) For the purpose of paragraph (a) of the definition of “voucher” in subsection (3) —
+
+(a) where the monetary value stated on or recorded in or in respect of it a voucher is the value ascribed to the goods or services specified on the voucher as being the goods or services that may be supplied upon redemption of the voucher, that voucher shall not be treated as having stated on or recorded in or in respect of it a value in monetary terms; and
+
+(b) where the non-monetary value stated on or recorded in or in respect of it a voucher is in terms of any goods or services that may be supplied upon redemption of the voucher, that voucher shall not be treated as having stated on or recorded in or in respect of it a value in non-monetary terms.
+
+(5) For the purpose of the definition of “voucher” in subsection (3) —
+
+(a) where the right to top-up the value of —
+
+(i) any card referred to in paragraph (a)(v) of that definition; or
+
+(ii) any prepaid phone card referred to in paragraph (b) of that definition,
+
+is conferred by any means (including any electronic means) other than by way of another card or prepaid phone card; or
+
+(b) where the right to receive telephone services via the Internet is acquired through the Internet,
+
+the supply of that right shall be treated as if it were a supply of a card or prepaid phone card as referred to in paragraph (a)(v) or (b) of that definition, as the case may be.
+
+[19/2009 wef 01/01/2010]
+
 ### Commodity, futures or securities markets and exchanges
 
 36\.—(1) The Minister may by regulations make provisions for modifying the provisions of this Act in their application to dealings on commodity, futures or securities markets or exchanges and such persons ordinarily engaged in such dealings as may be specified in the regulations, subject to such conditions as may be so specified.
@@ -1479,6 +1585,26 @@ and may contain such incidental and supplementary provisions as appear to the Mi
 (c) the tax on the supply shall be payable at the duty point, together with the duty, by the person who is required to pay the duty, except as otherwise provided by regulations made under this section.
 
 (2A) Notwithstanding subsection (2), if the goods are permitted to be removed from a warehousing regime without payment of the duty, the supply (or last supply) shall be treated as taking place when the goods are so removed, the value of the supply shall not be treated as including the duty and the tax on the supply shall be payable by the person by whom the goods are removed.
+
+(2B) For the purposes of subsections (1) and (2), where —
+
+(a) the warehousing regime is in respect of a warehouse that is outside the free trade zone (referred to in this subsection as the first warehouse);
+
+(b) the Comptroller has approved that goods in the first warehouse may be removed from the warehouse —
+
+(i) for the purpose of an auction, an exhibition or other similar event involving the display of goods; and
+
+(ii) subject to such conditions and for such period as may be specified by the Comptroller in his approval,
+
+and the goods are thereupon removed from the first warehouse;
+
+(c) the conditions referred to in paragraph (b)(ii) are complied with; and
+
+(d) after the auction, exhibition or other similar event, the goods are brought, with the approval of the Comptroller, back to the first warehouse or to any other warehouse outside the free trade zone (referred to in this subsection as the second warehouse) at or before the end of the period referred to in paragraph (b)(ii),
+
+then the goods shall be treated as if they were continuously subject to a warehousing regime from the time they were in the first warehouse until they are delivered back to the first warehouse or delivered to the second warehouse, as the case may be.
+
+[19/2009 wef 01/01/2010]
 
 (3) The Minister may by regulations make provision —
 
@@ -2160,7 +2286,7 @@ or the amount of such an assessment;
 
 (m) a claim for the repayment of an amount under section 90.
 
-(2) Any application for review and revision under this section shall be made within 30 days of the date the person has been notified of the decision to which he objects or such other extended time as the Comptroller may allow.
+(2) Any application for review and revision under this section shall state precisely the grounds for the objection to the decision and shall be made within 30 days of the date the person has been notified of the decision to which he objects or such other extended time as the Comptroller may allow.
 
 [19/2009 wef 01/01/2010]
 
@@ -3682,11 +3808,7 @@ Meaning of control
 
 (2) This paragraph shall not apply where the terms include any provision for payment by instalments.
 
-Token, stamp or voucher
-
-7. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp (denoting a value below 35 cents) within the meaning of the Postal Services Act (Cap. 237A)) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
-
-[42/99]
+7\.Deleted by Act 19/2009, wef 01/01/2010.
 
 Business assets
 
@@ -3816,8 +3938,6 @@ Finance
 
 (la) the provision of insurance cover or annuities under any specified CPF scheme;
 
-[S 391/2009 wef 01/09/2009]
-
 (m) the provision or assignment of any futures contract including a futures option transaction which does not lead to a delivery of any goods from the seller to the buyer;
 
 (n) the provision or assignment of any option or contract for the sale of any unallocated commodity which does not lead to a delivery of the commodity from the seller to the buyer;
@@ -3905,8 +4025,6 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 (c) provides for the payment of an annuity for a term dependent on the termination or continuance of human life; or
 
 (d) is a combination of any of the above;
-
-[S 391/2009 wef 01/09/2009]
 
 “unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust or business trust.
 
@@ -4341,6 +4459,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|4 May 2009|
 |31.|**G. N. No. S 391/2009—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2009**|
 ||Date of commencement|1 September 2009|
+|32.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
+||Date of First Reading|20 July 2009|
+|||(Bill No. 12/2009 published on 18 September 2009)|
+||Date of Second and Third Readings|18 August 2009|
+||Date of commencement|1 January 2010|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
