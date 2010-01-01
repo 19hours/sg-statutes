@@ -144,6 +144,8 @@
 
 - [59 Immunity of arbitral institutions](#Immunity-of-arbitral-institutions)
 
+- [59A Authentication of awards and arbitration agreements](#Authentication-of-awards-and-arbitration-agreements)
+
 - [60 Service of notices](#Service-of-notices)
 
 - [61 Reckoning periods of time](#Reckoning-periods-of-time)
@@ -190,7 +192,9 @@ PRELIMINARY
 
 “arbitral tribunal” means a sole arbitrator or a panel of arbitrators or an arbitral institution;
 
-“arbitration agreement” has the meaning given to it in section 4;
+“arbitration agreement” means an arbitration agreement referred to in section 4 and includes an agreement made by electronic communications if the information contained therein is accessible so as to be useable for subsequent reference;
+
+[26/2009 wef 01/01/2010]
 
 “award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any order or direction made under section 28;
 
@@ -198,9 +202,17 @@ PRELIMINARY
 
 “court”, for the purposes of sections 6, 7, 8, 11(1), 55, 56 and 57, means the High Court, District Court, Magistrate’s Court or any other court in which the proceedings referred to in those sections are instituted or heard;
 
-“party” means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration1;
+“data messages” means information generated, sent, received, or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), electronic mail, telegram, telex or telecopy;
 
-1see section 9 of the Contracts (Rights of Third Parties) Act (Cap. 53B) on third parties who are treated as parties to an arbitration agreement.
+[26/2009 wef 01/01/2010]
+
+“electronic communications” means any communication that the parties make by means of data messages;
+
+[26/2009 wef 01/01/2010]
+
+“party” means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration\**; on third parties who are treated as parties to an arbitration agreement.
+
+\*Seesection 9 of the Contracts (Rights of Third Parties) Act (Cap. 53B)
 
 “the place of the arbitration” means the juridical seat of the arbitration designated by —
 
@@ -668,7 +680,9 @@ the tribunal may make an award dismissing the claim.
 
 (d) an interim injunction or any other interim measure.
 
-(2) An order of the Court under this section shall cease to have effect in whole or in part if the arbitral tribunal or any such arbitral or other institution or person having power to act in relation to the subject-matter of the order makes an order to which the order of the Court relates.
+(2) An order made by the Court under this section shall cease to have effect in whole or in part (as the case may be) if the arbitral tribunal, or any such arbitral or other institution or person having power to act in relation to the subject-matter of the order, makes an order which expressly relates to the whole or part of that order of the Court.
+
+[26/2009 wef 01/01/2010]
 
 (3) The Court, in exercising any power under this section, shall have regard to —
 
@@ -1092,6 +1106,36 @@ MISCELLANEOUS
 
 (3) This section shall apply to an employee or agent of the appointing authority or of an arbitral or other institution or person as it applies to the appointing authority, institution or person himself.
 
+### Authentication of awards and arbitration agreements
+
+59A\.—(1) For the purposes of the enforcement of an award in any Convention country, the Minister may by order appoint such persons holding office in such arbitral institution or other organisation as the Minister may specify in the order, to authenticate any award or arbitration agreement or to certify copies thereof.
+
+[26/2009 wef 01/01/2010]
+
+(2) Any person appointed under subsection (1) —
+
+(a) shall comply with any condition imposed by the Minister; and
+
+(b) shall not, without the written consent of the parties, directly or indirectly disclose any matter, including the identity of any party to the award or arbitration agreement, to any third party.
+
+[26/2009 wef 01/01/2010]
+
+(3) An award or arbitration agreement or a copy thereof duly authenticated or certified by a person appointed under subsection (1) shall be deemed to have been authenticated or certified by a competent authority in Singapore for the purposes of enforcement in any Convention country.
+
+[26/2009 wef 01/01/2010]
+
+(4) For the avoidance of doubt, nothing in this section shall —
+
+(a) prevent any person from authenticating any award or arbitration agreement or certifying copies thereof in any other manner or method or by any other person, institution or organisation; or
+
+(b) affect the right of a person to challenge or appeal against any award by any available arbitral process of appeal or review, or in accordance with the provisions of this Act.
+
+[26/2009 wef 01/01/2010]
+
+(5) In this section, “Convention country” has the same meaning as in section 27(1) of the International Arbitration Act (Cap. 143A).
+
+[26/2009 wef 01/01/2010]
+
 ### Service of notices
 
 60\.—(1) The parties are free to agree on the manner of service of any notice or other document required or authorised to be given or served in pursuance of the arbitration agreement or for the purposes of the arbitration proceedings.
@@ -1205,6 +1249,12 @@ This Legislative History is provided for the convenience of users of the Arbitra
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st January 2006 (Item (4) of Fifth Schedule — Amendment of Arbitration Act)|
+|5.|**Act 26 of 2009—International Arbitration (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 20/2009 published on 14 September 2009)|
+||Date of Second Reading|14 October 2009|
+||Date of Third Reading|19 October 2009|
+||Date of commencement|1 January 2010|
 ## COMPARATIVE TABLE
 
 Arbitration Act
