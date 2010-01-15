@@ -162,7 +162,11 @@ An Act to establish the Economic Development Board.
 
 [17/75; 11/89]
 
-(2) The quorum of the Board shall be 5.
+[11/2008 wef 26/05/2008]
+
+(2) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009 wef 15/01/2010 wef 15/01/2010]
 
 (3) The Board shall meet at such times and places as the Board may determine.
 
@@ -191,6 +195,8 @@ may exercise any of the functions of the Chairman.
 [17/75]
 
 (8) The Chairman of the Board or the person lawfully acting as Chairman at any meeting of the Board shall have an original as well as a casting vote.
+
+(9) [Deleted by Act 11/2008 wef 26/05/2008]
 
 (10) The members of the Board shall be paid out of the funds of the Board such salaries, fees or allowances as the Minister may determine.
 
@@ -792,7 +798,7 @@ Sealing of documents
 
 [11/2008 wef 26/05/2008]
 
-## THE SCHEDULE
+SECOND SCHEDULE
 
 Section 25
 
@@ -812,7 +818,9 @@ Appointment of auditor
 
 Qualification of auditor
 
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
+4. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
+
+[11/2008 wef 26/05/2008]
 
 Remuneration of auditor
 
@@ -846,7 +854,9 @@ Failure to furnish information to auditor
 
 Offence
 
-10\. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+10. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+
+[11/2008 wef 26/05/2008]
 
 Financial statements and auditor’s report
 
@@ -967,6 +977,12 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 6/2008 published on 7 March 2008)|
 ||Date of Second and Third Readings|22 April 2008|
 ||Date of commencement|26 May 2008|
+|22.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 15 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
