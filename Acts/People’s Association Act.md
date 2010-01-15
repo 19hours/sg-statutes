@@ -150,6 +150,10 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (8) The quorum at all meetings of the Association shall be one-third of the total number of members of the Association, and no business shall be transacted unless a quorum is present.
 
+(8A) The quorum at every meeting of the Board shall be 5 members of the Board, and no business shall be transacted unless a quorum is present.
+
+[25/2009 wef 15/01/2010]
+
 (9) All questions coming before or arising at any meeting of the Association or of the Board shall be decided by a majority of the members present and voting thereon at that meeting of the Association or of the Board, and in the case of an equality of votes, the person presiding at the meeting shall have a second or casting vote.
 
 (10) If a vacancy occurs in the membership of the Association under section 4(1)(b), (c) or (d), by reason of death, resignation, revocation of an appointment under section 4(2) or for any other cause, the Chairman shall —
@@ -747,6 +751,12 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|30 December 2008|
 |57.|**G.N. No. S 601/2009—People’s Association Act (Amendment of First Schedule) Notification 2009**|
 ||Date of commencement|11 December 2009|
+|58.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||(Amendments made to Act by)||
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
 ## COMPARATIVE TABLE
 
 People’s Association Act
