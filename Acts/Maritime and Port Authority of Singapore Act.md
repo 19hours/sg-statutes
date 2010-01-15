@@ -1886,7 +1886,9 @@ Meetings
 
 12.—(1) The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
-(2) At every meeting of the Authority, 3 members shall form a quorum.
+(2) The quorum at every meeting of the Authority shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009 wef 15/01/2010]
 
 (3) A decision at a meeting of the Authority shall be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
@@ -2023,3 +2025,9 @@ This Legislative History is provided for the convenience of users of the Maritim
 |||(Bill No. 43/2004 published on 12 November 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009)|
+||Date of Second Reading|Date not available.|
+||Date of Third Reading|Date not available.|
+||Date of commencement|15 January 2010|
