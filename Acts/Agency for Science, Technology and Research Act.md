@@ -650,7 +650,9 @@ Meetings and proceedings of Agency
 
 14.—(1) The Chairman shall summon meetings as often as may be required.
 
-(2) At every meeting of the Agency, a quorum shall consist of 3 members.
+(2) The quorum at every meeting of the Agency shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009 wef 15/01/2010]
 
 (3) A decision at a meeting of the Agency shall be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
@@ -804,6 +806,11 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 45/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Date of commencement|1 January 2008|
+|10.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
 ## COMPARATIVE TABLE
 
 Agency for Science, Technology and Research Act
