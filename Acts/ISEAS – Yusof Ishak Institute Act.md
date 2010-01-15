@@ -140,7 +140,9 @@ Provided that the person or body appointing such a member may at any time revoke
 
 6\.—(1) Every question before the Board at any meeting shall be decided by a majority of the votes of the members present.
 
-(2) Seven members of the Board shall constitute a quorum at any meeting.
+(2) Eight members of the Board shall constitute a quorum at any meeting.
+
+[25/2009 wef 15/01/2010]
 
 (3) The chairman at any meeting shall have an original vote and, in the case of an equality of votes, a casting vote.
 
@@ -332,3 +334,8 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|9.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
