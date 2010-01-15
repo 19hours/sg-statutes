@@ -762,7 +762,9 @@ Meetings of Authority
 
 12.—(1) The Chairman shall summon meetings as often as may be required but not less than once in 3 months.
 
-(2) At every meeting of the Authority, a quorum shall consist of 3 members.
+(2) The quorum at every meeting of the Authority shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009 wef 15/01/2010]
 
 (3) Decisions at meetings of the Authority shall be adopted by a simple majority of the votes of the members present and voting; and in the case of an equality of votes, the Chairman or in his absence the Deputy Chairman or the member presiding shall have a casting vote.
 
@@ -989,3 +991,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 9/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
+|13.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||(Related amendments made to Act by)||
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
