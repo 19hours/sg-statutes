@@ -4672,7 +4672,9 @@ Disqualification from membership
 
 11. No person shall be appointed or shall continue to hold office as a member if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -4700,7 +4702,7 @@ Meetings and proceedings of Authority
 
 14.—(1) The Chairman shall summon meetings as often as may be required.
 
-(2) At every meeting of the Authority, a quorum shall consist of 3 members.
+(2) The quorum at every meeting of the Authority shall be one-third of the total number of members or 3 members, whichever is the higher.
 
 (3) A decision at a meeting of the Authority shall be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
@@ -4843,3 +4845,8 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 14/2009)|
 ||Date of Second and Third Readings|15th September 2009|
 ||Date of commencement|22 October 2009|
+|6.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009)|
+||Date of Second and Third Reading|19th October 2009|
+||Date of commencement|15 January 2010|
