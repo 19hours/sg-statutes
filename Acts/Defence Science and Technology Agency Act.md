@@ -576,7 +576,9 @@ Meetings and proceedings of board
 
 12.—(1) The board shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
-(2) At every meeting of the board, 3 directors shall form a quorum.
+(2) The quorum at every meeting of the board shall be one-third of the total number of directors or 3 directors, whichever is the higher.
+
+[25/2009 wef 15/01/2009]
 
 (3) The Chairman shall preside at all meetings of the board; and where the Chairman is absent at a meeting, such director as the directors present may elect shall preside at that meeting.
 
@@ -680,3 +682,9 @@ This Legislative History is provided for the convenience of users of the Defence
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Dates of commencement|15 January 2010 (Item 5 of Schedule)|
