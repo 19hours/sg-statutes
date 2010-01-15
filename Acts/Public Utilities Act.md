@@ -1246,6 +1246,10 @@ Quorum
 
 12.—(1) At every meeting of the Board, 3 members shall constitute a quorum and no business shall be transacted unless a quorum is present.
 
+(1) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher; and no business shall be transacted unless a quorum is present.
+
+[25/2009 wef 15/01/2010]
+
 (2) The Chairman, or in his absence the Deputy Chairman, shall preside at meetings of the Board, and if both the Chairman and Deputy Chairman are absent from any meeting or part thereof, such member as the members present may elect shall preside at that meeting or part thereof.
 
 (3) A decision at a meeting of the Board shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman of the meeting shall have a casting vote in addition to his original vote.
@@ -1429,6 +1433,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Dates of commencement|1st March 2007 (Except sections 6, 8 and 11)|
+|9.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
