@@ -226,7 +226,9 @@ all of whom shall be appointed by the Minister.
 
 ### Meetings and proceedings of Agency
 
-9\.—(1) At all meetings of the Agency, 5 members shall form a quorum.
+9\.—(1) The quorum at every meeting of the Agency shall be one-third of the total number of members.
+
+[25/2009 wef 15/01/2009]
 
 (2) The Chairman or, in his absence, the Deputy Chairman shall preside at all meetings of the Agency and, in the absence of the Chairman and Deputy Chairman, the members present shall elect one of their number to preside.
 
@@ -758,7 +760,7 @@ Singapore Workforce Development Agency Act
 
 (CHAPTER 305D)
 
-This Legislative History is provided for the convenience of users of the Singapore Workforce Development Agency Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Workforce Development Agency Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -775,3 +777,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|15 December 2004|
 |3.|**2004 Revised Edition—Singapore Workforce Development Agency Act**|
 ||Date of operation|31 December 2004|
+|4.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 15 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
