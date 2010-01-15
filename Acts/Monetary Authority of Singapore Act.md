@@ -180,15 +180,21 @@ PRELIMINARY
 
 “financial instrument” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
+[13/2007 wef 30/06/2007]
+
 “managing director” means a director appointed under section 9(1);
 
 [24/2003 wef 01/01/2004]
 
-[26/84]
-
 “money market operations” means any transaction undertaken by the Authority as the central bank to manage liquidity in the banking system;
 
+[24/2003 wef 01/01/2004]
+
 “officer”, in relation to the Authority, includes any person employed by the Authority in an executive capacity.
+
+[24/2003 wef 01/01/2004]
+
+[26/84]
 
 ## PART II
 
@@ -636,6 +642,8 @@ but only insofar as the subscription does not compromise the object of the Autho
 
 make any loan or advance to any bank carrying on business under the Banking Act (Cap. 19) or to such financial institutions or class of financial institutions or such other persons as the Authority may from time to time determine, on such terms and conditions as the Authority thinks fit.
 
+[24/2003 wef 01/01/2004]
+
 ### Power to issue directions to financial institutions
 
 27\.—(1) The Authority may, if it thinks it necessary in the public interest, request information from and make recommendations to such financial institutions as the Authority may, from time to time, determine and may issue directions for the purpose of securing that effect is given to any such request or recommendation.
@@ -676,11 +684,19 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 as the Authority considers necessary in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of a decision of the Security Council of the United Nations.
 
+[16/2002 wef 30/09/2002]
+
 (2) A financial institution to which a direction is issued under subsection (1)(a) or which is bound by any regulations made under subsection (1)(b) shall comply with the direction or regulations notwithstanding any other duty imposed on the financial institution by any rule of law, written law or contract.
+
+[16/2002 wef 30/09/2002]
 
 (3) A financial institution shall not in carrying out any act in compliance with any direction or regulations made under subsection (1) be treated as being in breach of any such rule of law, written law or contract.
 
+[16/2002 wef 30/09/2002]
+
 (4) A financial institution shall not disclose any direction issued under subsection (1)(a) if the Authority notifies the financial institution that the Authority is of the opinion that the disclosure of the direction is against the public interest.
+
+[16/2002 wef 30/09/2002]
 
 (5) A financial institution which —
 
@@ -691,6 +707,8 @@ as the Authority considers necessary in order to discharge or facilitate the dis
 (c) discloses a direction issued to it in contravention of subsection (4),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million.
+
+[16/2002 wef 30/09/2002]
 
 [13/2007 wef 30/06/2007]
 
@@ -722,10 +740,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (k) any licensed trust company under the Trust Companies Act (Cap. 336);
 
-[13/2007 wef 30/06/2007]
-
-[42/2007 wef 01/11/2007]
-
 (ka) any holder of a stored value facility under the Payment Systems (Oversight) Act (Cap. 222A); and
 
 [42/2007 wef 01/11/2007]
@@ -734,9 +748,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 but does not include such person or class of persons as the Authority may, by regulations made under this section, prescribe.
 
+[16/2002 wef 30/09/2002]
+
+[13/2007 wef 30/06/2007]
+
 (7) For the purpose of subsection (6), a reference to a person being licensed, approved, registered or regulated under any of the laws referred to in that subsection includes a person who is exempted under the relevant law from being licensed, approved, registered or regulated, but does not include such person or class of persons as the Authority may, by regulations made under this section, prescribe.
 
 [16/2002 wef 30/09/2002]
+
+[13/2007 wef 30/06/2007]
 
 ### Directions or regulations to prevent money laundering and terrorism financing
 
@@ -870,13 +890,23 @@ and the financial institutions concerned shall comply with such directions.
 
 28B\.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+[42/2007 wef 01/11/2007]
+
 (2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[42/2007 wef 01/11/2007]
 
 (3) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+[42/2007 wef 01/11/2007]
+
 (4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+[42/2007 wef 01/11/2007]
+
 (5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the unincorporated association or a member of its governing body, the officer or member (as the case may be) as well as the unincorporated association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[42/2007 wef 01/11/2007]
 
 (6) In this section —
 
@@ -889,6 +919,8 @@ and the financial institutions concerned shall comply with such directions.
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary or a member of the committee of the unincorporated association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity;
 
 “partner”, in relation to a partnership, includes a person purporting to act as a partner.
+
+[42/2007 wef 01/11/2007]
 
 (7) The Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -912,9 +944,15 @@ and the financial institutions concerned shall comply with such directions.
 
 29A\.—(1) The Authority may establish and operate one or more real-time gross settlement systems for the transfer of funds, settlement of payment obligations and the transfer and settlement of book-entry securities and instruments between or among participants approved by the Authority.
 
+[39/2002 wef 09/12/2002]
+
 (2) A settlement system may be linked to another system in Singapore or elsewhere for the clearing or settlement of payment obligations, securities or instruments and whether or not such system is operated on a real-time gross settlement basis.
 
+[39/2002 wef 09/12/2002]
+
 (3) The Authority may enter into agreements with participants of a settlement system and issue to the participants in writing rules for the operation of the settlement system and such rules shall not be deemed to be subsidiary legislation.
+
+[39/2002 wef 09/12/2002]
 
 (4) Without prejudice to the generality of subsection (3), such rules may provide —
 
@@ -930,11 +968,19 @@ and the financial institutions concerned shall comply with such directions.
 
 (f) for the payment of fees to the Authority.
 
+[39/2002 wef 09/12/2002]
+
 (5) The Authority, any officer or employee of the Authority, or any person acting under the direction of the Authority, shall not be liable for any loss or damage suffered by any person or participant arising from, directly or indirectly, the use of a settlement system by any participant unless such loss or damage results from a reckless act or omission or any intentional misconduct of any officer or employee of the Authority or any person acting under the direction of the Authority.
+
+[39/2002 wef 09/12/2002]
 
 (6) The Payment and Settlement Systems (Finality and Netting) Act 2002 shall have effect in relation to a settlement system established and operated by the Authority under this section if the settlement system is designated under section 3 of that Act.
 
+[39/2002 wef 09/12/2002]
+
 (7) A settlement system established and operated by the Authority under section 59A of the Banking Act (Cap. 19) before the date of commencement of the Payment and Settlement Systems (Finality and Netting) Act 2002 shall continue and be deemed to have been established and operated by the Authority under this section.
+
+[39/2002 wef 09/12/2002]
 
 (8) In this section —
 
@@ -953,6 +999,8 @@ and the financial institutions concerned shall comply with such directions.
 “real-time gross settlement system” means a system which can effect final settlement of funds, payment obligations and book-entry securities and instruments on a continuous basis during such operating hours of a processing day as the Authority may determine and on a transaction-by-transaction basis;
 
 “settlement system” means any real-time gross settlement system established under subsection (1).
+
+[39/2002 wef 09/12/2002]
 
 ### Agents
 
@@ -1138,6 +1186,10 @@ MISCELLANEOUS
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Authority.
 
+[2/2000 wef 06/03/2000]
+
+[42/2001 wef 01/10/2002]
+
 40\. [Deleted by Act 24/2003 wef 01/01/2004]
 
 ### Jurisdiction of District Court
@@ -1179,6 +1231,10 @@ Section 23(8) and (9)
 Written Laws
 
 1\. Banking Act (Cap. 19)
+
+1A. Bills of Exchange Act (Cap. 23)
+
+[S 21/2010 wef 15/04/2010]
 
 2\. Bretton Woods Agreements Act (Cap. 27)
 
@@ -1339,6 +1395,8 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 30/2007 published on 19 October 2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007|
+|25.|**G. N. No. S 21/2010—Monetary Authority of Singapore Act (Amendment of Schedule) Order 2010**|
+||Date of commencement|15 January 2010|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
