@@ -220,7 +220,9 @@ all of whom shall be appointed by the Minister.
 
 ### Meetings and proceedings of Board
 
-9\.—(1) At all meetings of the Board, 4 members shall form a quorum.
+9\.—(1) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009 wef 15/01/2010]
 
 (2) The Chairman shall preside at all meetings of the Board and, in his absence, the members present shall elect one of their number to preside.
 
@@ -412,7 +414,7 @@ FINANCIAL PROVISIONS
 
 \*22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the College under this Act, or of any capital injection or other investment by the Government in the College in accordance with any written law, the College shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002] wef 29/07/2002]
+[5/2002]
 
 \*This section was not in operation as at 30th June 2002.
 
@@ -590,7 +592,7 @@ Civil Service College Act
 
 (CHAPTER 45)
 
-This Legislative History is provided for the convenience of users of the Civil Service College Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Civil Service College Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -618,3 +620,8 @@ This Legislative History is provided for the convenience of users of the Civil S
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|6.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009.|
+||Date of commencement|15 January 2010|
