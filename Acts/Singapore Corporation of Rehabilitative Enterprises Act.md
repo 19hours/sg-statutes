@@ -184,7 +184,9 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION
 
 (b) at such times and places as the Corporation or the Chairman may from time to time determine.
 
-(2) At every meeting of the Corporation, 3 members shall form a quorum.
+(2) The quorum at every meeting of the Corporation shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009 wef 15/01/2010]
 
 (3) Decisions at meetings of the Corporation shall be adopted by a simple majority of the votes of the members present and voting; and in the event of an equality of votes the Chairman, or in his absence the Deputy Chairman or the member presiding, shall have a casting vote.
 
@@ -290,15 +292,9 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (a) provide, whether by itself or with the co-operation of other persons, such vocational or industrial training schemes for any prisoner and inmate as the Corporation thinks fit;
 
-[Act 23/87]
-
 (b) carry on any trade or business whether by arrangement with other persons or by itself for the purpose of providing facilities for the training of or employment for prisoners and inmates;
 
-[Act 23/87]
-
 (c) pay such salaries, wages, remuneration or allowances as the Corporation thinks fit to prisoners and inmates who work for the Corporation;
-
-[Act 23/87]
 
 (d) acquire, hire, procure, construct, erect, manufacture, provide, operate, maintain or repair anything whatsoever required by the Corporation for the purposes of this Act;
 
@@ -308,25 +304,19 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (g) make loans to persons, other than prisoners and inmates, who are employed by the Corporation (including loans to assist them to acquire housing accommodation) and guarantee loans made to persons so employed (including loans made by building societies and other bodies for housing purposes);
 
-[Act 23/87]
-
 (h) promote recreational activities for and activities conducive to the welfare of persons, other than prisoners and inmates, who are or have been engaged in the employment of the Corporation and assist the promotion by others of those activities;
-
-[Act 23/87]
 
 (i) enter into such contracts as the Corporation considers necessary for the discharge of its functions;
 
 (j) make grants or lend money to, or enter into guarantees on behalf of, any person or organisation in matters relating to the provision of industrial or vocational training for, or of rehabilitative and aftercare services to, prisoners and inmates before and after their discharge from custody;
 
-[Act 23/87]
-
 (ja) make grants or lend money to, or enter into guarantees on behalf of, prisoners and inmates after their discharge from custody for the purposes of any vocation, trade or business carrying on by them;
-
-[Act 23/87]
 
 (k) with the approval of the Minister, enter into joint ventures with any person or organisation, or cause to be formed under the provisions of the Companies Act [Cap. 50] an incorporated company or companies for the purpose of carrying out any of the functions of the Corporation; and
 
 (l) do all such other things as are incidental to or necessary for the performance of its functions.
+
+[23/1987 wef 01/11/1987]
 
 ### Appointment of committees and delegation of powers
 
@@ -531,3 +521,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|6.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
