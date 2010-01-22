@@ -2737,7 +2737,7 @@ Section 2
 
 Serious Offences
 
-Part i — Offences included as serious offences with effect from 13th September 1999
+Part I — Offences included as serious offences with effect from 13th September 1999
 
 Offences
 
@@ -3493,7 +3493,7 @@ Importation of woman or girl by false pretences
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-Part ii — Offences included as serious offences with effect from 9th September 2005
+Part II — Offences included as serious offences with effect from 9th September 2005
 
 [S 579/2005 wef 09/09/2005]
 
@@ -3515,7 +3515,7 @@ Harassing borrower, besetting his residence, etc.
 
 [25/99]
 
-Part iii — Offences included as serious offences with effect from 8th May 2006
+Part III — Offences included as serious offences with effect from 8th May 2006
 
 [S 254/2006 wef 08/05/2006]
 
@@ -3825,21 +3825,9 @@ Membership of quasi-military organisations
 
 Illegal drilling
 
-Medicines Act (Cap\. 176) 
+246.Deleted by S 28/2010, wef 22/01/2010.
 
-246. Section 20(1) for contravention of either of the following:
-
-(a) section 5
-
-Dealing, etc., with medicinal product without licence
-
-(b) section 6
-
-Manufacture or wholesale dealing with medicinal product without licence
-
-247. Section 20(2)
-
-Possession of medicinal product imported in contravention of section 5
+247. Deleted by S 28/2010, wef 22/01/2010.
 
 Monetary Authority of Singapore Act (Cap\. 186) 
 
@@ -3927,11 +3915,7 @@ Fraudulent cancellation, destruction, etc., of a will
 
 Falsification of accounts
 
-Poisons Act (Cap\. 234) 
-
-265. Section 16 for contravention of section 5
-
-Importation or sale, etc., of poisons without licence
+265. Deleted by S 28/2010, wef 22/01/2010.
 
 Sale of Food Act (Cap\. 283) 
 
@@ -4147,7 +4131,7 @@ Keeping or management of brothels
 
 [26/2007 wef 01/01/2008]
 
-Part iv — Offences included as serious offences
+Part IV — Offences included as serious offences
 
 
 
@@ -4176,7 +4160,7 @@ Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-Part v — Offences included as serious offences
+Part V — Offences included as serious offences
 
 
 
@@ -4363,7 +4347,7 @@ Contravention of order for restraint of property
 
 *Note: The short description of offences is for ease of reference only.
 
-Part vi — Offences included as serious offences with effect from 1st February 2008
+Part VI — Offences included as serious offences with effect from 1st February 2008
 
 Offences
 
@@ -4473,7 +4457,7 @@ Making or possessing equipment for making a false instrument
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
-Part vii — Offences included as serious offences
+Part VII — Offences included as serious offences
 
 
 
@@ -4494,7 +4478,7 @@ Terrorist bombing
 
 Failure to disclose information about acts of terrorist bombing
 
-Part viii — Offences included as serious offences
+Part VIII — Offences included as serious offences
 
 
 
@@ -4524,6 +4508,46 @@ Possession of chips outside designated site
 Forgery
 
 *Note: The short description of offences is for ease of reference only.
+
+Part IX — Offences included as serious offences with effect from 22nd January 2010
+
+[S 28/2010 wef 22/01/2010]
+
+Offences
+
+Description*
+
+Health Products Act(Cap\. 122D) 
+
+361. Section 16
+
+Prohibition against supply of health products that are adulterated, counterfeits, etc.
+
+Human Organ Transplant Act (Cap\. 131A) 
+
+362. Section 14(2A)
+
+Organ trading by middlemen or syndicates
+
+Medicines Act (Cap\. 176) 
+
+363. Section 35 for contravention of section 31
+
+Sale of adulterated medicinal products
+
+364. Section 35 for contravention of section 32
+
+Sale of medicinal products not of nature or quality demanded by purchaser
+
+Radiation Protection Act (Cap\. 262) 
+
+365. Section 14
+
+Transport of radioactive waste.
+
+*Note: The short description of offences is for ease of reference only.
+
+[S 28/2010 wef 22/01/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -4645,6 +4669,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 10/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Dates of commencement|1 July 2009 (except sections 86 and 87)|
+|26.|**G. N. No. S 28/2010—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2010**|
+||Date of commencement|22 January 2010|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
