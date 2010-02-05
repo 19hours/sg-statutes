@@ -544,7 +544,7 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Authority appointed under section 13 and includes any person acting in that capacity;
 
-“chips” means any tokens used instead of money for the purpose of gaming ;
+“chips” means any tokens used instead of money for the purpose of gaming and includes any voucher or other instrument that has a fixed dollar wagering value;
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -2778,9 +2778,9 @@ Entry to casino premises
 
 116\.—(1) Subject to subsection (3), a casino operator shall not allow any person who is a citizen or permanent resident of Singapore to enter or remain on the casino premises at any time on any day unless the person has paid to the casino operator an entry levy of —
 
-(a) $100 (inclusive of goods and services tax) for every consecutive period of 24 hours; or
+(a) $100 for every consecutive period of 24 hours; or
 
-(b) $2,000 (inclusive of goods and services tax) for a valid annual membership of the casino.
+(b) $2,000 for a valid annual membership of the casino.
 
 (2) All entry levies collected by a casino operator under subsection (1) shall be paid to the Singapore Totalisator Board within the prescribed time and shall be used by that Board for public, social or charitable purposes in Singapore.
 
@@ -2810,7 +2810,7 @@ Entry to casino premises
 
 (2) The Chief Executive may require a casino operator to lodge with the Authority such security as the Chief Executive may consider appropriate for the payment of entry levies.
 
-(3) Entry levies shall be recoverable from a casino operator as a civil debt due to the Government.
+(3) Entry levies shall be recoverable from a casino operator as a civil debt due to the Singapore Totalisator Board.
 
 (4) It shall be lawful for the Chief Executive, if it is proved to his satisfaction that any money has been overpaid as entry levy under this Act, to direct the refund of the money so overpaid, such refund to be paid from entry levies collected under section 116(1).
 
@@ -4850,3 +4850,8 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 19/2009)|
 ||Date of Second and Third Reading|19th October 2009|
 ||Date of commencement|15 January 2010|
+|7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009)|
+||Date of Second and Third Readings|12th January 2010|
+||Date of commencement|5 February 2010|
