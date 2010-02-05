@@ -536,9 +536,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) the Registrar of Businesses and any Deputy or Assistant Registrar of Businesses appointed under the Business Registration Act (Cap. 32);
 
-(c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50); and
+(c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50);
 
-(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
+[4/2010 wef 05/02/2010]
+
+(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005); and
+
+[4/2010 wef 05/02/2010]
+
+(e) the Registrar of Limited Partnerships and any Deputy or Assistant Registrar of Limited Partnerships appointed under the Limited Partnerships Act 2008 (Act 37 of 2008).
 
 [4/2010 wef 05/02/2010]
 
@@ -718,7 +724,7 @@ Written Laws Administered and Enforced by Authority
 
 3\. Companies Act (Cap. 50).
 
-4\.Deleted by Act 11/2005, wef 01/02/2006.
+4. [Deleted by Act 11/2005 wef 04/10/2005 wef 04/10/2005, wef 01/02/2006]
 
 5\. Limited Liability Partnerships Act (Act 5 of 2005).
 
@@ -835,6 +841,11 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of commencement|1 February 2006|
 |6.|**G. N. No. S 253/2009—Accounting and Corporate Regulatory Authority Act (Amendment of Second Schedule) Order 2009**|
 ||Date of commencement|4 May 2009|
+|7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|5 February 2010|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
