@@ -320,6 +320,10 @@ PRELIMINARY
 
 (d) alerting services provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and to assist such organisations as may be required;
 
+(da) communications, navigation and surveillance services;
+
+[4/2010 wef 05/02/2010]
+
 (e) meteorological services for air navigation;
 
 (f) search and rescue services; and
@@ -1370,7 +1374,9 @@ Charges, accounts and records
 
 (f) any other terms as the Authority considers appropriate.
 
-(2) The Minister may make rules prescribing the content, form and procedure to be followed in connection with the preparation, setting and approval of maximum prices for the purposes of subsection (1).
+(2) The Minister may make rules prescribing the content, form and procedure to be followed, and the methodology or other matters to be included in connection with the preparation, setting and approval of maximum prices for the purposes of subsection (1).
+
+[4/2010 wef 05/02/2010]
 
 (3) Any maximum price approved by the Authority immediately upon the commencement of Division 4 of Part IV in respect of any aeronautical charges at any airport shall be deemed to be maximum prices approved by the Authority under, and in accordance with rules made under, this section in respect of those aeronautical charges of the airport licensee for that airport.
 
@@ -1510,7 +1516,12 @@ to provide the Minister with all such information as he may require (whether for
 
 ## PART V
 
-RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF AIRPORT LICENSEES
+RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF
+
+
+
+
+AIRPORT LICENSEES
 
 Division 1 —
 
@@ -2078,7 +2089,9 @@ SPECIAL ADMINISTRATION ORDERS
 
 (6) For the purposes of this section, a company is unable to pay its debts if it is a company which is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
 
-(7) Nothing in Part V shall not apply to prohibit or invalidate any special administration order or other order made under this Part or any transaction entered into to give effect to such an order.
+(7) Nothing in Part V shall apply to prohibit or invalidate any special administration order or other order made under this Part or any transaction entered into to give effect to such an order.
+
+[4/2010 wef 05/02/2010]
 
 ### Meaning and effect of special administration orders
 
