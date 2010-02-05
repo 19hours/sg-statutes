@@ -222,7 +222,7 @@
 
 - [89 Sick leave](#Sick-leave)
 
-- [90 (Repealed)](#Repealed)
+- [90 Offence](#Offence)
 
 [**Part XI (Repealed)**](#Part-XI)
 
@@ -1314,15 +1314,17 @@ Interpretation of “ordinary rate of pay”
 
 [21/84; 32/2008]
 
-(2) [Deleted by Act 32 of 2008]
+(2) [Deleted byAct 32 of 2008]
 
 (3) Notwithstanding subsection (1) —
 
-(a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in sections 43 and 89; and
+(a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in section 43; and
 
-(b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in sections 43 and 89.
+(b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in section 43.
 
 [36/95; 32/2008]
+
+[4/2010 wef 05/02/2010]
 
 ## PART V
 
@@ -1983,9 +1985,17 @@ shall be deemed to have absented himself from work without the permission of his
 
 [32/2008]
 
-Control of employment
+### Offence
 
-90\. [Repealed by Act 32 of 2008]
+90\.—(1) Any employer who employs any person as an employee contrary to the provisions of this Part or fails to pay any salary in accordance with the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) Notwithstanding subsection (1) —
+
+(a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in section 89; and
+
+(b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in section 89.
+
+[4/2010 wef 05/02/2010]
 
 ## PART XI
 
@@ -2753,3 +2763,8 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Dates of commencement|1 March 2009|
 |26.|**2009 Revised Edition—Employment Act**|
 ||Date of operation|31 July 2009|
+|27.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 24 November 2009)|
+||Date of Second and Third Readings|12 January 2012|
+||Date of commencement|5 February 2010|
