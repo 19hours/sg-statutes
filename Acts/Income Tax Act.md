@@ -534,6 +534,36 @@
 
 - [105 Jurisdiction of court](#Jurisdiction-of-court)
 
+[**Part XXA EXCHANGE OF INFORMATION UNDER AVOIDANCE OF DOUBLE TAXATION ARRANGEMENTS**](#Part-XXA)
+
+- [105A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [105B Purpose of this Part](#Purpose-of-this-Part)
+
+- [105C Prescribed arrangement](#Prescribed-arrangement)
+
+- [105D Request for information](#Request-for-information)
+
+- [105E Comptroller to serve notice of request on certain persons](#Comptroller-to-serve-notice-of-request-on-certain-persons)
+
+- [105F Power of Comptroller to obtain information](#Power-of-Comptroller-to-obtain-information)
+
+- [105G Power of Comptroller to obtain information from other authorities](#Power-of-Comptroller-to-obtain-information-from-other-authorities)
+
+- [105H Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
+
+[**Part XXB COURT ORDERS RELATING TO RESTRICTED INFORMATION**](#Part-XXB)
+
+- [105I Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [105J Orders relating to certain information](#Orders-relating-to-certain-information)
+
+- [105K Supplementary provisions regarding section 105J orders](#Supplementary-provisions-regarding-section-105J-orders)
+
+- [105L Immunities](#Immunities)
+
+- [105M Failure to comply with section 105J orders](#Failure-to-comply-with-section-105J-orders)
+
 [**Part XXI MISCELLANEOUS**](#Part-XXI)
 
 - [106 Powers to amend Schedules](#Powers-to-amend-Schedules)
@@ -555,6 +585,8 @@
 [**SIXTH SCHEDULE Number of Years of Working Life of Asset**](#SIXTH-SCHEDULE-Number-of-Years-of-Working-Life-of-Asset)
 
 [**SEVENTH SCHEDULE Advance Rulings**](#SEVENTH-SCHEDULE-Advance-Rulings)
+
+[**EIGHTH SCHEDULE Information to be Included in A Request for Information under Part Xxa**](#EIGHTH-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -2831,7 +2863,7 @@ is the percentage of the income of the limited liability partnership to which th
 
 B
 
-is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership.
+is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership
 
 (8C) No exemption from tax shall be granted to any person under subsection (8A) unless the Comptroller is satisfied that the exemption would be beneficial to the person resident in Singapore.
 
@@ -3869,8 +3901,6 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 (B) where he is committed to work less than that number of hours, at least 75% of his total working time per week for the company; and
 
-[27/2009 wef 01/01/2010]
-
 (b) does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the company which grants the right or benefit to acquire its shares;
 
 “share acquisition scheme” means a scheme which imposes a minimum holding period requirement and allows an employee of a company to own or purchase shares in a qualifying company or that of its holding company, including stock options, share awards and other similar forms of employee share purchase plans but excluding phantom shares rights, share appreciation rights and any other similar rights;
@@ -3936,8 +3966,6 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 (a) where the time of grant is before 1st January 2010, for not more than 30 hours per week (including any time he would be required to work but for injury, any official leave or such other similar events) for the company; or
 
 (b) where the time of grant is on or after 1st January 2010, for not more than the number of hours per week referred to in section 66A(1) of the Employment Act (Cap. 91) (including any time he would be required to work but for injury, any official leave or such other similar events) for the company;
-
-[27/2009 wef 01/01/2010]
 
 “qualifying company” means a company incorporated or registered under the Companies Act which, at the time of the grant to its employees of any right or benefit to acquire its shares or that of its holding company, carries on business in Singapore;
 
@@ -4054,8 +4082,6 @@ the company shall opt for the tax exemption under this section or section 13J to
 (A) at least the number of hours per week referred to in section 66A(1) of the Employment Act (Cap. 91) for the company; or
 
 (B) where he is committed to work less than that number of hours, at least 75% of his total working time per week for the company; and
-
-[27/2009 wef 01/01/2010]
 
 (b) does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the company which grants the right or benefit to acquire its shares;
 
@@ -5797,8 +5823,6 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (5A) No approval or extension of approval shall be granted under this section on or after 1st January 2010.
 
-[27/2009 wef 01/01/2010]
-
 (6) In this section —
 
 “approved” means approved by the Minister or such person as he may appoint;
@@ -5820,72 +5844,6 @@ is the total investment income (whether chargeable to tax or not) for that basis
 (f) research on foreign securities; and
 
 (g) such other category of activities or instruments as may be prescribed.
-
-### Further or double deduction for overseas investment development expenditure
-
-14K\.—(1) Where the Comptroller is satisfied that —
-
-(a) any investment development expenditure for the carrying out of an approved investment project overseas; or
-
-(b) any expense for the maintenance of an approved overseas project development office,
-
-has been incurred by an approved firm or company resident in Singapore and carrying on business in Singapore, there shall be allowed —
-
-(i) where such expenditure or expense is allowable as a deduction under section 14, a further deduction of the amount of such expenditure or expense in addition to the deduction allowed under that section; and
-
-(ii) where such expenditure or expense is not allowable as a deduction under section 14, a deduction equal to twice the amount of such expenditure or expense.
-
-[26/93]
-
-(2) The Minister or such person as he may appoint may —
-
-(a) specify the maximum amount of investment development expenditure for the carrying out of an approved investment project overseas or expenses for the maintenance of an approved overseas project development office (or any item thereof) to be allowed under subsection (1); and
-
-(b) impose such conditions as he thinks fit when approving the investment project or the overseas project development office for which the deduction is to be allowed under this section.
-
-(3) No deduction shall be allowed under this section in respect of —
-
-(a) travelling, accommodation and subsistence expenses or allowances for more than 2 employees taking part in an approved investment project overseas;
-
-(b) any expenses for the maintenance of an approved overseas project development office —
-
-(i) which are incurred for the establishment of that office;
-
-(ii) by way of remuneration, travelling, accommodation and subsistence expenses or allowances for more than 3 employees of that office;
-
-(iii) which are specifically excluded as a condition of approval for that office under this section;
-
-(iv) which are incurred after the end of the first 6 months of the establishment of that office; and
-
-(v) which are incurred by the approved firm or company having a permanent establishment which has, during the first 6 months of the establishment of that office, income chargeable to tax in the country in which that office is established.
-
-(4) Subject to subsection (5), as soon as any amount of deduction is allowed to any company under subsection (1), a sum equal to the amount of the expenditure or expense incurred by the company which qualified for the deduction under subsection (1) shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of this section.
-
-[21/2003]
-
-(5) Where the company is a transferor company within the meaning of section 37C(19) and where any amount of further deduction allowed under this section is transferred to a claimant company as part of the loss specified under section 37C(14)(b) —
-
-(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
-
-(b) for the purposes of this section, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
-
-(c) in relation to the sum transferred under paragraph (a), subsection (6) shall apply to the claimant company.
-
-[21/2003]
-
-(6) Section 14B(7) to (10) shall apply, with the necessary modifications, to any company to which a deduction is allowed under subsection (1) and, in relation to a deduction allowed to any company under subsection (1)(ii), the references to further deduction in those subsections shall be read as references to a deduction of a sum equal to the amount of the expenditure or expense incurred by the company which qualified for the deduction under subsection (1)(ii).
-
-(7) In this section —
-
-“approved” means approved by the Minister or such person as he may appoint;
-
-“investment development expenditure” means expenses directly attributable to the carrying out of —
-
-(a) any study to identify investment overseas; and
-
-(b) any feasibility or due diligence study on any approved investment overseas;
-
-“overseas project development office” means any office established for the purpose of identifying, initiating and developing any approved investment overseas.
 
 ### Further deduction for expenses incurred in relocation or recruitment of overseas talent
 
@@ -6698,6 +6656,144 @@ and increased by any balancing charges made; or
 (9) For the purpose of computing the residue of expenditure, there shall be written off an amount of 3% of the expenditure in respect of any year in which no initial or annual allowance has been made.
 
 [7/79]
+
+### Initial and annual allowances for machinery or plant
+
+19\.—(1) Where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, there shall be made to him, on due claim for the year of assessment in the basis period for which the expenditure is incurred an allowance, to be known as an “initial allowance”, equal to one-fifth of that expenditure or such other allowance as may be prescribed either generally or for any person or class of persons in respect of any machinery or plant or class of machinery or plant.
+
+[7/79]
+
+(1A) For the purposes of subsection (1), in the case of any trade, profession or business —
+
+(a) where 2 basis periods overlap, the period common to both shall be deemed to fall in the first basis period only;
+
+(b) where there is an interval between the end of the basis period for a year of assessment and the commencement of a basis period for the next succeeding year of assessment, then, unless the second mentioned year of assessment is the year of the permanent discontinuance of the trade, the interval shall be deemed to be part of the second basis period; and
+
+(c) where there is an interval between the end of the basis period for the year of assessment preceding that in which the trade is permanently discontinued and the commencement of the basis period for the year in which it is permanently discontinued, the interval shall be deemed to form part of the first basis period.
+
+(1B) Any capital expenditure incurred for the purposes of a trade by a person about to carry on that trade shall be treated for the purposes of subsection (1) as if it had been incurred by that person on the first day on which he does carry on that trade.
+
+(2) Where at the end of the basis period for any year of assessment, a person has in use machinery or plant for the purpose of his trade, profession or business, there shall be made to him, on due claim, in respect of that year of assessment an allowance for depreciation by wear and tear of those assets (to be known as an annual allowance) which shall be calculated in accordance with the following provisions:
+
+(a) the annual allowance in respect of any machinery or plant shall —
+
+(i) in the case of an asset, other than an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over any initial allowance granted under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
+
+(ii) in the case of an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over the total amount of initial allowance allowable in respect of the asset under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
+
+(b) for the purposes of paragraph (a), in the case of any aircraft which is acquired on or after 1st March 1995 by a leasing company carrying on the business of offshore leasing within the meaning of section 43I or is acquired by an approved aircraft leasing company within the meaning of section 43Y, the number of years of working life of the aircraft specified in the Sixth Schedule may, on the application of the leasing company, be extended irrevocably for such period not exceeding 20 years as approved by the Minister or such person as he may appoint;
+
+(c) the annual allowance in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset still unallowed under this section as at the beginning of the basis period for that year of assessment;
+
+(d) for the purposes of the Sixth Schedule, where any question arises as to the classification of an asset under any item of that Schedule, the asset shall be treated as falling under such item as the Comptroller considers proper.
+
+[28/80; 32/95; 53/2007]
+
+3(3) Notwithstanding subsection (1) or (2) or section 19A(1) or (1B), in respect of a motor car to which this subsection applies –
+
+3This Subsection will be amended as set out in section 15(b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
+
+(a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure incurred in respect of that motor car or $35,000, whichever is the less;
+
+4(b) the annual allowance to be made under subsection (2)or section 19A(1) or(1B)shall be calculated on the basis that the original cost of that motor car is the capital expenditure incurred or $35,000, whichever is the less; and
+
+4The words initalicsin paragraph (b) shall have effect from the year of assessment 2009.
+
+(c) the aggregate of the initial and annual allowances to be made under this subsection for all relevant years of assessment shall not exceed $35,000.
+
+[37/75; 5/83]
+
+[53/2007 wef 06/12/2007]
+
+[27/2009 wef 29/12/2009]
+
+(4) Subsection (3) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms and which —
+
+(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) but excludes such a motor car which is —
+
+(i) used principally for instructional purposes; and
+
+(ii) acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under that Act; or
+
+(b) is registered outside Singapore and used exclusively outside Singapore.
+
+[32/99]
+
+5(5) No allowance under this sectionorsection 19Ashall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except –
+
+(a) a taxi;
+
+(b) a motor car registered outside Singapore and used exclusively outside Singapore;
+
+(c) a private hire car acquired by a person who carries on the business of hiring out cars and which is used by the person principally for hiring;
+
+(d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276); and
+
+(e) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes and acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act.
+
+[32/99; 53/2007]
+
+5The words initalicsin subsection (5) shall have effect from the year of assessment 2009.
+
+(5A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
+6(5B) For the purposes of subsection (2), where, at the end of the basis period for the year of assessment 2009, a person has in use any of the following motor vehicles within the meaning of the Road Traffic Act:
+
+(a) a motor car;
+
+(b) a motor cycle;
+
+(c) a goods vehicle the maximum weight of which laden does not exceed 3,000 kilograms,
+
+in respect of which allowances have been made under this section, there shall be made to him, on due claim for that or any subsequent year of assessment and in lieu of any further annual allowance under this section, an annual allowance of 331/
+
+3
+
+% in respect of the capital expenditure remaining unallowed under this section in respect of the motor vehicle as at the beginning of the basis period for the year of assessment 2009.
+
+[53/2007]
+
+6Subsection (5B) shall have effect from the year of assessment 2009.
+
+(6) In subsection (1), “prescribed” means prescribed by an order made by the Minister.
+
+(7) Every order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+(8) Subject to subsection (9), this section shall, with the necessary modifications, apply to a person carrying on any trade or business who incurs during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2013 (both years inclusive) capital expenditure on the provision of machinery or plant for any research and development undertaken by him directly in Singapore or by a research and development organisation on his behalf in Singapore, even though the machinery or plant is not for the purposes of that trade or business.
+
+[Act 34/2008, wef Y/A 2009 & sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/11/2010]
+
+(9) Section 14D(4) and (5) shall apply in relation to the allowance for the capital expenditure referred to in subsection (8) as they apply in relation to the deduction of the expenditure and payments referred to in section 14D(1)(aa) and (c), subject to the following modifications:
+
+(a) a reference to the amount of the expenditure or payments is a reference to the amount of the allowance;
+
+(b) a reference to unabsorbed losses is a reference to unabsorbed allowances; and
+
+(c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
+
+where A
+
+is the amount of allowance that could have been made against the income of the person under subsection (8) if the income had been subject to tax at the rate specified in section 43(1)(a);
+
+B
+
+is the rate of tax specified in section 43(1)(a); and
+
+C
+
+is —
+
+(i)
+
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
 ### Allowances of 3 years or 2 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.
 
@@ -13975,7 +14071,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [26/73; 37/75; 21/2003; 7/2007]
 
-(3) No prosecution shall be commenced in respect of an offence under section 6, 97or 98 except at the instance or with the consent of the Public Prosecutor.
+(3) No prosecution shall be commenced in respect of an offence under section 6, 97, 98 or 105M except at the instance or with the consent of the Public Prosecutor.
 
 [24/2009 wef 09/02/2010]
 
@@ -14025,6 +14121,281 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [4/75]
 
+## PART XXA
+
+EXCHANGE OF INFORMATION UNDER AVOIDANCE
+
+
+
+
+OF DOUBLE TAXATION ARRANGEMENTS
+
+[24/2009 wef 09/02/2010]
+
+### Interpretation of this Part
+
+105A\.—(1) In this Part —
+
+“avoidance of double taxation arrangement” means an arrangement having effect under section 49;
+
+“competent authority”, in relation to a prescribed arrangement, means a person or an authority whom the Comptroller is satisfied is authorised under the EOI provision of the arrangement to make a request to the Comptroller for information under that provision;
+
+“exchange of information provision” or “EOI provision”, in relation to an avoidance of double taxation arrangement, means a provision in that arrangement which provides expressly for the exchange of information concerning the tax positions of persons;
+
+“prescribed arrangement” means an avoidance of double taxation arrangement that —
+
+(a) has an EOI provision; and
+
+(b) is declared by the Minister, by an order under section 105C(1), as a prescribed arrangement;
+
+“tax position”, in relation to a person, means the person’s position as regards any tax —
+
+(a) of the country with whose government the avoidance of double taxation arrangement in question was made; and
+
+(b) that is covered by the EOI provision of that arrangement,
+
+including the person’s position as regards —
+
+(i) past, present and future liability to pay any such tax;
+
+(ii) penalties, interest and other amounts that have been paid, or are or may be payable, by or to the person in connection with any such tax; and
+
+(iii) claims, elections, applications and notices that have been or may be made or given in connection with any such tax.
+
+(2) References in this Part to the tax position of a person include the tax position of —
+
+(a) a person (not being an individual) that has ceased to exist; and
+
+(b) an individual who has died.
+
+(3) References in this Part to the tax position of a person are to his tax position at any time or in relation to any period, unless otherwise stated in the prescribed arrangement in question.
+
+### Purpose of this Part
+
+105B\. The purpose of this Part is to facilitate the disclosure of information to a competent authority under an avoidance of double taxation arrangement prescribed under section 105C in accordance with the EOI provision in that arrangement.
+
+### Prescribed arrangement
+
+105C\.—(1) The Minister may by order declare an avoidance of double taxation arrangement as a prescribed arrangement for the purposes of this Part.
+
+(2) The Minister may by a subsequent order revoke any order previously made under subsection (1).
+
+### Request for information
+
+105D\.—(1) The competent authority under a prescribed arrangement may make a request to the Comptroller for information concerning the tax position of any person in accordance with the EOI provision of that arrangement.
+
+(2) Unless the Comptroller otherwise permits, the request must set out the information prescribed in the Eighth Schedule.
+
+(3) Every request shall be subject to and dealt with in accordance with the terms of the prescribed arrangement.
+
+### Comptroller to serve notice of request on certain persons
+
+105E\.—(1) After receipt of a request under section 105D for any information which, in the opinion of the Comptroller, is information referred to in subsection (2), the Comptroller shall serve notice of the request by ordinary post on —
+
+(a) the person identified in the request as the person in relation to whom the information is sought; and
+
+(b) the person identified in the request as the person who is believed to have possession or control of the information.
+
+(2) The information referred to in subsection (1) is information that is protected from unauthorised disclosure under —
+
+(a) section 47 of the Banking Act (Cap. 19) including any regulations made under subsection (10) of that section; or
+
+(b) section 49 of the Trust Companies Act (Cap. 336).
+
+(3) Notice under subsection (1) shall be treated as served on the day succeeding the day on which it would have been received in the ordinary course of post if it is addressed —
+
+(a) in the case of an individual or a body of persons, to the last known business or private address of the individual or body of persons;
+
+(b) in the case of a company incorporated in Singapore, to its registered office; or
+
+(c) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act (Cap. 50) at the address filed with the Registrar of Companies, or to the registered office or any place of business of the company wherever it may be situated.
+
+(4) Notice under subsection (1) need not be served on any person —
+
+(a) if the Comptroller —
+
+(i) does not have any information of the person referred to in subsection (3);
+
+(ii) is of the opinion that this is likely to prevent or unduly delay the effective exchange of information under the prescribed arrangement; or
+
+(iii) is of the opinion that this is likely to prejudice any investigation into any alleged breach of any law relating to tax of the country with whose government the prescribed arrangement in question was made (whether the breach would result in the imposition of a criminal or civil penalty); or
+
+(b) on such other ground as may be prescribed under section 105H.
+
+(5) Rules made under section 105H may provide for the particulars to be given in a notice under subsection (1).
+
+### Power of Comptroller to obtain information
+
+105F\.—(1) Sections 65 to 65C shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with a request under section 105D.
+
+(2) For the purpose of subsection (1) —
+
+(a) the reference in section 65 to the purpose of obtaining full information in respect of any person’s income shall be read as a reference to the purpose referred to in subsection (1);
+
+(b) a reference in section 65B to the purposes of this Act shall be read as the purpose referred to in subsection (1); and
+
+(c) references in section 65B to proceedings for an offence under this Act, proceedings for the recovery of tax or penalty and proceedings by way of an appeal against an assessment shall be read as proceedings for an offence under the law relating to tax of the country of the competent authority making the request, proceedings for the recovery of tax or penalty under such law, and proceedings by way of an appeal against an assessment or equivalent procedure under such law, respectively.
+
+### Power of Comptroller to obtain information from other authorities
+
+105G\.—(1) For the purpose of complying with a request under section 105D, the Comptroller may request the Comptroller of Goods and Services Tax, the Comptroller of Property Tax, the Chief Assessor or the Commissioner of Stamp Duties to transmit information in his possession to the Comptroller.
+
+(2) Notwithstanding any obligation as to secrecy imposed under any written law or rule of law, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax, the Chief Assessor or the Commissioner of Stamp Duties may transmit to the Comptroller information requested by him under subsection (1).
+
+### Rules for purposes of this Part
+
+105H\. The Minister may make rules —
+
+(a) to prescribe anything which may be prescribed under this Part; and
+
+(b) for the purposes of carrying out the provisions of this Part.
+
+## PART XXB
+
+COURT ORDERS RELATING TO RESTRICTED INFORMATION
+
+[24/2009 wef 09/02/2010]
+
+### Interpretation of this Part
+
+105I\. In this Part —
+
+“authorised officer” means an officer of the Inland Revenue Authority of Singapore who is authorised by the Comptroller for the purposes of this Part;
+
+“information subject to legal privilege” means —
+
+(a) communications between a professional legal adviser and his client or any person representing his client made in connection with the giving of legal advice to the client; and
+
+(b) communications between —
+
+(i) a professional legal adviser and his client or any person representing his client; or
+
+(ii) a professional legal adviser or his client or any such representative and any other person,
+
+made in connection with, or in contemplation of, judicial proceedings and for the purposes of such proceedings,
+
+when they are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications or item held with the intention of furthering a criminal purpose.
+
+### Orders relating to certain information
+
+105J\.—(1) Where —
+
+(a) the Comptroller requires any information —
+
+(i) for the administration of this Act, other than for an investigation or a prosecution of an offence alleged or suspected to have been committed under this Act; or
+
+(ii) in order to comply with a request made under section 105D; and
+
+(b) the Comptroller is of the opinion that the information is protected from unauthorised disclosure under —
+
+(i) section 47 of the Banking Act (Cap. 19) including any regulations made under subsection (10) of that section; or
+
+(ii) section 49 of the Trust Companies Act (Cap. 336),
+
+then the Comptroller or an authorised officer may apply to the High Court for an order under subsection (2).
+
+(2) If, on such an application, the High Court is satisfied that the conditions referred to in subsection (3) are fulfilled, it may make an order that the person who appears to it to have possession or control of the information to which the application relates shall —
+
+(a) make a copy of any document containing the information and provide the copy to an authorised officer for him to take away; or
+
+(b) give an authorised officer access to the information,
+
+within 21 days from the date of the order or such other period as the Court considers appropriate.
+
+(3) The conditions referred to in subsection (2) are as follows:
+
+(a) the making of the order is justified in the circumstances of the case; and
+
+(b) it is not contrary to the public interest for a copy of the document to be produced or that access to the information be given.
+
+(4) Both or either of the following persons may, within 7 days from the date the order is served on the person against whom it is made, apply to the High Court to have the order discharged or varied:
+
+(a) the person against whom the order is made;
+
+(b) the person in relation to whom information is sought,
+
+and the Court, on hearing such an application, may discharge the order or make such variation to it as it thinks fit.
+
+(5) The person referred to in subsection (4)(b) shall be entitled to make such an application even if an order under subsection (7) has been made to the effect that an order under subsection (2) shall not be disclosed to him, if (despite the first-mentioned order) he becomes aware of the second-mentioned order.
+
+(6) Proceedings under this section other than subsection (4) may, at the discretion of the High Court, be conducted in the presence or absence of —
+
+(a) the person alleged to have possession or control of that information or against whom the order under subsection (2) is made, as the case may be; or
+
+(b) the person in relation to whom information is sought.
+
+(7) The High Court may, in any proceedings under this section, on the application of the Comptroller, make such further order as it may consider necessary to ensure the confidentiality of anything relating to any order made in those proceedings.
+
+(8) All proceedings under this section shall be heard in camera.
+
+(9) No person may inspect or take a copy of any document relating to any proceedings under this section without the leave of the High Court.
+
+(10) No information relating to any proceedings under this section may be published without the leave of the High Court; and leave shall not be given unless the Court is satisfied that the information, if published in accordance with such directions as it may give, would not reveal any matter that the Comptroller or any person referred to in subsection (6) reasonably wishes to remain confidential.
+
+(11) Rules of Court may provide for the procedure relating to —
+
+(a) any proceedings under this section; and
+
+(b) appeals from such proceedings.
+
+### Supplementary provisions regarding section 105J orders
+
+105K\.—(1) Where the High Court orders a person under section 105J(2) to give an authorised officer access to any information found on any premises, it may, on the same or a subsequent application of the Comptroller or an authorised officer, order any person who appears to him to be entitled to grant entry to the premises to allow an authorised officer to enter the premises to obtain access to the information.
+
+(2) Where any information to which an order under section 105J relates is contained in or accessible by means of any data equipment —
+
+(a) an order under section 105J(2)(a) shall have effect as an order to make a copy of a document containing the information in a form which can be taken away and which is visible and legible; and
+
+(b) an order under section 105J(2)(b) shall have effect as an order to give access to the information in a form which is visible and legible.
+
+(3) A person is not excused from producing any document or giving access to any information by an order under section 105J(2) on the ground that doing so —
+
+(a) might tend to incriminate the person or make the person liable to a penalty; or
+
+(b) would be in breach of an obligation (imposed by law or otherwise) not to disclose the information.
+
+(4) An order under section 105J(2) —
+
+(a) shall not confer any right to the production of, or of access to, information subject to legal privilege; and
+
+(b) shall have effect notwithstanding any obligations as to secrecy or other restrictions upon the disclosure of information imposed by law or otherwise.
+
+(5) An authorised officer may photograph or make copies of any thing produced or to which access is granted pursuant to an order made under section 105J(2).
+
+(6) In this section, “data equipment” means any equipment which —
+
+(a) automatically processes information;
+
+(b) automatically records or stores information;
+
+(c) can be used to cause information to be automatically recorded, stored or otherwise processed on other equipment (wherever situated); or
+
+(d) can be used to retrieve information whether the information is recorded or stored in the equipment itself or in other equipment (wherever situated).
+
+### Immunities
+
+105L\.—(1) No civil or criminal action, other than a criminal action for an offence under section 105M, shall lie against any person for —
+
+(a) making a copy of a document or giving access to any information if he had done so in good faith in compliance with an order made against him under section 105J(2); or
+
+(b) doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with an order made under section 105J(2) or (7).
+
+(2) Any person who complies with an order made under section 105J(2) or (7) shall not be treated as being in breach of any restriction upon the disclosure of information imposed by any law, contract or rules of professional conduct.
+
+### Failure to comply with section 105J orders
+
+105M\. Any person who —
+
+(a) without reasonable excuse contravenes an order under section 105J(2) or (7); or
+
+(b) in purported compliance with an order under section 105J(2), produces to an authorised officer any document which contains any information, or makes available to an authorised officer any information, known to the person to be false or misleading in a material particular without —
+
+(i) indicating to the authorised officer that the information is false or misleading and the part that is false or misleading; or
+
+(ii) providing correct information to the authorised officer if the person is in possession of, or can reasonably acquire, the correct information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
 ## PART XXI
 
 MISCELLANEOUS
@@ -14035,7 +14406,7 @@ MISCELLANEOUS
 
 (2) Parliament may, by resolution, exempt any person or class of persons from all or any of the provisions of this Act.
 
-(3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the First, Fourth, Sixth and Seventh Schedules.
+(3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the First, Fourth, Sixth, Seventh and Eighth Schedules.
 
 [24/2009 wef 09/02/2010]
 
@@ -14829,6 +15200,41 @@ Part II
 3. The Comptroller must ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
 
 [34/2005]
+
+EIGHTH SCHEDULE
+
+Section 105D(2)
+
+Information to be Included in A Request
+
+
+
+
+for Information under Part Xxa
+
+1\. The purpose of the request.
+
+2\. The identity of the competent authority.
+
+3\. The identity of the person in relation to whom the information is requested.
+
+4\. A statement of the information requested for including its nature, the relevance of the information to the purpose of the request, and the form in which the competent authority wishes to receive the information from the Comptroller.
+
+5\. The grounds for believing that the information requested for is held by the Comptroller, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax, the Chief Assessor or the Commissioner of Stamp Duties, or is in the possession or control of a person in Singapore.
+
+6\. The name and address of any person believed to have possession or control of the information requested for.
+
+7\. A statement that the request is in conformity with the law and administrative practices of the country of the competent authority, and that the competent authority is authorised to obtain the information under the laws of that country or in the normal course of administrative practice.
+
+8\. A statement that the country has pursued all means available in its own territory to obtain the information including getting the information directly from the person in relation to whom the information is requested.
+
+9\. The details of the period within which that country wishes the request to be met.
+
+10\. Any other information required to be included with the request under the prescribed arrangement.
+
+11. Any other information that may assist in giving effect to the request.
+
+[24/2009 wef 09/02/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -15939,6 +16345,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 January 2010 (Section 28(b))|
+|253.|**Act 24 of 2009—Income Tax (Amendment) (Exchange of Information) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 18/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|9 February 2010|
 ## COMPARATIVE TABLE
 
 Income Tax Act
