@@ -42,6 +42,24 @@
 
 - [15 Other offences under this Part](#Other-offences-under-this-Part)
 
+[**Part IIA FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING**](#Part-IIA)
+
+- [15A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [15B Proceeds of unlicensed moneylending](#Proceeds-of-unlicensed-moneylending)
+
+- [15C Order specifying proceeds of unlicensed moneylending](#Order-specifying-proceeds-of-unlicensed-moneylending)
+
+- [15D Orders: further provisions](#Orders:-further-provisions)
+
+- [15E Freezing proceeds of unlicensed moneylending](#Freezing-proceeds-of-unlicensed-moneylending)
+
+- [15F Exception](#Exception)
+
+- [15G Circumvention of section 15E](#Circumvention-of-section-15E)
+
+- [15H Licences](#Licences)
+
 [**Part III REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS**](#Part-III)
 
 - [16 Regulation of advertising and marketing, etc.](#Regulation-of-advertising-and-marketing-etc)
@@ -64,21 +82,33 @@
 
 - [25 Power to inspect, and require information or documents](#Power-to-inspect-and-require-information-or-documents)
 
+- [25A Power to obtain information from Comptroller of Income Tax](#Power-to-obtain-information-from-Comptroller-of-Income-Tax)
+
 - [26 General power to issue directions](#General-power-to-issue-directions)
 
 - [27 False statements or representations to induce borrowing an offence](#False-statements-or-representations-to-induce-borrowing-an-offence)
 
 - [28 Harassing borrower, besetting his residence, etc.](#Harassing-borrower-besetting-his-residence-etc)
 
+- [28A Abetment of section 28](#Abetment-of-section-28)
+
+- [28B Offences involving minors below 16](#Offences-involving-minors-below-16)
+
+- [28C Offence of providing false contact information](#Offence-of-providing-false-contact-information)
+
 - [29 Special provisions relating to non-resident principal](#Special-provisions-relating-to-non-resident-principal)
 
 - [30 Powers of police officer](#Powers-of-police-officer)
+
+- [30A Public Prosecutor’s power to order inspection of customer information](#Public-Prosecutor’s-power-to-order-inspection-of-customer-information)
 
 [**Part IV MISCELLANEOUS**](#Part-IV)
 
 - [31 Certain offences seizable and non-bailable](#Certain-offences-seizable-and-non-bailable)
 
 - [32 Jurisdiction of court](#Jurisdiction-of-court)
+
+- [32A Examination of offenders](#Examination-of-offenders)
 
 - [33 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
@@ -141,6 +171,16 @@ PRELIMINARY
 2\. In this Act, unless the context otherwise requires —
 
 “Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
+
+“bank” means —
+
+(a) a bank licensed under the Banking Act (Cap. 19); or
+
+(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186),
+
+and includes a finance company licensed under the Finance Companies Act (Cap. 108);
+
+[5/2010 wef 11/02/2010]
 
 “body corporate” includes a limited liability partnership;
 
@@ -237,6 +277,10 @@ LICENSING OF MONEYLENDERS
 (b) he is an excluded moneylender; or
 
 (c) he is an exempt moneylender.
+
+(1A) For the purposes of subsection (1), a person who wholly or partly carries on, from a place outside Singapore, the business of moneylending in Singapore shall be taken to have carried on that business in Singapore.
+
+[5/2010 wef 11/02/2010]
 
 (2) The Minister may prescribe different classes or descriptions of licences for the purposes of this Act.
 
@@ -478,15 +522,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Unlicensed moneylending
 
-14\.—(1) Any person who contravenes, or who assists in the contravention of, section 5(1) shall be guilty of an offence and shall be liable on conviction —
+14\.—(1) Subject to subsection (1A), any person who contravenes, or who assists in the contravention of, section 5(1) shall be guilty of an offence and —
 
-(a) in the case where the offender is a body corporate, to a fine of not less than $40,000 and not more than $400,000; and
+(a) in the case where the person is a body corporate, shall on conviction be punished with a fine of not less than $50,000 and not more than $500,000; or
 
 (b) in any other case —
 
-(i) to a fine of not less than $20,000 and not more than $200,000 or to imprisonment for a term not exceeding 2 years or to both; and
+(i) shall on conviction be punished with a fine of not less than $30,000 and not more than $300,000 and with imprisonment for a term not exceeding 4 years; and
 
-(ii) in the case of a second or subsequent offence, to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
+(ii) in the case of a second or subsequent offence, shall on conviction be punished with a fine of not less than $30,000 and not more than $300,000 and with imprisonment for a term not exceeding 7 years.
+
+[5/2010 wef 11/02/2010]
+
+(1A) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
+
+(a) a person who is convicted for the first time of an offence under subsection (1) shall also be liable to be punished with caning with not more than 6 strokes; or
+
+(b) a person who is convicted of a second or subsequent offence under subsection (1) shall also be liable to be punished with caning with not more than 12 strokes.
+
+[5/2010 wef 11/02/2010]
 
 (2) Where any contract for a loan has been granted by an unlicensed moneylender, or any guarantee or security has been given for such a loan —
 
@@ -501,6 +555,30 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) is not a licensee; and
 
 (c) carries on the business of moneylending in Singapore through an agent who is a licensee or an exempt moneylender.
+
+(3A) Without prejudice to the generality of subsection (1), a person assists in a contravention of subsection (1) if —
+
+(a) he collects or demands payment of a loan on behalf of a person whom he knows or has reasonable grounds to believe is carrying on a business in contravention of section 5(1);
+
+(b) he receives, possesses, conceals or disposes of any funds or other property, or engages in a banking transaction relating to any funds, on behalf of any person knowing or having reasonable grounds to believe that —
+
+(i) the person is carrying on a business in contravention of section 5(1); and
+
+(ii) either the funds are (or are intended to be) disbursed as a loan by that person, or the funds or property is repayment of a loan made by the person;
+
+(c) being the owner or person having management or control of any premises, he allows the premises to be used to carry on a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1);
+
+(d) he lends or provides funds, or lends, sells or provides any pre-paid subscriber identification module (SIM) card or other property to a person, knowing or having reasonable grounds to believe that the funds or property will be used for the carrying on of a business in contravention of section 5(1);
+
+(e) he keeps the records and accounts of a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1); or
+
+(f) he promotes or advertises a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1).
+
+[5/2010 wef 11/02/2010]
+
+(3B) In subsection (3A), “funds” and “property” have the meanings given to those words in section 15A.
+
+[5/2010 wef 11/02/2010]
 
 (4) For the purposes of subsection (1), where the bank account or automated teller machine card of any person, or a telecommunication service subscribed in the name of or purchased by any person, is proved to the satisfaction of the court to have been used to facilitate the carrying on of the business of moneylending by an unlicensed moneylender, that person shall be presumed, until the contrary is proved, to have assisted in the contravention of section 5(1).
 
@@ -525,6 +603,150 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) carries on the business of moneylending under any name other than his business name,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+## PART IIA
+
+FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
+
+[5/2010 wef 11/02/2010]
+
+### Interpretation of this Part
+
+15A\. In this Part, unless the context otherwise requires —
+
+“account” means any deposit or current account opened with a bank;
+
+“deal with” means —
+
+(a) in respect of property comprising funds —
+
+(i) use, alter, move, allow access to or transfer; or
+
+(ii) deal with in any other way that would result in any change in volume, amount, location, ownership, possession, character or destination; and
+
+(b) in respect of any other property, use to obtain funds in any way, including (but not limited to) by selling, hiring or mortgaging the property;
+
+“funds” includes cheques, bank deposits and other financial resources;
+
+“property” means property of every kind, whether tangible or intangible, movable or immovable, and whether situated within or outside Singapore, and includes funds.
+
+### Proceeds of unlicensed moneylending
+
+15B\.—(1) In this Part, property is proceeds of unlicensed moneylending if it is wholly or partly derived or realised, whether directly or indirectly, from a contravention of section 5(1).
+
+(2) Property becomes proceeds of unlicensed moneylending if —
+
+(a) it is wholly or partly derived or realised from a dealing with or disposal of proceeds of unlicensed moneylending; or
+
+(b) it is wholly or partly acquired using proceeds of unlicensed moneylending,
+
+including by virtue of a previous application of this subsection.
+
+(3) Property remains proceeds of unlicensed moneylending even if —
+
+(a) it is credited to an account; or
+
+(b) it is dealt with or disposed of.
+
+### Order specifying proceeds of unlicensed moneylending
+
+15C\.—(1) Where —
+
+(a) the Minister is satisfied that a person has been associated with activities which contravene section 5(1) and the person is detained under an order made under section 30(a) of the Criminal Law (Temporary Provisions) Act (Cap. 67) in connection with such activities; and
+
+(b) the Minister has reasonable cause to believe that any property owned or held by any person is proceeds of unlicensed moneylending by reason of the activities referred to in paragraph (a),
+
+the Minister may by order specify —
+
+(i) such property to be proceeds of unlicensed moneylending (referred to in this Part as specified property); or
+
+(ii) any account which has been credited with such property as an account with proceeds of unlicensed moneylending (referred to in this Part as specified account).
+
+(2) The Minister may vary or revoke the order at any time.
+
+(3) The Minister shall revoke the order if the person referred to in subsection (1)(a) is no longer detained and is not subject to the supervision of the police under an order made under section 32 of the Criminal Law (Temporary Provisions) Act.
+
+### Orders: further provisions
+
+15D\.—(1) Where the Minister makes an order under section 15C, he shall —
+
+(a) either publish the order in theGazetteor serve a copy of the order on certain persons only; and
+
+(b) if he varies or revokes the order, take steps to publish the variation or revocation in theGazetteor bring the variation or revocation to the attention of the persons served with a copy of the order, as the case may be.
+
+(2) Where the Minister serves a copy of the order on certain persons under subsection (1), only those persons are subject to the prohibition in section 15E(1).
+
+(3) The High Court may, on the application of a person affected by the order, set aside the order in whole or in part.
+
+(4) An application under subsection (3) shall be made within 30 days from the date of publication or service of the order, as the case may be.
+
+(5) The order may be set aside in whole or in part by the High Court if, and only if, the applicant proves to the satisfaction of the Court that any specified property is not, or any specified account has not been credited with, proceeds of unlicensed moneylending.
+
+(6) The correctness, validity or legality of the order made under section 30 or 32 (as the case may be) of the Criminal Law (Temporary Provisions) Act (Cap. 67), or of any ground upon which such order is made, shall not be raised as an issue or called into question in the course of an application under subsection (3) or during any proceedings relating to such application.
+
+(7) A person who makes an application under subsection (3) shall serve a copy of the application on the Attorney-General not later than 7 days before the date fixed for the hearing of the application.
+
+(8) Rules of Court may provide for the manner in which proceedings relating to an application under subsection (3) may be commenced or carried on.
+
+### Freezing proceeds of unlicensed moneylending
+
+15E\.—(1) A person shall not deal with any specified property, or any funds in any specified account, unless he does so under the authority of a licence granted under section 15H.
+
+(2) A person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case where the person is a body corporate, to a fine not exceeding $200,000; or
+
+(b) in any other case, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(3) This section is subject to section 15D(2).
+
+### Exception
+
+15F\.—(1) A person is not guilty of an offence under section 15E if he credits a specified account with interest or other earnings due on the account.
+
+(2) For the avoidance of doubt, section 15E applies to any funds credited to the specified account in accordance with subsection (1).
+
+### Circumvention of section 15E
+
+15G\. Where a person —
+
+(a) enters into; or
+
+(b) knowingly does any act in furtherance of,
+
+any arrangement which facilitates, or is likely to facilitate, whether by means of any concealment or disguise or otherwise, the dealing with property in contravention of section 15E(1), he shall be guilty of an offence and shall be liable on conviction —
+
+(i) in the case where the person is a body corporate, to a fine not exceeding $300,000; or
+
+(ii) in any other case, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+### Licences
+
+15H\.—(1) The Minister may grant a licence to exempt any act from the prohibition in section 15E.
+
+(2) A licence may be —
+
+(a) general or granted to a category of persons or to a particular person;
+
+(b) subject to conditions; and
+
+(c) of indefinite duration or subject to an expiry date.
+
+(3) The Minister may vary or revoke a licence at any time.
+
+(4) Where the Minister grants, varies or revokes a licence, he shall —
+
+(a) in the case of a licence granted to a particular person, give written notice of the grant of the licence, or the variation or revocation thereof to that person; and
+
+(b) in the case of a general licence or a licence granted to a category of persons, take such steps as the Minister considers appropriate to publicise the grant of the licence, or the variation or revocation thereof.
+
+(5) Any person who does any act under the authority of a licence but fails to comply with any condition attaching to that licence shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case where the person is a body corporate, to a fine not exceeding $80,000; or
+
+(b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(6) The Minister may delegate any power or duty under this section to the Commissioner of Police, except the power of delegation conferred by this subsection.
 
 ## PART III
 
@@ -778,6 +1000,20 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+### Power to obtain information from Comptroller of Income Tax
+
+25A\.—(1) In the course of any investigation or proceedings into or relating to an offence by any person under section 14 or 28, whenever committed, or a conspiracy to commit, or an attempt to commit, or an abetment of any such offence, the Public Prosecutor may, notwithstanding anything in any other written law to the contrary, by written notice require the Comptroller —
+
+(a) to furnish, as specified in the notice, all information available to the Comptroller relating to the affairs of that person or of the spouse, son or daughter of that person; and
+
+(b) to produce or furnish, as specified in the notice, any document or a certified copy of any document relating to that person, spouse, son or daughter which is in the possession or under the control of the Comptroller.
+
+(2) The Comptroller to whom a notice is sent by the Public Prosecutor under subsection (1) shall, notwithstanding the provisions of any written law or any oath of secrecy to the contrary, be legally bound to comply with the terms of that notice within such time as may be specified therein.
+
+(3) In this section, “Comptroller” means the Comptroller of Income Tax, or any Deputy Comptroller or Assistant Comptroller of Income Tax appointed under section 3(1) of the Income Tax Act (Cap. 134).
+
+[5/2010 wef 11/02/2010]
+
 ### General power to issue directions
 
 26\.—(1) The Registrar may issue directions, either of a general or specific nature, to any licensee or exempt moneylender for or in respect of every purpose which the Registrar considers necessary for carrying out the provisions of this Act.
@@ -812,39 +1048,63 @@ fraudulently induces or attempts to induce any person to borrow money or to agre
 
 (b) commits any act likely to cause alarm or annoyance to his borrower or surety, any member of the family of the borrower or surety, or any other person,
 
-in connection with the loan to the borrower, whether or not the unlicensed moneylender does the act personally or by any person acting on his behalf, the unlicensed moneylender shall be guilty of an offence and shall be liable on conviction —
+in connection with the loan to the borrower, whether or not the unlicensed moneylender does the act personally or by any person acting on his behalf, the unlicensed moneylender shall be guilty of an offence and —
 
-(i) in the case where the offender is a body corporate, to a fine of not less than $8,000 and not more than $80,000; and
+(i) in the case where the unlicensed moneylender is a body corporate, shall be liable on conviction to a fine of not less than $10,000 and not more than $100,000; or
 
 (ii) in any other case —
 
-(A) to a fine of not less than $4,000 and not more than $40,000 or to imprisonment for a term not exceeding 3 years or to both; and
+(A) shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine of not less than $5,000 and not more than $50,000; and
 
-(B) in the case of a second or subsequent offence, to a fine of not less than $4,000 and not more than $40,000 and shall also be punished with imprisonment for a term not exceeding 6 years.
+(B) in the case of a second or subsequent offence, shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 9 years and shall also be liable to a fine of not less than $6,000 and not more than $60,000.
+
+[5/2010 wef 11/02/2010]
 
 (2) Subject to subsection (3), any person who, acting on behalf of an unlicensed moneylender, commits or attempts to commit any of the acts specified in subsection (1) shall be guilty of an offence and —
 
-(a) in the case of a first offence, shall be liable on conviction to a fine of not less than $4,000 and not more than $40,000 or to imprisonment for a term not exceeding 3 years or to both; and
+(a) shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine of not less than $5,000 and not more than $50,000; and
 
-(b) in the case of a second or subsequent offence, shall be liable on conviction to a fine of not less than $4,000 and not more than $40,000 and shall also be punished with imprisonment for a term not exceeding 6 years.
+(b) in the case of a second or subsequent offence, shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 9 years and shall also be liable to a fine of not less than $6,000 and not more than $60,000.
+
+[5/2010 wef 11/02/2010]
 
 (3) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
 
-(a) a person who is convicted for the first time of an offence under subsection (1) or (2) shall also be liable to be punished with caning —
+(a) except as provided in paragraph (b), a person who is convicted for the first time of an offence under subsection (1) or (2) shall also be liable to be punished with caning with not more than 6 strokes;
 
-(i) with not more than 4 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, damage was caused to any property;
+(b) a person who is convicted for the first time of an offence under subsection (1) or (2) shall also be punished with caning —
 
-(ii) with not more than 6 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person; and
+(i) with not less than 3 and not more than 6 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, damage was caused to any property;
 
-(iii) with not more than 9 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person and damage was caused to any property; and
+(ii) with not less than 5 and not more than 8 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person; and
 
-(b) a person who is convicted of a second or subsequent offence under subsection (1) or (2) shall also be punished with caning —
+(iii) with not less than 6 and not more than 12 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person and damage was caused to any property;
 
-(i) with not more than 6 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, damage was caused to any property;
+(c) except as provided in paragraph (d), a person who is convicted of a second or subsequent offence under subsection (1) or (2) shall also be liable to be punished with caning with not more than 12 strokes; or
 
-(ii) with not less than 3 and not more than 12 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person; and
+(d) a person who is convicted of a second or subsequent offence under subsection (1) or (2) shall also be punished with caning —
 
-(iii) with not less than 4 and not more than 18 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person and damage was caused to any property.
+(i) with not less than 5 and not more than 10 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, damage was caused to any property;
+
+(ii) with not less than 6 and not more than 12 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person; and
+
+(iii) with not less than 9 and not more than 18 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person and damage was caused to any property.
+
+[5/2010 wef 11/02/2010]
+
+(3A) For the purposes of paragraph (a) of subsection (1), a person who —
+
+(a) uses any threatening, abusive or insulting words in any telephone call made by him; or
+
+(b) by any means sends any thing which contains any threatening, abusive or insulting words, writing, sign or visible representation,
+
+whether from a place in Singapore or outside Singapore, to any person or place in Singapore shall be taken to have committed an act referred to in that paragraph.
+
+[5/2010 wef 11/02/2010]
+
+(3B) For the purposes of paragraph (b) of subsection (1), a person who makes any telephone call, or by any means sends any article, message, word, sign, image or representation, whether from a place in Singapore or outside Singapore, to any person or place in Singapore, which is likely to cause alarm or annoyance to a person referred to in that paragraph, shall be taken to have committed an act referred to in that paragraph.
+
+[5/2010 wef 11/02/2010]
 
 (4) For the purposes of subsection (2), any person who does any of the acts specified in subsection (1) in connection with a demand for the repayment of a loan to an unlicensed moneylender shall be presumed, until the contrary is proved, to act on behalf of such unlicensed moneylender.
 
@@ -859,6 +1119,62 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 (d) destroying or damaging the property through the use of fire or any other substance;
 
 (e) doing any other act of mischief which causes a change in any property or which diminishes its value or utility.
+
+### Abetment of section 28
+
+28A\.—(1) For the purposes of Chapter V of the Penal Code (Cap. 224), a person shall be taken to have abetted the commission of an offence under section 28 if —
+
+(a) he gives instruction to another person to carry out any act specified in section 28(1) in connection with a demand for the repayment of a loan to an unlicensed moneylender;
+
+(b) he provides or arranges transport for another person for the purpose of carrying out any such act knowing or having reasonable cause to believe that the act is in connection with such a demand;
+
+(c) he acts as or arranges a lookout for a person carrying out any such act knowing or having reasonable cause to believe that the act is in connection with such a demand; or
+
+(d) he provides or arranges transport to a person for the purpose of his acting as a lookout for a person carrying out any such act, and he knows and has reasonable cause to believe that the act is in connection with such a demand.
+
+(2) For the purposes of Chapter V of the Penal Code, where —
+
+(a) a person gives instruction to another person to carry out any act specified in section 28(1) in connection with a demand for the repayment of a loan to an unlicensed moneylender; and
+
+(b) a person, knowing or having reasonable cause to believe that the act is in connection with a demand, verifies that the act has been carried out in accordance with such instruction,
+
+the person referred to in paragraph (b) shall be taken to have abetted the commission of an offence under section 28(1) or an offence under subsection (1)(a) (as the case may be) by the person giving the instruction.
+
+(3) For the avoidance of doubt, this section is without prejudice to the generality of the term “abetment” under the Penal Code.
+
+[5/2010 wef 11/02/2010]
+
+### Offences involving minors below 16
+
+28B\.—(1) Subject to subsection (2), any person of or above the age of 21 years who causes or procures any person below the age of 16 years to commit an offence under section 14 or 28 shall be guilty of an offence and —
+
+(a) if the offence under section 14 is thereby committed, shall on conviction be punished with imprisonment for a term not exceeding 7 years and shall also be liable to a fine of not less than $30,000 and not more than $300,000;
+
+(b) if the offence under section 28 is thereby committed, shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 9 years and shall also be liable to a fine of not less than $6,000 and not more than $60,000; or
+
+(c) in any other case, shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
+
+(a) a person who is convicted of an offence under subsection (1) for causing or procuring any person below the age of 16 years to commit an offence under section 14 shall, if the offence under section 14 is thereby committed, also be liable to be punished with caning with not more than 12 strokes; and
+
+(b) a person who is convicted of an offence under subsection (1) for causing or procuring any person below the age of 16 years to commit an offence under section 28 shall, if the offence under section 28 is thereby committed, also be liable to be punished with caning with not more than 12 strokes.
+
+[5/2010 wef 11/02/2010]
+
+### Offence of providing false contact information
+
+28C\.—(1) A person shall be guilty of an offence if —
+
+(a) in connection with a loan by an unlicensed moneylender to him or any other person, he gives any contact information which he knows or believes to be false to the unlicensed moneylender or a person acting on the moneylender’s behalf, having reasonable cause to believe that the moneylender or a person acting on his behalf will use the information for the purpose of committing an offence under section 28(1) or (2) against any other person; and
+
+(b) the unlicensed moneylender or a person acting on his behalf uses the contact information for the purpose of committing an offence under section 28(1) or (2) against any other person.
+
+(2) Any person who is guilty of an offence under subsection (1) shall be liable on conviction to imprisonment for a term not exceeding 12 months.
+
+(3) In subsection (1), “contact information” means a residential address, business address, telephone number, facsimile number or any other information given to enable an unlicensed moneylender to contact a borrower.
+
+[5/2010 wef 11/02/2010]
 
 ### Special provisions relating to non-resident principal
 
@@ -876,6 +1192,18 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 
 30\. Any police officer not below the rank of sergeant who is authorised in writing by the Registrar, or by a police officer not below the rank of Assistant Superintendent of Police, may at all times enter the premises of any licensee, or any person who is suspected of carrying on the business of moneylending, to inspect or seize any book, record or other document relating to any moneylending transaction without a warrant being issued by a Magistrate for that purpose.
 
+### Public Prosecutor’s power to order inspection of customer information
+
+30A\.—(1) The Public Prosecutor may, if he considers that any evidence of the commission of an offence under section 14 or 28, whenever committed, or a conspiracy to commit, an attempt to commit, or an abetment of such an offence, by a person is likely to be found in any document containing customer information relating to that person, to the spouse, son or daughter of that person, or to a person reasonably believed by the Public Prosecutor to be a trustee or agent for that person, by order authorise any police officer of or above the rank of assistant superintendent so named to inspect any document of a bank specified in the order.
+
+(2) The police officer so authorised may, at all reasonable times, enter the bank specified in the order and inspect the documents kept therein and may take copies of any relevant entry in any such document.
+
+(3) The Public Prosecutor may delegate his power under this section to a Deputy Public Prosecutor or the Commissioner of Police, except the power of delegation conferred by this subsection.
+
+(4) In this section, “customer information” has the meaning given to that expression in section 40A of the Banking Act (Cap. 19).
+
+[5/2010 wef 11/02/2010]
+
 ## PART IV
 
 MISCELLANEOUS
@@ -887,6 +1215,24 @@ MISCELLANEOUS
 ### Jurisdiction of court
 
 32\. Notwithstanding any provision to the contrary in the Criminal Procedure Code, a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code, a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[5/2010 wef 11/02/2010]
+
+(2) Where any act constituting an offence, or part of an offence, under section 14 or 28 is committed outside Singapore by a person, he may be dealt with in respect of that offence as if the act had been committed within Singapore.
+
+[5/2010 wef 11/02/2010]
+
+### Examination of offenders
+
+32A\.—(1) Whenever 2 or more persons are charged with an offence under section 14 or 28, whenever committed, or with a conspiracy to commit, or an attempt to commit, or an abetment of such an offence, the court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
+
+(2) Any such person who refuses to be sworn or to answer any lawful question shall be dealt with in the same manner as witnesses so refusing may by law be dealt with by a Magistrate’s Court or District Court, as the case may be.
+
+(3) Every person so required to give evidence, who in the opinion of the court makes true and full discovery of all things as to which he is lawfully examined, shall be entitled to receive a certificate of indemnity under the hand of the Magistrate or District Judge, as the case may be, stating that he has made a true and full discovery of all things as to which he was examined, and that certificate shall be a bar to all legal proceedings against him in respect of all those things.
+
+[5/2010 wef 11/02/2010]
 
 ### Offences by bodies corporate, etc.
 
