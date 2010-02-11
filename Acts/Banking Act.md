@@ -530,8 +530,6 @@ where such deposit is to be made with any person (not being a person specified i
 
 (b) any co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62);
 
-[23/2008 wef 20/10/2008]
-
 (c) any finance company licensed under the Finance Companies Act (Cap. 108);
 
 (d) any merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
@@ -4462,6 +4460,8 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 76\. Nothing in this Act shall be construed so as to prevent any of the following persons from carrying on any activity or business (other than an activity or a business referred to in Part VIII) for which he is registered or licensed under the following respective Act corresponding to that person:
 
+(a) [Deleted by Act 23/2008 wef 20/10/2008]
+
 (b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222); or
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108).
@@ -4978,7 +4978,7 @@ In this Schedule, unless the context otherwise requires —
 
 “public officer” includes any officer of a statutory board;
 
-“specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151) and the Prevention of Corruption Act (Cap. 241);
+“specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151), the Moneylenders Act 2008 (Act 31 of 2008) and the Prevention of Corruption Act (Cap. 241);
 
 [5/2010 wef 11/02/2010]
 
@@ -5266,6 +5266,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 19/2008 published on 17 October 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|20 October 2008|
+|29.|**Act 5 of 2010—Moneylenders (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 2009|
+|||(Bill No. 23/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|11 February 2010|
 ## COMPARATIVE TABLE
 
 Banking Act
