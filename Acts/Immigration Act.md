@@ -158,6 +158,8 @@
 
 - [51 Power of search and arrest](#Power-of-search-and-arrest)
 
+- [51A Provision of information by Housing and Development Board](#Provision-of-information-by-Housing-and-Development-Board)
+
 - [52 Person registered under Enlistment Act](#Person-registered-under-Enlistment-Act)
 
 - [53 Registration of particulars for purposes of identification](#Registration-of-particulars-for-purposes-of-identification)
@@ -1574,6 +1576,36 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 [15/2010 wef 02/01/2011]
 
+### Provision of information by Housing and Development Board
+
+51A\.—(1) Any immigration officer duly authorised by the Controller may, if the immigration officer considers it necessary for administering or enforcing any requirement under this Act or the regulations relating to the reporting of the place of residence of any person or any change thereof, by written notice require the Board to disclose any secret or confidential document or information which is in the possession or control of the Board.
+
+(2) The Board shall disclose the document or information required by an immigration officer under subsection (1) notwithstanding any obligation as to secrecy or confidentiality imposed by any law.
+
+(3) Any immigration officer to whom any document or information has been disclosed under subsection (2) shall not disclose that document or information to any other person except —
+
+(a) to another law enforcement officer for the performance of his official duties in administering or facilitating the administration of any written law, provided the Board consents to such disclosure; or
+
+(b) for the purpose of criminal proceedings.
+
+(4) Any immigration officer who contravenes subsection (3), or any law enforcement officer who discloses any document or information obtained under that subsection to any other person other than for the purpose specified in paragraph (a) or (b) of that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) In this section, unless the context otherwise requires —
+
+“Board” means the Housing and Development Board established under section 3 of the Housing and Development Act (Cap. 129);
+
+“disclose”, in relation to any document or information, includes allowing access to such document or information;
+
+“law enforcement officer” means —
+
+(a) any police officer;
+
+(b) any immigration officer; or
+
+(c) any registration officer within the meaning of the National Registration Act (Cap. 201).
+
+[5/2010 wef 11/02/2010]
+
 ### Person registered under Enlistment Act
 
 52\.—(1) An immigration officer may prevent any person from leaving Singapore and require him to surrender his passport to him if he has reason to believe that that person is a person subject to the Enlistment Act (Cap. 93) who has been registered under section 3 of that Act or is deemed to be registered or is liable to be registered under that Act and is attempting to leave Singapore without an exit permit issued by the proper authority.
@@ -2091,3 +2123,9 @@ This Legislative History is provided for the convenience of users of the Immigra
 ||Date of commencement|1 December 2007|
 |27.|**2008 Revised Edition—Immigration Act**|
 ||Date of operation|1 January 2008|
+|28.|**Act 5 of 2010—Moneylenders (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 2009|
+|||(Bill No. 23/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|11 February 2010|
