@@ -1588,9 +1588,13 @@ Offences included with effect from 1st February 2008
 
 (z) section 377B(4) (Causing another person to sexually penetrate a living animal or be sexually penetrated by a living animal)
 
-(8) is convicted of an offence under section 224 of the Penal Code (Cap. 224) for escaping or attempting to escape from any custody in which he is lawfully detained for an offence of which he has been charged or convicted.
+(8) is convicted of an offence under section 224 of the Penal Code (Cap. 224) for escaping or attempting to escape from any custody in which he is lawfully detained for an offence of which he has been charged or convicted; or
 
 [S 34/2008 wef 01/02/2008]
+
+(9) is convicted of an offence under section 14, 28 or 28B of the Moneylenders Act 2008 (Act 31 of 2008).
+
+[S 74/2010 wef 11/02/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -1720,6 +1724,8 @@ This Legislative History is provided for the convenience of users of the Prisons
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|25.|**G. N. No. S 74/2010—Prisons Act (Amendment of Schedule) Order 2010**|
+||Date of commencement|11 February 2010|
 ## COMPARATIVE TABLE
 
 Prisons Act
