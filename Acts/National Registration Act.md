@@ -34,6 +34,8 @@
 
 - [13 Offences and penalties](#Offences-and-penalties)
 
+- [13A Provision of information by Housing and Development Board](#Provision-of-information-by-Housing-and-Development-Board)
+
 - [14 Registration of persons arrested or convicted](#Registration-of-persons-arrested-or-convicted)
 
 - [15 Attempt to commit offences and assisting offenders](#Attempt-to-commit-offences-and-assisting-offenders)
@@ -84,6 +86,8 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 3\.—(1) The Minister may appoint a Commissioner of National Registration, a Deputy Commissioner of National Registration and such number of Assistant Commissioners of National Registration as the Minister may consider necessary or expedient for the purposes of this Act.
 
+[20/90]
+
 (1A) The Commissioner may appoint such number of registration officers as he may think fit for the purposes of this Act.
 
 (1B) The Deputy Commissioner of National Registration and the Assistant Commissioners of National Registration shall have and may exercise all the powers conferred on the Commissioner under this Act, subject to such limitations as the Commissioner may think fit to impose.
@@ -94,17 +98,15 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 (3) The Deputy Commissioner of National Registration, the Assistant Commissioners of National Registration and all registration officers shall be under the direction and control of the Commissioner.
 
-[20/90]
-
 ### Establishment of register
 
 4\.—(1) The Commissioner shall cause to be kept and maintained a register of all persons in Singapore who are required to be registered under the provisions of this Act.
 
+[20/90]
+
 (2) The register shall be in such form and shall contain such particulars as the Commissioner thinks fit.
 
 (3) A copy of or extract from any document, including a copy produced by way of microfilm or computer print-out, filed or lodged at the office of the Commissioner, certified to be a true copy or an extract under the hand and seal of the Commissioner shall in any proceedings be admissible in evidence as of equal validity with the original document.
-
-[20/90]
 
 ### Registration
 
@@ -114,9 +116,9 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 6\.—(1) Every person who, on 3rd June 1990, is in possession of a valid identity card issued under this Act shall re-register under this Act within such period as the Minister may, by notification in theGazette, specify.
 
-(2) All identity cards issued under this Act before such date shall cease to be valid on the expiration of the period within which persons in possession of such identity cards are required to be re-registered under subsection (1).
-
 [20/90]
+
+(2) All identity cards issued under this Act before such date shall cease to be valid on the expiration of the period within which persons in possession of such identity cards are required to be re-registered under subsection (1).
 
 (3) Nothing in this section shall prevent the re-registration of a person who fails to re-register within the period specified in subsection (1).
 
@@ -131,8 +133,6 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 ### Change of residence
 
 8\.—(1) Any person registered under the provisions of this Act who changes his place of residence shall, within 28 days thereof, report the change to a registration officer.
-
-[19/2001 wef 15/05/2001]
 
 [20/90]
 
@@ -156,19 +156,15 @@ An Act for the registration of persons in Singapore, for the issue of identity c
 
 (a) any person is required by any written law to inform any Government department, statutory authority or public officer of any change of his place of residence; and
 
-(b) it is provided by such written law that that person shall be deemed to have complied with the requirement thereunder to inform the Government department, statutory authority or public officer of any change of his place of residence if he makes a report of the change under section 8(1),
+(b) it is provided by such written law that that person shall be deemed to have complied with the requirement thereunder to inform the Government department, statutory authority or public officer of any change of his place of residence if he makes a report of the change under section 8,
 
 the Commissioner shall, upon that person making a report of a change of his place of residence under section 8, transmit to the Government department, statutory authority or public officer information of the change of that person’s place of residence as reported by him.
-
-[28/94 wef 01/03/1995]
 
 (2) Where the Commissioner has transmitted information of a change of a person’s place of residence to any Government department, statutory authority or public officer under subsection (1) —
 
 (a) neither the Government nor any registration officer nor any authorised person involved in the transmission of the information shall be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused if such error or omission was made in good faith and in the ordinary course of the discharge of the duties of such registration officer or authorised person; and
 
 (b) the Government department, statutory authority or public officer to which or to whom the information has been transmitted shall not be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused by any registration officer or authorised person involved in the transmission of the information.
-
-[28/94 wef 01/03/1995]
 
 (3) For the purpose of this section, “public officer” shall include the holder of any statutory office.
 
@@ -192,9 +188,9 @@ the Commissioner shall, upon that person making a report of a change of his plac
 
 the Minister may by order require the Commissioner to cancel the registration of that person.
 
-(2) Any person whose registration is cancelled under this section shall forthwith surrender his identity card to the Commissioner.
-
 [20/90]
+
+(2) Any person whose registration is cancelled under this section shall forthwith surrender his identity card to the Commissioner.
 
 ### Onus of proof of contents of written applications and of identity cards, etc.
 
@@ -224,7 +220,7 @@ shall not necessarily be sufficient evidence for the purposes of subsection (1).
 
 (a) is required to register under this Act, or being registered under this Act, is required to re-register under this Act fails to register or re-register within the prescribed time or period;
 
-(b) fails to report his change of residence as required under section 8(1);
+(b) fails to report his change of residence as required under section 8;
 
 (ba) informs a registration officer of an address as a contact address that is false or is not an address described in section 8(2)(a) or (b);
 
@@ -241,6 +237,8 @@ shall not necessarily be sufficient evidence for the purposes of subsection (1).
 (g) defaces, mutilates or destroys an identity card,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[20/90]
 
 (2) Any person who —
 
@@ -260,13 +258,41 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) Any person who aids or abets in the commission of any offence under this Act shall be guilty of an offence.
 
-(5) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code (Cap. 68).
+(5) Every offence under this Act shall be deemed to be a seizable offence for the purposes of the Criminal Procedure Code [Cap. 68].
 
-[20/90]
+### Provision of information by Housing and Development Board
+
+13A\.—(1) Any registration officer duly authorised by the Commissioner may, if the registration officer considers it necessary for administering or enforcing any requirement under this Act or any regulations made thereunder relating to the registration or re-registration of any person or to the reporting of any change of residence, by written notice require the Board to disclose any secret or confidential document or information which is in the possession or control of the Board.
+
+(2) The Board shall disclose the document or information required by a registration officer under subsection (1) notwithstanding any obligation as to secrecy or confidentiality imposed by any law.
+
+(3) Any registration officer to whom any document or information has been disclosed under subsection (2) shall not disclose that document or information to any other person except —
+
+(a) to another law enforcement officer for the performance of his official duties in administering or facilitating the administration of any written law, provided the Board consents to such disclosure; or
+
+(b) for the purpose of criminal proceedings.
+
+(4) Any registration officer who contravenes subsection (3), or any law enforcement officer who discloses any document or information obtained under that subsection to any other person other than for the purpose specified in paragraph (a) or (b) of that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) In this section, unless the context otherwise requires —
+
+“Board” means the Housing and Development Board established under section 3 of the Housing and Development Act (Cap. 129);
+
+“disclose”, in relation to any document or information, includes allowing access to such document or information;
+
+“law enforcement officer” means —
+
+(a) any police officer;
+
+(b) any immigration officer within the meaning of the Immigration Act (Cap. 133); or
+
+(c) any registration officer.
+
+[5/2010 wef 11/02/2010]
 
 ### Registration of persons arrested or convicted
 
-14\.—(1) The provisions of the Registration of Criminals Act (Cap. 268) relating to the taking of finger print impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons arrested for any crime within the meaning of that Act.
+14\.—(1) The provisions of the Registration of Criminals Act [Cap. 268] relating to the taking of finger print impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons arrested for any crime within the meaning of that Act.
 
 (2) The Registration of Criminals Act shall apply to persons convicted of an offence under this Act as if the offence were a crime included in the First Schedule to that Act.
 
@@ -292,6 +318,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 that person may be arrested without warrant by the registration officer or police officer.
 
+[20/90]
+
 (2) Any police officer may without warrant and with or without assistance —
 
 (a) enter and search any premises;
@@ -301,8 +329,6 @@ that person may be arrested without warrant by the registration officer or polic
 if he suspects that any evidence of the commission of an offence under this Act or any regulations made thereunder is likely to be found on the premises or individual or in the vessel, vehicle or train and may seize any evidence so found.
 
 (3) No woman shall be searched under this section except by a woman.
-
-[20/90]
 
 ### Report of certain persons admissible as evidence
 
@@ -378,7 +404,7 @@ National Registration Act
 
 (CHAPTER 201)
 
-This Legislative History is provided for the convenience of users of the National Registration Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the National Registration Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -414,3 +440,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 20/2001 published on 17 March 2001)|
 ||Date of Second and Third Readings|20 April 2001|
 ||Date of commencement|15 May 2001|
+|9.|**Act 5 of 2010—Moneylenders (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 2009|
+|||(Bill No. 23/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|11 February 2010|
