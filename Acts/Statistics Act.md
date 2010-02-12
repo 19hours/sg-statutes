@@ -16,7 +16,7 @@
 
 - [5 Power of Chief Statistician and director of research and statistics unit to issue requisition for information](#Power-of-Chief-Statistician-and-director-of-research-and-statistics-unit-to-issue-requisition-for-information)
 
-- [6 Power to request information from research and statistics units and other competent authorities](#Power-to-request-information-from-research-and-statistics-units-and-other-competent-authorities)
+- [6 Power to request information from research and statistics units and other public agencies](#Power-to-request-information-from-research-and-statistics-units-and-other-public-agencies)
 
 - [7 Disclosure of information](#Disclosure-of-information)
 
@@ -28,15 +28,15 @@
 
 - [11 Service of requisition](#Service-of-requisition)
 
-- [12 Rules and orders](#Rules-and-orders)
+- [12 Rules](#Rules)
 
 - [13 Amendment of Schedules](#Amendment-of-Schedules)
 
-[**FIRST SCHEDULE Subject-matters**](#FIRST-SCHEDULE-Subject-matters)
+[**FIRST SCHEDULE Subject Matters**](#FIRST-SCHEDULE-Subject-Matters)
 
 [**SECOND SCHEDULE Research and Statistics Units**](#SECOND-SCHEDULE-Research-and-Statistics-Units)
 
-[**THIRD SCHEDULE Competent Authorities**](#THIRD-SCHEDULE-Competent-Authorities)
+[**THIRD SCHEDULE Specified Class**](#THIRD-SCHEDULE-Specified-Class)
 
 [**Legislative History**](#Legislative-History)
 
@@ -64,15 +64,25 @@ An Act relating to statistics.
 
 2\. In this Act, unless the context otherwise requires —
 
-“competent authority” means any public officer, or any statutory body established by or under any written law or any officer thereof, being under any obligation imposed by any written law to observe secrecy in respect of any particulars or information obtained by the public officer or the statutory body or officer thereof in the administration of that written law;
+“anonymised microdata” means particulars or information pertaining to any person which is in a form that conceals or protects the identity of that person, whether by presenting such particulars or information in statistical form or otherwise, such that the identity of that person cannot be readily discovered or ascertained from the particulars or information;
 
-“requisition” means a requisition issued under section 5.
+“public agency” means a public officer, an Organ of State or a ministry or department of the Government, or a public authority established by or under any written law for a public purpose or a member, an officer or an employee thereof;
+
+“requisition” means a requisition issued under section 5;
+
+“research and statistics unit” means a research and statistics unit specified in the Second Schedule;
+
+“statistical purposes” means the compilation of statistics or the preparation of anonymised microdata relating to any subject matter listed in the First Schedule.
+
+[3/2010 wef 12/02/2010 wef 12/02/2010]
 
 [19/86; 9/90]
 
 ### Statistics Department and research and statistics units
 
-3\.—(1) This Act shall apply to the Department of Statistics and such other research and statistics units as the Minister may, by notification in theGazette, specify for the purpose of the collection, preparation and publication of statistics relating to any of the subjects specified in the First Schedule.
+3\.—(1) The Department of Statistics and all research and statistics units may, in accordance with the provisions of this Act, collect and process data for statistical purposes.
+
+[3/2010 wef 12/02/2010 wef 12/02/2010]
 
 (2) The Department of Statistics shall be under the control and management of a Chief Statistician and such other officers as the Minister may appoint.
 
@@ -80,23 +90,30 @@ An Act relating to statistics.
 
 ### National statistical co-ordinator
 
-4\.—(1) The Chief Statistician shall be the national statistical co-ordinator whose duties shall be —
+4\.—(1) The Chief Statistician shall be the national statistical
+co-ordinator whose duties shall be —
 
-(a) to co-ordinate statistical activities in Government departments, Ministries, research and statistics units and statutory bodies;
+(a) to co-ordinate statistical activities in public agencies, including the allocation of the subject matters in respect of which research and statistics units may exercise their powers under section 5;
 
-(b) to advise Government departments, Ministries, research and statistics units and statutory bodies in the gathering, compiling, analysis and utilisation of statistics;
+(b) to advise public agencies in the gathering, compiling, analysis and utilisation of statistics;
 
 (c) to develop national statistical standards and standardise definitions, classifications, terms, procedures and concepts for use in statistical activities; and
 
-(d) to promote the observance of approved national statistical standards by Government departments, Ministries, research and statistics units and statutory bodies.
+(d) to promote the observance of approved national statistical standards by public agencies.
+
+[3/2010 wef 12/02/2010]
 
 [9/90]
 
-(2) All research and statistics units specified in the Second Schedule shall comply with the recommendations of the Chief Statistician on any matter specified in subsection (1)(c) and (d).
+(2) All research and statistics units shall comply with the recommendations of the Chief Statistician on any matter specified in subsection (1)(c) and (d).
+
+[3/2010 wef 12/02/2010]
 
 [9/90]
 
-(3) If a research and statistics unit specified in the Second Schedule refuses to accept a recommendation of the Chief Statistician, the director of the research and statistics unit shall notify the Chief Statistician in writing of such refusal and the reasons therefor.
+(3) If a research and statistics unit refuses to accept a recommendation of the Chief Statistician, the director of the research and statistics unit shall notify the Chief Statistician in writing of such refusal and the reasons therefor.
+
+[3/2010 wef 12/02/2010]
 
 [9/90]
 
@@ -110,17 +127,19 @@ An Act relating to statistics.
 
 ### Power of Chief Statistician and director of research and statistics unit to issue requisition for information
 
-5\.—(1) For the purpose of obtaining statistical information, it shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person to furnish particulars and supply information to him relating to any matter to which this Act applies, and every such person is bound to furnish particulars and supply information to the best of his knowledge and belief.
+5\.—(1) It shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person or the occupier of any premises to furnish particulars and supply information to him, for the purpose of obtaining data for statistical purposes, and every such person or occupier is bound to furnish the particulars and supply the information to the best of his knowledge and belief.
 
-[9/90]
+[3/2010 wef 12/02/2010 wef 12/02/2010]
 
 (2) A requisition shall —
 
 (a) be in writing;
 
-(b) be served upon the person to whom it is addressed in the manner specified in section 11; and
+(b) be served upon the person to whom it is addressed or the occupier of any premises, as the case may be, in the manner specified in section 11; and
 
 (c) specify the particulars of information required.
+
+[3/2010 wef 12/02/2010]
 
 (3) A requisition may —
 
@@ -132,27 +151,39 @@ An Act relating to statistics.
 
 (4) No person is bound to furnish any particulars or information other than those which are accessible to him or derived by him from any business, occupation or work in the conduct or supervision of which he is engaged.
 
-### Power to request information from research and statistics units and other competent authorities
+### Power to request information from research and statistics units and other public agencies
 
-6\.—(1) For the purpose of obtaining statistical information relating to any matter to which this Act applies, the Chief Statistician may in writing direct —
+6\.—(1) For the purpose of obtaining data for statistical purposes, the Chief Statistician may in writing direct —
 
-(a) the director of any research and statistics unit specified in the Second Schedule to furnish or supply to him any particulars or information obtained by the director under section 5 pursuant to any requisition issued by the director; or
+(a) the director of any research and statistics unit to furnish or supply to him any particulars or information obtained pursuant to any requisition issued by the director under section 5; or
 
-(b) any competent authority specified in the first column of the Third Schedule to furnish or supply to him any particulars or information specified in the second column of the Third Schedule and obtained pursuant to any request made by the competent authority.
+(b) any public agency to furnish or supply to him any particulars or information in the possession of the public agency, whether or not —
 
-[9/90]
+(i) the particulars or information were provided to the public agency by another person or public agency (referred to in this section as the data source); or
 
-(2) Notwithstanding the provisions of this Act or any other written law, the director of any research and statistics unit or the competent authority referred to in subsection (1) shall furnish and supply those particulars and information within such time as may be agreed to by the Chief Statistician and the director or competent authority, as the case may be.
+(ii) the public agency directed to furnish the particulars or information, or the data source, is under any obligation (whether imposed by any written law or otherwise) not to disclose the particulars or information.
 
-[9/90]
+[3/2010 wef 12/02/2010 wef 12/02/2010]
 
-(3) Notwithstanding the provisions of this Act or any other written law, no person shall be guilty of an offence under this Act or that other written law or of any breach of confidence by virtue merely of his disclosing any particulars or information to the Chief Statistician pursuant to any direction under subsection (1).
+(2) Notwithstanding the provisions of this Act or any other written law, the director of any research and statistics unit or the public agency shall furnish the particulars and information as directed under subsection (1) except, in relation to a direction under subsection (1)(b), any particulars or information which have been exempted from being so furnished by —
 
-[9/90]
+(a) the Minister responsible for the public agency directed to furnish or supply the particulars or information under subsection (1)(b); or
 
-(4) Where an amendment to the Third Schedule inserts or deletes and substitutes any particulars or information specified in the second column of the Third Schedule, subsection (1)(b) shall have effect in relation to the particulars or information from the date on which the amendment comes into operation.
+(b) the Minister responsible for the data source.
 
-[9/90]
+[3/2010 wef 12/02/2010 wef 12/02/2010]
+
+(3) All particulars and information required to be furnished under subsection (1) shall be furnished within such time as may be agreed to between the Chief Statistician and the director of a research and statistics unit or the public agency, as the case may be.
+
+[3/2010 wef 12/02/2010 wef 12/02/2010]
+
+(4) Notwithstanding the provisions of this Act or any other written law —
+
+(a) no person shall be guilty of an offence under this Act or that other written law or of any breach of confidence or incur any liability, criminal or civil, by virtue merely of his disclosing any particulars or information to the Chief Statistician pursuant to any direction under subsection (1); and
+
+(b) no officer of the Department of Statistics (including the Chief Statistician) shall be guilty of an offence under this Act or that other written law or incur any liability, criminal or civil, by virtue merely of his accessing, or disclosing to another officer of the Department of Statistics, any particulars or information obtained pursuant to any direction under subsection (1), in the performance of his duties or functions as an officer of the Department of Statistics.
+
+[3/2010 wef 12/02/2010 wef 12/02/2010]
 
 (5) Subsection (1) shall not apply to any particulars or information obtained under any written law administered by the Monetary Authority of Singapore.
 
@@ -160,39 +191,29 @@ An Act relating to statistics.
 
 ### Disclosure of information
 
-7\.—(1) No particulars or information or any part thereof relating to any individual person obtained under the provisions of this Act shall, without the previous consent in writing of that person, be disclosed except —
+7\.—(1) No person shall disclose any particulars or information obtained under section 5 or 6 in a form that may identify any person without the prior consent in writing of the person that may be identified by such disclosure.
 
-(a) compiled statistics on the operation of an industry may be published irrespective of the number of persons engaged in that industry unless the industry is exempted by the Minister responsible for the Government department or Ministry in possession of such particulars from having its data published;
+(2) Notwithstanding subsection (1), the Chief Statistician or the director of a research and statistics unit, as the case may be, may disclose particulars or information obtained under section 5 or 6 —
 
-(b) where the disclosure can be made without identifying the individual person and an appropriate time, in the opinion of the Minister responsible for the Government department or Ministry in possession of such particulars, has elapsed;
+(a) as statistics which do not identify any person;
 
-(c) for the purposes of any proceedings for an offence under this Act or any report of those proceedings; or
+(b) as anonymised microdata to —
 
-(d) information of a general nature including products manufactured or handled, size of establishment, number of employees and addresses, which could be obtained from other sources.
+(i) any public agency; or
 
-(2) The Minister responsible for the Government department or Ministry issuing any requisition under this Act shall have due regard —
+(ii) any other person within a class specified in the Third Schedule;
 
-(a) to the circumstances of various trades and industries; and
+(c) for the purposes of any proceedings for an offence under this Act or any report of those proceedings;
 
-(b) in particular, to the importance of avoiding the disclosure in any return of any trade secret or of trading profits or of any other information the disclosure of which would be likely to tend to the prejudice of the person furnishing the return.
+(d) that are of a general nature relating to the products or services provided by, the number of employees in or the addresses of, an establishment; or
 
-(3) If any information to be obtained under this Act is also obtainable under any other written law which restricts the disclosure of information obtained thereunder, and the Minister is of the opinion that similar restrictions should be applied to any information to be obtained under this Act, the Minister shall by order provide for the application, without modifications or with such adaptations or modifications as he thinks fit, of those restrictions to the information to be so obtained, or any part thereof, in addition to the restrictions imposed by this section.
+(e) that are already available in the public domain.
 
-(4) Without prejudice to subsection (3) if it appears to the Minister that the nature of the information to be obtained under this Act would make it desirable to impose restrictions on the disclosure of the information additional to the restrictions imposed by this section, the Minister may by order prohibit the disclosure of such information, or any part thereof, except to such persons or for such purposes as may be specified in the order.
+(3) The Chief Statistician or the director of a research and statistics unit may, in respect of any particulars or information disclosed to any person under subsection (2), impose conditions as to the use of such particulars or information by notice in writing to that person.
 
-(5) The compilation of any report, summary or other communication to the public of information obtained under this Act shall be so arranged as to prevent any particulars published therein from being identified as being particulars relating to any individual person except with the previous consent in writing of that person.
+(4) If any person discloses any returns or any particulars or information contrary to this section, or fails to comply with any conditions imposed on him under subsection (3), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(6) Where —
-
-(a) any particulars or information relating to any individual person have been obtained from a competent authority under section 6(1)(b); and
-
-(b) the particulars or information were obtained by that competent authority under any written law which restricts the disclosure of information so obtained,
-
-then, in addition to the restrictions imposed by this section and any order made under subsection (3), no such particulars or information shall be disclosed without the written permission of that competent authority.
-
-[9/90]
-
-(7) If any person discloses any returns or any particulars or information contrary to this section, or of any order made thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+[3/2010 wef 12/02/2010]
 
 ### Impersonation of statistical officer
 
@@ -210,13 +231,15 @@ then, in addition to the restrictions imposed by this section and any order made
 
 9\.—(1) Any person who —
 
-(a) wilfully refuses or without lawful excuse (the proof of which lies on him) neglects to furnish the particulars or information required within the time allowed for furnishing them or to furnish them in the form specified or prescribed, or to authenticate them in the prescribed manner, or to deliver them at the place or in the manner specified or prescribed for the delivery thereof;
+(a) wilfully refuses or without lawful excuse (the proof of which lies on him) neglects to furnish the particulars or information required by a requisition within the time allowed for furnishing them or to furnish them in the form specified or prescribed, or to authenticate them in the prescribed manner, or to deliver them at the place or in the manner specified or prescribed for the delivery thereof;
 
 (b) wilfully furnishes or causes to be furnished any false particulars or information in respect of any matter specified in the requisition requiring particulars or information to be furnished; or
 
 (c) refuses to answer, or wilfully gives a false answer to, any question necessary for obtaining any information or particulars required by a requisition to be furnished under this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+
+[3/2010 wef 12/02/2010]
 
 [9/90]
 
@@ -232,33 +255,47 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Service of requisition
 
-11\. Subject to any rules made under section 12, requisitions may be served as follows:
+11\.—(1) Subject to any rules made under section 12, a requisition may be served as follows:
 
-(a) if the person on whom service is to be effected is within Singapore, the requisition may be delivered to him or left with some adult member of his family residing with him;
+(a) in the case of an individual —
 
-(b) if the person on whom service is to be effected has an agent within Singapore, the requisition may be delivered to the agent;
+(i) by delivering it to the individual personally;
 
-(c) by registered post addressed to the person on whom service is to be effected at his place of residence;
+(ii) by leaving it with an adult person apparently resident at, or by sending it by pre-paid registered post to, the usual or last known address of the place of residence of the individual;
 
-(d) where service is to be effected on a firm, the requisition may be served —
+(iii) by leaving it with an adult person apparently employed at, or by sending it by pre-paid registered post to, the usual or last known address of the place of business of the individual; or
 
-(i) upon any one or more of the partners; or
+(iv) by affixing a copy of the requisition in a conspicuous place at the usual or last known address of residence or business of the individual; or
 
-(ii) at the principal place of business of the firm upon any person having at the time of service the control or management of the firm’s business; or
+(b) in the case of a partnership other than a limited liability partnership —
 
-(e) where service is to be effected on a company or corporation, the requisition may be —
+(i) by delivering it to any one of the partners or the secretary or other like officer of the partnership;
 
-(i) left at the registered office of the company or corporation;
+(ii) by leaving it at, or by sending it by pre-paid registered post to, the principal or last known place of business of the partnership in Singapore; or
 
-(ii) delivered to any director, manager or the secretary of the company or corporation or to any person having, on behalf of the company or corporation, powers of control or management over the business, occupation, work or matter to which the requisition relates; or
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the principal or last known place of business of the partnership in Singapore; and
 
-(iii) sent by registered post addressed to the company or corporation at its registered office.
+(c) in the case of any limited liability partnership or any other body corporate —
 
-### Rules and orders
+(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager thereof;
+
+(ii) by leaving it at, or by sending it by pre-paid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore; or
+
+(iii) by sending it by facsimile transmission to the fax transmission number operated at the registered office or principal office of the limited liability partnership or body corporate in Singapore.
+
+(2) Any requisition to be served on the occupier of any premises may be served by delivering it to an adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the requisition to a conspicuous part of the premises.
+
+(3) Any requisition to be served on the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the occupier of the premises without further name or description.
+
+(4) If the person on whom service is to be effected has an agent within Singapore, the requisition may be delivered to the agent.
+
+[3/2010 wef 12/02/2010]
+
+### Rules
 
 12\.—(1) The Minister may make rules —
 
-(a) regulating the method of collecting statistics, the staff to be employed in connection therewith, the duties to be performed and the publication to be issued;
+(a) regulating the method of collecting data for statistical purposes, the staff to be employed in connection therewith, the duties to be performed and the publication to be issued;
 
 (b) prescribing the forms in which and the times, places and manner at and in which particulars or information shall be furnished, and the manner in which they shall be authenticated, and any other thing which under this Act is to be prescribed;
 
@@ -266,27 +303,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) generally for carrying out the purposes and provisions of this Act.
 
-(2) All rules made under this section and all orders made under section 7 shall be presented to Parliament as soon as possible after publication in theGazette.
+[3/2010 wef 12/02/2010]
+
+(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[3/2010 wef 12/02/2010]
 
 ### Amendment of Schedules
 
-13\.—(1) Subject to subsections (2) and (3), the Minister may, by notification in theGazette, amend the First, Second or Third Schedule.
+13\. The Minister may, by order in theGazette, amend the First, Second or Third Schedule.
 
-[9/90]
-
-(2) The Minister shall not insert or delete and substitute any particulars or information specified in the second column of the Third Schedule without the approval of the Minister responsible for the written law under which those particulars and information are obtained.
-
-[9/90]
-
-(3) Without prejudice to subsection (2), the Minister may insert or delete and substitute in the second column of the Third Schedule any particulars or information obtained under any written law relating to taxation only to the extent that the supply of such particulars or information is permitted by or under that written law.
-
-[16/2004 wef 01/07/2004]
+[3/2010 wef 12/02/2010]
 
 FIRST SCHEDULE
 
-Sections 3 and 13
+Sections 2 and 13
 
-Subject-matters
+Subject Matters
 
 1\. Accidents
 
@@ -376,11 +409,15 @@ Subject-matters
 
 42\. Tourism
 
-43\. Transport.
+43\. Transport
+
+44. Utilities.
+
+[3/2010 wef 12/02/2010]
 
 SECOND SCHEDULE
 
-Sections 4, 6, 7 and 13
+Sections 2 and 13
 
 Research and Statistics Units
 
@@ -420,49 +457,13 @@ Research and Statistics Units
 
 THIRD SCHEDULE
 
-Sections 6, 7 and 13
+Sections 7(2)(b) and 13
 
-Competent Authorities
+Specified Class
 
-First column
+1. Any consultant commissioned by a public agency.
 
-Second column
-
-1.
-
-Superintendent of Census
-
-Particulars and information obtained by the Superintendent of Census under the Census Act (Chapter 35).
-
-2.
-
-Central Provident Fund Board
-
-Particulars and information relating to the employment, employer and wages of Central Provident Fund members obtained by the Central Provident Fund Board under the Central Provident Fund Act (Chapter 36).
-
-3.
-
-Director-General of Customs
-
-Particulars and information obtained by the Director-General of Customs under section 3 of the Regulation of Imports and Exports Act (Cap. 272A) and any regulations made thereunder.
-
-4.
-
-Comptroller of Goods and Services Tax
-
-Such particulars and information in records obtained by the Comptroller of Goods and Services Tax under the Goods and Services Tax Act (Chapter 117A) and any regulations made thereunder as referred to in section 6(6) of that Act.
-
-5.
-
-Comptroller of Income Tax
-
-Such particulars and information in records obtained by the Comptroller of Income Tax under the Income Tax Act (Chapter 134) and any regulations made thereunder as referred to in section 6(10A) of that Act.
-
-[6/2003 wef 01/04/2003]
-
-[16/2004 wef 01/07/2004]
-
-[9/90; 24/95]
+[3/2010 wef 12/02/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -532,6 +533,11 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|30 June 2006|
 |17.|**G.N. No. S 451/2007—Statistics Act (Amendment of Second Schedule) Notification 2007**|
 ||Date of commencement|28 August 2007|
+|18.|**Act 3 of 2010—Statistics (Amendment) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 24/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|11 January 2010|
+||Date of commencement|12 February 2010|
 ## COMPARATIVE TABLE
 
 Statistics Act
