@@ -1432,7 +1432,7 @@ Rules of Court
 
 (c) not more than 5 Judges of the Supreme Court to be appointed by the Chief Justice for such period as he may specify in writing;
 
-(d) the Senior District Judge;
+(d) the Chief District Judge;
 
 (e) a District Judge to be appointed by the Chief Justice for such period as he may specify in writing; and
 
@@ -1743,6 +1743,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 24/2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|1st March 2009 (section 32 — amendment of Supreme Court of Judicature Act)|
+|25.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010 (section 5 — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
