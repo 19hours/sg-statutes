@@ -48,7 +48,7 @@
 
 - [21 Repeal and saving](#Repeal-and-saving)
 
-[**FIRST SCHEDULE Pensions RegulationsArrangement of Regulations**](#FIRST-SCHEDULE-Pensions-RegulationsArrangement-of-Regulations)
+[**FIRST SCHEDULE Pensions Regulations**](#FIRST-SCHEDULE-Pensions-Regulations)
 
 [**SECOND SCHEDULE Funds**](#SECOND-SCHEDULE-Funds)
 
@@ -286,7 +286,7 @@ An Act to regulate the granting of pensions, gratuities and other allowances to 
 
 (a) in the case of male officers in the public service in Singapore on 1st July 1956, with the consent of the President, on or after attaining the age of 50 years, and in other cases, on or after attaining the age of 55 years if a man, or of 45 years if a woman, except that in the case of a female officer she was in the service before 1st March 1962 and has opted to retire on or after attaining the age of 45 years;
 
-(b) on or after attaining the age of 45 years if he is a police officer, including a police officer of such Auxiliary Police Force as may be specified by the President by notification in theGazette, below the rank of assistant superintendent, prison officer below the rank of superintendent or a male nurse at a Government mental hospital;
+(b) on or after attaining the age of 45 years if he is a police officer, including a police officer of such Auxiliary Police Force as may be specified by the President by notification in theGazette, below the rank of assistant superintendent or a prison officer below the rank of superintendent;
 
 [4/2010 wef 17/02/2010]
 
@@ -366,7 +366,7 @@ An Act to regulate the granting of pensions, gratuities and other allowances to 
 
 (a) who has attained, in the case of a male officer in the public service in Singapore on 1st July 1956, the age of 55 years, and in the case of any other male officer the age of 60 years or 55 years if the President in any individual case so directs;
 
-(b) who, being a police officer below the rank of assistant superintendent, prison officer below the rank of superintendent or a male nurse at a Government mental hospital , has attained the age of 45 years;
+(b) who, being a police officer below the rank of assistant superintendent or a prison officer below the rank of superintendent, has attained the age of 45 years;
 
 [4/2010 wef 17/02/2010]
 
@@ -578,11 +578,11 @@ Section 6(2)
 
 Pensions Regulations
 
-Arrangement of Regulations
+ARRANGEMENT OF REGULATIONS
 
-Part I
+PART I
 
-Preliminary
+PRELIMINARY
 
 Regulation
 
@@ -594,9 +594,9 @@ Citation
 
 Regulations subject to Act
 
-Part II
+PART II
 
-Reckonable Service and Pensionable Emoluments
+RECKONABLE SERVICE AND PENSIONABLE EMOLUMENTS
 
 3.
 
@@ -642,9 +642,9 @@ Emoluments on which pensions to be computed
 
 Pensions granted for whole-time and part-time service
 
-Part III
+PART III
 
-Pension, Gratuity and Allowance
+PENSION, GRATUITY AND ALLOWANCE
 
 14.
 
@@ -690,9 +690,9 @@ Additional compensation for injured police officer or when police officer is kil
 
 Allowance for service in non-pensionable office
 
-Part IV
+PART IV
 
-Miscellaneous
+MISCELLANEOUS
 
 25.
 
@@ -718,17 +718,19 @@ Table A — Scale of pensions
 
 Table B — Gratuities and allowances
 
+____________________
+
 Part I
 
 Preliminary
 
 Citation
 
-1\. These Regulations may be cited as the Pensions Regulations.
+1\\. These Regulations may be cited as the Pensions Regulations.
 
 Regulations subject to Act
 
-2. These Regulations shall in all respects be subject to the provisions of the Act.
+2\. These Regulations shall in all respects be subject to the provisions of the Act.
 
 [3
 
@@ -738,13 +740,13 @@ Reckonable Service and Pensionable Emoluments
 
 Period of service qualifying for pension, etc.
 
-3. Subject to these Regulations, service qualifying for pension, gratuity or other allowance, as the case may be, shall be the inclusive period between the date from which an officer commences to draw salary or half salary from the funds of the Government and the date of his leaving the service of the Government without deduction of any period during which he has been absent on leave.
+3\. Subject to these Regulations, service qualifying for pension, gratuity or other allowance, as the case may be, shall be the inclusive period between the date from which an officer commences to draw salary or half salary from the funds of the Government and the date of his leaving the service of the Government without deduction of any period during which he has been absent on leave.
 
 [4
 
 Pensions to whom and at what rates to be granted
 
-4.—(1) Every officer holding a pensionable office in Singapore, who has been in the service of the Government for not less than 10 years, may on his retirement be granted a pension at the rate of one six-hundredth (1/
+4\. —(1) Every officer holding a pensionable office in Singapore, who has been in the service of the Government for not less than 10 years, may on his retirement be granted a pension at the rate of one six-hundredth (1/
 
 600
 
@@ -754,7 +756,7 @@ th) of his annual pensionable emoluments in respect of each complete month of pe
 
 720
 
-th) of his pensionable emoluments in respect of each complete month of pensionable service with an addition of sixty seven- hundred-and-twentieths (60/
+th) of his pensionable emoluments in respect of each complete month of pensionable service with an addition of sixty seven-hundred-and-twentieths (60/
 
 720
 
@@ -764,7 +766,7 @@ ths) of his pensionable emoluments subject to the limit prescribed in section 14
 
 Pensionable service
 
-5. For the purpose of computing the amount of a pension or gratuity to be granted to an officer, the following periods, subject to any deduction to be made under regulation 8, shall be taken into account as pensionable service:
+5\. For the purpose of computing the amount of a pension or gratuity to be granted to an officer, the following periods, subject to any deduction to be made under regulation 8, shall be taken into account as pensionable service:
 
 (a) the periods during which he has been on duty;
 
@@ -782,7 +784,7 @@ Pensionable service
 
 Service to be unbroken
 
-6.—(1) Service in respect of which pensions or gratuities may be granted must be unbroken, except in cases where —
+6\. —(1) Service in respect of which pensions or gratuities may be granted must be unbroken, except in cases where —
 
 (a) the service has been interrupted by abolition of office or other temporary suspension of employment not arising from misconduct or voluntary resignation; or
 
@@ -808,7 +810,7 @@ but in addition to any gratuity so granted which is not required to be refunded.
 
 Acting service
 
-7. Where an officer has performed acting service in a pensionable office under the Government, the period of such service may be taken into account as pensionable service if the period of such acting service —
+7\. Where an officer has performed acting service in a pensionable office under the Government, the period of such service may be taken into account as pensionable service if the period of such acting service —
 
 (a) was not part of the pensionable service of a substantive holder of the office and is not taken into account as part of the officer’s own pensionable service in other public service; and
 
@@ -818,7 +820,7 @@ Acting service
 
 Non-pensionable service when to count
 
-8.—(1) Only service in a pensionable office shall be taken into account as pensionable service.
+8\. —(1) Only service in a pensionable office shall be taken into account as pensionable service.
 
 (2) Notwithstanding paragraph (1) —
 
@@ -834,13 +836,13 @@ Non-pensionable service when to count
 
 War service how reckoned
 
-9. Any period during which an officer absent on leave from Singapore has, with the consent of the President, served with the Singapore Armed Forces or in any capacity connected with a state of war, may be reckoned as service on full pay for the purposes of these Regulations.
+9\. Any period during which an officer absent on leave from Singapore has, with the consent of the President, served with the Singapore Armed Forces or in any capacity connected with a state of war, may be reckoned as service on full pay for the purposes of these Regulations.
 
 [10
 
 Full-time national service is deemed to be public service and period of such service may be reckoned as pensionable service
 
-10.—(1) Full-time national service under section 12 of the Enlistment Act (Cap. 93) or under the provisions of any written law repealed by that Act, shall be deemed to be public service and a person who has rendered such service, either before or after he became the holder of a pensionable office, shall be deemed to have been or to have continued to be, as the case may be, an officer in the public service for the period of such full-time national service for the purposes of the Act.
+10\. —(1) Full-time national service under section 12 of the Enlistment Act (Cap. 93) or under the provisions of any written law repealed by that Act, shall be deemed to be public service and a person who has rendered such service, either before or after he became the holder of a pensionable office, shall be deemed to have been or to have continued to be, as the case may be, an officer in the public service for the period of such full-time national service for the purposes of the Act.
 
 (2) Any period during which a person has rendered full-time national service under section 12 of the Enlistment Act or under the provisions of any written law repealed by that Act, may be reckoned as service qualifying for pension, gratuity or other allowance, as the case may be.
 
@@ -850,7 +852,7 @@ Full-time national service is deemed to be public service and period of such ser
 
 Officers seconded to public body
 
-11. Where an officer has been seconded from a pensionable office to an office or class of office which is not pensionable or to service under a public body, the period of such temporary employment shall be reckoned for the purpose of pension, gratuity or other allowance, provided that —
+11\. Where an officer has been seconded from a pensionable office to an office or class of office which is not pensionable or to service under a public body, the period of such temporary employment shall be reckoned for the purpose of pension, gratuity or other allowance, provided that —
 
 (a) the officer retires in circumstances in which he would otherwise be eligible for a pension; and
 
@@ -860,7 +862,7 @@ Officers seconded to public body
 
 Emoluments on which pensions to be computed
 
-12.—(1) Pensions and gratuities shall be computed —
+12\. —(1) Pensions and gratuities shall be computed —
 
 (a) where an officer has held one office, the pensionable emoluments of which are not based on a scale of increments, for a period of not less than 3 years immediately preceding the date of his retirement, on the pensionable emoluments payable to him at that date in respect of that office;
 
@@ -892,7 +894,7 @@ Emoluments on which pensions to be computed
 
 Pensions granted for whole-time and part-time service
 
-13.—(1) Subject to paragraph (2), no pension, gratuity or other allowance shall be granted under these Regulations to any officer whose whole-time is not given to the public service.
+13\. —(1) Subject to paragraph (2), no pension, gratuity or other allowance shall be granted under these Regulations to any officer whose whole-time is not given to the public service.
 
 (2) Part-time service shall qualify as pensionable service but it shall be counted on the basis of the proportion the part-time service bears to whole-time service over the same period.
 
@@ -904,9 +906,9 @@ Pension, Gratuity and Allowance
 
 Gratuity and reduced pension for Gurkha
 
-14.—(1) Subject to this regulation, a Gurkha serving in the Gurkha Contingent of the Singapore Police Force (referred to in this regulation as an officer) to whom a pension is granted under the Act may —
+14\. —(1) Subject to this regulation, a Gurkha serving in the Gurkha Contingent of the Singapore Police Force (referred to in this regulation as an officer) to whom a pension is granted under the Act may —
 
-(a) in the case of an officer retiring before 7th December 1984, be paid a reduced pension at the rate of three-fourths (¾ths) of such pension together with a commuted pension gratuity equal to 12 ½ times the annual value of the reduction so made in the pension; or
+(a) in the case of an officer retiring before 7th December 1984, be paid a reduced pension at the rate of three-fourths (¾ths) of such pension together with a commuted pension gratuity equal to 12½ times the annual value of the reduction so made in the pension; or
 
 (b) in the case of an officer retiring on or after 7th December 1984, be paid a reduced pension together with a commuted pension gratuity of an amount equal to one one-hundred-and-twentieth (1/
 
@@ -934,7 +936,7 @@ ths) of the gratuity granted to him.
 
 Pension options
 
-15.—(1) Subject to these Regulations, an officer to whom a pension is granted under the Act may, at his option exercisable in accordance with this regulation, be paid —
+15\. —(1) Subject to these Regulations, an officer to whom a pension is granted under the Act may, at his option exercisable in accordance with this regulation, be paid —
 
 (a) in the case of an officer appointed before and retiring on or after 1st January 1995 —
 
@@ -974,7 +976,7 @@ Pension options
 
 Reduced pension plus gratuity and commuted pension gratuity
 
-16.—(1) The reduced pension and gratuity referred to in regulation 15 (1) (a) (ii) shall be —
+16\. —(1) The reduced pension and gratuity referred to in regulation 15(1)(a)(ii) shall be —
 
 (a) a reduced pension equal to the amount of his annual pension less two twenty-fifths (2/
 
@@ -988,7 +990,7 @@ ths) of the gratuity specified in sub-paragraph (b); and
 
 ths) of his one year’s pensionable emoluments in respect of each complete month of pensionable service subject to a maximum of his pensionable emoluments for 3 years.
 
-(2) The commuted pension gratuity referred to in regulation 15 (1) (a) (iii) and (b) (ii) shall be —
+(2) The commuted pension gratuity referred to in regulation 15(1)(a)(iii) and (b)(ii) shall be —
 
 (a) a capital sum ascertained by multiplying the commutation factor by the amount of such pension that may be granted to an officer under the Act; or
 
@@ -1008,7 +1010,7 @@ ths) of his one year’s pensionable emoluments in respect of each complete mont
 
 Case of pensioner re-employed
 
-17.—(1) If an officer to whom a pension has been granted under the Act is appointed to another office in the public service in Singapore, the payment of his pension may, if the relevant Pension Authority thinks fit, be suspended during the period of his re-employment.
+17\. —(1) If an officer to whom a pension has been granted under the Act is appointed to another office in the public service in Singapore, the payment of his pension may, if the relevant Pension Authority thinks fit, be suspended during the period of his re-employment.
 
 (2) If an officer to whom a pension or a gratuity has been granted under the Act or under any written law repealed by the Act or, in respect of other public service, under the law or regulations applicable thereto, is appointed to another office in the public service in Singapore and subsequently retires in circumstances in which he may be granted a pension, he may be granted, subject to paragraph (3) and in lieu of his previous pension or gratuity, a pension computed as if the periods of his service had been continuous, and such pension may be based on his pensionable emoluments at the date of his previous or his final retirement from the service of the Government, whichever is the greater.
 
@@ -1022,13 +1024,13 @@ Case of pensioner re-employed
 
 Abolition or re-organisation of office
 
-18.—(1) If an officer holding a pensionable office retires or is removed from the public service in consequence of the abolition of his office or for the purpose of facilitating improvement in the department in which he belongs by which greater efficiency or economy can be effected, he may be granted a pension at the rate of —
+18\. —(1) If an officer holding a pensionable office retires or is removed from the public service in consequence of the abolition of his office or for the purpose of facilitating improvement in the department in which he belongs by which greater efficiency or economy can be effected, he may be granted a pension at the rate of —
 
 (a) one five-hundredth (1/
 
 500
 
-th) of his annual pensionable emoluments in respect of each complete month of pensionable service until two- hundred-and-forty five-hundredths (240/
+th) of his annual pensionable emoluments in respect of each complete month of pensionable service until two-hundred-and-forty five-hundredths (240/
 
 500
 
@@ -1050,13 +1052,13 @@ th) in respect of each complete month of pensionable service in excess of 240 mo
 
 Application of regulations 20 to 23 to all officers
 
-19. Unless otherwise expressly provided, regulations 20 to 23 shall apply to all officers in the public service in Singapore, whether appointed before or after 1st April 1986.
+19\. Unless otherwise expressly provided, regulations 20 to 23 shall apply to all officers in the public service in Singapore, whether appointed before or after 1st April 1986.
 
 [17A
 
 Allowance for injured officers
 
-20.—(1) Where a person (other than a police officer) employed in the public service of the Government, whether serving in a pensionable or non-pensionable office —
+20\. —(1) Where a person (other than a police officer) employed in the public service of the Government, whether serving in a pensionable or non-pensionable office —
 
 (a) has been permanently injured in the actual discharge of his duty, without his own fault, by some injury specifically attributable to the nature of his duty;
 
@@ -1068,7 +1070,9 @@ and his retirement, on the recommendation of a medical board or of a medical pra
 
 where his capacity to contribute to his support is —
 
-(i) slightly impaired
+(i)
+
+slightly impaired
 
 —
 
@@ -1078,7 +1082,9 @@ five-sixtieths (5/
 
 ths);
 
-(ii) impaired
+(ii)
+
+impaired
 
 —
 
@@ -1088,7 +1094,9 @@ ten-sixtieths (10/
 
 ths);
 
-(iii) materially impaired
+(iii)
+
+materially impaired
 
 —
 
@@ -1098,7 +1106,9 @@ fifteen-sixtieths (15/
 
 ths);
 
-(iv) totally destroyed
+(iv)
+
+totally destroyed
 
 —
 
@@ -1162,7 +1172,9 @@ the officer shall be deemed, for the purposes of this regulation, to have been i
 
 where his capacity to contribute to his support is —
 
-(a) slightly impaired
+(a)
+
+slightly impaired
 
 —
 
@@ -1172,7 +1184,9 @@ seven and a half-sixtieths (71/
 
 /60ths);
 
-(b) impaired
+(b)
+
+impaired
 
 —
 
@@ -1182,7 +1196,9 @@ fifteen-sixtieths (15/
 
 ths);
 
-(c) materially impaired
+(c)
+
+materially impaired
 
 —
 
@@ -1192,7 +1208,9 @@ twenty-two and a half-sixtieths (221/
 
 /60ths);
 
-(d) totally destroyed
+(d)
+
+totally destroyed
 
 —
 
@@ -1214,13 +1232,13 @@ ths)
 
 (14) This regulation shall not apply in the case of a person employed or selected for employment by the Government on or after 30th April 1955 who, in consequence of injury, is entitled to compensation under the Work Injury Compensation Act (Cap. 354).
 
-[5/2008 wef 01/04/2008]
-
 [18
+
+[5/2008 wef 01/04/2008]
 
 Pensions, etc., to dependants when officer is killed on duty
 
-21.—(1) Where an officer (other than a police officer) dies as a result of injuries received —
+21\. —(1) Where an officer (other than a police officer) dies as a result of injuries received —
 
 (a) in the actual discharge of his duty;
 
@@ -1250,7 +1268,7 @@ th) of his annual pensionable emoluments but not less than $60 a year;
 
 (2) Notwithstanding paragraph (1) —
 
-(a) in the case of a pension granted under paragraph (1) (v), if the mother is a widow at the time of the grant of the pension and subsequently remarries, such pension shall cease as from the date of re-marriage; and if it appears to the relevant Pension Authority at any time that the mother is adequately provided with other means of support, such pension shall cease as from such date as the relevant Pension Authority may determine;
+(a) in the case of a pension granted under paragraph (1)(v), if the mother is a widow at the time of the grant of the pension and subsequently remarries, such pension shall cease as from the date of re-marriage; and if it appears to the relevant Pension Authority at any time that the mother is adequately provided with other means of support, such pension shall cease as from such date as the relevant Pension Authority may determine;
 
 (b) a pension granted to a female child under paragraph (1) shall cease upon the marriage of such child below the age of 18 years;
 
@@ -1280,7 +1298,7 @@ th) of his annual pensionable emoluments but not less than $60 a year;
 
 the officer shall be deemed, for the purposes of this regulation, to have died in the circumstances described in paragraph (1).
 
-(5) When an officer dies as a result of injuries received in an accident occurring to any aircraft in which he is being carried in pursuance of official instructions, as defined in regulation 20 (12), he shall be deemed to have died as a result of injuries received in the actual discharge of his duty and on account of circumstances specifically attributable to the nature of his duty.
+(5) When an officer dies as a result of injuries received in an accident occurring to any aircraft in which he is being carried in pursuance of official instructions, as defined in regulation 20(12), he shall be deemed to have died as a result of injuries received in the actual discharge of his duty and on account of circumstances specifically attributable to the nature of his duty.
 
 (6) In calculating any pension payable under this regulation in respect of an officer referred to in paragraph (5), paragraph (1) shall be read as if —
 
@@ -1318,7 +1336,7 @@ which, in the opinion of the relevant Pension Authority, justify exceptional tre
 
 Allowance for injured police officers and pensions, etc., when police officer is killed on duty
 
-22.—(1) Where a police officer is injured in any of the following circumstances:
+22\. —(1) Where a police officer is injured in any of the following circumstances:
 
 (a) whilst on duty or whilst on a journey necessary to enable him to report for duty or to return home after duty;
 
@@ -1406,7 +1424,7 @@ th) of his annual pensionable emoluments may be paid to his mother, or, where hi
 
 Additional compensation for injured police officer or when police officer is killed on duty
 
-23.—(1) Where a police officer dies as a result of injuries received in the execution of his duties, it shall be lawful for the relevant Pension Authority to grant to such of his dependants as the Pension Authority may think fit, or if there are no dependants to his legal personal representatives, in addition to the gratuity payable under section 20 of the Act and any pension payable to his dependants in accordance with regulation 22 (5), compensation equivalent to the difference between —
+23\. —(1) Where a police officer dies as a result of injuries received in the execution of his duties, it shall be lawful for the relevant Pension Authority to grant to such of his dependants as the Pension Authority may think fit, or if there are no dependants to his legal personal representatives, in addition to the gratuity payable under section 20 of the Act and any pension payable to his dependants in accordance with regulation 22(5), compensation equivalent to the difference between —
 
 (a) the sum which the police officer would be entitled to under the Work Injury Compensation Act (Cap. 354), as if he were an employee under that Act; and
 
@@ -1440,7 +1458,7 @@ whichever is the greater.
 
 (4) Any compensation payable to the dependants or the legal personal representatives of a deceased police officer under paragraph (3) (b) shall be reduced by the aggregate amount of the pension already paid to the deceased police officer under regulation 4 from the date of his retirement to the date of his death.
 
-(5) Where the aggregate amount of the pension referred to in paragraph (4) exceeds the compensation payable under paragraph (3) (b), such excess amount shall, subject to paragraph (6), be recoverable by regular monthly deductions from the pension payable to the dependants of the deceased pensioner under regulation 22 (5).
+(5) Where the aggregate amount of the pension referred to in paragraph (4) exceeds the compensation payable under paragraph (3)(b), such excess amount shall, subject to paragraph (6), be recoverable by regular monthly deductions from the pension payable to the dependants of the deceased pensioner under regulation 22(5).
 
 (6) Any deduction made from the pension payable to the dependants of a deceased pensioner under paragraph (5) should, if it is reasonably practicable, leave a balance adequate for the maintenance of the dependants.
 
@@ -1456,7 +1474,7 @@ whichever is the greater.
 
 (8) Any police officer who receives any compensation payable under paragraph (7) shall not be entitled to receive any benefits payable under regulation 26.
 
-(9) Where a police officer, who is on the provident fund scheme applicable to non-pensionable employees of the Government under the Central Provident Fund Act (Cap. 36) and who has completed less than 10 years of service, sustains a permanent total disablement from an injury received in the execution of his duty which enables him to qualify for a pension under regulation 22 (3), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the police officer as compensation —
+(9) Where a police officer, who is on the provident fund scheme applicable to non-pensionable employees of the Government under the Central Provident Fund Act (Cap. 36) and who has completed less than 10 years of service, sustains a permanent total disablement from an injury received in the execution of his duty which enables him to qualify for a pension under regulation 22(3), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the police officer as compensation —
 
 (a) a sum equivalent to the amount calculated under the Work Injury Compensation Act as if he were an employee under that Act; or
 
@@ -1466,7 +1484,7 @@ whichever is the greater.
 
 whichever is the greater.
 
-(10) Where a police officer sustains a permanent partial disablement from an injury received in the execution of his duty and is entitled to a pension payable under regulation 22 (4), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the officer as compensation a sum equivalent to the amount calculated for permanent partial disablement under the Work Injury Compensation Act, as if he were an employee under that Act.
+(10) Where a police officer sustains a permanent partial disablement from an injury received in the execution of his duty and is entitled to a pension payable under regulation 22(4), he may elect to be paid a compensation in lieu of such pension, in which event it shall be lawful for the relevant Pension Authority to grant to the officer as compensation a sum equivalent to the amount calculated for permanent partial disablement under the Work Injury Compensation Act, as if he were an employee under that Act.
 
 [5/2008 wef 01/04/2008]
 
@@ -1478,7 +1496,7 @@ whichever is the greater.
 
 Allowance for service in non-pensionable office
 
-24.—(1) An officer holding a non-pensionable office or a pensionable office on a temporary month-to-month basis or on monthly salary who retires in circumstances in which he might have been granted a pension had he held a pensionable office may, if he has continuously served in the Government for not less than 15 years, be granted an annual allowance not exceeding three-fourths (3/
+24\. —(1) An officer holding a non-pensionable office or a pensionable office on a temporary month-to-month basis or on monthly salary who retires in circumstances in which he might have been granted a pension had he held a pensionable office may, if he has continuously served in the Government for not less than 15 years, be granted an annual allowance not exceeding three-fourths (3/
 
 4
 
@@ -1516,7 +1534,7 @@ Miscellaneous
 
 Transfer from pensionable to non-pensionable office
 
-25. Where an officer has been transferred from a pensionable office to a non-pensionable office then at the option of such officer —
+25\. Where an officer has been transferred from a pensionable office to a non-pensionable office then at the option of such officer —
 
 (a) his service in the non-pensionable office may be reckoned as though it were service in a pensionable office at the pensionable emoluments payable to him immediately prior to such transfer; or
 
@@ -1526,7 +1544,7 @@ Transfer from pensionable to non-pensionable office
 
 Gratuity where service insufficient for pension
 
-26. Every officer, otherwise qualified for a pension, who has not completed the minimum period of service qualifying for a pension, may be granted on retirement a gratuity not exceeding five-six-hundredths (5/
+26\. Every officer, otherwise qualified for a pension, who has not completed the minimum period of service qualifying for a pension, may be granted on retirement a gratuity not exceeding five-six-hundredths (5/
 
 600
 
@@ -1536,7 +1554,7 @@ ths) of his annual pensionable emoluments in respect of each complete month of p
 
 Gratuity when nothing else is provided
 
-27.—(1) A gratuity or an annual allowance may, on his retirement in the circumstances described in the first column of Table B, be granted to any officer holding a non-pensionable office or a pensionable office on a temporary month-to- month basis to whom regulation 24 does not apply.
+27\. —(1) A gratuity or an annual allowance may, on his retirement in the circumstances described in the first column of Table B, be granted to any officer holding a non-pensionable office or a pensionable office on a temporary month-to-month basis to whom regulation 24 does not apply.
 
 (2) The gratuity or annual allowance shall be computed in accordance with Table B.
 
@@ -1548,13 +1566,13 @@ Gratuity when nothing else is provided
 
 Conditions of pension
 
-28. It shall be a condition of the grant of every pension or other allowance that the relevant Pension Authority may cancel or reduce it if it be shown to have been obtained by the wilful suppression of material facts or to have been granted in ignorance of facts which, had they been known before the retirement of the officer, would have justified his dismissal or a reduction of his salary.
+28\. It shall be a condition of the grant of every pension or other allowance that the relevant Pension Authority may cancel or reduce it if it be shown to have been obtained by the wilful suppression of material facts or to have been granted in ignorance of facts which, had they been known before the retirement of the officer, would have justified his dismissal or a reduction of his salary.
 
 [26
 
 Temporary reduction of salary not to affect rate of pension
 
-29. Where the salary attached to any office is temporarily reduced for reasons of public economy, all pensions, gratuities and other allowances shall be calculated on the normal rate of salary and not on the rate to which such salary has been temporarily reduced.
+29\. Where the salary attached to any office is temporarily reduced for reasons of public economy, all pensions, gratuities and other allowances shall be calculated on the normal rate of salary and not on the rate to which such salary has been temporarily reduced.
 
 [27
 
@@ -1564,23 +1582,23 @@ Regulation 22
 
 SCALE OF PENSIONS
 
+Completed years of approved service
+
 Proportion of Pension to Pay on Retirement
 
 Scale No. 1
 
+On total disablement from non-accidental injury received in execution of duty
+
 Scale No. 2
-
-Scale No. 3
-
-Scale No. 4
-
-Completed years of approved Service
-
-On total disablement from Non-accidental injury received in execution of duty
 
 On total disablement from accidental injury received in execution of duty
 
+Scale No. 3
+
 On partial disablement from non-accidental injury
+
+Scale No. 4
 
 On partial disablement from accidental injury
 
@@ -1906,7 +1924,9 @@ Years of Service of Officer
 
 Gratuity or Allowance Payable
 
-1. 10 years service or above but below 15 years in a non-pensionable office or a pensionable office on a temporary month-to-month basis
+1.
+
+10 years service or above but below 15 years in a non-pensionable office or a pensionable office on a temporary month-to-month basis
 
 An annual allowance equal to one-half (1/
 
@@ -1914,7 +1934,9 @@ An annual allowance equal to one-half (1/
 
 ) of the pension which might have been granted had the officer retired in similar circumstances while holding a pensionable office; or a capital sum equal to the amount of 5 of such annual payments with the consent of the relevant Pension Authority, except that no capital sum shall, unless in all the circumstances of the case seem reasonable to the relevant Pension Authority, be paid if the officer retired on the ground of ill-health.
 
-2. Below 10 years service in a non-pensionable office or a pensionable office on a temporary month-to-month basis
+2.
+
+Below 10 years service in a non-pensionable office or a pensionable office on a temporary month-to-month basis
 
 A gratuity equal to one-half (1/
 
@@ -1926,7 +1948,9 @@ A gratuity equal to one-half (1/
 
 th) of a month’s salary for each complete month of service, if the officer retired on the ground of ill-health or on account of age limit or, if the officer was holding a non-pensionable office, on account of the abolition of any office in or re-organisation of the department to which he was attached to effect greater efficiency or economy.
 
-3. 10 years service or above as a daily-rated officer
+3.
+
+10 years service or above as a daily-rated officer
 
 A gratuity equal to one and two-thirds (12/
 
@@ -1934,7 +1958,9 @@ A gratuity equal to one and two-thirds (12/
 
 rds) days’ basic pay for each completed month of service. No gratuity is payable to daily-rated officers retiring below the age of 45 years, unless pronounced medically unfit for further service, and no gratuity is payable to daily-rated officers retiring below the age of 50 years unless it appears proper to the Government that they should through age or infirmity be retired, except that where the wife of a daily-rated officer who has died while in service or retired has herself not less than 10 years’ continuous service as a daily-rated officer, she will not be debarred from receiving a gratuity merely because she is below the age of 45 years, but will receive a gratuity where she herself decides to retire within one month of her husband’s death or retirement.
 
-4. More than one year’s service but less than 10 years’ service as a daily-rated officer
+4.
+
+More than one year’s service but less than 10 years’ service as a daily-rated officer
 
 A gratuity equal to seven-eighths (7/
 
@@ -1942,13 +1968,21 @@ A gratuity equal to seven-eighths (7/
 
 ths) days’ basic pay for each complete month of service, only in circumstances where the daily-rated officer retired on the ground of ill-health.
 
-5. Continuous service partly on monthly pay and partly on daily pay and —
+5.
+
+Continuous service partly on monthly pay and partly on daily pay and —
 
 An annual allowance or gratuity, in respect of the aggregate service on monthly pay calculated in accordance with the method specified in the second column of item 1 or 2 of this Table or regulation 24 to which may be added a gratuity in respect of his service on daily pay calculated in accordance with the method specified in the second column of item 3 of this Table.
 
-(a) the aggregate service is not less than 10 years; or
+(a)
 
-(b) the officer has retired on the ground of ill-health
+the aggregate service is not less than 10 years; or
+
+(b)
+
+the officer has retired on the ground of ill-health
+
+[S 197/59; S 23/63; S 215/66; S 318/84; S 236/86; S 484/89; S 31/93; S 19/95; S 451/98]
 
 SECOND SCHEDULE
 
@@ -1957,6 +1991,8 @@ Section 9(d)
 Funds
 
 The Central Provident Fund established under the Central Provident Fund Act (Cap. 36).
+
+[11/2003]
 
 THIRD SCHEDULE
 
@@ -2138,6 +2174,11 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|41.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010|
 ## COMPARATIVE TABLE
 
 Pensions Act
