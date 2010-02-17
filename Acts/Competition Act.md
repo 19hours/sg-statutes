@@ -1984,11 +1984,17 @@ the Commission may give to such person as it thinks appropriate such directions 
 
 [23/2007 wef 01/07/2007]
 
-(3) For the purpose of subsection (2) (d), the Commission may impose a financial penalty only if it is satisfied that the infringement has been committed intentionally or negligently.
+(3) For the purpose of subsection (2)(d), the Commission may impose a financial penalty only if it is satisfied that the infringement has been committed intentionally or negligently.
 
 (4) No financial penalty fixed by the Commission under this section may exceed 10% or such other percentage of such turnover of the business of the undertaking in Singapore for each year of infringement for such period, up to a maximum of 3 years, as the Minister may, by order published in theGazette, prescribe.
 
 (5) The Commission shall, in any direction requiring the payment of a financial penalty, specify the date before which the financial penalty is to be paid, being a date not earlier than the end of the period within which an appeal against the direction may be brought under section 71.
+
+(6) The Minister may, by order published in theGazette, prescribe the interest payable on the outstanding amount of any financial penalty imposed under subsection (2)(d) and for payment by instalment (as may be directed by the Commission in its discretion) of any financial penalty imposed under subsection (2)(d).
+
+[4/2010 wef 17/02/2010]
+
+[Canada Competition, s. 92 (1) (e) (i) and (ii); UK Competition 1998, ss. 32, 33 and 36 (1), (2), (3), (6), (7) and (8)].]
 
 ### Notification
 
@@ -2075,6 +2081,10 @@ Competition Appeal Board
 (d) prescribing the places where and the times at which appeals shall be heard by the Board;
 
 (e) prescribing the fees to be paid in respect of any appeal under this Part;
+
+(ea) permitting the Board to order interest to be paid on any financial penalty imposed, confirmed or varied by the Board;
+
+[4/2010 wef 17/02/2010]
 
 (f) prescribing the award of costs of or incidental to any proceedings before the Board or the award of expenses, including any allowances payable to persons in connection with their attendance before the Board; and
 
@@ -3029,10 +3039,15 @@ This Legislative History is provided for the convenience of users of the Competi
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 11/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
-||Dates of commencement|30th June 2007|
+||Date of commencement|30th June 2007|
 |||(Sections 8 (1) and 24 (1))|
 |9.|**Act 23 of 2007—Competition (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 11/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
 ||Date of commencement|1st July 2007|
+|10.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010|
