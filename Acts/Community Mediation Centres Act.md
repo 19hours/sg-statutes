@@ -222,11 +222,11 @@ MEDIATION
 
 (a) where a body corporate is a party to a mediation session — an officer of the body corporate;
 
-(b) where a corporation that is a body corporate constituted under section 33 of the Land Titles (Strata) Act (Cap. 158) is a party to a mediation session — a council or committee member or its managing agent;
+(b) where a corporation that is a body corporate constituted under section 10A of the Land Titles (Strata) Act (Cap. 158) is a party to a mediation session — a council or committee member or its managing agent;
 
 (c) where a statutory body is a party to a mediation session — an officer of the statutory body; or
 
-(d) where a society registered under section 4 of the Societies Act (Cap. 311) is a party to a mediation session — an officer of the society as defined in section 2 of that Act,
+(d) where a society registered under section 4 or 4A of the Societies Act (Cap. 311) is a party to a mediation session — an officer of the society as defined in section 2 of that Act,
 
 from representing that company, corporation, body corporate or society, as the case may be.
 
@@ -389,3 +389,8 @@ This Legislative History is provided for the convenience of users of the Communi
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|5.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010|
