@@ -302,7 +302,7 @@ CONSTITUTION
 
 (2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Saturday, Sunday or public holiday or during a vacation authorised under section 61 if —
 
-(a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
+(a) the Chief District Judge, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
 
 (b) in the opinion of the judicial officer, the business to be despatched is extremely urgent.
 
@@ -352,7 +352,7 @@ APPOINTMENTS, POWERS AND DUTIES
 
 9\.—(1) A District Court shall be presided over by a District Judge appointed by the President on the recommendation of the Chief Justice.
 
-(2) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Senior District Judge who shall have seniority over all other District Judges.
+(2) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Chief District Judge who shall have seniority over all other District Judges.
 
 (3) No person shall be appointed to be or to act as a District Judge unless he has been for not less than 5 years a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161).
 
@@ -400,7 +400,7 @@ APPOINTMENTS, POWERS AND DUTIES
 
 ### Solicitor, etc., authorised to act as bailiff
 
-15A\.—(1) Subject to such directions as may be given by the Senior District Judge, the registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the registrar thinks fit and subject to such terms and conditions as the registrar may determine.
+15A\.—(1) Subject to such directions as may be given by the Chief District Judge, the registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the registrar thinks fit and subject to such terms and conditions as the registrar may determine.
 
 [15/93]
 
@@ -416,9 +416,9 @@ APPOINTMENTS, POWERS AND DUTIES
 
 17\.—(1) All judicial officers and such other officers of the subordinate courts as may be required by the Chief Justice shall, before exercising the functions of their respective offices, take and subscribe the appropriate oath of office and allegiance set out in the Schedule.
 
-(2) The oath referred to in subsection (1) may be taken and subscribed before the Senior District Judge or a Judge of the Supreme Court.
+(2) The oath referred to in subsection (1) may be taken and subscribed before the Chief District Judge or a Judge of the Supreme Court.
 
-(3) Where the oath is taken before the Senior District Judge, he shall —
+(3) Where the oath is taken before the Chief District Judge, he shall —
 
 (a) enter in the record of his court that the oath was duly administered and taken before him; and
 
@@ -980,13 +980,13 @@ ADMINISTRATION
 
 (2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —
 
-(a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
+(a) the Chief District Judge, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
 
 (b) in the opinion of the registrar, the business to be despatched is extremely urgent.
 
 [8/98; 2/2007]
 
-(3) The office hours of the Registry shall be such times as the Senior District Judge, with the concurrence of the Chief Justice, may from time to time direct.
+(3) The office hours of the Registry shall be such times as the Chief District Judge, with the concurrence of the Chief Justice, may from time to time direct.
 
 [8/98]
 
@@ -996,13 +996,13 @@ ADMINISTRATION
 
 ### Distribution of business
 
-59\. The distribution of business in the subordinate courts shall be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Senior District Judge .
+59\. The distribution of business in the subordinate courts shall be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Chief District Judge.
 
 ### Office of a court
 
 60\.—(1) There shall be attached to each subordinate court or a number of subordinate courts an office, under whatever name, for the purpose of carrying out the work or business in such court or courts.
 
-(2) Subject to such directions as may be given by the Chief Justice from time to time, the Senior District Judge shall be responsible for the apportionment of the work among the several officers in any such office.
+(2) Subject to such directions as may be given by the Chief Justice from time to time, the Chief District Judge shall be responsible for the apportionment of the work among the several officers in any such office.
 
 ### Vacations for District and Magistrates’ Courts
 
@@ -1010,13 +1010,13 @@ ADMINISTRATION
 
 ### List of touts
 
-62\.—(1) The Senior District Judge may frame and publish a list of persons proved to his satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons, and may alter and amend the list.
+62\.—(1) The Chief District Judge may frame and publish a list of persons proved to his satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons, and may alter and amend the list.
 
-(2) The Senior District Judge may, by general or special order, exclude from the precincts of the subordinate courts any person whose name is included in the list, except when such person is a party to or a witness in any proceedings in a subordinate court, when he shall be allowed to remain for such time as is necessary.
+(2) The Chief District Judge may, by general or special order, exclude from the precincts of the subordinate courts any person whose name is included in the list, except when such person is a party to or a witness in any proceedings in a subordinate court, when he shall be allowed to remain for such time as is necessary.
 
 (3) No person’s name shall be included in the list until he has been heard or had an opportunity of being heard against such inclusion.
 
-(4) An appeal shall lie to a Judge of the High Court in chambers from an order made by the Senior District Judge to include a person’s name in the list.
+(4) An appeal shall lie to a Judge of the High Court in chambers from an order made by the Chief District Judge to include a person’s name in the list.
 
 [16/93]
 
@@ -1058,7 +1058,7 @@ ADMINISTRATION
 
 (b) with not duly paying or accounting for any money levied by him under the authority of this Act or Rules of Court,
 
-it shall be lawful for a District Judge nominated by the Senior District Judge to inquire into the matter in a summary manner.
+it shall be lawful for a District Judge nominated by the Chief District Judge to inquire into the matter in a summary manner.
 
 (2) For the purpose of any such inquiry, the District Judge may summon and enforce the attendance of all necessary parties in the like manner as the attendance of witnesses in any case may be enforced.
 
@@ -1148,7 +1148,7 @@ then, if any such action or application that has been commenced or made before t
 
 [42/2005]
 
-(2) The Senior District Judge, with the concurrence of the Chief Justice, may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons or an originating summons, as is appropriate.
+(2) The Chief District Judge, with the concurrence of the Chief Justice, may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons or an originating summons, as is appropriate.
 
 [42/2005]
 
@@ -1295,6 +1295,11 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 31/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007|
+|21.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
