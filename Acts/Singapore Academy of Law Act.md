@@ -116,8 +116,6 @@ PRELIMINARY
 
 “Legal Service Officer” means an officer in the Singapore Legal Service;
 
-[20/2009 wef 09/10/2009]
-
 “member” includes a Fellow, honorary member, ordinary member and associate member of the Academy;
 
 “President” means the President of the Academy;
@@ -164,7 +162,13 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 (j) to undertake activities and projects relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof;
 
-(k) to provide consultancy and other services relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof; and
+(k) to provide consultancy and other services relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof;
+
+[4/2010 wef 17/02/2010]
+
+(ka) to hold moneys, whether as stakeholder or in any other capacity, for the purposes or members of the legal profession in Singapore or under any written law; and
+
+[4/2010 wef 17/02/2010]
 
 (l) to exercise the functions and duties conferred on the Academy under any written law.
 
@@ -191,6 +195,10 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 (i) sell, surrender, lease, exchange or mortgage any land or building as may be found most convenient or advantageous;
 
 (j) receive grants from the Government or donations and gifts from the Law Society or any source;
+
+(ja) retain, for the purposes of the Academy, any income derived from the holding of moneys under subsection (1)(ka);
+
+[4/2010 wef 17/02/2010]
 
 (k) borrow money, whether by way of bank overdraft or otherwise, for such of the purposes of the Academy as the Senate may from time to time consider desirable;
 
@@ -494,13 +502,9 @@ shall be circulated to all members other than those falling within classes of me
 
 ### Income of Academy to be exempt from tax, etc.
 
-23\. The Academy shall be deemed to be —
+23\. The Academy shall be deemed to be an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134).
 
-(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134); and
-
-(b) an institution of a public character approved under the Charities Act (Cap. 37).
-
-[10/2007 wef 01/03/2007]
+[4/2010 wef 17/02/2010]
 
 MISCELLANEOUS
 
@@ -593,3 +597,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 13/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|9 October 2009|
+|10.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010|
