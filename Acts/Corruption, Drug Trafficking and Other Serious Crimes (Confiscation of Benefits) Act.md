@@ -1984,6 +1984,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence.
 
+[44/2007 wef 01/11/2007]
+
 [25/99]
 
 (2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking —
@@ -1992,11 +1994,17 @@ shall be guilty of an offence.
 
 (b) converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or a foreign drug trafficking offence or the making or enforcement of a confiscation ordershall be guilty of an offence.
+shall be guilty of an offence.
+
+[4/2010 wef 17/02/2010]
 
 [25/99]
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking, acquires that property for no or inadequate consideration, or has possession of or uses such property, shall be guilty of an offence.
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug trafficking, acquires that property or has possession of or uses such property, shall be guilty of an offence.
+
+[44/2007 wef 01/11/2007]
+
+[4/2010 wef 17/02/2010]
 
 [25/99]
 
@@ -2007,6 +2015,8 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 (6) Any person who commits an offence under this section shall be liable on conviction —
 
 (a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+
+[44/2007 wef 01/11/2007]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -2032,6 +2042,8 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 shall be guilty of an offence.
 
+[44/2007 wef 01/11/2007]
+
 [25/99]
 
 (2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
@@ -2040,11 +2052,17 @@ shall be guilty of an offence.
 
 (b) converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of assisting any person to avoid prosecution for a serious offence or a foreign serious offence or the making or enforcement of a confiscation order shall be guilty of an offence.
+shall be guilty of an offence.
+
+[4/2010 wef 17/02/2010]
 
 [25/99]
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, or has possession of or uses such property, shall be guilty of an offence.
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property or has possession of or uses such property, shall be guilty of an offence.
+
+[44/2007 wef 01/11/2007]
+
+[4/2010 wef 17/02/2010]
 
 [25/99]
 
@@ -2059,6 +2077,8 @@ for the purpose of assisting any person to avoid prosecution for a serious offen
 (6) Any person who commits an offence under this section shall be liable on conviction —
 
 (a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 7 years or to both; or
+
+[44/2007 wef 01/11/2007]
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
@@ -2082,7 +2102,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any person who —
 
-(a) knows or has reasonable grounds to suspect that a disclosure has beenmade to an authorised officer under this Act (referred to in this section as the disclosure); and
+(a) knows or has reasonable grounds to suspect that a disclosure has been or is being made to an authorised officer under this Act (referred to in this section as the disclosure); and
 
 [4/2010 wef 17/02/2010]
 
@@ -4511,13 +4531,11 @@ Forgery
 
 Part IX — Offences included as serious offences with effect from 22nd January 2010
 
-[S 28/2010 wef 22/01/2010]
-
 Offences
 
 Description*
 
-Health Products Act(Cap\. 122D) 
+Health Products Act (Cap\. 122D) 
 
 361. Section 16
 
@@ -4546,8 +4564,6 @@ Radiation Protection Act (Cap\. 262)
 Transport of radioactive waste.
 
 *Note: The short description of offences is for ease of reference only.
-
-[S 28/2010 wef 22/01/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -4671,6 +4687,11 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Dates of commencement|1 July 2009 (except sections 86 and 87)|
 |26.|**G. N. No. S 28/2010—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2010**|
 ||Date of commencement|22 January 2010|
+|27.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Dates of commencement|17 February 2010 (section 13)|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
