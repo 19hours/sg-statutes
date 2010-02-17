@@ -998,7 +998,7 @@ OCCUPATIONAL DISEASES
 
 (2) The Inquiry Committee referred to in subsection (1) shall comprise —
 
-(a) a District Judge appointed by the Minister after consulting the Senior District Judge; and
+(a) a District Judge appointed by the Minister after consulting the Chief District Judge; and
 
 (b) one or more assessors appointed by the Minister.
 
@@ -2312,6 +2312,11 @@ The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104
 ||Date of commencement|1 April 2008|
 |6.|**2009 Revised Edition—Workplace Safety and Health Act (Chapter 354A)**|
 ||Date of operation|31 July 2009|
+|7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 23 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010 (section 6)|
 ## COMPARATIVE TABLE
 
 Workplace Safety and Health Act
