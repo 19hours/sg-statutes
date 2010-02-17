@@ -12,6 +12,10 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Appointment of designated officers](#Appointment-of-designated-officers)
+
+- [2B Approved hospitals, etc.](#Approved-hospitals-etc)
+
 [**Part II ANATOMICAL GIFTS**](#Part-II)
 
 - [3 Person may donate his body](#Person-may-donate-his-body)
@@ -80,11 +84,29 @@ PRELIMINARY
 
 “deceased person” includes a still-born infant or foetus;
 
-“Director” means the Director of Medical Services, and includes the Deputy Director of Medical Services and the Superintendent of a Government hospital authorised by the Deputy Director of Medical Services in writing to act on his behalf;
+“designated officer”, in relation to an approved hospital for the purposes of this Act, means a person appointed under section 2A to be the designated officer of the approved hospital;
+
+[4/2010 wef 17/02/2010]
+
+“Director” means the Director of Medical Services, and includes the Deputy Director of Medical Services and such designated officer of an approved hospital or such public officer as is authorised by the Director of Medical Services in writing to act on his behalf;
+
+[4/2010 wef 17/02/2010]
 
 “donor” means an individual who makes a gift of all or any part of his body;
 
 “part”, in relation to a human body, includes organs, tissues, eyes, bones, arteries, blood, other fluids and other portions of a human body.
+
+### Appointment of designated officers
+
+2A\. The Director of Medical Services may appoint, in writing, any senior official of the Ministry of Health or senior executive of an approved hospital for the purposes of this Act, to be the designated officer of any approved hospital for the purposes of this Act.
+
+[4/2010 wef 17/02/2010]
+
+### Approved hospitals, etc.
+
+2B\. The Minister may, by notification in theGazette, declare a hospital, medical or dental school, college or university to be an approved hospital, medical or dental school, college or university for the purposes of this Act.
+
+[4/2010 wef 17/02/2010]
 
 ## PART II
 
@@ -110,15 +132,15 @@ ANATOMICAL GIFTS
 
 ### Purposes of anatomical gifts, etc.
 
-7\.—(1) The following persons may become donees of gifts of bodies or parts thereof for the purposes stated:
+7\. 
+
+(1) The following persons may become donees of gifts of bodies or parts thereof for the purposes stated:
 
 (a) any approved hospital for medical or dental education, research, advancement of medical or dental science, therapy or transplantation;
 
 (b) any approved medical or dental school, college or university for medical or dental education, research, advancement of medical or dental science, therapy or transplantation; or
 
 (c) any specified individual for therapy or transplantation needed by him.
-
-(2) The Minister may, by notification in theGazette, declare a hospital, medical or dental school, college or university to be an approved hospital, medical or dental school, college or university for the purposes of this section.
 
 ### Mode of executing gift
 
@@ -138,7 +160,9 @@ ANATOMICAL GIFTS
 
 10\.—(1) A gift of all or any part of the body of a deceased person may be made to a specified donee or without specifying a donee.
 
-(2) If the gift is made without specifying a donee, the Superintendent of the Government hospital in which the death of the deceased person has taken place or to which the body of the deceased person has been removed may accept the gift as donee upon or following the death for the purposes of section 7(1)(a) or (b), as the case may be.
+(2) If the gift is made without specifying a donee, the designated officer of the approved hospital in which the death of the deceased person has taken place or to which the body of the deceased person has been removed may accept the gift as donee upon or following the death for the purposes of section 7(a) or (b), as the case may be.
+
+[4/2010 wef 17/02/2010]
 
 ### Rights and duties of donee
 
@@ -148,7 +172,9 @@ ANATOMICAL GIFTS
 
 ### Authority to remove parts of unclaimed bodies
 
-12\. Where the body of a deceased person has not been claimed from a hospital, nursing home or other institution, maintained on public funds, for more than 24 hours after death, the Director may authorise in writing the use of the body or any specified part for the purposes of medical or dental education, research, advancement of medical or dental science, therapy or transplantation.
+12\. Where the body of a deceased person has not been claimed from an approved hospital or from an institution maintained on public funds, for more than 24 hours after death, the Director may authorise in writing the use of the body or any specified part for the purposes of medical or dental education, research, advancement of medical or dental science, therapy or transplantation.
+
+[4/2010 wef 17/02/2010]
 
 ## PART III
 
@@ -168,7 +194,9 @@ POST-MORTEM EXAMINATION
 
 ### Post-mortem examination of unclaimed body
 
-15\. Where the body of a deceased person has not been claimed from a hospital, nursing home or other institution, maintained on public funds, for more than 24 hours after death, the Director may authorise in writing the post-mortem examination of the body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
+15\. Where the body of a deceased person has not been claimed from an approved hospital or from an institution maintained on public funds, for more than 24 hours after death, the Director may authorise in writing the post-mortem examination of the body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
+
+[4/2010 wef 17/02/2010]
 
 ## PART IV
 
@@ -242,3 +270,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of Second Reading|14 January 1998|
 ||Date of Third Reading|30 June 1998|
 ||Date of commencement|2 November 1998 (section 4 — amendment of Medical (Therapy, Education and Research) Act)|
+|4.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 26/2009 published on 24 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|17 February 2010 (section 2)|
