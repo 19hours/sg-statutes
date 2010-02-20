@@ -70,9 +70,9 @@
 
 - [22 Contracts, etc., to be chargeable as conveyances on sale](#Contracts-etc-to-be-chargeable-as-conveyances-on-sale)
 
-- [22A (Repealed)](#Repealed)
+- [22A Additional duty on instruments for disposal of immovable property within specified holding period](#Additional-duty-on-instruments-for-disposal-of-immovable-property-within-specified-holding-period)
 
-- [22B (Repealed)](#Repealed)
+- [22B Power to bring section 22A into operation](#Power-to-bring-section-22A-into-operation)
 
 - [23 (Repealed)](#Repealed)
 
@@ -260,11 +260,15 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“1adhesive stamp” means any stamp authorised by the Commissioner for the purposes of this Act2
+“†adhesive stamp” means any stamp authorised by the Commissioner for the purposes of this Act;\*
 
-1Definition of “adhesive stamp” to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+†Definition of “adhesive stamp” to be deleted when section 2(
 
-2Revenue stamps were so authorised by G.N. No. S 252/70.
+a
+
+) of the Stamp Duties (Amendmetn) Act 1999 (Act 33 of 1999) is brought into operation.
+
+\*Revenue stamps were so authorised by G.N. No. S 252/70.
 
 “Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
 
@@ -274,11 +278,19 @@ PRELIMINARY
 
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
 
-“3die”includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
+“‡die” includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
 
-3Definition of “die” to be deleted when section 2(a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+‡Definition of “die” to be deleted when secton 2(
 
-(Sections 2(a), 36, 37 and 39(2) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 99) were not in operation at the time of this Revised Edition.
+a
+
+) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 “duly stamped”, as applied to an instrument chargeable with duty, means —
 
@@ -292,13 +304,21 @@ PRELIMINARY
 
 “equitable mortgage” means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
-“executed” and “execution”, used with reference to instruments not under seal, mean “signed” and “signature” ;
+“executed” and “execution”, used with reference to instruments not under seal, mean “signed” and “signature”;
 
-“4impressed stamp”means either an adhesive stamp affixed by the proper officer over which an impression denoting the date of such impression has been made by the proper officer by means of a die, or an impression made by the proper officer by any mechanical means indicating the payment of duty and the date of such impression;
+“\*impressed stamp” means either an adhesive stamp affixed by the proper officer over which an impression denoting the date of such impression has been made by the proper officer by means of a die, or an impression made by the proper officer by any mechanical means indicating the payment of duty and the date of such impression;
 
-4Definition of “impressed stamp” to be deleted when section 2(a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Definition of “impressed stamp” to be deleted when section 2(
 
-Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.
+a
+
+) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 “instrument” includes every written document;
 
@@ -354,7 +374,7 @@ and shall include any estate or interest therein;
 
 ### Commissioner and Deputy Commissioners of Stamp Duties
 
-3\.—(1) The Minister may, by notification in the Gazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Stamp Duties, and such number of Deputy Commissioners of Stamp Duties as he thinks fit.
+3\.—(1) The Minister may, by notification in theGazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Stamp Duties, and such number of Deputy Commissioners of Stamp Duties as he thinks fit.
 
 [38/75]
 
@@ -478,7 +498,7 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 ### Mode of payment
 
-57\.—(1) The duties for the time being chargeable upon any of the instruments specified in the Second Schedule may be paid and denoted by either impressed or adhesive stamps.
+\*7\.—(1) The duties for the time being chargeable upon any of the instruments specified in the Second Schedule may be paid and denoted by either impressed or adhesive stamps.
 
 (2) Subject to subsection (1), duties for the time being chargeable may be paid and denoted by impressed stamps, and no instrument, the duty upon which is permitted to be denoted by an impressed stamp, shall be deemed to be duly stamped unless it has been stamped in the manner prescribed in this section.
 
@@ -488,7 +508,7 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [14/83]
 
-(4)An instrument, the duty upon which is required or permitted by law to be denoted by an adhesive stamp, is not to be deemed duly stamped with an adhesive stamp unless—
+(4) An instrument, the duty upon which is required or permitted by law to be denoted by an adhesive stamp, is not to be deemed duly stamped with an adhesive stamp unless —
 
 (a) the person required by law to cancel the adhesive stamp cancels it by writing on or across the stamp his name or initials, or the name or initials of his firm, together with the true date of his so writing, or otherwise effectually cancels the stamp and renders it incapable of being used for any other instrument; or
 
@@ -502,27 +522,35 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [33/99]
 
-5Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.
+(Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Franking of certain instruments
 
-68\.—(1) Notwithstanding anything in this Act, it shall be lawful for the Commissioner by licence under his hand to authorise any person to pay, by means of a postal franking machine, the duty on any instrument included in the Second Schedule.
+\*8\.—(1) Notwithstanding anything in this Act, it shall be lawful for the Commissioner by licence under his hand to authorise any person to pay, by means of a postal franking machine, the duty on any instrument included in the Second Schedule.
 
 [38/75; 14/83; 26/96; 33/99]
 
 (2) A licence issued under this section shall be subject to such conditions as the Commissioner may in his discretion impose.
 
-(3) The issue of a licence under this section shall be notified by publication in the Gazette.
+(3) The issue of a licence under this section shall be notified by publication in the
+
+Gazette
+
+.
 
 (4) Every impression indicating the payment of duty made by a postal franking machine used under licences under this section shall contain the true date of the making of the impression.
 
 (5) The franking of any of the above-mentioned instruments by any duly authorised person as provided for in this section if done in accordance with the terms of this section and of the licence shall have the same effect as cancelling an adhesive stamp on the date and to the value indicated by the franking.
 
-6Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Composition of duty
 
@@ -556,13 +584,17 @@ Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 19
 
 ### How instruments are to be written and stamped
 
-710\.—(1) Every instrument written upon stamped paper is to be written in such manner, and every instrument partly or wholly written before being stamped shall be so stamped, that the stamp may appear on the face of the instrument and cannot be used for or applied to any other instrument written upon the same piece of paper.
+\*10\.—(1) Every instrument written upon stamped paper is to be written in such manner, and every instrument partly or wholly written before being stamped shall be so stamped, that the stamp may appear on the face of the instrument and cannot be used for or applied to any other instrument written upon the same piece of paper.
 
 (2) If more than one instrument is written upon the same piece of paper, every one of the instruments shall be separately and distinctly stamped with the duty with which it is chargeable.
 
-7Section 10 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Section 10 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Where duty chargeable depends on duty paid on another instrument
 
@@ -606,13 +638,15 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 ### Relief from ad valorem stamp duty
 
-15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
+15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
 
 (a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
 
 (b) the transfer, conveyance or assignment of any beneficial interest in any asset between such entities that are associated in such manner as may be prescribed; or
 
 [36/2008 wef 15/02/2007]
+
+[23/2011 wef 20/02/2010]
 
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
@@ -672,6 +706,8 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 16\.—(1) Any conveyance or transfer operating as a voluntary disposition inter vivos shall be chargeable with the like stamp duty as if it were a conveyance or transfer on sale, with the substitution in each case of the value of the property conveyed or transferred for the amount or value of the consideration of the sale.
 
+(2) [Deleted by Act 36/2008 wef 01/01/2009]
+
 (3) Any conveyance or transfer (not being a disposition made in favour of a purchaser or incumbrancer or other person in good faith and for valuable consideration) shall, for the purposes of this section, be deemed to be a conveyance or transfer operating as a voluntary disposition inter vivos, and (except where marriage is the consideration) the consideration for any conveyance or transfer shall not for this purpose be deemed to be valuable consideration where the Commissioner is of the opinion that by reason of the inadequacy of the sum paid as consideration or other circumstances the conveyance or transfer confers a substantial benefit on the person to whom the property is conveyed or transferred.
 
 (3A) For the purpose of subsection (3) —
@@ -702,11 +738,11 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) a natural parent of the party;
 
+and “grandparent” shall be construed accordingly;
+
 (b) a person by whom the party was adopted in accordance with any written law relating to the adoption of children; or
 
 (c) a step-parent of the party,
-
-and “grandparent” shall be construed accordingly;
 
 “specified time period” means —
 
@@ -734,11 +770,11 @@ shall not be charged with duty under this section.
 
 17\.—(1) When any property is conveyed to any person in consideration, wholly or in part, of any debt due to him or subject either certainly or contingently to the payment or transfer of any money or stock or other property whether being or constituting a charge or incumbrance upon the property or not, such debt, money, stock or other property shall be deemed to be the whole or part, as the case may be, of the consideration in respect of which the conveyance is chargeable with ad valorem duty.
 
-[Explanation.— In the case of a sale of property subject to a mortgage or other incumbrance, any unpaid mortgage money or money charged, together with the interest, if any, due on it shall be deemed to be part of the consideration for the sale.]
+Explanation.— In the case of a sale of property subject to a mortgage or other incumbrance, any unpaid mortgage money or money charged, together with the interest, if any, due on it shall be deemed to be part of the consideration for the sale.
 
 (2) A conveyance on sale made for any consideration in respect of which it is chargeable with ad valorem duty, and in further consideration of a covenant by the purchaser to make or of his having previously made, any substantial improvement of or addition to the property conveyed to him, or of any covenant relating to the subject-matter of the conveyance, is not chargeable, and shall be deemed not to have been chargeable with any duty in respect of such further consideration.
 
-[Illustrations]
+Illustration
 
 (1)AowesB$1,000.Asells a property toB, the consideration being $500 and the release of the previous debt of $1,000. Stamp duty is payable on $1,500.
 
@@ -772,7 +808,7 @@ the conveyance is to be charged in respect of that consideration with ad valorem
 
 Direction as to duty in cases of certain conveyances
 
-20\. 
+20\. [Repealed by Act 26 of 1996]
 
 ### Conveyances and transfers in contemplation of sale
 
@@ -894,17 +930,189 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 [33/99]
 
-Contracts and instruments chargeable as conveyances on sale of residential property
+### Additional duty on instruments for disposal of immovable property within specified holding period
 
-22A\. 
+22A\.—(1) Subject to the provisions of this Act, every contract or agreement for the sale of any specified immovable property (or any part thereof) which is chargeable with duty pursuant to section 22 (including any instrument chargeable in like manner) shall be charged with additional ad valorem duty (the amounts of which are indicated in the First Schedule), payable by the vendor of the property, in respect of the consideration for that sale as if it were an actual conveyance on sale of immovable property, if the property or part thereof is disposed of under that contract or agreement —
 
-Exempted instruments made on or after 15th May 1996
+(a) whilst this section is in force; and
 
-22B\. 
+(b) before the expiration of the period prescribed in the section 22A Order in relation to the specified immovable property (referred to in this section as the specified holding period) from the date on which the vendor acquired that property or any part thereof.
+
+(1A) Subject to the provisions of this Act, every conveyance on sale of any specified immovable property (or any part thereof) shall be chargeable with the same additional ad valorem duty under subsection (1), payable by the vendor of the property, in respect of the consideration for that sale, if the property or part thereof is disposed of under that instrument —
+
+(a) whilst this section is in force; and
+
+(b) before the expiration of the specified holding period from the date on which the vendor acquired that property or part thereof.
+
+[6/2010 wef 20/02/2010; 28/2010 wef 20/02/2010]
+
+(2) Subject to the provisions of this Act, every instrument —
+
+(a) which is a conveyance or transfer operating as a voluntary disposition inter vivos of any specified immovable property (or any part thereof) and which is chargeable with duty under section 16 as if it were a conveyance or transfer on sale of that property;
+
+(b) which is a conveyance or transfer of any specified immovable property (or any part thereof) —
+
+(i) by way of release or settlement;
+
+(ii) pursuant to a declaration of trust where the beneficial interest in the property passes; or
+
+(c) whereby any specified immovable property (or any part thereof) is transferred, by way of distribution in specie upon the voluntary winding-up of a private company, to a person in his capacity as shareholder in that company,
+
+shall be treated for the purpose of this section as a conveyance on sale of immovable property and chargeable with the same additional ad valorem duty under subsection (1), payable by the transferor, in respect of the value of the property or part thereof so conveyed or transferred, if the property or part thereof is disposed of under that instrument —
+
+(A) whilst this section is in force; and
+
+(B) before the expiration of the specified holding period from the date on which the transferor acquired that property or any part thereof.
+
+[6/2010 wef 20/02/2010]
+
+(3) Subject to the provisions of this Act and unless the section 22A Order specifies otherwise, every instrument which is a lease or an agreement for lease of any specified immovable property (or any part thereof) for a term equal to or exceeding the prescribed term, shall be treated for the purpose of this section as a conveyance on sale of immovable property and chargeable with the same additional ad valorem duty under subsection (1), payable by the lessor, in respect of the consideration for the lease, if the property or part thereof is disposed of under that instrument —
+
+(a) whilst this section is in force; and
+
+(b) before the expiration of the specified holding period from the date on which the lessor acquired that property or any part thereof.
+
+[6/2010 wef 20/02/2010]
+
+(4) For the purposes of subsection (3) —
+
+(a) the fact that the term of a lease or an agreement for lease may be extended in pursuance of an option shall be taken into consideration in determining whether its term is equal to or exceeds the prescribed term; and
+
+(b) the fact that a lease or an agreement for lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining its term.
+
+[6/2010 wef 20/02/2010]
+
+(5) Subject to the provisions of this Act, an instrument whereby an exchange of any specified immovable property (or any part thereof) is effected shall be treated for the purpose of this section as a conveyance on sale of immovable property if the property or part thereof is disposed of under the instrument —
+
+(a) whilst this section is in force; and
+
+(b) before the expiration of the specified holding period from the date on which the party who disposes of the property or part thereof acquired that property or any part thereof,
+
+and shall be chargeable with the same additional ad valorem duty under subsection (1), payable by that party, in respect of the value of the property or part thereof being exchanged that is of the greater value.
+
+[6/2010 wef 20/02/2010]
+
+(6) In subsection (5), where a party disposes of 2 or more properties or parts thereof to another party under the instrument, those properties or parts shall be treated as one property or part, and their values shall be aggregated, for the purpose of determining the value of the property or part thereof being exchanged that is of the greater value.
+
+[6/2010 wef 20/02/2010]
+
+(7) Where in any conveyance on sale of immovable property or any part thereof (including any instrument which is chargeable in like manner) the vendors, lessors or transferors of the property or part are joint owners of that property or part, the duty payable by each vendor, lessor or transferor under this section shall be a proportion of the duty commensurate with their respective shares in that property or part; and for this purpose, joint tenants of any property or part shall be presumed, until the contrary is proved, to have equal shares in the property or part.
+
+[6/2010 wef 20/02/2010]
+
+(8) For the purposes of determining the additional duty chargeable upon a conveyance on sale of immovable property or any part thereof (including any instrument which is chargeable in like manner) —
+
+(a) the consideration or value (whichever is applicable) on which the duty is based, shall be reduced by such amount as the Commissioner considers to be attributable to such part of the specified immovable property which is lawfully used for purposes other than for a prescribed purpose; and
+
+(b) where parts of the property were acquired by the vendor, lessor or transferor at different times, the duty shall be reduced by such amount as the Commissioner determines to be in excess of the duty which would have been chargeable under this section if the property had been conveyed in separate parts.
+
+[6/2010 wef 20/02/2010]
+
+(9) The decisions of the Commissioner under subsection (8)(a) and (b), respectively, shall be final.
+
+[6/2010 wef 20/02/2010]
+
+(10) Section 22(3) shall apply to a vendor, lessor or transferor of specified immovable property or a part thereof as if —
+
+(a) the first reference in that provision to purchaser or sub-purchaser is substituted with a reference to such vendor, lessor or transferor; and
+
+[6/2010 wef 20/02/2010; 28/2010 wef 20/02/2010]
+
+(b) the references in that provision to duty under that section are substituted with references to the additional duty under this section.
+
+(10A) Section 22(5) shall apply to a vendor, lessor or transferor of specified immovable property or a part thereof as if —
+
+(a) the references in that provision to a contract or agreement for sale include a conveyance on sale; and
+
+(b) the references in that provision to duty under that section are substituted with references to the additional duty under this section.
+
+[28/2010 wef 20/02/2010]
+
+(11) Where any duty paid under section 22 in respect of any contract or agreement is refunded under that section, any additional duty paid under this section in respect of that same contract or agreement shall likewise be refunded.
+
+[6/2010 wef 20/02/2010]
+
+(12) Subject to subsection (13) and the section 22A Order, where any specified immovable property or part thereof is acquired or disposed of —
+
+(a) under contract, the time at which the acquisition or disposal is made shall be the time the contract is made (and not, if different, the time at which the property or part is conveyed or transferred), and if the contract is conditional on the exercise of an option, the time at which the acquisition or disposal is made shall be the time when the option is exercised;
+
+(b) by way of gift, release or settlement or under a declaration of trust, the time at which the acquisition or disposal is made shall be the time when the property or part or any beneficial interest therein passes; or
+
+(c) by any other means, the time at which the acquisition or disposal is made shall be the time the property or part or any interest therein is vested or divested, as the case may be, by operation of law or otherwise.
+
+[6/2010 wef 20/02/2010]
+
+(13) In this section —
+
+(a) a reference to the section 22A Order is a reference to the order made under section 22B bringing this section into force;
+
+(b) a reference to specified immovable property is a reference to immovable property —
+
+(i) that is used or to be used for a purpose permitted under the Master Plan and specified in the section 22A Order; and
+
+(ii) unless the section 22A Order specifies otherwise, that is acquired by the person liable to pay the additional ad valorem duty under the relevant subsection on or after the date of coming into operation of this section as specified in the Order;
+
+(c) a reference to acquisition or disposal of any property shall not include a reference to a conveyance or transfer by way of security of any property (including a re-transfer on redemption of the security);
+
+(d) where a person entitled to any property by way of security or to the benefit of a charge or incumbrance on any property deals with the property for the purposes of enforcing or giving effect to the security, charge or incumbrance, his dealings with it shall be treated as if they were done through him as nominee by the person entitled to it subject to the security, charge or incumbrance;
+
+(e) a reference to disposal of any property shall not include a reference to a disposal as a result of bankruptcy, dissolution, receivership or winding-up of the owner of the property, other than a voluntary winding-up; and
+
+(f) a reference to a person acquiring any property shall include a reference to a situation where, subsequent to his acquisition of any land, building or part thereof or any interest therein, the land is zoned in the Master Plan for a prescribed purpose or the building or part thereof is permitted under the Planning Act (Cap. 232) to be used for a prescribed purpose, and (unless the section 22A Order specifies otherwise) the time at which the acquisition is made shall be the time when the zoning in the Master Plan is altered in such manner or when the permission under that Act is granted, as the case may be.
+
+[6/2010 wef 20/02/2010]
+
+(14) Notwithstanding anything in this section —
+
+(a) every conveyance on sale of property and every contract or agreement for the sale of any equitable estate or interest in any property or for the sale of any estate or interest in any property, being a conveyance, a contract or an agreement made before the date of coming into operation of this section; and
+
+(b) every exempt instrument specified for the purposes of this section by rules made under section 77,
+
+shall be chargeable with duty under this Act as if this section is not in force.
+
+[6/2010 wef 20/02/2010]
+
+### Power to bring section 22A into operation
+
+22B\.—(1) Section 22A shall not come into operation except at the time and in the manner referred to in subsection (2).
+
+(2) The Minister may, from time to time, by order published in theGazette, declare that section 22A shall come into operation on a date specified in the order, and that section shall come into operation on that date and remain in force until the order is revoked by the Minister.
+
+[6/2010 wef 20/02/2010]
+
+(3) The order shall specify —
+
+(a) the immovable property to which section 22A applies by the purpose for which it may be used under the Master Plan;
+
+(b) the holding period for the purposes of that section; and
+
+(c) other matters required to be prescribed by that section.
+
+[6/2010 wef 20/02/2010]
+
+(4) The order may specify different holding periods for different classes of immovable property.
+
+[6/2010 wef 20/02/2010]
+
+(5) The order may —
+
+(a) prescribe a different time at which immovable property is acquired or disposed of under any particular class of instruments or any instruments executed by or in favour of any person or class of persons; and
+
+(b) specify other matters authorised to be prescribed or specified under section 22A.
+
+[6/2010 wef 20/02/2010]
+
+(6) The Minister may, in respect of the first order made after the commencement of the Stamp Duties (Amendment) Act 2010, specify in the order a date of commencement for section 22A that is before the date of publication of the order in theGazettebut no earlier than 20th February 2010.
+
+[6/2010 wef 20/02/2010]
+
+(7) All orders made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[6/2010 wef 20/02/2010]
 
 Sale of annuity or right not before in existence
 
-23\. 
+23\. [Repealed byAct 39 of 1999]
 
 ### What is to be deemed a conveyance, not being a sale or mortgage
 
@@ -956,7 +1164,7 @@ Sale of annuity or right not before in existence
 
 Settlement of policy of life insurance
 
-28\. 
+28\. [Repealed by Act 33 of 1999]
 
 ### Security for future advances, how to be charged
 
@@ -1126,11 +1334,7 @@ Settlement of policy of life insurance
 
 (a) in the case of a person who is a designated partner referred to in subsection (2)(a)
 
-A x B,
-
-where
-
-A
+where A
 
 is the asset share of the person upon his becoming a designated partner; and
 
@@ -1140,19 +1344,19 @@ is the value of the chargeable property held by the limited liability partnershi
 
 (b) in the case of a person who is a designated partner referred to in subsection (2)(b)
 
-(C - D) x E,
-
-where
-
-C
+where C
 
 is the asset share of the designated partner upon the significant change of partners in question;
 
 D is —
 
-(a) the asset share of the designated partner upon a significant change of partners closest in time to the significant change of partners in question; and
+(a)
 
-(b) if there is no such significant change of partners, the asset share of the designated partner upon the formation of the limited liability partnership; and
+the asset share of the designated partner upon a significant change of partners closest in time to the significant change of partners in question; and
+
+(b)
+
+if there is no such significant change of partners, the asset share of the designated partner upon the formation of the limited liability partnership; and
 
 E
 
@@ -1286,7 +1490,7 @@ LIABILITY FOR PAYMENT OF DUTY
 
 Obligation to give receipts
 
-35\. 
+35\. [Repealed by Act 26 of 1996]
 
 ### Exemptions
 
@@ -1460,7 +1664,7 @@ TIME OF STAMPING INSTRUMENTS
 
 Promissory notes drawn outside Singapore
 
-44\. 
+44\. [Repealed by Act 26 of 1996]
 
 ### Transfers of shares
 
@@ -1576,7 +1780,7 @@ INSTRUMENTS NOT DULY STAMPED
 
 Special provision as to unstamped receipts
 
-54\. 
+54\. [Repealed by Act 26 of 1996]
 
 ### Recovery of duty and penalty
 
@@ -1634,21 +1838,29 @@ ALLOWANCE FOR SPOILED STAMPS
 
 ### Allowance, how to be made
 
-859\. In any case in which allowance is made for spoiled or misused stamps, the Commissioner may give in lieu thereof other stamps of the same denomination and value, or if required, and he thinks proper, stamps of any other denomination to the same amount in value or, in his discretion, the same value in money, deducting therefrom the discount, if any, allowed on the purchase of stamps of a like description.
+\*59\. In any case in which allowance is made for spoiled or misused stamps, the Commissioner may give in lieu thereof other stamps of the same denomination and value, or if required, and he thinks proper, stamps of any other denomination to the same amount in value or, in his discretion, the same value in money, deducting therefrom the discount, if any, allowed on the purchase of stamps of a like description.
 
-8Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Stamp may be repurchased
 
-960\.—(1) When any person is in possession of a stamp which has not been spoiled or rendered unfit or useless for the purpose intended, but for which he has no immediate use, the Commissioner may, if he thinks fit, repay to him the value of the stamp in money, deducting therefrom the proper discount, if any, upon his delivering up the stamp to be cancelled, and proving to his satisfaction that it was purchased by him at the office of the Commissioner, or from some person duly appointed to sell and distribute stamps, within the period of 6 months next preceding the application and with a bona fide intention to use it.
+\*60\.—(1) When any person is in possession of a stamp which has not been spoiled or rendered unfit or useless for the purpose intended, but for which he has no immediate use, the Commissioner may, if he thinks fit, repay to him the value of the stamp in money, deducting therefrom the proper discount, if any, upon his delivering up the stamp to be cancelled, and proving to his satisfaction that it was purchased by him at the office of the Commissioner, or from some person duly appointed to sell and distribute stamps, within the period of 6 months next preceding the application and with a bona fide intention to use it.
 
 (2) In the case of impressed stamps, if the Commissioner is satisfied that the stamp was bought at his office, he may repay the value of the stamp in money without making any deduction therefrom.
 
-9Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ## PART IX
 
@@ -1656,11 +1868,15 @@ OFFENCES AND PENALTIES
 
 ### Not cancelling adhesive stamps
 
-1061\. Any person who being required by law to cancel an adhesive stamp neglects or refuses duly and effectually to do so in the manner prescribed by section 7(4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+\*61\. Any person who being required by law to cancel an adhesive stamp neglects or refuses duly and effectually to do so in the manner prescribed by section 7(4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
-10Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Sections 59, 60 and 61 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+(Sections 2(
+
+a
+
+), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
 ### Penalty for evasion of duty
 
@@ -1820,7 +2036,7 @@ MISCELLANEOUS
 
 70\.—(1) The Commissioner may, by notice in writing, declare any person to be the agent of any other person for the purposes of this Act, and may require the agent so declared to pay any duty due under this Act from any moneys (including sale proceeds, rents, bank balances, pensions, salary, wages or any other remuneration) which, at the date of receipt of the notice or at any time during a period of 90 days thereafter, may be held by him for or due by him to the other person.
 
-[26/96]
+[26/96; 36/2008 wef 01/01/2009]
 
 (2) In default of payment by an agent declared under subsection (1), the duty may be sued for by way of a specially endorsed writ of summons in the name of the Commissioner who shall be entitled to all costs allowed by law against the person thereto.
 
@@ -1837,6 +2053,8 @@ MISCELLANEOUS
 (5) The Commissioner shall examine the objection and may cancel, vary or reconfirm the declaration.
 
 [26/96]
+
+(6) [Deleted by Act 36/2008 wef 01/01/2009]
 
 (7) For the purposes of payment of any duty due from any moneys referred to in subsection (1) in a joint account in any bank or from the proceeds of sale of any immovable property owned by 2 or more persons as joint owners, the following provisions shall apply:
 
@@ -2004,7 +2222,7 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 ### Power to amend Schedules
 
-78\. The Minister may by notification in the Gazette add to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
+78\. The Minister may by notification in theGazetteadd to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
 
 FIRST SCHEDULE
 
@@ -2048,7 +2266,7 @@ $2
 
 $3
 
-(b) (Deleted by S 192/2003)
+(b) (Deleted by )S 192/2003
 
 (c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
 
@@ -2228,7 +2446,7 @@ $10
 
 [38/2002; S 284/98; S 288/2000; S192/2003; S525/2004]
 
-11SECOND SCHEDULE
+SECOND SCHEDULE\*
 
 Sections 7(1) and (6) and 8(1)
 
@@ -2246,7 +2464,7 @@ CONTRACT NOTE — Article No. 2
 
 The person by whom the note is executed
 
-11Second Schedule to be deleted when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+\*Second Schedule to be deleted when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
 
 (Sections 2(a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
 
@@ -2276,9 +2494,15 @@ The lessor
 
 2.
 
-CONVEYANCE — Article No. 3 (a), (c) to (i)
+CONVEYANCE — Article No. 3(a), (c) to (i)
+
+(a) for all purposes other than paragraph (b)
 
 The grantee, transferee or lessee
+
+(b) for the purposes of Article No. 3(a) in relation to section 22A
+
+The person liable to pay the additional ad valorem duty as specified in section 22A
 
 3.
 
@@ -2310,6 +2534,8 @@ PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
 
+[6/2010 wef 20/02/2010]
+
 [S 284/98]
 
 FOURTH SCHEDULE
@@ -2322,19 +2548,27 @@ Subject-matter of Instrument
 
 Fee
 
-1. A scheme for reconstruction or amalgamation of companies, or a transfer of assets between associated companies under section 15
+1.
+
+A scheme for reconstruction or amalgamation of companies, or a transfer of assets between associated companies under section 15
 
 $150
 
-2. Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
+2.
+
+Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
 
 $30
 
-3. Any other immovable property
+3.
+
+Any other immovable property
 
 $90
 
-4. All other transactions
+4.
+
+All other transactions
 
 $90.
 
@@ -2350,27 +2584,41 @@ Subject-matter of Instrument
 
 Fee
 
-1. Any immovable property sold under Part IV of the Housing and Development Act (Cap. 129)
+1.
+
+Any immovable property sold under Part IV of the Housing and Development Act (Cap. 129)
 
 $30
 
-2. Any other immovable property —
+2.
 
-(a) where there is no difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for the adjudication, the duty was chargeable
+Any other immovable property —
+
+(a)
+
+where there is no difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for the adjudication, the duty was chargeable
 
 $105 for each certificate of valuation
 
-(b) where there is such a difference —
+(b)
 
-(i) on the first $10,000 of such difference
+where there is such a difference —
+
+(i)
+
+on the first $10,000 of such difference
 
 1%
 
-(ii) on the next $90,000 of such difference
+(ii)
+
+on the next $90,000 of such difference
 
 0.50%
 
-(iii) on the excess where the difference is in excess of $100,000
+(iii)
+
+on the excess where the difference is in excess of $100,000
 
 0.25%, or $105 for each certificate of valuation, whichever is the higher.
 
@@ -2675,6 +2923,22 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
+|44.|**Act 6 of 2010—Stamp Duties (Amendment) Act 2010**|
+||Date of First Reading|12 March 2010|
+|||(Bill No. 6/2010)|
+||Date of Second Reading|Date not available.|
+||Date of Third Reading|Date not available.|
+||Date of commencement|20 February 2010|
+|45.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 24/2010 published on 16 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|20 February 2010|
+|46.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 15/2010 published on 18 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|20 February 2010|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
