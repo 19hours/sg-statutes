@@ -3055,6 +3055,10 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 (1B) For the year of assessment 2009 and subsequent years of assessment, the income of a shipping enterprise referred to in this section shall include income derived from foreign exchange and risk management activities which are carried out in connection with and incidental to the operation by the shipping enterprise of Singapore ships.
 
+(1C) The income of a shipping enterprise referred to in this section shall include income derived on or after 22nd February 2010 by the shipping enterprise from the provision of ship management services to any qualifying company in respect of Singapore ships owned or operated by the qualifying company.
+
+[29/2010 wef 22/02/2010]
+
 (2) A shipping enterprise shall maintain separate accounts for the income derived or deemed to be derived from the operation of each Singapore ship or foreign ship.
 
 [31/98]
@@ -3171,11 +3175,49 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 [29/2010 wef 22/11/2010]
 
+“qualifying company”, in relation to a shipping enterprise, means a company at least 50% of the total number of the issued ordinary shares of which are beneficially and directly owned by the enterprise;
+
+[29/2010 wef 22/02/2010]
+
+“ship management services” means any of the following activities in respect of a ship:
+
+(a) making a purchase or sale of it, or a decision regarding its ownership;
+
+(b) deciding on its flag and registry;
+
+(c) sourcing for and deciding on financing for its acquisition;
+
+(d) awarding contracts, entering into alliances or deciding on pooling in respect of it;
+
+(e) securing its employment or its cargo;
+
+(f) planning its route and tonnage;
+
+(g) appointing a ship manager or ship agent for it;
+
+(h) collecting freight in exchange for its use;
+
+(i) arranging insurance for it;
+
+(j) undertaking crew related matters such as the appointment of a crew manager;
+
+(k) arranging dry-docking or ship repairs or overhaul;
+
+(l) ensuring that it is adequately equipped with supplies, provisions, spares and stores;
+
+(m) supervising its construction, conversion or registration;
+
+(n) liaising with the relevant competent authorities or bodies on ship safety and manning requirements and other similar matters;
+
+[29/2010 wef 22/02/2010]
+
 “shipping enterprise” means any company owning or operating Singapore ships or foreign ships;
 
 “Singapore ship” means a ship in respect of which a certificate of registry, other than provisionally, has been issued under the Merchant Shipping Act (Cap. 179) and its registry is not closed or deemed to be closed or suspended.
 
 [26/73; 20/91; 31/98; 37/2002; 21/2003; 7/2007]
+
+[This section is amended by section 7 of the Income Tax (Amendment) Act 2017 (Act 39 of 2017) wef 22/02/2010]
 
 ### Exemption of certain dividends
 
@@ -3473,92 +3515,6 @@ is the percentage which the value of equity interests of the second level entity
 
 (d) any amount of the expenses, donations, allowances and losses referred to in paragraphs (a), (b) and (c) which have not been deducted in arriving at the net amount of the income for any previous year of assessment.
 
-### Exemption of dividends from foreign income
-
-13E\.—(1) Where a company resident in Singapore receives income in Singapore from outside Singapore (referred to in this section as the income) for which tax credit has been allowed against the tax payable in respect of such income and pays dividends out of such income, the provisions of this section shall have effect.
-
-[2/92]
-
-(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
-
-where A
-
-is the tax credit allowed;
-
-B
-
-is the tax rate applicable to a company under section 43(1); and
-
-C
-
-is the foreign tax paid,
-
-shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
-
-(3) Where the account is in credit at the date on which any dividends are paid by the company out of the income which has been credited to that account, an amount equal to such dividends or to the credit in that account, whichever is the less, shall be debited to the account.
-
-(4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
-
-(5) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
-
-[37/2002]
-
-(6) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-(7) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
-
-[37/2002]
-
-(8) Notwithstanding subsections (4) and (7), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[21/2003]
-
-(9) A company shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
-
-[32/95; 37/2002]
-
-(10) Notwithstanding subsections (1) to (9), where it appears to the Comptroller that any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
-
-(a) make such assessment or additional assessment upon any such shareholder as may be necessary in order to make good any loss of tax; or
-
-(b) direct the company to debit the account with such amount as the circumstances require.
-
-[11/94; 32/95; 37/2002; 53/2007]
-
-(11) In this section —
-
-“foreign tax” means —
-
-(a) Commonwealth income tax within the meaning of section 48(1);
-
-(b) foreign tax within the meaning of section 50(1); or
-
-(c) tax payable under the law of any territory outside Singapore in respect of which credit has been given under section 50 by virtue of section 50A,
-
-as the case may be;
-
-“tax credit” means —
-
-(a) relief from tax under section 48(1);
-
-(b) credit under section 50(1); or
-
-(c) credit under section 50 by virtue of section 50A,
-
-as the case may be.
-
-[26/93; 32/95; 37/2002; 21/2003]
-
-(12) This section shall —
-
-(a) only apply to income received on or after 1st January 1991;
-
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
-
-(c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
-
-[28/92; 26/93; 1/98; 37/2002; 21/2003; 11/2004; 49/2004; 34/2005; 7/2007; 53/2007]
-
 ### Exemption of international shipping profits
 
 13F\.—(1) Subject to subsection (2), there shall be exempt from tax the income of an approved international shipping enterprise derived —
@@ -3587,9 +3543,13 @@ as the case may be.
 
 [37/2002; 49/2004]
 
-(d) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the operations described in paragraphs (a), (b) and (c).
+(d) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the operations described in paragraphs (a), (b) and (c);
 
 [Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+[29/2010 wef 22/02/2010]
+
+(e) on or after 22nd February 2010 from the provision of ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle.
 
 [29/2010 wef 22/02/2010]
 
@@ -3605,7 +3565,7 @@ as the case may be.
 
 [29/2010 wef 23/02/2010]
 
-(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of the business of carriage or charter referred to in subsection (1), that loss —
+(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
@@ -3623,11 +3583,37 @@ as the case may be.
 
 “foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);
 
-“international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships.
+“international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships;
 
 [29/2010 wef 22/02/2010]
 
 [32/99; 24/2001; 37/2002]
+
+“qualifying special purpose vehicle”, in relation to an approved international shipping enterprise, means —
+
+(a) an approved company —
+
+(i) which is incorporated and resident in Singapore; and
+
+(ii) at least 50% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by the approved international shipping enterprise;
+
+(b) an approved company —
+
+(i) which is incorporated outside Singapore; and
+
+(ii) at least 25% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by the approved international shipping enterprise; or
+
+(c) an approved partnership —
+
+(i) which is registered or formed outside Singapore; and
+
+(ii) of which the approved international shipping enterprise is a partner and is entitled to at least 25% of its income;
+
+[29/2010 wef 22/02/2010]
+
+“ship management services” has the same meaning as in section 13A(16).
+
+[29/2010 wef 22/02/2010]
 
 ### Exemption of income of foreign trust
 
@@ -5845,6 +5831,72 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (g) such other category of activities or instruments as may be prescribed.
 
+### Further or double deduction for overseas investment development expenditure
+
+14K\.—(1) Where the Comptroller is satisfied that —
+
+(a) any investment development expenditure for the carrying out of an approved investment project overseas; or
+
+(b) any expense for the maintenance of an approved overseas project development office,
+
+has been incurred by an approved firm or company resident in Singapore and carrying on business in Singapore, there shall be allowed —
+
+(i) where such expenditure or expense is allowable as a deduction under section 14, a further deduction of the amount of such expenditure or expense in addition to the deduction allowed under that section; and
+
+(ii) where such expenditure or expense is not allowable as a deduction under section 14, a deduction equal to twice the amount of such expenditure or expense.
+
+[26/93]
+
+(2) The Minister or such person as he may appoint may —
+
+(a) specify the maximum amount of investment development expenditure for the carrying out of an approved investment project overseas or expenses for the maintenance of an approved overseas project development office (or any item thereof) to be allowed under subsection (1); and
+
+(b) impose such conditions as he thinks fit when approving the investment project or the overseas project development office for which the deduction is to be allowed under this section.
+
+(3) No deduction shall be allowed under this section in respect of —
+
+(a) travelling, accommodation and subsistence expenses or allowances for more than 2 employees taking part in an approved investment project overseas;
+
+(b) any expenses for the maintenance of an approved overseas project development office —
+
+(i) which are incurred for the establishment of that office;
+
+(ii) by way of remuneration, travelling, accommodation and subsistence expenses or allowances for more than 3 employees of that office;
+
+(iii) which are specifically excluded as a condition of approval for that office under this section;
+
+(iv) which are incurred after the end of the first 6 months of the establishment of that office; and
+
+(v) which are incurred by the approved firm or company having a permanent establishment which has, during the first 6 months of the establishment of that office, income chargeable to tax in the country in which that office is established.
+
+(4) Subject to subsection (5), as soon as any amount of deduction is allowed to any company under subsection (1), a sum equal to the amount of the expenditure or expense incurred by the company which qualified for the deduction under subsection (1) shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of this section.
+
+[21/2003]
+
+(5) Where the company is a transferor company within the meaning of section 37C(19) and where any amount of further deduction allowed under this section is transferred to a claimant company as part of the loss specified under section 37C(14)(b) —
+
+(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
+
+(b) for the purposes of this section, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
+
+(c) in relation to the sum transferred under paragraph (a), subsection (6) shall apply to the claimant company.
+
+[21/2003]
+
+(6) Section 14B(7) to (10) shall apply, with the necessary modifications, to any company to which a deduction is allowed under subsection (1) and, in relation to a deduction allowed to any company under subsection (1)(ii), the references to further deduction in those subsections shall be read as references to a deduction of a sum equal to the amount of the expenditure or expense incurred by the company which qualified for the deduction under subsection (1)(ii).
+
+(7) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“investment development expenditure” means expenses directly attributable to the carrying out of —
+
+(a) any study to identify investment overseas; and
+
+(b) any feasibility or due diligence study on any approved investment overseas;
+
+“overseas project development office” means any office established for the purpose of identifying, initiating and developing any approved investment overseas.
+
 ### Further deduction for expenses incurred in relocation or recruitment of overseas talent
 
 14L\. The Minister may by regulations provide that, for the purpose of ascertaining the income of any person or class of persons carrying on a trade, profession or business, there shall be allowed to such person or class of persons a further deduction, in addition to the deduction allowed under section 14, of any prescribed expenses incurred in relocating or recruiting any prescribed employee from outside Singapore to be employed in Singapore by the person or class of persons.
@@ -5991,9 +6043,7 @@ is the number of years of assessment for which any deduction has been allowed un
 
 (c) notwithstanding anything in section 20(3), in no case shall the amount on which a balancing charge is made on a person exceed an amount computed in accordance with the formula
 
-where C and D
-
-have the same meanings as in paragraph (b).
+where C and D have the same meanings as in paragraph (b).
 
 [32/99]
 
@@ -6027,23 +6077,15 @@ is the number of years of the term of the designated lease for which the upfront
 
 (2) Where an assignee has incurred any expenditure in acquiring the remaining term of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity, there shall, subject to this section, be allowed to the assignee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
 
-where C
+where C is —
 
-is —
+(a) the residual expenditure immediately after the assignment; or
 
-(a)
-
-the residual expenditure immediately after the assignment; or
-
-(b)
-
-the upfront land premium at the time of the assignment as determined by the relevant body for the remaining term of the designated lease,
+(b) the upfront land premium at the time of the assignment as determined by the relevant body for the remaining term of the designated lease,
 
 whichever is the lower; and
 
-D
-
-is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
+D is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
 
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
@@ -6951,7 +6993,19 @@ there shall be made to him for a period of 3 years an annual allowance of 331/
 
 (c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
 
-where A
+A
+
+x
+
+B
+
+,
+
+C
+
+where
+
+A
 
 is the amount of allowance that could have been made against the income of the person under subsection (14B) if the income had been subject to tax at the rate specified in section 43(1)(a);
 
@@ -6963,13 +7017,9 @@ C
 
 is —
 
-(i)
+(i) in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
 
-in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
-
-(ii)
-
-in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+(ii) in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
 (15) In this section —
 
@@ -9341,7 +9391,7 @@ is the aggregate of the amounts of qualifying deductions previously claimed from
 
 (b) transfers of any qualifying deduction by a transferor company, the available qualifying deduction of the transferor company shall, for the purpose of subsection (9)(b), be
 
-where A, D and E
+Where A, D and E
 
 have the same meanings as in subsection (9)(b); and
 
@@ -9965,7 +10015,7 @@ is —
 
 (a)
 
-where the qualifying start-up company has not commenced any trade or business, the lower of —
+where the qualifying start-up company has not commenced any trade or business, the lower of ––
 
 (i)
 
@@ -10133,7 +10183,7 @@ Deduction for children
 
 there shall be allowed in respect of each such child according to his age among those eligible, a deduction in accordance with the Fifth Schedule:
 
-Provided that in the case of any unmarried child incapacitated from maintaining himselfby reason of physical or mental infirmity whose income was not more than $2,000 in that yearand in respect of whom —
+Provided that in the case of any unmarried child incapacitated from maintaining himself by reason of physical or mental infirmity whose income was not more than $2,000 in that yearand in respect of whom —
 
 (A) a deduction is allowable under paragraph 1 of the Fifth Schedule, the deduction shall be increased to $3,500 (if the year of assessment is 2008), or $5,500 (if the year of assessment is 2009 or a subsequent year of assessment);
 
@@ -10525,7 +10575,7 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 
 [24/2001]
 
-(2) Any person to whom this section applies shall, if the tax payable by him in respect of that year is attributable to income derived as a public entertainer, be allowed relief in respect of that year in the following manner:
+(2) Subject to subsection (2A), any person to whom this section applies shall, if the tax payable by him in respect of that year is attributable to income derived as a public entertainer, be allowed relief in respect of that year in the following manner:
 
 (a) where the only source of income in Singapore is such activity as a public entertainer, by reduction of the rate of tax to 15% on every dollar of the chargeable income;
 
@@ -10534,6 +10584,10 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 (c) where such person possesses any other source of income in Singapore and the total assessable income is equal to or less than the statutory income attributable to such activity as a public entertainer, by reduction of the rate of tax to 15% on every dollar of the chargeable income.
 
 [24/2001]
+
+[29/2010 wef 22/02/2010]
+
+(2A) For the purpose of subsection (2), in relation to income derived by a person as a public entertainer during the period from 22nd February 2010 to 31st March 2015 (both dates inclusive), the references to 15% shall be read as 10%.
 
 [29/2010 wef 22/02/2010]
 
@@ -12415,17 +12469,21 @@ as that section applies to any interest paid by a person to another person not k
 
 ### Application of section 45 to income derived as public entertainer
 
-45GA\.—(1) Subject to subsection (2), section 45 shall apply in relation to the payment by any person to any public entertainer or his representative, not known to the person to be resident in Singapore, of any income derived from Singapore as a public entertainer on or after 1st January 2008 as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore, and for the purpose of such application, any reference in that section to interest shall be construed as a reference to such payment.
+45GA\.—(1) Subject to subsections (2) and (2A), section 45 shall apply in relation to the payment by any person to any public entertainer or his representative, not known to the person to be resident in Singapore, of any income derived from Singapore as a public entertainer on or after 1st January 2008 as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore, and for the purpose of such application, any reference in that section to interest shall be construed as a reference to such payment.
 
 [29/2010 wef 22/02/2010]
 
 [53/2007]
 
-(2) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 15%.
+(2) For the purpose of this section and subject to subsection (2A), the deduction of tax under section 45 shall be at the rate of 15%.
 
 [29/2010 wef 22/02/2010]
 
 [53/2007]
+
+(2A) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 10% of such income derived during the period from 22nd February 2010 to 31st March 2015 (both dates inclusive).
+
+[29/2010 wef 22/02/2010]
 
 (3) In this section, “public entertainer” has the same meaning as in section 40A.
 
@@ -12543,7 +12601,7 @@ RELIEF AGAINST DOUBLE TAXATION
 
 where A
 
-is the tax payable before allowance of credit under any arrangements having effect under this section on B+C computed in accordance with the provisions of this Act;
+is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
 
 B
 
@@ -14130,8 +14188,6 @@ EXCHANGE OF INFORMATION UNDER AVOIDANCE
 
 OF DOUBLE TAXATION ARRANGEMENTS
 
-[24/2009 wef 09/02/2010]
-
 ### Interpretation of this Part
 
 105A\.—(1) In this Part —
@@ -14253,8 +14309,6 @@ including the person’s position as regards —
 ## PART XXB
 
 COURT ORDERS RELATING TO RESTRICTED INFORMATION
-
-[24/2009 wef 09/02/2010]
 
 ### Interpretation of this Part
 
@@ -14645,7 +14699,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009.]
+[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009.]
 
 Part C
 
@@ -15232,9 +15286,7 @@ for Information under Part Xxa
 
 10\. Any other information required to be included with the request under the prescribed arrangement.
 
-11. Any other information that may assist in giving effect to the request.
-
-[24/2009 wef 09/02/2010]
+11\. Any other information that may assist in giving effect to the request.
 
 ## LEGISLATIVE HISTORY
 
@@ -16350,6 +16402,21 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 18/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|9 February 2010|
+|254.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|22 February 2010 (Section 4(a), (c), (d), 6, 36, 49)|
+|255.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|22 February 2010 (Sections 10(a), (b), (e), (g), (h), (i), (j))|
+|256.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|15 October 2012|
+|||(Bill No. 29/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|14 November 2012|
+||Date of commencement|22 February 2010 (Section 5(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
