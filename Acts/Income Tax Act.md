@@ -64,7 +64,7 @@
 
 - [11 Ascertainment of income of clubs, trade associations, etc.](#Ascertainment-of-income-of-clubs-trade-associations-etc)
 
-- [12 Sources of income Trading operations carried on partly in Singapore](#Sources-of-income-Trading-operations-carried-on-partly-in-Singapore)
+- [12 Sources of incomeTrading operations carried on partly in Singapore](#Sources-of-incomeTrading-operations-carried-on-partly-in-Singapore)
 
 [**Part IV EXEMPTION FROM INCOME TAX**](#Part-IV)
 
@@ -118,7 +118,7 @@
 
 - [13W Exemption of relevant income of eligible family-owned investment holding company](#Exemption-of-relevant-income-of-eligible-family-owned-investment-holding-company)
 
-- [13X Exemption of income of approved personsarising from funds managed by fund manager in Singapore](#Exemption-of-income-of-approved-personsarising-from-funds-managed-by-fund-manager-in-Singapore)
+- [13X Exemption of income of approved persons arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-approved-persons-arising-from-funds-managed-by-fund-manager-in-Singapore)
 
 [**Part V DEDUCTIONS AGAINST INCOME**](#Part-V)
 
@@ -168,11 +168,15 @@
 
 - [17 Balancing allowances and charges for industrial buildings and structures](#Balancing-allowances-and-charges-for-industrial-buildings-and-structures)
 
-- [18 Definitions for sections 16and 17](#Definitions-for-sections-16and-17)
+- [18 Definitions for sections 16, 17 and 18B](#Definitions-for-sections-16-17-and-18B)
+
+- [18B Transitional provisions for capital expenditure incurred on industrial buildings or structures on or after 23rd Febuary 2010](#Transitional-provisions-for-capital-expenditure-incurred-on-industrial-buildings-or-structures-on-or-after-23rd-Febuary-2010)
+
+- [18C Initial and annual allowances for certain buildings and structures](#Initial-and-annual-allowances-for-certain-buildings-and-structures)
 
 - [19 Initial and annual allowances for machinery or plant](#Initial-and-annual-allowances-for-machinery-or-plant)
 
-- [19A Allowances of 3 years or 2 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.](#Allowances-of-3-years-or-2-years-write-off-for-machinery-and-plant-and-100%-write-off-for-computer-prescribedoffice-automation-equipment-and-robot-etc)
+- [19A Allowances of 3 years or 2 years write off for machinery and plant, and 100% write off for computer, prescribed office automation equipment and robot, etc.](#Allowances-of-3-years-or-2-years-write-off-for-machinery-and-plant-and-100%-write-off-for-computer-prescribed-office-automation-equipment-and-robot-etc)
 
 - [19B Writing-down allowances for intellectual property rights](#Writing-down-allowances-for-intellectual-property-rights)
 
@@ -1048,7 +1052,7 @@ IMPOSITION OF INCOME TAX
 
 (b) gains or profits from any employment;
 
-(c) [Deleted by Act 29/65);]
+(c) [Deleted by Act 29/65]
 
 (d) dividends, interest or discounts;
 
@@ -1650,36 +1654,6 @@ whichever is the less;
 
 [1/98; 53/2007]
 
-### Ascertainment of income from business of making investment
-
-10E\.—(1) Notwithstanding any other provisions of this Act, in determining the income of a company or trustee of a property trust derived from any business of the making of investments the following provisions shall apply:
-
-(a) any outgoings and expenses incurred by the company or trustee of a property trust in respect of investments of that business which do not produce any income shall not be allowed as a deduction under section 14 for that business or other income of the company or trustee of a property trust;
-
-(b) any outgoings and expenses incurred by the company or trustee of a property trust in respect of investments of that business which produce any income shall only be available as a deduction under section 14 against the income derived from such investments and any excess of such outgoings and expenses over such income in any year shall be disregarded; and
-
-(c) the allowances under sections 19, 19A, 20 and 21 relating to that business shall only be available as a deduction against the income derived from investments of that business which produce any income and the balance of the allowances in any year shall be disregarded.
-
-[32/95; 37/2002]
-
-(1A) Where subsection (1) would apply to the originator of any approved Islamic debt securities arrangement if that arrangement had not been entered into, that subsection shall continue to apply to the originator as if the arrangement had not been entered into.
-
-[53/2007]
-
-(2) In this section —
-
-“approved Islamic debt securities arrangement” and “originator” have the same meanings as in section 10(28);
-
-“business of the making of investments” includes the business of letting immovable properties;
-
-“immovable property-related assets” means debt securities and shares issued by property companies, mortgaged-backed securities, other property trust funds, and assets incidental to the ownership of immovable properties;
-
-“investments” means securities, immovable properties and immovable property-related assets;
-
-“property trust” means a trust which invests in immovable properties or immovable property-related assets.
-
-[32/95; 37/2002; 53/2007]
-
 ### Ascertainment of income from certain public-private partnership arrangement
 
 10F\.—(1) Where —
@@ -1690,7 +1664,7 @@ whichever is the less;
 
 then —
 
-(i) notwithstanding any provisions under Part VI, the allowances under section 16, 17, 19, 19A, 20, 21, 22 or 23 in respect of any industrial building or structure, or any machinery or plant, which is a subject of that finance lease, shall not be made to the person, but to the Government or the approved statutory body, as the case may be; and
+(i) notwithstanding any provisions under Part VI, the allowances under section 16, 17, 18B, 18C, 19, 19A, 20, 21, 22 or 23 in respect of any building or structure, or any machinery or plant, which is a subject of that finance lease, shall not be made to the person, but to the Government or the approved statutory body, as the case may be; and
 
 [29/2010 wef 23/02/2010]
 
@@ -2275,11 +2249,7 @@ made under a securities lending or repurchase arrangement by a Singapore-based t
 [7/2007]
 
 ### Sources of income
-
-### 
-
-
-### Trading operations carried on partly in Singapore
+Trading operations carried on partly in Singapore
 
 12\.—(1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
 
@@ -2855,7 +2825,7 @@ and received in Singapore —
 
 (iii) any person, whether or not an individual, who is a partner of a limited liability partnership in Singapore and whose effective ownership through the limited liability partnership (by virtue of section 36A) of the issued ordinary shares of that non-resident company as at 21st January 2009 is more than 50% of the total number of those shares.
 
-(8B) For the purpose of subsection (8A)(b)(iii), the effective ownership of the partner of a limited liability partnership of the issued ordinary shares of the non-resident company as at 21st January 2009 shall be ascertained in accordance with the formula
+(8B) For the purpose of subsection (8A)(b)(iii), the effective ownership of the partner of a limited liability partnership of the issued ordinary shares of the non-resident company as at 21st January 2009 shall be ascertained in accordance with the formula:
 
 where A
 
@@ -2863,7 +2833,7 @@ is the percentage of the income of the limited liability partnership to which th
 
 B
 
-is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership
+is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership.
 
 (8C) No exemption from tax shall be granted to any person under subsection (8A) unless the Comptroller is satisfied that the exemption would be beneficial to the person resident in Singapore.
 
@@ -3057,8 +3027,6 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 (1C) The income of a shipping enterprise referred to in this section shall include income derived on or after 22nd February 2010 by the shipping enterprise from the provision of ship management services to any qualifying company in respect of Singapore ships owned or operated by the qualifying company.
 
-[29/2010 wef 22/02/2010]
-
 (2) A shipping enterprise shall maintain separate accounts for the income derived or deemed to be derived from the operation of each Singapore ship or foreign ship.
 
 [31/98]
@@ -3069,7 +3037,7 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 (3) In determining the income of a shipping enterprise from the operation of Singapore ships or foreign ships —
 
-(a) the capital allowances provided under sections 16, 17, 18, 19, 19A, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income; and
+(a) the capital allowances provided under sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income; and
 
 [29/2010 wef 23/02/2010]
 
@@ -3127,7 +3095,7 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 [31/98]
 
-(11) Where in the basis period for any year of assessment a ship ceases to be a Singapore ship the income derived from the operation of which is exempt under this section, the capital allowances in respect of that ship for that year of assessment and subsequent years shall be calculated on the residue of expenditure or reducing value of the assets after taking into account the capital allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21 and 22 for those years of assessment during which income derived from the operation of the ship was exempt from tax notwithstanding that no claim for such allowances was made.
+(11) Where in the basis period for any year of assessment a ship ceases to be a Singapore ship the income derived from the operation of which is exempt under this section, the capital allowances in respect of that ship for that year of assessment and subsequent years shall be calculated on the residue of expenditure or reducing value of the assets after taking into account the capital allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21 and 22 for those years of assessment during which income derived from the operation of the ship was exempt from tax notwithstanding that no claim for such allowances was made.
 
 [29/2010 wef 23/02/2010]
 
@@ -3177,8 +3145,6 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 
 “qualifying company”, in relation to a shipping enterprise, means a company at least 50% of the total number of the issued ordinary shares of which are beneficially and directly owned by the enterprise;
 
-[29/2010 wef 22/02/2010]
-
 “ship management services” means any of the following activities in respect of a ship:
 
 (a) making a purchase or sale of it, or a decision regarding its ownership;
@@ -3208,8 +3174,6 @@ ought not to have been so exempted, the Comptroller may at any time within 6 yea
 (m) supervising its construction, conversion or registration;
 
 (n) liaising with the relevant competent authorities or bodies on ship safety and manning requirements and other similar matters;
-
-[29/2010 wef 22/02/2010]
 
 “shipping enterprise” means any company owning or operating Singapore ships or foreign ships;
 
@@ -3515,6 +3479,92 @@ is the percentage which the value of equity interests of the second level entity
 
 (d) any amount of the expenses, donations, allowances and losses referred to in paragraphs (a), (b) and (c) which have not been deducted in arriving at the net amount of the income for any previous year of assessment.
 
+### Exemption of dividends from foreign income
+
+13E\.—(1) Where a company resident in Singapore receives income in Singapore from outside Singapore (referred to in this section as the income) for which tax credit has been allowed against the tax payable in respect of such income and pays dividends out of such income, the provisions of this section shall have effect.
+
+[2/92]
+
+(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
+
+where A
+
+is the tax credit allowed;
+
+B
+
+is the tax rate applicable to a company under section 43(1); and
+
+C
+
+is the foreign tax paid,
+
+shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+
+(3) Where the account is in credit at the date on which any dividends are paid by the company out of the income which has been credited to that account, an amount equal to such dividends or to the credit in that account, whichever is the less, shall be debited to the account.
+
+(4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
+
+(5) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+[37/2002]
+
+(6) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
+
+(7) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof.
+
+[37/2002]
+
+(8) Notwithstanding subsections (4) and (7), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+[21/2003]
+
+(9) A company shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+
+[32/95; 37/2002]
+
+(10) Notwithstanding subsections (1) to (9), where it appears to the Comptroller that any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
+
+(a) make such assessment or additional assessment upon any such shareholder as may be necessary in order to make good any loss of tax; or
+
+(b) direct the company to debit the account with such amount as the circumstances require.
+
+[11/94; 32/95; 37/2002; 53/2007]
+
+(11) In this section —
+
+“foreign tax” means —
+
+(a) Commonwealth income tax within the meaning of section 48(1);
+
+(b) foreign tax within the meaning of section 50(1); or
+
+(c) tax payable under the law of any territory outside Singapore in respect of which credit has been given under section 50 by virtue of section 50A,
+
+as the case may be;
+
+“tax credit” means —
+
+(a) relief from tax under section 48(1);
+
+(b) credit under section 50(1); or
+
+(c) credit under section 50 by virtue of section 50A,
+
+as the case may be.
+
+[26/93; 32/95; 37/2002; 21/2003]
+
+(12) This section shall —
+
+(a) only apply to income received on or after 1st January 1991;
+
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
+
+(c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
+
+[28/92; 26/93; 1/98; 37/2002; 21/2003; 11/2004; 49/2004; 34/2005; 7/2007; 53/2007]
+
 ### Exemption of international shipping profits
 
 13F\.—(1) Subject to subsection (2), there shall be exempt from tax the income of an approved international shipping enterprise derived —
@@ -3551,13 +3601,11 @@ is the percentage which the value of equity interests of the second level entity
 
 (e) on or after 22nd February 2010 from the provision of ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle.
 
-[29/2010 wef 22/02/2010]
-
 (2) The exemption shall be for such period not exceeding 10 years as the Minister may specify, except that the Minister or such person as he may appoint may extend the period so specified for such further periods, not exceeding 10 years at any one time, as he thinks fit.
 
 [7/2007]
 
-(3) In determining the amount of the income of an approved international shipping enterprise which is exempted under this section, the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23 —
+(3) In determining the amount of the income of an approved international shipping enterprise which is exempted under this section, the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 and 23 —
 
 (a) shall be taken into account notwithstanding that no claim for those allowances has been made; and
 
@@ -3585,10 +3633,6 @@ is the percentage which the value of equity interests of the second level entity
 
 “international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships;
 
-[29/2010 wef 22/02/2010]
-
-[32/99; 24/2001; 37/2002]
-
 “qualifying special purpose vehicle”, in relation to an approved international shipping enterprise, means —
 
 (a) an approved company —
@@ -3614,6 +3658,8 @@ is the percentage which the value of equity interests of the second level entity
 “ship management services” has the same meaning as in section 13A(16).
 
 [29/2010 wef 22/02/2010]
+
+[This section is amended by section 11 of the Income Tax (Amendment) Act 2016 (Act 2 of 2016) wef 23/02/2010]
 
 ### Exemption of income of foreign trust
 
@@ -4155,7 +4201,7 @@ then the individual may, at any time at or before filing with the Comptroller a 
 
 “relevant amount”, in relation to an NOR individual, means —
 
-(a) nil if A ≥ G B; or
+(a) nil if A ≥ B; or
 
 (b) B — A if A < B,
 
@@ -4549,7 +4595,7 @@ for use outside the limits of the port of Singapore;
 
 [7/2007]
 
-(5) In determining the amount of the income of an approved shipping investment enterprise which is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
+(5) In determining the amount of the income of an approved shipping investment enterprise which is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
 
 (a) shall be taken into account notwithstanding that no claim for those allowances has been made; and
 
@@ -4851,7 +4897,7 @@ whichever is the earlier;
 
 (4) Where a company fails to satisfy the definition of “eligible family-owned investment holding company” in any basis period beginning on or after 1st April 2013, then this section shall not apply to the company in any subsequent basis period, even if it satisfies the definition in that subsequent basis period.
 
-### Exemption of income of approved personsarising from funds managed by fund manager in Singapore
+### Exemption of income of approved persons arising from funds managed by fund manager in Singapore
 
 13X\.—(1) Subject to such conditions as may be prescribed by regulations, there shall be exempt from tax such income as the Minister may by regulations prescribe of any approved person arising from funds managed in Singapore by any prescribed fund manager.
 
@@ -5409,7 +5455,7 @@ and approved by the Minister or such person as he may appoint;
 
 (a) any order made under section 13(12);
 
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
+(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be; or
 
 [34/2008 wef 01/04/2008]
 
@@ -5579,7 +5625,7 @@ is the percentage of all such payments made which are qualifying expenditures; o
 
 (b) in all other cases, 30%;
 
-“staff costs” means any salary, wages and other benefits paid or granted in respect of employment (excluding director’s fees), whether in money or otherwise, to any employee for carrying out the research and development, and includes ––
+“staff costs” means any salary, wages and other benefits paid or granted in respect of employment (excluding director’s fees), whether in money or otherwise, to any employee for carrying out the research and development, and includes —
 
 (a) expenses incurred for training or certifying the employee for the purpose of carrying out the research and development; and
 
@@ -5651,7 +5697,7 @@ in a case where the concessionary income derived by the person from the trade or
 
 ### Management expenses of investment companies
 
-14F\.—(1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of an approved investment company, there shall be allowed as a deduction any expenses for the management of its investments paid to any person who is a resident of or has a permanent establishment in Singapore and the amount of the deduction shall be ascertained by the formula
+14F\.—(1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of an approved investment company, there shall be allowed as a deduction any expenses for the management of its investments paid to any person who is a resident of or has a permanent establishment in Singapore and the amount of the deduction shall be ascertained by the formula:
 
 where A
 
@@ -6075,7 +6121,7 @@ is the number of years of the term of the designated lease for which the upfront
 
 [32/99]
 
-(2) Where an assignee has incurred any expenditure in acquiring the remaining term of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity, there shall, subject to this section, be allowed to the assignee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
+(2) Where an assignee has incurred any expenditure in acquiring the remaining term of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity, there shall, subject to this section, be allowed to the assignee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula:
 
 where C is —
 
@@ -6201,7 +6247,7 @@ and increased by any amount deemed to be income of the assignor under subsection
 
 (a) on the basis that treasury shares acquired by the company at an earlier point in time are deemed to be transferred first;
 
-(b) in accordance with the formula
+(b) in accordance with the formula:
 
 where A
 
@@ -6215,7 +6261,7 @@ C
 
 is the total cost of acquiring all the treasury shares held by the company immediately before the transfer to the person; or
 
-(c) on the basis of the aggregate cost of all treasury shares transferred to all persons within each regular interval under subsection (1) computed in accordance with the formula
+(c) on the basis of the aggregate cost of all treasury shares transferred to all persons within each regular interval under subsection (1) computed in accordance with the formula:
 
 where D
 
@@ -6527,6 +6573,36 @@ an annual allowance determined under subsection (6B) shall be made to him for th
 
 [49/2004]
 
+(15) Subject to section 18B, this section shall not apply to any capital expenditure incurred on or after 23rd February 2010 on the construction or purchase of an industrial building or structure.
+
+[29/2010 wef 23/02/2010]
+
+(16) Subject to subsection (18) and section 18B, no annual allowance shall be made under subsections (4), (5) and (6A) to a person who incurs capital expenditure on or before 22nd February 2010 on the construction or purchase of a building or structure which is not an industrial building or structure on 22nd February 2010 but is an industrial building or structure on or after 23rd February 2010.
+
+[29/2010 wef 23/02/2010]
+
+(17) Section 18(2) and (3) shall apply for the purpose of determining under subsection (16) whether a building or structure is an industrial building or structure on 22nd February 2010.
+
+[29/2010 wef 23/02/2010]
+
+(18) Notwithstanding subsection (16), annual allowances under subsection (6A)(a) shall be made to a person who incurs capital expenditure on or before 22nd February 2010 on a building or structure which is still under construction on 22nd February 2010 and which is to be an industrial building or structure upon completion of that construction, if the person —
+
+(a) on or before 22nd February 2010 —
+
+(i) has been granted the option to purchase the land or has entered into a sale and purchase agreement for the land on which the industrial building or structure is to be constructed;
+
+(ii) has entered into a lease agreement to lease the land on which the industrial building or structure is to be constructed; or
+
+(iii) has submitted an application to the Government or any statutory board —
+
+(A) to bid for the purchase therefrom of the land on which the industrial building or structure is to be constructed; or
+
+(B) to lease therefrom the land on which the industrial building or structure is to be constructed; and
+
+(b) on or before 31st December 2010, has made an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act (Cap. 232) for the development of the land comprising the construction work.
+
+[29/2010 wef 23/02/2010]
+
 ### Balancing allowances and charges for industrial buildings and structures
 
 17\.—(1) Where any of the events referred to in subsection (1A) occurs while a building or structure is an industrial building or structure or after it has ceased to be one and —
@@ -6589,9 +6665,17 @@ then an allowance or charge, to be known as a “balancing allowance” or a “
 
 [49/2004]
 
-### Definitions for sections 16and 17
+(8) Where allowances have been made under both sections 16 and 18C in respect of any industrial building or structure, then, for the purposes of subsections (4) and (5), the sale, insurance, salvage or compensation moneys in respect of that building or structure shall be such amount of those moneys as the Comptroller determines to be reasonable in the circumstances.
 
-18\.—(1) Subject to this section, in sections 10F, 16and 17, “industrial building or structure” means a building or structure in use —
+[29/2010 wef 23/02/2010]
+
+(9) Where the relevant interest in a building or structure in respect of which allowances have been made under section 16 is transferred at less than the open-market price, then for the purpose of determining the amount of any balancing charge under subsection (5), the relevant interest in the building or structure shall be treated as if it had been sold for an amount equal to the open-market price of the building or structure as at the date of transfer.
+
+[29/2010 wef 23/02/2010]
+
+### Definitions for sections 16, 17 and 18B
+
+18\.—(1) Subject to this section, in sections 10F, 16, 17 and 18B, “industrial building or structure” means a building or structure in use —
 
 (a) for the purposes of a trade carried on in a mill, factory or other similar premises;
 
@@ -6603,7 +6687,7 @@ then an allowance or charge, to be known as a “balancing allowance” or a “
 
 (e) for the purposes of a trade which consists of the storage of goods or materials on their arrival in Singapore;
 
-(f) for the purposes of a trade in intensive poultry production as may be approved by the Minister or such person as he may appoint;
+(f) for the purposes of a trade in intensive poultry production as may be approved on or before 22nd May 2010 by the Minister or such person as he may appoint;
 
 [29/2010 wef 23/02/2010]
 
@@ -6611,11 +6695,11 @@ then an allowance or charge, to be known as a “balancing allowance” or a “
 
 (h) for the purposes of a hotel on the island of Sentosa and approved before 1st September 2007 by the Minister or such person as he may appoint (referred to in this section as a Sentosa hotel);
 
-(i) for the purposes of a project for the promotion of the tourist industry (other than a hotel) in Singapore and approved by the Minister or such person as he may appoint subject to such conditions as he may impose; or
+(i) for the purposes of a project for the promotion of the tourist industry (other than a hotel) in Singapore and approved on or before 22nd May 2010 by the Minister or such person as he may appoint subject to such conditions as he may impose; or
 
 [29/2010 wef 23/02/2010]
 
-(j) for prescribed purposes and where such building or structure has been approved by the Minister or such person as he may appoint,
+(j) for prescribed purposes and where such building or structure has been approved on or before 22nd May 2010 by the Minister or such person as he may appoint subject to such conditions as he may impose,
 
 [29/2010 wef 23/02/2010]
 
@@ -6663,7 +6747,7 @@ then the whole building or structure and every part thereof shall be treated as 
 
 [7/2007]
 
-(8) In this section and sections 16and 17 —
+(8) In this section and sections 16, 17 and 18B —
 
 “capital expenditure”, in relation to the purchase of a building or structure, means the net price paid for the building or structure, but does not include the cost of land as determined to the satisfaction of the Comptroller;
 
@@ -6699,6 +6783,178 @@ and increased by any balancing charges made; or
 
 [7/79]
 
+### Transitional provisions for capital expenditure incurred on industrial buildings or structures on or after 23rd February 2010
+
+18B\.—(1) Notwithstanding section 16(15) but subject to subsection (11), where a person incurs on or after 23rd February 2010 capital expenditure on the construction of a building or structure which is to be an industrial building or structure upon the completion of the construction works, other than one referred to in subsection (2), and the person —
+
+(a) on or before 22nd February 2010 —
+
+(i) has been granted the option to purchase the land or has entered into a sale and purchase agreement for the land on which the industrial building or structure is to be constructed;
+
+(ii) has entered into a lease agreement to lease the land on which the industrial building or structure is to be constructed; or
+
+(iii) has submitted an application to the Government or any statutory board —
+
+(A) to bid for the purchase therefrom of the land on which the industrial building or structure is to be constructed; or
+
+(B) to lease therefrom the land on which the industrial building or structure is to be constructed; and
+
+(b) on or before 31st December 2010, has made an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act (Cap. 232) for the development of the land comprising the construction work,
+
+there shall be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
+
+(2) Notwithstanding section 16(15) but subject to subsection (11), where a person incurs on or after 23rd February 2010 capital expenditure on the construction of a building or structure which is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon completion of the construction works, there shall be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
+
+(3) Notwithstanding section 16(15), where a person —
+
+(a) on or before 22nd February 2010 —
+
+(i) has been granted an option to purchase, or has entered into a sale and purchase agreement for, a new building or structure which is to be an industrial building or structure upon purchase other than one referred to in subsection (4); or
+
+(ii) has been granted an option to acquire or has entered into an agreement to acquire the leasehold interest in such a building or structure; and
+
+(b) on or after 23rd February 2010, incurs capital expenditure on the purchase of the building or structure or of the leasehold interest therein,
+
+there shall be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
+
+(4) Notwithstanding section 16(15) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on the purchase of a new building or structure (including the purchase of a leasehold interest therein), and the building or structure is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the purchase or the completion of any renovation or refurbishment works carried out on the building or structure upon the purchase, there shall be made to that person an initial allowance and annual allowances in respect of the capital expenditure, as well as the capital expenditure incurred on such renovation or refurbishment works, both to be computed in accordance with section 16.
+
+(5) Notwithstanding section 16(15), where a person —
+
+(a) on or before 22nd February 2010 —
+
+(i) has been granted an option to purchase, or has entered into a sale and purchase agreement for, a building or structure (not being a new building or structure) which is to be an industrial building or structure upon the purchase other than one referred to in subsection (6); or
+
+(ii) has been granted an option to acquire or has entered into an agreement to acquire the leasehold interest in such a building or structure; and
+
+(b) on or after 23rd February 2010, incurs capital expenditure on the purchase of the building or structure or of the leasehold interest therein,
+
+there shall be made to that person annual allowances in respect of that capital expenditure computed in accordance with section 16.
+
+(6) Notwithstanding section 16(15) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on the purchase of a building or structure (not being a new building or structure), or of a leasehold interest therein, and the building or structure is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the purchase or the completion of any renovation or refurbishment works carried out on the building or structure upon the purchase, there shall be made to that person, in accordance with section 16 —
+
+(a) annual allowances in respect of the capital expenditure; and
+
+(b) an initial allowance and annual allowances in respect of capital expenditure incurred on such renovation or refurbishment works.
+
+(7) Notwithstanding section 16(15) and (16) but subject to subsection (11), where a person —
+
+(a) on or after 23rd February 2010, incurs capital expenditure on extension works carried out on an existing building or structure that (together with the extension thereto) is to be an industrial building or structure, other than one referred to in subsection (8), upon the completion of the extension works;
+
+(b) on or before 22nd February 2010, enters into a written agreement for a qualified person to carry out the extension works; and
+
+(c) on or before 31st December 2010, makes an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act (Cap. 232) for the development of the land comprising the extension works,
+
+there shall be made to that person, computed in accordance with section 16 —
+
+(i) an initial allowance and annual allowances in respect of the capital expenditure incurred on the extension works; and
+
+(ii) where the existing building or structure is not an industrial building or structure on 22nd February 2010, annual allowances in respect of any capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of that building or structure.
+
+(8) Notwithstanding section 16(15) and (16) but subject to subsection (11), where a person incurs on or after 23rd February 2010 capital expenditure on extension works to an existing building or structure, not being an industrial building or structure on or at any time before 22nd February 2010, that (together with the extension thereto) is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the completion of the extension works, there shall be made to that person, computed in accordance with section 16 —
+
+(a) an initial allowance and annual allowances in respect of the capital expenditure; and
+
+(b) annual allowances in respect of any capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of the existing building or structure.
+
+(9) Notwithstanding section 16(15) and (16) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on renovation or refurbishment works on an existing building or structure, and —
+
+(a) the building or structure is to be an industrial building or structure, other than one referred to in subsection (10), upon the completion of the renovation or refurbishment works; and
+
+(b) such renovation or refurbishment works are carried out pursuant to a written agreement entered into with a renovation contractor on or before 22nd February 2010,
+
+there shall be made to that person, computed in accordance with section 16 —
+
+(i) an initial allowance and annual allowances in respect of the capital expenditure incurred on the renovation or refurbishment works; and
+
+(ii) where the existing building or structure is not an industrial building or structure on 22nd February 2010, annual allowances in respect of the capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of that building or structure.
+
+(10) Notwithstanding section 16(15) and (16) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on renovation or refurbishment works on an existing building or structure, not being an industrial building or structure on or at any time before 22nd February 2010, that is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the completion of the renovation or refurbishment works, there shall be made to that person, computed in accordance with section 16 —
+
+(a) an initial allowance and annual allowances in respect of the capital expenditure; and
+
+(b) annual allowances in respect of any capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of the existing building or structure.
+
+(11) For the purposes of subsections (1), (2), (7) and (8), no allowance shall be made to a person in respect of any capital expenditure incurred on an industrial building or structure after the date of issuance of the temporary occupation permit for that building or structure or the end of the basis period for the year of assessment 2016, whichever is earlier.
+
+(12) For the purposes of subsections (4), (6), (9) and (10), no allowance shall be made to a person in respect of any capital expenditure incurred after the completion of the renovation or refurbishment works referred to in those subsections or the end of the basis period for the year of assessment 2016, whichever is the earlier.
+
+(13) No allowance shall be made under this section in respect of any capital expenditure incurred on the construction of a building or structure for which an allowance is made under section 18C.
+
+(14) In this section —
+
+“new building or structure” means a building or structure which —
+
+(a) has not previously been used by any person; and
+
+(b) was purchased by a person from another person who —
+
+(i) constructed that building or structure; and
+
+(ii) was not granted initial allowance in respect of that building or structure under section 16;
+
+“qualified person” means —
+
+(a) any person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act; or
+
+(b) any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
+
+[29/2010 wef 23/02/2010]
+
+### Initial and annual allowances for certain buildings and structures
+
+18C\.—(1) Where any person proposes to incur or has incurred on or after 23rd February 2010 qualifying capital expenditure on the construction or renovation of a building or structure on industrial land for which an application for planning permission or conservation permission is made to the competent authority in accordance with the Planning Act (Cap. 232) on or after 23rd February 2010, he may apply to the Minister or such person as he may appoint, between 1st July 2010 and 30th June 2015 (both dates inclusive) for such construction or renovation to be approved for the purposes of making an allowance under this section in respect of such expenditure incurred by him.
+
+(2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1), is satisfied that the construction or renovation of the building or structure on industrial land promotes the intensified use of such land for the purposes of such trade or business as may be prescribed by regulations, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
+
+(3) Where in the basis period for any year of assessment the person has incurred any qualifying capital expenditure on the approved construction or approved renovation, as the case may be, there shall be made to the person for the year of assessment in the basis period for which the expenditure was incurred an allowance to be known as an “initial allowance” equal to 25% of the expenditure.
+
+(4) Subject to subsections (5) and (6), where the person is, at the end of the basis period for any year of assessment, entitled to a relevant interest in the building or structure which is being used for the purposes of the specified trade or business and in respect of which qualifying capital expenditure is incurred, there shall be made to the person for that year of assessment an allowance to be known as an “annual allowance” equal to 5% of the qualifying capital expenditure incurred by him.
+
+(5) No allowance shall be made under subsection (4) for any year of assessment unless more than 80% of the total floor area of the building or structure is used, at the end of the basis period for that year of assessment, by any one person or partnership for the purposes of the specified trade or business.
+
+(6) Any annual allowance made to any person under subsection (4) in respect of an approved construction or approved renovation for any year of assessment shall not exceed the amount of qualifying capital expenditure remaining unallowed as at the beginning of the basis period for that year of assessment.
+
+(7) For the purposes of this section, qualifying capital expenditure incurred by any person on the approved construction or approved renovation, as the case may be, prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day he carries on that trade or business.
+
+(8) Where the person fails to comply with any condition imposed under subsection (2) in respect of the approved construction or approved renovation, the Minister or such person as he may appoint, may, by notice in writing, revoke the approval granted under that subsection.
+
+(9) Notwithstanding section 74(1) and (4), where an approval has been revoked under subsection (8), the Comptroller may, at any time, for the purpose of making good any loss of tax attributable to such revocation of approval, assess the person who has utilised the allowance made under this section at such amount or additional amount as according to his judgment ought to have been charged; and this subsection shall also apply, with the necessary modifications, to any assessment which results in any unabsorbed allowances or losses.
+
+(10) Where, in the basis period for any year of assessment, the specified trade or business for which purpose the building or structure is used, produces income that is exempt from tax as well as income chargeable to tax, the allowance for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+(11) A person who has incurred qualifying capital expenditure on the approved construction or approved renovation shall maintain and deliver to the Minister or such person he may appoint or the Comptroller, in such form and manner and within such reasonable time as the Minister, the person or the Comptroller may determine, the relevant records of the approved construction or approved renovation, and such other particulars as may be required for the purposes of this section.
+
+(12) In this section —
+
+“approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land approved under subsection (2);
+
+“industrial land” means any land zoned for the purpose of “Business 1” or “Business 2” (other than “Business 1 White” and “Business 2 White”) under the Master Plan, and includes such other land as may be approved by the Minister;
+
+“Master Plan” means the Master Plan as defined in the Planning Act (Cap. 232) which is effective on the date of the application for planning permission or conservation permission referred to in subsection (1);
+
+“qualifying capital expenditure” means the following types of capital expenditure which are incurred in respect of an approved construction or approved renovation, between 23rd February 2010 and the date of completion of that approved construction or approved renovation (both dates inclusive):
+
+(a) costs of feasibility study on the layout of the building or structure;
+
+(b) design fees of the building or structure;
+
+(c) costs of preparing plans for obtaining approval for the building or structure;
+
+(d) piling, construction and renovation costs;
+
+(e) demolition costs of an existing building or structure for which an allowance was not made under section 16;
+
+(f) legal and other professional fees in relation to the approved construction or approved renovation; and
+
+(g) stamp duties payable in respect of title of the building or structure;
+
+“relevant interest”, in relation to any qualifying capital expenditure incurred on an approved construction or approved renovation of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
+
+“specified trade or business” means the trade or business specified in a condition of approval under subsection (2) as one for which a building or structure shall be used upon completion of the approved construction or approved renovation, as the case may be.
+
+[29/2010 wef 23/02/2010]
+
 ### Initial and annual allowances for machinery or plant
 
 19\.—(1) Where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, there shall be made to him, on due claim for the year of assessment in the basis period for which the expenditure is incurred an allowance, to be known as an “initial allowance”, equal to one-fifth of that expenditure or such other allowance as may be prescribed either generally or for any person or class of persons in respect of any machinery or plant or class of machinery or plant.
@@ -6731,9 +6987,7 @@ and increased by any balancing charges made; or
 
 [28/80; 32/95; 53/2007]
 
-3(3) Notwithstanding subsection (1) or (2) or section 19A(1) or (1B), in respect of a motor car to which this subsection applies –
-
-3This Subsection will be amended as set out in section 15(b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
+3(3) Notwithstanding subsection (1) or (2) or section 19A(1) or (1B), in respect of a motor car to which this subsection applies —
 
 (a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure incurred in respect of that motor car or $35,000, whichever is the less;
 
@@ -6748,6 +7002,8 @@ and increased by any balancing charges made; or
 [53/2007 wef 06/12/2007]
 
 [27/2009 wef 29/12/2009]
+
+4This Subsection will be amended as set out in section 15(b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
 (4) Subsection (3) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms and which —
 
@@ -6837,7 +7093,7 @@ in a case where the concessionary income (as defined in section 14D(5)) derived 
 
 in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
-### Allowances of 3 years or 2 years write off for machinery and plant, and 100% write off for computer, prescribedoffice automation equipment and robot, etc.
+### Allowances of 3 years or 2 years write off for machinery and plant, and 100% write off for computer, prescribed office automation equipment and robot, etc.
 
 19A\.—(1) Notwithstanding section 19, where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purpose of that trade, profession or business, there shall be made to him, on due claim for any year of assessment and in lieu of the allowances provided by section 19, an annual allowance of 331/
 
@@ -6993,19 +7249,7 @@ there shall be made to him for a period of 3 years an annual allowance of 331/
 
 (c) a reference to a specified amount of the expenditure or payments is a reference to an amount computed in accordance with the following formula:
 
-A
-
-x
-
-B
-
-,
-
-C
-
-where
-
-A
+where A
 
 is the amount of allowance that could have been made against the income of the person under subsection (14B) if the income had been subject to tax at the rate specified in section 43(1)(a);
 
@@ -7017,13 +7261,17 @@ C
 
 is —
 
-(i) in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+(i)
 
-(ii) in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
+in a case where the concessionary income (as defined in section 14D(5)) derived by the person from the trade or business carried on by him is subject to tax at a single concessionary rate of tax, that rate; or
+
+(ii)
+
+in a case where the concessionary income derived by the person from the trade or business carried on by him is subject to tax at 2 or more concessionary rates of tax, the higher or highest of those rates.
 
 (15) In this section —
 
-“automation equipment” means any machinery or plant designed for the automation of functions or servicesin any office or factory within the meaning of section 5 of the Workplace Safety and Health Act (Cap. 354A);
+“automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory within the meaning of section 5 of the Workplace Safety and Health Act (Cap. 354A);
 
 “certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
 
@@ -7605,7 +7853,7 @@ in a case where the concessionary income derived by the person from the trade or
 
 ### Order of set-off of allowances
 
-22A\.—(1) Where for any year of assessment the allowances consist of allowances a person is entitled to or allowances made to a person under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 for that year of assessment and any previous year of assessment added to and deemed to form part of the corresponding allowance for the year of assessment under section 23(1), the allowances shall be deducted in the following order:
+22A\.—(1) Where for any year of assessment the allowances consist of allowances a person is entitled to or allowances made to a person under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 for that year of assessment and any previous year of assessment added to and deemed to form part of the corresponding allowance for the year of assessment under section 23(1), the allowances shall be deducted in the following order:
 
 (a) firstly, any balance of allowance from any previous year of assessment added to and deemed to form part of the corresponding allowance for the year of assessment under section 23(1); and
 
@@ -7621,19 +7869,19 @@ in a case where the concessionary income derived by the person from the trade or
 
 ### Carry forward of allowances
 
-23\.—(1) Where, in any year of assessment, full effect cannot, by reason of an insufficiency of gains or profits chargeable for that year of assessment, be given to any allowance falling to be made under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20, then, so long as the person entitled thereto continues to carry on the trade, profession or business in respect of the gains or profits of which the allowance falls to be made, the balance of the allowance shall, subject to subsection (3), be added to, and be deemed to form part of, the corresponding allowance, if any, for the next succeeding year of assessment, and, if no such corresponding allowance falls to be made for that year, shall be deemed to constitute the corresponding allowance for that year, and so on for subsequent years of assessment.
+23\.—(1) Where, in any year of assessment, full effect cannot, by reason of an insufficiency of gains or profits chargeable for that year of assessment, be given to any allowance falling to be made under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20, then, so long as the person entitled thereto continues to carry on the trade, profession or business in respect of the gains or profits of which the allowance falls to be made, the balance of the allowance shall, subject to subsection (3), be added to, and be deemed to form part of, the corresponding allowance, if any, for the next succeeding year of assessment, and, if no such corresponding allowance falls to be made for that year, shall be deemed to constitute the corresponding allowance for that year, and so on for subsequent years of assessment.
 
 [29/2010 wef 23/02/2010]
 
 [28/80; 26/93; 37/2002; 21/2003]
 
-(2) Where any person entitled to the allowances under sections 16and 17 in respect of an industrial building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
+(2) Where any person entitled to the allowances under sections 16, 17, 18B and 18C in respect of a building or structure derives income from the letting of that building or structure, subsection (1) shall, in relation to the allowances under those sections, apply to him so long as he continues to derive such income, whether or not he is carrying on a business in respect of the letting of the building or structure.
 
 [29/2010 wef 23/02/2010]
 
 [13/84]
 
-(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35(1), transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be, the amount of such allowance shall be deducted from the balance in subsection (1).
+(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35(1), transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be, the amount of such allowance shall be deducted from the balance in subsection (1).
 
 [Act 27/2009, wef Y/A 2009 & 2010:2009-ACT-27]
 
@@ -7706,6 +7954,14 @@ is the total amount payable in respect of the share.
 (4) No election may be made under subsection (3) unless before the sale in the case of the seller and after the sale in the case of the buyer the property is used in the production of income chargeable under the provisions of this Act and unless the machinery or plant was not leased by the seller to the buyer before the sale.
 
 [13/84]
+
+(4A) No election may be made under subsection (3) for the sale of an industrial building or structure for which an option to purchase is granted or a sale and purchase agreement is entered into on or after 23rd February 2010, or which is transferred on or after that date.
+
+[29/2010 wef 23/02/2010]
+
+(4B) Subsection (4A) does not apply to a transfer of property to which section 34C(8) and (9) apply.
+
+[29/2010 wef 23/02/2010]
 
 (5) Where a change occurs in a partnership of persons carrying on any trade, business or profession by reason of retirement or death, or the dissolution of the partnership as to one or more of the partners, or the admission of a new partner, and where no election is made under subsection (3), any property of the partnership shall be treated as if the property had been sold —
 
@@ -8363,6 +8619,14 @@ no deduction shall be given for any interest or other borrowing costs incurred b
 
 (8) Where there is a transfer of property from any amalgamating company to the amalgamated company on the date of amalgamation in respect of which allowances or writing-down allowances have been made to the amalgamating company under sections 16 to 21, the amalgamating company and the amalgamated company shall, subject to section 24(4), be deemed to have made an election under section 24(3), and section 24(3)(a) to (e) shall apply, with the necessary modifications, whether or not the amalgamated company is a company over which the amalgamating company has control, or the amalgamating company is a company over which the amalgamated company has control, or both the amalgamating company and amalgamated company are companies under the control of a common person.
 
+(8A) Where there is a transfer of a building or structure from any amalgamating company to the amalgamated company on the date of amalgamation for which an allowance has been made to the amalgamating company under section 18C, the annual allowances provided under that section shall continue to be available to the amalgamated company as if it had incurred the qualifying capital expenditure that was incurred in carrying out the approved construction or approved renovation, as the case may be, referred to in that section.
+
+[29/2010 wef 23/02/2010]
+
+(8B) Subsection (8A) shall not apply unless the building or structure is used before the transfer by the amalgamating company and after the transfer by the amalgamated company, in the production of income chargeable under the provisions of this Act.
+
+[29/2010 wef 23/02/2010]
+
 (9) In the application of section 24(3)(a) to (e) under subsection (8) —
 
 (a) a reference in that provision to a buyer is a reference to the amalgamated company; and
@@ -8531,7 +8795,7 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [21/2003]
 
-(2) There shall be deducted any allowance falling to be made under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 that is not fully deducted and which would otherwise be added to, and deemed to form part of, the corresponding allowance for the next succeeding year of assessment under section 23(1).
+(2) There shall be deducted any allowance falling to be made under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 that is not fully deducted and which would otherwise be added to, and deemed to form part of, the corresponding allowance for the next succeeding year of assessment under section 23(1).
 
 [29/2010 wef 23/02/2010]
 
@@ -8765,7 +9029,7 @@ is the transferred deduction transferred by him in that year of assessment.
 
 [49/2004]
 
-(7) For the purposes of any allowances made under section 16, 17, 19, 19A, 19B, 19C, 19D, 20 or 23, where —
+(7) For the purposes of any allowances made under section 16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D, 20 or 23, where —
 
 (a) any person is admitted to or withdraws from a limited liability partnership as a partner thereof; and
 
@@ -9257,7 +9521,7 @@ B
 
 is the lower rate of tax for that year of assessment;
 
-“allowances” means allowances under section 16, 17, 19, 19A, 19B, 19C, 19D, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
+“allowances” means allowances under section 16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
 
 [29/2010 wef 23/02/2010]
 
@@ -9271,7 +9535,7 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD, or the regulations made thereunder, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC or 43ZD, or the regulations made thereunder, as the case may be;
 
 [34/2008 wef 01/04/2008]
 
@@ -9431,7 +9695,7 @@ within such time and in such manner as the Comptroller may determine.
 
 (14) For the purposes of this section, subject to subsection (15) and sections 35, 37 and 37B, qualifying deductions, in relation to a transferor company, for each year of assessment, are —
 
-(a) any allowance falling to be made under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 for that year of assessment that is in excess of the transferor company’s income from all sources chargeable to tax for that year of assessment;
+(a) any allowance falling to be made under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 for that year of assessment that is in excess of the transferor company’s income from all sources chargeable to tax for that year of assessment;
 
 [29/2010 wef 23/02/2010]
 
@@ -9443,7 +9707,7 @@ within such time and in such manner as the Comptroller may determine.
 
 (15) Notwithstanding subsection (14), the following companies shall not be entitled to transfer the following items of qualifying deductions:
 
-(a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14)(a) (except in relation to allowances falling under sections 16 and 17) and (b);
+(a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14)(a) (except in relation to allowances falling under sections 16, 17, 18B and 18C) and (b);
 
 [29/2010 wef 23/02/2010]
 
@@ -9587,7 +9851,7 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 (8) For the purposes of this section, subject to sections 35 and 37, qualifying deductions, in relation to an individual, for each year of assessment, are —
 
-(a) any allowance falling to be made under section 16, 17, 19, 19A, 19C, 19D or 20 that is in excess of the individual’s income from all sources chargeable with tax for that year of assessment;
+(a) any allowance falling to be made under section 16, 17, 18B, 18C, 19, 19A, 19C, 19D or 20 that is in excess of the individual’s income from all sources chargeable with tax for that year of assessment;
 
 [29/2010 wef 23/02/2010]
 
@@ -9699,7 +9963,7 @@ or within such further time as the Comptroller may allow.
 
 (9) For the purposes of this section, subject to sections 35, 37 and 37B, qualifying deductions, in relation to any person, for each year of assessment, are —
 
-(a) any allowance falling to be made under section 16, 17, 19, 19A, 19B, 19C, 19D or 20 that is in excess of the person’s income from all sources chargeable to tax for that year of assessment and is not transferred under section 37C or 37D; and
+(a) any allowance falling to be made under section 16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 that is in excess of the person’s income from all sources chargeable to tax for that year of assessment and is not transferred under section 37C or 37D; and
 
 [29/2010 wef 23/02/2010]
 
@@ -9873,7 +10137,7 @@ is the aggregate of the amounts deducted by the transferor against his or her as
 
 (10) For the purposes of this section, subject to sections 35 and 37, qualifying deductions, in relation to an individual, for each year of assessment, are —
 
-(a) any allowance falling to be made under section 16, 17, 19, 19A, 19C, 19D or 20 that is in excess of the individual’s income from all sources chargeable to tax for that year of assessment and is not deducted under section 37E or transferred under section 37D; and
+(a) any allowance falling to be made under section 16, 17, 18B, 18C, 19, 19A, 19C, 19D or 20 that is in excess of the individual’s income from all sources chargeable to tax for that year of assessment and is not deducted under section 37E or transferred under section 37D; and
 
 [29/2010 wef 23/02/2010]
 
@@ -10183,7 +10447,7 @@ Deduction for children
 
 there shall be allowed in respect of each such child according to his age among those eligible, a deduction in accordance with the Fifth Schedule:
 
-Provided that in the case of any unmarried child incapacitated from maintaining himself by reason of physical or mental infirmity whose income was not more than $2,000 in that yearand in respect of whom —
+Provided that in the case of any unmarried child incapacitated from maintaining himself by reason of physical or mental infirmity whose income was not more than $2,000 in that year and in respect of whom —
 
 (A) a deduction is allowable under paragraph 1 of the Fifth Schedule, the deduction shall be increased to $3,500 (if the year of assessment is 2008), or $5,500 (if the year of assessment is 2009 or a subsequent year of assessment);
 
@@ -10588,8 +10852,6 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 [29/2010 wef 22/02/2010]
 
 (2A) For the purpose of subsection (2), in relation to income derived by a person as a public entertainer during the period from 22nd February 2010 to 31st March 2015 (both dates inclusive), the references to 15% shall be read as 10%.
-
-[29/2010 wef 22/02/2010]
 
 (3) Where any person is entitled to relief under this section and is also entitled to relief under section 40(1) or (4), he shall be entitled to whichever relief is the greater in respect of the income to which this section relates.
 
@@ -12477,13 +12739,9 @@ as that section applies to any interest paid by a person to another person not k
 
 (2) For the purpose of this section and subject to subsection (2A), the deduction of tax under section 45 shall be at the rate of 15%.
 
-[29/2010 wef 22/02/2010]
-
 [53/2007]
 
 (2A) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 10% of such income derived during the period from 22nd February 2010 to 31st March 2015 (both dates inclusive).
-
-[29/2010 wef 22/02/2010]
 
 (3) In this section, “public entertainer” has the same meaning as in section 40A.
 
@@ -14699,7 +14957,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009.]
+[Deleted by Act 27/2009 wef 29/12/2009]
 
 Part C
 
@@ -14880,7 +15138,7 @@ $4,000.
 
 20% of her earned income;
 
-(iv) fourth eligible child of the familywho is born on or after 1987 (other than a child adopted before 1st January 2004)
+(iv) fourth eligible child of the family who is born on or after 1987 (other than a child adopted before 1st January 2004)
 
 25% of her earned income;
 
@@ -16417,6 +16675,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
 ||Date of commencement|22 February 2010 (Section 5(b))|
+|257.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|23 February 2010 (Sections 19 to 22, 26, 27, 54(a), (b), (c), (e), (f), (g), 55(a), (b), (c))|
+|258.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 14/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|23 February 2010 (Section 28)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
