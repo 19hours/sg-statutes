@@ -490,11 +490,11 @@ PIONEER INDUSTRIES
 
 10\.—(1) The income of a pioneer enterprise in respect of its old trade or business shall be ascertained in accordance with the provisions of the Income Tax Act (Cap. 134) after making such adjustments as may be necessary in consequence of any direction given under section 9.
 
-(2) In determining the income of a pioneer enterprise referred to in subsection (1), the allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made.
+(2) In determining the income of a pioneer enterprise referred to in subsection (1), the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act shall be taken into account notwithstanding that no claim for such allowances has been made.
 
 [48/2004]
 
-(3) Where the tax relief period of a pioneer enterprise referred to in subsection (1) expires during the basis period for any year of assessment, for the purpose of determining the income in respect of its old trade or business and its new trade or business for that year of assessment, there shall be deducted allowances provided for in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act notwithstanding that no claim for such allowances has been made; and for the purpose of computing such allowances —
+(3) Where the tax relief period of a pioneer enterprise referred to in subsection (1) expires during the basis period for any year of assessment, for the purpose of determining the income in respect of its old trade or business and its new trade or business for that year of assessment, there shall be deducted allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act notwithstanding that no claim for such allowances has been made; and for the purpose of computing such allowances —
 
 (a) the allowances for that year of assessment shall be computed as if the old trade or business of the pioneer enterprise had not been deemed to have permanently ceased at the end of the tax relief period; and
 
@@ -510,11 +510,11 @@ PIONEER INDUSTRIES
 
 (b) such capital expenditure has been approved by the Minister as promoting or enhancing the economic or technological development of Singapore,
 
-the capital expenditure so incurred by the pioneer enterprise within its tax relief period in respect of any asset used for the purposes of its new trade or business shall, subject to such conditions as the Minister may impose, be deemed, for the purposes of sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134), to have been incurred on the day immediately following the last day of its tax relief period.
+the capital expenditure so incurred by the pioneer enterprise within its tax relief period in respect of any asset used for the purposes of its new trade or business shall, subject to such conditions as the Minister may impose, be deemed, for the purposes of sections 16, 17, 18, 18B, 18C, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134), to have been incurred on the day immediately following the last day of its tax relief period.
 
 [29/91; 48/2004]
 
-(6) Where a pioneer enterprise referred to in subsection (5) carries on a separate trade or business, and an industrial building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (5) shall apply to that building, plant or machinery.
+(6) Where a pioneer enterprise referred to in subsection (5) carries on a separate trade or business, and any building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (5) shall apply to that building, plant or machinery.
 
 [29/91; 11/2004]
 
@@ -522,7 +522,7 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 [29/91; 48/2004]
 
-(8) Where a pioneer enterprise referred to in subsection (5) or (7) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any industrial building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
+(8) Where a pioneer enterprise referred to in subsection (5) or (7) is the holder of 2 pioneer certificates in respect of different periods of time, and capital expenditure has been incurred in respect of any building, plant or machinery which is jointly used in carrying on the trade or business of the 2 pioneer industries, no deduction shall be made in respect of such expenditure under any of the provisions contained in sections 16, 17, 18, 18B, 18C, 19, 19A, 19B, 20, 21 and 22 of the Income Tax Act (Cap. 134) until after the expiration of the tax relief period that is later in time.
 
 [S 143/89]
 
@@ -536,7 +536,7 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 ### Comptroller to issue statement of income
 
-12\. For each year of assessment, the Comptroller shall issue to the pioneer enterprise a statement showing the amount of income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
+12\. For each year of assessment, the Comptroller shall issue to the pioneer enterprise a statement (to be included in a notice of any assessment served on the pioneer enterprise under section 76 of the Income Tax Act) showing the amount of income in respect of its old trade or business for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
 ### Exemption from income tax
 
@@ -1060,7 +1060,7 @@ EXPORT OF SERVICES
 
 ### Comptroller to issue statement of income
 
-44F\.—(1) For each year of assessment, the Comptroller shall issue to an export service company or firm a statement for that year of assessment showing the amount of income ascertained under section 44E(2) which will qualify for the relief provided by this section, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
+44F\.—(1) For each year of assessment, the Comptroller shall issue to an export service company or firm a statement (to be included in a notice of any assessment served on the company or firm under section 76 of the Income Tax Act) for that year of assessment showing the amount of income ascertained under section 44E(2) which will qualify for the relief provided by this section, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
 [22/87]
 
@@ -1654,7 +1654,7 @@ unless the Minister otherwise decides.
 
 ### Statement of qualifying income
 
-97O\. For each year of assessment, the Comptroller shall issue to the overseas enterprise a statement showing the amount of qualifying income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
+97O\. For each year of assessment, the Comptroller shall issue to the overseas enterprise a statement (to be included in a notice of any assessment served on the enterprise under section 76 of the Income Tax Act) showing the amount of qualifying income for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (Cap. 134) (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
 [36/93]
 
@@ -2711,6 +2711,12 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 30/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 April 2008|
+|42.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|23 February 2010|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
