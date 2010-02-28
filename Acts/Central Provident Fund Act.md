@@ -404,6 +404,32 @@ PRELIMINARY
 
 (2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
+(3) Where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008 (Act 22 of 2008) —
+
+(a) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(b), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(b), may likewise be done by, or will likewise apply to, a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act2008 with power in relation to the person for the purposes of this Act; and
+
+(b) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(c), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(c), may likewise be done by, or will likewise apply to, a donee under a lasting power of attorney registered under the Mental Capacity Act2008 with power in relation to the person for the purposes of this Act.
+
+[18/2009 wef 01/03/2010]
+
+[22/2010 wef 01/10/2010]
+
+(4) The Minister may, by regulations made under all or any of sections 23, 27Q, 39, 49A, 51, 56A, 57, 57F, 75(1) and 77(1), prescribe —
+
+(a) the persons to whom subsection (3) applies;
+
+(b) the provisions in this Act to which subsection (3)(a) applies;
+
+(c) the provisions in this Act to which subsection (3)(b) applies; and
+
+(d) how any provision referred to in paragraph (b) or (c) will be modified in its application to either or both of the following:
+
+(i) a deputy appointed or deemed to be appointed for any person referred to in paragraph (a) by the High Court under the Mental Capacity Act2008 with power in relation to that person for the purposes of this Act;
+
+(ii) a donee under a lasting power of attorney registered under the Mental Capacity Act2008 with power in relation to any person referred to in paragraph (a) for the purposes of this Act.
+
+[18/2009 wef 01/03/2010]
+
 ### Establishment and constitution of Central Provident Fund Board
 
 3\.—(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of —
@@ -958,7 +984,7 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [22/2010 wef 01/01/2011]
 
-(2) Subject to this section and sections 19 and 19A, a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
+(2) Subject to this section and sections 19 and 19A, a member of the Fund shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
 (a) has attained the age of 55 years;
 
@@ -972,11 +998,17 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) in such other manner as the Minister may approve;
 
-(e) is of unsound mind;
+(e) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
 (g) is suffering from a terminal illness or disease.
+
+[25/2008 wef 01/11/2008]
+
+[18/2009 wef 01/03/2010]
 
 (2A) A member of the Fund who is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund shall, at the time of the withdrawal and in accordance with such directions as the Minister may give in any particular case —
 
@@ -1032,7 +1064,9 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (B) in such other manner as the Minister may approve;
 
-(ii) of unsound mind;
+(ii) mentally disordered and incapable of managing himself or themselves, or his or their affairs;
+
+[21/2008 wef 01/03/2010]
 
 (iii) suffering from a medical condition leading to a severely impaired life expectancy; or
 
@@ -1074,7 +1108,9 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (ii) in such other manner as the Minister may approve;
 
-(b) of unsound mind;
+(b) mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (ba) suffering from a medical condition leading to a severely impaired life expectancy;
 
@@ -1110,7 +1146,9 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (ii) in such other manner as the Minister may approve;
 
-(b) is of unsound mind;
+(b) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (c) is suffering from a medical condition leading to a severely impaired life expectancy;
 
@@ -1314,7 +1352,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Restrictions on withdrawal from medisave account
 
-16\.—(1) Notwithstanding anything in section 15, a member of the Fund, or a committee of his person or of his estate appointed under the Mental Disorders and Treatment Act (Cap. 178), shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d), (e), (f) or (g), (3) or (4) if the amount in his medisave account does not exceed the prescribed amount.
+16\.—(1) Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d), (e), (f) or (g), (3) or (4) if the amount in his medisave account does not exceed the prescribed amount.
 
 [15/2006 wef 01/07/2006]
 
@@ -2592,7 +2630,7 @@ then, subject to subsection (2) and any regulations made under section 77(1), th
 
 ### Order of court for sale of investments
 
-27H\. Where —
+27H\.—(1) Where —
 
 (a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
 
@@ -4067,6 +4105,16 @@ including the payment of costs, fees or other incidental expenses arising from s
 (d) to prescribe the procedure for the withdrawal of amounts from the Fund;
 
 (e) to prescribe the evidence to be produced and the person, officer or authority to whom the evidence is to be produced for the purposes of section 15;
+
+(ea) to provide for the exercise of the court’s powers under section 20 of the Mental Capacity Act 2008 (Act 22 of 2008) in relation to —
+
+(i) the executing under section 15(6A) or 25(1), on a member’s behalf, of any memorandum under section 25(1); and
+
+(ii) where any such memorandum has been executed, or any nomination has been made under section 25(1), by a member or by the court on behalf of a member, the revoking, on the member’s behalf, of that memorandum or nomination, as the case may be;
+
+[18/2009 wef 01/03/2010]
+
+[22/2010 wef 01/10/2010]
 
 (f) to prescribe the procedure to be followed when contributions are paid into the Fund;
 
@@ -5879,8 +5927,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (11) Council for Private Education.
 
-[S 581/2009 wef 01/12/2009]
-
 (12) Defence Science and Technology Agency.
 
 (13) Economic Development Board.
@@ -6790,6 +6836,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 September 2009 (sections 2(b) and (c), 3, 5(a), (d), (e), (g) to (l), (n) and (p), 10, 12, 13(b) and 14)|
 |166.|**G.N. No. S 581/2009—Central Provident Fund Act (Amendment of First Schedule) Notification 2009**|
 ||Date of commencement|1 December 2009|
+|167.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
+||Date of First Reading|25 May 2009|
+|||(Bill No. 11/2009 published on 25 May 2009)|
+||Date of Second and Third Readings|20 July 2009|
+||Date of commencement|28 February 2010 (section 19(c))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
