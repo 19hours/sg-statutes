@@ -122,7 +122,7 @@
 
 - [47 Transitional and saving provisions](#Transitional-and-saving-provisions)
 
-[**THE SCHEDULE the Advisory Council**](#THE-SCHEDULE)
+[**THE SCHEDULE The Advisory Council**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -712,7 +712,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the executor, administrator or next-of-kin of a deceased person;
 
-(b) the committee of the estate of a mentally disordered person appointed under the Mental Disorders and Treatment Act (Cap. 178).
+(b) the deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008, with power to consent to such disclosure.
+
+[21/2008 wef 01/03/2010]
 
 ### Service of documents
 
@@ -772,7 +774,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Section 6(3)
 
-the Advisory Council
+The Advisory Council
 
 1.—(1) Subject to this paragraph, every member of the Council shall hold and vacate his office in accordance with the terms of his appointment and shall, on ceasing to be a member, be eligible for reappointment.
 
@@ -819,3 +821,9 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|27 March 2000|
 |2.|**2001 Revised Edition—Medical and Elderly Care Endowment Schemes Act**|
 ||Date of operation|31 December 2001|
+|3.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
