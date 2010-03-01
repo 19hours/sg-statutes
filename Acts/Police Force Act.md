@@ -2208,7 +2208,9 @@ and where a direction is given under paragraph (b), the Compensation Board shall
 
 (b) has been sentenced to imprisonment for a term exceeding 6 months and has not received a free pardon; or
 
-(c) is a person found or declared under any written law to be of unsound mind.
+(c) is mentally disordered and incapable of managing himself or his affairs.
+
+[21/2008 wef 01/03/2010]
 
 (6) Where a person ceases to be a member of the panel, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy, but the existence of any vacancy in the panel shall not invalidate the acts of any Compensation Board.
 
@@ -2794,6 +2796,12 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 |||(Bill No. 8/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|9 October 2009|
+|6.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Police Force Act
