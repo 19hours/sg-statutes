@@ -210,6 +210,8 @@ and shall be signed by these persons.
 
 (h) to undertake the promotion of science (including biomedicine and metrology), engineering and technology among youths and to create, foster and encourage public awareness and understanding of the importance of science and technology in Singapore;
 
+[54/2007 wef 01/01/2008]
+
 (i) to create, develop, apply for, acquire and hold intellectual property and rights and enter into arrangements for the commercial application of any such intellectual property and rights on such terms as to royalties or otherwise as the Agency thinks fit;
 
 [54/2007 wef 01/01/2008]
@@ -217,6 +219,8 @@ and shall be signed by these persons.
 (j) to represent Singapore internationally in respect of matters relating to science (including biomedicine and metrology), engineering and technology;
 
 [26/2002]
+
+[54/2007 wef 01/01/2008]
 
 (k) to serve as the national body in the area of metrology, and to advise the Government and industrial, commercial and other organisations in respect of matters relating to metrology; and
 
@@ -230,8 +234,6 @@ and shall be signed by these persons.
 
 (a) have regard to the needs of Singapore and its resources;
 
-[54/2007 wef 01/01/2008]
-
 (aa) have regard to the policies and directions of the Research, Innovation and Enterprise Council established under the National Research Fund Act 2006; and
 
 [17/2006 wef 22/08/2006]
@@ -239,6 +241,8 @@ and shall be signed by these persons.
 (b) promote developments, commercial applications and innovation in areas of science (including biomedicine and metrology), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
 
 [18/2000; 26/2002]
+
+[54/2007 wef 01/01/2008]
 
 (3) In addition to the functions specified in subsection (1), the Agency may undertake such other functions as the Minister may assign to the Agency and in so doing, the Agency shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Agency in respect of such additional functions.
 
@@ -352,7 +356,7 @@ and shall be signed by these persons.
 
 [8A
 
-[5/2002 wef 29/07/2002]
+[5/2002]
 
 ### Bank accounts and application of revenue
 
@@ -440,7 +444,7 @@ and shall be signed by these persons.
 
 ### Public servants
 
-18\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224)
+18\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 [16
 
@@ -566,7 +570,7 @@ pending or existing immediately before the appointed day by or against the Board
 
 FIRST SCHEDULE
 
-Section 5.
+Section 5
 
 Constitution and proceedings of Agency
 
@@ -628,7 +632,9 @@ Disqualification from membership
 
 11. No person shall be appointed or shall continue to hold office as a member if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -636,7 +642,7 @@ Disqualification from membership
 
 Disclosure of interest by members
 
-12.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Agency shall disclose the nature of his interest at the first meeting of the Agency at which he is present after the relevant facts have come to his knowledge;
+12.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Agency shall disclose, the nature of his interest at the first meeting of the Agency at which he is present after the relevant facts have come to his knowledge.
 
 (2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Agency and, after the disclosure, that member shall not take part in any deliberation of the Agency with respect to that transaction or project.
 
@@ -674,7 +680,7 @@ Validity of acts
 
 SECOND SCHEDULE
 
-Section 14.
+Section 14
 
 Financial provisions
 
@@ -758,7 +764,19 @@ Agency for Science, Technology and Research Act
 
 (CHAPTER 5A)
 
-This Legislative History is provided for the convenience of users of the Agency for Science, Technology and Research Act. It is not part of this Act.
+formerly known as
+
+
+
+
+NATIONAL SCIENCE AND TECHNOLOGY BOARD ACT
+
+
+
+
+(CHAPTER 201A)
+
+This Legislative History is provided for the convenience of users of the Agency for Science, Technology and Research Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -811,6 +829,12 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|11.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Agency for Science, Technology and Research Act
