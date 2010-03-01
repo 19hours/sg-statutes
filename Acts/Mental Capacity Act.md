@@ -496,7 +496,23 @@ confers no authority.
 
 (b) any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P’s condition.
 
-(9) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not execute a will for P.
+(9) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not —
+
+(a) make, on P’s behalf, any nomination under section 49L(2) or 49M(2) of the Insurance Act (Cap. 142);
+
+(b) where any nomination under section 49L(2) or 49M(2) of the Insurance Act has been made by P or by the court on P’s behalf, revoke, on P’s behalf, that nomination under section 49L(7) or 49M(4), as the case may be, of that Act; or
+
+(c) execute a will for P.
+
+[3/2009 wef 01/03/2010]
+
+(9A) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not —
+
+(a) execute under section 15(6A) or 25(1) of the Central Provident Fund Act (Cap. 36), on P’s behalf, any memorandum under section 25(1) of that Act; or
+
+(b) where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, revoke, on P’s behalf, that memorandum or nomination, as the case may be.
+
+[18/2009 wef 01/03/2010]
 
 (10) Notwithstanding any other provision of this Act, a person dealing with a donee in matters relating to P’s property may require the donee to produce a certificate from a registered medical practitioner stating that P’s lack of capacity is likely to be permanent, and if the donee fails to produce such certificate, the person may refuse to accept the donee’s authority to make decisions for P in such matters.
 
@@ -746,7 +762,23 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (h) the settlement of any of P’s property by way of trust, whether for P’s benefit or for the benefit of others;
 
+(ha) the making, on P’s behalf, of any nomination under section 49L(2) or 49M(2) of the Insurance Act (Cap. 142);
+
+[3/2009 wef 01/03/2010]
+
+(hb) where any nomination under section 49L(2) or 49M(2) of the Insurance Act has been made by P or on P’s behalf, the revoking, on P’s behalf, of that nomination under section 49L(7) or 49M(4), as the case may be, of that Act;
+
+[3/2009 wef 01/03/2010]
+
 (i) the execution for P of a will;
+
+(ia) the executing under section 15(6A) or 25(1) of the Central Provident Fund Act (Cap. 36), on P’s behalf, of any memorandum under section 25(1) of that Act;
+
+[18/2009 wef 01/03/2010]
+
+(ib) where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, the revoking, on P’s behalf, of that memorandum or nomination, as the case may be;
+
+[18/2009 wef 01/03/2010]
 
 (j) the maintenance, education, benefit and advancement of P’s spouse, P’s parent, a child of P below 21 years of age or an intellectually disabled child of P;
 
@@ -826,7 +858,23 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (a) disposition of P’s property by making gifts;
 
+(aa) making, on P’s behalf, of any nomination under section 49L(2) or 49M(2) of the Insurance Act (Cap. 142);
+
+[3/2009 wef 01/03/2010]
+
+(ab) where any nomination under section 49L(2) or 49M(2) of the Insurance Act has been made by P or by the court on P’s behalf, revoking, on P’s behalf, of that nomination under section 49L(7) or 49M(4), as the case may be, of that Act;
+
+[3/2009 wef 01/03/2010]
+
 (b) execution for P of a will;
+
+(ba) executing under section 15(6A) or 25(1) of the Central Provident Fund Act (Cap. 36), on P’s behalf, of any memorandum under section 25(1) of that Act;
+
+[18/2009 wef 01/03/2010]
+
+(bb) where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, revoking, on P’s behalf, of that memorandum or nomination, as the case may be; or
+
+[18/2009 wef 01/03/2010]
 
 (c) carrying out or continuation of —
 
@@ -889,8 +937,6 @@ EXCLUDED DECISIONS AND DECLARATORY PROVISIONS
 (j) making or revoking an advance medical directive under section 3 or 7 of the Advance Medical Directive Act (Cap. 4A);
 
 (k) making or revoking a gift of a body or any part thereof under section 3 or 9 of the Medical (Therapy, Education and Research) Act (Cap. 175);
-
-(l) making or revoking a nomination under section 25 of the Central Provident Fund Act (Cap. 36);
 
 (m) such other matter as may be prescribed.
 
