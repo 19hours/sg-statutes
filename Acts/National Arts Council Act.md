@@ -430,7 +430,9 @@ Disqualification from membership
 
 9. No person shall be appointed or shall continue to hold office as a member if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -568,7 +570,7 @@ National Arts Council Act
 
 (CHAPTER 193A)
 
-This Legislative History is provided for the convenience of users of the National Arts Council Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the National Arts Council Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -591,3 +593,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (item 1(32) of the Second Schedule — amendment of National Arts Council Act)|
