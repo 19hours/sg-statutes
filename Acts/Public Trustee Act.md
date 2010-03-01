@@ -114,9 +114,13 @@ Establishment of Public Trustee
 
 3\.—(1) The Minister shall appoint a fit person to the office of Public Trustee, who shall hold office during his pleasure, and receive such salary or fees, and be appointed on such terms, as the Minister determines.
 
+[7/1997 wef 01/10/1997]
+
 (2) The Minister may appoint such fit and proper persons to be Assistant Public Trustees and other officers of the Public Trustee as he considers necessary for the purposes of this Act and the Assistant Public Trustees and other officers shall hold office upon such terms, and be remunerated at such rates and in such manner, as the Minister may determine.
 
 Any reference in this Act or in any other written law to officers or officer of the Public Trustee shall include an Assistant Public Trustee.
+
+[7/1997 wef 01/10/1997]
 
 ### Corporation sole
 
@@ -126,7 +130,9 @@ Any reference in this Act or in any other written law to officers or officer of 
 
 (4) The salary or remuneration of the Public Trustee and his officers and such other expenses of executing his office or otherwise carrying this Act into effect as are sanctioned by the Minister shall be paid out of the Consolidated Fund.
 
-(5) The Public Trustee and every officer of the Public Trustee is hereby declared to be a public servant within the meaning of the Penal Code [Cap. 224].
+[7/1997 wef 01/10/1997]
+
+(5) The Public Trustee and every officer of the Public Trustee is hereby declared to be a public servant within the meaning of the Penal Code (Cap. 224).
 
 Powers and Duties of Public Trustee
 
@@ -140,7 +146,15 @@ Powers and Duties of Public Trustee
 
 (c) be appointed trustee by a court of competent jurisdiction.
 
-(1A) In addition to the powers and duties under subsection (1), the Public Trustee may undertake such other functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign to him.
+(1A) In addition to the powers and duties under subsection (1), the Public Trustee may —
+
+(a) undertake such functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign him;
+
+(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity.
+
+[15/2011 wef 01/05/2011]
+
+[22/2008 wef 01/03/2010]
 
 (2) Subject to and in accordance with this Act and the rules made thereunder, the Public Trustee may act either alone or jointly with any person or body of persons in any capacity to which he is appointed in pursuance of this Act, and shall have all the same powers, duties and liabilities, and be entitled to the same rights and immunities and be subject to the control and orders of the court, as a private trustee acting in the same capacity.
 
@@ -492,3 +506,9 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (Item (29) of the First Schedule – Amendment of Public Trustee Act)|
+|20.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
