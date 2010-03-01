@@ -2946,7 +2946,7 @@ Effect of bankruptcy on antecedent transactions
 
 [6/2009]
 
-### Meaning of “associate”
+### Meaning of "associate"
 
 101\.—(1) For the purposes of sections 99 and 100, any question whether a person is an associate of another person shall be determined in accordance with this section.
 
@@ -4032,7 +4032,9 @@ Exemption from stamp duty
 
 (b) a firm may act by any of its members;
 
-(c) a mentally disordered person or lunatic may act by his committee.
+(c) a person who lacks capacity may act by a deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 with powers in relation to him for the purposes of this Act.
+
+[21/2008 wef 01/03/2010]
 
 ### Access to bankrupt’s books
 
@@ -4357,6 +4359,18 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of commencement|18 May 2009|
 |19.|**2009 Revised Edition—Bankruptcy Act**|
 ||Date of operation|31 October 2009|
+|20.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
+|21.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
