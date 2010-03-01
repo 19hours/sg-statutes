@@ -66,13 +66,7 @@
 
 [**Part VII**](#Part-VII)
 
-- [23 (Repealed)](#Repealed)
-
-- [24 (Repealed)](#Repealed)
-
-- [25 (Repealed)](#Repealed)
-
-- [26 (Repealed)](#Repealed)
+[**[Repealed by Act 4/2005 wef 01/08/2005]**](#[Repealed-by-Act-4/2005-wef-01/08/2005])
 
 [**Part VIII GENERAL**](#Part-VIII)
 
@@ -366,13 +360,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD
 
 ## PART VII
 
-23\. [Repealed by Act 4/2005 wef 01/08/2005]
-
-24\. [Repealed by Act 4/2005 wef 01/08/2005]
-
-25\. [Repealed by Act 4/2005 wef 01/08/2005]
-
-26\. [Repealed by Act 4/2005 wef 01/08/2005]
+[Repealed by Act 4/2005 wef 01/08/2005]
 
 ## PART VIII
 
@@ -482,9 +470,9 @@ Constitution and Proceedings of Board
 
 (b) has been sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon; or
 
-(c) is of unsound mind.
+(c) is mentally disordered and incapable of managing himself or his affairs.
 
-[4/2005 wef 01/08/2005]
+[21/2008 wef 01/03/2010]
 
 10.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
 
@@ -693,3 +681,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 55/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 August 2005|
+|8.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (item 1(34) of the Second Schedule — Amendment of National Parks Board Act)|
