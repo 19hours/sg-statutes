@@ -424,17 +424,9 @@ Computation of compensation
 
 (ii) one or more of the dependants of the deceased employee and in such proportion as the Commissioner thinks fit, except that where a will has been produced, such payment may instead be made directly to the estate of the deceased employee; or
 
-“
-
-1(iii) any committee or committees of the employee and estate of the employee appointed under the Mental Disorders and Treatment Act (Cap. 178) where the employee has become mentally incapacitated;
-
-1Sub-paragraph (iii) of section 9(1A)(a) will be deleted and substituted by the following sub-paragraph when item 1(54)(a) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
 (iii) where the employee has become mentally incapacitated, any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment;
 
-”.
+[21/2008 wef 01/03/2010]
 
 (b) take into account any amount paid otherwise than in accordance with subsection (1) in assessing the compensation payable under this Act if he considers it fair and reasonable to do so.
 
@@ -454,17 +446,11 @@ Computation of compensation
 
 (a) any one or more of the dependants of the employee; or
 
-2(b) any committee or committees of the employee and estate of the employee appointed under the Mental Disorders and Treatment Act (Cap. 178).
+(b) any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment.
 
 [5/2008]
 
-2Paragraph (b) of section 9(4A) will be deleted and substituted by the following paragraph when item 1(54)(a) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
-(b) any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment.
-
-”.
+[21/2008 wef 01/03/2010]
 
 (5) Where any lump sum deposited with the Commissioner is payable to a person who is under any legal disability or in any other case where the Commissioner considers it desirable to do so, the Commissioner may, in his discretion, order such sum to be invested, applied or otherwise dealt with for the benefit of that person in such manner and for such period as the Commissioner may determine.
 
@@ -796,17 +782,11 @@ Insurance and other general provisions
 
 [5/2008]
 
-3(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of any committee or committees of the employee and estate of the employee required under the Mental Disorders and Treatment Act (Cap. 178).
+(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of any deputy for the employee under the Mental Capacity Act 2008.
 
 [5/2008]
 
-3The words “committee or committees of the employee and estate of the employee required under the Mental Disorders and Treatment Act (Cap. 178)” in section 22(2) will be substituted with the following words when item 1(54)(b) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
-deputy for the employee under the Mental Capacity Act 2008
-
-”.
+[21/2008 wef 01/03/2010]
 
 ### Compulsory insurance against employer’s liability
 
@@ -972,15 +952,9 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) with the leave of the Commissioner, by any other person authorised in writing by that person;
 
-4(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178) to manage his property;
+(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008;
 
-4The words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in section 27(1)(ba) will be substituted with the following words when item 1(54)(c) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
-deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008
-
-”.
+[21/2008 wef 01/03/2010]
 
 (bb) where the person is dead — with the leave of the Commissioner, by any of his dependants or his estate, whether or not the estate has obtained a grant of representation;
 
@@ -1022,17 +996,11 @@ deputy appointed or deemed to be appointed for him by the High Court under the M
 
 (b) where the employee is dead, to or for the benefit of any one or more of the deceased employee’s dependants or to the estate of the deceased employee where a will has been produced, as the Commissioner deems fit, or where the deceased employee has no dependants, to the Workers’ Fund; or
 
-5(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178) to manage the employee’s property, as the Commissioner deems fit.
+(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008.
 
 [5/2008]
 
-5The words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in section 28A(2)(c) will be substituted with the following words when item 1(54)(d) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
-deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008
-
-”.
+[21/2008 wef 01/03/2010]
 
 ### Appeal from decision of Commissioner
 
@@ -2760,3 +2728,8 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of commencement|1 April 2008|
 |9.|**2009 Revised Edition—Work Injury Compensation Act**|
 ||Date of operation|31 July 2009|
+|10.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+||Date of Second and Third Readings|16 September 2009|
+||Date of commencement|1 March 2010|
