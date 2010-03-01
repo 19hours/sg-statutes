@@ -536,7 +536,9 @@ there have also been deposited with him the coupons so wanting at the time when 
 
 (a) in relation to a security transferable by means of a bearer certificate or to a coupon, includes the person holding the certificate or coupon; and
 
-(b) in relation to a security which is registered in the name of a deceased person, or of any person who, by reason of bankruptcy, unsoundness of mind or any other disability, is incapable of transferring the security, means the personal representative, trustee in bankruptcy or other person entitled to transfer the security.
+(b) in relation to a security which is registered in the name of a deceased person, or of any person who, by reason of bankruptcy, mental disorder or any other disability, is incapable of transferring the security, means the personal representative, trustee in bankruptcy or other person entitled to transfer the security.
+
+[21/2008 wef 01/03/2010]
 
 (6) The holder of a security or coupon shall be deemed for the purposes of this Part to be a nominee in respect thereof if, as respects the exercise of any rights in respect thereof, he is not entitled to exercise those rights except in accordance with instructions given by some other person.
 
@@ -1320,7 +1322,9 @@ Import and export
 
 9\. Paragraphs 3, 4 and 5 of Part II shall apply also to offences punishable by virtue of this Part.
 
-10\. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act (Cap. 70), any police officer as defined in the Police Force Act (Cap. 235), and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
+10. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act (Cap. 70), any police officer as defined in the Police Force Act (Cap. 235), and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
+
+[24/95; 42/99]
 
 ## LEGISLATIVE HISTORY
 
@@ -1404,6 +1408,12 @@ This Legislative History is provided for the convenience of users of the Exchang
 ||Date of commencement|1 January 2003|
 |25.|**G. N. No. S 531/2003—Exchange Control (Continuance of Act) Notification 2003**|
 ||Date of commencement|1 January 2004|
+|26.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Exchange Control Act
