@@ -174,9 +174,17 @@ REMOVAL OF ORGAN AFTER DEATH
 
 (c) who is below 21 years of age unless the parent or guardian has consented to such removal; or
 
-(e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was not of sound mind, unless the parent or guardian has consented to such removal.
+(d) [Deleted by Act 14/2009 wef 01/11/2009]
+
+(e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was mentally disordered, unless the parent or guardian has consented to such removal.
 
 (f) [Deleted by Act 2/2008 wef 01/08/2008]
+
+[1/2004]
+
+[2/2008 wef 01/08/2008]
+
+[14/2009 wef 01/11/2009]
 
 (3) In this section, “permanent resident” includes —
 
@@ -266,6 +274,8 @@ PROHIBITION OF TRADING IN ORGANS AND BLOOD
 
 14\.—(1) Subject to subsections (3) and (4), a contract or arrangement under which a person agrees, for valuable consideration, whether given or to be given to himself or to another person, to the sale or supply of any organ or blood from his body or from the body of another person, whether before or after his death or the death of the other person, as the case may be, shall be void.
 
+[14/2009 wef 01/11/2009]
+
 (2) A person who enters into a contract or arrangement of the kind referred to in subsection (1) and to which that subsection applies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2A) Any person who —
@@ -288,7 +298,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) a contract or arrangement providing only for the reimbursement of any expenses necessarily incurred by a person in relation to the removal of blood in accordance with the provisions of any other written law;
 
-(b) any scheme introduced or approved by the Government granting medical benefits or privileges to any organ or blood donor and any member of the donor’s family or any person nominated by the donor ; and
+(b) any scheme introduced or approved by the Government granting medical benefits or privileges to any organ or blood donor and any member of the donor’s family or any person nominated by the donor; and
 
 (c) any contract, arrangement or valuable consideration providing only for the defraying or reimbursing, in money or money’s worth, of such costs or expenses that may be reasonably incurred by a person in relation to —
 
@@ -302,9 +312,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) The Minister may, by notification in theGazette, declare that subsection (1) or (2A) shall not apply to the sale or supply of a specified class or classes of product derived from any organ or blood that has been subjected to processing or treatment.
 
+[14/2009 wef 01/11/2009]
+
 (5) A person who as vendor or supplier enters into a contract or arrangement for the sale or supply of a product derived from any organ or blood that has been subjected to processing or treatment, other than such a product which is of a class declared under subsection (4), shall be guilty of an offence if the organ or blood from which the product was derived was obtained under a contract or arrangement that is void by reason of subsection (1), and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (6) Nothing in this section shall render inoperative a consent or authority given or purporting to have been given under this Act in relation to any organ or blood from the body of a person or in relation to the body of a person if a person acting in pursuance of the consent or authority did not know and had no reason to know that the organ or blood or the body was the subject-matter of a contract or arrangement referred to in subsection (1) or (2A).
+
+[14/2009 wef 01/11/2009]
 
 [ACT Transplantation and Anatomy 1977, s. 40]
 
@@ -344,11 +358,15 @@ LIVING DONOR ORGAN TRANSPLANTS
 
 (a) the person from whom the specified organ is to be removed has given his consent to such removal;
 
-(b) the person is of sound mind and, notwithstanding his age, is able to understand the nature and consequence of the medical procedures he has to undergo as a result of his donation of the specified organ; and
+(b) the person is not mentally disordered and, notwithstanding his age, is able to understand the nature and consequence of the medical procedures he has to undergo as a result of his donation of the specified organ; and
+
+[21/2008 wef 01/03/2010]
 
 (c) the consent referred to in paragraph (a) —
 
 (i) is not given pursuant to any contract or arrangement that is prohibited under section 14; and
+
+[14/2009 wef 01/11/2009]
 
 (ii) is not given or obtained by virtue of any fraud, duress or undue influence.
 
@@ -783,6 +801,12 @@ This Legislative History is provided for the convenience of users of the Human O
 |||(Bill No. 3/2009 published on 19 January 2009)|
 ||Date of Second and Third Readings|24 March 2009|
 ||Date of commencement|1 November 2009|
+|9.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (Item 1(19) of the Second Schedule – Amendment of Human Organ Transplant Act)|
 ## COMPARATIVE TABLE
 
 Human Organ Transplant Act
