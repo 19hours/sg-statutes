@@ -142,15 +142,15 @@
 
 - [61 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-[**FIRST SCHEDULE Default Provisions for Limited Liability Partnerships**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Default provisions for limited liability partnerships**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Conversion from Firm to Limited Liability Partnership**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Conversion from firm to limited liability partnership**](#SECOND-SCHEDULE)
 
-[**THIRD SCHEDULE Conversion from Private Company to Limited Liability Partnership**](#THIRD-SCHEDULE)
+[**THIRD SCHEDULE Conversion from private company to limited liability partnership**](#THIRD-SCHEDULE)
 
-[**FOURTH SCHEDULE Receivers and Managers**](#FOURTH-SCHEDULE-Receivers-and-Managers)
+[**FOURTH SCHEDULE Receivers and managers**](#FOURTH-SCHEDULE-Receivers-and-managers)
 
-[**FIFTH SCHEDULE Winding Up**](#FIFTH-SCHEDULE-Winding-Up)
+[**FIFTH SCHEDULE Winding up**](#FIFTH-SCHEDULE-Winding-up)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -162,7 +162,7 @@
 
 (CHAPTER 163A)
 
-(Original Enactment: 42 of 2005)
+(Original Enactment: Act 5 of 2005)
 
 REVISED EDITION 2006
 
@@ -490,6 +490,8 @@ REGISTRATION
 
 (d) a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
+[37/2008 wef 04/05/2009]
+
 (2) A person may apply in the prescribed manner to the Registrar for the reservation of a name set out in the application as —
 
 (a) the name of a proposed limited liability partnership; or
@@ -502,7 +504,11 @@ REGISTRATION
 
 (a) is a name referred to in subsection (1); or
 
-(b) so nearly resembles the name of any other limited liability partnership or limited partnership or corporation or a business name as to be likely to be mistaken for it, the Registrar may direct the limited liability partnership to change its name, and the limited liability partnership shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+(b) so nearly resembles the name of any other limited liability partnership or limited partnership or corporation or a business name as to be likely to be mistaken for it,
+
+[37/2008 wef 04/05/2009]
+
+the Registrar may direct the limited liability partnership to change its name, and the limited liability partnership shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
 (5) Any person may apply, in writing, to the Registrar to give a direction to any limited liability partnership, on a ground referred to in subsection (4)(a) or (b), to change its name.
 
@@ -1210,12 +1216,12 @@ FIRST SCHEDULE
 
 Section 10
 
-Default Provisions for
+Default provisions for
 
 
 
 
-Limited Liability Partnerships
+limited liability partnerships
 
 1\. The mutual rights and duties of the partners and the mutual rights and duties of the limited liability partnership and the partners shall be determined, subject to the terms of any limited liability partnership agreement, by the provisions in this Schedule.
 
@@ -1249,12 +1255,12 @@ SECOND SCHEDULE
 
 Section 20
 
-Conversion from Firm to
+Conversion from firm to
 
 
 
 
-Limited Liability Partnership
+limited liability partnership
 
 Interpretation
 
@@ -1354,12 +1360,12 @@ THIRD SCHEDULE
 
 Section 21
 
-Conversion from Private Company to
+Conversion from private company to
 
 
 
 
-Limited Liability Partnership
+limited liability partnership
 
 Interpretation
 
@@ -1461,7 +1467,7 @@ FOURTH SCHEDULE
 
 Section 29
 
-Receivers and Managers
+Receivers and managers
 
 Interpretation
 
@@ -1621,7 +1627,7 @@ FIFTH SCHEDULE
 
 Section 30
 
-Winding Up
+Winding up
 
 Part I
 
@@ -1699,7 +1705,7 @@ Circumstances in which limited liability partnership may be wound up by Court
 
 (c) it is proved to the satisfaction of the Court that the limited liability partnership is unable to pay its debts; and in determining whether a limited liability partnership is unable to pay its debts the Court shall take into account the contingent and prospective liabilities of the limited liability partnership; or
 
-(d) the limited liability partnership fails to lodge a declaration of solvency or insolvency as required under section 24, until such time as a declaration referred to in section 24(1) (a) is lodged.
+(d) the limited liability partnership fails to lodge a declaration of solvency or insolvency as required under section 24, until such time as a declaration referred to in section 24(1)(a) is lodged.
 
 (3) For the purpose of sub-paragraph (1)(f), a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that the limited liability partnership referred to in the certificate is being used for purposes against national security or interest shall be conclusive evidence that the limited liability partnership is being used for such purposes.
 
@@ -1775,7 +1781,7 @@ Avoidance of dispositions of property and certain attachments, etc., and winding
 
 (2) Any attachment, sequestration, distress or execution put in force against the estate or effects of the limited liability partnership after the commencement of the winding up by the Court shall be void.
 
-(3) Any application for winding up a limited liability partnership shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens pon purchasers or mortgagees.
+(3) Any application for winding up a limited liability partnership shall constitute a lis pendens within the meaning of any law relating to the effect of a lis pendens upon purchasers or mortgagees.
 
 [42/2005]
 
@@ -1977,7 +1983,7 @@ Report by liquidator
 
 (c) whether, in his opinion, further inquiry is desirable as to any matter relating to the formation or failure of the limited liability partnership or the conduct of the business thereof.
 
-(2) The liquidator may also, if he thinks fit, make further reports to the Court or if the liquidator is not the Official Receiver, to the Official Receiver stating the manner in which the limited liability partnership was formed and whether in his opinion any fraud has been committed or any material fact has been concealed by any person in its formation or by any officer in relation to the limited liability partnership since its formation, and whether any officer of the limited liability partnership has contravened any of the provisions of this Act, and specifying any ther matter which in his opinion it is desirable to bring to the notice of the Court.
+(2) The liquidator may also, if he thinks fit, make further reports to the Court or if the liquidator is not the Official Receiver, to the Official Receiver stating the manner in which the limited liability partnership was formed and whether in his opinion any fraud has been committed or any material fact has been concealed by any person in its formation or by any officer in relation to the limited liability partnership since its formation, and whether any officer of the limited liability partnership has contravened any of the provisions of this Act, and specifying any other matter which in his opinion it is desirable to bring to the notice of the Court.
 
 Powers of liquidator
 
@@ -2116,6 +2122,10 @@ appointed by the meetings of creditors and partners in such proportions as are a
 (10) The liquidator may at any time of his own motion and shall within 7 days after the request in writing of a creditor or partner summon a meeting of creditors or of partners, as the case requires, to consider any appointment made pursuant to sub-paragraph (9), and the meeting may confirm the appointment or revoke the appointment and appoint another creditor or partner or person holding a general power of attorney or special authority as specified in sub-paragraph (3), as the case requires, in his stead.
 
 (11) The continuing members of the committee if not less than 2 may act notwithstanding any vacancy in the committee.
+
+(12) In this paragraph, “general power of attorney” includes a lasting power of attorney registered under the Mental Capacity Act 2008.
+
+[22/2008 wef 01/03/2010]
 
 Division 4
 
@@ -2381,7 +2391,7 @@ Meeting of creditors
 
 Liquidators
 
-44.—(1) The limited liability partnership shall, and the creditors may at their respective meetings, nominate a person to be liquidator for the purpose of winding up the affairs and distributing the assets of the limited liability partnership, and ifthe creditors and the limited liability partnership nominate different persons the person nominated by the creditors shall be liquidator, and if no person is nominated by the creditors the person nominated by the limited liability partnership shall be liquidator.
+44.—(1) The limited liability partnership shall, and the creditors may at their respective meetings, nominate a person to be liquidator for the purpose of winding up the affairs and distributing the assets of the limited liability partnership, and if the creditors and the limited liability partnership nominate different persons the person nominated by the creditors shall be liquidator, and if no person is nominated by the creditors the person nominated by the limited liability partnership shall be liquidator.
 
 (2) Notwithstanding sub-paragraph (1), where different persons are nominated, any manager, partner or creditor may, within 7 days after the date on which the nomination was made by the creditors, apply to the Court for an order directing that the person nominated as liquidator by the limited liability partnership shall be liquidator instead of or jointly with the person nominated by the creditors.
 
@@ -2498,7 +2508,7 @@ Final meeting and dissolution
 
 Arrangement when binding on creditors
 
-56.—(1) Any arrangement entered into between a limited liability partnership about to be or in the course of being wound up and its creditors shall, subject to the right of appeal under this paragraph, be binding on the limited liability partnership f sanctioned by a resolution passed by the partners, and on the creditors if acceded to by 75% in value and 50% in number of the creditors, every creditor for under $50 being reckoned in value only.
+56.—(1) Any arrangement entered into between a limited liability partnership about to be or in the course of being wound up and its creditors shall, subject to the right of appeal under this paragraph, be binding on the limited liability partnership if sanctioned by a resolution passed by the partners, and on the creditors if acceded to by 75% in value and 50% in number of the creditors, every creditor for under $50 being reckoned in value only.
 
 (2) A creditor shall be accounted a creditor for value for such sum as upon an account fairly stated, after allowing the value of security or liens held by him and the amount of any debt or set-off owing by him to the debtor, appears to be the balance due to him.
 
@@ -2522,7 +2532,9 @@ Costs
 
 Limitation on right to wind up voluntarily
 
-59\. Where an application has been made to the Court to wind up a limited liability partnership on the ground that it is unable to pay its debts the limited liability partnership shall not, without the leave of the Court, resolve that it be wound up voluntarily.
+59. Where an application has been made to the Court to wind up a limited liability partnership on the ground that it is unable to pay its debts the limited liability partnership shall not, without the leave of the Court, resolve that it be wound up voluntarily.
+
+[42/2005]
 
 Part IV
 
@@ -2709,6 +2721,8 @@ Priorities
 
 (d) fourthly, all amounts due in respect of work injury compensation under the Work Injury Compensation Act (Cap. 354) accrued before, on or after the commencement of the winding up;
 
+[5/2008 wef 01/04/2008]
+
 (e) fifthly, all amounts due in respect of contributions payable during the 12 months next before, on or after the commencement of the winding up by the limited liability partnership as the employer of any person under any written law relating to employees’ superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the law relating to income tax;
 
 (f) sixthly, all remuneration payable to any employee in respect of vacation leave, or in the case of his death to any other person in his right, accrued in respect of any period before, on or after the commencement of the winding up; and
@@ -2725,9 +2739,7 @@ Priorities
 
 “employee” means a person who has entered into or works under a contract of service with an employer and includes a subcontractor of labour;
 
-“ex gratia payment” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and
-
-“the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
+“ex gratia payment” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
 
 “retrenchment benefit” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
 
@@ -2752,6 +2764,8 @@ Priorities
 (10) Notwithstanding anything in sub-paragraph (1) —
 
 (a) sub-paragraph (1)(d) shall not apply in relation to the winding up of a limited liability partnership in any case where the limited liability partnership is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another limited liability partnership and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the limited liability partnership has entered into a contract with an insurer in respect of any liability under any law relating to work injury compensation; and
+
+[5/2008 wef 01/04/2008]
 
 (b) where a limited liability partnership has given security for the payment or repayment of any amount to which sub-paragraph (1)(g) relates, sub-paragraph (1)(g) shall apply only in relation to the balance of any such amount remaining due after deducting therefrom the net amount realised from such security.
 
@@ -3113,7 +3127,7 @@ Offences by officers of limited liability partnerships in liquidation
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
 
-(2) It shall be a good defence to a charge under sub-paragraph (1)(a), (b), (d) or sub-paragraph (1)(c) (i), (vii) or (viii) if the accused proves that he had no intent to defraud, and to a charge under sub-paragraph (1)(f) or sub-paragraph (1)(c)(iii) or (iv) if he proves that he had no intent to conceal the state of affairs of the limited liability partnership or to defeat the law.
+(2) It shall be a good defence to a charge under sub-paragraph (1)(a), (b), (d) or sub-paragraph (1)(c)(i), (vii) or (viii) if the accused proves that he had no intent to defraud, and to a charge under sub-paragraph (1)(f) or sub-paragraph (1)(c)(iii) or (iv) if he proves that he had no intent to conceal the state of affairs of the limited liability partnership or to defeat the law.
 
 (3) Where any person pawns, pledges or disposes of any property in circumstances which amount to an offence under sub-paragraph (1)(c)(viii), every person who takes in pawn or pledge or otherwise receives the property knowing it to be pawned, pledged or disposed of in those circumstances shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
 
@@ -3237,7 +3251,7 @@ Accounts and audit
 
 (2) The Auditor-General shall have all the powers in respect of such accounts as are conferred upon him by any Act relating to audit of public accounts.
 
-[Bankruptcy2000Ed.,ss.98-104;Companies1994Ed.,ss. 11, 253-328, 331-343,345-349;Companie(ABAP)Reg.,regs2,4, 5,6-8; Delaware RUPA,s. 15-309;UK Insolvency1986,ss.239,241,249, 435]
+[Bankruptcy 2000 Ed., ss. 98-104; Companies 1994 Ed., ss. 11, 253-328, 331-343, 345-349; Companies (ABAP) Reg., regs 2, 4, 5, 6-8; Delaware RUPA, s. 15-309; UK Insolvency 1986, ss. 239, 241, 249, 435]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -3245,9 +3259,9 @@ Limited Liability Partnerships Act
 
 (CHAPTER 163A)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
 
-California Corp Code,
+California Corp Code, UPA 1994
 
 :
 
@@ -3263,7 +3277,7 @@ Jersey LLP Law 1997
 
 :
 
-Jeysey Limited Liability Partnerships (Jersey) Law 1997
+Jersey Limited Liability Partnerships (Jersey) Law 1997
 
 UK Insolvency 1986
 
@@ -3319,7 +3333,7 @@ Limited Liability Partnerships Act
 
 (CHAPTER 163A)
 
-This Legislative History is provided for the convenience of users of the Limited Liability Partnerships Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Limited Liability Partnerships Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3340,15 +3354,15 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|2 January 2007|
 ||Date of commencement|1 March 2007 (item (7) in the Schedule)|
-|5.|**Act 5 of 2008—Workmen’s Compensation (Amedment) Act 2008**|
+|5.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|12 Novmeber 2007|
+||Date of First Reading|12 November 2007|
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
 |6.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|17 Novmeber 2008|
+||Date of First Reading|17 November 2008|
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 March 2009 (item (16) in the Schedule)|
@@ -3358,6 +3372,12 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 35/2008 published on 21 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|4 May 2009|
+|8.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
