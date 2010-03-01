@@ -962,3 +962,9 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 5/2007 published on 13 February 2007)|
 ||Date of Second and Third Readings|11 April 2007|
 ||Date of commencement|7 May 2007|
+|17.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (item 1(23) of the Second Schedule)|
