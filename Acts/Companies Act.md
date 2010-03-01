@@ -6628,11 +6628,7 @@ Registration of charges
 
 (3B) A charge referred to in subsection (3) does not include a charge created at any time on or after the date of commencement of the International Interests in Aircraft Equipment Act 2009 to the extent that it is capable of being registered under that Act.
 
-[5/2009 wef 01/05/2009]
-
 (3C) In subsection (3B), “registered” has the same meaning as in section 2(1) of the International Interests in Aircraft Equipment Act 2009.
-
-[5/2009 wef 01/05/2009]
 
 (4) Where a charge created in Singapore affects property outside Singapore, the statement containing the prescribed particulars of the charge may be lodged for registration under and in accordance with subsection (1) notwithstanding that further proceedings may be necessary to make the charge valid or effectual according to the law of the place in which the property is situate.
 
@@ -16050,7 +16046,9 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 55\. In the case of joint holders the vote of the senior who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of the other joint holders; and for this purpose seniority shall be determined by the order in which the names stand in the register of members.
 
-56\. A member who is of unsound mind or whose person or estate is liable to be dealt with in any way under the law relating to mental disorder may vote, whether on a show of hands or on a poll, by his committee or by such other person as properly has the management of his estate, and any such committee or other person may vote by proxy or attorney.
+56. A member who is mentally disordered or whose person or estate is liable to be dealt with in any way under the law relating to mental capacity may vote, whether on a show of hands or on a poll, by such other person as properly has the management of his estate, and any such person may vote by proxy or attorney.
+
+[21/2008 wef 01/03/2010]
 
 57\. No member shall be entitled to vote at any general meeting unless all calls or other sums presently payable by him in respect of shares in the company have been paid.
 
@@ -16062,7 +16060,7 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 61\. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed or a notarially certified copy of that power or authority shall be deposited at the registered office of the company, or at such other place in Singapore as is specified for that purpose in the notice convening the meeting, not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, or, in the case of a poll, not less than 24 hours before the time appointed for the taking of the poll, and in default the instrument of proxy shall not be treated as valid.
 
-62. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or unsoundness of mind of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, unsoundness of mind, revocation, or transfer as aforesaid has been received by the company at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+62. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or mental disorder of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, mental disorder, revocation, or transfer as aforesaid has been received by the company at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
 
 [21/2008 wef 01/03/2010]
 
@@ -16096,7 +16094,9 @@ Directors: Appointment, etc.
 
 (d) becomes disqualified from being a director by virtue of section 148, 149, 154 or 155;
 
-(e) becomes of unsound mind or a person whose person or estate is liable to be dealt with in any way under the law relating to mental disorder;
+(e) becomes mentally disordered and incapable of managing himself or his affairs or a person whose person or estate is liable to be dealt with in any way under the law relating to mental capacity;
+
+[21/2008 wef 01/03/2010]
 
 (f) subject to section 145, resigns his office by notice in writing to the company;
 
@@ -17051,6 +17051,18 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 37/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 May 2009|
+|98.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
+|99.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Companies Act
