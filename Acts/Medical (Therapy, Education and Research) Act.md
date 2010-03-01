@@ -114,7 +114,9 @@ ANATOMICAL GIFTS
 
 ### Person may donate his body
 
-3\. Any person of sound mind and 18 years of age or above may give all or any part of his body for any of the purposes specified in section 7, the gift to take effect upon death.
+3\. Any person who is not mentally disordered and who is 18 years of age or above may give all or any part of his body for any of the purposes specified in section 7, the gift to take effect upon death.
+
+[21/2008 wef 01/03/2010]
 
 ### Relatives may donate body of deceased person
 
@@ -132,15 +134,15 @@ ANATOMICAL GIFTS
 
 ### Purposes of anatomical gifts, etc.
 
-7\. 
-
-(1) The following persons may become donees of gifts of bodies or parts thereof for the purposes stated:
+7\.—(1) The following persons may become donees of gifts of bodies or parts thereof for the purposes stated:
 
 (a) any approved hospital for medical or dental education, research, advancement of medical or dental science, therapy or transplantation;
 
 (b) any approved medical or dental school, college or university for medical or dental education, research, advancement of medical or dental science, therapy or transplantation; or
 
 (c) any specified individual for therapy or transplantation needed by him.
+
+(2) [Deleted by Act 4/2010 wef 17/02/2010]
 
 ### Mode of executing gift
 
@@ -182,7 +184,9 @@ POST-MORTEM EXAMINATION
 
 ### Person may authorise post-mortem examination
 
-13\.—(1) Any person of sound mind and 18 years of age or above may either in writing at any time or orally in the presence of two or more witnesses during his last illness authorise the post-mortem examination of his body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
+13\.—(1) Any person who is not mentally disordered and who is 18 years of age or above may either in writing at any time or orally in the presence of two or more witnesses during his last illness authorise the post-mortem examination of his body for the purpose of establishing or confirming the cause of death or of investigating the existence or nature of abnormal conditions.
+
+[4/2010 wef 17/02/2010]
 
 (2) Such authority shall be effective upon the death of that person.
 
@@ -275,3 +279,9 @@ This Legislative History is provided for the convenience of users of the Medical
 |||(Bill No. 26/2009 published on 24 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010 (section 2)|
+|5.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (item (30) in the Second Schedule — amendment of Medical (Therapy, Education and Research) Act)|
