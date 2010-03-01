@@ -728,7 +728,7 @@ Vacation of office of member
 
 (c) resigns from his office.
 
-Filing of vacancy in the office of member
+Filling of vacancy in the office of member
 
 8\. If a member dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
 
@@ -736,7 +736,9 @@ Disqualification from membership
 
 9. No person shall be appointed or shall continue to hold office as a member if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -997,3 +999,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|14.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
