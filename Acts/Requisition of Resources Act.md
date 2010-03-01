@@ -154,9 +154,9 @@ PRELIMINARY
 
 “aircraft” means any flying machine whether propelled by mechanical means or not and includes any description of balloon;
 
-“armed forces” means any force constituted under the Singapore Armed Forces Act [Cap. 295];
+“armed forces” means any force constituted under the Singapore Armed Forces Act (Cap. 295);
 
-“civil defence force” means any force constituted under the Civil Defence Act [Cap. 42];
+“civil defence force” means any force constituted under the Civil Defence Act (Cap. 42);
 
 “Commissioner” means the Commissioner or an Assistant Commissioner of a Compensation Board appointed under section 30(2);
 
@@ -230,7 +230,7 @@ ADMINISTRATION
 
 ### Authorised officers deemed to be public servants
 
-6\. All authorised officers shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
+6\. All authorised officers shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
 ### Authorised officer to declare his office
 
@@ -604,7 +604,7 @@ COMPENSATION BOARDS TO DETERMINE DISPUTES
 
 30\.—(1) For the purpose of determining disputes as to any entitlement to, or the quantum of, compensation payable under this Act for the requisition or acquisition of any property or services or for work or services performed or carried on the direction or order of the competent authority, there shall be constituted one or more Compensation Boards consisting of a Commissioner or an Assistant Commissioner of a Compensation Board and two other members selected by the Commissioner or Assistant Commissioner from the panel of members constituted in accordance with this section.
 
-(2) The Commissioner and an Assistant Commissioner of a Compensation Board shall be appointed by the Minister but no person shall be eligible for appointment unless he possesses the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321].
+(2) The Commissioner and an Assistant Commissioner of a Compensation Board shall be appointed by the Minister but no person shall be eligible for appointment unless he possesses the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
 
 (3) The Minister may appoint such number of Assistant Commissioners as he thinks fit.
 
@@ -618,7 +618,9 @@ COMPENSATION BOARDS TO DETERMINE DISPUTES
 
 (b) has been sentenced to imprisonment for a term exceeding 6 months and has not received a free pardon; or
 
-(c) is a person found or declared under any written law to be of unsound mind.
+(c) is mentally disordered and incapable of managing himself or his affairs.
+
+[21/2008 wef 01/03/2010]
 
 (7) A person appointed to the panel shall, except where his appointment is revoked by the Minister under subsection (9), be a member of the panel, unless he resigns during the period of the appointment, for a period of two years, but shall be eligible for reappointment.
 
@@ -630,9 +632,9 @@ COMPENSATION BOARDS TO DETERMINE DISPUTES
 
 ### Member of Compensation Board and proceedings deemed to be public servant and judicial proceedings respectively
 
-31\.—(1) Every member of a Compensation Board, when and so long as he is serving on the Compensation Board, shall be deemed to be a public servant within the meaning of the Penal Code and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
+31\.—(1) Every member of a Compensation Board, when and so long as he is serving on the Compensation Board, shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224) and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
 
-(2) All proceedings before the Compensation Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code [Cap. 224].
+(2) All proceedings before the Compensation Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
 
 ### Incidental powers of Compensation Board
 
@@ -954,3 +956,9 @@ This Legislative History is provided for the convenience of users of the Requisi
 |||(Bill No. 5/2008 published on 29 February 2008)|
 ||Date of Second and Third Readings|22 April 2008|
 ||Date of commencement|10 June 2008 (Section 36)|
+|5.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 20008|
+||Date of commencement|1 March 2010|
