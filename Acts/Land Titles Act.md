@@ -616,7 +616,7 @@ sections 165-176.
 
 4\.—(1) In this Act, unless the context otherwise requires —
 
-“approved” form means any form approved by the Registrar for the purposes of any of the provisions of this Act and includes an electronic form produced by making an electronic copy, image or reproduction of a written instrument;
+“approved form” means any form approved by the Registrar for the purposes of any of the provisions of this Act and includes an electronic form produced by making an electronic copy, image or reproduction of a written instrument;
 
 “assurance”, in relation to unregistered land, has the same meaning as in the Registration of Deeds Act (Cap. 269);
 
@@ -1636,9 +1636,10 @@ any person who becomes the proprietor of registered land, whether or not he deal
 
 (c) to be affected by notice (actual or constructive) of any trust or other unregistered interest, any rule of law or equity to the contrary notwithstanding.
 
-[25/20011]
+[25/2001\*]
 
-1SeeTransitional Provision at section 176.
+\*SeeTransitional Provision at section 176
+
 
 (2) For the purpose of subsection (1), the knowledge that any unregistered interest is in existence shall not of itself be imputed as fraud.
 
@@ -2432,13 +2433,15 @@ EASEMENTS
 
 99\.—(1) Where the competent authority has approved the development and subdivision of any land comprised in an estate before or after 1st March 1994 and the subdivision plan has been submitted to the competent authority, there shall be implied, in respect of each lot of the estate which is used or intended to be used as a separate tenement, in favour of the registered proprietor of the lot and as appurtenant thereto, all the easements referred to in subsection (1A).
 
-[37/2004 wef 31/03/2005]
+[37/2004 wef 31/03 wef 31/03/2005/2005]
 
 (1A) The easements which shall be implied under subsection (1) are all such easements of way and drainage, for party wall purposes and for the supply of water, gas, electricity, sewerage and telephone and other services to the lot on, over or under the lands appropriated or set apart for those purposes respectively on the subdivision plan submitted to the competent authority relating to the estate, as may be necessary for the reasonable enjoyment of the lot and of any building or part of a building at any time thereon.
 
-[37/2004 wef 31/03/2005]
+[37/2004 wef 31/03 wef 31/03/2005/2005]
 
 (2) All ancillary rights and obligations reasonably necessary to make the easements referred to in subsection (1A) effective shall be implied.
+
+[37/2004 wef 31/03/2005]
 
 (3) In respect of all the easements implied by this section, there shall also be implied a covenant binding all registered proprietors enjoying the benefit of such easements to contribute to the cost of maintenance or repair of the subject of the easements as if the easements and the covenant to contribute had been created by an instrument registered under this Act and so long as such easements subsist the covenant to contribute shall bind any successor in title enjoying the benefit of the easements except that in the case of the right to erect and maintain party walls, the implied covenant provided in this subsection shall bind only the registered proprietors of the lots on which party walls have been erected.
 
@@ -2458,11 +2461,13 @@ EASEMENTS
 
 (b) undeveloped lots, if any, which are shown in the first subdivision plan submitted to the competent authority, each of which is capable of being subdivided as shown in one or more subsequent subdivision plans as and when submitted to or issued by the competent authority;
 
-[37/2004 wef 31/03/2005]
+[37/2004 wef 31/03 wef 31/03/2005/2005]
 
 “lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan submitted to the competent authority.
 
 [3/98]
+
+[37/2004 wef 31/03/2005]
 
 ### Extinguishment by union of tenements
 
@@ -2804,7 +2809,9 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 (d) where the caveator is adjudicated a bankrupt, by the Official Assignee; or where the caveator is a corporation and is in liquidation, and the estate or interest claimed by the caveator has become vested in the liquidator, by the liquidator;
 
-(e) by the person or the committee to whom it is entrusted, pursuant to the Mental Disorders and Treatment Act (Cap. 178),the management and care of the estate or interest claimed in the caveat; or
+(e) by the person or the deputy appointed or deemed to be appointed for such person by the High Court under the Mental Capacity Act 2008, with power in relation to the management and care of the estate or interest claimed in the caveat; or
+
+[21/2008 wef 01/03/2010]
 
 (f) by the solicitor acting for any of the persons mentioned in paragraphs (b), (c), (d) or (e).
 
@@ -3450,7 +3457,7 @@ MISCELLANEOUS
 
 165\.—(1) Except as provided in this section, the Registrar shall not register any instrument affecting part of the land in a folio until he is satisfied that the boundaries and dimensions of part of the land in a folio described in an instrument are in accordance with the final boundaries and dimensions shown in the plan lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-[37/2004 wef 31/03/2005]
+[37/2004 wef 31/03 wef 31/03/2005/2005]
 
 (2) Where the Registrar has created a new folio pursuant to a registration of part of the land which is not conclusive as to boundaries and dimensions, he shall enter thereon a caution to that effect, and he shall cancel that caution when the boundaries and dimensions have been shown on the plan lodged with and approved by the Chief Surveyor.
 
@@ -3697,6 +3704,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 36/2004 published on 2 September 2004)|
 ||Date of Second and Third Readings|21 September 2004|
 ||Date of commencement|31 March 2005|
+|11.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Land Titles Act
