@@ -404,7 +404,9 @@ all of whom shall, subject to subsection (9), be appointed by the Minister and o
 
 (b) has been convicted of an offence by a court of law in Singapore and sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon; or
 
-(c) is a person found or declared under any written law to be of unsound mind.
+(c) is mentally disordered and incapable of managing himself or his affairs.
+
+[21/2008 wef 01/03/2010]
 
 (2) The office of a member of the Board shall become vacant —
 
@@ -5149,6 +5151,13 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 46/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|21 January 2008|
 ||Date of commencement|20 June 2008|
+|38.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
+|||(item (17) in the Second Schedule)|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
