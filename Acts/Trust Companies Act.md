@@ -868,7 +868,9 @@ PROBATE AND ADMINISTRATION
 
 ### Guardianship of person prohibited
 
-26\.—(1) No licensed trust company shall be appointed to be guardian of the person of an infant or committee of the person of a mentally disordered person.
+26\.—(1) No licensed trust company shall be appointed to be guardian of the person of an infant or a deputy with powers in relation to the personal welfare of a person who lacks capacity (within the meaning of the Mental Capacity Act 2008).
+
+[21/2008 wef 01/03/2010]
 
 (2) Any licensed trust company which accepts any appointment in contravention of subsection (1) shall be guilty of an offence.
 
@@ -2022,49 +2024,75 @@ Persons to whom information may be disclosed
 
 Conditions
 
-1. Disclosure —
+1.
 
-(a) is permitted in writing by a settlor or a protected party about whom the information regards, or if he is deceased, his appointed personal representative; or
+Disclosure —
+
+(a)
+
+is permitted in writing by a settlor or a protected party about whom the information regards, or if he is deceased, his appointed personal representative; or
 
 Any person as permitted by the settlor or a protected party or, if he is deceased, his appointed personal representative.
 
-(b) is solely in connection with a matter which a licensed trust company deems necessary in carrying out its duties in a case where a settlor is deceased and there is no personal representative, unless otherwise provided in the trust deed.
+(b)
+
+is solely in connection with a matter which a licensed trust company deems necessary in carrying out its duties in a case where a settlor is deceased and there is no personal representative, unless otherwise provided in the trust deed.
 
 Any person whom the licensed trust company deems necessary.
 
-2. Disclosure is solely in connection with an application for a grant of probate or letters of administration in respect of a deceased protected party’s estate.
+2.
+
+Disclosure is solely in connection with an application for a grant of probate or letters of administration in respect of a deceased protected party’s estate.
 
 Any person whom the licensed trust company in good faith believes is entitled to the grant of probate or letters of administration.
 
-3. Disclosure is solely in connection with —
+3.
 
-(a) where the protected party is an individual, the bankruptcy of the protected party; or
+Disclosure is solely in connection with —
 
-All persons to whom the disclosure is necessary for the purpose specified in the first column.
+(a)
 
-Not e: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
-
-(b) where the protected party is a body corporate, the winding up of the protected party.
-
-4. Disclosure is solely with a view to the institution of, or solely in connection with, the conduct of proceedings relating to a trust that is administered by a licensed trust company.
+where the protected party is an individual, the bankruptcy of the protected party; or
 
 All persons to whom the disclosure is necessary for the purpose specified in the first column.
 
-Not e: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
+Note: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
 
-5. Disclosure is necessary for —
+(b)
 
-(a) compliance with an order or request made under any specified written law to furnish information, for the purposes of an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
+where the protected party is a body corporate, the winding up of the protected party.
+
+4.
+
+Disclosure is solely with a view to the institution of, or solely in connection with, the conduct of proceedings relating to a trust that is administered by a licensed trust company.
+
+All persons to whom the disclosure is necessary for the purpose specified in the first column.
+
+Note: Court may order the proceedings to be held in camera [see section 49(3) and (4)].
+
+5.
+
+Disclosure is necessary for —
+
+(a)
+
+compliance with an order or request made under any specified written law to furnish information, for the purposes of an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
 
 Any police officer or public officer duly authorised under the specified written law to carry out the investigation or prosecution or to receive the complaint or report, or any court.
 
-(b) the making of a complaint or report under any specified written law of an offence alleged or suspected to have been committed under any written law.
+(b)
 
-6. Disclosure is necessary for compliance with a garnishee order served on a licensed trust company attaching assets in a trust.
+the making of a complaint or report under any specified written law of an offence alleged or suspected to have been committed under any written law.
+
+6.
+
+Disclosure is necessary for compliance with a garnishee order served on a licensed trust company attaching assets in a trust.
 
 All persons to whom the disclosure is required to be made under the garnishee order.
 
-7. Disclosure is in compliance with any provision of this Act, or any notice or directive issued by the Authority to licensed trust companies.
+7.
+
+Disclosure is in compliance with any provision of this Act, or any notice or directive issued by the Authority to licensed trust companies.
 
 The Authority or any person authorised or appointed by the Authority.
 
@@ -2084,47 +2112,73 @@ Persons to whom information may be disclosed
 
 Conditions
 
-1. Disclosure is solely in connection with the performance of duties as an officer, a professional adviser or a service provider appointed or engaged by a licensed trust company.
+1.
+
+Disclosure is solely in connection with the performance of duties as an officer, a professional adviser or a service provider appointed or engaged by a licensed trust company.
 
 Any —
 
-(a) officer of the licensed trust company in Singapore;
+officer of the licensed trust company in Singapore;
 
-(b) officer designated in writing by the head office of the licensed trust company; or
+officer designated in writing by the head office of the licensed trust company; or
 
-(c) auditor, lawyer, consultant or other professional adviser or service provider appointed or engaged by the licensed trust company under a contract for service.
+auditor, lawyer, consultant or other professional adviser or service provider appointed or engaged by the licensed trust company under a contract for service
 
-2. Disclosure is solely in connection with the conduct of internal audit or the performance of risk management of a licensed trust company.
+2.
+
+Disclosure is solely in connection with the conduct of internal audit or the performance of risk management of a licensed trust company.
 
 In the case of —
 
-(a) a licensed trust company incorporated outside Singapore —
+(a)
 
-(i) the head office or parent company of the licensed trust company;
+a licensed trust company incorporated outside Singapore —
 
-(ii) any branch of the licensed trust company outside Singapore designated in writing by the head office of the licensed trust company; or
+(i)
 
-(iii) any related corporation of the licensed trust company designated in writing by the head office of the licensed trust company; or
+the head office or parent company of the licensed trust company;
 
-(b) a licensed trust company incorporated in Singapore —
+(ii)
 
-(i) the parent company; or
+any branch of the licensed trust company outside Singapore designated in writing by the head office of the licensed trust company; or
 
-(ii) any related corporation of the licensed trust company designated in writing by the head office of the licensed trust company.
+(iii)
 
-3. Disclosure is solely in connection with the performance of operational functions of a licensed trust company where such operational functions have been out-sourced.
+any related corporation of the licensed trust company designated in writing by the head office of the licensed trust company; or
+
+(b)
+
+a licensed trust company incorporated in Singapore —
+
+(i)
+
+the parent company; or
+
+(ii)
+
+any related corporation of the licensed trust company designated in writing by the head office of the licensed trust company.
+
+3.
+
+Disclosure is solely in connection with the performance of operational functions of a licensed trust company where such operational functions have been out-sourced.
 
 Any person, including the head office of the licensed trust company or any branch thereof outside Singapore, who is engaged by the licensed trust company to perform the out-sourced functions.
 
 If any out-sourced function is to be performed outside Singapore, the disclosure shall be subject to such conditions as may be specified in a written direction issued by the Authority or otherwise imposed by the Authority.
 
-4. Disclosure is solely in connection with —
+4.
+
+Disclosure is solely in connection with —
 
 Any person participating or otherwise involved in the merger, acquisition or issue, or proposed merger, acquisition or issue, including any of his lawyers or other professional advisers (whether or not the merger or acquisition is subsequently entered into or completed).
 
-(a) the merger or proposed merger of a licensed trust company or its holding company with another company; or
+(a)
 
-(b) any acquisition or issue, or proposed acquisition or issue, of any part of the share capital of a licensed trust company or its holding company,
+the merger or proposed merger of a licensed trust company or its holding company with another company; or
+
+(b)
+
+any acquisition or issue, or proposed acquisition or issue, of any part of the share capital of a licensed trust company or its holding company,
 
 whether or not the merger, acquisition or issue is subsequently entered into or completed.
 
@@ -2253,6 +2307,13 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
 |||(item (12) in the Schedule)|
+|11.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
+|||(item 1(50) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
