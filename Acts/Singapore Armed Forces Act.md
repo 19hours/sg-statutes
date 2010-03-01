@@ -2196,7 +2196,9 @@ subject to the same right of the accused to object.
 
 (h) determining cases in which and the extent to which subordinate military courts may in sentencing the accused for any offence of which he is convicted at the request of the accused, take into consideration other offences under this Act committed by him;
 
-(i) the procedure to be observed when an accused is suspected to be of unsound mind and the procedure to be followed when an accused is sentenced to death;
+(i) the procedure to be observed when an accused is suspected to be mentally disordered and the procedure to be followed when an accused is sentenced to death;
+
+[21/2008 wef 01/03/2010]
 
 (j) the forms of orders to be made under the provisions of this Act relating to investigation of, the trial of, or award of punishments for offences under this Act;
 
@@ -2296,7 +2298,7 @@ the Armed Forces Council shall quash the finding of that offence made by the sub
 
 (b) is dumb, blind or deaf; or
 
-(c) is suspected of being of unsound mind,
+(c) is suspected of being mentally disordered,
 
 the president of the subordinate military court shall appoint a defence counsel to assist the accused in his defence.
 
@@ -4542,13 +4544,17 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of Second Reading|22 October 2007|
 ||Date of Third Reading|23 October 2007|
 ||Date of commencement|1 February 2008|
+|21.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
 
 (CHAPTER 295)
-
-COMPARATIVE TABLE
 
 The following provisions in the 1995 Revised Edition of the Singapore Armed Forces Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
