@@ -1848,11 +1848,11 @@ Form of proxy for voting for or against a resolution
 
 16. Where it is desired to afford owners an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
-I/We, of being a member/members of the above-named body corporate, hereby appoint , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the body corporate, to be held on the day of 19 , and at any adjournment thereof.
+I/We, , of , being a member/members of the above-named body corporate, hereby appoint , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the body corporate, to be held on the day of 19 , and at any adjournment thereof.
 
-1Signed this day of 19 . This form is to be used in favour of/against the resolution.
+\*Signed this day of 19 . This form is to be used *in favour of/against the resolution.
 
-1Strike out whichever is not applicable. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+\*Strike out whichever is not applicable. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 Proxy to be deposited at registered address of body corporate
 
@@ -1860,7 +1860,7 @@ Proxy to be deposited at registered address of body corporate
 
 Authority not to be revoked by death of principal, etc.
 
-18\. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or unsoundness of mind of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, unsoundness of mind, revocation, or transfer as aforesaid has been received by the body corporate at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+18\. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or mental disorder of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, mental disorder, revocation, or transfer as aforesaid has been received by the body corporate at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
 
 ## LEGISLATIVE HISTORY
 
@@ -1905,3 +1905,9 @@ This Legislative History is provided for the convenience of users of the HUDC Ho
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|9.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
