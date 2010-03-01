@@ -168,8 +168,6 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 (ka) to hold moneys, whether as stakeholder or in any other capacity, for the purposes or members of the legal profession in Singapore or under any written law; and
 
-[4/2010 wef 17/02/2010]
-
 (l) to exercise the functions and duties conferred on the Academy under any written law.
 
 [34/95]
@@ -197,8 +195,6 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 (j) receive grants from the Government or donations and gifts from the Law Society or any source;
 
 (ja) retain, for the purposes of the Academy, any income derived from the holding of moneys under subsection (1)(ka);
-
-[4/2010 wef 17/02/2010]
 
 (k) borrow money, whether by way of bank overdraft or otherwise, for such of the purposes of the Academy as the Senate may from time to time consider desirable;
 
@@ -402,7 +398,7 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (d) he has been convicted of an offence involving fraud or dishonesty;
 
-(e) he is or becomes of unsound mind;
+(e) he is or becomes mentally disordered and incapable of managing himself or his affairs;
 
 (f) he is an undischarged bankrupt; or
 
@@ -602,3 +598,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010|
+|11.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
