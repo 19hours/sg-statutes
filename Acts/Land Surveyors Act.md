@@ -64,7 +64,15 @@
 
 - [23 Professional responsibility of supervising surveyor](#Professional-responsibility-of-supervising-surveyor)
 
-[**Part VII APPEALS, POINTS RESERVED AND REVISION**](#Part-VII)
+[**Part VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES**](#Part-VII)
+
+- [27 Revocation of licence](#Revocation-of-licence)
+
+- [28 No unnecessary restraint](#No-unnecessary-restraint)
+
+- [29 Search of persons arrested](#Search-of-persons-arrested)
+
+- [30 Powers of Investigation Committee and Board to require attendance of witnesses, etc](#Powers-of-Investigation-Committee-and-Board-to-require-attendance-of-witnesses-etc)
 
 [**Part IX PRE-TRIAL PROCEDURES IN THE SUBORDINATE COURTS**](#Part-IX)
 
@@ -704,7 +712,97 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ## PART VII
 
-APPEALS, POINTS RESERVED AND REVISION
+DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+
+### Revocation of licence
+
+27\.—(1) Subject to subsection (3), the Board may by order revoke any licence it granted to a corporation or partnership if in the opinion of the Board —
+
+(a) the corporation or partnership has contravened or failed to comply with any of the conditions imposed by the Board under section 18;
+
+(b) the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 17(1), (2) or (4), whichever is applicable;
+
+(c) a person who is neither a registered surveyor who has in force a practising certificate nor an allied professional has a beneficial interest in the capital assets and profits of the partnership;
+
+(d) the licence had been obtained by fraud or misrepresentation;
+
+(e) the corporation or partnership has ceased to supply title survey services in Singapore;
+
+(f) the corporation or partnership has contravened or failed to comply with section 19, 20 or 21, or has been convicted of an offence under this Act;
+
+(g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
+
+(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in title survey work in Singapore in accordance with the written law and with honesty and integrity;
+
+(i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2); or
+
+(j) the corporation or partnership refuses or fails to pay the cost of any correction to its title survey within 14 days of the receipt of a statement issued to it under section 36(4).
+
+(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
+
+(a) by order impose on the corporation or partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board; or
+
+(b) order the corporation or partnership to pay the cost of any correction to its title survey incurred by the Chief Surveyor.
+
+(3) The Board shall not exercise its powers under subsection (1) or (2) unless —
+
+(a) an opportunity of being heard by a representative in writing or by counsel had been given to the corporation or partnership against whom the Board intends to exercise its powers; and
+
+(b) at least 3 members of the Board are present at the hearing.
+
+(4) Where the Board has revoked a licence pursuant to this section, it shall forthwith inform the corporation or partnership concerned.
+
+(5) Any order of revocation made by the Board shall not take effect until the expiration of 30 days after the Board has informed the corporation or partnership concerned and if within that period the corporation or partnership gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by the Court.
+
+(6) Where an order of revocation becomes effective —
+
+(a) the Registrar shall cause notice of the revocation to be published in theGazetteand shall cancel the entry in the register of licensees relating to the corporation or partnership concerned; and
+
+(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply title survey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+
+(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+
+### No unnecessary restraint
+
+28\.—(1) The person arrested shall not be subjected to more restraint than is necessary to prevent his escape.
+
+### Mode of searching women
+
+(2) Whenever it is necessary to cause a woman to be searched the search shall be made by another woman with strict regard to decency.
+
+[27
+
+### Search of persons arrested
+
+29\.—(1) Whenever a person is arrested —
+
+(a) by a police officer under a warrant which does not provide for the taking of bail or under a warrant which provides for the taking of bail but the person arrested cannot furnish bail; or
+
+(b) without warrant or by a private person under a warrant and the person arrested cannot legally be admitted to bail or is unable to furnish bail,
+
+the police officer making the arrest or, when the arrest is made by a private person, the police officer to whom the private person makes over the person arrested may search such person and place in safe custody all articles other than necessary wearing apparel found upon him and any of those articles which there is reason to believe were the instruments or the fruits or other evidences of the crime may be detained until his discharge or acquittal.
+
+(2) A police officer investigating into a seizable offence in the exercise of his powers under Chapter XIII may enter the house or other place of abode of any person who is under arrest in connection with the offence and search such premises for any evidence of the offence.
+
+[28
+
+### Powers of Investigation Committee and Board to require attendance of witnesses, etc
+
+30\.—(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 25 or 27 by the Board, the Investigation Committee or the Board may —
+
+(a) require evidence to be given on oath and for that purpose the Chairman of the Investigation Committee or any member of the Board, as the case may be, may administer an oath; and
+
+(b) require any person to attend and give evidence before it and to produce all books, documents and papers in the custody of that person or under his control relating to the subject-matter of the investigation or hearing.
+
+(2) Every person who without lawful excuse refuses or fails —
+
+(a) to attend and give evidence when required to do so by the Investigation Committee or the Board;
+
+(b) to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
+
+(c) to produce to the Investigation Committee or the Board any book, document or paper required of him,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 ## PART IX
 
@@ -796,6 +894,12 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008 (section 8 — Amendment of Land Surveyors Act)|
+|16.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Land Surveyors Act
