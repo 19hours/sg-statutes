@@ -228,7 +228,13 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (e) where the trustee is dead and the member has no other legal guardian, be substituted with the personal representative of the trustee;
 
-(f) where the trustee is no longer able to act as trustee by reason that he is a mentally disordered person within the meaning of the Mental Disorders and Treatment Act (Cap. 178) and the member has no other legal guardian, be substituted with the person who has been appointed the committee of the person and estate of the trustee; and
+(f) where the trustee is no longer able to act as trustee by reasonthat he lacks capacity (within the meaning of the Mental CapacityAct 2008) to exercise his functions as trustee and the member hasno other legal guardian, be substituted with —
+
+(i) the deputy appointed or deemed to be appointedfor such trustee by the High Court under that Act and who was conferredpower to exercise the functions as trustee; or
+
+(ii) if there is no such deputy, a person nominatedby the Minister; and
+
+[21/2008 wef 01/03/2010]
 
 (g) where the trustee is unable or unwilling to act as trustee for any other reason and the member has no other legal guardian, be substituted with the person nominated by the trustee and approved by the Minister to act in the place of the existing trustee.
 
@@ -416,6 +422,8 @@ shall be entitled —
 
 (BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the child becomes a citizen of Singapore), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
 
+[28/2008 wef 31/10/2008]
+
 (1B) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
 (a) delivers a child who is not a citizen of Singapore at the time of his birth;
@@ -533,6 +541,8 @@ shall be entitled —
 (BA) to receive payment from her employer at her gross rate of pay for every period referred to in section 76(1)(c)(ii) of that Act commencing on or after the day she becomes lawfully married to the child’s natural father; and
 
 (BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day she becomes lawfully married to the child’s natural father), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
+
+[28/2008 wef 31/10/2008]
 
 (1D) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
@@ -654,6 +664,8 @@ shall be entitled —
 
 (BB) to absent herself from work and receive payment from her employer at her gross rate of pay for one or more further periods (each commencing on or after the day the relevant event occurs), not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 12 months commencing on the day of her confinement.
 
+[28/2008 wef 31/10/2008]
+
 (1F) Subject to subsection (3), section 9A and any regulations made under section 20, every female employee who —
 
 (a) delivers a child who is not a citizen of Singapore at the time of his birth;
@@ -689,6 +701,8 @@ shall be entitled to absent herself from work during, and to receive payment fro
 (a) to receive, in addition to her gross rate of pay for that day, an amount that is equivalent to a day’s pay at the gross rate of pay; or
 
 (b) to absent herself from work on another day at the end of the benefit period.
+
+[42/2004 wef 01/10/2004]
 
 (3) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1)(c)(ii), (1A)(v)(A)(AB) or (B)(BB) or (vi)(A)(AB) or (B)(BB), (1B)(ii)(B) or (iii), (1C)(v)(A)(AB) or (B)(BB) or (vi)(A)(AB) or (B)(BB), (1D)(ii)(B) or (iii), (1E)(v)(A)(AB) or (B)(BB) or (vi)(A)(AB) or (B)(BB) or (1F)(ii)(B) or (iii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
 
@@ -734,6 +748,10 @@ shall be entitled to absent herself from work during, and to receive payment fro
 
 and who has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation, shall be entitled to claim from the Government the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
 
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
+
 (4A) Subject to subsection (5), section 9A and any regulations made under section 20, every self-employed woman who —
 
 (a) delivers a child who is not a citizen of Singapore at the time of his birth;
@@ -764,6 +782,8 @@ shall be entitled to claim from the Government the income she would otherwise ha
 
 [9/2007 wef 01/03/2007]
 
+[28/2008 wef 31/10/2008]
+
 (4B) Subject to subsection (5), section 9A and any regulations made under section 20, every self-employed woman who —
 
 (a) delivers a child but is not lawfully married to the child’s natural father at the time the child is conceived or at any time after the child is conceived but before the child’s birth;
@@ -791,6 +811,8 @@ shall be entitled to claim from the Government the income she would otherwise ha
 shall be entitled to claim from the Government the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
 
 [9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
 
 (4C) Subject to subsection (5), section 9A and any regulations made under section 20, every self-employed woman who —
 
@@ -824,6 +846,8 @@ shall be entitled to claim from the Government the income she would otherwise ha
 
 [9/2007 wef 01/03/2007]
 
+[28/2008 wef 31/10/2008]
+
 (5) A self-employed woman shall be entitled to receive payment from the Government —
 
 (a) in respect of her first or second confinement —
@@ -856,7 +880,7 @@ means the later of the following events:
 
 (ii) she becomes lawfully married to the child’s natural father.
 
-[42/2004 wef 01/10/2004]
+[9/2007 wef 01/03/2007]
 
 ### Eligibility criteria and cap in respect of maternity benefits
 
@@ -873,6 +897,8 @@ means the later of the following events:
 (c) in the case of a female employee, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
+
+[28/2008 wef 31/10/2008]
 
 (1A) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1A) or (1B), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4A), if —
 
@@ -892,6 +918,8 @@ means the later of the following events:
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
 
+[28/2008 wef 31/10/2008]
+
 (1B) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1C) or (1D), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4B), if —
 
 (a) the child delivered during her confinement is a citizen of Singapore at the time of his birth;
@@ -905,6 +933,8 @@ means the later of the following events:
 (c) in the case of a female employee, she has served the employer for at least 90 days immediately preceding the day of her confinement; and
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
+
+[28/2008 wef 31/10/2008]
 
 (1C) Subject to this section, a female employee whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to absent herself from work and to payment under section 9(1E) or (1F), and a self-employed woman whose confinement occurs, or whose estimated delivery date (as certified by a medical practitioner) for her confinement is, on or after 31st October 2008 shall be entitled to payment by the Government under section 9(4C), if —
 
@@ -924,11 +954,17 @@ means the later of the following events:
 
 (d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of at least 90 days immediately preceding the day of her confinement.
 
-(2) [Deleting by Act 28/2008 wef 31/10/2008]
+[28/2008 wef 31/10/2008]
+
+(2) [Deleted by Act 28/2008 wef 31/10/2008]
 
 (3) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to absent herself from work or to any payment under section 76 of that Act in respect of any confinement to which she is entitled to absent herself from work or to payment under section 9(1).
 
+[42/2004 wef 01/10/2004]
+
 (3A) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to receive payment under section 76 of that Act in respect of any period of her absence from work under section 76(1) of that Act for which she is entitled to receive payment under section 9(1A), (1C) or (1E).
+
+[9/2007 wef 01/03/2007]
 
 (4) Where a female employee absents herself from work during the whole or part of the benefit period —
 
@@ -960,6 +996,10 @@ means the later of the following events:
 
 (ii) shall not exceed a total of $40,000.
 
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
+
 (5) Where a self-employed woman ceases to be actively engaged in her trade, business, profession or vocation during the whole or part of any period referred to in section 9(4), (4A), (4B) or (4C) —
 
 (a) in respect of her first or second confinement, the amount of payment she shall be entitled to receive from the Government under section 9(5)(a) —
@@ -982,7 +1022,13 @@ means the later of the following events:
 
 (iii) shall not exceed a total of $40,000.
 
+[9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
+
 (6) The amounts of payment referred to in subsections (4) and (5) shall be inclusive of any contribution to the Central Provident Fund which an employer, a female employee or a self-employed woman is liable to make under the Central Provident Fund Act (Cap. 36).
+
+[42/2004 wef 01/03/2004]
 
 (7) Subject to subsections (3) and (3A), nothing in section 9 and this section shall be construed as derogating from any other benefits that a female employee is entitled to during the benefit period under the terms of her contract of service or under any other written law.
 
@@ -1019,6 +1065,8 @@ means the later of the following events:
 (B) under subsection (1A), (1C) or (1E) of section 9 for such period of her absence from work under section 76(1) of the Employment Act, or under that subsection, as she is entitled to receive payment under that subsection; and
 
 (ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
+
+[42/2004 wef 01/10/2004]
 
 [28/2008 wef 31/10/2008]
 
@@ -1070,6 +1118,8 @@ means the later of the following events:
 
 the employer shall be entitled to claim reimbursement from the Government in accordance with any regulations made under section 20 for the payments referred to in subsection (2).
 
+[28/2008 wef 31/10/2008]
+
 (2) The payments for which an employer shall be entitled to be reimbursed by the Government under subsection (1) shall be —
 
 (a) in respect of the first or second confinement of a female employee —
@@ -1094,6 +1144,8 @@ the employer shall be entitled to claim reimbursement from the Government in acc
 
 (ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
 
+[28/2008 wef 31/10/2008]
+
 (3) The amount of reimbursement an employer shall be entitled to claim from the Government under subsection (1) in respect of a female employee —
 
 (a) where subsection (2)(a) applies —
@@ -1107,6 +1159,8 @@ the employer shall be entitled to claim reimbursement from the Government in acc
 (i) shall not exceed $10,000 for every 4 weeks or 24 days, as the case may be, of the employee’s absence from work; and
 
 (ii) shall not exceed a total of $40,000.
+
+[28/2008 wef 31/10/2008]
 
 (4) Subject to subsections (5) and (6), where —
 
@@ -1132,6 +1186,8 @@ the employer shall be entitled to claim reimbursement from the Government in acc
 
 she shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
 
+[28/2008 wef 31/10/2008]
+
 (5) A self-employed woman referred to in subsection (4) who ceases or has ceased to be actively engaged in her trade, business, profession or vocation because of her confinement shall be entitled to receive payment from the Government under that subsection —
 
 (a) in respect of her first or second confinement —
@@ -1146,6 +1202,8 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 (b) in respect of her third or subsequent confinement, for the whole period of her cessation of active engagement in her trade, business, profession or vocation.
 
+[28/2008 wef 31/10/2008]
+
 (6) The amount of payment that a self-employed woman shall be entitled to receive from the Government under subsection (4) —
 
 (a) in respect of her first or second confinement, for the period referred to in subsection (5)(a)(i) or (ii) —
@@ -1159,6 +1217,8 @@ she shall be entitled to claim from the Government, in accordance with any regul
 (i) shall not exceed $10,000 for every 4 weeks or 24 days, as the case may be, of her cessation of active engagement in her trade, business, profession or vocation; and
 
 (ii) shall not exceed a total of $40,000.
+
+[28/2008 wef 31/10/2008]
 
 ### Recovery of payment by Government and employer
 
@@ -1306,11 +1366,15 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (b) any type of leave of absence to which the female employee is entitled under her contract of service with her employer that does not relate to the adoption of a child.
 
+[42/2004 wef 01/10/2004]
+
 [9/2007 wef 01/03/2007]
 
 [28/2008 wef 31/10/2008]
 
 (3) The amount of reimbursement an employer shall be entitled to claim from the Government in respect of a female employee under subsection (1) shall not exceed $10,000.
+
+[42/2004 wef 01/10/2004]
 
 [9/2007 wef 01/03/2007]
 
@@ -1326,11 +1390,11 @@ the employer shall be entitled to be reimbursed by the Government, in accordance
 
 (ii) is not a citizen of Singapore by birth and does not become a citizen of Singapore within 6 months from the date he is adopted by that employee,
 
-[28/2008 wef 31/10/2008]
-
 the Government may recover that payment from that employee as a civil debt.
 
 [9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
 
 (4) Subject to subsection (5), where —
 
@@ -1356,11 +1420,15 @@ the Government may recover that payment from that employee as a civil debt.
 
 the self-employed woman shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during the period or periods referred to in paragraph (d).
 
+[28/2008 wef 31/10/2008]
+
 (4A) [Deleted by Act 28/2008 wef 31/10/2008]
 
 (4B) [Deleted by Act 28/2008 wef 31/10/2008]
 
 (5) The amount of payment a self-employed woman shall be entitled to receive from the Government under subsection (4) shall not exceed $10,000.
+
+[42/2004 wef 01/10/2004]
 
 [9/2007 wef 01/03/2007]
 
@@ -1378,15 +1446,15 @@ the self-employed woman shall be entitled to claim from the Government, in accor
 
 (ii) is not a citizen of Singapore by birth and does not become a citizen of Singapore within 6 months from the date he is adopted by that self-employed woman,
 
-[28/2008 wef 31/10/2008]
-
 the Government may recover that payment from that self-employed woman as a civil debt.
 
 [9/2007 wef 01/03/2007]
 
+[28/2008 wef 31/10/2008]
+
 (7) In this section, “dependant’s pass”, in relation to a child, means a dependant’s pass issued in respect of the child under regulations made under the Immigration Act (Cap. 133) to enable the child to remain, or to enter and remain, in Singapore for the purposes of adoption under the Adoption of Children Act (Cap. 4).
 
-[42/2004 wef 01/10/2004]
+[9/2007 wef 01/03/2007]
 
 ### Childcare leave and benefits for parent of qualifying child
 
@@ -1408,6 +1476,8 @@ the employee shall be entitled to childcare leave for that relevant period of �
 
 (v) 6 days, if he serves his employer for not less than 11 months during that relevant period.
 
+[28/2008 wef 31/10/2008]
+
 (2) An employee —
 
 (a) shall not be entitled to more than 42 days of childcare leave in respect of any qualifying child;
@@ -1420,17 +1490,23 @@ the employee shall be entitled to childcare leave for that relevant period of �
 
 (c) shall not be entitled to more than 3 days of childcare leave (whether taken under section 87A of the Employment Act (Cap. 91) or under this section) during the period beginning on 17th August 2008 and ending on 31st December 2008.
 
+[28/2008 wef 31/10/2008]
+
 (3) Where any employee who has taken any childcare leave under section 87A of the Employment Act subsequently become entitled to childcare leave under this section —
 
 (a) the childcare leave taken under section 87A of the Employment Act shall be treated, for the purposes of this Act, as childcare leave taken under this section; and
 
 (b) a payment made by his employer to him under section 87A(5) of the Employment Act shall be treated, for the purposes of this Act, as a payment made by his employer to him under subsection (9).
 
+[28/2008 wef 31/10/2008]
+
 (4) Notwithstanding anything in section 87A of the Employment Act, when an employee becomes entitled to childcare leave under this section —
 
 (a) he shall not be entitled to childcare leave under section 87A of that Act, or to payment from his employer under section 87A(5) of that Act, for so long as he is entitled to childcare leave under this section; and
 
 (b) if, at that time, he has not received any payment from his employer under section 87A(5) of that Act in respect of any childcare leave already taken by him under section 87A of that Act, he shall be entitled to payment from his employer under subsection (9) in respect of the childcare leave so taken by him.
+
+[28/2008 wef 31/10/2008]
 
 (5) Notwithstanding anything in section 87A of the Employment Act, when an employee ceases to be entitled to childcare leave under this section, but has any child below the age of 7 years at any time during any relevant period, his entitlement, if any, to childcare leave under section 87A of that Act shall be affected in the following manner:
 
@@ -1439,6 +1515,8 @@ the employee shall be entitled to childcare leave for that relevant period of �
 (b) he shall be entitled to one day of childcare leave under section 87A of that Act for that relevant period, if he had taken one day of childcare leave under this section during that relevant period; and
 
 (c) he shall not be entitled to any childcare leave under section 87A of that Act for that relevant period, if he had taken 2 or more days of childcare leave under this section during that relevant period.
+
+[28/2008 wef 31/10/2008]
 
 (6) Where —
 
@@ -1454,6 +1532,8 @@ then —
 
 (ii) the payment referred to in paragraph (c) shall be treated, for the purposes of this Act, as a payment made by his employer to him under subsection (9).
 
+[28/2008 wef 31/10/2008]
+
 (7) The childcare leave shall be in addition to —
 
 (a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively, of the Employment Act; and
@@ -1468,9 +1548,15 @@ then —
 
 (b) shall not be entitled to any payment in lieu thereof.
 
+[28/2008 wef 31/10/2008]
+
 (9) Subject to subsection (10), an employer shall pay an employee who is entitled to childcare leave his gross rate of pay for every day of such leave that is taken by the employee.
 
+[28/2008 wef 31/10/2008]
+
 (10) Where an employee has taken 3 days of childcare leave, the amount of payment the employee is entitled to receive from his employer under subsection (9) shall not exceed $500 for each subsequent day of childcare leave that the employee is entitled to under subsection (1) and that is taken by the employee.
+
+[28/2008 wef 31/10/2008]
 
 (11) If the employment of an employee who is entitled to childcare leave is terminated (whether by resignation or dismissal, upon the completion of his contract of service, or for any other reason) before he has taken the entitlement of childcare leave for a relevant period, the employee —
 
@@ -1478,13 +1564,19 @@ then —
 
 (b) shall not be entitled to any payment in lieu thereof.
 
+[28/2008 wef 31/10/2008]
+
 (12) Any employer who contravenes subsection (9) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
 (b) for a subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[28/2008 wef 31/10/2008]
+
 (13) Where an employer has been convicted of an offence under subsection (12), the court may order the employer to make restitution of any moneys paid out to the employer by the Government under section 12C which have not been paid to an employee in accordance with this section.
+
+[28/2008 wef 31/10/2008]
 
 (14) Any employer who fails, without reasonable cause, to grant childcare leave to an employee who is entitled to and requests for such leave shall be guilty of an offence and shall be liable on conviction —
 
@@ -1492,7 +1584,11 @@ then —
 
 (b) for a subsequent offence, to a fine not exceeding $10,000.
 
+[28/2008 wef 31/10/2008]
+
 (15) Subject to subsections (4) and (5), nothing in this section shall be construed as derogating from any other benefits that an employee is entitled to, during any period of childcare leave taken by him, under the terms of his contract of service or under any written law.
+
+[28/2008 wef 31/10/2008]
 
 (16) Subject to subsections (17), (18) and (19) and any regulations made under section 20, where on or after 17th August 2008 any self-employed person —
 
@@ -1512,7 +1608,11 @@ he shall be entitled to claim from the Government the income he would otherwise 
 
 (iii) 3 days, if he ceased to be actively engaged in his trade, business, profession or vocation for childcare purposes for 6 or more days during that calendar year.
 
+[28/2008 wef 31/10/2008]
+
 (17) No self-employed woman shall be entitled to make a claim under subsection (16) in respect of any period of her cessation of active engagement in her trade, business, profession or vocation for which she is entitled to make a claim under section 9(4), (4A), (4B) or (4C) or 10A(4).
+
+[28/2008 wef 31/10/2008]
 
 (18) A self-employed person shall not be entitled to claim from the Government under subsection (16) —
 
@@ -1520,9 +1620,15 @@ he shall be entitled to claim from the Government the income he would otherwise 
 
 (b) any income lost by reason of his cessation of active engagement in his trade, business, profession or vocation for childcare purposes during any period occurring before 17th August 2008.
 
+[28/2008 wef 31/10/2008]
+
 (19) The amount of payment a self-employed person is entitled to claim from the Government under subsection (16) shall not exceed $500 for each day of his cessation of active engagement in his trade, business, profession or vocation for childcare purposes.
 
+[28/2008 wef 31/10/2008]
+
 (20) The amounts of payment referred to in subsections (10) and (19) shall be inclusive of any contribution to the Central Provident Fund which an employer, an employee or a self-employed person is liable to make under the Central Provident Fund Act (Cap. 36).
+
+[28/2008 wef 31/10/2008]
 
 (21) In this section and sections 11 and 12C —
 
@@ -1584,6 +1690,8 @@ he shall be entitled to claim from the Government the income he would otherwise 
 
 the employee shall be entitled to unpaid infant care leave of 6 days for that relevant period.
 
+[28/2008 wef 31/10/2008]
+
 (2) An employee —
 
 (a) shall not be entitled to more than 12 days of unpaid infant care leave in respect of any qualifying child; and
@@ -1594,6 +1702,8 @@ the employee shall be entitled to unpaid infant care leave of 6 days for that re
 
 (ii) thereafter, take his next and each subsequent entitlement of unpaid infant care leave of 6 days for a relevant period in the next succeeding relevant period and in each subsequent succeeding relevant period, respectively.
 
+[28/2008 wef 31/10/2008]
+
 (3) Where —
 
 (a) an employee satisfies the requirements under subsection (1)(a) and (b); and
@@ -1601,6 +1711,8 @@ the employee shall be entitled to unpaid infant care leave of 6 days for that re
 (b) between 17th August 2008 and 30th October 2008 (both dates inclusive), his employer has granted him at his request, and he has taken, any leave of absence without pay, in accordance with this section, for the purposes of caring for his child (being a child referred to in subsection (1)(b)),
 
 then such leave of absence shall be treated, for the purposes of this Act, as unpaid infant care leave under this section.
+
+[28/2008 wef 31/10/2008]
 
 (4) The unpaid infant care leave shall be in addition to —
 
@@ -1610,11 +1722,15 @@ then such leave of absence shall be treated, for the purposes of this Act, as un
 
 (b) any childcare leave to which an employee may be entitled under section 87A of the Employment Act or under section 12B.
 
+[28/2008 wef 31/10/2008]
+
 (5) Subject to subsection (2)(b), an employer shall grant, and an employee who is entitled to unpaid infant care leave shall take, the entitlement of unpaid infant care leave for a relevant period not later than the last day of that relevant period, and any employee who fails to take that leave by that day —
 
 (a) shall thereupon cease to be entitled to that leave; and
 
 (b) shall not be entitled to any payment in lieu thereof.
+
+[28/2008 wef 31/10/2008]
 
 (6) If the employment of an employee who is entitled to unpaid infant care leave is terminated (whether by resignation or dismissal, upon the completion of his contract of service, or for any other reason) before he has taken the entitlement of unpaid infant care leave for a relevant period, the employee —
 
@@ -1628,9 +1744,15 @@ then such leave of absence shall be treated, for the purposes of this Act, as un
 
 (b) for a subsequent offence, to a fine not exceeding $10,000.
 
+[28/2008 wef 31/10/2008]
+
 (8) Nothing in this section shall be construed as derogating from any other benefits that an employee is entitled to, during any period of unpaid infant care leave taken by him, under the terms of his contract of service or under any written law.
 
+[28/2008 wef 31/10/2008]
+
 (9) Notwithstanding anything to the contrary in the Employment Act, a period of unpaid infant care leave taken by an employee under this section shall count towards the length of the employee’s service for the purposes of that Act.
+
+[28/2008 wef 31/10/2008]
 
 (10) In this section —
 
@@ -1719,6 +1841,7 @@ shall be referred to the Minister for decision within one month from the date on
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) Where a person has been convicted by the court of having made any false or misleading statement or having produced or furnished any document which is false or misleading in any material particular under subsection (1), the court may order that person to make restitution of any moneys paid out to that person by the Government in reliance of the false or misleading statement or document.
+
 
 ### Failure of employer to pay female employee
 
@@ -1888,3 +2011,9 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 34/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
+|8.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
