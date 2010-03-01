@@ -836,7 +836,9 @@ APPEALS
 
 (c) has been sentenced to imprisonment for a term exceeding 6 months and has not suffered such punishment or received a free pardon; or
 
-(d) is a person found or declared under any written law to be of unsound mind.
+(d) is mentally disordered and incapable of managing himself or his affairs.
+
+[21/2008 wef 01/03/2010]
 
 [25/63]
 
@@ -1874,6 +1876,13 @@ This Legislative History is provided for the convenience of users of the Propert
 |||(Bill No. 31/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
+|19.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
+|||(item 1(40) in the Second Schedule)|
 ## COMPARATIVE TABLE
 
 Property Tax Act
