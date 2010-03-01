@@ -424,33 +424,37 @@ and in making his decision, the Minister shall have regard to any report made to
 
 [19/99]
 
-(3) The Director in order to —
+(3) The Director or authorised officer may, in order to —
 
 (a) ascertain whether the provisions of this Act or any regulations made thereunder are being complied with; or
 
 (b) assess the quality and appropriateness of the facilities and services provided and the practices and procedures being carried out at the private hospital, medical clinic, clinical laboratory or healthcare establishment,
 
-may, at any time, require the licensee or person having the management or control of a private hospital, medical clinic, clinical laboratory or healthcare establishment to furnish such information as the Director may require relating to —
+exercise any of the following powers at any time:
 
-(i) the persons employed thereat;
+(i) by order in writing require any person —
 
-(ii) any apparatus, appliance, equipment or instrument used or any practice or procedure being carried out at the private hospital, medical clinic, clinical laboratory or healthcare establishment; or
+(A) to furnish any information within his knowledge; or
 
-(iii) the condition, treatment or diagnosis of any person who has been or who is being treated or examined at the private hospital, medical clinic, clinical laboratory or healthcare establishment, notwithstanding that the prior consent of such person has not been obtained.
+(B) to produce any book, document, paper or other record, or any article or thing which may be in his custody or possession and which may be related to or be connected with the subject-matter of the investigation or assessment for inspection by the Director or authorised officer and for making copies thereof, or to provide copies of such book, document, paper or other record,
 
-[19/99]
+and may, if necessary, further require such person to attend at a specified time and place for the purpose of complying with sub-paragraph (A) or (B);
 
-(4) Any licensee or person having the management or control of the private hospital, medical clinic, clinical laboratory or healthcare establishment who —
+(ii) by order in writing require the attendance before him of any person who, from any information given or otherwise, appears to be acquainted with the facts and circumstances of the matter under investigation or assessment;
 
-(a) refuses or fails, without reasonable excuse, to furnish any information to the Director in contravention of subsection (3); or
+(iii) examine orally any person apparently acquainted with the facts and circumstances of the matter under investigation or assessment, and to reduce into writing the answer given or statement made by that person who shall be bound to state truly the facts and circumstances with which he is acquainted, and the statement made by that person shall be read over to him and shall, after correction, be signed by him.
+
+[1/2010 wef 01/12/2010]
+
+(4) Any person who —
+
+(a) refuses or fails, without reasonable excuse, to furnish any information or thing to the Director or authorised officer in contravention of subsection (3); or
 
 (b) gives any false or misleading information,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[11
-
-[19/99]
+[1/2010 wef 01/12/2010]
 
 ### Confidentiality of information
 
@@ -466,11 +470,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) the Infectious Diseases Act (Cap. 137);
 
-(iii) the Termination of Pregnancy Act (Cap. 324); or
+(iii) the Termination of Pregnancy Act (Cap. 324);
 
 (iv) the Human Organ Transplant Act (Cap. 131A);
 
 [2/2008 wef 01/08/2008]
+
+(v) the Health Products Act (Cap. 122D); or
+
+[1/2010 wef 01/12/2010]
+
+(vi) the Medicines Act (Cap. 176);
+
+[1/2010 wef 01/12/2010]
 
 (b) for the purpose of making a complaint or providing information under Part V of the Dental Registration Act (Cap. 76), Part VII of the Medical Registration Act (Cap. 174) or Part VI of the Pharmacists Registration Act 2007; or
 
@@ -486,11 +498,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) in relation to an infant, means one of his parents or his guardian; and
 
-(c) in relation to a mentally disordered person, means the committee of the estate of that person appointed under the Mental Disorders and Treatment Act (Cap. 178).
+(c) in relation to a person who lacks capacity within the meaning of the Mental Capacity Act 2008, means the deputy appointed or deemed to be appointed for the person by the High Court under that Act, with power to consent to such disclosure.
 
 [12
 
 [19/99]
+
+[21/2008 wef 01/03/2010]
 
 ### Directions as to apparatus, appliance, equipment, etc.
 
@@ -655,6 +669,12 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 36/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|1 September 2008|
+|10.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
