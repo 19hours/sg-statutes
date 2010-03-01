@@ -248,7 +248,7 @@ PRELIMINARY
 
 “Court” means an Industrial Arbitration Court established under section 3;
 
-“employee” means a person who has entered into or works under a contract of service with an employer and includes an officer or servant of the Government included in a category, class or description of such officers or servants declared by notification in theGazetteby the President of Singapore to be employees for the purposes of this Act, but does not include any person or class of persons whom the Minister may from time to time by notification in the Gazette declare not to be employees for the purposes of this Act;
+“employee” means a person who has entered into or works under a contract of service with an employer and includes an officer or servant of the Government included in a category, class or description of such officers or servants declared by notification in theGazetteby the President of Singapore to be employees for the purposes of this Act, but does not include any person or class of persons whom the Minister may from time to time by notification in theGazettedeclare not to be employees for the purposes of this Act;
 
 “employer” means any person who employs another person under a contract of service and includes —
 
@@ -350,7 +350,9 @@ INDUSTRIAL ARBITRATION COURTS
 
 (a) is an undischarged bankrupt;
 
-(b) is of unsound mind;
+(b) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (c) is not a citizen of Singapore;
 
@@ -359,6 +361,8 @@ INDUSTRIAL ARBITRATION COURTS
 (e) has within the previous 3 years been convicted of an offence under this Act or the Trade Disputes Act (Cap. 331),
 
 shall not be eligible for appointment to a panel.
+
+[21/2008 wef 01/03/2010]
 
 (5) The Minister may exempt any person from subsection (1) or (3).
 
@@ -1622,6 +1626,12 @@ This Legislative History is provided for the convenience of users of the Industr
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1st January 2006|
+|16.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
