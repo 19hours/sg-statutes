@@ -554,8 +554,6 @@ PRELIMINARY
 
 “Legal Service Officer” means an officer in the Singapore Legal Service;
 
-[20/2009 wef 09/10/2009]
-
 “licensed foreign law practice” means a foreign law practice licensed under section 130E;
 
 “limited liability law partnership” means a limited liability partnership approved as a limited liability law partnership under section 81Q;
@@ -566,11 +564,7 @@ PRELIMINARY
 
 “practice training contract” means a formal training arrangement between a qualified person and a Singapore law practice, pursuant to which the qualified person receives, and the Singapore law practice provides, supervised training in relation to the practice of Singapore law;
 
-[20/2009 wef 09/10/2009]
-
 “practice training period” means the period during which a qualified person is required to receive supervised training in relation to the practice of Singapore law before he can be admitted as an advocate and solicitor;
-
-[20/2009 wef 09/10/2009]
 
 “practise Singapore law” means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of an advocate and solicitor under Part IV;
 
@@ -594,11 +588,7 @@ PRELIMINARY
 
 (c) is approved by the Board as a qualified person under section 7 in force immediately before the date of commencement of section 2(e) of the Legal Profession (Amendment) Act 2009; or
 
-[20/2009 wef 09/10/2009]
-
 (d) is approved by the Minister as a qualified person under section 15A(1);
-
-[20/2009 wef 09/10/2009]
 
 “Qualifying Foreign Law Practice” means a foreign law practice licensed under section 130D;
 
@@ -611,8 +601,6 @@ PRELIMINARY
 (a) a Legal Service Officer; or
 
 (b) a legal officer of such statutory body or law office in the public service as the Minister may prescribe by rules published in theGazette;
-
-[20/2009 wef 09/10/2009]
 
 “Review Committee” means a Review Committee constituted under section 85(6);
 
@@ -714,8 +702,6 @@ Board of Legal Education
 
 (c) to exercise supervision over qualified persons during their respective practice training periods;
 
-[20/2009 wef 09/10/2009]
-
 (d) to consider and from time to time make recommendations to the appropriate authorities on the syllabus, the contents of courses of instruction and examinations leading to the qualification of persons as qualified persons; and
 
 (e) to grant prizes and scholarships and to establish and subsidise lectureships in educational institutions in subjects of study relating to law.
@@ -750,23 +736,13 @@ Board of Legal Education
 
 (b) with respect to the supervised training in relation to the practice of Singapore law which qualified persons are required to receive before they can be admitted as advocates and solicitors;
 
-[20/2009 wef 09/10/2009]
-
 (c) for regulating the manner in which qualified persons are to serve their respective practice training periods before they can be admitted as advocates and solicitors;
-
-[20/2009 wef 09/10/2009]
 
 (d) for prescribing the courses of instruction, and the subjects therein, which qualified persons are required to attend before they can be admitted as advocates and solicitors, and for regulating the conduct of qualified persons attending such courses of instruction;
 
-[20/2009 wef 09/10/2009]
-
 (e) for prescribing the examinations which qualified persons are required to pass before they can be admitted as advocates and solicitors,and for regulating the conduct of qualified persons during such examinations;
 
-[20/2009 wef 09/10/2009]
-
 (f) for regulating the manner in which qualified persons are to keep dining terms before they can be admitted as advocates and solicitors;
-
-[20/2009 wef 09/10/2009]
 
 (g) for the appointment of lecturers and examiners and for the payment of fees to them;
 
@@ -868,11 +844,7 @@ Qualified persons
 
 (c) has satisfactorily served the practice training period applicable to him, and has, during that period, received such supervised trainingin relation to the practice of Singapore law as may be prescribed by the Board;
 
-[20/2009 wef 09/10/2009]
-
 (d) has attended and satisfactorily completed such courses of instructionas may be prescribed by the Board;
-
-[20/2009 wef 09/10/2009]
 
 (e) has passed such examinations as may be prescribed by the Board; and
 
@@ -882,11 +854,7 @@ Qualified persons
 
 (f) has kept such dining terms as may be prescribed by the Board.
 
-[20/2009 wef 09/10/2009]
-
 (2) The Board may, in its discretion, exempt a qualified person from the whole or any part of the requirement under subsection (1)(f), if the Board is of the opinion that the qualified person is, by reason of his standing and experience or for any other cause, a fit and proper person to be so exempted.
-
-[20/2009 wef 09/10/2009]
 
 (3) An exemption granted to a person under subsection (2) —
 
@@ -895,8 +863,6 @@ Qualified persons
 (b) may be notified in writing to the person; and
 
 (c) need not be published in theGazette.
-
-[20/2009 wef 09/10/2009]
 
 ### Service of practice training period
 
@@ -936,8 +902,6 @@ Qualified persons
 
 (6) Where a qualified person attends a course of instruction referred to in section 12(1)(d) while concurrently receiving any supervised training in relation to the practice of Singapore law under a practice training contract, or through working as a Legal Service Officer or under the supervision of a qualifying relevant legal officer, the period spent in attendance at the course of instruction shall not count as part of the qualified person’s practice training period.
 
-[20/2009 wef 09/10/2009]
-
 ### Transitional arrangements relating to period of pupillage
 
 14\.—(1) Where, before the appointed day, a qualified person has served his period of pupillage or any part thereof with an advocate and solicitor referred to in section 14(1)(a) or (c) in force immediately before that day (being an advocate and solicitor in active practice in a Singapore law practice), then on and after that day, the qualified person shall be deemed to have received, during that period of pupillage or part thereof, supervised training in relation to the practice of Singapore law under a practice training contract.
@@ -955,8 +919,6 @@ Qualified persons
 (b) the period of pupillage or part thereof which he has served shall count as part of his practice training period.
 
 (4) In this section, “appointed day” means the date of commencement of secion 7 of the Legal Profession (Amendment) Act 2009.
-
-[20/2009 wef 09/10/2009]
 
 ### Admission of Malayan practitioners
 
@@ -995,8 +957,6 @@ Qualified persons
 (b) may be notified in writing to the person; and
 
 (c) need not be published in theGazette.
-
-[20/2009 wef 09/10/2009]
 
 ### Hong Kong practitioners
 
@@ -1044,8 +1004,6 @@ Qualified persons
 
 (d) in the case of an applicant who is required to serve a practice training period, such certificate or certificates as the Board may prescribe under rules made under section 5(4), or such other evidence as the court may require, that the applicant has served his practice training period with diligence; and
 
-[20/2009 wef 09/10/2009]
-
 (e) a certificate signed by the Secretary of the Board stating that the applicant —
 
 (i) has satisfactorily served the practice training period applicable to him, or has been exempted therefrom under section 15(1), under any rules made under section 15A(2) or by the Minister under section 15A(3);
@@ -1055,8 +1013,6 @@ Qualified persons
 (iii) has passed the examinations referred to in section 12(1)(e) or 15(1), or has been exempted therefrom under any rules made under section 15A(2) or by the Minister under section 15A(3); and
 
 (iv) has kept the dining terms referred to in section 12(1)(f), or has been exempted therefrom by the Board under section 12(2).
-
-[20/2009 wef 09/10/2009]
 
 (5) The affidavit and certificates referred to in this section shall be in the form prescribed by the Board.
 
@@ -1496,17 +1452,11 @@ and served on the Society; and
 
 (g) if he has one or more outstanding judgments against him amounting in the aggregate to $100,000 or more which he has been unable to satisfy within 6 months from the date of the earliest judgment; or
 
-1(h) if he has been found under section 7 of the Mental Disorders and Treatment Act (Cap. 178) to be of unsound mind and incapable of managing himself and his affairs.
-
-[16/93; 15/95; 40/96; 4/2000; 23/2004; 41/2005; 19/2008]
-
-1Paragraph (h) of section 26(1) will be deleted and substituted by the following paragraph when item 1(26)(a) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
 (h) if he lacks capacity within the meaning of the Mental Capacity Act 2008 to act as a solicitor.
 
-”.
+[21/2008 wef 01/03/2010]
+
+[16/93; 15/95; 40/96; 4/2000; 23/2004; 41/2005; 19/2008]
 
 (1A) No solicitor shall apply for a practising certificate to practise as a locum solicitor unless he is a citizen or a permanent resident of Singapore, and —
 
@@ -1752,19 +1702,11 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, is dismissed from the Faculty or School, as the case may be;
 
-[20/2009 wef 09/10/2009]
-
 (d) is convicted of an offence by a court of law in Singapore or elsewhere and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $2,000 and has not received a free pardon;
-
-2(e) becomes of unsound mind;
-
-2Paragraph (e) of section 30(5) will be deleted and substituted by the following paragraph when item 1(26)(b) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
 
 (e) becomes mentally disordered and incapable of managing himself or his affairs;
 
-”.
+[21/2008 wef 01/03/2010]
 
 (f) is an undischarged bankrupt; or
 
@@ -1829,8 +1771,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 (b) a District Judge, a Magistrate, the Registrar of the Subordinate Courts or a Deputy Registrar of the Subordinate Courts in chambers; and
 
 (c) a District Judge or a Magistrate to mention a case or to apply for bail.
-
-[20/2009 wef 09/10/2009]
 
 ### Unauthorised person acting as advocate or solicitor
 
@@ -2472,15 +2412,9 @@ Officers of Council
 
 (a) he has been struck off the roll or suspended from practising as an advocate and solicitor or has been convicted of an offence involving fraud or dishonesty;
 
-3(b) he becomes of unsound mind;
-
-3Paragraph (b) of section 57(1) will be deleted and substituted by the following paragraph when item 1(26)(c) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
 (b) he becomes mentally disordered and incapable of managing himself or his affairs;
 
-”.
+[21/2008 wef 01/03/2010]
 
 (c) he is an undischarged bankrupt;
 
@@ -3051,6 +2985,8 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 (5) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [40/96; 20/2007]
+
+(6) [Deleted by Act 20/2009 wef 09/10/2009]
 
 ### Qualification to use title of consultant
 
@@ -6432,15 +6368,9 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (ga) the fitness of a sole proprietor to practise has been determined under section 25C to be impaired by reason of his physical or mental condition, or a sole proprietor, having been ordered by a Judge to submit to a medical examination under section 25C to be conducted within such period as the Judge may specify in the order, fails to do so;
 
-5(h) a solicitor has been found under section 7 of the Mental Disorders and Treatment Act (Cap. 178) to be of unsound mind and incapable of managing himself and his affairs;
-
-5Sub-paragraph (h) of paragraph 1(1) of the First Schedule will be deleted and substituted by the following sub-paragraph when item 1(26)(d) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
-
-“
-
 (h) a solicitor lacks capacity within the meaning of the Mental Capacity Act 2008 to act as a solicitor;
 
-”.
+[21/2008 wef 01/03/2010]
 
 (i) the name of a solicitor has been removed from or struck off the roll or a solicitor has been suspended from practice;
 
@@ -6984,6 +6914,12 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 13/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|9 October 2009|
+|47.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
