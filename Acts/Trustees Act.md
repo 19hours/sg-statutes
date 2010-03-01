@@ -252,7 +252,7 @@
 
 - [82 Penalty for not filing returns, etc.](#Penalty-for-not-filing-returns-etc)
 
-[**Part ?? UNIT TRUST SCHEMES**](#Part-??)
+[**Part VII UNIT TRUST SCHEMES**](#Part-VII)
 
 - [83 (Repealed)](#Repealed)
 
@@ -342,15 +342,11 @@ PRELIMINARY
 
 “land” has the same meaning as in section 4 of the Land Titles Act (Cap. 157);
 
-“mentally disordered person” means any person found by due course of law to be of unsound mind and incapable of managing himself or his affairs;
-
 “mortgage”, “mortgagee” and “mortgagor” include “charge”, “chargee” and “chargor” respectively, and further include and relate to every estate and interest regarded in equity as merely a security for money, and every person deriving title under the original mortgagee;
 
 “pay” and “payment”, as applied in relation to stocks and securities and in connection with the expression “into court”, include the deposit or transfer of the same in or into court;
 
 “personal representative” means the executor, original or by representation, or administrator for the time being of a deceased person;
-
-“person of unsound mind” means any person, not a minor, who not having been found to be a mentally disordered person is incapable from infirmity of mind of managing his own affairs;
 
 “possessed” applies to receipt of income of and to any vested estate less than a life interest in possession or in expectancy in any land;
 
@@ -380,11 +376,13 @@ PRELIMINARY
 
 “trust” does not include the duties incident to an estate conveyed by way of mortgage, but with this exception “trust” and “trustee” extend to implied and constructive trusts, and to cases where the trustee has a beneficial interest in the trust property, and to the duties incident to the office of a personal representative, and “trustee” where the context admits includes a personal representative, and “new trustee” includes an additional trustee;
 
-“1trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;
+“\*trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;
 
 [11/2005 wef 01/02/2006]
 
-1Definition of “trust corporation” will be amended as follows when item 8 of the Fifth Schedule of the Trust Companies Act 2005 is brought into operation:
+\*Definition of “trust corporation” will be amended as follows when item 8 of the Fifth Schedule of the Trust Companies Act 2005 is brought into operation:
+
+“ “trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;”
 
 “trust for sale”, in relation to land, means an immediate binding trust for sale, whether or not exercisable at the request or with the consent of any person, and with or without power at discretion to postpone the sale;
 
@@ -408,9 +406,9 @@ STATUTORY DUTY OF CARE
 
 [45/2004]
 
-(2) This section shall apply in relation to trusts whether created before, on or after 15th December 20042except if, or in so far as, it appears from the trust instrument that the requirements of subsection (1) are not meant to apply.
+(2) This section shall apply in relation to trusts whether created before, on or after 15th December 2004\*except if, or in so far as, it appears from the trust instrument that the requirements of subsection (1) are not meant to apply.
 
-2Date of commencement of the Trustees (Amendment) Act 2004 (Act 45 of 2004).
+\*Date of commencement of the Trustees (Amendment) Act 2004 (Act 45 of 2004).
 
 [UK Trustee 2000, s. 1]
 
@@ -494,7 +492,7 @@ INVESTMENTS
 
 Investment in bearer securities
 
-8\. [Repealed by Act 45/2004]
+8\. [Repealed byAct 45/2004]
 
 ### Loans and investments by trustees not chargeable as breaches of trust
 
@@ -506,9 +504,9 @@ Investment in bearer securities
 
 [23/92; 45/2004]
 
-(2) This section shall apply to transfers of existing securities as well as to new securities and to investments made before, on or after 26th June 19923.
+(2) This section shall apply to transfers of existing securities as well as to new securities and to investments made before, on or after 26th June 1992\*.
 
-3Date of commencment of the Trustees (Amendment) Act 1992 (Act 23 of 1992).
+\*Date of commencement of the Trustees (Amendment) Act 1992 (Act 23 of 1992).
 
 [UK Trustee 1925, s. 8; Trustees Ordinance 1955 Ed., s. 9]
 
@@ -772,7 +770,7 @@ General Powers
 
 Deposit of documents for safe custody
 
-23\. [Repealed by Act 45/2004]
+23\. [Repealed byAct 45/2004]
 
 ### Reversionary interests, valuations and audit
 
@@ -804,17 +802,17 @@ unless required in writing to do so by some person, or the guardian of some pers
 
 [45/2004]
 
-(5)4Trustees may, in their absolute discretion, from time to time, but not more than once in every year unless the nature of the trust or any special dealings with the trust property make a more frequent exercise of the right reasonable, cause the accounts of the trust property to be examined or audited by an independent accountant, and shall, for that purpose, produce such vouchers and give such information to him as he may require.
+(5)\*Trustees may, in their absolute discretion, from time to time, but not more than once in every year unless the nature of the trust or any special dealings with the trust property make a more frequent exercise of the right reasonable, cause the accounts of the trust property to be examined or audited by an independent accountant, and shall, for that purpose, produce such vouchers and give such information to him as he may require.
 
-4Compare section 22 of the Public Trustee Act (Cap. 260).
+\*Compare section 22 of the Public Trustee Act (Cap. 260).
 
 (6) The costs of such examination or audit, including the fee of the auditor, shall be paid out of the capital or income of the trust property, or partly in one way and partly in the other as the trustees, in their absolute discretion, think fit, but, in default of any direction by the trustees to the contrary in any special case, costs attributable to capital shall be borne by capital and those attributable to income by income.
 
-[UK Trustee 1925, s. 22; Trustees Ordinance 1955 Ed., s. 24]
+[Trustees Ordinance 1955 Ed., s. 24]
 
 Power to employ agents
 
-25\. [Repealed by Act 45/2004]
+25\. [Repealed byAct 45/2004]
 
 ### Power to concur with others
 
@@ -1094,11 +1092,11 @@ may, by writing, appoint another person or other persons to be an additional tru
 
 (9) The provisions of this section relating to a trustee who is dead include the case of a person nominated a trustee in a will but dying before the testator, and those relative to a continuing trustee include a refusing or retiring trustee, if willing to act in the execution of the provisions of this section.
 
-(10) Where a mentally disordered person or a person of unsound mind, being a trustee, is also entitled in possession to some beneficial interest in the trust property, no appointment of a new trustee in his place shall be made by the continuing trustees or trustee, under this section, unless leave has been given by the court to make the appointment.
+(10) Where a trustee lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee and is also entitled in possession to some beneficial interest in the trust property, no appointment of a new trustee in his place shall be made by the continuing trustees or trustee, under this section, unless leave has been given by the court to make the appointment.
+
+[Trustees Ordinance 1955 Ed., s. 37]
 
 [21/2008 wef 01/03/2010]
-
-[UK Trustee 1925, s. 36; Trustees Ordinance 1955 Ed., s. 37]
 
 ### Supplemental provisions as to appointment of trustees
 
@@ -1418,7 +1416,7 @@ that the affairs of the first-mentioned body corporate are conducted in accordan
 
 (b) authorised to exercise functions as their agent (whether under section 41B or any other power).
 
-[UK Trustee 2000, s. 19]
+[[UK Trustee 2000, s. 19] ]
 
 [45/2004]
 
@@ -1722,7 +1720,9 @@ POWERS OF COURT
 
 (a) sentenced to a term of imprisonment;
 
-(b) a mentally disordered person or a person of unsound mind;
+(b) found to lack capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;
+
+[21/2008 wef 01/03/2010]
 
 (c) a bankrupt; or
 
@@ -1730,7 +1730,15 @@ POWERS OF COURT
 
 (3) An order made under this section, and any consequential vesting order or conveyance, shall not operate further or otherwise as a discharge to any former or continuing trustee than an appointment of new trustees under any power for that purpose contained in any instrument would have operated.
 
-(4) Nothing in this section shall give power to appoint an executor or administrator.
+(4) Nothing in this section shall —
+
+(a) give power to appoint an executor or administrator;
+
+(b) prevent a donee of a lasting power of attorney created by a trustee from acting for the trustee when such trustee lacks capacity to exercise his functions as trustee.
+
+[22/2008 wef 01/03/2010]
+
+[Trustees Ordinance 1955 Ed., s. 42]
 
 ### Power to authorise remuneration
 
@@ -2104,7 +2112,7 @@ Incorporation of Trustees
 
 Applications and certificates to be stamped
 
-73\. [Repealed by Act 38/2002]
+73\. [Repealed byAct 38/2002]
 
 ### Gifts to vest in body corporate
 
@@ -2192,19 +2200,19 @@ Applications and certificates to be stamped
 
 82\. If any trustee fails to comply or to take all reasonable steps to secure compliance with any of the provisions of this Part which requires the lodging or filing with the Public Trustee of any return, account or other documents or the giving of notice to him of any matter, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day during which the offence continues after conviction.
 
-## PART ??5
+## PART VII\*
 
 UNIT TRUST SCHEMES
 
-5Part VII is repealed by the Trustees (Amendment) Act 2004 (Act 45 of 2004) and any order made under that Part declaring any unit trust scheme to be an authorised unit trust scheme for the purposes thereof shall cease to have effect.
+\*Part VII is repealed by the Trustees (Amendment) Act 2004 (Act 45 of 2004) and any order made under that Part declaring any unit trust scheme to be an authorised unit trust scheme for the purposes thereof shall cease to have effect.
 
 Power of Minister to make order declaring a unit trust scheme to be an authorised unit trust scheme
 
-83\. [Repealed by Act 45/2004]
+83\. [Repealed byAct 45/2004]
 
 Investigation into the administration of unit trust scheme by inspectors appointed by Minister
 
-84\. [Repealed by Act 45/2004]
+84\. [Repealed byAct 45/2004]
 
 ## PART VIII
 
@@ -2575,6 +2583,18 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
+|28.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
+|29.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Trustees Act
