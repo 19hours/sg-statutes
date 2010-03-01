@@ -90,7 +90,9 @@ An Act to provide for, and give legal effect to, advance directives to medical p
 
 (b) the reasonable provision of food and water;
 
-“patient” means any person (whether or not he is undergoing any medical treatment, care or therapy) of sound mind who has attained the age of 21 years and who has made or desires to make a directive in accordance with this Act;
+“patient” means any person (whether or not he is undergoing any medical treatment, care or therapy) who is not mentally disordered, who has attained the age of 21 years and who has made or desires to make a directive in accordance with this Act;
+
+[21/2008 wef 01/03/2010]
 
 “recovery”, in relation to a terminal illness, includes a remission of symptoms or effects of the illness;
 
@@ -108,7 +110,9 @@ An Act to provide for, and give legal effect to, advance directives to medical p
 
 ### Power to make advance medical directive
 
-3\.—(1) A person of sound mind who has attained the age of 21 years and who desires not to be subjected to extraordinary life-sustaining treatment in the event of his suffering from a terminal illness, may at any time make an advance medical directive in the prescribed form.
+3\.—(1) A person who is not mentally disordered, who has attained the age of 21 years and who desires not to be subjected to extraordinary life-sustaining treatment in the event of his suffering from a terminal illness, may at any time make an advance medical directive in the prescribed form.
+
+[21/2008 wef 01/03/2010]
 
 (2) Subject to subsection (3), the directive must be witnessed by 2 witnesses present at the same time one of whom shall be the patient’s family medical practitioner or any other practitioner of his choice; and the other shall be a person who has attained the age of 21 years.
 
@@ -128,7 +132,9 @@ An Act to provide for, and give legal effect to, advance directives to medical p
 
 4\. Before witnessing the execution of the directive on the prescribed form, a witness who is a medical practitioner shall take reasonable steps in the circumstances to ensure that the patient —
 
-(a) is of sound mind;
+(a) is not mentally disordered;
+
+[21/2008 wef 01/03/2010]
 
 (b) has attained the age of 21 years;
 
@@ -403,3 +409,9 @@ This Legislative History is provided for the convenience of users of the Advance
 ||Date of commencement|1 July 1997|
 |2.|**1997 Revised Edition—Advance Medical Directive Act**|
 ||Date of operation|20 December 1997|
+|3.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
