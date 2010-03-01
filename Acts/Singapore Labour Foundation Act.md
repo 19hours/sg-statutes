@@ -104,7 +104,7 @@ PRELIMINARY
 
 “member” means a member of the Foundation;
 
-“National Trades Union Congress” means the National Trades Union Congress registered under the Trade Unions Act [Cap. 333].
+“National Trades Union Congress” means the National Trades Union Congress registered under the Trade Unions Act (Cap. 333).
 
 ## PART II
 
@@ -182,7 +182,9 @@ THE FOUNDATION AND THE BOARD
 
 (5) The Board may at any time terminate the membership of any member —
 
-(a) if he becomes of unsound mind;
+(a) if he becomes mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) if he becomes a bankrupt or suspends payment to, or makes any arrangement or composition with, his creditors;
 
@@ -330,7 +332,7 @@ Provided that nothing in this section shall be construed as preventing the payme
 
 ### Auditors
 
-21\. The auditors to be appointed by the Foundation at a general meeting shall be approved company auditors within the meaning of the Companies Act [Cap. 50].
+21\. The auditors to be appointed by the Foundation at a general meeting shall be approved company auditors within the meaning of the Companies Act (Cap. 50).
 
 ### Annual report
 
@@ -376,3 +378,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (item (39) of the Schedule — amendment of Singapore Labour Foundation Act)|
+|4.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (item (46) of the Second Schedule — amendment of Singapore Labour Foundation Act)|
