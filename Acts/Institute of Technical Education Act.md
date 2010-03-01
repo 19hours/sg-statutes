@@ -268,7 +268,9 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 9\. The office of a member shall be vacated if the member —
 
-(a) becomes of unsound mind;
+(a) becomes mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is adjudicated a bankrupt;
 
@@ -605,3 +607,9 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|6.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
