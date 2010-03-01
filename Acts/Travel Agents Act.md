@@ -106,7 +106,9 @@ PRELIMINARY
 
 ### Application
 
-3\.—(1) Nothing in this Act shall be construed as requiring any executor, administrator, trustee, liquidator, official receiver, trustee in bankruptcy of a bankrupt estate, trustee under a composition or scheme of arrangement or under a deed of arrangement or under a deed of assignment, committee of the estate or person of a mentally ill person, or manager of the property of an incapable person, for the purpose of performing his functions, exercising his powers or carrying out his duties as such, to hold a licence.
+3\.—(1) Nothing in this Act shall be construed as requiring any executor, administrator, trustee, liquidator, official receiver, trustee in bankruptcy of a bankrupt estate, trustee under a composition or scheme of arrangement or under a deed of arrangement or under a deed of assignment, or deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008 with power in relation to such person for the purposes of this Act, to hold a licence for the purpose of performing his functions, exercising his powers or carrying out his duties as such.
+
+[21/2008 wef 01/03/2010]
 
 (2) Notwithstanding anything in subsection (1), it shall not be lawful for any of the persons referred to in that subsection in whom is vested the management of the business of any travel agent to carry on that business at any time after the expiration of 3 months from the date on which the management of that business was so vested, unless that person holds a licence.
 
@@ -473,3 +475,9 @@ This Legislative History is provided for the convenience of users of the Travel 
 ||Date of commencement|3 December 1993|
 |4.|**1998 Revised Edition—Travel Agents Act (Chapter 334)**|
 ||Date of operation|30 May 1998|
+|5.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
