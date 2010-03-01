@@ -158,7 +158,9 @@ Provided that if that person proves that he is a citizen of Singapore or an exem
 
 ### Removal of detained person to mental hospital
 
-9\.—(1) Whenever a person detained under the provisions of this Act appears to the Minister, on the certificate of a registered medical practitioner, to be of unsound mind, the Minister may, by order in writing setting forth the grounds of belief that the person is of unsound mind, direct his removal to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Minister directs until it appears to the Minister, on the certificate of a registered medical practitioner, that the person has again become of sound mind; and an order made under this subsection shall, notwithstanding the provisions of any written law to the contrary be sufficient authority for the reception of that person to the mental hospital or other place mentioned in the order.
+9\.—(1) Whenever a person detained under the provisions of this Act appears to the Minister, on the certificate of a registered medical practitioner, to be mentally disordered, the Minister may, by order in writing setting forth the grounds of belief that the person is mentally disordered, direct his removal to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Minister directs until it appears to the Minister, on the certificate of a registered medical practitioner, that the person has ceased to be mentally disordered; and an order made under this subsection shall, notwithstanding the provisions of any written law to the contrary be sufficient authority for the reception of that person to the mental hospital or other place mentioned in the order.
+
+[21/2008 wef 01/03/2010]
 
 (2) In this section, “registered medical practitioner” means a medical practitioner who is registered under any written law for the time being in force relating to the registration of medical practitioners.
 
@@ -276,7 +278,7 @@ The Banishment Act
 
 (Chapter 18)
 
-WARRANT OF ARREST AND DETENTION
+Warrant of Arrest and Detention
 
 To:
 
@@ -284,11 +286,11 @@ The Commissioner of Police and all other police officers
 
 *The Director of Prisons.
 
-Whereas it appears to me in accordance with section 3 of the Banishment Act that it is conducive to the public good that …………………………… of ……….........……… be banished from Singapore:
+Whereas it appears to me in accordance with section 3 of the Banishment Act that it is conducive to the public good that …………………………… of ……………… be banished from Singapore:
 
-Now, therefore, you, the said officers, are hereby directed to arrest the said ………………..............….. wherever he may be found in Singapore and to convey him to prison at …………………
+Now, therefore, you, the said officers, are hereby directed to arrest the said ………………….. wherever he may be found in Singapore and to convey him to prison at …………………
 
-*You, the Director of Prisons, are hereby directed to detain the said ……………………………………..……. in safe custody in the prison at ……………….......……… until you shall receive further orders from me.
+*You, the Director of Prisons, are hereby directed to detain the said ……………………………………..……. in safe custody in the prison at ……………………… until you shall receive further orders from me.
 
 Dated this ………… day of …………. 19……
 
@@ -319,9 +321,9 @@ The Banishment Act
 
 (Chapter 18)
 
-BANISHMENT ORDER
+Banishment Order
 
-I, ………………………., the Minister for the time being charged with responsibility for banishment hereby order in accordance with section 5 of the Banishment Act that ……………….................................. be banished from Singapore for the term of
+I, ………………………., the Minister for the time being charged with responsibility for banishment hereby order in accordance with section 5 of the Banishment Act that ………………. be banished from Singapore for the term of
 
 Given under my hand this……. day of ……..……… 19 ……..
 
@@ -350,7 +352,7 @@ The Banishment Act
 
 (Chapter 18)
 
-WARRANT OF EXECUTION OF BANISHMENT ORDER
+Warrant of Execution of Banishment Order
 
 To the Director of Prisons and
 
@@ -395,11 +397,11 @@ The Banishment Act
 
 (Chapter 18)
 
-EXPULSION ORDER
+Expulsion Order
 
-I, ……………………………………, the Minister for the time being charged with responsibility for banishment hereby order in accordance with section 8 of the Banishment Act that ……………………….. leave Singapore before the expiration of a period of 14 days from the date of service of a copy of this order, and thereafter remain out of Singapore:
+I, ……………………………………, the Minister for the time being charged with responsibility for the banishment hereby order in accordance with section 8 of the Banishment Act that ……………………….. leave Singapore before the expiration of a period of 14 days from the date of service of a copy of this order, and thereafter remain out of Singapore:
 
-And I hereby specify the ……….. day of …………….. 19…… as the date on or before which the said …………………… shall execute the bond specified in section 8(5) of the Act in the sum of $ .….......... with
+And I hereby specify the ……….. day of …………….. 19…… as the date on or before which the said …………………… shall execute the bond specified in section 8(5) of the Act in the sum of $ … with
 
 [Insert here any conditions imposed under section 8 of the Banishment Act]
 
@@ -441,3 +443,9 @@ This Legislative History is provided for the convenience of users of the Banishm
 ||Date of commencement|6 April 1973|
 |5.|**1985 Revised Edition—Banishment Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
