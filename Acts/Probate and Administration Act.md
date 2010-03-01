@@ -1193,6 +1193,12 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
+|20.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
