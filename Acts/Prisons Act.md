@@ -100,7 +100,7 @@
 
 - [42 Occurrence of infectious disease](#Occurrence-of-infectious-disease)
 
-- [43 Prisoners of unsound mind](#Prisoners-of-unsound-mind)
+- [43 Prisoners who are mentally disordered](#Prisoners-who-are-mentally-disordered)
 
 - [44 Removal of prisoners](#Removal-of-prisoners)
 
@@ -728,17 +728,17 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 [30
 
-### Prisoners of unsound mind
+### Prisoners who are mentally disordered
 
-43\.—(1) Whenever a prisoner undergoing a sentence of imprisonment appears to the Director on the certificate of a registered medical practitioner to be of unsound mind, the Director may, by order in writing, setting forth the grounds of belief that the prisoner is of unsound mind, direct his removal from any prison to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Director directs —
+43\.—(1) Whenever a prisoner undergoing a sentence of imprisonment appears to the Director on the certificate of a registered medical practitioner to be mentally disordered, the Director may, by order in writing, setting forth the grounds of belief that the prisoner is mentally disordered, direct his removal from any prison to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Director directs —
 
 (a) until the expiration of the term of imprisonment ordered by the sentence; or
 
 (b) if it is certified by a medical officer that it is necessary for the safety of the prisoner or of others that he should be detained under medical care and treatment, until he is discharged according to law.
 
-(2) When it appears to the Director on the certificate of a registered medical practitioner that such prisoner has again become of sound mind, the Director shall, by an order in writing, return him to the prison from where he was removed if his term of imprisonment has not expired, but if the term has expired, shall direct him to be discharged.
+(2) When it appears to the Director on the certificate of a registered medical practitioner that such prisoner has ceased to be mentally disordered, the Director shall, by an order in writing, return him to the prison from where he was removed if his term of imprisonment has not expired, but if the term has expired, shall direct him to be discharged.
 
-(3) Section 40 of the Mental Disorders and Treatment Act (Cap. 178) shall apply to every person confined in a mental hospital under this section after the expiration of the term of imprisonment to which he has been sentenced, and the time during which he is so confined shall be reckoned as part of such term.
+(3) Where a person is confined under this section in a psychiatric institution within the meaning of the Mental Health (Care and Treatment) Act 2008, section 15 of that Act shall apply to such person after the expiration of the term of imprisonment to which he has been sentenced, and the time during which he is so confined shall be reckoned as part of such term.
 
 [31
 
@@ -1726,6 +1726,12 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of commencement|17 December 2008|
 |25.|**G. N. No. S 74/2010—Prisons Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|11 February 2010|
+|26.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Prisons Act
