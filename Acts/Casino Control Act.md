@@ -4855,3 +4855,9 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 26/2009)|
 ||Date of Second and Third Readings|12th January 2010|
 ||Date of commencement|5 February 2010|
+|8.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
