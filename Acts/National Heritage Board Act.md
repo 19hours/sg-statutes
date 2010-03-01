@@ -188,12 +188,7 @@ PRELIMINARY
 
 ## PART II
 
-ESTABLISHMENT, CONSTITUTION, FUNCTIONS
-
-
-
-
-AND POWERS OF BOARD
+ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 ### Establishment of National Heritage Board
 
@@ -535,7 +530,7 @@ FUNDS AND PROPERTY OF BOARD
 
 31\.—(1) The funds and property of the Board shall include —
 
-(a) all moneys and property transferred to the Board pursuant to section 37(1);
+(a) all moneys and property transferred to the Board pursuant to section 37;
 
 (b) all gifts, donations and contributions to the Board;
 
@@ -809,7 +804,9 @@ Disqualification from membership
 
 9. No person shall be appointed or shall continue to hold office as a member if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -954,3 +951,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 9/2009 published on 24 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
+|7.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
