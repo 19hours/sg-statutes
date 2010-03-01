@@ -1954,11 +1954,11 @@ NULLITY OF MARRIAGE
 
 (b) that the marriage has not been consummated owing to the wilful refusal of the defendant to consummate it;
 
-(c) that either party to the marriage did not validly consent to it, whether in consequence of duress, mistake, unsoundness of mind or otherwise;
+(c) that either party to the marriage did not validly consent to it, whether in consequence of duress, mistake, mental disorder or otherwise;
 
 [21/2008 wef 01/03/2010]
 
-(d) that at the time of the marriage either party, though capable of giving a valid consent, was suffering (whether continuously or intermittently) from mental disorder within the meaning of the Mental Disorders and Treatment Act (Cap. 178) of such a kind or to such an extent as to be unfit for marriage;
+(d) that at the time of the marriage either party, though capable of giving a valid consent, was suffering (whether continuously or intermittently) from mental disorder within the meaning of the Mental Health (Care and Treatment) Act 2008 of such a kind or to such an extent as to be unfit for marriage;
 
 [21/2008 wef 01/03/2010]
 
@@ -3336,3 +3336,9 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of commencement|1 February 2008|
 |19.|**2009 Revised Edition—Women’s Charter**|
 ||Date of operation|31 October 2009|
+|20.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
