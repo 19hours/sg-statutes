@@ -1158,7 +1158,11 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (c) is a corporation in liquidation;
 
-(d) is incapable of acting by reason of mental disorder within the meaning of the Mental Disorders and Treatment Act (Cap. 178);
+(d) lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;
+
+[21/2008 wef 01/03/2010]
+
+[34/2010 wef 01/03/2011]
 
 (e) has not acted, and will not declare his willingness or unwillingness to act; or
 
@@ -2314,3 +2318,9 @@ This Legislative History is provided for the convenience of users of the Chariti
 ||Date of commencement|1 March 2007|
 |10.|**2007 Revised Edition—Charities Act**|
 ||Date of operation|31 October 2007|
+|11.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010 (except paragraph (i) of item 1(8)(a), 1(8)(b) and item 1(41) of the Second Schedule)|
