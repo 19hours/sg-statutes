@@ -6841,6 +6841,17 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 11/2009 published on 25 May 2009)|
 ||Date of Second and Third Readings|20 July 2009|
 ||Date of commencement|28 February 2010 (section 19(c))|
+|168.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
+||Date of First Reading|25 May 2009|
+|||(Bill No. 11/2009 published on 25 May 2009)|
+||Date of Second and Third Readings|20 July 2009|
+||Date of commencement|1 March 2010 (sections 2(e), 5(b), 6, 16, 18 and 19(a), (b), (d) and (e))|
+|169.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
