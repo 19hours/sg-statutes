@@ -202,7 +202,9 @@ caused by an act or omission in Singapore.
 
 (2) A State is not immune as respects proceedings relating to any interest of the State in movable or immovable property, being an interest arising by way of succession, gift or bona vacantia.
 
-(3) The fact that a State has or claims an interest in any property shall not preclude any court from exercising in respect of it any jurisdiction relating to the estates of deceased persons or persons of unsound mind or to insolvency, the winding up of companies or the administration of trusts.
+(3) The fact that a State has or claims an interest in any property shall not preclude any court from exercising in respect of it any jurisdiction relating to the estates of deceased persons or mentally disordered persons or to insolvency, the winding up of companies or the administration of trusts.
+
+[21/2008 wef 01/03/2010]
 
 (4) A court may entertain proceedings against a person other than a State notwithstanding that the proceedings relate to property —
 
@@ -272,9 +274,11 @@ if, at the time when the cause of action arose, the ship was in use or intended 
 
 (a) any customs duty or excise duty;
 
+[25/96 wef 16/08/1996]
+
 (aa) any goods and services tax; or
 
-[25/1996 wef 16/08/1996]
+[25/96 wef 16/08/1996]
 
 (b) any tax in respect of premises occupied by it for commercial purposes.
 
@@ -395,3 +399,9 @@ This Legislative History is provided for the convenience of users of the State I
 |||(Bill No. 15/1996 published on 22 May 1996)|
 ||Date of Second and Third Readings|12 July 1996|
 ||Date of commencement|16 August 1996 (Section 18 –– Amendments of State Immunity Act)|
+|4.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (Item (48) of the Second Schedule –– Amendment State Immunity Act)|
