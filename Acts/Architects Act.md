@@ -156,6 +156,8 @@ REVISED EDITION 2000
 
 An Act to establish the Board of Architects, to provide for the registration of architects, to regulate the qualifications and practice of architects and the supply of architectural services in Singapore by corporations, partnerships and limited liability partnerships.
 
+[28/2005 wef 01/12/2005]
+
 [30th August 1991]
 
 ## PART I
@@ -206,7 +208,9 @@ PRELIMINARY
 
 “licence” means a licence to supply architectural services in Singapore granted under section 20;
 
-“licensed”, in relation to a corporation, partnership or limited liability partnership, means a corporation or partnership which has in force a licence;
+“licensed”, in relation to a corporation, partnership or limited liability partnership, means a corporation, partnership or limited liability partnership which has in force a licence;
+
+[28/2005 wef 01/12/2005]
 
 “limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
@@ -234,9 +238,13 @@ PRELIMINARY
 
 “President” means the President of the Board;
 
+[28/2005 wef 01/12/2005]
+
 “register of architects” means the register of architects kept by the Board under section 8(a);
 
 “register of licensees” means the annual register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 8(c);
+
+[28/2005 wef 01/12/2005]
 
 “register of practitioners” means the annual register of practitioners kept by the Board under section 8(b);
 
@@ -336,7 +344,9 @@ BOARD OF ARCHITECTS
 
 (c) he has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the architectural profession;
 
-(d) he is of unsound mind or is incapacitated by physical illness; or
+(d) he is mentally disordered and incapable of managing himself or his affairs, or is incapacitated by physical illness; or
+
+[21/2008 wef 01/03/2010]
 
 (e) he has at any time after due inquiry been found guilty by a Disciplinary Committee of improper conduct.
 
@@ -408,7 +418,11 @@ BOARD OF ARCHITECTS
 
 (f) to appoint arbitrators for the purpose of hearing and determining disputes between registered architects or licensed corporations, partnerships or limited liability partnerships and other persons;
 
+[28/2005 wef 01/12/2005]
+
 (g) to license corporations, multi-discipline partnerships or limited liability partnerships which intend to supply architectural services in Singapore; and
+
+[28/2005 wef 01/12/2005]
 
 (h) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
 
@@ -435,6 +449,8 @@ BOARD OF ARCHITECTS
 (b) an annual register of practitioners in which shall be entered the particulars as contained in the declaration delivered under section 18(3)(a); and
 
 (c) an annual register of licensees in which shall be entered the names and addresses of all licensed corporations, partnerships and limited liability partnerships which have been issued a licence and such other particulars as may from time to time be determined by the Board.
+
+[28/2005 wef 01/12/2005]
 
 ### Appointment and duties of Registrar
 
@@ -484,6 +500,8 @@ unless the person is a registered architect who has in force a practising certif
 
 [3/95]
 
+[28/2005 wef 01/12/2005]
+
 (2A) Any document that is signed in contravention of subsection (2) shall be invalid.
 
 [3/95]
@@ -496,9 +514,13 @@ unless the person is a registered architect who has in force a practising certif
 
 [3/95]
 
+[28/2005 wef 01/12/2005]
+
 (4) Nothing in subsection (3)(b) shall apply to prevent a corporation or limited liability partnership that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation or limited liability partnership.
 
 [3/95]
+
+[28/2005 wef 01/12/2005]
 
 (5) Subject to the provisions of this Act, no person shall —
 
@@ -508,13 +530,15 @@ unless the person is a registered architect who has in force a practising certif
 
 unless the person is —
 
-(i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership , a licensed limited liability partnership or a partnership consisting wholly of registered architects who have in force a practising certificate;
+(i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership, a licensed limited liability partnership or a partnership consisting wholly of registered architects who have in force a practising certificate;
 
 (ii) an allied professional and is doing so only by reason of being a partner in a licensed partnership or limited liability partnership; or
 
 (iii) a licensed corporation or limited liability partnership.
 
 [3/95]
+
+[28/2005 wef 01/12/2005]
 
 (5A) Notwithstanding subsection (5), a builder may supply or offer to supply architectural services in Singapore in connection with any building works which he undertakes to carry out if the architectural services are provided by a person referred to in subsection (5)(i), (ii) or (iii).
 
@@ -538,6 +562,8 @@ unless the person is —
 
 13\. Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act from carrying out work in respect of the construction of or repairs to any building or part thereof in any case in which plans are not required by any written law to be submitted to a building authority or to a public authority (as defined in section 3(4)).
 
+[28/2005 wef 01/12/2005]
+
 ### Relationship with professional engineers, etc.
 
 14\. Nothing in this Part shall apply to prevent —
@@ -547,6 +573,8 @@ unless the person is —
 (b) a corporation, partnership or limited liability partnership which is licensed under that Act to engage in professional engineering work in Singapore,
 
 from carrying on any activity within the practice of professional engineering which he or it is authorised to carry on under that Act where to do so does not constitute a substantial part of services within the practice of architecture.
+
+[28/2005 wef 01/12/2005]
 
 ## PART IV
 
@@ -559,6 +587,8 @@ REGISTRATION OF ARCHITECTS
 (a) any person holding the Degree of Bachelor of Architecture from the National University of Singapore or the University of Singapore;
 
 (b) any person holding any other degree, diploma or qualification which the Minister may, after consultation with the Board and by notification in theGazette, approve for the purpose of entitling the holder thereof to be registered under this Act; or
+
+[28/2005 wef 01/12/2005]
 
 (c) any person who satisfies the Board that he is otherwise qualified by having proper and recognised training in architecture and who passes such examinations as may be required by the Board.
 
@@ -704,13 +734,15 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 [15/95]
 
-(f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education ; or
+(f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education; or
 
 [18/2003 wef 01/01/2004]
 
 [28/2005 wef 01/12/2005]
 
 (g) the Board does not approve of the name under which the registered architect intends to carry on his practice.
+
+[15/95]
 
 [28/2005 wef 01/12/2005]
 
@@ -731,6 +763,8 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 [28/2005 wef 01/12/2005]
 
 (9) Where the registration of a registered architect is cancelled under section 17B(2) or 31G(2)(a), the practising certificate, if any, of that architect for the time being in force shall expire forthwith and the Registrar shall enter the date of such expiration on the register of practitioners and remove from that register the name of that architect.
+
+[28/2005 wef 01/12/2005]
 
 (10) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
 
@@ -780,6 +814,8 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 [28/2005 wef 01/12/2005]
 
+[18/2003 wef 01/01/2004]
+
 (2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply architectural services in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply architectural services;
@@ -808,7 +844,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 [18/2003 wef 01/01/2004]
 
-(iii) is authorised under a resolution of the board of directors of the corporation to make all final architectural decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the corporation ; and
+(iii) is authorised under a resolution of the board of directors of the corporation to make all final architectural decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the corporation; and
 
 [18/2003 wef 01/01/2004]
 
@@ -824,7 +860,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 [28/2005 wef 01/12/2005]
 
-(b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect and has in force a practising certificate
+(b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect and has in force a practising certificate; and
 
 (c) the name of the partnership has been approved by the Board.
 
@@ -852,6 +888,8 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (5) Any application for a licence or for the approval of the name of a corporation, partnership or limited liability partnership under this section shall be in such form and shall be made in such manner as may be prescribed.
 
+[28/2005 wef 01/12/2005]
+
 (6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not), partnership or limited liability partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation or any partner, manager or employee of the partnership or limited liability partnership affords reasonable grounds for believing that the corporation, partnership or limited liability partnership, as the case may be, will not supply architectural services in accordance with any written law and with honesty and integrity.
 
 [28/2005 wef 01/12/2005]
@@ -860,13 +898,17 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (8) Any person whose application for a licence or for the approval of the name of a corporation, partnership or limited liability partnership has been refused by the Board may, within 30 days after being notified of such refusal, appeal in the prescribed manner to the Minister whose decision shall be final.
 
+[28/2005 wef 01/12/2005]
+
 (9) In subsections (1) and (2), “prescribed number or proportion of directors” means —
 
 (a) a majority of the directors, where no number or proportion is specified under paragraph (b); or
 
-(b) where a number or proportion is specified by the Minister for the purposes of subsections (1) 6and (2) by notification in theGazette, such number or proportion of directors as may for the time being be so specified..
+(b) where a number or proportion is specified by the Minister for the purposes of subsections (1) and (2) by notification in theGazette, such number or proportion of directors as may for the time being be so specified.
 
 [18/2003 wef 01/01/2004]
+
+[28/2005 wef 01/12/2005]
 
 ### Conditions of licence to practise
 
@@ -922,6 +964,8 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 (b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197(2) of that Act as if it were not an exempt private company.
 
+[12/2002 wef 13/01/2003]
+
 (3) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
 ### Liability insurance
@@ -943,6 +987,8 @@ furnish the Board a true report in writing giving full particulars of the altera
 ### Professional responsibility of supervising architect
 
 26\. A registered architect who has the control and management of the business of a licensed corporation, partnership or limited liability partnership relating to the supply of architectural services in Singapore shall be subject to the same standards of professional conduct and competence in respect of such services as if he was personally supplying the architectural services.
+
+[28/2005 wef 01/12/2005]
 
 ### Revocation of licence
 
@@ -1026,6 +1072,8 @@ DISCIPLINARY PROCEEDINGS
 
 (3) The Board may, at any time, revoke the appointment of any member of the Investigation Panel or fill any vacancy in its membership.
 
+[28/2005 wef 01/12/2005]
+
 ### Complaints against registered architects
 
 28\. Any complaint concerning —
@@ -1041,6 +1089,8 @@ DISCIPLINARY PROCEEDINGS
 (e) any failure on the part of a registered architect, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(e)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
 
 shall be made to the Board in writing and shall be supported by such statutory declaration as the Board may require, except that no statutory declaration shall be required if the complaint is made or given by any public officer or officer of the Board.
+
+[28/2005 wef 01/12/2005]
 
 ### Review of complaints
 
@@ -1074,6 +1124,8 @@ recommend to the Board to refer the matter to a Disciplinary Committee for a for
 
 (7) The Board may, upon accepting the recommendation of the Registrar under subsection (6)(b) or (c), appoint an Investigation Committee or a Disciplinary Committee, as appropriate, and refer the matter thereto for an inquiry or a formal inquiry, as the case may be.
 
+[28/2005 wef 01/12/2005]
+
 ### Appointment of Investigation Committee
 
 30\.—(1) The Board may, from time to time, appoint one or more Investigation Committees comprising —
@@ -1098,6 +1150,8 @@ to inquire into any complaint or information received by the Board under section
 
 (7) A member of an Investigation Committee shall, notwithstanding that he has ceased to be a member of the Investigation Panel on the expiry of his term of office, continue to be a member of the Investigation Committee until such time as the Investigation Committee has completed its work.
 
+[28/2005 wef 01/12/2005]
+
 ### Powers and procedure of Investigation Committee
 
 31\.—(1) For the purposes of any inquiry, an Investigation Committee may require any person —
@@ -1118,6 +1172,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) An Investigation Committee shall complete its inquiry not later than 3 months from the date on which the matter to be inquired into is referred to it, unless the Board, on application of the Investigation Committee, allows otherwise.
 
+[28/2005 wef 01/12/2005]
+
 ### Findings of Investigation Committee
 
 31A\. Upon due inquiry into any complaint or information, an Investigation Committee shall report its findings to the Board and recommend to the Board to do any of the following:
@@ -1129,6 +1185,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (c) order that a formal inquiry be held by a Disciplinary Committee;
 
 (d) make such other order as the Investigation Committee considers appropriate.
+
+[28/2005 wef 01/12/2005]
 
 ### Decision of Board
 
@@ -1162,6 +1220,8 @@ unless the Board is satisfied that the Investigation Committee had allowed the r
 
 (c) such other order as he thinks fit.
 
+[28/2005 wef 01/12/2005]
+
 ### Appointment of Disciplinary Committee
 
 31C\.—(1) The Board may, from time to time, appoint one or more Disciplinary Committees to formally inquire into —
@@ -1184,11 +1244,15 @@ unless the Board is satisfied that the Investigation Committee had allowed the r
 
 (8) A member of a Disciplinary Committee shall, notwithstanding that he has ceased to be a member of the Board on the expiry of his term of office, continue to be a member of the Disciplinary Committee until such time the Disciplinary Committee has completed its work.
 
+[28/2005 wef 01/12/2005]
+
 ### Observer
 
 31D\.—(1) The Board shall appoint a member of the Investigation Panel who is an allied professional or a lay person as an observer of the proceedings of a Disciplinary Committee, except that the person appointed must not have assisted the Registrar in reviewing any complaint or information under section 29(4)(b) or been a member of the Investigation Committee which had inquired into the same matter.
 
 (2) The observer shall not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee.
+
+[28/2005 wef 01/12/2005]
 
 ### Architect to be notified of inquiry
 
@@ -1197,6 +1261,8 @@ unless the Board is satisfied that the Investigation Committee had allowed the r
 (2) An inquiry shall not be fixed on a date earlier than 21 days after the date of the notice of inquiry except with the agreement of the registered architect.
 
 (3) On application to the Disciplinary Committee, the registered architect may request postponement of the formal inquiry, and the Disciplinary Committee may, in its discretion, grant the application and postpone the formal inquiry to such date as it may determine, or refuse the application.
+
+[28/2005 wef 01/12/2005]
 
 ### Powers and procedure of Disciplinary Committee
 
@@ -1235,6 +1301,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (8) A Disciplinary Committee shall complete its inquiry not later than 6 months from the date of its appointment, unless the Board, on application of the Disciplinary Committee, allows otherwise.
 
 (9) In sections 172 to 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Committee holding a formal inquiry, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include such a formal inquiry.
+
+[28/2005 wef 01/12/2005]
 
 ### Findings of Disciplinary Committee
 
@@ -1300,6 +1368,8 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 
 (13) Every penalty imposed under an order by a Disciplinary Committee under subsection (2) shall be recoverable as a debt due to the Board.
 
+[28/2005 wef 01/12/2005]
+
 ### Appeal against order by Disciplinary Committee
 
 31H\.—(1) Any person aggrieved by a decision of the Disciplinary Committee referred to in section 31G(2), (3) or (4) may, within 30 days after the service on him of the notice of the order, appeal to the High Court against the order.
@@ -1310,9 +1380,13 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 
 (4) Notwithstanding anything in section 31G, where a person has appealed to the High Court against an order referred to in section 31G(2) or (3), the order shall not take effect unless the order is confirmed by the High Court or the appeal is for any reason dismissed by the High Court or withdrawn.
 
+[28/2005 wef 01/12/2005]
+
 ### Conviction final and conclusive
 
 31I\. In any proceedings under this Part in relation to the conviction of a registered architect for a criminal offence, the Minister, the Board, an Investigation Committee, a Disciplinary Committee, and the High Court on appeal from any order of a Disciplinary Committee, shall accept his conviction as final and conclusive.
+
+[28/2005 wef 01/12/2005]
 
 ### Service of documents
 
@@ -1321,6 +1395,8 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 (a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of residence or business of the person on whom it is to be served; or
 
 (b) by sending it by registered post addressed to the person on whom the notice is to be served at his address as stated in the appropriate register.
+
+[28/2005 wef 01/12/2005]
 
 ## PART VIII
 
@@ -1354,6 +1430,8 @@ GENERAL
 
 (i) for any corporation, partnership or limited liability partnership a licence; or
 
+[28/2005 wef 01/12/2005]
+
 (ii) for himself or any other person a practising certificate or to be registered as an architect under this Act,
 
 by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and furnishing information which is misleading; or
@@ -1366,6 +1444,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 35\. Where a corporation, partnership, limited liability partnership or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership, limited liability partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership, limited liability partnership or association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+[28/2005 wef 01/12/2005]
+
 ### Exemption
 
 36\.—(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
@@ -1377,6 +1457,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### No action in absence of bad faith or malice
 
 37\. No action or proceedings shall lie against the Board, any committee appointed by the Board under this Act, or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+
+[28/2005 wef 01/12/2005]
 
 [38
 
@@ -1422,7 +1504,7 @@ Architects Act
 
 (CHAPTER 12)
 
-This Legislative History is provided for the convenience of users of the Architects Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Architects Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1455,7 +1537,8 @@ This Legislative History is provided for the convenience of users of the Archite
 ||Date of First Reading|23 May 2002|
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
-||Date of commencement|13th January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
+||Date of commencement|13th January 2003|
+|||(sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
 |7.|**Act 18 of 2003—Building Control (Amendment) Act 2003**|
 ||Date of First Reading|14 August 2003|
 |||(Bill No. 17/2003 published on 15 August 2003)|
@@ -1487,6 +1570,12 @@ This Legislative History is provided for the convenience of users of the Archite
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|30 January 2006|
+|13.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Architects Act
@@ -1501,17 +1590,17 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1992 Ed\. 
 
-3 — (3) and (4)
+3 —(3) and (4)
 
-3 — (3)
+3 —(3)
 
 4 
 
-4 — (1)
+4 —(1)
 
-4A — (1)
+4A —(1)
 
-4 — (2)
+4 —(2)
 
 (2) and (3)
 
@@ -1521,13 +1610,13 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (5)
 
-5 — (2) and (3)
+5 —(2) and (3)
 
-5 — (2)
+5 —(2)
 
-10 — (2) and (2A)
+10 —(2) and (2A)
 
-10 — (2)
+10 —(2)
 
 (3)
 
@@ -1537,9 +1626,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 Proviso to (4)
 
-18 — (7) and (8)
+18 —(7) and (8)
 
-18 — (7)
+18 —(7)
 
 (9)
 
@@ -1549,9 +1638,9 @@ Proviso to (4)
 
 (9)
 
-23 — (1) and (2)
+23 —(1) and (2)
 
-23 — (1)
+23 —(1)
 
 (3)
 
