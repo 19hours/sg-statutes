@@ -140,7 +140,7 @@ An Act regulating the limitation of actions and arbitrations.
 
 “trust” and “trustee” have the same meanings as in the Trustees Act [Cap. 337].
 
-(2) Subject to section 36(1)(b) of the Civil Law Act (Cap. 43), for the purposes of this Act, a person shall be deemed to be under a disability while he is a minor or of unsound mind.
+(2) Subject to section 36(1)(b) of the Civil Law Act (Cap. 43), for the purposes of this Act, a person shall be deemed to be under a disability while he is a minor or lacks capacity (within the meaning of the Mental Capacity Act 2008) to conduct legal proceedings.
 
 [7/2009 wef 01/03/2009]
 
@@ -667,3 +667,9 @@ This Legislative History is provided for the convenience of users of the Limitat
 |||(Bill No. 38/2008 published on 17 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 March 2009|
+|13.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 21 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
