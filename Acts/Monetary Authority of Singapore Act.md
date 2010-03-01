@@ -354,7 +354,9 @@ to discharge the duties of the managing director during the period of his absenc
 
 (a) resigns his office;
 
-(b) becomes of unsound mind or incapable of carrying out his duties;
+(b) becomes mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (c) becomes bankrupt or suspends payment to or compounds with his creditors;
 
@@ -1232,9 +1234,7 @@ Written Laws
 
 1\. Banking Act (Cap. 19)
 
-1A. Bills of Exchange Act (Cap. 23)
-
-[S 21/2010 wef 15/04/2010]
+1A\. Bills of Exchange Act (Cap. 23)
 
 2\. Bretton Woods Agreements Act (Cap. 27)
 
@@ -1397,6 +1397,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of commencement|1 November 2007|
 |25.|**G. N. No. S 21/2010—Monetary Authority of Singapore Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|15 January 2010|
+|26.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 31 October 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
