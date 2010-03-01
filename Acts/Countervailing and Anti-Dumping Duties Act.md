@@ -882,7 +882,9 @@ ADMINISTRATION
 
 (5) No person shall be appointed or shall continue to hold office as a member of the Tribunal if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -1098,7 +1100,7 @@ Countervailing and Anti-Dumping Duties Act
 
 (CHAPTER 65B)
 
-This Legislative History is provided for the convenience of users of the Countervailing and Anti-Dumping Duties Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Countervailing and Anti-Dumping Duties Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1111,10 +1113,11 @@ This Legislative History is provided for the convenience of users of the Counter
 ||Date of operation|30 May 1997|
 |3.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
 ||Date of First Reading|13 November 2000|
-|||(Bill No. 33/2000 published on 13 November 2000)|
+|||(Bill No. 33/2000 published on 14 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 January 2001|
 |4.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2003|
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
@@ -1124,3 +1127,9 @@ This Legislative History is provided for the convenience of users of the Counter
 |||(Bill No. 57/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|30 December 2004|
+|6.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010|
