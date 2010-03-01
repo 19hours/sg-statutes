@@ -234,7 +234,9 @@ CHALLENGE PROCEEDINGS
 
 (4) No person shall be appointed or shall continue to hold office as Commissioner or Deputy Commissioner if he —
 
-(a) is of unsound mind;
+(a) is mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
 
@@ -242,7 +244,7 @@ CHALLENGE PROCEEDINGS
 
 (5) The Commissioner or a Deputy Commissioner may at any time resign from his office by giving notice in writing to the Minister.
 
-(6) The Commissioner and Deputy Commissioners shall be deemed to be public servants within the meaning of the Penal Code (Cap.224), and shall enjoy the same judicial immunity as is enjoyed by a Judge of the Supreme Court.
+(6) The Commissioner and Deputy Commissioners shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224), and shall enjoy the same judicial immunity as is enjoyed by a Judge of the Supreme Court.
 
 (7) The Commissioner and Deputy Commissioners shall be paid such remuneration and allowances as the Minister may from time to time determine.
 
@@ -262,7 +264,7 @@ CHALLENGE PROCEEDINGS
 
 (2) The duties of the Registrar and other officers of the Tribunal shall, subject to this Act and any regulations made thereunder, be as the Minister directs.
 
-(3) The Registrar and other officers of the Tribunal shall be deemed to be public servants for the purposes of the Penal Code (Cap.224).
+(3) The Registrar and other officers of the Tribunal shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 ### Constitution of Tribunal
 
@@ -530,3 +532,9 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 27/2004 published on 16 June 2004)|
 ||Date of Second and Third Readings|20 July 2004|
 ||Date of commencement|1st September 2004 (Section 4 –– of Government Procurement Act)|
+|5.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (Item 1(16) of the Second Schedule — Amendment of Government Procurement Act)|
