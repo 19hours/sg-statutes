@@ -1197,6 +1197,12 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Except item (7)(b) in the Schedule)|
 |29.|**G. N. No. S 192/2009—Civil Law Act (Amendment of Schedule) Order 2009**|
 ||Date of commencement|4 May 2009|
+|30.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+||Date of First Reading|17 November 2008|
+|||(Bill No. 38/2008 published on 18 November 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|2 March 2010|
+|||(Item (7)(b) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Civil Law Act
