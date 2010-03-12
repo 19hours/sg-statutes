@@ -289,7 +289,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) If the person on whom service is to be effected has an agent within Singapore, the requisition may be delivered to the agent.
 
-[3/2010 wef 12/02/2010]
+[3/2010 wef 12/02/2010 wef 12/02/2010]
 
 ### Rules
 
@@ -349,6 +349,10 @@ Subject Matters
 
 14\. Energy
 
+14A. Environment
+
+[S 151/2010 wef 12/03/2010]
+
 15\. External trade
 
 16\. Family planning
@@ -391,8 +395,6 @@ Subject Matters
 
 33\. Narcotics
 
-34\. Pollution
-
 35\. Population
 
 36\. Power
@@ -421,7 +423,7 @@ Sections 2 and 13
 
 Research and Statistics Units
 
-1. Economic Research Department of the Building and Construction Authority.
+1. Economics Research Department of the Building and Construction Authority.
 
 [S 451/2007 wef 28/08/2007]
 
@@ -433,11 +435,7 @@ Research and Statistics Units
 
 [S 393/2006 wef 30/06/2006]
 
-4. Planning Division of the Ministry of the Environment and Water Resources.
-
-[S 393/2006 wef 30/06/2006]
-
-5. Health Information Operations of the Ministry of Health.
+5. Health Information Division of the Ministry of Health.
 
 [S 451/2007 wef 28/08/2007]
 
@@ -454,6 +452,14 @@ Research and Statistics Units
 8. Strategic Planning Division of the Info-communications Development Authority of Singapore.
 
 [S 393/2006 wef 30/06/2006]
+
+9. Research and Statistics Unit of the National Environment Agency.
+
+[S 151/2010 wef 12/03/2010]
+
+10. Research and Statistics Unit of the Energy Market Authority of Singapore.
+
+[S 151/2010 wef 12/03/2010]
 
 THIRD SCHEDULE
 
@@ -538,6 +544,8 @@ This Legislative History is provided for the convenience of users of the Statist
 |||(Bill No. 24/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|12 February 2010|
+|19.|**G.N. No. S 151/2010—Statistics Act (Amendment of First and Second Schedules) Order 2010**|
+||Date of commencement|12 March 2010|
 ## COMPARATIVE TABLE
 
 Statistics Act
