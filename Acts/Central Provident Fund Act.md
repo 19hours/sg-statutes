@@ -428,8 +428,6 @@ PRELIMINARY
 
 (ii) a donee under a lasting power of attorney registered under the Mental Capacity Act2008 with power in relation to any person referred to in paragraph (a) for the purposes of this Act.
 
-[18/2009 wef 01/03/2010]
-
 ### Establishment and constitution of Central Provident Fund Board
 
 3\.—(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of —
@@ -1000,8 +998,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (e) is mentally disordered and incapable of managing himself or his affairs;
 
-[21/2008 wef 01/03/2010]
-
 (f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
 (g) is suffering from a terminal illness or disease.
@@ -1066,8 +1062,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (ii) mentally disordered and incapable of managing himself or themselves, or his or their affairs;
 
-[21/2008 wef 01/03/2010]
-
 (iii) suffering from a medical condition leading to a severely impaired life expectancy; or
 
 (iv) suffering from a terminal illness or disease; and
@@ -1110,8 +1104,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (b) mentally disordered and incapable of managing himself or his affairs;
 
-[21/2008 wef 01/03/2010]
-
 (ba) suffering from a medical condition leading to a severely impaired life expectancy;
 
 (c) suffering from a terminal illness or disease; or
@@ -1147,8 +1139,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 (ii) in such other manner as the Minister may approve;
 
 (b) is mentally disordered and incapable of managing himself or his affairs;
-
-[21/2008 wef 01/03/2010]
 
 (c) is suffering from a medical condition leading to a severely impaired life expectancy;
 
@@ -6134,7 +6124,9 @@ Self-employed Persons
 
 9\. Customs Act (Cap. 70).
 
-10\. Electrical Workers and Contractors Licensing Act (Cap. 89).
+10. Electricity Act (Cap. 89A).
+
+[S 154/2010 wef 15/03/2010]
 
 11\. Employment Agencies Act (Cap. 92).
 
@@ -6152,7 +6144,9 @@ Self-employed Persons
 
 16\. Fisheries Act (Cap. 111).
 
-17\.Deleted by Act 42/2001, wef 01/10/2002.
+17. Gas Act (Cap. 116A).
+
+[S 154/2010 wef 15/03/2010]
 
 18\. Homes for the Aged Act (Cap. 126A).
 
@@ -6852,6 +6846,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|170.|**G.N. No. S 154/2010—Central Provident Fund Act (Amendment of Third Schedule) Notification 2010**|
+||Date of commencement|15 March 2010|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
