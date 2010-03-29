@@ -56,6 +56,8 @@
 
 - [16 General obligations](#General-obligations)
 
+- [16A Obligation to manage risks prudently](#Obligation-to-manage-risks-prudently)
+
 - [17 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
 
 - [18 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
@@ -90,7 +92,7 @@
 
 [**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
 
-- [31 Fixing of position and trading limits in futures contracts](#Fixing-of-position-and-trading-limits-in-futures-contracts)
+- [31 Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
 
 - [32 Power of Authority in securities market](#Power-of-Authority-in-securities-market)
 
@@ -213,6 +215,8 @@
 - [79 Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
 
 - [80 Power to order cessation of designated clearing houses](#Power-to-order-cessation-of-designated-clearing-houses)
+
+- [80A Power of Authority to appoint adviser](#Power-of-Authority-to-appoint-adviser)
 
 - [81 Emergency powers of Authority](#Emergency-powers-of-Authority)
 
@@ -924,6 +928,12 @@
 
 - [295 Winding up](#Winding-up)
 
+- [295A Power to acquire units of participants of real estate investment trust in certain circumstances](#Power-to-acquire-units-of-participants-of-real-estate-investment-trust-in-certain-circumstances)
+
+- [295B Unclaimed money to be paid to Official Receiver](#Unclaimed-money-to-be-paid-to-Official-Receiver)
+
+- [295C Remedies in cases of oppression or injustice](#Remedies-in-cases-of-oppression-or-injustice)
+
 [**Subdivision (3) — Prospectus requirements**](#Subdivision-3-—-Prospectus-requirements)
 
 - [296 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
@@ -1248,13 +1258,15 @@ and a reference in this Act to a person connected to another person shall be con
 
 but does not include such person or class of persons as may be prescribed; or
 
-(b) for the purposes of Part III, a person on whose behalf a member of a designated clearing house carries on any activity regulated under this Act, but does not include —
+(b) for the purposes of Part III and the definition of “user”, a person on whose behalf a member of an approved exchange or a designated clearing house, as the case may be, carries on any activity regulated under this Act, but does not include —
 
 (i) the member, with respect to dealings for the member’s own account;
 
 (ii) any officer, director, employee or representative of the member; or
 
 (iii) a related corporation of the member, with respect to accepted instructions to deal for an account belonging to, and maintained wholly for the benefit of, that related corporation;
+
+[2/2009 wef 29/03/2010]
 
 “dealing in securities” has the meaning given to it in the Second Schedule;
 
@@ -2386,6 +2398,28 @@ Subdivision (1) — Obligations of approved exchanges
 
 [1/2005]
 
+### Obligation to manage risks prudently
+
+16A\.—(1) Without prejudice to the generality of section 16(1)(b), an approved exchange shall —
+
+(a) ensure that the systems and controls concerning the assessment and management of risks to every market that it operates are adequate and appropriate for the scale and nature of its operations;
+
+(b) obtain the Authority’s approval to the limits which it intends to establish on the number of open positions which may be held by any person under any futures contract traded on a futures market that it operates, and vary those limits only in a manner approved by the Authority; and
+
+(c) obtain the Authority’s approval if it does not intend to establish limits on the number of open positions which may be held by any person under any futures contract traded on a futures market that it operates.
+
+(2) Nothing in subsection (1) shall preclude an approved exchange from —
+
+(a) establishing, in respect of open positions which may be held by any person under any futures contract traded on a futures market that it operates, different position limits for different futures contracts, or for different months or days in the period the positions may be held; or
+
+(b) establishing limits whether on long or short positions, and whether on a net or gross basis.
+
+(3) An approved exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) Any person who wilfully exceeds any position limit established or varied by an approved exchange shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.
+
+[2/2009 wef 29/03/2010]
+
 ### Obligation to notify Authority of certain matters
 
 17\.—(1) An approved exchange shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
@@ -2818,47 +2852,49 @@ on any market operated by the approved exchange.
 
 Subdivision (4) — Powers of Authority
 
-### Fixing of position and trading limits in futures contracts
+### Power of Authority to appoint adviser
 
-31\.—(1) For the purpose of diminishing, eliminating or preventing excessive speculation in any commodity under a futures contract, the Authority, or an approved exchange with the approval of the Authority, may, by notice in writing from time to time, establish and fix such limits as it considers necessary on the amount of trading which may be done, or positions which may be held, by any person, generally or specifically, under a futures contract traded on the futures market, or traded subject to the business rules, of —
+31\.—(1) Where —
 
-(a) in the case of the establishing and fixing of limits by the Authority, any approved exchange; or
+(a) an approved exchange informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
 
-(b) in the case of the establishing and fixing of limits by an approved exchange, that approved exchange.
+(b) an approved exchange becomes unable to meet its obligations, or is insolvent, or suspends payments;
 
-[1/2005]
+(c) the Authority is of the opinion that an approved exchange —
 
-(2) In determining whether a person has exceeded such limits, the positions held and trading done by any other person, directly or indirectly, controlled by the first-mentioned person shall be included with the positions held and trading done by the first-mentioned person.
+(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 5;
 
-[1/2005]
+(ii) is or is likely to become insolvent or that it is or is likely to become unable to meet its obligations, or that it is about to suspend payments;
 
-(3) Such limits upon positions and trading shall apply to positions held by, and trading done by, 2 or more persons acting pursuant to an express or implied agreement or understanding as if the positions were held by, or the trading was done by, a single person.
+(iii) has contravened any of the provisions of this Act; or
 
-[1/2005]
+(iv) has failed to comply with any condition attached to its approval as an approved exchange; or
 
-(4) This section shall not apply to positions as defined by an approved exchange in accordance with such regulations as may be prescribed.
+(d) the Authority considers it in the public interest to do so,
 
-[1/2005]
+the Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise the approved exchange on the proper management of such of the business of the approved exchange as the Authority may determine.
 
-(5) No person shall, directly or indirectly —
+(2) Where the Authority has exercised its power under subsection (1), it may at any time do one or more of the following:
 
-(a) buy or sell, or agree to buy or sell, under a futures contract traded on the futures market of, or subject to the business rules of, an approved exchange, any amount of a commodity in excess of the trading limits fixed for one business day, or any other stated period set by the Authority or the approved exchange; or
+(a) vary or revoke any appointment made by the Authority in the exercise of such power, on such terms and conditions as it may specify;
 
-(b) hold or control a net buy or sell position under a futures contract traded on the futures market of, or subject to the business rules of, an approved exchange in excess of any position limit fixed by the Authority or the approved exchange.
+(b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
 
-[1/2005]
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
 
-(6) Nothing in this section shall preclude the Authority, or an approved exchange with the approval of the Authority, from —
+(3) No action, suit or other legal proceedings shall lie against a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
 
-(a) establishing or fixing different trading or position limits for different futures contracts, for different delivery months or for different days remaining until the last day of trading in a futures contract;
+(a) the exercise or purported exercise of any power under this Act;
 
-(b) fixing different limits for the purposes of subsection (5); or
+(b) the performance or purported performance of any function or duty under this Act; or
 
-(c) excluding transactions from the limits established or fixed under this section.
+(c) the compliance or purported compliance with this Act.
 
-[1/2005]
+(4) The Authority may at any time fix the remuneration and expenses to be paid by an approved exchange to a statutory adviser appointed in relation to the approved exchange, whether or not the appointment has been terminated.
 
-[FTA, s. 42]
+(5) The approved exchange shall reimburse the Authority any remuneration and expenses payable by the approved exchange to a statutory adviser and paid by the Authority to the statutory adviser.
+
+[2/2009 wef 29/03/2010]
 
 ### Power of Authority in securities market
 
@@ -3267,6 +3303,16 @@ the Authority may, if it thinks it necessary in the interests of the public or a
 45\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the exemption, recognition or approval of, and the requirements applicable to, persons who establish, operate or assist in establishing or operating markets.
 
 [1/2005]
+
+(1A) The Authority may also make regulations for the purpose of carrying out section 16A, including —
+
+(a) requiring an approved exchange to reckon specified positions for the purpose of determining if limits established or varied under section 16A(1) have been exceeded;
+
+(b) requiring an approved exchange to take specified steps to ensure compliance with those limits; and
+
+(c) specifying measures to manage any risks assumed by an approved exchange.
+
+[2/2009 wef 29/03/2010]
 
 (2) Regulations made under this section may provide —
 
@@ -3748,17 +3794,23 @@ and the designated clearing house shall comply with such directions.
 
 ### Obligation to manage risks prudently
 
-61\.—(1) Without prejudice to the generality of section 59(1)(b), a designated clearing house shall ensure that the systems and controls concerning the assessment and management of risks to its clearing facility are adequate and appropriate for the scale and nature of its operations.
+61\.—(1) Without prejudice to the generality of section 59(1)(b), a designated clearing house shall —
 
-[1/2005]
+(a) ensure that the systems and controls concerning the assessment and management of risks to its clearing facility are adequate and appropriate for the scale and nature of its operations;
 
-(2) Without prejudice to the generality of section 81S, the Authority may make regulations relating to the matters in subsection (1), including —
+(b) obtain the Authority’s approval to the limits which it intends to establish on the number of open positions which may be held by any person under any futures contract cleared or settled with the designated clearing house, and vary those limits only in a manner approved by the Authority; and
 
-(a) the limits in respect of positions held with the designated clearing house; and
+(c) obtain the Authority’s approval if it does not intend to establish limits on the number of open positions which may be held by any person under any futures contract cleared or settled with the designated clearing house.
 
-(b) the measures to manage any risks assumed by the designated clearing house.
+(2) Nothing in subsection (1) shall preclude a designated clearing house from —
 
-[1/2005]
+(a) establishing, in respect of open positions which may be held by any person under any futures contract cleared or settled with the designated clearing house, different position limits for different futures contracts, or for different months or days in the period the positions may be held; or
+
+(b) establishing limits whether on long or short positions, and whether on a net or gross basis.
+
+(3) Any person who wilfully exceeds any position limit established or varied by a designated clearing house shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.
+
+[2/2009 wef 29/03/2010]
 
 ### Obligation in relation to customers’ money and assets held by designated clearing house
 
@@ -4354,6 +4406,50 @@ and the designated clearing house shall comply with that direction.
 
 [1/2005]
 
+### Power of Authority to appoint adviser
+
+80A\.—(1) Where —
+
+(a) a designated clearing house informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
+
+(b) a designated clearing house becomes unable to meet its obligations, or is insolvent, or suspends payments;
+
+(c) the Authority is of the opinion that a designated clearing house —
+
+(i) is carrying on its business in a manner likely to be detrimental to the objectives specified in section 47;
+
+(ii) is or is likely to become insolvent or that it is or is likely to become unable to meet its obligations, or that it is about to suspend payments;
+
+(iii) has contravened any of the provisions of this Act; or
+
+(iv) has failed to comply with any condition attached to its designation as a designated clearing house; or
+
+(d) the Authority considers it in the public interest to do so,
+
+the Authority may appoint one or more persons as statutory advisers, on such terms and conditions as the Authority may specify, to advise the designated clearing house on the proper management of such of the business of the designated clearing house as the Authority may determine.
+
+(2) Where the Authority has exercised its power under subsection (1), it may at any time do one or more of the following:
+
+(a) vary or revoke any appointment made by the Authority in exercise of such power, on such terms and conditions as it may specify;
+
+(b) appoint another statutory adviser in accordance with subsection (1) in place of or in addition to the statutory adviser earlier appointed;
+
+(c) add to, vary or revoke any term or condition specified by the Authority under this section.
+
+(3) No action, suit or other legal proceedings shall lie against a statutory adviser for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Act;
+
+(b) the performance or purported performance of any function or duty under this Act; or
+
+(c) the compliance or purported compliance with this Act.
+
+(4) The Authority may at any time fix the remuneration and expenses to be paid by a designated clearing house to a statutory adviser appointed in relation to the designated clearing house, whether or not the appointment has been terminated.
+
+(5) The designated clearing house shall reimburse the Authority any remuneration and expenses payable by the designated clearing house to a statutory adviser and paid by the Authority to the statutory adviser.
+
+[2/2009 wef 29/03/2010]
+
 ### Emergency powers of Authority
 
 81\.—(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing a designated clearing house to take such action as it considers necessary to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
@@ -4935,6 +5031,16 @@ General Powers of Authority
 81S\.—(1) Without prejudice to section 341, the Authority may make regulations relating to requirements applicable to any person operating a clearing facility, whether or not the person has been designated by the Authority as a designated clearing house under section 55(1).
 
 [1/2005]
+
+(1A) The Authority may also make regulations for the purpose of carrying out section 61, including —
+
+(a) requiring a designated clearing house to reckon specified positions for the purposes of determining if limits established or varied under section 61(1) have been exceeded;
+
+(b) requiring a designated clearing house to take specified steps to ensure compliance with those limits; and
+
+(c) specifying measures to manage any risks assumed by a designated clearing house.
+
+[2/2009 wef 29/03/2010]
 
 (2) Regulations made under this section may provide —
 
@@ -7414,9 +7520,11 @@ Subdivision (1) — General
 
 (2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Division to the Authority or, as the case may be, an investigator under Subdivision (2), that the statement might tend to incriminate him, that statement —
 
-(a) shall not be admissible in evidence against him in criminal proceedings other than proceedings under this section; but
+(a) shall not be admissible in evidence against him in criminal proceedings other than proceedings for an offence under section 162(3); but
 
 [2/2009 wef 29/07/2009]
+
+[2/2009 wef 29/03/2010]
 
 (b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings under Part XII.
 
@@ -9592,7 +9700,7 @@ Subdivision (2) — Prospectus requirements
 
 (7) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(8) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
+(8) The Authority may register a prospectus or a profile statement on any day within the period prescribed by the Authority from the date of lodgment thereof with the Authority, unless —
 
 (a) the Authority gives to the person making the offer a notice of an opportunity to be heard under subsection (15);
 
@@ -9612,9 +9720,15 @@ Subdivision (2) — Prospectus requirements
 
 [1/2005]
 
-(8A) Where, after a notice of an opportunity to be heard has been given under subsection (8)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than the 14th day from the date of lodgment of the prospectus or profile statement with the Authority.
+[2/2009 wef 29/03/2010]
+
+(8A) Where, after a notice of an opportunity to be heard has been given under subsection (8)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than such day from the date of lodgment of the prospectus or profile statement with the Authority as the Authority may prescribe.
 
 [1/2005]
+
+[2/2009 wef 29/03/2010]
+
+(8B) For the purposes of subsections (8) and (8A), the Authority may prescribe the same period and day for all offers or different periods and days for different offers.
 
 (9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (4A) and which contains the information required to be stipulated in the prospectus under section 243, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been lodged with the Authority.
 
@@ -12406,7 +12520,7 @@ Subdivision (2) — Prospectus requirements
 
 [1/2005]
 
-(10) The Authority may register a prospectus or profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
+(10) The Authority may register a prospectus or profile statement on any day within the period prescribed by the Authority from the date of lodgment thereof with the Authority, unless —
 
 (a) the Authority gives to the person making the offer a notice of an opportunity to be heard under subsection (20);
 
@@ -12428,11 +12542,15 @@ Subdivision (2) — Prospectus requirements
 
 [2/2009 wef 29/03/2010]
 
-(11) Where, after a notice of an opportunity to be heard has been given under subsection (10)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than the 14th day from the date of lodgment of the prospectus or profile statement with the Authority.
+(11) Where, after a notice of an opportunity to be heard has been given under subsection (10)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than such day from the date of lodgment of the prospectus or profile statement with the Authority as the Authority may prescribe.
 
 [2/2009 wef 29/03/2010]
 
 [1/2005]
+
+(11A) For the purposes of subsections (10) and (11), the Authority may prescribe the same period and day for all offers or different periods and days for different offers.
+
+[2/2009 wef 29/03/2010]
 
 (12) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (5) and which contains the information required to be stipulated in the prospectus under section 282F, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been lodged with the Authority.
 
@@ -15062,6 +15180,150 @@ the trustee shall summon a meeting of the participants for the purpose of determ
 
 [Companies, s. 118]
 
+### Power to acquire units of participants of real estate investment trust in certain circumstances
+
+295A\.—(1) Where an arrangement or a contract involving the transfer of all of the units, or all of the units in any particular class, in a real estate investment trust (referred to in this section as the subject trust), to —
+
+(a) the trustee of another trust (including the trustee-manager of a business trust and the trustee of another real estate investment trust); or
+
+(b) a corporation,
+
+referred to in this section as the transferee has, within 4 months after the making of the offer in that behalf by the transferee, been approved as to the units or as to each class of units whose transfer is involved by participants of the subject trust holding no less than 90% of the total number of those units or of the units of that class (other than units already held at the date of the offer by the transferee), the transferee may, at any time within 2 months after the offer has been so approved, give notice in the prescribed manner to any dissenting participant of the subject trust that it desires to acquire his units.
+
+(2) When a notice referred to in subsection (1) is given, the transferee shall, unless on an application made by a dissenting participant within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting participant under subsection (3) (whichever is the later) a court thinks fit to order otherwise, be entitled and bound to acquire those units —
+
+(a) on the terms which under the arrangement or contract the units of the approving participants are to be transferred to the transferee; or
+
+(b) if the offer contained 2 or more alternative sets of terms, on the terms which were specified in the offer as being applicable to dissenting participants.
+
+(3) Where a transferee has given notice to any dissenting participant of the subject trust that it desires to acquire his units, the dissenting participant shall be entitled to require the transferee by a demand in writing served on the transferee, within one month from the date on which the notice was given, to supply him with a statement in writing of the names and addresses of all other dissenting participants as shown in the register of participants of the subject trust; and the transferee shall not be entitled or bound to acquire the units of the dissenting participants until 14 days after the posting of the statement of such names and addresses to the dissenting participant.
+
+(4) Where, pursuant to any such arrangement or contract, units in the subject trust are transferred to the transferee or its nominee and those units together with any other units in the subject trust held by the transferee at the date of the transfer comprise or include 90% of the total number of the units in the subject trust or of any class of those units, then —
+
+(a) the transferee shall within one month from the date of the transfer (unless on a previous transfer pursuant to the arrangement or contract it has already complied with this requirement) give notice of that fact in the prescribed manner to the participants of the subject trust holding the remaining units in, or the remaining units of that class of units in, the subject trust who have not assented to the arrangement or contract; and
+
+(b) any such participant may within 3 months from receiving the notice require the transferee to acquire his units.
+
+(5) Where a participant has given notice under subsection (4)(b) with respect to any units, the transferee shall be entitled and bound to acquire those units —
+
+(a) on the terms on which under the arrangement or contract the units of the approving participants were transferred to it; or
+
+(b) on such other terms as are agreed or as the court on the application of either the transferee or the participant thinks fit to order.
+
+(6) Where a notice has been given by the transferee under subsection (1) and a court has not, on an application made by the dissenting participant, ordered to the contrary, the transferee shall —
+
+(a) after the expiration of one month after the date on which the notice has been given;
+
+(b) after 14 days after a statement has been supplied to a dissenting participant under subsection (3); or
+
+(c) if an application to the court by the dissenting participant is then pending, after that application has been disposed of,
+
+transmit a copy of the notice to the trustee of the subject trust together with an instrument of transfer executed on behalf of the participant by any person appointed by the transferee and on its own behalf by the transferee, and pay, allot or transfer to the trustee of the subject trust the amount or other consideration representing the price payable by the transferee for the units which by virtue of this section the transferee is entitled to acquire, and the trustee of the subject trust shall thereupon register the transferee as the holder of those units.
+
+(7) Any sums received by the trustee of the subject trust under this section shall be paid into a separate bank account, and any such sums and any other consideration so received shall be held by that trustee in trust for the several persons who had held the units in respect of which they were respectively received.
+
+(8) Where any consideration other than cash is held in trust by the trustee of the subject trust for any person under this section, the trustee may, after the expiration of 2 years from, and shall, before the expiration of 10 years from, the date on which such consideration was allotted or transferred to him, transfer such consideration to the Official Receiver.
+
+(9) The Official Receiver shall sell or dispose of any consideration so received in such manner as he thinks fit and shall deal with the proceeds of such sale or disposal in accordance with section 295B.
+
+(10) In determining the units in the subject trust already held by the transferee at the date of the offer under subsection (1) or the percentage of the total number of units in the subject trust or of any class of those units held by the transferee under subsection (4), units held or acquired —
+
+(a) by a nominee on behalf of the transferee;
+
+(b) where the transferee is a corporation, by its related corporation or by a nominee of the related corporation;
+
+(c) where the transferee is the trustee-manager of a business trust or the trustee of a real estate investment trust —
+
+(i) by a person who controls more than 50% of the voting power in the business trust or real estate investment trust, or by a nominee of that person;
+
+(ii) by the trustee-manager of the business trust on its own account, or by the manager for the real estate investment trust, or by a nominee of the trustee-manager or manager; or
+
+(iii) by a related corporation of the trustee-manager for the business trust or the manager for the real estate investment trust or by a nominee of that related corporation; or
+
+(d) where the transferee is the trustee of a trust that is not a business trust or real estate investment trust, by a related corporation of the trustee (being a corporation) or by a nominee of that related corporation,
+
+shall be treated as held or acquired by the transferee.
+
+(11) For the avoidance of doubt, in this section —
+
+(a) a reference to a transferee (being the trustee of a trust) holding, acquiring or contracting to acquire units in another trust is a reference to his doing any of these as trustee of the first-mentioned trust; and
+
+(b) a reference to a transfer of units of a trust to a transferee (being the trustee of another trust) is a reference to such transfer of units to him as trustee of that other trust.
+
+(12) The reference in subsection (1) to units already held by the transferee —
+
+(a) includes a reference to units which the transferee has contracted to acquire; but
+
+(b) excludes units which are the subject of a contract binding the holder thereof to accept the offer when it is made, being a contract entered into by the holder for no consideration and under seal or for no consideration other than a promise by the transferee to make the offer.
+
+(13) Where, during the period within which an offer for the transfer of units to the transferee can be approved, the transferee acquires or contracts to acquire any of the units whose transfer is involved but otherwise than by virtue of the approval of the offer, then the transferee may be treated for the purposes of this section as having acquired or contracted to acquire those units by virtue of the approval of the offer if, and only if —
+
+(a) the consideration for which the units are acquired or contracted to be acquired (referred to in this subsection as the acquisition consideration) does not at that time exceed the consideration specified in the terms of the offer; or
+
+(b) those terms are subsequently revised so that when the revision is announced the acquisition consideration, at the time referred to in paragraph (a), no longer exceeds the consideration specified in those terms.
+
+(14) In this section and sections 295B and 295C —
+
+“dissenting participant” includes a participant who has not assented to the arrangement or contract and any participant who has failed or refused to transfer his units to the transferee in accordance with the arrangement or contract;
+
+“Official Receiver” means the Official Assignee appointed under the Bankruptcy Act (Cap. 20) and includes his deputy and any person appointed as Assistant Official Assignee;
+
+“real estate investment trust” means a collective investment scheme that is —
+
+(a) authorised under section 286 or recognised under section 287; and
+
+(b) a trust that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any of the units of which are listed for quotation on a securities exchange.
+
+[2/2009 wef 29/03/2010]
+
+### Unclaimed money to be paid to Official Receiver
+
+295B\.—(1) The Official Receiver who receives moneys arising from the proceeds of a sale or disposal under section 295A shall place the moneys to the credit of a separate account to be entitled the Compulsory Acquisition of Scheme Account.
+
+(2) The interest arising from the investment of the moneys standing to the credit of the Compulsory Acquisition of Scheme Account shall be paid into the Consolidated Fund.
+
+(3) If any person makes any demand for any money placed to the credit of the Compulsory Acquisition of Scheme Account, the Official Receiver, upon being satisfied that that person is entitled to the money, shall authorise payment thereof to be made to him out of that Account or, if it has been paid into the Consolidated Fund, may authorise payment of a like amount to be made to him out of moneys made available by Parliament for the purpose.
+
+(4) Any person dissatisfied with the decision of the Official Receiver in respect of a claim made pursuant to subsection (3) may appeal to a court which may confirm, disallow or vary the decision.
+
+(5) Where any unclaimed moneys paid to a person pursuant to subsection (3) are afterwards claimed by any other person, that other person shall not be entitled to any payment out of the Compulsory Acquisition of Scheme Account or out of the Consolidated Fund but such other person may have recourse against the first-mentioned person to whom the unclaimed moneys have been paid.
+
+(6) Any unclaimed moneys paid to the credit of the Compulsory Acquisition of Scheme Account to the extent to which the unclaimed moneys have not been under this section paid out of that Account shall, upon the lapse of 7 years from the date of the payment of the moneys to the credit of that Account, be paid into the Consolidated Fund.
+
+[2/2009 wef 29/03/2010]
+
+### Remedies in cases of oppression or injustice
+
+295C\.—(1) Any participant of a real estate investment trust may apply to a court for an order under this section on the ground —
+
+(a) that the affairs of the trust are being conducted by the manager or trustee for the trust, or the powers of the directors of the manager or directors of the trustee for the trust are being exercised, in a manner oppressive to one or more of the participants of the trust including himself or in disregard of his or their interests as participants of the trust; or
+
+(b) that some act of the manager or trustee for the trust, carried out in its capacity as manager or trustee for the trust, as the case may be, has been done or is threatened or that some resolution of the participants of the trust or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the participants of the trust including himself.
+
+(2) If on such application the court is of the opinion that either of the grounds referred to in subsection (1) is established, the court may, with a view to bringing to an end to or remedying the matters complained of, make such order as it thinks fit and, without prejudice to the generality of the foregoing, the order may —
+
+(a) direct or prohibit any act or cancel or vary any transaction or resolution;
+
+(b) regulate the conduct of the affairs of the manager or trustee for the trust in relation to the trust in future;
+
+(c) authorise civil proceedings against the directors of the manager or directors of the trustee for the trust to be brought in the name of or on behalf of all the participants of the trust as a whole by such person or persons and on such terms as the court may direct;
+
+(d) provide for the purchase of the units in the trust by other participants of the trust;
+
+(e) provide that the trust be wound up; or
+
+(f) provide that the costs and expenses of and incidental to the application for the order are to be raised and paid out of the property of the trust or to be borne and paid in such manner and by such persons as the court deems fit.
+
+(3) Where an order under this section makes any alteration in or addition to the trust deed of any trust, then, notwithstanding anything in any other provision of this Act but subject to the provisions of the order, the manager or trustee of the trust concerned shall not have power, without the leave of the court, to make any further alteration in or addition to the trust deed that is inconsistent with the provisions of the order; but subject to the foregoing provisions of this subsection the alterations or additions made by the order shall have the same effect as if duly made by special resolution of the participants of the trust.
+
+(4) A copy of any order made under this section shall be lodged by the applicant with the Authority within 7 days after the making of the order.
+
+(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) This section shall apply to a person who is not a participant of a trust but to whom units in the trust have been transmitted by operation of law as it applies to the participants of a trust; and references to a participant or participants shall be construed accordingly.
+
+[2/2009 wef 29/03/2010]
+
 Subdivision (3) — Prospectus requirements
 
 ### Requirement for prospectus and profile statement, where relevant
@@ -15150,7 +15412,7 @@ by the persons referred to in paragraph (a) and the persons referred to in sub-p
 
 (5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(6) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
+(6) The Authority may register a prospectus or a profile statement on any day within the period prescribed by the Authority from the date of lodgment thereof with the Authority, unless —
 
 (a) the Authority gives to the person making the offer a notice of an opportunity to be heard under subsection (12);
 
@@ -15170,9 +15432,17 @@ by the persons referred to in paragraph (a) and the persons referred to in sub-p
 
 [1/2005]
 
-(6A) Where, after a notice of an opportunity to be heard has been given under subsection (6)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than the 14th day from the date of lodgment of the prospectus or profile statement with the Authority.
+[2/2009 wef 29/03/2010]
+
+(6A) Where, after a notice of an opportunity to be heard has been given under subsection (6)(a), (b)(ii) or (c)(ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than such day from the date of lodgment of the prospectus or profile statement with the Authority as the Authority may prescribe.
 
 [1/2005]
+
+[2/2009 wef 29/03/2010]
+
+(6AA) For the purposes of subsections (6) and (6A), the Authority may prescribe the same period and day for all offers or different periods and days for different offers.
+
+[2/2009 wef 29/03/2010]
 
 (6B) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (2A) and which contains the information required to be included in a prospectus as prescribed under subsection (1)(a)(i), including such information which could be omitted from the preliminary document by virtue of subsection (1B), has been lodged with the Authority.
 
@@ -17717,6 +17987,7 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|20 April 2009|
 |||29 July 2009|
+|||29 March 2010|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
