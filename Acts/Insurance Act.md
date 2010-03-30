@@ -4378,9 +4378,17 @@ Definitions related to life business
 
 [23/2003 wef 01/01/2004]
 
-6A. “Participating policy” means any non-investment-linked policy conferring any right to share in the profits or surpluses, or any part thereof, arising from the business of the insurer, and “non-participating policy” means a non-investment-linked policy not conferring any such right.
+6A.—(1) “Participating policy” means any non-investment-linked policy conferring a right to participate in allocations by way of bonuses from policy assets of the fund established and maintained by an insurer for such a policy, and “non-participating policy” means a non-investment-linked policy not conferring such a right.
 
-[23/2003 wef 01/01/2004]
+(2) “Policy assets”, in relation to a fund established and maintained for participating policies, means the total assets of the fund as at valuation date held for the benefit of policyholders in that fund less —
+
+(a) the balance in the surplus account established and maintained in such manner as prescribed under section 17(6) of the Act; and
+
+(b) the amount of assets required to satisfy the liabilities described as “other liabilities” in statements of account lodged with the Authority under section 36(1) of the Act.
+
+(3) “Valuation date”, in relation to policy assets, means the date on which the assets and liabilities of an insurer are valued.
+
+[S 184/2010 wef 30/03/2010]
 
 Definitions related to general business
 
@@ -4549,6 +4557,9 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1st September 2009 (Sections 2, 5 to 11 and 13)|
+|28.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
+||Date of commencement|30 March 2010
+(except paragraph 2(a))|
 ## COMPARATIVE TABLE
 
 Insurance Act
