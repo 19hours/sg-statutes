@@ -1,16 +1,14 @@
-**Mental Capacity Act 2008**
+**Mental Capacity Act**
 
-**(No. 22 of 2008)**
+**(CHAPTER 177A)**
 
 **Table of Contents**
 
 [**Long Title**](#Mental-Capacity-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -118,65 +116,45 @@
 
 - [46 Regulations](#Regulations)
 
-- [47 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
-
-- [48 Savings and transitional provisions](#Savings-and-transitional-provisions)
+- [47 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
 [**FIRST SCHEDULE Lasting Powers of Attorney: Formalities**](#FIRST-SCHEDULE-Lasting-Powers-of-Attorney:-Formalities)
 
 [**SECOND SCHEDULE Property and Affairs: Supplementary Provisions**](#SECOND-SCHEDULE-Property-and-Affairs:-Supplementary-Provisions)
 
-[**THIRD SCHEDULE Consequential and Related Amendments to Other Written Laws**](#THIRD-SCHEDULE-Consequential-and-Related-Amendments-to-Other-Written-Laws)
+[**THIRD SCHEDULE Savings and Transitional Provisions**](#THIRD-SCHEDULE-Savings-and-Transitional-Provisions)
 
-[**FOURTH SCHEDULE Savings and Transitional Provisions**](#FOURTH-SCHEDULE-Savings-and-Transitional-Provisions)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Mental Capacity Act
 
-ACTS SUPPLEMENT
+(CHAPTER 177A)
 
-Published by Authority
+(Original Enactment: Act 22 of 2008)
 
-NO. 23]
+REVISED EDITION 2010
 
-Friday, October 17
+(31st March 2010)
 
-[2008
+An Act to make new provision relating to persons who lack capacity and to provide for matters connected therewith.
 
-The following Act was passed by Parliament on 15th September 2008 and assented to by the President on 2nd October 2008:—
-
-Mental Capacity Act 2008
-
-(No. 22 of 2008)
-
-I assent.
-
-S R NATHAN
-
-President
-
-2nd October 2008.
-
-Date of Commencement: 2nd October 2008
-
-An Act to make new provision relating to persons who lack capacity and to provide for matters connected therewith, and to make consequential and related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 2010]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Mental Capacity Act 2008 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Mental Capacity Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“clinical trial” means a clinical trial within the meaning of the Medicines Act (Cap. 176) or the Health Products Act 2007 (Act 15 of 2007);
+“clinical trial” means a clinical trial within the meaning of the Medicines Act (Cap. 176) or the Health Products Act (Cap. 122D);
 
 “court” means the High Court;
 
@@ -218,6 +196,8 @@ PERSONS WHO LACK CAPACITY
 
 (6) Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
 
+[UK MCA 2005, s. 1]
+
 ### Persons who lack capacity
 
 4\.—(1) For the purposes of this Act, a person lacks capacity in relation to a matter if at the material time he is unable to make a decision for himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain.
@@ -240,6 +220,8 @@ PERSONS WHO LACK CAPACITY
 
 is exercisable in relation to a person below 21 years of age.
 
+[UK MCA 2005, s. 2]
+
 ### Inability to make decisions
 
 5\.—(1) For the purposes of section 4, a person is unable to make a decision for himself if he is unable —
@@ -261,6 +243,8 @@ is exercisable in relation to a person below 21 years of age.
 (a) deciding one way or another; or
 
 (b) failing to make the decision.
+
+[UK MCA 2005, s. 3]
 
 ### Best interests
 
@@ -318,6 +302,8 @@ as to what would be in the person’s best interests and, in particular, as to t
 
 (b) which it would be reasonable to regard as relevant.
 
+[UK MCA 2005, s. 4]
+
 ## PART III
 
 ACTS IN CONNECTION WITH CARE OR TREATMENT
@@ -344,9 +330,11 @@ ACTS IN CONNECTION WITH CARE OR TREATMENT
 
 (a) excludes a person’s civil liability for loss or damage, or his criminal liability, resulting from his negligence in doing the act;
 
-(b) affects the operation of the Advance Medical Directive Act (Cap. 4A);
+(b) affects the operation of the Advance Medical Directive Act (Cap. 4A); or
 
 (c) applies to the conduct of a clinical trial.
+
+[UK MCA 2005, s. 5]
 
 ### Section 7 acts: limitations
 
@@ -372,11 +360,15 @@ ACTS IN CONNECTION WITH CARE OR TREATMENT
 
 (b) a deputy appointed for P by the court.
 
+[UK MCA 2005, s. 6]
+
 ### Payment for necessary goods and services
 
 9\.—(1) If necessary goods or services are supplied to a person who lacks capacity to contract for the supply, he must pay a reasonable price for them.
 
 (2) In subsection (1), “necessary” means suitable to a person’s condition in life and to his actual requirements at the time when the goods or services are supplied.
+
+[UK MCA 2005, s. 7]
 
 ### Expenditure
 
@@ -393,6 +385,8 @@ ACTS IN CONNECTION WITH CARE OR TREATMENT
 (a) has lawful control of P’s money or other property; and
 
 (b) has power to spend money for P’s benefit.
+
+[UK MCA 2005, s. 8]
 
 ## PART IV
 
@@ -430,6 +424,8 @@ confers no authority.
 
 (b) any conditions or restrictions specified in the instrument.
 
+[UK MCA 2005, s. 9]
+
 ### Appointment of donees
 
 12\.—(1) A donee of a lasting power of attorney must be —
@@ -466,6 +462,8 @@ confers no authority.
 
 (b) may itself appoint a person to replace the donee (or, if more than one, any of them) on the occurrence of an event mentioned in section 15(5)(a) to (d) which has the effect of terminating the donee’s appointment.
 
+[UK MCA 2005, s. 10]
+
 ### Lasting powers of attorney: restrictions
 
 13\.—(1) A donee under a lasting power of attorney (or, if more than one, any of them) may only make decisions under the lasting power of attorney where P lacks, or the donee reasonably believes that P lacks capacity.
@@ -484,7 +482,9 @@ confers no authority.
 
 (a) uses, or threatens to use, force to secure the doing of an act which P resists; or
 
-(b) restricts P’s liberty of movement, whether or not P resists, or if he authorises another person to do any of those things.
+(b) restricts P’s liberty of movement, whether or not P resists,
+
+or if he authorises another person to do any of those things.
 
 (6) Subject to subsection (8), where a lasting power of attorney authorises the donee (or, if more than one, any of them) to make decisions about P’s personal welfare, the authority extends to giving or refusing consent to the carrying out or continuation of a treatment by a person providing health care for P if, and only if, the instrument contains express provision to that effect.
 
@@ -504,7 +504,7 @@ confers no authority.
 
 (c) execute a will for P.
 
-[3/2009 wef 01/03/2010]
+[3/2009]
 
 (9A) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not —
 
@@ -512,11 +512,13 @@ confers no authority.
 
 (b) where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, revoke, on P’s behalf, that memorandum or nomination, as the case may be.
 
-[18/2009 wef 01/03/2010]
+[18/2009]
 
 (10) Notwithstanding any other provision of this Act, a person dealing with a donee in matters relating to P’s property may require the donee to produce a certificate from a registered medical practitioner stating that P’s lack of capacity is likely to be permanent, and if the donee fails to produce such certificate, the person may refuse to accept the donee’s authority to make decisions for P in such matters.
 
 (11) This section is without prejudice to any other power conferred on a donee of a lasting power of attorney under any other written law.
+
+[UK MCA 2005, s. 11]
 
 ### Scope of lasting powers of attorney: gifts
 
@@ -572,6 +574,8 @@ and in this section, references to revoking the power include revoking the instr
 
 (8) The dissolution or annulment of a marriage between the donor and the donee does not terminate the appointment of a donee, or revoke the power, if the instrument provided that it was not to do so.
 
+[UK MCA 2005, s. 13]
+
 ### Protection of donee and others if no power created or power revoked
 
 16\.—(1) Subsections (2) and (3) apply if —
@@ -597,6 +601,8 @@ whether or not the registration has been cancelled at the time of the act or tra
 (b) the other person makes a statutory declaration, before or within 3 months after the completion of the purchase, that he had no reason at the time of the transaction to doubt that the donee had authority to dispose of the property which was the subject of the transaction.
 
 (5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
+
+[UK MCA 2005, s. 14]
 
 ### Powers of court in relation to validity of lasting powers of attorney
 
@@ -636,6 +642,8 @@ whether or not the registration has been cancelled at the time of the act or tra
 
 (6) In this section, “donee” includes an intended donee.
 
+[UK MCA 2005, s. 22]
+
 ### Powers of court in relation to operation of lasting powers of attorney
 
 18\.—(1) The court may determine any question as to the meaning or effect of a lasting power of attorney or an instrument purporting to create one.
@@ -664,6 +672,8 @@ whether or not the registration has been cancelled at the time of the act or tra
 
 (5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
 
+[UK MCA 2005, s. 23]
+
 ## PART V
 
 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
@@ -679,6 +689,8 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 (c) the lawfulness or otherwise of any act done, or yet to be done, in relation to that person.
 
 (2) In subsection (1)(c), “act” includes an omission and a course of conduct.
+
+[UK MCA 2005, s. 15]
 
 ### Powers to make decisions and appoint deputies: general
 
@@ -714,6 +726,8 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (b) proposes to behave in a way that would contravene that authority or would not be in P’s best interests.
 
+[UK MCA 2005, s. 16]
+
 ### Powers to make decisions and appoint deputies: minors
 
 21\.—(1) Subject to subsection (2), the powers under section 20 as respects any matter may be exercised even though P has not attained the age of 21 years, if the court considers it likely that P will still lack capacity to make decisions in respect of that matter when he attains the age of 21 years.
@@ -742,6 +756,8 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (3) Nothing in subsection (1)(d) affects the operation of the Advance Medical Directive Act (Cap. 4A).
 
+[UK MCA 2005, s. 17]
+
 ### Section 20 powers: property and affairs
 
 23\.—(1) Subject to this section, the powers under section 20 as respects P’s property and affairs include —
@@ -764,27 +780,21 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (ha) the making, on P’s behalf, of any nomination under section 49L(2) or 49M(2) of the Insurance Act (Cap. 142);
 
-[3/2009 wef 01/03/2010]
-
 (hb) where any nomination under section 49L(2) or 49M(2) of the Insurance Act has been made by P or on P’s behalf, the revoking, on P’s behalf, of that nomination under section 49L(7) or 49M(4), as the case may be, of that Act;
-
-[3/2009 wef 01/03/2010]
 
 (i) the execution for P of a will;
 
 (ia) the executing under section 15(6A) or 25(1) of the Central Provident Fund Act (Cap. 36), on P’s behalf, of any memorandum under section 25(1) of that Act;
 
-[18/2009 wef 01/03/2010]
-
 (ib) where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, the revoking, on P’s behalf, of that memorandum or nomination, as the case may be;
-
-[18/2009 wef 01/03/2010]
 
 (j) the maintenance, education, benefit and advancement of P’s spouse, P’s parent, a child of P below 21 years of age or an intellectually disabled child of P;
 
 (k) the exercise of any power (including a power to consent) vested in P whether beneficially or as trustee under a trust;
 
 (l) the conduct of legal proceedings in P’s name or on P’s behalf.
+
+[3/2009; 18/2009]
 
 (2) Without prejudice to section 20(3), the court, in making an order for the disposition or settlement of P’s property under subsection (1)(b) or (h), must have regard to the principle in section 6(6).
 
@@ -795,6 +805,8 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 (5) Section 20(7) is subject to paragraph 6 of the Second Schedule.
 
 (6) Subsection (1) is subject to section 25 (restrictions on deputies).
+
+[UK MCA 2005, s. 18]
 
 ### Appointment of deputies
 
@@ -844,6 +856,8 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (b) to submit to the Public Guardian such reports at such times or at such intervals as the court may direct.
 
+[UK MCA 2005, s. 19]
+
 ### Restrictions on deputies
 
 25\.—(1) A deputy does not have power to make a decision on behalf of P in relation to a matter if he knows or has reasonable grounds for believing that P has capacity in relation to the matter.
@@ -860,27 +874,21 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (aa) making, on P’s behalf, of any nomination under section 49L(2) or 49M(2) of the Insurance Act (Cap. 142);
 
-[3/2009 wef 01/03/2010]
-
 (ab) where any nomination under section 49L(2) or 49M(2) of the Insurance Act has been made by P or by the court on P’s behalf, revoking, on P’s behalf, of that nomination under section 49L(7) or 49M(4), as the case may be, of that Act;
-
-[3/2009 wef 01/03/2010]
 
 (b) execution for P of a will;
 
 (ba) executing under section 15(6A) or 25(1) of the Central Provident Fund Act (Cap. 36), on P’s behalf, of any memorandum under section 25(1) of that Act;
 
-[18/2009 wef 01/03/2010]
-
 (bb) where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, revoking, on P’s behalf, of that memorandum or nomination, as the case may be; or
-
-[18/2009 wef 01/03/2010]
 
 (c) carrying out or continuation of —
 
 (i) life-sustaining treatment on P, whether or not amounting to extraordinary life-sustaining treatment within the meaning of section 2 of the Advance Medical Directive Act (Cap. 4A); or
 
 (ii) any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P’s condition.
+
+[3/2009; 18/2009]
 
 (4) A deputy may not be given power to make a decision on behalf of P which is inconsistent with a decision made, within the scope of his authority and in accordance with this Act, by the donee of a lasting power of attorney granted by P (or, if there is more than one donee, by any of them).
 
@@ -900,13 +908,15 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (b) the seriousness of that harm.
 
-(11) For the purposes of this section, a deputy restrains P if he ––
+(11) For the purposes of this section, a deputy restrains P if he —
 
 (a) uses, or threatens to use, force to secure the doing of an act which P resists; or
 
 (b) restricts P’s liberty of movement, whether or not P resists,
 
 or if he authorises another person to do any of those things.
+
+[UK MCA 2005, s. 20]
 
 ## PART VI
 
@@ -938,7 +948,11 @@ EXCLUDED DECISIONS AND DECLARATORY PROVISIONS
 
 (k) making or revoking a gift of a body or any part thereof under section 3 or 9 of the Medical (Therapy, Education and Research) Act (Cap. 175);
 
-(m) such other matter as may be prescribed.
+(l) such other matter as may be prescribed.
+
+[UK MCA 2005, s. 27]
+
+[18/2009]
 
 ### Mental Health (Care and Treatment) Act matters
 
@@ -948,17 +962,23 @@ EXCLUDED DECISIONS AND DECLARATORY PROVISIONS
 
 (b) to consent to a patient’s being given medical treatment for mental disorder,
 
-if, at the time when it is proposed to treat the patient, his treatment is regulated by the Mental Health (Care and Treatment) Act 2008.
+if, at the time when it is proposed to treat the patient, his treatment is regulated by the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008).
 
 (2) In this section, “treatment” and “mental disorder” have the same meanings as in the Mental Health (Care and Treatment) Act 2008.
+
+[UK MCA 2005, s. 28]
 
 ### Voting rights
 
 28\. Nothing in this Act permits a decision on voting at an election for any public office, or at a national referendum, to be made on behalf of a person.
 
+[UK MCA 2005, s. 29]
+
 ### Scope of Act
 
 29\. For the avoidance of doubt, it is hereby declared that nothing in this Act is to be taken to affect the law relating to murder, culpable homicide not amounting to murder or abetment of suicide.
+
+[UK MCA 2005, s. 62]
 
 ## PART VII
 
@@ -1040,6 +1060,8 @@ and to make a report to the Public Guardian on such matters as he may direct;
 
 (f) the making of reports to the Public Guardian by deputies appointed by the court and others who are directed by the court to carry out any transaction for a person who lacks capacity.
 
+[UK MCA 2005, s. 58]
+
 ### Powers of investigation by Public Guardian
 
 32\.—(1) The Public Guardian may, for the purpose of discharging his functions under this Act —
@@ -1094,6 +1116,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (11) Where any information disclosed to the Public Guardian under this Act is so disclosed subject to any express restriction on the disclosure of the information by the Public Guardian, the Public Guardian’s power of disclosure under subsection (10) shall, in relation to the information, be exercisable by him subject to any such restriction.
 
+[Charities Act 2007 Ed., ss. 9, 10, 11(3), 11(4); Competition Act 2006 Ed., ss. 66(3), 75(3)]
+
 ### Public Guardian Board
 
 33\.—(1) There shall be a body to be known as the Public Guardian Board (referred to in this section as the Board).
@@ -1130,9 +1154,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (9) The Board shall make an annual report to the Minister about the discharge of its functions.
 
+[UK MCA 2005, s. 59]
+
 ### Annual report
 
 34\. The Public Guardian shall make an annual report to the Minister about the discharge of his functions.
+
+[UK MCA 2005, s. 60]
 
 ### Board of Visitors
 
@@ -1170,6 +1198,8 @@ so far as the record relates to P.
 
 (7) A member of the Board of Visitors may also for that purpose interview P in private.
 
+[UK MCA 2005, s. 61]
+
 ## PART VIII
 
 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
@@ -1183,6 +1213,8 @@ SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
 (b) the matter is one to which its powers under this Act extend; and
 
 (c) it is in P’s best interests to make the order, or give the directions, without delay.
+
+[UK MCA 2005, s. 48]
 
 ### Power to call for reports
 
@@ -1209,6 +1241,8 @@ so far as the record relates to P.
 (8) If the Public Guardian or a member of the Board of Visitors is making a visit in the course of complying with a requirement, he may interview P in private.
 
 (9) If a member of the Board of Visitors who is a Special Visitor is making a visit in the course of complying with a requirement, he may if the court so directs carry out in private a medical, psychiatric or psychological examination of P’s capacity and condition.
+
+[UK MCA 2005, s. 49]
 
 ### Applications to court
 
@@ -1238,9 +1272,11 @@ so far as the record relates to P.
 
 (b) the reasons for the application;
 
-(c) the benefit to the person to whom the application relates of a proposed order or directions; and
+(c) the benefit to the person to whom the application relates of the proposed order or directions; and
 
 (d) whether the benefit can be achieved in any other way.
+
+[UK MCA 2005, s. 50]
 
 ### Rules of Court
 
@@ -1278,6 +1314,8 @@ so far as the record relates to P.
 
 (3) Rules of Court may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the Registrar of the Supreme Court.
 
+[UK MCA 2005, ss. 51, 56]
+
 ### Costs
 
 40\.—(1) Subject to the Rules of Court, the costs of and incidental to all proceedings in the court are in its discretion.
@@ -1301,6 +1339,8 @@ the whole of any wasted costs or such part of them as may be determined in accor
 (a) as a result of any improper, unreasonable or negligent act or omission on the part of any legal or other representative or any employee of such a representative; or
 
 (b) which, in the light of any such act or omission occurring after they were incurred, the court considers it is unreasonable to expect that party to pay.
+
+[UK MCA 2005, s. 55]
 
 ## PART IX
 
@@ -1345,6 +1385,8 @@ MISCELLANEOUS
 is relevant to a question arising in the proceedings, the provision or failure must be taken into account in deciding the question.
 
 (7) For the avoidance of doubt, any code of practice issued under this section shall be deemed not to be subsidiary legislation.
+
+[UK MCA 2005, s. 42]
 
 ### Ill-treatment
 
@@ -1404,6 +1446,8 @@ and P is 16 years of age or above.
 
 (9) In this section, “court” means any court of competent jurisdiction.
 
+[UK MCA 2005, s. 44; CYPA 2001 Ed., s. 5]
+
 ### Information relating to persons who lack capacity
 
 43\.—(1) Any person who knows or has reason to suspect that a person who lacks capacity is in need of care or protection may make a notification to the Public Guardian of the facts and circumstances on which his knowledge or suspicion is based.
@@ -1414,7 +1458,7 @@ and P is 16 years of age or above.
 
 (b) insofar as he has acted in good faith, shall incur no civil or criminal liability in respect of the notification or the provision of any information contained in the notification.
 
-(3) In subsection (2), “health care worker” means any registered medical practitioner, dentist registered under the Dental Registration Act (Cap. 76), pharmacist registered under the Pharmacists Registration Act 2007 (Act 48 of 2007), therapist, psychologist, social worker, counsellor, nurse, attendant or other person providing health care services.
+(3) In subsection (2), “health care worker” means any registered medical practitioner, dentist registered under the Dental Registration Act (Cap. 76), pharmacist registered under the Pharmacists Registration Act (Cap. 230), therapist, psychologist, social worker, counsellor, nurse, attendant or other person providing health care services.
 
 (4) Any person appearing as a witness in any proceedings in any court or tribunal or before a person authorised by law to hear evidence shall not be compelled —
 
@@ -1424,25 +1468,23 @@ and P is 16 years of age or above.
 
 (5) In this section, “court” means any court of competent jurisdiction.
 
+[CYPA 2001 Ed., s. 87]
+
 ### Jurisdiction of District Court
 
 44\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Amendment of Schedules
 
-45\. The Minister may, by order published in theGazette, amend, add to or vary the First, Second or Fourth Schedule.
+45\. The Minister may, by order published in theGazette, amend, add to or vary the First, Second or Third Schedule.
 
 ### Regulations
 
 46\. The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
 
-### Consequential and related amendments to other written laws
-
-47\. The provisions of the Acts specified in the first column of the Third Schedule are amended in the manner set out in the second column thereof.
-
 ### Savings and transitional provisions
 
-48\. The provisions of the Fourth Schedule shall have effect with respect to transitional matters arising from the repeal of Part I of the Mental Disorders and Treatment Act (Cap. 178).
+47\. The provisions of the Third Schedule shall have effect with respect to transitional matters arising from the repeal of Part I of the Mental Disorders and Treatment Act (Cap. 178).
 
 FIRST SCHEDULE
 
@@ -1508,11 +1550,11 @@ Requirements as to content of instruments
 
 (a) prescribe a maximum number of named persons;
 
-(b) provide that, where the instrument includes a statement under sub-paragraph (1)(c)(ii), 2 persons of a prescribed description must each give a certificate under sub-paragraph (1)(e).
+(b) provide that, where the instrument includes a statement under sub- paragraph (1)(c)(ii), 2 persons of a prescribed description must each give a certificate under sub-paragraph (1)(e).
 
 (3) The persons who may be “named persons” do not include a person who is appointed as donee under the instrument.
 
-(4) In this Schedule, “named person” means a person named under sub-paragraph (1)(c).
+(4) In this Schedule, “named person” means a person named under sub- paragraph (1)(c).
 
 (5) A certificate under sub-paragraph (1)(e) must —
 
@@ -1768,7 +1810,9 @@ Severance of ineffective provisions
 
 Notification of alterations
 
-24\. If the Public Guardian attaches a note to an instrument under paragraph 20, 21, 22 or 23, he must give notice of the note to the donee or donees of the power (or, as the case may be, to the other donee or donees of the power).
+24. If the Public Guardian attaches a note to an instrument under paragraph 20, 21, 22 or 23, he must give notice of the note to the donee or donees of the power (or, as the case may be, to the other donee or donees of the power).
+
+[UK MCA 2005, Sch. 1]
 
 SECOND SCHEDULE
 
@@ -1932,164 +1976,21 @@ is to be a charge on the property either without interest or with interest at a 
 
 (5) No charge under sub-paragraph (2) may confer any right of sale or foreclosure during P’s lifetime.
 
+[UK MCA 2005, Sch. 2; MDTA, s. 22]
+
 THIRD SCHEDULE
 
-Section 47
-
-Consequential and Related Amendments to Other Written Laws
-
-First column
-
-Second column
-
-(1) Bankruptcy Act
-
-
-
-
-(Chapter 20, 2000 Ed.)
-
-Section 80
-
-Insert, immediately after subsection (6), the following subsection:
-
-“
-
-(7) In this section, “general powers of attorney” include lasting powers of attorney registered under the Mental Capacity Act 2008.
-
-”.
-
-(2) Companies Act
-
-
-
-
-(Chapter 50, 2006 Ed.)
-
-Section 278
-
-Insert, immediately after subsection (9), the following subsection:
-
-“
-
-(10) In this section, “general power of attorney” includes a lasting power of attorney registered under the Mental Capacity Act 2008.
-
-”.
-
-(3) Conveyancing and Law of
-
-
-
-
-Property Act
-
-
-
-
-(Chapter 61, 1994 Ed.)
-
-(a) Section 46
-
-Insert, immediately after subsection (2), the following subsection:
-
-“
-
-(3) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act 2008.
-
-”.
-
-(b) Section 47
-
-Insert, immediately after subsection (3), the following subsection:
-
-“
-
-(4) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act 2008.
-
-”.
-
-(c) Section 48
-
-Insert, immediately after subsection (10), the following subsection:
-
-“
-
-(11) Any reference in section 8 or any written law to a power of attorney deposited, filed or registered under or in the manner provided by this section includes a reference to a lasting power of attorney registered under the Mental Capacity Act 2008.
-
-”.
-
-(4) Limited Liability Partnerships Act
-
-
-
-
-(Chapter 163A, 2006 Ed.)
-
-Fifth Schedule, paragraph 25
-
-Insert, immediately after sub-paragraph (11), the following sub-paragraph:
-
-“
-
-(12) In this paragraph, “general power of attorney” includes a lasting power of attorney registered under the Mental Capacity Act 2008.
-
-”.
-
-(5) Public Trustee Act
-
-
-
-
-(Chapter 260, 1985 Ed.)
-
-Section 4
-
-Delete subsection (1A) and substitute the following subsection:
-
-“
-
-(1A) In addition to the powers and duties under subsection (1), the Public Trustee may —
-
-(a) undertake such functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign him;
-
-(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity.
-
-”.
-
-(6) Trustees Act
-
-
-
-
-(Chapter 337, 2005 Ed.)
-
-Section 42
-
-Delete subsection (4) and substitute the following subsection:
-
-“
-
-(4) Nothing in this section shall —
-
-(a) give power to appoint an executor or administrator;
-
-(b) prevent a donee of a lasting power of attorney created by a trustee from acting for the trustee when such trustee lacks capacity to exercise his functions as trustee.
-
-”.
-
-FOURTH SCHEDULE
-
-Sections 45 and 48
+Sections 45 and 47
 
 Savings and Transitional Provisions
 
 Savings and transitional provisions
 
-1.—(1) This paragraph applies where, immediately before the commencement day, there is a committee of the person or a committee of the estate (individually referred to as the “committee”) of a person (referred to as “P”) appointed under section 9 of the Mental Disorders and Treatment Act (Cap. 178).
+1.—(1) This paragraph applies where, immediately before 1st March 2010, there is a committee of the person or a committee of the estate (individually referred to as the “committee”) of a person (referred to as “P”) appointed under section 9 of the Mental Disorders and Treatment Act (Cap. 178).
 
-(2) On and after the commencement day —
+(2) On and after 1st March 2010 —
 
-(a) the members of the committee shall, notwithstanding section 24(1), be deemed to be deputies appointed by the court to act jointly to make decisions on P’s behalf, but with the powers and functions that the committee had immediately before that day; and
+(a) the members of the committee shall, notwithstanding section 24(1), be deemed to be deputies appointed by the court to act jointly to make decisions on P’s behalf, but with the powers and functions that the committee had immediately before that date; and
 
 (b) a reference in any written law to a deputy appointed by the court includes members of the committee which by virtue of sub-paragraph (a) are deemed to be deputies appointed under this Act.
 
@@ -2107,11 +2008,11 @@ Savings and transitional provisions
 
 (7) The appointment of a member of the committee as P’s deputy ceases to have effect if P dies.
 
-(8) “Relevant matter” means a matter in relation to which, immediately before the commencement day, the committee was authorised to act on behalf of P.
+(8) “Relevant matter” means a matter in relation to which, immediately before 1st March 2010, the committee was authorised to act on behalf of P.
 
 Orders, appointments, etc.
 
-2.—(1) Any order or appointment made, direction or authority given or other thing done under Part I of the Mental Disorders and Treatment Act before the commencement day and in force immediately before that day shall continue to have effect despite the repeal of Part I of that Act.
+2.—(1) Any order or appointment made, direction or authority given or other thing done under Part I of the Mental Disorders and Treatment Act (Cap. 178) before 1st March 2010 and in force immediately before that date shall continue to have effect despite the repeal of Part I of that Act.
 
 (2) In so far as any such order, appointment, direction, authority or thing could have been made, given or done under sections 19 to 25 if those sections had then been in force at the time it was made, given or done —
 
@@ -2123,13 +2024,13 @@ Orders, appointments, etc.
 
 Pending proceedings
 
-3.—(1) Any application for the exercise of a power under Part I of the Mental Disorders and Treatment Act (Cap. 178) which is pending immediately before the commencement day shall be treated, in so far as a corresponding power is exercisable under sections 20 to 25, as an application for the exercise of that power.
+3.—(1) Any application for the exercise of a power under Part I of the Mental Disorders and Treatment Act which is pending immediately before 1st March 2010 shall be treated, in so far as a corresponding power is exercisable under sections 20 to 25, as an application for the exercise of that power.
 
 (2) For the purposes of sub-paragraph (1), an application for the appointment of a committee of the person or estate of a mentally disordered person shall be treated as an application for the appointment of the members of the committee as deputies to act jointly to make decisions on behalf of the mentally disordered person.
 
 Court records
 
-4\. On or after the commencement day, the Public Guardian is, for the purpose of exercising any of his functions, to be given such access as he may require to such of the records of the court as relate to the appointment of committees of estate or person under the Mental Disorders and Treatment Act.
+4\. On or after 1st March 2010, the Public Guardian is, for the purpose of exercising any of his functions, to be given such access as he may require to such of the records of the court as relate to the appointment of committees of estate or person under the Mental Disorders and Treatment Act (Cap. 178).
 
 Accounts
 
@@ -2139,7 +2040,83 @@ Accounts
 
 (b) after they are discharged.
 
-Interpretation of Schedule
+[UK MCA 2005, Sch. 5]
 
-6\. In this Schedule, “commencement day” means the day on which Part V of this Act comes into force.
+## LEGISLATIVE SOURCE KEY
 
+Mental Capacity Act
+
+(CHAPTER 177A)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+UK MCA 2005
+
+:
+
+United Kingdom, Mental Capacity Act 2005 (Chapter 9)
+
+Charities Act 2007 Ed.
+
+:
+
+Singapore, Charities Act (Chapter 37, 2007 Revised Edition)
+
+CYPA 2001 Ed.
+
+:
+
+Singapore, Children and Young Persons Act (Chapter 38, 2001 Revised Edition)
+
+Competition Act 2006 Ed.
+
+:
+
+Singapore, Competition Act (Chapter 50B, 2006 Revised Edition)
+
+MDTA
+
+:
+
+Singapore, Mental Disorders and Treatment Act (Chapter 178, 1985 Revised Edition —repealed)
+
+## LEGISLATIVE HISTORY
+
+Mental Capacity Act
+
+(CHAPTER 177A)
+
+This Legislative History is provided for the convenience of users of the Mental Capacity Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|2 October 2008 (except sections 13(9) and 26(l))|
+|2.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 May 2009|
+|||(Bill No. 11/2009 published on 25 May 2009)|
+||Date of Second and Third Readings|20 July 2009|
+||Date of commencement|28 February 2010 (section 19(c))|
+|3.|**Act 22 of 2008—Mental Capacity Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 13/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|15 September 2008|
+||Date of commencement|1 March 2010 (sections 13(9) and 26(l))|
+|4.|**Act 18 of 2009—Central Provident Fund (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 May 2009|
+|||(Bill No. 11/2009 published on 25 May 2009)|
+||Date of Second and Third Readings|20 July 2009|
+||Date of commencement|1 March 2010 (section 19(a), (b), (d) and (e))|
+|5.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 October 2008|
+|||(Bill No. 28/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Date of commencement|1 March 2010 (section 12)|
+|6.|**2010 Revised Edition—Mental Capacity Act**|
+||Date of operation|31 March 2010|
