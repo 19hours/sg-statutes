@@ -1,12 +1,10 @@
-**Moneylenders Act 2008**
+**Moneylenders Act**
 
-**(No. 31 of 2008)**
+**(CHAPTER 188)**
 
 **Table of Contents**
 
 [**Long Title**](#Moneylenders-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -120,43 +118,25 @@
 
 - [37 Rules](#Rules)
 
-- [38 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [38 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-- [39 Repeal, transitional and savings provisions](#Repeal-transitional-and-savings-provisions)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Moneylenders Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 188)
 
-ACTS SUPPLEMENT
+(Original Enactment: 31 of 2008)
 
-Published by Authority
+REVISED EDITION 2010
 
-NO. 1]
+(31st March 2010)
 
-Friday, January 23
+An Act for the regulation of moneylending and for matters connected therewith.
 
-[2009
+[1st March 2009;
 
-The following Act was passed by Parliament on 18th November 2008 and assented to by the President on 4th December 2008:—
-
-Moneylenders Act 2008
-
-(No. 31 of 2008)
-
-I assent.
-
-S R NATHAN
-
-President
-
-4th December 2008.
-
-Date of Commencement: 1st March 2009
-
-An Act to repeal and re-enact with amendments the Moneylenders Act (Chapter 188 of the 1985 Revised Edition) for the regulation of moneylending and for matters connected therewith, and to make consequential amendments to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Chapter 65A of the 2000 Revised Edition) and the Registration of Criminals Act (Chapter 268 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+1st July 2010: Section 5(3)(b)]
 
 ## PART I
 
@@ -164,7 +144,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Moneylenders Act 2008 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Moneylenders Act.
+
+(2) Section 5(3)(b) shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -176,11 +158,9 @@ PRELIMINARY
 
 (a) a bank licensed under the Banking Act (Cap. 19); or
 
-(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186),
+(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act,
 
 and includes a finance company licensed under the Finance Companies Act (Cap. 108);
-
-[5/2010 wef 11/02/2010]
 
 “body corporate” includes a limited liability partnership;
 
@@ -256,6 +236,8 @@ or who carries on any combination of such activities or services; or
 
 (b) who is not a licensee or an exempt moneylender.
 
+[5/2010]
+
 ### Persons presumed to be moneylenders
 
 3\. Any person, other than an excluded moneylender, who lends a sum of money in consideration of a larger sum being repaid shall be presumed, until the contrary is proved, to be a moneylender.
@@ -280,7 +262,7 @@ LICENSING OF MONEYLENDERS
 
 (1A) For the purposes of subsection (1), a person who wholly or partly carries on, from a place outside Singapore, the business of moneylending in Singapore shall be taken to have carried on that business in Singapore.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (2) The Minister may prescribe different classes or descriptions of licences for the purposes of this Act.
 
@@ -288,7 +270,7 @@ LICENSING OF MONEYLENDERS
 
 (a) made in such form and manner as may be determined by the Registrar; and
 
-(b) accompanied by the payment of a non-refundable application fee of a prescribed amount, which shall be paid in such manner as may be specified by the Registrar.
+(b) 1accompanied by the payment of a non-refundable application fee of a prescribed amount, which shall be paid in such manner as may be specified by the Registrar.
 
 (4) The Registrar may issue a licence with or without conditions, or he may refuse to issue a licence.
 
@@ -532,7 +514,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) in the case of a second or subsequent offence, shall on conviction be punished with a fine of not less than $30,000 and not more than $300,000 and with imprisonment for a term not exceeding 7 years.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (1A) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
 
@@ -540,7 +522,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) a person who is convicted of a second or subsequent offence under subsection (1) shall also be liable to be punished with caning with not more than 12 strokes.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (2) Where any contract for a loan has been granted by an unlicensed moneylender, or any guarantee or security has been given for such a loan —
 
@@ -574,11 +556,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) he promotes or advertises a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1).
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (3B) In subsection (3A), “funds” and “property” have the meanings given to those words in section 15A.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (4) For the purposes of subsection (1), where the bank account or automated teller machine card of any person, or a telecommunication service subscribed in the name of or purchased by any person, is proved to the satisfaction of the court to have been used to facilitate the carrying on of the business of moneylending by an unlicensed moneylender, that person shall be presumed, until the contrary is proved, to have assisted in the contravention of section 5(1).
 
@@ -608,8 +590,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
 
-[5/2010 wef 11/02/2010]
-
 ### Interpretation of this Part
 
 15A\. In this Part, unless the context otherwise requires —
@@ -630,9 +610,13 @@ FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
 
 “property” means property of every kind, whether tangible or intangible, movable or immovable, and whether situated within or outside Singapore, and includes funds.
 
+[5/2010]
+
 ### Proceeds of unlicensed moneylending
 
 15B\.—(1) In this Part, property is proceeds of unlicensed moneylending if it is wholly or partly derived or realised, whether directly or indirectly, from a contravention of section 5(1).
+
+[5/2010]
 
 (2) Property becomes proceeds of unlicensed moneylending if —
 
@@ -642,11 +626,15 @@ FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
 
 including by virtue of a previous application of this subsection.
 
+[5/2010]
+
 (3) Property remains proceeds of unlicensed moneylending even if —
 
 (a) it is credited to an account; or
 
 (b) it is dealt with or disposed of.
+
+[5/2010]
 
 ### Order specifying proceeds of unlicensed moneylending
 
@@ -662,9 +650,15 @@ the Minister may by order specify —
 
 (ii) any account which has been credited with such property as an account with proceeds of unlicensed moneylending (referred to in this Part as specified account).
 
+[5/2010]
+
 (2) The Minister may vary or revoke the order at any time.
 
+[5/2010]
+
 (3) The Minister shall revoke the order if the person referred to in subsection (1)(a) is no longer detained and is not subject to the supervision of the police under an order made under section 32 of the Criminal Law (Temporary Provisions) Act.
+
+[5/2010]
 
 ### Orders: further provisions
 
@@ -674,23 +668,41 @@ the Minister may by order specify —
 
 (b) if he varies or revokes the order, take steps to publish the variation or revocation in theGazetteor bring the variation or revocation to the attention of the persons served with a copy of the order, as the case may be.
 
+[5/2010]
+
 (2) Where the Minister serves a copy of the order on certain persons under subsection (1), only those persons are subject to the prohibition in section 15E(1).
+
+[5/2010]
 
 (3) The High Court may, on the application of a person affected by the order, set aside the order in whole or in part.
 
+[5/2010]
+
 (4) An application under subsection (3) shall be made within 30 days from the date of publication or service of the order, as the case may be.
+
+[5/2010]
 
 (5) The order may be set aside in whole or in part by the High Court if, and only if, the applicant proves to the satisfaction of the Court that any specified property is not, or any specified account has not been credited with, proceeds of unlicensed moneylending.
 
+[5/2010]
+
 (6) The correctness, validity or legality of the order made under section 30 or 32 (as the case may be) of the Criminal Law (Temporary Provisions) Act (Cap. 67), or of any ground upon which such order is made, shall not be raised as an issue or called into question in the course of an application under subsection (3) or during any proceedings relating to such application.
+
+[5/2010]
 
 (7) A person who makes an application under subsection (3) shall serve a copy of the application on the Attorney-General not later than 7 days before the date fixed for the hearing of the application.
 
+[5/2010]
+
 (8) Rules of Court may provide for the manner in which proceedings relating to an application under subsection (3) may be commenced or carried on.
+
+[5/2010]
 
 ### Freezing proceeds of unlicensed moneylending
 
 15E\.—(1) A person shall not deal with any specified property, or any funds in any specified account, unless he does so under the authority of a licence granted under section 15H.
+
+[5/2010]
 
 (2) A person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -698,13 +710,21 @@ the Minister may by order specify —
 
 (b) in any other case, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[5/2010]
+
 (3) This section is subject to section 15D(2).
+
+[5/2010]
 
 ### Exception
 
 15F\.—(1) A person is not guilty of an offence under section 15E if he credits a specified account with interest or other earnings due on the account.
 
+[5/2010]
+
 (2) For the avoidance of doubt, section 15E applies to any funds credited to the specified account in accordance with subsection (1).
+
+[5/2010]
 
 ### Circumvention of section 15E
 
@@ -720,9 +740,13 @@ any arrangement which facilitates, or is likely to facilitate, whether by means 
 
 (ii) in any other case, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[5/2010]
+
 ### Licences
 
 15H\.—(1) The Minister may grant a licence to exempt any act from the prohibition in section 15E.
+
+[5/2010]
 
 (2) A licence may be —
 
@@ -732,7 +756,11 @@ any arrangement which facilitates, or is likely to facilitate, whether by means 
 
 (c) of indefinite duration or subject to an expiry date.
 
+[5/2010]
+
 (3) The Minister may vary or revoke a licence at any time.
+
+[5/2010]
 
 (4) Where the Minister grants, varies or revokes a licence, he shall —
 
@@ -740,13 +768,19 @@ any arrangement which facilitates, or is likely to facilitate, whether by means 
 
 (b) in the case of a general licence or a licence granted to a category of persons, take such steps as the Minister considers appropriate to publicise the grant of the licence, or the variation or revocation thereof.
 
+[5/2010]
+
 (5) Any person who does any act under the authority of a licence but fails to comply with any condition attaching to that licence shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case where the person is a body corporate, to a fine not exceeding $80,000; or
 
 (b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[5/2010]
+
 (6) The Minister may delegate any power or duty under this section to the Commissioner of Police, except the power of delegation conferred by this subsection.
+
+[5/2010]
 
 ## PART III
 
@@ -984,7 +1018,7 @@ which is false or misleading in a material particular shall be guilty of an offe
 
 (c) to permit the Registrar or an authorised officer to make or cause to be made a copy of any book, record or other document under subsection (1)(c);
 
-(d) to permit the Registrar or an authorised officer to take any photograph or video recording of the premises or any part thereof under subsection (1)(d); or
+(d) to permit the Registrar or an authorised officer to take any photograph or video recording of the premises inspected or any part thereof under subsection (1)(d); or
 
 (e) to permit the Registrar or an authorised officer to seize or remove from the premises any book, record or other document, or any machine or equipment containing any book, record or other document under subsection (1)(e),
 
@@ -1008,11 +1042,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) to produce or furnish, as specified in the notice, any document or a certified copy of any document relating to that person, spouse, son or daughter which is in the possession or under the control of the Comptroller.
 
+[5/2010]
+
 (2) The Comptroller to whom a notice is sent by the Public Prosecutor under subsection (1) shall, notwithstanding the provisions of any written law or any oath of secrecy to the contrary, be legally bound to comply with the terms of that notice within such time as may be specified therein.
+
+[5/2010]
 
 (3) In this section, “Comptroller” means the Comptroller of Income Tax, or any Deputy Comptroller or Assistant Comptroller of Income Tax appointed under section 3(1) of the Income Tax Act (Cap. 134).
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ### General power to issue directions
 
@@ -1058,7 +1096,7 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 
 (B) in the case of a second or subsequent offence, shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 9 years and shall also be liable to a fine of not less than $6,000 and not more than $60,000.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (2) Subject to subsection (3), any person who, acting on behalf of an unlicensed moneylender, commits or attempts to commit any of the acts specified in subsection (1) shall be guilty of an offence and —
 
@@ -1066,7 +1104,7 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 
 (b) in the case of a second or subsequent offence, shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 9 years and shall also be liable to a fine of not less than $6,000 and not more than $60,000.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (3) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
 
@@ -1090,7 +1128,7 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 
 (iii) with not less than 9 and not more than 18 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person and damage was caused to any property.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (3A) For the purposes of paragraph (a) of subsection (1), a person who —
 
@@ -1100,11 +1138,11 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 
 whether from a place in Singapore or outside Singapore, to any person or place in Singapore shall be taken to have committed an act referred to in that paragraph.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (3B) For the purposes of paragraph (b) of subsection (1), a person who makes any telephone call, or by any means sends any article, message, word, sign, image or representation, whether from a place in Singapore or outside Singapore, to any person or place in Singapore, which is likely to cause alarm or annoyance to a person referred to in that paragraph, shall be taken to have committed an act referred to in that paragraph.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (4) For the purposes of subsection (2), any person who does any of the acts specified in subsection (1) in connection with a demand for the repayment of a loan to an unlicensed moneylender shall be presumed, until the contrary is proved, to act on behalf of such unlicensed moneylender.
 
@@ -1132,6 +1170,8 @@ whether from a place in Singapore or outside Singapore, to any person or place i
 
 (d) he provides or arranges transport to a person for the purpose of his acting as a lookout for a person carrying out any such act, and he knows and has reasonable cause to believe that the act is in connection with such a demand.
 
+[5/2010]
+
 (2) For the purposes of Chapter V of the Penal Code, where —
 
 (a) a person gives instruction to another person to carry out any act specified in section 28(1) in connection with a demand for the repayment of a loan to an unlicensed moneylender; and
@@ -1140,9 +1180,11 @@ whether from a place in Singapore or outside Singapore, to any person or place i
 
 the person referred to in paragraph (b) shall be taken to have abetted the commission of an offence under section 28(1) or an offence under subsection (1)(a) (as the case may be) by the person giving the instruction.
 
+[5/2010]
+
 (3) For the avoidance of doubt, this section is without prejudice to the generality of the term “abetment” under the Penal Code.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ### Offences involving minors below 16
 
@@ -1154,13 +1196,15 @@ the person referred to in paragraph (b) shall be taken to have abetted the commi
 
 (c) in any other case, shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[5/2010]
+
 (2) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
 
 (a) a person who is convicted of an offence under subsection (1) for causing or procuring any person below the age of 16 years to commit an offence under section 14 shall, if the offence under section 14 is thereby committed, also be liable to be punished with caning with not more than 12 strokes; and
 
 (b) a person who is convicted of an offence under subsection (1) for causing or procuring any person below the age of 16 years to commit an offence under section 28 shall, if the offence under section 28 is thereby committed, also be liable to be punished with caning with not more than 12 strokes.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ### Offence of providing false contact information
 
@@ -1170,11 +1214,15 @@ the person referred to in paragraph (b) shall be taken to have abetted the commi
 
 (b) the unlicensed moneylender or a person acting on his behalf uses the contact information for the purpose of committing an offence under section 28(1) or (2) against any other person.
 
+[5/2010]
+
 (2) Any person who is guilty of an offence under subsection (1) shall be liable on conviction to imprisonment for a term not exceeding 12 months.
+
+[5/2010]
 
 (3) In subsection (1), “contact information” means a residential address, business address, telephone number, facsimile number or any other information given to enable an unlicensed moneylender to contact a borrower.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ### Special provisions relating to non-resident principal
 
@@ -1194,15 +1242,21 @@ the person referred to in paragraph (b) shall be taken to have abetted the commi
 
 ### Public Prosecutor’s power to order inspection of customer information
 
-30A\.—(1) The Public Prosecutor may, if he considers that any evidence of the commission of an offence under section 14 or 28, whenever committed, or a conspiracy to commit, an attempt to commit, or an abetment of such an offence, by a person is likely to be found in any document containing customer information relating to that person, to the spouse, son or daughter of that person, or to a person reasonably believed by the Public Prosecutor to be a trustee or agent for that person, by order authorise any police officer of or above the rank of assistant superintendent so named to inspect any document of a bank specified in the order.
+30A\.—(1) The Public Prosecutor may, if he considers that any evidence of the commission of an offence under section 14 or 28, whenever committed, or a conspiracy to commit, an attempt to commit, or an abetment of such an offence, by a person is likely to be found in any document containing customer information relating to that person, to the spouse, son or daughter of that person, or to a person reasonably believed by the Public Prosecutor to be a trustee or an agent for that person, by order authorise any police officer of or above the rank of assistant superintendent so named to inspect any document of a bank specified in the order.
+
+[5/2010]
 
 (2) The police officer so authorised may, at all reasonable times, enter the bank specified in the order and inspect the documents kept therein and may take copies of any relevant entry in any such document.
 
+[5/2010]
+
 (3) The Public Prosecutor may delegate his power under this section to a Deputy Public Prosecutor or the Commissioner of Police, except the power of delegation conferred by this subsection.
+
+[5/2010]
 
 (4) In this section, “customer information” has the meaning given to that expression in section 40A of the Banking Act (Cap. 19).
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ## PART IV
 
@@ -1214,25 +1268,27 @@ MISCELLANEOUS
 
 ### Jurisdiction of court
 
-32\. Notwithstanding any provision to the contrary in the Criminal Procedure Code, a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+32\.—(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code, a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
-
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 (2) Where any act constituting an offence, or part of an offence, under section 14 or 28 is committed outside Singapore by a person, he may be dealt with in respect of that offence as if the act had been committed within Singapore.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ### Examination of offenders
 
 32A\.—(1) Whenever 2 or more persons are charged with an offence under section 14 or 28, whenever committed, or with a conspiracy to commit, or an attempt to commit, or an abetment of such an offence, the court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
 
+[5/2010]
+
 (2) Any such person who refuses to be sworn or to answer any lawful question shall be dealt with in the same manner as witnesses so refusing may by law be dealt with by a Magistrate’s Court or District Court, as the case may be.
+
+[5/2010]
 
 (3) Every person so required to give evidence, who in the opinion of the court makes true and full discovery of all things as to which he is lawfully examined, shall be entitled to receive a certificate of indemnity under the hand of the Magistrate or District Judge, as the case may be, stating that he has made a true and full discovery of all things as to which he was examined, and that certificate shall be a bar to all legal proceedings against him in respect of all those things.
 
-[5/2010 wef 11/02/2010]
+[5/2010]
 
 ### Offences by bodies corporate, etc.
 
@@ -1380,79 +1436,57 @@ whichever is the lower.
 
 (ii) in any other case, for penalties not exceeding a fine of $50,000 for each offence.
 
-### Consequential amendments to other written laws
+### Transitional and savings provisions
 
-38\.—(1) Part II of the Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) is amended —
+38\.—(1) Notwithstanding the repeal of the Moneylenders Act, as from 1st March 2009 —
 
-(a) by deleting the words “Moneylenders Act (Cap. 188)” immediately above item 183 and substituting the words “Moneylenders Act 2008”; and
+(a) every licence granted under the repealed Moneylenders Act (Cap. 188, 1985 Ed.) and which continues to be valid immediately before that date shall be deemed to be a licence issued under this Act in respect of the activities authorised by the first-mentioned licence for the remaining period of the licence and shall subsist until its expiry, and may be renewed, revoked, suspended or otherwise dealt with in accordance with the provisions of this Act;
 
-(b) by deleting items 183 and 184 and substituting the following items:
-
-“
-
-183.
-
-Section 14
-
-Unlicensed moneylending
-
-184.
-
-Section 28
-
-Harassing borrower, besetting his residence, etc.
-
-”.
-
-(2) Part II of the First Schedule to the Registration of Criminals Act (Cap. 268) is amended by deleting the following words:
-
-“
-
-Moneylenders Act
-
-Sections 8 and 32.
-
-Cap. 188.
-
-”.
-
-and substituting the following words:
-
-“
-
-Moneylenders Act 2008
-
-Sections 14 and 27.
-
-”.
-
-### Repeal, transitional and savings provisions
-
-39\.—(1) The Moneylenders Act (Cap. 188) is repealed.
-
-(2) Notwithstanding the repeal of the Moneylenders Act, as from the date of commencement of this section —
-
-(a) every licence granted under the repealed Moneylenders Act and which continues to be valid immediately before that date shall be deemed to be a licence issued under this Act in respect of the activities authorised by the first-mentioned licence for the remaining period of the licence and shall subsist until its expiry, and may be renewed, revoked, suspended or otherwise dealt with in accordance with the provisions of this Act;
-
-(b) every exemption granted under the repealed Moneylenders Act and subsisting immediately before that date shall, except to the extent that the person exempted qualifies to be an excluded moneylender, be deemed to be an exemption granted under this Act and shall subsist until its expiry, and may be extended, revoked or otherwise dealt with in accordance with the provisions of this Act; and
+(b) every exemption granted under the repealed Moneylenders Act (Cap. 188, 1985 Ed.) and subsisting immediately before that date shall, except to the extent that the person exempted qualifies to be an excluded moneylender, be deemed to be an exemption granted under this Act and shall subsist until its expiry, and may be extended, revoked or otherwise dealt with in accordance with the provisions of this Act; and
 
 (c) every pending application for any licence, exemption, consent or approval under the repealed Moneylenders Act shall be deemed to be an application therefor under this Act, except that the fees payable for such an application or for the grant of the licence, exemption, consent or approval sought shall be those prescribed under the repealed Moneylenders Act.
 
-(3) Where any person —
+(2) Where any person —
 
-(a) is granted an exemption under the repealed Moneylenders Act which subsists immediately before the date of commencement of this Act; and
+(a) is granted an exemption under the repealed Moneylenders Act which subsists immediately before 1st March 2009; and
 
 (b) qualifies to be an excluded moneylender in relation to the activities or services for which the exemption is granted,
 
 the Registrar may, in his discretion, refund such amount of the fees paid by the person in respect of such exemption as is proportionate to the period (being a period of not less than 6 months) for which, but for such person becoming an excluded moneylender, the exemption would continue to subsist.
 
-(4) Any notice, order, decision, direction, requisition or approval made or granted by the Registrar or the Minister under the repealed Moneylenders Act (Cap. 188) in force immediately before the date of commencement of this Act shall continue and be deemed to have been made or granted by the Registrar or the Minister, respectively, under this Act and shall have effect accordingly.
+(3) Any notice, order, decision, direction, requisition or approval made or granted by the Registrar or the Minister under the repealed Moneylenders Act in force immediately before 1st March 2009 shall continue and be deemed to have been made or granted by the Registrar or the Minister, respectively, under this Act and shall have effect accordingly.
 
-(5) All acts done by or on behalf of the Registrar or the Minister under the repealed Moneylenders Act before the date of commencement of this Act shall continue to remain valid and have effect as though done by or on behalf of the Registrar or the Minister, respectively, under this Act until such time as such acts are invalidated, revoked, cancelled or otherwise determined by the Registrar or the Minister, as the case may be.
+(4) All acts done by or on behalf of the Registrar or the Minister under the repealed Moneylenders Act before 1st March 2009 shall continue to remain valid and have effect as though done by or on behalf of the Registrar or the Minister, respectively, under this Act until such time as such acts are invalidated, revoked, cancelled or otherwise determined by the Registrar or the Minister, as the case may be.
 
-(6) Subject to subsection (2)(c), where anything has been commenced by or on behalf of the Registrar or the Minister before the date of commencement of this Act, such thing may be carried on and completed by or on behalf of the Registrar or the Minister, respectively, under the authority of this Act.
+(5) Subject to subsection (1)(c), where anything has been commenced by or on behalf of the Registrar or the Minister before 1st March 2009, such thing may be carried on and completed by or on behalf of the Registrar or the Minister, respectively, under the authority of this Act.
 
-(7) Any subsidiary legislation made under the repealed Moneylenders Act and in force immediately before the date of commencement of this Act shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked.
+(6) Any subsidiary legislation made under the repealed Moneylenders Act (Cap. 188, 1985 Ed.) and in force immediately before 1st March 2009 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked.
 
-(8) Any written law or document referring to the repealed Moneylenders Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
+(7) Any written law or document referring to the repealed Moneylenders Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
 
+## LEGISLATIVE HISTORY
+
+Moneylenders Act
+
+(CHAPTER 188)
+
+This Legislative History is provided for the convenience of users of the Moneylenders Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 31 of 2008—Moneylenders Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 33/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|1 March 2009 (except section 5(3)(b))|
+Note:
+
+The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylenders Act (Chapter 188, 1985 Revised Edition).
+
+|2.|**Act 5 of 2010—Moneylenders (Amendment) Act 2010**|
+||Date of First Reading|23 November 2009|
+|||(Bill No. 23/2009 published on 24 November 2009)|
+||Date of Second and Third Readings|12 January 2010|
+||Date of commencement|11 February 2010|
+|3.|**2010 Revised Edition—Moneylenders Act (Chapter 188)**|
+||Date of operation|31 March 2010|
