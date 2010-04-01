@@ -596,9 +596,7 @@ Excluded Transactions
 
 (a) to (g) (Deleted by Act 15 of 2008);
 
-1(h) 
-
-1Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
+(h) [Deleted by Act 15/2008 wef 01/04/2010]
 
 2(i) Pawnbrokers Act (Cap. 222)
 
@@ -745,3 +743,8 @@ This Legislative History is provided for the convenience of users of the Consume
 ||Date of commencement|15 April 2009 (except section 8(b) and (c))|
 |4.|**2009 Revised Edition—Consumer Protection (Fair Trading) Act**|
 ||Date of operation|31 July 2009|
+|5.|**Act 15 of 2008—Consumer Protection (Fair Trading) (Amendment) Act 2008**|
+||Date of First Reading|21 July 2008|
+|||(Bill No. 10/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|25 August 2008|
+||Date of commencement|1 April 2010 (section 8(b))|
