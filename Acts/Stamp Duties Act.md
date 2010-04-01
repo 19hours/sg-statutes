@@ -56,6 +56,8 @@
 
 - [15 Relief from ad valorem stamp duty](#Relief-from-ad-valorem-stamp-duty)
 
+- [15A Relief from ad valorem stamp duty for acquisition of shares of companies](#Relief-from-ad-valorem-stamp-duty-for-acquisition-of-shares-of-companies)
+
 - [16 Voluntary conveyance inter vivos](#Voluntary-conveyance-inter-vivos)
 
 - [17 How conveyance in consideration of debt or subject to future payment, etc., to be charged](#How-conveyance-in-consideration-of-debt-or-subject-to-future-payment-etc-to-be-charged)
@@ -646,8 +648,6 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [36/2008 wef 15/02/2007]
 
-[23/2011 wef 20/02/2010]
-
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
 [32/2000; 6/2005; 39/2005]
@@ -701,6 +701,200 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 [36/2008 wef 15/02/2007]
 
 [6/2005; 39/2005]
+
+### Relief from ad valorem stamp duty for acquisition of shares of companies
+
+15A\.—(1) Subject to the provisions of this section and the prescribed conditions being fulfilled, ad valorem stamp duty under Article 3(c) in the First Schedule shall not be chargeable on any instrument executed during the period from 1st April 2010 to 31st March 2015 (both dates inclusive) for the purposes of or in connection with a qualifying acquisition of ordinary shares in a company (referred to in this section as the target company) by a Singapore company (referred to in this section as the acquiring company) or a subsidiary of the Singapore company that satisfies subsection (2) (referred to in this section as the acquiring subsidiary).
+
+(2) For the purposes of subsection (1), the acquiring subsidiary —
+
+(a) must be incorporated for the primary purpose of acquiring and holding shares in other companies; and
+
+(b) must be —
+
+(i) where the date of the acquisition is during the period from 1st April 2010 to 16th February 2012 (both dates inclusive), directly and wholly owned by the acquiring company at the date of the acquisition; and
+
+(ii) where the date of the acquisition is during the period from 17th February 2012 to 31st March 2015 (both dates inclusive), wholly owned (whether directly or indirectly) by the acquiring company at the date of the acquisition.
+
+[Act 1 of 2013 wef 01/04/2010]
+
+(2A) No instrument referred to in subsection (1) shall be deemed to be duly stamped unless —
+
+(a) it is stamped with the duty to which it would but for this section be liable; or
+
+(b) the acquiring company has brought it to the Commissioner under section 37, and he has certified under section 38 that any duty chargeable on the instrument has been paid or that it is not chargeable with duty to the extent provided in this section.
+
+[23/2011 wef 01/04/2010]
+
+(3) In this section, a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary is any of the following:
+
+(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
+
+[Act 1 of 2013 wef 01/04/2010]
+
+(b) [Deleted by Act 23/2011 wef 01/04/2010];
+
+(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+
+(i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
+
+(ii) the date of the acquisition does not fall within the financial year of the acquiring company in which the acquisition referred to in paragraph (a) occurs;
+
+[23/2011 wef 01/04/2010]
+
+[Act 1 of 2013 wef 01/04/2010]
+
+(d) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (a) or (c), as the case may be, occurs.
+
+[23/2011 wef 01/04/2010]
+
+(4) For the purposes of subsection (3), the qualifying period shall be determined as follows:
+
+(a) the qualifying period shall, in the first instance, be the financial year of the acquiring company in which the acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs;
+
+(b) following the end of the financial year referred to in paragraph (a), the acquiring company may elect, in such form and manner and within such time as the Commissioner may specify, to replace the qualifying period referred to in that paragraph with a prescribed period (which must be a period within which the acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs); and
+
+(c) where the acquiring company claims a deduction under Lsection 37L of the Income Tax Act (Cap. 134) in connection with the acquisition referred to in subsection (3)(a) or (c), as the case may be, then, whether or not an election was made under paragraph (b), the qualifying period shall, in place of the period referred to in paragraph (a) or (b) (as the case may be), be the same period as that for which acquisitions are qualifying acquisitions for the purposes of its claim under section 37L of the Income Tax Act.
+
+[23/2011 wef 01/04/2010]
+
+[Act 1 of 2013 wef 01/04/2010]
+
+(5) [Deleted by Act 23/2011 wef 01/04/2010]
+
+(6) [Deleted by Act 23/2011 wef 01/04/2010]
+
+(7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
+
+[23/2011 wef 01/04/2010]
+
+[Act 1 of 2013 wef 01/04/2010]
+
+(8) Subject to the rules made under subsection (18), where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to it for each of the following periods shall not exceed $200,000:
+
+(a) the first 12 months of that financial year;
+
+(b) the remaining period of that financial year.
+
+[23/2011 wef 01/04/2010]
+
+(9) For the purposes of subsection (1), where the acquiring company or the acquiring subsidiary, as the case may be, and the target company are part of the same group of companies on the date of a qualifying acquisition of ordinary shares in the target company by the acquiring company or the acquiring subsidiary, as the case may be, no relief from duty shall be allowed for the instrument in question unless the acquisition would result in an increase in the total number of ordinary shares in the target company held on that date by all the companies in the group, excluding the target company.
+
+(10) For the purpose of determining the amount of relief from duty allowable under subsection (1), where the consideration paid by the acquiring company or the acquiring subsidiary, as the case may be, in respect of the share acquisition consists, wholly or in part, of shares in the acquiring company, the value of consideration comprising such shares shall be such value of the shares at the date of the share acquisition as may be determined by the Commissioner.
+
+(11) Where an acquiring company or an acquiring subsidiary has paid ad valorem stamp duty on a qualifying acquisition of ordinary shares in a target company (referred to in this subsection as a relevant qualifying acquisition), the acquiring company may apply under section 75 for a refund of the duty so paid in relation to the relevant qualifying acquisition; and section 75 shall apply with the following modifications:
+
+(a) where the qualifying period is the period referred to in subsection (4)(a), the reference to the date of the overpayment in section 75(2) shall be read as a reference to —
+
+(i) the date of the relevant qualifying acquisition; or
+
+(ii) the date of the acquisition referred to in subsection (3)(a) or (c) (as the case may be) that occurred in the same qualifying period as the relevant qualifying acquisition,
+
+whichever is the later;
+
+(b) where the qualifying period is the period referred to in subsection (4)(b), the reference to the date of the overpayment in section 75(2) shall be read as a reference to the last day of the financial year that is replaced by the prescribed period elected under subsection (4)(b);
+
+(c) where the qualifying period is the period referred to in subsection (4)(c), the reference to the date of the overpayment in section 75(2) shall be read as a reference to the date of lodgment of the return of income by the acquiring company under section 37L(6) of the Income Tax Act.
+
+[23/2011 wef 01/04/2010]
+
+(11A) Where, as a result of a change in the qualifying period pursuant to subsection (4)(b) or (c), a qualifying acquisition ceases to be a qualifying acquisition, the ad valorem stamp duty on the instrument for the acquisition shall be payable to the Commissioner in such manner and within such time after such cessation as the Commissioner may specify, together with interest referred to in subsection (13), by —
+
+(a) in the case where the ordinary shares in the target company are acquired by the acquiring company, the acquiring company; and
+
+(b) in the case where the ordinary shares in the target company are acquired by the acquiring subsidiary, the acquiring company and the acquiring subsidiary, on a joint and several basis,
+
+and shall be recoverable as a debt due to the Government.
+
+[23/2011 wef 01/04/2010]
+
+(12) Where any claim by an acquiring company for relief from duty under this section has been allowed for an instrument and it is subsequently found that —
+
+(a) any declaration or other evidence furnished in support of the claim was untrue in any material particular; or
+
+(b) any condition precedent or condition subsequent prescribed under subsection (18) has not been satisfied,
+
+the claim shall be deemed to have been disallowed and an amount equal to the amount of relief from duty shall —
+
+(i) in a case where the ordinary shares in the target company are acquired by the acquiring company under the instrument —
+
+(A) become payable by the acquiring company to the Commissioner immediately; and
+
+(B) be recoverable together with interest referred to in subsection (13) from the acquiring company as a debt due to the Government; and
+
+(ii) in a case where the ordinary shares in the target company are acquired by the acquiring subsidiary under the instrument —
+
+(A) become payable by the acquiring company and the acquiring subsidiary, on a joint and several basis, to the Commissioner immediately; and
+
+(B) be recoverable together with interest referred to in subsection (13) from the acquiring company and the acquiring subsidiary, on a joint and several basis, as a debt due to the Government.
+
+[23/2011 wef 01/04/2010]
+
+(13) Interest referred to in this section shall accrue as follows:
+
+(a) in the case of subsection (11A), on the amount of duty referred to therein at the rate of 6% per annum after the expiry of the period in which the duty must be paid to the Commissioner; and
+
+(b) in the case of subsection (12), on the amount of relief referred to therein at the rate of 6% per annum —
+
+(i) if the instrument is executed by any person in Singapore, from the date of its execution; or
+
+(ii) if the instrument is executed outside Singapore, from the date the instrument is first received in Singapore.
+
+[23/2011 wef 01/04/2010]
+
+(14) The amount recoverable under subsection (12) shall be payable at the place stated in a notice served by the Commissioner on the acquiring company, or the acquiring company and the acquiring subsidiary, as the case may be, within one month after the service of the notice by the Commissioner on the acquiring company, or the acquiring company and the acquiring subsidiary, as the case may be.
+
+(15) If any amount recoverable from the acquiring company, or the acquiring company and the acquiring subsidiary, as the case may be, under subsection (11A) or (12) is not paid within the period referred to in subsection (11A) or (14), as the case may be, the following penalties shall be imposed on the company or companies:
+
+(a) where the outstanding amount is paid to the Commissioner within 3 months from the expiration of such period, a penalty of $10 or the outstanding amount, whichever is the greater; and
+
+(b) where the outstanding amount is not paid to the Commissioner within 3 months from the expiration of such period, a penalty of $25 or 4 times the outstanding amount, whichever is the greater.
+
+[23/2011 wef 01/04/2010]
+
+(16) The Commissioner may reduce or remit any penalty imposed under this section.
+
+(17) Sections 50 and 70AA shall apply to the collection and recovery by the Commissioner of the amount recoverable under subsections (11A) and (12) and any penalty imposed under subsection (15) as they apply to the collection and recovery of duty and penalty required to be paid under this Act.
+
+[23/2011 wef 01/04/2010]
+
+(18) The Minister may, by rules, make provision for the following:
+
+(a) to modify the provisions of this section in their application to a case where subsection (4)(b) or (c) applies, including deeming the dates of specified acquisitions of ordinary shares in the target company as falling within a specified financial year for the purposes of the application of subsections (7) and (8);
+
+[23/2011 wef 01/04/2010]
+
+(b) prescribing the conditions precedent and conditions subsequent for the purpose of claiming relief from duty on any instrument under this section;
+
+[23/2011 wef 01/04/2010]
+
+(c) to provide for the disallowance of relief under this section, where the acquiring company or the acquiring subsidiary, as the case may be, divests of any of the ordinary shares it holds in the target company;
+
+(d) to provide for the application of this section to a business trust registered under the Business Trusts Act (Cap. 31A) as it applies to a Singapore company, with such modifications as may be prescribed;
+
+(e) prescribing such matters as are required or authorised to be prescribed under this section; and
+
+(f) generally for giving full effect to or for carrying out the purposes of this section.
+
+(19) In this section —
+
+“financial year”, in relation to a company, means the period in respect of which any profit and loss account of the company laid before it in general meeting is made up, whether that period is a year or not;
+
+“group of companies” means 2 or more companies each of which is either a holding company or subsidiary of the other or any of the others;
+
+“holding company” and “subsidiary” have the same meanings as in section 5 of the Companies Act (Cap. 50);
+
+“Singapore company” means a company which is incorporated in Singapore and resident in Singapore within the meaning of section 2(1) of the Income Tax Act (Cap. 134).
+
+(20) In this section, the date of an acquisition of ordinary shares in a target company is —
+
+(a) the date on which the agreement for sale of those shares is entered into by the acquiring company or the acquiring subsidiary, as the case may be; or
+
+(b) in the absence of an agreement referred to in paragraph (a), the date of the transfer of those shares in the target company to the acquiring company or acquiring subsidiary, as the case may be.
+
+[28/2010 wef 01/04/2010]
+
+[23/2011 wef 01/04/2010]
 
 ### Voluntary conveyance inter vivos
 
@@ -1566,7 +1760,13 @@ the Commissioner shall certify by issuing and attaching to the instrument a cert
 
 [33/99]
 
-(2) When the instrument is in the opinion of the Commissioner not chargeable with duty , the Commissioner shall certify in the manner mentioned in subsection (1) that the instrument is not so chargeable.
+(2) Subject to subsection (2A), when the instrument is in the opinion of the Commissioner not chargeable with duty or with full duty, the Commissioner shall certify in the manner mentioned in subsection (1) that the instrument is not so chargeable.
+
+[28/2010 wef 01/04/2010]
+
+(2A) Where the instrument is one referred to in section 15A(1), the Commissioner may base his opinion on a statutory declaration in such form as he may direct, made by or on behalf of the target company, the acquiring company or the acquiring subsidiary, or all of them, referred to in that provision, and such further evidence as he considers necessary.
+
+[28/2010 wef 01/04/2010]
 
 (3) Any instrument in respect of and to which a certificate of adjudication has been issued and attached under this section shall be deemed to be duly stamped or not chargeable with duty, as the case may be; and, if chargeable with duty, shall be receivable in evidence or otherwise and may be acted upon and registered as if it had been originally duly stamped.
 
@@ -2939,6 +3139,16 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 15/2010 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 February 2010|
+|47.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 24/2010 published on 16 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 April 2010|
+|48.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 15/2011 published on 18 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 April 2010|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
