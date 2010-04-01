@@ -40,6 +40,8 @@
 
 - [10B Appointment of warrant officers](#Appointment-of-warrant-officers)
 
+- [10C Appointment of senior military experts](#Appointment-of-senior-military-experts)
+
 [**Part III MILITARY OFFENCES**](#Part-III)
 
 - [11 Misconduct in action](#Misconduct-in-action)
@@ -98,7 +100,7 @@
 
 - [38 Further offences in relation to ship, vessel or aircraft taken as prize](#Further-offences-in-relation-to-ship-vessel-or-aircraft-taken-as-prize)
 
-- [39 Offences in relation to an officer in a ship convoying and protecting a vessel](#Offences-in-relation-to-an-officer-in-a-ship-convoying-and-protecting-a-vessel)
+- [39 Offences by officer, etc., serving in ship involved in convoying and protection of vessel](#Offences-by-officer-etc-serving-in-ship-involved-in-convoying-and-protection-of-vessel)
 
 - [40 Disobeying lawful command of captain of ship](#Disobeying-lawful-command-of-captain-of-ship)
 
@@ -246,7 +248,7 @@
 
 - [105 Publications and photographs](#Publications-and-photographs)
 
-- [106 Investigation materials before a field military court](#Investigation-materials-before-a-field-military-court)
+- [106 Investigation materials before a field general court martial](#Investigation-materials-before-a-field-general-court-martial)
 
 - [107 Independence of subordinate military courts](#Independence-of-subordinate-military-courts)
 
@@ -384,7 +386,7 @@
 
 - [163 Search of place where person sought to be arrested has entered](#Search-of-place-where-person-sought-to-be-arrested-has-entered)
 
-- [164 Powers of officers](#Powers-of-officers)
+- [164 Powers of officers and senior military experts](#Powers-of-officers-and-senior-military-experts)
 
 - [165 Powers of servicemen](#Powers-of-servicemen)
 
@@ -530,6 +532,8 @@
 
 - [205C Administration of SAVER-Premium Fund](#Administration-of-SAVER-Premium-Fund)
 
+- [205D Military domain experts service](#Military-domain-experts-service)
+
 - [206 Pension Fund](#Pension-Fund)
 
 - [206A Pension, etc., not of right](#Pension-etc-not-of-right)
@@ -592,11 +596,11 @@ PRELIMINARY
 
 “civil prison” means a prison declared as such under section 3 of the Prisons Act (Cap. 247);
 
-“commander”, in relation to any person subject to military law, means an officer of or above the rank of captain for the time being commanding a unit or units or part of a unit of the Singapore Armed Forces;
+“commander”, in relation to any person subject to military law, means an officer of or above the rank of captain or a senior military expert for the time being commanding a unit or units or part of a unit of the Singapore Armed Forces;
 
 “convening authority” means —
 
-(a) in the case of a general court martial, the officer of or above the rank of major appointed by the Armed Forces Council for the purpose of being the convening authority for general courts martial; or
+(a) in the case of a general court martial, the officer of or above the rank of major, or the senior military expert of or above the rank of ME5, appointed by the Armed Forces Council for the purpose of being the convening authority for general courts martial; or
 
 (b) in the case of a field general court martial, a convening officer;
 
@@ -628,6 +632,10 @@ PRELIMINARY
 
 “military documents” includes reports, certificates, returns, pay lists, forms and any other documents in use in the Singapore Armed Forces;
 
+“military expert” means a serviceman in the military domain experts service;
+
+[28/2009 wef 01/04/2010]
+
 “military offence” means an offence punishable under this Act;
 
 “military policeman” means a serviceman appointed to be a military policeman;
@@ -654,11 +662,17 @@ PRELIMINARY
 
 “regular serviceman” has the same meaning as in the Enlistment Act;
 
+“senior military expert” means a military expert of or above the rank of ME4;
+
+[28/2009 wef 01/04/2010]
+
 “sentence” means a punishment imposed on a convicted person;
 
 “Service Chief” means the Chief of Air Force, the Chief of Army or the Chief of Navy;
 
-“serviceman” means an officer or a soldier of the Singapore Armed Forces and includes a servicewoman;
+“serviceman” means an officer, a soldier, a military expert or a non-uniformed serviceman of the Singapore Armed Forces, and includes a servicewoman;
+
+[28/2009 wef 01/04/2010]
 
 “sickness” includes permanent or temporary illness, disability or injury;
 
@@ -666,7 +680,9 @@ PRELIMINARY
 
 “Singapore Armed Forces property” includes property in the possession, control or occupancy of the Singapore Armed Forces;
 
-“soldier” means any person, other than an officer, who is a member of the Singapore Armed Forces and includes a servicewoman;
+“soldier” means any person, other than an officer, a senior military expert or a non-uniformed serviceman, who is a member of the Singapore Armed Forces, and includes any such person who is a servicewoman;
+
+[28/2009 wef 01/04/2010]
 
 “subordinate military courts” means general courts martial and field general courts martial from the decisions of which by reason of this Act there is a right of appeal to the Military Court of Appeal;
 
@@ -688,7 +704,7 @@ PRELIMINARY
 
 (c) all references to “Singapore armed forces” “Singapore Army”, “Singapore forces” and “the army, navy or air force of Singapore” shall be construed as references to the Singapore Armed Forces constituted under this Act;
 
-(d) all references to “an officer” orto “a person holding a commission in the armed forces” shall be construed as references to an officer under this Act; and
+(d) all references to “a person holding a commission in the armed forces” shall be construed as references to an officer under this Act; and
 
 (e) all references to “a soldier, enlisted personnel, sailor, seaman, rating or airman” shall be construed as references to a serviceman under this Act.
 
@@ -746,7 +762,9 @@ notwithstanding that he has been discharged or released from the Singapore Armed
 
 (4) For the purposes of subsections (2) and (3), a person shall —
 
-(a) where he was a regular serviceman, be regarded as having the rank that he held on the day of his discharge or release as a regular serviceman;
+(a) subject to paragraph (c), where he was a regular serviceman, be regarded as having the rank or service grade that he held on the day of his discharge or release as a regular serviceman;
+
+[28/2009 wef 01/04/2010]
 
 (b) where he was a full-time national serviceman or an operationally ready national serviceman, be regarded as having the rank that he held on the day of his release as a full-time national serviceman or as an operationally ready national serviceman, if he is no more liable for full-time service or operationally ready national service, as the case may be, under the Enlistment Act (Cap. 93); or
 
@@ -754,9 +772,9 @@ notwithstanding that he has been discharged or released from the Singapore Armed
 
 [20/94]
 
-(5) For the purposes of this section, the Minister may, by order1published in theGazette,prescribe the offences under the Emergency (Essential Powers) Act (Cap. 90), for which a person, who commits any of those offences, may be tried and punished under this Act.
+(5) For the purposes of this section, the Minister may, by order\*published in theGazette,prescribe the offences under the Emergency (Essential Powers) Act (Cap. 90), for which a person, who commits any of those offences, may be tried and punished under this Act.
 
-1G.N. No. S 96/78
+\*G.N. No. S 96/78.
 
 ### Jurisdiction of civil courts
 
@@ -938,6 +956,18 @@ ORGANISATION OF SINGAPORE ARMED FORCES
 
 [1/91]
 
+### Appointment of senior military experts
+
+10C\.—(1) Senior military experts of the Singapore Armed Forces shall be appointed by the President or by the proper authority who or which may, without assigning any reason, cancel any such appointment.
+
+(2) An appointment made under subsection (1) shall be in the prescribed form.
+
+(3) Senior military experts appointed under subsection (1) shall be deemed to be senior military experts of the Singapore Armed Forces from the date specified in their appointments.
+
+(4) Senior military experts may from time to time be promoted or advanced in rank by the proper authority.
+
+[28/2009 wef 01/04/2010]
+
 ## PART III
 
 MILITARY OFFENCES
@@ -954,11 +984,13 @@ shall be guilty of an offence.
 
 (2) Every person subject to military law shall be guilty of an offence under this section if, being in the presence or vicinity of the enemy, or being engaged in any action or operation against the enemy or under orders to be prepared for any action or operation by or against the enemy, he —
 
-(a) fails to use his utmost exertions to carry the lawful orders of his superior officers into execution;
+(a) fails to use his utmost exertions to carry the lawful orders of his superiors (being officers or senior military experts) into execution;
 
 (b) while on guard duty and posted or ordered to patrol, or while on watch, sleeps or, without having been regularly relieved, leaves any place where it is his duty to be; or
 
 (c) behaves in such a manner as to show cowardice, or induces any other person so to behave at a time when that other person, being a member of the Singapore Armed Forces or of any force co-operating therewith is in the presence or vicinity of the enemy, or is engaged in any action or operation against the enemy or under orders to be prepared for any action or operation by or against the enemy.
+
+[28/2009 wef 01/04/2010]
 
 (3) Every person guilty of an offence under this section shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
 
@@ -1202,9 +1234,9 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any less punishment authorised by this Act.
 
-### Offences in relation to an officer in a ship convoying and protecting a vessel
+### Offences by officer, etc., serving in ship involved in convoying and protection of vessel
 
-39\. Every officer or warrant officer who while serving in a ship of the Singapore Armed Forces involved in the convoying and protection of a vessel —
+39\. Every officer, warrant officer or military expert of or above the rank of ME3 who while serving in a ship of the Singapore Armed Forces involved in the convoying and protection of a vessel —
 
 (a) fails to defend a vessel or goods in his convoy;
 
@@ -1215,6 +1247,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 shall be guilty of an offence and shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 ### Disobeying lawful command of captain of ship
 
@@ -1412,9 +1446,13 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 “formation” means a brigade or its equivalent in the navy and air force or any equivalent body of servicemen;
 
-“junior disciplinary officer” means, except where otherwise expressly provided, an officer or a warrant officer commanding a squadron, battery, company or equivalent sub-unit or any other officer in whom a senior disciplinary officer has vested the powers of a junior disciplinary officer for the purposes of discipline;
+“junior disciplinary officer” means, except where otherwise expressly provided, any officer, warrant officer or military expert of or above the rank of ME3 —
 
-“private” includes an officer cadet for the purposes of this Act;
+(a) who is in command of a squadron, battery or company or an equivalent sub-unit; or
+
+(b) in whom a senior disciplinary officer has vested the powers of a junior disciplinary officer for the purposes of discipline;
+
+[28/2009 wef 01/04/2010]
 
 “reversion in rank” means reverting a soldier from a temporary rank to the next substantive rank;
 
@@ -1422,19 +1460,23 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 “senior disciplinary officer” means —
 
-(a) an officer in command of a base or unit;
+(a) any officer, warrant officer or senior military expert who is —
 
-(b) a detachment commander; or
+(i) in command of a base or unit; or
 
-(c) any other officer designated as a senior disciplinary officer for the purposes of discipline by the Armed Forces Council;
+(ii) designated by the Armed Forces Council as a senior disciplinary officer for the purposes of discipline; or
 
-“superior commander” means
+(b) a commander of a detachment;
 
-(a) an officer commanding a command;
+[28/2009 wef 01/04/2010]
 
-(b) an officer commanding a formation; and
+“superior commander” means any officer or senior military expert who is —
 
-(c) any officer designated as a superior commander for the purpose of discipline by the Armed Forces Council;
+(a) in command of a command or formation; or
+
+(b) designated by the Armed Forces Council as a superior commander for the purposes of discipline;
+
+[28/2009 wef 01/04/2010]
 
 “unit” means a battalion or its equivalent in the navy and air force or any equivalent body of servicemen.
 
@@ -1450,19 +1492,25 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 62\.—(1) Before an allegation against any person subject to military law (referred to in this Act as the accused) that he has committed an offence under this Act is further proceeded with, the allegation shall be reported in the form of a charge to a disciplinary officer and dealt with in accordance with the provisions of this Part.
 
-(2) If the accused is an officer of the rank of colonel, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before the Chief of Defence Force.
+(2) If the accused is an officer of the rank of colonel, or a senior military expert of the rank of ME7, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before the Chief of Defence Force.
 
 [1/94; 10/2000]
 
-(2A) If the accused is an officer of the rank of lieutenant-colonel , the charge shall, within such time as may be specified in any regulations made under this Act, be brought before any Service Chief.
+(2A) If the accused is an officer of the rank of lieutenant-colonel or senior lieutenant-colonel, or a senior military expert of the rank of ME6, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before any Service Chief.
 
 [10/2000]
 
-(3) If the accused is an officer below the rank of lieutenant-colonel, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before a superior commander at least 2 ranks above him.
+(3) If the accused is an officer below the rank of lieutenant-colonel, or a senior military expert below the rank of ME6, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before a superior commander at least 2 ranks above him.
 
-(4) If the accused is a warrant officer the charge shall within such time as may be specified in any regulations made under this Act be brought before a superior commander.
+[28/2009 wef 01/04/2010]
 
-(5) If the accused is a soldier below the rank of warrant officer the charge shall, within such time as may be specified in any regulations made under this Act, be brought before a junior disciplinary officer.
+(4) If the accused is a warrant officer or a military expert of the rank of ME3, the charge shall within such time as may be specified in any regulations made under this Act be brought before a superior commander.
+
+[28/2009 wef 01/04/2010]
+
+(5) If the accused is a soldier below the rank of warrant officer or ME3, the charge shall, within such time as may be specified in any regulations made under this Act, be brought before a junior disciplinary officer.
+
+[28/2009 wef 01/04/2010]
 
 (6) A disciplinary officer other than a Service Chief or the Chief of Defence Force may try an accused only when —
 
@@ -1576,13 +1624,13 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 ### Powers of punishment of junior disciplinary officer
 
-68\. A junior disciplinary officer may, upon conviction of an accused below the rank of warrant officer , impose any one of the following punishments:
+68\. A junior disciplinary officer may, upon conviction of an accused below the rank of warrant officer or ME3, impose any one of the following punishments:
 
-(a) in the case of privates and recruits detention for a period not exceeding 10 days;
+(a) in the case of servicemen holding trainee ranks which are equivalent to the rank of private, privates and recruits detention for a period not exceeding 10 days;
 
 (b) a fine not exceeding —
 
-(i) in the case of soldiers above the rank of third sergeant , a sum of $1,000; and
+(i) in the case of soldiers above the rank of third sergeant (including military experts), a sum of $1,000; and
 
 (ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $300;
 
@@ -1592,9 +1640,13 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 [1/91; 1/94]
 
+[6/2006 wef 21/02/2006]
+
+[28/2009 wef 01/04/2010]
+
 ### Powers of punishment of senior disciplinary officer
 
-69\.—(1) A senior disciplinary officer may, upon conviction of an accused below the rank of warrant officer , impose any one of the following punishments:
+69\.—(1) A senior disciplinary officer may, upon conviction of an accused below the rank of warrant officer or ME3, impose any one of the following punishments:
 
 (a) detention for a period not exceeding 40 days;
 
@@ -1604,7 +1656,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 (d) a fine not exceeding —
 
-(i) in the case of soldiers above the rank of third sergeant , a sum of $1,500; and
+(i) in the case of soldiers above the rank of third sergeant (including military experts), a sum of $1,500; and
 
 (ii) in the case of soldiers of the rank of third sergeant and below, a sum not exceeding $500;
 
@@ -1614,29 +1666,37 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 [1/91; 1/94]
 
+[6/2006 wef 21/02/2006]
+
+[28/2009 wef 01/04/2010]
+
 (2) In addition to or in lieu of any other punishment, the senior disciplinary officer may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
 ### Powers of punishment of superior commander
 
-70\.—(1) A superior commander may upon conviction of an accused who is an officer below the rank of lieutenant-colonelor a warrant officer impose any one of the following punishments:
+70\.—(1) A superior commander may upon conviction of an accused who is an officer below the rank of lieutenant-colonel, a warrant officer or a military expert of the rank of ME3, ME4 or ME5 impose any one of the following punishments:
 
 (a) forfeiture of seniority of rank and forfeiture of all or any part of his service for purposes of promotion;
 
 (b) a fine not exceeding —
 
-(i) in the case of officers who are of the rank of captain or major, a sum of $3,000; and
+(i) in the case of officers who are of the rank of captain or major, or senior military experts who are of the rank of ME4 or ME5, a sum of $3,000; and
 
-(ii) in the case of officers below the rank of captainand of warrant officers, a sum of $2,000; or
+(ii) in the case of officers below the rank of captain, warrant officers and military experts of the rank of ME3, a sum of $2,000; or
 
 (c) reprimand.
 
 [1/91; 1/94]
 
+[6/2006 wef 21/02/2006]
+
+[28/2009 wef 01/04/2010]
+
 (2) In addition to or in lieu of any other punishment, the superior commander may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
 ### Powers of punishment of Service Chief
 
-70A\.—(1) A Service Chief may, upon the conviction of an accused of the rank of lieutenant-colonel, impose any one or all of the following punishments:
+70A\.—(1) A Service Chief may, upon the conviction of an accused of the rank of lieutenant-colonel, senior lieutenant-colonel or ME6, impose any one or all of the following punishments:
 
 (a) forfeiture of seniority of rank and forfeiture of all or any part of service for the purposes of promotion;
 
@@ -1645,6 +1705,10 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 (c) reprimand.
 
 [10/2000]
+
+[6/2006 wef 21/02/2006]
+
+[28/2009 wef 01/04/2010]
 
 (2) In addition to or in lieu of any other punishment, a Service Chief may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
@@ -1652,7 +1716,7 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 ### Powers of punishment of Chief of Defence Force
 
-70B\.—(1) The Chief of Defence Force may, upon the conviction of an accused of the rank of lieutenant-colonelor colonel, impose any one or all of the following punishments:
+70B\.—(1) The Chief of Defence Force may, upon the conviction of an accused of the rank of lieutenant-colonel, senior lieutenant-colonel, colonel, ME6 or ME7, impose any one or all of the following punishments:
 
 (a) forfeiture of seniority of rank and forfeiture of all or any part of service for the purposes of promotion;
 
@@ -1661,6 +1725,10 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 (c) reprimand.
 
 [10/2000]
+
+[6/2006 wef 21/02/2006]
+
+[28/2009 wef 01/04/2010]
 
 (2) In addition to or in lieu of any other punishment, the Chief of Defence Force may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
@@ -1688,19 +1756,25 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 ### Power of Senior Disciplinary Committee
 
-72\.—(1) A charge against an officer of or above the rank of brigadier-general may be dealt with summarily by a Senior Disciplinary Committee appointed by the Chairman of the Armed Forces Council for that purpose.
+72\.—(1) A charge against an officer of or above the rank of brigadier-general or rear admiral (one-star), or a senior military expert of the rank of ME8, may be dealt with summarily by a Senior Disciplinary Committee appointed by the Chairman of the Armed Forces Council for that purpose.
 
 [1/94; 10/2000]
 
-(2) Notwithstanding subsection (1), a Senior Disciplinary Committee shall have the power to deal with a charge against an officer of the rank of colonel in any case referred to it by the Armed Forces Council under section 75(4)(a)(ii).
+[28/2009 wef 01/04/2010]
+
+(2) Notwithstanding subsection (1), a Senior Disciplinary Committee shall have the power to deal with a charge against an officer of the rank of colonel, or a senior military expert of the rank of ME7, in any case referred to it by the Armed Forces Council under section 75(4)(a)(ii).
 
 [1/94; 10/2000]
+
+[28/2009 wef 01/04/2010]
 
 (3) The Senior Disciplinary Committee shall consist of not less than 3 members of the Armed Forces Council or any other uneven number, the majority of whom shall be members of the Singapore Armed Forces.
 
 [1/94]
 
-(4) The members of the Senior Disciplinary Committee shall be of or above the rank of the accused or shall each be holding an appointment of or above that held by the accused.
+(4) The members of the Senior Disciplinary Committee shall be equivalent or superior in rank to the accused or shall each be holding an appointment equivalent or superior to that held by the accused.
+
+[28/2009 wef 01/04/2010]
 
 (4A) The seniority of such appointments shall be determined by the Chairman of the Armed Forces Council.
 
@@ -1720,13 +1794,15 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 [1/94]
 
+[6/2006 wef 21/02/2006]
+
 (6) In addition to or in lieu of any other punishment, the Senior Disciplinary Committee may order that the accused shall suffer any deduction from his ordinary pay authorised by this Act.
 
 [1/94]
 
 (7) Where the Senior Disciplinary Committee considers under this section that the accused should be tried by a subordinate military court, the Committee shall refer the charge to the Director, Legal Services of the Singapore Armed Forces.
 
-[1/94
+[1/94]
 
 (8) Where the Senior Disciplinary Committee has proceeded to deal with a case summarily under this section and is satisfied on the evidence as to the guilt of the accused, the Committee shall, before proceeding to conviction and punishment other than a reprimand, afford the accused an opportunity of electing to be tried by a subordinate military court.
 
@@ -1768,9 +1844,11 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (a) in relation to any finding, sentence, order of dismissal of a charge or award of compensation of a Service Chief or the Chief of Defence Force, by the Armed Forces Council, except that where the person for the time being holding the appointment of a Service Chief or the Chief of Defence Force is the person who made the finding, sentence, order or award, he shall not sit as a member of the Armed Forces Council for the purposes of this paragraph; and
 
-(b) in any other case, by an officer appointed by the Armed Forces Council.
+(b) in any other case, by an officer or a senior military expert appointed by the Armed Forces Council.
 
 [1/94; 10/2000]
+
+[28/2009 wef 01/04/2010]
 
 (4) Where the Armed Forces Council has in any case quashed the finding, sentence, order of dismissal of a charge or award of compensation of a disciplinary officer under subsection (1)(a), the Council may —
 
@@ -1822,7 +1900,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 [1/91; 20/94]
 
-(2) Notwithstanding subsection (1), the Armed Forces Council or any officer or person authorised by the Council may by order in writing direct a person to be tried after the expiry of the period of 6 months or 3 years referred to in subsection (1) where the circumstances of the case warrant such a summary trial.
+(2) Notwithstanding subsection (1), the Armed Forces Council or any officer, senior military expert or person authorised by the Council may by order in writing direct a person to be tried after the expiry of the period of 6 months or 3 years referred to in subsection (1) where the circumstances of the case warrant such a summary trial.
+
+[28/2009 wef 01/04/2010]
 
 (3) No person shall be tried after the expiry of any time limit specified in section 111 for the trial of any offence referred to in that section.
 
@@ -1848,7 +1928,9 @@ and in this Act when these courts are collectively referred to they are called s
 
 ### General courts martial panel
 
-80A\.—(1) For the purpose of enabling general courts martial to be constituted in accordance with this Part, the convening authority shall appoint a panel (referred to in this Act as the general courts martial panel) consisting of such number of officers and non-uniformed servicemen in officer grades as the convening authority shall determine.
+80A\.—(1) For the purpose of enabling general courts martial to be constituted in accordance with this Part, the convening authority shall appoint a panel (referred to in this Act as the general courts martial panel) consisting of such number of officers, senior military experts and non-uniformed servicemen in officer grades as the convening authority shall determine.
+
+[28/2009 wef 01/04/2010]
 
 (2) A member of the general courts martial panel shall be appointed for such term as the convening authority may determine.
 
@@ -1870,23 +1952,35 @@ and in this Act when these courts are collectively referred to they are called s
 
 (b) subject to subsection (7), from the members of the general courts martial panel.
 
-(3) A judge court martial shall consist of a president, who shall be a qualified person and, subject to subsection (6)(a), an officer of or above the rank of major .
+(3) A judge court martial shall consist of a president, who shall be a qualified person and, subject to subsection (6)(a), an officer of or above the rank of major or a senior military expert of or above the rank of ME5.
+
+[28/2009 wef 01/04/2010]
 
 (4) A panel court martial shall consist of the following members:
 
-(a) a president who, subject to subsections (6)(b) and (7), shall be an officer of or above the rank of major ; and
+(a) a president who, subject to subsections (6)(b) and (7), shall be an officer of or above the rank of major or a senior military expert of or above the rank of ME5; and
 
-(b) subject to subsections (5) and (6)(c), 2 or any greater even number of other members who shall be officers and at least one of whom shall be of or above the rank of captain.
+(b) subject to subsections (5) and (6)(c), 2 or any greater even number of other members —
 
-(5) Where a panel court martial is constituted for the trial of a non-uniformed serviceman, the members referred to in subsection (4)(b) may include, in place of the corresponding number of officers , not more than 2 non-uniformed servicemen in officer grades.
+(i) each of whom shall be an officer or a senior military expert; and
 
-(6) Where the accused is of or above the rank of lieutenant-colonel —
+(ii) at least one of whom shall be an officer of or above the rank of captain or a senior military expert.
 
-(a) the president of any judge court martial constituted for the trial of the accused shall be an officerof or above the rank of the accused;
+[28/2009 wef 01/04/2010]
 
-(b) subject to subsection (7), the president of any panel court martial constituted for the trial of the accused shall be an officerof or above the rank of the accused; and
+(5) Where a panel court martial is constituted for the trial of a non-uniformed serviceman, the members referred to in subsection (4)(b) may include, in place of the corresponding number of officers or senior military experts, not more than 2 non-uniformed servicemen in officer grades.
 
-(c) if a panel court martial is constituted for the trial of the accused, at least 2 of the members under subsection (4)(b) shall be of or above the rank of lieutenant-colonel .
+[28/2009 wef 01/04/2010]
+
+(6) Where the accused is of or above the rank of lieutenant-colonel or ME6 —
+
+(a) the president of any judge court martial constituted for the trial of the accused shall be an officer, or a senior military expert, who is equivalent or superior in rank to the accused;
+
+(b) subject to subsection (7), the president of any panel court martial constituted for the trial of the accused shall be an officer, or a senior military expert, who is equivalent or superior in rank to the accused; and
+
+(c) if a panel court martial is constituted for the trial of the accused, at least 2 of the members under subsection (4)(b) shall be of or above the rank of lieutenant-colonel or ME6.
+
+[28/2009 wef 01/04/2010]
 
 (7) Where the accused is charged with —
 
@@ -1938,7 +2032,9 @@ shall be decided by a panel court martial in accordance with the opinion of the 
 
 82\.—(1) The Armed Forces Council may appoint a suitable person to perform in respect of the Singapore Armed Forces the functions of a Judge Advocate-General and any reference under any written law to the Judge Advocate-General shall be deemed to be references to the person appointed under this subsection.
 
-(2) The person appointed under subsection (1) shall be either a member of the judicial and legal service of not less than 5 years service or an advocate and solicitor of the Supreme Court of not less than 5 years’ standing.
+(2) The person appointed under subsection (1) shall be either an officer in the Singapore Legal Service of not less than 5 years service or an advocate and solicitor of the Supreme Court of not less than 5 years’ standing.
+
+[28/2009 wef 01/04/2010]
 
 (3) Rules of procedure may make provision as to the functions to be exercised by the Judge Advocate-General and, in particular, his functions shall include advising the Armed Forces Council on the validity of the findings and sentences of subordinate military courts and on any other matters which may from time to time be referred to him by the Armed Forces Council or the Director, Legal Services of the Singapore Armed Forces.
 
@@ -1960,11 +2056,21 @@ shall be decided by a panel court martial in accordance with the opinion of the 
 
 83\.—(1) Where an offence punishable under this Act has been committed by any person subject to military law who belongs to a unit or part of a unit of the Singapore Armed Forces which is, at the time of the commission of the offence, engaged on active service it shall be lawful for a commander (referred to in this Act as the convening officer), if it is not practicable for a general court martial to try the accused, to convene a field general court martial.
 
+[17/2004 wef 31/12/2004]
+
 (2) Every field general court martial may try any person subject to military law for any offence under this Act and may award for such offence any punishment that a general court martial is competent to award for such offence.
 
-(3) Every field general court martial shall consist of not less than 3 members who shall be officers or any other uneven number of members and the member who is most senior in rank shall preside.
+(3) Every field general court martial shall consist of 3 or any greater uneven number of members (each of whom shall be an officer or a senior military expert), and the member who is most senior in rank shall preside.
 
-(4) The convening officer may preside over a field general court martial but shall, whenever it is practicable, appoint another officer as president of the court who shall not be below the rank of captain.
+[28/2009 wef 01/04/2010]
+
+(4) The convening officer may preside over a field general court martial, but shall, whenever it is practicable, appoint as president of the field general court martial another person, who shall be —
+
+(a) an officer of or above the rank of captain; or
+
+(b) a senior military expert.
+
+[28/2009 wef 01/04/2010]
 
 (5) Whenever it is practicable, the rank of each member of the field general court martial shall be of a rank above that of the accused.
 
@@ -2074,9 +2180,11 @@ whether appointed to serve on the court originally or to fill a vacancy, so that
 
 (a) in the case of a panel court martial, a member of the general courts martial panel who is eligible for the appointment, and who is designated by the convening authority to fill the vacancy; or
 
-(b) in the case of a field general court martial, an officer who is eligible for the appointment, and who is appointed by the convening officer to fill the vacancy,
+(b) in the case of a field general court martial, an officer or a senior military expert who is eligible for the appointment, and who is appointed by the convening officer to fill the vacancy,
 
 subject to the same right of the accused to object.
+
+[28/2009 wef 01/04/2010]
 
 (4) In the case of a judge court martial, if an accused objects to the president, the president shall determine whether there is any reasonable cause for the objection, and —
 
@@ -2118,15 +2226,17 @@ subject to the same right of the accused to object.
 
 (b) in the case of a panel court martial, the court shall adjourn, and the convening authority shall designate another member of the general courts martial panel who is eligible for the appointment to fill the vacancy; or
 
-(c) in the case of a field general court martial, the court shall adjourn, and the convening officer shall appoint another officer who is eligible for the appointment to fill the vacancy.
+(c) in the case of a field general court martial, the court shall adjourn, and the convening officer shall appoint another person (being an officer or a senior military expert) who is eligible for the appointment to fill the vacancy.
+
+[28/2009 wef 01/04/2010]
 
 (2) If, after the commencement of a trial, any member of a panel court martial, other than the president, dies or is otherwise unable to attend, the court shall adjourn, and the convening authority shall designate another member of the general courts martial panel who is eligible for the appointment to fill the vacancy.
 
-(3) If, after the commencement of a trial, any member of a field general court martial, other than the president, dies or is otherwise unable to attend, the court shall adjourn, and the convening officer shall appoint another officer who is eligible for the appointment to fill the vacancy.
+(3) If, after the commencement of a trial, any member of a field general court martial, other than the president, dies or is otherwise unable to attend, the court shall adjourn, and the convening officer shall appoint another person (being an officer or a senior military expert) who is eligible for the appointment to fill the vacancy.
 
 (4) If, on account of the illness of the accused before the finding, it is impossible to continue the trial, a subordinate military court shall be dissolved.
 
-(5) Where a subordinate military court is dissolved under subsection (l) (a) or (4), the accused may be tried again by another subordinate military court.
+(5) Where a subordinate military court is dissolved under subsection (l)(a) or (4), the accused may be tried again by another subordinate military court.
 
 (6) A subordinate military court may adjourn from time to time.
 
@@ -2150,9 +2260,11 @@ subject to the same right of the accused to object.
 
 (6) An accused charged before a subordinate military court with desertion may be found guilty of being absent without leave.
 
-(7) An accused charged before a subordinate military court with striking an officer superior in rank or appointment may be found guilty of using or offering violence to his superior officer.
+(7) An accused charged before a subordinate military court with striking a person superior in rank or appointment may be found guilty of using or offering violence to a person superior in rank or appointment.
 
 [20/94]
+
+[28/2009 wef 01/04/2010]
 
 (8) An accused charged before a subordinate military court with using violence may be found guilty of offering violence.
 
@@ -2238,7 +2350,7 @@ subject to the same right of the accused to object.
 
 ### Military documents as evidence
 
-98\.—(1) Any document, purporting to be signed by an officer or a warrant officer in the course of his duty and containing particulars regarding the matters enumerated below, shall be prima facie evidence of such particulars —
+98\.—(1) Any document, purporting to be signed by an officer , a warrant officer or a military expert of or above the rank of ME3 in the course of his duty and containing particulars regarding the matters enumerated below, shall be prima facie evidence of such particulars —
 
 (a) service in the Singapore Armed Forces, including dates of enlistment and discharge;
 
@@ -2259,6 +2371,8 @@ subject to the same right of the accused to object.
 (i) the service of a summons or convening order.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 (2) A copy of general orders or of any official publication, document, certificate or form certified by the Armed Forces Council as general orders, official publication, document, certificate or form for the purpose of this section, shall be conclusive evidence of its contents.
 
@@ -2286,11 +2400,15 @@ the Armed Forces Council shall quash the finding of that offence made by the sub
 
 ### Transcript
 
-101\. Where a document has been prepared or certified by a person subject to military law in the course of his duty, a transcript thereof authenticated by him or by an officer shall have the effect of the original and shall be presumed correct.
+101\. Where a document has been prepared or certified by a person subject to military law in the course of his duty, a transcript thereof authenticated by him or by an officer or a senior military expert shall have the effect of the original and shall be presumed correct.
+
+[28/2009 wef 01/04/2010]
 
 ### Representation
 
-102\.—(1) Subject to any other provisions of this Act, an accused shall have the right to be represented in his defence before a subordinate military court by an advocate and solicitor, if provided by him, or by any officer in the Singapore Armed Forces.
+102\.—(1) Subject to any other provisions of this Act, an accused shall have the right to be represented in his defence before a subordinate military court by an advocate and solicitor, if provided by him, or by any officer or senior military expert in the Singapore Armed Forces.
+
+[28/2009 wef 01/04/2010]
 
 (2) Where an accused is not represented by a person in accordance with subsection (1) and —
 
@@ -2301,6 +2419,8 @@ the Armed Forces Council shall quash the finding of that offence made by the sub
 (c) is suspected of being mentally disordered,
 
 the president of the subordinate military court shall appoint a defence counsel to assist the accused in his defence.
+
+[21/2008 wef 01/03/2010]
 
 (3) Where the accused selects a person to represent him in a subordinate military court, that person shall be authorised to do so after submitting to the court a warrant to act signed by the accused.
 
@@ -2344,9 +2464,11 @@ order that all or any part of the proceedings before the court shall be dealt wi
 
 (3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction by a subordinate military court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Investigation materials before a field military court
+### Investigation materials before a field general court martial
 
-106\. The accused, his defence counsel or, with the consent of a military prosecutor, a person authorised by the accused or his defence counsel may, where a charge-sheet is submitted to a field military court, at any reasonable time inspect and take copies of the investigation materials excluding the investigation diary.
+106\. The accused, his defence counsel or, with the consent of a military prosecutor, a person authorised by the accused or his defence counsel may, where a charge-sheet is submitted to a field general court martial, at any reasonable time inspect and take copies of the investigation materials excluding the investigation diary.
+
+[28/2009 wef 01/04/2010]
 
 ### Independence of subordinate military courts
 
@@ -2500,9 +2622,11 @@ the president of the subordinate military court may certify the offence of that 
 
 ### Evidence of civil conviction or acquittal
 
-114\.—(1) Whenever any person subject to military law has been tried by any civil court, the registrar or clerk of the court or his deputy, or other officer having the custody of the records of that court, shall, if required by the commanding officer of such person, or by any other officer or warrant officer, transmit to him a certificate setting forth the offence for which the person was tried, together with the judgment or order of the court thereon, or if he was acquitted, the acquittal.
+114\.—(1) Whenever any person subject to military law has been tried by any civil court, the registrar or clerk of the court or his deputy, or other officer having the custody of the records of that court, shall, if required by the commanding officer of such person, or by any other serviceman (being an officer, a warrant officer or a military expert of or above the rank of ME3), transmit to him a certificate setting forth the offence for which the person was tried, together with the judgment or order of the court thereon, or if he was acquitted, the acquittal.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 (2) Any such certificate shall be sufficient evidence of the conviction and sentence or of the order of the court or of the acquittal of the prisoner, as the case may be.
 
@@ -2510,9 +2634,11 @@ the president of the subordinate military court may certify the offence of that 
 
 115\.—(1) The original proceedings of a subordinate military court purporting to be signed by the president of the court and being in the custody of an officer of the court or the registrar shall be deemed to be of such a public nature as to be admissible in evidence on their mere production from such custody.
 
-(2) Any copy of the original proceedings of a subordinate military court purporting to be certified by an officer, a warrant officer or the registrar to be a true copy of such proceedings or of any part thereof, shall be admissible in evidence without proof of the signature of the president of the court.
+(2) Any copy of the original proceedings of a subordinate military court purporting to be certified by an officer, a warrant officer, a military expert of or above the rank of ME3 or the registrar to be a true copy of such proceedings or of any part thereof, shall be admissible in evidence without proof of the signature of the president of the court.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 Review of findings and sentences of subordinate military courts
 
@@ -2588,7 +2714,19 @@ Punishments
 
 (f) detention for a term not exceeding 2 years;
 
-(g) reduction in rank except that an officer shall not be reduced below the rank of second lieutenant and a warrant officer shall not be reduced below the rank of second warrant officer;
+(g) reduction in rank, except that —
+
+(i) an officer shall not be reduced below the rank of second lieutenant;
+
+(ii) a warrant officer shall not be reduced below —
+
+(A) the rank of third warrant officer, if he was appointed as a warrant officer on or after the date of commencement of section 30(a) of the Singapore Armed Forces (Amendment) Act 2009; or
+
+(B) the rank of second warrant officer, if he was appointed as a warrant officer before that date; and
+
+(iii) a senior military expert shall not be reduced below the rank of ME4;
+
+[28/2009 wef 01/04/2010]
 
 (h) forfeiture of seniority of rank and forfeiture of all or any part of his service for purposes of promotion;
 
@@ -2608,13 +2746,17 @@ and references in this Act to any punishment provided by this Act are, subject t
 
 (3) A person sentenced to death by a subordinate military court shall also be sentenced to discharge with ignominy.
 
-(4) An officeror a warrant officer sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention shall also be sentenced to discharge with ignominy but, if the subordinate military court fails to give effect to this subsection, the sentence shall not be invalid but shall be deemed to include a sentence of discharge with ignominy from the Singapore Armed Forces.
+(4) An officer, a warrant officer or a military expert of or above the rank of ME3 who is sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention shall also be sentenced to discharge with ignominy but, if the subordinate military court fails to give effect to this subsection, the sentence shall not be invalid but shall be deemed to include a sentence of discharge with ignominy from the Singapore Armed Forces.
 
 [20/75; 1/94]
 
-(4A) A soldier other than a warrant officer sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention may also be sentenced to discharge with ignominy.
+[28/2009 wef 01/04/2010]
+
+(4A) A soldier (other than a warrant officer or a military expert of the rank of ME3) or a non-uniformed serviceman who is sentenced by a subordinate military court to imprisonment or special detention in a disciplinary barrack or detention may also be sentenced to discharge with ignominy.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 (5) A discharge with ignominy under this section shall not affect the liability of any person to perform national service under the Enlistment Act (Cap. 93).
 
@@ -2622,13 +2764,17 @@ and references in this Act to any punishment provided by this Act are, subject t
 
 (6) Subject to section 112(1), the amount of a fine that may be awarded shall not exceed —
 
-(a) in the case of officers , a sum of $10,000; and
+(a) in the case of officers and senior military experts, a sum of $10,000; and
 
-(b) in the case of soldiers , a sum of $5,000,
+(b) in the case of soldiers and non-uniformed servicemen, a sum of $5,000,
 
 and any such fine may, if the court orders, be paid by instalment to be deducted from the offender’s pay.
 
 [17/78; 1/91]
+
+[6/2006 wef 21/02/2006]
+
+[28/2009 wef 01/04/2010]
 
 (7) The Armed Forces Council may restore the whole or any part of any lost seniority or forfeited service in the case of a person subject to military law who has performed good and faithful service, or who may otherwise be deemed by the Armed Forces Council to merit such restoration.
 
@@ -2662,11 +2808,15 @@ and any such fine may, if the court orders, be paid by instalment to be deducted
 
 ### Punishment for aggravated disciplinary barrack offences
 
-119\.—(1) Subject to subsection (2), a person serving a sentence of special detention in a disciplinary barrack who is found after due inquiry to be guilty of an aggravated disciplinary barrack offence may be punished by the officer in charge of a disciplinary barrack with caning not exceeding 12 strokes
+119\.—(1) Subject to subsection (2), a person serving a sentence of special detention in a disciplinary barrack who is found after due inquiry to be guilty of an aggravated disciplinary barrack offence may be punished by the officer or senior military expert in charge of a disciplinary barrack with caning not exceeding 12 strokes
 
 [20/75]
 
-(2) The officer in charge of a disciplinary barrack shall not award any caning without the approval of the Armed Forces Council.
+[28/2009 wef 01/04/2010]
+
+(2) The officer or senior military expert in charge of a disciplinary barrack shall not award any caning without the approval of the Armed Forces Council.
+
+[28/2009 wef 01/04/2010]
 
 (3) For the purposes of this section, an aggravated disciplinary barrack offence is —
 
@@ -2790,11 +2940,15 @@ General provisions
 
 (a) a president who shall be, or is a person qualified to be, a Judge of the Supreme Court appointed by the Chief Justice; and
 
-(b) 4 other members 2 of whom shall be qualified persons of at least 5 years standing and 2 of whom shall be officers of or above the rank of captain .
+(b) 4 other members 2 of whom shall be qualified persons of at least 5 years standing and 2 of whom shall be officers of or above the rank of captain or senior military experts.
 
 [20/75]
 
-(2) The 2 members of the Military Court of Appeal who are qualified persons shall be appointed by the Armed Forces Council from a panel of qualified persons and the 2 members who are officers shall be selected by the Armed Forces Council from a panel of officers .
+[28/2009 wef 01/04/2010]
+
+(2) The 2 members of the Military Court of Appeal who are qualified persons shall be appointed by the Armed Forces Council from a panel of qualified persons and the 2 members who are officers or senior military experts shall be selected by the Armed Forces Council from a panel of officers and senior military experts.
+
+[28/2009 wef 01/04/2010]
 
 (3) Notwithstanding subsections (1) and (2), where an appeal is made to the Military Court of Appeal in a case of murder or culpable homicide not amounting to murder or an offence under section 121 or 121A of the Penal Code (Cap. 224), the Court shall consist of a president and 2 other members all of whom shall be Judges of the Supreme Court appointed by the Chief Justice.
 
@@ -2918,7 +3072,9 @@ General provisions
 
 139\.—(1) The Armed Forces Council may, on the advice of the Chief Justice, remove the president of the Military Court of Appeal from office for misbehaviour or for inability, whether from infirmity of body or mind or any other cause, properly to discharge the functions of his office.
 
-(2) The Armed Forces Council may bar any officer from serving as a member of a Military Court of Appeal or a subordinate military court for misbehaviour or for inability, whether from infirmity of body or mind or from any other cause, properly to discharge the functions of the office.
+(2) The Armed Forces Council may bar any officer or senior military expert from serving as a member of a Military Court of Appeal or a subordinate military court for misbehaviour or for inability, whether from infirmity of body or mind or from any other cause, properly to discharge the functions of the office.
+
+[28/2009 wef 01/04/2010]
 
 ### Challenge by accused
 
@@ -3146,17 +3302,21 @@ Arrests
 
 (2) Where free entry to such place cannot be obtained under subsection (1), it shall be lawful for a person acting with a warrant of arrest or a military policeman acting without a warrant of arrest where such warrant is not immediately obtainable in order to effect an entrance into such place to break open any outer or inner door or window of any place whether that of the person to be arrested or of any other person if after notification of his authority and purpose and demand of admittance duly made he cannot otherwise obtain admittance.
 
-### Powers of officers
+### Powers of officers and senior military experts
 
-164\. An officer may, without a warrant of arrest, subject to regulations made under this Act, arrest —
+164\. An officer or a senior military expert may, without a warrant of arrest, subject to regulations made under this Act, arrest —
 
 (a) any serviceman of lower rank; and
 
-(b) any officer who is engaged in a quarrel, affray or disorder.
+(b) any officer or senior military expert who is engaged in a quarrel, affray or disorder.
+
+[28/2009 wef 01/04/2010]
 
 ### Powers of servicemen
 
-165\. A serviceman, other than an officer , may without a warrant of arrest, subject to regulations made under this Act, arrest any serviceman, other than an officer , of lower rank.
+165\. A serviceman, other than an officer or a senior military expert, may without a warrant of arrest, subject to regulations made under this Act, arrest any serviceman, other than an officer or a senior military expert, of lower rank.
+
+[28/2009 wef 01/04/2010]
 
 ### Powers of military policemen
 
@@ -3264,21 +3424,27 @@ Investigations
 
 177\. The following persons may, subject to section 178, serve as investigating officers:
 
-(a) any officeror warrant officer appointed in writing by a senior disciplinary officer or a superior commander to investigate a military offence; and
+(a) any officer, warrant officer or military expert of or above the rank of ME3 appointed in writing by a senior disciplinary officer or a superior commander to investigate a military offence; and
 
 (b) any military policeman.
 
 [1/94]
 
+[28/2009 wef 01/04/2010]
+
 ### Restriction on powers of investigating officers
 
-178\.—(1) An officer appointed as an investigating officer under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed.
+178\.—(1) An officer or a senior military expert appointed as an investigating officer under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed.
 
 [1/94]
 
-(2) A warrant officer appointed as an investigating officer under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed by a soldier who is below the rank of warrant officer .
+[28/2009 wef 01/04/2010]
+
+(2) A warrant officer, or a military expert of the rank of ME3, appointed as an investigating officer under section 177(a) may only conduct an investigation where there is reason to believe that a military offence specified in the Schedule has been committed by a soldier who is below the rank of warrant officer or ME3.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 (3) A military policeman may conduct an investigation where there is reason to believe that any offence involving persons subject to military law has been committed.
 
@@ -3302,7 +3468,9 @@ Investigations
 
 (2) Where an investigation into an offence involving persons subject to military law, that is not committed on active service, is completed, the investigating officer —
 
-(a) if he is an officeror a warrant officer appointed under section 177(a) shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the senior disciplinary officer or superior commander who appointed him to investigate the offence who shall thereupon cause the matter to be dealt with in accordance with the provisions of Part IV;
+(a) if he is an officer, a warrant officer or a military expert of or above the rank of ME3 appointed under section 177(a) shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the senior disciplinary officer or superior commander who appointed him to investigate the offence who shall thereupon cause the matter to be dealt with in accordance with the provisions of Part IV;
+
+[28/2009 wef 01/04/2010]
 
 (b) if he is a military policeman shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the Director, Legal Services of the Singapore Armed Forces who shall, if he is of the opinion that the investigation material discloses sufficient evidence to connect a person subject to military law with the commission of an offence, direct a military prosecutor to frame a charge and submit the charge to a disciplinary officer for summary trial under Part IV or to a subordinate military court for trial.
 
@@ -3332,7 +3500,11 @@ Investigations
 
 (6) Where a person subject to military law is officially informed that he may be prosecuted for an offence in a subordinate military court, he shall be served with a notice in writing, which shall be explained to him, to the following effect:
 
-“You have been informed that you may be prosecuted for an offence. Do you wish to say anything in answer to the allegation that you have committed the offence? If there is any fact on which you intend to rely in your defence, you are advised to mention it now. If you hold it back till you go to court, your evidence may be less likely to be believed and this may have a bad effect on your case in general. If you wish to mention any fact now, and you would like it written down, this will be done.”.
+“
+
+You have been informed that you may be prosecuted for an offence. Do you wish to say anything in answer to the allegation that you have committed the offence? If there is any fact on which you intend to rely in your defence, you are advised to mention it now. If you hold it back till you go to court, your evidence may be less likely to be believed and this may have a bad effect on your case in general. If you wish to mention any fact now, and you would like it written down, this will be done.
+
+”.
 
 [17/78]
 
@@ -3366,13 +3538,15 @@ BAIL AND BONDS
 
 ### Interpretation of this Part
 
-182A\. In this Part
+182A\. In this Part —
 
-“Bail Officer” means any officer appointed by the Armed Forces Council, by order published in theGazette, to exercise the power to release a person subject to military law on bail or bond;
+“Bail Officer” means any officer or senior military expert appointed by the Armed Forces Council, by order published in theGazette, to exercise the power to release a person subject to military law on bail or bond;
 
 “military court” means a general court martial or the Military Court of Appeal.
 
 [1/94]
+
+[28/2009 wef 01/04/2010]
 
 ### When person subject to military law may be released on bail
 
@@ -3678,11 +3852,13 @@ the Armed Forces Council may write off the loss or deficiency or such part there
 
 (6) Where the Armed Forces Council has —
 
-(a) under section 75(3), appointed an officer to exercise the powers conferred upon it by section 75(1) in relation to a serviceman serving outside Singapore; or
+(a) under section 75(3), appointed an officer or a senior military expert to exercise the powers conferred upon it by section 75(1) in relation to a serviceman serving outside Singapore; or
 
 (b) in relation to a serviceman, delegated its powers as a reviewing authority to a committee under section 116(2),
 
-a reference to an order made or quashed by the Armed Forces Council in subsection (1)(d) in respect of that serviceman shall be construed as a reference to an order made or quashed by the officer or committee, as the case may be.
+a reference to an order made or quashed by the Armed Forces Council in subsection (1)(d) in respect of that serviceman shall be construed as a reference to an order made or quashed by the officer, senior military expert or committee, as the case may be.
+
+[28/2009 wef 01/04/2010]
 
 ## PART XII
 
@@ -3862,9 +4038,13 @@ AID TO CIVILIAN AUTHORITIES
 
 (i) a police officer were references to a serviceman;
 
-(ii) “sergeant” were references to a sergeant; and
+(ii) the rank of “sergeant” were references to the rank of third sergeant or ME1 (depending on whether the holder of that rank is a military expert); and
 
-(iii) “inspector” were references to an officer;
+[28/2009 wef 01/04/2010]
+
+(iii) the rank of “inspector” were references to the rank of second lieutenant or ME4 (depending on whether the holder of that rank is an officer or a senior military expert);.
+
+[28/2009 wef 01/04/2010]
 
 (b) regulate, restrict, control or prohibit the use of any public road or public place;
 
@@ -3908,9 +4088,15 @@ AID TO CIVILIAN AUTHORITIES
 
 (b) under, or under the authority of, an order of a superior (referred to in this section as a superior order) to do so.
 
+[25/2007 wef 01/08/2007]
+
 (2) For the purposes of subsection (1)(a), any authorisation by the Minister includes written authorisation given in advance specifying the powers which shall be exercisable under the circumstances specified in the authorisation.
 
+[25/2007 wef 01/08/2007]
+
 (3) The Minister shall not authorise or order the taking of measures involving the use of lethal force against any person, vehicle, aircraft, vessel or facility unless the Minister is satisfied that such measures are reasonable and necessary in the circumstances, and in so doing, the Minister shall have regard to Singapore’s international obligations.
+
+[25/2007 wef 01/08/2007]
 
 (4) Subsection (1)(b) shall apply only if ––
 
@@ -3924,7 +4110,13 @@ AID TO CIVILIAN AUTHORITIES
 
 (e) the serviceman exercises the power or gives the order to exercise the power in a manner reasonable and necessary to give effect to the superior order.
 
-(5) In this section, “superior” means the Chief of Defence Force, an officer, a warrant officer or such other serviceman as the Minister may specify in his authorisation or order.
+[25/2007 wef 01/08/2007]
+
+(5) In this section, “superior” means the Chief of Defence Force, an officer, a warrant officer, a military expert of or above the rank of ME3 or such other serviceman as the Minister may specify in his authorisation or order.
+
+[25/2007 wef 01/08/2007]
+
+[28/2009 wef 01/04/2010]
 
 ### Restriction on use of force likely to cause death or grievous hurt
 
@@ -3992,9 +4184,13 @@ MISCELLANEOUS
 
 ### Mode of complaint by servicemen
 
-204\.—(1) If any serviceman thinks himself wronged in any matter by another serviceman superior to him in rank, he may complain to his commander, but if the first-mentioned serviceman is an officer who is equivalent or superior in rank to the commander he may complain to an officer next senior in rank to him.
+204\.—(1) If any serviceman thinks himself wronged in any matter by another serviceman superior to him in rank, he may complain to his commander, but if the first-mentioned serviceman is an officer or a senior military expert who is equivalent or superior in rank to the commander he may complain to an officer or a senior military expert next senior in rank to him.
 
-(2) Every officer to whom a complaint is made under this section shall cause such complaint to be enquired into and shall, if on inquiry he is satisfied of the justice of the complaint so made, take such steps as may be necessary for giving full redress to the complainant in respect of the matter complained of.
+[28/2009 wef 01/04/2010]
+
+(2) Every officer or senior military expert to whom a complaint is made under this section shall cause such complaint to be enquired into and shall, if on inquiry he is satisfied of the justice of the complaint so made, take such steps as may be necessary for giving full redress to the complainant in respect of the matter complained of.
+
+[28/2009 wef 01/04/2010]
 
 (3) If the serviceman is not satisfied that his complaint has been redressed he may complain to the Armed Forces Council and the Armed Forces Council shall examine such complaint and do justice in the matter.
 
@@ -4004,9 +4200,13 @@ MISCELLANEOUS
 
 (a) the government, administration and organisation of the Singapore Armed Forces;
 
-(b) ranks of servicemen ;
+(b) ranks of servicemen in the uniformed services (including the military domain experts service);
 
-(c) service grades of regular servicemen in the non-uniformed service(NUSAF), including the designation of grades as officer grades;
+[28/2009 wef 01/04/2010]
+
+(c) service grades of regular servicemen in the non-uniformed service, including the designation of grades as officer grades;
+
+[28/2009 wef 01/04/2010]
 
 (d) powers of commanders;
 
@@ -4042,7 +4242,9 @@ MISCELLANEOUS
 
 (t) the temporary release on compassionate grounds of persons serving such sentences in military prisons, disciplinary barracks or detention barracks, the cases in which, periods for which and conditions subject to which they may be allowed out of any of those places and the remission of part of any such sentence for good conduct and industry;
 
-(u) the appointment, powers and duties of inspectors, visitors and officers and othermembers of the staff of military prisons, disciplinary barracks and detention barracks;
+(u) the appointment, powers and duties of inspectors, visitors and members of the staff of military prisons, disciplinary barracks and detention barracks;
+
+[28/2009 wef 01/04/2010]
 
 (v) the establishment, maintenance and application of a fund to be known as the Singapore Armed Forces Central Welfare Fund;
 
@@ -4201,6 +4403,24 @@ MISCELLANEOUS
 (c) relating to the accounting, reporting, auditing and periodic examination of the SAVER-Premium Fund.
 
 [12/98; 10/2000]
+
+### Military domain experts service
+
+205D\.—(1) The Armed Forces Council may, in making any regulations under section 205(j), provide for the rank of a serviceman to be changed upon his transfer from the military domain experts service to any other uniformed service, or vice versa.
+
+[28/2009 wef 01/04/2010]
+
+(2) A change in the rank of a serviceman upon his transfer from the military domain experts service to any other uniformed service, or vice versa, shall not be treated as a reduction in the rank of the serviceman.
+
+[28/2009 wef 01/04/2010]
+
+(3) The Armed Forces Council may, in making any regulations under section 205 or 205A, provide for —
+
+(a) any regular serviceman who opts to transfer to the military domain experts service to opt for the provident fund scheme applicable to non-pensionable employees of the Government under the Central Provident Fund Act (Cap. 36); and
+
+(b) the terms and conditions of such option.
+
+[28/2009 wef 01/04/2010]
 
 ### Pension Fund
 
@@ -4550,11 +4770,18 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|22.|**Act 28 of 2009—Singapore Armed Forces (Amendment) Act 2009**|
+||Date of First Reading|19 October 2009|
+|||(Bill No. 21/2009 published on 19 October 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 April 2010|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
 
 (CHAPTER 295)
+
+COMPARATIVE TABLE
 
 The following provisions in the 1995 Revised Edition of the Singapore Armed Forces Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
