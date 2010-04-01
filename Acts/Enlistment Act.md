@@ -150,7 +150,7 @@ PRELIMINARY
 
 “person subject to this Act” means a person who is a citizen of Singapore or a permanent resident thereof and who is not less than 16 years and 6 months of age and not more than 40 years of age or, in the case of a person who —
 
-(a) is an officer of the armed forces ; or
+(a) is an officer of the armed forces or a senior military expert; or
 
 (b) is skilled in an occupation which the Minister by notification in theGazettedesignates as an occupation required to meet the needs of the armed forces,
 
@@ -163,6 +163,10 @@ not more than 50 years of age;
 “regular service” means service under section 19;
 
 “regular serviceman” means a person in regular service;
+
+“senior military expert” has the same meaning as in the Singapore Armed Forces Act;
+
+[28/2009 wef 01/04/2010]
 
 “service” means national service and regular service;
 
@@ -969,6 +973,12 @@ This Legislative History is provided for the convenience of users of the Enlistm
 |||(Bill No. 5/2006 published on 14 February 2006)|
 ||Date of Second and Third Readings|3 April 2006|
 ||Date of commencement|15 August 2006 (sections 3 and 4(a))|
+|21.|**Act 28 of 2009—Singapore Armed Forces (Amendment) Act 2009**|
+||(Related amendments made by)||
+||Date of First Reading|19 October 2009|
+|||(Bill No. 21/2009 published on 19 October 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 April 2010|
 ## COMPARATIVE TABLE
 
 Enlistment Act
