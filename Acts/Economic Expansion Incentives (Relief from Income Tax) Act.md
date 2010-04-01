@@ -76,6 +76,8 @@
 
 - [19K Tax relief period of development and expansion company](#Tax-relief-period-of-development-and-expansion-company)
 
+- [19KA International legal services](#International-legal-services)
+
 - [19L Certain dividends exempted from income tax](#Certain-dividends-exempted-from-income-tax)
 
 - [19M Ascertainment of income from qualifying activities](#Ascertainment-of-income-from-qualifying-activities)
@@ -538,6 +540,8 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 12\. For each year of assessment, the Comptroller shall issue to the pioneer enterprise a statement (to be included in a notice of any assessment served on the pioneer enterprise under section 76 of the Income Tax Act) showing the amount of income in respect of its old trade or business for that year of assessment, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
 
+[34/2008 Y/A 2009 and sub Y/A]
+
 ### Exemption from income tax
 
 13\.—(1) Subject to section 14(7), where any statement issued under section 12 has become final and conclusive, the amount of the income shown by the statement shall not form part of the statutory income of the pioneer enterprise for any year of assessment and shall be exempt from tax.
@@ -774,6 +778,28 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96; 11/2004; 48/2004]
 
+(6) The Minister shall, in extending the tax relief period of a company to which section 19KA applies, take into account its tax relief period referred to in that section.
+
+[1/2012 wef 01/04/2010]
+
+### International legal services
+
+19KA\.—(1) If a company engaged in international legal services is approved under section 19J(1) as a development and expansion company at any time between 1st April 2010 and 31st March 2015 (both dates inclusive), then —
+
+(a) notwithstanding section 19K(1), (2) and (3), the tax relief period of the company is a non-extendable period of 5 years commencing on its commencement day; and
+
+(b) notwithstanding section 19J(5), tax at the rate of 10% shall be levied and paid for each year of assessment upon the expansion income derived by the company during its tax relief period from the provision of international legal services.
+
+(2) This section does not apply to a company approved under section 13V(1) of the Income Tax Act (Cap. 134).
+
+(3) In this section —
+
+“expansion income” has the meaning given to that expression in section 19J;
+
+“international legal services” means any qualifying activity comprising legal services that qualify for zero-rating under section 21(3) of the Goods and Services Tax Act (Cap. 117A).
+
+[1/2012 wef 01/04/2010]
+
 ### Certain dividends exempted from income tax
 
 19L\.—(1) As soon as any amount of income of a development and expansion company has been subject to tax at the concessionary rate under section 19J, the net amount of the income after deduction of the tax shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
@@ -810,7 +836,9 @@ DEVELOPMENT AND EXPANSION INCENTIVE
 
 (9) Notwithstanding subsections (1) to (8), where it appears to the Comptroller that —
 
-(a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J; or
+(a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J or 19KA; or
+
+[1/2012 wef 01/04/2010]
 
 (b) any dividends which have been exempted from tax in the hands of any shareholder,
 
@@ -1192,7 +1220,7 @@ INVESTMENT ALLOWANCES
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under the Income Tax Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W , 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZCor 43ZD of the Income Tax Act, or the regulations made under any of those provisions, as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC,43ZD or 43ZE of the Income Tax Act, or the regulations made under any of those provisions, as the case may be;
 
 “concessionary investment allowance” means an investment allowance given to a company for an approved project from which the concessionary income of the company is derived;
 
@@ -1262,11 +1290,15 @@ INVESTMENT ALLOWANCES
 
 (g) for the promotion of the tourist industry (other than a hotel) in Singapore;
 
-(h) for the operation of any space satellite; or
+(h) for the operation of any space satellite;
 
-(i) for the provision of maintenance, repair and overhaul services to any aircraft,
+(i) for the provision of maintenance, repair and overhaul services to any aircraft; or
 
 [14/2007 wef 09/09/2004]
+
+[33/2010 wef 01/04/2010]
+
+(j) for improving energy efficiency,
 
 [33/2010 wef 01/04/2010]
 
@@ -1288,9 +1320,17 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 (5) The Minister may, in his discretion, upon the application of a company, amend its certificate by substituting for the investment day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the investment day in relation to that certificate.
 
-(6) No approval under this section shall be granted to any company in respect of any project under subsection (1)(i) on or after 9th September 2009.
+(6) Approval under this section shall only be granted during the following periods to a company in respect of any project under subsection (1)(i):
 
-[14/2007 wef 09/09/2004]
+(a) between 9th September 2004 and 8th September 2009 (both dates inclusive); and
+
+(b) between 1st April 2010 and 31st March 2015 (both dates inclusive).
+
+[33/2010 wef 01/04/2010]
+
+(7) Approval under this section shall only be granted during the period between 1st April 2010 and 31st March 2015 (both dates inclusive) to any company in respect of any project under subsection (1)(j).
+
+[33/2010 wef 01/04/2010]
 
 ### Investment allowance
 
@@ -2717,6 +2757,22 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|23 February 2010|
+|43.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 April 2010|
+|44.|**Act 1 of 2012—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 21/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 April 2010|
+|45.|**Act 33 of 2010—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2010**|
+||Date of First Reading|18 October 2010|
+|||(Bill No. 28/2010) published on 18 October 2010|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|1 April 2010 (section 3)|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
