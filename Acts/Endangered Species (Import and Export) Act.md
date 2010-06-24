@@ -5836,20 +5836,6 @@ Tridacnidae spp\.
 
 CLASS GASTROPODA (SNAILS AND CONCHES) 
 
-I 
-
-ARCHAEOGASTROPODA
-
-A
-
-Haliotidae (Abalones)
-
-1.
-
-Haliotis midae
-
-(South Africa)
-
 II 
 
 MESOGASTROPODA
@@ -7649,6 +7635,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|22 May 2009|
 |29.|**G. N. No. S 312/2010—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2010**|
 ||Date of commencement|23 June 2010 (Paragraph 2)|
+|30.|**G. N. No. S 312/2010—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2010**|
+||Date of commencement|24 June 2010 (Paragraph 3)|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
