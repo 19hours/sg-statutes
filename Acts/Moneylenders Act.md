@@ -1490,3 +1490,8 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 ||Date of commencement|11 February 2010|
 |3.|**2010 Revised Edition—Moneylenders Act (Chapter 188)**|
 ||Date of operation|31 March 2010|
+|4.|**Act 31 of 2008—Moneylenders Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 33/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Dates of commencement|1 July 2010 (section 5(3)(b))|
