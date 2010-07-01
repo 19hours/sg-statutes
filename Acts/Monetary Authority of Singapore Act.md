@@ -992,11 +992,13 @@ and the financial institutions concerned shall comply with such directions.
 
 (b) approved by the Authority for clearing, settlement or transfer through or under a settlement system;
 
-“certificate” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+“certificate” has the same meaning as in the Third Schedule to the Electronic Transactions Act 2010 (Act 16 of 2010);
 
-“certification authority” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+[Act 2 of 2012 wef 01/07/2010]
 
-“participant” means a person approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
+“certification authority” has the same meaning as in the Third Schedule to the Electronic Transactions Act 2010;“participant” means a person approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
+
+[Act 2 of 2012 wef 01/07/2010]
 
 “real-time gross settlement system” means a system which can effect final settlement of funds, payment obligations and book-entry securities and instruments on a continuous basis during such operating hours of a processing day as the Authority may determine and on a transaction-by-transaction basis;
 
@@ -1402,6 +1404,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 11/2008 published on 31 October 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|27.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 21/2011 published on 22 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 July 2010|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
