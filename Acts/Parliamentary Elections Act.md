@@ -70,7 +70,7 @@
 
 - [25 Notice of time and place of election](#Notice-of-time-and-place-of-election)
 
-- [26 Power to issue second writ](#Power-to-issue-second-writ)
+- [26 Failure of election](#Failure-of-election)
 
 - [27 Nomination papers](#Nomination-papers)
 
@@ -166,6 +166,20 @@
 
 - [56 Maintenance of secrecy at elections](#Maintenance-of-secrecy-at-elections)
 
+[**POSTPONEMENT AND ADJOURNMENT OF ELECTIONS**](#POSTPONEMENT-AND-ADJOURNMENT-OF-ELECTIONS)
+
+- [56A Postponement of nomination day, etc.](#Postponement-of-nomination-day-etc)
+
+- [56B Change in hours for nomination of candidates, etc.](#Change-in-hours-for-nomination-of-candidates-etc)
+
+- [56C Adjournment, etc., of polling](#Adjournment-etc-of-polling)
+
+- [56D Voting at adjourned polling](#Voting-at-adjourned-polling)
+
+- [56E Adjournment, etc., of counting](#Adjournment-etc-of-counting)
+
+- [56F Adjournment, etc., of adding of counted votes](#Adjournment-etc-of-adding-of-counted-votes)
+
 [**CORRUPT PRACTICES**](#CORRUPT-PRACTICES)
 
 - [57 Personation](#Personation)
@@ -192,7 +206,7 @@
 
 - [67 Remuneration of election agent](#Remuneration-of-election-agent)
 
-- [68 Personal expenses of candidate and petty expenses](#Personal-expenses-of-candidate-and-petty-expenses)
+- [68 Expenses which may be paid otherwise than by election agents](#Expenses-which-may-be-paid-otherwise-than-by-election-agents)
 
 - [69 Expenses in excess of maximum to be illegal practice](#Expenses-in-excess-of-maximum-to-be-illegal-practice)
 
@@ -210,13 +224,13 @@
 
 - [76 Employers to allow employees reasonable period for voting](#Employers-to-allow-employees-reasonable-period-for-voting)
 
-- [77 Badges, symbols, etc., prohibited on polling day](#Badges-symbols-etc-prohibited-on-polling-day)
+- [77 Badges, symbols, etc., prohibited on polling day and eve of polling day](#Badges-symbols-etc-prohibited-on-polling-day-and-eve-of-polling-day)
 
 - [78 Regulations for display of posters and banners](#Regulations-for-display-of-posters-and-banners)
 
 - [78A Regulations for other election advertising](#Regulations-for-other-election-advertising)
 
-- [78B Election advertising ban on polling day](#Election-advertising-ban-on-polling-day)
+- [78B Election advertising ban](#Election-advertising-ban)
 
 - [78C Blackout period for election survey results](#Blackout-period-for-election-survey-results)
 
@@ -226,7 +240,9 @@
 
 - [79 Punishment for conviction for illegal practice](#Punishment-for-conviction-for-illegal-practice)
 
-- [80 Prohibition of canvassing on polling day](#Prohibition-of-canvassing-on-polling-day)
+- [80 Prohibition of canvassing on polling day and eve of polling day](#Prohibition-of-canvassing-on-polling-day-and-eve-of-polling-day)
+
+- [80A Restrictions on election meetings](#Restrictions-on-election-meetings)
 
 - [81 Prohibition of dissuasion from voting](#Prohibition-of-dissuasion-from-voting)
 
@@ -342,8 +358,6 @@ PRELIMINARY
 
 “contact address”, in relation to any person, means the person’s contact address under section 8(2) of the National Registration Act;
 
-[14/2008 wef 03/03/2009]
-
 “direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
 
 (a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
@@ -393,8 +407,6 @@ and such material shall be election advertising even though it can reasonably be
 (ii) the Permanent Representative; or
 
 (iii) such other senior diplomatic or consular office as the Minister may, from time to time, prescribe;
-
-[14/2008 wef 03/03/2009]
 
 “overseas registration centre” means an overseas registration centre established under section 10(4);
 
@@ -472,8 +484,6 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (1A) For the purposes of subsection (1)(b), a person shall be deemed to be ordinarily resident in Singapore on the prescribed date in a year if the person has resided in Singapore for an aggregate of 30 days during the period of 3 years immediately preceding the prescribed date, even though the person is not resident in Singapore on that date.
 
-[14/2008 wef 03/03/2009]
-
 (2) For the purposes of the preparation or revision of any register of electors a person who is a citizen of Singapore and to whom an identity card has been issued or deemed to have been issued on or before the prescribed date in any year under the provisions of the National Registration Act (Cap. 201) and has not been withdrawn shall, until the contrary be shown, be presumed —
 
 (a) to be ordinarily resident in Singapore on the prescribed date in that year;
@@ -518,8 +528,6 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (iv) applied to the authorities of a place outside Singapore for the issue or renewal of a passport or used a passport issued by such authorities as a travel document;
 
-[14/2008 wef 03/03/2009]
-
 (b) is serving a sentence of imprisonment (by whatever name called) imposed by any court in or outside Singapore for an offence punishable with imprisonment for a term exceeding 12 months, or is under sentence of death imposed by any such court or is serving a sentence of imprisonment awarded in lieu of execution of any such sentence;
 
 (c) is under any written law found or declared to be of unsound mind;
@@ -527,6 +535,8 @@ shall be entitled to have his name entered or retained in a register of electors
 (d) is incapable of being registered by reason of his conviction of a corrupt or illegal practice under this Act or the Presidential Elections Act (Cap. 240A) or by reason of the report of an Election Judge in accordance with the provisions of this Act or the Presidential Elections Act or by reason of his conviction under section 55 of this Act or section 37 of the Presidential Elections Act;
 
 (e) is a serving member on full pay of any naval, military or air force not maintained out of moneys provided by Parliament unless he possesses a domicile in Singapore;
+
+(f) [Deleted by Act 14/2008 wef 03/03/2009]
 
 (g) is a person whose name has been expunged from the register under sections 13(3) and 43(5) and whose name has not been restored to the register under section 43(8) or (8A), as the case may be; or
 
@@ -555,8 +565,6 @@ shall be entitled to have his name entered or retained in a register of electors
 (b) any election for the local government of any metropolitan or urban area,
 
 in a country outside Singapore (but not an election under this Act or a presidential election) shall be deemed to be the voluntary claim and exercise of a right available under the law of that country.
-
-[14/2008 wef 03/03/2009]
 
 ### Plural voting
 
@@ -754,7 +762,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (2A) Any correction under subsection (2) does not affect the entitlement of any person to have his name included or retained therein.
 
-(3) Notwithstanding subsections (1), (1A) and (2), the Registration Officer shall, from time to time, on being informed by the Registrar of Citizens that any person has ceased to be a citizen of Singapore under the provisions of the Constitution, expunge the name of the person from any register of electors.
+(3) Notwithstanding subsections (1), (1A) and (2), the Registration Officer shall, from time to time, on being informed by the Registrar of Citizens that any person has ceased to be a citizen of Singapore under the provisions of the Constitution, or on being informed by the Registrar-General of Births and Deaths that any person is dead, expunge the name of the person from any register of electors.
 
 [10/2010 wef 01/07/2010]
 
@@ -763,8 +771,6 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 [14/2008 wef 03/03/2009]
 
 (4A) Where the person whose name has been removed under subsection (4) has notified the Commissioner of National Registration in writing of his change of address or contact address at the time of the removal of his name, the Registration Officer shall transfer the name of that person to the appropriate register.
-
-[14/2008 wef 03/03/2009]
 
 [18/99]
 
@@ -788,8 +794,6 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (b) any place in or near the electoral division for which the person seeks to be registered as an overseas elector.
 
-[14/2008 wef 03/03/2009]
-
 (2) An application under subsection (1) by any person to be registered as an overseas elector shall be accompanied by —
 
 (a) satisfactory proof of his identity;
@@ -807,8 +811,6 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 (iii) has not taken any oath or made any declaration or acknowledgment of allegiance, obedience or adherence to any foreign power or state; and
 
 (iv) has not applied to the authorities of a place outside Singapore for the issue or renewal of a passport or used a passport issued by such authorities as a travel document;
-
-[14/2008 wef 03/03/2009]
 
 (d) a statement specifying the overseas polling station he desires to vote at in an election; and
 
@@ -834,11 +836,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 and the Registration Officer may, at any time before the issue of a writ of election under section 24 for an election in that electoral division, cancel the person’s registration as an overseas elector or allot the person another overseas polling station to vote at, as the case may be.
 
-[14/2008 wef 03/03/2009]
-
 (3B) Only one overseas polling station may be allotted to a person who is registered as an overseas elector.
-
-[14/2008 wef 03/03/2009]
 
 (4) The registration of any person under this section as an overseas elector in any register of electors shall continue in operation until superseded by the coming into operation of the next certified register relating to any area within that electoral division following any preparation of registers under section 10 or any revision of registers under section 14.
 
@@ -852,8 +850,6 @@ and the Registration Officer may, at any time before the issue of a writ of elec
 
 in a country outside Singapore (but not an election under this Act or a presidential election) shall be deemed to be the voluntary claim and exercise of a right available under the law of that country.
 
-[14/2008 wef 03/03/2009]
-
 ### Revision of registers
 
 14\.—(1) The Minister may from time to time, but in any case not later than 3 years after the last general election, require the Registration Officer to revise the registers of electors and complete the revision before such date as the Minister may, by notification in theGazette, appoint.
@@ -864,13 +860,13 @@ in a country outside Singapore (but not an election under this Act or a presiden
 
 (3) All officers in the service of the Government (other than officers of any Government department who are prohibited by law from furnishing information) and all local authorities are hereby authorised and required to furnish to the Registration Officer, or any person appointed by the Registration Officer for the purpose, all such information as he may require to enable him to revise the register.
 
-(4) Every person who, being in possession of any information required under subsection (2A), fails to give such information to the Registration Officer or to any person appointed by the Registration Officer for the purpose, or wilfully gives any false information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+(4) Every person who, being in possession of any information required under subsection (2A), fails to give such information to the Registration Officer or to any person appointed by the Registration Officer for the purpose, or wilfully gives any false information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [10/2010 wef 01/07/2010]
 
 (5) Without prejudice to subsection (4), if any person being a registered elector fails to give such information with regard to his entitlement to registration to the Registration Officer or to any person appointed by the Registration Officer for the purpose within 14 days after the service upon him by the Registration Officer of a notice under subsection (2A), his name shall immediately be expunged from the register by the Registration Officer and he shall not be entitled to have his name retained or inserted in the register for the ensuing year.
 
-(6) Every person who is appointed by the Registration Officer and who wilfully suppresses any information relating to the entitlement of any person for registration or relevant for determining whether the name of any person should or should not be retained or inserted in a register, after such information has been furnished to or collected by him, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+(6) Every person who is appointed by the Registration Officer and who wilfully suppresses any information relating to the entitlement of any person for registration or relevant for determining whether the name of any person should or should not be retained or inserted in a register, after such information has been furnished to or collected by him, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
 [10/2010 wef 01/07/2010]
 
@@ -960,7 +956,7 @@ and each electoral division shall be deemed to have been subdivided under sectio
 
 ### Penalty for false statements and wrongful claims
 
-21\.—(1) Every person who wilfully makes a false statement or declaration in any claim or objection or at any inquiry held in connection therewith or in any appeal shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 .
+21\.—(1) Every person who wilfully makes a false statement or declaration in any claim or objection or at any inquiry held in connection therewith or in any appeal shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [10/2010 wef 01/07/2010]
 
@@ -976,7 +972,7 @@ and each electoral division shall be deemed to have been subdivided under sectio
 
 (c) by the intentional suppression of any material fact, furnishes, in or outside Singapore, information which is misleading,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [14/2008 wef 03/03/2009]
 
@@ -1006,7 +1002,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [19/2001]
 
-(4) Any person who knowingly contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(4) Any person who knowingly contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to imprisonment for a term not exceeding 6 months or to both.
 
 [10/2010 wef 01/07/2010]
 
@@ -1058,9 +1054,21 @@ ELECTIONS
 
 25\. On the President issuing a writ, the Returning Officer shall give notice of the issue of the writ and of the day, time and place of the nomination of candidates by causing a notice in Form 8 in the First Schedule to be published in theGazetteat least 4 clear days before the day fixed for the nomination.
 
-### Power to issue second writ
+### Failure of election
 
-26\. If, at any time after the President has issued a writ for the holding of a general election or an election to fill a vacancy in the seat of a Member, it is shown to his satisfaction that in any electoral division owing to any cause whatsoever no election has been held in pursuance of the writ, the President may at any time issue another writ for the holding of an election in that division and sections 24 and 25 shall apply to that writ.
+26\.—(1) Whenever an election in any electoral division wholly fails, a fresh writ may be issued by the President at any time for the holding of an election in that electoral division, except that where the election in an electoral division has failed because of the death of a candidate after the election has been reported as contested but before polling day, then section 34(8) and (9) or 34A(8) and (8A), as the case may be, shall apply.
+
+(2) The original writ for an election in any electoral division that has wholly failed and everything done in connection with the election for the electoral division because of that writ shall be of no effect.
+
+(3) Where a fresh writ is issued under subsection (1), sections 24 and 25 shall apply to that writ.
+
+(4) For the purposes of this Act, an election shall have wholly failed if —
+
+(a) in the case of an election in a group representation constituency, no group of candidates is nominated or returned as elected for that constituency; or
+
+(b) in the case of any other electoral division, no candidate is nominated or returned as elected for that electoral division.
+
+[10/2010 wef 01/07/2010]
 
 ### Nomination papers
 
@@ -1262,7 +1270,7 @@ a certificate issued to him under section 27A(6) certifying that he is a person 
 
 (2) Any sum required to be deposited under subsection (1) shall be paid in legal tender or by a bank draft or a certified cheque.
 
-(3) If a candidate is not nominated as a candidate for election or if, after the deposit is made, the candidate withdraws his candidature under section 32, the deposit shall be returned to the person by whom the deposit was made.
+(3) If a candidate is not nominated as a candidate for election, if an election in an electoral division has wholly failed or if, after the deposit is made, the candidate withdraws his candidature under section 32, the deposit shall be returned to the person by whom the deposit was made.
 
 [10/2010 wef 01/07/2010]
 
@@ -1466,7 +1474,9 @@ CONTESTED ELECTIONS
 
 (c) the day and hours of the poll at every overseas polling station;
 
-(d) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in theGazette;
+(d) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in theGazette(referred to in this Act as polling day);
+
+[10/2010 wef 01/07/2010]
 
 (e) the names of the candidates in the order in which they will be printed on the ballot papers, the symbol allotted to each candidate and the names of their proposers and seconders; and
 
@@ -1480,7 +1490,7 @@ CONTESTED ELECTIONS
 
 (a) countermand the notice for the poll; and
 
-(b) appoint, by notice published in theGazette, a fresh datefor the election.
+(b) appoint, by notice published in theGazette, a fresh date, time and place for the nomination of candidates for election, at least 4 clear days before the fresh date fixed for such nomination.
 
 [10/2010 wef 01/07/2010]
 
@@ -1520,7 +1530,9 @@ CONTESTED ELECTIONS
 
 (c) the day and hours of the poll at every overseas polling station;
 
-(d) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in theGazette;
+(d) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in theGazette(referred to in this Act as polling day);
+
+[10/2010 wef 01/07/2010]
 
 (e) the names of the candidates in each group in the order in which they will be printed on the ballot papers, the symbol allotted to each group of candidates and the names of their proposers and seconders; and
 
@@ -1536,7 +1548,7 @@ CONTESTED ELECTIONS
 
 (a) countermand the notice for the poll; and
 
-(b) appoint, by notice published in theGazette, a fresh datefor the election in that constituency.
+(b) appoint, by notice published in theGazette, a fresh date, time and place for the nomination of candidates for election in that constituency, at least 4 clear days before the fresh date fixed for the nomination.
 
 [10/2010 wef 01/07/2010]
 
@@ -1592,8 +1604,6 @@ CONTESTED ELECTIONS
 
 as the Returning Officer thinks practicable or suitable as an overseas polling station for overseas electors to cast their votes thereat.
 
-[14/2008 wef 03/03/2009]
-
 (3) A polling station shall comprise such premises or such area within any premises as are demarcated by or under the authority of the Returning Officer to be a polling station.
 
 [19/2001]
@@ -1632,7 +1642,7 @@ as the Returning Officer thinks practicable or suitable as an overseas polling s
 
 (4) A person who, by reason of circumstances existing on the day of the election, is not, by virtue of section 5 or 6, entitled to have his name entered or retained in any register of electors shall not be entitled to vote at the election.
 
-(5) If the person mentioned in subsection (4) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(5) If the person mentioned in subsection (4) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both, and shall, on conviction, become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
 [10/2010 wef 01/07/2010]
 
@@ -1654,7 +1664,7 @@ as the Returning Officer thinks practicable or suitable as an overseas polling s
 
 [19/2001]
 
-(3) Unless the Returning Officer, by notification in theGazetteor under section 50C(3)(b), appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
+(3) Unless the Returning Officer, by notification in theGazetteunder this section or section 56C or under section 50C(3)(b), appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
 
 [10/2010 wef 01/07/2010]
 
@@ -1727,8 +1737,6 @@ but not at both in respect of the same election.
 (c) any citizen of Singapore (whether or not a voter or an elector),
 
 in relation to a poll conducted or to be conducted at an overseas polling station.
-
-[14/2008 wef 03/03/2009]
 
 ### Poll by ballot and ballot papers
 
@@ -1844,11 +1852,11 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 (8) If any applicant under subsection (7) satisfies the Registration Officer that he has a good and sufficient reason for not having recorded his vote, his name shall be restored to the register without penalty.
 
-(8A) Where the applicant does not satisfy the Registration Officer under subsection (8), his name shall be restored to the register on payment of the sum of $5 to the Registration Officer.
+(8A) Where the applicant does not satisfy the Registration Officer under subsection (8), his name shall be restored to the register on payment of the sum of $50 to the Registration Officer.
 
 [10/2010 wef 01/07/2010]
 
-(9) Any name to be restored to the register under subsection (8) or (8A) shall, except as otherwise provided in subsection (11), be restored the day after the Registration Officer has satisfied himself that the applicant has a good and sufficient reason for not recording his vote or the day after the payment of the sum of $5 to the Registration Officer, as the case may be.
+(9) Any name to be restored to the register under subsection (8) or (8A) shall, except as otherwise provided in subsection (11), be restored the day after the Registration Officer has satisfied himself that the applicant has a good and sufficient reason for not recording his vote or the day after the payment of the sum of $50 to the Registration Officer, as the case may be.
 
 [10/2010 wef 01/07/2010]
 
@@ -1864,7 +1872,7 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 (3) If any person fails to furnish such evidence of his identity or refuses to make any such declaration, the presiding officer may refuse to give him a ballot paper.
 
-(4) If any person wilfully makes a false statement in any such declaration, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(4) If any person wilfully makes a false statement in any such declaration, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
 [10/2010 wef 01/07/2010]
 
@@ -1925,6 +1933,14 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 (3) The Returning Officer shall give notice in writing of his direction under subsection (1) or (2) to each candidate or his election agent not less than 2 clear days before polling day.
 
 [42/96; 19/2001]
+
+(4) Where polling at all polling stations established for the purposes of a poll in an electoral division is postponed under section 56C, the conduct of the counting of votes cast for the electoral division shall stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his election agent, shall specify.
+
+[10/2010 wef 01/07/2010]
+
+(5) Where polling at any polling station established for the purposes of a poll in an electoral division is temporarily suspended, adjourned and postponed or abandoned and re-started under section 56C, the conduct of the count in respect of votes cast at the other polling stations for that electoral division at which the poll has closed, shall stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his election agent, shall specify.
+
+[10/2010 wef 01/07/2010]
 
 ### Counting votes
 
@@ -2258,23 +2274,31 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 ### Election of non-constituency Members in certain circumstances
 
-52\.—(1) At any general election, the number of non-constituency Members to be declared elected shall be 3 (or such greater number not exceeding 6 as the President may by order specify for the purpose of that general election) less the total number of Opposition Members elected to Parliament in accordance with section 49(7).
+52\.—(1) At any general election, the number of non-constituency Members to be declared elected shall be the whole number (ignoring any less than 0) ascertained in accordance with the formula
 
-[21/91]
+9 – B,
 
-(1A) Where any order is to be made under subsection (1), such order shall be made at any time after Parliament is dissolved but not later than the day of nomination for a general election following the dissolution; and the order shall cease to have effect at the next dissolution of Parliament.
+[10/2010 wef 01/07/2010]
 
-[21/91]
+where B
 
-(2) The non-constituency Member or Members to be declared elected under subsection (1) shall be determined from among the candidates of those political parties (other than the party or parties that will form the Government) contesting the general election on the basis of the percentage of the votes polled at the same general election by such candidates in the following order of priority — the candidate receiving the highest percentage of votes being placed first and the other candidates being placed in descending order in accordance with the percentages of votes polled by them.
+is the total number of Opposition Members elected to Parliament in accordance with section 49(7) or (7A) or 49A(5), as the case may be.
+
+(2) Subject to subsection (3A), the non-constituency Member or Members to be declared elected under subsection (1) shall be determined from among the candidates of those political parties (other than the party or parties that will form the Government) contesting the general election on the basis of the percentage of the votes polled at the same general election by such candidates in the following order of priority — the candidate receiving the highest percentage of votes being placed first and the other candidates being placed in descending order in accordance with the percentages of votes polled by them.
 
 [10/2010 wef 01/07/2010]
 
 (3) Subject to subsection (3A), where any non-constituency Member is to be declared elected under this section, the Returning Officer shall, as soon as he determines the candidate who stands first in accordance with the order of priority under subsection (2), declare that candidate to be so elected; and if more than one non-constituency Member are to be declared elected, the Returning Officer shall declare as so elected the next succeeding candidate or candidates, as the case may be, in the order of priority under subsection (2).
 
-(3A) No such candidate shall be declared as so elected under subsection (3) unless he has polled not less than 15% of the total number of votes (other than rejected votes) polled at the election in the electoral division contested by him.
+(3A) A candidate shall not be declared as so elected under subsection (3) if —
 
-[21/91]
+(a) he has polled less than 15% of the total number of votes (other than rejected votes) polled at the election in the electoral division contested by him;
+
+(b) 2 other candidates at the election in the same group representation constituency have been declared to be elected under subsection (3); or
+
+(c) one other candidate at the election in the same electoral division that is not a group representation constituency has been declared to be elected under subsection (3).
+
+[10/2010 wef 01/07/2010]
 
 (3B) Where there is an equality of the percentage of the votes between any candidates and the number of such candidates who are eligible to be declared elected under this section exceeds the number of non-constituency Members to be declared elected, the determination of the candidate or candidates to be declared elected shall be as follows:
 
@@ -2336,7 +2360,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (j) manufactures, constructs, imports into Singapore, has in his possession, supplies or uses for the purpose of an election, or causes to be manufactured, constructed, imported into Singapore, supplied or used for the purpose of any election, any appliance, device or mechanism by which a ballot paper may be extracted, affected or manipulated after having been deposited in a ballot box during the polling at any election,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years and shall, on conviction, become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
+shall be guilty of an offence and shall be liable on conviction by a District Court to a fine and to imprisonment for a term not exceeding 5 years and shall, on conviction, become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
 [10/2010 wef 01/07/2010]
 
@@ -2384,9 +2408,223 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [19/2001]
 
-(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
 [10/2010 wef 01/07/2010]
+
+POSTPONEMENT AND ADJOURNMENT OF ELECTIONS
+
+[10/2010 wef 01/07/2010]
+
+### Postponement of nomination day, etc.
+
+56A\.—(1) Notwithstanding any other provision of this Act, at any time before the day of nomination appointed for any election in any electoral division, the President may postpone the date for the nomination of candidates to another day, or change the place of nomination, because of —
+
+(a) riot or open violence;
+
+(b) the threat of riot or open violence;
+
+(c) storm, tempest, flood or an occurrence of a similar kind;
+
+(d) a health hazard;
+
+(e) a fire or the activation of fire safety equipment (such as sprinklers or alarms); or
+
+(f) any other reason related to the safety of assistants, clerks, candidates and other persons authorised under section 29 to be present at the place of nomination, or to difficulties in the physical conduct of nomination proceedings.
+
+(2) Any postponement of the date for the nomination of candidates to another day, or any change in the place of nomination, under subsection (1) shall be —
+
+(a) by notice published in theGazettedescribing the postponement of the day of nomination or the change in the place of nomination, as the case may be; or
+
+(b) if publication under paragraph (a) is not practicable, by notice published in such manner as will secure adequate publicity in the electoral division for which the election is to be held describing the postponement of the day of nomination or the change in the place of nomination, as the case may be,
+
+and any postponement or change so made shall be valid and sufficient and any date or place provided for in lieu of a date or place fixed by the writ shall be deemed to be the day of nomination or place of nomination so fixed, as the case may be.
+
+### Change in hours for nomination of candidates, etc.
+
+56B\.—(1) Notwithstanding any other provision of this Act but subject to subsection (3), at any time before the day of nomination appointed for any election in any electoral division, the Returning Officer may change the hours for nomination proceedings to another time, because of —
+
+(a) riot or open violence;
+
+(b) the threat of riot or open violence;
+
+(c) storm, tempest, flood or an occurrence of a similar kind;
+
+(d) a health hazard;
+
+(e) a fire or the activation of fire safety equipment (such as sprinklers or alarms); or
+
+(f) any other reason related to the safety of assistants, clerks, candidates and other persons authorised under section 29 to be present at the place of nomination, or to difficulties in the physical conduct of nomination proceedings.
+
+(2) Any change in the hours for nomination proceedings to another time under subsection (1) shall be —
+
+(a) by notice published in theGazettedescribing the change in the hours for nomination proceedings; or
+
+(b) if publication under paragraph (a) is not practicable, by notice published in such manner as will secure adequate publicity in the electoral division for which the election is to be held describing the change in the hours for nomination proceedings,
+
+and any change so made shall be valid and sufficient.
+
+(3) In changing the hours for nomination proceedings under subsection (1), the Returning Officer may specify such other times in the day but —
+
+(a) shall specify a period of one hour for the Returning Officer to receive nomination papers;
+
+(b) shall specify a period of 90 minutes for the making of objections to any nomination paper;
+
+(c) shall specify the latest time by which a candidate must make his deposit for the purposes of section 28, may correct errors in the nomination papers and may withdraw his candidature; and
+
+(d) shall specify the time by which the nomination of a candidate who is the subject of multiple nominations described in section 32A shall be void.
+
+(4) Any changes in time under subsection (1) in lieu of the hours fixed by the notice of the issue of the writ under section 25 for an election in an electoral division shall be deemed to be the hours for nomination proceedings so fixed, and sections 27, 27A, 27B, 28, 29, 29A, 30, 32, 32A and 33 shall apply with such modifications as are necessary.
+
+### Adjournment, etc., of polling
+
+56C\.—(1) Notwithstanding any other provision of this Act, if at any time before the polling day appointed in respect of an election in an electoral division, it appears to the Returning Officer that, in relation to the electoral division, the polling at all polling stations established for the purposes of the poll in the electoral division is likely to be obstructed, disrupted, undermined or seriously affected because of —
+
+(a) riot or open violence;
+
+(b) the threat of riot or open violence;
+
+(c) storm, tempest, flood or an occurrence of a similar kind;
+
+(d) a health hazard;
+
+(e) a fire or the activation of fire safety equipment (such as sprinklers or alarms); or
+
+(f) any other reason related to the safety of presiding officers, clerks, interpreters, polling agents or voters within the polling station, or to difficulties in the physical conduct of voting,
+
+which has arisen or is likely to arise before or during the polling at all of those polling stations, the Returning Officer may postpone the polling day for that election to another day, except that the postponed poll for an election that is a general election must be within 3 months after the dissolution of Parliament.
+
+(2) Notwithstanding any other provision of this Act, if at any time before or during the conduct of polling in respect of an election in an electoral division, it appears to the Returning Officer that, in relation to the electoral division, the polling at any polling station established for the purposes of the poll in the electoral division is likely to be obstructed, disrupted, undermined or seriously affected because of —
+
+(a) riot or open violence;
+
+(b) the threat of riot or open violence;
+
+(c) storm, tempest, flood or an occurrence of a similar kind;
+
+(d) a health hazard;
+
+(e) a fire or the activation of fire safety equipment (such as sprinklers or alarms); or
+
+(f) any other reason related to the safety of presiding officers, clerks, interpreters, polling agents or voters within the polling station, or to difficulties in the physical conduct of voting,
+
+which has arisen or is likely to arise before or during the polling at that polling station, the Returning Officer may, subject to subsection (3), do one of the following:
+
+(i) temporarily suspend the polling at that polling station for a period not exceeding 2 hours, with or without changing the location of that polling station;
+
+(ii) adjourn and postpone the polling at that polling station to another day, with or without changing the location of that polling station;
+
+(iii) wholly abandon and re-start the polling at that polling station on another day, with or without changing the location of that polling station;
+
+(iv) terminate the polling at that polling station early; or
+
+(v) in the case of polling at an overseas polling station, abandon the poll at the polling station if he is satisfied that polling thereat cannot start or be resumed or completed.
+
+(3) Any poll at an overseas polling station, if resumed or held in place of a postponed poll thereat, must close not later than the close of the poll on polling day in Singapore, and any poll held in place of a postponed poll at any polling station for an election that is part of a general election must be held within 3 months after the dissolution of Parliament.
+
+(4) In exercising any power under subsection (1) or (2), the Returning Officer shall —
+
+(a) by notification published in theGazettedeclare the temporary suspension, adjournment, postponement, abandonment, re-start, or early termination (as the case may be) of polling at the polling station concerned and, where applicable, specify the date and time on and at which polling at that polling station is to resume, re-start or be held in place of the suspended, adjourned, postponed or abandoned poll, as the case may be; or
+
+(b) if publication under paragraph (a) is not practicable, by notice published in such manner as will secure adequate publicity in the electoral division for which the election is to be held for the temporary suspension, adjournment, postponement, abandonment, re-start or early termination (as the case may be) of the polling and, where applicable, the date and time on and at which polling at that polling station is to resume, re-start or be held in place of the suspended, adjourned, postponed or abandoned poll, as the case may be,
+
+and any postponement, resumption, re-start or other change so made shall be valid and sufficient and any date or place provided for in lieu of a date or place fixed by the notice of contested election shall be deemed to be the polling day or polling place so fixed, as the case may be.
+
+(5) If, in exercising any power under subsection (2), the Returning Officer changes the location of any polling station, the notice given under subsection (4) shall also contain the address of the re-located polling station.
+
+(6) Any temporary suspension, adjournment, postponement, abandonment, re-start, or early termination, as the case may be, of polling at a polling station pursuant to the exercise of any power under subsection (1) or (2) shall be carried out in the prescribed manner.
+
+(7) Nothing in this section shall restrict the exercise of any power under section 50C(3).
+
+### Voting at adjourned polling
+
+56D\. Where for any reason the polling at any polling station established for the purposes of the poll in any electoral division is so suspended or postponed under section 50C(3) or 56C, only those electors —
+
+(a) who are registered electors for that electoral division for which the polling station is established;
+
+(b) who are entitled to vote as electors for that electoral division at that polling station; and
+
+(c) who have not already voted,
+
+shall be entitled to vote on the date and time on and at which polling at that polling station is to resume or to be held in place of the postponed poll, as the case may be.
+
+### Adjournment, etc., of counting
+
+56E\.—(1) Notwithstanding any other provision of this Act, if at any time before or during the counting of votes in respect of an election in an electoral division, it appears to the Returning Officer that, in relation to the electoral division, the counting of votes at any counting place for the electoral division is likely to be obstructed, disrupted, undermined or seriously affected because of —
+
+(a) riot or open violence;
+
+(b) the threat of riot or open violence;
+
+(c) storm, tempest, flood or an occurrence of a similar kind;
+
+(d) a health hazard;
+
+(e) a fire or the activation of fire safety equipment (such as sprinklers or alarms); or
+
+(f) any other reason related to the safety of assistants, clerks counting the votes and candidates or their counting agents present in the counting place, or to difficulties in the physical conduct of counting,
+
+which has arisen or is likely to arise before or during the counting of votes at that counting place, the Returning Officer may —
+
+(i) temporarily suspend the counting at that counting place for a period not exceeding 2 hours, with or without changing the location of that counting place;
+
+(ii) adjourn and postpone the counting at that counting place to another day, with or without changing the location of that counting place;
+
+(iii) wholly abandon the counting of votes at that counting place if he is satisfied that counting thereat cannot be resumed or completed and that the number of votes to be counted will not affect the result of the election, and in the case of an abandoned recount of votes at that counting place, declare the election results using the results of the first count; or
+
+(iv) wholly abandon the counting of votes at that counting place and re-start (within 3 months after the dissolution of Parliament in the case of a general election) the polling at all polling stations which are specified in the direction under section 48A to be counted at that counting place and the counting of the votes cast thereat, if he is satisfied that counting thereat cannot be resumed or completed and that the number of votes to be counted will affect the result of the election.
+
+(2) In exercising any power under subsection (1), the Returning Officer shall —
+
+(a) announce to such of the candidates and their counting agents attending the counting of the votes at the counting place concerned, the temporary suspension, adjournment, postponement or abandonment (as the case may be) of counting of votes at the counting place and where applicable, the date and time on and at which counting of votes at that counting place is to resume or be held in place of the suspended, adjourned, postponed or abandoned count, as the case may be; and
+
+(b) by notice published in theGazettedeclare the temporary suspension, adjournment, postponement or abandonment (as the case may be) of counting of votes at the counting place concerned and where applicable, specify the date and time on and at which counting of votes at that counting place is to resume or be held in place of the suspended, adjourned, postponed or abandoned count, as the case may be.
+
+(3) If, in exercising any power under subsection (1), the Returning Officer changes the location of any counting place, the announcement and notice given under subsection (2) shall also contain the address of the re-located counting place.
+
+(4) Before every temporary suspension or adjournment of the counting of votes at any counting place —
+
+(a) all counted ballot papers, uncounted ballot papers and all other documents relating to the counting of votes at the counting place shall be sealed up in separate packets and placed in any ballot box or boxes; and
+
+(b) those ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals.
+
+(5) Before resuming the counting of votes following any such temporary suspension or adjournment of counting, the Returning Officer or a person authorised by him shall, in the presence of such of the candidates and their counting agents as attend, show each ballot box with such seals unbroken before taking out the uncounted ballot papers therein.
+
+(6) Any temporary suspension, postponement, adjournment or abandonment of the counting of votes at any counting place pursuant to the exercise of any power under subsection (1), and the resumption of counting of votes or polling in place of the suspended, adjourned, postponed or abandoned count, shall be carried out in the prescribed manner.
+
+(7) In this section, any reference to counting of votes includes a reference to the recounting of votes.
+
+### Adjournment, etc., of adding of counted votes
+
+56F\.—(1) Notwithstanding any other provision of this Act, if at any time before or during the adding of all the counted votes in respect of an election in an electoral division, it appears to the Returning Officer that, in relation to the electoral division, the adding of those votes at the principal counting place for the electoral division is likely to be obstructed, disrupted, undermined or seriously affected because of —
+
+(a) riot or open violence;
+
+(b) the threat of riot or open violence;
+
+(c) storm, tempest, flood or an occurrence of a similar kind;
+
+(d) a health hazard;
+
+(e) a fire or the activation of fire safety equipment (such as sprinklers or alarms); or
+
+(f) any other reason related to the safety of assistants, clerks adding the votes and candidates or their election agents present in the principal counting place, or to difficulties in the physical conduct of adding the counted votes,
+
+which has arisen or is likely to arise before or during the addition of votes at the principal counting place for that electoral division, the Returning Officer may —
+
+(i) temporarily suspend the addition of votes at the principal counting place for a period not exceeding 2 hours, with or without changing the location of the principal counting place; or
+
+(ii) adjourn and postpone the addition of votes at the principal counting place to another day, with or without changing the location of the principal counting place.
+
+(2) In exercising any power under subsection (1), the Returning Officer shall —
+
+(a) announce to such of the candidates and their election agents attending the addition of the votes at the principal counting place concerned, the temporary suspension, adjournment or postponement (as the case may be) of addition of votes at the principal counting place and where applicable, the date and time on and at which addition of votes at the principal counting place is to resume or to be held in place of the suspended, adjourned or postponed addition of votes, as the case may be; and
+
+(b) by notice published in theGazettedeclare the temporary suspension, adjournment or postponement (as the case may be) of the addition of the votes at the principal counting place concerned and where applicable, specify the date and time on and at which addition of votes at that principal counting place is to resume or to be held in place of the suspended, adjourned or postponed addition of votes, as the case may be.
+
+(3) If, in exercising any power under subsection (1), the Returning Officer changes the location of any principal counting place, the announcement and notice given under subsection (2) shall also contain the address of the re-located principal counting place.
+
+(4) Any temporary suspension, adjournment or postponement (as the case may be) of the addition of votes at any principal counting place pursuant to the exercise of any power under subsection (1), and the resumption of the addition of votes or the addition of votes in place of the suspended, adjourned or postponed addition, shall be carried out in the prescribed manner.
 
 CORRUPT PRACTICES
 
@@ -2466,7 +2704,7 @@ shall be guilty of the offence of undue influence.
 
 (b) commits the offence of treating, undue influence or bribery;
 
-(c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending on the eve of polling day at the election which —
+(c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending with the start of polling day at that election which —
 
 (i) in the case of election advertising that is, or is contained in, a printed document, does not bear on its face or, if there is more than one side of printed matter, on the first or last page of the document, the names and addresses of its printer, its publisher and the person for whom or at whose direction the election advertising is published; or
 
@@ -2482,13 +2720,25 @@ shall be guilty of the offence of undue influence.
 
 shall be guilty of a corrupt practice and shall on conviction by a District Court be liable —
 
-(i) in the case referred to in paragraph (a), to a fine of not less than $250 and not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both; and
+(i) in the case referred to in paragraph (a), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
 [10/2010 wef 01/07/2010]
 
-(ii) in any other case, to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(ii) in the case referred to in paragraph (b), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-[31/2001]
+[10/2010 wef 01/07/2010]
+
+(iii) in the case referred to in paragraph (c), to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both;
+
+[10/2010 wef 01/07/2010]
+
+(iv) in the case referred to in paragraph (d) or (e), to a fine or to imprisonment for a term not exceeding 12 months or to both; or
+
+[10/2010 wef 01/07/2010]
+
+(v) in the case referred to in paragraph (f), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[10/2010 wef 01/07/2010]
 
 (2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
@@ -2498,7 +2748,9 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 [15/2010 wef 02/01/2011]
 
-(4) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any corrupt practice.
+(4) Without prejudice to section 57, every offence of undue influence or bribery under section 59 or 60, as the case may be, and every other corrupt practice under subsection (1)(c), (d) or (e) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 (5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
 
@@ -2510,9 +2762,17 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (b) the publication of a document directly by a person or a group of persons to their members, employees or shareholders, as the case may be;
 
-(c) the transmission by an individual to another individual, on a non-commercial basis on what is commonly known as the Internet, of his own political views;
+(c) the publication of any news relating to an election —
 
-(d) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast; or
+(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act (Cap. 206); or
+
+(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
+
+[10/2010 wef 01/07/2010]
+
+(d) the telephonic or electronic transmission by an individual to another individual of the first-mentioned individual’s own political views, on a non-commercial basis; or
+
+[10/2010 wef 01/07/2010]
 
 (e) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
 
@@ -2537,6 +2797,34 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 (5) A principal election agent for a group of candidates shall be appointed by the candidates from amongst their election agents and the provisions of this section relating to the appointment and revocation of appointment of an election agent and public notification thereof shall apply, with the necessary modifications, in respect of a principal election agent.
 
 [42/96]
+
+(6) The election agent of a candidate (referred to as candidate A) belonging to a group of candidates may act by the election agent of any other candidate belonging to the same group (referred to as a sub-agent) whom the first-mentioned election agent authorises in writing in respect of such expenses incurred on account of or in respect of the conduct or management of the election for the candidates as is named in the authority, and —
+
+(a) anything done by or to the sub-agent shall be deemed to be done by the election agent and sub-agent jointly; and
+
+(b) the candidate A shall suffer the like incapacity as if any act or default of the sub-agent had been his election agent’s act or default.
+
+[10/2010 wef 01/07/2010]
+
+(7) For the avoidance of doubt, nothing in subsection (6) prevents an election agent of a candidate belonging to a group from authorising in writing more than one sub-agent from among the respective election agents of the other candidates belonging to the same group.
+
+[10/2010 wef 01/07/2010]
+
+(8) The authorisation of a sub-agent under subsection (6) —
+
+(a) shall not be vacated by the election agent who authorised him ceasing to be an election agent; and
+
+(b) may be revoked by whoever is for the time being the election agent.
+
+[10/2010 wef 01/07/2010]
+
+(9) The references in sections 64, 65(1) and (1A), 66, 68 and 69 to an election agent of a candidate (referred to as candidate A) shall, in relation to an election in a group representation constituency, be taken as references to the election agent —
+
+(a) acting by himself; or
+
+(b) acting by the election agent of any other candidate belonging to the same group as candidate A whom the first-mentioned election agent has authorised in writing under subsection (6) to act as his sub-agent in respect of such expenses incurred on account of or in respect of the conduct or management of the election for the candidates as are named in that authority.
+
+[10/2010 wef 01/07/2010]
 
 ### Person convicted of corrupt practice not to be appointed election agent
 
@@ -2570,7 +2858,17 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (1A) All money provided by any person other than the candidate for any expenses incurred on account of or in respect of the conduct or management of the election, whether as gift, loan, advance or deposit, shall be paid to the candidate or his election agent and not otherwise.
 
-(2) Subsections (1) and (1A) shall not be deemed to apply to any payment by the Returning Officer or to any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if the sum is not repaid to him.
+(2) Subsections (1) and (1A) shall not be deemed to apply to —
+
+(a) any payments made by the Returning Officer;
+
+(b) any payments which are, in accordance with section 66(8), (9) or (10) or 68(1), made by the candidate;
+
+(c) any expenses which are paid in accordance with section 68(4) by a person or political party authorised as mentioned in that section; and
+
+(d) any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if the sum is not repaid to him.
+
+[10/2010 wef 01/07/2010]
 
 (3) A person who makes any payment, advance or deposit in contravention of this section or pays in contravention of this section any money so provided as aforesaid shall be guilty of an illegal practice.
 
@@ -2608,7 +2906,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (2) If any difference arises respecting the amount of the claim, the claim shall be a disputed claim within the meaning of this Act, and be dealt with accordingly.
 
-### Personal expenses of candidate and petty expenses
+### Expenses which may be paid otherwise than by election agents
 
 68\.—(1) The candidate at an election may pay any personal expenses incurred by him on account of or in connection with or incidental to the election to an amount not exceeding $1,000, but any further personal expenses so incurred by him shall be paid by his election agent.
 
@@ -2616,9 +2914,19 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (3) The personal expenses of a candidate include his reasonable travelling expenses, and the reasonable expenses of his living at hotels or elsewhere for the purposes of the election.
 
-(4) Any person may, if so authorised in writing by the election agent of the candidate, pay any necessary expense for stationery, postage, telegrams and other petty expenses to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent.
+(4) If so authorised in writing by the election agent of a candidate (referred to in this subsection as candidate A) —
 
-(5) A statement of the particulars of payments made by any person so authorised shall be sent to the election agent within the time limited by this Act for the sending in of claims, and shall be vouched for by a bill containing the receipt of that person.
+(a) any person may pay any necessary expense for stationery, postage, telephonic communication (or any other similar means of communication) and other petty expenses; or
+
+(b) the political party for whom candidate A is standing for election (or an officer thereof authorised by the party to act on its behalf) may pay any expenses incurred on account of or in respect of the conduct or management of the election of candidate A,
+
+to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent of candidate A.
+
+[10/2010 wef 01/07/2010]
+
+(5) A statement of the particulars of payments made by any person or political party so authorised under subsection (4) shall be sent to the election agent within the time limited by this Act for the sending in of claims, and shall be vouched for by a bill containing the receipt of that person or political party, as the case may be.
+
+[10/2010 wef 01/07/2010]
 
 ### Expenses in excess of maximum to be illegal practice
 
@@ -2666,23 +2974,17 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (4) Between 8 a.m. and 8 p.m. on polling day, no person shall park a motor vehicle within 100 metres of any polling station other than a motor vehicle used for the conveyance of any sick, infirm or disabled person for such time as is reasonably necessary to enable the person to cast his vote.
 
-(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 [10/2010 wef 01/07/2010]
 
-(6) A police officer in uniform may, subject to subsection (7), arrest without warrant any person in charge of or driving a motor vehicle, who has committed or is suspected of having committed an offence under this section.
+(6) The illegal practice and the offence under subsections (1A) and (4), respectively, shall each be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-(7) The power of arrest under subsection (6) shall not be exercised if either —
-
-(a) such person on the demand of the police officer produces his driving licence so as to enable the officer to ascertain the name and address of the holder of the licence, the date of issue and the authority by which it was issued; or
-
-(b) such person, not being a paid driver or the driver of a motor vehicle used for the carriage of passengers for hire or reward or for the carriage of goods, gives the officer his name and a place of address within Singapore.
-
-(8) If the officer has reason to suspect that a name or address so ascertained or given is false, he may, notwithstanding subsection (7), exercise the power of arrest under subsection (6).
+[10/2010 wef 01/07/2010]
 
 ### Certain employment to be illegal
 
-72\.—(1) No person shall, for the purpose of promoting or procuring the election of a candidate at any election, be engaged or employed for payment or promise of payment for any purpose or in any capacity whatever, except for the purpose or in the capacities following:
+72\.—(1) Subject to section 62(6) and (7), no person shall, for the purpose of promoting or procuring the election of a candidate at any election, be engaged or employed for payment or promise of payment for any purpose or in any capacity whatever, except for the purpose or in the capacities following:
 
 (a) one election agent and no more;
 
@@ -2704,7 +3006,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 74\.—(1) Within 31 days after the date of publication of the result of an election in theGazette, the election agent of every candidate at that election shall transmit to the Returning Officer a true return (referred to in this Act as the return respecting election expenses), in Form 19 in the First Schedule, containing detailed statements as respects that candidate of —
 
-(a) all payments made by the election agent together with all the bills and receipts referred to in section 66(1), which bills and receipts are in this Act included in the expression “return respecting election expenses” and the dates of payment of all sums for which no receipt is attached;
+(a) all payments made by the election agent together with all the bills and receipts referred to in section 66(1) and any written authority under section 68(4), which bills, receipts and written authority are in this Act included in the expression “return respecting election expenses” and the dates of payment of all sums for which no receipt is attached;
 
 [10/2010 wef 01/07/2010]
 
@@ -2718,9 +3020,25 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 [16/93; 18/2005]
 
+(1A) In every case where section 62(6) applies, within 31 days after the date of publication of the result of an election in a group representation constituency in theGazette, the principal election agent for the group of candidates that stood for the election shall transmit to the Returning Officer a true return (referred to in this Act as the consolidated return respecting election expenses), in Form 19A in the First Schedule, containing detailed statements as respects that group of candidates of —
+
+(a) all payments made by the sub-agent authorised under section 62(6) for the purpose of expenses incurred or to be incurred on account of or in respect of the management of the election for the group, together with all the bills and receipts referred to in section 66(1), and the dates of payment of all sums for which no receipt is attached;
+
+(b) the amount of those payments apportioned (by agreement between the election agents of the respective candidates) to each candidate;
+
+(c) the disputed claims so far as every sub-agent authorised under section 62(6) is aware; and
+
+(d) all unpaid claims, if any, of which every election agent authorised under section 62(6) is aware in respect of which application has been made or is about to be made to an Election Judge or a Judge of the High Court.
+
+[10/2010 wef 01/07/2010]
+
 (2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent which shall be respectively in Forms 19 and 20 in the First Schedule.
 
 [18/2005]
+
+(2A) The consolidated return respecting election expenses shall be signed by the principal election agent and shall be accompanied by a statement made by the principal election agent and every sub-agent authorised under section 62(6), which shall be in Forms 19A and 20A, respectively, in the First Schedule.
+
+[10/2010 wef 01/07/2010]
 
 (3) If the return and statements are not transmitted before the expiration of the time limited for the purpose, the candidate shall not after the expiration of the time sit or vote in Parliament as a Member until either the return and statements have been transmitted or until the date of the allowance of such authorised excuse for failure to transmit them as in this Act mentioned.
 
@@ -2730,7 +3048,11 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 [12/91]
 
-(4) If any candidate or election agent fails to comply with the requirements of subsection (1) or (2), he shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
+(4) If any candidate or election agent fails to comply with the requirements of subsection (1), (2) or (2A), he shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
+
+[10/2010 wef 01/07/2010]
+
+(4A) If any principal election agent, or any election agent authorised as a sub-agent under section 62(6), fails to comply with the requirements of subsection (1A) or (2A), the principal election agent or election agent, as the case may be, shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
 
 [10/2010 wef 01/07/2010]
 
@@ -2762,13 +3084,13 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (2) This section shall extend to the employees of the Railway except such as are actually engaged in the running of trains and to whom such time cannot be allowed without interfering with the manning of the trains; and the General Manager of Railways shall be deemed to be the employer of such employees.
 
-(3) Any employer who, directly or indirectly, refuses, or by intimidation, undue influence, or in any other manner, interferes with the granting to any elector in his employ of a reasonable period for voting shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(3) Any employer who, directly or indirectly, refuses, or by intimidation, undue influence, or in any other manner, interferes with the granting to any elector in his employ of a reasonable period for voting shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [10/2010 wef 01/07/2010]
 
-### Badges, symbols, etc., prohibited on polling day
+### Badges, symbols, etc., prohibited on polling day and eve of polling day
 
-77\.—(1) No badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motorcar, truck or other vehicle as political propaganda on polling day .
+77\.—(1) No badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motorcar, truck or other vehicle as political propaganda on polling day or on the eve of polling day at an election.
 
 [10/2010 wef 01/07/2010]
 
@@ -2776,7 +3098,9 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 [10/88]
 
-(3) Any police officer may arrest without warrant any person offending in his view against any of the provisions of this section and take him before a Magistrate’s Court to be dealt with according to law.
+(3) The offence under subsection (4) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
@@ -2794,13 +3118,17 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (4) Any person who commits an offence under such regulations shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
+(5) Every offence under such regulations shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
+
 ### Regulations for other election advertising
 
 78A\.—(1) The Minister may make regulations —
 
 (a) prescribing the form and manner in which details as to the names and addresses of the publisher of any election advertising not comprising printed matter and of the person for whom or at whose direction it is published must be included in such election advertising for the purpose of complying with section 61(1)(c)(ii); and
 
-(b) regulating election advertising and the publication thereof during an election period on what is commonly known as the Internet by political parties, candidates or their election agents and relevant persons, including prescribing the features that must or must not appear or be used in any such election advertising.
+(b) regulating election advertising and the publication thereof during an election period on what is commonly known as the Internet by political parties, and candidates or their election agents, including prescribing the features that must or must not appear or be used in any such election advertising.
 
 [10/2010 wef 01/07/2010]
 
@@ -2810,49 +3138,47 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 [31/2001]
 
-(3) For the purposes of this section and any regulations made thereunder —
-
-“election period” means the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election;
+(2A) Every offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
 [10/2010 wef 01/07/2010]
 
-“Media Development Authority of Singapore” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act (Cap. 172);
+(3) For the purposes of this section and any regulations made thereunder —
 
-“relevant person” means any person or group of persons in Singapore (other than a political party, a candidate or his election agent) which —
+“election period” means the period beginning with the day the writ of election is issued for an election and ending with the start of polling day at the election.;
 
-(a) provides any programme on the World Wide Web through what is commonly known as the Internet under a class licence; and
+[10/2010 wef 01/07/2010]
 
-(b) is required under the conditions of the class licence to register with the Media Development Authority of Singapore on account of that person or group of persons engaging in or providing any programme for the propagation, promotion or discussion of political issues relating to Singapore,
+### Election advertising ban
 
-and a person or a group of persons shall be regarded as required to register with the Media Development Authority of Singapore even though the time permitted for such registration has not expired.
+78B\.—(1) Except as otherwise provided by or under subsection (2), no person shall, at any time on polling day or the eve of polling day at an election in an electoral division —
 
-[31/2001; 34/2002]
+(a) knowingly publish, or knowingly cause or permit to be published, any election advertising in or among any electors in the electoral division; or
 
-### Election advertising ban on polling day
+(b) knowingly display, or knowingly cause or permit to be displayed, any election advertising on any vehicle, thing or structure within the electoral division or adjoining the electoral division.
 
-78B\.—(1) Subject to subsection (2), no person shall on polling day display or publish, or cause or permit to be displayed or published, any election advertising in or among any electors in any electoral division before the close of all the polling stations in the electoral division.
+(2) Subsection (1) shall not apply to —
 
-[31/2001]
+(a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
 
-(2) Subsection (1) shall not apply in respect of —
+(b) the publication of any news relating to an election —
 
-(a) any election advertising that was lawfully published before polling day on what is commonly known as the Internet and that was not changed after its publication;
+(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act (Cap. 206); or
 
-(b) the continued lawful display or posting of posters or banners;
+(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
 
-(c) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
+(c) the telephonic or electronic transmission by an individual to another individual of the first-mentioned individual’s own political views, on a non-commercial basis;
 
-(d) the transmission by an individual to another individual, on a non-commercial basis on what is commonly known as the Internet, of his own political views;
+(d) any election advertising that was lawfully published or displayed before the start of the eve of polling day at any election on what is commonly known as the Internet and that was not changed after its publication or display;
 
-(e) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast; or
+(e) the continued lawful display or posting of posters or banners that have been displayed or posted before the start of the eve of polling day at any election; and
 
-(f) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
+(f) such activities or circumstances as may be prescribed by the Minister.
 
-[31/2001]
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) Every offence under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[31/2001]
+[10/2010 wef 01/07/2010]
 
 ### Blackout period for election survey results
 
@@ -2860,11 +3186,15 @@ and a person or a group of persons shall be regarded as required to register wit
 
 [31/2001]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/2010 wef 01/07/2010]
 
 [31/2001]
+
+(2A) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 (3) In this section, “election survey” means an opinion survey of how electors will vote at an election or of the preferences of electors respecting any candidate or group of candidates or any political party or issue with which an identifiable candidate or group of candidates is associated at an election.
 
@@ -2880,11 +3210,15 @@ and a person or a group of persons shall be regarded as required to register wit
 
 [31/2001]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/2010 wef 01/07/2010]
 
 [31/2001]
+
+(2A) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 (3) In this section —
 
@@ -2910,7 +3244,7 @@ and a person or a group of persons shall be regarded as required to register wit
 
 ### Punishment for conviction for illegal practice
 
-79\.—(1) Every person who commits an illegal practice shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $300 and become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
+79\.—(1) Every person who commits an illegal practice shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 and become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
 [10/2010 wef 01/07/2010]
 
@@ -2920,27 +3254,65 @@ and a person or a group of persons shall be regarded as required to register wit
 
 [15/2010 wef 02/01/2011]
 
-### Prohibition of canvassing on polling day
+### Prohibition of canvassing on polling day and eve of polling day
 
-80\.—(1) No person shall on polling day —
+80\.—(1) No person shall on polling day and the eve of polling day at an election in an electoral division—
 
-(a) by word, message, writing or in any other manner endeavour to persuade any person to give or dissuade any person from giving his vote at an election; or
-
-[10/2010 wef 01/07/2010]
-
-(b) visit an elector at his home or place of work for any purpose in connection with an election.
+(a) by word, message, writing or in any other manner endeavour to persuade any person to give or dissuade any person from giving his vote at the election; or
 
 [10/2010 wef 01/07/2010]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(b) visit an elector at his home or place of work for any purpose in connection with the election.
+
+[10/2010 wef 01/07/2010]
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/2010 wef 01/07/2010]
 
 (3) Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
-(4) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
+(4) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-(5) For the purposes of this section, any person who, on polling day , enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place of work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1)(a) and (b).
+[10/2010 wef 01/07/2010]
+
+(5) For the purposes of this section, any person who, on polling day or on the eve of polling day, enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place of work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1)(a) and (b).
+
+[10/2010 wef 01/07/2010]
+
+### Restrictions on election meetings
+
+80A\.—(1) Without prejudice to sections 12 and 13 of the Public Order Act 2009 (Act 15 of 2009), and notwithstanding section 14 of that Act, all election meetings, wherever held, are prohibited —
+
+(a) in the case of a general election, on polling day and the eve of polling day at the general election; or
+
+(b) in the case of a by-election in any electoral division, on polling day and the eve of polling day at the by-election,
+
+and notwithstanding section 7 of that Act, no permit shall be granted under Part II of that Act for such an election meeting even if a notice under section 6 of that Act is given in respect of that election meeting.
+
+(2) Notwithstanding section 14 of the Public Order Act 2009, an election meeting shall not take place within any public place that is designated as an unrestricted area under that section during any of the following periods:
+
+(a) in the case of a general election, between the day of nomination appointed for the general election and the day before the eve of polling day at that general election (both days inclusive); or
+
+(b) in the case of a by-election in any electoral division, between the day of nomination appointed for the by-election and the day before the eve of polling day at that by-election (both days inclusive),
+
+unless the Commissioner of Police is notified under section 6 of that Act of the intention to hold the election meeting, and a permit is granted under section 7 of that Act in respect of that election meeting; and Part II of that Act shall apply to such an election meeting as if it does not take place within an unrestricted area.
+
+(3) Any reference in the Public Order Act 2009 to an assembly or a procession that is unlawful under Part II of that Act shall include a reference to an election meeting —
+
+(a) that is held in contravention of subsection (1) or (2); or
+
+(b) in the case of an election meeting that takes place in an unrestricted area within the meaning of section 14 of the Public Order Act 2009 —
+
+(i) that is held on a date or at a time which differs from the date or time specified in relation to the election meeting in the notice given under section 6 of that Act; or
+
+(ii) that is not in compliance with any requirement imposed by section 8(1) of that Act or any condition imposed under section 8(2) of that Act on organisers or persons taking part in that election meeting.
+
+(4) In this section, “election meeting” means a public assembly (within the meaning of the Public Order Act 2009) organised by or on behalf of a candidate nominated for election —
+
+(a) to promote or procure the electoral success at the election for one or more identifiable political parties, candidates or groups of candidates; or
+
+(b) to otherwise enhance the standing of any such political parties, candidates or groups of candidates with the electorate in connection with the election.
 
 [10/2010 wef 01/07/2010]
 
@@ -2948,13 +3320,15 @@ and a person or a group of persons shall be regarded as required to register wit
 
 81\.—(1) No person shall between the day of nomination and polling day (both days being inclusive) at any election, by word, message, writing or in any other manner dissuade or attempt to dissuade any person from giving his vote at the election.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/2010 wef 01/07/2010]
 
 (3) Notwithstanding the provisions of the Criminal Procedure Code relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
-(4) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
+(4) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 ### Undue influence at or near polling station
 
@@ -2974,11 +3348,13 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (1A) Notwithstanding subsection (1), every candidate or his election agent may open or maintain in his electoral division one office for each polling district, which shall not be within a radius of 200 metres of any polling station, and the address of every such office shall be registered by the candidate or his election agent with the Returning Officer before polling day.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/2010 wef 01/07/2010]
 
-(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
+(3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 ### Persons prohibited from conducting election activity
 
@@ -2994,21 +3370,31 @@ and a person or a group of persons shall be regarded as required to register wit
 
 shall take part in any election activity.
 
+(1A) An individual who is not a citizen of Singapore shall not knowingly publish or display, or knowingly cause or permit to be published or displayed, any election advertising in or among any electors in an electoral division during the period beginning with the day the writ of election is issued for an election and ending with the start of the eve of polling day at the election.
+
+[10/2010 wef 01/07/2010]
+
 (2) No person shall conduct any election activity unless he is in possession of a written authority signed by a candidate or his election agent in Form 22 or Form 23, as the case may be, in the First Schedule; and such authority shall be issued only on or after the day of nomination.
 
 (3) Every candidate and election agent shall supply particulars in duplicate of all written authorities issued by him under subsection (2) to the Returning Officer, who shall on receipt thereof forward a copy of those particulars to the Commissioner of Police.
 
 (4) A candidate or election agent shall, if so required by the Commissioner of Police, immediately withdraw and deliver to the Returning Officer the written authority given by the candidate or election agent to any person who is stated by the Commissioner of Police to be a person in respect of whom an order has been made under section 30(b) of the Criminal Law (Temporary Provisions) Act.
 
-(5) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(5) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [10/2010 wef 01/07/2010]
 
 (6) No candidate or election agent shall authorise any person to conduct an election activity, knowing or having reason to believe that the person is attending a primary or secondary school as a student or that an order has been made in respect of the person under section 30(b) of the Criminal Law (Temporary Provisions) Act.
 
-(7) Any police officer may arrest without warrant any person offending in his view against subsection (1) or (2) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
+(7) Every offence under this section for contravening subsection (1), (1A) or (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 (8) For the purposes of this section, “election activity” includes any activity which is done for the purpose of promoting or procuring the election of a candidate at any election other than clerical work wholly performed within enclosed premises.
+
+(9) Nothing in this section shall prohibit the carrying out by any prescribed person, or person in a prescribed class of persons, of such type of work as is prescribed, being work that is performed solely pursuant to a contract for service entered into with a person authorised to conduct election activity under this section.
+
+[10/2010 wef 01/07/2010]
 
 ### Unlawful assembly
 
@@ -3024,11 +3410,13 @@ the assembly shall be deemed to be an unlawful assembly as defined in section 14
 
 85\.—(1) It shall be an offence for a person to operate any loudspeaker or other instrument for the production or reproduction of any speech, sound or music in any street or public place or any premises adjoining any street or public place, so as to interfere with any election meeting or so as to cause annoyance to persons conducting or attending the meeting.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months.
 
 [10/2010 wef 01/07/2010]
 
-(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
+(3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[10/2010 wef 01/07/2010]
 
 EXCUSE FOR CORRUPT AND ILLEGAL PRACTICE
 
@@ -3066,11 +3454,11 @@ and in the circumstances it seems to the Judge, after giving the candidates, the
 
 88\.—(1) Where the return and statements respecting election expenses of a candidate at an election have not been transmitted as required by this Act, or being transmitted contain some error or false statement, then —
 
-(a) if the candidate applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
+(a) if the candidate applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent, of the principal election agent appointed for the group of candidates of whom the candidate is one or the sub-agent that his election agent authorised under section 62(6), or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
 
 [10/2010 wef 01/07/2010]
 
-(b) if the election agent of the candidate applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
+(b) if the election agent of the candidate, or the principal election agent appointed for the group of candidates of whom the candidate is one, or the election agent authorised as a sub-agent under section 62(6), applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
 
 [10/2010 wef 01/07/2010]
 
@@ -3078,7 +3466,7 @@ the Judge may, after such notice of the application, and on production of such e
 
 [16/93]
 
-(2) Where it appears to the Judge that any person being or having been an election agent has refused or failed to make such return or supply such particulars as will enable the candidate and his election agent respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall —
+(2) Where it appears to the Judge that any person being or having been an election agent or a principal election agent has refused or failed to make such return or supply such particulars as will enable the candidate and his election agent or the candidate and the principal election agent appointed for the group of candidates of whom the candidate is one, or the election agent authorised as a sub-agent under section 62(6), respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall —
 
 (a) before making an order allowing the excuse as in this section mentioned shall order the person to attend before the Judge; and
 
@@ -3090,7 +3478,7 @@ the Judge may, after such notice of the application, and on production of such e
 
 (4) An order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order.
 
-(5) Where it is proved by the candidate to the Judge that any act or omission of the election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his election agent .
+(5) Where it is proved by the candidate to the Judge that any act or omission of the election agent or principal election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his election agent or principal election agent, as the case may be.
 
 [10/2010 wef 01/07/2010]
 
@@ -3340,7 +3728,11 @@ GENERAL
 
 104\.—(1) Where any notice is required by this Act to be published and, in the opinion of the authority who is required to publish the notice, the prescribed mode of publication does not give sufficient publicity to the notice, he may, in addition to publishing the notice as required by this Act, exhibit copies of the notice in conspicuous places within the electoral division to which the notice relates or take such other steps as he may consider necessary for giving publicity thereto.
 
-(2) Every person who, without lawful authority, destroys, mutilates, defaces or removes any notice which is exhibited by any authority under subsection (1) or any document which is made available for inspection in accordance with this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 .
+(2) Every person who, without lawful authority, destroys, mutilates, defaces or removes any notice which is exhibited by any authority under subsection (1) or any document which is made available for inspection in accordance with this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[10/2010 wef 01/07/2010]
+
+(3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
 [10/2010 wef 01/07/2010]
 
@@ -4153,6 +4545,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 8/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|25 August 2008|
 ||Date of commencement|3 March 2009|
+|62.|**Act 10 of 2010—Parliamentary Elections (Amendment) Act 2010**|
+||Date of First Reading|11 March 2010|
+|||(Bill No. 4/2010 published on 11 March 2010)|
+||Date of Second and Third Readings|27 April 2010|
+||Date of commencement|1 July 2010|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
