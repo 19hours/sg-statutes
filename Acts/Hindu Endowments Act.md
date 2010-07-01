@@ -40,13 +40,15 @@
 
 - [17 Power to acquire, develop, etc., property](#Power-to-acquire-develop-etc-property)
 
+- [17A Power to form company, etc.](#Power-to-form-company-etc)
+
 - [18 Minister may order endowment to be administered by Board](#Minister-may-order-endowment-to-be-administered-by-Board)
 
 - [19 Property to vest in Board](#Property-to-vest-in-Board)
 
 - [20 Board to appoint committee of management](#Board-to-appoint-committee-of-management)
 
-- [21 General powers of Board](#General-powers-of-Board)
+- [21 Powers and functions of Board](#Powers-and-functions-of-Board)
 
 - [22 Power to require accounts from any trustee and others](#Power-to-require-accounts-from-any-trustee-and-others)
 
@@ -73,6 +75,8 @@
 - [33 Court may alter or modify or approve scheme](#Court-may-alter-or-modify-or-approve-scheme)
 
 - [34 Schemes when approved to be certified by Court](#Schemes-when-approved-to-be-certified-by-Court)
+
+- [34A Protection from personal liability](#Protection-from-personal-liability)
 
 - [35 Rules](#Rules)
 
@@ -102,7 +106,7 @@ An Act to provide for the administration of Hindu religious and charitable endow
 
 ### Interpretation
 
-2\. In this Act “endowment” means any endowment in land, building or money given or to be given for the support of any Hindu temple or Hindu shrine or school or other Hindu pious, religious, charitable or beneficial purpose.
+2\. In this Act, “endowment” means any endowment in land, building or money given or to be given for the support of any Hindu temple or Hindu shrine or school or other Hindu pious, religious, charitable or beneficial purpose.
 
 ### Constitution
 
@@ -128,6 +132,8 @@ An Act to provide for the administration of Hindu religious and charitable endow
 
 all of whom shall be appointed by the Minister.
 
+[2/93]
+
 (2) Subject to the provisions of this Act and unless the contrary intention appears in the instrument of appointment, the appointment of members under subsection (1) shall be for a period of 3 years from the date thereof.
 
 (3) The members of the Board shall be eligible for reappointment except that a Finance member shall not be appointed for more than two consecutive terms as a Finance member but may, at the end of the second consecutive term, be appointed in any capacity in the Board except as a Finance member.
@@ -141,8 +147,6 @@ all of whom shall be appointed by the Minister.
 (b) is a citizen of Singapore.
 
 (5) The members of the Board shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
-
-[2/93]
 
 ### Secretary
 
@@ -204,9 +208,9 @@ all of whom shall be appointed by the Minister.
 
 12\.—(1) No business, except that of adjournment, shall be transacted and no action or resolution of the Board shall be valid unless at least 7 members or one-third of the members, whichever is the greater, are present at the meeting.
 
-(2) The Board may, subject to subsection (1), act notwithstanding any vacancy in its membership.
-
 [2/93]
+
+(2) The Board may, subject to subsection (1), act notwithstanding any vacancy in its membership.
 
 ### Use of seal
 
@@ -228,9 +232,9 @@ Provided that, in the absence of the Chairman or the Secretary of the Board or b
 
 14\.—(1) Subject to such directions as may be given to him by the Chairman, the Secretary of the Board shall have charge of all correspondence and documents of the Board, including all title deeds, and shall in all other respects carry out such duties as may be imposed upon him by this Act or allotted to him by direction of the Board.
 
-(2) The Finance member shall have charge of all books of account of the Board and shall be responsible for the proper collection of, accounting for and disposal of all funds of the Board.
-
 [2/93]
+
+(2) The Finance member shall have charge of all books of account of the Board and shall be responsible for the proper collection of, accounting for and disposal of all funds of the Board.
 
 ### Minutes
 
@@ -244,13 +248,13 @@ Provided that, in the absence of the Chairman or the Secretary of the Board or b
 
 16\.—(1) The Board may from time to time appoint committees, other than a committee of management referred to in section 20, consisting of one or more persons (whether members of the Board or not) for the purpose of advancing its objectives.
 
+[2/93]
+
 (2) The Board may define and vary the terms of reference of such committees and alter and discharge such committees.
 
 (3) Subject to this Act and to the control of the Board, a committee appointed under this section may regulate its own procedure.
 
 [15A
-
-[2/93]
 
 ### Power to acquire, develop, etc., property
 
@@ -262,11 +266,23 @@ Provided that, in the absence of the Chairman or the Secretary of the Board or b
 
 (c) convey, assign, surrender and yield up, charge, mortgage, demise, reassign, lease, sub-lease or licence, transfer or otherwise dispose of, or deal with, any movable or immovable property vested in, belonging to or acquired by the Board upon such terms as the Board thinks fit.
 
+[2/93]
+
 (2) A property vested in the Board may be developed, disposed of or otherwise dealt with by the Board in the manner provided under subsection (1)(b) and (c) notwithstanding section 19 or a trust or condition (express or implied) prohibiting or restricting such development, disposal of or other dealing with the property.
 
 [15B
 
-[2/93]
+### Power to form company, etc.
+
+17A\. The Board may, with the approval of the Minister, form or participate in the formation of any company, or enter into any joint venture or partnership, to carry out any of the following:
+
+(a) the purposes of this Act;
+
+(b) the functions conferred or activities authorised by this Act;
+
+(c) the purposes of any endowment administered by the Board pursuant to an order of the Minister under section 18.
+
+[12/2010 wef 01/07/2010]
 
 ### Minister may order endowment to be administered by Board
 
@@ -296,7 +312,7 @@ the Minister may order that the endowment shall be administered by the Board.
 
 ### Board to appoint committee of management
 
-20\.—(1) For the purpose of the management of each such endowment or part thereof the Board shall, subject to the approval of the Minister, appoint a committee of management to act under the control of the Board.
+20\.—(1) For the purpose of the management of each such endowment or part thereof, the Board shall, subject to the approval of the Minister, appoint a committee of management to act under the control of the Board.
 
 (2) Every such committee shall consist of at least one member of the Board, and of not more than 7 other persons.
 
@@ -324,9 +340,9 @@ the Minister may order that the endowment shall be administered by the Board.
 
 [18
 
-### General powers of Board
+### Powers and functions of Board
 
-21\. The Board shall with respect to any such endowment have all such powers as it would have had if it had been named as trustee in the instrument creating the endowment, and in any case may —
+21\. The Board shall, with respect to any such endowment, have all such powers as it would have had if it had been named as trustee in the instrument creating the endowment, and in addition may, in any case —
 
 (a) appoint and remove any employee of any such endowment;
 
@@ -334,21 +350,23 @@ the Minister may order that the endowment shall be administered by the Board.
 
 (c) expend the income —
 
-(i) in defraying the expenses of the management of the endowment and of the Board; and
+(i) in defraying the expenses of the management of the endowment and of the Board;
 
 (ii) in carrying out the purposes of the endowment;
+
+(iii) in promoting social, cultural, educational or other activities that the Board considers to be for the public benefit; and
+
+(iv) in fostering inter-religious communication and harmony;
 
 (d) raise funds by means of voluntary subscriptions, donations or contributions for the purposes of exercising its powers, performing its duties and discharging its obligations under this Act; and
 
 (e) promote or undertake publicity in any form.
 
-[19
-
-[2/93]
+[12/2010 wef 01/07/2010]
 
 ### Power to require accounts from any trustee and others
 
-22\.—(1) The Board may at any time require written accounts and statements and answers to enquiries relating to any endowment or the property or income thereof to be rendered by any of the following persons;
+22\.—(1) The Board may at any time require written accounts and statements and answers to enquiries relating to any endowment or the property or income thereof to be rendered by any of the following persons:
 
 (a) trustees or persons who are or have been at any time acting or concerned in the administration of the endowment or income or in the receipt or payment of any moneys thereof;
 
@@ -374,7 +392,7 @@ the Minister may order that the endowment shall be administered by the Board.
 
 ### Penalty for non-compliance
 
-24\. Any person who refuses or wilfully neglects to comply with any requisition or order of the Board made under this Act, or destroys or withholds any document required to be produced or transmitted by him, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $400 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+24\. Any person who refuses or wilfully neglects to comply with any requisition or order of the Board made under this Act, or destroys or withholds any document required to be produced or transmitted by him, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day during which the offence continues after conviction.
 
 [12/2010 wef 01/07/2010]
 
@@ -444,6 +462,8 @@ the Board may grant any such lease or do any such act, although such leases or a
 
 29\.—(1) The Secretary of the Board shall keep or cause to be kept full and true accounts of all properties, funds, securities, investments and assets belonging to or arising out of the endowments administered by the Board and also of all moneys received and paid respectively on account of such endowments and shall, as soon as possible after 31st March of every year but not later than 31st December of that year, prepare and submit to a meeting of the Board a report on the activities of the Board for the preceding financial year, together with a balance-sheet as at 31st March, an income and expenditure account for the year and a list of properties and investments of each endowment showing their cost, if bought, and estimated value as at 31st March.
 
+[33/73]
+
 (2) Such annual balance-sheet, income and expenditure account and list of properties and investments shall, prior to their submission to a meeting of the Board, be audited and certified as correct by an auditor to be appointed by the Board and approved by the Minister.
 
 (3) For the purposes of subsection (1), “financial year” means a period of 12 months ending on 31st March in any year.
@@ -490,7 +510,7 @@ the Board may grant any such lease or do any such act, although such leases or a
 
 [42/2005 wef 01/01/2006]
 
-(2) At the hearing of the application, the High Court shall consider any objections so made, and may, if it thinks fit, alter or modify the scheme according to any such objections, and after all the objections have been made the Court may proceed to approve the scheme and to certify it in the manner hereinafter mentioned.
+(2) At the hearing of the application, the High Court shall consider any objections so made, and may, if it thinks fit, alter or modify the scheme according to any such objections, and after all the objections have been made, the Court may proceed to approve the scheme and to certify it in the manner hereinafter mentioned.
 
 [42/2005 wef 01/01/2006]
 
@@ -505,6 +525,20 @@ the Board may grant any such lease or do any such act, although such leases or a
 (3) From the date of that certificate, the property and the funds of the endowment shall be applied, and the endowment shall be managed, in accordance with the scheme thereby certified.
 
 [32
+
+### Protection from personal liability
+
+34A\. No suit or other legal proceedings shall lie personally against —
+
+(a) any member of the Board;
+
+(b) the Secretary of the Board; or
+
+(c) any employee of the Board or other person acting under the direction of the Board,
+
+for anything which is in good faith done or intended to be done by him in the execution or purported execution of this Act.
+
+[12/2010 wef 01/07/2010]
 
 ### Rules
 
@@ -522,15 +556,11 @@ the Board may grant any such lease or do any such act, although such leases or a
 
 ### Transfer and vesting of property vested in Muslim and Hindu Endowments Board
 
-37\.—(1) Upon the date of commencement of this Act, all property, movable and immovable, belonging to Hindu endowments, that was, immediately before that date, vested in the Muslim and Hindu Endowments Board incorporated under the Muslim and Hindu Endowments Ordinance shall be transferred to and vest in the Board without further assurance upon the same tenure and subject to the same trusts and conditions as those upon which it was previously held by the Muslim and Hindu Endowments Board; and all rights relating to Hindu endowments vested in that Board immediately before that date and all liabilities relating to Hindu endowments to which that Board was subject immediately before that date in respect of that property shall be transferred to and vest in the Board.
+37\.—(1) Upon the date of commencement of this Act, all property, movable and immovable, belonging to Hindu endowments, that was, immediately before that date, vested in the Muslim and Hindu Endowments Board incorporated under the Muslim and Hindu Endowments Ordinance [1955 Ed., Cap. 271] shall be transferred to and vest in the Board without further assurance upon the same tenure and subject to the same trusts and conditions as those upon which it was previously held by the Muslim and Hindu Endowments Board; and all rights relating to Hindu endowments vested in that Board immediately before that date and all liabilities relating to Hindu endowments to which that Board was subject immediately before that date in respect of that property shall be transferred to and vest in the Board.
 
-(2) Any reference in any written law, order of court, deed, contract, instrument or other documents whatsoever to the Muslim and Hindu Endowments Board incorporated under the Muslim and Hindu Endowments Ordinance in its capacity as trustee of Hindu endowments shall be construed as a reference to the Board and all rights, powers, obligations and duties conferred, imposed on, undertaken or incurred by the Muslim and Hindu Endowments Board in that capacity under that written law, order of court, deed, contract, instrument or other documents shall be deemed to be conferred or imposed on or undertaken or incurred by the Board.
+(2) Any reference in any written law, order of court, deed, contract, instrument or other documents whatsoever to the Muslim and Hindu Endowments Board incorporated under the Muslim and Hindu Endowments Ordinance [1955 Ed., Cap. 271] in its capacity as trustee of Hindu endowments shall be construed as a reference to the Board and all rights, powers, obligations and duties conferred, imposed on, undertaken or incurred by the Muslim and Hindu Endowments Board in that capacity under that written law, order of court, deed, contract, instrument or other documents shall be deemed to be conferred or imposed on or undertaken or incurred by the Board.
 
 [35
-
-[1955 Ed., Cap. 271.]
-
-[1955 Ed., Cap. 271.]
 
 ## LEGISLATIVE HISTORY
 
@@ -543,26 +573,30 @@ This Legislative History is provided for the convenience of users of the Hindu E
 ||||
 |:-|:-|:-|
 |1.|**Act 30 of 1968—Hindu Endowments Act 1968**|
-||Date of First, Second and Third Readings|Date not available.|
 ||Date of commencement|1 May 1969|
-|2.|**1970 Revised Edition (Cap. 306)—Hindu Endowments Act 1970**|
-||Date of operation|1 January 1970|
-|3.|**Act 33 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 2) Act 1973**|
+|2.|**1970 Revised Edition—Hindu Endowments Act (Cap. 306)**|
+||Date of operation|31 August 1971|
+|3.|**Act 33 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 3) Act 1973**|
 ||Date of First Reading|11 July 1973|
-|||(Bill No. 34/1973 published on 16 July 1973)|
+|||(Bill No. 35/1973 published on 16 July 1973)|
 ||Date of Second and Third Readings|26 July 1973|
-||Date of commencement|24 August 1973|
+||Date of commencement|1 September 1973|
 |4.|**1985 Revised Edition—Hindu Endowments Act**|
-||Date of operation|1 January 1985|
+||Date of operation|30 March 1987|
 |5.|**Act 2 of 1993—Hindu Endowments (Amendment) Act 1993**|
 ||Date of First Reading|16 November 1992|
-|||(Bill No. 39/1992 published on 26 February 1993)|
+|||(Bill No. 39/1992 published on 17 November 1992|
 ||Date of Second and Third Readings|18 January 1993|
 ||Date of commencement|15 March 1993|
 |6.|**1994 Revised Edition—Hindu Endowments Act**|
 ||Date of operation|15 March 1994|
 |7.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 30/2005 published on 16 December 2005)|
+|||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
-||Dates of commencement|1 January 2006 (item (37) in the First Schedule)|
+||Date of commencement|1 January 2006 (item (37) in the First Schedule)|
+|8.|**Act 12 of 2010—Hindu Endowments (Amendment) Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 8/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|18 May 2010|
+||Date of commencement|1 July 2010|
