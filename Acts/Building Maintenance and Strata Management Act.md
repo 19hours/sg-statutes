@@ -855,11 +855,13 @@ and the Commissioner accepts that amended schedule of strata units under section
 
 (2) In subsection (1)(b), “collective sale contract” means —
 
-(a) any sale and purchase agreement referred to in section 84A, 84D, 84E or 84F of the Land Titles (Strata) Act (Cap. 158);
+(a) any sale and purchase agreement referred to in section 84A, 84D, 84E, 84F, or 84FA of the Land Titles (Strata) Act (Cap. 158);
 
 (b) any sale and purchase agreement whereby the owners of all the lots in a development agree to sell all their lots to a purchaser; or
 
 (c) any sale and purchase agreement whereby the owner of any land agrees to sell the land to a purchaser either by itself or together with the owners of any adjacent land.
+
+[13/2010 wef 15/07/2010]
 
 [LT(S)A, s. 7(9A) and (14)]
 
@@ -2007,7 +2009,13 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (v) any interest payable under section 40(6)(b) in respect of any unpaid contribution referred to in that subsection; and
 
-(vi) whether the management corporation has received a copy of any application or order of any Board made under section 84A of the Land Titles (Strata) Act (Cap. 158).
+(vi) whether the management corporation has received a copy of any application made to, or any order of, any Board or the High Court under section 84A or 84FA of the Land Titles (Strata) Act (Cap. 158).
+
+[13/2010 wef 15/07/2010]
+
+(1A) A management corporation for a strata title plan shall, upon application made to it in writing by a collective sale committee constituted in accordance with the Land Titles (Strata) Act (Cap. 158) for the purposes of a collective sale under section 84A or 84FA of that Act and on payment by the collective sale committee of the prescribed fee, furnish a copy of extracts from the strata roll containing the information referred to in section 46(3) in respect of every lot comprised in that strata title plan.
+
+[13/2010 wef 15/07/2010]
 
 (2) Where an applicant and a management corporation fail to reach an agreement referred to in subsection (1)(b) within 7 days after the receipt of the application by the management corporation, the management corporation shall immediately send by post to the applicant a notice fixing a time, specified in the notice, between 9 a.m. and 6 p.m. on a date so specified, being a date not later than 21 days after the receipt of the application by the management corporation for the making of the inspection referred to in that subsection.
 
@@ -3099,7 +3107,7 @@ Strata Titles Boards
 
 ### Proceedings of Board
 
-92\.—(1) A Board shall, without delay after being constituted in respect of any dispute or matter with respect to which it has jurisdiction under this Act —
+92\.—(1) Subject to the provisions of the Land Titles (Strata) Act, a Board shall, without delay after being constituted in respect of any dispute or matter with respect to which it has jurisdiction under this Act —
 
 (a) endeavour to mediate all matters that are in dispute and to bring about an agreement between the parties on those matters; and
 
@@ -5424,7 +5432,7 @@ Building Maintenance and Strata Management Act
 
 (CHAPTER 30C)
 
-This Legislative History is provided for the convenience of users of the Building Maintenance and Strata Management Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Building Maintenance and Strata Management Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -5472,6 +5480,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|9.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 9/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|18 May 2010|
+||Date of commencement|15 July 2010|
 ## COMPARATIVE TABLE
 
 Building Maintenance and Strata Management Act
