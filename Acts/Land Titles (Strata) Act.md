@@ -112,7 +112,7 @@
 
 - [84A Application for collective sale of parcel by majority of subsidiary proprietors who have made conditional sale and purchase agreement](#Application-for-collective-sale-of-parcel-by-majority-of-subsidiary-proprietors-who-have-made-conditional-sale-and-purchase-agreement)
 
-- [84B Effect of order of Board](#Effect-of-order-of-Board)
+- [84B Effect of order of High Court or Board](#Effect-of-order-of-High-Court-or-Board)
 
 - [84C Power of president, etc., of Board to appoint person to act for certain subsidiary proprietor](#Power-of-president-etc-of-Board-to-appoint-person-to-act-for-certain-subsidiary-proprietor)
 
@@ -1216,13 +1216,15 @@ COLLECTIVE SALE OF PROPERTY
 
 ### Application for collective sale of parcel by majority of subsidiary proprietors who have made conditional sale and purchase agreement
 
-84A\.—(1) An application to a Board for an order for the sale of all the lots and common property in a strata title plan may be made by —
+84A\.—(1) An application for an order for the sale of all the lots and common property in a strata title plan may be made by —
 
 (a) the subsidiary proprietors of the lots with not less than 90% of the share values and not less than 90% of the total area of all the lots (excluding the area of any accessory lot) as shown in the subsidiary strata certificates of title where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the strata title plan or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan, whichever is the later; or
 
 (b) the subsidiary proprietors of the lots with not less than 80% of the share values and not less than 80% of the total area of all the lots (excluding the area of any accessory lot) as shown in the subsidiary strata certificates of title where 10 years or more have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the strata title plan or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan, whichever is the later,
 
 who have agreed in writing to sell all the lots and common property in the strata title plan to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the subsidiary proprietors (whether in cash or kind or both), subject to an order being made under subsection (6) or (7).
+
+[13/2010 wef 15/07/2010]
 
 [21/99; 46/2007]
 
@@ -1238,53 +1240,105 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [21/99; 46/2007]
 
-(3) Subject to subsection (7C), no application may be made under subsection (1) by the subsidiary proprietors referred to in subsection (1) unless they have complied with the requirements specified in the First, Second and Third Schedules and have provided an undertaking to pay the costs of the Board under subsection (5).
+(2A) An application under subsection (1) for an order for the sale of all the lots and common property in a strata title plan —
+
+(a) must be made to a Board in the first instance; and
+
+(b) may be made to the High Court thereafter if, and only if, a section 84A stop order is issued by the Board under subsection (6A)(b) with respect to the application to that Board in respect of the same sale.
+
+[13/2010 wef 15/07/2010]
+
+(2B) An application to the High Court under subsection (1) for an order for the sale of all the lots and common property in a strata title plan must be made within a period of 14 days after a section 84A stop order is issued by a Board under subsection (6A)(b) in relation to the same sale.
+
+[13/2010 wef 15/07/2010]
+
+(3) Subject to subsection (7C), no application may be made to a Board under subsection (1) by the subsidiary proprietors referred to in subsection (1) unless they have complied with the requirements specified in the First, Second and Third Schedules and have provided an undertaking to pay the costs of the Board under subsection (5).
 
 [13/2010 wef 15/07/2010]
 
 [46/2007]
 
-(4) A subsidiary proprietor of any lot in the strata title plan who has not agreed in writing to the sale referred to in subsection (1) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in land and whose interest is notified on the land-register for that lot may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
+(4) In the case of an application to a Board under subsection (1) for an order for the sale of all the lots and common property in a strata title plan, each of the following persons may file an objection to the sale, stating the grounds of objection, within a period of 21 days after the date of the notice served pursuant to paragraph 1(e) of the First Schedule or such longer period as the Board allows in exceptional circumstances, whether before or after the end of the 21 days:
 
-[21/99; 47/2004; 46/2007]
+(a) a subsidiary proprietor of any lot in the strata title plan who has not agreed in writing to the sale; and
+
+(b) a mortgagee, chargee or other person (other than a lessee) with an estate or interest in land and whose interest is notified on the land-register for that lot.
+
+[13/2010 wef 15/07/2010]
 
 (4A) Where a section 84A stop order is issued under subsection (6A)(b) in respect of an application to a Board under subsection (1) for an order for the sale of all the lots and common property in a strata title plan, and an application is then made to the High Court under subsection (1) for an order for the same sale of all the lots and common property in the same strata title plan, any person referred to in subsection (4)(a) or (b) who filed an objection to the Board (but no others) may re-file his objection to the sale, stating the same grounds of objection, to the High Court in the manner and within the time delimited by the Rules of Court.
 
 (5) The Board shall have power —
 
-(a) to mediate in any matter arising from an application made under subsection (1);
+(a) to mediate in any matter arising from an application made to it under subsection (1);
+
+[13/2010 wef 15/07/2010]
+
+(aa) to summon any person whom the Board is of the view is connected or otherwise related to the sale which is the subject of the application, to attend before the Board at the time and place specified in the summons and to produce such books, documents or other records in the person’s custody or control which the person is required by the summons to produce;
 
 [13/2010 wef 15/07/2010]
 
 (b) to call for a valuation report or other report and to require the subsidiary proprietors referred to in subsection (1) to pay for the costs; and
 
-(c) to impose such conditions as it may think fair and reasonable in approving an application under subsection (1).
+(c) to impose such conditions as it may think fair and reasonable in approving an application made to it under subsection (1).
 
 [13/2010 wef 15/07/2010]
 
 [21/99; 46/2007]
 
-(6) Where an application has been made under subsection (1) and no objection has been filed under subsection (4), the Board shall, subject to subsection (9), approve the application and order that the lots and common property in the strata title plan be sold.
+(5A) Where an application is made under subsection (1) to the High Court in the circumstances described in subsection (2A)(b), the High Court shall, without prejudice to such other powers it may have under law, have power —
+
+(a) to summon any person whom the Court is of the view is connected or otherwise related to the sale which is the subject of the application, to attend before the Court at the time and place specified in the summons and to produce such books, documents or other records in the person’s custody or control which the person is required by the summons to produce;
+
+(b) to call for a valuation report or other report and to require the subsidiary proprietors referred to in subsection (1) to pay for the costs; and
+
+(c) to impose such conditions as it may think fair and reasonable in approving the application.
+
+[13/2010 wef 15/07/2010]
+
+(6) Where an application has been made under subsection (1) to a Board and no objection has been filed under subsection (4), the Board shall, subject to subsection (9), approve the application and order that the lots and common property in the strata title plan be sold.
 
 [13/2010 wef 15/07/2010]
 
 [21/99]
 
-(7) Where one or more objections have been filed under subsection (4), the Board shall, subject to subsection (9), after mediation, if any, approve the application made under subsection (1) and order that the lots and common property in the strata title plan be sold unless, having regard to the objections, the Board is satisfied that —
+(6A) Where an application is made under subsection (1) to a Board, and one or more objections have been filed under subsection (4) in relation to that application —
+
+(a) the Board shall mediate matters that are in dispute between the objectors and the applicants to achieve a resolution of the dispute; and
+
+(b) if —
+
+(i) at the end of a period of 60 days starting from the first day set aside for mediation; or
+
+(ii) mediation has proceeded as far as it reasonably can in an attempt to achieve a resolution of the dispute but has nevertheless failed to resolve the dispute,
+
+whichever first occurs, one or more of those objections are not withdrawn, the Board shall, subject to subsection (6B), order a discontinuance of all proceedings before it in connection with that application (referred to in this section as a section 84A stop order).
+
+[13/2010 wef 15/07/2010]
+
+(6B) No section 84A stop order shall be made by a Board under subsection (6A)(b) with respect to an application made to it under subsection (1) unless —
+
+(a) the Board has, by notice served on every objector who filed an objection under subsection (4) in relation to that application and the authorised representatives of the applicants, informed the objector and authorised representatives of its intention to make a section 84A stop order; and
+
+(b) at the end of a period of 7 days after the notice under paragraph (a) is so served, one or more of those objections so filed are not withdrawn.
+
+[13/2010 wef 15/07/2010]
+
+(7) Where one or more objections have been filed under subsection (4A) in respect of an application under subsection (1) to the High Court, the High Court shall, subject to subsection (9), approve the application and order that all the lots and common property in the strata title plan be sold unless, having regard to the objections, the High Court is satisfied that —
 
 (a) any objector, being a subsidiary proprietor, will incur a financial loss; or
 
 (b) the proceeds of sale for any lot to be received by any objector, being a subsidiary proprietor, mortgagee or chargee, are insufficient to redeem any mortgage or charge in respect of the lot.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(7A) An order made under subsection (7) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4), be increased if the Board is satisfied that it would be just and equitable to do so.
+(7A) An order made under subsection (7) by the High Court may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4A), be increased if the High Court is satisfied that it would be just and equitable to do so.
 
 [13/2010 wef 15/07/2010]
 
 [46/2007]
 
-(7B) The total sum ordered by the Board for all the objectors under subsection (7A) shall be paid from the proceeds of sale of all the subsidiary proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each lot or $2,000 for each lot, whichever is the higher.
+(7B) The total sum ordered by the High Court for all the objectors under subsection (7A) shall be paid from the proceeds of sale of all the subsidiary proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each lot or $2,000 for each lot, whichever is the higher.
 
 [13/2010 wef 15/07/2010]
 
@@ -1296,21 +1350,21 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 (8) For the purposes of subsection (7)(a), a subsidiary proprietor —
 
-(a) shall be taken to have incurred a financial loss if the proceeds of sale for his lot, after such deduction as the Board may allow (including all or any of the deductions specified in the Fourth Schedule), are less than the price he paid for his lot;
+(a) shall be taken to have incurred a financial loss if the proceeds of sale for his lot, after such deduction as the High Court may allow (including all or any of the deductions specified in the Fourth Schedule), are less than the price he paid for his lot;
 
 [13/2010 wef 15/07/2010]
 
 (b) shall not be taken to have incurred a financial loss by reason only that his net gain from the sale of his lot will be less than the other subsidiary proprietors; and
 
-(c) shall not be taken to have incurred a financial loss by reason that the proceeds of sale for his lot, after such deduction as the Board may allow (including all or any of the deductions specified in the Fourth Schedule), are less than the price he paid for his lot if he had purchased the lot after a collective sale committee had signed a sale and purchase agreement to sell all the lots and common property to a purchaser.
+(c) shall not be taken to have incurred a financial loss by reason that the proceeds of sale for his lot, after such deduction as the High Court may allow (including all or any of the deductions specified in the Fourth Schedule), are less than the price he paid for his lot if he had purchased the lot after a collective sale committee had signed a sale and purchase agreement to sell all the lots and common property to a purchaser.
 
 [13/2010 wef 15/07/2010]
 
 [21/99; 46/2007]
 
-(9) The Board shall not approve an application made under subsection (1) —
+(9) The High Court or a Board shall not approve an application made under subsection (1) —
 
-(a) if the Board is satisfied that —
+(a) if the High Court or Board, as the case may be, is satisfied that —
 
 (i) the transaction is not in good faith after taking into account only the following factors:
 
@@ -1324,7 +1378,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [13/2010 wef 15/07/2010]
 
-(b) if the collective sale committee does not consent to any order made by the Board under subsection (7A).
+(b) if the collective sale committee does not consent to any order made by the High Court under subsection (7A).
 
 [13/2010 wef 15/07/2010]
 
@@ -1332,15 +1386,19 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [13/2010 wef 15/07/2010]
 
-(10) Where no objection has been filed under subsection (4), the determination under subsection (9) shall be made by the Board on the basis of the facts available to the Board.
+(10) Where no objection has been filed under subsection (4) to a Board or under subsection (4A) to the High Court, the determination under subsection (9) shall be made by the High Court or the Board on the basis of the facts available to the High Court or Board, as the case may be.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(11) The Board may make all such other orders and give such directions as may be necessary or expedient to give effect to any order made under subsection (6) or (7).
+(11) The High Court or a Board may make all such other orders and give such directions as may be necessary or expedient to give effect to any order made under subsection (6) or (7) for the sale of all the lots and common property in a strata title plan, including but not limited to a direction apportioning all reasonable costs and expenses incurred in connection with the sale that is the subject of an order under subsection (6) or (7) to be borne by all or any subsidiary proprietors of the lots in the strata title plan, whether or not they are objectors.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(12) The Board may, at any time it thinks fit, extend, vary, revoke or discharge any order made under this section, and may vary any term or condition upon or subject to which any such order has been made.
+(11A) Any order or direction made by a Strata Titles Board before the date of commencement of section 2(q) of the Land Titles (Strata) (Amendment) Act 2010 apportioning among all or any subsidiary proprietors of the lots in a strata title plan or development, whether or not they are objectors, all reasonable costs and expenses incurred in connection with a sale that is the subject of an order under subsection (6) or (7) shall be deemed to have been validly made in accordance with subsection (11) as if subsection (11) had been in force on that date.
+
+[13/2010 wef 15/07/2010]
+
+(12) The High Court or a Board may, at any time it thinks fit, extend, vary, revoke or discharge any order made under this section, and may vary any term or condition upon or subject to which any such order has been made.
 
 [21/99]
 
@@ -1356,9 +1414,9 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [21/99]
 
-### Effect of order of Board
+### Effect of order of High Court or Board
 
-84B\.—(1) Where a Board has made an order under section 84A(6), (7) or (11) —
+84B\.—(1) Where the High Court or a Board has made an order under section 84A(6), (7) or (11) —
 
 (a) the order shall bind all the subsidiary proprietors of the lots in the strata title plan, their successors in title and assigns and any mortgagee, chargee or other person with an estate or interest in land;
 
@@ -1374,21 +1432,17 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [21/99]
 
-(3) A subsidiary proprietor of a lot who has leased out the lot or any lessee of the lot may, at any time after an application has been made under section 84A(1) and before the Board has approved the application for sale, apply to the Board to determine the amount of compensation payable to the lessee.
-
-[21/99; 46/2007]
-
 (4) The subsidiary proprietors of the lots who have not agreed in writing to the sale under section 84A and any mortgagee, chargee or other person with an estate or interest in those lots shall, for the purposes of the sale of the lots and common property, produce the subsidiary strata certificates of title for the lots to the person having conduct of the sale, the representatives appointed under section 84A(2) or to their solicitors.
 
 [21/99; 46/2007]
 
 ### Power of president, etc., of Board to appoint person to act for certain subsidiary proprietor
 
-84C\.—(1) Where a Board has made an order under section 84A(6), (7) or (11), the president, deputy president or registrar of the Board may, on application by the representatives of the subsidiary proprietors appointed under section 84A(2), appoint any person to deal with all matters in connection with the sale of any lot —
+84C\.—(1) Where the High Court or a Board has made an order under section 84A(6), (7) or (11), the High Court or the president, deputy president or registrar of the Board, as the case may be, may, on application by the representatives of the subsidiary proprietors appointed under section 84A(2), appoint any person to deal with all matters in connection with the sale of any lot —
 
 (a) where the subsidiary proprietor of the lot has died and no personal representative has been appointed; or
 
-(b) in such other case as the president, deputy president or registrar of the Board thinks fit.
+(b) in such other case as the the High Court or the president, deputy president or registrar of the Board, as the case may be, thinks fit.
 
 [13/2010 wef 15/07/2010]
 
@@ -1396,7 +1450,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [13/2010 wef 15/07/2010]
 
-(2) The president, deputy president or registrar of the Boardmay authorise the person appointed under subsection (1) to act for the subsidiary proprietor concerned in all aspects of the sale, including the redemption of mortgages and charges, the execution of the transfer, the receipt of moneys, the settlement of encumbrances on the lot, applying for a replacement subsidiary strata certificate of title, giving valid receipts thereof and as soon as practicable paying the remaining moneys into court under section 62 of the Trustees Act (Cap. 337).
+(2) The High Court or the president, deputy president or registrar of the Board, as the case may be, may authorise the person appointed under subsection (1) to act for the subsidiary proprietor concerned in all aspects of the sale, including the redemption of mortgages and charges, the execution of the transfer, the receipt of moneys, the settlement of encumbrances on the lot, applying for a replacement subsidiary strata certificate of title, giving valid receipts thereof and as soon as practicable paying the remaining moneys into court under section 62 of the Trustees Act (Cap. 337).
 
 [13/2010 wef 15/07/2010]
 
@@ -1416,7 +1470,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [21/99]
 
-(2) An application to a Board for an order for the sale of all the flats and the land in a development to which this section applies may be made by —
+(2) An application for an order for the sale of all the flats and the land in a development to which this section applies may be made by —
 
 (a) the proprietors of the flats who own not less than 90% share of the land and not less than 90% of the total area of all the flats where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the development or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the development, whichever is the later; or
 
@@ -1424,33 +1478,77 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 who have agreed in writing to sell all the flats and the land in the development to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the proprietors of the flats (whether in cash or kind or both), subject to an order being made under subsection (4) or (5).
 
+[13/2010 wef 15/07/2010]
+
 [21/99; 46/2007]
 
-(3) A proprietor of any flat in the development who has not agreed in writing to the sale referred to in subsection (2) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in the flat and whose interest is notified on the land-register for that flat may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
+(2A) An application under subsection (2) for an order for the sale of all the flats and the land in a development to which this section applies —
 
-[21/99; 47/2004; 46/2007]
+(a) must be made to a Board in the first instance; and
 
-(4) Where an application has been made under subsection (2) and no objection has been filed under subsection (3), the Board shall, subject to subsection (7), approve the application and order that the flats and the land in the development be sold.
+(b) may be made to the High Court thereafter if, and only if, a section 84D stop order is issued by the Board under subsection (4A)(b) with respect to the application to that Board in respect of the same sale.
+
+[13/2010 wef 15/07/2010]
+
+(2B) An application to the High Court under subsection (2) for an order for the sale of all the flats and the land in a development to which this section applies must be made within a period of 14 days after a section 84D stop order is issued by a Board under subsection (4A)(b) in relation to the same sale.
+
+[13/2010 wef 15/07/2010]
+
+(3) In the case of an application to a Board under subsection (2) for an order for the sale of all the flats and the land in a development to which this section applies, each of the following persons may file an objection to the sale, stating the grounds for the objection, within a period of 21 days after the date of the notice served pursuant to paragraph 1(e) of the First Schedule or such longer period as the Board allows in exceptional circumstances, whether before or after the end of the 21 days:
+
+(a) a proprietor of any flat in the development who has not agreed in writing to the sale; and
+
+(b) a mortgagee, chargee or other person (other than a lessee) with an estate or interest in the flat and whose interest is notified on the land-register for that flat.
+
+[13/2010 wef 15/07/2010]
+
+(3A) Where a section 84D stop order is issued under subsection (4A)(b) in respect of an application to a Board under subsection (2) for an order for the sale of all the flats and the land in a development to which this section applies, and an application is made to the High Court under subsection (2) for an order for the same sale of all the flats and the land in the same development, any person referred to in subsection (3)(a) or (b) who filed an objection to the Board (but no others) may re-file his objection to the sale, stating the same grounds of objection, to the High Court in the manner and within the time delimited by the Rules of Court.
+
+[13/2010 wef 15/07/2010]
+
+(4) Where an application has been made to a Board under subsection (2) and no objection has been filed under subsection (3), the Board shall, subject to subsection (7), approve the application and order that the flats and the land in the development be sold.
 
 [13/2010 wef 15/07/2010]
 
 [21/99]
 
-(5) Where one or more objections have been filed under subsection (3), the Board shall, subject to subsection (7), after mediation, if any, approve the application made under subsection (2) and order that the flats and the land in the development be sold unless, having regard to the objections, the Board is satisfied that —
+(4A) Where an application is made under subsection (2) to a Board, and one or more objections have been filed under subsection (3) in relation to that application —
+
+(a) the Board shall mediate matters that are in dispute between the objectors and the applicants to achieve a resolution of the dispute; and
+
+(b) if —
+
+(i) at the end of a period of 60 days starting from the first day set aside for mediation; or
+
+(ii) mediation has proceeded as far as it reasonably can in an attempt to achieve a resolution of the dispute but has nevertheless failed to resolve the dispute,
+
+whichever first occurs, one or more of those objections are not withdrawn, the Board shall, subject to subsection (4B), order a discontinuance of all proceedings before it in connection with that application (referred to in this section as a section 84D stop order).
+
+[13/2010 wef 15/07/2010]
+
+(4B) No section 84D stop order shall be made by a Board under subsection (4A)(b) with respect to an application made to it under subsection (2) unless —
+
+(a) the Board has, by notice served on every objector who filed an objection under subsection (3) in relation to that application and the authorised representatives of the applicants, informed the objector and authorised representatives of its intention to make a section 84D stop order; and
+
+(b) at the end of a period of 7 days after the notice under paragraph (a) is so served, one or more of those objections so filed are not withdrawn.
+
+[13/2010 wef 15/07/2010]
+
+(5) Where one or more objections have been filed under subsection (3A) in respect of an application to the High Court under subsection (2), the High Court shall, subject to subsection (7), approve the application and order that the flats and the land in the development be sold unless, having regard to the objections, the High Court is satisfied that —
 
 (a) any objector, being a proprietor, will incur a financial loss; or
 
 (b) the proceeds of sale for any flat to be received by any objector, being a proprietor, mortgagee or chargee, are insufficient to redeem any mortgage or charge in respect of the flat.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(5A) An order made under subsection (5) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any flat to be received by an objector, being a proprietor who has filed an objection under subsection (3), be increased if the Board is satisfied that it would be just and equitable to do so.
+(5A) An order made under subsection (5) by the High Court may, with the consent of the collective sale committee, include an order that the proceeds of sale for any flat to be received by an objector, being a proprietor who has filed an objection under subsection (3A), be increased if the High Court is satisfied that it would be just and equitable to do so.
 
 [13/2010 wef 15/07/2010]
 
 [46/2007]
 
-(5B) The total sum ordered by the Board for all the objectors under subsection (5A) shall be paid from the proceeds of sale of all the proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each flat or $2,000 for each flat, whichever is the higher.
+(5B) The total sum ordered by the High Court for all the objectors under subsection (5A) shall be paid from the proceeds of sale of all the proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each flat or $2,000 for each flat, whichever is the higher.
 
 [13/2010 wef 15/07/2010]
 
@@ -1458,7 +1556,7 @@ who have agreed in writing to sell all the flats and the land in the development
 
 (6) For the purposes of subsection (5)(a), a proprietor —
 
-(a) shall be taken to have incurred a financial loss if the proceeds of sale for his flat, after any deduction allowed by the Board, are less than the price he paid for his flat;
+(a) shall be taken to have incurred a financial loss if the proceeds of sale for his flat, after any deduction allowed by the High Court, are less than the price he paid for his flat;
 
 [13/2010 wef 15/07/2010]
 
@@ -1466,9 +1564,9 @@ who have agreed in writing to sell all the flats and the land in the development
 
 [21/99]
 
-(7) The Board shall not approve an application made under subsection (2) —
+(7) The High Court or a Board shall not approve an application made under subsection (2) —
 
-(a) if the Board is satisfied that —
+(a) if the High Court or Board, as the case may be, is satisfied that —
 
 (i) the transaction is not in good faith after taking into account only the following factors:
 
@@ -1482,7 +1580,7 @@ who have agreed in writing to sell all the flats and the land in the development
 
 [13/2010 wef 15/07/2010]
 
-(b) if the collective sale committee does not consent to any order made by the Board under subsection (5A).
+(b) if the collective sale committee does not consent to any order made by the High Court under subsection (5A).
 
 [13/2010 wef 15/07/2010]
 
@@ -1490,11 +1588,11 @@ who have agreed in writing to sell all the flats and the land in the development
 
 [13/2010 wef 15/07/2010]
 
-(8) Where no objection has been filed under subsection (3), the determination under subsection (7) shall be made by the Board on the basis of the facts available to the Board.
+(8) Where no objection has been filed under subsection (3) to a Board or under subsection (3A) to the High Court, the determination under subsection (7) shall be made by the High Court or the Board on the basis of the facts available to the High Court or Board, as the case may be.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(9) Sections 84A(1A), (2), (3), (5), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+(9) Sections 84A(1A), (2), (3), (5), (5A), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
 [13/2010 wef 15/07/2010]
 
@@ -1520,7 +1618,7 @@ who have agreed in writing to sell all the flats and the land in the development
 
 (2) The proprietors of 25% of the flats to which this section applies may apply to the Registrar for notional shares in the land to be assigned to each of the flats based on the method used by the Commissioner for the allocation of share values.
 
-(3) An application to a Board for an order for the sale of all the flats and the land in a development to which this section applies may be made by —
+(3) An application for an order for the sale of all the flats and the land in a development to which this section applies may be made by —
 
 (a) the proprietors of the flats who own not less than 90% notional share of the land and not less than 90% of the total area of all the flats where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the development or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the development, whichever is the later; or
 
@@ -1528,37 +1626,81 @@ who have agreed in writing to sell all the flats and the land in the development
 
 who have agreed in writing to sell all the flats in the development to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the proprietors of the flats (whether in cash or kind or both), subject to an order being made under subsection (6) or (7).
 
+[13/2010 wef 15/07/2010]
+
 [21/99; 46/2007]
+
+(3A) An application under subsection (3) for an order for the sale of all the flats and the land in a development to which this section applies —
+
+(a) must be made to a Board in the first instance; and
+
+(b) may be made to the High Court thereafter if, and only if, a section 84E stop order is issued by the Board under subsection (6A)(b) with respect to the application to that Board in respect of the same sale.
+
+[13/2010 wef 15/07/2010]
+
+(3B) An application to the High Court under subsection (3) for an order for the sale of all the flats and the land in a development to which this section applies must be made within a period of 14 days after a section 84E stop order is issued by a Board under subsection (6A)(b) in relation to the same sale.
+
+[13/2010 wef 15/07/2010]
 
 (4) The proprietors of the flats referred to in subsection (3) shall also serve a copy of the notice to be served pursuant to the First Schedule on the proprietor of the land and every mortgagee, chargee or other person with an estate or interest in the land and whose interest is notified on the land-register for that land.
 
 [21/99; 47/2004; 46/2007]
 
-(5) A proprietor of any flat in the development who has not agreed in writing to the sale referred to in subsection (3) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in the flat and whose interest is notified on the land-register for that flat may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
+(5) In the case of an application to a Board under subsection (3) for an order for the sale of all the flats and the land in a development to which this section applies, each of the following persons may file an objection to the sale, stating the grounds of objection, within a period of 21 days after the date of the notice served pursuant to paragraph 1(e) of the First Schedule or such longer period as the Board allows in exceptional circumstances, whether before or after the end of the 21 days:
 
-[21/99; 47/2004; 46/2007]
+(a) a proprietor of any flat in the development who has not agreed in writing to the sale; and
 
-(6) Where an application has been made under subsection (3) and no objection has been filed under subsection (5), the Board shall, subject to subsection (9), approve the application and order that the flats and the land in the development be sold.
+(b) a mortgagee, chargee or other person (other than a lessee) with an estate or interest in the flat and whose interest is notified on the land-register for that flat.
+
+[13/2010 wef 15/07/2010]
+
+(5A) Where a section 84E stop order is issued under subsection (6A)(b) in respect of an application to a Board under subsection (3) for an order for the sale of all the flats and the land in a development to which this section applies, and an application is made to the High Court under subsection (3) for an order for the same sale of all the flats and the land in the same development, any person referred to in subsection (5)(a) or (b) who filed an objection to the Board (but no others) may re-file his objection to the sale, stating the same grounds of objection, to the High Court in the manner and within the time delimited by the Rules of Court.
+
+[13/2010 wef 15/07/2010]
+
+(6) Where an application has been made to a Board under subsection (3) and no objection has been filed under subsection (5), the Board shall, subject to subsection (9), approve the application and order that the flats and the land in the development be sold.
 
 [13/2010 wef 15/07/2010]
 
 [21/99]
 
-(7) Where one or more objections have been filed under subsection (5), the Board shall, subject to subsection (9), after mediation, if any, approve the application made under subsection (3) and order that the flats and the land in the development be sold unless, having regard to the objections, the Board is satisfied that —
+(6A) Where an application is made under subsection (3) to a Board, and one or more objections have been filed under subsection (5) in relation to that application —
+
+(a) the Board shall mediate matters that are in dispute between the objectors and the applicants to achieve a resolution of the dispute; and
+
+(b) if —
+
+(i) at the end of a period of 60 days starting from the first day set aside for mediation; or
+
+(ii) mediation has proceeded as far as it reasonably can in an attempt to achieve a resolution of the dispute but has nevertheless failed to resolve the dispute,
+
+whichever first occurs, one or more of those objections are not withdrawn, the Board shall, subject to subsection (6B), order a discontinuance of all proceedings before it in connection with that application (referred to in this section as a section 84E stop order).
+
+[13/2010 wef 15/07/2010]
+
+(6B) No section 84E stop order shall be made by a Board under subsection (6A)(b) with respect to an application made to it under subsection (3) unless —
+
+(a) the Board has, by notice served on every objector who filed an objection under subsection (5) in relation to that application and the authorised representatives of the applicants, informed the objector and authorised representatives of its intention to make a section 84E stop order; and
+
+(b) at the end of a period of 7 days after the notice under paragraph (a) is so served, one or more of those objections so filed are not withdrawn.
+
+[13/2010 wef 15/07/2010]
+
+(7) Where one or more objections have been filed under subsection (5A) in respect of an application to the High Court under subsection (3), the High Court shall, subject to subsection (9), approve the application and order that all the flats and the land in the development be sold unless, having regard to the objections, the High Court is satisfied that —
 
 (a) any objector, being a proprietor, will incur a financial loss; or
 
 (b) the proceeds of sale for any flat to be received by any objector, being a proprietor, mortgagee or chargee, are insufficient to redeem any mortgage or charge in respect of the flat.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(7A) An order made under subsection (7) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any flat to be received by an objector, being a proprietor who has filed an objection under subsection (5), be increased if the Board is satisfied that it would be just and equitable to do so.
+(7A) An order made under subsection (7) by the High Court may, with the consent of the collective sale committee, include an order that the proceeds of sale for any flat to be received by an objector, being a proprietor who has filed an objection under subsection (5), be increased if the High Court is satisfied that it would be just and equitable to do so.
 
 [13/2010 wef 15/07/2010]
 
 [46/2007]
 
-(7B) The total sum ordered by the Board for all the objectors under subsection (7A) shall be paid from the proceeds of sale of all the proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each flat or $2,000 for each flat, whichever is the higher.
+(7B) The total sum ordered by the High Court for all the objectors under subsection (7A) shall be paid from the proceeds of sale of all the proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each flat or $2,000 for each flat, whichever is the higher.
 
 [13/2010 wef 15/07/2010]
 
@@ -1566,7 +1708,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 (8) For the purposes of subsection (7)(a), a proprietor —
 
-(a) shall be taken to have incurred a financial loss if the proceeds of sale for his flat, after any deduction allowed by the Board, are less than the price he paid for his flat;
+(a) shall be taken to have incurred a financial loss if the proceeds of sale for his flat, after any deduction allowed by the High Court, are less than the price he paid for his flat;
 
 [13/2010 wef 15/07/2010]
 
@@ -1574,9 +1716,9 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 [21/99]
 
-(9) The Board shall not approve an application made under subsection (3) —
+(9) The High Court or a Board shall not approve an application made under subsection (3) —
 
-(a) if the Board is satisfied that —
+(a) if the High Court or Board, as the case may be, is satisfied that —
 
 (i) the transaction is not in good faith after taking into account only the following factors:
 
@@ -1590,7 +1732,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 [13/2010 wef 15/07/2010]
 
-(b) if the collective sale committee does not consent to any order made by the Board under subsection (7A).
+(b) if the collective sale committee does not consent to any order made by the High Court under subsection (7A).
 
 [13/2010 wef 15/07/2010]
 
@@ -1598,11 +1740,11 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 [13/2010 wef 15/07/2010]
 
-(10) Where no objection has been filed under subsection (5), the determination under subsection (9) shall be made by the Board on the basis of the facts available to the Board.
+(10) Where no objection has been filed under subsection (5) to a Board or under subsection (5A) to the High Court, the determination under subsection (9) shall be made by the High Court or the Board on the basis of the facts available to the High Court or Board, as the case may be.
 
-[21/99]
+[13/2010 wef 15/07/2010]
 
-(11) Where a Board has made an order for the sale of the flats and the land, the proprietor of the land shall be deemed to have transferred his estate and interest in the land to the purchaser without consideration upon the registration by the Registrar of the transfers of all the flats (except the flats deemed to be owned by the proprietor under subsection (14)) in the development and the Registrar shall enter a notification of the vesting of the land in the purchaser on the land-register.
+(11) Where the High Court or a Board, as the case may be, has made an order for the sale of the flats and the land, the proprietor of the land shall be deemed to have transferred his estate and interest in the land to the purchaser without consideration upon the registration by the Registrar of the transfers of all the flats (except the flats deemed to be owned by the proprietor under subsection (14)) in the development and the Registrar shall enter a notification of the vesting of the land in the purchaser on the land-register.
 
 [13/2010 wef 15/07/2010]
 
@@ -1632,7 +1774,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 [46/2007]
 
-(15) Sections 84A(1A), (2), (3), (5), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+(15) Sections 84A(1A), (2), (3), (5), (5A), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
 [13/2010 wef 15/07/2010]
 
@@ -1692,7 +1834,7 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 [46/2007]
 
-(2) An application to a Board for an order for the sale of all the lots and common property in a strata title plan to which this section applies may be made by —
+(2) An application for an order for the sale of all the lots and common property in a strata title plan to which this section applies may be made by —
 
 (a) the subsidiary proprietors of the lots with not less than 90% of the share values and not less than 90% of the total area of all the lots (excluding the area of any accessory lot) as shown in the subsidiary strata certificates of title where less than 10 years have passed since the date of the issue of the latest Temporary Occupation Permit on completion of any building (not being any common property) comprised in the strata title plan or, if no Temporary Occupation Permit was issued, the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan, whichever is the later; or
 
@@ -1700,43 +1842,87 @@ who have agreed in writing to sell all the flats in the development to a purchas
 
 who have agreed in writing to sell all the lots and common property in the strata title plan to a purchaser under a sale and purchase agreement which specifies the proposed method of distributing the sale proceeds to all the subsidiary proprietors (whether in cash or kind or both), subject to an order being made under subsection (5) or (6).
 
+[13/2010 wef 15/07/2010]
+
 [46/2007]
+
+(2A) An application under subsection (2) for an order for the sale of all the lots and common property in a strata title plan to which this section applies —
+
+(a) must be made to a Board in the first instance; and
+
+(b) may be made to the High Court thereafter if, and only if, a section 84FA stop order is issued by the Board under subsection (5A)(b) with respect to the application to that Board in respect of the same sale.
+
+[13/2010 wef 15/07/2010]
+
+(2B) An application to the High Court under subsection (2) for an order for the sale of all the lots and common property in a development to which this section applies must be made within a period of 14 days after a section 84FA stop order is issued by a Board under subsection (5A)(b) in relation to the same sale.
+
+[13/2010 wef 15/07/2010]
 
 (3) The subsidiary proprietors of the lots referred to in subsection (2) shall also serve on the subsidiary proprietor in reversion of the leasehold estate and every mortgagee, chargee or other person with an estate or interest in land and whose interest is notified on the subsidiary strata land-register for the lots, a copy of all notices to be served pursuant to the First Schedule.
 
 [46/2007]
 
-(4) A subsidiary proprietor of any lot in the strata title plan who has not agreed in writing to the sale referred to in subsection (2) and any mortgagee, chargee or other person (other than a lessee) with an estate or interest in land and whose interest is notified on the subsidiary strata land-register for that lot may each file an objection with a Board stating the grounds for the objection within 21 days of the date of the notice served pursuant to the First Schedule or such further period as the Board may allow.
+(4) In the case of an application to a Board under subsection (2) for an order for the sale of all the lots and the common property in a strata title plan to which this section applies, each of the following persons may file an objection to the sale, stating the grounds of objection, within a period of 21 days after the date of the notice served pursuant to paragraph 1(e) of the First Schedule or such longer period as the Board allows in exceptional circumstances, whether before or after the end of the 21 days:
 
-[46/2007]
+(a) a subsidiary proprietor of any lot in the strata title plan who has not agreed in writing to the sale; and
 
-(5) Where an application has been made under subsection (2) and no objection has been filed under subsection (4), the Board shall, subject to subsection (9), approve the application and order that the lots and common property in the strata title plan be sold.
+(b) a mortgagee, chargee or other person (other than a lessee) with an estate or interest in the land and whose interest is notified on the subsidiary strata land-register for that lot.
+
+[13/2010 wef 15/07/2010]
+
+(4A) Where a section 84FA stop order is issued under subsection (5A)(b) in respect of an application to a Board under subsection (2) for an order for the sale of all the lots and the common property in a strata title plan to which this section applies, and an application is made to the High Court under subsection (2) for an order for the same sale of all the lots and the common property in the same strata title plan, any person referred to in subsection (4)(a) or (b) who filed an objection to the Board (but no others) may re-file his objection to the sale, stating the same grounds of objection, to the High Court in the manner and within the time delimited by the Rules of Court.
+
+[13/2010 wef 15/07/2010]
+
+(5) Where an application has been made to a Board under subsection (2) and no objection has been filed under subsection (4), the Board shall, subject to subsection (9), approve the application and order that the lots and common property in the strata title plan be sold.
 
 [13/2010 wef 15/07/2010]
 
 [46/2007]
 
-(6) Where one or more objections have been filed under subsection (4), the Board shall, subject to subsection (9), after mediation, if any, approve the application made under subsection (2) and order that the lots and the common property in the strata title plan be sold unless, having regard to the objections, the Board is satisfied that —
+(5A) Where an application is made under subsection (2) to a Board, and one or more objections have been filed under subsection (4) in relation to that application —
+
+(a) the Board shall mediate matters that are in dispute between the objectors and the applicants to achieve a resolution of the dispute; and
+
+(b) if —
+
+(i) at the end of a period of 60 days starting from the first day set aside for mediation; or
+
+(ii) mediation has proceeded as far as it reasonably can in an attempt to achieve resolution of the dispute but has nevertheless failed to resolve the dispute,
+
+whichever first occurs, one or more of those objections are not withdrawn, the Board shall, subject to subsection (5B), order a discontinuance of all proceedings before it in connection with that application (referred to in this section as a section 84FA stop order).
+
+[13/2010 wef 15/07/2010]
+
+(5B) No section 84FA stop order shall be made by a Board under subsection (5A)(b) with respect to an application made to it under subsection (2) unless —
+
+(a) the Board has, by notice served on every objector who filed an objection under subsection (4) in relation to that application and the authorised representatives of the applicants, informed the objector and authorised representatives of its intention to make a section 84FA stop order; and
+
+(b) at the end of a period of 7 days after the notice under paragraph (a) is so served, one or more of those objections so filed are not withdrawn.
+
+[13/2010 wef 15/07/2010]
+
+(6) Where one or more objections have been filed under subsection (4A) in respect of an application to the High Court under subsection (2), the High Court shall, subject to subsection (9), approve the application and order that the lots and common property be sold unless, having regard to the objections, the High Court is satisfied that —
 
 (a) any objector, being a subsidiary proprietor, will incur a financial loss; or
 
 (b) the proceeds of sale for any lot to be received by any objector, being a subsidiary proprietor, mortgagee or chargee, are insufficient to redeem any mortgage or charge in respect of the lot.
 
-[46/2007]
+[13/2010 wef 15/07/2010]
 
-(7) An order made under subsection (5) by the Board may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4), be increased if the Board is satisfied that it would be just and equitable to do so.
+(7) An order made under subsection (6) by the High Court may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4A), be increased if the High Court is satisfied that it would be just and equitable to do so.
 
 [13/2010 wef 15/07/2010]
 
 [46/2007]
 
-(8) The total sum ordered by the Board for all the objectors under subsection (7) shall be paid from the proceeds of sale of all the subsidiary proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each lot or $2,000 for each lot, whichever is the higher.
+(8) The total sum ordered by the High Court for all the objectors under subsection (7) shall be paid from the proceeds of sale of all the subsidiary proprietors and shall not exceed the aggregate sum of 0.25% of the proceeds of sale for each lot or $2,000 for each lot, whichever is the higher.
 
 [46/2007]
 
-(9) The Board shall not approve an application made under subsection (2) —
+(9) The High Court or a Board shall not approve an application made under subsection (2) —
 
-(a) if the Board is satisfied that —
+(a) if the High Court or Board, as the case may be, is satisfied that —
 
 (i) the transaction is not in good faith after taking into account only the following factors:
 
@@ -1750,7 +1936,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [13/2010 wef 15/07/2010]
 
-(b) if the collective sale committee does not consent to any order made by the Board under subsection (7).
+(b) if the collective sale committee does not consent to any order made by the High Court under subsection (7).
 
 [13/2010 wef 15/07/2010]
 
@@ -1758,11 +1944,11 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [13/2010 wef 15/07/2010]
 
-(10) Where no objection has been filed under subsection (4), the determination under subsection (9) shall be made by the Board on the basis of the facts available to the Board.
+(10) Where no objection has been filed under subsection (4) to a Board or under subsection (4A) to the High Court, the determination under subsection (9) shall be made by the High Court or the Board on the basis of the facts available to the High Court or Board, as the case may be.
 
-[46/2007]
+[13/2010 wef 15/07/2010]
 
-(11) Where a Board has made an order for the sale of the lots and the common property in the strata title plan —
+(11) Where the High Court or a Board, as the case may be, has made an order for the sale of the lots and the common property in the strata title plan —
 
 (a) the subsidiary proprietor in reversion of the leasehold estate shall be deemed to have transferred his estate and interest in the lots to the purchaser without consideration upon the registration by the Registrar of the transfers of all the lots (except the lots still owned by the subsidiary proprietor in reversion under subsection (14)) in the strata title plan; and
 
@@ -1788,7 +1974,7 @@ who have agreed in writing to sell all the lots and common property in the strat
 
 [46/2007]
 
-(16) Sections 84A(1A), (2), (3), (5), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
+(16) Sections 84A(1A), (2), (3), (5), (5A), (7C), (11), (12) and (13), 84B and 84C and the Second and Third Schedules shall apply, with the necessary modifications, to any application or order made under this section.
 
 [13/2010 wef 15/07/2010]
 
@@ -2302,7 +2488,7 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 [S 365/2010 wef 16/07/2010]
 
-(e) serve notice of the proposed application on all the subsidiary proprietors of all the lots and common property in the strata title plan concerned and, if applicable, on the subsidiary proprietors in reversion of the leasehold estate in the lots, or on all the proprietors of all flats in the development concerned, as the case may be, by registered post enclosing a copy each of the following documents:
+(e) serve notice of the proposed application on all the subsidiary proprietors of all the lots and common property in the strata title plan concerned and, if applicable, on the subsidiary proprietors in reversion of the leasehold estate in the lots, or on all the proprietors of all flats in the development concerned, as the case may be, by letter by registered post notifying everyone of them of the proposed application accompanied by a copy each of the following documents, and stating that copies of the documents may also be obtained from the marketing agent or the collective sale committee:
 
 (i) the collective sale agreement referred to in sub-paragraph (a);
 
@@ -2318,9 +2504,9 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 [13/2010 wef 15/07/2010]
 
-(f) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying them of the proposed application, the notice sent under sub-paragraph (e) and the address to which it was sent, and that copies of the documents in that sub-paragraph may also be obtained from the marketing agent or the collective sale committee;
+(f) give further notice of the proposed application by post addressed to each lot in the strata title plan concerned or each flat in the development concerned, as the case may be, or by placing a copy of the notice in the respective mail boxes for each such lot or flat; and
 
-(g) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying the lessees of the subsidiary proprietors or proprietors of the proposed application and of their right to file an application to the Board to determine the amount of compensation payable under the lease; and
+[13/2010 wef 15/07/2010]
 
 (h) affix a copy of the notice referred to in sub-paragraph (e), without the enclosed documents, in the 4 official languages to a conspicuous part of each building comprised in the strata title plan or the development, as the case may be.
 
@@ -2388,11 +2574,19 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 12\. The Board shall, within 5 days of the filing of an objection, serve a copy of it by registered post on the representatives appointed under section 84A(2) and their solicitors, if any.
 
-13. The subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) shall, after making an application to the Board, cause a copy of the application to be registered under this Act, the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), as the case may be.
+13. The subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) shall, after making an application to the Board, cause a notification of the application being made to be registered under this Act, the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), as the case may be.
 
 [13/2010 wef 15/07/2010]
 
-14\. The subsidiary proprietors or proprietors referred to in paragraph 13 shall, if an order for sale is granted by the Board under section 84A, 84D, 84E or 84FA, register the order of the Board in accordance with this Act, the Land Titles Act or the Registration of Deeds Act, as the case may be, or if the order for sale is not granted by the Board, apply to cancel the application registered under paragraph 13.
+14. The subsidiary proprietors or proprietors referred to in paragraph 13 shall —
+
+(a) if an order for sale is granted by the High Court or a Board, as the case may be, under section 84A, 84D, 84E or 84FA, register the order of the High Court or Board in accordance with this Act, the Land Titles Act or the Registration of Deeds Act, as the case may be;
+
+(b) if the order for sale is not granted by a Board and no application is made to the High Court within the time delimited by section 84A(2B), 84D(2B), 84E(3B) or 84FA(2B), apply to cancel the notification registered under paragraph 13; or
+
+(c) if the order for sale is not granted by the High Court, apply to cancel the notification registered under paragraph 13.
+
+[13/2010 wef 15/07/2010]
 
 15. In this Schedule, “affected parties” means —
 
@@ -2420,7 +2614,7 @@ Application of Schedule
 
 Convening of general meeting on requisition
 
-2.—(1) The council of a management corporation shall, on receipt by the secretary thereof of a requisition for a general meeting signed by —
+2.—(1) Subject to sub-paragraph (1A), the council of a management corporation shall, on receipt by the secretary thereof of a requisition for a general meeting signed by —
 
 (a) one or more persons entitled to vote in respect of one or more lots, the share value or the total share value of which is at least 20% of the aggregate share value of all the lots whose subsidiary proprietors comprise the management corporation; or
 
@@ -2430,7 +2624,17 @@ immediately proceed to convene a general meeting of the management corporation t
 
 [13/2010 wef 15/07/2010]
 
-(2) In the case of land in a development to which section 84D applies, any general meeting shall be convened by —
+(1A) If a relevant event happens, the council of the management corporation shall not, on receipt by the secretary thereof of another requisition for a general meeting, proceed to convene another general meeting of the management corporation for the purposes of a collective sale unless —
+
+(a) a period of 2 or more years has elapsed since the happening of the relevant event; or
+
+(b) the requisition is signed —
+
+(i) in the case of the first requisition after the happening of the relevant event — by at least 50% of the total number of subsidiary proprietors of lots that comprise the management corporation or by one or more persons entitled to vote in respect of one or more lots, the share value or the total share value of which is at least 50% of the aggregate value of all the lots whose subsidiary proprietors comprise the management corporation; and
+
+(ii) in the case of the second or subsequent requisition after the happening of the relevant event — by at least 80% of the total number of subsidiary proprietors of lots that comprise the management corporation or by one or more persons entitled to vote in respect of one or more lots, the share value or the total share value of which is at least 80% of the aggregate value of all the lots whose subsidiary proprietors comprise the management corporation.
+
+(2) Subject to sub-paragraph (2A), in the case of land in a development to which section 84D applies, any general meeting shall be convened by —
 
 (a) the proprietors of the flats who own not less than 20% share of the land; or
 
@@ -2438,7 +2642,17 @@ immediately proceed to convene a general meeting of the management corporation t
 
 [13/2010 wef 15/07/2010]
 
-(3) In the case of land in a development to which section 84E applies, any general meeting shall be convened by —
+(2A) If a relevant event happens, the proprietors of flats in a development to which section 84D applies shall not proceed to convene another general meeting for the purposes of a collective sale unless —
+
+(a) a period of 2 or more years has elapsed since the happening of the relevant event; or
+
+(b) the requisition for the meeting is made —
+
+(i) in the case of the first requisition after the happening of the relevant event — by proprietors of flats in the development who own not less than 50% share of the land or by not less than 50% of the total number of proprietors of such flats; and
+
+(ii) in the case of the second or subsequent requisition after the happening of the relevant event — by proprietors of flats in the development who own not less than 80% share of the land or by not less than 80% of the total number of proprietors of such flats.
+
+(3) Subject to sub-paragraph (3A), in the case of land in a development to which section 84E applies, any general meeting shall be convened by —
 
 (a) the proprietors of the flats who own not less than 20% notional share of the land; or
 
@@ -2446,17 +2660,47 @@ immediately proceed to convene a general meeting of the management corporation t
 
 [13/2010 wef 15/07/2010]
 
+(3A) If a relevant event happens, the proprietors of flats in a development to which section 84E applies shall not proceed to convene another general meeting for the purposes of a collective sale unless —
+
+(a) a period of 2 or more years has elapsed since the happening of the relevant event; or
+
+(b) the requisition for the meeting is made —
+
+(i) in the case of the first requisition after the happening of the relevant event — by proprietors of flats in that development who own not less than 50% notional share of the land or by not less than 50% of the total number of proprietors of such flats; and
+
+(ii) in the case of the second or subsequent requisition after the happening of the relevant event — by proprietors of flats in that development who own not less than 80% notional share of the land or by not less than 80% of the total number of proprietors of such flats.
+
 (4) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered address of the management corporation, and may consist of several documents in like form each signed by one or more requisitionists.
 
-(5) If the council does not within 14 days after the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
+(5) If the council does not within 14 days after the date of the deposit of the requisition made by requisitionists referred to in sub-paragraph (1) or (1A)(b), as the case may be, proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
 
 [13/2010 wef 15/07/2010]
 
 (6) Any reasonable expenses incurred by the requisitionists by reason of the failure of the council to convene a meeting shall be paid to the requisitionists by the management corporation.
 
-(7) In the case of land in a development to which section 84D or 84E applies, the general meeting may be convened by the proprietors referred to in sub-paragraph (2) or (3), as the case may be, in the same manner as nearly as possible as that in which meetings are to be convened.
+(7) In the case of land in a development to which section 84D or 84E applies, the general meeting may be convened by the proprietors referred to in sub-paragraph (2), (2A), (3) or (3A), as the case may be, in the same manner as nearly as possible as that in which meetings are to be convened.
 
 [13/2010 wef 15/07/2010]
+
+(8) For the purposes of sub-paragraphs (1A), (2A) and (3A), a relevant event occurs when —
+
+(a) no quorum of proprietors is present at a general meeting —
+
+(i) of a management corporation under sub-paragraph (1) convened on or after the date of commencement of section 9(b) of the Land Titles (Strata) (Amendment) Act 2010;
+
+(ii) of proprietors of flats in a development to which section 84D applies under sub-paragraph (2) convened on or after the date of commencement of section 9(d) of the Land Titles (Strata) (Amendment) Act 2010; or
+
+(iii) of proprietors of flats in a development to which section 84E applies under sub-paragraph (3) convened on or after the date of commencement of section 9(f) of the Land Titles (Strata) (Amendment) Act 2010;
+
+(b) the motion for the constitution of a collective sale committee, notice of which was given in accordance with paragraph 3, is defeated at the general meeting referred to in sub-paragraph (a)(i), (ii) or (iii);
+
+(c) the collective sale agreement executed among the subsidiary proprietors that comprise the management corporation, or the collective sale agreement executed among the proprietors of flats referred to in section 84D(2) or 84E(3), as the case may be, expires at any time on or after the date of commencement of section 9(i) of the Land Titles (Strata) (Amendment) Act 2010;
+
+(d) the collective sale committee constituted for the purposes of a collective sale of all lots and the common property in a strata title plan to which section 84A or 84FA applies, or a collective sale of all the flats and land in a development to which section 84D or 84E applies, as the case may be, is dissolved at any time on or after the date of commencement of section 9(i) of the Land Titles (Strata) (Amendment) Act 2010 by virtue of the operation of paragraph 12(2) of the Third Schedule; or
+
+(e) every member of a collective sale committee constituted for the purposes of a collective sale referred to in sub-paragraph (d) is removed from office on or after the date of commencement of section 9(i) of the Land Titles (Strata) (Amendment) Act 2010 and no other collective sale is constituted in replacement for the purposes of the same collective sale.
+
+[S 365/2010 wef 16/07/2010]
 
 Notice of general meetings
 
@@ -2509,6 +2753,10 @@ Quorum
 (2) A quorum shall be formed at any general meeting of a management corporation constituted in respect of a strata title plan when the number of subsidiary proprietors who own at least 30% of the aggregate share value for all lots comprised in that strata title plan are present at the meeting, either in person or by proxy.
 
 (3) In the case of land in a development to which section 84D or 84E applies, the quorum shall be formed at any general meeting of the proprietors of the flats when the number of proprietors who own at least 30% of the share or notional share in land, as the case may be, are present at the meeting, either in person or by proxy.
+
+(4) If at the end of 60 minutes after the time appointed for holding a general meeting of a management corporation referred to in sub-paragraph (2) or the proprietors of flats referred to in sub-paragraph (3), no quorum as specified in sub-paragraph (2) or (3), as the case may be, is present, that general meeting shall immediately stand dissolved.
+
+[13/2010 wef 15/07/2010]
 
 Motions out of order
 
@@ -2638,9 +2886,67 @@ shall be eligible for election as a member of a collective sale committee if, an
 
 whichever number is the lower.
 
-Disclosure of interests
+Disclosure of conflict of interests
 
-2\. A person standing for election as a member of a collective sale committee who has any direct or indirect interest in any property developer, property consultant, marketing agent or legal firm, being an interest that could conflict with the proper performance of his functions as a member of a collective sale committee (should he be elected) shall, as soon as practicable after the relevant facts have come to his knowledge, disclose the nature of that interest at a general meeting.
+2.—(1) If a person standing for election as a member of a collective sale committee is aware of any conflict of interest or potential conflict of interest, if any, with his duties or interests as a member of the collective sale committee (should he be elected) arising from —
+
+(a) his holding of any office;
+
+(b) his interest in any contract, whether alone or together with any of his associates;
+
+(c) his possession or ownership of any lot or common property that may be the subject of the collective sale, whether alone or together with any of his associates;
+
+(d) any direct or indirect relationship he or any associate of his has with any property developer, property consultant, marketing agent or legal firm;
+
+(e) the holding of any office by any of his associates;
+
+(f) his associate’s interest in a contract; or
+
+(g) his associate’s possession or ownership of any lot or common property that may be the subject of the collective sale,
+
+he shall, before his election, declare at the general meeting convened for such election, the nature and extent of all such conflicts of interest or potential conflicts of interest.
+
+(2) The election of any person who fails to comply with sub-paragraph (1) shall be void.
+
+(3) If a member of a collective sale committee becomes aware of any conflict of interest or potential conflict of interest, if any, with his duties or interests as a member of the collective sale committee arising from —
+
+(a) his holding of any office;
+
+(b) his interest in any contract, whether alone or together with any of his associates;
+
+(c) his possession or ownership of any lot or common property that may be the subject of the collective sale, whether alone or together with any of his associates;
+
+(d) any direct or indirect relationship he or any associate of his has with any property developer, property consultant, marketing agent or legal firm;
+
+(e) the holding of any office by any of his associates;
+
+(f) his associate’s interest in a contract; or
+
+(g) his associate’s possession or ownership of any lot or common property that may be the subject of the collective sale,
+
+he must, within the relevant period, declare in writing to the chairperson of the collective sale committee, the nature and extent of all such conflicts of interest or potential conflicts of interest.
+
+(4) The collective sale committee whose member has made any such declaration under sub-paragraph (3) shall, within 7 days after the making of the declaration, give notice of the making of the declaration by causing a copy of the declaration to be affixed to a conspicuous part of each building comprised in the strata title plan or development, as the case may be.
+
+(5) For the purposes of sub-paragraph (3), “relevant period” means —
+
+(a) in the case of a person who, on the date of commencement of section 10(a) of the Land Titles (Strata)(Amendment) Act 2010, is a member of a collective sale committee, a period of 30 days after that date; or
+
+(b) in any other case, 7 days after becoming aware of all conflicts of interest or potential conflicts of interest, if any, with his duties or interests as a member of the collective sale committee arising from the circumstances described in sub-paragraph (3).
+
+(6) For the purposes of sub-paragraphs (1) and (3), a person,A, is an associate of another person,B, if —
+
+(a) Ais the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, ofB;
+
+(b) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+
+(c) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+
+(d) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, any property developer, property consultant, marketing agent or legal firm;
+
+(e) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (b) and (c), is in a position to control not less than 5% of the voting power inA.
+
+[13/2010 wef 15/07/2010]
 
 Appointment of chairperson
 
@@ -2672,6 +2978,12 @@ Vacation of office of member of collective sale committee
 
 (e) if the person is removed from office at a general meeting;
 
+(ea) if the person is removed from office by the collective sale committee in accordance with paragraph 8 on the ground that an application to a Board has been made under section 84A during his tenure as a member and the person is a subsidiary proprietor who has not executed the collective sale agreement to which the application relates;
+
+[13/2010 wef 15/07/2010]
+
+[S 365/2010 wef 16/07/2010]
+
 (f) if the person dies;
 
 (g) if the person becomes a mentally disordered person within the meaning of the Mental Disorders and Treatment Act (Cap. 178); or
@@ -2686,33 +2998,45 @@ General meetings convened by collective sale committee
 
 7.—(1) The collective sale committee shall convene one or more general meetings of the management corporation in accordance with the Second Schedule for the following purposes:
 
-(a) to consider the appointment of any advocate and solicitor, property consultant or marketing agent;
-
-(b) to consider the apportionment of sale proceeds;
-
-(c) to consider the terms and conditions of the collective sale agreement;
-
-(d) to give an update on the total number of subsidiary proprietors who, immediately before the date of the general meeting, have signed the collective sale agreement;
-
-(e) to provide information of the sale proposal and sale process;
-
-(f) to provide information on the number of offers received for the collective sale and the respective amounts; and
-
-(g) to consider the terms and conditions of the sale and purchase agreement.
-
-(2) The meeting under sub-paragraph (1)(a), (b) and (c) shall be convened before any subsidiary proprietor signs the collective sale agreement.
+(a) to appoint any advocate and solicitor, any property consultant or marketing agent in connection with a collective sale where the collective sale committee is not already authorised at a general meeting to make such appointments;
 
 [13/2010 wef 15/07/2010]
 
-(3) The meeting under sub-paragraph (1)(d) and (e) shall be convened after the subsidiary proprietors referred to in section 84A(1) or 84FA(2) have signed the collective sale agreement but before the launch for sale under paragraph 11.
+(b) to approve the apportionment of sale proceeds; and
 
-(4) The meeting under sub-paragraph (1)(f) and (g) shall be convened as soon as practicable after the close of the public tender or public auction or, where applicable, after the collective sale committee has entered into a private contract under paragraph 11.
+[13/2010 wef 15/07/2010]
+
+(c) to approve the terms and conditions of the collective sale agreement.
+
+[13/2010 wef 15/07/2010]
+
+(2) The meeting for any of the purposes in sub-paragraph (1)(a), (b) and (c) shall be convened before any subsidiary proprietor signs the collective sale agreement.
+
+[13/2010 wef 15/07/2010]
+
+(3) After the subsidiary proprietors referred to in section 84A(1) or 84FA(2) have signed a collective sale agreement but before the launch for sale referred to in paragraph 11, the collective sale committee must convene a meeting of subsidiary proprietors, of which at least 7 days’ notice is given —
+
+(a) to give an update on the total number of subsidiary proprietors who, immediately before the date of the meeting, have signed the collective sale agreement; and
+
+(b) to provide information on the sale proposal and the sale process.
+
+[13/2010 wef 15/07/2010]
+
+(4) As soon as practicable after the close of the public tender or public auction referred to in paragraph 11 or, where applicable, after the collective sale committee has entered into a private contract under that paragraph, the collective sale committee must convene a meeting of subsidiary proprietors, of which at least 7 days’ notice is given —
+
+(a) to provide information on the number of offers received for the collective sale and the respective prices so offered; and
+
+(b) to provide information on the terms and conditions of the sale and purchase agreement.
+
+[13/2010 wef 15/07/2010]
 
 Meetings of collective sale committee
 
 8.—(1) At any meeting of a collective sale committee, a quorum shall consist of the majority of the members of the collective sale committee.
 
-(2) A decision of the majority of the members of the collective sale committee present and voting at any meeting of the collective sale committee shall be a decision of the collective sale committee.
+(2) A decision of the majority of members of the collective sale committee present and voting at any meeting of the collective sale committee shall be a decision of the collective sale committee except that where a management corporation for a strata title plan has only 2 subsidiary proprietors, the decision of the member who owns more than 50% of the aggregate share value of all the lots comprised in the strata title plan shall be the decision of the collective sale committee.
+
+[13/2010 wef 15/07/2010]
 
 (3) A collective sale committee shall cause a record of its decisions and minutes of its meetings to be kept.
 
@@ -2754,11 +3078,25 @@ Termination of collective sale committee
 
 12. A collective sale committee may be dissolved —
 
+(1) A collective sale committee may be dissolved —
+
 (a) by ordinary resolution at a general meeting of the management corporation convened in accordance with the Second Schedule; or
 
 (b) upon the termination or expiry of the collective sale agreement.
 
 [46/2007]
+
+[13/2010 wef 15/07/2010]
+
+(2) A collective sale committee that is constituted for the purposes of a collective sale of all lots and the common property in a strata title plan to which section 84A or 84FA applies, or a collective sale of all the flats and land in a development to which section 84D or 84E applies, shall be dissolved if —
+
+(a) in the case of such a committee that is constituted before the date of commencement of section 10(g) of the Land Titles (Strata) (Amendment) Act 2010, at the end of a period of 12 months after that date; or
+
+(b) in any other case, at the end of a period of 12 months after the committee is constituted,
+
+there is no collective sale agreement for that collective sale or no subsidiary proprietor or proprietor, as the case may be, has executed a collective sale agreement for that collective sale.
+
+[13/2010 wef 15/07/2010]
 
 FOURTH SCHEDULE
 
@@ -2917,6 +3255,11 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of commencement|17 December 2008|
 |25.|**2009 Revised Edition—Land Titles (Strata) Act**|
 ||Date of operation|31 July 2009|
+|26.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 9/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|18 May 2010|
+||Date of commencement|15 July 2010|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
