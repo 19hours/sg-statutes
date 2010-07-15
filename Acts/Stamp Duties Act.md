@@ -710,13 +710,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) must be incorporated for the primary purpose of acquiring and holding shares in other companies; and
 
-(b) must be —
-
-(i) where the date of the acquisition is during the period from 1st April 2010 to 16th February 2012 (both dates inclusive), directly and wholly owned by the acquiring company at the date of the acquisition; and
-
-(ii) where the date of the acquisition is during the period from 17th February 2012 to 31st March 2015 (both dates inclusive), wholly owned (whether directly or indirectly) by the acquiring company at the date of the acquisition.
-
-[Act 1 of 2013 wef 01/04/2010]
+(b) must be directly and wholly owned by the acquiring company at the date of the acquisition.
 
 (2A) No instrument referred to in subsection (1) shall be deemed to be duly stamped unless —
 
@@ -728,21 +722,17 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (3) In this section, a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary is any of the following:
 
-(a) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, such total ownership was 50% or less of the total number of ordinary shares in the target company;
+(a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
 
-[Act 1 of 2013 wef 01/04/2010]
+(b) [Deleted by Act23/2011 wef 01/04/2010];
 
-(b) [Deleted by Act 23/2011 wef 01/04/2010];
+(c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
 
-(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
-
-(i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
+(i) before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns more than 50% but less than 75% of the total number of ordinary shares in the target company; and
 
 (ii) the date of the acquisition does not fall within the financial year of the acquiring company in which the acquisition referred to in paragraph (a) occurs;
 
 [23/2011 wef 01/04/2010]
-
-[Act 1 of 2013 wef 01/04/2010]
 
 (d) any other acquisition the date of which falls within the qualifying period in which the acquisition referred to in paragraph (a) or (c), as the case may be, occurs.
 
@@ -754,21 +744,17 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (b) following the end of the financial year referred to in paragraph (a), the acquiring company may elect, in such form and manner and within such time as the Commissioner may specify, to replace the qualifying period referred to in that paragraph with a prescribed period (which must be a period within which the acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs); and
 
-(c) where the acquiring company claims a deduction under Lsection 37L of the Income Tax Act (Cap. 134) in connection with the acquisition referred to in subsection (3)(a) or (c), as the case may be, then, whether or not an election was made under paragraph (b), the qualifying period shall, in place of the period referred to in paragraph (a) or (b) (as the case may be), be the same period as that for which acquisitions are qualifying acquisitions for the purposes of its claim under section 37L of the Income Tax Act.
+(c) where the acquiring company claims an allowance under section 37L of the Income Tax Act (Cap. 134) in connection with the acquisition referred to in subsection (3)(a) or (c), as the case may be, then, whether or not an election was made under paragraph (b), the qualifying period shall, in place of the period referred to in paragraph (a) or (b) (as the case may be), be the same period as that for which acquisitions are qualifying acquisitions for the purposes of its claim under section 37L of the Income Tax Act.
 
 [23/2011 wef 01/04/2010]
 
-[Act 1 of 2013 wef 01/04/2010]
+(5) [Deleted by Act23/2011 wef 01/04/2010]
 
-(5) [Deleted by Act 23/2011 wef 01/04/2010]
+(6) [Deleted by Act23/2011 wef 01/04/2010]
 
-(6) [Deleted by Act 23/2011 wef 01/04/2010]
-
-(7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
+(7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
 [23/2011 wef 01/04/2010]
-
-[Act 1 of 2013 wef 01/04/2010]
 
 (8) Subject to the rules made under subsection (18), where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to it for each of the following periods shall not exceed $200,000:
 
@@ -1088,7 +1074,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (f) the Commissioner of Building Control made an order under section 24 of the Building Control Act (Cap. 29) in respect of the property; or
 
-(g) a Strata Titles Board refused an application for the sale of the property under section 84A, 84D or 84E of the Land Titles (Strata) Act (Cap. 158).
+(g) a Strata Titles Board refused an application for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
 
 [26/96; 33/99]
 
@@ -1120,7 +1106,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 “public authority” means the Housing and Development Board constituted by the Housing and Development Act (Cap. 129) or the Jurong Town Corporation constituted under the Jurong Town Corporation Act (Cap. 150);
 
-“Strata Titles Board” means a Strata Titles Board constituted under Part VI of the Land Titles (Strata) Act (Cap. 158).
+“Strata Titles Board” means a Strata Titles Board constituted under the Building Maintenance and Strata Management Act (Cap. 30C).
 
 [33/99]
 
@@ -1312,9 +1298,9 @@ Sale of annuity or right not before in existence
 
 24\.—(1) Every instrument and every decree or order of any court, whereby any property on any occasion, except a sale or mortgage, is transferred to or vested in any person, shall be charged as a conveyance or transfer of property.
 
-(2) For the avoidance of doubt, every instrument or deed of declaration referred to in section 66A of the Conveyancing and Law of Property Act (Cap. 61) or section 53 of the Land Titles Act (Cap. 157), and every instrument filed in the land registry by a personal representative declaring himself to be absolute owner of any land, shall be charged as a conveyance or transfer of property.
+(2) For the avoidance of doubt, every instrument filed in the land registry by a personal representative declaring himself to be absolute owner of any land shall be charged as a conveyance or transfer of property.
 
-[26/96]
+[28/2010 wef 15/07/2010]
 
 ### Leases, how to be charged in respect of produce, etc.
 
@@ -2466,7 +2452,7 @@ $2
 
 $3
 
-(b) (Deleted by )S 192/2003
+(b) (Deleted byS 192/2003)
 
 (c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
 
@@ -2654,7 +2640,7 @@ Instruments Which May be Stamped With Impressed or Adhesive Stamps
 
 Article No.
 
-Nature of the instrument and the reference number thereto in the First Schedule
+Nature of the instrument and the reference number thereto inthe First Schedule
 
 Person required to cancel the adhesive stamp
 
@@ -3149,6 +3135,17 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 15/2011 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 April 2010|
+|49.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 9/2010)|
+||Date of Second Reading|Date not available.|
+||Date of Third Reading|Date not available.|
+||Date of commencement|15 July 2010|
+|50.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 24/2010 published on 16 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|15 July 2010|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
