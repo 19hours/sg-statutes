@@ -174,13 +174,13 @@
 
 - [131 Regulations made by, and fees to be paid to, Authority](#Regulations-made-by-and-fees-to-be-paid-to-Authority)
 
-[**FIRST SCHEDULE Requirements under Section 84A, 84D, 84E or 84FA**](#FIRST-SCHEDULE-Requirements-under-Section-84A-84D-84E-or-84FA)
+[**FIRST SCHEDULE Requirements under Section 84a, 84d, 84e or 84fa**](#FIRST-SCHEDULE-Requirements-under-Section-84a-84d-84e-or-84fa)
 
 [**SECOND SCHEDULE General Meetings for Purposes of Collective Sale**](#SECOND-SCHEDULE-General-Meetings-for-Purposes-of-Collective-Sale)
 
 [**THIRD SCHEDULE Composition, Constitution and Proceedings of Collective Sale Committee**](#THIRD-SCHEDULE-Composition-Constitution-and-Proceedings-of-Collective-Sale-Committee)
 
-[**FOURTH SCHEDULE Deductions Allowable by Board**](#FOURTH-SCHEDULE-Deductions-Allowable-by-Board)
+[**FOURTH SCHEDULE Deductions Allowable by Board or high court**](#FOURTH-SCHEDULE-Deductions-Allowable-by-Board-or-high-court)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1910,7 +1910,7 @@ whichever first occurs, one or more of those objections are not withdrawn, the B
 
 [13/2010 wef 15/07/2010]
 
-(7) An order made under subsection (6) by the High Court may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4A), be increased if the High Court is satisfied that it would be just and equitable to do so.
+(7) An order made under subsection (6)subsection (6) by the High Court may, with the consent of the collective sale committee, include an order that the proceeds of sale for any lot to be received by an objector, being a subsidiary proprietor who has filed an objection under subsection (4A), be increased if the High Court is satisfied that it would be just and equitable to do so.
 
 [13/2010 wef 15/07/2010]
 
@@ -2462,7 +2462,7 @@ FIRST SCHEDULE
 
 Sections 84A(3), (4), (7C), (13) and (14), 84D(3), 84E(4) and (5) and 84FA(3) and (4)
 
-Requirements under Section 84A, 84D, 84E or 84FA
+Requirements under Section 84a, 84d, 84e or 84fa
 
 1. Before making an application to a Board, the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors of flats referred to in section 84D(2) or 84E(3), as the case may be, shall —
 
@@ -2480,11 +2480,11 @@ Requirements under Section 84A, 84D, 84E or 84FA
 
 within 4 weeks after the start of the permitted time and thereafter at intervals of not more than 4 weeks from the date of the last notice under this sub-paragraph;
 
-(c) ensure that the notice in sub-paragraph (b) does not include any subsidiary proprietor who has served or is entitled to serve a notice of rescission under paragraph 6 and that the notice in that sub-paragraph is certified by the advocate and solicitor appointed by the collective sale committee to be accurate;
+(c) ensure that the notice in sub-paragraph (b) does not include any subsidiary proprietor who has served or is entitled to serve a notice of rescission under paragraph 6 and that the notice in that sub-paragraph is certified by the advocate and solicitor appointed by the collective sale committee or in accordance with paragraph 7(1)(a) in the Third Schedule, whichever is applicable, to be accurate;
 
 [S 365/2010 wef 16/07/2010]
 
-(d) advertise in the 4 official languages the particulars of the application in such local newspapers as approved by the Board;
+(d) advertise in the 4 official languages the particulars of the proposed application in such local newspapers as approved by the Board;
 
 [S 365/2010 wef 16/07/2010]
 
@@ -2524,13 +2524,13 @@ within 4 weeks after the start of the permitted time and thereafter at intervals
 
 (f) the date of delivery of vacant possession of the lot or flat.
 
-4. The collective sale agreement shall be signed by the subsidiary proprietor, and, if signed in Singapore, in the presence of an advocate and solicitor who has a valid practising certificate appointed by the collective sale committee .
+4. The collective sale agreement shall be signed by the subsidiary proprietor, and, if signed in Singapore, in the presence of an advocate and solicitor who has a valid practising certificate appointed by the collective sale committee or in accordance with paragraph 7(1)(a) in the Third Schedule, whichever is applicable.
 
 [S 365/2010 wef 16/07/2010]
 
 5\. The collective sale agreement shall be accompanied by a notice, in the prescribed form, that may be used by the subsidiary proprietor to rescind his agreement to be a party to the collective sale agreement.
 
-7. The notice of rescission shall be signed by the subsidiary proprietor and shall be served personally on the advocate and solicitor appointed by the collective sale committee before 5 p.m. on the last day of the cooling-off period.
+7. The notice of rescission shall be signed by the subsidiary proprietor and shall be served personally on the advocate and solicitor appointed by the collective sale committee or in accordance with paragraph 7(1)(a) in the Third Schedule, whichever is applicable, before 5 p.m. on the last day of the cooling-off period.
 
 [S 365/2010 wef 16/07/2010]
 
@@ -2624,7 +2624,7 @@ immediately proceed to convene a general meeting of the management corporation t
 
 [13/2010 wef 15/07/2010]
 
-(1A) If a relevant event happens, the council of the management corporation shall not, on receipt by the secretary thereof of another requisition for a general meeting, proceed to convene another general meeting of the management corporation for the purposes of a collective sale unless —
+(1A) If a relevant event happens, the council of the management corporation shall not, on receipt by the secretary thereof of another requisition for a general meeting, proceed to convene another general meeting of the management corporation for the purposes of constituting a collective sale committee unless —
 
 (a) a period of 2 or more years has elapsed since the happening of the relevant event; or
 
@@ -2634,6 +2634,8 @@ immediately proceed to convene a general meeting of the management corporation t
 
 (ii) in the case of the second or subsequent requisition after the happening of the relevant event — by at least 80% of the total number of subsidiary proprietors of lots that comprise the management corporation or by one or more persons entitled to vote in respect of one or more lots, the share value or the total share value of which is at least 80% of the aggregate value of all the lots whose subsidiary proprietors comprise the management corporation.
 
+[S 365/2010 wef 16/07/2010]
+
 (2) Subject to sub-paragraph (2A), in the case of land in a development to which section 84D applies, any general meeting shall be convened by —
 
 (a) the proprietors of the flats who own not less than 20% share of the land; or
@@ -2642,7 +2644,7 @@ immediately proceed to convene a general meeting of the management corporation t
 
 [13/2010 wef 15/07/2010]
 
-(2A) If a relevant event happens, the proprietors of flats in a development to which section 84D applies shall not proceed to convene another general meeting for the purposes of a collective sale unless —
+(2A) If a relevant event happens, the proprietors of flats in a development to which section 84D applies shall not proceed to convene another general meeting for the purposes of constituting a collective sale committee unless —
 
 (a) a period of 2 or more years has elapsed since the happening of the relevant event; or
 
@@ -2652,6 +2654,8 @@ immediately proceed to convene a general meeting of the management corporation t
 
 (ii) in the case of the second or subsequent requisition after the happening of the relevant event — by proprietors of flats in the development who own not less than 80% share of the land or by not less than 80% of the total number of proprietors of such flats.
 
+[S 365/2010 wef 16/07/2010]
+
 (3) Subject to sub-paragraph (3A), in the case of land in a development to which section 84E applies, any general meeting shall be convened by —
 
 (a) the proprietors of the flats who own not less than 20% notional share of the land; or
@@ -2660,7 +2664,7 @@ immediately proceed to convene a general meeting of the management corporation t
 
 [13/2010 wef 15/07/2010]
 
-(3A) If a relevant event happens, the proprietors of flats in a development to which section 84E applies shall not proceed to convene another general meeting for the purposes of a collective sale unless —
+(3A) If a relevant event happens, the proprietors of flats in a development to which section 84E applies shall not proceed to convene another general meeting for the purposes of constituting a collective sale committee unless —
 
 (a) a period of 2 or more years has elapsed since the happening of the relevant event; or
 
@@ -2670,21 +2674,23 @@ immediately proceed to convene a general meeting of the management corporation t
 
 (ii) in the case of the second or subsequent requisition after the happening of the relevant event — by proprietors of flats in that development who own not less than 80% notional share of the land or by not less than 80% of the total number of proprietors of such flats.
 
+[S 365/2010 wef 16/07/2010]
+
 (4) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered address of the management corporation, and may consist of several documents in like form each signed by one or more requisitionists.
 
-(5) If the council does not within 14 days after the date of the deposit of the requisition made by requisitionists referred to in sub-paragraph (1) or (1A)(b), as the case may be, proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
+(5) If the council does not within 14 days after the date of the deposit of the requisition made by requisitionists referred to in sub-paragraph (1)sub-paragraph (1) or (1A)(b), as the case may be, proceed to convene a meeting, the requisitionists, or any one of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by the council, convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
 
 [13/2010 wef 15/07/2010]
 
 (6) Any reasonable expenses incurred by the requisitionists by reason of the failure of the council to convene a meeting shall be paid to the requisitionists by the management corporation.
 
-(7) In the case of land in a development to which section 84D or 84E applies, the general meeting may be convened by the proprietors referred to in sub-paragraph (2), (2A), (3) or (3A), as the case may be, in the same manner as nearly as possible as that in which meetings are to be convened.
+(7) In the case of land in a development to which section 84D or 84E applies, the general meeting may be convened by the proprietors referred to in sub-paragraph (2)sub-paragraph (2), (2A), (3) or (3A), as the case may be, in the same manner as nearly as possible as that in which meetings are to be convened.
 
 [13/2010 wef 15/07/2010]
 
 (8) For the purposes of sub-paragraphs (1A), (2A) and (3A), a relevant event occurs when —
 
-(a) no quorum of proprietors is present at a general meeting —
+(a) no quorum of proprietors is present at a general meeting to constitute a collective sale committee —
 
 (i) of a management corporation under sub-paragraph (1) convened on or after the date of commencement of section 9(b) of the Land Titles (Strata) (Amendment) Act 2010;
 
@@ -2698,7 +2704,7 @@ immediately proceed to convene a general meeting of the management corporation t
 
 (d) the collective sale committee constituted for the purposes of a collective sale of all lots and the common property in a strata title plan to which section 84A or 84FA applies, or a collective sale of all the flats and land in a development to which section 84D or 84E applies, as the case may be, is dissolved at any time on or after the date of commencement of section 9(i) of the Land Titles (Strata) (Amendment) Act 2010 by virtue of the operation of paragraph 12(2) of the Third Schedule; or
 
-(e) every member of a collective sale committee constituted for the purposes of a collective sale referred to in sub-paragraph (d) is removed from office on or after the date of commencement of section 9(i) of the Land Titles (Strata) (Amendment) Act 2010 and no other collective sale is constituted in replacement for the purposes of the same collective sale.
+(e) every member of a collective sale committee constituted for the purposes of a collective sale referred to in sub-paragraph (d) is removed from office on or after the date of commencement of section 9(i) of the Land Titles (Strata) (Amendment) Act 2010 and no other collective sale committee is constituted in replacement for the purposes of the same collective sale.
 
 [S 365/2010 wef 16/07/2010]
 
@@ -2978,7 +2984,7 @@ Vacation of office of member of collective sale committee
 
 (e) if the person is removed from office at a general meeting;
 
-(ea) if the person is removed from office by the collective sale committee in accordance with paragraph 8 on the ground that an application to a Board has been made under section 84A during his tenure as a member and the person is a subsidiary proprietor who has not executed the collective sale agreement to which the application relates;
+(ea) if the person is removed from office by the collective sale committee in accordance with paragraph 8 on the ground that an application to a Board has been made under section 84A during his tenure as a member and the person is a subsidiary proprietor or 84FA who has not executed the collective sale agreement to which the application relates;
 
 [13/2010 wef 15/07/2010]
 
@@ -3032,7 +3038,9 @@ General meetings convened by collective sale committee
 
 Meetings of collective sale committee
 
-8.—(1) At any meeting of a collective sale committee, a quorum shall consist of the majority of the members of the collective sale committee.
+8.—(1) At any meeting of a collective sale committee, a quorum shall consist of the majority of the members of the collective sale committee except that where a management corporation for a strata title plan has only 2 subsidiary proprietors, the presence of the member who owns more than 50% of the aggregate share value of all the lots comprised in the strata title plan shall be the quorum required to convene the meeting of the collective sale committee.
+
+[S 365/2010 wef 16/07/2010]
 
 (2) A decision of the majority of members of the collective sale committee present and voting at any meeting of the collective sale committee shall be a decision of the collective sale committee except that where a management corporation for a strata title plan has only 2 subsidiary proprietors, the decision of the member who owns more than 50% of the aggregate share value of all the lots comprised in the strata title plan shall be the decision of the collective sale committee.
 
@@ -3076,9 +3084,7 @@ Collective sale by public tender or auction
 
 Termination of collective sale committee
 
-12. A collective sale committee may be dissolved —
-
-(1) A collective sale committee may be dissolved —
+12.—(1) A collective sale committee may be dissolved —
 
 (a) by ordinary resolution at a general meeting of the management corporation convened in accordance with the Second Schedule; or
 
@@ -3102,7 +3108,7 @@ FOURTH SCHEDULE
 
 Section 84A(8)(a) and (c) and (14)
 
-Deductions Allowable by Board
+Deductions Allowable by Board or high court
 
 1\. Stamp duty paid on the purchase of the lot or flat.
 
@@ -3260,6 +3266,8 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 9/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|18 May 2010|
 ||Date of commencement|15 July 2010|
+|27.|**G. N. No. S 365/2010—Land Titles (Strata) Act (Amendment of Schedules) Order 2010**|
+||Date of commencement|16 July 2010|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
