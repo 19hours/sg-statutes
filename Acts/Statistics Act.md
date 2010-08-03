@@ -349,9 +349,7 @@ Subject Matters
 
 14\. Energy
 
-14A. Environment
-
-[S 151/2010 wef 12/03/2010]
+14A\. Environment
 
 15\. External trade
 
@@ -371,9 +369,7 @@ Subject Matters
 
 23\. Income and expenditure
 
-23A. Information and communications technology
-
-[S 501/2000 wef 01/11/2000]
+23A\. Information and communications technology
 
 24\. Insurance
 
@@ -394,6 +390,8 @@ Subject Matters
 32\. Mining
 
 33\. Narcotics
+
+34. [Deleted by S 151/2010 wef 12/03/2010 wef 12/03/2010]
 
 35\. Population
 
@@ -417,23 +415,21 @@ Subject Matters
 
 [3/2010 wef 12/02/2010]
 
+[S 501/2000; S 151/2010]
+
 SECOND SCHEDULE
 
 Sections 2 and 13
 
 Research and Statistics Units
 
-1. Economics Research Department of the Building and Construction Authority.
-
-[S 451/2007 wef 28/08/2007]
-
-[S 151/2010 wef 12/03/2010]
+1\. Economics Research Department of the Building and Construction Authority.
 
 2\. Research and Statistics Unit of the Economic Development Board.
 
-3. Management Information and Research Branch of the Ministry of Education.
+3\. Management Information and Research Branch of the Ministry of Education.
 
-[S 393/2006 wef 30/06/2006]
+4. [Deleted by S 151/2010 wef 12/03/2010 wef 12/03/2010]
 
 5. Health Information Division of the Ministry of Health.
 
@@ -443,23 +439,17 @@ Research and Statistics Units
 
 6\. Manpower Research and Statistics Department of the Ministry of Manpower.
 
-7. Financial Surveillance Division of the Monetary Authority of Singapore.
+7\. Financial Studies and Statistics Division of the Monetary Authority of Singapore.
 
-[S 536/2002 wef 04/10/2002]
+8\. Strategic Planning Division of the Info-communications Development Authority of Singapore.
 
-[S 40/2011 wef 03/08/2010]
-
-8. Strategic Planning Division of the Info-communications Development Authority of Singapore.
-
-[S 393/2006 wef 30/06/2006]
-
-9. Research and Statistics Unit of the National Environment Agency.
-
-[S 151/2010 wef 12/03/2010]
+9\. Research and Statistics Unit of the National Environment Agency.
 
 10. Research and Statistics Unit of the Energy Market Authority of Singapore.
 
 [S 151/2010 wef 12/03/2010]
+
+[S 536/2002; S 393/2006; S 451/2007]
 
 THIRD SCHEDULE
 
@@ -546,6 +536,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|12 February 2010|
 |19.|**G.N. No. S 151/2010—Statistics Act (Amendment of First and Second Schedules) Order 2010**|
 ||Date of commencement|12 March 2010|
+|20.|**G. N. No. S 40/2011—Statistics Act (Amendment of Second Schedule) Order 2011**|
+||Date of commencement|3 August 2010|
 ## COMPARATIVE TABLE
 
 Statistics Act
