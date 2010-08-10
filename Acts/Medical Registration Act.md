@@ -242,11 +242,13 @@ MEDICAL COUNCIL
 
 (a) the Director of Medical Services;
 
-(b) 2 registered medical practitioners to be appointed by the Minister on the nomination of the Council of the National University of Singapore, one of whom shall be the Dean of the Faculty of Medicine of that University;
+(b) 2 registered medical practitioners from each prescribed medical school in Singapore to be appointed by the Minister on the nomination of the council of the university to which the prescribed medical school belongs, one of whom shall be the Dean of the medical school;
 
-(c) 9 registered medical practitioners resident in Singapore to be elected by the fully registered medical practitioners resident in Singapore; and
+[1/2010 wef 10/08/2010]
 
-(d) 7 registered medical practitioners resident in Singapore to be appointed by the Minister.
+(c) 12 registered medical practitioners resident in Singapore to be elected by the fully registered medical practitioners resident in Singapore; and
+
+(d) 8 registered medical practitioners resident in Singapore to be appointed by the Minister.
 
 [46/2002]
 
@@ -2547,6 +2549,11 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|29 April 2009|
 |14.|**G. N. No. S 521/2009—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2009**|
 ||Date of commencement|30 October 2009|
+|15.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+||Date of First Reading|19 October 2009|
+|||(Bill No. 22/2009 published on 19 October 2009)|
+||Date of Second and Third Readings|11 January 2010|
+||Date of commencement|10 August 2010|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
