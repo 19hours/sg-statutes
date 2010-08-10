@@ -1755,8 +1755,6 @@ Medical device
 
 “Medical device” means any instrument, apparatus, implement, machine, appliance, implant, in vitro reagent or calibrator, software, material or other similar or related article that is intended by its manufacturer to be used, whether alone or in combination, for humans for one or more of the specific purposes of —
 
-Parts III and IV and section 19(1)(b) shall not apply.
-
 (a)
 
 diagnosis, prevention, monitoring, treatment or alleviation of any disease;
@@ -1820,6 +1818,8 @@ protecting them; or
 keeping them in good condition.
 
 [S 564/2007; S 684/2007]
+
+[S 438/2010 wef 10/08/2010]
 
 SECOND SCHEDULE
 
@@ -1914,3 +1914,5 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of commencement|1 January 2008|
 |4.|**2008 Revised Edition—Health Products Act**|
 ||Date of operation|31 December 2008|
+|5.|**G. N. No. S 438/2010—Health Products Act (Amendment of First Schedule) Order 2010**|
+||Date of commencement|10 August 2010|
