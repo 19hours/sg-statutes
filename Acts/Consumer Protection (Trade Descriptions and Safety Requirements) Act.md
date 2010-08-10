@@ -434,7 +434,13 @@ Section 2(2)
 
 Specified laws
 
-The Sale of Food Act [Cap. 283].
+1. The Sale of Food Act [Cap. 283].
+
+[S 433/2010 wef 10/08/2010]
+
+2. The Health Products Act (Cap. 122D).
+
+[S 433/2010 wef 10/08/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -458,3 +464,5 @@ This Legislative History is provided for the convenience of users of the Consume
 |||(Bill No. 42/98 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|15 January 1999 (item (2) in the Fourth Schedule — amendment of Consumer Protection (Trade Descriptions and Safety Requirements) Act)|
+|4.|**G.N. No. S 433/2010—Consumer Protection (Trade Descriptions and Safety Requirements) Act (Amendment of Schedule) Order 2010**|
+||Date of commencement|10 August 2010|
