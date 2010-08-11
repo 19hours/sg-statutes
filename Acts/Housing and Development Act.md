@@ -60,6 +60,8 @@
 
 - [22 Power of Board to enter into agreements](#Power-of-Board-to-enter-into-agreements)
 
+- [22A Power in respect of intellectual property rights](#Power-in-respect-of-intellectual-property-rights)
+
 - [23 Board may make ex gratia payments](#Board-may-make-ex-gratia-payments)
 
 - [24 Power to purchase, sell, lease and exchange lands, etc.](#Power-to-purchase-sell-lease-and-exchange-lands-etc)
@@ -130,7 +132,7 @@
 
 - [50A Purchase of flats, houses and other living accommodation by bodies corporate](#Purchase-of-flats-houses-and-other-living-accommodation-by-bodies-corporate)
 
-- [51 Flats, houses or other buildings not to be attached, etc., and no trust in respect thereof to be created without approval of Board](#Flats-houses-or-other-buildings-not-to-be-attached-etc-and-no-trust-in-respect-thereof-to-be-created-without-approval-of-Board)
+- [51 Property not to be used as security or attached, etc., and no trust in respect thereof to be created without approval of Board](#Property-not-to-be-used-as-security-or-attached-etc-and-no-trust-in-respect-thereof-to-be-created-without-approval-of-Board)
 
 - [52 Transfer of flat, house or other building on death of owner](#Transfer-of-flat-house-or-other-building-on-death-of-owner)
 
@@ -486,6 +488,10 @@ FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
 or any part thereof upon a mortgage of that land;
 
+(da) to provide technical and consultancy services within or outside Singapore, in respect of matters within its expertise acquired in the exercise of its functions under this Act, and to act as an agent for the Government or, with the approval of the Minister, as an agent for another public authority in the provision of such services;
+
+[18/2010 wef 11/08/2010]
+
 (e) to exercise such powers and perform such duties as may from time to time be conferred on or delegated to the Board by or under the provisions of any written law; and
 
 (f) to do all such other matters and things as are necessary for the exercise or performance of all or any of the functions and duties of the Board.
@@ -606,6 +612,12 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 [41/98]
 
+### Power in respect of intellectual property rights
+
+22A\. The Board may create, develop, apply for, acquire and hold intellectual property rights and enter into agreements (whether in Singapore or elsewhere) for the sale, licensing or commercial application of such rights, on its own or in conjunction with other persons.
+
+[18/2010 wef 11/08/2010]
+
 ### Board may make ex gratia payments
 
 23\. The Board may, with the approval of the Minister, make an ex gratia payment to any person sustaining any damage by reason of the exercise of any of the powers vested in the Board or its employees under and by virtue of this Act.
@@ -648,7 +660,7 @@ Compulsory acquisition of land
 
 (bc) prescribing the conditions which, if used in any contract or agreement between any owner of any such flat, house or other building and a purchaser other than the Board, shall be void;
 
-(c) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000; and
+(c) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000;
 
 (d) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Board and be recoverable as such) to be paid by the Board’s tenant or licensee, an owner of any flat, house or other living accommodation sold by the Board or an owner of any HUDC dwelling for late payment of any of the following moneys due to the Board:
 
@@ -658,7 +670,11 @@ Compulsory acquisition of land
 
 (iii) maintenance fees;
 
-(iv) moneys due under any loan provided to such owner for his purchase of such HUDC dwelling, flat, house or other living accommodation.
+(iv) moneys due under any loan provided to such owner for his purchase of such HUDC dwelling, flat, house or other living accommodation; and
+
+(e) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Board and be recoverable as such) to be paid by the person who leases a flat from the Board, for non-observance or non-compliance with any of the restrictions, conditions or requirements of the lease.
+
+[18/2010 wef 11/08/2010]
 
 [28/89; 16/95; 41/98]
 
@@ -1238,37 +1254,63 @@ and a solicitor is not employed by such person to act for him in the transaction
 
 [17/96]
 
-### Flats, houses or other buildings not to be attached, etc., and no trust in respect thereof to be created without approval of Board
+### Property not to be used as security or attached, etc., and no trust in respect thereof to be created without approval of Board
 
-51\.—(1) No lien by deposit of the title deeds, as security for a debt, of any flat, house or other building that has been sold by the Board under the provisions of this Part shall be capable of being created in favour of any person and no caveat in support of any such lien by deposit shall be capable of being registered under the provisions of the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157).
+51\.—(1) Subject to subsection (4), any contract or agreement to directly or indirectly use protected property (or the proceeds of sale of protected property) as security or collateral for any debt, obligation or claim shall be null and void.
 
-(2) No such flat, house or other building shall vest in the Official Assignee on the bankruptcy of the owner thereof.
+(2) Any act (including the deposit of title deeds), deed, instrument or document that purports to protect rights under or give effect to any contract or agreement that is null and void under subsection (1) shall be of no effect and shall not result in or create any interest in land or be capable of being registered under the provisions of the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157).
 
-(3) No such flat, house or other building shall be attached in execution of an order of any court unless the order of the court is obtained by —
+(3) Where any deed, instrument or document referred to in subsection (2) is registered under the provisions of the Registration of Deeds Act or the Land Titles Act —
 
-(a) a mortgagee in exercise of his rights under a mortgage created with the prior written consent of the Board; or
+(a) the Board may, by an instrument lodged with the Registrar of Deeds or the Registrar of Titles, as the case may be, declare such deed, instrument or document to be null and void; and
 
-(b) a chargee in exercise of his rights under a charge under any written law,
+(b) the Registrar of Deeds or the Registrar of Titles shall register the instrument lodged by the Board under paragraph (a) without being concerned to inquire into its regularity or validity, and upon registration thereof shall cancel the registration of such deed, instrument or document declared by the Board to be null and void.
 
-over that flat, house or other building.
+(4) Subsection (1) does not apply if the security or collateral is to be created or granted in favour of —
 
-[31/2002]
+(a) the Board;
 
-(3A) Subsections (2) and (3) shall not apply if the owner of any such flat, house or other building is or, where there is more than one owner, all the owners are not citizens of Singapore.
+(b) an approved financial institution; or
 
-[41/98]
+(c) any person or person belonging to a class of persons prescribed by the Minister as a person to whom, or a class of persons to which, subsection (1) will not apply.
 
-(4) No trust in respect of any such flat, house or other building shall be created by the owner thereof without the prior written approval of the Board.
+(5) No protected property shall vest in the Official Assignee on the bankruptcy of the owner thereof.
 
-[30/84]
+(6) No protected property shall be attached in execution of an order of any court unless the order of the court is obtained by —
 
-(5) Every trust which purports to be created in respect of any such flat, house or other building without the prior written approval of the Board shall be void.
+(a) a mortgagee in exercise of his rights under a mortgage created with the prior written consent of the Board over that property; or
 
-[30/84]
+(b) a chargee in exercise of his rights under a charge under any written law over that property.
 
-(6) No person shall become entitled to any such flat, house or other building under any resulting trust or constructive trust, whensoever created.
+(7) Subsections (5) and (6) shall not apply if the sole owner of any protected property is not a citizen of Singapore or, where there is more than one owner, all the owners are not citizens of Singapore.
 
-[29/2005 wef 15/09/2005]
+(8) No trust in respect of any protected property shall be created by the owner thereof without the prior written approval of the Board.
+
+(9) Every trust which purports to be created in respect of any protected property without the prior written approval of the Board shall be null and void.
+
+(10) No person shall become entitled to any protected property (or any interest in such property) under any resulting trust or constructive trust whensoever created or arising.
+
+(11) In this section —
+
+“approved financial institution” means —
+
+(a) any bank licensed under the Banking Act (Cap. 19);
+
+(b) any finance company licensed under the Finance Companies Act (Cap. 108);
+
+(c) any direct insurer registered under the Insurance Act (Cap. 142); and
+
+(d) any merchant bank approved as a financial institution under the Monetary Authority of Singapore Act (Cap. 186);
+
+“proceeds of sale”, in relation to any property, means the proceeds from any transaction involving the sale, transfer, conveyance, assignment, mortgage, charge or the disposal in any manner of the property or an estate or interest in the property;
+
+“protected property” means any flat, house or other building that has been sold by the Board under the provisions of this Part;
+
+“Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act (Cap. 269) and includes any Deputy Registrar of Deeds;
+
+“Registrar of Titles” means the Registrar of Titles appointed under the Land Titles Act (Cap. 157) and includes any Deputy Registrar of Titles and Assistant Registrar of Titles.
+
+[18/2010 wef 11/08/2010]
 
 ### Transfer of flat, house or other building on death of owner
 
@@ -5158,6 +5200,11 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
 |||(item (17) in the Second Schedule)|
+|39.|**Act 18 of 2010—Housing and Development (Amendment) Act 2010**|
+||Date of First Reading|19 July 2010|
+|||(Bill No. 14/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|19 July 2010|
+||Date of commencement|11 August 2010|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
