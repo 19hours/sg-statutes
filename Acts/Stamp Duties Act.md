@@ -724,7 +724,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
 
-(b) [Deleted by Act23/2011 wef 01/04/2010];
+(b) [Deleted by Act 23/2011 wef 01/04/2010];
 
 (c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
 
@@ -748,9 +748,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-(5) [Deleted by Act23/2011 wef 01/04/2010]
+(5) [Deleted by Act 23/2011 wef 01/04/2010]
 
-(6) [Deleted by Act23/2011 wef 01/04/2010]
+(6) [Deleted by Act 23/2011 wef 01/04/2010]
 
 (7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
@@ -1076,7 +1076,7 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (g) a Strata Titles Board refused an application for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
 
-[26/96; 33/99]
+[26/96; 33/99; 13/2010]
 
 (7) The refund under subsection (6) shall be made if and only if —
 
@@ -2452,7 +2452,61 @@ $2
 
 $3
 
-(b) (Deleted byS 192/2003)
+(b) on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 20th February 2010 but before 30th August 2010
+
+In addition to duty under paragraph (a), where the property or part thereof is disposed of in the following period from the date of its acquisition:
+
+Amount of consideration or value (whichever is applicable) of the property or, in the case of property for mixed purposes, the part of the property used for residential purposes
+
+Within one year
+
+(i) for every $100 or any part thereof of the first $180,000
+
+$1
+
+(ii) for every $100 or any part thereof of the next $180,000
+
+$2
+
+(iii) thereafter for every $100 or any part thereof
+
+$3
+
+(ba) on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 30th August 2010
+
+In addition to duty under paragraph (a), where the property or part thereof is disposed of in the following periods from the date of its acquisition:
+
+Amount of consideration or value (whichever is applicable) of the property or, in the case of property for mixed purposes, the part of the property used for residential purposes
+
+Within one year
+
+Exceeding one year but not exceeding 2 years
+
+Exceeding 2 years but not exceeding 3 years
+
+(i) for every $100 or any part thereof of the first $180,000
+
+$1
+
+$0.67
+
+$0.33
+
+(ii) for every $100 or any part thereof of the next $180,000
+
+$2
+
+$1.33
+
+$0.67
+
+(iii) thereafter for every $100 or any part thereof
+
+$3
+
+$2
+
+$1
 
 (c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
 
@@ -2630,6 +2684,8 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 $10
 
+[S 474/2010 wef 30/08/2010]
+
 [38/2002; S 284/98; S 288/2000; S192/2003; S525/2004]
 
 SECOND SCHEDULE\*
@@ -2640,7 +2696,7 @@ Instruments Which May be Stamped With Impressed or Adhesive Stamps
 
 Article No.
 
-Nature of the instrument and the reference number thereto inthe First Schedule
+Nature of the instrument and the reference number thereto in the First Schedule
 
 Person required to cancel the adhesive stamp
 
@@ -2680,15 +2736,15 @@ The lessor
 
 2.
 
-CONVEYANCE — Article No. 3(a), (c) to (i)
+CONVEYANCE — Article No. 3(a) to (i)
 
-(a) for all purposes other than paragraph (b)
+(a) for all purposes other than Article No. 3(b) and (ba)
 
 The grantee, transferee or lessee
 
-(b) for the purposes of Article No. 3(a) in relation to section 22A
+(b) for the purposes of Article No. 3(b) and (ba)
 
-The person liable to pay the additional ad valorem duty as specified in section 22A
+The grantor or transferor
 
 3.
 
@@ -2721,6 +2777,12 @@ PARTITION — Article No. 10
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
 
 [6/2010 wef 20/02/2010]
+
+[S 474/2010 wef 30/08/2010]
+
+[S 16/2011 wef 14/01/2011]
+
+[S 474/2010 wef 30/08/2010]
 
 [S 284/98]
 
@@ -3146,6 +3208,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 24/2010 published on 16 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|15 July 2010|
+|51.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
+||Date of commencement|30 August 2010|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
