@@ -1,4 +1,4 @@
-**Smoking (Control of Advertisements and Sale of Tobacco) Act**
+**Tobacco (Control of Advertisements and Sale) Act**
 
 **(CHAPTER 309)**
 
@@ -12,9 +12,9 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II CONTROL OF ADVERTISEMENTS RELATING TO SMOKING**](#Part-II)
+[**Part II CONTROL OF ADVERTISEMENTS RELATING TO TOBACCO PRODUCTS**](#Part-II)
 
-- [3 Prohibition on advertisements relating to smoking](#Prohibition-on-advertisements-relating-to-smoking)
+- [3 Prohibition on advertisements relating to tobacco products](#Prohibition-on-advertisements-relating-to-tobacco-products)
 
 - [4 Defence](#Defence)
 
@@ -32,7 +32,7 @@
 
 - [10 Prohibition on supply to persons below age of 18 years](#Prohibition-on-supply-to-persons-below-age-of-18-years)
 
-- [11 Control of smoking, etc., by young persons](#Control-of-smoking-etc-by-young-persons)
+- [11 Control of use of tobacco products by young persons](#Control-of-use-of-tobacco-products-by-young-persons)
 
 - [12 Number of cigarettes in package](#Number-of-cigarettes-in-package)
 
@@ -40,13 +40,13 @@
 
 - [14 Prohibition on sale by vending machines](#Prohibition-on-sale-by-vending-machines)
 
-- [15 Prohibition on importation and sale of harmful tobacco products](#Prohibition-on-importation-and-sale-of-harmful-tobacco-products)
+- [15 Prohibition on importation, distribution and sale of harmful tobacco products](#Prohibition-on-importation-distribution-and-sale-of-harmful-tobacco-products)
 
-- [16 Prohibition on saleof imitation tobacco products](#Prohibition-on-saleof-imitation-tobacco-products)
+- [16 Prohibition of imitation tobacco products](#Prohibition-of-imitation-tobacco-products)
 
 - [17 Health warnings and labelling](#Health-warnings-and-labelling)
 
-- [18 Power to license tobacco retailers](#Power-to-license-tobacco-retailers)
+- [18 Power to license tobacco retailers, etc.](#Power-to-license-tobacco-retailers-etc)
 
 - [19 Appointment of authorised officers](#Appointment-of-authorised-officers)
 
@@ -92,7 +92,7 @@
 
 [**Comparative Table**](#Comparative-Table)
 
-# Smoking (Control of Advertisements and Sale of Tobacco) Act
+# Tobacco (Control of Advertisements and Sale) Act
 
 (CHAPTER 309)
 
@@ -102,7 +102,7 @@ REVISED EDITION 2003
 
 (31st July 2003)
 
-An Act to prohibit advertisements relating to smoking, to control the use of tobacco products by young persons, to control the sale, packaging and trade description of tobacco products and for matters connected therewith.
+An Act to prohibit advertisements relating to any tobacco product or its use, to control the use of tobacco products by young persons, to control the sale, packaging and trade description of tobacco products and for matters connected therewith.
 
 [31st May 1993]
 
@@ -112,7 +112,7 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Smoking (Control of Advertisements and Sale of Tobacco) Act .
+1\. This Act may be cited as the Tobacco (Control of Advertisements and Sale) Act.
 
 ### Interpretation
 
@@ -130,7 +130,9 @@ PRELIMINARY
 
 (e) in any other manner whatsoever;
 
-“advertisement relating to smoking” means any advertisement referred to in section 3(1) which has not been approved under section 3(2);
+“advertisement relating to any tobacco product” means any advertisement referred to in section 3(1) which has not been approved under section 3(2);
+
+[17/2010 wef 01/09/2010]
 
 “authorised officer” means any officer or person appointed under section 19;
 
@@ -138,17 +140,49 @@ PRELIMINARY
 
 “Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act (Cap. 122C) to be the Chief Executive of the Authority;
 
-“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate usefor smoking;
+“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use;
+
+“emission” means any substance that is produced when a tobacco product is used;
+
+[17/2010 wef 01/09/2010]
 
 “imitation tobacco product” means any of the products referred to in section 16(1);
 
 “newspaper” includes any magazine, journal, periodical or any other publication containing news, intelligence, information or reports of occurrences, or any remarks, observations or comments in relation either to such news, intelligence, information or occurrences or to any other matter of interest to the public or any section of the public, issued in any language at regular or irregular intervals;
 
+“packaging”, in relation to any product or article, means any container and any other packaging material in which or with which the product or article is supplied, and includes —
+
+(a) the box, carton, cylinder, packet, pouch, tin or other receptacle which contains the product or article;
+
+(b) where any such receptacle is or is to be contained in one or more other receptacles, each of the other receptacles;
+
+(c) wrapper or wrapping of any nature or form;
+
+(d) any accompanying leaflet, brochure or other written material; and
+
+(e) any written, printed or graphic representation that appears on or with, or is attached to, the product or article or any part of its packaging;
+
+[17/2010 wef 01/09/2010]
+
+“premises” includes any place or building or part thereof;
+
+[17/2010 wef 01/09/2010]
+
 “publish”, with its grammatical variations, in relation to an advertisement, includes issuing, showing, displaying, exhibiting or making known an advertisement in any manner whatsoever;
 
 “smoking”, with its grammatical variations, means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke;
 
-“tobacco product” means any cigarette, cigar or any other form of tobacco including any mixture containing tobacco but excludes any medicinal product registered under the Medicines Act (Cap. 176);
+“tobacco product” means any cigarette, cigar or any other form of tobacco, or any tobacco derivative or substitute, including any mixture containing tobacco, or any tobacco derivative or substitute, but excludes any medicinal product registered under the Medicines Act (Cap.176);
+
+[17/2010 wef 01/09/2010]
+
+“tobacco substitute” means any article, object or thing that contains nicotine, but excludes tobacco, tobacco derivatives and any medicinal product registered under the Medicines Act;
+
+[17/2010 wef 01/09/2010]
+
+“use”, in relation to any tobacco product, means smoking, chewing, inhaling, ingesting or otherwise introducing the tobacco product or any of its constituents or emissions into the human body (whether by oral means or otherwise);
+
+[17/2010 wef 01/09/2010]
 
 “writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
 
@@ -156,15 +190,17 @@ PRELIMINARY
 
 ## PART II
 
-CONTROL OF ADVERTISEMENTS RELATING TO SMOKING
+CONTROL OF ADVERTISEMENTS RELATING TO TOBACCO PRODUCTS
 
-### Prohibition on advertisements relating to smoking
+### Prohibition on advertisements relating to tobacco products
 
 3\.—(1) Except as provided in subsection (2) or section 22, any person who publishes or causes to be published or takes part in the publication of any advertisement —
 
-(a) containing any express or implied inducement, suggestion or request to purchase or to smoke any tobacco product;
+(a) containing any express or implied inducement, suggestion or request to purchase or to use any tobacco product;
 
-(b) relating to smoking in terms which are calculated, expressly or impliedly, to lead to, induce, urge, promote or encourage the use of any tobacco product for the purpose of smoking; or
+(b) relating to any tobacco product or its use in terms which are calculated, expressly or impliedly, to lead to, induce, urge, promote or encourage the use of the tobacco product; or
+
+[17/2010 wef 01/09/2010]
 
 (c) which mentions, illustrates or depicts —
 
@@ -182,7 +218,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) for the purpose of promoting or identifying any goods or services unconnected with any tobacco product which are manufactured, distributed, marketed or provided by that person.
 
-(3) Subsection (2) shall not apply to any advertisement or class of advertisements which, directly or indirectly, leads to, induces, urges, promotes or encourages the use of any tobacco productfor the purpose of smoking.
+(3) Subsection (2) shall not apply to any advertisement or class of advertisements which, directly or indirectly, leads to, induces, urges, promotes or encourages the use of any tobacco product.
 
 (4) Where any person fails to comply with any condition imposed by the Minister under this section, the Minister may cancel the approval in relation to which that condition was imposed.
 
@@ -194,17 +230,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences by owner and occupier
 
-5\. Any person being the owner or occupier of any premisesor place to which the public or any section of the public has access, on payment or otherwise, who knowingly permits or suffers such premises or place or any part thereof to be kept or used for the publication of any advertisement in contravention of section 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+5\. Any person being the owner or occupier of any premises to which the public or any section of the public has access, on payment or otherwise, who knowingly permits or suffers such premises or place or any part thereof to be kept or used for the publication of any advertisement in contravention of section 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Presumption relating to printed documents
 
-6\. Where more than 10 copies of a notice, pamphlet, brochure or other printed document, containing an advertisement relating to smoking which has been published, are found in the possession of or in premises occupied by a person who is associated or concerned with the manufacture, distribution or marketing of any tobacco product associated with or related to the brand name, trade name or trade mark mentioned or depicted in the advertisement, he shall be presumed, until the contrary is proved, to have knowingly taken part in the publication of the advertisement in contravention of section 3(1).
+6\. Where more than 10 copies of a notice, pamphlet, brochure or other printed document, containing an advertisement relating to any tobacco product which has been published, are found in the possession of or in premises occupied by a person who is associated or concerned with the manufacture, distribution or marketing of any tobacco product associated with or related to the brand name, trade name or trade mark mentioned or depicted in the advertisement, he shall be presumed, until the contrary is proved, to have knowingly taken part in the publication of the advertisement in contravention of section 3(1).
 
 ### Advertisements in newspapers published outside Singapore
 
-7\.—(1) This Part shall not apply to any advertisement relating to smoking contained in a newspaper which is printed or published outside Singapore and is brought into Singapore for sale, free distribution or personal use other than a newspaper of a class or description specified by the Minister by notification in theGazette.
+7\.—(1) This Part shall not apply to any advertisement relating to any tobacco product contained in a newspaper which is printed or published outside Singapore and is brought into Singapore for sale, free distribution or personal use other than a newspaper of a class or description specified by the Minister by notification in theGazette.
 
-(2) Notwithstanding subsection (1), no person shall distribute or supply or cause to be distributed or supplied, whether free of charge or otherwise, any newspaper or printed matter containing any advertisement relating to smoking which is printed or published outside Singapore and is brought into Singapore, if such newspaper or printed matter —
+(2) Notwithstanding subsection (1), no person shall distribute or supply or cause to be distributed or supplied, whether free of charge or otherwise, any newspaper or printed matter containing any advertisement relating to any tobacco product which is printed or published outside Singapore and is brought into Singapore, if such newspaper or printed matter —
 
 (a) forms part of, or is supplemental to, any newspaper that is printed or published in Singapore; and
 
@@ -214,7 +250,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Advertisements not exempted
 
-8\. Nothing in section 7(1) shall be construed as exempting from the provisions of this Act any advertisement relating to smoking contained in any notice, circular, pamphlet, brochure or other printed matter or document which is not a newspaper within the meaning of this Act and which is printed or published outside Singapore and brought into Singapore for distribution solely or mainly for the purpose of announcing or commending the qualities of any brand of tobacco product.
+8\. Nothing in section 7(1) shall be construed as exempting from the provisions of this Act any advertisement relating to any tobacco product contained in any notice, circular, pamphlet, brochure or other printed matter or document which is not a newspaper within the meaning of this Act and which is printed or published outside Singapore and brought into Singapore for distribution solely or mainly for the purpose of announcing or commending the qualities of any brand of tobacco product.
 
 ## PART III
 
@@ -224,11 +260,11 @@ CONTROL OF SALE OF TOBACCO PRODUCTS
 
 9\.—(1) No person shall sell or offer for sale —
 
-(a) any goods with any tobacco product as a free gift;
+(a) any goods or services with any tobacco product as a free gift;
 
-(b) any tobacco product with any other goods as a free gift; or
+(b) any tobacco product with any other goods or services as a free gift; or
 
-(c) any tobacco product packaged or labelled together or otherwise in conjunction with any other goods .
+(c) any tobacco product packaged or labelled together or otherwise in conjunction with any other goods or services.
 
 (2) No person shall distribute or give or cause to be distributed or given or assist in the distribution or giving of any free sample of a tobacco product to the public or any section of the public other than to persons who are associated or concerned with the manufacture, distribution or sale of tobacco products.
 
@@ -260,17 +296,17 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (b) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not below the age of 18 years, and that it was reasonable to and he did accept that evidence as correct.
 
-### Control of smoking, etc., by young persons
+### Control of use of tobacco products by young persons
 
-11\.—(1) Any person who, being below the age of 18 years, smokes or chews any tobacco product in a public place or on a road, or buys or has in his possession, whether for his own use or not, any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
+11\.—(1) Any person who, being below the age of 18 years, uses any tobacco product in a public place or on a road, or buys or has in his possession, whether for his own use or not, any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
 
 [35/2002]
 
-(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, moking or chewing or about to smoke or chew any tobacco product, the officer may seize any tobacco product in the possession of such person.
+(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, using or about to use any tobacco product, the officer may seize any tobacco product in the possession of such person.
 
 (3) In this section —
 
-“public place” means the premises of a school within the meaning of the Education Act (Cap. 87) or any place, premises or building or part thereof to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+“public place” means the premises of a school within the meaning of the Education Act (Cap. 87) or any premises to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
 
 “road” has the same meaning as in the Road Traffic Act (Cap. 276).
 
@@ -278,13 +314,21 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 112\.—(1) No person shall —
 
-(a) sell or offer for sale cigarettes by retail; or
+(a) import or permit the import of any cigarette for the purpose of sale;
 
-(b) permit the sale or offer for sale of cigarettes by retail,
+(b) distribute or permit the distribution of any cigarette for the purpose of sale;
+
+(c) sell or offer to sell, or permit the sale of or offer for sale of, any cigarette; or
+
+(d) possess any cigarette for the purpose of sale,
 
 except in a package that contains not less than the prescribed number of cigarettes.
 
-[35/2002]
+[17/2010 wef 01/09/2010]
+
+(1A) Subsection (1) shall not apply to the import of cigarettes into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
+
+[17/2010 wef 01/09/2010]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -294,9 +338,11 @@ except in a package that contains not less than the prescribed number of cigaret
 
 “package” —
 
-(a) means any box, carton or other container in which cigarettes are supplied by the manufacturer or importer of the cigarettes for the purpose of sale by retail; and
+(a) means any box, carton or other container in which cigarettes are supplied for the purpose of sale; and
 
 (b) includes, in the case where the package is, or several packages are, contained inside one or more larger packages, the smaller package or each of the smaller packages, as the case may be;
+
+[17/2010 wef 01/09/2010]
 
 “prescribed number of cigarettes” means —
 
@@ -314,13 +360,13 @@ except in a package that contains not less than the prescribed number of cigaret
 
 13\.—(1) Every person who sells or offers for sale any tobacco product by retail (referred to in this section as the retailer) —
 
-(a) shall cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions in the premises or place where the product is sold, stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law; and
+(a) shall cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions in the premises where the product is sold, stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law; and
 
-(b) shall, if so directed by the Chief Executive, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Chief Executive may consider fit.
+(b) shall, if so directed by the Chief Executive, display such notices in such premises, phrase them in such manner or cause them to be of such size, as the Chief Executive may consider fit.
 
 [4/2001]
 
-(2) The retailer may, subject to any direction that may be given by the Chief Executive under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premisesor place.
+(2) The retailer may, subject to any direction that may be given by the Chief Executive under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premises.
 
 [4/2001]
 
@@ -338,47 +384,41 @@ except in a package that contains not less than the prescribed number of cigaret
 
 [13
 
-### Prohibition on importation and sale of harmful tobacco products
+### Prohibition on importation, distribution and sale of harmful tobacco products
 
-15\.—(1) No person shall import, sell or offer for sale —
+15\.—(1) Notwithstanding anything in this Act but subject to subsection (3), no person shall import, distribute, sell or offer for sale —
 
-(a) any chewing tobacco; or
+(a) any chewing tobacco;
 
-(b) such other tobacco product intended, labelled or described as suitable for inhaling, chewing or any oral use other than smoking as the Minister may, by notification in theGazette, specify.
+(b) such other tobacco product, or class of tobacco products, intended, labelled or described as suitable for use other than smoking, as the Minister may by regulations prescribe;
 
-(2) No person shall import, sell or offer for sale any cigarette containing —
+(c) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that such product or class of products has or is capable of having the effect of encouraging or otherwise promoting smoking or other uses of tobacco products; or
 
-(a) a yield of more than 1.3 mg (or such other minimum amount as the Minister may by order prescribe) of nicotine per cigarette; or
+(d) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that such product or class of products has or is capable of having, directly or indirectly, an adverse effect on the health of the public or any section of the public.
 
-(b) a yield of more than 15.0 mg (or such other minimum amount as the Minister may by order prescribe) of tar (nicotine free smoke condensate) per cigarette.
-
-(3) Notwithstanding subsection (2), no person shall import, sell or offer for sale any tobacco product —
+(2) Subject to subsection (3), no person shall import, distribute, sell or offer for sale such tobacco product or class of tobacco products as the Minister may by regulations prescribe, being tobacco product —
 
 (a) that contains; or
 
-(b) which emissions contain,
+(b) the emissions of which contain,
 
-any substance in excess of such amount as the Minister may by order prescribe for that substance.
+any substance in excess of such maximum amounts as may be prescribed for that substance.
 
-[35/2002]
+(3) Subsections (1) and (2) shall not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
 
-(4) Subsections (1), (2) and (3) shall not apply to the importation of any tobacco product which is intended for re-export.
+(4) For the purposes of subsection (2), the Minister may prescribe different maximum amounts for different substances, in relation to different classes or descriptions of tobacco products.
 
-[35/2002]
+(5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(6) In subsection (1), “smoking” means inhaling and expelling the smoke produced from the combustion of any tobacco product or any part of such tobacco product.
 
-[35/2002]
+[17/2010 wef 01/09/2010]
 
-(6) In subsection (3), “emission” means any substance that is produced when a tobacco product is used.
+### Prohibition of imitation tobacco products
 
-[14
+16\.—(1) No person shall import, distribute, sell or offer for sale any confectionery or other food product or any toy or other article that is designed to resemble a tobacco product or the packaging of which is designed to resemble the packaging commonly associated with tobacco products.
 
-[35/2002]
-
-### Prohibition on saleof imitation tobacco products
-
-16\.—(1) No person shall import, sell or offer for sale any confectionery or other food product or any toy or other article that is designed to resemble a tobacco product or which is sold in a package designed to resemble the packaging commonly associated with tobacco products.
+[17/2010 wef 01/09/2010]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
@@ -386,13 +426,13 @@ any substance in excess of such amount as the Minister may by order prescribe fo
 
 ### Health warnings and labelling
 
-17\.—(1) The Minister may by regulations impose requirements for securing that such tobacco products as may be specified in those regulations be marked with, labelled or accompanied by any warning relating to health, information or description as may be prescribed and control or prohibit the supply of tobacco products with respect to which such requirements are not complied with.
+17\.—(1) The Minister may by regulations impose requirements for securing that such tobacco products, and such of their packaging, as may be specified in those regulations be marked with, labelled or accompanied by any warning relating to health, information or description as may be prescribed and control or prohibit the supply of tobacco products with respect to which such requirements are not complied with.
 
 (2) Any person who contravenes the requirements imposed under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [16
 
-### Power to license tobacco retailers
+### Power to license tobacco retailers, etc.
 
 18\.—(1) The Minister may by regulations require any person who —
 
@@ -446,6 +486,10 @@ any tobacco product to be licensed by the Chief Executive.
 
 [4/2001]
 
+(3) Every authorised officer shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+[17/2010 wef 01/09/2010]
+
 ## PART IV
 
 ENFORCEMENT AND MISCELLANEOUS
@@ -458,13 +502,13 @@ ENFORCEMENT AND MISCELLANEOUS
 
 ### Immunity from suit
 
-21\. No action, suit or other proceedings shall be brought or instituted in any court against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to smoking, the subject-matter of such contract, where such failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section shall affect the operation of the Frustrated Contracts Act (Cap. 115).
+21\. No action, suit or other proceedings shall be brought or instituted in any court against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to any tobacco product, the subject-matter of such contract, where such failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section shall affect the operation of the Frustrated Contracts Act (Cap. 115).
 
 [20
 
 ### Exemption
 
-22\.—(1) The Minister may, in his discretion, either generally or in any particular case, and either permanently or for such period or periods as he may think fit, exempt any person or class of persons, or any place or type of place, or any event or occasion or class of event or occasion, or any object or thing or type of object or thing, from all or any of the provisions of this Act.
+22\.—(1) The Minister may, in his discretion, either generally or in any particular case, and either permanently or for such period or periods as he may think fit, exempt any person or class of persons, or any premises or type of premises, or any event or occasion or class of event or occasion, or any object or thing or type of object or thing, from all or any of the provisions of this Act.
 
 (2) In granting any exemption under subsection (1), the Minister may impose such conditions as he may think fit.
 
@@ -542,7 +586,7 @@ ENFORCEMENT AND MISCELLANEOUS
 
 26\.—(1) The Chief Executive or an authorised officer may, at all reasonable hours, exercise the following powers:
 
-(a) he may, for the purpose of ascertaining whether any offence under this Act has been committed, inspect any advertisement, tobacco or imitation tobacco product or vending machine and enter any businesspremises;
+(a) he may, for the purpose of ascertaining whether any offence under this Act has been committed, inspect any advertisement, tobacco or imitation tobacco product or vending machine and enter any premises;
 
 (b) if he has reasonable cause to suspect that an offence under this Act has been committed, he may, for the purpose of ascertaining whether it has been committed, require any person carrying on a trade or business or employed in connection with a trade or business to produce any books or documents relating to the trade or business and may take copies of, or of any entry in, any such books or documents;
 
@@ -554,7 +598,7 @@ ENFORCEMENT AND MISCELLANEOUS
 
 [4/2001]
 
-(2) The Chief Executive or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to smoking —
+(2) The Chief Executive or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to any tobacco product —
 
 (a) require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public; and
 
@@ -584,7 +628,7 @@ ENFORCEMENT AND MISCELLANEOUS
 
 27\.—(1) Any person who —
 
-(a) wilfully obstructs the Chief Executive or an authorised officer acting in pursuance of this Act;
+(a) wilfully obstructs, hinders or impedes the Chief Executive or an authorised officer acting in pursuance of this Act;
 
 (b) wilfully fails to comply with any requirement under section 25 properly made to him by the Chief Executive or an authorised officer; or
 
@@ -670,7 +714,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-34\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+34\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) $2,000,
+
+whichever is the lower.
 
 [4/2001; 35/2002]
 
@@ -730,7 +780,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## LEGISLATIVE HISTORY
 
-Smoking (Control of Advertisements and Sale of Tobacco) Act
+Tobacco (Control of Advertisements and Sale) Act
 
 (CHAPTER 309)
 
@@ -773,9 +823,14 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 37/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 December 2003 (section 4)|
+|9.|**Act 17 of 2010—Smoking (Control of Advertisements and Sale of Tobacco) (Amendment) Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 7/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 July 2010|
+||Date of commencement|1 September 2010 (except section 5(c), 8(b) and 12)|
 ## COMPARATIVE TABLE
 
-Smoking (Control of Advertisements and Sale of Tobacco) Act
+Tobacco (Control of Advertisements and Sale) Act
 
 (CHAPTER 309)
 
