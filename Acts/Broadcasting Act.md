@@ -852,9 +852,9 @@ which permits broadcast which is capable of being received in 50,000 dwelling-ho
 
 ### Special features of broadcasting company
 
-33\.—(1) No broadcasting company shall, on or after 2nd September 20021, appoint a person as its chief executive officer or director, or as the chairman of its board of directors, unless it has obtained the approval of the Authority.
+33\.—(1) No broadcasting company shall, on or after 2nd September 2002\*, appoint a person as its chief executive officer or director, or as the chairman of its board of directors, unless it has obtained the approval of the Authority.
 
-1Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 [19/2002]
 
@@ -920,9 +920,9 @@ and includes any person for the time being performing all or any of the function
 
 ### Control of substantial shareholdings in broadcasting companies
 
-35\.—(1) No person shall, on or after 2nd September 20022, become a substantial shareholder of a broadcasting company without first obtaining the approval of the Minister.
+35\.—(1) No person shall, on or after 2nd September 2002\*, become a substantial shareholder of a broadcasting company without first obtaining the approval of the Minister.
 
-2Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 [19/2002]
 
@@ -950,9 +950,9 @@ and includes any person for the time being performing all or any of the function
 
 ### Control of shareholdings and voting power in broadcasting companies
 
-36\.—(1) No person shall, on or after 2nd September 20023, become –
+36\.—(1) No person shall, on or after 2nd September 2002\*, become –
 
-3Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 (a) a 12% controller; or
 
@@ -1288,9 +1288,9 @@ any foreign source, whether acting alone or together with one or more other fore
 
 [19/2002]
 
-(2) Where the Minister does not grant his approval under subsection (1) for a company to hold a relevant licence (whether such licence is granted before, on or after 2nd September 20024), the Authority shall, within such time and in such manner as the Minister may specify, cancel the licence by notice in writing and without any compensation.
+(2) Where the Minister does not grant his approval under subsection (1) for a company to hold a relevant licence (whether such licence is granted before, on or after 2nd September 2002\*), the Authority shall, within such time and in such manner as the Minister may specify, cancel the licence by notice in writing and without any compensation.
 
-4Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
+\*Date of commencement of the Singapore Broadcasting Authority (Amendment) Act 2002 (Act 19 of 2002).
 
 [19/2002]
 
@@ -1732,11 +1732,17 @@ First column
 
 Second column
 
-Subscription nationwide television service
+Licensable broadcasting service
 
-Starhub Cable Vision Ltd.
+Provider
 
-[18/2001]
+1. Subscription nationwide television service
+
+(a) StarHub Cable Vision Ltd.
+
+(b) SingNet Pte. Ltd.
+
+[S 559/2010 wef 01/10/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -1813,6 +1819,8 @@ This Legislative History is provided for the convenience of users of the Broadca
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
+|14.|**G. N. No. S 559/2010—Broadcasting Act (Amendment of Third Schedule) Notification 2010**|
+||Date of commencement|1 October 2010|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
