@@ -74,6 +74,8 @@
 
 - [27 Importation and supply of goods by taxable persons](#Importation-and-supply-of-goods-by-taxable-persons)
 
+- [27A Deferment of payment of tax on importation of goods](#Deferment-of-payment-of-tax-on-importation-of-goods)
+
 [**Part VI SPECIAL CASES**](#Part-VI)
 
 - [28 Application to Government](#Application-to-Government)
@@ -714,9 +716,21 @@ being (in either case) goods or services used or to be used for the purpose of a
 
 (b) “output tax” means tax on supplies which a taxable person makes.
 
+(3A) For the purpose of subsection (3)(a)(ii), tax payable by a taxable person on the importation of goods shall not include any tax that is accountable pursuant to regulations made under section 27A until such time as the tax has in fact been accounted for in accordance with those regulations.
+
+[20/2010 wef 01/10/2010]
+
 (4) Where goods or services supplied to a taxable person, or goods imported by him, are used or to be used partly for the purposes of a business carried on or to be carried on by him and partly for other purposes, tax on supplies and importations shall be apportioned so that only so much as is referable to his business purposes is counted as his input tax.
 
-(5) Subject to subsections (6) and (7), if either no output tax is due at the end of the period, or the amount of the credit exceeds that of the tax, then, the amount of the credit or, as the case may be, the amount of the excess shall be paid to the taxable person by the Comptroller.
+(5) Subject to subsections (5A), (6) and (7), if either no output tax is due at the end of the period, or the amount of the credit exceeds that of the tax, then, the amount of the credit or, as the case may be, the amount of the excess shall be paid to the taxable person by the Comptroller.
+
+[20/2010 wef 01/10/2010]
+
+(5A) In an accounting period —
+
+(a) where the tax accounted for by the taxable person pursuant to regulations made under section 27A is equal to or exceeds the amount of credit or excess referred to in subsection (5), the amount of the credit or excess shall be nil; and
+
+(b) where the tax accounted for is less than the amount of credit or excess, the amount of the credit or excess shall be the amount of the credit or excess less the amount of that tax.
 
 [20/2010 wef 01/10/2010]
 
@@ -978,8 +992,6 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 (ii) in relation to a military aircraft, the government owning that aircraft.
 
-[19/2009 wef 01/01/2010]
-
 [25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
 (4) For the purposes of subsection (3) —
@@ -998,13 +1010,9 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 (C) from a place outside Singapore to a place in Singapore;
 
-[19/2009 wef 01/01/2010]
-
 “co-location”, in relation to computer server equipment, means the provision of a physical environment for the operation of the computer server equipment;
 
 “qualifying aircraft parts” means such parts and equipment as are designed and built for exclusive use on an aircraft;
-
-[19/2009 wef 01/01/2010]
 
 “ship” means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Maritime and Port Authority of Singapore Act (Cap. 170A) as a passenger harbour craft or pleasure craft;
 
@@ -1266,6 +1274,22 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 [50/2004]
 
+### Deferment of payment of tax on importation of goods
+
+27A\.—(1) The Minister may by regulations in relation to goods imported by any taxable person in the course or furtherance of any business carried on by him, permit those goods to be delivered or removed in accordance with those regulations notwithstanding that the tax chargeable on the importation has yet to be paid and notwithstanding —
+
+(a) any other provision of this Act; or
+
+(b) any written law relating to customs or excise duties applicable in accordance with section 26.
+
+(2) Regulations made under subsection (1) may require a taxable person referred to in that subsection to account for and pay the tax chargeable on the importation of the goods in such form and manner, within such time and to such person as may be prescribed.
+
+(3) The Comptroller may, for the protection of revenue, impose conditions in relation to any importation of goods referred to in subsection (1).
+
+(4) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
+
+[20/2010 wef 01/10/2010]
+
 ## PART VI
 
 SPECIAL CASES
@@ -1367,8 +1391,6 @@ SPECIAL CASES
 (3) The registration under this Act of any such club, association, society or organisation may be in the name of the club, association, society or organisation; and in determining whether goods or services are supplied to or by such a club, association, society or organisation, no account shall be taken of any change in its members.
 
 (3A) The registration under this Act of any person who, as trustee, is carrying on the business of a trust created by express written declaration shall be in the name of the trust.
-
-[19/2009 wef 01/01/2010]
 
 (4) Where a taxable person dies, or goes into liquidation or receivership, or becomes bankrupt or incapacitated, the Comptroller may, from the date of the death, liquidation, receivership, bankruptcy or incapacity until such time when another person is registered in respect of the taxable supplies made or intended to be made by that taxable person in the course or furtherance of his business or in the case of incapacity until such time as the incapacity ceases, deem any person carrying on that business to be a taxable person.
 
@@ -1548,8 +1570,6 @@ is conferred by any means (including any electronic means) other than by way of 
 
 the supply of that right shall be treated as if it were a supply of a card or prepaid phone card as referred to in paragraph (a)(v) or (b) of that definition, as the case may be.
 
-[19/2009 wef 01/01/2010]
-
 ### Commodity, futures or securities markets and exchanges
 
 36\.—(1) The Minister may by regulations make provisions for modifying the provisions of this Act in their application to dealings on commodity, futures or securities markets or exchanges and such persons ordinarily engaged in such dealings as may be specified in the regulations, subject to such conditions as may be so specified.
@@ -1603,8 +1623,6 @@ and the goods are thereupon removed from the first warehouse;
 (d) after the auction, exhibition or other similar event, the goods are brought, with the approval of the Comptroller, back to the first warehouse or to any other warehouse outside the free trade zone (referred to in this subsection as the second warehouse) at or before the end of the period referred to in paragraph (b)(ii),
 
 then the goods shall be treated as if they were continuously subject to a warehousing regime from the time they were in the first warehouse until they are delivered back to the first warehouse or delivered to the second warehouse, as the case may be.
-
-[19/2009 wef 01/01/2010]
 
 (3) The Minister may by regulations make provision —
 
@@ -1870,7 +1888,21 @@ ACCOUNTING AND ASSESSMENTS
 
 (6) The provisions made by regulations under this section for cases where goods are treated as supplied by a taxable person by virtue of paragraph 6 of the Second Schedule may require the tax chargeable on the supply to be accounted for and paid, and particulars thereof to be provided, by such other person and in such manner as may be specified by the regulations.
 
-(7) Where, at the end of a prescribed accounting period, the amount of tax due from any person or the amount due to any person under section 19(5) would be less than $5 or such other amount as the Minister may by order prescribe, that amount shall be treated as nil.
+(7) At the end of a prescribed accounting period —
+
+(a) the amount of tax due from any person that is his output tax after deduction of input tax allowable under section 20; or
+
+(b) the amount due to any person under section 19(5),
+
+as the case may be, shall be zero if the amount is less than $5 or such other amount as the Minister may by order prescribe.
+
+[20/2010 wef 01/10/2010]
+
+(8) At the end of a prescribed accounting period, the amount of tax due from a person that is tax accounted for by him pursuant to regulations made under section 27A shall be nil if it is less than $5 or such other amount as the Minister may by order prescribe.
+
+[20/2010 wef 01/10/2010]
+
+[UK VAT Act 1983, Sch. 7 Para. 2]
 
 ### Electronic service
 
@@ -2288,8 +2320,6 @@ or the amount of such an assessment;
 
 (2) Any application for review and revision under this section shall state precisely the grounds for the objection to the decision and shall be made within 30 days of the date the person has been notified of the decision to which he objects or such other extended time as the Comptroller may allow.
 
-[19/2009 wef 01/01/2010]
-
 (3) The Comptroller shall consider the application under subsection (2) and shall, within a reasonable time, inform the person of the decision on the application.
 
 [UK VAT Act 1983, s. 40 (1)]
@@ -2592,7 +2622,7 @@ OFFENCES AND PENALTIES
 
 59\.—(1) Subject to the provisions of Part VIII, any person who —
 
-(a) makes an incorrect return by omitting or understating any output tax or by overstating any input tax of which he is required by this Act to make a return; or
+(a) makes an incorrect return by omitting or understating any output tax or any tax that is accountable pursuant to regulations made under section 27A or by overstating any input tax of which he is required by this Act to make a return; or
 
 [20/2010 wef 01/10/2010]
 
@@ -2604,7 +2634,7 @@ shall be guilty of an offence and shall on conviction pay a penalty equal to the
 
 (2) Any person who without reasonable excuse or through negligence —
 
-(a) makes an incorrect return by omitting or understating any output tax or by overstating any input tax of which he is required by this Act to make a return; or
+(a) makes an incorrect return by omitting or understating any output tax or any tax that is accountable pursuant to regulations made under section 27A or by overstating any input tax of which he is required by this Act to make a return; or
 
 [20/2010 wef 01/10/2010]
 
@@ -2627,6 +2657,14 @@ shall be guilty of an offence and shall on conviction —
 (a) a penalty equal to 5% of the amount of tax payable shall be added thereto; and
 
 (b) if the amount of tax outstanding is not paid within 60 days of the imposition of the penalty as provided by paragraph (a), an additional penalty of 2% of the tax outstanding shall be payable for each completed month that the tax remains unpaid commencing from the date on which the tax became payable, but the total additional penalty shall not exceed 50% of the amount of tax outstanding.
+
+(1A) Subsection (1) shall apply separately to —
+
+(a) the output tax of a taxable person after deduction of input tax allowable under section 20; and
+
+(b) tax accountable by a taxable person pursuant to regulations made under section 27A.
+
+[20/2010 wef 01/10/2010]
 
 (2) If any return is not made by a taxable person within the periods prescribed in regulations made under section 41, that taxable person shall be liable to pay a penalty of $200 for each completed month that he continues not to submit the return but the total penalty shall not exceed $10,000.
 
@@ -4464,6 +4502,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 12/2009 published on 18 September 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|1 January 2010|
+|33.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
+||Date of First Reading|19 July 2010|
+|||(Bill No. 15/2010 published on 1 October 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|1 October 2010|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
