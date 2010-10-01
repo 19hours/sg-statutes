@@ -62,7 +62,7 @@
 
 - [16 Restrictions on withdrawal from medisave account](#Restrictions-on-withdrawal-from-medisave-account)
 
-- [16A Withdrawal from medisave account of deceased member for payment of his medical expenses](#Withdrawal-from-medisave-account-of-deceased-member-for-payment-of-his-medical-expenses)
+- [16A Withdrawal from medisave account of deceased member for medical treatment, etc., received by him](#Withdrawal-from-medisave-account-of-deceased-member-for-medical-treatment-etc-received-by-him)
 
 - [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
 
@@ -404,11 +404,15 @@ PRELIMINARY
 
 (2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
 
-(3) Where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008 (Act 22 of 2008) —
+(3) Where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) —
 
-(a) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(b), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(b), may likewise be done by, or will likewise apply to, a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act2008 with power in relation to the person for the purposes of this Act; and
+(a) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(b), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(b), may likewise be done by, or will likewise apply to, a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act with power in relation to the person for the purposes of this Act; and
 
-(b) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(c), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(c), may likewise be done by, or will likewise apply to, a donee under a lasting power of attorney registered under the Mental Capacity Act2008 with power in relation to the person for the purposes of this Act.
+[22/2010 wef 01/10/2010]
+
+(b) any thing which the person might have done, or which would have applied to him, under any provision referred to in subsection (4)(c), if he had such capacity, and any thing which would have applied to him in any event under any provision referred to in subsection (4)(c), may likewise be done by, or will likewise apply to, a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to the person for the purposes of this Act.
+
+[22/2010 wef 01/10/2010]
 
 [18/2009 wef 01/03/2010]
 
@@ -424,9 +428,19 @@ PRELIMINARY
 
 (d) how any provision referred to in paragraph (b) or (c) will be modified in its application to either or both of the following:
 
-(i) a deputy appointed or deemed to be appointed for any person referred to in paragraph (a) by the High Court under the Mental Capacity Act2008 with power in relation to that person for the purposes of this Act;
+(i) a deputy appointed or deemed to be appointed for any person referred to in paragraph (a) by the High Court under the Mental Capacity Act with power in relation to that person for the purposes of this Act;
 
-(ii) a donee under a lasting power of attorney registered under the Mental Capacity Act2008 with power in relation to any person referred to in paragraph (a) for the purposes of this Act.
+[22/2010 wef 01/10/2010]
+
+(ii) a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to any person referred to in paragraph (a) for the purposes of this Act.
+
+[22/2010 wef 01/10/2010]
+
+[18/2009 wef 01/03/2010]
+
+(5) For the purposes of this Act, a reference to the Board being satisfied that a person lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) shall be construed as including a reference to the Board being satisfied that the person’s lack of capacity is likely to be permanent.
+
+[22/2010 wef 01/10/2010]
 
 ### Establishment and constitution of Central Provident Fund Board
 
@@ -836,13 +850,17 @@ CONTRIBUTIONS TO FUND
 
 ### Power to impose conditions relating to contributions by self-employed persons
 
-13A\.—(1) Any power to register, license or maintain the particulars of any person, or to grant an application for, or to renew or reinstate, any registration, licence, certificate or permit, under any Act specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), such contributions to be credited —
+13A\.—(1) Any power to register, license or maintain the particulars of any person, or to grant, renew or reinstate any registration, licence, certificate or permit, under any Act specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), such contributions to be credited —
 
 (a) to the medisave account of the person, applicant, registrant, licensee or holder of the certificate or permit, as the case may be; or
 
 (b) as otherwise provided under section 13(4).
 
 [18/2009 wef 20/08/2009]
+
+[22/2010 wef 01/10/2010]
+
+(1A) The Board may give, to any person entitled to exercise any power referred to in subsection (1), such information concerning any member of the Fund as may be necessary to facilitate the exercise of that power by that person in relation to that member.
 
 [22/2010 wef 01/10/2010]
 
@@ -996,7 +1014,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) in such other manner as the Minister may approve;
 
-(e) is mentally disordered and incapable of managing himself or his affairs;
+(e) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
+
+[22/2010 wef 01/10/2010]
 
 (f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
@@ -1052,19 +1072,21 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (6B) Any memorandum executed under subsection (6A) by 2 members of the Fund who are parties to a marriage —
 
-(a) shall not be revocable during the subsistence of the marriage unless the Board is satisfied that either or both of the members are —
+(a) shall not be revocable during the subsistence of the marriage, unless the Board is satisfied that —
 
-(i) physically or mentally incapacitated —
+(i) either member is, or both members are, physically or mentally incapacitated —
 
 (A) from ever continuing in any employment; or
 
 (B) in such other manner as the Minister may approve;
 
-(ii) mentally disordered and incapable of managing himself or themselves, or his or their affairs;
+(ii) either member lacks, or both members lack, capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
 
-(iii) suffering from a medical condition leading to a severely impaired life expectancy; or
+(iii) either member is, or both members are, suffering from a medical condition leading to a severely impaired life expectancy; or
 
-(iv) suffering from a terminal illness or disease; and
+(iv) either member is, or both members are, suffering from a terminal illness or disease; and
+
+[22/2010 wef 01/10/2010]
 
 (b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
@@ -1094,29 +1116,25 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
 
-(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b) or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
+(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b), or such part thereof as the Board may determine, from his account with an approved bank or his retirement account, or to surrender his approved annuity from an insurer, if the Board is satisfied that the member —
 
-(a) physically or mentally incapacitated —
+(a) is physically or mentally incapacitated —
 
 (i) from ever continuing in any employment; or
 
 (ii) in such other manner as the Minister may approve;
 
-(b) mentally disordered and incapable of managing himself or his affairs;
+(b) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
 
-(ba) suffering from a medical condition leading to a severely impaired life expectancy;
+(c) is suffering from a medical condition leading to a severely impaired life expectancy;
 
-(c) suffering from a terminal illness or disease; or
+(d) is suffering from a terminal illness or disease; or
 
-(d) receiving a pension, annuity or other benefit as may be approved which will provide him with a monthly income of not less in value than the amount prescribed by the Minister.
+(e) is receiving any pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
 
-[10/94]
+[22/2010 wef 01/10/2010]
 
-[25/2008 wef 01/11/2008]
-
-[18/2009 wef 01/09/2009]
-
-(7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (ba) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
+(7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
 
 (a) set aside or top-up in his retirement account such amount as the Minister may specify; and
 
@@ -1138,7 +1156,9 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (ii) in such other manner as the Minister may approve;
 
-(b) is mentally disordered and incapable of managing himself or his affairs;
+(b) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
+
+[22/2010 wef 01/10/2010]
 
 (c) is suffering from a medical condition leading to a severely impaired life expectancy;
 
@@ -1240,7 +1260,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (13) Such moneys, withdrawals and payments mentioned in subsection (12) shall not pass to the Official Assignee on the bankruptcy of the member.
 
-(14) If the member is adjudicated a bankruptor is declared insolvent by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
+(14) If the member is adjudicated a bankrupt by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
+
+[22/2010 wef 01/10/2010]
 
 [5/87; 10/94]
 
@@ -1364,9 +1386,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 [32/84]
 
-### Withdrawal from medisave account of deceased member for payment of his medical expenses
+### Withdrawal from medisave account of deceased member for medical treatment, etc., received by him
 
-16A\.—(1) Notwithstanding section 24(3A), on or after the death of a member of the Fund, the Board may, subject to such conditions as the Minister may from time to time impose, permit the withdrawal of the whole or any part of the sum standing to his credit in his medisave account, in accordance with any regulations made under section 77(1), for the payment of expenses for medical treatment received by him, if that withdrawal had been authorised —
+16A\.—(1) Notwithstanding section 24(3A), on or after the death of a member of the Fund, the Board may, subject to such conditions as the Minister may from time to time impose, permit the withdrawal of the whole or any part of the sum standing to his credit in his medisave account, in accordance with any regulations made under section 77(1), for such medical, psychiatric or other treatment or services received by him as may be prescribed by those regulations, if that withdrawal had been authorised —
 
 (a) before his death, by him or, if he was unable to give the authorisation, by a prescribed person; or
 
@@ -1604,7 +1626,7 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 [5/87]
 
-(3) All applications for withdrawal shall be supported by such evidence as may be prescribed and by such further evidence as the Board may reasonably require.
+(3) All applications for withdrawal shall be supported by such evidence as may be prescribed by the Board and by such further evidence as the Board may reasonably require.
 
 [22/2010 wef 01/10/2010]
 
@@ -1998,7 +2020,7 @@ shall be assignable, transferable, attached, sequestered or levied upon for or i
 
 (b) shall be deemed not to form part of the property of the member.
 
-(3A) Subject to subsection (3B), sections 16A, 27N and 57C and any regulations made under section 27Q or 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
+(3A) Subject to subsection (3B), sections 16A, 25(2A), 27N and 57C and any regulations made under section 27Q or 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
 
@@ -2024,7 +2046,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [18/2009 wef 01/09/2009]
 
-(5) If the member is adjudicated a bankrupt or is declared insolvent by judgment of the court, the contribution and interest shall be deemed not to form part of the property of the member.
+(5) If the member is adjudicated a bankrupt by a court, the contribution and interest shall be deemed not to form part of the property of the member.
 
 [22/2010 wef 01/10/2010]
 
@@ -2040,13 +2062,25 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [31/95]
 
-(2) Where, at the time of the death of a member of the Fund, no person has been nominated by him under subsection (1), the total amount payable on his death out of the Fund shall be paid to the Public Trustee for disposal in accordance with —
+(2) Subject to subsection (2A), where, at the time of the death of a member of the Fund, no person has been nominated by him under subsection (1), the total amount payable on his death out of the Fund shall be paid to the Public Trustee for disposal in accordance with —
 
 (a) the Intestate Succession Act (Cap. 146), if the member is not a Muslim at the time of his death; or
 
 (b) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member is a Muslim at the time of his death.
 
 [15/2006 wef 01/07/2006]
+
+[22/2010 wef 01/10/2010]
+
+(2A) Notwithstanding subsection (2) and section 24(3A), where any person has incurred any reasonable funeral expenses in respect of a deceased member of the Fund, and that person has been determined by the Public Trustee in accordance with subsection (2) to be entitled to any moneys paid out of the Fund on the death of the member, the Public Trustee —
+
+(a) may pay to that person, from the moneys paid to the Public Trustee under subsection (2), such amount as the Public Trustee determines to be reasonable to defray those expenses; and
+
+(b) shall pay the remainder of the moneys paid to the Public Trustee under subsection (2) in accordance with —
+
+(i) the Intestate Succession Act (Cap. 146), if the member is not a Muslim at the time of his death; or
+
+(ii) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member is a Muslim at the time of his death.
 
 [22/2010 wef 01/10/2010]
 
@@ -2620,7 +2654,7 @@ then, subject to subsection (2) and any regulations made under section 77(1), th
 
 ### Order of court for sale of investments
 
-27H\.—(1) Where —
+27H\. Where —
 
 (a) a member of the Fund has made any investment under any scheme in accordance with any regulations made under section 77(1)(n) (referred to in this section as the relevant regulations); and
 
@@ -4002,7 +4036,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (ii) for the reimbursement of the cost for the purchase or acquisition of any land (with or without any building thereon) and the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house;
 
-(j) with respect to the withdrawal of money from the medisave account of a member for medical treatment or services received by him, his spouse, child, parent or such other persons as may be prescribed;
+(j) with respect to the withdrawal of money from the medisave account of a member for such medical, psychiatric or other treatment or services received by him, his spouse, child, parent or such other persons as may be prescribed;
 
 [22/2010 wef 01/10/2010]
 
@@ -4084,7 +4118,7 @@ including the payment of costs, fees or other incidental expenses arising from s
 
 (b) to provide for the keeping of books, accounts or records by employers;
 
-(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B)(a) , (7A) (a), (b), (ba) or (c), (8) (a), (b), (c) or (d) or (15) (e) (ii), 27D (vi) (B), 36(2) or 49(2);
+(c) to provide for the appointment of medical boards for the purpose of determining whether a member of the Fund satisfies any ground under section 15(2)(d), (e), (f) or (g), (6B)(a) , (7A) (a), (b), (c) or (d), (8) (a), (b), (c) or (d) or (15) (e) (ii), 27D (vi) (B), 36(2) or 49(2);
 
 [15/2006 wef 01/07/2006]
 
@@ -4096,7 +4130,7 @@ including the payment of costs, fees or other incidental expenses arising from s
 
 (e) to prescribe the evidence to be produced and the person, officer or authority to whom the evidence is to be produced for the purposes of section 15;
 
-(ea) to provide for the exercise of the court’s powers under section 20 of the Mental Capacity Act 2008 (Act 22 of 2008) in relation to —
+(ea) to provide for the exercise of the court’s powers under section 20 of the Mental Capacity Act (Cap. 177A) in relation to —
 
 (i) the executing under section 15(6A) or 25(1), on a member’s behalf, of any memorandum under section 25(1); and
 
@@ -4497,8 +4531,6 @@ An amount equal to the sum of —
 (b) 10.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 5% of the amount of the additional wages payable to the employee in the month.
-
-[S 486/2010 wef 01/09/2010]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -6867,6 +6899,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|15 March 2010|
 |171.|**G.N. No. S 486/2010—Central Provident Fund Act (Amendment of First Schedule) Notification 2010**|
 ||Date of commencement|1 September 2010|
+|172.|**Act 22 of 2010—Central Provident Fund (Amendment) Act 2010**|
+||Date of First Reading|19 July 2010|
+|||(Bill No. 17/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|1 October 2010 (sections 2(e), (f) and (g), 5, 6(e), (g) and (j) to (m), 7, 8(c), 9, 10(b) and (c) and 20(b), (d), and (e))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
