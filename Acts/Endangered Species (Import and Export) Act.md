@@ -2575,7 +2575,7 @@ For the exclusive purpose of allowing:
 
 (vii) the additional quantities specified in paragraph (g)(v) above shall be traded only after the Standing Committee has agree that the above conditions have been met; and
 
-(h) no further proposal to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs (g)(i), (g)(ii), (g)(iii), (g)(vi) and (g)(vii). In addition such further proposals shall be dealth with in accordance with Decisions 14.77 and 14.78 .
+(h) no further proposal to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs (g)(i), (g)(ii), (g)(iii), (g)(vi) and (g)(vii). In addition such further proposals shall be dealth with in accordance with Decisions 14.77 and 14.78 (Rev. CoP15).
 
 On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations.
 
@@ -5606,6 +5606,28 @@ LEPIDOPTERA
 
 A
 
+Nymphalidae (Brush-footed butterflies)
+
+1.
+
+Agrias amydon boliviensis
+
+(Plurinational State of Bolivia)
+
+2.
+
+Morpho godartii lachaumei
+
+(Plurinational State of Bolivia)
+
+3.
+
+Prepona praeneste buckleyana
+
+(Plurinational State of Bolivia)
+
+B
+
 Papilionidae (Birdwing butterflies, swallowtail butterflies)
 
 1.
@@ -5646,7 +5668,7 @@ Papilio hospiton
 
 9.
 
-Parnassius Apollo
+Parnassius apollo
 
 10.
 
@@ -6832,9 +6854,25 @@ MELIACEAE (Mahoganies, Spanish cedar)
 
 1.
 
-Cedrela odorata
+Cedrela fissilis #5
+(Plurinational State of Bolivia)
 
-#5[Population of Colombia (Colombia) Population of Guatemala (Guatemala) Population of Peru (Peru)]
+1A.
+
+Cedrela lilloi #5
+(Plurinational State of Bolivia)
+
+1B.
+
+Cedrela odorata #5 (Plurinational State of Bolivia)
+
+[Population of Colombia (Colombia)
+
+Population of Guatemala
+
+(Guatemala)
+
+Population of Peru (Peru)]
 
 #5Logs, sawn wood and veneer sheets.
 
@@ -7004,6 +7042,13 @@ Chrysalidocarpus decipiens
 
 Lemurophoenix halleuxii
 
+3A.
+
+Lodoicea maldivica
+
+#13
+(Seychelles)
+
 4.
 
 Marojejya darianii
@@ -7044,6 +7089,8 @@ Voanioala gerardii
 
 (f) finished products ofEuphorbia antisyphiliticapackaged and ready for retail trade.
 
+#13 The kernel (also known as endosperm, pulp or copra) and any derivative thereof.
+
 XXXIV 
 
 PAPAVERACEAE (Poppy)
@@ -7072,13 +7119,19 @@ PASSIFLORACEAE (Passion-flowers)
 
 Adenia olaboensis
 
-XXXVI 
+XXXVI
 
-PINACEAE (Guatemala fir)
+PINACEAE (Firs and pines)
 
 1.
 
 Abies guatemalensis
+
+2.
+
+Pinus koraiensis
+
+#5 (Russian Federation)
 
 XXXVII 
 
@@ -7093,6 +7146,8 @@ Podocarpus neriifolius
 2.
 
 Podocarpus parlatorei
+
+#5 Logs, sawn wood and veneer sheets.
 
 #1All parts and derivatives, except:
 
@@ -7548,6 +7603,8 @@ Guaiacum spp.#2
 
 (b) finished products packaged and ready for retail trade.
 
+[S 590/2010 wef 14/10/2010]
+
 [S 312/2010 wef 23/06/2010]
 
 ## LEGISLATIVE HISTORY
@@ -7637,6 +7694,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|23 June 2010 (Paragraph 2)|
 |30.|**G. N. No. S 312/2010—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2010**|
 ||Date of commencement|24 June 2010 (Paragraph 3)|
+|31.|**G. N. No. S 590/2010—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2010**|
+||Date of commencement|14 October 2010|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
