@@ -374,6 +374,10 @@ Private Education Act 2009
 
 (Act 21 of 2009)
 
+9B. Council for Estate Agencies
+
+Estate Agents Act 2010
+
 10. Defence Science and Technology Agency
 
 Defence Science and Technology Agency Act
@@ -625,6 +629,8 @@ Urban Redevelopment Authority Act
 
 [S 587/2009 wef 01/12/2009]
 
+[25/2010 wef 22/10/2010]
+
 [17/2009 wef 01/07/2009]
 
 ## LEGISLATIVE HISTORY
@@ -657,3 +663,9 @@ This Legislative History is provided for the convenience of users of the Account
 |||Date of coming into operation: 1st October 2009 (sections 86 and 87)|
 |5.|**G. N. No. S 587/2009—Accounting Standards Act (Amendment of Schedule) Order 2009**|
 ||Date of commencement|1 December 2009|
+|6.|**Act 25 of 2010—Estate Agents Act 2010**|
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010)|
+||Date of Second Reading|Date not available.|
+||Date of Third Reading|Date not available.|
+||Date of commencement|22 October 2010|
