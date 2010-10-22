@@ -440,8 +440,6 @@ PRELIMINARY
 
 (5) For the purposes of this Act, a reference to the Board being satisfied that a person lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) shall be construed as including a reference to the Board being satisfied that the person’s lack of capacity is likely to be permanent.
 
-[22/2010 wef 01/10/2010]
-
 ### Establishment and constitution of Central Provident Fund Board
 
 3\.—(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of —
@@ -862,8 +860,6 @@ CONTRIBUTIONS TO FUND
 
 (1A) The Board may give, to any person entitled to exercise any power referred to in subsection (1), such information concerning any member of the Fund as may be necessary to facilitate the exercise of that power by that person in relation to that member.
 
-[22/2010 wef 01/10/2010]
-
 (2) The Minister may, by notification in theGazette, amend the Third Schedule.
 
 [27/92]
@@ -1016,8 +1012,6 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (e) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
 
-[22/2010 wef 01/10/2010]
-
 (f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
 (g) is suffering from a terminal illness or disease.
@@ -1086,8 +1080,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (iv) either member is, or both members are, suffering from a terminal illness or disease; and
 
-[22/2010 wef 01/10/2010]
-
 (b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
 (6C) The minimum sum set aside or topped-up by a member shall be utilised as follows:
@@ -1132,8 +1124,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 
 (e) is receiving any pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
 
-[22/2010 wef 01/10/2010]
-
 (7B) A member of the Fund who is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer shall, at the time of the withdrawal or surrender, as the case may be, and in accordance with such directions as the Minister may give in any particular case —
 
 (a) set aside or top-up in his retirement account such amount as the Minister may specify; and
@@ -1157,8 +1147,6 @@ such portion of that balance as is set out in the memorandum executed in accorda
 (ii) in such other manner as the Minister may approve;
 
 (b) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
-
-[22/2010 wef 01/10/2010]
 
 (c) is suffering from a medical condition leading to a severely impaired life expectancy;
 
@@ -1628,8 +1616,6 @@ shall be transferred by the Board to the member’s retirement account when the 
 
 (3) All applications for withdrawal shall be supported by such evidence as may be prescribed by the Board and by such further evidence as the Board may reasonably require.
 
-[22/2010 wef 01/10/2010]
-
 ### Charge on immovable property to secure repayment of withdrawals from Fund
 
 21\.—(1) Where in accordance with any regulations made under section 77, a member of the Fund has on or after 1st June 1981 withdrawn any money standing to his credit in the Fund for all or any of the following purposes:
@@ -2081,8 +2067,6 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (i) the Intestate Succession Act (Cap. 146), if the member is not a Muslim at the time of his death; or
 
 (ii) section 112 of the Administration of Muslim Law Act (Cap. 3), if the member is a Muslim at the time of his death.
-
-[22/2010 wef 01/10/2010]
 
 (3) Notwithstanding sections 15(5) and 20(1), if any person nominated (other than a widow) is below the age of 18 years at the time of payment of the amount payable out of the Fund, his portion of the amount payable shall similarly be paid to the Public Trustee for the benefit of the nominated person.
 
@@ -5970,6 +5954,10 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (11) Council for Private Education.
 
+(11A) Council for Estate Agencies.
+
+[25/2010 wef 22/10/2010]
+
 (12) Defence Science and Technology Agency.
 
 (13) Economic Development Board.
@@ -6163,7 +6151,9 @@ Self-employed Persons
 
 2\. Arms and Explosives Act (Cap. 13).
 
-3\. Appraisers and House Agents Act (Cap. 16).
+3. Appraisers Act (Cap. 16).
+
+[25/2010 wef 22/10/2010]
 
 4\. Business Registration Act (Cap. 32).
 
@@ -6186,6 +6176,10 @@ Self-employed Persons
 [26/2007 wef 01/01/2008]
 
 13\. Environmental Public Health Act (Cap. 95).
+
+13A. Estate Agents Act 2010.
+
+[25/2010 wef 22/10/2010]
 
 14\. Workplace Safety and Health Act 2006.
 
@@ -6904,6 +6898,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 17/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|1 October 2010 (sections 2(e), (f) and (g), 5, 6(e), (g) and (j) to (m), 7, 8(c), 9, 10(b) and (c) and 20(b), (d), and (e))|
+|173.|**Act 25 of 2010—Estate Agents Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|22 October 2010 (except sections 29, 39, 41 and 44)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
