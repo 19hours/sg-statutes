@@ -412,7 +412,7 @@ Constitution and proceedings of Authority
 
 Appointment of Chairman, Deputy Chairman and other members
 
-1. (1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
+1. —(1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
 
 (2) The Minister may appoint one of the members to be the Chairman and another of the members to be the Deputy Chairman.
 
@@ -546,13 +546,15 @@ Sections 26(1) and 30
 
 Specified Acts
 
-1\. Appraisers and House Agents Act (Cap. 16).
+1. Appraisers Act (Cap. 16).
+
+[22/2000 wef 01/08/2000]
+
+[25/2010 wef 22/10/2010]
 
 2\. Betting and Sweepstake Duties Act [Cap. 22].
 
-3. Part IX of the Casino Control Act (Cap. 33A).
-
-[S 423/2008 wef 29/08/2008]
+3\. Part IX of the Casino Control Act (Cap. 33A).
 
 4\. Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
@@ -580,9 +582,7 @@ Sections 26(2) and 30
 
 Specified offices
 
-1. The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
-
-[S 423/2008 wef 29/08/2008]
+1\. The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
 
 2. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254. Cap. 255].
 
@@ -668,3 +668,9 @@ This Legislative History is provided for the convenience of users of the Inland 
 ||Date of commencement|25 July 2007|
 |12.|**G.N. No. S 423/2008—Inland Revenue Authority of Singapore Act (Amendment of Third and Fourth Schedules) Order 2008**|
 ||Date of commencement|29 August 2008|
+|13.|**Act 25 of 2010—Estate Agents Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010 published on 17 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Dates of commencement|22 October 2010 (except sections 29, 39, 41 and 44)|
