@@ -74,7 +74,9 @@ Statutory corporation
 
 Act under which established or constituted
 
-1. Accouting and Corporate Regulatory Authority
+1.
+
+Accounting and Corporate Regulatory Authority
 
 Accounting and Corporate Regulatory Authority Act 2004
 
@@ -83,7 +85,9 @@ Accounting and Corporate Regulatory Authority Act 2004
 
 (Act 3 of 2004)
 
-2. Agency for Science, Technology and Research
+2.
+
+Agency for Science, Technology and Research
 
 Agency for Science, Technology and Research Act
 
@@ -92,391 +96,289 @@ Agency for Science, Technology and Research Act
 
 (Chapter 5A)
 
-3. Agri-Food and Veterinary Authority
+3.
 
-Agri-Food and Veterinary Authority Act
+Agri-Food and Veterinary Authority
 
+Agri-Food and Veterinary Authority Act (Chapter 5)
 
+4.
 
+Board of Architects
 
-(Chapter 5)
+Architects Act (Chapter 12)
 
-4. Board of Architects
+5.
 
-Architects Act
+Building and Construction Authority
 
+Building and Construction Authority Act (Chapter 30A)
 
+5A.
 
-
-(Chapter 12)
-
-5. Building and Construction Authority
-
-Building and Construction Authority Act
-
-
-
-
-(Chapter 30A)
-
-5A. Casino Regulatory Authority of Singapore
+Casino Regulatory Authority of Singapore
 
 Casino Control Act (Chapter 33A)
 
-6. Central Provident Fund Board
+6.
 
-Central Provident Fund Act
+Central Provident Fund Board
 
+Central Provident Fund Act (Chapter 36)
 
+7.
 
-
-(Chapter 36)
-
-7. Civil Aviation Authority of Singapore
+Civil Aviation Authority of Singapore
 
 Civil Aviation Authority of Singapore Act 2009
 
-8. Civil Service College
+8.
 
-Civil Service College Act
+Civil Service College
 
+Civil Service College Act (Chapter 45)
 
+9.
 
+Competition Commission of Singapore
 
-(Chapter 45)
+Competition Act (Chapter 50B)
 
-9. Competition Commission of Singapore
+9A.
 
-Competition Act
+Council for Private Education
 
+Private Education Act 2009 (Act 21 of 2009)
 
+9B.
 
+Council for Estate Agencies
 
-(Chapter 50B)
+Estate Agents Act 2010
 
-9A. Council for Private Education
+10.
 
-Private Education Act 2009
+Defence Science and Technology Agency
 
+Defence Science and Technology Agency Act (Chapter 75A)
 
+11.
 
-
-(Act 21 of 2009)
-
-10. Defence Science and Technology Agency
-
-Defence Science and Technology Agency Act Act
-
-
-
-
-(Chapter 75A)
-
-11. Singapore Dental Council
+Singapore Dental Council
 
 Dental Registration Act (Chapter 76)
 
-12. Economic Development Board
+12.
 
-Economic Development Board Act
+Economic Development Board
 
+Economic Development Board Act (Chapter 85)
 
+13.
 
+Energy Market Authority of Singapore
 
-(Chapter 85)
+Energy Market Authority of Singapore Act (Chapter 92B)
 
-13. Energy Market Authority of Singapore
+14.
 
-Energy Market Authority of Singapore Act
+[Deleted by S 148/2005 wef 25/03/2005]
 
+15.
 
+Health Sciences Authority
 
+Health Sciences Authority Act (Chapter 122C)
 
-(Chapter 92B)
+16.
 
-14. Health Promotion Board —Deleted by S 148/2005, wef 25/03/2005.
+Housing and Development Board
 
-15. Health Sciences Authority
+Housing and Development Act (Chapter 129)
 
-Health Sciences Authority Act
+17.
 
+Info-communications Development Authority of Singapore
 
+Info-communications Development Authority of Singapore Act (Chapter 137A)
 
+18.
 
-(Chapter 122C)
+Inland Revenue Authority of Singapore
 
-16. Housing and Development Board
+Inland Revenue Authority of Singapore Act (Chapter 138A)
 
-Housing and Development Act
+19.
 
+Intellectual Property Office of Singapore
 
+Intellectual Property Office of Singapore Act (Chapter 140)
 
+20.
 
-(Chapter 129)
+International Enterprise Singapore Board
 
-17. Info-communications Development Authority of Singapore
+International Enterprise Singapore Board Act (Chapter 143B)
 
-Info-communications Development Authority of Singapore Act
+21.
 
+Jurong Town Corporation
 
+Jurong Town Corporation Act (Chapter 150)
 
+21A.
 
-(Chapter 137A)
-
-18. Inland Revenue Authority of Singapore
-
-Inland Revenue Authority of Singapore Act
-
-
-
-
-(Chapter 138A)
-
-19. Intellectual Property Office of Singapore
-
-Intellectual Property Office of Singapore Act
-
-
-
-
-(Chapter 140)
-
-20. International Enterprise Singapore Board
-
-International Enterprise Singapore Board Act
-
-
-
-
-(Chapter 143B)
-
-21. Jurong Town Corporation
-
-Jurong Town Corporation Act
-
-
-
-
-(Chapter 150)
-
-21A. Land Surveyors Board
+Land Surveyors Board
 
 Land Surveyors Act (Chapter 156)
 
-22. Land Transport Authority of Singapore
+22.
 
-Land Transport Authority of Singapore Act
+Land Transport Authority of Singapore
 
+Land Transport Authority of Singapore Act (Chapter 158A)
 
+23.
 
+Maritime and Port Authority of Singapore
 
-(Chapter 158A)
+Maritime and Port Authority of Singapore Act (Chapter 170A)
 
-23. Maritime and Port Authority of Singapore
+24.
 
-Maritime and Port Authority of Singapore Act
+Media Development Authority of Singapore
 
+Media Development Authority of Singapore Act (Chapter 172)
 
+25.
 
+Monetary Authority of Singapore
 
-(Chapter 170A)
+Monetary Authority of Singapore Act (Chapter 186)
 
-24. Media Development Authority of Singapore
+26.
 
-Media Development Authority of Singapore Act
+National Environment Agency
 
+National Environment Agency Act (Chapter 195)
 
+27.
 
+National Parks Board
 
-(Chapter 172)
+National Parks Act (Chapter 198A)
 
-25. Monetary Authority of Singapore
+28.
 
-Monetary Authority of Singapore Act
-
-
-
-
-(Chapter 186)
-
-26. National Environment Agency
-
-National Environment Agency Act
-
-
-
-
-(Chapter 195)
-
-27. National Parks Board
-
-National Parks Act
-
-
-
-
-(Chapter 198A)
-
-28. Singapore Pharmacy Council
+Singapore Pharmacy Council
 
 Pharmacists Registration Act 2007
 
-29. Professional Engineers Board
+29.
 
-Professional Engineers Act
+Professional Engineers Board
 
+Professional Engineers Act (Chapter 253)
 
+30.
 
+Public Transport Council
 
-(Chapter 253)
+Public Transport Council Act (Chapter 259B)
 
-30. Public Transport Council
+31.
 
-Public Transport Council Act
+Public Utilities Board
 
+Public Utilities Act (Chapter 261)
 
+32.
 
+Sentosa Development Corporation
 
-(Chapter 259B)
+Sentosa Development Corporation Act (Chapter 291)
 
-31. Public Utilities Board
+32A.
 
-Public Utilities Act
+Singapore Examinations and Assessment Board
 
+Singapore Examinations and Assessment Board Act (Chapter 299A)
 
+32B.
 
+Singapore Academy of Law
 
-(Chapter 261)
+Singapore Academy of Law Act (Chapter 294A)
 
-32. Sentosa Development Corporation
+33.
 
-Sentosa Development Corporation Act
+Singapore Labour Foundation
 
+Singapore Labour Foundation Act (Chapter 302)
 
+34.
 
+Singapore Land Authority
 
-(Chapter 291)
+Singapore Land Authority Act (Chapter 301)
 
-32A. Singapore Examinations and Assessment Board
+35.
 
-Singapore Examinations and Assessment Board Act
+Singapore Medical Council
 
+Medical Registration Act (Chapter 174)
 
+36.
 
+Singapore Nursing Board
 
-(Chapter 299A)
+Nurses and Midwives Act (Chapter 209)
 
-32B. Singapore Academy of Law
+37.
 
-Singapore Academy of Law Act
+Singapore Sports Council
 
+Singapore Sports Council Act (Chapter 305)
 
+38.
 
+Singapore Totalisator Board
 
-(Chapter 294A)
+Singapore Totalisator Board Act (Chapter 305A)
 
-33. Singapore Labour Foundation
+39.
 
-Singapore Labour Foundation Act
+Singapore Tourism Board
 
+Singapore Tourism Board Act (Chapter 305B)
 
+40.
 
+Singapore Workforce Development Agency
 
-(Chapter 302)
+Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
 
-34. Singapore Land Authority
+41.
 
-Singapore Land Authority Act
+Standards, Productivity and Innovation Board
 
+Standards, Productivity and Innovation Board Act (Chapter 303A)
 
+42.
 
+Traditional Chinese Medicine Practitioners Board
 
-(Chapter 301)
+Traditional Chinese Medicine Practitioners Act (Chapter 333A)
 
-35. Singapore Medical Council
+43.
 
-Medical Registration Act
+Urban Redevelopment Authority
 
+Urban Redevelopment Authority Act (Chapter 340)
 
+[7/96; 41/99; S 414/93; S 344/95; S 405/96; S 470/97; S 518/97; S 366/98; S 588/2000; S 220/2001; S 312/2001; S 143/2003; S 480/2003; S 410/2004; S 195/2006; 22/2007; S 314/2008; 48/2007;17/2009; S 590/2009]
 
-
-(Chapter 174)
-
-36. Singapore Nursing Board
-
-Nurses and Midwives Act
-
-
-
-
-(Chapter 209)
-
-37. Singapore Sports Council
-
-Singapore Sports Council Act
-
-
-
-
-(Chapter 305)
-
-38. Singapore Totalisator Board
-
-Singapore Totalisator Board Act
-
-
-
-
-(Chapter 305A)
-
-39. Singapore Tourism Board
-
-Singapore Tourism Board Act
-
-
-
-
-(Chapter 305B)
-
-40. Singapore Workforce Development Agency
-
-Singapore Workforce Development Agency Act 2003
-
-
-
-
-(Act 14 of 2003).
-
-41. Standards, Productivity and Innovation Board
-
-Standards, Productivity and Innovation Board Act
-
-
-
-
-(Chapter 303A)
-
-42. Traditional Chinese Medicine Practitioners Board
-
-Traditional Chinese Medicine Practitioners Act
-
-
-
-
-(Chapter 333A)
-
-43. Urban Redevelopment Authority
-
-Urban Redevelopment Authority Act
-
-
-
-
-(Chapter 340)
-
-[S 590/2009 wef 01/12/2009]
-
-[7/96; 41/99; S 414/93; S344/95; S405/96; S470/97; S518/97; S366/98; S588/2000; S220/2001; S312/2001; S143/2003; S480/2003; S410/2004]
+[25/2010 wef 22/10/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -580,3 +482,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 July 2009|
 |29.|**G. N. No. S 590/2009—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2009**|
 ||Date of commencement|1 December 2009|
+|30.|**Act 25 of 2010—Estate Agents Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|22 October 2010|
