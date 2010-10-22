@@ -1,4 +1,4 @@
-**Appraisers and House Agents Act**
+**Appraisers Act**
 
 **(CHAPTER 16)**
 
@@ -10,11 +10,11 @@
 
 - [2 Definition of appraiser](#Definition-of-appraiser)
 
-- [3 Definition of house agent](#Definition-of-house-agent)
+- [3 (Repealed)](#Repealed)
 
 - [4 Appraisers to be licensed](#Appraisers-to-be-licensed)
 
-- [5 House agents to be licensed](#House-agents-to-be-licensed)
+- [5 (Repealed)](#Repealed)
 
 - [6 Power to grant licences](#Power-to-grant-licences)
 
@@ -32,7 +32,7 @@
 
 - [13 Power to make regulations](#Power-to-make-regulations)
 
-[**FIRST SCHEDULE Forms**](#FIRST-SCHEDULE-Forms)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
@@ -40,17 +40,19 @@
 
 [**Comparative Table**](#Comparative-Table)
 
-# Appraisers and House Agents Act
+# Appraisers Act
 
 (CHAPTER 16)
 
-(Original Enactment: 1985 Ed. Cap. 16)
+(Original Enactment: Ordinance 10 of 1906)
 
 REVISED EDITION 2000
 
 (30th December 2000)
 
-An Act to provide for the licensing of appraisers and house agents.
+An Act to provide for the licensing of appraisers.
+
+[25/2010 wef 22/10/2010]
 
 [22/2000]
 
@@ -58,7 +60,9 @@ An Act to provide for the licensing of appraisers and house agents.
 
 ### Short title
 
-1\. This Act may be cited as the Appraisers and House Agents Act.
+1\. This Act may be cited as the Appraisers Act.
+
+[25/2010 wef 22/10/2010]
 
 [22/2000]
 
@@ -74,19 +78,7 @@ for or on expectation of any hire, gain, fee or reward or valuable consideration
 
 [4
 
-### Definition of house agent
-
-3\. Every person, firm or company who —
-
-(a) as an agent for any other person, for or in expectation of any fee, gain or reward of any kind, advertises for sale or letting any furnished house or part of any furnished house;
-
-(b) by any public notice or advertisement or by any inscription in or upon any house, shop or place used or occupied by him, or by any other ways or means, holds himself out to the public as an agent for selling or letting furnished houses; or
-
-(c) lets or sells or makes or offers or receives any proposal or in any way negotiates for the selling or letting of any furnished house or part of any furnished house,
-
-shall be deemed to be a person using and exercising the business, occupation and calling of a house agent, and shall be a house agent within the meaning of this Act.
-
-[6
+3\. [Repealed by Act 25/2010 wef 22/10/2010]
 
 ### Appraisers to be licensed
 
@@ -98,15 +90,7 @@ shall be deemed to be a person using and exercising the business, occupation and
 
 [22/2000]
 
-### House agents to be licensed
-
-5\. Every person, firm or company carrying on the business of a house agent shall take out a licence in Form B in the First Schedule.
-
-[7/2005 wef 01/04/2005]
-
-[7
-
-[22/2000]
+5\. [Repealed by Act 25/2010 wef 22/10/2010]
 
 ### Power to grant licences
 
@@ -164,25 +148,13 @@ to take out a licence as an appraiser under this Act.
 
 ### Exceptions
 
-9\.—(1) This Act shall not extend to require —
+9\.—(1) This Act shall not extend to require any appraiser of any property listed in the Second Schedule to take out a licence under this Act for that purpose.
 
-(a) any agent employed in the management of landed estates to take out a licence under this Act for that purpose;
-
-(b) any advocate and solicitor who as such has in force a practising certificate to take out in addition thereto a licence as a house agent;
-
-[7/2005 wef 01/04/2005]
-
-(c) any appraiser having a licence in force under this Act to take out in addition thereto a licence as a house agent ; or
-
-[7/2005 wef 01/04/2005]
-
-[13
-
-[22/2000]
-
-(d) any appraiser of any movable property listed in the Second Schedule to take out a licence under this Act for that purpose.
+[25/2010 wef 22/10/2010]
 
 (2) The Minister may, by order published in theGazette, amend the Second Schedule.
+
+[7/2005 wef 01/04/2005]
 
 ### Refusal and cancellation of licences
 
@@ -196,13 +168,11 @@ to take out a licence as an appraiser under this Act.
 
 11\. The judgment of any court of competent jurisdiction whether civil or criminal, having the effect of finding that any licensed person —
 
-(a) is liable or responsible for any money or property come into his possession or control as a licensed person under circumstances amounting to a breach of trust or duty;
+(a) is liable or responsible for any money or property come into his possession or control as a licensed person under circumstances amounting to a breach of trust or duty; or
 
 [25/2010 wef 22/10/2010]
 
-(b) has committed any offence as a house agent; or
-
-(c) has paid or agreed to pay to his employer any part of his charges or expenses by way of return commission when the employer is a person accountable to any other person for the proceeds of the sale,
+(b) has paid or agreed to pay to his employer any part of his charges or expenses by way of return commission when the employer is a person accountable to any other person for the proceeds of the sale,
 
 [25/2010 wef 22/10/2010]
 
@@ -220,7 +190,9 @@ shall be ground for the cancellation of his licence.
 
 ### Power to make regulations
 
-13\. The Minister may make regulations necessary for or convenient to carrying out the provisions of this Act, including but not limited to the length of notice to be given and the manner of advertising sales on the instructions of mortgagees acting under powers of sale or of any person in a position of trust with respect to or liable to account for the proceeds of sale.
+13\. The Minister may make regulations necessary for or convenient to carrying out the provisions of this Act.
+
+[25/2010 wef 22/10/2010]
 
 [18
 
@@ -228,63 +200,106 @@ shall be ground for the cancellation of his licence.
 
 FIRST SCHEDULE
 
-Forms
-
-FORM A
-
 Section 4
 
-FORM B
+APPRAISERS ACT
 
-Section 5
 
-[22/2000]
+
+
+(CHAPTER 16)
+
+APPRAISER’S LICENCE
+
+Subject to the provisions of the Appraisers Act and all regulations made thereunder residing at and carrying on the business of an at is hereby licensed to carry on the business of an appraiser at his place of business as described above or elsewhere in Singapore.
+
+This licence will continue in force until 31st December , unless previously cancelled under section 10 of the Act.
+
+Given under my hand this day of 20 .
+
+Comptroller of Property Tax
+
+Prescribed fee of
+
+$ paid.
+
+[25/2010 wef 22/10/2010]
 
 SECOND SCHEDULE
 
 Section 9(1)(d) and (2)
 
-1\. Motor vehicles.
+1. 
 
-2\. Cargo.
+Motor vehicles.
 
-3\. Ships.
+2. 
 
-4\. Machinery of ships.
+Cargo.
 
-5\. Bulk oil.
+3. 
 
-6\. Cargo and marine insurance.
+Ships.
 
-7. Loss adjustment, adjustment of cargo, casualty or loss adjustment for fire, work injury compensation, burglary or insurance claims.
+4. 
+
+Machinery of ships.
+
+5. 
+
+Bulk oil.
+
+6. 
+
+Cargo and marine insurance.
+
+7. 
+
+Loss adjustment, adjustment of cargo, casualty or loss adjustment for fire, work injury compensation, burglary or insurance claims.
 
 [5/2008 wef 01/04/2008]
 
-8\. Plants, machinery and equipment.
+8. 
 
-9\. Gems, gold and jewellery.
+Plants, machinery and equipment.
 
-10\. General merchandise and consumer goods.
+9. 
 
-11\. Numismatic and philatelic items, works of art, collectibles and antiquities.
+Gems, gold and jewellery.
 
-12\. Carpets.
+10. 
 
-13\. Fine and rare wines.
+General merchandise and consumer goods.
 
-14\. Tangible goods.
+11. 
 
-15. Aeroplanes and aircraft.
+Numismatic and philatelic items, works of art, collectibles and antiquities.
+
+12. 
+
+Carpets.
+
+13. 
+
+Fine and rare wines.
+
+14. 
+
+Tangible goods.
+
+15. 
+
+Aeroplanes and aircraft.
 
 [7/2005 wef 01/04/2005]
 
 ## LEGISLATIVE HISTORY
 
-Appraisers and House Agents Act
+Appraisers Act
 
 (CHAPTER 16)
 
-This Legislative History is provided for the convenience of users of the Appraisers and House Agents Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Appraisers Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -344,15 +359,21 @@ This Legislative History is provided for the convenience of users of the Apprais
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|15.|**Act 25 of 2010—Estate Agents Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|22 October 2010|
 ## COMPARATIVE TABLE
 
-Appraisers and House Agents Act
+Appraisers Act
 
 (CHAPTER 16)
 
-The following provisions in the 1985 Revised Edition of the Appraisers and House Agents Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+The following provisions in the 1985 Revised Edition of the Appraisers Agents Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
-This Comparative Table is provided for the convenience of users. It is not part of the Appraisers and House Agents Act.
+This Comparative Table is provided for the convenience of users. It is not part of the Appraisers Act.
 
 2000 Ed\. 
 
@@ -382,21 +403,21 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 7 
 
-6 — (4) and (5)
+6 —(4) and (5)
 
-17 — (4)
+17 —(4)
 
 (6)
 
 (5)
 
-7 — (1)
+7 —(1)
 
 8 
 
 (2)
 
-9 — (1)
+9 —(1)
 
 (3)
 
