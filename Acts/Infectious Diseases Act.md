@@ -194,7 +194,7 @@
 
 [**FOURTH SCHEDULE Diseases Against Which A Child Is to be Vaccinated**](#FOURTH-SCHEDULE-Diseases-Against-Which-A-Child-Is-to-be-Vaccinated)
 
-[**FIFTH SCHEDULE Diseases in Respect of Which Acts Referred to in Section 21A Are Prohibited**](#FIFTH-SCHEDULE-Diseases-in-Respect-of-Which-Acts-Referred-to-in-Section-21A-Are-Prohibited)
+[**FIFTH SCHEDULE Diseases in Respect of Which Acts Referred to in Section 21a Are Prohibited**](#FIFTH-SCHEDULE-Diseases-in-Respect-of-Which-Acts-Referred-to-in-Section-21a-Are-Prohibited)
 
 [**SIXTH SCHEDULE Diseases in Respect of Which Information May be Disclosed by the Director to A Person to Enable Him to Take Steps to Prevent Spread of Diseases**](#SIXTH-SCHEDULE-Diseases-in-Respect-of-Which-Information-May-be-Disclosed-by-the-Director-to-A-Person-to-Enable-Him-to-Take-Steps-to-Prevent-Spread-of-Diseases)
 
@@ -454,17 +454,23 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 [7/2003]
 
+[10/2008 wef 10/06/2008]
+
 (2) Any person who fails to comply with a requirement or an order referred to in subsection (1) shall be guilty of an offence.
 
 [7/2003]
 
-(3) A patient of a medical practitioner who fails to provide the healthcare professional or a person acting on his behalf with any information sought from the patient pursuant to a requirement under subsection (1)(a) that is within the patient’s knowledge shall be guilty of an offence.
+(3) A patient of a healthcare professional who fails to provide the healthcare professional or a person acting on his behalf with any information sought from the patient pursuant to a requirement under subsection (1)(a) that is within the patient’s knowledge shall be guilty of an offence.
 
 [7/2003]
+
+[10/2008 wef 10/06/2008]
 
 (4) A healthcare professional shall comply with a requirement under subsection (1)(a) to transmit information to the Director notwithstanding any restriction on the disclosure of information imposed by any written law, rule of law, rule of professional conduct or contract; and he shall not by so doing be treated as being in breach of any such restriction notwithstanding anything to the contrary in that law, rule or contract.
 
 [7/2003]
+
+[10/2008 wef 10/06/2008]
 
 (5) In this section —
 
@@ -2022,9 +2028,7 @@ Infectious Diseases
 
 (e) Syphilis.
 
-30A. Swine Influenza.
-
-[S 176/2009 wef 28/04/2009]
+30A\.Deleted by S 618/2010, wef 01/11/2010.
 
 31\. Typhoid.
 
@@ -2083,15 +2087,13 @@ FIFTH SCHEDULE
 
 Section 21A(1), (2) and (3)
 
-Diseases in Respect of Which Acts Referred to in Section 21A Are Prohibited
+Diseases in Respect of Which Acts Referred to in Section 21a Are Prohibited
 
 1. Severe Acute Respiratory Syndrome (SARS).
 
 [S 176/2009 wef 28/04/2009]
 
-2. Swine Influenza.
-
-[S 176/2009 wef 28/04/2009]
+2\.Deleted by S 618/2010, wef 01/11/2010.
 
 SIXTH SCHEDULE
 
@@ -2103,9 +2105,7 @@ Diseases in Respect of Which Information May be Disclosed by the Director to A P
 
 [S 616/2008 wef 01/12/2008]
 
-(1A) Swine Influenza.
-
-[S 176/2009 wef 28/04/2009]
+(1A)Deleted by S 618/2010, wef 01/11/2010\.
 
 (2) Tuberculosis.
 
@@ -2228,6 +2228,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|19 December 2008|
 |31.|**G. N. No. S 176/2009—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2009**|
 ||Date of commencement|28 April 2009|
+|32.|**G. N. No. S 618/2010—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2010**|
+||Date of commencement|1 November 2010|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
