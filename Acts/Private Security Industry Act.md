@@ -108,7 +108,7 @@
 
 - [43 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-[**THE SCHEDULE Security Equipment**](#THE-SCHEDULE)
+[**THE SCHEDULE Security equipment**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -132,7 +132,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Private Security Industry Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Private Security Industry Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint\*.
+
+\*This Act came into operation on 27th April 2009videG.N. No. S 166/2009.
 
 ### Interpretation
 
@@ -496,9 +498,17 @@ SECURITY OFFICERS AND SECURITY AGENCIES
 
 (b) keeping the property (including cash in transit) of another person under surveillance, including for the purpose of preventing theft thereof;
 
-(c) acting as a bodyguard or bouncer; or
+(c) acting as a bodyguard or bouncer;
 
-(d) in respect of any public place or other premises and as part of his regular duties, performing any function of screening individuals seeking entry thereto.
+[24/2010 wef 01/11/2010]
+
+(d) in respect of any public place or other premises and as part of his regular duties, performing any function of screening individuals seeking entry thereto; and
+
+[24/2010 wef 01/11/2010]
+
+(e) regulating traffic under the Road Traffic Act (Cap. 276).
+
+[24/2010 wef 01/11/2010]
 
 ### No person to be security officer without security officer’s licence
 
@@ -1168,7 +1178,7 @@ shall be deemed to be granted a private investigator’s licence and a security 
 
 Section 2
 
-Security Equipment
+Security equipment
 
 1\. Optical surveillance device capable of being used to record visually or observe an activity, including night vision equipment, but does not include spectacle, contact lenses or a similar device used by a person with impaired sight to overcome that impairment.
 
@@ -1204,7 +1214,7 @@ Private Security Industry Act
 
 (CHAPTER 250A)
 
-This Legislative History is provided for the convenience of users of the Private Security Industry Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Private Security Industry Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1221,3 +1231,9 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 26/2007 published on 17 July 2007)|
 ||Date of Second and Third Readings|27 August 2007|
 ||Date of commencement|27 April 2009|
+|4.|**Act 24 of 2010—Road Traffic (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 18/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|1 November 2010|
