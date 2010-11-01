@@ -120,7 +120,7 @@
 
 - [37 Provisions as to physical fitness of applicants for driving licences](#Provisions-as-to-physical-fitness-of-applicants-for-driving-licences)
 
-- [38 Recognition of foreign driving licences and driving permits held by members of visiting forces](#Recognition-of-foreign-driving-licences-and-driving-permits-held-by-members-of-visiting-forces)
+- [38 Recognition of foreign driving licences and driving permits](#Recognition-of-foreign-driving-licences-and-driving-permits)
 
 - [39 Production of driving licences](#Production-of-driving-licences)
 
@@ -152,7 +152,7 @@
 
 - [47E Penalties for offences under sections 47(5) and 47C(7)](#Penalties-for-offences-under-sections-475-and-47C7)
 
-- [47F Prohibition order against foreign motorists](#Prohibition-order-against-foreign-motorists)
+- [47F Prohibition order against holders of foreign driving licences](#Prohibition-order-against-holders-of-foreign-driving-licences)
 
 - [48 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -362,7 +362,9 @@
 
 - [114 Traffic regulation on special roads](#Traffic-regulation-on-special-roads)
 
-- [115 Power of Minister temporarily to prohibit or restrict traffic on roads](#Power-of-Minister-temporarily-to-prohibit-or-restrict-traffic-on-roads)
+- [114A Regulation of use of excluded vehicles on expressways](#Regulation-of-use-of-excluded-vehicles-on-expressways)
+
+- [115 Power of Authority temporarily to prohibit or restrict traffic on roads](#Power-of-Authority-temporarily-to-prohibit-or-restrict-traffic-on-roads)
 
 - [116 Restriction of competitions and speed trials](#Restriction-of-competitions-and-speed-trials)
 
@@ -372,13 +374,13 @@
 
 - [119 Power to place traffic signs](#Power-to-place-traffic-signs)
 
-- [120 Penalties for neglect of traffic directions](#Penalties-for-neglect-of-traffic-directions)
+- [120 Duty to comply with traffic directions and traffic signs](#Duty-to-comply-with-traffic-directions-and-traffic-signs)
 
 - [121 Pedestrian crossings](#Pedestrian-crossings)
 
 - [122 Leaving vehicles in positions likely to cause danger, obstruction or undue inconvenience](#Leaving-vehicles-in-positions-likely-to-cause-danger-obstruction-or-undue-inconvenience)
 
-- [123 Removal, detention or immobilisation of vehicles abandoned, etc.](#Removal-detention-or-immobilisation-of-vehicles-abandoned-etc)
+- [123 Removal or immobilisation of abandoned or illegally parked vehicles, etc.](#Removal-or-immobilisation-of-abandoned-or-illegally-parked-vehicles-etc)
 
 - [123A Removal of stationary vehicles from expressways](#Removal-of-stationary-vehicles-from-expressways)
 
@@ -404,6 +406,8 @@
 
 - [131A Service of summonses and other documents](#Service-of-summonses-and-other-documents)
 
+- [131B Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+
 - [132 Ticketing of prescribed offences](#Ticketing-of-prescribed-offences)
 
 - [133 Traffic ticket notice](#Traffic-ticket-notice)
@@ -428,7 +432,11 @@
 
 - [142 Power to exempt](#Power-to-exempt)
 
-- [143 Power to control traffic at assemblies and public resorts](#Power-to-control-traffic-at-assemblies-and-public-resorts)
+- [142A Designation of Minister of State and Parliamentary Secretary to hear appeals](#Designation-of-Minister-of-State-and-Parliamentary-Secretary-to-hear-appeals)
+
+- [142B Authorisation of security officers to regulate traffic](#Authorisation-of-security-officers-to-regulate-traffic)
+
+- [143 Regulation of traffic in connection with events, etc.](#Regulation-of-traffic-in-connection-with-events-etc)
 
 - [144 Property left in public service vehicles](#Property-left-in-public-service-vehicles)
 
@@ -474,7 +482,9 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “cart” includes a wagon, handcart or trolley used or constructed for the carriage of goods;
 
-“company” includes any company as defined in the Companies Act (Cap. 50), any company to which Division 2 of Part XI of that Act applies, any company formed in pursuance of any other Act or by royal charter or letters patent, any corporation incorporated by law and any firm or partnership;
+“company” means any company as defined in the Companies Act (Cap. 50) and includes any company to which Division 2 of Part XI of that Act applies, any company formed in pursuance of any other Act or by royal charter or letters patent, a limited liability partnership and any other body corporate formed or incorporated by or under any written law;
+
+[24/2010 wef 01/11/2010]
 
 “Deputy Commissioner of Police” includes any police officer not below the rank of sergeant authorised by the Deputy Commissioner of Police in writing by name or office to exercise the powers vested by this Act in the Deputy Commissioner of Police;
 
@@ -498,11 +508,13 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Minister” means —
 
-(a) except as provided in paragraphs (b) and (c), the Minister for Transport;
+(a) except as provided in paragraphs (b) and (c), the Minister charged with the responsibility for transport;
 
-(b) for the purposes of the whole of Parts II and III and sections 63(2) and (3), 74, 75, 76, 112 to 116, 121 and 123, the Minister for Home Affairs; and
+(b) for the purposes of the whole of Parts II and III and sections 74(1) and (2), 75(1), 76(1), 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2) and 143(3) and (11), the Minister charged with the responsibility for home affairs; and
 
-(c) for the purposes of sections 132, 133(7), 134, 135(2), 140(1) and (2) and 142, the Minister for Transport or the Minister for Home Affairs, as appropriate;
+(c) for the purposes of sections 131B(7), 132(7), 133(7), 134, 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
+
+[24/2010 wef 01/11/2010]
 
 “motor spirit” has the same meaning as in the Customs Act (Cap. 70);
 
@@ -534,6 +546,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “rules” means rules made under this Act;
 
+“security officer” means a licensed security officer within the meaning of the Private Security Industry Act (Cap. 250A) who is authorised by the Deputy Commissioner of Police or the Authority (as appropriate) under section 142B to regulate traffic under any provision of this Act;
+
+[24/2010 wef 01/11/2010]
+
 “trailer” means a vehicle drawn by a motor vehicle;
 
 “tricycle” means a three-wheeled pedal cycle constructed or adapted for the carriage of goods;
@@ -546,7 +562,7 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 [20/89; 33/93; 28/95; 5/98; 1/99; 45/99; 1/2003]
 
-(2) For the purposes of this Act, except sections 38(1) and 47F(4), a person is a resident of Singapore, or is deemed to have taken up residence in Singapore, if he resides in Singapore for a continuous period of 6 months and any temporary period or periods of absence during that period of 6 months is immaterial.
+(2) For the purposes of this Act, except section 38, a person is a resident of Singapore, or is deemed to have taken up residence in Singapore, if he resides in Singapore for a continuous period of 6 months and any temporary period or periods of absence during that period of 6 months is immaterial.
 
 [1/99]
 
@@ -866,11 +882,11 @@ shall be guilty of an offence and shall on conviction be punished with a fine no
 
 (c) the holder of a work pass issued under the Employment of Foreign Manpower Act (Cap. 91A),
 
-[30/2007 wef 01/07/2007]
-
 the tax chargeable under section 11(1)(a) shall be paid in respect of the vehicle by the person keeping or using it in Singapore as if that vehicle is first registered and used in Singapore.
 
 [7/90]
+
+[30/2007 wef 01/07/2007]
 
 (2) Any person who has in his possession or comes into possession of, or uses, a motor vehicle in respect of which a licence issued under the provisions of any law of any country relating to motor vehicles is in force shall inform the Registrar, within such period as may be prescribed, if he is a resident of Singapore or takes up residence in Singapore.
 
@@ -1746,13 +1762,19 @@ LICENSING OF DRIVERS
 
 ### Power of Deputy Commissioner of Police to revoke driving licence
 
-35A\.—(1) Where a driving licence is granted to a person who has just passed the prescribed test of competence to drive or to a person who meets the requirements of section 36(2), the Deputy Commissioner of Police may revoke the licence if, within a period of 12 months from the date of the grant of the licence, the person’s record (as kept by the Deputy Commissioner of Police) as a driver of motor vehicles or his conduct or habits as such driver establishes that —
+35A\.—(1) The Deputy Commissioner of Police may revoke a driving licence if —
 
-(a) it would not be in the interests of public safety for him to hold a valid driving licence; or
+(a) within a period of 12 months from the date of the grant of the licence, the record of the holder of the licence (as kept by the Deputy Commissioner of Police for the purposes of this section) as a driver of motor vehicles establishes that it would not be in the interests of public safety for him to continue to hold the licence, or that he is not competent to drive a motor vehicle;
 
-(b) the person is not competent to drive a motor vehicle.
+(b) the holder of the licence —
 
-[7/90]
+(i) had, at any time before being granted that licence, committed an offence while driving a motor vehicle of a class or description which he was authorised to drive by virtue of another driving licence held by him at the time; and
+
+(ii) after being granted the first-mentioned licence, is dealt with by the court or the Deputy Commissioner of Police for the offence referred to in sub-paragraph (i) in such manner as would, by virtue of any rules relating to the prescribed test of competence leading to the grant of the first-mentioned licence, have caused him to be disallowed from taking such test had he been so dealt with for that offence before he took that test; or
+
+(c) the Deputy Commissioner of Police becomes aware of a circumstance that would have required or permitted him to refuse to grant a driving licence to any person, had the Deputy Commissioner of Police been aware of the circumstance immediately before granting the driving licence.
+
+[24/2010 wef 01/11/2010]
 
 (2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act.
 
@@ -1874,11 +1896,21 @@ LICENSING OF DRIVERS
 
 [21/2002]
 
-### Recognition of foreign driving licences and driving permits held by members of visiting forces
+### Recognition of foreign driving licences and driving permits
 
-38\.—(1) Subject to the provisions of this Act, it shall be lawful for a person resident outside Singapore who is temporarily in Singapore and who holds a valid foreign driving licence to drive in Singapore during a period of 12 months from the date of his last entry into Singapore a motor vehicle of the class or description which the foreign driving licence authorises him to drive, notwithstanding that he does not hold a driving licence granted under this Part.
+38\.—(1) Subject to the provisions of this Act, it shall be lawful for any of the following persons who holds a valid foreign driving licence to drive in Singapore, during the period specified in paragraph (a) or (b) (as the case may be), a motor vehicle of the class or description which the foreign driving licence authorises him to drive, notwithstanding that he does not hold a driving licence granted under this Part:
 
-[1/99]
+(a) in the case of a person who, on or after the date of commencement of section 4 of the Road Traffic (Amendment) Act 2010, becomes a citizen or permanent resident of Singapore, a period of 3 months commencing from the date on which he is issued with a certificate of citizenship pursuant to the Constitution of the Republic of Singapore or an entry permit pursuant to the Immigration Act (Cap. 133) (as the case may be);
+
+(b) in the case of a person who —
+
+(i) is neither a citizen nor permanent resident of Singapore; and
+
+(ii) is resident outside Singapore but is temporarily in Singapore,
+
+a period of 12 months commencing from the date of his last entry into Singapore.
+
+[24/2010 wef 01/11/2010]
 
 (2) It shall be lawful for —
 
@@ -1890,9 +1922,13 @@ who holds a driving permit issued to him by a competent authority of the country
 
 [1/99]
 
-(3) In subsection (2), “visiting force” and “civilian component” shall have the same meanings as in the Visiting Forces Act (Cap. 344).
+(3) In this section —
 
-[1/99]
+“permanent resident” means a person who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133);
+
+“visiting force” and “civilian component” shall have the same meanings as in the Visiting Forces Act (Cap. 344).
+
+[24/2010 wef 01/11/2010]
 
 ### Production of driving licences
 
@@ -1931,6 +1967,8 @@ who holds a driving permit issued to him by a competent authority of the country
 the court may, in addition to imposing on the offender the punishment provided for such offence, make an order disqualifying him from holding or obtaining a driving licence for life or for such period as the court may think fit.
 
 [1/99]
+
+[51/2007 wef 01/02/2008]
 
 (3) If the court thinks fit, any disqualification imposed under this section may be limited to the driving of a motor vehicle of the same class or description as the motor vehicle in relation to which the offence was committed.
 
@@ -2112,39 +2150,39 @@ appeal in writing against the suspension to the Minister whose decision shall be
 
 ### Immediate suspension of driving licence in certain circumstances
 
-47C\.—(1) Where a person drives a motor vehicle on a road or other public place —
+47C\.—(1) Where any police investigation into the possible commission of any offence referred to in subsection (2) is commenced against any person who, while driving a motor vehicle on a road or in any public place, was involved in any traffic incident resulting in —
 
-(a) whilst under the influence of drink or of a drug or an intoxicating substance in contravention of section 67(1)(a);
+(a) serious injury or death to another person; or
 
-(b) whilst he has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit in contravention of section 67(1)(b);
+(b) serious damage to any building or structure,
 
-(c) without a policy of insurance in respect of third-party risks in contravention of section 3(1) of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189);
+the Deputy Commissioner of Police may, immediately upon or at any time after the commencement of such police investigation, suspend the driving licence of that person.
 
-(d) recklessly or at a speed or in a manner which is dangerous to the public in contravention of section 64(1); or
+[24/2010 wef 01/11/2010]
 
-(e) in a manner so rash or negligent as to endanger human life in contravention of section 279 of the Penal Code (Cap. 224),
+(2) Subsection (1) applies in respect of any of the following offences:
 
-and whilst so driving causes death or serious injury to any other person, the Deputy Commissioner of Police may, where the first-mentioned person is charged for that offence, suspend his driving licence from the date he is charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+(a) an offence under section 64, 65A, 66 or 67;
 
-[7/90; 11/96; 1/99]
+(b) an offence under section 84(7) arising from a failure to comply with section 84(3);
 
-(2) Where a person drives a motor vehicle on a road or other public place and whilst so driving commits an offence of —
+(c) an offence under section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189);
 
-(a) causing death by reckless or dangerous driving in contravention of section 66(1); or
+(d) an offence under section 279 or 304A of the Penal Code (Cap. 224).
 
-(b) causing death by a rash or negligent act in contravention of section 304A of the Penal Code (Cap. 224),
+[24/2010 wef 01/11/2010]
 
-the Deputy Commissioner of Police may, where the first-mentioned person is charged for that offence, suspend his driving licence from the date on which he is first charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+(3) The suspension of a person’s driving licence under subsection (1) shall, unless it is sooner rescinded by the Deputy Commissioner of Police under subsection (10), remain in force until the offence on account of which the person’s driving licence is so suspended has been tried and determined by a court.
 
-[1/99]
+[24/2010 wef 01/11/2010]
 
-(3) Where a person drives a motor vehicle on a road or other public place and whilst so driving causes any serious injury or death to another person and thereafter fails to render any assistance as required under section 84(3), the Deputy Commissioner of Police may, where the first-mentioned person is charged for the offence under section 84(7) for failing to comply with section 84(3), suspend his driving licence from the date on which he is first charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+(4) Where the Deputy Commissioner of Police suspends the driving licence of a person under subsection (1), the Deputy Commissioner of Police shall, as soon as is practicable, give to the person concerned a notice in writing —
 
-[21/2002]
+(a) informing the person concerned of the suspension of his driving licence and the date from which the suspension is to take effect; and
 
-(4) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1), (2) or (3), give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person immediately to surrender his driving licence.
+(b) requiring the person concerned to surrender his driving licence to the Deputy Commissioner of Police within such time as may be specified in the notice.
 
-[7/90; 1/99; 21/2002]
+[24/2010 wef 01/11/2010]
 
 (5) A person who refuses or fails, without reasonable cause, or excuse to surrender his driving licence to the Deputy Commissioner of Police under subsection (4) shall be guilty of an offence.
 
@@ -2158,9 +2196,27 @@ the Deputy Commissioner of Police may, where the first-mentioned person is charg
 
 [7/90]
 
-(8) A person to whom a notice is given under subsection (4) may appeal against the notice to the Minister whose decision shall be final.
+(8) A person aggrieved by the suspension of his driving licence under subsection (1) may, within 14 days after the receipt of the notice referred to in subsection (4) or such extended period of time as the Minister may allow in any particular case, appeal in writing against the suspension to the Minister whose decision shall be final.
 
-[7/90; 11/96]
+[24/2010 wef 01/11/2010]
+
+(9) Notwithstanding that any appeal under subsection (8) is pending, the suspension of a person’s driving licence under subsection (1) shall take effect from the date specified in the notice given to him by the Deputy Commissioner of Police under subsection (4), unless the Minister otherwise orders.
+
+[24/2010 wef 01/11/2010]
+
+(10) The Deputy Commissioner of Police may, at any time, rescind the suspension of a person’s driving licence under subsection (1) on account of any offence referred to in subsection (2), but shall, as soon as is practicable, rescind the suspension if —
+
+(a) the investigation reveals that that person was not involved in the commission of any such offence;
+
+(b) it is decided that that person shall not be charged with any such offence; or
+
+(c) the charge against that person in respect of any such offence is withdrawn.
+
+[24/2010 wef 01/11/2010]
+
+(11) In this section, “structure” has the same meaning as in section 65A(2).
+
+[24/2010 wef 01/11/2010]
 
 ### Definition of serious injury
 
@@ -2174,29 +2230,35 @@ the Deputy Commissioner of Police may, where the first-mentioned person is charg
 
 [3/93]
 
-### Prohibition order against foreign motorists
+### Prohibition order against holders of foreign driving licences
 
 47F\.—(1) Where any provision of this Act empowers —
 
 (a) a court to order that a person be disqualified from holding or obtaining a driving licence; or
 
-(b) the Deputy Commissioner of Police to suspend a driving licence of any person,
+(b) the Deputy Commissioner of Police to suspend or revoke a driving licence of any person,
 
-such provision shall, in relation to a foreign motorist, be read as empowering the court or the Deputy Commissioner of Police to make an order (referred to in this section as a prohibition order) prohibiting such foreign motorist from driving any motor vehicle in Singapore for the same period for which the court or the Deputy Commissioner of Police may, by virtue of that provision, disqualify any person from holding or obtaining a driving licence or suspend the driving licence of any person, as the case may be.
-
-[1/99]
-
-(2) Any other provision of this Act which relates or which makes reference to the disqualification of persons from holding or obtaining a driving licence or to the suspension of driving licences, including any provision which provides for the punishment of any offence committed by a person who has been disqualified from holding or obtaining a driving licence or whose driving licence has been suspended , shall, in relation to a foreign motorist, be read as if every reference in that provision to the disqualification of a person from holding or obtaining a driving licence or to the suspension of the driving licence of any person were a reference to the making of a prohibition order against the foreign motorist.
+such provision shall, in relation to the holder of a foreign driving licence, be read as empowering the court or the Deputy Commissioner of Police to make an order (referred to in this section as a prohibition order) prohibiting such holder of a foreign driving licence from driving any motor vehicle in Singapore for the same period for which the court or the Deputy Commissioner of Police may, by virtue of that provision, disqualify any person from holding or obtaining a driving licence or suspend or revoke the driving licence of any person, as the case may be.
 
 [1/99]
 
-(3) The Minister may make rules for modifying, in such manner as he may consider necessary, any of the provisions of this Act which relates or refers to the disqualification of persons from holding or obtaining a driving licence or to the suspension of driving licences in order that such provision may appropriately apply in relation to a foreign motorist against whom a prohibition order has been made under this section.
+[24/2010 wef 01/11/2010]
+
+(2) Any other provision of this Act which relates or which makes reference to the disqualification of persons from holding or obtaining a driving licence or to the suspension or revocation of driving licences, including any provision which provides for the punishment of any offence committed by a person who has been disqualified from holding or obtaining a driving licence or whose driving licence has been suspended or revoked, shall, in relation to the holder of a foreign driving licence, be read as if every reference in that provision to the disqualification of a person from holding or obtaining a driving licence or to the suspension or revocation of the driving licence of any person were a reference to the making of a prohibition order against the holder of a foreign driving licence.
 
 [1/99]
 
-(4) In this section, “foreign motorist” means a person resident outside Singapore who is temporarily in Singapore and who holds a valid foreign driving licence, but does not include any member of any visiting force or a civilian component thereof to whom section 38(2) applies.
+[24/2010 wef 01/11/2010]
+
+(3) The Minister may make rules for modifying, in such manner as he may consider necessary, any of the provisions of this Act which relates or refers to the disqualification of persons from holding or obtaining a driving licence or to the suspension or revocation of driving licences in order that such provision may appropriately apply in relation to the holder of a foreign driving licence against whom a prohibition order has been made under this section.
 
 [1/99]
+
+[24/2010 wef 01/11/2010]
+
+(4) In this section, “holder of a foreign driving licence” means a person who holds a foreign driving licence and who is allowed by section 38(1) to drive a motor vehicle in Singapore using the foreign driving licence, but does not include any member of any visiting force or a civilian component thereof to whom section 38(2) applies.
+
+[24/2010 wef 01/11/2010]
 
 ### Rules for purposes of this Part
 
@@ -2422,6 +2484,8 @@ Provisions as to driving and offences in connection therewith
 
 (3) Subsection (2) shall not be construed as affecting the right of the court to exercise the power under section 42 on a first conviction.
 
+[S 304/2005]
+
 (4) Where a person is convicted of abetting the commission of an offence under this section and it is proved that he was present in the motor vehicle at the time of the commission of the offence, the offence of which he is convicted shall, for the purpose of the provisions of Part II relating to disqualification from holding or obtaining driving licences, be deemed to be an offence in connection with the driving of a motor vehicle.
 
 (5) Any police officer may arrest without warrant any person committing an offence under this section.
@@ -2614,9 +2678,9 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 [11/96]
 
-(2) A breath test under this section shall be conducted by a police officer and shall only be conducted at a police station.
+(2) A breath test under this section shall be conducted by a police officer and may be conducted either at or near the place where the arrest is made, or at a police station.
 
-[11/96]
+[24/2010 wef 01/11/2010]
 
 (3) A requirement under this section to provide a specimen of blood —
 
@@ -2880,11 +2944,21 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 and, if he fails to do so within 7 days of the date on which the information was required from him, he shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required.
 
+(1A) For the purposes of subsection (1), where the owner of the motor vehicle is a company, a partnership or an unincorporated body, such owner shall not be deemed to have discharged the burden of proving that it could not, with reasonable diligence, have ascertained the information required under that subsection unless such owner also proves to the satisfaction of the court that —
+
+(a) it had kept a proper and accurate record as required under subsection (8); but
+
+(b) the record reveals that no person had been permitted by such owner to drive the motor vehicle at or about the time of the alleged offence.
+
+[24/2010 wef 01/11/2010]
+
 (2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, any other person who was or should have been in charge of the motor vehicle shall, if required by a police officer or an employee of the Authority, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 7 days of the date on which the information was required from him, he fails to do so, he shall be guilty of an offence.
 
 [5/98]
 
-(3) Any person who wilfully furnishes any false or misleading information under subsection (1) or (2) shall be guilty of an offence.
+(3) Any person who wilfully or recklessly furnishes any false or misleading information under subsection (1) or (2) shall be guilty of an offence.
+
+[24/2010 wef 01/11/2010]
 
 (4) A police officer or an employee of the Authority may require any information to be furnished under subsection (1) or (2) to be in writing signed by the person required to furnish such information.
 
@@ -2903,6 +2977,24 @@ shall be admissible in evidence without proof of signature for the purpose of de
 [5/98]
 
 (7) Any person who is guilty of an offence under subsection (1), (2) or (3) shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(8) Where the owner of a vehicle is a company, a partnership or an unincorporated body, it shall be the duty of such owner to keep a proper and accurate record of each occasion on which it permits any person to drive the motor vehicle, whether or not such person is a director, member, partner, officer, employee or agent of such owner or otherwise, and whether or not such person is permitted to drive the motor vehicle in the course of his employment with such owner or otherwise.
+
+[24/2010 wef 01/11/2010]
+
+(9) The record required to be kept under subsection (8) —
+
+(a) shall contain —
+
+(i) the registration number of the motor vehicle;
+
+(ii) the name, address, driving licence number (whether local or foreign) and identity card or passport number of the person permitted by the owner of the motor vehicle to drive the motor vehicle; and
+
+(iii) the date and time, or the period, during which the motor vehicle is allocated to such person for him to drive it; and
+
+(b) shall be retained by the owner of the motor vehicle for a period of at least 6 months beginning with the date, or with the date of the commencement of the period, referred to in paragraph (a)(iii).
+
+[24/2010 wef 01/11/2010]
 
 ### Restrictions on prosecutions under certain sections
 
@@ -3208,7 +3300,13 @@ Miscellaneous
 
 (7) If the owner of the vehicle or trailer is convicted of or has been permitted to compound an offence under this Act, the expenses incurred by the Deputy Commissioner of Police or the Registrar in carrying out the provisions of this section shall be recoverable by or on behalf of the Deputy Commissioner of Police or the Registrar and, in case of dispute or neglect to pay, be summarily ascertained by a Magistrate’s Court and may be recovered in the same manner as if they were fines imposed by that Court.
 
-(8) When any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar shall with all reasonable despatch give notice in writing to the owner (if the name and address of the owner are known to him) of the seizure.
+(8) Where any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar shall with all reasonable despatch notify the owner of the seizure, and such notification may be given —
+
+(a) by posting a notice in writing to the owner of the vehicle at his usual or last known place of residence or business in Singapore; or
+
+(b) in such other manner as the Deputy Commissioner of Police or the Registrar thinks expedient.
+
+[24/2010 wef 01/11/2010]
 
 (9) If the vehicle or trailer is not claimed by its owner within one month of the date of its detention, the Deputy Commissioner of Police or the Registrar thereafter and after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle or trailer.
 
@@ -3268,21 +3366,25 @@ and the vehicle shall remain so immobilised or detained at the risk of the owner
 
 [45/99]
 
-(6) Where a police officer or an employee of the Authority has immobilised or seized and detained a vehicle under this section, he shall with all reasonable despatch give notice in writing to the person in whose name the vehicle is registered of the immobilisation or seizure and shall in such notice inform that person —
+(6) Where a police officer or an employee of the Authority has immobilised or seized and detained a vehicle under this section, he shall with all reasonable despatch notify the person in whose name the vehicle is registered of the immobilisation or seizure —
 
 (a) of the procedure by which he may secure the release of the vehicle; and
 
-(b) that unless within 3 months of the date specified in the notice he surrenders himself to a police officer in connection with the warrant of arrest in force against him, the Deputy Commissioner of Police or the Authority shall proceed to sell or dispose of the vehicle.
+(b) that unless within 3 months of the date specified in the notification he surrenders himself to a police officer in connection with the warrant of arrest in force against him, the Deputy Commissioner of Police or the Authority shall proceed to sell or dispose of the vehicle.
 
 [45/99]
 
-(7) A notice under subsection (6) may be served in the following manner:
+(7) The notification under subsection (6) may be given —
 
-(a) where the vehicle has been immobilised, by affixing the notice onto the windscreen or any other conspicuous part of the vehicle; or
+(a) where the vehicle has been immobilised, by affixing a notice onto the windscreen or any other conspicuous part of the vehicle; or
 
-(b) where the vehicle has been seized and detained, by posting the notice to the person in whose name the vehicle is registered at his usual or last known place of residence or business in Singapore.
+(b) where the vehicle has been seized and detained —
 
-[45/99]
+(i) by posting a notice in writing to the person in whose name the vehicle is registered at his usual or last known place of residence or business in Singapore; or
+
+(ii) in such other manner as the police officer or employee of the Authority thinks expedient.
+
+[24/2010 wef 01/11/2010]
 
 (8) Any person who —
 
@@ -3298,7 +3400,7 @@ shall be guilty of an offence.
 
 [45/99]
 
-(9) If upon the expiry of 3 months from the date specified in the notice given under subsection (6) the person in whose name the vehicle is registered has not surrendered himself to a police officer or has not been arrested in connection with the warrant of arrest in force against him, the Deputy Commissioner of Police or the Authority, after giving one month’s notice in theGazetteof his or its intention to do so, may sell the vehicle by public auction or otherwise dispose of the vehicle in such manner as he or it thinks fit.
+(9) If upon the expiry of 3 months from the date specified in the notification given under subsection (6) the person in whose name the vehicle is registered has not surrendered himself to a police officer or has not been arrested in connection with the warrant of arrest in force against him, the Deputy Commissioner of Police or the Authority, after giving one month’s notice in theGazetteof his or its intention to do so, may sell the vehicle by public auction or otherwise dispose of the vehicle in such manner as he or it thinks fit.
 
 [45/99]
 
@@ -3327,12 +3429,6 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle i
 (a) designed or adapted for the purpose of preventing the removal of the vehicle; and
 
 (b) approved by the Authority or the Deputy Commissioner of Police for use for the purpose of this section;
-
-“police officer” includes an auxiliary police officer who is —
-
-(a) appointed in accordance with any written law for the time being in force; and
-
-(b) authorised in writing by the Commissioner of Police to exercise the powers conferred on a police officer by this section;
 
 “warrant of arrest” means a warrant of arrest issued by a court against a person in connection with any offence committed by him under —
 
@@ -4124,41 +4220,135 @@ PROVISIONS AS TO USE OF HIGHWAYS
 
 “use”, in relation to a road, includes crossing.
 
-### Power of Minister temporarily to prohibit or restrict traffic on roads
+### Regulation of use of excluded vehicles on expressways
 
-115\.—(1) Subject to this section, if the Minister is satisfied that traffic on any road in Singapore should, by reason of works of repair or reconstruction being required or being in progress on or under the road, be restricted or prohibited, he may restrict or prohibit the use of that road or any part thereof by vehicles or by vehicles of any particular class or description to such extent and subject to such conditions or exceptions as he may consider necessary.
+114A\.—(1) The Minister may make rules to prohibit, restrict or regulate the use of any excluded vehicle on an expressway.
 
-(2) Subject to this section, the Minister shall, not less than 7 days before prohibiting the use of a road or part thereof under this section, cause notice thereof to be published in one or more newspapers circulating in Singapore.
+[24/2010 wef 01/11/2010]
 
-(3) Every such notice shall contain a statement of the effect of the prohibition and a description of the alternative route or routes, if any, available for traffic.
+(2) Rules made under subsection (1) may —
+
+(a) require the owner or driver of any excluded vehicle to —
+
+(i) obtain a permit from the Authority before using the excluded vehicle on an expressway;
+
+(ii) comply with such conditions as may be imposed by the Authority when granting the permit; and
+
+(iii) comply with such directions as the Authority or an employee thereof may give regarding the use of the excluded vehicle on an expressway, or the inspection of the permit granted to such owner or driver;
+
+(b) authorise, or empower the Authority or an employee thereof to authorise, the use of an excluded vehicle on any expressway on any occasion or in an emergency or for the purpose of crossing, or for the purpose of securing access by that excluded vehicle to any premises abutting on or adjacent to the expressway;
+
+(c) relax, or empower the Authority or an employee thereof to relax, in a particular case any prohibition or restriction imposed by such rules; and
+
+(d) prescribe the form and manner in which an application for a permit referred to in paragraph (a) is to be made.
+
+[24/2010 wef 01/11/2010]
+
+(3) In this section —
+
+“excluded vehicle” means a vehicle which is prescribed by rules made under subsection (1) to be an excluded vehicle for the purpose of this section;
+
+“expressway” means any road that is prescribed by rules made under subsection (1) to be an expressway for the purpose of this section;
+
+“use”, in relation to an expressway, includes crossing.
+
+[24/2010 wef 01/11/2010]
+
+### Power of Authority temporarily to prohibit or restrict traffic on roads
+
+115\.—(1) Subject to this section, if the Authority is satisfied that traffic on any road should, by reason of any construction works or works of repair being required or being in progress on, over or under the road, be restricted or prohibited, the Authority may, if it thinks fit, restrict or prohibit the use of that road or any part thereof by vehicles or by vehicles of any particular class or description to such extent and subject to such conditions or exceptions as the Authority may consider necessary.
+
+[24/2010 wef 01/11/2010]
+
+(2) The Authority shall cause a notice to be issued to the general public or to such persons as the Authority may determine, informing them of the prohibition or restriction and of the alternative route or routes, if any, available for traffic.
+
+[24/2010 wef 01/11/2010]
+
+(3) A notice under subsection (2) shall be issued in such form and manner and for such period as the Authority thinks fit.
+
+[24/2010 wef 01/11/2010]
 
 (4) So long as any restriction or prohibition made under this section is in force, a notice stating the effect thereof and describing any alternative route or routes available for traffic shall be kept posted in a conspicuous manner at each end of the part of the road to which the restriction or prohibition relates and at the points at which it will be necessary for vehicles to diverge from the road.
 
-(5) Any person, authorised by name or office in writing in that behalf by the Minister, may at any time by notice restrict or prohibit temporarily the use of any road or part thereof by vehicles or by vehicles of any particular class or description where, owing to the likelihood of danger to the public or of serious damage to the highway, it appears to him necessary that such restriction or prohibition should come into force without delay.
+(5) The Authority may at any time by notice restrict or prohibit temporarily the use of any road or part thereof by vehicles or by vehicles of any particular class or description where, owing to the likelihood of danger to the public or of serious damage to the road or part thereof, it appears to the Authority to be necessary that such restriction or prohibition should come into force without delay.
 
-(6) Any such notice shall describe the alternative route or routes, if any, available for traffic and shall be kept posted in accordance with subsection (3) and shall not continue in force for a period longer than 7 days from the date thereof.
+[24/2010 wef 01/11/2010]
 
-(7) Where such a notice has been posted, the Minister may, before the expiration of the period referred to in subsection (6), proceed to make a restriction or prohibition under subsection (1) with respect to the same road or part thereof.
+(6) Any such notice shall describe the alternative route or routes, if any, available for traffic and shall be issued in such form and manner and for such period as the Authority thinks fit.
+
+[24/2010 wef 01/11/2010]
+
+(7) Where the Authority has issued a notice under subsection (6), the Authority may, before the expiration of the period referred to in that subsection, proceed to make a restriction or prohibition under subsection (1) with respect to the same road or part thereof.
+
+[24/2010 wef 01/11/2010]
+
+(7A) For the purposes of subsection (1), any person who intends to carry out any construction works or works of repair on, over or under the road shall give notice to the Authority in the prescribed form and manner, and within the prescribed time before the commencement of the works, failing which he shall be guilty of an offence.
+
+[24/2010 wef 01/11/2010]
 
 (8) Any person who uses or causes or permits the use of a vehicle in contravention of any restriction or prohibition imposed under this section shall be guilty of an offence.
 
+(9) The Authority may, with the approval of the Minister, make rules for carrying out or giving effect to this section, and in particular, for prescribing —
+
+(a) the form and manner in which, and the period within which, a notice referred to in subsection (7A) is to be given to the Authority;
+
+(b) the documents, information and indemnity to be given to the Authority together with the notice referred to in subsection (7A);
+
+(c) the duties of —
+
+(i) the person carrying out any construction works or works of repair on, over or under any road or part thereof; or
+
+(ii) the person for whom such works are being carried out,
+
+in relation to the restriction or prohibition of the use of that road or part thereof by vehicles or by vehicles of any particular class or description; and
+
+(d) the penalties (not exceeding those provided by section 131) for any breach or failure to comply with any such rules.
+
+[24/2010 wef 01/11/2010]
+
+(10) Where any construction works or works of repair are being carried out on, over or under any road or part thereof, an employee of the Authority, may at any time without notice, enter upon the site of the works to —
+
+(a) inspect the measures that have been put in place for the regulation or diversion of traffic in connection with the restriction or prohibition of the use of that road or part thereof arising from such works, in order to ensure that such measures are suitable and adequate; and
+
+(b) give such directions as he thinks necessary to the person carrying out the works or for whom the works are being carried out in relation to the restriction or prohibition of the use of that road or part thereof by vehicles or by vehicles of any particular class or description.
+
+[24/2010 wef 01/11/2010]
+
+(11) A person shall be guilty of an offence if he —
+
+(a) refuses to give access to or obstructs or hinders an employee of the Authority who is carrying out any inspection under subsection (10)(a); or
+
+(b) fails to comply with any direction given to him by an employee of the Authority under subsection (10)(b).
+
+[24/2010 wef 01/11/2010]
+
 ### Restriction of competitions and speed trials
 
-116\.—(1) No competition or trial of speed involving the use of vehicles shall take place on a road without the written approval of the Minister.
+116\.—(1) No competition or trial of speed involving the use of vehicles shall take place on a road except under, and in accordance with the conditions of, a permit granted by the Deputy Commissioner of Police.
 
-(2) Any such written approval may be made subject to such conditions to be specified therein as the Minister may think fit to impose.
+(2) An application for a permit referred to in subsection (1) shall —
 
-(3) For the purpose of any duly approved competition or trial of speed, the Minister may, by order published in theGazette, regulate or restrict or prohibit to such extent and subject to such conditions or exceptions as may be specified therein the use of a road or part thereof.
+(a) be made to the Deputy Commissioner of Police in such form or manner, and not less than such period before the date of the competition or trial of speed, as the Deputy Commissioner of Police may require; and
 
-(4) No such order shall be made, unless not less than 7 days before the making thereof, a notice of intention to make the order, specifying its general nature and describing alternative routes, if any, available for traffic, animals and pedestrians, has been published by the Minister in one or more newspapers which circulate in Singapore.
+(b) be accompanied by such fee (if any) as the Minister may prescribe.
 
-(5) So long as any order made under subsection (3) remains in force, a notice stating the effect of the order and describing any alternative routes available for traffic, animals or pedestrians shall be kept posted in a conspicuous manner at each end of the part of the road to which the order relates and at the points at which it will be necessary for traffic, animals or pedestrians to diverge from the road.
+[24/2010 wef 01/11/2010]
 
-(6) The cost of every such notice and publication shall be paid in advance to the Minister by the person promoting the competition or trial of speed.
+(3) Upon receiving an application under subsection (2), the Deputy Commissioner of Police may —
 
-(7) Any person who promotes or takes part in any competition or trial of speed without the written approval of the Minister and any driver or person in charge of any vehicle used in or taking part in any such competition or trial of speed shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also be punished with a fine of not less than $1,000 and not more than $2,000 and, in the case of a second or subsequent conviction, with imprisonment for a term not exceeding 12 months and with a fine of not less than $2,000 and not more than $3,000.
+(a) grant the permit applied for —
 
-(8) Any police officer may arrest without warrant any person committing an offence under subsection (7) and may seize and detain for the purposes of proceedings under this Act any vehicle used in or taking part in any competition or trial of speed without the written approval of the Minister.
+(i) in such form and manner as the Deputy Commissioner of Police may determine; and
+
+(ii) subject to such conditions as the Deputy Commissioner of Police thinks fit to impose; or
+
+(b) refuse to grant the permit.
+
+[24/2010 wef 01/11/2010]
+
+(7) Any person who promotes or takes part in any competition or trial of speed that is in contravention of subsection (1) and any driver or person in charge of any vehicle used in or taking part in any such competition or trial of speed shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also be punished with a fine of not less than $1,000 and not more than $2,000 and, in the case of a second or subsequent conviction, with imprisonment for a term not exceeding 12 months and with a fine of not less than $2,000 and not more than $3,000.
+
+(8) Any police officer may arrest without warrant any person committing an offence under subsection (7) and may seize and detain for the purposes of proceedings under this Act any vehicle used in or taking part in any competition or trial of speed that is in contravention of subsection (1).
 
 (9) A person convicted of an offence under subsection (7) shall, unless the court for any special reason thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than 12 months from the date of the conviction from holding or obtaining a driving licence.
 
@@ -4244,21 +4434,23 @@ PROVISIONS AS TO USE OF HIGHWAYS
 
 [28/95]
 
-### Penalties for neglect of traffic directions
+### Duty to comply with traffic directions and traffic signs
 
-120\.—(1) Where a police officer in uniform is for the time being engaged in the regulation of traffic on a road or where any traffic sign, being a sign for regulating the movement of traffic or indicating the route to be followed by traffic and being of the prescribed size, colour and type or of another character authorised by the Authority, with the approval of the Minister, under section 119, has been lawfully placed on or near any road, any person driving or propelling any vehicle who —
+120\.—(1) Where a police officer, an employee of the Authority or a security officer, who is in uniform, is for the time being engaged in the regulation of traffic on a road —
 
-(a) neglects or refuses to stop the vehicle or to make it proceed in or keep to a particular line of traffic when directed to do so by the police officer in the execution of his duty; or
+(a) any person driving or propelling any vehicle shall stop the vehicle or make it proceed in or keep to a particular line of traffic when directed to do so by the police officer, employee of the Authority or security officer (as the case may be) in the execution of his duty; and
 
-(b) fails to conform to the indication given by the sign,
+(b) any pedestrian shall comply with any direction given by the police officer, employee of the Authority or security officer (as the case may be) in the execution of his duty, either to pedestrians or to pedestrians and other traffic.
 
-and any pedestrian who fails to comply with any direction given by the police officer in the execution of his duty, either to pedestrians or to pedestrians and other traffic, shall be guilty of an offence.
+(2) Where a police officer or a security officer, who is in uniform, is for the time being engaged in the regulation of traffic on a road at any place where there are traffic light signals regulating the movement of traffic, any person driving a vehicle shall comply with the directions given by the police officer or security officer notwithstanding that the traffic light signals indicate otherwise.
 
-[28/95]
+(3) Where any traffic sign, being a sign for regulating the movement of traffic or indicating the route to be followed by traffic, has been lawfully placed on or near any road pursuant to section 119, any person driving or propelling any vehicle shall comply with the indication given by the sign.
 
-(2) Where a police officer in uniform is for the time being engaged in the regulation of traffic on a road at any place where there are traffic light signals regulating the movement of traffic, a person driving a vehicle shall comply with the directions given by the police officer notwithstanding that the traffic light signals indicate otherwise.
+(4) Any person who fails to comply with subsection (1), (2) or (3) shall be guilty of an offence.
 
-(3) In any proceedings for an offence under subsection (1), in so far as it is necessary to establish the offence charged, it shall be presumed until the contrary is proved that the sign was of the prescribed size, colour and type and that it was lawfully placed under section 119.
+(5) In any proceedings for an offence under subsection (3), in so far as it is necessary to establish the offence charged, it shall be presumed until the contrary is proved that the sign was of the prescribed size, colour and type and that it was lawfully placed under section 119.
+
+[24/2010 wef 01/11/2010]
 
 ### Pedestrian crossings
 
@@ -4282,57 +4474,69 @@ and any pedestrian who fails to comply with any direction given by the police of
 
 122\. Except as otherwise provided in section 84(4), if any person in charge of a vehicle causes or permits the vehicle or any trailer drawn thereby to remain at rest on any road in such a position or in such condition or in such circumstances as to be likely to cause danger, obstruction or undue inconvenience to other users of the road or to traffic, he shall be guilty of an offence.
 
-### Removal, detention or immobilisation of vehicles abandoned, etc.
+### Removal or immobilisation of abandoned or illegally parked vehicles, etc.
 
-123\.—(1) The Minister may make rules to provide for —
+123\.—(1) Where a vehicle —
 
-(a) the removal and detention of any vehicle (including any trailer drawn or any load carried thereby) which —
+(a) is parked or permitted to stand on any road in contravention of any provision of this Act or in such a manner as to constitute a danger or unreasonable obstruction to traffic or persons using the road; or
 
-(i) constitutes a danger or unreasonable obstruction to traffic;
+(b) appears to have been abandoned on a road,
 
-(ii) appears to have been abandoned on a road; or
+an enforcement officer who is in uniform may —
 
-(iii) is parked or permitted to stand on any road in contravention of any provision of this Act; or
+(i) require the owner, driver or other person in control or in charge of the vehicle to remove the vehicle;
 
-(b) the prevention of the removal of any vehicle referred to in paragraph (a)(ii) or (iii) by the fixing of an immobilisation device to the vehicle.
+(ii) remove the vehicle (including any trailer drawn or any load carried thereby) to such place as the enforcement officer thinks fit and detain it thereat; or
 
-[11/96]
+(iii) immobilise the vehicle.
 
-(2) No vehicle which has been removed and detained by the Deputy Commissioner of Police or to which an immobilisation device has been fixed in accordance with any rules made under this section shall be released to the owner of the vehicle except —
+(2) Where an enforcement officer has removed and detained, or has immobilised, any vehicle under subsection (1), the enforcement officer shall, with all reasonable despatch, notify the owner of the vehicle as to the procedure by which such owner may secure the release of the vehicle.
 
-(a) by or under the direction of the Deputy Commissioner of Police or an officer authorised by him; and
+(3) The notification under subsection (2) may be given —
 
-(b) upon the owner of the vehicle having paid all expenses incurred by the Deputy Commissioner of Police or the authorised officer in that behalf, and such other charges as may be imposed under this Act,
+(a) where the vehicle has been removed and detained —
 
-and the vehicle shall remain at the risk of the owner of the vehicle until all such expenses and charges have been paid.
+(i) by posting a notice in writing to the owner of the vehicle at his usual or last known place of residence or business in Singapore; or
 
-[11/96]
+(ii) in such other manner as the enforcement officer thinks expedient; or
 
-(3) Any person who, without being authorised to do so in accordance with the rules, removes or attempts to remove —
+(b) where the vehicle has been immobilised, by affixing a notice onto the windscreen or any other conspicuous part of the vehicle.
 
-(a) any vehicle from any place at which it is being detained under the rules; or
+(4) No vehicle which has been removed and detained, or immobilised, under this section shall be released to the owner thereof except —
 
-(b) an immobilisation device fixed to a vehicle in accordance with the rules,
+(a) by or under the direction of a Magistrate or the Deputy Commissioner of Police or the Registrar; and
 
-shall be guilty of an offence.
+(b) upon the owner of the vehicle having paid the costs of the removal and detention, or the immobilisation, of the vehicle, and such other charges as may be prescribed,
 
-[11/96]
+and the vehicle shall remain at the risk of the owner of the vehicle until all such costs and charges have been paid.
 
-(4) Where any vehicle which has been removed and detained by the Deputy Commissioner of Police or to which an immobilisation device has been fixed in accordance with the rules is not claimed by its owner within 3 months of the date of its detention or immobilisation, the Deputy Commissioner of Police may, after giving due notice in theGazetteand after giving not less than one month’s notice in writing to the owner (if the name and address of that person are known to him), sell the vehicle by public auction or otherwise dispose of the vehicle.
+(5) A person shall be guilty of an offence if he —
 
-[11/96]
+(a) without reasonable excuse, fails to remove his vehicle when required to do so by an enforcement officer under subsection (1)(i); or
 
-(5) The proceeds from the sale or disposal of any such vehicle shall be applied in the payment of any charges incurred in carrying out the provisions of this section and the rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle or if not claimed by the owner of the vehicle within 12 months shall be forfeited to the Government.
+(b) without being authorised to do so by a Magistrate or the Deputy Commissioner of Police or the Registrar, removes, attempts to remove or tampers with —
 
-[11/96]
+(i) any notice that has been affixed to a vehicle under subsection (3)(b);
 
-(6) Where, in pursuance of any rules made under this section, a vehicle has been removed and detained by the Deputy Commissioner of Police or an immobilisation device has been fixed to the vehicle, neither the Deputy Commissioner of Police nor any officer authorised by him to remove and detain the vehicle or to fix an immobilisation device thereto shall be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Deputy Commissioner of Police or the authorised officer in the exercise of his powers under the rules or by any person acting under the direction of the Deputy Commissioner of Police or the authorised officer.
+(ii) any vehicle from the place at which it is being detained under this section; or
 
-[11/96]
+(iii) the immobilisation device that has been fixed to a vehicle under this section.
 
-(7) In this section, “immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or appliance of a type approved by the Minister for use for that purpose in accordance with rules made under this section.
+(6) Where the owner or driver of a vehicle which has been immobilised under this section does not appear to secure the release of the vehicle within the time stipulated in the notice referred to in subsection (3)(b), an enforcement officer may remove the vehicle (including any trailer drawn or any load carried thereby) to such place as he thinks fit and detain it thereat, and shall give notice to the owner of the vehicle in accordance with subsection (3)(a) as to the procedure by which such owner may secure the release of the vehicle.
 
-[11/96]
+(7) Where any vehicle which has been removed and detained, or immobilised, under this section is not claimed by its owner within 3 months from the date on which it was so removed and detained or immobilised (as the case may be), the Deputy Commissioner of Police or the Registrar may, after giving due notice in theGazetteand after giving not less than one month’s notice in writing to the owner (if the name and address of such owner are known to the Deputy Commissioner of Police or the Registrar), sell the vehicle by public auction or otherwise dispose of the vehicle.
+
+(8) The proceeds from the sale or disposal of any such vehicle shall be applied in the payment of the costs incurred in carrying out the provisions of this section and such other charges as may be prescribed, and the surplus, if any, shall be paid to the owner of the vehicle or, if not claimed by such owner within 12 months, shall be forfeited to the Government.
+
+(9) The enforcement officer who removes and detains, or who immobilises, a vehicle under this section, the Deputy Commissioner of Police, the Registrar, the Authority or any person who assists the enforcement officer to remove and detain, or to immobilise, the vehicle shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the enforcement officer, the Deputy Commissioner of Police, the Registrar, the Authority or the person assisting the enforcement officer in the exercise of the powers under this section.
+
+(10) In this section —
+
+“enforcement officer” means a police officer or an employee of the Authority;
+
+“immobilise”, in relation to a vehicle, means to prevent the removal of the vehicle by fixing to the vehicle a device or appliance which is designed or adapted for the purpose of preventing the removal of the vehicle.
+
+[24/2010 wef 01/11/2010]
 
 ### Removal of stationary vehicles from expressways
 
@@ -4608,10 +4812,6 @@ shall be guilty of an offence.
 
 [28/2001]
 
-(3) If any person committing an offence under this Act is a company, the managing director, director, agent or other manager in Singapore of the company who is privy to the offence shall also be liable to the like punishment.
-
-[7/90; 33/93]
-
 ### Service of summonses and other documents
 
 131A\.—(1) Every summons issued for an offence under this Act, and every notice, order or other document required or authorised to be given or served under this Act may be served on any person —
@@ -4633,6 +4833,64 @@ shall be guilty of an offence.
 (3) All notices, orders and other documents which the Registrar is empowered to give by this Act may be given by any officer duly authorised by the Registrar.
 
 [28/2001]
+
+### Offences by bodies corporate, etc.
+
+131B\.—(1) Where an offence under this Act committed by a body corporate is proved —
+
+(a) to have been committed with the consent or connivance of an officer; or
+
+(b) to be attributable to any act or default on his part,
+
+the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[24/2010 wef 01/11/2010]
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[24/2010 wef 01/11/2010]
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any act or default on his part,
+
+the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[24/2010 wef 01/11/2010]
+
+(4) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[24/2010 wef 01/11/2010]
+
+(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any act or default on the part of such an officer or a member,
+
+the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[24/2010 wef 01/11/2010]
+
+(6) In this section —
+
+“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, member of the committee of management, chief executive officer, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; and
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+[24/2010 wef 01/11/2010]
+
+(7) The appropriate Minister may make rules to provide for the application of any provision of this section, with such modifications as the appropriate Minister considers appropriate, to any body corporate, limited liability partnership or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[24/2010 wef 01/11/2010]
 
 ### Ticketing of prescribed offences
 
@@ -4804,9 +5062,13 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 
 (m) prescribing and restricting the number and kind of brakes, bells, horns or other warning instruments to be fitted to vehicles of any particular kind or description;
 
-(n) prescribing the number of persons who may be carried upon pedal bicycles or pedal tricycles while on any road; and
+(n) prescribing the number of persons who may be carried upon pedal bicycles or pedal tricycles while on any road;
 
-(o) prescribing the general behaviour of traffic on roads.
+(o) prescribing the general behaviour of traffic on roads; and
+
+(p) prescribing the fees, costs and charges that may be imposed for the purposes of this Act, where no provision has already been made therefor in any of the foregoing provisions.
+
+[24/2010 wef 01/11/2010]
 
 ### Rules to be presented to Parliament
 
@@ -4818,23 +5080,105 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 
 142\. The appropriate Minister may, from time to time by order and either generally or for any period delimited in such order and subject to such conditions as may in the order be stated, exempt from any provision of this Act any person or class or description of persons or any vehicle or class or description of vehicles.
 
-### Power to control traffic at assemblies and public resorts
+### Designation of Minister of State and Parliamentary Secretary to hear appeals
 
-143\.—(1) The Deputy Commissioner of Police may from time to time issue police orders, prescribing the routes, entrances and exits by which traffic shall approach or leave any place of assembly or public resort, and prescribing where and the order in which vehicles shall park while waiting at such places.
+142A\.—(1) Where pursuant to any provision of this Act an appeal may be made to the Minister, the appropriate Minister may designate —
 
-(2) An order made under this section may prescribe a parking place or places upon land in private ownership if the owner or occupier of such land consents.
+(a) any Minister of State for his Ministry; or
 
-(3) The Deputy Commissioner of Police may, with the consent of the owner or occupier of any place of assembly or public resort, authorise any police officer in uniform to regulate the movement of traffic in such place.
+(b) any Parliamentary Secretary to his Ministry,
 
-(4) Any person who —
+to hear and determine such appeal in his place.
 
-(a) contravenes any order made under this section; or
+[24/2010 wef 01/11/2010]
 
-(b) neglects or refuses to stop a vehicle or to make it proceed in or keep to a particular line of traffic or neglects or refuses himself to proceed in or keep to a particular line of traffic when directed to do so by a police officer authorised under this section to regulate traffic,
+(2) In this section, the references to a Minister of State and a Parliamentary Secretary include, respectively, references to a Senior Minister of State and a Senior Parliamentary Secretary.
 
-shall be guilty of an offence.
+[24/2010 wef 01/11/2010]
 
-(5) Police orders issued under this section shall be published in theGazetteand may be published in such other manner as the Deputy Commissioner of Police may think fit.
+### Authorisation of security officers to regulate traffic
+
+142B\.—(1) The Deputy Commissioner of Police or the Authority may, for the purpose of assisting him or it in the regulation of traffic under any provision of this Act, authorise, subject to such restrictions as he or it may impose, such number of security officers as he or it thinks necessary to regulate traffic under that provision.
+
+[24/2010 wef 01/11/2010]
+
+(2) Every security officer who is authorised to regulate traffic pursuant to subsection (1) shall, when in uniform and while carrying out his duties in regulating traffic under any provision of this Act, comply with such directions as the Deputy Commissioner of Police or the Authority (as the case may be) may give.
+
+[24/2010 wef 01/11/2010]
+
+### Regulation of traffic in connection with events, etc.
+
+143\.—(1) Except as otherwise provided by rules made under subsection (11), no person shall conduct any event on any road or part thereof unless he has obtained a permit from the Deputy Commissioner of Police under this section authorising him to use that road or part thereof for the conduct of such event.
+
+(2) The Deputy Commissioner of Police may, on his own motion, or upon granting a permit referred to in subsection (1), issue police orders to —
+
+(a) close any road or part thereof to traffic to such extent, for such period and subject to such conditions as may be specified in the order; and
+
+(b) prescribe —
+
+(i) the routes, entrances and exits by which vehicles or pedestrians shall approach or leave the venue of an event or any place of assembly or public resort;
+
+(ii) where and the order in which vehicles shall park at or around the venue of an event or any place of assembly or public resort;
+
+(iii) one or more parking places upon any land at or around such venue, place of assembly or public resort that is in private ownership, if the owner or occupier of such land consents; and
+
+(iv) such other matters as may be necessary or incidental to the closure of any road or part thereof under paragraph (a).
+
+(3) An application for a permit referred to in subsection (1) shall —
+
+(a) be made to the Deputy Commissioner of Police in such form or manner, and not less than such period before the date of the event, as the Deputy Commissioner of Police may require; and
+
+(b) be accompanied by such fee (if any) as the Minister may prescribe.
+
+(4) Upon receiving an application under subsection (3), the Deputy Commissioner of Police may, after consulting the Authority —
+
+(a) grant the permit applied for —
+
+(i) in such form and manner as the Deputy Commissioner of Police may determine; and
+
+(ii) subject to such conditions as the Deputy Commissioner of Police and the Authority may each think fit to impose; or
+
+(b) refuse to grant the permit.
+
+(5) The conditions which may be imposed under subsection (4)(a)(ii) include conditions requiring the person to whom the permit is granted, at such person’s own expense —
+
+(a) to publish, in such form and manner and for such period as the Deputy Commissioner of Police may require, a notice informing the general public or such persons as the Deputy Commissioner of Police thinks fit of —
+
+(i) the closure of any road or part thereof under subsection (2); and
+
+(ii) the alternative route or routes, if any, that are available for vehicles or pedestrians;
+
+(b) to post conspicuously at any part of any road, and for such period as the Deputy Commissioner of Police may require, such notices and signs as the Deputy Commissioner of Police may specify to inform motorists and pedestrians of —
+
+(i) the closure of any road or part thereof under subsection (2); and
+
+(ii) the alternative route or routes, if any, that are available for vehicles or pedestrians;
+
+(c) to place such signs, barriers and barricades at such places and for such period as the Deputy Commissioner of Police may require; and
+
+(d) to engage a sufficient number of auxiliary police officers or security officers to regulate traffic on any road or at or around the venue of the event to which the permit relates in accordance with such directions as the Deputy Commissioner of Police may give.
+
+(6) Without prejudice to subsection (5), the Deputy Commissioner of Police may take such measures as he thinks fit to implement any police order issued under subsection (2) and may deploy police officers, auxiliary police officers and security officers to regulate traffic on any road or at or around any venue affected by the police order.
+
+(7) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+(8) If the person to whom a permit is granted under this section fails to comply with any condition imposed by the Deputy Commissioner of Police or the Authority (as the case may be) under subsection (4)(a)(ii), that person shall be guilty of an offence, and the Deputy Commissioner of Police may revoke the permit granted to that person.
+
+(9) If any person neglects or refuses to stop a vehicle or to make it proceed in or keep to a particular line of traffic or neglects or refuses himself to proceed in or keep to a particular line of traffic when directed to do so by a police officer, an auxiliary police officer or a security officer, who is in uniform and who is engaged or deployed to regulate traffic for the purpose of this section, that person shall be guilty of an offence.
+
+(10) Police orders issued under this section shall be published in theGazetteand may be published in such other manner as the Deputy Commissioner of Police may think fit.
+
+(11) The Minister may make rules to prescribe the types of event to which subsection (1) does not apply and to make provisions subject to which any road or part thereof may be used for the conduct of any such event.
+
+(12) In this section, “event” means —
+
+(a) any sporting event (such as a marathon, a walkathon, a triathlon or a cycling rally); or
+
+(b) any procession, parade, celebration, ceremony, gathering, activity or event,
+
+that is to be conducted mainly or partly on a road or any part thereof, and includes a competition or trial of speed involving the use of vehicles as referred to in section 116.
+
+[24/2010 wef 01/11/2010]
 
 ### Property left in public service vehicles
 
@@ -5222,6 +5566,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 38/2007 published on 18 September 2007)|
 ||Date of Second and Third Readings|22 October 2007|
 ||Date of commencement|1 February 2008|
+|55.|**Act 24 of 2010—Road Traffic (Amendment) Act 2010**|
+||Date of First Reading|16 August 2010|
+|||(Bill No. 18/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|1 November 2010|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
