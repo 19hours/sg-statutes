@@ -44,7 +44,7 @@
 
 - [14 Rules](#Rules)
 
-[**THE SCHEDULE Statutory Bodies**](#THE-SCHEDULE)
+[**THE SCHEDULE Statutory bodies**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -309,7 +309,7 @@ MISCELLANEOUS
 
 Sections 12 and 13(1)
 
-Statutory Bodies
+Statutory bodies
 
 First column
 
@@ -319,15 +319,21 @@ Statutory body
 
 Act under which established or constituted
 
-1. Accounting and Corporate Regulatory Authority
+1.
+
+Accounting and Corporate Regulatory Authority
 
 Accounting and Corporate Regulatory Authority Act (Chapter 2A)
 
-2. Agency for Science, Technology and Research
+2.
+
+Agency for Science, Technology and Research
 
 Agency for Science, Technology and Research Act (Chapter 5A)
 
-3. Agri-food and Veterinary Authority
+3.
+
+Agri-food and Veterinary Authority
 
 Agri-food and Veterinary Authority Act
 
@@ -336,7 +342,9 @@ Agri-food and Veterinary Authority Act
 
 (Chapter 5)
 
-4. Building and Construction Authority
+4.
+
+Building and Construction Authority
 
 Building and Construction Authority Act
 
@@ -345,27 +353,39 @@ Building and Construction Authority Act
 
 (Chapter 30A)
 
-5. Casino Regulatory Authority of Singapore
+5.
+
+Casino Regulatory Authority of Singapore
 
 Casino Control Act (Chapter 33A)
 
-6. Central Provident Fund Board
+6.
+
+Central Provident Fund Board
 
 Central Provident Fund Act (Chapter 36)
 
-7. Civil Aviation Authority of Singapore
+7.
+
+Civil Aviation Authority of Singapore
 
 Civil Aviation Authority of Singapore Act 2009
 
-8. Civil Service College
+8.
+
+Civil Service College
 
 Civil Service College Act (Chapter 45)
 
-9. Competition Commission of Singapore
+9.
+
+Competition Commission of Singapore
 
 Competition Act (Chapter 50B)
 
-9A. Council for Private Education
+9A.
+
+Council for Private Education
 
 Private Education Act 2009
 
@@ -374,11 +394,15 @@ Private Education Act 2009
 
 (Act 21 of 2009)
 
-9B. Council for Estate Agencies
+9B.
+
+Council for Estate Agencies
 
 Estate Agents Act 2010
 
-10. Defence Science and Technology Agency
+10.
+
+Defence Science and Technology Agency
 
 Defence Science and Technology Agency Act
 
@@ -387,11 +411,15 @@ Defence Science and Technology Agency Act
 
 (Chapter 75A)
 
-11. Economic Development Board
+11.
+
+Economic Development Board
 
 Economic Development Board Act (Chapter 85)
 
-12. Energy Market Authority of Singapore
+12.
+
+Energy Market Authority of Singapore
 
 Energy Market Authority of Singapore Act
 
@@ -400,23 +428,33 @@ Energy Market Authority of Singapore Act
 
 (Chapter 92B)
 
-13. Health Promotion Board
+13.
+
+Health Promotion Board
 
 Health Promotion Board Act (Chapter 122B)
 
-14. Health Sciences Authority
+14.
+
+Health Sciences Authority
 
 Health Sciences Authority Act (Chapter 122C)
 
-15. Housing and Development Board
+15.
+
+Housing and Development Board
 
 Housing and Development Act (Chapter 129)
 
-16. Info-communications Development Authority of Singapore
+16.
+
+Info-communications Development Authority of Singapore
 
 Info-communications Development Authority of Singapore Act (Chapter 137A)
 
-17. Inland Revenue Authority of Singapore
+17.
+
+Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act
 
@@ -425,7 +463,9 @@ Inland Revenue Authority of Singapore Act
 
 (Chapter 138A)
 
-18. Institute of Southeast Asian Studies
+18.
+
+Institute of Southeast Asian Studies
 
 Institute of Southeast Asian Studies Act
 
@@ -434,7 +474,9 @@ Institute of Southeast Asian Studies Act
 
 (Chapter 141)
 
-19. Institute of Technical Education, Singapore
+19.
+
+Institute of Technical Education, Singapore
 
 Institute of Technical Education Act
 
@@ -443,7 +485,9 @@ Institute of Technical Education Act
 
 (Chapter 141A)
 
-20. Intellectual Property Office of Singapore
+20.
+
+Intellectual Property Office of Singapore
 
 Intellectual Property Office of Singapore Act
 
@@ -452,7 +496,9 @@ Intellectual Property Office of Singapore Act
 
 (Chapter 140)
 
-21. International Enterprise Singapore Board
+21.
+
+International Enterprise Singapore Board
 
 International Enterprise Singapore Board Act
 
@@ -461,11 +507,15 @@ International Enterprise Singapore Board Act
 
 (Chapter 143B)
 
-22. Jurong Town Corporation
+22.
+
+Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150)
 
-23. Land Transport Authority of Singapore
+23.
+
+Land Transport Authority of Singapore
 
 Land Transport Authority of Singapore Act
 
@@ -474,11 +524,15 @@ Land Transport Authority of Singapore Act
 
 (Chapter 158A)
 
-24. Majlis Ugama Islam, Singapura
+24.
+
+Majlis Ugama Islam, Singapura
 
 Administration of Muslim Law Act (Chapter 3)
 
-25. Maritime and Port Authority of Singapore
+25.
+
+Maritime and Port Authority of Singapore
 
 Maritime and Port Authority of Singapore Act
 
@@ -487,7 +541,9 @@ Maritime and Port Authority of Singapore Act
 
 (Chapter 170A)
 
-26. Media Development Authority of Singapore
+26.
+
+Media Development Authority of Singapore
 
 Media Development Authority of Singapore Act
 
@@ -496,15 +552,21 @@ Media Development Authority of Singapore Act
 
 (Chapter 172)
 
-27. Nanyang Polytechnic
+27.
+
+Nanyang Polytechnic
 
 Nanyang Polytechnic Act (Chapter 191A)
 
-28. National Arts Council
+28.
+
+National Arts Council
 
 National Arts Council Act (Chapter 193A)
 
-29. National Council of Social Service
+29.
+
+National Council of Social Service
 
 National Council of Social Service Act
 
@@ -513,49 +575,80 @@ National Council of Social Service Act
 
 (Chapter 195A)
 
-30. National Environment Agency
+30.
+
+National Environment Agency
 
 National Environment Agency Act (Chapter 195)
 
-31. National Heritage Board
+31.
+
+National Heritage Board
 
 National Heritage Board Act (Chapter 196A)
 
-32. National Library Board
+32.
+
+National Library Board
 
 National Library Board Act (Chapter 197)
 
-33. National Parks Board
+33.
+
+National Parks Board
 
 National Parks Board Act (Chapter 198A)
 
-34. Ngee Ann Polytechnic
+34.
+
+Ngee Ann Polytechnic
 
 Ngee Ann Polytechnic Act (Chapter 207)
 
-35. People’s Association
+35.
+
+People’s Association
 
 People’s Association Act (Chapter 227)
 
-36.Deleted by Act 16/2009, wef 01/07/2009.
+36.
 
-37. Public Transport Council
+Productivity Fund Administration Board
+
+National Productivity Fund Act 2010
+
+
+
+
+(Act 26 of 2010)
+
+37.
+
+Public Transport Council
 
 Public Transport Council Act (Chapter 259B)
 
-38. Public Utilities Board
+38.
+
+Public Utilities Board
 
 Public Utilities Act (Chapter 261)
 
-39. Republic Polytechnic
+39.
+
+Republic Polytechnic
 
 Republic Polytechnic Act (Chapter 270)
 
-40. Science Centre Board
+40.
+
+Science Centre Board
 
 Science Centre Act (Chapter 286)
 
-41. Sentosa Development Corporation
+41.
+
+Sentosa Development Corporation
 
 Sentosa Development Corporation Act
 
@@ -564,39 +657,57 @@ Sentosa Development Corporation Act
 
 (Chapter 291)
 
-42. Singapore Corporation of Rehabilitative Enterprises
+42.
+
+Singapore Corporation of Rehabilitative Enterprises
 
 Singapore Corporation of Rehabilitative Enterprises Act (Chapter 298)
 
-43. Singapore Examinations and Assessment Board
+43.
+
+Singapore Examinations and Assessment Board
 
 Singapore Examinations and Assessment Board Act (Chapter 299A)
 
-44. Singapore Labour Foundation
+44.
+
+Singapore Labour Foundation
 
 Singapore Labour Foundation Act (Chapter 302)
 
-45. Singapore Land Authority
+45.
+
+Singapore Land Authority
 
 Singapore Land Authority Act (Chapter 301)
 
-46. Singapore Polytechnic
+46.
+
+Singapore Polytechnic
 
 Singapore Polytechnic Act (Chapter 303)
 
-47. Singapore Sports Council
+47.
+
+Singapore Sports Council
 
 Singapore Sports Council Act (Chapter 305)
 
-48. Singapore Totalisator Board
+48.
+
+Singapore Totalisator Board
 
 Singapore Totalisator Board Act (Chapter 305A)
 
-49. Singapore Tourism Board
+49.
+
+Singapore Tourism Board
 
 Singapore Tourism Board Act (Chapter 305B)
 
-50. Singapore Workforce Development Agency
+50.
+
+Singapore Workforce Development Agency
 
 Singapore Workforce Development Agency Act
 
@@ -605,7 +716,9 @@ Singapore Workforce Development Agency Act
 
 (Chapter 305D)
 
-51. Standards, Productivity and Innovation Board
+51.
+
+Standards, Productivity and Innovation Board
 
 Standards, Productivity and Innovation Board Act
 
@@ -614,11 +727,15 @@ Standards, Productivity and Innovation Board Act
 
 (Chapter 303A)
 
-52. Temasek Polytechnic
+52.
+
+Temasek Polytechnic
 
 Temasek Polytechnic Act (Chapter 323A)
 
-53. Urban Redevelopment Authority
+53.
+
+Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act
 
@@ -631,7 +748,11 @@ Urban Redevelopment Authority Act
 
 [25/2010 wef 22/10/2010]
 
+[S 615/2010 wef 01/11/2010]
+
 [17/2009 wef 01/07/2009]
+
+[16/2009 wef 01/07/2009]
 
 ## LEGISLATIVE HISTORY
 
@@ -639,7 +760,7 @@ Accounting Standards Act
 
 (CHAPTER 2B)
 
-This Legislative History is provided for the convenience of users of the Accounting Standards Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Accounting Standards Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -651,21 +772,24 @@ This Legislative History is provided for the convenience of users of the Account
 |2.|**2008 Revised Edition—Accounting Standards Act**|
 ||Date of operation|31 July 2008|
 |3.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+||(Consequential amendments made by)||
 ||Date of First Reading|23 March 2009|
-|||(Bill No. 9/2009 published on 12 June 2009)|
+|||(Bill No. 9/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
 |4.|**Act 17 of 2009—Civil Aviation Authority of Singapore Act 2009**|
+||(Consequential amendments made by)||
 ||Date of First Reading|23 March 2009|
-|||(Bill No. 10/2009 published on 22 May 2009)|
+|||(Bill No. 10/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
-||Dates of commencement|Date of coming into operation: 1st July 2009|
-|||Date of coming into operation: 1st October 2009 (sections 86 and 87)|
+||Dates of commencement|1st July 2009|
 |5.|**G. N. No. S 587/2009—Accounting Standards Act (Amendment of Schedule) Order 2009**|
 ||Date of commencement|1 December 2009|
 |6.|**Act 25 of 2010—Estate Agents Act 2010**|
+||(Consequential amendments made by)||
 ||Date of First Reading|16 August 2010|
-|||(Bill No. 19/2010)|
-||Date of Second Reading|Date not available.|
-||Date of Third Reading|Date not available.|
+|||(Bill No. 19/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|22 October 2010|
+|7.|**G. N. No. S 615/2010—Accounting Standards Act (Amendment of Schedule) Order 2010**|
+||Date of commencement|1 November 2010|
