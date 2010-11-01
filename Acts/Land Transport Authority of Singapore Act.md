@@ -234,19 +234,27 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 6\.—(1) Subject to the provisions of this Act, it shall be the function and duty of the Authority —
 
-(a) to plan, design, construct, manage and maintain roads in Singapore in accordance with this Act and the Street Works Act [Cap. 320A];
+(a) to plan, design, construct, manage and maintain roads in Singapore in accordance with this Act and the Street Works Act (Cap. 320A);
 
 (b) to plan, design, construct, maintain and improve pedestrian walkways, bus stops or shelters, bus interchanges or terminals, taxi stands and other commuter facilities in accordance with this Act, the Street Works Act and any other written law;
 
 (c) to maintain, operate and improve road traffic signs or signals, traffic control equipment or lighting equipment associated with a road and other road traffic facilities for the purposes of traffic management and control;
 
-(d) to provide parking places for motor vehicles, to license and regulate the use of parking places and to administer the Parking Places Act [Cap. 214];
+(d) to provide parking places for motor vehicles, to license and regulate the use of parking places and to administer the Parking Places Act (Cap. 214);
 
 (e) to develop and implement road traffic management strategies and practices;
 
-(f) to provide registration and licensing procedures and systems for road transport in accordance with the Road Traffic Act [Cap. 276];
+(f) to provide registration and licensing procedures and systems for road transport in accordance with the Road Traffic Act (Cap. 276), and to perform such other functions as may be conferred on the Authority by that Act, including —
 
-(g) without prejudice to the Public Transport Council Act [Cap. 259B], to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act;
+(i) the regulation of the parking of vehicles on roads and the taking of enforcement action in relation thereto;
+
+(ii) the regulation, prohibition or restriction of the use of roads on account of any construction or maintenance works being carried thereon, or any other considerations of safety; and
+
+(iii) the determination and prescription of vehicular speed limits on roads;
+
+[24/2010 wef 01/11/2010]
+
+(g) without prejudice to the Public Transport Council Act (Cap. 259B), to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act;
 
 (h) to regulate the construction of motor vehicles and the conditions under which they may be used on roads in Singapore;
 
@@ -254,7 +262,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (j) to promote better understanding of land transport policies and programmes, whether solely or jointly with other authorities or organisations;
 
-(k) to plan, design, construct, manage, operate and maintain the railway in accordance with this Act and the Rapid Transit Systems Act [Cap. 263A];
+(k) to plan, design, construct, manage, operate and maintain the railway in accordance with this Act and the Rapid Transit Systems Act (Cap. 263A);
 
 (l) to approve and regulate the operation of the railway in accordance with this Act and the Rapid Transit Systems Act;
 
@@ -276,17 +284,17 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (r) to act as agent of the Government and provide service in administering, assessing, collecting and enforcing payment of —
 
-(i) the special tax imposed under section 17 of the Customs Act [Cap. 70];
+(i) the special tax imposed under section 17 of the Customs Act (Cap. 70);
 
-(ii) the surcharge imposed under the Parking Places (Surcharge) Act [Cap. 215];
+(ii) the surcharge imposed under the Parking Places (Surcharge) Act (Cap. 215);
 
-(iii) the charge imposed pursuant to the Parking Places Act [Cap. 214] for the waiver of requirements imposed by or under that Act in relation to car parks;
+(iii) the charge imposed pursuant to the Parking Places Act (Cap. 214) for the waiver of requirements imposed by or under that Act in relation to car parks;
 
 (iv) the proposed sums of successful bids for particular index marks and registration numbers for any type or category of vehicle; and
 
-(v) all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act [Cap. 276] or any rules made thereunder which are not specified in the Second Schedule;
+(v) all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act (Cap. 276) or any rules made thereunder which are not specified in the Second Schedule;
 
-(s) to act as agent of the Government in vesting of land under the Street Works Act [Cap. 320A];
+(s) to act as agent of the Government in vesting of land under the Street Works Act (Cap. 320A);
 
 (t) to collect, compile and analyse information of a statistical nature relating to land transport or such other subject-matter necessary for the performance of the functions of the Authority, and to publish and disseminate the results of any such compilation and analysis or abstracts of those results;
 
@@ -299,6 +307,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 (1A) Subject to the provisions of this Act, it shall be a function of the Authority to develop and manage, or participate in the development and management of, land transport systems, whether in Singapore or elsewhere.
 
 [11/2007 wef 01/03/2007]
+
+(1B) In performing the functions and discharging the duties imposed on it by subsections (1) and (1A), the Authority shall have regard to the promotion of energy efficiency within the land transport sector, environmental protection and the sustainable development of land transport.
+
+[Act 11/2012 wef 01/07/2012]
 
 (2) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
@@ -1040,11 +1052,11 @@ Revenue of Land Transport Revenue Account
 
 (b) a vehicle parking certificate,
 
-under the Parking Places Act [Cap. 214].
+under the Parking Places Act (Cap. 214).
 
-2\. All fees for the grant, issue or renewal of a licence to operate the railway or any part thereof under the Rapid Transit Systems Act [Cap. 263A].
+2\. All fees for the grant, issue or renewal of a licence to operate the railway or any part thereof under the Rapid Transit Systems Act (Cap. 263A).
 
-3\. All fees under section 10 of the Road Traffic Act [Cap. 276] for the registration of a vehicle.
+3\. All fees under section 10 of the Road Traffic Act (Cap. 276) for the registration of a vehicle.
 
 4. All fees for the grant, issue, renewal or replacement of —
 
@@ -1096,11 +1108,11 @@ under the Parking Places Act [Cap. 214].
 
 12\. All fees for the issue of a warrant under section 30 of the Road Traffic Act and all fees for the towing and transportation of vehicles seized under such warrant.
 
-13\. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act, or any rules made thereunder, for which the Minister for Communications has been charged with responsibility .
+13\. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act, or any rules made thereunder, which falls under the purview of the Minister charged with the responsibility for transport.
 
 14\. All fees for furnishing a copy of or an extract from a vocational licence or for conducting a search or furnishing a copy of an extract from any register relating to a motor vehicle.
 
-15\. All fees for the grant of an exemption under section 142 of the Road Traffic Act [Cap. 276].
+15\. All fees for the grant of an exemption under section 142 of the Road Traffic Act (Cap. 276).
 
 16. All security deposits for the issue of a general licence forfeited under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.
 
@@ -1108,19 +1120,23 @@ under the Parking Places Act [Cap. 214].
 
 17. All composition sums collected —
 
-(a) under the Rapid Transit Systems Act [Cap. 263A];
+(a) under the Rapid Transit Systems Act (Cap. 263A);
 
 (b) by the Registrar or any duly authorised employee of the Authority under the Road Traffic Act;
 
-(c) under the Street Works Act [Cap. 320A]; and
+(c) under the Street Works Act (Cap. 320A); and
 
-(d) under the Parking Places Act [Cap. 214].
+(d) under the Parking Places Act (Cap. 214).
 
 18\. All fines for offences under this Act and any written law specified in the Fifth Schedule.
 
 19\. All fees for the issue of any notice of demand or warrant of attachment under the Street Works Act.
 
 20\. All charges for the conduct of any tests on any private street with a view to declaring it as a public street under the Street Works Act.
+
+21. All fees, costs and charges prescribed under section 140(2)(p) of the Road Traffic Act that are payable to the Authority.
+
+[24/2010 wef 01/11/2010]
 
 THIRD SCHEDULE
 
@@ -1356,11 +1372,17 @@ Specified Acts
 
 [S 590/2004 wef 24/09/2004]
 
-3\. All provisions of the Parking Places Act [Cap. 214] and any subsidiary legislation made thereunder.
+3\. All provisions of the Parking Places Act (Cap. 214) and any subsidiary legislation made thereunder.
 
-4\. All provisions of the Rapid Transit Systems Act [Cap. 263A] and any subsidiary legislation made thereunder.
+4\. All provisions of the Rapid Transit Systems Act (Cap. 263A) and any subsidiary legislation made thereunder.
 
-5\. All provisions of the Road Traffic Act [Cap. 276] and any subsidiary legislation made thereunder which are carried out or administered by the Authority.
+5. All provisions of the Road Traffic Act (Cap. 276) and any subsidiary legislation made thereunder which are carried out or administered by the Authority, and —
+
+(a) section 120(3) of that Act — in relation to a contravention of any traffic sign prohibiting or restricting the parking, stopping or waiting of vehicles on roads; and
+
+(b) section 143(8) of that Act — in relation to a failure to comply with any condition imposed by the Authority on a permit granted under that section.
+
+[S 630/2010 wef 01/11/2010]
 
 5A. The following subsidiary legislation made under the Road Traffic Act:
 
@@ -1374,13 +1396,86 @@ Specified Acts
 
 [S 63/2006 wef 01/02/2006]
 
-6\. All provisions of the Street Works Act [Cap. 320A] and any subsidiary legislation made thereunder.
+6\. All provisions of the Street Works Act (Cap. 320A) and any subsidiary legislation made thereunder.
 
-7\. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
-
-7.—
+7. Sections 23, 24C, 24D and 24E of the Public Transport Council Act (Cap. 259B).
 
 [S 301/2008 wef 01/07/2008]
 
 [S 382/95]
 
+## LEGISLATIVE HISTORY
+
+Land Transport Authority of Singapore Act
+
+(CHAPTER 158A)
+
+This Legislative History is provided for the convenience of users of the Land Transport Authority of Singapore Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 28 of 1995—Land Transport Authority of Singapore Act 1995**|
+||Date of First Reading|7 July 1995|
+|||(Bill No. 24/1995 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
+|2.|**G. N. No. S 382/1995—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 1995**|
+||Date of commencement|1 September 1995|
+|3.|**1996 Revised Edition—Land Transport Authority of Singapore Act**|
+||Date of operation|30 April 1996|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
+|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Dates of commencement|8 March 2004|
+|7.|**G. N. No. S 590/2004—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2004**|
+||Date of commencement|24 September 2004|
+|8.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
+|9.|**G. N. No. S 63/2006—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2006**|
+||Date of commencement|1 February 2006|
+|10.|**Act 37 of 2005—Public Transport Council (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 September 2005|
+|||(Bill No. 25/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|17 October 2005|
+||Dates of commencement|3 April 2006 (except section 14)|
+|11.|**Act 11 of 2007—Land Transport Authority of Singapore (Amendment) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 23/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
+|12.|**G. N. No. S 301/2008—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2008**|
+||Date of commencement|1 July 2008|
+|13.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 19/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|15 January 2010|
+|14.|**Act 21 of 2010—Rapid Transit Systems (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 July 2010 (Bill No. 16/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|13 September 2010|
+|15.|**G. N. No. S 630/2010—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2010**|
+||Date of commencement|1 November 2010|
+|16.|**Act 24 of 2010—Road Traffic (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 18/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|1 November 2010|
