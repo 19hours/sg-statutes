@@ -1486,261 +1486,289 @@ Class A Drugs
 
 Acetorphine.
 
+4-Bromo-2,5- dimethoxyphenethylamine.
+
 Acetylmethadol.
+
+Bufotenine.
 
 Allylprodine.
 
-Alphacetylmethadol.
-
-Alphameprodine.
-
-Alphamethadol.
-
-Alphaprodine.
-
-2-amino-1-(2, 5-dimethoxy-4-methyl) phenylpropane.
-
-Amphetamine.
-
-Anileridine.
-
-Benzethidine.
-
-Benzylmorphine (3-benzyl-morphine).
-
-Betacetylmethadol.
-
-Betameprodine.
-
-Betamethadol.
-
-Betaprodine.
-
-Bezitramide.
-
-4-Bromo-2,5- dimethoxyphenethylamine. Bufotenine.
-
 Buprenorphine.
+
+Alphacetylmethadol.
 
 Cannabinol.
 
+Alphameprodine.
+
 Cannabinol derivatives.
+
+Alphamethadol.
 
 Cannabis and cannabis resin.
 
+Alphaprodine.
+
 Cathinone.
+
+2-amino-1-(2, 5-dimethoxy-4-methyl) phenylpropane.
 
 Clonitazene.
 
+Amphetamine.
+
 Coca leaf.
+
+Anileridine.
 
 Cocaine.
 
+Benzethidine.
+
 Codoxime.
+
+Benzylmorphine (3-benzyl-morphine).
 
 Desomorphine.
 
+1-benzylpiperazine
+
 Dextromoramide.
+
+Betacetylmethadol.
 
 Diamorphine.
 
+Betameprodine.
+
 Diampromide.
+
+Betamethadol.
 
 Diethylthiambutene.
 
+Betaprodine.
+
 Difenoxin.
 
-Dihydroetorphine. Dihydromorphine.
+Bezitramide.
+
+Dihydroetorphine.
+
+4-Bromo-2,5-dimethoxy-α-methylphenethylamine (also known as Brolamfetamine)
+
+Dihydromorphine.
+
+2, 5-Dimethoxy-α- methylphenethylamine
 
 Dimenoxadole.
 
+N, α-dimethyl-3, 4-(methylenedioxy) phenethylamine
+
 Dimepheptanol.
 
-3-(1, 2-dimethylheptyl)-1-hydroxy-7, 8, 9, 10 tetrahydro-6, 6, 9-trimethyl-6
-
-H
-
--dibenzo [b, d] pyran.
-
-Dimethylthiambutene.
-
-Dioxaphetyl butyrate.
-
-Diphenoxylate.
-
-Dipipanone.
-
-Drotebanol.
-
-Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine.
-
-Ethylmethylthiambutene.
-
-Eticyclidine.
-
-Etonitazene.
-
-Etorphine.
-
-Etoxeridine.
-
-Etryptamine.
-
-Furethidine.
-
-Gamma hydroxybutyric acid.
-
-Hydrocodone.
-
-Hydromorphinol.
-
-Hydromorphone.
-
-Hydroxypethidine.
-
-Isomethadone.
-
-Ketamine.
-
-Ketobemidone.
-
-Levomethorphan.
-
-Levomoramide.
-
-Levophenacylmorphan.
-
-Levorphanol.
-
-Lysergamide.
+3-(1, 2-dimethylheptyl)-1-hydroxy-7, 8, 9, 10 tetrahydro-6, 6, 9-trimethyl-6H-dibenzo [b, d] pyran.
 
 Lysergide and other N-alkyl derivatives of lysergamide.
 
+Dimethylthiambutene.
+
 Mescaline.
+
+Dioxaphetyl butyrate.
 
 Metazocine.
 
+Diphenoxylate.
+
 Methadone.
+
+Dipipanone.
 
 Methadyl acetate.
 
+Drotebanol
+
 Methcathinone.
+
+Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine.
+
+3-Methoxy- α-methyl-4, 5-(methylenedioxy phenethylamine
+
+4-Ethyl-2,5-dimethoxy-α-methylphenethylamine.
 
 5-Methoxy-N, N-diisopropyltryptamine.
 
+N-ethyl-α-methyl-3,4-(methylenedioxy) phenethylamine.
+
+p-methoxy-α-methylphenethylamine.
+
+Ethylmethylthiambutene.
+
 4-methylaminorex.
+
+Eticyclidine.
 
 Methamphetamine (also known as Methylamphetamine).
 
+Etonitazene.
+
 Methyldesorphine.
+
+Etorphine.
+
+N-Methyl-α-ethyl-3,4-(methylenedioxy)phenethylamine.
+
+Etoxeridine.
 
 Methyldihydromorphine (6-methyldihydromorphine).
 
+Etryptamine.
+
+4-methylmethcathinone
+
+Furethidine.
+
 4-methylthioamphetamine.
+
+Gamma hydroxybutyric acid.
 
 Metopon.
 
+Hydrocodone.
+
 Monoacetylmorphine.
+
+Hydromorphinol.
 
 Morpheridine.
 
+Hydromorphone.
+
 Morphine.
+
+N-[α-methyl-3, 4-(methylenedioxy)phenethyl] hydroxylamine.
 
 Morphine methobromide, morphineN-oxide and other pentavalent nitrogen morphine derivatives.
 
+Hydroxypethidine.
+
 Myrophine.
+
+Isomethadone.
 
 Nicomorphine (3, 6-dinicotinoyl-morphine).
 
+Ketamine.
+
 Noracymethadol.
+
+Ketobemidone.
 
 Norbuprenorphine.
 
+Levomethorphan.
+
 Norketamine and its dehydro derivatives.
+
+Levomoramide.
 
 Norlevorphanol.
 
+Levophenacylmorphan.
+
 Normethadone.
+
+Levorphanol.
 
 Normorphine.
 
+Lysergamide.
+
 Norpipanone.
-
-Opium.
-
-Oxycodone.
 
 Oxymorphone.
 
-Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9-trimethyl 6
+Opium.
 
-H
+Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9-trimethyl 6H-dibenzo [b, d] pyran).
 
--dibenzo [b, d] pyran).
+Oxycodone.
 
 Pethidine.
 
-Phenadoxone.
-
-Phenampromide.
-
-Phenazocine.
-
-Phenomorphan.
-
-Phenoperidine.
-
-Piminodine.
-
-Piritramide.
-
-Poppy-straw and concentrate of poppy-straw.
-
-Proheptazine.
-
-Properidine (1-methyl-4-phenyl-piperidine-4-carboxylic acid isopropyl ester).
-
-Psilocin.
-
-Psilocybine.
-
-Racemethorphan.
-
-Racemoramide.
-
-Racemorphan.
-
-Remifentanil.
-
-Rolicyclidine.
-
 Tenocyclidine.
+
+Phenadoxone.
 
 Thebacon.
 
+Phenampromide.
+
 Thebaine.
+
+Phenazocine
 
 Tilidine.
 
+Phenomorphan
+
 Trimeperidine.
+
+Phenoperidine
+
+1-(3-trifluoromethylphenyl)piperazine.
+
+Piminodine.
+
+3, 4, 5-trimethoxy-α-methyphenethylamine.
+
+Piritramide.
 
 4-Cyano-2-dimethylamino-4, 4-diphenylbutane.
 
+Poppy-straw and concentrate of poppy-straw.
+
 4-Cyano-1-methyl-4-phenyl-piperidine.
+
+Proheptazine.
 
 N,N-Diethyltryptamine.
 
+Properidine (1-methyl-4-phenyl-piperidine-4-carboxylic acid isopropyl ester).
+
 N,N-Dimethyltryptamine.
+
+Psilocin.
+
+2,5-Dimethoxy-4,α-dimethyl-phenethylamine.
+
+Psilocybine.
 
 1-Hydroxy-3-pentyl-6a, 7, 10, 10a-tetra hydro-6, 6, 9-trimethyl-6-H-dibenzo [b, d] pyran.
 
+Racemethorphan.
+
 1-Methyl-4-phenylpiperidine-4-carboxylic acid.
+
+Racemoramide.
 
 2-Methyl-3-morpholino-1, 1-diphenylpropanecarboxylic acid.
 
+Racemorphan.
+
 3-methylthiofentanyl.
 
+Remifentanil.
+
 4-Phenylpiperidine-4-carboxylic acid ethyl ester.
+
+Rolicyclidine.
+
+α-Methyl-3,4-(methylenedioxy) phenethylamine (also known as Tenamfetamine).
+
+[S 685/2010 wef 15/11/2010]
 
 2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrorphan.
 
@@ -1756,25 +1784,25 @@ N,N-Dimethyltryptamine.
 
 Alfentanil.
 
-Alpha-Methyl fentanyl.
-
-Alpha-Methyl fentanyl Acetanilide.
-
-Alpha-Methylthiofentanyl.
-
-Benzyl fentanyl.
-
-Beta-hydroxy fentanyl.
-
 Carfentanil.
+
+Alpha-Methyl fentanyl.
 
 Lofentanil.
 
+Alpha-Methyl fentanyl Acetanilide.
+
 3-Methyl fentanyl.
+
+Alpha-Methylthiofentanyl.
 
 para-fluorofentanyl.
 
+Benzyl fentanyl.
+
 Sufentanil.
+
+Beta-hydroxy fentanyl.
 
 Thiofentanyl.
 
@@ -1786,33 +1814,33 @@ Class B Drugs
 
 Acetyldihydrocodeine.
 
-Codeine.
-
-Dextropropoxyphene.
-
-Dihydrocodeine.
-
-Ethylmorphine (3-ethylmorphine).
-
-Fenetylline.
-
-Methylphenidate.
-
-Nicocodine.
-
 Nicodicodine.
+
+Codeine.
 
 Norcodeine.
 
+Dextropropoxyphene.
+
 Phencyclidine.
+
+Dihydrocodeine.
 
 Phenmetrazine.
 
+Ethylmorphine (3-ethylmorphine).
+
 Pholcodine.
+
+Fenetylline.
 
 Propiram.
 
+Methylphenidate.
+
 Zipeprol.
+
+Nicocodine.
 
 2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1.
 
@@ -1828,21 +1856,21 @@ Class C Drugs
 
 Benzphetamine.
 
-Chlorphentermine.
-
-Flunitrazepam.
-
-Mecloqualone.
-
-Mephentermine.
-
 Methaqualone.
+
+Chlorphentermine.
 
 Nimetazepam.
 
+Flunitrazepam.
+
 Phendimetrazine.
 
+Mecloqualone.
+
 Pipradrol.
+
+Mephentermine.
 
 Secobarbital.
 
@@ -3124,6 +3152,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 January 2008|
 |41.|**2008 Revised Edition—Misuse of Drugs Act**|
 ||Date of operation|31 March 2008|
+|42.|**G. N. No. S 685/2010—Misuse of Drugs (Amendment of First Schedule) Order 2010**|
+||Date of commencement|15 November 2010|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
