@@ -132,6 +132,10 @@ Scheduled Offences
 
 (d) sections 3, 4, 5 and 6 of the Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65);
 
+(da) section 3 of the Hostage-Taking Act 2010;
+
+[19/2010 wef 21/11/2010]
+
 (e) section 27(2) and (3) of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184);
 
 (f) sections 7 and 8(a) of the Misuse of Drugs Act (Cap. 185);
@@ -141,6 +145,8 @@ Scheduled Offences
 (h) section 14(3) of the Societies Act (Cap. 311);
 
 (i) sections 143, 144, 145, 147, 148, 302, 307, 324, 325, 326, 363, 363A, 364, 364A, 365, 368, 506, and Chapter XVII of the Penal Code (Cap. 224);
+
+[51/2007 wef 01/02/2008]
 
 (j) section 120B of the Penal Code where the criminal conspiracy is to commit any of the offences set out in the foregoing sub-paragraphs.
 
@@ -154,7 +160,7 @@ Road Vehicles (Special Powers) Act
 
 (CHAPTER 277)
 
-This Legislative History is provided for the convenience of users of the Road Vehicles (Special Powers) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Road Vehicles (Special Powers) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -192,3 +198,9 @@ This Legislative History is provided for the convenience of users of the Road Ve
 |||(Bill No. 38/2007 published on 18 September 2007)|
 ||Date of Second and Third Readings|23 October 2007|
 ||Date of commencement|1 February 2008|
+|10.|**Act 19 of 2010—Hostage Taking Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 July 2010|
+|||(Bill No. 13/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|21 November 2010|
