@@ -812,7 +812,7 @@
 
 - [364 Kidnapping or abducting in order to murder](#Kidnapping-or-abducting-in-order-to-murder)
 
-- [364A Kidnapping or abducting in order to compel the Government, etc.](#Kidnapping-or-abducting-in-order-to-compel-the-Government-etc)
+- [364A (Repealed)](#Repealed)
 
 - [365 Kidnapping or abducting with intent secretly and wrongfully to confine a person](#Kidnapping-or-abducting-with-intent-secretly-and-wrongfully-to-confine-a-person)
 
@@ -1218,7 +1218,7 @@ General Explanations
 
 6\. Throughout this Code every definition of an offence, every penal provision, and every illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision or illustration.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -1322,7 +1322,7 @@ A Magistrate exercising jurisdiction in respect of a charge on which he has powe
 
 [51/2007]
 
-Illustrations
+Illustration
 
 [Deleted by Act 51 of 2007]
 
@@ -1336,7 +1336,7 @@ Explanation2.—Wherever the words “public servant” occur, they shall be und
 
 22\. The words “movable property” are intended to include corporeal property of every description, except land and things attached to the earth, or permanently fastened to anything which is attached to the earth.
 
-Illustrations
+Illustration
 
 Writings, relating to real or personal property or rights, are movable property.
 
@@ -1430,9 +1430,9 @@ Explanation2.—Where a person causes one thing to resemble another thing and th
 
 [51/2007]
 
-Illustrations
+Illustration
 
-A writes his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”.
+Awrites his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”.
 
 [Indian PC 1860, s. 30]
 
@@ -1482,7 +1482,7 @@ A writes his name on the back of a bill of exchange. As the effect of this endor
 
 36\. Wherever the causing of a certain effect, or an attempt to cause that effect, by an act or by an omission, is an offence, it is to be understood that the causing of that effect partly by an act and partly by an omission is the same offence.
 
-Illustrations
+Illustration
 
 Aintentionally causesZ’s death, partly by illegally omitting to giveZfood, and partly by beatingZ.Ahas committed murder.
 
@@ -1492,7 +1492,7 @@ Aintentionally causesZ’s death, partly by illegally omitting to giveZfood, and
 
 37\. When an offence is committed by means of several acts, whoever intentionally co-operates in the commission of that offence by doing any one of those acts, either singly or jointly with any other person, commits that offence.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -1514,7 +1514,7 @@ A, a jailor, has the charge ofZ, a prisoner.A, intending to causeZ’s death, il
 
 [51/2007]
 
-Illustrations
+Illustration
 
 AattacksZunder such circumstances of grave provocation that his killing ofZwould be only culpable homicide not amounting to murder.B, having ill-will towardsZ, and intending to kill him, and not having been subject to the provocation, assistsAin killingZ. Here, thoughAandBare both engaged in causingZ’s death,Bis guilty of murder, andAis guilty only of culpable homicide.
 
@@ -1524,9 +1524,9 @@ AattacksZunder such circumstances of grave provocation that his killing ofZwould
 
 39\. A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.
 
-Illustrations
+Illustration
 
-A sets fire, by night, to an inhabited house in a large town, for the purpose of facilitating a robbery, and thus causes the death of a person. Here A may not have intended to cause death, and may even be sorry that death has been caused by this act; yet, if he knew that he was likely to cause death, he has caused death voluntarily.
+Asets fire, by night, to an inhabited house in a large town, for the purpose of facilitating a robbery, and thus causes the death of a person. HereAmay not have intended to cause death, and may even be sorry that death has been caused by this act; yet, if he knew that he was likely to cause death, he has caused death voluntarily.
 
 [Indian PC 1860, s. 39]
 
@@ -1780,7 +1780,7 @@ General Exceptions
 
 76\. Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -1808,7 +1808,7 @@ A, an officer of a court of justice, being ordered by that court to arrestY, and
 
 79\. Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be justified by law, in doing it.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -1834,7 +1834,7 @@ X, the commander of a naval vessel, is patrolling Singapore territorial waters.X
 
 80\. Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge, in the doing of a lawful act in a lawful manner, by lawful means, and with proper care and caution.
 
-Illustrations
+Illustration
 
 Ais at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part ofA, his act is excusable and not an offence.
 
@@ -1846,7 +1846,7 @@ Ais at work with a hatchet; the head flies off and kills a man who is standing b
 
 Explanation—It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -1912,7 +1912,7 @@ X, the commander of a naval vessel, is deployed in response to a threat of a ter
 
 87\. Nothing, which is not intended to cause death or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person above 18 years of age, who has given consent, whether express or implied, to suffer that harm; or by reason of any harm which it may be known by the doer to be likely to cause to any such person who has consented to take the risk of that harm.
 
-Illustrations
+Illustration
 
 AandZagree to fence with each other for amusement. This agreement implies the consent of each to suffer any harm which, in the course of such fencing, may be caused without foul play; and ifA, while playing fairly, hurtsZ,Acommits no offence.
 
@@ -1922,7 +1922,7 @@ AandZagree to fence with each other for amusement. This agreement implies the co
 
 88\. Nothing, which is not intended to cause death, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, or be known by the doer to be likely to cause, to any person for whose benefit it is done in good faith, and who has given a consent, whether express or implied, to suffer that harm, or to take the risk of that harm.
 
-Illustrations
+Illustration
 
 A, a surgeon, knowing that a particular operation is likely to cause the death ofZ, who suffers under a painful complaint, but not intending to causeZ’s death, and intending, in good faith,Z’s benefit, performs that operation onZ, withZ’s consent.Ahas committed no offence.
 
@@ -1942,7 +1942,7 @@ Provided that this exception shall not extend to —
 
 (d) the abetment of any offence, to the committing of which offence it would not extend.
 
-Illustrations
+Illustration
 
 A, in good faith, for the benefit of his child, being under 12 years of age, without his child’s consent, has his child cut for the stone by a surgeon, knowing it to be likely that the operation will cause the child’s death, but not intending to cause the child’s death.Ais within the exception, inasmuch as his object was the cure of the child.
 
@@ -1974,7 +1974,7 @@ and the person doing the act knows, or has reason to believe, that the consent w
 
 [32/80]
 
-Illustrations
+Illustration
 
 Causing miscarriage, unless it is authorised under the Termination of Pregnancy Act (Cap. 324) is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore it is not an offence “by reason of such harm”; and the consent of the woman, or of her guardian, to the causing of such miscarriage does not justify the act.
 
@@ -1994,7 +1994,7 @@ Provided that this exception shall not extend to —
 
 (d) the abetment of any offence, to the committing of which offence it would not extend.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2002,7 +2002,7 @@ Zis thrown from his horse, and is insensible.A, a surgeon, finds thatZrequires t
 
 (b)
 
-[Deleted by Act 51 of 2007]
+[Deleted byAct 51 of 2007]
 
 (c)
 
@@ -2020,7 +2020,7 @@ Explanation—Mere pecuniary benefit is not benefit within the meaning of sectio
 
 93\. No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.
 
-Illustrations
+Illustration
 
 A, a surgeon, in good faith, communicates to a patient his opinion that he cannot live. The patient dies in consequence of the shock.Ahas committed no offence, though he knew it to be likely that the communication might cause the patient’s death.
 
@@ -2068,7 +2068,7 @@ Right of private defence
 
 98\. When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind, or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2168,7 +2168,7 @@ Explanation2.—A person is not deprived of the right of private defence against
 
 106\. If, in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender is so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
 
-Illustrations
+Illustration
 
 Ais attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob.Acommits no offence if by so firing he harms any of the children.
 
@@ -2190,9 +2190,9 @@ Abetment
 
 Explanation1.—A person who, by wilful misrepresentation, or by wilful concealment of a material fact which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure, a thing to be done, is said to instigate the doing of that thing.
 
-Illustrations
+Illustration
 
-A, a public officer, is authorised by a warrant from a court of justice to apprehendZ.B, knowing that fact and also thatCis notZ, wilfully represents toAthatCisZ, and thereby intentionally causesAto apprehendC. HereBabets by instigation the apprehension of C.
+A, a public officer, is authorised by a warrant from a court of justice to apprehendZ.B, knowing that fact and also thatCis notZ, wilfully represents toAthatCisZ, and thereby intentionally causesAto apprehendC. HereBabets by instigation the apprehension ofC.
 
 Explanation2.—Whoever, either prior to or at the time of the commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.
 
@@ -2206,7 +2206,7 @@ Explanation1.—The abetment of the illegal omission of an act may amount to an 
 
 Explanation2.—To constitute the offence of abetment, it is not necessary that the act abetted should be committed, or that the effect requisite to constitute the offence should be caused.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2218,7 +2218,7 @@ AinstigatesBto murderD.B, in pursuance of the instigation, stabsD.Drecovers from
 
 Explanation3.—It is not necessary that the person abetted should be capable by law of committing an offence, or that he should have the same guilty intention or knowledge as that of the abettor, or any guilty intention or knowledge.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2240,13 +2240,13 @@ A, intending to cause a theft to be committed, instigatesBto take property belon
 
 Explanation4.—The abetment of an offence being an offence, the abetment of such an abetment is also an offence.
 
-Illustrations
+Illustration
 
-AinstigatesBto instigateCto murderZ.Baccordingly instigatesCto murderZ, andCcommits that offence in consequence ofB’s instigation.Bis liable to be punished for his offence with the punishment for murder; and as A instigatedBto commit the offenceAis also liable to the same punishment.
+AinstigatesBto instigateCto murderZ.Baccordingly instigatesCto murderZ, andCcommits that offence in consequence ofB’s instigation.Bisliable to be punished for his offence with the punishment for murder; and as A instigatedBto commit the offenceAis also liable to the same punishment.
 
 Explanation5.—It is not necessary to the commission of the offence of abetment by conspiracy that the abettor should concert the offence with the person who commits it. It is sufficient if he engages in the conspiracy in pursuance of which the offence is committed.
 
-Illustrations
+Illustration
 
 Aconcerts withBa plan for poisoningZ. It is agreed thatAshall administer the poison.Bthen explains the plan toC, mentioning that a third person is to administer the poison, but without mentioningA’s name.Cagrees to procure the poison, and procures and delivers it toBfor the purpose of its being used in the manner explained.Aadministers the poison;Zdies in consequence. Here, thoughAandChave not conspired together, yetChas been engaged in the conspiracy in pursuance of whichZhas been murdered.Chas therefore committed the offence defined in this section, and is liable to the punishment for murder.
 
@@ -2256,7 +2256,7 @@ Aconcerts withBa plan for poisoningZ. It is agreed thatAshall administer the poi
 
 108A\. A person abets an offence within the meaning of this Code who, in Singapore, abets the commission of any act without and beyond Singapore which would constitute an offence if committed in Singapore.
 
-Illustrations
+Illustration
 
 A, in Singapore, instigatesB, a foreigner in Java, to commit murder in Java.Ais guilty of abetting murder.
 
@@ -2274,7 +2274,7 @@ A, in Singapore, instigatesB, a foreigner in Java, to commit murder in Java.Ais 
 
 Explanation—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2302,7 +2302,7 @@ AandBconspire to poisonZ.A, in pursuance of the conspiracy, procures the poison 
 
 Provided the act done was a probable consequence of the abetment, and was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2322,7 +2322,7 @@ AinstigatesBandCto break into an inhabited house at midnight for the purpose of 
 
 112\. If the act for which the abettor is liable under section 111 is committed in addition to the act abetted, and constitutes a distinct offence, the abettor is liable to punishment for each of the offences.
 
-Illustrations
+Illustration
 
 AinstigatesBto resist by force a distress made by a public servant.B, in consequence, resists that distress. In offering the resistance,Bvoluntarily caused grievous hurt to the officer executing the distress. AsBhas committed both the offence of resisting the distress, and the offence of voluntarily causing grievous hurt,Bis liable to punishment for both these offences; and ifAknew thatBwas likely voluntarily to cause grievous hurt in resisting the distress,Awill also be liable to punishment for each of the offences.
 
@@ -2332,7 +2332,7 @@ AinstigatesBto resist by force a distress made by a public servant.B, in consequ
 
 113\. When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner, and to the same extent, as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect.
 
-Illustrations
+Illustration
 
 AinstigatesBto cause grievous hurt toZ.B, in consequence of the instigation, causes grievous hurt toZ.Zdies in consequence. Here, ifAknew that the grievous hurt abetted was likely to cause death,Ais liable to be punished with the punishment provided for murder.
 
@@ -2348,7 +2348,7 @@ AinstigatesBto cause grievous hurt toZ.B, in consequence of the instigation, cau
 
 115\. Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment for a term which may extend to 14 years, and shall also be liable to fine.
 
-Illustrations
+Illustration
 
 AinstigatesBto murderZ. The offence is not committed. IfBhad murderedZ, he would have been subject to the punishment of death. Therefore,Ais liable to imprisonment for a term which may extend to 7 years, and also to a fine; and if any hurt be done toZin consequence of the abetment, he will be liable to imprisonment for a term which may extend to 14 years, and to fine.
 
@@ -2358,11 +2358,11 @@ AinstigatesBto murderZ. The offence is not committed. IfBhad murderedZ, he would
 
 116\. Whoever abets an offence punishable with imprisonment shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment for a term which may extend to one-fourth part of the longest term provided for that offence, or with such fine as is provided for that offence, or with both; and if the abettor or the person abetted is a public servant, whose duty it is to prevent the commission of such offence, the abettor shall be punished with imprisonment for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for that offence, or with both.
 
-Illustrations
+Illustration
 
 (a)
 
-Aoffers a bribe toB, a public servant, as a reward for showing A some favour in the exercise ofB’s official functions.Brefuses to accept the bribe.Ais punishable under this section.
+Aoffers a bribe toB, a public servant, as a reward for showingAsome favour in the exercise ofB’s official functions.Brefuses to accept the bribe.Ais punishable under this section.
 
 (b)
 
@@ -2384,7 +2384,7 @@ Babets the commission of a robbery byA, a police officer, whose duty it is to pr
 
 [51/2007]
 
-Illustrations
+Illustration
 
 A, an employee at a worksite, affixes a placard at the worksite where more than 10 persons are employed.Ainstigates the workers to damage property at the worksite if their demand for a pay rise is not met.Ahas committed an offence under this section.
 
@@ -2396,7 +2396,7 @@ A, an employee at a worksite, affixes a placard at the worksite where more than 
 
 118\. Whoever, intending to facilitate, or knowing it to be likely that he will thereby facilitate, the commission of an offence punishable with death or imprisonment for life, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design, shall, if that offence is committed, be punished with imprisonment for a term which may extend to 7 years, or, if the offence is not committed, with imprisonment for a term which may extend to 3 years: and, in either case, shall also be liable to fine.
 
-Illustrations
+Illustration
 
 A, knowing that a gang-robbery is about to be committed atB, falsely informs the police that a gang-robbery is about to be committed atC, a place in an opposite direction, and thereby misleads the police with intent to facilitate the commission of the offence. The gang-robbery is committed atBin pursuance of the design.Ais punishable under this section.
 
@@ -2408,7 +2408,7 @@ A, knowing that a gang-robbery is about to be committed atB, falsely informs the
 
 [51/2007]
 
-Illustrations
+Illustration
 
 A, an officer of police, being legally bound to give information of all designs to commit robbery which may come to his knowledge, and knowing thatBdesigns to commit robbery, omits to give such information, with intent to facilitate the commission of that offence. HereAhas by an illegal omission concealed the existence ofB’s design, and is liable to punishment according to this section.
 
@@ -2464,7 +2464,7 @@ Offences against the State
 
 [51/2007]
 
-Illustrations
+Illustration
 
 Ajoins an insurrection against the Government.Ahas committed the offence defined in this section.
 
@@ -2562,7 +2562,7 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 [51/2007]
 
-Explanation—A prisoner of State or prisoner of war who is permitted to be at large on his parole within certain limits in Singapore, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.
+Explanation—. A prisoner of State or prisoner of war who is permitted to be at large on his parole within certain limits in Singapore, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.
 
 [Indian PC 1860, s. 130]
 
@@ -2757,9 +2757,9 @@ Explanation—An assembly which was not unlawful when it assembled may subsequen
 
 [51/2007]
 
-Illustrations
+Illustration
 
-Awooden pole sharpened at the end is a thing which, used as a weapon of offence, is likely to cause death.
+A wooden pole sharpened at the end is a thing which, used as a weapon of offence, is likely to cause death.
 
 This illustration is applicable to sections 148 and 158.
 
@@ -2793,7 +2793,7 @@ This illustration is applicable to sections 148 and 158.
 
 [62/73; 51/2007]
 
-Illustrations
+Illustration
 
 The last section is subject to the same illustration as section 144.
 
@@ -2817,13 +2817,13 @@ The last section is subject to the same illustration as section 144.
 
 [51/2007]
 
-Explanation—If the assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.
+Explanation—.If the assembly is an unlawful assembly within the meaning of section 141, the offender will be punishable under section 145.
 
 [Indian PC 1860, s. 151]
 
 Posting placards, etc.
 
-151A\. [Repealed by Act 51 of 2007]
+151A\. [Repealed byAct 51 of 2007]
 
 ### Assaulting or obstructing public servant when suppressing riot, etc.
 
@@ -2875,7 +2875,7 @@ Posting placards, etc.
 
 [51/2007]
 
-Illustrations
+Illustration
 
 The last section is subject to the same illustration as section 144.
 
@@ -2883,11 +2883,11 @@ The last section is subject to the same illustration as section 144.
 
 Affray
 
-159\. [Repealed by Act 51 of 2007]
+159\. [Repealed byAct 51 of 2007]
 
 Punishment for committing affray
 
-160\. [Repealed by Act 51 of 2007]
+160\. [Repealed byAct 51 of 2007]
 
 ### Chapter IX
 
@@ -2907,7 +2907,7 @@ Explanations—
 
 “A motive or reward for doing”. A person who receives a gratification as a motive for doing what he does not intend to do, or as a reward for doing what he has not done, comes within these words.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2931,7 +2931,7 @@ A, a public servant, inducesZerroneously to believe thatA’s influence with the
 
 163\. Whoever accepts or obtains, or agrees to accept or attempts to obtain, from any person, for himself or for any other person, any gratification whatever, as a motive or reward for inducing, by the exercise of personal influence, any public servant to do or to forbear to do any official act, or in the exercise of the official functions of such public servant to show favour or disfavour to any person, or to render or attempt to render any service or disservice to any person with the Government, or with any Member of Parliament or the Cabinet, or with any public servant, as such, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-Illustrations
+Illustration
 
 An advocate who receives a fee for arguing a case before a judge; a person who receives pay for arranging and correcting a memorial addressed to Government, setting forth the services and claims of the memorialist; a paid agent for a condemned criminal, who lays before the Government statements tending to show that the condemnation was unjust — are not within this section, inasmuch as they do not exercise or profess to exercise personal influence.
 
@@ -2939,7 +2939,7 @@ An advocate who receives a fee for arguing a case before a judge; a person who r
 
 164\. Whoever, being a public servant, in respect of whom either of the offences defined in sections 162 and 163 is committed, abets the offence, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-Illustrations
+Illustration
 
 Ais a public servant.B,A’s wife, receives a present as a motive for solicitingAto give an office to a particular person.Aabets her doing so.Bis punishable with imprisonment for a term not exceeding one year, or with fine, or with both.Ais punishable with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
@@ -2947,7 +2947,7 @@ Ais a public servant.B,A’s wife, receives a present as a motive for soliciting
 
 165\. Whoever, being a public servant, accepts or obtains, or agrees to accept or attempts to obtain, for himself or for any other person, any valuable thing, without consideration, or for a consideration which he knows to be inadequate, from any person whom he knows to have been, or to be, or to be likely to be concerned in any proceedings or business transacted, or about to be transacted, by such public servant, or having any connection with the official functions of himself or of any public servant to whom he is subordinate, or from any person whom he knows to be interested in or related to the person so concerned, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -2965,7 +2965,7 @@ Z’s brother is apprehended and taken beforeA, a Magistrate, on a charge of per
 
 166\. Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will, by such disobedience, cause injury to any person, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-Illustrations
+Illustration
 
 A, being an officer directed by law to take property in execution in order to satisfy a decree pronounced inZ’s favour by a court of justice, knowingly disobeys that direction of law, with the knowledge that he is likely thereby to cause injury toZ.Ahas committed the offence defined in this section.
 
@@ -3036,7 +3036,7 @@ of public servants
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -3054,7 +3054,7 @@ A, being legally bound to appear before a Magistrate as a witness, in obedience 
 
 [51/2007]
 
-Illustrations
+Illustration
 
 A, being legally bound to produce a document or an electronic record before a Magistrate’s Court, intentionally omits to produce the same.Ahas committed the offence defined in this section.
 
@@ -3076,7 +3076,7 @@ A, being legally bound to produce a document or an electronic record before a Ma
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -3084,7 +3084,7 @@ A, a landholder, knowing of the commission of a murder, within the limits of his
 
 (b)
 
-[Deleted by Act 51 of 2007]
+[Deleted byAct 51 of 2007]
 
 Explanation—In section 176 and in this section “offence” includes any act committed at any place out of Singapore, which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460, and “offender” includes any person who is alleged to have been guilty of any such act.
 
@@ -3126,7 +3126,7 @@ Explanation—In section 176 and in this section “offence” includes any act 
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -3190,9 +3190,9 @@ Afalsely informs a policeman that he has been assaulted and robbed by a person w
 
 [51/2007]
 
-Explanation—It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm.
+Explanation—.It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm.
 
-Illustrations
+Illustration
 
 An order is promulgated by a public servant lawfully empowered to promulgate such order, directing that a religious procession shall not pass down a certain street.Aknowingly disobeys the order, and thereby causes danger of riot.Ahas committed the offence defined in this section.
 
@@ -3222,7 +3222,7 @@ Explanation1.—A statement is within the meaning of this section whether it is 
 
 Explanation2.—A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -3230,7 +3230,7 @@ A, in support of a just claim whichBhas againstZfor $1,000, falsely swears on a 
 
 (b)
 
-A, being bound by an oath to state the truth, states that he believes a certain signature to be the handwriting ofZ, when he does not believe it to be the handwriting ofZ. Here A states that which he knows to be false, and therefore gives false evidence.
+A, being bound by an oath to state the truth, states that he believes a certain signature to be the handwriting ofZ, when he does not believe it to be the handwriting ofZ. HereAstates that which he knows to be false, and therefore gives false evidence.
 
 (c)
 
@@ -3252,7 +3252,7 @@ A, an interpreter or a translator, gives or certifies as a true interpretation o
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -3276,13 +3276,13 @@ Explanation1.—A trial before a court martial is a judicial proceeding.
 
 Explanation2.—An investigation directed by law preliminary to a proceeding before a court of justice, is a stage of a judicial proceeding, though that investigation may not take place before a court of justice.
 
-Illustrations
+Illustration
 
 A, in an inquiry before a Magistrate for the purpose of ascertaining whetherZought to be committed for trial, makes on oath a statement which he knows to be false. As this inquiry is a stage of a judicial proceeding,Ahas given false evidence.
 
 Explanation3.—An investigation directed by a court of justice according to law, and conducted under the authority of a court of justice, is a stage of a judicial proceeding, though that investigation may not take place before a court of justice.
 
-Illustrations
+Illustration
 
 A, in an inquiry before an officer deputed by a court of justice to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this inquiry is a stage of a judicial proceeding,Ahas given false evidence.
 
@@ -3300,7 +3300,7 @@ A, in an inquiry before an officer deputed by a court of justice to ascertain on
 
 195\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by this Code or under any other law for the time being in force is not capital, but punishable with imprisonment for life, or imprisonment for a term of 7 years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
 
-Illustrations
+Illustration
 
 Agives false evidence before a court of justice, intending thereby to causeZto be convicted of a gang-robbery. The punishment of gang-robbery is imprisonment for a term of not less than 5 years and not more than 20 years and also caning with not less than 12 strokes.A, therefore, is liable to such imprisonment, with caning.
 
@@ -3346,7 +3346,7 @@ Explanation—A declaration which is inadmissible merely upon the ground of some
 
 [51/2007]
 
-Illustrations
+Illustration
 
 A, knowing thatBhas murderedZ, assistsBto hide the body with the intention of screeningBfrom punishment.Ais liable to imprisonment for 10 years, and also to fine.
 
@@ -3428,7 +3428,7 @@ shall be punished with imprisonment for a term which may extend to 7 years, or w
 
 208\. Whoever fraudulently causes or suffers a decree or an order to be passed against him at the suit of any person for a sum not due, or for a larger sum than is due to such person, or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or an order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Illustrations
+Illustration
 
 Ainstitutes a suit againstZ.Z, knowing thatAis likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit ofB, who has no just claim against him, in order thatB, either on his own account or for the benefit ofZ, may share in the proceeds of any sale ofZ’s property which may be made underA’s decree.Zhas committed an offence under this section.
 
@@ -3462,9 +3462,9 @@ In this section “offence” includes any act committed at any place out of Sin
 
 [51/2007]
 
-Exception.—This provision shall not extend to any case in which the harbour or concealment is by the husband or wife of the offender.
+Exception.—.This provision shall not extend to any case in which the harbour or concealment is by the husband or wife of the offender.
 
-Illustrations
+Illustration
 
 A, knowing thatBhas committed gang-robbery, knowingly concealsBin order to screen him from legal punishment. Here, asBis liable to imprisonment for a term of not less than 5 years and not more than 20 years,Ais liable to imprisonment for a term not exceeding 7 years, and is also liable to fine.
 
@@ -3486,7 +3486,7 @@ A, knowing thatBhas committed gang-robbery, knowingly concealsBin order to scree
 
 [51/2007]
 
-Exception.—Sections 213 and 214 do not extend to any case in which the offence may lawfully be compounded.
+Exception.—. Sections 213 and 214 do not extend to any case in which the offence may lawfully be compounded.
 
 [Indian PC 1860, s. 214]
 
@@ -3504,7 +3504,7 @@ In this section, “offence” includes also any act or omission of which a pers
 
 [51/2007]
 
-Exception.—This provision does not extend to the case in which the harbour or concealment is by the husband or wife of the person to be apprehended.
+Exception.—. This provision does not extend to the case in which the harbour or concealment is by the husband or wife of the person to be apprehended.
 
 [Indian PC 1860, s. 216]
 
@@ -3512,7 +3512,7 @@ Exception.—This provision does not extend to the case in which the harbour or 
 
 216A\. Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or gang-robbery, harbours them or any of them with the intention of facilitating the commission of such robbery or gang-robbery or of screening them or any of them from punishment, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
-Explanation—For the purpose of this section it is immaterial whether the robbery or gang-robbery is intended to be committed or has been committed within or without Singapore.
+Explanation—. For the purpose of this section it is immaterial whether the robbery or gang-robbery is intended to be committed or has been committed within or without Singapore.
 
 Exception.—This provision does not extend to the case in which the harbouring is by the husband or wife of the offender.
 
@@ -3671,13 +3671,13 @@ and government stamps
 
 “Current coin” means coin which is legal tender in Singapore or in any foreign country.
 
-Illustrations
+[51/2007]
+
+Illustration
 
 (a) to (c) [Deleted by Act 51 of 2007]
 
 [Indian PC 1860, s. 230]
-
-[51/2007]
 
 ### Counterfeiting coin
 
@@ -3755,9 +3755,9 @@ Explanation.— A person commits this offence, who, intending to practise decept
 
 241\. Whoever delivers to any other person as genuine, or attempts to induce any other person to receive as genuine, any counterfeit coin which he knows to be counterfeit, but which he did not know to be counterfeit at the time when he took it into his possession, shall be punished with imprisonment for a term which may extend to 2 years, or with fine to an amount which may extend to 10 times the value of the coin counterfeited, or with both.
 
-Illustrations
+Illustration
 
-A, a coiner, delivers counterfeit Hong Kong dollars to his accomplice B, for the purpose of uttering them.Bsells the dollars toC, another utterer, who buys them knowing them to be counterfeit.Cpays away the dollars for goods toD, who receives them, not knowing them to be counterfeit.D, after receiving the dollars, discovers that they are counterfeit, and pays them away as if they were good. HereDis punishable only under this section, butBandCare punishable under section 239 or 240 as the case may be.
+A, a coiner, delivers counterfeit Hong Kong dollars to his accompliceB, for the purpose of uttering them.Bsells the dollars toC, another utterer, who buys them knowing them to be counterfeit.Cpays away the dollars for goods toD, who receives them, not knowing them to be counterfeit.D, after receiving the dollars, discovers that they are counterfeit, and pays them away as if they were good. HereDis punishable only under this section, butBandCare punishable under section 239 or 240 as the case may be.
 
 [Indian PC 1860, s. 241]
 
@@ -3783,7 +3783,7 @@ A, a coiner, delivers counterfeit Hong Kong dollars to his accomplice B, for the
 
 Forfeiture of counterfeit coin
 
-243A\. [Repealed by Act 51 of 2007]
+243A\. [Repealed byAct 51 of 2007]
 
 ### Fraudulently or dishonestly diminishing the weight or altering the composition of any coin
 
@@ -4007,7 +4007,7 @@ containing any incitement to violence or counselling disobedience to the law or 
 
 268\. A person is guilty of a public nuisance, who does any act, or is guilty of an illegal omission, which causes any common injury, danger or annoyance to the public, or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right.
 
-Explanation—A common nuisance is not excused on the ground that it causes some convenience or advantage.
+Explanation—. A common nuisance is not excused on the ground that it causes some convenience or advantage.
 
 [Indian PC 1860, s. 268]
 
@@ -4217,7 +4217,7 @@ shall be punished with imprisonment for a term which may extend to 3 months, or 
 
 [51/2007]
 
-Exception.—This section does not extend to any book, pamphlet, writing, drawing or painting kept or used bona fide for religious purposes, or any representation sculptured, engraved, painted or otherwise represented on or in any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
+Exception.—. —This section does not extend to any book, pamphlet, writing, drawing or painting kept or used bona fide for religious purposes, or any representation sculptured, engraved, painted or otherwise represented on or in any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
 
 [Indian PC 1860, s. 292]
 
@@ -4311,7 +4311,7 @@ Offences affecting life
 
 299\. Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -4323,7 +4323,7 @@ AknowsZto be behind a bush.Bdoes not know it.A, intending to cause, or knowing i
 
 (c)
 
-[Deleted by Act 51 of 2007]
+[Deleted byAct 51 of 2007]
 
 Explanation1.—A person who causes bodily injury to another who is labouring under a disorder, disease or bodily infirmity, and thereby accelerates the death of that other, shall be deemed to have caused his death.
 
@@ -4345,7 +4345,7 @@ Explanation3.—The causing of the death of a child in the mother’s womb is no
 
 (d) if the person committing the act knows that it is so imminently dangerous that it must in all probability cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death, or such injury as aforesaid.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -4385,7 +4385,7 @@ that the provocation is not given by anything done in the lawful exercise of the
 
 Explanation—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -4401,7 +4401,7 @@ Ais lawfully arrested byZ, a police officer.Ais excited to sudden and violent pa
 
 (d)
 
-Aappears as a witness beforeZ, a Magistrate.Zsays that he does not believe a word of A’s deposition, and thatAhas perjured himself.Ais moved to sudden passion by these words, and killsZ. This is murder.
+Aappears as a witness beforeZ, a Magistrate.Zsays that he does not believe a word ofA’s deposition, and thatAhas perjured himself.Ais moved to sudden passion by these words, and killsZ. This is murder.
 
 (e)
 
@@ -4415,7 +4415,7 @@ ZstrikesB.Bis by this provocation excited to violent rage.A, a bystander, intend
 
 Exception2.—Culpable homicide is not murder if the offender, in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.
 
-Illustrations
+Illustration
 
 [Deleted by Act 51 of 2007]
 
@@ -4427,7 +4427,7 @@ Explanation—It is immaterial in such cases which party offers the provocation 
 
 Exception5.—Culpable homicide is not murder when the person whose death is caused, being above the age of 18 years, suffers death or takes the risk of death with his own consent.
 
-Illustrations
+Illustration
 
 A, by instigation, voluntarily causesZ, a person under 18 years of age, to commit suicide. Here, on account ofZ’s youth, he was incapable of giving consent to his own death.Ahas therefore abetted murder.
 
@@ -4493,7 +4493,7 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 [62/73; 51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -4525,7 +4525,7 @@ A, intending to murderZby poison, purchases poison and mixes the same with food 
 
 [51/2007]
 
-Illustrations
+Illustration
 
 A, on grave and sudden provocation, fires a pistol atZ, under such circumstances that if he thereby caused death he would be guilty of culpable homicide not amounting to murder.Ahas committed the offence defined in this section.
 
@@ -4597,7 +4597,7 @@ Explanation—It is not essential to this offence that the offender should know 
 
 316\. Whoever does any act under such circumstances that if he thereby caused death he would be guilty of culpable homicide, and does by such act cause the death of a quick unborn child, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
-Illustrations
+Illustration
 
 A, knowing that he is likely to cause the death of a pregnant woman, does an act which, if it caused the death of the woman, would amount to culpable homicide. The woman is injured, but does not die; but the death of an unborn quick child with which she is pregnant is thereby caused.Ais guilty of the offence defined in this section.
 
@@ -4667,9 +4667,9 @@ Explanation—A person is said to cause hurt if he causes another person to be u
 
 322\. Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, is said “voluntarily to cause grievous hurt”.
 
-Explanation—A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt if, intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind.
+Explanation.— A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt if, intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind.
 
-Illustrations
+Illustration
 
 A, intending or knowing himself to be likely permanently to disfigureZ’s face, givesZa blow which does not permanently disfigureZ’s face but which causesZto suffer severe bodily pain for the space of 20 days.Ahas voluntarily caused grievous hurt.
 
@@ -4733,7 +4733,7 @@ A, intending or knowing himself to be likely permanently to disfigureZ’s face,
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -4835,7 +4835,7 @@ Wrongful restraint and wrongful confinement
 
 Exception.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section.
 
-Illustrations
+Illustration
 
 Aobstructs a path along whichZhas a right to pass,Anot believing in good faith that he has a right to stop the path.Zis thereby prevented from passing.Awrongfully restrainsZ.
 
@@ -4925,7 +4925,7 @@ Provided that the person causing the motion, or change of motion, or cessation o
 
 350\. Whoever intentionally uses force to any person, without that person’s consent, in order to cause the committing of any offence, or intending by the use of such force illegally to cause, or knowing it to be likely that by the use of such force he will illegally cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -4961,7 +4961,7 @@ Aincites a dog to spring uponZwithoutZ’s consent. Here, ifAintends to cause in
 
 (i)
 
-[Deleted by Act 51 of 2007]
+[Deleted byAct 51 of 2007]
 
 [51/2007]
 
@@ -4973,7 +4973,7 @@ Aincites a dog to spring uponZwithoutZ’s consent. Here, ifAintends to cause in
 
 Explanation—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparations such a meaning as may make those gestures or preparations amount to an assault.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -5001,7 +5001,7 @@ if the provocation is given by anything done in obedience to the law or by a pub
 
 if the provocation is given by anything done in the lawful exercise of the right of private defence.
 
-Explanation—Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.
+Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.
 
 [Indian PC 1860, s. 352]
 
@@ -5067,7 +5067,7 @@ shall be punished with imprisonment for a term of not less than 3 years and not 
 
 [51/2007]
 
-Explanation—This section is subject to the same explanation as section 352.
+Explanation—. —This section is subject to the same explanation as section 352.
 
 [Indian PC 1860, s. 358]
 
@@ -5089,7 +5089,7 @@ Kidnapping, abduction, slavery and forced labour
 
 361\. Whoever takes or entices any minor under 14 years of age if a male, or under 16 years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship.
 
-Explanation—The words “lawful guardian” in this section include any person lawfully entrusted with the care or custody of such minor or other person.
+Explanation—. —The words “lawful guardian” in this section include any person lawfully entrusted with the care or custody of such minor or other person.
 
 Exception.—This section does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.
 
@@ -5117,7 +5117,7 @@ Exception.—This section does not extend to the act of any person who in good f
 
 364\. Whoever kidnaps or abducts any person in order that such person may be murdered, or may be so disposed of as to be put in danger of being murdered, shall be punished with death or imprisonment for life and shall, if he is not sentenced to death, also be liable to caning.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -5129,23 +5129,7 @@ Aforcibly carries or enticesBaway from his home in order thatBmay be murdered.Ah
 
 [Indian PC 1860, s. 364]
 
-### Kidnapping or abducting in order to compel the Government, etc.
-
-364A\. Whoever —
-
-(a) kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction; and
-
-(b) threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes death or hurt to such person,
-
-in order to compel —
-
-(i) the Government to do or abstain from doing any act, shall be punished with death or imprisonment for life, and shall, if he is not sentenced to death, also be liable to fine or to caning; or
-
-(ii) any other person to do or abstain from doing any act shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
-
-[51/2007]
-
-[Indian PC 1860, s. 364A]
+364A\. [Deleted by Act 19/2010 wef 21/11/2010]
 
 ### Kidnapping or abducting with intent secretly and wrongfully to confine a person
 
@@ -5525,7 +5509,7 @@ and includes penetration.
 
 [51/2007]
 
-[UK SOA 2003, ss. 34, 79; UK MH Bill 2004, clause 2(6)]
+[clause 2(6)]
 
 ### Incest
 
@@ -5679,7 +5663,7 @@ Explanation4.—A person, who by any means causes an animal to move, is said to 
 
 Explanation5.—The consent mentioned in the definition may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -5691,7 +5675,7 @@ Aputs a bait for dogs in his pocket, and thus inducesZ’s dog to follow it. Her
 
 (c)
 
-[Deleted by Act 51 of 2007]
+[Deleted byAct 51 of 2007]
 
 (d)
 
@@ -5791,7 +5775,7 @@ Ain good faith, believing property belonging toZto beA’s own property, takes t
 
 [62/73]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -5811,7 +5795,7 @@ Extortion
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -5893,9 +5877,9 @@ Robbery and gang-robbery
 
 (3) Extortion is “robbery” if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.
 
-Explanation—The offender is said to be present if he is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.
+Explanation—. The offender is said to be present if he is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6067,7 +6051,7 @@ Afinds a valuable ring, not knowing to whom it belongs.Asells it immediately wit
 
 404\. Whoever dishonestly misappropriates or converts to his own use property, knowing that such property was in the possession of a deceased person at the time of that person’s decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offender at the time of such person’s decease was employed by him as a clerk or servant, the imprisonment may extend to 7 years.
 
-Illustrations
+Illustration
 
 Zdies in possession of furniture and money. His servantA, before the money comes into the possession of any person entitled to such possession, dishonestly misappropriates it.Ahas committed the offence defined in this section.
 
@@ -6079,7 +6063,7 @@ Criminal breach of trust
 
 405\. Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person to do so, commits “criminal breach of trust”.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6213,7 +6197,7 @@ Explanation3.—Whoever makes a representation through any agent is to be treate
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6263,7 +6247,7 @@ A, playing with false dice, or marked cards, wins money fromB.Acheats.
 
 Explanation—The offence is committed whether the individual personated is a real or an imaginary person.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6351,7 +6335,7 @@ Explanation1.—It is not essential to the offence of mischief that the offender
 
 Explanation2.—Mischief may be committed by an act affecting property belonging to the person who commits the act, or to that person and others jointly.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6359,7 +6343,7 @@ Avoluntarily burns a valuable security belonging toZ, intending to cause wrongfu
 
 (b)
 
-[Deleted by Act 51 of 2007]
+[Deleted byAct 51 of 2007]
 
 (c)
 
@@ -6383,7 +6367,7 @@ A, having joint property withZin a horse, shoots the horse, intending thereby to
 
 (h)
 
-[Deleted by Act 51 of 2007]
+[Deleted by Act 51 of 2007 wef 28/01/2008]
 
 [51/2007]
 
@@ -6415,7 +6399,7 @@ A, having joint property withZin a horse, shoots the horse, intending thereby to
 
 Mischief by killing or maiming cattle, etc., or any animal of the value of $25
 
-429\. [Repealed by Act 51 of 2007]
+429\. [Repealed byAct 51 of 2007]
 
 ### Mischief by injury to works of irrigation or by wrongfully diverting water
 
@@ -6439,7 +6423,7 @@ Mischief by killing or maiming cattle, etc., or any animal of the value of $25
 
 431A\. Whoever commits mischief by cutting or injuring any electric telegraph cable, wire, line, post, instrument or apparatus for signalling, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Explanation—The injuring here must be of such a nature as to prevent the use of the electric telegraph cable, wire or line, for telegraphing, otherwise the offence will be punishable under section 426.
+Explanation—. The injuring here must be of such a nature as to prevent the use of the electric telegraph cable, wire or line, for telegraphing, otherwise the offence will be punishable under section 426.
 
 ### Mischief by causing inundation or obstruction to public drainage, attended with damage
 
@@ -6543,7 +6527,7 @@ Explanation.—The introduction of any part of the criminal trespasser’s body 
 
 Explanation—Any outhouse or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6761,7 +6745,7 @@ with the intention of causing it to be believed that such document or electronic
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6809,7 +6793,7 @@ AwithoutB’s authority writes a letter and signs it inB’s name, certifying to
 
 Explanation1.—A man’s signature of his own name may amount to forgery.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6833,7 +6817,7 @@ A, a trader, in anticipation of insolvency, lodges effects withBforA’s benefit
 
 Explanation2.—The making of a false document in the name of a fictitious person, intending it to be believed that the document was made by a real person, or in the name of a deceased person, intending it to be believed that the document was made by the person in his lifetime, may amount to forgery.
 
-Illustrations
+Illustration
 
 Adraws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in the name of such fictitious person with intent to negotiate it.Acommits forgery.
 
@@ -7011,7 +6995,7 @@ shall be punished with imprisonment for a term which may extend to 10 years, or 
 
 [51/2007]
 
-Explanation—It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded, or specifying any particular sum of money intended to be the subject of the fraud or any particular day on which the offence was committed.
+Explanation—. —It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded, or specifying any particular sum of money intended to be the subject of the fraud or any particular day on which the offence was committed.
 
 [Indian PC 1860, s. 477A]
 
@@ -7059,7 +7043,7 @@ Explanation—For the purposes of this section and of sections 489B, 489C and 48
 
 Forfeiture of counterfeit currency
 
-489E\. [Repealed by Act 51 of 2007]
+489E\. [Repealed byAct 51 of 2007]
 
 ### Chapter XX16
 
@@ -7123,7 +7107,7 @@ Explanation5.—An imputation may be made or published in written, electronic or
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -7149,7 +7133,7 @@ Conduct of any person touching any public question
 
 Exception3.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
 
-Illustrations
+Illustration
 
 It is not defamation inAto express in good faith any opinion whatever respectingZ’s conduct in petitioning Government on a public question, in signing a requisition for a meeting on a public question, in presiding or attending at such a meeting, in forming or joining any society which invites the public support, in voting or canvassing for a particular candidate for any situation in the efficient discharge of the duties in which the public is interested.
 
@@ -7163,7 +7147,7 @@ Merits of case decided in a court of justice; or conduct of witnesses and others
 
 Exception5.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a court of justice, or respecting the conduct of any person as a party, a witness or an agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -7179,7 +7163,7 @@ Exception6.—It is not defamation to express in good faith any opinion respecti
 
 Explanation—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -7205,7 +7189,7 @@ Censure passed in good faith by a person having lawful authority over another
 
 Exception7.—It is not defamation in a person having over another any authority, either conferred by law, or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates.
 
-Illustrations
+Illustration
 
 A judge censuring in good faith the conduct of a witness or of an officer of the court; a head of a department censuring in good faith those who are under his orders; a parent censuring in good faith a child in the presence of other children; a schoolmaster, whose authority is derived from a parent, censuring in good faith a pupil in the presence of other pupils; a master censuring a servant in good faith for remissness in service; a banker censuring in good faith the cashier of his bank for his conduct as such cashier — are within this exception.
 
@@ -7213,7 +7197,7 @@ Accusation preferred in good faith to a duly authorised person
 
 Exception8.—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject-matter of the accusation.
 
-Illustrations
+Illustration
 
 IfAin good faith accusesZbefore a Magistrate; ifAin good faith complains of the conduct ofZ, a servant, toZ’s master; ifAin good faith complains of the conduct ofZ, a child, toZ’s father —Ais within this exception.
 
@@ -7221,11 +7205,11 @@ Imputation made in good faith by a person for the protection of his interests
 
 Exception9.—It is not defamation to make an imputation on the character of another, provided that the imputation is made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.
 
-Illustrations
+Illustration
 
 (a)
 
-A, a shopkeeper, says toB, who manages his business, “Sell nothing to Z unless he pays you ready money, for I have no opinion of his honesty”.Ais within the exception, if he has made this imputation onZin good faith for the protection of his own interests.
+A, a shopkeeper, says toB, who manages his business, “Sell nothing toZunless he pays you ready money, for I have no opinion of his honesty”.Ais within the exception, if he has made this imputation onZin good faith for the protection of his own interests.
 
 (b)
 
@@ -7237,7 +7221,7 @@ Exception10.—It is not defamation to convey a caution, in good faith, to one p
 
 Explanation to Exceptions
 
-Explanation1.—In proving the existence of circumstances as a defence under the Second, Third, Fifth, Sixth, Seventh, Eighth, Ninth or Tenth exception, good faith shall be presumed unless the contrary appears.
+Explanation—In proving the existence of circumstances as a defence under the Second, Third, Fifth, Sixth, Seventh, Eighth, Ninth or Tenth exception, good faith shall be presumed unless the contrary appears.
 
 [Indian PC 1860, s. 499]
 
@@ -7269,9 +7253,9 @@ Criminal intimidation, insult and annoyance
 
 Explanation—A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.
 
-Illustrations
+Illustration
 
-A, for the purpose of inducingBto desist from prosecuting a civil suit, threatens to burnB’s house. A is guilty of criminal intimidation.
+A, for the purpose of inducingBto desist from prosecuting a civil suit, threatens to burnB’s house.Ais guilty of criminal intimidation.
 
 [Indian PC 1860, s. 503]
 
@@ -7319,15 +7303,11 @@ Exception.—It does not amount to an offence within the meaning of this section
 
 508\. Whoever voluntarily causes or attempts to cause any person to do anything which that person is not legally bound to do, or to omit to do anything which he is legally entitled to do, by inducing or attempting to induce that person to believe that he, or any person in whom he is interested, will become or will be rendered by some act of the offender an object of divine displeasure if he does not do the thing which it is the object of the offender to cause him to do, or if he does the thing which it is the object of the offender to cause him to omit, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
-Illustrations
+Illustration
 
-(a)
+(a)Aperforms a ceremony atZ’s door with the intention of causing it to be believed that by so doing he rendersZan object of divine displeasure, unlessZdoes something he is not legally bound to do.Ahas committed the offence defined in this section.
 
-Aperforms a ceremony atZ’s door with the intention of causing it to be believed that by so doing he rendersZan object of divine displeasure, unlessZdoes something he is not legally bound to do.Ahas committed the offence defined in this section.
-
-(b)
-
-AthreatensZthat unlessZperforms a certain act,Awill kill one ofA’s own children, under such circumstances that the killing would be believed to renderZan object of divine displeasure.Ahas committed the offence defined in this section.
+(b)AthreatensZthat unlessZperforms a certain act,Awill kill one ofA’s own children, under such circumstances that the killing would be believed to renderZan object of divine displeasure.Ahas committed the offence defined in this section.
 
 [Indian PC 1860, s. 508]
 
@@ -7363,7 +7343,7 @@ Attempts to commit offences
 
 [51/2007]
 
-Illustrations
+Illustration
 
 (a)
 
@@ -7419,11 +7399,11 @@ UK CDA 1998
 
 United Kingdom, Crime and Disorder Act 1998 (Chapter 37)
 
-UK MH Bill 200
+UK MH Bill 2004
 
 :
 
-United Kingdom, Mental Health Bill (Cm 5538-I, published on 8 Sep 2004)
+United Kingdom, Mental Health Bill (Cm 5538-I, published on 1)
 
 UK SOA 2003
 
@@ -7699,3 +7679,9 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |48.|**2008 Revised Edition—Penal Code**|
 ||(G.N. No. S 340/2012 — Rectification Order)||
 ||Date of operation|30 November 2008|
+|49.|**Act 19 of 2010—Hostage-Taking Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 July 2010|
+|||(Bill No. 13/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|21 November 2010|
