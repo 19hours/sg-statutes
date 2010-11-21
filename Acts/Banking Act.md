@@ -4978,7 +4978,7 @@ In this Schedule, unless the context otherwise requires —
 
 “public officer” includes any officer of a statutory board;
 
-“specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151), the Moneylenders Act 2008 (Act 31 of 2008) and the Prevention of Corruption Act (Cap. 241);
+“specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Hostage-Taking Act 2010, the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151), the Moneylenders Act 2008 (Act 31 of 2008) and the Prevention of Corruption Act (Cap. 241);
 
 [5/2010 wef 11/02/2010]
 
@@ -5272,6 +5272,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 23/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|11 February 2010|
+|30.|**Act 19 of 2010—Hostage-Taking Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 July 2010|
+|||(Bill No. 13/2010 published on 19 July 2010)|
+||Date of Second and Third Readings|16 August 2010|
+||Date of commencement|21 November 2010|
 ## COMPARATIVE TABLE
 
 Banking Act
