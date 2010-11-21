@@ -1592,9 +1592,15 @@ Offences included with effect from 1st February 2008
 
 [S 34/2008 wef 01/02/2008]
 
-(9) is convicted of an offence under section 14, 28 or 28B of the Moneylenders Act 2008 (Act 31 of 2008).
+(9) is convicted of an offence under section 14, 28 or 28B of the Moneylenders Act 2008 (Act 31 of 2008); or
 
 [S 74/2010 wef 11/02/2010]
+
+[S 672/2010 wef 21/11/2010]
+
+(10) is convicted of an offence under section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
+
+[S 672/2010 wef 21/11/2010]
 
 ## LEGISLATIVE HISTORY
 
@@ -1732,6 +1738,8 @@ This Legislative History is provided for the convenience of users of the Prisons
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|27.|**G. N. No. S 672/2010—Prisons Act (Amendment of Schedule) (No. 2) Order 2010**|
+||Date of commencement|21 November 2010|
 ## COMPARATIVE TABLE
 
 Prisons Act
