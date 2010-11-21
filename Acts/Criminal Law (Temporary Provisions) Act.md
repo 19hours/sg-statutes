@@ -1108,21 +1108,39 @@ Section 35
 
 Specified Laws
 
-1. Sections 3, 4, 6 and 7 of the Arms Offences Act (Cap. 14).
+1. 
 
-[S 228/75]
+Sections 3, 4, 6 and 7 of the Arms Offences Act (Cap. 14).
 
-2\. The Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65).
+2. 
 
-3\. Sections 58 and 59 of the Internal Security Act (Cap. 143).
+The Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65).
 
-4\. Sections 3, 4 and 5 of the Kidnapping Act (Cap. 151).
+2A. 
 
-5\. Section 5 of the Misuse of Drugs Act (Cap. 185).
+Section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
 
-6\. Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 363A, 364, 364A, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
+3. [S 668/2010 wef 21/11/2010]
 
-7\. Sections 14 and 15 of the Societies Act (Cap. 311).
+4. 
+
+Sections 58 and 59 of the Internal Security Act (Cap. 143).
+
+5. 
+
+Sections 3, 4 and 5 of the Kidnapping Act (Cap. 151).
+
+6. 
+
+Section 5 of the Misuse of Drugs Act (Cap. 185).
+
+7. 
+
+Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 363A, 364, 364A, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
+
+8. 
+
+Sections 14 and 15 of the Societies Act (Cap. 311).
 
 ## LEGISLATIVE HISTORY
 
@@ -1349,6 +1367,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 |||(Bill No. 1/2009 published on 19 January 2009)|
 ||Date of Second and Third Readings|13 February 2009|
 ||Date of commencement|21 October 2009|
+|53.|**G. N. No. S 668/2010—Criminal Law (Temporary Provisions) Act (Amendment of Third Schedule) Notification 2010**|
+||Date of commencement|21 November 2010|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
