@@ -1766,7 +1766,7 @@ Disclosure of information held by public bodies
 
 (a) any Ministry or Government department; and
 
-(b) any body specified by the Minister by notification published in theGazetteo be a public body for the purposes of this section.
+(b) any body specified by the Minister by notification published in theGazetteto be a public body for the purposes of this section.
 
 [40
 
@@ -2104,7 +2104,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) knows or has reasonable grounds to suspect that a disclosure has been or is being made to an authorised officer under this Act (referred to in this section as the disclosure); and
 
-[4/2010 wef 17/02/2010]
+[44/2007 wef 01/11/2007]
 
 (b) discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure,
 
@@ -4565,6 +4565,27 @@ Transport of radioactive waste.
 
 *Note: The short description of offences is for ease of reference only.
 
+Part X — Offences included as serious offences
+
+
+
+
+with effect from 21st November 2010
+
+[S 667/2010 wef 21/11/2010]
+
+Offences
+
+Description*
+
+Hostage-Taking Act 2010(Act 19 of 2010 )
+
+366. Section 3
+
+Hostage-taking
+
+*Note: The short description of offences is for ease of reference only.
+
 ## LEGISLATIVE HISTORY
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -4692,6 +4713,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Dates of commencement|17 February 2010 (section 13)|
+|28.|**G. N. No. S 667/2010—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2010**|
+||Date of commencement|21 November 2010|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
