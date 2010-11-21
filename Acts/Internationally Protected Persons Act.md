@@ -32,9 +32,9 @@
 
 - [13 Amendment of Schedules](#Amendment-of-Schedules)
 
-[**FIRST SCHEDULE Offences Against Internationally Protected Persons**](#FIRST-SCHEDULE-Offences-Against-Internationally-Protected-Persons)
+[**FIRST SCHEDULE Offences against internationally protected persons**](#FIRST-SCHEDULE-Offences-against-internationally-protected-persons)
 
-[**SECOND SCHEDULE Offences Against Premises or Vehicles**](#SECOND-SCHEDULE-Offences-Against-Premises-or-Vehicles)
+[**SECOND SCHEDULE Offences against premises or vehicles**](#SECOND-SCHEDULE-Offences-against-premises-or-vehicles)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -302,7 +302,7 @@ FIRST SCHEDULE
 
 Sections 4(1)(b), 6(1)(a), 7(a), 9(4)(a), 10(3)(a) and 13
 
-Offences Against Internationally Protected Persons
+Offences against internationally protected persons
 
 Offence
 
@@ -310,145 +310,219 @@ Description
 
 Corrosive and Explosive Substances and Offensive Weapons Act (Cap\. 65) 
 
-1. Section 4
+1.
+
+Section 4
 
 Using a corrosive or explosive substance or offensive weapon
 
 Explosive Substances Act (Cap\. 100) 
 
-2. Section 3
+2.
+
+Section 3
 
 Causing explosion likely to endanger life
 
-3. Section 4
+3.
+
+Section 4
 
 Attempt to cause explosion or making or keeping explosive with intent to endanger life
 
+Hostage-Taking Act 2010 (Act 19 of 2010) 
+
+3A.
+
+Section 3
+
+Hostage-taking
+
 Kidnapping Act (Cap\. 151) 
 
-4. Section 3
+4.
+
+Section 3
 
 Abduction, wrongful restraint or wrongful confinement for ransom
 
 Penal Code (Cap\. 224) 
 
-5. Section 302
+5.
+
+Section 302
 
 Murder
 
-6. Section 304
+6.
+
+Section 304
 
 Culpable homicide not amounting to murder
 
-7. Section 325
+7.
+
+Section 325
 
 Voluntarily causing grievous hurt
 
-8. Section 326
+8.
+
+Section 326
 
 Voluntarily causing grievous hurt by dangerous weapons or means
 
-9. Section 327
+9.
+
+Section 327
 
 Voluntarily causing hurt to extort property or to constrain to an illegal act
 
-10. Section 328
+10.
+
+Section 328
 
 Causing hurt by means of poison, etc., with intent to commit an offence
 
-11. Section 329
+11.
+
+Section 329
 
 Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act
 
-12. Section 330
+12.
+
+Section 330
 
 Voluntarily causing hurt to extort confession or to compel restoration of property
 
-13. Section 331
+13.
+
+Section 331
 
 Voluntarily causing grievous hurt to extort confession or to compel restoration of property
 
-14. Section 343
+14.
+
+Section 343
 
 Wrongful confinement for 3 or more days
 
-15. Section 344
+15.
+
+Section 344
 
 Wrongful confinement for 10 or more days
 
-16. Section 346
+16.
+
+Section 346
 
 Wrongful confinement in secret
 
-17. Section 347
+17.
+
+Section 347
 
 Wrongful confinement for the purpose of extorting property or constraining to an illegal act
 
-18. Section 348
+18.
+
+Section 348
 
 Wrongful confinement for the purpose of extorting confession or of compelling restoration of property
 
-19. Section 354A
+19.
+
+Section 354A
 
 Outraging modesty in certain circumstances
 
-20. Section 356
+20.
+
+Section 356
 
 Assault or use of criminal force in committing or attempting to commit theft of property carried by a person
 
-21. Section 357
+21.
+
+Section 357
 
 Assault or use of criminal force in attempting wrongfully to confine a person
 
-22. Section 363
+22.
+
+Section 363
 
 Kidnapping
 
-23. Section 363A
+23.
+
+Section 363A
 
 Abduction
 
-24. Section 364
+24.
+
+Section 364
 
 Kidnapping or abducting in order to murder
 
-25. Section 364A
+25.
+
+Section 364A
 
 Kidnapping or abducting in order to compel the Government, etc.
 
-26. Section 365
+26.
+
+Section 365
 
 Kidnapping or abducting with intent secretly and wrongfully to confine a person
 
-27. Section 366
+27.
+
+Section 366
 
 Kidnapping or abducting a woman to compel her marriage, etc.
 
-28. Section 367
+28.
+
+Section 367
 
 Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.
 
-29. Section 368
+29.
+
+Section 368
 
 Wrongfully concealing or keeping in confinement a kidnapped person
 
-30. Section 375
+30.
+
+Section 375
 
 Rape
 
-31. Section 376
+31.
+
+Section 376
 
 Sexual assault by penetration
 
-32. Section 376A
+32.
+
+Section 376A
 
 Sexual penetration of minor under 16 years of age.
+
+[S 671/2010 wef 21/11/2010]
 
 SECOND SCHEDULE
 
 Sections 5(1)(c), 6(1)(b), 7(b), 9(4)(b), 10(3)(b) and 13
 
-Offences Against Premises or Vehicles
+Offences against premises or vehicles
 
 Offence
 
@@ -456,49 +530,71 @@ Description
 
 Explosive Substances Act (Cap\. 100) 
 
-1. Section 3
+1.
+
+Section 3
 
 Causing explosion likely to endanger property
 
-2. Section 4
+2.
+
+Section 4
 
 Attempt to cause explosion or making or keeping explosive with intent to endanger property
 
 Penal Code (Cap\. 224) 
 
-3. Section 426
+3.
+
+Section 426
 
 Mischief
 
-4. Section 427
+4.
+
+Section 427
 
 Mischief causing damage of $500 or above
 
-5. Section 430A
+5.
+
+Section 430A
 
 Mischief affecting railway engine, train, etc.
 
-6. Section 435
+6.
+
+Section 435
 
 Mischief by fire or explosive substance with intent to cause damage
 
-7. Section 436
+7.
+
+Section 436
 
 Mischief by fire or explosive substance with intent to destroy a house, etc.
 
-8. Section 437
+8.
+
+Section 437
 
 Mischief with intent to destroy or make unsafe a decked vessel or a vessel of 20 tons burden
 
-9. Section 438
+9.
+
+Section 438
 
 Mischief described in section 437 when committed by fire or any explosive substance
 
-10. Section 439
+10.
+
+Section 439
 
 Intentionally running vessel aground or ashore with intent to commit theft, etc.
 
-11. Section 440
+11.
+
+Section 440
 
 Mischief committed after preparation made for causing death or hurt.
 
@@ -508,7 +604,7 @@ Internationally Protected Persons Act
 
 (CHAPTER 145A)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 Aust. Crimes Act 1976
 
@@ -546,7 +642,7 @@ Internationally Protected Persons Act
 
 (CHAPTER 145A)
 
-This Legislative History is provided for the convenience of users of the Internationally Protected Persons Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Internationally Protected Persons Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -557,3 +653,5 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of commencement|2 June 2008|
 |2.|**2010 Revised Edition—Internationally Protected Persons Act**|
 ||Date of operation|1 January 2010|
+|3.|**G. N. No. S 671/2010—Internationally Protected Persons Act (Amendment of First Schedule) Order 2010**|
+||Date of commencement|21 November 2010|
