@@ -1064,7 +1064,7 @@ Common Gaming Houses Act
 
 Sections 4, 5, 6, 8(3) and 8(4).
 
-Cap. 49.
+Cap. 49
 
 S 9/87 wef 15-1-87.
 
@@ -1147,6 +1147,12 @@ Hire-Purchase Act
 Section 37.
 
 Cap. 125.
+
+Hostage-Taking Act 2010
+
+Section 3
+
+Act 19 of 2010.
 
 Hotels Act
 
@@ -1354,23 +1360,21 @@ Road Traffic Act
 
 Sections 66(1) and 96(1).
 
-Cap. 276.
-
 Secondhand Dealers Act
 
-...
+…
 
 Section 10(3).
 
 Cap. 288 of the 1985 Revised Edition
+
+Cap. 276.
 
 Secondhand Goods Dealers Act 2007
 
 ...
 
 Section 10(6).
-
-Cap. 288.
 
 Sedition Act
 
@@ -1706,7 +1710,7 @@ Outraging modesty in certain circumstances
 
 ...
 
-Section 354A (Cap. 224 of the 1985 Ed. and Cap. 103 of the 1970 Ed. vide Act 23 of 1984).
+Section 354A (Cap. 224 of the 1985 Ed. and Cap. 103 of the 1970 Ed.videAct 23 of 1984).
 
 Kidnapping
 
@@ -1839,6 +1843,17 @@ Misuse of Drugs Act
 ...
 
 Trafficking in controlled drugs – Section 5 (Cap. 185 of the 2001 Ed., 1998 Ed., 1997 Ed. and 1985 Ed.), Section 3 (Act 5 of 1973).
+
+Hostage-Taking Act 2010
+
+
+
+
+(Act 19 of 2010)
+
+Hostage-taking — Section 3.
+
+[S 674/2010 wef 21/11/2010]
 
 [S 32/2008 wef 01/02/2008]
 
@@ -1974,3 +1989,5 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|1 March 2009|
 |33.|**G. N. No. S 548/2009—Registration of Criminals Act (Amendment of First Schedule) Order 2009**|
 ||Date of commencement|5 November 2009|
+|34.|**G. N. No. S 674/2010—Registration of Criminals Act (Amendment of First and Third Schedules) Order 2010**|
+||Date of commencement|21 November 2010|
