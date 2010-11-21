@@ -634,8 +634,6 @@ a notification in theGazetteunder section 4 of the Extradition Act (Cap. 103) ma
 
 (b) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
 
-[30/2008 wef 17/12/2008]
-
 ## PART VI
 
 JURISDICTION
@@ -742,6 +740,17 @@ Note:
 
 In this Schedule, the expressions “internationally protected person”, “relevant premises” and “vehicle” have the meanings given to them in the Internationally Protected Persons Act 2008.
 
+Part IV
+
+Actions Which Also Constitute Terrorist Acts
+
+
+
+
+WITH EFFECT FROM 21st November 2010
+
+Any act constituting an offence under section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
+
 ## LEGISLATIVE HISTORY
 
 Terrorism (Suppression of Financing) Act
@@ -778,6 +787,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 |||(Bill No. 27/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|17 November 2008|
 ||Date of commencement|17 December 2008|
+|8.|**G. N. No. S 675/2010—Terrorism (Suppression of Financing) Act (Amendment of Schedule) Order 2010**|
+||Date of commencement|21 November 2010|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
