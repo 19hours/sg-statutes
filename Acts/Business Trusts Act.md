@@ -104,7 +104,7 @@
 
 - [39 Duty of substantial shareholder of trustee-manager to notify securities exchange](#Duty-of-substantial-shareholder-of-trustee-manager-to-notify-securities-exchange)
 
-[**Part VI CIVIL LIABILITY**](#Part-VI)
+[**Part VI CIVIL LIABILITY AND TAKE-OVERS**](#Part-VI)
 
 - [40 Civil liability of trustee-managers to unitholders](#Civil-liability-of-trustee-managers-to-unitholders)
 
@@ -1206,7 +1206,7 @@ and such person shall comply with those provisions accordingly.
 
 ## PART VI
 
-CIVIL LIABILITY
+CIVIL LIABILITY AND TAKE-OVERS
 
 ### Civil liability of trustee-managers to unitholders
 
@@ -3141,3 +3141,10 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|29th March 2010|
 |||(Section 118(g) — Amendment of Business Trusts Act)|
+|6.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+||(Related amendments made to Act by)||
+||Date of First Reading|15 September 2008|
+|||(Bill No. 23/2008 published on 16 September 2008)|
+||Date of Second and Third Readings|19 January 2009|
+||Dates of commencement|26 November 2010|
+|||(Section 118(f) — Amendment of Business Trusts Act)|
