@@ -232,7 +232,7 @@
 
 - [68 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
-[**THE SCHEDULE List of Registrable Basic Dental Qualifications**](#THE-SCHEDULE)
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -340,7 +340,7 @@ SINGAPORE DENTAL COUNCIL
 
 [22/2007]
 
-(3) (Deleted byAct 22 of 2007)
+(3) [Deleted by Act 22 of 2007]
 
 (4) Only registered dentists whose names appear in the first division of the Register of Dentists and who have at least 10 years’ experience in the practice of dentistry may be elected as members of the Council.
 
@@ -682,6 +682,10 @@ as the Council may approve, may apply to the Council to be registered as a speci
 
 [22/2007]
 
+(1A) A person may be registered under subsection (1) subject to such conditions or restrictions as the Council may impose.
+
+[1/2010 wef 01/12/2010]
+
 (2) The Council shall not register any person under subsection (1) as a specialist unless the person has obtained a certificate from the Dental Specialists Accreditation Board under section 32B.
 
 [22/2007]
@@ -760,7 +764,7 @@ if the registered dentist has contravened any condition that is imposed by the C
 
 [22/2007]
 
-(7) (Deleted byAct 22 of 2007)
+(7) [Deleted by Act 22 of 2007]
 
 (8) Where a registered dentist has had his name removed from the appropriate register or his registration suspended under any provision of this Act, any practising certificate issued to him shall be deemed to be cancelled and the registered dentist shall immediately surrender the certificate to the Council.
 
@@ -772,7 +776,7 @@ if the registered dentist has contravened any condition that is imposed by the C
 
 Publication of list of registered dentists with practising certificates
 
-18\. [Repealed byAct 22 of 2007]
+18\. [Repealed by Act 22 of 2007]
 
 ### Certificate of Registrar in relation to dentists
 
@@ -1872,19 +1876,19 @@ and unless the dentist or oral health therapist has complied with all the terms 
 
 Findings of Disciplinary Committee
 
-44\. [Repealed byAct 22 of 2007]
+44\. [Repealed by Act 22 of 2007]
 
 Costs of inquiry
 
-45\. [Repealed byAct 22 of 2007]
+45\. [Repealed by Act 22 of 2007]
 
 Reference and transfer of cases to Health Committee
 
-46\. [Repealed byAct 22 of 2007]
+46\. [Repealed by Act 22 of 2007]
 
 Appeal against order by Disciplinary Committee
 
-47\. [Repealed byAct 22 of 2007]
+47\. [Repealed by Act 22 of 2007]
 
 Division 3 —
 
@@ -1900,9 +1904,9 @@ Health Committee
 
 (3) A member of the Health Committee shall be appointed for a term of 2 years and shall be eligible for reappointment.
 
-(4) (Deleted byAct 22 of 2007)
+(4) [Deleted by Act 22 of 2007]
 
-(5) (Deleted byAct 22 of 2007)
+(5) [Deleted by Act 22 of 2007]
 
 (6) The Council may, with the approval of the Minister, appoint medical assessors to assist the Health Committee in its inquiry, and pay to the medical assessors, as part of the expenses of the Council, such remuneration as the Council may determine.
 
@@ -2158,15 +2162,15 @@ Miscellaneous Provisions
 
 Where Council member is in public service or is officer of Board
 
-50\. [Repealed byAct 22 of 2007]
+50\. [Repealed by Act 22 of 2007]
 
 Service of documents
 
-51\. [Repealed byAct 22 of 2007]
+51\. [Repealed by Act 22 of 2007]
 
 Conviction final and conclusive
 
-52\. [Repealed byAct 22 of 2007]
+52\. [Repealed by Act 22 of 2007]
 
 ### Restoration of names to appropriate register
 
@@ -2262,7 +2266,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Exemption in respect of persons in public service or employed by Board or prescribed companies or organisation
 
-59\. [Repealed byAct 22 of 2007]
+59\. [Repealed by Act 22 of 2007]
 
 ### Exemption in respect of medical practitioners
 
@@ -2448,371 +2452,549 @@ Primary Qualifications
 
 Australia
 
-1. University of Sydney
+1.
+
+University of Sydney
 
 B.D.S./BDent
 
-2. University of Queensland
+2.
+
+University of Queensland
 
 B.D.Sc.
 
-3. University of Adelaide
+3.
+
+University of Adelaide
 
 B.D.S.
 
-4. University of Melbourne
+4.
+
+University of Melbourne
 
 B.D.Sc.
 
-5. University of Western Australia
+5.
+
+University of Western Australia
 
 B.D.Sc.
 
 Canada
 
-1. University of Alberta
+1.
+
+University of Alberta
 
 D.D.S
 
-2. University of British Columbia
+2.
+
+University of British Columbia
 
 D.M.D
 
-3. University of Manitoba
+3.
+
+University of Manitoba
 
 D.M.D
 
-4. Dalhousie University
+4.
+
+Dalhousie University
 
 D.D.S
 
-5. University of Toronto
+5.
+
+University of Toronto
 
 D.D.S
 
-6. University of Western Ontario
+6.
+
+University of Western Ontario
 
 D.D.S
 
-7. Laval University
+7.
+
+Laval University
 
 D.M.D
 
-8. McGill University
+8.
+
+McGill University
 
 D.D.S
 
-9. University of Montreal
+9.
+
+University of Montreal
 
 D.M.D
 
-10. University of Saskatchewan
+10.
+
+University of Saskatchewan
 
 D.M.D
 
 Hong Kong
 
-1. University of Hong Kong
+1.
+
+University of Hong Kong
 
 B.D.S.
 
 New Zealand
 
-1. University of Otago
+1.
+
+University of Otago
 
 B.D.S.
 
 Republic of Ireland
 
-1. National University of Ireland
+1.
+
+National University of Ireland
 
 B.D.S.
 
-2. University of Dublin
+2.
+
+University of Dublin
 
 B.Dent.Sc.
 
 United Kingdom
 
-1. University of Birmingham
+1.
+
+University of Birmingham
 
 B.D.S.
 
-2. University of Bristol
+2.
+
+University of Bristol
 
 B.D.S.
 
-3. University of Leeds
+3.
+
+University of Leeds
 
 B.Ch.D.
 
-4. University of Liverpool
+4.
+
+University of Liverpool
 
 B.D.S.
 
-5. University of London
+5.
+
+University of London
 
 B.D.S.
 
-6. University of Manchester
+6.
+
+University of Manchester
 
 B.D.S.
 
-7. University of Newcastle upon Tyne
+7.
+
+University of Newcastle upon Tyne
 
 B.D.S.
 
-8. University of Sheffield
+8.
+
+University of Sheffield
 
 B.D.S.
 
-9. Queen’s University of Belfast
+9.
+
+Queen’s University of Belfast
 
 B.D.S.
 
-10. University of Dundee
+10.
+
+University of Dundee
 
 B.D.S.
 
-11. University of Edinburgh
+11.
+
+University of Edinburgh
 
 B.D.S.
 
-12. University of Glasgow
+12.
+
+University of Glasgow
 
 B.D.S.
 
-13. University of Wales
+13.
+
+University of Wales
 
 B.D.S.
 
 United States of America
 
-1. University of Alabama School of Dentistry at UAB
+1.
+
+University of Alabama School of Dentistry at UAB
 
 D.M.D
 
-2. A.T. Still University Arizona School of Dentistry and Oral Health
+2.
+
+A.T. Still University Arizona School of Dentistry and Oral Health
 
 D.M.D
 
-3. Loma Linda University School of Dentistry
+3.
+
+Loma Linda University School of Dentistry
 
 D.D.S
 
-4. University of California at Los Angeles School of Dentistry
+4.
+
+University of California at Los Angeles School of Dentistry
 
 D.D.S
 
-5. University of California at San Francisco School of Dentistry
+5.
+
+University of California at San Francisco School of Dentistry
 
 D.D.S
 
-6. University of the Pacific Arthur A. Dugoni School of Dentistry
+6.
+
+University of the Pacific Arthur A. Dugoni School of Dentistry
 
 D.D.S
 
-7. University of Southern California School of Dentistry
+7.
+
+University of Southern California School of Dentistry
 
 D.D.S
 
-8. University of Colorado at Denver and Health Sciences Center
+8.
+
+University of Colorado at Denver and Health Sciences Center
 
 D.D.S
 
-9. University of Connecticut School of Dental Medicine
+9.
+
+University of Connecticut School of Dental Medicine
 
 D.M.D
 
-10. Nova Southeastern University College of Dental Medicine
+10.
+
+Nova Southeastern University College of Dental Medicine
 
 D.M.D
 
-11. University of Florida College of Dentistry
+11.
+
+University of Florida College of Dentistry
 
 D.M.D
 
-12. Medical College of Georgia School of Dentistry
+12.
+
+Medical College of Georgia School of Dentistry
 
 D.M.D
 
-13. Southern Illinois University School of Dental Medicine
+13.
+
+Southern Illinois University School of Dental Medicine
 
 D.M.D
 
-14. University of Illinois at Chicago College of Dentistry
+14.
+
+University of Illinois at Chicago College of Dentistry
 
 D.D.S
 
-15. Northwestern University
+15.
+
+Northwestern University
 
 D.D.S
 
-16. Indiana University School of Dentistry
+16.
+
+Indiana University School of Dentistry
 
 D.D.S
 
-17. University of Iowa College of Dentistry
+17.
+
+University of Iowa College of Dentistry
 
 D.D.S
 
-18. University of Kentucky College of Dentistry
+18.
+
+University of Kentucky College of Dentistry
 
 D.M.D
 
-19. University of Louisville School of Dentistry
+19.
+
+University of Louisville School of Dentistry
 
 D.M.D
 
-20. Louisiana State University School of Dentistry
+20.
+
+Louisiana State University School of Dentistry
 
 D.D.S
 
-21. Boston University Goldman School of Dental Medicine
+21.
+
+Boston University Goldman School of Dental Medicine
 
 D.M.D
 
-22. Harvard University School of Dental Medicine
+22.
+
+Harvard University School of Dental Medicine
 
 D.M.D
 
-23. Tufts University School of Dental Medicine
+23.
+
+Tufts University School of Dental Medicine
 
 D.M.D
 
-24. University of Maryland Baltimore College of Dental Surgery
+24.
+
+University of Maryland Baltimore College of Dental Surgery
 
 D.D.S
 
-25. University of Detroit Mercy School of Dentistry
+25.
+
+University of Detroit Mercy School of Dentistry
 
 D.D.S
 
-26. University of Michigan School of Dentistry
+26.
+
+University of Michigan School of Dentistry
 
 D.D.S
 
-27. University of Minnesota School of Dentistry
+27.
+
+University of Minnesota School of Dentistry
 
 D.D.S
 
-28. University of Mississippi School of Dentistry
+28.
+
+University of Mississippi School of Dentistry
 
 D.D.S
 
-29. University of Missouri-Kansas City School of Dentistry
+29.
+
+University of Missouri-Kansas City School of Dentistry
 
 D.D.S
 
-30. Creighton University School of Dentistry
+30.
+
+Creighton University School of Dentistry
 
 D.D.S
 
-31. University of Nebraska Medical Center College of Dentistry
+31.
+
+University of Nebraska Medical Center College of Dentistry
 
 D.D.S
 
-32. University of Medicine and Dentistry of New Jersey New Jersey Dental School
+32.
+
+University of Medicine and Dentistry of New Jersey New Jersey Dental School
 
 D.M.D
 
-33. University of Nevada, Las Vegas School of Dental Medicine
+33.
+
+University of Nevada, Las Vegas School of Dental Medicine
 
 D.M.D
 
-34. Columbia University College of Dental Medicine
+34.
+
+Columbia University College of Dental Medicine
 
 D.D.S
 
-35. New York University College of Dentistry
+35.
+
+New York University College of Dentistry
 
 D.D.S
 
-36. State University of New York at Buffalo School of Dental Medicine
+36.
+
+State University of New York at Buffalo School of Dental Medicine
 
 D.D.S
 
-37. State University of New York at Stony Brook School of Dental Medicine
+37.
+
+State University of New York at Stony Brook School of Dental Medicine
 
 D.D.S
 
-38. University of North Carolina School of Dentistry
+38.
+
+University of North Carolina School of Dentistry
 
 D.D.S
 
-39. Case Western Reserve University School of Dental Medicine
+39.
+
+Case Western Reserve University School of Dental Medicine
 
 D.M.D
 
-40. Ohio State University College of Dentistry
+40.
+
+Ohio State University College of Dentistry
 
 D.D.S
 
-41. University of Oklahoma College of Dentistry
+41.
+
+University of Oklahoma College of Dentistry
 
 D.D.S
 
-42. Oregon Health and Science University School of Dentistry
+42.
+
+Oregon Health and Science University School of Dentistry
 
 D.M.D
 
-43. Temple University The Maurice H.Kornberg School of Dentistry
+43.
+
+Temple University The Maurice H.Kornberg School of Dentistry
 
 D.M.D
 
-44. University of Pennsylvania School of Dental Medicine
+44.
+
+University of Pennsylvania School of Dental Medicine
 
 D.M.D
 
-45. University of Pittsburgh School of Dental Medicine
+45.
+
+University of Pittsburgh School of Dental Medicine
 
 D.M.D
 
-46. University of Puerto Rico School of Dentistry
+46.
+
+University of Puerto Rico School of Dentistry
 
 D.M.D
 
-47. Medical University of South Carolina College of Dental Medicine
+47.
+
+Medical University of South Carolina College of Dental Medicine
 
 D.M.D
 
-48. Meharry Medical College School of Dentistry
+48.
+
+Meharry Medical College School of Dentistry
 
 D.D.S
 
-49. University of Tennessee College of Dentistry
+49.
+
+University of Tennessee College of Dentistry
 
 D.D.S
 
-50. Baylor College of Dentistry Component of Texas A and M Health Science Centre
+50.
+
+Baylor College of Dentistry Component of Texas A and M Health Science Centre
 
 D.D.S
 
-51. University of Texas Health Science Centre-Houston Dental Branch
+51.
+
+University of Texas Health Science Centre-Houston Dental Branch
 
 D.D.S
 
-52. University of Texas Health Science Centre-San Antonio Dental School
+52.
+
+University of Texas Health Science Centre-San Antonio Dental School
 
 D.D.S
 
-53. Virginia Commonwealth University School of Dentistry
+53.
+
+Virginia Commonwealth University School of Dentistry
 
 D.D.S
 
-54. Howard University College of Dentistry
+54.
+
+Howard University College of Dentistry
 
 D.D.S
 
-55. University of Washington-Health Sciences School of Dentistry
+55.
+
+University of Washington-Health Sciences School of Dentistry
 
 D.D.S
 
-56. West Virginia University School of Dentistry
+56.
+
+West Virginia University School of Dentistry
 
 D.D.S
 
-57. Marquette University School of Dentistry
+57.
+
+Marquette University School of Dentistry
 
 D.D.S.
 
@@ -2824,7 +3006,7 @@ Dental Registration Act
 
 (formerly known as the Dentists Act)
 
-This Legislative History is provided for the convenience of users of the Dental Registration Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Dental Registration Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2871,7 +3053,7 @@ This Legislative History is provided for the convenience of users of the Dental 
 ||Date of commencement|1 February 1984|
 |13.|**1985 Revised Edition—Dentists Act**|
 ||Date of operation|30 March 1987|
-|14.|**G. N. No. S 398/89—Dentist Act (Amendment of Schedule) Notification 1989**|
+|14.|**G. N. No. S 398/89—Dentists Act (Amendment of Schedule) Notification 1989**|
 ||Date of commencement|6 October 1989|
 |15.|**Act 24 of 1999—Dentists Act 1999**|
 ||Date of First Reading|4 May 1999|
@@ -2901,6 +3083,12 @@ This Legislative History is provided for the convenience of users of the Dental 
 ||Date of commencement|1 January 2008|
 |21.|**2009 Revised Edition—Dental Registration Act**|
 ||Date of operation|31 July 2009|
+|22.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2009|
+|||(Bill No. 22/2009 published on 19 October 2009)|
+||Date of Second and Third Readings|11 January 2010|
+||Date of commencement|1 December 2010 (Section 38 –– Amendment of Dental Registration Act)|
 ## COMPARATIVE TABLE
 
 Dental Registration Act
@@ -3035,7 +3223,7 @@ Omitted
 
 68 
 
-69 (1)
+69 —(1)
 
 Omitted
 
