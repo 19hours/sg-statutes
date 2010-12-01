@@ -504,7 +504,9 @@ may apply to the Council to be registered as a specialist in that branch of phar
 
 (2) Upon the approval of an application referred to in subsection (1), the Council shall —
 
-(a) register the applicant as a specialist in such branch of pharmacy in the Register of Specialists as the Council considers appropriate to his case; and
+(a) register the applicant as a specialist in such branch of pharmacy in the Register of Specialists as the Council considers appropriate to his case, subject to such conditions or restrictions as the Council may impose; and
+
+[1/2010 wef 01/12/2010]
 
 (b) issue to him a specialist certificate in respect of that specialised branch of pharmacy.
 
@@ -1594,6 +1596,11 @@ This Legislative History is provided for the convenience of users of the Pharmac
 ||Date of commencement|1 September 2008|
 |2.|**2008 Revised Edition—Pharmacists Registration Act**|
 ||Date of operation|31 December 2008|
+|3.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+||Date of First Reading|19 October 2009|
+|||(Bill No. 22/2009 published on 19 October 2009)|
+||Date of Second and Third Readings|11 January 2010|
+||Date of commencement|1 December 2010|
 ## COMPARATIVE TABLE
 
 Pharmacists Registration Act
