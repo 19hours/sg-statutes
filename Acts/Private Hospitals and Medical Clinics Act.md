@@ -675,6 +675,11 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|11.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+||Date of First Reading|19 October 2009|
+|||(Bill No. 22/2009 published on 19 October 2009)|
+||Date of Second and Third Readings|11 January 2010|
+||Date of commencement|1 December 2010|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
