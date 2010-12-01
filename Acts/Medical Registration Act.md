@@ -3087,13 +3087,14 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|29 April 2009|
 |14.|**G. N. No. S 521/2009—Medical Registration Act (Amendment of Schedule) (No. 2) Order 2009**|
 ||Date of commencement|30 October 2009|
-|15.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
+|15.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
+||Date of commencement|1 November 2010|
+|16.|**Act 1 of 2010—Medical Registration (Amendment) Act 2010**|
 ||Date of First Reading|19 October 2009|
 |||(Bill No. 22/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|10 August 2010|
-|16.|**G. N. No. S 455/2012—Medical Registration Act (Amendment of Schedule) Order 2012**|
-||Date of commencement|1 November 2010|
+|||1 December 2010|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
