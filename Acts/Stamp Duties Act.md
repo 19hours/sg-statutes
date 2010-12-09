@@ -202,6 +202,8 @@
 
 - [70A Recovery of duty from deceased individual](#Recovery-of-duty-from-deceased-individual)
 
+- [70AA Recovery of duty, etc., from persons leaving Singapore](#Recovery-of-duty-etc-from-persons-leaving-Singapore)
+
 - [70B Company wound-up](#Company-wound-up)
 
 - [70C Power to call for any instrument, book, document, account or other record](#Power-to-call-for-any-instrument-book-document-account-or-other-record)
@@ -640,7 +642,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 ### Relief from ad valorem stamp duty
 
-15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
+15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bc) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
 
 (a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
 
@@ -651,6 +653,8 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
 [32/2000; 6/2005; 39/2005]
+
+[23/2011 wef 19/02/2010]
 
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
@@ -668,11 +672,37 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 the claim shall be deemed to have been disallowed and an amount equal to the duty remitted shall —
 
-(i) become payable immediately; and
+(i) become payable by the transferee entity to the Commissioner immediately; and
 
-(ii) be recoverable from the transferee company as a debt due to the Government, together with interest thereon at the rate of 6% per annum, from the date on which the duty would have become chargeable if this section had not been enacted.
+[28/2010 wef 09/12/2010]
 
-[32/2000]
+(ii) be recoverable from that entity as a debt due to the Government, together with interest thereon at the rate of 6% per annum —
+
+(A) if the instrument is executed by any person in Singapore, from the date of its execution; or
+
+(B) if the instrument is executed outside Singapore, from the date the instrument is first received in Singapore.
+
+[28/2010 wef 09/12/2010]
+
+(3A) The amount recoverable under subsection (3) shall be payable at the place stated in a notice served by the Commissioner on the entity, within one month after the service of the notice by the Commissioner on that entity.
+
+[28/2010 wef 09/12/2010]
+
+(3B) If any amount recoverable from the entity under subsection (3) is not paid within the period specified in subsection (3A), the following penalties shall be imposed on the entity:
+
+(a) where the outstanding amount is paid to the Commissioner within 3 months from the expiration of such period, a penalty of $10 or the outstanding amount, whichever is the greater; and
+
+(b) where the outstanding amount is not paid to the Commissioner within 3 months from the expiration of such period, a penalty of $25 or 4 times the outstanding amount, whichever is the greater.
+
+[28/2010 wef 09/12/2010]
+
+(3C) The Commissioner may reduce or remit any penalty imposed under this section.
+
+[28/2010 wef 09/12/2010]
+
+(3D) Sections 50 and 70AA shall apply to the collection and recovery by the Commissioner of the amount recoverable under subsection (3) and any penalty imposed under subsection (3B) as they apply to the collection and recovery of duty and penalty required to be paid under this Act.
+
+[28/2010 wef 09/12/2010]
 
 (4) In this section —
 
@@ -1870,7 +1900,9 @@ Promissory notes drawn outside Singapore
 
 [38/75; 4/81; 14/83; 26/96]
 
-(2) The Commissioner may reduce or remit any penalty prescribed by this section.
+(2) The Commissioner may reduce or remit any penalty imposed under this section.
+
+[28/2010 wef 09/12/2010]
 
 (3) For the purposes of this section, an instrument shall be deemed to be unstamped or insufficiently stamped notwithstanding that a stamp certificate is attached thereto if, by reason of the circumstances mentioned in section 6D(3), the duty chargeable on the instrument was not deducted by the Commissioner from the designated account of a registered person.
 
@@ -2170,7 +2202,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 68\.—(1) No prosecution in respect of any offence punishable under this Act shall be instituted without the sanction of either the Commissioner or the Attorney-General.
 
-[33/99]
+[33/99;]
 
 (2) The Commissioner may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
@@ -2314,6 +2346,22 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 [33/99]
 
+### Recovery of duty, etc., from persons leaving Singapore
+
+70AA\.—(1) Where the Commissioner is of the opinion that any person is about or likely to leave Singapore without paying all the duty or penalty recoverable from him under any provisions of this Act, the Commissioner may issue a certificate containing particulars of the duty or penalty and a direction to the Commissioner of Police or the Controller of Immigration, or both, that such person be prevented from leaving Singapore without paying the duty or penalty or furnishing security to the satisfaction of the Commissioner for payment thereof.
+
+(2) Subject to the provisions of any order issued or made under any law for the time being in force relating to banishment or immigration, the Commissioner of Police or the Controller of Immigration, or both, as the case may be, shall thereupon take, or cause to be taken by any police officer or immigration officer, such measures as may be necessary to prevent the person named in the direction from leaving Singapore until payment of the duty or penalty has been made or secured as aforesaid, including the use of such force as may be necessary and, if appropriate, the detention of any Singapore passport, certificate of identity or travel document and any exit permit or other document authorising such person to leave Singapore.
+
+(3) At the time of issue of the certificate, the Commissioner shall issue to such person a notification thereof by personal service or registered post; but the non-receipt thereof shall not invalidate any proceedings under this section.
+
+(4) Payment of the duty or penalty to an officer in charge of a police station or to an immigration officer or production of a statement signed by the Commissioner stating that the duty or penalty has been paid or secured as aforesaid shall be sufficient authority for allowing such person to leave Singapore.
+
+(5) Any person who, knowing that a direction has been issued under this section for the prevention of his departure from Singapore, voluntarily leaves or attempts to leave Singapore without paying the duty or penalty payable by him or furnishing security to the satisfaction of the Commissioner for payment thereof shall be guilty of an offence and may be arrested, without warrant, by any police officer or immigration officer.
+
+(6) No civil or criminal proceedings shall be instituted or maintained against the Commissioner of Police, the Controller of Immigration or any other police officer or immigration officer, in respect of anything lawfully done under the authority of this section.
+
+[28/2010 wef 09/12/2010]
+
 ### Company wound-up
 
 70B\. Where a company is being wound up, the liquidator of the company shall not distribute any of the assets of the company to the shareholders thereof unless he has made provision for the payment in full of any duty or penalty which may be found payable by the company.
@@ -2380,13 +2428,41 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 ### Power to reduce or remit duties
 
-74\. The Minister may reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instrument when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
+74\.—(1) The Minister may, in his discretion and subject to such conditions as he may impose, reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instrument when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
 
-(1) The Minister may reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instrument when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
+[33/99; 28/2010 wef 09/12/2010]
 
-[33/99]
+(2) A reduction or remission of duty in relation to a class of instruments, or any instrument belonging to such class, or any instrument when executed by or in favour of a class of persons, or by or in favour of members of such class, shall be made by an order published in theGazette, and the conditions (if any) shall be specified in the order.
 
-[33/99]
+[28/2010 wef 09/12/2010]
+
+(3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced shall be recoverable as a debt due to the Government.
+
+[28/2010 wef 09/12/2010]
+
+(4) The amount recoverable under subsection (3) shall be payable at the place stated in a notice served by the Commissioner on the person, within one month after the service of the notice by the Commissioner on that person.
+
+[28/2010 wef 09/12/2010]
+
+(5) The Commissioner may, in his discretion and subject to such terms and conditions (including the imposition of interest) as he may impose, extend the time delimited by subsection (4) within which payment is to be made.
+
+[28/2010 wef 09/12/2010]
+
+(6) If any amount recoverable from a person under subsection (3) and any interest imposed under subsection (5) is not paid within the period specified in subsection (4) or extended under subsection (5), the following penalties shall be imposed on the person:
+
+(a) where the outstanding amount is paid to the Commissioner within 3 months from the expiration of such period, a penalty of $10 or the outstanding amount, whichever is the greater; and
+
+(b) where the outstanding amount is not paid to the Commissioner within 3 months from the expiration of such period, a penalty of $25 or 4 times the outstanding amount, whichever is the greater.
+
+[28/2010 wef 09/12/2010]
+
+(7) The Commissioner may reduce or remit any penalty imposed under this section.
+
+[28/2010 wef 09/12/2010]
+
+(8) Sections 50 and 70AA shall apply to the collection and recovery by the Commissioner of the amount recoverable under subsection (3), any interest imposed under subsection (5) and any penalty imposed under subsection (6) as they apply to the collection and recovery of duty and penalty required to be paid under this Act.
+
+[28/2010 wef 09/12/2010]
 
 ### Refund and repayment of duty
 
@@ -2775,8 +2851,6 @@ The mortgagor or obligor
 PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
-
-[6/2010 wef 20/02/2010]
 
 [S 474/2010 wef 30/08/2010]
 
@@ -3210,6 +3284,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|15 July 2010|
 |51.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
 ||Date of commencement|30 August 2010|
+|52.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 24/2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|10 December 2010|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
