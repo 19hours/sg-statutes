@@ -136,6 +136,16 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 [8/86]
 
+(1A) Subsection (1)(e) shall not apply to —
+
+(a) the Singapore Totalisator Board;
+
+(b) any totalisator agency appointed by the Singapore Totalisator Board; and
+
+(c) any agent appointed by the Singapore Totalisator Board to operate or conduct any totalisator, lottery, betting or gaming activity.
+
+[12/2008 wef 27/12/2010]
+
 (2) Any person who occupies or has the use temporarily of a place which is kept or used by another person as a common betting-house or betting information centre shall be presumed until the contrary is proved to have permitted that place to be so kept or used.
 
 ### Advancing money for conducting business of common betting-house
@@ -351,3 +361,9 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 8/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|1 May 2004|
+|8.|**Act 12 of 2008—Singapore Totalisator Board (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 May 2008|
+|||(Bill No. 7/2008 published on 26 May 2008)|
+||Date of Second and Third Readings|21 July 2008|
+||Date of commencement|27 December 2010|
