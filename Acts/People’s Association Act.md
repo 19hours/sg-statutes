@@ -356,129 +356,111 @@ Section 4(1) and (5)
 
 MEMBER ORGANISATIONS
 
-1. Alumni International Singapore
+1\. Alumni International Singapore
 
-2. Association of Nanyang University Graduates
+2\. Association of Nanyang University Graduates
 
-3. Basketball Association of Singapore
+3\. Basketball Association of Singapore
 
-4. Central Council of Malay Cultural Organisations
+4\. Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
 
+5\. Chinese Calligraphy Society of Singapore
 
+6\. Chinese Dance Artistes’ Association
 
+7\. Chinese Theatre Circle Ltd
 
-(Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
+8\. Consumers Association of Singapore
 
-5. Chinese Calligraphy Society of Singapore
+9\. Er Woo Amateur Musical and Dramatic Association
 
-6. Chinese Dance Artistes’ Association
+10\. Football Association of Singapore
 
-7. Chinese Theatre Circle Ltd
+11\.Deleted by S 343/2006, wef 16/06/2006.
 
-8. Consumers Association of Singapore
+11A\. Girl Guides, Singapore
 
-9. Er Woo Amateur Musical and Dramatic Association
+12\. Hindi Society (Singapore)
 
-10. Football Association of Singapore
+12A. Institute of Certified Public Accountants of Singapore
 
-11.Deleted by S 343/2006, wef 16/06/2006.
+13\. Institute of Technical Education, Singapore
 
-11A. Girl Guides, Singapore
+14\. Malay Youth.Literary.Association (Persatuan Persuratan Pemuda Pemudi Melayu)
 
-12. Hindi Society (Singapore)
+15\. Metro Philharmonic Society
 
-13. Institute of Technical Education, Singapore
+16\. Metropolitan Young Men’s Christian Association of Singapore
 
-14. Malay Youth Literary Association
+17\. Nanyang Academy of Fine Arts
 
+18\. Nanyang Technological University Students’ Union
 
+19\. National Council of Social Service
 
+20\. National Trades Union Congress
 
-(Persatuan Persuratan Pemuda Pemudi Melayu)
+21\. National University of Singapore Society
 
-15. Metro Philharmonic Society
+22\. National University of Singapore Students’ Union
 
-16. Metropolitan Young Men’s Christian Association of Singapore
+23\. Ngee Ann Polytechnic Students’ Union
 
-17. Nanyang Academy of Fine Arts
-
-18. Nanyang Technological University Students’ Union
-
-19. National Council of Social Service
-
-20. National Trades Union Congress
-
-21. National University of Singapore Society
-
-22. National University of Singapore Students’ Union
-
-23. Ngee Ann Polytechnic Students’ Union
-
-24. Perkumpulan Seni (Arts Group)
+24\. Perkumpulan Seni (Arts Group)
 
 24A. Qigong Shi Ba Shi Association (Singapore)
 
-25. Radio Modellers Singapore
+25\. Radio Modellers Singapore
 
-26. St John Ambulance Singapore
+26\. St John Ambulance Singapore
 
-27. Singapore Action Group of Elders
+27\. Singapore Action Group of Elders
 
-28. Singapore Amateur Cycling Association
+28\. Singapore Amateur Cycling Association
 
-29.Deleted by S 14/2005, wef 07/01/2005.
+29\.Deleted by S 14/2005, wef 07/01/2005.
 
-30. Singapore Arts Federation
+30\. Singapore Arts Federation
 
-31. Singapore Art Society
+31\. Singapore Art Society
 
-32. Singapore Badminton Association
+32\. Singapore Badminton Association
 
-33.Deleted by S 14/2005, wef 07/01/2005.
+33\.Deleted by S 14/2005, wef 07/01/2005.
 
-34. Singapore Bodybuilding and Fitness Federation
+34\. Singapore Bodybuilding and Fitness Federation
 
-35. Singapore Canoe Federation
+35\. Singapore Canoe Federation
 
-36. Singapore Chess Federation
+36\. Singapore Chess Federation
 
-37. Singapore Chinese Teachers’ Union
+37\. Singapore Chinese Teachers’ Union
 
-38. Singapore Contract Bridge Association
+38\. Singapore Contract Bridge Association
 
-39. Singapore Council of Women’s Organisations
+39\. Singapore Council of Women’s Organisations
 
 39A. Singapore Dragon Boat Association
 
 39B. Singapore Dance Theatre
 
-40. Singapore Floorball Association
+40\. Singapore Floorball Association
 
-41.Deleted by S 14/2005, wef 07/01/2005.
+41\.Deleted by S 14/2005, wef 07/01/2005.
 
-42.Deleted by S 616/2005, wef 22/09/2005.
+42\.Deleted by S 616/2005, wef 22/09/2005.
 
-43. Singapore Hadrah and Kompang Association (PEHAKS)
+43\. Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura)
 
+44\. Singapore Indian Fine Arts Society
 
+45\. Singapore Judo Federation
 
+46\. Singapore Karate-Do Federation
 
-(Persatuan Hadrah Dan Kompang Singapura)
+47\.Deleted by S 14/2005, wef 07/01/2005.
 
-44. Singapore Indian Fine Arts Society
-
-45. Singapore Judo Federation
-
-46. Singapore Karate-Do Federation
-
-47.Deleted by S 14/2005, wef 07/01/2005.
-
-48. Singapore Malay Teachers’ Union
-
-
-
-
-(Kesatuan Guru-Guru Melayu Singapura)
+48\. Singapore Malay Teachers’ Union (Kesatuan Guru-Guru Melayu Singapura)
 
 49. Singapore Malay Youth Library Association
 
@@ -487,48 +469,43 @@ MEMBER ORGANISATIONS
 
 (Taman Bacaan Pemuda Pemudi Melayu Singapura)
 
-50. Singapore Middle School Chinese Teachers’ Association
+50\. Singapore Middle School Chinese Teachers’ Association
 
-51. Singapore National Co-operative Federation Ltd
+51\. Singapore National Co-operative Federation Ltd
 
-52. Singapore Wushu Dragon & Lion Dance Federation
+52\. Singapore Wushu Dragon & Lion Dance Federation
 
-53. Singapore Numismatic Association
+53\. Singapore Numismatic Association
 
-54.Deleted by S 14/2005, wef 07/01/2005.
+54\.Deleted by S 14/2005, wef 07/01/2005.
 
-55. Singapore Philatelic Society
+55\. Singapore Philatelic Society
 
-56. Singapore Polytechnic Graduates’ Guild
+56\. Singapore Polytechnic Graduates’ Guild
 
-57. Singapore Polytechnic Students’ Union
+57\. Singapore Polytechnic Students’ Union
 
-58. Singapore Professional Centre
+58\. Singapore Professional Centre
 
 59. Singapore Red Cross Society
 
-60. Singapore Sailing Federation
+60\. Singapore Sailing Federation
 
-61. Singapore Scout Association
+61\. Singapore Scout Association
 
-62. Singapore Sepaktakraw Federation
+62\. Singapore Sepaktakraw Federation
 
-63. Singapore Silat Federation
+63\. Singapore Silat Federation (Persekutuan Silat Singapura)
 
+64\. Singapore Squash Rackets Association
 
-
-
-(Persekutuan Silat Singapura)
-
-64. Singapore Squash Rackets Association
-
-65. Singapore Stamp Club
+65\. Singapore Stamp Club
 
 65A. Singapore Swimming Association
 
-66. Singapore Table Tennis Association
+66\. Singapore Table Tennis Association
 
-67. Singapore Taekwondo Federation
+67\. Singapore Taekwondo Federation
 
 68. Singapore Tamil Teachers’ Union
 
@@ -536,19 +513,25 @@ MEMBER ORGANISATIONS
 
 69A. Singapore Tennis Association
 
-70. Singapore Weiqi Association
+70.
 
-71. Singapore Xiangqi General Association
+Singapore Weiqi Association
+
+71.
+
+. Singapore Xiangqi General Association
 
 71A. Singapore Youth Flying Club
 
-72. Society of Chinese Artists
+72\. Society of Chinese Artists
 
-72A. Sports Boules Singapore
+72A\. Sports Boules Singapore
 
-73. Sriwana
+73.
 
-74. Tamils Representative Council
+Sriwana
+
+74\. Tamils Representative Council
 
 75. The Boys’ Brigade in Singapore
 
@@ -556,43 +539,37 @@ MEMBER ORGANISATIONS
 
 76A. The Girls’ Brigade Singapore
 
-77. The Photographic Society of Singapore
+77 The Photographic Society of Singapore
 
-78. Volleyball Association of Singapore
+78 Volleyball Association of Singapore
 
 79. Young Men’s Christian Association of Singapore
 
-80. Young Women’s Christian Association of Singapore
+80\. Young Women’s Christian Association of Singapore
 
-81. Persatuan Pemudi Islam Singapura
+81.
 
-82.Deleted by S 680/2002, wef 30/12/2002.
+Persatuan Pemudi Islam Singapura
 
-[S 685/2008 wef 30/12/2008]
+82\.Deleted by S 680/2002, wef 30/12/2002.
 
-[S 343/2006 wef 16/06/2006]
-
-[S 616/2005 wef 22/09/2005]
-
-[S 14/2005 wef 07/01/2005]
-
-[S 343/2006 wef 16/06/2006]
-
-[S 14/2005 wef 07/01/2005]
-
-[S 815/2005 wef 16/12/2005]
-
-[S 601/2009 wef 11/12/2009]
-
-[S 14/2005 wef 07/01/2005]
+[S234/2001 wef 26/04/2001]
 
 [S 680/2002 wef 30/12/2002]
 
 [S 14/2005 wef 07/01/2005]
 
+[S 616/2005 wef 22/09/2005]
+
+[S 815/2005 wef 16/12/2005]
+
 [S 343/2006 wef 16/06/2006]
 
 [S 685/2008 wef 30/12/2008]
+
+[S 601/2009 wef 11/12/2009]
+
+[S 790/2010 wef 27/12/2010]
 
 SECOND SCHEDULE
 
@@ -757,6 +734,8 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|59.|**G.N. No. S 790/2010—People’s Association Act (Amendment of First Schedule) Notification 2010**|
+||Date of commencement|27 December 2010|
 ## COMPARATIVE TABLE
 
 People’s Association Act
