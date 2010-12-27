@@ -22,7 +22,7 @@
 
 - [6 Members of Board](#Members-of-Board)
 
-- [7 Staff](#Staff)
+- [7 Appointment of officers, etc.](#Appointment-of-officers-etc)
 
 - [8 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
@@ -36,7 +36,7 @@
 
 [**Part III TOTALISATORS AND TOTALISATOR AGENCIES**](#Part-III)
 
-- [11 Approval of totalisator and totalisator agency scheme](#Approval-of-totalisator-and-totalisator-agency-scheme)
+- [11 (Repealed)](#Repealed)
 
 - [12 Calculation of dividend](#Calculation-of-dividend)
 
@@ -46,17 +46,21 @@
 
 - [14 Admission to race courses](#Admission-to-race-courses)
 
-- [15 Authority of totalisator operations and investments in accordance with approved scheme](#Authority-of-totalisator-operations-and-investments-in-accordance-with-approved-scheme)
+- [15 Authority of totalisator operations and investments in accordance with provisions of Act](#Authority-of-totalisator-operations-and-investments-in-accordance-with-provisions-of-Act)
 
-- [16 Certain advertisements relating to totalisator agencies not unlawful](#Certain-advertisements-relating-to-totalisator-agencies-not-unlawful)
+- [16 (Repealed)](#Repealed)
 
-- [17 Exemption from Betting Act](#Exemption-from-Betting-Act)
+- [17 (Repealed)](#Repealed)
 
 - [18 Investment on totalisator after time of race prohibited](#Investment-on-totalisator-after-time-of-race-prohibited)
 
 - [19 Power of arrest](#Power-of-arrest)
 
 - [20 Inspection of totalisators and totalisator agencies](#Inspection-of-totalisators-and-totalisator-agencies)
+
+- [20A Composition of offences](#Composition-of-offences)
+
+- [20B General exemption](#General-exemption)
 
 - [21 Power to make regulations](#Power-to-make-regulations)
 
@@ -96,7 +100,23 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“approved scheme” means a scheme for the establishment and operation of totalisators and totalisator agencies for the time being approved by the Minister under section 11;
+“advertisement” includes —
+
+(a) any notice, circular, pamphlet, brochure, programme, price-list, label, wrapper or other document; and
+
+(b) any announcement, notification or intimation to the public or any section thereof or to any person or persons made —
+
+(i) orally or in writing;
+
+(ii) by means of any poster, placard, notice or other document affixed, posted up or displayed on any wall, billboard or hoarding or on any other object or thing;
+
+(iii) by means of producing or transmitting sound or light and whether for aural or visual reception or both;
+
+(iv) by means of any writing on any vehicle or any object or thing; or
+
+(v) in any other manner whatsoever;
+
+[12/2008 wef 27/12/2010]
 
 “Board” means the Singapore Totalisator Board established under section 3;
 
@@ -116,11 +136,19 @@ PRELIMINARY
 
 “totalisator” means any instrument for wagering or betting known by that name, and any other instrument, device, machine or method of a like nature and conducted on the same principles, and includes a numbers forecast totalisator paying a fixed minimum dividend;
 
-“totalisator agency” means any totalisator agency operated in accordance with an approved scheme, and includes any premises in which totalisator investments may be received pursuant to such scheme;
+“totalisator agency” means any totalisator agency appointed by the Board, and includes any premises in which totalisator investments may be received;
 
-“totalisator investment” means any money, currency note or cheque received for investment on the totalisator or invested pursuant to any facilities provided under an approved scheme;
+[12/2008 wef 27/12/2010]
 
-“turf club” means any club, association or other body of persons (whether incorporated or unincorporated) established for the purpose of promoting, conducting and controlling the sport of horse racing.
+“totalisator investment” means any money, currency note or cheque, or such other form of payment as may be approved by the Minister, received for investment on the totalisator;
+
+[12/2008 wef 27/12/2010]
+
+“turf club” means any club, association or other body of persons (whether incorporated or unincorporated) established for the purpose of promoting, conducting and controlling the sport of horse racing;
+
+“writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
+
+[12/2008 wef 27/12/2010]
 
 ## PART II
 
@@ -140,19 +168,29 @@ SINGAPORE TOTALISATOR BOARD
 
 4\.—(1) The functions of the Board are —
 
-(a) to operate totalisators in accordance with any approved scheme under section 11;
+(a) to establish, operate or conduct any totalisator, lottery, betting or gaming activity;
+
+[12/2008 wef 27/12/2010]
 
 (b) to conduct equine research and establish, maintain and improve turf clubs, training centres for apprentices, jockeys, blacksmiths and others employed in connection with racing, and other places used in connection with racing;
 
-(c) to operate and conduct (by means of a totalisator or otherwise) such lottery or other betting or gaming activities as may be prescribed, in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise;
+(c) to establish or operate any totalisator agency;
 
-[13/2004 wef 01/05/2004]
+[12/2008 wef 27/12/2010]
 
-(d) with the approval of the Minister, to establish and maintain places and facilities for recreation on land owned or held by the Board and to carry out such activities as appear to the Board to be requisite, advantageous or convenient for or in connection with its functions; and
+(d) with the approval of the Minister, to establish and maintain places and facilities for recreation on land owned or held by the Board and to carry out such activities as appear to the Board to be requisite, advantageous or convenient for or in connection with its functions;
 
-(e) to improve racing generally.
+(e) to improve racing generally; and
 
 [4/97]
+
+(f) to issue or approve and, from time to time, modify rules in relation to —
+
+(i) the operation or conduct of any totalisator, lottery, betting or gaming activity established by the Board; or
+
+(ii) the operation of any totalisator agency or any agent appointed by the Board.
+
+[12/2008 wef 27/12/2010]
 
 (2) The Minister may, after consultation with the Board, give to the Board such general directions, not inconsistent with the provisions of this Act, as to the policy to be followed by the Board in the exercise and performance of its powers and functions under this Act as appear to the Minister to be required in the public interest, and the Board shall as soon as possible give effect to any such directions.
 
@@ -166,15 +204,19 @@ SINGAPORE TOTALISATOR BOARD
 
 5\.—(1) The Board shall, subject to the provisions of this Act, have power to do all such things as are in its opinion necessary for or conducive to the proper discharge of its functions under this Act and, in particular, the Board shall have power —
 
-(a) to provide assistance and advice relating to racing, betting and gaming in Singapore or elsewhere; and
+(a) to provide assistance and advice relating to racing, betting and gaming in Singapore or elsewhere;
 
 [13/2004 wef 01/05/2004]
 
 [12/2008 wef 27/12/2010]
 
-(b) to subscribe for or acquire any securities, stocks or shares of any company or to form or participate in the formation of any company, partnership or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve.
+(b) to subscribe for or acquire any securities, stocks or shares of any company or to form or participate in the formation of any company, partnership or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve; and
 
 [13/2004 wef 01/05/2004]
+
+[12/2008 wef 27/12/2010]
+
+(c) to suspend or revoke any totalisator, lottery, betting or gaming activity established by any totalisator agency or any agent appointed by the Board.
 
 [12/2008 wef 27/12/2010]
 
@@ -194,9 +236,23 @@ SINGAPORE TOTALISATOR BOARD
 
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
-### Staff
+### Appointment of officers, etc.
 
-7\. The Board may, from time to time, appoint such officers, employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as it may determine.
+7\.—(1) Subject to subsection (2), the Board may, from time to time, on such terms and conditions as it may determine —
+
+(a) appoint and employ such officers, employees, consultants or agents; and
+
+(b) appoint such totalisator agencies,
+
+as may be necessary for the effective performance of its functions.
+
+(2) The Board shall obtain the approval of the Minister for the appointment of —
+
+(a) any agent to operate or conduct any totalisator, lottery, betting or gaming activity; or
+
+(b) any totalisator agency.
+
+[12/2008 wef 27/12/2010]
 
 ### Bank accounts and application of revenue
 
@@ -240,35 +296,11 @@ SINGAPORE TOTALISATOR BOARD
 
 TOTALISATORS AND TOTALISATOR AGENCIES
 
-### Approval of totalisator and totalisator agency scheme
-
-11\.—(1) The Board shall submit to the Minister for his approval a scheme for the establishment and operation of totalisators and totalisator agencies in respect of race meetings.
-
-(2) Any scheme under this section may provide for —
-
-(a) the administration of the scheme and for the establishment, maintenance and operation of totalisators and totalisator agencies and for the carrying out of the functions of the Board under the scheme;
-
-(b) the receiving at totalisators and totalisator agencies of totalisator investments in respect of horse races, the credit facilities in respect of such investments, the manner in which the investments may be made and the times at which and the conditions upon or subject to which the investments may be made and received;
-
-(c) the payment at or from totalisators and totalisator agencies of dividends payable in respect of totalisator investments received and the times at which and the manner in which the dividends may be paid;
-
-(d) the method of calculation of the dividends payable as aforesaid out of moneys received as totalisator investments;
-
-(e) the method of accounting as between the Board, turf club and totalisator agencies in respect of investments, dividends and commission; or
-
-(f) such other matters as may be necessary for the proper operations and control of totalisators and totalisator agencies, or for the operation of the scheme.
-
-(3) The Board may, from time to time, submit to the Minister for his approval any variation of any scheme or any part thereof for the time being in force under this section, or any new scheme in substitution for any such scheme as aforesaid.
-
-(4) No scheme or any part thereof, and no variation of any such scheme or part thereof, shall come into force until approved in writing by the Minister.
-
-(5) Every approved scheme and any variation thereof shall be published in theGazette.
-
-(6) The Minister may, by order notified in theGazette, suspend or revoke any approved scheme or variation of any approved scheme, or any part thereof, and any such suspension or revocation shall have the effect of a repeal of such scheme or part thereof, as the case may be.
+11\. [Deleted by Act 12/2008 wef 27/12/2010]
 
 ### Calculation of dividend
 
-12\.—(1) Except as may be provided under any approved scheme, it shall be the duty of the Board and a turf club operating a totalisator on behalf of the Board under an approved scheme to pay out by way of dividend all moneys received from investments on the totalisator after deducting —
+12\.—(1) It shall be the duty of the Board and any totalisator agency operating a totalisator to pay out by way of dividend all moneys received from investments on the totalisator after deducting —
 
 (a) the amount of any duty charged under the Betting and Sweepstake Duties Act (Cap. 22); and
 
@@ -278,13 +310,13 @@ TOTALISATORS AND TOTALISATOR AGENCIES
 
 (2) It shall not be necessary to pay out fractions of a dollar.
 
-(3) Any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules of racing applied by any approved scheme shall be refunded without deduction of such duty and commission mentioned in subsection (1).
+(3) Any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules issued, approved or modified under section 4(1)(f) shall be refunded without deduction of such duty and commission mentioned in subsection (1).
 
 [4/97]
 
 ### Proportion of deduction from investment to belong to Board
 
-13\. The sums deducted by way of commission in accordance with section 12(1)(b), together with any fractional money arising pursuant to the operation of section 12(2), shall be deemed for all purposes to belong to and form part of the general funds of the Board and may be apportioned between the Board and the turf club in such proportion and in such manner as may be approved by the Minister under an approved scheme .
+13\. The sums deducted by way of commission in accordance with section 12(1)(b), together with any fractional money arising pursuant to the operation of section 12(2), shall be deemed for all purposes to belong to and form part of the general funds of the Board and may be apportioned between the Board and the totalisator agency in such proportion and in such manner as may be approved by the Minister.
 
 ## PART IV
 
@@ -296,7 +328,7 @@ MISCELLANEOUS
 
 (2) Where an admission fee is charged under subsection (1), such admission fee shall be subject to the payment of duty under the Entertainments Duty Act (Cap. 94).
 
-(3) A turf club may, from time to time, with the approval of the Minister, make by-laws controlling the admission of persons to any race course or premises used or occupied by such club for race meetings or for the placing of investments on the totalisator.
+(3) A turf club may, from time to time, make by-laws controlling the admission of persons to any race course or premises used or occupied by such club for race meetings or for the placing of investments on the totalisator.
 
 (4) Any by-laws made under this section may provide for the exclusion from a race course or such premises of any specified class or description of persons, either absolutely or subject to such conditions as may be prescribed by such by-laws.
 
@@ -306,39 +338,39 @@ MISCELLANEOUS
 
 (b) shall not be deemed to limit the power of any club to exclude or remove any person from any race course occupied by the club and which is free from such right of public use or entry.
 
-(6) Any person who commits a breach of any by-law made under this section may be removed from the race course by any member, officer, agent or employee of the turf club by which the by-law was made, or by any police officer.
+(6) An officer of the turf club may remove from the race course or such premises any person who contravenes any by-law made under this section and who fails or refuses to leave the race course or such premises after being requested by such officer to do so.
 
-(7) All by-laws made under this section shall be published in theGazette, and the cost of such publication shall be borne by the turf club by which the by-laws were made.
+[12/2008 wef 27/12/2010]
 
-### Authority of totalisator operations and investments in accordance with approved scheme
+(7) Every by-law or amendment of or addition to or revocation of or substitution for any by-law made under this section shall, within 30 days of its coming into operation —
 
-15\.—(1) Notwithstanding the provisions of any other written law to the contrary, it shall be lawful for —
+(a) be published on the Internet website of the Singapore Turf Club (the publication cost of which shall be borne by the turf club which made, amended, added to, revoked or substituted the by-laws); and
 
-(a) totalisator investments in respect of horse races to be lodged and received, and for dividends to be paid in respect of such investments, in accordance with an approved scheme; and
+(b) be displayed prominently within the premises of the turf club.
 
-(b) any person of or above the age of 18 years to buy a ticket or chance or take part in any totalisator operated in accordance with an approved scheme, notwithstanding that he is not a member of a turf club.
+[12/2008 wef 27/12/2010]
 
-(2) Where any totalisator is operated in accordance with an approved scheme, no person shall be liable in respect of the use of the totalisator to any penalty or forfeiture under the Common Gaming Houses Act (Cap. 49) or the Betting Act (Cap. 21) or any other written law for the time being in force relating to gaming, betting or lotteries.
+(8) No by-law made under this section shall be inconsistent with any law for the time being in force in Singapore and any such by-law which is so inconsistent shall, to the extent of the inconsistency, be void.
 
-### Certain advertisements relating to totalisator agencies not unlawful
+[12/2008 wef 27/12/2010]
 
-16\.—(1) Notwithstanding anything in any written law, it shall not be an offence for any person —
+### Authority of totalisator operations and investments in accordance with provisions of Act
 
-(a) to exhibit the name of any totalisator agency on any premises in which the agency is situated;
+15\. Notwithstanding the provisions of any other law to the contrary, it shall be lawful for any person of or above the age of 18 years —
 
-(b) to publish in any newspaper, by or on behalf of the Board, any advertisement setting out any list of totalisator agencies, the name, address, hours of business and any telephone number of any totalisator agency, any rules, terms or conditions upon or subject to which totalisator investments may be received at any such agency, or the name of any race meeting in respect of which totalisator investments may for the time being be received at any such agency; or
+(a) to lodge totalisator investments and receive dividends in respect of such investments in accordance with such rules as may be issued, approved or modified under section 4(1)(f); or
 
-(c) to exhibit inside any totalisator agency any notice relating to any of the matters referred to in paragraph (b).
+(b) to buy a ticket or chance or take part in any totalisator, lottery, betting or gaming activity operated in accordance with such rules as may be issued, approved or modified under section 4(1)(f).
 
-(2) Nothing in subsection (1) shall be construed to authorise the exhibition or publication of any matter intended to induce any person to make any totalisator investment.
+[12/2008 wef 27/12/2010]
 
-### Exemption from Betting Act
+16\. [Deleted by Act 12/2008 wef 27/12/2010]
 
-17\. The Board and any officer, agent or employee of the Board or of any turf club while engaged in the lawful conduct of any totalisator or totalisator agency in accordance with an approved scheme shall be exempted from the provisions of the Betting Act (Cap. 21).
+17\. [Deleted by Act 12/2008 wef 27/12/2010]
 
 ### Investment on totalisator after time of race prohibited
 
-18\. Subject to the provisions of any approved scheme and any regulations made under section 21, any member, officer, agent or employee of the Board or of any turf club who —
+18\. Subject to the rules issued, approved or modified under section 4(1)(f) and any regulations made under section 21, any member, officer, agent or employee of the Board or any totalisator agency who —
 
 (a) receives or permits to be received any investment on the totalisator in respect of any race after the start of the race;
 
@@ -354,15 +386,55 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power of arrest
 
-19\. Any police officer may arrest without warrant any person who he has reason to believe has committed an offence under section 17 or 18.
+19\. Any police officer may arrest without warrant any person who he has reason to believe has committed an offence under section 18.
 
 ### Inspection of totalisators and totalisator agencies
 
 20\. A police officer not below the rank of inspector may at any time enter for the purpose of inspection any premises in which any totalisator or totalisator agency is operated, and may during such inspection examine any books, accounts, records or other documents, or any machine or equipment, for the time being used in the operation of the totalisator or totalisator agency, and seize any such books, accounts, records, documents, machine or equipment which he has reasonable cause to believe to be evidence of the commission of any offence under this Act, and may demand from any person for the time being having the care and management of the totalisator or totalisator agency or any part thereof any information that he considers necessary for the purpose of the inspection.
 
+### Composition of offences
+
+20A\.—(1) Any public officer authorised by the Minister may compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) $5,000,
+
+whichever is the lower.
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(3) All sums collected under this section shall be paid into the Consolidated Fund.
+
+[12/2008 wef 27/12/2010]
+
+### General exemption
+
+20B\. The Minister may, by order published in theGazetteand subject to such conditions as he may impose, exempt any person or class of persons from all or any of the provisions of this Act.
+
+[12/2008 wef 27/12/2010]
+
 ### Power to make regulations
 
-21\. The Minister may, from time to time, make such regulations as he may consider necessary or expedient to give effect to the provisions of this Act and for the due administration thereof.
+21\.—(1) The Minister may, from time to time, make such regulations as he may consider necessary or expedient to give effect to the provisions of this Act and for the due administration thereof.
+
+[12/2008 wef 27/12/2010]
+
+(2) In particular and without prejudice to the generality of the powers conferred by subsection (1), regulations may be made to —
+
+(a) regulate any advertisement in relation to any totalisator, lottery, betting or gaming activity of —
+
+(i) the Board;
+
+(ii) any totalisator agency; or
+
+(iii) any agent appointed by the Board;
+
+(b) prescribe the offences which may be compounded; and
+
+(c) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+
+[12/2008 wef 27/12/2010]
 
 ### Property of Singapore Turf Club to be held on trust for Board
 
@@ -446,7 +518,7 @@ Meetings of Board
 
 13.—(1) The Board shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
 
-(2) At every meeting of the Board, 3 members shall form a quorum.
+(2) At every meeting of the Board, a majority of the members of the Board shall form a quorum.
 
 (3) A decision at a meeting of the Board shall be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
@@ -454,7 +526,7 @@ Meetings of Board
 
 (5) Where both the Chairman and the temporary Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
 
-(6) Where not less than 3 members of the Board request the Chairman by notice in writing signed by them to convene a meeting of the Board for any purpose specified in the notice, the Chairman shall, within 7 days from the receipt of the notice, convene a meeting for that purpose.
+(6) Where a majority of the members of the Board request the Chairman by notice in writing signed by them to convene a meeting of the Board for any purpose specified in the notice, the Chairman shall, within 7 days from the receipt of the notice, convene a meeting for that purpose.
 
 Vacancies
 
@@ -504,7 +576,7 @@ Financial Provisions
 
 10\. The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 
-11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 .
+11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 12\. As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
@@ -570,6 +642,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 4/2005 published on 1 March 2005)|
 ||Date of Second and Third Readings|11 March 2005|
 ||Date of commencement|1 April 2005|
+|10.|**Act 12 of 2008—Singapore Totalisator Board (Amendment) Act 2008**|
+||Date of First Reading|26 May 2008|
+|||(Bill No. 7/2008 published on 26 May 2008)|
+||Date of Second and Third Readings|21 July 2008|
+||Date of commencement|27 December 2010|
 ## COMPARATIVE TABLE
 
 Singapore Totalisator Board Act
