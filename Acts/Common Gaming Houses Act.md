@@ -134,9 +134,19 @@ An Act relating to the suppression of common gaming houses, public gaming and pu
 
 shall be guilty of an offence and shall be liable on conviction to a fine of not less than $5,000 and not more than $50,000 and shall also be punished with imprisonment for a term not exceeding 3 years.
 
+(1A) Subsection (1)(d) shall not apply to —
+
+(a) the Singapore Totalisator Board;
+
+(b) any totalisator agency appointed by the Singapore Totalisator Board; and
+
+(c) any agent appointed by the Singapore Totalisator Board to operate or conduct any totalisator, lottery, betting or gaming activity.
+
+[12/2008 wef 27/12/2010]
+
 (2) Any person who occupies or has the use temporarily of a place which is kept or used by another person as a common gaming house shall unless that person proves that he has no knowledge that the place is kept or used as a common gaming house be deemed to have permitted the place to be so kept or used.
 
-[25/71]
+[25/71,]
 
 [9/86]
 
@@ -156,7 +166,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 [4A
 
-[25/71]
+[25/71,]
 
 [9/86]
 
@@ -395,3 +405,8 @@ This Legislative History is provided for the convenience of users of the Common 
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|8.|**Act 12 of 2008—Singapore Totalisator Board (Amendment) Act 2008**|
+||Date of First Reading|26 May 2008|
+|||(Bill No. 7/2008 published on 26 May 2008)|
+||Date of Second and Third Readings|21 July 2008|
+||Date of commencement|27 December 2010|
