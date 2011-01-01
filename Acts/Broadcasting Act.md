@@ -1658,19 +1658,11 @@ Section 2(1)
 
 Broadcasting Apparatus
 
-1\. Broadcast television receiver.
+1\. Television receive-only satellite receiving system (TVRO system).
 
-2\. Broadcast sound receiver.
+In this Schedule, “television receive-only satellite receiving system” means any apparatus (including a dish antenna) or any combination of apparatus capable of direct reception of any broadcasting service emitted from or passing through any communication or broadcast satellite in extra‑terrestrial space.
 
-3. Television receive-only satellite receiving system (TVRO system).
-
-For the purposes of this Schedule —
-
-“broadcast sound receiver” means any apparatus used for the aural reception of any broadcasting service;
-
-“broadcast television receiver” means any apparatus used for the visual and aural reception in monochrome or colour of any broadcasting service;
-
-“television receive-only satellite receiving system” means any apparatus (including a dish antenna) or any combination of apparatus capable of direct reception of any broadcasting service emitted from or passing through any communication or broadcast satellite in extra-terrestrial space.
+[S 549/2012 wef 01/01/2011]
 
 SECOND SCHEDULE
 
@@ -1821,6 +1813,8 @@ This Legislative History is provided for the convenience of users of the Broadca
 ||Date of commencement|30 January 2006|
 |14.|**G. N. No. S 559/2010—Broadcasting Act (Amendment of Third Schedule) Notification 2010**|
 ||Date of commencement|1 October 2010|
+|15.|**G. N. No. S 549/2012—Broadcasting Act (Amendment of First Schedule) Notification 2012**|
+||Date of commencement|1 January 2011|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
