@@ -68,7 +68,7 @@
 
 - [22 Powers of rehearing](#Powers-of-rehearing)
 
-[**Revision**](#Revision)
+[**Supervisory and Revisionary Jurisdiction**](#Supervisory-and-Revisionary-Jurisdiction)
 
 - [23 Revision of criminal proceedings of subordinate courts](#Revision-of-criminal-proceedings-of-subordinate-courts)
 
@@ -85,6 +85,10 @@
 [**Allocation of Proceedings**](#Allocation-of-Proceedings)
 
 - [28A Allocation of proceedings to District Court](#Allocation-of-proceedings-to-District-Court)
+
+[**Further Arguments**](#Further-Arguments)
+
+- [28B Further arguments before Judge exercising civil jurisdiction of High Court](#Further-arguments-before-Judge-exercising-civil-jurisdiction-of-High-Court)
 
 [**Part IV THE COURT OF APPEAL**](#Part-IV)
 
@@ -232,9 +236,17 @@
 
 - [82 Conversion of pending petitions and motions to writs of summons, originating summonses and summonses](#Conversion-of-pending-petitions-and-motions-to-writs-of-summons-originating-summonses-and-summonses)
 
+- [83 Amendment of Third, Fourth and Fifth Schedules](#Amendment-of-Third-Fourth-and-Fifth-Schedules)
+
 [**FIRST SCHEDULE Additional Powers of the High Court**](#FIRST-SCHEDULE-Additional-Powers-of-the-High-Court)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
+
+[**THIRD SCHEDULE Orders Made by District Court or Magistrate’s Court That Are Non-appealable**](#THIRD-SCHEDULE-Orders-Made-by-District-Court-or-Magistrate’s-Court-That-Are-Non-appealable)
+
+[**FOURTH SCHEDULE Orders Made by Judge That Are Non-appealable**](#FOURTH-SCHEDULE-Orders-Made-by-Judge-That-Are-Non-appealable)
+
+[**FIFTH SCHEDULE Orders Made by Judge That Are Appealable Only With Leave**](#FIFTH-SCHEDULE-Orders-Made-by-Judge-That-Are-Appealable-Only-With-Leave)
 
 [**Legislative History**](#Legislative-History)
 
@@ -464,7 +476,7 @@ Original Jurisdiction
 
 16\.—(1) The High Court shall have jurisdiction to hear and try any action in personam where —
 
-(a) the defendant is served with a writ or other originating process —
+(a) the defendant is served with a writ of summons or any other originating process —
 
 (i) in Singapore in the manner prescribed by Rules of Court; or
 
@@ -582,19 +594,29 @@ Appellate Jurisdiction of the High Court
 
 20\. The appellate civil jurisdiction of the High Court shall consist of —
 
-(a) the hearing of appeals from District Courts;
-
 (b) the hearing of appeals from District Courts and Magistrates’ Courts when exercising jurisdiction of a quasi-criminal or civil nature; and
 
 (c) the hearing of appeals from other tribunals as may from time to time be prescribed by any written law.
 
 ### Appeals from District and Magistrates’ Courts
 
-21\.—(1) Subject to the provisions of this Act or any other written law, an appeal shall lie to the High Court from a decision of a District Court or Magistrate’s Court in any suit or action for the recovery of immovable property or in any civil cause or matter where the amount in dispute or the value of the subject-matter exceeds $50,000 or such other amount as may be specified by an order made under subsection (3) or with the leave of a District Court, a Magistrate’s Court or the High Court if under that amount.
+21\.—(1) Subject to the provisions of this Act and any other written law, an appeal shall lie to the High Court from a decision of a District Court or Magistrate’s Court —
 
-[4/86; 16/93; 43/98]
+(a) in any case where the amount in dispute, or the value of the subject-matter, at the hearing before that District Court or Magistrate’s Court (excluding interest and costs) exceeds $50,000 or such other amount as may be specified by an order made under subsection (3); or
+
+(b) with the leave of that District Court or Magistrate’s Court or the High Court, in any other case.
+
+[30/2010 wef 01/01/2011]
 
 (2) Such appeals may be heard before one Judge provided that the Judge, if he thinks fit, may reserve any appeal for the decision of a court consisting of 3 Judges, and in such case the appeal shall be decided in accordance with the opinion of the majority of the Judges composing the High Court.
+
+(2A) An order of the High Court giving or refusing leave under subsection (1)(b) shall be final.
+
+[30/2010 wef 01/01/2011]
+
+(2B) No appeal shall be brought to the High Court in any case where a District Court or Magistrate’s Court makes an order specified in the Third Schedule, except in such circumstances as may be specified in that Schedule.
+
+[30/2010 wef 01/01/2011]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazette, vary the amount mentioned in subsection (1).
 
@@ -606,7 +628,7 @@ Appellate Jurisdiction of the High Court
 
 (2) The High Court shall have the like powers and jurisdiction on the hearing of such appeals as the Court of Appeal has on the hearing of appeals from the High Court.
 
-Revision
+Supervisory and Revisionary Jurisdiction
 
 ### Revision of criminal proceedings of subordinate courts
 
@@ -631,6 +653,10 @@ Revision
 (2) The High Court may in particular, but without prejudice to the generality of subsection (1), if it appears desirable in the interests of justice, either of its own motion or at the instance of any party or person interested, at any stage in any matter or proceeding, whether civil or criminal, in any subordinate court, call for the record thereof, and may remove the matter or proceeding into the High Court or may give to the subordinate court such directions as to the further conduct of the matter or proceeding as justice may require.
 
 (3) Upon the High Court calling for any record under subsection (2), all proceedings in the subordinate court in the matter or proceeding in question shall be stayed pending further order of the High Court.
+
+(4) The High Court shall, when exercising (or deciding whether to exercise) its supervisory and revisionary jurisdiction under subsection (1) or powers under subsection (2) in relation to any matter which concerns a case where the High Court has heard and determined an appeal from a subordinate court, have regard to whether that matter was, or could reasonably have been, raised in that appeal.
+
+[30/2010 wef 01/01/2011]
 
 ### Discretion of High Court as to hearing parties
 
@@ -659,6 +685,36 @@ Allocation of Proceedings
 (c) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
 [16/93; 36/2004]
+
+Further Arguments
+
+[30/2010 wef 01/01/2011]
+
+### Further arguments before Judge exercising civil jurisdiction of High Court
+
+28B\.—(1) Before any notice of appeal is filed in respect of any judgment or order made by a Judge, in the exercise of the civil jurisdiction of the High Court, after any hearing other than a trial of an action, the Judge may hear further arguments in respect of the judgment or order, if any party to the hearing, or the Judge, requests for further arguments before the earlier of —
+
+(a) the time the judgment or order is extracted; or
+
+(b) the expiration of 14 days after the date the judgment or order is made.
+
+(2) After hearing further arguments, the Judge may affirm, vary or set aside the judgment or order.
+
+(3) If any request for further arguments has been made under subsection (1) —
+
+(a) no notice of appeal shall be filed in respect of the judgment or order until the Judge —
+
+(i) affirms, varies or sets aside the judgment or order after hearing further arguments; or
+
+(ii) certifies, or is deemed to have certified, that he requires no further arguments; and
+
+(b) the time for filing a notice of appeal in respect of the judgment or order shall begin on the date the Judge —
+
+(i) affirms, varies or sets aside the judgment or order after hearing further arguments; or
+
+(ii) certifies, or is deemed to have certified, that he requires no further arguments.
+
+(4) For the avoidance of doubt, a party to the hearing may, but is not required to, request for further arguments before he files a notice of appeal in respect of the judgment or order.
 
 ## PART IV
 
@@ -716,13 +772,21 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 [16/93]
 
-(2) Notwithstanding subsection (1), the Court of Appeal in the exercise of its civil jurisdiction shall, if it consists of 2 Judges of Appeal, be duly constituted for the purpose of hearing and determining an appeal against —
+(2) Notwithstanding subsection (1), the Court of Appeal in the exercise of its civil jurisdiction shall, if it consists of 2 Judges of Appeal, be duly constituted for the purpose of hearing and determining —
 
-(a) an interlocutory order; or
+(a) an application to extend the time for filing and serving a notice of appeal;
 
-(b) any other order except a judgment obtained after a trial of an action commenced by writ or after the hearing of an action or matter commenced by any other originating process.
+(b) an application to discharge or vary any direction or order made under section 36(1);
 
-[16/93]
+(c) an appeal against an interlocutory judgment;
+
+(d) an appeal against any judgment or order obtained after the hearing of an assessment of damages;
+
+(e) an appeal against any judgment or order obtained after the hearing of a taking of accounts between parties; or
+
+(f) an appeal against any judgment or order obtained after any proceedings other than the trial or hearing of any action or matter commenced by any originating process.
+
+[30/2010 wef 01/01/2011]
 
 (3) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of, or shall determine any application in proceedings incidental or preliminary to —
 
@@ -733,6 +797,10 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 (c) the consideration of any point reserved by him under section 59.
 
 [16/93]
+
+(3A) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of an application to discharge or vary any direction or order made by him under section 36(1).
+
+[30/2010 wef 01/01/2011]
 
 (4) Section 10A shall apply in relation to proceedings before the Court of Appeal as it applies in relation to proceedings before the High Court.
 
@@ -782,11 +850,9 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 34\.—(1) No appeal shall be brought to the Court of Appeal in any of the following cases:
 
-(a) where a Judge makes an order giving unconditional leave to defend an action or an order setting aside unconditionally a default judgment;
+(a) where a Judge makes an order specified in the Fourth Schedule, except in such circumstances as may be specified in that Schedule;
 
-(b) except if the appellant is the defendant, where a Judge makes an order giving leave to defend on condition that the defendant pays into court or gives security for the sum claimed or an order setting aside a default judgment on condition as aforesaid;
-
-(c) subject to any other provision in this section, where a Judge makes an interlocutory order in chambers unless the Judge has certified, on application within 7 days after the making of the order by any party for further argument in court, that he requires no further argument;
+[30/2010 wef 01/01/2011]
 
 (d) where the judgment or order is made by consent of the parties; or
 
@@ -794,23 +860,37 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(2) Except with the leave of the Court of Appeal ora Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
+(2) Except with the leave of a Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
 
-(a) where the amount or value of the subject-matter at the trial is $250,000 or such other amount as may be specified by an order made under subsection (3) or less;
+(a) where the amount in dispute, or the value of the subject-matter, at the hearing before the High Court (excluding interest and costs) does not exceed $250,000 or such other amount as may be specified by an order made under subsection (3);
+
+[30/2010 wef 01/01/2011]
 
 (b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
 (c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
 
-(d) an order refusing to strike out an action or a pleading or a part of a pleading; or
+(d) where a Judge makes an order specified in the Fifth Schedule, except in such circumstances as may be specified in that Schedule; or
+
+[30/2010 wef 01/01/2011]
 
 (e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
 
 [16/93; 43/98; 36/2004]
 
-(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under section 17A of this Act or under section 59 or Part X of the Women’s Charter.
+(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under —
 
-[36/2004]
+(a) section 17A;
+
+(b) section 59 or Part X of the Women’s Charter; or
+
+(c) any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction.
+
+[30/2010 wef 01/01/2011]
+
+(2B) An order of a Judge giving or refusing leave under subsection (2) shall be final.
+
+[30/2010 wef 01/01/2011]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
@@ -826,7 +906,7 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (2) Every application under subsection (1) shall be deemed to be a proceeding in the Court of Appeal.
 
-(3) Every order so made may be discharged or varied by the Court of Appeal.
+(3) Every direction or order so made may be discharged or varied by the Court of Appeal.
 
 ### Hearing of appeals
 
@@ -1306,29 +1386,43 @@ List of Touts
 
 ### Vexatious litigants
 
-74\.—(1) If, on an application made by the Attorney-General, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground instituted vexatious legal proceedings, whether in the High Court or in any subordinate court, and whether against the same person or against different persons, the High Court may, after hearing that person or giving him an opportunity of being heard, order that —
+74\.—(1) If, on an application made by the Attorney-General, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground instituted vexatious legal proceedings, in any court or subordinate court, whether against the same person or against different persons, the High Court may, after hearing that person or giving him an opportunity of being heard, order that —
 
-(a) no legal proceedings shall without the leave of the High Court be instituted by him in any court ; and
+(a) no legal proceedings shall without the leave of the High Court be instituted by him in any court or subordinate court; and
 
-(b) any legal proceedings instituted by him in any court before the making of the order shall not be continued by him without such leave, and such leave shall not be given unless the High Court is satisfied that the proceedings are not an abuse of the process of the court and that there is prima facie ground for the proceedings.
+(b) any legal proceedings instituted by him in any court or subordinate court before the making of the order shall not be continued by him without such leave, and such leave shall not be given unless the High Court is satisfied that the proceedings are not an abuse of the process of the court and that there is prima facie ground for the proceedings.
 
-(2) If the person against whom an order is sought under subsection (1) is unable on account of poverty to retain an advocate and solicitor, the High Court shall assign one to him.
+(2) If the person against whom an order is sought under subsection (1) satisfies the High Court that he lacks the means to retain an advocate and solicitor, the High Court shall assign one to him.
 
 (3) No appeal shall lie from an order under subsection (1) refusing leave for institution or continuance of legal proceedings.
 
 (4) A copy of any order under subsection (1) shall be published in theGazette.
 
+(5) In this section, “legal proceedings” includes any proceedings, process, action, application or appeal in any civil matter or criminal matter.
+
+[30/2010 wef 01/01/2011]
+
 Disabilities of Registrar and other officers
 
 ### Disqualification of Registrar
 
-75\.—(1) The Registrar, the Deputy Registrar or an Assistant Registrar shall not be capable of accepting or taking any other office of emolument, nor of carrying on any business either directly or indirectly, nor shall he accept any fees of office, perquisites, emoluments or advantages, other than and except his salary and allowances.
+75\.—(1) Except with the approval of the Chief Justice, the Registrar, the Deputy Registrar and an Assistant Registrar —
 
-[58/73]
+(a) shall not be capable of —
 
-(2) The Registrar, the Deputy Registrar or an Assistant Registrar may, with the approval of the Chief Justice, be appointed to any commission of inquiry, committee of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
+(i) accepting or taking any other office of emolument; or
 
-[58/73]
+(ii) carrying on any business either directly or indirectly; and
+
+(b) shall not accept any fees of office, perquisites, emoluments or advantages, other than his salary and allowances.
+
+(2) Without prejudice to the generality of subsection (1), the Registrar, the Deputy Registrar and an Assistant Registrar may, with the approval of the Chief Justice —
+
+(a) be appointed to any commission of inquiry, committee of inquiry or other judicial, quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education or other knowledge; and
+
+(b) receive an allowance or other honorarium in respect of that appointment or office.
+
+[30/2010 wef 01/01/2011]
 
 ### Registrar not to act where interested
 
@@ -1486,6 +1580,12 @@ then, if any such action or application that has been commenced or made before t
 
 [42/2005]
 
+### Amendment of Third, Fourth and Fifth Schedules
+
+83\.—(1) The Minister may, after consulting the Chief Justice, by order published in theGazette, amend the Third, Fourth or Fifth Schedule.
+
+(2) An order under subsection (1) may contain such transitional and savings provisions as may appear to the Minister, after consulting the Chief Justice, to be necessary or expedient.
+
 FIRST SCHEDULE
 
 Section 18(2)
@@ -1618,6 +1718,119 @@ Taken and subscribed before me at ........................ this ............. da
 
 Officer Administering the Oath
 
+THIRD SCHEDULE
+
+Sections 21(2B) and 83
+
+Orders Made by District Court or Magistrate’s Court
+
+
+
+
+That Are Non-appealable
+
+No appeal shall be brought to the High Court in any of the following cases:
+
+(a) where a District Court or Magistrate’s Court makes an order giving unconditional leave to defend any proceedings;
+
+(b) where a District Court or Magistrate’s Court makes an order giving leave to defend any proceedings on condition that the party defending those proceedings pays into court or gives security for the sum claimed, except if the appellant is that party;
+
+(c) where a District Court or Magistrate’s Court makes an order setting aside unconditionally a default judgment, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise);
+
+(d) where a District Court or Magistrate’s Court makes an order setting aside a default judgment on condition that the party against whom the judgment had been entered pays into court or gives security for the sum claimed, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise), except if the appellant is that party.
+
+[30/2010 wef 01/01/2011]
+
+FOURTH SCHEDULE
+
+Sections 34(1)(a) and 83
+
+Orders Made by Judge
+
+
+
+
+That Are Non-appealable
+
+No appeal shall be brought to the Court of Appeal in any of the following cases:
+
+(a) where a Judge makes an order giving unconditional leave to defend any proceedings;
+
+(b) where a Judge makes an order giving leave to defend any proceedings on condition that the party defending those proceedings pays into court or gives security for the sum claimed, except if the appellant is that party;
+
+(c) where a Judge makes an order setting aside unconditionally a default judgment, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise);
+
+(d) where a Judge makes an order setting aside a default judgment on condition that the party against whom the judgment had been entered pays into court or gives security for the sum claimed, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise), except if the appellant is that party;
+
+(e) where a Judge makes an order refusing to strike out —
+
+(i) an action or a matter commenced by a writ of summons or by any other originating process; or
+
+(ii) a pleading or a part of a pleading;
+
+(f) where a Judge makes an order giving or refusing further and better particulars;
+
+(g) where a Judge makes an order giving leave to amend a pleading, except if —
+
+(i) the application for such leave is made after the expiry of any relevant period of limitation current at the date of issue of the writ of summons; and
+
+(ii) the amendment is an amendment to correct the name of a party or to alter the capacity in which a party sues, or the effect of the amendment will be to add or substitute a new cause of action;
+
+(h) where a Judge makes an order refusing security for costs;
+
+(i) where a Judge makes an order giving or refusing interrogatories.
+
+[30/2010 wef 01/01/2011]
+
+FIFTH SCHEDULE
+
+Sections 34(2)(d) and 83
+
+Orders Made by Judge
+
+
+
+
+That Are Appealable Only With Leave
+
+Except with the leave of a Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
+
+(a) where a Judge makes an order refusing leave to amend a pleading, except if —
+
+(i) the application for such leave is made after the expiry of any relevant period of limitation current at the date of issue of the writ of summons; and
+
+(ii) the amendment is an amendment to correct the name of a party or to alter the capacity in which a party sues, or the effect of the amendment will be to add or substitute a new cause of action;
+
+(b) where a Judge makes an order giving security for costs;
+
+(c) where a Judge makes an order giving or refusing discovery or inspection of documents;
+
+(d) where a Judge makes an order refusing a stay of proceedings;
+
+(e) where a Judge makes an order at the hearing of any interlocutory application other than an application for any of the following matters:
+
+(i) for summary judgment;
+
+(ii) to set aside a default judgment;
+
+(iii) to strike out an action or a matter commenced by a writ of summons or by any other originating process, a pleading or a part of a pleading;
+
+(iv) to dismiss an action or a matter commenced by a writ of summons or by any other originating process;
+
+(v) for further and better particulars;
+
+(vi) for leave to amend a pleading;
+
+(vii) for security for costs;
+
+(viii) for discovery or inspection of documents;
+
+(ix) for interrogatories to be varied or withdrawn, or for leave to serve interrogatories;
+
+(x) for a stay of proceedings.
+
+[30/2010 wef 01/01/2011]
+
 ## LEGISLATIVE HISTORY
 
 Supreme Court of Judicature Act
@@ -1748,6 +1961,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 26/2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010 (section 5 — amendment of Supreme Court of Judicature Act)|
+|26.|**Act 30 of 2010—Supreme Court of Judicature (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 25/2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 January 2011|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
