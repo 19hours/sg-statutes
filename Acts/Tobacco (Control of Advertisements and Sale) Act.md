@@ -214,8 +214,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) The Minister may, in his discretion, approve, for such time and upon such conditions as he may think fit, the publication of an advertisement or class of advertisements which mentions or refers to the brand name associated with or the name or trade name of a person associated or concerned with the manufacture, distribution or marketing of a tobacco product —
 
-(a) as the sponsor of an event or as congratulating another person or thing on an achievement of or event relating to such person or thing; or
-
 (b) for the purpose of promoting or identifying any goods or services unconnected with any tobacco product which are manufactured, distributed, marketed or provided by that person.
 
 (3) Subsection (2) shall not apply to any advertisement or class of advertisements which, directly or indirectly, leads to, induces, urges, promotes or encourages the use of any tobacco product.
@@ -714,7 +712,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-34\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+34\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding.
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
@@ -784,7 +782,7 @@ Tobacco (Control of Advertisements and Sale) Act
 
 (CHAPTER 309)
 
-This Legislative History is provided for the convenience of users of the Smoking (Control of Advertisements and Sale of Tobacco) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Tobacco (Control of Advertisements and Sale) Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -828,6 +826,11 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 7/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 July 2010|
 ||Date of commencement|1 September 2010 (except section 5(c), 8(b) and 12)|
+|10.|**Act 17 of 2010—Smoking (Control of Advertisements and Sale of Tobacco) (Amendment) Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 7/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 July 2010|
+||Date of commencement|1 January 2011 (Section 5(c))|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
