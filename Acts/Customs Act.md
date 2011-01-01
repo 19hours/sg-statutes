@@ -3060,17 +3060,27 @@ Application for customs ruling
 
 (a) the classification of the goods;
 
-(b) the country of origin of the goods; and
+(b) the country of origin of the goods;
 
-(c) how the goods are to be treated for the purposes of determining the customs duty, excise duty, or both, payable on the goods.
+(c) the application of a provision of the Customs (Valuation) Regulations (Rg 8) to the goods.
+
+[S 783/2010 wef 01/01/2011]
+
+[3/2008 wef 04/04/2008]
 
 (2) Subject to sub-paragraph (3), any person concerned in the local manufacture of any goods may apply to the Director-General for a ruling on one or more of the following matters:
 
-(a) the classification of the goods; and
+(a) the classification of the goods;
 
-(b) how the goods are to be treated for the purposes of determining the excise duty payable on the goods.
+(b) the application of a provision of the Customs (Valuation) Regulations to the goods.
+
+[S 783/2010 wef 01/01/2011]
+
+[3/2008 wef 04/04/2008]
 
 (3) Where any goods are the subject of any Free Trade Agreement to which Singapore is a party, and that Free Trade Agreement identifies the person who may apply for a ruling in relation to those goods, only that person may apply under sub-paragraph (1) or (2) for a ruling in relation to those goods.
+
+[3/2008 wef 04/04/2008]
 
 (4) An application for a ruling shall —
 
@@ -3079,6 +3089,8 @@ Application for customs ruling
 (b) comply with the disclosure requirements of paragraph 4; and
 
 (c) be made at such time as the Director-General may determine.
+
+[3/2008 wef 04/04/2008]
 
 Director-General may decline to make ruling
 
@@ -3098,11 +3110,17 @@ Director-General may decline to make ruling
 
 (ii) in the Director-General’s opinion, the applicant has not provided sufficient information in relation to the application.
 
+[3/2008 wef 04/04/2008]
+
 (2) The Director-General shall, where he has declined to make a ruling, notify the applicant in writing of his decision and the reasons therefor.
+
+[3/2008 wef 04/04/2008]
 
 Duration of ruling
 
-3\. A ruling shall apply in relation to a matter only for such period as may be stated in the ruling.
+3. A ruling shall apply in relation to a matter only for such period as may be stated in the ruling.
+
+[3/2008 wef 04/04/2008]
 
 Information to be provided to Director-General
 
@@ -3112,13 +3130,21 @@ Information to be provided to Director-General
 
 (b) disclose all relevant facts and documents relating to the matter in respect of which the ruling is sought.
 
+[3/2008 wef 04/04/2008]
+
 (2) The Director-General may, at any time, request further relevant information from an applicant for the purpose of making a ruling.
+
+[3/2008 wef 04/04/2008]
 
 (3) An applicant for a ruling shall provide the Director-General with the information referred to in sub-paragraph (2) within such time as the Director-General may determine.
 
+[3/2008 wef 04/04/2008]
+
 Director-General may make assumptions
 
-5\. If the Director-General considers that the correctness of a ruling would depend on assumptions being made about any future event or other matter, the Director-General may make the assumptions that he considers to be most appropriate.
+5. If the Director-General considers that the correctness of a ruling would depend on assumptions being made about any future event or other matter, the Director-General may make the assumptions that he considers to be most appropriate.
+
+[3/2008 wef 04/04/2008]
 
 Making of ruling
 
@@ -3132,17 +3158,29 @@ Making of ruling
 
 (d) the conditions (if any) applicable to the ruling.
 
+[3/2008 wef 04/04/2008]
+
 (2) The Director-General shall notify the person to whom the ruling applies of the making of the ruling by sending him a copy of the ruling.
+
+[3/2008 wef 04/04/2008]
 
 (3) Where there is any Free Trade Agreement applicable to the matter to which a ruling applies, and the Free Trade Agreement specifies the period within which the ruling shall be made, the Director-General shall make the ruling within that period.
 
+[3/2008 wef 04/04/2008]
+
 (4) The Director-General may make a ruling notwithstanding that no application has been made under paragraph 1.
+
+[3/2008 wef 04/04/2008]
 
 Modification or withdrawal of ruling
 
 7.—(1) The Director-General may, at any time, modify or withdraw a ruling by notifying the person to whom the ruling applies in such manner as the Director-General may determine of the modification or withdrawal and the reasons therefor.
 
+[3/2008 wef 04/04/2008]
+
 (2) Subject to sub-paragraphs (3) and (4), a ruling is modified or withdrawn from the date specified in the notice of modification or withdrawal, as the case may be.
+
+[3/2008 wef 04/04/2008]
 
 (3) The Director-General may, on the application of a person to whom a ruling applies, postpone the date the ruling is modified or withdrawn to such later date as the Director-General may determine, if that person shows that —
 
@@ -3150,9 +3188,15 @@ Modification or withdrawal of ruling
 
 (b) the modification or withdrawal, as the case may be, of the ruling would be detrimental to him.
 
+[3/2008 wef 04/04/2008]
+
 (4) The Director-General may postpone the date the ruling is modified or withdrawn to such later date as he may determine notwithstanding that no application has been made under sub-paragraph (3).
 
+[3/2008 wef 04/04/2008]
+
 (5) If the Director-General withdraws a ruling, the ruling shall not apply in relation to any goods, the subject-matter of the ruling, which are imported or manufactured locally, on or after the date of the withdrawal.
+
+[3/2008 wef 04/04/2008]
 
 (6) If —
 
@@ -3162,7 +3206,11 @@ Modification or withdrawal of ruling
 
 the ruling shall cease to apply to that person in relation to any goods, the subject-matter of the ruling, which are imported or manufactured locally, before the date of the withdrawal.
 
+[3/2008 wef 04/04/2008]
+
 (7) If the Director-General modifies a ruling, the modified ruling shall apply in relation to any goods, the subject-matter of the modified ruling, which are imported or manufactured locally, on or after the date of the modification.
+
+[3/2008 wef 04/04/2008]
 
 (8) If —
 
@@ -3171,6 +3219,8 @@ the ruling shall cease to apply to that person in relation to any goods, the sub
 (b) the person to whom the original ruling applies has not acted in accordance with any condition applicable to the original ruling,
 
 the modified ruling shall apply to that person in relation to any goods, the subject-matter of the modified ruling, which are imported or manufactured locally, before the date of the modification.
+
+[3/2008 wef 04/04/2008]
 
 (9) The Director-General may modify or withdraw a ruling if —
 
@@ -3188,9 +3238,13 @@ the modified ruling shall apply to that person in relation to any goods, the sub
 
 (g) it is one of the grounds of modification or withdrawal provided under any Free Trade Agreement applicable to the matter to which the ruling applies.
 
+[3/2008 wef 04/04/2008]
+
 Typographical or minor error in ruling
 
-8\. The Director-General does not have to withdraw and re-issue a ruling to correct any typographical or minor error, if the correction does not change the meaning of the ruling.
+8. The Director-General does not have to withdraw and re-issue a ruling to correct any typographical or minor error, if the correction does not change the meaning of the ruling.
+
+[3/2008 wef 04/04/2008]
 
 Amendment of Act
 
@@ -3359,6 +3413,8 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|1 September 2008|
 |||(item (1) in the Second Schedule)|
+|33.|**G. N. No. S 783/2010—Customs Act (Amendment of Schedule) Order 2010**|
+||Date of commencement|1 January 2011|
 ## COMPARATIVE TABLE
 
 Customs Act
