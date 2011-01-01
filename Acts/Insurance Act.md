@@ -4264,31 +4264,59 @@ General
 
 (2) References to a policy of an insurer include any policy in respect of which the insurer is under any liability, whether the policies were issued by the insurer or the liability was transferred to the insurer from another.
 
-2.—(1) Subject to this paragraph and section 16(3) and (4) of the Act, “Singapore policy” in relation to any insurer, means a policy issued in the course of the insurer’s business in Singapore and falling within one of the following descriptions:
+2.—(1) Subject to this paragraph and section 16(3) and (4) of the Act, “Singapore policy”, in relation to any insurer, means a policy issued in the course of the insurer’s business in Singapore and falling within one of the following descriptions:
 
-(a) a life policy or accident and health policy in the case of which, at the date of issue of the policy and (if the policy was issued before then) at the date of the establishment of the insurer’s register of Singapore policies, the policy owner’s address is or was an address in Singapore;
+(a) in relation to a life policy or accident and health policy —
 
-(b) in relation to direct general insurance (other than short-term accident and health policies) and facultative general reinsurance, a policy in the case of which the risk arises in Singapore or where the insured is a person resident in Singapore or is a permanent establishment in Singapore; and
+(i) where the policy owner is an individual, the policy owner or insured is ordinarily resident in Singapore at the date of the proposal in respect of the policy (proposal date);
 
-(c) in relation to treaty general reinsurance, a policy in the case of which more than 25% of the total risks in terms of gross premiums arises in Singapore.
+(ii) where the policy owner is not an individual, the policy owner’s address is or was an address in Singapore at the date of issue of the policy and at the date of the establishment of the insurer’s register of Singapore policies (if the policy was issued before then);
 
-(1A) Notwithstanding sub-paragraph (1)(b), a policy where the insured is a person resident in Singapore or is a permanent establishment in Singapore shall not be regarded as a “Singapore policy” if it is in respect of cargo transported from a place outside Singapore to a place outside Singapore, whether or not the cargo is in transit in Singapore.
+(b) in relation to direct general insurance (other than short-term accident and health policies) and facultative general reinsurance, a policy where the risk arises in Singapore or —
 
-[S 130/2009 wef 31/03/2009]
+(i) where the insured is an individual, the insured is ordinarily resident in Singapore; or
 
-(2) “Offshore policy”, in relation to any insurer, means any policy, other than a Singapore policy, issued in the course of the insurer’s business in Singapore.
+(ii) where the insured is not an individual, the insured is a person resident in Singapore or has a permanent establishment in Singapore; and
 
-(3) For the purposes of this paragraph —
+(c) in relation to treaty general reinsurance, a policy where more than 25% of the total risks in terms of gross premiums arises in Singapore.
 
-(a) [Deleted by Act 23/2003 wef 01/01/2004]
+(2) Notwithstanding sub-paragraph (1)(b), a policy where —
 
-(b) “policy owner’s address” means the address for the time being known to the insurer as the address (or normal address) for communicating with the policy owner about the policy; and
+(a) the insured is an individual and the insured is ordinarily resident in Singapore; or
 
-(c) “resident in Singapore” and “permanent establishment” have the same meanings as in the Income Tax Act (Cap. 134).
+(b) the insured is not an individual and the insured is a person resident in Singapore or has a permanent establishment in Singapore,
 
-(d) [Deleted by S 130/2009 wef 31/03/2009]
+shall not be regarded as a Singapore policy if it is in respect of cargo transported from a place outside Singapore to a place outside Singapore, whether or not the cargo is in transit in Singapore.
 
-(4) Sub-paragraph (1)(a) shall apply to a policy of reinsurance as if the references to the date of issue of the policy and to the policy owner’s address referred to those of the policy under which the liability reinsured ultimately arises.
+(3) “Offshore policy”, in relation to any insurer, means any policy, other than a Singapore policy, issued in the course of the insurer’s business in Singapore.
+
+(4) For the purposes of this paragraph —
+
+(a) an individual shall be treated as ordinarily resident in Singapore if the individual —
+
+(i) is a citizen of Singapore, unless he has resided outside Singapore continuously for 5 or more years preceding the proposal date of the policy and is not currently residing in Singapore;
+
+(ii) is a permanent resident, unless he has resided in Singapore for less than a total of 183 days in the 12 months preceding the proposal date of the policy;
+
+(iii) has a work pass or permit required under the Employment of Foreign Manpower Act (Cap. 91A), unless he has resided in Singapore for less than a total of 183 days in the 12 months preceding the proposal date of the policy; or
+
+(iv) has a pass or permit required under the Immigration Act (Cap. 133) that has a duration longer than 90 days and has resided in Singapore continuously for at least 90 days in the 12 months preceding the proposal date of the policy;
+
+(b) “policy owner’s address” means the address for the time being known to the insurer as the address (or normal address) for communicating with the policy owner about the policy;
+
+(c) “resident in Singapore” and “permanent establishment” have the same meanings as in the Income Tax Act (Cap. 134);
+
+(d) “permanent resident” means any individual who is not subject to any restriction as to his period of residence in Singapore imposed under the provisions of any written law relating to immigration for the time being in force;
+
+(e) where an individual is present in Singapore for any part of a day, his presence on that day shall be counted as one day.
+
+(5) Sub-paragraph (1)(a) shall apply to a policy of reinsurance —
+
+(a) where the owner of the policy under which the liability reinsured ultimately arises is an individual, as if the references to the proposal date and to whether the policy owner or insured is ordinarily resident in Singapore are references to those of the policy under which the liability reinsured ultimately arises; and
+
+(b) in any other case, as if the references to the date of issue of the policy and to the policy owner’s address are references to those of the policy under which the liability reinsured ultimately arises.
+
+[S 184/2010 wef 01/01/2011]
 
 2A. “Child” means a legitimate child, an illegitimate child, a stepchild or a child adopted in accordance with any written law relating to the adopting of children.
 
@@ -4560,6 +4588,8 @@ This Legislative History is provided for the convenience of users of the Insuran
 |28.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
 ||Date of commencement|30 March 2010
 (except paragraph 2(a))|
+|29.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
+||Date of commencement|1 January 2011 (paragraph 2(a))|
 ## COMPARATIVE TABLE
 
 Insurance Act
