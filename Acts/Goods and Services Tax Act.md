@@ -34,9 +34,15 @@
 
 - [10 Meaning of "supply"](#Meaning-of-"supply")
 
-- [11 Time of supply](#Time-of-supply)
+- [11 Time of supply: general provisions](#Time-of-supply:-general-provisions)
 
-- [12 Further provisions relating to time of supply](#Further-provisions-relating-to-time-of-supply)
+- [11A Time of supply: exceptions to section 11(2) and (3)](#Time-of-supply:-exceptions-to-section-112-and-3)
+
+- [11B Time of supply: exceptions to section 11(2)](#Time-of-supply:-exceptions-to-section-112)
+
+- [12 Time of supply: directions and regulations](#Time-of-supply:-directions-and-regulations)
+
+- [12A Time of supply: transitional provision](#Time-of-supply:-transitional-provision)
 
 - [13 Place of supply](#Place-of-supply)
 
@@ -64,7 +70,7 @@
 
 - [22 Exempt supply](#Exempt-supply)
 
-- [23 Relief on supply of certain secondhand goods](#Relief-on-supply-of-certain-secondhand-goods)
+- [23 Relief on supply of certain goods under Margin Scheme](#Relief-on-supply-of-certain-goods-under-Margin-Scheme)
 
 - [24 Relief from tax on importation and supply of goods](#Relief-from-tax-on-importation-and-supply-of-goods)
 
@@ -102,9 +108,9 @@
 
 - [36 Commodity, futures or securities markets and exchanges](#Commodity-futures-or-securities-markets-and-exchanges)
 
-- [37 Goods subject to a warehousing regime](#Goods-subject-to-a-warehousing-regime)
+- [37 Goods under customs control](#Goods-under-customs-control)
 
-- [37A Treatment or processing of goods for and to a person belonging in a country other than Singapore](#Treatment-or-processing-of-goods-for-and-to-a-person-belonging-in-a-country-other-than-Singapore)
+- [37A Treatment or processing of goods of a person belonging in a country other than Singapore](#Treatment-or-processing-of-goods-of-a-person-belonging-in-a-country-other-than-Singapore)
 
 - [38 Customers to account for tax on certain supplies](#Customers-to-account-for-tax-on-certain-supplies)
 
@@ -318,7 +324,7 @@ PRELIMINARY
 
 “money” and “currency” include currencies whether of Singapore or any other country but does not include a collector’s piece, investment article or item of numismatic interest;
 
-“open market value”, in relation to a supply of goods or services, has the meaning given to it by section 17(5) and in relation to imported goods has the meaning given to it by section 18(3);
+“open market value”, in relation to a supply of goods or services, has the meaning given to it by section 17(5);
 
 “output tax” has the meaning given to it by section 19;
 
@@ -339,6 +345,10 @@ PRELIMINARY
 “unit trust” means any trust established for the purpose, or having the effect, of providing facilities for the participation by persons as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property.
 
 [25/96; 43/2002; 50/2004]
+
+[37/2008 wef 04/05/2009]
+
+[20/2010 wef 01/01/2011]
 
 (2) The question whether, in relation to any supply of services, the supplier or the recipient of the supply belongs in one country or another shall be determined in accordance with section 15.
 
@@ -373,6 +383,8 @@ PRELIMINARY
 (a) references to partnerships include references to limited partnerships; and
 
 (b) references to partners of a partnership include references to partners of a limited partnership.
+
+[37/2008 wef 04/05/2009]
 
 ## PART II
 
@@ -474,7 +486,7 @@ IMPOSITION AND EXTENT OF TAX
 
 (2) The Minister may by order amend the First Schedule.
 
-[UK VAT Act 1983, s. 2 (5)]
+[UK VAT Act 1983, s. 2(5)]
 
 ### Meaning of “supply”
 
@@ -500,45 +512,173 @@ IMPOSITION AND EXTENT OF TAX
 
 [UK VAT Act 1983, s. 3]
 
-### Time of supply
+### Time of supply: general provisions
 
-11\.—(1) This section and section 12 shall apply for determining the time when a supply of goods or services is to be treated as taking place for the purposes of the charge to tax.
+11\.—(1) This section and sections 11A, 11B, 12 and 12A shall apply for determining the time when a supply of goods or services is to be treated as taking place for the purposes of this Act.
 
-(2) Subject to section 12, a supply of goods shall be treated as taking place —
+(2) A supply of goods or services shall be treated for the purposes of this Act as taking place at the time when —
 
-(a) if the goods are to be removed, at the time of the removal;
+(a) the person making the supply issues an invoice or receives any consideration in respect of it; or
 
-(b) if the goods are not to be removed, at the time when they are made available to the person to whom they are supplied;
+(b) where both events occur, the first of the 2 events occurs,
 
-(c) if the goods (being sent or taken on approval or sale or return or similar terms) are removed before it is known whether a supply will take place, at the time when it becomes certain that the supply has taken place or 12 months after the removal, whichever is the earlier.
+to the extent that the supply is covered by the invoice or consideration.
 
-(3) Subject to section 12, a supply of services shall be treated as taking place at the time when the services are performed.
+(3) Notwithstanding subsection (2), where a supply is —
 
-[UK VAT Act 1983, s. 4]
+(a) a supply of goods consisting of the grant, assignment or surrender of any interest in or right over land (other than the grant of a tenancy or lease where the whole or part of the consideration for that grant is payable periodically and attributed to separate periods of the term of the tenancy or lease);
 
-### Further provisions relating to time of supply
+(b) a supply of goods or services made by a person who applies to the Comptroller for this subsection to apply in determining when his supplies of goods or services take place, and the Comptroller allows his application; or
 
-12\.—(1) If, before the time applicable under section 11(2) or (3), the person making the supply issues a tax invoice in respect of it or if, before the time applicable under section 11(2)(a) or (b) or section 11(3), he receives a payment in respect of it, the supply shall, to the extent covered by the invoice or payment, be treated as taking place at the time the invoice is issued or the payment is received, as the case may be, or whichever is the earlier.
+(c) a supply of goods made by an agent that is treated under section 33(2) as a supply by him as principal,
 
-(2) If, within 14 days after the time applicable under section 11(2) or (3), the person making the supply issues a tax invoice in respect of it, then, unless he has notified the Comptroller in writing that he elects not to avail himself of this subsection, the supply shall (to the extent that it is not treated as taking place at the time mentioned in subsection (1)) be treated as taking place at the time the invoice is issued.
+then, unless subsection (4) applies, the supply shall be treated for the purposes of this Act as taking place as follows:
 
-(3) The Comptroller may, at the request of a taxable person, direct that subsection (2) shall apply in relation to supplies made by him (or such supplies made by him as may be specified in the direction) as if for the period of 14 days there were substituted such longer period as may be specified in the direction.
+(i) in the case of a supply of goods —
 
-(4) Where a taxable person provides a document to himself which —
+(A) if the goods are to be removed, at the time of the removal; and
 
-(a) purports to be a tax invoice in respect of a supply of goods or services to him by another taxable person; and
+(B) if the goods are not to be removed, at the time when they are made available to the person to whom they are supplied; and
 
-(b) is in accordance with regulations made under section 41 and the Comptroller has approved that it be treated as the tax invoice required by the regulations to be provided by the supplier,
+(ii) in the case of a supply of services, at the time when the services are performed,
 
-subsections (2) and (3) shall have effect in relation to that supply as if —
+to the extent that the supply is covered by the goods that are removed or made available, or the services that are performed, as the case may be.
 
-(i) the provision of the document to himself by the first- mentioned taxable person were the issue by the supplier of a tax invoice in respect of the supply; and
+[24/2011 wef 01/01/2011]
 
-(ii) any notice of election given or request made by the first- mentioned taxable person for the purposes of those provisions had been given or made by the supplier.
+(4) If, before the time under subsection (3), the person making a supply referred to in that subsection issues an invoice or receives any consideration in respect of it, the supply shall be treated as taking place at the time when —
 
-(5) The Comptroller may, at the request of a taxable person, by direction in writing alter the time at which supplies made by him (or such supplies made by him as may be specified in the direction) are to be treated as taking place, either —
+(a) the invoice is issued or the consideration is received; or
 
-(a) by directing those supplies to be treated as taking place —
+(b) where both events occur, the first of the 2 events occurs,
+
+to the extent that the supply is covered by the invoice or consideration.
+
+[24/2011 wef 01/01/2011]
+
+(5) For the purpose of determining the time when a supply of goods or services is to be treated as taking place for the purposes of this Act, where a person provides a document to himself which purports to be an invoice in respect of a supply of goods or services to him by another person, the Comptroller may treat that invoice as an invoice issued by the other person as the supplier.
+
+[20/2010 wef 01/01/2011]
+
+### Time of supply: exceptions to section 11(2) and (3)
+
+11A\.—(1) Section 11(2) and (3) shall not apply where any subsection herein applies, except to the extent specified in that subsection.
+
+(2) For the purposes of paragraphs 1(1) and (2) and 2 of the First Schedule, the supply shall be treated as taking place at the time when —
+
+(a) the person making the supply issues an invoice or receives any consideration in respect of it; or
+
+(b) where both events occur, the first of the 2 events occurs,
+
+to the extent that the supply is covered by the invoice or consideration.
+
+(3) For the purposes of regulations made under section 19(13)(b) and (c) in respect of tax on a supply of goods or services made to a taxable person that he may count as his input tax, the supply shall be treated as taking place at the time when —
+
+(a) the person making the supply issues an invoice or receives any consideration in respect of it; or
+
+(b) where both events occur, the first of the 2 events occurs,
+
+to the extent that the supply is covered by the invoice or consideration.
+
+(4) Where there is a supply of goods by virtue only of a transfer or disposal of assets under paragraph 5(1) of the Second Schedule, the supply shall be treated as taking place —
+
+(a) where the goods are transferred or disposed of as specified in that paragraph for no consideration, when the goods are transferred or disposed of as specified in that paragraph; and
+
+(b) where the goods are transferred or disposed of as specified in that paragraph for a consideration, in accordance with section 11(2) or (3), as the case may be.
+
+(5) Where there is a supply of services by virtue only of paragraph 5(3) of the Second Schedule, the supply shall be treated as taking place —
+
+(a) where the goods are appropriated to the use mentioned in that paragraph for no consideration, on the last day of the supplier’s prescribed accounting period, or of each such accounting period, in which the goods are used or made available for the use; and
+
+(b) where the goods are appropriated to the use mentioned in that paragraph for a consideration, in accordance with section 11(2) or (3), as the case may be.
+
+(6) If goods (being sent or taken on approval or sale or return or similar terms) are removed before it is known whether a supply will take place, a supply of the goods shall be treated as taking place 12 months after the removal; except that where the person from whom the goods are removed issues an invoice or receives any consideration in respect of those goods before the expiry of the 12-month period, a supply of the goods shall be treated as taking place at the time when —
+
+(a) the invoice is issued or the consideration is received; or
+
+(b) where both events occur, the first of the 2 events occurs.
+
+[20/2010 wef 01/01/2011]
+
+### Time of supply: exceptions to section 11(2)
+
+11B\.—(1) Section 11(2) shall not apply to the extent any subsection herein applies.
+
+(2) Subject to subsection (7), where a person who is, or is required to be, registered under this Act makes a supply of goods or services to another person who is not entitled under sections 19 and 20 to credit for the whole or any part of the tax on the supply, and —
+
+(a) but for this subsection, the supply would under section 11(2) be treated as taking place after the date on which he is, or is required to be, registered under this Act; and
+
+(b) prior to that date —
+
+(i) in the case of a supply of goods —
+
+(A) if the goods are to be removed, they had been removed; or
+
+(B) if the goods are not to be removed, they had been made available to the other person; or
+
+(ii) in the case of a supply of services, the services had been performed,
+
+then the person making the supply shall, if the other person so requests, treat the supply as taking place when the goods were removed or made available, or the services were performed, as the case may be, and the supply shall be so treated for the purposes of this Act.
+
+(3) Subject to subsection (7), where a person who makes a supply of goods or services is connected within the meaning of paragraph 3 of the Third Schedule with the person to whom the supply is made, and —
+
+(a) in the case of a supply of goods —
+
+(i) if the goods are to be removed, they are removed; or
+
+(ii) if the goods are not to be removed, they are made available to the person to whom they are supplied; or
+
+(b) in the case of a supply of services, the services are performed,
+
+then the supply shall be treated as taking place at the end of 12 months after the goods have been removed or made available, or the services have been performed, as the case may be, to the extent that it is not covered by any invoice already issued or consideration already received.
+
+(4) The Minister may by regulations prescribe supplies of goods or services which shall be excluded from subsection (3).
+
+(5) Subject to subsections (3) and (7), where —
+
+(a) a person making a supply of goods or services also makes a supply of financial services referred to in paragraph 1 of the Fourth Schedule to the recipient of the goods or services in respect of the supply of the goods or services; and
+
+(b) the financial services provide for payment by instalments,
+
+then the supply of the goods or services shall be treated as wholly taking place at the time when —
+
+(i) the invoice in respect of the first instalment is issued or the first instalment is paid; or
+
+(ii) where both events occur, the first of the 2 events occurs.
+
+(6) Subject to subsection (7), where, pursuant to a supply of goods or services —
+
+(a) a taxable person —
+
+(i) in the case of a supply of goods —
+
+(A) if the goods are to be removed, allows their removal; or
+
+(B) if the goods are not to be removed, makes them available to the person to whom they are supplied; or
+
+(ii) in the case of a supply of services, performs the services,
+
+as the case may be, whether on a single occasion or on different occasions;
+
+(b) the person then ceases to be a taxable person; and
+
+(c) no invoice or consideration covering the whole of the supply has been issued or received, as the case may be, by the taxable person prior to the date when the person ceases to be a taxable person,
+
+the supply of goods or services shall be treated as taking place on the day immediately before the day the person ceases to be a taxable person, to the extent that it is not covered by any invoice already issued or consideration already received.
+
+(7) Subsections (2), (3), (5) and (6) shall not apply in relation to —
+
+(a) any supply of goods referred to in section 11(3)(a) or (c); or
+
+(b) any supply of goods or services made by a person whose application has been allowed by the Comptroller under section 11(3)(b).
+
+[20/2010 wef 01/01/2011]
+
+### Time of supply: directions and regulations
+
+12\.—(1) Notwithstanding sections 11, 11A and 11B, the Comptroller may, at the request of a taxable person, by direction in writing alter the time at which supplies made by the taxable person (or such supplies made by him as may be specified in the direction) are to be treated as taking place, either —
+
+(a) by directing that those supplies be treated as taking place —
 
 (i) at times or on dates determined by or by reference to the occurrence of some event described in the direction; or
 
@@ -546,33 +686,39 @@ subsections (2) and (3) shall have effect in relation to that supply as if —
 
 the resulting times or dates being in every case earlier than would otherwise apply; or
 
-(b) by directing that, notwithstanding subsections (2) and (3), those supplies shall (to the extent that they are not treated as taking place at the time mentioned in subsection (1)) be treated as taking place —
+(b) by directing that those supplies shall (to the extent that they are not treated as taking place at the time any invoice is issued or any consideration is received in respect thereof) be treated as taking place —
 
 (i) at the beginning of the relevant working period (as defined in his case in and for the purposes of the direction); or
 
 (ii) at the end of the relevant working period (as so defined).
 
-(6) Where there is a supply of goods by virtue only of a transfer or disposal of assets under paragraph 5(1) of the Second Schedule, the supply is treated as taking place when the goods are transferred or disposed of as mentioned in that paragraph.
+(2) Notwithstanding sections 11, 11A and 11B, the Minister may by regulations —
 
-(7) Where there is a supply of services by virtue only of paragraph 5(3) of the Second Schedule, the supply is treated as taking place when the goods are appropriated to the use mentioned in that paragraph.
+(a) make provision with respect to the time at which (notwithstanding sections 11, 11A, 11B and 38(4)) a supply is to be treated as taking place in cases where —
 
-(8) The Minister may by regulations make provision with respect to the time at which (notwithstanding subsections (1) to (3), (6) and (7) and sections 11 and 38(4)) a supply is to be treated as taking place in cases where —
+(i) it is a supply of goods or services for a consideration the whole or part of which is determined or payable periodically, or from time to time, or at the end of any period;
 
-(a) it is a supply of goods or services for a consideration the whole or part of which is determined or payable periodically, or from time to time, or at the end of any period;
+(ii) it is a supply of goods for consideration the whole or part of which is determined at the time when the goods are appropriated for any purpose; or
 
-(b) it is a supply of goods for a consideration the whole or part of which is determined at the time when the goods are appropriated for any purpose;
+(iii) there is a supply to which sections 27, 37A and 38 apply; and
 
-(c) there is a supply of services by virtue of paragraph 5(3) of the Second Schedule; or
+(b) prescribe when consideration for a supply of goods or services of a specified type, or provided in a specified manner, is to be regarded as having been received.
 
-(d) there is a supply to which sections 27, 37A and 38 apply.
+(3) Regulations made under subsection (2)(a) may provide for goods or services to be treated as separately and successively supplied at prescribed times or intervals.
 
-[26/99; 19/2003]
+[20/2010 wef 01/01/2011]
 
-(9) For any case referred to in subsection (8), the regulations may provide for goods or services to be treated as separately and successively supplied at prescribed times or intervals.
+### Time of supply: transitional provision
 
-(10) In this section, “tax invoice” means such an invoice as is required under section 41(1) or would be so required if the person to whom the supply is made were a taxable person.
+12A\. Notwithstanding anything in section 11, 11A, 11B or 12, the repealed sections 11 and 12 in force immediately before the date of commencement of section 3 of the Goods and Services Tax (Amendment) Act 2010 shall apply to any supply that is —
 
-[UK VAT Act 1983, s. 5]
+(a) a supply of goods pursuant to which the goods are removed or made available before 1st January 2011; or
+
+(b) a supply of services pursuant to which the services are performed before 1st January 2011,
+
+other than any supply to which regulations made under subsection (8) of that repealed section 12 applies.
+
+[20/2010 wef 01/01/2011]
 
 ### Place of supply
 
@@ -664,6 +810,8 @@ and shall be charged on —
 
 (ii) the importation of goods, by reference to the value of the goods as determined under this Act.
 
+[28/2007 wef 01/07/2007]
+
 ### Value of supply of goods or services
 
 17\.—(1) For the purposes of this Act and subject to the Third Schedule, the value of any supply of goods or services shall be determined in accordance with this section.
@@ -682,17 +830,37 @@ and shall be charged on —
 
 ### Value of imported goods
 
-18\.—(1) For the purposes of this Act and subject to the Third Schedule, the value of imported goods shall be determined in accordance with this section.
+18\.—(1) For the purposes of this Act, the value of imported goods shall be determined as follows:
 
-(2) If the goods are imported at a price in money payable as on a transfer of the property, there being no other consideration, the value is an amount equal to the price, plus (so far as not already included) —
+(a) subject to paragraph (b), the value of the goods shall be the aggregate of the following:
 
-(a) all taxes, duties and other charges levied either outside or, by reason of importation, within Singapore (except goods and services tax); and
+(i) the value of the goods determined in accordance with such method of valuation as may be prescribed pursuant to section 22 of the Customs Act (Cap. 70); and
 
-(b) all costs by way of commission, packing, transport and insurance and all other costs, charges and expenses incidental to the sale and the delivery of the goods up to the port or place of importation.
+(ii) so far as not already included in the value referred to in sub-paragraph (i), all taxes, duties and other charges levied either outside or, by reason of importation, within Singapore (except goods and services tax); and
 
-(3) Where subsection (2) does not apply, the value of the goods is their open market value as determined in accordance with any written law relating to the valuation of goods for customs purposes, plus (so far as not already included in that value) all such taxes, duties, charges and costs as are specified in subsection (2)(a) and (b) unless the Comptroller in his discretion determines that the value of the goods is an amount equal to the price as stated in the invoice plus the taxes, duties, charges and costs as specified in subsection (2)(a) and (b).
+(b) subject to the Third Schedule, where goods from outside Singapore enter Singapore under customs control and one or more supplies of those goods involve —
 
-[UK VAT Act 1983, s. 11]
+(i) the goods being removed from a place under such customs control; or
+
+(ii) the goods being made available whilst under such customs control,
+
+the value of the goods shall be the aggregate of the following:
+
+(A) the value of the last of such supplies; and
+
+(B) so far as not already included in the value referred to in sub-paragraph (A) —
+
+(BA) all taxes, duties and other charges levied either outside or, by reason of importation, within Singapore (except goods and services tax); and
+
+(BB) all costs by way of commission, packing, transport and insurance and all other costs, charges and expenses incidental to the sale and the delivery of the goods up to the port or place of importation.
+
+(2) In the application of the Customs Act (Cap. 70), by virtue of section 26, to any goods which are not subject to either customs duty or excise duty, such goods shall be construed as being under “customs control” within the meaning of section 3(2) of the Customs Act —
+
+(a) as if they are dutiable goods; and
+
+(b) as if the reference to a licensed warehouse in section 3(2) of the Customs Act includes a warehouse or other place licensed under section 37(5)(b).
+
+[20/2010 wef 01/01/2011]
 
 ## PART IV
 
@@ -764,6 +932,8 @@ the taxable person shall account of an amount equal to such input tax —
 
 and the taxable person shall repay such amount to the Comptroller at the same time as any tax in respect of the prescribed accounting period would be payable by him.
 
+[38/2005 wef 01/01/2006]
+
 (12A) Where a taxable person —
 
 (a) has complied with subsection (12); and
@@ -771,6 +941,8 @@ and the taxable person shall repay such amount to the Comptroller at the same ti
 (b) during the subsequent specified period, pays his supplier the whole or part of the consideration for the supply of goods or services referred to in subsection (12)(a),
 
 the taxable person shall be entitled to treat an amount equal to the input tax relating to the payment referred to in paragraph (b) as if it were input tax for the prescribed accounting period during which the payment was made.
+
+[38/2005 wef 01/01/2006]
 
 (13) The Minister may by regulations provide —
 
@@ -805,6 +977,8 @@ the taxable person shall be entitled to treat an amount equal to the input tax r
 (i) commencing on the day immediately following the end of the initial specified period; and
 
 (ii) ending on a day 5 years from the end of that prescribed accounting period.
+
+[38/2005 wef 01/01/2006]
 
 [UK VAT Act 1983, s. 14]
 
@@ -870,13 +1044,25 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (a) services (not being ancillary transport activities such as loading, unloading and handling) comprising the transport of passengers or goods —
 
-(i) from a place outside Singapore to another place outside Singapore;
+(i) in the case of transport by air or land, where the transportation is —
 
-(ii) from a place in Singapore to a place outside Singapore; or
+(A) from a place outside Singapore to another place outside Singapore;
 
-(iii) from a place outside Singapore to a place in Singapore;
+(B) from a place in Singapore to a place outside Singapore; or
 
-(b) services (including any ancillary transport activities such as loading, unloading and handling) comprising the transport of goods from a place in Singapore to another place in Singapore to the extent that those services are supplied by the same supplier as part of the supply of services to which paragraph (a)(ii) or (iii) applies;
+(C) from a place outside Singapore to a place in Singapore; and
+
+[20/2010 wef 01/01/2011]
+
+(ii) in the case of transport by sea, where the transportation is —
+
+(A) from a place outside Singapore to another place outside Singapore; or
+
+(B) from a place in Singapore or to a place in Singapore, and substantially outside Singapore;
+
+[20/2010 wef 01/01/2011]
+
+(b) services (including any ancillary transport activities such as loading, unloading and handling) comprising the transport of goods from a place in Singapore to another place in Singapore to the extent that those services are supplied by the same supplier as part of the supply of services to which paragraph (a)(i) and (ii) (other than in relation to any transportation that is from a place outside Singapore to another place outside Singapore) applies;
 
 [20/2010 wef 01/01/2011]
 
@@ -994,7 +1180,7 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 [25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
-(4) For the purposes of subsection (3) —
+(4) For the purposes of subsections (3), (6), (6A) and (6B) —
 
 (a) 
 
@@ -1014,7 +1200,15 @@ where the Comptroller is satisfied that the advertisement is intended to be subs
 
 “qualifying aircraft parts” means such parts and equipment as are designed and built for exclusive use on an aircraft;
 
-“ship” means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Maritime and Port Authority of Singapore Act (Cap. 170A) as a passenger harbour craft or pleasure craft;
+“ship” means any ship (including an oil rig) but does not include any ship —
+
+(i) that is licensed under the Maritime and Port Authority of Singapore Act (Cap. 170A) as a passenger harbour craft or pleasure craft;
+
+(ii) in respect of which a vessel permit has been granted by the Public Utilities Board under regulations made under the Public Utilities Act (Cap. 261); or
+
+(iii) that is designed or adapted for use for recreation or pleasure and is so used within Singapore (unless the use within Singapore is for such purpose that is incidental to its use outside Singapore as the Comptroller may allow);
+
+[20/2010 wef 01/01/2011]
 
 (b) the services in subsection (3)(e) include —
 
@@ -1064,17 +1258,41 @@ being services performed substantially in Singapore.
 
 (a) has exported them; or
 
-(b) has shipped them for use as stores on a voyage or flight to or from a destination outside Singapore or as merchandise for sale by retail to persons carried on such a voyage or flight in a ship or aircraft,
+(b) has ship ped them —
+
+(i) for use as stores or fuel on an aircraft; or
+
+(ii) for sale by retail as merchandise to persons carried on an aircraft,
+
+[20/2010 wef 01/01/2011]
 
 and in either case, if such other conditions or restrictions, if any, as may be prescribed by the Minister in regulations or as the Comptroller may impose are fulfilled.
 
+(6A) Subject to subsection (6B), a supply relating to goods is zero-rated where the Comptroller is satisfied that the goods are —
+
+(a) for use as stores or fuel on a ship;
+
+(b) for installation on a ship or a ship under construction;
+
+(c) for use in the maintenance or operation of a ship; or
+
+(d) for sale by retail as merchandise to persons carried on a ship,
+
+and, in any of those cases, if such other conditions or restrictions, if any, as may be prescribed by the Minister in regulations or as the Comptroller may impose are fulfilled.
+
+[20/2010 wef 01/01/2011]
+
+(6B) Where there is a supply relating to goods referred to in subsection (6A) in relation to any ship which is designed or adapted for use for recreation or pleasure, the supply is zero-rated under that subsection only if the Comptroller is satisfied that the goods are used outside of Singapore.
+
+[20/2010 wef 01/01/2011]
+
 (7) The Minister may by regulations provide for the zero-rating of supplies of goods, or of such goods as may be specified in the regulations, in cases where the Comptroller is satisfied that the goods have been or are to be exported and such other conditions, if any, as may be specified in the regulations or as the Comptroller may impose are fulfilled.
 
-(8) Where the supply of any goods has been zero-rated under subsection (6) or regulations made under subsection (7) and —
+(8) Where the supply of any goods has been zero-rated under subsection (6) or (6A) or regulations made under subsection (7) and —
 
 (a) the goods are found in Singapore after the date on which they were alleged to have been or were to be exported or shipped; or
 
-(b) any condition specified in the regulations made under subsection (6) or (7) or imposed by the Comptroller is not complied with,
+(b) any condition specified in the regulations made under subsection (6), (6A) or (7) or imposed by the Comptroller is not complied with,
 
 [20/2010 wef 01/01/2011]
 
@@ -1100,6 +1318,10 @@ and the presence of the goods in Singapore after that date or the failure to com
 
 to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool or machinery is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
 
+[28/2007 wef 01/07/2007]
+
+[33/2008 wef 01/01/2009]
+
 (2) Where a supply of goods or services by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
 
 (a) no tax shall be charged on the supply; but
@@ -1118,19 +1340,21 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 [UK VAT Act 1983, s. 17]
 
-### Relief on supply of certain secondhand goods
+### Relief on supply of certain goods under Margin Scheme
 
 23\.—(1) The Minister may by regulations make provision for securing a reduction of the tax chargeable on the supply of goods of such descriptions as may be specified in the regulations in cases where no tax was chargeable on a previous supply of the goods and such other conditions are satisfied as may be specified in the regulations or as may be imposed by the Comptroller.
 
 (2) Tax chargeable on the supply of goods referred to in subsection (1) shall (unless otherwise provided in regulations made under this section) be reduced to the tax charged as if the supply of such goods was for a consideration equal to the
 
-excess of A — B,
+excess of A – B,
 
-where
+where A
 
-A is the consideration for which the goods are supplied; and
+is the consideration for which the goods are supplied; and
 
-B is the consideration for which the goods were acquired,
+B
+
+is the consideration for which the goods were acquired,
 
 and accordingly where there is no excess, the tax shall not be charged.
 
@@ -1282,9 +1506,15 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (b) any written law relating to customs or excise duties applicable in accordance with section 26.
 
+[20/2010 wef 01/10/2010]
+
 (2) Regulations made under subsection (1) may require a taxable person referred to in that subsection to account for and pay the tax chargeable on the importation of the goods in such form and manner, within such time and to such person as may be prescribed.
 
+[20/2010 wef 01/10/2010]
+
 (3) The Comptroller may, for the protection of revenue, impose conditions in relation to any importation of goods referred to in subsection (1).
+
+[20/2010 wef 01/10/2010]
 
 (4) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
 
@@ -1320,7 +1550,11 @@ SPECIAL CASES
 
 (f) for such incidental and supplementary matters as appear to the Minister necessary or expedient.
 
+[28/2007 wef 01/07/2007]
+
 (2) Where input tax is deemed to have been incurred under any regulations made under subsection (1), such deemed input tax shall, for the purposes of this Act, be treated as input tax within the meaning of section 19.
+
+[28/2007 wef 01/07/2007]
 
 ### Persons treated as a group
 
@@ -1368,11 +1602,17 @@ SPECIAL CASES
 
 (3) Without prejudice to section 36 of the Partnership Act (Cap. 391) (rights of persons dealing with firm against apparent members of firm) as it applies to any form of partnership, until the date on which a change in the partnership is notified to the Comptroller in writing, a person who has ceased to be a member of a partnership shall be regarded as continuing to be a partner for the purposes of this Act and, in particular, for the purpose of any liability for tax on the supply of goods or services by the partnership.
 
+[37/2008 wef 04/05/2009]
+
 (4) Where a person ceases to be a member of a partnership during a prescribed accounting period (or is treated as so doing by virtue of subsection (3)) any notice, whether of assessment or otherwise, which is served on the partnership and relates to, or to any matter arising in, that period or any earlier period during the whole or part of which he was a member of the partnership shall be treated as served also on him.
 
 (5) Without prejudice to section 16 of the Partnership Act (notice to acting partner to be notice to the firm) as it applies to any form of partnership, any notice, whether of assessment or otherwise, which is addressed to a partnership by the name in which it is registered by virtue of subsection (1) and is served in accordance with this Act shall be treated for the purposes of this Act as served on the partnership and, accordingly, where subsection (4) applies, as served also on the former partner.
 
+[37/2008 wef 04/05/2009]
+
 (6) Subsections (1) and (4) shall not affect the extent to which, under section 9 of the Partnership Act as it applies to any form of partnership, a partner is liable for tax owed by the firm.
+
+[37/2008 wef 04/05/2009]
 
 (7) Where a person is a partner in a firm during part only of a prescribed accounting period, his liability for tax on the supply by the firm of goods or services during that accounting period shall be such proportion of the firm’s liability as may be just.
 
@@ -1391,6 +1631,8 @@ SPECIAL CASES
 (3) The registration under this Act of any such club, association, society or organisation may be in the name of the club, association, society or organisation; and in determining whether goods or services are supplied to or by such a club, association, society or organisation, no account shall be taken of any change in its members.
 
 (3A) The registration under this Act of any person who, as trustee, is carrying on the business of a trust created by express written declaration shall be in the name of the trust.
+
+[19/2009 wef 01/01/2010]
 
 (4) Where a taxable person dies, or goes into liquidation or receivership, or becomes bankrupt or incapacitated, the Comptroller may, from the date of the death, liquidation, receivership, bankruptcy or incapacity until such time when another person is registered in respect of the taxable supplies made or intended to be made by that taxable person in the course or furtherance of his business or in the case of incapacity until such time as the incapacity ceases, deem any person carrying on that business to be a taxable person.
 
@@ -1510,6 +1752,8 @@ the transferee shall be deemed to have incurred input tax on the value of the su
 
 35A\.—(1) The Minister may, by regulations, modify the application of the provisions of this Act to transactions involving vouchers granted for consideration.
 
+[19/2009 wef 01/01/2010]
+
 (2) Any regulations made under this section —
 
 (a) may provide that any transaction involving a voucher or any part of such transaction is to be treated as —
@@ -1519,6 +1763,8 @@ the transferee shall be deemed to have incurred input tax on the value of the su
 (ii) neither a supply of goods nor a supply of services; and
 
 (b) may make different provisions with respect to different transactions or parts thereof, different vouchers or different circumstances.
+
+[19/2009 wef 01/01/2010]
 
 (3) In this section —
 
@@ -1550,11 +1796,15 @@ the redemption of which in accordance with its terms entitles the holder to rece
 
 (b) any prepaid phone card or similar item the redemption of which in accordance with its terms entitles the holder to receive telephone or like services up to the value stated on or recorded in or in respect of the voucher, whether such value is in terms that are monetary or non-monetary.
 
+[19/2009 wef 01/01/2010]
+
 (4) For the purpose of paragraph (a) of the definition of “voucher” in subsection (3) —
 
 (a) where the monetary value stated on or recorded in or in respect of it a voucher is the value ascribed to the goods or services specified on the voucher as being the goods or services that may be supplied upon redemption of the voucher, that voucher shall not be treated as having stated on or recorded in or in respect of it a value in monetary terms; and
 
 (b) where the non-monetary value stated on or recorded in or in respect of it a voucher is in terms of any goods or services that may be supplied upon redemption of the voucher, that voucher shall not be treated as having stated on or recorded in or in respect of it a value in non-monetary terms.
+
+[19/2009 wef 01/01/2010]
 
 (5) For the purpose of the definition of “voucher” in subsection (3) —
 
@@ -1569,6 +1819,8 @@ is conferred by any means (including any electronic means) other than by way of 
 (b) where the right to receive telephone services via the Internet is acquired through the Internet,
 
 the supply of that right shall be treated as if it were a supply of a card or prepaid phone card as referred to in paragraph (a)(v) or (b) of that definition, as the case may be.
+
+[19/2009 wef 01/01/2010]
 
 ### Commodity, futures or securities markets and exchanges
 
@@ -1586,91 +1838,147 @@ and may contain such incidental and supplementary provisions as appear to the Mi
 
 [UK VAT Act 1983, s. 34]
 
-### Goods subject to a warehousing regime
+### Goods under customs control
 
-37\.—(1) Where imported goods subject to a duty (whether customs or excise duty or both customs duty and excise duty) or on which tax would apart from this section be chargeable are supplied while they are subject to a warehousing regime and before the duty point, then —
+37\.—(1) Subject to subsection (4), where goods from outside Singapore enter Singapore under customs control and one or more supplies of those goods involve —
 
-(a) if there is more than one such supply, any but the last such supply shall, except where the contrary intention appears, be disregarded for the purposes of this Act;
+(a) the goods being removed from a place under such customs control; or
 
-(b) the supply or, if more than one, the last such supply shall be treated for the purposes of this Act as taking place at the duty point and the value of the supply shall be treated as including the duty, if any; and
+(b) the goods being made available whilst under such customs control,
 
-(c) the tax on the supply shall be payable at the duty point, together with the duty, if any, by the person who is required to pay the duty or, if no duty is payable, by the person by whom the goods are removed; except as otherwise provided by regulations under this section.
+then (except for the purposes of section 18(1)(b)) all such supplies of the goods shall be disregarded for the purposes of this Act.
 
-(2) Where goods produced or manufactured in Singapore subject to excise duty or such goods mixed with imported goods subject to a duty (whether customs or excise duty or both customs duty and excise duty) are supplied while they are subject to a warehousing regime and before the duty point, then —
+(2) Subject to subsection (4), where —
 
-(a) if there is more than one such supply, any but the last such supply shall, except where the contrary intention appears, be disregarded for the purposes of this Act;
+(a) goods are produced or manufactured whilst under customs control in the customs territory in a place specified in a licence granted under section 63(1) of the Customs Act (Cap. 70) or such produced or manufactured goods are mixed, whilst under customs control in the customs territory, with imported goods; and
 
-(b) the supply or, if more than one, the last such supply shall be treated for the purposes of this Act as taking place at the duty point and the value of the supply shall be treated as including the duty; and
+(b) one or more supplies of the produced or manufactured goods, or those produced or manufactured goods mixed with imported goods, involve —
 
-(c) the tax on the supply shall be payable at the duty point, together with the duty, by the person who is required to pay the duty, except as otherwise provided by regulations made under this section.
+(i) the goods being removed from a place under such customs control; or
 
-(2A) Notwithstanding subsection (2), if the goods are permitted to be removed from a warehousing regime without payment of the duty, the supply (or last supply) shall be treated as taking place when the goods are so removed, the value of the supply shall not be treated as including the duty and the tax on the supply shall be payable by the person by whom the goods are removed.
+(ii) the goods being made available whilst under such customs control,
 
-(2B) For the purposes of subsections (1) and (2), where —
+then —
 
-(a) the warehousing regime is in respect of a warehouse that is outside the free trade zone (referred to in this subsection as the first warehouse);
+(A) all such supplies other than the last supply shall, except where the contrary intention appears, be disregarded for the purposes of this Act; and
 
-(b) the Comptroller has approved that goods in the first warehouse may be removed from the warehouse —
+(B) the following shall apply in relation to the last supply:
 
-(i) for the purpose of an auction, an exhibition or other similar event involving the display of goods; and
+(BA) the supply shall be treated for the purposes of this Act as taking place at the time the goods are removed from such customs control;
 
-(ii) subject to such conditions and for such period as may be specified by the Comptroller in his approval,
+(BB) the value of the supply shall be treated as including any customs duty or excise duty to which the goods are subject;
 
-and the goods are thereupon removed from the first warehouse;
+(BC) the tax on the supply shall be payable at the duty point —
 
-(c) the conditions referred to in paragraph (b)(ii) are complied with; and
+(I) if the goods are subject to customs duty or excise duty, by the person required to pay any such duty, unless otherwise prescribed; and
 
-(d) after the auction, exhibition or other similar event, the goods are brought, with the approval of the Comptroller, back to the first warehouse or to any other warehouse outside the free trade zone (referred to in this subsection as the second warehouse) at or before the end of the period referred to in paragraph (b)(ii),
+(II) if the goods are not subject to customs duty or excise duty, by the person by whom the goods are removed.
 
-then the goods shall be treated as if they were continuously subject to a warehousing regime from the time they were in the first warehouse until they are delivered back to the first warehouse or delivered to the second warehouse, as the case may be.
+(3) Subject to subsection (4), where —
 
-(3) The Minister may by regulations make provision —
+(a) imported goods that are under customs control (referred to in this section as the first-mentioned goods) are used to produce or manufacture other goods in the customs territory in a place specified in a licence granted under section 63(1) of the Customs Act (Cap. 70); and
 
-(a) for enabling goods which are supplied as mentioned in subsection (1) or (2), and are so supplied to a taxable person for the purpose of a business carried on by him, to be removed from a warehousing regime without payment of the tax on the supply;
+(b) no supplies of the other goods involve —
 
-(b) for that tax to be accounted for together with the tax chargeable on the supply of goods or services by him; and
+(i) the other goods being removed from a place under such customs control; or
 
-(c) for the licensing of warehouses or other premises for the purposes of this section and such regulations may provide for the imposition of conditions thereon and the payment of any prescribed fee.
+(ii) the other goods being made available whilst under such customs control,
 
-(4) No person shall remove from a warehousing regime any goods subject to a duty (whether customs or excise duty or both customs duty and excise duty) or on which tax would apart from this section be chargeable except —
+then, when the other goods are removed from customs control —
 
-(a) after payment of the duty or tax payable or chargeable thereon; or
+(A) the first-mentioned goods shall be treated as having been removed from customs control at the time the other goods are produced or manufactured; and
 
-(b) in accordance with such conditions as the Comptroller may impose.
+(B) the tax payable on the importation of the first-mentioned goods shall be payable at the duty point pertaining to the other goods —
 
-(5) In the application of the Customs Act (Cap. 70), by virtue of section 26, to any goods which are not subject to either customs or excise duty, such goods shall be construed as being under “customs control” within the meaning of section 3(2) of the Customs Act if they are subject to a warehousing regime under this section; and shall be construed as removed from customs control if they are removed from a warehousing regime.
+(BA) if the other goods are subject to customs duty or excise duty, by the person who is required to pay the duty; and
 
-(6) In this section —
+(BB) if the other goods are not subject to customs duty or excise duty, by the person by whom the other goods are removed,
+
+unless otherwise prescribed.
+
+(4) Notwithstanding subsections (1), (2) and (3), where —
+
+(a) the goods referred to in subsections (1), (2)(a) and (3)(a) are brought under customs control into the customs territory and are thereafter —
+
+(i) brought to any place from which they may not be removed except with the permission of the proper officer of customs (and by virtue of which the goods continue to remain under customs control); and
+
+(ii) brought to that place for the purpose of an auction, an exhibition or other similar event involving the display of goods;
+
+(b) one or more supplies of the goods are made whilst they are in that place; and
+
+(c) the goods supplied are then removed directly from that place so as to be removed from customs control,
+
+those supplies shall not be disregarded for the purpose of this Act and shall be chargeable to tax in accordance with the provisions of this Act (other than this section).
+
+(5) The Minister may by regulations —
+
+(a) provide that the goods referred to in subsection (1), (2)(a) or (3)(a) —
+
+(i) may be removed from customs control without payment of the tax in such circumstances as may be prescribed; and
+
+(ii) for such tax to be accounted for together with the tax chargeable on the supply of goods or services by him;
+
+(b) provide for the licensing of warehouses or other places for the purposes of this section and such regulations may provide for the imposition of conditions thereon and the payment of any prescribed fee; and
+
+(c) prescribe anything which may be prescribed under this section.
+
+(6) In the application of the Customs Act (Cap. 70), by virtue of section 26, to any goods which are not subject to either customs duty or excise duty, such goods shall be construed as being under “customs control” within the meaning of section 3(2) of the Customs Act —
+
+(a) as if they are dutiable goods; and
+
+(b) as if the reference to a licensed warehouse in section 3(2) of the Customs Act includes a warehouse or other place licensed under this section.
+
+(7) In this section —
+
+“customs territory” and “proper officer of customs” have the same meanings as in section 3(1) of the Customs Act;
 
 “duty point”, in relation to any goods, means —
 
-(a) in the case of goods which are subject to customs or excise duty or both customs duty and excise duty, the time when the requirement to pay the customs or excise duty takes effect, whichever is the earlier; or
+(a) in the case of goods which are subject to customs duty or excise duty or both customs duty and excise duty, the time when the customs duty or excise duty takes effect, whichever is the earlier; or
 
-(b) in the case of goods which are not subject to either customs or excise duty, the time when the goods are removed from the warehousing regime;
+(b) in the case of goods which are not subject to either customs duty or excise duty, the time when the goods are removed from customs control.
 
-“warehouse” means any warehouse licensed under the Customs Act for warehousing dutiable goods or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3)(c) where goods may be stored without payment of any one or more of the following:
+[20/2010 wef 01/01/2011]
 
-(a) customs or excise duty;
+### Treatment or processing of goods of a person belonging in a country other than Singapore
 
-(b) goods and services tax on the importation of the goods into Singapore.
+37A\.—(1) The Minister may by regulations make provisions for a supply, made by a taxable person approved by the Comptroller, which comprises the treatment or processing of goods —
 
-[3/2008 wef 04/04/2008]
+(a) under a contract with a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person); and
 
-(7) A reference in this section to goods being subject to a warehousing regime shall be a reference to goods being kept in a warehouse or within the free trade zone or being transported between warehouses without the payment of any duty or tax; and a reference to the removal of goods from a warehousing regime shall be construed accordingly.
+[20/2010 wef 01/01/2011]
 
-[UK VAT Act 1983, s. 35]
+(b) which directly benefits a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person),
 
-### Treatment or processing of goods for and to a person belonging in a country other than Singapore
+[20/2010 wef 01/01/2011]
 
-37A\.—(1) The Minister may by regulations make provisions for a supply, made by a taxable person approved by the Comptroller, which comprises the treatment or processing of goods for and to a person who belongs in a country other than Singapore to be disregarded for the purposes of this Act subject to such conditions or restrictions as may be prescribed or as the Comptroller may impose for the protection of the revenue.
+to be disregarded for the purposes of this Act subject to such conditions or restrictions as may be prescribed or as the Comptroller may impose for the protection of the revenue.
 
 [20/2010 wef 01/01/2011]
 
 [26/99]
 
-(2) Regulations made under subsection (1) may require that another taxable person, who receives such treated or processed goods from the taxable person referred to in subsection (1), shall account for and pay the tax as if the recipient had himself supplied the goods in Singapore in the course or furtherance of his business, and as if that supply were a taxable supply.
+[20/2010 wef 01/01/2011]
 
-[26/99]
+(2) Regulations made under subsection (1) may provide for the following:
+
+(a) for the treated or processed goods to be delivered only to —
+
+(i) any taxable person approved by the Comptroller; or
+
+(ii) the customer of an overseas person to whom the overseas person supplies the goods,
+
+and, where any taxable person (including a taxable person referred to in subsection (1)) fails to do so, for the taxable person to pay to the Comptroller an amount equal to the tax that would have been payable if the taxable person had himself made a supply of the goods in the course or furtherance of his business;
+
+(b) for a taxable person approved by the Comptroller who receives the treated or processed goods from another approved person to declare, in such form and manner as the Comptroller may require, his receipt of those goods;
+
+(c) where a taxable person approved by the Comptroller delivers the goods to the customer of an overseas person referred to in paragraph (a)(ii), for the taxable person to account for and pay tax in substitution for the overseas person, as if the taxable person had himself supplied the goods to that customer in the course or furtherance of his business.
+
+[20/2010 wef 01/01/2011]
+
+(3) The Comptroller may publish the names and such other particulars of the taxable persons to whom regulations made under this section apply in such form or manner as he thinks fit.
+
+[20/2010 wef 01/01/2011]
 
 ### Customers to account for tax on certain supplies
 
@@ -1692,7 +2000,21 @@ it shall be for the person supplied, on the supplier’s behalf, to account for 
 
 (3) So much of this Act and of any written law as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay goods and services tax shall apply for the purposes of this section in relation to any person who is required under subsection (2) to account for and pay any tax as if that tax were tax on a supply made by him.
 
-(4) Section 12(1) to (5) shall not apply for determining when any prescribed supply of goods or services is to be treated as taking place.
+(4) Notwithstanding sections 11, 11A, 11B and 12, for the purposes of this section, a prescribed supply of goods or services shall be treated as taking place —
+
+(a) in the case of a prescribed supply that is a supply of goods —
+
+(i) if the goods are to be removed, at the time of the removal; or
+
+(ii) if the goods are not to be removed, at the time when they are made available to the person to whom they are supplied; or
+
+(b) in the case of a prescribed supply that is a supply of services, at the time when the services are performed.
+
+[20/2010 wef 01/01/2011]
+
+(4A) Section 12(1) shall not apply for determining the time when any prescribed supply of goods or services is to be treated as taking place.
+
+[20/2010 wef 01/01/2011]
 
 (5) In this section, “prescribed supply”, in relation to goods or services, means such supply of —
 
@@ -1708,117 +2030,119 @@ as may be specified or described in regulations made by the Minister.
 
 ### Supplies spanning change of rate, etc.
 
-39\.—(1) This section shall apply where there is a change in the rate of tax in force under section 16 or in the descriptions of exempt or zero-rated supplies.
+39\.—(1) This section shall apply where there is a change in the tax rate in force under section 16 or a change in the descriptions of exempt or zero-rated supplies, notwithstanding any different result that may arise by virtue of the application of sections 11, 11A, 11B and 12.
 
-[UK VAT Act 1983, s. 41 (1)]
+(2) Subject to subsections (3) and (7), where, pursuant to a supply of goods or services —
 
-(2) Subject to subsections (2A) and (2E), where —
+(a) before the change —
 
-(a) a supply affected by the change would, apart from section 12(1), (2), (3) or (5), be treated under section 11(2) or (3) as made wholly or partly at a time when it would not have been affected by the change; or
+(i) in the case of a supply of goods —
 
-(b) a supply not so affected would, apart from section 12(1), (2), (3) or (5), be treated under section 11(2) or (3) as made wholly or partly at a time when it would have been so affected,
+(A) if the goods are to be removed, they are removed; or
 
-the rate at which tax is chargeable on the supply, or any question whether it is zero-rated or exempt, shall, if the person making it so elects, be determined without regard to section 12(1), (2), (3) or (5).
+(B) if the goods are not to be removed, they are made available to the person to whom they are supplied; or
 
-[UK VAT Act 1983, s. 41 (2)]
+(ii) in the case of a supply of services, the services are performed,
 
-[43/2002]
+and, after the change, the invoice is issued or any consideration is received; or
 
-(2A) Where, in relation to a tax invoice issued before the date an increase in tax rate comes into operation —
+(b) before the change, the invoice is issued or any consideration is received before the change, and, after the change —
 
-(a) no payment or part payment is received before that date; or
+(i) in the case of a supply of goods —
 
-(b) no supply or part of the supply of goods or services is treated under section 11(2) or (3) as having been made before that date,
+(A) if the goods are to be removed, they are removed; or
 
-the rate at which tax is chargeable on the supply shall be as follows:
+(B) if the goods are not to be removed, they are made available to the person to whom they are supplied; or
 
-(i) tax shall be charged at the old tax rate on the higher of the following amounts:
+(ii) in the case of a supply of services, the services are performed,
 
-(A) any part payment received before the date of change; or
+then the rate at which tax is chargeable on the supply, or any question whether it is zero-rated or exempt, shall, if the person making it so elects, be determined at the time when the goods are removed or made available, or the services are performed, as the case may be.
 
-(B) the value of any supply of the goods or services treated under section 11(2) or (3) as having been partly made before that date; and
+(3) Where, in relation to an invoice issued before the date an increase in tax rate comes into operation —
 
-(ii) tax shall be charged at the new tax rate on the amount of the tax invoice less the amount on which tax is charged at the old tax rate under paragraph (i).
+(a) before that date, no consideration or only a part of the consideration was received; or
 
-[43/2002]
+(b) before that date —
 
-(2B) For the purpose of subsection (2A), a tax invoice referred to in that subsection shall, on the date the increase in tax rate comes into operation, cease to have effect to the extent of the amount on which tax is chargeable at the new tax rate under subsection (2A)(ii).
+(i) in the case of a supply of goods —
 
-[43/2002]
+(A) if the goods are to be removed, no goods were removed or only a part of the goods were removed; or
 
-(2C) Where a tax invoice ceases to have effect under subsection (2B), the person making the supply shall issue a new tax invoice specifying —
+(B) if the goods are not to be removed, no goods are made available or only a part of the goods were made available to the person to whom they are supplied; or
+
+(ii) in the case of a supply of services, no services were performed or only a part of the services were performed,
+
+then the rate at which tax is chargeable on the supply shall be as follows:
+
+(c) tax shall be charged at the old tax rate on the higher of the following amounts:
+
+(i) any part consideration received before the date of change; or
+
+(ii) the value of any goods removed or made available, or any services performed, as the case may be, before that date; and
+
+(d) tax shall be charged at the new tax rate on the amount of the invoice less the amount on which tax is charged at the old tax rate under paragraph (c).
+
+(4) For the purpose of subsection (3), an invoice referred to in that subsection shall, on the date the increase in tax rate comes into operation, cease to have effect to the extent of the amount on which tax is chargeable at the new tax rate under subsection (3)(d).
+
+(5) Where an invoice that ceases to have effect under subsection (4) is a tax invoice, the person making the supply shall issue a new tax invoice specifying —
 
 (a) the new tax rate; and
 
-(b) the amount on which tax is chargeable at the new tax rate under subsection (2A)(ii),
+(b) the amount on which tax is chargeable at the new tax rate under subsection (3)(d),
 
 and tax shall be chargeable on the supply to which the new tax invoice relates as if it were a separate supply.
 
-[43/2002]
+(6) Nothing in subsection (2), (3), (4) or (5) shall affect any tax which (apart from those subsections) is chargeable on a supply to which an invoice referred to in subsection (3) relates, and such tax shall be accounted for and paid to the Comptroller as if those subsections had not been enacted.
 
-(2D) Nothing in subsection (2), (2A), (2B) or (2C) shall affect any tax which (apart from those subsections) is chargeable on a supply to which an invoice referred to in subsection (2A) relates, and such tax shall be accounted for and paid to the Comptroller as if those subsections had not been enacted.
+(7) Where, in relation to an invoice issued before the date a supply ceases to be a zero-rated or an exempt supply —
 
-[43/2002]
+(a) before that date, no consideration or only a part of the consideration was received; or
 
-(2E) Where, in relation to a tax invoice issued before the date a supply ceases to be a zero-rated or an exempt supply —
+(b) before that date —
 
-(a) no payment or part payment is received before that date; or
+(i) in the case of a supply of goods —
 
-(b) no supply or part of the supply of goods or services is treated under section 11(2) or (3) as having been made before that date,
+(A) if the goods are to be removed, no goods were removed or only a part of the goods were removed; or
 
-tax shall be chargeable at the rate applicable on that date on the amount of the tax invoice less the higher of the following amounts:
+(B) if the goods are not to be removed, no goods are made available or only a part of the goods were made available to the person to whom they are supplied; or
 
-(i) any part payment received before that date; or
+(ii) in the case of a supply of services, no services were performed or only a part of the services were performed,
 
-(ii) the value of any supply of the goods or services treated under section 11(2) or (3) as having been partly made before that date.
+tax shall be chargeable at the rate applicable on that date on the amount of the invoice less the higher of the following amounts:
 
-[43/2002]
+(c) any part consideration received before that date; or
 
-(2F) For the purpose of subsection (2E), a tax invoice referred to in that subsection shall, on the date the supply ceases to be a zero-rated or an exempt supply, cease to have effect to the extent of the amount on which tax is chargeable under subsection (2E).
+(d) the value of any goods removed or made available, or any services performed, as the case may be, before that date.
 
-[43/2002]
+(8) For the purpose of subsection (7), an invoice referred to in that subsection shall, on the date the supply ceases to be a zero-rated or an exempt supply, cease to have effect to the extent of the amount on which tax is chargeable under subsection (7).
 
-(2G) Where a tax invoice ceases to have effect under subsection (2F), the person making the supply shall issue a new tax invoice specifying —
+(9) Where an invoice that ceases to have effect under subsection (8) is a tax invoice, the person making the supply shall issue a new tax invoice specifying —
 
 (a) the tax rate applicable on the date the supply ceases to be a zero-rated or an exempt supply; and
 
-(b) the amount on which tax is chargeable at that tax rate under subsection (2E),
+(b) the amount on which tax is chargeable at that tax rate under subsection (7),
 
-and tax shall be chargeable on the supply to which the new tax invoice relates as if it were a separate supply.
+and tax shall be chargeable on the supply to which the new invoice relates as if it were a separate supply.
 
-[43/2002]
-
-(3) Any power to make regulations under this Act with respect to the time when a supply is to be treated as taking place shall include power to provide for this section to apply as if the references to section 12(1), (2), (3) and (5) mentioned in subsection (2) included references to specified provisions of the regulations.
-
-[UK VAT Act 1983, s. 41 (3)]
-
-(4) Regulations made under section 41 may, in relation to any tax invoice which —
+(10) Regulations made under section 41 may, in relation to any tax invoice which —
 
 (a) relates to a supply in respect of which an election is made under this section and which was issued before the election was made; or
 
-(b) ceases to have effect under subsection (2B) or (2F),
+(b) ceases to have effect under subsection (4) or (8),
 
 provide for the replacement or correction of that invoice (including the issue of a credit note).
 
-[UK VAT Act 1983, s. 41 (4)]
+(11) No election may be made under this section in respect of a supply to which paragraph 6 of the Second Schedule applies.
 
-[43/2002]
+(12) For the purposes of this section, where only a part of the goods are removed or made available, or only a part of the services are performed, as the case may be, the value of the supply so partly made shall be such value as is, in the opinion of the Comptroller, reasonably attributable to the supply so partly made.
 
-(5) No election may be made under this section in respect of a supply to which paragraph 6 of the Second Schedule applies.
-
-[UK VAT Act 1983, s. 41 (5)]
-
-(6) For the purposes of this section, the value of any supply of goods or services treated under section 11(2) or (3) as having been partly made shall be such value as is, in the opinion of the Comptroller, reasonably attributable to the supply partly made.
-
-[43/2002]
-
-(7) In this section —
+(13) In this section —
 
 “new tax rate” means the tax rate applicable on the date an increase in tax rate comes into operation;
 
 “old tax rate” means the tax rate applicable immediately before the date an increase in tax rate comes into operation.
 
-[43/2002]
+[20/2010 wef 01/01/2011]
 
 ### Adjustment of contracts on changes in tax
 
@@ -1840,9 +2164,15 @@ ACCOUNTING AND ASSESSMENTS
 
 41\.—(1) The Minister may —
 
-(a) make regulations to require the keeping of accounts, the making of returns and the payment of tax in such form and manner and within such time as may be specified in the regulations; and
+(a) make regulations to require the keeping of accounts, the making of returns and the payment of tax in such form and manner and within such time as may be specified in the regulations;
 
-(b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied.
+[20/2010 wef 01/01/2011]
+
+(b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied; and
+
+(c) provide for the circumstances in which a document by a taxable person purporting to be a tax invoice in respect of a supply of goods or services to him by another taxable person, is to be treated as a tax invoice required under paragraph (b) to be provided by the taxable person supplying the goods or services.
+
+[20/2010 wef 01/01/2011]
 
 (2) Regulations made under this section may, where they require a tax invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
 
@@ -1896,21 +2226,17 @@ ACCOUNTING AND ASSESSMENTS
 
 as the case may be, shall be zero if the amount is less than $5 or such other amount as the Minister may by order prescribe.
 
-[20/2010 wef 01/10/2010]
-
 (8) At the end of a prescribed accounting period, the amount of tax due from a person that is tax accounted for by him pursuant to regulations made under section 27A shall be nil if it is less than $5 or such other amount as the Minister may by order prescribe.
-
-[20/2010 wef 01/10/2010]
 
 [UK VAT Act 1983, Sch. 7 Para. 2]
 
 ### Electronic service
 
-42\.—(1) The Comptroller may provide an electronic service for —
+42\.—(1) The Comptroller may provide for the following to be effected electronically:
 
 (a) the registration of taxable persons;
 
-(b) the filing or submission of any return, declaration or document; and
+(b) the filing or submission of any return, declaration, document, application or information; and
 
 [20/2010 wef 01/01/2011]
 
@@ -1920,11 +2246,11 @@ as the case may be, shall be zero if the amount is less than $5 or such other am
 
 [20/2010 wef 01/01/2011]
 
-(2) For the purposes of the electronic service, the Comptroller may assign to any person —
+(2) For the purposes of an electronic service, the Comptroller may assign to any person —
 
 (a) an authentication code; and
 
-(b) an account with the electronic service.
+(b) an account with an electronic service.
 
 [20/2010 wef 01/01/2011]
 
@@ -1936,11 +2262,11 @@ as the case may be, shall be zero if the amount is less than $5 or such other am
 
 (a) register himself, or request to cancel his registration, as a taxable person; or
 
-(b) file or submit any return, declaration or document , if he is required to do so,
+(b) file or submit any return, declaration, document, application or information, if he is required to do so,
 
 [20/2010 wef 01/01/2011]
 
-through the electronic service.
+through an electronic service.
 
 [20/2010 wef 01/01/2011]
 
@@ -1950,17 +2276,17 @@ through the electronic service.
 
 (a) register his principal, or request to cancel his principal’s registration, as a taxable person; or
 
-(b) file or submit any return, declaration or document on behalf of his principal,
+(b) file or submit any return, declaration, document, application or information on behalf of his principal,
 
 [20/2010 wef 01/01/2011]
 
-through the electronic service.
+through an electronic service.
 
 [20/2010 wef 01/01/2011]
 
 [50/2004]
 
-(5) Where any return, declaration or document is filed or submitted on behalf of any person under subsection (4) —
+(5) Where any return, declaration, document, application or information is filed or submitted on behalf of any person under subsection (4) —
 
 (a) it shall be deemed to have been filed or submitted with the authority of that person; and
 
@@ -1970,13 +2296,13 @@ through the electronic service.
 
 [20/2010 wef 01/01/2011]
 
-(6) Where any return, declaration or document is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
+(6) Where any return, declaration, document, application or information is filed or submitted through an electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
 
-(a) the return, declaration or document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
+(a) the return, declaration, document, application or information shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
 
 [20/2010 wef 01/01/2011]
 
-(b) where that person alleges that he did not file or submit the return, declaration or document, the burden shall be on him to adduce evidence of that fact.
+(b) where that person alleges that he did not file or submit the return, declaration, document, application or information, the burden shall be on him to adduce evidence of that fact.
 
 [20/2010 wef 01/01/2011]
 
@@ -1984,7 +2310,7 @@ through the electronic service.
 
 [20/2010 wef 01/01/2011]
 
-(7) Where any person has given his consent for any notice, direction, order, permit, receipt or other document to be served on him through the electronic service, the Comptroller may serve that document on that person by transmitting an electronic record of that document to that person’s account with the electronic service.
+(7) Where any person has given his consent for any notice, direction, order, permit, receipt or other document to be served on him through an electronic service, the Comptroller may serve that document on that person by transmitting an electronic record of that document to that person’s account with an electronic service.
 
 [20/2010 wef 01/01/2011]
 
@@ -1992,7 +2318,7 @@ through the electronic service.
 
 (8) Notwithstanding any other written law, in any proceedings under this Act —
 
-(a) an electronic record of any return, declaration or document that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through the electronic service; or
+(a) an electronic record of any return, declaration, document, application or information that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through an electronic service; or
 
 [20/2010 wef 01/01/2011]
 
@@ -2000,7 +2326,7 @@ through the electronic service.
 
 shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
 
-(i) is certified by the Comptroller to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
+(i) is certified by the Comptroller to contain all or any information filed, submitted or served through an electronic service in accordance with this section; and
 
 [20/2010 wef 01/01/2011]
 
@@ -2010,13 +2336,13 @@ shall be admissible as evidence of the facts stated or contained therein if that
 
 (9) For the avoidance of doubt —
 
-(a) an electronic record of any return, declaration or document that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through the electronic service; or
+(a) an electronic record of any return, declaration, document, application or information that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through an electronic service; or
 
 [20/2010 wef 01/01/2011]
 
 (b) any copy or print-out of that electronic record,
 
-shall not be inadmissible in evidence merely because the return, declaration or document was filed or submitted, or the notice, direction, order, permit, receipt or document was served, without the delivery of any equivalent document or counterpart in paper form.
+shall not be inadmissible in evidence merely because the return, declaration, document, application or information was filed or submitted, or the notice, direction, order, permit, receipt or document was served, without the delivery of any equivalent document or counterpart in paper form.
 
 [20/2010 wef 01/01/2011]
 
@@ -2026,17 +2352,17 @@ shall not be inadmissible in evidence merely because the return, declaration or 
 
 (a) giving the particulars of —
 
-(i) any person whose authentication code was used to file, submit or serve the return, declaration, notice, direction, order, permit, receipt or document; and
+(i) any person whose authentication code was used to file, submit or serve the return, declaration, application, information, notice, direction, order, permit, receipt or document; and
 
 [20/2010 wef 01/01/2011]
 
-(ii) any person or device involved in the production or transmission of the electronic record of the return, declaration, notice, direction, order, permit, receipt or document, or the copy or print-out thereof;
+(ii) any person or device involved in the production or transmission of the electronic record of the return, declaration, application, information, notice, direction, order, permit, receipt or document, or the copy or print-out thereof;
 
 [20/2010 wef 01/01/2011]
 
 (b) identifying the nature of the electronic record or copy thereof; and
 
-(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time,
+(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of an electronic service at the relevant time,
 
 [20/2010 wef 01/01/2011]
 
@@ -2044,13 +2370,13 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 [50/2004]
 
-(11) Where the electronic record of any return, declaration, notice, direction, order, permit, receipt or other document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
+(11) Where the electronic record of any return, declaration, application, information, notice, direction, order, permit, receipt or other document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
 
 [20/2010 wef 01/01/2011]
 
 [50/2004]
 
-(12) The Comptroller may, for the purposes of the electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
+(12) The Comptroller may, for the purposes of an electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
 
 [20/2010 wef 01/01/2011]
 
@@ -2058,15 +2384,15 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
 
-(a) the procedure for the use of the electronic service , including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
+(a) the procedure for the use of t an electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
 
 [20/2010 wef 01/01/2011]
 
-(b) the procedure for the correction of errors in, or the amendment of, any return, declaration or document that is filed or submitted through the electronic service;
+(b) the procedure for the correction of errors in, or the amendment of, that is filed or submitted through an electronic service;
 
 [20/2010 wef 01/01/2011]
 
-(c) the manner in which a person who has given his consent for a notice, a direction, an order, a permit, a receipt or any other document to be served on him through the electronic service shall be notified of the transmission of an electronic record of that document to his account with the electronic service;
+(c) the manner in which a person who has given his consent for a notice, a direction, an order, a permit, a receipt or any other document to be served on him through an electronic service shall be notified of the transmission of an electronic record of that document to his account with an electronic service;
 
 [20/2010 wef 01/01/2011]
 
@@ -2075,6 +2401,10 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 (e) anything which may be prescribed under this section.
 
 [50/2004]
+
+(14) In this section, “electronic service” means any service established or approved by the Comptroller for any or all of the purposes in subsection (1).
+
+[20/2010 wef 01/01/2011]
 
 ### Production of tax invoices by computer
 
@@ -2122,6 +2452,8 @@ the Comptroller may assess that amount as being tax due from him for the prescri
 
 (b) in the case of a prescribed accounting period ending on or after 1st January 2007, more than 5 years from the end of the prescribed accounting period.
 
+[28/2007 wef 01/07/2007]
+
 (5A) Notwithstanding subsection (5), where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, the Comptroller may for the purpose of making good any loss of tax or payment or refund of tax attributable to fraud or wilful default, make an assessment at any time.
 
 (6) Where a taxable person has acquired or imported any goods in the course or furtherance of any business carried on by him, the Comptroller may require him from time to time to account for the goods.
@@ -2158,7 +2490,11 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (10A) Where the Comptroller raises an assessment under subsection (1) upon the failure of a person to make any returns, and, subsequent to such assessment, the person makes a return, the Comptroller may, in his discretion, take into account the return and revise his assessment as he deems fit.
 
+[28/2007 wef 01/07/2007]
+
 (10B) For the purpose of subsection (10A), where a person makes a return in respect of a prescribed accounting period ending on or after 1st January 2007 more than 5 years from the end of the prescribed accounting period, the return shall be treated as not having been made.
+
+[28/2007 wef 01/07/2007]
 
 (11) For the purposes of this section, notification to a personal representative, trustee in bankruptcy, receiver, liquidator or person otherwise acting as aforesaid shall be treated as notification to the person in relation to whom he so acts.
 
@@ -2187,6 +2523,8 @@ make a supplementary assessment of the amount of the excess and shall notify the
 (a) in the case of records relating to a prescribed accounting period ending before 1st January 2007, for a period of not less than 7 years from the end of the prescribed accounting period; and
 
 (b) in the case of records relating to a prescribed accounting period ending on or after 1st January 2007, for a period of not less than 5 years from the end of the prescribed accounting period.
+
+[28/2007 wef 01/07/2007]
 
 (3) The duty under this section to preserve records may be discharged by the preservation of the information contained therein by such means as the Comptroller may approve.
 
@@ -2242,7 +2580,7 @@ the Comptroller may, without prejudice to such validity as it may have in any ot
 
 (4) This section shall not apply to any arrangement carried out for bona fide commercial reasons and had not as one of its main purposes the avoidance or reduction of tax or the obtaining of any tax advantage.
 
-[Income Tax 1992 Ed., s. 33; NZ GST Act 1985, s. 76]
+[NZ GST Act 1985, s. 76]
 
 ### Assessment of penal tax
 
@@ -2319,6 +2657,8 @@ or the amount of such an assessment;
 (m) a claim for the repayment of an amount under section 90.
 
 (2) Any application for review and revision under this section shall state precisely the grounds for the objection to the decision and shall be made within 30 days of the date the person has been notified of the decision to which he objects or such other extended time as the Comptroller may allow.
+
+[19/2009 wef 01/01/2010]
 
 (3) The Comptroller shall consider the application under subsection (2) and shall, within a reasonable time, inform the person of the decision on the application.
 
@@ -2490,7 +2830,7 @@ so much of that amount as is found not to be due or not to have been paid shall 
 
 (11) Where the appeal has been heard notwithstanding that an amount determined by the Comptroller to be payable as tax has not been paid or deposited and it is found on the appeal that that amount is due, the Board may, if it thinks fit, direct that that amount shall be paid.
 
-[Income Tax 1992 Ed., s. 79; UK VAT Act 1983, s. 40]
+[UK VAT Act 1983, s. 40]
 
 ### Hearing and disposal of appeals
 
@@ -3044,6 +3384,8 @@ COLLECTION AND ENFORCEMENT
 
 (c) the amount of the reduction shall, to the extent of that amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys held by the agent for or due from the agent to the defaulting taxpayer.
 
+[33/2008 wef 01/01/2009]
+
 (5A) Where —
 
 (a) an amount of tax is due from any person under this Act otherwise than as an agent under this section;
@@ -3057,6 +3399,8 @@ then the public officer shall, notwithstanding any other written law, contract o
 (i) the amount of the tax referred to in paragraph (a) shall be reduced by the amount of the reduction; and
 
 (ii) the amount of the reduction shall, to the extent of such amount, be deemed to have been paid to the defaulting taxpayer in accordance with any law, contract or scheme governing the payment of moneys referred to in paragraph (b) to the defaulting taxpayer.
+
+[33/2008 wef 01/01/2009]
 
 (6) For the purposes of this section, “tax” includes any penalty or any other money which a person is liable to pay to the Comptroller under this Act.
 
@@ -3384,6 +3728,8 @@ GENERAL PROVISIONS
 
 it shall be lawful for the Comptroller to refund or pay such money to the person if it is proved to the satisfaction of the Comptroller that the money was overpaid or erroneously paid as tax or penalty by, or the money is due to, the person.
 
+[28/2007 wef 01/07/2007]
+
 (1B) A claim referred to in subsection (1A) shall be made —
 
 (a) in writing in such form and manner as the Comptroller may determine; and
@@ -3394,7 +3740,11 @@ it shall be lawful for the Comptroller to refund or pay such money to the person
 
 (ii) in the case of a claim referred to in subsection (1A)(a)(ii) or (b), the end of the prescribed accounting period to which the claim relates.
 
+[28/2007 wef 01/07/2007]
+
 (1C) The Comptroller may refuse to make any refund or payment under subsection (1A) if the claim relates to any tax or penalty which has not been received by the Comptroller.
+
+[28/2007 wef 01/07/2007]
 
 (2) The Comptroller may reduce or altogether withhold any refund due under this section to the extent that the refund would unjustly enrich the claimant.
 
@@ -3406,15 +3756,27 @@ it shall be lawful for the Comptroller to refund or pay such money to the person
 
 90A\.—(1) The Comptroller may, on an application made by a person in accordance with Part I of the Fifth Schedule, make a ruling on any of the matters specified in that Part in accordance with that Part.
 
+[28/2007 wef 01/07/2007]
+
 (2) Part I of the Fifth Schedule shall apply to and in connection with an application under subsection (1) and any ruling made by the Comptroller under that subsection.
+
+[28/2007 wef 01/07/2007]
 
 (3) The fees specified in Part II of the Fifth Schedule shall be payable to and retained by the Authority in respect of any application under subsection (1).
 
+[28/2007 wef 01/07/2007]
+
 (4) The Authority may, in exceptional circumstances in its discretion, waive in whole or in part any fee payable by an applicant under subsection (3).
+
+[28/2007 wef 01/07/2007]
 
 (5) The Minister may by order amend the Fifth Schedule.
 
+[28/2007 wef 01/07/2007]
+
 (6) In this section, “Authority” means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act (Cap. 138A).
+
+[28/2007 wef 01/07/2007]
 
 ### Transitional provisions
 
@@ -3456,17 +3818,17 @@ Liability to be registered
 
 (b) there are reasonable grounds for believing that the total value of his taxable supplies in the period of 12 months then beginning will exceed $1 million.
 
-(3) A person is not liable to be registered by virtue of sub-paragraph (1)(a) or (2) (a) after the end of any quarter if the Comptroller is satisfied that the value of his taxable supplies in the next 4 quarters will not exceed $1 million.
+(3) A person is not liable to be registered by virtue of sub-paragraph (1)(a) or (2)(a) after the end of any quarter if the Comptroller is satisfied that the value of his taxable supplies in the next 4 quarters will not exceed $1 million.
 
-(4) In determining the value of a person’s supplies for the purposes of sub-paragraph (1)(a) or (2) (a), supplies made at a time when he was previously registered shall be disregarded if —
+(4) In determining the value of a person’s supplies for the purposes of sub-paragraph (1)(a) or (2)(a), supplies made at a time when he was previously registered shall be disregarded if —
 
 (a) his registration was cancelled otherwise than under paragraph 14; and
 
 (b) the Comptroller is satisfied that before his registration was cancelled he had given the Comptroller all the information the Comptroller needed in order to determine whether to cancel the registration.
 
-(5) In determining the value of a person’s supplies for the purpose of sub-paragraph (1) or (2), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
+(5) In determining the value of a person’s supplies for the purpose of sub-paragraph 1 or (2), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
 
-2.—(1) Without prejudice to section 47 and to paragraph 1, if the Comptroller makes a direction under this paragraph, the persons named in the direction shall be treated as a single taxable person carrying on the activities of a business described in the direction and that taxable person shall be liable to be registered with effect from the date of the direction or, if the direction so provides, from such later date as may be specified therein.
+2.—(1) Without prejudice to section 47 and to _1 of the First Schedule, if the Comptroller makes a direction under this paragraph, the persons named in the direction shall be treated as a single taxable person carrying on the activities of a business described in the direction and that taxable person shall be liable to be registered with effect from the date of the direction or, if the direction so provides, from such later date as may be specified therein.
 
 (2) The Comptroller may make a direction under this paragraph naming any person where the Comptroller is satisfied —
 
@@ -3474,7 +3836,7 @@ Liability to be registered
 
 (b) that the activities in the course of which he makes or made those taxable supplies form only part of certain activities which should properly be regarded as those of the business described in the direction, the other activities being carried on concurrently or previously (or both) by one or more other persons;
 
-(c) that, if all the taxable supplies of that business were taken into account, a person carrying on that business would, at the time of the direction, be liable to be registered by virtue of paragraph 1; and
+(c) that, if all the taxable supplies of that business were taken into account, a person carrying on that business would, at the time of the direction, be liable to be registered by virtue of _1 of the First Schedule; and
 
 (d) that the main reason or one of the main reasons for the person concerned carrying on the activities first referred to in sub-paragraph (b) in the way he does is the avoidance of a liability to be registered (whether that liability would be his, another person’s or that of 2 or more persons jointly).
 
@@ -3512,9 +3874,9 @@ End of liability to be registered
 
 3.—(1) Subject to sub-paragraph (2), a registered person who makes taxable supplies shall cease to be liable to be registered at any time if the Comptroller is satisfied that the value of his taxable supplies in the period of 12 months then beginning will not exceed $1 million.
 
-(2) A person shall not cease to be liable to be registered by virtue of sub-paragraph (1) if the Comptroller is satisfied that the reason the value of his taxable supplies will not exceed $1 million is that in the period in question he will cease making taxable supplies, or will suspend making them for a period of 30 days or more.
+(2) A person shall not cease to be liable to be registered by virtue of sub-paragraph 3 if the Comptroller is satisfied that the reason the value of his taxable supplies will not exceed $1 million is that in the period in question he will cease making taxable supplies, or will suspend making them for a period of 30 days or more.
 
-(3) In determining the value of a person’s supplies for the purposes of sub-paragraph (1), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
+(3) In determining the value of a person’s supplies for the purposes of sub-paragraph 3, supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
 
 Notification of liability and registration
 
@@ -3548,15 +3910,15 @@ Voluntary registration
 
 the Comptroller may, subject to such conditions as the Comptroller may think fit to impose, and if that person so requests, register him with effect from such date as may be agreed between the Comptroller and him.
 
-(2) Subject to paragraph 12(2), a person registered under sub-paragraph (1) shall remain registered for a period of not less than 2 years or such other shorter period as the Comptroller may determine.
+(2) Subject to paragraph 12(2), a person registered under sub-paragraph 8 shall remain registered for a period of not less than 2 years or such other shorter period as the Comptroller may determine.
 
-(3) Conditions under sub-paragraph (1) —
+(3) Conditions under sub-paragraph 8 —
 
 (a) may be imposed wholly or partly by reference to, or without reference to, any condition prescribed for the purposes of this paragraph; and
 
 (b) may (whenever imposed) be subsequently varied by the Comptroller.
 
-(4) The Comptroller may cancel the registration of a person under this paragraph if he does not begin to make taxable supplies by the date specified in his request or if he is in breach of any condition imposed under sub-paragraph (1).
+(4) The Comptroller may cancel the registration of a person under this paragraph if he does not begin to make taxable supplies by the date specified in his request or if he is in breach of any condition imposed under sub-paragraph 8.
 
 9.—(1) Where a person who is not liable to be registered under this Act and is not already so registered satisfies the Comptroller that he —
 
@@ -3588,7 +3950,7 @@ and (in either case) is within sub-paragraph (2), the Comptroller may, subject t
 
 Notification of end of liability, etc.
 
-10\. A person registered under paragraph 4, 5, 6 or 8 who ceases to make or have the intention of making taxable supplies shall notify the Comptroller in writing of that fact and the date thereof within 30 days of the day on which he does so.
+10\. A person registered under _4 of the First Schedule, 5, 6 or 8 who ceases to make or have the intention of making taxable supplies shall notify the Comptroller in writing of that fact and the date thereof within 30 days of the day on which he does so.
 
 11. A person registered under paragraph 9 who —
 
@@ -3602,11 +3964,11 @@ Cancellation of registration
 
 12.—(1) Subject to sub-paragraph (2), where a registered person satisfies the Comptroller that he is not liable to be registered, the Comptroller shall, if that person so requests, cancel his registration with effect from the day on which the request is made or from such later date as may be agreed between the Comptroller and him.
 
-(2) The Comptroller may refuse to cancel the registration of any person registered under paragraph 8 where the Comptroller is not satisfied that that person has ceased to make taxable supplies and if he thinks it necessary for the protection of the revenue.
+(2) The Comptroller may refuse to cancel the registration of any person registered under _8 of the First Schedule where the Comptroller is not satisfied that that person has ceased to make taxable supplies and if he thinks it necessary for the protection of the revenue.
 
 13.—(1) Where the Comptroller is satisfied that a registered person has ceased to be registrable, the Comptroller may cancel his registration with effect from the day on which he so ceased or from such later date as may be agreed between the Comptroller and him.
 
-(2) In this paragraph and paragraph 14, “registrable” means liable or eligible to be registered under paragraph 8(1).
+(2) In this paragraph and paragraph 14, “registrable” means liable or eligible to be registered under paragraph 8.
 
 14\. Where the Comptroller is satisfied that on the day on which a registered person was registered he was not registrable, the Comptroller may cancel his registration with effect from that day.
 
@@ -3684,7 +4046,7 @@ Transfer or disposal of business assets
 
 5.—(1) Subject to sub-paragraph (2), where goods forming part of the assets of a business are transferred or disposed of by or under the directions of the person carrying on the business so as no longer to form part of those assets, whether or not for a consideration, that is a supply by him of the goods.
 
-(2) Sub-paragraph (1) does not apply where the transfer or disposal is —
+(2) Sub-paragraph 5 does not apply where the transfer or disposal is —
 
 (a) a gift of goods made in the course or furtherance of the business (otherwise than as one forming part of a series or succession of gifts made to the same person from time to time) where the cost to the donor is not more than $200;
 
@@ -3692,11 +4054,11 @@ Transfer or disposal of business assets
 
 (3) Where by or under the direction of a person carrying on a business, goods held or used for the purposes of the business are put to any private use or are used, or made available to any person for use, for any purpose other than a purpose of the business, whether or not for a consideration, that is a supply of services.
 
-(4) Neither sub-paragraph (1) nor sub-paragraph (3) shall require anything which a person carrying on a business does otherwise than for a consideration in relation to any goods to be treated as a supply except in a case where that person is entitled under sections 19 and 20 to credit for the whole or any part of the tax on the supply or importation of those goods or of anything comprised in them.
+(4) Neither sub-paragraph 5 nor sub-paragraph (3) shall require anything which a person carrying on a business does otherwise than for a consideration in relation to any goods to be treated as a supply except in a case where that person is entitled under sections 19 and 20 to credit for the whole or any part of the tax on the supply or importation of those goods or of anything comprised in them.
 
-(5) Anything which is a supply of goods or services by virtue of sub-paragraph (1) or (3) is to be treated as made in the course or furtherance of the business (if it would not otherwise be so treated); and in the case of a business carried on by an individual —
+(5) Anything which is a supply of goods or services by virtue of sub-paragraph 5 or (3) is to be treated as made in the course or furtherance of the business (if it would not otherwise be so treated); and in the case of a business carried on by an individual —
 
-(a) sub-paragraph (1) applies to any transfer or disposition of goods in favour of himself personally; and
+(a) sub-paragraph 5 applies to any transfer or disposition of goods in favour of himself personally; and
 
 (b) sub-paragraph (3) applies to goods used, or made available for use, by himself personally.
 
@@ -3707,6 +4069,8 @@ Transfer or disposal of business assets
 (b) used in the making of any supply (other than a supply by way of sale),
 
 by the other person in or towards satisfaction of a debt owed by the taxable person, the supply by the other person shall be a supply of goods or a supply of services determined in accordance with this Act and be deemed to be made by the taxable person in the course or furtherance of his business.
+
+[S 328/2007 wef 01/07/2007]
 
 7.—(1) Where a person ceases to be a taxable person, any goods then forming part of the assets of a business carried on by him shall be deemed to be supplied by him in the course or furtherance of his business immediately before he ceases to be a taxable person, unless —
 
@@ -3722,11 +4086,11 @@ by the other person in or towards satisfaction of a debt owed by the taxable per
 
 (b) that the goods were not acquired by him as part of the assets of a business which was transferred to him as a going concern by another taxable person.
 
-8.—(1) Subject to sub-paragraphs (2) and (3), paragraphs 5 to 7 shall have effect in relation to land forming part of the assets of, or held or used for the purposes of, a business as if it were goods forming part of the assets of, or held or used for the purposes of, a business.
+8.—(1) Subject to sub-paragraphs (2) and (3), _5 of the Second Schedule to 7 shall have effect in relation to land forming part of the assets of, or held or used for the purposes of, a business as if it were goods forming part of the assets of, or held or used for the purposes of, a business.
 
 (2) In the application of those paragraphs by virtue of sub-paragraph (1), references to transfer, disposition or sale shall have effect as references to the grant or assignment of any interest in, right over or licence to occupy the land concerned.
 
-(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5(1) by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
+(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5 by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
 
 [UK VAT Act 1983, Sch. 2]
 
@@ -3760,17 +4124,7 @@ shall be taken to be its open market value.
 
 (4) This paragraph shall not apply to a supply to which paragraph 10 applies.
 
-Imported goods
-
-2. Where —
-
-(a) goods are imported at a price in money which (together with all such taxes, duties, charges and costs as are specified in section 18(2)(a) and (b) and not included in the price) is less than their value as determined in accordance with section 18(3);
-
-(b) the person importing the goods and the person entitled to the price are connected; and
-
-(c) the person importing the goods is not entitled under sections 19 and 20 to credit for all the tax paid or payable by him on the importation,
-
-the Comptroller may direct that the value of the goods shall be determined in accordance with section 18(3).
+2\.Deleted by Act 20/2010, wef 01/01/2011.
 
 Connected persons
 
@@ -3842,9 +4196,7 @@ Meaning of control
 
 (2) This paragraph shall not apply where the terms include any provision for payment by instalments.
 
-6.—(1) Where goods are imported at a price in money and on terms allowing a discount for prompt payment, the price shall be taken for the purposes of section 18(2) as reduced by the discount, whether or not payment is made in accordance with those terms.
-
-(2) This paragraph shall not apply where the terms include any provision for payment by instalments.
+6\.Deleted by Act 20/2010, wef 01/01/2011.
 
 7\.Deleted by Act 19/2009, wef 01/01/2010.
 
@@ -3890,7 +4242,9 @@ Employees’ benefits
 
 Foreign exchange
 
-11.—(1) Subject to this paragraph, where any sum relevant for determining value is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at the time when the supply takes place or in the case of the import of goods at the rate of exchange determined by the Director-General of Customs at the time applicable under the Customs Act (Cap. 70) for the calculation of customs or excise duties and valuation.
+11.—(1) Subject to this paragraph, where any sum relevant for determining value is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at the time when the supply takes place.
+
+[20/2010 wef 01/01/2011]
 
 [4/2003]
 
@@ -3914,21 +4268,19 @@ a rate specified in or determined in accordance with the notice, as for the time
 
 Taxes or duties imposed by reason of supply
 
-12\. Where any taxes or duties other than goods and services tax, including entertainments duty, excise duty, betting and sweepstake duties, cess, film hire duty, lotteries duty and tax imposed under the Statutory Boards (Taxable Services) Act (Cap. 318) but excluding stamp duty are imposed or levied by reason of the supply of goods or services, the value of the supply shall include the amount of such taxes or duties.
+12. Where any taxes or duties other than goods and services tax, including entertainments duty, excise duty, betting and sweepstake duties, cess, film hire duty, lotteries duty and tax imposed under the Statutory Boards (Taxable Services) Act (Cap. 318) but excluding stamp duty are imposed or levied by reason of the supply of goods or services, the value of the supply shall include the amount of such taxes or duties.
 
 Residential premises
 
-13. Where a supply consists of a lease of any building, flat or tenement approved exclusively for residential purposes under the Planning Act (Cap. 232) and a lease or hire of any furniture, furnishings, fittings, appliances or effects, the value of the monthly rent for the lease of the building, flat or tenement shall be —
+(1) Where a supply consists of a lease of any building, flat or tenement which is used or to be used principally for residential purposes and a lease or hire of any furniture, furnishings, fittings, appliances or effects, the value of the monthly rent for the lease of the building, flat or tenement shall be —
 
 (a) taken as one-twelfth of the annual value ascribed to such building, flat or tenement in the Valuation List, currently in force, as prepared by the Chief Assessor under section 10 of the Property Tax Act (Cap. 254); or
 
 (b) where no annual value has been ascribed to such building, flat or tenement in the Valuation List, such amount as the Comptroller may determine.
 
-(1) Where a supply consists of a lease of any building, flat or tenement approved exclusively for residential purposes under the Planning Act (Cap. 232) and a lease or hire of any furniture, furnishings, fittings, appliances or effects, the value of the monthly rent for the lease of the building, flat or tenement shall be —
+[20/2010 wef 01/01/2011]
 
-(a) taken as one-twelfth of the annual value ascribed to such building, flat or tenement in the Valuation List, currently in force, as prepared by the Chief Assessor under section 10 of the Property Tax Act (Cap. 254); or
-
-(b) where no annual value has been ascribed to such building, flat or tenement in the Valuation List, such amount as the Comptroller may determine.
+(2) For the purpose of sub-paragraph (1), the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
 
 [20/2010 wef 01/01/2011]
 
@@ -3998,7 +4350,9 @@ Land
 
 (b) any vacant land approved exclusively for residential or condominium development where the supply is made by such public or statutory authority as may be approved by the Minister or such other person as he may appoint; or
 
-(c) any land or part thereof with any building, flat or tenement thereon, being a building, flat or tenement which is approved exclusively for residential purposes under the Planning Act (Cap. 232).
+(c) any land or part thereof with any building, flat or tenement thereon, being a building, flat or tenement which is used or to be used principally for residential purposes.
+
+[20/2010 wef 01/01/2011]
 
 Interpretation
 
@@ -4080,7 +4434,15 @@ Application
 
 (b) services consisting of the maintenance, repair and upkeep of the building, flat or tenement or any common property or limited common property connected therewith; and
 
-(c) any building, flat or tenement which is not approved exclusively for residential purposes under the Planning Act (Cap. 232).
+(c) any building, flat or tenement which is not used or to be used principally for residential purposes.
+
+[20/2010 wef 01/01/2011]
+
+(4) For the purpose of paragraphs 2(c) and 4(3)(c), the Minister may, by order published in theGazette, provide that any building, flat or tenement is to be included, or is not to be included, as a building, flat or tenement used or to be used principally for residential purposes.
+
+[UK VAT Act 1983, Sch. 6; NZ GST Act 1985, s. 3 (1)]
+
+[20/2010 wef 01/01/2011]
 
 FIFTH SCHEDULE
 
@@ -4092,7 +4454,11 @@ Part I
 
 1.—(1) Subject to the provisions of this Part, on an application made in accordance with this Part, the Comptroller shall make a ruling on how any provision of this Act applies, or would apply, to a person and to an arrangement for which the ruling is sought.
 
+[28/2007 wef 01/07/2007]
+
 (2) The Comptroller may make a ruling on how any provision of this Act applies to the arrangement described in an application, whether or not reference was made to that provision in the application.
+
+[28/2007 wef 01/07/2007]
 
 (3) The Comptroller shall not make a ruling on a provision of this Act that authorises or requires the Comptroller to —
 
@@ -4104,13 +4470,19 @@ Part I
 
 (d) recover any debt owing by any person.
 
+[28/2007 wef 01/07/2007]
+
 (4) An application for a ruling shall —
 
 (a) be made in such form as the Comptroller may determine; and
 
 (b) comply with the disclosure requirements of paragraph 9.
 
+[28/2007 wef 01/07/2007]
+
 (5) An applicant for a ruling may at any time withdraw the application by notice in writing to the Comptroller.
+
+[28/2007 wef 01/07/2007]
 
 2. The Comptroller may decline to make a ruling if —
 
@@ -4121,6 +4493,8 @@ Part I
 (c) the matter on which the ruling is sought is subject to an objection or appeal, whether in relation to the applicant or any other person; or
 
 (d) the applicant has outstanding debts relating to earlier ruling applications.
+
+[28/2007 wef 01/07/2007]
 
 3. The Comptroller shall not make a ruling if —
 
@@ -4144,7 +4518,11 @@ Part I
 
 (j) the application for the ruling would require the Comptroller to form an opinion as to a generally accepted accounting principle or to form an opinion as to a commercially acceptable practice.
 
-4\. The Comptroller shall, where he has declined to make a ruling under paragraph 2 or has not made a ruling by virtue of paragraph 3, notify the applicant in writing of his decision and the reasons therefor.
+[28/2007 wef 01/07/2007]
+
+4. The Comptroller shall, where he has declined to make a ruling under paragraph 2 or has not made a ruling by virtue of paragraph 3, notify the applicant in writing of his decision and the reasons therefor.
+
+[28/2007 wef 01/07/2007]
 
 5. Where the Comptroller has made a ruling on the application of any provision of this Act in relation to an arrangement, and —
 
@@ -4154,11 +4532,15 @@ Part I
 
 the Comptroller shall apply the provision in relation to the person and the arrangement in respect of the whole or the part of the period, as the case may be, in accordance with the ruling.
 
+[28/2007 wef 01/07/2007]
+
 6. A ruling shall apply in relation to an arrangement as a ruling on a provision of this Act —
 
 (a) only if the provision is expressly referred to in the ruling; and
 
 (b) for a period of 3 years from the date the ruling is made or such other period as the Comptroller may, taking into account any special circumstances, determine.
+
+[28/2007 wef 01/07/2007]
 
 7. A ruling shall not apply to a person in relation to an arrangement if —
 
@@ -4170,13 +4552,19 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (d) the Comptroller stipulates a condition that is not satisfied.
 
+[28/2007 wef 01/07/2007]
+
 8.—(1) A person, in his own right or on behalf of a person who has yet to come into legal existence, may apply to the Comptroller for a ruling on how a provision of this Act applies, or would apply, to —
 
 (a) the person making the application or the prospective person, as the case may be; and
 
 (b) an arrangement.
 
+[28/2007 wef 01/07/2007]
+
 (2) Two or more persons may jointly apply, or a person on behalf of 2 or more persons who have yet to come into legal existence may apply, to the Comptroller for a ruling on how a provision of this Act applies, or would apply, to each person and to an arrangement.
+
+[28/2007 wef 01/07/2007]
 
 9.—(1) An application for a ruling shall —
 
@@ -4192,15 +4580,27 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (f) provide a draft ruling.
 
+[28/2007 wef 01/07/2007]
+
 (2) If the Comptroller considers that it would be unreasonable to require the applicant to comply with any of the requirements in sub-paragraph (1)(c) to (f), the Comptroller may waive those requirements.
+
+[28/2007 wef 01/07/2007]
 
 (3) Any document provided by any person under this Schedule shall be retained by the Comptroller.
 
-10\. The Comptroller may at any time request further relevant information from an applicant for a ruling.
+[28/2007 wef 01/07/2007]
+
+10. The Comptroller may at any time request further relevant information from an applicant for a ruling.
+
+[28/2007 wef 01/07/2007]
 
 11.—(1) If the Comptroller considers that the correctness of a ruling would depend on assumptions being made about a future event or other matter, the Comptroller may make the assumptions that he considers to be most appropriate.
 
+[28/2007 wef 01/07/2007]
+
 (2) The Comptroller may not make assumptions about information which the applicant can provide.
+
+[28/2007 wef 01/07/2007]
 
 12.—(1) A ruling made by the Comptroller shall state —
 
@@ -4216,13 +4616,23 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (f) the conditions (if any) stipulated by the Comptroller.
 
+[28/2007 wef 01/07/2007]
+
 (2) The Comptroller shall notify the making of a ruling by sending a copy of the ruling to the person or persons who applied for it.
+
+[28/2007 wef 01/07/2007]
 
 13.—(1) The Comptroller may at any time withdraw a ruling by notifying the person to whom the ruling applies in writing of the withdrawal and the reasons therefor.
 
+[28/2007 wef 01/07/2007]
+
 (2) The ruling shall be withdrawn from the date specified in the notice of withdrawal.
 
+[28/2007 wef 01/07/2007]
+
 (3) The date referred to in sub-paragraph (2) shall not be earlier than the date on which the person could reasonably be expected to receive the notice of withdrawal.
+
+[28/2007 wef 01/07/2007]
 
 (4) If the Comptroller withdraws a ruling —
 
@@ -4230,13 +4640,23 @@ the Comptroller shall apply the provision in relation to the person and the arra
 
 (b) the ruling shall continue to apply in relation to any arrangement for the remainder of the period set out in paragraph 6(b) if the arrangement has been entered into or effected before the date of withdrawal.
 
+[28/2007 wef 01/07/2007]
+
 14.—(1) The Comptroller shall not be required to withdraw and reissue a new ruling to correct a typographical or a minor error if the correction does not change the meaning of the ruling.
+
+[28/2007 wef 01/07/2007]
 
 (2) A ruling that is not withdrawn and reissued remains valid for the period set out in paragraph 6(b).
 
-15\. A ruling shall not apply from the date a provision of this Act is repealed or amended to the extent that the repeal or amendment changes the way the provision applies in the ruling.
+[28/2007 wef 01/07/2007]
 
-16\. The fact that there has been an application for a ruling shall not affect a person’s obligation to provide any return, make any payment, or do any other act, or the Comptroller’s power to make or amend any assessment.
+15. A ruling shall not apply from the date a provision of this Act is repealed or amended to the extent that the repeal or amendment changes the way the provision applies in the ruling.
+
+[28/2007 wef 01/07/2007]
+
+16. The fact that there has been an application for a ruling shall not affect a person’s obligation to provide any return, make any payment, or do any other act, or the Comptroller’s power to make or amend any assessment.
+
+[28/2007 wef 01/07/2007]
 
 17. Where —
 
@@ -4254,6 +4674,8 @@ the person shall disclose the following in such form and manner, and within such
 
 (iii) any material changes to the arrangement identified in the ruling.
 
+[28/2007 wef 01/07/2007]
+
 Part II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are —
@@ -4270,9 +4692,15 @@ Part II
 
 (ii) any costs and reasonable disbursements incurred by the Comptroller in relation to the ruling.
 
-2\. If an application for a ruling is withdrawn, the applicant shall be liable to pay all fees incurred before the Comptroller received notice of the withdrawal.
+[28/2007 wef 01/07/2007]
 
-3\. The Comptroller shall ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
+2. If an application for a ruling is withdrawn, the applicant shall be liable to pay all fees incurred before the Comptroller received notice of the withdrawal.
+
+[28/2007 wef 01/07/2007]
+
+3. The Comptroller shall ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
+
+[28/2007 wef 01/07/2007]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -4507,6 +4935,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 15/2010 published on 1 October 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|1 October 2010|
+|34.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 16/2011 published on 17 October 2011)|
+||Date of Second and Third Readings|22 November 2011|
+||Date of commencement|1 January 2011|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
