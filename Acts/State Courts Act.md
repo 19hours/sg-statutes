@@ -58,9 +58,9 @@
 
 - [19 General civil jurisdiction](#General-civil-jurisdiction)
 
-- [20 Jurisdiction in actions of contract and tort](#Jurisdiction-in-actions-of-contract-and-tort)
+- [20 (Repealed)](#Repealed)
 
-- [21 Jurisdiction in actions for recovery of money under any written law](#Jurisdiction-in-actions-for-recovery-of-money-under-any-written-law)
+- [21 (Repealed)](#Repealed)
 
 - [22 Abandonment of part of claim to give District Court jurisdiction](#Abandonment-of-part-of-claim-to-give-District-Court-jurisdiction)
 
@@ -438,13 +438,9 @@ Civil Jurisdiction of District Courts
 
 19\.—(1) A District Court exercising civil jurisdiction shall be a court of record.
 
-(2) Subject to subsections (3) and (4), a District Court shall have the civil jurisdiction conferred by the following sections of this Part.
+(2) Subject to subsections (3) and (4), a District Court shall have all the jurisdiction of the High Court to hear and try any action in personam where —
 
-[15/93]
-
-(3) A District Court shall have the jurisdiction in sections 20, 21, 25, 26 and 29 where —
-
-(a) the defendant is served with a writ or other originating process —
+(a) the defendant is served with a writ of summons or any other originating process —
 
 (i) in Singapore in the manner prescribed by Rules of Court; or
 
@@ -452,11 +448,35 @@ Civil Jurisdiction of District Courts
 
 (b) the defendant submits to the jurisdiction of a District Court.
 
-[15/93]
+[31/2010 wef 01/01/2011]
 
-(4) A District Court’s jurisdiction conferred by the following sections of this Part shall not include any jurisdiction expressly excluded by any other written law.
+(3) Subject to section 28A of the Supreme Court of Judicature Act (Cap. 322) and any order under subsection (1) thereof, a District Court’s jurisdiction under subsection (2) shall not include —
 
-[20/99]
+(a) any supervisory jurisdiction or revisionary jurisdiction;
+
+(b) any jurisdiction relating to the judicial review of any act done or decision made by any person or authority, including the issue of any of the following prerogative orders:
+
+(i) a Mandatory Order;
+
+(ii) a Prohibiting Order;
+
+(iii) a Quashing Order;
+
+(iv) an Order for Review of Detention;
+
+(c) any jurisdiction vested exclusively in the High Court, in any other subordinate court, or in any judicial, quasi-judicial or administrative tribunal, by written law; and
+
+(d) any jurisdiction expressly excluded by written law.
+
+[31/2010 wef 01/01/2011]
+
+(4) Subject to sections 22 and 23, a District Court’s jurisdiction under subsection (2) shall not include jurisdiction to hear and try any action where —
+
+(a) the amount claimed in the action exceeds the District Court limit; or
+
+(b) any remedy or relief sought in the action is in respect of a subject-matter the value of which exceeds the District Court limit.
+
+[31/2010 wef 01/01/2011]
 
 (5) A District Court’s jurisdiction to hear and try any civil proceeding which comes within the jurisdiction of the Syariah Court constituted under the Administration of Muslim Law Act (Cap. 3) shall be the same as the High Court as if section 17A of the Supreme Court of Judicature Act (Cap. 322) applies to the District Court with the modification that any reference therein to the High Court shall be read as a reference to a District Court.
 
@@ -466,39 +486,19 @@ Civil Jurisdiction of District Courts
 
 [15/93]
 
-### Jurisdiction in actions of contract and tort
+20\. [Repealed by Act 31/2010 wef 01/01/2011]
 
-20\.—(1) A District Court shall have jurisdiction to hear and try any action founded on contract or tort where —
-
-(a) the debt, demand or damage claimed does not exceed the District Court limit, whether on balance of account or otherwise; or
-
-(b) there is no claim for money, and the remedy or relief sought in the action is in respect of a subject-matter the value of which does not exceed the District Court limit.
-
-[15/93]
-
-(2) A District Court shall have jurisdiction to hear and try any action where the debt or demand claimed consists of a balance not exceeding the District Court limit after a set-off of any debt or demand claimed or recoverable by the defendant from the plaintiff, being a set-off admitted by the plaintiff in the particulars of his claim or demand.
-
-[6/76; 3/86; 15/93]
-
-### Jurisdiction in actions for recovery of money under any written law
-
-21\.—(1) A District Court shall have jurisdiction to hear and try any action for the recovery of a sum which is recoverable under any written law, if —
-
-(a) it is not expressly provided by that or any other written law that such sums shall be recoverable only in some other court; and
-
-(b) the amount claimed in the action does not exceed the District Court limit.
-
-[15/93]
-
-(2) For the purposes of this section, “sum” shall not include a fine to which any person is liable on conviction.
-
-[15/93]
+21\. [Repealed by Act 31/2010 wef 01/01/2011]
 
 ### Abandonment of part of claim to give District Court jurisdiction
 
-22\.—(1) Where a plaintiff has a cause of action which exceeds the District Court limit in which, if it did not exceed the District Court limit, a District Court would have jurisdiction under section 20(1)(a) or (2) or 21, the plaintiff may abandon the excess and thereupon a District Court shall have jurisdiction to hear and try the action, provided that the plaintiff shall not recover in the action an amount exceeding the District Court limit.
+22\.—(1) Where the amount claimed in an action exceeds the District Court limit, or any remedy or relief sought in an action is in respect of a subject-matter the value of which exceeds the District Court limit, and a District Court would have jurisdiction under section 19(2) to hear and try the action if the amount or value, as the case may be, did not exceed the District Court limit, the plaintiff may abandon the excess amount or that remedy or relief, as the case may be, and thereupon a District Court shall have jurisdiction under section 19(2) to hear and try the action, provided that the plaintiff —
 
-[15/93]
+(a) shall not recover in the action an amount exceeding the District Court limit; and
+
+(b) shall not obtain in the action any remedy or relief in respect of a subject-matter the value of which exceeds the District Court limit.
+
+[31/2010 wef 01/01/2011]
 
 (2) Where a District Court has jurisdiction to hear and try an action by virtue of this section, the judgment of the court in the action shall be in full discharge of all demands in respect of the cause of action.
 
@@ -506,9 +506,13 @@ Civil Jurisdiction of District Courts
 
 ### Jurisdiction by agreement in certain actions
 
-23\. Where the parties to an action agree, by a memorandum signed by them or their respective solicitors, a District Court shall have jurisdiction to hear and try any action founded on contract or tort notwithstanding that the debt, demand or damage claimed exceeds the District Court limit.
+23\. Where the parties to an action agree, by a memorandum signed by them or their respective solicitors, a District Court shall have jurisdiction under section 19(2) to hear and try the action notwithstanding that —
 
-[6/76; 3/86; 15/93]
+(a) the amount claimed in the action exceeds the District Court limit; or
+
+(b) any remedy or relief sought in the action is in respect of a subject-matter the value of which exceeds the District Court limit.
+
+[31/2010 wef 01/01/2011]
 
 Transfer of counterclaim from District Court to High Court
 
@@ -516,7 +520,7 @@ Transfer of counterclaim from District Court to High Court
 
 ### Jurisdiction in actions for recovery of immovable property
 
-25\. A District Court shall have jurisdiction to hear and try any action for the recovery of immovable property with or without a claim for rent or mesne profits and whether or not the title to the property is in dispute, where —
+25\. Without prejudice to the generality of section 19, a District Court shall have jurisdiction under section 19(2) to hear and try any action for the recovery of immovable property with or without a claim for rent or mesne profits and whether or not the title to the property is in dispute, where —
 
 (a) the annual value of the property appearing in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254) does not exceed the District Court limit;
 
@@ -528,7 +532,7 @@ Transfer of counterclaim from District Court to High Court
 
 ### Equity jurisdiction
 
-26\. A District Court shall have all the jurisdiction of the High Court to hear and try any of the following proceedings:
+26\. Without prejudice to the generality of section 19, a District Court shall have jurisdiction under section 19(2) to hear and try any of the following proceedings:
 
 (a) proceedings for the administration of the estate of a deceased person, where the amount or value of the estate does not exceed the District Court limit;
 
@@ -560,7 +564,7 @@ Transfer of counterclaim from District Court to High Court
 
 ### Jurisdiction to grant relief by interpleader
 
-29\.—(1) A District Court shall have jurisdiction to grant relief by way of interpleader —
+29\.—(1) Without prejudice to the generality of section 19, a District Court shall have jurisdiction under section 19(2) to grant relief by way of interpleader —
 
 (a) where a bailiff of a District Court is charged with the execution of any writ or order of the Court and claim is made to any money or other movable property taken or intended to be taken in execution of the writ or order, or to the proceeds or value of any such property, by any person other than the person against whom the writ or order was issued or made; and
 
@@ -592,15 +596,19 @@ as ought to be granted or given in the like action by the High Court and in as f
 
 (2) Without prejudice to the generality of subsection (1), a District Court shall, as regards any action within its jurisdiction, have power —
 
-(a) to grant an injunction whether or not any other relief is or could be claimed; and
+(a) to grant an injunction whether or not any other relief is or could be claimed;
 
-(b) to make binding declarations of rights whether or not any consequential relief is or could be claimed.
+(b) to make binding declarations of rights whether or not any consequential relief is or could be claimed; and
 
 [15/93]
 
+(c) to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.
+
+[31/2010 wef 01/01/2011]
+
 ### Powers of District Judge in chambers
 
-32\. A District Judge shall have jurisdiction in any civil proceeding pending in a District Court to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers.
+32\. A District Judge shall have power in any civil proceeding pending in a District Court to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers.
 
 [15/93]
 
@@ -646,7 +654,7 @@ General power to transfer from District Court to High Court
 
 ### Costs of certain actions commenced in High Court which could have been commenced in a subordinate court
 
-39\.—(1) Where an actionfounded on contract or tort or any written law to recover a sum of money is commenced in the High Court which could have been commenced in a subordinate court, then, subject to subsections (3) and (4), the plaintiff —
+39\.—(1) Where an action is commenced in the High Court which could have been commenced in a subordinate court, then, subject to subsections (3) and (4), the plaintiff —
 
 (a) if he recovers a sum not exceeding the District Court limit, shall not be entitled to any more costs of the action than those to which he would have been entitled if the action had been brought in a District Court; and
 
@@ -748,9 +756,13 @@ Criminal Jurisdiction of District Courts
 
 ### Jurisdiction of District Courts exercising criminal jurisdiction
 
-50\.—(1) Subject to subsection (2), a District Court exercising criminal jurisdiction shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code (Cap. 68) and any other written law.
+50\.—(1) Subject to subsection (2), a District Court exercising criminal jurisdiction shall have —
 
-[15/93]
+(a) the jurisdiction and powers conferred on it by the Criminal Procedure Code (Cap. 68) and any other written law; and
+
+(b) without prejudice to the generality of paragraph (a), the power to order medical examination of a person who is an accused in any criminal proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.
+
+[31/2010 wef 01/01/2011]
 
 (2) The criminal jurisdiction of a District Court shall be exercisable where the offence is committed —
 
@@ -768,9 +780,13 @@ Jurisdiction of Magistrates’ Courts
 
 ### Criminal jurisdiction of Magistrates’ Courts
 
-51\.—(1) Subject to subsection (2), a Magistrate’s Court shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code (Cap. 68) and any other written law.
+51\.—(1) Subject to subsection (2), a Magistrate’s Court exercising criminal jurisdiction shall have —
 
-[15/93]
+(a) the jurisdiction and powers conferred on it by the Criminal Procedure Code (Cap. 68) and any other written law; and
+
+(b) without prejudice to the generality of paragraph (a), the power to order medical examination of a person who is an accused in any criminal proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.
+
+[31/2010 wef 01/01/2011]
 
 (2) The criminal jurisdiction of a Magistrate’s Court shall be exercisable where the offence is committed —
 
@@ -786,11 +802,57 @@ Jurisdiction of Magistrates’ Courts
 
 ### Civil jurisdiction of Magistrates’ Courts
 
-52\.—(1) Subject to Rules of Court, a Magistrate’s Court shall have the jurisdiction and powers conferred on a District Court by sections 20 (except 20 (1) (b)), 21, 29, 31(1), 32 and 43 in any proceedings where the amount claimed or the value of the subject-matter in dispute does not exceed the Magistrate’s Court limit.
+52\.—(1) Subject to subsection (1A), a Magistrate’s Court shall have all the jurisdiction of the High Court to hear and try any action in personam where —
 
-[6/76; 3/86; 15/93]
+(a) the defendant is served with a writ of summons or any other originating process —
 
-(2) In exercising its jurisdiction under subsection (1) , a Magistrate’s Court shall be subject to the same limitations and provisions as are applicable to a District Court under this Act.
+(i) in Singapore in the manner prescribed by Rules of Court; or
+
+(ii) outside Singapore in the circumstances authorised by and in the manner prescribed by Rules of Court; or
+
+(b) the defendant submits to the jurisdiction of a Magistrate’s Court.
+
+[31/2010 wef 01/01/2011]
+
+(1A) The jurisdiction of a Magistrate’s Court under subsection (1) shall not include jurisdiction to hear and try any action where —
+
+(a) there is no claim for any sum of money;
+
+(b) the amount claimed in the action exceeds the Magistrate’s Court limit; or
+
+(c) any remedy or relief sought in the action, in addition or as an alternative to the amount claimed in the action, is in respect of a subject-matter the value of which exceeds the Magistrate’s Court limit.
+
+[31/2010 wef 01/01/2011]
+
+(1B) A Magistrate’s Court shall have, in any proceedings within its jurisdiction under subsection (1) —
+
+(a) the power —
+
+(i) to grant such relief, redress or remedy or combination of remedies, either absolute or conditional; and
+
+(ii) to give such and the like effect to every ground of defence or counterclaim equitable or legal,
+
+as ought to be granted or given in the like action by the High Court and in as full and ample a manner;
+
+(b) without prejudice to the generality of paragraph (a), the power —
+
+(i) to grant an injunction;
+
+(ii) to make binding declarations of rights; and
+
+(iii) to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings;
+
+(c) the power to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers; and
+
+(d) the powers conferred on a District Court by —
+
+(i) section 43; and
+
+(ii) section 12 of the Civil Law Act (Cap. 43).
+
+[31/2010 wef 01/01/2011]
+
+(2) In exercising its jurisdiction under subsection (1) or powers under subsection (1B), a Magistrate’s Court shall be subject to the same limitations and provisions as are applicable to a District Court under this Act.
 
 (3) The President may, after consulting the Chief Justice, by order vary the Magistrate’s Court limit.
 
@@ -1038,9 +1100,23 @@ ADMINISTRATION
 
 ### Disqualification of judicial officers
 
-64\.—(1) A judicial officer shall not be capable of accepting or taking any other office of emolument, nor of carrying on any business either directly or indirectly, nor shall he accept any fees of office, perquisites, emoluments or advantages, other than and except his salary and allowances.
+64\.—(1) Except with the approval of the Chief Justice, a judicial officer —
 
-(2) A judicial officer may, with the approval of the Chief Justice, be appointed to any commission of inquiry, committee of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
+(a) shall not be capable of —
+
+(i) accepting or taking any other office of emolument; or
+
+(ii) carrying on any business either directly or indirectly; and
+
+(b) shall not accept any fees of office, perquisites, emoluments or advantages, other than his salary and allowances.
+
+(2) Without prejudice to the generality of subsection (1), a judicial officer may, with the approval of the Chief Justice —
+
+(a) be appointed to any commission of inquiry, committee of inquiry or other judicial, quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education or other knowledge; and
+
+(b) receive an allowance or other honorarium in respect of that appointment or office.
+
+[31/2010 wef 01/01/2011]
 
 ### Judicial officers not to act where interested
 
@@ -1077,6 +1153,14 @@ it shall be lawful for a District Judge nominated by the Chief District Judge to
 (2) No officer of a subordinate court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the subordinate courts shall be liable to be sued for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by such writ, summons, warrant, order, notice or other mandatory process of the court in question.
 
 (3) An officer of a subordinate court shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
+
+(4) No judicial officer, officer of a subordinate court or court-appointed mediator shall be liable to be sued for an act done by him for the purposes of any mediation or other alternative dispute resolution process conducted by him in a subordinate court, if the act —
+
+(a) was done in good faith; and
+
+(b) did not involve any fraud or wilful misconduct on his part.
+
+[31/2010 wef 01/01/2011]
 
 ### Rules of Court
 
@@ -1300,6 +1384,11 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010|
+|22.|**Act 31 of 2010—Subordinate Courts (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 26/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 January 2011|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
