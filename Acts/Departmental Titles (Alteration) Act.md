@@ -432,6 +432,24 @@ Head of Administration, Traffic Police Department
 
 Head of Corporate Services, Traffic Police Department.
 
+Director, National Population Secretariat
+
+Director, National Population and Talent Division.
+
+Deputy Director, National Population Secretariat
+
+Deputy Director, National Population and Talent Division.
+
+Assistant Director, National Population Secretariat
+
+Assistant Director, National Population and Talent Division.
+
+Manager, National Population Secretariat
+
+Manager, National Population and Talent Division.
+
+[S 1/2011 wef 01/01/2011]
+
 [S 160/2004 wef 01/04/2004]
 
 ## LEGISLATIVE HISTORY
@@ -494,3 +512,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of operation|31 July 2001|
 |22.|**G. N. No. S 160/2004—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2004**|
 ||Date of commencement|1 April 2004|
+|23.|**G. N. No. S 1/2011—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2011**|
+||Date of commencement|1 January 2011|
