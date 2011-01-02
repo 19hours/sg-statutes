@@ -244,13 +244,13 @@
 
 - [94 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Commission**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Commission)
+[**FIRST SCHEDULE Constitution and proceedings of Commission**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Commission)
 
 [**SECOND SCHEDULE Powers of Commission**](#SECOND-SCHEDULE-Powers-of-Commission)
 
-[**THIRD SCHEDULE Exclusions from Section 34 Prohibition and Section 47 Prohibition**](#THIRD-SCHEDULE-Exclusions-from-Section-34-Prohibition-and-Section-47-Prohibition)
+[**THIRD SCHEDULE Exclusions from section 34 prohibition and section 47 prohibition**](#THIRD-SCHEDULE-Exclusions-from-section-34-prohibition-and-section-47-prohibition)
 
-[**FOURTH SCHEDULE Exclusions from Section 54 Prohibition**](#FOURTH-SCHEDULE-Exclusions-from-Section-54-Prohibition)
+[**FOURTH SCHEDULE Exclusions from section 54 prohibition**](#FOURTH-SCHEDULE-Exclusions-from-section-54-prohibition)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -974,6 +974,8 @@ but which does not —
 
 (d) a complaint about the agreement has been made to it by a person who is not a party to the agreement.
 
+[23/2007 wef 01/07/2007]
+
 (3) No penalty may be imposed under this Part in respect of any infringement of the section 34 prohibition by an agreement to which this section applies.
 
 (4) The Commission may remove the immunity given by subsection (3) if —
@@ -1003,6 +1005,8 @@ was incomplete, false or misleading in a material particular, the date specified
 (a) it has reasonable grounds for believing that there has been a material change of circumstance since it gave its decision; or
 
 (b) it has reasonable grounds for suspecting that the information on which it based its decision was incomplete, false or misleading in a material particular.
+
+[23/2007 wef 01/07/2007]
 
 (3) No penalty may be imposed under this Part in respect of any infringement of the section 34 prohibition by an agreement to which this section applies.
 
@@ -1104,6 +1108,8 @@ Abuse of dominant position
 
 (c) a complaint about the conduct has been made to it.
 
+[23/2007 wef 01/07/2007]
+
 (3) No penalty may be imposed under this Part in respect of any infringement of the section 47 prohibition by conduct to which this section applies.
 
 (4) The Commission may remove the immunity given by subsection (3) if —
@@ -1134,6 +1140,8 @@ was incomplete, false or misleading in a material particular, the date specified
 
 (b) it has reasonable grounds for suspecting that the information on which it based its decision was incomplete, false or misleading in a material particular.
 
+[23/2007 wef 01/07/2007]
+
 (3) No penalty may be imposed under this Part in respect of any infringement of the section 47 prohibition by conduct to which this section applies.
 
 (4) The Commission may remove the immunity given by subsection (3) if —
@@ -1157,6 +1165,8 @@ was incomplete, false or misleading in a material particular, the date specified
 Division 4 —
 
 Mergers
+
+[23/2007 wef 01/07/2007]
 
 ### Mergers
 
@@ -1642,6 +1652,8 @@ may enter any premises.
 
 (c) indicates the nature of the offences created by sections 75 to 78.
 
+[23/2007 wef 01/07/2007]
+
 (3) Subsection (2) shall not apply —
 
 (a) if the investigating officer or inspector has reasonable grounds for suspecting that the premises are, or have been, occupied by an undertaking which is being investigated in relation to —
@@ -1651,6 +1663,8 @@ may enter any premises.
 (ii) conduct referred to in section 47; or
 
 (iii) an anticipated merger, or a merger referred to in section 54; or
+
+[23/2007 wef 01/07/2007]
 
 (b) if the investigating officer or inspector has taken all such steps as are reasonably practicable to give notice but has not been able to do so.
 
@@ -1664,6 +1678,8 @@ may enter any premises.
 
 (ii) a document containing the information referred to in subsection (2)(b) and (c); and
 
+[23/2007 wef 01/07/2007]
+
 (b) in the case of an inspector and any person required by him, upon production of —
 
 (i) evidence of the inspector’s appointment; and
@@ -1671,6 +1687,8 @@ may enter any premises.
 [23/2007 wef 01/07/2007]
 
 (ii) a document containing the information referred to in subsection (2)(b) and (c).
+
+[23/2007 wef 01/07/2007]
 
 (5) An investigating officer, an authorised person, an inspector or a person required by the inspector entering any premises under this section may —
 
@@ -1692,9 +1710,13 @@ may enter any premises.
 
 (ii) in which it is visible and legible; and
 
+[23/2007 wef 01/07/2007]
+
 (f) take any step which appears to be necessary for the purpose of preserving or preventing interference with any document which he considers relates to any matter relevant to the investigation.
 
 [40/2005]
+
+[23/2007 wef 01/07/2007]
 
 [UK Competition 1998, s. 27]
 
@@ -1715,6 +1737,8 @@ may enter any premises.
 (ii) if the documents were required to be produced, they would not be produced but would be concealed, removed, tampered with or destroyed; or
 
 (c) an investigating officer, an authorised person, an inspector or a person required by the inspector has attempted to enter the premises in the exercise of his powers under section 64 but has been unable to do so and that there are reasonable grounds for suspecting that there are on the premises documents the production of which could have been required under that section.
+
+[23/2007 wef 01/07/2007]
 
 (2) A warrant under this section shall authorise a named officer, and —
 
@@ -1745,6 +1769,8 @@ to do all or any of the following:
 (A) in which it can be taken away; and
 
 (B) in which it is visible and legible; and
+
+[23/2007 wef 01/07/2007]
 
 (viii) to remove from those premises for examination any equipment or article which relates to any matter relevant to the investigation.
 
@@ -1800,11 +1826,15 @@ as the case may be;
 
 66\.—(1) A person is not excused from disclosing any information or document to the Commission or, as the case may be, to an investigating officer, such officer or person as the Commission has authorised in writing to accompany the investigating officer, an inspector or a person required by the inspector, under a requirement made of him under any provision of this Act on the ground that the disclosure of the information or document might tend to incriminate him.
 
+[23/2007 wef 01/07/2007]
+
 (2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Act to the Commission or, as the case may be, to an investigating officer, such officer or person as the Commission has authorised in writing to accompany the investigating officer, an inspector or a person required by the inspector, that the statement might tend to incriminate him, that statement —
 
 (a) shall not be admissible in evidence against him in criminal proceedings other than proceedings under Part V; but
 
 (b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings, including proceedings under this Act.
+
+[23/2007 wef 01/07/2007]
 
 (3) Nothing in this Part shall —
 
@@ -1868,6 +1898,8 @@ the Commission may give such directions as it considers appropriate for that pur
 
 (4) A direction given under this section shall have effect while subsection (1) or (1A), as the case may be, applies, but may be replaced if the circumstances permit by a direction under section 69.
 
+[23/2007 wef 01/07/2007]
+
 (5) In the case of a suspected infringement of the section 34 prohibition, sections 69(2)(a) and 85 shall also apply to directions given under this section.
 
 (6) In the case of a suspected infringement of the section 47 prohibition, sections 69(2)(b) and 85 shall also apply to directions given under this section.
@@ -1892,7 +1924,9 @@ the Commission proposes to make a decision that the section 34 prohibition has b
 
 (ii) give such person an opportunity to make representations to the Commission.
 
-(2) Subject to subsections (3) and (5), upon considering any representation made to the Commission under subsection (1) (ii), the Commission may, as it thinks fit, make a decision that —
+[23/2007 wef 01/07/2007]
+
+(2) Subject to subsections (3) and (5), upon considering any representation made to the Commission under subsection (1)(ii), the Commission may, as it thinks fit, make a decision that —
 
 (a) the section 34 prohibition has been infringed by any agreement;
 
@@ -1910,7 +1944,7 @@ the Commission proposes to make a decision that the section 34 prohibition has b
 
 (b) in relation to a merger, the Commission proposes to make a decision that the section 54 prohibition has been infringed by the merger,
 
-and the Commission has given written notice under subsection (1) (i) to the parties to the anticipated merger or the parties involved in the merger, as the case may be, any such party may, within 14 days of the date of the notice, apply to the Minister for the anticipated merger, if carried into effect, or the merger to be exempted from the section 54 prohibition on the ground of any public interest consideration.
+and the Commission has given written notice under subsection (1)(i) to the parties to the anticipated merger or the parties involved in the merger, as the case may be, any such party may, within 14 days of the date of the notice, apply to the Minister for the anticipated merger, if carried into effect, or the merger to be exempted from the section 54 prohibition on the ground of any public interest consideration.
 
 [23/2007 wef 01/07/2007]
 
@@ -1925,6 +1959,8 @@ and the Commission has given written notice under subsection (1) (i) to the part
 [23/2007 wef 01/07/2007]
 
 (6) The Minister may revoke the exemption of an anticipated merger or a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
+
+[23/2007 wef 01/07/2007]
 
 [UK Competition 1998, s. 31]
 
@@ -1948,7 +1984,11 @@ the Commission may give to such person as it thinks appropriate such directions 
 
 (a) where the decision is that any agreement has infringed the section 34 prohibition, requiring parties to the agreement to modify or terminate the agreement;
 
+[23/2007 wef 01/07/2007]
+
 (b) where the decision is that any conduct has infringed the section 47 prohibition, requiring the person concerned to modify or cease the conduct;
+
+[23/2007 wef 01/07/2007]
 
 (ba) where the decision is that any anticipated merger, if carried into effect, will infringe the section 54 prohibition —
 
@@ -1986,6 +2026,8 @@ the Commission may give to such person as it thinks appropriate such directions 
 
 (3) For the purpose of subsection (2)(d), the Commission may impose a financial penalty only if it is satisfied that the infringement has been committed intentionally or negligently.
 
+[23/2007 wef 01/07/2007]
+
 (4) No financial penalty fixed by the Commission under this section may exceed 10% or such other percentage of such turnover of the business of the undertaking in Singapore for each year of infringement for such period, up to a maximum of 3 years, as the Minister may, by order published in theGazette, prescribe.
 
 (5) The Commission shall, in any direction requiring the payment of a financial penalty, specify the date before which the financial penalty is to be paid, being a date not earlier than the end of the period within which an appeal against the direction may be brought under section 71.
@@ -1994,7 +2036,7 @@ the Commission may give to such person as it thinks appropriate such directions 
 
 [4/2010 wef 17/02/2010]
 
-[Canada Competition, s. 92 (1) (e) (i) and (ii); UK Competition 1998, ss. 32, 33 and 36 (1), (2), (3), (6), (7) and (8)].]
+[Canada Competition, s. 92 (1) (e) (i) and (ii); UK Competition 1998, ss. 32, 33 and 36 (1), (2), (3), (6), (7) and (8)]
 
 ### Notification
 
@@ -2014,9 +2056,13 @@ General
 
 71\.—(1) Any party to an agreement in respect of which the Commission has made a decision, any person in respect of whose conduct the Commission has made a decision, any party to an anticipated merger in respect of which the Commission has made a decision or any party involved in a merger in respect of which the Commission has made a decision, may appeal within the prescribed period to the Board against, or with respect to, that decision.
 
+[23/2007 wef 01/07/2007]
+
 (1A) Any person, other than a person referred to in subsection (1), to whom the Commission has given a direction under section 58A, 67 or 69 may appeal within the prescribed period to the Board against, or with respect to, that direction.
 
 [40/2005]
+
+[23/2007 wef 01/07/2007]
 
 (2) Except in the case of an appeal against the imposition, or the amount, of a financial penalty, the making of an appeal under this section shall not suspend the effect of the decision to which the appeal relates.
 
@@ -2160,6 +2206,8 @@ OFFENCES
 
 75\.—(1) Any person who fails to comply with a requirement imposed on him under section 61A, 63, 64 or 65 shall be guilty of an offence.
 
+[23/2007 wef 01/07/2007]
+
 (2) If a person is charged with an offence under subsection (1) in respect of a requirement to produce a document, it shall be a defence for him to prove that —
 
 (a) the document was not in his possession or under his control; and
@@ -2178,6 +2226,8 @@ it shall be a defence for him to prove that he had a reasonable excuse for faili
 
 (4) Failure to comply with a requirement imposed under section 61A, 63 or 64 shall not be an offence if the person imposing the requirement has failed to act in accordance with that section.
 
+[23/2007 wef 01/07/2007]
+
 [UK Competition 1998, s. 42 (1) to (4)]
 
 ### Destroying or falsifying documents
@@ -2189,6 +2239,8 @@ it shall be a defence for him to prove that he had a reasonable excuse for faili
 (b) causes or permits its destruction, disposal, falsification or concealment,
 
 shall be guilty of an offence.
+
+[23/2007 wef 01/07/2007]
 
 [UK Competition 1998, s. 43 (1)]
 
@@ -2528,7 +2580,9 @@ for anything done (including any statement made) or omitted to be done in good f
 
 ### Proceedings conducted by officers of Commission
 
-91A\.—(1) Proceedings in respect of an offence under this Act may be conducted by an officer of the Commission who is authorised in writing in that behalf by the Chief Executive.
+91A\.—(1) Proceedings in respect of an offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Commission who is authorised in writing in that behalf by the Chief Executive.
+
+[15/2010 wef 02/01/2011]
 
 (2) Notwithstanding the provisions of any written law, a legal officer of the Commission who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
 
@@ -2604,7 +2658,7 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Commission
+Constitution and proceedings of Commission
 
 Appointment of Chairman and members
 
@@ -2744,7 +2798,9 @@ Powers of Commission
 
 4\. To publish educational materials or carry out other educational activities relating to competition; or to support (financially or otherwise) the carrying out by others of such activities or the provision by others of information or advice.
 
-5\. To carry out research and studies and to conduct seminars, workshops and symposia relating to competition, or to support (financially or otherwise) the carrying out by others of such activities.
+5. To carry out research and studies and to conduct seminars, workshops and symposia relating to competition, or to support (financially or otherwise) the carrying out by others of such activities.
+
+[23/2007 wef 01/07/2007]
 
 6\. With the approval of the Minister, to form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any capacity.
 
@@ -2770,7 +2826,7 @@ THIRD SCHEDULE
 
 Sections 35, 48 and 92 and paragraph 2 of Fourth Schedule
 
-Exclusions from Section 34 Prohibition and Section 47 Prohibition
+Exclusions from section 34 prohibition and section 47 prohibition
 
 Services of general economic interest, etc.
 
@@ -2896,7 +2952,7 @@ FOURTH SCHEDULE
 
 Sections 55 and 92
 
-Exclusions from Section 54 Prohibition
+Exclusions from section 54 prohibition
 
 1. The section 54 prohibition shall not apply to any merger —
 
@@ -2918,7 +2974,7 @@ Competition Act
 
 (CHAPTER 50B)
 
-Notes: — Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 ACRA 2005 Ed.
 
@@ -2998,7 +3054,7 @@ Competition Act
 
 (CHAPTER 50B)
 
-This Legislative History is provided for the convenience of users of the Competition Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Competition Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -3051,3 +3107,9 @@ This Legislative History is provided for the convenience of users of the Competi
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010|
+|11.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
