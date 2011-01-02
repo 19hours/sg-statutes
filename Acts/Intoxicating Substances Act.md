@@ -292,7 +292,13 @@ shall be guilty of an offence.
 
 ### Powers of investigation of officers of Bureau
 
-12\. In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
+12\.—(1) In any case relating to the commission of an offence under this Act, an officer of the Bureau shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
+
+[15/2010 wef 02/01/2011]
+
+(2) For the purposes of subsection (1), when an officer of the Bureau is exercising the powers of a police officer under the Criminal Procedure Code 2010, the officer of the Bureau shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
 
 ### Blood tests
 
@@ -1028,6 +1034,12 @@ This Legislative History is provided for the convenience of users of the Intoxic
 |||(Bill No. 9/2007 published on 27 February 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 January 2008|
+|10.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Intoxicating Substances Act
