@@ -152,6 +152,8 @@ PRELIMINARY
 
 (a) is an officer of the armed forces or a senior military expert; or
 
+[28/2009 wef 01/04/2010]
+
 (b) is skilled in an occupation which the Minister by notification in theGazettedesignates as an occupation required to meet the needs of the armed forces,
 
 not more than 50 years of age;
@@ -172,7 +174,7 @@ not more than 50 years of age;
 
 “Singapore Armed Forces” means the Singapore Armed Forces constituted under the Singapore Armed Forces Act;
 
-“Special Constabulary” means the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235) ;
+“Special Constabulary” means the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235);
 
 “subordinate military court” has the same meaning as in the Singapore Armed Forces Act.
 
@@ -203,6 +205,8 @@ REGISTRATION
 (d) submit to the taking of his photograph and finger impressions.
 
 (2) Any person affected by a notice given under section 3(1) who, without lawful excuse, fails to present himself for registration in accordance with the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[14/2006 wef 08/05/2006]
 
 (3) The court before which a person is convicted of an offence under subsection (2) may also order that person to present himself for registration for national service on or before a specified date and any person who, without lawful excuse, fails to present himself for registration in accordance with such an order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 for every day during which he fails to register himself after the specified date.
 
@@ -320,7 +324,7 @@ such person shall be liable to serve for a period not exceeding 2 years and 6 mo
 
 [25/89; 19/94]
 
-(2) For the purposes of subsections (1)(c), where a period of operationally ready national service between 18 and 24 hours falls within 2 calendar days it shall be deemed to be 2 days of service.
+(2) For the purposes of subsection (1)(c), where a period of operationally ready national service between 18 and 24 hours falls within 2 calendar days it shall be deemed to be 2 days of service.
 
 [19/94]
 
@@ -402,6 +406,8 @@ DUTY OF EMPLOYER
 
 (b) to report for mobilised service under section 73 or 97 of the Police Force Act 2004,
 
+[24/2004 wef 12/10/2004]
+
 shall reinstate that person in his employment at the termination of such service.
 
 [21/74; 19/94]
@@ -428,6 +434,8 @@ shall reinstate that person in his employment at the termination of such service
 
 (b) mobilised service under section 73 of the Police Force Act 2004; or
 
+[24/2004 wef 12/10/2004]
+
 (c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force under the Singapore Armed Forces Act (Cap. 295) or in the Special Constabulary under the Police Force Act,
 
 unless that person —
@@ -453,6 +461,8 @@ unless that person —
 (a) national service;
 
 (b) mobilised service under section 73 of the Police Force Act 2004; or
+
+[24/2004 wef 12/10/2004]
 
 (c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force under the Singapore Armed Forces Act (Cap. 295) or in the Special Constabulary under the Police Force Act (Cap. 235),
 
@@ -520,7 +530,7 @@ shall be entitled to claim reimbursement of an amount by which his civilian remu
 
 (7) In this section and section 25 —
 
-“civilian remuneration,” in respect of any person, means the following moneys which the person would have received had he not been required to perform any relevant service —
+“civilian remuneration”, in respect of any person, means the following moneys which the person would have received had he not been required to perform any relevant service —
 
 (a) remuneration derived from gainful employment; and
 
@@ -539,6 +549,8 @@ but does not include ex gratia payments or allowances paid to reimburse the pers
 “designated authority” means any person designated by the Minister for the purposes of this Act;
 
 “mobilised service” includes mobilised service under section 73 or 97 of the Police Force Act 2004;
+
+[24/2004 wef 12/10/2004]
 
 “relevant service” means —
 
@@ -569,8 +581,6 @@ but does not include ex gratia payments or allowances paid to reimburse the pers
 [24A
 
 [16/2001]
-
-[16/2001 wef 15/05/2001]
 
 ## PART VII
 
@@ -740,6 +750,8 @@ Facsimile transmission, telex and other means of telecommunication
 
 32\.—(1) A person subject to this Act who has been registered under section 3 or is deemed to be registered or is liable to register under this Act, or a relevant child, shall not leave Singapore or remain outside Singapore unless he is in possession of a valid permit (referred to in this Act as exit permit) issued by the proper authority permitting him to do so.
 
+[14/2006 wef 15/08/2006]
+
 (2) A person to whom an exit permit under subsection (1) is granted shall return to Singapore before the expiry of the period for which he was allowed to stay outside Singapore.
 
 [31
@@ -780,6 +792,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [32
 
+[14/2006 wef 15/08/2006]
+
+[14/2006 wef 08/05/2006]
+
 ### Composition of offences
 
 34\.—(1) The proper authority may, in its discretion, compound any offence under this Act which is prescribed to be a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
@@ -800,13 +816,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [16/2001]
 
-[16/2001 wef 15/05/2001]
-
 ### Enlistment inspectors
 
 35\. The proper authority may appoint one or more public officers as enlistment inspectors to investigate the commission of any offence under this Act.
-
-[16/2001 wef 15/05/2001]
 
 [32B
 
@@ -818,9 +830,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [16/2001]
 
-(2) Where a person is arrested by an enlistment inspector under this section, the enlistment inspector shall comply with sections 35 and 36 of the Criminal Procedure Code (Cap. 68) as if he were a police officer.
+(2) Where a person is arrested by an enlistment inspector under this section, the enlistment inspector shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.
 
 [16/2001]
+
+[15/2010 wef 02/01/2011]
 
 (3) In any case relating to the commission of an offence under this Act, any enlistment inspector shall have the power to do all or any of the following:
 
@@ -847,8 +861,6 @@ and may seize any evidence so found.
 [32C
 
 [16/2001]
-
-[16/2001 wef 15/05/2001]
 
 ### Regulations
 
@@ -974,11 +986,17 @@ This Legislative History is provided for the convenience of users of the Enlistm
 ||Date of Second and Third Readings|3 April 2006|
 ||Date of commencement|15 August 2006 (sections 3 and 4(a))|
 |21.|**Act 28 of 2009—Singapore Armed Forces (Amendment) Act 2009**|
-||(Related amendments made by)||
+||(Related amendments made to Act by)||
 ||Date of First Reading|19 October 2009|
 |||(Bill No. 21/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|23 November 2009|
 ||Date of commencement|1 April 2010|
+|22.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Enlistment Act
@@ -991,7 +1009,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 2001 Ed\. 
 
-1995 Ed 
+1995 Ed\. 
 
 PART I — PRELIMINARY
 
@@ -1001,9 +1019,9 @@ PART II — REGISTRATION
 
 PART II
 
-8— (2) and (3)
+8 —(2) and (3)
 
-8— (2)
+8 —(2)
 
 (4) and (5)
 
@@ -1025,7 +1043,7 @@ Obsolete
 
 12 —(3)
 
-15— (1) and (2)
+15 —(1) and (2)
 
 15 
 
@@ -1037,9 +1055,9 @@ PART VI — DUTY OF EMPLOYER
 
 PART V
 
-21 — (1) and (2)
+21 —(1) and (2)
 
-21 — (1)
+21 —(1)
 
 (3)
 
@@ -1053,9 +1071,9 @@ PART V
 
 (4)
 
-22 — (1) and (2)
+22 —(1) and (2)
 
-22 — (1)
+22 —(1)
 
 (3)
 
