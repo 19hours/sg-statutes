@@ -106,6 +106,8 @@ PRELIMINARY
 
 “customs duty” means any customs duty or excise tax imposed under the Customs Act;
 
+[33/2000 wef 01/01/2000]
+
 “customs territory” means Singapore and the territorial waters thereof but excluding any free trade zone;
 
 “dutiable goods” means any goods subject to the payment of customs duty on entry into customs territory or manufactured in Singapore including any free trade zone and on which customs duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
@@ -118,7 +120,9 @@ PRELIMINARY
 
 Provided that the Director-General may, in his discretion, determine that the result of any manufacture is not a new product or article and a change in tariff classification has not been effected;
 
-“officer of customs”, “proper officer of customs” and “senior officer of customs” have the same meanings as in the Customs Act (Cap. 70);
+“officer of customs”, “proper officer of customs” and “senior officer of customs” have the same meanings as in the Customs Act (Cap. 70).
+
+[3
 
 [4/2003 wef 01/04/2003]
 
@@ -150,7 +154,7 @@ OPERATIONS PERMITTED WITHIN A FREE TRADE ZONE
 
 (b) unless otherwise directed by the authority, be stored, sold, exhibited, broken up, repacked, assembled, distributed, sorted, graded, cleaned, mixed, or otherwise manipulated, or be manufactured in accordance with the provisions of this Act:
 
-Provided that when any goods of a class dutiable on entry into customs territory whether in their original condition or after manufacture or as part or ingredient of any goods manufactured in a free trade zone are sent from a free trade zone into the customs territory, the goods shall be subject to the provisions of the Customs Act [Cap. 70] and any regulations made thereunder.
+Provided that when any goods of a class dutiable on entry into customs territory whether in their original condition or after manufacture or as part or ingredient of any goods manufactured in a free trade zone are sent from a free trade zone into the customs territory, the goods shall be subject to the provisions of the Customs Act (Cap. 70) and any regulations made thereunder.
 
 (3) Goods, except such as are prescribed under subsection (4), which have been brought into a free trade zone from customs territory shall be deemed to be exported for the purpose of drawback under the provisions of the Customs Act.
 
@@ -308,11 +312,15 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 19\. Prosecutions in respect of offences committed under —
 
-(a) section 9 may be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General; and
+(a) section 9 may, with the authorisation of the Public Prosecutor, be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General; and
 
-(b) any other provisions of this Act or any regulations made thereunder may be conducted by an officer of the authority specially or generally authorised in writing in that behalf by the Minister.
+[15/2010 wef 02/01/2011]
+
+(b) any other provisions of this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by an officer of the authority specially or generally authorised in writing in that behalf by the Minister.
 
 [20
+
+[15/2010 wef 02/01/2011]
 
 ### Burden of proof
 
@@ -395,3 +403,8 @@ This Legislative History is provided for the convenience of users of the Free Tr
 |||(Bill No. 6/2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|18 May 2010|
+||Date of commencement|2 January 2011|
