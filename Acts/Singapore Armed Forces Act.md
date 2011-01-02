@@ -2322,15 +2322,15 @@ subject to the same right of the accused to object.
 
 ### Application of Criminal Procedure Code
 
-94\.—(1) Without prejudice to section 93 of this Act, sections 158 to 178, 224 (other than paragraph (d) thereof), 225, 227 to 230, 232, 233, 239, 240, 307 to 319, 331 to 333, 364, 366 to 388, 390 to 396, 398 and 399 to 403 of the Criminal Procedure Code (Cap. 68), in so far as they are not inconsistent with the provisions of this Act or any regulations made thereunder, shall apply, with the necessary modification, to proceedings before and punishments awarded by subordinate military courts.
+94\.—(1) Without prejudice to section 93 of this Act, sections 123 to 148, 244 to 256, 262 to 276, 282, 283, 284, 290, 293, 294, 296, 297, 319 (other than subsection (1)(e) thereof), 320, 326 to 332, 359, 360, 364, 365, 366, 368 to 372, 391, 423 and 426 of the Criminal Procedure Code 2010, in so far as they are not inconsistent with the provisions of this Act or any regulations made thereunder, shall apply, with the necessary modification, to proceedings before and punishments awarded by subordinate military courts.
 
 [20/75; 1/94]
 
-(2) A subordinate military court when invoking section 224 of the Criminal Procedure Code (other than paragraph (d) thereof) may award detention or special detention in a disciplinary barrack instead of imprisonment.
+(2) A subordinate military court when invoking section 319 of the Criminal Procedure Code 2010 (other than subsection (1)(e) thereof) may award detention or special detention in a disciplinary barrack instead of imprisonment.
 
-(3) Section 230 of the Criminal Procedure Code shall apply to any sentence of caning awarded or imposed under this Act notwithstanding any other provisions of this Act or any regulations made thereunder.
+(3) Section 328 of the Criminal Procedure Code 2010 shall apply to any sentence of caning awarded or imposed under this Act notwithstanding any other provisions of this Act or any regulations made thereunder.
 
-(4) In exercising the powers under section 232 of the Criminal Procedure Code, a subordinate military court may award any less punishment authorised by this Act instead of imprisonment.
+(4) In exercising the powers under section 331 of the Criminal Procedure Code 2010, a subordinate military court may award any less punishment authorised by this Act instead of imprisonment.
 
 (5) The Minister may, by order published in theGazette, provide for the application of such other provisions of the Criminal Procedure Code as he thinks fit for the purposes of investigation, trial and punishment of offences punishable under this Act, subject to any modifications as may be specified in the order.
 
@@ -4004,9 +4004,15 @@ AID TO CIVILIAN AUTHORITIES
 
 201C\.—(1) Where the Minister, after consulting the Committee, is of the opinion that a relevant event has occurred, could occur or would be likely to occur, the Minister may, from time to time, order the Singapore Armed Forces to be deployed for the relevant event for such period as may be specified in the order.
 
+[25/2007 wef 01/08/2007]
+
 (2) For the purposes of this Part, the Prime Minister shall appoint a Committee consisting of such persons as he may appoint.
 
+[25/2007 wef 01/08/2007]
+
 (3) Any order made under subsection (1) shall be published in theGazetteas soon as practicable after it is made unless, for reasons of urgency or national security, it would be impracticable or undesirable to do so.
+
+[25/2007 wef 01/08/2007]
 
 (4) Any order made under subsection (1) shall specify ––
 
@@ -4020,9 +4026,15 @@ AID TO CIVILIAN AUTHORITIES
 
 (e) the period for which the order shall be in force.
 
+[25/2007 wef 01/08/2007]
+
 (5) An order made under subsection (1) shall not be invalid by reason that it does not specify one or more of the particulars in subsection (4), if the Minister is satisfied that it is impracticable or undesirable that such particulars be so specified.
 
+[25/2007 wef 01/08/2007]
+
 (6) The Minister, after consulting the Committee, may at any time revoke or vary any order made under subsection (1).
+
+[25/2007 wef 01/08/2007]
 
 (7) The Minister may make any order under subsection (1) without consulting the Committee if he is satisfied that ––
 
@@ -4030,11 +4042,17 @@ AID TO CIVILIAN AUTHORITIES
 
 (b) any of the circumstances specified in that subsection exists.
 
+[25/2007 wef 01/08/2007]
+
 (8) An order made under subsection (1) by virtue of subsection (7) shall cease to be valid after the expiration of 72 hours from the time it was made, unless confirmed by the Committee.
+
+[25/2007 wef 01/08/2007]
 
 (9) Subject to sections 201E and 201F, any serviceman deployed for duty in accordance with any order made under subsection (1) which is in force may, for the purposes of the relevant event for which he is deployed, do one or more of the following:
 
-(a) exercise any of the powers conferred on a police officer by Chapters IV and XII and section 68 of the Criminal Procedure Code (Cap. 68) in like manner as if references in those provisions to ––
+(a) exercise any of the powers conferred on a police officer by sections 63 to 68 and 75 to 85 of the Criminal Procedure Code 2010 in like manner as if references in those provisions to ––
+
+[15/2010 wef 02/01/2011]
 
 (i) a police officer were references to a serviceman;
 
@@ -4060,6 +4078,8 @@ AID TO CIVILIAN AUTHORITIES
 
 (iii) seize any vehicle in which that evidence, weapon, explosive, dangerous device or substance, article or material is found.
 
+[25/2007 wef 01/08/2007]
+
 (10) In this section, “relevant event” means ––
 
 (a) a terrorist attack in Singapore;
@@ -4073,6 +4093,8 @@ AID TO CIVILIAN AUTHORITIES
 (e) the unlawful carriage by land in or through Singapore of any weapon, explosive or other dangerous device or substance; or
 
 (f) such other event as the Prime Minister may, by notification in theGazette, specify.
+
+[25/2007 wef 01/08/2007]
 
 ### Powers of Singapore Armed Forces in vicinity of protected area or place
 
@@ -4138,7 +4160,11 @@ AID TO CIVILIAN AUTHORITIES
 
 ### Procedure on arrest of persons, seizure of property or detention of aircraft and vessels
 
-201G\.—(1) Any person arrested or detained by a serviceman in exercise of his powers under section 201B(3) or (4) or 201C(9) shall be handed over to a police officer as soon as practicable, and section 34(2), (3) and (4) of the Criminal Procedure Code (Cap. 68) shall apply to that person as if he were handed over to the police officer under section 34(1) of that Code.
+201G\.—(1) Any person arrested or detained by a serviceman in exercise of his powers under section 201B(3) or (4) or 201C(9) shall be handed over to a police officer as soon as practicable, and section 66(3), (4) and (5) of the Criminal Procedure Code 2010 shall apply to that person as if he were handed over to the police officer under section 66(1) and (2) of that Code.
+
+[25/2007 wef 01/08/2007]
+
+[15/2010 wef 02/01/2011]
 
 (2) Where a serviceman has seized any thing or vehicle in exercise of his powers under section 201B(3) or (4) or 201C(9), the serviceman shall —
 
@@ -4148,7 +4174,11 @@ AID TO CIVILIAN AUTHORITIES
 
 (c) if paragraph (b) does not apply, return the thing or vehicle to the person from whom it was seized, or hand it to a police officer as soon as practicable.
 
+[25/2007 wef 01/08/2007]
+
 (3) Any thing or vehicle seized by a serviceman shall be dealt with in the same manner as if it were seized by a police officer under the Criminal Procedure Code (Cap. 68).
+
+[25/2007 wef 01/08/2007]
 
 (4) Where a serviceman has detained any aircraft or vessel in exercise of his powers under section 201B(3) or (4), the serviceman shall —
 
@@ -4157,6 +4187,8 @@ AID TO CIVILIAN AUTHORITIES
 (b) report the detention of the aircraft or vessel to the Chief of Defence Force as soon as practicable; and
 
 (c) deal with the aircraft or vessel in such manner as the Chief of Defence Force, after consulting the Commissioner of Police, shall determine.
+
+[25/2007 wef 01/08/2007]
 
 ### Obstruction of exercise of powers
 
@@ -4775,13 +4807,17 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 21/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|23 November 2009|
 ||Date of commencement|1 April 2010|
+|23.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
 
 (CHAPTER 295)
-
-COMPARATIVE TABLE
 
 The following provisions in the 1995 Revised Edition of the Singapore Armed Forces Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
