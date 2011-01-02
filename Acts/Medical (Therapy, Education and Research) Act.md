@@ -208,17 +208,19 @@ SUPPLEMENTARY PROVISIONS
 
 ### Removal and use of body to be lawful
 
-16\.—(1) Subject to subsection (2), the removal and use of any part of a body in accordance with section 3 or 4, as the case may be, or the post-mortem examination of a body in accordance with the provisions of Part III, shall be lawful.
+16\.—(1) Subject to subsection (2), the removal and use of any part of a body in accordance with section 3, 4 or 12, as the case may be, or the post-mortem examination of a body in accordance with the provisions of Part III, shall be lawful.
 
 (2) No such removal or post-mortem examination shall be effected except —
 
 (a) by a registered medical practitioner, who shall have satisfied himself that the death of the deceased person has been determined and certified in accordance with section 2A of the Interpretation Act (Cap. 1); or
 
-(b) with the written consent of the Coroner in a case where an inquiry is to be held in respect of the death of any person.
+(b) where the Coroner has ordered the release of the body under section 22(3)(c) of the Coroners Act 2010, in a case where an inquiry is to be held in respect of the death of any person.
+
+[22/1998 wef 02/11/1998]
 
 ### Power of Coroner unaffected
 
-17\. Sections 3, 4, 13, 14 and 15 shall be without prejudice to the authority of the Coroner to direct the post-mortem examination of a body of a deceased person under the provisions of the Criminal Procedure Code [Cap. 68].
+17\. Sections 3, 4, 13, 14 and 15 shall be without prejudice to the authority of the Coroner to direct the post-mortem examination of a body of a deceased person under the provisions of the Coroners Act 2010.
 
 ## THE SCHEDULE
 
@@ -256,7 +258,7 @@ Medical (Therapy, Education and Research) Act
 
 (CHAPTER 175)
 
-This Legislative History is provided for the convenience of users of the Medical (Therapy, Education and Research) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Medical (Therapy, Education and Research) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -285,3 +287,9 @@ This Legislative History is provided for the convenience of users of the Medical
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (item (30) in the Second Schedule — amendment of Medical (Therapy, Education and Research) Act)|
+|6.|**Act 14 of 2010—Coroners Act 2010**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (item 2 in the Fourth Schedule — amendment of Medical (Therapy, Education and Research) Act)|
