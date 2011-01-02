@@ -296,9 +296,11 @@ to give security in such form as the Licensing Officer may determine that the pr
 
 (b) who refuses to furnish his name and address or who furnishes a name and address reasonably suspected of being false or who furnishes an address outside Singapore or who is reasonably suspected of being likely to abscond.
 
-(2) Every person so arrested shall be taken to a police station and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code (Cap. 68).
+(2) Every person so arrested shall be taken to a police station and shall thereafter be dealt with as if he had been arrested under section 65 of the Criminal Procedure Code 2010.
 
 [17
+
+[15/2010 wef 02/01/2011]
 
 ### Penalties
 
@@ -450,6 +452,8 @@ in any place to which the public or any class of the public has access whether g
 
 (g) any exhibition of film, or any peep-show;
 
+[S 292/2002 wef 01/07/2002]
+
 (h) any reproduction or transmission otherwise than in association with a film, by any means other than telephony or radio telephony, of any music, song or speech;
 
 (i) any machine or device by the manipulation of which chances are given of obtaining prizes in money or kind;
@@ -459,6 +463,8 @@ in any place to which the public or any class of the public has access whether g
 (k) any sporting contest of any kind between any number of persons or animals, other than that organised by any registered society, trade union, company or association;
 
 (l) any organised competition at games of skill or chance;
+
+(m) [Deleted by Act 15/2009 wef 09/10/2009]
 
 (ma) any arts entertainment; or
 
@@ -479,6 +485,8 @@ in any place to which the public or any class of the public has access whether g
 [S 671/2001 wef 01/01/2002]
 
 (d) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded;
+
+[15/2009 wef 09/10/2009]
 
 (e) public entertainment provided by or under the auspices of any statutory board constituted by or under any written law for a public purpose; and
 
@@ -544,6 +552,12 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 8/2009 published on 23 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|9 October 2009|
+|14.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second Reading and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (Item 84 of the Sixth Schedule – Amendment of Public Entertainments and Meeting Act)|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
