@@ -230,17 +230,23 @@ MEDIATION
 
 from representing that company, corporation, body corporate or society, as the case may be.
 
+[4/2010 wef 17/02/2010]
+
 (3) Where a Director approves of the representation of a party by an agent, the approval of the Director may be given subject to such conditions as the Director considers reasonable to ensure that any other party to the mediation session is not substantially disadvantaged by the agent appearing at the mediation session and, where the Director does so, the entitlement of the agent to represent the party shall be subject to compliance by the agent with those conditions.
 
 ### Referral of cases by Magistrate
 
-15\.—(1) Notwithstanding any provision of this Act or any written law, a Magistrate who takes cognizance of an offence upon receiving a complaint made by a private person under section 128 of the Criminal Procedure Code (Cap. 68) may, if —
+15\.—(1) Notwithstanding any provision of this Act or any written law, a Magistrate who receives a complaint made by a private person under section 151 of the Criminal Procedure Code 2010 may, if —
 
-(a) the offence is one for which a summons shall ordinarily issue in the first instance according to the fourth column of Schedule A to the Criminal Procedure Code; and
+(a) the offence is one for which a summons shall ordinarily issue in the first instance according to the fourth column of the First Schedule to the Criminal Procedure Code 2010; and
 
 (b) the Magistrate is of the opinion either from the nature of the case or the attitude of the parties or both that the matter may more appropriately be resolved by mediation,
 
 refer the complaint to a mediator of a Community Mediation Centre for mediation with or without the consent of both the complainant and the person complained against.
+
+[6/2004 wef 03/05/2004]
+
+[15/2010 wef 02/01/2011]
 
 (2) In making any referral under subsection (1), the Magistrate may order the personal attendance of the complainant or the person complained against before a mediator of a Community Mediation Centre at a time and place to be specified in the order of the Magistrate.
 
@@ -394,3 +400,9 @@ This Legislative History is provided for the convenience of users of the Communi
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010|
+|6.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 20110|
+||Date of commencement|2 January 2011|
