@@ -90,7 +90,7 @@
 
 - [36 Jurisdiction of court](#Jurisdiction-of-court)
 
-- [37 Sanction for prosecution](#Sanction-for-prosecution)
+- [37 Consent for prosecution](#Consent-for-prosecution)
 
 - [38 Presumption](#Presumption)
 
@@ -786,7 +786,7 @@ NEWSPAPERS
 
 (5) Notice of the grant or revocation of a permit to sell or distribute an offshore newspaper shall be published in theGazette.
 
-[19/90; S92/97]
+[19/90; S 92/97]
 
 (6) In any proceedings under this section, it shall be presumed, until the contrary is proved, that any person found in possession of more than 5 copies of the same issue of an offshore newspaper had possession of them for sale or distribution.
 
@@ -900,6 +900,8 @@ NEWSPAPERS
 
 (a) officer of a postal licensee not below the rank of postal superintendent;
 
+[34/2007 wef 24/08/2007]
+
 (b) officer of customs;
 
 (c) police officer; and
@@ -909,8 +911,6 @@ NEWSPAPERS
 may detain, open and examine any package or article which he suspects to contain any declared foreign newspaper and if such newspaper, which is not marked in accordance with section 24(4), is found in the package or article, the whole package or article may be impounded and retained by the officer who shall deliver it to the Registrar.
 
 [22/86; 12/92]
-
-[34/2007 wef 24/08/2007]
 
 (2) The Registrar may destroy any declared foreign newspaper delivered to him under subsection (1) or may dispose of such newspaper in such manner as may be directed by the Minister.
 
@@ -992,17 +992,17 @@ GENERAL
 
 (a) officer of a postal licensee not below the rank of postal superintendent;
 
+[34/2007 wef 24/08/2007]
+
 (b) senior officer of customs; or
+
+[4/2003 wef 01/04/2003]
 
 (c) police officer not below the rank of Inspector,
 
 may detain, open and examine any package or article which he suspects to contain any newspaper which is being or has been brought into Singapore for the purpose of publication, sale or distribution in contravention of any of the provisions of this Act or of any condition imposed in respect of any permit.
 
 [12/92; 20/2002]
-
-[4/2003 wef 01/04/2003]
-
-[34/2007 wef 24/08/2007]
 
 (2) Any police officer or any officer of customs may seize and detain any newspaper found in the possession of any person which the police officer or the officer of customs has reasonable cause to believe has been printed, published, sold or distributed or is intended to be printed, published, sold or distributed in contravention of the provisions of this Act or of any conditions imposed in respect of any permit.
 
@@ -1034,11 +1034,13 @@ may detain, open and examine any package or article which he suspects to contain
 
 [20/2002]
 
-### Sanction for prosecution
+### Consent for prosecution
 
-37\. No prosecution shall be instituted under this Act without the previous sanction in writing of the Attorney-General or the Solicitor-General.
+37\. No prosecution shall be instituted under this Act without the consent of the Public Prosecutor.
 
 [29
+
+[15/2010 wef 02/01/2011]
 
 ### Presumption
 
@@ -1090,7 +1092,9 @@ may, with such assistance and by such force as may be necessary by night or day,
 
 [20/2002]
 
-### Payment of fees, etc.
+### \*Payment of fees, etc.
+
+\*Section 43 came into operation on 1st January 2003 [S 640/2002].
 
 43\. All fees, composition fines and other moneys collected under this Act shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
 
@@ -1142,41 +1146,41 @@ Newspaper and Printing Presses Act
 
 (CHAPTER 206)
 
-This Legislative History is provided for the convenience of users of the Newspaper and Printing Presses Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Newspaper and Printing Presses Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 12 of 1974—Newspaper and Printing Presses Act 1974**|
 ||Date of First Reading|14 March 1974|
-|||(Bill No. 9/1974 published on 15 March 1974|
+|||(Bill No. 9/1974 published on 15 March 1974)|
 ||Date of Second Reading|28 August 1974|
 ||Referred to Select Committee|Parl 3 of 1974 presented to Parliament on 17 August 1974|
 ||Date of commencement|1 January 1975|
 |2.|**Act 6 of 1977—Newspaper and Printing Presses (Amendment) Act 1977**|
 ||Date of First Reading|27 May 1977|
-|||(Bill No. 6/1977 published on 2 June 1977)|
+|||(Bill No. 14/1977 published on 2 June 1977)|
 ||Date of Second and Third Readings|29 June 1977|
 ||Date of commencement|18 July 1977|
 |3.|**Act 9 of 1981—Newspaper and Printing Presses (Amendment) Act 1981**|
 ||Date of First Reading|6 March 1981|
-|||(Bill No. 8/1981 published on 11 March 1981)|
+|||(Bill No. 35/1980 published on 11 March 1981)|
 ||Date of Second and Third Readings|26 March 1981|
 ||Date of commencement|24 April 1981|
 |4.|**Act 22 of 1986—Newspaper and Printing Presses (Amendment) Act 1986**|
 ||Date of First Reading|5 May 1986|
-|||(Bill No. 13/1986 published on 6 May 1986)|
+|||(Bill No. 27/1985 published on 6 May 1986)|
 ||Date of Second and Third Readings|1 August 1986|
 ||Date of commencement|1 September 1986|
 |5.|**1985 Revised Edition—Newspaper and Printing Presses Act**|
 ||Date of operation|30 March 1987|
 |6.|**Act 4 of 1988—Newspaper and Printing Presses (Amendment) Act 1988**|
 ||Date of First Reading|11 January 1988|
-|||(Bill No. 1/1988 published on 13 January 1988)|
+|||(Bill No. 31/1987 published on 13 January 1988)|
 ||Date of Second and Third Readings|27 January 1988|
 ||Date of commencement|12 February 1988|
 |7.|**Act 19 of 1990—Newspaper and Printing Presses (Amendment) Act 1990**|
 ||Date of First Reading|18 July 1990|
-|||(Bill No. 18/1990 published on 19 July 1990)|
+|||(Bill No. 26/1989 published on 19 July 1990)|
 ||Date of Second and Third Readings|30 August 1990|
 ||Date of commencement|1 December 1990|
 |8.|**1991 Revised Edition—Newspaper and Printing Presses Act**|
@@ -1213,6 +1217,12 @@ This Legislative History is provided for the convenience of users of the Newspap
 |||(Bill No. 22/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|16 July 2007|
 ||Date of commencement|24 August 2007|
+|16.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
@@ -1325,11 +1335,11 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (8)
 
-(8) (a)
+(8)(a)
 
 (9)
 
-(8) (b)
+(8)(b)
 
 20 
 
