@@ -60,19 +60,19 @@
 
 - [23 Admissions in civil cases when relevant](#Admissions-in-civil-cases-when-relevant)
 
-- [24 Confession caused by inducement, threat or promise when irrelevant in criminal proceeding](#Confession-caused-by-inducement-threat-or-promise-when-irrelevant-in-criminal-proceeding)
+- [24 (Repealed)](#Repealed)
 
-- [25 Confession to police officer below the rank of sergeant not to be proved](#Confession-to-police-officer-below-the-rank-of-sergeant-not-to-be-proved)
+- [25 (Repealed)](#Repealed)
 
-- [26 Confession by accused while in custody of police not to be proved against him](#Confession-by-accused-while-in-custody-of-police-not-to-be-proved-against-him)
+- [26 (Repealed)](#Repealed)
 
-- [27 How much of information received from accused may be proved](#How-much-of-information-received-from-accused-may-be-proved)
+- [27 (Repealed)](#Repealed)
 
-- [28 Confession made after removal of impression caused by inducement, threat or promise relevant](#Confession-made-after-removal-of-impression-caused-by-inducement-threat-or-promise-relevant)
+- [28 (Repealed)](#Repealed)
 
-- [29 Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc.](#Confession-otherwise-relevant-not-to-become-irrelevant-because-of-promise-of-secrecy-etc)
+- [29 (Repealed)](#Repealed)
 
-- [30 Consideration of proved confession affecting person making it and others jointly under trial for same offence](#Consideration-of-proved-confession-affecting-person-making-it-and-others-jointly-under-trial-for-same-offence)
+- [30 (Repealed)](#Repealed)
 
 - [31 Admissions not conclusive proof but may estop](#Admissions-not-conclusive-proof-but-may-estop)
 
@@ -996,49 +996,19 @@ Amay prove these facts for the reasons stated in illustration (d).
 
 Explanation.—Nothing in this section shall be taken to exempt any advocate or solicitor from giving evidence of any matter of which he may be compelled to give evidence under section 128.
 
-### Confession caused by inducement, threat or promise when irrelevant in criminal proceeding
+24\. [Repealed by Act 15/2010 wef 02/01/2011]
 
-24\. A confession made by an accused person is irrelevant in a criminal proceeding if the making of the confession appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused person, proceeding from a person in authority and sufficient in the opinion of the court to give the accused person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceeding against him.
+25\. [Repealed by Act 15/2010 wef 02/01/2011]
 
-### Confession to police officer below the rank of sergeant not to be proved
+26\. [Repealed by Act 15/2010 wef 02/01/2011]
 
-25\. 1No confession made to a police officer who is below the rank of sergeant by a person accused of any offence shall be proved as against the person.
+27\. [Repealed by Act 15/2010 wef 02/01/2011]
 
-1See also section 122 of the Criminal Procedure Code (Cap. 68).
+28\. [Repealed by Act 15/2010 wef 02/01/2011]
 
-### Confession by accused while in custody of police not to be proved against him
+29\. [Repealed by Act 15/2010 wef 02/01/2011]
 
-26\. Subject to any express provision in any written law, no confession made by any person whilst he is in the custody of a police officer, unless it is made in the immediate presence of a Magistrate, shall be proved as against the person.
-
-### How much of information received from accused may be proved
-
-27\. When any fact is deposed to as discovered in consequence of information received from a person accused of any offence in the custody of a police officer, so much of such information, whether such information amounts to a confession or not, as relates distinctly to the fact thereby discovered may be proved.
-
-### Confession made after removal of impression caused by inducement, threat or promise relevant
-
-28\. If a confession referred to in section 24 is made after the impression caused by any such inducement, threat or promise has, in the opinion of the court, been fully removed, it is relevant.
-
-### Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc.
-
-29\. If such a confession is otherwise relevant, it does not become irrelevant merely because —
-
-(a) it was made under a promise of secrecy, or in consequence of a deception practised on the accused person for the purpose of obtaining it, or when he was drunk;
-
-(b) it was made in answer to questions which he need not have answered, whatever may have been the form of those questions; or
-
-(c) he was not warned that he was not bound to make the confession and that evidence of it might be given against him.
-
-### Consideration of proved confession affecting person making it and others jointly under trial for same offence
-
-30\. When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
-
-Explanations—“Offence” as used in this section includes the abetment of or attempt to commit the offence.
-
-(a) AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murderedC”. The court may consider the effect of this confession as againstB.
-
-(b) Ais on his trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid: “Aand I murderedC”.
-
-This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
+30\. [Repealed by Act 15/2010 wef 02/01/2011]
 
 ### Admissions not conclusive proof but may estop
 
@@ -2432,23 +2402,41 @@ Illustrations
 
 The court may presume —
 
-(a) that a man who is in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen, unless he can account for his possession;
+(a)
 
-(b) that an accomplice is unworthy of credit and his evidence needs to be treated with caution;
+that a man who is in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen, unless he can account for his possession;
 
-(c) that a bill of exchange accepted or endorsed was accepted or endorsed for good consideration;
+(b)
 
-(d) that a thing or state of things which has been shown to be in existence within a period shorter than that within which such things or states of things usually cease to exist is still in existence;
+that an accomplice is unworthy of credit and his evidence needs to be treated with caution;
 
-(e) that judicial and official acts have been regularly performed;
+(c)
 
-(f) that the common course of business has been followed in particular cases;
+that a bill of exchange accepted or endorsed was accepted or endorsed for good consideration;
 
-(g) that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it;
+(d)
 
-(h) that if a man refuses to answer a question which he is not compelled to answer by law, the answer if given would be unfavourable to him;
+that a thing or state of things which has been shown to be in existence within a period shorter than that within which such things or states of things usually cease to exist is still in existence;
 
-(i) that when a document creating an obligation is in the hands of the obligor the obligation has been discharged.
+(e)
+
+that judicial and official acts have been regularly performed;
+
+(f)
+
+that the common course of business has been followed in particular cases;
+
+(g)
+
+that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it;
+
+(h)
+
+that if a man refuses to answer a question which he is not compelled to answer by law, the answer if given would be unfavourable to him;
+
+(i)
+
+that when a document creating an obligation is in the hands of the obligor the obligation has been discharged.
 
 But the court shall also have regard to such facts as the following in considering whether such maxims do or do not apply to the particular case before it:
 
@@ -2526,7 +2514,7 @@ Explanation.—A lunatic is not incompetent to testify unless he is prevented by
 
 (b) the fact that he is generally or in a particular respect a person of bad disposition or reputation.
 
-(5) Subsection (4) shall not apply to a question tending to reveal to the court a fact about the accused such as is mentioned in paragraph (a) or (b) thereof if evidence of that fact is (by virtue of section 14 or 15 of this Act or of section 373 or 374 of the Criminal Procedure Code (Cap. 68) or of any other written law) admissible for the purpose of proving the commission by him of the offence charged.
+(5) Subsection (4) shall not apply to a question tending to reveal to the court a fact about the accused such as is mentioned in paragraph (a) or (b) thereof if evidence of that fact is (by virtue of section 14 or 15 of this Act or of section 265 or 266 of the Criminal Procedure Code 2010 or of any other written law) admissible for the purpose of proving the commission by him of the offence charged.
 
 (6) Where in any criminal proceedings in which 2 or more persons are jointly charged, any of the accused gives evidence, subsection (4) shall not in his case apply to any question tending to reveal to the court a fact about him such as is mentioned in subsection (4)(a) or (b) if evidence of that fact is admissible for the purpose of showing any other of the accused to be not guilty of the offence with which that other is charged.
 
@@ -3347,3 +3335,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
 |||(item (4) in the Fourth Schedule)|
+|37.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|||(item (39) of the Sixth Schedule)|
