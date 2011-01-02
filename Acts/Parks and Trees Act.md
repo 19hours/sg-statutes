@@ -168,7 +168,7 @@
 
 - [65 References in other written laws](#References-in-other-written-laws)
 
-[**THE SCHEDULE Areas Designated As National Parks and Nature Reserves**](#THE-SCHEDULE)
+[**THE SCHEDULE Areas designated as national parks and nature reserves**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -1310,7 +1310,9 @@ whichever is the lower.
 
 ### Prosecutions
 
-52\. Proceedings in respect of any offence under this Act may be conducted by any police officer or authorised officer authorised in writing in that behalf by the Commissioner.
+52\. Proceedings in respect of any offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by any police officer or authorised officer authorised in writing in that behalf by the Commissioner.
+
+[15/2010 wef 02/01/2011]
 
 [National Parks 1997 Ed., s. 39]
 
@@ -1530,7 +1532,7 @@ shall continue to hold such office as if he were appointed under section 4(1) as
 
 Sections 2, 7 and 62
 
-Areas Designated As National Parks and Nature Reserves
+Areas designated as national parks and nature reserves
 
 Part I
 
@@ -1946,7 +1948,7 @@ Parks and Trees Act
 
 (CHAPTER 216)
 
-Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 Parks and Trees 1996 Ed.
 
@@ -1966,7 +1968,7 @@ Parks and Trees Act
 
 (CHAPTER 216)
 
-This Legislative History is provided for the convenience of users of the Parks and Trees Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Parks and Trees Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
