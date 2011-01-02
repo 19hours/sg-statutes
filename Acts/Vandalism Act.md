@@ -64,7 +64,7 @@ An Act to provide for exemplary punishment for acts of vandalism and to make spe
 
 ### Penalty for acts of vandalism
 
-3\. Notwithstanding the provisions of any other written law, any person who commits any act of vandalism or attempts to do any such act or causes any such act to be done shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years, and shall also, subject to section 231 of the Criminal Procedure Code [Cap. 68], be punished with caning with not less than 3 strokes and not more than 8 strokes:
+3\. Notwithstanding the provisions of any other written law, any person who commits any act of vandalism or attempts to do any such act or causes any such act to be done shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years, and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes and not more than 8 strokes:
 
 Provided that the punishment of caning shall not be imposed on a first conviction under this Act in the case of any act falling within —
 
@@ -121,3 +121,9 @@ This Legislative History is provided for the convenience of users of the Vandali
 |||(Bill No. 16/2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 December 2007 (section 24(3) — amendment of Vandalism Act)|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (item 114 of the Sixth Schedule — amendment of Vandalism Act)|
