@@ -116,6 +116,16 @@
 
 - [50 Saving of powers of High Court](#Saving-of-powers-of-High-Court)
 
+[**Part VA CUSTODY AND REMOVAL OF LOCK-UP PRISONERS**](#Part-VA)
+
+- [50A Lock-up prisoners deemed in legal custody](#Lock-up-prisoners-deemed-in-legal-custody)
+
+- [50B Employment of auxiliary police officers as escorts and guards](#Employment-of-auxiliary-police-officers-as-escorts-and-guards)
+
+- [50C Delivery of persons remanded in lock-up](#Delivery-of-persons-remanded-in-lock-up)
+
+- [50D Extramural custody of lock-up prisoners](#Extramural-custody-of-lock-up-prisoners)
+
 [**Part VI HOME DETENTION SCHEME**](#Part-VI)
 
 - [51 Interpretation of this Part](#Interpretation-of-this-Part)
@@ -188,7 +198,7 @@
 
 - [84 Regulations](#Regulations)
 
-[**THE SCHEDULE Disqualification from being released for home detention under section 52**](#THE-SCHEDULE)
+[**THE SCHEDULE Disqualification from Being Released for Home Detention under Section 52**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -227,6 +237,10 @@ PRELIMINARY
 [33/2004 wef 04/10/2004]
 
 “Director” means the Director of Prisons appointed under section 20;
+
+“juvenile” means any person under the age of 16 years, whether convicted or not, under detention in any prison;
+
+[15/2010 wef 02/01/2011]
 
 “lock-up prisoner” means any person, whether convicted or not, who is confined in a lock-up, or who is transported to, or from, a lock-up;
 
@@ -272,7 +286,9 @@ CONSTITUTION AND ADMINISTRATION
 
 4\.—(1) The Minister may, by notification in theGazette, appoint the lock-ups at such police stations and court houses to be places for the confinement of persons awaiting trial, remanded, or sentenced to such terms of imprisonment, not exceeding one month, as may be specified in each case.
 
-(2) A lock-up appointed as a place of confinement under subsection (1) shall not be deemed to be a prison for the purposes of this Act or of the Registration of Criminals Act (Cap. 268) and regulations made under section 84 shall not apply thereto, but every such lock-up shall be deemed to be a prison for the purposes of Chapter XXV of the Criminal Procedure Code (Cap. 68).
+(2) A lock-up appointed as a place of confinement under subsection (1) shall not be deemed to be a prison for the purposes of this Act or of the Registration of Criminals Act (Cap. 268) and regulations made under section 84 shall not apply thereto, but every such lock-up shall be deemed to be a prison for the purposes of sections 313 to 332 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 (3) The Minister may make regulations with regard to lock-ups appointed under subsection (1) to provide for all or any of the following matters:
 
@@ -542,9 +558,13 @@ OFFICERS
 
 29\. Every prison officer shall —
 
-(a) strictly conform to all laws and regulations relating to prisons and prisoners; and
+(a) strictly conform to all laws and regulations relating to prisons, lock-ups, prisoners and lock-up prisoners; and
 
-(b) obey all lawful orders of his superior officers, whether given verbally or in writing, or issued in the form of prison regulations or standing orders.
+[15/2010 wef 02/01/2011]
+
+(b) obey all lawful orders of his superior officers, whether given verbally or in writing, or issued in the form of prison or lock-up regulations or standing orders.
+
+[15/2010 wef 02/01/2011]
 
 [19
 
@@ -558,55 +578,77 @@ OFFICERS
 
 31\.—(1) Subject to this section, a prison officer may use any weapon —
 
-(a) against any prisoner escaping or attempting to escape;
+(a) against any prisoner or lock-up prisoner escaping or attempting to escape;
 
-(b) against any person who does any act or attempts to do any act to facilitate the escape of any prisoner ; or
+(b) against any person who does any act or attempts to do any act to facilitate the escape of any prisoner or lock-up prisoner; or
 
 (c) against any person engaged in any attempt to damage or force or break open —
 
-(i) the outside door or gate or enclosure wall of a prison or any other part of a prison; or
+(i) the outside door or gate or enclosure wall of a prison or lock-up or any other part of a prison or lock-up; or
 
-(ii) any part of any vehicle in which a prisoner is conveyed.
+(ii) any part of any vehicle in which a prisoner or lock-up prisoner is conveyed.
 
 [8/2000]
 
+[15/2010 wef 02/01/2011]
+
 (2) A prison officer may use any weapon —
 
-(a) on any prisoner engaged in any combined outbreak; and
+(a) on any prisoner or lock-up prisoner engaged in any combined outbreak; and
 
 (b) on any person engaged in any attempt to damage or force or break open —
 
-(i) the outside door or gate or enclosure wall of a prison or any other part of a prison; or
+(i) the outside door or gate or enclosure wall of a prison or lock-up or any other part of a prison or lock-up; or
 
-(ii) any part of any vehicle in which a prisoner is conveyed,
+(ii) any part of any vehicle in which a prisoner or lock-up prisoner is conveyed,
 
 and may continue to use the weapon so long as the combined outbreak or attempt is actually being prosecuted.
 
 [8/2000]
 
-(3) Every prison officer may use weapons against any prisoner using violence on any prison officer or other person, if the prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to him.
+[15/2010 wef 02/01/2011]
 
-(4) A prison officer shall not resort to the use of any weapon under subsection (1) unless he has reasonable ground to believe that he cannot otherwise prevent the escape of any prisoner .
+(3) Every prison officer may use weapons against any prisoner or lock-up prisoner using violence on any prison officer or other person, if the prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to him.
+
+[15/2010 wef 02/01/2011]
+
+(4) A prison officer shall not resort to the use of any weapon under subsection (1) unless he has reasonable ground to believe that he cannot otherwise prevent the escape of any prisoner or lock-up prisoner.
+
+[8/2000]
+
+[15/2010 wef 02/01/2011]
+
+(5) Before using any firearm against a prisoner or lock-up prisoner or other person referred to in subsection (1), the prison officer shall give a warning to the prisoner or lock-up prisoner or that other person, as the case may be, that he is about to fire on him.
 
 [8/2000]
 
-(5) Before using any firearm against a prisoner or other person referred to in subsection (1), the prison officer shall give a warning to the prisoner or that other person, as the case may be, that he is about to fire on him.
+[15/2010 wef 02/01/2011]
+
+(6) No prison officer shall, in the presence of his superior officer, use any firearm against a prisoner or lock-up prisoner or other person in the circumstances described in subsection (1) or (2) except under the orders of his superior officer.
 
 [8/2000]
 
-(6) No prison officer shall, in the presence of his superior officer, use any firearm against a prisoner or other person in the circumstances described in subsection (1) or (2) except under the orders of his superior officer.
-
-[8/2000]
+[15/2010 wef 02/01/2011]
 
 (7) The use of weapons under this section shall be, as far as possible, to disable and not to kill.
 
-(8) Every police officer who is for the time being serving in the capacity of an escort, or of a guard in or around any prison or lock-up, for the purpose of ensuring the safe custody of any prisoner or prisoners, shall be deemed to have all the powers and privileges granted to prison officers under this section.
+(8) Every police officer who is for the time being serving in the capacity of an escort, or of a guard in or around any prison or lock-up, for the purpose of ensuring the safe custody of any one or more prisoners or lock-up prisoners, shall be deemed to have all the powers and privileges granted to prison officers under this section.
+
+[15/2010 wef 02/01/2011]
 
 [21
 
 ### Prison officer to have powers of police officer
 
-32\. Every prison officer while acting as such shall by virtue of his office have all the powers, authorities, protection and privileges of a police officer.
+32\.—(1) Every prison officer while acting as such shall by virtue of his office have all the powers, authorities, protection and privileges of a police officer.
+
+[15/2010 wef 02/01/2011]
+
+[22
+
+(2) Every prison officer while acting as such and exercising the powers of a police officer shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
 
 [22
 
@@ -654,15 +696,15 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Superintendent to detain persons committed
 
-35\. The Superintendents are authorised and required to keep and detain all persons duly committed to their custody by any court, Judge, Magistrate, Justice of the Peace, Coroner, or other public officer lawfully exercising civil or criminal jurisdiction, according to the exigency of any writ, warrant or order by which such persons have been committed, or until such persons are discharged by due course of law.
+35\. The Superintendents are authorised and required to keep and detain all persons duly committed to their custody by any court, Judge, Magistrate, Justice of the Peace or other public officer lawfully exercising civil or criminal jurisdiction, according to the exigency of any writ, warrant or order by which such persons have been committed, or until such persons are discharged by due course of law.
 
 [24
 
 ### Delivery of persons on remand
 
-36\.—(1) Every person remanded to any prison by any court, Judge, Magistrate, Justice of the Peace or Coroner, charged with any crime or offence, shall be delivered to the Superintendent of such prison as the Minister appoints for the custody of such persons, together with a warrant of commitment.
+36\.—(1) Every person remanded to any prison by any court, Judge, Magistrate or Justice of the Peace, charged with any crime or offence, shall be delivered to the Superintendent of such prison as the Minister appoints for the custody of such persons, together with a warrant of commitment.
 
-(2) The Superintendent shall detain a person referred to in subsection (1) according to the terms of the warrant, and shall cause that person to be delivered to such court, Judge, Magistrate, Justice of the Peace or Coroner, or shall discharge that person at the time named in and according to the terms of the warrant.
+(2) The Superintendent shall detain a person referred to in subsection (1) according to the terms of the warrant, and shall cause that person to be delivered to such court, Judge, Magistrate or Justice of the Peace, or shall discharge that person at the time named in and according to the terms of the warrant.
 
 [25
 
@@ -748,7 +790,9 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 (2) It shall not be necessary in the order under subsection (1) to designate any prisoner by name, but it shall be sufficient to describe the prisoner or prisoners by reference to their nationality or sentence, or by some other like general description.
 
-(3) If the Minister is satisfied that a person serving a sentence of imprisonment is under 21 years of age and might with advantage be detained in a reformative training centre, the Minister may, after consultation where practicable with the Judge or District Judge of the court which passed the sentence, authorise the Director to transfer him to a reformative training centre; and section 13(7) of the Criminal Procedure Code (Cap. 68) shall thereupon apply to him as if he had on the date of the transfer been sentenced to reformative training.
+(3) If the Minister is satisfied that a person serving a sentence of imprisonment is under 21 years of age and might with advantage be detained in a reformative training centre, the Minister may, after consultation where practicable with the Judge or District Judge of the court which passed the sentence, authorise the Director to transfer him to a reformative training centre; and section 305(5) of the Criminal Procedure Code 2010 shall thereupon apply to him as if he had on the date of the transfer been sentenced to reformative training.
+
+[15/2010 wef 02/01/2011]
 
 (4) If on the date of the transfer under subsection (3), the unexpired term of his sentence is less than 3 years, that subsection shall apply to him as if he had been sentenced to reformative training 3 years before the expiration of that term.
 
@@ -805,6 +849,56 @@ CUSTODY AND REMOVAL OF PRISONERS
 50\. Nothing in this Act contained shall be held to lessen or affect the power of the High Court to direct persons confined in Singapore to be brought before the Court by an Order for Review of Detention.
 
 [38
+
+## PART VA
+
+CUSTODY AND REMOVAL OF LOCK-UP PRISONERS
+
+[15/2010 wef 02/01/2011]
+
+### Lock-up prisoners deemed in legal custody
+
+50A\. Every lock-up prisoner who is confined in any lock-up, or who is transported to, or from, any lock-up, shall be deemed to be in the legal custody of the Director or any person authorised by the Director.
+
+[15/2010 wef 02/01/2011]
+
+### Employment of auxiliary police officers as escorts and guards
+
+50B\.—(1) For the purpose of assisting him in the discharge of his duties under this Act, the Director may employ such numbers of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the lock-up prisoners who are under his custody while the lock-up prisoners are transported to, or from, any lock-up and while the lock-up prisoners are at any place outside a lock-up.
+
+[15/2010 wef 02/01/2011]
+
+(2) A lock-up prisoner who is delivered into the custody of an auxiliary police officer under this section shall be deemed to be in lawful custody.
+
+[15/2010 wef 02/01/2011]
+
+(3) Every auxiliary police officer who is employed as an escort or a guard under subsection (1) shall, in the course of carrying out his duties as an escort or a guard, have the powers of a prison officer conferred under section 31.
+
+[15/2010 wef 02/01/2011]
+
+(4) Every auxiliary police officer employed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+[15/2010 wef 02/01/2011]
+
+(5) In this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law.
+
+[15/2010 wef 02/01/2011]
+
+### Delivery of persons remanded in lock-up
+
+50C\.—(1) Every person remanded in any lock-up by any court, Judge, Magistrate or Justice of the Peace, charged with any crime or offence, shall be delivered to the Director or any person authorised by the Director to take custody of such persons, together with a warrant of commitment.
+
+[15/2010 wef 02/01/2011]
+
+(2) The Director or any person authorised by the Director to take custody of lock-up prisoners shall detain a lock-up prisoner according to the terms of the warrant, and shall cause the lock-up prisoner to be delivered to such court, Judge, Magistrate or Justice of the Peace, or shall discharge that person at the time named in and according to the terms of the warrant.
+
+[15/2010 wef 02/01/2011]
+
+### Extramural custody of lock-up prisoners
+
+50D\. A lock-up prisoner, when being taken to, or from, any lock-up in which he may be lawfully confined, or whenever he is outside or is otherwise beyond the limits of any such lock-up, and is in or under legal custody, shall be deemed to be in a lock-up, and shall be subject to all the same incidents as if he were actually in a lock-up.
+
+[15/2010 wef 02/01/2011]
 
 ## PART VI
 
@@ -1514,9 +1608,9 @@ shall be guilty of an offence.
 
 Sections 53(1)(b) and 82
 
-Disqualification from being released for home detention under section 52
+Disqualification from Being Released for Home Detention under Section 52
 
-1. A prisoner is disqualified from being released for home detention if the prisoner —
+A prisoner is disqualified from being released for home detention if the prisoner —
 
 (1) has, in respect of the same sentence of imprisonment, previously been released for home detention under section 52 and the order for his release under that section has expired or has been revoked;
 
@@ -1524,7 +1618,7 @@ Disqualification from being released for home detention under section 52
 
 (3) has been convicted of a capital offence and whose death penalty has been commuted to a sentence of imprisonment for life;
 
-(4) is being detained under the President’s pleasure under section 213 of the Criminal Procedure Code (Cap. 68);
+(4) [Deleted by Act 15/2010 wef 02/01/2011]
 
 (5) is liable to be removed from Singapore on completion of his sentence of imprisonment;
 
@@ -1532,63 +1626,115 @@ Disqualification from being released for home detention under section 52
 
 (7) is convicted of an offence punishable under any of the following provisions of the Penal Code (Cap. 224):
 
-Offences included with effect from 17th April 2000 
+Offences included with effect from 17th April 2000
 
-(a) section 147 (Rioting);
+(a)
 
-(b) section 148 (Rioting, armed with a deadly weapon);
+section 147 (Rioting);
 
-(c) section 304 (Culpable homicide not amounting to murder);
+(b)
 
-(d) section 307 (Attempt to murder);
+section 148 (Rioting, armed with a deadly weapon);
 
-(e) section 325 (Voluntarily causing grievous hurt);
+(c)
 
-(f) section 326 (Voluntarily causing grievous hurt by dangerous weapons or means);
+section 304 (Culpable homicide not amounting to murder);
 
-(g) section 354 (Outraging modesty);
+(d)
 
-(h) section 354A (Outraging modesty in certain circumstances);
+section 307 (Attempt to murder);
 
-(i) section 363 (Kidnapping);
+(e)
 
-(j) section 364 (Kidnapping or abducting in order to murder);
+section 325 (Voluntarily causing grievous hurt);
 
-(k) section 376 (Rape);
+(f)
 
-(l) section 376B (Incest committed by men);
+section 326 (Voluntarily causing grievous hurt by dangerous weapons or means);
 
-(m) section 376C (Incest committed by women);
+(g)
 
-(n) section 377 (Unnatural offences);
+section 354 (Outraging modesty);
 
-(o) section 395 (Gang-robbery);
+(h)
 
-(p) section 400 (Belonging to gang-robbers); or
+section 354A (Outraging modesty in certain circumstances);
 
-Offences included with effect from 1st February 2008 
+(i)
 
-(q) section 130E (Genocide)
+section 363 (Kidnapping);
 
-(r) section 363A (Abduction)
+(j)
 
-(s) section 364A (Kidnapping or abducting in order to compel the Government, etc.)
+section 364 (Kidnapping or abducting in order to murder);
 
-(t) section 375 (Rape)
+(k)
 
-(u) section 376 (Sexual assault by penetration)
+section 376 (Rape);
 
-(v) section 376A (Sexual penetration of minor under 16)
+(l)
 
-(w) section 376F (Procurement of sexual activity with person with mental disability)
+section 376B (Incest committed by men);
 
-(x) section 376G (Incest)
+(m)
 
-(y) section 377(4) (Causing another person to sexually penetrate a corpse)
+section 376C (Incest committed by women);
 
-(z) section 377B(4) (Causing another person to sexually penetrate a living animal or be sexually penetrated by a living animal)
+(n)
 
-(8) is convicted of an offence under section 224 of the Penal Code (Cap. 224) for escaping or attempting to escape from any custody in which he is lawfully detained for an offence of which he has been charged or convicted; or
+section 377 (Unnatural offences);
+
+(o)
+
+section 395 (Gang-robbery);
+
+(p)
+
+section 400 (Belonging to gang-robbers); or
+
+Offences included with effect from 1st February 2008
+
+(q)
+
+section 130E (Genocide)
+
+(r)
+
+section 363A (Abduction)
+
+(s)
+
+section 364A (Kidnapping or abducting in order to compel the Government, etc.)
+
+(t)
+
+section 375 (Rape)
+
+(u)
+
+section 376 (Sexual assault by penetration)
+
+(v)
+
+section 376A (Sexual penetration of minor under 16)
+
+(w)
+
+section 376F (Procurement of sexual activity with person with mental disability)
+
+(x)
+
+section 376G (Incest)
+
+(y)
+
+section 377(4) (Causing another person to sexually penetrate a corpse)
+
+(z)
+
+section 377B(4) (Causing another person to sexually penetrate a living animal or be sexually penetrated by a living animal)
+
+(8) is convicted of an offence under section 224 of the Penal Code (Cap. 224) for escaping or attempting to escape from any custody in which he is lawfully detained for an offence of which he has been charged or convicted.
 
 [S 34/2008 wef 01/02/2008]
 
@@ -1740,6 +1886,16 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of commencement|1 March 2010|
 |27.|**G. N. No. S 672/2010—Prisons Act (Amendment of Schedule) (No. 2) Order 2010**|
 ||Date of commencement|21 November 2010|
+|28.|**Act 14 of 2010—Coroners Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|29.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Prisons Act
