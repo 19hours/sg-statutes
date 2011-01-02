@@ -98,7 +98,7 @@
 
 - [42 Levy, fees and other charges](#Levy-fees-and-other-charges)
 
-- [43 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [43 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 [**Part III MISCELLANEOUS**](#Part-III)
 
@@ -154,7 +154,7 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Act;
 
-“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
+“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act (Cap. 143B);
 
 [17/2002 wef 01/04/2002]
 
@@ -168,7 +168,7 @@ PRELIMINARY
 
 “electronic notice” has the meaning assigned to it in section 8(1);
 
-“examination station” means any place which has been prescribed under section 143(1)(d) of the Customs Act [Cap. 70] as a customs office or customs station for the examination of goods or any place or premises as may be determined by a senior authorised officer for the examination of goods;
+“examination station” means any place which has been prescribed under section 143(1)(d) of the Customs Act (Cap. 70) as a customs office or customs station for the examination of goods or any place or premises as may be determined by a senior authorised officer for the examination of goods;
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, water or air and includes the placing of any goods in a conveyance for the purpose of the goods being taken out of Singapore but does not include the taking out from Singapore of any goods on the same conveyance on which they were brought into Singapore unless such goods after being brought into Singapore have been landed or transhipped within Singapore;
 
@@ -178,15 +178,17 @@ PRELIMINARY
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, water or air from any place which is outside Singapore but does not include the bringing into Singapore of goods which are to be taken out of Singapore on the same conveyance on which they were brought into Singapore without any landing or transhipment within Singapore;
 
-“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996]when acting in the course of his duties;
+“master” includes every person, having or taking command or charge of a vessel, except a pilot of a vessel holding a licence under the Maritime and Port Authority of Singapore Act 1996 (Act 7 of 1996) when acting in the course of his duties;
 
-“officer of customs” has the same meaning as in the Customs Act [Cap. 70];
+“officer of customs” has the same meaning as in the Customs Act (Cap. 70);
 
 “pilot of an aircraft” means every person having or taking command or charge of an aircraft;
 
 “police officer” means any member of the Singapore Police Force;
 
 “registered user” means a person who has been registered with and authorised by the Director-General to gain access to and use the computer service referred to in section 8;
+
+[6/2003 wef 01/04/2003]
 
 “senior authorised officer” means —
 
@@ -228,7 +230,12 @@ PRELIMINARY
 
 ## PART II
 
-REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC.
+REGULATION AND CONTROL OF IMPORTATION
+
+
+
+
+AND EXPORTATION, ETC.
 
 ### Administration of Act and delegation of powers
 
@@ -620,7 +627,7 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 24\. In connection with the exercise of the powers in section 19, 20, 22, 23 or 28A, any authorised officer or senior authorised officer, as the case may be —
 
-(a) shall be entitled at any time to have access to, and inspect and check the operation of, any computer and any associated device, apparatus or material which is or has been in use in connection with any data or document to which section 19, 20, 22, 23 or 28A, applies; and
+(a) shall be entitled at any time to have access to, and inspect and check the operation of, any computer and any associated device, apparatus or material which is or has been in use in connection with any data or document to which section 19, 20, 22, 23 or 28A applies; and
 
 (b) may require —
 
@@ -629,6 +636,8 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 (ii) any person having charge of, or otherwise concerned with the operation of, the computer, device, apparatus or material,
 
 to provide the authorised officer or senior authorised officer, with such reasonable assistance as he may require for the purposes of paragraph (a).
+
+[28/2003 wef 01/01/2004]
 
 ### Powers of authorised officers to enter certain premises
 
@@ -834,7 +843,11 @@ except where it is necessary for the purposes of —
 
 ### Conduct of prosecution
 
-35\. Any prosecution in respect of an offence under this Act may be conducted by any person authorised in writing by the Director-General to conduct such prosecution.
+35\. Any prosecution in respect of an offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by any person authorised in writing by the Director-General to conduct such prosecution.
+
+[6/2003 wef 01/04/2003]
+
+[15/2010 wef 02/01/2011]
 
 ### Offences by corporations and liability for acts of agents or employees
 
@@ -900,9 +913,11 @@ except where it is necessary for the purposes of —
 
 [6/2003 wef 01/04/2003]
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-43\. No court shall take cognizance of an offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+43\. No court shall try an offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ## PART III
 
@@ -978,3 +993,9 @@ This Legislative History is provided for the convenience of users of the Regulat
 |||(Bill No. 25/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|1 January 2004|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (Item 88 of the Sixth Schedule – Amendment of Regulation of Imports and Exports Act)|
