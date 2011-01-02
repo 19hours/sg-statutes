@@ -118,7 +118,7 @@
 
 - [57 (Repealed)](#Repealed)
 
-- [71 Limit of punishment of offence which is made up of several offences](#Limit-of-punishment-of-offence-which-is-made-up-of-several-offences)
+- [71 (Repealed)](#Repealed)
 
 - [72 Punishment of a person found guilty of one of several offences, the judgment stating that it is doubtful of which](#Punishment-of-a-person-found-guilty-of-one-of-several-offences-the-judgment-stating-that-it-is-doubtful-of-which)
 
@@ -1116,7 +1116,7 @@
 
 - [489E (Repealed)](#Repealed)
 
-[**Chapter XX  OFFENCES RELATING TO MARRIAGE**](#Chapter-XX--OFFENCES-RELATING-TO-MARRIAGE)
+[**Chapter XX  Offences relating to marriage**](#Chapter-XX--Offences-relating-to-marriage)
 
 - [493 Cohabitation caused by a man deceitfully inducing a belief of lawful marriage](#Cohabitation-caused-by-a-man-deceitfully-inducing-a-belief-of-lawful-marriage)
 
@@ -1272,9 +1272,9 @@ A, a police officer, without warrant, apprehendsZ, who has committed murder. Her
 
 ### “Judge”
 
-119\. The word “judge” denotes not only every person who is officially designated as a judge, but also every person who is empowered by law to give, in any legal proceeding, civil or criminal, a definitive judgment, or a judgment which, if not appealed against, would be definitive, or a judgment which, if confirmed by some other authority, would be definitive, or who is one of a body of persons, which body of persons is empowered by law to give such a judgment.
+\*19\. The word “judge” denotes not only every person who is officially designated as a judge, but also every person who is empowered by law to give, in any legal proceeding, civil or criminal, a definitive judgment, or a judgment which, if not appealed against, would be definitive, or a judgment which, if confirmed by some other authority, would be definitive, or who is one of a body of persons, which body of persons is empowered by law to give such a judgment.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -1290,7 +1290,7 @@ A Magistrate exercising jurisdiction in respect of a charge on which he has powe
 
 [Indian PC 1860, s. 19]
 
-1There are no sections 13 to 16 and 18
+\*There are no sections 13 to 16 and 18
 
 ### “Court of justice”
 
@@ -1534,7 +1534,9 @@ Asets fire, by night, to an inhabited house in a large town, for the purpose of 
 
 40\.—(1) Except in the Chapters and sections mentioned in subsections (2) and (3), “offence” denotes a thing made punishable by this Code.
 
-(2) In Chapters IV, V and VA, and in sections 4, 71, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389 and 445, “offence” denotesa thing punishable under this Code or under any other law for the time being in force.
+(2) In Chapters IV, V and VA, and in sections 4, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389 and 445, “offence” denotes a thing punishable under this Code or under any other law for the time being in force.
+
+[15/2010 wef 02/01/2011]
 
 [51/2007]
 
@@ -1648,33 +1650,13 @@ Explanation.—Caning shall be with a rattan.
 
 Fractions of terms of punishment
 
-257\. [Repealed by Act 51 of 2007]
+\*57\. [Repealed byAct 51 of 2007]
 
-2There are no sections 55 and 56.
+\*There are no sections 55 and 56.
 
-### Limit of punishment of offence which is made up of several offences
+71\. \*[Repealed by Act 15/2010 wef 02/01/2011]
 
-371\.—(1) Where anything which is an offence is made up of parts, any of which parts is itself an offence, the offender shall not be punished with the punishment of more than one of such offences, unless it be so expressly provided.
-
-[51/2007]
-
-(2) Where anything is an offence falling within 2 or more separate definitions of any law in force for the time being by which offences are defined or punished, or where several acts of which one or more than one would by itself or themselves constitute an offence constitute when combined a different offence, the offender shall not be punished with a more severe punishment than the court which tries him could award for any one of such offences.
-
-Illustrations
-
-(a)
-
-AgivesZ50 strokes with a stick. HereAmay have committed the offence of voluntarily causing hurt toZby the whole beating, and also by each of the blows which make up the whole beating. IfAwere liable to punishment for every blow, he might be imprisoned for 100 years, two for each blow. But he is liable only to one punishment for the whole beating.
-
-(b)
-
-But if, whileAis beatingZ,Yinterferes andAintentionally strikesY, here, as the blow given toYis no part of the act wherebyAvoluntarily causes hurt toZ,Ais liable to one punishment for voluntarily causing hurt toZ, and to another for the blow given toY.
-
-[51/2007]
-
-[Indian PC 1860, s. 71]
-
-3There are no sections 58 to 70.
+\*There are no sections 58 to 70.
 
 ### Punishment of a person found guilty of one of several offences, the judgment stating that it is doubtful of which
 
@@ -1896,7 +1878,7 @@ X, the commander of a naval vessel, is deployed in response to a threat of a ter
 
 ### Effect of defence of intoxication when established
 
-86\.—(1) Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 314 and 315 of the Criminal Procedure Code (Cap. 68) shall apply.
+86\.—(1) Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 251 and 252 of the Criminal Procedure Code 2010 shall apply.
 
 [15/2010 wef 02/01/2011]
 
@@ -3787,13 +3769,13 @@ Forfeiture of counterfeit coin
 
 ### Fraudulently or dishonestly diminishing the weight or altering the composition of any coin
 
-4246\. Whoever fraudulently or dishonestly performs on any coin any operation which diminishes the weight or alters the composition of that coin shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+\*246\. Whoever fraudulently or dishonestly performs on any coin any operation which diminishes the weight or alters the composition of that coin shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
 
 Explanation—A person who scoops out part of the coin and puts anything else into the cavity, alters the composition of that coin.
 
 [Indian PC 1860, s. 246]
 
-4There are no sections 244 and 245.
+\*There are no sections 244 and 245.
 
 ### Fraudulently or dishonestly diminishing the weight or altering the composition of current coin
 
@@ -3855,7 +3837,7 @@ Explanation—A person who scoops out part of the coin and puts anything else in
 
 ### Counterfeiting a Government stamp
 
-5255\. Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+\*255\. Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
 [51/2007]
 
@@ -3863,63 +3845,63 @@ Explanation—A person who counterfeits by causing a genuine stamp of one denomi
 
 [Indian PC 1860, s. 255]
 
-5Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Having possession of an instrument or material for the purpose of counterfeiting a Government stamp
 
-6256\. Whoever has in his possession any instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+\*256\. Whoever has in his possession any instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 256]
 
-6Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Making or selling an instrument for the purpose of counterfeiting a Government stamp
 
-7257\. Whoever makes, performs any part of the process of making, buys, sells or disposes of, any instrument for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+\*257\. Whoever makes, performs any part of the process of making, buys, sells or disposes of, any instrument for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 257]
 
-7Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Sale of counterfeit Government stamp
 
-8258\. Whoever sells, or offers for sale, any stamp which he knows or has reason to believe to be a counterfeit of any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+\*258\. Whoever sells, or offers for sale, any stamp which he knows or has reason to believe to be a counterfeit of any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 258]
 
-8Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Having possession of a counterfeit Government stamp
 
-9259\. Whoever has in his possession any stamp which he knows to be a counterfeit of any stamp issued by the Government for the purpose of revenue, intending to use or dispose of the same as a genuine stamp, or in order that it may be used as a genuine stamp, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+\*259\. Whoever has in his possession any stamp which he knows to be a counterfeit of any stamp issued by the Government for the purpose of revenue, intending to use or dispose of the same as a genuine stamp, or in order that it may be used as a genuine stamp, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 259]
 
-9Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Using as genuine a Government stamp known to be counterfeit
 
-10260\. Whoever uses as genuine any stamp, knowing it to be a counterfeit of any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+\*260\. Whoever uses as genuine any stamp, knowing it to be a counterfeit of any stamp issued by the Government for the purpose of revenue, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
 
 [Indian PC 1860, s. 260]
 
-10Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause loss to Government
 
-11261\. Whoever, fraudulently or with intent to cause loss to the Government, removes or effaces from any substance bearing any stamp issued by the Government for the purpose of revenue, any writing or document for which such stamp has been used, or removes from any writing or document a stamp which has been used for such writing or document, in order that such stamp may be used for a different writing or document, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+\*261\. Whoever, fraudulently or with intent to cause loss to the Government, removes or effaces from any substance bearing any stamp issued by the Government for the purpose of revenue, any writing or document for which such stamp has been used, or removes from any writing or document a stamp which has been used for such writing or document, in order that such stamp may be used for a different writing or document, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
 [Indian PC 1860, s. 261]
 
-11Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Using a Government stamp known to have been before used
 
-12262\. Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by the Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+\*262\. Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by the Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
 [Indian PC 1860, s. 262]
 
-12Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
+\*Pursuant to section 39(1) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999), any reference to a Government stamp or stamp in sections 255 to 262 of the Penal Code (Cap. 224) shall be read as including a reference to a stamp certificate issued under the Stamp Duties Act (Cap. 312) as amended by the Stamp Duties (Amendment) Act 1999.
 
 ### Erasure of mark denoting that stamp has been used
 
@@ -4451,7 +4433,7 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 ### Punishment for culpable homicide not amounting to murder
 
-13304\. Whoever commits culpable homicide not amounting to murder shall be punished —
+\*304\. Whoever commits culpable homicide not amounting to murder shall be punished —
 
 (a) with imprisonment for life, or imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning, if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or
 
@@ -4461,7 +4443,7 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 [Indian PC 1860, s. 304]
 
-13There is no section 303.
+\*There is no section 303.
 
 ### Causing death by rash or negligent act
 
@@ -5955,13 +5937,13 @@ A obtains property fromZby saying, “Your child is in the hands of my gang, and
 
 ### Making preparation to commit gang-robbery
 
-14399\. Whoever makes any preparation for committing gang- robbery, shall be punished with imprisonment for a term of not less than 3 years and not more than 10 years and shall also be punished with caning with not less than 12 strokes.
+\*399\. Whoever makes any preparation for committing gang- robbery, shall be punished with imprisonment for a term of not less than 3 years and not more than 10 years and shall also be punished with caning with not less than 12 strokes.
 
 [62/73; 23/84]
 
 [Indian PC 1860, s. 399]
 
-14There is no section 398.
+\*There is no section 398.
 
 ### Punishment for belonging to gang-robbers
 
@@ -5993,7 +5975,7 @@ Criminal misappropriation of property
 
 403\. Whoever dishonestly misappropriates or converts to his own use movable property, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -6009,17 +5991,17 @@ AandBbeing joint owners of a horse,Atakes the horse out ofB’s possession, inte
 
 Explanation1.—A dishonest misappropriation for a time only is a misappropriation within the meaning of this section.
 
-Illustrations
+Illustration
 
 Afinds a Government promissory note belonging toZ, bearing a blank endorsement.A, knowing that the note belongs toZ, pledges it with a banker as a security for a loan, intending at a future time to restore it toZ.Ahas committed an offence under this section.
 
 Explanation2.—A person who finds property not in the possession of any other person, and takes such property for the purpose of protecting it for, or of restoring it to the owner, does not take or misappropriate it dishonestly, and is not guilty of an offence; but he is guilty of the offence above defined, if he appropriates it to his own use, when he knows or has the means of discovering the owner, or before he has used reasonable means to discover and give notice to the owner, and has kept the property a reasonable time to enable the owner to claim it.
 
-Explanation—What are reasonable means, or what is a reasonable time in such a case, is a question of fact.
+What are reasonable means, or what is a reasonable time in such a case, is a question of fact.
 
-Explanation—It is not necessary that the finder should know who is the owner of the property, or that any particular person is the owner of it; it is sufficient if, at the time of appropriating it, he does not believe it to be his own property, or in good faith believe that the real owner cannot be found.
+It is not necessary that the finder should know who is the owner of the property, or that any particular person is the owner of it; it is sufficient if, at the time of appropriating it, he does not believe it to be his own property, or in good faith believe that the real owner cannot be found.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -7003,7 +6985,7 @@ Currency notes and bank notes
 
 ### Forging or counterfeiting currency notes or bank notes
 
-15489A\.—(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+\*489A\.—(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
 [51/2007]
 
@@ -7015,7 +6997,7 @@ Explanation—For the purposes of this section and of sections 489B, 489C and 48
 
 [Indian PC 1860, s. 489A]
 
-15There are no sections 478 to 489.
+\*There are no sections 478 to 489.
 
 ### Using as genuine forged or counterfeit currency notes or bank notes
 
@@ -7045,13 +7027,13 @@ Forfeiture of counterfeit currency
 
 489E\. [Repealed byAct 51 of 2007]
 
-### Chapter XX16
+Chapter\*XX
 
-16There is no Chapter XIX.
+\*There is no Chapter XIX.
 
-16
+\*
 
-OFFENCES RELATING TO MARRIAGE
+Offences relating to marriage
 
 ### Cohabitation caused by a man deceitfully inducing a belief of lawful marriage
 
@@ -7081,9 +7063,9 @@ Exception.—This section does not extend to any person whose marriage, with suc
 
 Enticing or taking away or detaining with a criminal intent a married woman
 
-17498\. [Repealed by Act 51 of 2007]
+\*498\. [Repealed byAct 51 of 2007]
 
-17There is no section 497.
+\*There is no section 497.
 
 ### Chapter XXI
 
@@ -7685,3 +7667,9 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |||(Bill No. 13/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|21 November 2010|
+|50.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
