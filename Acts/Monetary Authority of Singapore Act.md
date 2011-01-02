@@ -118,7 +118,7 @@
 
 - [38 Guarantee by Government](#Guarantee-by-Government)
 
-- [39 Fiat of Attorney-General](#Fiat-of-Attorney-General)
+- [39 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [39A Legal officer of Authority may act for Authority in civil proceedings](#Legal-officer-of-Authority-may-act-for-Authority-in-civil-proceedings)
 
@@ -356,8 +356,6 @@ to discharge the duties of the managing director during the period of his absenc
 
 (b) becomes mentally disordered and incapable of managing himself or his affairs;
 
-[21/2008 wef 01/03/2010]
-
 (c) becomes bankrupt or suspends payment to or compounds with his creditors;
 
 (d) is convicted of an offence involving dishonesty or fraud or moral turpitude;
@@ -367,6 +365,8 @@ to discharge the duties of the managing director during the period of his absenc
 (f) is absent, without leave, from 3 consecutive meetings of the board; or
 
 (g) fails to comply with his obligations under section 13.
+
+[21/2008 wef 01/03/2010]
 
 ### Vacancies in office of director
 
@@ -996,7 +996,9 @@ and the financial institutions concerned shall comply with such directions.
 
 [Act 2 of 2012 wef 01/07/2010]
 
-“certification authority” has the same meaning as in the Third Schedule to the Electronic Transactions Act 2010;“participant” means a person approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
+“certification authority” has the same meaning as in the Third Schedule to the Electronic Transactions Act 2010;
+
+“participant” means a person approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
 
 [Act 2 of 2012 wef 01/07/2010]
 
@@ -1178,9 +1180,11 @@ MISCELLANEOUS
 
 (2) Nothing in this section shall authorise a creditor or other person claiming against the Authority to sue the Government in respect of his claim.
 
-### Fiat of Attorney-General
+### Consent of Public Prosecutor
 
-39\. No prosecution in respect of any offence under this Act shall be instituted without the consent in writing of the Attorney-General .
+39\. No prosecution in respect of any offence under this Act shall be instituted without the consent in writing of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Legal officer of Authority may act for Authority in civil proceedings
 
@@ -1406,9 +1410,14 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of commencement|1 March 2010|
 |27.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||Date of First Reading|21 November 2011|
-|||(Bill No. 21/2011 published on 22 November 2011)|
+|||(Bill No. 22/2011 published on 22 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 July 2010|
+|28.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 25 June 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
