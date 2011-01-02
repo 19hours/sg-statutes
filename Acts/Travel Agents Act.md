@@ -60,7 +60,7 @@
 
 - [24 Authentication of documents](#Authentication-of-documents)
 
-- [25 Sanction for prosecution](#Sanction-for-prosecution)
+- [25 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [26 Conduct of proceedings](#Conduct-of-proceedings)
 
@@ -404,17 +404,21 @@ and shall be deemed to have been served upon its being so delivered or, in the c
 
 [29
 
-### Sanction for prosecution
+### Consent of Public Prosecutor
 
-25\. No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction in writing of the Public Prosecutor.
+25\. No court shall try any offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
 
 [30
 
+[15/2010 wef 02/01/2011]
+
 ### Conduct of proceedings
 
-26\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by any officer authorised in writing in that behalf by the Chairman or the Chief Executive of the Board.
+26\. Proceedings in respect of any offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by any officer authorised in writing in that behalf by the Chairman or the Chief Executive of the Board.
 
 [31
+
+[15/2010 wef 02/01/2011]
 
 ### Composition of offences
 
@@ -458,7 +462,7 @@ Travel Agents Act
 
 (CHAPTER 334)
 
-This Legislative History is provided for the convenience of users of the Travel Agents Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Travel Agents Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -481,3 +485,9 @@ This Legislative History is provided for the convenience of users of the Travel 
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|6.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
