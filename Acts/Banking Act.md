@@ -266,7 +266,7 @@
 
 - [72 Offences triable in District Court](#Offences-triable-in-District-Court)
 
-- [73 Consent of Attorney-General](#Consent-of-Attorney-General)
+- [73 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [74 Recovery of fees, expenses, etc.](#Recovery-of-fees-expenses-etc)
 
@@ -760,9 +760,9 @@ from the date specified by the Authority in the notice, and subsection (1) shall
 
 [23/2001; 1/2007]
 
-(5) Nothing in this section shall prevent a person who lawfully uses any name, logo or trade mark in the manner referred to in subsection (1) before 18th July 20011from continuing to use the name, logo or trade mark in such manner for a period of 3 years from 18th July 2001.
+(5) Nothing in this section shall prevent a person who lawfully uses any name, logo or trade mark in the manner referred to in subsection (1) before 18th July 2001\*from continuing to use the name, logo or trade mark in such manner for a period of 3 years from 18th July 2001.
 
-1Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
+\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
 
 [23/2001]
 
@@ -920,7 +920,7 @@ from the date specified by the Authority in the notice, and subsection (1) shall
 
 Foreign government-owned banks
 
-11\. [Repealed by Act 1 of 2007]
+11\. [Repealed byAct 1 of 2007]
 
 ### Appeal to Minister
 
@@ -1048,9 +1048,9 @@ Foreign government-owned banks
 
 ### Control of substantial shareholdings in designated financial institutions
 
-15A\.—(1) No person shall, on or after 18th July 20012, become a substantial shareholder of a designated financial institution without first obtaining the approval of the Minister.
+15A\.—(1) No person shall, on or after 18th July 2001\*, become a substantial shareholder of a designated financial institution without first obtaining the approval of the Minister.
 
-2Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
+\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
 
 [23/2001]
 
@@ -1126,25 +1126,25 @@ of a designated financial institution shall continue to be such a controller unl
 
 (b) a reference to the control of a percentage of the voting power in a designated financial institution is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the designated financial institution; and
 
-(c) a person, A, is an associate of another person, B, if —
+(c) a person,A, is an associate of another person,B, if —
 
-(i) A is the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, of B;
+(i) Ais the spouse or a parent, remoter lineal ancestor or step-parent or a son, daughter, remoter issue, step-son or step-daughter or a brother or sister, ofB;
 
-(ii) A is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B, or where B is a corporation, of the directors of B;
+(ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
 
-(iii) B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A, or where A is a corporation, of the directors of A;
+(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
 
-(iv) A is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(v) B is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A;
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
 
-(vi) A is a related corporation of B;
+(vi) Ais a related corporation ofB;
 
-(vii) A is a corporation in which B, alone or together with other associates of B as described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in A;
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inA;
 
-(viii) B is a corporation in which A, alone or together with other associates of A as described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power in B; or
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the voting power inB; or
 
-(ix) A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the designated financial institution.
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their voting power in relation to, the designated financial institution.
 
 [23/2001]
 
@@ -1422,8 +1422,6 @@ shall be guilty of an offence.
 
 (viii) has contravened any provision of the Deposit Insurance Act (Cap. 77A) or any rules issued by the deposit insurance agency under the Deposit Insurance Act; or
 
-[15/2011 wef 01/05/2011]
-
 (b) if, upon the Authority exercising any power under section 49(2) or the Minister exercising any power under Division 2, 3 or 4 of Part VIIA in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
 
 [2/84; 23/2001; 31/2005; 1/2007]
@@ -1462,7 +1460,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 Maintenance of reserve fund
 
-22\. [Repealed by Act 1 of 2007]
+22\. [Repealed byAct 1 of 2007]
 
 ### Maintenance of adequate provision for bad and doubtful debts
 
@@ -1472,7 +1470,7 @@ Maintenance of reserve fund
 
 Dividends
 
-24\. [Repealed by Act 23 of 2001]
+24\. [Repealed byAct 23 of 2001]
 
 ### Publication and exhibition of audited balance-sheet
 
@@ -1508,7 +1506,7 @@ Dividends
 
 [23/2001]
 
-3(2) Every bank shall send to the Authority —
+\*(2) Every bank shall send to the Authority —
 
 (a) not later than 3 months after the close of its financial year or within such longer period as the Authority may on application of the bank approve —
 
@@ -1528,13 +1526,13 @@ Dividends
 
 [23/2001]
 
-3The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26(1).
+\*The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26(1).
 
-4(3) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2)(a)(i), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
+\*(3) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2)(a)(i), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
 
 [23/2001]
 
-4The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26(1).
+\*The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26(1).
 
 (4) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (2)(a)(iv) and (v) if the balance-sheet and profit and loss account are accompanied by a report by a public accountant within the meaning of the Companies Act (Cap. 50) which complies, insofar as it is practicable, with section 207 of that Act.
 
@@ -1878,9 +1876,9 @@ any person in the director group of the bank whether or not the bank has contrav
 
 [23/2001; 1/2007]
 
-(8) This section shall not affect any acquisition or holding of a major stake which was approved by the Authority before 18th July 20015.
+(8) This section shall not affect any acquisition or holding of a major stake which was approved by the Authority before 18th July 2001\*.
 
-5Date of commencement of the Banking (Amendment) Act 2001 (Act 23 2001).
+\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 2001).
 
 [23/2001]
 
@@ -1912,9 +1910,9 @@ any person in the director group of the bank whether or not the bank has contrav
 
 ### Grace period for sections 30 to 33
 
-34\.—(1) Notwithstanding sections 30 to 33, where any business was carried on, or any property or investment was held, by a bank in Singapore immediately before 18th July 20016with the approval of the Authority (where required) or which did not require the approval of the Authority, the bank may continue to carry on such business or hold such property or investment, as the case may be, for a period of 3 years from 18th July 2001.
+34\.—(1) Notwithstanding sections 30 to 33, where any business was carried on, or any property or investment was held, by a bank in Singapore immediately before 18th July 2001\*with the approval of the Authority (where required) or which did not require the approval of the Authority, the bank may continue to carry on such business or hold such property or investment, as the case may be, for a period of 3 years from 18th July 2001.
 
-6Date of commencement of the Banking (Amendment) Act 2001 (Act 23 2001).
+\*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 2001).
 
 [23/2001]
 
@@ -1978,7 +1976,7 @@ any person in the director group of the bank whether or not the bank has contrav
 
 Relief from limitations imposed by sections 29, 31 and 33
 
-37\. [Repealed by Act 1 of 2007]
+37\. [Repealed byAct 1 of 2007]
 
 ## PART VI
 
@@ -4108,8 +4106,6 @@ he shall immediately report the matter to the Authority.
 
 (a) firstly, any premium contributions due and payable by the bank under the Deposit Insurance Act (Cap. 77A);
 
-[15/2011 wef 01/05/2011]
-
 (b) secondly, liabilities incurred by the bank in respect of insured deposits, up to the amount of compensation paid or payable out of the Fund by the Agency under the Deposit Insurance Act in respect of such insured deposits;
 
 (c) thirdly, deposit liabilities incurred by the bank with non-bank customers other than those specified in paragraphs (b) and (d);
@@ -4258,7 +4254,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Indemnity
 
-68\. [Repealed by Act 24 of 2003]
+68\. [Repealed byAct 24 of 2003]
 
 ### Composition of offences
 
@@ -4294,9 +4290,9 @@ Indemnity
 
 72\. Notwithstanding the provisions of any other written law, offences under this Act may be tried in a District Court, which shall have the power to impose the maximum penalty prescribed for any offence under this Act.
 
-### Consent of Attorney-General
+### Consent of Public Prosecutor
 
-73\. No prosecution in respect of any offence under this Act shall be instituted except with the consent of the Attorney-General .
+73\. No prosecution in respect of any offence under this Act shall be instituted except with the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
@@ -4460,13 +4456,15 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 76\. Nothing in this Act shall be construed so as to prevent any of the following persons from carrying on any activity or business (other than an activity or a business referred to in Part VIII) for which he is registered or licensed under the following respective Act corresponding to that person:
 
-(a) [Deleted by Act 23/2008 wef 20/10/2008]
+(a) [Deleted byAct 23/2008 wef 20/10/2008]
 
 (b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222); or
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108).
 
 [28/93; 37/98; 23/2001; 1/2007]
+
+[23/2008 wef 20/10/2008]
 
 ### Authority’s powers of exemption
 
@@ -4792,8 +4790,6 @@ The parent supervisory authority of the bank incorporated outside Singapore or t
 
 The Authority or any person authorised or appointed by the Authority.
 
-[15/2011 wef 01/05/2011]
-
 Part II
 
 Further Disclosure Prohibited
@@ -4970,8 +4966,6 @@ In this Schedule, unless the context otherwise requires —
 
 “insured depositor” has the same meaning as in section 2(1) of the Deposit Insurance Act;
 
-[15/2011 wef 01/05/2011]
-
 “lawyer” means an advocate and solicitor of the Supreme Court of Singapore, or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
 
 “merchant bank” means a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
@@ -4980,13 +4974,13 @@ In this Schedule, unless the context otherwise requires —
 
 “specified written law” means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Hostage-Taking Act 2010, the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151), the Moneylenders Act 2008 (Act 31 of 2008) and the Prevention of Corruption Act (Cap. 241);
 
-[5/2010 wef 11/02/2010]
-
-[19/2010 wef 21/11/2010]
-
 “surety”, in relation to a customer of a bank, includes any person who has given the bank security for the liability of the customer by way of a mortgage or a charge.
 
 [23/2001; 31/2005]
+
+[5/2001 wef 11/02/2010]
+
+[19/2001 wef 21/11/2010]
 
 FOURTH SCHEDULE
 
@@ -5278,6 +5272,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 13/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|21 November 2010|
+|31.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Banking Act
@@ -5411,8 +5411,6 @@ This Comparative Table is provided for the convenience of users. It is not part 
 —
 
 68 (Repealed by Act 24/2003)
-
-COMPARATIVE TABLE
 
 ## COMPARATIVE TABLE
 
