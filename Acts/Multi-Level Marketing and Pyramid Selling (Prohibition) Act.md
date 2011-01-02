@@ -144,9 +144,11 @@ the court shall, in addition to imposing on that person any other punishment, or
 
 [19/2000]
 
-(3) Where a person charged with any offence under section 3(2) is convicted of one or more offences under any other written law, and the outstanding offences are taken into consideration by the court under section 178 of the Criminal Procedure Code (Cap. 68) for the purpose of passing sentence, the court may impose the penalty mentioned in subsection (1) for any offence under this Act so taken into consideration.
+(3) Where a person charged with any offence under section 3(2) is convicted of one or more offences under any other written law, and the outstanding offences are taken into consideration by the court under section 148 of the Criminal Procedure Code 2010 for the purpose of passing sentence, the court may impose the penalty mentioned in subsection (1) for any offence under this Act so taken into consideration.
 
 [19/2000]
+
+[15/2010 wef 02/01/2011]
 
 (4) Nothing in subsection (1) shall prejudice or affect any right which any person may have under any written law or rule of law to recover damages from the person referred to in subsection (1).
 
@@ -180,7 +182,7 @@ Multi-Level Marketing and Pyramid Selling (Prohibition) Act
 
 (CHAPTER 190)
 
-This Legislative History is provided for the convenience of users of the Multi-Level Marketing and Pyramid Selling (Prohibition) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Multi-Level Marketing and Pyramid Selling (Prohibition) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -199,6 +201,12 @@ This Legislative History is provided for the convenience of users of the Multi-L
 ||Date of commencement|1 June 2000|
 |4.|**2000 Revised Edition—Multi-Level Marketing and Pyramid Selling (Prohibition) Act**|
 ||Date of operation|30 December 2000|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Multi-Level Marketing and Pyramid Selling (Prohibition) Act
@@ -213,9 +221,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1985 Ed\. 
 
-2 — (2)
+2 —(2)
 
-2 — (1A)
+2 —(1A)
 
 (3)
 
