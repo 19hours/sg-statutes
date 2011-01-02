@@ -12,7 +12,7 @@
 
 - [3 Penalty](#Penalty)
 
-- [4 Sanction](#Sanction)
+- [4 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [5 Saving](#Saving)
 
@@ -60,9 +60,11 @@ Provided that nothing in this paragraph shall be held to permit the publication 
 
 Provided that no person, other than the proprietor, editor, printer or publisher, shall be liable to be convicted under this Act.
 
-### Sanction
+### Consent of Public Prosecutor
 
-4\. No prosecution for an offence under this Act shall be commenced without the sanction of the Public Prosecutor.
+4\. No prosecution for an offence under this Act shall be commenced without the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Saving
 
@@ -93,3 +95,8 @@ This Legislative History is provided for the convenience of users of the Judicia
 ||Date of operation|1 January 1985|
 |4.|**1985 Revised Edition—Judicial Proceedings (Regulation of Reports) Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
