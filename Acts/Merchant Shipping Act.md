@@ -2626,7 +2626,7 @@ LEGAL PROCEEDINGS
 
 ### Offences under this Act
 
-192\. No person shall be charged with any offence under this Act except on the complaint or with the sanction of the Public Prosecutor, the Director, the Port Master, a Port Health Officer or a surveyor of ships.
+192\. No person shall be charged with any offence under this Act except on the complaint or with the consent of the Public Prosecutor, the Director, the Port Master, a Port Health Officer or a surveyor of ships.
 
 ### Forgery, etc., of documents and fraudulent use
 
@@ -3196,3 +3196,9 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
