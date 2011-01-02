@@ -420,7 +420,9 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 ### Compensation order
 
-31\.—(1) The court before which a person is convicted of an offence under this Act may, on application or otherwise, make an order requiring him to pay such compensation, not exceeding $1,000 as the court thinks just, for any loss or damage resulting from that offence to any person who has suffered such loss or damage; and section 403 of the Criminal Procedure Code shall be applicable to any order made under this section.
+31\.—(1) The court before which a person is convicted of an offence under this Act may, on application or otherwise, make an order requiring him to pay such compensation, not exceeding $1,000 as the court thinks just, for any loss or damage resulting from that offence to any person who has suffered such loss or damage; and section 360 of the Criminal Procedure Code 2010 shall be applicable to any order made under this section.
+
+[Act 15/2010 wef 02/01/2011]
 
 (2) A compensation order made under this section shall not prejudice any right to a civil action for the recovery of damages beyond the amount of compensation paid under the order.
 
@@ -466,3 +468,8 @@ This Legislative History is provided for the convenience of users of the Consume
 ||Date of commencement|15 January 1999 (item (2) in the Fourth Schedule — amendment of Consumer Protection (Trade Descriptions and Safety Requirements) Act)|
 |4.|**G.N. No. S 433/2010—Consumer Protection (Trade Descriptions and Safety Requirements) Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|10 August 2010|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
