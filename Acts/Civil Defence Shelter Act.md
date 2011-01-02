@@ -74,7 +74,7 @@
 
 - [28 Regulations](#Regulations)
 
-[**THE SCHEDULE Public Shelters Deemed to be Provided under This Act**](#THE-SCHEDULE)
+[**THE SCHEDULE Public shelters deemed to be provided under this Act**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -402,7 +402,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Service of notices, etc.
 
-19\.—(1) Any notice, order or document required or authorised by this Act or the regulations to be served on any person may be served on that person
+19\.—(1) Any notice, order or document required or authorised by this Act or the regulations to be served on any person may be served on that person —
 
 (a) by delivering it personally to that person;
 
@@ -476,7 +476,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Conduct of prosecutions
 
-23\. Proceedings in respect of any offence under this Act or the regulations may, be conducted by any officer of the Force or any other person authorised in writing in that behalf by the Commissioner.
+23\. Proceedings in respect of any offence under this Act or the regulations may, with the authorisation of the Public Prosecutor, be conducted by any officer of the Force or any other person authorised in writing in that behalf by the Commissioner.
+
+[15/2010 wef 02/01/2011]
 
 ### Evidence
 
@@ -530,7 +532,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Section 2(3)
 
-Public Shelters Deemed to be Provided under This Act
+Public shelters deemed to be provided under this Act
 
 The public shelters located at the concourse and platform levels of the following MRT stations:
 
@@ -575,3 +577,9 @@ This Legislative History is provided for the convenience of users of the Civil D
 |||(Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 April 2004|
 ||Date of commencement|1 April 2005 (Item (2) in the Fifth Schedule)|
+|4.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
