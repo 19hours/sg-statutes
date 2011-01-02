@@ -252,7 +252,9 @@ Provided that —
 
 16\.—(1) An officer of customs may arrest without warrant a person whom he reasonably suspects of committing or attempting to commit or employing, aiding or assisting a person to commit an offence under this Act or any rules made thereunder.
 
-(2) Every person so arrested shall be taken to a customs station, customs office or police station and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code [Cap. 68].
+(2) Every person so arrested shall be taken to a customs station, customs office or police station and shall thereafter be dealt with as if he had been arrested under section 65 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011 wef 02/01/2011]
 
 [19/73]
 
@@ -278,9 +280,11 @@ Provided that —
 
 ### Who may prosecute
 
-20\. Prosecutions in respect of offences committed under this Act or any rules made thereunder may be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Comptroller.
+20\. Prosecutions in respect of offences committed under this Act or any rules made thereunder may, with the authorisation of the Public Prosecutor, be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Comptroller.
 
 [21
+
+[15/2010 wef 02/01/2011 wef 02/01/2011]
 
 ### Protection of informers from discovery
 
@@ -434,3 +438,8 @@ This Legislative History is provided for the convenience of users of the Enterta
 |||(Bill No. 6/2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|16.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
