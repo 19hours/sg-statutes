@@ -98,7 +98,7 @@
 
 - [41 Destroying or falsifying register of marriages](#Destroying-or-falsifying-register-of-marriages)
 
-- [42 Sanction for prosecution](#Sanction-for-prosecution)
+- [42 Consent for prosecution](#Consent-for-prosecution)
 
 - [43 Correction of errors](#Correction-of-errors)
 
@@ -948,9 +948,9 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 7 years and shall also be liable to a fine not exceeding $10,000.
 
-### Sanction for prosecution
+### Consent for prosecution
 
-42\. No prosecution for any offence punishable under this Part shall be instituted except with the authority in writing of the Attorney-General or the Solicitor-General.
+42\. No prosecution for any offence punishable under this Part shall be instituted except with the consent of the Public Prosecutor.
 
 [9/67]
 
@@ -2652,17 +2652,17 @@ of any woman or girl in respect of whom the offence is alleged to have been comm
 
 ### Trial of offences
 
-154\.—(1) All offences under this Part shall be cognizable by a District Court.
+154\.—(1) All offences under this Part shall be triable by a District Court.
 
 [15/2010 wef 02/01/2011]
 
-(2) No prosecution shall be instituted in respect of any such offence without the previous sanction of the Director or the Public Prosecutor or his deputy.
+(2) No prosecution shall be instituted in respect of any such offence without the consent of the Director or the Public Prosecutor or his deputy.
 
 [15/2010 wef 02/01/2011]
 
 (3) Any District Court may, notwithstanding anything in the Criminal Procedure Code (Cap. 68), impose the full punishment prescribed by this Part in respect of any offence.
 
-(4) Prosecutions in respect of offences committed under this Part may be conducted by the Director or any officer of the Ministry of Community Development, Youth and Sports authorised in writing in that behalf by the Director.
+(4) Prosecutions in respect of offences committed under this Part may, with the authorisation of the Public Prosecutor, be conducted by the Director or any officer of the Ministry of Community Development, Youth and Sports authorised in writing in that behalf by the Director.
 
 [15/2010 wef 02/01/2011]
 
@@ -2872,7 +2872,7 @@ and may remove any woman or girl who is or may be liable to be dealt with under 
 
 [14/69; 21/73]
 
-(2) Where any person is arrested by the Director or any person mentioned in subsection (1), the Director or person making the arrest shall comply with sections 36 and 37 of the Criminal Procedure Code (Cap. 68) as if he were a police officer.
+(2) Where any person is arrested by the Director or any person mentioned in subsection (1), the Director or person making the arrest shall comply with sections 68 and 85 of the Criminal Procedure Code 2010 as if he were a police officer.
 
 [15/2010 wef 02/01/2011]
 
@@ -3164,63 +3164,93 @@ Sections 13 and 17
 
 Consents Required to the Marriage of A Minor
 
-PAR.
+Part I
 
 —
 
-Part I — Where the Minor Is Legitimate
+Where the Minor Is Legitimate
 
 Circumstances
 
 Person or persons whose consent is required
 
-1. Where both parents are living:
+1.
 
-(a) if parents living together:
+Where both parents are living:
+
+(a)
+
+if parents living together:
 
 both parents;
 
-(b) if parents are divorced or separated by order of court or by agreement:
+(b)
+
+if parents are divorced or separated by order of court or by agreement:
 
 the parent to whom the custody of the minor is committed by order of any court or by the agreement, or, if the custody of the minor is so committed to one parent during part of the year and to the other parent during the rest of the year, both parents;
 
-(c) if one parent has been deserted by the other:
+(c)
+
+if one parent has been deserted by the other:
 
 the parent who has been deserted;
 
-(d) if both parents have been deprived of custody of minor by order of court:
+(d)
+
+if both parents have been deprived of custody of minor by order of court:
 
 the person to whose custody the minor is committed by order of court.
 
-2. Where one parent is dead:
+2.
 
-(a) if there is no other guardian:
+Where one parent is dead:
+
+(a)
+
+if there is no other guardian:
 
 the surviving parent;
 
-(b) if a guardian has been appointed by the deceased parent:
+(b)
+
+if a guardian has been appointed by the deceased parent:
 
 the surviving parent and the guardian if acting jointly, or the surviving parent or the guardian if the parent or guardian is the sole guardian of the minor.
 
-3. Where both parents are dead:
+3.
+
+Where both parents are dead:
 
 the guardians or guardian appointed by the deceased parents or by the court under the Guardianship of Infants Act (Cap. 122).
 
-PART II — WHERE THE MINOR IS ILLEGITIMATE
+Part II
+
+—
+
+Where The Minor Is Illegitimate
 
 Circumstances
 
 Person whose consent is required
 
-1. If the mother of the minor is alive:
+1.
+
+If the mother of the minor is alive:
 
 the mother or, if she has by order of court been deprived of the custody of the minor, the person to whom the custody of the minor has been committed by order of court.
 
-2. If the mother of the minor is dead:
+2.
+
+If the mother of the minor is dead:
 
 the guardian appointed by the mother, or by the court.
 
-PART III — WHERE THE MINOR IS A TRANSFERRED CHILD
+Part III
+
+—
+
+Where The Minor Is A Transferred Child
 
 Circumstances
 
@@ -3342,3 +3372,9 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 11/2008 published on 21 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|21.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
