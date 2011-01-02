@@ -884,7 +884,7 @@ GENERAL
 
 39\.—(1) In addition to the powers conferred on him by any written law specified in the Fifth Schedule, an officer or employee of the Authority may, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —
 
-(a) exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act [Cap. 276] and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer shall include a reference to such officer or employee of the Authority;
+(a) exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act (Cap. 276) and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer shall include a reference to such officer or employee of the Authority;
 
 (b) require any person whom he reasonably believes to have committed an offence under any such written law to furnish evidence of the person’s identity;
 
@@ -896,7 +896,7 @@ GENERAL
 
 (f) detain or seize any document found in the course of a search under this subsection.
 
-(2) Where any person is arrested by an officer or employee of the Authority under subsection (1), the officer or employee shall comply with sections 35 and 36 of the Criminal Procedure Code [Cap. 68] as if he were a police officer.
+(2) Where any person is arrested by an officer or employee of the Authority under subsection (1), the officer or employee shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.
 
 (3) A person who —
 
@@ -910,7 +910,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule or any subsidiary legislation made under this Act or any such written law, may be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority with the consent of the Attorney-General.
+40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority.
 
 (2) The Minister may, by order published in theGazette, amend the Fifth Schedule.
 
@@ -1479,3 +1479,9 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 18/2010 published on 16 August 2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|1 November 2010|
+|17.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
