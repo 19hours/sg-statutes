@@ -116,7 +116,7 @@
 
 - [36 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
-- [37 When Magistrate may take cognizance of offence](#When-Magistrate-may-take-cognizance-of-offence)
+- [37 When Magistrate may try offence](#When-Magistrate-may-try-offence)
 
 - [38 Jurisdiction of court](#Jurisdiction-of-court)
 
@@ -782,7 +782,7 @@ Insurance and other general provisions
 
 [5/2008]
 
-(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of any deputy for the employee under the Mental Capacity Act 2008.
+(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of deputy for the employee under the Mental Capacity Act 2008.
 
 [5/2008]
 
@@ -952,7 +952,7 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) with the leave of the Commissioner, by any other person authorised in writing by that person;
 
-(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008;
+(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 to manage his property;
 
 [21/2008 wef 01/03/2010]
 
@@ -996,7 +996,7 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) where the employee is dead, to or for the benefit of any one or more of the deceased employee’s dependants or to the estate of the deceased employee where a will has been produced, as the Commissioner deems fit, or where the deceased employee has no dependants, to the Workers’ Fund; or
 
-(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008.
+(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any deputy appointed for the employee by the High Court under the Mental Capacity Act 2008 to manage the employee’s property, as the Commissioner deems fit.
 
 [5/2008]
 
@@ -1216,11 +1216,11 @@ shall be guilty of an offence and shall be liable —
 
 [5/2008]
 
-### When Magistrate may take cognizance of offence
+### When Magistrate may try offence
 
-37\. For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Commissioner.
+37\. For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by the Commissioner, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
 
-[5/2008]
+[15/2010 wef 02/01/2011]
 
 ### Jurisdiction of court
 
@@ -2733,3 +2733,8 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of First Reading|21 July 2008|
 ||Date of Second and Third Readings|16 September 2009|
 ||Date of commencement|1 March 2010|
+|11.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
