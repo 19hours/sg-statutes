@@ -158,7 +158,7 @@
 
 - [66 Regulations](#Regulations)
 
-[**THE SCHEDULE Matters for Which Provision Must be Made in the Rules of Registered Trade Union**](#THE-SCHEDULE)
+[**THE SCHEDULE Matters for which provision must be made in the rules of registered trade union**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -505,6 +505,8 @@ may appeal against the refusal or order to the Minister at any time within a per
 (b) the Official Receiver shall proceed to wind up the affairs of the trade union and after satisfying and providing for all debts and liabilities of the trade union and the costs of winding up shall pay the surplus assets, if any, of the trade union —
 
 (i) where the Minister so directs, into the Workers’ Fund established under the Work Injury Compensation Act (Cap. 354); or
+
+[5/2008 wef 01/04/2008]
 
 (ii) in the absence of a direction from the Minister, in accordance with the rules of the trade union.
 
@@ -890,6 +892,8 @@ PROPERTY
 
 45\. Upon any change in the office of any trustee, the Supreme Court may, upon an ex parte application by originating summons made to it in that behalf, make an order vesting the property of a registered trade union in the trustees for the time being of the trade union for the same estate and interest as the former trustee had therein, and subject to the same trusts, without any transfer, conveyance or assignment.
 
+[42/2005 wef 01/01/2006]
+
 ### Purchase or lease of land or buildings
 
 46\.—(1) Subject to subsection (2) and to any provision in its rules, a registered trade union may —
@@ -1142,7 +1146,9 @@ shall severally be guilty of an offence and shall be liable on conviction by a D
 
 ### Limitation of prosecutions
 
-60\. No prosecution shall be instituted under this Act except by or at the instance of or with the written consent of the Attorney-Genera l.
+60\. No prosecution shall be instituted under this Act except by or at the instance of or with the written consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Saving of offences under other written law
 
@@ -1220,7 +1226,7 @@ MISCELLANEOUS
 
 Sections 38(1) and 39(6)
 
-Matters for Which Provision Must be Made in the Rules of Registered Trade Union
+Matters for which provision must be made in the rules of registered trade union
 
 1\. The name of the trade union and the place of meeting for the business of the trade union.
 
@@ -1244,7 +1250,7 @@ Trade Unions Act
 
 (CHAPTER 333)
 
-This Legislative History is provided for the convenience of users of the Trade Unions Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Trade Unions Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1312,7 +1318,7 @@ This Legislative History is provided for the convenience of users of the Trade U
 |15.|**Act 1 of 1973—Trade Unions (Amendment) Act 1973**|
 ||Date of First Reading|22 November 1972|
 |||(Bill No. 43/72 published on 25 November 1972)|
-||Date of Second and Third Readings|16 December 1973|
+||Date of Second and Third Readings|16 February 1973|
 ||Date of commencement|1 April 1973|
 |16.|**Act 3 of 1977—Trade Unions (Amendment) Act 1977**|
 ||Date of First Reading|28 February 1977|
@@ -1367,6 +1373,12 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|28.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Trade Unions Act
