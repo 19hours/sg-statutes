@@ -52,7 +52,7 @@
 
 - [19 Powers of search](#Powers-of-search)
 
-- [20 When court may take cognizance of offence](#When-court-may-take-cognizance-of-offence)
+- [20 When court may try offence](#When-court-may-try-offence)
 
 - [21 Court may determine and declare age of child or young person](#Court-may-determine-and-declare-age-of-child-or-young-person)
 
@@ -240,7 +240,9 @@ PRELIMINARY
 
 ### Interpretation
 
-2\.—(1) In this Act, unless the context otherwise requires —
+2\. 
+
+(1) In this Act, unless the context otherwise requires —
 
 “approved home” means any institution or part thereof appointed or established under Part VI as an approved home;
 
@@ -660,9 +662,9 @@ General
 
 (2) Any person who obstructs or hinders or attempts to obstruct a protector or any such officer in the exercise of the powers conferred by this section shall be guilty of an offence.
 
-### When court may take cognizance of offence
+### When court may try offence
 
-20\. No court shall take cognizance of any offence punishable under this Act except with the written sanction of the Public Prosecutor or a Deputy Public Prosecutor or upon a complaint made by —
+20\. No court shall try any offence punishable under this Act except with the consent of the Public Prosecutor or a Deputy Public Prosecutor or upon a complaint made by —
 
 (a) a protector;
 
@@ -1050,7 +1052,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (j) to order the offender to pay a fine, damages or costs;
 
-(k) to order the offender to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code (Cap. 68) if the offender —
+(k) to order the offender to be brought before a District Court to be dealt with under section 305 of the Criminal Procedure Code 2010 if the offender —
 
 (i) has attained the age of 16 years; or
 
@@ -1102,7 +1104,7 @@ and the Juvenile Court is satisfied that it is expedient with a view to his refo
 
 (a) order the person to be transferred to and detained in an approved school or in another approved school, as the case may be, which the Court considers more suitable for him and to be detained there for the whole or any part of the unexpired period of detention; or
 
-(b) order the person to be brought before a District Court to be dealt with under section 13 of the Criminal Procedure Code (Cap. 68) if the person —
+(b) order the person to be brought before a District Court to be dealt with under section 305 of the Criminal Procedure Code 2010 if the person —
 
 (i) has attained the age of 16 years; or
 
@@ -1859,6 +1861,11 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of Second Reading|22 October 2007|
 ||Date of Third Reading|23 October 2007|
 ||Date of commencement|1 February 2008|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
