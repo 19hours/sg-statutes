@@ -96,6 +96,8 @@ PRELIMINARY
 
 “person acting judicially” means a person, tribunal, commission, committee or other body having by law or consent of the parties power to receive evidence.
 
+[Act 43/2007 wef 01/11/2007]
+
 ## PART II
 
 OATHS
@@ -206,6 +208,10 @@ shall be guilty of an offence and —
 
 (3) Subsection (1)(a) shall apply to the making of a statutory declaration outside Singapore if the person knows or has reason to believe that the statutory declaration is intended to be used in Singapore; and such person may be dealt with as if the offence had been committed in Singapore.
 
+(4) No prosecution shall be instituted under this section without the written consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
+
 ## PART IV
 
 OATHS OF OFFICE AND ALLEGIANCE
@@ -260,6 +266,40 @@ Section 11(1)
 
 Statutory Declaration
 
+I(1), , do solemnly and sincerely declare(2)
+
+And I make this solemn declaration by virtue of the provisions of the Oaths and Declarations Act (Cap. 211), and subject to the penalties provided by that Act for the making of false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.
+
+(3)
+
+Declared at this day of .
+
+Before me,
+
+(4)
+
+(5)
+
+(1)
+
+Here insert name, address and occupation of person making the declaration.
+
+(2)
+
+Here insert matter declared to. Where the matter is long, add the words “as follows:” and then set out the matter in numbered paragraphs.
+
+(3)
+
+Signature of person making the declaration.
+
+(4)
+
+Signature of person before whom the declaration is made.
+
+(5)
+
+Here insert title of person before whom the declaration is made.
+
 SECOND SCHEDULE
 
 Section 15
@@ -268,19 +308,31 @@ Part I
 
 Form of Oath of Allegiance
 
-“I, .......................................................... , do swear that I will be faithful and bear true allegiance to the Republic of Singapore according to law. So help me God.”
+“
+
+I, , do swear that I will be faithful and bear true allegiance to the Republic of Singapore according to law. So help me God.
+
+”
 
 Part II
 
 Form of Oath of Office
 
-“I, .......................................................... , do swear that I will well and truly serve the Republic of Singapore in the office of .................................... . So help me God.”
+“
+
+I, , do swear that I will well and truly serve the Republic of Singapore in the office of . So help me God.
+
+”
 
 Part III
 
 Form of Judicial Oath
 
-“I, .........................................................., do swear that I will well and truly serve the Republic of Singapore in the office of .......................................... and I will do right to all manner of people after the laws and usages of Singapore without fear or favour, affection or ill-will. So help me God.”
+“
+
+I, , do swear that I will well and truly serve the Republic of Singapore in the office of and I will do right to all manner of people after the laws and usages of Singapore without fear or favour, affection or ill-will. So help me God.
+
+”
 
 ## LEGISLATIVE HISTORY
 
@@ -288,7 +340,7 @@ Oaths and Declarations Act
 
 (CHAPTER 211)
 
-This Legislative History is provided for the convenience of users of the Oaths and Declarations Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Oaths and Declarations Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -305,6 +357,12 @@ This Legislative History is provided for the convenience of users of the Oaths a
 |||(Bill No. 31/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007|
+|4.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Oaths and Declarations Act
