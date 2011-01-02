@@ -332,7 +332,7 @@ if the President certifies that the paper, book, record or other document or the
 
 (b) refer the matter to any select committee for investigation, consideration and report to Parliament; or
 
-(c) if the offence is an offence mentioned in Part V, refer the matter to the Attorney-General with a view to the institution of criminal proceedings against the person.
+(c) if the offence is an offence mentioned in Part V, refer the matter to the Public Prosecutor with a view to the institution of criminal proceedings against the person.
 
 [15/2010 wef 02/01/2011]
 
@@ -524,7 +524,7 @@ OFFENCES AND PENALTIES
 
 ### Restriction on prosecution
 
-37\. No prosecution shall be instituted in any court for an offence under this Act unless the matter giving rise to that prosecution has been referred to the Attorney-General under section 21(1).
+37\. No prosecution shall be instituted in any court for an offence under this Act unless the matter giving rise to that prosecution has been referred to the Public Prosecutor under section 21(1).
 
 [15/2010 wef 02/01/2011]
 
@@ -583,6 +583,12 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 31/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Parliament (Privileges, Immunities and Powers) Act
