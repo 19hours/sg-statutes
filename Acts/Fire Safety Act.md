@@ -290,8 +290,6 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 (ba) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and
 
-[47/2004 wef 01/04/2005]
-
 (c) in respect of any fire safety measure, includes the occupier or the owner of the premises in or on which the fire safety measure is installed or kept;
 
 “peer reviewer” means a fire safety engineer who is appointed to review and assess whether any alternative solution in plans for any fire safety works that is prepared or proposed by another person satisfies any fire performance requirements;
@@ -1858,7 +1856,7 @@ MISCELLANEOUS
 
 ### Conduct of prosecutions
 
-52\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by any officer of the Force or any other person authorised in writing in that behalf by the Commissioner.
+52\. Proceedings in respect of any offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by any officer of the Force or any other person authorised in writing in that behalf by the Commissioner.
 
 [15/2010 wef 02/01/2011]
 
@@ -2535,6 +2533,12 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
+|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
