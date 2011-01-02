@@ -400,11 +400,7 @@ PRELIMINARY
 
 (c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
 
-[47/2004 wef 01/04/2005]
-
 (d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
-
-[47/2004 wef 01/04/2005]
 
 “place of public resort” means a building or a defined or an enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
 
@@ -425,8 +421,6 @@ PRELIMINARY
 “public waste collector licensee” means a person designated by the Director-General under section 31(3);
 
 “recyclable” means such refuse, waste or other material or thing as may be prescribed by the Agency, with the approval of the Minister, to be capable of being recycled or reused;
-
-[26/2008 wef 01/11/2008]
 
 “recycling facility” means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
 
@@ -469,6 +463,12 @@ and anything which is discarded or otherwise dealt with as if it were waste shal
 “work place” means any premises or place used for any industrial, trade, commercial or manufacturing purposes and includes all construction sites, work sites and farms.
 
 [2/96; 22/99; 4/2002]
+
+[47/2004 wef 01/04/2005]
+
+[27/2007 wef 01/07/2007]
+
+[26/2008 wef 01/11/2008]
 
 ## PART II
 
@@ -804,7 +804,7 @@ shall be guilty of an offence.
 
 [32/92; 22/99]
 
-(3) Notwithstanding section 18 of the Criminal Procedure Code (Cap. 68), where a Court makes corrective work orders in respect of 2 or more offences of which the offender has been convicted by or before the Court, the Court may direct that the hours of work specified in any of those orders shall be concurrent with or additional to the hours specified in any other of those orders, but so that the total number of hours which are not concurrent shall not exceed the maximum specified in subsection (2).
+(3) Notwithstanding section 307(1) of the Criminal Procedure Code 2010, where a Court makes corrective work orders in respect of 2 or more offences of which the offender has been convicted by or before the Court, the Court may direct that the hours of work specified in any of those orders shall be concurrent with or additional to the hours specified in any other of those orders, but so that the total number of hours which are not concurrent shall not exceed the maximum specified in subsection (2).
 
 [32/92]
 
@@ -2258,9 +2258,9 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 ### Transitional provision
 
-112\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 2002\** shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+112\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 2002\*shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-\*Date of commencment of the National Environment Agency Act 2002 (Act 4 of 2002).
+\*Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002).
 
 [114
 
@@ -2567,6 +2567,11 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 22/2008 published on 26 August 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 November 2008|
+|17.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
