@@ -2390,9 +2390,11 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 ### Who may prosecute
 
-113\. Prosecutions, in respect of offences committed under this Act, may be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General.
+113\. Prosecutions, in respect of offences committed under this Act, may, with the authorisation of the Public Prosecutor, be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General.
 
 [23/93; 24/96]
+
+[15/2010 wef 02/01/2011]
 
 ### Jurisdiction of court
 
@@ -3415,6 +3417,12 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(item (1) in the Second Schedule)|
 |33.|**G. N. No. S 783/2010—Customs Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|1 January 2011|
+|34.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Dates of Second and Third Reading|19th May 2010|
+||Date of commencement|2 January 2011|
+|||(item (31) of the Sixth Schedule)|
 ## COMPARATIVE TABLE
 
 Customs Act
