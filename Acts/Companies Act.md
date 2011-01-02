@@ -14512,7 +14512,7 @@ shall be guilty of an offence.
 
 ### Proceedings how and when taken
 
-409\.—(1) Except where provision is otherwise made in this Act, proceedings for any offence under this Act may be taken by the Registrar or with the written consent of the Minister by any person.
+409\.—(1) Except where provision is otherwise made in this Act, proceedings for any offence under this Act may, with the authorisation of the Public Prosecutor, be taken by the Registrar or with the written consent of the Minister by any person.
 
 [15/2010 wef 02/01/2011]
 
@@ -16046,9 +16046,7 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 55\. In the case of joint holders the vote of the senior who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of the other joint holders; and for this purpose seniority shall be determined by the order in which the names stand in the register of members.
 
-56. A member who is mentally disordered or whose person or estate is liable to be dealt with in any way under the law relating to mental capacity may vote, whether on a show of hands or on a poll, by such other person as properly has the management of his estate, and any such person may vote by proxy or attorney.
-
-[21/2008 wef 01/03/2010]
+56\. A member who is mentally disordered or whose person or estate is liable to be dealt with in any way under the law relating to mental capacity may vote, whether on a show of hands or on a poll, by such other person as properly has the management of his estate, and any such person may vote by proxy or attorney.
 
 57\. No member shall be entitled to vote at any general meeting unless all calls or other sums presently payable by him in respect of shares in the company have been paid.
 
@@ -16095,8 +16093,6 @@ Directors: Appointment, etc.
 (d) becomes disqualified from being a director by virtue of section 148, 149, 154 or 155;
 
 (e) becomes mentally disordered and incapable of managing himself or his affairs or a person whose person or estate is liable to be dealt with in any way under the law relating to mental capacity;
-
-[21/2008 wef 01/03/2010]
 
 (f) subject to section 145, resigns his office by notice in writing to the company;
 
@@ -17051,18 +17047,24 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 37/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 May 2009|
-|98.|**Act 22 of 2008—Mental Capacity Act 2008**|
+|98.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
-|99.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|99.|**Act 22 of 2008—Mental Capacity Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|100.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Companies Act
