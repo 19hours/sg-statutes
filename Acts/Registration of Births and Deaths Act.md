@@ -46,7 +46,7 @@
 
 - [20 When post-mortem examination is held](#When-post-mortem-examination-is-held)
 
-- [21 Duty of Coroners as to findings](#Duty-of-Coroners-as-to-findings)
+- [21 When Coroner’s certificate is issued](#When-Coroner’s-certificate-is-issued)
 
 - [22 Duties of police officers](#Duties-of-police-officers)
 
@@ -216,7 +216,7 @@ Provided that the Registrar-General may impose and order to be paid to him forth
 
 (3) No prosecution shall be instituted for any offence in respect of which the Registrar-General has imposed a penalty under the proviso to subsection (2).
 
-(4) The amount of any penalty imposed under the proviso to subsection (2) may be recovered in the manner provided by section 224(b)(iii) of the Criminal Procedure Code [Cap. 68], as if it were a fine.
+(4) The amount of any penalty imposed under the proviso to subsection (2) may be recovered in the manner provided by section 319(1)(b)(iii) of the Criminal Procedure Code 2010, as if it were a fine.
 
 ### Still births
 
@@ -258,13 +258,21 @@ Provided that no prosecution shall be instituted in respect of any birth or deat
 
 20\. When a medical practitioner has made a post-mortem examination of the body of any deceased person, the medical practitioner shall, unless he knows that a Coroner’s inquest or inquiry is to be held in respect of the death, within 24 hours after the conclusion of the examination, forward a certificate in the prescribed form to any deputy registrar of the local registration area within which the body of the deceased person was found, and the cause of death as stated in the certificate shall be entered in the register.
 
-### Duty of Coroners as to findings
+### When Coroner’s certificate is issued
 
-21\.—(1) When an inquest or inquiry is held on the body of any deceased person the Coroner shall, within 48 hours after the conclusion of the inquest or inquiry, forward to any deputy registrar of the local registration area within which the body of the deceased person was found a certificate setting forth the cause of death as ascertained at the inquest or inquiry and such other particulars as are required for the purpose of registration and the cause of death in the certificate shall be entered in the register.
+21\.—(1) Where, in relation to the death of any person —
 
-(2) When before the commencement or conclusion of an inquest or inquiry the Coroner issues a certificate authorising the burial of the body of any deceased person upon whom an inquiry or inquest is being or is to be held, he shall send a copy of the certificate to any deputy registrar of the local registration area within which the body of the deceased person was found and the deputy registrar shall enter in the prescribed form the cause of death as stated in the certificate.
+(a) a Coroner has issued a certificate setting out the cause of death as found at a Coroner’s inquiry, or if no inquiry is held, based on the evidence before the Coroner; or
 
-(3) The Coroner shall, within 48 hours after the conclusion of the inquest or inquiry, forward to the registrar or any deputy registrar of the local registration area within which the body of the deceased person was found a certificate setting forth the cause of death as ascertained at the inquest or inquiry and such other particulars as may be required for the purposes of registration, and the cause of death as stated in the certificate shall, if different from that already registered, be substituted therefor and the alterations duly certified and signed by the registrar.
+(b) a Coroner has issued a certificate of his order to release the body and no inquiry is held,
+
+the cause of death as stated in the certificate referred to in paragraph (a) or (b), as the case may be, shall be entered in the register.
+
+(2) The cause of death as stated in any certificate issued by the Coroner under subsection (1) shall, if different from that already registered, be substituted therefor and the alterations duly certified and signed by the registrar.
+
+(3) Nothing in section 3(3) or 8 shall prevent the registration under this section of a death which did not occur in Singapore, or where the body of the deceased person is destroyed, irrecoverable or cannot be found.
+
+[14/2010 wef 02/01/2011]
 
 ### Duties of police officers
 
@@ -346,7 +354,9 @@ Provided that this subsection shall not apply to any copy or extract of any entr
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) (a) Any person who wilfully or carelessly destroys, injures, mutilates, defaces, or loses any register used for the purpose of this Act;
+(2) 
+
+(a) Any person who wilfully or carelessly destroys, injures, mutilates, defaces, or loses any register used for the purpose of this Act;
 
 (b) any registrar or deputy registrar who refuses or omits without reasonable cause, the proof of which shall rest with the person accused, to register or record any birth or death, within his area of which he has notice or knowledge; or
 
@@ -354,11 +364,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) Any person who wilfully neglects or omits to comply with section 19, 20 or 21 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+(3) Any person who wilfully neglects or omits to comply with section 19 or 20 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+
+[14/2010 wef 02/01/2011]
 
 ### Prosecutions
 
-28\. No prosecution for any offence under this Act shall be instituted except with the sanction of the Attorney-General, the Solicitor-General, the Registrar-General, a registrar or a supervising deputy registrar.
+28\. No prosecution for any offence under this Act shall be instituted except with the consent of the Public Prosecutor, the Registrar-General, a registrar or a supervising deputy registrar.
 
 ### Rules
 
@@ -447,3 +459,13 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 38/1999 published on 12 October 1999)|
 ||Date of Second and Third Readings|24 November 1999|
 ||Date of commencement|1 May 2000|
+|18.|**Act 14 of 2010—Coroners Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|19.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
