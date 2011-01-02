@@ -140,9 +140,11 @@ Provided that if that person proves that he is a citizen of Singapore or an exem
 
 (3) The Minister may by an expulsion order impose such conditions as he may think fit as to the residence, occupation or conduct or police supervision or otherwise of the person against whom the order is made which shall be observed by the person so long as he remains in Singapore.
 
-(4) A copy of the expulsion order shall be served on the person against whom it is made by a police officer not below the rank of sergeant, or by any other person authorised by the Minister to serve the order and shall be served personally on that person in the same manner as a summons is required to be served under section 43 of the Criminal Procedure Code [Cap. 68]; and the officer or person serving that copy shall notify the person against whom it is made that he may at any time within 14 days of the service apply to the High Court for an order that the expulsion order be set aside on the ground that he is a citizen of Singapore or an exempted person.
+(4) A copy of the expulsion order shall be served on the person against whom it is made by a police officer not below the rank of sergeant, or by any other person authorised by the Minister to serve the order and shall be served personally on that person in the same manner as a summons is required to be served under section 116 of the Criminal Procedure Code 2010; and the officer or person serving that copy shall notify the person against whom it is made that he may at any time within 14 days of the service apply to the High Court for an order that the expulsion order be set aside on the ground that he is a citizen of Singapore or an exempted person.
 
 [21/73]
+
+[15/2010 wef 02/01/2011]
 
 (5) A person against whom an expulsion order has been made shall on or before a date specified by the Minister in the order execute a bond with sureties to the satisfaction of the Minister for due compliance with the terms of the expulsion order and for such amount and subject to such conditions as the Minister may think fit to specify.
 
@@ -399,7 +401,7 @@ The Banishment Act
 
 Expulsion Order
 
-I, ……………………………………, the Minister for the time being charged with responsibility for the banishment hereby order in accordance with section 8 of the Banishment Act that ……………………….. leave Singapore before the expiration of a period of 14 days from the date of service of a copy of this order, and thereafter remain out of Singapore:
+I, ……………………………………, the Minister for the time being charged with responsibility for banishment hereby order in accordance with section 8 of the Banishment Act that ……………………….. leave Singapore before the expiration of a period of 14 days from the date of service of a copy of this order, and thereafter remain out of Singapore:
 
 And I hereby specify the ……….. day of …………….. 19…… as the date on or before which the said …………………… shall execute the bond specified in section 8(5) of the Act in the sum of $ … with
 
@@ -449,3 +451,9 @@ This Legislative History is provided for the convenience of users of the Banishm
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|7.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
