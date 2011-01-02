@@ -2552,7 +2552,7 @@ to whom the Board has delegated any of its powers under section 29(4) who reason
 
 ### Conduct of prosecutions
 
-82\. Proceedings in respect of any offence under this Act may be conducted by any officer of the Board or any other person authorised in writing in that behalf by the Chairman.
+82\. Proceedings in respect of any offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by any officer of the Board or any other person authorised in writing in that behalf by the Chairman.
 
 [83
 
@@ -5205,6 +5205,11 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 14/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|19 July 2010|
 ||Date of commencement|11 August 2010|
+|40.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
