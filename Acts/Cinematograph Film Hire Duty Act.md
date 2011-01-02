@@ -290,7 +290,9 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 (3) Any person who obstructs any senior officer of customs in the course of his duties shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) Any person who so obstructs any senior officer of customs in the course of his duties may be arrested without warrant and every person so arrested shall be taken to a police station or customs station or customs office and shall thereafter be dealt with as if he had been arrested under section 33 of the Criminal Procedure Code (Cap. 68).
+(4) Any person who so obstructs any senior officer of customs in the course of his duties may be arrested without warrant and every person so arrested shall be taken to a police station or customs station or customs office and shall thereafter be dealt with as if he had been arrested under section 65 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 [14
 
@@ -304,15 +306,19 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 ### Prosecution
 
-15\. No prosecution in respect of any offence under this Act shall be instituted save by or under the direction of the Director-General or the Public Prosecutor.
+15\. No prosecution in respect of any offence under this Act shall be instituted save by or under the direction of the Director-General or with the consent of the Public Prosecutor.
 
 [23/79]
+
+[15/2010 wef 02/01/2011]
 
 ### Who may prosecute
 
-16\. Prosecutions in respect of offences committed under this Act may be conducted by a senior officer of customs specifically authorised in that behalf by the Director-General.
+16\. Prosecutions in respect of offences committed under this Act may, with the authorisation of the Public Prosecutor, be conducted by a senior officer of customs specifically authorised in that behalf by the Director-General.
 
 [23/79]
+
+[15/2010 wef 02/01/2011]
 
 ### Composition of offences
 
@@ -386,7 +392,7 @@ Cinematograph Film Hire Duty Act
 
 (CHAPTER 40)
 
-This Legislative History is provided for the convenience of users of the Cinematograph Film Hire Duty Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Cinematograph Film Hire Duty Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -433,6 +439,11 @@ This Legislative History is provided for the convenience of users of the Cinemat
 |||(Bill No. 6/2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Cinematograph Film Hire Duty Act
@@ -447,9 +458,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1985 Ed\. 
 
-4 — (4) and (5)
+4 —(4) and (5)
 
-4 — (4)
+4 —(4)
 
 (6)
 
@@ -467,9 +478,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (8)
 
-5 — (4) and (5)
+5 —(4) and (5)
 
-5 — (4)
+5 —(4)
 
 (6)
 
@@ -487,17 +498,17 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (8)
 
-6 — (3) and (4)
+6 —(3) and (4)
 
-6 — (3)
+6 —(3)
 
 (5), (6) and (7)
 
 (4)
 
-10 — (2) and (3)
+10 —(2) and (3)
 
-10 — (2)
+10 —(2)
 
 (4)
 
@@ -507,11 +518,11 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (4)
 
-19 — (1) and (2)
+19 —(1) and (2)
 
 19 
 
-20 — (1) and (2)
+20 —(1) and (2)
 
 20 
 
