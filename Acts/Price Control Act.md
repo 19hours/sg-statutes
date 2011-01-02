@@ -182,7 +182,9 @@ Provided that it shall be a good defence to a charge under paragraph (b) that th
 
 (a) arrest without warrant any person whom he reasonably suspects of having committed an offence under this Act if such person refuses to furnish his name and address or furnishes an address outside Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond:
 
-Provided that when any person has been arrested as aforesaid he shall be thereafter dealt with as provided by section 32 of the Criminal Procedure Code [Cap. 68]; and
+Provided that when any person has been arrested as aforesaid he shall be thereafter dealt with as provided by section 64 of the Criminal Procedure Code 2010; and
+
+[15/2010 wef 02/01/2011]
 
 (b) seize any article which he considers it necessary to seize in relation to the evidence necessary to establish the commission of any such offence.
 
@@ -190,9 +192,11 @@ Provided that when any person has been arrested as aforesaid he shall be thereaf
 
 [34/73]
 
-(3) Any prosecution in respect of an offence under this Act may be conducted by the Public Prosecutor or by a Deputy Public Prosecutor or by the Price Controller or by any officer appointed under this Act or under the Control of Essential Supplies Act [Cap. 55] or by any police officer not below the rank of sergeant.
+(3) Any prosecution in respect of an offence under this Act may be conducted by the Public Prosecutor or by a Deputy Public Prosecutor or, with the authorisation of the Public Prosecutor, by the Price Controller or by any officer appointed under this Act or under the Control of Essential Supplies Act [Cap. 55] or by any police officer not below the rank of sergeant.
 
 [21/73]
+
+[15/2010 wef 02/01/2011]
 
 ### Offence to obstruct authorities
 
@@ -268,7 +272,7 @@ Price Control Act
 
 (CHAPTER 244)
 
-This Legislative History is provided for the convenience of users of the Price Control Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Price Control Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -300,3 +304,9 @@ This Legislative History is provided for the convenience of users of the Price C
 ||Date of commencement|24 August 1973|
 |8.|**1985 Revised Edition—Price Control Act**|
 ||Date of operation|30 March 1987|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (Item 81 of the Sixth Schedule – Amendment of Price Control Act)|
