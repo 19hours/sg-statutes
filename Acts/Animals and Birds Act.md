@@ -134,11 +134,11 @@
 
 [**Part VII LICENSING OF VETERINARY CENTRE, VETERINARY BIOLOGICS AND KEEPING, BREEDING, ETC., OF ANIMAL OR BIRD**](#Part-VII)
 
-- [53 Licence to treat, vaccinate and innoculate animal or bird](#Licence-to-treat-vaccinate-and-innoculate-animal-or-bird)
+- [53 Licence to treat, vaccinate and inoculate animal or bird](#Licence-to-treat-vaccinate-and-inoculate-animal-or-bird)
 
 - [54 Veterinary centres to be licensed](#Veterinary-centres-to-be-licensed)
 
-- [55 Licence to possess or innoculate veterinary biologics](#Licence-to-possess-or-innoculate-veterinary-biologics)
+- [55 Licence to possess or inoculate veterinary biologics](#Licence-to-possess-or-inoculate-veterinary-biologics)
 
 - [56 Brands or other identification marks may be applied to animals and birds](#Brands-or-other-identification-marks-may-be-applied-to-animals-and-birds)
 
@@ -306,7 +306,7 @@ PRELIMINARY
 
 (a) the diagnosis of disease in, and injuries to, animals or birds, including tests performed for diagnostic purposes;
 
-(b) the treatment, vaccination or innoculation of animals or birds.
+(b) the treatment, vaccination or inoculation of animals or birds.
 
 [16/2000; 10/2002]
 
@@ -1296,9 +1296,9 @@ SEARCH, SEIZURE AND ARREST
 
 LICENSING OF VETERINARY CENTRE, VETERINARY BIOLOGICS AND KEEPING, BREEDING, ETC., OF ANIMAL OR BIRD
 
-### Licence to treat, vaccinate and innoculate animal or bird
+### Licence to treat, vaccinate and inoculate animal or bird
 
-53\.—(1) No person other than an authorised officer shall treat, vaccinate or innoculate any animal or bird except under and in accordance with the conditions of a licence issued by the Director-General.
+53\.—(1) No person other than an authorised officer shall treat, vaccinate or inoculate any animal or bird except under and in accordance with the conditions of a licence issued by the Director-General.
 
 [10/2002]
 
@@ -1320,13 +1320,13 @@ LICENSING OF VETERINARY CENTRE, VETERINARY BIOLOGICS AND KEEPING, BREEDING, ETC.
 
 [10/2002]
 
-### Licence to possess or innoculate veterinary biologics
+### Licence to possess or inoculate veterinary biologics
 
 55\.—(1) No person other than an authorised officer shall —
 
 (a) have in his possession any veterinary biologics; or
 
-(b) innoculate any animal or bird with any veterinary biologics,
+(b) inoculate any animal or bird with any veterinary biologics,
 
 except under and in accordance with the conditions of a licence issued by the Director-General.
 
@@ -1594,11 +1594,9 @@ may, personally or by his agent authorised in writing, give written notice to th
 
 [10/2002]
 
-(2) For the purpose of section 133 of the Criminal Procedure Code and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Director-General or an authorised officer.
+(2) For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by the Director-General or an authorised officer, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
 
-[69I
-
-[10/2002]
+[15/2010 wef 02/01/2011]
 
 ### Evidence
 
@@ -1840,7 +1838,7 @@ Animals and Birds Act
 
 (CHAPTER 7)
 
-This Legislative History is provided for the convenience of users of the Animals and Birds Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Animals and Birds Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1896,6 +1894,12 @@ This Legislative History is provided for the convenience of users of the Animals
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|13.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Animals and Birds Act
