@@ -104,7 +104,7 @@
 
 - [41 Proceedings conducted by employees of Institute](#Proceedings-conducted-by-employees-of-Institute)
 
-- [42 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [42 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [43 Offence by body corporate](#Offence-by-body-corporate)
 
@@ -186,7 +186,7 @@ ESTABLISHMENT OF INSTITUTE
 
 (a) the provision, promotion and regulation of technical training and education courses for training persons employed in or intending to be employed in commerce or industry;
 
-(b) the upgrading of the technical skills of the work-force through continuing education and training;
+(b) the upgrading of the technical skills of the workforce through continuing education and training;
 
 (c) the regulation and promotion of industry-based training and education in technical skills;
 
@@ -422,9 +422,13 @@ FINANCIAL PROVISIONS
 
 28A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Institute under this Act, or of any capital injection or other investment by the Government in the Institute in accordance with any written law, the Institute shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
+[5/2002 wef 15/07/2002]
+
 ### Power of investment
 
 29\. The Institute may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Accounts to be kept
 
@@ -536,13 +540,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by employees of Institute
 
-41\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by an employee of the Institute.
+41\. Proceedings in respect of any offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by an employee of the Institute.
 
 [15/2010 wef 02/01/2011]
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-42\. No prosecution in respect of any offence under this Act or any regulations made thereunder shall be instituted except by or with the sanction of the Public Prosecutor.
+42\. No prosecution in respect of any offence under this Act or any regulations made thereunder shall be instituted except by or with the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
@@ -578,7 +582,7 @@ Institute of Technical Education Act
 
 (CHAPTER 141A)
 
-This Legislative History is provided for the convenience of users of the Institute of Technical Education Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Institute of Technical Education Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -613,3 +617,9 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|7.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
