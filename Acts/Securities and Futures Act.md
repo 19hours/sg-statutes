@@ -1064,7 +1064,7 @@
 
 - [335 General penalty](#General-penalty)
 
-- [336 Proceedings with consent of Attorney‑General and power to compound offences](#Proceedings-with-consent-of-Attorney‑General-and-power-to-compound-offences)
+- [336 Proceedings with consent of Public Prosecutor and power to compound offences](#Proceedings-with-consent-of-Public-Prosecutor-and-power-to-compound-offences)
 
 - [337 Exemption](#Exemption)
 
@@ -7378,7 +7378,7 @@ Subdivision (3) — Inspection powers of foreign regulatory authority
 
 ### Inspection by foreign regulatory authority
 
-150B\.—(1) No authority of a country or territory other than Singapore may conduct an inspection in Singapore of the books of ––
+150B\.—(1) No authority of a country or territory other than Singapore may conduct an inspection in Singapore of the books of —
 
 (a) the holder of a capital markets services licence; or
 
@@ -7804,7 +7804,9 @@ for the purposes of any investigation into or criminal proceedings against a per
 
 ### Evidence obtained in police investigations may be used in civil proceedings
 
-168C\.—(1) Notwithstanding the provisions of any written law or any rule of law, any book, document, statement or other information obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under Chapters VI and XIII of the Criminal Procedure Code (Cap. 68) may be furnished to the Authority, if the Public Prosecutor is satisfied that such information is necessary to enable the Authority to investigate or bring an action for a civil penalty order against a person in respect of a contravention of any provision in Part XII.
+168C\.—(1) Notwithstanding the provisions of any written law or any rule of law, any book, document, statement or other information obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under Divisions 1 and 2 of Part IV and sections 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010 may be furnished to the Authority, if the Public Prosecutor is satisfied that such information is necessary to enable the Authority to investigate or bring an action for a civil penalty order against a person in respect of a contravention of any provision in Part XII.
+
+[Act 15 of 2010 wef 02/01/2011]
 
 (2) For the avoidance of doubt, any book, document, statement or other information furnished to the Authority under subsection (1) shall not be inadmissible in any civil proceedings under this Act to which the Authority is a party by reason only that it was first obtained by a police officer or a Commercial Affairs Officer in the exercise of his powers under the Criminal Procedure Code, and the admissibility thereof shall be determined in accordance with the rules of evidence under written law and any relevant rules of law.
 
@@ -9346,7 +9348,9 @@ whichever is the lesser.
 
 (b) the conviction is not subject to further appeal;
 
-(c) no notice of appeal against the conviction is lodged within the time prescribed by section 247 of the Criminal Procedure Code (Cap. 68); or
+(c) no notice of appeal against the conviction is lodged within the time prescribed by sections 377 and 378 of the Criminal Procedure Code 2010; or
+
+[Act 15 of 2010 wef 02/01/2011]
 
 (d) any appeal against the conviction is withdrawn.
 
@@ -17272,11 +17276,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 335\. Any person who contravenes any provision of this Act shall be guilty of an offence and, where no penalty is expressly provided, shall be liable on conviction to a fine not exceeding $50,000.
 
-### Proceedings with consent of Attorney‑General and power to compound offences
+### Proceedings with consent of Public Prosecutor and power to compound offences
 
-336\.—(1) Proceedings for an offence against any provisions of Part XII may be taken only with the consent of the Attorney‑General.
+336\.—(1) Proceedings for an offence against any provisions of Part XII may be taken only with the consent of the Public Prosecutor.
+
+[Act 15 of 2010 wef 02/01/2011]
 
 (2) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding the maximum fine prescribed for that offence.
+
+[Act 15 of 2010 wef 02/01/2011]
 
 [SIA, s. 117; FTA, s. 66]
 
@@ -18067,6 +18075,12 @@ This Legislative History is provided for the convenience of users of the Securit
 |||29 July 2009|
 |||29 March 2010|
 |||26 November 2010|
+|18.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
