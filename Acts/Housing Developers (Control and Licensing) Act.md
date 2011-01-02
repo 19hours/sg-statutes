@@ -72,7 +72,7 @@
 
 - [28 Exemption](#Exemption)
 
-- [29 Fiat of Public Prosecutor](#Fiat-of-Public-Prosecutor)
+- [29 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 [**Legislative History**](#Legislative-History)
 
@@ -634,9 +634,11 @@ Provided that the act, omission, neglect or default was committed by the employe
 
 [27
 
-### Fiat of Public Prosecutor
+### Consent of Public Prosecutor
 
-29\. No prosecution in respect of any offence under this Act shall be instituted save by or under the direction of the Public Prosecutor.
+29\. No prosecution in respect of any offence under this Act shall be instituted except with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 [28
 
@@ -689,3 +691,9 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 35/2008 published on 21 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|4 May 2009|
+|10.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
