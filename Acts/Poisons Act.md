@@ -40,7 +40,7 @@
 
 - [17 Jurisdiction](#Jurisdiction)
 
-- [18 Sanction to prosecute](#Sanction-to-prosecute)
+- [18 Consent to prosecute](#Consent-to-prosecute)
 
 - [19 Prohibition of sale to persons below 18 years](#Prohibition-of-sale-to-persons-below-18-years)
 
@@ -101,6 +101,8 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 “Poisons List” means the Poisons List in the Schedule;
 
 “registered dentist” has the same meaning as in the Dental Registration Act (Cap. 76);
+
+[22/2007 wef 01/01/2008]
 
 “sale by way of wholesale dealing” means sale to a person who buys for the purpose of selling again;
 
@@ -332,9 +334,11 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 17\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have power to impose the full penalty or punishment provided by this Act.
 
-### Sanction to prosecute
+### Consent to prosecute
 
-18\.—(1) No prosecution shall be instituted under this Act without the sanction in writing of the Attorney-General or any person authorised thereto by him in writing to grant such sanctions.
+18\.—(1) No prosecution shall be instituted under this Act without the consent of the Public Prosecutor or any person authorised thereto by him in writing to grant such consents.
+
+[15/2010 wef 02/01/2011]
 
 (2) In any prosecution under this Act the burden of proving that any poison found in the possession of the accused was not kept for sale shall be upon the accused.
 
@@ -4269,6 +4273,12 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 September 2008|
 |65.|**G. N. No. S 305/2009—Poisons Act (Amendment of Schedule) Notification 2009**|
 ||Date of commencement|1 July 2009|
+|66.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Poisons Act
