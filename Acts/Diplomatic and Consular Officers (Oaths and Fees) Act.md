@@ -24,7 +24,7 @@
 
 - [9 Savings of acts done prior to this Act](#Savings-of-acts-done-prior-to-this-Act)
 
-- [10 Sanction of Attorney-General](#Sanction-of-Attorney-General)
+- [10 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [11 Trial of offences](#Trial-of-offences)
 
@@ -80,7 +80,7 @@ and every oath, affirmation, affidavit and notarial act administered, sworn or d
 
 ### Power to fix fees
 
-4\. The minister may by order published in theGazette—
+4\. The Minister may by order published in theGazette—
 
 (a) fix the fees to be taken in respect of any matter or thing done in the execution of his office by a diplomatic officer or consular officer entrusted with consular duties; and
 
@@ -118,9 +118,11 @@ shall be guilty of an offence.
 
 9\. Any oath, affirmation, affidavit and notarial act administered, sworn or done by any diplomatic officer or consular officer exercising his functions in any country or place outside Singapore prior to the commencement of this Act shall be deemed to have been administered, sworn or done under the provisions of this Act.
 
-### Sanction of Attorney-General
+### Consent of Public Prosecutor
 
-10\. No prosecution shall be instituted in respect of any offence under this Act without the prior sanction in writing of the Attorney-General.
+10\. No prosecution shall be instituted in respect of any offence under this Act without the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Trial of offences
 
@@ -149,3 +151,9 @@ This Legislative History is provided for the convenience of users of the Diploma
 ||Date of operation|1 March 1971|
 |4.|**1985 Revised Edition—Diplomatic and Consular Officers (Oaths and Fees) Act (Chapter 82)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
