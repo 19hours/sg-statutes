@@ -520,7 +520,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-33\.—(1) Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
+33\.—(1) Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
 
 [15/2010 wef 02/01/2011]
 
@@ -846,6 +846,12 @@ This Legislative History is provided for the convenience of users of the Account
 |||(Bill No. 26/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|5 February 2010|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
