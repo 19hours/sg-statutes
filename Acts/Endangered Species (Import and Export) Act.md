@@ -516,7 +516,9 @@ MISCELLANEOUS
 
 24\.—(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(2) For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Director-General or an authorised officer.
+(2) For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by the Director-General or an authorised officer, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 ### Composition of offences
 
@@ -7696,6 +7698,12 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 ||Date of commencement|24 June 2010 (Paragraph 3)|
 |31.|**G. N. No. S 590/2010—Endangered Species (Import and Export) Act (Amendment of Schedule) (No. 2) Notification 2010**|
 ||Date of commencement|14 October 2010|
+|32.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
