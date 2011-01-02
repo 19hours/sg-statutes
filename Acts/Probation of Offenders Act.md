@@ -44,7 +44,7 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to provide for the probation of offenders.
+An Act to prov for the probation of offenders.
 
 [9th July 1951]
 
@@ -60,11 +60,15 @@ An Act to provide for the probation of offenders.
 
 “Chief Probation Officer” means the person appointed to be the Chief Probation Officer under section 3;
 
+“community service officer” means any officer appointed as a community service officer under section 346(9)(a) of the Criminal Procedure Code 2010;
+
+[15/2010 wef 02/01/2011]
+
 “court” does not include a court martial;
 
-“police officer” has the same meaning as in the Police Force Act [Cap. 235];
+“police officer” has the same meaning as in the Police Force Act (Cap. 235);
 
-“prison officer” has the same meaning as in the Prisons Act [Cap. 247] and includes the Director of Prisons and a Superintendent of Prisons appointed under that Act;
+“prison officer” has the same meaning as in the Prisons Act (Cap. 247) and includes the Director of Prisons and a Superintendent of Prisons appointed under that Act;
 
 “probation committee” means a group of persons appointed to carry out the duties under section 4;
 
@@ -108,27 +112,53 @@ Provided that where a person is convicted of an offence for which a specified mi
 
 (a) has attained the age of 16 years but has not attained the age of 21 years at the time of his conviction; and
 
-(b) has not been previously convicted of such offence referred to in this proviso, and for this purpose section 11(1) shall not apply to any such previous conviction.
+(b) has not been previously convicted of any such offence referred to in this proviso, and for this purpose section 11(1) shall not apply to any such previous conviction.
 
-[Act 7/89 wef 01/04/1989 vide S 125/89]
+[47/75]
 
-[Act 37/93 wef 06/12/1993 vide S 483/89]
+[7/89 wef 01/04/1989]
+
+[37/93 wef 06/12/1993]
 
 (2) A probation order may in addition require the offender to comply during the whole or any part of the probation period with such requirements as the court, having regard to the circumstances of the case, considers necessary for securing the good conduct of the offender or for preventing a repetition by him of the same offence or the commission of other offences:
 
 Provided that (without prejudice to the power of the court to make an order under section 10(2)) the payment of sums by way of damages for injury or compensation for loss shall not be included among the requirements of a probation order.
 
-(3) Without prejudice to the generality of subsection (2), a probation order may include requirements relating to the residence of the offender:
+(3) Without prejudice to the generality of subsection (2), a probation order may include —
 
-Provided that —
+(a) requirements relating to the residence of the offender; or
 
-(a) before making an order containing any such requirements, the court shall consider the home surroundings of the offender; and
+(b) a requirement that the offender performs such unpaid community service under the supervision of a community service officer.
 
-(b) where the order requires the offender to reside in an approved institution, the name of the institution and the period for which he is so required to reside shall be specified in the order, and that period shall not extend beyond 12 months from the date of the order.
+[15/2010 wef 02/01/2011]
+
+(3A) Before making a probation order containing any such requirements referred to in subsection (3)(a), the court shall consider the home surroundings of the offender; and where the order requires the offender to reside in an approved institution, the name of the institution and the period for which he is so required to reside shall be specified in the order, and that period shall not extend beyond 12 months from the date of the order.
+
+[15/2010 wef 02/01/2011]
+
+(3B) A court shall only include the requirement referred to in subsection (3)(b) if it is satisfied that —
+
+(a) based on the mental and physical condition of the offender, the offender is a suitable person to perform community service of a type which is specified in the Fifth Schedule to the Criminal Procedure Code 2010; and
+
+(b) suitable arrangements can be made for him to perform such community service.
+
+[15/2010 wef 02/01/2011]
+
+(3C) A court must, before including the requirement referred to in subsection (3)(b), call for a report from a community service officer regarding the suitability of the offender to perform community service.
+
+[15/2010 wef 02/01/2011]
+
+(3D) The number of hours which an offender has to perform community service shall be specified in the probation order and shall not exceed the prescribed maximum hours of community service which an offender may be required to perform community service under a community service order referred to in section 346 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
+
+(3E) If a probation order in relation to an offender requires an offender to perform community service, it shall also be a requirement of the probation order that the offender complies with the obligations referred to in section 347 of the Criminal Procedure Code 2010 as if he were a person in respect of whom a community service order is made under section 346 of that Code.
+
+[15/2010 wef 02/01/2011]
 
 (4) Before making a probation order, the court shall explain to the offender in ordinary language the effect of the order (including any additional requirements proposed to be inserted therein under subsection (2) or (3)) and that if he fails to comply therewith or commits another offence he will be liable to be sentenced for the original offence; and if the offender is not less than 14 years of age the court shall not make the order unless he expresses his willingness to comply with the requirements thereof.
 
-(5) [DeletedbyAct 7/89 wef 01/04/1989]
+(5) [Deleted by Act 7/89 wef 01/04/1989]
 
 (6) Where a woman or girl is placed under the supervision of a probation officer or volunteer probation officer, the probation officer or volunteer probation officer, as the case may be, shall be a woman.
 
@@ -141,8 +171,6 @@ Provided that —
 (b) the probation officer or volunteer probation officer who is to be responsible for the supervision of the probationer; and
 
 (c) the person in charge of any institution in which the probationer is required by the order to reside.
-
-[47/75]
 
 ### Discharge, amendment and review of probation orders
 
@@ -198,13 +226,15 @@ Provided that this subsection shall not apply to an order cancelling a requireme
 
 7\.—(1) If at any time during the probation period it appears on information to a magistrate that the probationer has failed to comply with any of the requirements of the order the magistrate may issue a summons requiring the probationer to appear before a Magistrate’s Court.
 
-(2) If it is proved to the satisfaction of the Magistrate’s Court before which a probationer appears or is brought under this section that the probationer has failed to comply with any requirement of the probation order, that Court may without prejudice to the continuance of the probation order impose on him a fine not exceeding $500, or may —
+(2) If it is proved to the satisfaction of the Magistrate’s Court before which a probationer appears or is brought under this section that the probationer has failed to comply with any requirement of the probation order, that Court may without prejudice to the continuance of the probation order impose on him a fine not exceeding $1,000 or order that the probationer be detained in prison for a period which shall not exceed 14 days, or the Court may —
 
 (a) if the probation order was made by a Magistrate’s Court, deal with the probationer for the offence in respect of which the probation order was made in any manner in which the Court could deal with him if it had just convicted him of the offence;
 
 (b) if the probation order was made by the High Court or a District Court, commit him to custody or release him on bail (with or without sureties) until he can be brought or appears before the High Court or the District Court by which the probation order was made.
 
-[Act 7/89 wef 01/04/1989]
+[7/89 wef 01/04/1989]
+
+[15/2010 wef 01/04/1989 wef 2/1/2011]
 
 (3) Where the Magistrate’s Court deals with the case as provided in subsection (2)(b) then —
 
@@ -232,19 +262,21 @@ Provided that where a person is convicted of an offence for which a specified mi
 
 ### Commission of further offence
 
-9\.—(1) If it appears to a judge or magistrate on whom jurisdiction is hereinafter conferred that a probationer or a person in whose case an order for conditional discharge has been made has been convicted by any court in Singapore of an offence committed during the probation period or during the period of conditional discharge and has been dealt with in respect of that offence the judge or magistrate may issue a summons requiring that person to appear at the place and time specified therein, or may issue a warrant for his arrest:
+9\.—(1) If it appears to a judge or magistrate on whom jurisdiction is hereinafter conferred that a probationer or a person in whose case an order for conditional discharge has been made has been convicted by any court in Singapore of an offence committed during the probation period or during the period of conditional discharge and has been dealt with in respect of that offence the judge or magistrate may fix a hearing date to determine whether the person is in breach of a probation order and may at any time issue a summons requiring that person to appear at the place and time specified therein, or may issue a warrant for his arrest:
 
-Provided that a magistrate shall not issue such a warrant except on information in writing and on oath.
+Provided that a magistrate shall not issue such a warrant except on information in writing.
+
+[15/2010 wef 02/01/2011]
 
 (2) The following persons shall have jurisdiction for the purposes of subsection (1):
 
 (a) if the probation order or the order for conditional discharge was made by the High Court, a Judge of the High Court;
 
-[Act 16/93 wef 01/07/1993]
-
 (b) if the order was made by a District Court, a District Judge; and
 
 (c) if the order was made by a Magistrate’s Court or Juvenile Court, a magistrate.
+
+[16/93 wef 01/07/1993]
 
 (3) A summons or warrant issued under this section shall direct the person so convicted to appear or be brought before the court by which the probation order was made.
 
@@ -256,7 +288,9 @@ Provided that a magistrate shall not issue such a warrant except on information 
 
 ### Supplementary provisions as to probation and discharge
 
-10\.—(1) Without prejudice to section 44(1)(d) of the Children and Young Persons Act [Cap. 38] (which enables a court to order the parent or guardian of a child or young person charged with an offence to give security for his good behaviour), any court may, on making a probation order or an order for conditional discharge under this Act, if it thinks it expedient for the purpose of the reformation of the offender, allow any person who consents to do so to give security for the good behaviour of the offender.
+10\.—(1) Without prejudice to section 44(1)(d) of the Children and Young Persons Act (Cap. 38) (which enables a court to order the parent or guardian of a child or young person charged with an offence to give security for his good behaviour), any court may, on making a probation order or an order for conditional discharge under this Act, if it thinks it expedient for the purpose of the reformation of the offender, allow any person who consents to do so to give security for the good behaviour of the offender.
+
+[20/2001 wef 01/10/2001]
 
 (2) A court, on making a probation order or an order for conditional discharge or on discharging an offender absolutely under this Act, may, without prejudice to its power of awarding costs against him, order the offender to pay such damage for injury or compensation for loss as the court thinks reasonable; but, in the case of an order made by a Magistrate’s Court, the damages and compensation together shall not exceed $500.
 
@@ -360,3 +394,9 @@ This Legislative History is provided for the convenience of users of the Probati
 |||(Bill No. 12/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|20 April 2001|
 ||Date of commencement|1 October 2001|
+|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
