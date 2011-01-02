@@ -256,9 +256,11 @@ Provided that when any person has been so arrested he shall thereafter be dealt 
 
 (b) seize any supplies which he considers it necessary to seize in relation to the evidence necessary to establish the commission of any such offence.
 
-(2) The Controller or any supplies officer authorised in writing by the Controller in that behalf, and any police officer not below the rank of sergeant, may in relation to any investigation in respect of any offence under this Act without the order of the Public Prosecutor exercise the special powers in relation to police investigations given by the Criminal Procedure Code in any seizable case.
+(2) The Controller or any supplies officer authorised in writing by the Controller in that behalf, and any police officer not below the rank of sergeant, may in relation to any investigation in respect of any offence under this Act without the order of the Public Prosecutor exercise the special powers in relation to police investigations given by the Criminal Procedure Code (Cap.68) in any seizable case.
 
-(3) Any prosecution in respect of an offence under this Act may be conducted by the Controller or other supplies officer.
+(3) Any prosecution in respect of an offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by the Controller or other supplies officer.
+
+[15/2010 wef 02/01/2011]
 
 ### Powers of Controller to take possession of controlled articles and to give orders and directions
 
@@ -427,3 +429,8 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of commencement|1 July 1974|
 |2.|**1985 Revised Edition—Control of Essential Supplies Act (Chapter 55)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
