@@ -656,7 +656,7 @@ DETENTION
 
 33\.—(1) Any person directed to be subject to the supervision of the police under section 30 or 32 (referred to in this Act as a person subject to supervision under this Act) shall be subject to —
 
-(a) the obligations imposed upon persons subject to police supervision under section 14 of the Criminal Procedure Code (Cap. 68); and
+(a) the obligations imposed upon persons subject to police supervision under section 310 of the Criminal Procedure Code 2010; and
 
 (b) all or any of the following restrictions as the Minister may by order direct:
 
@@ -675,6 +675,8 @@ DETENTION
 (vii) except in so far as may be otherwise provided by the order, he shall not be permitted to enter any area specified in the order.
 
 [21/73]
+
+[15/2010 wef 02/01/2011]
 
 (2) The Minister may, from time to time, by order in writing served on the person subject to supervision under this Act, vary, cancel or add to any restrictions imposed under this section.
 
@@ -1120,7 +1122,7 @@ The Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65).
 
 Section 3 of the Hostage-Taking Act 2010 (Act 19 of 2010).
 
-3. [S 668/2010 wef 21/11/2010]
+3. [S 668/2010 wef 21/11/2010 wef 21/11/2010 wef 21/11/2010 wef 21/11/2010]
 
 4. 
 
@@ -1369,6 +1371,13 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|21 October 2009|
 |53.|**G. N. No. S 668/2010—Criminal Law (Temporary Provisions) Act (Amendment of Third Schedule) Notification 2010**|
 ||Date of commencement|21 November 2010|
+|54.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|||(item 29 in the Sixth Schedule)|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
