@@ -210,6 +210,8 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 4A\.—(1) The Minister shall, by regulations, establish an Occupational Superannuation Scheme for the benefit of all CPIB officers appointed on or after 1st November 2001, who will be the members of the Scheme.
 
+[29/2002 wef 30/01/2003]
+
 (2) The regulations made under subsection (1) shall provide for the payment of —
 
 (a) any gratuity, allowance, superannuation or other like benefit to members of the Scheme, or to their legal personal representatives or dependants, on the death of the members in the service or on the resignation, retirement or discharge of the members from the service;
@@ -217,6 +219,8 @@ Provided that the President acting in his discretion may refuse to appoint or re
 (b) any pension, gratuity, allowance, compensation or other benefit in respect of the death of or injuries received by any member of the Scheme in and which are attributable to service; and
 
 (c) any allowance, subsidy or other benefit to such former members of the Scheme as may be prescribed after their retirement from the service.
+
+[29/2002 wef 30/01/2003]
 
 (3) The regulations made under subsection (1) may provide for —
 
@@ -228,6 +232,8 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 (d) the bringing of appeals against decisions of award officers and the appointment of one or more persons to hear such appeals and review the decisions of award officers.
 
+[29/2002 wef 30/01/2003]
+
 (4) In making regulations under subsection (1), the Minister shall also provide for —
 
 (a) every CPIB officer who is appointed before 1st November 2001 and who, immediately before that date, is eligible (whether on retirement or in respect of death or injury in or attributable to service) for any pension, gratuity or other allowance under the Pensions Act (Cap. 225); and
@@ -236,11 +242,15 @@ Provided that the President acting in his discretion may refuse to appoint or re
 
 an option to join the Scheme as a member and for the terms and conditions of such an option.
 
+[29/2002 wef 30/01/2003]
+
 (5) The regulations made in relation to CPIB officers referred to in subsection (4) shall provide —
 
 (a) in the case of an officer referred to in subsection (4)(a), that any such officer who opts to join the Scheme shall cease to be eligible to benefits under the Pensions Act but shall remain eligible under the Scheme to benefits not less in value than the amount of any pension, gratuity or other allowance for which he would have been granted under the Pensions Act if he retired from the service, or was injured or died in service, on the date immediately before his joining the Scheme; and
 
 (b) in the case of an officer referred to in subsection (4)(b), that any such officer who opts to join the Scheme shall remain eligible to benefits not less in value than the amount of any gratuity or other like benefit for which he would have been granted under his contract if he had completed his term of service under the contract on the date immediately before his joining the Scheme.
+
+[29/2002 wef 30/01/2003]
 
 (6) Any option exercised by any CPIB officer before 1st November 2001 to join or not to join the Scheme shall be deemed to be exercised in accordance with the regulations made under subsection (1) in relation to CPIB officers referred to in subsection (4).
 
@@ -268,6 +278,8 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 
 (b) an order of court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child (whether legitimate or not) of the member to whom the payment, allowance or other benefit has been granted.
 
+[29/2002 wef 30/01/2003]
+
 (2) Subject to the provisions of any regulations made under section 4A, all moneys paid or payable under the Scheme on the death of a member thereof —
 
 (a) shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of such deceased member;
@@ -288,9 +300,15 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 
 4E\.—(1) No contribution by the Government made under the Scheme and no interest thereon shall be subject to the debts of any member thereof, nor shall such contributions and interest pass to the Official Assignee on the bankruptcy of the member.
 
+[29/2002 wef 30/01/2003]
+
 (2) If a member is adjudicated a bankrupt or is declared insolvent by a court of law, such contributions and interest shall be deemed to be excluded from the property of the bankrupt for the purposes of the Bankruptcy Act (Cap. 20).
 
+[29/2002 wef 30/01/2003]
+
 (3) If, at the date of his retirement or resignation from the service, any member has been adjudged a bankrupt by judgment of a court of competent jurisdiction, whether in Singapore or elsewhere, and he has not obtained his discharge from such adjudication or declaration, it shall be lawful for an award officer to refuse to grant any pension, gratuity or other allowance which would, if not for this subsection, be granted.
+
+[29/2002 wef 30/01/2003]
 
 (4) If any person to whom a pension or other allowance has been granted under this Act —
 
@@ -300,19 +318,31 @@ an option to join the Scheme as a member and for the terms and conditions of suc
 
 the Minister may direct that such pension or allowance shall forthwith cease, and thereupon such pension or allowance shall cease accordingly.
 
+[29/2002 wef 30/01/2003]
+
 (5) Where, by reason of bankruptcy of a member or former member, a pension, gratuity or allowance is not granted or where a pension or allowance ceases by virtue of a direction under subsection (4)(a), it shall be lawful for the Minister to cause all or any part of the moneys to which such person would have been entitled by way of pension, gratuity or allowance, had he not become a bankrupt or sentenced for any crime or offence, as the case may be, to be paid to, or applied for the maintenance and personal support or benefit of, all or any (to the exclusion of the others) of the following persons in such proportions and manner as the Minister thinks proper:
 
 (a) the member or former member himself; and
 
 (b) his spouse, child or children.
 
+[29/2002 wef 30/01/2003]
+
 (6) The Minister may exercise his power under subsection (5), from time to time, during the remainder of the member’s or former member’s life, or during such shorter period or periods, either continuous or discontinuous, as the Minister thinks fit.
+
+[29/2002 wef 30/01/2003]
 
 (7) When a person to whom a pension or allowance has not been granted or whose pension or allowance has ceased under this section obtains a full and proper discharge from his bankruptcy, his pension or allowance shall be restored to him with effect from the date of such discharge.
 
+[29/2002 wef 30/01/2003]
+
 (8) For the purposes of subsection (5), moneys applied for the discharge of the debts of the member or former member, as the case may be, shall be regarded as applied for his benefit.
 
+[29/2002 wef 30/01/2003]
+
 (9) Notwithstanding subsection (4), any pension or allowance that has ceased by virtue of a direction under subsection (4)(b) shall be restored with retrospective effect in the case of a person who, after conviction, at any time receives a free pardon.
+
+[29/2002 wef 30/01/2003]
 
 (10) Where a pension or allowance ceases by virtue of a direction under subsection (4)(b), it shall be lawful for the Minister to cause all or any part of moneys to which the person would have been entitled by way of pension or allowance to be paid to or applied for the benefit of his spouse, child or children, or after the expiration of his sentence, also for the benefit of himself, in the same manner precisely and subject to the same qualifications and restrictions as in the case of bankruptcy provided in subsection (5).
 
@@ -438,9 +468,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 13\.—(1) Where a court convicts any person of an offence committed by the acceptance of any gratification in contravention of any provision of this Act, then, if that gratification is a sum of money or if the value of that gratification can be assessed, the court shall, in addition to imposing on that person any other punishment, order him to pay as a penalty, within such time as may be specified in the order, a sum which is equal to the amount of that gratification or is, in the opinion of the court, the value of that gratification, and any such penalty shall be recoverable as a fine.
 
-(2) Where a person charged with two or more offences for the acceptance of gratification in contravention of this Act is convicted of one or some of those offences, and the other outstanding offences are taken into consideration by the court under section 178 of the Criminal Procedure Code [Cap. 68] for the purpose of passing sentence, the court may increase the penalty mentioned in subsection (1) by an amount not exceeding the total amount or value of the gratification specified in the charges for the offences so taken into consideration.
+(2) Where a person charged with two or more offences for the acceptance of gratification in contravention of this Act is convicted of one or some of those offences, and the other outstanding offences are taken into consideration by the court under section 148 of the Criminal Procedure Code 2010 for the purpose of passing sentence, the court may increase the penalty mentioned in subsection (1) by an amount not exceeding the total amount or value of the gratification specified in the charges for the offences so taken into consideration.
 
 [25/81]
+
+[15/2010 wef 02/01/2011]
 
 ### Principal may recover amount of secret gift
 
@@ -474,15 +506,17 @@ POWERS OF ARREST AND INVESTIGATION
 
 16\.—(1) A person who has been arrested by the Director or any special investigator may be released on bail or on his own bond granted by the Director or any special investigator or any police officer.
 
-(2) The provisions of Chapters XXXV and XXXVI of the Criminal Procedure Code [Cap. 68] shall apply to any bail or bond granted under this section; and for this purpose —
+(2) The provisions of Division 5 of Part VI of the Criminal Procedure Code 2010 shall apply to any bail or bond granted under this section; and for this purpose —
 
 (a) any reference to “officer”, “police officer” or “police officer not below the rank of sergeant” shall be read to include the Director or any special investigator;
 
-(b) the reference to the Commissioner of Police in section 351 of the Criminal Procedure Code [Cap. 68] shall be read to include the Director.
+(b) the reference to the Commissioner of Police in section 92 of the Criminal Procedure Code 2010 shall be read to include the Director.
 
 [15A
 
 [29/89]
+
+[15/2010 wef 02/01/2011]
 
 ### Powers of investigation
 
@@ -494,15 +528,17 @@ POWERS OF ARREST AND INVESTIGATION
 
 (c) of any seizable offence under any written law which may be disclosed in the course of an investigation under this Act,
 
-the Director or a special investigator may, without the order of the Public Prosecutor, exercise all or any of the powers in relation to police investigations into any offence given by the Criminal Procedure Code [Cap. 68]:
+the Director or a special investigator may, without the order of the Public Prosecutor, exercise all or any of the powers in relation to police investigations into any offence given by the Criminal Procedure Code:
 
-Provided that an investigation into an offence under the Penal Code shall be deemed to be a police investigation to which section 122 of the Criminal Procedure Code shall apply in the same manner and to the same extent as if the Director or the special investigator concerned were a police officer.
+Provided that an investigation into an offence under the Penal Code shall be deemed to be a police investigation to which sections 23 and 258 of the Criminal Procedure Code 2010 shall apply in the same manner and to the same extent as if the Director or the special investigator concerned were a police officer.
 
-(2) For the purposes of sections 58(1) and 122(5) of the Criminal Procedure Code, the Director or a special investigator shall be deemed to be an officer not below the rank of inspector of police.
+[27/92; 25/81; 29/89]
 
-[16
+[15/2010 wef 02/01/2011]
 
-[27/72; 25/81; 29/89]
+(2) For the purpose of sections 20(1) and 258(2) of the Criminal Procedure Code 2010, the Director or a special investigator shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
 
 ### Special powers of investigation
 
@@ -790,3 +826,9 @@ This Legislative History is provided for the convenience of users of the Prevent
 |||(Bill No. 29/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|30 January 2003|
+|14.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2011 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
