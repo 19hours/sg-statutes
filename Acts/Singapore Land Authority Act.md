@@ -218,9 +218,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (e) to act as agent of the Government in —
 
-(i) the acquisition of land under the Land Acquisition Act (Cap. 152) or any other method, or the resumption or forfeiture of land under the State Lands Act (Cap. 314), the State Lands Encroachment Act (Cap. 315) or any other law;
+(i) the acquisition of land under the Land Acquisition Act (Cap. 152) or any other method, or the resumption or forfeiture of land under the State Lands Act (Cap. 314), the State Lands Encroachments Act (Cap. 315) or any other law;
 
-(ii) the administration and management of all State lands and buildings thereon in accordance with the Foreshores Act (Cap. 113), the Sand and Granite Quarries Act (Cap. 284), the State Lands Act, the State Lands Encroachment Act and any other written law;
+(ii) the administration and management of all State lands and buildings thereon in accordance with the Foreshores Act (Cap. 113), the Sand and Granite Quarries Act (Cap. 284), the State Lands Act, the State Lands Encroachments Act and any other written law;
 
 (iii) the allocation and disposal of State land or grant of any State title to any person or public authority in accordance with the Foreshores Act, the State Lands Act and any other written law; and
 
@@ -638,7 +638,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-34\.—(1) Proceedings in respect of an offence under this Act or under any written law set out in the Third Schedule may be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
+34\.—(1) Proceedings in respect of an offence under this Act or under any written law set out in the Third Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
+
+[15/2010 wef 02/01/2011]
 
 (2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
 
@@ -892,19 +894,31 @@ Sections 31(1) and 34
 
 Specified Legislation
 
-(1) Sections 8, 11 and 15 of the Boundaries and Survey Maps Act (Cap. 25).
+1. 
 
-(2) Section 46 of the Land Acquisition Act (Cap. 152).
+Sections 8, 11 and 15 of the Boundaries and Survey Maps Act (Cap. 25).
 
-(3) Sections 7, 27, 59 and 169 of the Land Titles Act (Cap. 157).
+2. 
 
-(4) Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81, 82, 111, 113 and 120 of the Land Titles (Strata) Act (Cap. 158).
+Section 46 of the Land Acquisition Act (Cap. 152).
 
-(5) Sections 4, 9, 10, 11, 16, 23, 25, 35 and 36 of the Residential Property Act (Cap. 274).
+3. 
+
+Sections 7, 27, 59 and 169 of the Land Titles Act (Cap. 157).
+
+4. 
+
+Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81, 82, 111, 113 and 120 of the Land Titles (Strata) Act (Cap. 158).
+
+5. 
+
+Sections 4, 9, 10, 11, 16, 23, 25, 35 and 36 of the Residential Property Act (Cap. 274).
 
 [9/2006 wef 31/03/2006]
 
-(6) Sections 7, 13 and 14 of the State Lands Encroachments Act (Cap. 315).
+6. 
+
+Sections 7, 13 and 14 of the State Lands Encroachments Act (Cap. 315).
 
 ## LEGISLATIVE HISTORY
 
@@ -912,7 +926,7 @@ Singapore Land Authority Act
 
 (CHAPTER 301)
 
-This Legislative History is provided for the convenience of users of the Singapore Land Authority Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Land Authority Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -941,3 +955,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 1/2006 published on 17 January 2006)|
 ||Date of Second and Third Readings|14 February 2006|
 ||Date of commencement|31 March 2006|
+|6.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
