@@ -32,7 +32,7 @@
 
 - [9 Appointments and qualifications of District Judges](#Appointments-and-qualifications-of-District-Judges)
 
-- [10 Appointments and qualifications of Magistrates and Coroners](#Appointments-and-qualifications-of-Magistrates-and-Coroners)
+- [10 Appointments and qualifications of Magistrates](#Appointments-and-qualifications-of-Magistrates)
 
 - [11 Justices of the Peace](#Justices-of-the-Peace)
 
@@ -152,13 +152,9 @@
 
 - [55 Jurisdiction of Juvenile Courts](#Jurisdiction-of-Juvenile-Courts)
 
-[**Jurisdiction of Coroners’ Courts**](#Jurisdiction-of-Coroners’-Courts)
+- [56 (Repealed)](#Repealed)
 
-- [56 Jurisdiction of Coroners’ Courts](#Jurisdiction-of-Coroners’-Courts)
-
-[**Reference of Constitutional Question**](#Reference-of-Constitutional-Question)
-
-- [56A Reference of constitutional question to High Court](#Reference-of-constitutional-question-to-High-Court)
+- [56A (Repealed)](#Repealed)
 
 [**Part V ADMINISTRATION**](#Part-V)
 
@@ -228,6 +224,10 @@ PRELIMINARY
 
 “commissioner for oaths” means a commissioner for oaths appointed under section 68 of the Supreme Court of Judicature Act (Cap. 322);
 
+“Coroner” has the same meaning as in section 2(1) of the Coroners Act 2010;
+
+[14/2010 wef 02/01/2011]
+
 “District Court limit” means —
 
 (a) in sections 26(a) and 27, $3 million or such other amount as may be specified by an order under section 30; and
@@ -236,7 +236,7 @@ PRELIMINARY
 
 1O1 (S 333/97) — Subordinate Courts (Variation of District Court Limit) Order.
 
-“judicial officer” means a District Judge, Magistrate, Coroner or registrar;
+“judicial officer” means a District Judge, Magistrate, or registrar;
 
 “Magistrate’s Court limit” means $60,0002or such other amount as may be specified by an order under section 52(3);
 
@@ -278,6 +278,10 @@ CONSTITUTION
 
 (3) Except as provided in the Small Claims Tribunals Act, no provision of this Act or Rules of Court shall apply to a Small Claims Tribunal.
 
+(4) The Coroners’ Courts shall have such jurisdiction as is conferred by the Coroners Act 2010 and any other written law.
+
+[14/2010 wef 02/01/2011]
+
 ### Court houses
 
 4\. The President may constitute under appropriate names so many subordinate courts as he shall think fit, and shall appoint some place or places as the court house or court houses of each such court.
@@ -318,9 +322,25 @@ CONSTITUTION
 
 (2) A subordinate court shall have power to hear any proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public security or propriety, or for other sufficient reason to do so.
 
-(3) A subordinate court may at any time order that no person shall publish the name, address or photograph of any witness in any proceedings or any part thereof or any evidence or any other thing likely to lead to the identification of any such witness.
+(2A) A subordinate court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
 
-(4) Any person who acts in contravention of any order under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) the name, address or photograph of any witness; or
+
+(b) any evidence or any other thing likely to lead to the identification of such witness by a person other than the party to that matter or proceeding,
+
+which is contained in any court document intended to be produced before the court, be removed or be sufficiently redacted.
+
+[15/2010 wef 02/01/2011]
+
+(3) A subordinate court may at any time order that no person shall —
+
+(a) publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness; or
+
+(b) do any other act which is likely to lead to the identification of such a witness.
+
+[15/2010 wef 02/01/2011]
+
+(4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Contempt
 
@@ -340,7 +360,7 @@ CONSTITUTION
 
 [4/96]
 
-(4) In any case where the contempt is punishable as an offence under section 175, 178, 179, 180 or 228 of the Penal Code (Cap. 224), the court may, in lieu of punishing the offender for contempt, refer the matter to the Attorney-General with a view to instituting criminal proceedings against the offender.
+(4) In any case where the contempt is punishable as an offence under section 175, 178, 179, 180 or 228 of the Penal Code (Cap. 224), the court may, in lieu of punishing the offender for contempt, refer the matter to the Public Prosecutor with a view to instituting criminal proceedings against the offender.
 
 [4/96]
 
@@ -360,11 +380,11 @@ APPOINTMENTS, POWERS AND DUTIES
 
 (5) Every person appointed to be or to act as a District Judge shall be ex officio a Magistrate.
 
-### Appointments and qualifications of Magistrates and Coroners
+### Appointments and qualifications of Magistrates
 
-10\.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate or a Coroner.
+10\.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate .
 
-(2) No person shall be appointed to be or to act as a Magistrate or a Coroner unless he has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act.
+(2) No person shall be appointed to be or to act as a Magistrate unless he has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act.
 
 ### Justices of the Peace
 
@@ -1000,35 +1020,9 @@ Jurisdiction of Juvenile Courts
 
 55\. A Juvenile Court shall have the jurisdiction and powers conferred on it by the Children and Young Persons Act (Cap. 38).
 
-Jurisdiction of Coroners’ Courts
+56\. [Repealed by Act 14/2010 wef 02/01/2011]
 
-### Jurisdiction of Coroners’ Courts
-
-56\. A Coroner’s Court shall have and may exercise the jurisdiction and powers and perform the duties conferred on a Coroner by the Criminal Procedure Code (Cap. 68).
-
-Reference of Constitutional Question
-
-### Reference of constitutional question to High Court
-
-56A\.—(1) Where in any proceedings in a subordinate court a question arises as to the interpretation or effect of any provision of the Constitution, the court hearing the proceedings may stay the proceedings on such terms as may be just to await the decision of the question on the reference to the High Court.
-
-[15/93]
-
-(2) An order staying proceedings under this section may be made by the court of its own motion or on the application of any party and shall be made at such stage of the proceedings as the court may see fit having regard to the decision of such questions of fact as may be necessary to be settled to assist the High Court in deciding the question which has arisen and to the speedy and economical final determination of the proceedings.
-
-[15/93]
-
-(3) Where an order for stay of proceedings has been made under this section, the court shall state the question which in its opinion has arisen as to the interpretation or effect of the Constitution in the form of a special case which so far as may be possible shall state the question in a form which shall permit of an answer being given in the affirmative or the negative.
-
-[15/93]
-
-(4) The court shall cause the special case to be transmitted to the High Court and the High Court shall hear and determine the constitutional question arising out of the case in the exercise of its original jurisdiction.
-
-[15/93]
-
-(5) Notice of the hearing of the special case by the High Court under this section shall be given to the Attorney-General who shall have a right to be heard.
-
-[15/93]
+56A\. [Deleted by Act 15/2010 wef 02/01/2011]
 
 ## PART V
 
@@ -1389,6 +1383,16 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 26/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 January 2011|
+|23.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|24.|**Act 14 of 2010—Coroners Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
