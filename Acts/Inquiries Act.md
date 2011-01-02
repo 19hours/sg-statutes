@@ -50,7 +50,7 @@
 
 - [17 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-[**THE SCHEDULE Inquiry Powers and Proceedings**](#THE-SCHEDULE)
+[**THE SCHEDULE Inquiry powers and proceedings**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -360,7 +360,7 @@ MISCELLANEOUS
 
 Section 14
 
-Inquiry Powers and Proceedings
+Inquiry powers and proceedings
 
 Powers of inquiry body
 
@@ -440,7 +440,7 @@ Offences
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(2) For the purposes of sub-paragraph (1)(c) and (d), a document is a "relevant document" if it is likely that the inquiry body would (if aware of the existence of the document) wish to be provided with it.
+(2) For the purposes of sub-paragraph (1)(c) and (d), a document is a “relevant document” if it is likely that the inquiry body would (if aware of the existence of the document) wish to be provided with it.
 
 Penalty for threats, etc., to witnesses
 
@@ -460,7 +460,7 @@ Contempt
 
 (a) offers any act of disrespect or any insult or threat to an inquiry body or to any member in the exercise of that member’s powers or functions as a member while sitting in the inquiry body;
 
-(b) offers any act of disrespect or any insult or threat at any other time and place to an inquiry body or to any member on account of the exercise of that membe’s powers or functions as a member;
+(b) offers any act of disrespect or any insult or threat at any other time and place to an inquiry body or to any member on account of the exercise of that member’s powers or functions as a member;
 
 (c) wilfully interrupts, obstructs or disturbs the proceedings of an inquiry body;
 
@@ -490,7 +490,9 @@ Public Prosecutor to aid inquiry body
 
 (2) Any person appointed by the Public Prosecutor to investigate any such matter shall for the purposes of such investigations —
 
-(a) have all the powers in relation to police investigations given to police officers in any seizable case under the provisions of Chapter XIII of the Criminal Procedure Code (Cap. 68); and
+(a) have all the powers in relation to police investigations given to police officers in any seizable case under the provisions of Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010; and
+
+[15/2010 wef 02/01/2011]
 
 (b) when authorised in writing by the Public Prosecutor, have the power to search any premises and take possession of any articles or documents as specified in the authorisation.
 
@@ -576,7 +578,7 @@ Inquiries Act
 
 (CHAPTER 139A)
 
-Notes: Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
 
 Aust RCA
 
@@ -656,17 +658,22 @@ Inquiries Act
 
 (CHAPTER 139A)
 
-This Legislative History is provided for the convenience of users of the Inquiries Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Inquiries Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 43 of 2007—Inquiries Act 2007**|
 ||Date of First Reading|27 August 2007|
 |||(Bill No. 31/2007 published on 28 August 2007)|
-||Date of Second and Third Readings|19th September 2007|
+||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 November 2007|
 |2.|**2008 Revised Edition—Inquiries Act**|
 ||Date of operation|31 December 2008|
+|3.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Inquiries Act
