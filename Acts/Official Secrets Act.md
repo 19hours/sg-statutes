@@ -294,11 +294,13 @@ he shall be guilty of an offence.
 
 ### Restriction on prosecution
 
-14\.—(1) A prosecution for an offence under this Act shall not be instituted except by or with the consent of the Attorney-General :
+14\.—(1) A prosecution for an offence under this Act shall not be instituted except by or with the consent of the Public Prosecutor:
 
-Provided that a person charged with such an offence may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the offence has not been obtained, but the case shall not be further prosecuted until that consent has been obtained.
+Provided that a person charged with such an offence may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, but the case shall not be further prosecuted until that consent has been obtained.
 
-(2) When a person is brought before a court under this section before the Attorney-General has consented to the prosecution the charge shall be explained to him but he shall not be called upon to plead, and section 180 of the Criminal Procedure Code [Cap. 68] shall not apply.
+(2) When a person is brought before a court under this section before the Public Prosecutor has consented to the prosecution the charge shall be explained to him but he shall not be called upon to plead, and section 230 of the Criminal Procedure Code 2010 shall not apply.
+
+[15/2010 wef 02/01/2011]
 
 ### Search warrants
 
@@ -326,7 +328,9 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 17\.—(1) A person who is guilty of an offence under this Act by reason of section 3 shall be liable on conviction to a fine not exceeding $20,000 and to imprisonment for a term not exceeding 14 years.
 
-(2) A person who is guilty of an offence under this Act by reason of section 5, 6, 8 or 11 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years. A person charged with an offence by reason of a section mentioned in this subsection may with the sanction of the Attorney-General be tried before a Magistrate’s Court, and such person shall be liable on conviction to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
+(2) A person who is guilty of an offence under this Act by reason of section 5, 6, 8 or 11 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years. A person charged with an offence by reason of a section mentioned in this subsection may with the consent of the Public Prosecutor be tried before a Magistrate’s Court, and such person shall be liable on conviction to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
+
+[15/2010 wef 02/01/2011]
 
 (3) A person who is guilty of an offence under this Act by reason of section 9 or 10 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years, and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
 
@@ -536,3 +540,9 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|1 December 2009|
 |27.|**G.N. No. S 632/2009—Official Secrets Act (Amendment of Schedule) (No. 2) Notification 2009**|
 ||Date of commencement|28 December 2009|
+|28.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
