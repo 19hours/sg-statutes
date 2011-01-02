@@ -48,7 +48,7 @@
 
 - [21 Proceedings to be conducted by officers of Board](#Proceedings-to-be-conducted-by-officers-of-Board)
 
-- [22 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [22 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [23 General penalties and composition of offences](#General-penalties-and-composition-of-offences)
 
@@ -90,9 +90,9 @@ An Act to provide for the promotion, regulation and control of the rubber trade 
 
 “Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
 
-[17/2002 wef 01/04/2002]
+[17/2002 wef 1/4/2002]
 
-“deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Futures Act;
+“deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Futures Act [Cap. 48A];
 
 “licence” means a licence granted under section 4;
 
@@ -118,7 +118,7 @@ An Act to provide for the promotion, regulation and control of the rubber trade 
 
 “treat”, with its grammatical variations and cognate expressions, means to subject to any process whatsoever;
 
-“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the Rubber Association of Singapore (Incorporation) Act repealed by the Trade Development Board (Amendment) Act 1992 and transferred to and administered by the Board by virtue of section 26H of the Trade Development Board Act.
+“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the Rubber Association of Singapore (Incorporation) Act [Cap. 278] repealed by the Trade Development Board (Amendment) Act 1992 [Act 16 of 1992] and transferred to and administered by the Board by virtue of section 26H of the Trade Development Board Act [Cap. 330].
 
 ### Licence to pack, ship or deal in rubber or manufacture technically specified rubber
 
@@ -242,7 +242,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 13\.—(1) For the purposes of section 12, there shall be established an Appeal Tribunal, which shall consist of a Chairman, who shall be a person qualified to be appointed as a Judge of the Supreme Court and two other persons, all of whom shall be appointed by the Minister for a term of not less than one year and not more than 3 years.
 
-(2) Those persons who, on 26th May 1992, were holding the appointments of Chairman or member of the Appeal Tribunal established under the repealed Rubber Industry Act (Cap. 280, 1985 Ed.) shall be deemed to have been appointed as Chairman or member, as the case may be, of the Appeal Tribunal under subsection (1).
+(2) Those persons who, on 26th May 1992, were holding the appointments of Chairman or member of the Appeal Tribunal established under the repealed Rubber Industry Act [Cap. 280, 1985 Ed.] shall be deemed to have been appointed as Chairman or member, as the case may be, of the Appeal Tribunal under subsection (1).
 
 (3) The Appeal Tribunal may make rules governing the fees payable to the Board and the procedure to be followed on appeals under section 12.
 
@@ -284,11 +284,15 @@ unless he is for the time being the holder of a valid licence granted under this
 
 ### Proceedings to be conducted by officers of Board
 
-21\. Any proceedings in respect of an offence under this Act or any regulations made thereunder may be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the chief executive officer of the Board.
+21\. Any proceedings in respect of an offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the chief executive officer of the Board.
 
-### Sanction of Public Prosecutor
+[15/2010 wef 02/01/2011]
 
-22\. No court shall take cognizance of an offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+### Consent of Public Prosecutor
+
+22\. No court shall try an offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### General penalties and composition of offences
 
@@ -358,7 +362,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 ### Transitional provisions
 
-29\.—(1) Any licence granted under the repealed Rubber Dealers Act (Cap. 279, 1990 Ed.) or the repealed Rubber Industry Act (Cap. 280, 1985 Ed.) shall continue in force until the date of expiry provided thereunder as if it had been granted under the relevant provisions of this Act.
+29\.—(1) Any licence granted under the repealed Rubber Dealers Act [Cap. 279, 1990 Ed.] or the repealed Rubber Industry Act [Cap. 280, 1985 Ed.] shall continue in force until the date of expiry provided thereunder as if it had been granted under the relevant provisions of this Act.
 
 (2) Any order, ruling or direction made or given by the Appeal Tribunal established under the repealed Rubber Industry Act shall be entered as an order, ruling or direction of the Appeal Tribunal established under section 13 of this Act and shall have the same force and effect as if it had been made or given by the Appeal Tribunal under this Act.
 
@@ -368,7 +372,7 @@ Rubber Industry Act
 
 (CHAPTER 280)
 
-This Legislative History is provided for the convenience of users of the Rubber Industry Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Rubber Industry Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -384,3 +388,9 @@ This Legislative History is provided for the convenience of users of the Rubber 
 ||Date of First Reading|3 May 2002|
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|1 April 2002|
+|4.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
