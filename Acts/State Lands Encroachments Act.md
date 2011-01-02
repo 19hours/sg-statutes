@@ -34,7 +34,7 @@
 
 - [14 Penalty for other trespasses on State land](#Penalty-for-other-trespasses-on-State-land)
 
-- [15 Encroachment on road may be abated](#Encroachment-on-road-may-be-abated)
+- [15 (Repealed)](#Repealed)
 
 - [16 Forest rangers and penghulus](#Forest-rangers-and-penghulus)
 
@@ -196,11 +196,7 @@ shall be liable for a first offence to a fine not exceeding $200, and, for a sec
 
 [23/74]
 
-### Encroachment on road may be abated
-
-15\.—(1) Every encroachment on any public road, street or highway, by building or other erection or by enclosure, planting or otherwise, shall, on information thereof, be immediately abated and removed by order of a Magistrate’s Court in the manner provided for the abatement of public nuisances by the Criminal Procedure Code [Cap. 68].
-
-(2) The party offending may be ordered to pay such damages as the Court shall order, besides the costs of the proceedings.
+15\. [Repealed by Act 15/2010 wef 02/01/2011]
 
 ### Forest rangers and penghulus
 
@@ -230,13 +226,94 @@ shall be liable for a first offence to a fine not exceeding $200, and, for a sec
 
 Sections 5 and 6(8).
 
+FORM A
+
+INFORMATION AND COMPLAINT AGAINST
+
+
+
+
+UNLAWFUL OCCUPATION OF STATE LANDS
+
+To Wit.
+
+The information and complaint of A.B. taken this day of 19 before the undersigned, a Magistrate, now saith that C.D., of , is in unlawful occupation of certain State lands, to wit
+
+Sworn before me the day and year first above-mentioned, at Singapore.
+
+FORM B
+
+SUMMONS TO UNLAWFUL OCCUPANT
+
+To Wit.
+
+In the matter of the State Lands Encroachments Act (Chapter 315). and between complainant, andA.B., occupant:
+
+You are hereby summoned to appear at on the day of 19 at the hour of a.m. to answer the complainant of that you are in unlawful occupation of certain State lands, to wit
+
+Dated the day of 19 .
+
+In case you fail to attend this summons, upon proof of service of the same, the complainant will be heard in your absence, and such order made as to the court shall seem fit.
+
+FORM C
+
+WARRANT TO DISPOSSESS UNLAWFUL OCCUPANT
+
+To Wit
+
+In the matter of the State Lands Encroachments Act (Chapter 315). and between complainant, andA.B., occupant:
+
+To the Commissioner of Police and all other police officers of Singapore:
+
+Whereas it has been made to appear to me, and I have adjudged, that the saidA.B.is in unlawful occupation of (here state description of land)
+
+These are, therefore, to require you the said and others, to deliver peaceable and quiet possession of the said land and premises to the said complainant, and eject the saidA.B.and all other persons therefrom, for which this shall be a sufficient warrant.
+
+Given under my hand and seal this day of 19 at .
+
+FORM D
+
+INFORMATION AND COMPLAINT AS TO AN UNLAWFUL BUILDING ON STATE LAND
+
+To Wit.
+
+The information and complaint of A.B. taken this day of 19 before the undersigned, a Magistrate, now saith that a certain building,viz.:
+
+has been erected or constructed upon State land at without lawful authority.
+
+Sworn before me the day and year first above-mentioned, at Singapore.
+
+Magistrate
+
+FORM E
+
+SUMMONS AS TO AN UNLAWFUL BUILDING ON STATE LAND
+
+To Wit.
+
+In the matter of the State Lands Encroachments Act (Chapter 315).
+
+To All Whom It May Concern
+
+Take Notice that you are entitled to appear at before at the hour of 10 a.m. on any day before the expiration of 3 clear days from the date of the posting or affixing of this Notice as hereinafter mentioned, to apply to show cause why an order should not be made declaring the building,viz.: [description and situation] (to which or by which this summons is posted or affixed) to be State property and authorising its demolition by or under the authority of the Commissioner of Lands, or any Land Revenue or other public officer.
+
+Dated the day of 19 .
+
+Magistrate
+
+This summons was posted or affixed on [or near to] the building referred to herein this day of 19 .
+
+Process Server
+
+In case any person interested fails to appear to answer this summons, upon proof of posting or affixing of the same, the information and complaint will be heard in his absence, and such order made as to the court shall seem fit.
+
 ## LEGISLATIVE HISTORY
 
 State Lands Encroachments Act
 
 (CHAPTER 315)
 
-This Legislative History is provided for the convenience of users of the State Lands Encroachments Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the State Lands Encroachments Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -294,3 +371,9 @@ This Legislative History is provided for the convenience of users of the State L
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|20.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
