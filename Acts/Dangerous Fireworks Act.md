@@ -84,7 +84,9 @@ any dangerous fireworks.
 
 [8/88]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not more than 6 strokes.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not more than 6 strokes.
+
+[15/2010 wef 02/01/2011 wef 02/01/2010]
 
 [8/88]
 
@@ -122,9 +124,11 @@ any dangerous fireworks.
 
 (a) in respect of a first offence, to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(b) in respect of a second or subsequent offence, to imprisonment for a term not exceeding 2 years and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not more than 6 strokes.
+(b) in respect of a second or subsequent offence, to imprisonment for a term not exceeding 2 years and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not more than 6 strokes.
 
 [5
+
+[15/2010 wef 02/01/2011 wef 02/01/2010]
 
 [8/88]
 
@@ -182,6 +186,12 @@ This Legislative History is provided for the convenience of users of the Dangero
 ||Date of commencement|1 May 1988|
 |4.|**1999 Revised Edition—Dangerous Fireworks Act (Chapter 72)**|
 ||Date of operation|1 August 1999|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Dangerous Fireworks Act
