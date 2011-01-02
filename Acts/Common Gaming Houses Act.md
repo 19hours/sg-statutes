@@ -134,6 +134,10 @@ An Act relating to the suppression of common gaming houses, public gaming and pu
 
 shall be guilty of an offence and shall be liable on conviction to a fine of not less than $5,000 and not more than $50,000 and shall also be punished with imprisonment for a term not exceeding 3 years.
 
+[25/71]
+
+[9/86]
+
 (1A) Subsection (1)(d) shall not apply to —
 
 (a) the Singapore Totalisator Board;
@@ -145,10 +149,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 [12/2008 wef 27/12/2010]
 
 (2) Any person who occupies or has the use temporarily of a place which is kept or used by another person as a common gaming house shall unless that person proves that he has no knowledge that the place is kept or used as a common gaming house be deemed to have permitted the place to be so kept or used.
-
-[25/71,]
-
-[9/86]
 
 ### Assisting in carrying on a public lottery, etc.
 
@@ -166,7 +166,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 [4A
 
-[25/71,]
+[25/71]
 
 [9/86]
 
@@ -189,6 +189,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 ### Gaming in public
 
 8\.—(1) A police officer may arrest without warrant any person found gaming in a public place and may seize all instruments or appliances for gaming found in that public place or on the persons of those arrested under this section.
+
+[9/86]
 
 (2) Any person gaming in any public place shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and all instruments or appliances for gaming seized under this section may be declared by the court before which the conviction is had to be forfeited to the Government and shall be dealt with accordingly.
 
@@ -220,19 +222,17 @@ shall be presumed until the contrary is proved to have promoted the commission o
 
 [7
 
-[9/86]
-
 ### Buying a ticket
 
 9\.—(1) Any person who, either personally or by an agent, pays or deposits any money or money’s worth to or with any person concerned in the business of a common gaming house as a stake or for or in respect of any event or contingency connected with a public lottery or buys a lottery ticket shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[9/86]
 
 (2) A person in whose possession a lottery ticket is found shall be presumed until the contrary is proved to have bought the ticket.
 
 (3) Every lottery ticket brought or introduced into or being within Singapore shall be forfeited to the Government, and it shall be the duty of every police officer or other public servant to seize every such ticket wherever found.
 
 [8
-
-[9/86]
 
 ### Money paid recoverable
 
@@ -342,7 +342,7 @@ Provided that the name and address of the person giving the information are know
 
 [20
 
-[7/1997 wef 01/10/1997]
+[7/97 wef 01/10/1997]
 
 ### Jurisdiction of courts
 
@@ -354,19 +354,21 @@ Provided that the name and address of the person giving the information are know
 
 ### Binding over on second conviction
 
-23\. If a person who has been convicted of an offence under section 4 is again convicted of the same or any other offence under that section, the court may, in addition to the punishment provided by that section, make an order requiring him to give security for a period not exceeding 3 years by one or more sureties that he will not offend against this Act, and every such order shall be made as nearly as may be in the same manner and shall have the like effect and consequences as if the order were made under Chapter VII of the Criminal Procedure Code.
+23\. If a person who has been convicted of an offence under section 4 is again convicted of the same or any other offence under that section, the court may, in addition to the punishment provided by that section, make an order requiring him to give security for a period not exceeding 3 years by one or more sureties that he will not offend against this Act, and every such order shall be made as nearly as may be in the same manner and shall have the like effect and consequences as if the order were made under Divisions 1 and 2 of Part V of the Criminal Procedure Code 2010.
 
 [22
+
+[15/2010 wef 02/01/2011]
 
 ### Exemption
 
 24\.—(1) The Minister may, by notification in theGazette, either generally or in any particular case and subject to such conditions as he may impose, exempt from all or any of the provisions of this Act any person or organisation in respect of any public lottery or gaming conducted under the control or supervision of such person or organisation.
 
+[9/86]
+
 (2) It shall be lawful for any person to participate in any public lottery or gaming exempted under subsection (1).
 
 [23
-
-[9/86]
 
 ## LEGISLATIVE HISTORY
 
@@ -410,3 +412,8 @@ This Legislative History is provided for the convenience of users of the Common 
 |||(Bill No. 7/2008 published on 26 May 2008)|
 ||Date of Second and Third Readings|21 July 2008|
 ||Date of commencement|27 December 2010|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
