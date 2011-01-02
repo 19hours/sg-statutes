@@ -126,7 +126,7 @@
 
 (CHAPTER 188)
 
-(Original Enactment: 31 of 2008)
+(Original Enactment: Act 31 of 2008)
 
 REVISED EDITION 2010
 
@@ -232,7 +232,7 @@ or who carries on any combination of such activities or services; or
 
 “unlicensed moneylender” means a person —
 
-(a) who is presumed to be a moneylender under section 3; and
+(a) who is presumed to be a moneylender under section 3 of the Moneylender’s Act (Cap. 188); and
 
 (b) who is not a licensee or an exempt moneylender.
 
@@ -270,7 +270,9 @@ LICENSING OF MONEYLENDERS
 
 (a) made in such form and manner as may be determined by the Registrar; and
 
-(b) 1accompanied by the payment of a non-refundable application fee of a prescribed amount, which shall be paid in such manner as may be specified by the Registrar.
+(b) accompanied by the payment of a non-refundable application fee of a prescribed amount, which shall be paid in such manner as may be specified by the Registrar.
+
+[5/2010 wef 01/07/2010]
 
 (4) The Registrar may issue a licence with or without conditions, or he may refuse to issue a licence.
 
@@ -308,7 +310,7 @@ LICENSING OF MONEYLENDERS
 
 ### Other grounds for refusing to issue or renew licence, etc.
 
-7\.—(1) For the purposes of sections 5 and 6, the Registrar may refuse to issue or renew a licence on any of the following grounds:
+7\.—(1) For the purposes of section 5 and 6, the Registrar may refuse to issue or renew a licence on any of the following grounds:
 
 (a) if —
 
@@ -516,13 +518,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [5/2010]
 
-(1A) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
+(1A) Subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010 —
 
 (a) a person who is convicted for the first time of an offence under subsection (1) shall also be liable to be punished with caning with not more than 6 strokes; or
 
 (b) a person who is convicted of a second or subsequent offence under subsection (1) shall also be liable to be punished with caning with not more than 12 strokes.
 
 [5/2010]
+
+[15/2010 wef 02/01/2011]
 
 (2) Where any contract for a loan has been granted by an unlicensed moneylender, or any guarantee or security has been given for such a loan —
 
@@ -1106,7 +1110,7 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 
 [5/2010]
 
-(3) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
+(3) Subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010 —
 
 (a) except as provided in paragraph (b), a person who is convicted for the first time of an offence under subsection (1) or (2) shall also be liable to be punished with caning with not more than 6 strokes;
 
@@ -1129,6 +1133,8 @@ in connection with the loan to the borrower, whether or not the unlicensed money
 (iii) with not less than 9 and not more than 18 strokes if it is proved to the satisfaction of the court that, in the course of committing the offence, hurt was caused to another person and damage was caused to any property.
 
 [5/2010]
+
+[15/2010 wef 02/01/2011]
 
 (3A) For the purposes of paragraph (a) of subsection (1), a person who —
 
@@ -1198,13 +1204,15 @@ the person referred to in paragraph (b) shall be taken to have abetted the commi
 
 [5/2010]
 
-(2) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
+(2) Subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010 —
 
 (a) a person who is convicted of an offence under subsection (1) for causing or procuring any person below the age of 16 years to commit an offence under section 14 shall, if the offence under section 14 is thereby committed, also be liable to be punished with caning with not more than 12 strokes; and
 
 (b) a person who is convicted of an offence under subsection (1) for causing or procuring any person below the age of 16 years to commit an offence under section 28 shall, if the offence under section 28 is thereby committed, also be liable to be punished with caning with not more than 12 strokes.
 
 [5/2010]
+
+[15/2010 wef 02/01/2011]
 
 ### Offence of providing false contact information
 
@@ -1495,3 +1503,9 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 |||(Bill No. 33/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Dates of commencement|1 July 2010 (section 5(3)(b))|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
