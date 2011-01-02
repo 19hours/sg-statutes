@@ -162,7 +162,7 @@
 
 - [61 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-[**THE SCHEDULE Personal Identifiers**](#THE-SCHEDULE)
+[**THE SCHEDULE Personal identifiers**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -852,11 +852,19 @@ and includes a part of any of the above.
 
 32\.—(1) The Controller, an immigration officer, or a police officer may arrest without warrant any person committing or attempting to commit, or whom he reasonably suspects of being engaged in committing or attempting to commit, any offence under this Act.
 
-(2) Where any person is arrested under subsection (1), the Controller, immigration officer or police officer making the arrest shall comply with sections 35 and 36 of the Criminal Procedure Code (Cap. 68) as if he were a police officer.
+(2) Where any person is arrested under subsection (1), the Controller, immigration officer or police officer making the arrest shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.
+
+[15/2010 wef 02/10/2011]
 
 (3) In any case relating to the commission of an offence under this Act, an immigration officer shall have all the powers of a police officer under the Criminal Procedure Code in relation to an investigation into a seizable offence.
 
-(4) The Controller and an immigration officer who is an authorised officer shall have the authority to appear in court and conduct any prosecution in respect of any offence under this Act.
+(3A) For the purposes of subsection (3), when an immigration officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the immigration officer shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
+
+(4) The Controller and an immigration officer who is an authorised officer shall have the authority to appear in court and may, with the authorisation of the Public Prosecutor, conduct any prosecution in respect of any offence under this Act.
+
+[15/2010 wef 02/01/2011]
 
 ### Identification to be produced during enforcement
 
@@ -1272,9 +1280,7 @@ General provisions
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
-
-[2/2012]
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection.
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -1526,7 +1532,7 @@ as the case may be.
 
 Section 3
 
-Personal Identifiers
+Personal identifiers
 
 1\. Fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies).
 
@@ -1562,6 +1568,12 @@ The Passports Act 2007 repealed the Passports Act (Chapter 220, 1985 Revised Edi
 
 |4.|**2008 Revised Edition—Passports Act**|
 ||Date of operation|31 December 2008|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Passports Act
