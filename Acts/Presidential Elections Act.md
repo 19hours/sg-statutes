@@ -372,8 +372,6 @@ ELECTIONS
 
 (4) For the purposes of this Act, an election shall have wholly failed if no candidate is nominated or returned as elected at that election.
 
-[11/2010 wef 01/07/2010]
-
 ### Certificate of eligibility
 
 8\.—(1) At any time after the date referred to in section 6(1)(a) or such date which is 3 months before the date referred to in section 6(1)(b), whichever is the earlier, but in any case not later than 3 days after the date of the writ for an election, every person who desires to be elected to the office of President shall apply in the prescribed manner to the Presidential Elections Committee for a certificate in the prescribed form.
@@ -459,8 +457,6 @@ the Committee shall not later than the day before nomination day issue to the ap
 (3) Any sum required to be deposited under subsection (1) shall be paid in legal tender or by a bank draft or a certified cheque.
 
 (4) If a candidate is not nominated as a candidate for election, an election has wholly failed or if, after the deposit under this section is made, the candidate withdraws his candidature under section 13, the deposit shall be returned to the person by whom the deposit is made.
-
-[11/2010 wef 01/07/2010]
 
 (4A) If the candidate dies after the deposit is made and before the poll has commenced, the deposit, if made by him, shall be returned to his legal personal representative or, if not made by him, shall be returned to the person by whom the deposit was made.
 
@@ -609,8 +605,6 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 (5) Subject to section 6(1), the Returning Officer shall cause to be published in theGazettea notice in the prescribed form specifying —
 
 (a) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in theGazette(referred to in this Act as polling day);
-
-[11/2010 wef 01/07/2010]
 
 (aa) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system and the electoral division which will use the system at the poll;
 
@@ -958,11 +952,7 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 (3) Where polling at all polling stations established for the purposes of a poll is postponed under section 36C, the conduct of the counting of votes cast for the election shall stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his principal election agent, shall specify.
 
-[11/2010 wef 01/07/2010]
-
 (4) Where polling at any polling station established for the purposes of a poll is temporarily suspended, adjourned and postponed or abandoned and re-started under section 36C, the conduct of the count in respect of votes cast at the other polling stations which are specified in the direction under this section to be counted at the same counting place as votes cast at the first-mentioned polling station shall, even though the poll at the other polling stations has closed, stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his principal election agent, shall specify.
-
-[11/2010 wef 01/07/2010]
 
 ### Counting votes
 
@@ -1328,8 +1318,6 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 Postponement and adjournment of elections
 
-[11/2010 wef 01/07/2010]
-
 ### Postponement of nomination day, etc.
 
 36A\.—(1) Notwithstanding any other provision of this Act, at any time before the nomination day for any election, the Prime Minister may postpone nomination day to another day, or change the place of nomination, because of —
@@ -1582,7 +1570,7 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 [19/2001]
 
-(5) A prosecution for an offence under this section shall not be instituted without the sanction of the Public Prosecutor.
+(5) A prosecution for an offence under this section shall not be instituted without the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
@@ -1676,31 +1664,21 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (ii) in the case referred to in paragraph (b), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-[11/2010 wef 01/07/2010]
-
 (iii) in the case referred to in paragraph (c), to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both;
-
-[11/2010 wef 01/07/2010]
 
 (iv) in the case referred to in paragraph (d) or (e), to a fine or to imprisonment for a term not exceeding 12 months or to both; or
 
-[11/2010 wef 01/07/2010]
-
 (v) in the case referred to in paragraph (f), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[11/2010 wef 01/07/2010]
 
 (1A) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.
 
 [18/94]
 
-(2) A prosecution for a corrupt practice (except any corrupt practice as defined in subsection (1)(d) or (e)) shall not be instituted without the sanction of the Public Prosecutor.
+(2) A prosecution for a corrupt practice (except any corrupt practice as defined in subsection (1)(d) or (e)) shall not be instituted without the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
 (3) Without prejudice to section 38, every offence of undue influence or bribery under section 40 or 41, and every other corrupt practice under subsection (1)(c), (d) or (e) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[11/2010 wef 01/07/2010]
 
 Chapter 3
 
@@ -1896,7 +1874,9 @@ shall be guilty of an illegal practice.
 
 (6) The illegal practice and the offence under subsections (1A) and (4), respectively, shall each be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[11/2010 wef 01/07/2010]
+(7) [Deleted by Act 11/2010 wef 01/07/2010]
+
+(8) [Deleted by Act 11/2010 wef 01/07/2010]
 
 ### Certain employment to be illegal
 
@@ -1972,11 +1952,7 @@ shall be guilty of an illegal practice.
 
 59\.—(1) Subject to subsection (4), no badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motor-car, truck or other vehicle as political propaganda on polling day or on the eve of polling day at an election.
 
-[11/2010 wef 01/07/2010]
-
 (2) The offence under subsection (3) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[11/2010 wef 01/07/2010]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
@@ -1997,8 +1973,6 @@ shall be guilty of an illegal practice.
 (4) Any person who commits an offence under such regulations shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
 (5) Every offence under such regulations shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[11/2010 wef 01/07/2010]
 
 ### Election advertising ban
 
@@ -2052,8 +2026,6 @@ and such material shall be election advertising even though it can reasonably be
 
 (b) the reference to the doing of anything mentioned in paragraph (a) or (b) of the definition of “election advertising” in subsection (6) shall include doing so by prejudicing the electoral prospects at the election of other candidates by prejudicing the standing with the electorate of other candidates.
 
-[11/2010 wef 01/07/2010]
-
 ### Punishment for conviction for illegal practice
 
 61\.—(1) Every person who commits an illegal practice shall be guilty of an offence and shall on conviction by a District Court be liable to a fine not exceeding $2,000 and shall become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.
@@ -2062,11 +2034,11 @@ and such material shall be election advertising even though it can reasonably be
 
 [18/94]
 
-(2) A prosecution for an illegal practice shall not be instituted without the sanction of the Public Prosecutor.
+(2) A prosecution for an illegal practice shall not be instituted without the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
-(3) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any illegal practice.
+(3) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010 in the case of non-seizable offences or from exercising his powers to prevent a continuance of any illegal practice.
 
 [15/2010 wef 02/01/2011]
 
@@ -2082,8 +2054,6 @@ and such material shall be election advertising even though it can reasonably be
 
 [11/2010 wef 01/07/2010]
 
-[11/2010 wef 01/07/2010]
-
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
 
 [11/2010 wef 01/07/2010]
@@ -2092,11 +2062,7 @@ and such material shall be election advertising even though it can reasonably be
 
 (4) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[11/2010 wef 01/07/2010]
-
 (5) For the purposes of this section, any person who, on polling day or on the eve of polling day, enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place or work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1)(a) and (b).
-
-[11/2010 wef 01/07/2010]
 
 ### Restrictions on election meetings
 
@@ -2120,8 +2086,6 @@ and such material shall be election advertising even though it can reasonably be
 
 (b) to otherwise enhance the standing of any such candidates with the electorate in connection with the election.
 
-[11/2010 wef 01/07/2010]
-
 ### Prohibition of dissuasion from voting
 
 63\.—(1) No person shall between nomination day and polling day (both days being inclusive) at any election, by word, message, writing or in any other manner dissuade or attempt to dissuade any person from giving his vote at the election.
@@ -2133,8 +2097,6 @@ and such material shall be election advertising even though it can reasonably be
 (3) Notwithstanding the provisions of the Criminal Procedure Code relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
 (4) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[11/2010 wef 01/07/2010]
 
 ### Undue influence at or near polling station
 
@@ -2162,8 +2124,6 @@ and such material shall be election advertising even though it can reasonably be
 
 (4) The offence under subsection (3) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[11/2010 wef 01/07/2010]
-
 ### Persons prohibited from conducting election activity
 
 65\.—(1) No person —
@@ -2179,8 +2139,6 @@ and such material shall be election advertising even though it can reasonably be
 shall take part in any election activity.
 
 (1A) An individual who is not a citizen of Singapore shall not knowingly publish or display, or knowingly cause or permit to be published or displayed, any election advertising (within the meaning of section 60A) among any electors during the period beginning with the day the writ of election is issued for an election and ending with the start of the eve of polling day at the election.
-
-[11/2010 wef 01/07/2010]
 
 (2) No person shall conduct any election activity unless he is in possession of a written authority in the prescribed form signed by a candidate or any election agent of the candidate and issued on or after nomination day.
 
@@ -2198,13 +2156,9 @@ shall take part in any election activity.
 
 (7) Every offence under this section for contravening subsection (1), (1A) or (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[11/2010 wef 01/07/2010]
-
 (8) For the purposes of this section, “election activity” includes any activity which is done for the purpose of promoting or procuring the election of any candidate at any election other than clerical work wholly performed within enclosed premises.
 
 (9) Nothing in this section shall prohibit the carrying out by any prescribed person, or person in a prescribed class of persons, of such type of work as is prescribed, being work that is performed solely pursuant to a contract for service entered into with a person authorised to conduct election activity under this section.
-
-[11/2010 wef 01/07/2010]
 
 ### Unlawful assembly
 
@@ -2225,8 +2179,6 @@ the assembly shall be deemed to be an unlawful assembly as defined in section 14
 [11/2010 wef 01/07/2010]
 
 (3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[11/2010 wef 01/07/2010]
 
 Chapter 4
 
@@ -2486,8 +2438,6 @@ GENERAL
 
 (3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[11/2010 wef 01/07/2010]
-
 ### Composition of offences
 
 84\.—(1) The Returning Officer, or any officer of the Elections Department who is authorised by the Returning Officer, may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
@@ -2604,6 +2554,12 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 5/2010 published on 11 March 2010)|
 ||Date of Second and Third Readings|27 April 2010|
 ||Date of commencement|1 July 2010|
+|18.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
