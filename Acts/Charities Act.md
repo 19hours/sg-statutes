@@ -2136,7 +2136,7 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 ### Prosecution of offences
 
-47A\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by any public officer who is authorised to conduct such proceedings by the Commissioner with the consent of the Attorney-General.
+47A\. Proceedings in respect of any offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by any public officer who is authorised to conduct such proceedings by the Commissioner.
 
 [15/2010 wef 02/01/2011]
 
@@ -2324,3 +2324,9 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010 (except paragraph (i) of item 1(8)(a), 1(8)(b) and item 1(41) of the Second Schedule)|
+|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
