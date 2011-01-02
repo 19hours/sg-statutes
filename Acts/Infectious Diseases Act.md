@@ -896,6 +896,8 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (b) that other person has voluntarily agreed to accept that risk.
 
+[10/2008 wef 10/06/2008]
+
 (2) A person who does not know that he has AIDS or HIV Infection, but who has reason to believe that he has, or has been exposed to a significant risk of contracting, AIDS or HIV Infection shall not engage in any sexual activity with another person unless —
 
 (a) before the sexual activity takes place he informs that other person of the risk of contracting AIDS or HIV Infection from him and that other person voluntarily agrees to accept that risk;
@@ -904,13 +906,25 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (c) during the sexual activity, he takes reasonable precautions to ensure that he does not expose that other person to the risk of contracting AIDS or HIV Infection.
 
+[10/2008 wef 10/06/2008]
+
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+[10/2008 wef 10/06/2008]
 
 (4) For the purposes of this section, a person shall not, only by reason of age, be presumed incapable of engaging in sexual activity.
 
+[10/2008 wef 10/06/2008]
+
 (5) For the purposes of this section, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
 
-(6) No prosecution shall be instituted for an offence under subsection (2) except with the written consent of the Attorney-General , but a person charged with such an offence may be arrested and be remanded in custody or released on bail notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the offence has not been obtained, except that the case shall not be further prosecuted until that consent of the Attorney-General has been obtained.
+[10/2008 wef 10/06/2008]
+
+(6) No prosecution shall be instituted for an offence under subsection (2) except with the written consent of the Public Prosecutor, but a person charged with such an offence may be arrested and be remanded in custody or released on bail notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, except that the case shall not be further prosecuted until that consent of the Public Prosecutor has been obtained.
+
+[10/2008 wef 10/06/2008]
+
+[15/2010 wef 02/01/2011]
 
 (7) In this section, “sexual activity” means —
 
@@ -948,7 +962,7 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (b) when it is necessary to do so in connection with the administration or execution of anything under this Act;
 
-(ba) when it is necessary to do so in connection with the provision of information to a police officer under section 22 or 121 of the Criminal Procedure Code (Cap. 68);
+(ba) when it is necessary to do so in connection with the provision of information to a police officer under section 22 or 424 of the Criminal Procedure Code 2010;
 
 [10/2008 wef 10/06/2008]
 
@@ -977,6 +991,8 @@ CONTROL OF AIDS AND HIV INFECTION
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [5/92]
+
+[10/2008 wef 10/06/2008]
 
 (3) For the purposes of subsection (1)(a), the consent of the other person includes —
 
@@ -2230,6 +2246,11 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|28 April 2009|
 |32.|**G. N. No. S 618/2010—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2010**|
 ||Date of commencement|1 November 2010|
+|33.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
