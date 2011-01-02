@@ -453,7 +453,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Order for payment of cost of maintenance
 
-28\.—(1) Where any person has been received into a psychiatric institution in accordance with section 310 or 315 of the Criminal Procedure Code (Cap. 68) or section 43 of the Prisons Act (Cap. 247), the court —
+28\.—(1) Where any person has been received into a psychiatric institution in accordance with section 249 or 252 of the Criminal Procedure Code 2010 or section 43 of the Prisons Act (Cap. 247), the court —
 
 (a) on the application of the principal officer of the psychiatric institution, shall make an order for the payment of the cost of maintenance of the person in the psychiatric institution; and
 
@@ -700,31 +700,25 @@ Second column
 
 (Chapter 4A, 1997 Ed.)
 
-(a)
-
-Section 2
+(a) Section 2
 
 Delete the words “of sound mind” in the definition of “patient” and substitute the words “who is not mentally disordered,”.
 
-(b)
-
-Section 3(1)
+(b) Section 3(1)
 
 Delete the words “of sound mind” and substitute the words “who is not mentally disordered,”.
 
-(c)
-
-Section 4
+(c) Section 4
 
 Delete paragraph (a) and substitute the following paragraph:
 
-“(a)
+“
 
-is not mentally disordered;”.
+(a) is not mentally disordered;
 
-(2)
+”.
 
-Agency for Science, Technology and Research Act
+(2) Agency for Science, Technology and Research Act
 
 
 
@@ -740,13 +734,13 @@ paragraph 11
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(3)
+”.
 
-Architects Act
+(3) Architects Act
 
 
 
@@ -757,9 +751,7 @@ Section 4D
 
 Delete the words “of unsound mind” in paragraph (d) and substitute the words “mentally disordered and incapable of managing himself or his affairs,”.
 
-(4)
-
-Banishment Act
+(4) Banishment Act
 
 
 
@@ -768,17 +760,11 @@ Banishment Act
 
 Section 9(1)
 
-(i)
+(i) Delete the words “of unsound mind” in the 3rd and 5th lines and substitute in each case the words “mentally disordered”.
 
-Delete the words “of unsound mind” in the 3rd and 5th lines and substitute in each case the words “mentally disordered”.
+(ii) Delete the words “again become of sound mind” in the 10th line and substitute the words “ceased to be mentally disordered”.
 
-(ii)
-
-Delete the words “again become of sound mind” in the 10th line and substitute the words “ceased to be mentally disordered”.
-
-(5)
-
-Bankruptcy Act
+(5) Bankruptcy Act
 
 
 
@@ -789,34 +775,34 @@ Section 160
 
 Delete paragraph (c) and substitute the following paragraph:
 
-“(c)
+“
 
-a person who lacks capacity may act by a deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 with powers in relation to him for the purposes of this Act.”.
+(c) a person who lacks capacity may act by a deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 with powers in relation to him for the purposes of this Act.
 
-(6)
+”.
 
-Building Maintenance and Strata Management Act 2004 (Act 47 of 2004)
+(6) Building Maintenance and Strata Management Act 2004 (Act 47 of 2004)
 
-(a)
-
-Section 54(1)
+(a) Section 54(1)
 
 Delete paragraph (i) and substitute the following paragraph:
 
-“(i)
+“
 
-if the person becomes mentally disordered and incapable of managing himself or his affairs; or”.
+(i) if the person becomes mentally disordered and incapable of managing himself or his affairs; or
 
-(b)
+”.
 
-First Schedule,
+(b) First Schedule,
+
+
+
+
 paragraph 20
 
 Delete the words “unsoundness of mind” wherever they appear and substitute in each case the words “mental disorder”.
 
-(7)
-
-Casino Control Act
+(7) Casino Control Act
 
 
 
@@ -827,53 +813,51 @@ The Schedule, paragraph 11
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(8)
+”.
 
-Central Provident Fund Act (Chapter 36, 2001 Ed.)
+(8) Central Provident Fund Act (Chapter 36, 2001 Ed.)
 
 (a)Deleted by Act 18/2009, wef 01/03/2010.
 
-(ii)
+(ii) Delete paragraph (e) of subsection (2) and substitute the following paragraph:
 
-Delete paragraph (e) of subsection (2) and substitute the following paragraph:
+“
 
-“(e)
+(e) is mentally disordered and incapable of managing himself or his affairs;
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+”.
 
-(iii)
+(iii) Delete sub-paragraph (ii) of subsection (6B)(a) and substitute the following sub-paragraph:
 
-Delete sub-paragraph (ii) of subsection (6B)(a) and substitute the following sub-paragraph:
+“
 
-“(ii)
+(ii) mentally disordered and incapable of managing himself or themselves, or his or their affairs;
 
-mentally disordered and incapable of managing himself or themselves, or his or their affairs;”.
+”.
 
-(iv)
+(iv) Delete paragraph (b) of subsection (7A) and substitute the following paragraph:
 
-Delete paragraph (b) of subsection (7A) and substitute the following paragraph:
+“
 
-“(b)
+(b) mentally disordered and incapable of managing himself or his affairs;
 
-mentally disordered and incapable of managing himself or his affairs;”.
+”.
 
-(v)
+(v) Delete paragraph (b) of subsection (8) and substitute the following paragraph:
 
-Delete paragraph (b) of subsection (8) and substitute the following paragraph:
+“
 
-“(b)
+(b) is mentally disordered and incapable of managing himself or his affairs;
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+”.
 
 (b)Deleted by Act 18/2009, wef 01/03/2010.
 
-(9)
-
-Charities Act
+(9) Charities Act
 
 
 
@@ -884,13 +868,13 @@ Section 25(4)
 
 Delete paragraph (d) and substitute the following paragraph:
 
-“(d)
+“
 
-lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;”.
+(d) lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;
 
-(10)
+”.
 
-Children Development
+(10) Children Development
 
 
 
@@ -906,21 +890,17 @@ Section 4(1)
 
 Delete paragraph (f) and substitute the following paragraph:
 
-“(f)
+“
 
-where the trustee is no longer able to act as trustee by reason that he lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee and the member has no other legal guardian, be substituted with —
+(f) where the trustee is no longer able to act as trustee by reason that he lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee and the member has no other legal guardian, be substituted with —
 
-(i)
+(i) the deputy appointed or deemed to be appointed for such trustee by the High Court under that Act and who was conferred power to exercise the functions as trustee; or
 
-the deputy appointed or deemed to be appointed for such trustee by the High Court under that Act and who was conferred power to exercise the functions as trustee; or
+(ii) if there is no such deputy, a person nominated by the Minister; and
 
-(ii)
+”.
 
-if there is no such deputy, a person nominated by the Minister; and”.
-
-(11)
-
-Companies Act
+(11) Companies Act
 
 
 
@@ -929,9 +909,7 @@ Companies Act
 
 Fourth Schedule
 
-(a)
-
-Paragraph 56
+(a) Paragraph 56
 
 Delete paragraph 56 and substitute the following paragraph:
 
@@ -941,58 +919,42 @@ Delete paragraph 56 and substitute the following paragraph:
 
 ”.
 
-(b)
-
-Paragraph 62
+(b) Paragraph 62
 
 Delete the words “unsoundness of mind” wherever they appear and substitute in each case the words “mental disorder”.
 
-(c)
-
-Paragraph 72
+(c) Paragraph 72
 
 Delete sub-paragraph (e) and substitute the following sub-paragraph:
 
-“(e)
+“
 
-becomes mentally disordered and incapable of managing himself or his affairs or a person whose person or estate is liable to be dealt with in any way under the law relating to mental capacity;”.
+(e) becomes mentally disordered and incapable of managing himself or his affairs or a person whose person or estate is liable to be dealt with in any way under the law relating to mental capacity;
 
-(12)
+”.
 
-Conveyancing and Law of Property Act
+(12) Conveyancing and Law of Property Act
 
 
 
 
 (Chapter 61, 1994 Ed.)
 
-(a)
-
-Section 7(5)
+(a) Section 7(5)
 
 Delete the words “committee of a mentally disordered person” and substitute the words “deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008”.
 
-(b)
-
-Section 44
+(b) Section 44
 
 Delete the words “unsoundness of mind” in paragraphs (a), (b) and (c) and substitute in each case the words “mental disorder”.
 
-(c)
+(c) Section 46(1)
 
-Section 46(1)
+(i) Delete the words “of unsound mind” and substitute the words “mentally disordered”.
 
-(i)
+(ii) Delete the words “unsoundness of mind” and substitute the words “mental disorder”.
 
-Delete the words “of unsound mind” and substitute the words “mentally disordered”.
-
-(ii)
-
-Delete the words “unsoundness of mind” and substitute the words “mental disorder”.
-
-(13)
-
-Countervailing and Anti-Dumping Duties Act
+(13) Countervailing and Anti-Dumping Duties Act
 
 
 
@@ -1003,13 +965,13 @@ Section 30(5)
 
 Delete paragraph (a) and substitute the following paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(14)
+”.
 
-Defence Science and Technology Agency Act
+(14) Defence Science and Technology Agency Act
 
 
 
@@ -1020,13 +982,13 @@ First Schedule, paragraph 10
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(15)
+”.
 
-Exchange Control Act
+(15) Exchange Control Act
 
 
 
@@ -1037,9 +999,7 @@ Section 22(5)
 
 Delete the words “unsoundness of mind” in paragraph (b) and substitute the words “mental disorder”.
 
-(16)
-
-Government Procurement Act
+(16) Government Procurement Act
 
 
 
@@ -1050,13 +1010,13 @@ Section 8(4)
 
 Delete paragraph (a) and substitute the following paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(17)
+”.
 
-Housing and Development Act
+(17) Housing and Development Act
 
 
 
@@ -1067,42 +1027,34 @@ Section 7(1)
 
 Delete paragraph (c) and substitute the following paragraph:
 
-“(c)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(c) is mentally disordered and incapable of managing himself or his affairs.
 
-(18)
+”.
 
-HUDC Housing Estates Act (Chapter 131, 1985 Ed.)
+(18) HUDC Housing Estates Act (Chapter 131, 1985 Ed.)
 
 Fourth Schedule, paragraph 18
 
 Delete the words “unsoundness of mind” wherever they appear and substitute in each case the words “mental disorder”.
 
-(19)
-
-Human Organ Transplant Act
+(19) Human Organ Transplant Act
 
 
 
 
 (Chapter 131A, 2005 Ed.)
 
-(a)
-
-Section 5(2)
+(a) Section 5(2)
 
 Delete the words “not of sound mind” in paragraph (e) and substitute the words “mentally disordered”.
 
-(b)
-
-Section 15A(2)
+(b) Section 15A(2)
 
 Delete the words “of sound mind” in paragraph (b) and substitute the words “not mentally disordered”.
 
-(20)
-
-Income Tax Act
+(20) Income Tax Act
 
 
 
@@ -1113,21 +1065,19 @@ Section 10L(3)
 
 Delete the words “found to be of unsound mind” in paragraph (c) and substitute the words “mentally disordered and incapable of managing himself or his affairs”.
 
-(21)
-
-Industrial Relations Act (Chapter 136, 2004 Ed.)
+(21) Industrial Relations Act (Chapter 136, 2004 Ed.)
 
 Section 7(4)
 
 Delete paragraph (b) and substitute the following paragraph:
 
-“(b)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(b) is mentally disordered and incapable of managing himself or his affairs;
 
-(22)
+”.
 
-Institute of Technical Education Act
+(22) Institute of Technical Education Act
 
 
 
@@ -1138,54 +1088,46 @@ Section 9
 
 Delete paragraph (a) and substitute the following paragraph:
 
-“(a)
+“
 
-becomes mentally disordered and incapable of managing himself or his affairs;”.
+(a) becomes mentally disordered and incapable of managing himself or his affairs;
 
-(23)
+”.
 
-Land Acquisition Act
+(23) Land Acquisition Act
 
 
 
 
 (Chapter 152, 1985 Ed.)
 
-(a)
+(a) Section 2(2)
 
-Section 2(2)
+(i) Delete the words “the committees of mentally disordered persons” in paragraph (c) and substitute the words “deputies appointed or deemed to be appointed by the High Court for persons who lack capacity (incapacitated persons) under the Mental Capacity Act 2008 with power in relation to the incapacitated persons for the purposes of this Act,”.
 
-(i)
+(ii) Delete the words “mentally disordered persons” in paragraph (c) and substitute the words “incapacitated persons”.
 
-Delete the words “the committees of mentally disordered persons” in paragraph (c) and substitute the words “deputies appointed or deemed to be appointed by the High Court for persons who lack capacity (incapacitated persons) under the Mental Capacity Act 2008 with power in relation to the incapacitated persons for the purposes of this Act,”.
-
-(ii)
-
-Delete the words “mentally disordered persons” in paragraph (c) and substitute the words “incapacitated persons”.
-
-(b)
-
-Section 19(2)
+(b) Section 19(2)
 
 Delete paragraph (d) and substitute the following paragraph:
 
-“(d)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(d) is mentally disordered and incapable of managing himself or his affairs.
 
-(c)
+”.
 
-Section 26(3)
+(c) Section 26(3)
 
 Delete paragraph (c) and substitute the following paragraph:
 
-“(c)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(c) is mentally disordered and incapable of managing himself or his affairs.
 
-(24)
+”.
 
-Land Surveyors Act
+(24) Land Surveyors Act
 
 
 
@@ -1196,9 +1138,7 @@ Section 4(4)
 
 Delete the words “of unsound mind” in paragraph (d) and substitute the words “mentally disordered and incapable of managing himself or his affairs”.
 
-(25)
-
-Land Titles Act
+(25) Land Titles Act
 
 
 
@@ -1209,59 +1149,59 @@ Section 126(1)
 
 Delete the words “committee to whom it is entrusted, pursuant to the Mental Disorders and Treatment Act (Cap. 178),” in paragraph (e) and substitute the words “deputy appointed or deemed to be appointed for such person by the High Court under the Mental Capacity Act 2008, with power in relation to”.
 
-(26)
-
-Legal Profession Act
+(26) Legal Profession Act
 
 
 
 
 (Chapter 161, 2001 Ed.)
 
-(a)
-
-Section 26(1)
+(a) Section 26(1)
 
 Delete paragraph (h) and substitute the following paragraph:
 
-“(h)
+“
 
-if he lacks capacity within the meaning of the Mental Capacity Act 2008 to act as a solicitor.”.
+(h) if he lacks capacity within the meaning of the Mental Capacity Act 2008 to act as a solicitor.
 
-(b)
+”.
 
-Section 30(5)
+(b) Section 30(5)
 
 Delete paragraph (e) and substitute the following paragraph:
 
-“(e)
+“
 
-becomes mentally disordered and incapable of managing himself or his affairs;”.
+(e) becomes mentally disordered and incapable of managing himself or his affairs;
 
-(c)
+”.
 
-Section 57(1)
+(c) Section 57(1)
 
 Delete paragraph (b) and substitute the following paragraph:
 
-“(b)
+“
 
-he becomes mentally disordered and incapable of managing himself or his affairs;”.
+(b) he becomes mentally disordered and incapable of managing himself or his affairs;
 
-(d)
+”.
 
-First Schedule,
+(d) First Schedule,
+
+
+
+
 paragraph 1(1)
 
 Delete sub-paragraph (h) and substitute the following sub-paragraph:
 
-“(h)
+“
 
-a solicitor lacks capacity within the meaning of the Mental Capacity Act 2008 to act as a solicitor;”.
+(h) a solicitor lacks capacity within the meaning of the Mental Capacity Act 2008 to act as a solicitor;
 
-(27)
+”.
 
-Limitation Act
+(27) Limitation Act
 
 
 
@@ -1272,9 +1212,7 @@ Section 2(2)
 
 Delete the words “of unsound mind” and substitute the words “lacks capacity (within the meaning of the Mental Capacity Act 2008) to conduct legal proceedings”.
 
-(28)
-
-Maintenance of Religious Harmony Act
+(28) Maintenance of Religious Harmony Act
 
 
 
@@ -1285,13 +1223,13 @@ Section 3(8)
 
 Delete paragraph (a) and substitute the following paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(29)
+”.
 
-Medical and Elderly Care Endowment Schemes Act
+(29) Medical and Elderly Care Endowment Schemes Act
 
 
 
@@ -1302,34 +1240,28 @@ Section 43(3)
 
 Delete paragraph (b) and substitute the following paragraph:
 
-“(b)
+“
 
-the deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008, with power to consent to such disclosure.”.
+(b) the deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008, with power to consent to such disclosure.
 
-(30)
+”.
 
-Medical (Therapy, Education and Research) Act
+(30) Medical (Therapy, Education and Research) Act
 
 
 
 
 (Chapter 175, 1985 Ed.)
 
-(a)
-
-Section 3
+(a) Section 3
 
 Delete the words “of sound mind and” and substitute the words “who is not mentally disordered and who is”.
 
-(b)
-
-Section 13(1)
+(b) Section 13(1)
 
 Delete the words “of sound mind and” and substitute the words “who is not mentally disordered and who is”.
 
-(31)
-
-Monetary Authority of Singapore Act
+(31) Monetary Authority of Singapore Act
 
 
 
@@ -1340,13 +1272,13 @@ Section 10(2)
 
 Delete paragraph (b) and substitute the following paragraph:
 
-“(b)
+“
 
-becomes mentally disordered and incapable of managing himself or his affairs;”.
+(b) becomes mentally disordered and incapable of managing himself or his affairs;
 
-(32)
+”.
 
-National Arts Council Act (Chapter 193A, 1992 Ed.)
+(32) National Arts Council Act (Chapter 193A, 1992 Ed.)
 
 First Schedule,
 
@@ -1357,13 +1289,13 @@ paragraph 9
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(33)
+”.
 
-National Heritage Board Act
+(33) National Heritage Board Act
 
 
 
@@ -1379,13 +1311,13 @@ paragraph 9
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(34)
+”.
 
-National Parks Board Act (Chapter 198A, 1997 Ed.)
+(34) National Parks Board Act (Chapter 198A, 1997 Ed.)
 
 First Schedule,
 
@@ -1396,13 +1328,13 @@ paragraph 9
 
 Delete sub-paragraph (c) and substitute the following sub-paragraph:
 
-“(c)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(c) is mentally disordered and incapable of managing himself or his affairs.
 
-(35)
+”.
 
-Police Force Act
+(35) Police Force Act
 
 
 
@@ -1413,13 +1345,13 @@ Section 101(5)
 
 Delete paragraph (c) and substitute the following paragraph:
 
-“(c)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(c) is mentally disordered and incapable of managing himself or his affairs.
 
-(36)
+”.
 
-Prisons Act
+(36) Prisons Act
 
 
 
@@ -1428,27 +1360,21 @@ Prisons Act
 
 Section 43
 
-(i)
+(i) Delete the words “of unsound mind” wherever they appear in subsection (1) and substitute in each case the words “mentally disordered”.
 
-Delete the words “of unsound mind” wherever they appear in subsection (1) and substitute in each case the words “mentally disordered”.
+(ii) Delete the words “again become of sound mind” in subsection (2) and substitute the words “ceased to be mentally disordered”.
 
-(ii)
+(iii) Delete the words “Section 40 of the Mental Disorders and Treatment Act (Cap. 178) shall apply to every person confined in a mental hospital under this section” in subsection (3) and substitute the words “Where a person is confined under this section in a psychiatric institution within the meaning of the Mental Health (Care and Treatment) Act 2008, section 15 of that Act shall apply to such person”.
 
-Delete the words “again become of sound mind” in subsection (2) and substitute the words “ceased to be mentally disordered”.
+(iv) Delete the section heading and substitute the following section heading:
 
-(iii)
+“
 
-Delete the words “Section 40 of the Mental Disorders and Treatment Act (Cap. 178) shall apply to every person confined in a mental hospital under this section” in subsection (3) and substitute the words “Where a person is confined under this section in a psychiatric institution within the meaning of the Mental Health (Care and Treatment) Act 2008, section 15 of that Act shall apply to such person”.
+Prisoners who are mentally disordered
 
-(iv)
+”.
 
-Delete the section heading and substitute the following section heading:
-
-“Prisoners who are mentally disordered”\. 
-
-(37)
-
-Private Hospitals and Medical Clinics Act
+(37) Private Hospitals and Medical Clinics Act
 
 
 
@@ -1459,13 +1385,13 @@ Section 13(3)
 
 Delete paragraph (c) and substitute the following paragraph:
 
-“(c)
+“
 
-in relation to a person who lacks capacity within the meaning of the Mental Capacity Act 2008, means the deputy appointed or deemed to be appointed for the person by the High Court under that Act, with power to consent to such disclosure.”.
+(c) in relation to a person who lacks capacity within the meaning of the Mental Capacity Act 2008, means the deputy appointed or deemed to be appointed for the person by the High Court under that Act, with power to consent to such disclosure.
 
-(38)
+”.
 
-Probate and Administration Act
+(38) Probate and Administration Act
 
 
 
@@ -1474,33 +1400,21 @@ Probate and Administration Act
 
 Section 22
 
-(i)
+(i) Delete the words “person of unsound mind” in subsection (1) and substitute the words “mentally disordered person”.
 
-Delete the words “person of unsound mind” in subsection (1) and substitute the words “mentally disordered person”.
+(ii) Delete the words “of sound mind” in the 1st line of subsection (2) and substitute the words “he is not mentally disordered”.
 
-(ii)
+(iii) Delete the words “person of unsound mind” in subsection (2) and substitute the words “mentally disordered person”.
 
-Delete the words “of sound mind” in the 1st line of subsection (2) and substitute the words “he is not mentally disordered”.
+(iv) Delete the words “becomes of sound mind” in subsection (2) and substitute the words “ceases to be mentally disordered”.
 
-(iii)
-
-Delete the words “person of unsound mind” in subsection (2) and substitute the words “mentally disordered person”.
-
-(iv)
-
-Delete the words “becomes of sound mind” in subsection (2) and substitute the words “ceases to be mentally disordered”.
-
-(39)
-
-Professional Engineers Act (Chapter 253, 1992 Ed.)
+(39) Professional Engineers Act (Chapter 253, 1992 Ed.)
 
 Section 4C
 
 Delete the words “of unsound mind” in paragraph (d) and substitute the words “mentally disordered and incapable of managing himself or his affairs”.
 
-(40)
-
-Property Tax Act
+(40) Property Tax Act
 
 
 
@@ -1511,13 +1425,13 @@ Section 23(2)
 
 Delete paragraph (d) and substitute the following paragraph:
 
-“(d)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(d) is mentally disordered and incapable of managing himself or his affairs.
 
-(41)
+”.
 
-Registration of Criminals Act
+(41) Registration of Criminals Act
 
 
 
@@ -1528,26 +1442,24 @@ First Schedule, Part II
 
 Delete the following item:
 
-“Mental Disorders and Treatment Act
+"Mental Disorders and Treatment Act
 
 Section 58.
 
-Cap. 178.”
+Cap. 178."
 
 and substitute the following item:
 
-“Mental Health
+"Mental Health
 
 
 
 
 (Care and Treatment) Act 2008
 
-Section 26.”.
+Section 26.".
 
-(42)
-
-Requisition of Resources Act
+(42) Requisition of Resources Act
 
 
 
@@ -1558,13 +1470,13 @@ Section 30(6)
 
 Delete paragraph (c) and substitute the following paragraph:
 
-“(c)
+“
 
-is mentally disordered and incapable of managing himself or his affairs.”.
+(c) is mentally disordered and incapable of managing himself or his affairs.
 
-(43)
+”.
 
-Settled Estates Act
+(43) Settled Estates Act
 
 
 
@@ -1573,9 +1485,7 @@ Settled Estates Act
 
 Section 16
 
-(i)
-
-Delete subsection (2) and substitute the following subsection:
+(i) Delete subsection (2) and substitute the following subsection:
 
 “
 
@@ -1585,17 +1495,13 @@ Delete subsection (2) and substitute the following subsection:
 
 (b) the Official Assignee on behalf of bankrupts; and
 
-(c)deputies appointed or deemed to be appointed by the High Court for persons who lack capacity under the Mental Capacity Act 2008 with power in relation to such persons for the purposes of this Act, on behalf of such persons.”.
+(c) deputies appointed or deemed to be appointed by the High Court for persons who lack capacity under the Mental Capacity Act 2008 with power in relation to such persons for the purposes of this Act, on behalf of such persons.
 
-”
+”.
 
-(ii)
+(ii) Delete the marginal note to subsection (2).
 
-Delete the marginal note to subsection (2).
-
-(44)
-
-Singapore Academy of
+(44) Singapore Academy of
 
 
 
@@ -1611,30 +1517,22 @@ Section 16(1)
 
 Delete the words “of unsound mind” in paragraph (e) and substitute the words “mentally disordered and incapable of managing himself or his affairs”.
 
-(45)
-
-Singapore Armed Forces Act
+(45) Singapore Armed Forces Act
 
 
 
 
 (Chapter 295, 2000 Ed.)
 
-(a)
-
-Section 93(2)
+(a) Section 93(2)
 
 Delete the words “of unsound mind” in paragraph (i) and substitute the words “mentally disordered”.
 
-(b)
-
-Section 102(2)
+(b) Section 102(2)
 
 Delete the words “of unsound mind” in paragraph (c) and substitute the words “mentally disordered”.
 
-(46)
-
-Singapore Labour Foundation Act
+(46) Singapore Labour Foundation Act
 
 
 
@@ -1645,9 +1543,7 @@ Section 6(5)
 
 Delete the words “of unsound mind” in paragraph (a) and substitute the words “mentally disordered and incapable of managing himself or his affairs”.
 
-(47)
-
-Standards, Productivity and Innovation Board Act
+(47) Standards, Productivity and Innovation Board Act
 
 
 
@@ -1663,13 +1559,13 @@ paragraph 10
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(48)
+”.
 
-State Immunity Act
+(48) State Immunity Act
 
 
 
@@ -1680,9 +1576,7 @@ Section 8(3)
 
 Delete the words “persons of unsound mind” and substitute the words “mentally disordered persons”.
 
-(49)
-
-Travel Agents Act
+(49) Travel Agents Act
 
 
 
@@ -1693,9 +1587,7 @@ Section 3(1)
 
 Delete the words “committee of the estate or person of a mentally ill person, or manager of the property of an incapable person, for the purpose of performing his functions, exercising his powers or carrying out his duties as such, to hold a licence” and substitute the words “or deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008 with power in relation to such person for the purposes of this Act, to hold a licence for the purpose of performing his functions, exercising his powers or carrying out his duties as such”.
 
-(50)
-
-Trust Companies Act
+(50) Trust Companies Act
 
 
 
@@ -1706,40 +1598,32 @@ Section 26(1)
 
 Delete the words “committee of the person of a mentally disordered person” and substitute the words “a deputy with powers in relation to the personal welfare of a person who lacks capacity (within the meaning of the Mental Capacity Act 2008)”.
 
-(51)
-
-Trustees Act
+(51) Trustees Act
 
 
 
 
 (Chapter 337, 2005 Ed.)
 
-(a)
-
-Section 3
+(a) Section 3
 
 Delete the definitions of “mentally disordered person” and “person of unsound mind”.
 
-(b)
-
-Section 37(10)
+(b) Section 37(10)
 
 Delete the words “mentally disordered person or a person of unsound mind, being a trustee,” and substitute the words “trustee lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee and”.
 
-(c)
-
-Section 42(2)
+(c) Section 42(2)
 
 Delete paragraph (b) and substitute the following paragraph:
 
-“(b)
+“
 
-found to lack capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;”.
+(b) found to lack capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;
 
-(52)
+”.
 
-Urban Redevelopment Authority Act
+(52) Urban Redevelopment Authority Act
 
 
 
@@ -1755,13 +1639,13 @@ paragraph 9
 
 Delete sub-paragraph (a) and substitute the following sub-paragraph:
 
-“(a)
+“
 
-is mentally disordered and incapable of managing himself or his affairs;”.
+(a) is mentally disordered and incapable of managing himself or his affairs;
 
-(53)
+”.
 
-Women’s Charter
+(53) Women’s Charter
 
 
 
@@ -1770,53 +1654,39 @@ Women’s Charter
 
 Section 106
 
-(i)
+(i) Delete the words “unsoundness of mind” in paragraph (c) and substitute the words “mental disorder”.
 
-Delete the words “unsoundness of mind” in paragraph (c) and substitute the words “mental disorder”.
+(ii) Delete the words “Mental Disorders and Treatment Act (Cap. 178)” in paragraph (d) and substitute the words “Mental Health (Care and Treatment) Act 2008”.
 
-(ii)
+(54) Work Injury Compensation Act (Chapter 354, 1998 Ed.)
 
-Delete the words “Mental Disorders and Treatment Act (Cap. 178)” in paragraph (d) and substitute the words “Mental Health (Care and Treatment) Act 2008”.
+(a) Section 9
 
-(54)
+(i) Delete sub-paragraph (iii) of subsection (1A)(a) and substitute the following sub-paragraph:
 
-Work Injury Compensation Act (Chapter 354, 1998 Ed.)
+“
 
-(a)
+(iii) where the employee has become mentally incapacitated, any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment;
 
-Section 9
+”.
 
-(i)
+(ii) Delete paragraph (b) of subsection (4A) and substitute the following paragraph:
 
-Delete sub-paragraph (iii) of subsection (1A)(a) and substitute the following sub-paragraph:
+“
 
-“(iii)
+(b) any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment.
 
-where the employee has become mentally incapacitated, any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment;”.
+”.
 
-(ii)
-
-Delete paragraph (b) of subsection (4A) and substitute the following paragraph:
-
-“(b)
-
-any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment.”.
-
-(b)
-
-Section 22(2)
+(b) Section 22(2)
 
 Delete the words “committee or committees of the employee and estate of the employee required under the Mental Disorders and Treatment Act (Cap. 178)” and substitute the words “deputy for the employee under the Mental Capacity Act 2008”.
 
-(c)
-
-Section 27(1)
+(c) Section 27(1)
 
 Delete the words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in paragraph (ba) and substitute the words “deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008”.
 
-(d)
-
-Section 28A(2)
+(d) Section 28A(2)
 
 Delete the words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in paragraph (c) and substitute the words “deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008”.
 
