@@ -50,7 +50,7 @@
 
 - [22 Proceedings conducted by officer of Board](#Proceedings-conducted-by-officer-of-Board)
 
-- [23 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [23 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [24 Priority of case in bankruptcy](#Priority-of-case-in-bankruptcy)
 
@@ -110,11 +110,11 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 (a) a Public House First Class Licence has been issued under the Customs Act (Cap. 70);
 
+[16/2008 wef 19/09/2008]
+
 (b) a Public House (Temporary) (First Class) Licence has been issued under the Customs Act, and such premises have been issued with that licence for a continuous period of more than 6 days; or
 
 (c) a public house licence of a category not enumerated in paragraphs (a) and (b) has been issued under the Customs Act, and which is declared by the Minister, by notification in theGazette, to be a tourist public house.
-
-[16/2008 wef 19/09/2008]
 
 ### Delegation of functions
 
@@ -158,7 +158,7 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 [16/2008 wef 19/09/2008]
 
-7\. [Deleted by Act 16/2008 wef 19/09/2008]
+7\. [Repealed by Act 16/2008 wef 19/09/2008]
 
 ### Power of Chief Executive to obtain information
 
@@ -306,15 +306,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) The Minister may, if he thinks fit, and upon such conditions as he may impose, exempt any tourist hotel, tourist food establishment and tourist public house from payment of cess levied under this Act.
 
-21\. [Deleted by Act 16/2008 wef 19/09/2008]
+21\. [Repealed by Act 16/2008 wef 19/09/2008]
 
 ### Proceedings conducted by officer of Board
 
-22\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the Chief Executive.
+22\. Proceedings in respect of any offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the Chief Executive.
 
-### Sanction of Public Prosecutor
+[15/2010 wef 02/01/2011]
 
-23\. No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+### Consent of Public Prosecutor
+
+23\. No court shall try any offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Priority of case in bankruptcy
 
@@ -336,11 +340,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FIRST SCHEDULE
 
-[Deleted by S 197/2007 wef 01/07/2007]
+[Repealed by S 197/2007 wef 01/07/2007]
 
 SECOND SCHEDULE
 
-[Deleted by Act 16/2008 wef 19/09/2008]
+[Repealed by Act 16/2008 wef 19/09/2008]
 
 ## LEGISLATIVE HISTORY
 
@@ -348,7 +352,7 @@ Singapore Tourism (Cess Collection) Act
 
 (CHAPTER 305C)
 
-This Legislative History is provided for the convenience of users of the Singapore Tourism (Cess Collection) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Tourism (Cess Collection) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -394,3 +398,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 9/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|25 August 2008|
 ||Date of commencement|19 September 2008|
+|14.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
