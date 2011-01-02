@@ -1054,7 +1054,7 @@ THE SYARIAH COURT
 
 (d) to issue a warrant of arrest to compel the attendance of any person who, after being summoned to attend, fails to do so and who does not excuse such failure to the satisfaction of the Court and to order him to pay all costs which may have been occasioned in compelling his attendance or by reason of his refusal to obey the summons; and
 
-(e) to exercise the powers of a Magistrate’s Court for the purpose of giving effect to a warrant of arrest or an order of imprisonment and of a court under Chapter XXXII of the Criminal Procedure Code (Cap. 68).
+(e) to exercise the powers of a Magistrate’s Court for the purpose of giving effect to a warrant of arrest or an order of imprisonment and of a court under Division 1 of Part XXI of the Criminal Procedure Code 2010.
 
 [15/2010 wef 02/01/2011]
 
@@ -2938,6 +2938,11 @@ This Legislative History is provided for the convenience of users of the Adminis
 ||Date of commencement|1 September 2009 (section 8)|
 |20.|**2009 Revised Edition—Administration of Muslim Law Act**|
 ||Date of operation|31 October 2009|
+|21.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
