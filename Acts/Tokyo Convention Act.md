@@ -96,7 +96,9 @@ and any reference in this Act to an aircraft in flight shall include a reference
 
 Provided that this subsection shall not apply to any act or omission which is expressly or impliedly authorised by or under that law when taking place outside Singapore.
 
-(2) No proceedings for any offence under the law in force in Singapore committed on board an aircraft while in flight elsewhere than in or over Singapore other than an offence under the Air Navigation Act [Cap. 6] or any subsidiary legislation made thereunder shall be instituted in Singapore except by or with the consent of the Attorney-General.
+(2) No proceedings for any offence under the law in force in Singapore committed on board an aircraft while in flight elsewhere than in or over Singapore other than an offence under the Air Navigation Act [Cap. 6] or any subsidiary legislation made thereunder shall be instituted in Singapore except by or with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 (3) Subsection (2) shall not prevent the arrest, or the issue of a warrant for the arrest, of any person in respect of any offence, or the remanding in custody or on bail of any person charged with any offence.
 
@@ -202,7 +204,7 @@ Tokyo Convention Act
 
 (CHAPTER 327)
 
-This Legislative History is provided for the convenience of users of the Tokyo Convention Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Tokyo Convention Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -213,3 +215,9 @@ This Legislative History is provided for the convenience of users of the Tokyo C
 ||Date of commencement|1 January 1972|
 |2.|**1985 Revised Edition—Tokyo Convention Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
