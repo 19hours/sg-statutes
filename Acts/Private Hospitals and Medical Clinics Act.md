@@ -66,6 +66,8 @@ REVISED EDITION 1999
 
 An Act to provide for the control, licensing and inspection of private hospitals, medical clinics, clinical laboratories and healthcare establishments, and for purposes connected therewith.
 
+[6/2004 wef 08/03/2004]
+
 [1st January 1993]
 
 ### Short title
@@ -92,6 +94,8 @@ An Act to provide for the control, licensing and inspection of private hospitals
 
 “dentist” means a person who is duly registered under the Dental Registration Act (Cap. 76);
 
+[22/2007 wef 01/01/2008]
+
 “Director” means the Director of Medical Services;
 
 “healthcare establishment” means any premises or conveyance —
@@ -102,7 +106,13 @@ An Act to provide for the control, licensing and inspection of private hospitals
 
 but does not include a private hospital, medical clinic or clinical laboratory or part thereof, or an establishment or conveyance maintained by the Government or the National University of Singapore;
 
+“healthcare institution” means a clinical laboratory, a healthcare establishment, a medical clinic or a private hospital;
+
+[14/2010 wef 02/01/2011]
+
 “licence” means a licence issued under this Act to use any premises or conveyance as a private hospital, medical clinic, clinical laboratory or healthcare establishment, and “licensed” shall be construed accordingly;
+
+[26/2001 wef 01/09/2001]
 
 “maternity home” means any premises used or intended to be used for the reception of pregnant women or of women immediately after childbirth;
 
@@ -150,13 +160,15 @@ but does not include any such premises —
 
 [19/99]
 
-4\. [Deleted by Act 6/2004 wef 08/03/2004]
+4\. [Repealed by Act 6/2004 wef 08/03/2004]
 
 ### Licences for private hospitals, medical clinics, clinical laboratories and healthcare establishments
 
 5\.—(1) No premises or conveyance shall be used as a private hospital, medical clinic, clinical laboratory or healthcare establishment except under the authority and in accordance with the terms and conditions of a licence issued by the Director.
 
 [19/99]
+
+[26/2001 wef 01/09/2001]
 
 (2) If a private hospital, medical clinic, clinical laboratory or healthcare establishment is not licensed or is used otherwise than in accordance with the terms and conditions of its licence, every person having the management or control thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -204,19 +216,27 @@ but does not include any such premises —
 
 (c) the suitability of the premises or conveyance (including the facilities and equipment therein) to be licensed for use as a private hospital, medical clinic, clinical laboratory or healthcare establishment, as the case may be; and
 
+[26/2001 wef 01/09/2001]
+
 (d) the adequacy of the nursing and other staff that is to be employed at the premises or conveyance to be licensed.
 
 [19/99]
 
+[26/2001 wef 01/09/2001]
+
 (4) For the purpose of subsection (3), the Director, before issuing the licence applied for, may —
 
 (a) inspect the premises or conveyance to be licensed, or cause such premises or conveyance to be inspected by an authorised officer; and
+
+[26/2001 wef 01/09/2001]
 
 (b) require the applicant at his own expense —
 
 (i) to make such alteration or improvement to the premises or conveyance to be licensed; or
 
 (ii) to provide, fix or install such facilities and equipment therein,
+
+[26/2001 wef 01/09/2001]
 
 as the Director may specify.
 
@@ -348,23 +368,29 @@ and in making his decision, the Minister shall have regard to any report made to
 
 [19/99]
 
+[22/2007 wef 01/01/2008]
+
 ### Quality assurance committees
 
-11\.—(1) The licensee of a private hospital or a healthcare establishment shall establish one or more quality assurance committees to —
+11\.—(1) The licensee of a prescribed healthcare institution shall, in accordance with such prescribed requirements as may apply to that healthcare institution, establish one or more quality assurance committees to —
 
-(a) monitor and evaluate the quality and appropriateness of the services provided and the practices and procedures carried out at the private hospital or healthcare establishment ;
+(a) monitor and evaluate the quality and appropriateness of the services provided and the practices and procedures carried out at the prescribed healthcare institution;
 
-(b) identify and resolve problems that may have arisen in connection with any service provided or any practice or procedure carried out at the private hospital or healthcare establishment ;
+(b) identify and resolve problems that may have arisen in connection with any service provided or any practice or procedure carried out at the prescribed healthcare institution;
 
-(c) make recommendations to improve the quality of the services provided and the practices and procedures carried out at the private hospital or healthcare establishment ; and
+(c) make recommendations to improve the quality of the services provided and the practices and procedures carried out at the prescribed healthcare institution; and
 
 (d) monitor the implementation of the recommendations made under paragraph (c).
 
 [19/99]
 
-(2) The licensee of a private hospital or a healthcare establishment shall report to the Director the activities, findings and recommendations of each quality assurance committee of the private hospital or healthcare establishment as and when required by the Director.
+[14/2010 wef 02/01/2011]
+
+(2) The licensee of a prescribed healthcare institution shall report to the Director the activities, findings and recommendations of each quality assurance committee of the prescribed healthcare institution as and when required by the Director.
 
 [19/99]
+
+[14/2010 wef 02/01/2011]
 
 (3) A person who is or was a member of a quality assurance committee is neither competent nor compellable —
 
@@ -378,9 +404,11 @@ and in making his decision, the Minister shall have regard to any report made to
 
 [19/99]
 
-(5) A finding or recommendation by a quality assurance committee as to the need for changes or improvements in relation to any service provided or any practice or procedure carried out at a private hospital or a healthcare establishment is not admissible in any proceedings as evidence that the service, practice or procedure is or was inappropriate or inadequate.
+(5) A finding or recommendation by a quality assurance committee as to the need for changes or improvements in relation to any service provided or any practice or procedure carried out at a prescribed healthcare institution is not admissible in any proceedings as evidence that the service, practice or procedure is or was inappropriate or inadequate.
 
 [19/99]
+
+[14/2010 wef 02/01/2011]
 
 (6) Anything done by a quality assurance committee, a member of a quality assurance committee or any person acting under the direction of a quality assurance committee in good faith for the purposes of the exercise of the quality assurance committee’s functions, does not subject such a member or person personally to any action, liability, claim or demand.
 
@@ -612,11 +640,9 @@ the Director or authorised officer may, by notice, direct the licensee or person
 
 (j) the management, control, superintendence and care of a private hospital, medical clinic, clinical laboratory and healthcare establishment;
 
-(k) the composition, procedures, duties and responsibilities of quality assurance committees of private hospitals and healthcare establishments.
+(k) the healthcare institutions for which quality assurance committees are required to be established, and the composition, procedures, duties and responsibilities which apply to a quality assurance committee of any healthcare institution or class of healthcare institutions.
 
-[17
-
-[19/99]
+[14/2010 wef 02/01/2011]
 
 ## LEGISLATIVE HISTORY
 
@@ -624,7 +650,7 @@ Private Hospitals and Medical Clinics Act
 
 (CHAPTER 248)
 
-This Legislative History is provided for the convenience of users of the Private Hospitals and Medical Clinics Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Private Hospitals and Medical Clinics Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -680,6 +706,11 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 22/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|1 December 2010|
+|12.|**Act 14 of 2010—Coroners Act 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
