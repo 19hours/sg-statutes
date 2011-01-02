@@ -642,7 +642,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 ### Relief from ad valorem stamp duty
 
-15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bc) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
+15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
 
 (a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
 
@@ -653,8 +653,6 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
 [32/2000; 6/2005; 39/2005]
-
-[23/2011 wef 19/02/2010]
 
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
@@ -754,7 +752,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
 
-(b) [Deleted by Act 23/2011 wef 01/04/2010];
+(b) [Deleted by Act23/2011 wef 01/04/2010];
 
 (c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
 
@@ -778,9 +776,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-(5) [Deleted by Act 23/2011 wef 01/04/2010]
+(5) [Deleted by Act23/2011 wef 01/04/2010]
 
-(6) [Deleted by Act 23/2011 wef 01/04/2010]
+(6) [Deleted by Act23/2011 wef 01/04/2010]
 
 (7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
@@ -2200,9 +2198,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Institution and conduct of prosecution
 
-68\.—(1) No prosecution in respect of any offence punishable under this Act shall be instituted without the sanction of either the Commissioner or the Attorney-General.
+68\.—(1) No prosecution in respect of any offence punishable under this Act shall be instituted without the consent of either the Commissioner or the Public Prosecutor.
 
-[33/99;]
+[33/99; 15/2010 wef 02/01/2011]
 
 (2) The Commissioner may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
@@ -2772,7 +2770,7 @@ Instruments Which May be Stamped With Impressed or Adhesive Stamps
 
 Article No.
 
-Nature of the instrument and the reference number thereto in the First Schedule
+Nature of the instrument and the reference number thereto inthe First Schedule
 
 Person required to cancel the adhesive stamp
 
@@ -3289,6 +3287,12 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 24/2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|10 December 2010|
+|53.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second Reading|Date not available.|
+||Date of Third Reading|Date not available.|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
