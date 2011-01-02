@@ -146,7 +146,7 @@
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [64 Sanction for prosecution](#Sanction-for-prosecution)
+- [64 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [65 Conduct of prosecution](#Conduct-of-prosecution)
 
@@ -1161,21 +1161,27 @@ LIABILITY OF CORPORATION AT JURONG PORT
 
 (2) Nothing in this Part shall affect any liability that may be imposed on the Corporation by any written law relating to compensation to employees defined under the Work Injury Compensation Act (Cap. 354).
 
+[5/2008 wef 01/04/2008]
+
 ## PART VI
 
 MISCELLANEOUS
 
-### Sanction for prosecution
+### Consent of Public Prosecutor
 
-64\. No court shall take cognizance of any offence under this Act or any rules or regulations made thereunder except with the sanction of the Public Prosecutor.
+64\. No court shall try any offence under this Act or any rules or regulations made thereunder except with the consent of the Public Prosecutor.
 
 [11/78]
+
+[15/2010 wef 02/01/2011]
 
 ### Conduct of prosecution
 
-65\. Proceedings in respect of any offence under this Act or any rules or regulations made thereunder may be conducted by any officer of the Corporation or any other person authorised in writing in that behalf by the Chairman.
+65\. Proceedings in respect of any offence under this Act or any rules or regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by any officer of the Corporation or any other person authorised in writing in that behalf by the Chairman.
 
 [11/78]
+
+[15/2010 wef 02/01/2011]
 
 ### Service of notices
 
@@ -1306,3 +1312,9 @@ This Legislative History is provided for the convenience of users of the Jurong 
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|21.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
