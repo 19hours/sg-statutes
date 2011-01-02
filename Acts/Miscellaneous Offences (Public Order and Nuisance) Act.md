@@ -140,7 +140,7 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Miscellaneous Offences (Public Order and Nuisance) Act.\**
+1\. This Act may be cited as the Miscellaneous Offences (Public Order and Nuisance) Act.\*
 
 \*Cited as the Minor Offences Act in the 1985 Edition.
 
@@ -758,7 +758,9 @@ is subsequently convicted of an offence punishable under this section shall be l
 
 (9) The police officer making the search or some other police officer shall also take into custody and carry before a Magistrate’s Court every person in such house, building, ship, vessel, boat or other place in whose possession or under whose control such property is found.
 
-(10) Sections 65 and 66 of the Criminal Procedure Code (Cap. 68) shall apply to searches made under subsections (6), (7), (8) and (9).
+(10) Sections 31 and 37 of the Criminal Procedure Code 2010 shall apply to searches made under subsections (6), (7), (8) and (9).
+
+[15/2010 wef 02/01/2011]
 
 ### Secondhand dealers and money-changers to report property stolen or fraudulently obtained
 
@@ -1025,3 +1027,10 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|9 October 2009|
 |||(section 49(1) — consequential amendments to section 5 of the Miscellaneous Offences (Public Order and Nuisance) Act)|
+|46.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|||(item (62) of the Sixth Schedule)|
