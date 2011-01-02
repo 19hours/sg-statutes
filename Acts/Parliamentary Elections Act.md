@@ -764,8 +764,6 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (3) Notwithstanding subsections (1), (1A) and (2), the Registration Officer shall, from time to time, on being informed by the Registrar of Citizens that any person has ceased to be a citizen of Singapore under the provisions of the Constitution, or on being informed by the Registrar-General of Births and Deaths that any person is dead, expunge the name of the person from any register of electors.
 
-[10/2010 wef 01/07/2010]
-
 (4) Notwithstanding anything to the contrary in this Act, the Registration Officer may, at any time after certifying any register of electors for any electoral division, except between the issue of a writ of election under section 24 and polling day appointed for election in that division, remove from the register the name of any person where the Registration Officer has reason to believe that the address of that person as shown in the register has ceased to exist or to be used as his place of residence or his contact address.
 
 [14/2008 wef 03/03/2009]
@@ -1068,8 +1066,6 @@ ELECTIONS
 
 (b) in the case of any other electoral division, no candidate is nominated or returned as elected for that electoral division.
 
-[10/2010 wef 01/07/2010]
-
 ### Nomination papers
 
 27\.—(1) Any person eligible for election as a Member of Parliament in accordance with the provisions of the Constitution may be nominated as a candidate for election.
@@ -1271,8 +1267,6 @@ a certificate issued to him under section 27A(6) certifying that he is a person 
 (2) Any sum required to be deposited under subsection (1) shall be paid in legal tender or by a bank draft or a certified cheque.
 
 (3) If a candidate is not nominated as a candidate for election, if an election in an electoral division has wholly failed or if, after the deposit is made, the candidate withdraws his candidature under section 32, the deposit shall be returned to the person by whom the deposit was made.
-
-[10/2010 wef 01/07/2010]
 
 (3A) If the candidate dies after the deposit is made and before the poll is commenced, the deposit, if made by him, shall be returned to his legal personal representative or, if not made by him, shall be returned to the person by whom the deposit was made.
 
@@ -1476,8 +1470,6 @@ CONTESTED ELECTIONS
 
 (d) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in theGazette(referred to in this Act as polling day);
 
-[10/2010 wef 01/07/2010]
-
 (e) the names of the candidates in the order in which they will be printed on the ballot papers, the symbol allotted to each candidate and the names of their proposers and seconders; and
 
 (f) the situation of the polling stations for that electoral division and the particular polling stations, if any, reserved for female voters.
@@ -1531,8 +1523,6 @@ CONTESTED ELECTIONS
 (c) the day and hours of the poll at every overseas polling station;
 
 (d) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in theGazette(referred to in this Act as polling day);
-
-[10/2010 wef 01/07/2010]
 
 (e) the names of the candidates in each group in the order in which they will be printed on the ballot papers, the symbol allotted to each group of candidates and the names of their proposers and seconders; and
 
@@ -1665,8 +1655,6 @@ as the Returning Officer thinks practicable or suitable as an overseas polling s
 [19/2001]
 
 (3) Unless the Returning Officer, by notification in theGazetteunder this section or section 56C or under section 50C(3)(b), appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
-
-[10/2010 wef 01/07/2010]
 
 [19/2001]
 
@@ -1936,11 +1924,7 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 (4) Where polling at all polling stations established for the purposes of a poll in an electoral division is postponed under section 56C, the conduct of the counting of votes cast for the electoral division shall stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his election agent, shall specify.
 
-[10/2010 wef 01/07/2010]
-
 (5) Where polling at any polling station established for the purposes of a poll in an electoral division is temporarily suspended, adjourned and postponed or abandoned and re-started under section 56C, the conduct of the count in respect of votes cast at the other polling stations for that electoral division at which the poll has closed, shall stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his election agent, shall specify.
-
-[10/2010 wef 01/07/2010]
 
 ### Counting votes
 
@@ -2278,11 +2262,11 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 9 – B,
 
-[10/2010 wef 01/07/2010]
-
 where B
 
 is the total number of Opposition Members elected to Parliament in accordance with section 49(7) or (7A) or 49A(5), as the case may be.
+
+(1A) [Deleted by Act 10/2010 wef 01/07/2010]
 
 (2) Subject to subsection (3A), the non-constituency Member or Members to be declared elected under subsection (1) shall be determined from among the candidates of those political parties (other than the party or parties that will form the Government) contesting the general election on the basis of the percentage of the votes polled at the same general election by such candidates in the following order of priority — the candidate receiving the highest percentage of votes being placed first and the other candidates being placed in descending order in accordance with the percentages of votes polled by them.
 
@@ -2297,8 +2281,6 @@ is the total number of Opposition Members elected to Parliament in accordance wi
 (b) 2 other candidates at the election in the same group representation constituency have been declared to be elected under subsection (3); or
 
 (c) one other candidate at the election in the same electoral division that is not a group representation constituency has been declared to be elected under subsection (3).
-
-[10/2010 wef 01/07/2010]
 
 (3B) Where there is an equality of the percentage of the votes between any candidates and the number of such candidates who are eligible to be declared elected under this section exceeds the number of non-constituency Members to be declared elected, the determination of the candidate or candidates to be declared elected shall be as follows:
 
@@ -2374,7 +2356,7 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 [19/2001]
 
-(5) A prosecution for an offence under this section shall not be instituted without the sanction of the Public Prosecutor.
+(5) A prosecution for an offence under this section shall not be instituted without the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
@@ -2413,8 +2395,6 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 [10/2010 wef 01/07/2010]
 
 POSTPONEMENT AND ADJOURNMENT OF ELECTIONS
-
-[10/2010 wef 01/07/2010]
 
 ### Postponement of nomination day, etc.
 
@@ -2726,31 +2706,21 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (ii) in the case referred to in paragraph (b), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-[10/2010 wef 01/07/2010]
-
 (iii) in the case referred to in paragraph (c), to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both;
-
-[10/2010 wef 01/07/2010]
 
 (iv) in the case referred to in paragraph (d) or (e), to a fine or to imprisonment for a term not exceeding 12 months or to both; or
 
-[10/2010 wef 01/07/2010]
-
 (v) in the case referred to in paragraph (f), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[10/2010 wef 01/07/2010]
 
 (2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
 
 [21/91]
 
-(3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1)(d) and (e) shall not be instituted without the sanction of the Public Prosecutor.
+(3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1)(d) and (e) shall not be instituted without the consent of the Public Prosecutor.
 
 [15/2010 wef 02/01/2011]
 
 (4) Without prejudice to section 57, every offence of undue influence or bribery under section 59 or 60, as the case may be, and every other corrupt practice under subsection (1)(c), (d) or (e) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 (5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
 
@@ -2768,11 +2738,7 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
 
-[10/2010 wef 01/07/2010]
-
 (d) the telephonic or electronic transmission by an individual to another individual of the first-mentioned individual’s own political views, on a non-commercial basis; or
-
-[10/2010 wef 01/07/2010]
 
 (e) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
 
@@ -2804,11 +2770,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (b) the candidate A shall suffer the like incapacity as if any act or default of the sub-agent had been his election agent’s act or default.
 
-[10/2010 wef 01/07/2010]
-
 (7) For the avoidance of doubt, nothing in subsection (6) prevents an election agent of a candidate belonging to a group from authorising in writing more than one sub-agent from among the respective election agents of the other candidates belonging to the same group.
-
-[10/2010 wef 01/07/2010]
 
 (8) The authorisation of a sub-agent under subsection (6) —
 
@@ -2816,15 +2778,11 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (b) may be revoked by whoever is for the time being the election agent.
 
-[10/2010 wef 01/07/2010]
-
 (9) The references in sections 64, 65(1) and (1A), 66, 68 and 69 to an election agent of a candidate (referred to as candidate A) shall, in relation to an election in a group representation constituency, be taken as references to the election agent —
 
 (a) acting by himself; or
 
 (b) acting by the election agent of any other candidate belonging to the same group as candidate A whom the first-mentioned election agent has authorised in writing under subsection (6) to act as his sub-agent in respect of such expenses incurred on account of or in respect of the conduct or management of the election for the candidates as are named in that authority.
-
-[10/2010 wef 01/07/2010]
 
 ### Person convicted of corrupt practice not to be appointed election agent
 
@@ -2867,8 +2825,6 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 (c) any expenses which are paid in accordance with section 68(4) by a person or political party authorised as mentioned in that section; and
 
 (d) any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if the sum is not repaid to him.
-
-[10/2010 wef 01/07/2010]
 
 (3) A person who makes any payment, advance or deposit in contravention of this section or pays in contravention of this section any money so provided as aforesaid shall be guilty of an illegal practice.
 
@@ -2922,11 +2878,7 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent of candidate A.
 
-[10/2010 wef 01/07/2010]
-
 (5) A statement of the particulars of payments made by any person or political party so authorised under subsection (4) shall be sent to the election agent within the time limited by this Act for the sending in of claims, and shall be vouched for by a bill containing the receipt of that person or political party, as the case may be.
-
-[10/2010 wef 01/07/2010]
 
 ### Expenses in excess of maximum to be illegal practice
 
@@ -2980,7 +2932,9 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 (6) The illegal practice and the offence under subsections (1A) and (4), respectively, shall each be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[10/2010 wef 01/07/2010]
+(7) [Deleted by Act 10/2010 wef 01/07/2010]
+
+(8) [Deleted by Act 10/2010 wef 01/07/2010]
 
 ### Certain employment to be illegal
 
@@ -3030,15 +2984,11 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 (d) all unpaid claims, if any, of which every election agent authorised under section 62(6) is aware in respect of which application has been made or is about to be made to an Election Judge or a Judge of the High Court.
 
-[10/2010 wef 01/07/2010]
-
 (2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent which shall be respectively in Forms 19 and 20 in the First Schedule.
 
 [18/2005]
 
 (2A) The consolidated return respecting election expenses shall be signed by the principal election agent and shall be accompanied by a statement made by the principal election agent and every sub-agent authorised under section 62(6), which shall be in Forms 19A and 20A, respectively, in the First Schedule.
-
-[10/2010 wef 01/07/2010]
 
 (3) If the return and statements are not transmitted before the expiration of the time limited for the purpose, the candidate shall not after the expiration of the time sit or vote in Parliament as a Member until either the return and statements have been transmitted or until the date of the allowance of such authorised excuse for failure to transmit them as in this Act mentioned.
 
@@ -3053,8 +3003,6 @@ to a total amount not exceeding that named in the authority, but any excess abov
 [10/2010 wef 01/07/2010]
 
 (4A) If any principal election agent, or any election agent authorised as a sub-agent under section 62(6), fails to comply with the requirements of subsection (1A) or (2A), the principal election agent or election agent, as the case may be, shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
-
-[10/2010 wef 01/07/2010]
 
 (5) In this section, “donation” has the same meaning as in section 3(1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
 
@@ -3092,15 +3040,11 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 77\.—(1) No badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motorcar, truck or other vehicle as political propaganda on polling day or on the eve of polling day at an election.
 
-[10/2010 wef 01/07/2010]
-
 (2) The prohibition under subsection (1) shall not preclude the wearing on his person by a candidate of a badge indicating his affiliation with a political party or a replica of the symbol allotted to him or to the group of candidates to which he belongs under section 34 or 34A, as the case may be.
 
 [10/88]
 
 (3) The offence under subsection (4) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
@@ -3120,8 +3064,6 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 (5) Every offence under such regulations shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[10/2010 wef 01/07/2010]
-
 ### Regulations for other election advertising
 
 78A\.—(1) The Minister may make regulations —
@@ -3139,8 +3081,6 @@ to a total amount not exceeding that named in the authority, but any excess abov
 [31/2001]
 
 (2A) Every offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 (3) For the purposes of this section and any regulations made thereunder —
 
@@ -3178,8 +3118,6 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 (4) Every offence under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[10/2010 wef 01/07/2010]
-
 ### Blackout period for election survey results
 
 78C\.—(1) No person shall publish or permit or cause to be published the results of any election survey during the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election.
@@ -3193,8 +3131,6 @@ to a total amount not exceeding that named in the authority, but any excess abov
 [31/2001]
 
 (2A) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 (3) In this section, “election survey” means an opinion survey of how electors will vote at an election or of the preferences of electors respecting any candidate or group of candidates or any political party or issue with which an identifiable candidate or group of candidates is associated at an election.
 
@@ -3217,8 +3153,6 @@ to a total amount not exceeding that named in the authority, but any excess abov
 [31/2001]
 
 (2A) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 (3) In this section —
 
@@ -3250,21 +3184,19 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 [21/91]
 
-(2) A prosecution for an illegal practice shall not be instituted without the sanction of the Public Prosecutor except that nothing herein shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any illegal practice.
+(2) A prosecution for an illegal practice shall not be instituted without the consent of the Public Prosecutor except that nothing herein shall prevent any police officer from exercising the powers conferred upon him by Division 1 of Part IV (other than section 20) and sections 34, 39, 40, 111, 258, 260, 261 and 280 of the Criminal Procedure Code 2010 in the case of non-seizable offences or from exercising his powers to prevent a continuance of any illegal practice.
 
 [15/2010 wef 02/01/2011]
 
 ### Prohibition of canvassing on polling day and eve of polling day
 
-80\.—(1) No person shall on polling day and the eve of polling day at an election in an electoral division—
+80\.—(1) No person shall on polling day and the eve of polling day at an election in an electoral division —
 
 (a) by word, message, writing or in any other manner endeavour to persuade any person to give or dissuade any person from giving his vote at the election; or
 
 [10/2010 wef 01/07/2010]
 
 (b) visit an elector at his home or place of work for any purpose in connection with the election.
-
-[10/2010 wef 01/07/2010]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -3274,11 +3206,7 @@ to a total amount not exceeding that named in the authority, but any excess abov
 
 (4) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[10/2010 wef 01/07/2010]
-
 (5) For the purposes of this section, any person who, on polling day or on the eve of polling day, enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place of work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1)(a) and (b).
-
-[10/2010 wef 01/07/2010]
 
 ### Restrictions on election meetings
 
@@ -3314,8 +3242,6 @@ unless the Commissioner of Police is notified under section 6 of that Act of the
 
 (b) to otherwise enhance the standing of any such political parties, candidates or groups of candidates with the electorate in connection with the election.
 
-[10/2010 wef 01/07/2010]
-
 ### Prohibition of dissuasion from voting
 
 81\.—(1) No person shall between the day of nomination and polling day (both days being inclusive) at any election, by word, message, writing or in any other manner dissuade or attempt to dissuade any person from giving his vote at the election.
@@ -3327,8 +3253,6 @@ unless the Commissioner of Police is notified under section 6 of that Act of the
 (3) Notwithstanding the provisions of the Criminal Procedure Code relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under subsection (1), the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
 (4) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 ### Undue influence at or near polling station
 
@@ -3354,8 +3278,6 @@ unless the Commissioner of Police is notified under section 6 of that Act of the
 
 (3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[10/2010 wef 01/07/2010]
-
 ### Persons prohibited from conducting election activity
 
 83\.—(1) No person —
@@ -3372,8 +3294,6 @@ shall take part in any election activity.
 
 (1A) An individual who is not a citizen of Singapore shall not knowingly publish or display, or knowingly cause or permit to be published or displayed, any election advertising in or among any electors in an electoral division during the period beginning with the day the writ of election is issued for an election and ending with the start of the eve of polling day at the election.
 
-[10/2010 wef 01/07/2010]
-
 (2) No person shall conduct any election activity unless he is in possession of a written authority signed by a candidate or his election agent in Form 22 or Form 23, as the case may be, in the First Schedule; and such authority shall be issued only on or after the day of nomination.
 
 (3) Every candidate and election agent shall supply particulars in duplicate of all written authorities issued by him under subsection (2) to the Returning Officer, who shall on receipt thereof forward a copy of those particulars to the Commissioner of Police.
@@ -3388,13 +3308,9 @@ shall take part in any election activity.
 
 (7) Every offence under this section for contravening subsection (1), (1A) or (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-[10/2010 wef 01/07/2010]
-
 (8) For the purposes of this section, “election activity” includes any activity which is done for the purpose of promoting or procuring the election of a candidate at any election other than clerical work wholly performed within enclosed premises.
 
 (9) Nothing in this section shall prohibit the carrying out by any prescribed person, or person in a prescribed class of persons, of such type of work as is prescribed, being work that is performed solely pursuant to a contract for service entered into with a person authorised to conduct election activity under this section.
-
-[10/2010 wef 01/07/2010]
 
 ### Unlawful assembly
 
@@ -3415,8 +3331,6 @@ the assembly shall be deemed to be an unlawful assembly as defined in section 14
 [10/2010 wef 01/07/2010]
 
 (3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 EXCUSE FOR CORRUPT AND ILLEGAL PRACTICE
 
@@ -3456,11 +3370,7 @@ and in the circumstances it seems to the Judge, after giving the candidates, the
 
 (a) if the candidate applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent, of the principal election agent appointed for the group of candidates of whom the candidate is one or the sub-agent that his election agent authorised under section 62(6), or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
 
-[10/2010 wef 01/07/2010]
-
 (b) if the election agent of the candidate, or the principal election agent appointed for the group of candidates of whom the candidate is one, or the election agent authorised as a sub-agent under section 62(6), applies to an Election Judge or a Judge of the High Court and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
-
-[10/2010 wef 01/07/2010]
 
 the Judge may, after such notice of the application, and on production of such evidence of the grounds stated in the application, and of the good faith of the application, and otherwise, as to the Judge seems fit, and after giving the other candidates, the Returning Officer and any elector within the electoral division an opportunity of being heard, make such order for allowing an authorised excuse for the failure to transmit such return and statements, or for an error or false statement in such return and statements as to the Judge seems just.
 
@@ -3472,15 +3382,11 @@ the Judge may, after such notice of the application, and on production of such e
 
 (b) unless the person attends and shows cause to the contrary, order him to make the return and statements, or to deliver a statement of the particulars required to be contained in the return, as to the Judge appears just, and to make or deliver them within such time and to such person and in such manner as the Judge may direct, or may order him to be examined with respect to those particulars, and, in default of compliance with that order, the person shall be guilty of an illegal practice.
 
-[10/2010 wef 01/07/2010]
-
 (3) The order may make the allowance conditional upon the making of the return and statements in a modified form or within an extended time, and upon the compliance with such other terms as to the Judge seems best calculated for carrying into effect the objects of this Act.
 
 (4) An order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order.
 
 (5) Where it is proved by the candidate to the Judge that any act or omission of the election agent or principal election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his election agent or principal election agent, as the case may be.
-
-[10/2010 wef 01/07/2010]
 
 (6) The date of the order or, if conditions and terms are to be complied with, the date at which the applicant fully complies with them is referred to in this Act as the date of the allowance of the excuse.
 
@@ -3733,8 +3639,6 @@ GENERAL
 [10/2010 wef 01/07/2010]
 
 (3) The offence under subsection (2) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
-
-[10/2010 wef 01/07/2010]
 
 ### Names of candidates
 
@@ -4306,7 +4210,7 @@ Parliamentary Elections Act
 
 (CHAPTER 218)
 
-This Legislative History is provided for the convenience of users of the Parliamentary Elections Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Parliamentary Elections Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -4550,6 +4454,12 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 4/2010 published on 11 March 2010)|
 ||Date of Second and Third Readings|27 April 2010|
 ||Date of commencement|1 July 2010|
+|63.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
