@@ -98,11 +98,11 @@
 
 - [38 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Office**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Office)
+[**FIRST SCHEDULE Constitution and proceedings of Office**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Office)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**THIRD SCHEDULE Offences under Written Law**](#THIRD-SCHEDULE-Offences-under-Written-Law)
+[**THIRD SCHEDULE Offences under written law**](#THIRD-SCHEDULE-Offences-under-written-law)
 
 [**Legislative History**](#Legislative-History)
 
@@ -390,11 +390,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-119A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Office under this Act, or of any capital injection or other investment by the Government in the Office in accordance with any written law, the Office shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+\*19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Office under this Act, or of any capital injection or other investment by the Government in the Office in accordance with any written law, the Office shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 29/07/2002]
+[5/2002]
 
-1This section was not in operation as at 30th June 2002.
+\*This section was not in operation as at 30th June 2002.
 
 ### Other financial provisions
 
@@ -514,7 +514,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Office
 
-34\.—(1) Proceedings in respect of an offence under this Act or under any written law set out in the Third Schedule may be conducted by an officer of the Office who is authorised in writing in that behalf by the Chief Executive.
+34\.—(1) Proceedings in respect of an offence under this Act or under any written law set out in the Third Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Office who is authorised in writing in that behalf by the Chief Executive.
+
+[15/2010 wef 02/01/2011]
 
 (2) Notwithstanding the provisions of any written law, a legal officer of the Office who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
 
@@ -556,7 +558,7 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Office
+Constitution and proceedings of Office
 
 Appointment of Chairman and members
 
@@ -660,7 +662,7 @@ SECOND SCHEDULE
 
 Section 20
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
@@ -730,7 +732,7 @@ THIRD SCHEDULE
 
 Sections 30(1), 34(1) and 35
 
-Offences under Written Law
+Offences under written law
 
 1\. Sections 9, 10, 33, 34, 99, 100 and 101 of the Patents Act (Cap. 221); and rules made under section 104 of that Act.
 
@@ -746,7 +748,7 @@ Intellectual Property Office of Singapore Act
 
 (CHAPTER 140)
 
-This Legislative History is provided for the convenience of users of the Intellectual Property Office of Singapore Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Intellectual Property Office of Singapore Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -780,3 +782,9 @@ This Legislative History is provided for the convenience of users of the Intelle
 |||(Bill No. 16/2009 published on 18 August 2009)|
 ||Date of Second and Third Readings|15 September 2009|
 ||Date of commencement|31 December 2009|
+|7.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
