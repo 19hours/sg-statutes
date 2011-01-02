@@ -314,6 +314,8 @@ POSTAL AUTHORITY
 
 3\. The Info-communications Development Authority of Singapore shall be the Postal Authority responsible for the administration of this Act.
 
+[34/2007 wef 24/08/2007]
+
 ### Functions and duties of Postal Authority
 
 3A\.—(1) It shall be the function and duty of the Postal Authority —
@@ -394,6 +396,8 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
 
 4\.—(1) As from 1st December 1999 and subject to this Act, the Postal Authority shall have the exclusive privilege of conveying from one place to another letters and performing all incidental services of receiving, collecting, sorting, sending, despatching and delivering letters.
 
+[34/2007 wef 24/08/2007]
+
 (2) Subject to the provisions of this Act, no person shall convey within Singapore any letter from one place to another (whether the place is within or outside Singapore), or perform such incidental services of receiving, collecting, sorting, sending, despatching and delivering letters, unless the person —
 
 (a) is the Postal Authority;
@@ -409,6 +413,8 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
 5\.—(1) The privilege conferred by section 4 shall not be infringed by —
 
 (a) letters not exceeding 3 in number sent by a person for delivery by the person to another without hire, reward or other profit for receiving, carrying or delivering the letters;
+
+[34/2007 wef 24/08/2007]
 
 (b) any letter solely concerning the affairs of either correspondent by an employee of either correspondent;
 
@@ -470,6 +476,8 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 
 (5) The grant of licences under this section shall be at the discretion of the Postal Authority.
 
+(6) [Deleted by Act 34/2007 wef 24/08/2007]
+
 (7) Anything done under and in accordance with a licence granted under subsection (1) shall not constitute an infringement of the privilege conferred by section 4.
 
 ### Designation of public postal licensees
@@ -483,6 +491,8 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 (2) Before making modifications to the conditions of a licence of a postal licensee under this section, the Postal Authority shall give notice to the licensee —
 
 (a) stating that it proposes to make the modifications in the manner as specified in the notice;
+
+[34/2007 wef 24/08/2007]
 
 (aa) stating the compensation payable for any damage caused by the modifications proposed, where the postal licensee is a public postal licensee; and
 
@@ -498,9 +508,13 @@ on such terms and conditions as may be agreed to by the licensee and such other 
 
 and, in either event, the Postal Authority shall thereupon issue a direction in writing to such licensee requiring that effect be given to the proposed modifications specified in the notice or to such modifications as subsequently amended by the Postal Authority within a reasonable time.
 
+(4) [Deleted by Act 34/2007 wef 24/08/2007]
+
 (5) The Postal Authority shall not enforce its direction —
 
 (a) during the period referred to in section 56; and
+
+[34/2007 wef 24/08/2007]
 
 (b) whilst the appeal of the postal licensee is under consideration by the Minister.
 
@@ -528,6 +542,8 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.
 
+[34/2007 wef 24/08/2007]
+
 (2) Where the Postal Authority is satisfied that —
 
 (a) the person who is granted a postal licence is again likely to contravene, whether by act or omission, any condition, provision, direction or section referred to in subsection (1);
@@ -548,6 +564,8 @@ the Postal Authority may, in lieu of an order or a financial penalty under subse
 
 [34/2007 wef 24/08/2007]
 
+(3) [Deleted by Act 34/2007 wef 24/08/2007]
+
 (4) An order under subsection (1)(i) —
 
 (a) shall require the person concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the order or are of a description so specified therein;
@@ -556,7 +574,11 @@ the Postal Authority may, in lieu of an order or a financial penalty under subse
 
 (c) may be revoked at any time by the Postal Authority.
 
+[34/2007 wef 24/08/2007]
+
 (5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[34/2007 wef 24/08/2007]
 
 (6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
@@ -572,6 +594,8 @@ the Postal Authority may, in lieu of an order or a financial penalty under subse
 
 (2) Where the Postal Authority undertakes the provision of postal services under subsection (1), sections 2, 10, 10A, 11, 12, 13, 18 to 21, 23, 27 to 34, 36 to 38, 40 to 44, 57 and 58 shall apply, with the necessary modifications, to the Postal Authority in respect of the provision of such services and the references to public postal licensees or postal licensees in those sections shall be read as references to the Postal Authority.
 
+[34/2007 wef 24/08/2007]
+
 ### Charges and other terms for services provided by Postal Authority
 
 10A\.—(1) The Postal Authority may make, in relation to any service provided by the Postal Authority under this Act, a scheme or schemes for determining either or both of the following:
@@ -580,19 +604,11 @@ the Postal Authority may, in lieu of an order or a financial penalty under subse
 
 (b) the other terms and conditions which, except as provided, are to be applicable to the service.
 
-[34/2007 wef 24/08/2007]
-
 (2) A scheme made under this section may make different provision for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.
-
-[34/2007 wef 24/08/2007]
 
 (3) A charge exigible by virtue of this section may be recovered by the Postal Authority in any court of competent jurisdiction as if it were a simple contract debt.
 
-[34/2007 wef 24/08/2007]
-
 (4) A scheme or any amendment thereof made under this section shall come into operation on such date as may be determined by the Postal Authority.
-
-[34/2007 wef 24/08/2007]
 
 (5) Nothing in this section shall be construed as prohibiting the Postal Authority from levying any charge or collecting any dues for anything done or any service rendered by reason only of not being incorporated in a scheme and the rates, charges and fees payable to the Postal Authority for any service rendered shall be in accordance with such rates, charges and fees as may, from time to time, be determined by the Postal Authority.
 
@@ -619,6 +635,8 @@ POSTAL SERVICES AND SYSTEMS
 13\. All postal articles received from outside Singapore may be examined while in the custody of a postal licensee by the Director-General of Customs or any senior officer of customs, and may be opened by an employee of the licensee in the presence of the Director-General of Customs or the senior officer of customs for the purpose of the examination.
 
 [4/2003 wef 01/04/2003]
+
+[34/2007 wef 24/08/2007]
 
 ### Forfeiture of postal articles
 
@@ -738,9 +756,9 @@ to keep at all times the lawful access to the letter box clear from any obstruct
 
 (2) The detention of a postal article under subsection (1) shall not exempt the sender from any proceedings which might have been taken if the postal article had been delivered in due course of post.
 
-[34/2007 wef 24/08/2007]
-
 (3) Any postal article sent in contravention of this Act or any regulations made thereunder shall be destroyed, returned to the sender or dealt with in such other manner as the Postal Authority may direct.
+
+[34/2007 wef 24/08/2007]
 
 (4) The Postal Authority may, by order in writing, direct a postal licensee to detain and open all or any postal articles sent by any person or persons named in the order who are reasonably suspected of sending postal articles by post in contravention of this Act.
 
@@ -842,6 +860,8 @@ with respect to all or any of the following:
 
 and shall consider any representations or objections which are duly made.
 
+(4) [Deleted by Act 34/2007 wef 24/08/2007]
+
 (5) Every postal licensee shall comply with every direction of the Postal Authority given to the licensee under this section.
 
 ### Advisory guidelines
@@ -912,11 +932,7 @@ CONTROL OVER DESIGNATED POSTAL LICENSEES
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act, but does not include a treasury share.
 
-[34/2007 wef 24/08/2007]
-
 (2) In relation to a designated postal licensee the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the designated postal licensee having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
-
-[34/2007 wef 24/08/2007]
 
 (3) The Postal Authority may, by notification published in theGazette, vary or revoke any declaration of a designated postal licensee.
 
@@ -930,15 +946,9 @@ CONTROL OVER DESIGNATED POSTAL LICENSEES
 
 (b) first controls 5% or more but less than 12% of the voting power in the designated postal licensee.
 
-[34/2007 wef 24/08/2007]
-
 (2) Subject to subsection (4), no person shall, whether through a series of transactions over a period of time or otherwise, become a 12% controller or a 30% controller of a designated postal licensee without obtaining the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.
 
-[34/2007 wef 24/08/2007]
-
 (3) No person shall enter into any other transaction that constitutes a consolidation with a designated postal licensee without obtaining the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.
-
-[34/2007 wef 24/08/2007]
 
 (4) To the extent that the holding of any shares or control of any voting power in a designated postal licensee under subsection (2) constitutes a consolidation with that designated postal licensee, the person and the designated postal licensee shall, in addition to the approval required under that subsection, obtain the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.
 
@@ -947,8 +957,6 @@ CONTROL OVER DESIGNATED POSTAL LICENSEES
 ### Power to issue code of practice relating to control of designated postal licensee
 
 26C\.—(1) Without prejudice to the generality of section 24, the Postal Authority may issue a code of practice under that section which specifies such matters as are generally necessary for carrying out the purposes and provisions of this Part and for the due administration thereof.
-
-[34/2007 wef 24/08/2007]
 
 (2) Without prejudice to the generality of subsection (1), the Postal Authority may specify in the code of practice —
 
@@ -978,8 +986,6 @@ CONTROL OVER DESIGNATED POSTAL LICENSEES
 
 (referred to in this section as the specified person), in contravention of section 26B(2), (3) or (4), or that the holding, control, acquisition or consolidation is likely to substantially lessen competition or is against the public interest, the Postal Authority may issue a direction under subsection (3) or (4), as the case may be.
 
-[34/2007 wef 24/08/2007]
-
 (2) The Postal Authority may issue a direction under subsection (3) or (4) if the Postal Authority is satisfied that —
 
 (a) any condition of written approval imposed on the person under section 26B has not been complied with;
@@ -989,8 +995,6 @@ CONTROL OVER DESIGNATED POSTAL LICENSEES
 (c) the Postal Authority would not have granted its written approval under section 26B had it been aware, at that time, of circumstances relevant to the person’s application for such approval,
 
 and the existing holding, control, acquisition or consolidation in the designated postal licensee by the person is likely to substantially lessen competition or is against the public interest.
-
-[34/2007 wef 24/08/2007]
 
 (3) The Postal Authority may, under the circumstances specified in subsection (1)(a) or (b) or (2), direct —
 
@@ -1004,27 +1008,15 @@ and the existing holding, control, acquisition or consolidation in the designate
 
 (b) any specified person or an associate of the specified person to transfer or dispose of all or any part of the specified shares within such time and subject to such conditions as the Postal Authority considers appropriate.
 
-[34/2007 wef 24/08/2007]
-
 (4) The Postal Authority may, under the circumstances specified in subsection (1) or (2), direct any specified person to transfer or dispose of all or any part of the business acquired from the designated postal licensee within such time and subject to such conditions as the Postal Authority considers appropriate.
-
-[34/2007 wef 24/08/2007]
 
 (5) Before issuing a direction to any person under subsection (3) or (4), the Postal Authority shall, unless the Postal Authority decides that it is not practicable or desirable to do so, cause to be given to that person notice in writing of the Postal Authority’s intention to serve the direction, specifying a date by which that person may make written representations with regard to the proposed direction.
 
-[34/2007 wef 24/08/2007]
-
 (6) Upon receipt of any written representation referred to in subsection (5), the Postal Authority shall consider it for the purpose of determining whether to issue the direction.
-
-[34/2007 wef 24/08/2007]
 
 (7) Any person to whom a direction is given under subsection (3) or (4) shall comply with the direction and the direction shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated postal licensee.
 
-[34/2007 wef 24/08/2007]
-
 (8) The Postal Authority may vary or revoke any direction issued under this section.
-
-[34/2007 wef 24/08/2007]
 
 (9) Where a person is alleged to have contravened section 26B(2), (3) or (4), it shall be a defence for the person to prove that —
 
@@ -1046,11 +1038,7 @@ but it shall not be a defence for the person to prove that he did not intend to 
 
 and the designated postal licensee shall comply with that direction within such time as may be specified in the notice.
 
-[34/2007 wef 24/08/2007]
-
 (2) The Postal Authority may, by notice in writing, require any shareholder of a designated postal licensee to inform the Postal Authority whether he holds that interest as a beneficial owner or trustee, and if he holds the interest as a trustee, to indicate so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest.
-
-[34/2007 wef 24/08/2007]
 
 (3) Any person who —
 
@@ -1070,15 +1058,9 @@ shall be guilty of an offence and shall be liable on conviction —
 
 26F\.—(1) No designated postal licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors unless it has obtained the prior written approval of the Postal Authority.
 
-[34/2007 wef 24/08/2007]
-
 (2) Where a person has been appointed by a designated postal licensee as its chief executive officer, its director, or the chairman of its board of directors without the prior written approval of the Postal Authority in contravention of subsection (1), the Postal Authority may issue a direction to the licensee to remove that person as its chief executive officer, its director or the chairman of its board of directors, as the case may be.
 
-[34/2007 wef 24/08/2007]
-
 (3) This section shall have effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated postal licensee.
-
-[34/2007 wef 24/08/2007]
 
 (4) In this section —
 
@@ -1104,15 +1086,11 @@ and includes any person for the time being performing all or any of the function
 
 the Minister may issue a written order to the relevant person, the postal licensee or both, directing the relevant person or that postal licensee or both to do all or anything specified in subsection (2).
 
-[34/2007 wef 24/08/2007]
-
 (2) A written order under subsection (1) may direct a relevant person, a postal licensee or both to do all or any of the following:
 
 (a) to transfer or dispose of all the assets, business or shares acquired by the relevant person in the postal licensee concerned, within such time and subject to such conditions as the Minister considers appropriate;
 
 (b) to transfer or dispose of any part of the assets, business or shares acquired by the relevant person in the postal licensee concerned only in such circumstances as the Minister considers appropriate.
-
-[34/2007 wef 24/08/2007]
 
 (3) If a written order containing any direction specified in subsection (2)(a) or (b) concerning any shares in a postal licensee is issued, then notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the postal licensee, the following shall apply for so long as those shares are not transferred or disposed of in accordance with the direction:
 
@@ -1122,15 +1100,11 @@ the Minister may issue a written order to the relevant person, the postal licens
 
 (c) no payment shall be made by the postal licensee of any amount (whether by way of dividends or otherwise) in respect of those shares unless the postal licensee has the prior and express permission of the Minister to do so or the payment is upon the winding up of the postal licensee.
 
-[34/2007 wef 24/08/2007]
-
 (4) Before issuing any written order under subsection (1), the Minister shall, unless he decides that it is not practicable or desirable to do so —
 
 (a) give notice to the relevant person or postal licensee, as the case may be, of the proposed written order; and
 
 (b) consider any written representation made in accordance with the notice in paragraph (a) and not withdrawn.
-
-[34/2007 wef 24/08/2007]
 
 (5) The notice in subsection (4)(a) shall state —
 
@@ -1138,11 +1112,7 @@ the Minister may issue a written order to the relevant person, the postal licens
 
 (b) the period within which written representations may be made in relation to the proposed written order.
 
-[34/2007 wef 24/08/2007]
-
 (6) Any person to whom a written order is issued under subsection (1) shall comply with the written order, and the written order shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the postal licensee.
-
-[34/2007 wef 24/08/2007]
 
 (7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction —
 
@@ -1155,8 +1125,6 @@ the Minister may issue a written order to the relevant person, the postal licens
 ### Regulations for carrying out this Part
 
 26H\.—(1) The Postal Authority may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the purposes of this Part.
-
-[34/2007 wef 24/08/2007]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may prescribe —
 
@@ -1189,6 +1157,8 @@ shall be guilty of an offence.
 (a) to prevent or obstruct the transmission or delivery of any postal article;
 
 (b) to intercept or to acquaint himself with the contents of any postal article; or
+
+[34/2007 wef 24/08/2007]
 
 (c) to commit mischief,
 
@@ -1256,11 +1226,15 @@ shall be guilty of an offence.
 
 (b) commits theft in respect of or dishonestly misappropriates or secretes any postal article or anything contained therein;
 
-(c) except in obedience to an order under the hand of the Minister or the direction of a court , wilfully opens or causes to be opened contrary to his duty any mail bag or postal article, or wilfully detains or delays or causes to be detained or delayed the mail bag or postal article; or
+(c) except in obedience to an order under the hand of the Minister or the direction of a court or the requirement by the Public Prosecutor under section 20 of the Criminal Procedure Code 2010, wilfully opens or causes to be opened contrary to his duty any mail bag or postal article, or wilfully detains or delays or causes to be detained or delayed the mail bag or postal article; or
+
+[15/2010 wef 02/01/2011]
 
 (d) issues or causes to be issued a document specified for use in connection with the remittance of money with fraudulent intent,
 
 shall be guilty of an offence.
+
+[34/2007 wef 24/08/2007]
 
 (2) Any officer, employee or agent of a postal licensee who —
 
@@ -1271,6 +1245,8 @@ shall be guilty of an offence.
 (c) being entrusted with the delivery of any postal article, knowingly demands or receives any sum of money which is not chargeable under this Act,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[34/2007 wef 24/08/2007]
 
 (3) Subsection (1) shall apply only to postal articles which an officer, employee or agent of a postal licensee has access to in the course of his employment as an officer, employee or agent of the postal licensee.
 
@@ -1303,6 +1279,8 @@ shall be guilty of an offence.
 (a) any indecent or obscene article or any postal article having any words, marks or designs of an indecent, obscene, seditious, scurrilous, threatening or grossly offensive character;
 
 (b) anything which is likely to damage any postal article in the course of transmission by post or any postal equipment or injure any employee or agent of a postal licensee; or
+
+[34/2007 wef 24/08/2007]
 
 (c) except as otherwise provided by any regulations made under this Act, any explosive, inflammable, dangerous, filthy, noxious or deleterious substance, any sharp instrument not properly protected or any living creature which is noxious or likely to damage any postal article in the course of transmission by post or any postal equipment or to injure any employee or agent of a postal licensee,
 
@@ -1406,7 +1384,11 @@ the Minister may, after consultation with the Postal Authority or any postal lic
 
 (4) The Postal Authority and any postal licensee shall give effect to any directions given to it under subsection (1) or (2) notwithstanding any other duty imposed on the Postal Authority or that licensee by or under this Act.
 
+[34/2007 wef 24/08/2007]
+
 (5) The Postal Authority and any postal licensee shall not disclose any directions given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
+
+[34/2007 wef 24/08/2007]
 
 (6) The Minister may make grants to postal licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any provision of this section.
 
@@ -1521,8 +1503,6 @@ and may search any person so arrested, except that no female shall be searched e
 ### No costs or damages or other relief arising from seizure to be recoverable unless seizure without reasonable or probable cause
 
 50\.—(1) No person shall, in any proceedings before any court in respect of any equipment, article, book or document seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the equipment, article, book or document or the payment of their value unless the seizure was made without reasonable or probable cause.
-
-[34/2007 wef 24/08/2007]
 
 (2) In this section, “document” has the same meaning as in section 46(8).
 
@@ -1684,6 +1664,8 @@ which is due to the act or default of another person, or an accident or some oth
 
 (h) the manner of receiving, delivering, collecting and distributing mail bags and postal articles, including facilitating access for postal licensees to letter boxes;
 
+[34/2007 wef 24/08/2007]
+
 (i) the conditions and restrictions for the payment of indemnity for the loss of or damage to postal articles where indemnity is payable under this Act;
 
 (j) the registration of postal articles and the cases where insurance of postal articles may be required;
@@ -1740,27 +1722,34 @@ Postal Services Act
 
 (CHAPTER 237A)
 
-This Legislative History is provided for the convenience of users of the Postal Services Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Postal Services Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 42 of 1999—Postal Services Act 1999**|
-||Date of First Reading|11.10.99|
-|||(Bill No. 34/99 published on 12.10.99)|
-||Date of Second and Third Readings|23.11.99|
-||Date of commencement|1.12.99|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 34/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
 |2.|**2000 Revised Edition—Postal Services Act**|
 ||Date of operation|30 December 2000|
 |3.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2003|
-|||(Bill No. 6/2003 published on 4 April 2003)|
+|||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
 |4.|**Act 34 of 2007—Postal Services (Amendment) Act 2007**|
 ||Date of First Reading|21 May 2007|
-|||(Bill No. 22/2007 published on 24 August 2007)|
+|||(Bill No. 22/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|16 July 2007|
 ||Date of commencement|24 August 2007|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Postal Services Act
@@ -1775,17 +1764,17 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 Act 42 of 1999 
 
-9 — (1) and (2)
+9 —(1) and (2)
 
-9 — (1)
+9 —(1)
 
 (3) to (7)
 
 (2) to (6)
 
-29 — (3) and (4)
+29 —(3) and (4)
 
-29 — (3)
+29 —(3)
 
 (5)
 
@@ -1799,9 +1788,9 @@ Act 42 of 1999
 
 (6)
 
-32 — (1) and (2)
+32 —(1) and (2)
 
-32 — (1)
+32 —(1)
 
 (3)
 
@@ -1811,19 +1800,19 @@ Act 42 of 1999
 
 (3)
 
-41 — (1) and (2
+41 —(1) and (2
 
 41 
 
-44 — (1) and (2)
+44 —(1) and (2)
 
 44 
 
-53 — (1) and (2)
+53 —(1) and (2)
 
 53
 
 Omitted
 
-62 — (2)
+62 —(2)
 
