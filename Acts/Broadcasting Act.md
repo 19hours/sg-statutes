@@ -1454,7 +1454,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Conduct of proceedings by officers
 
-55\. Proceedings in respect of any offence under this Act may be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
+55\. Proceedings in respect of any offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
 
 [68
 
@@ -1815,6 +1815,11 @@ This Legislative History is provided for the convenience of users of the Broadca
 ||Date of commencement|1 October 2010|
 |15.|**G. N. No. S 549/2012—Broadcasting Act (Amendment of First Schedule) Notification 2012**|
 ||Date of commencement|1 January 2011|
+|16.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010) published on 26 April 2010)|
+||Date of Second and Third Reading|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
