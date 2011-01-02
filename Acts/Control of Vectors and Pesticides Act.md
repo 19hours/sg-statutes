@@ -1104,13 +1104,17 @@ MISCELLANEOUS
 
 [4/2002]
 
-(3) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court under section 136 of the Criminal Procedure Code (Cap. 68).
+(3) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court under section 153 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 (4) If a person, upon whom such a notice has been served, fails to appear before a court in accordance therewith, the court shall thereupon issue a warrant for the arrest of that person.
 
 (5) Upon a person arrested in pursuance of a warrant issued under subsection (4) being produced before a court, the court shall —
 
-(a) proceed as though he were produced under section 136 of the Criminal Procedure Code; and
+(a) proceed as though he were produced under section 153 of the Criminal Procedure Code 2010; and
+
+[15/2010 wef 02/01/2011]
 
 (b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and, if cause is not shown, may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
@@ -1316,7 +1320,7 @@ Control of Vectors and Pesticides Act
 
 (CHAPTER 59)
 
-This Legislative History is provided for the convenience of users of the Control of Vectors and Pesticides Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Control of Vectors and Pesticides Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1338,6 +1342,12 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of First Reading|6 February 2004 (Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
+|6.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Control of Vectors and Pesticides Act
@@ -1514,5 +1524,7 @@ Omitted
 
 61 
 
-62 (Transitional provision) of the National Environment Agency Act 2002 (Act 4/2002)
+62 
+
+(Transitional provision) of the National Environment Agency Act 2002 (Act 4/2002)
 
