@@ -124,45 +124,9 @@
 
 - [41 Appeal not to operate as stay of execution](#Appeal-not-to-operate-as-stay-of-execution)
 
-[**Part V CRIMINAL JURISDICTION OF COURT OF APPEAL**](#Part-V)
+[**Part V**](#Part-V)
 
-- [42 Interpretation of this Part](#Interpretation-of-this-Part)
-
-- [43 (Repealed)](#Repealed)
-
-- [44 Jurisdiction to hear and determine criminal appeals](#Jurisdiction-to-hear-and-determine-criminal-appeals)
-
-- [45 Notice of appeal](#Notice-of-appeal)
-
-- [46 Record of proceedings](#Record-of-proceedings)
-
-- [47 Petition of appeal](#Petition-of-appeal)
-
-- [48 Procedure where appellant is in prison](#Procedure-where-appellant-is-in-prison)
-
-- [49 Transmission of papers to respondent](#Transmission-of-papers-to-respondent)
-
-- [50 Appeals out of time and formal defects](#Appeals-out-of-time-and-formal-defects)
-
-- [51 Appeal not to operate as stay of execution](#Appeal-not-to-operate-as-stay-of-execution)
-
-- [52 Summary rejection of appeal](#Summary-rejection-of-appeal)
-
-- [53 Notice and time of hearing](#Notice-and-time-of-hearing)
-
-- [54 Powers of Court of Appeal](#Powers-of-Court-of-Appeal)
-
-- [55 Additional evidence](#Additional-evidence)
-
-- [56 Judgment](#Judgment)
-
-- [57 Judgment to be certified to trial court](#Judgment-to-be-certified-to-trial-court)
-
-- [58 Public Prosecutor’s signature](#Public-Prosecutor’s-signature)
-
-- [59 Point reserved in trial for Court of Appeal](#Point-reserved-in-trial-for-Court-of-Appeal)
-
-- [60 Reference to Court of Appeal of criminal matter determined by High Court in exercise of its appellate or revisionary jurisdiction](#Reference-to-Court-of-Appeal-of-criminal-matter-determined-by-High-Court-in-exercise-of-its-appellate-or-revisionary-jurisdiction)
+[**[42. to 60.Repealed by Act 15/2010 wef 02/01/2011]**](#[42-to-60Repealed-by-Act-15/2010-wef-02/01/2011])
 
 [**Part VI OFFICERS AND OFFICES**](#Part-VI)
 
@@ -352,9 +316,27 @@ THE SUPREME COURT
 
 (2) The court shall have power to hear any matter or proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so.
 
-(3) A court may at any time order that no person shall publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness.
+(2A) A court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
 
-(4) Any person who acts in contravention of any order under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+(a) the name, address or photograph of any witness; or
+
+(b) any evidence or any other thing likely to lead to the identification of such witness by a person other than the party to that matter or proceeding,
+
+which is contained in any court document intended to be produced before the court, be removed or be sufficiently redacted.
+
+[15/2010 wef 02/01/2011]
+
+(3) A court may at any time order that no person shall —
+
+(a) publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness; or
+
+(b) do any other act which is likely to lead to the identification of such a witness.
+
+[15/2010 wef 02/01/2011]
+
+(4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[15/2010 wef 02/01/2011]
 
 ## PART III
 
@@ -486,6 +468,8 @@ Original Jurisdiction
 
 [16/93]
 
+[30/2010 wef 01/01/2011]
+
 (2) Without prejudice to the generality of subsection (1), the High Court shall have such jurisdiction as is vested in it by any other written law.
 
 [16/93]
@@ -594,9 +578,13 @@ Appellate Jurisdiction of the High Court
 
 20\. The appellate civil jurisdiction of the High Court shall consist of —
 
+(a) [Deleted by Act 30/2010 wef 01/01/2011]
+
 (b) the hearing of appeals from District Courts and Magistrates’ Courts when exercising jurisdiction of a quasi-criminal or civil nature; and
 
 (c) the hearing of appeals from other tribunals as may from time to time be prescribed by any written law.
+
+[30/2010 wef 01/01/2011]
 
 ### Appeals from District and Magistrates’ Courts
 
@@ -698,7 +686,11 @@ Further Arguments
 
 (b) the expiration of 14 days after the date the judgment or order is made.
 
+[30/2010 wef 01/01/2011]
+
 (2) After hearing further arguments, the Judge may affirm, vary or set aside the judgment or order.
+
+[30/2010 wef 01/01/2011]
 
 (3) If any request for further arguments has been made under subsection (1) —
 
@@ -714,7 +706,11 @@ Further Arguments
 
 (ii) certifies, or is deemed to have certified, that he requires no further arguments.
 
+[30/2010 wef 01/01/2011]
+
 (4) For the avoidance of doubt, a party to the hearing may, but is not required to, request for further arguments before he files a notice of appeal in respect of the judgment or order.
+
+[30/2010 wef 01/01/2011]
 
 ## PART IV
 
@@ -794,9 +790,11 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 (b) an appeal against a conviction before him or a sentence passed by him; or
 
-(c) the consideration of any point reserved by him under section 59.
+(c) the consideration of any case stated by him under section 395 of the Criminal Procedure Code 2010.
 
 [16/93]
+
+[15/2010 wef 02/01/2011]
 
 (3A) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of an application to discharge or vary any direction or order made by him under section 36(1).
 
@@ -853,6 +851,10 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 (a) where a Judge makes an order specified in the Fourth Schedule, except in such circumstances as may be specified in that Schedule;
 
 [30/2010 wef 01/01/2011]
+
+(b) [Deleted by Act 30/2010 wef 01/01/2011]
+
+(c) [Deleted by Act 30/2010 wef 01/01/2011]
 
 (d) where the judgment or order is made by consent of the parties; or
 
@@ -948,271 +950,7 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 ## PART V
 
-CRIMINAL JURISDICTION OF COURT OF APPEAL
-
-### Interpretation of this Part
-
-42\.—(1) In this Part, unless the context otherwise requires, “appellant” includes the Public Prosecutor when he appeals under this Part against the acquittal of any person by the High Court or against the sentence imposed on any person convicted by the High Court in the exercise of its original criminal jurisdiction.
-
-[58/73; 16/93]
-
-(2) This Part relates to the Court of Appeal in the exercise of its criminal jurisdiction.
-
-[16/93]
-
-Constitution of Court of Criminal Appeal
-
-43\. [Repealed by Act 16 of 1993]
-
-### Jurisdiction to hear and determine criminal appeals
-
-44\.—(1) An appeal by a person convicted shall be either against the conviction or against the sentence or against both.
-
-[58/73]
-
-(2) Where an accused person has pleaded guilty and been convicted on such plea, there shall be no appeal except as to the extent or legality of the sentence.
-
-[58/73]
-
-(3) An appeal by the Public Prosecutor shall be either against the acquittal of an accused person or against the sentence imposed upon an accused person by the High Court.
-
-[58/73]
-
-(4) An appeal may lie on a question of fact or a question of law or on a question of mixed fact and law.
-
-[58/73]
-
-(5) The Court of Appeal shall also have jurisdiction to hear and determine matters brought before it in accordance with section 59 or 60.
-
-[58/73; 16/93]
-
-### Notice of appeal
-
-45\.—(1) Every appeal shall be by notice in writing which shall be filed with the Registrar within 14 days after the date on which the decision appealed against was given.
-
-(2) Every notice of appeal shall —
-
-(a) state shortly the substance of the judgment appealed against;
-
-(b) contain an address at which any notice or document connected with the appeal may be served upon the appellant or upon his advocate and solicitor; and
-
-(c) except where such notice of appeal is given orally under section 48, shall be signed by the appellant or his advocate and solicitor.
-
-### Record of proceedings
-
-46\.—(1) When a notice of appeal has been filed, the trial Judge shall, if he has not already written his judgment, record in writing the grounds of his decision, and such written judgment or grounds of decision shall form part of the record of the proceedings.
-
-[58/73]
-
-(2) As soon as possible after notice of appeal has been filed, the Registrar shall cause to be served on the appellant or his advocate and solicitor at his address for service specified under section 45(2)(b) a notice that a copy of the record is available and can be had on applying for the same and on payment of the prescribed fee.
-
-[17/2005]
-
-### Petition of appeal
-
-47\.—(1) Within 10 days after service of the notice referred to in section 46(2), the appellant shall file with the Registrar a petition of appeal and 5 copies thereof addressed to the Court of Appeal.
-
-[16/93]
-
-(2) Every petition of appeal shall be signed by the appellant or his advocate and solicitor and shall contain particulars of the matters of law or of fact in regard to which the trial court is alleged to have erred.
-
-(3) Except by leave of the Court of Appeal, the appellant shall not be permitted, on the hearing of the appeal, to rely on any ground of appeal other than those set forth in the petition.
-
-[16/93]
-
-(4) If a petition is not filed within the time prescribed by this section, the appeal shall be deemed to have been withdrawn.
-
-(5) Nothing in subsection (4) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
-
-[16/93]
-
-### Procedure where appellant is in prison
-
-48\.—(1) If the appellant is in prison, he shall be deemed to have complied with the requirements of sections 45 and 47 if he gives to the officer-in-charge of the prison, either orally or in writing, notice of appeal and the particulars required to be included in the petition of appeal within the times prescribed by those sections.
-
-(2) Such officer shall immediately forward such notice and petition or the purport thereof to the Registrar.
-
-### Transmission of papers to respondent
-
-49\.—(1) The Registrar shall as soon as practicable furnish the respondent or his advocate and solicitor with a copy of the proceedings in the case and a copy of the notice of appeal and of the petition of appeal.
-
-[58/73]
-
-(2) Where the High Court is informed that the Public Prosecutor intends to appeal against the acquittal of an accused person, the Court may, on the application of the Public Prosecutor, order that the accused person be remanded in custody for a period not exceeding 48 hours pending the filing of the notice of appeal by the Public Prosecutor.
-
-[16/93]
-
-(3) When an appeal is presented against an acquittal, the High Court may issue a warrant directing that the accused person shall be arrested and brought before it and may commit him to prison pending the disposal of the appeal or admit him to bail.
-
-[58/73]
-
-### Appeals out of time and formal defects
-
-50\. The Court of Appeal may, in its discretion, on the application of any person desirous of appealing who may be debarred from so doing by reason of his not having observed some formality or some requirement of this Act, permit an appeal upon such terms and with such directions as it may consider desirable in order that substantial justice may be done in the matter, and may, for that purpose, extend any period of time prescribed by section 45 or 47.
-
-[16/93]
-
-### Appeal not to operate as stay of execution
-
-51\.—(1) Except in the cases mentioned in subsection (4), no appeal shall operate as a stay of execution.
-
-(2) The trial court or the Court of Appeal may stay execution on any judgment, order, conviction or sentence pending appeal on such terms as to security for the payment of any money or the performance or non-performance of any act or the suffering of any punishment ordered by or in such judgment, order, conviction or sentence as to the court may seem reasonable.
-
-[16/93]
-
-(3) If the appellant is ultimately sentenced to imprisonment, the time during which the execution of the sentence was stayed shall be excluded in computing the term of his sentence unless the Court of Appeal otherwise orders.
-
-[16/93]
-
-(4) In the case of a conviction involving sentence of death or corporal punishment —
-
-(a) the sentence shall not in any case be executed until after the expiration of the time within which notice of appeal may be given under section 45, or any extension of time which may be permitted under section 50; and
-
-(b) if notice is so given, the sentence shall not be executed until after the determination of the appeal.
-
-### Summary rejection of appeal
-
-52\.—(1) Where the grounds of appeal do not raise any question of law and it appears to the Chief Justice and 2 other Judges of Appeal that the evidence is sufficient to support the conviction and that there is no material in the circumstances of the case which could raise a reasonable doubt whether the conviction was right or lead the Court of Appeal to consider that the sentence ought to be reduced, the appeal may, without being set down for hearing, be summarily rejected by an order under the hand of the Chief Justice, certifying that the said Judges of Appeal, having perused the record, are satisfied that the appeal has been brought without any sufficient ground of complaint.
-
-[16/93]
-
-(2) Notice of the rejection shall be served upon the appellant.
-
-(3) If, in any case rejected under subsection (1), the appellant gives, within 7 days of service of notice of the rejection upon him, notice to the Registrar of application for leave to amend his grounds of appeal so as to raise a question of law, accompanied by a certificate signed by an advocate and solicitor specifying the question to be raised and undertaking to argue it, the Court of Appeal may grant leave to amend accordingly and shall restore the appeal for hearing.
-
-[16/93]
-
-(4) For the purposes of subsection (3), the question whether a sentence ought to be reduced shall be deemed not to be a question of law.
-
-### Notice and time of hearing
-
-53\. If the Court of Appeal does not reject the appeal summarily under section 52, it shall cause notice to be given to the appellant or his advocate and solicitor and to the Public Prosecutor of the time and place at which the appeal will be heard.
-
-[58/73; 16/93]
-
-### Powers of Court of Appeal
-
-54\.—(1) At the hearing of an appeal, the Court of Appeal shall hear the appellant or his advocate and solicitor, if he appears, and, if it thinks fit, the respondent or his advocate and solicitor, if he appears, and may hear the appellant or his advocate and solicitor in reply.
-
-[16/93]
-
-(2) The Court of Appeal may thereupon confirm, reverse or vary the decision of the trial court, or may order a retrial or may remit the matter with the opinion of the Court of Appeal thereon to the trial court, or may make such other order in the matter as it may think just, and may by such order exercise any power which the trial court might have exercised.
-
-[16/93]
-
-(3) The Court of Appeal may, notwithstanding that it is of opinion that the point raised in the appeal might be decided in favour of the appellant, dismiss the appeal if it considers that no substantial miscarriage of justice has occurred.
-
-[16/93]
-
-(4) At the hearing of an appeal, the Court of Appeal may, if it thinks that a different sentence should have been passed, quash the sentence passed by the trial court and pass such other sentence warranted in law (whether more or less severe) in substitution therefor as it thinks ought to have been passed.
-
-[16/93]
-
-(5) The Court of Appeal shall in no case make any order under this section as to payment of costs of any appeal to or by the appellant or respondent.
-
-[16/93]
-
-### Additional evidence
-
-55\.—(1) In dealing with any appeal, the Court of Appeal may, if it thinks additional evidence is necessary, either take such evidence itself or direct it to be taken by the trial court.
-
-[16/93]
-
-(2) When such additional evidence is taken by the trial court, it shall certify such evidence, with a statement of its opinion on the case considered with regard to the additional evidence, to the Court of Appeal, and the Court of Appeal shall thereupon proceed to dispose of the appeal.
-
-[16/93]
-
-(3) The parties to the appeal shall be present when such additional evidence is taken.
-
-(4) In dealing with any appeal, the Court of Appeal may also, if it thinks fit, call for and receive from the trial court a report of any matter connected with the trial.
-
-[16/93]
-
-### Judgment
-
-56\.—(1) On the termination of the hearing of an appeal, the Court of Appeal shall, either at once or on some future day which is then appointed for the purpose or of which notice is subsequently given to the parties, deliver judgment in open court.
-
-[16/93]
-
-(2) The Court of Appeal shall ordinarily give only one judgment, which may be pronounced by the presiding Judge of Appeal or by such other member of the Court as the presiding Judge of Appeal may direct.
-
-[16/93]
-
-(3) Separate judgments shall be delivered if the presiding Judge of Appeal so directs.
-
-[16/93]
-
-(4) The judgment of any member of the Court of Appeal who is absent may be read by any other Judge of Appeal.
-
-[16/93]
-
-### Judgment to be certified to trial court
-
-57\.—(1) The Court of Appeal shall certify its judgment or order to the trial court.
-
-[16/93]
-
-(2) The trial court shall thereupon make such orders as are conformable to the judgment or order of the Court of Appeal, and, if necessary, the record shall be amended in accordance therewith.
-
-[16/93]
-
-(3) Upon the withdrawal or discontinuance of any appeal, the Registrar shall notify the trial court accordingly and, if any stay of execution has been granted, the sentence or order of the trial court shall immediately be enforced.
-
-(4) Nothing in subsection (3) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
-
-[16/93]
-
-### Public Prosecutor’s signature
-
-58\.—(1) In the case of an appeal by the Public Prosecutor under this Part, the notice of appeal shall be signed by that officer only.
-
-[58/73]
-
-(2) No fee shall be payable by nor any security be required from the Public Prosecutor.
-
-[58/73]
-
-### Point reserved in trial for Court of Appeal
-
-59\.—(1) When any person has in a trial before the High Court in the exercise of its original criminal jurisdiction been convicted of an offence, the Judge may, if he thinks fit, reserve for the decision of the Court of Appeal any question of law which has arisen in the course of the trial of such person and the determination of which would affect the event of the trial.
-
-[16/93]
-
-(2) The person so convicted shall thereupon be remanded to prison or, if the Judge thinks fit, be admitted to bail.
-
-(3) The Court of Appeal shall review such case, or such part of it as may be necessary, and finally determine the question and thereupon may alter the sentence passed and pass such sentence or give or make such judgment or order as it thinks fit.
-
-[16/93]
-
-(4) When any person has, in a trial before the High Court acting in the exercise of its original criminal jurisdiction, been convicted of an offence and the Public Prosecutor is of opinion that any point or points of law arising on the trial which has or have not been reserved under this section ought to be further considered, the Public Prosecutor may certify accordingly under his hand.
-
-[16/93]
-
-(5) Thereupon the Court of Appeal may review the case or such part of it as is necessary and finally determine the point or points of law and thereupon may alter the sentence passed and pass such judgment and sentence as the Court of Appeal thinks fit in like manner as though the point or points of law had been reserved under subsection (1).
-
-[16/93]
-
-### Reference to Court of Appeal of criminal matter determined by High Court in exercise of its appellate or revisionary jurisdiction
-
-60\.—(1) When a criminal matter has been determined by the High Court in the exercise of its appellate or revisionary jurisdiction, the Judge may on the application of any party, and shall on the application of the Public Prosecutor, reserve for the decision of the Court of Appeal any question of law of public interest which has arisen in the matter and the determination of which by the Judge has affected the case.
-
-[43/98]
-
-(2) An application under subsection (1) shall be made within one month or such longer time as the Court of Appeal may permit of the determination of the matter to which it relates and in the case of an application by the Public Prosecutor shall be made by him or with his written consent.
-
-[43/98]
-
-(3) When a question has been reserved under subsection (1), the Judge who has reserved the question may make such orders as he may see fit for the arrest, custody or release on bail of any party in the case.
-
-[43/98]
-
-(4) The Court of Appeal shall hear and determine the question reserved under subsection (1) and may make such orders as the High Court might have made as the Court of Appeal may consider just for the disposal of the case.
-
-[43/98]
-
-(5) For the purposes of this section, any question of law which the Public Prosecutor applies to be reserved or regarding which there is a conflict of judicial authority shall be deemed to be a question of public interest.
-
-[43/98]
+[42. to 60.Repealed by Act 15/2010 wef 02/01/2011]
 
 ## PART VI
 
@@ -1386,13 +1124,17 @@ List of Touts
 
 ### Vexatious litigants
 
-74\.—(1) If, on an application made by the Attorney-General, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground instituted vexatious legal proceedings, in any court or subordinate court, whether against the same person or against different persons, the High Court may, after hearing that person or giving him an opportunity of being heard, order that —
+74\.—(1) If, on an application made by the Attorney-General, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground instituted vexatious legal proceedings in any court or subordinate court, whether against the same person or against different persons, the High Court may, after hearing that person or giving him an opportunity of being heard, order that —
 
 (a) no legal proceedings shall without the leave of the High Court be instituted by him in any court or subordinate court; and
 
 (b) any legal proceedings instituted by him in any court or subordinate court before the making of the order shall not be continued by him without such leave, and such leave shall not be given unless the High Court is satisfied that the proceedings are not an abuse of the process of the court and that there is prima facie ground for the proceedings.
 
+[30/2010 wef 01/01/2011]
+
 (2) If the person against whom an order is sought under subsection (1) satisfies the High Court that he lacks the means to retain an advocate and solicitor, the High Court shall assign one to him.
+
+[30/2010 wef 01/01/2011]
 
 (3) No appeal shall lie from an order under subsection (1) refusing leave for institution or continuance of legal proceedings.
 
@@ -1415,6 +1157,8 @@ Disabilities of Registrar and other officers
 (ii) carrying on any business either directly or indirectly; and
 
 (b) shall not accept any fees of office, perquisites, emoluments or advantages, other than his salary and allowances.
+
+[30/2010 wef 01/01/2011]
 
 (2) Without prejudice to the generality of subsection (1), the Registrar, the Deputy Registrar and an Assistant Registrar may, with the approval of the Chief Justice —
 
@@ -1534,6 +1278,8 @@ Rules of Court
 
 [3/96]
 
+[4/2010 wef 17/02/2010]
+
 (4) At any meeting of the Rules Committee, 5 members shall form a quorum and all questions shall be decided by a majority of votes of the members present and voting.
 
 (5) No Rules of Court shall be made without the consent of the Chief Justice.
@@ -1584,7 +1330,11 @@ then, if any such action or application that has been commenced or made before t
 
 83\.—(1) The Minister may, after consulting the Chief Justice, by order published in theGazette, amend the Third, Fourth or Fifth Schedule.
 
+[30/2010 wef 01/01/2011]
+
 (2) An order under subsection (1) may contain such transitional and savings provisions as may appear to the Minister, after consulting the Chief Justice, to be necessary or expedient.
+
+[30/2010 wef 01/01/2011]
 
 FIRST SCHEDULE
 
@@ -1698,7 +1448,7 @@ Section 69
 
 I,..................................................................................................................., having been appointed to the office of .............................................................................................. do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability and I will be faithful and bear true allegiance to the Republic of Singapore.
 
-Taken and subscribed before me at this day of
+Taken and subscribed before me at this day of .
 
 Officer Administering the Oath
 
@@ -1706,7 +1456,7 @@ Officer Administering the Oath
 
 I, ..........................................................................................................., having been appointed an Interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the ........................................ language into the English language and from the English language into the ........................................ language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
 
-Taken and subscribed before me at ........................ this .................. day of ........................... .
+Taken and subscribed before me at ................ this .................. day of ................. .
 
 Officer Administering the Oath
 
@@ -1714,9 +1464,11 @@ Officer Administering the Oath
 
 I,...................................................................., having been appointed to the office of ......................................... in the Supreme Court do solemnly and sincerely swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, nor will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.
 
-Taken and subscribed before me at ........................ this ............. day of .......................... .
+Taken and subscribed before me at ..................... this ............. day of ................. .
 
 Officer Administering the Oath
+
+[16/93]
 
 THIRD SCHEDULE
 
@@ -1966,6 +1718,12 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 25/2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|1 January 2011|
+|27.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (item 106 of the Sixth Schedule — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
