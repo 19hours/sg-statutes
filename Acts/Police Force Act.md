@@ -998,7 +998,9 @@ the commission of a service offence shall be guilty of the service offence.
 
 (2) A police officer referred to in subsection (1) shall, on conviction of a disciplinary offence for which no penalty is expressly provided for in this Act, be liable to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) No prosecution under this section shall be instituted without the previous sanction in writing of the Public Prosecutor.
+(3) No prosecution under this section shall be instituted without the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 [Police Force 1985 Ed., s. 30]
 
@@ -1188,9 +1190,13 @@ shall not cease to be subject to this Act by reason only of his being so tempora
 
 (ii) bring criminal proceedings against the police officer or special police officer, as the case may be, in that territory.
 
-(2) No information shall be laid against any police officer or special police officer over whom jurisdiction is claimed by virtue of subsection (1) without the consent of the Attorney-General.
+(2) No information shall be laid against any police officer or special police officer over whom jurisdiction is claimed by virtue of subsection (1) without the consent of the Public Prosecutor.
 
-(3) If any police officer or special police officer is alleged to have committed an offence in respect of which the laying of information requires the consent of the Attorney-General under subsection (2), the police officer or special police officer concerned may be arrested and detained in custody or remanded in custody or on bail, even though the consent of the Attorney-General has not been obtained to the making of such complaint in respect of that offence, but no further proceedings shall be taken until that consent is obtained.
+[15/2010 wef 02/01/2011]
+
+(3) If any police officer or special police officer is alleged to have committed an offence in respect of which the laying of information requires the consent of the Public Prosecutor under subsection (2), the police officer or special police officer concerned may be arrested and detained in custody or remanded in custody or on bail, even though the consent of the Public Prosecutor has not been obtained to the making of such complaint in respect of that offence, but no further proceedings shall be taken until that consent is obtained.
+
+[15/2010 wef 02/01/2011]
 
 (4) If any police officer or special police officer to whom this section applies does, or omits to do, any act outside Singapore, and that act or omission would, if it occurred in Singapore, be a disciplinary offence for the purposes of this Act —
 
@@ -1490,7 +1496,9 @@ Discipline in Special Constabulary
 
 (2) A special police officer referred to in subsection (1) shall on conviction of a disciplinary offence be liable to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) No prosecution under this section shall be instituted without the previous sanction in writing of the Public Prosecutor.
+(3) No prosecution under this section shall be instituted without the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Disciplinary proceedings after conviction
 
@@ -2802,6 +2810,12 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|7.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (Item 76 of the Sixth Schedule –– Amendment of Police Force Act)|
 ## COMPARATIVE TABLE
 
 Police Force Act
