@@ -1360,6 +1360,14 @@ POWERS OF INVESTIGATION
 
 87\. In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation of a seizable offence.
 
+(1) In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation of a seizable offence.
+
+[15/2010 wef 02/01/2011]
+
+(2) For the purposes of subsection (1), when a provost officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the provost officer shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
+
 ## PART IX
 
 DEDUCTIONS FROM PAY OF A MEMBER
@@ -1771,6 +1779,12 @@ This Legislative History is provided for the convenience of users of the Civil D
 ||Date of commencement|1 April 1995|
 |6.|**2001 Revised Edition—Civil Defence Act**|
 ||Date of operation|31 July 2001|
+|7.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Civil Defence Act
