@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II transfer of functions, property, liabilities and employees to authority**](#Part-II)
+[**Part II TRANSFER OF FUNCTIONS, PROPERTY, LIABILITIES AND EMPLOYEES TO AUTHORITY**](#Part-II)
 
 - [3 Interpretation of this Part](#Interpretation-of-this-Part)
 
@@ -64,7 +64,7 @@
 
 - [25 Power of arrest](#Power-of-arrest)
 
-- [26 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [26 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [27 (Repealed)](#Repealed)
 
@@ -116,7 +116,7 @@ PRELIMINARY
 
 ## PART II
 
-transfer of functions, property, liabilities and employees to authority
+TRANSFER OF FUNCTIONS, PROPERTY, LIABILITIES AND EMPLOYEES TO AUTHORITY
 
 ### Interpretation of this Part
 
@@ -141,8 +141,6 @@ transfer of functions, property, liabilities and employees to authority
 ### Transfer to Authority of property, assets and liabilities
 
 5\.—(1) As from 1st October 2002, such movable and immovable property vested in the Board as may be determined by the Minister and all assets, interests, rights, privileges, liabilities and obligations of the Board shall be transferred to and shall vest in the Authority without further assurance, act or deed.
-
-[6
 
 [25/2002]
 
@@ -202,7 +200,7 @@ transfer of functions, property, liabilities and employees to authority
 
 ### Existing contracts
 
-8\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st October 2002 which the Board is a party shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board.
+8\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st October 2002 to which the Board is a party shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board.
 
 [7
 
@@ -210,7 +208,7 @@ transfer of functions, property, liabilities and employees to authority
 
 ### Continuation and completion of disciplinary proceedings
 
-9\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Board transferred to the service of the Authority under section 6, the proceedings shall be carried on and completed by the Authority.
+9\.—(1) Where on 1st October 2002 any disciplinary proceedings were pending against any employee of the Board transferred to the service of the Authority under section 6, the proceedings shall be carried on and completed by the Authority.
 
 [25/2002]
 
@@ -376,7 +374,7 @@ CURRENCY
 
 [11/82; 3/91; 25/2002]
 
-(3) Mutilated currency notes or coins, or curency notes or coins that have been illegally dealt with, shall be repossessed by any officer of the Authority or other person authorised by the Authority when tendered to the Authority or such person, as the case may be.
+(3) Mutilated currency notes or coins, or currency notes or coins that have been illegally dealt with, shall be repossessed by any officer of the Authority or other person authorised by the Authority when tendered to the Authority or such person, as the case may be.
 
 [3/91; 47/98; 25/2002]
 
@@ -427,6 +425,8 @@ CURRENCY
 (b) the issue and demonetisation of currency notes and coins and the transaction of any business relating to such currency; and
 
 (c) the protection of currency notes and coins against forgery or counterfeiting.
+
+[25/2002]
 
 (4) Subject to this Act, the Currency Fund shall not be applied for any other purpose.
 
@@ -536,13 +536,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [11/82]
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-26\. No prosecution for any offence under this Act shall be instituted without the sanction of the Public Prosecutor.
+26\. No prosecution for any offence under this Act shall be instituted without the consent of the Public Prosecutor.
 
 [33
 
 [47/98]
+
+[15/2010 wef 02/01/2011]
 
 27\. [Deleted by Act 24/2003 wef 01/01/2004]
 
@@ -558,13 +560,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 29\.—(1) On 1st October 2002 —
 
-(a) the Board of Commissioners of Currency, Singapore (referred to this section as the Board) shall be dissolved;
+(a) the Board of Commissioners of Currency, Singapore (referred to in this section as the Board) shall be dissolved;
 
 (b) currency notes and coins issued by the Board before 1st October 2002 shall for all purposes be deemed to have been issued by the Authority;
 
 (c) the reserves accumulated by the Board before the current term of office of the Government shall be added to the reserves accumulated by the Authority before such term; and
 
-(d) all assets and moneys of the Currency Reserve Fund shall be transferred to Currency Fund.
+(d) all assets and moneys of the Currency Reserve Fund shall be transferred to the Currency Fund.
 
 [25/2002]
 
@@ -580,7 +582,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [25/2002]
 
-(5) Where in any document any reference is made to the Boardof Commissioners of Currency, Singapore, such reference shall, as from 1st October 2002, be read as the Monetary Authority of Singapore.
+(5) Where in any document any reference is made to the Board of Commissioners of Currency, Singapore, such reference shall, as from 1st October 2002, be read as the Monetary Authority of Singapore.
 
 [25/2002]
 
@@ -677,6 +679,12 @@ This Legislative History is provided for the convenience of users of the Currenc
 |||(Bill No. 1/2007 published on 23 January 2007)|
 ||Date of Second and Third Readings|12 February 2007|
 ||Date of commencement|30 June 2007|
+|20.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Currency Act
