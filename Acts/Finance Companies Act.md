@@ -1505,6 +1505,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 19/2008 published on 25 August 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|20 October 2008|
+|19.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
