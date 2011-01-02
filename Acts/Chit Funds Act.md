@@ -138,7 +138,7 @@
 
 - [57 Offences triable in District Court](#Offences-triable-in-District-Court)
 
-- [58 Consent of Attorney-General](#Consent-of-Attorney-General)
+- [58 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [59 Offences by directors, managing directors or managers](#Offences-by-directors-managing-directors-or-managers)
 
@@ -418,7 +418,7 @@ Formation and essential terms and conditions
 
 ### Essential terms and conditions of a chit fund
 
-24\.—(1) Every agreement made under section 23 shall contain all the following terms and conditions with the actual amounts, dates and other particulars necessary in each case:
+24\.—(1) Every agreement made under section 23 shall contain all the following terms and conditions with the actual amounts. dates and other particulars necessary in each case:
 
 (a) that the chit fund shall be for a specific amount and for a specified number of subscribers only;
 
@@ -718,7 +718,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Winding up provisions
 
-53\.—(1) Without prejudice to the provisions of the Companies Act —
+53\.—(1) Without prejudice to the provisions of the Companies Act (Cap. 50) —
 
 (a) a chit fund company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Minister; and
 
@@ -756,9 +756,11 @@ MISCELLANEOUS PROVISIONS
 
 57\. Notwithstanding the provisions of any other written law, offences under this Act or any regulations made thereunder may be tried in a District Court which shall have the power to impose the maximum penalty prescribed for any offence under this Act.
 
-### Consent of Attorney-General
+### Consent of Public Prosecutor
 
-58\. No prosecution in respect of any offence under this Act or the regulations made thereunder shall be instituted except with the consent of the Attorney-General.
+58\. No prosecution in respect of any offence under this Act or the regulations made thereunder shall be instituted except with the consent of the Public Prosecutor.
+
+[Act 15 of 2010 wef 02/01/2011]
 
 ### Offences by directors, managing directors or managers
 
@@ -770,7 +772,7 @@ MISCELLANEOUS PROVISIONS
 
 shall be guilty of an offence and shall in respect of each offence be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) In proceedings against a person under subsection (1), it shall be a defence to prove that he had reasonable grounds to believe and did in fact believe that a competent and reliable persons was charged with the duty of securing compliance with the provisions of those laws or with the duty of ensuring that those statements were accurate and that that person was in a position to discharge that duty.
+(2) In proceedings against a person under subsection (1), it shall be a defence to prove that he had reasonable grounds to believe and did in fact believe that a competent and reliable person was charged with the duty of securing compliance with the provisions of those laws or with the duty of ensuring that those statements were accurate and that that person was in a position to discharge that duty.
 
 (3) A person shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court, he committed the offence wilfully.
 
@@ -820,13 +822,24 @@ This Legislative History is provided for the convenience of users of the Chit Fu
 |:-|:-|:-|
 |1.|**Act 28 of 1971—Chit Funds Act 1971**|
 ||Date of First Reading|19 October 1971|
-|||(Bill No. 21/71)|
+|||(Bill No. 21/71 published on 25 October 1971)|
 ||Date of Second and Third Readings|2 December 1971|
 ||Date of commencement|14 January 1972|
-|2.|**1985 Revised Edition—Chit Funds Act (Chapter 39)**|
-||Date of operation|30 March 1987]|
-|3.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|2.|**Act 31 of 1972—Monetary Authority of Singapore (Amendment) Act 1972**|
+||Date of First Reading|24 October 1972|
+|||(Bill No. 36/72 published on 25 October 1972)|
+||Date of Second and Third Readings|3 November 1972|
+||Date of commencement|22 December 1972|
+|3.|**1985 Revised Edition—Chit Funds Act (Chapter 39)**|
+||Date of operation|30 March 1987|
+|4.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
-|||(Bill No. 30/2005)|
+|||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
-||Date of commencement|1 April 2006|
+||Date of commencement|1 April 2006 (item (7) of the First Schedule — amendment to Chit Funds Act)|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 20 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
