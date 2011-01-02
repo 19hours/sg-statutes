@@ -3294,7 +3294,9 @@ CASINO TAX
 
 A – B,
 
-where A
+where
+
+A
 
 is the aggregate of the amount of net wins received on all games conducted by the casino operator or conducted within the casino premises of the casino operator; and
 
@@ -4160,6 +4162,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Any inspector or authorised person who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of a seizable offence under this Act or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
 
+(2A) For the purposes of subsection (2), when an inspector or authorised person who is not a police officer is exercising the powers of a police officer under that subsection, he shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
+
 (3) For the purposes of this section, offences punishable with imprisonment for 3 years or upwards and an offence under section 179 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code.
 
 ### Refusal to give name and residence
@@ -4861,3 +4867,8 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26th April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19th May 2010|
+||Date of commencement|2nd January 2011|
