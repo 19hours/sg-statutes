@@ -44,7 +44,7 @@
 
 - [16 Penalty for breach of restraining order](#Penalty-for-breach-of-restraining-order)
 
-- [17 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [17 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [18 Decisions under Act not justiciable](#Decisions-under-Act-not-justiciable)
 
@@ -280,9 +280,11 @@ he may make a restraining order against him.
 
 (2) Notwithstanding the provisions of any written law to the contrary, a District Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-17\. No court shall take cognizance of any offence under this Act except with the consent of the Public Prosecutor.
+17\. No court shall try any offence under this Act except with the consent of the Public Prosecutor.
+
+[Act 15 of 2010 wef 02/01/2011]
 
 ### Decisions under Act not justiciable
 
@@ -304,7 +306,7 @@ Maintenance of Religious Harmony Act
 
 (CHAPTER 167A)
 
-This Legislative History is provided for the convenience of users of the Maintenance of Religious Harmony Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Maintenance of Religious Harmony Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -335,6 +337,12 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|7.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Maintenance of Religious Harmony Act
