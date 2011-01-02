@@ -58,7 +58,7 @@
 
 - [19 Post-election donation reports and declarations](#Post-election-donation-reports-and-declarations)
 
-[**Part IV Obligations OF CERTAIN DONORS**](#Part-IV)
+[**Part IV OBLIGATIONS OF CERTAIN DONORS**](#Part-IV)
 
 - [20 Donations on behalf of others](#Donations-on-behalf-of-others)
 
@@ -78,7 +78,7 @@
 
 - [27 Composition of offences](#Composition-of-offences)
 
-- [28 Sanction to prosecute](#Sanction-to-prosecute)
+- [28 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [29 Monitoring powers of Registrar](#Monitoring-powers-of-Registrar)
 
@@ -98,7 +98,7 @@
 
 - [35 Saving](#Saving)
 
-[**THE SCHEDULE Details to be Given in Donation Reports**](#THE-SCHEDULE)
+[**THE SCHEDULE Details to be given in donation reports**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -124,7 +124,7 @@ PRELIMINARY
 
 ### Short title
 
-1\.—(1) This Act may be cited as the Political Donations Act.
+1\. This Act may be cited as the Political Donations Act.
 
 ### Interpretation
 
@@ -400,7 +400,9 @@ within a period of 30 days beginning with the date when the donation is so recei
 
 (9) Where any amount forfeited by an order of the District Court under subsection (1) or an order of the High Court under subsection (3) where there is an appeal, is not paid in compliance with the terms of the order, the District Court or High Court, as the case may be, may, on the application of the Public Prosecutor, issue a warrant for the levy of the amount forfeited against any property belonging to the political association concerned.
 
-(10) Such a warrant may be executed in the same manner as a warrant for the levy of the amount of a fine under section 224(b)(iii) of the Criminal Procedure Code (Cap. 68).
+(10) Such a warrant may be executed in the same manner as a warrant for the levy of the amount of a fine under section 319(1)(b)(iii) of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 (11) Where any amount recovered under any warrant issued under subsection (9) is in excess of the amount forfeited under this section, the balance shall be returned to the political association concerned.
 
@@ -520,7 +522,9 @@ within a period of 30 days beginning with the date when the donation is so recei
 
 (8) Where any amount forfeited by an order of the District Court under subsection (1) or an order of the High Court under subsection (3) where there is an appeal, is not paid in compliance with the terms of the order, the District Court or High Court, as the case may be, may, on the application of the Public Prosecutor, issue a warrant for the levy of the amount forfeited against any property belonging to the candidate or election agent concerned.
 
-(9) Such a warrant may be executed in the same manner as a warrant for the levy of the amount of a fine under section 224(b)(iii) of the Criminal Procedure Code (Cap. 68).
+(9) Such a warrant may be executed in the same manner as a warrant for the levy of the amount of a fine under section 319(1)(b)(iii) of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 (10) Where any amount recovered under any warrant issued under subsection (8) is in excess of the amount forfeited under this section, the balance shall be returned to the candidate or election agent concerned.
 
@@ -602,7 +606,7 @@ shall also accompany the donation report and declaration of the candidate and pr
 
 ## PART IV
 
-Obligations OF CERTAIN DONORS
+OBLIGATIONS OF CERTAIN DONORS
 
 ### Donations on behalf of others
 
@@ -744,9 +748,11 @@ shall also be guilty of an offence and shall be liable to be proceeded against a
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
-### Sanction to prosecute
+### Consent of Public Prosecutor
 
-28\. No prosecution for any offence under this Act shall be instituted without the sanction of the Public Prosecutor.
+28\. No prosecution for any offence under this Act shall be instituted without the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Monitoring powers of Registrar
 
@@ -858,7 +864,7 @@ until after the last day prescribed by section 74(1) of the Parliamentary Electi
 
 Sections 9(1), 12(1), 15(1), 18(1), 19(1), 21(2) and 22(2) and (3)
 
-Details to be Given in Donation Reports
+Details to be given in donation reports
 
 Identity of donors
 
@@ -910,7 +916,7 @@ Political Donations Act
 
 (CHAPTER 236)
 
-This Legislative History is provided for the convenience of users of the Political Donations Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Political Donations Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -928,9 +934,15 @@ This Legislative History is provided for the convenience of users of the Politic
 ||Date of operation|31 December 2001|
 |4.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
 ||Date of First Reading|20 March 2003|
-|||(Bill No. 7/2003 published on 16 May 2003)|
+|||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Political Donations Act
