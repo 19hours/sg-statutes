@@ -502,7 +502,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Conduct of legal proceedings
 
-23\. Proceedings in respect of any offence under the provisions of this Act or any regulations made thereunder may be conducted by any officer of the Board or any other person authorised in writing in that behalf by the Chief Executive.
+23\. Proceedings in respect of any offence under the provisions of this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by any officer of the Board or any other person authorised in writing in that behalf by the Chief Executive.
 
 [22
 
@@ -679,3 +679,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|13.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
