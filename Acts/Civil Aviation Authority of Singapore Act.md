@@ -194,7 +194,7 @@
 
 - [78 Obstructing employee, etc., of Authority](#Obstructing-employee-etc-of-Authority)
 
-- [79 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [79 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [80 Power to remove persons, etc., and arrest](#Power-to-remove-persons-etc-and-arrest)
 
@@ -767,12 +767,7 @@ shall disclose any information relating to the affairs of the Authority or of an
 
 ## PART III
 
-TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND
-
-
-
-
-EMPLOYEES TO SUCCESSOR COMPANY
+TRANSFER OF PROPERTIES, RIGHTS, LIABILITIES AND EMPLOYEES TO SUCCESSOR COMPANY
 
 ### Transfer date
 
@@ -1516,12 +1511,7 @@ to provide the Minister with all such information as he may require (whether for
 
 ## PART V
 
-RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF
-
-
-
-
-AIRPORT LICENSEES
+RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF AIRPORT LICENSEES
 
 Division 1 —
 
@@ -1737,7 +1727,7 @@ and includes any person for the time being performing any or all of the function
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“designated business trust” means a business trust that is established wholly or partly in respect of an airport (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated business trust for the purposes of this Part;
+“designated business trust” means a business trust that is established wholly or partly in respect of an airport (or any part thereof) and which has been declared by the Authority, by notification in the Gazette, to be a designated business trust for the purposes of this Part;
 
 “director” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -2199,9 +2189,11 @@ MONITORING AND ENFORCEMENT POWERS
 
 in the performance and execution of any matter or thing which he is authorised to do by this section or under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-79\. No court shall take cognizance of any offence under this Act or any regulations or rules except with the sanction of the Public Prosecutor.
+79\. No court shall try any offence under this Act or any regulations or rules except with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Power to remove persons, etc., and arrest
 
@@ -2345,7 +2337,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-85\. (1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
+85\.—(1) The Chief Executive, or any employee of the Authority or authorised officer authorised by the Authority in writing to act under this section, may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by the Chief Executive, or that employee or authorised officer, as the case may be, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence or a sum of $5,000, whichever is the lower.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
