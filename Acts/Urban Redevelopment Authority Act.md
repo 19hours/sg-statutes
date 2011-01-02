@@ -118,7 +118,7 @@
 
 - [47 Proceedings conducted by officers of Authority](#Proceedings-conducted-by-officers-of-Authority)
 
-- [48 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [48 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [49 Exclusion of liability for errors or omissions in information supplied](#Exclusion-of-liability-for-errors-or-omissions-in-information-supplied)
 
@@ -642,11 +642,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-47\. Any proceedings in respect of an offence under this Act or any regulations made thereunder may be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
+47\. Any proceedings in respect of an offence under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
 
-### Sanction of Public Prosecutor
+[15/2010 wef 02/01/2011 wef 02/01/2011]
 
-48\. No court shall take cognizance of an offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+### Consent of Public Prosecutor
+
+48\. No court shall try an offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011 wef 02/01/2011]
 
 ### Exclusion of liability for errors or omissions in information supplied
 
@@ -1005,3 +1009,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|15.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
