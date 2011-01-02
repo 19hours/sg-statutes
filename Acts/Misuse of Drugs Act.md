@@ -724,6 +724,10 @@ may be prohibited from entering or remaining in Singapore.
 
 [20/98]
 
+(3) For the purposes of subsections (1) and (2)(a), when an officer of the Bureau is exercising the powers of a police officer under the Criminal Procedure Code 2010, the officer of the Bureau shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
+
 ### Officer of Bureau to be armed
 
 32A\. Every officer of the Bureau shall be provided with such staves, arms, ammunition and other accoutrements as may be necessary for the effective discharge of his duties.
@@ -748,7 +752,9 @@ may be prohibited from entering or remaining in Singapore.
 
 (c) the seventh column shows the punishments to be imposed on a person convicted of the offence whether or not the offence was committed in relation to a controlled drug and, if it was so committed, irrespective of the nature of the drug.
 
-(3) In the third, fourth, fifth, sixth and seventh columns of the Second Schedule, a reference to a period gives the maximum or minimum term of imprisonment as is specified, a reference to a sum of money gives the maximum or minimum fine as is specified, and a reference to a number of strokes gives the number of strokes of caning with which the offender shall, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished.
+(3) In the third, fourth, fifth, sixth and seventh columns of the Second Schedule, a reference to a period gives the maximum or minimum term of imprisonment as is specified, a reference to a sum of money gives the maximum or minimum fine as is specified, and a reference to a number of strokes gives the number of strokes of caning with which the offender shall, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished.
+
+[15/2010 wef 02/01/2011]
 
 [49/75]
 
@@ -3154,6 +3160,11 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of operation|31 March 2008|
 |42.|**G. N. No. S 685/2010—Misuse of Drugs (Amendment of First Schedule) Order 2010**|
 ||Date of commencement|15 November 2010|
+|43.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
