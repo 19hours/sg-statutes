@@ -140,7 +140,7 @@
 
 - [54 Jurisdiction of court](#Jurisdiction-of-court)
 
-- [55 When Magistrate may take cognizance of offence](#When-Magistrate-may-take-cognizance-of-offence)
+- [55 When Magistrate may try offence](#When-Magistrate-may-try-offence)
 
 - [56 Composition of offences](#Composition-of-offences)
 
@@ -1682,9 +1682,11 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 54\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-### When Magistrate may take cognizance of offence
+### When Magistrate may try offence
 
-55\. For the purpose of section 133 of the Criminal Procedure Code and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by an inspector.
+55\. For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by an inspector, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 ### Composition of offences
 
@@ -2286,7 +2288,7 @@ Workplace Safety and Health Act
 
 (CHAPTER 354A)
 
-This Legislative History is provided for the convenience of users of the Workplace Safety and Health Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Workplace Safety and Health Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -2297,7 +2299,7 @@ This Legislative History is provided for the convenience of users of the Workpla
 ||Date of commencement|1 March 2006|
 Note:
 
-The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104, 1998 Revised Edition).
+The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104, 1998 Revised Edition
 
 |2.|**G. N. No. S 72/2007—Workplace Safety and Health (Workplaces Subject to Act) Order 2007**|
 ||Date of operation|1 March 2007|
@@ -2310,13 +2312,19 @@ The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104
 |||(Bill No. 2/2008 published on 16 February 2008)|
 ||Date of Second and Third Readings|6 March 2008|
 ||Date of commencement|1 April 2008|
-|6.|**2009 Revised Edition—Workplace Safety and Health Act (Chapter 354A)**|
+|6.|**2009 Revised Edition—Workplace Safety and Health Act**|
 ||Date of operation|31 July 2009|
 |7.|**Act 4 of 2010—Statutes (Miscellaneous Amendments) Act 2010**|
 ||Date of First Reading|23 November 2009|
-|||(Bill No. 26/2009 published on 23 November 2009)|
+|||(Bill No. 26/2009 published on 24 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|17 February 2010 (section 6)|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second Reading|19 May 2010|
+||Date of Third Reading|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Workplace Safety and Health Act
