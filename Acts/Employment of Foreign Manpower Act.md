@@ -608,7 +608,9 @@ that person shall be deemed to obstruct an employment inspector in the execution
 
 [37/95]
 
-(5) Every employment inspector shall have authority to appear in court and conduct any prosecution in respect of any offence under this Act or any regulations made thereunder.
+(5) Every employment inspector shall have authority to appear in court and may, with the authorisation of the Public Prosecutor, conduct any prosecution in respect of any offence under this Act or any regulations made thereunder.
+
+[15/2010 wef 02/01/2011]
 
 ### Change of address
 
@@ -780,7 +782,9 @@ that person shall be deemed to obstruct an employment inspector in the execution
 
 21G\.—(1) Any document or article produced, retained or requisitioned under section 16(1)(b), (c) or (g) or 21E shall —
 
-(a) where the document or article is produced in any criminal trial, be dealt with in accordance with section 386(1) of the Criminal Procedure Code (Cap. 68); or
+(a) where the document or article is produced in any criminal trial, be dealt with in accordance with section 364(1) of the Criminal Procedure Code 2010; or
+
+[15/2010 wef 02/01/2011]
 
 (b) in any other case —
 
@@ -852,7 +856,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Complaint by employment inspector
 
-24\. For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of any offence under this Act upon receiving a complaint in writing and signed by any employment inspector.
+24\. For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by any employment inspector, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 Person primarily liable may exempt himself from liability
 
@@ -934,7 +940,7 @@ Employment of Foreign Manpower Act
 
 (CHAPTER 91A)
 
-This Legislative History is provided for the convenience of users of the Employment of Foreign Manpower Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Employment of Foreign Manpower Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -972,3 +978,9 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of commencement|1 July 2007|
 |8.|**2009 Revised Edition—Employment of Foreign Manpower Act**|
 ||Date of operation|31 July 2009|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
