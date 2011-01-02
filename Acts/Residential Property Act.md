@@ -124,7 +124,7 @@
 
 (CHAPTER 274)
 
-(Original Enactment: Reprint 1983)
+(Original Enactment: Act 18 of 1976)
 
 REVISED EDITION 2009
 
@@ -1092,9 +1092,9 @@ obtain the Minister’s direction to require the society to dispose of the resid
 
 (9) Subject to subsection (1), where a court orders the defendant to pay any amount under a confiscation order —
 
-(a) section 224 of the Criminal Procedure Code (Cap. 68) shall have effect as if that amount were a fine imposed on him by the court; and
+(a) section 319 of the Criminal Procedure Code 2010 shall have effect as if that amount were a fine imposed on him by the court; and
 
-(b) for the purposes of section 224(b)(iv) of the Criminal Procedure Code, the term for which the court may direct the defendant to be imprisoned in default of payment of any amount under the confiscation order shall be as follows:
+(b) for the purposes of section 319(1)(b)(iv) of the Criminal Procedure Code 2010, the term for which the court may direct the defendant to be imprisoned in default of payment of any amount under the confiscation order shall be as follows:
 
 (i) if the amount does not exceed $2 million — imprisonment for a term not exceeding 5 years; and
 
@@ -2137,3 +2137,9 @@ This Legislative History is provided for the convenience of users of the Residen
 ||Date of commencement|31 March 2006|
 |14.|**2009 Revised Edition—Residential Property Act**|
 ||Date of operation|31 July 2009|
+|15.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
