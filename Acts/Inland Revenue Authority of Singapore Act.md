@@ -84,7 +84,7 @@
 
 - [31 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
@@ -148,7 +148,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 4\.—(1) All deeds and other documents requiring the seal of the Authority shall be sealed with the common seal of the Authority and such instruments to which the common seal is affixed shall be signed by any two members generally or specially authorised by the Authority for the purpose or by one member and the chief executive officer.
 
-(2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Authority affixed to any document and shall presume that is was duly affixed.
+(2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Authority affixed to any document and shall presume that it was duly affixed.
 
 ### Constitution of Authority
 
@@ -157,6 +157,8 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 (a) a Chairman; and
 
 (b) not less than 5 and not more than 10 other members as the Minister may, from time to time, determine.
+
+[27/2004 wef 13/08/2004]
 
 (2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
@@ -181,8 +183,6 @@ FUNCTIONS AND POWERS OF AUTHORITY
 (f) to provide service and advice to the Government and statutory bodies in respect of matters relating to the valuation of immovable properties; and
 
 (g) to perform such other functions as are conferred on the Authority by any other written law.
-
-[Act 5/96]
 
 (2) In addition to the functions imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
 
@@ -250,11 +250,9 @@ PROVISIONS RELATING TO STAFF
 
 11\. All members, officers and employees of the Authority shall be deemed to be —
 
-(a) public servants for the purposes of the Penal Code [Cap. 224]; and
+(a) public servants for the purposes of the Penal Code (Cap. 224); and
 
-(b) public officers for the purposes of the Financial Procedure Act and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
-
-[Cap 109.]
+(b) public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
 ## PART V
 
@@ -288,9 +286,13 @@ FINANCIAL PROVISIONS
 
 (2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services.
 
+[16/2005 wef 09/05/2005]
+
 ### Issue of shares, etc.
 
 13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Grants
 
@@ -306,6 +308,8 @@ FINANCIAL PROVISIONS
 
 16\. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
+[45/2004 wef 15/12/2004]
+
 ### Other financial provisions
 
 17\. The financial provisions set out in the Second Schedule shall have effect with respect to the Authority.
@@ -318,7 +322,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 18\.—(1) As from 1st September 1992, all movable property vested in the Government immediately before that date and used or managed by the Inland Revenue Department, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that Department (other than those in connection with taxes or licence fees for which the Department is responsible) shall be transferred to and shall vest in the Authority without further assurance.
 
-(2) In any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
+(2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
 ### Transfer of employees
 
@@ -330,17 +334,17 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 20\.—(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 19 while in the employment of the Government; and any such term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Government by the persons so transferred to be service by them under the Authority.
 
-(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
+(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
 (3) In every case where a person has been transferred to the service of the Authority under section 19, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (4) Where any person in the service of the Authority whose case does not fall within the scope of any pension or other schemes established under this section retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
-(5) Where any person who is transferred to the service of the Authority under section 19 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(5) Where any person who is transferred to the service of the Authority under section 19 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-21\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Authority under section 19 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+21\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 19 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 ### Existing contracts
 
@@ -366,11 +370,11 @@ GENERAL
 
 ### Proceedings conducted by officers of Authority
 
-26\.—(1) Proceedings in respect of any offence under this Act or any regulations made thereunder or any of the Acts specified in the Third Schedule or any subsidiary legislation made under any of those Acts may be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Commissioner of Inland Revenue with the consent of the Attorney-General.
+26\.—(1) Proceedings in respect of any offence under this Act or any regulations made thereunder or any of the Acts specified in the Third Schedule or any subsidiary legislation made under any of those Acts may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Commissioner of Inland Revenue.
 
 [15/2010 wef 02/01/2011]
 
-(2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act [Cap. 161] may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be.
+(2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be.
 
 ### Preservation of secrecy
 
@@ -408,17 +412,19 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and proceedings of Authority
+Constitution and Proceedings of Authority
 
 Appointment of Chairman, Deputy Chairman and other members
 
-1. —(1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
+1.—(1) The members of the Authority shall be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.
 
 (2) The Minister may appoint one of the members to be the Chairman and another of the members to be the Deputy Chairman.
 
 (3) The Deputy Chairman appointed under sub-paragraph (2) may, subject to such directions as may be given by the Minister, exercise all or any of the powers exercisable by the Chairman under this Act.
 
 (4) The Minister may appoint the chief executive officer to be a member of the Authority.
+
+[27/2004 wef 13/08/2004]
 
 Terms of office of members of Authority
 
@@ -430,7 +436,9 @@ Temporary members
 
 Revocation of appointment
 
-4\. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
+4. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
+
+[27/2004 wef 13/08/2004]
 
 Resignation
 
@@ -468,7 +476,9 @@ Disclosure of interest by members
 
 Salaries, etc., payable to members of Authority
 
-11\. There shall be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may, from time to time, determine.
+11. There shall be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may, from time to time, determine.
+
+[27/2004 wef 13/08/2004]
 
 Meetings of Authority
 
@@ -490,11 +500,11 @@ Vacancies
 
 Procedure at meetings
 
-14\. Subject to the provisions of this Act, the Authority may make rules to regulate its own procedure generally and, in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
+14\. Subject to the provisions of this Act, the Authority may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
 
 Validity of proceedings
 
-15\. The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any member or any contravention of paragraph 10 by any member.
+15\. The validity of any proceedings of the Authority shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
 
 SECOND SCHEDULE
 
@@ -502,13 +512,13 @@ Section 17
 
 Financial provisions
 
-1\. The financial year of the Authority shall being on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the date of its establishment and shall end on 31st March 1993.
+1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the date of its establishment and shall end on 31st March 1993.
 
 2\. The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
 4\. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
@@ -552,29 +562,29 @@ Specified Acts
 
 [25/2010 wef 22/10/2010]
 
-2\. Betting and Sweepstake Duties Act [Cap. 22].
+2\. Betting and Sweepstake Duties Act (Cap. 22).
 
-3\. Part IX of the Casino Control Act (Cap. 33A).
+3. Part IX of the Casino Control Act (Cap. 33A).
 
-4\. Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
+[S 423/2008 wef 29/08/2008]
 
-5\. Estate Duty Act [Cap. 96].
+4\. Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
 
-5A. Goods and Services Tax Act 1993.
+5\. Estate Duty Act (Cap. 96).
 
-[Act 31of1993.]
+5A. Goods and Services Tax Act 1993 (Act 31 of 1993).
 
 [S 37/94 wef 28/01/1994]
 
-6\. Income Tax Act [Cap. 134].
+6\. Income Tax Act (Cap. 134).
 
-7\. Private Lotteries Act [Cap. 250].
+7\. Private Lotteries Act (Cap. 250).
 
-8\. Property Tax Act [Cap. 254].
+8\. Property Tax Act (Cap. 254).
 
-9\.Deleted by S 423/2008, wef 29/08/2008.
+9\.(Deleted by S 423/2008, wef 29/08/2008).
 
-10\. Stamp Duties Act [Cap. 312].
+10\. Stamp Duties Act (Cap. 312).
 
 FOURTH SCHEDULE
 
@@ -582,29 +592,21 @@ Sections 26(2) and 30
 
 Specified offices
 
-1\. The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
-
-2. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254. Cap. 255].
+1. The Comptroller of Income Tax under the Income Tax Act (Cap. 134), the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and Part IX of the Casino Control Act (Cap. 33A).
 
 [S 423/2008 wef 29/08/2008]
 
-[]
+2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act (Cap. 254).
 
-3. The Commissioner of Stamp Duties under the Stamp Duties Act [Cap. 312.Cap. 22]and the Betting and Sweepstake Duties Act.
+3\. The Commissioner of Stamp Duties under the Stamp Duties Act (Cap. 312)..
 
-[]
+4\. The Commissioner of Estate Duties under the Estate Duty Act (Cap. 96).
 
-4. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96.Cap. 250]and the Private Lotteries Act.
+5\. [Deleted by S 398/2007 wef 25/07/2007]
 
-[]
+6\. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993 (Act 31 of 1993).
 
-5. [Deleted by S 398/2007 wef 25/07/2007 wef 25/07/2007]
-
-6. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.
-
-[Act 31of1993.]
-
-[S 37/94 wef 28/01/1994]
+[S 37/94 wef 28/1/1994]
 
 ## LEGISLATIVE HISTORY
 
@@ -674,3 +676,9 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 19/2010 published on 17 August 2010)|
 ||Date of Second and Third Readings|15 September 2010|
 ||Dates of commencement|22 October 2010 (except sections 29, 39, 41 and 44)|
+|14.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
