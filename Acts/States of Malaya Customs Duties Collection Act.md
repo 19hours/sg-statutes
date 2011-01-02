@@ -468,7 +468,9 @@ PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
 ### Who may prosecute
 
-30\. Prosecutions in respect of offences committed under this Act or any regulations made thereunder may be conducted by any Federal Superintendent of Customs and Excise.
+30\. Prosecutions in respect of offences committed under this Act or any regulations made thereunder may, with the authorisation of the Public Prosecutor, be conducted by any Federal Superintendent of Customs and Excise.
+
+[Act 15 of 2010 wef 02/01/2011]
 
 ### Jurisdiction of District Courts
 
@@ -733,3 +735,9 @@ This Legislative History is provided for the convenience of users of the States 
 |||(Bill No. 16/1992 published on 28 February 1992)|
 ||Date of Second and Third Readings|19 March 1992|
 ||Date of commencement|1 April 1992|
+|8.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
