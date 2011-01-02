@@ -30,7 +30,7 @@
 
 - [12 Offences seizable and non-bailable](#Offences-seizable-and-non-bailable)
 
-- [13 Consent of Attorney-General to proceed with charge under section 5, 6 or 7](#Consent-of-Attorney-General-to-proceed-with-charge-under-section-5-6-or-7)
+- [13 Consent of Public Prosecutor to proceed with charge under section 5, 6 or 7](#Consent-of-Public-Prosecutor-to-proceed-with-charge-under-section-5-6-or-7)
 
 - [14 Place of trial](#Place-of-trial)
 
@@ -182,9 +182,11 @@ such attending shall be unlawful and shall be deemed to constitute an offence un
 
 12\. Every offence against the provisions of this Act shall be seizable and non-bailable for the purposes of the Criminal Procedure Code.
 
-### Consent of Attorney-General to proceed with charge under section 5, 6 or 7
+### Consent of Public Prosecutor to proceed with charge under section 5, 6 or 7
 
-13\. Where any person is charged before any court with an offence under section 5, 6 or 7, no further proceedings in respect thereof shall be taken against him without the consent of the Attorney-General, except such as the court may think necessary to remand (whether in custody or on bail) or otherwise to secure the safe custody of the person charged, provided that this section shall not apply to proceedings instituted by or on behalf of the Attorney-General ab initio.
+13\. Where any person is charged before any court with an offence under section 5, 6 or 7, no further proceedings in respect thereof shall be taken against him without the consent of the Public Prosecutor, except such as the court may think necessary to remand (whether in custody or on bail) or otherwise to secure the safe custody of the person charged, provided that this section shall not apply to proceedings instituted by or on behalf of the Public Prosecutor ab initio.
+
+[15/2010 wef 02/01/2011]
 
 ### Place of trial
 
@@ -242,3 +244,9 @@ This Legislative History is provided for the convenience of users of the Trade D
 ||Date of commencement|27 November 1981|
 |8.|**1985 Revised Edition—Trade Disputes Act (Chapter 331)**|
 ||Date of operation|30 March 1987|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011 (item 109 of the Sixth Schedule –– amendment of Trade Disputes Act)|
