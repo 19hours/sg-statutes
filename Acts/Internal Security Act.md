@@ -178,7 +178,7 @@
 
 - [67 Power to dispense with death inquiries](#Power-to-dispense-with-death-inquiries)
 
-- [68 Medical officers of armed forces to be regarded as medical officers for purpose of inquiries](#Medical-officers-of-armed-forces-to-be-regarded-as-medical-officers-for-purpose-of-inquiries)
+- [68 Medical officers of armed forces to be regarded as pathologist or medical practitioner under supervision of pathologist](#Medical-officers-of-armed-forces-to-be-regarded-as-pathologist-or-medical-practitioner-under-supervision-of-pathologist)
 
 [**Chapter V  General**](#Chapter-V--General)
 
@@ -232,13 +232,15 @@
 
 (Original Enactment: M Act 18 of 1960)
 
-Note: (The Malaysian Internal Security Act 1960 (No. 18/60) was extended to Singapore on 16.9.63 when Singapore became a component part of Malaysia — see L.N.231/63. The preambles to that Act are reproduced in this Act in their entirety.)
+Note: (The Malaysian Internal Security Act 1960 (No. 18/60) was extended to Singapore on 16.9.63 when Singapore became a component part of Malaysia — see L.N. 231/63. The preambles to that Act are reproduced in this Act in their entirety.)
 
 REVISED EDITION 1985
 
 (30th March 1987)
 
 An Act to provide for the internal security of Singapore, preventive detention, the prevention of subversion, the suppression of organised violence against persons and property in specified areas of Singapore, and for matters incidental thereto.
+
+[16th September 1963]
 
 Whereas action has been taken by a substantial body of persons to cause a substantial number of citizens to fear organised violence against persons and property:
 
@@ -247,8 +249,6 @@ And Whereas action has been taken and threatened by a substantial body of person
 And Whereas Parliament considers it necessary to stop or prevent that action:
 
 Now therefore pursuant to Article 149 of the Constitution be it enacted by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Ra’ayat in Parliament assembled, and by the authority of the same, as follows:
-
-[16th September 1963]
 
 ## PART I
 
@@ -334,7 +334,17 @@ Chapter I
 
 —
 
-Prohibition of organisations and associations of a political or quasi-military character and uniforms, etc.
+Prohibition of organisations and
+
+
+
+
+associations of a political or quasi-military
+
+
+
+
+character and uniforms, etc.
 
 ### Prohibition of uniforms of political or quasi-military organisations
 
@@ -474,7 +484,7 @@ and any order made under paragraph (b) shall be for such period, not exceeding t
 
 No appeals to Privy Council
 
-8C\. [Deleted by Act 2/94 wef 08/04/1994]
+8C\. [Repealed by Act 2/94 wef 08/04/1994]
 
 ### Commencement provision
 
@@ -566,7 +576,7 @@ as the Minister sees fit; and the Minister may revoke any such direction if he i
 
 ### Member of advisory board deemed to be a public servant
 
-15\. Every member of an advisory board shall be deemed to be a public servant within the meaning of the Penal Code, and shall have in case of any action or suit brought against him for any act done or omitted to be done in the execution of his duty under the provisions of this Chapter the like protection and privileges as are by law given to a Judge in the execution of his office.
+15\. Every member of an advisory board shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224], and shall have in case of any action or suit brought against him for any act done or omitted to be done in the execution of his duty under the provisions of this Chapter the like protection and privileges as are by law given to a Judge in the execution of his office.
 
 ### Disclosure of information
 
@@ -592,7 +602,12 @@ Chapter III
 
 —
 
-Special powers relating to subversive publications, etc.
+Special powers relating to
+
+
+
+
+subversive publications, etc.
 
 ### Prohibition of printing, sale, etc., of documents and publications
 
@@ -792,7 +807,12 @@ Chapter V
 
 —
 
-Other powers for the prevention of subversion
+Other powers for the
+
+
+
+
+prevention of subversion
 
 ### Powers relating to appointments
 
@@ -902,7 +922,7 @@ Miscellaneous
 
 ### Attempts to commit offences and assisting offenders
 
-44\.—(1) Without prejudice to the operation of Chapters V and XXIII of the Penal Code any person who attempts to commit, or does any act preparatory to the commission of an offence under this Part shall be deemed to be guilty of that offence under this Part.
+44\.—(1) Without prejudice to the operation of Chapters V and XXIII of the Penal Code [Cap. 224] any person who attempts to commit, or does any act preparatory to the commission of an offence under this Part shall be deemed to be guilty of that offence under this Part.
 
 (2) No person knowing or having reasonable cause to believe that another person is guilty of an offence under this Part shall give that other person any assistance with intent thereby to prevent, hinder or interfere with the apprehension, trial or punishment of that person for that offence.
 
@@ -948,7 +968,12 @@ Chapter II
 
 —
 
-Powers relating to preservation of public security
+Powers relating to preservation of
+
+
+
+
+public security
 
 ### Danger area
 
@@ -1160,7 +1185,7 @@ Provided that no person shall be convicted of any offence under this section if 
 
 ### Attempt to commit offences
 
-62\. Without prejudice to the operation of Chapter V and Chapter XXIII of the Penal Code, any person who whether within or outside a security area, while any proclamation under section 48 is in force, attempts to commit, or does any act preparatory to the commission of an offence under this Part shall be deemed to be guilty of that offence under this Part.
+62\. Without prejudice to the operation of Chapter V and Chapter XXIII of the Penal Code [Cap. 224], any person who whether within or outside a security area, while any proclamation under section 48 is in force, attempts to commit, or does any act preparatory to the commission of an offence under this Part shall be deemed to be guilty of that offence under this Part.
 
 ### Assisting offenders
 
@@ -1198,11 +1223,13 @@ Powers of police and others
 
 (b) where the Coroner responsible for holding a death inquiry upon the body of any person is satisfied that such person has been killed in a security area as a result of operations by the police or by the security forces for the purpose of suppressing organised violence, the Coroner may dispense with the holding of a death inquiry on the body of such person.
 
-### Medical officers of armed forces to be regarded as medical officers for purpose of inquiries
+### Medical officers of armed forces to be regarded as pathologist or medical practitioner under supervision of pathologist
 
-68\. The provisions of Chapter XXX and of section 369 of the Criminal Procedure Code [Cap. 68] shall, in respect of any inquiries into any death in any security area, have effect as if reference therein to a Government medical officer and to a medical officer included reference in each case to a medical officer of the Singapore Armed Forces when acting in the course of his duty:
+68\. The provisions of the Coroners Act 2010 shall, in respect of any inquiries into any death in any security area, have effect as if reference therein to a pathologist, or a medical practitioner under the supervision of a pathologist, included reference in each case to a medical officer of the Singapore Armed Forces when acting in the course of his duty:
 
 Provided that no such medical officer of the Singapore Armed Forces shall, without his consent, be required by any order or otherwise to perform a post-mortem examination of any body.
+
+[15/2010 wef 02/01/2011]
 
 Chapter V
 
@@ -1218,7 +1245,7 @@ General
 
 ### Application of section 94 of the Penal Code
 
-70\. Section 94 of the Penal Code (which relates to an act to which a person is compelled by threats) shall have effect as if offences punishable with death under this Part were offences included in Chapter VI of the Penal Code punishable with death.
+70\. Section 94 of the Penal Code [Cap. 224] (which relates to an act to which a person is compelled by threats) shall have effect as if offences punishable with death under this Part were offences included in Chapter VI of the Penal Code punishable with death.
 
 ### Extension of right of private defence
 
@@ -1336,7 +1363,7 @@ to use such force as, in the circumstances of the case, may be reasonably necess
 
 (3) The powers conferred upon a police officer by subsection (1) may be exercised by any member of the security forces, and by any person performing the duties of a guard or watchman in a protected place, and by any other person generally authorised in that behalf by the Commissioner of Police.
 
-(4) Nothing in this section shall derogate from the right of private defence contained in sections 96 to 106, inclusive, of the Penal Code.
+(4) Nothing in this section shall derogate from the right of private defence contained in sections 96 to 106, inclusive, of the Penal Code [Cap. 224].
 
 ### Admission of statements in evidence
 
@@ -1423,17 +1450,7 @@ may be forcibly arrested
 
 1.
 
-The Corrosive and Explosive
-
-
-
-
-Substances and Offensive
-
-
-
-
-Weapons Act [Cap. 65]
+The Corrosive and Explosive Substances and Offensive Weapons Act [Cap. 65]
 
 ...
 
@@ -1539,7 +1556,7 @@ Internal Security Act
 
 (CHAPTER 143)
 
-This Legislative History is provided for the convenience of users of the Internal Security Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Internal Security Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1602,3 +1619,9 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|1 January 2006 (Item (9) of the Fourth Schedule)|
+|19.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
