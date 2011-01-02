@@ -106,7 +106,7 @@
 
 - [44 Power to make rules](#Power-to-make-rules)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Description of returnable offences**](#FIRST-SCHEDULE-Description-of-returnable-offences)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
@@ -624,9 +624,7 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 (b) if, within that period, an application for an Order for Review of Detention is made by the prisoner and the court to which the application is made or, where an appeal is brought from the decision of that court to another court, the other court does not order that the prisoner be released — the expiration of the period of 15 days from the date of the decision of the first-mentioned court or the appellate court, as the case may be,
 
-whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisdiction of, or of a part of, that country and there
-
-surrendered to some person appointed by that country to receive him.
+whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisdiction of, or of a part of, that country and there surrendered to some person appointed by that country to receive him.
 
 [42/2005 wef 01/01/2006]
 
@@ -862,6 +860,8 @@ FIRST SCHEDULE
 
 Sections 2(1), 14 and 18
 
+Description of returnable offences
+
 Part I
 
 1. 
@@ -988,21 +988,19 @@ Part II
 
 Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
 
+[32/96; 20/98; 25/99]
+
 Part III
 
-1. Abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
-
-[32/96; 20/98; 25/99]
+1\. Abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
 
 2. Criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
 
 Note:
 
-The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations
+The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-Convention
-
-against Transnational Organised Crime, done at New York on 15th November 2000.
+[S 476/2007 wef 27/09/2007]
 
 SECOND SCHEDULE
 
@@ -1021,9 +1019,9 @@ Notice by the Minister
 
 To , a District Judge [or Magistrate] of Singapore.
 
-Whereas a requisition has been made to me, the Minister for by , a declared Commonwealth country for the purposes of the extradition act [orforeign State in relation to which the Extradition Act applies] for the surrender of (referred to in this Notice as the fugitive), who is accused [orhas been convicted] of the offence alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] and is, or is suspected of being, in or on his way to Singapore:
+Whereas a requisition has been made to me, the Minister for by , a declared Commonwealth country for the purposes of the Extradition Act [orforeign State in relation to which the Extradition Act applies] for the surrender of (referred to in this Notice as the fugitive), who is accused [orhas been convicted] of the offence alleged to have been committed [orcommitted] in [orwithin the jurisdiction of] and is, or is suspected of being, in or on his way to Singapore:
 
-Now therefore I, the Minister for , do hereby inform you that the said requisition has been made and authorise you to issue a warrant for the apprehension of the fugitive provided that the provisions of the extradition act relating to the issue of such a warrant have, in your opinion, been complied with.
+Now therefore I, the Minister for , do hereby inform you that the said requisition has been made and authorise you to issue a warrant for the apprehension of the fugitive provided that the provisions of the Extradition Act relating to the issue of such a warrant have, in your opinion, been complied with.
 
 Given under my hand at Singapore this day of .
 
@@ -1155,7 +1153,9 @@ you, the Director of Prisons, to deliver the fugitive into the custody of the sa
 
 (b)
 
-you, the said , to receive the fugitive into your custody and to convey him to a place in or within the jurisdiction of and there surrender himto some person appointed to receive him.
+you, the said , to receive the fugitive into your custody and to convey him to a place in or within the jurisdiction of and there surrender him to some person appointed to receive him.
+
+Given under my hand at Singapore this day of .
 
 ……………………………………….
 Minister for
@@ -1246,7 +1246,7 @@ Territories between which and Singapore an extradition treaty is in force
 
 Hong Kong Special Administrative Region of the People’s Republic of China.
 
-[16/1998 wef 11/06/1998]
+[16/1998]
 
 ## LEGISLATIVE HISTORY
 
@@ -1254,7 +1254,7 @@ Extradition Act
 
 (CHAPTER 103)
 
-This Legislative History is provided for the convenience of users of the Extradition Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Extradition Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1316,6 +1316,12 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of commencement|1 January 2006 (item (6) of the Fourth Schedule)|
 |13.|**G. N. No. S 476/2007—Extradition Act (Amendment of First Schedule) Notification 2007**|
 ||Date of commencement|27 September 2007|
+|14.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Extradition Act
@@ -1330,13 +1336,13 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1985 Ed\. 
 
-6 — (1) and (2)
+6 —(1) and (2)
 
 6 
 
-11 — (2) and (3)
+11 —(2) and (3)
 
-11 — (2)
+11 —(2)
 
 (4) to (7)
 
@@ -1358,7 +1364,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 18 
 
-20 — (1) and (2)
+20 —(1) and (2)
 
 19 
 
@@ -1378,9 +1384,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 23 
 
-25 — (1)
+25 —(1)
 
-24 — (1)
+24 —(1)
 
 (2) and (3)
 
@@ -1410,9 +1416,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 27 
 
-35 — (2) and (3)
+35 —(2) and (3)
 
-35 — (2)
+35 —(2)
 
 (4) to (6)
 
