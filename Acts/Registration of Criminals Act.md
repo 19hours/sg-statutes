@@ -34,6 +34,8 @@
 
 - [7D Application by disqualified person to have criminal record treated as spent](#Application-by-disqualified-person-to-have-criminal-record-treated-as-spent)
 
+- [7DA Criminal record rendered spent when community sentence completed](#Criminal-record-rendered-spent-when-community-sentence-completed)
+
 - [7E Consequences of criminal record becoming or treated as spent](#Consequences-of-criminal-record-becoming-or-treated-as-spent)
 
 - [7F Reference to criminal record not to include record of offence not kept in register](#Reference-to-criminal-record-not-to-include-record-of-offence-not-kept-in-register)
@@ -105,72 +107,6 @@ An Act to provide for the registration of criminals.
 ## PART I
 
 PRELIMINARY
-
-### Short title
-
-1\. This Act may be cited as the Registration of Criminals Act.
-
-### Interpretation
-
-2\. In this Act, unless the context otherwise requires —
-
-“authorised officer” means —
-
-(a) a police officer;
-
-(b) an officer of customs of the Singapore Customs in any case concerning an offence or alleged offence against any law or provision of law which is the function of the Singapore Customs to enforce;
-
-[4/2003 wef 01/04/2003]
-
-(c) an immigration officer;
-
-(d) an officer of any law enforcement agency in any case concerning an offence or alleged offence against any law or provision of law which it is the function of that agency to enforce; and
-
-(e) any other person who is duly appointed in writing by the Commissioner of Police as an authorised officer for the purposes of this Act or any provision thereof;
-
-[45/2002 wef 13/02/2003]
-
-“crime” means any offence included for the time being in the First or Second Schedule;
-
-“DNA” means deoxyribonucleic acid;
-
-[45/2002 wef 13/02/2003]
-
-“DNA database” means the database maintained under section 13F;
-
-[45/2002 wef 13/02/2003]
-
-“DNA information” means genetic information derived from the forensic DNA analysis of a body sample;
-
-[45/2002 wef 13/02/2003]
-
-“finger impression” includes thumb impression and palmar impression;
-
-“law enforcement agency” means any body or organisation which is prescribed by the Minister to be a law enforcement agency for the purposes of this Act;
-
-[45/2002 wef 13/02/2003]
-
-“other particulars”, in relation to a person, means any particulars, information or description of that person, other than his registrable particulars, that may be relevant or useful in the identification of that person;
-
-[45/2002 wef 13/02/2003]
-
-“photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;
-
-[45/2002 wef 13/02/2003]
-
-“principal registration area” means Singapore and Malaysia;
-
-“register” means the register of criminals maintained in accordance with section 4;
-
-“registrable particulars” means the particulars of any conviction, sentence, banishment, expulsion or deportation, and any name, description, photograph, or finger impression of, or document relating to, any person so convicted, sentenced, banished, expelled or deported, as the case may be, and includes particulars of any outstanding offence, whether that offence be a crime or not, taken into consideration in determining and passing sentence on any conviction for a crime;
-
-“Registrar” means the Registrar of Criminals appointed under section 3, and includes an Assistant Registrar of Criminals.
-
-### Appointment of Registrar of Criminals and Assistant Registrars
-
-3\.—(1) The President may appoint a Registrar of Criminals and such Assistant Registrars as he may consider necessary for the purposes of this Act.
-
-(2) The President may, with the concurrence of the government of Malaysia, appoint an officer in the service of that government to be a Registrar of Criminals or an Assistant Registrar for the purposes of this Act.
 
 ### Short title
 
@@ -433,6 +369,12 @@ and the registrable particulars related thereto;
 (5) Where any document, particular or information given under subsection (2) is false in a material particular, the Commissioner of Police may, after giving the person concerned a reasonable opportunity to be heard (orally or in writing), revoke his grant of the application to treat the record in the register of the person’s conviction as spent, and the Registrar shall, without delay, expunge any entry made under section 7E(1)(b) in respect of that record.
 
 (6) Nothing in this section shall be construed to prevent the prosecution, conviction and punishment of any person according to the provisions of any other written law for the time being in force.
+
+### Criminal record rendered spent when community sentence completed
+
+7DA\. Notwithstanding any provisions in this Part, the record in the register of a person’s conviction within Singapore for a crime for which a community sentence (as defined in section 336 of the Criminal Procedure Code 2010) is passed by a court shall become spent on the date on which the community sentence is completed.
+
+[15/2010 wef 02/01/2011]
 
 ### Consequences of criminal record becoming or treated as spent
 
@@ -1014,7 +956,7 @@ Arms Offences Act
 
 Sections 3 to 8.
 
-Cap. 14.
+Cap. 14
 
 Banishment Act
 
@@ -1022,7 +964,7 @@ Banishment Act
 
 Section 14.
 
-Cap. 18.
+Cap. 18
 
 Bankruptcy Act 1995
 
@@ -1032,15 +974,13 @@ The whole of Part X.
 
 Subst. by Act 15/95
 
-Act 15/95 wef 15.7.95 vide S 268/95.
-
 Broadcasting and Television Act
 
 ...
 
 Section 5.
 
-Cap. 28.
+Cap. 28
 
 Casino Control Act
 
@@ -1056,7 +996,7 @@ Chit Funds Act
 
 Sections 4, 18 and 20.
 
-Cap. 39.
+Cap. 39
 
 Common Gaming Houses Act
 
@@ -1066,15 +1006,13 @@ Sections 4, 5, 6, 8(3) and 8(4).
 
 Cap. 49
 
-S 9/87 wef 15-1-87.
-
 Companies Act
 
 ...
 
 Sections 158(9), 338, 401(2), 402, 404 and 406.
 
-Cap. 50.
+Cap. 50
 
 Constitution of the Republic of Singapore.
 
@@ -1082,7 +1020,7 @@ Constitution of the Republic of Singapore.
 
 Third Schedule, section 10(1)(a).
 
-Vol. 1.
+Vol. 1
 
 Corrosive and Explosive Substances and Offensive Weapons Act
 
@@ -1090,7 +1028,7 @@ Corrosive and Explosive Substances and Offensive Weapons Act
 
 The whole.
 
-Cap. 65.
+Cap. 65
 
 Criminal Law (Temporary Provisions) Act
 
@@ -1098,7 +1036,7 @@ Criminal Law (Temporary Provisions) Act
 
 The whole.
 
-Cap. 67.
+Cap. 67
 
 Criminal Procedure Code
 
@@ -1106,7 +1044,11 @@ Criminal Procedure Code
 
 Sections 15, 71 to 75 and 87.
 
-Cap. 68.
+Cap. 68
+
+Criminal Procedure Code 2010
+
+Sections 41 to 45, 54 and 311.
 
 Customs Act
 
@@ -1114,7 +1056,7 @@ Customs Act
 
 The whole.
 
-Cap. 70.
+Cap. 70
 
 Employment Act
 
@@ -1122,7 +1064,7 @@ Employment Act
 
 Section 113.
 
-Cap. 91.
+Cap. 91
 
 Explosive Substances Act
 
@@ -1130,7 +1072,7 @@ Explosive Substances Act
 
 The whole.
 
-Cap. 100.
+Cap. 100
 
 Foreign Recruiting Act
 
@@ -1138,7 +1080,7 @@ Foreign Recruiting Act
 
 Section 5.
 
-Cap. 112.
+Cap. 112
 
 Hire-Purchase Act
 
@@ -1146,7 +1088,7 @@ Hire-Purchase Act
 
 Section 37.
 
-Cap. 125.
+Cap. 125
 
 Hostage-Taking Act 2010
 
@@ -1160,7 +1102,7 @@ Hotels Act
 
 Section 17.
 
-Cap. 127.
+Cap. 127
 
 House to House and Street Collections Act
 
@@ -1168,7 +1110,7 @@ House to House and Street Collections Act
 
 Sections 3(2), 3(3), 6, 7 and 8.
 
-Cap. 128.
+Cap. 128
 
 Insurance Act
 
@@ -1176,7 +1118,7 @@ Insurance Act
 
 Section 55.
 
-Cap. 142.
+Cap. 142
 
 Internal Security Act
 
@@ -1184,7 +1126,7 @@ Internal Security Act
 
 The whole.
 
-Cap. 143.
+Cap. 143
 
 Kidnapping Act
 
@@ -1192,7 +1134,7 @@ Kidnapping Act
 
 Sections 3, 4 and 5.
 
-Cap. 151.
+Cap. 151
 
 Land Titles Act
 
@@ -1200,7 +1142,7 @@ Land Titles Act
 
 Sections 20(4) and 153(1).
 
-Cap. 157.
+Cap. 157
 
 Mental Disorders and Treatment Act
 
@@ -1208,7 +1150,7 @@ Mental Disorders and Treatment Act
 
 Section 58.
 
-Cap. 178.
+Cap. 178
 
 Merchant Shipping Act
 
@@ -1216,7 +1158,7 @@ Merchant Shipping Act
 
 Sections 30, 48, 55, 97, 118, 124, 141(3), 157, 167, 213, 232 and 259.
 
-Cap. 179.
+Cap. 179
 
 Miscellaneous Offences (Public Order and Nuisance) Act
 
@@ -1224,9 +1166,7 @@ Miscellaneous Offences (Public Order and Nuisance) Act
 
 Sections 22, 25, 30, 31, 36, 36A, 37(1) and 37(5).
 
-Act 10/89 wef 9.6.89 vide S 249/89
-
-Cap. 184.
+Cap. 184
 
 Misuse of Drugs Act
 
@@ -1234,15 +1174,7 @@ Misuse of Drugs Act
 
 Part II, sections 31(2), 33(3) and 33A.
 
-Cap. 185.
-
-Moneylenders Act
-
-...
-
-Sections 8 and 32.
-
-Cap. 188 of the 1985 Revised Edition
+Cap. 185
 
 Moneylenders Act 2008
 
@@ -1256,7 +1188,7 @@ Motor Vehicles (Third-Party Risks and Compensation) Act
 
 Section 21.
 
-Cap. 189.
+Cap. 189
 
 National Registration Act
 
@@ -1264,7 +1196,7 @@ National Registration Act
 
 The whole.
 
-Cap. 201.
+Cap. 201
 
 Newspaper and Printing Presses Act
 
@@ -1272,7 +1204,7 @@ Newspaper and Printing Presses Act
 
 Sections 7, 11, 14, 20(1), 20(2) and 22.
 
-Cap. 206.
+Cap. 206
 
 Official Secrets Act
 
@@ -1280,7 +1212,7 @@ Official Secrets Act
 
 The whole.
 
-Cap. 213.
+Cap. 213
 
 Preservation of the Peace Act
 
@@ -1288,7 +1220,7 @@ Preservation of the Peace Act
 
 Section 3(2).
 
-Cap. 240.
+Cap. 240
 
 Prevention of Corruption Act
 
@@ -1296,7 +1228,7 @@ Prevention of Corruption Act
 
 The whole.
 
-Cap. 241.
+Cap. 241
 
 Prevention of Crimes Act
 
@@ -1304,7 +1236,7 @@ Prevention of Crimes Act
 
 Sections 2, 4 and 5.
 
-Cap. 242.
+Cap. 242
 
 Protected Areas and Protected Places Act
 
@@ -1312,7 +1244,7 @@ Protected Areas and Protected Places Act
 
 The whole.
 
-Cap. 256.
+Cap. 256
 
 Public Order Act 2009
 
@@ -1328,7 +1260,7 @@ Public Order (Preservation) Act
 
 The whole.
 
-Cap. 258.
+Cap. 258
 
 Public Trustee Act
 
@@ -1336,7 +1268,7 @@ Public Trustee Act
 
 Section 22(10).
 
-Cap. 260.
+Cap. 260
 
 Railways Act
 
@@ -1344,7 +1276,7 @@ Railways Act
 
 Sections 86 and 87.
 
-Cap. 263.
+Cap. 263
 
 Registration of Deeds Act
 
@@ -1352,13 +1284,15 @@ Registration of Deeds Act
 
 Sections 26 and 27.
 
-Cap. 269.
+Cap. 269
 
 Road Traffic Act
 
 ...
 
 Sections 66(1) and 96(1).
+
+Cap. 276
 
 Secondhand Dealers Act
 
@@ -1368,13 +1302,13 @@ Section 10(3).
 
 Cap. 288 of the 1985 Revised Edition
 
-Cap. 276.
-
 Secondhand Goods Dealers Act 2007
 
 ...
 
 Section 10(6).
+
+Cap. 288
 
 Sedition Act
 
@@ -1382,7 +1316,7 @@ Sedition Act
 
 Section 4.
 
-Cap. 290.
+Cap. 290
 
 Societies Act
 
@@ -1390,7 +1324,7 @@ Societies Act
 
 Sections 14, 15, 23 and 29(4).
 
-Cap. 311.
+Cap. 311
 
 Telecommunication Authority of Singapore Act
 
@@ -1398,7 +1332,7 @@ Telecommunication Authority of Singapore Act
 
 Sections 62, 70 to 74, 78, 79 and 83.
 
-Cap. 323.
+Cap. 323
 
 Trade Disputes Act
 
@@ -1406,7 +1340,7 @@ Trade Disputes Act
 
 Sections 5, 6, 7, 8, 9 and 11.
 
-Cap. 331.
+Cap. 331
 
 Undesirable Publications Act
 
@@ -1414,7 +1348,7 @@ Undesirable Publications Act
 
 Sections 4 and 5.
 
-Cap. 338.
+Cap. 338
 
 Vandalism Act
 
@@ -1422,7 +1356,7 @@ Vandalism Act
 
 Section 3.
 
-Cap. 341.
+Cap. 341
 
 Women’s Charter
 
@@ -1430,15 +1364,21 @@ Women’s Charter
 
 Sections 35 to 40 and the whole of Part X.
 
-Cap. 353.
+Cap. 353
 
-[S 548/2009 wef 05/11/2009]
+[S 9/1987 wef 15/01/1987]
+
+[10/1989 wef 09/06/1989]
+
+[15/1995 wef 15/07/1995]
+
+[4/2007 wef 01/12/2007]
 
 [31/2008 wef 01/03/2009]
 
 [S 548/2009 wef 05/11/2009]
 
-[4/2007 wef 01/12/2007]
+[S 548/2009 wef 05/11/2009]
 
 SECOND SCHEDULE
 
@@ -1991,3 +1931,9 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|5 November 2009|
 |34.|**G. N. No. S 674/2010—Registration of Criminals Act (Amendment of First and Third Schedules) Order 2010**|
 ||Date of commencement|21 November 2010|
+|35.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
