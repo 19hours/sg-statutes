@@ -116,7 +116,7 @@
 
 - [39 Jurisdiction of court](#Jurisdiction-of-court)
 
-- [40 Sanction](#Sanction)
+- [40 Consent](#Consent)
 
 - [41 Rewards to informers](#Rewards-to-informers)
 
@@ -134,9 +134,9 @@
 
 - [46 Power to make rules](#Power-to-make-rules)
 
-[**FIRST SCHEDULE Detection Agents**](#FIRST-SCHEDULE-Detection-Agents)
+[**FIRST SCHEDULE Detection agents**](#FIRST-SCHEDULE-Detection-agents)
 
-[**SECOND SCHEDULE Explosive Precursors**](#SECOND-SCHEDULE-Explosive-Precursors)
+[**SECOND SCHEDULE Explosive precursors**](#SECOND-SCHEDULE-Explosive-precursors)
 
 [**Legislative History**](#Legislative-History)
 
@@ -214,6 +214,8 @@ PRELIMINARY
 
 (c) is present in the plastic explosive in such concentration no less than that specified in the fourth column of that Schedule;
 
+[5/2007 wef 01/07/2007]
+
 “electronic dart gun” means a portable device which —
 
 (a) is powered by electricity and, when switched on, is capable of expelling or projecting a projectile; and
@@ -224,7 +226,7 @@ PRELIMINARY
 
 “explosive” —
 
-(a) means gunpowder, nitro-glycerine, dynamite, gun- cotton, blasting powder, fulminate of mercury or of other metals, coloured fires and every other substance, whether similar to those abovementioned or not, used or manufactured with a view to producing a practical effect by explosion or a pyrotechnic effect;
+(a) means gunpowder, nitro-glycerine, dynamite, gun-cotton, blasting powder, fulminate of mercury or of other metals, coloured fires and every other substance, whether similar to those abovementioned or not, used or manufactured with a view to producing a practical effect by explosion or a pyrotechnic effect;
 
 (b) includes fog signals, fireworks, fuses, rockets, percussion-caps, detonators, cartridges and ammunition of all descriptions, and every adaptation or preparation of an explosive as above defined; and
 
@@ -260,7 +262,7 @@ PRELIMINARY
 
 “plastic explosive” means any explosive which —
 
-(a) is formulated with one or more high explosives which in their pure form have vapour pressure of less than 10-4 Pa at a temperature of 25°C;
+(a) is formulated with one or more high explosives which in their pure form have vapour pressure of less than 10-4Pa at a temperature of 25°C;
 
 (b) is formulated with a binder material; and
 
@@ -294,6 +296,8 @@ PRELIMINARY
 
 (a) the manufacture, possession, use, storage, sale, transport, importation or exportation, in accordance with the provisions of any rules made under this Act, of any explosive or explosive precursor by order of the Government;
 
+[5/2007 wef 01/07/2007]
+
 (b) the manufacture, dealing in, possession, importation or exportation, in accordance with the provisions of any rules made under this Act, of any article by order of the Government;
 
 (c) any of the following persons or their equipment while in the course of their duty or employment:
@@ -308,11 +312,15 @@ PRELIMINARY
 
 (v) members of the Special Constabulary or any Auxiliary Police Force created under the Police Force Act 2004, and any additional constables and peace officers;
 
+[24/2004 wef 12/10/2004]
+
 (vi) dog-shooters employed by the Government;
 
 (d) any vessel belonging to or in the service of the Government or of any foreign government;
 
 (e) any hulk or magazine for the storage or deposit of explosives, or explosive precursors, of the Government or the government of any Commonwealth country;
+
+[5/2007 wef 01/07/2007]
 
 (f) such articles as form part of the ordinary armament of any vessel or as are required for the service of any vessel or the personal use of the crew or the passengers thereof;
 
@@ -321,6 +329,8 @@ PRELIMINARY
 (h) the possession in the course of his duty of arms, explosives or explosive precursors by any person employed by the Government, such possession being specially authorised by the head of his department.
 
 [30/2002]
+
+[5/2007 wef 01/07/2007]
 
 (2) In any proceedings under this Act, proof of these facts shall rest with the person alleging them.
 
@@ -346,6 +356,8 @@ PRELIMINARY
 
 [30/2002]
 
+[9
+
 ## PART II
 
 MANUFACTURE, POSSESSION, TRANSFER, IMPORTATION AND EXPORTATION OF UNMARKED PLASTIC EXPLOSIVES, POISONOUS OR NOXIOUS GAS OR NOXIOUS SUBSTANCE, ETC.
@@ -367,6 +379,8 @@ carried out under a licence issued by the Licensing Officer.
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to imprisonment for a term not exceeding 3 years.
 
 [30/2002]
+
+[3A
 
 ### Prohibition on possession and transfer of possession of unmarked plastic explosives
 
@@ -408,6 +422,8 @@ carried out under a licence issued by the Licensing Officer; or
 
 [30/2002]
 
+[3B
+
 ### Prohibition on importation and exportation of unmarked plastic explosives
 
 7\.—(1) Subject to subsection (2), no person shall import or export any unmarked plastic explosive unless such unmarked plastic explosive —
@@ -436,6 +452,8 @@ carried out under a licence issued by the Licensing Officer; or
 
 [30/2002]
 
+[3C
+
 ### Rules for purposes of sections 5, 6 and 7
 
 8\.—(1) The Minister may make rules for carrying out the purposes of sections 5, 6 and 7.
@@ -445,6 +463,8 @@ carried out under a licence issued by the Licensing Officer; or
 (2) Without prejudice to the generality of subsection (1), such rules may provide for the application of any rules made under section 46(1) to any unmarked plastic explosives, subject to such modifications as may be specified in the rules made under subsection (1).
 
 [30/2002]
+
+[3D
 
 ### Minister may prohibit exportation by notification
 
@@ -460,6 +480,8 @@ carried out under a licence issued by the Licensing Officer; or
 
 (2) Any person who exports or removes, or attempts to export or remove, any article in contravention of any notification issued under this section or in breach of the restrictions and conditions subject to or upon which any licence is issued shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
+[4
+
 ### Extension of definition of explosive and prohibition as to explosives by notification
 
 10\.—(1) The Minister may, by notification in theGazette—
@@ -472,6 +494,8 @@ carried out under a licence issued by the Licensing Officer; or
 
 (2) Any person who manufactures, possesses or imports an explosive in contravention of a notification issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
 
+[5
+
 ### Power to prohibit poisonous or noxious gas or noxious substance
 
 11\.—(1) The Minister may, by notification in theGazette, prohibit either absolutely or subject to conditions the manufacture, possession or importation of any poisonous or noxious gas or noxious substance.
@@ -481,6 +505,8 @@ carried out under a licence issued by the Licensing Officer; or
 (2) Any person who commits any act in contravention of a notification issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [30/2002]
+
+[6
 
 ### Penalty for unauthorised exportation or removal
 
@@ -511,6 +537,8 @@ the master or pilot-in-command and the owner thereof shall be guilty of an offen
 shall be prima facie evidence that the vessel or aircraft has been used for the exportation, removal or importation of the same contrary to this Act.
 
 [30/2002]
+
+[7
 
 ## PART III
 
@@ -556,9 +584,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (6) Subsection (1)(a) shall not apply to any bayonet, sword, dagger, spear or spearhead in any dwelling-house kept therein as a curio or for ornamental purposes.
 
-[8
-
 [30/2002]
+
+[8
 
 14\. [Repealed by Act 5 of 2007 wef 01/07/2007]
 
@@ -576,6 +604,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) This section shall not apply to any bayonet, sword, dagger, spear and spearhead bona fide intended to be kept as a curio or for ornamental purposes.
 
+[12
+
 ### Delivery by persons other than licensed dealers
 
 17\.—(1) Any person, not being a licensed dealer, in possession of any guns, arms or ammunition under a licence, may deliver the guns, arms or ammunition to any other person who has produced to him a licence for the possession thereof.
@@ -588,6 +618,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [30/2002]
 
+[13
+
 ### Provision upon death or bankruptcy, etc., of licensee
 
 18\.—(1) If a person licensed to import any guns, arms or explosives dies or becomes bankrupt or becomes mentally incapable or otherwise disabled, the person carrying on the business of that licensee shall not be liable to any penalty or forfeiture for acting under the licence during such reasonable time as is necessary to allow him to make an application to the Licensing Officer for a new licence.
@@ -595,6 +627,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [30/2002]
 
 (2) The person carrying on the business of the licensee referred to in subsection (1) shall be deemed to be the holder of the licence for all purposes under this Act, and to be liable in the same way as if he were the original holder of the licence until a new licence is issued.
+
+[14
 
 ### Guns, arms or explosives of which possession has become unlawful to be deposited with authorised person
 
@@ -612,11 +646,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [21/73; 30/2002]
 
+[15
+
 ### Forfeiture of arms or explosives deposited with authorised person or Licensing Officer
 
 20\. Any arms or explosives deposited with an authorised person or the Licensing Officer in accordance with the provisions of this Act or any other written law for the time being in force shall, if not claimed by its owner or owners within 6 months from the date of the deposit, be forfeited to the Government.
 
 [2/73; 30/2002]
+
+[16
 
 ### Minister may authorise erection of magazines or establishment of hulks
 
@@ -625,6 +663,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (a) the erection of such magazines or the establishment of such hulks as he considers necessary for the storage of Government explosives, or for the storage or safe custody of explosives belonging to other persons; and
 
 (b) the use of Government magazines or any portion thereof for the storage or safe custody of explosives belonging to other persons.
+
+[18
 
 ## PART IIIA
 
@@ -732,21 +772,25 @@ OFFENCES
 
 [5/2007 wef 01/07/2007]
 
+[30/2002]
+
 (2) Any person who knowingly conceals any explosive precursor imported unlawfully or without a licence shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of a body corporate, to a fine not exceeding $100,000; and
 
 (b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[30/2002]
-
 [5/2007 wef 01/07/2007]
+
+[19
 
 ### Knowingly purchasing guns or arms from person not licensed
 
 23\. Any person who knowingly purchases guns or arms from any person not licensed shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [30/2002]
+
+[20
 
 ### Failure to keep prescribed book or make prescribed entry or making false entry
 
@@ -762,11 +806,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [30/2002]
 
+[21
+
 ### Resisting person in execution of power
 
 25\. Any person who assaults or obstructs or resists any person in the execution of any power vested in him by this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term which may extend to 6 months or to both.
 
 [30/2002]
+
+[22
 
 ### Obstructing inspection of stock-in-trade
 
@@ -816,6 +864,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [5/2007 wef 01/07/2007]
 
+[31
+
 ### Search for arms, etc.
 
 28\.—(1) The Licensing Officer may authorise, by writing —
@@ -835,6 +885,8 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 [30/2002]
 
 [5/2007 wef 01/07/2007]
+
+[32
 
 ### Search of vessels or aircraft
 
@@ -886,6 +938,8 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 [30/2002]
 
+[33
+
 ### Persons conveying arms, etc., may be apprehended without warrant in suspicious circumstances
 
 30\.—(1) If any person is found carrying or conveying any guns, arms, naval or military stores, explosives or explosive precursors in such a manner or under such circumstances as to afford reasonable grounds for suspicion that they may be used for any unlawful purpose dangerous to the public peace, any person may without warrant apprehend the person so found and detain him in custody.
@@ -893,6 +947,8 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 [5/2007 wef 01/07/2007]
 
 (2) Any person who is apprehended by a person not being a police officer shall be immediately taken to the nearest or other police station or be handed over to a police officer.
+
+[34
 
 ### Power to arrest without warrant persons committing dangerous offences
 
@@ -908,13 +964,21 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 [5/2007 wef 01/07/2007]
 
+[35
+
 ### Arrest by police officer without warrant
 
-32\. Any police officer may arrest without warrant any person found committing or attempting to commit or employing, aiding or assisting any person to commit an offence under section 10, 11, 13, 21A, 21D, 22, 24, 25, 26, 40(2) or 30.
+32\. Any police officer may arrest without warrant any person found committing or attempting to commit or employing, aiding or assisting any person to commit an offence under section 10, 11, 13, 21A, 21D, 22, 24, 25, 26, 27(2) or 30.
+
+[36
+
+[5/2007 wef 01/07/2007]
 
 ### Persons arrested to be taken to police station
 
 33\. Any person arrested by virtue of any power given under this Act shall, together with any article as to which any offence may have been committed or attempted to have been committed, be taken to a police station, and conveyed, as soon as possible, before a District Court or a Magistrate’s Court to be dealt with according to law.
+
+[37
 
 ### Power to stop and search for arms, explosives or explosive precursors in street
 
@@ -922,11 +986,15 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 [5/2007 wef 01/07/2007]
 
+[38
+
 ### Presumption
 
 35\. Every person who is proved to have had in his possession or under his control anything whatever containing any guns, arms, explosives or explosive precursors shall, until the contrary is proved, be deemed to have been in possession of those guns, arms, explosives or explosive precursors.
 
 [5/2007 wef 01/07/2007]
+
+[39
 
 ## PART VI
 
@@ -952,11 +1020,13 @@ any accident by explosion or by fire attended with loss of human life, or seriou
 
 [30/2002]
 
+[41
+
 ### Inquiry into accidents
 
 37\.—(1) Where the Public Prosecutor or a Deputy Public Prosecutor is of the opinion that an inquiry should be held into the nature and cause of any accident of which notice is required to be given under section 36, he may by written order direct any Magistrate or the Port Master to hold an inquiry into the nature and cause of the accident.
 
-(2) A Magistrate or the Port Master holding an inquiry under subsection (1) shall have for the purposes of the inquiry all the powers of a Magistrate’s Court conducting an inquiry under the Criminal Procedure Code 2010 (Act 15 of 2010).
+(2) A Magistrate or the Port Master holding an inquiry under subsection (1) shall have for the purposes of the inquiry all the powers of a Magistrate’s Court conducting an inquiry under the Criminal Procedure Code (Cap. 68).
 
 (3) The Magistrate or the Port Master shall on the conclusion of the inquiry forward to the Public Prosecutor or to a Deputy Public Prosecutor a copy of the proceedings and a report in writing —
 
@@ -964,27 +1034,39 @@ any accident by explosion or by fire attended with loss of human life, or seriou
 
 (b) stating whether in his opinion the accident was caused by design or was the result of accident or of negligence stating the full particulars of the case and the reasons for the conclusions he has arrived at.
 
+[42
+
 ### Abetment and attempt
 
 38\. Any person who abets the commission of any offence punishable under this Act, or attempts to commit any such offence, and in the attempt does any act towards the commission of the offence, shall be punished as if he had committed the offence.
 
+[25
+
 ### Jurisdiction of court
 
-39\. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+39\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 [5/2007 wef 01/07/2007]
 
-### Sanction
+### Consent
 
-40\.—(1) No prosecution shall be instituted for any offence made punishable by section 9, 10 or 11 except with the written sanction of the Public Prosecutor or a Deputy Public Prosecutor or on the complaint of the Licensing Officer or the Port Master.
+40\.—(1) No prosecution shall be instituted for any offence made punishable by section 9, 10 or 11 except with the consent of the Public Prosecutor or a Deputy Public Prosecutor or on the complaint of the Licensing Officer or the Port Master.
 
 [30/2002]
 
-(2) Such sanction shall state under what section or sections the prosecution is instituted, but if, in the course of the trial, it appears necessary to the court to alter, add to or amend any charge, no further or other sanction shall be necessary.
+[15/2010 wef 02/01/2011]
 
-(3) No conviction shall be set aside for the want of any sanction or complaint or for any omission or defect in any sanction or complaint, unless the accused has been prejudiced thereby.
+(2) Such consent shall state under what section or sections the prosecution is instituted, but if, in the course of the trial, it appears necessary to the court to alter, add to or amend any charge, no further or other consent shall be necessary.
 
-(4) No such sanction shall remain in force unless acted upon within one month from the date upon which it was given.
+[15/2010 wef 02/01/2011]
+
+(3) No conviction shall be set aside for the want of any consent or complaint or for any omission or defect in any consent or complaint, unless the accused has been prejudiced thereby.
+
+[15/2010 wef 02/01/2011]
+
+(4) No such consent shall remain in force unless acted upon within one month from the date upon which it was given.
+
+[15/2010 wef 02/01/2011]
 
 [27
 
@@ -997,6 +1079,8 @@ any accident by explosion or by fire attended with loss of human life, or seriou
 (b) if there is more than one such person, direct the fine to be divided amongst them in such proportions as the court orders.
 
 [30/2002]
+
+[28
 
 ### Forfeitures
 
@@ -1012,6 +1096,8 @@ may be seized by any police officer and, together with the receptacles containin
 
 (2) All guns, arms, naval or military stores and war material of any kind which are found without an apparent owner may be seized by any police officer, and if, after such notice given as to a Magistrate’s Court seems fit, no owner appears, they shall be forfeited to the Government.
 
+[29
+
 ### Liability of employer
 
 43\.—(1) For the purposes of this Act, a person shall be liable for every act, omission, neglect or default of any agent or servant employed by him and acting within the scope of his employment, as fully and effectually as if that act, omission, neglect or default were done or committed by the person.
@@ -1020,11 +1106,15 @@ may be seized by any police officer and, together with the receptacles containin
 
 (3) The liability of the employer shall not extend to imprisonment other than imprisonment in default of payment of a fine unless he is privy to the offence.
 
+[30
+
 ### General penalty
 
 44\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $1,000.
 
 [30/2002]
+
+[24
 
 ### Offences by bodies corporate, etc.
 
@@ -1036,11 +1126,7 @@ may be seized by any police officer and, together with the receptacles containin
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-[5/2007 wef 01/07/2007]
-
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
-
-[5/2007 wef 01/07/2007]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -1050,8 +1136,6 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-[5/2007 wef 01/07/2007]
-
 (4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
 (a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
@@ -1059,8 +1143,6 @@ the partner as well as the partnership shall be guilty of the offence and shall 
 (b) to be attributable to any neglect on the part of such an officer or member,
 
 the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
-
-[5/2007 wef 01/07/2007]
 
 (5) In this section —
 
@@ -1071,8 +1153,6 @@ the officer or member as well as the unincorporated association shall be guilty 
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
 
 “partner” includes a person purporting to act as a partner.
-
-[5/2007 wef 01/07/2007]
 
 (6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -1091,6 +1171,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 [30/2002]
 
 [5/2007 wef 01/07/2007]
+
+[40
 
 ### Power to make rules
 
@@ -1146,6 +1228,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (iii) to take samples of any explosive or explosive precursor found therein, on payment of their value;
 
+[5/2007 wef 01/07/2007]
+
 (iv) to seize, detain, remove and, if necessary, destroy any explosive or explosive precursor found therein; and
 
 [5/2007 wef 01/07/2007]
@@ -1172,11 +1256,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (4) All rules made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
+[39
+
 FIRST SCHEDULE
 
 Section 2(1)
 
-Detection Agents
+Detection agents
 
 First column
 
@@ -1260,11 +1346,13 @@ NO
 
 [S 228/2009 wef 25/05/2009]
 
+[5/2007 wef 01/07/2007]
+
 SECOND SCHEDULE
 
 Sections 2(1) and 45
 
-Explosive Precursors
+Explosive precursors
 
 1. 
 
@@ -1338,7 +1426,7 @@ Arms and Explosives Act
 
 (CHAPTER 13)
 
-This Legislative History is provided for the convenience of users of the Arms and Explosives Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Arms and Explosives Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1488,6 +1576,12 @@ This Legislative History is provided for the convenience of users of the Arms an
 ||Date of commencement|1 July 2007|
 |35.|**G. N. No. S 228/2009—Arms and Explosives Act (Amendment of First Schedule) Order 2009**|
 ||Date of operation|25 May 2009|
+|36.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Arms and Explosives Act
