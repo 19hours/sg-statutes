@@ -48,7 +48,7 @@
 
 - [17 Composition of offences](#Composition-of-offences)
 
-- [18 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [18 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [19 Directions by Minister](#Directions-by-Minister)
 
@@ -134,13 +134,21 @@ whichever is the greater.
 
 (2) The levy shall be collected and paid in respect of the month of October 1979 and every subsequent month.
 
+(3) [Deleted by Act 20/2008 wef 01/10/2008]
+
 (4) Without prejudice to any other remedy, the levy may be recovered as a debt due to the Agency from the person accountable therefor.
 
 [19/91; 35/96]
 
 ### Exemption from levy
 
-4\.—(3) The Minister may by order —
+4\. 
+
+—(1) [Deleted by Act 20/2008 wef 01/10/2008]
+
+(2) [Deleted by Act 20/2008 wef 01/10/2008]
+
+(3) The Minister may by order —
 
 (a) exempt wholly or partly any employer or class of employers from skills development levy in such circumstances and subject to such conditions as may be specified in the order; and
 
@@ -364,13 +372,15 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [19/91]
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-18\. No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+18\. No court shall try any offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
 
 [15
 
 [19/91]
+
+[Act 15/2010 wef 02/01/2011]
 
 ### Directions by Minister
 
@@ -605,3 +615,9 @@ This Legislative History is provided for the convenience of users of the Skills 
 |||(Bill No. 17/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|26 August 2008|
 ||Date of commencement|1 October 2008|
+|15.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
