@@ -368,9 +368,11 @@ MISCELLANEOUS AND GENERAL
 
 ### Saving for investigations by police and law enforcement officers
 
-14\. Nothing in this Act shall prohibit a police officer, an authorised person within the meaning of section 125A of the Criminal Procedure Code (Cap. 68) or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to the powers conferred on him under any written law.
+14\. Nothing in this Act shall prohibit a police officer, an authorised person within the meaning of section 39 of the Criminal Procedure Code 2010 or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to the powers conferred on him under any written law.
 
 [21/98; 42/2005]
+
+[15/2010 wef 02/01/2011 wef 02/01/2011]
 
 Power of police officer to access computer and data
 
@@ -382,9 +384,11 @@ Power of police officer to access computer and data
 
 [25/2003]
 
-(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in sections 125A and 125B of the Criminal Procedure Code.
+(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in sections 39 and 40 of the Criminal Procedure Code 2010.
 
 [25/2003; 42/2005]
+
+[15/2010 wef 02/01/2011 wef 02/01/2011]
 
 (3) Where an offence is disclosed in the course of or pursuant to the exercise of any power under this section —
 
@@ -446,7 +450,7 @@ Computer Misuse Act
 
 (CHAPTER 50A)
 
-This Legislative History is provided for the convenience of users of the Computer Misuse Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Computer Misuse Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -487,3 +491,8 @@ This Legislative History is provided for the convenience of users of the Compute
 ||Date of commencement|1 January 2006 (section 14)|
 |9.|**2007 Revised Edition—Computer Misuse Act (Chapter 50A)**|
 ||Date of operation|31 July 2007|
+|10.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010.|
+||Date of commencement|2 January 2011|
