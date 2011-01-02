@@ -150,7 +150,7 @@ PRELIMINARY
 
 When death occurs
 
-3\. [Repealed byAct 22 of 1998]
+3\. [Repealed by Act 22 of 1998]
 
 ### Designated officers
 
@@ -204,7 +204,9 @@ and who is not subject to any restriction as to his period of residence in Singa
 
 (3) The consent may be given orally by the Coroner, and if so given shall be confirmed in writing.
 
-(4) In this section, “Coroner” means a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321).
+(4) In this section, “Coroner” means the State Coroner or a Coroner appointed under the Coroners Act 2010.
+
+[14/2010 wef 02/01/2011]
 
 [ACT Transplantation and Anatomy 1977, s. 27]
 
@@ -807,6 +809,12 @@ This Legislative History is provided for the convenience of users of the Human O
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010 (Item 1(19) of the Second Schedule – Amendment of Human Organ Transplant Act)|
+|10.|**Act 14 of 2010—Coroners Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 10/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Human Organ Transplant Act
