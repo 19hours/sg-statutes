@@ -160,7 +160,7 @@
 
 - [57 Obstructing authorised officers, Suspicious Transaction Reporting Officers and immigration officers](#Obstructing-authorised-officers-Suspicious-Transaction-Reporting-Officers-and-immigration-officers)
 
-- [58 Sanction of Public Prosecutor](#Sanction-of-Public-Prosecutor)
+- [58 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [59 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
@@ -736,7 +736,7 @@ shall not be permitted to make an application under subsection (3) except with t
 
 [25/99]
 
-(5) A person who makes an application under subsection (1) or (3) shall give not less than 7 days’ written notice of the making of the application to the Attorney-General who shall be a party to any proceedings on the application.
+(5) A person who makes an application under subsection (1) or (3) shall give not less than 7 days’ written notice of the making of the application to the Public Prosecutor who shall be a party to any proceedings on the application.
 
 [15/2010 wef 02/01/2011]
 
@@ -748,7 +748,7 @@ ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
 ### Application of procedure for enforcing fines
 
-14\.—(1) Subject to subsection (4), where a court orders the defendant to pay any amount under section 4 or 5, section 224 of the Criminal Procedure Code (Cap. 68) shall have effect as if —
+14\.—(1) Subject to subsection (4), where a court orders the defendant to pay any amount under section 4 or 5, section 319 of the Criminal Procedure Code 2010 shall have effect as if —
 
 (a) that amount were a fine imposed on him by the court; and
 
@@ -802,7 +802,7 @@ the term of imprisonment to be served in default of payment of the amount shall 
 
 (2) Those powers are also exercisable where the High Court is satisfied —
 
-(a) that a person has been officially informed under section 122(6) of the Criminal Procedure Code (Cap. 68) that he may be prosecuted for a drug trafficking offence or a serious offence, as the case may be; or
+(a) that a person has been informed under section 23(1) of the Criminal Procedure Code 2010 that he may be prosecuted for a drug trafficking offence or a serious offence, as the case may be; or
 
 [15/2010 wef 02/01/2011]
 
@@ -1042,7 +1042,7 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 [44/2007 wef 01/11/2007]
 
-(b) substitute for the term of imprisonment fixed under section 224 of the Criminal Procedure Code (Cap. 68) in respect of the amount to be recovered under the order a shorter term determined in accordance with that section (as it has effect by virtue of section 14) in respect of the lesser amount.
+(b) substitute for the term of imprisonment fixed under section 319 of the Criminal Procedure Code 2010 in respect of the amount to be recovered under the order a shorter term determined in accordance with that section (as it has effect by virtue of section 14) in respect of the lesser amount.
 
 [15/2010 wef 02/01/2011]
 
@@ -1336,7 +1336,7 @@ that the material should be produced or that access to it should be given.
 
 ### Production orders against financial institution to produce material relating to drug trafficking or criminal conduct
 
-31\.—(1) The Attorney-General or any person duly authorised by him in writing may, for the purpose of an investigation into a drug trafficking offence or a serious offence, as the case may be, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
+31\.—(1) The Public Prosecutor or any person duly authorised by him in writing may, for the purpose of an investigation into a drug trafficking offence or a serious offence, as the case may be, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
 
 [15/2010 wef 02/01/2011]
 
@@ -1344,11 +1344,11 @@ that the material should be produced or that access to it should be given.
 
 (2) The High Court may, if on such an application it is satisfied that the conditions referred to in subsection (3) are fulfilled, make an order that the financial institution which appears to the Court to be in possession of the material to which the application relates shall —
 
-(a) produce the material to the Attorney-General or the person duly authorised by him for the Attorney-General or such person to take away; or
+(a) produce the material to the Public Prosecutor or the person duly authorised by him for the Public Prosecutor or such person to take away; or
 
 [15/2010 wef 02/01/2011]
 
-(b) give the Attorney-General or the person duly authorised by him access to the material,
+(b) give the Public Prosecutor or the person duly authorised by him access to the material,
 
 [15/2010 wef 02/01/2011]
 
@@ -2512,7 +2512,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 (b) a law in relation to a foreign serious offence in force in that country,
 
-shall be admissible in evidence for the purpose of proving the matters referred to in subsection (2), in any proceedings under this Act or any subsidiary legislation made thereunder, on its production by the Attorney-General or by any person duly authorised by him in writing.
+shall be admissible in evidence for the purpose of proving the matters referred to in subsection (2), in any proceedings under this Act or any subsidiary legislation made thereunder, on its production by the Public Prosecutor or by any person duly authorised by him in writing.
 
 [15/2010 wef 02/01/2011]
 
@@ -2570,6 +2570,8 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 (1A) An immigration officer within the meaning of section 48B may arrest without warrant any person whom he reasonably believes has committed an offence under section 48C.
 
+[4/2003 wef 01/04/2003]
+
 (2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
 
 (3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act.
@@ -2596,11 +2598,13 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 [44/2007 wef 01/11/2007]
 
-### Sanction of Public Prosecutor
+### Consent of Public Prosecutor
 
-58\. No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+58\. No court shall try any offence under this Act or any regulations made thereunder except with the consent of the Public Prosecutor.
 
 [55
+
+[15/2010]
 
 ### Offences by bodies corporate, etc.
 
@@ -4572,13 +4576,11 @@ Part X — Offences included as serious offences
 
 with effect from 21st November 2010
 
-[S 667/2010 wef 21/11/2010]
-
 Offences
 
 Description*
 
-Hostage-Taking Act 2010(Act 19 of 2010 )
+Hostage-Taking Act 2010 (Act 19 of 2010 )
 
 366. Section 3
 
@@ -4715,6 +4717,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 ||Dates of commencement|17 February 2010 (section 13)|
 |28.|**G. N. No. S 667/2010—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2010**|
 ||Date of commencement|21 November 2010|
+|29.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
