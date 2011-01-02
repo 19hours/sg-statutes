@@ -170,7 +170,7 @@
 
 - [67 Penalty for corporations](#Penalty-for-corporations)
 
-- [68 Proceedings with consent of Attorney-General](#Proceedings-with-consent-of-Attorney-General)
+- [68 Proceedings with consent of Public Prosecutor](#Proceedings-with-consent-of-Public-Prosecutor)
 
 - [69 Composition of offences](#Composition-of-offences)
 
@@ -1634,9 +1634,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [FAA, s. 88]
 
-### Proceedings with consent of Attorney-General
+### Proceedings with consent of Public Prosecutor
 
-68\. Proceedings for an offence under this Act may be taken only with the consent of the Attorney-General.
+68\. Proceedings for an offence under this Act may be taken only with the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 [SFA, s. 336]
 
@@ -2314,6 +2316,12 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
 |||(item 1(50) in the Schedule)|
+|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
