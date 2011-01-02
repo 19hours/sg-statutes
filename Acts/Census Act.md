@@ -48,7 +48,7 @@
 
 - [21 Impersonation of a census officer](#Impersonation-of-a-census-officer)
 
-- [22 No prosecution without sanction](#No-prosecution-without-sanction)
+- [22 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
 - [23 Census records not admissible in evidence](#Census-records-not-admissible-in-evidence)
 
@@ -296,9 +296,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 21\. Any person who impersonates a census officer shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months.
 
-### No prosecution without sanction
+### Consent of Public Prosecutor
 
-22\. No prosecution shall be instituted under this Act without the previous sanction, in writing, of the Attorney-General .
+22\. No prosecution shall be instituted under this Act without the consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 [20
 
@@ -340,13 +342,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FIRST SCHEDULE
 
-Section 13.
+Section 13
 
 Competent Authorities
 
-First column.
+First column
 
-Second column.
+Second column
 
 Central Provident Fund Board
 
@@ -391,3 +393,9 @@ This Legislative History is provided for the convenience of users of the Census 
 ||Date of commencement|6 April 1990|
 |5.|**1991 Revised Edition—Census Act (Chapter 35)**|
 ||Date of operation|1 March 1991|
+|6.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
