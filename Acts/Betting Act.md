@@ -176,9 +176,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 (5) An offence under subsection (3) shall be a non-bailable seizable offence and any person making an arrest for such an offence may seize and detain any articles liable to be forfeited.
 
-(6) Notwithstanding anything to the contrary in section 352 of the Criminal Procedure Code [Cap. 68] a police officer shall have power to release on bail a person accused of an offence under subsection (3).
+(6) Notwithstanding anything to the contrary in section 93 of the Criminal Procedure Code 2010 a police officer shall have power to release on bail a person accused of an offence under subsection (3).
 
 [21/73]
+
+[15/2010 wef 02/01/2011]
 
 ### Penalty for unlawful announcement of information on horse-race, etc.
 
@@ -288,7 +290,9 @@ it shall be presumed, until the contrary is proved, that the place is a common b
 
 19\.—(1) If a person, who has been convicted of an offence under this Act, is again convicted of the same or any other offence under this Act, the Magistrate’s Court or District Court may, in addition to the punishment provided for such offence, make an order requiring him to give security, by bond with one or more sureties, that he will not offend against this Act for such period not exceeding one year, as the court thinks fit to fix.
 
-(2) Every such order shall be made as nearly as may be in the same manner, and shall have the like effect and consequences as if the order were made under section 74 of the Criminal Procedure Code [Cap. 68].
+(2) Every such order shall be made as nearly as may be in the same manner, and shall have the like effect and consequences as if the order were made under section 44 of the Criminal Procedure Code 2010.
+
+[15/2010 wef 02/01/2011]
 
 ### Jurisdiction of courts
 
@@ -326,7 +330,7 @@ Betting Act
 
 (CHAPTER 21)
 
-This Legislative History is provided for the convenience of users of the Betting Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Betting Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -367,3 +371,9 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 7/2008 published on 26 May 2008)|
 ||Date of Second and Third Readings|21 July 2008|
 ||Date of commencement|27 December 2010|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
