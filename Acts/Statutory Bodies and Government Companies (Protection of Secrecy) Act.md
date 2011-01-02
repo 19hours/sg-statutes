@@ -56,7 +56,9 @@ An Act to protect the secrecy of information of statutory bodies and Government 
 
 ### Consent for prosecution
 
-4\. No prosecution shall be instituted under this Act without the written consent of the Attorney-General.
+4\. No prosecution shall be instituted under this Act without the written consent of the Public Prosecutor.
+
+[15/2010 wef 02/01/2011]
 
 ### Amendment of Schedule
 
@@ -392,7 +394,7 @@ Urban Redevelopment Authority Act
 
 [S 288/2005 wef 06/05/2005]
 
-[S3/2005 wef 10/06/2005]
+[S 3/2005 wef 10/06/2005]
 
 [S 599/2005 wef 14/09/2005]
 
@@ -400,7 +402,7 @@ Urban Redevelopment Authority Act
 
 [17/2009 wef 01/07/2009]
 
-[S589/2009 wef 01/12/2009]
+[S 589/2009 wef 01/12/2009]
 
 Part II
 
@@ -408,13 +410,15 @@ government companies
 
 PSA Corporation Limited and its subsidiary corporations.
 
+[G.N. Nos. S 565/95; S 446/96; S 483/96; S 455/97; S 92/98; S 430/98; S 495/2003; S 276/2004]
+
 ## LEGISLATIVE HISTORY
 
 Statutory Bodies and Government Companies (Protection of Secrecy) Act
 
 (CHAPTER 319)
 
-This Legislative History is provided for the convenience of users of the Statutory Bodies and Government Companies (Protection of Secrecy) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Statutory Bodies and Government Companies (Protection of Secrecy) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -541,3 +545,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 July 2009|
 |38.|**G. N. No. S 589/2009—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2009**|
 ||Date of commencement|1 December 2009|
+|39.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
