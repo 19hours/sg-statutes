@@ -48,7 +48,7 @@
 
 - [17 Cessation of order or appointment](#Cessation-of-order-or-appointment)
 
-- [18 Application by Attorney-General to revoke or vary warrant or order](#Application-by-Attorney-General-to-revoke-or-vary-warrant-or-order)
+- [18 Application by Public Prosecutor to revoke or vary warrant or order](#Application-by-Public-Prosecutor-to-revoke-or-vary-warrant-or-order)
 
 - [19 Application by interested person to revoke or vary warrant or order](#Application-by-interested-person-to-revoke-or-vary-warrant-or-order)
 
@@ -334,7 +334,7 @@ seizure, freezing and confiscation of terrorist property
 
 ### Application for warrant for seizure and order for restraint of property
 
-11\.—(1) A Judge may, on an ex parte application by the Attorney-General , after examining the application in private and if satisfied that there is in any building, receptacle or place any property in respect of which an order of forfeiture may be made under section 24, issue —
+11\.—(1) A Judge may, on an ex parte application by the Public Prosecutor, after examining the application in private and if satisfied that there is in any building, receptacle or place any property in respect of which an order of forfeiture may be made under section 24, issue —
 
 (a) if the property is situated in Singapore, a warrant authorising any police officer, or person named in the warrant —
 
@@ -358,13 +358,13 @@ seizure, freezing and confiscation of terrorist property
 
 ### Contents of application for warrant or order
 
-12\. An affidavit in support of an application by the Attorney-General under section 11 may be sworn or affirmed on information and belief.
+12\. An affidavit in support of an application by the Public Prosecutor under section 11 may be sworn or affirmed on information and belief.
 
 [15/2010 wef 02/01/2011]
 
 ### Undertakings for warrant or order
 
-13\. Before issuing a warrant under section 11(1)(a) or an order under section 11(1)(b), the Judge may require the Attorney-General to give such undertakings as the Judge considers appropriate with respect to the payment of damages or costs, or both, in relation to the issuance and execution of the warrant or the making and execution of the restraint order.
+13\. Before issuing a warrant under section 11(1)(a) or an order under section 11(1)(b), the Judge may require the Public Prosecutor to give such undertakings as the Judge considers appropriate with respect to the payment of damages or costs, or both, in relation to the issuance and execution of the warrant or the making and execution of the restraint order.
 
 [15/2010 wef 02/01/2011]
 
@@ -374,7 +374,7 @@ seizure, freezing and confiscation of terrorist property
 
 ### Appointment of manager, etc.
 
-15\.—(1) On an application under section 11, at the request of the Attorney-General, if a Judge is of the opinion that the circumstances so require, the Judge may by order —
+15\.—(1) On an application under section 11, at the request of the Public Prosecutor, if a Judge is of the opinion that the circumstances so require, the Judge may by order —
 
 (a) appoint a person to take control of, and manage or otherwise deal with, all or part of the property in accordance with the directions of the Judge; and
 
@@ -382,7 +382,7 @@ seizure, freezing and confiscation of terrorist property
 
 [15/2010 wef 02/01/2011]
 
-(2) When the Attorney-General so requests, a Judge appointing a person under subsection (1) shall appoint the Public Trustee.
+(2) When the Public Prosecutor so requests, a Judge appointing a person under subsection (1) shall appoint the Public Trustee.
 
 [15/2010 wef 02/01/2011]
 
@@ -412,9 +412,9 @@ seizure, freezing and confiscation of terrorist property
 
 (c) the property that is the subject of the order is returned to an applicant in accordance with the law or forfeited to the Government.
 
-### Application by Attorney-General to revoke or vary warrant or order
+### Application by Public Prosecutor to revoke or vary warrant or order
 
-18\. The Attorney-General may at any time apply to a Judge to revoke or vary a warrant or order issued or made under this Part, other than an appointment made under section 15(2).
+18\. The Public Prosecutor may at any time apply to a Judge to revoke or vary a warrant or order issued or made under this Part, other than an appointment made under section 15(2).
 
 ### Application by interested person to revoke or vary warrant or order
 
@@ -426,7 +426,7 @@ seizure, freezing and confiscation of terrorist property
 
 (2) Where an application is made under subsection (1)(a) —
 
-(a) the application shall not, without the consent of the Attorney-General , be heard by a Judge unless the applicant has given to the Attorney-General at least 2 clear days notice in writing of the application; and
+(a) the application shall not, without the consent of the Public Prosecutor, be heard by a Judge unless the applicant has given to the Public Prosecutor at least 2 clear days notice in writing of the application; and
 
 [15/2010 wef 02/01/2011]
 
@@ -434,7 +434,7 @@ seizure, freezing and confiscation of terrorist property
 
 (3) A Judge may, on an application made to the Judge under subsection (1)(b), order that the applicant be permitted to examine the property subject to such terms as appear to the Judge to be necessary or desirable to ensure that the property is safeguarded and preserved for any purpose for which it may subsequently be required.
 
-(4) On an application made to a Judge under subsection (1)(a) in respect of any property and after hearing the applicant and the Attorney-General and any other person to whom notice was given under subsection (2)(b), the Judge may order that the property or part thereof be returned to the applicant or, in the case of a restraint order issued under section 11(1)(b), revoke the order, vary the order to exclude the property or any interest in the property or part thereof from the application of the order or make the order subject to such reasonable conditions as the Judge thinks fit —
+(4) On an application made to a Judge under subsection (1)(a) in respect of any property and after hearing the applicant and the Public Prosecutor and any other person to whom notice was given under subsection (2)(b), the Judge may order that the property or part thereof be returned to the applicant or, in the case of a restraint order issued under section 11(1)(b), revoke the order, vary the order to exclude the property or any interest in the property or part thereof from the application of the order or make the order subject to such reasonable conditions as the Judge thinks fit —
 
 (a) if the applicant enters into a recognizance before the Judge, with or without sureties, in such amount and with such conditions, if any, as the Judge directs and where the Judge considers it appropriate, deposits with the Judge such sum of money or other valuable security as the Judge directs;
 
@@ -450,7 +450,7 @@ if the Judge is satisfied that the applicant has no other assets or means availa
 
 [15/2010 wef 02/01/2011]
 
-(5) For the purpose of determining the reasonableness of expenses referred to in subsection (4)(c), the Attorney-General may, at the hearing of the application, make representations as to what would constitute the reasonableness of the expenses.
+(5) For the purpose of determining the reasonableness of expenses referred to in subsection (4)(c), the Public Prosecutor may, at the hearing of the application, make representations as to what would constitute the reasonableness of the expenses.
 
 [15/2010 wef 02/01/2011]
 
@@ -474,13 +474,13 @@ and that the property will no longer be required for the purpose of any investig
 
 (2) The property may continue to be detained, or the order may continue in force, for a period exceeding 6 months if proceedings are instituted in respect of which the property detained may be forfeited.
 
-(3) The property may continue to be detained or the order may continue in force for a period or periods exceeding 6 months if the continuation is, on application made by the Attorney-General , ordered by a Judge, where the Judge is satisfied that the property is required, after the expiration of the period or periods, for the purpose of this Act or any other Act respecting forfeiture or for the purpose of any investigation or as evidence in any proceedings.
+(3) The property may continue to be detained or the order may continue in force for a period or periods exceeding 6 months if the continuation is, on application made by the Public Prosecutor, ordered by a Judge, where the Judge is satisfied that the property is required, after the expiration of the period or periods, for the purpose of this Act or any other Act respecting forfeiture or for the purpose of any investigation or as evidence in any proceedings.
 
 [15/2010 wef 02/01/2011]
 
 ### Application for forfeiture of property
 
-21\. The Attorney-General may make an application to a Judge for an order of forfeiture in respect of —
+21\. The Public Prosecutor may make an application to a Judge for an order of forfeiture in respect of —
 
 (a) property owned or controlled by or on behalf of any terrorist or terrorist entity; or
 
@@ -490,17 +490,17 @@ and that the property will no longer be required for the purpose of any investig
 
 ### Contents of application for forfeiture of property
 
-22\. An affidavit in support of an application by the Attorney-General under section 21 may be sworn or affirmed on information and belief.
+22\. An affidavit in support of an application by the Public Prosecutor under section 21 may be sworn or affirmed on information and belief.
 
 [15/2010 wef 02/01/2011]
 
 ### Respondents and notice
 
-23\.—(1) The Attorney-General is required to name as a respondent to an application under section 21 only those persons who are known to own or control the property that is the subject of the application.
+23\.—(1) The Public Prosecutor is required to name as a respondent to an application under section 21 only those persons who are known to own or control the property that is the subject of the application.
 
 [15/2010 wef 02/01/2011]
 
-(2) The Attorney-General shall give notice of an application under section 21 to named respondents in such a manner as the Judge directs or as provided in the Rules of Court.
+(2) The Public Prosecutor shall give notice of an application under section 21 to named respondents in such a manner as the Judge directs or as provided in the Rules of Court.
 
 [15/2010 wef 02/01/2011]
 
@@ -789,6 +789,12 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|17 December 2008|
 |8.|**G. N. No. S 675/2010—Terrorism (Suppression of Financing) Act (Amendment of Schedule) Order 2010**|
 ||Date of commencement|21 November 2010|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
