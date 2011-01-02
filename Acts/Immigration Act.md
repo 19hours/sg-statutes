@@ -402,7 +402,7 @@ ENTRY INTO AND DEPARTURE FROM SINGAPORE
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and —
 
-(a) in the case of an offence under subsection (1), shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000;
+(a) in the case of an offence under subsection (1), shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000;
 
 [15/2010 wef 02/01/2011]
 
@@ -674,7 +674,7 @@ ENTRY AND RE-ENTRY PERMITS
 
 (a) in the case where he remains unlawfully in Singapore for a period not exceeding 90 days, shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both; or
 
-(b) in the case where he remains unlawfully in Singapore for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.
+(b) in the case where he remains unlawfully in Singapore for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.
 
 [15/2010 wef 02/01/2011]
 
@@ -728,7 +728,7 @@ the Controller may cancel the permit or certificate issued to that person, and m
 
 (a) in the case where he remains unlawfully for a period not exceeding 90 days, shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both;
 
-(b) in the case where he remains unlawfully for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.
+(b) in the case where he remains unlawfully for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.
 
 [15/2010 wef 02/01/2011]
 
@@ -1312,13 +1312,17 @@ MISCELLANEOUS
 
 38\.—(1) Every immigration officer appointed under this Act shall have the authority and powers of a police officer to enforce any of the provisions of this Act relating to arrest, detention or removal.
 
-(2) Every immigration officer shall have the authority to appear in court and conduct any prosecution in respect of any offence under this Act or the regulations.
+(2) Every immigration officer shall have the authority to appear in court and may, with the authorisation of the Public Prosecutor, conduct any prosecution in respect of any offence under this Act or the regulations.
 
 [15/2010 wef 02/01/2011]
 
 (3) In any case relating to the commission of an offence under this Act or the regulations, an immigration officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
 
 [34/98]
+
+(4) For the purposes of subsection (3), when an immigration officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the immigration officer shall be deemed to be an officer not below the rank of inspector of police.
+
+[15/2010 wef 02/01/2011]
 
 ### Immigration officer to be armed
 
@@ -1572,7 +1576,7 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (3) Any police officer, immigration officer or customs officer may arrest without warrant any person whom he reasonably believes has committed an offence under this Act or the regulations.
 
-(4) Where any person is arrested by an immigration officer or customs officer under subsection (3), the immigration officer or customs officer shall comply with sections 35 and 36 of the Criminal Procedure Code (Cap. 68) as if he were a police officer.
+(4) Where any person is arrested by an immigration officer or customs officer under subsection (3), the immigration officer or customs officer shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.
 
 [15/2010 wef 02/01/2011]
 
@@ -1732,7 +1736,7 @@ shall be guilty of an offence and —
 
 (ia) in the case of an offence under paragraph (aa), shall be punished with imprisonment for a term of not less than 6 months and not more than 2 years, and —
 
-(A) where the offence is abetted within the meaning of section 107(b) or (c) of the Penal Code (Cap. 224) and the offence abetted is punishable with caning, shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes; or
+(A) where the offence is abetted within the meaning of section 107(b) or (c) of the Penal Code (Cap. 224) and the offence abetted is punishable with caning, shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes; or
 
 [15/2010 wef 02/01/2011]
 
@@ -1740,7 +1744,7 @@ shall be guilty of an offence and —
 
 (ii) subject to subsection (1A), in the case of an offence under paragraph (b) or (e), shall be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
 
-(iii) in the case of an offence under paragraph (c), shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to section 231 of the Criminal Procedure Code (Cap. 68), with caning with not less than 3 strokes;
+(iii) in the case of an offence under paragraph (c), shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, with caning with not less than 3 strokes;
 
 [15/2010 wef 02/01/2011]
 
@@ -1752,13 +1756,13 @@ shall be guilty of an offence and —
 
 [12/70; 60/73; 13/77; 35/84; 34/89; 38/93; 41/95; 34/98; 53/2004; 33/2007; S 22/89; S 227/95]
 
-(1A) Where, in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 immigration offenders, the defendant shall be punished, subject to section 231 of the Criminal Procedure Code (Cap. 68), with caning in addition to the punishment prescribed for that offence.
+(1A) Where, in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 immigration offenders, the defendant shall be punished, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, with caning in addition to the punishment prescribed for that offence.
 
 [15/2010 wef 02/01/2011]
 
 [41/95]
 
-(1B) Where, by virtue of section 231 of the Criminal Procedure Code (Cap. 68), the defendant referred to in subsection (1A) is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $10,000.
+(1B) Where, by virtue of sections 325(1) and 330(1) of the Criminal Procedure Code 2010, the defendant referred to in subsection (1A) is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $10,000.
 
 [15/2010 wef 02/01/2011]
 
@@ -2129,3 +2133,8 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 23/2009 published on 23 November 2009)|
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|11 February 2010|
+|29.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
