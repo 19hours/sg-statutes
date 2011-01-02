@@ -1350,9 +1350,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 58\.—(1) Proceedings for an offence —
 
-(a) against any provision in Part VII may be taken only with the consent of the Attorney-General; and
+(a) against any provision in Part VII may be taken only with the consent of the Public Prosecutor; and
 
-(b) against any other provision of this Act may be taken by the Board or, with the consent of the Attorney-General, by any other person.
+(b) against any other provision of this Act may be taken by the Board or, with the consent of the Public Prosecutor, by any other person.
+
+[15/2010 wef 02/01/2011]
 
 (2) The Board may, without instituting proceedings against any person for an offence under this Act or any regulations made thereunder, which is punishable only by a fine, demand and receive the amount of such fine or such reduced amount as it thinks fit, from such person, whereupon —
 
@@ -1544,3 +1546,9 @@ The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodit
 ||Date of commencement|27 February 2008 (sections 2 to 25, 26(a), 27, 28(a) and (b) and 29)|
 |10.|**2009 Revised Edition—Commodity Trading Act**|
 ||Date of operation|31 July 2009|
+|11.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
