@@ -270,7 +270,11 @@ TRANSFER AND BROKERING OF STRATEGIC GOODS AND STRATEGIC GOODS TECHNOLOGY
 
 (b) export any document in which any strategic goods technology is recorded, stored or embodied; or
 
-(c) transmit any strategic goods technology .
+(c) transmit any strategic goods technology.
+
+[45/2007 wef 01/01/2008]
+
+(d) [Deleted by Act 45/2007 wef 01/01/2008]
 
 (2) No person shall —
 
@@ -301,6 +305,8 @@ if —
 (b) an application for a patent; or
 
 (c) any research in the technology the results of which have no practical application.
+
+[45/2007 wef 01/01/2008]
 
 (5) Subsection (2)(a) does not apply to the bringing in transit of any goods with the approval of a senior authorised officer.
 
@@ -664,7 +670,9 @@ PROVISIONS AS TO PROCEEDINGS
 
 ### Who may prosecute
 
-23\. Prosecutions for offences under this Act may be conducted by a senior authorised officer authorised in writing by the Minister for this purpose.
+23\. Prosecutions for offences under this Act may, with the authorisation of the Public Prosecutor, be conducted by a senior authorised officer authorised in writing by the Minister for this purpose.
+
+[15/2010 wef 02/01/2011]
 
 ### Presumption
 
@@ -832,6 +840,12 @@ This Legislative History is provided for the convenience of users of the Strateg
 |||(Bill No. 35/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|19 September 2007|
 ||Date of commencement|1 January 2008|
+|5.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
 ## COMPARATIVE TABLE
 
 Strategic Goods (Control) Act
