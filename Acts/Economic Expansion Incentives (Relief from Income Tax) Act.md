@@ -144,25 +144,25 @@
 
 - [44 (Repealed)](#Repealed)
 
-[**Part VIA EXPORT OF SERVICES**](#Part-VIA)
+[**Part VIA (Repealed)**](#Part-VIA)
 
-- [44A Interpretation of this Part](#Interpretation-of-this-Part)
+- [44A (Repealed)](#Repealed)
 
-- [44B Application for and issue of certificate to export service company or export service firm](#Application-for-and-issue-of-certificate-to-export-service-company-or-export-service-firm)
+- [44B (Repealed)](#Repealed)
 
-- [44C Tax relief period of export service company or firm](#Tax-relief-period-of-export-service-company-or-firm)
+- [44C (Repealed)](#Repealed)
 
-- [44D Application of certain sections to export service company or firm](#Application-of-certain-sections-to-export-service-company-or-firm)
+- [44D (Repealed)](#Repealed)
 
-- [44E Ascertainment of income of export service company or firm](#Ascertainment-of-income-of-export-service-company-or-firm)
+- [44E (Repealed)](#Repealed)
 
-- [44F Comptroller to issue statement of income](#Comptroller-to-issue-statement-of-income)
+- [44F (Repealed)](#Repealed)
 
-- [44G Certification by auditor](#Certification-by-auditor)
+- [44G (Repealed)](#Repealed)
 
-- [44H Application of this Part to partnership](#Application-of-this-Part-to-partnership)
+- [44H (Repealed)](#Repealed)
 
-- [44I Deduction of allowances and losses](#Deduction-of-allowances-and-losses)
+- [44I (Repealed)](#Repealed)
 
 [**Part VII (Repealed)**](#Part-VII)
 
@@ -211,6 +211,8 @@
 - [73 Recovery of tax exempted](#Recovery-of-tax-exempted)
 
 - [74 Application of Parts XVII and XVIII of Income Tax Act](#Application-of-Parts-XVII-and-XVIII-of-Income-Tax-Act)
+
+- [74A No investment allowance for certain expenditure](#No-investment-allowance-for-certain-expenditure)
 
 [**Part XI (Repealed)**](#Part-XI)
 
@@ -290,29 +292,29 @@
 
 - [97ZE Recovery of tax](#Recovery-of-tax)
 
-[**Part XIIIE RESEARCH AND DEVELOPMENT AND INTELLECTUAL PROPERTY MANAGEMENT HUB**](#Part-XIIIE)
+[**Part XIIIE (Repealed)**](#Part-XIIIE)
 
-- [97ZF Interpretation of this Part](#Interpretation-of-this-Part)
+- [97ZF (Repealed)](#Repealed)
 
-- [97ZG Application for and issue of letter of approval](#Application-for-and-issue-of-letter-of-approval)
+- [97ZG (Repealed)](#Repealed)
 
-- [97ZH Exemption from income tax](#Exemption-from-income-tax)
+- [97ZH (Repealed)](#Repealed)
 
-- [97ZI Certain dividends exempted from income tax](#Certain-dividends-exempted-from-income-tax)
+- [97ZI (Repealed)](#Repealed)
 
-- [97ZJ Recovery of tax for breach of condition](#Recovery-of-tax-for-breach-of-condition)
+- [97ZJ (Repealed)](#Repealed)
 
-[**Part XIIIF OVERSEAS INVESTMENT INCENTIVE**](#Part-XIIIF)
+[**Part XIIIF (Repealed)**](#Part-XIIIF)
 
-- [97ZK Interpretation of this Part](#Interpretation-of-this-Part)
+- [97ZK (Repealed)](#Repealed)
 
-- [97ZL Application for and issue of letter of approval](#Application-for-and-issue-of-letter-of-approval)
+- [97ZL (Repealed)](#Repealed)
 
-- [97ZM Deferment of payment of tax](#Deferment-of-payment-of-tax)
+- [97ZM (Repealed)](#Repealed)
 
-- [97ZN Ascertainment of qualifying loss](#Ascertainment-of-qualifying-loss)
+- [97ZN (Repealed)](#Repealed)
 
-- [97ZO Payment of tax deferred](#Payment-of-tax-deferred)
+- [97ZO (Repealed)](#Repealed)
 
 [**Part XIV MISCELLANEOUS PROVISIONS**](#Part-XIV)
 
@@ -984,139 +986,23 @@ PRODUCTION FOR EXPORT
 
 ## PART VIA
 
-EXPORT OF SERVICES
+44A\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-### Interpretation of this Part
+44B\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-44A\. In this Part, unless the context otherwise requires —
+44C\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“commencement day”, in relation to an export service company or export service firm, means the date specified under section 44B(3) in the certificate issued to that company or firm under that section;
+44D\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“export service company” means a company which has been issued with a certificate under section 44B(2);
+44E\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“export service firm” means a firm which has been issued with a certificate under section 44B(2);
+44F\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“qualifying services” means any of the following services undertaken with respect to overseas projects for persons who are neither residents of nor permanent establishments in Singapore:
+44G\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-(a) technical services including construction, distribution, design and engineering services;
+44H\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-(b) consultancy, management, supervisory or advisory services relating to any technical matter or to any trade or business;
-
-(c) fabrication of machinery and equipment and procurement of materials, components and equipment;
-
-(d) data processing, programming, computer software development, telecommunications and other computer services;
-
-(e) professional services including accounting, legal, medical and architectural services;
-
-(f) educational and training services; and
-
-(g) any other services as may be prescribed.
-
-[22/87]
-
-### Application for and issue of certificate to export service company or export service firm
-
-44B\.—(1) Where a company or firm is engaged in any qualifying service, the company or firm may apply in the prescribed form to the Minister for approval as an export service company or export service firm.
-
-[22/87]
-
-(2) The Minister may, if he considers it expedient in the public interest to do so, approve the application and issue the company or firm with a certificate subject to such terms and conditions as he may impose.
-
-[22/87]
-
-(3) Every certificate issued to an export service company or firm under this section shall specify —
-
-(a) a date as the commencement day from which the company or firm shall be entitled to tax relief under this Part;
-
-(b) its qualifying services; and
-
-(c) its base amount of income for the purpose of section 44E(2).
-
-[22/87]
-
-(4) The Minister may, in his discretion, upon the application of an export service company or firm, amend its certificate by substituting for the commencement day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the commencement day in relation to that certificate.
-
-[22/87]
-
-### Tax relief period of export service company or firm
-
-44C\.—(1) The tax relief period of an export service company or firm shall commence on its commencement day and shall continue for such period, not exceeding 10 years, as the Minister may, in his discretion, determine.
-
-[22/87; 1/95]
-
-(2) The Minister may, where he is satisfied that it is expedient in the public interest to do so and subject to such terms and conditions as he may impose, extend the tax relief period of any export service company or firm for such further periods, not exceeding 5 years at any one time, as he may determine.
-
-(3) The tax relief period of an export service company or firm shall not in the aggregate exceed 20 years.
-
-[22/87; 1/95]
-
-### Application of certain sections to export service company or firm
-
-44D\.—(1) Section 9 shall apply, with the necessary modifications, to an export service company or firm as it applies to a pioneer enterprise.
-
-[22/87]
-
-(2) Section 40 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 shall apply, with the necessary modifications, to an export service company as it applies to an export enterprise.
-
-[22/87; 11/2004]
-
-(3) Sections 49 and 50 in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 shall apply, with the necessary modifications, to an export service company or firm as they apply to an international trading company and for the purposes of such application, the reference in section 49(2) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 to the export sales of qualifying manufactured goods, Singapore domestic produce and qualifying commodities shall be read as a reference to the provision of qualifying services.
-
-[22/87; 11/2004]
-
-### Ascertainment of income of export service company or firm
-
-44E\.—(1) The income of an export service company or firm in respect of its qualifying services shall be ascertained (after making such adjustments as may be necessary in consequence of a direction under section 9 as made applicable by section 44D) for any accounting period during its tax relief period in accordance with the Income Tax Act (Cap. 134), and, in particular, the following provisions shall apply:
-
-(a) income from sources other than the qualifying services shall be excluded and separately assessed;
-
-(b) there shall be deducted in arriving at the income derived from the qualifying services —
-
-(i) all direct costs and expenses incurred in respect of the qualifying services;
-
-(ii) all indirect expenses which are reasonably and properly attributable to the qualifying services;
-
-(c) the allowances provided for in sections 16 to 22 of the Income Tax Act (Cap. 134) attributable to income derived from the qualifying services during the tax relief period shall be taken into account notwithstanding that no claim for those allowances has been made; and
-
-(d) for the purposes of paragraphs (b)(ii) and (c), the amounts attributable to the qualifying services shall be determined on such basis as the Comptroller thinks reasonable and proper.
-
-[22/87]
-
-(2) The amount of income ascertained under subsection (1) which will qualify for the relief under section 44F shall be the excess of the amount of the income ascertained under subsection (1) over a base amount of income to be determined by the Minister.
-
-[22/87]
-
-### Comptroller to issue statement of income
-
-44F\.—(1) For each year of assessment, the Comptroller shall issue to an export service company or firm a statement (to be included in a notice of any assessment served on the company or firm under section 76 of the Income Tax Act) for that year of assessment showing the amount of income ascertained under section 44E(2) which will qualify for the relief provided by this section, and Parts XVII and XVIII of the Income Tax Act (relating to assessments, objections and appeals) shall apply, with the necessary modifications, as if that statement were a notice of assessment given under those provisions.
-
-[22/87]
-
-(2) Subject to section 40(6) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004, where any statement issued under subsection (1) has become final and conclusive, 90% of the amount of the qualifying income referred to in subsection (1) shall not form part of the statutory income of the export service company or firm for the year of assessment to which the income relates and shall be exempt from tax.
-
-[22/87; 11/2004]
-
-### Certification by auditor
-
-44G\. The Comptroller may require an auditor to certify the income derived by an export service company or firm from its qualifying services and any direct costs and expenses incurred therefor.
-
-[22/87]
-
-### Application of this Part to partnership
-
-44H\. Where the export service firm is a partnership, this Part shall apply to the partners subject to such provisions as may be prescribed.
-
-[22/87]
-
-### Deduction of allowances and losses
-
-44I\. The Minister may by regulations provide, in relation to an export service company or firm, for the deduction of —
-
-(a) any unabsorbed allowances provided for under sections 16 to 22 of the Income Tax Act (Cap. 134) attributable to income derived from qualifying services by it during its tax relief period otherwise than in accordance with section 23 of that Act; and
-
-(b) losses incurred by it during its tax relief period otherwise than in accordance with section 37(3) of the Income Tax Act.
-
-[22/87; 11/2004]
+44I\. [Repealed by Act 33/2010 wef 14/01/2011]
 
 ## PART VII
 
@@ -1542,6 +1428,12 @@ ought not to have been exempted by reason of the revocation under section 99 of 
 
 (2) Section 44 of the Income Tax Act shall not apply in respect of any dividend or part thereof which is exempted from tax under this Part.
 
+### No investment allowance for certain expenditure
+
+74A\. No investment allowance shall be granted for any amount of fixed capital expenditure incurred on the acquisition of any know-how, patent rights or productive equipment for which an allowance has been claimed under section 19A(2A) or (2B) or 19B(1A) or (1B) of the Income Tax Act (Cap. 134).
+
+[Act 29/2010 wef Y/A 2011 & Sub Ys/A:2010-ACT-29]
+
 ## PART XI
 
 WAREHOUSING AND SERVICING INCENTIVES
@@ -1590,9 +1482,33 @@ OVERSEAS ENTERPRISE INCENTIVE
 
 (c) tourism development and management;
 
-(d) services referred to in paragraphs (a) to (f) of the definition of “qualifying services” in section 44A; and
+(d) technical services including construction, distribution, design and engineering services;
 
-(e) any other activities or services as may be prescribed;
+[33/2010 wef 15/02/2007]
+
+(e) consultancy, management, supervisory or advisory services relating to any technical matter or to any trade or business;
+
+[33/2010 wef 15/02/2007]
+
+(f) fabrication of machinery and equipment and procurement of materials, components and equipment;
+
+[33/2010 wef 15/02/2007]
+
+(g) data processing, programming, computer software development, telecommunications and other computer services;
+
+[33/2010 wef 15/02/2007]
+
+(h) professional services including accounting, legal, medical and architectural services;
+
+[33/2010 wef 15/02/2007]
+
+(i) educational and training services; and
+
+[33/2010 wef 15/02/2007]
+
+(j) any other activities or services as may be prescribed;
+
+[33/2010 wef 15/02/2007]
 
 “qualifying income” means —
 
@@ -2082,385 +1998,27 @@ the company may apply in the prescribed form to the Minister for the approval of
 
 ## PART XIIIE
 
-RESEARCH AND DEVELOPMENT AND INTELLECTUAL PROPERTY MANAGEMENT HUB
+97ZF\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-### Interpretation of this Part
+97ZG\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-97ZF\. In this Part, unless the context otherwise requires —
+97ZH\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“approval year”, in relation to an approved company, means the basis period in which the Minister approves the company for the tax exemption on its remitted income under this Part;
+97ZI\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“approved company” means a company approved under section 97ZG(2);
-
-“relevant foreign income”, in relation to an approved company, means any royalty or interest derived by the company from any territory outside Singapore where the payment of the royalty or interest is not borne by, directly or indirectly, or deductible against any income of, a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore);
-
-“remitted income” means the total amount of relevant foreign income received in Singapore in any basis period by an approved company;
-
-“research and development” has the same meaning as in section 2(1) of the Income Tax Act;
-
-“year of receipt” means the basis period in which any remitted income is received by an approved company.
-
-[11/2004]
-
-### Application for and issue of letter of approval
-
-97ZG\.—(1) Any company which is desirous of undertaking any research and development project in Singapore or elsewhere may apply in the prescribed form to the Minister to be approved for the tax exemption under this Part on any remitted income during its tax relief period.
-
-[11/2004]
-
-(2) Where the Minister considers it expedient, having regard to the economic, technical and other merits of the research and development project, he may approve the company for the tax exemption under this Part and issue a letter of approval to the company subject to the following conditions:
-
-(a) the whole amount of any remitted income is used by the company by the end of the 5th basis period commencing from the year of receipt of the remitted income on any research and development project undertaken by it in Singapore or elsewhere;
-
-(b) at least 20% of any remitted income is used by the company by the end of the 5th basis period commencing from the year of receipt of the remitted income on any research and development project undertaken by it in Singapore;
-
-(c) any research and development project undertaken by the company in Singapore on which any remitted income is used is not an approved research and development project under section 14E of the Income Tax Act (Cap. 134);
-
-(d) any intellectual property right resulting from any research and development project undertaken by the company on which any remitted income is used is owned and commercialised by the company; and
-
-(e) such other conditions as the Minister may impose.
-
-(3) No approval under subsection (2) shall be given after 31st May 2008.
-
-[11/2004]
-
-### Exemption from income tax
-
-97ZH\.—(1) Where any remitted income is received by an approved company during its tax relief period, the remitted income shall be exempt from tax.
-
-[11/2004]
-
-(2) The tax relief period of an approved company shall be —
-
-(a) where the company receives any remitted income in the approval year, 5 consecutive basis periods commencing from the approval year; or
-
-(b) where the company does not receive any remitted income in the approval year, 5 consecutive basis periods commencing from the basis period immediately after the approval year.
-
-[11/2004]
-
-### Certain dividends exempted from income tax
-
-97ZI\.—(1) Where any remitted income of an approved company which is resident in Singapore is exempt from tax under section 97ZH, an amount equal to that amount of remitted income shall be credited to a tax exempt account (referred to in this section as the account) to be kept by the company for the purpose of this section.
-
-[11/2004]
-
-(2) Where the account is in credit at the date on which any dividends are paid by an approved company out of income which has been so exempted, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
-
-[11/2004]
-
-(3) So much of the amount of any dividends so debited to the account as is received by a shareholder of an approved company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
-
-[11/2004]
-
-(4) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the approved company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
-
-[11/2004]
-
-(5) Section 44 of the Income Tax Act (Cap. 134) shall not apply to any dividends or part thereof which are exempt from tax under this section.
-
-[11/2004]
-
-(6) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 of the Income Tax Act (Cap. 134) shall not apply to any such dividend or part thereof.
-
-[11/2004]
-
-(7) Notwithstanding subsections (3) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
-
-[11/2004]
-
-(8) An approved company shall deliver to the Comptroller a copy of the account, made up to any date specified by him, whenever called upon to do so by the Comptroller by notice in writing.
-
-[11/2004]
-
-(9) Notwithstanding anything in this Part, where it appears to the Comptroller that —
-
-(a) any amount of remitted income of an approved company exempted from tax; or
-
-(b) any dividend exempted from tax in the hands of any shareholder,
-
-ought not to have been so exempted by reason of the revocation under section 99 of a letter of approval issued under section 97ZG to the company, the Comptroller may, subject to section 74 of the Income Tax Act —
-
-(i) direct the company to debit the account with such amount as the circumstances require; or
-
-(ii) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax.
-
-[11/2004]
-
-(10) Parts XVII and XVIII of the Income Tax Act (relating to assessment, objections and appeals) shall apply, with the necessary modifications, to any direction given under subsection (9) as if it were a notice of assessment given under those provisions.
-
-[11/2004]
-
-### Recovery of tax for breach of condition
-
-97ZJ\.—(1) If an approved company fails to comply with the condition in paragraph (a) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount ascertained in accordance with the formula
-
-where A
-
-is the whole amount of the remitted income;
-
-B
-
-is the amount of the remitted income used by the end of the 5th basis period commencing from the year of receipt of the remitted income by the company on any research and development project undertaken by it;
-
-C
-
-is the rate of tax under section 43(1)(a) of the Income Tax Act (Cap. 134) for the year of assessment relating to the year of receipt of the remitted income; and
-
-D
-
-is the rate of tax under section 43(1)(a) of the Income Tax Act for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income.
-
-[11/2004]
-
-(2) If an approved company fails to comply with the condition in paragraph (b) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount ascertained in accordance with the formula
-
-where A, C and D
-
-have the same meanings as in subsection (1); and
-
-E
-
-is 5 times the amount of the remitted income used by the end of the 5th basis period commencing from the year of receipt of the remitted income by the company on any research and development project undertaken by it in Singapore.
-
-[11/2004]
-
-(3) If an approved company fails to comply with the conditions in paragraphs (a) and (b) of section 97ZG(2) in respect of any remitted income, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of the remitted income, an amount equal to the higher of the amounts determined under subsections (1) and (2).
-
-[11/2004]
-
-(4) If an approved company fails to comply with —
-
-(a) the condition in paragraph (c) or (d) of section 97ZG(2) only; or
-
-(b) the conditions in paragraphs (c) and (d) of section 97ZG(2) only,
-
-in respect of one or more research and development projects undertaken by it, there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income which has been used by the company on each of such projects, an amount ascertained in accordance with the formula
-
-where F
-
-1
-
-, F
-
-2
-
-, F
-
-3
-
-, F
-
-4
-
-and F
-
-5
-
-is the amount of remitted income used by the company on each of such research and development projects in the 1st, 2nd, 3rd, 4th and 5th basis periods, respectively, from the year of receipt of the remitted income to the 5th basis period from the year of receipt of the remitted income; and
-
-C and D
-
-have the same meanings as in subsection (1).
-
-[11/2004]
-
-(5) If an approved company fails to comply with the conditions in —
-
-(a) paragraphs (a) and (c) of section 97ZG(2) only;
-
-(b) paragraphs (a) and (d) of section 97ZG(2) only; or
-
-(c) paragraphs (a), (c) and (d) of section 97ZG(2) only,
-
-there shall be deemed to be income of the company chargeable with tax under the Income Tax Act, for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
-
-(i) the amount determined under subsection (1); and
-
-(ii) the amount determined under subsection (4).
-
-[11/2004]
-
-(6) If an approved company fails to comply with the conditions in —
-
-(a) paragraphs (b) and (c) of section 97ZG(2) only;
-
-(b) paragraphs (b) and (d) of section 97ZG(2) only; or
-
-(c) paragraphs (b), (c) and (d) of section 97ZG(2) only,
-
-there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
-
-(i) the amount determined under subsection (2) that relates to the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be;
-
-(ii) the amount determined under subsection (2) that relates to the research and development project or projects for which the company complies with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be; and
-
-(iii) the amount determined under subsection (4), reduced by the amount determined under sub-paragraph (i).
-
-[11/2004]
-
-(7) If an approved company fails to comply with the conditions in —
-
-(a) paragraphs (a), (b) and (c) of section 97ZG(2) only;
-
-(b) paragraphs (a), (b) and (d) of section 97ZG(2) only; or
-
-(c) paragraphs (a), (b), (c) and (d) of section 97ZG(2),
-
-there shall be deemed to be income of the company chargeable with tax under the Income Tax Act (Cap. 134), for the year of assessment relating to the 5th basis period commencing from the year of receipt of any remitted income used by the company on the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be, an amount equal to the aggregate of —
-
-(i) an amount determined under subsection (3) that relates to the research and development project or projects for which the company fails to comply with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be;
-
-(ii) the amount determined under subsection (3) that relates to the research and development project or projects for which the company complies with the condition in paragraph (c) or (d) of section 97ZG(2), or the conditions in paragraphs (c) and (d) of section 97ZG(2), as the case may be; and
-
-(iii) the amount determined under subsection (4), reduced by the amount determined under sub-paragraph (i).
-
-[11/2004]
+97ZJ\. [Repealed by Act 33/2010 wef 14/01/2011]
 
 ## PART XIIIF
 
-OVERSEAS INVESTMENT INCENTIVE
+97ZK\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-### Interpretation of this Part
+97ZL\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-97ZK\. In this Part, unless the context otherwise requires —
+97ZM\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“accounting period”, in relation to an eligible investee company, means an accounting period of 12 months (or such other period as the Minister may determine) during which the eligible investee company is designated as such, and any subsequent period of 12 months (or such other period as the Minister may determine) where the eligible investee company remains designated as such for the whole or part of the period;
+97ZN\. [Repealed by Act 33/2010 wef 14/01/2011]
 
-“chargeable income”, in relation to an eligible holding company, means the income of the company chargeable to tax after deducting —
-
-(a) expenses, allowances, losses, donations, any qualifying deductions available for transfer under section 37C of the Income Tax Act (Cap. 134) and any qualifying deduction claimed under section 37E of that Act; and
-
-[Act 34/2005, wef Y/A 2006 & Sub Ys/A:2005-ACT-34]
-
-(b) allowances and losses allowable under this Act;
-
-“eligible holding company” means a company which is approved as an eligible holding company under section 97ZL(2)(a);
-
-“eligible investee company” means an overseas company which is designated as an eligible investee company under section 97ZL(2)(b);
-
-“new overseas market”, in relation to an eligible holding company, means an investment in any place, product or technology in a country outside Singapore which is different from the place, product or technology which the company is engaged in before its approval as an eligible holding company;
-
-“overseas company” means a company —
-
-(a) that carries on any trade or business in a country outside Singapore;
-
-(b) that is not incorporated in Singapore and not listed on the Singapore Exchange or elsewhere; and
-
-(c) in respect of which at least 50% (or such other percentage as the Minister may determine) of its paid-up capital (excluding any part of the paid-up capital held by an eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) is held by an eligible holding company throughout the period referred to in section 97ZL(2)(b);
-
-“qualifying year of assessment”, in relation to an eligible holding company, means any year of assessment relating to the relevant accounting period of the company;
-
-“relevant accounting period”, in relation to an eligible holding company, means the basis period of the company that ends on the same date or a date no later than one year from the end of the corresponding accounting period of the eligible investee company.
-
-[11/2004]
-
-### Application for and issue of letter of approval
-
-97ZL\.—(1) Any company, incorporated and resident in Singapore, desirous of investing in an overseas company on or after 1st January 2004 for the purpose of acquiring for use in Singapore any technology from the overseas company or for the purpose of gaining access to any new overseas market may make an application in the prescribed form to the Minister to be approved as an eligible holding company.
-
-[11/2004]
-
-(2) Where the Minister is satisfied in respect of any application under subsection (1) that the technology acquired, if introduced in Singapore or the access which would be gained to the new overseas market, would promote or enhance the technological or economic development of Singapore, he may —
-
-(a) approve the applicant company as an eligible holding company and issue a letter of approval to the company subject to such terms and conditions as he may impose; and
-
-(b) designate the overseas company as an eligible investee company for a period of 3 years from the date of commencement specified in the letter of approval referred to in paragraph (a).
-
-[11/2004]
-
-[]
-
-(3) No approval under this section shall be given after 31st December 2006.
-
-[11/2004]
-
-### Deferment of payment of tax
-
-97ZM\.—(1) Where an eligible holding company is liable to pay any tax on its chargeable income for any qualifying year of assessment and where the eligible investee company incurs any qualifying loss from the carrying on of any trade or business during the accounting period that ends on the same date or a date no earlier than one year from the end of the relevant accounting period of the eligible holding company to which that qualifying year of assessment relates, the payment of a specified amount of the tax for that qualifying year of assessment by the eligible holding company shall be deferred.
-
-[11/2004]
-
-(2) The specified amount of tax the payment of which may be deferred for any qualifying year of assessment by an eligible holding company under subsection (1) shall be ascertained in accordance with the formula
-
-where A
-
-is the amount of qualifying loss of the eligible investee company incurred during the accounting period of the company as determined under section 97ZN;
-
-B
-
-is the amount of chargeable income of the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company during which the qualifying loss is incurred; and
-
-C
-
-is the amount of tax payable by the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company during which the qualifying loss is incurred.
-
-[11/2004]
-
-(3) The specified amount of tax deferred by an eligible holding company under subsection (1) for any qualifying year of assessment shall be paid by the company to the Comptroller not later than 2 years from the date of the notice of assessment on which tax for that qualifying year of assessment was imposed, and where more than one assessment is issued to the company for that qualifying year of assessment, the specified amount of tax shall be paid not later than 2 years from the date of the earliest of the notices of assessment.
-
-[11/2004]
-
-(4) Where an eligible investee company incurs a qualifying loss from the carrying on of any trade or business in any accounting period, but the eligible holding company is not liable to pay any tax for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company, the amount of such loss shall not be used to compute the specified amount of tax the payment of which may be deferred for any subsequent qualifying year of assessment by the eligible holding company.
-
-[11/2004]
-
-(5) If, at the time the qualifying loss of an eligible investee company is ascertained for any accounting period, the eligible holding company has made any payment of any part of the tax payable for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of the accounting period of the eligible investee company, the amount of tax that the eligible holding company may defer under subsection (1) for that qualifying year of assessment shall be limited to the amount of the tax remaining unpaid by the company as at the date the qualifying loss is ascertained.
-
-[11/2004]
-
-(6) Where the specified amount of tax deferred by an eligible holding company under subsection (1) for any qualifying year of assessment has been ascertained and any subsequent revision of assessment is made on the company for that qualifying year of assessment, the specified amount of tax to be deferred by the company under subsection (1) for that qualifying year of assessment shall be re-ascertained in accordance with the formula specified in subsection (2) for the subsequent revision of assessment, except that the references to the amount in B and C shall be read as references to the revised amount, in each case.
-
-[11/2004]
-
-### Ascertainment of qualifying loss
-
-97ZN\.—(1) The qualifying loss of an eligible investee company for any accounting period shall be the lowest of the following amounts:
-
-(a) the amount determined in accordance with the formula
-
-where D
-
-is the amount of loss before tax as disclosed in the audited financial statementf the eligible investee company for that accounting period;
-
-E
-
-is —
-
-(i)
-
-the number of days from the date the eligible investee company is designated as such to the end of the accounting period, if the accounting period is the first accounting period of the company;
-
-(ii)
-
-the number of days from the first day of the accounting period to the last day the eligible investee company remains designated as such, if the accounting period is the last accounting period of the company; or
-
-(iii)
-
-the number of days in the accounting period of the eligible investee company, in any other case;
-
-F
-
-is the number of days in that accounting period of the eligible investee company; and
-
-G
-
-is the percentage of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) of the eligible investee company that is held by the eligible holding company during that accounting period of the eligible investee company, and where the percentage of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) changes during that accounting period, the average percentage held over such accounting period;
-
-(b) the amount of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) held by the eligible holding company in the eligible investee company during that accounting period of the eligible investee company, and where the amount of paid-up capital (excluding any part of the paid-up capital held by the eligible holding company before the date of commencement specified in the letter of approval referred to in section 97ZL(2)(a)) changes during that accounting period, the average amount held over such accounting period; or
-
-(c) the amount of chargeable income of the eligible holding company for the qualifying year of assessment relating to the relevant accounting period which ends on the same date or a date no later than one year from the end of that accounting period of the eligible investee company.
-
-[11/2004]
-
-(2) The amount of qualifying loss of an eligible investee company for any accounting period shall be certified by the external auditor of the company unless the Minister otherwise directs.
-
-[11/2004]
-
-### Payment of tax deferred
-
-97ZO\. Notwithstanding anything in this Part, where it appears to the Comptroller that any amount of tax the payment of which has been deferred by an eligible holding company for any qualifying year of assessment under section 97ZM(1) ought not to have been deferred by reason of the revocation under section 99 of the letter of approval issued under section 97ZL to the company, the company shall pay the amount of tax deferred to the Comptroller immediately upon receipt of a notice in writing from the Comptroller to do so.
-
-[11/2004]
+97ZO\. [Repealed by Act 33/2010 wef 14/01/2011]
 
 ## PART XIV
 
@@ -2773,6 +2331,16 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 28/2010) published on 18 October 2010|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 April 2010 (section 3)|
+|46.|**Act 33 of 2010—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2010**|
+||Date of First Reading|18 October 2010|
+|||(Bill No. 28/2010) published on 18 October 2010|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|14 January 2011 (with the exception of sections 3 and 4)|
+|47.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+||Date of First Reading|12 November 2012|
+|||(Bill No. 39/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|14 January 2011 (Section 6)|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
