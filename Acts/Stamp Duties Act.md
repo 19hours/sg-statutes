@@ -654,6 +654,8 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [32/2000; 6/2005; 39/2005]
 
+[23/2011 wef 01/04/2010]
+
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
 (a) it is stamped with the duty to which it would but for this section be liable; or
@@ -2504,29 +2506,39 @@ The same duty as a LEASE
 
 2
 
-CONTRACT NOTE:[Deleted by S 288/2000]
+CONTRACT NOTE: [Deleted by S 288/2000]
 
 3
 
 CONVEYANCE, ASSIGNMENT or TRANSFER:
 
-(a) on sale of any immovable property or any interest thereof
+(a)
+
+on sale of any immovable property or any interest thereof
 
 Amount or value of consideration
 
-(i) for every $100 or any part thereof of the first $180,000
+(i)
+
+for every $100 or any part thereof of the first $180,000
 
 $1
 
-(ii) for every $100 or any part thereof of the next $180,000
+(ii)
+
+for every $100 or any part thereof of the next $180,000
 
 $2
 
-(iii) thereafter for every $100 or any part thereof
+(iii)
+
+thereafter for every $100 or any part thereof
 
 $3
 
-(b) on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 20th February 2010 but before 30th August 2010
+(b)
+
+on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 20th February 2010 but before 30th August 2010
 
 In addition to duty under paragraph (a), where the property or part thereof is disposed of in the following period from the date of its acquisition:
 
@@ -2534,19 +2546,27 @@ Amount of consideration or value (whichever is applicable) of the property or, i
 
 Within one year
 
-(i) for every $100 or any part thereof of the first $180,000
+(i)
+
+for every $100 or any part thereof of the first $180,000
 
 $1
 
-(ii) for every $100 or any part thereof of the next $180,000
+(ii)
+
+for every $100 or any part thereof of the next $180,000
 
 $2
 
-(iii) thereafter for every $100 or any part thereof
+(iii)
+
+thereafter for every $100 or any part thereof
 
 $3
 
-(ba) on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 30th August 2010
+(ba)
+
+on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 30th August 2010 but before 14th January 2011
 
 In addition to duty under paragraph (a), where the property or part thereof is disposed of in the following periods from the date of its acquisition:
 
@@ -2558,7 +2578,9 @@ Exceeding one year but not exceeding 2 years
 
 Exceeding 2 years but not exceeding 3 years
 
-(i) for every $100 or any part thereof of the first $180,000
+(i)
+
+for every $100 or any part thereof of the first $180,000
 
 $1
 
@@ -2566,7 +2588,9 @@ $0.67
 
 $0.33
 
-(ii) for every $100 or any part thereof of the next $180,000
+(ii)
+
+for every $100 or any part thereof of the next $180,000
 
 $2
 
@@ -2574,7 +2598,9 @@ $1.33
 
 $0.67
 
-(iii) thereafter for every $100 or any part thereof
+(iii)
+
+thereafter for every $100 or any part thereof
 
 $3
 
@@ -2582,39 +2608,77 @@ $2
 
 $1
 
-(c) on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
+(bb)
+
+on sale of immovable property (or part thereof) which, under the Master Plan, may be used for solely residential purposes or for mixed purposes, one of which is residential; and which is acquired on or after 14th January 2011
+
+In addition to duty under paragraph (a), where the property or part thereof is disposed of in the following periods from the date of its acquisition:
+
+Within one year
+
+Exceeding one year but not exceeding 2 years
+
+Exceeding 2 years but not exceeding 3 years
+
+Exceeding 3 years but not exceeding 4 years
+
+16% of amount of consideration or value (whichever is applicable) of the property or, in the case of property for mixed purposes, the part of the property used for residential purposes
+
+12% of amount of such consideration or value
+
+8% of amount of such consideration or value
+
+4% of amount of such consideration or value
+
+(c)
+
+on sale of any stock or shares or any interest thereof, computed on the amount or value of consideration —
 
 for every $100 or any part thereof
 
 $0.20
 
-(d) of any property or any interest thereof by way of security
+(d)
+
+of any property or any interest thereof by way of security
 
 See MORTGAGE
 
-(e) of any property or any interest thereof by way of settlement
+(e)
+
+of any property or any interest thereof by way of settlement
 
 See SETTLEMENT
 
-(f) of any property or any interest thereof for the purpose of effectuating the appointment of a new trustee or the retirement of a trustee although no new trustee is appointed
+(f)
+
+of any property or any interest thereof for the purpose of effectuating the appointment of a new trustee or the retirement of a trustee although no new trustee is appointed
 
 $10 or the same duty as paragraph (a) or (c), as the case may be, whichever is the lesser
 
 (g) of any property as above where the transaction is between trustees and where —
 
-(i) the beneficial interest in the property passes
+(i)
+
+the beneficial interest in the property passes
 
 The same duty as in paragraph (a) or (c), as the case may be
 
-(ii) the beneficial interest in the property does not pass
+(ii)
+
+the beneficial interest in the property does not pass
 
 $10 or the same duty as in paragraph (a) or (c), as the case may be, whichever is the lesser
 
-(h) of any property or any interest thereof which is distributed in specie to a shareholder of a company in connection with a liquidation of the company
+(h)
+
+of any property or any interest thereof which is distributed in specie to a shareholder of a company in connection with a liquidation of the company
 
 The same duty as in paragraph (a) or (c), as the case may be
 
-(i) of any property or any interest thereof not otherwise specially charged with duty
+(i)
+
+of any property or any interest thereof not otherwise specially charged with duty
 
 $10
 
@@ -2662,7 +2726,9 @@ Exceeding one year but not exceeding 3 years
 
 Exceeding 3 years or for any indefinite term
 
-(a) without premium and executed on or after 1st April 2003, for every $250 or any part thereof of the average rent and other consideration calculated for a whole year
+(a)
+
+without premium and executed on or after 1st April 2003, for every $250 or any part thereof of the average rent and other consideration calculated for a whole year
 
 $1
 
@@ -2670,19 +2736,27 @@ $2
 
 $4
 
-(b) in consideration of a premium only
+(b)
+
+in consideration of a premium only
 
 The same duty as for a conveyance for a sum equal to the amount of such consideration
 
-(c) in consideration of a premium and reserving a rent or other consideration
+(c)
+
+in consideration of a premium and reserving a rent or other consideration
 
 The same duty as for a conveyance on sale in consideration of the premium and a lease for the rent and other consideration
 
-(d) lease executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
+(d)
+
+lease executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
 
 $2
 
-(e) lease of any other kind whatsoever not otherwise specially charged with duty
+(e)
+
+lease of any other kind whatsoever not otherwise specially charged with duty
 
 $10
 
@@ -2694,29 +2768,43 @@ Any lease or agreement for a lease referred to in paragraph (a) or (c) executed 
 
 MORTGAGE, AGREEMENT FOR A MORTGAGE and DEBENTURE of immovable property and stock or shares
 
-(a) being a security (other than an equitable mortgage) for the payment or repayment of money — for every $1,000 or any part thereof
+(a)
+
+being a security (other than an equitable mortgage) for the payment or repayment of money — for every $1,000 or any part thereof
 
 $4 subject to a maximum of $500
 
-(b) being an equitable mortgage for the payment or repayment of money — for every $1,000 or any part thereof
+(b)
+
+being an equitable mortgage for the payment or repayment of money — for every $1,000 or any part thereof
 
 $2 subject to a maximum of $500
 
-(c) transfer, assignment or disposition of any mortgage or debenture —
+(c)
 
-(i) for every $1,000 of the amount transferred, assigned or disposed, inclusive of interest which is in arrear; and
+transfer, assignment or disposition of any mortgage or debenture —
+
+(i)
+
+for every $1,000 of the amount transferred, assigned or disposed, inclusive of interest which is in arrear; and
 
 $2 subject to a maximum of $500
 
-(ii) where any further money is added to the money already secured
+(ii)
+
+where any further money is added to the money already secured
 
 The same duty as in paragraph (a) for such further money
 
-(d) mortgage executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
+(d)
+
+mortgage executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
 
 $2
 
-(e) any security executed in conjunction with the security which is duly stamped under paragraph (a)
+(e)
+
+any security executed in conjunction with the security which is duly stamped under paragraph (a)
 
 $10
 
@@ -2738,11 +2826,15 @@ Where duty has been paid under any order of court or award directing a partition
 
 SETTLEMENT of immovable property and stock or shares:
 
-(a) Instrument of Settlement or Agreement for a Settlement
+(a)
+
+Instrument of Settlement or Agreement for a Settlement
 
 The same duty as for conveyance, assignment or transfer
 
-(b) Settlement executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
+(b)
+
+Settlement executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
 
 $2 or the same duty payable on the agreement, whichever is the lesser
 
@@ -2750,15 +2842,21 @@ $2 or the same duty payable on the agreement, whichever is the lesser
 
 SURRENDER OF LEASE of immovable property:
 
-(a) for consideration
+(a)
+
+for consideration
 
 The same duty as for a conveyance on sale for a consideration equal to the amount of such consideration
 
-(b) in any other case
+(b)
+
+in any other case
 
 $10
 
 [S 474/2010 wef 30/08/2010]
+
+[S 16/2011 wef 14/01/2011]
 
 [38/2002; S 284/98; S 288/2000; S192/2003; S525/2004]
 
@@ -2800,11 +2898,15 @@ Person liable to pay stamp duty
 
 BOND, COVENANT or INSTRUMENT — Article No. 1
 
-(a) Bond, Covenant or Instrument
+(a)
+
+Bond, Covenant or Instrument
 
 The lessee
 
-(b) Duplicate or Counterpart
+(b)
+
+Duplicate or Counterpart
 
 The lessor
 
@@ -2812,11 +2914,15 @@ The lessor
 
 CONVEYANCE — Article No. 3(a) to (i)
 
-(a) for all purposes other than Article No. 3(b) and (ba)
+(a)
+
+for all purposes other than Article No. 3(b), (ba) and (bb)
 
 The grantee, transferee or lessee
 
-(b) for the purposes of Article No. 3(b) and (ba)
+(b)
+
+for the purposes of Article No. 3(b), (ba) and (bb)
 
 The grantor or transferor
 
@@ -2830,11 +2936,15 @@ Same as a conveyance
 
 LEASE or AGREEMENT for a lease — Article No. 8
 
-(a) Lease or Agreement
+(a)
+
+Lease or Agreement
 
 The lessee
 
-(b) Counterpart or Duplicate
+(b)
+
+Counterpart or Duplicate
 
 The lessor
 
@@ -3293,6 +3403,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of Second Reading|Date not available.|
 ||Date of Third Reading|Date not available.|
 ||Date of commencement|2 January 2011|
+|54.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
+||Date of commencement|14 January 2011|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
