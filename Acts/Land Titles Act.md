@@ -282,6 +282,8 @@
 
 - [115 Caveats may be lodged](#Caveats-may-be-lodged)
 
+- [115A Controller of Residential Property may lodge caveat](#Controller-of-Residential-Property-may-lodge-caveat)
+
 - [116 Provisional notification of caveats](#Provisional-notification-of-caveats)
 
 - [117 Notification of caveats](#Notification-of-caveats)
@@ -1290,9 +1292,17 @@ REGISTRATION
 
 (c) such particulars, as the Registrar thinks fit, of —
 
-(i) other estates or interests, if any, affecting the land; and
+(i) other estates or interests, if any, affecting the land;
 
-(ii) other information, if any, that relates to the land or any estate or interest therein and is included in that record under this Act or any other written law or an instrument made under such written law,
+[35/2010 wef 17/01/2011]
+
+(ii) other information, if any, that relates to the land or any estate or interest therein and is included in that record under this Act or any other written law or an instrument made under such written law ; and
+
+[35/2010 wef 17/01/2011]
+
+(iii) any notice which the Registrar is required to enter on the land-register in respect of the land, any estate or interest therein or any subdivided lot thereof under the Residential Property Act (Cap. 274),
+
+[35/2010 wef 17/01/2011]
 
 and by allocating a distinctive reference to the record so made.
 
@@ -2651,6 +2661,12 @@ CAVEATS
 
 (4) Nothing in this section shall enable a caveator or a person nominated by him in a caveat under subsection (2)(b) to withhold his consent to any dealing which a caveatee may lawfully make.
 
+### Controller of Residential Property may lodge caveat
+
+115A\. For the purposes of section 25 of the Residential Property Act (Cap. 274), the Controller of Residential Property (within the meaning of that Act) may, when directed by the Minister under section 25A of that Act, lodge with the Registrar a caveat over a lot in the approved form forbidding the registration under this Act, during the period specified by the Minister in a condition imposed when granting approval under section 25 of that Act, of any dealing affecting the land against which the caveat is directed unless the Controller, or some person nominated by him in the caveat, has consented in writing to such registration.
+
+[35/2010 wef 17/01/2011]
+
 ### Provisional notification of caveats
 
 116\. Where a caveat is lodged with the Registrar and before it has been accepted by the Registrar as being in order for notification, the Registrar shall —
@@ -3700,6 +3716,7 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |9.|**2004 Revised Edition—Land Titles Act**|
 ||Date of operation|31 July 2004|
 |10.|**Act 37 of 2004—Land Surveyors (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|1 September 2004|
 |||(Bill No. 36/2004 published on 2 September 2004)|
 ||Date of Second and Third Readings|21 September 2004|
@@ -3710,6 +3727,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|12.|**Act 35 of 2010—Residential Property (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 October 2010|
+|||(Bill No. 30/2010 published on 18 October 2010)|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|17 January 2011|
 ## COMPARATIVE TABLE
 
 Land Titles Act
