@@ -16,7 +16,11 @@
 
 - [3 Prohibition on transfer to, or purchase or acquisition by, foreign persons of residential property](#Prohibition-on-transfer-to-or-purchase-or-acquisition-by-foreign-persons-of-residential-property)
 
+- [3A Residential property held by former citizens and permanent residents](#Residential-property-held-by-former-citizens-and-permanent-residents)
+
 - [4 Flats in buildings and condominiums](#Flats-in-buildings-and-condominiums)
+
+- [4A Confiscation of benefits of offence under section 4(6)](#Confiscation-of-benefits-of-offence-under-section-46)
 
 - [5 Disposal of estate or interest in residential property by foreign companies](#Disposal-of-estate-or-interest-in-residential-property-by-foreign-companies)
 
@@ -72,6 +76,12 @@
 
 - [25 Application by foreign person for approval to purchase, acquire or retain residential property](#Application-by-foreign-person-for-approval-to-purchase-acquire-or-retain-residential-property)
 
+- [25A Minister may direct Controller to lodge caveat](#Minister-may-direct-Controller-to-lodge-caveat)
+
+- [25B Penalty for contravening condition referred to in section 25(7)(a)](#Penalty-for-contravening-condition-referred-to-in-section-257a)
+
+- [25C Penalty for failure to comply with other conditions imposed by Minister](#Penalty-for-failure-to-comply-with-other-conditions-imposed-by-Minister)
+
 - [26 Application for approval by Singapore entity with residential properties to become converted entity and for retention of its residential properties](#Application-for-approval-by-Singapore-entity-with-residential-properties-to-become-converted-entity-and-for-retention-of-its-residential-properties)
 
 - [27 Minister may issue direction for sale of residential property](#Minister-may-issue-direction-for-sale-of-residential-property)
@@ -88,13 +98,15 @@
 
 - [31 Housing developers](#Housing-developers)
 
+- [31A Appeals to Minister](#Appeals-to-Minister)
+
 - [32 Exemption](#Exemption)
 
 - [33 Savings](#Savings)
 
 - [34 Direction of Minister to be conclusive evidence](#Direction-of-Minister-to-be-conclusive-evidence)
 
-- [35 Penalty for failure to comply with condition imposed by Minister](#Penalty-for-failure-to-comply-with-condition-imposed-by-Minister)
+- [35 (Repealed)](#Repealed)
 
 - [36 General penalty](#General-penalty)
 
@@ -170,9 +182,9 @@ PRELIMINARY
 
 “converted entity”, in relation to sections 9 and 26, means a converted foreign company, converted foreign limited liability partnership or converted society;
 
-“converted foreign company” means any Singapore company which becomes a foreign company on or after 1st October 19761while being an owner of an estate or interest in any residential property that is not non-restricted residential property;
+“converted foreign company” means any Singapore company which becomes a foreign company on or after 1st October 1976\*while being an owner of an estate or interest in any residential property that is not non-restricted residential property;
 
-1Date on which this Act was published in theGazette.
+\*Date on which this Act was published in theGazette.
 
 “converted foreign limited liability partnership” means any Singapore limited liability partnership which becomes a foreign limited liability partnership on or after 11th April 2005 while being an owner of an estate or interest in any residential property that is not non-restricted residential property;
 
@@ -234,7 +246,9 @@ which has been sold by the Housing and Urban Development Company (Private) Limit
 
 “non-restricted residential property” means any residential property described in section 4(1) but not in section 4(2);
 
-“notice to attach and sell” means any notice issued by the Minister under section 3(6), 4(8), 5(7), 9(11), 22(3), 27(3) or 32(2A) directing the Controller to attach and sell in accordance with this Act such estate or interest in such residential property or land as is specified in the notice;
+“notice to attach and sell” means any notice issued by the Minister under section 3(6), 3A(3), 4(8), 5(7), 9(11), 22(3), 27(3) or 32(2A) directing the Controller to attach and sell in accordance with this Act such estate or interest in such residential property or land as is specified in the notice;
+
+[35/2010 wef 17/01/2011]
 
 “owner”, in relation to any residential property, means a person other than the mortgagee or chargee not in possession, who is for the time being entitled to dispose of the freehold of any residential property whether in possession or reversion, or who holds under a leasehold or is entitled to the rents and profits of the residential property;
 
@@ -266,7 +280,7 @@ but does not include —
 
 (iii) any hotel registered under the provisions of the Hotels Act (Cap. 127); and
 
-(iv) such other land or building, in whatever manner zoned in the Master Plan, as the Minister may, by notification in theGazette, declare to be industrial, commercial or non- residential property for the purposes of this Act;
+(iv) such other land or building, in whatever manner zoned in the Master Plan, as the Minister may, by notification in theGazette, declare to be industrial, commercial or non-residential property for the purposes of this Act;
 
 “Singapore company” means any company which satisfies the following requirements:
 
@@ -340,7 +354,9 @@ shall be null and void.
 
 (3) No estate or interest in any residential property belonging to a deceased person who dies on or after 11th September 1973 shall pass by bequest, succession or inheritance to any foreign person who is beneficially entitled under a will or under any written law governing intestate succession.
 
-(4) Where a foreign person would, but for subsection (3), be beneficially entitled to an estate or interest in residential property, the legal personal representatives to whom probate or letters of administration are granted in respect of such residential property shall, subject to subsection (5), be bound to sell such estate or interest in the residential property to a citizen or an approved purchaser within a period of 10 years of the date of the death of the deceased person and upon such sale to pay, subject to the law of wills and intestate succession, the proceeds thereof, less any expenses necessarily incurred on such sale or by reason of the administration of a deceased’s estate, to or for or on behalf of the foreign person so beneficially entitled.
+(4) Where a foreign person would, but for subsection (3), be beneficially entitled to an estate or interest in residential property, the legal personal representatives to whom probate or letters of administration are granted in respect of such residential property shall, subject to subsection (5), be bound to sell such estate or interest in the residential property to a citizen or an approved purchaser within a period of 5 years from the date of the death of the deceased person, or within any extension thereof allowed under subsection (12), and upon such sale to pay, subject to the law of wills and intestate succession, the proceeds thereof, less any expenses necessarily incurred on such sale or by reason of the administration of a deceased’s estate, to or for or on behalf of the foreign person so beneficially entitled.
+
+[35/2010 wef 17/01/2011]
 
 (5) Where the legal personal representatives have not sold, or have not been able to sell, the estate or interest in the residential property within the period specified in subsection (4), the legal personal representatives or the trustees of the will or estate of the deceased person for the time being shall furnish to the Controller (within such period not exceeding 6 months as the Controller may require) a statement setting out the particulars of the residential property which has not been sold, giving reasons for their failure or omission to sell.
 
@@ -352,11 +368,11 @@ shall be null and void.
 
 [9/2006]
 
-(7) (Deleted by Act 9 of 2006)
+(7) [Deleted by Act 9 of 2006]
 
-(8) (Deleted by Act 9 of 2006)
+(8) [Deleted by Act 9 of 2006]
 
-(9) (Deleted by Act 9 of 2006)
+(9) [Deleted by Act 9 of 2006]
 
 (10) Where the Controller has sold the residential property pursuant to the notice to attach and sell under subsection (6), the Controller shall pay the proceeds of the sale less any costs incurred to the legal personal representatives or the trustees of the will or estate of the deceased person for the time being and upon the acknowledgment of the receipt of such proceeds of sale by the legal personal representatives or the trustees, the Controller shall be discharged from all liability in respect of the application of the proceeds of sale; or the Controller, if he is unable to make payment of the proceeds of sale and to obtain such acknowledgment as aforesaid, may make payment into court of such proceeds of sale less all costs incurred thereby.
 
@@ -366,11 +382,47 @@ shall be null and void.
 
 (12) Notwithstanding subsections (4) and (6), the Controller may, after receipt of the statement referred to in subsections (5) and (6), with the approval of the Minister, allow such extension of time, as the Controller may think fit, for the sale of the estate or interest in such residential property.
 
+(12A) The Controller may, when allowing an extension of time under subsection (12), impose such conditions as he thinks fit, including a condition that the legal personal representatives shall provide such security as may be determined by the Controller for the purposes of complying with any condition imposed by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(12B) If the legal personal representatives fail to comply with any of the conditions imposed by the Controller under subsection (12A), the Controller may forfeit (in part or whole) the security provided by the legal personal representatives under this section, after giving 21 days’ notice in writing to the legal personal representatives of his intention to forfeit the security and the grounds thereof.
+
+[35/2010 wef 17/01/2011]
+
+(12C) The legal personal representatives may, upon receipt of the notice under subsection (12B), appeal to the Minister within 3 months from the date of that notice.
+
+[35/2010 wef 17/01/2011]
+
+(12D) The Minister may determine an appeal under subsection (12C) by confirming or varying the Controller’s decision to forfeit the security, or by ordering the refund (in part or whole) of any security forfeited under subsection (12B); and the decision of the Minister on any such appeal shall be final and shall not be called in question in any court.
+
+[35/2010 wef 17/01/2011]
+
 (13) The provisions of this Act shall not apply to a foreign person who is a surviving joint tenant of any estate or interest in land.
 
 [9/2006]
 
 (14) In this section, “letters of administration” and “probate” have the same meanings as in the Probate and Administration Act (Cap. 251).
+
+### Residential property held by former citizens and permanent residents
+
+3A\.—(1) Where an individual acquires any residential property (other than non-restricted residential property) or any estate or interest therein as a citizen or permanent resident of Singapore and subsequently —
+
+(a) renounces or is deprived of his Singapore citizenship on or after the date of commencement of section 4 of the Residential Property (Amendment) Act 2010; or
+
+(b) cancels his Singapore permanent residence on or after the date of commencement of section 4 of the Residential Property (Amendment) Act 2010 other than on the ground of becoming a citizen of Singapore, or has his Singapore permanent residence terminated by the Government on or after that date,
+
+that individual shall sell that residential property or estate or interest therein to a citizen of Singapore or an approved purchaser within a period of 2 years from the date of cessation of his Singapore citizenship or Singapore permanent residence, as the case may be, or within such longer period as the Minister may allow before the end of those 2 years.
+
+(2) Any individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) Without prejudice to subsection (2), where any individual referred to in subsection (1) does not sell his residential property or his estate or interest therein within the period allowed under subsection (1), the Minister may issue to the Controller a notice to attach and sell the residential property, and a copy of that notice shall be served on —
+
+(a) the individual concerned and every other owner of the residential property; and
+
+(b) each subsisting mortgagee or chargee (if any) who appears as such in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be.
+
+[35/2010 wef 17/01/2011]
 
 ### Flats in buildings and condominiums
 
@@ -394,9 +446,11 @@ shall be null and void.
 
 [9/2006]
 
-(3) Any foreign person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(3) Any foreign person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (4) Where a foreign person is convicted of an offence under subsection (3) in respect of any development, the Minister may direct the Controller to serve a notice on that person to divest and transfer, within a period of 6 months from the date of service of the notice on that person or within any extension of time granted by the Minister under subsection (5), all his estate or interest in the entire development, or any flat or unit in that development as the Minister may specify to another person who is not —
 
@@ -410,9 +464,35 @@ shall be null and void.
 
 [9/2006]
 
-(6) Any foreign person who fails to comply with the Controller’s notice referred to in subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+(6) Any foreign person who fails to comply with the Controller’s notice referred to in subsection (4) shall be guilty of an offence and shall be liable on conviction —
 
-[9/2006]
+(a) to a fine not exceeding $100,000; and
+
+(b) in respect of a continuing contravention, to an additional fine not exceeding $500 for every day or part thereof the contravention continues,
+
+and if the contravention continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $1,000 for every day or part thereof during which the contravention continues after conviction.
+
+[35/2010 wef 17/01/2011]
+
+(6A) For the purposes of subsection (6), where —
+
+(a) an act or thing is required or directed to be done within a particular period specified in subsection (4) or any extension thereof granted under subsection (5);
+
+(b) the failure to do that act or thing within the period or extension referred to in paragraph (a) constitutes an offence; and
+
+(c) that act or thing is not done within the period or extension referred to in paragraph (a),
+
+the obligation to do that act or thing shall continue, notwithstanding that that period or extension has expired, until that act or thing is done; and a person shall be guilty of a separate offence in respect of each day (including the day of a conviction for any such offence or any later day) or part thereof during which the person continues to refuse or fail to comply with that requirement or direction.
+
+[35/2010 wef 17/01/2011]
+
+(6B) The court shall, in respect of any defendant charged with committing any offence under subsection (6) —
+
+(a) take into account any confiscation order made under section 4A before imposing any fine on the defendant; and
+
+(b) subject to paragraph (a), leave the confiscation order out of account in determining the appropriate sentence or other manner of dealing with the defendant.
+
+[35/2010 wef 17/01/2011]
 
 (7) Nothing in subsection (2) shall prevent a foreign person from acquiring any estate or interest in any development under any agreement, lease or assignment for a term not exceeding 7 years, inclusive of any further term which may be granted by way of an option for renewal.
 
@@ -442,6 +522,68 @@ shall be null and void.
 
 [9/2006]
 
+### Confiscation of benefits of offence under section 4(6)
+
+4A\.—(1) Where a defendant is convicted of any offence under section 4(6), the court shall, on the application of the Public Prosecutor, make a confiscation order against the defendant in respect of benefits derived by him from the commission of the offence, if the court is satisfied that such benefits have been so derived.
+
+(2) Where the court is satisfied that benefits have been derived by the defendant from the commission of any offence under section 4(6), the court shall, before sentencing or otherwise dealing with him in respect of the offence concerned, determine in accordance with subsections (4) to (8) the amount to be recovered in his case by virtue of this section.
+
+(3) Subject to subsection (7), the benefits derived by a defendant from the commission of any offence under section 4(6) shall be —
+
+(a) any estate or interest in the development (including any income accruing from that estate or interest) held by the defendant in contravention of section 4(6); or
+
+(b) where that estate or interest is disposed of before conviction, the difference between —
+
+(i) the sale price or market value of that estate or interest, whichever is the higher; and
+
+(ii) the price paid by the defendant for the purchase or acquisition of that estate or interest.
+
+(4) The amount to be recovered from the defendant under a confiscation order under this section shall be the amount the court assesses to be the value of the benefits derived by the defendant from the commission of any offence under section 4(6).
+
+(5) For the purposes of this section —
+
+(a) the value of the benefits derived by a defendant from the commission of any offence under section 4(6) shall be the aggregate of the properties, estates and interests referred to in subsection (3)(a) or (b), as the case may be, relating to that defendant;
+
+(b) the value of the estate or interest in the development referred to in subsection (3)(a) shall be the market value of the estate or interest at the date of the conviction or the date of the commission of the offence, whichever is the higher;
+
+(c) the market value of the estate or interest in the development referred to in subsection (3)(b)(i) shall be the market value of the estate or interest at the date of disposal; and
+
+(d) in calculating the value of benefits derived by a defendant from the commission of any offence under section 4(6), any expenses or outgoings of the defendant in connection with the commission of the offence shall be disregarded.
+
+(6) Any question of fact to be decided by a court in proceedings under this section shall be decided on a balance of probabilities.
+
+(7) A benefit derived by a defendant convicted of any offence under section 4(6) shall not be taken into account if —
+
+(a) a confiscation order against the defendant has been made in respect of that benefit under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A);
+
+(b) a confiscation order against the defendant has previously been made under this section and that benefit is shown to the court to have been taken into account in determining the amount to be recovered under that order; or
+
+(c) a confiscation order against any other defendant has previously been made under this section in relation to an offence committed in the same transaction as the offence by the first-mentioned defendant and that benefit (being an estate or interest referred to in subsection (3)(a)) is shown to the court to have been taken into account in determining the amount to be recovered under the order against that other defendant.
+
+(8) Any relevant evidence admitted in the proceedings against the defendant for any offence under section 4(6) shall, if the court thinks fit, be taken into account in determining the amount to be recovered under subsection (2).
+
+(9) Subject to subsection (1), where a court orders the defendant to pay any amount under a confiscation order made under this section —
+
+(a) section 319 of the Criminal Procedure Code 2010 (Act 15 of 2010) shall have effect as if that amount were a fine imposed on him by the court; and
+
+(b) for the purposes of section 319(1)(b)(iv) of the Criminal Procedure Code 2010, the term for which the court may direct the defendant to be imprisoned in default of payment of any amount under the confiscation order shall be as follows:
+
+(i) if the amount does not exceed $2 million — imprisonment for a term not exceeding 5 years; and
+
+(ii) if the amount exceeds $2 million — imprisonment for a term not exceeding 10 years.
+
+(10) Where —
+
+(a) a warrant to commit the defendant to prison is issued for a default in payment of an amount ordered to be paid under a confiscation order in respect of any offence under section 4(6); and
+
+(b) at the time the warrant is issued, the defendant is liable to serve any term of imprisonment in respect of the offence,
+
+the term of imprisonment to be served in default of payment of the amount shall not begin to run until after the term mentioned in paragraph (b).
+
+(11) This section shall not apply in respect of any offence committed before the date of commencement of section 6 of the Residential Property (Amendment) Act 2010.
+
+[35/2010 wef 17/01/2011]
+
 ### Disposal of estate or interest in residential property by foreign companies
 
 5\.—(1) Where, on 11th September 1973, a foreign company is the owner of an estate or interest in any residential property in Singapore, the foreign company shall be bound to dispose of the same in accordance with this section, unless such foreign company is permitted to retain its estate or interest in the residential property by virtue of section 25 or the residential property or such foreign company is exempted under section 32.
@@ -452,9 +594,9 @@ shall be null and void.
 
 (3) Every foreign company to which this section applies shall, within such period as the Minister may, by notification in theGazette, direct, furnish to the Controller a return setting out the size, location and nature of its estate or interest in all its residential properties and such other particulars as the Controller may require.
 
-(4) Where the Controller is satisfied that a foreign company which is required by subsection (1) to dispose of an estate or interest in any residential property in Singapore has failed to dispose of the same on or before 11th September 1983 (or within such further period as the Minister may, by notification in theGazette, appoint2), the Controller may give directions in writing to the foreign company to transfer all its estate or interest in its residential property to any citizen or approved purchaser within such period as the Controller may specify being a period of not less than 90 days and not more than 6 months of the date of service of the direction on the foreign company.
+(4) Where the Controller is satisfied that a foreign company which is required by subsection (1) to dispose of an estate or interest in any residential property in Singapore has failed to dispose of the same on or before 11th September 1983 (or within such further period as the Minister may, by notification in theGazette, appoint\*), the Controller may give directions in writing to the foreign company to transfer all its estate or interest in its residential property to any citizen or approved purchaser within such period as the Controller may specify being a period of not less than 90 days and not more than 6 months of the date of service of the direction on the foreign company.
 
-2G.N. No. S 285/83.
+\*G.N. No. S 285/83.
 
 (5) A direction given by the Controller under subsection (4) shall be served upon the foreign company which is required to transfer its estate or interest in any residential property and its subsisting mortgagees or chargees (if any) who appear as such in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be.
 
@@ -524,13 +666,21 @@ deliver to the Controller the title deed or certificate of title of the resident
 
 (7) Where the Controller has sold an estate or interest in any residential property or land under this section, the Controller shall without delay apply those proceeds of sale —
 
-(a) firstly, in payment of all costs (such as legal costs, survey costs and valuation costs), charges and expenses properly incurred incidentally to or in connection with the sale of the property or land (including any previous unsuccessful sale under this section) between the date of the notice to attach and sell that property or land and the date of the sale (both dates inclusive); and
+(a) firstly, in payment of all costs (such as legal costs, survey costs and valuation costs), charges and expenses properly incurred incidentally to or in connection with the sale of the property or land (including any previous unsuccessful sale under this section) between the date of the notice to attach and sell that property or land and the date of the sale (both dates inclusive);
 
-(b) secondly, in payment of the balance, in order of priority, to the foreign person who was the owner of the estate or interest in the residential property sold and any person having a prior interest to such owner or representative as shown in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be,
+(b) secondly, in payment of all financial penalties payable under this Act in respect of the residential property or land sold; and
 
-except that where there is any dispute as to the apportionment of these proceeds between the persons referred to in paragraph (b), the Controller shall pay the balance into court.
+[35/2010 wef 17/01/2011]
+
+(c) thirdly, in payment of the balance, in order of priority, to the foreign person who was the owner of the estate or interest in the residential property or land sold and any person having a prior interest to such owner or representative as shown in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be,
+
+[35/2010 wef 17/01/2011]
+
+except that where there is any dispute as to the apportionment of these proceeds between the persons referred to in paragraph (c), the Controller shall pay the balance into court.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (8) Nothing in this section shall prevent a foreign person on whom a copy of a notice to attach and sell is served from selling on his own accord his estate or interest in the residential property or land concerned to a citizen or an approved purchaser.
 
@@ -634,17 +784,23 @@ and thereafter, the Controller shall not have any power referred to in subsectio
 
 ### Position of Singapore entities with residential properties wishing to become or becoming converted entities
 
-9\.—(1) No Singapore company which is the owner of any estate or interest in any residential property that is not non-restricted residential property, whether purchased or acquired before, on or after 11th September 1973 shall, on or after 1st October 1976, become a converted foreign company without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of those residential properties which such Singapore company intends should remain vested in the converted foreign company upon such conversion.
+9\.—(1) No Singapore company which is the owner of any estate or interest in any residential property that is not non-restricted residential property, whether purchased or acquired before, on or after 11th September 1973 shall, on or after 1st October 1976, become a converted foreign company without first seeking and obtaining the written approval of the Controller, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of those residential properties which such Singapore company intends should remain vested in the converted foreign company upon such conversion.
 
 [9/2006]
 
-(2) No Singapore limited liability partnership which is the owner of any estate or interest in any residential property that is not non-restricted residential property, whether purchased or acquired before, on or after 11th April 2005 shall become a converted foreign limited liability partnership without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of those residential properties which such Singapore limited liability partnership intends should remain vested in the converted foreign limited liability partnership upon such conversion.
+[35/2010 wef 17/01/2011]
+
+(2) No Singapore limited liability partnership which is the owner of any estate or interest in any residential property that is not non-restricted residential property, whether purchased or acquired before, on or after 11th April 2005 shall become a converted foreign limited liability partnership without first seeking and obtaining the written approval of the Controller, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of those residential properties which such Singapore limited liability partnership intends should remain vested in the converted foreign limited liability partnership upon such conversion.
 
 [9/2006]
 
-(3) No Singapore society which is the owner of any estate or interest in any residential property that is not non-restricted residential property purchased or acquired on or after 11th September 1973 shall, on or after 1st October 1976, become a converted society without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of those residential properties which such Singapore society intends to retain after conversion.
+[35/2010 wef 17/01/2011]
+
+(3) No Singapore society which is the owner of any estate or interest in any residential property that is not non-restricted residential property purchased or acquired on or after 11th September 1973 shall, on or after 1st October 1976, become a converted society without first seeking and obtaining the written approval of the Controller, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of those residential properties which such Singapore society intends to retain after conversion.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (4) If the written approval sought under subsection (1), (2) or (3) is granted in respect of such conversion and for the retention of all or one or more of the residential properties in respect of which the Singapore entity sought approval, it shall, either before it becomes a converted entity or within a period of 2 years from the date on which it became a converted entity, transfer to any citizen or approved purchaser all its estate or interest —
 
@@ -660,9 +816,13 @@ and thereafter, the Controller shall not have any power referred to in subsectio
 
 (6) If any Singapore entity becomes a converted entity in contravention of subsection (5) —
 
-(a) the converted entity shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 ;
+(a) the converted entity shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000;
 
-(b) any person who, by virtue of section 36(3), is guilty of that offence shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both; and
+[35/2010 wef 17/01/2011]
+
+(b) any person who, by virtue of section 36(3), is guilty of that offence shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; and
+
+[35/2010 wef 17/01/2011]
 
 (c) the converted entity shall, within a period of one year from the date on which it became a converted entity, transfer to any citizen or approved purchaser all its estate or interest in every residential property that is not non-restricted residential property owned by it.
 
@@ -686,7 +846,7 @@ and thereafter, the Controller shall not have any power referred to in subsectio
 
 (a) a converted foreign company to which subsection (4) applies has not, at the expiration of a period of 2 years from the date on which it became a converted foreign company, transferred to any citizen or approved purchaser all its estate or interest in the residential properties (that are not non-restricted residential properties) still remaining vested in it and in respect of which approval for retention was not sought or, if sought, was not granted under section 25 or 26; or
 
-(b) a converted foreign company to which subsection (6) or (7) applies has not, at the expiration of a period of one year from the date on which it became a converted foreign company, transferred to any citizen or approved purchaser all its estate or interest in the residential properties (that are not non- restricted residential properties) still remaining vested in it and in respect of which approval for retention was not sought or, if sought, was not granted under section 25 or 26,
+(b) a converted foreign company to which subsection (6) or (7) applies has not, at the expiration of a period of one year from the date on which it became a converted foreign company, transferred to any citizen or approved purchaser all its estate or interest in the residential properties (that are not non-restricted residential properties) still remaining vested in it and in respect of which approval for retention was not sought or, if sought, was not granted under section 25 or 26,
 
 the Minister may, by a direction in writing, require such converted foreign company to dispose of all its estate or interest in such remaining residential properties by transferring the same to any citizen or approved purchaser within a period of not less than 6 months from the date of service of such direction by the Minister.
 
@@ -740,17 +900,21 @@ the Minister may, by a direction in writing, require such converted foreign comp
 
 (a) in the case of a Singapore company which does not own any residential property that is not non-restricted residential property, the Singapore company has become a foreign company without obtaining the prior written approval of the Controller under section 14; or
 
-(b) in the case of a Singapore company which owns any residential property that is not non-restricted residential property, the Singapore company has become a converted foreign company without obtaining the prior written approval of the Minister under section 26.
+(b) in the case of a Singapore company which owns any residential property that is not non-restricted residential property, the Singapore company has become a converted foreign company without obtaining the prior written approval of the Controller under section 26.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (5) The Controller shall, upon the application by any Singapore company which is a holder of a certificate issued by the Controller under subsection (2), cancel the certificate if the Controller is satisfied that the Singapore company does not own any residential property that is not non-restricted residential property.
 
 [9/2006]
 
-(6) Any Singapore company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(6) Any Singapore company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 ### Vesting of residential properties in Singapore limited liability partnerships
 
@@ -770,17 +934,21 @@ the Minister may, by a direction in writing, require such converted foreign comp
 
 (a) in the case of a Singapore limited liability partnership which does not own any residential property that is not non-restricted residential property, the Singapore limited liability partnership has become a foreign limited liability partnership without obtaining the prior written approval of the Controller under section 14A; or
 
-(b) in the case of a Singapore limited liability partnership which owns any residential property that is not non-restricted residential property, the Singapore limited liability partnership has become a converted foreign limited liability partnership without obtaining the prior written approval of the Minister under section 26.
+(b) in the case of a Singapore limited liability partnership which owns any residential property that is not non-restricted residential property, the Singapore limited liability partnership has become a converted foreign limited liability partnership without obtaining the prior written approval of the Controller under section 26.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (5) The Controller shall, upon the application by any Singapore limited liability partnership which is a holder of a certificate issued by the Controller under subsection (2), cancel the certificate if the Controller is satisfied that the Singapore limited liability partnership does not own any residential property that is not non-restricted residential property.
 
 [9/2006]
 
-(6) Any Singapore limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(6) Any Singapore limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 ### Registrar may refuse to register instrument of transfer in favour of Singapore company
 
@@ -802,7 +970,9 @@ the Minister may, by a direction in writing, require such converted foreign comp
 
 14\.—(1) Notwithstanding anything in any written law, a Singapore company shall not become a foreign company unless —
 
-(a) in the case of a Singapore company which owns any residential property that is not non-restricted residential property, it has obtained the prior approval of the Minister to become a converted foreign company pursuant to section 26; or
+(a) in the case of a Singapore company which owns any residential property that is not non-restricted residential property, it has obtained the prior approval of the Controller to become a converted foreign company pursuant to section 26; or
+
+[35/2010 wef 17/01/2011]
 
 (b) in the case of a Singapore company which claims that it does not own any residential property apart from non-restricted residential property, it has obtained the prior approval of the Controller under subsection (2) to become a foreign company.
 
@@ -818,7 +988,9 @@ the Minister may, by a direction in writing, require such converted foreign comp
 
 (4) Notwithstanding any approval given by the Minister or the Controller for the purposes of subsection (1)(a) or (b), as the case may be, the Controller may —
 
-(a) if he subsequently discovers that the company owns any residential property in respect of which the Minister has not granted any approval under section 25 or 26 for the company to purchase, acquire or retain the residential property and the residential property is not non-restricted residential property; or
+(a) if he subsequently discovers that the company owns any residential property in respect of which the Minister or the Controller, as the case may be, has not granted any approval under section 25 or 26 for the company to purchase, acquire or retain the residential property and the residential property is not non-restricted residential property; or
+
+[35/2010 wef 17/01/2011]
 
 (b) if he subsequently discovers that the company had made a misrepresentation to the Controller,
 
@@ -834,7 +1006,9 @@ obtain the Minister’s direction to require the company to dispose of the resid
 
 14A\.—(1) Notwithstanding anything in any written law, a Singapore limited liability partnership shall not become a foreign limited liability partnership unless —
 
-(a) in the case of a Singapore limited liability partnership which owns any residential property that is not non-restricted residential property, it has obtained the prior approval of the Minister to become a converted foreign limited liability partnership pursuant to section 26; or
+(a) in the case of a Singapore limited liability partnership which owns any residential property that is not non-restricted residential property, it has obtained the prior approval of the Controller to become a converted foreign limited liability partnership pursuant to section 26; or
+
+[35/2010 wef 17/01/2011]
 
 (b) in the case of a Singapore limited liability partnership which claims that it does not own any residential property apart from non-restricted residential property, it has obtained the prior approval of the Controller under subsection (2) to become a foreign limited liability partnership.
 
@@ -850,7 +1024,9 @@ obtain the Minister’s direction to require the company to dispose of the resid
 
 (4) Notwithstanding any approval given by the Minister or the Controller for the purposes of subsection (1)(a) or (b), as the case may be, the Controller may —
 
-(a) if he subsequently discovers that the limited liability partnership owns any residential property in respect of which the Minister has not granted any approval under section 25 or 26 for the limited liability partnership to purchase, acquire or retain the residential property and the residential property is not non-restricted residential property; or
+(a) if he subsequently discovers that the limited liability partnership owns any residential property in respect of which the Minister or the Controller, as the case may be, has not granted any approval under section 25 or 26 for the limited liability partnership to purchase, acquire or retain the residential property and the residential property is not non-restricted residential property; or
+
+[35/2010 wef 17/01/2011]
 
 (b) if he subsequently discovers that the limited liability partnership had made a misrepresentation to the Controller,
 
@@ -878,7 +1054,7 @@ obtain the Minister’s direction to require the limited liability partnership t
 
 ### Conversion of foreign company or converted foreign company to foreign limited liability partnership
 
-14C\.—(1) Any approval granted by the Minister under section 25 or 26 to a foreign company or a converted foreign company to purchase, acquire or retain residential property that is not non-restricted residential property and which is valid immediately before the date of registration of the conversion of the foreign company or the converted foreign company to a foreign limited liability partnership shall continue in force on and after that date as if it were an approval granted by the Minister to the foreign limited liability partnership; and —
+14C\.—(1) Any approval granted by the Minister or the Controller, as the case may be, under section 25 or 26 to a foreign company or a converted foreign company to purchase, acquire or retain residential property that is not non-restricted residential property and which is valid immediately before the date of registration of the conversion of the foreign company or the converted foreign company to a foreign limited liability partnership shall continue in force on and after that date as if it were an approval granted by the Minister or the Controller, as the case may be, to the foreign limited liability partnership; and —
 
 (a) if the approval was granted subject to conditions, the foreign limited liability partnership shall comply with all the conditions imposed as if the approval had been granted to the foreign limited liability partnership instead of the foreign company or the converted foreign company; and
 
@@ -886,13 +1062,15 @@ obtain the Minister’s direction to require the limited liability partnership t
 
 [17/2005; 9/2006]
 
+[35/2010 wef 17/01/2011]
+
 (2) The foreign limited liability partnership referred to in subsection (1) shall, as soon as practicable after the date of registration of the conversion thereto, notify the Controller of the conversion and of the particulars of the foreign limited liability partnership, including the nationality of its partners and such other particulars as the Controller may require.
 
 [17/2005]
 
 Singapore company to file amended memorandum or articles of association
 
-15\. [Repealed byAct 9 of 2006]
+15\. [Repealed by Act 9 of 2006]
 
 ### Vesting of residential properties in Singapore societies
 
@@ -912,23 +1090,29 @@ Singapore company to file amended memorandum or articles of association
 
 (a) in the case of a Singapore society which does not own any residential property that is not non-restricted residential property, the Singapore society has become a foreign society without obtaining the prior written approval of the Controller under section 17; or
 
-(b) in the case of a Singapore society which owns any residential property that is not non-restricted residential property, the Singapore society has become a converted society without obtaining the prior written approval of the Minister under section 26.
+(b) in the case of a Singapore society which owns any residential property that is not non-restricted residential property, the Singapore society has become a converted society without obtaining the prior written approval of the Controller under section 26.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (5) The Controller shall, upon the application by any Singapore society which is a holder of a certificate issued by the Controller under subsection (2), cancel the certificate if the Controller is satisfied that the Singapore society does not own any residential property that is not non-restricted residential property.
 
 [9/2006]
 
-(6) Any Singapore society which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(6) Any Singapore society which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 ### Singapore society becoming foreign society
 
 17\.—(1) Notwithstanding anything in any written law, a Singapore society shall not become a foreign society unless —
 
-(a) in the case of a Singapore society which owns any residential property that is not non-restricted residential property, it has obtained the prior approval of the Minister to become a converted society pursuant to section 26; or
+(a) in the case of a Singapore society which owns any residential property that is not non-restricted residential property, it has obtained the prior approval of the Controller to become a converted society pursuant to section 26; or
+
+[35/2010 wef 17/01/2011]
 
 (b) in the case of a Singapore society which claims that it does not own any residential property apart from non-restricted residential property, it has obtained the prior approval of the Controller under subsection (2) to become a foreign society.
 
@@ -944,7 +1128,9 @@ Singapore company to file amended memorandum or articles of association
 
 (4) Notwithstanding any approval given by the Minister or the Controller for the purposes of subsection (1)(a) or (b), as the case may be, the Controller may —
 
-(a) if he subsequently discovers that the society owns any residential property in respect of which the Minister has not granted any approval under section 25 or 26 for the society to purchase, acquire or retain the residential property and the residential property is not non-restricted residential property; or
+(a) if he subsequently discovers that the society owns any residential property in respect of which the Minister or the Controller, as the case may be, has not granted any approval under section 25 or 26 for the society to purchase, acquire or retain the residential property and the residential property is not non-restricted residential property; or
+
+[35/2010 wef 17/01/2011]
 
 (b) if he subsequently discovers that the society had made a misrepresentation to the Controller,
 
@@ -1008,11 +1194,29 @@ obtain the Minister’s direction to require the society to dispose of the resid
 
 [9/2006]
 
+(2A) The Minister may, when extending the period under subsection (2), impose such conditions as he thinks fit, including a condition that the mortgagee shall provide such security as may be determined by the Minister for the purposes of complying with any condition imposed by the Minister.
+
+[35/2010 wef 17/01/2011]
+
+(2B) If a mortgagee fails to comply with any of the conditions imposed by the Minister under this section, the Controller may forfeit (in part or whole) the security provided by the mortgagee under this section, after giving 21 days’ notice in writing to the mortgagee of his intention to forfeit the security and the grounds thereof.
+
+[35/2010 wef 17/01/2011]
+
+(2C) A mortgagee may, upon receipt of the notice under subsection (2B), appeal to the Minister within 3 months from the date of that notice.
+
+[35/2010 wef 17/01/2011]
+
+(2D) The Minister may determine an appeal under subsection (2C) by confirming or varying the Controller’s decision to forfeit the security, or by ordering the refund (in part or whole) of any security forfeited under subsection (2B); and the decision of the Minister on any such appeal shall be final and shall not be called in question in any court.
+
+[35/2010 wef 17/01/2011]
+
 (3) Where such mortgagee does not sell the estate or interest in the residential property that is not non-restricted residential property within the period specified in subsection (2) (including any extension thereof), the Minister may issue to the Controller a notice to attach and sell the mortgagee’s estate or interest in that residential property.
 
 [9/2006]
 
-(4) Subsections (2) and (3) shall apply only to mortgagees who are foreign persons.
+(4) Subsections (2), (2A), (2B), (2C), (2D) and (3) shall apply only to mortgagees who are foreign persons.
+
+[35/2010 wef 17/01/2011]
 
 ### Residential property not to be purchased or acquired by citizen or approved purchaser as nominee of foreign person
 
@@ -1028,9 +1232,11 @@ obtain the Minister’s direction to require the society to dispose of the resid
 
 (3) The Registrar, upon discovering that any instrument of transfer contains any such void trust and the instrument is pending final registration or has been finally registered by the Registrar, shall enter a note in that instrument or the registration copy thereof, as the case may be, stating that such trust is null and void by virtue of subsection (2).
 
-(4) Any person who contravenes subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(4) Any person who contravenes subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (5) The court shall, in respect of any defendant charged with committing any offence under subsection (1)(a) or (b) —
 
@@ -1094,7 +1300,11 @@ obtain the Minister’s direction to require the society to dispose of the resid
 
 (a) section 319 of the Criminal Procedure Code 2010 shall have effect as if that amount were a fine imposed on him by the court; and
 
+[15/2010 wef 02/01/2011]
+
 (b) for the purposes of section 319(1)(b)(iv) of the Criminal Procedure Code 2010, the term for which the court may direct the defendant to be imprisoned in default of payment of any amount under the confiscation order shall be as follows:
+
+[15/2010 wef 02/01/2011]
 
 (i) if the amount does not exceed $2 million — imprisonment for a term not exceeding 5 years; and
 
@@ -1194,35 +1404,39 @@ APPROVAL TO PURCHASE, ACQUIRE OR RETAIN RESIDENTIAL PROPERTY
 
 (ii) being a foreign company or a foreign limited liability partnership, shall use the residential property for occupation as a dwelling-house by its executives, managers, partners, employees or other personnel and their families and not for any other purpose;
 
+(aa) that the applicant shall not sell, assign, transfer or otherwise dispose of his or its estate or interest in the residential property within such period as may be specified by the Minister;
+
+[35/2010 wef 17/01/2011]
+
 (b) that the applicant shall provide such security as may be determined by the Minister for the purposes of complying with any condition imposed by the Minister;
 
 (c) that the applicant shall give an undertaking in writing to comply with the conditions imposed by the Minister.
 
 [9/2006]
 
-(7A) Where an applicant has failed to comply with any of the conditions imposed by the Minister under this section, the Minister may forfeit the security provided by the applicant under this section after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof.
+(7A) Where an applicant has failed to comply with any of the conditions imposed by the Minister under this section, the Minister may forfeit (in part or whole) the security provided by the applicant under this section after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof.
 
 [9/2006]
 
-(7B) An applicant may, upon receipt of the notice under subsection (7A), appeal to the Minister within 3 months of such notice.
+[35/2010 wef 17/01/2011]
+
+(7B) An applicant may, upon receipt of the notice under subsection (7A), appeal to the Minister within 3 months from the date of that notice.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (7C) The decision of the Minister on any appeal made under subsection (7B) shall be final and shall not be called in question in any court.
 
 [9/2006]
 
-(8) Any natural person or any foreign company or foreign limited liability partnership who or which is in breach of any undertaking given pursuant to subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+(8) [Deleted by Act 35/2010 wef 17/01/2011]
 
-[17/2005]
-
-(9)(a) Every applicant referred to in subsection (5) shall furnish a declaration as to whether the applicant or the applicant’s spouse or any of their children owns residential property in Singapore, and if so shall state full particulars thereof.
+(9) (a) Every applicant referred to in subsection (5) shall furnish a declaration as to whether the applicant or the applicant’s spouse or any of their children owns residential property in Singapore, and if so shall state full particulars thereof.
 
 [9/2006]
 
-(b)
-
-Every applicant referred to in subsection (6) shall furnish a declaration as to whether the applicant owns residential property in Singapore, and if so shall state full particulars thereof; and such declaration shall —
+(b) Every applicant referred to in subsection (6) shall furnish a declaration as to whether the applicant owns residential property in Singapore, and if so shall state full particulars thereof; and such declaration shall —
 
 (i) where the applicant is a foreign company, be made by a director, manager or secretary thereof or a person holding an analogous position; and
 
@@ -1240,15 +1454,65 @@ Every applicant referred to in subsection (6) shall furnish a declaration as to 
 
 (14) Where a foreign person is a natural person or a society, he or it shall not be required to make application for the retention of any estate or interest in any residential property vested in him or it immediately before 11th September 1973.
 
+### Minister may direct Controller to lodge caveat
+
+25A\.—(1) Where the Minister has granted his approval under section 25 to any foreign person to purchase, acquire or retain any estate or interest in any residential property (other than non-restricted residential property) subject to the condition that the foreign person shall not sell, assign, transfer or otherwise dispose of that estate or interest in that residential property within the period specified by the Minister, the Minister may direct the Controller to lodge a caveat, on the relevant volume and folio of the land-register in the Land Titles Registry of the Authority, forbidding the registration under the Land Titles Act (Cap. 157) during that period of any dealing affecting that residential property against which the caveat is directed unless the Controller, or some person nominated by him in the caveat, has consented in writing to such registration.
+
+(2) The Controller shall withdraw the caveat referred to in subsection (1) upon the expiry of the period specified by the Minister, unless the Minister directs that the caveat be withdrawn at any time earlier.
+
+[35/2010 wef 17/01/2011]
+
+### Penalty for contravening condition referred to in section 25(7)(a)
+
+25B\.—(1) Where an approved purchaser, by lease or agreement, grants to another the right to occupy any residential property (other than non-restricted residential property) in contravention of any condition referred to in section 25(7)(a), the Controller may, by notice in writing, require the approved purchaser to pay, within a specified period, a financial penalty of such amount (as the Controller thinks fit) not exceeding the highest of one of the following amounts:
+
+(a) $10,000;
+
+(b) 3 times the amount of rental payable and collected —
+
+(i) in any case where the lease or agreement was made before the date of commencement of section 12 of the Residential Property (Amendment) Act 2010 — during the period of contravention falling on or after that date; or
+
+(ii) in any other case — during the period of contravention; or
+
+(c) 3 times the assessed rental reasonably expected to be collected for that residential property —
+
+(i) in any case where the lease or agreement was made before the date of commencement of section 12 of the Residential Property (Amendment) Act 2010 — during the period of contravention falling on or after that date; or
+
+(ii) in any other case — during the period of contravention.
+
+(2) The quantum of the financial penalty referred to in subsection (1) shall take into account any security provided by the approved purchaser under section 25(7)(b) and which has been forfeited under section 25(7A) in respect of the same contravention of any condition referred to in section 25(7)(a).
+
+(3) Where an approved purchaser is a company or a limited liability partnership, and the Controller is of the opinion that the failure of the approved purchaser to comply with any condition referred to in section 25(7)(a) was committed with the consent or connivance of, or was attributable to any neglect on the part of, any person who is a director of the company or a partner of the limited liability partnership, as the case may be, the Controller shall, together with the notice under subsection (1) to the approved purchaser, inform the person concerned of the Controller’s opinion, and that person shall then be jointly and severally liable with the company or limited liability partnership to pay the financial penalty imposed under subsection (1).
+
+(4) Any financial penalty payable by any approved purchaser or other person under subsection (1) or (3) shall be recoverable by the Controller as a debt due to the Controller from that approved purchaser or other person.
+
+(5) In this section, “assessed rental”, in relation to any residential property, means the market rental for that residential property as assessed by an independent valuer appointed by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+### Penalty for failure to comply with other conditions imposed by Minister
+
+25C\. Where —
+
+(a) the Minister grants his approval under section 25 for an approved purchaser to purchase, acquire or retain any estate or interest in any residential property (other than non-restricted residential property), subject to any condition; and
+
+(b) the approved purchaser fails to comply with any such condition, other than a condition referred to in section 25(7)(a),
+
+the approved purchaser shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+
+[35/2010 wef 17/01/2011]
+
 ### Application for approval by Singapore entity with residential properties to become converted entity and for retention of its residential properties
 
-26\.—(1) Any Singapore entity which, pursuant to section 9, intends to seek the prior written approval of the Minister for its conversion to a converted entity, and for the retention of all its estate or interest in all or in one or more of its residential properties, not being non-restricted residential properties, which the Singapore entity intends should remain vested in the converted entity upon such conversion, shall make application to the Controller, in such form as he may require, for the grant of approval for such conversion and for such retention.
+26\.—(1) Any Singapore entity which, pursuant to section 9, intends to seek the prior written approval of the Controller for its conversion to a converted entity, and for the retention of all its estate or interest in all or in one or more of its residential properties, not being non-restricted residential properties, which the Singapore entity intends should remain vested in the converted entity upon such conversion, shall make application to the Controller, in such form as he may require, for the grant of approval for such conversion and for such retention.
 
 [17/2005; 9/2006]
 
+[35/2010 wef 17/01/2011]
+
 (2) Every such application shall state such particulars as the Controller may require.
 
-(3) The Controller shall forward every such application to the Committee; and after consideration thereof, the Committee shall make recommendations thereon to the Minister who may, in his discretion, grant, with or without conditions (or refuse to grant), approval for —
+(3) The Controller shall forward every such application to the Committee; and after consideration thereof, the Committee shall make recommendations thereon to the Controller who may, with the approval of the Minister, grant, with or without conditions (or refuse to grant), approval for —
 
 (a) the conversion of the Singapore entity to a converted entity; and
 
@@ -1256,17 +1520,95 @@ Every applicant referred to in subsection (6) shall furnish a declaration as to 
 
 [17/2005]
 
+[35/2010 wef 17/01/2011]
+
+(3A) The conditions that the Controller may impose under subsection (3) shall include all or any of the following:
+
+(a) that the applicant shall carry out and complete the development of any residential property retained by the applicant within such period as may be determined by the Controller;
+
+(b) that the applicant —
+
+(i) shall not sell, assign, transfer, sublease or otherwise dispose of such residential property or any part thereof in its vacant or undeveloped state without the prior approval of the Controller, which may be granted with or without conditions; or
+
+(ii) shall sell all the flats or dwelling-houses in the development or, where the residential property comprises one or more buildings which have not been subdivided into units for sale, shall sell the whole development, to citizens or approved purchasers within a period of 2 years from the date of the issue by the relevant authority of a Temporary Occupation Permit or Certificate of Statutory Completion, whichever is the earlier, in respect of such flats, dwelling-houses or any of the buildings;
+
+(c) that, where the applicant is a company, limited liability partnership or society, no person who holds any shares in the company or who is a partner in the limited liability partnership or member of the society shall, without the approval of the Controller (which may be granted with or without conditions), sell, assign, transfer or otherwise dispose of any of his shares or any interest in such shares to any other person, or resign as such partner or member, as the case may be;
+
+(d) that the applicant shall provide such security as may be determined by the Controller for the purposes of complying with any condition imposed by the Controller;
+
+(e) that the applicant shall give an undertaking in writing to comply with the conditions imposed by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(3B) Subject to subsections (3C) and (3D), the Controller may extend any period referred to in subsection (3A)(a) or (b)(ii) and may, in his discretion, dispense with the requirement to provide security referred to in subsection (3A)(d).
+
+[35/2010 wef 17/01/2011]
+
+(3C) The Controller may, when extending any period referred to in subsection (3A)(a) or (b)(ii), require the applicant to pay an extension charge of such amount as may be determined by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(3D) Any extension charge payable under subsection (3C) need not bear any relationship to the cost of considering an application for and granting an extension of any period referred to in subsection (3A)(a) or (b)(ii).
+
+[35/2010 wef 17/01/2011]
+
+(3E) Where an applicant has failed to comply with any condition imposed by the Controller, the Controller may do all or any of the following:
+
+(a) in the case of a condition the compliance with which security has been provided under subsection (3A)(d), the Controller may forfeit (in part or whole) the security provided by the applicant after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof;
+
+(b) in the case of any condition referred to in subsection (3A)(b)(i) relating to residential property or in subsection (3A)(c) relating to shares in a company, the Controller may, by notice in writing, require the applicant to pay, within a specified period, a financial penalty of such amount (as the Controller thinks fit) not exceeding 50% of the market value of the residential property or shares concerned.
+
+[35/2010 wef 17/01/2011]
+
+(3F) The quantum of the financial penalty required to be paid under subsection (3E)(b) shall take into account any security provided by the applicant under subsection (3A)(d) and which has been forfeited under subsection (3E)(a) in respect of the same contravention of any condition referred to in subsection (3A)(b) or (c).
+
+[35/2010 wef 17/01/2011]
+
+(3G) Where the Controller is of the opinion that the failure of the applicant to comply with any condition referred to in subsection (3A)(b)(i) or (c) was committed with the consent or connivance of, or was attributable to any neglect on the part of any person who is a director, partner or member of the governing body or board of trustees of the applicant, as the case may be, the Controller shall, together with the notice under subsection (3E)(b) to the applicant, inform the person concerned of the Controller’s opinion, and that person shall then be jointly and severally liable with the applicant to pay the financial penalty imposed under subsection (3E)(b).
+
+[35/2010 wef 17/01/2011]
+
+(3H) Any financial penalty payable by any applicant or any other person under subsection (3E)(b) or (3G) shall be recoverable by the Controller as a debt due to the Controller from that applicant or other person.
+
+[35/2010 wef 17/01/2011]
+
 (4) The Minister may direct that all the residential properties that are not non-restricted residential properties in respect of which approval was not granted under subsection (3)(b) shall be transferred to any citizen or approved purchaser.
 
 [9/2006]
+
+(4A) Upon approving under subsection (3) the retention by an applicant of all or one or more of its residential properties subject to the condition referred to in subsection (3A)(b)(i), the Controller shall immediately inform the Registrar who shall enter —
+
+(a) on the relevant volume and folio of the land-register in the Land Titles Registry of the Authority; or
+
+(b) in the books or other records maintained at the Registry of Deeds of the Authority,
+
+as the case may be, a notice warning persons dealing with the registered proprietor named therein that the registered proprietor is prohibited from selling, assigning, transferring, subleasing or otherwise disposing of the residential property comprised therein in its vacant or undeveloped state.
+
+[35/2010 wef 17/01/2011]
+
+(4B) The Registrar shall cancel the notice of warning referred to in subsection (4A) if the Controller directs that the notice be cancelled; and the Controller shall make such a direction if he is satisfied that the Temporary Occupation Permit or the Certificate of Statutory Completion for the whole of the development has been issued by the relevant authority.
+
+[35/2010 wef 17/01/2011]
+
+(4C) No claim shall be made by any person against the Registrar for any loss or damage suffered if the notice referred to in subsection (4A) is not entered on the land-register in the Land Titles Registry of the Authority or in the books or other records maintained at the Registry of Deeds of the Authority, as the case may be, or is cancelled pursuant to subsection (4B).
+
+[35/2010 wef 17/01/2011]
 
 (5) Section 25(6) to (13) shall apply, with the necessary modifications, to every application made under subsection (1) for the retention of any estate or interest in such residential property.
 
 [9/2006]
 
+(6) For the purpose of determining under subsection (3E) the financial penalty for contravening a condition, “market value” —
+
+(a) in relation to residential property, means the market value of the residential property at the date of the contravention of the condition as assessed by an independent valuer appointed by the Controller; and
+
+(b) in relation to shares in a company, means the market value of the shares at the date of the contravention of the condition.
+
+[35/2010 wef 17/01/2011]
+
 ### Minister may issue direction for sale of residential property
 
-27\.—(1) Where the Minister has at any time before or after 1st October 1982 —
+27\.—(1) Where the Minister or the Controller, as the case may be, has at any time before or after 1st October 1982 —
 
 (a) granted his approval under section 25, 26 or 31 to any foreign person to purchase, acquire or retain any estate or interest in any residential property that is not non-restricted residential property;
 
@@ -1276,9 +1618,11 @@ Every applicant referred to in subsection (6) shall furnish a declaration as to 
 
 (d) granted his approval under section 28A to any foreign person for the development of any land,
 
-subject to any condition imposed by the Minister and the Minister is satisfied that that person has failed to comply with the condition, he may, by direction in writing, require the person named therein to dispose of his estate or interest in the residential property by transferring his estate or interest to any citizen or approved purchaser within a period of not less than 6 months of the date of service of the direction by the Minister.
+subject to any condition and the Minister is satisfied that that person has failed to comply with the condition, the Minister may, by direction in writing, require the person named therein to dispose of his estate or interest in the residential property by transferring his estate or interest to any citizen or approved purchaser within a period of not less than 6 months of the date of service of the direction by the Minister.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (2) A direction given by the Minister under subsection (1) shall be served on the Controller and the person named therein and the subsisting mortgagees and chargees (if any) of the residential property who appear as such on the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be.
 
@@ -1294,29 +1638,87 @@ subject to any condition imposed by the Minister and the Minister is satisfied t
 
 ### Change of existing use to use for residential purposes
 
-28\.—(1) Where any foreign person is the owner or purchaser of any land other than residential property prior to 11th September 1973, or has after that date acquired or purchased any such land, that foreign person shall be required to make application to the Minister (through the Controller) for the grant of approval to change the existing use of such land (whether it is land, a house, a building or other premises or part thereof) to use for any purpose other than industrial or commercial, prior to his making an application to the competent authority, appointed under the Planning Act (Cap. 232), for such change; and such foreign person shall not be granted permission under that Act for such change of use unless he has been granted approval by the Minister for the change.
+28\.—(1) Where any foreign person is the owner or purchaser of any land other than residential property prior to 11th September 1973, or has after that date acquired or purchased any such land, that foreign person shall be required to make application to the Controller for the grant of approval to change the existing use of such land (whether it is land, a house, a building or other premises or part thereof) to use for any purpose other than industrial or commercial, prior to his making an application to the competent authority, appointed under the Planning Act (Cap. 232), for such change; and such foreign person shall not be granted permission under that Act for such change of use unless he has been granted approval by the Controller for the change.
 
 [9/2006]
 
-(2) The Minister may, when granting any approval under subsection (1), impose such conditions as he thinks fit, including all or any of the following:
+[35/2010 wef 17/01/2011]
 
-(a) that the applicant shall provide such security as may be determined by the Minister for the purposes of complying with any condition imposed by the Minister;
+(2) The Controller may, with the approval of the Minister, grant approval under subsection (1) subject to such conditions as the Controller thinks fit, including all or any of the following:
 
-(b) that the applicant shall give an undertaking in writing to comply with the conditions imposed by the Minister.
+(a) that the applicant shall carry out and complete the development of the land within such period as may be determined by the Controller;
 
-[9/2006]
+(b) that the applicant —
 
-(3) Where an applicant has failed to comply with any of the conditions imposed by the Minister under this section, the Minister may forfeit the security provided by the applicant under this section after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof.
+(i) shall not sell, assign, transfer, sublease or otherwise dispose of the land or any part thereof in its vacant or undeveloped state without the prior approval of the Controller, which may be granted with or without conditions; or
 
-[9/2006]
+(ii) shall sell all the flats or dwelling-houses in the development or, where the land comprises one or more buildings which have not been subdivided into units for sale, shall sell the whole development, to citizens or approved purchasers within a period of 2 years from the date of the issue by the relevant authority of a Temporary Occupation Permit or Certificate of Statutory Completion, whichever is the earlier, in respect of such flats, dwelling-houses or any of the buildings;
 
-(4) An applicant may, upon receipt of the notice under subsection (3), appeal to the Minister within 3 months of such notice.
+(c) that, where the applicant is a company, limited liability partnership or society, no person who holds any shares in the company or who is a partner in the limited liability partnership or member of the society shall, without the approval of the Controller (which may be granted with or without conditions), sell, assign, transfer or otherwise dispose of any of his shares or any interest in such shares to any other person, or resign as such partner or member, as the case may be;
 
-[9/2006]
+(d) that the applicant shall provide such security as may be determined by the Controller for the purposes of complying with any condition imposed by the Controller;
 
-(5) The decision of the Minister on any appeal made under subsection (4) shall be final and shall not be called in question in any court.
+(e) that the applicant shall give an undertaking in writing to comply with the conditions imposed by the Controller.
 
-[9/2006]
+[35/2010 wef 17/01/2011]
+
+(3) Subject to subsections (4) and (5), the Controller may extend any period referred to in subsection (2)(a) or (b)(ii) and may, in his discretion, dispense with the requirement to provide security referred to in subsection (2)(d).
+
+[35/2010 wef 17/01/2011]
+
+(4) The Controller may, when extending any period referred to in subsection (2)(a) or (b)(ii), require the applicant to pay an extension charge of such amount as may be determined by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(5) Any extension charge payable under subsection (4) need not bear any relationship to the cost of considering an application for and of granting an extension of any period referred to in subsection (2)(a) or (b)(ii).
+
+[35/2010 wef 17/01/2011]
+
+(6) Where an applicant has failed to comply with any condition imposed by the Controller, the Controller may do all or any of the following:
+
+(a) in the case of a condition the compliance with which security has been provided under subsection (2)(d), the Controller may forfeit (in part or whole) the security provided by the applicant after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof;
+
+(b) in the case of any condition referred to in subsection (2)(b)(i) relating to land or in subsection (2)(c) relating to shares in a company, the Controller may, by notice in writing, require the applicant to pay, within a specified period, a financial penalty of such amount (as the Controller thinks fit) not exceeding 50% of the market value of the land or shares concerned.
+
+[35/2010 wef 17/01/2011]
+
+(7) The quantum of the financial penalty required to be paid under subsection (6)(b) shall take into account any security provided by the applicant under subsection (2)(d) and which has been forfeited under subsection (6)(a) in respect of the same contravention of any condition referred to in subsection (2)(b) or (c).
+
+[35/2010 wef 17/01/2011]
+
+(8) Where an applicant is a company, limited liability partnership or society and the Controller is of the opinion that the failure of the applicant to comply with any condition referred to in subsection (2)(b)(i) or (c) was committed with the consent or connivance of, or was attributable to any neglect on the part of any person who is a director of the company, a partner of the limited liability partnership or a member of the governing body or board of trustees of the society, as the case may be, the Controller shall, together with the notice under subsection (6)(b) to the applicant, inform the person concerned of the Controller’s opinion, and that person shall then be jointly and severally liable with the company, limited liability partnership or society to pay the financial penalty imposed under subsection (6)(b).
+
+[35/2010 wef 17/01/2011]
+
+(9) Any financial penalty payable by any applicant or any person under subsection (6)(b) or (8) shall be recoverable by the Controller as a debt due to the Controller from that applicant or person.
+
+[35/2010 wef 17/01/2011]
+
+(10) Upon approving under subsection (1) a change of use by an applicant of its land subject to the condition referred to in subsection (2)(b)(i), the Controller shall immediately inform the Registrar who shall enter —
+
+(a) on the relevant volume and folio of the land-register in the Land Titles Registry of the Authority; or
+
+(b) in the books or other records maintained at the Registry of Deeds of the Authority,
+
+as the case may be, a notice warning persons dealing with the registered proprietor named therein that the registered proprietor is prohibited from selling, assigning, transferring, subleasing or otherwise disposing of the land in its vacant or undeveloped state.
+
+[35/2010 wef 17/01/2011]
+
+(11) The Registrar shall cancel the notice of warning referred to in subsection (10) if the Controller directs that the notice be cancelled; and the Controller shall make such a direction if he is satisfied that the Temporary Occupation Permit or the Certificate of Statutory Completion for the whole of the development has been issued by the relevant authority.
+
+[35/2010 wef 17/01/2011]
+
+(12) No claim shall be made by any person against the Registrar for any loss or damage suffered if the notice referred to in subsection (10) is not entered on the land-register in the Land Titles Registry of the Authority or in the books or other records maintained at the Registry of Deeds of the Authority, as the case may be, or is cancelled pursuant to subsection (11).
+
+[35/2010 wef 17/01/2011]
+
+(13) For the purpose of determining under subsection (6) the financial penalty for contravening a condition, “market value” —
+
+(a) in relation to land, means the market value of the land at the date of the contravention of the condition as assessed by an independent valuer appointed by the Controller; and
+
+(b) in relation to shares in a company, means the market value of the shares at the date of the contravention of the condition.
+
+[35/2010 wef 17/01/2011]
 
 ### Approval for residential development on land deemed non-residential
 
@@ -1328,31 +1730,95 @@ subject to any condition imposed by the Minister and the Minister is satisfied t
 
 that foreign person —
 
-(i) shall be required to make an application to the Minister through the Controller for the grant of approval to develop the land for that purpose prior to his making an application to the competent authority appointed under the Planning Act for permission to develop; and
+(i) shall be required to make an application to the Controller for the grant of approval to develop the land for that purpose prior to his making an application to the competent authority appointed under the Planning Act for permission to develop; and
 
-(ii) shall not be granted planning permission or conservation permission unless he has been granted prior approval by the Minister in accordance with this section.
+[35/2010 wef 17/01/2011]
+
+(ii) shall not be granted planning permission or conservation permission unless he has been granted prior approval by the Controller in accordance with this section.
 
 [3/98; 9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (2) A certification by the competent authority appointed under the Planning Act certifying that an alteration to the Master Plan was approved by the Minister in relation to an application for planning permission or conservation permission under that Act shall be conclusive evidence of the matters stated therein.
 
 [3/98]
 
-(3) The Minister may, when granting any approval under subsection (1), impose such conditions as he may think fit, including the following:
+(3) The Controller may, with the approval of the Minister, grant approval under subsection (1) subject to such conditions as the Controller thinks fit, including all or any of the following:
 
-(a) that the foreign person shall provide such security as may be determined by the Minister for the purpose of complying with any condition imposed by the Minister; and
+(a) that the applicant shall carry out and complete the development of the land within such period as may be determined by the Controller;
 
-(b) that the foreign person shall give an undertaking in writing to comply with the conditions imposed by the Minister.
+(b) that the applicant —
 
-[3/98]
+(i) shall not sell, assign, transfer, sublease or otherwise dispose of the land or any part thereof in its vacant or undeveloped state without the prior approval of the Controller, which may be granted with or without conditions; or
 
-(4) Where an applicant has failed to comply with any of the conditions imposed by the Minister under this section, the Minister may forfeit the security provided by the applicant under this section after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof.
+(ii) shall sell all the flats or dwelling-houses in the development or, where the land comprises one or more buildings which have not been subdivided into units for sale, shall sell the whole development, to citizens or approved purchasers within a period of 2 years from the date of the issue by the relevant authority of a Temporary Occupation Permit or Certificate of Statutory Completion, whichever is the earlier, in respect of such flats, dwelling-houses or any of the buildings;
 
-[3/98]
+(c) that, where the applicant is a company, limited liability partnership or society, no person who holds any shares in the company or who is a partner in the limited liability partnership or member of the society shall, without the approval of the Controller (which may be granted with or without conditions), sell, assign, transfer or otherwise dispose of any of his shares or any interest in such shares to any other person, or resign as such partner or member, as the case may be;
 
-(5) An applicant may, within 3 months of the receipt of the notice under subsection (4), appeal to the Minister whose decision shall be final and shall not be called in question in any court.
+(d) that the applicant shall provide such security as may be determined by the Controller for the purposes of complying with any condition imposed by the Controller;
 
-[3/98]
+(e) that the applicant shall give an undertaking in writing to comply with the conditions imposed by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(4) Subject to subsections (5) and (6), the Controller may extend any period referred to in subsection (3)(a) or (b)(ii) and may, in his discretion, dispense with the requirement to provide security referred to in subsection (3)(d).
+
+[35/2010 wef 17/01/2011]
+
+(5) The Controller may, when extending any period referred to in subsection (3)(a) or (b)(ii), require the applicant to pay an extension charge of such amount as may be determined by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(6) Any extension charge payable under subsection (5) need not bear any relationship to the cost incurred in considering an application for and granting an extension of any period referred to in subsection (3)(a) or (b)(ii).
+
+[35/2010 wef 17/01/2011]
+
+(7) Where an applicant has failed to comply with any condition imposed by the Controller, the Controller may do all or any of the following:
+
+(a) in the case of a condition the compliance with which security has been provided under subsection (3)(d), the Controller may forfeit (in part or whole) the security provided by the applicant after giving 21 days’ notice in writing to the applicant of his intention to forfeit the security and the grounds thereof;
+
+(b) in the case of any condition referred to in subsection (3)(b)(i) relating to land or in subsection (3)(c) relating to shares in a company, the Controller may, by notice in writing, require the applicant to pay, within a specified period, a financial penalty of such amount (as the Controller thinks fit) not exceeding 50% of the market value of the land or shares concerned.
+
+[35/2010 wef 17/01/2011]
+
+(8) The quantum of the financial penalty required to be paid under subsection (7)(b) shall take into account any security provided by the applicant under subsection (3)(d) and which has been forfeited under subsection (7)(a) in respect of the same contravention of any condition referred to in subsection (3)(b) or (c).
+
+[35/2010 wef 17/01/2011]
+
+(9) Where an applicant is a company, limited liability partnership or society and the Controller is of the opinion that the failure of the applicant to comply with any condition referred to in subsection (3)(b)(i) or (c) was committed with the consent or connivance of, or was attributable to any neglect on the part of any person who is a director of the company, a partner of the limited liability partnership or a member of the governing body or board of trustees of the society, as the case may be, the Controller shall, together with the notice under subsection (7)(b) to the applicant, inform the person concerned of the Controller’s opinion, and that person shall then be jointly and severally liable with the company, limited liability partnership or society to pay the financial penalty imposed under subsection (7)(b).
+
+[35/2010 wef 17/01/2011]
+
+(10) Any financial penalty payable by any applicant or any person under subsection (7)(b) or (9) shall be recoverable by the Controller as a debt due to the Controller from that applicant or person.
+
+[35/2010 wef 17/01/2011]
+
+(11) Upon granting approval under subsection (1) to develop land subject to the condition referred to in subsection (3)(b)(i), the Controller shall immediately inform the Registrar who shall enter —
+
+(a) on the relevant volume and folio of the land-register in the Land Titles Registry of the Authority; or
+
+(b) in the books or other records maintained at the Registry of Deeds of the Authority,
+
+as the case may be, a notice warning persons dealing with the registered proprietor named therein that the registered proprietor is prohibited from selling, assigning, transferring, subleasing or otherwise disposing of the land in its vacant or undeveloped state.
+
+[35/2010 wef 17/01/2011]
+
+(12) The Registrar shall cancel the notice of warning referred to in subsection (11) if the Controller directs that the notice be cancelled; and the Controller shall make such a direction if he is satisfied that the Temporary Occupation Permit or the Certificate of Statutory Completion for the whole of the development has been issued by the relevant authority.
+
+[35/2010 wef 17/01/2011]
+
+(13) No claim shall be made by any person against the Registrar for any loss or damage suffered if the notice referred to in subsection (11) is not entered on the land-register in the Land Titles Registry of the Authority or in the books or other records maintained at the Registry of Deeds of the Authority, as the case may be, or is cancelled pursuant to subsection (12).
+
+[35/2010 wef 17/01/2011]
+
+(14) For the purpose of determining under subsection (7) the financial penalty for contravening a condition, “market value” —
+
+(a) in relation to land, means the market value of the land at the date of the contravention of the condition as assessed by an independent valuer appointed by the Controller; and
+
+(b) in relation to shares in a company, means the market value of the shares at the date of the contravention of the condition.
+
+[35/2010 wef 17/01/2011]
 
 ## PART IV
 
@@ -1420,37 +1886,43 @@ MISCELLANEOUS
 
 [9/2006]
 
-(5) The Controller may extend any period referred to in subsection (3)(c) and may, in his discretion, dispense with the requirement to provide security referred to in that subsection.
+(5) Subject to subsections (5A) and (5B), the Controller may extend any period referred to in subsection (3)(c) and may, in his discretion, dispense with the requirement to provide security referred to in subsection (3)(c).
 
-[9/2006]
+[35/2010 wef 17/01/2011]
+
+(5A) The Controller may, when extending any period referred to in subsection (3)(c), require the housing developer to pay an extension charge of such amount as may be determined by the Controller.
+
+[35/2010 wef 17/01/2011]
+
+(5B) Any extension charge payable under subsection (5A) need not bear any relationship to the cost of considering an application for and of granting an extension of any period referred to in subsection (3)(c).
+
+[35/2010 wef 17/01/2011]
 
 (6) Where a housing developer fails to comply with any of the conditions referred to in subsection (3)(c) within the period determined by the Controller or any extension thereof, the Controller may forfeit the security provided by the housing developer under that subsection after giving 21 days’ notice in writing to the housing developer of his intention to forfeit the security and the grounds therefor.
 
 [9/2006]
 
-(7) Where a housing developer fails to comply with any condition referred to in subsection (3)(a) or (b), the Controller may, by notice in writing, require the housing developer to pay, within a specified period, a financial penalty of such amount (as the Controller thinks fit) not exceeding 50% of the purchase price of the residential property paid by the housing developer in its purchase or acquisition of the residential property.
+(7) Where a housing developer fails to comply with any condition referred to in subsection (3)(a) or (b), the Controller may, by notice in writing, require the housing developer to pay, within a specified period, a financial penalty of such amount (as the Controller thinks fit) not exceeding 50% of the purchase price of the residential property paid by the housing developer in its purchase or acquisition of the residential property, or of the market value of the shares, as the case may be.
 
 [9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (8) The quantum of the financial penalty referred to in subsection (7) shall take into account any security provided by the housing developer under subsection (3)(c) and which has been forfeited under subsection (6).
 
 [9/2006]
 
-(9) Where a housing developer is a company, a limited liability partnership or a society and the failure of the housing developer to comply with any condition referred to in subsection (3)(a) or (b) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any person who is a director of the company, a partner of the limited liability partnership or a member of the governing body or board of trustees of the society, as the case may be, that person shall be jointly and severally liable with the company, limited liability partnership or society to the financial penalty imposed under subsection (7).
+(9) Where a housing developer is a company, limited liability partnership or society and the Controller is of the opinion that the failure of the housing developer to comply with any condition referred to in subsection (3)(a) or (b) was committed with the consent or connivance of, or was attributable to any neglect on the part of any person who is a director of the company, a partner of the limited liability partnership or a member of the governing body or board of trustees of the society, as the case may be, the Controller shall, together with the notice under subsection (7) to the housing developer, inform the person concerned of the Controller’s opinion, and that person shall then be jointly and severally liable with the company, limited liability partnership or society to pay the financial penalty imposed under subsection (7).
 
-[9/2006]
+[35/2010 wef 17/01/2011]
 
 (10) Any financial penalty payable by any housing developer or any person under subsection (7) or (9) shall be recoverable by the Controller as a debt due to the Controller from that housing developer or person.
 
 [9/2006]
 
-(11) The housing developer may, upon receipt of the notice under subsection (6) or (7) or upon being informed in writing by the Controller that he will not extend the period determined under subsection (3)(c), appeal to the Minister within 3 months of the receipt of such notice or information.
+(11) [Deleted by Act 35/2010 wef 17/01/2011]
 
-[9/2006]
-
-(12) The decision of the Minister on any appeal made under subsection (11) shall be final and shall not be called in question in any court.
-
-[9/2006]
+(12) [Deleted by Act 35/2010 wef 17/01/2011]
 
 (13) Upon approval being granted by the Controller to the housing developer to purchase or acquire any estate or interest in a residential property, the Controller shall inform the Registrar.
 
@@ -1488,6 +1960,54 @@ who or which constructs or intends to construct flats or dwelling-houses for sal
 
 [9/2006]
 
+(19) For the purpose of determining under subsection (7) the financial penalty for contravening a condition, “market value”, in relation to shares in a company, means the market value of the shares at the date of the contravention of the condition.
+
+[35/2010 wef 17/01/2011]
+
+### Appeals to Minister
+
+31A\.—(1) Any —
+
+(a) approved purchaser who is aggrieved by any notice of the Controller under section 25B(1) requiring the approved purchaser to pay a financial penalty;
+
+(b) applicant under section 26 who is aggrieved —
+
+(i) by any decision of the Controller not to extend the period referred to in section 26(3A)(a) or (b)(ii); or
+
+(ii) by any notice of the Controller under section 26(3E)(a) or (b) forfeiting security or requiring the applicant to pay a financial penalty;
+
+(c) person referred to in section 26(3G) who is aggrieved by the opinion of the Controller in any notice under section 26(3G);
+
+(d) applicant under section 28 who is aggrieved —
+
+(i) by any decision of the Controller not to extend the period referred to in section 28(2)(a) or (b)(ii); or
+
+(ii) by any notice of the Controller under section 28(6)(a) or (b) forfeiting security or requiring the applicant to pay a financial penalty;
+
+(e) person referred to in section 28(8) who is aggrieved by the opinion of the Controller in any notice under section 28(8);
+
+(f) applicant under section 28A who is aggrieved —
+
+(i) by any decision of the Controller not to extend the period referred to in section 28A(3)(a) or (b)(ii); or
+
+(ii) by any notice of the Controller under section 28A(7)(a) or (b) forfeiting security or requiring the applicant to pay a financial penalty;
+
+(g) person referred to in section 28A(9) who is aggrieved by the opinion of the Controller in any notice under section 28A(9);
+
+(h) housing developer under section 31 who is aggrieved —
+
+(i) by any decision of the Controller not to extend the period referred to in section 31(3)(c)(i) or (ii); or
+
+(ii) by any notice of the Controller under section 31(6) or (7) forfeiting security or requiring the housing developer to pay a financial penalty; or
+
+(i) person referred to in section 31(9) who is aggrieved by the opinion of the Controller in any notice under section 31(9),
+
+may, within 3 months from the date of the notice or the date of being notified of the decision, as the case may be, (or such longer period as the Minister may allow in exceptional circumstances, whether before or after the end of the 3 months), appeal to the Minister in the manner prescribed.
+
+(2) The Minister may determine an appeal under subsection (1) by confirming, varying or reversing the Controller’s decision or opinion in the notice or notification (which may include ordering the refund of any security forfeited or any financial penalty paid); and the decision of the Minister on any such appeal shall be final and shall not be called in question in any court.
+
+[35/2010 wef 17/01/2011]
+
 ### Exemption
 
 32\.—(1) The Minister may, if he considers it to be in the economic interest of Singapore or for any other cause which appears to him necessary or expedient or if in his opinion the circumstances so warrant, from time to time, by regulations or by notification in theGazetteor otherwise, exempt permanently or for such period or periods as he may think fit and subject to such conditions as he may consider necessary, from all or any of the provisions of this Act —
@@ -1513,6 +2033,10 @@ who or which constructs or intends to construct flats or dwelling-houses for sal
 (b) each subsisting mortgagee or chargee (if any) who appears as such in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be.
 
 [9/2006]
+
+(2C) Where the Minister grants (before, on or after the date of commencement of section 19 of the Residential Property (Amendment) Act 2010) an exemption under this section in respect of any person or property referred to in subsection (1)(a) or (b) subject to any condition, any person who fails to comply with any such condition on or after that date shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+
+[35/2010 wef 17/01/2011]
 
 (3) In subsection (1)(b), “dwelling-house” includes a flat, whether or not such dwelling-house is completed or proposed to be erected.
 
@@ -1580,25 +2104,13 @@ as the case may be, shall be conclusive evidence for all purposes.
 
 (2) A direction of the Minister under this section shall be final and shall not be called in question in any court.
 
-### Penalty for failure to comply with condition imposed by Minister
-
-35\. Where the Minister has granted —
-
-(a) his approval for purchase, acquisition or retention of any estate or interest in any residential property that is not non-restricted residential property pursuant to section 25, 26 or 31;
-
-(b) his approval for a change of use of any land pursuant to section 28;
-
-(ba) his approval for development of any land pursuant to section 28A; or
-
-(c) an exemption under section 32 in respect of any person or property,
-
-subject to any condition imposed by the Minister, any approved purchaser who fails to comply with any such condition shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
-
-[9/2006]
+35\. [Repealed by Act 35/2010 wef 17/01/2011]
 
 ### General penalty
 
-36\.—(1) Any person who contravenes any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+36\.—(1) Any person who contravenes any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[35/2010 wef 17/01/2011]
 
 (2) Notwithstanding any of the provisions of this Act, no person who has, at any time before 1st October 1976, contravened any of the provisions of this Act, shall be punished by way of a fine or imprisonment in respect thereof.
 
@@ -1610,9 +2122,11 @@ subject to any condition imposed by the Minister, any approved purchaser who fai
 
 ### Composition of offences
 
-36A\.—(1) The Controller or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules or regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000 .
+36A\.—(1) The Controller or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules or regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $10,000.
 
 [17/2001; 9/2006]
+
+[35/2010 wef 17/01/2011]
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
@@ -2062,7 +2576,7 @@ Residential Property Act
 
 (CHAPTER 274)
 
-This Legislative History is provided for the convenience of users of the Residential Property Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Residential Property Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2143,3 +2657,8 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|16.|**Act 35 of 2010—Residential Property (Amendment) Act 2010**|
+||Date of First Reading|18 October 2010|
+|||(Bill No. 30/2010 published on 18 October 2010)|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|17 January 2011|
