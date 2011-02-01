@@ -366,9 +366,9 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“approved medical institution” means a hospital, clinic, healthcare establishment or other medical institution which the Minister, by notification in theGazette, declares as an approved medical institution1;
+“approved medical institution” means a hospital, clinic, healthcare establishment or other medical institution which the Minister, by notification in theGazette, declares as an approved medical institution\*;
 
-1See section 48(1) of the Employment (Amendment) Act 2008 (Act 32 of 2008).
+\*See section 48(1) of the Employment (Amendment) Act 2008 (Act 32 of 2008).
 
 “basic rate of pay” means the total amount of money (including wage adjustments and increments) to which an employee is entitled under his contract of service either for working for a period of time, that is, for one hour, one day, one week, one month or for such other period as may be stated or implied in his contract of service, or for each completed piece or task of work but does not include —
 
@@ -512,7 +512,7 @@ Provided that when any person is employed by any one employer partly as a workma
 
 [21/84; 36/95; 41/2004; 32/2008]
 
-(2) Any person employed in a managerial or an executive position who is in receipt of a salary not exceeding $2,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed by the Minister, shall be regarded as an employee for the purposes of —
+(2) Any person employed in a managerial or an executive position who is in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed by the Minister, shall be regarded as an employee for the purposes of —
 
 (a) sections 20, 20A, 21, 22, 23 (read with section 10 or 11, as the case may be), 24, 25 and 34 and Parts XII to XVI (read with the Second and Third Schedules); and
 
@@ -521,6 +521,8 @@ Provided that when any person is employed by any one employer partly as a workma
 and those provisions shall apply in relation to that person subject to such modification as may be prescribed.
 
 [32/2008]
+
+[36/2010 wef 01/02/2011]
 
 ### Appointment of officers
 
@@ -1989,6 +1991,8 @@ shall be deemed to have absented himself from work without the permission of his
 
 90\.—(1) Any employer who employs any person as an employee contrary to the provisions of this Part or fails to pay any salary in accordance with the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and for a second or subsequent offence to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[4/2010 wef 05/02/2010]
+
 (2) Notwithstanding subsection (1) —
 
 (a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in section 89; and
@@ -2231,6 +2235,10 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 (3) The powers of the Commissioner under subsection (1) shall include the power to hear and decide, in accordance with the procedure laid down in this Part, any claim by a subcontractor for labour against a contractor or subcontractor for any sum which the subcontractor for labour claims to be due to him in respect of any labour provided by him under his contract with the contractor or subcontractor and to make such consequential orders as may be necessary to give effect to his decision.
 
+(3A) Where the employee is employed in a managerial or an executive position, an order for the payment of money under subsection (1) shall not exceed $20,000.
+
+[36/2010 wef 01/02/2011]
+
 (4) In this section, “employer” includes the transferor and the transferee of an undertaking or part thereof referred to in section 18A.
 
 [36/95]
@@ -2293,11 +2301,15 @@ Provided that the person claiming in respect of matters arising out of or as the
 
 120\. In proceedings before the Commissioner, a party —
 
-(a) being an employee may be represented by an officer of the trade union of which the employee is a member; and
+(a) being an employee and a member of a trade union that has been given recognition under Part III of the Industrial Relations Act (Cap. 136) by the employer of the employee, may be represented by an officer of the trade union; and
+
+[36/2010 wef 01/02/2011]
 
 (b) being an employer may be represented by one of his employees,
 
 but shall not be represented by an advocate or solicitor or a paid agent.
+
+[36/2010 wef 01/02/2011]
 
 ### Joining of claims
 
@@ -2768,3 +2780,9 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 26/2009 published on 24 November 2009)|
 ||Date of Second and Third Readings|12 January 2012|
 ||Date of commencement|5 February 2010|
+|28.|**Act 36 of 2010—Industrial Relations (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 October 2010|
+|||(Bill No. 31/2010 published on 19 October 2010)|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|1 February 2011|
