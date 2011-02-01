@@ -94,6 +94,8 @@
 
 - [37 Destruction of, or damage to, service property](#Destruction-of-or-damage-to-service-property)
 
+- [37A Causing irrecoverable loss of service property](#Causing-irrecoverable-loss-of-service-property)
+
 - [38 Dishonest misappropriation of service property](#Dishonest-misappropriation-of-service-property)
 
 - [39 Misapplication and waste of service property](#Misapplication-and-waste-of-service-property)
@@ -186,7 +188,7 @@
 
 - [81 Review of findings and awards](#Review-of-findings-and-awards)
 
-- [82 Officers who are to act as junior and senior disciplinary officers](#Officers-who-are-to-act-as-junior-and-senior-disciplinary-officers)
+- [82 (Repealed)](#Repealed)
 
 - [83 Inapplicability of law of evidence](#Inapplicability-of-law-of-evidence)
 
@@ -234,7 +236,7 @@
 
 - [101 Civil Defence Force Fund](#Civil-Defence-Force-Fund)
 
-[**Part XII CIVIL DEFENCE EMERGENCY**](#Part-XII)
+[**Part XII STATE OF CIVIL DEFENCE EMERGENCY**](#Part-XII)
 
 - [102 Declaration of state of civil defence emergency](#Declaration-of-state-of-civil-defence-emergency)
 
@@ -245,6 +247,16 @@
 - [104 Civil defence training for civilian population](#Civil-defence-training-for-civilian-population)
 
 - [105 Protection of civil defence volunteers](#Protection-of-civil-defence-volunteers)
+
+[**Part XIIIA SERVICE OUTSIDE SINGAPORE**](#Part-XIIIA)
+
+- [105A Minister may send members of Force outside Singapore](#Minister-may-send-members-of-Force-outside-Singapore)
+
+- [105B Members of Force serving outside Singapore to remain subject to this Act](#Members-of-Force-serving-outside-Singapore-to-remain-subject-to-this-Act)
+
+- [105C Jurisdiction during overseas service](#Jurisdiction-during-overseas-service)
+
+- [105D Offences and misconduct during overseas service](#Offences-and-misconduct-during-overseas-service)
 
 [**Part XIV GENERAL**](#Part-XIV)
 
@@ -302,7 +314,7 @@ PRELIMINARY
 
 “civil defence” means the planning, organisation, co-ordination and implementation of measures, other than measures amounting to an actual combat, that are necessary or desirable for the safety of the public and are designed to guard against, prevent, reduce, or overcome the effects or possible effects of a national emergency or a civil defence emergency, and includes the conducting of, and participation in, drills, exercises and training for such purposes;
 
-“civil defence emergency” means any fire, explosion, earthquake, oil spill, eruption, flood, storm or other happening (whether or not attributable to an attack by an enemy or to any warlike act) that causes or may cause destruction of or damage to property or loss of life or injury or distress to persons or that in any way endangers the safety of the public in Singapore or in any part thereof;
+“civil defence emergency” means any fire, explosion, earthquake, oil spill, eruption, flood, storm, hazardous materials incident or other happening (whether or not attributable to an attack by an enemy or to any warlike act) that causes or may cause destruction of or damage to property or loss of life or injury or distress to persons or that in any way endangers the safety of the public in Singapore or in any part thereof;
 
 [32/2010 wef 01/02/2011]
 
@@ -318,21 +330,37 @@ PRELIMINARY
 
 “disciplinary officer” means a junior disciplinary officer or a senior disciplinary officer designated as such under Part VII;
 
+“emergency services” means any organisation or group of persons providing services to respond to and deal with civil defence emergencies, and includes fire-fighting services, ambulance services and the police;
+
+[32/2010 wef 01/02/2011]
+
 “Force” means the Singapore Civil Defence Force raised and maintained in accordance with the provisions of this Act;
 
 “full-time service” has the same meaning as in the Enlistment Act (Cap. 93);
 
 “Fund” means the Civil Defence Force Fund established under section 101;
 
+“hazardous material” means any substance or article set out in the Third Schedule to the Road Traffic (Expressway Traffic) Rules (Cap. 276, R 23);
+
+[32/2010 wef 01/02/2011]
+
+“hazardous materials incident” means an actual or suspected spillage or other escape of any hazardous material the spillage or escape of which causes or may cause destruction of or damage to property or loss of life or injury or distress to persons or that in any way endangers the safety of the public in Singapore or in any part thereof;
+
+[32/2010 wef 01/02/2011]
+
+“junior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a company or equivalent sub-unit or any other officer designated as a junior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence;
+
+[32/2010 wef 01/02/2011]
+
 “medical practitioner” includes a medical officer in the service of the Government;
 
-“member” means an officer or a serviceman of the Force;
+“member” means an officer or a serviceman of the Force, and shall include an auxiliary member;
 
 [32/2010 wef 01/02/2011]
 
 “national service” and “national serviceman” have the same meanings as in the Enlistment Act;
 
-“non-commissioned officer” means a member holding a rank not higher than the rank of warrant officer and not lower than the rank of lance-corporal;
+“non-commissioned officer” means a member holding a rank not higher than the rank of senior warrant officer and not lower than the rank of lance-corporal;
 
 [32/2010 wef 01/02/2011]
 
@@ -350,11 +378,9 @@ PRELIMINARY
 
 “proper authority” has the same meaning as in the Enlistment Act (Cap. 93);
 
-“provost officer” means —
+“provost officer” means any member of the Force appointed by the Commissioner as a provost officer for the purposes of this Act;
 
-(a) any member of the Force appointed by the Commissioner as a provost officer for the purposes of this Act; or
-
-(b) an officer or a serviceman of the provost unit of the Force;
+[32/2010 wef 01/02/2011]
 
 “public officer” has the same meaning as in the Constitution of the Republic of Singapore;
 
@@ -362,7 +388,11 @@ PRELIMINARY
 
 “regulations” means the regulations made under this Act;
 
-“serviceman” means a member of the Force holding a rank not higher than the rank of warrant officer and includes a recruit in the Force;
+“senior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a division, battalion, training school or its equivalent or any other officer designated as a senior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence;
+
+[32/2010 wef 01/02/2011]
+
+“serviceman” means a member of the Force holding a rank not higher than the rank of senior warrant officer and includes a recruit in the Force;
 
 [32/2010 wef 01/02/2011]
 
@@ -380,7 +410,7 @@ PRELIMINARY
 
 (b) a mess, club, common room, canteen or other institution of the Force,
 
-and “service ship”, “service aircraft” and “service vehicle” shall have corresponding meanings;
+and “service equipment”, “service facilities”, “service ship”, “service aircraft” and “service vehicle” shall have corresponding meanings;
 
 [32/2010 wef 01/02/2011]
 
@@ -404,45 +434,63 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (a) to carry out civil defence duties; and
 
-(b) to instruct the members of the public regarding civil defence and to equip them for the purposes of such defence.
+(b) to instruct the members of the public regarding civil defence and, if necessary, to equip them for the purposes of such defence.
 
 [32/2010 wef 01/02/2011]
 
 (2) Without limiting the generality of subsection (1), the Force may exercise and perform all the following functions and duties:
 
-(a) assist the public authorities to carry out works, clear streets, roads and other public places and remove and dispose of dangerous structures and materials;
+(a) rescue endangered persons and remove them to areas of safety;
 
-(b) rescue endangered persons and remove them to areas of safety;
+[32/2010 wef 01/02/2011]
 
-(c) set up emergency and first-aid posts and provide first-aid to casualties and for their removal to hospitals or areas of safety;
+(b) provide first-aid to casualties and for their removal for medical treatment or to areas of safety;
 
-(d) train and equip the civilian population to cope with any civil defence emergency;
+[32/2010 wef 01/02/2011]
 
-(e) assist the public authorities and other agencies to provide for the relief of distress and for welfare generally, including the accommodation of the homeless and the conserving and supplying of food, fuel, clothing, first-aid and medical supplies and other necessities;
+(c) train and, if necessary, equip the civilian population to cope with any civil defence emergency;
 
-(f) assist the public authorities to undertake measures for the disposal of the dead;
+[32/2010 wef 01/02/2011]
 
-(g) disseminate information and advice to the public;
+(d) assist the public authorities to undertake measures for the retrieval and, if necessary, decontamination of the dead bodies from any place affected by any civil defence emergency;
 
-(h) take lawful measures to extinguish and prevent the spread of fire;
+[32/2010 wef 01/02/2011]
 
-(i) provide, maintain, control and operate prescribed warning devices;
+(e) disseminate information and advice to the public;
 
-(j) manage all shelters including air-raid shelters and temporary shelters;
+[32/2010 wef 01/02/2011]
 
-(k) assist the public authorities to carry out repairs to essential utilities and Government buildings;
+(f) take lawful measures to extinguish and prevent the spread of fire;
 
-(l) control lighting and the distribution of fresh water and other essential supplies;
+[32/2010 wef 01/02/2011]
 
-(m) take lawful measures for protecting life and property in case of fire;
+(g) provide, maintain, control and operate prescribed warning devices;
 
-(n) provide and maintain an adequate emergency ambulance service;
+[32/2010 wef 01/02/2011]
 
-(o) ensure effective co-ordination between the Force and other fire services in Singapore; and
+(h) manage all public shelters including air-raid shelters and temporary shelters;
 
-(p) execute such other duties as may be imposed on it by this Act or any other written law.
+[32/2010 wef 01/02/2011]
 
-[39/93]
+(i) take lawful measures for protecting life and property in case of fire;
+
+[32/2010 wef 01/02/2011]
+
+(j) take lawful measures to mitigate the consequences of hazardous materials incidents and for protecting life and property in such an event;
+
+[32/2010 wef 01/02/2011]
+
+(k) provide and maintain an adequate emergency ambulance service;
+
+[32/2010 wef 01/02/2011]
+
+(l) ensure effective co-ordination between the Force and other emergency services in Singapore; and
+
+[32/2010 wef 01/02/2011]
+
+(m) execute such other duties as may be imposed on it by this Act or any other written law.
+
+[32/2010 wef 01/02/2011]
 
 ### Organisation
 
@@ -458,7 +506,9 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (c) persons who are recruited to serve as auxiliary members; and
 
-(d) public officers who are serving in the Forceas engineering or technical officers.
+(d) public officers who are serving in the Force.
+
+[32/2010 wef 01/02/2011]
 
 [39/93]
 
@@ -470,11 +520,11 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (b) exercise such functions, and perform such duties and powers with respect to civil defence as are conferred upon him by this Act.
 
-(2) The Minister may appoint such number of Deputy Commissioners and Assistant Commissioners of Civil Defence as he thinks fit.
+(2) The Minister may appoint such number of Deputy Commissioners, Senior Assistant Commissioners and Assistant Commissioners of Civil Defence as he thinks fit.
 
 [32/2010 wef 01/02/2011]
 
-(3) The Deputy Commissioners and the Assistant Commissioners of Civil Defence shall have and may exercise all the powers conferred on the Commissioner by or under this Act, subject to such limitations as the Commissioner may see fit to impose.
+(3) The Deputy Commissioners, the Senior Assistant Commissioners and the Assistant Commissioners of Civil Defence shall have and may exercise all the powers conferred on the Commissioner by or under this Act, subject to such limitations as the Commissioner may see fit to impose.
 
 [32/2010 wef 01/02/2011]
 
@@ -536,7 +586,9 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 ### Identity card
 
-12\. An indentity card shall be issued to every member and shall be evidence of his appointment under this Act.
+12\. An identity card shall be issued to every full-time national serviceman and shall be evidence of his enlistment in the Force under this Act.
+
+[32/2010 wef 01/02/2011]
 
 ### Delivery of Government property on leaving Force
 
@@ -584,13 +636,15 @@ Persons subject to this Act
 
 (b) the modification of any provision so far as it relates to all or any of those classes; or
 
-(c) the addition or substitution or provisions relating to all or any of those classes.
+(c) the addition or substitution of provisions relating to all or any of those classes.
 
 [32/2010 wef 01/02/2011]
 
 ### Certain persons to remain subject to Act
 
-16\. Subject to section 73, a person who has ceased to be a member may, in respect of a service offence committed while he was a member, be dealt with as though he were still a member, if and only if he is charged with the offence within 6 months of his ceasing to be a member.
+16\. Subject to section 73, a person who has ceased to be a member may, in respect of a service offence committed within 6 months before he ceased to be a member, be dealt with as though he were still a member, if and only if he is charged with the offence not later than 3 years from the date of the commission of the offence.
+
+[32/2010 wef 01/02/2011]
 
 Division 2 —
 
@@ -618,13 +672,9 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 ### Limitation of time for trial of offences under Act
 
-19\.—(1) Subject to subsection (2) and except in respect of the service offences mentioned in subsection (3), no person shall be liable to be tried by a disciplinary officer unless his trial begins before the expiration of a period of 6 months from the day upon which the service offence was alleged to have been committed.
+19\.—(1) Except in respect of the service offences mentioned in subsection (3), no person shall be liable to be tried by a disciplinary officer unless his trial begins before the expiration of a period of 3 years from the day upon which the service offence was alleged to have been committed.
 
 [32/2010 wef 01/02/2011]
-
-(2) A person may be tried by a disciplinary officer within 3 years of the date of commission of the offence if he is an operationally ready national serviceman.
-
-[19/94]
 
 (3) Every person who is subject to this Act at the time of the alleged commission by him of a service offence of desertion or absence without leave shall continue to be liable to be charged, dealt with and tried at any time under this Act.
 
@@ -798,6 +848,14 @@ whether the person in command is a member or not, shall be guilty of an offence 
 
 37\. Any person who intentionally, recklessly or negligently destroys or damages service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
 
+### Causing irrecoverable loss of service property
+
+37A\.—(1) Any person who wilfully causes the irrecoverable loss of any service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
+
+(2) Any person who, by any negligent act or omission, causes the irrecoverable loss of any service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+
+[32/2010 wef 01/02/2011]
+
 ### Dishonest misappropriation of service property
 
 38\. Any person who —
@@ -836,7 +894,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (a) any document which is the property of the Force; or
 
-(b) any document submitted to the Force for any purpose whatsoever.
+(b) any document submitted to the Force for any purpose whatsoever,
+
+and shall include any such document in the form of an electronic record, and a reference to signing of a service document shall be deemed to include the application of an electronic signature to an electronic record.
+
+[32/2010 wef 01/02/2011]
 
 ### False statement in relation to appointment or enlistment
 
@@ -919,6 +981,10 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 (c) having been authorised to be absent from his place of duty, fails to return to his place of duty at the expiration of the period for which his absence was authorised; or
 
 (d) having been notified to report for duty fails to report to his place of duty without lawful excuse.
+
+(3) It shall be a defence for any person charged with an offence under this section to prove that his absence was a result of circumstances over which he had no control.
+
+[32/2010 wef 01/02/2011]
 
 ### Malingering
 
@@ -1200,7 +1266,7 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 72\.—(1) If the accused is an officer below the rank of lieutenant-colonel, the charge shall, within such time as may be prescribed, be brought before a senior disciplinary officer who is at least 2 ranks above him.
 
-(2) If the accused is a warrant officer, the charge shall, within such time as may be prescribed, be brought before a senior disciplinary officer.
+(2) If the accused is a senior warrant officer or a warrant officer, the charge shall, within such time as may be prescribed, be brought before a senior disciplinary officer.
 
 [32/2010 wef 01/02/2011]
 
@@ -1220,7 +1286,7 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (a) if the accused is a serviceman, detention for a period not exceeding 40 days;
 
-(b) a fine not exceeding $100 or, if the accused is an officer, a fine not exceeding $300 ;
+(b) a fine not exceeding $300 or, if the accused is an officer, a fine not exceeding $1,000;
 
 [32/2010 wef 01/02/2011]
 
@@ -1230,7 +1296,7 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (2) Where a disciplinary officer is of the opinion that the accused should be reduced in rank in addition to or in lieu of any punishment which may be awarded by him he may refer the charge and the record of the proceedings to the Commissioner with a recommendation that the accused be reduced in rank and the Commissioner may, at his discretion, reduce the rank of the accused in addition to or in substitution for the punishment imposed by the disciplinary officer.
 
-(3) In addition to any of the punishments referred to in subsection (1), a disciplinary officer may order an officer or serviceman found guilty of any offence under this Act to pay compensation, not exceeding $100, to any person who suffered damage or loss occasioned by the commission of the service offence.
+(3) In addition to any of the punishments referred to in subsection (1), a disciplinary officer may order an officer or serviceman found guilty of any offence under this Act to pay compensation, not exceeding $300, to any person who suffered bodily injury, damage or loss occasioned by the commission of the service offence.
 
 [32/2010 wef 01/02/2011]
 
@@ -1278,7 +1344,7 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 ### Review of findings and awards
 
-81\.—(1) The Commissioner shall appoint an officer or officers (hereinafter referred to as the reviewing authority) to act for the purposes of this section in any particular case or any class of cases.
+81\.—(1) The Commissioner shall appoint one or more public officer (hereinafter referred to as the reviewing authority) to act for the purposes of this section in any particular case or any class of cases.
 
 [32/2010 wef 01/02/2011]
 
@@ -1298,13 +1364,7 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (9) The reviewing authority may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as it thinks fit.
 
-### Officers who are to act as junior and senior disciplinary officers
-
-82\. In this Part —
-
-“junior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a company or equivalent sub-unit or any other officer designated as a junior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence; and
-
-“senior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a division or any other officer designated as a senior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence.
+82\. [Repealed by Act 32/2010 wef 01/02/2011]
 
 ### Inapplicability of law of evidence
 
@@ -1318,7 +1378,9 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (a) if the fine does not exceed $100, detention for a period not exceeding 10 days;
 
-(b) if the fine exceeds $100 but does not exceed $200, detention for a period not exceeding 20 days; and
+(b) if the fine exceeds $100 but does not exceed $300, detention for a period not exceeding 30 days; and
+
+[32/2010 wef 01/02/2011]
 
 (c) in any other case, detention for a period not exceeding 40 days.
 
@@ -1358,15 +1420,9 @@ POWERS OF INVESTIGATION
 
 ### Powers of investigation of provost officer
 
-87\. In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation of a seizable offence.
-
-(1) In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation of a seizable offence.
-
-[15/2010 wef 02/01/2011]
+87\.—(1) In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation of a seizable offence.
 
 (2) For the purposes of subsection (1), when a provost officer is exercising the powers of a police officer under the Criminal Procedure Code 2010, the provost officer shall be deemed to be an officer not below the rank of inspector of police.
-
-[15/2010 wef 02/01/2011]
 
 ## PART IX
 
@@ -1400,7 +1456,7 @@ DEDUCTIONS FROM PAY OF A MEMBER
 
 (e) the sum which he is required to pay as contribution to the Government pursuant to an order made under section 92(3).
 
-(2) The total amount of deductions from the ordinary pay due to a member in respect of the sums referred to in subsection (1) shall not exceed such sums as will leave to him less than $2 a day.
+(2) The total amount of deductions from the ordinary pay due to a member in respect of the sums referred to in subsection (1) shall not exceed such sums as will leave to him less than $5 a day.
 
 [32/2010 wef 01/02/2011]
 
@@ -1440,7 +1496,7 @@ BOARD OF INQUIRY
 
 ### Board of inquiry
 
-92\.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the Government, discipline, administration or functions of the Force or affecting any person subject to this Act, the Minister or the person appointed by the Minister may convene a board of inquiry.
+92\.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the government, discipline, administration or functions of the Force or affecting any person subject to this Act, the Minister or the person appointed by the Minister may convene a board of inquiry.
 
 [32/2010 wef 01/02/2011]
 
@@ -1564,7 +1620,7 @@ CIVIL DEFENCE FORCE FUND
 
 ## PART XII
 
-CIVIL DEFENCE EMERGENCY
+STATE OF CIVIL DEFENCE EMERGENCY
 
 ### Declaration of state of civil defence emergency
 
@@ -1572,7 +1628,7 @@ CIVIL DEFENCE EMERGENCY
 
 (2) The Minister shall immediately give public notice by such means of communication as are available of every declaration of a state of civil defence emergency made under subsection (1) and the declaration shall be published in theGazetteas soon as possible.
 
-(3) A state of civil defence emergency for any part or district in Singapore shall terminate on the expiry of the seventh day from the time the civil defence emergency is in force.
+(3) A state of civil defence emergency for any part or district in Singapore shall terminate on the expiry of the seventh day from the time the state of civil defence emergency is in force.
 
 [32/2010 wef 01/02/2011]
 
@@ -1613,6 +1669,72 @@ TRAINING OF CIVILIAN POPULATION IN CIVIL DEFENCE
 (2) No act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall subject him to any personal liability.
 
 (3) For the purposes of subsection (1), “civil defence volunteer” means any person who has agreed to take part in civil defence measures or receives instruction in civil defence organised under the authority of the Commissioner.
+
+## PART XIIIA
+
+SERVICE OUTSIDE SINGAPORE
+
+[32/2010 wef 01/02/2011]
+
+### Minister may send members of Force outside Singapore
+
+105A\.—(1) Subject to subsections (3) and (7), the Minister may —
+
+(a) on a request in that behalf being made by, or with the consent of, a government of a territory outside Singapore;
+
+(b) on a request in that behalf being made by a United Nations agency; or
+
+(c) in connection with any agreement or arrangement with a government of a territory outside Singapore,
+
+order such number of members of the Force as to him seems expedient to proceed outside Singapore to carry out duties to respond to and deal with a civil defence emergency taking place in such territory.
+
+(2) In making an order under subsection (1), the Minister shall specify the purposes for which the members of the Force are to carry out duties outside Singapore or in any territory outside Singapore.
+
+(3) The Minister shall not make an order under subsection (1) unless he is satisfied that adequate provisions have been or will immediately be made in the territory outside Singapore for the proper carrying out of duties by members of the Force in that territory, which may include provisions —
+
+(a) that all members of the Force serving in that territory under the provisions of this Part shall remain under the orders of their own commanding officers; or
+
+(b) that all members of the Force serving in that territory under the provisions of this Part shall be conferred with the powers, duties and privileges of members of the equivalent civil defence force in that territory.
+
+(4) The Commissioner may issue directions of a routine nature for the deployment, command, control and information of members of the Force ordered under subsection (1) to proceed outside Singapore to carry out duties outside Singapore.
+
+(5) No direction under subsection (4) shall be inconsistent with subsection (3).
+
+(6) All members of the Force ordered under subsection (1) to proceed outside Singapore for service shall comply with every direction issued under subsection (4).
+
+(7) No auxiliary member shall be liable to serve or proceed on duty outside Singapore unless he first consents to such service.
+
+### Members of Force serving outside Singapore to remain subject to this Act
+
+105B\. Subject to section 105D, a member of the Force who is temporarily attached to the forces of another territory, or otherwise serving outside Singapore, pursuant to any order made under section 105A shall not cease to be subject to this Act by reason only of his being so temporarily attached, or being outside Singapore.
+
+### Jurisdiction during overseas service
+
+105C\.—(1) Section 105D shall apply to any act done or omitted to be done outside Singapore by any member of the Force while he is serving outside Singapore pursuant to any order made under section 105A.
+
+(2) For the purposes of this section, a person shall be deemed to be serving outside Singapore pursuant to an order made under section 105A from the time he leaves Singapore to undertake those duties until the time he returns to Singapore.
+
+### Offences and misconduct during overseas service
+
+105D\.—(1) If any member of the Force to whom this section applies does, or omits to do, any act outside Singapore (whether or not the act or omission concerned constitutes an offence under the laws in force in the territory where it took place) that if done or omitted to be done within Singapore would constitute an offence, that act or omission is deemed to have taken place within Singapore unless —
+
+(a) the person is subject to the criminal jurisdiction of the territory in which the act or omission took place; and
+
+(b) the authorities in that territory —
+
+(i) are not subject to any obligation to cede jurisdiction to the Singapore authorities in respect of that act or omission; and
+
+(ii) are bringing criminal proceedings against the member of the Force in that territory.
+
+(2) No information shall be laid against any member of the Force over whom jurisdiction is claimed by virtue of subsection (1) without the consent of the Attorney-General.
+
+(3) If any member of the Force is alleged to have committed an offence in respect of which the laying of information requires the consent of the Attorney-General under subsection (2), the member concerned may be arrested and detained in custody or remanded in custody or on bail, even though the consent of the Attorney-General has not been obtained to the making of such complaint in respect of that offence, but no further proceedings shall be taken until that consent is obtained.
+
+(4) If any member of the Force to whom this section applies does, or omits to do, any act outside Singapore, and that act or omission would, if it occurred in Singapore, be a disciplinary offence for the purposes of this Act —
+
+(a) the person may be investigated and, if appropriate, proceeded against under this Act by way of disciplinary proceedings under Part VII and punished, in the same manner as if the act or omission had occurred in Singapore; and
+
+(b) for that purpose, this Act and the Civil Defence (Arrests, Searches, Investigation and Trial of Offences) Regulations (Rg 2) shall apply to him with any necessary modifications.
 
 ## PART XIV
 
@@ -1720,8 +1842,6 @@ at the rates prescribed by the regulations and paid out of the Pension Fund esta
 
 (h) the establishment and administration of any association for the welfare of members and the control of the funds of any such association and the collection from members thereof of subscriptions thereto;
 
-(i) the control of public lighting during civil defence drills;
-
 (j) the reimbursement for or payment to members;
 
 (k) the payment of compensation in respect of death and physical injury suffered by any member of the Force or by a member of the public in the course of being trained in civil defence measures or taking part in civil defence measures or drills;
@@ -1732,15 +1852,13 @@ at the rates prescribed by the regulations and paid out of the Pension Fund esta
 
 (n) the convening of boards of inquiry;
 
-(o) the instruction of members of the public in civil defence and to equip them for the purposes of civil defence;
+(o) the instruction of members of the public in civil defence and, if necessary, to equip them for the purposes of civil defence;
 
 [32/2010 wef 01/02/2011]
 
-(p) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence;
+(p) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence.
 
 [32/2010 wef 01/02/2011]
-
-(q) the imposition of controls or prohibitions on lighting in any area or place for the purposes of civil defence.
 
 ## LEGISLATIVE HISTORY
 
@@ -1785,6 +1903,12 @@ This Legislative History is provided for the convenience of users of the Civil D
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|8.|**Act 32 of 2010—Civil Defence (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 October 2010|
+|||(Bill No. 27/2010 published on 18 October 2010)|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|1 February 2011|
 ## COMPARATIVE TABLE
 
 Civil Defence Act
