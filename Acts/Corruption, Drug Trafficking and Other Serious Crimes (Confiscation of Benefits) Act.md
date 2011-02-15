@@ -174,7 +174,7 @@
 
 - [64 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Part i — Offences included as drug trafficking offences with effect from 30th November 1993**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Drug trafficking offences**](#FIRST-SCHEDULE-Drug-trafficking-offences)
 
 [**SECOND SCHEDULE Serious Offences**](#SECOND-SCHEDULE-Serious-Offences)
 
@@ -328,13 +328,15 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 
 “interest”, in relation to property, includes any right;
 
-“making a gift” is to be construed in accordance with section 16(9);
+“making a gift” is to be construed in accordance with section 12(9);
 
 “material” includes any book, document or other record in any form, and any container or article relating thereto;
 
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
 
 “officer of customs” has the same meaning as in the Customs Act (Cap. 70);
+
+[4/2003 wef 01/04/2003]
 
 “officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
 
@@ -371,6 +373,8 @@ but excludes a money-changer licensed to conduct money-changing business and a r
 (a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this Act; and
 
 (b) who has his appointment as a Suspicious Transaction Reporting Officer published in theGazette;
+
+[44/2007 wef 01/11/2007]
 
 “value of gift” is to be construed in accordance with section 12;
 
@@ -1708,7 +1712,11 @@ to a corresponding authority of a foreign country if —
 
 “corresponding authority”, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 39(1);
 
+[39A
+
 [44/2007 wef 01/11/2007]
+
+[12/2000]
 
 Division 4 —
 
@@ -1834,9 +1842,9 @@ and knowing or having reasonable grounds to believe that that other person is a 
 
 (b) if the person is not an individual, to a fine not exceeding $1 million.
 
-[44/2007 wef 01/11/2007]
-
 [41
+
+[44/2007 wef 01/11/2007]
 
 [25/99]
 
@@ -2104,7 +2112,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) knows or has reasonable grounds to suspect that a disclosure has been or is being made to an authorised officer under this Act (referred to in this section as the disclosure); and
 
-[44/2007 wef 01/11/2007]
+[4/2010]
 
 (b) discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure,
 
@@ -2374,7 +2382,7 @@ for the purpose of ascertaining whether there is on board the motor vehicle, tra
 
 [44/2007 wef 01/11/2007]
 
-(8) Where an authorised officer or immigration officer has reasonable grounds to suspect that an offence under section 48C may have been committed, the officer may, with such assistance as is reasonable and necessary —
+(8) Where an authorised officer or immigration officer has reasonable grounds to suspect that an offence under section 48Cmay have been committed, the officer may, with such assistance as is reasonable and necessary —
 
 (a) enter any eligible place; and
 
@@ -2570,7 +2578,7 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 (1A) An immigration officer within the meaning of section 48B may arrest without warrant any person whom he reasonably believes has committed an offence under section 48C.
 
-[4/2003 wef 01/04/2003]
+[44/2007]
 
 (2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
 
@@ -2616,7 +2624,11 @@ giving the substance and effect of the charge and of the conviction or acquittal
 
 the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
+[44/2007 wef 01/11/2007]
+
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+[44/2007 wef 01/11/2007]
 
 (3) Where an offence under this Act committed by a partnership is proved —
 
@@ -2625,6 +2637,8 @@ the officer as well as the body corporate shall be guilty of the offence and sha
 (b) to be attributable to any neglect on his part,
 
 the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[44/2007 wef 01/11/2007]
 
 (4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
 
@@ -2676,9 +2690,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 62\. Rules of Court may provide for the manner in which proceedings under this Act may be commenced or carried on.
 
-[60
-
 [25/99]
+
+[60
 
 ### Amendment of Schedules
 
@@ -2698,62 +2712,65 @@ FIRST SCHEDULE
 
 Section 2
 
-Part i — Offences included as drug trafficking offences
+Drug trafficking offences
 
+Part I
 
+—
 
-
-with effect from 30th November 1993
-
-DRUG TRAFFICKING OFFENCES
+Offences included as drug trafficking offences with effect from 30th November 1993
 
 Offences
 
-\*Description
+Description: The short description of offences in this Schedule is for ease of reference only.\*
 
-\*
+1.
 
-Note
-
-: The short description of offences in this Schedule is for ease of reference only.
-
-1. Section 5 of the Misuse of Drugs Act (Cap. 185)
+Section 5 of the Misuse of Drugs Act (Cap. 185)
 
 Trafficking in a controlled drug.
 
-2. Section 6 of the Misuse of Drugs Act
+2.
+
+Section 6 of the Misuse of Drugs Act
 
 Manufacture of a controlled drug.
 
-3. Section 7 of the Misuse of Drugs Act
+3.
+
+Section 7 of the Misuse of Drugs Act
 
 Importation and exportation of a controlled drug.
 
-4. Section 10 of the Misuse of Drugs Act
+4.
+
+Section 10 of the Misuse of Drugs Act
 
 Cultivation of cannabis, opium and coca plants.
 
-5. Sections 43 and 46 of this Act
+5.
+
+Sections 43 and 46 of this Act
 
 Money laundering.
 
-Part ii — Offence included as drug trafficking offence with effect from 1st November 2007
+Part II
 
-Offence
+—
 
-Description: The short description of offences in this Schedule is for ease of reference only.
+Offence included as drug trafficking offence with effect from 1st November 2007
 
-\*
+Offences
 
-\*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
 
-Note
+6.
 
-6. Section 10A of the Misuse of Drugs Act
+Section 10A of the Misuse of Drugs Act
 
 Manufacture, supply, possession, import or export of equipment, materials or substances useful for manufacture of controlled drugs.
 
-[25/99]
+[S 597/2007 wef 01/11/2007]
 
 SECOND SCHEDULE
 
@@ -2761,11 +2778,13 @@ Section 2
 
 Serious Offences
 
-Part I — Offences included as serious offences with effect from 13th September 1999
+Part i — Offences included as serious offences with effect from 13th September 1999
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 1. Section 44 of this Act
 
@@ -3517,13 +3536,15 @@ Importation of woman or girl by false pretences
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
-Part II — Offences included as serious offences with effect from 9th September 2005
+Part ii — Offences included as serious offences with effect from 9th September 2005
 
 [S 579/2005 wef 09/09/2005]
 
 Offences
 
-Description*
+\*Description
+
+\*Note: The short description of offences in this Schedule is for ease of reference only.
 
 Moneylenders Act 2008 
 
@@ -3539,13 +3560,15 @@ Harassing borrower, besetting his residence, etc.
 
 [25/99]
 
-Part III — Offences included as serious offences with effect from 8th May 2006
+Part iii — Offences included as serious offences with effect from 8th May 2006
 
 [S 254/2006 wef 08/05/2006]
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Animals and Birds Act (Cap\. 7) 
 
@@ -3849,11 +3872,11 @@ Membership of quasi-military organisations
 
 Illegal drilling
 
-246.Deleted by S 28/2010, wef 22/01/2010.
-
-247. Deleted by S 28/2010, wef 22/01/2010.
-
 Monetary Authority of Singapore Act (Cap\. 186) 
+
+246.Deleted by S 28/2010, wef 22/01/2010
+
+247.Deleted by S 28/2010, wef 22/01/2010
 
 248. Section 27A(5) for contravention of any of the following regulations of the Monetary Authority of Singapore (Anti-Terrorism Measures) Regulations 2002 (G.N. No. S 515/2002):
 
@@ -3939,11 +3962,11 @@ Fraudulent cancellation, destruction, etc., of a will
 
 Falsification of accounts
 
-265. Deleted by S 28/2010, wef 22/01/2010.
-
 Sale of Food Act (Cap\. 283) 
 
 Food Regulations (Rg 1) 
+
+265.Deleted by S 28/2010, wef 22/01/2010
 
 266. Regulation 14
 
@@ -4151,11 +4174,9 @@ Keeping or management of places of assignation
 
 Keeping or management of brothels
 
-*Note: The short description of offences in this Schedule is for ease of reference only.
-
 [26/2007 wef 01/01/2008]
 
-Part IV — Offences included as serious offences
+Part iv — Offences included as serious offences
 
 
 
@@ -4184,7 +4205,7 @@ Note:
 
 The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15th November 2000.
 
-Part V — Offences included as serious offences
+Part v — Offences included as serious offences
 
 
 
@@ -4193,7 +4214,9 @@ with effect from 1st November 2007
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Biological Agents and Toxins Act (Cap\. 24A) 
 
@@ -4369,13 +4392,13 @@ Failure to disclose information about acts of terrorism financing
 
 Contravention of order for restraint of property
 
-*Note: The short description of offences is for ease of reference only.
-
-Part VI — Offences included as serious offences with effect from 1st February 2008
+Part vi — Offences included as serious offences with effect from 1st February 2008
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Passports Act (Act 33 of 2007) 
 
@@ -4481,7 +4504,7 @@ Making or possessing equipment for making a false instrument
 
 Making or possessing equipment for making a false instrument with intent to induce prejudice
 
-Part VII — Offences included as serious offences
+Part vii — Offences included as serious offences
 
 
 
@@ -4490,7 +4513,9 @@ with effect from 20th February 2008
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Terrorism (Suppression of Bombings) Act 2007 (Act 50 of 2007) 
 
@@ -4502,7 +4527,7 @@ Terrorist bombing
 
 Failure to disclose information about acts of terrorist bombing
 
-Part VIII — Offences included as serious offences
+Part viii — Offences included as serious offences
 
 
 
@@ -4511,7 +4536,9 @@ with effect from 1st May 2009
 
 Offences
 
-Description*
+Description: The short description of offences in this Schedule is for ease of reference only.\*
+
+\*Note
 
 Casino Control Act (Cap\. 33A) 
 
@@ -4531,9 +4558,7 @@ Possession of chips outside designated site
 
 Forgery
 
-*Note: The short description of offences is for ease of reference only.
-
-Part IX — Offences included as serious offences with effect from 22nd January 2010
+Part ix — Offences included as serious offences with effect from 22nd January 2010
 
 Offences
 
@@ -4567,9 +4592,7 @@ Radiation Protection Act (Cap\. 262)
 
 Transport of radioactive waste.
 
-*Note: The short description of offences is for ease of reference only.
-
-Part X — Offences included as serious offences
+Part x — Offences included as serious offences
 
 
 
@@ -4586,7 +4609,36 @@ Hostage-Taking Act 2010 (Act 19 of 2010 )
 
 Hostage-taking
 
-*Note: The short description of offences is for ease of reference only.
+Part xi — Offences included as serious offences
+
+
+
+
+with effect from 15th February 2011
+
+[S 59/2011 wef 15/02/2011]
+
+Employment of Foreign Manpower Act (Cap\. 91A) 
+
+367. Section 5(1) and (3)
+
+Employment of foreign employee without a valid work pass, or in contravention of a condition of his work pass
+
+368. Section 22(1)(a), (d), (e) and (f)
+
+Contravention of a condition of a work pass, making false statement or giving false information to the Controller of Work Passes or an employment inspector, dealing in, forging or unlawfully altering a work pass, or using or having in possession a forged or unlawfully altered work pass or a work pass issued to another
+
+Hostage-Taking Act 2010(Act 19 of 2010) 
+
+369. Section 5
+
+Failure to disclose information relating to hostage-taking offence
+
+Immigration Act(Cap\. 133) 
+
+370. Section 57(1)(d)
+
+Harbouring offenders of Immigration Act or Regulations
 
 ## LEGISLATIVE HISTORY
 
@@ -4723,6 +4775,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|30.|**G. N. No. S 59/2011—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2011**|
+||Date of commencement|15 February 2011|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
