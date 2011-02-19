@@ -46,6 +46,8 @@
 
 - [12 Counterparts](#Counterparts)
 
+- [12A Instrument exempt from duty if its original is stamped, etc.](#Instrument-exempt-from-duty-if-its-original-is-stamped-etc)
+
 [**Valuation for duty**](#Valuation-for-duty)
 
 - [13 Currency and securities](#Currency-and-securities)
@@ -608,13 +610,21 @@ a
 
 ### Counterparts
 
-12\. The duplicate or counterpart of an instrument chargeable with duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) shall not be deemed duly stamped unless —
+12\.—(1) The duplicate or counterpart of an instrument chargeable with duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) shall not be deemed duly stamped unless —
 
 (a) it is stamped as an original instrument; or
 
-(b) it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
+(b) [Deleted by Act 23/2011 wef 19/02/2011]
 
-[4/81; 33/99]
+(2) Without prejudice to subsection (1), the duplicate or counterpart of an instrument executed before 19th February 2011 and chargeable with duty shall be deemed duly stamped if it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
+
+[23/2011 wef 19/02/2011]
+
+### Instrument exempt from duty if its original is stamped, etc.
+
+12A\. An instrument (whether it is the original or a duplicate or counterpart of an instrument) executed on or after 19th February 2011 shall be exempt from duty if the original or a duplicate or counterpart (as the case may be) of that instrument has been duly stamped.
+
+[23/2011 wef 19/02/2011]
 
 Valuation for duty
 
@@ -656,6 +666,10 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [23/2011 wef 01/04/2010]
 
+(1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19thFebruary 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
+
+[23/2011 wef 19/02/2011]
+
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
 (a) it is stamped with the duty to which it would but for this section be liable; or
@@ -668,7 +682,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 (a) any declaration or other evidence furnished in support of the claim was untrue in any material particular; or
 
-(b) any prescribed matter which the Commissioner was satisfied would not occur in allowing the relief, does occur,
+(b) any prescribed matter has occurred,
 
 the claim shall be deemed to have been disallowed and an amount equal to the duty remitted shall —
 
@@ -724,6 +738,10 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [36/2008 wef 15/02/2007]
 
+“private company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+[23/2011 wef 19/02/2011]
+
 “registered business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
 “statutory body” means any body corporate established by any written law.
@@ -754,7 +772,7 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (a) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning more than 50% of the total number of ordinary shares in the target company where, before the date of the acquisition, the acquiring company or the acquiring subsidiary, as the case may be, owns 50% or less of the total number of ordinary shares in the target company;
 
-(b) [Deleted by Act23/2011 wef 01/04/2010];
+(b) [Deleted by Act 23/2011 wef 01/04/2010];
 
 (c) an acquisition that results in the acquiring company or the acquiring subsidiary, as the case may be, owning 75% or more of the total number of ordinary shares in the target company where —
 
@@ -778,9 +796,9 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [23/2011 wef 01/04/2010]
 
-(5) [Deleted by Act23/2011 wef 01/04/2010]
+(5) [Deleted by Act 23/2011 wef 01/04/2010]
 
-(6) [Deleted by Act23/2011 wef 01/04/2010]
+(6) [Deleted by Act 23/2011 wef 01/04/2010]
 
 (7) Subject to subsection (8) and the rules made under subsection (18), the maximum amount of relief from duty to be allowed under subsection (1) with respect to the qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries, as the case may be, in a financial year of the acquiring company shall be $200,000; and for this purpose, where subsection (4)(b) or (c) applies, the qualifying acquisitions shall be deemed to have occurred in the financial year of the acquiring company in which the qualifying acquisition referred to in subsection (3)(a) or (c), as the case may be, occurs.
 
@@ -1014,7 +1032,7 @@ the conveyance is to be charged in respect of that consideration with ad valorem
 
 (3) Where the consideration, or any part of the consideration, for a conveyance on sale consists of money payable periodically during any life or lives, the conveyance shall be charged in respect of that consideration with ad valorem duty on the amount which will or may, according to the terms of sale, be payable during the period of 12 years next after the day of the date of the instrument.
 
-(4) No conveyance on sale chargeable with ad valorem duty in respect of any periodical payments, and containing also provision for securing the payments, shall be charged with any duty in respect of such provision, and no separate instrument made in that case for securing the payments is to be charged with any higher duty than $10.
+(4) [Deleted by Act 23/2011 wef 19/02/2011]
 
 Direction as to duty in cases of certain conveyances
 
@@ -1072,9 +1090,11 @@ shall be charged with the same ad valorem duty, payable by the purchaser, as if 
 
 [26/96]
 
-(3) Where any purchaser or sub-purchaser has paid ad valorem duty upon any assignment, contract or agreement in accordance with subsection (1) or (2), the conveyance or transfer made to the purchaser or sub-purchaser, as the case may be, shall be chargeable with a duty of $10.
+(3) Where any purchaser or sub-purchaser has paid ad valorem duty upon any assignment, contract or agreement in accordance with subsection (1) or (2), the conveyance or transfer made to the purchaser or sub-purchaser, as the case may be, shall, if executed on or after 19th February 2011, be exempt from duty.
 
 [26/96]
+
+[23/2011 wef 19/02/2011]
 
 (4) Where a person, having contracted jointly or otherwise for the purchase of any property but not having obtained a conveyance thereof, directs the vendor of the property in writing to convey or transfer the property or any share therein —
 
@@ -1086,9 +1106,11 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 [26/96]
 
-(5) Where more than one contract or agreement for sale is executed by a purchaser in respect of the same sale of the same property, only one such contract or agreement for sale of the property shall be chargeable with ad valorem duty under this section and any other contract or agreement for the same sale of the same property shall be chargeable with a duty of $10.
+(5) Where more than one contract or agreement for sale is executed by a purchaser in respect of the same sale of the same property, only one such contract or agreement for sale of the property shall be chargeable with ad valorem duty under this section and any other contract or agreement for the same sale of the same property shall be chargeable with a duty of shall, if executed on or after 19th February 2011, be exempt from duty.
 
 [26/96]
+
+[23/2011 wef 19/02/2011]
 
 (6) Subject to subsection (7), the ad valorem duty paid under this section upon any contract or agreement for the sale of property shall, on application, be refunded by the Commissioner where the contract or agreement is later rescinded or annulled on the ground that —
 
@@ -1388,11 +1410,13 @@ Settlement of policy of life insurance
 
 [4/81; 26/96]
 
-(2) Every instrument under hand only making redeemable or qualifying a duly stamped transfer, intended as a security, of any registered stock or marketable security, shall be exempt from duty.
+(2) Every instrument under hand only making redeemable or qualifying a transfer, intended as a security, of any registered stock or marketable security, shall be exempt from duty, and the transfer, if executed on or after 19th February 2011, shall also be exempt from duty.
 
 [26/96]
 
-(3) The transfer referred to in subsection (2) is duly stamped for the purpose of this section if stamped with the duty of $10.
+[23/2011 wef 19/02/2011]
+
+(3) [Deleted by Act 23/2011 wef 19/02/2011]
 
 ### Conversion of firm and private company to limited liability partnership
 
@@ -2652,9 +2676,7 @@ See SETTLEMENT
 
 (f)
 
-of any property or any interest thereof for the purpose of effectuating the appointment of a new trustee or the retirement of a trustee although no new trustee is appointed
-
-$10 or the same duty as paragraph (a) or (c), as the case may be, whichever is the lesser
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (g) of any property as above where the transaction is between trustees and where —
 
@@ -2666,9 +2688,7 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 (ii)
 
-the beneficial interest in the property does not pass
-
-$10 or the same duty as in paragraph (a) or (c), as the case may be, whichever is the lesser
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (h)
 
@@ -2676,11 +2696,13 @@ of any property or any interest thereof which is distributed in specie to a shar
 
 The same duty as in paragraph (a) or (c), as the case may be
 
+Exemption:
+
+In a case where the conveyance, assignment or transfer is effected by more than one instrument and one instrument has been duly stamped, each other instrument.
+
 (i)
 
-of any property or any interest thereof not otherwise specially charged with duty
-
-$10
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 For the purposes of this Article, “property” means any immovable property and stock or shares
 
@@ -2692,13 +2714,7 @@ $10
 
 5
 
-DUPLICATE or COUNTERPART of any instrument chargeable with duty, and in respect of which the proper duty has been paid
-
-$2 or the same duty payable on the original, whichever is the lesser
-
-Exemption:
-
-The duplicate or counterpart of any instrument which has been exempted from duty or in respect of which duty has been remitted
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 6
 
@@ -2750,19 +2766,21 @@ The same duty as for a conveyance on sale in consideration of the premium and a 
 
 (d)
 
-lease executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
-
-$2
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (e)
 
-lease of any other kind whatsoever not otherwise specially charged with duty
-
-$10
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 Exemption:
 
+1.
+
 Any lease or agreement for a lease referred to in paragraph (a) or (c) executed on or after 1st April 2003 where the average rent and other consideration calculated for a whole year does not exceed $1,000.
+
+2.
+
+Any lease or agreement for a lease executed on or after 19th February 2011 in pursuance of a duly stamped agreement, or another duly stamped agreement, for the same.
 
 9
 
@@ -2798,29 +2816,29 @@ The same duty as in paragraph (a) for such further money
 
 (d)
 
-mortgage executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
-
-$2
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 (e)
 
-any security executed in conjunction with the security which is duly stamped under paragraph (a)
-
-$10
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 Exemption:
+
+1.
 
 Any mortgage of stock or shares under hand only.
 
+2.
+
+Any mortgage executed on or after 19th February 2011 in pursuance of a duly stamped agreement for the same.
+
+3.
+
+Any security executed on or after 19th February 2011 in conjunction with the security which is duly stamped under paragraph (a).
+
 10
 
-PARTITION of immovable property — for each instrument
-
-$10
-
-Exemption:
-
-Where duty has been paid under any order of court or award directing a partition, no further duty shall be payable in respect of any instrument carrying such partition into effect.
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 11
 
@@ -2834,9 +2852,11 @@ The same duty as for conveyance, assignment or transfer
 
 (b)
 
-Settlement executed in pursuance of a duly stamped agreement for the same on production of the agreement to the Commissioner
+[Deleted by Act 23/2011 wef 19/02/2011]
 
-$2 or the same duty payable on the agreement, whichever is the lesser
+Exemption:
+
+Any settlement executed on or after 19th February 2011 in pursuance of a duly stamped agreement for the same.
 
 12
 
@@ -2850,9 +2870,7 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 (b)
 
-in any other case
-
-$10
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 [S 474/2010 wef 30/08/2010]
 
@@ -2906,13 +2924,11 @@ The lessee
 
 (b)
 
-Duplicate or Counterpart
-
-The lessor
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 2.
 
-CONVEYANCE — Article No. 3(a) to (i)
+CONVEYANCE — Article No. 3(a) to (h)
 
 (a)
 
@@ -2944,9 +2960,7 @@ The lessee
 
 (b)
 
-Counterpart or Duplicate
-
-The lessor
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 5.
 
@@ -2956,9 +2970,7 @@ The mortgagor or obligor
 
 6.
 
-PARTITION — Article No. 10
-
-The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
+[Deleted by Act 23/2011 wef 19/02/2011]
 
 [S 474/2010 wef 30/08/2010]
 
@@ -3405,6 +3417,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|2 January 2011|
 |54.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
 ||Date of commencement|14 January 2011|
+|55.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
+||Date of First Reading|17 October 2011|
+|||(Bill No. 15/2011 published on 18 October 2011)|
+||Date of Second and Third Readings|22 October 2011|
+||Date of commencement|19 February 2011|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
