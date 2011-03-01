@@ -134,15 +134,15 @@ PRELIMINARY
 
 4\.—(1) The Director shall prepare and maintain panels of solicitors willing —
 
-(a) to investigate, report and give an opinion upon applications for the grant of legal aid ;
+(a) to investigate, report and give an opinion upon applications for the grant of legal aid under this Act or Part IV of the International Child Abduction Act 2010;
 
 [27/2010 wef 01/03/2011]
 
-(b) to act for persons receiving legal aid ; and
+(b) to act for persons receiving legal aid under this Act or Part IV of the International Child Abduction Act 2010; and
 
 [27/2010 wef 01/03/2011]
 
-(c) to give legal advice under the provisions of this Act ,
+(c) to give legal advice under the provisions of this Act or Part IV of the International Child Abduction Act 2010,
 
 [27/2010 wef 01/03/2011]
 
@@ -154,7 +154,7 @@ and there may be separate panels for different purposes and for different courts
 
 (4) Subject to section 15(2), any solicitor may at any time request the Director to remove his name from the panels or any of them and the Director shall comply with such request.
 
-(5) Subject to any regulations made under this Act, the Director shall pay to a solicitor investigating and reporting, or giving an opinion, upon applications for the grant of legal aid or acting for persons receiving legal aid or giving legal advice under the provisions of this Actsuch fees as may be agreed between the Director and the solicitor.
+(5) Subject to any regulations made under this Act, the Director shall pay to a solicitor investigating and reporting, or giving an opinion, upon applications for the grant of legal aid or acting for persons receiving legal aid or giving legal advice under the provisions of this Act or Part IV of the International Child Abduction Act 2010 such fees as may be agreed between the Director and the solicitor.
 
 [27/2010 wef 01/03/2011]
 
@@ -448,6 +448,10 @@ SUPPLEMENTARY
 
 (3) The regulations may apply generally to all legal matters, whether relating to proceedings in court or otherwise, or may apply to any specified class of matters or proceedings or to all matters or proceedings other than matters or proceedings of a specified class.
 
+(3A) Any fund established under this Act to meet the costs, fees, disbursements or expenses in connection with legal aid or advice under this Act may be applied for the purposes of legal aid or advice under the International Child Abduction Act 2010.
+
+[27/2010 wef 01/03/2011]
+
 (4) The regulations may impose a penalty not exceeding $2,000 for any breach of the regulations.
 
 (5) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
@@ -590,8 +594,6 @@ Requirements Relating to Means of An Applicant for Legal Aid
 
 (ii) $2,000, in any other case.
 
-[S 310/2007 wef 01/07/2007]
-
 7.—(1) Notwithstanding paragraphs 1 and 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
 
 (a) an applicant for legal aid has suffered a sudden loss of income and requires legal aid to defend or take legal proceedings as a matter of urgency; and
@@ -611,8 +613,6 @@ Requirements Relating to Means of An Applicant for Legal Aid
 (iii) an amount not exceeding $500 for rent; and
 
 (iv) an amount equal to the applicant’s contribution to the Central Provident Fund.
-
-[S 310/2007 wef 01/07/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -645,3 +645,9 @@ This Legislative History is provided for the convenience of users of the Legal A
 ||Date of commencement|1 January 2006 (item (12) of the Fifth Schedule — amendment of Legal Aid and Advice Act)|
 |6.|**G.N. No. S 310/2007—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2007**|
 ||Date of commencement|1 July 2007|
+|7.|**Act 27 of 2010—International Child Abduction Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 22/2010 published on 17 August 2010)|
+||Date of Second and Third Readings|16 September 2010|
+||Date of commencement|1 March 2011|
