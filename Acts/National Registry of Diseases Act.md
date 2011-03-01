@@ -518,13 +518,13 @@ Reportable Diseases
 
 1\. Cancer (includingin-situneoplasms, neoplasms with borderline or uncertain malignant potential, as well as all tumours (malignant, borderline,in-situand benign) of the brain and other parts of the central nervous system (including the pituitary gland, craniopharyngeal duct and pineal gland)).
 
-2. Single Kidney - Post Nephrectomy (Donor).
+2\. Single Kidney - Post Nephrectomy (Donor).
 
-[S 529/2009 wef 01/11/2009]
+3\. Liver - Post Hepatic Resection (Donor).
 
-3. Liver - Post Hepatic Resection (Donor).
+4. Chronic kidney failure, as defined in the National Registry of Diseases (Chronic Kidney Failure Notification) Regulations 2011 (G.N. No. S 98/2011).
 
-[S 529/2009 wef 01/11/2009]
+[S 99/2011 wef 01/03/2011]
 
 ## LEGISLATIVE HISTORY
 
@@ -553,3 +553,5 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 August 2009|
 |5.|**G. N. No. S 529/2009—National Registry of Diseases Act (Amendment of Schedule) (No. 2) Order 2009**|
 ||Date of commencement|1 November 2009|
+|6.|**G. N. No. S 99/2011—National Registry of Diseases Act (Amendment of Schedule) Order 2011**|
+||Date of commencement|1 March 2011|
