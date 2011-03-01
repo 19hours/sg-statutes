@@ -34,11 +34,11 @@
 
 - [8 General power of Commissioner to institute inquiries](#General-power-of-Commissioner-to-institute-inquiries)
 
-- [9 Power of Commissioner to call for documents and search records](#Power-of-Commissioner-to-call-for-documents-and-search-records)
+- [9 (Repealed)](#Repealed)
 
-- [10 Supply of false or misleading information to Commissioner, etc.](#Supply-of-false-or-misleading-information-to-Commissioner-etc)
+- [10 (Repealed)](#Repealed)
 
-- [11 Disclosure of information to and by Commissioner](#Disclosure-of-information-to-and-by-Commissioner)
+- [11 (Repealed)](#Repealed)
 
 [**Part IV CHARITY ACCOUNTS, REPORTS AND RETURNS**](#Part-IV)
 
@@ -48,7 +48,7 @@
 
 - [14 Annual audit or examination of charity accounts](#Annual-audit-or-examination-of-charity-accounts)
 
-- [15 Supplementary provisions relating to audits, etc.](#Supplementary-provisions-relating-to-audits-etc)
+- [15 (Repealed)](#Repealed)
 
 - [16 Annual reports](#Annual-reports)
 
@@ -62,7 +62,7 @@
 
 - [20 Power to spend capital](#Power-to-spend-capital)
 
-[**Part VI APPLICATION OF PROPERTY CY-PRèS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER**](#Part-VI)
+[**Part VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER**](#Part-VI)
 
 - [21 Occasions for applying property cy-près](#Occasions-for-applying-property-cy-près)
 
@@ -82,9 +82,9 @@
 
 - [26B Power to direct application of charity property after charity ceases to exist](#Power-to-direct-application-of-charity-property-after-charity-ceases-to-exist)
 
-- [27 Persons disqualified for being trustees of a charity](#Persons-disqualified-for-being-trustees-of-a-charity)
+- [27 Persons disqualified from being governing board members, etc., of a charity](#Persons-disqualified-from-being-governing-board-members-etc-of-a-charity)
 
-- [28 Persons acting as charity trustee while disqualified](#Persons-acting-as-charity-trustee-while-disqualified)
+- [28 Persons acting as governing board member, etc., while disqualified](#Persons-acting-as-governing-board-member-etc-while-disqualified)
 
 - [29 Publicity for proceedings under this Part](#Publicity-for-proceedings-under-this-Part)
 
@@ -94,19 +94,11 @@
 
 - [32 Charitable companies](#Charitable-companies)
 
-[**Part VII CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS**](#Part-VII)
+- [32A Power to relieve governing board members, etc., from personal liability](#Power-to-relieve-governing-board-members-etc-from-personal-liability)
 
-- [33 Interpretation of this Part](#Interpretation-of-this-Part)
+[**Part VII**](#Part-VII)
 
-- [34 Prohibition on professional fund-raiser, etc., raising funds for charitable institution without agreement in prescribed form](#Prohibition-on-professional-fund-raiser-etc-raising-funds-for-charitable-institution-without-agreement-in-prescribed-form)
-
-- [35 Professional fund-raisers, etc., required to indicate institutions benefiting and arrangements for remuneration](#Professional-fund-raisers-etc-required-to-indicate-institutions-benefiting-and-arrangements-for-remuneration)
-
-- [36 Cancellation of payments and agreements made in response to appeals](#Cancellation-of-payments-and-agreements-made-in-response-to-appeals)
-
-- [37 Right of charitable institution to prevent unauthorised fund-raising](#Right-of-charitable-institution-to-prevent-unauthorised-fund-raising)
-
-- [38 False statements relating to institutions which are not registered charities](#False-statements-relating-to-institutions-which-are-not-registered-charities)
+[**[Repealed by Act 34/2010 wef 01/03/2011]**](#[Repealed-by-Act-34/2010-wef-01/03/2011])
 
 [**Part VIII FUND-RAISING APPEALS**](#Part-VIII)
 
@@ -115,6 +107,8 @@
 - [39A Prohibition on conducting fund-raising appeal without permit](#Prohibition-on-conducting-fund-raising-appeal-without-permit)
 
 - [39B Power of Commissioner to prohibit or restrict fund-raising appeal](#Power-of-Commissioner-to-prohibit-or-restrict-fund-raising-appeal)
+
+- [39C Regulations relating to fund-raising appeals](#Regulations-relating-to-fund-raising-appeals)
 
 - [40 Exclusion of judicial review](#Exclusion-of-judicial-review)
 
@@ -130,9 +124,17 @@
 
 - [41 Manner of giving notice of charity meetings, etc.](#Manner-of-giving-notice-of-charity-meetings-etc)
 
+- [41A Power of Commissioner to call for documents and search records](#Power-of-Commissioner-to-call-for-documents-and-search-records)
+
+- [41B Supply of false or misleading information to Commissioner, etc.](#Supply-of-false-or-misleading-information-to-Commissioner-etc)
+
+- [41C Disclosure of information to and by Commissioner](#Disclosure-of-information-to-and-by-Commissioner)
+
 - [42 Miscellaneous provisions as to orders of Commissioner](#Miscellaneous-provisions-as-to-orders-of-Commissioner)
 
 - [43 Service of documents](#Service-of-documents)
+
+- [43A Holding out as registered charity or institution of a public character](#Holding-out-as-registered-charity-or-institution-of-a-public-character)
 
 - [44 Offences by bodies corporate](#Offences-by-bodies-corporate)
 
@@ -170,7 +172,7 @@ An Act to make provision for the registration of charities, the administration o
 
 [10/2007]
 
-[1st March 2011: Part VII repealed by Act 34/2010 wef 1st March 2011 1st January 1995]
+[1st January 1995]
 
 ## PART I
 
@@ -192,7 +194,7 @@ PRELIMINARY
 
 “charity” means any institution, corporate or not, which is established for charitable purposes and is subject to the control of the High Court in exercise of the Court’s jurisdiction with respect to charities;
 
-“charity trustees” means the persons having the general control and management of the administration of a charity;
+[Deleted by Act 34 of 2010 wef 01/03/2011]
 
 “Commissioner” means the Commissioner of Charities appointed under section 3;
 
@@ -212,7 +214,15 @@ PRELIMINARY
 
 (a) in relation to a charity which is a company, shall be construed in accordance with the Companies Act (Cap. 50); and
 
-(b) in relation to any other charity, shall be construed in accordance with regulations made under section 13(2);
+(b) in relation to any other charity, shall be construed in accordance with regulations made under section 13(1);
+
+[34/2010 wef 01/03/2011]
+
+“governing board members” means members of the governing body of a charity or trustees for a charity having the general control and management of the administration of the charity;
+
+[34/2010 wef 01/03/2011]
+
+“governing instruments”, in relation to a charity, means the provisions establishing it as a charity and regulating its purposes and administration, whether or not those provisions take effect by way of trust or are set out in any document, and in relation to other institutions has a corresponding meaning;
 
 [34/2010 wef 01/03/2011]
 
@@ -220,9 +230,17 @@ PRELIMINARY
 
 “institution” includes any trust or undertaking;
 
-“trusts”, in relation to a charity, means the provisions establishing it as a charity and regulating its purposes and administration, whether those provisions take effect by way of trust or not, and in relation to other institutions has a corresponding meaning.
+“key officer” means an officer of a charity, whether or not an employee of the charity, having the general control and management of the administration of the charity, and includes any person, by whatever name called, who exercises such general control and management;
 
-[10/2007]
+[34/2010 wef 01/03/2011]
+
+“public accountant” means a person who is registered or deemed to be registered under the Accountants Act (Cap. 2) as a public accountant;
+
+[34/2010 wef 01/03/2011]
+
+“trustee” has the same meaning as in the Trustees Act (Cap. 337).
+
+[34/2010 wef 01/03/2011]
 
 (2) References in this Act to a charity whose income from all sources does not in aggregate amount to more than a specified amount shall be construed —
 
@@ -248,7 +266,7 @@ COMMISSIONER OF CHARITIES
 
 (b) a Deputy Commissioner and such Assistant Commissioners of Charities or such other officers as he may think necessary to assist the Commissioner in the proper discharge of his functions.
 
-(2) The Deputy Commissioner of Charities shall have and may exercise all the powers, duties and functions of the Commissioner except those which are exercisable under sections 24 25, 25A, 26A, 26B and 30.
+(2) The Deputy Commissioner of Charities shall have and may exercise all the powers, duties and functions of the Commissioner except those which are exercisable under sections 24, 25, 25A, 26A, 26B and 30.
 
 [10/2007]
 
@@ -264,7 +282,7 @@ COMMISSIONER OF CHARITIES
 
 (a) to maintain public trust and confidence in charities;
 
-(b) to promote compliance by charity trustees with their legal obligations in exercising control and management of the administration of their charities;
+(b) to promote compliance by governing board members and key officers with their legal obligations in exercising control and management of the administration of their charities;
 
 [34/2010 wef 01/03/2011]
 
@@ -342,7 +360,7 @@ REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 
 (2) There shall be entered in the register every charity not excepted by subsection (4); and a charity so excepted may be entered in the register at the request of the charity, but (whether or not it was excepted at the time of registration) may at any time, and shall at the request of the charity, be removed from the register.
 
-(3) Any institution which no longer appears to the Commissioner to be a charity shall be removed from the register with effect, where the removal is due to any change in its purposes or trusts , from the date of that change; and there shall also be removed from the register any charity which ceases to exist or does not operate.
+(3) Any institution which no longer appears to the Commissioner to be a charity shall be removed from the register with effect, where the removal is due to any change in its purposes or governing instruments, from the date of that change; and there shall also be removed from the register any charity which ceases to exist or does not operate.
 
 [34/2010 wef 01/03/2011]
 
@@ -368,23 +386,27 @@ REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 
 (b) any charity which is excepted by regulations made under this Act.
 
-(5) Any application to the Commissioner for a charity to be registered shall be accompanied with copies of its trusts (or, if the trusts are not set out in any document, particulars of them) and such other documents or information as the Commissioner may require for the purpose of the application.
+(5) Any application to the Commissioner for a charity to be registered shall be accompanied with copies of its governing instruments (or, if any provisions of the governing instruments are not set out in any document, particulars of them) and such other documents or information as the Commissioner may require for the purpose of the application.
 
 [34/2010 wef 01/03/2011]
 
 (6) It shall be the duty of —
 
-(a) the charity trustees of any charity which is not registered nor excepted from registration to apply for it to be registered, and to supply the documents and information required by subsection (5), within 3 months after its establishment or such longer period as the Commissioner may, in his discretion, allow; and
+(a) the governing board members of any charity which is not registered nor excepted from registration to apply for it to be registered, and to supply the documents and information required by subsection (5), within 3 months after its establishment or such longer period as the Commissioner may, in his discretion, allow; and
 
 [34/2010 wef 01/03/2011]
 
-(b) the charity trustees (or last charity trustees ) of any institution which is for the time being registered to notify the Commissioner if it ceases to exist, or if there is any change in its trusts, or in its particulars entered in the register, and to furnish the Commissioner with particulars of any such change and copies of any new trusts or alterations of the trusts, within 7 days after such cessation or change or such longer period as the Commissioner may, in his discretion, allow,
+(b) the governing board members (or last governing board members) of any institution which is for the time being registered to notify the Commissioner if it ceases to exist, or if there is any change in its governing instruments, or in its particulars entered in the register, and to furnish the Commissioner with particulars of any such change and copies of any new governing instruments or alterations of the governing instruments, within 7 days after such cessation or change or such longer period as the Commissioner may, in his discretion, allow,
 
 [34/2010 wef 01/03/2011]
 
 and any person who makes default in carrying out any of the duties imposed by this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order require that person to make good that default.
 
 [26/2001]
+
+(6A) Where the governing instrument of a registered charity requires the prior approval of the Commissioner for any amendment to the governing instrument and the Commissioner has delegated his power to grant such approval to a Sector Administrator under section 40C(1)(e), that requirement shall be deemed to apply as if it required the prior approval of the Sector Administrator (instead of the Commissioner) for the amendment of the governing instrument.
+
+[34/2010 wef 01/03/2011]
 
 (7) The register (including entries cancelled when institutions are removed from the register) shall be open to public inspection at all reasonable times, except in so far as regulations otherwise provide.
 
@@ -400,7 +422,7 @@ and any person who makes default in carrying out any of the duties imposed by th
 
 (2) Any person who is or may be affected by the registration of an institution as a charity may, on the ground that it is not a charity, object to its being entered by the Commissioner in the register, or apply to the Commissioner for it to be removed from the register; and such objection or application shall be made or dealt with in such manner as may be prescribed by regulations made under this Act.
 
-(3) An appeal against any decision of the Commissioner to enter or not to enter an institution in the register of charities, or to remove or not to remove an institution from the register, may be brought in the High Court by the persons who are or claim to be the charity trustees of the institution, or by any person whose objection or application under subsection (2) has been disallowed by the Commissioner; and a copy of every notice of such appeal shall be transmitted to the Attorney-General.
+(3) An appeal against any decision of the Commissioner to enter or not to enter an institution in the register of charities, or to remove or not to remove an institution from the register, may be brought in the High Court by the persons who are or claim to be the governing board members of the institution, or by any person whose objection or application under subsection (2) has been disallowed by the Commissioner; and a copy of every notice of such appeal shall be transmitted to the Attorney-General.
 
 [34/2010 wef 01/03/2011]
 
@@ -412,7 +434,7 @@ and any person who makes default in carrying out any of the duties imposed by th
 
 ### Power of Commissioner to require change of charity’s name
 
-7\.—(1) The Commissioner may, with respect to a charity to which this subsection applies, give a direction requiring the name of the charity to be changed, within such period as is specified in the direction, to such other name as the charity trustees may determine with the approval of the Commissioner.
+7\.—(1) The Commissioner may, with respect to a charity to which this subsection applies, give a direction requiring the name of the charity to be changed, within such period as is specified in the direction, to such other name as the governing board members may determine with the approval of the Commissioner.
 
 [34/2010 wef 01/03/2011]
 
@@ -422,11 +444,11 @@ and any person who makes default in carrying out any of the duties imposed by th
 
 (b) the name of the charity is in the opinion of the Commissioner likely to mislead the public as to the true nature of —
 
-(i) the purposes of the charity as set out in its trusts ; or
+(i) the purposes of the charity as set out in its governing instruments; or
 
 [34/2010 wef 01/03/2011]
 
-(ii) the activities which the charity carries on under its trusts in pursuit of those purposes;
+(ii) the activities which the charity carries on under its governing instruments in pursuit of those purposes;
 
 [34/2010 wef 01/03/2011]
 
@@ -440,11 +462,11 @@ and any reference in this subsection to the name of a charity is, in relation to
 
 (3) Any direction given by virtue of subsection (2)(a) shall be given within 12 months of the time when the registered name was entered in the register in respect of the charity.
 
-(4) Any direction given under this section with respect to a charity shall be given to the charity trustees; and on receiving any such direction the charity trustees shall give effect to it notwithstanding anything in the trusts of the charity.
+(4) Any direction given under this section with respect to a charity shall be given to the governing board members; and on receiving any such direction the governing board members shall give effect to it notwithstanding anything in the governing instruments of the charity.
 
 [34/2010 wef 01/03/2011]
 
-(5) Where the name of any charity is changed under this section, it shall be the duty of the charity trustees to notify the Commissioner, within 7 days after such change or such longer period as the Commissioner may, in his discretion, allow, of the new name of the charity and of the date on which the change occurred.
+(5) Where the name of any charity is changed under this section, it shall be the duty of the governing board members to notify the Commissioner, within 7 days after such change or such longer period as the Commissioner may, in his discretion, allow, of the new name of the charity and of the date on which the change occurred.
 
 [34/2010 wef 01/03/2011]
 
@@ -452,7 +474,7 @@ and any reference in this subsection to the name of a charity is, in relation to
 
 (6) A change of name by a charity under this section shall not affect any rights or obligations of the charity; and any legal proceedings that might have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
 
-(7) Any reference in this section to the charity trustees of a charity shall, in relation to a charity which is a company, be read as a reference to the directors of the company.
+(7) Any reference in this section to the governing board members of a charity shall, in relation to a charity which is a company, be read as a reference to the directors of the company.
 
 [34/2010 wef 01/03/2011]
 
@@ -490,93 +512,11 @@ and any person who fails to comply with any requirement specified in the order s
 
 [Charities Act 1985 Ed., s. 7]
 
-### Power of Commissioner to call for documents and search records
+9\. [Repealed by Act 34/2010 wef 01/03/2011]
 
-9\.—(1) The Commissioner may, for the purpose of discharging his functions under this Act, by order —
+10\. [Repealed by Act 34/2010 wef 01/03/2011]
 
-(a) require any person to furnish the Commissioner with any information in his possession which relates to any charity; and
-
-(b) require any person who has in his custody or under his control any document which relates to any charity —
-
-(i) to furnish the Commissioner with a copy of or extract from the document; or
-
-(ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Commissioner for his inspection.
-
-(2) The Commissioner shall be entitled without payment to keep any copy or extract furnished to him under subsection (1); and where a document transmitted to him for his inspection relates only to one or more charities and is not held by any person entitled as trustee or otherwise to the custody of the document, the Commissioner may keep it or may deliver it to the charity trustees or to any other person who may be so entitled.
-
-(3) The Commissioner or any officer authorised by him in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging his functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
-
-(4) The Commissioner may take possession of any books, documents or papers where in his opinion —
-
-(a) the inspection, copying thereof or extraction therefrom cannot reasonably be performed without taking possession;
-
-(b) the books, documents or papers may be interfered with or destroyed unless possession is taken; or
-
-(c) the books, documents or papers may be required as evidence in proceedings for an offence under this Act or any regulations made thereunder.
-
-(5) The Commissioner may require any person to give orally or in writing, as may be required, all such information concerning any charity as may be demanded of him by the Commissioner for the purposes of this Act.
-
-(6) The rights conferred by this section shall, in relation to information recorded otherwise than in legible form, include the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.
-
-(7) Any person who fails to comply with any requirement specified in any order under subsection (1) or any requirement under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
-
-(8) Subject to section 11(2), no person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
-
-[Charities Act 1985 Ed., s. 8]
-
-### Supply of false or misleading information to Commissioner, etc.
-
-10\.—(1) Any person who knowingly or recklessly provides the Commissioner with information which is false or misleading in a material particular shall be guilty of an offence if the information is provided —
-
-(a) in purported compliance with a requirement imposed by or under this Act; or
-
-(b) otherwise than as mentioned in paragraph (a) but in circumstances in which the person providing the information intends, or could reasonably be expected to know, that it would be used by the Commissioner for the purpose of discharging his functions under this Act.
-
-(2) Any person who wilfully alters, suppresses, conceals or destroys any document which he is or is liable to be required, by or under this Act, to produce to the Commissioner shall be guilty of an offence.
-
-(3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
-
-(4) In this section, references to the Commissioner include references to any person conducting an inquiry under section 8.
-
-[UK Charities Act 1993, s. 11]
-
-### Disclosure of information to and by Commissioner
-
-11\.—(1) Subject to subsection (2) and to any express restriction imposed by or under any other written law, a body or person to whom this section applies may disclose to the Commissioner any information received by that body or person under or for the purposes of any written law, where the disclosure is made by the body or person for the purpose of enabling or assisting the Commissioner to discharge any of his functions.
-
-(2) Subsection (1) shall not have effect in relation to the Comptroller of Income Tax; but the Comptroller may disclose to the Commissioner the following information:
-
-(a) the name and address of any institution which has for any purpose been treated by the Comptroller as established for charitable purposes;
-
-(b) information as to the purposes of an institution and the trusts under which it is established or regulated, where the disclosure is made by the Comptroller in order to give or obtain assistance in determining whether the institution ought for any purpose to be treated as established for charitable purposes; and
-
-(c) information with respect to an institution which has for any purpose been treated as so established but which appears to the Comptroller —
-
-(i) to be, or to have been, carrying on activities which are not charitable; or
-
-(ii) to be, or to have been, applying any of its funds for purposes which are not charitable.
-
-(3) Subject to subsection (4), the Commissioner may disclose to a body or person to whom this section applies any information received by him under or for the purposes of any written law, where the disclosure is made by the Commissioner —
-
-(a) for any purpose connected with the discharge of his functions; and
-
-(b) for the purpose of enabling or assisting that body or person to discharge any of its or his functions.
-
-(4) Where any information disclosed to the Commissioner under subsection (1) or (2) is so disclosed subject to any express restriction on the disclosure of the information by the Commissioner, the Commissioner’s power of disclosure under subsection (3) shall, in relation to the information, be exercisable by him subject to any such restriction.
-
-(5) This section shall apply to the following bodies and persons:
-
-(a) any Government department;
-
-(b) any statutory authority;
-
-(c) any police officer; and
-
-(d) any other body or person discharging functions of a public nature (including a body or person discharging regulatory functions in relation to any description of activities).
-
-(6) Nothing in this section shall be construed as affecting any power of disclosure exercisable apart from this section.
-
-[Charities Act 1985 Ed., s. 10]
+11\. [Repealed by Act 34/2010 wef 01/03/2011]
 
 ## PART IV
 
@@ -584,11 +524,11 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 ### Duty to keep accounting records
 
-12\.—(1) The charity trustees of a charity shall ensure that accounting records are kept in respect of the charity which are sufficient to show and explain all the charity’s transactions, and which are such as to —
+12\.—(1) Unless otherwise excepted by regulations made under this Act, the governing board members of a charity shall ensure that accounting records are kept in respect of the charity which are sufficient to show and explain all the charity’s transactions, and which are such as to —
 
 (a) disclose at any time, with reasonable accuracy, the financial position of the charity at that time; and
 
-(b) enable the trustees to ensure that, where any statements of accounts are prepared by them under section 13(1), those statements of accounts comply with the requirements of regulations made under that section.
+(b) enable the governing board members to ensure that, where any statements of accounts are prepared by them under regulations made under section 13, those statements of accounts comply with the requirements of those regulations.
 
 [34/2010 wef 01/03/2011]
 
@@ -598,129 +538,97 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 (b) a record of the assets and liabilities of the charity.
 
-(3) The charity trustees of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years from the end of the financial year of the charity in which they are made.
+(3) The governing board members of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years from the end of the financial year of the charity in which they are made.
 
 [34/2010 wef 01/03/2011]
 
 [2/2007]
 
-(4) Where a charity ceases to exist within the period of 5 years mentioned in subsection (3) as it applies to any accounting records, the obligation to preserve those records in accordance with that subsection shall continue to be discharged by the last charity trustees of the charity, unless the Commissioner consents in writing to the records being destroyed or otherwise disposed of.
+(4) Where a charity ceases to exist within the period of 5 years mentioned in subsection (3) as it applies to any accounting records, the obligation to preserve those records in accordance with that subsection shall continue to be discharged by the last governing board members of the charity, unless the Commissioner consents in writing to the records being destroyed or otherwise disposed of.
 
 [34/2010 wef 01/03/2011]
 
-(5) Nothing in this section shall apply to an exempt charity or a charity which is a company.
-
-[UK Charities Act 1993, s. 41]
+(5) [Deleted by Act 34 of 2010 wef 01/03/2011]
 
 ### Annual statements of accounts
 
-13\.—(1) Subject to subsection (3), the charity trustees of a charity shall prepare in respect of each financial year of the charity a statement of accounts complying with such requirements as to its form and contents as may be prescribed by regulations.
+13\.—(1) The Minister may make regulations relating to the financial reporting requirements for charities, including provisions —
 
-(2) Without prejudice to the generality of subsection (1), regulations under that subsection may make provision —
+(a) allowing the governing board members of specified classes of charities to prepare a receipts and payments account and a statement of assets and liabilities instead of a statement of accounts in respect of any financial year of the charity;
 
-(a) for any such statement to be prepared in accordance with such methods and principles as are specified or referred to in the regulations;
+(b) prescribing requirements as to the form and contents of accounts and statements of charities;
 
-(b) as to any information to be provided by way of notes to the accounts; and
+(c) requiring the accounts and statements of specified classes of charities to be in compliance with all or any of the following:
 
-(c) for determining the financial years of a charity for the purposes of this Act and any regulations made thereunder.
+(i) specified accounting standards that are made or formulated by the Accounting Standards Council under Part III of the Accounting Standards Act (Cap. 2B);
 
-(3) Where the gross income in any financial year of a charity does not exceed $50,000, or such other sum as the Minister may by notification prescribe, the charity trustees may, in respect of that year, elect to prepare a receipts and payments account and a statement of assets and liabilities, instead of a statement of accounts under subsection (1).
+(ii) other accounting standards or requirements specified in the regulations;
 
-(4) The charity trustees of a charity shall preserve —
+(d) providing for relief from the requirements of such accounting standards applicable to charities;
 
-(a) any statement of accounts prepared by them under subsection (1); or
+(e) determining the financial years of a charity for the purposes of this Act;
 
-(b) any account and statement prepared by them under subsection (3),
+(f) modifying the application of any provisions in the Companies Act (Cap. 50) as to the form and content of a company’s accounts or consolidated accounts being in compliance with the Accounting Standards (as defined in the Companies Act) in respect of a company that is registered as a charity or approved as an institution of a public character under this Act; or
 
-for at least 5 years from the end of the financial year to which any such statement relates or to which any such account and statement relate, as the case may be.
+(g) providing that any person who is guilty of an offence under any regulations made under paragraph (c) in respect of a charity which is registered as a company under the Companies Act (Cap. 50) shall be liable on conviction to the same penalty as that provided under section 204(1) or (3)(a), as the case may be, of that Act.
 
-[2/2007]
+(2) The governing board members of a charity shall preserve any statement of accounts or other account and statement prepared by them for the purposes of regulations made under this section, for at least 5 years from the end of the financial year to which any such statement relates or to which any such account and statement relate, as the case may be.
 
-(5) Section 12(4) shall apply, with the necessary modifications, in relation to the preservation of any such statement or account and statement as it applies in relation to the preservation of any accounting records.
+(3) Section 12(4) shall apply, with the necessary modifications, in relation to the preservation of any such statement or account and statement as it applies in relation to the preservation of any accounting records.
 
-(6) Nothing in this section shall apply to an exempt charity or a charity which is a company.
-
-[UK Charities Act 1993, s. 42]
+[34/2010 wef 01/03/2011]
 
 ### Annual audit or examination of charity accounts
 
-14\.—(1) Subsection (2) shall apply to a financial year of a charity (referred to in this section as the relevant year) if the charity’s gross income or total expenditure in —
+14\.—(1) The Minister may by regulations make provision —
 
-(a) the relevant year;
+(a) requiring the accounts of charities to be audited or examined and specify the circumstances in which such audits or examinations shall be carried out by a public accountant, an independent qualified accountant or an independent person;
 
-(b) the financial year of the charity immediately preceding the relevant year (if any); or
-
-(c) the financial year of the charity immediately preceding the year specified in paragraph (b) (if any),
-
-exceeds $250,000 or such other sum as the Minister may by notification prescribe.
-
-(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is a public accountant within the meaning of the Companies Act (Cap. 50).
-
-[5/2004]
-
-(3) If subsection (2) does not apply to a financial year of a charity, then (subject to subsection (4)) the accounts of the charity for that year shall, at the election of the charity trustees, either —
-
-(a) be examined by an independent person who is reasonably believed by the trustees to have the requisite ability and practical experience to carry out a competent examination of the accounts (referred to in this Act as an independent examiner); or
-
-(b) be audited by an approved company auditor.
-
-(4) Where it appears to the Commissioner —
-
-(a) that subsection (2) or (3) (as the case may be), has not been complied with in relation to a financial year of a charity within 10 months from the end of that year; or
-
-(b) that, although subsection (2) is inapplicable to a financial year of a charity, it would nevertheless be desirable for the accounts of the charity for that year to be audited by an approved company auditor,
-
-the Commissioner may by order require the accounts of the charity for that year to be audited by a person appointed by the Commissioner.
-
-(5) The expenses of any audit carried out by an auditor appointed by the Commissioner under subsection (4), including the auditor’s remuneration, shall be paid —
-
-(a) by the charity trustees of the charity concerned who shall be personally liable, jointly and severally, for those expenses; or
-
-(b) to the extent that it appears to the Commissioner not to be practical to pay those expenses in accordance with paragraph (a), from the funds of the charity.
-
-(6) The Commissioner may give such directions as he may think appropriate with respect to the carrying out of an examination in pursuance of subsection (3)(a), and any such directions may either be of general application or apply to a particular charity only.
-
-(7) Nothing in this section shall apply to an exempt charity or a charity which is a company.
-
-[UK Charities Act 1993, s. 43]
-
-### Supplementary provisions relating to audits, etc.
-
-15\.—(1) The Minister may by regulations make provision —
-
-(a) with respect to the duties of an approved company auditor carrying out an audit under section 14, including provision with respect to the making by him of a report on the statement of accounts prepared for the financial year in question under section 13(1), or the account and statement so prepared under section 13(3), as the case may be;
-
-(b) with respect to the making by an independent examiner of a report in respect of an examination carried out by him under section 14;
+(b) with respect to the duties of an auditor or independent examiner carrying out an audit or examination for the purposes of this section;
 
 (c) conferring on such an auditor or independent examiner a right of access with respect to books, documents and other records (however kept) which relate to the charity concerned;
 
-(d) entitling such an auditor or independent examiner to require, in the case of a charity, information and explanations from past or present charity trustees or trustees for the charity, or from past or present officers, employees or auditors of the charity; and
+(d) entitling such an auditor or independent examiner to require, in the case of a charity, information and explanations from past or present governing board members or trustees for the charity, or from past or present officers, employees or auditors of the charity; and
 
-(e) enabling the Commissioner, in circumstances specified in any regulations made under this Act, to dispense with the requirements of section 14(2) or (3) in the case of a particular charity or in the case of any particular financial year of a charity.
+(e) enabling the Commissioner, in prescribed circumstances, to dispense with any of the requirements prescribed under paragraph (a) in the case of a particular charity or in the case of any particular financial year of a charity.
 
-(2) If any person fails to afford an approved company auditor or independent examiner any facility to which he is entitled by virtue of subsection (1)(c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order give to that person or to the charity trustees for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+(2) Where it appears to the Commissioner —
 
-[10/2007]
+(a) that any requirement under this section for the accounts of a charity to be audited or examined has not been complied with in relation to a financial year of a charity within 10 months from the end of that year; or
 
-(3) Section 391 of the Companies Act (Cap. 50) shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of section 14 as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
+(b) that it would be desirable for the accounts of a particular charity for any year to be audited by a public accountant although the regulations made under this Act do not so require,
 
-[UK Charities Act 1993, s. 44]
+the Commissioner may by order require the accounts of the charity for that year to be audited by a person appointed by the Commissioner.
+
+(3) The expenses of any audit carried out by a person appointed by the Commissioner under subsection (2), including his remuneration, shall be paid —
+
+(a) by the governing board members of the charity concerned who shall be personally liable, jointly and severally, for those expenses; or
+
+(b) to the extent that it appears to the Commissioner not to be practical to pay those expenses in accordance with paragraph (a), from the funds of the charity.
+
+(4) The Commissioner may give such directions as he may think appropriate with respect to the carrying out of an examination required by regulations made under this Act, and any such directions may either be of general application or apply to a particular charity only.
+
+(5) If any person fails to afford an auditor or independent examiner any facility to which he is entitled by virtue of regulations made under subsection (1)(c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order give to that person or to the governing board members for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+
+(6) Section 391 of the Companies Act (Cap. 50) shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of this section as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
+
+[34/2010 wef 01/03/2011]
+
+15\. [Repealed by Act 34/2010 wef 01/03/2011]
 
 ### Annual reports
 
-16\.—(1) Unless otherwise excepted by regulations made under this Act, the charity trustees of a charity shall prepare in respect of each financial year of the charity an annual report containing —
+16\.—(1) Unless otherwise excepted by regulations made under this Act, the governing board members of a charity shall prepare in respect of each financial year of the charity an annual report containing —
 
-(a) a prescribed report by the trustees on the activities of the charity during that year; and
-
-[34/2010 wef 01/03/2011]
-
-(b) such other information relating to the charity or to its trustees or officers as may be prescribed by regulations made under this Act.
+(a) a prescribed report by the governing board members on the activities of the charity during that year; and
 
 [34/2010 wef 01/03/2011]
 
+(b) such other information relating to the charity or to its governing board members or officers as may be prescribed by regulations made under this Act.
+
 [34/2010 wef 01/03/2011]
 
-(2) The annual report required to be prepared under this section in respect of any financial year of a charity shall be transmitted to the Commissioner by the charity trustees —
+(2) The annual report required to be prepared under this section in respect of any financial year of a charity shall be transmitted to the Commissioner by the governing board members —
 
 (a) within 6 months from the end of that year; or
 
@@ -728,19 +636,21 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 [34/2010 wef 01/03/2011]
 
-(3) Subject to subsection (4), every such annual report shall have attached to it the statement of accounts prepared for the financial year in question under section 13(1) or the account and statement so prepared under section 13(3), together with —
+(3) Subject to subsection (4), every such annual report shall have attached to it the statement of accounts or account and statement prepared for the financial year in question in pursuance of section 13(1), together with —
 
 (a) where the accounts of the charity for that year have been audited under section 14, a copy of the report made by the auditor on that statement of accounts or on that account and statement, as the case may be; or
 
 (b) where the accounts of the charity for that year have been examined under section 14, a copy of the report made by the independent examiner in respect of the examination carried out by him under that section.
 
-(4) Subsection (3) shall not apply to a charity which is a company, and any annual report transmitted by the charity trustees of such a charity under subsection (2) shall have attached to it a copy of the charity’s annual accounts prepared for the financial year in question under Part VI of the Companies Act (Cap. 50), together with a copy of the auditor’s report on those accounts.
+[34/2010 wef 01/03/2011]
+
+(4) Subsection (3) shall not apply to a charity which is a company, and any annual report transmitted by the governing board members of such a charity under subsection (2) shall have attached to it a copy of the charity’s annual accounts prepared for the financial year in question under Part VI of the Companies Act (Cap. 50), together with a copy of the auditor’s report on those accounts.
 
 [34/2010 wef 01/03/2011]
 
 (5) Any annual report transmitted to the Commissioner under subsection (2), together with the documents attached to it, shall be kept by the Commissioner for such period as he may think fit.
 
-(6) This section shall not apply to an exempt charity.
+(6) [Deleted by Act 34/2010 wef 01/03/2011]
 
 [UK Charities Act 1993, s. 45]
 
@@ -754,21 +664,23 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (2) Where any interested person —
 
-(a) requests the charity trustees of a charity in writing to provide him with a copy of the charity’s most recent accounts; and
+(a) requests the governing board members of a charity in writing to provide him with a copy of the charity’s most recent accounts; and
 
 [34/2010 wef 01/03/2011]
 
-(b) pays the charity trustees such reasonable fee (if any) as they may require in respect of the costs of complying with the request,
+(b) pays the governing board members such reasonable fee (if any) as they may require in respect of the costs of complying with the request,
 
 [34/2010 wef 01/03/2011]
 
-those trustees shall comply with the request within the period of 2 months beginning with the date on which the request is made.
+those governing board members shall comply with the request within the period of 2 months beginning with the date on which the request is made.
 
 [34/2010 wef 01/03/2011]
 
 (3) In subsection (2), the reference to a charity’s most recent accounts shall be —
 
-(a) a reference to the statement of accounts or account and statement prepared in pursuance of section 13(1) or (3) in respect of the last financial year of the charity the accounts for which have been audited or examined under section 14; and
+(a) a reference to the statement of accounts or account and statement prepared in pursuance of section 13(1) in respect of the last financial year of the charity the accounts for which have been audited or examined under section 14; and
+
+[34/2010 wef 01/03/2011]
 
 (b) in the case of a charity which is a company, a reference to the annual accounts of the company most recently audited under Part VI of the Companies Act (Cap. 50).
 
@@ -796,19 +708,19 @@ SMALL CHARITIES
 
 and it is neither an exempt charity nor a charitable company.
 
-(2) Subject to the following provisions of this section, the charity trustees of a charity to which this section applies may resolve for the purposes of this section —
+(2) Subject to the following provisions of this section, the governing board members of a charity to which this section applies may resolve for the purposes of this section —
 
 (a) that all the property of the charity should be transferred to such other charity as is specified in the resolution, being either a registered charity or a charity which is not required to be registered;
 
 (b) that all the property of the charity should be divided, in such manner as is specified in the resolution, between such 2 or more other charities as are so specified, being in each case either a registered charity or a charity which is not required to be registered;
 
-(c) that the trusts of the charity should be modified by replacing all or any of the purposes of the charity with such other purposes, being in law charitable, as are specified in the resolution;
+(c) that the governing instruments of the charity should be modified by replacing all or any of the purposes of the charity with such other purposes, being in law charitable, as are specified in the resolution;
 
 [34/2010 wef 01/03/2011]
 
-(d) that any provision of the trusts of the charity —
+(d) that any provision of the governing instruments of the charity —
 
-(i) relating to any of the powers exercisable by the charity trustees in the administration of the charity; or
+(i) relating to any of the powers exercisable by the governing board members in the administration of the charity; or
 
 (ii) regulating the procedure to be followed in any respect in connection with its administration,
 
@@ -816,23 +728,21 @@ should be modified in such manner as is specified in the resolution.
 
 [34/2010 wef 01/03/2011]
 
-[34/2010 wef 01/03/2011]
-
-(3) Any resolution passed under subsection (2) must be passed by a majority of not less than two-thirds of such charity trustees present and voting on the resolution.
+(3) Any resolution passed under subsection (2) must be passed by a majority of not less than two-thirds of such governing board members present and voting on the resolution.
 
 [34/2010 wef 01/03/2011]
 
-(4) The charity trustees of a charity to which this section applies (referred to in this Act as the transferor charity) shall not have power to pass a resolution under subsection (2)(a) or (b) unless they are satisfied —
+(4) The governing board members of a charity to which this section applies (referred to in this Act as the transferor charity) shall not have power to pass a resolution under subsection (2)(a) or (b) unless they are satisfied —
 
 (a) that the existing purposes of the transferor charity have ceased to be conducive to a suitable and effective application of the charity’s resources; and
 
 (b) that the purposes of the charity or charities specified in the resolution are as similar in character to the purposes of the transferor charity as is reasonably practicable,
 
-and before passing the resolution they must have received from the charity trustees of the charity, or (as the case may be) of each of the charities, specified in the resolution written confirmation that those trustees are willing to accept a transfer of property under this section.
+and before passing the resolution they must have received from the governing board members of the charity, or (as the case may be) of each of the charities, specified in the resolution written confirmation that those governing board members are willing to accept a transfer of property under this section.
 
 [34/2010 wef 01/03/2011]
 
-(5) The charity trustees of any such charity shall not have power to pass a resolution under subsection (2)(c) unless they are satisfied —
+(5) The governing board members of any such charity shall not have power to pass a resolution under subsection (2)(c) unless they are satisfied —
 
 (a) that the existing purposes of the charity (or, as the case may be, such of them as it is proposed to replace) have ceased to be conducive to a suitable and effective application of the charity’s resources; and
 
@@ -840,7 +750,7 @@ and before passing the resolution they must have received from the charity trust
 
 [34/2010 wef 01/03/2011]
 
-(6) Where charity trustees have passed a resolution under subsection (2), they shall —
+(6) Where governing board members have passed a resolution under subsection (2), they shall —
 
 (a) give public notice of the resolution in such manner as they think reasonable in the circumstances; and
 
@@ -848,7 +758,7 @@ and before passing the resolution they must have received from the charity trust
 
 [34/2010 wef 01/03/2011]
 
-(7) The Commissioner may, when considering the resolution, require the charity trustees to provide additional information or explanation —
+(7) The Commissioner may, when considering the resolution, require the governing board members to provide additional information or explanation —
 
 (a) as to the circumstances in and by reference to which they have determined to act under this section; or
 
@@ -858,7 +768,7 @@ and the Commissioner shall take into account any representations made to him by 
 
 [34/2010 wef 01/03/2011]
 
-(8) Where the Commissioner has so received a copy of a resolution from any charity trustees and it appears to him that the trustees have complied with this section in connection with the resolution, the Commissioner shall, within the period of 3 months beginning with the date when he receives the copy of the resolution, notify the trustees in writing either —
+(8) Where the Commissioner has so received a copy of a resolution from any governing board members and it appears to him that they have complied with this section in connection with the resolution, the Commissioner shall, within the period of 3 months beginning with the date when he receives the copy of the resolution, notify them in writing either —
 
 (a) that the Commissioner concurs with the resolution; or
 
@@ -868,25 +778,25 @@ and the Commissioner shall take into account any representations made to him by 
 
 (9) Where the Commissioner so notifies his concurrence with the resolution, then —
 
-(a) if the resolution was passed under subsection (2)(a) or (b), the charity trustees shall arrange for all the property of the transferor charity to be transferred in accordance with the resolution and on terms that any property so transferred —
+(a) if the resolution was passed under subsection (2)(a) or (b), the governing board members shall arrange for all the property of the transferor charity to be transferred in accordance with the resolution and on terms that any property so transferred —
 
 (i) shall be held and applied by the charity to which it is transferred (referred to in this Act as the transferee charity) for the purposes of that charity; but
 
 (ii) shall, as property of the transferee charity, nevertheless be subject to any restrictions on expenditure to which it is subject as property of the transferor charity,
 
-and those trustees shall arrange for it to be so transferred by such date as may be specified in the notification; and
+and those governing board members shall arrange for it to be so transferred by such date as may be specified in the notification; and
 
 [34/2010 wef 01/03/2011]
 
-(b) if the resolution was passed under subsection (2)(c) or (d), the trusts of the charity shall be deemed, as from such date as may be specified in the notification, to have been modified in accordance with the terms of the resolution.
+(b) if the resolution was passed under subsection (2)(c) or (d), the governing instruments of the charity shall be deemed, as from such date as may be specified in the notification, to have been modified in accordance with the terms of the resolution.
 
 [34/2010 wef 01/03/2011]
 
-(10) For the purpose of enabling any property to be transferred to a charity under this section, the Commissioner shall have the power, at the request of the charity trustees of that charity, to make orders vesting any property of the transferor charity —
+(10) For the purpose of enabling any property to be transferred to a charity under this section, the Commissioner shall have the power, at the request of the governing board members of that charity, to make orders vesting any property of the transferor charity —
 
-(a) in the charity trustees of the first-mentioned charity or in any trustee for that charity; or
+(a) in the governing board members of the first-mentioned charity or in any trustee for that charity; or
 
-(b) in any other person nominated by those charity trustees to hold the property in trust for that charity.
+(b) in any other person nominated by those governing board members to hold the property in trust for that charity.
 
 [34/2010 wef 01/03/2011]
 
@@ -894,15 +804,19 @@ and those trustees shall arrange for it to be so transferred by such date as may
 
 (12) In this section, references to the transfer of property to a charity are references to its transfer —
 
-(a) to the charity trustees;
+(a) to the governing board members;
 
 [34/2010 wef 01/03/2011]
 
 (b) to any trustee for the charity; or
 
-(c) to a person nominated by the charity trustees to hold it in trust for the charity,
+(c) to a person nominated by the governing board members to hold it in trust for the charity,
 
-as the charity trustees may determine.
+[34/2010 wef 01/03/2011]
+
+as the governing board members may determine.
+
+[34/2010 wef 01/03/2011]
 
 [UK Charities Act 1993, s. 74]
 
@@ -916,17 +830,19 @@ as the charity trustees may determine.
 
 and it is neither an exempt charity nor a charitable company.
 
-(2) Where the charity trustees of a charity to which this section applies are of the opinion that the property of the charity is too small, in relation to its purposes, for any useful purpose to be achieved by the expenditure of income alone, they may resolve for the purposes of this section that the charity ought to be freed from the restrictions with respect to expenditure of capital to which its permanent endowment is subject.
+(2) Where the governing board members of a charity to which this section applies are of the opinion that the property of the charity is too small, in relation to its purposes, for any useful purpose to be achieved by the expenditure of income alone, they may resolve for the purposes of this section that the charity ought to be freed from the restrictions with respect to expenditure of capital to which its permanent endowment is subject.
 
 [34/2010 wef 01/03/2011]
 
-(3) Any resolution passed under subsection (2) must be passed by a majority of not less than two-thirds of such charity trustees present and voting on the resolution.
+(3) Any resolution passed under subsection (2) must be passed by a majority of not less than two-thirds of such governing board members present and voting on the resolution.
 
 [34/2010 wef 01/03/2011]
 
-(4) Before passing such a resolution, the charity trustees must consider whether any reasonable possibility exists of effecting a transfer or division of all the charity’s property under section 19 (disregarding any such transfer or division as would, in their opinion, impose on the charity an unacceptable burden of costs).
+(4) Before passing such a resolution, the governing board members must consider whether any reasonable possibility exists of effecting a transfer or division of all the charity’s property under section 19 (disregarding any such transfer or division as would, in their opinion, impose on the charity an unacceptable burden of costs).
 
-(5) Where charity trustees have passed a resolution under subsection (2), they shall —
+[34/2010 wef 01/03/2011]
+
+(5) Where governing board members have passed a resolution under subsection (2), they shall —
 
 (a) give public notice of the resolution in such manner as they think reasonable in the circumstances; and
 
@@ -934,7 +850,7 @@ and it is neither an exempt charity nor a charitable company.
 
 [34/2010 wef 01/03/2011]
 
-(6) The Commissioner may, when considering the resolution, require the charity trustees to provide additional information or explanation —
+(6) The Commissioner may, when considering the resolution, require the governing board members to provide additional information or explanation —
 
 (a) as to the circumstances in and by reference to which they have determined to act under this section; or
 
@@ -944,7 +860,7 @@ and the Commissioner shall take into account any representations made to him by 
 
 [34/2010 wef 01/03/2011]
 
-(7) Where the Commissioner has so received a copy of a resolution from any charity trustees and it appears to him that the trustees have complied with this section in connection with the resolution, the Commissioner shall, within the period of 3 months beginning with the date when he receives the copy of the resolution, notify the trustees in writing either —
+(7) Where the Commissioner has so received a copy of a resolution from any governing board members and it appears to him that they have complied with this section in connection with the resolution, the Commissioner shall, within the period of 3 months beginning with the date when he receives the copy of the resolution, notify them in writing either —
 
 (a) that the Commissioner concurs with the resolution; or
 
@@ -952,7 +868,7 @@ and the Commissioner shall take into account any representations made to him by 
 
 [34/2010 wef 01/03/2011]
 
-(8) Where the Commissioner so notifies his concurrence with the resolution, the charity trustees shall have, as from such date as may be specified in the notification, power by virtue of this section to expend any property of the charity without regard to any such restrictions as are mentioned in subsection (2).
+(8) Where the Commissioner so notifies his concurrence with the resolution, the governing board members shall have, as from such date as may be specified in the notification, power by virtue of this section to expend any property of the charity without regard to any such restrictions as are mentioned in subsection (2).
 
 [34/2010 wef 01/03/2011]
 
@@ -964,7 +880,17 @@ and the Commissioner shall take into account any representations made to him by 
 
 ## PART VI
 
-APPLICATION OF PROPERTY CY-PRèS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
+APPLICATION OF PROPERTY CY-PRÈS
+
+
+
+
+AND ASSISTANCE AND SUPERVISION OF
+
+
+
+
+CHARITIES BY COURT AND COMMISSIONER
 
 ### Occasions for applying property cy-près
 
@@ -996,7 +922,7 @@ APPLICATION OF PROPERTY CY-PRèS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY 
 
 (3) References in subsections (1) and (2) to the original purposes of a gift shall be construed, where the application of the property given has been altered or regulated by a scheme or otherwise, as referring to the purposes for which the property is for the time being applicable.
 
-(4) It is hereby declared that a trust for charitable purposes places a trustee under a duty, where the case permits and requires the property or some part of it to be applied cy-pr|f4s, to secure its effective use for charity by taking steps to enable it to be so applied.
+(4) It is hereby declared that a trust for charitable purposes places a trustee under a duty, where the case permits and requires the property or some part of it to be applied cy-près, to secure its effective use for charity by taking steps to enable it to be so applied.
 
 (5) This section shall apply to property given for charitable purposes, notwithstanding that it was so given before 1st January 1995.
 
@@ -1028,7 +954,7 @@ APPLICATION OF PROPERTY CY-PRèS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY 
 
 (a) the scheme shall specify the total amount of that property;
 
-(b) the donor of any part of that amount shall be entitled, if he makes a claim not later than 6 months after the date on which the scheme is made, to recover from the charity for which the property is applied a sum equal to that part, less any expenses properly incurred by the charity trustees after that date in connection with claims relating to his gift; and
+(b) the donor of any part of that amount shall be entitled, if he makes a claim not later than 6 months after the date on which the scheme is made, to recover from the charity for which the property is applied a sum equal to that part, less any expenses properly incurred by the governing board members of the charity after that date in connection with claims relating to his gift; and
 
 [34/2010 wef 01/03/2011]
 
@@ -1040,7 +966,7 @@ APPLICATION OF PROPERTY CY-PRèS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY 
 
 (b) the aggregate amount of any such claims actually made exceeds the relevant amount,
 
-then if the Commissioner so directs, each of the donors in question shall be entitled only to such proportion of the relevant amount as the amount of his claim bears to the aggregate amount referred to in paragraph (b); and for this purpose, “relevant amount” means the amount of the sum so set aside after deduction of any expenses properly incurred by the charity trustees in connection with claims relating to the donors’ gifts.
+then if the Commissioner so directs, each of the donors in question shall be entitled only to such proportion of the relevant amount as the amount of his claim bears to the aggregate amount referred to in paragraph (b); and for this purpose, “relevant amount” means the amount of the sum so set aside after deduction of any expenses properly incurred by the governing board members of the charity in connection with claims relating to the donors’ gifts.
 
 [34/2010 wef 01/03/2011]
 
@@ -1078,7 +1004,7 @@ then if the Commissioner so directs, each of the donors in question shall be ent
 
 (a) establishing a scheme for the administration of a charity;
 
-(b) appointing, discharging or removing a charity trustee or trustee for a charity, or removing an officer or employee; and
+(b) appointing, discharging or removing a governing board member of a charity or trustee for a charity, or removing an officer or employee; and
 
 [34/2010 wef 01/03/2011]
 
@@ -1086,13 +1012,13 @@ then if the Commissioner so directs, each of the donors in question shall be ent
 
 (2) The Commissioner shall not have jurisdiction under this section to try or determine the title to any property as between a charity or trustee for a charity and a person holding or claiming the property or an interest in it adversely to the charity, or to try or determine any question as to the existence or extent of any charge or trust.
 
-(3) Before exercising any jurisdiction under this section, the Commissioner shall give notice of his intention to do so to each of the charity trustees except those who cannot be found or who have no known address in Singapore; and the notice may be given by post and, if given by post, may be addressed to the trustee’s last known address in Singapore.
+(3) Before exercising any jurisdiction under this section, the Commissioner shall give notice of his intention to do so to each of the governing board members except those who cannot be found or who have no known address in Singapore; and the notice may be given by post and, if given by post, may be addressed to the governing board member’s last known address in Singapore.
 
 [34/2010 wef 01/03/2011]
 
 (4) The Commissioner shall not exercise his jurisdiction under this section in any case (not referred to him by order of the High Court) which, by reason of its contentious character, or of any special question of law or of fact which it may involve, or for other reasons, the Commissioner may consider more fit to be adjudicated on by the High Court.
 
-(5) An appeal against any order of the Commissioner under this section may at any time, within the 3 months beginning with the day following that on which the order is published, be brought in the High Court by the charity or any of the charity trustees , or any person interested in the charity, or by any person removed from any office or employment by the order.
+(5) An appeal against any order of the Commissioner under this section may at any time, within the 3 months beginning with the day following that on which the order is published, be brought in the High Court by the charity or any of the governing board members, or any person interested in the charity, or by any person removed from any office or employment by the order.
 
 [34/2010 wef 01/03/2011]
 
@@ -1108,13 +1034,13 @@ then if the Commissioner so directs, each of the donors in question shall be ent
 
 the Commissioner may, with the consent of the Attorney-General, do one or more of the following things:
 
-(i) by order remove any trustee, charity trustee, officer, agent or employee of the charity who has been responsible for or privy to the misconduct or mismanagement or has by his conduct contributed to it or facilitated it;
+(i) by order remove any trustee, governing board member, officer, agent or employee of the charity who has been responsible for or privy to the misconduct or mismanagement or has by his conduct contributed to it or facilitated it;
 
 [34/2010 wef 01/03/2011]
 
 (ii) by order establish a scheme for the administration of the charity;
 
-(iii) notwithstanding anything in the trusts of the charity, by order restrict the transactions which may be entered into, or the nature or amount of the payments which may be made, in the administration of the charity without his approval.
+(iii) notwithstanding anything in the governing instruments of the charity, by order restrict the transactions which may be entered into, or the nature or amount of the payments which may be made, in the administration of the charity without his approval.
 
 [34/2010 wef 01/03/2011]
 
@@ -1126,11 +1052,11 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 the Commissioner may, with the consent of the Attorney-General, do one or more of the following things:
 
-(i) by order suspend any trustee, charity trustee, officer, agent or employee of the charity from the exercise of his office or employment pending consideration being given to his removal (whether under this section or otherwise);
+(i) by order suspend any trustee, governing board member, officer, agent or employee of the charity from the exercise of his office or employment pending consideration being given to his removal (whether under this section or otherwise);
 
 [34/2010 wef 01/03/2011]
 
-(ii) by order appoint such number of additional charity trustees as he considers necessary for the proper administration of the charity;
+(ii) by order appoint such number of additional governing board members or key officers as he considers necessary for the proper administration of the charity;
 
 [34/2010 wef 01/03/2011]
 
@@ -1140,17 +1066,17 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (v) order any debtor of the charity not to make any payment in or towards the discharge of his liability to the charity without the approval of the Commissioner;
 
-(vi) by order restrict (notwithstanding anything in the trusts of the charity) the transactions which may be entered into, or the nature or amount of the payments which may be made, in the administration of the charity without the approval of the Commissioner;
+(vi) by order restrict (notwithstanding anything in the governing instruments of the charity) the transactions which may be entered into, or the nature or amount of the payments which may be made, in the administration of the charity without the approval of the Commissioner;
 
 [34/2010 wef 01/03/2011]
 
 (vii) by order appoint (in accordance with section 26) a receiver and manager in respect of the property and affairs of the charity.
 
-(3) The references in subsections (1) and (2) to misconduct or mismanagement shall (notwithstanding anything in the trusts of the charity) extend to the employment for remuneration or reward of persons acting in the affairs of the charity, or for other administrative purposes, of sums which are excessive in relation to the property which is or is likely to be applied or applicable for the purposes of the charity.
+(3) The references in subsections (1) and (2) to misconduct or mismanagement shall (notwithstanding anything in the governing instruments of the charity) extend to the employment for remuneration or reward of persons acting in the affairs of the charity, or for other administrative purposes, of sums which are excessive in relation to the property which is or is likely to be applied or applicable for the purposes of the charity.
 
 [34/2010 wef 01/03/2011]
 
-(4) The Commissioner may remove a charity trustee by order made of his own motion where the trustee —
+(4) The Commissioner may remove a governing board member or key officer by order made of his own motion where the governing board member or key officer —
 
 (a) has been convicted of an offence involving dishonesty, fraud or moral turpitude;
 
@@ -1158,7 +1084,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (c) is a corporation in liquidation;
 
-(d) lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee;
+(d) lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as governing board member or key officer;
 
 [21/2008 wef 01/03/2010]
 
@@ -1170,47 +1096,65 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 [34/2010 wef 01/03/2011]
 
-(5) The Commissioner may, by order made of his own motion, appoint a person to be a charity trustee —
+(5) The Commissioner may, by order made of his own motion, appoint a person to be a governing board member or key officer —
 
-(a) in place of a charity trustee removed by him under this section or otherwise;
-
-[34/2010 wef 01/03/2011]
-
-(b) where there are no charity trustees, or where by reason of vacancies in their number or the absence or incapacity of any of their number the charity cannot apply for the appointment;
+(a) in place of a governing board member or key officer removed by him under this section or otherwise;
 
 [34/2010 wef 01/03/2011]
 
-(c) where there is a single charity trustee, not being a corporation, and the Commissioner is of the opinion that it is necessary to increase the number for the proper administration of the charity; or
+(b) where there are no governing board members, or where by reason of vacancies in their number or the absence or incapacity of any of their number the charity cannot apply for the appointment;
 
 [34/2010 wef 01/03/2011]
 
-(d) where the Commissioner is of the opinion that it is necessary for the proper administration of the charity to have an additional charity trustee, because one of the existing charity trustees who ought nevertheless to remain a charity trustee cannot be found or does not act or is outside Singapore.
+(c) where there is a single governing board member or key officer, not being a corporation, and the Commissioner is of the opinion that it is necessary to increase the number for the proper administration of the charity; or
 
 [34/2010 wef 01/03/2011]
 
-[34/2010 wef 01/03/2011]
-
-(6) The powers of the Commissioner under this section to remove or appoint charity trustees shall include the power to make any such order with respect to the vesting in or transfer to the charity trustees of any property as the Commissioner may make on the removal or appointment of a charity trustee by him under section 24.
+(d) where the Commissioner is of the opinion that it is necessary for the proper administration of the charity to have an additional governing board member or key officer, because one of the existing governing board members or key officers who ought nevertheless to remain a governing board member or key officer cannot be found or does not act or is outside Singapore.
 
 [34/2010 wef 01/03/2011]
 
-(7) Any order under this section for the removal or appointment of a charity trustee or trustee for a charity, or for the vesting or transfer of any property, shall be of the like effect as an order made under section 24.
+(6) The powers of the Commissioner under this section to remove or appoint governing board members or trustees for a charity shall include the power to make any such order with respect to the vesting in or transfer to the governing board members or trustees for a charity of any property as the Commissioner may make on the removal or appointment of a governing board member or trustee for the charity by him under section 24.
+
+[34/2010 wef 01/03/2011]
+
+(7) Any order under this section for the removal or appointment of a governing board member or trustee for a charity, or for the vesting or transfer of any property, shall be of the like effect as an order made under section 24.
 
 [34/2010 wef 01/03/2011]
 
 (8) Section 24(4) shall apply to orders under this section as it applies to orders under section 24.
 
-(9) The power of the Commissioner to make an order under subsection (2)(i) shall not be exercisable so as to suspend any person from the exercise of his office or employment for a period of more than 12 months; but (without prejudice to the generality of section 42) any such order made in the case of any person may make provision as respects the period of his suspension for matters arising out of it, and in particular for enabling any person to execute any instrument in his name or otherwise act for him and, in the case of a charity trustee, for adjusting any rules governing the proceedings of the charity trustees to take account of the reduction in the number capable of acting.
+(9) The power of the Commissioner to make an order under subsection (2)(i) shall not be exercisable so as to suspend any person from the exercise of his office or employment for a period of more than 12 months; but (without prejudice to the generality of section 42) any such order made in the case of any person may make provision as respects the period of his suspension for matters arising out of it, and in particular for enabling any person to execute any instrument in his name or otherwise act for him and, in the case of a governing board member, for adjusting any rules governing the proceedings of the governing board members to take account of the reduction in the number capable of acting.
 
 [34/2010 wef 01/03/2011]
 
-(10) Before exercising any jurisdiction under this section (otherwise than by virtue of subsection (2)), the Commissioner shall give notice of his intention to do so to each of the charity trustees except those who cannot be found or who have no known address in Singapore; and the notice may be given by post and, if given by post, may be addressed to the trustee’s last known address in Singapore.
+(10) Before exercising any jurisdiction under this section (otherwise than by virtue of subsection (2)), the Commissioner shall give notice of his intention to do so to —
+
+(a) each of the governing board members; and
+
+(b) in the case of an order —
+
+(i) for the removal of any trustee for the charity or key officer;
+
+(ii) for the appointment of an additional trustee for the charity or a key officer; or
+
+(iii) for the transfer of any property,
+
+each trustee for the charity or key officer concerned,
+
+except those who cannot be found or who have no known address in Singapore.
+
+[34/2010 wef 01/03/2011]
+
+(10A) A notice referred to in subsection (10) may be given by post and, if given by post, may be addressed to the last known address in Singapore of the governing board member or trustee for the charity or key officer, as the case may be.
+
+[34/2010 wef 01/03/2011]
 
 (11) The Commissioner shall, at such intervals as he thinks fit, review any order made by him under subsection (2)(i), (iii), (iv), (v), (vi) or (vii); and if on any such review it appears to him that it would be appropriate to discharge the order in whole or in part, he shall so discharge it (whether subject to any savings or transitional provisions or not).
 
 (12) Any person who contravenes an order under subsection (2)(iv), (v) or (vi) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
-(13) Nothing in subsection (12) shall be taken to preclude the bringing of proceedings for breach of trust against any charity trustee or trustee for a charity in respect of a contravention of an order under subsection (2)(iv) or (vi) (whether proceedings in respect of the contravention are brought against him under subsection (12)).
+(13) Nothing in subsection (12) shall be taken to preclude the bringing of proceedings for breach of trust against any governing board member or trustee for a charity in respect of a contravention of an order under subsection (2)(iv) or (vi) (whether proceedings in respect of the contravention are brought against him under subsection (12)).
 
 [34/2010 wef 01/03/2011]
 
@@ -1220,7 +1164,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 ### Power to suspend or remove trustees, etc., from membership of charity
 
-25A\.—(1) This section shall apply where the Commissioner makes an order under section 25 removing or suspending any trustee, charity trustee, officer, agent or employee of a charity from his office or employment, as the case may be, and the person in question is a member of the charity.
+25A\.—(1) This section shall apply where the Commissioner makes an order under section 25 removing or suspending any trustee, governing board member, officer, agent or employee of a charity from his office or employment, as the case may be, and the person in question is a member of the charity.
 
 [34/2010 wef 01/03/2011]
 
@@ -1256,11 +1200,11 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (3) In connection with the discharge of those functions, any such order may provide —
 
-(a) for the receiver and manager appointed by the order to have such powers and duties of the charity trustees of the charity concerned (whether arising under this Act or otherwise) as are specified in the order; and
+(a) for the receiver and manager appointed by the order to have such powers and duties of the governing board members of the charity concerned (whether arising under this Act or otherwise) as are specified in the order; and
 
 [34/2010 wef 01/03/2011]
 
-(b) for any powers or duties exercisable or falling to be performed by the receiver and manager by virtue of paragraph (a) to be exercisable or performed by him to the exclusion of those trustees.
+(b) for any powers or duties exercisable or falling to be performed by the receiver and manager by virtue of paragraph (a) to be exercisable or performed by him to the exclusion of those governing board members.
 
 [34/2010 wef 01/03/2011]
 
@@ -1298,7 +1242,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (a) may require action to be taken whether or not it would otherwise be within the powers exercisable by the person or persons concerned in relation to the property; but
 
-(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the trusts of the charity.
+(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the governing instruments of the charity.
 
 [34/2010 wef 01/03/2011]
 
@@ -1340,7 +1284,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (a) may require action to be taken whether or not it would otherwise be within the powers exercisable by the person or persons concerned in relation to the property; but
 
-(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the trusts of the institution.
+(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the governing instruments of the institution.
 
 [34/2010 wef 01/03/2011]
 
@@ -1360,9 +1304,9 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 [UK Charities Bill 2006, clause 21]
 
-### Persons disqualified for being trustees of a charity
+### Persons disqualified from being governing board members, etc., of a charity
 
-27\.—(1) Subject to the provisions of this section, a person shall be disqualified for being a charity trustee or trustee for a charity if —
+27\.—(1) Subject to the provisions of this section, a person shall be disqualified from being a governing board member or key officer of a charity or a trustee for a charity if —
 
 (a) he has been convicted, whether in Singapore or elsewhere, of any offence involving dishonesty or deception;
 
@@ -1370,7 +1314,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (c) he has made a composition or arrangement with, or granted a trust deed for, his creditors and has not been discharged in respect of it;
 
-(d) he has been removed from the office of charity trustee or trustee for a charity by an order made by the Commissioner under section 25(1)(i) or by the High Court on the ground of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
+(d) he has been removed from the office of governing board member or key officer of a charity or trustee for a charity by an order made by the Commissioner under section 25(1)(i) or by the High Court on the ground of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
 
 [34/2010 wef 01/03/2011]
 
@@ -1378,35 +1322,37 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 [34/2010 wef 01/03/2011]
 
-(2) Where (apart from this subsection) a person is disqualified under subsection (1)(b) for being a charity trustee or trustee for any charity which is a company, he shall not be so disqualified if leave has been granted under section 148 of the Companies Act for him to act as director of the charity; and similarly a person shall not be disqualified under subsection (1)(e) for being a charity trustee or trustee for such a charity if leave under the order has been granted for him to act as director of the charity.
+(2) Where (apart from this subsection) a person is disqualified under subsection (1)(b) for being a governing board member or key officer of a charity or a trustee for a charity which is a company, he shall not be so disqualified if leave has been granted under section 148 of the Companies Act for him to act as director of the charity; and similarly a person shall not be disqualified under subsection (1)(e) from being a governing board member or key officer of a charity or trustee for a charity if leave under the order has been granted for him to act as director of the charity.
+
+[34/2010 wef 01/03/2011]
 
 [UK Charities Act 1993, s. 72]
 
-### Persons acting as charity trustee while disqualified
+### Persons acting as governing board member, etc., while disqualified
 
-28\.—(1) Any person who acts as a charity trustee or trustee for a charity while he is disqualified for being such a trustee by virtue of section 27 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+28\.—(1) Any person who acts as a governing board member or key officer of a charity or trustee for a charity while he is disqualified from being such a governing board member or key officer or trustee by virtue of section 27 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
 
 [34/2010 wef 01/03/2011]
 
 [10/2007]
 
-(2) Any act done as charity trustee or trustee for a charity by a person disqualified for being such a trustee by virtue of section 27 shall not be invalid by reason only of that disqualification.
+(2) Any act done as governing board member or key officer of a charity or trustee for a charity by a person disqualified from being such a trustee by virtue of section 27 shall not be invalid by reason only of that disqualification.
 
 [34/2010 wef 01/03/2011]
 
 (3) Where the Commissioner is satisfied —
 
-(a) that any person has acted as charity trustee or trustee for a charity while disqualified for being such a trustee by virtue of section 27; and
+(a) that any person has acted as governing board member or key officer of a charity or trustee for a charity while disqualified from being such a governing board member or key officer or trustee by virtue of section 27; and
 
 [34/2010 wef 01/03/2011]
 
-(b) that, while so acting, he has received from the charity any sum by way of remuneration or expenses, or any benefit in kind, in connection with his acting as charity trustee or trustee for the charity,
+(b) that, while so acting, he has received from the charity any sum by way of remuneration or expenses, or any benefit in kind, in connection with his acting as governing board member or key officer of the charity or trustee for the charity,
 
 [34/2010 wef 01/03/2011]
 
 the Commissioner may by order direct him to repay to the charity the whole or part of any such sum, or (as the case may be) to pay to the charity the whole or part of the monetary value (as determined by the Commissioner) of any such benefit.
 
-(4) Subsection (3) shall not apply to any sum received by way of remuneration or expenses in respect of any time when the person concerned was not disqualified for being a charity trustee or trustee for the charity.
+(4) Subsection (3) shall not apply to any sum received by way of remuneration or expenses in respect of any time when the person concerned was not disqualified from being a governing board member or key officer of a charity or trustee for the charity.
 
 [34/2010 wef 01/03/2011]
 
@@ -1416,15 +1362,15 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 29\.—(1) The Commissioner shall not make any order under this Part to establish a scheme for the administration of a charity unless not less than one month previously there has been given public notice of his proposals, inviting representations to be made to him within a time specified in the notice, which shall not be less than one month from the date of the notice.
 
-(2) The Commissioner shall not make any order under this Part to appoint, discharge or remove a charity trustee or trustee for a charity (other than the Public Trustee), unless not less than one month previously there has been given the like public notice as is required by subsection (1) for an order establishing a scheme but this subsection shall not apply in the case of —
+(2) The Commissioner shall not make any order under this Part to appoint, discharge or remove a governing board member or key officer of a charity or trustee for a charity (other than the Public Trustee), unless not less than one month previously there has been given the like public notice as is required by subsection (1) for an order establishing a scheme but this subsection shall not apply in the case of —
 
 (a) an order under section 25(2)(ii); or
 
-(b) an order discharging or removing a trustee if the Commissioner is of the opinion that it is unnecessary and not in the interest of the trustee to give publicity to the proposal to discharge or remove the trustee.
+(b) an order discharging or removing a governing board member or key officer or trustee if the Commissioner is of the opinion that it is unnecessary and not in the interest of the charity to give publicity to the proposal to discharge or remove the governing board member or key officer or trustee.
 
 [34/2010 wef 01/03/2011]
 
-(3) Before the Commissioner makes an order under this Part to remove without his consent a charity trustee or trustee for a charity, or an officer, agent or employee of a charity, the Commissioner shall, unless he cannot be found or has no known address in Singapore, give him not less than one month’s notice of the Commissioner’s proposal, inviting representations to be made to the Commissioner within a time specified in the notice.
+(3) Before the Commissioner makes an order under this Part to remove without his consent a governing board member of a charity or trustee for a charity, or an officer, agent or employee of a charity, the Commissioner shall, unless he cannot be found or has no known address in Singapore, give him not less than one month’s notice of the Commissioner’s proposal, inviting representations to be made to the Commissioner within a time specified in the notice.
 
 [34/2010 wef 01/03/2011]
 
@@ -1442,13 +1388,13 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 ### Power to authorise dealings with charity property, etc.
 
-30\.—(1) Subject to this section, where it appears to the Commissioner that any action proposed or contemplated in the administration of a charity is expedient in the interests of the charity, he may by order sanction that action, whether or not it would otherwise be within the powers exercisable by the charity trustees in the administration of the charity; and anything done under the authority of that order shall be deemed to be properly done in the exercise of those powers.
+30\.—(1) Subject to this section, where it appears to the Commissioner that any action proposed or contemplated in the administration of a charity is expedient in the interests of the charity, he may by order sanction that action, whether or not it would otherwise be within the powers exercisable by the governing board members in the administration of the charity; and anything done under the authority of that order shall be deemed to be properly done in the exercise of those powers.
 
 [34/2010 wef 01/03/2011]
 
 (2) An order under this section may be made so as to authorise a particular transaction, compromise or the like, or a particular application of property, or so as to give a more general authority, and (without prejudice to the generality of subsection (1)) may authorise a charity to use common premises, or employ a common staff, or otherwise combine for any purpose of administration, with any other charity.
 
-(3) An order under this section may give directions as to the manner in which any expenditure is to be borne and as to other matters connected with or arising out of the action thereby authorised; and where anything is done in pursuance of an authority given by any such order, any directions given in connection therewith shall be binding on the charity trustees for the time being as if contained in the trusts of the charity except that those directions may on the application of the charity be modified or superseded by a further order.
+(3) An order under this section may give directions as to the manner in which any expenditure is to be borne and as to other matters connected with or arising out of the action thereby authorised; and where anything is done in pursuance of an authority given by any such order, any directions given in connection therewith shall be binding on the governing board members for the time being as if contained in the governing instruments of the charity except that those directions may on the application of the charity be modified or superseded by a further order.
 
 [34/2010 wef 01/03/2011]
 
@@ -1468,7 +1414,7 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 ### Taking of legal proceedings
 
-31\.—(1) Charity proceedings may be taken with reference to a charity either by the charity, or by any of the charity trustees, or by any person interested in the charity, but not by any other person.
+31\.—(1) Charity proceedings may be taken with reference to a charity either by the charity, or by any of the governing board members, or by any person interested in the charity, but not by any other person.
 
 [34/2010 wef 01/03/2011]
 
@@ -1506,17 +1452,41 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 [Charities Act 1985 Ed., s. 19]
 
-## PART VII\*
+### Power to relieve governing board members, etc., from personal liability
 
-CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
+32A\.—(1) If in any proceedings for negligence, default, breach of duty or breach of trust against a person to whom this section applies, whether appointed by the court or otherwise, it appears to the court before which the proceedings are taken that —
 
-\*No date has been appointed for the coming into operation of this Part.
+(a) the person is or may be liable in respect thereof; but
+
+(b) the person has acted honestly and reasonably and, having regard to all the circumstances of the case, he ought fairly to be excused for the negligence, default or breach,
+
+the court may relieve him either wholly or partly from his liability on such terms as the court thinks fit.
+
+(2) Where any person to whom this section applies has reason to apprehend that any claim will or might be made against him in respect of any negligence, default, breach of duty or breach of trust he may apply to the High Court for relief, and the High Court shall have the same power to relieve him as it would have had, under subsection (1), if it had been a court before which proceedings against him for negligence, default, breach of duty or breach of trust had been brought.
+
+(3) Without prejudice to the generality of subsection (1), the circumstances of the case referred to in subsection (1) may include the circumstances connected with the appointment of the person.
+
+(4) For the avoidance of doubt and without prejudice to the generality of subsection (1), “liability” includes the liability of a person to whom this section applies to account for profits made or received.
+
+(5) The persons to whom this section applies are —
+
+(a) governing board members or trustees for charities; and
+
+(b) receivers and managers in respect of the property and affairs of a charity (whether appointed under this Act or otherwise).
+
+[34/2010 wef 01/03/2011]
+
+## PART VII
+
+[Repealed by Act 34/2010 wef 01/03/2011]
+
+## PART VIII
+
+FUND-RAISING APPEALS
 
 ### Interpretation of this Part
 
-33\.—(1) In this Part and any regulations made under this Act, unless the context otherwise requires —
-
-“charitable appeal” means an appeal to members of the public to give money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes;
+39\.—(1) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires —
 
 “charitable contributions”, in relation to any representation made by any commercial participator or other person, means —
 
@@ -1528,29 +1498,43 @@ CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
 
 (b) sums given by him by way of donation in connection with the sale or supply of any such goods or services (whether the amount of such sums is determined by reference to the value of any such goods or services or otherwise);
 
+[34/2010 wef 01/03/2011]
+
 “charitable institution” means a charity or an institution (other than a charity) which is established for charitable, benevolent or philanthropic purposes;
+
+[34/2010 wef 01/03/2011]
+
+“collector”, in relation to a fund-raising appeal, means any person by whom that appeal is made (whether made by him alone or with others and whether made by him for remuneration or otherwise);
+
+[34/2010 wef 01/03/2011]
+
+“commercial fund-raiser” means any person who for reward solicits or otherwise procures money or other property for, or purportedly for, the benefit of a charity or any charitable, benevolent or philanthropic purpose;
+
+[34/2010 wef 01/03/2011]
 
 “commercial participator”, in relation to any charitable institution, means any person who carries on for gain a business other than a fund-raising business, but in the course of that business, engages in any promotional venture in the course of which it is represented that charitable contributions are to be given to or applied for the benefit of the institution;
 
-“credit card” means a card, cheque, voucher, coupon, stamp, form, booklet or other document or thing given to an individual by a person who undertakes —
+[34/2010 wef 01/03/2011]
 
-(a) that on the production of it (whether or not some other action is also required), he will supply cash, goods and services (or any of them) on credit; or
+“fund-raising appeal” means —
 
-(b) that where, on the production of it to a third party (whether or not some other action is also required), the third party supplies cash, goods and services (or any of them), he will pay the third party for them (whether or not deducting any discount or commission), in return for payment to him by the individual;
+(a) an appeal, whether made expressly or impliedly, to any member of the public to give money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes; or
 
-“debit card” means a card the use of which by its holder to make a payment results in any account of his at a bank, or at any other institution providing banking services, being debited with the payment;
+(b) a receipt from any member of the public of any money or other property (whether for consideration or otherwise) which is given in whole or in part for any charitable, benevolent or philanthropic purposes;
 
 “fund-raising business” means any business carried on for gain and wholly or primarily engaged in soliciting or otherwise procuring money or other property for charitable, benevolent or philanthropic purposes;
 
-“professional fund-raiser” means —
+[34/2010 wef 01/03/2011]
 
-(a) any person (apart from a charitable institution) who carries on a fund-raising business; or
+“proceeds”, in relation to a fund-raising appeal, means all money or other property given (whether for consideration or otherwise) in response to the fund-raising appeal in question;
 
-(b) any other person (apart from a person excluded by virtue of subsection (2) or (3)) who for reward solicits money or other property for the benefit of a charitable institution, if he does so otherwise than in the course of any fund-raising venture undertaken by a person falling within paragraph (a);
+[34/2010 wef 01/03/2011]
+
+[10/2007]
 
 “promotional venture” means any advertising or sales campaign or any other venture undertaken for promotional purposes;
 
-“radio or television programme” includes any item included in a broadcasting service within the meaning of the Broadcasting Act (Cap. 28);
+[34/2010 wef 01/03/2011]
 
 “represent” and “solicit” mean, respectively, represent and solicit in any manner whatever, whether expressly or impliedly and whether done —
 
@@ -1558,57 +1542,11 @@ CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
 
 (b) by means of a statement published in any newspaper, film or radio or television programme,
 
-or otherwise, and references to a representation or solicitation shall be construed accordingly.
+or otherwise, and references to a representation or solicitation shall be construed accordingly;
 
-(2) Paragraph (b) of the definition of “professional fund-raiser” in subsection (1) shall not apply to any of the following:
+[34/2010 wef 01/03/2011]
 
-(a) any charitable institution or any company connected with any such institution;
-
-(b) any officer or employee of any such institution or company, or any trustee of any such institution, acting (in each case) in his capacity as such;
-
-(c) any person acting as a collector in respect of a charitable appeal which is made in any public place or by means of visits from house to house (apart from a person who is to be treated as a promoter of such a collection by virtue of subsection (9));
-
-(d) any person who in the course of a radio or television programme in the course of which a fund-raising venture is undertaken by —
-
-(i) a charitable institution; or
-
-(ii) a company connected with such an institution,
-
-makes any solicitation at the instance of that institution or company; or
-
-(e) any commercial participator.
-
-(3) Paragraph (b) of the definition of “professional fund-raiser” in subsection (1) shall also not apply to a person if the person does not receive —
-
-(a) more than $10 per day or $1,000 per year by way of remuneration in connection with soliciting money or other property for the benefit of the charitable institution referred to in that paragraph; or
-
-(b) more than $1,000 by way of remuneration in connection with any fund-raising venture in the course of which he solicits money or other property for the benefit of that institution.
-
-(4) In this Part —
-
-(a) any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, shall be a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law; and
-
-(b) any reference to soliciting or otherwise procuring money or other property is a reference to soliciting or otherwise procuring money or other property whether any consideration is, or is to be, given in return for the money or other property or not.
-
-(5) For the purposes of this Part, a company shall be connected with a charitable institution if —
-
-(a) the institution; or
-
-(b) the institution and one or more other charitable institutions, taken together,
-
-is or are entitled (whether directly or through one or more nominees) to exercise, or control the exercise of, the whole of the voting power at any general meeting of the company.
-
-(6) Where —
-
-(a) any solicitation of money or other property for the benefit of a charitable institution is made in accordance with arrangements between any person and that institution; and
-
-(b) under those arrangements that person will be responsible for receiving on behalf of the institution money or other property given in response to the solicitation,
-
-then (if he would not be so regarded apart from this subsection) that person shall be regarded for the purposes of this Part as soliciting money or other property for the benefit of the institution.
-
-(7) Where any fund-raising venture is undertaken by a professional fund-raiser in the course of a radio or television programme, any solicitation which is made by a person in the course of the programme at the instance of the fund-raiser shall be regarded for the purposes of this Part as made by the fund-raiser and not by that person (and shall be so regarded whether or not the solicitation is made by that person for any reward).
-
-(8) In this Part, “services” includes facilities and, in particular —
+“services” includes facilities and, in particular —
 
 (a) access to any premises or event;
 
@@ -1620,235 +1558,27 @@ then (if he would not be so regarded apart from this subsection) that person sha
 
 and references to the supply of services shall be construed accordingly.
 
-(9) In relation to a public charitable appeal —
+[34/2010 wef 01/03/2011]
 
-(a) “collector” means any person by whom that appeal is made (whether made by him alone or with others and whether made by him for remuneration or otherwise); and
+(2) In this Part and any regulations made for the purpose of this Part —
 
-(b) “promoter” means a person who (whether alone or with others and whether for remuneration or otherwise) organises or controls the conduct of the charitable appeal in question, and associated expressions shall be construed accordingly,
+(a) any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, shall be a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law; and
 
-but where no person acts in the manner mentioned in paragraph (b) in respect of a charitable appeal, any person who acts as a collector in respect of it shall, for the purposes of this Part, be treated as a promoter of it as well.
-
-(10) The Minister may by order amend subsection (3)(a) or (b) by substituting a different sum for the sum for the time being specified therein.
-
-[UK Charities Act 1992, s. 58]
-
-### Prohibition on professional fund-raiser, etc., raising funds for charitable institution without agreement in prescribed form
-
-34\.—(1) It shall be unlawful for a professional fund-raiser to solicit money or other property for the benefit of a charitable institution unless he does so in accordance with an agreement with the institution satisfying the prescribed requirements.
-
-(2) It shall be unlawful for a commercial participator to represent that charitable contributions are to be given to or applied for the benefit of a charitable institution unless he does so in accordance with an agreement with the institution satisfying the prescribed requirements.
-
-(3) Where on the application of a charitable institution, the High Court is satisfied —
-
-(a) that any person has contravened or is contravening subsection (1) or (2) in relation to the institution; and
-
-(b) that, unless restrained, any such contravention is likely to continue or be repeated,
-
-the High Court may grant an injunction restraining the contravention; and compliance with subsection (1) or (2) shall not be enforceable otherwise than in accordance with this subsection.
-
-(4) Where —
-
-(a) a charitable institution makes any agreement with a professional fund-raiser or a commercial participator by virtue of which, as the case may be —
-
-(i) the professional fund-raiser is authorised to solicit money or other property for the benefit of the institution; or
-
-(ii) the commercial participator is authorised to represent that charitable contributions are to be given to or applied for the benefit of the institution; but
-
-(b) the agreement does not satisfy the prescribed requirements in any respect,
-
-the agreement shall not be enforceable against the institution except to such extent (if any) as may be provided by an order of the High Court.
-
-(5) A professional fund-raiser or commercial participator who is a party to an agreement referred to in subsection (4)(a) shall not be entitled to receive any amount by way of remuneration or expenses in respect of anything done by him in pursuance of the agreement unless he is so entitled under any provision of the agreement, and —
-
-(a) the agreement satisfies the prescribed requirements; or
-
-(b) any such provision has effect by virtue of an order of the High Court under subsection (4).
-
-[UK Charities Act 1992, s. 59]
-
-### Professional fund-raisers, etc., required to indicate institutions benefiting and arrangements for remuneration
-
-35\.—(1) Where a professional fund-raiser solicits money or other property for the benefit of one or more particular charitable institutions, the solicitation shall be accompanied by a statement clearly indicating —
-
-(a) the name or names of the institution or institutions concerned;
-
-(b) if there is more than one institution concerned, the proportions in which the institutions are respectively to benefit; and
-
-(c) (in general terms) the method by which the fund-raiser’s remuneration in connection with the appeal is to be determined.
-
-(2) Where a professional fund-raiser solicits money or other property for charitable, benevolent or philanthropic purposes of any description (rather than for the benefit of one or more particular charitable institutions), the solicitation shall be accompanied by a statement clearly indicating —
-
-(a) the fact that he is soliciting money or other property for those purposes and not for the benefit of any particular charitable institution or institutions;
-
-(b) the method by which it is to be determined how the proceeds of the appeal are to be distributed between different charitable institutions; and
-
-(c) (in general terms) the method by which the remuneration in connection with the appeal is to be determined.
-
-(3) Where any representation is made by a commercial participator to the effect that charitable contributions are to be given to or applied for the benefit of one or more particular charitable institutions, the representation shall be accompanied by a statement clearly indicating —
-
-(a) the name or names of the institution or institutions concerned;
-
-(b) if there is more than one institution concerned, the proportions in which the institutions are respectively to benefit; and
-
-(c) (in general terms) the method by which it is to be determined —
-
-(i) what proportion of the consideration given for goods or services sold or supplied by him, or of any other proceeds of a promotional venture undertaken by him, is to be given to or applied for the benefit of the institution or institutions concerned; or
-
-(ii) what sums by way of donations by him in connection with the sale or supply of any such goods or services are to be so given or applied,
-
-as the case may require.
-
-(4) If any such solicitation or representation as is mentioned in subsection (1), (2) or (3) is made orally but is not made —
-
-(a) by speaking directly to the particular person or persons to whom it is addressed and in his or their presence; or
-
-(b) in the course of any radio or television programme,
-
-the professional fund-raiser or commercial participator concerned shall, within 7 days of any payment exceeding the prescribed amount being made to him in response to the solicitation or representation, give to the person making the payment a written statement of the matters specified in subsection (1)(a), (b) and (c).
-
-(5) In subsection (4), the reference to the making of a payment is a reference to the making of a payment of whatever nature and by whatever means, including a payment made by means of a credit card or a debit card; and for the purposes of that subsection —
-
-(a) where the person making any such payment makes it in person, it shall be regarded as made at the time when it is so made;
-
-(b) where the person making any such payment sends it by post, it shall be regarded as made at the time when it is posted; and
-
-(c) where the person making any such payment makes it by giving, by telephone or by means of any other telecommunication system, authority for an account to be debited with the payment, it shall be regarded as made at the time when any such authority is given.
-
-(6) Where any requirement of subsections (1) to (4) is not complied with in relation to any solicitation or representation, the professional fund-raiser or commercial participator concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-[10/2007]
-
-(7) It shall be a defence for a person charged with any offence under subsection (6) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
-
-(8) Where the commission by any person of an offence under subsection (6) is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
-
-(9) In this section —
-
-“appeal”, in relation to any solicitation by a professional fund-raiser, means the campaign or other fund-raising venture in the course of which the solicitation is made;
-
-“prescribed amount” means such sum in cash as the Minister may, by notification in theGazette, prescribe for the purposes of subsection (4);
-
-“telecommunication system” has the same meaning as in the Telecommunications Act (Cap. 323).
-
-[43/99]
-
-[UK Charities Act 1992, s. 60]
-
-### Cancellation of payments and agreements made in response to appeals
-
-36\.—(1) Where —
-
-(a) a person (referred to in this subsection as the donor), in response to any such solicitation or representation referred to in section 35(1), (2) or (3) which is made in the course of a radio or television programme, makes any payment exceeding the prescribed amount under section 35(4) to the relevant fund-raiser by means of a credit card or a debit card; and
-
-(b) before the end of the period of 7 days beginning with the date of the solicitation or representation, the donor serves on the relevant fund-raiser a notice in writing which, however expressed, indicates the donor’s intention to cancel the payment,
-
-the donor shall, subject to subsection (4), be entitled to have the payment refunded to him immediately by the relevant fund-raiser.
-
-(2) Where —
-
-(a) a person (referred to in this subsection as the donor), in response to any solicitation or representation falling within section 35(4), enters into an agreement with the relevant fund-raiser under which the donor is, or may be, liable to make any payment or payments to the relevant fund-raiser, and the amount or aggregate amount which the donor is, or may be, liable to pay to him under the agreement exceeds the prescribed amount under section 35(4); and
-
-(b) before the end of the period of 7 days beginning with the date when he is given any such written statement referred to in section 35(4), the donor serves on the relevant fund-raiser a notice in writing which, however expressed, indicates the donor’s intention to cancel the agreement,
-
-the notice shall operate, as from the time when it is so served, to cancel the agreement and any liability of any person other than the donor in connection with the making of any such payment or payments, and the donor shall, subject to subsection (4), be entitled to have the payment made by him under the agreement refunded to him immediately by the relevant fund-raiser.
-
-(3) Where, in response to any solicitation or representation falling within section 35(4), a person (referred to in this subsection as the donor) —
-
-(a) makes any payment exceeding the prescribed amount under section 35(4) to the relevant fund-raiser; and
-
-(b) does not enter into any such agreement as is mentioned in subsection (2),
-
-then, if before the end of the period of 7 days beginning with the date when the donor is given any such written statement referred to in section 35(4), the donor serves on the relevant fund-raiser a notice in writing which, however expressed, indicates the donor’s intention to cancel the payment, the donor shall, subject to subsection (4), be entitled to have the payment refunded to him immediately by the relevant fund-raiser.
-
-(4) The right of any person to have a payment refunded to him under subsection (1), (2) or (3) —
-
-(a) is a right to have refunded to him the amount of the payment less any administrative expenses reasonably incurred by the relevant fund-raiser in connection with the making of the refund, or (in the case of a refund under subsection (2)) dealing with the notice of cancellation served by that person; and
-
-(b) shall, in the case of a payment for goods already received, be conditional upon restitution being made by him of the goods in question.
-
-(5) Nothing in subsections (1), (2) and (3) shall have effect in relation to any payment made or to be made in respect of services which have been supplied at the time when the relevant notice is served.
-
-(6) In this section, any reference to the making of a payment is a reference to the making of a payment of whatever nature and (in the case of subsection (2) or (3)), a payment made by whatever means, including a payment made by means of a credit card or a debit card; and section 35(5) shall have effect for determining when a payment is made for the purposes of this section as it has effect for determining when a payment is made for the purposes of section 35(4).
-
-(7) In this section, “the relevant fund-raiser”, in relation to any solicitation or representation, means the professional fund-raiser or commercial participator by whom it is made.
-
-[UK Charities Act 1992, s. 61]
-
-### Right of charitable institution to prevent unauthorised fund-raising
-
-37\.—(1) Where on the application of any charitable institution —
-
-(a) the High Court is satisfied that any person has done or is doing either of the following, namely:
-
-(i) soliciting money or other property for the benefit of the institution; or
-
-(ii) representing that charitable contributions are to be given to or applied for the benefit of the institution,
-
-and that, unless restrained, he is likely to do further acts of that nature; and
-
-(b) the Court is also satisfied as to one or more of the matters specified in subsection (2),
-
-then, subject to subsection (3), the Court may grant an injunction restraining the doing of any such acts.
-
-(2) The matters referred to in subsection (1)(b) are —
-
-(a) that the person in question is using methods of fund-raising to which the institution objects;
-
-(b) that that person is not a fit and proper person to raise funds for the institution; and
-
-(c) where the conduct complained of is the making of such representations referred to in subsection (1)(a)(ii), that the institution does not wish to be associated with the particular promotional or other fund-raising venture in which that person is engaged.
-
-(3) The power to grant an injunction under subsection (1) shall not be exercisable on the application of a charitable institution unless the institution has, not less than 14 days before making the application, served on the person in question a notice in writing —
-
-(a) requesting him to cease immediately soliciting money or other property for the benefit of the institution, or representing that charitable contributions are to be given to or applied for the benefit of the institution, as the case may be; and
-
-(b) stating that, if he does not comply with the notice, the institution will make an application under this section for an injunction.
-
-(4) Where —
-
-(a) a charitable institution has served on any person a notice under subsection (3) (referred to in this subsection as the relevant notice) and that person has complied with the notice; but
-
-(b) that person has subsequently begun to carry on activities which are the same, or substantially the same, as those in respect of which the relevant notice was served,
-
-the institution shall not, in connection with an application made by it under this section in respect of the activities carried on by that person, be required by virtue of that subsection to serve a further notice on him, if the application is made not more than 12 months after the date of service of the relevant notice.
-
-(5) This section shall not have the effect of authorising a charitable institution to make an application under this section in respect of anything done by a professional fund-raiser or commercial participator in relation to the institution.
-
-[UK Charities Act 1992, s. 62]
-
-### False statements relating to institutions which are not registered charities
-
-38\. Where a person solicits money or other property for the benefit of an institution in association with a representation that the institution is a registered charity, and the institution is not such a charity, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-[10/2007]
-
-[UK Charities Act 1992, s. 63]
-
-## PART VIII
-
-FUND-RAISING APPEALS
-
-### Interpretation of this Part
-
-39\.—(1) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires —
-
-“fund-raising appeal” means —
-
-(a) an appeal, whether made expressly or impliedly, to any member of the public to give money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes; or
-
-(b) a receipt from any member of the public of any money or other property (whether for consideration or otherwise) which is given in whole or in part for any charitable, benevolent or philanthropic purposes;
-
-“proceeds”, in relation to a fund-raising appeal, means all money or other property given (whether for consideration or otherwise) in response to the fund-raising appeal in question.
+(b) any reference to soliciting or otherwise procuring money or other property is a reference to soliciting or otherwise procuring money or other property whether any consideration is, or is to be, given in return for the money or other property or not.
 
 [34/2010 wef 01/03/2011]
 
-[10/2007]
+(3) Where —
 
-(2) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires, any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, is a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law.
+(a) any solicitation of money or other property for the benefit of a charitable institution is made in accordance with arrangements between any person and that institution; and
 
-[10/2007]
+(b) under those arrangements that person will be responsible for receiving on behalf of the institution money or other property given in response to the solicitation,
 
-[Charities Act 1995 Ed., s. 39 (4) and (5)]
+then (if he would not be so regarded apart from this subsection) that person shall be regarded for the purposes of this Part as soliciting money or other property for the benefit of the institution.
+
+[34/2010 wef 01/03/2011]
+
+[Charities Act 1995 Ed., s. 39 (4) to (5)]
 
 ### Prohibition on conducting fund-raising appeal without permit
 
@@ -1897,6 +1627,26 @@ if he is satisfied —
 [10/2007]
 
 [NSW CFA 1991, s. 31]
+
+### Regulations relating to fund-raising appeals
+
+39C\.—(1) The Minister may make regulations for the purposes of this Part, including provisions —
+
+(a) regulating the conduct of commercial fund-raisers and commercial participators in relation to fund-raising appeals, and in particular —
+
+(i) prescribing the form and content of agreements between a charitable institution and commercial fund-raisers, commercial participators or any other persons conducting or participating in a fund-raising appeal for the benefit of the institution;
+
+(ii) providing for the refund of charitable contributions or cancellation of agreements or undertakings made by donors in response to a fund-raising appeal, where notice of the donor’s intention to cancel the agreement, undertaking or charitable contribution has been given to the relevant fund-raiser within a prescribed period;
+
+(iii) requiring commercial fund-raisers or commercial participators or other persons conducting or participating in a fund-raising appeal for the benefit of a charitable institution to make available to the institution books, documents or other records (however kept) which relate to the institution; and
+
+(iv) specifying the manner in which money or other property acquired by such commercial fund-raisers or commercial participators or other persons for the benefit of, or otherwise falling to be given to or applied by such persons for the benefit of, charitable institutions is to be transmitted to such institutions; and
+
+(b) regulating the raising of funds for charitable, benevolent or philanthropic purposes (whether by commercial fund-raisers or commercial participators or otherwise) or the conduct of fund-raising appeals, including provisions prohibiting persons under a prescribed age from acting as collectors and prohibiting others from causing them so to act and determining the remuneration of the collectors.
+
+(2) In subsection (1)(a)(iv), the reference to money or other property includes a reference to money or other property which, in the case of a commercial fund-raiser or commercial participator, has been acquired by him otherwise than in accordance with an agreement with a charitable institution, but by reason of any solicitation or representation in consequence of which it has been acquired, is held by him on trust for such an institution.
+
+[34/2010 wef 01/03/2011]
 
 ### Exclusion of judicial review
 
@@ -2028,17 +1778,107 @@ MISCELLANEOUS
 
 ### Manner of giving notice of charity meetings, etc.
 
-41\.—(1) All notices which are required or authorised by the trusts of a charity to be given to a charity trustee, member or subscriber may be sent by post, and, if sent by post, may be addressed to any address given as his in the list of charity trustees, members or subscribers for the time being in use at the office or principal office of the charity.
+41\.—(1) All notices which are required or authorised by the governing instruments of a charity to be given to a governing board member, member or subscriber may be sent by post, and, if sent by post, may be addressed to any address given as his in the list of governing board members, members or subscribers for the time being in use at the office or principal office of the charity.
 
 [34/2010 wef 01/03/2011]
 
 (2) Where any such notice required to be given under subsection (1) is given by post, it shall be deemed to have been given by the time at which the letter containing it would be delivered in the ordinary course of post.
 
-(3) No notice required to be given under subsection (1) of any meeting or election need be given to any charity trustee , member or subscriber, if in the list of charity trustees, members or subscribers he has no address in Singapore.
+(3) No notice required to be given under subsection (1) of any meeting or election need be given to any governing board member, member or subscriber, if in the list of governing board members, members or subscribers he has no address in Singapore.
 
 [34/2010 wef 01/03/2011]
 
 [Charities Act 1985 Ed., s. 21]
+
+### Power of Commissioner to call for documents and search records
+
+41A\.—(1) The Commissioner may, for the purpose of discharging his functions under this Act, by order —
+
+(a) require any person to furnish the Commissioner with any information in his possession which relates to any charity or fund-raising appeal; and
+
+(b) require any person who has in his custody or under his control any document which relates to any charity or fund-raising appeal —
+
+(i) to furnish the Commissioner with a copy of or an extract from the document; or
+
+(ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Commissioner for his inspection.
+
+(2) The Commissioner shall be entitled without payment to keep any copy or extract furnished to him under subsection (1); and where a document transmitted to him for his inspection relates only to one or more charities and is not held by any person entitled as trustee or otherwise to the custody of the document, the Commissioner may keep it or may deliver it to the governing board members or to any other person who may be so entitled.
+
+(3) The Commissioner or any officer authorised by him in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging his functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
+
+(4) The Commissioner may take possession of any books, documents or papers where in his opinion —
+
+(a) the inspection, copying thereof or extraction therefrom cannot reasonably be performed without taking possession;
+
+(b) the books, documents or papers may be interfered with or destroyed unless possession is taken; or
+
+(c) the books, documents or papers may be required as evidence in proceedings for an offence under this Act or any regulations made thereunder.
+
+(5) The Commissioner may require any person to give orally or in writing, as may be required, all such information concerning any charity or fund-raising appeal as may be demanded of him by the Commissioner for the purposes of this Act.
+
+(6) The rights conferred by this section shall, in relation to information recorded otherwise than in legible form, include the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.
+
+(7) Any person who fails to comply with any requirement specified in any order under subsection (1) or any requirement under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+
+(8) Subject to section 41C(2), no person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
+
+(9) In this section, “fund-raising appeal” has the same meaning as in section 39(1).
+
+[34/2010 wef 01/03/2011]
+
+### Supply of false or misleading information to Commissioner, etc.
+
+41B\.—(1) Any person who knowingly or recklessly provides the Commissioner with information which is false or misleading in a material particular shall be guilty of an offence if the information is provided —
+
+(a) in purported compliance with a requirement imposed by or under this Act; or
+
+(b) otherwise than as mentioned in paragraph (a) but in circumstances in which the person providing the information intends, or could reasonably be expected to know, that it would be used by the Commissioner for the purpose of discharging his functions under this Act.
+
+(2) Any person who wilfully alters, suppresses, conceals or destroys any document which he is or is liable to be required, by or under this Act, to produce to the Commissioner shall be guilty of an offence.
+
+(3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+
+(4) In this section, references to the Commissioner include references to any person conducting an inquiry under section 8.
+
+[34/2010 wef 01/03/2011]
+
+### Disclosure of information to and by Commissioner
+
+41C\.—(1) Subject to subsection (2) and to any express restriction imposed by or under any other written law, a body or person to whom this section applies may disclose to the Commissioner any information received by that body or person under or for the purposes of any written law, where the disclosure is made by the body or person for the purpose of enabling or assisting the Commissioner to discharge any of his functions.
+
+(2) Subsection (1) shall not have effect in relation to the Comptroller of Income Tax; but the Comptroller may disclose to the Commissioner the following information:
+
+(a) the name and address of any institution which has for any purpose been treated by the Comptroller as established for charitable purposes;
+
+(b) information as to the purposes of an institution and the governing instruments under which it is established or regulated, where the disclosure is made by the Comptroller in order to give or obtain assistance in determining whether the institution ought for any purpose to be treated as established for charitable purposes; and
+
+(c) information with respect to an institution which has for any purpose been treated as so established but which appears to the Comptroller —
+
+(i) to be, or to have been, carrying on activities which are not charitable; or
+
+(ii) to be, or to have been, applying any of its funds for purposes which are not charitable.
+
+(3) Subject to subsection (4), the Commissioner may disclose to a body or person to whom this section applies any information received by him under or for the purposes of any written law, where the disclosure is made by the Commissioner —
+
+(a) for any purpose connected with the discharge of his functions; and
+
+(b) for the purpose of enabling or assisting that body or person to discharge any of its or his functions.
+
+(4) Where any information disclosed to the Commissioner under subsection (1) or (2) is so disclosed subject to any express restriction on the disclosure of the information by the Commissioner, the Commissioner’s power of disclosure under subsection (3) shall, in relation to the information, be exercisable by him subject to any such restriction.
+
+(5) This section shall apply to the following bodies and persons:
+
+(a) any Government department;
+
+(b) any statutory authority;
+
+(c) any police officer; and
+
+(d) any other body or person discharging functions of a public nature (including a body or person discharging regulatory functions in relation to any description of activities).
+
+(6) Nothing in this section shall be construed as affecting any power of disclosure exercisable apart from this section.
+
+[34/2010 wef 01/03/2011]
 
 ### Miscellaneous provisions as to orders of Commissioner
 
@@ -2056,11 +1896,11 @@ MISCELLANEOUS
 
 43\.—(1) This section shall apply to —
 
-(a) any order or direction made or given by the Commissioner under this Act;
+(a) any order or direction made or given by the Commissioner under this Act; and
 
 [34/2010 wef 01/03/2011]
 
-(b) any notice or other document required or authorised to be given or served under Part VII; and
+(b) [Deleted by Act 34/2010 wef 01/03/2011]
 
 (c) any notice required to be served under any regulations made under this Act.
 
@@ -2079,6 +1919,12 @@ MISCELLANEOUS
 (b) if it has no such office, to any place in Singapore where it carries on business or conducts its activities, as the case may be.
 
 [UK Charities Act 1993, s. 91]
+
+### Holding out as registered charity or institution of a public character
+
+43A\. Where any institution holds itself out to be a registered charity or an institution of a public character when it is not a registered charity or an institution of a public character, as the case may be, such institution and any person acting or purporting to act on behalf of or for the benefit of the institution, unless he proves that such holding out by the institution was made without his knowledge or consent, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[34/2010 wef 01/03/2011]
 
 ### Offences by bodies corporate
 
@@ -2152,29 +1998,15 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (a) prescribe the procedures and conditions for the registration of charities or any class of charities;
 
-(b) prescribe the form and content of —
+(b) prescribe the fees for the inspection of the register of charities or of other material kept by the Commissioner and for other services provided by the Commissioner;
 
-(i) agreements made for the purposes of section 34; and
+(c) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction; and
 
-(ii) notices served under section 37(3);
+(d) prescribe any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.
 
-(c) require professional fund-raisers or commercial participators who are parties to such agreements with charitable institutions to make available to the institutions books, documents or other records (however kept) which relate to the institutions;
+[34/2010 wef 01/03/2011]
 
-(d) specify the manner in which money or other property acquired by professional fund-raisers or commercial participators for the benefit of, or otherwise falling to be given to or applied by such persons for the benefit of, charitable institutions is to be transmitted to, such institutions;
-
-(e) provide for any provisions of section 35 or 36 having effect in relation to solicitations or representations made in the course of radio or television programmes to have effect, subject to any modifications specified in the regulations, in relation to solicitations or representations made in the course of such programmes by charitable institutions, or by companies connected with such institutions, and, in that connection, provide for any other provisions of Part VII to have effect for the purposes of the regulations subject to any modifications so specified;
-
-(f) make provisions regulating the raising of funds for charitable, benevolent or philanthropic purposes (whether by professional fund-raisers or commercial participators or otherwise) or the conduct of fund-raising appeals, including provisions prohibiting persons under a prescribed age from acting as collectors and prohibiting others from causing them so to act and determining the remuneration of the collectors;
-
-(g) prescribe the fees for the inspection of the register of charities or of other material kept by the Commissioner and for other services provided by the Commissioner;
-
-(h) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction; and
-
-(i) prescribe any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.
-
-[10/2007]
-
-(3) In subsection (2)(d), the reference to such money or other property includes a reference to money or other property which, in the case of a professional fund-raiser or commercial participator, has been acquired by him otherwise than in accordance with an agreement with a charitable institution, but by reason of any solicitation or representation in consequence of which it has been acquired, is held by him on trust for such an institution.
+(3) [Deleted by Act 34 of 2010 wef 01/03/2011]
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -2268,7 +2100,7 @@ Charities Act
 
 (CHAPTER 37)
 
-This Legislative History is provided for the convenience of users of the Charities Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Charities Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -2330,3 +2162,8 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|13.|**Act 34 of 2010—Charities (Amendment) Act 2010**|
+||Date of First Reading|18 October 2010|
+|||(Bill No. 29/2010 published on 18 October 2010)|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|1 March 2011|
