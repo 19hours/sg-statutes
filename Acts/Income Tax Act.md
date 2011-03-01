@@ -1798,6 +1798,122 @@ then —
 
 [32/99]
 
+### Shares buyback
+
+10J\.—(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), and such shares are deemed cancelled under section 76B of the Companies Act (Cap. 50), for the purposes of this section —
+
+(a) the buyback constitutes a market purchase if the purchase of the shares is made on a stock exchange; and
+
+(b) the buyback constitutes an off-market purchase if the purchase of the shares is made otherwise than on a stock exchange.
+
+[32/99; 34/2005; 7/2007]
+
+(2) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is made out of contributed capital of the company, not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account kept by the company under section 10I(5)(c)(i).
+
+[32/99]
+
+(3) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+
+(a) a dividend paid by the company on the date of the payment, and the provisions relating to payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) shall apply, with the necessary modifications, to the dividend deemed to be paid;
+
+(b) a dividend received by the shareholder (not being a transferee to whom section 10N applies) where the buyback is an off-market purchase made in accordance with an equal access scheme authorised in advance by the company at a general meeting of the company.
+
+[32/99; 37/2002]
+
+(4) Notwithstanding subsection (3), where a company undertakes a buyback described in subsection (1)(a) through a special trading counter established on the Singapore Exchange, any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+
+(a) a dividend paid by the company on the date of the payment, and section 44 shall apply, with the necessary modifications, to such dividend; and
+
+(b) a dividend received by the shareholder if the conditions in subsection (5) are satisfied.
+
+[24/2000]
+
+(5) The conditions referred to in subsection (4)(b) are —
+
+(a) the shares sold through the special trading counter are not acquired by the shareholder through any securities lending or repurchase arrangement;
+
+(b) the shareholder has beneficially owned the shares for a continuous period of at least 183 days ending immediately before the day of the sale of the share through the special trading counter;
+
+(c) the shareholder has furnished to the Comptroller, or such other person as the Comptroller may direct, a declaration relating to the ownership and other particulars of the shares sold in such form and manner as may be approved by the Comptroller; and
+
+(d) the company has complied with such requirements as may be imposed by the Comptroller.
+
+[24/2000]
+
+(6) Where the dividend deemed to be paid by a company under subsection (3)(a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3)(b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
+
+[32/99]
+
+(7) The amount of any dividend deemed to be paid by a company under subsection (4)(a) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment would be equal to the amount of payment made by the company.
+
+[24/2000]
+
+(8) The amount of any dividend deemed to be received by a shareholder under subsection (4)(b) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment by the company would be equal to the amount of payment received by the shareholder.
+
+[24/2000]
+
+(9) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b) or (4)(b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
+
+[32/99; 24/2000]
+
+(10) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3)(b) —
+
+(a) no deduction shall be allowed to him in respect of the costs he incurred to acquire the shares he sold to the company; and
+
+(b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula
+
+where A
+
+is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+
+N
+
+is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
+
+[32/99]
+
+(11) Notwithstanding any other provisions of this Act, where a shareholder sells his shares through a special trading counter referred to in subsection (4) and any payment received by the shareholder for the buyback of such shares is deemed to be a dividend received by him under that subsection —
+
+(a) no deduction shall be allowed to him in respect of the costs incurred to acquire the shares sold; and
+
+(b) where any provision for the diminution in the value of such shares has been allowed as a deduction previously, the total amount of all such deductions not written back shall be deemed to be a trading receipt of the shareholder for the basis period in which the shares are sold.
+
+[24/2000]
+
+(12) For the purposes of this section —
+
+(a) the contributed capital of a company has the same meaning as in section 10I(5)(b);
+
+(b) where a company undertakes a buyback to which subsection (2) applies and the buyback is effected before any reduction of its share capital to which section 10I applies or any redemption of shares to which section 10K applies or any purchase or acquisition of shares or stocks of a preferential nature to which section 10M applies, section 10I(5)(c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the buyback and any reference in that section to the first reduction shall be read as a reference to the buyback;
+
+(c) “equal access scheme” means a scheme which satisfies all the following conditions:
+
+(i) the offers under the scheme are to be made to every person who holds shares to purchase or acquire the same percentage of their shares;
+
+(ii) all the persons mentioned in sub-paragraph (i) have a reasonable opportunity to accept the offers made to them; and
+
+(iii) the terms of all the offers are the same except that there shall be disregarded —
+
+(A) differences in consideration attributable to the fact that the offers relate to shares with different accrued dividend entitlements;
+
+(B) differences in consideration attributable to the fact that the offers relate to shares with different amounts remaining unpaid; and
+
+(C) differences in the offers introduced solely to ensure that each shareholder is left with a whole number of shares;
+
+(d) in determining the duration of beneficial ownership of shares for the purposes of subsection (5)(b) —
+
+(i) the day of acquisition of the shares shall be counted as one day, but the day of sale of the shares shall be excluded;
+
+(ii) any bonus shares or shares arising from a consolidation or sub-division of shares shall be deemed to have been acquired on the date of acquisition of the original shares in respect of which the bonus shares were issued, or from which the consolidated or sub-divided shares were derived;
+
+(iii) the duration shall not be regarded as discontinued by the lending or sale of the shares under any securities lending or repurchase arrangement; and
+
+(iv) regard shall be had to such other matters as may be prescribed;
+
+(e) “shares” includes stocks but does not include shares or stocks of a preferential nature.
+
+[32/99; 24/2000; 24/2001]
+
 ### Shares redemption
 
 10K\.—(1) This section shall apply where a company resident in Singapore redeems from its shareholders any redeemable shares issued after 6th July 1999.
@@ -1973,6 +2089,180 @@ then —
 (b) any reference to redeemable shares in that section shall be construed as a reference to shares or stocks of a preferential nature.
 
 [24/2001]
+
+### Securities lending or repurchase arrangement
+
+10N\.—(1) For the purpose of determining whether an amount, other than any fee payable under a securities lending or repurchase arrangement, should be taken into account in ascertaining the gains or profits from any transfer of securities under the arrangement in respect of which a transferor is chargeable to tax, the transferor is to be treated as if —
+
+(a) the transfer of the transferred securities had not been made;
+
+(b) the transferor had held the transferred securities at all times during the borrowing period; and
+
+(c) the return of the transferred securities or equivalent securities had not been made at the end of the borrowing period.
+
+[37/2002]
+
+(2) Notwithstanding subsection (1), where a transferor is a person who carries on a trade or business of sale and purchase of securities, any gains or profits derived by him from any transfer of securities under a securities lending or repurchase arrangement shall be chargeable to tax under section 10(1)(a) if subsequent to the transfer of the transferred securities —
+
+(a) the transferred securities are redeemed;
+
+(b) the transferee accepts a takeover offer for the transferred securities upon the direction of the transferor;
+
+(c) the arrangement is terminated because the transferor or transferee is unable to perform any of the obligations specified in the arrangement, unless the transferor applies the collateral held by him to re-acquire equivalent securities under the terms of the arrangement;
+
+(d) the transferee sells the transferred securities to the issuer of such securities upon the direction of the transferor; or
+
+(e) any other event occurs which, in the opinion of the Comptroller, results in the condition specified in paragraph (a)(iii) or (iv) of the definition of “securities lending or repurchase arrangement” not fulfilled,
+
+and the gains or profits shall be deemed to arise at the time any of the events referred to in paragraph (a), (b), (c), (d) or (e) occurs.
+
+[37/2002]
+
+(3) Where a transferee is a person who carries on a trade or business of sale and purchase of securities, any gains or profits derived by him from any transfer of securities under a securities lending or repurchase arrangement shall be chargeable to tax under section 10(1)(a), and the gains or profits shall be deemed to arise at the time any of the following events occurs:
+
+(a) the transferee disposes of the transferred securities to a person other than the transferor; and
+
+(b) subsequent to such disposal, the transferee returns equivalent securities to the transferor or any of the events specified in subsection (2) occurs, whichever is the earlier.
+
+[37/2002]
+
+(4) For the purposes of computing the gains or profits of a transferee under subsection (3), the transferee is to be treated as if he had acquired the transferred securities from or returned equivalent securities to the transferor, as the case may be, for a consideration equal to the market value of the transferred securities at the beginning of the borrowing period under the securities lending or repurchase arrangement.
+
+[37/2002]
+
+(5) Where any distribution of dividend or interest in respect of transferred securities is made to a Singapore-based transferee and received by a transferor under a securities lending or repurchase arrangement, the distribution shall be included in the statutory income of the transferor of the year in which the distribution is made to the transferee, and be assessed as if the distribution had been made to the transferor.
+
+[37/2002]
+
+(6) A Singapore-based transferee deriving in respect of transferred securities under a securities lending or repurchase arrangement any dividend from Singapore from which tax has been deducted under section 44 shall —
+
+(a) not be entitled to any set-off under section 46(1) in respect of the dividend;
+
+(b) notify such person within such period as the Comptroller may require that he is a transferee; and
+
+(c) comply with such requirement as the Comptroller may impose.
+
+[37/2002]
+
+(7) A Singapore-based transferee (other than a transferee under a buy and sell back arrangement in respect of qualifying debt securities or foreign debt securities) shall not be entitled to any tax credit under section 50 or 50A for any distribution received by him from outside Singapore in respect of transferred securities under a securities lending or repurchase arrangement.
+
+[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
+
+[37/2002]
+
+(8) Where any compensatory payment derived under a securities lending or repurchase arrangement by a transferor from a Singapore- based transferee is in place of —
+
+(a) any dividend which is exempt from tax or interest which is derived from qualifying debt securities, the transferor shall be assessed at the tax rate that would have been applicable to the dividend or interest, as the case may be, had it been made directly to the transferor;
+
+(b) a distribution of a dividend derived from Singapore from which tax has been deducted under section 44, no set-off under section 46(1) shall be allowed to the transferor; or
+
+(c) a distribution of income derived from outside Singapore and where the transferor is resident in Singapore, no tax credit under section 50 or 50A shall be allowed to the transferor.
+
+[Act 27/2009, wef Y/A 2010 & Sub Ys/A:2009-ACT-27]
+
+[37/2002]
+
+(9) Section 45 shall apply in relation to —
+
+(a) any distribution of interest (other than interest derived from qualifying debt securities) in respect of transferred securities; and
+
+(b) any compensatory payment in place of —
+
+(i) any distribution of income derived from outside Singapore;
+
+(ii) any dividend derived from Singapore from which tax has been deducted under section 44; or
+
+(iii) any interest (other than interest derived from qualifying debt securities),
+
+made under a securities lending or repurchase arrangement by a Singapore-based transferee to a transferor who is not resident in Singapore, as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore, and for the purpose of such application, any reference in that section to interest shall be construed as a reference to such distribution of interest or compensatory payment.
+
+[37/2002]
+
+(10) For the purposes of this section, the Comptroller may specify such requirement and obligation to be observed, and such information in respect of any transferor, transferee or transferred securities to be furnished, by the depository agent of the transferor or transferee.
+
+[37/2002]
+
+(11) The Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
+
+[37/2002]
+
+(12) In this section —
+
+“borrowing period”, in relation to any transferred securities, means the period commencing from the date the securities are transferred by the transferor to the transferee and ending on the date the securities or equivalent securities are returned to the transferor or are regarded as being disposed of by the transferor under subsection (2), whichever is the earlier;
+
+“commercial purpose”, in relation to any securities lending or repurchase arrangement, means —
+
+(a) the settling of a sale of securities, whether by the transferee or another person;
+
+(b) the replacement, in whole or in part, of the transferred securities obtained by the transferee under any earlier securities lending or repurchase arrangement;
+
+(c) the on-lending of the transferred securities to another person;
+
+(d) the fulfillment by the transferee of its existing obligations arising from an uncovered written option position using transferred securities;
+
+(e) the hedging and arbitrage transactions entered into or to be entered into by the transferee;
+
+(f) the liquidity management by the transferee;
+
+(g) the holding of the transferred securities, without being disposed of, as collateral against the obligations of the counterparty to the securities lending or repurchase arrangement; or
+
+(h) any other purpose as the Minister (or such person as the Minister may appoint) may in writing allow;
+
+“compensatory payment”, in relation to any transferred securities, means a payment made during the borrowing period to a transferor in place of any distribution of interest, dividend or right to purchase warrants, options or additional securities in respect of the transferred securities under circumstances in which the transferee does not receive such distribution to be passed on to the transferor, and includes any amount which is in place of interest and is deducted from the price paid by the transferor to acquire equivalent securities or re-acquire the transferred securities under a buy and sell back arrangement in respect of qualifying debt securities, Singapore Government securities or foreign debt securities;
+
+“equivalent securities”, in relation to any transferred securities, means securities which are identical in type, nominal value (where applicable), description and amount to the transferred securities and includes —
+
+(a) the securities into which the transferred securities have been converted, sub-divided or consolidated;
+
+(b) the proceeds of the redemption of the transferred securities;
+
+(c) the cash or securities representing the proceeds of the acceptance of the takeover of the transferred securities;
+
+(d) if there is a call on partly-paid securities and if the transferor has paid to the transferee the sum due on the call, the paid-up securities;
+
+(e) if there is a bonus issue, the transferred securities together with the securities allotted by way of bonus;
+
+(f) if there is a rights issue and if the transferor has directed the transferee to take up the issue and has paid to the transferee any sum due on the issue, the transferred securities together with the securities allotted under the rights issue or, if the transferor has directed the transferee to sell the rights, the transferred securities together with the proceeds from the disposal of the rights;
+
+(g) if any distribution is made in the form of securities or a certificate which may be exchanged for securities or an entitlement to acquire securities, the transferred securities together with the securities or certificate or entitlement equivalent to those allotted; and
+
+(h) if the transferee is unable to return the transferred securities, such amount of money or securities equivalent to the transferred securities;
+
+“foreign debt securities” means securities, other than stocks and shares, denominated in any foreign currency (including bonds and notes) issued by foreign governments, foreign banks outside Singapore and companies not incorporated and not resident in Singapore;
+
+“qualifying debt securities” has the same meaning as in section 13(16);
+
+“securities” includes any collateral that is provided in the form of securities but does not include stocks and shares of any company resident in Singapore which are not listed on any stock exchange in Singapore or elsewhere;
+
+“securities lending or repurchase arrangement” means any written arrangement made on or after 23rd November 2001 —
+
+(a) under which —
+
+(i) a person (referred to in this section as transferor) transfers the legal interest in any securities (referred to in this section as transferred securities) to another person (referred to in this section as transferee) for any commercial purpose;
+
+(ii) the transferor re-acquires the transferred securities or acquires equivalent securities from the transferee at a later time;
+
+(iii) the transferor retains the risk of loss or opportunity for gain in respect of the transferred securities;
+
+(iv) the transferor does not dispose of (by transfer, declaration of trust or otherwise) the right to receive any part of the total consideration payable or to be given by the transferee under the arrangement; and
+
+(v) if any distribution is made in respect of the transferred securities during the borrowing period, the transferor receives from the transferee the distribution or compensatory payment equal to the value of the distribution; and
+
+(b) where —
+
+(i) the transferor and transferee are dealing with each other at arm’s length; and
+
+(ii) the transferor or transferee or both of them do not enter into the arrangement with the purpose, or main purpose, of avoiding, reducing or deferring any tax chargeable under this Act;
+
+“Singapore-based transferee” means a transferee who is resident in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which is a permanent establishment in Singapore;
+
+“Singapore Government securities” and “debt securities” have the same meanings as in section 43N.
+
+[37/2002; 34/2005]
+
+(13) This section has effect notwithstanding anything to the contrary in this Act, except that nothing in this section shall affect the chargeability to tax of any income of a transferor or transferee under section 10 unless otherwise provided in this section.
+
+[37/2002]
 
 ### Ascertainment of income of clubs, trade associations, etc.
 
@@ -4739,6 +5029,268 @@ whichever is the earlier;
 
 DEDUCTIONS AGAINST INCOME
 
+### Deductions allowed
+
+14\.—(1) For the purpose of ascertaining the income of any person for any period from any source chargeable with tax under this Act (referred to in this Part as the income), there shall be deducted all outgoings and expenses wholly and exclusively incurred during that period by that person in the production of the income, including —
+
+(a) except as provided in this section —
+
+(i) any sum payable by way of interest; and
+
+(ii) any sum payable in lieu of interest or for the reduction thereof, as may be prescribed by regulations (including the restriction of the deduction of the sum in respect of money borrowed before the basis period relating to the year of assessment 2008),
+
+upon any money borrowed by that person where the Comptroller is satisfied that such sum is payable on capital employed in acquiring the income;
+
+(b) rent payable by any person in respect of any land or building or part thereof occupied by him for the purpose of acquiring the income;
+
+(c) any expenses incurred for repair of premises, plant, machinery or fixtures employed in acquiring the income or for the renewal, repair or alteration of any implement, utensil or article so employed:
+
+Provided that no deduction shall be made for the cost of renewal of any plant, machinery or fixture, which is the subject of an allowance under section 19 or 19A; or for the cost of reconstruction or rebuilding of any premises, buildings, structures or works of a permanent nature;
+
+(d) bad debts incurred in any trade, business, profession or vocation, which have become bad during the period for which the income is being ascertained, and doubtful debts to the extent that they are respectively estimated, to the satisfaction of the Comptroller, to have become bad during that period, notwithstanding that those bad or doubtful debts were due and payable before the commencement of that period:
+
+Provided that —
+
+(i) all sums recovered during that period on account of amounts previously written off or allowed in respect of bad or doubtful debts, other than debts incurred before the commencement of the basis period for the first year of assessment under this Act, shall for the purposes of this Act be treated as receipts of the trade, business, profession or vocation for that period;
+
+(ii) the debts in respect of which a deduction is claimed were included as a trading receipt in the income of the year within which they were incurred;
+
+(e) any sum contributed by an employer to an approved pension or provident fund or society or any pension or provident fund constituted outside Singapore in respect of any of his employees engaged in activities relating to the production of the income of the employer, the contribution of which sum by the employer was obligatory by reason of any contract of employment or of any provision in the rules or constitution of the fund or society:
+
+Provided that in the case of any contribution to the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8) —
+
+(i) a deduction in respect of any such contribution by an employer in respect of an employee for any period —
+
+(A) commencing on or after 1st July 1993 and before 1st July 1994 shall not exceed 181/
+
+2
+
+%;
+
+(B) commencing on or after 1st July 1994 and before 1st January 1999 shall not exceed 20%;
+
+(C) commencing on or after 1st January 1999 and before 1st April 2000 shall not exceed 10%;
+
+(D) commencing on or after 1st April 2000 and before 1st January 2001 shall not exceed 12%;
+
+(E) commencing on or after 1st January 2001 shall not exceed 16%;
+
+(F) commencing on or after 1st October 2003 shall not exceed 13%;
+
+(G) commencing on or after 1st July 2007 shall not exceed 141/
+
+2
+
+%;
+
+[29/2010 wef 22/11/2010]
+
+(H) commencing on or after 1st September 2010 shall not exceed 15%;
+
+(I) commencing on or after 1st March 2011 shall not exceed 15%,
+
+of the remuneration paid by the employer to the employee for that period, and “remuneration” in this proviso means that part of an employee’s emoluments by reference to which his employer’s contributions are calculated;
+
+(ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
+
+(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore:
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+ And provided that no deduction shall be allowed in respect of any contribution or part thereof to a pension or provident fund constituted outside Singapore made in respect of an employee, if the employee has been exempted from tax on such contribution or part thereof under section 13N;
+
+(f) any sum contributed by an employer in any calendar year to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C(4), subject to a maximum deduction of $1,500 for that year for each employee:
+
+Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
+
+(g) zakat, fitrah or any religious dues, payment of which is made under any written law;
+
+(h) where the income is derived from the working of a mine or other source of mineral deposits of a wasting nature, such deductions in respect of capital expenditure as may be prescribed in rules made under section 7.
+
+[37/75; 7/79; 28/80; 5/83; 7/85; 31/86; 1/90; 23/90; 2/92; 26/93; 11/94; 32/95; 1/98; 32/99; 24/2001; 21/2003; 49/2004; 30/2007; 53/2007]
+
+(2) Notwithstanding subsection (1), payments made by way of compensation for injuries or death, salaries, wages or similar emoluments or death gratuities to an employee (or his legal representative) who is the husband, wife or child of —
+
+(a) any employer;
+
+(b) any partner of the firm in which that employee is employed;
+
+(c) any individual who by himself or with his spouse or child or all of them have the ability to control, directly or indirectly, the company in which that employee is employed; or
+
+(d) any individual whose spouse or child or all of them have the ability to control, directly or indirectly, the company in which that employee is employed,
+
+shall be allowed as deductions only to the extent to which, in the opinion of the Comptroller, they are reasonable in amount having regard to the services performed by that employee.
+
+[26/93]
+
+(3) Notwithstanding subsection (1), where outgoings and expenses falling within that subsection are incurred, whether directly or in the form of reimbursements, in respect of a motor car (whether or not owned by the person incurring the outgoings and expenses) to which this subsection applies, the sum to be allowed as a deduction shall be limited to the amount which bears to such outgoings and expenses the same proportion as $35,000 bear to the capital expenditure incurred by the owner in respect of the motor car, where such capital expenditure exceeds $35,000.
+
+[7/79]
+
+(3A) Any deduction for the cost of renewal of a motor car to which subsection (3) applies shall not exceed $35,000.
+
+(4) Subsections (3) and (3A) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers exclusive of the driver and the weight of which unladen does not exceed 3,000 kilograms and which —
+
+(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) but excludes such a motor car which is —
+
+(i) used principally for instructional purposes; and
+
+(ii) acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under that Act; or
+
+(b) is registered outside Singapore and used exclusively outside Singapore.
+
+[32/99]
+
+(5) Notwithstanding subsection (1), where, in the basis period for any year of assessment, any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86)) incurs medical expenses falling within that subsection in excess of the maximum allowable amount in that basis period, the amount of the excess medical expenses shall not be allowed as deductions.
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+[26/93; 34/2005]
+
+(6) Where, in the basis period for any year of assessment, any employer derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act and incurs medical expenses in excess of the maximum allowable amount in that basis period, an amount equal to the excess medical expenses shall be deemed to be income of the employer chargeable to tax at the rate of tax under section 42(1) or 43(1), as the case may be, for that year of assessment.
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+[26/93; 34/2005]
+
+(6A) For the purpose of subsections (5) and (6), the maximum allowable amount in the basis period for any year of assessment shall be —
+
+(a) 2% of the total remuneration of the employer’s employees in that basis period in a case where the employer has —
+
+(i) contributed the specified amount into the medisave accounts maintained under the Central Provident Fund of —
+
+(A) at least 20% of the number of local employees who are employed by him as at the first day of the basis period for that year of assessment, for every calendar month in that basis period they are employed by the employer; and
+
+(B) every local employee who commences his employment with him during the basis period for that year of assessment, for the calendar month he commences his employment and every subsequent calendar month in that basis period he is employed by the employer; or
+
+(ii) incurred expenses in or in connection with the provision of a specified insurance plan to cover, for every calendar month in the basis period for that year of assessment, the cost of medical treatment of at least 50% of the number of local employees who are employed by him as at the first day of that basis period; and
+
+(b) in any other case, the amount determined in accordance with the formula in subsection (6B).
+
+(6B) For the purpose of subsection (6A)(b), the maximum allowable amount in any basis period shall be ascertained —
+
+(a) where the total amount of expenses incurred by the employer in providing qualifying insurance in that basis period is nil, in accordance with the formula
+
+where A
+
+is the lower of —
+
+(i)
+
+the total amount of medical expenses incurred by the employer for his employees in that basis period (excluding the total amount of general contributions made by the employer); and
+
+(ii)
+
+1% of the total remuneration of his employees in that basis period; and
+
+B
+
+is the lower of —
+
+(i)
+
+the total amount of general contributions made by the employer in that basis period; and
+
+(ii)
+
+the difference between 2% of the total remuneration of his employees in that basis period and A; and
+
+(b) where the total amount of expenses incurred by the employer in providing qualifying insurance in that basis period is not nil, in accordance with the formula
+
+where C
+
+is the lower of —
+
+(i)
+
+the total amount of expenses incurred by the employer in providing riders for his employees in that basis period; and
+
+(ii)
+
+1% of the total remuneration of his employees in that basis period; and
+
+D
+
+is the lower of —
+
+(i)
+
+the total amount of medical expenses incurred by the employer for his employees in that basis period (excluding the total amount of expenses incurred by the employer in providing riders for his employees); and
+
+(ii)
+
+the difference between 2% of the total remuneration of his employees in that basis period and C.
+
+(6C) For the purpose of subsection (6B), a reference to expenses incurred by an employer in providing qualifying insurance excludes any reimbursement in cash by the employer of the employee for payment by the employee of premiums on such qualifying insurance.
+
+(7) The references to medical expenses in subsections (5), (6) and (6B) shall be read as references to medical expenses which would, but for subsection (5), be allowable as deductions under this Act.
+
+[Act 34/2008, wef Y/A 2008 & Sub Ys/A:2008-ACT-34]
+
+[26/93]
+
+(8) In this section —
+
+“co-payment” means the part of the amount of any claim, after deducting the deductible, which a person insured under the MediShield Scheme or an integrated medical insurance plan has to bear under the Scheme or plan;
+
+“deductible” means the amount of any claim which a person insured under the MediShield Scheme or an integrated medical insurance plan has to bear before the insurer becomes liable to make payment under the Scheme or plan;
+
+“general contribution” means any contribution falling within subsection (1)(f) which is not —
+
+(a) a contribution falling within subsection (6A)(a)(i); or
+
+(b) a sum paid by an employer to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees as reimbursement of the employee for premiums paid or payable by the employee on a qualifying insurance;
+
+“gross rate of pay” has the same meaning as in section 2 of the Employment Act (Cap. 91);
+
+“integrated medical insurance plan” has the same meaning as in the regulations made under section 77(1)(k) of the Central Provident Fund Act (Cap. 36);
+
+“local employee” means a full-time or part-time employee who is a citizen or permanent resident of Singapore;
+
+“medical expenses” means expenses incurred in or in connection with the provision of medical treatment and includes —
+
+(a) expenses incurred in or in connection with the provision of maternity health care, natal care, and preventive and therapeutic treatment;
+
+(b) expenses incurred in or in connection with the provision of a medical clinic by the employer;
+
+(c) cash allowance in lieu of medical expenses;
+
+(d) expenses incurred in or in connection with the provision of insurance against the cost of medical treatment; and
+
+(e) contributions which are deductible under subsection (1)(f);
+
+“medical treatment” includes all forms of treatment for, and procedures for diagnosing, any physical or mental ailment, infirmity or defect;
+
+“MediShield Scheme” means the MediShield Scheme established and maintained under section 53 of the Central Provident Fund Act;
+
+“part-time employee” has the same meaning as in section 66A of the Employment Act;
+
+“qualifying insurance”, in relation to any basis period of an employer, means medical insurance under the MediShield Scheme or an integrated medical insurance plan that is provided by an employer to employees to cover the cost of medical treatment of —
+
+(a) at least 20% of the number of local employees who are employed by the employer as at the first day of the basis period; and
+
+(b) every local employee who commences his employment with the employer during the basis period,
+
+for every calendar month or part thereof in the basis period that the employees are employed by the employer;
+
+“remuneration” means any wage, salary, leave pay, fee, commission, bonus, gratuity, allowance, other emoluments paid in cash by or on behalf of an employer and contributions to any approved pension or provident fund by any employer which are allowable as deductions under this Act, but does not include any director’s fee, medical expense, cash allowance in lieu of medical expenses and benefit-in-kind;
+
+“rider” means any insurance under which the insurer of the rider is liable to pay in full or in part the deductible or co-payment relating to the MediShield Scheme or an integrated medical insurance plan;
+
+“specified amount”, in relation to any calendar month, means —
+
+(a) in the case of a full-time employee who falls under subsection (6A)(a)(i), an amount equal to at least 1% of the employee’s gross rate of pay for the calendar month, subject to a minimum contribution of $16 per calendar month;
+
+(b) in the case of a part-time employee who falls under subsection (6A)(a)(i), an amount equal to at least 1% of the employee’s gross rate of pay for the calendar month;
+
+“specified insurance plan” means a medical insurance plan sponsored by an employer that —
+
+(a) confers hospitalisation benefits during the period of employment of an employee and up to a period of 12 months immediately after the employee leaves his employment for any reason; and
+
+(b) treats the employee as being continuously insured when he is employed by another employer who provides him with an insurance plan that confers the hospitalisation benefits described in paragraph (a).
+
+[26/93; 32/95; 34/2005]
+
 ### Deduction for costs for protecting intellectual property
 
 14A\.—(1) Subject to this section, where a person carrying on a trade or business has incurred —
@@ -7451,7 +8003,7 @@ the following provisions shall apply:
 
 (c) the company permanently ceases to carry on the trade or business,
 
-no writing-down allowance in respect of the intellectual property rights shall be made to that company for the year of assessment relating to the basis period in which the event occurs or for any subsequent year of assessment, and , where (on the occurrence of the event referred to in paragraph (b)) the price at which the rights were sold, transferred or assigned exceeds the amount of the writing-down allowances yet to be allowed on the date of the event, there shall be made on the company for the year of assessment relating to the basis period in which the event occurs a charge of an amount equal to the lower of —
+no writing-down allowance in respect of the intellectual property rights shall be made to that company for the year of assessment relating to the basis period in which the event occurs or for any subsequent year of assessment, and, where (on the occurrence of the event referred to in paragraph (b)) the price at which the rights were sold, transferred or assigned exceeds the amount of the writing-down allowances yet to be allowed on the date of the event, there shall be made on the company for the year of assessment relating to the basis period in which the event occurs a charge of an amount equal to the lower of —
 
 (i) the excess; and
 
@@ -7547,7 +8099,7 @@ is the total amount of any charges made under this section in any previous years
 
 “capital expenditure” does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any intellectual property rights;
 
-“intellectual property rights” means the right to do or authorise the doing of anything which would, but for that right, be an infringement of any patent, copyright, trademark, registered design, geographical indication, lay-out design of integrated circuit, trade secret or information that has commercial value, or the grant of protection of a plant variety;
+“intellectual property rights” means the right to do or authorise the doing of anything which would, but for that right, be an infringement of any patent, copyright, trademark, registered design, geographical indication, lay-out design of integrated circuit, trade secret or information that has commercial value, or the grant of protection of a plant variety ;
 
 [34/2008 wef 16/12/2008]
 
@@ -7995,6 +8547,8 @@ is the total amount payable in respect of the share.
 
 [34/2005]
 
+25\. [Spent]
+
 ## PART VII
 
 ASCERTAINMENT OF CERTAIN INCOME
@@ -8097,9 +8651,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [28/92; 7/2007]
 
-(8) In ascertaining the gains or profits of a life insurer whether mutual or proprietary —
+(8) In ascertaining the gains or profits of a life insurer whether mutual or proprietary –
 
-(a) the Comptroller shall determine the manner and extent to which —
+(a) the Comptroller shall determine the manner and extent to which –
 
 (i) any allowances under section 19, 19A, 20, 21, 22 or 23 and expenses and donations allowable under this Act are to be deducted; and
 
@@ -8227,7 +8781,7 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 “policy moneys” has the same meaning as in the Insurance Act;
 
-“Singapore life policy” means a life policy as described in the definition of “Singapore policy” in the Insurance Act;
+“Singapore life policy” means a life policy as described in the definition of “Singapore policy” in the Insurance Act ;
 
 [Act 27/2009, wef Y/A 2006 & Sub Ys/A:2009-ACT-27]
 
@@ -13453,6 +14007,22 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 [37/2002]
 
+### Application of section 45 to income from profession or vocation carried on by non-resident individual, etc.
+
+45F\.—(1) Subject to subsection (2), section 45 shall apply in relation to the payment of any income accruing in or derived from Singapore on or after 3rd May 2002 from —
+
+(a) any profession or vocation (other than that derived by any public entertainer as defined in section 40A) by any person to any individual referred to in section 43(4)(a) not known to him to be resident in Singapore; or
+
+(b) any profession or vocation by any person to any foreign firm referred to in section 43(4)(b),
+
+as section 45 applies to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in that section to interest shall be construed as a reference to such payment.
+
+[37/2002]
+
+(2) For the purpose of this section, the deduction of tax under section 45 shall be at the rate of 15%.
+
+[37/2002]
+
 ### Application of section 45 to distribution from any real estate investment trust
 
 45G\.—(1) Subject to subsections (2) and (3) and such conditions as the Comptroller may impose, section 45 shall apply in relation to any distribution (except distribution out of Singapore dividends from which tax is deducted or deductible under section 44) made on or after 18th February 2005 by a trustee of any real estate investment trust —
@@ -13958,6 +14528,32 @@ then the public officer shall, notwithstanding any other written law, contract o
 ## PART XVI
 
 RETURNS
+
+### Notice of chargeability and returns
+
+62\.—(1) The Comptroller may, by notice published in theGazette, require every person to furnish to the Comptroller in such form and manner as the Comptroller may determine, within a reasonable time specified in the notice or such extended time as the Comptroller may allow, a return of income for the year of assessment specified in the notice and such particulars as may be required for the purpose of ascertaining the income, if any, for which —
+
+(a) the person is chargeable under this Act; and
+
+(b) in the case of a precedent partner or such other person referred to in section 71, each partner in the partnership is chargeable.
+
+[49/2004]
+
+(2) The Comptroller may, in any notice made under subsection (1), exempt from liability to furnish returns such classes of persons as he thinks fit, and any person so exempted need not furnish a return under that subsection unless he is required by the Comptroller to do so under subsection (3).
+
+[Act 34/2008, wef Y/A 2009 & Sub Ys/A:2008-ACT-34]
+
+[2/92]
+
+(3) Notwithstanding subsection (1), the Comptroller may, by notice in writing, require any person to furnish to the Comptroller in such form and manner and within such reasonable time as the Comptroller may determine, with a return of income and such particulars as may be required for the purpose of ascertaining the income, if any, for which such person is chargeable under this Act.
+
+[2/92; 49/2004]
+
+(4) Every person chargeable with tax for any year of assessment who has not been required within 3 months after the commencement of such year of assessment to make a return of his income for that year as provided in subsection (1) or (3) shall, within 14 days after the end of that period, give notice to the Comptroller that he is so chargeable.
+
+[2/92]
+
+(5) Any individual who arrives in Singapore during any year of assessment shall give such notice within one month of the date of his arrival.
 
 ### The basic rule: Singapore dollar to be used
 
@@ -14512,6 +15108,64 @@ APPEALS
 (e) prescribing a scale of costs in respect of appeals to the Board; and
 
 (f) generally for the better carrying out of the provisions of this Part.
+
+### Right of appeal
+
+79\.—(1) Any person who, being aggrieved by an assessment made upon him, has failed to agree with the Comptroller in the manner provided in section 76(6) may appeal to the Board by lodging with the secretary —
+
+(a) within 7 days from the date of the refusal of the Comptroller to amend the assessment as desired, a written notice of appeal in duplicate; and
+
+(b) within 30 days of the date on which such notice of appeal was lodged, a petition of appeal in quadruplicate containing a statement of the grounds of appeal.
+
+[53/2007]
+
+(2) A notice of appeal shall contain —
+
+(a) an address for service;
+
+(b) a list of the names of any members of the Board to whom the appellant objects; and
+
+(c) the reasons for such objection.
+
+[49/2004]
+
+(3) An appellant shall not be entitled to object to the Chairman or any Deputy Chairman of the Board and to more than one-third of the total number of members of the Board.
+
+[49/2004]
+
+(4) On receipt of a notice of appeal, the secretary shall immediately forward one copy thereof to the Comptroller who may, within 3 days of the receipt of such copy, lodge with the secretary a list of any members of the Board to whom he objects and the reasons for such objection.
+
+[7/79; 49/2004; 53/2007]
+
+(5) The Comptroller shall not be entitled to object to the Chairman or any Deputy Chairman of the Board and the number of members of the Board objected to by the Comptroller shall not, when added to the number objected to by the appellant, exceed one-half of the total number of members of the Board.
+
+[49/2004]
+
+(6) The Chairman of the Board, or such Deputy Chairman of the Board as the Chairman may authorise, shall determine whether the reason for any objection to any member under subsection (2) or (4) is valid.
+
+[49/2004]
+
+(7) Where the Chairman of the Board or a Deputy Chairman of the Board determines under subsection (6) that the reason for any objection is valid, the member of the Board in respect of whom the objection was made shall not attend the hearing of the appeal of the appellant.
+
+[49/2004]
+
+(8) Where the Chairman of the Board or a Deputy Chairman of the Board determines under subsection (6) that the reason for any objection is not valid, the Chairman or Deputy Chairman shall reject that objection and inform the appellant or the Comptroller accordingly.
+
+[49/2004]
+
+(9) Where an objection has been rejected by the Chairman of the Board or a Deputy Chairman of the Board under subsection (8), the member of the Board in respect of whom that objection was made may attend the hearing of the appeal of the appellant.
+
+[49/2004]
+
+(10) The decision of the Chairman of the Board or a Deputy Chairman of the Board under subsection (6) shall be final.
+
+[49/2004]
+
+(11) The Chairman of the Board may, in his discretion and on such terms as he thinks fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal or petition of appeal was not lodged within the time limited therefor by this section, if it is shown to the satisfaction of the Chairman that the person was prevented from lodging the notice or petition in due time owing to absence, sickness or other reasonable cause and that there has been no unreasonable delay on his part.
+
+[49/2004]
+
+(12) Except with the consent of the Board and on such terms as the Board may determine, an appellant may not at the hearing of his appeal rely on any grounds of appeal other than the grounds stated in his petition of appeal.
 
 ### Hearing and disposal of appeals
 
@@ -15639,7 +16293,7 @@ $320,000
 
 Part B
 
-[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009.]
+[Deleted by Act 27/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009 wef 29/12/2009.]
 
 Part C
 
@@ -17253,6 +17907,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|19 February 2011 (Section 37)|
+|273.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|15 September 2010|
+|||(Bill No. 23/2010 published on 15 September 2010)|
+||Date of Second and Third Readings|18 October 2010|
+||Date of commencement|1 March 2011 (Sections 7(b), (c), 44(b), 45(b), 46(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
