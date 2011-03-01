@@ -4090,8 +4090,6 @@ the court before which the conviction is had may, in addition to the fine prescr
 
 (4) On an accused person appearing before a court in pursuance of such a notice, the court shall proceed as though he were produced before the court in pursuance of section 153 of the Criminal Procedure Code 2010.
 
-[15/2010 wef 02/01/2011]
-
 (5) If a person, upon whom such a notice has been served, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless that person has before that date been permitted to compound the offence.
 
 [30/98]
@@ -4175,8 +4173,6 @@ the court before which the conviction is had may, in addition to the fine prescr
 ### Conduct of prosecutions
 
 67\. Proceedings in respect of any offence under the provisions of this Act may, with the authorisation of the Public Prosecutor, be conducted by any officer authorised in writing in that behalf by the Chairman of the Board.
-
-[15/2010 wef 02/01/2011]
 
 ## PART VIII
 
@@ -4500,17 +4496,15 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st September 2010, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1\. Subject to paragraphs 1A to 7, with effect from 1st March 2011, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-(a) where the employee is not more than 55 years of age:
+1.—(a) where the employee is not more than 55 years of age:
 
 35 Years of Age and below
 
-Above 35 but not more than
-50 Years of Age
+Above 35 but not more than 50 Years of Age
 
-Above 50 but not more than
-55 Years of Age
+Above 50 but not more than 55 Years of Age
 
 Total amount of the employee’s wages for the calendar month.
 
@@ -4542,15 +4536,15 @@ Amount recoverable from the employee’s wages for the calendar month.
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 15% of the total amount of the employee’s wages for the month.
+An amount equal to 15.5% of the total amount of the employee’s wages for the month.
 
 NIL
 
-An amount equal to 0.0997 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.103 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 0.0730 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0763 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
@@ -4568,11 +4562,11 @@ An amount equal to the sum of —
 
 An amount equal to 0.432 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 15% of the total amount of the employee’s wages for the month; and
+(a) 15.5% of the total amount of the employee’s wages for the month; and
 
-(a) 0.0997 of the difference between the total amount of the employee’s wages for the month and $50; and
+(a) 0.103 of the difference between the total amount of the employee’s wages for the month and $50; and
 
-(a) 0.0730 of the difference between the total amount of the employee’s wages for the month and $50; and
+(a) 0.0763 of the difference between the total amount of the employee’s wages for the month and $50; and
 
 (b) 0.48 of the difference between the total amount of the employee’s wages for the month and $500.
 
@@ -4594,11 +4588,11 @@ An amount equal to the sum of —
 
 An amount equal to the sum of $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 15% of the total amount of the employee’s wages for the month; and
+(a) 15.5% of the total amount of the employee’s wages for the month; and
 
-(a) $69.825 and 0.2035 of the difference between the total amount of the employee’s wages for the month and $750; and
+(a) $72.15 and 0.2103 of the difference between the total amount of the employee’s wages for the month and $750; and
 
-(a) $51.15 and 0.1378 of the difference between the total amount of the employee’s wages for the month and $750; and
+(a) $53.475 and 0.1441 of the difference between the total amount of the employee’s wages for the month and $750; and
 
 (b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
@@ -4620,11 +4614,11 @@ An amount equal to the sum of —
 
 An amount equal to the sum of $108 and 0.216 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) 15% of the total amount of the employee’s wages for the month; and
+(a) 15.5% of the total amount of the employee’s wages for the month; and
 
-(a) $161.40 and 0.212 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(a) $166.80 and 0.219 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
-(a) $113.16 and 0.1728 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(a) $118.32 and 0.1806 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
 (b) $120 and 0.24 of the difference between the total amount of the employee’s wages for the month and $750.
 
@@ -4646,37 +4640,37 @@ An amount equal to the sum of —
 
 An amount equal to the sum of —
 
-(a) 35% of the employee’s ordinary wages for the month subject to a maximum of $1,575; and
+(a) 35.5% of the employee’s ordinary wages for the month subject to a maximum of $1,597.50; and
 
 (a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
 
-(a) 35% of the employee’s ordinary wages for the month subject to a maximum of $1,575; and
+(a) 35.5% of the employee’s ordinary wages for the month subject to a maximum of $1,597.50; and
 
 (a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
 
-(a) 29% of the employee’s ordinary wages for the month subject to a maximum of $1,305; and
+(a) 29.5% of the employee’s ordinary wages for the month subject to a maximum of $1,327.50; and
 
 (a) 18% of the employee’s ordinary wages for the month subject to a maximum of $810; and
 
-(b) 35% of the amount of the additional wages payable to the employee in the month.
+(b) 35.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 20% of the amount of the additional wages payable to the employee in the month.
 
-(b) 35% of the amount of the additional wages payable to the employee in the month.
+(b) 35.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 20% of the amount of the additional wages payable to the employee in the month.
 
-(b) 29% of the amount of the additional wages payable to the employee in the month.
+(b) 29.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 18% of the amount of the additional wages payable to the employee in the month.
 
-(b) where the employee is above 55 years of age:
+(b)
 
-Above 55 but not more than
-60 Years of Age
+where the employee is above 55 years of age:
 
-Above 60 but not more than
-65 Years of Age
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
 
 Above 65 Years of Age
 
@@ -4710,15 +4704,15 @@ Amount recoverable from the employee’s wages for the calendar month.
 
 Exceeding $50 but not exceeding $500
 
-An amount equal to 0.0531 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0564 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 0.0365 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
-An amount equal to 0.0365 of the difference between the total amount of the employee’s wages for the month and $50.
+An amount equal to 0.0398 of the difference between the total amount of the employee’s wages for the month and $50.
 
 NIL
 
@@ -4736,11 +4730,11 @@ An amount equal to the sum of —
 
 An amount equal to 0.12 of the difference between the total amount of the employee’s wages for the month and $500.
 
-(a) 0.0531 of the difference between the total amount of the employee’s wages for the month and $50; and
+(a) 0.0564 of the difference between the total amount of the employee’s wages for the month and $50; and
 
-(a) 0.0365 of the difference between the total amount of the employee’s wages for the month and $50; and
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
 
-(a) 0.0365 of the difference between the total amount of the employee’s wages for the month and $50; and
+(a) 0.0398 of the difference between the total amount of the employee’s wages for the month and $50; and
 
 (b) 0.3 of the difference between the total amount of the employee’s wages for the month and $500.
 
@@ -4762,11 +4756,11 @@ An amount equal to the sum of —
 
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $37.20 and 0.088 of the difference between the total amount of the employee’s wages for the month and $750; and
+(a) $39.525 and 0.0935 of the difference between the total amount of the employee’s wages for the month and $750; and
 
-(a) $25.575 and 0.0458 of the difference between the total amount of the employee’s wages for the month and $750; and
+(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
 
-(a) $25.575 and 0.0458 of the difference between the total amount of the employee’s wages for the month and $750; and
+(a) $27.90 and 0.05 of the difference between the total amount of the employee’s wages for the month and $750; and
 
 (b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
@@ -4788,11 +4782,11 @@ An amount equal to the sum of —
 
 An amount equal to the sum of $30 and 0.06 of the difference between the total amount of the employee’s wages for the month and $750.
 
-(a) $76.80 and 0.144 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(a) $81.60 and 0.153 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
-(a) $46.20 and 0.121 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
-(a) $46.20 and 0.121 of the difference between the total amount of the employee’s wages for the month and $1,200; and
+(a) $50.40 and 0.132 of the difference between the total amount of the employee’s wages for the month and $1,200; and
 
 (b) $75 and 0.15 of the difference between the total amount of the employee’s wages for the month and $750.
 
@@ -4814,29 +4808,31 @@ An amount equal to the sum of —
 
 An amount equal to the sum of —
 
-(a) 20.5% of the employee’s ordinary wages for the month subject to a maximum of $922.50; and
+(a) 21% of the employee’s ordinary wages for the month subject to a maximum of $945; and
 
 (a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
 
-(a) 13% of the employee’s ordinary wages for the month subject to a maximum of $585; and
+(a) 13.5% of the employee’s ordinary wages for the month subject to a maximum of $607.50; and
 
 (a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
 
-(a) 10.5% of the employee’s ordinary wages for the month subject to a maximum of $472.50; and
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
 
 (a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
 
-(b) 20.5% of the amount of the additional wages payable to the employee in the month.
+(b) 21% of the amount of the additional wages payable to the employee in the month.
 
 (b) 12.5% of the amount of the additional wages payable to the employee in the month.
 
-(b) 13% of the amount of the additional wages payable to the employee in the month.
+(b) 13.5% of the amount of the additional wages payable to the employee in the month.
 
 (b) 7.5% of the amount of the additional wages payable to the employee in the month.
 
-(b) 10.5% of the amount of the additional wages payable to the employee in the month.
+(b) 11% of the amount of the additional wages payable to the employee in the month.
 
 (b) 5% of the amount of the additional wages payable to the employee in the month.
+
+[S 107/2011 wef 01/03/2011]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -6240,9 +6236,25 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (d) “additional wages” means any remuneration other than ordinary wages;
 
+(da) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
+
+[S 107/2011 wef 01/03/2011]
+
+(db) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
+
+[S 107/2011 wef 01/03/2011]
+
 (e) “ordinary wages for the month” means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
 
 (ea) “relevant time” means the end of the current year or the last month of the employee’s employment with that employer, as the case may be;
+
+(eb) “permanent resident” means a person who holds a valid entry permit or re-entry permit issued by the Controller of Immigration under the Immigration Act (Cap. 133);
+
+[S 107/2011 wef 01/03/2011]
+
+(ec) “second anniversary month”, in relation to an employee who becomes a permanent resident, means the calendar month in which the second anniversary of the day the employee becomes a permanent resident falls;
+
+[S 107/2011 wef 01/03/2011]
 
 (f) “total amount of employee’s wages for the calendar month” means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
 
@@ -6252,7 +6264,9 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 6. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following:
 
-(1) The managers of any aided school.
+(1) The managers of any aided school other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations (Cap. 87, Rg 3).
+
+[S 107/2011 wef 01/03/2011]
 
 (2) Accounting and Corporate Regulatory Authority.
 
@@ -6396,15 +6410,19 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (70) Urban Redevelopment Authority.
 
-7. Contributions shall be payable for and recoverable from the wages of such employees who are —
+7\. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
-(a) pensionable employees at the rates prescribed for pensionable employees of the Government;
+7.
 
-(b) non-pensionable employees at the rates prescribed for non-pensionable employees of the Government;
+(a) employees of the Government;
 
-(c) employees of a statutory body or persons employed in an aided school by the manager of the school at the rates prescribed in the Central Provident Fund (Statutory Bodies and Aided Schools — Employees) Regulations 2002 (G.N. No. S 520/2002); and
+(b) employees of a statutory body; and
 
-(d) employees who are permanent residents and who do not fall under sub-paragraph (a), (b) or (c), at the rates prescribed in the Central Provident Fund (Permanent Residents — Employees) Regulations 2002 (G.N. No. S 521/2002).
+(c) persons employed in an aided school by the managers of the school, other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations (Cap. 87, Rg 3),
+
+at the rates prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011 (G.N. No. S 106/2011).
+
+[S 107/2011 wef 01/03/2011]
 
 SECOND SCHEDULE
 
@@ -7233,6 +7251,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|176.|**G.N. No. S 107/2011—Central Provident Fund Act (Amendment of First Schedule) Notification 2011**|
+||Date of commencement|1 March 2011|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
