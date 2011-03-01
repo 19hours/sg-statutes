@@ -1156,13 +1156,9 @@ Qualified persons
 
 (2) Subject to any necessary modification to conform to the religious beliefs of the applicant for admission, the declaration shall be in the following form:
 
-“
-
 I, A.B., do solemnly and sincerely declare (and swear) that I will truly and honestly conduct myself in the practice of an advocate and solicitor according to the best of my knowledge and ability and according to law.
 
 (So help me God.)
-
-”.
 
 [42/2005]
 
@@ -1662,7 +1658,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (b) the Public Trustee, the Official Assignee, Assistant Public Trustees and Assistant Official Assignees to appear and plead in those courts under any of the provisions of any law relating to those offices; and
 
-(c) the Director of Legal Aid and Assistant Directors of Legal Aid to appear and plead in those courts under the provisions of the Legal Aid and Advice Act (Cap. 160) .
+(c) the Director of Legal Aid and Assistant Directors of Legal Aid to appear and plead in those courts under the provisions of the Legal Aid and Advice Act (Cap. 160) or the International Child Abduction Act 2010.
 
 [27/2010 wef 01/03/2011]
 
@@ -1842,7 +1838,7 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (b) thePublic Trustee, the Official Assignee, Assistant Public Trusteesand Assistant Official Assignees acting in the course of their dutiesunder any law relating to those offices;
 
-(c) theDirector of Legal Aid and Assistant Directors of Legal Aid actingin the course of their duties under the provisions of the LegalAid and Advice Act (Cap. 160) ;
+(c) theDirector of Legal Aid and Assistant Directors of Legal Aid actingin the course of their duties under the provisions of the LegalAid and Advice Act (Cap. 160) or the InternationalChild Abduction Act 2010;
 
 (d) anyother public officer drawing or preparing instruments in the courseof his duty;
 
@@ -4820,9 +4816,7 @@ and such order for the payment of costs as may be just.
 
 ### Costs
 
-103\. 
-
-—(1) [Deleted by Act 19 of 2008]
+103\.—(1) [Deleted by Act 19 of 2008]
 
 (2) [Deleted by Act 19 of 2008]
 
@@ -6920,6 +6914,12 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|48.|**Act 27 of 2010—International Child Abduction Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 22/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|16 September 2010|
+||Date of commencement|1 March 2011|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
