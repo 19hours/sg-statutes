@@ -9230,9 +9230,9 @@ are prepared in accordance with that Act.
 
 (19) The provisions of this Act relating to the form and content of the report of the directors and the annual balance-sheet and profit and loss account shall apply to a banking corporation with such modifications and exceptions as are determined either generally or in any particular case by the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186).
 
-(20) The requirements of this section as to the form and content of a company’s accounts or consolidated accounts being in compliance with the Accounting Standards shall not apply to any company that is registered as a charity or approved as an institution of a public character under the Charities Act (Cap. 37) to the extent that that Act requires that company’s accounting records and statements of accounts for any financial year to comply with the accounting standards applicable to charities to the exclusion of the Accounting Standards and other accounting standards.
+(20) In respect of a company that is registered as a charity or approved as an institution of a public character under the Charities Act (Cap. 37), the requirements of this section as to the form and content of a company’s accounts or consolidated accounts being in compliance with the Accounting Standards shall apply subject to any modification prescribed under section 13(1)(f) of that Act in respect of such a company.
 
-[UK, 1948,ss.148, 149, 156, 157; Aust., 1961, s. 162]
+[34/2010 wef 01/03/2011]
 
 Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries
 
@@ -14514,8 +14514,6 @@ shall be guilty of an offence.
 
 409\.—(1) Except where provision is otherwise made in this Act, proceedings for any offence under this Act may, with the authorisation of the Public Prosecutor, be taken by the Registrar or with the written consent of the Minister by any person.
 
-[15/2010 wef 02/01/2011]
-
 (2) [Deleted by Act 36 of 2000]
 
 (3) Proceedings for any offence under this Act, other than an offence punishable with imprisonment for a term exceeding 6 months, may be prosecuted in a Magistrate’s Court and in the case of an offence punishable with imprisonment for a term of 6 months or more may be prosecuted in a District Court.
@@ -17065,6 +17063,12 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|101.|**Act 34 of 2010—Charities (Amendment) Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 October 2010|
+|||(Bill No. 29/2010 published on 18 October 2010)|
+||Date of Second and Third Readings|22 November 2010|
+||Date of commencement|1 March 2011|
 ## COMPARATIVE TABLE
 
 Companies Act
