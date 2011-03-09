@@ -84,7 +84,7 @@ REVISED EDITION 2002
 
 (31st July 2002)
 
-An Act to encourage married persons in Singapore to have more children, and for matters connected therewith.
+An Act to encourage married persons in Singapore to have more children, to enable financial provision to be made for children of parents who have been granted a divorce, a judicial separation or an annulment of marriage through the co-savings scheme established under this Act, and for matters connected therewith.
 
 [28/2008 wef 31/10/2008]
 
@@ -178,9 +178,15 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 3\.—(1) The Minister may by regulations establish a Scheme to —
 
-(a) assist families so as to encourage married women to have 2 or more children; and
+(a) assist families so as to encourage married women to have 2 or more children;
 
-(b) provide financial assistance for the development of the children of these families through a co-savings scheme whereby the Government will make contributions to an eligible child’s bank account equal to the contributions made by any parent of the eligible child.
+[2/2011 wef 09/03/2011]
+
+(b) provide financial assistance for the development of the children of these families through a co-savings scheme whereby the Government will make contributions to an eligible child’s bank account equal to the contributions made by any parent of the eligible child; and
+
+[2/2011 wef 09/03/2011]
+
+(c) make financial provision for the children of parents who have obtained a judgment for the dissolution or annulment of their marriage or judicial separation through the transfer of matrimonial assets divided between the parents by a court pursuant to the divorce, annulment or judicial separation proceedings into a child’s bank account opened under the co-savings scheme referred to in paragraph (b).
 
 [2/2011 wef 09/03/2011]
 
@@ -228,11 +234,11 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (e) where the trustee is dead and the member has no other legal guardian, be substituted with the personal representative of the trustee;
 
-(f) where the trustee is no longer able to act as trustee by reasonthat he lacks capacity (within the meaning of the Mental CapacityAct 2008) to exercise his functions as trustee and the member hasno other legal guardian, be substituted with —
+(f) where the trustee is no longer able to act as trustee by reason that he lacks capacity (within the meaning of the Mental Capacity Act 2008) to exercise his functions as trustee and the member has no other legal guardian, be substituted with —
 
-(i) the deputy appointed or deemed to be appointedfor such trustee by the High Court under that Act and who was conferredpower to exercise the functions as trustee; or
+(i) the deputy appointed or deemed to be appointed for such trustee by the High Court under that Act and who was conferred power to exercise the functions as trustee; or
 
-(ii) if there is no such deputy, a person nominatedby the Minister; and
+(ii) if there is no such deputy, a person nominated by the Minister; and
 
 [21/2008 wef 01/03/2010]
 
@@ -1132,9 +1138,13 @@ the employer shall be entitled to claim reimbursement from the Government in acc
 
 (C) if she absented herself from work during such period referred to in section 9(1B)(i), (ii) or (iii), (1D)(i), (ii) or (iii) or (1F)(i), (ii) or (iii) as may be applicable to her —
 
-(CA) for the whole period of her absence from work, if that period does not exceed 8 weeks; or
+(CA)
 
-(CB) if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work; and
+for the whole period of her absence from work, if that period does not exceed 8 weeks; or
+
+(CB)
+
+if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work; and
 
 (ii) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages; and
 
@@ -1842,7 +1852,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Where a person has been convicted by the court of having made any false or misleading statement or having produced or furnished any document which is false or misleading in any material particular under subsection (1), the court may order that person to make restitution of any moneys paid out to that person by the Government in reliance of the false or misleading statement or document.
 
-
 ### Failure of employer to pay female employee
 
 17\.—(1) Any employer who —
@@ -2017,3 +2026,9 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|9.|**Act 2 of 2011—Women’s Charter (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 November 2010|
+|||(Bill No. 34/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|9 March 2011|
