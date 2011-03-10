@@ -311,3 +311,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|22 January 2009|
 |46.|**G. N. No. S 203/2010—Parliamentary Resolution**|
 ||Date of commencement|2 March 2010|
+|47.|**G. N. No. S 177/2011—Parliamentary Resolution**|
+||Date of commencement|10 March 2011|
