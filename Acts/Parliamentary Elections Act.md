@@ -3856,13 +3856,15 @@ The maximum amount which a candidate at an election or his election agent can pa
 
 (a)
 
-in relation to a candidate at an election in any group representation constituency — an amount equal to $3 for each elector on the register for that constituency divided by the number of candidates in each group nominated for that election; or
+in relation to a candidate at an election in any group representation constituency — an amount equal to $3.50 for each elector on the register for that constituency divided by the number of candidates in each group nominated for that election; or
 
 (b)
 
-in relation to any other candidate — an amount equal to $3 for each elector on the register.
+in relation to any other candidate — an amount equal to $3.50 for each elector on the register.
 
 [21/91; 42/96; S523/2001]
+
+[S 142/2011 wef 14/03/2011]
 
 FOURTH SCHEDULE
 
@@ -4460,6 +4462,10 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|64.|**G. N. No. S 141/2011—Parliamentary Elections Act (Amendment of First Schedule) Regulations 2011**|
+||Date of commencement|14 March 2011|
+|65.|**G. N. No. S 142/2011—Parliamentary Elections Act (Amendment of Third Schedule) Order 2011**|
+||Date of commencement|14 March 2011|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
