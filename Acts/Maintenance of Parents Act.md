@@ -34,6 +34,8 @@
 
 - [14 Tribunal to hear and determine claims](#Tribunal-to-hear-and-determine-claims)
 
+- [14A Information required by Tribunal or Commissioner](#Information-required-by-Tribunal-or-Commissioner)
+
 - [15 Contempt of Tribunal](#Contempt-of-Tribunal)
 
 - [16 Power of Tribunal to state special case for decision of High Court](#Power-of-Tribunal-to-state-special-case-for-decision-of-High-Court)
@@ -45,6 +47,8 @@
 - [19 Proceedings in camera](#Proceedings-in-camera)
 
 - [20 Costs](#Costs)
+
+- [20A Protection from personal liability](#Protection-from-personal-liability)
 
 - [21 Rules](#Rules)
 
@@ -90,11 +94,29 @@ An Act to make provision for the maintenance of parents by their children and fo
 
 (2) An approved person or organisation in whose care a parent resides may apply to the Tribunal for an order that one or more of his children pay the approved person or organisation a monthly allowance or any other periodical payment or a lump sum for the purpose of defraying the costs and expenses of maintaining the parent.
 
+(2A) Where any person wishes to make an application under this section, whether on his own behalf or on behalf of a parent, in respect of any claim for which no application had previously been made under this section, he shall, before making the application, refer the claim to the Commissioner for review under section 12(5).
+
+[37/2010 wef 15/03/2011]
+
 (3) Where the parent ceases to be in the care of the approved person or organisation, any part of the monthly allowance, other periodical payment or lump sum remaining, after deducting the reasonable costs and expenses of maintaining the parent, shall be held in trust for the parent.
 
-(4) For the purposes of this section, a parent is unable to maintain himself if his total or expected income and other financial resources are inadequate to provide him with basic amenities and basic physical needs including (but not limited to) shelter, food and clothing.
+(4) For the purposes of this section, a parent is unable to maintain himself if his total or expected income and other financial resources are inadequate to provide him with basic amenities and basic physical needs including (but not limited to) shelter, food, medical costs and clothing.
+
+[37/2010 wef 15/03/2011]
 
 (5) Notwithstanding that a person is below the minimum age specified in subsection (1), this Act shall apply to that person if the Tribunal is satisfied that he is suffering from infirmity of mind or body which prevents him from maintaining or makes it difficult for him to maintain himself or that there is any other special reason.
+
+(6) The President or a deputy President of the Tribunal may dismiss any application made under this section, if he is of the opinion that the application is frivolous or vexatious, or if the applicant has failed to comply with subsection (2A), and give the reasons for the dismissal.
+
+[37/2010 wef 15/03/2011]
+
+(7) An applicant who is aggrieved by any decision made under subsection (6) may, within 14 days of the decision, appeal in writing to the Tribunal.
+
+[37/2010 wef 15/03/2011]
+
+(8) The President or deputy President, as the case may be, who made the decision under subsection (6) that is under appeal shall not participate in the proceedings or determination of the appeal.
+
+[37/2010 wef 15/03/2011]
 
 ### Joinder of respondents
 
@@ -121,6 +143,10 @@ An Act to make provision for the maintenance of parents by their children and fo
 (e) the expenses incurred by the respondent in supporting his spouse or children;
 
 (f) the contributions and provisions, whether financial or otherwise, which the respondent has made for the maintenance of the applicant.
+
+(2A) Without prejudice to the Tribunal’s powers under the Act, the President or a deputy President of the Tribunal may, with the consent of the applicant and the respondent, make a maintenance order reflecting the terms of any agreement reached between the parties in respect of a claim, and such order shall be deemed to be a maintenance order made by the Tribunal under this Act and enforceable in accordance with its terms.
+
+[37/2010 wef 15/03/2011]
 
 (3) If the Tribunal is satisfied upon due proof that the applicant abandoned, abused or neglected the respondent, it may dismiss the application or may reduce the quantum of maintenance ordered by such amount as may be just.
 
@@ -158,7 +184,9 @@ An Act to make provision for the maintenance of parents by their children and fo
 
 ### Power of Tribunal to vary orders for maintenance
 
-8\.—(1) The Tribunal may vary or rescind any subsisting order for maintenance, whether secured or unsecured, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances of the applicant or respondents or where another person is joined as a respondent.
+8\.—(1) The Tribunal may vary or rescind any subsisting order for maintenance, whether secured or unsecured, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances of the applicant or respondents or where another person is joined as a respondent, or for other good cause shown to the satisfaction of the Tribunal.
+
+[37/2010 wef 15/03/2011]
 
 (2) An application for variation of a maintenance order may be made by —
 
@@ -174,13 +202,23 @@ An Act to make provision for the maintenance of parents by their children and fo
 
 (3) Where a maintenance order was made against more than one respondent or another respondent is joined, the Tribunal may re-apportion in such manner as it considers just the maintenance upon an application to vary the maintenance order.
 
+(4) The Tribunal may, before hearing an application under this section and where it considers it necessary or desirable to do so, refer the differences between the parties to a conciliation officer for mediation.
+
+[37/2010 wef 15/03/2011]
+
 ### Maintenance payable under order of Tribunal to be inalienable
 
 9\. Maintenance payable to any person under this Act shall not be assignable or transferable or liable to be attached, sequestered or levied upon for, or in respect of, any debt or claim whatsoever.
 
 ### Enforcement of maintenance orders
 
-10\. Maintenance orders made under this Act shall be deemed to be orders made by a District Court and may be enforced in the same manner as maintenance orders for wives and children are enforced under the Women’s Charter, and the provisions of that Act shall apply, with the necessary modifications, to enforcement of orders made under this Act.
+10\.—(1) Maintenance orders made under this Act shall be deemed to be orders made by a District Court and may be enforced in the same manner as maintenance orders for wives and children are enforced under the Women’s Charter, and the provisions of that Act shall apply, with the necessary modifications, to enforcement of orders made under this Act.
+
+[37/2010 wef 15/03/2011]
+
+(2) For the purposes of subsection (1), the District Court may adopt such measures as it deems relevant or appropriate for the enforcement of maintenance orders made under this Act.
+
+[37/2010 wef 15/03/2011]
 
 ### Applications on behalf of incapacitated applicants
 
@@ -204,35 +242,83 @@ on such terms and conditions as the Minister may determine.
 
 (2) The Commissioner may make an application under this Act on behalf of an applicant of or above 60 years of age (whether or not the applicant is able to do so) or represent such applicant in any proceedings or appeal under this Act.
 
-(3) The Commissioner may consult, or direct a Deputy Commissioner or an Assistant Commissioner to consult, with the parents and children concerned in order to assist them to reach agreement by conciliation.
+(3) The Commissioner may consult, or direct a Deputy Commissioner or an Assistant Commissioner or such other person as he thinks fit to consult, with the parents and children concerned in order to assist them to reach agreement by conciliation.
+
+[37/2010 wef 15/03/2011]
 
 (4) Notwithstanding that a person is below the minimum age specified in subsection (2), the Commissioner may, in his discretion, make an application on his behalf or represent him if the Commissioner is satisfied that he is suffering from infirmity of mind or body which prevents him from maintaining or makes it difficult for him to maintain himself or if there is any other special reason.
 
+(5) Where a claim of a parent has been referred to the Commissioner under section 3(2A), the Commissioner shall review the claim and may do all or any of the following:
+
+(a) refer the parent to any relevant Government or other agency for assistance;
+
+(b) refer the differences between the parent and his children for conciliation;
+
+(c) take such other measure as he thinks fit.
+
+[37/2010 wef 15/03/2011]
+
+(6) If a claim has not been settled after referral to the relevant Government or other agency or for conciliation or any other measure taken under subsection (5), an application may be made to the Tribunal under section 3.
+
+[37/2010 wef 15/03/2011]
+
+(7) The Commissioner may, by notice in writing, require any person to appear at any reasonable time and at any convenient place for the purposes of conciliation under subsection (5)(b), and any failure by the person to appear as required may be taken into consideration by the Tribunal when hearing and determining the relevant application for maintenance, in such manner as to the Tribunal seems proper.
+
+[37/2010 wef 15/03/2011]
+
+(8) The Commissioner may generally do all such things as may be incidental to or consequential upon the discharge of his functions or the exercise of his powers under this Act.
+
+[37/2010 wef 15/03/2011]
+
 ### Establishment of Tribunal for the Maintenance of Parents
 
-13\.—(1) For the purposes of this Act, there shall be established a Tribunal for the Maintenance of Parents consisting of a President and such number of members, not being less than 2, as the Minister may think fit.
+13\.—(1) For the purposes of this Act, there shall be established a Tribunal for the Maintenance of Parents consisting of a President, up to 4 deputy Presidents, and such number of members, not being less than 2, as the Minister may think fit.
 
-(2) The President and every member of the Tribunal shall be appointed by the Minister and upon appointment the names of the President and every member of the Tribunal shall be published in theGazette.
+[37/2010 wef 15/03/2011]
 
-(3) The President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321].
+(2) The President, every deputy President and every member of the Tribunal shall be appointed by the Minister and upon appointment the names of the President, every deputy President and every member of the Tribunal shall be published in theGazette.
 
-(4) Three members of the Tribunal, of whom the President shall be one, shall form a quorum, and the opinion of the majority of the Tribunal present shall be decisive upon any matter, except that in the case of an equality the President shall decide which opinion shall prevail.
+[37/2010 wef 15/03/2011]
 
-(5) The President and every member of the Tribunal shall hold office for a period of 3 years or for such shorter period as the Minister may determine and shall be eligible for reappointment.
+(3) The President and every deputy President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321].
 
-(6) The President or a member of the Tribunal shall vacate his office where —
+[37/2010 wef 15/03/2011]
+
+(3A) A deputy President of the Tribunal shall have and may exercise and perform all the powers, duties and functions of the President of the Tribunal conferred by this Act, subject to such limitations as the President may think fit to impose.
+
+[37/2010 wef 15/03/2011]
+
+(4) Three members of the Tribunal, of whom the President or a deputy President shall be one, shall form a quorum, and the opinion of the majority of the Tribunal present shall be decisive upon any matter, except that in the case of an equality the President or a deputy President shall decide which opinion shall prevail.
+
+[37/2010 wef 15/03/2011]
+
+(5) The President, every deputy President and every member of the Tribunal shall hold office for a period of 3 years or for such shorter period as the Minister may determine and shall be eligible for reappointment.
+
+[37/2010 wef 15/03/2011]
+
+(6) The President, a deputy President or a member of the Tribunal shall vacate his office where —
 
 (a) he resigns; or
 
 (b) the Minister has revoked his appointment on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
 
-(7) Where a person ceases to be the President or a member of the Tribunal, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in the Tribunal shall not invalidate the acts of the Tribunal.
+[37/2010 wef 15/03/2011]
 
-(8) If the President or any member of the Tribunal is for the time being unable to perform the duties of his office, either generally or in relation to any particular proceedings, the Minister may appoint some other person to discharge the duties of the President or that member for any period, not exceeding 6 months at one time, or, as the case may be, in relation to those proceedings; and a person so appointed shall, during that period or in relation to those proceedings, have the same powers as the person in whose place he is appointed.
+(7) Where a person ceases to be the President, a deputy President or a member of the Tribunal, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in the Tribunal shall not invalidate the acts of the Tribunal.
 
-(9) The President and every member of the Tribunal shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and the proceedings of the Tribunal shall be deemed to be judicial proceedings.
+[37/2010 wef 15/03/2011]
 
-(10) There shall be paid to the President and the members of the Tribunal such salaries, fees and allowances as the Minister may determine.
+(8) If the President, a deputy President or any member of the Tribunal is for the time being unable to perform the duties of his office, either generally or in relation to any particular proceedings, the Minister may appoint some other person to discharge the duties of the President, a deputy President or that member for any period, not exceeding 6 months at one time, or, as the case may be, in relation to those proceedings; and a person so appointed shall, during that period or in relation to those proceedings, have the same powers as the person in whose place he is appointed.
+
+[37/2010 wef 15/03/2011]
+
+(9) The President, every deputy President and every member of the Tribunal shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and the proceedings of the Tribunal shall be deemed to be judicial proceedings.
+
+[37/2010 wef 15/03/2011]
+
+(10) There shall be paid to the President, every deputy President and the members of the Tribunal such salaries, fees and allowances as the Minister may determine.
+
+[37/2010 wef 15/03/2011]
 
 (11) The Minister may appoint a Secretary to the Tribunal, conciliation officers and such other officers and employees of the Tribunal as may be necessary.
 
@@ -284,17 +370,51 @@ on such terms and conditions as the Minister may determine.
 
 (f) to make an order by consent of the parties; and
 
-(g) all the powers of a District Court with regard to the enforcement of attendance of witnesses, hearing evidence on oath and punishment for contempt.
+(g) all the powers of a District Court with regard to the enforcement of attendance of witnesses and hearing evidence on oath.
+
+[37/2010 wef 15/03/2011]
 
 (8) Every person examined as a witness by or before the Tribunal, whether on oath or otherwise, shall be legally bound to state the truth and to produce such records, documents or articles as the Tribunal may require.
 
 (9) The Tribunal shall not be bound by the strict rules of evidence and shall determine the conduct of its proceedings.
 
+### Information required by Tribunal or Commissioner
+
+14A\.—(1) The Tribunal or the Commissioner may, in discharging its or his functions under this Act, obtain any information, record, document or article from any officer of such Government agency or statutory body as the Minister may from time to time prescribe by notification in theGazette, as the Tribunal or the Commissioner, as the case may be, may consider necessary or desirable for the purposes set out in subsection (2).
+
+(2) Any information, record, document or article obtained under subsection (1) may be used by the Tribunal or the Commissioner, as the case may be, for any of the following purposes:
+
+(a) identifying and locating the children of the parent;
+
+(b) assessing the veracity of or supplementing the information provided by the parent, applicant, respondent or children of the parent; and
+
+(c) assessing the ability of the parent to maintain himself and each of the children of the parent to maintain him, including but not limited to their respective incomes, earning capacity, property and other financial resources, expenses and liabilities.
+
+(3) Each member of the Tribunal and the Commissioner shall, in respect of any information, record, document or article obtained under subsection (1) and which has been disclosed to him —
+
+(a) take reasonable steps to ensure that such information, record, document or article is kept confidential to the Tribunal or the Commissioner, as the case may be;
+
+(b) not use the information, record, document or article for any purposes other than those stated in subsection (2); and
+
+(c) disclose such information, record, document or article only —
+
+(i) as between the Commissioner and the Tribunal and any officer of the Tribunal, or any person acting for or under the direction of the Tribunal, for the purposes stated in subsection (2);
+
+(ii) with the written permission of the relevant Government agency or statutory body as the Minister may from time to time prescribe by notification in theGazette, which provided such information, record, document or article to the Tribunal or the Commissioner, as the case may be;
+
+(iii) when required to do so by any court or under any written law;
+
+(iv) for the purposes of any criminal proceedings or for any other purpose the disclosure of which is required or authorised by or under any written law.
+
+[37/2010 wef 15/03/2011]
+
 ### Contempt of Tribunal
 
 15\.—(1) Any person who —
 
-(a) assaults, wilfully insults or obstructs the President, a member or an officer of the Tribunal or any witness during a sitting of the Tribunal or while the President, member, witness or officer is on his way to or from such a sitting;
+(a) assaults, wilfully insults or obstructs the President, a deputy President, a member or an officer of the Tribunal or any witness during a sitting of the Tribunal or while the President, deputy President, member, witness or officer is on his way to or from such a sitting;
+
+[37/2010 wef 15/03/2011]
 
 (b) assaults or wilfully insults or obstructs any person in attendance at a sitting of the Tribunal;
 
@@ -330,7 +450,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 18\.—(1) Except as provided in this section and sections 16 and 17, the decision of the Tribunal shall be final.
 
-(2) The applicant, the Commissioner on behalf of the applicant, a respondent, an approved person or organisation or any other affected party may appeal to the High Court from the decision of the Tribunal upon any question of law or of mixed law and fact except in any case where the Tribunal has made the order with the consent of the parties unless it is alleged that the consent was obtained by means of fraud, duress, threat or misrepresentation.
+(2) The applicant, the Commissioner on behalf of the applicant, a respondent, an approved person or organisation or any other affected party may appeal to the High Court from the decision of the Tribunal upon any question of law or of mixed law and fact except in any case where the Tribunal has made the order with the consent of the parties, including a maintenance order made by the President or deputy President and deemed to be a maintenance order made by the Tribunal under section 5(2A), unless it is alleged that the consent was obtained by means of fraud, duress, threat or misrepresentation.
+
+[37/2010 wef 15/03/2011]
 
 (3) The procedure governing such appeals to the High Court shall be the same as that for appeals from decisions of the District Court to the High Court.
 
@@ -363,6 +485,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) the costs of the Commissioner shall be at the discretion of the Tribunal or the Court, as the case may be, but the Commissioner shall not be ordered to pay the costs of any of the other parties; and
 
 (c) no member of the Tribunal shall be personally liable to any costs in respect of a case stated or an appeal from the decision of the Tribunal.
+
+### Protection from personal liability
+
+20A\. No suit or other legal proceedings shall lie against the President or any deputy President or member of the Tribunal, or the Commissioner, for anything which is done with reasonable care and in good faith in the discharge or purported discharge of his functions or duties under this Act.
+
+[37/2010 wef 15/03/2011]
 
 ### Rules
 
@@ -409,3 +537,8 @@ This Legislative History is provided for the convenience of users of the Mainten
 ||Referred to Select Committee|Parl 2 of 1995 presented to Parliament on 20 October 1995|
 ||Date of Third Reading|2 November 1995|
 ||Date of commencement|1 June 1996|
+|4.|**Act 37 of 2010—Maintenance of Parents (Amendment) Act 2010**|
+||Date of First Reading|18 October 2010|
+|||(Bill No. 32/2010) published on 18 October 2010|
+||Date of Second and Third Readings|23 November 2010|
+||Date of commencement|15 March 2011|
