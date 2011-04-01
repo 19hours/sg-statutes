@@ -88,7 +88,7 @@
 
 (CHAPTER 43)
 
-(Original Enactment: ORDINANCE 8 of 1909)
+(Original Enactment: Ordinance 8 of 1909)
 
 REVISED EDITION 1999
 
@@ -234,9 +234,11 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (c) a contract for betting that takes place on a totalisator conducted by or on behalf of the Singapore Totalisator Board or a turf club in accordance with an approved scheme; and
 
-(d) a contract to participate in a private lottery promoted or conducted by the holder of a permit granted under section 4 of the Private Lotteries Act (Cap. 250).
+(d) a contract to participate in a private lottery promoted or conducted by the holder of a permit granted under section 8 of the Private Lotteries Act 2011.
 
 [10/2006 wef 02/04/2008]
+
+[7/2011 wef 01/04/2011]
 
 (3B) In the case of a person or an organisation exempted under section 24 of the Common Gaming Houses Act in respect of any gaming conducted for or on behalf of another person or organisation, subsection (3A)(a) applies only if the contract is for gaming conducted by that person or organisation for or on behalf of that other person or organisation.
 
@@ -262,7 +264,9 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 “private body” has the same meaning as in any notification made under the Common Gaming Houses Act (Cap. 49) which exempts gaming conducted in premises owned or used by a private body;
 
-“private lottery” has the same meaning as in the Private Lotteries Act (Cap. 250);
+“private lottery” has the same meaning as in the Private Lotteries Act 2011;
+
+[7/2011 wef 01/04/2011]
 
 “totalisator”, “Singapore Totalisator Board”, “turf club” and “approved scheme” have the same meanings as in the Singapore Totalisator Board Act (Cap. 305A).
 
@@ -1055,6 +1059,14 @@ to Which Section 36 Applies
 
 [7/2009 wef 01/03/2009]
 
+5. Where the minor carries on business in Singapore as a limited partnership registered under the Limited Partnerships Act 2008 (Act 37 of 2008) (whether as a general partner or a limited partner) —
+
+(a) any legal proceeding or action arising from or in connection with his carrying on of such business; or
+
+(b) any legal proceeding or action arising from or in connection with his acting as a person responsible for the management of such business (as defined in section 39(2) of that Act).
+
+[S 192/2009 wef 04/05/2009]
+
 ## LEGISLATIVE HISTORY
 
 Civil Law Act
@@ -1203,6 +1215,13 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|2 March 2010|
 |||(Item (7)(b) in the Schedule)|
+|31.|**Act 7 of 2011—Private Lotteries Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 January 2011|
+|||(Bill No. 2/2011 published on 10 January 2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|1 April 2011|
+|||(Item (3) in the Schedule)|
 ## COMPARATIVE TABLE
 
 Civil Law Act
