@@ -84,7 +84,7 @@
 
 - [31 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
@@ -412,7 +412,7 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Authority
+Constitution and proceedings of Authority
 
 Appointment of Chairman, Deputy Chairman and other members
 
@@ -578,7 +578,9 @@ Specified Acts
 
 6\. Income Tax Act (Cap. 134).
 
-7\. Private Lotteries Act (Cap. 250).
+7. Private Lotteries Act 2011.
+
+[7/2011 wef 01/04/2011]
 
 8\. Property Tax Act (Cap. 254).
 
@@ -598,7 +600,7 @@ Specified offices
 
 2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act (Cap. 254).
 
-3\. The Commissioner of Stamp Duties under the Stamp Duties Act (Cap. 312)..
+3\. The Commissioner of Stamp Duties under the Stamp Duties Act (Cap. 312).
 
 4\. The Commissioner of Estate Duties under the Estate Duty Act (Cap. 96).
 
@@ -607,6 +609,10 @@ Specified offices
 6\. The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993 (Act 31 of 1993).
 
 [S 37/94 wef 28/1/1994]
+
+7. The Commissioner of Betting Duties under the Private Lotteries Act 2011 and the Betting and Sweepstake Duties Act (Cap. 22).
+
+[7/2011 wef 01/04/2011]
 
 ## LEGISLATIVE HISTORY
 
@@ -682,3 +688,9 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|15.|**Act 7 of 2011—Private Lotteries Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 January 2011|
+|||(Bill No. 3/2011 published on 11 January 2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|1 April 2011|
