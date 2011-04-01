@@ -550,6 +550,8 @@ to the extent that the supply is covered by the goods that are removed or made a
 
 [24/2011 wef 01/01/2011]
 
+[20/2010 wef 01/01/2011]
+
 (4) If, before the time under subsection (3), the person making a supply referred to in that subsection issues an invoice or receives any consideration in respect of it, the supply shall be treated as taking place at the time when —
 
 (a) the invoice is issued or the consideration is received; or
@@ -559,6 +561,8 @@ to the extent that the supply is covered by the goods that are removed or made a
 to the extent that the supply is covered by the invoice or consideration.
 
 [24/2011 wef 01/01/2011]
+
+[20/2010 wef 01/01/2011]
 
 (5) For the purpose of determining the time when a supply of goods or services is to be treated as taking place for the purposes of this Act, where a person provides a document to himself which purports to be an invoice in respect of a supply of goods or services to him by another person, the Comptroller may treat that invoice as an invoice issued by the other person as the supplier.
 
@@ -1766,7 +1770,7 @@ the transferee shall be deemed to have incurred input tax on the value of the su
 
 (2) Any regulations made under this section may make different provisions with respect to different transactions or different circumstances.
 
-(3) In this section, “lotteries” and “fruit machines” have the same meanings as in the Private Lotteries Act (Cap. 250).
+(3) In this section, “lotteries” and “fruit machines” have the same meanings as in the Private Lotteries Act 2011.
 
 [7/2011 wef 01/04/2011]
 
@@ -4888,7 +4892,7 @@ Goods and Services Tax Act
 
 (CHAPTER 117A)
 
-This Legislative History is provided for the convenience of users of the Goods and Services Tax Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Goods and Services Tax Act. It is not part of the Goods and Services Tax Act.
 
 ||||
 |:-|:-|:-|
@@ -4896,9 +4900,12 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|26.2.93|
 |||(Bill No. 14/93published on 27.2.93)|
 ||Date of Second Reading|19.3.93|
-||Date Committed to Select Committee|Parl 4 of 1993 presented to Parliament on 7.9.93|
+||Date Referred to Select Committee|Parl 4 of 1993 presented to Parliament on 7.9.93|
 ||Date of Third Reading|12.10.93|
-||Date of commencement|26.11.93(except para (3) of Fifth Schedule) 1.4.94(para (3) of Fifth Schedule)|
+||Dates of commencement|26.11.93(except para (3) of Fifth Schedule)|
+
+|
+1.4.94(para (3) of Fifth Schedule)|
 |2.|**G. N. No. S 107/1994**|
 ||Date of commencement|Date not available|
 |3.|**1994 Revised Edition—Goods and Services Tax Act**|
@@ -5040,6 +5047,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 11/2010published on 25 June 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|36.|**Act 7 of 2011—Private Lotteries Act 2011**|
+||Date of First Reading|10 January 2011|
+|||(Bill No. 2/2011published on 18 March 2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|1 April 2011|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
