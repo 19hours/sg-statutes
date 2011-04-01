@@ -4872,3 +4872,9 @@ This Legislative History is provided for the convenience of users of the Casino 
 |||(Bill No. 11/2010)|
 ||Date of Second and Third Readings|19th May 2010|
 ||Date of commencement|2nd January 2011|
+|10.|**Act 7 of 2011—Private Lotteries Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 January 2011|
+|||(Bill No. 2/2011 published on 10 January 2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|1 April 2011|
