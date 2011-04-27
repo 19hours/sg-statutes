@@ -5198,6 +5198,16 @@ spp.
 
 B
 
+Calyptocephalellidae (Helmeted water toads)
+
+1.
+
+Calyptocephalella gayi
+
+(Chile)
+
+C
+
 Dendrobatidae (Poison frogs)
 
 1.
@@ -5230,27 +5240,23 @@ Phyllobates
 
 spp\. 
 
-C
+D
 
 Hylidae (Tree frogs)
-
-1.
 
 Agalychnis
 
 spp\. 
 
-D
+E
 
 Mantellidae (Mantellas)
-
-1.
 
 Mantella
 
 spp\. 
 
-E
+F
 
 Microhylidae (Red rain frog, tomato frog)
 
@@ -5262,7 +5268,7 @@ Dyscophus antongilii
 
 Scaphiophryne gottlebei
 
-F
+G
 
 Ranidae (Frogs)
 
@@ -5274,11 +5280,9 @@ Euphlyctis hexadactylus
 
 Hoplobatrachus tigerinus
 
-G
+H
 
 Rheobatrachidae (Gastric-brooding frogs)
-
-1.
 
 Rheobatrachus
 
@@ -6866,15 +6870,9 @@ Cedrela lilloi #5
 
 1B.
 
-Cedrela odorata #5 (Plurinational State of Bolivia)
+Cedrela odorata
 
-[Population of Colombia (Colombia)
-
-Population of Guatemala
-
-(Guatemala)
-
-Population of Peru (Peru)]
+#5(Brazil and the Plurinational State of Bolivia. In addition, the following countries have listed their national populations: Colombia, Guatemala and Peru)
 
 #5Logs, sawn wood and veneer sheets.
 
@@ -7605,6 +7603,8 @@ Guaiacum spp.#2
 
 (b) finished products packaged and ready for retail trade.
 
+[S 214/2011 wef 27/04/2011]
+
 [S 590/2010 wef 14/10/2010]
 
 [S 312/2010 wef 23/06/2010]
@@ -7639,7 +7639,7 @@ This Legislative History is provided for the convenience of users of the Endange
 |||(Bill No. 29/1992 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|20 November 1992|
-|8.|**G. N. No. S 344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
+|8.|**G. N. No. S344/1994—Endangered Species (Import and Export) Act (Amendment of Second Schedule) Notification 1994**|
 ||Date of commencement|4 November 1994|
 |9.|**G. N. No. S 49/1995—Endangered Species (Import and Export) Act (Amendment of Schedules) Notification 1995**|
 ||Date of commencement|16 February 1995|
@@ -7704,6 +7704,8 @@ The Endangered Species (Import and Export) Act 2006 repealed and re-enacted with
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|33.|**G.N. No. S 214/2011—Endangered Species (Import and Export) Act (Amendment of Schedule) Notification 2011**|
+||Date of commencement|27 April 2011|
 ## COMPARATIVE TABLE
 
 Endangered Species (Import and Export) Act
