@@ -1,4 +1,4 @@
-**Children Development Co-Savings Act**
+**Child Development Co-Savings Act**
 
 **(CHAPTER 38A)**
 
@@ -12,9 +12,9 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II CHILDREN DEVELOPMENT CO-SAVINGS SCHEME**](#Part-II)
+[**Part II CHILD DEVELOPMENT CO-SAVINGS SCHEME**](#Part-II)
 
-- [3 Establishment of Children Development Co-Savings Scheme to assist families](#Establishment-of-Children-Development-Co-Savings-Scheme-to-assist-families)
+- [3 Establishment of Child Development Co-Savings Scheme to assist families](#Establishment-of-Child-Development-Co-Savings-Scheme-to-assist-families)
 
 - [4 Compulsory substitution of trustee](#Compulsory-substitution-of-trustee)
 
@@ -74,7 +74,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Children Development Co-Savings Act
+# Child Development Co-Savings Act
 
 (CHAPTER 38A)
 
@@ -84,11 +84,9 @@ REVISED EDITION 2002
 
 (31st July 2002)
 
-An Act to encourage married persons in Singapore to have more children, to enable financial provision to be made for children of parents who have been granted a divorce, a judicial separation or an annulment of marriage through the co-savings scheme established under this Act, and for matters connected therewith.
+An Act to encourage married persons in Singapore to have more children, to facilitate the provision of cash grants and the making of financial provision for the development of children, to enable financial provision to be made for children of parents who have been granted a divorce, a judicial separation or an annulment of marriage, and for matters connected therewith.
 
-[28/2008 wef 31/10/2008]
-
-[2/2011 wef 09/03/2011]
+[13/2011 wef 01/05/2011]
 
 [1st April 2001]
 
@@ -98,7 +96,7 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Children Development Co-Savings Act.
+1\. This Act may be cited as the Child Development Co-Savings Act.
 
 [13/2011 wef 01/05/2011]
 
@@ -113,8 +111,6 @@ PRELIMINARY
 “benefit period”, in relation to a female employee to whom subsection (1), (1A), (1B), (1C), (1D), (1E) or (1F) of section 9 applies, means such period as she is entitled under the applicable subsection to receive payment from her employer at her gross rate of pay;
 
 “confinement” means the delivery of a child;
-
-“eligible child” means a child who is eligible for membership of the Scheme under the regulations made under section 3;
 
 “employee” means any person who has entered into or works under a contract of service with an employer in Singapore, and includes a workman and any officer or employee of the Government;
 
@@ -156,7 +152,7 @@ PRELIMINARY
 
 “PSE account” has the same meaning as in the Education Endowment and Savings Schemes Act (Cap. 87A);
 
-“Scheme” means the Children Development Co-Savings Scheme established by the regulations made under section 3;
+“Scheme” means the Child Development Co-Savings Scheme established by the regulations made under section 3;
 
 [13/2011 wef 01/05/2011]
 
@@ -172,33 +168,37 @@ PRELIMINARY
 
 ## PART II
 
-CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
+CHILD DEVELOPMENT CO-SAVINGS SCHEME
 
-### Establishment of Children Development Co-Savings Scheme to assist families
+### Establishment of Child Development Co-Savings Scheme to assist families
 
-3\.—(1) The Minister may by regulations establish a Scheme to —
+3\.—(1) The Minister may by regulations establish a scheme to be called the Child Development Co-Savings Scheme —
 
-(a) assist families so as to encourage married women to have 2 or more children;
+(a) to encourage married women to have more children, by the provision of financial assistance for the development of the children of families through a co-savings arrangement under the Scheme whereby the Government will make contributions, to the bank account of a child who is eligible for that arrangement, equal to the contributions made by or on behalf of any parent of the child;
 
-[2/2011 wef 09/03/2011]
+(b) to facilitate the provision of cash grants made by the Government from time to time for the development of children;
 
-(b) provide financial assistance for the development of the children of these families through a co-savings scheme whereby the Government will make contributions to an eligible child’s bank account equal to the contributions made by any parent of the eligible child; and
+(c) to facilitate the making of financial provision for the development of a child, whether or not the child is eligible for the co-savings arrangement referred to in paragraph (a), through the making of contributions to the child’s bank account by or on behalf of any parent of the child; and
 
-[2/2011 wef 09/03/2011]
+(d) to make financial provision for a child whose parents have obtained a judgment for the dissolution or annulment of their marriage or judicial separation, through the transfer of matrimonial assets divided between the parents by a court pursuant to the divorce, annulment or judicial separation proceedings into the child’s bank account.
 
-(c) make financial provision for the children of parents who have obtained a judgment for the dissolution or annulment of their marriage or judicial separation through the transfer of matrimonial assets divided between the parents by a court pursuant to the divorce, annulment or judicial separation proceedings into a child’s bank account opened under the co-savings scheme referred to in paragraph (b).
-
-[2/2011 wef 09/03/2011]
+[13/2011 wef 01/05/2011]
 
 (2) Without prejudice to the generality of subsection (1), such regulations may provide for —
 
-(a) the eligibility criteria of children for membership of the Scheme and the terms and conditions of such membership;
+(a) different types of membership of the Scheme, and the eligibility criteria, benefits and terms and conditions for each type of membership of the Scheme;
+
+[13/2011 wef 01/05/2011]
 
 (b) the appointment of one or more managing agents responsible for the operation and administration of the Scheme and the powers, functions and duties of such managing agents, including the duty of such managing agents to comply with any requirement relating to confidentiality of information;
 
-(c) the payment of moneys to members and the prescribed amount, mode and manner and terms and conditions of such payment;
+(c) the payment of contributions to the Scheme by or on behalf of any parent of a member, whether or not the member is eligible for the co-savings arrangement referred to in subsection (1)(a);
 
-(d) the payment of contributions to the Scheme by the parent of a member or by any person on behalf of the parent;
+[13/2011 wef 01/05/2011]
+
+(d) the payment of moneys to a member, and the amount, mode, manner and terms and conditions of any such payment;
+
+[13/2011 wef 01/05/2011]
 
 (e) the opening of and the type of bank account for each member into which such moneys will be paid;
 
@@ -216,7 +216,7 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (j) the consequences for any breach of the regulations, including making any act or omission in contravention of such regulations an offence and prescribing penalties for such offence not exceeding a fine of $20,000 or imprisonment for a term not exceeding 12 months or both; and
 
-(k) different provisions in respect of eligible children whose parents have not attained the age of majority.
+(k) different provisions in respect of a child eligible for membership of the Scheme whose parents have not attained the age of majority.
 
 [13/2011 wef 01/05/2011]
 
@@ -1974,11 +1974,11 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 21\. The Minister may, subject to such terms and conditions as he may specify, exempt any person from complying with any requirement of this Act.
 
-22\. [Deleted by Act 28/2008]
+22\. [Deleted by Act 28/2008 wef 31/10/2008]
 
 ## LEGISLATIVE HISTORY
 
-Children Development Co-Savings Act
+Child Development Co-Savings Act
 
 (CHAPTER 38A)
 
@@ -2032,3 +2032,8 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 34/2010 published on 22 November 2010)|
 ||Date of Second and Third Readings|10 January 2011|
 ||Date of commencement|9 March 2011|
+|10.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+||Date of First Reading|28 February 2011|
+|||(Bill No. 8/2011 published on 28 February 2011)|
+||Date of Second and Third Readings|10 March 2011|
+||Date of commencement|1 May 2011|
