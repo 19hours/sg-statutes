@@ -6886,7 +6886,7 @@ Directors and officers
 
 [5/2004]
 
-(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54B, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 35ZJ or 41(1)(b) of the Insurance Act (Cap. 142), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ or 97 of the Securities and Futures Act (Cap. 289).
+(6) Subsection (5) shall not apply where a director of a company is required to resign or vacate his office if he has not within the period referred to in section 147(1) obtained his qualification or by virtue of his disqualification under section 148, 149, 149A, 154 or 155 of this Act, or sections 50, 54B, 66 and 67 of the Banking Act (Cap. 19) or sections 47 and 49 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 31, 35ZJ or 41(1)(a)(ii) of the Insurance Act (Cap. 142), section 22 of the Payment Systems (Oversight) Act 2006 (Act 1 of 2006) or section 44, 81A, 81ZJ or 97 of the Securities and Futures Act (Cap. 289).
 
 [1/2007 wef 31/03/2007]
 
@@ -9821,7 +9821,7 @@ AND AMALGAMATIONS
 
 (3) If a majority in number representing three-fourths in value of the creditors or class of creditors or members or class of members present and voting either in person or by proxy at the meeting or the adjourned meeting agrees to any compromise or arrangement, the compromise or arrangement shall, if approved by order of the Court, be binding on all the creditors or class of creditors or on the members or class of members, as the case may be, and also on the company or, in the case of a company in the course of being wound up, on the liquidator and contributories of the company.
 
-(3A) Where the company is a banking corporation , the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186) shall have the same powers and rights as a creditor of the company under the Companies Act including the right to appear and be heard before a Court in any proceedings under this section, but shall not have the right to vote at any meeting summoned under this section.
+(3A) Where the company is a banking corporation or registered insurer, as the case may be, the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186) shall have the same powers and rights as a creditor of the company under the Companies Act including the right to appear and be heard before a Court in any proceedings under this section, but shall not have the right to vote at any meeting summoned under this section.
 
 [1/2007 wef 31/03/2007]
 
@@ -17069,6 +17069,12 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 29/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 March 2011|
+|102.|**Act 16 of 2011—Insurance (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2011|
+|||(Bill No. 11/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 May 2011|
 ## COMPARATIVE TABLE
 
 Companies Act
