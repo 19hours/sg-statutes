@@ -382,7 +382,7 @@ POST-SECONDARY EDUCATION SCHEME
 
 (b) all income of that Fund;
 
-(c) all moneys transferred to any PSE account under the Children Development Co-Savings Act (Cap. 38A);
+(c) all moneys transferred to any PSE account under the Child Development Co-Savings Act (Cap. 38A);
 
 [13/2011 wef 01/05/2011]
 
@@ -446,7 +446,9 @@ and out of which shall be met all payments authorised to be paid under this Act.
 
 (a) all contributions made by the Government to the PSE account of an eligible member of the PSE Fund under subsection (3); and
 
-(b) all contributions, if any, made by the Government to the member’s bank account, if any, opened under regulations made under section 3 of the Children Development Co-Savings Act (Cap. 38A),
+(b) all contributions, if any, made by the Government under the co-savings arrangement to the member’s bank account, if any, opened under regulations made under section 3 of the Child Development Co-Savings Act (Cap. 38A),
+
+[13/2011 wef 01/05/2011]
 
 shall not exceed such maximum amount as the Minister may from time to time prescribe.
 
@@ -476,13 +478,17 @@ shall not exceed such maximum amount as the Minister may from time to time presc
 
 [52/2007]
 
-(10) In this section, “eligible member of the PSE Fund” means any member of that Fund who —
+(10) In this section —
 
-(a) is eligible for membership of the Children Development Co-Savings Scheme established by regulations made under section 3 of the Children Development Co-Savings Act (Cap. 38A); and
+“co-savings arrangement” means the co-savings arrangement referred to in section 3(1)(a) of the Child Development Co-Savings Act (Cap. 38A);
+
+“eligible member of the PSE Fund” means any member of that Fund who —
+
+(a) is eligible for the co-savings arrangement; and
 
 (b) satisfies such other requirements as may be prescribed.
 
-[52/2007]
+[13/2011 wef 01/05/2011]
 
 ## PART IIIB
 
@@ -756,7 +762,7 @@ Education Endowment and Savings Schemes Act
 
 (CHAPTER 87A)
 
-This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of this Scheme.
+This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -790,3 +796,9 @@ This Legislative History is provided for the convenience of users of the Educati
 ||Date of commencement|1 January 2008|
 |7.|**2009 Revised Edition—Education Endowment and Savings Schemes Act**|
 ||Date of operation|31 July 2009|
+|8.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|28 February 2011|
+|||(Bill No. 8/2011 published on 28 February 2011)|
+||Date of Second and Third Readings|10 March 2011|
+||Date of commencement|1 May 2011|
