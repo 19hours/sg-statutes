@@ -1511,6 +1511,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|20.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2011|
+|||(Bill No. 10/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 May 2011|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
