@@ -150,11 +150,13 @@ Powers and Duties of Public Trustee
 
 (a) undertake such functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign him;
 
-(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity.
-
-[15/2011 wef 01/05/2011]
+(b) be appointed as a deputy by the High Court under the Mental Capacity Act 2008 with powers and duties conferred or imposed under that Act in relation to the property and affairs of a person who lacks capacity; and
 
 [22/2008 wef 01/03/2010]
+
+(c) undertake such role, functions and duties as set out in the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
+
+[15/2011 wef 01/05/2011]
 
 (2) Subject to and in accordance with this Act and the rules made thereunder, the Public Trustee may act either alone or jointly with any person or body of persons in any capacity to which he is appointed in pursuance of this Act, and shall have all the same powers, duties and liabilities, and be entitled to the same rights and immunities and be subject to the control and orders of the court, as a private trustee acting in the same capacity.
 
@@ -512,3 +514,9 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|21.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2011|
+|||(Bill No. 10/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 May 2011|
