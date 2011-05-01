@@ -920,7 +920,7 @@ from the date specified by the Authority in the notice, and subsection (1) shall
 
 Foreign government-owned banks
 
-11\. [Repealed byAct 1 of 2007]
+11\. [Repealed by Act 1 of 2007]
 
 ### Appeal to Minister
 
@@ -1132,7 +1132,7 @@ of a designated financial institution shall continue to be such a controller unl
 
 (ii) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
 
-(iii) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+(iii) B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
 
 (iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
@@ -1420,7 +1420,9 @@ shall be guilty of an offence.
 
 (vii) has been convicted of any offence under this Act or any of its directors or officers holding a managerial or executive position has been convicted of any offence under this Act; or
 
-(viii) has contravened any provision of the Deposit Insurance Act (Cap. 77A) or any rules issued by the deposit insurance agency under the Deposit Insurance Act; or
+(viii) has contravened any provision of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 or any Rules issued by the deposit insurance and policy owners’ protection fund agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011; or
+
+[15/2011 wef 01/05/2011]
 
 (b) if, upon the Authority exercising any power under section 49(2) or the Minister exercising any power under Division 2, 3 or 4 of Part VIIA in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
 
@@ -1460,7 +1462,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 Maintenance of reserve fund
 
-22\. [Repealed byAct 1 of 2007]
+22\. [Repealed by Act 1 of 2007]
 
 ### Maintenance of adequate provision for bad and doubtful debts
 
@@ -1470,7 +1472,7 @@ Maintenance of reserve fund
 
 Dividends
 
-24\. [Repealed byAct 23 of 2001]
+24\. [Repealed by Act 23 of 2001]
 
 ### Publication and exhibition of audited balance-sheet
 
@@ -1976,7 +1978,7 @@ any person in the director group of the bank whether or not the bank has contrav
 
 Relief from limitations imposed by sections 29, 31 and 33
 
-37\. [Repealed byAct 1 of 2007]
+37\. [Repealed by Act 1 of 2007]
 
 ## PART VI
 
@@ -4104,9 +4106,13 @@ he shall immediately report the matter to the Authority.
 
 62\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a bank, the following liabilities in Singapore of the bank shall, amongst themselves, rank in the following order of priority:
 
-(a) firstly, any premium contributions due and payable by the bank under the Deposit Insurance Act (Cap. 77A);
+(a) firstly, any premium contributions due and payable by the bank under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
 
-(b) secondly, liabilities incurred by the bank in respect of insured deposits, up to the amount of compensation paid or payable out of the Fund by the Agency under the Deposit Insurance Act in respect of such insured deposits;
+[15/2011 wef 01/05/2011]
+
+(b) secondly, liabilities incurred by the bank in respect of insured deposits, up to the amount of compensation paid or payable out of the DI Fund by the Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such insured deposits;
+
+[15/2011 wef 01/05/2011]
 
 (c) thirdly, deposit liabilities incurred by the bank with non-bank customers other than those specified in paragraphs (b) and (d);
 
@@ -4158,9 +4164,9 @@ but does not include —
 
 [1/2007]
 
-(5) In this section, “Agency”, “Fund” and “insured deposit” have the same respective meanings as in section 2(1) of the Deposit Insurance Act (Cap. 77A).
+(5) In this section, “Agency”, “DI Fund” and “insured deposit” have the same respective meanings as in section 2(1) of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
 
-[31/2005]
+[15/2011 wef 01/05/2011]
 
 ### Priorities for set-off in winding up of bank
 
@@ -4254,7 +4260,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Indemnity
 
-68\. [Repealed byAct 24 of 2003]
+68\. [Repealed by Act 24 of 2003]
 
 ### Composition of offences
 
@@ -4456,15 +4462,13 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 76\. Nothing in this Act shall be construed so as to prevent any of the following persons from carrying on any activity or business (other than an activity or a business referred to in Part VIII) for which he is registered or licensed under the following respective Act corresponding to that person:
 
-(a) [Deleted byAct 23/2008 wef 20/10/2008]
+(a) [Deleted by Act 23/2008 wef 20/10/2008]
 
 (b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222); or
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108).
 
 [28/93; 37/98; 23/2001; 1/2007]
-
-[23/2008 wef 20/10/2008]
 
 ### Authority’s powers of exemption
 
@@ -4576,57 +4580,109 @@ Section 79
 
 Banks
 
-1\. ABN AMRO (formerly known as Algemene Bank Nederland N.V)
+1. 
 
-2\. Bangkok Bank Public Company Limited (formerly known as Bangkok Bank, Limited)
+ABN AMRO (formerly known as Algemene Bank Nederland N.V)
 
-3\. Bank of America, National Association (formerly known as Bank of America National Trust and Savings Association)
+2. 
 
-4\. Bank of China Limited (formerly known as Bank of China)
+Bangkok Bank Public Company Limited (formerly known as Bangkok Bank, Limited)
 
-5\. The Bank of East Asia, Limited
+3. 
 
-6\. Bank of India
+Bank of America, National Association (formerly known as Bank of America National Trust and Savings Association)
 
-7\. Bank of Singapore, Limited
+4. 
 
-8\. The Bank of Tokyo-Mitsubishi UFJ, Ltd (formerly known as The Bank of Tokyo, Limited)
+Bank of China Limited (formerly known as Bank of China)
 
-9\. Calyon (formerly known as Banque Indosuez)
+5. 
 
-10\. Citibank N.A. (formerly known as First National City Bank)
+The Bank of East Asia, Limited
 
-11\. DBS Bank Ltd (formerly known as The Development Bank of Singapore, Limited)
+6. 
 
-12\. Far Eastern Bank, Limited
+Bank of India
 
-13\. HL Bank (formerly known as Kwong Lee Bank)
+7. 
 
-14\. The Hongkong and Shanghai Banking Corporation
+Bank of Singapore, Limited
 
-15\. Indian Bank
+8. 
 
-16\. Indian Overseas Bank
+The Bank of Tokyo-Mitsubishi UFJ, Ltd (formerly known as The Bank of Tokyo, Limited)
 
-17\. JPMorgan Chase Bank, N.A. (formerly known as The Chase Manhattan Bank National Association)
+9. 
 
-18\. Malayan Banking, Berhad
+Calyon (formerly known as Banque Indosuez)
 
-19\. P.T. Bank Negara Indonesia (Persero) Tbk (formerly known as Bank Negara Indonesia 1946)
+10. 
 
-20\. Oversea-Chinese Banking Corporation, Limited
+Citibank N.A. (formerly known as First National City Bank)
 
-21\. RHB Bank Berhad (formerly known as United Malayan Banking Corporation, Berhad)
+11. 
 
-22\. Southern Bank Berhad (formerly known as Ban Hin Lee Bank, Berhad)
+DBS Bank Ltd (formerly known as The Development Bank of Singapore, Limited)
 
-23\. Standard Chartered Bank (formerly known as The Chartered Bank)
+12. 
 
-24\. Sumitomo Mitsui Banking Corporation (formerly known as The Mitsui Bank, Limited)
+Far Eastern Bank, Limited
 
-25\. UCO Bank (formerly known as United Commercial Bank)
+13. 
 
-26. United Overseas Bank, Limited.
+HL Bank (formerly known as Kwong Lee Bank)
+
+14. 
+
+The Hongkong and Shanghai Banking Corporation
+
+15. 
+
+Indian Bank
+
+16. 
+
+Indian Overseas Bank
+
+17. 
+
+JPMorgan Chase Bank, N.A. (formerly known as The Chase Manhattan Bank National Association)
+
+18. 
+
+Malayan Banking, Berhad
+
+19. 
+
+P.T. Bank Negara Indonesia (Persero) Tbk (formerly known as Bank Negara Indonesia 1946)
+
+20. 
+
+Oversea-Chinese Banking Corporation, Limited
+
+21. 
+
+RHB Bank Berhad (formerly known as United Malayan Banking Corporation, Berhad)
+
+22. 
+
+Southern Bank Berhad (formerly known as Ban Hin Lee Bank, Berhad)
+
+23. 
+
+Standard Chartered Bank (formerly known as The Chartered Bank)
+
+24. 
+
+Sumitomo Mitsui Banking Corporation (formerly known as The Mitsui Bank, Limited)
+
+25. 
+
+UCO Bank (formerly known as United Commercial Bank)
+
+26. 
+
+United Overseas Bank, Limited.
 
 [1/2007]
 
@@ -4786,9 +4842,11 @@ The parent supervisory authority of the bank incorporated outside Singapore or t
 
 (b) The parent supervisory authority is prohibited by the laws applicable to it from disclosing the customer information obtained by it to any person unless compelled to do so by the laws or courts of the country or territory where it is established.
 
-9. Disclosure is in compliance with the provisions of this Act, the Deposit Insurance Act (Cap. 77A) or any notice or directive issued by the Authority to banks.
+9. Disclosure is in compliance with the provisions of this Act, the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 or any notice or directive issued by the Authority to banks.
 
 The Authority or any person authorised or appointed by the Authority.
+
+[15/2011 wef 01/05/2011]
 
 Part II
 
@@ -4942,15 +5000,21 @@ Any financial institution in Singapore which is licensed or otherwise regulated 
 
 No customer information, other than the customer’s name, identity, address, and contact number shall be disclosed.
 
-10. Disclosure is solely in connection with the payment of compensation to insured depositors under the Deposit Insurance Act (Cap. 77A).
+10. Disclosure is solely in connection with the payment of compensation under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 to insured depositors or persons referred to in section 22(7) of that Act.
 
-(a) The deposit insurance agency; or
+(a) The deposit insurance and policy owners’ protection fund agency;
 
-(a) The disclosure by the deposit insurance agency to any person referred to in paragraph (b) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+(a) The disclosure by the deposit insurance and policy owners’ protection fund agency or the Public Trustee to any person referred to in paragraph (c) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
 
-(b) Any person authorised or appointed by the deposit insurance agency to perform its functions under the Deposit Insurance Act.
+(b) the Public Trustee; or
 
-(b) The disclosure by any person referred to in paragraph (b) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+(b) The disclosure by any person referred to in paragraph (a), (b) or (c) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+(c) any person authorised or appointed by the deposit insurance and policy owners’ protection fund agency or the Public Trustee (as the case may be) to perform its functions under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011.
+
+(c) The Public Trustee may disclose customer information to such persons or class of persons and subject to such conditions, as may be determined by the Minister.
+
+[15/2011 wef 01/05/2011]
 
 Part III
 
@@ -4962,9 +5026,13 @@ In this Schedule, unless the context otherwise requires —
 
 “credit bureau” means a credit bureau recognised as such by the Authority by notification in the Gazette for the purposes of this Schedule;
 
-“deposit insurance agency” has the same meaning as in section 2(1) of the Deposit Insurance Act (Cap. 77A);
+“deposit insurance and policy owners’ protection fund agency” means the deposit insurance and policy owners’ protection fund agency designated under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
 
-“insured depositor” has the same meaning as in section 2(1) of the Deposit Insurance Act;
+[15/2011 wef 01/05/2011]
+
+“insured depositor” has the same meaning as in section 2(1) of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
+
+[15/2011 wef 01/05/2011]
 
 “lawyer” means an advocate and solicitor of the Supreme Court of Singapore, or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
 
@@ -4977,10 +5045,6 @@ In this Schedule, unless the context otherwise requires —
 “surety”, in relation to a customer of a bank, includes any person who has given the bank security for the liability of the customer by way of a mortgage or a charge.
 
 [23/2001; 31/2005]
-
-[5/2001 wef 11/02/2010]
-
-[19/2001 wef 21/11/2010]
 
 FOURTH SCHEDULE
 
@@ -5278,6 +5342,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|32.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2011|
+|||(Bill No. 10/2011 published on 10 March 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 May 2011|
 ## COMPARATIVE TABLE
 
 Banking Act
@@ -5411,6 +5481,8 @@ This Comparative Table is provided for the convenience of users. It is not part 
 —
 
 68 (Repealed by Act 24/2003)
+
+COMPARATIVE TABLE
 
 ## COMPARATIVE TABLE
 
