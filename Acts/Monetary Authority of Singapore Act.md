@@ -1240,7 +1240,9 @@ Written Laws
 
 1\. Banking Act (Cap. 19)
 
-1A\. Bills of Exchange Act (Cap. 23)
+1A. Bills of Exchange Act (Cap. 23)
+
+[21/2010 wef 15/01/2010]
 
 2\. Bretton Woods Agreements Act (Cap. 27)
 
@@ -1250,7 +1252,7 @@ Written Laws
 
 5\. Currency Act (Cap. 69)
 
-6\. Deposit Insurance Act (Cap. 77A)
+6\. Deposit Insurance and Policy Owners’ Protection Schemes Act 2011
 
 7\. Development Loan Act (Cap. 81)
 
@@ -1278,7 +1280,9 @@ Written Laws
 
 19\. Securities and Futures Act (Cap. 289)
 
-20\. Trust Companies Act (Cap. 336).
+20. Trust Companies Act (Cap. 336).
+
+[13/2007 wef 30/06/2007]
 
 ## LEGISLATIVE HISTORY
 
@@ -1418,6 +1422,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 11/2010 published on 25 June 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|29.|**Act 15 of 2011—Deposit Insurance and Policy Owners’ Protection Schemes Act 2011**|
+||Date of First Reading|10 March 2011|
+|||(Bill No. 10/2011 published on 29 April 2011)|
+||Date of Second and Third Readings|11 April 2011|
+||Date of commencement|1 May 2011|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
