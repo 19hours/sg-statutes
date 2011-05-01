@@ -498,15 +498,25 @@ A caricature is a document.
 
 Illustration
 
-(a) That there are certain objects arranged in a certain order in a certain place is a fact.
+(a)
 
-(b) That a man heard or saw something is a fact.
+That there are certain objects arranged in a certain order in a certain place is a fact.
 
-(c) That a man said certain words is a fact.
+(b)
 
-(d) That a man holds a certain opinion, has a certain intention, acts in good faith or fraudulently, or uses a particular word in a particular sense, or is or was at a specified time conscious of a particular sensation, is a fact.
+That a man heard or saw something is a fact.
 
-(e) That a man has a certain reputation is a fact.
+(c)
+
+That a man said certain words is a fact.
+
+(d)
+
+That a man holds a certain opinion, has a certain intention, acts in good faith or fraudulently, or uses a particular word in a particular sense, or is or was at a specified time conscious of a particular sensation, is a fact.
+
+(e)
+
+That a man has a certain reputation is a fact.
 
 “fact in issue” includes any fact from which either by itself or in connection with other facts the existence, non-existence, nature or extent of any right, liability or disability asserted or denied in any suit or proceeding necessarily follows.
 
@@ -608,55 +618,77 @@ The facts that shortly before the robberyBwent to a fair with money in his posse
 
 (2) The conduct of any party or of any agent to any party to any suit or proceeding in reference to such suit or proceeding or in reference to any fact in issue therein or relevant thereto, and the conduct of any person an offence against whom is the subject of any proceeding, is relevant if such conduct influences or is influenced by any fact in issue or relevant fact, and whether it was previous or subsequent thereto.
 
-Explanation 1.—The word “conduct” in this section does not include statements unless those statements accompany and explain acts other than statements; but this explanation is not to affect the relevancy of statements under any other section of this Act.
+Explanation1.—The word “conduct” in this section does not include statements unless those statements accompany and explain acts other than statements; but this explanation is not to affect the relevancy of statements under any other section of this Act.
 
-Explanation 2.—When the conduct of any person is relevant any statement made to him or in his presence and hearing which affects such conduct is relevant.
+Explanation2.—When the conduct of any person is relevant any statement made to him or in his presence and hearing which affects such conduct is relevant.
 
 Illustration
 
-(a)Ais tried for the murder ofB.
+(a)
+
+Ais tried for the murder ofB.
 
 The facts thatAmurderedC, thatBknew thatAhad murderedCand thatBhad tried to extort money fromAby threatening to make his knowledge public, are relevant.
 
-(b)AsuesBupon a bond for the payment of money.Bdenies the making of the bond.
+(b)
+
+AsuesBupon a bond for the payment of money.Bdenies the making of the bond.
 
 The fact that at the time when the bond was alleged to be madeBrequired money for a particular purpose is relevant.
 
-(c)Ais tried for the murder ofBby poison.
+(c)
+
+Ais tried for the murder ofBby poison.
 
 The fact that before the death ofB,Aprocured poison similar to that which was administered toBis relevant.
 
-(d) The question is whether a certain document is the will ofA.
+(d)
+
+The question is whether a certain document is the will ofA.
 
 The facts that not long before the date of the alleged willAmade inquiry into matters to which the provisions of the alleged will relate, that he consulted lawyers in reference to making the will, and that he caused drafts of other wills to be prepared of which he did not approve are relevant.
 
-(e)Ais accused of a crime.
+(e)
+
+Ais accused of a crime.
 
 The facts that either before, or at the time of or after the alleged crime,Aprovided evidence which would tend to give to the facts of the case an appearance favourable to himself, or that he destroyed or concealed evidence or prevented the presence or procured the absence of persons who might have been witnesses, or suborned persons to give false evidence respecting it, are relevant.
 
-(f) The question is whetherArobbedB.
+(f)
+
+The question is whetherArobbedB.
 
 The facts that afterBwas robbed,Csaid inA’spresence: “The police are coming to look for the man who robbedB”, and that immediately afterwardsAran away are relevant.
 
-(g) The question is whetherAowesB$10,000.
+(g)
+
+The question is whetherAowesB$10,000.
 
 The facts thatAaskedCto lend him money, and thatDsaid toCinA’spresence and hearing: “I advise you not to trustAfor he owesB$10,000”, and thatAwent away without making any answer, are relevant facts.
 
-(h) The question is whetherAcommitted a crime.
+(h)
+
+The question is whetherAcommitted a crime.
 
 The fact thatAabsconded after receiving a letter warning him that inquiry was being made for the criminal, and the contents of the letter, are relevant.
 
-(i)Ais accused of a crime.
+(i)
+
+Ais accused of a crime.
 
 The facts that after the commission of the alleged crime he absconded, or was in possession of property or the proceeds of property acquired by the crime, or attempted to conceal things which were or might have been used in committing it, are relevant.
 
-(j) The question is whetherAwas ravished.
+(j)
+
+The question is whetherAwas ravished.
 
 The facts that shortly after the alleged rape she made a complaint relating to the crime, the circumstances under which and the terms in which the complaint was made, are relevant.
 
 The fact that without making a complaint she said that she had been ravished is not relevant as conduct under this section, though it may be relevant as a dying declaration under section 32(a), or as corroborative evidence under section 159.
 
-(k) The question is whetherAwas robbed.
+(k)
+
+The question is whetherAwas robbed.
 
 The fact that soon after the alleged robbery he made a complaint relating to the offence, the circumstances under which and the terms in which the complaint was made, are relevant.
 
@@ -668,17 +700,23 @@ The fact that he said he had been robbed without making any complaint is not rel
 
 Illustration
 
-(a) The question is whether a given document is the will ofA.
+(a)
+
+The question is whether a given document is the will ofA.
 
 The state ofA’sproperty and of his family at the date of the alleged will may be relevant facts.
 
-(b)AsuesBfor libel imputing disgraceful conduct toA;Baffirms that the matter alleged to be libellous is true.
+(b)
+
+AsuesBfor libel imputing disgraceful conduct toA;Baffirms that the matter alleged to be libellous is true.
 
 The position and relations of the parties at the time when the libel was published may be relevant facts as introductory to the facts in issue.
 
 The particulars of a dispute betweenAandBabout a matter unconnected with the alleged libel are irrelevant, though the fact that there was a dispute may be relevant if it affected the relations betweenAandB.
 
-(c)Ais accused of a crime.
+(c)
+
+Ais accused of a crime.
 
 The fact that soon after the commission of the crimeAabsconded from his house is relevant under section 8 as conduct subsequent to and affected by facts in issue.
 
@@ -686,11 +724,17 @@ The fact that at the time when he left home he had sudden and urgent business at
 
 The details of the business on which he left are not relevant, except in so far as they are necessary to show that the business was sudden and urgent.
 
-(d)AsuesBfor inducingCto break a contract of service made by him withA.Con leavingA’sservice says toA: “I am leaving you becauseBhas made me a better offer”. This statement is a relevant fact as explanatory ofC’sconduct, which is relevant as a fact in issue.
+(d)
 
-(e)Aaccused of theft is seen to give the stolen property toBwho is seen to give it toA’swife.Bsays as he delivers it: “Asays you are to hide this”.B’sstatement is relevant as explanatory of a fact which is part of the transaction.
+AsuesBfor inducingCto break a contract of service made by him withA.Con leavingA’sservice says toA: “I am leaving you becauseBhas made me a better offer”. This statement is a relevant fact as explanatory ofC’sconduct, which is relevant as a fact in issue.
 
-(f)Ais tried for a riot and is proved to have marched at the head of a mob. The cries of the mob are relevant as explanatory of the nature of the transaction.
+(e)
+
+Aaccused of theft is seen to give the stolen property toBwho is seen to give it toA’swife.Bsays as he delivers it: “Asays you are to hide this”.B’sstatement is relevant as explanatory of a fact which is part of the transaction.
+
+(f)
+
+Ais tried for a riot and is proved to have marched at the head of a mob. The cries of the mob are relevant as explanatory of the nature of the transaction.
 
 ### Things said or done by conspirator in reference to common design
 
@@ -744,113 +788,81 @@ The question is whetherAhas a right to a fishery. A deed conferring the fishery 
 
 Explanation1.—A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists not generally but in reference to the particular matter in question.
 
-Explanation— 2.—But where upon the trial of a person accused of an offence the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.
+Explanation2.—But where upon the trial of a person accused of an offence the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.
 
 Illustrations
 
-(a)
-
-Ais accused of receiving stolen goods, knowing them to be stolen. It is proved that he was in possession of a particular stolen article.
+(a)Ais accused of receiving stolen goods, knowing them to be stolen. It is proved that he was in possession of a particular stolen article.
 
 The fact that at the same time he was in possession of many other stolen articles is relevant as tending to show that he knew each and all of the articles of which he was in possession to be stolen.
 
-(b)
-
-Ais accused of fraudulently delivering to another person a counterfeit coin, which at the time when he delivered it he knew to be counterfeit.
+(b)Ais accused of fraudulently delivering to another person a counterfeit coin, which at the time when he delivered it he knew to be counterfeit.
 
 The fact that at the time of its deliveryAwas possessed of a number of other pieces of counterfeit coin is relevant.
 
-The fact thatAhad been previously convicted of delivering to another person as genuine a counterfeit coin, knowing it to be counterfeit, is relevant.
+The fact that A had been previously convicted of delivering to another person as genuine a counterfeit coin, knowing it to be counterfeit, is relevant.
 
-(c)
-
-AsuesBfor damage done by a dog ofB’s, whichBknew to be ferocious.
+(c)AsuesBfor damage done by a dog ofB’s, whichBknew to be ferocious.
 
 The facts that the dog had previously bittenX,YandZand that they had made complaints toBare relevant.
 
-(d)
-
-The question is whetherA, the acceptor of a bill of exchange, knew that the name of the payee was fictitious.
+(d) The question is whetherA, the acceptor of a bill of exchange, knew that the name of the payee was fictitious.
 
 The fact thatAhad accepted other bills drawn in the same manner before they could have been transmitted to him by the payee, if the payee had been a real person, is relevant, as showing thatAknew that the payee was a fictitious person.
 
-(e)
-
-Ais accused of defamingBby publishing an imputation intended to harm the reputation ofB.
+(e)Ais accused of defamingBby publishing an imputation intended to harm the reputation ofB.
 
 The fact of previous publications byArespectingBshowing ill-will on the part ofAtowardsBis relevant, as provingA’sintention to harmB’sreputation by the particular publication in question.
 
 The facts that there was no previous quarrel betweenAandBand thatArepeated the matter complained of as he heard it, are relevant as showing thatAdid not intend to harm the reputation ofB.
 
-(f)
-
-Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced to trustC, who was insolvent, suffered loss.
+(f)Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced to trustC, who was insolvent, suffered loss.
 
 The fact that at the time whenArepresentedCto be solventCwas supposed to be solvent by his neighbours, and by persons dealing with him, is relevant, as showing thatAmade the representation in good faith.
 
-(g)
-
-Ais sued byBfor the price of work done byBupon a house of whichAis owner by the order ofC, a contractor.
+(g)Ais sued byBfor the price of work done byBupon a house of whichAis owner by the order ofC, a contractor.
 
 A’sdefence is thatB’scontract was withC.
 
 The fact thatApaidCfor the work in question is relevant as providing thatAdid in good faith make over toCthe management of the work in question, so thatCwas in a position to contract withBonC’sown account and not as agent forA.
 
-(h)
-
-Ais accused of the dishonest misappropriation of property which he had found, and the question is whether, when he appropriated it he believed in good faith that the real owner could not be found.
+(h)Ais accused of the dishonest misappropriation of property which he had found, and the question is whether, when he appropriated it he believed in good faith that the real owner could not be found.
 
 The fact that public notice of the loss of the property had been given in the place whereAwas, is relevant as showing thatAdid not in good faith believe that the real owner of the property could not be found.
 
 The fact thatAknew or had reason to believe that the notice was given fraudulently byCwho had heard of the loss of the property and wished to set up a false claim to it, is relevant as showing that the fact thatAknew of the notice did not disproveA’sgood faith.
 
-(i)
-
-Ais charged with shooting atBwith intent to kill him.
+(i)Ais charged with shooting atBwith intent to kill him.
 
 In order to showA’sintent, the fact ofA’shaving previously shot atBmay be proved.
 
-(j)
-
-Ais charged with sending threatening letters toB.
+(j)Ais charged with sending threatening letters toB.
 
 Threatening letters previously sent byAtoBmay be proved as showing the intention of the letters.
 
-(k)
-
-The question is whetherAhas been guilty of cruelty towardsBhis wife.
+(k) The question is whetherAhas been guilty of cruelty towardsBhis wife.
 
 Expression of their feelings towards each other shortly before or after the alleged cruelty are relevant facts.
 
-(l)
-
-The question is whetherA’sdeath was caused by poison.
+(l) The question is whetherA’sdeath was caused by poison.
 
 Statements made byAduring his illness as to his symptoms are relevant facts.
 
-(m)
+(m) The question is, what was the state ofA’shealth at the time when an assurance on his life was effected? Statements made byAas to the state of his health at or near the time in question are relevant facts.
 
-The question is, what was the state ofA’shealth at the time when an assurance on his life was effected? Statements made byAas to the state of his health at or near the time in question are relevant facts.
-
-(n)
-
-AsuesBfor negligence in providing him with a motor car for hire not reasonably fit for use wherebyAwas injured.
+(n)AsuesBfor negligence in providing him with a motor car for hire not reasonably fit for use wherebyAwas injured.
 
 The fact thatB’sattention was drawn on other occasions to the defect of that particular motor car is relevant.
 
 The fact thatBwas habitually negligent about the motor cars which he let to hire is irrelevant.
 
-(o)
-
-Ais tried for the murder ofBby intentionally shooting him dead.
+(o)Ais tried for the murder ofBby intentionally shooting him dead.
 
 The fact thatAon other occasions shot atBis relevant as showing his intention to shootB.
 
 The fact thatAwas in the habit of shooting at people with intent to murder them is irrelevant.
 
-(p)
-
-Ais tried for a crime.
+(p)Ais tried for a crime.
 
 The fact that he said something indicating an intention to commit that particular crime is relevant.
 
@@ -948,7 +960,7 @@ Asays toB: “Go and askC,Cknows all about it”.C’sstatement is an admission.
 
 (c) an admission may be proved by or on behalf of the person making it if it is relevant otherwise than as an admission.
 
-Illustrations
+Illustration
 
 (a)
 
@@ -994,7 +1006,7 @@ Amay prove these facts for the reasons stated in illustration (d).
 
 23\. In civil cases, no admission is relevant if it is made either upon an express condition that evidence of it is not to be given, or under circumstances from which the court can infer that the parties agreed together that evidence of it should not be given.
 
-Explanation.—Nothing in this section shall be taken to exempt any advocate or solicitor from giving evidence of any matter of which he may be compelled to give evidence under section 128.
+Explanation—Nothing in this section shall be taken to exempt any advocate or solicitor from giving evidence of any matter of which he may be compelled to give evidence under section 128(1).
 
 24\. [Repealed by Act 15/2010 wef 02/01/2011]
 
@@ -1068,7 +1080,9 @@ when the statement was made by a number of persons and expressed feelings or imp
 
 Illustration
 
-(a) The question is whetherAwas murdered byB.
+(a)
+
+The question is whetherAwas murdered byB.
 
 Adies of injuries received in a transaction in the course of which she was ravished.
 
@@ -1078,51 +1092,75 @@ The question is whetherAwas killed byBunder such circumstances that a suit would
 
 Statements made byAas to the cause of his or her death, referring respectively to the murder, the rape and the actionable wrong under consideration, are relevant facts.
 
-(b) The question is as to the date ofA’sbirth.
+(b)
+
+The question is as to the date ofA’sbirth.
 
 An entry in the diary of a deceased surgeon regularly kept in the course of business, stating that on a given day he attendedA’smother and delivered her of a son, is a relevant fact.
 
-(c) The question is whetherAwas in Singapore on a given day.
+(c)
+
+The question is whetherAwas in Singapore on a given day.
 
 A statement in the diary of a deceased solicitor regularly kept in the course of business that on a given day the solicitor attendedAat a place mentioned in Singapore for the purpose of conferring with him upon specified business is a relevant fact.
 
-(d) The question is whether a ship sailed from Singapore harbour on a given day.
+(d)
+
+The question is whether a ship sailed from Singapore harbour on a given day.
 
 A letter written by a deceased member of a merchant’s firm by which she was chartered to their correspondents in London, to whom the cargo was consigned, stating that the ship sailed on a given day from Singapore harbour is a relevant fact.
 
-(e) The question is whether rent was paid to A for certain land.
+(e)
+
+The question is whether rent was paid to A for certain land.
 
 A letter fromA’sdeceased agent toB, saying that he had received the rent onA’saccount and held it atA’sorders, is a relevant fact.
 
-(f) The question is whetherAandBwere legally married.
+(f)
+
+The question is whetherAandBwere legally married.
 
 The statement of a deceased clergyman that he married them under such circumstances that the celebration would be a crime is relevant.
 
-(g) The question is whetherA, a person who cannot be found, wrote a letter on a certain day.
+(g)
+
+The question is whetherA, a person who cannot be found, wrote a letter on a certain day.
 
 The fact that a letter written by him is dated on that day is relevant.
 
-(h) The question is, what was the cause of the wreck of a ship?
+(h)
+
+The question is, what was the cause of the wreck of a ship?
 
 A protest made by the captain, whose attendance cannot be procured, is a relevant fact.
 
-(i) The question is, what was the price of shares on a certain day in a particular market?
+(i)
+
+The question is, what was the price of shares on a certain day in a particular market?
 
 A statement of the price made by a deceased broker in the ordinary course of his business is a relevant fact.
 
-(j) The question is whetherA, who is dead, was the father ofB.
+(j)
+
+The question is whetherA, who is dead, was the father ofB.
 
 A statement byAthatBwas his son is a relevant fact.
 
-(k) The question is, what was the date of the birth ofA?
+(k)
+
+The question is, what was the date of the birth ofA?
 
 A letter fromA’sdeceased father to a friend, announcing the birth ofAon a given day, is a relevant fact.
 
-(l) The question is whether and whenAandBwere married.
+(l)
+
+The question is whether and whenAandBwere married.
 
 An entry in a memorandum-book byC, the deceased father ofB, of his daughter’s marriage withAon a given date, is a relevant fact.
 
-(m)AsuesBfor a libel expressed in a printed caricature exposed in a shop-window. The question is as to the similarity of the caricature and its libellous character.
+(m)
+
+AsuesBfor a libel expressed in a printed caricature exposed in a shop-window. The question is as to the similarity of the caricature and its libellous character.
 
 The remarks of a crowd of spectators on these points may be proved.
 
@@ -2594,11 +2632,11 @@ This being a fact observed byBin the course of his employment, showing that a fr
 
 ### Section 128 to apply to interpreters, etc.
 
-129\. Section 128 shall apply to interpreters and the clerks or employees of advocates and solicitors.
+129\. Section 128(1) shall apply to interpreters and the clerks or employees of advocates and solicitors.
 
 ### Privilege not waived by volunteering evidence
 
-130\. If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 128; and if any party to a suit or proceeding calls any such advocate or solicitor as a witness, he shall be deemed to have consented to such disclosure only if he questions the advocate or solicitor on matters which but for the question he would not be at liberty to disclose.
+130\. If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 128(1); and if any party to a suit or proceeding calls any such advocate or solicitor as a witness, he shall be deemed to have consented to such disclosure only if he questions the advocate or solicitor on matters which but for the question he would not be at liberty to disclose.
 
 ### Confidential communications with legal advisers
 
@@ -2888,7 +2926,9 @@ Explanation.—A witness declaring another witness to be unworthy of credit may 
 
 Illustration
 
-(a)AsuesBfor the price of goods sold and delivered toB.
+(a)
+
+AsuesBfor the price of goods sold and delivered toB.
 
 Csays that he delivered the goods toB.
 
@@ -2896,7 +2936,9 @@ Evidence is offered to show that on a previous occasion he said that he had not 
 
 The evidence is admissible.
 
-(b)Ais indicted for the murder ofB.
+(b)
+
+Ais indicted for the murder ofB.
 
 Csays thatB, when dying, declared thatAhad givenBthe wound of which he died.
 
@@ -3042,19 +3084,27 @@ Statutory Body
 
 Act under which established
 
-1. Board of Commissioners of Currency, Singapore
+1.
+
+Board of Commissioners of Currency, Singapore
 
 Currency Act (Chapter 69).
 
-2. Central Provident Fund Board
+2.
+
+Central Provident Fund Board
 
 Central Provident Fund Act (Chapter 36).
 
-3. Civil Aviation Authority of Singapore
+3.
 
-Civil Aviation Authority of Singapore Act 2009
+Civil Aviation Authority of Singapore
 
-3A. Civil Service College
+Civil Aviation Authority of Singapore Act 2009 (Chapter 41)
+
+3A.
+
+Civil Service College
 
 Civil Service College Act 2001
 
@@ -3063,83 +3113,133 @@ Civil Service College Act 2001
 
 (Act 29 of 2001).
 
-4.Deleted by Act 3/2005, wef 10/06/2005.
+4.
 
-5. Building and Construction Authority
+[Deleted by Act 3/2005, wef 10/06/2005.]
+
+5.
+
+Building and Construction Authority
 
 Building and Construction Authority Act 1999 (Act 4 of 1999).
 
-5A. Defence Science and Technology Agency
+5A.
+
+Defence Science and Technology Agency
 
 Defence Science and Technology Agency Act 2000.
 
-6. Economic Development Board
+6.
+
+Economic Development Board
 
 Economic Development Board Act (Chapter 85).
 
-7. Housing and Development Board
+6A.
+
+Health Sciences Authority
+
+Health Sciences Authority Act (Chapter 122C).
+
+7.
+
+Housing and Development Board
 
 Housing and Development Act (Chapter 129).
 
-7A. Info-communications Development Authority of Singapore
+7A.
+
+Info-communications Development Authority of Singapore
 
 Info-communications Development Authority of Singapore Act 1999.
 
-8. Inland Revenue Authority of Singapore
+8.
+
+Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act (Chapter 138A).
 
-8A. Intellectual Property Office of Singapore
+8A.
+
+Intellectual Property Office of Singapore
 
 Intellectual Property Office of Singapore Act 2001.
 
-9. Jurong Town Corporation
+9.
+
+Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150).
 
-10. Land Transport Authority of Singapore
+10.
+
+Land Transport Authority of Singapore
 
 Land Transport Authority of Singapore Act (Chapter 158A).
 
-11. Maritime and Port Authority of Singapore
+11.
+
+Maritime and Port Authority of Singapore
 
 Maritime and Port Authority of Singapore Act (Chapter 170A).
 
-12. Monetary Authority of Singapore
+12.
+
+Monetary Authority of Singapore
 
 Monetary Authority of Singapore Act (Chapter 186).
 
-13.Deleted by Act 41/99, wef 01/12/1999.
+13.
 
-14. Public Utilities Board
+[Deleted by Act 41/99, wef 01/12/1999.]
+
+14.
+
+Public Utilities Board
 
 Public Utilities Act (Chapter 261).
 
-15. Singapore Broadcasting Authority
+15.
+
+Singapore Broadcasting Authority
 
 Singapore Broadcasting Authority Act (Chapter 297).
 
-15A. Singapore Land Authority
+15A.
+
+Singapore Land Authority
 
 Singapore Land Authority Act 2001.
 
-16. Singapore Productivity and Standards Board
+16.
 
-Singapore Productivity and Standards Board Act (Chapter 303A).
+Standard, Productivity and Innovative Board
 
-17. Singapore Tourism Board
+Standard, Productivity and Innovative Board Act (Chapter 303A).
+
+17.
+
+Singapore Tourism Board
 
 Singapore Tourism Board Act (Chapter 305B).
 
-18.Deleted by Act 41/99, wef 01/12/1999.
+18.
 
-19. Trade Development Board
+[Deleted by Act 41/99, wef 01/12/1999.]
 
-Trade Development Board Act (Chapter 330).
+19.
 
-20. Urban Redevelopment Authority
+International Enterprise Singapore Board
+
+International Enterprise Singapore Board Act (Chapter 330).
+
+20.
+
+Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
+
+[S 210/2011 wef 01/05/2011]
 
 [S 414/92]
 
@@ -3154,6 +3254,12 @@ Urban Redevelopment Authority Act (Chapter 340).
 [17/2001 wef 01/06/2001]
 
 [17/2009 wef 01/07/2009]
+
+[29/95]
+
+[1/96]
+
+[7/96]
 
 ## LEGISLATIVE HISTORY
 
@@ -3342,3 +3448,5 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |||(item (39) of the Sixth Schedule)|
+|38.|**G. N. No. S 210/2011—Evidence Act (Amendment of Schedule) Order 2011**|
+||Date of commencement|1 May 2011|
