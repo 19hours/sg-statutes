@@ -102,9 +102,15 @@ PRELIMINARY
 
 “advocate and solicitor” means an advocate and solicitor of the Supreme Court but shall not include any person admitted ad hoc under section 21 of the Legal Profession Act (Cap. 161);
 
-“Board” means the Board of Legal Education established under section 3 of the Legal Profession Act;
-
 “Constitution” means the Constitution of the Republic of Singapore;
+
+“foreign lawyer” has the same meaning as in the Legal Profession Act;
+
+[8/2011 wef 03/05/2011]
+
+“Institute” means the Singapore Institute of Legal Education established under section 3 of the Legal Profession Act;
+
+[8/2011 wef 03/05/2011]
 
 “Judge of the Supreme Court” includes —
 
@@ -115,6 +121,8 @@ PRELIMINARY
 “Law Society” means the Law Society of Singapore established under section 36 of the Legal Profession Act (Cap. 161);
 
 “Legal Service Officer” means an officer in the Singapore Legal Service;
+
+[20/2009 wef 09/10/2009]
 
 “member” includes a Fellow, honorary member, ordinary member and associate member of the Academy;
 
@@ -148,11 +156,11 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 (e) to provide for the training, education and examination, by the Academy or by any other body, of persons intending to practise the profession of law;
 
-(f) to consider proposals and suggestions regarding matters which are referred to the Academy by the Law Society or the Board ;
+(f) to consider proposals and suggestions regarding matters which are referred to the Academy by the Law Society or the Institute;
 
 [8/2011 wef 03/05/2011]
 
-(g) to refer to the Law Society or the Board proposals and suggestions regarding matters which in the opinion of the Senate require consideration by the Law Society or the Board;
+(g) to refer to the Law Society or the Institute proposals and suggestions regarding matters which in the opinion of the Senate require consideration by the Law Society or the Institute;
 
 [8/2011 wef 03/05/2011]
 
@@ -164,9 +172,9 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 (k) to provide consultancy and other services relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof;
 
-[4/2010 wef 17/02/2010]
-
 (ka) to hold moneys, whether as stakeholder or in any other capacity, for the purposes or members of the legal profession in Singapore or under any written law; and
+
+[4/2010 wef 17/02/2010]
 
 (l) to exercise the functions and duties conferred on the Academy under any written law.
 
@@ -195,6 +203,8 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 (j) receive grants from the Government or donations and gifts from the Law Society or any source;
 
 (ja) retain, for the purposes of the Academy, any income derived from the holding of moneys under subsection (1)(ka);
+
+[4/2010 wef 17/02/2010]
 
 (k) borrow money, whether by way of bank overdraft or otherwise, for such of the purposes of the Academy as the Senate may from time to time consider desirable;
 
@@ -228,7 +238,7 @@ CONSTITUTION AND POWERS OF SENATE
 
 (e) the President of the Law Society;
 
-(f) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the School of Law of the Singapore Management University, in each case, being a qualified person;
+(f) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the School of Law of the Singapore Management University; and
 
 [20/2007 wef 01/06/2007]
 
@@ -236,7 +246,7 @@ CONSTITUTION AND POWERS OF SENATE
 
 [8/2011 wef 03/05/2011]
 
-(g) the Chairman of the Board; and
+(g) [Deleted by Act 8/2011 wef 03/05/2011]
 
 (h) 9 other members who are appointed by the Chief Justice after consultation with the Attorney-General, the President of the Law Society and the Deans appointed under paragraph (f).
 
@@ -366,11 +376,21 @@ MEMBERSHIP OF ACADEMY
 
 14\. Every person who —
 
-(a) is admitted as an advocate and solicitor, whether or not he has in force a practising certificate issued under section 25 of the Legal Profession Act; or
+(a) is admitted as an advocate and solicitor, whether or not he has in force a practising certificate issued under section 25 of the Legal Profession Act;
 
-(b) is a Legal Service Officer,
+[8/2011 wef 03/05/2011]
+
+(b) is a Legal Service Officer; or
 
 [20/2009 wef 09/10/2009]
+
+[8/2011 wef 03/05/2011]
+
+(c) being a foreign lawyer —
+
+(i) is registered by the Attorney-General under section 130I of the Legal Profession Act; or
+
+(ii) is granted the approval of the Attorney-General under section 130L of the Legal Profession Act,
 
 [8/2011 wef 03/05/2011]
 
@@ -390,6 +410,10 @@ shall become, by virtue of this section and without election, admission or appoi
 
 [20/2009 wef 09/10/2009]
 
+(ba) being a foreign lawyer referred to in section 14(c), his registration under section 130I of the Legal Profession Act, or his approval under section 130L of that Act, is cancelled;
+
+[8/2011 wef 03/05/2011]
+
 (c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, he has been dismissed from the Faculty or School, as the case may be, for misconduct in the discharge of his duties;
 
 [20/2007 wef 01/06/2007]
@@ -399,6 +423,8 @@ shall become, by virtue of this section and without election, admission or appoi
 (d) he has been convicted of an offence involving fraud or dishonesty;
 
 (e) he is or becomes mentally disordered and incapable of managing himself or his affairs;
+
+[21/2008 wef 01/03/2010]
 
 (f) he is an undischarged bankrupt; or
 
@@ -469,6 +495,8 @@ shall be circulated to all members other than those falling within classes of me
 (b) to prescribe the conditions which must be satisfied before copies of the documents referred to in subsection (2)(b) may be circulated to members; and
 
 (c) to prescribe the information which the summary financial statement must contain.
+
+[26/2001 wef 22/08/2001]
 
 ### Appointment and powers of Academy’s auditor
 
@@ -544,7 +572,7 @@ Singapore Academy of Law Act
 
 (CHAPTER 294A)
 
-This Legislative History is provided for the convenience of users of the Singapore Academy of Law Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Academy of Law Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -604,3 +632,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
+|12.|**Act 8 of 2011—Legal Profession (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 January 2011|
+|||(Bill No. 3/2011 published on 10 January 2011)|
+||Date of Second and Third Readings|14 February 2011|
+||Date of commencement|3 May 2011|
