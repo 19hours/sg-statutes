@@ -234,6 +234,12 @@ The Civil List and Pension Act [Cap. 44].
 
 The Internal Security (Injury Allowances) Regulations [Cap. 143, Rg 3].
 
+3A. 
+
+The Parliament (Privileges, Immunities and Powers) Act (Cap. 217).
+
+[Act 21 of 2012 wef 21/05/2011]
+
 4. 
 
 The Parliamentary Pensions Act [Cap. 219].
@@ -331,3 +337,9 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
+|9.|**Act 21 of 2012—Parliamentary Pensions (Abolition) Act 2012**|
+||(Consequential amendments made by)||
+||Date of First Reading|13 August 2012|
+|||(Bill No. 18/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|21 May 2011|
