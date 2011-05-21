@@ -22,17 +22,17 @@
 
 - [5 Pensions for serving office-holders after attaining 55 years of age](#Pensions-for-serving-office-holders-after-attaining-55-years-of-age)
 
-- [6 Service in office, if less than 8 years, to be counted as additional service for Member’s pension](#Service-in-office-if-less-than-8-years-to-be-counted-as-additional-service-for-Member’s-pension)
+- [6 (Repealed)](#Repealed)
 
 - [7 Commutation of pensions](#Commutation-of-pensions)
 
 - [8 Payment of pensions](#Payment-of-pensions)
 
-- [9 Pension granted to person ceasing to be Member or office-holder on medical grounds](#Pension-granted-to-person-ceasing-to-be-Member-or-office-holder-on-medical-grounds)
+- [9 (Repealed)](#Repealed)
 
-- [10 Gratuity payable on death of Member in certain circumstances](#Gratuity-payable-on-death-of-Member-in-certain-circumstances)
+- [10 (Repealed)](#Repealed)
 
-- [11 Pension and gratuity granted on incapacity or death of former Member](#Pension-and-gratuity-granted-on-incapacity-or-death-of-former-Member)
+- [11 (Repealed)](#Repealed)
 
 [**Part III MISCELLANEOUS**](#Part-III)
 
@@ -108,9 +108,13 @@ and for the purposes of paragraph (c), a Member’s service shall be deemed not 
 
 “prescribed commutation factor” and “prescribed discount rate” mean, respectively, such factor and rate as the President shall prescribe for the purposes of this Act;
 
-“reckonable service”, in relation to service as a Member, means service on and after 3rd June 1959 in Parliament as a Member of Parliament; and in relation to service in any office, means service on and after 3rd June 1959 in that office.
+“reckonable service” means —
 
-[13/95]
+(a) in relation to service as a Member — service in Parliament as a Member of Parliament on and after 3rd June 1959 but not after 20th May 2011; and
+
+(b) in relation to service in any office — service in that office on and after 3rd June 1959 but not after 20th May 2011.
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (2) The reference to service in Parliament in the definition of “reckonable service” in subsection (1) shall be read as including a reference to service in the Legislative Assembly on and after 3rd June 1959 and before 9th August 1965.
 
@@ -124,21 +128,27 @@ PENSIONS AND GRATUITIES FOR MEMBERS, MINISTERS AND OTHER OFFICE-HOLDERS
 
 ### Future and Nominated Members’ eligibility for pension
 
-2A\.—(1) Unless otherwise expressly provided, a future Member shall not be eligible for any pension or gratuity under the provisions of this Act in respect of his reckonable service as a future Member, including any period which may be counted as such service by virtue of section 6.
+2A\.—(1) Unless otherwise expressly provided, a future Member shall not be eligible for any pension or gratuity under the provisions of this Act in respect of his reckonable service as a future Member.
 
 [13/95]
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (2) For the avoidance of doubt —
 
 (a) a future Member who holds any office shall remain eligible for a pension under the provisions of this Act in respect of his reckonable service in that office; and
 
-(b) a person who, on the date immediately before he becomes a future Member, has the minimum period of reckonable service as a Member to be eligible for a pension under section 3 (including any period of reckonable service which may be counted by virtue of section 6), shall remain eligible for a pension under the provisions of this Act in respect of his reckonable service as a Member as of that date.
+(b) a person who, on the date immediately before he becomes a future Member, has the minimum period of reckonable service as a Member to be eligible for a pension under section 3 (including any period of reckonable service which may be counted by virtue of the repealed section 6), shall remain eligible for a pension under the provisions of this Act in respect of his reckonable service as a Member as of that date.
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (3) Any person who on 1st January 1995 is a nominated Member shall not be eligible for a pension under the provisions of this Act in respect of his service as a Member on or after that date.
 
 ### Pensions in respect of service as Members
 
-3\.—(1) Subject to the provisions of this Act, a person who, after 1st September 1978, ceases at any time to be a Member may be granted a pension under this section if he has not less than 9 years’ reckonable service as a Member (whether continuously or not) and has attained the age of 50 years.
+3\.—(1) Subject to the provisions of this Act, a person who, after 1st September 1978, ceases at any time to be a Member may be granted a pension under this section if he has not less than 9 years’ reckonable service as a Member (whether continuously or not).
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (2) The annual amount of pension payable to a Member shall be —
 
@@ -150,17 +160,21 @@ PENSIONS AND GRATUITIES FOR MEMBERS, MINISTERS AND OTHER OFFICE-HOLDERS
 
 (3) Subject to sections 13 and 15, a pension under this section shall continue for the life of the person to whom it is payable but shall not be payable in respect of any period during which he is again a Member or is a candidate for election to Parliament; at the end of that period the pension shall again be payable and shall be re-computed under subsection (2) with the addition of any further period of reckonable service to the period of his former reckonable service as a Member.
 
-(4) For the purposes of subsections (2) and (2A), “annual salary” means the annual equivalent of the highest monthly rate of salary (excluding any non-pensionable allowances) received by a Member during any period of his service as a Member.
+(4) For the purposes of subsections (2) and (2A), “annual salary” means the annual equivalent of the highest monthly rate of salary (excluding any non-pensionable allowances) received by a Member during any period of his reckonable service as a Member.
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (5) For the purposes of subsection (3), a person who ceases to be a Member in consequence of the dissolution of Parliament shall be treated as a candidate for election from the date of the dissolution if he seeks re-election at the next general election.
 
 ### Pensions in respect of service as Prime Minister, Deputy Prime Minister, Speaker, Ministers and other office-holders
 
-4\.—(1) Subject to the provisions of this Act, a person may be granted a pension under this section, in addition to any pension that may be granted to him under section 3, in respect of his reckonable service in any office if, after 1st September 1978, he ceases at any time to hold office and has —
+4\.—(1) Subject to the provisions of this Act, a person may be granted a pension under this section, in addition to any pension that may be granted to him under section 3, in respect of his reckonable service in any office if, after 1st September 1978, he ceases at any time to hold office and has not less than 8 years’ reckonable service as an office-holding Member (whether continuously or not).
 
-(a) not less than 8 years’ reckonable service as an office-holding Member (whether continuously or not); and
+(a) [Deleted by Act 21 of 2012 wef 21/05/2011]
 
-(b) attained the age of 50 years.
+(b) [Deleted by Act 21 of 2012 wef 21/05/2011]
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (2) The annual amount of pension payable to an office-holding Member shall be —
 
@@ -170,11 +184,15 @@ PENSIONS AND GRATUITIES FOR MEMBERS, MINISTERS AND OTHER OFFICE-HOLDERS
 
 (2A) The annual pension payable to any office-holding Member under subsection (2) shall not exceed two-thirds of the highest annual salary of any office held by him.
 
-(3) Subject to sections 13 and 15, a pension granted under this section shall continue for the life of the person to whom it is payable but shall not be payable in respect of any period during which he is again an office-holding Member; at the end of that period the pension shall again be payable and shall be re-computed with the addition of that period to the period of his former reckonable service as an office-holding Member.
+(3) Subject to sections 13 and 15, a pension granted under this section shall continue for the life of the person to whom it is payable but shall not be payable in respect of any period during which he is again an office-holding Member; at the end of that period the pension shall again be payable and shall be re-computed with the addition of that period comprising reckonable service to the period of his former reckonable service as an office-holding Member.
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (4) For the purposes of subsections (2) and (2A), “annual salary”, in relation to any office, means the annual equivalent of the highest monthly rate of salary (excluding any non-pensionable allowances) received by an office-holding Member during any period of reckonable service as a holder of that office.
 
-(5) Where the monthly rate of salary applicable to any office previously held by an office-holding Member is increased during any continuous period of reckonable service while he is an office-holding Member but holding another office, he shall be deemed to have received such increased rate during his period of reckonable service as a holder of that office.
+(5) Where the monthly rate of salary applicable to any office previously held by an office-holding Member is increased before 21st May 2011 during any continuous period of reckonable service while he is an office-holding Member but holding another office, he shall be deemed to have received such increased rate during his period of reckonable service as a holder of that office.
+
+[Act 21 of 2012 wef 21/05/2011]
 
 ### Pensions for serving office-holders after attaining 55 years of age
 
@@ -190,33 +208,33 @@ he may be granted a pension under that section notwithstanding the fact that he 
 
 [18/82]
 
-(2) Subject to sections 13 and 15, a pension granted under section 4 to an office-holding Member by virtue of this section shall continue for the life of the person to whom it is payable and shall, when he ceases to hold office, be re-computed under subsection (2) of that section with the addition of his further period of reckonable service as an office-holding Member to the period of reckonable service which has been used in computing his pension.
+(1A) Subsection (1) shall not apply to an office-holding Member who attains the age of 55 years on or after 21st May 2011.
 
-(3) Where a person has been granted a pension under section 4 after ceasing to hold office and —
+[Act 21 of 2012 wef 21/05/2011]
+
+(2) Subject to sections 13 and 15, where any pension is granted before 21st May 2011 to any office-holding Member under section 4 by virtue of subsection (1), payment of that pension as a full or reduced pension shall stop on or after 21st May 2011 and cease to be payable to that office-holding Member for the period that he remains an office-holding Member and any such pension paid in contravention of this subsection shall be immediately refunded to the Pension Fund; except that at the end of that period when he so ceases to hold office —
+
+(a) all that full or reduced pension which would have been payable, if not for this subsection, between 21st May 2011 and the date he so ceases to hold office (both dates inclusive) shall then be payable in a lump sum (without interest); and
+
+(b) his pension under section 4 shall be re-computed by adding the period of reckonable service between the date the pension was granted and 20th May 2011 (both dates inclusive) to the period of his former reckonable service which had been used in computing his pension.
+
+[Act 21 of 2012 wef 21/05/2011]
+
+(3) Where a person has been granted before 21st May 2011 a pension under section 4 after ceasing to hold office and —
 
 (a) becomes an office-holding Member again after having attained the age of 55 years; or
 
 (b) becomes an office-holding Member again before attaining the age of 55 years, on his attaining that age,
 
-the pension shall, notwithstanding subsection (3) of that section, continue to be payable to him and shall, at the end of his further period as an office-holding Member, be re-computed with the addition of that further period to the period of his former reckonable service as an office-holding Member.
+the pension shall stop on or after 21st May 2011 and cease to be payable to that person for the period that he remains an office-holding Member and any pension paid in contravention of this subsection shall be immediately refunded to the Pension Fund; except that at the end of that period when he so ceases to hold office —
 
-### Service in office, if less than 8 years, to be counted as additional service for Member’s pension
+(i) all that pension which would have been payable, if not for this subsection, between 21st May 2011 and the date he so ceases to hold office (both dates inclusive) shall then be payable in a lump sum (without interest); and
 
-6\.—(1) This section shall apply to a Member (other than a future Member) who has served as an office-holding Member for any period which is less than the minimum period of reckonable service specified in section 4 to be eligible for a pension under that section.
+(ii) his pension under section 4 shall be re-computed by adding the period of reckonable service between the date the pension was granted and 20th May 2011 (both dates inclusive) to the period of his former reckonable service which had been used in computing his pension.
 
-[13/95]
+[Act 21 of 2012 wef 21/05/2011]
 
-(2) The period of service of a Member to whom this section applies shall, for the purposes of determining his eligibility and of computing the amount of the pension payable to him under section 3(1) and (2), be deemed to be increased by such period as may be determined in accordance with the following provisions:
-
-(a) for every year of reckonable service as Prime Minister, Deputy Prime Minister, Speaker, Senior Minister or Minister there shall be added to his period of service one and one-half years (1½) of reckonable service as a Member;
-
-(b) for every year of reckonable service as Senior Minister of State or Minister of State there shall be added to his period of service one year of reckonable service as a Member;
-
-(c) for every year of reckonable service as a Mayor, Senior Parliamentary Secretary, Parliamentary Secretary or Political Secretary there shall be added to his period of service two-thirds (⅔) of a year of reckonable service as a Member;
-
-[15/2002 wef 03/10/2002]
-
-(d) for any fraction of a year of reckonable service in any office there shall be added to his period of service a proportionate part of the appropriate period of reckonable service as a Member.
+6\. [Repealed by Act 21 of 2012 wef 21/05/2011]
 
 ### Commutation of pensions
 
@@ -268,9 +286,11 @@ in respect of his further service as an office-holding Member.
 
 [13/95]
 
-(5) Where any pension granted to a person under this Act is required to be re-computed by adding his further service as a Member or as a holder of any office to any period of reckonable service previously used in computing his pension, the commuted pension gratuity shall be reduced by such amount of pension or gratuity already received by him in respect of the period of reckonable service previously used in computing his pension.
+(5) Where any pension granted to a person under this Act is required to be re-computed by adding his further reckonable service as a Member or as a holder of any office to any period of reckonable service previously used in computing his pension, the commuted pension gratuity shall be reduced by such amount of pension or gratuity already received by him in respect of the period of reckonable service previously used in computing his pension.
 
 [13/95]
+
+[Act 21 of 2012 wef 21/05/2011]
 
 (6) Any commuted pension gratuity to be granted to a person shall be computed in accordance with the provisions of this Act in force at the date when the person becomes eligible for the grant of a pension under this Act, and shall be paid in the prescribed manner.
 
@@ -292,101 +312,11 @@ this section shall remain applicable to such person but only in respect of that 
 
 8\. Pensions under this Act may be paid monthly at the end of each month in which the pensions fall due or at such other intervals as the President may determine either generally or in the circumstances of any particular case.
 
-### Pension granted to person ceasing to be Member or office-holder on medical grounds
+9\. [Repealed by Act 21 of 2012 wef 21/05/2011]
 
-9\.—(1) Where after 1st September 1978 a person ceases at any time to be a Member or to hold office by reason of ill-health and the President is satisfied that on account of such ill-health that person has become incapable of performing the duties of a Member or of his office, he may be granted a pension or gratuity in accordance with this section.
+10\. [Repealed by Act 21 of 2012 wef 21/05/2011]
 
-(2) In the case of a person who ceases to be a Member and —
-
-(a) who has the minimum period of reckonable service to be eligible for a pension under section 3, he may be granted a pension in accordance with that section notwithstanding the fact that he has not attained the age of 50 years;
-
-(b) who does not have the minimum period of reckonable service to be eligible for a pension under section 3, he may be granted a gratuity to be computed —
-
-(i) at the rate of 10% of his annual salary as defined in section 3(4) for each completed year of reckonable service as a Member (including any period of reckonable service which may be counted by virtue of section 6); and
-
-(ii) at the rate of 10% of one-twelfth (1/12) of such annual salary for any completed month remaining after the last completed year of reckonable service.
-
-(3) In the case of a person who ceases to hold office and who has the minimum period of reckonable service to be eligible for a pension under section 4, he may be granted a pension in accordance with that section notwithstanding the fact that he has not attained the age of 50 years.
-
-(4) A person to whom a pension may be granted under this section may, at his option, be paid in lieu of that pension a commuted pension gratuity which shall be ascertained by multiplying the prescribed commutation factor by the amount of such pension that may be granted to him in accordance with this section.
-
-[13/95]
-
-### Gratuity payable on death of Member in certain circumstances
-
-10\.—(1) Where after 1st September 1978 a Member dies while serving as a Member or a Member, having opted under section 7 to receive a full pension without any gratuity, dies within one year of his pension taking effect there may be paid to such of his dependants as the President may think fit or, if there are no dependants, to his legal personal representatives a gratuity in accordance with this section.
-
-[13/95]
-
-(2) In the case of a Member who had never held any office the gratuity shall be an amount equal either to his annual salary as defined in section 3(4) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section), whichever is the greater, less any sums already received by him by way of pension and gratuity under this Act during his lifetime.
-
-[13/95]
-
-(3) In the case of a Member who had previously held office but was not holding office at the time of his death, the gratuity shall be an amount equal either to his annual salary as defined in section 3(4) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section) in respect of both his reckonable service as a Member and as a holder of any office, whichever is the greater, less any sums already received by him by way of pension and gratuity under this Act during his lifetime.
-
-[13/95]
-
-(4) In the case of a Member holding office at the time of his death, the gratuity shall be an amount equal either to the aggregate of his annual salary as defined in sections 3(4) and 4(4) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section) in respect of both his reckonable service as a Member and as a holder of any office, whichever is the greater, less any sums already received by him by way of pension and gratuity under this Act during his lifetime.
-
-[13/95]
-
-(5) In the case of a future Member, the gratuity shall be —
-
-(a) where the Member never held any office — an amount equal to either his annual salary as defined in section 3(4) less the amount specified in subsection (5A) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section) in respect of his reckonable service as a Member before he became a future Member, whichever is the greater;
-
-(b) where the Member had previously held office but was not holding office at the time of his death — an amount equal to either his annual salary as defined in section 3(4) less the amount specified in subsection (5A) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section) in respect of both his reckonable service as a Member before he became a future Member and as a holder of any office, whichever is the greater; or
-
-(c) where the Member held office at the time of his death — an amount equal to either his annual salary as defined in section 4(4) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section) in respect of both his reckonable service as a Member before he became a future Member and as a holder of any office, whichever is the greater,
-
-less any sums already received by him by way of pension or gratuity under this Act during his lifetime.
-
-[13/95]
-
-(5A) The annual salary referred to in subsection (5)(a) or (b) shall be reduced by an amount which shall be the difference between the total amount paid by the Government to the Central Provident Fund on account of the person with respect to his period of reckonable service as a future Member, and the total amount payable by the Government to that Fund on account of the person with respect to that same period of service if the person had been eligible for a pension under this Act.
-
-[13/95]
-
-(5B) Any reference in subsection (5A) to the total amount paid or payable by the Government to the Central Provident Fund in respect of any person shall not include reference to any amount thereof which is recoverable from the person’s salary pursuant to the Central Provident Fund Act [Cap. 36] or any regulations made thereunder.
-
-[13/95]
-
-(5C) For the purposes of this section, in determining the commuted pension gratuity which might have been granted to a Member under section 7(4) —
-
-(a) he shall be deemed to be eligible for the grant of a pension under section 3 or 4 notwithstanding the fact that he has less than the minimum number of years of reckonable service as required by those sections or the fact that he had not attained the age of 50 years; and
-
-(b) in the case of a Member who dies before attaining the age of 50 years, the commuted pension gratuity ascertained in accordance with section 7(4) and this section shall be discounted at the prescribed discount rate in respect of each year or part thereof falling between the date he would have attained the age of 50 years had he not died and the date of his death (both dates inclusive).
-
-[13/95]
-
-(6) No gratuity paid under this section shall be subject to estate duty under the Estate Duty Act [Cap. 96].
-
-### Pension and gratuity granted on incapacity or death of former Member
-
-11\.—(1) This section shall apply in relation to any person —
-
-(a) who has ceased to be a Member;
-
-(b) who would, had he attained the age of 50 years, be eligible for the grant of a pension under section 3 or 4; and
-
-(c) who has not been granted any pension or gratuity under this Act.
-
-(2) If a person to whom this section applies dies before attaining the age of 50 years, there may be paid to such of his dependants as the President may think fit or, if there are no dependants, to his legal personal representatives a gratuity as follows:
-
-(a) the commuted pension gratuity that might have been granted to the person under section 7(4) on his attaining the age of 50 years had he not died, from which gratuity there shall be a discount at the prescribed discount rate in respect of each year or part thereof falling between the date he would have attained the age of 50 years had he not died and the date of his death (both dates inclusive); or
-
-(b) an amount equal to his annual salary as defined in section 3(4),
-
-whichever is the greater.
-
-[13/95]
-
-(3) If the President is satisfied that any person to whom this section applies is physically or mentally incapacitated so as to be unable to continue in any employment before he has attained the age of 50 years, the person may, at his option, be granted either of the following with effect from the date he so satisfies the President that he is so physically or mentally incapacitated, notwithstanding the fact that he has not attained the age of 50 years:
-
-(a) a full pension under section 3 or 4 without any gratuity; or
-
-(b) the commuted pension gratuity that might have been granted to the person under section 7(4) on his attaining the age of 50 years.
-
-[13/95]
+11\. [Repealed by Act 21 of 2012 wef 21/05/2011]
 
 ## PART III
 
@@ -468,7 +398,7 @@ and shall not be liable to be attached, sequestered or levied upon for or in res
 
 (3) If in the case of a Member who on 1st September 1978 has not less than 9 years’ reckonable service and has attained the age of 45 years, the pension which he is eligible to receive under section 3 on his ceasing to be a Member, together with any pension which he is eligible to receive under section 4, is less than the amount of pension which he would have been eligible to receive under the repealed Act in respect of his reckonable service before that date had he ceased to be a Member on that date, his pension under section 3 may be increased by the difference between that amount and the pensions which he is eligible to receive under sections 3 and 4.
 
-(4) Subsection (3) shall not apply to a person who may be granted a pension by virtue of sections 9 and 11.
+(4) [Deleted by Act 21 of 2012 wef 21/05/2011]
 
 (5) Any person who on 1st September 1978 is eligible to receive a pension under section 10 of the repealed Act in respect of his reckonable service under that Act if he had ceased to hold public office as defined by that section may, when he ceases to hold such public office, be granted a pension under the repealed Act in respect of the period of such reckonable service before that date as if the repealed Act had not been repealed by this Act.
 
@@ -511,3 +441,7 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 3/2002 published on 5 April 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|3 October 2002|
+|8.|**Act 21 of 2012—Parliamentary Pensions (Abolition) Act 2012**|
+||Date of First Reading|13 August 2012 (Bill No. 18/2012 published on 13 August 2012)|
+||Date of Second and Third Readings|10 September 2012|
+||Date of commencement|21 May 2011|
