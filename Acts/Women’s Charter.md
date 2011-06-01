@@ -164,6 +164,12 @@
 
 - [71 Enforcement of maintenance order](#Enforcement-of-maintenance-order)
 
+- [71A Bankerʼs guarantee](#Bankerʼs-guarantee)
+
+- [71B Financial counselling](#Financial-counselling)
+
+- [71C Community service orders](#Community-service-orders)
+
 - [72 Rescission and variation of order](#Rescission-and-variation-of-order)
 
 - [73 Power of court to vary agreement for maintenance of child](#Power-of-court-to-vary-agreement-for-maintenance-of-child)
@@ -180,11 +186,15 @@
 
 - [79 Procedure](#Procedure)
 
+- [79A Service of summons](#Service-of-summons)
+
 [**Part IX ENFORCEMENT OF MAINTENANCE ORDERS**](#Part-IX)
 
 - [80 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [81 Power of court to make attachment of earnings order](#Power-of-court-to-make-attachment-of-earnings-order)
+
+- [81A Service of attachment of earnings order](#Service-of-attachment-of-earnings-order)
 
 - [82 Nature of attachment of earnings order](#Nature-of-attachment-of-earnings-order)
 
@@ -275,6 +285,22 @@
 - [120 Maintenance payable under order of court to be inalienable](#Maintenance-payable-under-order-of-court-to-be-inalienable)
 
 - [121 Recovery of arrears of maintenance](#Recovery-of-arrears-of-maintenance)
+
+[**Chapter 4A  Financial relief consequential on foreign matrimonial proceedings**](#Chapter-4A--Financial-relief-consequential-on-foreign-matrimonial-proceedings)
+
+- [121A Interpretation and application of this Chapter](#Interpretation-and-application-of-this-Chapter)
+
+- [121B Applications for financial relief after overseas divorce, etc.](#Applications-for-financial-relief-after-overseas-divorce-etc)
+
+- [121C Jurisdiction of court](#Jurisdiction-of-court)
+
+- [121D Leave of court required for applications for financial relief](#Leave-of-court-required-for-applications-for-financial-relief)
+
+- [121E Interim orders for financial provision](#Interim-orders-for-financial-provision)
+
+- [121F Duty of court to consider whether Singapore is appropriate forum for application](#Duty-of-court-to-consider-whether-Singapore-is-appropriate-forum-for-application)
+
+- [121G Orders for financial relief](#Orders-for-financial-relief)
 
 [**Chapter 5  WELFARE OF CHILDREN**](#Chapter-5--WELFARE-OF-CHILDREN)
 
@@ -666,7 +692,9 @@ SOLEMNIZATION OF MARRIAGES
 
 (2) The Registrar shall not issue a marriage licence until he has been satisfied by statutory declaration made by each of the parties to the proposed marriage —
 
-(a) that one of the parties has been resident within Singapore for at least 15 days preceding the date of the notice;
+(a) that, where any party to the intended marriage is not a citizen or permanent resident of Singapore, at least one of the parties has been physically present in Singapore for a period of at least 15 days preceding the date of the notice;
+
+[2/2011 wef 01/06/2011]
 
 (b) that —
 
@@ -1057,6 +1085,34 @@ are being heard shall consider, from time to time, the possibility of a reconcil
 (3) Failure to comply with any direction or advice referred to in subsection (2) does not constitute a contempt of court.
 
 [30/96]
+
+(3A) A court before which any proceedings under Part X are being heard shall, where the proceedings involve such classes of persons (being persons who have children to the marriage) as may be prescribed by the Minister, do either or both of the following:
+
+(a) order the parties to attend mediation conducted by such person as the court may appoint;
+
+(b) order the parties or their children or both, at any stage in the proceedings, to attend counselling provided by such person as the Minister may approve or as the court may direct.
+
+[2/2011 wef 01/06/2011]
+
+(3B) Notwithstanding subsection (3A), the court may, in any case where it considers that it may not be in the interests of the parties or their children to attend mediation or counselling, as the case may be, dispense with an order requiring such mediation or counselling.
+
+[2/2011 wef 01/06/2011]
+
+(3C) Where the court has made an order under subsection (3A), the parties concerned shall comply with it.
+
+[2/2011 wef 01/06/2011]
+
+(3D) Where a person fails to comply with any direction or advice given by the court under subsection (2) in any proceedings under Part X or any order made by a court under subsection (3A), the court may make such further orders as it thinks fit.
+
+[2/2011 wef 01/06/2011]
+
+(3E) Without prejudice to the generality of subsection (3D), the further orders that may be made by a court under that subsection shall include the following orders:
+
+(c) an order that proceedings shall be stayed until the parties have attended such mediation or counselling as may be specified in any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A); and
+
+(d) such order as to costs as the court thinks appropriate against the party who fails to comply with any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A).
+
+[2/2011 wef 01/06/2011]
 
 (4) Evidence of anything said, or of any admission made, in the course of any mediation or any counselling under this section shall not be admissible in any court.
 
@@ -1456,19 +1512,127 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 (a) for every breach of the order by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court;
 
-(b) sentence him to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid; and
+(b) sentence him to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid;
 
-(c) make a garnishee order in accordance with the rules made under this Act.
+[2/2011 wef 01/06/2011]
+
+(c) make a garnishee order in accordance with the rules made under this Act;
+
+[2/2011 wef 01/06/2011]
 
 [30/96]
+
+(d) order the person to furnish security against any future default in maintenance payments by means of a bankerʼs guarantee which —
+
+(i) shall be valid for such period (not exceeding 3 years) as the court may determine, starting from the date the order for security is made; and
+
+(ii) shall be for an amount not exceeding 3 months of maintenance payable under the maintenance order;
+
+[2/2011 wef 01/06/2011]
+
+(e) if the court considers it in the interests of the parties in the maintenance proceedings or their children to do so, order the person to undergo financial counselling or such other similar or related programme as the court may direct;
+
+[2/2011 wef 01/06/2011]
+
+(f) make a community service order requiring the person to perform any unpaid community service for up to 40 hours under the supervision of a community service officer.
+
+[2/2011 wef 01/06/2011]
 
 (2) A sentence of imprisonment ordered under subsection (1)(b) shall not affect or diminish the obligation of the person against whom the maintenance order is made to make the payment or payments under the maintenance order which he has failed to make, except that the court may, if it thinks fit, reduce the amount of any such payments.
 
 [30/96]
 
+(2A) The court may make an order under subsection (1)(d), (e) or (f) notwithstanding that any arrears of maintenance which gave rise to the proceedings in which the order is made have been paid up in part or in whole by the time the order is made.
+
+[2/2011 wef 01/06/2011]
+
+(2B) If a person fails to make one or more payments payable under a maintenance order and an order is made by the court under subsection (1) stating the amount of arrears, any of the following persons may lodge a report to a designated credit bureau regarding the unpaid arrears stated on the order of court:
+
+(a) the person to or for whom the maintenance is payable;
+
+(b) the caregiver of such person; or
+
+(c) an authorised representative of such person.
+
+[2/2011 wef 01/06/2011]
+
+(2C) The designated credit bureau may, on receipt of the report referred to in subsection (2B), provide the information, either on its own or consolidated with other information pertaining to the credit payment history of the maintenance defaulter, to the members of the credit bureau.
+
+[2/2011 wef 01/06/2011]
+
+(2D) In this section, “designated credit bureau” means an entity that —
+
+(d) collects and maintains information about the credit payment history of a person and provides such information to its members for the purpose of enabling its members to assess the creditworthiness of a person; and
+
+(e) has been designated by the Minister as a credit bureau for the purposes of receiving a report lodged under subsection (2B).
+
+[2/2011 wef 01/06/2011]
+
+(2E) For the avoidance of doubt, a community service order made by the court under subsection (1)(f) shall be deemed not to be a community service order made under the Criminal Procedure Code 2010 (Act 15 of 2010) and sections 346 to 352 of that Act shall not, except as may be provided in this section, apply to a community service order made under subsection (1)(f).
+
+[2/2011 wef 01/06/2011]
+
+(2F) An order made by the court under subsection (1) shall state the name, Singapore identity card number, contact number and address of the person who has defaulted on any maintenance payment and the complainant, except where the court determines it would be inappropriate to do so in any particular case.
+
+[2/2011 wef 01/06/2011]
+
 (3) A maintenance order made by the High Court may be enforced by a District Court in accordance with subsection (1) as if that order had been made by the District Court, except that a District Court shall have no power to vary an order of the High Court.
 
 [26/80]
+
+### Bankerʼs guarantee
+
+71A\.—(4) Where a person has been ordered by the court under section 71(1)(d) to furnish a bankerʼs guarantee, he shall hand the original bankerʼs guarantee to the person to whom maintenance is owed (referred to in this section as a “maintenance claimant”) within one month from the date of the order.
+
+[2/2011 wef 01/06/2011]
+
+(5) Where —
+
+(a) a maintenance claimant makes a demand on the bankerʼs guarantee and no maintenance arrears is owing to the claimant at the time of the demand; or
+
+(b) the amount paid out under a bankerʼs guarantee to the maintenance claimant exceeds the actual amount of maintenance arrears owing to the maintenance claimant at the time the maintenance claimantʼs demand was made on the bankerʼs guarantee,
+
+such amount as is payable or paid that is in excess of the amount of maintenance arrears owing (referred to in this section as “the excess”) shall be set off against the amount of any maintenance which becomes payable by the maintenance defaulter to the maintenance claimant at any time on or after the date of the demand on the bankerʼs guarantee (referred to in this section as “future maintenance liability”).
+
+[2/2011 wef 01/06/2011]
+
+(6) Where there is no future maintenance liability against which the excess may be offset, the maintenance claimant who made the demand on the bankerʼs guarantee giving rise to that excess shall, upon demand by the maintenance defaulter, refund the excess to the maintenance defaulter.
+
+[2/2011 wef 01/06/2011]
+
+(7) Where a refund is not made as required under subsection (6), the maintenance defaulter may recover the amount due to him under that subsection from the person liable to make the refund as if the amount were a civil debt due to the maintenance defaulter.
+
+[2/2011 wef 01/06/2011]
+
+### Financial counselling
+
+71B\. Where a court has made an order under section 71(1)(e) requiring a maintenance defaulter to attend financial counselling or any other related programme but the maintenance defaulter fails to comply with the order, any of the following persons may make a complaint to the court regarding such non-compliance:
+
+(a) the person who is to have provided the financial counselling or conducted such related programme ordered by the court;
+
+(b) the Director, where the court has ordered a maintenance defaulter to attend financial counselling or such related programme under the direction or supervision of the Director.
+
+[2/2011 wef 01/06/2011]
+
+### Community service orders
+
+71C\.—(8) A court shall not make a community service order under section 71(1)(f) against a maintenance defaulter unless the court is satisfied that suitable arrangements can be made for him to perform community service under such an order.
+
+[2/2011 wef 01/06/2011]
+
+(9) Notwithstanding that a community service order has been made under subsection (8), the court may, upon an application by a community service officer and upon being satisfied that the maintenance defaulter concerned is medically unfit to comply with the community service order, rescind the order.
+
+[2/2011 wef 01/06/2011]
+
+(10) The Minister may —
+
+(a) appoint any person to be a community service officer for the purposes of this section;
+
+(b) prescribe the duration within which community service to be performed under a community service order shall be completed; and
+
+(c) make rules, not inconsistent with the provisions of this Part, to make further provisions for the manner in which a community service order may be performed, including the imposition of additional requirements and the service of any instructions or notice on a maintenance defaulter in respect of whom such an order has been made.
+
+[2/2011 wef 01/06/2011]
 
 ### Rescission and variation of order
 
@@ -1520,9 +1684,15 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 ### Procedure
 
-79\.—(1) All applications to a District Court or a Magistrate’s Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by the District Court or the Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
+79\.—(1) Except as otherwise provided in the rules made under subsection (1A), all applications to a District Court or a Magistrate’s Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by the District Court or the Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
+
+[2/2011 wef 01/06/2011]
 
 [30/96]
+
+(1A) The committee constituted under section 139 may make rules fixing and regulating the practice and procedure of any part of the proceedings under this Part as it deems fit.
+
+[2/2011 wef 01/06/2011]
 
 (2) The Rules of Court for the time being in force made under the provisions of the Supreme Court of Judicature Act (Cap. 322) and applicable to appeals from District Courts brought under section 21 of that Act shall apply to all appeals brought under section 77.
 
@@ -1531,6 +1701,42 @@ MAINTENANCE OF WIFE AND CHILDREN
 (4) A court before which any application under this Part or Part VII is heard may make such order as to costs as it thinks fit.
 
 [30/96]
+
+### Service of summons
+
+79A\.—(1) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), a summons issued against a person by a District Court or Family Court under this Part (except an application made under section 69 or 70) may be served on the person concerned —
+
+(a) by delivering it to the person personally;
+
+[2/2011 wef 01/06/2011]
+
+(b) by addressing it to the person and delivering it to an adult person who is a member of the family at the last known address of the place of residence of that person;
+
+[2/2011 wef 01/06/2011]
+
+(c) by addressing it to the person and delivering it to an adult person apparently employed at the last known address of the place of business of that person;
+
+[2/2011 wef 01/06/2011]
+
+(d) by sending it by pre-paid registered post to the last known address of the place of residence or business of the person;
+
+[2/2011 wef 01/06/2011]
+
+(e) by leaving a copy of the summons at the last known address of the place of residence or business of the person in an envelope addressed to him; and
+
+[2/2011 wef 01/06/2011]
+
+(f) where the personʼs last known address of the place of residence or business cannot be ascertained with reasonable diligence, by publishing a copy of the summons in theGazette.
+
+[2/2011 wef 01/06/2011]
+
+(2) Any summons sent by pre-paid registered post to any person in accordance with subsection (1)(d) shall be deemed to be duly served on the person to whom the summons is addressed at the time when the summons would in the ordinary course of post be delivered.
+
+[2/2011 wef 01/06/2011]
+
+(3) In proving service by pre-paid registered post, it shall be sufficient to prove that the cover containing the summons was properly addressed, stamped and posted by pre-paid registered post.
+
+[2/2011 wef 01/06/2011]
 
 ## PART IX
 
@@ -1579,6 +1785,20 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 (2) A District Court may make an attachment of earnings order to secure payments the defendant is required to make under a maintenance order made by the High Court.
 
 [26/80]
+
+### Service of attachment of earnings order
+
+81A\.—(3) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), an attachment of earnings order made by a court may be served on the person to whom the order is directed by pre-paid registered post at the last known address of his place of residence or business (including the registered address of his place of business).
+
+[2/2011 wef 01/06/2011]
+
+(4) Any attachment of earnings order sent by pre-paid registered post to any person in accordance with subsection (3) shall be deemed to be duly served on the person to whom the order is directed at the time when the order would in the ordinary course of post be delivered.
+
+[2/2011 wef 01/06/2011]
+
+(5) In proving service by pre-paid registered post, it shall be sufficient to prove that the cover containing the attachment of earnings order was properly addressed, stamped and posted by prepaid registered post.
+
+[2/2011 wef 01/06/2011]
 
 ### Nature of attachment of earnings order
 
@@ -1636,11 +1856,27 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (ii) such particulars as to the defendant’s earnings as may be so specified; and
 
-(iii) such prescribed particulars as may be so specified for the purpose of enabling the defendant to be identified by any employer of his; and
+(iii) such prescribed particulars as may be so specified for the purpose of enabling the defendant to be identified by any employer of his;
 
-(b) order any person appearing to the court to be an employer of the defendant to give to the court, within such period as may be specified by the order, a statement signed by him or on his behalf of such particulars as may be specified by the order of all earnings of the defendant which fell to be paid by that person during such period as may be so specified.
+[2/2011 wef 01/06/2011]
+
+(b) order any person appearing to the court to be an employer of the defendant to give to the court, within such period as may be specified by the order, a statement signed by him or on his behalf of such particulars as may be specified by the order of all earnings of the defendant which fell to be paid by that person during such period as may be so specified; and
+
+[2/2011 wef 01/06/2011]
+
+(c) order the Central Provident Fund Board to furnish a statement to the person who took out the proceedings stating the following information, if such information is available to the Board based on records kept by the Board:
+
+(i) the name and address of the defendant’s employer or employers or, if the defendant is unemployed, the defendant’s last know employer or employers in the 12 months immediately preceding the date of the order; and
+
+(ii) the contributions, if any, made by the defendant or his employer to the defendant’s Central Provident Fund account in the 12 months immediately preceding the date of the order.
+
+[2/2011 wef 01/06/2011]
 
 (2) A document purporting to be such a statement as is mentioned in subsection (1) shall, in any such proceedings as are so mentioned, be received in evidence and be deemed to be such a statement without further proof unless the contrary is shown.
+
+(3) In this section, “employer” has the same meaning as in section 2(1) of the Central Provident Fund Act (Cap. 36).
+
+[2/2011 wef 01/06/2011]
 
 ### Obligation of defendant and employer to notify changes of employment and earnings
 
@@ -2206,6 +2442,132 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 [42/2005]
 
+Chapter 4A
+
+—
+
+Financial relief consequential on foreign matrimonial proceedings
+
+### Interpretation and application of this Chapter
+
+121A\.—(4) In this Chapter, unless the context otherwise requires —
+
+“applicant” means the person who applies for an order for financial relief;
+
+“country” includes a territory;
+
+“judicial or other proceedings” includes acts which constitute the means by which a divorce, an annulment of marriage or a legal separation may be obtained in a country and which are done in compliance with the law of that country;
+
+“matrimonial asset” has the same meaning as in section 112(10);
+
+“order for financial relief” means an order made under section 121G of a description referred to in that section.
+
+[2/2011 wef 01/06/2011]
+
+(5) This Chapter shall only apply to proceedings, decrees, orders or judgments commenced, made or given, as the case may be, on or after the date of commencement of section 12 of the Womenʼs Charter (Amendment) Act 2011.
+
+[2/2011 wef 01/06/2011]
+
+### Applications for financial relief after overseas divorce, etc.
+
+121B\. Where —
+
+(a) a marriage has been dissolved or annulled, or the parties to a marriage have been legally separated, by means of judicial or other proceedings in a foreign country; and
+
+(b) the divorce, annulment or judicial separation is entitled to be recognised as valid in Singapore under Singapore law,
+
+either party to the marriage may apply to the court in the manner prescribed in the rules made by the committee constituted under section 139 for an order for financial relief under this Chapter.
+
+[2/2011 wef 01/06/2011]
+
+### Jurisdiction of court
+
+121C\. The court shall have jurisdiction to hear an application for an order for financial relief only if —
+
+(c) one of the parties to the marriage was domiciled inSingapore on the date of the application for leave under section 121D or was so domiciled on the date on which the divorce, annulment or judicial separation obtained in a foreign country took effect in that country; or
+
+[2/2011 wef 01/06/2011]
+
+(d) one of the parties to the marriage was habitually resident in Singapore for a continuous period of one year immediately preceding the date of the application for leave under section 121D or was so resident for a continuous period of one year immediately preceding the date on which the divorce, annulment or judicial separation obtained in a foreign country took effect in that country.
+
+[2/2011 wef 01/06/2011]
+
+### Leave of court required for applications for financial relief
+
+121D\.—(6) No application for an order for financial relief shall be made unless the leave of the court has been obtained in accordance with the rules made by the committee constituted under section 139.
+
+[2/2011 wef 01/06/2011]
+
+(7) The court shall not grant leave unless it considers that there is substantial ground for the making of an application for such an order.
+
+[2/2011 wef 01/06/2011]
+
+(8) The court may grant leave under this section notwithstanding that an order has been made by a court of competent jurisdiction in a foreign country requiring the other party to the marriage to make any payment or transfer any matrimonial asset to the applicant or a child of the marriage.
+
+[2/2011 wef 01/06/2011]
+
+(9) Leave under this section may be granted subject to such conditions as the court thinks fit.
+
+### Interim orders for financial provision
+
+121E\.—(10) Where leave is granted under section 121D and it appears to the court that the applicant or any child of the marriage is in immediate financial need, the court may make an interim order for —
+
+(a) a man to make financial provision for his wife or former wife, as the case may be, or any child of the marriage; or
+
+(b) a parent to make financial provision for any child of the marriage.
+
+[2/2011 wef 01/06/2011]
+
+(11) An interim order under subsection (10) may be made for such term, being a term beginning not earlier than the date of the grant of leave and ending with the date of the determination of the application for an order for financial relief, as the court thinks reasonable.
+
+[2/2011 wef 01/06/2011]
+
+(12) An interim order under subsection (10) may be made subject to such conditions as the court thinks fit.
+
+[2/2011 wef 01/06/2011]
+
+### Duty of court to consider whether Singapore is appropriate forum for application
+
+121F\.—(13) Before making an order for financial relief, the court shall consider whether in all the circumstances of the case, it would be appropriate for such an order to be made by a court in Singapore, and if the court is not satisfied that it would be appropriate, the court shall dismiss the application.
+
+[2/2011 wef 01/06/2011]
+
+(14) The court shall, in particular, have regard to the following matters:
+
+(a) the connection which the parties to the marriage have with Singapore;
+
+(b) the connection which those parties have with the country in which the marriage was dissolved or annulled or in which judicial separation was obtained;
+
+(c) the connection which those parties have with any other foreign country;
+
+(d) any financial benefit which the applicant or a child of the marriage has received, or is likely to receive, in consequence of the divorce, annulment or judicial separation, by virtue of any agreement or the operation of the law of a foreign country;
+
+(e) in a case where an order has been made by a court of competent jurisdiction in a foreign country requiring the other party to the marriage to make any payment or transfer any property for the benefit of the applicant or a child of the marriage, the financial relief given by the order and the extent to which the order has been complied with or is likely to be complied with;
+
+(f) any right which the applicant has, or has had, to apply for financial relief from the other party to the marriage under the law of any foreign country, and if the applicant has omitted to exercise that right, the reason for that omission;
+
+(g) the availability in Singapore of any matrimonial asset in respect of which an order made under section 121G in favour of the applicant could be made;
+
+(h) the extent to which any order made under section 121G is likely to be enforceable; and
+
+(i) the length of time which has elapsed since the date of the divorce, annulment or judicial separation.
+
+[2/2011 wef 01/06/2011]
+
+### Orders for financial relief
+
+121G\.—(15) On an application by a party to a marriage for an order for financial relief, the court may make any one or more of the orders which it could have made under section 112, 113 or 127(1) in the like manner as if a decree of divorce, nullity or judicial separation in respect of the marriage had been granted in Singapore.
+
+[2/2011 wef 01/06/2011]
+
+(16) Sections 112(2) to (10), 114 to 121 and 127(2) shall apply, with the necessary modifications, and as appropriate, to an order made under subsection (15).
+
+[2/2011 wef 01/06/2011]
+
+(17) Upon the court making a secured order under subsection (15) or at any time thereafter, the court may make any order which the court could have made if the secured order had been made under section 112, 115 or 127.
+
+[2/2011 wef 01/06/2011]
+
 Chapter 5
 
 —
@@ -2316,7 +2678,9 @@ WELFARE OF CHILDREN
 
 ### Court to have regard to advice of welfare officers, etc.
 
-130\. When considering any question relating to the custody of any child, the court shall, whenever it is practicable, take the advice of some person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
+130\. When considering any question relating to the custody of any child, the court shall, whenever it is practicable, have regard to the advice of a person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
+
+[2/2011 wef 01/06/2011]
 
 [42/2005]
 
@@ -2348,9 +2712,15 @@ issue an injunction restraining the other parent from taking the child out of Si
 
 (b) an order has been made under section 112 and has not been complied with;
 
-(c) an order for maintenance has been made under section 113 or 127 and has not been rescinded; or
+(c) an order for maintenance has been made under section 113 or 127 and has not been rescinded;
+
+[2/2011 wef 01/06/2011]
 
 (d) maintenance is payable under any agreement to or for the benefit of a wife or former wife or child,
+
+(e) an order has been made under section 121E or 121G and has not been rescinded or complied with,
+
+[2/2011 wef 01/06/2011]
 
 the court shall have power on application —
 
@@ -3378,3 +3748,8 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|22.|**Act 2 of 2011—Women’s Charter (Amendment) Act 2011**|
+||Date of First Reading|22 November 2010|
+|||(Bill No. 34/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|10 January 2011|
+||Date of commencement|1 June 2011 (sections 2(a), 5 to 14 — Amendment of Women’s Charter)|
